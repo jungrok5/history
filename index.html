@@ -280,6 +280,18 @@
   .love-verse p{font-family:var(--serif);font-size:15px;line-height:1.7;margin:0 0 16px;color:var(--ink)}
   .love-verse span{display:block;font-family:var(--sans);font-size:12.5px;color:var(--accent);margin-top:5px}
 
+  /* 이 콘텐츠에 대하여 */
+  .about{padding:60px 0 52px;background:var(--bg2)}
+  .about h2{font-family:var(--serif);text-align:center;font-size:clamp(20px,5.4vw,28px);margin:0 0 24px}
+  .about-grid{display:grid;grid-template-columns:1fr;gap:12px}
+  @media(min-width:640px){.about-grid{grid-template-columns:1fr 1fr}}
+  .ab{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:15px 16px}
+  .ab h4{margin:0 0 6px;font-size:13px;color:var(--accent)}
+  .ab p{margin:0;font-size:13.5px;color:var(--ink)}
+  .ab p b{color:var(--accent)}
+  .about-note{max-width:50ch;margin:20px auto 0;text-align:center;font-size:13px;color:var(--muted)}
+  .about-note b{color:var(--ink)}
+
   footer{padding:30px 22px 42px;text-align:center;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}
 
   @media(prefers-reduced-motion:reduce){
@@ -435,7 +447,20 @@
   <p class="small">이 줄거리 위에 율법·시가서·예언서·서신서가 “살”을 붙입니다.<br>이제 어느 책을 펴도 “지금 이야기의 어디쯤인지” 보일 거예요.</p>
 </section>
 
-<footer>한눈에 보는 성경 이야기 · 성경 인용은 개역개정판 기준 · 연대는 통용되는 추정치입니다.</footer>
+<section class="about" data-title="이 콘텐츠에 대하여" data-label="안내">
+  <div class="wrap">
+    <h2 class="reveal">이 콘텐츠에 대하여</h2>
+    <div class="about-grid">
+      <div class="ab reveal"><h4>📐 관점</h4><p>한국 개신교 대다수가 공유하는 <b>복음주의·개혁주의 구속사(救贖史)</b> 관점에 기반합니다. 줄거리 골격은 <b>창조 – 타락 – 구속 – 완성(회복)</b>의 성경신학 구조를 따릅니다.</p></div>
+      <div class="ab reveal"><h4>📖 본문</h4><p>인용 구절은 <b>개역개정판</b> 기준입니다. 연대(BC·AD)는 통용되는 학계 추정치로, 견해차가 있을 수 있습니다.</p></div>
+      <div class="ab reveal"><h4>✅ 신앙의 기준</h4><p>핵심 교리는 사도신경·니케아 신경, 웨스트민스터 신앙고백서 등 <b>정통 신조가 공통으로 고백하는 내용</b>(삼위일체, 원죄, 이신칭의, 오직 은혜, 예수님의 신성·대속·부활)과 일치하도록 정리했습니다.</p></div>
+      <div class="ab reveal"><h4>⚠️ 검수 안내</h4><p>본 자료는 <b>AI가 작성</b>한 것으로, 특정 교단·신학교의 <b>공식 감수를 거치지 않았습니다.</b> 가르침이나 전파에 사용하시기 전, <b>출석 교회의 목사·교역자</b>나 소속 교단 자료로 확인하시길 권합니다.</p></div>
+    </div>
+    <p class="about-note reveal">‘흔한 오해 → 사실은’의 일부 설명(예: 자유의지, 종말의 형태, 가나안 정복 등)은 교단에 따라 강조가 다를 수 있는 <b>해석</b>임을 밝혀 둡니다.</p>
+  </div>
+</section>
+
+<footer>한눈에 보는 성경 이야기 · 인용 본문 개역개정판 · 복음주의·개혁주의 구속사 관점 · 공식 감수 전 자료(교역자 확인 권장)</footer>
 
 <script>
 /* ---------- 12 에폭 데이터 ---------- */
@@ -548,7 +573,7 @@ const EPOCHS=[
 /* ---------- 흔한 오해 → 사실은 (13장면 순서) ---------- */
 const MIS=[
  {w:'“하나님은 왜 죄지을 수 있는 사람을 만들었을까? 차라리 안 만드는 게 낫지 않았나?”',
-  t:'진짜 사랑은 강요가 아니라 자유 속의 관계입니다. 하나님은 정해진 대로만 움직이는 로봇이 아니라, 사랑으로 응답할 수 있는 인격적 존재를 원하셨습니다. 위험을 감수하고 사랑을 택하신 것입니다.'},
+  t:'하나님은 부족함 때문이 아니라 넘치는 사랑으로 세상과 사람을 지으셨습니다. 사람을 하나님과 ‘관계 맺는 인격적 존재’로 지으신 것 자체가 사랑입니다. 또한 죄가 들어올 것조차 하나님의 구원 계획 밖이 아니었습니다(엡 1:4-5). 성경의 첫 장면은 심판이 아니라 사랑입니다.'},
  {w:'“고작 열매 하나 먹었다고 쫓아내고 죽음까지 주시다니, 하나님이 너무 가혹한 것 아닌가?”',
   t:'에덴에서 내보내신 것은 형벌인 동시에 자비였습니다. 하나님과 단절된 채 생명나무를 먹고 그 망가진 상태로 영원히 살면 영원히 고통에 갇히게 됩니다(창 3:22). 죽음을 허락하신 것은 회복의 길을 여시기 위함이었고, 하나님은 바로 그 자리에서 구원자를 약속하셨습니다(창 3:15). 심판 속에 이미 사랑이 있었습니다.'},
  {w:'“아브라함은 믿음 좋은 위인이라 선택받았다 — 성경 인물은 다 도덕적 영웅이다.”',
@@ -572,7 +597,7 @@ const MIS=[
  {w:'“교회는 완벽한 사람들의 종교 클럽이거나 그냥 건물이다.”',
   t:'교회는 ‘완성된 성인(聖人)’이 아니라 ‘용서받은 죄인들’의 공동체입니다. 초대 교회도 다투고 실수했습니다. 교회는 자랑하는 곳이 아니라, 받은 사랑을 함께 흘려보내는 사람들입니다.'},
  {w:'“천국은 구름 위에서 하프나 켜는 지루한 곳 / 세상은 결국 불타 사라진다.”',
-  t:'성경의 결말은 영혼이 어디론가 도피하는 것이 아니라, 망가진 이 세상이 ‘회복’되는 것입니다 — 새 하늘과 새 땅. 눈물도 죽음도 없는, 에덴보다 더 좋은 실재입니다. 하나님의 사랑 이야기가 마침내 완성되는 곳입니다.'}
+  t:'성경의 결말은 영혼이 어디론가 도피해 한가로이 떠 있는 것이 아닙니다. 부활한 몸으로, 눈물도 죽음도 없는 ‘새 하늘과 새 땅’에서 하나님과 영원히 사는 것입니다(계 21:1-4). 지루한 도피가 아니라 에덴보다 더 충만한 실재 — 하나님의 사랑 이야기가 완성되는 곳입니다.'}
 ];
 
 /* ---------- 복음의 핵심 메시지 ---------- */
