@@ -766,7 +766,22 @@ const EN_PACK={menuName:`English`,htmlLang:`en`,dir:`ltr`,brand:`Bible in One Sc
 };
 
 const PACKS={en:EN_PACK};
-const LANGS=[{code:'ko',native:'한국어',en:'Korean'},{code:'en',native:'English',en:'English'}];
+const LANGS=[
+ {code:'ko',native:'한국어',en:'Korean'},
+ {code:'en',native:'English',en:'English'},
+ {code:'zh-Hans',native:'中文（简体）',en:'Chinese (Simplified)'}
+];
+const NAV_MAP={'zh':'zh-Hans','zh-cn':'zh-Hans','zh-sg':'zh-Hans','zh-hans':'zh-Hans','zh-tw':'zh-Hant','zh-hk':'zh-Hant','zh-hant':'zh-Hant'};
+function hasLang(c){return c==='ko'||LANGS.some(l=>l.code===c);}
+function resolveNav(nav){
+  nav=(nav||'').toLowerCase(); if(!nav) return null;
+  for(const l of LANGS){ if(nav===l.code.toLowerCase()) return l.code; }
+  if(NAV_MAP[nav]&&hasLang(NAV_MAP[nav])) return NAV_MAP[nav];
+  const base=nav.split('-')[0];
+  if(NAV_MAP[base]&&hasLang(NAV_MAP[base])) return NAV_MAP[base];
+  for(const l of LANGS){ if(l.code.toLowerCase().split('-')[0]===base) return l.code; }
+  return null;
+}
 
 const I18N_NODES=[...document.querySelectorAll('[data-i18n]')];
 const ORIG={}; I18N_NODES.forEach(n=>{ORIG[n.getAttribute('data-i18n')]=n.innerHTML;});
@@ -852,8 +867,15 @@ function bindContact(){
 
 /* 언어 적용 */
 function applyLang(code){
-  const pack = code==='ko'?KO_PACK:PACKS[code];
-  if(!pack) return;
+  if(code==='ko') return doApply(KO_PACK,'ko');
+  if(PACKS[code]) return doApply(PACKS[code],code);
+  // 외부 언어 팩 로드 (i18n/<code>.json)
+  fetch('i18n/'+code+'.json',{cache:'no-cache'})
+    .then(r=>{ if(!r.ok) throw 0; return r.json(); })
+    .then(p=>{ PACKS[code]=p; doApply(p,code); })
+    .catch(()=>{ /* 실패 시 현재 언어 유지 */ });
+}
+function doApply(pack,code){
   curPack=pack; curCode=code;
   const html=document.documentElement;
   html.setAttribute('lang',pack.htmlLang||code);
@@ -901,11 +923,10 @@ document.addEventListener('click',(e)=>{if(!langPanel.hidden&&!langPanel.contain
   try{
     const q=new URLSearchParams(location.search).get('lang');
     const sv=localStorage.getItem('lang');
-    const nav=(navigator.language||'').toLowerCase();
-    if(q&&(q==='ko'||PACKS[q]))code=q;
-    else if(sv&&(sv==='ko'||PACKS[sv]))code=sv;
-    else if(nav&&!nav.startsWith('ko')&&PACKS[nav.split('-')[0]])code=nav.split('-')[0];
-    else if(nav&&!nav.startsWith('ko'))code='en';
+    const nav=navigator.language||'';
+    if(q&&hasLang(q))code=q;
+    else if(sv&&hasLang(sv))code=sv;
+    else { const r=resolveNav(nav); if(r)code=r; else if(nav&&!nav.toLowerCase().startsWith('ko'))code='en'; }
   }catch(e){}
   applyLang(code);
 })();
