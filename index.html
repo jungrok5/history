@@ -207,6 +207,47 @@
   .reveal{opacity:0;transform:translateY(28px);transition:opacity .7s ease,transform .7s ease}
   .reveal.in{opacity:1;transform:none}
 
+  /* 나의 응답 */
+  .respond{margin-top:30px;padding:26px 22px;border-radius:18px;text-align:center;
+    background:linear-gradient(160deg,rgba(233,185,73,.16),var(--card));border:1px solid rgba(233,185,73,.30)}
+  :root.sepia .respond{background:linear-gradient(160deg,rgba(176,125,35,.16),var(--card))}
+  .respond h3{font-family:var(--serif);font-size:clamp(20px,5vw,26px);margin:0 0 8px}
+  .respond .r-sub{font-size:14.5px;color:var(--muted);margin:0 auto 18px;max-width:40ch}
+  .respond .r-sub b{color:var(--accent)}
+  .r-steps{display:flex;flex-direction:column;gap:10px;max-width:440px;margin:0 auto 18px;text-align:left}
+  .r-step{display:flex;gap:12px;align-items:flex-start;background:var(--card);border:1px solid var(--line);
+    border-radius:13px;padding:13px 15px}
+  .r-step .rn{font-family:var(--serif);font-weight:700;color:#0e1118;background:var(--accent);
+    width:26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex:none}
+  :root.sepia .r-step .rn{color:#efe6d3}
+  .r-step b{display:block;font-size:15px}
+  .r-step span{font-size:13.5px;color:var(--muted)}
+  .r-verse{font-family:var(--serif);font-size:14px;color:var(--accent);max-width:46ch;margin:0 auto;line-height:1.7}
+
+  /* 부록: 언약 + 구조 */
+  .extra{padding:74px 0 60px;border-bottom:1px solid var(--line)}
+  .extra h2{font-family:var(--serif);text-align:center;font-size:clamp(24px,6.4vw,34px);margin:0 0 8px}
+  .extra .extra-sub{text-align:center;color:var(--muted);margin:0 0 30px;font-size:15px}
+  .extra h3{font-family:var(--serif);font-size:18px;margin:34px 0 14px}
+  .cov{display:flex;flex-direction:column}
+  .cov-item{position:relative;padding:11px 0 11px 26px;border-left:2px solid var(--line)}
+  .cov-item:last-child{border-left-color:transparent}
+  .cov-item::before{content:"";position:absolute;left:-7px;top:16px;width:12px;height:12px;border-radius:50%;
+    background:var(--bg);border:2px solid var(--accent)}
+  .cov-item.done::before{background:var(--accent)}
+  .cov-item b{display:block;font-size:15px;color:var(--accent)}
+  .cov-item span{font-size:13.5px;color:var(--ink)}
+  .struct{display:grid;grid-template-columns:1fr;gap:14px}
+  @media(min-width:600px){.struct{grid-template-columns:1fr 1fr}}
+  .st-col{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px}
+  .st-col h4{margin:0 0 8px;font-size:14px;color:var(--accent);letter-spacing:.05em}
+  .st-col ul{margin:0;padding:0;list-style:none}
+  .st-col li{font-size:14px;padding:6px 0;border-bottom:1px dashed var(--line)}
+  .st-col li:last-child{border-bottom:none}
+  .st-col li b{color:var(--ink)}
+  .struct-note{text-align:center;color:var(--muted);font-size:14px;margin-top:20px}
+  .struct-note b{color:var(--accent)}
+
   footer{padding:30px 22px 42px;text-align:center;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}
 
   @media(prefers-reduced-motion:reduce){
@@ -239,7 +280,7 @@
     <div class="eyebrow">성경 전체를 꿰는 한 문장</div>
     <h2>성경은 결국 한 편의 이야기입니다</h2>
     <div class="flow"><b>약속</b><span class="arw">→</span><b>기다림</b><span class="arw">→</span><b>성취</b></div>
-    <p class="note">하나님이 <b>약속</b>하시고(언약), 사람들이 오랫동안 <b>기다리며</b>, 마침내 예수님 안에서 <b>성취</b>됩니다. 아래 12장면을 이 흐름으로 따라가 보세요. 각 카드의 <b>‘자세히 보기’</b>를 누르면 더 깊은 이야기가 펼쳐집니다.</p>
+    <p class="note">하나님이 <b>약속</b>하시고(언약), 사람들이 오랫동안 <b>기다리며</b>, 마침내 예수님 안에서 <b>성취</b>되고 완성됩니다. 아래 13장면을 이 흐름으로 따라가 보세요. 각 카드의 <b>‘자세히 보기’</b>를 누르면 더 깊은 이야기가 펼쳐집니다.</p>
   </div>
 </section>
 
@@ -271,14 +312,66 @@
         <p class="v">눅 1:1-4 · 고전 15:14, 17 · 벧후 1:16 (개역개정)</p>
       </div>
     </div>
+
+    <div class="respond reveal">
+      <h3>그래서, 나는 어떻게?</h3>
+      <p class="r-sub">성경은 정보가 아니라 <b>초대</b>입니다. 머리로 아는 데서 끝나지 않습니다.</p>
+      <div class="r-steps">
+        <div class="r-step"><span class="rn">1</span><div><b>인정</b><span>나는 스스로 구원할 수 없는 죄인임을 인정합니다.</span></div></div>
+        <div class="r-step"><span class="rn">2</span><div><b>믿음</b><span>예수님이 나를 위해 죽고 다시 사셨음을 믿고 신뢰합니다.</span></div></div>
+        <div class="r-step"><span class="rn">3</span><div><b>돌이킴</b><span>회개하고, 그분을 주인으로 모시며 새 삶을 시작합니다.</span></div></div>
+      </div>
+      <div class="r-verse">“네가 만일 네 입으로 예수를 주로 시인하며 또 하나님께서 그를 죽은 자 가운데서 살리신 것을 네 마음에 믿으면 구원을 받으리라” — 롬 10:9 · 행 2:38 · 요 1:12 (개역개정)</div>
+    </div>
   </div>
 </section>
 
 <section class="review" data-title="암기 카드" data-label="암기카드">
   <div class="wrap">
     <h2>암기 플래시카드</h2>
-    <p class="sub">카드를 탭하면 뒤집힙니다 · 12장면을 스스로 떠올려 보세요</p>
+    <p class="sub">카드를 탭하면 뒤집힙니다 · 13장면을 스스로 떠올려 보세요</p>
     <div class="cards" id="cards"></div>
+  </div>
+</section>
+
+<section class="extra" data-title="언약과 구조" data-label="언약·구조">
+  <div class="wrap">
+    <h2 class="reveal">한눈에 더 보기</h2>
+    <p class="extra-sub reveal">성경을 꿰는 ‘언약’의 흐름과 66권의 큰 구조</p>
+
+    <h3 class="reveal">🔗 하나의 약속이 점점 또렷해지다 — 언약의 흐름</h3>
+    <div class="cov reveal">
+      <div class="cov-item"><b>아브라함 언약</b><span>“모든 족속이 너로 말미암아 복을 받으리라” (창 12)</span></div>
+      <div class="cov-item"><b>모세(시내산) 언약</b><span>“너희는 내 백성이 되리라” + 율법 (출 19–24)</span></div>
+      <div class="cov-item"><b>다윗 언약</b><span>“네 왕위가 영원하리라” (삼하 7)</span></div>
+      <div class="cov-item"><b>새 언약</b><span>“마음에 새기리라” — 예수님의 피로 이루심 (렘 31 · 눅 22)</span></div>
+      <div class="cov-item done"><b>완성</b><span>새 하늘과 새 땅에서 하나님과 영원히 함께 (계 21)</span></div>
+    </div>
+
+    <h3 class="reveal">📚 성경 66권 한눈 구조</h3>
+    <div class="struct reveal">
+      <div class="st-col">
+        <h4>구약 39권</h4>
+        <ul>
+          <li><b>율법서 (5)</b> · 창세기–신명기</li>
+          <li><b>역사서 (12)</b> · 여호수아–에스더</li>
+          <li><b>시가서 (5)</b> · 욥기–아가</li>
+          <li><b>대선지서 (5)</b> · 이사야–다니엘</li>
+          <li><b>소선지서 (12)</b> · 호세아–말라기</li>
+        </ul>
+      </div>
+      <div class="st-col">
+        <h4>신약 27권</h4>
+        <ul>
+          <li><b>복음서 (4)</b> · 마태–요한</li>
+          <li><b>역사서 (1)</b> · 사도행전</li>
+          <li><b>바울 서신 (13)</b> · 로마서–빌레몬서</li>
+          <li><b>일반 서신 (8)</b> · 히브리서–유다서</li>
+          <li><b>예언서 (1)</b> · 요한계시록</li>
+        </ul>
+      </div>
+    </div>
+    <p class="struct-note reveal">이번 여행에서 따라온 <b>역사서</b>가 성경의 뼈대이고, 나머지 책들이 그 위에 ‘살’을 붙입니다.</p>
   </div>
 </section>
 
@@ -386,6 +479,14 @@ const EPOCHS=[
   q:'오직 성령이 너희에게 임하시면 … 땅 끝까지 이르러 내 증인이 되리라', cite:'사도행전 1:8',
   christ:'이 이야기는 지금도 이어집니다. 성경은 예수님이 다시 오셔서 모든 것을 새롭게 하실 것을 약속하며 마칩니다(계 21장).',
   detail:`<p>예수님의 승천 후, 약속하신 성령이 오순절에 임하며 교회가 탄생합니다. 복음은 폭발적으로 퍼져 나갑니다.</p><ul><li><b>오순절</b> · 성령 강림으로 두려워하던 제자들이 담대한 증인으로 변합니다.</li><li><b>베드로</b> · 예루살렘에서 유대인에게 복음을 전합니다.</li><li><b>바울</b> · 박해자에서 사도로 바뀌어, 이방 세계 곳곳에 교회를 세우고 서신서를 씁니다.</li><li><b>땅끝으로</b> · 예루살렘 → 유대 → 사마리아 → 로마. 아브라함에게 한 “모든 족속” 약속이 실현됩니다.</li><li><b>그리고 우리</b> · 이 이야기는 끝나지 않고, 예수님의 재림과 새 하늘·새 땅을 향해 계속됩니다.</li></ul>`,
+  next:'하지만 이야기는 여기서 끝나지 않습니다…'},
+
+ {emoji:'🌅',tag:'신약 · 완성',title:'회복',ref:'요한계시록 21–22',date:'장차',c1:'rgba(251,191,36,.28)',c2:'#fbbf24',
+  one:'예수님이 다시 오셔서 모든 것을 새롭게 하신다.',
+  people:'다시 오시는 예수님, 모든 민족', events:'예수님의 재림, 최후의 심판, 죄·죽음·눈물의 끝, 새 하늘과 새 땅', word:'약속의 완성 — 에덴보다 더 좋은 회복',
+  q:'모든 눈물을 그 눈에서 닦아 주시니 다시는 사망이 없고 애통하는 것이나 곡하는 것이나 아픈 것이 다시 있지 아니하리니', cite:'요한계시록 21:4',
+  christ:'처음 창조의 에덴이 마지막엔 ‘새 예루살렘’으로 회복됩니다. 하나님이 사람과 영원히 함께 거하시는 임마누엘의 완성입니다.',
+  detail:`<p>성경은 교회 시대로 끝나지 않습니다. 마지막 책 요한계시록은 예수님이 <b>다시 오셔서</b> 모든 것을 완성하시는 장면을 보여 줍니다.</p><ul><li><b>재림</b> · 약속하신 왕이 영광 중에 다시 오십니다.</li><li><b>심판과 부활</b> · 모든 잘못이 바로잡히고, 죽은 자가 다시 살아납니다.</li><li><b>새 하늘과 새 땅</b> · 죄·죽음·눈물·고통이 영원히 사라집니다(계 21:4).</li><li><b>회복된 에덴</b> · 처음보다 더 좋은 ‘새 예루살렘’에서 하나님이 사람과 영원히 함께 거하십니다 — 성경 전체가 향해 온 결말.</li></ul><p>그래서 지금은 <b>“이미, 그러나 아직(already – not yet)”</b>의 시대입니다. 구원은 예수님으로 <b>이미</b> 이루어졌지만, 완성은 <b>아직</b> 기다리는 중입니다.</p>`,
   next:'그렇다면 이 모든 이야기가 ‘나’에게 무슨 뜻일까요?'}
 ];
 
@@ -406,6 +507,9 @@ const CORE=[
  {ic:'📖',title:'성경은 예수님을 가리킨다',
   body:'성경은 위인전이나 처세서가 아닙니다. 창세기부터 요한계시록까지 모든 페이지가 한 분, 예수 그리스도를 증언합니다.',
   vref:'요 5:39 · 눅 24:27',vtext:'이 성경이 곧 내게 대하여 증언하는 것이니라 … 모든 성경에 쓴 바 자기에 관한 것을 자세히 설명하시니라'},
+ {ic:'👑',title:'하나님 나라 — 예수님의 중심 메시지',
+  body:'예수님이 가장 많이 가르치신 주제. ‘하나님이 왕으로 다스리시는 나라’가 예수님과 함께 이 땅에 들어왔고, 그분이 다시 오실 때 온전히 완성됩니다.',
+  vref:'마가복음 1:15',vtext:'때가 찼고 하나님의 나라가 가까이 왔으니 회개하고 복음을 믿으라'},
  {ic:'✝️',title:'복음 — 그분이 다 이루셨다',
   body:'내가 치를 수 없는 죄의 값을 예수님이 십자가에서 대신 치르시고, 부활로 죽음을 이기셨습니다. 나는 “행하라”가 아니라 “이루어졌다”에 기댑니다.',
   vref:'요 19:30 · 롬 5:8',vtext:'다 이루었다 … 우리가 아직 죄인 되었을 때에 그리스도께서 우리를 위하여 죽으심으로'}
