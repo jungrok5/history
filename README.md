@@ -12,7 +12,7 @@
 
 ## 다국어
 브라우저(OS) 언어를 자동 감지하며, 우측 상단 🌐에서 검색해 전환할 수 있습니다.
-한국어 · English · 中文(简/繁) · 日本語 · Español · Português(BR) · Français · Deutsch · Русский · العربية(RTL) · हिन्दी · Bahasa Indonesia *(베트남어·태국어 추가 예정)*
+한국어 · English · 中文(简/繁) · 日本語 · Español · Português(BR) · Français · Deutsch · Русский · العربية(RTL) · हिन्दी · Bahasa Indonesia · Tiếng Việt · ไทย *(총 15개 언어)*
 
 성경 인용은 각 언어의 대표 번역본을 사용합니다 — 개역개정, ESV, 和合本, 新共同訳, RVR1960, Almeida, Louis Segond, Lutherbibel, Синодальный, Van Dyck 등.
 
