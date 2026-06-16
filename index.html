@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#10131a" />
+<title>한눈에 보는 성경 이야기 · 창조에서 교회까지</title>
+<meta name="description" content="구약 역사서 · 중간 침묵기 · 신약 역사서를 한 줄거리로. 스크롤하며 성경의 핵심을 머릿속에 그려보세요." />
+<style>
+  :root{
+    --bg:#0e1118; --bg2:#141925; --ink:#f4efe6; --muted:#9aa3b2;
+    --line:rgba(255,255,255,.12); --card:rgba(255,255,255,.04);
+    --accent:#e9b949; --maxw:760px;
+    --serif:"Nanum Myeongjo",Georgia,"Times New Roman",serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",Roboto,sans-serif;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0;background:var(--bg);color:var(--ink);
+    font-family:var(--sans);line-height:1.75;
+    -webkit-font-smoothing:antialiased;overflow-x:hidden;
+  }
+  img{max-width:100%}
+  a{color:inherit}
+
+  /* progress bar */
+  #progress{position:fixed;top:0;left:0;height:4px;width:0;
+    background:linear-gradient(90deg,#e9b949,#e87a5d,#9b5de5);
+    z-index:100;transition:width .12s ease-out}
+
+  /* top label */
+  #topbar{position:fixed;top:0;left:0;right:0;z-index:90;
+    display:flex;align-items:center;gap:8px;padding:10px 16px;
+    font-size:13px;color:var(--muted);
+    background:linear-gradient(180deg,rgba(14,17,24,.92),rgba(14,17,24,0));
+    backdrop-filter:blur(6px);pointer-events:none}
+  #topbar b{color:var(--ink)}
+  #topbar .dot{width:8px;height:8px;border-radius:50%;background:var(--accent);
+    box-shadow:0 0 12px var(--accent)}
+
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
+
+  /* hero */
+  .hero{min-height:100svh;display:flex;flex-direction:column;justify-content:center;
+    align-items:center;text-align:center;padding:90px 22px 60px;position:relative;
+    background:
+      radial-gradient(120% 80% at 50% -10%,rgba(233,185,73,.18),transparent 60%),
+      radial-gradient(100% 60% at 50% 120%,rgba(155,93,229,.18),transparent 60%);}
+  .hero .kicker{font-size:13px;letter-spacing:.35em;color:var(--accent);
+    text-transform:uppercase;margin-bottom:22px}
+  .hero h1{font-family:var(--serif);font-weight:700;line-height:1.3;
+    font-size:clamp(30px,8vw,54px);margin:0 0 18px}
+  .hero h1 .em{color:var(--accent)}
+  .hero p{color:var(--muted);font-size:clamp(15px,4.2vw,18px);max-width:30ch;margin:0 auto}
+  .scrollcue{margin-top:46px;color:var(--muted);font-size:13px;animation:bob 1.8s ease-in-out infinite}
+  .scrollcue span{display:block;font-size:22px;margin-top:4px}
+  @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(8px)}}
+
+  /* throughline strip */
+  .thread{padding:64px 0;text-align:center;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+    background:var(--bg2)}
+  .thread .eyebrow{color:var(--accent);font-size:13px;letter-spacing:.2em;margin-bottom:14px}
+  .thread h2{font-family:var(--serif);font-size:clamp(22px,6vw,32px);margin:0 0 26px}
+  .thread .flow{display:flex;justify-content:center;align-items:center;gap:10px;flex-wrap:wrap;
+    font-family:var(--serif);font-size:clamp(16px,4.6vw,22px)}
+  .thread .flow b{padding:8px 16px;border:1px solid var(--line);border-radius:999px;background:var(--card)}
+  .thread .flow .arw{color:var(--accent);font-size:20px}
+  .thread .note{color:var(--muted);font-size:14px;margin-top:24px;max-width:34ch;margin-left:auto;margin-right:auto}
+
+  /* epoch sections */
+  .epoch{padding:78px 0 64px;position:relative;border-bottom:1px solid var(--line)}
+  .epoch .glow{position:absolute;inset:0;pointer-events:none;opacity:.5;
+    background:radial-gradient(120% 50% at 50% 0%,var(--c1),transparent 55%)}
+  .ep-head{position:relative}
+  .badge{display:inline-flex;align-items:center;gap:10px;margin-bottom:18px}
+  .badge .num{font-family:var(--serif);font-size:13px;font-weight:700;color:#0e1118;
+    background:var(--c2);width:30px;height:30px;border-radius:50%;
+    display:flex;align-items:center;justify-content:center}
+  .badge .ref{font-size:12.5px;color:var(--muted);letter-spacing:.08em}
+  .ep-icon{font-size:46px;line-height:1;margin-bottom:14px;
+    filter:drop-shadow(0 6px 18px var(--c1))}
+  .epoch h2{font-family:var(--serif);font-size:clamp(26px,7vw,40px);margin:0 0 6px;line-height:1.25}
+  .epoch h2 small{display:block;font-family:var(--sans);font-weight:600;
+    font-size:13px;letter-spacing:.18em;color:var(--c2);margin-bottom:8px}
+  .oneline{font-family:var(--serif);font-size:clamp(18px,5vw,23px);color:var(--ink);
+    margin:18px 0 26px;padding-left:16px;border-left:3px solid var(--c2)}
+
+  .grid{display:grid;gap:12px;margin:22px 0}
+  .chip{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+  .chip h4{margin:0 0 4px;font-size:12px;letter-spacing:.12em;color:var(--c2);text-transform:uppercase}
+  .chip p{margin:0;font-size:15px;color:var(--ink)}
+
+  .verse{position:relative;margin:26px 0;padding:20px 20px 18px;border-radius:16px;
+    background:linear-gradient(180deg,var(--card),transparent);
+    border:1px solid var(--line)}
+  .verse .q{font-family:var(--serif);font-size:18px;line-height:1.7}
+  .verse .cite{margin-top:10px;font-size:13px;color:var(--accent);letter-spacing:.05em}
+  .verse::before{content:"“";font-family:var(--serif);position:absolute;top:2px;left:14px;
+    font-size:54px;color:var(--c2);opacity:.45}
+
+  .thread-line{display:flex;gap:12px;align-items:flex-start;margin-top:24px;
+    padding:16px;border-radius:14px;background:rgba(233,185,73,.07);
+    border:1px solid rgba(233,185,73,.22)}
+  .thread-line .t{font-size:22px;line-height:1}
+  .thread-line div p{margin:0;font-size:14.5px;color:#f0e7d2}
+  .thread-line div b{color:var(--accent)}
+
+  .next{margin-top:30px;font-size:15px;color:var(--muted);font-style:italic;
+    display:flex;align-items:center;gap:10px}
+  .next::before{content:"";width:26px;height:1px;background:var(--muted)}
+
+  /* reveal animation */
+  .reveal{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s ease}
+  .reveal.in{opacity:1;transform:none}
+
+  /* review */
+  .review{padding:80px 0 70px;background:
+      radial-gradient(120% 70% at 50% 0%,rgba(155,93,229,.16),transparent 60%)}
+  .review h2{font-family:var(--serif);text-align:center;font-size:clamp(24px,6.5vw,36px);margin:0 0 8px}
+  .review .sub{text-align:center;color:var(--muted);margin:0 0 34px;font-size:15px}
+  .steps{display:flex;flex-direction:column;gap:10px}
+  .step{display:flex;gap:14px;align-items:center;padding:14px 16px;border-radius:14px;
+    background:var(--card);border:1px solid var(--line)}
+  .step .n{font-family:var(--serif);font-weight:700;min-width:26px;color:var(--accent)}
+  .step .e{font-size:22px}
+  .step .tx b{display:block;font-size:15px}
+  .step .tx span{font-size:13px;color:var(--muted)}
+
+  .closing{text-align:center;padding:60px 22px 110px}
+  .closing p{font-family:var(--serif);font-size:clamp(19px,5.4vw,26px);line-height:1.6;max-width:24ch;margin:0 auto}
+  .closing .small{font-family:var(--sans);font-size:14px;color:var(--muted);margin-top:26px}
+
+  /* minimap nav */
+  #map{position:fixed;right:10px;top:50%;transform:translateY(-50%);z-index:80;
+    display:flex;flex-direction:column;gap:9px}
+  #map button{width:11px;height:11px;border-radius:50%;border:1px solid var(--line);
+    background:rgba(255,255,255,.18);padding:0;cursor:pointer;position:relative;transition:.2s}
+  #map button.active{background:var(--accent);transform:scale(1.45);box-shadow:0 0 10px var(--accent)}
+  #map button::after{content:attr(data-l);position:absolute;right:18px;top:50%;
+    transform:translateY(-50%);white-space:nowrap;font-size:11px;color:var(--ink);
+    background:rgba(20,25,37,.95);border:1px solid var(--line);padding:3px 8px;border-radius:6px;
+    opacity:0;pointer-events:none;transition:.15s}
+  #map button:hover::after,#map button.active::after{opacity:1}
+  @media (max-width:520px){#map{display:none}}
+
+  footer{padding:30px 22px 40px;text-align:center;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}
+</style>
+</head>
+<body>
+
+<div id="progress"></div>
+<div id="topbar"><span class="dot"></span><span id="topbar-text"><b>한눈에 보는 성경 이야기</b></span></div>
+<nav id="map"></nav>
+
+<!-- HERO -->
+<header class="hero" data-title="시작" data-label="시작">
+  <div class="kicker">창조에서 교회까지</div>
+  <h1>한눈에 보는<br><span class="em">성경 이야기</span></h1>
+  <p>스크롤 한 번으로 성경의 큰 줄거리를 머릿속에 그려보세요.</p>
+  <div class="scrollcue">아래로 스크롤<span>↓</span></div>
+</header>
+
+<!-- THROUGHLINE -->
+<section class="thread" data-title="하나의 줄거리" data-label="줄거리">
+  <div class="wrap reveal">
+    <div class="eyebrow">성경 전체를 꿰는 한 문장</div>
+    <h2>성경은 결국 한 편의 이야기입니다</h2>
+    <div class="flow">
+      <b>약속</b><span class="arw">→</span><b>기다림</b><span class="arw">→</span><b>성취</b>
+    </div>
+    <p class="note">하나님이 <b>약속</b>하시고(언약), 사람들이 오랫동안 <b>기다리며</b>, 마침내 예수님 안에서 <b>성취</b>됩니다. 12개의 장면을 이 흐름으로 따라가 보세요.</p>
+  </div>
+</section>
+
+<!-- ========== EPOCHS ========== -->
+
+<!-- 1 -->
+<section class="epoch" data-title="창조" data-label="창조" style="--c1:rgba(96,165,250,.30);--c2:#60a5fa">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">1</span><span class="ref">창세기 1–2</span></div>
+      <div class="ep-icon">🌍</div>
+      <h2><small>구약 · 시작</small>창조</h2>
+    </div>
+    <div class="oneline">하나님이 보시기에 “심히 좋은” 세상을 지으셨다.</div>
+    <div class="grid">
+      <div class="chip"><h4>핵심 인물</h4><p>하나님, 아담과 하와</p></div>
+      <div class="chip"><h4>핵심 사건</h4><p>엿새 동안의 창조, 사람을 하나님의 형상대로 지으심, 안식</p></div>
+      <div class="chip"><h4>한마디로</h4><p>모든 것이 완전하고 평화로운 출발</p></div>
+    </div>
+    <div class="verse"><div class="q">태초에 하나님이 천지를 창조하시니라</div><div class="cite">창세기 1:1 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · “말씀”으로 세상이 지어졌습니다. 요한복음은 바로 그 말씀이 예수님이라고 선언합니다(요 1:1-3).</p></div></div>
+    <div class="next">하지만 이 완전함은 곧 깨집니다…</div>
+  </div>
+</section>
+
+<!-- 2 -->
+<section class="epoch" data-title="타락" data-label="타락" style="--c1:rgba(232,122,93,.30);--c2:#e87a5d">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">2</span><span class="ref">창세기 3</span></div>
+      <div class="ep-icon">🍎</div>
+      <h2><small>구약 · 문제의 시작</small>타락</h2>
+    </div>
+    <div class="oneline">죄가 들어와 사람과 하나님 사이가 끊어졌다.</div>
+    <div class="grid">
+      <div class="chip"><h4>핵심 인물</h4><p>아담과 하와, 뱀(사탄)</p></div>
+      <div class="chip"><h4>핵심 사건</h4><p>선악과를 먹음, 에덴에서 쫓겨남, 죽음이 들어옴</p></div>
+      <div class="chip"><h4>한마디로</h4><p>성경 전체가 풀어야 할 “문제”의 발생</p></div>
+    </div>
+    <div class="verse"><div class="q">내가 너로 여자와 원수가 되게 하고 … 여자의 후손은 네 머리를 상하게 할 것이요</div><div class="cite">창세기 3:15 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · 타락 직후 첫 복음의 약속. “여자의 후손”이 뱀의 머리를 깨뜨릴 것 — 이분이 바로 예수님이십니다.</p></div></div>
+    <div class="next">이제 하나님은 한 사람을 부르셔서 회복을 시작하십니다…</div>
+  </div>
+</section>
+
+<!-- 3 -->
+<section class="epoch" data-title="족장 시대" data-label="족장" style="--c1:rgba(233,185,73,.30);--c2:#e9b949">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">3</span><span class="ref">창세기 12–50</span></div>
+      <div class="ep-icon">⛺</div>
+      <h2><small>구약 · 약속</small>족장 시대</h2>
+    </div>
+    <div class="oneline">아브라함에게 “복의 통로가 되리라” 약속하시다.</div>
+    <div class="grid">
+      <div class="chip"><h4>핵심 인물</h4><p>아브라함 · 이삭 · 야곱 · 요셉</p></div>
+      <div class="chip"><h4>핵심 사건</h4><p>아브라함 언약, 이삭을 바침, 야곱의 열두 아들, 요셉이 애굽의 총리가 됨</p></div>
+      <div class="chip"><h4>한마디로</h4><p>한 가족을 통해 온 민족·온 세상을 향한 계획</p></div>
+    </div>
+    <div class="verse"><div class="q">내가 너로 큰 민족을 이루고 … 땅의 모든 족속이 너로 말미암아 복을 얻을 것이라</div><div class="cite">창세기 12:2-3 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · “모든 족속이 복을 얻는다”는 약속은 아브라함의 후손으로 오신 예수님 안에서 이루어집니다(갈 3:16).</p></div></div>
+    <div class="next">요셉을 따라 내려간 가족이 애굽에서 노예가 됩니다…</div>
+  </div>
+</section>
+
+<!-- 4 -->
+<section class="epoch" data-title="출애굽 · 광야" data-label="출애굽" style="--c1:rgba(239,68,68,.30);--c2:#ef6363">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">4</span><span class="ref">출애굽기–신명기</span></div>
+      <div class="ep-icon">🔥</div>
+      <h2><small>구약 · 구원</small>출애굽 · 광야</h2>
+    </div>
+    <div class="oneline">하나님이 노예 된 백성을 건져 내 자기 백성으로 삼으셨다.</div>
+    <div class="grid">
+      <div class="chip"><h4>핵심 인물</h4><p>모세, 아론, 바로</p></div>
+      <div class="chip"><h4>핵심 사건</h4><p>열 가지 재앙, 유월절, 홍해를 건넘, 시내산 십계명, 성막, 40년 광야</p></div>
+      <div class="chip"><h4>한마디로</h4><p>구약 전체의 핵심 “구원 사건”</p></div>
+    </div>
+    <div class="verse"><div class="q">너희를 내 백성으로 삼고 나는 너희의 하나님이 되리니</div><div class="cite">출애굽기 6:7 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · 어린 양의 피로 죽음을 피한 유월절은 “우리의 유월절 양” 예수님의 십자가를 미리 보여 줍니다(고전 5:7).</p></div></div>
+    <div class="next">약속의 땅 문 앞에 선 백성, 이제 들어갑니다…</div>
+  </div>
+</section>
+
+<!-- 5 -->
+<section class="epoch" data-title="정복 · 사사" data-label="사사" style="--c1:rgba(52,211,153,.28);--c2:#34d399">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">5</span><span class="ref">여호수아 · 사사기 · 룻기</span></div>
+      <div class="ep-icon">🗡️</div>
+      <h2><small>구약 · 정착</small>정복과 사사 시대</h2>
+    </div>
+    <div class="oneline">땅은 얻었지만, 왕이 없어 제멋대로 행하다.</div>
+    <div class="grid">
+      <div class="chip"><h4>핵심 인물</h4><p>여호수아, 기드온 · 삼손 등 사사들, 룻</p></div>
+      <div class="chip"><h4>핵심 사건</h4><p>여리고 정복, 가나안 정착, 반복되는 죄–심판–구원의 악순환</p></div>
+      <div class="chip"><h4>한마디로</h4><p>참된 왕(지도자)의 필요성이 드러남</p></div>
+    </div>
+    <div class="verse"><div class="q">그 때에 이스라엘에 왕이 없으므로 사람이 각기 자기의 소견에 옳은 대로 행하였더라</div><div class="cite">사사기 21:25 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · 룻의 후손에서 다윗이, 다윗의 계보에서 예수님이 오십니다(마 1장). 혼돈 속에도 메시아의 족보가 이어집니다.</p></div></div>
+    <div class="next">백성은 “우리에게도 왕을 달라”고 외칩니다…</div>
+  </div>
+</section>
+
+<!-- 6 -->
+<section class="epoch" data-title="통일 왕국" data-label="통일왕국" style="--c1:rgba(168,139,250,.30);--c2:#a78bfa">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">6</span><span class="ref">사무엘상–열왕기상</span></div>
+      <div class="ep-icon">👑</div>
+      <h2><small>구약 · 전성기</small>통일 왕국</h2>
+    </div>
+    <div class="oneline">다윗에게 “네 왕위가 영원하리라” 약속하시다.</div>
+    <div class="grid">
+      <div class="chip"><h4>핵심 인물</h4><p>사울 · 다윗 · 솔로몬</p></div>
+      <div class="chip"><h4>핵심 사건</h4><p>첫 왕 사울, 다윗과 골리앗, 다윗 언약, 솔로몬의 성전 건축</p></div>
+      <div class="chip"><h4>한마디로</h4><p>이스라엘의 황금기, 그리고 영원한 왕 약속</p></div>
+    </div>
+    <div class="verse"><div class="q">네 집과 네 나라가 내 앞에서 영원히 보전되고 네 왕위가 영원히 견고하리라</div><div class="cite">사무엘하 7:16 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · “영원한 왕위”는 다윗의 자손으로 오신 예수님 안에서 성취됩니다 — 그래서 예수님을 “다윗의 자손”이라 부릅니다.</p></div></div>
+    <div class="next">솔로몬 이후, 나라는 둘로 쪼개집니다…</div>
+  </div>
+</section>
+
+<!-- 7 -->
+<section class="epoch" data-title="분열 왕국" data-label="분열왕국" style="--c1:rgba(251,146,60,.28);--c2:#fb923c">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">7</span><span class="ref">열왕기 · 역대기 · 예언서</span></div>
+      <div class="ep-icon">⚔️</div>
+      <h2><small>구약 · 쇠퇴</small>분열 왕국</h2>
+    </div>
+    <div class="oneline">남(유다)과 북(이스라엘)으로 갈라져 점점 타락하다.</div>
+    <div class="grid">
+      <div class="chip"><h4>핵심 구도</h4><p>북이스라엘(10지파) · 남유다(2지파)</p></div>
+      <div class="chip"><h4>핵심 사건</h4><p>왕국 분열, 우상 숭배, 엘리야 · 이사야 · 예레미야 등 선지자들의 경고</p></div>
+      <div class="chip"><h4>한마디로</h4><p>경고를 무시하다 무너지기 직전까지</p></div>
+    </div>
+    <div class="verse"><div class="q">이스라엘이 다윗의 집을 배반하여 오늘까지 이르렀더라</div><div class="cite">열왕기상 12:19 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · 이 시기 선지자들이 “장차 오실 메시아”를 점점 더 또렷이 예언합니다(예: 사 9:6, 사 53장).</p></div></div>
+    <div class="next">결국 경고대로 심판이 임합니다 — 포로로 끌려갑니다…</div>
+  </div>
+</section>
+
+<!-- 8 -->
+<section class="epoch" data-title="포로" data-label="포로" style="--c1:rgba(100,116,139,.32);--c2:#94a3b8">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">8</span><span class="ref">열왕기하 · 다니엘 · 에스겔</span></div>
+      <div class="ep-icon">⛓️</div>
+      <h2><small>구약 · 심판</small>포로 시대</h2>
+    </div>
+    <div class="oneline">나라가 무너지고 백성이 이방 땅으로 끌려가다.</div>
+    <div class="grid">
+      <div class="chip"><h4>핵심 사건</h4><p>북이스라엘이 앗수르에 멸망(주전 722), 남유다가 바벨론에 멸망·성전 파괴(주전 586)</p></div>
+      <div class="chip"><h4>핵심 인물</h4><p>다니엘, 에스겔, 느부갓네살</p></div>
+      <div class="chip"><h4>한마디로</h4><p>가장 어두운 밤, 그러나 회복의 약속은 남음</p></div>
+    </div>
+    <div class="verse"><div class="q">우리가 바벨론의 여러 강변 거기 앉아서 시온을 기억하며 울었도다</div><div class="cite">시편 137:1 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · 예레미야는 이 절망 속에서 “새 언약”을 약속합니다(렘 31:31) — 예수님이 마지막 만찬에서 이루신 그 언약입니다.</p></div></div>
+    <div class="next">70년 후, 하나님이 길을 여십니다 — 고향으로 돌아갑니다…</div>
+  </div>
+</section>
+
+<!-- 9 -->
+<section class="epoch" data-title="귀환" data-label="귀환" style="--c1:rgba(45,212,191,.28);--c2:#2dd4bf">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">9</span><span class="ref">에스라 · 느헤미야 · 에스더 · 학개 · 말라기</span></div>
+      <div class="ep-icon">🧱</div>
+      <h2><small>구약 · 회복</small>포로 귀환</h2>
+    </div>
+    <div class="oneline">돌아와 성전과 성벽을 다시 세우다.</div>
+    <div class="grid">
+      <div class="chip"><h4>핵심 인물</h4><p>에스라, 느헤미야, 에스더, 스룹바벨</p></div>
+      <div class="chip"><h4>핵심 사건</h4><p>고레스 칙령으로 귀환, 성전 재건, 예루살렘 성벽 복구, 말씀 회복</p></div>
+      <div class="chip"><h4>한마디로</h4><p>구약 역사서의 마지막 — 그러나 아직 “왕”은 없음</p></div>
+    </div>
+    <div class="verse"><div class="q">여호와로 인하여 기뻐하는 것이 너희의 힘이니라</div><div class="cite">느헤미야 8:10 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · 구약의 마지막 책 말라기는 “내가 내 사자를 보내리라”(말 3:1)며 메시아의 길을 예비할 자를 예고하고 끝납니다.</p></div></div>
+    <div class="next">그리고… 하늘이 닫힌 듯 400년의 침묵이 흐릅니다.</div>
+  </div>
+</section>
+
+<!-- 10 -->
+<section class="epoch" data-title="중간 침묵기" data-label="침묵기" style="--c1:rgba(71,85,105,.36);--c2:#cbd5e1">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">10</span><span class="ref">신·구약 사이 · 약 400년</span></div>
+      <div class="ep-icon">🌑</div>
+      <h2><small>중간기 · 무대 준비</small>침묵기</h2>
+    </div>
+    <div class="oneline">선지자의 음성이 멈춘 400년, 그러나 무대는 조용히 준비되었다.</div>
+    <div class="grid">
+      <div class="chip"><h4>제국의 교체</h4><p>페르시아 → 그리스(알렉산더) → 애굽·시리아의 지배 → 마카비 독립 항쟁 → 로마 제국</p></div>
+      <div class="chip"><h4>준비된 환경</h4><p>회당과 율법 교육의 정착, 헬라어 공용어(복음 전파의 길), 로마의 도로와 평화(팍스 로마나)</p></div>
+      <div class="chip"><h4>생겨난 집단</h4><p>바리새파 · 사두개파 · 서기관, 그리고 “메시아를 향한 간절한 기다림”</p></div>
+    </div>
+    <div class="verse"><div class="q">때가 차매 하나님이 그 아들을 보내사 여자에게서 나게 하시고</div><div class="cite">갈라디아서 4:4 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · 이 모든 “무대 준비”는 정확히 <b>“때가 찼을 때”</b> 예수님이 오시게 하기 위한 하나님의 침묵 속 일하심이었습니다.</p></div></div>
+    <div class="next">그리고 침묵을 깨고 — 마침내 그분이 오십니다.</div>
+  </div>
+</section>
+
+<!-- 11 -->
+<section class="epoch" data-title="예수님의 오심" data-label="예수님" style="--c1:rgba(250,204,21,.34);--c2:#facc15">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">11</span><span class="ref">마태 · 마가 · 누가 · 요한복음</span></div>
+      <div class="ep-icon">✝️</div>
+      <h2><small>신약 · 성취</small>예수님의 오심</h2>
+    </div>
+    <div class="oneline">약속하신 메시아가 오셔서, 죽고, 다시 살아나셨다.</div>
+    <div class="grid">
+      <div class="chip"><h4>핵심 사건</h4><p>성탄(성육신), 공생애와 가르침·기적, 십자가의 죽음, 사흘 만의 부활</p></div>
+      <div class="chip"><h4>핵심 의미</h4><p>타락(2장)으로 생긴 죄와 죽음의 “문제”가 십자가와 부활로 해결됨</p></div>
+      <div class="chip"><h4>한마디로</h4><p>성경 전체가 향해 온 절정 — “성취”</p></div>
+    </div>
+    <div class="verse"><div class="q">말씀이 육신이 되어 우리 가운데 거하시매 … 은혜와 진리가 충만하더라</div><div class="cite">요한복음 1:14 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · 여자의 후손(2장), 아브라함의 복(3장), 유월절 어린 양(4장), 다윗의 영원한 왕(6장), 새 언약(8장)이 <b>한 사람 예수님 안에서 모두 이루어집니다.</b></p></div></div>
+    <div class="next">부활하신 예수님은 제자들을 세상으로 보내십니다…</div>
+  </div>
+</section>
+
+<!-- 12 -->
+<section class="epoch" data-title="교회의 시작" data-label="교회" style="--c1:rgba(155,93,229,.32);--c2:#9b5de5">
+  <div class="glow"></div>
+  <div class="wrap reveal">
+    <div class="ep-head">
+      <div class="badge"><span class="num">12</span><span class="ref">사도행전</span></div>
+      <div class="ep-icon">🕊️</div>
+      <h2><small>신약 · 확장</small>교회의 시작</h2>
+    </div>
+    <div class="oneline">성령이 임하시고, 복음이 땅끝을 향해 퍼져 나가다.</div>
+    <div class="grid">
+      <div class="chip"><h4>핵심 인물</h4><p>베드로, 바울, 그리고 초대 교회</p></div>
+      <div class="chip"><h4>핵심 사건</h4><p>오순절 성령 강림, 교회 탄생, 핍박을 뚫고 예루살렘 → 로마로 복음 전파</p></div>
+      <div class="chip"><h4>한마디로</h4><p>아브라함에게 한 약속(“모든 족속”)이 실제로 온 세상으로</p></div>
+    </div>
+    <div class="verse"><div class="q">오직 성령이 너희에게 임하시면 … 땅 끝까지 이르러 내 증인이 되리라</div><div class="cite">사도행전 1:8 (개역개정)</div></div>
+    <div class="thread-line"><div class="t">🧵</div><div><p><b>그리스도 실</b> · 이 이야기는 지금도 이어집니다. 그리고 성경은 예수님이 다시 오셔서 모든 것을 새롭게 하실 것을 약속하며 마칩니다(계 21장).</p></div></div>
+    <div class="next">자, 이제 전체를 한눈에 정리해 볼까요?</div>
+  </div>
+</section>
+
+<!-- REVIEW -->
+<section class="review" data-title="한눈에 복습" data-label="복습">
+  <div class="wrap reveal">
+    <h2>12장면 한눈에 복습</h2>
+    <p class="sub">약속 → 기다림 → 성취. 아래 흐름을 머릿속에 그려 보세요.</p>
+    <div class="steps">
+      <div class="step"><span class="n">1</span><span class="e">🌍</span><span class="tx"><b>창조</b><span>완전한 시작</span></span></div>
+      <div class="step"><span class="n">2</span><span class="e">🍎</span><span class="tx"><b>타락</b><span>죄라는 문제 발생</span></span></div>
+      <div class="step"><span class="n">3</span><span class="e">⛺</span><span class="tx"><b>족장 시대</b><span>아브라함에게 약속</span></span></div>
+      <div class="step"><span class="n">4</span><span class="e">🔥</span><span class="tx"><b>출애굽·광야</b><span>구원과 율법</span></span></div>
+      <div class="step"><span class="n">5</span><span class="e">🗡️</span><span class="tx"><b>정복·사사</b><span>왕이 필요해지다</span></span></div>
+      <div class="step"><span class="n">6</span><span class="e">👑</span><span class="tx"><b>통일 왕국</b><span>다윗의 영원한 왕 약속</span></span></div>
+      <div class="step"><span class="n">7</span><span class="e">⚔️</span><span class="tx"><b>분열 왕국</b><span>타락과 선지자의 경고</span></span></div>
+      <div class="step"><span class="n">8</span><span class="e">⛓️</span><span class="tx"><b>포로</b><span>심판, 그러나 새 언약 약속</span></span></div>
+      <div class="step"><span class="n">9</span><span class="e">🧱</span><span class="tx"><b>귀환</b><span>회복, 아직 왕은 없음</span></span></div>
+      <div class="step"><span class="n">10</span><span class="e">🌑</span><span class="tx"><b>침묵기</b><span>400년, 무대 준비</span></span></div>
+      <div class="step"><span class="n">11</span><span class="e">✝️</span><span class="tx"><b>예수님</b><span>모든 약속의 성취</span></span></div>
+      <div class="step"><span class="n">12</span><span class="e">🕊️</span><span class="tx"><b>교회</b><span>복음이 땅끝까지</span></span></div>
+    </div>
+  </div>
+</section>
+
+<section class="closing reveal">
+  <p>한 분의 하나님이,<br>한 편의 이야기로,<br>한 분 예수님을 향해 가십니다.</p>
+  <p class="small">이 줄거리 위에 율법·시가서·예언서·서신서가 “살”을 붙입니다.<br>이제 어느 책을 펴도 “지금 이야기의 어디쯤인지” 보일 거예요.</p>
+</section>
+
+<footer>한눈에 보는 성경 이야기 · 성경 인용은 개역개정판 기준입니다.</footer>
+
+<script>
+  // progress bar
+  const prog=document.getElementById('progress');
+  const onScroll=()=>{
+    const h=document.documentElement;
+    const max=h.scrollHeight-h.clientHeight;
+    prog.style.width=(max>0?(h.scrollTop/max*100):0)+'%';
+  };
+  window.addEventListener('scroll',onScroll,{passive:true});onScroll();
+
+  // sections with titles
+  const sections=[...document.querySelectorAll('[data-title]')];
+
+  // reveal on enter
+  const ro=new IntersectionObserver((es)=>{
+    es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')});
+  },{threshold:.15});
+  document.querySelectorAll('.reveal').forEach(el=>ro.observe(el));
+
+  // minimap
+  const map=document.getElementById('map');
+  sections.forEach((s,i)=>{
+    const b=document.createElement('button');
+    b.dataset.l=s.dataset.label||('·');
+    b.addEventListener('click',()=>s.scrollIntoView({behavior:'smooth'}));
+    map.appendChild(b);
+  });
+  const dots=[...map.children];
+  const topText=document.getElementById('topbar-text');
+
+  // active section tracking
+  const active=new IntersectionObserver((es)=>{
+    es.forEach(e=>{
+      if(e.isIntersecting){
+        const i=sections.indexOf(e.target);
+        dots.forEach((d,j)=>d.classList.toggle('active',j===i));
+        const t=e.target.dataset.title;
+        topText.innerHTML= i===0?'<b>한눈에 보는 성경 이야기</b>':('<b>'+t+'</b>');
+      }
+    });
+  },{threshold:.5});
+  sections.forEach(s=>active.observe(s));
+</script>
+</body>
+</html>
