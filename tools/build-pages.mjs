@@ -96,11 +96,18 @@ function ogSvg(m){
   <text x="600" y="560" text-anchor="middle" font-family="${DEFAULT_SUB}" font-size="26" fill="#9aa3b2">one-scroll-bible.vercel.app</text>
 </svg>`;
 }
+let imgOK = 0, imgSkip = 0;
 function buildImage(m){
   const out = m.code==='ko' ? `${root}/og.png` : `${root}/og-${m.code}.png`;
   const tmp = `/tmp/og-${m.code}.svg`;
-  fs.writeFileSync(tmp, ogSvg(m));
-  execSync(`rsvg-convert -w 1200 -h 630 "${tmp}" -o "${out}"`);
+  try{
+    fs.writeFileSync(tmp, ogSvg(m));
+    execSync(`rsvg-convert -w 1200 -h 630 "${tmp}" -o "${out}"`, { stdio:'ignore' });
+    imgOK++;
+  }catch(e){
+    // rsvg-convert/폰트가 없는 환경(예: Vercel 빌드)에서는 건너뛰고 커밋된 이미지를 그대로 사용
+    imgSkip++;
+  }
   return out.split('/').pop();
 }
 
@@ -168,4 +175,5 @@ const urls = LANGS.map(L => {
 fs.writeFileSync(`${root}/sitemap.xml`, `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`);
 
 console.log('생성된 언어 페이지:', generated.join(', '));
+console.log('OG 이미지: 생성', imgOK, '· 건너뜀', imgSkip, imgSkip?'(rsvg/폰트 없음 → 커밋된 이미지 사용)':'');
 console.log('완료. 총', LANGS.length, '개 언어 (루트=ko + 하위', generated.length, '개)');
