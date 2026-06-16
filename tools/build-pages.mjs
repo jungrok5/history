@@ -3,7 +3,7 @@
 import fs from 'node:fs';
 import { execSync } from 'node:child_process';
 
-const ORIGIN = 'https://one-scroll-bible.vercel.app';
+const ORIGIN = 'https://one-scroll-bible.com';
 const root = process.cwd();
 
 // 언어 메타 (순서 = 메뉴 순서). ko는 루트(/) 페이지.
@@ -93,7 +93,7 @@ function ogSvg(m){
   <text x="600" y="180" text-anchor="middle" font-family="${DEFAULT_TITLE}" font-size="64" fill="#e9b949">✝</text>
   <text x="600" y="262" text-anchor="middle" font-family="${fs2}" font-weight="bold" font-size="28" letter-spacing="${ls}" fill="#e9b949">${xml(m.kicker)}</text>
   <text x="600" y="${360+(70-tsize)/2}" text-anchor="middle" font-family="${ft}" font-weight="bold" font-size="${tsize}" fill="#f4efe6">${xml(m.brand)}</text>
-  <text x="600" y="560" text-anchor="middle" font-family="${DEFAULT_SUB}" font-size="26" fill="#9aa3b2">one-scroll-bible.vercel.app</text>
+  <text x="600" y="560" text-anchor="middle" font-family="${DEFAULT_SUB}" font-size="26" fill="#9aa3b2">one-scroll-bible.com</text>
 </svg>`;
 }
 let imgOK = 0, imgSkip = 0;
@@ -135,16 +135,16 @@ function makePage(m){
     `<meta charset="UTF-8" />\n<base href="${ORIGIN}/" />\n<script>window.__BOOTLANG__=${JSON.stringify(m.code)}</script>\n${HREF}`);
   h = h.replace(/<title>[\s\S]*?<\/title>/, `<title>${xml(m.docTitle)}</title>`);
   h = h.replace(/(<meta name="description" content=")[^"]*(")/, `$1${xml(m.desc)}$2`);
-  h = h.replace('<link rel="canonical" href="https://one-scroll-bible.vercel.app/" />', `<link rel="canonical" href="${url}" />`);
+  h = h.replace('<link rel="canonical" href="https://one-scroll-bible.com/" />', `<link rel="canonical" href="${url}" />`);
   h = h.replace('<meta property="og:title" content="한눈에 보는 성경 이야기 · 창조에서 교회까지" />', `<meta property="og:title" content="${xml(m.docTitle)}" />`);
   h = h.replace('<meta property="og:description" content="스크롤 한 번으로 성경의 큰 줄거리와 예수님이 오신 이유를 만나보세요." />', `<meta property="og:description" content="${xml(m.desc)}" />`);
-  h = h.replace('<meta property="og:url" content="https://one-scroll-bible.vercel.app/" />', `<meta property="og:url" content="${url}" />`);
+  h = h.replace('<meta property="og:url" content="https://one-scroll-bible.com/" />', `<meta property="og:url" content="${url}" />`);
   h = h.replace('<meta property="og:locale" content="ko_KR" />', `<meta property="og:locale" content="${m.locale}" />`);
-  h = h.replace('<meta property="og:image" content="https://one-scroll-bible.vercel.app/og.png" />', `<meta property="og:image" content="${img}" />`);
+  h = h.replace('<meta property="og:image" content="https://one-scroll-bible.com/og.png" />', `<meta property="og:image" content="${img}" />`);
   h = h.replace('<meta property="og:image:alt" content="한눈에 보는 성경 이야기 · 창조에서 교회까지" />', `<meta property="og:image:alt" content="${xml(m.docTitle)}" />`);
   h = h.replace('<meta name="twitter:title" content="한눈에 보는 성경 이야기" />', `<meta name="twitter:title" content="${xml(m.brand)}" />`);
   h = h.replace('<meta name="twitter:description" content="스크롤 한 번으로 성경의 큰 줄거리와 예수님이 오신 이유를 만나보세요." />', `<meta name="twitter:description" content="${xml(m.desc)}" />`);
-  h = h.replace('<meta name="twitter:image" content="https://one-scroll-bible.vercel.app/og.png" />', `<meta name="twitter:image" content="${img}" />`);
+  h = h.replace('<meta name="twitter:image" content="https://one-scroll-bible.com/og.png" />', `<meta name="twitter:image" content="${img}" />`);
   return h;
 }
 
@@ -161,7 +161,7 @@ for (const L of LANGS) {
 // ---- 루트(index.html)에 hreflang 주입 (없을 때만) ----
 let rootHtml = fs.readFileSync(`${root}/index.html`, 'utf8');
 if (!rootHtml.includes('hreflang=')) {
-  rootHtml = rootHtml.replace('<link rel="canonical" href="https://one-scroll-bible.vercel.app/" />',
+  rootHtml = rootHtml.replace('<link rel="canonical" href="https://one-scroll-bible.com/" />',
     `<link rel="canonical" href="${ORIGIN}/" />\n${HREF}`);
   fs.writeFileSync(`${root}/index.html`, rootHtml);
 }
