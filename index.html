@@ -4,19 +4,20 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 <meta name="theme-color" content="#0e1118" />
+<meta name="color-scheme" content="dark light" />
 <title>한눈에 보는 성경 이야기 · 창조에서 교회까지</title>
 <meta name="description" content="구약 역사서 · 중간 침묵기 · 신약 역사서를 한 줄거리로. 스크롤하며 성경의 핵심을 머릿속에 그려보세요." />
 <style>
   :root{
     --bg:#0e1118; --bg2:#141925; --ink:#f4efe6; --muted:#9aa3b2;
     --line:rgba(255,255,255,.12); --card:rgba(255,255,255,.045);
-    --accent:#e9b949; --maxw:920px;
+    --accent:#e9b949; --maxw:920px; color-scheme:dark;
     --serif:"Nanum Myeongjo",Georgia,"Times New Roman",serif;
     --sans:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",Roboto,sans-serif;
   }
   :root.sepia{
     --bg:#efe6d3; --bg2:#e7dcc4; --ink:#2b2519; --muted:#7a6f5a;
-    --line:rgba(0,0,0,.14); --card:rgba(0,0,0,.035); --accent:#b07d23;
+    --line:rgba(0,0,0,.14); --card:rgba(0,0,0,.035); --accent:#b07d23; color-scheme:light;
   }
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
   html{scroll-behavior:smooth;background:var(--bg)}
@@ -40,12 +41,11 @@
 
   /* HERO */
   .hero{min-height:100svh;display:flex;flex-direction:column;justify-content:center;align-items:center;
-    text-align:center;padding:90px 22px 60px;position:relative;overflow:hidden;background:var(--bg)}
-  .hero .bgsky{position:absolute;inset:0;z-index:0;opacity:.9;
+    text-align:center;padding:90px 22px 60px;position:relative;background:var(--bg)}
+  .hero .bgsky{position:absolute;inset:0;z-index:0;
     background:
-      radial-gradient(120% 80% at 50% -10%,rgba(233,185,73,.18),transparent 60%),
-      radial-gradient(100% 60% at 50% 120%,rgba(155,93,229,.20),transparent 60%)}
-  .hero .stars{position:absolute;inset:0;z-index:0}
+      radial-gradient(120% 80% at 50% -10%,rgba(233,185,73,.16),transparent 60%),
+      radial-gradient(100% 60% at 50% 120%,rgba(155,93,229,.18),transparent 60%)}
   .hero>*{position:relative;z-index:1}
   .hero .kicker{font-size:13px;letter-spacing:.35em;color:var(--accent);text-transform:uppercase;margin-bottom:22px}
   .hero h1{font-family:var(--serif);font-weight:700;line-height:1.28;font-size:clamp(32px,8.5vw,60px);margin:0 0 18px}
@@ -274,7 +274,6 @@
 
 <header class="hero" data-title="시작" data-label="시작">
   <div class="bgsky"></div>
-  <canvas class="stars" id="starCanvas"></canvas>
   <div class="kicker">창조에서 교회까지</div>
   <h1>한눈에 보는<br><span class="em">성경 이야기</span></h1>
   <p>스크롤 한 번으로, 성경의 큰 줄거리와 예수님이 오신 이유를 만나보세요.</p>
@@ -382,7 +381,7 @@
 
 <section class="about" data-title="이 콘텐츠에 대하여" data-label="안내">
   <div class="wrap">
-    <p class="about-line reveal">한국 개신교 대다수가 공유하는 <b>복음주의·개혁주의 구속사(救贖史)</b> 관점에 기반하여, <b>개역개정판</b>을 기준으로 AI가 작성했습니다.</p>
+    <p class="about-line reveal">한국 개신교 대다수가 공유하는 <b>복음주의·개혁주의 구속사(救贖史)</b> 관점에 기반하여, <b>개역개정판</b>을 기준으로 정리했습니다.</p>
     <p class="about-contact reveal">문의 · 피드백 — <a id="contact" class="mail">메일 보기</a></p>
   </div>
 </section>
@@ -660,25 +659,6 @@ themeBtn.addEventListener('click',()=>{
   document.documentElement.classList.toggle('sepia');
   localStorage.setItem('bibleTheme',document.documentElement.classList.contains('sepia')?'sepia':'dark');
 });
-
-/* 히어로 별 배경 */
-const cv=document.getElementById('starCanvas');
-function drawStars(){
-  const dpr=Math.min(devicePixelRatio||1,2);
-  cv.width=cv.offsetWidth*dpr; cv.height=cv.offsetHeight*dpr;
-  const ctx=cv.getContext('2d'); ctx.scale(dpr,dpr);
-  const w=cv.offsetWidth,h=cv.offsetHeight;
-  const sepia=document.documentElement.classList.contains('sepia');
-  ctx.clearRect(0,0,w,h);
-  for(let i=0;i<70;i++){
-    const x=Math.random()*w,y=Math.random()*h*0.8,r=Math.random()*1.4+0.3;
-    ctx.beginPath();ctx.arc(x,y,r,0,7);
-    ctx.fillStyle=sepia?`rgba(120,90,30,${Math.random()*0.4+0.2})`:`rgba(255,240,200,${Math.random()*0.7+0.2})`;
-    ctx.fill();
-  }
-}
-drawStars(); window.addEventListener('resize',drawStars);
-themeBtn.addEventListener('click',()=>setTimeout(drawStars,50));
 
 /* 연락처 — 자동 수집(스크래핑) 방지를 위해 조각으로 조립, 클릭 시에만 생성 */
 (function(){
