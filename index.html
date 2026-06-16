@@ -659,6 +659,8 @@ const main=document.getElementById('epochs');
 
 const KO_UI={people:'인물',events:'사건',christLabel:'그리스도 실',loveLabel:'멈추지 않는 사랑',mythWrong:'흔한 오해',mythRight:'사실은',more:'자세히 보기',version:'(개역개정)'};
 const KO_PACK={menuName:'한국어',htmlLang:'ko',dir:'ltr',brand:'한눈에 보는 성경 이야기',
+  docTitle:'한눈에 보는 성경 이야기 · 창조에서 교회까지',
+  share:{title:'한눈에 보는 성경 이야기',text:'스크롤 한 번으로 성경의 큰 줄거리와 예수님이 오신 이유를 만나보세요.'},
   ui:KO_UI, labels:{start:'시작',thread:'줄거리',gospel:'복음핵심',about:'안내'},
   s:null, epochs:EPOCHS, core:CORE, mis:MIS, love:LOVE};
 
@@ -718,6 +720,8 @@ const EN_CORE=[
  {title:`The gospel — he finished it all`,body:`The price of sin I could never pay, Jesus paid in my place on the cross, and by rising he conquered death. I rest not on “do this” but on “it is finished.”`,vref:`John 19:30 · Romans 5:8`,vtext:`It is finished … God shows his love for us in that while we were still sinners, Christ died for us.`}
 ];
 const EN_PACK={menuName:`English`,htmlLang:`en`,dir:`ltr`,brand:`Bible in One Scroll`,
+  docTitle:`Bible in One Scroll · From Creation to the Church`,
+  share:{title:`Bible in One Scroll`,text:`In a single scroll, discover the Bible’s big story — and why Jesus came.`},
   ui:{people:`People`,events:`Key events`,christLabel:`The Christ thread`,loveLabel:`Relentless love`,mythWrong:`Common myth`,mythRight:`The truth`,more:`Read more`,version:``},
   labels:{start:`Start`,thread:`Storyline`,gospel:`The Gospel`,about:`About`},
   epochs:EN_EPOCHS, core:EN_CORE, mis:EN_MIS, love:EN_LOVE,
@@ -858,6 +862,15 @@ function applyLang(code){
   document.querySelectorAll('[data-sec]').forEach(sec=>{const lk=sec.getAttribute('data-sec');const lab=pack.labels&&pack.labels[lk];if(lab){sec.dataset.title=lab;sec.dataset.label=lab;}});
   renderCore(pack); renderEpochs(pack);
   buildNav(); setupObservers(); bindContact(); onScroll();
+  // 탭 제목 + 공유 메타도 현지화
+  document.title = pack.docTitle || pack.brand;
+  const desc = pack.share ? pack.share.text : '';
+  [['meta[property="og:title"]', pack.docTitle||pack.brand],
+   ['meta[property="og:description"]', desc],
+   ['meta[name="twitter:title"]', pack.brand],
+   ['meta[name="twitter:description"]', desc],
+   ['meta[name="description"]', desc]
+  ].forEach(([sel,val])=>{const m=document.querySelector(sel); if(m&&val) m.setAttribute('content',val);});
   var cur=document.getElementById('langCur'); if(cur) cur.textContent=pack.menuName||code;
   try{localStorage.setItem('lang',code);}catch(e){}
   [...document.querySelectorAll('#langList li[data-code]')].forEach(li=>li.setAttribute('aria-selected', li.dataset.code===code?'true':'false'));
@@ -907,10 +920,10 @@ themeBtn.addEventListener('click',()=>{
 
 /* 공유 (모바일: 네이티브 공유 시트 → 카카오톡 등 / PC: 링크 복사) */
 function shareSite(){
-  var sub=document.querySelector('[data-i18n="hero.sub"]');
+  const sh=(curPack&&curPack.share)||{};
   const data={
-    title:(curPack&&curPack.brand)||document.title,
-    text: sub?sub.textContent:'',
+    title: sh.title||(curPack&&curPack.brand)||document.title,
+    text: sh.text||'',
     url:'https://one-scroll-bible.vercel.app/'
   };
   if(navigator.share){ navigator.share(data).catch(function(){}); }
