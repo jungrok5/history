@@ -995,10 +995,11 @@ themeBtn.addEventListener('click',()=>{
 /* 공유 (모바일: 네이티브 공유 시트 → 카카오톡 등 / PC: 링크 복사) */
 function shareSite(){
   const sh=(curPack&&curPack.share)||{};
+  const langPath=(curCode&&curCode!=='ko')?(curCode+'/'):'';
   const data={
     title: sh.title||(curPack&&curPack.brand)||document.title,
     text: sh.text||'',
-    url:'https://one-scroll-bible.vercel.app/'
+    url:'https://one-scroll-bible.vercel.app/'+langPath
   };
   if(navigator.share){ navigator.share(data).catch(function(){}); }
   else if(navigator.clipboard){ navigator.clipboard.writeText(data.url).then(showToast,showToast); }
