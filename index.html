@@ -85,6 +85,26 @@
   #topbar .spacer{flex:1}
   .iconbtn{pointer-events:auto;cursor:pointer;border:1px solid var(--line);background:var(--card);
     color:var(--ink);border-radius:9px;padding:5px 9px;font-size:13px;line-height:1}
+  #langBtn{display:inline-flex;align-items:center;gap:5px}
+  #langPanel{position:fixed;top:52px;right:10px;z-index:200;width:250px;max-width:calc(100vw - 20px);
+    background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:10px;
+    box-shadow:0 16px 40px -12px rgba(0,0,0,.6)}
+  #langPanel[hidden]{display:none}
+  #langSearch{width:100%;box-sizing:border-box;padding:9px 11px;border-radius:9px;
+    border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:14px;outline:none}
+  #langSearch:focus{border-color:var(--accent)}
+  #langList{list-style:none;margin:8px 0 0;padding:0;max-height:52vh;overflow:auto}
+  #langList li{padding:9px 11px;border-radius:8px;cursor:pointer;font-size:14px;
+    display:flex;justify-content:space-between;align-items:center;gap:8px}
+  #langList li:hover{background:var(--card)}
+  #langList li .en{color:var(--muted);font-size:12px}
+  #langList li[aria-selected="true"]{color:var(--accent)}
+  #langList .none{color:var(--muted);font-size:13px;padding:9px 11px}
+  [dir="rtl"] .oneline{border-left:0;border-right:3px solid var(--c2);padding-left:0;padding-right:15px}
+  [dir="rtl"] .next{flex-direction:row-reverse}
+  [dir="rtl"] .thread-line,[dir="rtl"] .love-note,[dir="rtl"] .m-row,[dir="rtl"] .faq-item summary{flex-direction:row-reverse;text-align:right}
+  [dir="rtl"] .faq-body,[dir="rtl"] details.more .body,[dir="rtl"] .meta-row{text-align:right}
+  [dir="rtl"] #langPanel{right:auto;left:10px}
 
   .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
 
@@ -325,39 +345,44 @@
 <div id="topbar">
   <span class="dot"></span><span id="topbar-text"><b>한눈에 보는 성경 이야기</b></span>
   <span class="spacer"></span>
-  <button class="iconbtn" id="shareBtn" title="공유하기">↗ 공유</button>
+  <button class="iconbtn" id="langBtn" title="Language / 언어">🌐 <span id="langCur">한국어</span></button>
+  <button class="iconbtn" id="shareBtn" title="공유하기" data-i18n="ui.share">↗ 공유</button>
   <button class="iconbtn" id="themeBtn" title="테마 전환">🌗</button>
+</div>
+<div id="langPanel" hidden>
+  <input id="langSearch" type="text" autocomplete="off" placeholder="언어 검색 / Search language…" />
+  <ul id="langList"></ul>
 </div>
 <nav id="map"></nav>
 <button id="toTop" title="맨 위로">↑</button>
-<div id="toast">링크가 복사되었어요 📋</div>
+<div id="toast" data-i18n="ui.toast">링크가 복사되었어요 📋</div>
 
-<header class="hero" data-title="시작" data-label="시작">
+<header class="hero" data-sec="start" data-title="시작" data-label="시작">
   <div class="bgsky"></div>
-  <div class="kicker">창조에서 교회까지</div>
-  <h1>한눈에 보는<br><span class="em">성경 이야기</span></h1>
-  <p>스크롤 한 번으로, 성경의 큰 줄거리와 예수님이 오신 이유를 만나보세요.</p>
-  <div class="scrollcue">아래로 스크롤<span>↓</span></div>
+  <div class="kicker" data-i18n="hero.kicker">창조에서 교회까지</div>
+  <h1 data-i18n="hero.title">한눈에 보는<br><span class="em">성경 이야기</span></h1>
+  <p data-i18n="hero.sub">스크롤 한 번으로, 성경의 큰 줄거리와 예수님이 오신 이유를 만나보세요.</p>
+  <div class="scrollcue" data-i18n="hero.cue">아래로 스크롤<span>↓</span></div>
 </header>
 
-<section class="thread" data-title="하나의 줄거리" data-label="줄거리">
+<section class="thread" data-sec="thread" data-title="하나의 줄거리" data-label="줄거리">
   <div class="wrap">
-    <div class="eyebrow">성경 전체를 꿰는 한 문장</div>
-    <h2>성경은 결국 한 편의 이야기입니다</h2>
-    <div class="flow"><b>약속</b><span class="arw">→</span><b>기다림</b><span class="arw">→</span><b>성취</b></div>
-    <p class="note">하나님이 <b>약속</b>하시고(언약), 사람들이 오랫동안 <b>기다리며</b>, 마침내 예수님 안에서 <b>성취</b>되고 완성됩니다. 아래 13장면을 이 흐름으로 따라가 보세요. 각 카드의 <b>‘자세히 보기’</b>를 누르면 더 깊은 이야기가 펼쳐집니다.</p>
+    <div class="eyebrow" data-i18n="thread.eyebrow">성경 전체를 꿰는 한 문장</div>
+    <h2 data-i18n="thread.h2">성경은 결국 한 편의 이야기입니다</h2>
+    <div class="flow" data-i18n="thread.flow"><b>약속</b><span class="arw">→</span><b>기다림</b><span class="arw">→</span><b>성취</b></div>
+    <p class="note" data-i18n="thread.note">하나님이 <b>약속</b>하시고(언약), 사람들이 오랫동안 <b>기다리며</b>, 마침내 예수님 안에서 <b>성취</b>되고 완성됩니다. 아래 13장면을 이 흐름으로 따라가 보세요. 각 카드의 <b>‘자세히 보기’</b>를 누르면 더 깊은 이야기가 펼쳐집니다.</p>
   </div>
 </section>
 
 <main id="epochs"></main>
 
-<section class="gospel" data-title="복음의 핵심" data-label="복음핵심">
+<section class="gospel" data-sec="gospel" data-title="복음의 핵심" data-label="복음핵심">
   <div class="wrap">
-    <div class="eyebrow reveal">이 이야기가 ‘나’에게 주는 의미</div>
-    <h2 class="reveal">성경의 진짜 핵심</h2>
-    <p class="lead reveal">성경은 <b>“착하게 살라”는 도덕 교과서가 아닙니다.</b></p>
-    <p class="sublead reveal">스스로를 구원할 수 없는 죄인을, 하나님이 <b>오직 은혜로</b> 건지신 이야기입니다. 그 중심에 예수 그리스도가 계십니다.</p>
-    <div class="mirror reveal">
+    <div class="eyebrow reveal" data-i18n="gospel.eyebrow">이 이야기가 ‘나’에게 주는 의미</div>
+    <h2 class="reveal" data-i18n="gospel.h2">성경의 진짜 핵심</h2>
+    <p class="lead reveal" data-i18n="gospel.lead">성경은 <b>“착하게 살라”는 도덕 교과서가 아닙니다.</b></p>
+    <p class="sublead reveal" data-i18n="gospel.sublead">스스로를 구원할 수 없는 죄인을, 하나님이 <b>오직 은혜로</b> 건지신 이야기입니다. 그 중심에 예수 그리스도가 계십니다.</p>
+    <div class="mirror reveal" data-i18n="gospel.mirror">
       <h3>이스라엘의 악순환은 사실 ‘나’의 모습</h3>
       <div class="cycle"><b>우상을 섬김</b><span class="a">→</span><b>고난</b><span class="a">→</span><b>부르짖음</b><span class="a">→</span><b>하나님의 구원</b><span class="a">→</span><b>다시 우상…</b></div>
       <p>사사기부터 포로기까지 이스라엘은 이 악순환을 끝없이 반복합니다. 성경은 “그들이 참 한심하다”고 비웃으라고 이 이야기를 기록한 것이 아닙니다.</p>
@@ -366,10 +391,10 @@
       <p class="punch">결국 가장 깊은 우상은 “하나님 자리에 앉은 나 자신”입니다.</p>
     </div>
 
-    <p class="core-intro reveal">그렇다면 이 죄인을, 하나님은 어떻게 구원하실까요? 성경이 말하는 복음의 핵심입니다.</p>
+    <p class="core-intro reveal" data-i18n="gospel.coreIntro">그렇다면 이 죄인을, 하나님은 어떻게 구원하실까요? 성경이 말하는 복음의 핵심입니다.</p>
     <div class="core-grid" id="core"></div>
 
-    <div class="crux reveal">
+    <div class="crux reveal" data-i18n="gospel.crux">
       <p class="crux-lead">성경 전체가 한 곳을 가리킵니다.</p>
       <p>사람은 스스로 죄의 악순환을 끊지 못했고, 누구도 의롭지 못했습니다. 그래서 누군가 <b>대신 그 값을 치러야</b> 했습니다.</p>
       <p>예수님은 단지 좋은 교훈을 주러 오신 분이 아닙니다. 나를 살릴 다른 길이 없었기에 <b>오실 수밖에 없었습니다.</b></p>
@@ -378,11 +403,11 @@
     </div>
 
     <div class="faq reveal">
-      <h3 class="faq-h">혹시, 이런 게 마음에 걸리나요?</h3>
+      <h3 class="faq-h" data-i18n="faq.h">혹시, 이런 게 마음에 걸리나요?</h3>
 
       <details class="faq-item">
-        <summary><span class="arr">▸</span> 그럼 살인자도 믿기만 하면 천국, 평생 착하게 산 사람은 안 믿으면 지옥인가요?</summary>
-        <div class="faq-body">
+        <summary data-i18n="faq.q1"><span class="arr">▸</span> 그럼 살인자도 믿기만 하면 천국, 평생 착하게 산 사람은 안 믿으면 지옥인가요?</summary>
+        <div class="faq-body" data-i18n="faq.a1">
           <p>충분히 들 수 있는 질문입니다. 그런데 여기엔 두 가지 오해가 숨어 있어요.</p>
           <p><b>① 성경은 사람을 ‘착한 사람 vs 나쁜 사람’으로 나누지 않습니다.</b> 기준은 ‘옆 사람보다 나음’이 아니라 ‘하나님의 완전한 거룩하심’입니다. 그 앞에서는 누구도 “충분히 착한” 사람이 없습니다(롬 3:23). 그래서 이건 ‘착한 사람 vs 살인자’가 아니라, 똑같이 죽을병에 걸린 두 사람 중 하나는 약을 받고, 하나는 “난 저 사람보다 건강해”라며 거부한 이야기에 가깝습니다.</p>
           <p><b>② 천국과 지옥을 가르는 기준은 단 하나입니다.</b> 행동의 점수가 아니라, <b>예수 그리스도를 주인으로 영접하여 죄 문제가 해결되었는가</b>입니다. 영접하여 죄가 그리스도의 피로 해결된 사람은 천국에, 끝내 영접하지 않아 죄 문제가 그대로 남은 사람은 지옥에 갑니다. 아무리 착한 행동도 그 죄 문제 자체를 대신 해결해 주지는 못하기 때문입니다.</p>
@@ -393,8 +418,8 @@
       </details>
 
       <details class="faq-item">
-        <summary><span class="arr">▸</span> 예수님 안 믿어도, 그냥 착하게 살면 되는 것 아닌가요?</summary>
-        <div class="faq-body">
+        <summary data-i18n="faq.q2"><span class="arr">▸</span> 예수님 안 믿어도, 그냥 착하게 살면 되는 것 아닌가요?</summary>
+        <div class="faq-body" data-i18n="faq.a2">
           <p>가장 흔한 생각이지만, 여기엔 ‘무엇이 진짜 문제인가’에 대한 오해가 있습니다. 비유로 풀어볼게요.</p>
           <p><b>해적선에 타고 있다고 해봅시다.</b> 그 배 위에서 아무리 갑판을 깨끗이 닦고, 동료에게 친절하고, 누구보다 모범적으로 산다 해도 — 당신은 여전히 <b>‘해적’</b>입니다. 그 배가 향하는 곳(심판의 항구)으로 배와 함께 실려 가기 때문입니다. 문제는 ‘행동의 점수’가 아니라 <b>‘어느 배에 속했는가’(신분)</b>입니다.</p>
           <p>그래서 복음은 “더 착해져라”가 아니라 <b>“배를 옮겨 타라”</b>고 말합니다. 죄의 배에서 내려, 예수님께로 — <b>하나님의 자녀</b>라는 새 신분으로 건너가는 것입니다. 이건 노력으로 점수를 올리는 일이 아니라, 손 내미시는 분을 믿고 그 배로 건너가는 일입니다.</p>
@@ -405,8 +430,8 @@
       </details>
 
       <details class="faq-item">
-        <summary><span class="arr">▸</span> 영화 「밀양」처럼, 가해자가 ‘용서받았다’며 평안하면 — 용서가 너무 값싼 것 아닌가요?</summary>
-        <div class="faq-body">
+        <summary data-i18n="faq.q3"><span class="arr">▸</span> 영화 「밀양」처럼, 가해자가 ‘용서받았다’며 평안하면 — 용서가 너무 값싼 것 아닌가요?</summary>
+        <div class="faq-body" data-i18n="faq.a3">
           <p>영화가 던진 질문은 정당하고, 그 아픔도 진짜입니다. 다만 그 장면이 보여준 것은 ‘성경의 용서’가 아니라 그 <b>왜곡</b>이었습니다.</p>
           <p><b>① 하나님의 용서는 결코 값싸지 않습니다.</b> 죄를 ‘없던 일’로 덮은 게 아니라, 하나님이 친히 아들의 생명으로 그 값을 치르신 것입니다. 십자가는 죄를 가볍게 본 증거가 아니라, 죄가 그만큼 무겁다는 증거입니다 — 세상에서 가장 값비싼 용서입니다.</p>
           <p><b>② 참된 회개에는 열매가 따릅니다.</b> 가해자가 “하나님이 용서했으니 난 평안해”라며 피해자 앞에서 뻔뻔하다면, 그것은 회개가 아니라 회개의 흉내입니다(마 3:8). 하나님과 나 사이의 용서가, 피해자의 상처를 ‘없던 일’로 만들거나 피해자에게 용서를 강요하지도 않습니다.</p>
@@ -418,9 +443,9 @@
     </div>
 
     <div class="respond reveal">
-      <h3>그래서, 나는 어떻게?</h3>
-      <p class="r-sub">이 사랑은 정보가 아니라 <b>초대</b>입니다. 나를 대신해 못 박히신 그 사랑이 마음에 닿았다면, 지금 이 기도를 한 문장씩 천천히 따라 드려 보세요.</p>
-      <div class="prayer">
+      <h3 data-i18n="respond.h3">그래서, 나는 어떻게?</h3>
+      <p class="r-sub" data-i18n="respond.sub">이 사랑은 정보가 아니라 <b>초대</b>입니다. 나를 대신해 못 박히신 그 사랑이 마음에 닿았다면, 지금 이 기도를 한 문장씩 천천히 따라 드려 보세요.</p>
+      <div class="prayer" data-i18n="respond.prayer">
         <p>하나님,</p>
         <p>저는 스스로를 구원할 수 없는 죄인임을 인정합니다.</p>
         <p>예수님이 저를 위해 십자가에서 죽으시고 다시 살아나신 것을 믿습니다.</p>
@@ -428,27 +453,27 @@
         <p>저를 하나님의 자녀로 받아 주시고, 새로운 삶을 살게 해 주세요.</p>
         <p class="amen">예수님의 이름으로 기도합니다. 아멘.</p>
       </div>
-      <p class="r-after">이 기도를 진심으로 드렸다면, 성경은 당신이 <b>하나님의 자녀가 되었다</b>고 말합니다. 이제 혼자가 아닙니다 — 가까운 교회를 찾아 함께 신앙의 길을 걸어가세요.</p>
-      <div class="r-verse">“영접하는 자 곧 그 이름을 믿는 자들에게는 하나님의 자녀가 되는 권세를 주셨으니” — 요 1:12 · 롬 10:9-10 (개역개정)</div>
+      <p class="r-after" data-i18n="respond.after">이 기도를 진심으로 드렸다면, 성경은 당신이 <b>하나님의 자녀가 되었다</b>고 말합니다. 이제 혼자가 아닙니다 — 가까운 교회를 찾아 함께 신앙의 길을 걸어가세요.</p>
+      <div class="r-verse" data-i18n="respond.verse">“영접하는 자 곧 그 이름을 믿는 자들에게는 하나님의 자녀가 되는 권세를 주셨으니” — 요 1:12 · 롬 10:9-10 (개역개정)</div>
     </div>
   </div>
 </section>
 
 <section class="closing">
-  <p>한 분의 하나님이,<br>한 편의 이야기로,<br>끝까지 포기하지 않는 <em>사랑</em>으로<br>우리를 찾아오십니다.</p>
-  <p class="closing-verse">“사망이나 생명이나 … 그 무엇도 우리를 우리 주 그리스도 예수 안에 있는 하나님의 사랑에서 끊을 수 없으리라” — 로마서 8:38-39 (개역개정)</p>
-  <p class="small">이 줄거리 위에 율법·시가서·예언서·서신서가 “살”을 붙입니다.<br>이제 어느 책을 펴도 “지금 이야기의 어디쯤인지” 보일 거예요.</p>
-  <button class="share-cta" data-share>↗ 이 이야기 공유하기</button>
+  <p data-i18n="closing.main">한 분의 하나님이,<br>한 편의 이야기로,<br>끝까지 포기하지 않는 <em>사랑</em>으로<br>우리를 찾아오십니다.</p>
+  <p class="closing-verse" data-i18n="closing.verse">“사망이나 생명이나 … 그 무엇도 우리를 우리 주 그리스도 예수 안에 있는 하나님의 사랑에서 끊을 수 없으리라” — 로마서 8:38-39 (개역개정)</p>
+  <p class="small" data-i18n="closing.small">이 줄거리 위에 율법·시가서·예언서·서신서가 “살”을 붙입니다.<br>이제 어느 책을 펴도 “지금 이야기의 어디쯤인지” 보일 거예요.</p>
+  <button class="share-cta" data-share data-i18n="closing.share">↗ 이 이야기 공유하기</button>
 </section>
 
-<section class="about" data-title="이 콘텐츠에 대하여" data-label="안내">
+<section class="about" data-sec="about" data-title="이 콘텐츠에 대하여" data-label="안내">
   <div class="wrap">
-    <p class="about-line reveal">한국 개신교 대다수가 공유하는 <b>복음주의·개혁주의 구속사(救贖史)</b> 관점에 기반하여, <b>개역개정판</b>을 기준으로 정리했습니다.</p>
-    <p class="about-contact reveal">문의 · 피드백 — <a id="contact" class="mail">메일 보기</a></p>
+    <p class="about-line reveal" data-i18n="about.line">한국 개신교 대다수가 공유하는 <b>복음주의·개혁주의 구속사(救贖史)</b> 관점에 기반하여, <b>개역개정판</b>을 기준으로 정리했습니다.</p>
+    <p class="about-contact reveal" data-i18n="about.contact">문의 · 피드백 — <a id="contact" class="mail">메일 보기</a></p>
   </div>
 </section>
 
-<footer>한눈에 보는 성경 이야기 · 개역개정판 기준</footer>
+<footer data-i18n="ui.footer">한눈에 보는 성경 이야기 · 개역개정판 기준</footer>
 
 <script>
 /* ---------- 12 에폭 데이터 ---------- */
@@ -628,91 +653,249 @@ const CORE=[
   vref:'요 19:30 · 롬 5:8',vtext:'다 이루었다 … 우리가 아직 죄인 되었을 때에 그리스도께서 우리를 위하여 죽으심으로'}
 ];
 
-/* ---------- 핵심 카드 렌더 ---------- */
+/* ========== 다국어(i18n) 엔진 ========== */
 const coreWrap=document.getElementById('core');
-CORE.forEach(c=>{
-  const d=document.createElement('div');
-  d.className='core reveal';
-  d.innerHTML=`<div class="ic">${c.ic}</div><h3>${c.title}</h3><p>${c.body}</p>
-    <div class="v">“<em>${c.vtext}</em>” — ${c.vref} (개역개정)</div>`;
-  coreWrap.appendChild(d);
-});
-
-/* ---------- 렌더링 ---------- */
 const main=document.getElementById('epochs');
-EPOCHS.forEach((e,i)=>{
-  const s=document.createElement('section');
-  s.className='epoch';
-  s.dataset.title=e.title; s.dataset.label=e.title;
-  s.style.setProperty('--c1',e.c1); s.style.setProperty('--c2',e.c2);
-  s.innerHTML=`
+
+const KO_UI={people:'인물',events:'사건',christLabel:'그리스도 실',loveLabel:'멈추지 않는 사랑',mythWrong:'흔한 오해',mythRight:'사실은',more:'자세히 보기',version:'(개역개정)'};
+const KO_PACK={menuName:'한국어',htmlLang:'ko',dir:'ltr',brand:'한눈에 보는 성경 이야기',
+  ui:KO_UI, labels:{start:'시작',thread:'줄거리',gospel:'복음핵심',about:'안내'},
+  s:null, epochs:EPOCHS, core:CORE, mis:MIS, love:LOVE};
+
+/* ---- English ---- */
+const EN_EPOCHS=[
+ {tag:`OLD TESTAMENT · BEGINNING`,title:`Creation`,date:`In the beginning`,one:`God made a world that was “very good.”`,people:`God; Adam and Eve`,events:`Six days of creation, humanity made in God’s image, the Sabbath rest`,q:`In the beginning, God created the heavens and the earth.`,cite:`Genesis 1:1`,christ:`The world was made through the “Word.” John’s Gospel declares that this Word is Jesus himself (John 1:1-3).`,detail:`<p>The Bible doesn’t open with a philosophical argument but with a declaration: <b>“In the beginning, God…”</b> The world is not an accident but the work of a personal God.</p><ul><li><b>The image of God</b> · Of all creatures, only humans are made to resemble God — to know him and care for the world.</li><li><b>Rest</b> · The seventh-day rest shows everything complete and at peace (shalom): “it was good.”</li><li><b>Eden</b> · The world before it was broken, where God and people walk together.</li></ul>`,next:`But this wholeness is about to be shattered…`},
+ {tag:`OLD TESTAMENT · THE PROBLEM BEGINS`,title:`The Fall`,date:`In the beginning`,one:`Sin entered, and the bond between people and God was cut.`,people:`Adam and Eve; the serpent (Satan)`,events:`Eating the forbidden fruit, exile from Eden, the arrival of death and toil`,q:`I will put enmity between you and the woman … he shall bruise your head.`,cite:`Genesis 3:15`,christ:`The first promise of the gospel, given right after the Fall: the “offspring of the woman” will crush the serpent’s head — and that is Jesus (Genesis 3:15; Romans 16:20; Galatians 4:4).`,detail:`<p>Through the disobedience of trying to “be like God,” sin enters the world. The result is not merely a broken rule but a <b>broken relationship</b>.</p><ul><li><b>Broken bonds</b> · with God (hiding), with each other (blame), with nature (thorns and toil).</li><li><b>Death</b> · the warning “you shall surely die” becomes reality.</li><li><b>Genesis 3:15</b> · yet in the middle of judgment, a promise of rescue comes first. Scholars call this the <b>protoevangelium (the first gospel)</b>.</li></ul>`,next:`Now God calls one man to begin the rescue…`},
+ {tag:`OLD TESTAMENT · THE PROMISE`,title:`The Patriarchs`,date:`c. 2000 BC`,one:`God promises Abraham, “You will be a channel of blessing.”`,people:`Abraham · Isaac · Jacob · Joseph`,events:`The Abrahamic covenant, the binding of Isaac, Jacob’s twelve sons, Joseph rises to power in Egypt`,q:`I will make of you a great nation … and in you all the families of the earth shall be blessed.`,cite:`Genesis 12:2-3`,christ:`The promise that “all peoples will be blessed” is fulfilled in Jesus, the offspring of Abraham (Galatians 3:16).`,detail:`<p>God begins to address the problem of all humanity by calling one man, <b>Abraham</b>. The heart of it is the <b>covenant (promise)</b> — a great nation, a land, and “blessing for all peoples.”</p><ul><li><b>Faith</b> · Abraham believed an unseen promise, and it was counted to him as righteousness (Genesis 15:6).</li><li><b>Isaac & Jacob</b> · the promise passes on; Jacob (Israel) fathers the twelve tribes.</li><li><b>Joseph</b> · sold by his brothers yet raised to power — “God meant it for good” (Genesis 50:20).</li></ul>`,next:`Following Joseph, the family goes down to Egypt — and becomes enslaved…`},
+ {tag:`OLD TESTAMENT · REDEMPTION`,title:`Exodus & Wilderness`,date:`c. 1446 BC`,one:`God rescued an enslaved people and made them his own.`,people:`Moses, Aaron, Pharaoh`,events:`The ten plagues, Passover, crossing the Red Sea, the Ten Commandments at Sinai, the tabernacle, 40 years in the wilderness`,q:`I will take you to be my people, and I will be your God.`,cite:`Exodus 6:7`,christ:`The Passover — where a lamb’s blood turned death away — points to Jesus, “our Passover lamb,” crucified for us (1 Corinthians 5:7).`,detail:`<p>The greatest rescue of the Old Testament. Once-enslaved Israel is set free by God’s power and shaped into his <b>people</b>.</p><ul><li><b>Passover</b> · the home marked by the lamb’s blood is passed over by death — the pattern behind every later sacrifice.</li><li><b>The Red Sea</b> · salvation where the road runs out; “crossing over” becomes the symbol of a new beginning.</li><li><b>Sinai covenant</b> · through the Commandments they learn how to live as God’s people.</li><li><b>Tabernacle</b> · a movable sanctuary where God dwells among his people — a foretaste of “Immanuel.”</li><li><b>40 years</b> · disobedience keeps a generation wandering, yet God stays near with manna and the pillar of cloud and fire.</li></ul>`,next:`Standing at the edge of the promised land, they prepare to enter…`},
+ {tag:`OLD TESTAMENT · SETTLEMENT`,title:`Conquest & Judges`,date:`c. 1400–1050 BC`,one:`They gained the land, but with no king everyone did as they pleased.`,people:`Joshua; judges like Gideon and Samson; Ruth`,events:`The fall of Jericho, settling Canaan, a repeating cycle of sin–judgment–rescue`,q:`In those days there was no king in Israel; everyone did what was right in his own eyes.`,cite:`Judges 21:25`,christ:`From Ruth’s line comes David, and from David’s line comes Jesus (Matthew 1). Even in the chaos, the Messiah’s family tree keeps going.`,detail:`<p>Under Joshua they enter the promised land, but after settling they soon forget God. Judges is the same pattern on repeat.</p><ul><li><b>The downward cycle</b> · sin → oppression → crying out → a judge rescues → sin again. It only gets worse.</li><li><b>The judges</b> · Gideon, Samson, Deborah — temporary rescuers, heroic but deeply flawed.</li><li><b>Ruth</b> · a bright story of faithfulness in a dark age; a foreign woman enters the line of David (and Jesus).</li></ul>`,next:`The people cry out, “Give us a king too!”…`},
+ {tag:`OLD TESTAMENT · GOLDEN AGE`,title:`The United Kingdom`,date:`c. 1050–930 BC`,one:`God promises David, “Your throne will last forever.”`,people:`Saul · David · Solomon`,events:`The first king Saul, David and Goliath, the Davidic covenant, Solomon builds the temple`,q:`Your house and your kingdom shall be made sure forever before me; your throne shall be established forever.`,cite:`2 Samuel 7:16`,christ:`The “everlasting throne” is fulfilled in Jesus, the son of David — which is why he is called the “Son of David” (Luke 1:32-33; Matthew 1:1).`,detail:`<p>Israel’s peak, ruled by three kings.</p><ul><li><b>Saul</b> · the king the people demanded; a good start ruined by disobedience.</li><li><b>David</b> · “a man after God’s own heart.” He defeats Goliath and makes Jerusalem the capital. He commits great sin (Bathsheba) yet repents from the heart (Psalm 51).</li><li><b>The Davidic covenant (2 Samuel 7)</b> · God promises to establish David’s dynasty forever — the decisive root of Messianic hope.</li><li><b>Solomon</b> · at the height of wisdom and wealth he builds the <b>temple</b>, but late in life turns to idols.</li></ul>`,next:`After Solomon, the kingdom splits in two…`},
+ {tag:`OLD TESTAMENT · DECLINE`,title:`The Divided Kingdom`,date:`930–586 BC`,one:`Split into south (Judah) and north (Israel), the nation slides into ruin.`,people:`The kings of both kingdoms; prophets like Elijah, Isaiah, Jeremiah`,events:`The kingdom divides, idolatry spreads, the prophets warn`,q:`So Israel has been in rebellion against the house of David to this day.`,cite:`1 Kings 12:19`,christ:`In this era the prophets foretell the coming Messiah ever more clearly (Isaiah 9:6; Isaiah 53).`,detail:`<p>In the days of Solomon’s son the nation splits: <b>the northern kingdom of Israel</b> (10 tribes, capital Samaria) and <b>the southern kingdom of Judah</b> (2 tribes, capital Jerusalem).</p><ul><li><b>Israel (north)</b> · every king serves idols; it falls to Assyria in 722 BC.</li><li><b>Judah (south)</b> · David’s line continues, with a few good kings like Hezekiah and Josiah, but overall declines.</li><li><b>The prophets</b> · Elijah, Amos, Isaiah, Jeremiah cry “return!” Messianic prophecy reaches its richest point here (the “suffering servant” of Isaiah 53).</li></ul>`,next:`In the end the warned-of judgment comes — they are carried into exile…`},
+ {tag:`OLD TESTAMENT · JUDGMENT`,title:`The Exile`,date:`722 / 586 BC`,one:`The nation collapses and the people are dragged into foreign lands.`,people:`Daniel, Ezekiel, Nebuchadnezzar`,events:`Israel falls to Assyria (722), Judah falls to Babylon and the temple is destroyed (586)`,q:`By the waters of Babylon, there we sat down and wept, when we remembered Zion.`,cite:`Psalm 137:1`,christ:`In the depths of despair Jeremiah promises a “new covenant” (Jeremiah 31:31) — the very covenant Jesus seals at the Last Supper.`,detail:`<p>The warnings come true. The temple burns and the people are carried to Babylon — losing the land, the king, and the temple: the lowest point of all.</p><ul><li><b>Two falls</b> · Israel (Assyria, 722 BC) and Judah (Babylon, 586 BC).</li><li><b>Daniel</b> · a model of faith even in a pagan court (the lions’ den); he sees visions of a coming “everlasting kingdom.”</li><li><b>A spark of hope</b> · Ezekiel’s vision of dry bones coming to life (Ezekiel 37) and Jeremiah’s “new covenant” point to a future in the dark.</li></ul>`,next:`Seventy years later, God opens the way — they go home…`},
+ {tag:`OLD TESTAMENT · RESTORATION`,title:`The Return`,date:`538–430 BC`,one:`They come back and rebuild the temple and the walls.`,people:`Ezra, Nehemiah, Esther, Zerubbabel`,events:`Return by Cyrus’s decree, rebuilding the temple, restoring Jerusalem’s walls, recovering the Word`,q:`The joy of the Lord is your strength.`,cite:`Nehemiah 8:10`,christ:`Malachi, the last book of the Old Testament, ends by foretelling a messenger to prepare the Messiah’s way: “I send my messenger” (Malachi 3:1).`,detail:`<p>By the decree of the Persian king Cyrus (538 BC) the return begins. In three waves they come back and rebuild what was ruined.</p><ul><li><b>Zerubbabel</b> · rebuilds the temple (completed 516 BC).</li><li><b>Ezra</b> · teaches the Word again and revives the faith.</li><li><b>Nehemiah</b> · rebuilds Jerusalem’s walls in 52 days.</li><li><b>Esther</b> · saves the Jews in Persia from annihilation — “for such a time as this.”</li><li><b>Still longing</b> · the temple stands, but there is no king like David. The people wait for the Messiah.</li></ul>`,next:`And then… as if heaven fell silent, 400 years pass.`},
+ {tag:`BETWEEN THE TESTAMENTS · SETTING THE STAGE`,title:`The Silent Years`,date:`c. 430–4 BC`,one:`400 years with no prophet’s voice — yet the stage was quietly being set.`,people:`Alexander the Great, the Maccabees, Rome`,events:`Persia → Greece → Maccabean independence → Roman rule`,q:`But when the fullness of time had come, God sent forth his Son, born of woman.`,cite:`Galatians 4:4`,christ:`All this “stage-setting” was God at work so that Jesus would come at exactly “the fullness of time.”`,detail:`<p>From Malachi to the New Testament, about 400 years pass with no new Scripture. Yet behind history God was preparing the way for the gospel.</p><ul><li><b>Empires change hands</b> · Persia → Greece (Alexander, 333 BC) → the Ptolemies and Seleucids → the Maccabean revolt (167 BC) → Rome (63 BC).</li><li><b>Greek</b> · Alexander’s conquests make Greek the common tongue; the Old Testament is translated into Greek (the Septuagint), paving the way for the gospel to spread fast.</li><li><b>Roman roads and peace</b> · well-built roads and the “Pax Romana” become highways for mission.</li><li><b>Synagogues and parties</b> · synagogue teaching takes root; the Pharisees and Sadducees arise; and <b>longing for the Messiah</b> ripens.</li></ul>`,next:`Then the silence breaks — at last, he comes.`},
+ {tag:`NEW TESTAMENT · FULFILLMENT`,title:`Jesus Comes`,date:`c. 4 BC–AD 30`,one:`The promised Messiah came, died, and rose again.`,people:`Jesus, the twelve disciples, John the Baptist`,events:`The incarnation, his ministry and teaching and miracles, death on the cross, resurrection on the third day`,q:`And the Word became flesh and dwelt among us … full of grace and truth.`,cite:`John 1:14`,christ:`The offspring of the woman (scene 2), the blessing of Abraham (3), the Passover lamb (4), David’s everlasting king (6), the new covenant (8) — all fulfilled in one man, Jesus: our true Prophet, Priest, and King.`,detail:`<p>The silence breaks; the Promised One arrives. The four Gospels witness to Jesus’ life, death, and resurrection from four angles.</p><ul><li><b>Incarnation</b> · God becomes human (Immanuel, “God with us”), in the lowly place of Bethlehem.</li><li><b>Ministry</b> · he teaches the kingdom of God, heals the sick, calls sinners. “Whoever has seen me has seen the Father.”</li><li><b>The cross</b> · he pays the price of the sin and death caused by the Fall (scene 2). The true Passover lamb.</li><li><b>Resurrection</b> · rising on the third day, he breaks the power of sin, death, and Satan — already on the cross he “disarmed the rulers and authorities … triumphing over them” (Colossians 2:15).</li></ul><p>So Jesus is our <b>true Prophet</b> (showing the way to God), our <b>true Priest</b> (atoning for sin with his own body), and our <b>true King</b> (conquering sin, death, and Satan and reigning forever).</p>`,next:`The risen Jesus sends his disciples into the world…`},
+ {tag:`NEW TESTAMENT · EXPANSION`,title:`The Church Begins`,date:`c. AD 30–`,one:`The Spirit comes, and the gospel spreads toward the ends of the earth.`,people:`Peter, Paul, the early church`,events:`The Spirit poured out at Pentecost, the church is born, the gospel spreads from Jerusalem to Rome through persecution`,q:`You will receive power when the Holy Spirit has come upon you … to the end of the earth.`,cite:`Acts 1:8`,christ:`This story is still going on. The Bible ends by promising that Jesus will come again and make all things new (Revelation 21).`,detail:`<p>After Jesus ascends, the promised Spirit comes at Pentecost and the church is born. The gospel spreads explosively.</p><ul><li><b>Pentecost</b> · the Spirit turns fearful disciples into bold witnesses.</li><li><b>Peter</b> · preaches the gospel to the Jews in Jerusalem.</li><li><b>Paul</b> · from persecutor to apostle, planting churches across the Gentile world and writing the letters.</li><li><b>To the ends of the earth</b> · Jerusalem → Judea → Samaria → Rome. The promise to Abraham of “all peoples” comes true.</li><li><b>And us</b> · the story doesn’t end; it presses on toward Jesus’ return and the new heaven and new earth.</li></ul>`,next:`But the story doesn’t end here…`},
+ {tag:`NEW TESTAMENT · CONSUMMATION`,title:`Restoration`,date:`Yet to come`,one:`Jesus comes again and makes all things new.`,people:`The returning Jesus; all nations`,events:`The second coming, the final judgment, the end of sin·death·tears, a new heaven and new earth`,q:`He will wipe away every tear … and death shall be no more, neither shall there be mourning nor crying nor pain anymore.`,cite:`Revelation 21:4`,christ:`The Eden of the first creation is restored at last as the “New Jerusalem.” God dwells with his people forever — the fullness of Immanuel (Revelation 21:3; Matthew 1:23).`,detail:`<p>The Bible does not end with the church age. Its last book, Revelation, shows Jesus <b>coming again</b> to complete everything.</p><ul><li><b>The second coming</b> · the promised King returns in glory.</li><li><b>Final victory</b> · Satan and death are defeated forever, and Christ reigns as King of kings (1 Corinthians 15:25-26; Revelation 20:10).</li><li><b>Judgment and resurrection</b> · every wrong is set right, and the dead are raised.</li><li><b>A new heaven and new earth</b> · sin, death, tears, and pain vanish forever (Revelation 21:4).</li><li><b>Eden restored</b> · in a “New Jerusalem” better than the beginning, God dwells with his people forever — the destination the whole Bible has been heading toward.</li></ul><p>So now is the age of <b>“already, but not yet”</b>: in Jesus salvation is <b>already</b> accomplished, but its completion is <b>still</b> awaited.</p>`,next:`So what does this whole story mean for “me”?`}
+];
+const EN_LOVE=[
+ `The story begins not with judgment but with creation poured out in love.`,
+ `The moment people sinned, God promised a rescue right there on the spot.`,
+ `God came first to an undeserving man, called him by name, and made him a channel of blessing.`,
+ `He heard the groaning of an enslaved people and came down to rescue them himself.`,
+ `Betrayed again and again, yet every time they cried out he sent a rescuer and raised them up.`,
+ `He would not discard even fallen David, and through him promised an everlasting King.`,
+ `To a people who turned their backs, he kept sending prophets, pleading, “Please come home.”`,
+ `He went with them even into the darkest land of exile, and promised restoration.`,
+ `Even to a people who failed again and again, he would not take back his promise.`,
+ `Even through 400 silent years, unseen, he was preparing the way of salvation.`,
+ `While we were still sinners, he sent his Son to lay down his own life.`,
+ `The love we received, he now sends flowing out to the whole world.`,
+ `At last he will wipe away every tear and restore all things in love.`
+];
+const EN_MIS=[
+ {w:`“Why did God make people who could sin? Wouldn’t it have been better not to make us at all?”`,t:`God created the world and people not out of any lack, but out of overflowing love. To make humans as <b>persons who relate to God</b> is itself love. And even the entry of sin was not outside God’s plan of salvation (Ephesians 1:4-5). The Bible’s opening scene is not judgment but love.`},
+ {w:`“Exiled and given death just for eating one fruit — isn’t God far too harsh?”`,t:`Being sent out of Eden was both judgment and mercy. To eat from the tree of life and live forever in that broken, God-severed state would be to be trapped in suffering forever (Genesis 3:22). Allowing death opened the road back, and right there God promised a Rescuer (Genesis 3:15). Love was already inside the judgment.`},
+ {w:`“Abraham was chosen because he had great faith — aren’t all Bible figures moral heroes?”`,t:`Abraham lied and doubted; Jacob was a deceiver. God called not “qualified” people but flawed ones, by grace. The reason was not their goodness but God’s faithful love (Deuteronomy 7:7-8).`},
+ {w:`“Isn’t the Law (the Commandments) a test you must pass to be saved?”`,t:`God rescued them <b>before</b> giving the Law. Even the Ten Commandments open with a declaration of salvation: “I am the Lord your God, who brought you out of Egypt” (Exodus 20:2). The Law is not “keep it to be saved,” but loving guidance on how an already-rescued people should live (Deuteronomy 7:7-9). Grace always comes first; obedience is the response.`},
+ {w:`“The conquest of Canaan was a merciless slaughter — so the God of the Old Testament really is cruel.”`,t:`This is a hard subject that can’t be settled in a sentence. But the Bible presents it not as random violence but as judgment after centuries of patience toward extreme evil (including child sacrifice) (Genesis 15:16; Deuteronomy 9:4-5; Leviticus 18:24-25). God is slow even to judge, and he gladly welcomed those who turned to him — even foreigners like Rahab and Ruth (Joshua 6:25; Ruth 4:13-17).`},
+ {w:`“David was a flawless hero — that’s why he was called ‘a man after God’s own heart.’”`,t:`David committed adultery and even murder. “A man after God’s heart” doesn’t mean flawless, but one who didn’t hide his sin — who repented thoroughly and kept returning to God (Psalm 51). God’s love does not throw away even those who fall hard.`},
+ {w:`“Prophets are fortune-tellers predicting the future / the Old Testament God is all wrath.”`,t:`A prophet’s heart is not “predicting the future” but God’s aching plea: “Please come back.” Even warnings of judgment aim not to destroy but to turn people around and save them — “I take no pleasure in the death of the wicked” (Ezekiel 33:11).`},
+ {w:`“The exile proves God completely abandoned Israel.”`,t:`The exile was not abandonment but discipline and refining toward a beloved child (Hebrews 12:6). God did not leave; he was with Daniel in the heart of exile and promised, “I know the plans I have for you — plans for welfare and a future and a hope” (Jeremiah 29:11).`},
+ null,
+ {w:`“With no word for 400 years, God had left or was resting.”`,t:`Silence is not absence. He simply did not speak, while all the while moving empires, languages, and roads to prepare the stage for salvation. In the quietest moment, God was working hardest, in love (Galatians 4:4).`},
+ {w:`“Jesus was just one good moral teacher / the cross was a tragic defeat.”`,t:`Jesus claimed to be God himself (John 8:58), and the cross was no accident or defeat but planned love. He was not dragged there by force; he laid down his own life (John 10:18). “Greater love has no one than this, that someone lay down his life for his friends” (John 15:13).`},
+ {w:`“The church is a club of perfect people, or just a building.”`,t:`The church is not a community of “finished saints” but of <b>forgiven sinners</b>. Even the apostle Paul called himself “the foremost of sinners” (1 Timothy 1:15). The early church argued and stumbled too (Acts 6:1; 1 Corinthians 1:11). It is not a place to boast, but people passing on the love they received (John 13:34-35).`},
+ null
+];
+const EN_CORE=[
+ {title:`Original sin — no one is righteous`,body:`The problem isn’t “a few bad deeds” but the root of the heart. Since Adam, everyone is born under sin and cannot reach God on their own.`,vref:`Romans 3:10-12, 23`,vtext:`None is righteous, no, not one … for all have sinned and fall short of the glory of God.`},
+ {title:`The Law cannot save me`,body:`The Law is not a ladder but a mirror. The harder you try, the more it shows how far short you fall. Its purpose is to lead us to Christ.`,vref:`Romans 3:20 · Galatians 3:24`,vtext:`Through the law comes knowledge of sin … the law was our guardian until Christ came.`},
+ {title:`By grace — a gift, not effort`,body:`Salvation is not the wage for merit you earned, but a free gift to those who don’t deserve it. So no one can boast.`,vref:`Ephesians 2:8-9`,vtext:`By grace you have been saved through faith … not a result of works, so that no one may boast.`},
+ {title:`Justified by faith`,body:`Not by keeping the Law, but by faith in Jesus Christ, you are counted righteous — clothed not in your own righteousness but in his.`,vref:`Romans 5:1 · Galatians 2:16`,vtext:`Since we have been justified by faith … a person is not justified by works of the law but through faith in Jesus Christ.`},
+ {title:`The Bible points to Jesus`,body:`The Bible is not a book of great men or self-help. From Genesis to Revelation, every page testifies to one person — Jesus Christ.`,vref:`John 5:39 · Luke 24:27`,vtext:`It is they that bear witness about me … he explained what was said in all the Scriptures concerning himself.`},
+ {title:`The Kingdom of God — Jesus’ central message`,body:`The theme Jesus taught most. God’s reign as King broke into this world with Jesus and will be completed when he returns. By his cross and resurrection, Jesus is the true King who conquered sin, death, and Satan.`,vref:`Mark 1:15`,vtext:`The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.`},
+ {title:`The gospel — he finished it all`,body:`The price of sin I could never pay, Jesus paid in my place on the cross, and by rising he conquered death. I rest not on “do this” but on “it is finished.”`,vref:`John 19:30 · Romans 5:8`,vtext:`It is finished … God shows his love for us in that while we were still sinners, Christ died for us.`}
+];
+const EN_PACK={menuName:`English`,htmlLang:`en`,dir:`ltr`,brand:`Bible in One Scroll`,
+  ui:{people:`People`,events:`Key events`,christLabel:`The Christ thread`,loveLabel:`Relentless love`,mythWrong:`Common myth`,mythRight:`The truth`,more:`Read more`,version:``},
+  labels:{start:`Start`,thread:`Storyline`,gospel:`The Gospel`,about:`About`},
+  epochs:EN_EPOCHS, core:EN_CORE, mis:EN_MIS, love:EN_LOVE,
+  s:{
+   'ui.share':`↗ Share`,
+   'ui.toast':`Link copied 📋`,
+   'ui.footer':`Bible in One Scroll · Scripture quotations are the author’s faithful renderings`,
+   'hero.kicker':`FROM CREATION TO THE CHURCH`,
+   'hero.title':`The Bible,<br><span class="em">in one scroll</span>`,
+   'hero.sub':`In a single scroll, discover the Bible’s big story — and why Jesus came.`,
+   'hero.cue':`Scroll down<span>↓</span>`,
+   'thread.eyebrow':`ONE SENTENCE THAT TIES IT ALL TOGETHER`,
+   'thread.h2':`In the end, the Bible is one single story`,
+   'thread.flow':`<b>Promise</b><span class="arw">→</span><b>Waiting</b><span class="arw">→</span><b>Fulfillment</b>`,
+   'thread.note':`God <b>promises</b> (covenant), people <b>wait</b> a long time, and at last everything is <b>fulfilled</b> and completed in Jesus. Follow the 13 scenes below in that flow — tap <b>“Read more”</b> on each card for the deeper story.`,
+   'gospel.eyebrow':`WHAT THIS STORY MEANS FOR “ME”`,
+   'gospel.h2':`The real heart of the Bible`,
+   'gospel.lead':`The Bible is <b>not a textbook on “being a good person.”</b>`,
+   'gospel.sublead':`It is the story of how God, <b>by grace alone</b>, rescued sinners who could never save themselves. At its center stands Jesus Christ.`,
+   'gospel.mirror':`<h3>Israel’s endless cycle is really a picture of “me”</h3><div class="cycle"><b>Idolatry</b><span class="a">→</span><b>Suffering</b><span class="a">→</span><b>Crying out</b><span class="a">→</span><b>God rescues</b><span class="a">→</span><b>Idolatry again…</b></div><p>From Judges to the exile, Israel repeats this cycle endlessly. The Bible did not record it so we could sneer, “How pathetic they were.”</p><p>It is a <b>mirror</b>. The point is not “Israel did that” but <b>“I do the same”</b> (1 Corinthians 10:11).</p><p>An <b>idol</b> is not only a carved statue. It is <b>anything we love or trust more than God</b> — money, success, approval, people, even myself. And using God as a <b>tool to get what I want</b> is idolatry too.</p><p class="punch">In the end, the deepest idol is “myself, seated on God’s throne.”</p>`,
+   'gospel.coreIntro':`So how does God save such a sinner? Here is the heart of the gospel the Bible proclaims.`,
+   'gospel.crux':`<p class="crux-lead">The whole Bible points to one place.</p><p>People could not break the cycle of sin on their own, and no one was righteous. So someone had to <b>pay the price in their place</b>.</p><p>Jesus did not come merely to give good teaching. With no other way to save me, <b>he had no choice but to come.</b></p><p class="crux-punch">The one who should have hung on that cross was <b>me</b>.<br>Jesus carried <b>my sin</b> and was nailed there in my place.</p><div class="crux-verse">“But he was pierced for our transgressions; he was crushed for our iniquities … and with his wounds we are healed.” — Isaiah 53:5</div>`,
+   'faq.h':`Still wrestling with something?`,
+   'faq.q1':`<span class="arr">▸</span> So a murderer just has to believe and goes to heaven, while a lifelong good person who doesn’t believe goes to hell?`,
+   'faq.a1':`<p>It’s a fair question. But two misunderstandings are hidden inside it.</p><p><b>① The Bible doesn’t split people into “good vs. bad.”</b> The standard is not “better than the next person” but “the perfect holiness of God.” Before him, no one is “good enough” (Romans 3:23). So this isn’t “a good person vs. a murderer,” but more like two people with the same fatal disease — one takes the cure, the other refuses it, saying, “I’m healthier than that guy.”</p><p><b>② Only one thing divides heaven and hell.</b> Not a score of behavior, but <b>whether you have received Jesus Christ as Lord and your sin problem has been resolved.</b> The one whose sin is settled by Christ’s blood goes to heaven; the one who never receives him, whose sin remains, does not. No amount of good behavior can resolve that sin problem itself.</p><p>So heaven and hell are not a “prize for good behavior” but a matter of <b>relationship with Christ</b>. And “faith” is not mental agreement but a change of who runs your life — anyone who truly receives him does not grow smug but repents most deeply. In fact, self-righteousness (“I’m a good person”) is the hardest idol to break, the one that makes us think we don’t need Christ (Luke 18:9-14).</p><p>The Bible says it plainly: <b>“Whoever believes in him is not condemned, but whoever does not believe is condemned already”</b> (John 3:18). Judgment is not “scoring your deeds after you die,” but is already settled by <b>whether you received Christ</b>.</p><p class="faq-v">Romans 3:23 · John 3:18 · Ephesians 2:8-9 · Luke 18:9-14</p>`,
+   'faq.q2':`<span class="arr">▸</span> Can’t I just live a good life without believing in Jesus?`,
+   'faq.a2':`<p>It’s the most common thought, but it misunderstands what the real problem is. Here’s a picture.</p><p><b>Suppose you’re aboard a pirate ship.</b> No matter how spotless you keep the deck, how kind you are to the crew, how exemplary your life — you are still a <b>pirate</b>, because you’re carried along with the ship to where it’s headed (the harbor of judgment). The problem is not a “score of behavior” but <b>“which ship you belong to” (your identity)</b>.</p><p>So the gospel doesn’t say “try harder to be good”; it says <b>“change ships.”</b> Get off the ship of sin and cross over to Jesus — into the new identity of a <b>child of God</b>. This isn’t raising your score by effort, but trusting the One who reaches out his hand and crossing to his ship.</p><p>In fact the Bible describes salvation as exactly this transfer — <b>“He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son”</b> (Colossians 1:13).</p><p>Don’t misunderstand: <b>this doesn’t mean a good life is meaningless.</b> Goodness is not the “condition” of salvation but its <b>fruit</b>. Whoever has changed ships now lives well not out of fear, but out of a child’s love.</p><p class="faq-v">Colossians 1:13 · John 1:12 · John 3:3 · Ephesians 2:8-9</p>`,
+   'faq.q3':`<span class="arr">▸</span> Like the film “Secret Sunshine,” if an offender feels at peace claiming forgiveness — isn’t grace far too cheap?`,
+   'faq.a3':`<p>The question the film raises is fair, and the pain is real. But what that scene showed was not “the Bible’s forgiveness” but a <b>distortion</b> of it.</p><p><b>① God’s forgiveness is never cheap.</b> Sin is not swept under the rug as if it never happened; God himself paid its price with his own Son’s life. The cross is not proof that sin is taken lightly, but that sin is that heavy — the most expensive forgiveness in the world.</p><p><b>② Real repentance bears fruit.</b> If an offender is smug before the victim — “God forgave me, so I’m at peace” — that is not repentance but an imitation of it (Matthew 3:8). And forgiveness between a person and God does not erase the victim’s wound or force the victim to forgive.</p><p><b>③ Sin is never simply “let go.”</b> Every sin is paid for in one of two places — <b>either Christ bears it on the cross</b> (for those who trust him there is no more condemnation, Romans 8:1), <b>or the one who finally rejects him bears it himself.</b> So there is no “cheap pardon.” The offender also still bears legal responsibility in this world (Romans 13:1-4).</p><p><b>④ The victim’s tears are never small to God.</b> God weeps with those who weep, remembers every tear, and will wipe them away himself in the end (Revelation 21:4). So the victim need not carry the weight of revenge alone, but can entrust it to the righteous God (Romans 12:19 — “Vengeance is mine … leave it to God”).</p><p class="faq-v">Matthew 3:8 · Romans 8:1 · Romans 13:1-4 · Revelation 21:4</p>`,
+   'respond.h3':`So — what about me?`,
+   'respond.sub':`This love is not information but an <b>invitation</b>. If the love that was nailed in your place has touched your heart, pray this slowly, one line at a time.`,
+   'respond.prayer':`<p>God,</p><p>I admit I am a sinner who cannot save myself.</p><p>I believe Jesus died on the cross for me and rose again.</p><p>Please forgive all my sins, and from now on be the Lord of my life.</p><p>Receive me as Your child, and let me live a new life.</p><p class="amen">In Jesus’ name I pray. Amen.</p>`,
+   'respond.after':`If you prayed this sincerely, the Bible says you have <b>become a child of God</b>. You are no longer alone — find a nearby church and walk the road of faith together.`,
+   'respond.verse':`“But to all who did receive him, who believed in his name, he gave the right to become children of God.” — John 1:12 · Romans 10:9-10`,
+   'closing.main':`One God,<br>through one story,<br>comes after us with a<br><em>love</em> that never gives up.`,
+   'closing.verse':`“Neither death nor life … nor anything else in all creation will be able to separate us from the love of God in Christ Jesus our Lord.” — Romans 8:38-39`,
+   'closing.small':`On this storyline, the Law, Poetry, Prophets, and Letters add the “flesh.”<br>Now, whatever book you open, you’ll see where you are in the story.`,
+   'closing.share':`↗ Share this story`,
+   'about.line':`Based on the redemptive-historical perspective shared by most of the Korean Protestant church (evangelical · Reformed).`,
+   'about.contact':`Questions · feedback — <a id="contact" class="mail">Email us</a>`
+  }
+};
+
+const PACKS={en:EN_PACK};
+const LANGS=[{code:'ko',native:'한국어',en:'Korean'},{code:'en',native:'English',en:'English'}];
+
+const I18N_NODES=[...document.querySelectorAll('[data-i18n]')];
+const ORIG={}; I18N_NODES.forEach(n=>{ORIG[n.getAttribute('data-i18n')]=n.innerHTML;});
+let curPack=KO_PACK, curCode='ko';
+
+function renderCore(pack){
+  const ver=pack.ui.version?(' '+pack.ui.version):'';
+  coreWrap.innerHTML='';
+  pack.core.forEach((c,idx)=>{
+    const d=document.createElement('div'); d.className='core reveal';
+    d.innerHTML=`<div class="ic">${CORE[idx].ic}</div><h3>${c.title}</h3><p>${c.body}</p>`
+      +`<div class="v">“<em>${c.vtext}</em>” — ${c.vref}${ver}</div>`;
+    coreWrap.appendChild(d);
+  });
+}
+function renderEpochs(pack){
+  const u=pack.ui, ver=u.version?(' '+u.version):'';
+  main.innerHTML='';
+  pack.epochs.forEach((e,i)=>{
+    const v=EPOCHS[i], mis=pack.mis[i];
+    const s=document.createElement('section'); s.className='epoch';
+    s.dataset.title=e.title; s.dataset.label=e.title;
+    s.style.setProperty('--c1',v.c1); s.style.setProperty('--c2',v.c2);
+    s.innerHTML=`
     <div class="glow"></div>
     <div class="wrap"><div class="ep-inner">
       <div class="txt">
-        <div class="ep-icon">${e.emoji}</div>
+        <div class="ep-icon">${v.emoji}</div>
         <div class="badge"><span class="num">${i+1}</span><span class="tag">${e.tag}</span><span class="date">${e.date}</span></div>
         <h2>${e.title}</h2>
         <div class="oneline">${e.one}</div>
         <div class="meta">
-          <div class="meta-row"><span class="k">인물</span><p class="vv">${e.people}</p></div>
-          <div class="meta-row"><span class="k">사건</span><p class="vv">${e.events}</p></div>
+          <div class="meta-row"><span class="k">${u.people}</span><p class="vv">${e.people}</p></div>
+          <div class="meta-row"><span class="k">${u.events}</span><p class="vv">${e.events}</p></div>
         </div>
-        <div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite} (개역개정)</div></div>
-        <div class="thread-line"><span class="t">🧵</span><p><b>그리스도 실</b> · ${e.christ}</p></div>
-        <div class="love-note"><span class="lh">💛</span><p><b>멈추지 않는 사랑</b> · ${LOVE[i]}</p></div>
-        ${MIS[i]?`<div class="myth">
-          <div class="m-row"><span class="m-tag wrong">흔한 오해</span><p>${MIS[i].w}</p></div>
-          <div class="m-row"><span class="m-tag right">사실은</span><p>${MIS[i].t}</p></div>
-        </div>`:''}
-        <details class="more"><summary><span class="arr">▸</span> 자세히 보기</summary><div class="body">${e.detail}</div></details>
+        <div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite}${ver}</div></div>
+        <div class="thread-line"><span class="t">🧵</span><p><b>${u.christLabel}</b> · ${e.christ}</p></div>
+        <div class="love-note"><span class="lh">💛</span><p><b>${u.loveLabel}</b> · ${pack.love[i]}</p></div>
+        ${mis?`<div class="myth"><div class="m-row"><span class="m-tag wrong">${u.mythWrong}</span><p>${mis.w}</p></div><div class="m-row"><span class="m-tag right">${u.mythRight}</span><p>${mis.t}</p></div></div>`:''}
+        <details class="more"><summary><span class="arr">▸</span> ${u.more}</summary><div class="body">${e.detail}</div></details>
         <div class="next">${e.next}</div>
       </div>
     </div></div>`;
-  main.appendChild(s);
-});
+    main.appendChild(s);
+  });
+}
 
-/* ---------- 스크롤 인터랙션 ---------- */
+/* 스크롤/관찰자 */
 const prog=document.getElementById('progress');
 const toTop=document.getElementById('toTop');
-function onScroll(){
-  const h=document.documentElement, max=h.scrollHeight-h.clientHeight;
-  prog.style.width=(max>0?h.scrollTop/max*100:0)+'%';
-  toTop.classList.toggle('show',h.scrollTop>600);
-}
-window.addEventListener('scroll',onScroll,{passive:true}); onScroll();
+function onScroll(){const h=document.documentElement,max=h.scrollHeight-h.clientHeight;prog.style.width=(max>0?h.scrollTop/max*100:0)+'%';toTop.classList.toggle('show',h.scrollTop>600);}
+window.addEventListener('scroll',onScroll,{passive:true});
 toTop.addEventListener('click',()=>window.scrollTo({top:0,behavior:'smooth'}));
+const slideObs=new IntersectionObserver((es)=>{es.forEach(en=>en.target.classList.toggle('in',en.isIntersecting));},{threshold:.28});
+const revObs=new IntersectionObserver((es)=>{es.forEach(en=>{if(en.isIntersecting){en.target.classList.add('in');revObs.unobserve(en.target);}});},{threshold:.15});
+function setupObservers(){
+  slideObs.disconnect();
+  document.querySelectorAll('.epoch').forEach(el=>slideObs.observe(el));
+  document.querySelectorAll('.reveal').forEach(el=>{ if(!el.classList.contains('in')) revObs.observe(el); });
+}
 
-// 좌우 슬라이드: 들어오면 in, 벗어나면 다시 빠짐
-const epEls=[...document.querySelectorAll('.epoch')];
-const slideObs=new IntersectionObserver((es)=>{
-  es.forEach(en=>en.target.classList.toggle('in',en.isIntersecting));
-},{threshold:.28});
-epEls.forEach(el=>slideObs.observe(el));
-
-// 일반 페이드인 (.reveal)
-const revObs=new IntersectionObserver((es)=>{
-  es.forEach(en=>{ if(en.isIntersecting){ en.target.classList.add('in'); revObs.unobserve(en.target); } });
-},{threshold:.15});
-document.querySelectorAll('.reveal').forEach(el=>revObs.observe(el));
-
-// 미니맵 + 상단 라벨
-const sections=[...document.querySelectorAll('[data-title]')];
+/* 미니맵 + 상단 라벨 */
 const map=document.getElementById('map');
-sections.forEach(s=>{
-  const b=document.createElement('button');
-  b.dataset.l=s.dataset.label||'·';
-  b.addEventListener('click',()=>s.scrollIntoView({behavior:'smooth'}));
-  map.appendChild(b);
-});
-const dots=[...map.children], topText=document.getElementById('topbar-text');
-const labelObs=new IntersectionObserver((es)=>{
-  es.forEach(en=>{ if(en.isIntersecting){
-    const i=sections.indexOf(en.target);
-    dots.forEach((d,j)=>d.classList.toggle('active',j===i));
-    topText.innerHTML = i===0 ? '<b>한눈에 보는 성경 이야기</b>' : '<b>'+en.target.dataset.title+'</b>';
-  }});
-},{threshold:.5});
-sections.forEach(s=>labelObs.observe(s));
+const topText=document.getElementById('topbar-text');
+let labelObs=null, navSections=[], dots=[];
+function buildNav(){
+  navSections=[...document.querySelectorAll('[data-title]')];
+  map.innerHTML='';
+  navSections.forEach(s=>{const b=document.createElement('button');b.dataset.l=s.dataset.label||'·';b.addEventListener('click',()=>s.scrollIntoView({behavior:'smooth'}));map.appendChild(b);});
+  dots=[...map.children];
+  if(labelObs) labelObs.disconnect();
+  labelObs=new IntersectionObserver((es)=>{es.forEach(en=>{if(en.isIntersecting){const i=navSections.indexOf(en.target);dots.forEach((d,j)=>d.classList.toggle('active',j===i));topText.innerHTML = i===0 ? '<b>'+curPack.brand+'</b>' : '<b>'+en.target.dataset.title+'</b>';}});},{threshold:.5});
+  navSections.forEach(s=>labelObs.observe(s));
+}
+
+/* 연락처 (언어 적용 후 재바인딩) */
+function bindContact(){
+  var a=document.getElementById('contact'); if(!a||a.__bound) return; a.__bound=1;
+  var addr=['num','2323','studio'].join('')+String.fromCharCode(64)+['gmail','com'].join('.');
+  a.style.cursor='pointer';
+  a.addEventListener('click',function(){window.location.href='mailto:'+addr;});
+}
+
+/* 언어 적용 */
+function applyLang(code){
+  const pack = code==='ko'?KO_PACK:PACKS[code];
+  if(!pack) return;
+  curPack=pack; curCode=code;
+  const html=document.documentElement;
+  html.setAttribute('lang',pack.htmlLang||code);
+  html.setAttribute('dir',pack.dir||'ltr');
+  I18N_NODES.forEach(n=>{const k=n.getAttribute('data-i18n');const v=pack.s?pack.s[k]:null;n.innerHTML=(v!=null?v:ORIG[k]);});
+  document.querySelectorAll('[data-sec]').forEach(sec=>{const lk=sec.getAttribute('data-sec');const lab=pack.labels&&pack.labels[lk];if(lab){sec.dataset.title=lab;sec.dataset.label=lab;}});
+  renderCore(pack); renderEpochs(pack);
+  buildNav(); setupObservers(); bindContact(); onScroll();
+  var cur=document.getElementById('langCur'); if(cur) cur.textContent=pack.menuName||code;
+  try{localStorage.setItem('lang',code);}catch(e){}
+  [...document.querySelectorAll('#langList li[data-code]')].forEach(li=>li.setAttribute('aria-selected', li.dataset.code===code?'true':'false'));
+}
+
+/* 검색형 언어 선택창 */
+const langBtn=document.getElementById('langBtn');
+const langPanel=document.getElementById('langPanel');
+const langList=document.getElementById('langList');
+const langSearch=document.getElementById('langSearch');
+function buildLangList(filter){
+  const f=(filter||'').trim().toLowerCase();
+  langList.innerHTML='';
+  const items=LANGS.filter(l=>!f||l.native.toLowerCase().includes(f)||l.en.toLowerCase().includes(f)||l.code.includes(f));
+  if(!items.length){const li=document.createElement('li');li.className='none';li.textContent='준비 중 / coming soon';langList.appendChild(li);return;}
+  items.forEach(l=>{const li=document.createElement('li');li.dataset.code=l.code;li.setAttribute('aria-selected',l.code===curCode?'true':'false');li.innerHTML='<span>'+l.native+'</span><span class="en">'+l.en+'</span>';li.addEventListener('click',()=>{applyLang(l.code);closeLang();});langList.appendChild(li);});
+}
+function openLang(){langPanel.hidden=false;langSearch.value='';buildLangList('');setTimeout(()=>langSearch.focus(),0);}
+function closeLang(){langPanel.hidden=true;}
+langBtn.addEventListener('click',(e)=>{e.stopPropagation();langPanel.hidden?openLang():closeLang();});
+langSearch.addEventListener('input',()=>buildLangList(langSearch.value));
+langSearch.addEventListener('keydown',(e)=>{if(e.key==='Escape')closeLang();});
+document.addEventListener('click',(e)=>{if(!langPanel.hidden&&!langPanel.contains(e.target)&&!langBtn.contains(e.target))closeLang();});
+
+/* 초기 언어 결정 */
+(function initLang(){
+  let code='ko';
+  try{
+    const q=new URLSearchParams(location.search).get('lang');
+    const sv=localStorage.getItem('lang');
+    const nav=(navigator.language||'').toLowerCase();
+    if(q&&(q==='ko'||PACKS[q]))code=q;
+    else if(sv&&(sv==='ko'||PACKS[sv]))code=sv;
+    else if(nav&&!nav.startsWith('ko')&&PACKS[nav.split('-')[0]])code=nav.split('-')[0];
+    else if(nav&&!nav.startsWith('ko'))code='en';
+  }catch(e){}
+  applyLang(code);
+})();
 
 /* 테마 토글 (세피아 = 종이 느낌) */
 const themeBtn=document.getElementById('themeBtn');
@@ -724,9 +907,10 @@ themeBtn.addEventListener('click',()=>{
 
 /* 공유 (모바일: 네이티브 공유 시트 → 카카오톡 등 / PC: 링크 복사) */
 function shareSite(){
+  var sub=document.querySelector('[data-i18n="hero.sub"]');
   const data={
-    title:'한눈에 보는 성경 이야기',
-    text:'스크롤 한 번으로 성경의 큰 줄거리와 예수님이 오신 이유를 만나보세요.',
+    title:(curPack&&curPack.brand)||document.title,
+    text: sub?sub.textContent:'',
     url:'https://one-scroll-bible.vercel.app/'
   };
   if(navigator.share){ navigator.share(data).catch(function(){}); }
@@ -740,15 +924,6 @@ function showToast(){
 }
 var _sb=document.getElementById('shareBtn'); if(_sb) _sb.addEventListener('click',shareSite);
 document.querySelectorAll('[data-share]').forEach(function(b){ b.addEventListener('click',shareSite); });
-
-/* 연락처 — 자동 수집(스크래핑) 방지를 위해 조각으로 조립, 클릭 시에만 생성 */
-(function(){
-  var a=document.getElementById('contact');
-  if(!a) return;
-  var addr=['num','2323','studio'].join('')+String.fromCharCode(64)+['gmail','com'].join('.');
-  a.setAttribute('title','클릭하여 메일 작성');
-  a.addEventListener('click',function(){ window.location.href='mailto:'+addr; });
-})();
 </script>
 </body>
 </html>
