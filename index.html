@@ -220,16 +220,11 @@
   :root.sepia .love-note b{color:#b0552c}
 
   /* 이 콘텐츠에 대하여 */
-  .about{padding:60px 0 52px;background:var(--bg2)}
-  .about h2{font-family:var(--serif);text-align:center;font-size:clamp(20px,5.4vw,28px);margin:0 0 24px}
-  .about-grid{display:grid;grid-template-columns:1fr;gap:12px}
-  @media(min-width:640px){.about-grid{grid-template-columns:1fr 1fr}}
-  .ab{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:15px 16px}
-  .ab h4{margin:0 0 6px;font-size:13px;color:var(--accent)}
-  .ab p{margin:0;font-size:13.5px;color:var(--ink)}
-  .ab p b{color:var(--accent)}
-  .about-note{max-width:50ch;margin:20px auto 0;text-align:center;font-size:13px;color:var(--muted)}
-  .about-note b{color:var(--ink)}
+  .about{padding:46px 0 40px;background:var(--bg2)}
+  .about-line{max-width:50ch;margin:0 auto;text-align:center;font-size:14px;color:var(--ink)}
+  .about-line b{color:var(--accent)}
+  .about-contact{text-align:center;font-size:13px;color:var(--muted);margin:14px 0 0}
+  .about .mail{color:var(--accent);text-decoration:underline;cursor:pointer}
 
   footer{padding:30px 22px 42px;text-align:center;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}
 
@@ -307,18 +302,12 @@
 
 <section class="about" data-title="이 콘텐츠에 대하여" data-label="안내">
   <div class="wrap">
-    <h2 class="reveal">이 콘텐츠에 대하여</h2>
-    <div class="about-grid">
-      <div class="ab reveal"><h4>📐 관점</h4><p>한국 개신교 대다수가 공유하는 <b>복음주의·개혁주의 구속사(救贖史)</b> 관점에 기반합니다. 줄거리 골격은 <b>창조 – 타락 – 구속 – 완성(회복)</b>의 성경신학 구조를 따릅니다.</p></div>
-      <div class="ab reveal"><h4>📖 본문</h4><p>인용 구절은 <b>개역개정판</b> 기준입니다. 연대(BC·AD)는 통용되는 학계 추정치로, 견해차가 있을 수 있습니다.</p></div>
-      <div class="ab reveal"><h4>✅ 신앙의 기준</h4><p>핵심 교리는 사도신경·니케아 신경, 웨스트민스터 신앙고백서 등 <b>정통 신조가 공통으로 고백하는 내용</b>(삼위일체, 원죄, 이신칭의, 오직 은혜, 예수님의 신성·대속·부활)과 일치하도록 정리했습니다.</p></div>
-      <div class="ab reveal"><h4>⚠️ 검수 안내</h4><p>본 자료는 <b>AI가 작성</b>한 것으로, 특정 교단·신학교의 <b>공식 감수를 거치지 않았습니다.</b> 가르침이나 전파에 사용하시기 전, <b>출석 교회의 목사·교역자</b>나 소속 교단 자료로 확인하시길 권합니다.</p></div>
-    </div>
-    <p class="about-note reveal">‘흔한 오해 → 사실은’의 일부 설명(예: 자유의지, 종말의 형태, 가나안 정복 등)은 교단에 따라 강조가 다를 수 있는 <b>해석</b>임을 밝혀 둡니다.</p>
+    <p class="about-line reveal">한국 개신교 대다수가 공유하는 <b>복음주의·개혁주의 구속사(救贖史)</b> 관점에 기반하여, <b>개역개정판</b>을 기준으로 AI가 작성했습니다.</p>
+    <p class="about-contact reveal">문의 · 피드백 — <a id="contact" class="mail">메일 보기</a></p>
   </div>
 </section>
 
-<footer>한눈에 보는 성경 이야기 · 인용 본문 개역개정판 · 복음주의·개혁주의 구속사 관점 · 공식 감수 전 자료(교역자 확인 권장)</footer>
+<footer>한눈에 보는 성경 이야기 · 개역개정판 기준</footer>
 
 <script>
 /* ---------- 12 에폭 데이터 ---------- */
@@ -611,6 +600,15 @@ function drawStars(){
 }
 drawStars(); window.addEventListener('resize',drawStars);
 themeBtn.addEventListener('click',()=>setTimeout(drawStars,50));
+
+/* 연락처 — 자동 수집(스크래핑) 방지를 위해 조각으로 조립, 클릭 시에만 생성 */
+(function(){
+  var a=document.getElementById('contact');
+  if(!a) return;
+  var addr=['num','2323','studio'].join('')+String.fromCharCode(64)+['gmail','com'].join('.');
+  a.setAttribute('title','클릭하여 메일 작성');
+  a.addEventListener('click',function(){ window.location.href='mailto:'+addr; });
+})();
 </script>
 </body>
 </html>
