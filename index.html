@@ -334,6 +334,12 @@
 
   footer{padding:30px 22px 42px;text-align:center;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}
 
+  /* RTL 보정 (아랍어 등) */
+  [dir=rtl] .oneline{border-left:0;border-right:3px solid var(--c2);padding-left:0;padding-right:15px}
+  [dir=rtl] .core{border-left:0;border-right:4px solid var(--accent)}
+  [dir=rtl] .next{flex-direction:row-reverse}
+  [dir=rtl] .badge .date{direction:ltr}
+
   @media(prefers-reduced-motion:reduce){
     .txt{transition:opacity .3s!important;transform:none!important}
   }
@@ -776,7 +782,8 @@ const LANGS=[
  {code:'pt-BR',native:'Português (BR)',en:'Portuguese'},
  {code:'fr',native:'Français',en:'French'},
  {code:'de',native:'Deutsch',en:'German'},
- {code:'ru',native:'Русский',en:'Russian'}
+ {code:'ru',native:'Русский',en:'Russian'},
+ {code:'ar',native:'العربية',en:'Arabic'}
 ];
 const NAV_MAP={'zh':'zh-Hans','zh-cn':'zh-Hans','zh-sg':'zh-Hans','zh-hans':'zh-Hans','zh-tw':'zh-Hant','zh-hk':'zh-Hant','zh-hant':'zh-Hant','pt':'pt-BR','pt-br':'pt-BR','pt-pt':'pt-BR'};
 function hasLang(c){return c==='ko'||LANGS.some(l=>l.code===c);}
