@@ -21,8 +21,9 @@
 
 ## 기술 / 배포
 - 의존성 없는 **단일 `index.html`**(HTML·CSS·바닐라 JS) + 언어 팩 `i18n/<code>.json`(필요 시 로드)
+- **언어별 정적 페이지**: `/en/`, `/ja/`, `/ar/` … 각 페이지에 그 언어의 `title`·OG(제목·설명·이미지·locale)·canonical·**hreflang**이 박혀 있어, 카톡·SNS 공유 시 **해당 언어 미리보기(이미지 포함)**가 뜨고 검색엔진이 언어별로 색인합니다
+- **자동 생성기**: `node tools/build-pages.mjs` → 팩에서 언어별 페이지 + OG 이미지(`og-<code>.png`) + `sitemap.xml`을 생성 *(콘텐츠 수정 후 재실행하여 커밋. `rsvg-convert` + Noto/Nanum 폰트 필요)*
 - **Vercel**로 자동 배포 (`main` 푸시 시 갱신). `robots.txt`, `sitemap.xml`, OG·JSON-LD 포함
-- 별도 빌드 단계 없음
 
 ## 라이선스
 콘텐츠 문의/피드백은 사이트 하단 연락처를 통해 주세요.
