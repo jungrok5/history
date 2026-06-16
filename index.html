@@ -90,10 +90,11 @@
   .oneline{font-family:var(--serif);font-size:clamp(18px,4.6vw,22px);margin:0 0 20px;
     padding-left:15px;border-left:3px solid var(--c2)}
 
-  .chips{display:flex;flex-direction:column;gap:10px;margin:18px 0}
-  .chip{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:12px 15px}
-  .chip h4{margin:0 0 3px;font-size:11px;letter-spacing:.12em;color:var(--c2);text-transform:uppercase}
-  .chip p{margin:0;font-size:14.5px}
+  .meta{margin:18px 0;border:1px solid var(--line);border-radius:13px;background:var(--card);overflow:hidden}
+  .meta-row{display:flex;gap:12px;padding:11px 14px}
+  .meta-row+.meta-row{border-top:1px solid var(--line)}
+  .meta-row .k{flex:none;width:38px;font-size:11px;letter-spacing:.06em;color:var(--c2);font-weight:700;padding-top:2px}
+  .meta-row .vv{font-size:14px;margin:0}
 
   .verse{position:relative;margin:20px 0;padding:18px 18px 16px 22px;border-radius:15px;
     background:linear-gradient(180deg,var(--card),transparent);border:1px solid var(--line)}
@@ -177,6 +178,20 @@
   .mirror p b{color:var(--accent)}
   .mirror .punch{font-family:var(--serif);font-size:clamp(17px,4.4vw,21px);text-align:center;margin:18px auto 0;max-width:34ch}
 
+  .core-intro{text-align:center;color:var(--ink);font-size:15px;max-width:38ch;margin:34px auto 18px}
+
+  /* 바로 나 때문에 (십자가 클라이맥스) */
+  .crux{margin:30px 0 0;padding:28px 22px;border-radius:18px;text-align:center;
+    background:linear-gradient(160deg,rgba(239,99,99,.16),var(--card));border:1px solid rgba(239,99,99,.30)}
+  :root.sepia .crux{background:linear-gradient(160deg,rgba(192,57,43,.12),var(--card))}
+  .crux .crux-lead{font-family:var(--serif);font-size:16px;color:var(--accent);margin:0 0 14px}
+  .crux p{font-size:14.5px;max-width:44ch;margin:0 auto 12px;color:var(--ink)}
+  .crux p b{color:var(--accent)}
+  .crux .crux-punch{font-family:var(--serif);font-size:clamp(18px,4.8vw,23px);line-height:1.6;margin:18px auto 0;color:var(--ink)}
+  .crux .crux-punch b{color:#ef8a8a}
+  :root.sepia .crux .crux-punch b{color:#c0392b}
+  .crux .crux-verse{font-family:var(--serif);font-size:14px;color:var(--accent);max-width:46ch;margin:18px auto 0;line-height:1.7}
+
   .reveal{opacity:0;transform:translateY(28px);transition:opacity .7s ease,transform .7s ease}
   .reveal.in{opacity:1;transform:none}
 
@@ -248,7 +263,7 @@
   <canvas class="stars" id="starCanvas"></canvas>
   <div class="kicker">창조에서 교회까지</div>
   <h1>한눈에 보는<br><span class="em">성경 이야기</span></h1>
-  <p>스크롤 한 번으로 성경의 큰 줄거리를 머릿속에 그려보세요.</p>
+  <p>스크롤 한 번으로, 성경의 큰 줄거리와 예수님이 오신 이유를 만나보세요.</p>
   <div class="scrollcue">아래로 스크롤<span>↓</span></div>
 </header>
 
@@ -269,8 +284,6 @@
     <h2 class="reveal">성경의 진짜 핵심</h2>
     <p class="lead reveal">성경은 <b>“착하게 살라”는 도덕 교과서가 아닙니다.</b></p>
     <p class="sublead reveal">스스로를 구원할 수 없는 죄인을, 하나님이 <b>오직 은혜로</b> 건지신 이야기입니다. 그 중심에 예수 그리스도가 계십니다.</p>
-    <div class="core-grid" id="core"></div>
-
     <div class="mirror reveal">
       <h3>이스라엘의 악순환은 사실 ‘나’의 모습</h3>
       <div class="cycle"><b>우상을 섬김</b><span class="a">→</span><b>고난</b><span class="a">→</span><b>부르짖음</b><span class="a">→</span><b>하나님의 구원</b><span class="a">→</span><b>다시 우상…</b></div>
@@ -280,9 +293,20 @@
       <p class="punch">결국 가장 깊은 우상은 “하나님 자리에 앉은 나 자신”입니다.</p>
     </div>
 
+    <p class="core-intro reveal">그렇다면 이 죄인을, 하나님은 어떻게 구원하실까요? 성경이 말하는 복음의 핵심입니다.</p>
+    <div class="core-grid" id="core"></div>
+
+    <div class="crux reveal">
+      <p class="crux-lead">성경 전체가 한 곳을 가리킵니다.</p>
+      <p>사람은 스스로 죄의 악순환을 끊지 못했고, 누구도 의롭지 못했습니다. 그래서 누군가 <b>대신 그 값을 치러야</b> 했습니다.</p>
+      <p>예수님은 단지 좋은 교훈을 주러 오신 분이 아닙니다. 나를 살릴 다른 길이 없었기에 <b>오실 수밖에 없었습니다.</b></p>
+      <p class="crux-punch">그 십자가에 달려야 했던 사람은 바로 <b>나</b>였습니다.<br>예수님은 <b>나의 죄</b>를 대신 지고 그 자리에 못 박히셨습니다.</p>
+      <div class="crux-verse">“그가 찔림은 우리의 허물 때문이요 그가 상함은 우리의 죄악 때문이라 … 그가 채찍에 맞으므로 우리는 나음을 받았도다” — 이사야 53:5 (개역개정)</div>
+    </div>
+
     <div class="respond reveal">
       <h3>그래서, 나는 어떻게?</h3>
-      <p class="r-sub">성경은 정보가 아니라 <b>초대</b>입니다. 지금까지의 이야기가 마음에 와닿았다면, 아래 기도를 한 문장씩 천천히 따라 드려 보세요.</p>
+      <p class="r-sub">이 사랑은 정보가 아니라 <b>초대</b>입니다. 나를 대신해 못 박히신 그 사랑이 마음에 닿았다면, 지금 이 기도를 한 문장씩 천천히 따라 드려 보세요.</p>
       <div class="prayer">
         <p>하나님,</p>
         <p>저는 스스로를 구원할 수 없는 죄인임을 인정합니다.</p>
@@ -515,10 +539,9 @@ EPOCHS.forEach((e,i)=>{
         <div class="badge"><span class="num">${i+1}</span><span class="tag">${e.tag}</span><span class="date">${e.date}</span></div>
         <h2>${e.title}</h2>
         <div class="oneline">${e.one}</div>
-        <div class="chips">
-          <div class="chip"><h4>핵심 인물</h4><p>${e.people}</p></div>
-          <div class="chip"><h4>핵심 사건</h4><p>${e.events}</p></div>
-          <div class="chip"><h4>한마디로</h4><p>${e.word}</p></div>
+        <div class="meta">
+          <div class="meta-row"><span class="k">인물</span><p class="vv">${e.people}</p></div>
+          <div class="meta-row"><span class="k">사건</span><p class="vv">${e.events}</p></div>
         </div>
         <div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite} (개역개정)</div></div>
         <div class="thread-line"><span class="t">🧵</span><p><b>그리스도 실</b> · ${e.christ}</p></div>
