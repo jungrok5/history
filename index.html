@@ -192,6 +192,20 @@
   :root.sepia .crux .crux-punch b{color:#c0392b}
   .crux .crux-verse{font-family:var(--serif);font-size:14px;color:var(--accent);max-width:46ch;margin:18px auto 0;line-height:1.7}
 
+  /* 마음에 걸리는 질문 (FAQ) */
+  .faq{margin:30px 0 0}
+  .faq-h{font-family:var(--serif);text-align:center;font-size:clamp(18px,4.6vw,22px);margin:0 0 14px}
+  .faq-item{border:1px solid var(--line);border-radius:13px;background:var(--card);overflow:hidden;margin-bottom:10px}
+  .faq-item summary{cursor:pointer;list-style:none;padding:14px 16px;font-size:14.5px;font-weight:600;
+    display:flex;gap:9px;align-items:flex-start;color:var(--ink)}
+  .faq-item summary::-webkit-details-marker{display:none}
+  .faq-item summary .arr{color:var(--accent);transition:.25s;display:inline-block;flex:none}
+  .faq-item[open] summary .arr{transform:rotate(90deg)}
+  .faq-body{padding:0 16px 16px;font-size:14px;line-height:1.75;color:var(--ink)}
+  .faq-body p{margin:0 0 11px}
+  .faq-body b{color:var(--accent)}
+  .faq-body .faq-v{font-size:12.5px;color:var(--accent);border-top:1px dashed var(--line);padding-top:10px;margin-bottom:0}
+
   .reveal{opacity:0;transform:translateY(28px);transition:opacity .7s ease,transform .7s ease}
   .reveal.in{opacity:1;transform:none}
 
@@ -302,6 +316,33 @@
       <p>예수님은 단지 좋은 교훈을 주러 오신 분이 아닙니다. 나를 살릴 다른 길이 없었기에 <b>오실 수밖에 없었습니다.</b></p>
       <p class="crux-punch">그 십자가에 달려야 했던 사람은 바로 <b>나</b>였습니다.<br>예수님은 <b>나의 죄</b>를 대신 지고 그 자리에 못 박히셨습니다.</p>
       <div class="crux-verse">“그가 찔림은 우리의 허물 때문이요 그가 상함은 우리의 죄악 때문이라 … 그가 채찍에 맞으므로 우리는 나음을 받았도다” — 이사야 53:5 (개역개정)</div>
+    </div>
+
+    <div class="faq reveal">
+      <h3 class="faq-h">혹시, 이런 게 마음에 걸리나요?</h3>
+
+      <details class="faq-item">
+        <summary><span class="arr">▸</span> 그럼 살인자도 믿기만 하면 천국, 평생 착하게 산 사람은 안 믿으면 지옥인가요?</summary>
+        <div class="faq-body">
+          <p>충분히 들 수 있는 질문입니다. 그런데 여기엔 두 가지 오해가 숨어 있어요.</p>
+          <p><b>① 성경은 사람을 ‘착한 사람 vs 나쁜 사람’으로 나누지 않습니다.</b> 기준은 ‘옆 사람보다 나음’이 아니라 ‘하나님의 완전한 거룩하심’입니다. 그 앞에서는 누구도 “충분히 착한” 사람이 없습니다(롬 3:23). 그래서 이건 ‘착한 사람 vs 살인자’가 아니라, 똑같이 죽을병에 걸린 두 사람 중 하나는 약을 받고, 하나는 “난 저 사람보다 건강해”라며 거부한 이야기에 가깝습니다.</p>
+          <p><b>② 천국·지옥은 ‘착한 행동의 상품’이 아니라 ‘하나님과의 관계’입니다.</b> 평생 하나님을 거부하며 산 사람에게, 하나님은 그 선택을 억지로 뒤집지 않으십니다. 지옥은 어떤 의미에서 “하나님 없이 살겠다”는 평생의 선택을 그분이 존중하신 결과입니다.</p>
+          <p>또 ‘믿음’은 머리로 인정하는 게 아니라 삶의 주인이 바뀌는 것입니다. 진짜로 예수님을 영접한 사람이라면 뻔뻔한 게 아니라 가장 깊이 회개합니다. 오히려 “나는 착하다”는 <b>자기 의(自己義)</b>가 가장 깨기 어려운 우상입니다(눅 18:9-14). 은혜는 ‘내가 자격 없음’을 인정하는 사람에게만 선물이 됩니다.</p>
+          <p>그리고 누가 어디로 가는지 <b>최종 판단은 우리가 아니라, 완전히 공의롭고 자비로우신 하나님의 몫</b>입니다. 우리는 다만 그 초대를 전할 뿐입니다.</p>
+          <p class="faq-v">롬 3:23 · 엡 2:8-9 · 눅 18:9-14 (개역개정)</p>
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary><span class="arr">▸</span> 영화 「밀양」처럼, 가해자가 ‘용서받았다’며 평안하면 — 용서가 너무 값싼 것 아닌가요?</summary>
+        <div class="faq-body">
+          <p>영화가 던진 질문은 정당하고, 그 아픔도 진짜입니다. 다만 그 장면이 보여준 것은 ‘성경의 용서’가 아니라 그 <b>왜곡</b>이었습니다.</p>
+          <p><b>① 하나님의 용서는 결코 값싸지 않습니다.</b> 죄를 ‘없던 일’로 덮은 게 아니라, 하나님이 친히 아들의 생명으로 그 값을 치르신 것입니다. 십자가는 죄를 가볍게 본 증거가 아니라, 죄가 그만큼 무겁다는 증거입니다 — 세상에서 가장 값비싼 용서입니다.</p>
+          <p><b>② 참된 회개에는 열매가 따릅니다.</b> 가해자가 “하나님이 용서했으니 난 평안해”라며 피해자 앞에서 뻔뻔하다면, 그것은 회개가 아니라 회개의 흉내입니다(마 3:8). 하나님과 나 사이의 용서가, 피해자의 상처를 ‘없던 일’로 만들거나 피해자에게 용서를 강요하지도 않습니다.</p>
+          <p><b>③ 하나님은 공의의 하나님이십니다.</b> 세상의 법적 책임은 그대로 남고(롬 13장), 끝내 드러나지 않은 악까지 마지막 심판에서 반드시 바로잡으십니다(롬 12:19). 피해자의 눈물은 결코 사소하지 않습니다 — 하나님은 그 모든 눈물을 기억하시고 끝내 친히 닦아 주십니다(계 21:4).</p>
+          <p class="faq-v">롬 6:1-2 · 마 3:8 · 롬 12:19 · 계 21:4 (개역개정)</p>
+        </div>
+      </details>
     </div>
 
     <div class="respond reveal">
