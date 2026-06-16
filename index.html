@@ -123,30 +123,10 @@
   .next{margin-top:22px;font-size:14.5px;color:var(--muted);font-style:italic;display:flex;align-items:center;gap:10px}
   .next::before{content:"";width:24px;height:1px;background:var(--muted);flex:none}
 
-  /* REVIEW + FLASHCARDS */
-  .review{padding:78px 0 40px;background:radial-gradient(120% 70% at 50% 0%,rgba(155,93,229,.16),transparent 60%)}
-  :root.sepia .review{background:radial-gradient(120% 70% at 50% 0%,rgba(176,125,35,.14),transparent 60%)}
-  .review h2{font-family:var(--serif);text-align:center;font-size:clamp(24px,6.5vw,36px);margin:0 0 8px}
-  .review .sub{text-align:center;color:var(--muted);margin:0 0 30px;font-size:15px}
-
-  .cards{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
-  @media(min-width:620px){.cards{grid-template-columns:repeat(3,1fr)}}
-  .fcard{perspective:1000px;height:150px;cursor:pointer}
-  .fcard .inner{position:relative;width:100%;height:100%;transition:transform .6s;transform-style:preserve-3d}
-  .fcard.flip .inner{transform:rotateY(180deg)}
-  .fcard .face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
-    border:1px solid var(--line);border-radius:16px;padding:12px;display:flex;flex-direction:column;
-    align-items:center;justify-content:center;text-align:center;background:var(--card)}
-  .fcard .front .e{font-size:30px;margin-bottom:6px}
-  .fcard .front .n{font-size:12px;color:var(--accent);font-weight:700}
-  .fcard .front .t{font-family:var(--serif);font-size:16px;margin-top:2px}
-  .fcard .front .hint{font-size:10.5px;color:var(--muted);margin-top:8px}
-  .fcard .back{transform:rotateY(180deg);background:linear-gradient(160deg,rgba(155,93,229,.18),var(--card))}
-  .fcard .back p{margin:0;font-size:12.5px;line-height:1.55}
-  .fcard .back .verse-mini{margin-top:7px;font-size:11px;color:var(--accent)}
-
   .closing{text-align:center;padding:64px 22px 120px}
   .closing p{font-family:var(--serif);font-size:clamp(19px,5.4vw,26px);line-height:1.6;max-width:24ch;margin:0 auto}
+  .closing p em{color:var(--accent);font-style:normal}
+  .closing .closing-verse{font-family:var(--serif);font-size:15px;color:var(--accent);max-width:42ch;margin:22px auto 0;line-height:1.7}
   .closing .small{font-family:var(--sans);font-size:14px;color:var(--muted);margin-top:26px}
 
   /* minimap */
@@ -197,13 +177,6 @@
   .mirror p b{color:var(--accent)}
   .mirror .punch{font-family:var(--serif);font-size:clamp(17px,4.4vw,21px);text-align:center;margin:18px auto 0;max-width:34ch}
 
-  .hist{margin-top:26px;padding:20px;border-radius:16px;border:1px solid var(--line);background:var(--card);
-    display:flex;gap:14px;align-items:flex-start}
-  .hist .ic{font-size:26px;line-height:1}
-  .hist h3{margin:0 0 6px;font-family:var(--serif);font-size:19px}
-  .hist p{margin:0 0 8px;font-size:14px}
-  .hist .v{font-size:12.5px;color:var(--accent)}
-
   .reveal{opacity:0;transform:translateY(28px);transition:opacity .7s ease,transform .7s ease}
   .reveal.in{opacity:1;transform:none}
 
@@ -224,30 +197,6 @@
   .r-step span{font-size:13.5px;color:var(--muted)}
   .r-verse{font-family:var(--serif);font-size:14px;color:var(--accent);max-width:46ch;margin:0 auto;line-height:1.7}
 
-  /* 부록: 언약 + 구조 */
-  .extra{padding:74px 0 60px;border-bottom:1px solid var(--line)}
-  .extra h2{font-family:var(--serif);text-align:center;font-size:clamp(24px,6.4vw,34px);margin:0 0 8px}
-  .extra .extra-sub{text-align:center;color:var(--muted);margin:0 0 30px;font-size:15px}
-  .extra h3{font-family:var(--serif);font-size:18px;margin:34px 0 14px}
-  .cov{display:flex;flex-direction:column}
-  .cov-item{position:relative;padding:11px 0 11px 26px;border-left:2px solid var(--line)}
-  .cov-item:last-child{border-left-color:transparent}
-  .cov-item::before{content:"";position:absolute;left:-7px;top:16px;width:12px;height:12px;border-radius:50%;
-    background:var(--bg);border:2px solid var(--accent)}
-  .cov-item.done::before{background:var(--accent)}
-  .cov-item b{display:block;font-size:15px;color:var(--accent)}
-  .cov-item span{font-size:13.5px;color:var(--ink)}
-  .struct{display:grid;grid-template-columns:1fr;gap:14px}
-  @media(min-width:600px){.struct{grid-template-columns:1fr 1fr}}
-  .st-col{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px}
-  .st-col h4{margin:0 0 8px;font-size:14px;color:var(--accent);letter-spacing:.05em}
-  .st-col ul{margin:0;padding:0;list-style:none}
-  .st-col li{font-size:14px;padding:6px 0;border-bottom:1px dashed var(--line)}
-  .st-col li:last-child{border-bottom:none}
-  .st-col li b{color:var(--ink)}
-  .struct-note{text-align:center;color:var(--muted);font-size:14px;margin-top:20px}
-  .struct-note b{color:var(--accent)}
-
   /* 흔한 오해 → 사실은 */
   .myth{margin-top:16px;border:1px solid var(--line);border-radius:13px;overflow:hidden}
   .m-row{display:flex;gap:10px;align-items:flex-start;padding:13px 15px}
@@ -261,24 +210,14 @@
   :root.sepia .m-tag.wrong{color:#c0392b}
   :root.sepia .m-tag.right{color:#1a7a52}
 
-  /* 포기하지 않는 사랑 (캡스톤) */
-  .love{padding:82px 0 66px;border-bottom:1px solid var(--line);position:relative;overflow:hidden;
-    background:radial-gradient(120% 60% at 50% 0%,rgba(232,122,93,.18),transparent 62%)}
-  :root.sepia .love{background:radial-gradient(120% 60% at 50% 0%,rgba(176,80,50,.14),transparent 62%)}
-  .love .eyebrow{text-align:center;color:var(--accent);font-size:13px;letter-spacing:.2em;margin-bottom:12px}
-  .love h2{font-family:var(--serif);text-align:center;font-size:clamp(25px,6.6vw,38px);margin:0 0 14px}
-  .love .love-lead{text-align:center;color:var(--ink);max-width:40ch;margin:0 auto 30px;font-size:16px}
-  .love-list{display:flex;flex-direction:column;gap:8px;max-width:580px;margin:0 auto}
-  .ll{display:flex;flex-direction:column;gap:2px;padding:12px 16px;border-radius:12px;
-    background:var(--card);border:1px solid var(--line)}
-  @media(min-width:560px){.ll{flex-direction:row;align-items:baseline;justify-content:space-between;gap:14px}}
-  .ll span{font-size:13.5px;color:var(--muted)}
-  .ll b{font-size:14.5px;color:var(--accent)}
-  @media(min-width:560px){.ll b{text-align:right}}
-  .ll.last{background:linear-gradient(160deg,rgba(233,185,73,.20),var(--card));border-color:rgba(233,185,73,.32)}
-  .love-verse{max-width:48ch;margin:30px auto 0;text-align:center}
-  .love-verse p{font-family:var(--serif);font-size:15px;line-height:1.7;margin:0 0 16px;color:var(--ink)}
-  .love-verse span{display:block;font-family:var(--sans);font-size:12.5px;color:var(--accent);margin-top:5px}
+  /* 멈추지 않는 사랑 (각 섹션) */
+  .love-note{display:flex;gap:11px;align-items:flex-start;margin-top:14px;padding:14px 15px;border-radius:13px;
+    background:linear-gradient(160deg,rgba(232,122,93,.15),var(--card));border:1px solid rgba(232,122,93,.28)}
+  :root.sepia .love-note{background:linear-gradient(160deg,rgba(176,80,50,.12),var(--card))}
+  .love-note .lh{font-size:18px;line-height:1.25}
+  .love-note p{margin:0;font-size:14px;color:var(--ink)}
+  .love-note b{color:#ef9f7e}
+  :root.sepia .love-note b{color:#b0552c}
 
   /* 이 콘텐츠에 대하여 */
   .about{padding:60px 0 52px;background:var(--bg2)}
@@ -347,16 +286,6 @@
       <p class="punch">결국 가장 깊은 우상은 “하나님 자리에 앉은 나 자신”입니다.</p>
     </div>
 
-    <div class="hist reveal">
-      <span class="ic">📜</span>
-      <div>
-        <h3>성경은 신화가 아니라 ‘실제 역사’</h3>
-        <p>성경은 “옛날 옛적에”로 시작하는 우화가 아니라, 실제 시간·장소·인물 속에서 일어난 일을 증언합니다. 특히 복음서는 목격자의 증언을 “차례대로 자세히” 기록한 보고서입니다(눅 1:1-4).</p>
-        <p>무엇보다 <b>부활</b>은 신앙의 사활이 걸린 ‘사건’입니다. 바울은 “그리스도께서 다시 살아나신 일이 없으면 너희의 믿음도 헛되다”(고전 15:17)고 말합니다. 즉 기독교는 “좋은 교훈”이 아니라 <b>“실제로 일어난 일”</b> 위에 서 있습니다.</p>
-        <p class="v">눅 1:1-4 · 고전 15:14, 17 · 벧후 1:16 (개역개정)</p>
-      </div>
-    </div>
-
     <div class="respond reveal">
       <h3>그래서, 나는 어떻게?</h3>
       <p class="r-sub">성경은 정보가 아니라 <b>초대</b>입니다. 머리로 아는 데서 끝나지 않습니다.</p>
@@ -370,80 +299,9 @@
   </div>
 </section>
 
-<section class="review" data-title="암기 카드" data-label="암기카드">
-  <div class="wrap">
-    <h2>암기 플래시카드</h2>
-    <p class="sub">카드를 탭하면 뒤집힙니다 · 13장면을 스스로 떠올려 보세요</p>
-    <div class="cards" id="cards"></div>
-  </div>
-</section>
-
-<section class="extra" data-title="언약과 구조" data-label="언약·구조">
-  <div class="wrap">
-    <h2 class="reveal">한눈에 더 보기</h2>
-    <p class="extra-sub reveal">성경을 꿰는 ‘언약’의 흐름과 66권의 큰 구조</p>
-
-    <h3 class="reveal">🔗 하나의 약속이 점점 또렷해지다 — 언약의 흐름</h3>
-    <div class="cov reveal">
-      <div class="cov-item"><b>아브라함 언약</b><span>“모든 족속이 너로 말미암아 복을 받으리라” (창 12)</span></div>
-      <div class="cov-item"><b>모세(시내산) 언약</b><span>“너희는 내 백성이 되리라” + 율법 (출 19–24)</span></div>
-      <div class="cov-item"><b>다윗 언약</b><span>“네 왕위가 영원하리라” (삼하 7)</span></div>
-      <div class="cov-item"><b>새 언약</b><span>“마음에 새기리라” — 예수님의 피로 이루심 (렘 31 · 눅 22)</span></div>
-      <div class="cov-item done"><b>완성</b><span>새 하늘과 새 땅에서 하나님과 영원히 함께 (계 21)</span></div>
-    </div>
-
-    <h3 class="reveal">📚 성경 66권 한눈 구조</h3>
-    <div class="struct reveal">
-      <div class="st-col">
-        <h4>구약 39권</h4>
-        <ul>
-          <li><b>율법서 (5)</b> · 창세기–신명기</li>
-          <li><b>역사서 (12)</b> · 여호수아–에스더</li>
-          <li><b>시가서 (5)</b> · 욥기–아가</li>
-          <li><b>대선지서 (5)</b> · 이사야–다니엘</li>
-          <li><b>소선지서 (12)</b> · 호세아–말라기</li>
-        </ul>
-      </div>
-      <div class="st-col">
-        <h4>신약 27권</h4>
-        <ul>
-          <li><b>복음서 (4)</b> · 마태–요한</li>
-          <li><b>역사서 (1)</b> · 사도행전</li>
-          <li><b>바울 서신 (13)</b> · 로마서–빌레몬서</li>
-          <li><b>일반 서신 (8)</b> · 히브리서–유다서</li>
-          <li><b>예언서 (1)</b> · 요한계시록</li>
-        </ul>
-      </div>
-    </div>
-    <p class="struct-note reveal">이번 여행에서 따라온 <b>역사서</b>가 성경의 뼈대이고, 나머지 책들이 그 위에 ‘살’을 붙입니다.</p>
-  </div>
-</section>
-
-<section class="love" data-title="포기하지 않는 사랑" data-label="그 사랑">
-  <div class="wrap">
-    <div class="eyebrow reveal">이 모든 이야기의 결론</div>
-    <h2 class="reveal">한 번도 포기하지 않으신 사랑</h2>
-    <p class="love-lead reveal">성경을 한 문장으로 줄이면 — 자꾸만 떠나는 사람을 끝까지 따라오시는 하나님의 사랑 이야기입니다.</p>
-    <div class="love-list reveal">
-      <div class="ll"><span>사람이 죄를 지어도</span><b>그 자리에서 구원을 약속하셨다</b></div>
-      <div class="ll"><span>도망치고 의심해도</span><b>먼저 찾아와 이름을 부르셨다</b></div>
-      <div class="ll"><span>노예가 되어 신음해도</span><b>직접 건져 내셨다</b></div>
-      <div class="ll"><span>광야에서 불평하고 배신해도</span><b>만나로 먹이며 함께 걸으셨다</b></div>
-      <div class="ll"><span>우상을 섬기며 등을 돌려도</span><b>선지자를 보내 “돌아오라” 하셨다</b></div>
-      <div class="ll"><span>끝내 포로로 끌려가도</span><b>그 땅까지 함께 가 회복을 약속하셨다</b></div>
-      <div class="ll"><span>400년을 침묵하셔도</span><b>보이지 않게 구원을 준비하셨다</b></div>
-      <div class="ll"><span>우리가 아직 죄인일 때</span><b>아들을 보내 대신 죽게 하셨다</b></div>
-      <div class="ll last"><span>그리고 마침내</span><b>모든 눈물을 닦고 모든 것을 회복하신다</b></div>
-    </div>
-    <div class="love-verse reveal">
-      <p>“내가 영원한 사랑으로 너를 사랑하기에 인자함으로 너를 이끌었다 하였노라”<span>예레미야 31:3 (개역개정)</span></p>
-      <p>“사망이나 생명이나 … 다른 어떤 피조물이라도 우리를 우리 주 그리스도 예수 안에 있는 하나님의 사랑에서 끊을 수 없으리라”<span>로마서 8:38-39 (개역개정)</span></p>
-    </div>
-  </div>
-</section>
-
 <section class="closing">
-  <p>한 분의 하나님이,<br>한 편의 이야기로,<br>한 분 예수님을 향해 가십니다.</p>
+  <p>한 분의 하나님이,<br>한 편의 이야기로,<br>끝까지 포기하지 않는 <em>사랑</em>으로<br>우리를 찾아오십니다.</p>
+  <p class="closing-verse">“사망이나 생명이나 … 그 무엇도 우리를 우리 주 그리스도 예수 안에 있는 하나님의 사랑에서 끊을 수 없으리라” — 로마서 8:38-39 (개역개정)</p>
   <p class="small">이 줄거리 위에 율법·시가서·예언서·서신서가 “살”을 붙입니다.<br>이제 어느 책을 펴도 “지금 이야기의 어디쯤인지” 보일 거예요.</p>
 </section>
 
@@ -588,16 +446,31 @@ const MIS=[
   t:'선지자의 핵심은 ‘미래 맞히기’가 아니라 “제발 돌아오라”는 하나님의 애끓는 호소입니다. 심판의 경고조차 멸망시키려는 게 아니라 돌이켜 살리시려는 사랑입니다 — “나는 악인이 죽는 것을 기뻐하지 아니한다”(겔 33:11).'},
  {w:'“포로로 끌려간 건 하나님이 이스라엘을 완전히 버리셨다는 증거다.”',
   t:'포로는 버림이 아니라 사랑하는 자녀를 향한 징계이자 정화였습니다(히 12:6). 하나님은 떠나지 않으셨고, 오히려 포로 한복판에서 다니엘과 함께하시며 “너희를 향한 생각은 평안이요 미래와 희망”이라 약속하셨습니다(렘 29:11).'},
- {w:'“회개하고 돌아왔으니 이제 사람도 달라지고 해피엔딩이다.”',
-  t:'돌아온 백성도 금세 다시 흔들립니다(말 1:6; 3:8). 인간의 노력만으로는 마음의 근본 문제가 해결되지 않음이 드러납니다 — 그래서 더 큰 구원자가 필요합니다. 하나님은 일찍이 “새 마음과 새 영을 주겠다”고 약속하셨습니다(겔 36:26). 사람이 거듭 실패해도 하나님은 약속을 거두지 않으십니다.'},
+ null,
  {w:'“400년간 말씀이 없었으니 하나님이 떠나셨거나 쉬고 계셨다.”',
   t:'침묵은 부재가 아닙니다. 말씀이 없었을 뿐, 그 시간 내내 제국과 언어와 길을 움직여 구원의 무대를 준비하셨습니다. 가장 조용한 순간에도 하나님은 가장 분주히 사랑으로 일하고 계셨습니다(갈 4:4).'},
  {w:'“예수님은 훌륭한 도덕 선생 중 한 분 / 십자가는 비극적인 패배였다.”',
   t:'예수님은 스스로 하나님이라 밝히셨고(요 8:58), 십자가는 사고나 패배가 아니라 계획된 사랑이었습니다. 억지로 끌려간 것이 아니라 스스로 목숨을 내어주셨습니다(요 10:18). “사람이 친구를 위하여 목숨을 버리면 이보다 더 큰 사랑이 없다”(요 15:13).'},
  {w:'“교회는 완벽한 사람들의 종교 클럽이거나 그냥 건물이다.”',
   t:'교회는 ‘완성된 성인(聖人)’이 아니라 ‘용서받은 죄인들’의 공동체입니다. 사도 바울조차 자신을 “죄인 중에 내가 괴수”라 불렀습니다(딤전 1:15). 초대 교회도 다투고 실수했습니다(행 6:1; 고전 1:11). 교회는 자랑하는 곳이 아니라, 받은 사랑을 함께 흘려보내는 사람들입니다(요 13:34-35).'},
- {w:'“천국은 구름 위에서 하프나 켜는 지루한 곳 / 세상은 결국 불타 사라진다.”',
-  t:'성경의 결말은 영혼이 어디론가 도피해 한가로이 떠 있는 것이 아닙니다. 부활한 몸으로, 눈물도 죽음도 없는 ‘새 하늘과 새 땅’에서 하나님과 영원히 사는 것입니다(계 21:1-4). 지루한 도피가 아니라 에덴보다 더 충만한 실재 — 하나님의 사랑 이야기가 완성되는 곳입니다.'}
+ null
+];
+
+/* ---------- 멈추지 않는 사랑 (각 섹션, 13장면 순서) ---------- */
+const LOVE=[
+ '모든 이야기의 시작은 심판이 아니라, 넘치는 사랑으로 지으심이었습니다.',
+ '사람이 죄를 짓자마자, 하나님은 그 자리에서 곧바로 구원을 약속하셨습니다.',
+ '자격 없는 사람을 하나님이 먼저 찾아와 이름을 부르시고 복의 통로로 삼으셨습니다.',
+ '노예 되어 신음하는 백성의 부르짖음을 들으시고, 직접 건져 내셨습니다.',
+ '배신하고 또 배신해도, 부르짖을 때마다 구원자를 보내 다시 일으키셨습니다.',
+ '크게 넘어진 다윗마저 버리지 않으시고, 그를 통해 영원한 왕을 약속하셨습니다.',
+ '등을 돌린 백성에게 선지자를 보내, 끝까지 “제발 돌아오라” 부르셨습니다.',
+ '가장 어두운 포로의 땅까지 함께 가시며, 회복을 약속하셨습니다.',
+ '거듭 실패하는 백성에게도 약속을 거두지 않으시고, 다시 세워 주셨습니다.',
+ '말씀이 없으신 400년에도, 보이지 않게 구원의 길을 준비하고 계셨습니다.',
+ '우리가 아직 죄인일 때, 아들을 보내 스스로 목숨을 내어주셨습니다.',
+ '받은 그 사랑을, 이제 온 세상으로 함께 흘려보내게 하셨습니다.',
+ '마침내 모든 눈물을 닦으시고, 모든 것을 사랑으로 회복하실 것입니다.'
 ];
 
 /* ---------- 복음의 핵심 메시지 ---------- */
@@ -657,28 +530,16 @@ EPOCHS.forEach((e,i)=>{
         </div>
         <div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite} (개역개정)</div></div>
         <div class="thread-line"><span class="t">🧵</span><p><b>그리스도 실</b> · ${e.christ}</p></div>
-        <div class="myth">
+        <div class="love-note"><span class="lh">💛</span><p><b>멈추지 않는 사랑</b> · ${LOVE[i]}</p></div>
+        ${MIS[i]?`<div class="myth">
           <div class="m-row"><span class="m-tag wrong">흔한 오해</span><p>${MIS[i].w}</p></div>
           <div class="m-row"><span class="m-tag right">사실은</span><p>${MIS[i].t}</p></div>
-        </div>
+        </div>`:''}
         <details class="more"><summary><span class="arr">▸</span> 자세히 보기</summary><div class="body">${e.detail}</div></details>
         <div class="next">${e.next}</div>
       </div>
     </div></div>`;
   main.appendChild(s);
-});
-
-/* 플래시카드 */
-const cardWrap=document.getElementById('cards');
-EPOCHS.forEach((e,i)=>{
-  const c=document.createElement('div');
-  c.className='fcard';
-  c.innerHTML=`<div class="inner">
-    <div class="face front"><div class="e">${e.emoji}</div><div class="n">${i+1}</div><div class="t">${e.title}</div><div class="hint">탭하여 뒤집기</div></div>
-    <div class="face back"><p>${e.one}</p><div class="verse-mini">${e.cite}</div></div>
-  </div>`;
-  c.addEventListener('click',()=>c.classList.toggle('flip'));
-  cardWrap.appendChild(c);
 });
 
 /* ---------- 스크롤 인터랙션 ---------- */
