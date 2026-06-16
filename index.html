@@ -772,9 +772,11 @@ const LANGS=[
  {code:'zh-Hans',native:'中文（简体）',en:'Chinese (Simplified)'},
  {code:'zh-Hant',native:'中文（繁體）',en:'Chinese (Traditional)'},
  {code:'ja',native:'日本語',en:'Japanese'},
- {code:'es',native:'Español',en:'Spanish'}
+ {code:'es',native:'Español',en:'Spanish'},
+ {code:'pt-BR',native:'Português (BR)',en:'Portuguese'},
+ {code:'fr',native:'Français',en:'French'}
 ];
-const NAV_MAP={'zh':'zh-Hans','zh-cn':'zh-Hans','zh-sg':'zh-Hans','zh-hans':'zh-Hans','zh-tw':'zh-Hant','zh-hk':'zh-Hant','zh-hant':'zh-Hant'};
+const NAV_MAP={'zh':'zh-Hans','zh-cn':'zh-Hans','zh-sg':'zh-Hans','zh-hans':'zh-Hans','zh-tw':'zh-Hant','zh-hk':'zh-Hant','zh-hant':'zh-Hant','pt':'pt-BR','pt-br':'pt-BR','pt-pt':'pt-BR'};
 function hasLang(c){return c==='ko'||LANGS.some(l=>l.code===c);}
 function resolveNav(nav){
   nav=(nav||'').toLowerCase(); if(!nav) return null;
