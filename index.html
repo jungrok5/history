@@ -187,14 +187,13 @@
   .respond h3{font-family:var(--serif);font-size:clamp(20px,5vw,26px);margin:0 0 8px}
   .respond .r-sub{font-size:14.5px;color:var(--muted);margin:0 auto 18px;max-width:40ch}
   .respond .r-sub b{color:var(--accent)}
-  .r-steps{display:flex;flex-direction:column;gap:10px;max-width:440px;margin:0 auto 18px;text-align:left}
-  .r-step{display:flex;gap:12px;align-items:flex-start;background:var(--card);border:1px solid var(--line);
-    border-radius:13px;padding:13px 15px}
-  .r-step .rn{font-family:var(--serif);font-weight:700;color:#0e1118;background:var(--accent);
-    width:26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex:none}
-  :root.sepia .r-step .rn{color:#efe6d3}
-  .r-step b{display:block;font-size:15px}
-  .r-step span{font-size:13.5px;color:var(--muted)}
+  .prayer{max-width:440px;margin:0 auto 18px;padding:22px 22px 18px;border-radius:14px;text-align:center;
+    background:var(--card);border:1px solid var(--line)}
+  .prayer p{font-family:var(--serif);font-size:16px;line-height:1.8;margin:0 0 10px;color:var(--ink)}
+  .prayer p:first-child{color:var(--accent)}
+  .prayer .amen{margin-top:14px;color:var(--accent);font-size:15px}
+  .r-after{font-size:14px;color:var(--muted);max-width:42ch;margin:0 auto 16px}
+  .r-after b{color:var(--accent)}
   .r-verse{font-family:var(--serif);font-size:14px;color:var(--accent);max-width:46ch;margin:0 auto;line-height:1.7}
 
   /* 흔한 오해 → 사실은 */
@@ -283,13 +282,17 @@
 
     <div class="respond reveal">
       <h3>그래서, 나는 어떻게?</h3>
-      <p class="r-sub">성경은 정보가 아니라 <b>초대</b>입니다. 머리로 아는 데서 끝나지 않습니다.</p>
-      <div class="r-steps">
-        <div class="r-step"><span class="rn">1</span><div><b>인정</b><span>나는 스스로 구원할 수 없는 죄인임을 인정합니다.</span></div></div>
-        <div class="r-step"><span class="rn">2</span><div><b>믿음</b><span>예수님이 나를 위해 죽고 다시 사셨음을 믿고 신뢰합니다.</span></div></div>
-        <div class="r-step"><span class="rn">3</span><div><b>돌이킴</b><span>회개하고, 그분을 주인으로 모시며 새 삶을 시작합니다.</span></div></div>
+      <p class="r-sub">성경은 정보가 아니라 <b>초대</b>입니다. 지금까지의 이야기가 마음에 와닿았다면, 아래 기도를 한 문장씩 천천히 따라 드려 보세요.</p>
+      <div class="prayer">
+        <p>하나님,</p>
+        <p>저는 스스로를 구원할 수 없는 죄인임을 인정합니다.</p>
+        <p>예수님이 저를 위해 십자가에서 죽으시고 다시 살아나신 것을 믿습니다.</p>
+        <p>제 모든 죄를 용서해 주시고, 이제 제 삶의 주인이 되어 주세요.</p>
+        <p>저를 하나님의 자녀로 받아 주시고, 새로운 삶을 살게 해 주세요.</p>
+        <p class="amen">예수님의 이름으로 기도합니다. 아멘.</p>
       </div>
-      <div class="r-verse">“네가 만일 네 입으로 예수를 주로 시인하며 또 하나님께서 그를 죽은 자 가운데서 살리신 것을 네 마음에 믿으면 구원을 받으리라” — 롬 10:9 · 행 2:38 · 요 1:12 (개역개정)</div>
+      <p class="r-after">이 기도를 진심으로 드렸다면, 성경은 당신이 <b>하나님의 자녀가 되었다</b>고 말합니다. 이제 혼자가 아닙니다 — 가까운 교회를 찾아 함께 신앙의 길을 걸어가세요.</p>
+      <div class="r-verse">“영접하는 자 곧 그 이름을 믿는 자들에게는 하나님의 자녀가 되는 권세를 주셨으니” — 요 1:12 · 롬 10:9-10 (개역개정)</div>
     </div>
   </div>
 </section>
