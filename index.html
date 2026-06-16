@@ -248,6 +248,38 @@
   .struct-note{text-align:center;color:var(--muted);font-size:14px;margin-top:20px}
   .struct-note b{color:var(--accent)}
 
+  /* 흔한 오해 → 사실은 */
+  .myth{margin-top:16px;border:1px solid var(--line);border-radius:13px;overflow:hidden}
+  .m-row{display:flex;gap:10px;align-items:flex-start;padding:13px 15px}
+  .m-row+.m-row{border-top:1px solid var(--line)}
+  .myth .m-row:last-child{background:rgba(52,211,153,.07)}
+  :root.sepia .myth .m-row:last-child{background:rgba(16,140,90,.08)}
+  .m-row p{margin:0;font-size:14px}
+  .m-tag{flex:none;font-size:11px;font-weight:700;letter-spacing:.03em;padding:3px 9px;border-radius:7px;margin-top:1px;white-space:nowrap}
+  .m-tag.wrong{background:rgba(239,99,99,.16);color:#ef8a8a}
+  .m-tag.right{background:rgba(52,211,153,.18);color:#34d399}
+  :root.sepia .m-tag.wrong{color:#c0392b}
+  :root.sepia .m-tag.right{color:#1a7a52}
+
+  /* 포기하지 않는 사랑 (캡스톤) */
+  .love{padding:82px 0 66px;border-bottom:1px solid var(--line);position:relative;overflow:hidden;
+    background:radial-gradient(120% 60% at 50% 0%,rgba(232,122,93,.18),transparent 62%)}
+  :root.sepia .love{background:radial-gradient(120% 60% at 50% 0%,rgba(176,80,50,.14),transparent 62%)}
+  .love .eyebrow{text-align:center;color:var(--accent);font-size:13px;letter-spacing:.2em;margin-bottom:12px}
+  .love h2{font-family:var(--serif);text-align:center;font-size:clamp(25px,6.6vw,38px);margin:0 0 14px}
+  .love .love-lead{text-align:center;color:var(--ink);max-width:40ch;margin:0 auto 30px;font-size:16px}
+  .love-list{display:flex;flex-direction:column;gap:8px;max-width:580px;margin:0 auto}
+  .ll{display:flex;flex-direction:column;gap:2px;padding:12px 16px;border-radius:12px;
+    background:var(--card);border:1px solid var(--line)}
+  @media(min-width:560px){.ll{flex-direction:row;align-items:baseline;justify-content:space-between;gap:14px}}
+  .ll span{font-size:13.5px;color:var(--muted)}
+  .ll b{font-size:14.5px;color:var(--accent)}
+  @media(min-width:560px){.ll b{text-align:right}}
+  .ll.last{background:linear-gradient(160deg,rgba(233,185,73,.20),var(--card));border-color:rgba(233,185,73,.32)}
+  .love-verse{max-width:48ch;margin:30px auto 0;text-align:center}
+  .love-verse p{font-family:var(--serif);font-size:15px;line-height:1.7;margin:0 0 16px;color:var(--ink)}
+  .love-verse span{display:block;font-family:var(--sans);font-size:12.5px;color:var(--accent);margin-top:5px}
+
   footer{padding:30px 22px 42px;text-align:center;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}
 
   @media(prefers-reduced-motion:reduce){
@@ -375,6 +407,29 @@
   </div>
 </section>
 
+<section class="love" data-title="포기하지 않는 사랑" data-label="그 사랑">
+  <div class="wrap">
+    <div class="eyebrow reveal">이 모든 이야기의 결론</div>
+    <h2 class="reveal">한 번도 포기하지 않으신 사랑</h2>
+    <p class="love-lead reveal">성경을 한 문장으로 줄이면 — 자꾸만 떠나는 사람을 끝까지 따라오시는 하나님의 사랑 이야기입니다.</p>
+    <div class="love-list reveal">
+      <div class="ll"><span>사람이 죄를 지어도</span><b>그 자리에서 구원을 약속하셨다</b></div>
+      <div class="ll"><span>도망치고 의심해도</span><b>먼저 찾아와 이름을 부르셨다</b></div>
+      <div class="ll"><span>노예가 되어 신음해도</span><b>직접 건져 내셨다</b></div>
+      <div class="ll"><span>광야에서 불평하고 배신해도</span><b>만나로 먹이며 함께 걸으셨다</b></div>
+      <div class="ll"><span>우상을 섬기며 등을 돌려도</span><b>선지자를 보내 “돌아오라” 하셨다</b></div>
+      <div class="ll"><span>끝내 포로로 끌려가도</span><b>그 땅까지 함께 가 회복을 약속하셨다</b></div>
+      <div class="ll"><span>400년을 침묵하셔도</span><b>보이지 않게 구원을 준비하셨다</b></div>
+      <div class="ll"><span>우리가 아직 죄인일 때</span><b>아들을 보내 대신 죽게 하셨다</b></div>
+      <div class="ll last"><span>그리고 마침내</span><b>모든 눈물을 닦고 모든 것을 회복하신다</b></div>
+    </div>
+    <div class="love-verse reveal">
+      <p>“내가 영원한 사랑으로 너를 사랑하기에 인자함으로 너를 이끌었다 하였노라”<span>예레미야 31:3 (개역개정)</span></p>
+      <p>“사망이나 생명이나 … 다른 어떤 피조물이라도 우리를 우리 주 그리스도 예수 안에 있는 하나님의 사랑에서 끊을 수 없으리라”<span>로마서 8:38-39 (개역개정)</span></p>
+    </div>
+  </div>
+</section>
+
 <section class="closing">
   <p>한 분의 하나님이,<br>한 편의 이야기로,<br>한 분 예수님을 향해 가십니다.</p>
   <p class="small">이 줄거리 위에 율법·시가서·예언서·서신서가 “살”을 붙입니다.<br>이제 어느 책을 펴도 “지금 이야기의 어디쯤인지” 보일 거예요.</p>
@@ -490,6 +545,36 @@ const EPOCHS=[
   next:'그렇다면 이 모든 이야기가 ‘나’에게 무슨 뜻일까요?'}
 ];
 
+/* ---------- 흔한 오해 → 사실은 (13장면 순서) ---------- */
+const MIS=[
+ {w:'“하나님은 왜 죄지을 수 있는 사람을 만들었을까? 차라리 안 만드는 게 낫지 않았나?”',
+  t:'진짜 사랑은 강요가 아니라 자유 속의 관계입니다. 하나님은 정해진 대로만 움직이는 로봇이 아니라, 사랑으로 응답할 수 있는 인격적 존재를 원하셨습니다. 위험을 감수하고 사랑을 택하신 것입니다.'},
+ {w:'“고작 열매 하나 먹었다고 쫓아내고 죽음까지 주시다니, 하나님이 너무 가혹한 것 아닌가?”',
+  t:'에덴에서 내보내신 것은 형벌인 동시에 자비였습니다. 하나님과 단절된 채 생명나무를 먹고 그 망가진 상태로 영원히 살면 영원히 고통에 갇히게 됩니다(창 3:22). 죽음을 허락하신 것은 회복의 길을 여시기 위함이었고, 하나님은 바로 그 자리에서 구원자를 약속하셨습니다(창 3:15). 심판 속에 이미 사랑이 있었습니다.'},
+ {w:'“아브라함은 믿음 좋은 위인이라 선택받았다 — 성경 인물은 다 도덕적 영웅이다.”',
+  t:'아브라함도 거짓말하고 의심했으며, 야곱은 속이는 자였습니다. 하나님은 ‘자격 있는 사람’이 아니라 부족한 사람을 은혜로 부르셨습니다. 택하신 이유는 그들의 잘남이 아니라 하나님의 신실한 사랑이었습니다(신 7:7-8).'},
+ {w:'“율법(십계명)은 구원받기 위해 통과해야 할 시험이자 조건이다.”',
+  t:'하나님은 율법을 주기 전에 먼저 그들을 구원하셨습니다. 율법은 ‘구원받으려면 지켜라’가 아니라, 이미 사랑으로 구원받은 백성이 어떻게 살지 알려 주는 사랑의 안내입니다. 언제나 은혜가 먼저, 순종은 그 응답입니다.'},
+ {w:'“가나안 정복은 무자비한 학살 — 역시 구약의 하나님은 잔인하다.”',
+  t:'이것은 무작위 폭력이 아니라, 수백 년간 극심한 악(어린아이를 제물로 바치는 일 등)에 대해 오래 참으신 끝의 심판이었습니다(창 15:16). 하나님은 심판조차 서두르지 않고 오래 기다리시며, 라합·룻처럼 돌아오는 사람은 이방인이라도 기꺼이 품으셨습니다.'},
+ {w:'“다윗은 흠 없는 영웅이라 ‘하나님의 마음에 합한 자’라 불렸다.”',
+  t:'다윗은 간음과 살인까지 저지른 사람입니다. ‘마음에 합한 자’란 완벽해서가 아니라, 죄를 숨기지 않고 철저히 회개하며 늘 하나님께 돌아왔기 때문입니다(시 51편). 하나님의 사랑은 크게 넘어진 사람도 버리지 않습니다.'},
+ {w:'“선지자는 미래를 점치는 예언가다 / 구약의 하나님은 진노만 하신다.”',
+  t:'선지자의 핵심은 ‘미래 맞히기’가 아니라 “제발 돌아오라”는 하나님의 애끓는 호소입니다. 심판의 경고조차 멸망시키려는 게 아니라 돌이켜 살리시려는 사랑입니다 — “나는 악인이 죽는 것을 기뻐하지 아니한다”(겔 33:11).'},
+ {w:'“포로로 끌려간 건 하나님이 이스라엘을 완전히 버리셨다는 증거다.”',
+  t:'포로는 버림이 아니라 사랑하는 자녀를 향한 징계이자 정화였습니다(히 12:6). 하나님은 떠나지 않으셨고, 오히려 포로 한복판에서 다니엘과 함께하시며 “너희를 향한 생각은 평안이요 미래와 희망”이라 약속하셨습니다(렘 29:11).'},
+ {w:'“회개하고 돌아왔으니 이제 사람도 달라지고 해피엔딩이다.”',
+  t:'돌아온 백성도 금세 다시 흔들립니다(말라기의 책망). 인간의 노력만으로는 마음의 근본 문제가 해결되지 않음이 드러납니다 — 그래서 더 큰 구원자가 필요합니다. 사람이 거듭 실패해도 하나님은 약속을 거두지 않으십니다.'},
+ {w:'“400년간 말씀이 없었으니 하나님이 떠나셨거나 쉬고 계셨다.”',
+  t:'침묵은 부재가 아닙니다. 말씀이 없었을 뿐, 그 시간 내내 제국과 언어와 길을 움직여 구원의 무대를 준비하셨습니다. 가장 조용한 순간에도 하나님은 가장 분주히 사랑으로 일하고 계셨습니다(갈 4:4).'},
+ {w:'“예수님은 훌륭한 도덕 선생 중 한 분 / 십자가는 비극적인 패배였다.”',
+  t:'예수님은 스스로 하나님이라 밝히셨고(요 8:58), 십자가는 사고나 패배가 아니라 계획된 사랑이었습니다. 억지로 끌려간 것이 아니라 스스로 목숨을 내어주셨습니다(요 10:18). “사람이 친구를 위하여 목숨을 버리면 이보다 더 큰 사랑이 없다”(요 15:13).'},
+ {w:'“교회는 완벽한 사람들의 종교 클럽이거나 그냥 건물이다.”',
+  t:'교회는 ‘완성된 성인(聖人)’이 아니라 ‘용서받은 죄인들’의 공동체입니다. 초대 교회도 다투고 실수했습니다. 교회는 자랑하는 곳이 아니라, 받은 사랑을 함께 흘려보내는 사람들입니다.'},
+ {w:'“천국은 구름 위에서 하프나 켜는 지루한 곳 / 세상은 결국 불타 사라진다.”',
+  t:'성경의 결말은 영혼이 어디론가 도피하는 것이 아니라, 망가진 이 세상이 ‘회복’되는 것입니다 — 새 하늘과 새 땅. 눈물도 죽음도 없는, 에덴보다 더 좋은 실재입니다. 하나님의 사랑 이야기가 마침내 완성되는 곳입니다.'}
+];
+
 /* ---------- 복음의 핵심 메시지 ---------- */
 const CORE=[
  {ic:'💔',title:'원죄 — 누구도 의롭지 않다',
@@ -547,6 +632,10 @@ EPOCHS.forEach((e,i)=>{
         </div>
         <div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite} (개역개정)</div></div>
         <div class="thread-line"><span class="t">🧵</span><p><b>그리스도 실</b> · ${e.christ}</p></div>
+        <div class="myth">
+          <div class="m-row"><span class="m-tag wrong">흔한 오해</span><p>${MIS[i].w}</p></div>
+          <div class="m-row"><span class="m-tag right">사실은</span><p>${MIS[i].t}</p></div>
+        </div>
         <details class="more"><summary><span class="arr">▸</span> 자세히 보기</summary><div class="body">${e.detail}</div></details>
         <div class="next">${e.next}</div>
       </div>
