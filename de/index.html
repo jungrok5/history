@@ -922,7 +922,7 @@ function applyLang(code){
   if(code==='ko') return doApply(KO_PACK,'ko');
   if(PACKS[code]) return doApply(PACKS[code],code);
   // 외부 언어 팩 로드 (i18n/<code>.json)
-  fetch('i18n/'+code+'.json',{cache:'no-cache'})
+  fetch('i18n/'+code+'.json')
     .then(r=>{ if(!r.ok) throw 0; return r.json(); })
     .then(p=>{ PACKS[code]=p; doApply(p,code); })
     .catch(()=>{ /* 실패 시 현재 언어 유지 */ });
