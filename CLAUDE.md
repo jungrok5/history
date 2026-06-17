@@ -22,7 +22,8 @@
 - PWA: `manifest.webmanifest` + `sw.js`(오프라인 캐시: navigate=network-first, 자원=cache-first, 동일출처만). 아이콘은 생성기가 rsvg로 생성.
 - 공유: 전역+장면별(`.ep-share`, `#shareSheet`) **적응형**(모바일=네이티브 1개+복사/이미지/QR; 데스크톱=소셜 WhatsApp/Telegram/X/Facebook/LINE+복사/이미지/QR) + 캔버스 구절이미지 + QR 모달(`qr-<code>.png` 정적 커밋) + 딥링크(`#s1`~`#s13`, gotoHash). 라벨은 `SHARE_L` 맵으로 15개 언어 현지화, 아이콘은 라인 SVG.
 - GA4 이벤트: `language_select`·`share{method}`·`scene_view{scene}`·`section_view{section}`·`prayer_view`·`read_more{scene}`(gevent 헬퍼). 언어별 이탈지점 분석용.
-- `vercel.json` (buildCommand=`node tools/build-pages.mjs` + 보안헤더/캐시 headers), `robots.txt`, `README.md`. **`.vercelignore`로 CLAUDE.md 배포 제외**(사이트 404).
+- `vercel.json` (buildCommand=`node tools/build-pages.mjs` + 보안헤더/캐시 headers), `robots.txt`, `README.md`. **`.vercelignore`로 CLAUDE.md·.claude 배포 제외**(사이트 404).
+- `.claude/skills/add-language/` — **언어 추가 스킬**(`/add-language`). SKILL.md(전 절차 체크리스트) + lib/(validate·audit-links·integrate·make-qr·convert-digits·config.example.json). 새 언어 추가 시 이 스킬을 따를 것(누락 방지).
 
 ## 다국어 동작
 - 비 ko/en 페이지 **본문은 런타임에 `i18n/<code>.json`을 fetch**해 채움 → 라이브 본문 검증은 **HTML이 아니라 JSON 파일**을 확인할 것 (예: `curl .../i18n/th.json`). head/OG/meta에는 각 언어 값이 빌드 시 박힘.

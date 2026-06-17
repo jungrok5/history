@@ -1,0 +1,19 @@
+{
+  "_주석": "integrate.mjs 입력. code별로 채워 /tmp/lang-<code>.json 등에 저장 후 사용. books_* 의 책이름은 i18n/<code>.json 의 표기와 일치시킬 것(ZWNJ는 정규화로 흡수됨). after = 현재 마지막 언어 코드(이 뒤에 삽입).",
+  "code": "km",
+  "native": "ភាសាខ្មែរ",
+  "en": "Khmer",
+  "yv": 315,
+  "dir": "ltr",
+  "locale": "km_KH",
+  "after": "my",
+  "bookopt": { "sep": ":", "suf": "", "bare": false },
+  "font": { "title": "Noto Serif Khmer, serif", "sub": "Noto Sans Khmer, sans-serif", "letterspacing0": true },
+  "_font_주석": "라틴/키릴(ru·mn 류)은 font: null. 데바나가리/아랍/타이/CJK/크메르 등 전용 스크립트만 폰트 지정(+letterspacing0).",
+  "books_single": {
+    "លោកុប្បត្តិ": "GEN", "និក្ខមនំ": "EXO", "...": "각 책이름→USFM (전 66권 권장; 본문에 쓰인 책은 필수)"
+  },
+  "books_numbered": {
+    "សាmuយ៉ែល": { "1": "1SA", "2": "2SA" }
+  }
+}
