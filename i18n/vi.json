@@ -1,63 +1,239 @@
 {
- "menuName":"Tiếng Việt","htmlLang":"vi","dir":"ltr","brand":"Kinh Thánh trong một cái nhìn",
- "docTitle":"Kinh Thánh trong một cái nhìn · Từ sáng thế đến Hội thánh",
- "share":{"title":"Kinh Thánh trong một cái nhìn","text":"Chỉ một lần lướt, khám phá câu chuyện lớn của Kinh Thánh — và vì sao Chúa Giê-xu đến."},
- "ui":{"people":"Nhân vật","events":"Sự kiện chính","christLabel":"Sợi chỉ về Đấng Christ","loveLabel":"Tình yêu không bỏ cuộc","mythWrong":"Hiểu lầm thường gặp","mythRight":"Thật ra","more":"Xem thêm","version":"(Truyền Thống)"},
- "labels":{"start":"Bắt đầu","thread":"Mạch truyện","gospel":"Tin Lành","about":"Giới thiệu"},
- "s":{
-  "ui.share":"↗ Chia sẻ",
-  "ui.toast":"Đã sao chép liên kết 📋",
-  "ui.footer":"Kinh Thánh trong một cái nhìn · Trích từ bản Truyền Thống",
-  "hero.kicker":"Từ sáng thế đến Hội thánh",
-  "hero.title":"Kinh Thánh<br><span class='em'>trong một cái nhìn</span>",
-  "hero.sub":"Chỉ một lần lướt, khám phá câu chuyện lớn của Kinh Thánh — và vì sao Chúa Giê-xu đến.",
-  "hero.cue":"Lướt xuống<span>↓</span>",
-  "thread.eyebrow":"Một câu xuyên suốt cả Kinh Thánh",
-  "thread.h2":"Rốt cuộc, Kinh Thánh là một câu chuyện",
-  "thread.flow":"<b>Lời hứa</b><span class='arw'>→</span><b>Chờ đợi</b><span class='arw'>→</span><b>Ứng nghiệm</b>",
-  "thread.note":"Đức Chúa Trời <b>hứa</b> (giao ước), dân sự <b>chờ đợi</b> lâu dài, và cuối cùng mọi sự được <b>ứng nghiệm</b> và hoàn tất trong Chúa Giê-xu. Hãy theo 13 cảnh sau đây qua sợi chỉ này. Nhấn <b>«Xem thêm»</b> ở mỗi thẻ để đọc câu chuyện sâu hơn.",
-  "gospel.eyebrow":"Câu chuyện này có ý nghĩa gì cho «tôi»",
-  "gospel.h2":"Cốt lõi thật của Kinh Thánh",
-  "gospel.lead":"Kinh Thánh <b>không phải sách dạy đạo đức bảo «hãy làm người tốt».</b>",
-  "gospel.sublead":"Đó là câu chuyện Đức Chúa Trời, <b>chỉ bởi ân điển</b>, cứu những tội nhân không thể tự cứu mình. Ở trung tâm là Chúa Giê-xu Christ.",
-  "gospel.mirror":"<h3>Vòng luẩn quẩn của Y-sơ-ra-ên thật ra là chân dung của «tôi»</h3><div class='cycle'><b>Thờ thần tượng</b><span class='a'>→</span><b>Đau khổ</b><span class='a'>→</span><b>Kêu cầu</b><span class='a'>→</span><b>Chúa giải cứu</b><span class='a'>→</span><b>lại thờ thần tượng…</b></div><p>Từ thời các quan xét đến thời lưu đày, Y-sơ-ra-ên lặp lại vòng này không dứt. Kinh Thánh ghi lại không phải để ta chế giễu «họ thật đáng thương».</p><p>Đó là một <b>tấm gương</b>. Không phải «Y-sơ-ra-ên đã như vậy», mà để ta thấy rằng <b>«tôi cũng như vậy»</b> (1 Cô-rinh-tô 10:11).</p><p>Một <b>thần tượng</b> không chỉ là pho tượng gỗ. Đó là <b>mọi điều ta yêu hoặc cậy trông hơn Đức Chúa Trời</b> — tiền bạc, thành công, sự công nhận, con người, thậm chí chính tôi. Và dùng Đức Chúa Trời như <b>phương tiện để thỏa mãn ước muốn của tôi</b> cũng là thờ thần tượng.</p><p class='punch'>Rốt cuộc, thần tượng sâu xa nhất là «chính tôi ngồi trên ngai của Đức Chúa Trời».</p>",
-  "gospel.coreIntro":"Vậy Đức Chúa Trời cứu tội nhân này thế nào? Đây là cốt lõi của Tin Lành mà Kinh Thánh rao báo.",
-  "gospel.crux":"<p class='crux-lead'>Cả Kinh Thánh chỉ về một điểm.</p><p>Con người không thể tự phá vỡ vòng tội lỗi, và chẳng có một người công bình nào. Vì vậy phải có ai đó <b>trả giá thay cho chúng ta</b>.</p><p>Chúa Giê-xu đến không chỉ để ban lời dạy hay. Ngài đến vì <b>không có con đường nào khác để cứu tôi</b> — Ngài buộc phải đến.</p><p class='crux-punch'>Người lẽ ra phải ở trên thập tự ấy chính là <b>tôi</b>.<br>Chúa Giê-xu mang lấy <b>tội của tôi</b> và bị đóng đinh ở đó thế cho tôi.</p><div class='crux-verse'>«Người đã vì tội lỗi chúng ta mà bị vết, vì sự gian ác chúng ta mà bị thương… bởi lằn roi người chúng ta được lành bịnh.» — Ê-sai 53:5</div>",
-  "faq.h":"Biết đâu có điều này đang vướng mắc trong lòng bạn?",
-  "faq.q1":"<span class='arr'>▸</span> Vậy kẻ giết người chỉ cần tin thì lên thiên đàng, còn người sống tử tế mà không tin thì xuống hỏa ngục sao?",
-  "faq.a1":"<p>Đây là câu hỏi chính đáng. Nhưng trong đó ẩn chứa hai hiểu lầm.</p><p><b>① Kinh Thánh không chia con người thành «tốt» và «xấu».</b> Tiêu chuẩn không phải «hơn người bên cạnh», mà là «sự thánh khiết trọn vẹn của Đức Chúa Trời». Trước mặt Ngài, chẳng ai «đủ tốt» (Rô-ma 3:23). Nên đây không phải «người tốt và kẻ giết người», mà giống hai người mắc bệnh nan y: một người nhận thuốc, người kia từ chối, bảo «tôi khỏe hơn người đó».</p><p><b>② Điều phân chia thiên đàng và hỏa ngục chỉ có một.</b> Không phải điểm số của việc làm, mà là <b>bạn có tiếp nhận Chúa Giê-xu Christ làm Chúa và vấn đề tội lỗi đã được giải quyết hay chưa</b>. Ai có tội được giải quyết bởi huyết Đấng Christ thì vào thiên đàng; ai không bao giờ tiếp nhận Ngài và tội vẫn còn thì không. Dù việc lành đến đâu cũng không thể giải quyết thay bạn chính vấn đề tội lỗi.</p><p>Vậy thiên đàng và hỏa ngục không phải «phần thưởng cho hạnh kiểm tốt», mà là vấn đề <b>mối quan hệ với Đấng Christ</b>. Và «tin» không phải sự đồng ý trong trí, mà là sự đổi chủ của đời sống: ai thật sự tiếp nhận Ngài thì không trở nên trơ tráo, trái lại ăn năn sâu xa hơn. Trái lại, <b>sự tự cho mình công bình</b> «tôi là người tốt» mới là thần tượng khó phá vỡ nhất, khiến người ta nghĩ «tôi không cần Đấng Christ» (Lu-ca 18:9-14).</p><p>Kinh Thánh nói rõ: <b>«Ai tin Ngài thì chẳng bị đoán xét đâu; ai không tin thì đã bị đoán xét rồi»</b> (Giăng 3:18). Sự phán xét không phải «chấm điểm đời sống lúc cuối», mà đã được định theo <b>việc bạn có tiếp nhận Đấng Christ hay không</b>.</p><p class='faq-v'>Rô-ma 3:23 · Giăng 3:18 · Ê-phê-sô 2:8-9 · Lu-ca 18:9-14</p>",
-  "faq.q2":"<span class='arr'>▸</span> Không tin Chúa Giê-xu, chỉ cần sống tử tế chẳng đủ sao?",
-  "faq.a2":"<p>Đó là điều được nghĩ đến nhiều nhất, nhưng hiểu sai «vấn đề thật sự» là gì. Hãy dùng một hình ảnh.</p><p><b>Giả sử bạn đang ở trên một tàu cướp biển.</b> Dù bạn lau sàn sạch đến đâu, tử tế với thủy thủ, sống gương mẫu đến mấy — bạn vẫn là <b>cướp biển</b>, vì con tàu đưa bạn theo nó đến đích (bến cảng phán xét). Vấn đề không phải «điểm số việc làm của bạn», mà là <b>«bạn thuộc về con tàu nào» (thân phận của bạn)</b>.</p><p>Vì vậy Tin Lành không nói «hãy tốt hơn», mà nói <b>«hãy đổi tàu»</b>. Hãy bước xuống khỏi con tàu tội lỗi, sang với Chúa Giê-xu — vào thân phận mới là <b>con của Đức Chúa Trời</b>. Đó không phải nâng điểm bằng nỗ lực, mà tin cậy Đấng đang chìa tay ra và bước sang tàu của Ngài.</p><p>Thật vậy, Kinh Thánh mô tả sự cứu rỗi đúng như sự «dời qua» này: <b>«Ngài đã giải thoát chúng ta khỏi quyền của sự tối tăm, làm cho chúng ta dời qua nước của Con rất yêu dấu Ngài»</b> (Cô-lô-se 1:13).</p><p>Đừng hiểu lầm: <b>điều này không có nghĩa sống tử tế là vô nghĩa.</b> Nhưng điều thiện không phải «điều kiện» của sự cứu rỗi, mà là <b>bông trái</b> của nó. Ai đã đổi tàu thì sống tốt không phải vì sợ hãi, mà vì <b>tình yêu của một người con</b>.</p><p class='faq-v'>Cô-lô-se 1:13 · Giăng 1:12 · Giăng 3:3 · Ê-phê-sô 2:8-9</p>",
-  "faq.q3":"<span class='arr'>▸</span> Như trong phim «Secret Sunshine (Milyang)», nếu kẻ gây ác bình an vì «đã được tha thứ» — sự tha thứ ấy chẳng phải quá rẻ sao?",
-  "faq.a3":"<p>Câu hỏi mà bộ phim đặt ra là chính đáng, và nỗi đau ấy là có thật. Nhưng cảnh đó không cho thấy «sự tha thứ của Kinh Thánh», mà là sự <b>bóp méo</b> nó.</p><p><b>① Sự tha thứ của Đức Chúa Trời chẳng bao giờ rẻ.</b> Tội không bị che lấp như thể «chưa từng xảy ra»; chính Đức Chúa Trời đã trả giá bằng sự sống của Con Ngài. Thập tự không chứng tỏ tội được xem nhẹ, mà cho thấy tội nặng nề biết bao — đó là sự tha thứ đắt giá nhất trên đời.</p><p><b>② Sự ăn năn thật sinh ra bông trái.</b> Nếu kẻ gây ác thản nhiên trước nạn nhân mà nói «Chúa đã tha cho tôi, tôi bình an», đó không phải ăn năn, mà là sự bắt chước ăn năn (Ma-thi-ơ 3:8). Và sự tha thứ giữa Đức Chúa Trời với tôi không xóa vết thương của nạn nhân, cũng không ép nạn nhân phải tha thứ.</p><p><b>③ Tội chẳng bao giờ bị «cho qua».</b> Mọi tội đều được trả ở một trong hai nơi: <b>hoặc Đấng Christ gánh trên thập tự</b> (người tin thì không còn bị định tội, Rô-ma 8:1), <b>hoặc kẻ chối bỏ Ngài đến cùng tự gánh lấy.</b> Vậy nên không có «sự tha bổng rẻ tiền». Kẻ gây ác cũng phải gánh trách nhiệm pháp lý trong đời này (Rô-ma 13:1-4).</p><p><b>④ Nước mắt của nạn nhân chẳng bao giờ nhỏ bé trước Đức Chúa Trời.</b> Ngài khóc với người khóc, ghi nhớ từng giọt lệ, và cuối cùng chính Ngài sẽ lau ráo (Khải-huyền 21:4). Vì vậy nạn nhân cũng không phải một mình gánh gánh nặng báo thù, mà có thể giao cho Đức Chúa Trời công bình (Rô-ma 12:19: «Sự trả thù thuộc về ta, ta sẽ báo ứng»).</p><p class='faq-v'>Ma-thi-ơ 3:8 · Rô-ma 8:1 · Rô-ma 13:1-4 · Khải-huyền 21:4</p>",
-  "respond.h3":"Vậy thì, tôi phải làm gì?",
-  "respond.sub":"Tình yêu này không phải thông tin, mà là một <b>lời mời</b>. Nếu tình yêu đã bị đóng đinh thế cho tôi chạm đến lòng bạn, hãy cầu nguyện lời này ngay bây giờ, từng câu một, thật chậm rãi.",
-  "respond.prayer":"<p>Lạy Đức Chúa Trời,</p><p>con nhận rằng con là tội nhân không thể tự cứu mình.</p><p>Con tin Chúa Giê-xu đã chết vì con trên thập tự và đã sống lại.</p><p>Xin tha thứ mọi tội con, và từ hôm nay làm Chúa của đời con.</p><p>Xin nhận con làm con của Ngài, và cho con sống một đời sống mới.</p><p class='amen'>Con cầu nguyện trong danh Chúa Giê-xu. A-men.</p>",
-  "respond.after":"Nếu bạn đã cầu nguyện điều này từ tận đáy lòng, Kinh Thánh nói bạn đã trở nên <b>con của Đức Chúa Trời</b>. Bạn không còn cô đơn — hãy tìm một hội thánh gần đó và cùng bước đi trên con đường đức tin.",
-  "respond.verse":"«Hễ ai đã nhận Ngài… thì Ngài ban cho quyền phép trở nên con cái Đức Chúa Trời.» — Giăng 1:12 · Rô-ma 10:9-10",
-  "closing.main":"Một Đức Chúa Trời,<br>bằng một câu chuyện,<br>tìm kiếm chúng ta bằng <em>tình yêu</em><br>chẳng bao giờ bỏ cuộc.",
-  "closing.verse":"«Dầu sự chết hay sự sống… cũng chẳng có loài thọ tạo nào có thể phân rẽ chúng ta khỏi sự yêu thương của Đức Chúa Trời trong Đức Chúa Jêsus Christ, là Chúa chúng ta.» — Rô-ma 8:38-39",
-  "closing.small":"Trên mạch truyện này, Luật pháp, các sách thi ca, các tiên tri và các thư tín thêm vào «da thịt».<br>Từ nay, mở bất kỳ sách nào, bạn cũng sẽ thấy «mình đang ở đâu trong câu chuyện».",
-  "closing.share":"↗ Chia sẻ câu chuyện này",
-  "about.line":"Nội dung dựa trên cái nhìn <b>lịch sử cứu rỗi, Tin Lành – Cải Chánh</b> mà phần lớn Tin Lành Hàn Quốc cùng chia sẻ.",
-  "about.contact":"Liên hệ · góp ý — <a id='contact' class='mail'>Gửi email</a>"
+ "menuName": "Tiếng Việt",
+ "htmlLang": "vi",
+ "dir": "ltr",
+ "brand": "Kinh Thánh trong một cái nhìn",
+ "docTitle": "Kinh Thánh trong một cái nhìn · Từ sáng thế đến Hội thánh",
+ "share": {
+  "title": "Kinh Thánh trong một cái nhìn",
+  "text": "Chỉ một lần lướt, khám phá câu chuyện lớn của Kinh Thánh — và vì sao Chúa Giê-xu đến."
  },
- "epochs":[
-  {"tag":"Cựu Ước · Khởi đầu","title":"Sáng tạo","date":"Ban đầu","one":"Đức Chúa Trời dựng nên một thế giới «rất tốt lành».","people":"Đức Chúa Trời; A-đam và Ê-va","events":"Sáng tạo trong sáu ngày, con người theo hình ảnh Đức Chúa Trời, ngày Sa-bát nghỉ ngơi","q":"Ban đầu Đức Chúa Trời dựng nên trời đất.","cite":"Sáng-thế Ký 1:1","christ":"Thế giới được dựng nên bởi «Ngôi Lời». Phúc âm Giăng tuyên bố Ngôi Lời ấy chính là Chúa Giê-xu (Giăng 1:1-3).","detail":"<p>Kinh Thánh không khởi đầu bằng lập luận triết học, mà bằng lời tuyên bố: <b>«Ban đầu Đức Chúa Trời…»</b>. Thế giới không phải ngẫu nhiên, mà là công trình của một Đức Chúa Trời có ngôi vị.</p><ul><li><b>Hình ảnh Đức Chúa Trời</b> · chỉ con người được dựng nên giống Đức Chúa Trời, để biết Ngài và chăm sóc thế giới.</li><li><b>Sự nghỉ ngơi</b> · sự nghỉ ngày thứ bảy cho thấy mọi sự đã trọn vẹn và bình an (shalom): «Đức Chúa Trời thấy điều đó là tốt lành».</li><li><b>Ê-đen</b> · thế giới trước khi đổ vỡ, nơi Đức Chúa Trời và con người cùng bước đi.</li></ul>","next":"Nhưng sự trọn vẹn này chẳng mấy chốc tan vỡ…"},
-  {"tag":"Cựu Ước · Vấn đề bắt đầu","title":"Sa ngã","date":"Ban đầu","one":"Tội lỗi xâm nhập, và mối liên kết giữa con người với Đức Chúa Trời bị cắt đứt.","people":"A-đam và Ê-va; con rắn (Sa-tan)","events":"Ăn trái cấm, bị đuổi khỏi Ê-đen, sự chết và lao khổ xâm nhập","q":"Ta sẽ làm cho mầy cùng người nữ… nghịch thù nhau. Người sẽ giày đạp đầu mầy.","cite":"Sáng-thế Ký 3:15","christ":"Lời hứa Tin Lành đầu tiên, ban ngay sau sự sa ngã: «dòng dõi người nữ» sẽ giày đạp đầu con rắn. Đó là Chúa Giê-xu (Sáng 3:15; Rô-ma 16:20; Ga-la-ti 4:4).","detail":"<p>Bởi sự bất tuân muốn «trở nên như Đức Chúa Trời», tội lỗi xâm nhập thế gian. Hậu quả không chỉ là vi phạm một luật, mà là <b>sự đổ vỡ các mối quan hệ</b>.</p><ul><li><b>Quan hệ tan vỡ</b> · với Đức Chúa Trời (lẩn trốn), với nhau (đổ lỗi), và với thiên nhiên (gai góc và lao khổ).</li><li><b>Sự chết</b> · lời cảnh báo «chắc chắn ngươi sẽ chết» trở thành hiện thực.</li><li><b>Sáng 3:15</b> · nhưng giữa sự phán xét, lời hứa cứu rỗi được ban trước. Các học giả gọi đó là <b>«tiền Phúc âm» (Phúc âm đầu tiên)</b>.</li></ul>","next":"Giờ đây Đức Chúa Trời kêu gọi một người và bắt đầu công cuộc phục hồi…"},
-  {"tag":"Cựu Ước · Lời hứa","title":"Thời các tổ phụ","date":"khoảng 2000 TCN","one":"Đức Chúa Trời hứa với Áp-ra-ham: «Ngươi sẽ thành nguồn phước».","people":"Áp-ra-ham · Y-sác · Gia-cốp · Giô-sép","events":"Giao ước với Áp-ra-ham, dâng Y-sác, mười hai con trai Gia-cốp, Giô-sép làm tể tướng Ai Cập","q":"Ta sẽ làm cho ngươi nên một dân lớn… các chi tộc nơi thế gian sẽ nhờ ngươi mà được phước.","cite":"Sáng-thế Ký 12:2-3","christ":"Lời hứa «các chi tộc sẽ được phước» ứng nghiệm trong Chúa Giê-xu, dòng dõi Áp-ra-ham (Ga-la-ti 3:16).","detail":"<p>Đức Chúa Trời bắt đầu giải quyết vấn đề của cả nhân loại bằng cách kêu gọi một người là <b>Áp-ra-ham</b>. Trung tâm là <b>giao ước (lời hứa)</b> — một dân lớn, một xứ, và «phước cho mọi chi tộc».</p><ul><li><b>Đức tin</b> · Áp-ra-ham tin lời hứa chưa thấy, và điều đó được kể là công bình cho ông (Sáng 15:6).</li><li><b>Y-sác và Gia-cốp</b> · lời hứa truyền sang đời sau; Gia-cốp (Y-sơ-ra-ên) là tổ của mười hai chi phái.</li><li><b>Giô-sép</b> · bị anh em bán nhưng trở thành tể tướng Ai Cập: «Đức Chúa Trời đã đổi thành điều lành» (Sáng 50:20).</li></ul>","next":"Gia đình theo Giô-sép xuống Ai Cập… rồi trở thành nô lệ."},
-  {"tag":"Cựu Ước · Cứu chuộc","title":"Xuất Ai Cập và đồng vắng","date":"khoảng 1446 TCN","one":"Đức Chúa Trời giải cứu dân nô lệ và lập họ làm dân Ngài.","people":"Môi-se, A-rôn, Pha-ra-ôn","events":"Mười tai vạ, lễ Vượt Qua, vượt Biển Đỏ, Mười Điều Răn tại Si-nai, đền tạm, bốn mươi năm trong đồng vắng","q":"Ta sẽ nhận các ngươi làm dân ta, và ta sẽ làm Đức Chúa Trời của các ngươi.","cite":"Xuất Ê-díp-tô Ký 6:7","christ":"Lễ Vượt Qua, khi huyết chiên con cứu khỏi sự chết, báo trước Chúa Giê-xu «Chiên Con lễ Vượt Qua của chúng ta» bị đóng đinh vì chúng ta (1 Cô-rinh-tô 5:7).","detail":"<p>Sự kiện cứu rỗi lớn nhất Cựu Ước. Y-sơ-ra-ên từng làm nô lệ nay được tự do bởi quyền năng Đức Chúa Trời và được nắn thành <b>dân</b> Ngài.</p><ul><li><b>Lễ Vượt Qua</b> · nhà có huyết chiên con trên cửa thì sự chết vượt qua; khuôn mẫu cho mọi của lễ về sau.</li><li><b>Biển Đỏ</b> · sự cứu khi biển rẽ ra ở ngõ cụt; «vượt qua» trở thành biểu tượng của khởi đầu mới.</li><li><b>Giao ước Si-nai</b> · qua Mười Điều Răn, họ học cách sống làm dân Đức Chúa Trời.</li><li><b>Đền tạm</b> · nơi thánh di động, nơi Đức Chúa Trời ngự giữa dân — báo trước «Em-ma-nu-ên».</li><li><b>Bốn mươi năm</b> · vì bất tuân, một thế hệ lang thang trong đồng vắng, nhưng Đức Chúa Trời ở cùng họ bằng ma-na, trụ mây và trụ lửa.</li></ul>","next":"Đứng trước đất hứa, họ chuẩn bị tiến vào…"},
-  {"tag":"Cựu Ước · Định cư","title":"Chinh phục và các quan xét","date":"khoảng 1400–1050 TCN","one":"Đã được đất, nhưng không có vua nên ai nấy làm theo ý mình.","people":"Giô-suê; các quan xét như Ghê-đê-ôn và Sam-sôn; Ru-tơ","events":"Giê-ri-cô sụp đổ, định cư tại Ca-na-an, vòng tội lỗi–phán xét–giải cứu lặp lại","q":"Trong lúc đó, không có vua nơi Y-sơ-ra-ên; ai nấy làm theo ý mình lấy làm phải.","cite":"Các Quan Xét 21:25","christ":"Từ dòng dõi Ru-tơ ra Đa-vít, và từ dòng Đa-vít đến Chúa Giê-xu (Ma-thi-ơ 1). Ngay trong hỗn loạn, dòng dõi Đấng Mê-si vẫn tiếp nối.","detail":"<p>Dưới sự dẫn dắt của Giô-suê, họ vào đất hứa, nhưng định cư xong thì mau quên Đức Chúa Trời. Sách Các Quan Xét là sự lặp lại cùng một khuôn mẫu.</p><ul><li><b>Vòng tội lỗi</b> · tội → áp bức → kêu cầu → giải cứu qua một quan xét → lại phạm tội, và ngày càng tệ.</li><li><b>Các quan xét</b> · Ghê-đê-ôn, Sam-sôn, Đê-bô-ra… những người giải cứu tạm thời, anh hùng nhưng nhiều khuyết điểm.</li><li><b>Ru-tơ</b> · ánh sáng của lòng trung tín giữa thời tăm tối; một phụ nữ ngoại bang bước vào dòng dõi Đa-vít (và Chúa Giê-xu).</li></ul>","next":"Dân chúng kêu lên: «Hãy lập cho chúng tôi một vua!»…"},
-  {"tag":"Cựu Ước · Cực thịnh","title":"Vương quốc thống nhất","date":"khoảng 1050–930 TCN","one":"Đức Chúa Trời hứa với Đa-vít: «Ngôi ngươi sẽ vững lập đời đời».","people":"Sau-lơ · Đa-vít · Sa-lô-môn","events":"Vua đầu tiên Sau-lơ, Đa-vít và Gô-li-át, giao ước với Đa-vít, đền thờ Sa-lô-môn","q":"Nhà ngươi và nước ngươi được vững bền trước mặt ngươi đời đời; ngôi ngươi sẽ được vững lập đến mãi mãi.","cite":"2 Sa-mu-ên 7:16","christ":"«Ngôi đời đời» ứng nghiệm trong Chúa Giê-xu, dòng dõi Đa-vít; vì vậy Ngài được gọi là «Con Đa-vít» (Lu-ca 1:32-33; Ma-thi-ơ 1:1).","detail":"<p>Thời cực thịnh của Y-sơ-ra-ên dưới ba vua.</p><ul><li><b>Sau-lơ</b> · vua đầu tiên dân đòi; khởi đầu tốt, nhưng bị loại bỏ vì bất tuân.</li><li><b>Đa-vít</b> · «người vừa lòng Đức Chúa Trời». Ông thắng Gô-li-át và lập Giê-ru-sa-lem làm kinh đô. Ông phạm tội lớn (Bát-sê-ba) nhưng ăn năn thật lòng (Thi-thiên 51).</li><li><b>Giao ước với Đa-vít (2 Sa-mu-ên 7)</b> · Đức Chúa Trời hứa lập triều đại ông đời đời — cội rễ quyết định của niềm trông đợi Đấng Mê-si.</li><li><b>Sa-lô-môn</b> · ở đỉnh cao khôn ngoan và giàu có, ông xây <b>đền thờ</b> tại Giê-ru-sa-lem, nhưng cuối đời sa vào thờ thần tượng.</li></ul>","next":"Sau Sa-lô-môn, vương quốc tách làm hai…"},
-  {"tag":"Cựu Ước · Suy tàn","title":"Vương quốc chia đôi","date":"930–586 TCN","one":"Chia thành nam (Giu-đa) và bắc (Y-sơ-ra-ên), rồi dần băng hoại.","people":"Các vua hai nước; các tiên tri như Ê-li, Ê-sai, Giê-rê-mi","events":"Vương quốc chia đôi, thờ thần tượng, lời cảnh báo của các tiên tri","q":"Ấy vậy, Y-sơ-ra-ên phản nghịch nhà Đa-vít cho đến ngày nay.","cite":"1 Các Vua 12:19","christ":"Trong thời này các tiên tri ngày càng rõ ràng báo trước Đấng Mê-si sẽ đến (Ê-sai 9:6; Ê-sai 53).","detail":"<p>Đến đời con Sa-lô-môn, vương quốc chia đôi: <b>Y-sơ-ra-ên (bắc)</b>, mười chi phái, kinh đô Sa-ma-ri; và <b>Giu-đa (nam)</b>, hai chi phái, kinh đô Giê-ru-sa-lem.</p><ul><li><b>Bắc</b> · mọi vua đều thờ thần tượng; sụp đổ trước A-si-ri năm 722 TCN.</li><li><b>Nam</b> · dòng Đa-vít tiếp nối, có vua tốt như Ê-xê-chia và Giô-si-a, nhưng nhìn chung suy tàn.</li><li><b>Các tiên tri</b> · Ê-li, A-mốt, Ê-sai, Giê-rê-mi kêu «hãy trở lại!». Tại đây lời tiên tri về Đấng Mê-si phong phú nhất («đầy tớ chịu khổ» trong Ê-sai 53).</li></ul>","next":"Cuối cùng sự phán xét đã báo trước ập đến: họ bị lưu đày…"},
-  {"tag":"Cựu Ước · Phán xét","title":"Thời lưu đày","date":"722 / 586 TCN","one":"Vương quốc sụp đổ, dân bị bắt sang xứ ngoại.","people":"Đa-ni-ên, Ê-xê-chi-ên, Nê-bu-cát-nết-sa","events":"Y-sơ-ra-ên sụp đổ trước A-si-ri (722); Giu-đa sụp đổ trước Ba-by-lôn và đền thờ bị hủy (586)","q":"Chúng tôi đương ngồi trên mé sông Ba-by-lôn, bèn nhớ lại Si-ôn, và khóc.","cite":"Thi-thiên 137:1","christ":"Giữa cùng cực tuyệt vọng, Giê-rê-mi hứa một «giao ước mới» (Giê-rê-mi 31:31) — chính giao ước Chúa Giê-xu lập trong bữa tối cuối cùng.","detail":"<p>Lời cảnh báo thành hiện thực. Đền thờ cháy, dân bị bắt sang Ba-by-lôn: mất đất, mất vua, mất đền thờ — khủng hoảng tồi tệ nhất.</p><ul><li><b>Hai lần sụp đổ</b> · Y-sơ-ra-ên (A-si-ri, 722 TCN) và Giu-đa (Ba-by-lôn, 586 TCN).</li><li><b>Đa-ni-ên</b> · gương đức tin ngay giữa triều đình ngoại bang (hang sư tử); ông thấy khải tượng về «nước đời đời» sẽ đến.</li><li><b>Đốm hy vọng</b> · khải tượng hài cốt khô sống lại (Ê-xê-chi-ên 37) và «giao ước mới» của Giê-rê-mi chỉ về tương lai giữa bóng tối.</li></ul>","next":"Bảy mươi năm sau, Đức Chúa Trời mở đường: họ trở về quê hương…"},
-  {"tag":"Cựu Ước · Phục hồi","title":"Hồi hương từ lưu đày","date":"538–430 TCN","one":"Họ trở về và xây lại đền thờ cùng tường thành.","people":"E-xơ-ra, Nê-hê-mi, Ê-xơ-tê, Xô-rô-ba-bên","events":"Hồi hương theo chiếu chỉ Si-ru, xây lại đền thờ, sửa tường thành Giê-ru-sa-lem, phục hồi Lời Chúa","q":"Vì sự vui vẻ của Đức Giê-hô-va là sức lực của các ngươi.","cite":"Nê-hê-mi 8:10","christ":"Ma-la-chi, sách cuối Cựu Ước, kết thúc bằng lời báo trước về một sứ giả dọn đường cho Đấng Mê-si: «Nầy, ta sai sứ giả ta» (Ma-la-chi 3:1).","detail":"<p>Cuộc hồi hương bắt đầu với chiếu chỉ của vua Si-ru nước Ba Tư (538 TCN). Qua ba đợt, họ trở về và xây lại những gì đã đổ.</p><ul><li><b>Xô-rô-ba-bên</b> · xây lại đền thờ (hoàn tất năm 516 TCN).</li><li><b>E-xơ-ra</b> · dạy lại luật pháp (Lời Chúa) và phục hưng đức tin.</li><li><b>Nê-hê-mi</b> · xây lại tường thành Giê-ru-sa-lem trong 52 ngày.</li><li><b>Ê-xơ-tê</b> · cứu người Do Thái ở Ba Tư khỏi bị tận diệt — «biết đâu vì cớ thời điểm này…».</li><li><b>Cơn khát còn lại</b> · đền thờ đã đứng, nhưng không có vua như Đa-vít. Dân trông đợi Đấng Mê-si.</li></ul>","next":"Rồi… như bầu trời khép lại, 400 năm im lặng buông xuống."},
-  {"tag":"Giữa hai giao ước · Chuẩn bị sân khấu","title":"Thời im lặng","date":"khoảng 430–4 TCN","one":"400 năm không tiếng tiên tri — nhưng sân khấu được chuẩn bị trong thầm lặng.","people":"A-lịch-sơn Đại đế, nhà Ma-ca-bê, La Mã","events":"Ba Tư → Hy Lạp → độc lập Ma-ca-bê → ách La Mã","q":"Nhưng khi kỳ hạn đã được trọn, Đức Chúa Trời bèn sai Con Ngài bởi một người nữ sanh ra.","cite":"Ga-la-ti 4:4","christ":"Toàn bộ sự «chuẩn bị sân khấu» này là công việc của Đức Chúa Trời, để Chúa Giê-xu đến đúng «khi kỳ hạn đã trọn».","detail":"<p>Từ Ma-la-chi đến Tân Ước, khoảng 400 năm không có lời Kinh Thánh mới (tiên tri). Nhưng phía sau lịch sử, Đức Chúa Trời đang chuẩn bị đường cho Tin Lành lan rộng.</p><ul><li><b>Đế quốc đổi thay</b> · Ba Tư → Hy Lạp (A-lịch-sơn, 333 TCN) → Ai Cập và Sy-ri → khởi nghĩa Ma-ca-bê (167 TCN) → La Mã (63 TCN).</li><li><b>Tiếng Hy Lạp</b> · cuộc chinh phục của A-lịch-sơn khiến tiếng Hy Lạp thành ngôn ngữ chung; Cựu Ước được dịch sang Hy Lạp (bản Bảy Mươi), mở đường cho Tin Lành lan nhanh.</li><li><b>Đường sá và hòa bình La Mã</b> · những con đường tốt và «nền hòa bình La Mã» trở thành kênh cho công cuộc truyền giáo.</li><li><b>Nhà hội và các phái</b> · việc dạy Lời Chúa tại nhà hội bén rễ; phái Pha-ri-si và Sa-đu-sê xuất hiện, và <b>niềm trông đợi Đấng Mê-si</b> chín muồi.</li></ul>","next":"Và khi sự im lặng bị phá vỡ — cuối cùng Ngài đến."},
-  {"tag":"Tân Ước · Ứng nghiệm","title":"Chúa Giê-xu giáng thế","date":"khoảng 4 TCN – 30 SCN","one":"Đấng Mê-si được hứa đã đến, đã chết, và đã sống lại.","people":"Chúa Giê-xu, mười hai môn đồ, Giăng Báp-tít","events":"Sự nhập thể (Giáng Sinh), chức vụ dạy dỗ và phép lạ, sự chết trên thập tự, sự sống lại ngày thứ ba","q":"Ngôi Lời đã trở nên xác thịt, ở giữa chúng ta… đầy ơn và lẽ thật.","cite":"Giăng 1:14","christ":"Dòng dõi người nữ (cảnh 2), phước của Áp-ra-ham (3), Chiên Con lễ Vượt Qua (4), vua đời đời của Đa-vít (6), và giao ước mới (8) — tất cả ứng nghiệm trong một Giê-xu: Đấng tiên tri, thầy tế lễ và vua thật của chúng ta.","detail":"<p>Sự im lặng bị phá vỡ, Đấng được hứa đến. Bốn sách Phúc âm làm chứng về sự sống, sự chết và sự sống lại của Chúa Giê-xu từ những góc nhìn khác nhau.</p><ul><li><b>Nhập thể</b> · Đức Chúa Trời trở nên người (Em-ma-nu-ên, «Đức Chúa Trời ở cùng chúng ta»), trong sự thấp hèn của Bết-lê-hem.</li><li><b>Chức vụ</b> · Ngài dạy về nước Đức Chúa Trời, chữa lành người bệnh, kêu gọi tội nhân. «Ai đã thấy ta tức là đã thấy Cha.»</li><li><b>Thập tự</b> · Ngài trả thay chúng ta giá của tội lỗi và sự chết do sự sa ngã đem vào (cảnh 2). Chiên Con lễ Vượt Qua thật.</li><li><b>Sự sống lại</b> · ngày thứ ba Ngài sống lại, đập tan quyền lực của tội lỗi, sự chết và Sa-tan; ngay trên thập tự Ngài đã «truất bỏ các quyền cai trị… và chiến thắng chúng» (Cô-lô-se 2:15).</li></ul><p>Vì vậy Chúa Giê-xu là <b>Đấng tiên tri thật</b> của chúng ta (chỉ đường đến Đức Chúa Trời), <b>thầy tế lễ thật</b> (lấy chính thân mình chuộc tội), và <b>vua thật</b> (đắc thắng tội lỗi, sự chết và Sa-tan, cai trị đời đời).</p>","next":"Chúa Giê-xu phục sinh sai các môn đồ ra thế gian…"},
-  {"tag":"Tân Ước · Lan rộng","title":"Khởi đầu Hội thánh","date":"từ năm 30 SCN","one":"Thánh Linh giáng xuống, và Tin Lành lan đến tận cùng trái đất.","people":"Phi-e-rơ, Phao-lô, Hội thánh đầu tiên","events":"Thánh Linh giáng trong lễ Ngũ Tuần, Hội thánh ra đời, Tin Lành từ Giê-ru-sa-lem đến La Mã qua bắt bớ","q":"Nhưng khi Đức Thánh Linh giáng trên các ngươi, thì các ngươi sẽ nhận lấy quyền phép… cho đến cùng trái đất.","cite":"Công vụ 1:8","christ":"Câu chuyện này vẫn tiếp diễn đến hôm nay. Kinh Thánh kết thúc bằng lời hứa rằng Chúa Giê-xu sẽ trở lại và làm mới mọi sự (Khải-huyền 21).","detail":"<p>Sau khi Chúa Giê-xu thăng thiên, Thánh Linh được hứa giáng trong lễ Ngũ Tuần, và Hội thánh ra đời. Tin Lành lan rộng bùng nổ.</p><ul><li><b>Lễ Ngũ Tuần</b> · bởi Thánh Linh, các môn đồ sợ hãi trở thành những chứng nhân dạn dĩ.</li><li><b>Phi-e-rơ</b> · rao Tin Lành cho người Do Thái tại Giê-ru-sa-lem.</li><li><b>Phao-lô</b> · từ kẻ bắt bớ trở thành sứ đồ; lập các hội thánh khắp thế giới dân ngoại và viết các thư tín.</li><li><b>Đến tận cùng</b> · Giê-ru-sa-lem → Giu-đê → Sa-ma-ri → La Mã. Lời hứa «mọi chi tộc» với Áp-ra-ham trở thành hiện thực.</li><li><b>Và chúng ta</b> · câu chuyện chưa kết thúc; vẫn tiến về sự tái lâm của Chúa Giê-xu và trời mới đất mới.</li></ul>","next":"Nhưng câu chuyện không kết thúc tại đây…"},
-  {"tag":"Tân Ước · Hoàn tất","title":"Phục hồi (muôn vật được đổi mới)","date":"sẽ đến","one":"Chúa Giê-xu trở lại và làm mới mọi sự.","people":"Chúa Giê-xu tái lâm; muôn dân","events":"Sự tái lâm, sự phán xét cuối cùng, sự kết thúc của tội lỗi, sự chết và nước mắt, trời mới đất mới","q":"Ngài sẽ lau ráo hết nước mắt khỏi mắt chúng, sẽ không có sự chết, cũng không có than khóc, kêu ca, hay là đau đớn nữa.","cite":"Khải-huyền 21:4","christ":"Vườn Ê-đen của buổi sáng tạo đầu tiên cuối cùng được phục hồi thành «Giê-ru-sa-lem mới». Đức Chúa Trời ở cùng dân Ngài đời đời — sự trọn vẹn của Em-ma-nu-ên (Khải-huyền 21:3; Ma-thi-ơ 1:23).","detail":"<p>Kinh Thánh không kết thúc ở thời đại Hội thánh. Sách cuối cùng, Khải-huyền, cho thấy Chúa Giê-xu <b>trở lại</b> và hoàn tất mọi sự.</p><ul><li><b>Sự tái lâm</b> · vua được hứa trở lại trong vinh quang.</li><li><b>Chiến thắng cuối cùng</b> · Sa-tan và sự chết bị tiêu diệt đời đời, và Đấng Christ cai trị làm Vua của muôn vua (1 Cô-rinh-tô 15:25-26; Khải-huyền 20:10).</li><li><b>Phán xét và sống lại</b> · mọi bất công được sửa lại, và kẻ chết sống lại.</li><li><b>Trời mới đất mới</b> · tội lỗi, sự chết, nước mắt và đau đớn biến mất đời đời (Khải-huyền 21:4).</li><li><b>Ê-đen được phục hồi</b> · trong «Giê-ru-sa-lem mới» tốt hơn ban đầu, Đức Chúa Trời ở cùng dân Ngài đời đời — đích đến mà cả Kinh Thánh hướng tới.</li></ul><p>Vì vậy nay là thời <b>«đã rồi, nhưng chưa trọn»</b>: trong Chúa Giê-xu, sự cứu rỗi <b>đã</b> hoàn tất, nhưng sự trọn vẹn thì <b>vẫn</b> đang chờ đợi.</p>","next":"Vậy thì, cả câu chuyện này có ý nghĩa gì cho «tôi»?"}
+ "ui": {
+  "people": "Nhân vật",
+  "events": "Sự kiện chính",
+  "christLabel": "Hướng về Chúa Giê-xu",
+  "loveLabel": "Tình yêu không bỏ cuộc",
+  "mythWrong": "Hiểu lầm thường gặp",
+  "mythRight": "Thật ra",
+  "more": "Xem thêm",
+  "version": "(Truyền Thống)"
+ },
+ "labels": {
+  "start": "Bắt đầu",
+  "thread": "Mạch truyện",
+  "gospel": "Tin Lành",
+  "about": "Giới thiệu"
+ },
+ "s": {
+  "ui.share": "↗ Chia sẻ",
+  "ui.toast": "Đã sao chép liên kết 📋",
+  "ui.footer": "Kinh Thánh trong một cái nhìn · Trích từ bản Truyền Thống",
+  "hero.kicker": "Từ sáng thế đến Hội thánh",
+  "hero.title": "Kinh Thánh<br><span class='em'>trong một cái nhìn</span>",
+  "hero.sub": "Chỉ một lần lướt, khám phá câu chuyện lớn của Kinh Thánh — và vì sao Chúa Giê-xu đến.",
+  "hero.cue": "Lướt xuống<span>↓</span>",
+  "thread.eyebrow": "Một câu xuyên suốt cả Kinh Thánh",
+  "thread.h2": "Rốt cuộc, Kinh Thánh là một câu chuyện",
+  "thread.flow": "<b>Lời hứa</b><span class='arw'>→</span><b>Chờ đợi</b><span class='arw'>→</span><b>Ứng nghiệm</b>",
+  "thread.note": "Đức Chúa Trời <b>hứa</b> (giao ước), dân sự <b>chờ đợi</b> lâu dài, và cuối cùng mọi sự được <b>ứng nghiệm</b> và hoàn tất trong Chúa Giê-xu. Hãy theo 13 cảnh sau đây qua sợi chỉ này. Nhấn <b>«Xem thêm»</b> ở mỗi thẻ để đọc câu chuyện sâu hơn.",
+  "gospel.eyebrow": "Câu chuyện này có ý nghĩa gì cho «tôi»",
+  "gospel.h2": "Cốt lõi thật của Kinh Thánh",
+  "gospel.lead": "Kinh Thánh <b>không phải sách dạy đạo đức bảo «hãy làm người tốt».</b>",
+  "gospel.sublead": "Đó là câu chuyện Đức Chúa Trời, <b>chỉ bởi ân điển</b>, cứu những tội nhân không thể tự cứu mình. Ở trung tâm là Chúa Giê-xu Christ.",
+  "gospel.mirror": "<h3>Vòng luẩn quẩn của Y-sơ-ra-ên thật ra là chân dung của «tôi»</h3><div class='cycle'><b>Thờ thần tượng</b><span class='a'>→</span><b>Đau khổ</b><span class='a'>→</span><b>Kêu cầu</b><span class='a'>→</span><b>Chúa giải cứu</b><span class='a'>→</span><b>lại thờ thần tượng…</b></div><p>Từ thời các quan xét đến thời lưu đày, Y-sơ-ra-ên lặp lại vòng này không dứt. Kinh Thánh ghi lại không phải để ta chế giễu «họ thật đáng thương».</p><p>Đó là một <b>tấm gương</b>. Không phải «Y-sơ-ra-ên đã như vậy», mà để ta thấy rằng <b>«tôi cũng như vậy»</b> (1 Cô-rinh-tô 10:11).</p><p>Một <b>thần tượng</b> không chỉ là pho tượng gỗ. Đó là <b>mọi điều ta yêu hoặc cậy trông hơn Đức Chúa Trời</b> — tiền bạc, thành công, sự công nhận, con người, thậm chí chính tôi. Và dùng Đức Chúa Trời như <b>phương tiện để thỏa mãn ước muốn của tôi</b> cũng là thờ thần tượng.</p><p class='punch'>Rốt cuộc, thần tượng sâu xa nhất là «chính tôi ngồi trên ngai của Đức Chúa Trời».</p>",
+  "gospel.coreIntro": "Vậy Đức Chúa Trời cứu tội nhân này thế nào? Đây là cốt lõi của Tin Lành mà Kinh Thánh rao báo.",
+  "gospel.crux": "<p class='crux-lead'>Cả Kinh Thánh chỉ về một điểm.</p><p>Con người không thể tự phá vỡ vòng tội lỗi, và chẳng có một người công bình nào. Vì vậy phải có ai đó <b>trả giá thay cho chúng ta</b>.</p><p>Chúa Giê-xu đến không chỉ để ban lời dạy hay. Ngài đến vì <b>không có con đường nào khác để cứu tôi</b> — Ngài buộc phải đến.</p><p class='crux-punch'>Người lẽ ra phải ở trên thập tự ấy chính là <b>tôi</b>.<br>Chúa Giê-xu mang lấy <b>tội của tôi</b> và bị đóng đinh ở đó thế cho tôi.</p><div class='crux-verse'>«Người đã vì tội lỗi chúng ta mà bị vết, vì sự gian ác chúng ta mà bị thương… bởi lằn roi người chúng ta được lành bịnh.» — Ê-sai 53:5</div>",
+  "faq.h": "Biết đâu có điều này đang vướng mắc trong lòng bạn?",
+  "faq.q1": "<span class='arr'>▸</span> Vậy kẻ giết người chỉ cần tin thì lên thiên đàng, còn người sống tử tế mà không tin thì xuống hỏa ngục sao?",
+  "faq.a1": "<p>Đây là câu hỏi chính đáng. Nhưng trong đó ẩn chứa hai hiểu lầm.</p><p><b>① Kinh Thánh không chia con người thành «tốt» và «xấu».</b> Tiêu chuẩn không phải «hơn người bên cạnh», mà là «sự thánh khiết trọn vẹn của Đức Chúa Trời». Trước mặt Ngài, chẳng ai «đủ tốt» (Rô-ma 3:23). Nên đây không phải «người tốt và kẻ giết người», mà giống hai người mắc bệnh nan y: một người nhận thuốc, người kia từ chối, bảo «tôi khỏe hơn người đó».</p><p><b>② Điều phân chia thiên đàng và hỏa ngục chỉ có một.</b> Không phải điểm số của việc làm, mà là <b>bạn có tiếp nhận Chúa Giê-xu Christ làm Chúa và vấn đề tội lỗi đã được giải quyết hay chưa</b>. Ai có tội được giải quyết bởi huyết Đấng Christ thì vào thiên đàng; ai không bao giờ tiếp nhận Ngài và tội vẫn còn thì không. Dù việc lành đến đâu cũng không thể giải quyết thay bạn chính vấn đề tội lỗi.</p><p>Vậy thiên đàng và hỏa ngục không phải «phần thưởng cho hạnh kiểm tốt», mà là vấn đề <b>mối quan hệ với Đấng Christ</b>. Và «tin» không phải sự đồng ý trong trí, mà là sự đổi chủ của đời sống: ai thật sự tiếp nhận Ngài thì không trở nên trơ tráo, trái lại ăn năn sâu xa hơn. Trái lại, <b>sự tự cho mình công bình</b> «tôi là người tốt» mới là thần tượng khó phá vỡ nhất, khiến người ta nghĩ «tôi không cần Đấng Christ» (Lu-ca 18:9-14).</p><p>Kinh Thánh nói rõ: <b>«Ai tin Ngài thì chẳng bị đoán xét đâu; ai không tin thì đã bị đoán xét rồi»</b> (Giăng 3:18). Sự phán xét không phải «chấm điểm đời sống lúc cuối», mà đã được định theo <b>việc bạn có tiếp nhận Đấng Christ hay không</b>.</p><p class='faq-v'>Rô-ma 3:23 · Giăng 3:18 · Ê-phê-sô 2:8-9 · Lu-ca 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Không tin Chúa Giê-xu, chỉ cần sống tử tế chẳng đủ sao?",
+  "faq.a2": "<p>Đó là điều được nghĩ đến nhiều nhất, nhưng hiểu sai «vấn đề thật sự» là gì. Hãy dùng một hình ảnh.</p><p><b>Giả sử bạn đang ở trên một tàu cướp biển.</b> Dù bạn lau sàn sạch đến đâu, tử tế với thủy thủ, sống gương mẫu đến mấy — bạn vẫn là <b>cướp biển</b>, vì con tàu đưa bạn theo nó đến đích (bến cảng phán xét). Vấn đề không phải «điểm số việc làm của bạn», mà là <b>«bạn thuộc về con tàu nào» (thân phận của bạn)</b>.</p><p>Vì vậy Tin Lành không nói «hãy tốt hơn», mà nói <b>«hãy đổi tàu»</b>. Hãy bước xuống khỏi con tàu tội lỗi, sang với Chúa Giê-xu — vào thân phận mới là <b>con của Đức Chúa Trời</b>. Đó không phải nâng điểm bằng nỗ lực, mà tin cậy Đấng đang chìa tay ra và bước sang tàu của Ngài.</p><p>Thật vậy, Kinh Thánh mô tả sự cứu rỗi đúng như sự «dời qua» này: <b>«Ngài đã giải thoát chúng ta khỏi quyền của sự tối tăm, làm cho chúng ta dời qua nước của Con rất yêu dấu Ngài»</b> (Cô-lô-se 1:13).</p><p>Đừng hiểu lầm: <b>điều này không có nghĩa sống tử tế là vô nghĩa.</b> Nhưng điều thiện không phải «điều kiện» của sự cứu rỗi, mà là <b>bông trái</b> của nó. Ai đã đổi tàu thì sống tốt không phải vì sợ hãi, mà vì <b>tình yêu của một người con</b>.</p><p class='faq-v'>Cô-lô-se 1:13 · Giăng 1:12 · Giăng 3:3 · Ê-phê-sô 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Như trong phim «Secret Sunshine (Milyang)», nếu kẻ gây ác bình an vì «đã được tha thứ» — sự tha thứ ấy chẳng phải quá rẻ sao?",
+  "faq.a3": "<p>Câu hỏi mà bộ phim đặt ra là chính đáng, và nỗi đau ấy là có thật. Nhưng cảnh đó không cho thấy «sự tha thứ của Kinh Thánh», mà là sự <b>bóp méo</b> nó.</p><p><b>① Sự tha thứ của Đức Chúa Trời chẳng bao giờ rẻ.</b> Tội không bị che lấp như thể «chưa từng xảy ra»; chính Đức Chúa Trời đã trả giá bằng sự sống của Con Ngài. Thập tự không chứng tỏ tội được xem nhẹ, mà cho thấy tội nặng nề biết bao — đó là sự tha thứ đắt giá nhất trên đời.</p><p><b>② Sự ăn năn thật sinh ra bông trái.</b> Nếu kẻ gây ác thản nhiên trước nạn nhân mà nói «Chúa đã tha cho tôi, tôi bình an», đó không phải ăn năn, mà là sự bắt chước ăn năn (Ma-thi-ơ 3:8). Và sự tha thứ giữa Đức Chúa Trời với tôi không xóa vết thương của nạn nhân, cũng không ép nạn nhân phải tha thứ.</p><p><b>③ Tội chẳng bao giờ bị «cho qua».</b> Mọi tội đều được trả ở một trong hai nơi: <b>hoặc Đấng Christ gánh trên thập tự</b> (người tin thì không còn bị định tội, Rô-ma 8:1), <b>hoặc kẻ chối bỏ Ngài đến cùng tự gánh lấy.</b> Vậy nên không có «sự tha bổng rẻ tiền». Kẻ gây ác cũng phải gánh trách nhiệm pháp lý trong đời này (Rô-ma 13:1-4).</p><p><b>④ Nước mắt của nạn nhân chẳng bao giờ nhỏ bé trước Đức Chúa Trời.</b> Ngài khóc với người khóc, ghi nhớ từng giọt lệ, và cuối cùng chính Ngài sẽ lau ráo (Khải-huyền 21:4). Vì vậy nạn nhân cũng không phải một mình gánh gánh nặng báo thù, mà có thể giao cho Đức Chúa Trời công bình (Rô-ma 12:19: «Sự trả thù thuộc về ta, ta sẽ báo ứng»).</p><p class='faq-v'>Ma-thi-ơ 3:8 · Rô-ma 8:1 · Rô-ma 13:1-4 · Khải-huyền 21:4</p>",
+  "respond.h3": "Vậy thì, tôi phải làm gì?",
+  "respond.sub": "Tình yêu này không phải thông tin, mà là một <b>lời mời</b>. Nếu tình yêu đã bị đóng đinh thế cho tôi chạm đến lòng bạn, hãy cầu nguyện lời này ngay bây giờ, từng câu một, thật chậm rãi.",
+  "respond.prayer": "<p>Lạy Đức Chúa Trời,</p><p>con nhận rằng con là tội nhân không thể tự cứu mình.</p><p>Con tin Chúa Giê-xu đã chết vì con trên thập tự và đã sống lại.</p><p>Xin tha thứ mọi tội con, và từ hôm nay làm Chúa của đời con.</p><p>Xin nhận con làm con của Ngài, và cho con sống một đời sống mới.</p><p class='amen'>Con cầu nguyện trong danh Chúa Giê-xu. A-men.</p>",
+  "respond.after": "Nếu bạn đã cầu nguyện điều này từ tận đáy lòng, Kinh Thánh nói bạn đã trở nên <b>con của Đức Chúa Trời</b>. Bạn không còn cô đơn — hãy tìm một hội thánh gần đó và cùng bước đi trên con đường đức tin.",
+  "respond.verse": "«Hễ ai đã nhận Ngài… thì Ngài ban cho quyền phép trở nên con cái Đức Chúa Trời.» — Giăng 1:12 · Rô-ma 10:9-10",
+  "closing.main": "Một Đức Chúa Trời,<br>bằng một câu chuyện,<br>tìm kiếm chúng ta bằng <em>tình yêu</em><br>chẳng bao giờ bỏ cuộc.",
+  "closing.verse": "«Dầu sự chết hay sự sống… cũng chẳng có loài thọ tạo nào có thể phân rẽ chúng ta khỏi sự yêu thương của Đức Chúa Trời trong Đức Chúa Jêsus Christ, là Chúa chúng ta.» — Rô-ma 8:38-39",
+  "closing.small": "Trên mạch truyện này, Luật pháp, các sách thi ca, các tiên tri và các thư tín thêm vào «da thịt».<br>Từ nay, mở bất kỳ sách nào, bạn cũng sẽ thấy «mình đang ở đâu trong câu chuyện».",
+  "closing.share": "↗ Chia sẻ câu chuyện này",
+  "about.line": "Nội dung dựa trên cái nhìn <b>lịch sử cứu rỗi, Tin Lành – Cải Chánh</b> mà phần lớn Tin Lành Hàn Quốc cùng chia sẻ.",
+  "about.contact": "Liên hệ · góp ý — <a id='contact' class='mail'>Gửi email</a>"
+ },
+ "epochs": [
+  {
+   "tag": "Cựu Ước · Khởi đầu",
+   "title": "Sáng tạo",
+   "date": "Ban đầu",
+   "one": "Đức Chúa Trời dựng nên một thế giới «rất tốt lành».",
+   "people": "Đức Chúa Trời; A-đam và Ê-va",
+   "events": "Sáng tạo trong sáu ngày, con người theo hình ảnh Đức Chúa Trời, ngày Sa-bát nghỉ ngơi",
+   "q": "Ban đầu Đức Chúa Trời dựng nên trời đất.",
+   "cite": "Sáng-thế Ký 1:1",
+   "christ": "Thế giới được dựng nên bởi «Ngôi Lời». Phúc âm Giăng tuyên bố Ngôi Lời ấy chính là Chúa Giê-xu (Giăng 1:1-3).",
+   "detail": "<p>Kinh Thánh không khởi đầu bằng lập luận triết học, mà bằng lời tuyên bố: <b>«Ban đầu Đức Chúa Trời…»</b>. Thế giới không phải ngẫu nhiên, mà là công trình của một Đức Chúa Trời có ngôi vị.</p><ul><li><b>Hình ảnh Đức Chúa Trời</b> · chỉ con người được dựng nên giống Đức Chúa Trời, để biết Ngài và chăm sóc thế giới.</li><li><b>Sự nghỉ ngơi</b> · sự nghỉ ngày thứ bảy cho thấy mọi sự đã trọn vẹn và bình an (shalom): «Đức Chúa Trời thấy điều đó là tốt lành».</li><li><b>Ê-đen</b> · thế giới trước khi đổ vỡ, nơi Đức Chúa Trời và con người cùng bước đi.</li></ul>",
+   "next": "Nhưng sự trọn vẹn này chẳng mấy chốc tan vỡ…"
+  },
+  {
+   "tag": "Cựu Ước · Vấn đề bắt đầu",
+   "title": "Sa ngã",
+   "date": "Ban đầu",
+   "one": "Tội lỗi xâm nhập, và mối liên kết giữa con người với Đức Chúa Trời bị cắt đứt.",
+   "people": "A-đam và Ê-va; con rắn (Sa-tan)",
+   "events": "Ăn trái cấm, bị đuổi khỏi Ê-đen, sự chết và lao khổ xâm nhập",
+   "q": "Ta sẽ làm cho mầy cùng người nữ… nghịch thù nhau. Người sẽ giày đạp đầu mầy.",
+   "cite": "Sáng-thế Ký 3:15",
+   "christ": "Lời hứa Tin Lành đầu tiên, ban ngay sau sự sa ngã: «dòng dõi người nữ» sẽ giày đạp đầu con rắn. Đó là Chúa Giê-xu (Sáng 3:15; Rô-ma 16:20; Ga-la-ti 4:4).",
+   "detail": "<p>Bởi sự bất tuân muốn «trở nên như Đức Chúa Trời», tội lỗi xâm nhập thế gian. Hậu quả không chỉ là vi phạm một luật, mà là <b>sự đổ vỡ các mối quan hệ</b>.</p><ul><li><b>Quan hệ tan vỡ</b> · với Đức Chúa Trời (lẩn trốn), với nhau (đổ lỗi), và với thiên nhiên (gai góc và lao khổ).</li><li><b>Sự chết</b> · lời cảnh báo «chắc chắn ngươi sẽ chết» trở thành hiện thực.</li><li><b>Sáng 3:15</b> · nhưng giữa sự phán xét, lời hứa cứu rỗi được ban trước. Các học giả gọi đó là <b>«tiền Phúc âm» (Phúc âm đầu tiên)</b>.</li></ul>",
+   "next": "Giờ đây Đức Chúa Trời kêu gọi một người và bắt đầu công cuộc phục hồi…"
+  },
+  {
+   "tag": "Cựu Ước · Lời hứa",
+   "title": "Thời các tổ phụ",
+   "date": "khoảng 2000 TCN",
+   "one": "Đức Chúa Trời hứa với Áp-ra-ham: «Ngươi sẽ thành nguồn phước».",
+   "people": "Áp-ra-ham · Y-sác · Gia-cốp · Giô-sép",
+   "events": "Giao ước với Áp-ra-ham, dâng Y-sác, mười hai con trai Gia-cốp, Giô-sép làm tể tướng Ai Cập",
+   "q": "Ta sẽ làm cho ngươi nên một dân lớn… các chi tộc nơi thế gian sẽ nhờ ngươi mà được phước.",
+   "cite": "Sáng-thế Ký 12:2-3",
+   "christ": "Lời hứa «các chi tộc sẽ được phước» ứng nghiệm trong Chúa Giê-xu, dòng dõi Áp-ra-ham (Ga-la-ti 3:16).",
+   "detail": "<p>Đức Chúa Trời bắt đầu giải quyết vấn đề của cả nhân loại bằng cách kêu gọi một người là <b>Áp-ra-ham</b>. Trung tâm là <b>giao ước (lời hứa)</b> — một dân lớn, một xứ, và «phước cho mọi chi tộc».</p><ul><li><b>Đức tin</b> · Áp-ra-ham tin lời hứa chưa thấy, và điều đó được kể là công bình cho ông (Sáng 15:6).</li><li><b>Y-sác và Gia-cốp</b> · lời hứa truyền sang đời sau; Gia-cốp (Y-sơ-ra-ên) là tổ của mười hai chi phái.</li><li><b>Giô-sép</b> · bị anh em bán nhưng trở thành tể tướng Ai Cập: «Đức Chúa Trời đã đổi thành điều lành» (Sáng 50:20).</li></ul>",
+   "next": "Gia đình theo Giô-sép xuống Ai Cập… rồi trở thành nô lệ."
+  },
+  {
+   "tag": "Cựu Ước · Cứu chuộc",
+   "title": "Xuất Ai Cập và đồng vắng",
+   "date": "khoảng 1446 TCN",
+   "one": "Đức Chúa Trời giải cứu dân nô lệ và lập họ làm dân Ngài.",
+   "people": "Môi-se, A-rôn, Pha-ra-ôn",
+   "events": "Mười tai vạ, lễ Vượt Qua, vượt Biển Đỏ, Mười Điều Răn tại Si-nai, đền tạm, bốn mươi năm trong đồng vắng",
+   "q": "Ta sẽ nhận các ngươi làm dân ta, và ta sẽ làm Đức Chúa Trời của các ngươi.",
+   "cite": "Xuất Ê-díp-tô Ký 6:7",
+   "christ": "Lễ Vượt Qua, khi huyết chiên con cứu khỏi sự chết, báo trước Chúa Giê-xu «Chiên Con lễ Vượt Qua của chúng ta» bị đóng đinh vì chúng ta (1 Cô-rinh-tô 5:7).",
+   "detail": "<p>Sự kiện cứu rỗi lớn nhất Cựu Ước. Y-sơ-ra-ên từng làm nô lệ nay được tự do bởi quyền năng Đức Chúa Trời và được nắn thành <b>dân</b> Ngài.</p><ul><li><b>Lễ Vượt Qua</b> · nhà có huyết chiên con trên cửa thì sự chết vượt qua; khuôn mẫu cho mọi của lễ về sau.</li><li><b>Biển Đỏ</b> · sự cứu khi biển rẽ ra ở ngõ cụt; «vượt qua» trở thành biểu tượng của khởi đầu mới.</li><li><b>Giao ước Si-nai</b> · qua Mười Điều Răn, họ học cách sống làm dân Đức Chúa Trời.</li><li><b>Đền tạm</b> · nơi thánh di động, nơi Đức Chúa Trời ngự giữa dân — báo trước «Em-ma-nu-ên».</li><li><b>Bốn mươi năm</b> · vì bất tuân, một thế hệ lang thang trong đồng vắng, nhưng Đức Chúa Trời ở cùng họ bằng ma-na, trụ mây và trụ lửa.</li></ul>",
+   "next": "Đứng trước đất hứa, họ chuẩn bị tiến vào…"
+  },
+  {
+   "tag": "Cựu Ước · Định cư",
+   "title": "Chinh phục và các quan xét",
+   "date": "khoảng 1400–1050 TCN",
+   "one": "Đã được đất, nhưng không có vua nên ai nấy làm theo ý mình.",
+   "people": "Giô-suê; các quan xét như Ghê-đê-ôn và Sam-sôn; Ru-tơ",
+   "events": "Giê-ri-cô sụp đổ, định cư tại Ca-na-an, vòng tội lỗi–phán xét–giải cứu lặp lại",
+   "q": "Trong lúc đó, không có vua nơi Y-sơ-ra-ên; ai nấy làm theo ý mình lấy làm phải.",
+   "cite": "Các Quan Xét 21:25",
+   "christ": "Từ dòng dõi Ru-tơ ra Đa-vít, và từ dòng Đa-vít đến Chúa Giê-xu (Ma-thi-ơ 1). Ngay trong hỗn loạn, dòng dõi Đấng Mê-si vẫn tiếp nối.",
+   "detail": "<p>Dưới sự dẫn dắt của Giô-suê, họ vào đất hứa, nhưng định cư xong thì mau quên Đức Chúa Trời. Sách Các Quan Xét là sự lặp lại cùng một khuôn mẫu.</p><ul><li><b>Vòng tội lỗi</b> · tội → áp bức → kêu cầu → giải cứu qua một quan xét → lại phạm tội, và ngày càng tệ.</li><li><b>Các quan xét</b> · Ghê-đê-ôn, Sam-sôn, Đê-bô-ra… những người giải cứu tạm thời, anh hùng nhưng nhiều khuyết điểm.</li><li><b>Ru-tơ</b> · ánh sáng của lòng trung tín giữa thời tăm tối; một phụ nữ ngoại bang bước vào dòng dõi Đa-vít (và Chúa Giê-xu).</li></ul>",
+   "next": "Dân chúng kêu lên: «Hãy lập cho chúng tôi một vua!»…"
+  },
+  {
+   "tag": "Cựu Ước · Cực thịnh",
+   "title": "Vương quốc thống nhất",
+   "date": "khoảng 1050–930 TCN",
+   "one": "Đức Chúa Trời hứa với Đa-vít: «Ngôi ngươi sẽ vững lập đời đời».",
+   "people": "Sau-lơ · Đa-vít · Sa-lô-môn",
+   "events": "Vua đầu tiên Sau-lơ, Đa-vít và Gô-li-át, giao ước với Đa-vít, đền thờ Sa-lô-môn",
+   "q": "Nhà ngươi và nước ngươi được vững bền trước mặt ngươi đời đời; ngôi ngươi sẽ được vững lập đến mãi mãi.",
+   "cite": "2 Sa-mu-ên 7:16",
+   "christ": "«Ngôi đời đời» ứng nghiệm trong Chúa Giê-xu, dòng dõi Đa-vít; vì vậy Ngài được gọi là «Con Đa-vít» (Lu-ca 1:32-33; Ma-thi-ơ 1:1).",
+   "detail": "<p>Thời cực thịnh của Y-sơ-ra-ên dưới ba vua.</p><ul><li><b>Sau-lơ</b> · vua đầu tiên dân đòi; khởi đầu tốt, nhưng bị loại bỏ vì bất tuân.</li><li><b>Đa-vít</b> · «người vừa lòng Đức Chúa Trời». Ông thắng Gô-li-át và lập Giê-ru-sa-lem làm kinh đô. Ông phạm tội lớn (Bát-sê-ba) nhưng ăn năn thật lòng (Thi-thiên 51).</li><li><b>Giao ước với Đa-vít (2 Sa-mu-ên 7)</b> · Đức Chúa Trời hứa lập triều đại ông đời đời — cội rễ quyết định của niềm trông đợi Đấng Mê-si.</li><li><b>Sa-lô-môn</b> · ở đỉnh cao khôn ngoan và giàu có, ông xây <b>đền thờ</b> tại Giê-ru-sa-lem, nhưng cuối đời sa vào thờ thần tượng.</li></ul>",
+   "next": "Sau Sa-lô-môn, vương quốc tách làm hai…"
+  },
+  {
+   "tag": "Cựu Ước · Suy tàn",
+   "title": "Vương quốc chia đôi",
+   "date": "930–586 TCN",
+   "one": "Chia thành nam (Giu-đa) và bắc (Y-sơ-ra-ên), rồi dần băng hoại.",
+   "people": "Các vua hai nước; các tiên tri như Ê-li, Ê-sai, Giê-rê-mi",
+   "events": "Vương quốc chia đôi, thờ thần tượng, lời cảnh báo của các tiên tri",
+   "q": "Ấy vậy, Y-sơ-ra-ên phản nghịch nhà Đa-vít cho đến ngày nay.",
+   "cite": "1 Các Vua 12:19",
+   "christ": "Trong thời này các tiên tri ngày càng rõ ràng báo trước Đấng Mê-si sẽ đến (Ê-sai 9:6; Ê-sai 53).",
+   "detail": "<p>Đến đời con Sa-lô-môn, vương quốc chia đôi: <b>Y-sơ-ra-ên (bắc)</b>, mười chi phái, kinh đô Sa-ma-ri; và <b>Giu-đa (nam)</b>, hai chi phái, kinh đô Giê-ru-sa-lem.</p><ul><li><b>Bắc</b> · mọi vua đều thờ thần tượng; sụp đổ trước A-si-ri năm 722 TCN.</li><li><b>Nam</b> · dòng Đa-vít tiếp nối, có vua tốt như Ê-xê-chia và Giô-si-a, nhưng nhìn chung suy tàn.</li><li><b>Các tiên tri</b> · Ê-li, A-mốt, Ê-sai, Giê-rê-mi kêu «hãy trở lại!». Tại đây lời tiên tri về Đấng Mê-si phong phú nhất («đầy tớ chịu khổ» trong Ê-sai 53).</li></ul>",
+   "next": "Cuối cùng sự phán xét đã báo trước ập đến: họ bị lưu đày…"
+  },
+  {
+   "tag": "Cựu Ước · Phán xét",
+   "title": "Thời lưu đày",
+   "date": "722 / 586 TCN",
+   "one": "Vương quốc sụp đổ, dân bị bắt sang xứ ngoại.",
+   "people": "Đa-ni-ên, Ê-xê-chi-ên, Nê-bu-cát-nết-sa",
+   "events": "Y-sơ-ra-ên sụp đổ trước A-si-ri (722); Giu-đa sụp đổ trước Ba-by-lôn và đền thờ bị hủy (586)",
+   "q": "Chúng tôi đương ngồi trên mé sông Ba-by-lôn, bèn nhớ lại Si-ôn, và khóc.",
+   "cite": "Thi-thiên 137:1",
+   "christ": "Giữa cùng cực tuyệt vọng, Giê-rê-mi hứa một «giao ước mới» (Giê-rê-mi 31:31) — chính giao ước Chúa Giê-xu lập trong bữa tối cuối cùng.",
+   "detail": "<p>Lời cảnh báo thành hiện thực. Đền thờ cháy, dân bị bắt sang Ba-by-lôn: mất đất, mất vua, mất đền thờ — khủng hoảng tồi tệ nhất.</p><ul><li><b>Hai lần sụp đổ</b> · Y-sơ-ra-ên (A-si-ri, 722 TCN) và Giu-đa (Ba-by-lôn, 586 TCN).</li><li><b>Đa-ni-ên</b> · gương đức tin ngay giữa triều đình ngoại bang (hang sư tử); ông thấy khải tượng về «nước đời đời» sẽ đến.</li><li><b>Đốm hy vọng</b> · khải tượng hài cốt khô sống lại (Ê-xê-chi-ên 37) và «giao ước mới» của Giê-rê-mi chỉ về tương lai giữa bóng tối.</li></ul>",
+   "next": "Bảy mươi năm sau, Đức Chúa Trời mở đường: họ trở về quê hương…"
+  },
+  {
+   "tag": "Cựu Ước · Phục hồi",
+   "title": "Hồi hương từ lưu đày",
+   "date": "538–430 TCN",
+   "one": "Họ trở về và xây lại đền thờ cùng tường thành.",
+   "people": "E-xơ-ra, Nê-hê-mi, Ê-xơ-tê, Xô-rô-ba-bên",
+   "events": "Hồi hương theo chiếu chỉ Si-ru, xây lại đền thờ, sửa tường thành Giê-ru-sa-lem, phục hồi Lời Chúa",
+   "q": "Vì sự vui vẻ của Đức Giê-hô-va là sức lực của các ngươi.",
+   "cite": "Nê-hê-mi 8:10",
+   "christ": "Ma-la-chi, sách cuối Cựu Ước, kết thúc bằng lời báo trước về một sứ giả dọn đường cho Đấng Mê-si: «Nầy, ta sai sứ giả ta» (Ma-la-chi 3:1).",
+   "detail": "<p>Cuộc hồi hương bắt đầu với chiếu chỉ của vua Si-ru nước Ba Tư (538 TCN). Qua ba đợt, họ trở về và xây lại những gì đã đổ.</p><ul><li><b>Xô-rô-ba-bên</b> · xây lại đền thờ (hoàn tất năm 516 TCN).</li><li><b>E-xơ-ra</b> · dạy lại luật pháp (Lời Chúa) và phục hưng đức tin.</li><li><b>Nê-hê-mi</b> · xây lại tường thành Giê-ru-sa-lem trong 52 ngày.</li><li><b>Ê-xơ-tê</b> · cứu người Do Thái ở Ba Tư khỏi bị tận diệt — «biết đâu vì cớ thời điểm này…».</li><li><b>Cơn khát còn lại</b> · đền thờ đã đứng, nhưng không có vua như Đa-vít. Dân trông đợi Đấng Mê-si.</li></ul>",
+   "next": "Rồi… như bầu trời khép lại, 400 năm im lặng buông xuống."
+  },
+  {
+   "tag": "Giữa hai giao ước · Chuẩn bị sân khấu",
+   "title": "Thời im lặng",
+   "date": "khoảng 430–4 TCN",
+   "one": "400 năm không tiếng tiên tri — nhưng sân khấu được chuẩn bị trong thầm lặng.",
+   "people": "A-lịch-sơn Đại đế, nhà Ma-ca-bê, La Mã",
+   "events": "Ba Tư → Hy Lạp → độc lập Ma-ca-bê → ách La Mã",
+   "q": "Nhưng khi kỳ hạn đã được trọn, Đức Chúa Trời bèn sai Con Ngài bởi một người nữ sanh ra.",
+   "cite": "Ga-la-ti 4:4",
+   "christ": "Toàn bộ sự «chuẩn bị sân khấu» này là công việc của Đức Chúa Trời, để Chúa Giê-xu đến đúng «khi kỳ hạn đã trọn».",
+   "detail": "<p>Từ Ma-la-chi đến Tân Ước, khoảng 400 năm không có lời Kinh Thánh mới (tiên tri). Nhưng phía sau lịch sử, Đức Chúa Trời đang chuẩn bị đường cho Tin Lành lan rộng.</p><ul><li><b>Đế quốc đổi thay</b> · Ba Tư → Hy Lạp (A-lịch-sơn, 333 TCN) → Ai Cập và Sy-ri → khởi nghĩa Ma-ca-bê (167 TCN) → La Mã (63 TCN).</li><li><b>Tiếng Hy Lạp</b> · cuộc chinh phục của A-lịch-sơn khiến tiếng Hy Lạp thành ngôn ngữ chung; Cựu Ước được dịch sang Hy Lạp (bản Bảy Mươi), mở đường cho Tin Lành lan nhanh.</li><li><b>Đường sá và hòa bình La Mã</b> · những con đường tốt và «nền hòa bình La Mã» trở thành kênh cho công cuộc truyền giáo.</li><li><b>Nhà hội và các phái</b> · việc dạy Lời Chúa tại nhà hội bén rễ; phái Pha-ri-si và Sa-đu-sê xuất hiện, và <b>niềm trông đợi Đấng Mê-si</b> chín muồi.</li></ul>",
+   "next": "Và khi sự im lặng bị phá vỡ — cuối cùng Ngài đến."
+  },
+  {
+   "tag": "Tân Ước · Ứng nghiệm",
+   "title": "Chúa Giê-xu giáng thế",
+   "date": "khoảng 4 TCN – 30 SCN",
+   "one": "Đấng Mê-si được hứa đã đến, đã chết, và đã sống lại.",
+   "people": "Chúa Giê-xu, mười hai môn đồ, Giăng Báp-tít",
+   "events": "Sự nhập thể (Giáng Sinh), chức vụ dạy dỗ và phép lạ, sự chết trên thập tự, sự sống lại ngày thứ ba",
+   "q": "Ngôi Lời đã trở nên xác thịt, ở giữa chúng ta… đầy ơn và lẽ thật.",
+   "cite": "Giăng 1:14",
+   "christ": "Dòng dõi người nữ (cảnh 2), phước của Áp-ra-ham (3), Chiên Con lễ Vượt Qua (4), vua đời đời của Đa-vít (6), và giao ước mới (8) — tất cả ứng nghiệm trong một Giê-xu: Đấng tiên tri, thầy tế lễ và vua thật của chúng ta.",
+   "detail": "<p>Sự im lặng bị phá vỡ, Đấng được hứa đến. Bốn sách Phúc âm làm chứng về sự sống, sự chết và sự sống lại của Chúa Giê-xu từ những góc nhìn khác nhau.</p><ul><li><b>Nhập thể</b> · Đức Chúa Trời trở nên người (Em-ma-nu-ên, «Đức Chúa Trời ở cùng chúng ta»), trong sự thấp hèn của Bết-lê-hem.</li><li><b>Chức vụ</b> · Ngài dạy về nước Đức Chúa Trời, chữa lành người bệnh, kêu gọi tội nhân. «Ai đã thấy ta tức là đã thấy Cha.»</li><li><b>Thập tự</b> · Ngài trả thay chúng ta giá của tội lỗi và sự chết do sự sa ngã đem vào (cảnh 2). Chiên Con lễ Vượt Qua thật.</li><li><b>Sự sống lại</b> · ngày thứ ba Ngài sống lại, đập tan quyền lực của tội lỗi, sự chết và Sa-tan; ngay trên thập tự Ngài đã «truất bỏ các quyền cai trị… và chiến thắng chúng» (Cô-lô-se 2:15).</li></ul><p>Vì vậy Chúa Giê-xu là <b>Đấng tiên tri thật</b> của chúng ta (chỉ đường đến Đức Chúa Trời), <b>thầy tế lễ thật</b> (lấy chính thân mình chuộc tội), và <b>vua thật</b> (đắc thắng tội lỗi, sự chết và Sa-tan, cai trị đời đời).</p>",
+   "next": "Chúa Giê-xu phục sinh sai các môn đồ ra thế gian…"
+  },
+  {
+   "tag": "Tân Ước · Lan rộng",
+   "title": "Khởi đầu Hội thánh",
+   "date": "từ năm 30 SCN",
+   "one": "Thánh Linh giáng xuống, và Tin Lành lan đến tận cùng trái đất.",
+   "people": "Phi-e-rơ, Phao-lô, Hội thánh đầu tiên",
+   "events": "Thánh Linh giáng trong lễ Ngũ Tuần, Hội thánh ra đời, Tin Lành từ Giê-ru-sa-lem đến La Mã qua bắt bớ",
+   "q": "Nhưng khi Đức Thánh Linh giáng trên các ngươi, thì các ngươi sẽ nhận lấy quyền phép… cho đến cùng trái đất.",
+   "cite": "Công vụ 1:8",
+   "christ": "Câu chuyện này vẫn tiếp diễn đến hôm nay. Kinh Thánh kết thúc bằng lời hứa rằng Chúa Giê-xu sẽ trở lại và làm mới mọi sự (Khải-huyền 21).",
+   "detail": "<p>Sau khi Chúa Giê-xu thăng thiên, Thánh Linh được hứa giáng trong lễ Ngũ Tuần, và Hội thánh ra đời. Tin Lành lan rộng bùng nổ.</p><ul><li><b>Lễ Ngũ Tuần</b> · bởi Thánh Linh, các môn đồ sợ hãi trở thành những chứng nhân dạn dĩ.</li><li><b>Phi-e-rơ</b> · rao Tin Lành cho người Do Thái tại Giê-ru-sa-lem.</li><li><b>Phao-lô</b> · từ kẻ bắt bớ trở thành sứ đồ; lập các hội thánh khắp thế giới dân ngoại và viết các thư tín.</li><li><b>Đến tận cùng</b> · Giê-ru-sa-lem → Giu-đê → Sa-ma-ri → La Mã. Lời hứa «mọi chi tộc» với Áp-ra-ham trở thành hiện thực.</li><li><b>Và chúng ta</b> · câu chuyện chưa kết thúc; vẫn tiến về sự tái lâm của Chúa Giê-xu và trời mới đất mới.</li></ul>",
+   "next": "Nhưng câu chuyện không kết thúc tại đây…"
+  },
+  {
+   "tag": "Tân Ước · Hoàn tất",
+   "title": "Phục hồi (muôn vật được đổi mới)",
+   "date": "sẽ đến",
+   "one": "Chúa Giê-xu trở lại và làm mới mọi sự.",
+   "people": "Chúa Giê-xu tái lâm; muôn dân",
+   "events": "Sự tái lâm, sự phán xét cuối cùng, sự kết thúc của tội lỗi, sự chết và nước mắt, trời mới đất mới",
+   "q": "Ngài sẽ lau ráo hết nước mắt khỏi mắt chúng, sẽ không có sự chết, cũng không có than khóc, kêu ca, hay là đau đớn nữa.",
+   "cite": "Khải-huyền 21:4",
+   "christ": "Vườn Ê-đen của buổi sáng tạo đầu tiên cuối cùng được phục hồi thành «Giê-ru-sa-lem mới». Đức Chúa Trời ở cùng dân Ngài đời đời — sự trọn vẹn của Em-ma-nu-ên (Khải-huyền 21:3; Ma-thi-ơ 1:23).",
+   "detail": "<p>Kinh Thánh không kết thúc ở thời đại Hội thánh. Sách cuối cùng, Khải-huyền, cho thấy Chúa Giê-xu <b>trở lại</b> và hoàn tất mọi sự.</p><ul><li><b>Sự tái lâm</b> · vua được hứa trở lại trong vinh quang.</li><li><b>Chiến thắng cuối cùng</b> · Sa-tan và sự chết bị tiêu diệt đời đời, và Đấng Christ cai trị làm Vua của muôn vua (1 Cô-rinh-tô 15:25-26; Khải-huyền 20:10).</li><li><b>Phán xét và sống lại</b> · mọi bất công được sửa lại, và kẻ chết sống lại.</li><li><b>Trời mới đất mới</b> · tội lỗi, sự chết, nước mắt và đau đớn biến mất đời đời (Khải-huyền 21:4).</li><li><b>Ê-đen được phục hồi</b> · trong «Giê-ru-sa-lem mới» tốt hơn ban đầu, Đức Chúa Trời ở cùng dân Ngài đời đời — đích đến mà cả Kinh Thánh hướng tới.</li></ul><p>Vì vậy nay là thời <b>«đã rồi, nhưng chưa trọn»</b>: trong Chúa Giê-xu, sự cứu rỗi <b>đã</b> hoàn tất, nhưng sự trọn vẹn thì <b>vẫn</b> đang chờ đợi.</p>",
+   "next": "Vậy thì, cả câu chuyện này có ý nghĩa gì cho «tôi»?"
+  }
  ],
- "love":[
+ "love": [
   "Khởi đầu câu chuyện không phải sự phán xét, mà là một thế giới được dựng nên bởi tình yêu tuôn tràn.",
   "Vừa khi con người phạm tội, Đức Chúa Trời lập tức hứa ban sự cứu rỗi ngay tại đó.",
   "Đức Chúa Trời tìm kẻ không xứng đáng trước, gọi đích danh, và lập làm nguồn phước.",
@@ -72,28 +248,96 @@
   "Tình yêu đã nhận ấy, nay Ngài sai đi để tuôn tràn khắp thế giới.",
   "Cuối cùng Ngài sẽ lau ráo mọi nước mắt, và làm mới mọi sự trong tình yêu."
  ],
- "mis":[
-  {"w":"«Tại sao Đức Chúa Trời tạo nên một loài có thể phạm tội? Chẳng phải không tạo thì tốt hơn sao?»","t":"Đức Chúa Trời dựng nên thế giới và con người không phải vì thiếu thốn, mà vì tình yêu tuôn tràn. Tạo nên con người <b>một ngôi vị có thể tương giao với Đức Chúa Trời</b> tự nó đã là tình yêu. Và ngay cả việc tội lỗi xâm nhập cũng không nằm ngoài kế hoạch cứu rỗi của Ngài (Ê-phê-sô 1:4-5). Cảnh đầu tiên của Kinh Thánh không phải sự phán xét, mà là tình yêu."},
-  {"w":"«Chỉ vì một trái mà bị đuổi, thậm chí chịu sự chết — Đức Chúa Trời chẳng phải quá khắc nghiệt sao?»","t":"Việc bị đuổi khỏi Ê-đen vừa là phán xét vừa là lòng thương xót. Nếu trong tình trạng đã lìa Đức Chúa Trời và đổ vỡ mà ăn cây sự sống rồi sống mãi, con người sẽ bị giam đời đời trong đau khổ (Sáng 3:22). Cho phép sự chết là mở một con đường trở về; và ngay tại đó Đức Chúa Trời hứa ban một Đấng Cứu Thế (Sáng 3:15). Trong sự phán xét đã có tình yêu."},
-  {"w":"«Áp-ra-ham được chọn vì đức tin lớn — chẳng phải các nhân vật Kinh Thánh đều là anh hùng đạo đức sao?»","t":"Áp-ra-ham cũng nói dối và nghi ngờ, còn Gia-cốp là kẻ lừa gạt. Đức Chúa Trời không gọi «người xứng đáng», mà bởi ân điển gọi kẻ bất toàn. Lý do của sự chọn lựa không phải sự ưu tú của họ, mà là tình yêu thành tín của Đức Chúa Trời (Phục-truyền 7:7-8)."},
-  {"w":"«Luật pháp (các điều răn) chẳng phải là bài thi hay điều kiện phải vượt qua để được cứu sao?»","t":"Đức Chúa Trời đã cứu họ <b>trước khi</b> ban luật pháp. Mười Điều Răn cũng mở đầu bằng lời tuyên bố cứu rỗi: «Ta là Giê-hô-va Đức Chúa Trời ngươi, đã đem ngươi ra khỏi Ai Cập» (Xuất 20:2). Luật pháp không phải «giữ thì được cứu», mà là sự hướng dẫn của tình yêu về cách sống cho người đã được cứu bởi ân điển (Phục-truyền 7:7-9). Luôn ân điển trước, vâng lời là sự đáp lại."},
-  {"w":"«Cuộc chinh phục Ca-na-an là cuộc tàn sát không thương xót — vậy Đức Chúa Trời Cựu Ước quả là tàn nhẫn.»","t":"Đây là vấn đề không thể giải quyết trong một câu và đòi sự thận trọng. Nhưng Kinh Thánh trình bày điều này không phải bạo lực tùy tiện, mà là sự phán xét sau nhiều thế kỷ gian ác cùng cực (gồm cả dâng con trẻ làm của lễ), sau sự nhịn nhục lâu dài (Sáng 15:16; Phục-truyền 9:4-5; Lê-vi Ký 18:24-25). Đức Chúa Trời không vội cả trong sự phán xét, và vui lòng tiếp nhận mọi kẻ trở lại với Ngài, dù là dân ngoại, như Ra-háp và Ru-tơ (Giô-suê 6:25; Ru-tơ 4:13-17)."},
-  {"w":"«Đa-vít là anh hùng không tì vết, nên được gọi là “người vừa lòng Đức Chúa Trời”.»","t":"Đa-vít đã phạm tội ngoại tình, thậm chí giết người. «Vừa lòng Đức Chúa Trời» không nghĩa là trọn vẹn, mà là ông không giấu tội, ăn năn triệt để, và luôn trở lại cùng Đức Chúa Trời (Thi-thiên 51). Tình yêu của Đức Chúa Trời không bỏ cả người sa ngã nặng nề."},
-  {"w":"«Tiên tri là thầy bói đoán tương lai / Đức Chúa Trời Cựu Ước chỉ biết thịnh nộ.»","t":"Cốt lõi của tiên tri không phải «đoán trúng tương lai», mà là tiếng kêu khẩn thiết của Đức Chúa Trời: «hãy trở lại đi». Ngay cả lời cảnh báo phán xét cũng không nhằm hủy diệt, mà để đem trở lại và ban sự sống: «Ta chẳng lấy sự kẻ dữ chết làm vui» (Ê-xê-chi-ên 33:11)."},
-  {"w":"«Sự lưu đày chứng tỏ Đức Chúa Trời đã bỏ hẳn Y-sơ-ra-ên.»","t":"Lưu đày không phải sự ruồng bỏ, mà là sự sửa phạt và thanh luyện của một người Cha đối với con yêu dấu (Hê-bơ-rơ 12:6). Đức Chúa Trời không bỏ đi; Ngài ở cùng Đa-ni-ên giữa cảnh lưu đày và hứa: «ý tưởng bình an… để cho các ngươi được sự trông cậy trong lúc cuối cùng» (Giê-rê-mi 29:11)."},
+ "mis": [
+  {
+   "w": "«Tại sao Đức Chúa Trời tạo nên một loài có thể phạm tội? Chẳng phải không tạo thì tốt hơn sao?»",
+   "t": "Đức Chúa Trời dựng nên thế giới và con người không phải vì thiếu thốn, mà vì tình yêu tuôn tràn. Tạo nên con người <b>một ngôi vị có thể tương giao với Đức Chúa Trời</b> tự nó đã là tình yêu. Và ngay cả việc tội lỗi xâm nhập cũng không nằm ngoài kế hoạch cứu rỗi của Ngài (Ê-phê-sô 1:4-5). Cảnh đầu tiên của Kinh Thánh không phải sự phán xét, mà là tình yêu."
+  },
+  {
+   "w": "«Chỉ vì một trái mà bị đuổi, thậm chí chịu sự chết — Đức Chúa Trời chẳng phải quá khắc nghiệt sao?»",
+   "t": "Việc bị đuổi khỏi Ê-đen vừa là phán xét vừa là lòng thương xót. Nếu trong tình trạng đã lìa Đức Chúa Trời và đổ vỡ mà ăn cây sự sống rồi sống mãi, con người sẽ bị giam đời đời trong đau khổ (Sáng 3:22). Cho phép sự chết là mở một con đường trở về; và ngay tại đó Đức Chúa Trời hứa ban một Đấng Cứu Thế (Sáng 3:15). Trong sự phán xét đã có tình yêu."
+  },
+  {
+   "w": "«Áp-ra-ham được chọn vì đức tin lớn — chẳng phải các nhân vật Kinh Thánh đều là anh hùng đạo đức sao?»",
+   "t": "Áp-ra-ham cũng nói dối và nghi ngờ, còn Gia-cốp là kẻ lừa gạt. Đức Chúa Trời không gọi «người xứng đáng», mà bởi ân điển gọi kẻ bất toàn. Lý do của sự chọn lựa không phải sự ưu tú của họ, mà là tình yêu thành tín của Đức Chúa Trời (Phục-truyền 7:7-8)."
+  },
+  {
+   "w": "«Luật pháp (các điều răn) chẳng phải là bài thi hay điều kiện phải vượt qua để được cứu sao?»",
+   "t": "Đức Chúa Trời đã cứu họ <b>trước khi</b> ban luật pháp. Mười Điều Răn cũng mở đầu bằng lời tuyên bố cứu rỗi: «Ta là Giê-hô-va Đức Chúa Trời ngươi, đã đem ngươi ra khỏi Ai Cập» (Xuất 20:2). Luật pháp không phải «giữ thì được cứu», mà là sự hướng dẫn của tình yêu về cách sống cho người đã được cứu bởi ân điển (Phục-truyền 7:7-9). Luôn ân điển trước, vâng lời là sự đáp lại."
+  },
+  {
+   "w": "«Cuộc chinh phục Ca-na-an là cuộc tàn sát không thương xót — vậy Đức Chúa Trời Cựu Ước quả là tàn nhẫn.»",
+   "t": "Đây là vấn đề không thể giải quyết trong một câu và đòi sự thận trọng. Nhưng Kinh Thánh trình bày điều này không phải bạo lực tùy tiện, mà là sự phán xét sau nhiều thế kỷ gian ác cùng cực (gồm cả dâng con trẻ làm của lễ), sau sự nhịn nhục lâu dài (Sáng 15:16; Phục-truyền 9:4-5; Lê-vi Ký 18:24-25). Đức Chúa Trời không vội cả trong sự phán xét, và vui lòng tiếp nhận mọi kẻ trở lại với Ngài, dù là dân ngoại, như Ra-háp và Ru-tơ (Giô-suê 6:25; Ru-tơ 4:13-17)."
+  },
+  {
+   "w": "«Đa-vít là anh hùng không tì vết, nên được gọi là “người vừa lòng Đức Chúa Trời”.»",
+   "t": "Đa-vít đã phạm tội ngoại tình, thậm chí giết người. «Vừa lòng Đức Chúa Trời» không nghĩa là trọn vẹn, mà là ông không giấu tội, ăn năn triệt để, và luôn trở lại cùng Đức Chúa Trời (Thi-thiên 51). Tình yêu của Đức Chúa Trời không bỏ cả người sa ngã nặng nề."
+  },
+  {
+   "w": "«Tiên tri là thầy bói đoán tương lai / Đức Chúa Trời Cựu Ước chỉ biết thịnh nộ.»",
+   "t": "Cốt lõi của tiên tri không phải «đoán trúng tương lai», mà là tiếng kêu khẩn thiết của Đức Chúa Trời: «hãy trở lại đi». Ngay cả lời cảnh báo phán xét cũng không nhằm hủy diệt, mà để đem trở lại và ban sự sống: «Ta chẳng lấy sự kẻ dữ chết làm vui» (Ê-xê-chi-ên 33:11)."
+  },
+  {
+   "w": "«Sự lưu đày chứng tỏ Đức Chúa Trời đã bỏ hẳn Y-sơ-ra-ên.»",
+   "t": "Lưu đày không phải sự ruồng bỏ, mà là sự sửa phạt và thanh luyện của một người Cha đối với con yêu dấu (Hê-bơ-rơ 12:6). Đức Chúa Trời không bỏ đi; Ngài ở cùng Đa-ni-ên giữa cảnh lưu đày và hứa: «ý tưởng bình an… để cho các ngươi được sự trông cậy trong lúc cuối cùng» (Giê-rê-mi 29:11)."
+  },
   null,
-  {"w":"«Nếu 400 năm không có lời, chẳng phải Đức Chúa Trời đã đi hoặc nghỉ ngơi sao?»","t":"Im lặng không phải vắng mặt. Ngài chỉ không phán; suốt thời gian đó Ngài chuyển dời các đế quốc, ngôn ngữ và đường sá để chuẩn bị sân khấu cứu rỗi. Trong giây phút tĩnh lặng nhất, Đức Chúa Trời làm việc đầy yêu thương nhất (Ga-la-ti 4:4)."},
-  {"w":"«Chúa Giê-xu chỉ là một trong các thầy dạy đạo đức tốt / thập tự là một thất bại bi thảm.»","t":"Chính Chúa Giê-xu tuyên bố Ngài là Đức Chúa Trời (Giăng 8:58), và thập tự không phải tai nạn hay thất bại, mà là tình yêu đã định. Ngài không bị ép buộc dẫn đi, mà tự phó sự sống mình (Giăng 10:18). «Chẳng có sự yêu thương nào lớn hơn là vì bạn hữu mà phó sự sống mình» (Giăng 15:13)."},
-  {"w":"«Hội thánh là câu lạc bộ tôn giáo của những người hoàn hảo, hoặc chỉ là một tòa nhà.»","t":"Hội thánh không phải cộng đồng của «các thánh trọn vẹn», mà của <b>những tội nhân được tha thứ</b>. Ngay cả sứ đồ Phao-lô cũng tự nhận mình là «đầu các tội nhân» (1 Ti-mô-thê 1:15). Hội thánh đầu tiên cũng tranh cãi và vấp ngã (Công vụ 6:1; 1 Cô-rinh-tô 1:11). Hội thánh không phải nơi khoe mình, mà là những người chuyển trao tình yêu đã nhận (Giăng 13:34-35)."},
+  {
+   "w": "«Nếu 400 năm không có lời, chẳng phải Đức Chúa Trời đã đi hoặc nghỉ ngơi sao?»",
+   "t": "Im lặng không phải vắng mặt. Ngài chỉ không phán; suốt thời gian đó Ngài chuyển dời các đế quốc, ngôn ngữ và đường sá để chuẩn bị sân khấu cứu rỗi. Trong giây phút tĩnh lặng nhất, Đức Chúa Trời làm việc đầy yêu thương nhất (Ga-la-ti 4:4)."
+  },
+  {
+   "w": "«Chúa Giê-xu chỉ là một trong các thầy dạy đạo đức tốt / thập tự là một thất bại bi thảm.»",
+   "t": "Chính Chúa Giê-xu tuyên bố Ngài là Đức Chúa Trời (Giăng 8:58), và thập tự không phải tai nạn hay thất bại, mà là tình yêu đã định. Ngài không bị ép buộc dẫn đi, mà tự phó sự sống mình (Giăng 10:18). «Chẳng có sự yêu thương nào lớn hơn là vì bạn hữu mà phó sự sống mình» (Giăng 15:13)."
+  },
+  {
+   "w": "«Hội thánh là câu lạc bộ tôn giáo của những người hoàn hảo, hoặc chỉ là một tòa nhà.»",
+   "t": "Hội thánh không phải cộng đồng của «các thánh trọn vẹn», mà của <b>những tội nhân được tha thứ</b>. Ngay cả sứ đồ Phao-lô cũng tự nhận mình là «đầu các tội nhân» (1 Ti-mô-thê 1:15). Hội thánh đầu tiên cũng tranh cãi và vấp ngã (Công vụ 6:1; 1 Cô-rinh-tô 1:11). Hội thánh không phải nơi khoe mình, mà là những người chuyển trao tình yêu đã nhận (Giăng 13:34-35)."
+  },
   null
  ],
- "core":[
-  {"title":"Nguyên tội — chẳng ai công bình","body":"Vấn đề không phải «vài việc xấu», mà là gốc rễ của tấm lòng. Từ A-đam, mọi người sinh ra dưới tội lỗi và không thể tự mình đến cùng Đức Chúa Trời.","vref":"Rô-ma 3:10-12, 23","vtext":"Chẳng có một người công bình nào hết, dẫu một người cũng không… vì mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời."},
-  {"title":"Luật pháp không thể cứu tôi","body":"Luật pháp không phải cái thang, mà là tấm gương. Càng cố giữ, càng lộ ra tôi thiếu sót đến đâu. Mục đích của luật pháp là dẫn ta đến Đấng Christ.","vref":"Rô-ma 3:20 · Ga-la-ti 3:24","vtext":"Vì luật pháp cho người ta biết mình có tội… luật pháp đã như thầy giáo đặng dẫn chúng ta đến Đấng Christ."},
-  {"title":"Bởi ân điển — một món quà, không phải nỗ lực","body":"Sự cứu rỗi không phải tiền công của công đức tích lũy, mà là món quà của Đức Chúa Trời cho kẻ không xứng đáng. Vì vậy chẳng ai khoe mình được.","vref":"Ê-phê-sô 2:8-9","vtext":"Ấy là nhờ ân điển, bởi đức tin, mà anh em được cứu… chẳng phải bởi việc làm đâu, hầu cho không ai khoe mình."},
-  {"title":"Được xưng công bình bởi đức tin","body":"Không phải bởi làm theo luật pháp, mà bởi tin Đức Chúa Giê-xu Christ chúng ta được kể là công bình: mặc lấy không phải sự công bình của mình, mà của Ngài.","vref":"Rô-ma 5:1 · Ga-la-ti 2:16","vtext":"Chúng ta đã được xưng công bình bởi đức tin… người ta được xưng công bình chẳng phải bởi việc luật pháp, bèn là bởi đức tin trong Đức Chúa Jêsus Christ."},
-  {"title":"Kinh Thánh chỉ về Chúa Giê-xu","body":"Kinh Thánh không phải tiểu sử vĩ nhân hay sách dạy thành công. Từ Sáng-thế Ký đến Khải-huyền, mỗi trang đều làm chứng về một Đấng: Chúa Giê-xu Christ.","vref":"Giăng 5:39 · Lu-ca 24:27","vtext":"Ấy là Kinh Thánh làm chứng về ta vậy… Ngài cắt nghĩa những lời chỉ về Ngài trong cả Kinh Thánh."},
-  {"title":"Nước Đức Chúa Trời — trọng tâm sứ điệp của Chúa Giê-xu","body":"Đề tài Chúa Giê-xu dạy nhiều nhất. Nước mà Đức Chúa Trời cai trị làm Vua đã đến thế gian cùng Chúa Giê-xu, và sẽ hoàn tất khi Ngài tái lâm. Bởi thập tự và sự sống lại, Chúa Giê-xu là Vua thật đắc thắng tội lỗi, sự chết và Sa-tan.","vref":"Mác 1:15","vtext":"Kỳ đã trọn, nước Đức Chúa Trời đã đến gần; các ngươi hãy ăn năn và tin đạo Tin Lành."},
-  {"title":"Tin Lành — Ngài đã làm trọn mọi sự","body":"Món nợ tội lỗi tôi không thể trả, Chúa Giê-xu đã trả thế cho tôi trên thập tự, và bởi sự sống lại Ngài đắc thắng sự chết. Tôi nương cậy không phải nơi «hãy làm», mà nơi «mọi việc đã được trọn».","vref":"Giăng 19:30 · Rô-ma 5:8","vtext":"Mọi việc đã được trọn… khi chúng ta còn là người có tội, thì Đấng Christ vì chúng ta chịu chết."}
+ "core": [
+  {
+   "title": "Nguyên tội — chẳng ai công bình",
+   "body": "Vấn đề không phải «vài việc xấu», mà là gốc rễ của tấm lòng. Từ A-đam, mọi người sinh ra dưới tội lỗi và không thể tự mình đến cùng Đức Chúa Trời.",
+   "vref": "Rô-ma 3:10-12, 23",
+   "vtext": "Chẳng có một người công bình nào hết, dẫu một người cũng không… vì mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời."
+  },
+  {
+   "title": "Luật pháp không thể cứu tôi",
+   "body": "Luật pháp không phải cái thang, mà là tấm gương. Càng cố giữ, càng lộ ra tôi thiếu sót đến đâu. Mục đích của luật pháp là dẫn ta đến Đấng Christ.",
+   "vref": "Rô-ma 3:20 · Ga-la-ti 3:24",
+   "vtext": "Vì luật pháp cho người ta biết mình có tội… luật pháp đã như thầy giáo đặng dẫn chúng ta đến Đấng Christ."
+  },
+  {
+   "title": "Bởi ân điển — một món quà, không phải nỗ lực",
+   "body": "Sự cứu rỗi không phải tiền công của công đức tích lũy, mà là món quà của Đức Chúa Trời cho kẻ không xứng đáng. Vì vậy chẳng ai khoe mình được.",
+   "vref": "Ê-phê-sô 2:8-9",
+   "vtext": "Ấy là nhờ ân điển, bởi đức tin, mà anh em được cứu… chẳng phải bởi việc làm đâu, hầu cho không ai khoe mình."
+  },
+  {
+   "title": "Được xưng công bình bởi đức tin",
+   "body": "Không phải bởi làm theo luật pháp, mà bởi tin Đức Chúa Giê-xu Christ chúng ta được kể là công bình: mặc lấy không phải sự công bình của mình, mà của Ngài.",
+   "vref": "Rô-ma 5:1 · Ga-la-ti 2:16",
+   "vtext": "Chúng ta đã được xưng công bình bởi đức tin… người ta được xưng công bình chẳng phải bởi việc luật pháp, bèn là bởi đức tin trong Đức Chúa Jêsus Christ."
+  },
+  {
+   "title": "Kinh Thánh chỉ về Chúa Giê-xu",
+   "body": "Kinh Thánh không phải tiểu sử vĩ nhân hay sách dạy thành công. Từ Sáng-thế Ký đến Khải-huyền, mỗi trang đều làm chứng về một Đấng: Chúa Giê-xu Christ.",
+   "vref": "Giăng 5:39 · Lu-ca 24:27",
+   "vtext": "Ấy là Kinh Thánh làm chứng về ta vậy… Ngài cắt nghĩa những lời chỉ về Ngài trong cả Kinh Thánh."
+  },
+  {
+   "title": "Nước Đức Chúa Trời — trọng tâm sứ điệp của Chúa Giê-xu",
+   "body": "Đề tài Chúa Giê-xu dạy nhiều nhất. Nước mà Đức Chúa Trời cai trị làm Vua đã đến thế gian cùng Chúa Giê-xu, và sẽ hoàn tất khi Ngài tái lâm. Bởi thập tự và sự sống lại, Chúa Giê-xu là Vua thật đắc thắng tội lỗi, sự chết và Sa-tan.",
+   "vref": "Mác 1:15",
+   "vtext": "Kỳ đã trọn, nước Đức Chúa Trời đã đến gần; các ngươi hãy ăn năn và tin đạo Tin Lành."
+  },
+  {
+   "title": "Tin Lành — Ngài đã làm trọn mọi sự",
+   "body": "Món nợ tội lỗi tôi không thể trả, Chúa Giê-xu đã trả thế cho tôi trên thập tự, và bởi sự sống lại Ngài đắc thắng sự chết. Tôi nương cậy không phải nơi «hãy làm», mà nơi «mọi việc đã được trọn».",
+   "vref": "Giăng 19:30 · Rô-ma 5:8",
+   "vtext": "Mọi việc đã được trọn… khi chúng ta còn là người có tội, thì Đấng Christ vì chúng ta chịu chết."
+  }
  ]
 }
