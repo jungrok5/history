@@ -858,10 +858,10 @@ let curPack=KO_PACK, curCode='ko';
 
 /* ---- 성경 구절 링크 (ko=개역개정 bskorea / 나머지=YouVersion, USFM 통일) ---- */
 var YV={en:59,'zh-Hans':48,'zh-Hant':46,ja:1819,es:149,'pt-BR':212,fr:93,de:51,ru:400,ar:13,hi:1683,id:306,vi:193,th:174};
-var EP_REF=['GEN.1.1','GEN.3.15','GEN.12.2','EXO.6.7','JDG.21.25','2SA.7.16','1KI.12.19','PSA.137.1','NEH.8.10','GAL.4.4','JHN.1.14','ACT.1.8','REV.21.4'];
+var EP_REF=['GEN.1.1','GEN.3.15','GEN.12.2-3','EXO.6.7','JDG.21.25','2SA.7.16','1KI.12.19','PSA.137.1','NEH.8.10','GAL.4.4','JHN.1.14','ACT.1.8','REV.21.4'];
 var CORE_REF=['ROM.3.10','ROM.3.20','EPH.2.8','ROM.5.1','JHN.5.39','MRK.1.15','JHN.19.30'];
 function verseUrl(usfm,code){ var p=String(usfm).split('.'); if(p.length<3)return null;
-  if(code==='ko') return 'https://www.bskorea.or.kr/bible/korbibReadpage.php?version=GAE&book='+p[0].toLowerCase()+'&chap='+p[1]+'&sec='+p[2]+'#focus';
+  if(code==='ko') return 'https://www.bskorea.or.kr/bible/korbibReadpage.php?version=GAE&book='+p[0].toLowerCase()+'&chap='+p[1]+'&sec='+p[2].split('-')[0]+'#focus';
   var id=YV[code]; if(!id)return null; return 'https://www.bible.com/bible/'+id+'/'+usfm; }
 function vlink(usfm,text,code){ var u=verseUrl(usfm,code); return u?('<a class="vlink" href="'+u+'" target="_blank" rel="noopener" data-ref="'+usfm+'">'+text+'</a>'):text; }
 document.addEventListener('click',function(e){ var a=e.target.closest&&e.target.closest('a.vlink'); if(a)gevent('verse_open',{ref:a.getAttribute('data-ref')}); });
@@ -898,7 +898,7 @@ function refRe(code){ if(code in _reCache)return _reCache[code]; var BK=BOOKS[co
                   : '('+toks+')\\s*(\\d+)\\s*(?::\\s*(\\d+(?:[-–]\\d+)?)'+(o.suf?'|'+o.suf:'')+')';
  return _reCache[code]=new RegExp(pat,'g'); }
 function linkifyRefs(html,code){ if(!html)return html; var BK=BOOKS[code]; if(!BK)return html; var re=refRe(code); if(!re)return html;
- function txt(t){ return t.replace(re,function(m,bk,ch,vs){ var usfm=BK[bk]+'.'+ch+'.'+(vs?vs.split(/[-–]/)[0]:'1'); var u=verseUrl(usfm,code); if(!u)return m; return '<a class="vlink" href="'+u+'" target="_blank" rel="noopener" data-ref="'+usfm+'">'+m+'</a>'; }); }
+ function txt(t){ return t.replace(re,function(m,bk,ch,vs){ var usfm=BK[bk]+'.'+ch+'.'+(vs?vs.replace(/–/g,'-'):'1'); var u=verseUrl(usfm,code); if(!u)return m; return '<a class="vlink" href="'+u+'" target="_blank" rel="noopener" data-ref="'+usfm+'">'+m+'</a>'; }); }
  var n=html.length,i=0,out='';
  while(i<n){ var lt=html.indexOf('<',i); if(lt<0){ out+=txt(html.slice(i)); break; } out+=txt(html.slice(i,lt));
   if(/^<a\b/i.test(html.substr(lt,3))){ var ae=html.indexOf('</a>',lt); if(ae<0){out+=html.slice(lt);break;} out+=html.slice(lt,ae+4); i=ae+4; continue; }
