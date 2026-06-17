@@ -179,6 +179,8 @@
     background:linear-gradient(180deg,var(--card),transparent);border:1px solid var(--line)}
   .verse .q{font-family:var(--serif);font-size:17px;line-height:1.7}
   .verse .cite{margin-top:9px;font-size:13px;color:var(--accent)}
+  a.vlink{color:inherit;text-decoration:underline;text-decoration-color:rgba(233,185,73,.55);text-underline-offset:3px;text-decoration-thickness:1px}
+  a.vlink:hover{color:var(--accent);text-decoration-color:var(--accent)}
   .verse::before{content:"“";font-family:var(--serif);position:absolute;top:0;left:12px;font-size:50px;color:var(--c2);opacity:.4}
 
   .thread-line{display:flex;gap:11px;align-items:flex-start;margin-top:18px;padding:15px;border-radius:13px;
@@ -854,13 +856,23 @@ const I18N_NODES=[...document.querySelectorAll('[data-i18n]')];
 const ORIG={}; I18N_NODES.forEach(n=>{ORIG[n.getAttribute('data-i18n')]=n.innerHTML;});
 let curPack=KO_PACK, curCode='ko';
 
+/* ---- 성경 구절 링크 (ko=개역개정 bskorea / 나머지=YouVersion, USFM 통일) ---- */
+var YV={en:59,'zh-Hans':48,'zh-Hant':46,ja:1819,es:149,'pt-BR':212,fr:93,de:51,ru:400,ar:13,hi:1683,id:306,vi:193,th:174};
+var EP_REF=['GEN.1.1','GEN.3.15','GEN.12.2','EXO.6.7','JDG.21.25','2SA.7.16','1KI.12.19','PSA.137.1','NEH.8.10','GAL.4.4','JHN.1.14','ACT.1.8','REV.21.4'];
+var CORE_REF=['ROM.3.10','ROM.3.20','EPH.2.8','ROM.5.1','JHN.5.39','MRK.1.15','JHN.19.30'];
+function verseUrl(usfm,code){ var p=String(usfm).split('.'); if(p.length<3)return null;
+  if(code==='ko') return 'https://www.bskorea.or.kr/bible/korbibReadpage.php?version=GAE&book='+p[0].toLowerCase()+'&chap='+p[1]+'&sec='+p[2]+'#focus';
+  var id=YV[code]; if(!id)return null; return 'https://www.bible.com/bible/'+id+'/'+usfm; }
+function vlink(usfm,text,code){ var u=verseUrl(usfm,code); return u?('<a class="vlink" href="'+u+'" target="_blank" rel="noopener" data-ref="'+usfm+'">'+text+'</a>'):text; }
+document.addEventListener('click',function(e){ var a=e.target.closest&&e.target.closest('a.vlink'); if(a)gevent('verse_open',{ref:a.getAttribute('data-ref')}); });
+
 function renderCore(pack){
   const ver=pack.ui.version?(' '+pack.ui.version):'';
   coreWrap.innerHTML='';
   pack.core.forEach((c,idx)=>{
     const d=document.createElement('div'); d.className='core reveal';
     d.innerHTML=`<div class="ic">${CORE[idx].ic}</div><h3>${c.title}</h3><p>${c.body}</p>`
-      +`<div class="v">“<em>${c.vtext}</em>” — ${c.vref}${ver}</div>`;
+      +`<div class="v">“<em>${c.vtext}</em>” — ${vlink(CORE_REF[idx],c.vref,curCode)}${ver}</div>`;
     coreWrap.appendChild(d);
   });
 }
@@ -885,7 +897,7 @@ function renderEpochs(pack){
           <div class="meta-row"><span class="k">${u.people}</span><p class="vv">${e.people}</p></div>
           <div class="meta-row"><span class="k">${u.events}</span><p class="vv">${e.events}</p></div>
         </div>
-        <div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite}${ver}</div></div>
+        <div class="verse"><div class="q">${e.q}</div><div class="cite">${vlink(EP_REF[i],e.cite,curCode)}${ver}</div></div>
         <div class="thread-line"><span class="t">🧵</span><p><b>${u.christLabel}</b> · ${e.christ}</p></div>
         <div class="love-note"><span class="lh">💛</span><p><b>${u.loveLabel}</b> · ${pack.love[i]}</p></div>
         ${mis?`<div class="myth"><div class="m-row"><span class="m-tag wrong">${u.mythWrong}</span><p>${mis.w}</p></div><div class="m-row"><span class="m-tag right">${u.mythRight}</span><p>${mis.t}</p></div></div>`:''}
