@@ -1,0 +1,343 @@
+{
+ "menuName": "Tagalog",
+ "htmlLang": "tl",
+ "dir": "ltr",
+ "brand": "Ang Bibliya sa Isang Pag-scroll",
+ "docTitle": "Ang Bibliya sa Isang Pag-scroll · Mula sa Paglikha Hanggang sa Iglesya",
+ "share": {
+  "title": "Ang Bibliya sa Isang Pag-scroll",
+  "text": "Sa isang pag-scroll lamang, tuklasin ang dakilang kuwento ng Bibliya — at kung bakit dumating si Jesus."
+ },
+ "ui": {
+  "people": "Mga tauhan",
+  "events": "Mahahalagang pangyayari",
+  "christLabel": "Tumuturo kay Jesus",
+  "loveLabel": "Pag-ibig na hindi sumusuko",
+  "mythWrong": "Karaniwang maling akala",
+  "mythRight": "Ang totoo",
+  "more": "Magbasa pa",
+  "version": "(MBB)"
+ },
+ "labels": {
+  "start": "Simula",
+  "thread": "Ang kuwento",
+  "gospel": "Ang Ebanghelyo",
+  "about": "Tungkol dito"
+ },
+ "s": {
+  "ui.share": "↗ Ibahagi",
+  "ui.toast": "Nakopya na ang link 📋",
+  "ui.footer": "Ang Bibliya sa Isang Pag-scroll · Mga sipi mula sa Magandang Balita Biblia",
+  "hero.kicker": "MULA SA PAGLIKHA HANGGANG SA IGLESYA",
+  "hero.title": "Ang Bibliya,<br><span class='em'>sa isang pag-scroll</span>",
+  "hero.sub": "Sa isang pag-scroll lamang, tuklasin ang dakilang kuwento ng Bibliya — at kung bakit dumating si Jesus.",
+  "hero.cue": "Mag-scroll pababa<span>↓</span>",
+  "thread.eyebrow": "ISANG PANGUNGUSAP NA NAG-UUGNAY SA LAHAT",
+  "thread.h2": "Sa bandang huli, ang Bibliya ay iisang kuwento lamang",
+  "thread.flow": "<b>Pangako</b><span class='arw'>→</span><b>Paghihintay</b><span class='arw'>→</span><b>Katuparan</b>",
+  "thread.note": "<b>Nangangako</b> ang Diyos (ang tipan), matagal na <b>naghihintay</b> ang bayan, at sa wakas ang lahat ay <b>natupad</b> at nabuo kay Jesus. Sundan ang 13 eksena sa ibaba sa daloy na ito — pindutin ang <b>“Magbasa pa”</b> sa bawat card para sa mas malalim na kuwento.",
+  "gospel.eyebrow": "ANG KAHULUGAN NG KUWENTONG ITO PARA SA “AKIN”",
+  "gospel.h2": "Ang tunay na puso ng Bibliya",
+  "gospel.lead": "Ang Bibliya ay <b>hindi isang aklat-aralin tungkol sa “pagiging mabuting tao.”</b>",
+  "gospel.sublead": "Ito ang kuwento kung paano iniligtas ng Diyos, <b>sa pamamagitan lamang ng kagandahang-loob</b>, ang mga makasalanang hindi kayang iligtas ang kanilang sarili. Sa gitna nito ay si Jesu-Cristo.",
+  "gospel.mirror": "<h3>Ang walang katapusang siklo ng Israel ay larawan ng “akin”</h3><div class='cycle'><b>Pagsamba sa diyus-diyosan</b><span class='a'>→</span><b>Pagdurusa</b><span class='a'>→</span><b>Pagdaing</b><span class='a'>→</span><b>Nililigtas ng Diyos</b><span class='a'>→</span><b>Muling pagsamba sa diyus-diyosan…</b></div><p>Mula sa panahon ng mga Hukom hanggang sa pagkatapon, paulit-ulit na inuulit ng Israel ang siklong ito. Hindi ito itinala ng Bibliya upang mainsulto natin sila ng “kaawa-awa naman sila.”</p><p>Ito ay isang <b>salamin</b>. Hindi “ganoon ang ginawa ng Israel,” kundi <b>“ganito rin ako”</b> (1 Corinto 10:11).</p><p>Ang <b>diyus-diyosan</b> ay hindi lamang isang inukit na rebulto. Ito ay <b>anumang bagay na mas minamahal o pinagtitiwalaan natin kaysa sa Diyos</b> — pera, tagumpay, papuri, mga tao, kahit ang sarili ko. At ang paggamit sa Diyos bilang <b>kasangkapan para makamit ang gusto ko</b> ay pagsamba rin sa diyus-diyosan.</p><p class='punch'>Sa huli, ang pinakamalalim na diyus-diyosan ay “ang sarili ko, na nakaupo sa trono ng Diyos.”</p>",
+  "gospel.coreIntro": "Kaya paano nga ba inililigtas ng Diyos ang ganitong makasalanan? Narito ang puso ng ebanghelyong ipinapahayag ng Bibliya.",
+  "gospel.crux": "<p class='crux-lead'>Ang buong Bibliya ay tumuturo sa iisang lugar.</p><p>Hindi kayang sirain ng tao sa sarili niyang lakas ang siklo ng kasalanan, at wala ni isa mang matuwid. Kaya may kailangang <b>magbayad ng halaga sa lugar natin</b>.</p><p>Hindi lamang dumating si Jesus upang magbigay ng magagandang aral. Sapagkat <b>walang ibang paraan upang iligtas ako</b>, kinailangan niyang dumating.</p><p class='crux-punch'>Ang dapat na nakapako sa krus na iyon ay <b>ako</b>.<br>Pinasan ni Jesus ang <b>aking kasalanan</b> at ipinako roon kapalit ko.</p><div class='crux-verse'>“Ngunit dahil sa ating mga kasalanan kaya siya nasugatan; siya ay binugbog dahil sa ating kasamaan… Tayo ay gumaling dahil sa pahirap na dinanas niya at sa mga hampas na kanyang tinanggap.” — Isaias 53:5</div>",
+  "faq.h": "May ilan pa bang bumabagabag sa iyo?",
+  "faq.q1": "<span class='arr'>▸</span> Kaya isang mamamatay-tao na sumasampalataya ay tutungo sa langit, samantalang ang taong namuhay nang mabuti pero hindi sumampalataya ay tutungo sa impiyerno?",
+  "faq.a1": "<p>Makatwirang tanong. Ngunit may dalawang maling akalang nakatago rito.</p><p><b>① Hindi hinahati ng Bibliya ang mga tao sa “mabuti laban sa masama.”</b> Ang panukat ay hindi “mas mabuti kaysa sa katabi mo,” kundi “ang sakdal na kabanalan ng Diyos.” Sa harap niya, walang “sapat na mabuti” (Roma 3:23). Kaya hindi ito “mabuting tao laban sa mamamatay-tao,” kundi tulad ng dalawang taong may parehong nakamamatay na sakit — tinanggap ng isa ang lunas, tinanggihan ng isa, na nagsasabing “mas malusog ako kaysa sa kanya.”</p><p><b>② Iisang bagay lamang ang naghahati sa langit at impiyerno.</b> Hindi ang iskor ng pag-uugali, kundi <b>kung tinanggap mo si Jesu-Cristo bilang Panginoon at nalutas na ang iyong problema sa kasalanan.</b> Ang taong nalutas na ang kasalanan sa pamamagitan ng dugo ni Cristo ay tutungo sa langit; ang hindi tumanggap sa kanya, na nananatiling may kasalanan, ay hindi. Walang dami ng mabubuting gawa ang makakalutas sa problema mismo ng kasalanan.</p><p>Kaya ang langit at impiyerno ay hindi “gantimpala sa mabuting asal,” kundi usapin ng <b>kaugnayan kay Cristo</b>. At ang “pananampalataya” ay hindi pagsang-ayon ng isip kundi pagbabago ng kung sino ang naghahari sa buhay mo — ang tunay na tumatanggap sa kanya ay hindi nagiging mayabang kundi mas malalim na nagsisisi. Sa katunayan, ang pagmamatuwid-sa-sarili (“mabuti akong tao”) ang pinakamahirap na diyus-diyosang sirain, ang nagpapaisip sa atin na hindi natin kailangan si Cristo (Lucas 18:9-14).</p><p>Maliwanag ang sabi ng Bibliya: <b>“Hindi hinahatulang maparusahan ang sumasampalataya sa Anak. Ngunit hinatulan na ang hindi sumasampalataya”</b> (Juan 3:18). Ang paghatol ay hindi “pagmamarka sa buhay mo pagkamatay,” kundi naitakda na ayon sa <b>kung tinanggap mo si Cristo</b>.</p><p class='faq-v'>Roma 3:23 · Juan 3:18 · Efeso 2:8-9 · Lucas 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Hindi ba sapat na maging mabuting tao kahit hindi sumampalataya kay Jesus?",
+  "faq.a2": "<p>Ito ang pinakakaraniwang iniisip, ngunit hindi nito naiintindihan kung ano ang tunay na problema. Narito ang isang larawan.</p><p><b>Isipin mong nasa isang barko ng mga pirata ka.</b> Gaano man kalinis mong panatilihin ang kubyerta, gaano man kabait ka sa tripulante, gaano man kahuwaran ang iyong buhay — <b>pirata ka pa rin</b>, sapagkat dadalhin ka ng barko sa patutunguhan nito (ang daungan ng paghatol). Ang problema ay hindi “iskor ng pag-uugali” kundi <b>“kung aling barko ka nabibilang” (ang iyong pagkakakilanlan)</b>.</p><p>Kaya hindi sinasabi ng ebanghelyo na “magsikap ka pang maging mabuti”; ang sabi nito ay <b>“magpalit ka ng barko.”</b> Bumaba sa barko ng kasalanan at lumipat kay Jesus — sa bagong pagkakakilanlan bilang <b>anak ng Diyos</b>. Hindi ito pagtataas ng iyong iskor sa pamamagitan ng pagsisikap, kundi pagtitiwala sa Isang nag-aabot ng kanyang kamay at pagtawid sa kanyang barko.</p><p>Sa katunayan, inilalarawan mismo ng Bibliya ang kaligtasan bilang ganitong paglipat — <b>“Iniligtas niya tayo sa kapangyarihan ng kadiliman at inilipat sa kaharian ng kanyang minamahal na Anak”</b> (Colosas 1:13).</p><p>Huwag itong maling unawain: <b>hindi ito nangangahulugang walang halaga ang mamuhay nang mabuti.</b> Ngunit ang kabutihan ay hindi “kondisyon” ng kaligtasan kundi ang <b>bunga</b> nito. Ang lumipat ng barko ay namumuhay nang mabuti hindi na dahil sa takot, kundi dahil sa <b>pag-ibig ng isang anak</b>.</p><p class='faq-v'>Colosas 1:13 · Juan 1:12 · Juan 3:3 · Efeso 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Tulad sa pelikulang “Secret Sunshine (Milyang),” kung ang nagkasala ay tila payapa dahil sa pag-aangking “napatawad na siya,” hindi ba napakamura ng pagpapatawad na iyon?",
+  "faq.a3": "<p>Makatwiran ang tanong na inilalahad ng pelikula, at totoo ang sakit na iyon. Ngunit ang eksenang iyon ay hindi nagpakita ng “pagpapatawad ng Bibliya” kundi ng <b>pagkasira</b> nito.</p><p><b>① Ang pagpapatawad ng Diyos ay hindi kailanman mura.</b> Hindi tinatakpan ang kasalanan na para bang “walang nangyari”; ang Diyos mismo ang nagbayad ng halaga nito sa pamamagitan ng buhay ng kanyang Anak. Ang krus ay hindi patunay na binabalewala ang kasalanan, kundi kung gaano ito kabigat — ang pinakamamahaling pagpapatawad sa mundo.</p><p><b>② Ang tunay na pagsisisi ay namumunga.</b> Kung ang nagkasala ay walang pakialam sa harap ng biktima — “pinatawad ako ng Diyos, kaya payapa ako” — hindi iyon pagsisisi kundi isang panggagaya lamang nito (Mateo 3:8). At ang pagpapatawad sa pagitan ng tao at ng Diyos ay hindi nagpapawi sa sugat ng biktima o pumipilit sa biktimang magpatawad.</p><p><b>③ Ang kasalanan ay hindi kailanman basta “pinapalampas.”</b> Bawat kasalanan ay binabayaran sa isa sa dalawang lugar — <b>pinapasan ito ni Cristo sa krus</b> (para sa mga nagtitiwala sa kanya, wala nang kahatulan, Roma 8:1), <b>o pinapasan ito mismo ng tumatanggi sa kanya hanggang wakas.</b> Kaya walang “murang kapatawaran.” Ang nagkasala ay may pananagutan din sa batas ng mundong ito (Roma 13:1-4).</p><p><b>④ Ang luha ng biktima ay hindi kailanman maliit sa harap ng Diyos.</b> Tumatangis ang Diyos kasama ng mga tumatangis, naaalala ang bawat luha, at sa wakas siya mismo ang papahid nito (Pahayag 21:4). Kaya hindi rin pasan-pasan ng biktimang mag-isa ang bigat ng paghihiganti, kundi maipagkakatiwala ito sa makatarungang Diyos (Roma 12:19 — “Akin ang paghihiganti, ako ang gaganti, sabi ng Panginoon”).</p><p class='faq-v'>Mateo 3:8 · Roma 8:1 · Roma 13:1-4 · Pahayag 21:4</p>",
+  "respond.h3": "Kaya — paano naman ako?",
+  "respond.sub": "Ang pag-ibig na ito ay hindi impormasyon kundi isang <b>paanyaya</b>. Kung naantig ang iyong puso ng pag-ibig na ipinako kapalit mo, idalangin ito nang dahan-dahan, isang linya sa bawat sandali.",
+  "respond.prayer": "<p>Diyos,</p><p>inaamin kong ako ay makasalanang hindi kayang iligtas ang sarili.</p><p>Naniniwala akong namatay si Jesus sa krus para sa akin at muling nabuhay.</p><p>Patawarin po ninyo ang lahat ng aking mga kasalanan, at mula ngayon kayo na ang Panginoon ng aking buhay.</p><p>Tanggapin ninyo ako bilang inyong anak, at hayaan ninyo akong mamuhay nang bago.</p><p class='amen'>Sa pangalan ni Jesus ako nananalangin. Amen.</p>",
+  "respond.after": "Kung taimtim mong idinalangin ito, sinasabi ng Bibliya na ikaw ay <b>naging anak na ng Diyos</b>. Hindi ka na nag-iisa — humanap ng iglesyang malapit sa iyo at lumakad kasama ang iba sa landas ng pananampalataya.",
+  "respond.verse": "“Subalit ang lahat ng tumanggap at sumampalataya sa kanya ay binigyan niya ng karapatang maging mga anak ng Diyos.” — Juan 1:12 · Roma 10:9-10",
+  "closing.main": "Iisang Diyos,<br>sa pamamagitan ng iisang kuwento,<br>hinahabol tayo sa pamamagitan ng <em>pag-ibig</em><br>na hindi kailanman sumusuko.",
+  "closing.verse": "“Kahit ang kamatayan, ang buhay… o alinmang nilalang ay hindi makapaghihiwalay sa atin sa pag-ibig ng Diyos na ipinagkaloob sa atin sa pamamagitan ni Cristo Jesus na ating Panginoon.” — Roma 8:38-39",
+  "closing.small": "Sa kuwentong ito, ang Kautusan, ang mga aklat ng tula, ang mga propeta, at ang mga sulat ang nagdaragdag ng “laman.”<br>Mula ngayon, anumang aklat ang buksan mo, malalaman mo kung “saang bahagi ng kuwento ka naroon.”",
+  "closing.share": "↗ Ibahagi ang kuwentong ito",
+  "about.line": "Nakabatay sa <b>makasaysayan-pagtubos, ebanghelikal, at Reformadong</b> pananaw na ibinabahagi ng karamihan sa simbahang Protestante ng Korea.",
+  "about.contact": "Mga katanungan · puna — <a id='contact' class='mail'>Mag-email sa amin</a>"
+ },
+ "epochs": [
+  {
+   "tag": "MATANDANG TIPAN · SIMULA",
+   "title": "Paglikha",
+   "date": "Nang pasimula",
+   "one": "Lumikha ang Diyos ng mundong “napakabuti.”",
+   "people": "Ang Diyos; sina Adan at Eva",
+   "events": "Anim na araw ng paglikha, ang tao na nilikha ayon sa larawan ng Diyos, ang Araw ng Pamamahinga",
+   "q": "Nang pasimula ay nilikha ng Diyos ang langit at ang lupa;",
+   "cite": "Genesis 1:1",
+   "christ": "Nilikha ang mundo sa pamamagitan ng “Salita.” Ipinapahayag ng Ebanghelyo ni Juan na ang Salitang ito ay si Jesus mismo (Juan 1:1-3).",
+   "detail": "<p>Hindi nagbubukas ang Bibliya sa pamamagitan ng pilosopikong argumento, kundi ng isang pahayag: <b>“Nang pasimula ay ang Diyos…”</b> Ang mundo ay hindi aksidente kundi gawa ng isang personal na Diyos.</p><ul><li><b>Larawan ng Diyos</b> · sa lahat ng nilalang, ang tao lamang ang ginawang kahawig ng Diyos — upang makilala siya at mangalaga sa mundo.</li><li><b>Pamamahinga</b> · ipinapakita ng pamamahinga sa ikapitong araw na ang lahat ay ganap at payapa (shalom): “mabuti nga.”</li><li><b>Eden</b> · ang mundo bago ito nasira, kung saan magkasamang lumalakad ang Diyos at ang tao.</li></ul>",
+   "next": "Ngunit ang kabuuang ito ay malapit nang masira…"
+  },
+  {
+   "tag": "MATANDANG TIPAN · NAGSISIMULA ANG SULIRANIN",
+   "title": "Ang Pagkahulog",
+   "date": "Nang pasimula",
+   "one": "Pumasok ang kasalanan, at naputol ang ugnayan ng tao at ng Diyos.",
+   "people": "Sina Adan at Eva; ang ahas (Satanas)",
+   "events": "Ang pagkain ng ipinagbabawal na bunga, ang pagpapaalis sa Eden, ang pagdating ng kamatayan at pagpapagal",
+   "q": "Ang binhi niya ang dudurog sa iyong ulo, at sa sakong niya'y ikaw ang tutuklaw.",
+   "cite": "Genesis 3:15",
+   "christ": "Ang unang pangako ng ebanghelyo, ibinigay agad pagkatapos ng Pagkahulog: ang “binhi ng babae” ang dudurog sa ulo ng ahas — at iyon ay si Jesus (Genesis 3:15; Roma 16:20; Galacia 4:4).",
+   "detail": "<p>Sa pamamagitan ng pagsuway na nais “maging tulad ng Diyos,” pumasok ang kasalanan sa mundo. Ang resulta ay hindi lamang nasirang patakaran kundi <b>nasirang ugnayan</b>.</p><ul><li><b>Nasirang mga ugnayan</b> · sa Diyos (pagtatago), sa isa't isa (pagsisi), at sa kalikasan (mga tinik at pagpapagal).</li><li><b>Kamatayan</b> · ang babalang “tiyak na mamamatay ka” ay nagkatotoo.</li><li><b>Genesis 3:15</b> · ngunit sa gitna ng paghatol, nauna ang pangako ng pagliligtas. Tinatawag ito ng mga iskolar na <b>“protoevangelium” (ang unang ebanghelyo)</b>.</li></ul>",
+   "next": "Ngayon ay tinatawag ng Diyos ang isang tao upang simulan ang pagliligtas…"
+  },
+  {
+   "tag": "MATANDANG TIPAN · ANG PANGAKO",
+   "title": "Ang mga Patriyarka",
+   "date": "mga 2000 B.C.",
+   "one": "Nangako ang Diyos kay Abraham, “Magiging daluyan ka ng pagpapala.”",
+   "people": "Abraham · Isaac · Jacob · Jose",
+   "events": "Ang tipan kay Abraham, ang paghahandog kay Isaac, ang labindalawang anak ni Jacob, si Jose na naging tagapamahala sa Egipto",
+   "q": "Gagawin ko silang isang malaking bansa… sa pamamagitan mo, lahat ng mga bansa sa daigdig ay aking pagpapalain.",
+   "cite": "Genesis 12:2-3",
+   "christ": "Ang pangakong “mapagpapala ang lahat ng mga bansa” ay natupad kay Jesus, ang binhi ni Abraham (Galacia 3:16).",
+   "detail": "<p>Sinimulan ng Diyos na lutasin ang suliranin ng buong sangkatauhan sa pamamagitan ng pagtawag sa isang tao, si <b>Abraham</b>. Ang puso nito ay ang <b>tipan (pangako)</b> — isang dakilang bansa, isang lupain, at “pagpapala para sa lahat ng mga bansa.”</p><ul><li><b>Pananampalataya</b> · sinampalatayanan ni Abraham ang isang di-nakikitang pangako, at ito'y ibinilang sa kanya bilang katuwiran (Genesis 15:6).</li><li><b>Isaac at Jacob</b> · ipinasa ang pangako; si Jacob (Israel) ang ama ng labindalawang lipi.</li><li><b>Jose</b> · ipinagbili ng kanyang mga kapatid ngunit naitaas sa kapangyarihan — “niloob ng Diyos para sa ikabubuti” (Genesis 50:20).</li></ul>",
+   "next": "Sa pagsunod kay Jose, bumaba ang pamilya sa Egipto — at naging alipin…"
+  },
+  {
+   "tag": "MATANDANG TIPAN · PAGTUBOS",
+   "title": "Exodo at Ilang",
+   "date": "mga 1446 B.C.",
+   "one": "Iniligtas ng Diyos ang bayang inalipin at ginawang sariling bayan.",
+   "people": "Moises, Aaron, ang Faraon",
+   "events": "Ang sampung salot, ang Paskua, ang pagtawid sa Dagat na Pula, ang Sampung Utos sa Sinai, ang tabernakulo, 40 taon sa ilang",
+   "q": "Ituturing ko kayong aking sariling bayan at ako ang magiging Diyos ninyo.",
+   "cite": "Exodo 6:7",
+   "christ": "Ang Paskua — kung saan ang dugo ng kordero ang nagpalayo sa kamatayan — ay tumuturo kay Jesus, “ang ating korderong Paskua,” na ipinako sa krus para sa atin (1 Corinto 5:7).",
+   "detail": "<p>Ang pinakadakilang pagliligtas ng Matandang Tipan. Ang dating inaliping Israel ay pinalaya ng kapangyarihan ng Diyos at hinubog bilang kanyang <b>bayan</b>.</p><ul><li><b>Ang Paskua</b> · ang tahanang may dugo ng kordero sa pintuan ay nilampasan ng kamatayan — ang huwaran ng lahat ng susunod na handog.</li><li><b>Ang Dagat na Pula</b> · kaligtasan kung saan natapos na ang daan; ang “pagtawid” ang naging simbolo ng bagong simula.</li><li><b>Ang tipan sa Sinai</b> · sa pamamagitan ng mga Utos ay natutunan nilang mamuhay bilang bayan ng Diyos.</li><li><b>Ang tabernakulo</b> · isang dalang santuwaryo kung saan naninirahan ang Diyos sa gitna ng kanyang bayan — paunang lasa ng “Emmanuel.”</li><li><b>40 taon</b> · dahil sa pagsuway ay gumala sa ilang ang isang salinlahi, ngunit nanatiling malapit ang Diyos sa pamamagitan ng manna at ng haligi ng ulap at apoy.</li></ul>",
+   "next": "Nakatayo sa hangganan ng lupang pangako, naghahanda silang pumasok…"
+  },
+  {
+   "tag": "MATANDANG TIPAN · PANANAHANAN",
+   "title": "Pananakop at mga Hukom",
+   "date": "mga 1400–1050 B.C.",
+   "one": "Natamo nila ang lupain, ngunit walang hari kaya ginagawa ng bawat isa ang nais niya.",
+   "people": "Josue; mga hukom tulad nina Gideon at Samson; Ruth",
+   "events": "Ang pagbagsak ng Jerico, ang pananahanan sa Canaan, ang paulit-ulit na siklo ng kasalanan–paghatol–pagliligtas",
+   "q": "Nang panahong iyon ay wala pang hari sa Israel; ginagawa ng bawat isa ang lahat ng kanilang magustuhan.",
+   "cite": "Mga Hukom 21:25",
+   "christ": "Mula sa angkan ni Ruth ay nanggaling si David, at mula sa angkan ni David ay nanggaling si Jesus (Mateo 1). Kahit sa gitna ng kaguluhan, patuloy ang puno ng angkan ng Mesiyas.",
+   "detail": "<p>Sa pamumuno ni Josue ay pumasok sila sa lupang pangako, ngunit pagkatapos manahan ay madali nilang nakalimutan ang Diyos. Ang Mga Hukom ay paulit-ulit na ganitong huwaran.</p><ul><li><b>Ang pababang siklo</b> · kasalanan → pang-aapi → pagdaing → nililigtas ng isang hukom → kasalanang muli. Lumalala lamang ito.</li><li><b>Ang mga hukom</b> · sina Gideon, Samson, Debora — mga pansamantalang tagapagligtas, magigiting ngunit lubhang may kapintasan.</li><li><b>Ruth</b> · isang maningning na kuwento ng katapatan sa madilim na panahon; isang dayuhang babae ang pumasok sa angkan ni David (at ni Jesus).</li></ul>",
+   "next": "Dumaing ang bayan, “Bigyan din kami ng hari!”…"
+  },
+  {
+   "tag": "MATANDANG TIPAN · GINTONG PANAHON",
+   "title": "Ang Nagkakaisang Kaharian",
+   "date": "mga 1050–930 B.C.",
+   "one": "Nangako ang Diyos kay David, “Mananatili ang iyong trono magpakailanman.”",
+   "people": "Saul · David · Solomon",
+   "events": "Ang unang haring si Saul, si David at si Goliat, ang tipan kay David, ang templo ni Solomon",
+   "q": "Magiging matatag ang iyong sambahayan… at mananatili ang iyong trono magpakailanman.",
+   "cite": "2 Samuel 7:16",
+   "christ": "Ang “walang-hanggang trono” ay natupad kay Jesus, ang anak ni David — kaya tinatawag siyang “Anak ni David” (Lucas 1:32-33; Mateo 1:1).",
+   "detail": "<p>Ang rurok ng Israel, pinamunuan ng tatlong hari.</p><ul><li><b>Saul</b> · ang haring hiningi ng bayan; magandang simula na nasira ng pagsuway.</li><li><b>David</b> · “taong kalugod-lugod sa puso ng Diyos.” Tinalo niya si Goliat at ginawang kabisera ang Jerusalem. Nagkasala siya nang malaki (Bathsheba) ngunit nagsisi mula sa puso (Awit 51).</li><li><b>Ang tipan kay David (2 Samuel 7)</b> · nangako ang Diyos na patatatagin ang dinastiya ni David magpakailanman — ang mapagpasyang ugat ng pag-asa sa Mesiyas.</li><li><b>Solomon</b> · sa rurok ng karunungan at kayamanan ay itinayo niya ang <b>templo</b>, ngunit nahulog sa pagsamba sa diyus-diyosan sa kanyang katandaan.</li></ul>",
+   "next": "Pagkatapos ni Solomon, nahati sa dalawa ang kaharian…"
+  },
+  {
+   "tag": "MATANDANG TIPAN · PAGBABA",
+   "title": "Ang Hating Kaharian",
+   "date": "930–586 B.C.",
+   "one": "Nahati sa timog (Juda) at hilaga (Israel), at unti-unting nasira ang bansa.",
+   "people": "Ang mga hari ng dalawang kaharian; mga propeta tulad nina Elias, Isaias, Jeremias",
+   "events": "Ang paghahati ng kaharian, ang paglaganap ng pagsamba sa diyus-diyosan, ang mga babala ng mga propeta",
+   "q": "Magmula noon, patuloy na naghimagsi ang sampung lipi ng Israel sa paghahari ng angkan ni David.",
+   "cite": "1 Mga Hari 12:19",
+   "christ": "Sa panahong ito, mas malinaw na ipinahayag ng mga propeta ang darating na Mesiyas (Isaias 9:6; Isaias 53).",
+   "detail": "<p>Sa panahon ng anak ni Solomon ay nahati ang bansa: <b>ang hilagang kaharian ng Israel</b> (10 lipi, kabisera Samaria) at <b>ang katimugang kaharian ng Juda</b> (2 lipi, kabisera Jerusalem).</p><ul><li><b>Israel (hilaga)</b> · lahat ng hari nito ay naglilingkod sa diyus-diyosan; bumagsak ito sa Asiria noong 722 B.C.</li><li><b>Juda (timog)</b> · nagpatuloy ang angkan ni David, may ilang mabubuting hari tulad nina Hezekias at Josias, ngunit sa kabuuan ay bumaba.</li><li><b>Ang mga propeta</b> · sina Elias, Amos, Isaias, Jeremias ay sumigaw ng “magbalik kayo!” Naabot dito ng propesiya tungkol sa Mesiyas ang pinakayaman nitong bahagi (ang “naghihirap na lingkod” ng Isaias 53).</li></ul>",
+   "next": "Sa huli, dumating ang ibinabalang paghatol — sila'y dinala sa pagkatapon…"
+  },
+  {
+   "tag": "MATANDANG TIPAN · PAGHATOL",
+   "title": "Ang Pagkatapon",
+   "date": "722 / 586 B.C.",
+   "one": "Bumagsak ang bansa at ang bayan ay dinala sa ibang lupain.",
+   "people": "Daniel, Ezekiel, Nabucodonosor",
+   "events": "Bumagsak ang Israel sa Asiria (722); bumagsak ang Juda sa Babilonia at winasak ang templo (586)",
+   "q": "Sa pampang ng mga ilog nitong bansang Babilonia, kami'y nakaupong tumatangis, sa tuwing Zion, aming naaalala.",
+   "cite": "Awit 137:1",
+   "christ": "Sa kailaliman ng kawalan ng pag-asa ay nangako si Jeremias ng isang “bagong tipan” (Jeremias 31:31) — ang mismong tipang ipinagtibay ni Jesus sa Huling Hapunan.",
+   "detail": "<p>Natupad ang mga babala. Nasunog ang templo at dinala ang bayan sa Babilonia — nawala ang lupain, ang hari, at ang templo: ang pinakamababang sandali sa lahat.</p><ul><li><b>Dalawang pagbagsak</b> · Israel (Asiria, 722 B.C.) at Juda (Babilonia, 586 B.C.).</li><li><b>Daniel</b> · huwaran ng pananampalataya kahit sa paganong korte (ang yungib ng mga leon); nakita niya ang pangitain ng isang darating na “walang-hanggang kaharian.”</li><li><b>Isang kislap ng pag-asa</b> · ang pangitain ni Ezekiel ng mga tuyong buto na muling nabuhay (Ezekiel 37) at ang “bagong tipan” ni Jeremias ay tumuturo sa hinaharap sa gitna ng kadiliman.</li></ul>",
+   "next": "Pitumpung taon ang lumipas, binuksan ng Diyos ang daan — sila'y umuwi…"
+  },
+  {
+   "tag": "MATANDANG TIPAN · PAGPAPANUMBALIK",
+   "title": "Ang Pagbabalik",
+   "date": "538–430 B.C.",
+   "one": "Bumalik sila at muling itinayo ang templo at ang mga pader.",
+   "people": "Ezra, Nehemias, Ester, Zerubabel",
+   "events": "Pagbabalik sa pamamagitan ng utos ni Ciro, muling pagtatayo ng templo, pagkukumpuni ng mga pader ng Jerusalem, pagpapanumbalik ng Salita",
+   "q": "Ang kagalakang dulot ni Yahweh ang magpapalakas sa inyo.",
+   "cite": "Nehemias 8:10",
+   "christ": "Ang Malakias, ang huling aklat ng Matandang Tipan, ay nagtatapos sa paghula ng isang sugong maghahanda ng daan ng Mesiyas: “Isusugo ko ang aking mensahero” (Malakias 3:1).",
+   "detail": "<p>Sa pamamagitan ng utos ng haring Persiano na si Ciro (538 B.C.) ay nagsimula ang pagbabalik. Sa tatlong alon ay bumalik sila at muling itinayo ang nasira.</p><ul><li><b>Zerubabel</b> · muling itinayo ang templo (natapos noong 516 B.C.).</li><li><b>Ezra</b> · muling itinuro ang Salita at binuhay ang pananampalataya.</li><li><b>Nehemias</b> · muling itinayo ang mga pader ng Jerusalem sa loob ng 52 araw.</li><li><b>Ester</b> · iniligtas ang mga Judio sa Persia mula sa pagkalipol — “para sa ganitong panahon.”</li><li><b>Patuloy na pananabik</b> · nakatayo ang templo, ngunit walang haring tulad ni David. Naghihintay ang bayan sa Mesiyas.</li></ul>",
+   "next": "At pagkatapos… na para bang natahimik ang langit, lumipas ang 400 taon."
+  },
+  {
+   "tag": "PAGITAN NG MGA TIPAN · PAGHAHANDA NG TANGHALAN",
+   "title": "Ang mga Taon ng Katahimikan",
+   "date": "mga 430–4 B.C.",
+   "one": "400 taon na walang tinig ng propeta — ngunit tahimik na inihahanda ang tanghalan.",
+   "people": "Alejandro Magno, ang mga Macabeo, Roma",
+   "events": "Persia → Gresya → kalayaan ng mga Macabeo → pamamahala ng Roma",
+   "q": "Ngunit nang sumapit ang takdang panahon, isinugo ng Diyos ang kanyang Anak. Isinilang siya ng isang babae at namuhay sa ilalim ng Kautusan.",
+   "cite": "Galacia 4:4",
+   "christ": "Ang lahat ng “paghahandang” ito ay gawa ng Diyos upang dumating si Jesus sa eksaktong “takdang panahon.”",
+   "detail": "<p>Mula sa Malakias hanggang sa Bagong Tipan, mga 400 taon ang lumipas na walang bagong Kasulatan. Ngunit sa likod ng kasaysayan ay inihahanda ng Diyos ang daan ng ebanghelyo.</p><ul><li><b>Nagpalit-palit ang mga imperyo</b> · Persia → Gresya (Alejandro, 333 B.C.) → ang mga Tolomeo at Seleucida → ang himagsikan ng mga Macabeo (167 B.C.) → Roma (63 B.C.).</li><li><b>Griyego</b> · ginawa ng pananakop ni Alejandro ang Griyego na pangkaraniwang wika; isinalin sa Griyego ang Matandang Tipan (ang Septuaginta), na naghanda ng daan para mabilis na lumaganap ang ebanghelyo.</li><li><b>Mga daan at kapayapaan ng Roma</b> · ang matitibay na daan at ang “Pax Romana” ay naging mga lansangan ng misyon.</li><li><b>Mga sinagoga at partido</b> · nag-ugat ang pagtuturo sa sinagoga; lumitaw ang mga Pariseo at Saduceo; at <b>naghinog ang pananabik sa Mesiyas</b>.</li></ul>",
+   "next": "Pagkatapos ay nabasag ang katahimikan — sa wakas, siya'y dumating."
+  },
+  {
+   "tag": "BAGONG TIPAN · KATUPARAN",
+   "title": "Dumating si Jesus",
+   "date": "mga 4 B.C.–A.D. 30",
+   "one": "Dumating ang ipinangakong Mesiyas, namatay, at muling nabuhay.",
+   "people": "Jesus, ang labindalawang alagad, si Juan Bautista",
+   "events": "Ang pagkakatawang-tao, ang kanyang ministeryo at pagtuturo at mga himala, ang kamatayan sa krus, ang muling pagkabuhay sa ikatlong araw",
+   "q": "Ang Salita ay naging tao at nanirahan sa piling namin… puspos ng kagandahang-loob at ng katotohanan.",
+   "cite": "Juan 1:14",
+   "christ": "Ang binhi ng babae (eksena 2), ang pagpapala kay Abraham (3), ang korderong Paskua (4), ang walang-hanggang hari ni David (6), ang bagong tipan (8) — lahat natupad sa iisang tao, si Jesus: ang ating tunay na Propeta, Saserdote, at Hari.",
+   "detail": "<p>Nabasag ang katahimikan; dumating ang Ipinangako. Ang apat na Ebanghelyo ay nagpapatotoo sa buhay, kamatayan, at muling pagkabuhay ni Jesus mula sa apat na anggulo.</p><ul><li><b>Pagkakatawang-tao</b> · naging tao ang Diyos (Emmanuel, “sumasaatin ang Diyos”), sa abang lugar ng Betlehem.</li><li><b>Ministeryo</b> · itinuro niya ang kaharian ng Diyos, pinagaling ang mga maysakit, tinawag ang mga makasalanan. “Ang nakakita sa akin ay nakakita sa Ama.”</li><li><b>Ang krus</b> · binayaran niya ang halaga ng kasalanan at kamatayang dulot ng Pagkahulog (eksena 2). Ang tunay na korderong Paskua.</li><li><b>Muling pagkabuhay</b> · sa muling pagbangon sa ikatlong araw, winasak niya ang kapangyarihan ng kasalanan, kamatayan, at Satanas — sa krus pa lamang ay “hinubaran niya ang mga pamunuan at kapangyarihan… at nagtagumpay laban sa kanila” (Colosas 2:15).</li></ul><p>Kaya si Jesus ang ating <b>tunay na Propeta</b> (nagpapakita ng daan tungo sa Diyos), ang ating <b>tunay na Saserdote</b> (nagbabayad ng kasalanan sa pamamagitan ng sariling katawan), at ang ating <b>tunay na Hari</b> (lumupig sa kasalanan, kamatayan, at Satanas at naghahari magpakailanman).</p>",
+   "next": "Isinugo ng muling nabuhay na si Jesus ang kanyang mga alagad sa mundo…"
+  },
+  {
+   "tag": "BAGONG TIPAN · PAGLAGANAP",
+   "title": "Nagsimula ang Iglesya",
+   "date": "mga A.D. 30–",
+   "one": "Dumating ang Espiritu, at lumaganap ang ebanghelyo tungo sa mga dulo ng daigdig.",
+   "people": "Pedro, Pablo, ang sinaunang iglesya",
+   "events": "Ang pagbubuhos ng Espiritu sa Pentecostes, ang pagsilang ng iglesya, ang paglaganap ng ebanghelyo mula Jerusalem hanggang Roma sa gitna ng pag-uusig",
+   "q": "Subalit tatanggap kayo ng kapangyarihan pagbaba sa inyo ng Espiritu Santo… hanggang sa dulo ng daigdig.",
+   "cite": "Mga Gawa 1:8",
+   "christ": "Ang kuwentong ito ay patuloy pa rin hanggang ngayon. Nagtatapos ang Bibliya sa pangakong muling darating si Jesus at gagawing bago ang lahat ng bagay (Pahayag 21).",
+   "detail": "<p>Pagkaakyat ni Jesus, dumating ang ipinangakong Espiritu sa Pentecostes at isinilang ang iglesya. Lumaganap nang pasabog ang ebanghelyo.</p><ul><li><b>Pentecostes</b> · ginawa ng Espiritu ang takot na mga alagad na maging matatapang na saksi.</li><li><b>Pedro</b> · ipinangaral ang ebanghelyo sa mga Judio sa Jerusalem.</li><li><b>Pablo</b> · mula mang-uusig hanggang apostol, nagtatag ng mga iglesya sa buong daigdig ng mga Hentil at sumulat ng mga liham.</li><li><b>Hanggang sa mga dulo ng daigdig</b> · Jerusalem → Judea → Samaria → Roma. Natupad ang pangako kay Abraham tungkol sa “lahat ng mga bansa.”</li><li><b>At tayo</b> · hindi nagtatapos ang kuwento; nagpapatuloy ito tungo sa muling pagparito ni Jesus at sa bagong langit at bagong lupa.</li></ul>",
+   "next": "Ngunit hindi nagtatapos dito ang kuwento…"
+  },
+  {
+   "tag": "BAGONG TIPAN · KAGANAPAN",
+   "title": "Ang Pagpapanumbalik (lahat ay bago)",
+   "date": "Darating pa lamang",
+   "one": "Muling darating si Jesus at gagawing bago ang lahat ng bagay.",
+   "people": "Ang muling darating na Jesus; lahat ng mga bansa",
+   "events": "Ang muling pagparito, ang huling paghatol, ang katapusan ng kasalanan·kamatayan·luha, ang bagong langit at bagong lupa",
+   "q": "At papahirin niya ang bawat luha sa kanilang mga mata. Wala nang kamatayan, dalamhati, pagtangis, at paghihirap…",
+   "cite": "Pahayag 21:4",
+   "christ": "Ang Eden ng unang paglikha ay sa wakas naipanumbalik bilang ang “bagong Jerusalem.” Naninirahan ang Diyos kasama ng kanyang bayan magpakailanman — ang kaganapan ng Emmanuel (Pahayag 21:3; Mateo 1:23).",
+   "detail": "<p>Hindi nagtatapos ang Bibliya sa panahon ng iglesya. Ang huling aklat nito, ang Pahayag, ay nagpapakita kay Jesus na <b>muling darating</b> upang lubusin ang lahat.</p><ul><li><b>Ang muling pagparito</b> · ang ipinangakong Hari ay babalik sa kaluwalhatian.</li><li><b>Ang huling tagumpay</b> · ang Satanas at ang kamatayan ay tuluyang gagapiin, at maghahari si Cristo bilang Hari ng mga hari (1 Corinto 15:25-26; Pahayag 20:10).</li><li><b>Paghatol at muling pagkabuhay</b> · bawat kamalian ay itatama, at bubuhayin ang mga patay.</li><li><b>Bagong langit at bagong lupa</b> · ang kasalanan, kamatayan, luha, at sakit ay maglalaho magpakailanman (Pahayag 21:4).</li><li><b>Ang Eden na naipanumbalik</b> · sa isang “bagong Jerusalem” na mas mabuti kaysa simula, naninirahan ang Diyos kasama ng kanyang bayan magpakailanman — ang patutunguhang tinutumbok ng buong Bibliya.</li></ul><p>Kaya ngayon ang panahon ng <b>“naganap na, ngunit hindi pa lubos”</b>: kay Jesus ay <b>naganap na</b> ang kaligtasan, ngunit ang kaganapan nito ay <b>hinihintay pa</b>.</p>",
+   "next": "Kaya ano ang kahulugan ng buong kuwentong ito para sa “akin”?"
+  }
+ ],
+ "love": [
+  "Ang simula ng kuwento ay hindi paghatol, kundi isang mundong nilikha mula sa umaapaw na pag-ibig.",
+  "Sa sandaling magkasala ang tao, doon din mismo nangako ang Diyos ng pagliligtas.",
+  "Una pa ring nilapitan ng Diyos ang taong walang karapatan, tinawag siya sa pangalan, at ginawang daluyan ng pagpapala.",
+  "Narinig niya ang daing ng bayang inalipin, at siya mismo ang bumaba upang iligtas sila.",
+  "Pinagtaksilan nang paulit-ulit, ngunit tuwing dumadaing sila ay nagsusugo siya ng tagapagligtas at muling ibinabangon sila.",
+  "Hindi niya itinakwil kahit ang nahulog na si David; sa pamamagitan niya ay nangako siya ng walang-hanggang Hari.",
+  "Sa bayang tumalikod sa kanya ay patuloy siyang nagsugo ng mga propeta, nagmamakaawa, “Pakiusap, magbalik kayo.”",
+  "Sumama pa siya hanggang sa pinakamadilim na lupain ng pagkatapon, at nangako ng pagpapanumbalik.",
+  "Kahit sa bayang paulit-ulit na nabigo, hindi niya binawi ang kanyang pangako, kundi muli silang ibinangon.",
+  "Kahit sa 400 taon ng katahimikan, lihim niyang inihahanda ang daan ng kaligtasan.",
+  "Noong tayo'y makasalanan pa, isinugo niya ang kanyang Anak at inialay nito ang sariling buhay.",
+  "Ang pag-ibig na natanggap natin, ngayon ay pinaaagos niya sa buong mundo.",
+  "Sa wakas ay papahirin niya ang bawat luha at gagawing bago ang lahat ng bagay sa pag-ibig."
+ ],
+ "mis": [
+  {
+   "w": "“Bakit gumawa ang Diyos ng taong kayang magkasala? Hindi ba mas mabuti pang hindi tayo nilikha?”",
+   "t": "Nilikha ng Diyos ang mundo at ang tao hindi dahil sa anumang kakulangan, kundi mula sa umaapaw na pag-ibig. Ang gawing <b>mga taong may kaugnayan sa Diyos</b> ay mismong pag-ibig na. At kahit ang pagpasok ng kasalanan ay hindi labas sa plano ng pagliligtas ng Diyos (Efeso 1:4-5). Ang unang eksena ng Bibliya ay hindi paghatol kundi pag-ibig."
+  },
+  {
+   "w": "“Itinapon at binigyan ng kamatayan dahil lang sa pagkain ng isang bunga — hindi ba sobrang bagsik ng Diyos?”",
+   "t": "Ang pagpapaalis sa Eden ay paghatol at sabay na awa. Kung kakain ng bunga ng punong nagbibigay-buhay at mabubuhay nang walang hanggan sa sirang kalagayang iyon na hiwalay sa Diyos, magiging bilanggo ng pagdurusa magpakailanman (Genesis 3:22). Ang pagpapahintulot ng kamatayan ay nagbukas ng daan pabalik, at doon din mismo nangako ang Diyos ng isang Tagapagligtas (Genesis 3:15). Nasa loob na ng paghatol ang pag-ibig."
+  },
+  {
+   "w": "“Pinili si Abraham dahil malaki ang pananampalataya niya — hindi ba bayani sa moralidad ang lahat ng tauhan sa Bibliya?”",
+   "t": "Si Abraham ay nagsinungaling at nag-alinlangan din; si Jacob ay isang manloloko. Tinawag ng Diyos hindi ang “mga karapat-dapat” kundi ang mga may kapintasan, sa pamamagitan ng kagandahang-loob. Ang dahilan ay hindi ang kanilang kabutihan kundi ang tapat na pag-ibig ng Diyos (Deuteronomio 7:7-8)."
+  },
+  {
+   "w": "“Hindi ba ang Kautusan (ang mga Utos) ay isang pagsusulit na kailangan mong ipasa para maligtas?”",
+   "t": "Iniligtas sila ng Diyos <b>bago</b> ibigay ang Kautusan. Kahit ang Sampung Utos ay nagbubukas sa isang pahayag ng kaligtasan: “Ako si Yahweh, ang iyong Diyos na naglabas sa iyo sa Egipto” (Exodo 20:2). Ang Kautusan ay hindi “sundin para maligtas,” kundi mapagmahal na gabay kung paano dapat mamuhay ang isang bayang naligtas na (Deuteronomio 7:7-9). Laging nauuna ang kagandahang-loob; ang pagsunod ay ang tugon."
+  },
+  {
+   "w": "“Ang pananakop sa Canaan ay isang malupit na pagpatay — kaya talagang malupit ang Diyos ng Matandang Tipan.”",
+   "t": "Mahirap itong paksang hindi malulutas sa isang pangungusap. Ngunit hindi ito inilalahad ng Bibliya bilang walang basehang karahasan kundi bilang paghatol pagkatapos ng mga siglo ng pagtitiis sa labis na kasamaan (kasama ang pag-aalay ng bata) (Genesis 15:16; Deuteronomio 9:4-5; Levitico 18:24-25). Mabagal magpasya ang Diyos kahit sa paghatol, at malugod niyang tinanggap ang mga lumapit sa kanya — kahit mga dayuhan tulad nina Rahab at Ruth (Josue 6:25; Ruth 4:13-17)."
+  },
+  {
+   "w": "“Si David ay isang bayaning walang kapintasan — kaya tinawag siyang ‘taong kalugod-lugod sa puso ng Diyos.’”",
+   "t": "Si David ay nangalunya at nakapatay pa. Ang “kalugod-lugod sa puso ng Diyos” ay hindi nangangahulugang walang kapintasan, kundi isang hindi nagtago ng kanyang kasalanan — na nagsisi nang lubos at patuloy na bumabalik sa Diyos (Awit 51). Hindi itinatapon ng pag-ibig ng Diyos kahit ang mga nahuhulog nang husto."
+  },
+  {
+   "w": "“Ang propeta ay manghuhula ng kinabukasan / ang Diyos ng Matandang Tipan ay puro galit.”",
+   "t": "Ang puso ng propeta ay hindi “paghula ng kinabukasan” kundi ang taimtim na pagmamakaawa ng Diyos: “Pakiusap, magbalik kayo.” Kahit ang mga babala ng paghatol ay hindi naglalayong wasakin kundi ibalik ang mga tao at iligtas sila — “hindi nasisiyahan na ang sinuma'y mamatay sa kanyang kasamaan” (Ezekiel 33:11)."
+  },
+  {
+   "w": "“Pinatutunayan ng pagkatapon na tuluyang itinakwil ng Diyos ang Israel.”",
+   "t": "Ang pagkatapon ay hindi pagtatakwil kundi disiplina at paglilinis tungo sa isang minamahal na anak (Hebreo 12:6). Hindi umalis ang Diyos; kasama niya si Daniel sa kaibuturan ng pagkatapon at nangako siya, “batid kong lubos ang mga plano ko para sa inyo; mga planong hindi ninyo ikakasama kundi para sa inyong ikabubuti” (Jeremias 29:11)."
+  },
+  null,
+  {
+   "w": "“Kung walang salita sa loob ng 400 taon, baka umalis na ang Diyos o nagpapahinga.”",
+   "t": "Ang katahimikan ay hindi pagkawala. Hindi lang siya nagsalita, habang sa buong panahong iyon ay iginagalaw niya ang mga imperyo, wika, at daan upang ihanda ang tanghalan ng kaligtasan. Sa pinakatahimik na sandali, ang Diyos ang pinakamasigasig na gumagawa, sa pag-ibig (Galacia 4:4)."
+  },
+  {
+   "w": "“Si Jesus ay isa lamang sa mabubuting guro ng moralidad / ang krus ay isang kalunos-lunos na pagkatalo.”",
+   "t": "Inangkin ni Jesus na siya mismo ay Diyos (Juan 8:58), at ang krus ay hindi aksidente o pagkatalo kundi binalak na pag-ibig. Hindi siya kinaladkad doon nang puwersahan; inialay niya ang sariling buhay (Juan 10:18). “Walang pag-ibig na hihigit pa kaysa pag-ibig ng isang taong nag-aalay ng kanyang buhay para sa kanyang mga kaibigan” (Juan 15:13)."
+  },
+  {
+   "w": "“Ang iglesya ay isang klub ng mga taong perpekto, o gusali lamang.”",
+   "t": "Ang iglesya ay hindi pamayanan ng “mga banal na perpekto” kundi ng <b>mga makasalanang pinatawad</b>. Kahit ang apostol na si Pablo ay tinawag ang sarili na “pinakamasama sa lahat ng mga makasalanan” (1 Timoteo 1:15). Nagtalo at nagkamali rin ang sinaunang iglesya (Mga Gawa 6:1; 1 Corinto 1:11). Ito ay hindi lugar para magyabang, kundi mga taong nagpapasa ng pag-ibig na kanilang natanggap (Juan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Orihinal na kasalanan — walang matuwid",
+   "body": "Ang problema ay hindi “ilang masamang gawa” kundi ang ugat ng puso. Mula kay Adan, lahat ay isinilang sa ilalim ng kasalanan at hindi kayang abutin ang Diyos sa sariling lakas.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Walang matuwid, wala kahit isa… Sapagkat ang lahat ay nagkasala, at walang sinumang nakaabot sa kaluwalhatian ng Diyos."
+  },
+  {
+   "title": "Hindi ako kayang iligtas ng Kautusan",
+   "body": "Ang Kautusan ay hindi hagdanan kundi salamin. Habang nagsisikap ka, mas ipinapakita nito kung gaano ka kalayo sa marka. Ang layunin nito ay akayin tayo kay Cristo.",
+   "vref": "Roma 3:20 · Galacia 3:24",
+   "vtext": "Ang gawain ng Kautusan ay ang ipamukha sa tao na siya'y nagkasala… ang Kautusan ang naging tagapangalaga natin hanggang sa dumating si Cristo."
+  },
+  {
+   "title": "Sa kagandahang-loob — kaloob, hindi pagsisikap",
+   "body": "Ang kaligtasan ay hindi sahod sa kabayarang pinaghirapan, kundi malayang kaloob sa mga hindi karapat-dapat. Kaya walang sinumang makapagmamalaki.",
+   "vref": "Efeso 2:8-9",
+   "vtext": "Dahil sa kagandahang-loob ng Diyos kayo ay naligtas sa pamamagitan ng pananampalataya… hindi ito bunga ng inyong mga gawa kaya't walang dapat ipagmalaki ang sinuman."
+  },
+  {
+   "title": "Pinawalang-sala sa pamamagitan ng pananampalataya",
+   "body": "Hindi sa pagsunod sa Kautusan, kundi sa pananampalataya kay Jesu-Cristo ay ibinibilang tayong matuwid — dinaramtan hindi ng sariling katuwiran kundi ng kanya.",
+   "vref": "Roma 5:1 · Galacia 2:16",
+   "vtext": "Napawalang-sala na tayo sa pamamagitan ng ating pananampalataya… ang tao'y pinapawalang-sala dahil sa pananampalataya kay Jesu-Cristo, at hindi dahil sa pagsunod sa Kautusan."
+  },
+  {
+   "title": "Ang Bibliya ay tumuturo kay Jesus",
+   "body": "Ang Bibliya ay hindi talambuhay ng mga dakilang tao o aklat ng pagtulong-sa-sarili. Mula Genesis hanggang Pahayag, bawat pahina ay nagpapatotoo sa iisang persona — si Jesu-Cristo.",
+   "vref": "Juan 5:39 · Lucas 24:27",
+   "vtext": "Ang mga Kasulatang iyan ang nagpapatotoo tungkol sa akin… ipinaliwanag sa kanila ni Jesus ang lahat ng sinasabi sa Kasulatan tungkol sa kanyang sarili."
+  },
+  {
+   "title": "Ang kaharian ng Diyos — ang gitnang mensahe ni Jesus",
+   "body": "Ang paksang pinakamadalas ituro ni Jesus. Ang paghahari ng Diyos bilang Hari ay pumasok sa mundong ito kasama ni Jesus at malulubos kapag siya'y bumalik. Sa pamamagitan ng kanyang krus at muling pagkabuhay, si Jesus ang tunay na Haring lumupig sa kasalanan, kamatayan, at Satanas.",
+   "vref": "Marcos 1:15",
+   "vtext": "Dumating na ang takdang panahon. Malapit nang maghari ang Diyos! Kaya magsisi na kayo't talikuran ang inyong mga kasalanan. Paniwalaan na ninyo ang Magandang Balita!"
+  },
+  {
+   "title": "Ang ebanghelyo — natapos na niya ang lahat",
+   "body": "Ang halaga ng kasalanang hindi ko kayang bayaran, binayaran ni Jesus kapalit ko sa krus, at sa muling pagbangon ay nilupig niya ang kamatayan. Hindi ako umaasa sa “gawin mo ito” kundi sa “naganap na.”",
+   "vref": "Juan 19:30 · Roma 5:8",
+   "vtext": "Naganap na… ipinadama ng Diyos ang kanyang pag-ibig sa atin nang mamatay si Cristo para sa atin noong tayo'y makasalanan pa."
+  }
+ ]
+}
