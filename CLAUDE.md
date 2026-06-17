@@ -20,7 +20,7 @@
 - `tools/build-pages.mjs` — 언어별 정적 페이지 생성기(`index.html`을 템플릿으로 사용). **하위 14개 페이지에 본문 프리렌더**(JS 없이도 현지어 본문 노출 → 검색/AI 크롤러용): index.html에서 EPOCHS/CORE/EN_PACK을 `new Function`으로 추출 + i18n JSON으로 정적섹션(data-i18n)·epochs·core를 균형태그 스캐너(setInner)로 채움. + 언어별 **JSON-LD(WebSite+FAQPage)**, **llms.txt**, keywords 현지화. **루트(index.html) 본문 컨테이너는 비워둔 채 유지**(ko는 인라인 JS로 런타임 렌더; 템플릿 불변 = 생성기 idempotent). 루트 JSON-LD만 결정적 치환.
 - 생성물(커밋 대상): `/<code>/index.html`(14개·본문 프리렌더 포함), `og.png`+`og-<code>.png`(15개), `icon-192/512.png`, `sitemap.xml`, `llms.txt`.
 - PWA: `manifest.webmanifest` + `sw.js`(오프라인 캐시: navigate=network-first, 자원=cache-first, 동일출처만). 아이콘은 생성기가 rsvg로 생성.
-- 공유: 전역+장면별(`.ep-share`, `#shareSheet`) 다채널(네이티브·WhatsApp·Telegram·LINE·X·Facebook·복사·캔버스 구절이미지) + 딥링크(`#s1`~`#s13`, gotoHash). 공유 라벨은 영문/브랜드(현지화 미적용).
+- 공유: 전역+장면별(`.ep-share`, `#shareSheet`) **적응형**(모바일=네이티브 1개+복사/이미지/QR; 데스크톱=소셜 WhatsApp/Telegram/X/Facebook/LINE+복사/이미지/QR) + 캔버스 구절이미지 + QR 모달(`qr-<code>.png` 정적 커밋) + 딥링크(`#s1`~`#s13`, gotoHash). 라벨은 `SHARE_L` 맵으로 15개 언어 현지화, 아이콘은 라인 SVG.
 - GA4 이벤트: `language_select`·`share{method}`·`scene_view{scene}`·`section_view{section}`·`prayer_view`·`read_more{scene}`(gevent 헬퍼). 언어별 이탈지점 분석용.
 - `vercel.json` (buildCommand=`node tools/build-pages.mjs` + 보안헤더/캐시 headers), `robots.txt`, `README.md`. **`.vercelignore`로 CLAUDE.md 배포 제외**(사이트 404).
 

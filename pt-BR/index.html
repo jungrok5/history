@@ -367,11 +367,20 @@
     max-width:480px;padding:18px 16px 28px;position:relative;box-shadow:0 -16px 40px -12px rgba(0,0,0,.6)}
   @media(min-width:520px){#shareSheet{align-items:center}.ss-card{border-radius:18px}}
   .ss-title{font-family:var(--serif);font-size:16px;margin:2px 40px 16px 4px;color:var(--ink)}
-  .ss-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
-  .ss-grid button{display:flex;flex-direction:column;align-items:center;gap:6px;cursor:pointer;
-    border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:13px;padding:13px 4px;font-size:11.5px;transition:.2s}
-  .ss-grid button:hover{border-color:var(--accent)}
-  .ss-grid .ic{font-size:21px;line-height:1}
+  .ss-grid{display:flex;flex-direction:column;gap:10px}
+  .ss-util{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  .ss-soc{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+  .ss-btn{display:flex;flex-direction:column;align-items:center;gap:7px;cursor:pointer;
+    border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:13px;padding:14px 6px;font-size:12px;transition:border-color .2s}
+  .ss-btn:hover{border-color:var(--accent)}
+  .ss-btn .ic{color:var(--accent);display:inline-flex}
+  .ss-btn .ic svg{width:22px;height:22px;display:block}
+  .ss-primary{flex-direction:row;justify-content:center;gap:10px;padding:16px;font-size:15px;font-weight:600;
+    background:linear-gradient(160deg,rgba(233,185,73,.18),var(--card));border-color:rgba(233,185,73,.42)}
+  .soc-btn{display:flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;
+    border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:11px;padding:12px;font-size:13px;transition:border-color .2s}
+  .soc-btn:hover{border-color:var(--accent)}
+  .soc-btn .dot{width:11px;height:11px;border-radius:50%;flex:none}
   .ss-close{position:absolute;top:12px;right:14px;border:0;background:transparent;color:var(--muted);font-size:18px;cursor:pointer}
   [dir=rtl] .ss-title{margin:2px 4px 16px 40px}
   [dir=rtl] .ss-close{right:auto;left:14px}
@@ -401,17 +410,7 @@
 <nav id="map"></nav>
 <button id="toTop" title="맨 위로">↑</button>
 <div id="toast" data-i18n="ui.toast">Link copiado 📋</div>
-<div id="shareSheet" hidden><div class="ss-card"><button class="ss-close" id="ssClose" aria-label="Close">✕</button><div class="ss-title" id="ssTitle">Share</div><div class="ss-grid">
-<button data-ch="native"><span class="ic">📲</span>Share</button>
-<button data-ch="whatsapp"><span class="ic">🟢</span>WhatsApp</button>
-<button data-ch="telegram"><span class="ic">✈️</span>Telegram</button>
-<button data-ch="line"><span class="ic">💬</span>LINE</button>
-<button data-ch="x"><span class="ic">𝕏</span>X</button>
-<button data-ch="facebook"><span class="ic">📘</span>Facebook</button>
-<button data-ch="image"><span class="ic">🖼️</span>Image</button>
-<button data-ch="qr"><span class="ic">🔳</span>QR</button>
-<button data-ch="copy"><span class="ic">🔗</span>Copy</button>
-</div></div></div>
+<div id="shareSheet" hidden><div class="ss-card"><button class="ss-close" id="ssClose" aria-label="Close">✕</button><div class="ss-title" id="ssTitle">Share</div><div class="ss-grid" id="ssGrid"></div></div></div>
 <div id="qrModal" hidden><div class="qr-card"><button class="ss-close" id="qrClose" aria-label="Close">✕</button><img id="qrImg" alt="QR code" width="240" height="240" /><div class="qr-url" id="qrUrl"></div><a class="qr-dl" id="qrDl" download>⤓ Save QR</a></div></div>
 
 <header class="hero" data-sec="start" data-title="시작" data-label="시작" data-ga="hero">
@@ -987,7 +986,43 @@ window.addEventListener('hashchange',gotoHash);
 
 /* 공유 시트 (전역 + 장면별 + 다채널 + 구절 이미지) */
 var shareSheet=document.getElementById('shareSheet'); var _shctx=null;
-function openShare(ctx){ _shctx=ctx; var t=document.getElementById('ssTitle'); if(t)t.textContent=ctx.title||((curPack&&curPack.brand)||''); shareSheet.hidden=false; }
+var SHARE_L={
+ ko:{apps:'앱으로 공유',copy:'링크 복사',image:'이미지',qr:'QR 코드'},
+ en:{apps:'Share',copy:'Copy link',image:'Image',qr:'QR code'},
+ 'zh-Hans':{apps:'分享',copy:'复制链接',image:'图片',qr:'二维码'},
+ 'zh-Hant':{apps:'分享',copy:'複製連結',image:'圖片',qr:'QR 碼'},
+ ja:{apps:'共有',copy:'リンクをコピー',image:'画像',qr:'QRコード'},
+ es:{apps:'Compartir',copy:'Copiar enlace',image:'Imagen',qr:'Código QR'},
+ 'pt-BR':{apps:'Compartilhar',copy:'Copiar link',image:'Imagem',qr:'QR code'},
+ fr:{apps:'Partager',copy:'Copier le lien',image:'Image',qr:'QR code'},
+ de:{apps:'Teilen',copy:'Link kopieren',image:'Bild',qr:'QR-Code'},
+ ru:{apps:'Поделиться',copy:'Копировать ссылку',image:'Картинка',qr:'QR-код'},
+ ar:{apps:'مشاركة',copy:'نسخ الرابط',image:'صورة',qr:'رمز QR'},
+ hi:{apps:'साझा करें',copy:'लिंक कॉपी करें',image:'छवि',qr:'QR कोड'},
+ id:{apps:'Bagikan',copy:'Salin tautan',image:'Gambar',qr:'Kode QR'},
+ vi:{apps:'Chia sẻ',copy:'Sao chép liên kết',image:'Hình ảnh',qr:'Mã QR'},
+ th:{apps:'แชร์',copy:'คัดลอกลิงก์',image:'รูปภาพ',qr:'คิวอาร์โค้ด'}
+};
+var SVG={
+ share:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3m0 0L8 7m4-4 4 4"/><path d="M5 12v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>',
+ copy:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 13a4.5 4.5 0 0 0 6.4.4l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4L10.4 5.9"/><path d="M14.5 11a4.5 4.5 0 0 0-6.4-.4L5.5 13.2a4.5 4.5 0 0 0 6.4 6.4l1.6-1.5"/></svg>',
+ image:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.6"/><path d="m21 15-4.5-4.5L5 21"/></svg>',
+ qr:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><path d="M14 14h3M21 14v3M17 17v4M21 21h-4"/></svg>'
+};
+function shareT(){ return SHARE_L[curCode]||SHARE_L.en; }
+function _ssBtn(ch,icon,label){ return '<button class="ss-btn" data-ch="'+ch+'"><span class="ic">'+icon+'</span><span>'+label+'</span></button>'; }
+function _soc(ch,color,name){ return '<button class="soc-btn" data-ch="'+ch+'"><span class="dot" style="background:'+color+'"></span>'+name+'</button>'; }
+function buildShareGrid(){
+  var T=shareT(), g=document.getElementById('ssGrid'); if(!g)return; var html='';
+  if(navigator.share){
+    html+='<button class="ss-btn ss-primary" data-ch="native"><span class="ic">'+SVG.share+'</span><span>'+T.apps+'</span></button>';
+  } else {
+    html+='<div class="ss-soc">'+_soc('whatsapp','#25D366','WhatsApp')+_soc('telegram','#2AABEE','Telegram')+_soc('x','#111','X')+_soc('facebook','#1877F2','Facebook')+_soc('line','#06C755','LINE')+'</div>';
+  }
+  html+='<div class="ss-util">'+_ssBtn('copy',SVG.copy,T.copy)+_ssBtn('image',SVG.image,T.image)+_ssBtn('qr',SVG.qr,T.qr)+'</div>';
+  g.innerHTML=html;
+}
+function openShare(ctx){ _shctx=ctx; var t=document.getElementById('ssTitle'); if(t)t.textContent=ctx.title||((curPack&&curPack.brand)||''); buildShareGrid(); shareSheet.hidden=false; }
 function closeShare(){ shareSheet.hidden=true; }
 function copyLink(u){ if(navigator.clipboard){ navigator.clipboard.writeText(u).then(showToast,showToast); } else { showToast(); } }
 function doChannel(ch){
