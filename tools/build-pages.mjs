@@ -24,6 +24,7 @@ const LANGS = [
   { code:'vi',      dir:'ltr', locale:'vi_VN' },
   { code:'th',      dir:'ltr', locale:'th_TH' },
   { code:'tl',      dir:'ltr', locale:'tl_PH' },
+  { code:'ne',      dir:'ltr', locale:'ne_NP' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
@@ -50,6 +51,7 @@ const FONT_TITLE = {
   'zh-Hant':'Noto Serif CJK TC, serif',
   'ar':'Noto Naskh Arabic, serif',
   'hi':'Noto Serif Devanagari, Noto Sans Devanagari, serif',
+  'ne':'Noto Serif Devanagari, Noto Sans Devanagari, serif',
   'th':'Noto Serif Thai, Noto Sans Thai, serif',
 };
 const FONT_SUB = {
@@ -59,6 +61,7 @@ const FONT_SUB = {
   'zh-Hant':'Noto Sans CJK TC, sans-serif',
   'ar':'Noto Sans Arabic, sans-serif',
   'hi':'Noto Sans Devanagari, sans-serif',
+  'ne':'Noto Sans Devanagari, sans-serif',
   'th':'Noto Sans Thai, sans-serif',
 };
 const DEFAULT_TITLE='Noto Serif, serif', DEFAULT_SUB='Noto Sans, sans-serif';
@@ -172,7 +175,7 @@ function ogSvg(m){
   const fs2 = FONT_SUB[m.code] || DEFAULT_SUB;
   const tlen = [...m.brand].length;
   const tsize = tlen>26?44 : tlen>20?52 : tlen>14?60 : 70;
-  const ls = ['ar','hi','th'].includes(m.code) ? 0 : 6; // 자모 결합 스크립트는 자간 0
+  const ls = ['ar','hi','th','ne'].includes(m.code) ? 0 : 6; // 자모 결합 스크립트는 자간 0
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>
     <radialGradient id="g1" cx="50%" cy="-5%" r="75%"><stop offset="0%" stop-color="#e9b949" stop-opacity="0.20"/><stop offset="60%" stop-color="#e9b949" stop-opacity="0"/></radialGradient>
