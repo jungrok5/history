@@ -1,5 +1,5 @@
-// 언어별 정적 페이지 + OG 이미지 + hreflang + sitemap 자동 생성기
-// 사용법: node tools/build-pages.mjs   (rsvg-convert 필요)
+// 언어별 정적 페이지 + 본문 프리렌더 + 구조화데이터(JSON-LD) + OG 이미지 + hreflang + sitemap + llms.txt 생성기
+// 사용법: node tools/build-pages.mjs   (rsvg-convert 필요; 없으면 이미지 단계만 건너뜀)
 import fs from 'node:fs';
 import { execSync } from 'node:child_process';
 
@@ -63,11 +63,34 @@ const FONT_SUB = {
 const DEFAULT_TITLE='Noto Serif, serif', DEFAULT_SUB='Noto Sans, sans-serif';
 
 const xml = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const esc = s => String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+
+// ---- 원본 읽기 + 인라인 데이터(EPOCHS/CORE/EN_PACK) 추출 ----
+const src = fs.readFileSync(`${root}/index.html`, 'utf8');
+let EPOCHS, CORE, EN_PACK;
+(function extractInlineData(){
+  const a = src.indexOf('const EPOCHS=[');
+  const b = src.indexOf('function hasLang');
+  if (a < 0 || b < 0) throw new Error('build-pages: 인라인 데이터 마커(EPOCHS/hasLang)를 찾지 못함 — index.html 구조 변경 확인');
+  const dataSrc = src.slice(a, b)
+    .replace("const coreWrap=document.getElementById('core');", '')
+    .replace("const main=document.getElementById('epochs');", '');
+  ({ EPOCHS, CORE, EN_PACK } = new Function(dataSrc + '\nreturn {EPOCHS,CORE,EN_PACK};')());
+})();
+
+// ---- 언어 팩 로드 (en=인라인, 13개=JSON) ----
+const JSON_PACKS = {};
+for (const L of LANGS) {
+  if (L.code === 'ko' || L.code === 'en') continue;
+  JSON_PACKS[L.code] = JSON.parse(fs.readFileSync(`${root}/i18n/${L.code}.json`, 'utf8'));
+}
+const packFor = code => code === 'en' ? EN_PACK : JSON_PACKS[code];
+
 const meta = {};
 for (const L of LANGS) {
   if (L.code === 'ko') { meta[L.code] = { ...L, ...KO }; continue; }
   if (L.code === 'en') { meta[L.code] = { ...L, ...EN }; continue; }
-  const p = JSON.parse(fs.readFileSync(`${root}/i18n/${L.code}.json`, 'utf8'));
+  const p = JSON_PACKS[L.code];
   meta[L.code] = {
     ...L,
     brand: p.brand,
@@ -75,6 +98,71 @@ for (const L of LANGS) {
     kicker: (p.s && p.s['hero.kicker']) || '',
     desc: (p.share && p.share.text) || p.docTitle || p.brand,
   };
+}
+
+// ---- DOM 헬퍼(의존성 없이 균형 태그 기반 innerHTML 치환/추출) ----
+function findClose(html, openEnd, tag){
+  const re = new RegExp('<'+tag+'\\b|</'+tag+'>','g');
+  re.lastIndex = openEnd + 1;
+  let depth = 1, m;
+  while ((m = re.exec(html))) {
+    if (m[0][1] === '/') { depth--; if (depth === 0) return m.index; }
+    else depth++;
+  }
+  return -1;
+}
+function nodeAt(html, key){
+  const mk = html.indexOf('data-i18n="'+key+'"');
+  if (mk < 0) return null;
+  const ts = html.lastIndexOf('<', mk);
+  const tag = (html.slice(ts+1).match(/^[a-zA-Z0-9]+/) || [''])[0];
+  if (!tag) return null;
+  const openEnd = html.indexOf('>', mk);
+  if (openEnd < 0) return null;
+  const close = findClose(html, openEnd, tag);
+  if (close < 0) return null;
+  return { openEnd, close };
+}
+function setInner(html, key, inner){
+  const n = nodeAt(html, key);
+  if (!n) return html;
+  return html.slice(0, n.openEnd+1) + inner + html.slice(n.close);
+}
+function getInner(html, key){
+  const n = nodeAt(html, key);
+  return n ? html.slice(n.openEnd+1, n.close) : '';
+}
+
+// ---- 본문 프리렌더 (런타임 renderEpochs/renderCore와 동일 구조) ----
+function epochsHtml(pack){
+  const u = pack.ui, ver = u.version ? (' '+u.version) : '';
+  return pack.epochs.map((e,i)=>{
+    const v = EPOCHS[i], mis = pack.mis[i];
+    const misHtml = mis ? `<div class="myth"><div class="m-row"><span class="m-tag wrong">${u.mythWrong}</span><p>${mis.w}</p></div><div class="m-row"><span class="m-tag right">${u.mythRight}</span><p>${mis.t}</p></div></div>` : '';
+    return `<section class="epoch" data-title="${esc(e.title)}" data-label="${esc(e.title)}" style="--c1:${v.c1};--c2:${v.c2}"><div class="glow"></div><div class="wrap"><div class="ep-inner"><div class="txt"><div class="ep-icon">${v.emoji}</div><div class="badge"><span class="num">${i+1}</span><span class="tag">${e.tag}</span><span class="date">${e.date}</span></div><h2>${e.title}</h2><div class="oneline">${e.one}</div><div class="meta"><div class="meta-row"><span class="k">${u.people}</span><p class="vv">${e.people}</p></div><div class="meta-row"><span class="k">${u.events}</span><p class="vv">${e.events}</p></div></div><div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite}${ver}</div></div><div class="thread-line"><span class="t">🧵</span><p><b>${u.christLabel}</b> · ${e.christ}</p></div><div class="love-note"><span class="lh">💛</span><p><b>${u.loveLabel}</b> · ${pack.love[i]}</p></div>${misHtml}<details class="more"><summary><span class="arr">▸</span> ${u.more}</summary><div class="body">${e.detail}</div></details><div class="next">${e.next}</div></div></div></div></section>`;
+  }).join('');
+}
+function coreHtml(pack){
+  const ver = pack.ui.version ? (' '+pack.ui.version) : '';
+  return pack.core.map((c,idx)=>`<div class="core reveal"><div class="ic">${CORE[idx].ic}</div><h3>${c.title}</h3><p>${c.body}</p><div class="v">“<em>${c.vtext}</em>” — ${c.vref}${ver}</div></div>`).join('');
+}
+
+// ---- 구조화 데이터(JSON-LD): WebSite + FAQPage ----
+const stripTags = s => String(s).replace(/<[^>]+>/g,' ');
+const decodeEnt = s => s.replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&nbsp;/g,' ');
+const cleanText = s => decodeEnt(stripTags(String(s))).replace(/[▸►]/g,'').replace(/\s+/g,' ').trim();
+function faqLd(s){
+  const pairs = [['faq.q1','faq.a1'],['faq.q2','faq.a2'],['faq.q3','faq.a3']];
+  const main = pairs.filter(([q,a])=>s&&s[q]&&s[a]).map(([q,a])=>({
+    '@type':'Question', name: cleanText(s[q]),
+    acceptedAnswer:{ '@type':'Answer', text: cleanText(s[a]) }
+  }));
+  return { '@type':'FAQPage', mainEntity: main };
+}
+function ldBlock({ name, desc, url, code, s }){
+  const site = { '@type':'WebSite', name, url, inLanguage: code, description: desc };
+  const graph = s && faqLd(s).mainEntity.length ? [site, faqLd(s)] : [site];
+  return '<script type="application/ld+json">\n' + JSON.stringify({ '@context':'https://schema.org', '@graph': graph }) + '\n</script>';
 }
 
 // ---- OG 이미지 생성 ----
@@ -122,11 +210,9 @@ function hreflangBlock(){
   lines.push(`<link rel="alternate" hreflang="x-default" href="${ORIGIN}/" />`);
   return lines.join('\n');
 }
-
-// ---- 페이지 생성 ----
-const src = fs.readFileSync(`${root}/index.html`, 'utf8');
 const HREF = hreflangBlock();
 
+// ---- 페이지 생성 ----
 function makePage(m){
   const url = `${ORIGIN}/${m.code}/`;
   const img = `${ORIGIN}/og-${m.code}.png`;
@@ -155,6 +241,16 @@ function makePage(m){
   h = h.replace('<meta name="twitter:title" content="한눈에 보는 성경 이야기" />', `<meta name="twitter:title" content="${xml(m.brand)}" />`);
   h = h.replace('<meta name="twitter:description" content="스크롤 한 번으로 성경의 큰 줄거리와 예수님이 오신 이유를 만나보세요." />', `<meta name="twitter:description" content="${xml(m.desc)}" />`);
   h = h.replace('<meta name="twitter:image" content="https://one-scroll-bible.com/og.png" />', `<meta name="twitter:image" content="${img}" />`);
+
+  // ---- 본문 프리렌더 (JS 없이도 현지어 본문 노출 → 검색/AI 크롤러 대응) ----
+  const pack = packFor(m.code);
+  if (pack) {
+    if (pack.s) for (const k of Object.keys(pack.s)) h = setInner(h, k, pack.s[k]);
+    h = h.replace('<main id="epochs"></main>', `<main id="epochs">${epochsHtml(pack)}</main>`);
+    h = h.replace('<div class="core-grid" id="core"></div>', `<div class="core-grid" id="core">${coreHtml(pack)}</div>`);
+    h = h.replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>/,
+      ldBlock({ name: pack.brand, desc: (pack.share && pack.share.text) || m.desc, url, code: m.code, s: pack.s }));
+  }
   return h;
 }
 
@@ -168,13 +264,16 @@ for (const L of LANGS) {
   generated.push(L.code);
 }
 
-// ---- 루트(index.html)에 hreflang 주입 (없을 때만) ----
-let rootHtml = fs.readFileSync(`${root}/index.html`, 'utf8');
+// ---- 루트(index.html): hreflang(없을 때만) + JSON-LD(WebSite+FAQPage, 결정적 치환) ----
+let rootHtml = src;
 if (!rootHtml.includes('hreflang=')) {
   rootHtml = rootHtml.replace('<link rel="canonical" href="https://one-scroll-bible.com/" />',
     `<link rel="canonical" href="${ORIGIN}/" />\n${HREF}`);
-  fs.writeFileSync(`${root}/index.html`, rootHtml);
 }
+const koS = {}; for (const k of ['faq.q1','faq.a1','faq.q2','faq.a2','faq.q3','faq.a3']) koS[k] = getInner(src, k);
+rootHtml = rootHtml.replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>/,
+  ldBlock({ name: KO.brand, desc: KO.desc, url: `${ORIGIN}/`, code: 'ko', s: koS }));
+if (rootHtml !== src) fs.writeFileSync(`${root}/index.html`, rootHtml);
 
 // ---- sitemap.xml ----
 const today = new Date().toISOString().slice(0,10);
@@ -184,6 +283,27 @@ const urls = LANGS.map(L => {
 }).join('\n');
 fs.writeFileSync(`${root}/sitemap.xml`, `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`);
 
+// ---- llms.txt (LLM/AI 엔진용 사이트 요약) ----
+const llms = `# Bible in One Scroll — 한눈에 보는 성경 이야기
+
+> ${EN.desc}
+> ${KO.desc}
+
+The whole Bible told as one scrollable, mobile-friendly page: Creation → Fall → Patriarchs → Exodus → Conquest/Judges → United Kingdom → Divided Kingdom → Exile → Return → Silent Years → Jesus → The Church → Restoration (Second Coming) — leading to the gospel and a prayer to receive Christ. Perspective: the evangelical · Reformed redemptive-historical view shared by most of the Korean Protestant church. Scripture is quoted from each language's representative translation. Available in 15 languages.
+
+Home: ${ORIGIN}/
+
+## Language pages
+${LANGS.map(L=>`- ${L.code}: ${L.code==='ko'?ORIGIN+'/':ORIGIN+'/'+L.code+'/'}`).join('\n')}
+
+## Resources
+- Sitemap: ${ORIGIN}/sitemap.xml
+
+## Contact
+- num2323studio@gmail.com
+`;
+fs.writeFileSync(`${root}/llms.txt`, llms);
+
 console.log('생성된 언어 페이지:', generated.join(', '));
 console.log('OG 이미지: 생성', imgOK, '· 건너뜀', imgSkip, imgSkip?'(rsvg/폰트 없음 → 커밋된 이미지 사용)':'');
-console.log('완료. 총', LANGS.length, '개 언어 (루트=ko + 하위', generated.length, '개)');
+console.log('완료. 총', LANGS.length, '개 언어 (루트=ko + 하위', generated.length, '개) · 본문 프리렌더 + JSON-LD + llms.txt');
