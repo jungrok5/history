@@ -374,6 +374,13 @@
   .ss-close{position:absolute;top:12px;right:14px;border:0;background:transparent;color:var(--muted);font-size:18px;cursor:pointer}
   [dir=rtl] .ss-title{margin:2px 4px 16px 40px}
   [dir=rtl] .ss-close{right:auto;left:14px}
+  #qrModal{position:fixed;inset:0;z-index:310;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,.6);backdrop-filter:blur(2px)}
+  #qrModal[hidden]{display:none}
+  .qr-card{background:#fff;border-radius:18px;padding:24px 22px 18px;text-align:center;position:relative;max-width:300px;box-shadow:0 16px 40px -12px rgba(0,0,0,.6)}
+  .qr-card img{display:block;width:240px;height:240px;border-radius:8px;margin:6px auto 0}
+  .qr-url{color:#444;font-size:12px;margin:12px 0 8px;word-break:break-all}
+  .qr-dl{display:inline-block;color:#0e1118;font-size:13px;font-weight:600;text-decoration:underline;cursor:pointer}
+  .qr-card .ss-close{color:#999}
 </style>
 </head>
 <body>
@@ -401,8 +408,10 @@
 <button data-ch="x"><span class="ic">𝕏</span>X</button>
 <button data-ch="facebook"><span class="ic">📘</span>Facebook</button>
 <button data-ch="image"><span class="ic">🖼️</span>Image</button>
+<button data-ch="qr"><span class="ic">🔳</span>QR</button>
 <button data-ch="copy"><span class="ic">🔗</span>Copy</button>
 </div></div></div>
+<div id="qrModal" hidden><div class="qr-card"><button class="ss-close" id="qrClose" aria-label="Close">✕</button><img id="qrImg" alt="QR code" width="240" height="240" /><div class="qr-url" id="qrUrl"></div><a class="qr-dl" id="qrDl" download>⤓ Save QR</a></div></div>
 
 <header class="hero" data-sec="start" data-title="시작" data-label="시작" data-ga="hero">
   <div class="bgsky"></div>
@@ -1027,13 +1036,14 @@ function doChannel(ch){
   if(ch==='native'){ if(navigator.share){ navigator.share({title:s.title,text:text,url:url}).then(function(){gevent('share',{method:'native'});}).catch(function(){}); } else { copyLink(url); } closeShare(); return; }
   if(ch==='copy'){ copyLink(url); gevent('share',{method:'copy'}); closeShare(); return; }
   if(ch==='image'){ shareImage(s); gevent('share',{method:'image'}); closeShare(); return; }
+  if(ch==='qr'){ openQR(); closeShare(); return; }
   var L={whatsapp:'https://wa.me/?text='+both,telegram:'https://t.me/share/url?url='+u+'&text='+t,line:'https://line.me/R/msg/text/?'+both,x:'https://twitter.com/intent/tweet?text='+t+'&url='+u,facebook:'https://www.facebook.com/sharer/sharer.php?u='+u}[ch];
   if(L){ window.open(L,'_blank','noopener'); gevent('share',{method:ch}); }
   closeShare();
 }
 shareSheet.addEventListener('click',function(e){ if(e.target===shareSheet){closeShare();return;} var b=e.target.closest('[data-ch]'); if(b)doChannel(b.dataset.ch); });
 document.getElementById('ssClose').addEventListener('click',closeShare);
-document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!shareSheet.hidden)closeShare(); });
+document.addEventListener('keydown',function(e){ if(e.key==='Escape'){ if(!shareSheet.hidden)closeShare(); var qm=document.getElementById('qrModal'); if(qm&&!qm.hidden)qm.hidden=true; } });
 function shareSite(){ var sh=(curPack&&curPack.share)||{}; openShare({title:sh.title||(curPack&&curPack.brand)||document.title, text:sh.text||'', url:shareUrl(), img:(sh.title||(curPack&&curPack.brand)||'')+'\n'+(sh.text||'')}); }
 var _sb=document.getElementById('shareBtn'); if(_sb) _sb.addEventListener('click',shareSite);
 document.querySelectorAll('[data-share]').forEach(function(b){ b.addEventListener('click',shareSite); });
@@ -1043,7 +1053,7 @@ main.addEventListener('click',function(e){ var b=e.target.closest('.ep-share'); 
 main.addEventListener('toggle',function(e){ var d=e.target; if(d.tagName==='DETAILS'&&d.open&&d.classList.contains('more')){ var sec=d.closest('.epoch'); gevent('read_more',{scene:sec?+sec.dataset.sc:0}); } },true);
 
 /* 구절 카드 이미지 (캔버스 → 공유/저장) */
-function wrapText(ctx,text,cx,y,maxW,lh){ var line='',yy=y; for(var i=0;i<text.length;i++){ var test=line+text[i]; if(ctx.measureText(test).width>maxW&&line){ ctx.fillText(line,cx,yy); line=text[i]; yy+=lh; } else line=test; } if(line){ ctx.fillText(line,cx,yy); } return yy; }
+function wrapText(ctx,text,cx,y,maxW,lh){ var line='',yy=y; for(var i=0;i<text.length;i++){ var test=line+text[i]; if(ctx.measureText(test).width>maxW&&line){ ctx.fillText(line,cx,yy); line=text[i]; yy+=lh; } else line=test; } if(line){ ctx.fillText(line,cx,yy); } return yy+lh; }
 function shareImage(s){
   try{
     var c=document.createElement('canvas'); c.width=1080; c.height=1080; var x=c.getContext('2d');
@@ -1059,6 +1069,9 @@ function shareImage(s){
     },'image/png');
   }catch(e){ copyLink(s.url||shareUrl()); }
 }
+/* QR 코드 (현재 언어 페이지 URL — 인쇄·주보·포스터용) */
+function openQR(){ var code=curCode||'ko'; var img=document.getElementById('qrImg'); if(!img)return; img.src='qr-'+code+'.png'; document.getElementById('qrUrl').textContent=shareUrl(); var dl=document.getElementById('qrDl'); dl.href='qr-'+code+'.png'; dl.setAttribute('download','qr-one-scroll-bible-'+code+'.png'); document.getElementById('qrModal').hidden=false; gevent('share',{method:'qr'}); }
+(function(){ var qm=document.getElementById('qrModal'); if(!qm)return; var cl=document.getElementById('qrClose'); if(cl)cl.addEventListener('click',function(){qm.hidden=true;}); qm.addEventListener('click',function(e){ if(e.target===qm)qm.hidden=true; }); })();
 
 /* 섹션 노출 분석(언어별 이탈 지점 파악) */
 var _gaSeen={};
