@@ -172,10 +172,10 @@
     padding-left:15px;border-left:3px solid var(--c2)}
 
   .meta{margin:18px 0;border:1px solid var(--line);border-radius:13px;background:var(--card);overflow:hidden}
-  .meta-row{display:flex;gap:12px;padding:11px 14px}
+  .meta-row{display:flex;flex-direction:column;gap:3px;padding:11px 14px}
   .meta-row+.meta-row{border-top:1px solid var(--line)}
-  .meta-row .k{flex:none;width:38px;font-size:11px;letter-spacing:.06em;color:var(--c2);font-weight:700;padding-top:2px}
-  .meta-row .vv{font-size:14px;margin:0}
+  .meta-row .k{font-size:11px;letter-spacing:.06em;color:var(--c2);font-weight:700;text-transform:uppercase}
+  .meta-row .vv{font-size:14px;margin:0;overflow-wrap:break-word}
 
   .verse{position:relative;margin:20px 0;padding:18px 18px 16px 22px;border-radius:15px;
     background:linear-gradient(180deg,var(--card),transparent);border:1px solid var(--line)}
