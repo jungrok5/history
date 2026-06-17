@@ -842,10 +842,21 @@ var BOOKS={ko:{
  '디모데전서':'1TI','딤전':'1TI','디모데후서':'2TI','딤후':'2TI','디도서':'TIT','딛':'TIT','빌레몬서':'PHM','몬':'PHM','히브리서':'HEB','히':'HEB',
  '야고보서':'JAS','베드로전서':'1PE','벧전':'1PE','베드로후서':'2PE','벧후':'2PE','요한일서':'1JN','요일':'1JN','요한이서':'2JN','요이':'2JN','요한삼서':'3JN','요삼':'3JN','유다서':'JUD','요한계시록':'REV','계':'REV'
 }};
+BOOKS.en={
+ 'Genesis':'GEN','Exodus':'EXO','Leviticus':'LEV','Numbers':'NUM','Deuteronomy':'DEU','Joshua':'JOS','Judges':'JDG','Ruth':'RUT',
+ '1 Samuel':'1SA','2 Samuel':'2SA','1 Kings':'1KI','2 Kings':'2KI','1 Chronicles':'1CH','2 Chronicles':'2CH','Ezra':'EZR','Nehemiah':'NEH','Esther':'EST',
+ 'Job':'JOB','Psalms':'PSA','Psalm':'PSA','Proverbs':'PRO','Ecclesiastes':'ECC','Song of Songs':'SNG','Song of Solomon':'SNG',
+ 'Isaiah':'ISA','Jeremiah':'JER','Lamentations':'LAM','Ezekiel':'EZK','Daniel':'DAN','Hosea':'HOS','Joel':'JOL','Amos':'AMO','Obadiah':'OBA','Jonah':'JON','Micah':'MIC','Nahum':'NAM','Habakkuk':'HAB','Zephaniah':'ZEP','Haggai':'HAG','Zechariah':'ZEC','Malachi':'MAL',
+ 'Matthew':'MAT','Mark':'MRK','Luke':'LUK','John':'JHN','Acts':'ACT','Romans':'ROM','1 Corinthians':'1CO','2 Corinthians':'2CO','Galatians':'GAL','Ephesians':'EPH','Philippians':'PHP','Colossians':'COL','1 Thessalonians':'1TH','2 Thessalonians':'2TH','1 Timothy':'1TI','2 Timothy':'2TI','Titus':'TIT','Philemon':'PHM','Hebrews':'HEB','James':'JAS','1 Peter':'1PE','2 Peter':'2PE','1 John':'1JN','2 John':'2JN','3 John':'3JN','Jude':'JUD','Revelation':'REV'
+};
+var BOOKOPT={ko:{suf:'편|장',bare:false},en:{suf:'',bare:true}};
 var _reCache={};
 function refRe(code){ if(code in _reCache)return _reCache[code]; var BK=BOOKS[code]; if(!BK)return _reCache[code]=null;
+ var o=BOOKOPT[code]||{suf:'',bare:false};
  var toks=Object.keys(BK).sort(function(a,b){return b.length-a.length;}).map(function(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}).join('|');
- return _reCache[code]=new RegExp('('+toks+')\\s*(\\d+)\\s*(?::\\s*(\\d+(?:[-–]\\d+)?)|편|장)','g'); }
+ var pat = o.bare ? '('+toks+')\\s*(\\d+)(?:\\s*:\\s*(\\d+(?:[-–]\\d+)?))?'
+                  : '('+toks+')\\s*(\\d+)\\s*(?::\\s*(\\d+(?:[-–]\\d+)?)'+(o.suf?'|'+o.suf:'')+')';
+ return _reCache[code]=new RegExp(pat,'g'); }
 function linkifyRefs(html,code){ if(!html)return html; var BK=BOOKS[code]; if(!BK)return html; var re=refRe(code); if(!re)return html;
  function txt(t){ return t.replace(re,function(m,bk,ch,vs){ var usfm=BK[bk]+'.'+ch+'.'+(vs?vs.split(/[-–]/)[0]:'1'); var u=verseUrl(usfm,code); if(!u)return m; return '<a class="vlink" href="'+u+'" target="_blank" rel="noopener" data-ref="'+usfm+'">'+m+'</a>'; }); }
  var n=html.length,i=0,out='';
