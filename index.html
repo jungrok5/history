@@ -900,7 +900,7 @@ function renderCore(pack){
   pack.core.forEach((c,idx)=>{
     const d=document.createElement('div'); d.className='core reveal';
     d.innerHTML=linkifyRefs(`<div class="ic">${CORE[idx].ic}</div><h3>${c.title}</h3><p>${c.body}</p>`
-      +`<div class="v">“<em>${c.vtext}</em>” — ${vlink(CORE_REF[idx],c.vref,curCode)}${ver}</div>`,curCode);
+      +`<div class="v">“<em>${c.vtext}</em>” — ${BOOKS[curCode]?c.vref:vlink(CORE_REF[idx],c.vref,curCode)}${ver}</div>`,curCode);
     coreWrap.appendChild(d);
   });
 }
