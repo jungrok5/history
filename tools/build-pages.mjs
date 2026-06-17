@@ -139,7 +139,7 @@ function epochsHtml(pack){
   return pack.epochs.map((e,i)=>{
     const v = EPOCHS[i], mis = pack.mis[i];
     const misHtml = mis ? `<div class="myth"><div class="m-row"><span class="m-tag wrong">${u.mythWrong}</span><p>${mis.w}</p></div><div class="m-row"><span class="m-tag right">${u.mythRight}</span><p>${mis.t}</p></div></div>` : '';
-    return `<section class="epoch" data-title="${esc(e.title)}" data-label="${esc(e.title)}" style="--c1:${v.c1};--c2:${v.c2}"><div class="glow"></div><div class="wrap"><div class="ep-inner"><div class="txt"><div class="ep-icon">${v.emoji}</div><div class="badge"><span class="num">${i+1}</span><span class="tag">${e.tag}</span><span class="date">${e.date}</span></div><h2>${e.title}</h2><div class="oneline">${e.one}</div><div class="meta"><div class="meta-row"><span class="k">${u.people}</span><p class="vv">${e.people}</p></div><div class="meta-row"><span class="k">${u.events}</span><p class="vv">${e.events}</p></div></div><div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite}${ver}</div></div><div class="thread-line"><span class="t">🧵</span><p><b>${u.christLabel}</b> · ${e.christ}</p></div><div class="love-note"><span class="lh">💛</span><p><b>${u.loveLabel}</b> · ${pack.love[i]}</p></div>${misHtml}<details class="more"><summary><span class="arr">▸</span> ${u.more}</summary><div class="body">${e.detail}</div></details><div class="next">${e.next}</div></div></div></div></section>`;
+    return `<section class="epoch" id="s${i+1}" data-sc="${i+1}" data-title="${esc(e.title)}" data-label="${esc(e.title)}" style="--c1:${v.c1};--c2:${v.c2}"><div class="glow"></div><div class="wrap"><div class="ep-inner"><div class="txt"><div class="ep-icon">${v.emoji}</div><div class="badge"><span class="num">${i+1}</span><span class="tag">${e.tag}</span><span class="date">${e.date}</span><button class="ep-share" data-sc="${i+1}" aria-label="Share" title="Share">↗</button></div><h2>${e.title}</h2><div class="oneline">${e.one}</div><div class="meta"><div class="meta-row"><span class="k">${u.people}</span><p class="vv">${e.people}</p></div><div class="meta-row"><span class="k">${u.events}</span><p class="vv">${e.events}</p></div></div><div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite}${ver}</div></div><div class="thread-line"><span class="t">🧵</span><p><b>${u.christLabel}</b> · ${e.christ}</p></div><div class="love-note"><span class="lh">💛</span><p><b>${u.loveLabel}</b> · ${pack.love[i]}</p></div>${misHtml}<details class="more"><summary><span class="arr">▸</span> ${u.more}</summary><div class="body">${e.detail}</div></details><div class="next">${e.next}</div></div></div></div></section>`;
   }).join('');
 }
 function coreHtml(pack){
@@ -200,6 +200,14 @@ function buildImage(m){
   }
   return out.split('/').pop();
 }
+// PWA 아이콘 (다크 배경 + 금색 십자가). rsvg 없으면 커밋된 PNG 사용.
+function buildIcons(){
+  const svg = size => `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 512 512"><rect width="512" height="512" fill="#0e1118"/><text x="256" y="368" text-anchor="middle" font-family="${DEFAULT_TITLE}" font-size="300" fill="#e9b949">✝</text></svg>`;
+  for (const [name,size] of [['icon-512.png',512],['icon-192.png',192]]) {
+    try{ const tmp = `/tmp/${name}.svg`; fs.writeFileSync(tmp, svg(size)); execSync(`rsvg-convert -w ${size} -h ${size} "${tmp}" -o "${root}/${name}"`, { stdio:'ignore' }); imgOK++; }
+    catch(e){ imgSkip++; }
+  }
+}
 
 // ---- hreflang 블록 ----
 function hreflangBlock(){
@@ -254,6 +262,7 @@ function makePage(m){
   return h;
 }
 
+buildIcons();
 let generated = [];
 for (const L of LANGS) {
   const m = meta[L.code];

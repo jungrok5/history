@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 <meta name="theme-color" content="#0e1118" />
 <meta name="color-scheme" content="dark light" />
+<link rel="manifest" href="/manifest.webmanifest" />
+<link rel="apple-touch-icon" href="/icon-192.png" />
 <title>한눈에 보는 성경 이야기 · 창조에서 교회까지</title>
 <meta name="description" content="창조부터 회복까지 — 성경 전체를 한 편의 이야기로 스크롤하며 한눈에. 복음의 핵심과 영접 기도까지, 여러 언어 지원." />
 <meta name="keywords" content="성경 요약, 성경 한눈에, 성경 줄거리, 성경 통독, 성경 전체 흐름, 성경 개요, 복음, 복음 제시, 구속사, 창조 타락 구속 회복, 예수님, 예수님은 누구인가, 구원의 길, 영접 기도, 기독교 입문, 성경 입문, 성경 공부" />
@@ -351,6 +353,27 @@
   @media(prefers-reduced-motion:reduce){
     .txt{transition:opacity .3s!important;transform:none!important}
   }
+
+  /* 장면별 공유 버튼 + 공유 시트 */
+  .ep-share{margin-left:auto;border:1px solid var(--line);background:var(--card);color:var(--muted);
+    border-radius:999px;width:30px;height:30px;cursor:pointer;font-size:14px;line-height:1;flex:none;transition:.2s}
+  .ep-share:hover{border-color:var(--accent);color:var(--accent)}
+  [dir=rtl] .ep-share{margin-left:0;margin-right:auto}
+  #shareSheet{position:fixed;inset:0;z-index:300;display:flex;align-items:flex-end;justify-content:center;
+    background:rgba(0,0,0,.55);backdrop-filter:blur(2px)}
+  #shareSheet[hidden]{display:none}
+  .ss-card{background:var(--bg2);border:1px solid var(--line);border-radius:18px 18px 0 0;width:100%;
+    max-width:480px;padding:18px 16px 28px;position:relative;box-shadow:0 -16px 40px -12px rgba(0,0,0,.6)}
+  @media(min-width:520px){#shareSheet{align-items:center}.ss-card{border-radius:18px}}
+  .ss-title{font-family:var(--serif);font-size:16px;margin:2px 40px 16px 4px;color:var(--ink)}
+  .ss-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+  .ss-grid button{display:flex;flex-direction:column;align-items:center;gap:6px;cursor:pointer;
+    border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:13px;padding:13px 4px;font-size:11.5px;transition:.2s}
+  .ss-grid button:hover{border-color:var(--accent)}
+  .ss-grid .ic{font-size:21px;line-height:1}
+  .ss-close{position:absolute;top:12px;right:14px;border:0;background:transparent;color:var(--muted);font-size:18px;cursor:pointer}
+  [dir=rtl] .ss-title{margin:2px 4px 16px 40px}
+  [dir=rtl] .ss-close{right:auto;left:14px}
 </style>
 </head>
 <body>
@@ -370,8 +393,18 @@
 <nav id="map"></nav>
 <button id="toTop" title="맨 위로">↑</button>
 <div id="toast" data-i18n="ui.toast">링크가 복사되었어요 📋</div>
+<div id="shareSheet" hidden><div class="ss-card"><button class="ss-close" id="ssClose" aria-label="Close">✕</button><div class="ss-title" id="ssTitle">Share</div><div class="ss-grid">
+<button data-ch="native"><span class="ic">📲</span>Share</button>
+<button data-ch="whatsapp"><span class="ic">🟢</span>WhatsApp</button>
+<button data-ch="telegram"><span class="ic">✈️</span>Telegram</button>
+<button data-ch="line"><span class="ic">💬</span>LINE</button>
+<button data-ch="x"><span class="ic">𝕏</span>X</button>
+<button data-ch="facebook"><span class="ic">📘</span>Facebook</button>
+<button data-ch="image"><span class="ic">🖼️</span>Image</button>
+<button data-ch="copy"><span class="ic">🔗</span>Copy</button>
+</div></div></div>
 
-<header class="hero" data-sec="start" data-title="시작" data-label="시작">
+<header class="hero" data-sec="start" data-title="시작" data-label="시작" data-ga="hero">
   <div class="bgsky"></div>
   <div class="kicker" data-i18n="hero.kicker">창조에서 교회까지</div>
   <h1 data-i18n="hero.title">한눈에 보는<br><span class="em">성경 이야기</span></h1>
@@ -379,7 +412,7 @@
   <div class="scrollcue" data-i18n="hero.cue">아래로 스크롤<span>↓</span></div>
 </header>
 
-<section class="thread" data-sec="thread" data-title="하나의 줄거리" data-label="줄거리">
+<section class="thread" data-sec="thread" data-title="하나의 줄거리" data-label="줄거리" data-ga="thread">
   <div class="wrap">
     <div class="eyebrow" data-i18n="thread.eyebrow">성경 전체를 꿰는 한 문장</div>
     <h2 data-i18n="thread.h2">성경은 결국 한 편의 이야기입니다</h2>
@@ -390,7 +423,7 @@
 
 <main id="epochs"></main>
 
-<section class="gospel" data-sec="gospel" data-title="복음의 핵심" data-label="복음핵심">
+<section class="gospel" data-sec="gospel" data-title="복음의 핵심" data-label="복음핵심" data-ga="gospel">
   <div class="wrap">
     <div class="eyebrow reveal" data-i18n="gospel.eyebrow">이 이야기가 ‘나’에게 주는 의미</div>
     <h2 class="reveal" data-i18n="gospel.h2">성경의 진짜 핵심</h2>
@@ -456,7 +489,7 @@
       </details>
     </div>
 
-    <div class="respond reveal">
+    <div class="respond reveal" data-ga="respond">
       <h3 data-i18n="respond.h3">그래서, 나는 어떻게?</h3>
       <p class="r-sub" data-i18n="respond.sub">이 사랑은 정보가 아니라 <b>초대</b>입니다. 나를 대신해 못 박히신 그 사랑이 마음에 닿았다면, 지금 이 기도를 한 문장씩 천천히 따라 드려 보세요.</p>
       <div class="prayer" data-i18n="respond.prayer">
@@ -473,14 +506,14 @@
   </div>
 </section>
 
-<section class="closing">
+<section class="closing" data-ga="closing">
   <p data-i18n="closing.main">한 분의 하나님이,<br>한 편의 이야기로,<br>끝까지 포기하지 않는 <em>사랑</em>으로<br>우리를 찾아오십니다.</p>
   <p class="closing-verse" data-i18n="closing.verse">“사망이나 생명이나 … 그 무엇도 우리를 우리 주 그리스도 예수 안에 있는 하나님의 사랑에서 끊을 수 없으리라” — 로마서 8:38-39 (개역개정)</p>
   <p class="small" data-i18n="closing.small">이 줄거리 위에 율법·시가서·예언서·서신서가 “살”을 붙입니다.<br>이제 어느 책을 펴도 “지금 이야기의 어디쯤인지” 보일 거예요.</p>
   <button class="share-cta" data-share data-i18n="closing.share">↗ 이 이야기 공유하기</button>
 </section>
 
-<section class="about" data-sec="about" data-title="이 콘텐츠에 대하여" data-label="안내">
+<section class="about" data-sec="about" data-title="이 콘텐츠에 대하여" data-label="안내" data-ga="about">
   <div class="wrap">
     <p class="about-line reveal" data-i18n="about.line">한국 개신교 대다수가 공유하는 <b>복음주의·개혁주의 구속사(救贖史)</b> 관점에 기반하여, <b>개역개정판</b>을 기준으로 정리했습니다.</p>
     <p class="about-contact reveal" data-i18n="about.contact">문의 · 피드백 — <a id="contact" class="mail">메일 보기</a></p>
@@ -829,6 +862,7 @@ function renderEpochs(pack){
   pack.epochs.forEach((e,i)=>{
     const v=EPOCHS[i], mis=pack.mis[i];
     const s=document.createElement('section'); s.className='epoch';
+    s.id='s'+(i+1); s.dataset.sc=i+1;
     s.dataset.title=e.title; s.dataset.label=e.title;
     s.style.setProperty('--c1',v.c1); s.style.setProperty('--c2',v.c2);
     s.innerHTML=`
@@ -836,7 +870,7 @@ function renderEpochs(pack){
     <div class="wrap"><div class="ep-inner">
       <div class="txt">
         <div class="ep-icon">${v.emoji}</div>
-        <div class="badge"><span class="num">${i+1}</span><span class="tag">${e.tag}</span><span class="date">${e.date}</span></div>
+        <div class="badge"><span class="num">${i+1}</span><span class="tag">${e.tag}</span><span class="date">${e.date}</span><button class="ep-share" data-sc="${i+1}" aria-label="Share" title="Share">↗</button></div>
         <h2>${e.title}</h2>
         <div class="oneline">${e.one}</div>
         <div class="meta">
@@ -861,7 +895,8 @@ const toTop=document.getElementById('toTop');
 function onScroll(){const h=document.documentElement,max=h.scrollHeight-h.clientHeight;prog.style.width=(max>0?h.scrollTop/max*100:0)+'%';toTop.classList.toggle('show',h.scrollTop>600);}
 window.addEventListener('scroll',onScroll,{passive:true});
 toTop.addEventListener('click',()=>window.scrollTo({top:0,behavior:'smooth'}));
-const slideObs=new IntersectionObserver((es)=>{es.forEach(en=>en.target.classList.toggle('in',en.isIntersecting));},{threshold:.28});
+const _seenSc={};
+const slideObs=new IntersectionObserver((es)=>{es.forEach(en=>{en.target.classList.toggle('in',en.isIntersecting);const sc=en.target.dataset.sc;if(en.isIntersecting&&sc&&!_seenSc[sc]){_seenSc[sc]=1;gevent('scene_view',{scene:+sc});}});},{threshold:.28});
 const revObs=new IntersectionObserver((es)=>{es.forEach(en=>{if(en.isIntersecting){en.target.classList.add('in');revObs.unobserve(en.target);}});},{threshold:.15});
 function setupObservers(){
   slideObs.disconnect();
@@ -922,6 +957,8 @@ function doApply(pack,code){
   var cur=document.getElementById('langCur'); if(cur) cur.textContent=pack.menuName||code;
   try{localStorage.setItem('lang',code);}catch(e){}
   [...document.querySelectorAll('#langList li[data-code]')].forEach(li=>li.setAttribute('aria-selected', li.dataset.code===code?'true':'false'));
+  gevent('language_select',{language:code});
+  gotoHash();
 }
 
 /* 검색형 언어 선택창 */
@@ -967,25 +1004,69 @@ themeBtn.addEventListener('click',()=>{
 });
 
 /* 공유 (모바일: 네이티브 공유 시트 → 카카오톡 등 / PC: 링크 복사) */
-function shareSite(){
-  const sh=(curPack&&curPack.share)||{};
-  const langPath=(curCode&&curCode!=='ko')?(curCode+'/'):'';
-  const data={
-    title: sh.title||(curPack&&curPack.brand)||document.title,
-    text: sh.text||'',
-    url:'https://one-scroll-bible.com/'+langPath
-  };
-  if(navigator.share){ navigator.share(data).catch(function(){}); }
-  else if(navigator.clipboard){ navigator.clipboard.writeText(data.url).then(showToast,showToast); }
-  else { showToast(); }
-}
 function showToast(){
   var t=document.getElementById('toast'); if(!t) return;
   t.classList.add('show'); clearTimeout(window.__toastT);
   window.__toastT=setTimeout(function(){ t.classList.remove('show'); },1900);
 }
+/* GA4 이벤트 */
+function gevent(n,p){ if(window.gtag){ try{ gtag('event',n,Object.assign({language:curCode||'ko'},p||{})); }catch(e){} } }
+/* 현재 언어 URL + 해시 이동 */
+function shareUrl(){ var lp=(curCode&&curCode!=='ko')?(curCode+'/'):''; return 'https://one-scroll-bible.com/'+lp; }
+function gotoHash(){ try{ if(location.hash&&location.hash.length>1){ var el=document.querySelector(location.hash); if(el) setTimeout(function(){ el.scrollIntoView(); },70); } }catch(e){} }
+window.addEventListener('hashchange',gotoHash);
+
+/* 공유 시트 (전역 + 장면별 + 다채널 + 구절 이미지) */
+var shareSheet=document.getElementById('shareSheet'); var _shctx=null;
+function openShare(ctx){ _shctx=ctx; var t=document.getElementById('ssTitle'); if(t)t.textContent=ctx.title||((curPack&&curPack.brand)||''); shareSheet.hidden=false; }
+function closeShare(){ shareSheet.hidden=true; }
+function copyLink(u){ if(navigator.clipboard){ navigator.clipboard.writeText(u).then(showToast,showToast); } else { showToast(); } }
+function doChannel(ch){
+  if(!_shctx) return; var s=_shctx, text=s.text||'', url=s.url||shareUrl();
+  var u=encodeURIComponent(url), t=encodeURIComponent(text), both=encodeURIComponent(text?(text+'\n'+url):url);
+  if(ch==='native'){ if(navigator.share){ navigator.share({title:s.title,text:text,url:url}).then(function(){gevent('share',{method:'native'});}).catch(function(){}); } else { copyLink(url); } closeShare(); return; }
+  if(ch==='copy'){ copyLink(url); gevent('share',{method:'copy'}); closeShare(); return; }
+  if(ch==='image'){ shareImage(s); gevent('share',{method:'image'}); closeShare(); return; }
+  var L={whatsapp:'https://wa.me/?text='+both,telegram:'https://t.me/share/url?url='+u+'&text='+t,line:'https://line.me/R/msg/text/?'+both,x:'https://twitter.com/intent/tweet?text='+t+'&url='+u,facebook:'https://www.facebook.com/sharer/sharer.php?u='+u}[ch];
+  if(L){ window.open(L,'_blank','noopener'); gevent('share',{method:ch}); }
+  closeShare();
+}
+shareSheet.addEventListener('click',function(e){ if(e.target===shareSheet){closeShare();return;} var b=e.target.closest('[data-ch]'); if(b)doChannel(b.dataset.ch); });
+document.getElementById('ssClose').addEventListener('click',closeShare);
+document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!shareSheet.hidden)closeShare(); });
+function shareSite(){ var sh=(curPack&&curPack.share)||{}; openShare({title:sh.title||(curPack&&curPack.brand)||document.title, text:sh.text||'', url:shareUrl(), img:(sh.title||(curPack&&curPack.brand)||'')+'\n'+(sh.text||'')}); }
 var _sb=document.getElementById('shareBtn'); if(_sb) _sb.addEventListener('click',shareSite);
 document.querySelectorAll('[data-share]').forEach(function(b){ b.addEventListener('click',shareSite); });
+/* 장면별 공유 (이벤트 위임) */
+main.addEventListener('click',function(e){ var b=e.target.closest('.ep-share'); if(!b)return; var i=+b.dataset.sc-1; var e2=curPack&&curPack.epochs&&curPack.epochs[i]; if(!e2)return; openShare({title:e2.title, text:e2.one+'\n“'+e2.q+'” '+e2.cite, url:shareUrl()+'#s'+(i+1), img:'“'+e2.q+'”\n— '+e2.cite}); });
+/* 더보기 열람 이벤트 */
+main.addEventListener('toggle',function(e){ var d=e.target; if(d.tagName==='DETAILS'&&d.open&&d.classList.contains('more')){ var sec=d.closest('.epoch'); gevent('read_more',{scene:sec?+sec.dataset.sc:0}); } },true);
+
+/* 구절 카드 이미지 (캔버스 → 공유/저장) */
+function wrapText(ctx,text,cx,y,maxW,lh){ var line='',yy=y; for(var i=0;i<text.length;i++){ var test=line+text[i]; if(ctx.measureText(test).width>maxW&&line){ ctx.fillText(line,cx,yy); line=text[i]; yy+=lh; } else line=test; } if(line){ ctx.fillText(line,cx,yy); } return yy; }
+function shareImage(s){
+  try{
+    var c=document.createElement('canvas'); c.width=1080; c.height=1080; var x=c.getContext('2d');
+    x.fillStyle='#0e1118'; x.fillRect(0,0,1080,1080);
+    var g=x.createRadialGradient(540,0,0,540,0,980); g.addColorStop(0,'rgba(233,185,73,.18)'); g.addColorStop(1,'rgba(14,17,24,0)'); x.fillStyle=g; x.fillRect(0,0,1080,1080);
+    x.textAlign='center'; x.fillStyle='#e9b949'; x.font='72px serif'; x.fillText('✝',540,200);
+    var lines=(s.img||s.text||'').split('\n'); var y=380;
+    lines.forEach(function(line){ var cite=/^—/.test(line); x.fillStyle=cite?'#e9b949':'#f4efe6'; x.font=cite?'500 34px sans-serif':'600 48px serif'; y=wrapText(x,line,540,y,900,cite?48:66)+(cite?12:26); });
+    x.fillStyle='#9aa3b2'; x.font='30px sans-serif'; x.fillText('one-scroll-bible.com',540,1015);
+    c.toBlob(function(b){ if(!b){ copyLink(s.url||shareUrl()); return; } var file=new File([b],'one-scroll-bible.png',{type:'image/png'});
+      if(navigator.canShare&&navigator.canShare({files:[file]})){ navigator.share({files:[file],text:s.text,url:s.url}).catch(function(){}); }
+      else { var a=document.createElement('a'); a.href=URL.createObjectURL(b); a.download='one-scroll-bible.png'; a.click(); showToast(); }
+    },'image/png');
+  }catch(e){ copyLink(s.url||shareUrl()); }
+}
+
+/* 섹션 노출 분석(언어별 이탈 지점 파악) */
+var _gaSeen={};
+var gaObs=new IntersectionObserver(function(es){ es.forEach(function(en){ if(en.isIntersecting){ var k=en.target.getAttribute('data-ga'); if(k&&!_gaSeen[k]){ _gaSeen[k]=1; gevent('section_view',{section:k}); if(k==='respond')gevent('prayer_view'); } } }); },{threshold:.4});
+document.querySelectorAll('[data-ga]').forEach(function(el){ gaObs.observe(el); });
+
+/* PWA 서비스워커 등록 */
+if('serviceWorker' in navigator){ window.addEventListener('load',function(){ navigator.serviceWorker.register('/sw.js').catch(function(){}); }); }
 </script>
 </body>
 </html>
