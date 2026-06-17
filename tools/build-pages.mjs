@@ -31,6 +31,7 @@ const KO = {
   docTitle:'한눈에 보는 성경 이야기 · 창조에서 교회까지',
   kicker:'창조에서 교회까지',
   desc:'스크롤 한 번으로 성경의 큰 줄거리와 예수님이 오신 이유를 만나보세요.',
+  keywords:'성경 요약, 성경 한눈에, 성경 줄거리, 성경 통독, 성경 전체 흐름, 성경 개요, 복음, 복음 제시, 구속사, 창조 타락 구속 회복, 예수님, 예수님은 누구인가, 구원의 길, 영접 기도, 기독교 입문, 성경 입문, 성경 공부',
 };
 // English 팩은 index.html에 인라인 → 직접 지정
 const EN = {
@@ -38,6 +39,7 @@ const EN = {
   docTitle:'Bible in One Scroll · From Creation to the Church',
   kicker:'From Creation to the Church',
   desc:'In a single scroll, discover the Bible’s big story — and why Jesus came.',
+  keywords:'Bible summary, whole Bible overview, Bible storyline, Bible in one scroll, gospel, gospel message, redemptive history, creation fall redemption restoration, who is Jesus, how to be saved, plan of salvation, Bible for beginners, Bible study, Christianity basics',
 };
 
 const FONT_TITLE = {
@@ -130,6 +132,14 @@ function makePage(m){
   const img = `${ORIGIN}/og-${m.code}.png`;
   let h = src;
   h = h.replace('<html lang="ko">', `<html lang="${m.code}" dir="${m.dir}">`);
+  // 템플릿의 기존 hreflang 제거(중복 방지) — 아래에서 한 벌만 다시 주입
+  h = h.replace(/[ \t]*<link rel="alternate" hreflang="[^"]*" href="[^"]*" \/>\n?/g, '');
+  // 언어별 keywords (맵에 없으면 한국어 잔존 대신 제거)
+  if (m.keywords) {
+    h = h.replace(/(<meta name="keywords" content=")[^"]*(")/, `$1${xml(m.keywords)}$2`);
+  } else {
+    h = h.replace(/[ \t]*<meta name="keywords"[^>]*>\n?/, '');
+  }
   // base + hreflang + boot 언어를 charset 뒤에 삽입
   h = h.replace('<meta charset="UTF-8" />',
     `<meta charset="UTF-8" />\n<base href="${ORIGIN}/" />\n<script>window.__BOOTLANG__=${JSON.stringify(m.code)}</script>\n${HREF}`);
