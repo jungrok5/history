@@ -1,0 +1,343 @@
+{
+ "menuName": "Hausa",
+ "htmlLang": "ha",
+ "dir": "ltr",
+ "brand": "Littafi Mai Tsarki a Gungumi Ɗaya",
+ "docTitle": "Littafi Mai Tsarki a Gungumi Ɗaya · Daga Halitta zuwa Ikkilisiya",
+ "share": {
+  "title": "Littafi Mai Tsarki a Gungumi Ɗaya",
+  "text": "A gungumi guda, ka gano babban labarin Littafi Mai Tsarki — da kuma dalilin zuwan Yesu."
+ },
+ "ui": {
+  "people": "Mutane",
+  "events": "Muhimman abubuwa",
+  "christLabel": "Yana nuni ga Yesu",
+  "loveLabel": "Ƙauna marar ƙarewa",
+  "mythWrong": "Kuskuren da aka saba",
+  "mythRight": "Gaskiyar abin",
+  "more": "Ƙara karantawa",
+  "version": "(LMT)"
+ },
+ "labels": {
+  "start": "Farko",
+  "thread": "Zaren labari",
+  "gospel": "Bishara",
+  "about": "Game da mu"
+ },
+ "s": {
+  "ui.share": "↗ Raba",
+  "ui.toast": "An kwafi mahaɗi 📋",
+  "ui.footer": "Littafi Mai Tsarki a Gungumi Ɗaya · An ɗauko ayoyi daga Littafi Mai Tsarki (LMT)",
+  "hero.kicker": "DAGA HALITTA ZUWA IKKILISIYA",
+  "hero.title": "Littafi Mai Tsarki,<br><span class=\"em\">a gungumi ɗaya</span>",
+  "hero.sub": "A gungumi guda, ka gano babban labarin Littafi Mai Tsarki — da kuma dalilin zuwan Yesu.",
+  "hero.cue": "Gungura ƙasa<span>↓</span>",
+  "thread.eyebrow": "JUMLA GUDA DA TAKE HAƊA KOWANE ABU",
+  "thread.h2": "A ƙarshe, Littafi Mai Tsarki labari ɗaya ne kaɗai",
+  "thread.flow": "<b>Alkawari</b><span class=\"arw\">→</span><b>Jira</b><span class=\"arw\">→</span><b>Cikawa</b>",
+  "thread.note": "Allah ya yi <b>alkawari</b> (alkawarin), mutane suka yi <b>jira</b> na dogon lokaci, daga ƙarshe kuwa kowane abu ya <b>cika</b> ya kuma kammala a cikin Yesu. Bi al'amura 13 da ke ƙasa cikin wannan zare — ka danna <b>“Ƙara karantawa”</b> a kowane katin domin labari mai zurfi.",
+  "gospel.eyebrow": "ABIN DA WANNAN LABARI YAKE NUFI GA “NI”",
+  "gospel.h2": "Ainihin tushen Littafi Mai Tsarki",
+  "gospel.lead": "Littafi Mai Tsarki <b>ba littafin koyarwa ba ne na “zama mutumin kirki.”</b>",
+  "gospel.sublead": "Labari ne na yadda Allah, <b>ta wurin alheri kaɗai</b>, ya ceci masu zunubi waɗanda ba za su taɓa iya ceton kansu ba. A tsakiyarsa kuwa Yesu Almasihu ne.",
+  "gospel.mirror": "<h3>Da'irar Isra'ila marar ƙarewa hoton “ni” ne tabbas</h3><div class=\"cycle\"><b>Bautar gumaka</b><span class=\"a\">→</span><b>Wahala</b><span class=\"a\">→</span><b>Kuka ga Allah</b><span class=\"a\">→</span><b>Allah ya ceta</b><span class=\"a\">→</span><b>Bautar gumaka kuma…</b></div><p>Tun daga lokacin Alƙalai har zuwa zaman bauta, Isra'ila ta maimaita wannan da'ira ba ƙarewa. Littafi Mai Tsarki bai rubuta wannan ba domin mu yi musu ba'a, “Su wawaye ne haka.”</p><p><b>Madubi</b> ne. Ba batun “Isra'ila ta yi haka ba” ne, sai dai <b>“ni ma haka nake”</b> (1 Korintiyawa 10:11).</p><p><b>Gunki</b> ba mutum-mutumin da aka sassaƙa ba ne kawai. <b>Duk abin da muke ƙauna ko amincewa fiye da Allah</b> ne — kuɗi, nasara, yabo, mutane, har ma da kaina. Yin amfani da Allah <b>a matsayin hanyar samun abin da nake so</b> shi ma bautar gumaka ce.</p><p class=\"punch\">A ƙarshe, gunki mafi zurfi shi ne “kaina, zaune a kan kursiyin Allah.”</p>",
+  "gospel.coreIntro": "To, ta yaya Allah yake ceton irin wannan mai zunubi? Ga tushen bisharar da Littafi Mai Tsarki yake shela.",
+  "gospel.crux": "<p class=\"crux-lead\">Dukan Littafi Mai Tsarki yana nuni ga wuri guda.</p><p>Mutum bai iya karya da'irar zunubi da kansa ba, kuma babu wani mai adalci. Saboda haka sai dole wani ya <b>biya bashin a madadinsu</b>.</p><p>Yesu bai zo kawai domin ya ba da koyarwa mai kyau ba. Da yake babu wata hanya da za a cece ni, <b>sai dole ya zo.</b></p><p class=\"crux-punch\">Wanda ya kamata a rataye a kan wannan gicciye <b>ni</b> ne.<br>Yesu ya ɗauki <b>zunubina</b> aka kuma kafa shi a can a madadina.</p><div class=\"crux-verse\">“Amma aka yi masa rauni saboda zunubanmu, Aka daddoke shi saboda muguntar da muka aikata… Dūkan da aka yi ta yi masa, ya sa muka warke.” — Ishaya 53:5</div>",
+  "faq.h": "Har yanzu kana kokawa da wani abu?",
+  "faq.q1": "<span class=\"arr\">▸</span> To, mai kisankai kawai ya gaskata sai ya tafi sama, alhali wanda ya yi rayuwa ta kirki amma bai gaskata ba zai tafi jahannama?",
+  "faq.a1": "<p>Tambaya ce mai ma'ana. Amma akwai kurakurai biyu a ɓoye a cikinta.</p><p><b>① Littafi Mai Tsarki ba ya raba mutane zuwa “masu kirki da marasa kirki.”</b> Ma'auni ba “gwama da maƙwabci” ba ne, sai dai “cikakkiyar tsarkin Allah.” A gabansa, babu wanda yake “mai kirki sosai” (Romawa 3:23). Don haka ba batun “mutumin kirki da mai kisankai” ba ne, sai dai kamar marasa lafiya biyu masu cuta mai kisa — ɗaya ya karɓi magani, ɗayan kuwa ya ƙi, yana cewa, “Na fi shi lafiya.”</p><p><b>② Abu guda kaɗai ne ya raba sama da jahannama.</b> Ba ƙididdigar ayyuka ba ne, sai dai <b>ko ka karɓi Yesu Almasihu a matsayin Ubangiji, matsalar zunubinka kuwa ta warware.</b> Wanda zunubinsa ya warware ta wurin jinin Almasihu zai tafi sama; wanda bai taɓa karɓarsa ba, zunubinsa kuwa ya rage, ba zai tafi ba. Babu wani aikin kirki da zai iya warware matsalar zunubin kanta.</p><p>Saboda haka sama da jahannama ba “lada ce ta hali mai kyau ba,” sai dai batun <b>dangantaka da Almasihu</b>. Kuma “gaskatawa” ba yarda ta hankali ba ce, sai dai canjin wanda yake jagorantar rayuwarka — duk wanda ya karɓe shi da gaske ba ya zama mai girman kai, sai dai ya fi tuba da zurfi. Hakika, <b>ɗaukar kai mai adalci</b> (“ni mutumin kirki ne”) shi ne gunki mafi wuyar karyawa, wanda yake sa mu yi tunanin ba ma bukatar Almasihu (Luka 18:9-14).</p><p>Littafi Mai Tsarki ya faɗa a fili: <b>“Duk wanda ya gaskata da shi, ba za a yi masa hukunci ba. Wanda kuwa bai ba da gaskiya ba, an riga an yi masa hukunci”</b> (Yohanna 3:18). Hukunci ba “ƙididdigar rayuwarka bayan ka mutu ba” ne, sai dai an riga an tabbatar bisa ga <b>ko ka karɓi Almasihu</b>.</p><p class=\"faq-v\">Romawa 3:23 · Yohanna 3:18 · Afisawa 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Ba zan iya rayuwa ta kirki kawai ba tare da na gaskata da Yesu ba?",
+  "faq.a2": "<p>Wannan shi ne tunanin da aka fi yi, amma ya kuskure abin da ainihin matsalar take. Ga misali.</p><p><b>A ce kana cikin jirgin ruwa na 'yan fashin teku.</b> Ko da ka tsaftace bene yadda ya kamata, ka yi alheri ga ma'aikatan jirgin, ka kuma yi rayuwa abin koyi — har yanzu kai <b>ɗan fashin teku</b> ne, domin jirgin yana ɗauke da kai zuwa inda yake nufa (tashar hukunci). Matsalar ba “ƙididdigar ayyukanka ba” ce, sai dai <b>“jirgin da kake ciki” (asalinka)</b>.</p><p>Saboda haka bishara ba ta cewa “ƙara ƙoƙarin zama mai kirki” ba; tana cewa <b>“canza jirgi.”</b> Ka sauka daga jirgin zunubi ka ƙetare zuwa Yesu — zuwa sabon asali na <b>ɗan Allah</b>. Wannan ba ɗaga ƙididdigarka da ƙoƙari ba ne, sai dai dogaro ga Wanda ya miƙa hannunsa, ka kuma ƙetare zuwa jirginsa.</p><p>Hakika Littafi Mai Tsarki ya bayyana ceto kamar wannan tsallakawa daidai — <b>“Ya tsamo mu daga mulkin duhu, ya maishe mu ga mulkin ƙaunataccen Ɗansa”</b> (Kolosiyawa 1:13).</p><p>Kada ka kuskure: <b>wannan ba yana nufin rayuwa ta kirki ba ta da amfani ba ne.</b> Kirki ba “sharaɗin” ceto ba ne, sai dai <b>'ya'yansa</b>. Wanda ya canza jirgi yanzu yana rayuwa ta kirki ba don tsoro ba, sai dai don <b>ƙaunar ɗa</b>.</p><p class=\"faq-v\">Kolosiyawa 1:13 · Yohanna 1:12 · Yohanna 3:3 · Afisawa 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Idan mai laifi yana cikin salama, yana cewa “Allah ya gafarta mini,” alhali wanda aka yi wa laifin har yanzu yana shan wahala — alheri bai yi arha sosai ba?",
+  "faq.a3": "<p>Tambayar tana da ma'ana, ciwon kuwa na gaske ne. Amma irin wannan iƙirari ba “gafarar Littafi Mai Tsarki ba” ce — <b>karkatarwarta</b> ce.</p><p><b>① Gafarar Allah ba ta taɓa zama mai arha ba.</b> Ba a goge zunubi kamar bai taɓa faruwa ba; Allah da kansa ya biya bashinsa da ran Ɗansa. Gicciye ba shaida ce cewa an ɗauki zunubi a kankance ba, sai dai cewa zunubi mai nauyi ne haka — gafara mafi tsada a duniya.</p><p><b>② Tuba ta gaske takan ba da 'ya'ya.</b> Idan mai laifi yana girman kai a gaban wanda aka yi wa laifin — “Allah ya gafarta mini, ina cikin salama” — wannan ba tuba ba ne, sai dai kwaikwayonta (Mattiyu 3:8). Gafara tsakanin mutum da Allah kuwa ba ta share ciwon wanda aka yi wa laifin, ko ta tilasta masa gafartawa.</p><p><b>③ Ba a taɓa “barin” zunubi a kyale.</b> Kowane zunubi ana biyansa a wuri ɗaya cikin biyu — <b>ko dai Almasihu ya ɗauke shi a kan gicciye</b> (ga waɗanda suka gaskata da shi babu sauran hukunci, Romawa 8:1), <b>ko kuma wanda ya ƙi shi har ƙarshe shi ne ya ɗauke shi.</b> Don haka babu “gafara mai arha.” Mai laifi kuma yana da alhakin shari'a a wannan duniya (Romawa 13:1-4).</p><p><b>④ Hawayen wanda aka yi wa laifin ba ƙanƙanta ba ne a gaban Allah.</b> Allah yana kuka tare da masu kuka, yana tunawa da kowane hawaye, kuma a ƙarshe shi da kansa zai share su (Ru'ya ta Yohanna 21:4). Saboda haka wanda aka yi wa laifin ba ya ɗaukar nauyin ramuwa shi kaɗai, sai dai zai iya danƙa shi ga Allah mai adalci (Romawa 12:19 — “Ramuwa tawa ce, ni zan saka, in ji Ubangiji”).</p><p class=\"faq-v\">Mattiyu 3:8 · Romawa 8:1 · Romawa 13:1-4 · Ru'ya ta Yohanna 21:4</p>",
+  "respond.h3": "To — yaya game da ni?",
+  "respond.sub": "Wannan ƙauna ba bayani ba ce, sai dai <b>gayyata</b>. Idan ƙaunar da aka kafa a madadinka ta taɓa zuciyarka, yi wannan addu'a a hankali, jera ɗaya bayan ɗaya.",
+  "respond.prayer": "<p>Ya Allah,</p><p>na yarda ni mai zunubi ne wanda ba zai iya ceton kansa ba.</p><p>Na gaskata Yesu ya mutu a kan gicciye saboda ni, ya kuma tashi.</p><p>Ka gafarta mini dukan zunubaina, daga yau kuma ka zama Ubangijin rayuwata.</p><p>Ka karɓe ni a matsayin ɗanka, ka kuma sa in yi sabuwar rayuwa.</p><p class=\"amen\">A cikin sunan Yesu nake addu'a. Amin.</p>",
+  "respond.after": "Idan ka yi wannan addu'a da gaske, Littafi Mai Tsarki ya ce ka <b>zama ɗan Allah</b>. Ba kai kaɗai ba ne yanzu — ka nemi ikkilisiya kusa da kai ka kuma yi tafiyar bangaskiya tare da wasu.",
+  "respond.verse": "“Amma duk iyakar waɗanda suka karɓe shi… ya ba su ikon zama 'ya'yan Allah.” — Yohanna 1:12 · Romawa 10:9-10",
+  "closing.main": "Allah ɗaya,<br>ta wurin labari ɗaya,<br>yana bina da <em>ƙauna</em><br>marar taɓa ƙarewa.",
+  "closing.verse": "“Ko mutuwa, ko rai… ko wani abu dabam cikin dukan halitta, ba zai iya raba mu da ƙaunar Allah ba, wadda take cikin Almasihu Yesu Ubangijinmu.” — Romawa 8:38-39",
+  "closing.small": "A kan wannan zaren labari, Shari'a, da littattafan Waƙa, da Annabawa, da Wasiƙu suna ƙara “nama.”<br>Daga yanzu, duk littafin da ka buɗe, za ka ga inda kake cikin labarin.",
+  "closing.share": "↗ Raba wannan labari",
+  "about.line": "An gina shi a kan ra'ayin tarihin fansa wanda yawancin ikkilisiyar Furotesta ta Koriya suke tarayya (mai bishara · Reformed).",
+  "about.contact": "Tambayoyi · ra'ayi — <a id=\"contact\" class=\"mail\">Aiko mana imel</a>"
+ },
+ "epochs": [
+  {
+   "tag": "TSOHON ALKAWARI · FARKO",
+   "title": "Halitta",
+   "date": "A farkon farawa",
+   "one": "Allah ya yi duniya da take “mai kyau ƙwarai.”",
+   "people": "Allah; Adamu da Hawwa'u",
+   "events": "Kwana shida na halitta, an yi mutum cikin kamannin Allah, hutun Asabar",
+   "q": "A sa'ad da Allah ya fara halittar Sama da duniya,",
+   "cite": "Farawa 1:1",
+   "christ": "An yi duniya ta wurin “Kalma.” Bisharar Yohanna ta bayyana cewa wannan Kalma shi ne Yesu kansa (Yohanna 1:1-3).",
+   "detail": "<p>Littafi Mai Tsarki ba ya buɗewa da hujjar falsafa ba, sai dai da furuci: <b>“A sa'ad da Allah ya fara halitta…”</b> Duniya ba haɗari ba ce, sai dai aikin Allah mai rai.</p><ul><li><b>Kamannin Allah</b> · Daga cikin dukan halittu, mutum kaɗai ne aka yi yă yi kama da Allah — domin ya san shi, ya kuma kula da duniya.</li><li><b>Hutu</b> · Hutun rana ta bakwai ya nuna kowane abu ya cika ya kuma yi salama (shalom): “mai kyau ne.”</li><li><b>Adan</b> · Duniyar kafin ta lalace, inda Allah da mutane suke tafiya tare.</li></ul>",
+   "next": "Amma wannan cikar tana gab da rushewa…"
+  },
+  {
+   "tag": "TSOHON ALKAWARI · MATSALAR TA FARA",
+   "title": "Faɗuwa",
+   "date": "A farkon farawa",
+   "one": "Zunubi ya shigo, aka kuma yanke alaƙar mutane da Allah.",
+   "people": "Adamu da Hawwa'u; maciji (Shaiɗan)",
+   "events": "Cin 'ya'yan itacen da aka hana, korar daga Adan, zuwan mutuwa da wahala",
+   "q": "Zan sa ƙiyayya tsakaninka da matar… shi zai ƙuje kanka.",
+   "cite": "Farawa 3:15",
+   "christ": "Alkawarin farko na bishara, da aka bayar nan da nan bayan Faɗuwa: “zuriyar mace” za ta ƙuje kan maciji — wannan kuwa shi ne Yesu (Farawa 3:15; Romawa 16:20; Galatiyawa 4:4).",
+   "detail": "<p>Ta wurin rashin biyayya na nufin “zama kamar Allah,” zunubi ya shiga duniya. Sakamakon ba kawai keta doka ba ne, sai dai <b>tarwatsewar dangantaka</b>.</p><ul><li><b>Karyayyun alaƙa</b> · da Allah (ɓuya), da juna (jefa laifi), da yanayi (ƙayayuwa da wahala).</li><li><b>Mutuwa</b> · gargaɗin nan “lalle za ka mutu” ya zama gaskiya.</li><li><b>Farawa 3:15</b> · duk da haka a tsakiyar hukunci, alkawarin ceto ya zo da fari. Malamai sukan kira wannan <b>protoevangelium (bishara ta farko)</b>.</li></ul>",
+   "next": "Yanzu Allah ya kira mutum guda domin ya fara fansa…"
+  },
+  {
+   "tag": "TSOHON ALKAWARI · ALKAWARI",
+   "title": "Kakannin Kakanni",
+   "date": "kimanin 2000 K.H.",
+   "one": "Allah ya yi wa Ibrahim alkawari, “Za ka zama sanadin albarka.”",
+   "people": "Ibrahim · Ishaku · Yakubu · Yusufu",
+   "events": "Alkawari da Ibrahim, ɗaure Ishaku domin hadaya, 'ya'yan Yakubu goma sha biyu, Yusufu ya kai mukami a Masar",
+   "q": "Zan kuwa maishe ka al'umma mai girma… domin ka zama sanadin albarka.",
+   "cite": "Farawa 12:2-3",
+   "christ": "Alkawarin cewa “dukan al'umman duniya za su sami albarka” ya cika a cikin Yesu, zuriyar Ibrahim (Galatiyawa 3:16).",
+   "detail": "<p>Allah ya fara magance matsalar dukan bil'adama ta wurin kiran mutum guda, <b>Ibrahim</b>. Tushen abin shi ne <b>alkawari</b> — al'umma mai girma, ƙasa, da “albarka ga dukan al'umman duniya.”</p><ul><li><b>Bangaskiya</b> · Ibrahim ya gaskata alkawarin da ba a gani ba, aka kuma lasafta wannan adalci a gare shi (Farawa 15:6).</li><li><b>Ishaku da Yakubu</b> · alkawarin ya wuce gaba; Yakubu (Isra'ila) ya haifi kabilu goma sha biyu.</li><li><b>Yusufu</b> · 'yan'uwansa suka sayar da shi amma aka ɗaga shi zuwa mukami — “Allah ya maishe ta alheri” (Farawa 50:20).</li></ul>",
+   "next": "Suna bin Yusufu, iyalin suka gangara zuwa Masar — suka kuma zama bayi…"
+  },
+  {
+   "tag": "TSOHON ALKAWARI · FANSA",
+   "title": "Fitowa da Jeji",
+   "date": "kimanin 1446 K.H.",
+   "one": "Allah ya ceci jama'ar da suke bayi ya kuma maishe su nasa.",
+   "people": "Musa, Haruna, Fir'auna",
+   "events": "Annoba goma, Idin Ƙetarewa, ƙetarewar Bahar Maliya, Dokoki Goma a Sinai, Alfarwa, shekara 40 a jeji",
+   "q": "Zan tallafe ku, ku zama jama'ata, ni kuwa in zama Allahnku.",
+   "cite": "Fitowa 6:7",
+   "christ": "Idin Ƙetarewa — inda jinin ɗan rago ya juyar da mutuwa — yana nuni ga Yesu, “ɗan ragonmu na Idin Ƙetarewa,” da aka gicciye saboda mu (1 Korintiyawa 5:7).",
+   "detail": "<p>Babbar fansa ta Tsohon Alkawari. Isra'ila wadda dā take bauta an 'yantar da ita ta wurin ikon Allah, aka kuma kafa ta a matsayin <b>jama'arsa</b>.</p><ul><li><b>Idin Ƙetarewa</b> · gidan da aka yi masa alama da jinin ɗan rago mutuwa ta ƙetare shi — tsarin da yake bayan kowace hadaya da ta biyo baya.</li><li><b>Bahar Maliya</b> · ceto inda hanya ta ƙare; “ƙetarewa” ta zama alamar sabon farawa.</li><li><b>Alkawarin Sinai</b> · ta wurin Dokoki suka koyi yadda za su rayu a matsayin jama'ar Allah.</li><li><b>Alfarwa</b> · wuri mai tsarki mai motsi inda Allah yake zaune a tsakanin jama'arsa — abin dandanon “Immanuwel.”</li><li><b>Shekara 40</b> · rashin biyayya ya sa wani zamani yă yi ta yawo a jeji, amma Allah ya kasance kusa da manna da ginshiƙin girgije da na wuta.</li></ul>",
+   "next": "Suna tsaye a gefen ƙasar alkawari, suka shirya shiga…"
+  },
+  {
+   "tag": "TSOHON ALKAWARI · ZAMA",
+   "title": "Cin Ƙasa da Alƙalai",
+   "date": "kimanin 1400–1050 K.H.",
+   "one": "Sun sami ƙasar, amma ba tare da sarki ba kowa yana yin abin da ya ga dama.",
+   "people": "Yoshuwa; alƙalai kamar Gidiyon da Samson; Rut",
+   "events": "Faɗuwar Yariko, zama a Kan'ana, da'irar zunubi–hukunci–ceto da take maimaituwa",
+   "q": "A lokacin ba sarki a Isra'ila, sai kowa ya yi ta yin abin da ya ga dama.",
+   "cite": "Alƙalai 21:25",
+   "christ": "Daga zuriyar Rut ya fito Dawuda, daga zuriyar Dawuda kuwa ya fito Yesu (Mattiyu 1). Ko a cikin hargitsi, zuriyar Almasihu ta ci gaba.",
+   "detail": "<p>A ƙarƙashin Yoshuwa suka shiga ƙasar alkawari, amma bayan zama nan da nan suka manta da Allah. Alƙalai shi ne tsarin nan iri ɗaya da yake maimaituwa.</p><ul><li><b>Da'irar gangarawa</b> · zunubi → danniya → kuka ga Allah → alƙali ya ceta → zunubi kuma. Yana ƙara muni kawai.</li><li><b>Alƙalai</b> · Gidiyon, Samson, Debora — masu ceto na ɗan lokaci, jarumai amma masu manyan laifofi.</li><li><b>Rut</b> · labari mai haske na aminci a zamani mai duhu; baƙuwar mace ta shiga zuriyar Dawuda (da ta Yesu).</li></ul>",
+   "next": "Jama'a suka yi kuka, “Ba mu sarki ma!”…"
+  },
+  {
+   "tag": "TSOHON ALKAWARI · ZAMANIN DAUKAKA",
+   "title": "Mulki Haɗaɗɗe",
+   "date": "kimanin 1050–930 K.H.",
+   "one": "Allah ya yi wa Dawuda alkawari, “Gadon sarautarka zai dawwama har abada.”",
+   "people": "Shawulu · Dawuda · Sulemanu",
+   "events": "Sarki na farko Shawulu, Dawuda da Goliyat, alkawari da Dawuda, Sulemanu ya gina haikali",
+   "q": "Gidanka kuwa da mulkinka za su dawwama a gabana har abada. Gadon sarautarka kuma zai kahu har abada.",
+   "cite": "2 Sama'ila 7:16",
+   "christ": "“Gadon sarauta na har abada” ya cika a cikin Yesu, ɗan Dawuda — shi ya sa ake kiransa “Ɗan Dawuda” (Luka 1:32-33; Mattiyu 1:1).",
+   "detail": "<p>Ƙololuwar Isra'ila, da sarakuna uku suka yi mulki.</p><ul><li><b>Shawulu</b> · sarki da jama'a suka nema; farawa mai kyau da rashin biyayya ya ɓata.</li><li><b>Dawuda</b> · “mutum bisa ga zuciyar Allah.” Ya kashe Goliyat ya kuma maishe Urushalima babban birni. Ya yi babban zunubi (Batshebatu) amma ya tuba daga zuciya (Zabura 51).</li><li><b>Alkawari da Dawuda (2 Sama'ila 7)</b> · Allah ya yi alkawari zai kafa daular Dawuda har abada — tushe mai mahimmanci na begen Almasihu.</li><li><b>Sulemanu</b> · a ƙololuwar hikima da arziki ya gina <b>haikali</b>, amma a ƙarshen rayuwarsa ya juya ga gumaka.</li></ul>",
+   "next": "Bayan Sulemanu, mulkin ya rabu kashi biyu…"
+  },
+  {
+   "tag": "TSOHON ALKAWARI · RAGOWA",
+   "title": "Mulki Rabe-rabe",
+   "date": "930–586 K.H.",
+   "one": "Ya rabu zuwa kudu (Yahuda) da arewa (Isra'ila), al'ummar kuwa ta gangara zuwa lalacewa.",
+   "people": "Sarakunan mulkoki biyu; annabawa kamar Iliya, Ishaya, Irmiya",
+   "events": "Mulkin ya rabu, bautar gumaka ta yaɗu, annabawa suna gargaɗi",
+   "q": "Da haka mutanen Isra'ila suka tayar wa gidan Dawuda har wa yau.",
+   "cite": "1 Sarakuna 12:19",
+   "christ": "A wannan zamani annabawa suna ƙara annabta zuwan Almasihu a fili (Ishaya 9:6; Ishaya 53).",
+   "detail": "<p>A zamanin ɗan Sulemanu al'ummar ta rabu: <b>mulkin arewa na Isra'ila</b> (kabilu 10, babban birni Samariya) da <b>mulkin kudu na Yahuda</b> (kabilu 2, babban birni Urushalima).</p><ul><li><b>Isra'ila (arewa)</b> · kowane sarki yana bautar gumaka; ya faɗi ga Assuriya a 722 K.H.</li><li><b>Yahuda (kudu)</b> · zuriyar Dawuda ta ci gaba, da sarakuna kirki kaɗan kamar Hezekiya da Yosiya, amma gaba ɗaya yana gangarawa.</li><li><b>Annabawa</b> · Iliya, Amos, Ishaya, Irmiya suna kira “ku juyo!” Annabcin Almasihu ya kai matakinsa mafi yawa a nan (“bawan da yake shan wahala” na Ishaya 53).</li></ul>",
+   "next": "A ƙarshe hukuncin da aka yi gargaɗi ya zo — aka kwashe su zuwa bauta…"
+  },
+  {
+   "tag": "TSOHON ALKAWARI · HUKUNCI",
+   "title": "Zaman Bauta",
+   "date": "722 / 586 K.H.",
+   "one": "Al'ummar ta rushe aka kuma kwashe jama'a zuwa ƙasashen waje.",
+   "people": "Daniyel, Ezekiyel, Nebukadnezzar",
+   "events": "Isra'ila ta faɗi ga Assuriya (722); Yahuda ta faɗi ga Babila aka kuma rushe haikali (586)",
+   "q": "A bakin kogunan Babila Muka zauna muka yi ta kuka, Sa'ad da muka tuna da Sihiyona.",
+   "cite": "Zabura 137:1",
+   "christ": "A cikin zurfin baƙin ciki Irmiya ya yi alkawarin “sabon alkawari” (Irmiya 31:31) — wannan alkawari da Yesu ya kafa a Jibin Ƙarshe.",
+   "detail": "<p>Gargaɗin ya cika. Haikali ya ƙone aka kuma kwashe jama'a zuwa Babila — sun rasa ƙasar, sarki, da haikali: mafi ƙanƙantar matsayi.</p><ul><li><b>Faɗuwa biyu</b> · Isra'ila (Assuriya, 722 K.H.) da Yahuda (Babila, 586 K.H.).</li><li><b>Daniyel</b> · abin koyi na bangaskiya har a fadar arna (kogon zakoki); ya ga wahayoyin “madawwamin mulki” mai zuwa.</li><li><b>Tartsatsin bege</b> · wahayin Ezekiyel na ƙasusuwa busassu masu rayuwa (Ezekiyel 37) da “sabon alkawari” na Irmiya suna nuni ga makoma cikin duhu.</li></ul>",
+   "next": "Bayan shekara saba'in, Allah ya buɗe hanya — suka koma gida…"
+  },
+  {
+   "tag": "TSOHON ALKAWARI · MAYARWA",
+   "title": "Komawa",
+   "date": "538–430 K.H.",
+   "one": "Suka dawo suka kuma sāke gina haikali da garu.",
+   "people": "Ezira, Nehemiya, Esta, Zarubabel",
+   "events": "Komawa ta wurin dokar Sairus, sāke gina haikali, gyaran garun Urushalima, mayar da Maganar Allah",
+   "q": "Farin cikin da Ubangiji ya ba ku shi ne ƙarfinku.",
+   "cite": "Nehemiya 8:10",
+   "christ": "Malaki, littafi na ƙarshe na Tsohon Alkawari, ya ƙare da annabta manzon da zai shirya hanyar Almasihu: “Zan aiki manzona” (Malaki 3:1).",
+   "detail": "<p>Ta wurin dokar Sairus sarkin Farisa (538 K.H.) komawar ta fara. Cikin igiyoyi uku suka dawo suka kuma sāke gina abin da ya lalace.</p><ul><li><b>Zarubabel</b> · ya sāke gina haikali (an gama a 516 K.H.).</li><li><b>Ezira</b> · ya sāke koyar da Maganar Allah ya kuma farfaɗo da bangaskiya.</li><li><b>Nehemiya</b> · ya sāke gina garun Urushalima cikin kwana 52.</li><li><b>Esta</b> · ta ceci Yahudawa a Farisa daga halaka — “domin irin wannan lokaci.”</li><li><b>Har yanzu suna ƙishirwa</b> · haikali yana tsaye, amma babu sarki kamar Dawuda. Jama'a suna jiran Almasihu.</li></ul>",
+   "next": "Sai kuma… kamar sama ta yi shiru, shekara 400 suka shuɗe."
+  },
+  {
+   "tag": "TSAKANIN ALKAWURRA · SHIRYA DANDALI",
+   "title": "Shekarun Shiru",
+   "date": "kimanin 430–4 K.H.",
+   "one": "Shekara 400 ba tare da muryar annabi ba — duk da haka an shirya dandali a shiru.",
+   "people": "Iskandari Mai Girma, Makkabiyawa, Roma",
+   "events": "Farisa → Girka → 'yancin Makkabiyawa → mulkin Roma",
+   "q": "Amma da lokaci ya yi sosai, sai Allah ya aiko Ɗansa, haifaffen mace.",
+   "cite": "Galatiyawa 4:4",
+   "christ": "Wannan dukan “shirya dandali” aikin Allah ne domin Yesu yă zo daidai “lokacin da ya yi sosai.”",
+   "detail": "<p>Tun daga Malaki har zuwa Sabon Alkawari, kimanin shekara 400 suka shuɗe ba tare da sabuwar Nassi ba. Duk da haka a bayan tarihi Allah yana shirya hanya domin bishara.</p><ul><li><b>Daulolin sun canza hannu</b> · Farisa → Girka (Iskandari, 333 K.H.) → Ptolemiyawa da Selukiyawa → tawayen Makkabiyawa (167 K.H.) → Roma (63 K.H.).</li><li><b>Harshen Girka</b> · cin nasarar Iskandari ya maishe Girkanci harshen gama gari; aka fassara Tsohon Alkawari zuwa Girkanci (Septuagint), aka kuma buɗe hanya domin bishara ta yaɗu da sauri.</li><li><b>Hanyoyi da salamar Roma</b> · hanyoyi masu kyau da “Salamar Roma” suka zama manyan hanyoyin mishan.</li><li><b>Majami'u da ƙungiyoyi</b> · koyarwar majami'a ta yi tushe; Farisiyawa da Sadukiyawa suka taso; <b>begen Almasihu</b> kuwa ya nuna.</li></ul>",
+   "next": "Sai kuma shiru ya karye — a ƙarshe, ya zo."
+  },
+  {
+   "tag": "SABON ALKAWARI · CIKAWA",
+   "title": "Yesu Ya Zo",
+   "date": "kimanin 4 K.H.–30 A.Z.",
+   "one": "Almasihu da aka yi alkawari ya zo, ya mutu, ya kuma tashi.",
+   "people": "Yesu, almajirai goma sha biyu, Yahaya Mai Baftisma",
+   "events": "Bayyanuwar Allah cikin jiki, hidimarsa da koyarwarsa da mu'ujizai, mutuwa a kan gicciye, tashi daga matattu a rana ta uku",
+   "q": "Kalman nan kuwa ya zama mutum, ya zauna a cikinmu… yana mai matuƙar alheri da gaskiya.",
+   "cite": "Yohanna 1:14",
+   "christ": "Zuriyar mace (al'amari 2), albarkar Ibrahim (3), ɗan ragon Idin Ƙetarewa (4), sarki na har abada na Dawuda (6), sabon alkawari (8) — duka sun cika a cikin mutum guda, Yesu: annabinmu na gaskiya, firist, da sarki.",
+   "detail": "<p>Shiru ya karye; Wanda Aka Yi Alkawari ya iso. Bishara huɗu suna shaida rayuwa, mutuwa, da tashin Yesu daga kusurwoyi huɗu.</p><ul><li><b>Bayyanuwa cikin jiki</b> · Allah ya zama mutum (Immanuwel, “Allah tare da mu”), a wuri mai ƙasƙanci na Baitalami.</li><li><b>Hidima</b> · yana koyar da mulkin Allah, yana warkar da marasa lafiya, yana kiran masu zunubi. “Wanda ya gan ni, ya ga Uba.”</li><li><b>Gicciye</b> · ya biya bashin zunubi da mutuwar da Faɗuwa ta kawo (al'amari 2) a madadinmu. Ainihin ɗan ragon Idin Ƙetarewa.</li><li><b>Tashin matattu</b> · da ya tashi a rana ta uku, ya karya ikon zunubi, mutuwa, da Shaiɗan — tuni a kan gicciye ya “ƙwace makaman masarauta da na masu iko… da ya yi nasara a kansu” (Kolosiyawa 2:15).</li></ul><p>Saboda haka Yesu shi ne <b>annabinmu na gaskiya</b> (yana nuna hanyar zuwa ga Allah), <b>firistinmu na gaskiya</b> (yana kafara domin zunubi da jikinsa), da <b>sarkinmu na gaskiya</b> (ya ci nasara a kan zunubi, mutuwa, da Shaiɗan, yana kuma mulki har abada).</p>",
+   "next": "Yesu da ya tashi yana aiko almajiransa zuwa duniya…"
+  },
+  {
+   "tag": "SABON ALKAWARI · YAƊUWA",
+   "title": "Ikkilisiya Ta Fara",
+   "date": "kimanin 30 A.Z.–",
+   "one": "Ruhu ya zo, bishara kuwa ta yaɗu zuwa iyakar duniya.",
+   "people": "Bitrus, Bulus, ikkilisiyar farko",
+   "events": "Saukar Ruhu a Fentikos, haihuwar ikkilisiya, bishara ta yaɗu daga Urushalima zuwa Roma ta wurin tsanani",
+   "q": "Amma za ku sami iko sa'ad da Ruhu Mai Tsarki ya sauko muku… har ya zuwa iyakar duniya.",
+   "cite": "Ayyukan Manzanni 1:8",
+   "christ": "Wannan labari har yanzu yana ci gaba. Littafi Mai Tsarki ya ƙare da alkawarin cewa Yesu zai sāke dawowa ya kuma sabunta kowane abu (Ru'ya ta Yohanna 21).",
+   "detail": "<p>Bayan Yesu ya hau sama, Ruhun da aka yi alkawari ya zo a Fentikos ikkilisiya kuwa ta haihu. Bishara ta yaɗu da ƙarfi.</p><ul><li><b>Fentikos</b> · Ruhu ya juyar da almajirai masu tsoro su zama shaidu masu ƙarfin hali.</li><li><b>Bitrus</b> · ya yi shelar bishara ga Yahudawa a Urushalima.</li><li><b>Bulus</b> · daga mai tsanantawa zuwa manzo, yana kafa ikkilisiyoyi a duniyar Al'ummai yana kuma rubuta wasiƙu.</li><li><b>Zuwa iyakar duniya</b> · Urushalima → Yahudiya → Samariya → Roma. Alkawarin “dukan al'umman duniya” ga Ibrahim ya cika.</li><li><b>Da mu</b> · labarin bai ƙare ba; yana ci gaba zuwa dawowar Yesu da sabuwar sama da sabuwar duniya.</li></ul>",
+   "next": "Amma labarin bai ƙare a nan ba…"
+  },
+  {
+   "tag": "SABON ALKAWARI · KAMMALAWA",
+   "title": "Mayarwa (Kowane Abu Sabo)",
+   "date": "Mai zuwa",
+   "one": "Yesu ya sāke dawowa ya kuma sabunta kowane abu.",
+   "people": "Yesu mai dawowa; dukan al'ummai",
+   "events": "Dawowa ta biyu, hukunci na ƙarshe, ƙarshen zunubi·mutuwa·hawaye, sabuwar sama da sabuwar duniya",
+   "q": "zai share musu dukkan hawaye. Ba kuma sauran mutuwa, ko baƙin ciki, ko kuka, ko azaba.",
+   "cite": "Ru'ya ta Yohanna 21:4",
+   "christ": "Adan na halittar farko a ƙarshe an mayar da shi a matsayin “Sabuwar Urushalima.” Allah yana zaune tare da jama'arsa har abada — cikar Immanuwel (Ru'ya ta Yohanna 21:3; Mattiyu 1:23).",
+   "detail": "<p>Littafi Mai Tsarki ba ya ƙarewa da zamanin ikkilisiya. Littafinsa na ƙarshe, Ru'ya ta Yohanna, yana nuna Yesu yana <b>sāke dawowa</b> domin ya kammala kowane abu.</p><ul><li><b>Dawowa ta biyu</b> · sarkin da aka yi alkawari ya dawo cikin ɗaukaka.</li><li><b>Nasara ta ƙarshe</b> · an hallaka Shaiɗan da mutuwa har abada, Almasihu kuwa yana mulki a matsayin Sarkin sarakuna (1 Korintiyawa 15:25-26; Ru'ya ta Yohanna 20:10).</li><li><b>Hukunci da tashin matattu</b> · an gyara kowane laifi, aka kuma tā da matattu.</li><li><b>Sabuwar sama da sabuwar duniya</b> · zunubi, mutuwa, hawaye, da azaba sun ƙare har abada (Ru'ya ta Yohanna 21:4).</li><li><b>Adan da aka mayar</b> · a cikin “Sabuwar Urushalima” mafi kyau fiye da farkon, Allah yana zaune tare da jama'arsa har abada — makomar da dukan Littafi Mai Tsarki yake nufa.</li></ul><p>Saboda haka yanzu zamanin <b>“tuni, amma har yanzu ba haka ba”</b> ne: a cikin Yesu ceto <b>tuni</b> ya cika, amma cikarsa <b>har yanzu</b> ana jira.</p>",
+   "next": "To, mene ne wannan dukan labari yake nufi ga “ni”?"
+  }
+ ],
+ "love": [
+  "Labarin bai fara da hukunci ba, sai dai da halitta da aka zuba cikin ƙauna.",
+  "Daidai lokacin da mutane suka yi zunubi, Allah ya yi alkawarin ceto nan da nan a wurin.",
+  "Allah ya fara zuwa ga mutum marar cancanta, ya kira shi da suna, ya kuma maishe shi sanadin albarka.",
+  "Ya ji nishin jama'ar da suke bayi ya kuma gangaro da kansa domin ya cece su.",
+  "Aka ci amanarsa sau da sau, duk da haka kowane lokaci da suka yi kuka ya aiko mai ceto ya kuma ɗaga su.",
+  "Bai yar da Dawuda da ya faɗi ba, ta wurinsa kuma ya yi alkawarin Sarki na har abada.",
+  "Ga jama'ar da suka juya masa baya, ya ci gaba da aiko annabawa, yana roƙo, “Ku komo gida.”",
+  "Ya tafi tare da su har cikin ƙasa mafi duhu ta bauta, ya kuma yi alkawarin mayarwa.",
+  "Har ga jama'ar da suka kasa sau da sau, bai janye alkawarinsa ba.",
+  "Har ta cikin shekara 400 na shiru, a ɓoye, yana shirya hanyar ceto.",
+  "Tun muna masu zunubi, ya aiko Ɗansa domin ya ba da ransa.",
+  "Ƙaunar da muka karɓa, yanzu yana aikowa ta kwararo zuwa dukan duniya.",
+  "A ƙarshe zai share kowane hawaye ya kuma mayar da kowane abu cikin ƙauna."
+ ],
+ "mis": [
+  {
+   "w": "“Don me Allah ya yi mutanen da za su iya yin zunubi? Ba zai fi kyau bai yi mu ko kaɗan ba?”",
+   "t": "Allah ya halicci duniya da mutane ba don wani rashi ba, sai dai don ƙauna mai yawan gaske. Yin mutane a matsayin <b>mutanen da suke da dangantaka da Allah</b> shi kansa ƙauna ce. Har shigowar zunubi ma ba ta fita daga shirin ceto na Allah ba (Afisawa 1:4-5). Al'amari na farko na Littafi Mai Tsarki ba hukunci ba ne, sai dai ƙauna."
+  },
+  {
+   "w": "“An kore shi aka kuma ba shi mutuwa don kawai cin 'ya'yan itace guda — Allah bai yi tsananin gaske ba?”",
+   "t": "Korar daga Adan hukunci ne, kuma jinƙai ne lokaci guda. Yin cin itacen rai a yi rayuwa har abada cikin wannan halin karyayye da yankakke daga Allah, zai zama jingina cikin wahala har abada (Farawa 3:22). Yarda da mutuwa ya buɗe hanyar komawa, kuma a daidai wurin Allah ya yi alkawarin Mai Ceto (Farawa 3:15). Ƙauna ta riga ta kasance cikin hukuncin."
+  },
+  {
+   "w": "“An zaɓi Ibrahim ne saboda yana da babbar bangaskiya — duk mutanen Littafi Mai Tsarki ba jarumai ne na ɗabi'a ba?”",
+   "t": "Ibrahim ya yi ƙarya ya kuma yi shakka; Yakubu mai ruɗu ne. Allah bai kira mutane “masu cancanta” ba, sai dai masu kasawa, ta wurin alheri. Dalilin ba kirkinsu ba ne, sai dai amintacciyar ƙaunar Allah (Kubawar Shari'a 7:7-8)."
+  },
+  {
+   "w": "“Shari'a (Dokokin) ba jarrabawa ce da dole ka ci domin ka sami ceto ba?”",
+   "t": "Allah ya cece su <b>kafin</b> ya ba su Shari'a. Har Dokoki Goma sun fara da furucin ceto: “Ni ne Ubangiji Allahnka wanda ya fisshe ka daga ƙasar Masar” (Fitowa 20:2). Shari'a ba “ka kiyaye ta domin ka sami ceto ba” ce, sai dai jagora ta ƙauna a kan yadda jama'ar da aka riga aka ceta za su rayu (Kubawar Shari'a 7:7-9). Alheri yana zuwa da fari kullum; biyayya kuwa amsa ce."
+  },
+  {
+   "w": "“Cin Kan'ana kisan kiyashi ne marar tausayi — don haka Allah na Tsohon Alkawari mai zalunci ne tabbas.”",
+   "t": "Wannan batu ne mai wuya wanda ba a iya warware shi cikin jumla guda ba. Amma Littafi Mai Tsarki bai gabatar da shi a matsayin tashin hankali na zato ba, sai dai a matsayin hukunci bayan ƙarni na haƙuri ga mugunta mai tsanani (har da hadayar yara) (Farawa 15:16; Kubawar Shari'a 9:4-5; Litafin Firistoci 18:24-25). Allah yana jinkiri har ga hukunci, kuma da farin ciki yakan karɓi waɗanda suka juyo gare shi — har baƙi kamar Rahab da Rut (Yoshuwa 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“Dawuda jarumi ne marar aibu — shi ya sa aka kira shi ‘mutum bisa ga zuciyar Allah.’”",
+   "t": "Dawuda ya yi zina har ma da kisankai. “Mutum bisa ga zuciyar Allah” ba yana nufin marar aibu ba ne, sai dai wanda bai ɓoye zunubinsa ba — wanda ya tuba sarai ya kuma ci gaba da komawa ga Allah (Zabura 51). Ƙaunar Allah ba ta yar da waɗanda suka faɗi ƙwarai ba."
+  },
+  {
+   "w": "“Annabi mai duba ne da yake annabta nan gaba / Allah na Tsohon Alkawari mai fushi ne kawai.”",
+   "t": "Zuciyar annabi ba “annabta nan gaba ba” ce, sai dai roƙon Allah mai zafi: “Don Allah ku komo.” Har gargaɗin hukunci niyyarsa ba halaka ba ce, sai dai juyar da mutane domin a cece su — “ba na murna da mutuwar mugu” (Ezekiyel 33:11)."
+  },
+  {
+   "w": "“Zaman bauta ya tabbatar Allah ya yashe Isra'ila gaba ɗaya.”",
+   "t": "Zaman bauta ba yashewa ba ne, sai dai horo da tsarkakewa ga ƙaunatacce ɗa (Ibraniyawa 12:6). Allah bai tafi ba; ya kasance tare da Daniyel a tsakiyar bauta ya kuma yi alkawari, “Na san irin shirin da na yi muku… Shirin alheri… Zan ba ku gabata da sa zuciya” (Irmiya 29:11)."
+  },
+  null,
+  {
+   "w": "“Da yake babu magana har shekara 400, Allah ya tafi ko yana hutu.”",
+   "t": "Shiru ba rashin kasancewa ba ne. Kawai bai yi magana ba, alhali a duk wannan lokaci yana motsa dauloli, harsuna, da hanyoyi domin ya shirya dandalin ceto. A lokacin mafi shiru, Allah yana aiki da ƙarfi sosai, cikin ƙauna (Galatiyawa 4:4)."
+  },
+  {
+   "w": "“Yesu malami ne kawai mai kyau na ɗabi'a / gicciye shan kashi ne na baƙin ciki.”",
+   "t": "Yesu ya bayyana kansa Allah ne (Yohanna 8:58), gicciye kuwa ba haɗari ko shan kashi ba ne, sai dai ƙauna da aka shirya. Ba a ja shi can da ƙarfi ba; ya ba da ransa da kansa (Yohanna 10:18). “Ba ƙaunar da ta fi haka ga mutane, wato mutum yă ba da ransa saboda aminansa” (Yohanna 15:13)."
+  },
+  {
+   "w": "“Ikkilisiya ƙungiya ce ta mutane masu kamala, ko gini kawai.”",
+   "t": "Ikkilisiya ba al'umma ce ta “tsarkaka masu kamala ba,” sai dai ta <b>masu zunubi da aka gafarta wa</b>. Har manzo Bulus ya kira kansa “babban masu zunubi” (1 Timoti 1:15). Ikkilisiyar farko ma ta yi gardama ta kuma kasa (Ayyukan Manzanni 6:1; 1 Korintiyawa 1:11). Ba wuri ne na fariya ba, sai dai mutane masu isar da ƙaunar da suka karɓa (Yohanna 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Zunubin asali — babu mai adalci",
+   "body": "Matsalar ba “mugayen ayyuka kaɗan ba” ce, sai dai tushen zuciya. Tun daga Adamu, kowa an haife shi a ƙarƙashin zunubi kuma ba zai iya isa ga Allah da kansa ba.",
+   "vref": "Romawa 3:10-12, 23",
+   "vtext": "Babu mai adalci, ko ɗaya ma babu… domin duka sun yi zunubi, sun kuma kāsa kai ga ɗaukakar Allah."
+  },
+  {
+   "title": "Shari'a ba za ta iya cece ni ba",
+   "body": "Shari'a ba tsani ba ce, sai dai madubi. Ƙoƙarin da kake ƙaruwa, gwargwadon haka take nuna yadda ka kāsa. Manufarta ita ce ta kai mu ga Almasihu.",
+   "vref": "Romawa 3:20 · Galatiyawa 3:24",
+   "vtext": "Ta wurin Shari'a ake samun sanin zunubi… Shari'a ta zama mai kula da mu har Almasihu ya zo."
+  },
+  {
+   "title": "Ta wurin alheri — kyauta, ba ƙoƙari ba",
+   "body": "Ceto ba lada ce ta abubuwan da ka cancanta ba, sai dai kyauta ce ta kyauta ga waɗanda ba su cancanta ba. Saboda haka babu wanda zai iya yin fariya.",
+   "vref": "Afisawa 2:8-9",
+   "vtext": "Gama ta wurin alheri aka cece ku ta wurin bangaskiya… ba sakamakon ayyuka ba ne, domin kada wani ya yi fariya."
+  },
+  {
+   "title": "An kuɓutar da mu ta wurin bangaskiya",
+   "body": "Ba ta wurin kiyaye Shari'a ba, sai dai ta wurin bangaskiya cikin Yesu Almasihu, aka lasafta mu masu adalci — ba mu sa adalcinmu ba, sai dai nasa.",
+   "vref": "Romawa 5:1 · Galatiyawa 2:16",
+   "vtext": "An kuɓutar da mu ta wurin bangaskiya… ba a kuɓutar da mutum ta wurin ayyukan Shari'a ba, sai ta wurin bangaskiya cikin Yesu Almasihu."
+  },
+  {
+   "title": "Littafi Mai Tsarki yana nuni ga Yesu",
+   "body": "Littafi Mai Tsarki ba littafin manyan mutane ba ne ko na taimakon kai. Daga Farawa zuwa Ru'ya ta Yohanna, kowane shafi yana shaida game da mutum guda — Yesu Almasihu.",
+   "vref": "Yohanna 5:39 · Luka 24:27",
+   "vtext": "Su ne kuwa suke shaida game da ni… ya bayyana musu a dukan Nassosi abubuwan da suka shafe shi."
+  },
+  {
+   "title": "Mulkin Allah — saƙon Yesu na tsakiya",
+   "body": "Jigon da Yesu ya fi koyarwa. Mulkin Allah a matsayin Sarki ya shigo wannan duniya da Yesu kuma zai kammala sa'ad da ya dawo. Ta wurin gicciyensa da tashinsa, Yesu shi ne Sarki na gaskiya da ya ci nasara a kan zunubi, mutuwa, da Shaiɗan.",
+   "vref": "Markus 1:15",
+   "vtext": "Lokaci ya yi sosai, mulkin Allah kuwa ya kusato; ku tuba, ku gaskata da bishara."
+  },
+  {
+   "title": "Bishara — ya kammala kowane abu",
+   "body": "Bashin zunubi da ban iya biya ba, Yesu ya biya a madadina a kan gicciye, ta wurin tashi kuma ya ci nasara a kan mutuwa. Ba na dogara a kan “yi haka ba,” sai dai a kan “an gama.”",
+   "vref": "Yohanna 19:30 · Romawa 5:8",
+   "vtext": "An gama… tun muna masu zunubi, Almasihu ya mutu saboda mu."
+  }
+ ]
+}
