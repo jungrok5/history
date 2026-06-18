@@ -1,0 +1,343 @@
+{
+ "menuName": "Oʻzbekcha",
+ "htmlLang": "uz",
+ "dir": "ltr",
+ "brand": "Bir qarashda Muqaddas Kitob",
+ "docTitle": "Bir qarashda Muqaddas Kitob · Yaratilishdan jamoatgacha",
+ "share": {
+  "title": "Bir qarashda Muqaddas Kitob",
+  "text": "Bir varaq aylantirishda Muqaddas Kitobning buyuk hikoyasini va Iso nima uchun kelganini bilib oling."
+ },
+ "ui": {
+  "people": "Shaxslar",
+  "events": "Asosiy voqealar",
+  "christLabel": "Isoga ishora qiladi",
+  "loveLabel": "Taslim boʻlmaydigan sevgi",
+  "mythWrong": "Keng tarqalgan tushunmovchilik",
+  "mythRight": "Aslida esa",
+  "more": "Batafsil koʻrish",
+  "version": "(OʻzbMK)"
+ },
+ "labels": {
+  "start": "Boshlanish",
+  "thread": "Hikoya ipi",
+  "gospel": "Xushxabar",
+  "about": "Loyiha haqida"
+ },
+ "s": {
+  "ui.share": "↗ Ulashish",
+  "ui.toast": "Havola nusxalandi 📋",
+  "ui.footer": "Bir qarashda Muqaddas Kitob · Muqaddas Kitob iqtiboslari OʻzbMK tarjimasidan",
+  "hero.kicker": "YARATILISHDAN JAMOATGACHA",
+  "hero.title": "Bir qarashda<br><span class='em'>Muqaddas Kitob</span>",
+  "hero.sub": "Bir varaq aylantirishda Muqaddas Kitobning buyuk hikoyasini va Iso nima uchun kelganini bilib oling.",
+  "hero.cue": "Pastga aylantiring<span>↓</span>",
+  "thread.eyebrow": "BUTUN MUQADDAS KITOBNI BOGʻLAYDIGAN BIR JUMLA",
+  "thread.h2": "Oxir-oqibat, Muqaddas Kitob yagona bir hikoyadir",
+  "thread.flow": "<b>Vaʼda</b><span class='arw'>→</span><b>Kutish</b><span class='arw'>→</span><b>Bajo boʻlishi</b>",
+  "thread.note": "Xudo <b>vaʼda beradi</b> (ahd), xalq uzoq vaqt <b>kutadi</b>, va nihoyat hamma narsa Isoda <b>bajo boʻladi</b> va nihoyasiga yetadi. Quyidagi 13 sahnani shu ip boʻylab kuzating. Chuqurroq hikoya uchun har bir kartadagi <b>«Batafsil koʻrish»</b> tugmasini bosing.",
+  "gospel.eyebrow": "BU HIKOYA «MEN» UCHUN NIMANI ANGLATADI",
+  "gospel.h2": "Muqaddas Kitobning asl markazi",
+  "gospel.lead": "Muqaddas Kitob <b>«yaxshi odam boʻl» deydigan axloq darsligi emas.</b>",
+  "gospel.sublead": "Bu — Xudoning, <b>faqat inoyat orqali</b>, oʻzini oʻzi qutqara olmaydigan gunohkorlarni qanday najot qilgani haqidagi hikoyadir. Uning markazida Iso Masih turadi.",
+  "gospel.mirror": "<h3>Isroilning tugamas davriyligi aslida «menning» suratidir</h3><div class='cycle'><b>Butparastlik</b><span class='a'>→</span><b>Azob</b><span class='a'>→</span><b>Faryod</b><span class='a'>→</span><b>Xudo najot beradi</b><span class='a'>→</span><b>Yana butparastlik…</b></div><p>Hakamlardan to surgungacha, Isroil bu davriylikni tinimsiz takrorlaydi. Muqaddas Kitob buni «ular qanchalik ayanchli edi» deb masxara qilishimiz uchun yozmagan.</p><p>Bu — <b>koʻzgu</b>. Gap «Isroil shunday qildi» emas, balki <b>«men ham xuddi shundayman»</b> ekanini koʻrsatishdadir (1 Korinfliklar 10:11).</p><p><b>But</b> faqat yogʻochdan oʻyilgan haykal emas. Bu — <b>Xudodan koʻra koʻproq sevadigan yoki ishonadigan har qanday narsa</b> — pul, muvaffaqiyat, eʼtirof, odamlar, hatto oʻzim ham. Xudoni esa <b>oʻz istaklarimni bajo qilish vositasi</b> sifatida ishlatish ham butparastlikdir.</p><p class='punch'>Oxir-oqibat, eng chuqur but — bu «Xudoning taxtiga oʻtirib olgan oʻzimdir».</p>",
+  "gospel.coreIntro": "Xoʻsh, Xudo bunday gunohkorni qanday najot qiladi? Mana, Muqaddas Kitob eʼlon qiladigan xushxabarning markazi shudir.",
+  "gospel.crux": "<p class='crux-lead'>Butun Muqaddas Kitob yagona bir nuqtaga ishora qiladi.</p><p>Inson gunoh davriyligini oʻzicha buza olmadi, hatto bittagina solih kimsa ham yoʻq edi. Shuning uchun kimdir <b>uning oʻrniga bahosini toʻlashi</b> kerak edi.</p><p>Iso shunchaki yaxshi taʼlimot berish uchun kelgani yoʻq. <b>Meni najot qilishning boshqa yoʻli boʻlmagani uchun</b> kelishga majbur edi.</p><p class='crux-punch'>Oʻsha xochda osilishi kerak boʻlgan kishi — bu <b>men</b> edim.<br>Iso <b>mening gunohimni</b> koʻtarib, mening oʻrnimga oʻsha yerga mixlandi.</p><div class='crux-verse'>«U esa bizning gunohlarimizni deb yarador boʻldi, bizning ayblarimiz tufayli ezildi… uning yaralari bizga shifo berdi.» — Ishayo 53:5</div>",
+  "faq.h": "Hali ham koʻnglingizni bir narsa tirnayaptimi?",
+  "faq.q1": "<span class='arr'>▸</span> Demak, ishongan qotil jannatga boradi-yu, yaxshi yashagan, lekin ishonmagan odam doʻzaxga boradimi?",
+  "faq.a1": "<p>Bu oʻrinli savol. Ammo uning ichida ikkita tushunmovchilik yashiringan.</p><p><b>① Muqaddas Kitob odamlarni «yaxshi» va «yomon»ga ajratmaydi.</b> Oʻlchov «yondoshidan yaxshiroq» emas, balki «Xudoning mukammal muqaddasligidir». Uning oldida hech kim «yetarlicha yaxshi» emas (Rimliklarga 3:23). Demak, bu «yaxshi odam va qotil» emas, balki ikkita oʻlimga mahkum bemor kabidir — biri davoni qabul qiladi, ikkinchisi esa «men u kishidan sogʻlomroqman» deb rad etadi.</p><p><b>② Jannat bilan doʻzaxni ajratadigan narsa bittadir.</b> Bu — xatti-harakat balli emas, balki <b>Iso Masihni Rabbiy sifatida qabul qilganing va gunoh muammoing hal boʻlganidir</b>. Gunohi Masihning qoni bilan hal boʻlgan kishi jannatga boradi; Uni hech qabul qilmagan va gunohi qolib ketgan kishi esa bormaydi. Hech qanday savob ish gunoh muammosining oʻzini hal qila olmaydi.</p><p>Shuning uchun jannat va doʻzax «yaxshi xulq uchun mukofot» emas, balki <b>Masih bilan munosabat</b> masalasidir. «Ishonish» esa aqliy roziligi emas, balki hayotda kimning hukmronligi oʻzgarishidir: chinakam qabul qilgan kishi beadab boʻlmaydi, aksincha yanada chuqurroq tavba qiladi. Aslida «men yaxshi odamman» degan <b>oʻzini oqlash</b> — Masihga muhtoj emasman deb oʻylatadigan, sindirilishi eng qiyin but (Luqo 18:9-14).</p><p>Muqaddas Kitob buni ochiq aytadi: <b>«Unga ishongan odam hukm qilinmaydi. Unga ishonmagan odam esa allaqachon mahkum boʻlgan»</b> (Yuhanno 3:18). Hukm «hayotingni oxirida baholash» emas, balki <b>Masihni qabul qilganing</b> boʻyicha allaqachon hal qilingan.</p><p class='faq-v'>Rimliklarga 3:23 · Yuhanno 3:18 · Efesliklarga 2:8-9 · Luqo 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Isoga ishonmasdan ham, shunchaki yaxshi odam boʻlish yetarli emasmi?",
+  "faq.a2": "<p>Eng koʻp oʻylanadigan fikr shu, ammo u «asl muammo nimada» ekanini notoʻgʻri tushunadi. Keling, bir misol keltiraylik.</p><p><b>Tasavvur qiling, siz qaroqchilar kemasidasiz.</b> Palubani qanchalik tozalasangiz, kema ekipajiga qanchalik mehribon boʻlsangiz, namunali yashasangiz ham, siz baribir <b>qaroqchisiz</b>, chunki kema sizni oʻzi bilan birga manziliga (hukm bandargohiga) olib ketadi. Muammo «xatti-harakatlaring balli» emas, balki <b>«qaysi kemaga tegishliligingdir» (kimliging)</b>.</p><p>Shuning uchun xushxabar «yaxshiroq boʻl» demaydi, balki <b>«kemangni almashtir»</b> deydi. Gunoh kemasidan tushib, Isoga oʻt: <b>Xudoning farzandi</b> degan yangi kimlikka. Bu — saʼy-harakat bilan ballingni oshirish emas, balki qoʻlini choʻzayotgan Zotga ishonib, Uning kemasiga oʻtishdir.</p><p>Darhaqiqat, Muqaddas Kitob najotni aynan shu «koʻchirish» deb taʼriflaydi: <b>«U bizni zulmat hukmronligidan qutqarib, sevikli Oʻgʻlining Shohligiga qabul qildi»</b> (Kolosaliklarga 1:13).</p><p>Notoʻgʻri tushunmang: <b>bu yaxshi yashashning hech qadri yoʻq degani emas.</b> Lekin yaxshilik najotning «sharti» emas, balki uning <b>mevasidir</b>. Kemasini almashtirgan kishi endi qoʻrquvdan emas, balki <b>farzandning sevgisi</b> bilan yaxshi yashaydi.</p><p class='faq-v'>Kolosaliklarga 1:13 · Yuhanno 1:12 · Yuhanno 3:3 · Efesliklarga 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Agar jinoyatchi «Xudo meni allaqachon kechirgan» deb tinch yashayotgan boʻlsa-yu, jabrlangan esa hamon azob chekayotgan boʻlsa — bunday kechirim haddan tashqari arzon emasmi?",
+  "faq.a3": "<p>Savol oʻrinli, va bu ogʻriq haqiqiydir. Ammo bunday daʼvo «Muqaddas Kitobning kechirimi» emas, balki uning <b>buzib koʻrsatilishidir</b>.</p><p><b>① Xudoning kechirimi hech qachon arzon emas.</b> Gunoh «goʻyo hech narsa boʻlmagandek» yashirib qoʻyilmaydi; Xudo Oʻzi uning bahosini Oʻgʻlining hayoti bilan toʻladi. Xoch gunohga yengil qaralganini emas, balki u qanchalik ogʻir ekanini isbotlaydi: bu — dunyodagi eng qimmat kechirimdir.</p><p><b>② Chinakam tavba meva beradi.</b> Agar jinoyatchi jabrlangan oldida «Xudo meni kechirdi, men tinchman» deb beparvo tursa, bu tavba emas, balki uning soxta nusxasidir (Matto 3:8). Xudo bilan men oʻrtamdagi kechirim esa jabrlanganning yarasini oʻchirmaydi va uni kechirishga majbur qilmaydi.</p><p><b>③ Gunoh hech qachon «shunchaki kechirib yuborilmaydi».</b> Har bir gunoh ikki joydan birida toʻlanadi: <b>yoki uni Masih xochda koʻtaradi</b> (ishongan kishi uchun endi hukm yoʻq, Rimliklarga 8:1), <b>yoki uni oxirigacha rad etgan kishi oʻzi koʻtaradi.</b> Demak, «arzon afv» degani yoʻq. Jinoyatchi bu dunyoning adolati oldida ham javob beradi (Rimliklarga 13:1-4).</p><p><b>④ Jabrlanganning koʻz yoshlari Xudo oldida hech qachon kichik emas.</b> Xudo yigʻlayotganlar bilan birga yigʻlaydi, har bir tomchi yoshni eslab qoladi va oxirida ularni Oʻzi artib qoʻyadi (Vahiy 21:4). Shuning uchun jabrlangan ham qasos yukini yolgʻiz koʻtarmaydi, balki uni adolatli Xudoga ishonib topshirishi mumkin (Rimliklarga 12:19: «Men Oʻzim qasos va oʻch olaman, deydi Egamiz»).</p><p class='faq-v'>Matto 3:8 · Rimliklarga 8:1 · Rimliklarga 13:1-4 · Vahiy 21:4</p>",
+  "respond.h3": "Xoʻsh — men nima qilay?",
+  "respond.sub": "Bu sevgi maʼlumot emas, balki <b>taklifdir</b>. Agar mening oʻrnimga mixlangan oʻsha sevgi yuragingizga tekkan boʻlsa, endi bu ibodatni jumlama-jumla, sekin oʻqing.",
+  "respond.prayer": "<p>Xudoyim,</p><p>oʻzimni oʻzim qutqara olmaydigan gunohkor ekanimni tan olaman.</p><p>Iso men uchun xochda oʻldi va tirildi, deb ishonaman.</p><p>Barcha gunohlarimni kechir va bugundan boshlab hayotimning Rabbiysi boʻl.</p><p>Meni farzanding sifatida qabul qil va yangi hayot kechirishimga yordam ber.</p><p class='amen'>Iso nomidan ibodat qilaman. Omin.</p>",
+  "respond.after": "Agar buni chin yurakdan ibodat qilgan boʻlsangiz, Muqaddas Kitobga koʻra siz <b>Xudoning farzandi boʻldingiz</b>. Endi yolgʻiz emassiz: yaqin atrofdagi jamoatni toping va imon yoʻlida boshqalar bilan birga yuring.",
+  "respond.verse": "«Ammo Uni qabul qilganlarning hammasiga… U Xudoning farzandi boʻlish huquqini berdi.» — Yuhanno 1:12 · Rimliklarga 10:9-10",
+  "closing.main": "Yagona Xudo,<br>yagona hikoya orqali,<br>hech qachon taslim boʻlmaydigan<br><em>sevgi</em> bilan bizni izlaydi.",
+  "closing.verse": "«Na oʻlim, na hayot… na yaratilgan bironta mavjudot bizni Rabbimiz Iso Masih shaxsidagi Xudoning mehr-muhabbatidan judo qila olmaydi.» — Rimliklarga 8:38-39",
+  "closing.small": "Bu hikoya ipiga Qonun, sheʼriy kitoblar, paygʻambarlar va maktublar «et» qoʻshadi.<br>Endi qaysi kitobni ochsangiz ham, «hikoyaning qaysi nuqtasida turganingizni» bilasiz.",
+  "closing.share": "↗ Bu hikoyani ulashish",
+  "about.line": "Mazmun Koreya protestant cherkovining koʻpchiligi baham koʻradigan <b>najot tarixiga oid, xushxabarchi va islohotchi (reformatorlik)</b> qarashga asoslangan.",
+  "about.contact": "Savol · fikr-mulohaza — <a id='contact' class='mail'>Xat yozish</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ESKI AHD · Boshlanish",
+   "title": "Yaratilish",
+   "date": "Azalda",
+   "one": "Xudo «juda yaxshi» olamni yaratdi.",
+   "people": "Xudo; Odam Ato va Momo Havo",
+   "events": "Olti kunlik yaratilish, Xudoning suratidagi inson, Shanba dam kuni",
+   "q": "Xudo azalda osmon bilan yerni yaratdi.",
+   "cite": "Ibtido 1:1",
+   "christ": "Olam «Kalom» orqali yaratilgan. Yuhanno Xushxabari bu Kalom Isoning Oʻzi ekanini eʼlon qiladi (Yuhanno 1:1-3).",
+   "detail": "<p>Muqaddas Kitob falsafiy dalil bilan emas, balki bir eʼlon bilan boshlanadi: <b>«Azalda Xudo…»</b>. Olam tasodif emas, balki shaxsiy Xudoning ishidir.</p><ul><li><b>Xudoning surati</b> · barcha jonzotlar orasidan faqat inson Xudoga oʻxshatib yaratilgan — Uni bilish va olamga gʻamxoʻrlik qilish uchun.</li><li><b>Dam olish</b> · yettinchi kundagi dam olish hamma narsa toʻliq va tinch (shalom) ekanini koʻrsatadi: «Xudo buni yaxshi koʻrdi».</li><li><b>Adan</b> · buzilishdan oldingi olam, Xudo va inson birga yuradigan joy.</li></ul>",
+   "next": "Ammo bu toʻkislik tez orada parchalanadi…"
+  },
+  {
+   "tag": "ESKI AHD · Muammo boshlanadi",
+   "title": "Inson tubanlashuvi (Tubanlashish)",
+   "date": "Azalda",
+   "one": "Gunoh kirdi va inson bilan Xudo oʻrtasidagi rishta uzildi.",
+   "people": "Odam Ato va Momo Havo; ilon (Shayton)",
+   "events": "Taqiqlangan mevani yeyish, Adandan quvilish, oʻlim va mashaqqatning kirib kelishi",
+   "q": "Dushmanlik paydo qilaman sen bilan xotin oʻrtasida… Uning zoti ezib tashlaydi sening boshingni.",
+   "cite": "Ibtido 3:15",
+   "christ": "Inson tubanlashuvidan soʻng darhol berilgan xushxabarning birinchi vaʼdasi: «xotinning zoti» ilonning boshini ezib tashlaydi. Bu — Iso (Ibtido 3:15; Rimliklarga 16:20; Galatiyaliklarga 4:4).",
+   "detail": "<p>«Xudoday boʻlish» istagidagi itoatsizlik tufayli gunoh olamga kirdi. Oqibati shunchaki bir qoidani buzish emas, balki <b>munosabatlarning uzilishidir</b>.</p><ul><li><b>Uzilgan rishtalar</b> · Xudo bilan (yashirinish), bir-biri bilan (ayblash) va tabiat bilan (tikan va mashaqqat).</li><li><b>Oʻlim</b> · «albatta oʻlasan» degan ogohlantirish haqiqatga aylanadi.</li><li><b>Ibtido 3:15</b> · ammo hukmning oʻrtasida avval najot vaʼdasi beriladi. Olimlar buni <b>«protoevangelium» (birinchi xushxabar)</b> deb ataydilar.</li></ul>",
+   "next": "Endi Xudo yagona bir insonni chaqirib, tiklanishni boshlaydi…"
+  },
+  {
+   "tag": "ESKI AHD · Vaʼda",
+   "title": "Ota-bobolar",
+   "date": "mil. av. taxm. 2000-yil",
+   "one": "Xudo Ibrohimga vaʼda qiladi: «Sen baraka manbai boʻlasan».",
+   "people": "Ibrohim · Isʼhoq · Yoqub · Yusuf",
+   "events": "Ibrohim bilan ahd, Isʼhoqning qurbonlik qilinishi, Yoqubning oʻn ikki oʻgʻli, Yusufning Misrda hokim boʻlishi",
+   "q": "Buyuk xalqning otasi qilaman seni… Sen orqali baraka toparlar Yer yuzidagi jamiki xalqlar.",
+   "cite": "Ibtido 12:2-3",
+   "christ": "«Jamiki xalqlar baraka topadi» degan vaʼda Ibrohim zoti boʻlmish Isoda bajo boʻladi (Galatiyaliklarga 3:16).",
+   "detail": "<p>Xudo butun insoniyatning muammosini yagona bir inson — <b>Ibrohimni</b> chaqirish bilan hal qila boshlaydi. Markazda <b>ahd (vaʼda)</b> turadi: buyuk xalq, yurt va «jamiki xalqlarga baraka».</p><ul><li><b>Imon</b> · Ibrohim koʻrinmas vaʼdaga ishondi va bu unga solihlik deb hisoblandi (Ibtido 15:6).</li><li><b>Isʼhoq va Yoqub</b> · vaʼda keyingi avlodga oʻtadi; Yoqub (Isroil) oʻn ikki qabilaning otasi boʻladi.</li><li><b>Yusuf</b> · aka-ukalari tomonidan sotilgan boʻlsa-da, Misrda hokim boʻlib koʻtariladi: «Xudo uni yaxshilikka ishlatdi» (Ibtido 50:20).</li></ul>",
+   "next": "Oila Yusuf ortidan Misrga tushadi… va oxiri qul boʻlib qoladi."
+  },
+  {
+   "tag": "ESKI AHD · Najot",
+   "title": "Misrdan chiqish va sahro",
+   "date": "mil. av. taxm. 1446-yil",
+   "one": "Xudo qul boʻlgan xalqni qutqarib, Oʻziniki qildi.",
+   "people": "Muso, Horun, firʼavn",
+   "events": "Oʻnta ofat, Pasxa (Fisih), Qizil dengizdan oʻtish, Sinayda Oʻn amr, chodir-ibodatxona, sahroda 40 yil",
+   "q": "Men sizlarni Oʻzimning xalqim qilaman, sizlarning Xudoyingiz boʻlaman.",
+   "cite": "Chiqish 6:7",
+   "christ": "Qoʻzining qoni oʻlimni qaytargan Pasxa, biz uchun xochga mixlangan «bizning Pasxa qoʻzimiz» Isoga ishora qiladi (1 Korinfliklarga 5:7).",
+   "detail": "<p>Eski Ahdning eng buyuk najot ishi. Qul boʻlgan Isroil Xudoning qudrati bilan ozodlikka chiqadi va Uning <b>xalqi</b> sifatida shakllantiriladi.</p><ul><li><b>Pasxa</b> · eshigiga qoʻzining qoni surilgan uyni oʻlim chetlab oʻtadi; keyingi barcha qurbonliklarning namunasi.</li><li><b>Qizil dengiz</b> · yoʻl tugagan joyda dengiz ochilib najot keladi; «narigi tomonga oʻtish» yangi boshlanish ramzi boʻladi.</li><li><b>Sinay ahdi</b> · Oʻn amr orqali ular Xudoning xalqi sifatida qanday yashashni oʻrganadilar.</li><li><b>Chodir-ibodatxona</b> · Xudo xalqi orasida yashaydigan koʻchma muqaddas joy: «Immanuel»ning oldindan koʻrinishi.</li><li><b>40 yil</b> · itoatsizlik tufayli bir avlod sahroda sarson boʻladi, ammo Xudo manna hamda bulut va olov ustuni bilan ular bilan birga boʻladi.</li></ul>",
+   "next": "Vaʼda qilingan yurt ostonasida turib, kirishga shaylanadilar…"
+  },
+  {
+   "tag": "ESKI AHD · Joylashish",
+   "title": "Yurtni egallash va hakamlar",
+   "date": "mil. av. taxm. 1400–1050-yillar",
+   "one": "Yurtni oladilar, lekin shoh boʻlmagani uchun har kim bilganini qiladi.",
+   "people": "Yoshua; Gideon va Shimsoʻn kabi hakamlar; Rut",
+   "events": "Yerixoning qulashi, Kanʼanga joylashish, gunoh–hukm–najotning takror-takror davriyligi",
+   "q": "Oʻsha davrlarda Isroilda shoh yoʻq edi. Har bir odam bilganini qilar edi.",
+   "cite": "Hakamlar 21:25",
+   "christ": "Rutning naslidan Dovud, Dovud naslidan esa Iso keladi (Matto 1). Hatto tartibsizlik ichida ham Masihning nasl daraxti davom etadi.",
+   "detail": "<p>Yoshua boshchiligida vaʼda qilingan yurtga kiradilar, ammo joylashgach tez orada Xudoni unutadilar. Hakamlar kitobi xuddi shu naqshning takroridir.</p><ul><li><b>Gunoh davriyligi</b> · gunoh → zulm → faryod → hakam orqali najot → yana gunoh, har safar battarroq.</li><li><b>Hakamlar</b> · Gideon, Shimsoʻn, Debora… vaqtinchalik qutqaruvchilar, qahramon, ammo kamchiliklarga toʻla.</li><li><b>Rut</b> · qorongʻu davrdagi sadoqat nuri; begona yurtlik ayol Dovud (va Iso) naslining ichiga kiradi.</li></ul>",
+   "next": "Xalq faryod qiladi: «Bizga ham shoh ber!»…"
+  },
+  {
+   "tag": "ESKI AHD · Avji",
+   "title": "Yagona shohlik",
+   "date": "mil. av. taxm. 1050–930-yillar",
+   "one": "Xudo Dovudga vaʼda qiladi: «Taxting to abad mustahkam boʻladi».",
+   "people": "Shoul · Dovud · Sulaymon",
+   "events": "Birinchi shoh Shoul, Dovud va Goʻliyot, Dovud bilan ahd, Sulaymonning maʼbadi",
+   "q": "Xonadoning va shohliging Mening oldimda abadiy turadi, taxting to abad mustahkam boʻladi.",
+   "cite": "2 Shohlar 7:16",
+   "christ": "«Abadiy taxt» Dovud zoti boʻlmish Isoda bajo boʻladi; shuning uchun U «Dovud Oʻgʻli» deb ataladi (Luqo 1:32-33; Matto 1:1).",
+   "detail": "<p>Isroilning avji, uchta shoh hukmronligida.</p><ul><li><b>Shoul</b> · xalq talab qilgan birinchi shoh; yaxshi boshlangan, ammo itoatsizligi tufayli rad etilgan.</li><li><b>Dovud</b> · «Xudoning yuragiga muvofiq odam». Goʻliyotni yengadi va Quddusni poytaxt qiladi. Katta gunoh qiladi (Botsheba), ammo chin yurakdan tavba qiladi (Zabur 50).</li><li><b>Dovud bilan ahd (2 Shohlar 7)</b> · Xudo uning sulolasini abadiy mustahkam qilishni vaʼda qiladi: Masih umidining hal qiluvchi ildizi.</li><li><b>Sulaymon</b> · donolik va boylikning choʻqqisida Quddusda <b>maʼbadni</b> quradi, ammo oxir-oqibat butparastlikka botadi.</li></ul>",
+   "next": "Sulaymondan keyin shohlik ikkiga boʻlinadi…"
+  },
+  {
+   "tag": "ESKI AHD · Tanazzul",
+   "title": "Boʻlingan shohlik",
+   "date": "mil. av. 930–586-yillar",
+   "one": "Janub (Yahudo) va shimol (Isroil)ga boʻlinib, asta-sekin buziladi.",
+   "people": "Ikkala shohlikning shohlari; Ilyos, Ishayo, Yeremiyo kabi paygʻambarlar",
+   "events": "Shohlikning boʻlinishi, butparastlik, paygʻambarlarning ogohlantirishlari",
+   "q": "Isroil xalqi oʻsha kundan boshlab Dovud xonadonidan yuz oʻgirdi.",
+   "cite": "3 Shohlar 12:19",
+   "christ": "Bu davrda paygʻambarlar kelajak Masihni tobora aniqroq eʼlon qiladilar (Ishayo 9:6; Ishayo 53).",
+   "detail": "<p>Sulaymon oʻgʻli davrida shohlik boʻlinadi: <b>Isroil (shimol)</b>, oʻn qabila, poytaxti Samariya; va <b>Yahudo (janub)</b>, ikki qabila, poytaxti Quddus.</p><ul><li><b>Shimol</b> · barcha shohlari butlarga xizmat qiladi; mil. av. 722-yilda Ossuriya oldida quladi.</li><li><b>Janub</b> · Dovud nasli davom etadi va Hizqiyo hamda Yoshiyo kabi yaxshi shohlar boʻladi, ammo umumiy holda tanazzulga uchraydi.</li><li><b>Paygʻambarlar</b> · Ilyos, Amos, Ishayo, Yeremiyo «qaytinglar!» deb faryod qiladi. Masih bashorati aynan shu yerda eng boy boʻladi (Ishayo 53dagi «azob chekuvchi xizmatkor»).</li></ul>",
+   "next": "Nihoyat eʼlon qilingan hukm keladi: ularni asirlikka olib ketadilar…"
+  },
+  {
+   "tag": "ESKI AHD · Hukm",
+   "title": "Surgun",
+   "date": "mil. av. 722 / 586-yillar",
+   "one": "Shohlik quladi va xalq begona yurtga olib ketildi.",
+   "people": "Doniyor, Hizqiyo, Navuxadnazar",
+   "events": "Isroil Ossuriya oldida quladi (722); Yahudo Bobil oldida quladi va maʼbad vayron qilindi (586)",
+   "q": "Bobildagi daryolar boʻyida oʻtirardik, yigʻlab, u yerlarda Quddusni eslardik.",
+   "cite": "Zabur 136:1",
+   "christ": "Tushkunlikning eng tubida Yeremiyo «yangi ahd»ni vaʼda qiladi (Yeremiyo 31:31): Iso soʻnggi taomda tuzgan oʻsha ahd.",
+   "detail": "<p>Ogohlantirish ushaladi. Maʼbad yonadi va xalq Bobilga olib ketiladi: yurt, shoh va maʼbadni yoʻqotadilar, eng ogʻir tang vaziyat.</p><ul><li><b>Ikki qulash</b> · Isroil (Ossuriya, mil. av. 722) va Yahudo (Bobil, mil. av. 586).</li><li><b>Doniyor</b> · butparast saroyda ham imon namunasi (sherlar uyasi); kelajakdagi «abadiy shohlik» vahiysini koʻradi.</li><li><b>Umid uchquni</b> · jonlanayotgan quruq suyaklar vahiysi (Hizqiyo 37) va Yeremiyoning «yangi ahd»i qorongʻulikda kelajakka ishora qiladi.</li></ul>",
+   "next": "Yetmish yildan keyin Xudo yoʻl ochadi: ular uyga qaytadilar…"
+  },
+  {
+   "tag": "ESKI AHD · Tiklanish",
+   "title": "Surgundan qaytish",
+   "date": "mil. av. 538–430-yillar",
+   "one": "Qaytib kelib, maʼbad va devorlarni qayta tiklaydilar.",
+   "people": "Ezra, Naximiyo, Ester, Zarubbabel",
+   "events": "Kir farmoni bilan qaytish, maʼbadni qayta qurish, Quddus devorlarini tiklash, Kalomning tiklanishi",
+   "q": "Egamiz tufayli topgan sevinchingiz najot qoʻrgʻoningizdir.",
+   "cite": "Naximiyo 8:10",
+   "christ": "Eski Ahdning soʻnggi kitobi Malaki Masih yoʻlini tayyorlaydigan elchini eʼlon qilib yakunlanadi: «Mana, Men Oʻz elchimni yuboraman» (Malaki 3:1).",
+   "detail": "<p>Qaytish Fors shohi Kirning farmoni bilan boshlanadi (mil. av. 538). Uch toʻlqinda qaytib kelib, vayron boʻlganni qayta tiklaydilar.</p><ul><li><b>Zarubbabel</b> · maʼbadni qayta quradi (mil. av. 516-yilda tugallangan).</li><li><b>Ezra</b> · qonunni (Kalomni) qaytadan oʻrgatib, imonni tiklaydi.</li><li><b>Naximiyo</b> · Quddus devorlarini 52 kunda qayta quradi.</li><li><b>Ester</b> · Forsdagi yahudiylarni qirilishdan qutqaradi: «Kim biladi, balki shu damgina…?».</li><li><b>Hamon davom etayotgan tashnalik</b> · maʼbad bor, ammo Dovud kabi shoh yoʻq. Xalq Masihni kutadi.</li></ul>",
+   "next": "Va shunda… osmon yopilgandek, 400 yillik sukunat boshlanadi."
+  },
+  {
+   "tag": "Ahdlar oraligʻi · Sahnani tayyorlash",
+   "title": "Sukunat yillari",
+   "date": "mil. av. taxm. 430–4-yillar",
+   "one": "400 yil paygʻambar ovozisiz; ammo sahna sukutda tayyorlandi.",
+   "people": "Buyuk Iskandar, Makkabeylar, Rim",
+   "events": "Fors → Gretsiya → Makkabeylar mustaqilligi → Rim hukmronligi",
+   "q": "Muddat bitgandan keyin, Xudo Oʻz Oʻgʻlini yubordi. Uning Oʻgʻli qonun ostidagi hayot uchun ayoldan tugʻildi.",
+   "cite": "Galatiyaliklarga 4:4",
+   "christ": "Bu butun «sahna tayyorlash» Iso aynan «muddat bitganda» kelishi uchun Xudoning ishi edi.",
+   "detail": "<p>Malakidan to Yangi Ahdgacha, taxminan 400 yil yangi Bibliya kalomisiz (paygʻambarsiz) oʻtadi. Ammo tarix ortida Xudo xushxabarning yoyilishi uchun yoʻl tayyorlardi.</p><ul><li><b>Imperiyalar almashinuvi</b> · Fors → Gretsiya (Iskandar, mil. av. 333) → Misr va Suriya → Makkabeylar qoʻzgʻoloni (mil. av. 167) → Rim (mil. av. 63).</li><li><b>Yunon tili</b> · Iskandar fathlari yunon tilini umumiy tilga aylantirdi; Eski Ahd yunonchaga tarjima qilindi (Septuaginta), xushxabarning tez tarqalishiga yoʻl ochildi.</li><li><b>Rim yoʻllari va tinchligi</b> · puxta qurilgan yoʻllar va «Rim tinchligi» missiya yoʻllariga aylanadi.</li><li><b>Sinagoga va oqimlar</b> · sinagogadagi taʼlim mustahkamlanadi; farziylar va saduqiylar paydo boʻladi va <b>Masihni kutish</b> yetiladi.</li></ul>",
+   "next": "Va sukunat buzilib, nihoyat U keladi."
+  },
+  {
+   "tag": "YANGI AHD · Bajo boʻlishi",
+   "title": "Isoning kelishi",
+   "date": "mil. av. taxm. 4 – mil. 30-yil",
+   "one": "Vaʼda qilingan Masih keldi, oʻldi va tirildi.",
+   "people": "Iso, oʻn ikki shogird, Choʻmdiruvchi Yahyo",
+   "events": "Insonga aylanish (Rojdestvo), taʼlim va moʻjizalar xizmati, xochdagi oʻlim, uchinchi kunda tirilish",
+   "q": "Kalom inson boʻldi, Oramizda yashadi… U inoyat va haqiqatga toʻlgandi.",
+   "cite": "Yuhanno 1:14",
+   "christ": "Xotinning zoti (2-sahna), Ibrohimning barakasi (3), Pasxa qoʻzisi (4), Dovudning abadiy shohi (6) va yangi ahd (8) — barchasi yagona Isoda bajo boʻladi: bizning haqiqiy paygʻambarimiz, ruhoniymiz va shohimiz.",
+   "detail": "<p>Sukunat buzilib, Vaʼda qilingan Zot keladi. Toʻrt Xushxabar Isoning hayoti, oʻlimi va tirilishiga turli burchaklardan guvohlik beradi.</p><ul><li><b>Insonga aylanish</b> · Xudo inson boʻldi (Immanuel, «Xudo biz bilan»), Baytlahmning kamtar joyida.</li><li><b>Xizmat</b> · Xudo Shohligini oʻrgatadi, bemorlarni sogʻaytiradi, gunohkorlarni chaqiradi. «Meni koʻrgan Otani koʻrgan boʻladi.»</li><li><b>Xoch</b> · inson tubanlashuvi (2-sahna) keltirgan gunoh va oʻlim bahosini bizning oʻrnimizga toʻlaydi. Haqiqiy Pasxa qoʻzisi.</li><li><b>Tirilish</b> · uchinchi kunda tirilib, gunoh, oʻlim va Shaytonning kuchini sindiradi; xochdayoq «hukmronliklaru kuchlarni qurolsizlantirib… ular ustidan gʻalaba qozondi» (Kolosaliklarga 2:15).</li></ul><p>Shuning uchun Iso bizning <b>haqiqiy paygʻambarimiz</b> (Xudoga yoʻlni koʻrsatadi), <b>haqiqiy ruhoniyimiz</b> (oʻz tani bilan gunohni yuvadi) va <b>haqiqiy shohimizdir</b> (gunoh, oʻlim va Shaytonni yengib, abadiy hukmronlik qiladi).</p>",
+   "next": "Tirilgan Iso shogirdlarini dunyoga yuboradi…"
+  },
+  {
+   "tag": "YANGI AHD · Kengayish",
+   "title": "Jamoatning boshlanishi",
+   "date": "mil. 30-yildan boshlab",
+   "one": "Ruh keladi va xushxabar yer yuzining chekkalarigacha tarqaladi.",
+   "people": "Butrus, Pavlus, ilk jamoat",
+   "events": "Hosil bayramida Ruhning kelishi, jamoatning tugʻilishi, taʼqiblar orqali xushxabarning Qudusdan Rimga yetib borishi",
+   "q": "Muqaddas Ruh sizlarni qamrab olganda, kuch–qudratga toʻlasizlar… yer yuzining hamma burchaklarida sizlar Mening shohidlarim boʻlasizlar.",
+   "cite": "Havoriylar 1:8",
+   "christ": "Bu hikoya bugun ham davom etmoqda. Muqaddas Kitob Iso yana qaytib kelishi va hamma narsani yangilashi vaʼdasi bilan yakunlanadi (Vahiy 21).",
+   "detail": "<p>Iso osmonga koʻtarilgach, vaʼda qilingan Ruh Hosil bayramida keladi va jamoat tugʻiladi. Xushxabar portlash kabi tarqaladi.</p><ul><li><b>Hosil bayrami</b> · Ruh tufayli qoʻrqoq shogirdlar dovyurak shohidlarga aylanadi.</li><li><b>Butrus</b> · Quddusda yahudiylarga xushxabarni eʼlon qiladi.</li><li><b>Pavlus</b> · taʼqibchidan havoriyga aylanadi; gʻayriyahudiy dunyosida jamoatlar tashkil etadi va maktublar yozadi.</li><li><b>Chekkalargacha</b> · Quddus → Yahudiya → Samariya → Rim. Ibrohimga berilgan «jamiki xalqlar» vaʼdasi haqiqatga aylanadi.</li><li><b>Va biz</b> · hikoya tugamaydi; Isoning qaytishi va yangi osmon-yangi yer sari davom etadi.</li></ul>",
+   "next": "Ammo hikoya shu yerda tugamaydi…"
+  },
+  {
+   "tag": "YANGI AHD · Nihoyaga yetish",
+   "title": "Tiklanish (hamma narsa yangi)",
+   "date": "Kelajakda",
+   "one": "Iso yana qaytib kelib, hamma narsani yangilaydi.",
+   "people": "Qaytib keladigan Iso; barcha xalqlar",
+   "events": "Ikkinchi kelish, soʻnggi hukm, gunoh·oʻlim·koʻz yoshlarning tugashi, yangi osmon va yangi yer",
+   "q": "Xudo ularning koʻzidagi har bir tomchi yoshni artib qoʻyadi. Endi oʻlim mavjud boʻlmaydi, hech kim qaygʻurmaydi, yigʻlamaydi, azob chekmaydi.",
+   "cite": "Vahiy 21:4",
+   "christ": "Birinchi yaratilishdagi Adan nihoyat «yangi Quddus» sifatida tiklanadi. Xudo xalqi bilan abadiy yashaydi: Immanuelning toʻkisligi (Vahiy 21:3; Matto 1:23).",
+   "detail": "<p>Muqaddas Kitob jamoat davrida tugamaydi. Uning soʻnggi kitobi — Vahiy, hamma narsani nihoyasiga yetkazish uchun <b>yana qaytib kelayotgan</b> Isoni koʻrsatadi.</p><ul><li><b>Ikkinchi kelish</b> · vaʼda qilingan shoh ulugʻvorlik bilan qaytadi.</li><li><b>Soʻnggi gʻalaba</b> · Shayton va oʻlim abadiy yoʻq qilinadi, Masih shohlar Shohi sifatida hukmronlik qiladi (1 Korinfliklarga 15:25-26; Vahiy 20:10).</li><li><b>Hukm va tirilish</b> · har bir adolatsizlik toʻgʻrilanadi va oʻliklar tiriladi.</li><li><b>Yangi osmon va yangi yer</b> · gunoh, oʻlim, koʻz yoshlar va azob abadiy yoʻqoladi (Vahiy 21:4).</li><li><b>Tiklangan Adan</b> · boshlanishidan ham yaxshi «yangi Quddus»da Xudo xalqi bilan abadiy yashaydi: butun Muqaddas Kitob ishora qilayotgan manzil.</li></ul><p>Shuning uchun bugun <b>«allaqachon, lekin hali emas»</b> davridir: Isoda najot <b>allaqachon</b> nihoyasiga yetgan, ammo uning toʻkisligi <b>hali</b> kutilmoqda.</p>",
+   "next": "Xoʻsh, bu butun hikoya «men» uchun nimani anglatadi?"
+  }
+ ],
+ "love": [
+  "Hikoyaning boshlanishi hukm emas, balki toshib turgan sevgi bilan yaratilgan olamdir.",
+  "Inson gunoh qilishi bilanoq, Xudo oʻsha yerning oʻzida najotni vaʼda qildi.",
+  "Xudo loyiq boʻlmaganni avval Oʻzi izlab, uni nomi bilan chaqirdi va baraka manbaiga aylantirdi.",
+  "Qul boʻlgan xalqning nolasini eshitib, ularni qutqarish uchun Oʻzi tushib keldi.",
+  "Qayta-qayta xiyonat qilsalar ham, har gal faryod qilganlarida qutqaruvchi yuborib, ularni yana oyoqqa turgʻazdi.",
+  "Hatto yiqilgan Dovudni ham rad etmadi; u orqali abadiy shohni vaʼda qildi.",
+  "Oʻzidan yuz oʻgirgan xalqqa paygʻambarlar yuborib: «Iltimos, qayt», deb yolvordi.",
+  "Surgunning eng qorongʻu yurtiga ham ular bilan birga tushib, tiklanishni vaʼda qildi.",
+  "Qayta-qayta xato qilgan xalqdan ham vaʼdasini qaytarib olmadi, balki uni yana oyoqqa turgʻazdi.",
+  "Hatto 400 yillik sukunat ichida ham, koʻzga koʻrinmas tarzda najot yoʻlini tayyorlardi.",
+  "Biz hali gunohkor boʻlganimizda, U Oʻz Oʻgʻlini yuborib, jonini fido qildi.",
+  "Biz olgan oʻsha sevgini, U endi butun dunyoga toʻkilishi uchun yuboradi.",
+  "Nihoyat har bir koʻz yoshni artib, hamma narsani sevgi ila yangilaydi."
+ ],
+ "mis": [
+  {
+   "w": "«Nega Xudo gunoh qila oladigan jonzotni yaratdi? Umuman yaratmagani yaxshi boʻlmasmidi?»",
+   "t": "Xudo olamni va insonni biron kamchilik tufayli emas, balki toshib turgan sevgi tufayli yaratdi. Insonni <b>Xudo bilan munosabatda boʻla oladigan shaxs</b> qilib yaratishning oʻzi sevgidir. Gunohning kirib kelishi ham Xudoning najot rejasidan tashqarida boʻlmadi (Efesliklarga 1:4-5). Muqaddas Kitobning birinchi sahnasi hukm emas, balki sevgidir."
+  },
+  {
+   "w": "«Bittagina mevani yegani uchun quvilish va hatto oʻlimga mahkum boʻlish — Xudo haddan tashqari shafqatsiz emasmi?»",
+   "t": "Adandan quvilish ham hukm, ham marhamat edi. Agar inson Xudodan ajralgan, buzilgan holatda hayot daraxtidan yeb, abadiy yashasa, u abadiy azobga tutilib qolardi (Ibtido 3:22). Oʻlimga yoʻl qoʻyish — qaytish yoʻlini ochish edi; va oʻsha yerning oʻzida Xudo Najotkorni vaʼda qildi (Ibtido 3:15). Hukmning ichida allaqachon sevgi bor edi."
+  },
+  {
+   "w": "«Ibrohim buyuk imoni tufayli tanlangan; Muqaddas Kitobdagi barcha shaxslar axloqiy qahramonlar emasmi?»",
+   "t": "Ibrohim ham yolgʻon gapirdi va shubhalandi, Yoqub esa firibgar edi. Xudo «loyiqlarni» emas, balki kamchiliklarga toʻla insonlarni inoyat bilan chaqirdi. Tanlovning sababi ularning aʼlosi emas, balki Xudoning sadoqatli sevgisi edi (Qonunlar 7:7-8)."
+  },
+  {
+   "w": "«Qonun (amrlar) najot topish uchun oʻtilishi shart boʻlgan imtihon yoki shart emasmi?»",
+   "t": "Xudo ularni qonunni berishdan <b>oldin</b> najot qildi. Oʻn amr najot eʼloni bilan boshlanadi: «Men sizlarni Misrdagi qullikdan olib chiqqan Egangiz Xudoman» (Chiqish 20:2). Qonun «najot topish uchun unga amal qil» degani emas, balki inoyat orqali allaqachon najot topganlar qanday yashashi haqidagi sevgi yoʻriqnomasidir (Qonunlar 7:7-9). Doimo avval inoyat; itoat esa javobdir."
+  },
+  {
+   "w": "«Kanʼanni egallash shafqatsiz qirgʻin edi; demak Eski Ahd Xudosi shafqatsiz ekan.»",
+   "t": "Bu bir jumlada hal boʻlmaydigan, ehtiyotkorlik talab qiladigan mavzu. Ammo Muqaddas Kitob buni oʻzboshimcha zoʻravonlik emas, balki asrlar davomida (bolalarni qurbon qilishni ham qoʻshib) haddan oshgan yovuzlikka koʻp sabrdan keyingi hukm sifatida koʻrsatadi (Ibtido 15:16; Qonunlar 9:4-5; Levilar 18:24-25). Xudo hukmda ham shoshilmaydi va Oʻziga yuzlangan kishini, hatto begona boʻlsa-da, Rahab va Rut kabi mamnuniyat bilan qabul qiladi (Yoshua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "«Dovud kamchiliksiz qahramon edi; shuning uchun uni “Xudoning yuragiga muvofiq odam” deyishgan.»",
+   "t": "Dovud zino qildi va hatto qotillik ham qildi. «Xudoning yuragiga muvofiq» degani kamchiliksiz emas, balki gunohini yashirmagan, chuqur tavba qilgan va doimo Xudoga qaytgan kishi degani (Zabur 50). Xudoning sevgisi ogʻir yiqilganni ham rad etmaydi."
+  },
+  {
+   "w": "«Paygʻambar — kelajakni bashorat qiladigan folbin; Eski Ahd Xudosi faqat gʻazablanadi.»",
+   "t": "Paygʻambarning asl mohiyati «kelajakni topish» emas, balki Xudoning chin yurakdan faryodidir: «Iltimos, qayt». Hatto hukm ogohlantirishi ham yoʻq qilish uchun emas, balki qaytarib hayot berish uchundir: «Men yovuzning oʻlimidan zavqlanmayman» (Hizqiyo 33:11)."
+  },
+  {
+   "w": "«Surgun Xudo Isroilni butunlay tashlab ketganini isbotlaydi.»",
+   "t": "Surgun tashlab ketish emas, balki Otaning sevikli farzandiga tarbiyasi va poklanishi edi (Ibroniylarga 12:6). Xudo ketmadi; surgunning qoq oʻrtasida Doniyor bilan birga boʻldi va vaʼda qildi: «Men sizlar toʻgʻringizda tuzgan rejalarimni bilaman… yorugʻ kelajagu umid beradi» (Yeremiyo 29:11)."
+  },
+  null,
+  {
+   "w": "«400 yil davomida soʻz boʻlmagani — Xudo ketgani yoki dam olayotgani emasmi?»",
+   "t": "Sukunat — yoʻqlik emas. U faqat soʻzlamadi; oʻsha vaqt davomida najot sahnasini tayyorlash uchun imperiyalar, tillar va yoʻllarni harakatga keltirardi. Eng sokin damda Xudo har qachongidan koʻra koʻproq sevgi bilan ishlardi (Galatiyaliklarga 4:4)."
+  },
+  {
+   "w": "«Iso shunchaki yaxshi axloq muallimlaridan biri; xoch esa fojiali magʻlubiyat edi.»",
+   "t": "Iso Oʻzini Xudo deb eʼlon qildi (Yuhanno 8:58), va xoch tasodif ham, magʻlubiyat ham emas, balki rejalashtirilgan sevgi edi. U majburan olib borilmadi, balki jonini Oʻz ixtiyori bilan fido qildi (Yuhanno 10:18). «Kim oʻz jonini doʻstlari uchun fido qilsa, bundan ortiq sevgi yoʻq» (Yuhanno 15:13)."
+  },
+  {
+   "w": "«Jamoat — mukammal odamlarning diniy klubi yoki shunchaki bino.»",
+   "t": "Jamoat «mukammal avliyolar» jamoasi emas, balki <b>kechirilgan gunohkorlar</b> jamoasidir. Hatto havoriy Pavlus ham oʻzini «gunohkorlarning birinchisi» deb atadi (1 Timoʻtiyga 1:15). Ilk jamoat ham bahslashdi va xato qildi (Havoriylar 6:1; 1 Korinfliklarga 1:11). Jamoat maqtanish uchun emas, balki olgan sevgisini boshqalarga yetkazadigan odamlardir (Yuhanno 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Asl gunoh: solih kimsa yoʻq",
+   "body": "Muammo «baʼzi yomon ishlar» emas, balki yurakning ildizidir. Odam Atodan boshlab, hamma gunoh ostida tugʻiladi va oʻzicha Xudoga yeta olmaydi.",
+   "vref": "Rimliklarga 3:10-12, 23",
+   "vtext": "Hech bir solih kimsa yoʻqdir, hatto bironta ham yoʻq!… hamma gunoh qilgan va Xudoning ulugʻvorligidan mahrumdir."
+  },
+  {
+   "title": "Qonun meni najot qila olmaydi",
+   "body": "Qonun narvon emas, balki koʻzgudir. Unga amal qilishga qanchalik urinsam, qanchalik xato qilishimni shunchalik koʻrsatadi. Uning maqsadi bizni Masihga olib borishdir.",
+   "vref": "Rimliklarga 3:20 · Galatiyaliklarga 3:24",
+   "vtext": "Qonun insonga gunohkorligini yanada aniqroq koʻrsatadi… qonun Masihga boshlovchi murabbiyimiz edi."
+  },
+  {
+   "title": "Inoyat orqali: inʼom, saʼy-harakat emas",
+   "body": "Najot toʻplangan savob uchun toʻlov emas, balki loyiq boʻlmaganlarga Xudo bergan inʼomdir. Shuning uchun hech kim maqtana olmaydi.",
+   "vref": "Efesliklarga 2:8-9",
+   "vtext": "Sizlar Xudodan inoyat topib, imon orqali najot topgansiz… savob ishlarim tufayli emas, hech kim maqtanmasin."
+  },
+  {
+   "title": "Imon orqali oqlanish",
+   "body": "Qonunga amal qilish bilan emas, balki Iso Masihga ishonish orqali solih deb eʼlon qilinamiz: oʻz solihligimizga emas, balki Uning solihligiga burkanamiz.",
+   "vref": "Rimliklarga 5:1 · Galatiyaliklarga 2:16",
+   "vtext": "Biz imonimiz tufayli oqlanganmiz… inson qonunga amal qilish bilan emas, balki Iso Masihga boʻlgan imoni orqali oqlanadi."
+  },
+  {
+   "title": "Muqaddas Kitob Isoga ishora qiladi",
+   "body": "Muqaddas Kitob buyuk insonlarning tarjimai holi yoki oʻz-oʻziga yordam kitobi emas. Ibtidodan to Vahiygacha har bir sahifa bir Zotga — Iso Masihga guvohlik beradi.",
+   "vref": "Yuhanno 5:39 · Luqo 24:27",
+   "vtext": "Oʻsha Yozuvlar Men toʻgʻrimda guvohlik beradi… Iso Oʻzi haqida yozilgan soʻzlarning hammasini ularga tushuntirdi."
+  },
+  {
+   "title": "Xudo Shohligi: Isoning markaziy xabari",
+   "body": "Iso eng koʻp oʻrgatgan mavzu. Xudo shoh sifatida hukmronlik qiladigan Shohlik Iso bilan bu dunyoga kirdi va Uning ikkinchi kelishida toʻkis boʻladi. Xoch va tirilish orqali Iso gunoh, oʻlim va Shaytonni yenggan haqiqiy Shohdir.",
+   "vref": "Mark 1:15",
+   "vtext": "Vaqt–soati yetdi. Xudoning Shohligi yaqinlashdi! Tavba qilinglar, Xushxabarga ishoninglar!"
+  },
+  {
+   "title": "Xushxabar: U hammasini bajo qildi",
+   "body": "Men hech qachon toʻlay olmaydigan gunoh qarzini Iso mening oʻrnimga xochda toʻladi va tirilish orqali oʻlimni yengdi. Men «qil» degan narsaga emas, balki «bajo boʻldi»ga suyanaman.",
+   "vref": "Yuhanno 19:30 · Rimliklarga 5:8",
+   "vtext": "Amalga oshdi!… biz hali gunohga botgan chogʻimizda, Masih biz uchun oʻldi."
+  }
+ ]
+}
