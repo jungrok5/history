@@ -75,6 +75,7 @@ node .claude/skills/add-language/lib/audit-links.mjs <code>  # 92/92 · missed 0
 - 절번호 차이 주의: 사 9:6 vs 9:5는 번역본별 상이(CUV/ESV/Синод./АБ=9:6; TB/BTT/Luther/新共同訳=9:5).
 
 ## 7. 커밋 (작업 브랜치)
+- **커밋 전 `CLAUDE.md` 갱신**(언어 추가 시 필수): `## 현재 상태`의 언어 수·코드 목록·날짜·작업 이력에 새 언어 반영 + `구절 링크` 섹션의 `YV 버전ID(검증됨)` 목록에 `<code><id>` 추가. (CLAUDE.md는 `.vercelignore`로 배포 제외 → 사이트 영향 없음)
 - 브랜치 `claude/bible-timeline-mobile-site-cb8u6x`. 한국어 커밋 메시지 + 푸터:
   `Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>` / `Claude-Session: ...`.
   (모델 식별자를 산출물에 넣지 말 것)
@@ -98,4 +99,5 @@ git checkout claude/bible-timeline-mobile-site-cb8u6x
 - [ ] qr-<code>.png · build 산출물(<code>/index.html·og-<code>.png·sitemap·llms)
 - [ ] validate ✓ · audit-links 92/92·missed 0·anchors OK
 - [ ] 원어민 검수 반영(진짜 불일치 0)
+- [ ] **CLAUDE.md 갱신**(현재 상태 언어 수·목록·날짜·이력 + YV ID 목록)
 - [ ] 커밋·푸시(작업 브랜치) → (허락 시) main 배포 → 라이브 확인
