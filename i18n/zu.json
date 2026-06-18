@@ -1,0 +1,343 @@
+{
+ "menuName": "isiZulu",
+ "htmlLang": "zu",
+ "dir": "ltr",
+ "brand": "IBhayibheli Ngokubuka Okukodwa",
+ "docTitle": "IBhayibheli Ngokubuka Okukodwa · Kusukela ekuDalweni kuya eBandleni",
+ "share": {
+  "title": "IBhayibheli Ngokubuka Okukodwa",
+  "text": "Ngokukhuphukela okukodwa, thola indaba enkulu yeBhayibheli — nokuthi kungani uJesu eza."
+ },
+ "ui": {
+  "people": "Abantu",
+  "events": "Izehlakalo ezibalulekile",
+  "christLabel": "Kukhomba kuJesu",
+  "loveLabel": "Uthando olungayeki",
+  "mythWrong": "Ukungaqondi okuvamile",
+  "mythRight": "Iqiniso",
+  "more": "Funda kabanzi",
+  "version": "(1959)"
+ },
+ "labels": {
+  "start": "Qala",
+  "thread": "Indaba",
+  "gospel": "IVangeli",
+  "about": "Mayelana"
+ },
+ "s": {
+  "ui.share": "↗ Yabelana",
+  "ui.toast": "Isixhumanisi sikopishelwe 📋",
+  "ui.footer": "IBhayibheli Ngokubuka Okukodwa · Izicaphuno zeBhayibheli zithathwe ku-1959",
+  "hero.kicker": "KUSUKELA EKUDALWENI KUYA EBANDLENI",
+  "hero.title": "IBhayibheli,<br><span class='em'>ngokubuka okukodwa</span>",
+  "hero.sub": "Ngokukhuphukela okukodwa, thola indaba enkulu yeBhayibheli — nokuthi kungani uJesu eza.",
+  "hero.cue": "Khuphukela phansi<span>↓</span>",
+  "thread.eyebrow": "UMUSHO OWODWA OXHUMA KONKE NDAWONYE",
+  "thread.h2": "Ekugcineni, iBhayibheli liyindaba eyodwa kuphela",
+  "thread.flow": "<b>Isithembiso</b><span class='arw'>→</span><b>Ukulinda</b><span class='arw'>→</span><b>Ukugcwaliseka</b>",
+  "thread.note": "UNkulunkulu uyathembisa (isivumelwano), abantu balinda isikhathi eside, ekugcineni konke <b>kuyagcwaliseka</b> kuphele kuJesu. Landela imibukiso eyi-13 engezansi ngalokho kuqhubeka — cindezela <b>“Funda kabanzi”</b> kuleyo naleyo khadi ukuze uthole indaba ejulile.",
+  "gospel.eyebrow": "OKUSHIWO YILE NDABA “KUMINA”",
+  "gospel.h2": "Inhliziyo yangempela yeBhayibheli",
+  "gospel.lead": "IBhayibheli <b>alisilo incwadi yokufundisa ngokuthi “yiba ngumuntu olungile.”</b>",
+  "gospel.sublead": "Yindaba yokuthi uNkulunkulu, <b>ngomusa kuphela</b>, wasindisa kanjani izoni ezazingeke ziziphephise zona ngokwazo. Esikhungweni sayo kumi uJesu Kristu.",
+  "gospel.mirror": "<h3>Umjikelezo ongapheli ka-Israyeli empeleni uwumfanekiso “wami”</h3><div class='cycle'><b>Ukukhonza izithombe</b><span class='a'>→</span><b>Ukuhlupheka</b><span class='a'>→</span><b>Ukukhala</b><span class='a'>→</span><b>UNkulunkulu uyasindisa</b><span class='a'>→</span><b>Ukukhonza izithombe futhi…</b></div><p>Kusukela kubaHluleli kuze kube sekuthunjweni, u-Israyeli uphinda lo mjikelezo ungapheli. IBhayibheli alikulobanga lokhu ukuze sigcone sithi, “Yeka indlela ababelusizi ngayo.”</p><p>Kuyisibuko. Akukhona ukuthi “u-Israyeli wenza lokho” kodwa <b>“nami ngenza okufanayo”</b> (1 Korinte 10:11).</p><p>Isithombe akusiyo nje insalela ebaziweyo. Kuyiyo <b>yonke into esiyithanda noma esiyethemba ukwedlula uNkulunkulu</b> — imali, impumelelo, ukwamukelwa, abantu, ngisho nami uqobo. Nokusebenzisa uNkulunkulu <b>njengethuluzi lokuthola engikufunayo</b> nakho ukukhonza izithombe.</p><p class='punch'>Ekugcineni, isithombe esijule kunazo zonke yi“mina uqobo, ngihlezi esihlalweni sobukhosi sikaNkulunkulu.”</p>",
+  "gospel.coreIntro": "Pho uNkulunkulu uyisindisa kanjani le soni? Nansi inhliziyo yevangeli iBhayibheli elilimemezelayo.",
+  "gospel.crux": "<p class='crux-lead'>Lonke iBhayibheli likhomba endaweni eyodwa.</p><p>Abantu babengeke bawuqede umjikelezo wesono ngokwabo, futhi kwakungekho noyedwa olungileyo. Ngakho othile kwakumelwe <b>akhokhe inani esikhundleni sabo</b>.</p><p>UJesu akazange eze nje ukuze afundise okuhle kuphela. Njengoba kwakungekho enye indlela yokungisindisa, <b>kwakumelwe eze.</b></p><p class='crux-punch'>Lowo okwakufanele alengiswe kuleso siphambano <b>kwakuyimi</b>.<br>UJesu wathwala <b>isono sami</b> wabethelwa lapho esikhundleni sami.</p><div class='crux-verse'>“Yebo, yalinyazwa ngenxa yeziphambeko zethu, yachotshozwa ngobubi bethu… nangemivimbo yayo siphilisiwe thina.” — Isaya 53:5</div>",
+  "faq.h": "Usazabalaza nokuthize?",
+  "faq.q1": "<span class='arr'>▸</span> Ngakho umbulali kudingeka nje akholwe abese eya ezulwini, kanti umuntu ophile kahle impilo yakhe yonke kodwa ongakholwa uya esihogweni?",
+  "faq.a1": "<p>Kuwumbuzo ofanele. Kodwa kufihleke ukungaqondi okubili kuwo.</p><p><b>① IBhayibheli alibahlukanisi abantu ngokuthi “abalungile vs. ababi.”</b> Isilinganiso akusikho ukuthi “ungcono kunomakhelwane” kodwa “ubungcwele obuphelele bukaNkulunkulu.” Phambi kwakhe, akekho “olunge ngokwanele” (Roma 3:23). Ngakho lokhu akukhona “umuntu olungile vs. umbulali,” kodwa kufana nabantu ababili abanesifo esisodwa esibulalayo — omunye uyawuthatha umuthi, omunye uyawenqaba ethi, “Ngiphilile kunalowo muntu.”</p><p><b>② Yinto eyodwa kuphela ehlukanisa izulu nesihogo.</b> Akusiwo amaphuzu okuziphatha, kodwa <b>ukuthi ngabe umamukele yini uJesu Kristu njengeNkosi futhi inkinga yakho yesono ixazululekile.</b> Lowo onesono sakhe esixazululwe ngegazi likaKristu uya ezulwini; lowo ongakaze amamukele, osono sakhe sisekhona, akayi. Awukho umsebenzi omuhle ongakwazi ukuxazulula inkinga yesono ngokwayo.</p><p>Ngakho izulu nesihogo akusiwo “umklomelo wokuziphatha okuhle” kodwa kuyindaba <b>yobuhlobo noKristu</b>. Futhi “ukukholwa” akusivumelwano ngengqondo kuphela kodwa kuwukushintsha kwalowo obusa impilo yakho — noma ngubani omamukela ngempela akazidli, kodwa uphenduka ngokujule kakhulu. Empeleni, ukuzilungisisa (“ngingumuntu olungile”) kuyisithombe esinzima kakhulu ukusiqeda, leso esenza sicabange ukuthi asimdingi uKristu (Luka 18:9-14).</p><p>IBhayibheli likusho kucace: <b>“Okholwa yiyo kahlulelwa; ongakholwa usahlulelwe”</b> (Johane 3:18). Ukwahlulela akukhona “ukukala impilo yakho lapho usufile,” kodwa sekuxazululiwe ngokuthi <b>umamukele yini uKristu</b>.</p><p class='faq-v'>Roma 3:23 · Johane 3:18 · Efesu 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Akwanele yini ukuphila impilo elungile ngaphandle kokukholwa kuJesu?",
+  "faq.a2": "<p>Yiwona mcabango ovame kakhulu, kodwa awuyiqondi ukuthi yini inkinga yangempela. Nasi isithombe.</p><p><b>Cabanga ukuthi usemkhunjini wabaphangi.</b> Noma ngabe uwuhlanza kangakanani umkhumbi, unobungane kangakanani kubantu bawo, iphila kahle kangakanani impilo yakho — usengowabaphangi, ngoba uthwalwa kanye nomkhumbi uye lapho uya khona (ichweba lokwahlulelwa). Inkinga akusiwo “amaphuzu okuziphatha” kodwa <b>“ungowamuphi umkhumbi” (ubunjalo bakho)</b>.</p><p>Ngakho ivangeli alithi “zama kakhulu ukuba muhle,” lithi <b>“shintsha umkhumbi.”</b> Yehla emkhunjini wesono uwelele kuJesu — ubunjalo obusha <b>bomntwana kaNkulunkulu</b>. Lokhu akukhona ukunyusa amaphuzu akho ngomzamo, kodwa ukwethemba Lowo owelulela isandla sakhe uwelele emkhunjini wakhe.</p><p>Empeleni iBhayibheli lichaza insindiso njengalokhu kanye kushintsha: <b>“owasikhulula emandleni obumnyama nowasibeka embusweni weNdodana yothando lwakhe”</b> (Kolose 1:13).</p><p>Ungaqondi kabi: <b>lokhu akusho ukuthi impilo elungile ayinamsebenzi.</b> Ukulunga akusiwo “umbandela” wensindiso kodwa <b>isithelo</b> sayo. Lowo oshintshe umkhumbi manje uphila kahle hhayi ngenxa yokwesaba, kodwa <b>ngothando lomntwana</b>.</p><p class='faq-v'>Kolose 1:13 · Johane 1:12 · Johane 3:3 · Efesu 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Uma owonile ezizwa enokuthula, ethi “uNkulunkulu ungithethelele,” kanti olimele usahlupheka — akusho ukuthi umusa ushibhile kakhulu?",
+  "faq.a3": "<p>Umbuzo ufanele, futhi ubuhlungu bungobangempela. Kodwa lolo hlobo lwesitatimende akusikho “ukuthethelela kweBhayibheli” — kuyisonakaliso saso.</p><p><b>① Ukuthethelela kukaNkulunkulu akukaze kube shibhile.</b> Isono asimboziwe kungathi “asenzekanga”; uNkulunkulu uqobo wakhokha inani laso ngokuphila kweNdodana yakhe. Isiphambano asikhona ubufakazi bokuthi isono sithathwa kalula, kodwa kobukhulu baso — kuwukuthethelela okudula kunakho konke emhlabeni.</p><p><b>② Ukuphenduka kwangempela kuthela izithelo.</b> Uma owonile ezidla phambi kolimele — “uNkulunkulu ungithethelele, ngakho nginokuthula” — lokho akukhona ukuphenduka kodwa ukulingisa kokuphenduka (Mathewu 3:8). Futhi ukuthethelela phakathi komuntu noNkulunkulu akusisuli isilonda solimele futhi akumphoqi olimele ukuba athethelele.</p><p><b>③ Isono asikaze nje “siyekwe.”</b> Sonke isono sikhokhelwa kwenye yezindawo ezimbili — <b>noma uKristu asithwale esiphambanweni</b> (kwabakuye akusekho ukulahlwa, Roma 8:1), <b>noma lowo omalayo kuze kube sekugcineni asithwale yena.</b> Ngakho akukho “ukuthethelelwa okushibhile.” Owonile naye usenomthwalo ngokomthetho kuleli zwe (Roma 13:1-4).</p><p><b>④ Izinyembezi zolimele azikaze zibe ncinyane phambi kukaNkulunkulu.</b> UNkulunkulu uyakhala nabakhalayo, ukhumbula zonke izinyembezi, ekugcineni uyozesula yena uqobo (IsAmbulo 21:4). Ngakho olimele akadingi ukuthwala umthwalo wokuphindisela yedwa, kodwa angakubeka kuNkulunkulu olungile (Roma 12:19 — “Ngokwami ukuphindisela, ngiyakubuyisela mina, isho iNkosi”).</p><p class='faq-v'>Mathewu 3:8 · Roma 8:1 · Roma 13:1-4 · IsAmbulo 21:4</p>",
+  "respond.h3": "Pho — kuthiwani ngami?",
+  "respond.sub": "Lolu thando akusilo ulwazi kodwa <b>isimemo</b>. Uma uthando olwabethelwa esikhundleni sakho luthinte inhliziyo yakho, thandaza lokhu ngokunensa, umugqa nomugqa.",
+  "respond.prayer": "<p>Nkulunkulu,</p><p>ngiyavuma ukuthi ngiyisoni esingakwazi ukuzisindisa.</p><p>Ngiyakholwa ukuthi uJesu wangifela esiphambanweni futhi wavuka.</p><p>Ngicela uthethelele zonke izono zami, kusukela manje ube yiNkosi yempilo yami.</p><p>Ngamukele njengomntwana wakho, ungenze ngiphile impilo entsha.</p><p class='amen'>Ngegama likaJesu ngiyathandaza. Amen.</p>",
+  "respond.after": "Uma uthandaze lokhu ngobuqotho, iBhayibheli lithi <b>usube ngumntwana kaNkulunkulu</b>. Awusekho wedwa — thola ibandla eliseduze uhambe nabanye endleleni yokukholwa.",
+  "respond.verse": "“Kepha bonke abamamukelayo wabapha amandla okuba babe ngabantwana bakaNkulunkulu.” — Johane 1:12 · Roma 10:9-10",
+  "closing.main": "UNkulunkulu oyedwa,<br>ngendaba eyodwa,<br>uyasifuna ngo<em>thando</em><br>olungayeki neze.",
+  "closing.verse": "“Nakufa, nakuphila… nanto enye edaliweyo akuyikuba namandla okusahlukanisa nothando lukaNkulunkulu olukuKristu Jesu iNkosi yethu.” — Roma 8:38-39",
+  "closing.small": "Phezu kwale ndaba, uMthetho, izinkondlo, abaProfethi nezincwadi kungeza “inyama.”<br>Manje, noma yiyiphi incwadi oyivulayo, uyobona ukuthi ukuphi endabeni.",
+  "closing.share": "↗ Yabelana ngale ndaba",
+  "about.line": "Kususelwa embonweni <b>womlando wensindiso, wevangeli no-Reformed</b> owabelwana ngawo ibandla iningi lamaProthestani aseKorea.",
+  "about.contact": "Imibuzo · ukuphawula — <a id='contact' class='mail'>Sithumelele i-imeyili</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ITHESTAMENTE ELIDALA · ISIQALO",
+   "title": "Ukudala",
+   "date": "Ekuqaleni",
+   "one": "UNkulunkulu wenza izwe “elalilihle kakhulu.”",
+   "people": "UNkulunkulu; u-Adamu no-Eva",
+   "events": "Izinsuku eziyisithupha zokudala, umuntu owenziwe ngomfanekiso kaNkulunkulu, ukuphumula kweSabatha",
+   "q": "Ekuqaleni uNkulunkulu wadala izulu nomhlaba.",
+   "cite": "Genesise 1:1",
+   "christ": "Izwe lenziwa “ngeLizwi.” IVangeli likaJohane limemezela ukuthi leli Lizwi nguJesu uqobo (Johane 1:1-3).",
+   "detail": "<p>IBhayibheli aliqali ngempikiswano yefilosofi kodwa ngesimemezelo: <b>“Ekuqaleni uNkulunkulu…”</b> Izwe alisona ingozi kodwa liwumsebenzi kaNkulunkulu ongumuntu.</p><ul><li><b>Umfanekiso kaNkulunkulu</b> · kuzo zonke izidalwa, umuntu yedwa owenziwe ukuze afane noNkulunkulu — ukuze amazi futhi anakekele izwe.</li><li><b>Ukuphumula</b> · ukuphumula kosuku lwesikhombisa kukhombisa konke kuphelele futhi kunokuthula (i-shalom): “kwakukuhle.”</li><li><b>I-Edene</b> · izwe ngaphambi kokuba laphuke, lapho uNkulunkulu nabantu behamba ndawonye.</li></ul>",
+   "next": "Kodwa lokhu kuphelela sekuzophuka…"
+  },
+  {
+   "tag": "ITHESTAMENTE ELIDALA · INKINGA IYAQALA",
+   "title": "Ukuwa",
+   "date": "Ekuqaleni",
+   "one": "Isono sangena, kwanqamuka isibopho phakathi kwabantu noNkulunkulu.",
+   "people": "U-Adamu no-Eva; inyoka (uSathane)",
+   "events": "Ukudla isithelo esinqatshelwe, ukuxoshwa e-Edene, ukufika kokufa nokukhandleka",
+   "q": "Ngizakubeka ubutha phakathi kwakho nowesifazane… Yona iyakuchoboza ikhanda lakho.",
+   "cite": "Genesise 3:15",
+   "christ": "Isithembiso sokuqala sevangeli, esinikezwa ngokushesha ngemva kokuWa: “inzalo yowesifazane” iyochoboza ikhanda lenyoka — futhi lowo nguJesu (Genesise 3:15; Roma 16:20; Galathiya 4:4).",
+   "detail": "<p>Ngokungalaleli kokufuna “ukufana noNkulunkulu,” isono sangena ezweni. Umphumela akusikona nje umthetho ophukile kodwa <b>ubuhlobo obuphukile</b>.</p><ul><li><b>Izibopho eziphukile</b> · noNkulunkulu (ukucasha), nabanye (ukusola), nemvelo (ameva nokukhandleka).</li><li><b>Ukufa</b> · isexwayiso esithi “uzakufa nokufa” siba yiqiniso.</li><li><b>Genesise 3:15</b> · kepha phakathi nokwahlulela, isithembiso sokusindisa siza kuqala. Izazi zikubiza ngokuthi <b>i-protoevangelium (ivangeli lokuqala)</b>.</li></ul>",
+   "next": "Manje uNkulunkulu ubiza umuntu oyedwa ukuze aqale insindiso…"
+  },
+  {
+   "tag": "ITHESTAMENTE ELIDALA · ISITHEMBISO",
+   "title": "Okhokho",
+   "date": "cishe ngo-2000 BC",
+   "one": "UNkulunkulu uthembisa u-Abrahama, “Uyoba umgudu wesibusiso.”",
+   "people": "U-Abrahama · u-Isaka · uJakobe · uJosefa",
+   "events": "Isivumelwano sika-Abrahama, ukunikelwa kuka-Isaka, amadodana ayishumi nambili kaJakobe, uJosefa ukhuphukela egunyeni eGibithe",
+   "q": "Ngiyakukwenza isizwe esikhulu… imindeni yonke yomhlaba iyakubusiswa kuwe.",
+   "cite": "Genesise 12:2-3",
+   "christ": "Isithembiso sokuthi “imindeni yonke iyobusiswa” sigcwaliseka kuJesu, inzalo ka-Abrahama (Galathiya 3:16).",
+   "detail": "<p>UNkulunkulu uqala ukubhekana nenkinga yesintu sonke ngokubiza umuntu oyedwa, <b>u-Abrahama</b>. Inhliziyo yakho yileso <b>sivumelwano (isithembiso)</b> — isizwe esikhulu, izwe, kanye “nesibusiso kuyo yonke imindeni.”</p><ul><li><b>Ukukholwa</b> · u-Abrahama wakholwa isithembiso esingabonakali, futhi kwabalelwa kuye kwaba ngukulunga (Genesise 15:6).</li><li><b>U-Isaka noJakobe</b> · isithembiso siyaqhubeka; uJakobe (u-Israyeli) uzala izizwe eziyishumi nambili.</li><li><b>UJosefa</b> · wathengiswa abafowabo kepha waphakanyiselwa egunyeni — “uNkulunkulu wakuceba kwaba kuhle” (Genesise 50:20).</li></ul>",
+   "next": "Belandela uJosefa, umndeni wehlela eGibithe — wabe usuba yizigqila…"
+  },
+  {
+   "tag": "ITHESTAMENTE ELIDALA · INSINDISO",
+   "title": "Ukuphuma nehlane",
+   "date": "cishe ngo-1446 BC",
+   "one": "UNkulunkulu wasindisa abantu ababeyizigqila wabenza abakhe.",
+   "people": "UMose, u-Aroni, uFaro",
+   "events": "Izinhlupho eziyishumi, iPhasika, ukuwela uLwandle Olubomvu, iMiyalo Eyishumi eSinayi, itabernakele, iminyaka engu-40 ehlane",
+   "q": "Ngiyakunithatha nibe yisizwe sami, mina ngibe nguNkulunkulu wenu.",
+   "cite": "Eksodusi 6:7",
+   "christ": "IPhasika — lapho igazi lewundlu lasusa ukufa — likhomba kuJesu, “iwundlu lethu lePhasika,” elabethelwa ngenxa yethu (1 Korinte 5:7).",
+   "detail": "<p>Insindiso enkulu kakhulu yeThestamente Elidala. U-Israyeli owayekade eyisigqila ukhululwa ngamandla kaNkulunkulu wenziwa <b>isizwe</b> sakhe.</p><ul><li><b>IPhasika</b> · indlu emakwe ngegazi lewundlu emnyango ayifikelwa ukufa — isibonelo ngemva kwayo yonke iminikelo eyalandela.</li><li><b>ULwandle Olubomvu</b> · insindiso lapho indlela isiphelile; “ukuwela” kuba uphawu lwesiqalo esisha.</li><li><b>Isivumelwano saseSinayi</b> · ngeMiyalo bafunda ukuthi baphile kanjani njengabantu bakaNkulunkulu.</li><li><b>Itabernakele</b> · indawo engcwele enyakazayo lapho uNkulunkulu ehlala phakathi kwabantu bakhe — ukunambitha kusengaphambili “kuka-Emanuweli.”</li><li><b>Iminyaka engu-40</b> · ukungalaleli kugcina isizukulwane sizulazula ehlane, kepha uNkulunkulu uhlala eseduze ngemana nensika yefu nomlilo.</li></ul>",
+   "next": "Bemi onqenqemeni lwezwe lesithembiso, bazilungiselela ukungena…"
+  },
+  {
+   "tag": "ITHESTAMENTE ELIDALA · UKUZINZA",
+   "title": "Ukunqoba nabaHluleli",
+   "date": "cishe ngo-1400–1050 BC",
+   "one": "Bathola izwe, kodwa bengenankosi yilowo nalowo wenza okumthokozisayo.",
+   "people": "UJoshuwa; abahluleli abanjengoGideyoni noSamsoni; uRuthe",
+   "events": "Ukuwa kweJeriko, ukuzinza eKhanani, umjikelezo ophindwayo wesono–ukwahlulela–ukusindiswa",
+   "q": "Ngalezo zinsuku kwakungekho nkosi kwa-Israyeli; yilowo nalowo wenza okulungile emehlweni akhe.",
+   "cite": "AbaHluleli 21:25",
+   "christ": "Ohlangothini lukaRuthe kuza uDavide, futhi ohlangothini lukaDavide kuza uJesu (Mathewu 1). Ngisho naphakathi kwesiphithiphithi, umuzi womndeni kaMesiya uyaqhubeka.",
+   "detail": "<p>Ngaphansi kukaJoshuwa bangena ezweni lesithembiso, kodwa ngemva kokuzinza basheshe bamkhohlwe uNkulunkulu. AbaHluleli buyiphethini efanayo eqhubekayo.</p><ul><li><b>Umjikelezo owehlayo</b> · isono → ukucindezelwa → ukukhala → umhluleli uyasindisa → isono futhi. Kuya kuba kubi kakhulu.</li><li><b>AbaHluleli</b> · uGideyoni, uSamsoni, uDebora — abasindisi besikhashana, abanesibindi kodwa abanamaphutha amaningi.</li><li><b>URuthe</b> · indaba ekhanyayo yokwethembeka esikhathini esimnyama; owesifazane wesizwe esingaphandle ungena ohlangothini lukaDavide (nelikaJesu).</li></ul>",
+   "next": "Abantu bayakhala bathi, “Siphe inkosi nathi!”…"
+  },
+  {
+   "tag": "ITHESTAMENTE ELIDALA · ISIKHATHI SEGOLIDE",
+   "title": "Umbuso ohlangene",
+   "date": "cishe ngo-1050–930 BC",
+   "one": "UNkulunkulu uthembisa uDavide, “Isihlalo sakho sobukhosi siyohlala kuze kube phakade.”",
+   "people": "USawule · uDavide · uSolomoni",
+   "events": "Inkosi yokuqala uSawule, uDavide noGoliyati, isivumelwano sikaDavide, uSolomoni wakha ithempeli",
+   "q": "Indlu yakho nombuso wakho kuyakuqiniswa njalo… isihlalo sakho sobukhosi siyakumiswa kuze kube phakade.",
+   "cite": "2 Samuweli 7:16",
+   "christ": "“Isihlalo sobukhosi esiphakade” sigcwaliseka kuJesu, indodana kaDavide — yingakho ebizwa ngokuthi “iNdodana kaDavide” (Luka 1:32-33; Mathewu 1:1).",
+   "detail": "<p>Isicongo sika-Israyeli, sibuswa amakhosi amathathu.</p><ul><li><b>USawule</b> · inkosi abantu abayifuna; isiqalo esihle esonakaliswa ukungalaleli.</li><li><b>UDavide</b> · “umuntu ngokwenhliziyo kaNkulunkulu.” Unqoba uGoliyati, enza iJerusalema inhloko-dolobha. Wenza isono esikhulu (uBati-Sheba) kepha uyaphenduka ngenhliziyo yonke (iHubo 51).</li><li><b>Isivumelwano sikaDavide (2 Samuweli 7)</b> · UNkulunkulu uthembisa ukumisa umkhaya kaDavide kuze kube phakade — impande enqumayo yethemba likaMesiya.</li><li><b>USolomoni</b> · esicongweni sokuhlakanipha nengcebo wakha <b>ithempeli</b>, kodwa ngasekupheleni kokuphila kwakhe waphendukela ezithombeni.</li></ul>",
+   "next": "Ngemva kukaSolomoni, umbuso uhlukana phakathi…"
+  },
+  {
+   "tag": "ITHESTAMENTE ELIDALA · UKWEHLA",
+   "title": "Umbuso ohlukene",
+   "date": "930–586 BC",
+   "one": "Wahlukana waba seningizimu (uJuda) nasenyakatho (u-Israyeli), isizwe sehlela encithakalweni.",
+   "people": "Amakhosi emibuso yomibili; abaprofethi abanjengo-Eliya, u-Isaya, uJeremiya",
+   "events": "Umbuso uyahlukana, ukukhonza izithombe kuyanda, abaprofethi bayaxwayisa",
+   "q": "U-Israyeli wayeseyihlubuka-ke indlu kaDavide kuze kube namuhla.",
+   "cite": "1 AmaKhosi 12:19",
+   "christ": "Kulesi sikhathi abaprofethi babikezela uMesiya ozayo ngokucaca okwengeziwe (Isaya 9:6; Isaya 53).",
+   "detail": "<p>Ezinsukwini zendodana kaSolomoni isizwe sahlukana: <b>umbuso wasenyakatho ka-Israyeli</b> (izizwe eziyishumi, inhloko-dolobha iSamariya) <b>nombuso waseningizimu kaJuda</b> (izizwe ezimbili, inhloko-dolobha iJerusalema).</p><ul><li><b>U-Israyeli (inyakatho)</b> · zonke izinkosi zakhonza izithombe; uwa ku-Asiriya ngo-722 BC.</li><li><b>UJuda (iningizimu)</b> · uhlangothi lukaDavide luyaqhubeka, kunamakhosi amahle ambalwa anjengoHezekiya noJosiya, kodwa jikelele uyehla.</li><li><b>AbaProfethi</b> · u-Eliya, u-Amose, u-Isaya, uJeremiya bakhala bathi “buyani!” Isiprofetho sikaMesiya sifinyelela esicongweni saso lapha (“inceku ehluphekayo” yaka-Isaya 53).</li></ul>",
+   "next": "Ekugcineni ukwahlulela okwakuxwayiswe ngakho kuyeza — bayathunjwa…"
+  },
+  {
+   "tag": "ITHESTAMENTE ELIDALA · UKWAHLULELA",
+   "title": "Ukuthunjwa",
+   "date": "722 / 586 BC",
+   "one": "Isizwe siyadilika futhi abantu badonswa baya emazweni angaphandle.",
+   "people": "UDaniyeli, uHezekeli, uNebukadinesari",
+   "events": "U-Israyeli uwela ku-Asiriya (722), uJuda uwela eBabele kuchithwe ithempeli (586)",
+   "q": "Ngasemifuleni yaseBabele sahlala khona, sakhala, lapho sikhumbula iSiyoni.",
+   "cite": "iHubo 137:1",
+   "christ": "Ekujuleni kokuphelelwa yithemba uJeremiya uthembisa “isivumelwano esisha” (Jeremiya 31:31) — kanye nesivumelwano uJesu asibeka eSidlweni Sokugcina.",
+   "detail": "<p>Izexwayiso ziyafezeka. Ithempeli liyasha futhi abantu badonselwa eBabele — belahlekelwa yizwe, inkosi, nethempeli: iphuzu eliphansi kunawo wonke.</p><ul><li><b>Ukuwa kabili</b> · u-Israyeli (i-Asiriya, 722 BC) noJuda (iBabele, 586 BC).</li><li><b>UDaniyeli</b> · isibonelo sokukholwa ngisho nasenkantolo yabezizwe (umgodi wamabhubesi); ubona imibono “yombuso ophakade” ozayo.</li><li><b>Inhlansi yethemba</b> · umbono kaHezekeli wamathambo omileyo abuya aphila (Hezekeli 37) “nesivumelwano esisha” sikaJeremiya kukhomba ikusasa ebumnyameni.</li></ul>",
+   "next": "Ngemva kweminyaka engamashumi ayisikhombisa, uNkulunkulu uvula indlela — baya ekhaya…"
+  },
+  {
+   "tag": "ITHESTAMENTE ELIDALA · UKUBUYISELWA",
+   "title": "Ukubuya",
+   "date": "538–430 BC",
+   "one": "Bayabuya bavuselele ithempeli nezindonga.",
+   "people": "U-Ezra, uNehemiya, u-Esteri, uZerubabeli",
+   "events": "Ukubuya ngomthetho kaKoresi, ukwakhiwa kabusha kwethempeli, ukubuyiselwa kwezindonga zaseJerusalema, ukubuyiselwa kweZwi",
+   "q": "Injabulo kaJehova iyinqaba yenu.",
+   "cite": "Nehemiya 8:10",
+   "christ": "UMalaki, incwadi yokugcina yeThestamente Elidala, iphetha ngokubikezela isithunywa esilungiselela indlela kaMesiya: “Bheka, ngiyathuma isithunywa sami” (Malaki 3:1).",
+   "detail": "<p>Ngomthetho wenkosi yasePheresiya uKoresi (538 BC) ukubuya kuyaqala. Ngamagagasi amathathu babuya bakha kabusha lokho okwakudilikile.</p><ul><li><b>UZerubabeli</b> · wakha kabusha ithempeli (laphela ngo-516 BC).</li><li><b>U-Ezra</b> · ufundisa iZwi futhi avuselele ukukholwa.</li><li><b>UNehemiya</b> · wakha kabusha izindonga zaseJerusalema ezinsukwini ezingu-52.</li><li><b>U-Esteri</b> · usindisa amaJuda asePheresiya ekubhujisweni — “ngenxa yesikhathi esinjengalesi.”</li><li><b>Kusafisekiwe</b> · ithempeli limi, kodwa ayikho inkosi enjengoDavide. Abantu balindela uMesiya.</li></ul>",
+   "next": "Bese-ke… sengathi izulu lithula du, kudlula iminyaka engu-400."
+  },
+  {
+   "tag": "PHAKATHI KWAMATHESTAMENTE · UKULUNGISA ISITEJI",
+   "title": "Iminyaka yokuthula",
+   "date": "cishe ngo-430–4 BC",
+   "one": "Iminyaka engu-400 kungekho zwi lomprofethi — kepha isiteji sasilungiswa buthule.",
+   "people": "U-Alexander oMkhulu, amaMakabe, iRoma",
+   "events": "IPheresiya → iGrisi → inkululeko yamaMakabe → ukubusa kwaseRoma",
+   "q": "Kepha lapho sekufikile ukuphelela kwesikhathi, uNkulunkulu wathuma iNdodana yakhe, izelwe ngowesifazane.",
+   "cite": "Galathiya 4:4",
+   "christ": "Konke lokhu “kulungiswa kwesiteji” kwakunguNkulunkulu osebenzayo ukuze uJesu eze ngqo “ekupheleleni kwesikhathi.”",
+   "detail": "<p>Kusukela kuMalaki kuya eThestamenteni Elisha, kudlula cishe iminyaka engu-400 kungekho mbhalo omusha. Kepha ngemuva komlando uNkulunkulu wayelungisa indlela yevangeli.</p><ul><li><b>Imibuso iyashintsha izandla</b> · iPheresiya → iGrisi (u-Alexander, 333 BC) → amaPtolemy namaSeleucid → ukuvukela kwamaMakabe (167 BC) → iRoma (63 BC).</li><li><b>IsiGrikhi</b> · ukunqoba kuka-Alexander kwenza isiGrikhi ulimi olujwayelekile; iThestamente Elidala lahunyushelwa esiGrikhini (i-Septuagint), kuvula indlela yokuthi ivangeli lisabalale ngokushesha.</li><li><b>Imigwaqo nokuthula kweRoma</b> · imigwaqo eyakhiwe kahle “ne-Pax Romana” iba imigwaqo yokushumayela.</li><li><b>Amasinagoge namaqembu</b> · ukufundisa kwesinagoge kuyajiya; abaFarisi nabaSadusi bayavela; <b>nokulangazelela uMesiya</b> kuyavuthwa.</li></ul>",
+   "next": "Bese ukuthula kuyaphuka — ekugcineni, uyeza."
+  },
+  {
+   "tag": "ITHESTAMENTE ELISHA · UKUGCWALISEKA",
+   "title": "UJesu uyeza",
+   "date": "cishe ngo-4 BC–30 AD",
+   "one": "UMesiya owathenjiswa weza, wafa, wabuye wavuka.",
+   "people": "UJesu, abafundi abayishumi nambili, uJohane uMbhapathizi",
+   "events": "Ukuthatha kwakhe umzimba womuntu, inkonzo yakhe nokufundisa nezimangaliso, ukufa esiphambanweni, ukuvuka ngosuku lwesithathu",
+   "q": "ULizwi waba yinyama, wakha phakathi kwethu, sabona inkazimulo yakhe… egcwele umusa neqiniso.",
+   "cite": "Johane 1:14",
+   "christ": "Inzalo yowesifazane (umbukiso 2), isibusiso sika-Abrahama (3), iwundlu lePhasika (4), inkosi ephakade kaDavide (6), isivumelwano esisha (8) — konke kugcwaliseka emuntwini oyedwa, uJesu: umProfethi wethu wangempela, umPristi neNkosi.",
+   "detail": "<p>Ukuthula kuyaphuka; lowo owathenjiswa uyafika. AmaVangeli amane afakaza ngokuphila, ukufa nokuvuka kukaJesu ngezici ezine.</p><ul><li><b>Ukuthatha umzimba womuntu</b> · uNkulunkulu uba umuntu (u-Emanuweli, “uNkulunkulu unathi”), endaweni ephansi yaseBhetlehema.</li><li><b>Inkonzo</b> · ufundisa umbuso kaNkulunkulu, welapha abagulayo, ubiza izoni. “Ongibonile ubonile uBaba.”</li><li><b>Isiphambano</b> · ukhokha inani lesono nokufa okwalethwa ukuWa (umbukiso 2). Iwundlu lePhasika langempela.</li><li><b>Ukuvuka</b> · evuka ngosuku lwesithathu, uchitha amandla esono, ukufa, noSathane — kakade esiphambanweni “waphuca ababusi nabanamandla izikhali… ebanqoba” (Kolose 2:15).</li></ul><p>Ngakho uJesu ungumProfethi wethu wangempela (esikhombisa indlela eya kuNkulunkulu), <b>umPristi wethu wangempela</b> (ehlawulela isono ngomzimba wakhe), <b>neNkosi yethu yangempela</b> (enqoba isono, ukufa, noSathane, ebusa kuze kube phakade).</p>",
+   "next": "UJesu ovukile uthuma abafundi bakhe ezweni…"
+  },
+  {
+   "tag": "ITHESTAMENTE ELISHA · UKWANDA",
+   "title": "Ibandla liyaqala",
+   "date": "cishe ngo-30 AD–",
+   "one": "UMoya uyeza, ivangeli lisabalala liye emikhawulweni yomhlaba.",
+   "people": "UPetru, uPawulu, ibandla lokuqala",
+   "events": "UMoya uthululwa ngePhentekoste, ibandla liyazalwa, ivangeli lisabalala lisuka eJerusalema liya eRoma ngokushushiswa",
+   "q": "Nizakwamukeliswa amandla, uMoya oNgcwele esefikile phezu kwenu… kuze kube sekugcineni komhlaba.",
+   "cite": "IzEnzo 1:8",
+   "christ": "Le ndaba isaqhubeka nanamuhla. IBhayibheli liphetha ngesithembiso sokuthi uJesu uyobuya futhi enze izinto zonke zibe zintsha (IsAmbulo 21).",
+   "detail": "<p>Ngemva kokwenyukela kukaJesu, uMoya owathenjiswa uyeza ngePhentekoste futhi ibandla liyazalwa. Ivangeli lisabalala ngokuqhuma.</p><ul><li><b>IPhentekoste</b> · uMoya uphendula abafundi abesabayo babe ngofakazi abanesibindi.</li><li><b>UPetru</b> · ushumayela ivangeli kumaJuda eJerusalema.</li><li><b>UPawulu</b> · esuka kumshushisi waba umphostoli, etshala amabandla emhlabeni wabezizwe ebhala izincwadi.</li><li><b>Kuze kube sekugcineni komhlaba</b> · iJerusalema → iJudiya → iSamariya → iRoma. Isithembiso esenziwa ku-Abrahama “sayo yonke imindeni” siyafezeka.</li><li><b>Nathi</b> · indaba ayipheli; iqhubeka iya ekubuyeni kukaJesu nezulu elisha nomhlaba omusha.</li></ul>",
+   "next": "Kodwa indaba ayipheli lapha…"
+  },
+  {
+   "tag": "ITHESTAMENTE ELISHA · UKUPHELELISWA",
+   "title": "Ukubuyiselwa (konke kube kusha)",
+   "date": "Kusezayo",
+   "one": "UJesu uyabuya enze izinto zonke zibe zintsha.",
+   "people": "UJesu obuyayo; zonke izizwe",
+   "events": "Ukubuya kwesibili, ukwahlulela kokugcina, ukuphela kwesono·ukufa·izinyembezi, izulu elisha nomhlaba omusha",
+   "q": "Azesule izinyembezi zonke emehlweni abo; ukufa akusayikuba khona; nokudabuka, nokukhala, nobuhlungu akusayikuba khona.",
+   "cite": "IsAmbulo 21:4",
+   "christ": "I-Edene yokudala kokuqala ekugcineni ibuyiselwa “njengeJerusalema Elisha.” UNkulunkulu uhlala nabantu bakhe kuze kube phakade — ukugcwala kuka-Emanuweli (IsAmbulo 21:3; Mathewu 1:23).",
+   "detail": "<p>IBhayibheli aliphethi ngenkathi yebandla. Incwadi yalo yokugcina, IsAmbulo, ikhombisa uJesu <b>ebuya</b> ukuze aqede konke.</p><ul><li><b>Ukubuya kwesibili</b> · inkosi eyathenjiswa ibuya ngenkazimulo.</li><li><b>Ukunqoba kokugcina</b> · uSathane nokufa kuyanqotshwa kuze kube phakade, futhi uKristu ubusa njengeNkosi yamakhosi (1 Korinte 15:25-26; IsAmbulo 20:10).</li><li><b>Ukwahlulela nokuvuka</b> · konke okungalungile kuyalungiswa, abafileyo bayavuswa.</li><li><b>Izulu elisha nomhlaba omusha</b> · isono, ukufa, izinyembezi nobuhlungu kuyanyamalala kuze kube phakade (IsAmbulo 21:4).</li><li><b>I-Edene ebuyiselwe</b> · “eJerusalema Elisha” elingcono kunesiqalo, uNkulunkulu uhlala nabantu bakhe kuze kube phakade — umgomo lonke iBhayibheli eliqonde kuwo.</li></ul><p>Ngakho manje isikhathi <b>“sekuvele, kodwa kungakapheleli”</b>: kuJesu insindiso <b>isivele</b> yafezeka, kodwa ukuphelela kwayo <b>kusalindelwe.</b></p>",
+   "next": "Pho yini eshiwo yiyo yonke le ndaba “kumina”?"
+  }
+ ],
+ "love": [
+  "Indaba ayiqali ngokwahlulela kodwa ngokudala okuthululwe ngothando.",
+  "Ngomzuzu abantu bona ngawo, uNkulunkulu wathembisa insindiso lapho khona.",
+  "UNkulunkulu weza kuqala kumuntu ongakufanele, wambiza ngegama, wamenza umgudu wesibusiso.",
+  "Wezwa ukububula kwabantu ababeyizigqila, wehlela phansi ukuzobasindisa yena uqobo.",
+  "Ekhashelwa kaningi futhi nakaningi, kepha nakanjani lapho bekhala wathuma umsindisi wabaphakamisa.",
+  "Akazange amlahle ngisho noDavide owayewile, futhi ngaye wathembisa iNkosi yaphakade.",
+  "Kubantu abamfulathela, waqhubeka ethuma abaprofethi, encenga, “Sicela ubuye ekhaya.”",
+  "Wahamba nabo ngisho nasezweni elimnyama kunawo wonke lokuthunjwa, wathembisa ukubuyiselwa.",
+  "Ngisho nakubantu abahluleka kaningi futhi nakaningi, akazange asibuyise isithembiso sakhe.",
+  "Ngisho naphakathi neminyaka engu-400 yokuthula, engabonakali, wayelungisa indlela yensindiso.",
+  "Sisengabasoni, wathuma iNdodana yakhe ukuze idele ukuphila kwayo.",
+  "Uthando esaluthola, manje uluthumela lugobhoze emhlabeni wonke.",
+  "Ekugcineni uyokwesula zonke izinyembezi enze izinto zonke zibe zintsha ngothando."
+ ],
+ "mis": [
+  {
+   "w": "“Kungani uNkulunkulu enza abantu ababengona? Bekungaba ngcono yini ukuthi angasenzi nhlobo?”",
+   "t": "UNkulunkulu wadala izwe nabantu hhayi ngenxa yokuntula okuthize, kodwa ngothando oluchichimayo. Ukwenza abantu babe <b>ngabantu abaxhumana noNkulunkulu</b> ngokwakho kuwuthando. Futhi ngisho nokungena kwesono kwakungaphandle kwecebo lensindiso likaNkulunkulu (Efesu 1:4-5). Umbukiso wokuqala weBhayibheli akusikho ukwahlulela kodwa uthando."
+  },
+  {
+   "w": "“Ukuxoshwa anikwe nokufa ngenxa nje yokudla isithelo esisodwa — ingabe uNkulunkulu akalukhuni ngokweqile?”",
+   "t": "Ukukhishwa e-Edene kwakuwukwahlulela nomusa kanyekanye. Ukudla emthini wokuphila uphile phakade kuleso simo esiphukile, esahlukaniswe noNkulunkulu, kwakuyobamba umuntu ekuhluphekeni kuze kube phakade (Genesise 3:22). Ukuvumela ukufa kwavula indlela yokubuya, futhi lapho khona uNkulunkulu wathembisa uMsindisi (Genesise 3:15). Uthando lwaluvele lukhona ngaphakathi kokwahlulela."
+  },
+  {
+   "w": "“U-Abrahama wakhethwa ngenxa yokukholwa kwakhe okukhulu — akusiwo wonke amaqhawe okuziphatha abantu beBhayibheli?”",
+   "t": "U-Abrahama waqamba amanga futhi wangabaza; uJakobe wayengumkhohlisi. UNkulunkulu akazange abize abantu “abafanelekayo” kodwa abanamaphutha, ngomusa. Isizathu kwakungesikho ukulunga kwabo kodwa uthando oluthembekile lukaNkulunkulu (Duteronomi 7:7-8)."
+  },
+  {
+   "w": "“Ingabe umthetho (iMiyalo) akusiwo isivivinyo okumelwe usiphumelele ukuze usindiswe?”",
+   "t": "UNkulunkulu wabasindisa <b>ngaphambi</b> kokunika umthetho. Ngisho neMiyalo Eyishumi iqala ngesimemezelo sensindiso: “NginguJehova uNkulunkulu wakho owakukhipha ezweni laseGibithe” (Eksodusi 20:2). Umthetho awusho ukuthi “wugcine ukuze usindiswe,” kodwa uyisiqondiso sothando sokuthi abantu abasindisiwe bafanele baphile kanjani (Duteronomi 7:7-9). Umusa uhlala uqala kuqala; ukulalela kuyimpendulo."
+  },
+  {
+   "w": "“Ukunqoba iKhanani kwakuwukubulala okungenamusa — ngakho uNkulunkulu weThestamente Elidala ngempela unesihluku.”",
+   "t": "Lesi yisihloko esinzima esingenakuxazululwa ngomusho owodwa. Kodwa iBhayibheli alikwethuli njengodlame olungenanqondo kodwa njengokwahlulela ngemva kwamakhulu eminyaka okubekezela ububi obukhulu (kuhlanganisa nokunikela ngezingane) (Genesise 15:16; Duteronomi 9:4-5; Levitikusi 18:24-25). UNkulunkulu uyephuza ngisho nasekwahluleleni, futhi wabamukela ngenjabulo labo abaphendukela kuye — ngisho nabezizwe abanjengoRahabi noRuthe (Joshuwa 6:25; Ruthe 4:13-17)."
+  },
+  {
+   "w": "“UDavide wayeyiqhawe elingenasici — yingakho ebizwa ‘ngomuntu ngokwenhliziyo kaNkulunkulu.’”",
+   "t": "UDavide wenza ubufebe ngisho nokubulala. “Umuntu ngokwenhliziyo kaNkulunkulu” akusho ukuthi ophelele, kodwa lowo ongazange afihle isono sakhe — owaphenduka ngokuphelele waqhubeka ebuyela kuNkulunkulu (iHubo 51). Uthando lukaNkulunkulu alulahli ngisho nalabo abawa kabi."
+  },
+  {
+   "w": "“Umprofethi ngumbhuli obikezela ikusasa / uNkulunkulu weThestamente Elidala uthukuthele kuphela.”",
+   "t": "Inhliziyo yomprofethi akusikho “ukubikezela ikusasa” kodwa isikhalo sikaNkulunkulu esibuhlungu: “Sicela ubuye.” Ngisho nezexwayiso zokwahlulela aziqondene nokubhubhisa kodwa ukubuyisa abantu nokubasindisa — “angithokozi ngokufa komubi” (Hezekeli 33:11)."
+  },
+  {
+   "w": "“Ukuthunjwa kufakazela ukuthi uNkulunkulu wamlahla ngokuphelele u-Israyeli.”",
+   "t": "Ukuthunjwa kwakungekho ukulahla kodwa ukuyala nokuhlanza ngakumntwana othandekayo (Hebheru 12:6). UNkulunkulu akazange ahambe; wayenoDaniyeli phakathi nokuthunjwa wathembisa, “Ngiyazi mina imicabango engiyicabanga ngani — imicabango yokuthula kungengeyobubi ukuba ngininike isikhathi esizayo nethemba” (Jeremiya 29:11)."
+  },
+  null,
+  {
+   "w": "“Njengoba kungekho zwi iminyaka engu-400, uNkulunkulu wayehambile noma ephumule.”",
+   "t": "Ukuthula akusikho ukungabikho. Wayengakhulumi nje, kanti kuso sonke leso sikhathi wayehambisa imibuso, izilimi, nemigwaqo ukuze alungise isiteji sensindiso. Ngomzuzu othule kakhulu, uNkulunkulu wayesebenza kakhulu, ngothando (Galathiya 4:4)."
+  },
+  {
+   "w": "“UJesu wayengumfundisi nje oyedwa olungile wokuziphatha / isiphambano kwakuwukuhlulwa okudabukisayo.”",
+   "t": "UJesu wathi unguNkulunkulu uqobo (Johane 8:58), futhi isiphambano kwakungesona isigameko noma ukuhlulwa kodwa uthando olwahlelwa. Akazange ahudulelwe lapho ngempoqo; wadela ukuphila kwakhe ngokwakhe (Johane 10:18). “Akakho onothando olukhulu kunalolo lokuba adele ukuphila kwakhe ngenxa yabahlobo bakhe” (Johane 15:13)."
+  },
+  {
+   "w": "“Ibandla liyiqembu labantu abaphelele, noma liyisakhiwo nje.”",
+   "t": "Ibandla alisona umphakathi “wabangcwele abaphelele” kodwa <b>wezoni ezithethelelweyo</b>. Ngisho nomphostoli uPawulu wazibiza ngokuthi “engingesikhulu” kwezoni (1 Thimothewu 1:15). Ibandla lokuqala laxabana futhi lakhubeka (IzEnzo 6:1; 1 Korinte 1:11). Akusiyo indawo yokuziqhayisa, kodwa abantu abadlulisela uthando abaluthola (Johane 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Isono sokuzalwa — akekho olungileyo",
+   "body": "Inkinga akusikho “izenzo ezimbalwa ezimbi” kodwa impande yenhliziyo. Kusukela ku-Adamu, wonke umuntu uzalwa ngaphansi kwesono futhi ngeke afinyelele kuNkulunkulu ngokwakhe.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Akakho olungileyo, akakho noyedwa… ngokuba bonke bonile, basilalelwe inkazimulo kaNkulunkulu."
+  },
+  {
+   "title": "Umthetho awukwazi ukungisindisa",
+   "body": "Umthetho akusiwo isikhwelo kodwa isibuko. Ngokuthi uzame kakhulu, kanjalo ukhombisa ukuthi uphuthelwe kangakanani. Inhloso yawo ukusiholela kuKristu.",
+   "vref": "Roma 3:20 · Galathiya 3:24",
+   "vtext": "Ngomthetho kukhona ukwazi isono… umthetho sewaba ngumlayi wethu wokusiyisa kuKristu."
+  },
+  {
+   "title": "Ngomusa — isipho, hhayi umzamo",
+   "body": "Insindiso akusiyo inkokhelo yomsebenzi owuzuzile, kodwa isipho samahhala kulabo abangakufanele. Ngakho akekho ongaziqhayisa.",
+   "vref": "Efesu 2:8-9",
+   "vtext": "Ngokuba ngomusa nisindisiwe ngokukholwa… akuveli ngemisebenzi, ukuze kungabikho ozibongayo."
+  },
+  {
+   "title": "Silungisiswa ngokukholwa",
+   "body": "Akukhona ngokugcina umthetho, kodwa ngokukholwa kuJesu Kristu, sibalwa silungile — sigqokiswa hhayi ngokulunga kwethu kodwa ngokwakhe.",
+   "vref": "Roma 5:1 · Galathiya 2:16",
+   "vtext": "Lokhu sesilungisisiwe ngokukholwa… umuntu akalungisiswa ngemisebenzi yomthetho, kuphela ngokukholwa nguKristu Jesu."
+  },
+  {
+   "title": "IBhayibheli likhomba kuJesu",
+   "body": "IBhayibheli akusiyo incwadi yamadoda amakhulu noma yokuzisiza. Kusukela kuGenesise kuya kuIsAmbulo, ikhasi ngalinye lifakaza ngomuntu oyedwa — uJesu Kristu.",
+   "vref": "Johane 5:39 · Luka 24:27",
+   "vtext": "Nihlola imibhalo… yiyona efakaza ngami… wabachasisela emibhalweni okuqondene naye."
+  },
+  {
+   "title": "Umbuso kaNkulunkulu — umyalezo omkhulu kaJesu",
+   "body": "Isihloko uJesu asifundisa kakhulu. Ukubusa kukaNkulunkulu njengeNkosi kwangena kuleli zwe noJesu futhi kuyophelela lapho ebuya. Ngesiphambano nokuvuka kwakhe, uJesu uyiNkosi yangempela enqobe isono, ukufa, noSathane.",
+   "vref": "Marku 1:15",
+   "vtext": "Isikhathi sigcwalisekile, umbuso kaNkulunkulu ususondele; phendukani, nikholwe yivangeli."
+  },
+  {
+   "title": "Ivangeli — wakufeza konke",
+   "body": "Inani lesono ebengingeke ngilikhokhe, uJesu walikhokha esikhundleni sami esiphambanweni, futhi ngokuvuka wanqoba ukufa. Ngiphumula hhayi ku-“yenza lokhu” kodwa ku-“kufeziwe.”",
+   "vref": "Johane 19:30 · Roma 5:8",
+   "vtext": "Kufeziwe… siseyizoni, uKristu wasifela."
+  }
+ ]
+}

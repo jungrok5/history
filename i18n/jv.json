@@ -1,0 +1,343 @@
+{
+ "menuName": "Basa Jawa",
+ "htmlLang": "jv",
+ "dir": "ltr",
+ "brand": "Kitab Suci sajroning saklayar",
+ "docTitle": "Kitab Suci sajroning saklayar · Saka pandhapuk tekan pasamuwan",
+ "share": {
+  "title": "Kitab Suci sajroning saklayar",
+  "text": "Sajroning saklayar bae, sumurupa crita gedhe ing Kitab Suci lan apa sababe Gusti Yesus rawuh."
+ },
+ "ui": {
+  "people": "Para paraga",
+  "events": "Kedadeyan wigati",
+  "christLabel": "Nuding marang Gusti Yesus",
+  "loveLabel": "Katresnan kang ora kendhat",
+  "mythWrong": "Salah paham kang lumrah",
+  "mythRight": "Sanyatane",
+  "more": "Waca liyane",
+  "version": "(Kitab Sutji)"
+ },
+ "labels": {
+  "start": "Wiwitan",
+  "thread": "Lakuning crita",
+  "gospel": "Injil",
+  "about": "Bab iki"
+ },
+ "s": {
+  "ui.share": "↗ Bagekna",
+  "ui.toast": "Link kasalin 📋",
+  "ui.footer": "Kitab Suci sajroning saklayar · Pethikan Kitab Suci saka Kitab Sutji",
+  "hero.kicker": "Saka pandhapuk tekan pasamuwan",
+  "hero.title": "Kitab Suci<br><span class='em'>sajroning saklayar</span>",
+  "hero.sub": "Sajroning saklayar bae, sumurupa crita gedhe ing Kitab Suci lan apa sababe Gusti Yesus rawuh.",
+  "hero.cue": "Geseraken mangisor<span>↓</span>",
+  "thread.eyebrow": "Saukara kang ngubungake sakabehe Kitab Suci",
+  "thread.h2": "Ing wekasane, Kitab Suci iku siji crita kang utuh",
+  "thread.flow": "<b>Prasetya</b><span class='arw'>→</span><b>Nganti-anti</b><span class='arw'>→</span><b>Kayektenan</b>",
+  "thread.note": "Gusti Allah <b>prasetya</b> (prajanjian), umate <b>ngenteni</b> nganti suwe, lan pungkasane samubarang <b>kayektenan</b> sarta kasampurnakake ana ing Gusti Yesus. Tutna 13 adegan ing ngisor iki kanthi lakuning crita iku. Tlapaken <b>“Waca liyane”</b> ing saben kertu kanggo crita kang luwih jero.",
+  "gospel.eyebrow": "Apa tegese crita iki tumrap “aku”",
+  "gospel.h2": "Pusering Kitab Suci kang sajati",
+  "gospel.lead": "Kitab Suci iku <b>dudu buku piwulang tata-susila kang ngandhakake “dadia wong becik.”</b>",
+  "gospel.sublead": "Iki crita bab kepriye Gusti Allah, <b>mung marga sih-rahmat</b>, mitulungi para wong dosa kang ora bisa nylametake awake dhewe. Ing pusere ana Gusti Yesus Kristus.",
+  "gospel.mirror": "<h3>Bunder-bundering lelakon Israel iku sanyatane gambaran “awakku dhewe”</h3><div class='cycle'><b>Brahala</b><span class='a'>→</span><b>Kasangsaran</b><span class='a'>→</span><b>Sesambat</b><span class='a'>→</span><b>Gusti Allah mitulungi</b><span class='a'>→</span><b>Brahala maneh…</b></div><p>Saka jamane para hakim nganti tekan pambuwangan, Israel mbaleni bunderan iki tanpa kendhat. Kitab Suci ora nyathet iki supaya kita nyenyamah, “Saiba kawelas-asihe wong-wong iku.”</p><p>Iki sawijining <b>pangilon</b>. Wose dudu “wong-wong iku kang nglakoni mangkono”, nanging supaya kita weruh yen <b>“aku iya kaya mangkono”</b> (1 Korinta 10:11).</p><p>Sawijining <b>brahala</b> iku ora mung reca kayu. Iku <b>samubarang kang kita tresnani utawa kita endelake ngluwihi Gusti Allah</b> — bandha, kasuksesan, pangalembana, wong liya, malah awakku dhewe. Lan migunakake Gusti Allah minangka <b>pirantine ngrampungake kekarepanku dhewe</b> iku iya brahala.</p><p class='punch'>Ing wekasane, brahala kang paling jero yaiku “awakku dhewe kang lungguh ing dhampare Gusti Allah.”</p>",
+  "gospel.coreIntro": "Banjur, kepriye Gusti Allah anggone nylametake wong dosa kang kaya mangkono? Iki pusering Injil kang diwartakake dening Kitab Suci.",
+  "gospel.crux": "<p class='crux-lead'>Sakabehing Kitab Suci nuding marang papan kang siji.</p><p>Manungsa ora bisa medhot bunderan dosa kalawan kekuwatane dhewe, lan ora ana wong siji bae kang bener. Mulane kudu ana kang <b>mbayar regane minangka gantine kita</b>.</p><p>Gusti Yesus rawuh ora mung kanggo paring piwulang kang becik. Marga ora ana dalan liya kanggo nylametake aku, <b>Panjenengane kepeksa kudu rawuh.</b></p><p class='crux-punch'>Kang kuduné kapenthang ing salib iku <b>aku</b>.<br>Gusti Yesus mikul <b>dosaku</b> lan kapaku ana ing kana minangka gantiku.</p><div class='crux-verse'>“Mangka Panjenengane iku sinudukan marga saka anggon kita padha mbalela… sarta marga saka bilur-bilure kita banjur padha dadi waras.” — Yesaya 53:5</div>",
+  "faq.h": "Isih ana kang ngganjel ing ati?",
+  "faq.q1": "<span class='arr'>▸</span> Dadi wong sing matèni nanging pracaya iku munggah swarga, dene wong sing uripe becik nanging ora pracaya iku mlebu neraka?",
+  "faq.a1": "<p>Iki pitakon kang wajar. Nanging ana loro salah paham kang ndhelik ing njerone.</p><p><b>① Kitab Suci ora nggolong-nggolongake manungsa dadi “becik” lan “ala.”</b> Ukurane dudu “luwih becik tinimbang wong sandhing”, nanging “kasucene Gusti Allah kang sampurna”. Ana ing ngarsane, ora ana wong siji bae kang “cukup becik” (Rum 3:23). Dadi iki dudu “wong becik lawan wong matèni”, nanging luwih cocog umpamane wong loro kang lara nemen padha: kang siji nampani tambane, sijine nampik karo ngucap, “Aku luwih waras tinimbang wong kuwi.”</p><p><b>② Kang misahake swarga lan neraka mung siji prakara.</b> Dudu cacahing biji panggawe, nanging <b>apa kowe wis nampani Gusti Yesus Kristus minangka Gusti lan prakara dosamu wis karampungake</b>. Wong kang dosane karampungake dening rahe Sang Kristus munggah swarga; wong kang ora tau nampani Panjenengane, kang dosane isih tetep, ora. Ora ana panggawe becik sapira bae kang bisa ngrampungake prakara dosa iku dhewe.</p><p>Mulane swarga lan neraka iku dudu “ganjaran tumrap kelakuan becik”, nanging prakara <b>sesambungan karo Sang Kristus</b>. Lan “pracaya” iku dudu mung manut ing pikiran, nanging owahing sapa kang ngratoni urip: sapa kang temenan nampani Panjenengane ora dadi kumalungkung, nanging luwih jero anggone mratobat. Malah <b>mbenerake awake dhewe</b> kanthi “aku iki wong becik” iku brahala kang paling angel diremuk, kang njalari pikiran “aku ora butuh Sang Kristus” (Lukas 18:9-14).</p><p>Kitab Suci ngandhakake kanthi cetha: <b>“Sing sapa pracaya marang Panjenengane, iku ora bakal diukum, balik sing sapa ora pracaya, iku wus kapatrapan”</b> (Yokanan 3:18). Pangadilan iku dudu “mbiji uripmu sawise mati”, nanging wis katetepake miturut <b>apa kowe nampani Sang Kristus</b>.</p><p class='faq-v'>Rum 3:23 · Yokanan 3:18 · Efesus 2:8-9 · Lukas 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Apa ora cukup mung dadi wong becik bae, senajan ora pracaya marang Gusti Yesus?",
+  "faq.a2": "<p>Iki pikiran kang paling akeh dianut, nanging salah paham bab apa kang dadi “prakara kang sajati”. Coba dak gambarake.</p><p><b>Umpamane kowe ana ing kapal bajak.</b> Sapira bae anggonmu ngresiki geladhag, becik marang sakancamu, lan urip kang patut tinulad, kowe isih tetep <b>wong bajak</b>, awit kowe digawa bareng karo kapale menyang papan kang dituju (pelabuhan pangadilan). Prakarane dudu “cacahing biji panggawemu”, nanging <b>“kowe kalebu kapal kang endi” (jati-dhirimu)</b>.</p><p>Mulane Injil ora ngandhakake “mbudidayaa luwih becik”, nanging <b>“ngaliha kapal.”</b> Mudhuna saka kapal dosa lan nyabranga menyang Gusti Yesus: menyang jati-dhiri anyar minangka <b>putraning Allah</b>. Iki dudu prakara munggahake bijimu sarana pambudidaya, nanging pracaya marang Panjenengane kang ngulungake astane lan nyabrang menyang kapale.</p><p>Sanyatane, Kitab Suci nggambarake karahayon persis kaya pamindhah iku: <b>“Panjenengane wus ngluwari kita saka panguwasaning pepeteng, kaelih menyang kratone Sang Putra kang kinasih”</b> (Kolose 1:13).</p><p>Aja salah tampa: <b>iki ora ateges urip becik iku tanpa guna.</b> Nanging kabecikan iku dudu “sarat” karahayon, ananging <b>wohe</b>. Wong kang wis ngalih kapal saiki urip becik ora maneh marga wedi, nanging marga <b>katresnaning anak</b>.</p><p class='faq-v'>Kolose 1:13 · Yokanan 1:12 · Yokanan 3:3 · Efesus 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Yen wong kang gawe piala ngrasa tentrem karo ngucap “Gusti Allah wis ngapura aku,” nalika korbane isih kasangsaran — apa pangapura iku ora kemurahan banget?",
+  "faq.a3": "<p>Pitakon iku wajar, lan larane pancen nyata. Nanging panyuwun kaya mangkono iku dudu “pangapurane Kitab Suci” — iku <b>panyepelekane</b>.</p><p><b>① Pangapurane Gusti Allah ora tau murah.</b> Dosa ora ditutupi kaya-kaya “ora tau kelakon”; Gusti Allah piyambak mbayar regane kalawan nyawane Kang Putra. Salib iku dudu bukti yen dosa dianggep entheng, nanging saiba aboté dosa iku: pangapura kang paling larang ing donya.</p><p><b>② Pamratobat kang sajati metokake woh.</b> Yen wong kang gawe piala iku ngadhepi korbane kanthi ora rumangsa apa-apa — “Gusti Allah wis ngapura aku, dadi aku tentrem” — iku dudu pamratobat, nanging tiron-tirone (Mateus 3:8). Lan pangapura ing antarane wong lan Gusti Allah ora mbusak tatune korbane utawa meksa korbane kudu ngapura.</p><p><b>③ Dosa ora tau mung “diejarake bae.”</b> Saben dosa kabayar ing salah sijine papan loro: <b>utawa Sang Kristus kang mikul ana ing salib</b> (tumrap wong kang pracaya wis ora ana paukuman maneh, Rum 8:1), <b>utawa wong kang nampik Panjenengane nganti pungkasan kang mikul dhewe.</b> Dadi ora ana “pangapura kang murah.” Wong kang gawe piala iya isih tanggung jawab ing ngarsane pangadilan ing donya iki (Rum 13:1-4).</p><p><b>④ Luhe korban ora tau dianggep sepele dening Gusti Allah.</b> Gusti Allah nangis bareng karo wong kang nangis, ngengeti saben luh, lan ing wekasane Panjenengane piyambak kang bakal ngusapi (Wahyu 21:4). Mulane korbane ora prelu mikul aboting piwales dhewe, nanging bisa masrahake marang Gusti Allah kang adil (Rum 12:19 — “Pamales iku wewenangingSun. Ingsun kang bakal malesake,” mangkono pangandikaning Pangeran).</p><p class='faq-v'>Mateus 3:8 · Rum 8:1 · Rum 13:1-4 · Wahyu 21:4</p>",
+  "respond.h3": "Banjur, kepriye aku?",
+  "respond.sub": "Katresnan iki dudu katrangan, nanging sawijining <b>ulem</b>. Yen katresnan kang kapaku minangka gantimu wis nggugah atimu, saiki ndongaa kanthi alon, saukara mbaka saukara.",
+  "respond.prayer": "<p>Dhuh Gusti Allah,</p><p>kawula ngakeni bilih kawula tiyang dosa ingkang mboten saged nylametaken badan kawula piyambak.</p><p>Kawula pitados bilih Gusti Yesus seda wonten ing salib kangge kawula sarta wungu malih.</p><p>Mugi ngapunten sadaya dosa kawula, lan wiwit samangke mugi karsaa jumeneng Gusti ing gesang kawula.</p><p>Mugi nampi kawula minangka putra Paduka, sarta damela kawula gesang ingkang enggal.</p><p class='amen'>Wonten ing asmanipun Gusti Yesus, kawula ndedonga. Amin.</p>",
+  "respond.after": "Yen kowe ndonga iki kanthi temen, Kitab Suci ngandhakake yen kowe wis <b>dadi putraning Allah</b>. Kowe ora maneh ijenan: golekana pasamuwan kang cedhak lan mlakua bebarengan ing dalaning iman.",
+  "respond.verse": "“Nanging sapa bae kang nampani Panjenengane iku diparingi wewenang dadi para putraning Allah…” — Yokanan 1:12 · Rum 10:9-10",
+  "closing.main": "Gusti Allah kang siji,<br>lumantar crita kang siji,<br>nggoleki kita kanthi <em>katresnan</em><br>kang ora tau nyerah.",
+  "closing.verse": "“…pati utawa urip… lan sadhengah titah liyane, ora bakal bisa megatake kita saka ing sihe Gusti Allah, kang ana ing Sang Kristus Yesus, Gusti kita.” — Rum 8:38-39",
+  "closing.small": "Ing lakuning crita iki, Toret, kitab-kitab kidung, para nabi lan layang-layang nambahake “dagingé”.<br>Wiwit saiki, kitab apa bae kang kokbukak, kowe bakal weruh “ana ing ngendi posisimu ing crita iki”.",
+  "closing.share": "↗ Bagekna crita iki",
+  "about.line": "Isi adhedhasar pandhangan <b>karahayon-sajarah, injili lan reformatoris</b> kang dianut dening akeh-akehe pasamuwan Protestan Korea.",
+  "about.contact": "Pitakon · panyaruwe — <a id='contact' class='mail'>Kintun email</a>"
+ },
+ "epochs": [
+  {
+   "tag": "PL · Wiwitan",
+   "title": "Pandhapuk",
+   "date": "Ing kala purwa",
+   "one": "Gusti Allah nitahake jagad kang “becik banget.”",
+   "people": "Gusti Allah; Adam lan Kawa",
+   "events": "Pandhapuk nem dina, manungsa katitahake manut citrane Gusti Allah, dina Sabat kanggo ngaso",
+   "q": "Ing jaman kawitan Gusti Allah nitahake langit lan bumi.",
+   "cite": "Purwaning Dumadi 1:1",
+   "christ": "Jagad katitahake lumantar “Sang Sabda”. Injil Yokanan martakake yen Sang Sabda iku Gusti Yesus piyambak (Yokanan 1:1-3).",
+   "detail": "<p>Kitab Suci ora kawiwitan kanthi bantahan filsafat, nanging kanthi pangandika: <b>“Ing jaman kawitan Gusti Allah…”</b>. Jagad iki dudu kebeneran, nanging pakaryane Gusti Allah kang pribadi.</p><ul><li><b>Citrane Gusti Allah</b> · saka sakabehing titah, mung manungsa kang katitahake mirip Gusti Allah — kanggo wanuh marang Panjenengane lan ngopeni jagad.</li><li><b>Ngaso</b> · pangason dina kapitu nuduhake samubarang wis paripurna lan tentrem (shalom): “kabeh iku becik.”</li><li><b>Eden</b> · jagad sadurunge rusak, ing kana Gusti Allah lan manungsa lumaku bebarengan.</li></ul>",
+   "next": "Nanging kasampurnan iki bakal enggal karemuk…"
+  },
+  {
+   "tag": "PL · Prakara wiwit",
+   "title": "Tibaning dosa",
+   "date": "Ing kala purwa",
+   "one": "Dosa lumebu lan sesambungan antarane manungsa karo Gusti Allah pedhot.",
+   "people": "Adam lan Kawa; ula (Iblis)",
+   "events": "Mangan woh kang kalarangan, katundhung saka Eden, tekane pati lan rekasa",
+   "q": "Ingsun bakal ndadekake memungsuhan ing antarane sira lan wong wadon iki… turune wong wadon iki bakal ngremuk endhasira.",
+   "cite": "Purwaning Dumadi 3:15",
+   "christ": "Prasetya Injil kang kapisan, kaparingake sanalika sawise tibaning dosa: “turune wong wadon” bakal ngremuk endhase ula — lan iku Gusti Yesus (Purwaning Dumadi 3:15; Rum 16:20; Galati 4:4).",
+   "detail": "<p>Lumantar pambangkang anggone kepengin “madha kaya Gusti Allah”, dosa lumebu ing jagad. Wohe dudu mung nerak pranatan, nanging <b>rusaking sesambungan</b>.</p><ul><li><b>Sesambungan kang rusak</b> · karo Gusti Allah (ndhelik), karo sapadha (mbuwang kaluputan), lan karo alam (eri lan rekasa).</li><li><b>Pati</b> · pepeling “sira mesthi bakal mati” dadi kanyatan.</li><li><b>Purwaning Dumadi 3:15</b> · nanging ing satengahing pangadilan, prasetya pitulungan diparingake luwih dhisik. Para ahli ngarani iki <b>“protoevangelium” (Injil kang kapisan)</b>.</li></ul>",
+   "next": "Saiki Gusti Allah nimbali wong siji kanggo miwiti pitulungan…"
+  },
+  {
+   "tag": "PL · Prasetya",
+   "title": "Para leluhur",
+   "date": "watara 2000 SM",
+   "one": "Gusti Allah prasetya marang Abraham: “Sira bakal dadi sumbering berkah.”",
+   "people": "Abraham · Iskak · Yakub · Yusuf",
+   "events": "Prajanjian karo Abraham, korban Iskak, putrane Yakub rolas, Yusuf munggah pangkat ing Mesir",
+   "q": "Sira bakal Sundadekake bangsa kang gedhe… sira bakal dadi jalarane para bangsa ing salumahing bumi padha binerkahan.",
+   "cite": "Purwaning Dumadi 12:2-3",
+   "christ": "Prasetya yen “sakabehing bangsa bakal binerkahan” kayektenan ana ing Gusti Yesus, turune Abraham (Galati 3:16).",
+   "detail": "<p>Gusti Allah wiwit ngrampungake prakarane sakabehing manungsa kanthi nimbali wong siji, <b>Abraham</b>. Pusere yaiku <b>prajanjian (prasetya)</b>: bangsa kang gedhe, tanah, lan “berkah tumrap sakabehing bangsa.”</p><ul><li><b>Iman</b> · Abraham pracaya marang prasetya kang ora katon, mangka iku kaetang dadi kasampurnane (Purwaning Dumadi 15:6).</li><li><b>Iskak lan Yakub</b> · prasetya katerusake; Yakub (Israel) nurunake taler rolas.</li><li><b>Yusuf</b> · diedol dening para sadulure nanging munggah pangkat — “dicipta malih dadi becik dening Gusti Allah” (Purwaning Dumadi 50:20).</li></ul>",
+   "next": "Ngetut Yusuf, kulawargane mudhun menyang Mesir — lan banjur dadi batur tukon…"
+  },
+  {
+   "tag": "PL · Karahayon",
+   "title": "Metu saka Mesir lan ara-ara samun",
+   "date": "watara 1446 SM",
+   "one": "Gusti Allah mitulungi bangsa kang dadi batur tukon lan ndadekake umate.",
+   "people": "Nabi Musa, Harun, Sang Prabu Pringon",
+   "events": "Wewelak sepuluh, Paskah, nyabrang Sagara Abang, Pepakon Sepuluh ing Sinai, tarub suci, 40 taun ing ara-ara samun",
+   "q": "Iku bakal Sunparingake marang sira dadi darbekira; Ingsun iki Yehuwah!",
+   "cite": "Pangentasan 6:7",
+   "christ": "Paskah — nalika rahe cempe nyingkirake pati — nuding marang Gusti Yesus, “Cempe-Paskah kita”, kang kasalib kanggo kita (1 Korinta 5:7).",
+   "detail": "<p>Pitulungan kang paling gedhe ing Prajanjian Lawas. Israel kang biyen dadi batur tukon dimerdikakake dening pangwasane Gusti Allah lan dibentuk dadi <b>umate</b>.</p><ul><li><b>Paskah</b> · omah kang lawange katengeran rahe cempe diliwati dening pati — pola tumrap sakabehing korban ing wuri.</li><li><b>Sagara Abang</b> · karahayon nalika dalan wis buntu; “nyabrang” dadi pralambange wiwitan anyar.</li><li><b>Prajanjian Sinai</b> · lumantar Pepakon, dheweke padha sinau urip minangka umate Gusti Allah.</li><li><b>Tarub suci</b> · papan suci kang bisa diusung, ing kono Gusti Allah dedalem ana ing satengahing umate — cecaping “Emanuel.”</li><li><b>40 taun</b> · pambangkang njalari saturunan kluyuran ing ara-ara samun, nanging Gusti Allah tetep cedhak kanthi manna sarta tugu mega lan geni.</li></ul>",
+   "next": "Ngadeg ing pinggiring tanah prasetya, padha cumawis arep lumebu…"
+  },
+  {
+   "tag": "PL · Manggon",
+   "title": "Ngrebut tanah lan para hakim",
+   "date": "watara 1400–1050 SM",
+   "one": "Padha oleh tanahe, nanging tanpa ratu saben wong nindakake sakarepe dhewe.",
+   "people": "Yusak; para hakim kayata Gidheon lan Simson; Rut",
+   "events": "Rubuhe Yerikho, manggon ing Kanaan, bunderan dosa–pangadilan–pitulungan kang dibaleni",
+   "q": "Dhek jaman samana ing Israel ora ana ratune; angger wong nindakake apa kang dianggep bener manut panemune dhewe.",
+   "cite": "Para Hakim 21:25",
+   "christ": "Saka turune Rut tinurunake Dawud, lan saka turune Dawud tinurunake Gusti Yesus (Mateus 1). Sanadyan ing satengahing kisruh, sarasilahe Sang Mesih lestari.",
+   "detail": "<p>Ana ing sangisore Yusak padha lumebu ing tanah prasetya, nanging sawise manggon enggal padha nglalekake Gusti Allah. Para Hakim iku pola kang padha dibaleni bola-bali.</p><ul><li><b>Bunderan kang ngisor</b> · dosa → panindhes → sesambat → hakim mitulungi → dosa maneh, saya suwe saya ala.</li><li><b>Para hakim</b> · Gidheon, Simson, Dhebora… juru-pitulung kang mung sawetara, gagah nanging kebak cacad.</li><li><b>Rut</b> · pepadhang kasetyan ing jaman peteng; wong wadon manca lumebu ing sarasilahe Dawud (lan Gusti Yesus).</li></ul>",
+   "next": "Bangsane sesambat: “Paringana ratu uga marang aku!”…"
+  },
+  {
+   "tag": "PL · Jaman kencana",
+   "title": "Karajan manunggal",
+   "date": "watara 1050–930 SM",
+   "one": "Gusti Allah prasetya marang Dawud: “Dhamparira bakal santosa ing salawas-lawase.”",
+   "people": "Saul · Dawud · Suleman",
+   "events": "Ratu kapisan Saul, Dawud lan Goliat, prajanjian karo Dawud, Suleman ngedegake Padaleman Suci",
+   "q": "Kulawarga lan karajanira bakal santosa ing salawas-lawase ana ing ngarsaningSun lan dhamparira bakal santosa ing salawas-lawase.",
+   "cite": "2 Samuel 7:16",
+   "christ": "“Dhampar langgeng” iku kayektenan ana ing Gusti Yesus, turune Dawud — mulane Panjenengane disebut “Putrane Dawud” (Lukas 1:32-33; Mateus 1:1).",
+   "detail": "<p>Pucuking kajayan Israel, kaerehake dening telung ratu.</p><ul><li><b>Saul</b> · ratu kapisan kang dijaluk bangsane; wiwitan kang becik, nanging katampik marga pambangkange.</li><li><b>Dawud</b> · “wong kang manut karsane Gusti Allah”. Ngalahake Goliat lan ndadekake Yerusalem ibukutha. Nglakoni dosa gedhe (Batseba), nanging mratobat kanthi temening ati (Masmur 51).</li><li><b>Prajanjian karo Dawud (2 Samuel 7)</b> · Gusti Allah prasetya bakal nyantosakake turune Dawud ing salawas-lawase — oyod kang nemtokake pangarep-arep marang Sang Mesih.</li><li><b>Suleman</b> · ing pucuking kawicaksanan lan kasugihan ngedegake <b>Padaleman Suci</b>, nanging ing wekasaning urip nyembah brahala.</li></ul>",
+   "next": "Sawise Suleman, karajane kapérang dadi loro…"
+  },
+  {
+   "tag": "PL · Kamunduran",
+   "title": "Karajan kang kapérang",
+   "date": "930–586 SM",
+   "one": "Kapérang dadi kidul (Yehuda) lan lor (Israel), bangsane saya suwe saya rusak.",
+   "people": "Para ratu ing karajan loro; para nabi kayata Elia, Yesaya, Yeremia",
+   "events": "Karajan kapérang, brahala sumebar, para nabi paring pepeling",
+   "q": "Kaya mangkono wiwitane anggone wong Israel padha mbalela marang tedhake Sang Prabu Dawud nganti tumeka ing dina iki.",
+   "cite": "1 Para Raja 12:19",
+   "christ": "Ing jaman iki para nabi saya cetha anggone medharake Sang Mesih kang bakal rawuh (Yesaya 9:6; Yesaya 53).",
+   "detail": "<p>Ing jamane putrane Suleman karajane kapérang: <b>karajan lor Israel</b> (10 taler, ibukutha Samaria) lan <b>karajan kidul Yehuda</b> (2 taler, ibukutha Yerusalem).</p><ul><li><b>Israel (lor)</b> · sakabehing ratune nyembah brahala; rubuh dening Asyur ing taun 722 SM.</li><li><b>Yehuda (kidul)</b> · turune Dawud lestari, ana sawetara ratu becik kayata Hizkia lan Yosia, nanging sacara umum mundur.</li><li><b>Para nabi</b> · Elia, Amos, Yesaya, Yeremia padha nguwuh “mratobata!” Pameca bab Sang Mesih tekan kang paling sugih ana ing kene (“abdi kang sangsara” ing Yesaya 53).</li></ul>",
+   "next": "Ing wekasane pangadilan kang dipingeti teka — padha kabuwang menyang tanah manca…"
+  },
+  {
+   "tag": "PL · Pangadilan",
+   "title": "Pambuwangan",
+   "date": "722 / 586 SM",
+   "one": "Karajane rubuh lan umate digawa menyang tanah manca.",
+   "people": "Dhaniel, Yeheskiel, Nebukadnezar",
+   "events": "Israel rubuh dening Asyur (722); Yehuda rubuh dening Babel lan Padaleman Suci karusak (586)",
+   "q": "Ana ing pinggir bengawan Babel anggonku padha ndheprok karo nangis, manawa kelingan kutha Sion.",
+   "cite": "Masmur 137:1",
+   "christ": "Ing jeroning karoncen Yeremia prasetya bab “prajanjian anyar” (Yeremia 31:31) — prajanjian kang dileksanani Gusti Yesus ing Bujana Pungkasan.",
+   "detail": "<p>Pepeling iku kelakon. Padaleman Suci kobong lan umate digawa menyang Babel — kelangan tanah, ratu, lan Padaleman Suci: titik kang paling ngisor.</p><ul><li><b>Loro rubuh</b> · Israel (Asyur, 722 SM) lan Yehuda (Babel, 586 SM).</li><li><b>Dhaniel</b> · tuladha iman senadyan ana ing kraton kapir (kurungan singa); weruh wahyu bab “karajan langgeng” kang bakal teka.</li><li><b>Pijaring pangarep-arep</b> · wahyu bab balung garing kang urip maneh (Yeheskiel 37) lan “prajanjian anyar” Yeremia nuding marang dina ngarep ing satengahing pepeteng.</li></ul>",
+   "next": "Pitung puluh taun candhake, Gusti Allah mbukak dalan — padha mulih…"
+  },
+  {
+   "tag": "PL · Pamulihan",
+   "title": "Bali saka pambuwangan",
+   "date": "538–430 SM",
+   "one": "Padha bali lan mbangun maneh Padaleman Suci sarta tembok.",
+   "people": "Ezra, Nehemya, Ester, Zerubabel",
+   "events": "Bali marga dhawuhe Korèsy, mbangun maneh Padaleman Suci, ndandani tembok Yerusalem, mulihake pangandika",
+   "q": "Dina iki dadi sesengkerane Sang Yehuwah, Gusti Allahmu. Kowe aja padha prihatin, lan aja nangis.",
+   "cite": "Nehemya 8:10",
+   "christ": "Maleakhi, kitab pungkasan ing Prajanjian Lawas, mungkasi kanthi medharake utusan kang nyawisake dalane Sang Mesih: “Ingsun nglampahake utusaningSun” (Maleakhi 3:1).",
+   "detail": "<p>Marga dhawuhe ratu Persia Korèsy (538 SM) panggancetane wiwit. Ing telung gelombang padha bali lan mbangun maneh kang wis rusak.</p><ul><li><b>Zerubabel</b> · mbangun maneh Padaleman Suci (rampung 516 SM).</li><li><b>Ezra</b> · mulang pangandika maneh lan nguripake iman.</li><li><b>Nehemya</b> · mbangun maneh tembok Yerusalem ing 52 dina.</li><li><b>Ester</b> · nylametake wong Yahudi ing Persia saka karusakan — “kanggo waktu kaya saiki iki.”</li><li><b>Isih nganti-anti</b> · Padaleman Suci wis ngadeg, nanging ora ana ratu kaya Dawud. Umate ngenteni Sang Mesih.</li></ul>",
+   "next": "Lan banjur… kaya langit kang bisu, 400 taun kliwat."
+  },
+  {
+   "tag": "Antara Prajanjian · Nyawisake panggung",
+   "title": "Taun-taun kang bisu",
+   "date": "watara 430–4 SM",
+   "one": "400 taun tanpa swarane nabi — nanging panggunge kanthi bisu kacawisake.",
+   "people": "Aleksander Agung, para Makabe, Roma",
+   "events": "Persia → Yunani → kamardikan Makabe → pamarentahan Roma",
+   "q": "Bareng wus tekan ing ganepe mangsa, Gusti Allah ngutus Kang Putra, kang miyos saka wanita.",
+   "cite": "Galati 4:4",
+   "christ": "Sakabehing “panyawising panggung” iki yaiku pakaryane Gusti Allah supaya Gusti Yesus rawuh persis ing “ganepe mangsa.”",
+   "detail": "<p>Saka Maleakhi nganti Prajanjian Anyar, watara 400 taun kliwat tanpa pangandika anyar. Nanging ing sawingkinge sajarah Gusti Allah nyawisake dalan kanggo Injil.</p><ul><li><b>Karajan gilir-gumanti</b> · Persia → Yunani (Aleksander, 333 SM) → Ptolemeus lan Seleukus → pambrontakan Makabe (167 SM) → Roma (63 SM).</li><li><b>Basa Yunani</b> · panelukane Aleksander ndadekake basa Yunani basa umum; Prajanjian Lawas katerjemahake menyang basa Yunani (Septuaginta), mbukak dalan supaya Injil enggal sumebar.</li><li><b>Dalan lan tentreme Roma</b> · dalan kang becik lan “Pax Romana” dadi margi kanggo misi.</li><li><b>Papan ngibadah lan golongan</b> · piwulang ing sinagoga ngoyod; muncul golongan Farisi lan Saduki; sarta <b>pangarep-arep marang Sang Mesih</b> mateng.</li></ul>",
+   "next": "Banjur kabisuan iku pedhot — wekasane, Panjenengane rawuh."
+  },
+  {
+   "tag": "PA · Kayektenan",
+   "title": "Gusti Yesus rawuh",
+   "date": "watara 4 SM–30 M",
+   "one": "Sang Mesih kang kaprasetyakake wis rawuh, seda, lan wungu maneh.",
+   "people": "Gusti Yesus, sakabat rolas, Yokanan Pambaptis",
+   "events": "Manjalma dadi manungsa, pakaryan, piwulang lan mukjijate, seda ing salib, wungu ing dina katelu",
+   "q": "Sang Sabda wus dadi daging sarta makuwon ana ing antara kita… kang kapenuhan ing sih-rahmat lan kayekten.",
+   "cite": "Yokanan 1:14",
+   "christ": "Turune wong wadon (adegan 2), berkahe Abraham (3), Cempe-Paskah (4), ratu langgenge Dawud (6), lan prajanjian anyar (8) — kabeh kayektenan ana ing wong siji, Gusti Yesus: nabi, imam, lan ratu kita kang sajati.",
+   "detail": "<p>Kabisuan pedhot; Kang Kaprasetyakake rawuh. Injil papat nekseni urip, seda, lan wungune Gusti Yesus saka papat pandhangan.</p><ul><li><b>Manjalma</b> · Gusti Allah dadi manungsa (Emanuel, “Gusti Allah nunggil karo kita”), ing papan kang asor ing Betlehem.</li><li><b>Pakaryan</b> · mulang Kratoning Allah, marasake wong lara, nimbali wong dosa. “Sing sapa wis ndeleng Aku, iku wis ndeleng Sang Rama.”</li><li><b>Salib</b> · mbayar regane dosa lan pati kang katekakake dening tibaning dosa (adegan 2). Cempe-Paskah kang sajati.</li><li><b>Wungu</b> · wungu ing dina katelu, ngremuk pangwasaning dosa, pati, lan Iblis — wis ana ing salib Panjenengane “mblejedi para pamarentah lan para panguwasa… amarga wus padha dikalahake” (Kolose 2:15).</li></ul><p>Mulane Gusti Yesus iku <b>nabi kita kang sajati</b> (nuduhake dalan menyang Gusti Allah), <b>imam kita kang sajati</b> (nebus dosa kanthi sarirane piyambak), lan <b>ratu kita kang sajati</b> (ngalahake dosa, pati, lan Iblis sarta ngratoni ing salawas-lawase).</p>",
+   "next": "Gusti Yesus kang wungu ngutus para sakabate menyang jagad…"
+  },
+  {
+   "tag": "PA · Panyebaran",
+   "title": "Wiwitane pasamuwan",
+   "date": "watara 30 M–",
+   "one": "Sang Roh rawuh, lan Injil sumebar tumeka pungkasaning bumi.",
+   "people": "Petrus, Paulus, pasamuwan wiwitan",
+   "events": "Sang Roh kaesokake ing Pentakosta, lairing pasamuwan, Injil sumebar saka Yerusalem nganti Roma lumantar panindhes",
+   "q": "Kowe bakal padha tampa kasekten, samangsa Sang Roh Suci wus nedhaki marang kowe… tumeka ing pungkasaning bumi.",
+   "cite": "Lelakone Para Rasul 1:8",
+   "christ": "Crita iki isih lumaku nganti saiki. Kitab Suci mungkasi kanthi prasetya yen Gusti Yesus bakal rawuh maneh lan ndadekake samubarang anyar (Wahyu 21).",
+   "detail": "<p>Sawise Gusti Yesus sumengka, Sang Roh kang kaprasetyakake rawuh ing Pentakosta lan pasamuwan lair. Injil sumebar kanthi rosa.</p><ul><li><b>Pentakosta</b> · Sang Roh ndadekake para sakabat kang wedi dadi seksi kang kendel.</li><li><b>Petrus</b> · martakake Injil marang wong Yahudi ing Yerusalem.</li><li><b>Paulus</b> · saka panganiaya dadi rasul, ngedegake pasamuwan ing jagading bangsa-bangsa lan nulis layang-layang.</li><li><b>Tumeka pungkasaning bumi</b> · Yerusalem → Yudea → Samaria → Roma. Prasetya marang Abraham bab “sakabehing bangsa” dadi kanyatan.</li><li><b>Lan kita</b> · crita iki ora rampung; lumaku terus tumuju marang rawuhe Gusti Yesus lan langit anyar sarta bumi anyar.</li></ul>",
+   "next": "Nanging crita iki ora rampung ing kene…"
+  },
+  {
+   "tag": "PA · Kasampurnan",
+   "title": "Pamulihan (samubarang anyar)",
+   "date": "isih bakal teka",
+   "one": "Gusti Yesus rawuh maneh lan ndadekake samubarang anyar.",
+   "people": "Gusti Yesus kang rawuh maneh; sakabehing bangsa",
+   "events": "Rawuh kang kapindho, pangadilan pungkasan, sirnaning dosa·pati·luh, langit anyar lan bumi anyar",
+   "q": "Panjenengane bakal ngusapi sakehe luh saka ing mripate, lan bakal ora ana pati maneh; kasusahan lan pasambat apadene karubedan iya bakal wus ora ana.",
+   "cite": "Wahyu 21:4",
+   "christ": "Eden ing pandhapuk kapisan ing wekasane kapulihake minangka “Yerusalem Anyar”. Gusti Allah dedalem karo umate ing salawas-lawase — kasampurnaning Emanuel (Wahyu 21:3; Mateus 1:23).",
+   "detail": "<p>Kitab Suci ora rampung ing jamaning pasamuwan. Kitab pungkasane, Wahyu, nuduhake Gusti Yesus kang <b>rawuh maneh</b> kanggo nyampurnakake samubarang.</p><ul><li><b>Rawuh kang kapindho</b> · ratu kang kaprasetyakake rawuh maneh kanthi kamulyan.</li><li><b>Kamenangan pungkasan</b> · Iblis lan pati kasirnakake ing salawas-lawase, lan Sang Kristus ngratoni minangka Ratuning para ratu (1 Korinta 15:25-26; Wahyu 20:10).</li><li><b>Pangadilan lan patangen</b> · sakabehing kaluputan kabenerake, lan wong mati kawungokake.</li><li><b>Langit anyar lan bumi anyar</b> · dosa, pati, luh, lan karubedan sirna ing salawas-lawase (Wahyu 21:4).</li><li><b>Eden kang kapulihake</b> · ing “Yerusalem Anyar” kang luwih becik tinimbang wiwitan, Gusti Allah dedalem karo umate ing salawas-lawase — tujuan kang dadi paranane sakabehing Kitab Suci.</li></ul><p>Mulane saiki jaman <b>“wis, nanging durung”</b>: ana ing Gusti Yesus karahayon <b>wis</b> rampung, nanging kasampurnane <b>isih</b> kaenteni.</p>",
+   "next": "Banjur, apa tegese crita iki kabeh tumrap “aku”?"
+  }
+ ],
+ "love": [
+  "Wiwitane crita iku dudu pangadilan, nanging jagad kang katitahake kanthi katresnan kang nglubèr.",
+  "Sanalika manungsa nindakake dosa, Gusti Allah sanalika kuwi prasetya pitulungan ing kono uga.",
+  "Gusti Allah luwih dhisik nggoleki wong kang ora pantes, nimbali kanthi jenenge, lan ndadekake sumbering berkah.",
+  "Panjenengane miyarsakake sambate bangsa kang dadi batur tukon lan tumedhak piyambak kanggo mitulungi.",
+  "Senadyan dicidrani bola-bali, saben padha sesambat, Panjenengane ngutus juru-pitulung lan ngadegake maneh.",
+  "Dawud kang tiba bae ora dibuwang; lumantar dheweke Panjenengane prasetya ratu langgeng.",
+  "Marang bangsa kang ngungkurake, Panjenengane terus ngutus para nabi, ngrerepa, “Muliha, ya.”",
+  "Tumeka ing tanah pambuwangan kang paling peteng Panjenengane tumedhak bareng karo wong-wong lan prasetya pamulihan.",
+  "Senadyan marang bangsa kang gagal bola-bali, Panjenengane ora narik prasetyane, nanging ngadegake maneh.",
+  "Senadyan ing 400 taun kang bisu, kanthi ora katon, Panjenengane nyawisake dalaning karahayon.",
+  "Nalika kita isih padha kawengku ing dosa, Panjenengane ngutus Kang Putra lan ngetohake nyawane.",
+  "Katresnan kang kita tampani iku, saiki diutus mili menyang saindenging jagad.",
+  "Ing wekasane Panjenengane bakal ngusapi sakehe luh lan ndadekake samubarang anyar kanthi katresnan."
+ ],
+ "mis": [
+  {
+   "w": "“Kena apa Gusti Allah nitahake makhluk kang bisa gawe dosa? Apa ora luwih becik ora dititahake babar pisan?”",
+   "t": "Gusti Allah nitahake jagad lan manungsa ora marga ana kekurangan apa-apa, nanging marga katresnan kang nglubèr. Ndadekake manungsa <b>pribadi kang bisa sesambungan karo Gusti Allah</b> iku dhewe wis dadi katresnan. Lan lumebune dosa bae ora ana ing sajabaning rancangan karahayone Gusti Allah (Efesus 1:4-5). Adegan kapisan ing Kitab Suci iku dudu pangadilan, nanging katresnan."
+  },
+  {
+   "w": "“Mung marga mangan woh siji banjur katundhung lan malah diparingi pati? Apa Gusti Allah ora kasar banget?”",
+   "t": "Katundhung saka Eden iku pangadilan sarta uga kawelasan. Yen, kapisah saka Gusti Allah lan ing kahanan kang rusak iku, manungsa mangan saka wit panguripan lan urip langgeng, mesthi bakal kajiret ing kasangsaran ing salawas-lawase (Purwaning Dumadi 3:22). Ngidini pati iku mbukak dalan kanggo bali; lan ing kono uga Gusti Allah prasetya Juru Pitulung (Purwaning Dumadi 3:15). Ing pangadilan wis ana katresnan."
+  },
+  {
+   "w": "“Abraham kapilih marga imane gedhe; apa kabeh paraga ing Kitab Suci iku pahlawan tata-susila?”",
+   "t": "Abraham uga ngapusi lan mangu-mangu, lan Yakub iku tukang ngapusi. Gusti Allah ora nimbali “wong kang pantes”, nanging kanthi sih-rahmat nimbali wong kang ora sampurna. Sababe kapilih dudu kaluwihane, nanging katresnane Gusti Allah kang setya (Pangandharing Toret 7:7-8)."
+  },
+  {
+   "w": "“Apa Toret (Pepakon) iku dudu ujian utawa sarat kang kudu lulus supaya bisa slamet?”",
+   "t": "Gusti Allah nylametake wong-wong mau <b>sadurunge</b> maringi Toret. Pepakon Sepuluh malah kawiwitan kanthi pangandika karahayon: “Ingsun iki Yehuwah Gusti Allahira, kang wus ngentasake sira saka ing tanah Mesir” (Pangentasan 20:2). Toret iku dudu “netepana supaya slamet”, nanging tuntunan katresnan bab kepriye umate kang wis kapitulungan kudu urip (Pangandharing Toret 7:7-9). Tansah sih-rahmat dhisik; pambangun-turut iku wangsulane."
+  },
+  {
+   "w": "“Panelukane Kanaan iku pembantaian kang tanpa welas; pranyata Gusti Allahe Prajanjian Lawas iku kejem.”",
+   "t": "Iki perkara kang angel rampung mung sak ukara lan njaluk kawigaten. Nanging Kitab Suci ora nyuguhake iki minangka kekerasan kang sakarepe, ananging minangka pangadilan sawise pirang-pirang abad kasabaran tumrap piala kang nemen (kalebu ngorbanake bocah) (Purwaning Dumadi 15:16; Pangandharing Toret 9:4-5; Kaimaman 18:24-25). Gusti Allah ora kesusu malah ing bab pangadilan, lan sapa kang mratobat marang Panjenengane ditampani kanthi bungah, senadyan wong manca, kayata Rakhab lan Rut (Yusak 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“Dawud iku pahlawan kang tanpa cacad; mulane disebut ‘wong kang manut karsane Gusti Allah’.”",
+   "t": "Dawud nglakoni jina lan malah pati. “Wong kang manut karsane Gusti Allah” iku dudu ateges tanpa cacad, nanging wong kang ora ndhelikake dosane, mratobat kanthi temenan, lan tansah bali marang Gusti Allah (Masmur 51). Katresnane Gusti Allah ora mbuwang wong kang tiba abot pisan."
+  },
+  {
+   "w": "“Nabi iku juru-ramal kang medharake dina ngarep; Gusti Allahe Prajanjian Lawas iku mung nepsu.”",
+   "t": "Wose nabi iku dudu “medharake dina ngarep”, nanging sambat tresnaning Gusti Allah: “Muliha, ya.” Senadyan pepelinge pangadilan ora arep ngrusak, nanging mbalekake supaya urip: “Ingsun ora ngarsakake patine wong duraka” (Yeheskiel 33:11)."
+  },
+  {
+   "w": "“Pambuwangan iku mbuktekake Gusti Allah wis babar pisan ninggalake Israel.”",
+   "t": "Pambuwangan iku dudu pambuwang, nanging paukuman lan panyucen Rama tumrap anak kang dikasihi (Ibrani 12:6). Gusti Allah ora tindak; Panjenengane nunggil karo Dhaniel ing tengahing pambuwangan lan prasetya: “Ingsun iki nguningani rancanganingSun tumrap sira, yaiku: rancangan tentrem rahayu… supaya sira kebak pangarep-arep kang becik tumrap ing besuke” (Yeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Yen 400 taun ora ana pangandika, apa Gusti Allah ora wis tindak utawa lagi ngaso?”",
+   "t": "Kabisuan iku dudu ketiadan. Panjenengane mung ora ngandika; sajroning wektu kuwi kabeh Panjenengane nggerakake karajan, basa, lan dalan kanggo nyawisake panggung karahayon. Ing wektu kang paling bisu, Gusti Allah malah makarya kanthi katresnan kang luwih gedhe tinimbang sadurunge (Galati 4:4)."
+  },
+  {
+   "w": "“Gusti Yesus iku mung salah siji guru tata-susila kang becik; salib iku kekalahan kang nrenyuhake.”",
+   "t": "Gusti Yesus ngakoni yen Panjenengane Gusti Allah piyambak (Yokanan 8:58), lan salib iku dudu kacilakan utawa kekalahan, nanging katresnan kang karancang. Panjenengane ora digawa kanthi peksan, nanging ngulungake nyawane manut karsane piyambak (Yokanan 10:18). “Ora ana katresnan kang gedhene ngluwihi katresnaning wong kang ngetohake nyawane kanggo nglabuhi mitra-mitrane” (Yokanan 15:13)."
+  },
+  {
+   "w": "“Pasamuwan iku klub agama kang isiné wong sampurna, utawa mung gedhong.”",
+   "t": "Pasamuwan iku dudu pakumpulane “para suci kang sampurna”, nanging <b>para wong dosa kang kaapura</b>. Malah rasul Paulus nyebut awake dhewe “kang gedhe dhewe dosaku” (1 Timoteus 1:15). Pasamuwan wiwitan uga tau padudon lan gagal (Lelakone Para Rasul 6:1; 1 Korinta 1:11). Pasamuwan iku dudu papan kanggo gumunggung, nanging wong-wong kang nerusake katresnan kang wis ditampani (Yokanan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Dosa wiwitan — ora ana wong kang bener",
+   "body": "Prakarane dudu “sawetara panggawe ala”, nanging oyoding ati. Wiwit Adam, kabeh wong lair ing sangisoring dosa lan ora bisa tekan Gusti Allah kanthi kekuwatane dhewe.",
+   "vref": "Rum 3:10-12, 23",
+   "vtext": "Ora ana wong kang bener, siji bae ora ana… Marga kabeh wong wis padha gawe dosa sarta koncatan ing kamulyaning Allah."
+  },
+  {
+   "title": "Toret ora bisa nylametake aku",
+   "body": "Toret iku dudu undhak-undhakan, nanging pangilon. Saya banget anggonku mbudidaya netepi, saya cetha sepira anggonku gagal. Tujuane yaiku nuntun kita marang Sang Kristus.",
+   "vref": "Rum 3:20 · Galati 3:24",
+   "vtext": "Marga saka angger-anggering Toret iku wong padha nyumurupi dosa… angger-anggering Toret iku minangka pamomong kita nganti Sang Kristus rawuh."
+  },
+  {
+   "title": "Marga sih-rahmat — peparing, dudu pambudidaya",
+   "body": "Karahayon iku dudu opah tumrap jasa kang dikumpulake, nanging peparing lelahanan tumrap wong kang ora pantes. Mulane ora ana wong kang bisa gumunggung.",
+   "vref": "Efesus 2:8-9",
+   "vtext": "Anggonmu padha kapitulungan rahayu iku saka sih-rahmat marga pracaya… iku dudu wohing panggawemu: aja ana wong kang gumunggung."
+  },
+  {
+   "title": "Kabenerake marga pracaya",
+   "body": "Dudu marga netepi Toret, nanging marga pracaya marang Gusti Yesus Kristus, kita kaanggep bener — kita ora ngenggo kasampurnan kita dhewe, nanging kasampurnane Panjenengane.",
+   "vref": "Rum 5:1 · Galati 2:16",
+   "vtext": "Kita kang wus padha kabenerake awit saka pracaya… boten wonten tiyang… ingkang kaanggep leres margi saking nglampahi angger-anggering Toret, nanging namung amargi pitados dhumateng ing Sang Kristus Yesus."
+  },
+  {
+   "title": "Kitab Suci nuding marang Gusti Yesus",
+   "body": "Kitab Suci iku dudu riwayating wong gedhe utawa buku piwulang nulung dhiri. Saka Purwaning Dumadi nganti Wahyu, saben kaca nekseni siji pribadi — Gusti Yesus Kristus.",
+   "vref": "Yokanan 5:39 · Lukas 24:27",
+   "vtext": "Kitab-kitab Suci iku nekseni ing bab Aku… padha diparingi katrangan bab sabarang kang wis katulisan ing Kitab Suci kabeh tumrap Panjenengane."
+  },
+  {
+   "title": "Kratoning Allah — pusering pawartane Gusti Yesus",
+   "body": "Bab kang paling akeh diwulangake Gusti Yesus. Pamarentahing Gusti Allah minangka Ratu lumebu ing jagad bareng karo Gusti Yesus lan bakal kasampurnakake nalika Panjenengane rawuh maneh. Lumantar salib lan patangen, Gusti Yesus iku Ratu sajati kang ngalahake dosa, pati, lan Iblis.",
+   "vref": "Markus 1:15",
+   "vtext": "Iki wis tekan ing titimangsane; Kratoning Allah wus cedhak. Padha mratobata, lan pracayaa marang Injil!"
+  },
+  {
+   "title": "Injil — Panjenengane wis nyampurnakake kabeh",
+   "body": "Utang dosa kang ora bisa dakbayar, Gusti Yesus mbayar minangka gantiku ing salib, lan kanthi wungu Panjenengane ngalahake pati. Aku ora sumendhe marang “lakonana”, nanging marang “wus rampung”.",
+   "vref": "Yokanan 19:30 · Rum 5:8",
+   "vtext": "Wus rampung… Sang Kristus wus nglampahi seda kanggo kita, nalika kita isih padha kawengku ing dosa."
+  }
+ ]
+}

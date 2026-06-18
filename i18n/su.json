@@ -1,0 +1,343 @@
+{
+ "menuName": "Basa Sunda",
+ "htmlLang": "su",
+ "dir": "ltr",
+ "brand": "Kitab Suci dina Sagulung",
+ "docTitle": "Kitab Suci dina Sagulung · Ti Pangwitan nepi ka Garéja",
+ "share": {
+  "title": "Kitab Suci dina Sagulung",
+  "text": "Dina sagulung, panggihan carita ageung Kitab Suci — jeung naon margina Yesus sumping."
+ },
+ "ui": {
+  "people": "Tokoh",
+  "events": "Kajadian penting",
+  "christLabel": "Nuduhkeun ka Yesus",
+  "loveLabel": "Kanyaah nu teu eureun",
+  "mythWrong": "Salah harti nu ilahar",
+  "mythRight": "Saenyana",
+  "more": "Baca leuwih jero",
+  "version": "(Kitab Suci)"
+ },
+ "labels": {
+  "start": "Wiwitan",
+  "thread": "Galur carita",
+  "gospel": "Injil",
+  "about": "Ngeunaan"
+ },
+ "s": {
+  "ui.share": "↗ Bagikeun",
+  "ui.toast": "Tutaut geus disalin 📋",
+  "ui.footer": "Kitab Suci dina Sagulung · Cutatan Kitab Suci tina Kitab Suci basa Sunda",
+  "hero.kicker": "TI PANGWITAN NEPI KA GARÉJA",
+  "hero.title": "Kitab Suci,<br><span class=\"em\">dina sagulung</span>",
+  "hero.sub": "Dina sagulung, panggihan carita ageung Kitab Suci — jeung naon margina Yesus sumping.",
+  "hero.cue": "Gulungkeun ka handap<span>↓</span>",
+  "thread.eyebrow": "HIJI KALIMAH NU NGAHIJIKEUN SAKABEHNA",
+  "thread.h2": "Ahirna, Kitab Suci téh hiji carita anu tunggal",
+  "thread.flow": "<b>Jangji</b><span class=\"arw\">→</span><b>Ngadagoan</b><span class=\"arw\">→</span><b>Bukti</b>",
+  "thread.note": "Allah <b>ngajangjikeun</b> (perjangjian), umat <b>ngadagoan</b> lila pisan, sarta ahirna sagalana <b>kabukti</b> tur sampurna dina Yesus. Tuturkeun 13 adegan di handap dina galur éta — pencét <b>“Baca leuwih jero”</b> dina unggal kartu pikeun carita anu leuwih jero.",
+  "gospel.eyebrow": "NAON HARTINA IEU CARITA KEUR “KURING”",
+  "gospel.h2": "Inti anu saenyana tina Kitab Suci",
+  "gospel.lead": "Kitab Suci téh <b>lain buku ajaran ngeunaan “jadi jalma anu hadé.”</b>",
+  "gospel.sublead": "Ieu téh carita kumaha Allah, <b>ngan ku sih kurnia-Na</b>, nyalametkeun jalma dosa anu teu bisa nyalametkeun dirina sorangan. Di puseurna ngadeg Yesus Kristus.",
+  "gospel.mirror": "<h3>Daur Israil anu teu eureun-eureun téh saenyana gambaran “kuring”</h3><div class=\"cycle\"><b>Nyembah brahala</b><span class=\"a\">→</span><b>Sangsara</b><span class=\"a\">→</span><b>Sasambat</b><span class=\"a\">→</span><b>Allah nyalametkeun</b><span class=\"a\">→</span><b>Nyembah brahala deui…</b></div><p>Ti jaman para hakim nepi ka pangbuangan, Israil ngulang-ngulang daur ieu teu eureun-eureun. Kitab Suci ngarékam ieu lain sangkan urang nyeungseurikeun, “Kacida hinana maranéhna.”</p><p>Ieu téh <b>eunteung</b>. Maksudna lain “Israil kitu” tapi <b>“kuring ogé kitu”</b> (1 Korinta 10:11).</p><p>Hiji <b>brahala</b> téh lain ngan arca anu dipahat. Éta téh <b>naon waé anu leuwih dipikanyaah atawa dipercaya ti batan Allah</b> — duit, kasuksésan, pangakuan, jalma, malah diri sorangan. Jeung ngagunakeun Allah salaku <b>parabot pikeun ngahontal kahayang sorangan</b> ogé nyembah brahala.</p><p class=\"punch\">Ahirna, brahala anu pangjerona téh “diri sorangan, anu diuk dina tahta Allah.”</p>",
+  "gospel.coreIntro": "Jadi, kumaha Allah nyalametkeun jalma dosa anu siga kitu? Ieu inti tina Injil anu diembarkeun ku Kitab Suci.",
+  "gospel.crux": "<p class=\"crux-lead\">Sakumna Kitab Suci nuduhkeun ka hiji tempat.</p><p>Manusa teu bisa megatkeun daur dosa ku tanagana sorangan, sarta euweuh saurang ogé anu bener. Ku sabab éta aya anu kudu <b>mayar harga éta ngaganti urang</b>.</p><p>Yesus sumping lain ngan saukur pikeun méré ajaran anu hadé. Ku sabab euweuh deui jalan pikeun nyalametkeun kuring, <b>Anjeunna kapaksa kudu sumping.</b></p><p class=\"crux-punch\">Anu sakuduna digantung dina salib éta téh <b>kuring</b>.<br>Yesus manggul <b>dosa kuring</b> sarta dipaku di dinya ngaganti kuring.</p><div class=\"crux-verse\">“Pang anjeunna taratu teh, ku karana dosa urang. Anjeunna pada ngarangketan, ku karana kajahatan urang… anjeunna raraheut, sangkan urang dicageurkeun.” — Yesaya 53:5</div>",
+  "faq.h": "Masih aya nu jadi pikiran?",
+  "faq.q1": "<span class=\"arr\">▸</span> Jadi tukang maehan ngan kari percaya terus asup ka sawarga, ari jalma nu hirupna hadé tapi teu percaya asup ka naraka?",
+  "faq.a1": "<p>Éta patarosan anu wajar. Tapi aya dua salah harti anu nyumput di jerona.</p><p><b>① Kitab Suci henteu ngabagi jalma jadi “hadé jeung goréng.”</b> Ukuranana lain “leuwih hadé ti batur,” tapi “kasucian Allah anu sampurna.” Di payuneuna-Na, euweuh saurang ogé anu “cukup hadé” (Rum 3:23). Jadi ieu lain “jalma hadé jeung tukang maehan,” tapi leuwih kawas dua jalma nu sarua katarajang panyakit nu maot — nu hiji narima ubarna, nu hiji deui nampik bari ngomong, “Kuring leuwih séhat ti manéhna.”</p><p><b>② Ngan hiji hal anu misahkeun sawarga jeung naraka.</b> Lain peunteun kalakuan, tapi <b>naha geus narima Yesus Kristus jadi Gusti sarta masalah dosana geus béres.</b> Anu dosana béres ku getih Kristus asup ka sawarga; anu teu pernah narima Anjeunna, anu dosana angger ngancik, henteu. Taya kahadéan anu bisa mécahkeun masalah dosa éta sorangan.</p><p>Jadi sawarga jeung naraka téh lain “hadiah pikeun kalakuan anu hadé” tapi perkara <b>hubungan jeung Kristus</b>. Jeung “percaya” téh lain satuju dina pikiran wungkul, tapi gentina saha anu nyangking hirup urang — saha-saha anu enya-enya narima Anjeunna moal jadi adigung, tapi tobat anu leuwih jero. Malah <b>ngabenerkeun diri</b> (“kuring jalma hadé”) téh brahala anu pangsusahna dipecahkeun, anu ngalantarankeun urang ngarasa teu butuh Kristus (Lukas 18:9-14).</p><p>Kitab Suci nyebutkeun kalawan tétéla: <b>“Saha bae anu percaya ka nu jadi Putra, moal meunang hukuman. Sabalikna anu henteu percaya ka Anjeunna mah geus aya dina hukuman Allah”</b> (Yahya 3:18). Hukuman téh lain “meunteun hirup sanggeus paéh,” tapi geus ditangtukeun ku <b>naha geus narima Kristus</b>.</p><p class=\"faq-v\">Rum 3:23 · Yahya 3:18 · Epesus 2:8-9 · Lukas 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Naha henteu cukup ngan ku hirup anu hadé, sanajan teu percaya ka Yesus?",
+  "faq.a2": "<p>Éta pikiran anu pangilaharna, tapi salah harti kana naon anu jadi masalah anu saenyana. Ieu hiji gambaran.</p><p><b>Anggap baé maranéh aya dina kapal bajak laut.</b> Sanajan kumaha beresihna manéh ngepél geladak, kumaha hadéna ka anak buah, kumaha conto hadéna hirup manéh — manéh angger <b>bajak laut</b>, sabab manéh dibawa milu ku kapal éta ka tempat anu dijugjugna (palabuan hukuman). Masalahna lain “peunteun kalakuan” tapi <b>“milik kapal mana” (jati diri manéh)</b>.</p><p>Ku sabab éta Injil téh henteu ngomong “leuwih getol jadi hadé,” tapi <b>“pindah kapal.”</b> Turun tina kapal dosa sarta meuntas ka Yesus — kana jati diri anu anyar salaku <b>putra Allah</b>. Ieu lain ngaronjatkeun peunteun ku ihtiar, tapi percaya ka Anjeunna anu ngulurkeun panangan-Na sarta meuntas ka kapal-Na.</p><p>Saenyana Kitab Suci ngagambarkeun kasalametan pasti kawas pindahan éta — <b>“Urang ku Mantenna geus dijait tina genggeman kawasa poek, salamet dicandak ka karajaan Putra-Na kaasih”</b> (Kolosa 1:13).</p><p>Ulah salah harti: <b>ieu lain hartina hirup anu hadé téh taya gunana.</b> Kahadéan téh lain “sarat” kasalametan, tapi <b>buahna</b>. Anu geus pindah kapal ayeuna hirup hadé lain ku sabab sieun, tapi ku <b>kanyaah putra</b>.</p><p class=\"faq-v\">Kolosa 1:13 · Yahya 1:12 · Yahya 3:3 · Epesus 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Lamun palaku kajahatan ngarasa tengtrem bari ngaku “Allah geus ngahampura kuring,” padahal korban masih sangsara — naha henteu murah teuing éta panghampura?",
+  "faq.a3": "<p>Patarosanana wajar, jeung kanyerina nyata. Tapi ngakuan anu siga kitu téh lain “panghampura Kitab Suci” — éta mah <b>pamiritan</b>na.</p><p><b>① Panghampura Allah henteu pernah murah.</b> Dosa téh henteu ditutupan saolah-olah “teu kungsi kajadian”; Allah ku anjeun mayar hargana ku nyawa Putra-Na. Salib téh lain bukti yén dosa dianggap énténg, tapi yén dosa téh kacida beuratna — panghampura anu pangmahalna di dunya.</p><p><b>② Tobat anu saenyana mah baris ngabuah.</b> Lamun palaku kajahatan adigung di payuneun korban — “Allah geus ngahampura kuring, jadi kuring tengtrem” — éta lain tobat, tapi tiruanana (Mateus 3:8). Jeung panghampura antara jalma jeung Allah henteu mupus raheut korban, henteu maksa korban kudu ngahampura.</p><p><b>③ Dosa henteu pernah saukur “diantep.”</b> Unggal dosa dibayar di salah sahiji tina dua tempat — <b>boh ditanggung ku Kristus dina salib</b> (pikeun nu percaya geus euweuh hukuman, Rum 8:1), <b>atawa ditanggung ku anu nampik Anjeunna nepi ka ahir.</b> Jadi euweuh “panghampura anu murah.” Palaku kajahatan ogé tetep tanggung jawab di hareupeun hukum di dunya ieu (Rum 13:1-4).</p><p><b>④ Cipanon korban henteu pernah leutik di payuneun Allah.</b> Allah nangis jeung anu nangis, ngingetan unggal cimata, sarta ahirna baris nyusutanana ku anjeun (Wahyu 21:4). Ku sabab éta korban henteu kudu nanggung beurat males pati sorangan, tapi bisa masrahkeunana ka Allah anu adil (Rum 12:19 — “Kami anu pimaleseunana, Kami anu bakal ngahukumna, kitu pilahir Pangeran”).</p><p class=\"faq-v\">Mateus 3:8 · Rum 8:1 · Rum 13:1-4 · Wahyu 21:4</p>",
+  "respond.h3": "Jadi — kumaha kuring?",
+  "respond.sub": "Ieu kanyaah téh lain katerangan tapi <b>uleman</b>. Lamun kanyaah anu dipaku ngaganti manéh geus nyabak haté manéh, sanggakeun ieu doa kalawan lalaunan, hiji-hiji kalimah.",
+  "respond.prayer": "<p>Nun Allah,</p><p>abdi ngaku jadi jalma dosa anu teu tiasa nyalametkeun diri sorangan.</p><p>Abdi percaya yén Yesus pupus dina salib ngaganti abdi sarta gugah deui.</p><p>Mugi ngahapunten sadaya dosa abdi, sareng ti ayeuna jadilah Gusti hirup abdi.</p><p>Tampi abdi jadi putra Gusti, sareng mugi abdi tiasa ngalakonan hirup anu anyar.</p><p class=\"amen\">Dina pajenengan Yesus abdi neneda. Amin.</p>",
+  "respond.after": "Lamun manéh neneda ieu kalawan saestu, ceuk Kitab Suci manéh geus <b>jadi putra Allah</b>. Manéh geus teu nyorangan deui — sungsi garéja anu deukeut sarta laksanakeun jalan iman bareng jeung nu séjén.",
+  "respond.verse": "“Tapi loba oge anu narima jeung palercaya ka Anjeunna teh; jelema-jelema anu kitu ku Anjeunna dipaparin hak jadi putra-putra Allah.” — Yahya 1:12 · Rum 10:9-10",
+  "closing.main": "Hiji Allah,<br>ku hiji carita,<br>néangan urang ku <em>kanyaah</em><br>anu henteu pernah eureun.",
+  "closing.verse": "“Pati, hirup… cindekna sagala ciciptan moal aya anu bisa megatkeun asihna Allah ka urang, sakumaha anu geus diterapkeun ka urang ku jalan Kristus Yesus Gusti urang.” — Rum 8:38-39",
+  "closing.small": "Dina galur ieu, Hukum Toret, kitab-kitab puisi, para nabi, jeung surat-surat nambahkeun “dagingna.”<br>Ti ayeuna, naon waé kitab anu dibuka, manéh bakal nyaho “di mana posisi manéh dina carita.”",
+  "closing.share": "↗ Bagikeun carita ieu",
+  "about.line": "Eusina dumasar kana pamadegan <b>sajarah panebusan, injili, jeung réformis</b> anu dianut ku lolobana garéja Protestan Korea.",
+  "about.contact": "Tatanya · saran — <a id=\"contact\" class=\"mail\">Kintunkeun surélék</a>"
+ },
+ "epochs": [
+  {
+   "tag": "PB LAMA · PANGWITAN",
+   "title": "Pangwitan",
+   "date": "Dina sakawitna",
+   "one": "Allah ngadamel dunya anu “alus pisan.”",
+   "people": "Allah; Adam jeung Hawa",
+   "events": "Genep poé pangwitan, manusa dijieun sarupa jeung Allah, istirahat poé Sabat",
+   "q": "Nalika Allah nyiptakeun jagat raya,",
+   "cite": "Kajadian 1:1",
+   "christ": "Dunya dijieun ngaliwatan “Pangandika.” Injil Yahya nyatakeun yén Pangandika éta téh Yesus ku anjeun (Yahya 1:1-3).",
+   "detail": "<p>Kitab Suci henteu dibuka ku dalil pilsapat, tapi ku pernyataan: <b>“Nalika Allah nyiptakeun jagat raya…”</b> Dunya téh lain kabeneran, tapi pagawéan hiji Allah anu pribadi.</p><ul><li><b>Citra Allah</b> · ti antara sakabéh mahluk, ngan manusa anu dijieun sarupa jeung Allah — pikeun wanoh ka Mantenna jeung ngurus dunya.</li><li><b>Istirahat</b> · istirahat poé katujuh nuduhkeun sagalana geus sampurna jeung tengtrem (shalom): “alus.”</li><li><b>Éden</b> · dunya saméméh ruksak, tempat Allah jeung manusa leumpang babarengan.</li></ul>",
+   "next": "Tapi kasampurnaan ieu rék remuk…"
+  },
+  {
+   "tag": "PB LAMA · MASALAH NGAWITAN",
+   "title": "Tikoro",
+   "date": "Dina sakawitna",
+   "one": "Dosa asup, sarta tali nu ngahubungkeun manusa jeung Allah pegat.",
+   "people": "Adam jeung Hawa; oray (Iblis)",
+   "events": "Ngadahar buah anu dilarang, diusir ti Éden, datangna pati jeung kacapéan",
+   "q": "Manusa baris ngaremukkeun hulu maneh, ari maneh mo weleh ngarah-ngarah rek macok keuneung manusa.”",
+   "cite": "Kajadian 3:15",
+   "christ": "Jangji injil anu munggaran, dibikeun pas sanggeus tikoro: “turunan awéwé” baris ngaremukkeun hulu oray — sarta éta téh Yesus (Kajadian 3:15; Rum 16:20; Galata 4:4).",
+   "detail": "<p>Ngaliwatan kabasangkalan hayang “jadi saperti Allah,” dosa asup ka dunya. Akibatna lain ngan saukur ngarempak aturan, tapi <b>ruksakna hubungan</b>.</p><ul><li><b>Tali nu pegat</b> · jeung Allah (nyumput), jeung sasama (silih salahkeun), jeung alam (cucuk jeung kacapéan).</li><li><b>Pati</b> · pépéling “tangtu maranéh paéh” jadi kanyataan.</li><li><b>Kajadian 3:15</b> · tapi di tengah hukuman, jangji panyalametan datang heula. Para ahli nyebutna <b>protoinjil (injil anu munggaran)</b>.</li></ul>",
+   "next": "Ayeuna Allah nyaur hiji jalma pikeun ngawitan panyalametan…"
+  },
+  {
+   "tag": "PB LAMA · JANGJI",
+   "title": "Para Karuhun",
+   "date": "kira-kira 2000 SM",
+   "one": "Allah ngajangjikeun ka Ibrahim, “Manéh bakal jadi saluran berkah.”",
+   "people": "Ibrahim · Isak · Yakub · Yusup",
+   "events": "Perjangjian Ibrahim, kurban Isak, dua belas anak Yakub, Yusup ngarénggényék jadi gegedén di Mesir",
+   "q": "Maneh rek dibere turunan loba, anu pijadieun bangsa gede… Kabeh bangsa ku Kami baris diberkahan, ku jalan maneh.”",
+   "cite": "Kajadian 12:2-3",
+   "christ": "Jangji yén “kabéh bangsa bakal diberkahan” kabukti dina Yesus, turunan Ibrahim (Galata 3:16).",
+   "detail": "<p>Allah ngawitan ngaréngsékeun masalah sakabéh manusa ku nyaur hiji jalma, <b>Ibrahim</b>. Intina nya éta <b>perjangjian (jangji)</b> — bangsa anu gedé, hiji tanah, jeung “berkah pikeun sakabéh bangsa.”</p><ul><li><b>Iman</b> · Ibrahim percaya kana jangji anu teu katingali, sarta éta ku Allah kamanah jadi kabeneran (Kajadian 15:6).</li><li><b>Isak jeung Yakub</b> · jangji éta dituluykeun; Yakub (Israil) jadi karuhun dua belas kaom.</li><li><b>Yusup</b> · dijual ku dulur-dulurna tapi diangkat jadi gegedén — “ku Allah geus dibalikkeun jadi pitulung” (Kajadian 50:20).</li></ul>",
+   "next": "Nuturkeun Yusup, kulawargana turun ka Mesir — sarta jadi budak…"
+  },
+  {
+   "tag": "PB LAMA · PANYALAMETAN",
+   "title": "Budalan & Gurun Keusik",
+   "date": "kira-kira 1446 SM",
+   "one": "Allah nyalametkeun umat anu jadi budak sarta dijadikeun milik-Na.",
+   "people": "Musa, Harun, Piraon",
+   "events": "Sapuluh balahi, Paska, meuntas Laut Beureum, Sapuluh Timbalan di Sinai, kémah suci, 40 taun di gurun keusik",
+   "q": "Maraneh rek dijadikeun umat Kami pribadi, sarta Kami bakal jadi Allah maraneh.",
+   "cite": "Budalan 6:7",
+   "christ": "Paska — tempat getih anak domba mulangkeun pati — nuduhkeun ka Yesus, “anak domba Paska urang,” anu disalib ngaganti urang (1 Korinta 5:7).",
+   "detail": "<p>Panyalametan anu pangagungna di Perjangjian Lama. Israil anu tadina budak dibébaskeun ku kawasa Allah sarta dibentuk jadi <b>umat</b>-Na.</p><ul><li><b>Paska</b> · imah anu ditandaan ku getih anak domba diliwatan ku pati — pola di balik unggal kurban saterusna.</li><li><b>Laut Beureum</b> · panyalametan di mana jalan geus buntu; “meuntas” jadi lambang wiwitan anu anyar.</li><li><b>Perjangjian Sinai</b> · ngaliwatan Timbalan maranéhna diajar kumaha hirup salaku umat Allah.</li><li><b>Kémah suci</b> · tempat suci anu bisa dibawa, tempat Allah linggih di tengah umat-Na — cicipian “Imanuel.”</li><li><b>40 taun</b> · kabasangkalan ngalantarankeun hiji generasi ngumbara, tapi Allah tetep deukeut ku manna jeung tihang méga jeung seuneu.</li></ul>",
+   "next": "Nangtung di sisi tanah anu dijangjikeun, maranéhna tatahar pikeun asup…"
+  },
+  {
+   "tag": "PB LAMA · NEPATKEUN",
+   "title": "Ngarebut Tanah & Para Hakim",
+   "date": "kira-kira 1400–1050 SM",
+   "one": "Maranéhna meunang tanah, tapi tanpa raja unggal jalma migawé sakahayang.",
+   "people": "Yosua; para hakim saperti Gidion jeung Simson; Rut",
+   "events": "Runtagna Yériho, nepatkeun di Kanaan, daur dosa–hukuman–panyalametan anu diulang",
+   "q": "Harita can aya raja di Israil. Unggal jalma hirupna nurutkeun sakahayang sorangan bae.",
+   "cite": "Hakim-hakim 21:25",
+   "christ": "Ti turunan Rut sumping Daud, sarta ti turunan Daud sumping Yesus (Mateus 1). Sanajan dina kakacowan, galur turunan Mésias tetep tuluy.",
+   "detail": "<p>Dina pingpinan Yosua maranéhna asup ka tanah anu dijangjikeun, tapi sanggeus netep maranéhna geuwat poho ka Allah. Kitab Hakim-hakim téh pola anu sarua diulang-ulang.</p><ul><li><b>Daur ka handap</b> · dosa → katindes → sasambat → hakim nyalametkeun → dosa deui. Beuki lila beuki goréng.</li><li><b>Para hakim</b> · Gidion, Simson, Débora — panyalamet samentara, gagah tapi pinuh kakurangan.</li><li><b>Rut</b> · carita caang ngeunaan kasatiaan dina jaman anu poék; hiji awéwé asing asup kana turunan Daud (jeung Yesus).</li></ul>",
+   "next": "Umat sasambat, “Pangéran masihan abdi-abdi raja ogé!”…"
+  },
+  {
+   "tag": "PB LAMA · JAMAN EMAS",
+   "title": "Karajaan Ngahiji",
+   "date": "kira-kira 1050–930 SM",
+   "one": "Allah ngajangjikeun ka Daud, “Tahta manéh bakal langgeng.”",
+   "people": "Saul · Daud · Suléman",
+   "events": "Raja munggaran Saul, Daud jeung Goliat, perjangjian Daud, Suléman ngadegkeun Bait Allah",
+   "q": "Turunan maneh moal aya pegatna, karajaan maneh bakal langgeng. Ti turunan maneh salawasna bakal aya anu jadi raja.’ ”",
+   "cite": "2 Samuel 7:16",
+   "christ": "“Tahta anu langgeng” kabukti dina Yesus, turunan Daud — anu matak Anjeunna disebut “Putra Daud” (Lukas 1:32-33; Mateus 1:1).",
+   "detail": "<p>Puncak Israil, dipingpin ku tilu raja.</p><ul><li><b>Saul</b> · raja munggaran anu dipénta ku umat; wiwitan anu hadé tapi ruksak ku kabasangkalan.</li><li><b>Daud</b> · “jalma anu luyu jeung manah Allah.” Anjeunna ngéléhkeun Goliat sarta ngajadikeun Yerusalem ibukota. Anjeunna ngalakukeun dosa anu gedé (Batseba) tapi tobat ti haté (Jabur 51).</li><li><b>Perjangjian Daud (2 Samuel 7)</b> · Allah ngajangjikeun bakal ngadegkeun turunan Daud salalanggengna — akar anu nangtukeun harepan Mésias.</li><li><b>Suléman</b> · dina puncak hikmah jeung kabeungharan anjeunna ngadegkeun <b>Bait Allah</b>, tapi dina ahir hirupna asruk ka brahala.</li></ul>",
+   "next": "Sanggeus Suléman, karajaan dibagi dua…"
+  },
+  {
+   "tag": "PB LAMA · MUNDUR",
+   "title": "Karajaan Pisah",
+   "date": "930–586 SM",
+   "one": "Pisah jadi kidul (Yuda) jeung kaler (Israil), bangsa ieu mundur ka karuksakan.",
+   "people": "Para raja dua karajaan; para nabi saperti Élias, Yesaya, Yermia",
+   "events": "Karajaan dibagi, nyembah brahala sumebar, para nabi mépélingan",
+   "q": "Ti semet harita rahayat karajaan Israil di wewengkon kaler baha ngalawan ka raja turunan Daud.",
+   "cite": "1 Raja-raja 12:19",
+   "christ": "Dina jaman ieu para nabi ngaramalkeun Mésias anu bakal sumping beuki tétéla (Yesaya 9:6; Yesaya 53).",
+   "detail": "<p>Dina jaman putra Suléman bangsa éta pisah: <b>karajaan kaler Israil</b> (10 kaom, ibukota Samaria) jeung <b>karajaan kidul Yuda</b> (2 kaom, ibukota Yerusalem).</p><ul><li><b>Israil (kaler)</b> · unggal rajana ngabakti ka brahala; runtag ka Asur taun 722 SM.</li><li><b>Yuda (kidul)</b> · turunan Daud tetep tuluy, jeung sababaraha raja anu hadé saperti Hiskia jeung Yosia, tapi sacara umum mundur.</li><li><b>Para nabi</b> · Élias, Amos, Yesaya, Yermia sasambat “balik deui!” Ramalan Mésias ngahontal puncak pangbeungharna di dieu (“abdi anu sangsara” dina Yesaya 53).</li></ul>",
+   "next": "Ahirna hukuman anu dipépélingkeun datang — maranéhna dibawa ka pangbuangan…"
+  },
+  {
+   "tag": "PB LAMA · HUKUMAN",
+   "title": "Pangbuangan",
+   "date": "722 / 586 SM",
+   "one": "Bangsa éta runtuh sarta umatna dibawa ka tanah asing.",
+   "people": "Daniel, Yeheskiel, Nebukadnesar",
+   "events": "Israil runtag ka Asur (722), Yuda runtag ka Babul sarta Bait Allah diruksak (586)",
+   "q": "Di sisi walungan-walungan Babul, urang dariuk, di dinya urang careurik ari ras inget ka Sion.",
+   "cite": "Jabur 137:1",
+   "christ": "Dina jurang pamupus harepan, Yermia ngajangjikeun “perjangjian anyar” (Yermia 31:31) — perjangjian anu dipateuhkeun ku Yesus dina Tuang Pamungkas.",
+   "detail": "<p>Pépéling jadi kanyataan. Bait Allah kahuruan sarta umatna dibawa ka Babul — leungiteun tanah, raja, jeung Bait Allah: titik anu panghandapna.</p><ul><li><b>Dua karuntuhan</b> · Israil (Asur, 722 SM) jeung Yuda (Babul, 586 SM).</li><li><b>Daniel</b> · conto iman sanajan di karaton kapir (liang singa); anjeunna nénjo tetenjoan ngeunaan “karajaan langgeng” anu bakal sumping.</li><li><b>Geletik harepan</b> · tetenjoan Yeheskiel ngeunaan tulang-taléng garing nu jadi hirup (Yeheskiel 37) jeung “perjangjian anyar” Yermia nuduhkeun kahareup dina poék.</li></ul>",
+   "next": "Tujuh puluh taun ti harita, Allah muka jalan — maranéhna balik ka lemah cai…"
+  },
+  {
+   "tag": "PB LAMA · PAMULIHAN",
+   "title": "Mulang ti Pangbuangan",
+   "date": "538–430 SM",
+   "one": "Maranéhna mulang sarta ngadegkeun deui Bait Allah jeung kuta.",
+   "people": "Esra, Nehemia, Éster, Serubabel",
+   "events": "Mulang ku katetepan Koris, ngadegkeun deui Bait Allah, ngomékeun kuta Yerusalem, mulangkeun Pangandika",
+   "q": "Sing suka bungah ku karana Pangeran sangkan kuat.”",
+   "cite": "Nehemia 8:10",
+   "christ": "Maléakhi, kitab pamungkas Perjangjian Lama, ditutup ku ngaramalkeun utusan anu nyadiakeun jalan keur Mésias: “Kami rek ngirim utusan” (Maléakhi 3:1).",
+   "detail": "<p>Ku katetepan raja Pérsia Koris (538 SM) pamulangan ngawitan. Dina tilu gelombang maranéhna mulang sarta ngadegkeun deui anu geus ruksak.</p><ul><li><b>Serubabel</b> · ngadegkeun deui Bait Allah (réngsé 516 SM).</li><li><b>Esra</b> · ngajarkeun deui Pangandika sarta ngahirupkeun deui iman.</li><li><b>Nehemia</b> · ngadegkeun deui kuta Yerusalem dina 52 poé.</li><li><b>Éster</b> · nyalametkeun urang Yahudi di Pérsia tina pamupusan — “pikeun mangsa anu siga kieu.”</li><li><b>Masih hanaang</b> · Bait Allah ngadeg, tapi euweuh raja saperti Daud. Umat ngadagoan Mésias.</li></ul>",
+   "next": "Jeung saterusna… sapertos langit anu jempé, 400 taun kaliwat."
+  },
+  {
+   "tag": "ANTARA DUA PERJANGJIAN · NYADIAKEUN PANGGUNG",
+   "title": "Taun-taun Jempé",
+   "date": "kira-kira 430–4 SM",
+   "one": "400 taun tanpa sora nabi — tapi panggung dicawiskeun kalawan jempé.",
+   "people": "Aléksander Agung, kaom Makabe, Roma",
+   "events": "Pérsia → Yunani → kamerdékaan Makabe → kakawasaan Roma",
+   "q": "Sanggeus waktuna cunduk, Allah ngutus Putra-Na ka ieu dunya ku jalan dilahirkeun sakumaha urang ku indung,",
+   "cite": "Galata 4:4",
+   "christ": "Sakabéh “panyadiaan panggung” ieu téh pagawéan Allah sangkan Yesus sumping pas dina “waktu anu cunduk.”",
+   "detail": "<p>Ti Maléakhi nepi ka Perjangjian Anyar, kira-kira 400 taun kaliwat tanpa Kitab Suci anu anyar. Tapi di balik sajarah, Allah keur nyadiakeun jalan keur Injil.</p><ul><li><b>Karajaan ganti tangan</b> · Pérsia → Yunani (Aléksander, 333 SM) → kaom Ptolemeus jeung Seleukus → pemberontakan Makabe (167 SM) → Roma (63 SM).</li><li><b>Basa Yunani</b> · penaklukan Aléksander ngajadikeun basa Yunani basa umum; Perjangjian Lama ditarjamahkeun kana basa Yunani (Septuaginta), muka jalan keur Injil sumebar gancang.</li><li><b>Jalan jeung karaharjaan Roma</b> · jalan anu hadé jeung “Pax Romana” jadi jalan gedé pikeun misi.</li><li><b>Sinagoge jeung golongan</b> · pangajaran di sinagoge ngarakar; kaom Parisi jeung Saduki muncul; sarta <b>kahanaang ka Mésias</b> beuki asak.</li></ul>",
+   "next": "Tuluy jempéna pegat — ahirna, Anjeunna sumping."
+  },
+  {
+   "tag": "PB ANYAR · BUKTI",
+   "title": "Yesus Sumping",
+   "date": "kira-kira 4 SM–30 M",
+   "one": "Mésias anu dijangjikeun sumping, pupus, sarta gugah deui.",
+   "people": "Yesus, dua belas murid, Yahya Pembaptis",
+   "events": "Mijalma, palayanan jeung pangajaran jeung mujijat, pupus dina salib, gugah dina poé katilu",
+   "q": "Pangandika teh terus mijalma, jadi manusa, hirup di kalangan urang, jembar kurnia jeung saestu sipat-Na tur mulya kaayaana-Na,",
+   "cite": "Yahya 1:14",
+   "christ": "Turunan awéwé (adegan 2), berkah Ibrahim (3), anak domba Paska (4), raja langgeng Daud (6), perjangjian anyar (8) — kabéh kabukti dina hiji jalma, Yesus: Nabi, Imam, jeung Raja urang anu saestu.",
+   "detail": "<p>Jempéna pegat; Anu Dijangjikeun sumping. Opat Injil nyaksian hirup, pupus, jeung gugahna Yesus tina opat sudut.</p><ul><li><b>Mijalma</b> · Allah jadi manusa (Imanuel, “Allah nyarengan urang”), di tempat anu handap di Betlehem.</li><li><b>Palayanan</b> · Anjeunna ngajarkeun Karajaan Allah, nyageurkeun nu gering, nyaur jalma dosa. “Saha-saha anu geus ningali Kaula, geus ningali Rama.”</li><li><b>Salib</b> · Anjeunna mayar harga dosa jeung pati anu disababkeun ku tikoro (adegan 2). Anak domba Paska anu saestu.</li><li><b>Gugah</b> · gugah dina poé katilu, Anjeunna megatkeun kakawasaan dosa, pati, jeung Iblis — geus dina salib Anjeunna “geus ngarangsadan roh-roh anu karawasa jeung nyarekel parentah… ku Kristus ditawan” (Kolosa 2:15).</li></ul><p>Ku sabab éta Yesus téh <b>Nabi urang anu saestu</b> (nuduhkeun jalan ka Allah), <b>Imam urang anu saestu</b> (nebus dosa ku salira-Na sorangan), jeung <b>Raja urang anu saestu</b> (ngéléhkeun dosa, pati, jeung Iblis sarta maréntah salalanggengna).</p>",
+   "next": "Yesus anu gugah ngutus murid-murid-Na ka dunya…"
+  },
+  {
+   "tag": "PB ANYAR · PANGSEBARAN",
+   "title": "Garéja Ngawitan",
+   "date": "kira-kira 30 M–",
+   "one": "Roh sumping, sarta Injil sumebar nepi ka tungtung bumi.",
+   "people": "Petrus, Paulus, garéja munggaran",
+   "events": "Roh dikucurkeun dina Pentakosta, garéja lahir, Injil sumebar ti Yerusalem ka Roma ngaliwatan kasangsaraan",
+   "q": "Tapi maraneh, lamun Roh Suci geus sumping bakal narampa kawasa, pikeun jaradi saksi-saksi Kami di Yerusalem… nepi ka tungtung bumi.”",
+   "cite": "Rasul 1:8",
+   "christ": "Carita ieu masih tuluy nepi ka kiwari. Kitab Suci ditutup ku jangji yén Yesus baris sumping deui sarta ngajadikeun sagalana anyar (Wahyu 21).",
+   "detail": "<p>Sanggeus Yesus mido, Roh anu dijangjikeun sumping dina Pentakosta sarta garéja lahir. Injil sumebar kalawan ngabeledug.</p><ul><li><b>Pentakosta</b> · Roh ngarobah murid-murid anu sieun jadi saksi anu wani.</li><li><b>Petrus</b> · ngembarkeun Injil ka urang Yahudi di Yerusalem.</li><li><b>Paulus</b> · ti tukang nganiaya jadi rasul, ngadegkeun garéja-garéja di dunya bangsa-bangsa sarta nulis surat-surat.</li><li><b>Nepi ka tungtung bumi</b> · Yerusalem → Yudea → Samaria → Roma. Jangji ka Ibrahim ngeunaan “kabéh bangsa” jadi kanyataan.</li><li><b>Jeung urang</b> · carita henteu réngsé; tuluy maju ka sumpingna deui Yesus jeung langit anyar sarta bumi anyar.</li></ul>",
+   "next": "Tapi carita henteu réngsé di dieu…"
+  },
+  {
+   "tag": "PB ANYAR · KASAMPURNAAN",
+   "title": "Pamulihan",
+   "date": "Bakal sumping",
+   "one": "Yesus sumping deui sarta ngajadikeun sagalana anyar.",
+   "people": "Yesus anu sumping deui; sakabéh bangsa",
+   "events": "Sumpingna deui, hukuman pamungkas, ahirna dosa·pati·cipanon, langit anyar jeung bumi anyar",
+   "q": "Mantenna bakal nyusutan cipanon maranehna. Paeh, kasedih, piceurikeun, kanyeri, moal aya-aya deui. Sakur nu heubeul geus sirna.”",
+   "cite": "Wahyu 21:4",
+   "christ": "Éden tina pangwitan kahiji ahirna dipulihkeun jadi “Yerusalem Anyar.” Allah linggih jeung umat-Na salalanggengna — kasampurnaan Imanuel (Wahyu 21:3; Mateus 1:23).",
+   "detail": "<p>Kitab Suci henteu réngsé dina jaman garéja. Kitab pamungkasna, Wahyu, nuduhkeun Yesus <b>sumping deui</b> pikeun nyampurnakeun sagalana.</p><ul><li><b>Sumpingna deui</b> · raja anu dijangjikeun sumping deui dina kamulyaan.</li><li><b>Kaunggulan pamungkas</b> · Iblis jeung pati ditumpes salalanggengna, sarta Kristus maréntah salaku Raja sagala raja (1 Korinta 15:25-26; Wahyu 20:10).</li><li><b>Hukuman jeung gugah</b> · unggal kateuadilan dibenerkeun, sarta nu maraot digugahkeun.</li><li><b>Langit anyar jeung bumi anyar</b> · dosa, pati, cipanon, jeung kanyeri sirna salalanggengna (Wahyu 21:4).</li><li><b>Éden dipulihkeun</b> · dina “Yerusalem Anyar” anu leuwih alus ti batan pangwitan, Allah linggih jeung umat-Na salalanggengna — tujuan anu dijugjug ku sakumna Kitab Suci.</li></ul><p>Ku sabab éta ayeuna téh jaman <b>“geus, tapi acan”</b>: dina Yesus kasalametan téh <b>geus</b> dilaksanakeun, tapi kasampurnaanana <b>acan</b> didagoan.</p>",
+   "next": "Jadi naon hartina sakumna carita ieu keur “kuring”?"
+  }
+ ],
+ "love": [
+  "Carita ngawitan lain ku hukuman, tapi ku pangwitan anu dikucurkeun ku kanyaah.",
+  "Sapeu jalma migawé dosa, Allah harita kénéh ngajangjikeun panyalametan di tempat éta.",
+  "Allah datang heula ka jalma anu teu pantes, nyaur ku ngaranna, sarta ngajadikeunana saluran berkah.",
+  "Mantenna ngadéngé kaluhan umat anu jadi budak sarta lungsur ku anjeun pikeun nyalametkeunana.",
+  "Sanajan dihianat balik deui balik deui, unggal maranéhna sasambat Mantenna ngutus panyalamet sarta ngahudangkeunana deui.",
+  "Mantenna teu miceun Daud anu murag, sarta ngaliwatanana ngajangjikeun hiji Raja anu langgeng.",
+  "Ka umat anu malik tonggong, Mantenna terus ngutus para nabi, nguwuh-nguwuh, “Mangga balik deui.”",
+  "Mantenna ngiringan maranéhna nepi ka tanah pangbuangan anu pangpoékna, sarta ngajangjikeun pamulihan.",
+  "Sanajan ka umat anu gagal balik deui balik deui, Mantenna teu narik deui jangji-Na.",
+  "Sanajan ngaliwatan 400 taun jempé, kalawan teu katingali, Mantenna keur nyadiakeun jalan panyalametan.",
+  "Sajeroning urang keur dina dosa kénéh, Mantenna ngutus Putra-Na pikeun ngorbankeun nyawa-Na sorangan.",
+  "Kanyaah anu ku urang ditampi, ayeuna ku Mantenna dikucurkeun ka sakuliah dunya.",
+  "Ahirna Mantenna baris nyusutan unggal cipanon sarta mulangkeun sagalana dina kanyaah."
+ ],
+ "mis": [
+  {
+   "w": "“Naha Allah ngadamel mahluk anu bisa migawé dosa? Naha henteu leuwih hadé teu dijieun pisan?”",
+   "t": "Allah nyiptakeun dunya jeung manusa lain ku sabab kakurangan, tapi ku kanyaah anu ngaleuya. Ngadamel manusa salaku <b>pribadi anu bisa ngahubungan jeung Allah</b> éta sorangan geus kanyaah. Jeung asupna dosa ogé henteu di luar rancangan panyalametan Allah (Epesus 1:4-5). Adegan munggaran Kitab Suci lain hukuman tapi kanyaah."
+  },
+  {
+   "w": "“Diusir jeung dibéré pati ngan ku ngadahar hiji buah — naha Allah henteu kasar teuing?”",
+   "t": "Diusir ti Éden téh hukuman sakaligus rahmat. Lamun ngadahar tina tangkal kahirupan sarta hirup salalanggengna dina kaayaan ruksak sarta papisah ti Allah, manusa bakal kajiret dina kasangsaraan salalanggengna (Kajadian 3:22). Ngantepkeun pati téh muka jalan balik, sarta di dinya kénéh Allah ngajangjikeun Juru Salamet (Kajadian 3:15). Kanyaah geus aya di jero hukuman."
+  },
+  {
+   "w": "“Ibrahim dipilih ku sabab imanna anu gedé — naha kabéh tokoh Kitab Suci téh pahlawan moral?”",
+   "t": "Ibrahim ogé ngabohong jeung ngarasula; Yakub téh tukang ngabobodo. Allah nyaur lain jalma “anu pantes” tapi jalma anu pinuh kakurangan, ku sih kurnia. Alesanana lain kahadéanana tapi kanyaah Allah anu satia (Pamindo 7:7-8)."
+  },
+  {
+   "w": "“Naha Hukum Toret (Timbalan) téh ujian anu kudu kalakon supaya salamet?”",
+   "t": "Allah nyalametkeun maranéhna <b>saméméh</b> mikeun Hukum. Malah Sapuluh Timbalan ngawitan ku pernyataan panyalametan: “Kami teh Pangeran Allah maraneh, anu ngaluarkeun maraneh ti Mesir” (Budalan 20:2). Hukum téh lain “lakonan supaya salamet,” tapi tungtunan kanyaah ngeunaan kumaha umat anu geus disalametkeun kudu hirup (Pamindo 7:7-9). Sih kurnia salawasna heula; kataatan téh jawabanana."
+  },
+  {
+   "w": "“Penaklukan Kanaan téh pembantaian anu taya rasrasan — jadi Allah Perjangjian Lama mah enya kejem.”",
+   "t": "Ieu téh masalah anu beurat, anu teu bisa réngsé ku sakalimah. Tapi Kitab Suci nyebutkeunana lain salaku kekerasan anu sawenang-wenang tapi salaku hukuman sanggeus abad-abad kasabaran kana kajahatan anu kaleuleuwihi (kaasup ngorbankeun budak) (Kajadian 15:16; Pamindo 9:4-5; Imamat 18:24-25). Allah kacida sabarna sanajan dina ngahukum, sarta Mantenna kalawan suka nampi anu malik ka Mantenna — sanajan urang asing saperti Rahab jeung Rut (Yosua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“Daud téh pahlawan anu taya cawadeun — éta sababna anjeunna disebut ‘jalma anu luyu jeung manah Allah.’”",
+   "t": "Daud ngalakukeun jinah jeung malah rajapati. “Jalma anu luyu jeung manah Allah” lain hartina taya cawadeun, tapi jalma anu henteu nyumputkeun dosana — anu tobat sing daria sarta salawasna balik deui ka Allah (Jabur 51). Kanyaah Allah henteu miceun sanajan jalma anu murag jero."
+  },
+  {
+   "w": "“Nabi téh tukang ramal anu ngaramalkeun kahareup / Allah Perjangjian Lama mah ngan amarah wungkul.”",
+   "t": "Haté nabi lain “ngaramalkeun kahareup” tapi panyambat Allah anu nyeri: “Mangga balik deui.” Malah pépéling hukuman ogé tujuanana lain ngancurkeun tapi ngabalikkeun jalma sarta nyalametkeun — “hamo teh teuing bungah ningali aya jelema dosa paeh” (Yeheskiel 33:11)."
+  },
+  {
+   "w": "“Pangbuangan ngabuktikeun yén Allah geus pisan-pisan miceun Israil.”",
+   "t": "Pangbuangan lain pamiceunan tapi disiplin jeung pemurnian ka anak anu dipikanyaah (Ibrani 12:6). Allah henteu ingkah; Mantenna nyarengan Daniel di tengah pangbuangan sarta ngajangjikeun, “Kami henteu samar kana sagala pikersaeun ka maraneh. Nya eta seja nyenangkeun, lain rek nyilakakeun. Seja mere pijamugaeun ka hareup” (Yermia 29:11)."
+  },
+  null,
+  {
+   "w": "“Lamun 400 taun teu aya pangandika, tangtu Allah geus ingkah atawa keur istirahat.”",
+   "t": "Jempé lain teu aya. Mantenna ngan saukur henteu ngandika, bari salila éta ngagerakkeun karajaan, basa, jeung jalan pikeun nyadiakeun panggung panyalametan. Dina mangsa anu pangjempéna, Allah keur digawé pangkerasna, ku kanyaah (Galata 4:4)."
+  },
+  {
+   "w": "“Yesus téh ngan saurang guru moral anu hadé / salib téh éléh anu pikasediheun.”",
+   "t": "Yesus ngaku jadi Allah ku anjeun (Yahya 8:58), sarta salib téh lain kacilakaan atawa éléh tapi kanyaah anu dirancang. Anjeunna lain digusur ku paksa; Anjeunna nyérénkeun nyawana ku anjeun (Yahya 10:18). “Kanyaah nu panggedena ti hiji jalma ka sobat-sobatna, nya eta lamun nepi ka iklas ngorbankeun jiwa pikeun ngabelaanana” (Yahya 15:13)."
+  },
+  {
+   "w": "“Garéja téh klub jalma sampurna, atawa ngan saukur gedong.”",
+   "t": "Garéja lain pakumpulan “santo anu geus sampurna” tapi <b>jalma dosa anu geus dihampura</b>. Malah rasul Paulus nyebut dirina “pangjahatna ti sakur anu doraka” (1 Timoteus 1:15). Garéja munggaran ogé pasalingsingan jeung tikoro (Rasul 6:1; 1 Korinta 1:11). Garéja lain tempat agul, tapi jalma anu nuluykeun kanyaah anu ditampina (Yahya 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Dosa asal — euweuh nu bener",
+   "body": "Masalahna lain “sababaraha kalakuan goréng” tapi akar haté. Ti Adam, sakabéh jalma lahir dina dosa sarta teu bisa nepi ka Allah ku tanagana sorangan.",
+   "vref": "Rum 3:10-12, 23",
+   "vtext": "Saurang ge taya nu bener, saurang ge taya nu bijaksana, taya pisan nu nyembah ka Allah… kabeh geus dosa, jarauh ti Allah anu iasa nyalametkeun."
+  },
+  {
+   "title": "Hukum henteu bisa nyalametkeun kuring",
+   "body": "Hukum téh lain tarajé tapi eunteung. Beuki getol urang nyoba, beuki nuduhkeun sabaraha jauh urang gagal. Tujuanana pikeun mawa urang ka Kristus.",
+   "vref": "Rum 3:20 · Galata 3:24",
+   "vtext": "Eta mah maksudna keur mere terang yen manusa teh geus dosa… gunana eta Hukum Agama teh pikeun ngincer ngawaskeun kasalahan-kasalahan urang nepi ka mangsa sumping Kristus."
+  },
+  {
+   "title": "Ku sih kurnia — kado, lain ihtiar",
+   "body": "Kasalametan téh lain buruhan keur jasa anu dikumpulkeun, tapi kado haratis pikeun jalma anu teu pantes. Ku sabab éta euweuh saurang ogé anu bisa nyombong.",
+   "vref": "Epesus 2:8-9",
+   "vtext": "Aranjeun oge pang salamet teh ku karana sih kurnia Allah lantaran percaya ka Yesus… lain beunang ihtiar sorangan… jadi ulah nyombong ku hal eta."
+  },
+  {
+   "title": "Diangken bener ku iman",
+   "body": "Lain ku netepan Hukum, tapi ku percaya ka Yesus Kristus, urang diangken bener — disampingan lain ku kabeneran sorangan tapi ku kabeneran Anjeunna.",
+   "vref": "Rum 5:1 · Galata 2:16",
+   "vtext": "Sanggeus urang diangken bener deui ku Allah ku jalan percaya… jelema bisa diangken bener ku Allah teh lain ku pedah ngalaksanakeun Hukum Agama Yahudi, tapi ku lantaran percaya ka Yesus Kristus."
+  },
+  {
+   "title": "Kitab Suci nuduhkeun ka Yesus",
+   "body": "Kitab Suci téh lain buku ngeunaan jalma agung atawa buku tulung-diri. Ti Kajadian nepi ka Wahyu, unggal kaca nyaksian hiji jalma — Yesus Kristus.",
+   "vref": "Yahya 5:39 · Lukas 24:27",
+   "vtext": "Tah eta Kitab Suci teh mere pertelaan hal Kaula!… Anjeunna nerangkeun ka maranehna sagala anu dituliskeun dina Kitab Suci hal salira-Na."
+  },
+  {
+   "title": "Karajaan Allah — inti pesen Yesus",
+   "body": "Téma anu pangseringna diajarkeun ku Yesus. Pamaréntahan Allah salaku Raja asup ka dunya ieu jeung Yesus sarta bakal sampurna nalika Anjeunna sumping deui. Ku salib jeung gugahna, Yesus téh Raja anu saestu anu ngéléhkeun dosa, pati, jeung Iblis.",
+   "vref": "Markus 1:15",
+   "vtext": "Geura tarobat, geus waktuna, sabab Karajaan Allah geus meh ngadeg! Sing percaya kana ieu Injil Kasalametan!"
+  },
+  {
+   "title": "Injil — Anjeunna geus ngalengkepan sagalana",
+   "body": "Hutang dosa anu teu bisa dibayar ku kuring, ku Yesus dibayar ngaganti kuring dina salib, sarta ku gugahna ngéléhkeun pati. Kuring sumendé lain kana “lakonan ieu” tapi kana “geus tutas.”",
+   "vref": "Yahya 19:30 · Rum 5:8",
+   "vtext": "Geus tutas!… Kristus pupus ngaganti urang sajeroning urang keur hirup keneh dina dosa."
+  }
+ ]
+}
