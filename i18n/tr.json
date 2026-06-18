@@ -1,0 +1,343 @@
+{
+ "menuName": "Türkçe",
+ "htmlLang": "tr",
+ "dir": "ltr",
+ "brand": "Tek Bakışta Kutsal Kitap",
+ "docTitle": "Tek Bakışta Kutsal Kitap · Yaratılıştan kiliseye",
+ "share": {
+  "title": "Tek Bakışta Kutsal Kitap",
+  "text": "Tek bir kaydırmada Kutsal Kitap'ın büyük öyküsünü ve İsa'nın neden geldiğini keşfedin."
+ },
+ "ui": {
+  "people": "Kişiler",
+  "events": "Önemli olaylar",
+  "christLabel": "İsa'yı işaret eder",
+  "loveLabel": "Vazgeçmeyen sevgi",
+  "mythWrong": "Yaygın yanılgı",
+  "mythRight": "Gerçek şu",
+  "more": "Devamını oku",
+  "version": "(Kutsal Kitap)"
+ },
+ "labels": {
+  "start": "Başla",
+  "thread": "Ana öykü",
+  "gospel": "Müjde",
+  "about": "Hakkında"
+ },
+ "s": {
+  "ui.share": "↗ Paylaş",
+  "ui.toast": "Bağlantı kopyalandı 📋",
+  "ui.footer": "Tek Bakışta Kutsal Kitap · Kutsal Kitap alıntıları (Kutsal Kitap, Yeni Çeviri)",
+  "hero.kicker": "YARATILIŞTAN KİLİSEYE",
+  "hero.title": "Tek bakışta<br><span class='em'>Kutsal Kitap</span>",
+  "hero.sub": "Tek bir kaydırmada Kutsal Kitap'ın büyük öyküsünü ve İsa'nın neden geldiğini keşfedin.",
+  "hero.cue": "Aşağı kaydır<span>↓</span>",
+  "thread.eyebrow": "TÜMÜNÜ BİRBİRİNE BAĞLAYAN TEK BİR CÜMLE",
+  "thread.h2": "Sonunda Kutsal Kitap tek bir öyküdür",
+  "thread.flow": "<b>Vaat</b><span class='arw'>→</span><b>Bekleyiş</b><span class='arw'>→</span><b>Gerçekleşme</b>",
+  "thread.note": "Tanrı <b>vaat eder</b> (antlaşma), halk uzun süre <b>bekler</b> ve sonunda her şey İsa'da <b>gerçekleşir</b> ve tamamlanır. Aşağıdaki 13 sahneyi bu akışla izleyin. Daha derin öykü için her kartta <b>«Devamını oku»</b>ya dokunun.",
+  "gospel.eyebrow": "BU ÖYKÜNÜN «BENİM İÇİN» ANLAMI",
+  "gospel.h2": "Kutsal Kitap'ın asıl merkezi",
+  "gospel.lead": "Kutsal Kitap, <b>«iyi bir insan ol» diyen bir ahlak el kitabı değildir.</b>",
+  "gospel.sublead": "Bu, Tanrı'nın <b>yalnızca lütufla</b> kendilerini kurtaramayan günahkârları nasıl kurtardığının öyküsüdür. Merkezinde İsa Mesih durur.",
+  "gospel.mirror": "<h3>İsrail'in sonu gelmeyen döngüsü aslında «benim» portremdir</h3><div class='cycle'><b>Putperestlik</b><span class='a'>→</span><b>Acı çekme</b><span class='a'>→</span><b>Feryat</b><span class='a'>→</span><b>Tanrı kurtarır</b><span class='a'>→</span><b>Yine putperestlik…</b></div><p>Hâkimler döneminden sürgüne dek İsrail bu döngüyü hiç durmadan tekrarlar. Kutsal Kitap bunu «ne kadar acınası insanlardı» diye alay edelim diye kaydetmedi.</p><p>Bu bir <b>aynadır</b>. Mesele «onlar öyleydi» değil, <b>«ben de aynıyım»</b> gerçeğini görmemizdir (1. Korintliler 10:11).</p><p>Bir <b>put</b> yalnızca tahtadan bir heykel değildir. <b>Tanrı'dan çok sevdiğimiz ya da güvendiğimiz her şeydir</b> —para, başarı, onay, insanlar, hatta kendim. Tanrı'yı <b>kendi isteklerimi gerçekleştirmenin bir aracı</b> olarak kullanmak da putperestliktir.</p><p class='punch'>Sonunda en derin put, «Tanrı'nın tahtında oturan kendimdir».</p>",
+  "gospel.coreIntro": "Peki Tanrı böyle bir günahkârı nasıl kurtarır? İşte Kutsal Kitap'ın duyurduğu müjdenin merkezi budur.",
+  "gospel.crux": "<p class='crux-lead'>Tüm Kutsal Kitap tek bir yeri işaret eder.</p><p>İnsan günah döngüsünü kendi başına kıramadı ve doğru olan tek bir kişi bile yoktu. Bu yüzden birinin <b>bizim yerimize bedeli ödemesi</b> gerekiyordu.</p><p>İsa yalnızca güzel öğretiler vermeye gelmedi. <b>Beni kurtaracak başka bir yol olmadığı için</b> gelmek zorundaydı.</p><p class='crux-punch'>O çarmıhta asılması gereken kişi <b>bendim</b>.<br>İsa <b>benim günahımı</b> taşıyıp benim yerime oraya çakıldı.</p><div class='crux-verse'>«Oysa, bizim isyanlarımız yüzünden onun bedeni deşildi, bizim suçlarımız yüzünden o eziyet çekti… bizler onun yaralarıyla şifa bulduk.» — Yeşaya 53:5</div>",
+  "faq.h": "Yine de bir şey seni rahatsız mı ediyor?",
+  "faq.q1": "<span class='arr'>▸</span> Yani bir katil iman edince cennete gidiyor da, iyi bir yaşam sürmüş ama iman etmeyen biri cehenneme mi gidiyor?",
+  "faq.a1": "<p>Haklı bir soru. Ama içinde iki yanlış anlama saklı.</p><p><b>① Kutsal Kitap insanları «iyi» ve «kötü» diye ikiye ayırmaz.</b> Ölçüt «yanındakinden daha iyi» olmak değil, «Tanrı'nın kusursuz kutsallığı»dır. O'nun önünde hiç kimse «yeterince iyi» değildir (Romalılar 3:23). Yani bu «iyi insan ile katil» meselesi değil, daha çok aynı ölümcül hastalığa yakalanmış iki kişi gibidir: biri ilacı alır, öbürü «ben ondan daha sağlıklıyım» diyerek reddeder.</p><p><b>② Cennet ile cehennemi ayıran tek bir şeydir.</b> Davranış puanı değil, <b>İsa Mesih'i Rab olarak kabul edip etmediğin ve günah sorununun çözülüp çözülmediğidir</b>. Günahı Mesih'in kanıyla çözülen kişi cennete gider; O'nu hiç kabul etmeyen ve günahıyla kalan kişi gitmez. Hiçbir iyi davranış senin için günah sorununun kendisini çözemez.</p><p>Bu yüzden cennet ile cehennem «iyi davranışın ödülü» değil, bir <b>Mesih'le ilişki</b> meselesidir. Ve «iman etmek» zihinsel bir onay değil, yaşamı kimin yönettiğinin değişmesidir: O'nu gerçekten kabul eden kişi küstahlaşmaz, daha derinden tövbe eder. Asıl «ben iyiyim» diyen <b>kendini doğru sayma</b>, «Mesih'e ihtiyacım yok» dedirten, kırılması en zor puttur (Luka 18:9-14).</p><p>Kutsal Kitap bunu açıkça söyler: <b>«O'na iman eden yargılanmaz, iman etmeyen ise zaten yargılanmıştır»</b> (Yuhanna 3:18). Yargı «yaşamını sonda puanlamak» değil, <b>Mesih'i kabul edip etmediğine</b> göre çoktan belirlenmiştir.</p><p class='faq-v'>Romalılar 3:23 · Yuhanna 3:18 · Efesliler 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> İsa'ya iman etmesem de iyi bir insan olmam yeterli değil mi?",
+  "faq.a2": "<p>En çok düşünülen şey budur, ama «asıl sorunun» ne olduğunu yanlış anlar. Bir örnekle açıklayalım.</p><p><b>Bir korsan gemisinde olduğunu düşün.</b> Güverteyi ne kadar temiz tutarsan tut, mürettebata ne kadar nazik davranırsan davran, ne kadar örnek bir yaşam sürersen sür, yine de bir <b>korsansın</b>, çünkü gemi seni gittiği yere (yargı limanına) birlikte götürür. Sorun «davranışlarının puanı» değil, <b>«hangi gemiye ait olduğun» (kimliğin)</b>dir.</p><p>Bu yüzden müjde «daha iyi ol» demez, <b>«gemini değiştir»</b> der. Günah gemisinden in ve İsa'ya geç: <b>Tanrı'nın çocuğu</b> olmanın yeni kimliğine. Bu, çabayla puanını yükseltmek değil, elini uzatan O'na güvenip O'nun gemisine geçmektir.</p><p>Nitekim Kutsal Kitap kurtuluşu tam da bu «aktarılma» olarak anlatır: <b>«O bizi karanlığın hükümranlığından kurtarıp sevgili Oğlu'nun egemenliğine aktardı»</b> (Koloseliler 1:13).</p><p>Yanlış anlama: <b>bu, iyi yaşamanın değersiz olduğu anlamına gelmez.</b> Ama iyilik kurtuluşun «koşulu» değil, onun <b>meyvesidir</b>. Gemisini değiştiren kişi artık korkudan değil, bir <b>çocuğun sevgisiyle</b> iyi yaşar.</p><p class='faq-v'>Koloseliler 1:13 · Yuhanna 1:12 · Yuhanna 3:3 · Efesliler 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Saldırgan «Tanrı beni çoktan affetti» deyip huzur içinde yaşarken kurban hâlâ acı çekiyorsa, bu af fazla ucuz değil mi?",
+  "faq.a3": "<p>Soru yerinde ve o acı gerçek. Ama böyle bir iddia «Kutsal Kitap'ın affı» değil, onun <b>çarpıtılmış halidir</b>.</p><p><b>① Tanrı'nın affı asla ucuz değildir.</b> Günah «hiç olmamış gibi» halının altına süpürülmez; Tanrı bedelini kendi Oğlu'nun canıyla ödedi. Çarmıh, günahın hafife alındığının değil, ne kadar ağır olduğunun kanıtıdır: dünyadaki en pahalı affediştir.</p><p><b>② Gerçek tövbe meyve verir.</b> Saldırgan kurbanın karşısında «Tanrı beni affetti, ben huzurluyum» diye umursamazsa, bu tövbe değil, tövbenin bir taklididir (Matta 3:8). Üstelik kişiyle Tanrı arasındaki af, kurbanın yarasını silmez ya da onu affetmeye zorlamaz.</p><p><b>③ Günah asla öylece «görmezden gelinmez».</b> Her günah iki yerden birinde ödenir: <b>ya onu çarmıhta Mesih taşır</b> (O'na iman edene artık mahkûmiyet yoktur, Romalılar 8:1), <b>ya da O'nu sonuna dek reddeden kişi onu kendisi taşır.</b> Yani «ucuz af» diye bir şey yoktur. Saldırgan bu dünyanın adaleti önünde de hesap verir (Romalılar 13:1-4).</p><p><b>④ Kurbanın gözyaşları Tanrı'nın gözünde asla küçük değildir.</b> Tanrı ağlayanlarla ağlar, her gözyaşını anımsar ve sonunda onları kendi eliyle silecektir (Vahiy 21:4). Bu yüzden kurban da öç alma yükünü tek başına taşımaz, onu adil olan Tanrı'ya bırakabilir (Romalılar 12:19: «Öç benimdir, ben karşılık vereceğim, diyor Rab»).</p><p class='faq-v'>Matta 3:8 · Romalılar 8:1 · Romalılar 13:1-4 · Vahiy 21:4</p>",
+  "respond.h3": "Öyleyse — ben ne yapacağım?",
+  "respond.sub": "Bu sevgi bir bilgi değil, bir <b>davettir</b>. Senin yerine çakılan o sevgi yüreğine dokunduysa, şimdi bu duayı, satır satır, yavaşça dua et.",
+  "respond.prayer": "<p>Tanrım,</p><p>kendimi kurtaramayan bir günahkâr olduğumu kabul ediyorum.</p><p>İsa'nın benim için çarmıhta öldüğüne ve yeniden dirildiğine inanıyorum.</p><p>Bütün günahlarımı bağışla ve bugünden itibaren yaşamımın Rabbi ol.</p><p>Beni çocuğun olarak kabul et ve yeni bir yaşam sürmemi sağla.</p><p class='amen'>İsa'nın adıyla dua ediyorum. Âmin.</p>",
+  "respond.after": "Bunu içtenlikle dua ettiysen, Kutsal Kitap senin <b>Tanrı'nın çocuğu olduğunu</b> söyler. Artık yalnız değilsin: yakındaki bir kilise bul ve imanda başkalarıyla birlikte yürü.",
+  "respond.verse": "«Kendisini kabul edip adına iman edenlerin hepsine Tanrı'nın çocukları olma hakkını verdi.» — Yuhanna 1:12 · Romalılar 10:9-10",
+  "closing.main": "Tek bir Tanrı,<br>tek bir öyküyle,<br>asla vazgeçmeyen bir <em>sevgiyle</em><br>peşimizden geliyor.",
+  "closing.verse": "«Ne ölüm, ne yaşam… ne de yaratılmış başka bir şey bizi Rabbimiz Mesih İsa'da olan Tanrı sevgisinden ayırmaya yetecektir.» — Romalılar 8:38-39",
+  "closing.small": "Bu ana öykünün üzerine Yasa, şiir kitapları, peygamberler ve mektuplar «et» ekler.<br>Bundan sonra hangi kitabı açarsan aç, «öykünün neresinde olduğunu» bileceksin.",
+  "closing.share": "↗ Bu öyküyü paylaş",
+  "about.line": "Kore Protestan kilisesinin büyük çoğunluğunun paylaştığı <b>kurtuluş tarihine dayalı, evanjelik ve reform geleneğine bağlı</b> bakış açısına dayanır.",
+  "about.contact": "Sorular · görüşler — <a id='contact' class='mail'>Bize e-posta gönderin</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ESKİ ANTLAŞMA · BAŞLANGIÇ",
+   "title": "Yaratılış",
+   "date": "Başlangıçta",
+   "one": "Tanrı «çok güzel» bir dünya yarattı.",
+   "people": "Tanrı; Âdem ve Havva",
+   "events": "Altı günde yaratılış, Tanrı'nın suretinde yaratılan insan, Şabat dinlenmesi",
+   "q": "Başlangıçta Tanrı göğü ve yeri yarattı.",
+   "cite": "Yaratılış 1:1",
+   "christ": "Dünya «Söz» aracılığıyla yaratıldı. Yuhanna'nın Müjdesi bu Söz'ün İsa'nın kendisi olduğunu bildirir (Yuhanna 1:1-3).",
+   "detail": "<p>Kutsal Kitap felsefi bir kanıtla değil, bir bildiriyle başlar: <b>«Başlangıçta Tanrı…»</b> Dünya bir rastlantı değil, kişisel bir Tanrı'nın eseridir.</p><ul><li><b>Tanrı'nın sureti</b> · bütün yaratıklar arasında yalnızca insan Tanrı'ya benzer kılındı — O'nu tanısın ve dünyaya baksın diye.</li><li><b>Dinlenme</b> · yedinci gün dinlenmesi her şeyin tamamlandığını ve esenlik (şalom) içinde olduğunu gösterir: «iyi olduğunu gördü».</li><li><b>Aden</b> · kırılmadan önceki dünya, Tanrı'yla insanın birlikte yürüdüğü yer.</li></ul>",
+   "next": "Ama bu bütünlük çok geçmeden paramparça olacak…"
+  },
+  {
+   "tag": "ESKİ ANTLAŞMA · SORUN BAŞLIYOR",
+   "title": "Düşüş",
+   "date": "Başlangıçta",
+   "one": "Günah girdi ve insanla Tanrı arasındaki bağ koptu.",
+   "people": "Âdem ve Havva; yılan (Şeytan)",
+   "events": "Yasak meyvenin yenmesi, Aden'den kovulma, ölümün ve zahmetin gelişi",
+   "q": "Seninle kadını, onun soyuyla senin soyunu birbirinize düşman edeceğim… onun soyu senin başını ezecek.",
+   "cite": "Yaratılış 3:15",
+   "christ": "Düşüşün hemen ardından verilen müjdenin ilk vaadi: «kadının soyu» yılanın başını ezecek — ve bu İsa'dır (Yaratılış 3:15; Romalılar 16:20; Galatyalılar 4:4).",
+   "detail": "<p>«Tanrı gibi olma» isteğindeki itaatsizlikle günah dünyaya girer. Sonuç yalnızca bir kuralın çiğnenmesi değil, <b>ilişkilerin kırılmasıdır</b>.</p><ul><li><b>Kopan bağlar</b> · Tanrı'yla (saklanma), birbiriyle (suçlama) ve doğayla (dikenler ve zahmet).</li><li><b>Ölüm</b> · «kesinlikle öleceksin» uyarısı gerçek olur.</li><li><b>Yaratılış 3:15</b> · ama yargının tam ortasında önce bir kurtuluş vaadi gelir. Bilginler buna <b>«protoevangelium» (ilk müjde)</b> derler.</li></ul>",
+   "next": "Şimdi Tanrı tek bir adamı çağırıp kurtarışı başlatıyor…"
+  },
+  {
+   "tag": "ESKİ ANTLAŞMA · VAAT",
+   "title": "Atalar",
+   "date": "yaklaşık MÖ 2000",
+   "one": "Tanrı İbrahim'e vaat eder: «Bereket kaynağı olacaksın».",
+   "people": "İbrahim · İshak · Yakup · Yusuf",
+   "events": "İbrahim'le yapılan antlaşma, İshak'ın sunulması, Yakup'un on iki oğlu, Yusuf'un Mısır'da yönetici oluşu",
+   "q": "Seni büyük bir ulus yapacağım… yeryüzündeki bütün halklar senin aracılığınla kutsanacak.",
+   "cite": "Yaratılış 12:2-3",
+   "christ": "«Bütün halkların kutsanacağı» vaadi, İbrahim'in soyundan gelen İsa'da gerçekleşir (Galatyalılar 3:16).",
+   "detail": "<p>Tanrı tüm insanlığın sorununu, tek bir adamı, <b>İbrahim</b>'i çağırarak çözmeye başlar. Merkezde <b>antlaşma (vaat)</b> vardır: büyük bir ulus, bir ülke ve «bütün halklara bereket».</p><ul><li><b>İman</b> · İbrahim görünmeyen vaade inandı ve bu ona doğruluk sayıldı (Yaratılış 15:6).</li><li><b>İshak ve Yakup</b> · vaat sonraki kuşağa geçer; Yakup (İsrail) on iki oymağın atasıdır.</li><li><b>Yusuf</b> · kardeşlerince satıldı, ama Mısır'da yönetici oldu: «Tanrı o kötülüğü iyiliğe çevirdi» (Yaratılış 50:20).</li></ul>",
+   "next": "Aile, Yusuf'un ardından Mısır'a iner… ve köle olur."
+  },
+  {
+   "tag": "ESKİ ANTLAŞMA · KURTARIŞ",
+   "title": "Mısır'dan Çıkış ve çöl",
+   "date": "yaklaşık MÖ 1446",
+   "one": "Tanrı köle halkı kurtarır ve onu kendi halkı yapar.",
+   "people": "Musa, Harun, firavun",
+   "events": "On bela, Fısıh, Kızıldeniz'den geçiş, Sina'da On Buyruk, çadır tapınak, çölde 40 yıl",
+   "q": "Sizi kendi halkım yapacak ve Tanrınız olacağım.",
+   "cite": "Mısır'dan Çıkış 6:7",
+   "christ": "Kuzunun kanının ölümü uzaklaştırdığı Fısıh, bizim için çarmıha gerilen İsa'yı, «Fısıh kuzumuzu» işaret eder (1. Korintliler 5:7).",
+   "detail": "<p>Eski Antlaşma'nın en büyük kurtarış eylemi. Köle olan İsrail, Tanrı'nın gücüyle özgür kılınır ve O'nun <b>halkı</b> olarak biçimlenir.</p><ul><li><b>Fısıh</b> · kapısı kuzunun kanıyla işaretlenen ev ölümden esirgenir; sonraki bütün kurbanların örneği.</li><li><b>Kızıldeniz</b> · yolun bittiği yerde gelen kurtuluş; «karşıya geçiş» yeni bir başlangıcın simgesi olur.</li><li><b>Sina antlaşması</b> · On Buyruk aracılığıyla Tanrı'nın halkı olarak nasıl yaşayacaklarını öğrenirler.</li><li><b>Çadır tapınak</b> · Tanrı'nın halkının ortasında konakladığı taşınabilir tapınak: «İmmanuel»in bir ön tadı.</li><li><b>40 yıl</b> · itaatsizlik bir kuşağı çölde dolaştırır, ama Tanrı man ve bulut ile ateş sütunuyla yanlarındadır.</li></ul>",
+   "next": "Vaat edilen toprağın eşiğinde, içeri girmeye hazırlanırlar…"
+  },
+  {
+   "tag": "ESKİ ANTLAŞMA · YERLEŞME",
+   "title": "Fetih ve Hâkimler",
+   "date": "yaklaşık MÖ 1400–1050",
+   "one": "Ülkeyi aldılar, ama kral olmadığından herkes kendince doğru olanı yaptı.",
+   "people": "Yeşu; Gidyon ve Şimşon gibi hâkimler; Rut",
+   "events": "Eriha'nın düşüşü, Kenan'a yerleşme, günah–yargı–kurtarış döngüsünün tekrarı",
+   "q": "O dönemde İsrail'de kral yoktu. Herkes kendince doğru olanı yapıyordu.",
+   "cite": "Hâkimler 21:25",
+   "christ": "Rut'un soyundan Davut, Davut'un soyundan İsa gelir (Matta 1). Kargaşanın ortasında bile Mesih'in soy ağacı sürer.",
+   "detail": "<p>Yeşu önderliğinde vaat edilen ülkeye girerler, ama yerleşince çok geçmeden Tanrı'yı unuturlar. Hâkimler aynı örüntünün tekrarıdır.</p><ul><li><b>İniş döngüsü</b> · günah → baskı → feryat → bir hâkimin kurtarışı → yine günah; her seferinde daha da kötüye.</li><li><b>Hâkimler</b> · Gidyon, Şimşon, Debora… geçici kurtarıcılar, kahraman ama kusurlarla dolu.</li><li><b>Rut</b> · karanlık bir çağda sadakatin parlak öyküsü; yabancı bir kadın Davut'un (ve İsa'nın) soyuna girer.</li></ul>",
+   "next": "Halk feryat eder: «Bize de bir kral ver!»…"
+  },
+  {
+   "tag": "ESKİ ANTLAŞMA · ALTIN ÇAĞ",
+   "title": "Birleşik Krallık",
+   "date": "yaklaşık MÖ 1050–930",
+   "one": "Tanrı Davut'a vaat eder: «Tahtın sonsuza dek sürecek».",
+   "people": "Saul · Davut · Süleyman",
+   "events": "İlk kral Saul, Davut ve Golyat, Davut'la yapılan antlaşma, Süleyman'ın tapınağı",
+   "q": "Soyun ve krallığın sonsuza dek önümde duracak; tahtın sonsuza dek sürecektir.",
+   "cite": "2. Samuel 7:16",
+   "christ": "«Sonsuz taht», Davut'un soyundan gelen İsa'da gerçekleşir; bu yüzden O'na «Davut Oğlu» denir (Luka 1:32-33; Matta 1:1).",
+   "detail": "<p>İsrail'in zirvesi, üç kralın yönetiminde.</p><ul><li><b>Saul</b> · halkın istediği ilk kral; iyi bir başlangıç, ama itaatsizliği yüzünden reddedildi.</li><li><b>Davut</b> · «Tanrı'nın yüreğine göre bir adam». Golyat'ı yener ve Yeruşalim'i başkent yapar. Büyük bir günah işler (Bat-Şeva), ama yürekten tövbe eder (Mezmur 51).</li><li><b>Davut'la yapılan antlaşma (2. Samuel 7)</b> · Tanrı onun hanedanını sonsuza dek sürdürmeyi vaat eder: Mesih umudunun belirleyici köküdür.</li><li><b>Süleyman</b> · bilgelik ve zenginliğin zirvesinde Yeruşalim'de <b>tapınağı</b> kurar, ama sonunda putperestliğe düşer.</li></ul>",
+   "next": "Süleyman'dan sonra krallık ikiye bölünür…"
+  },
+  {
+   "tag": "ESKİ ANTLAŞMA · ÇÖKÜŞ",
+   "title": "Bölünmüş Krallık",
+   "date": "MÖ 930–586",
+   "one": "Güney (Yahuda) ve kuzey (İsrail) diye bölünür ve giderek bozulur.",
+   "people": "Her iki krallığın kralları; İlyas, Yeşaya, Yeremya gibi peygamberler",
+   "events": "Krallığın bölünmesi, putperestlik, peygamberlerin uyarıları",
+   "q": "İsrail halkı, Davut soyundan gelenlere hep başkaldırdı.",
+   "cite": "1. Krallar 12:19",
+   "christ": "Bu dönemde peygamberler gelecek Mesih'i giderek daha açık biçimde bildirir (Yeşaya 9:6; Yeşaya 53).",
+   "detail": "<p>Süleyman'ın oğlu döneminde krallık bölünür: <b>İsrail (kuzey)</b>, on oymak, başkenti Samiriye; ve <b>Yahuda (güney)</b>, iki oymak, başkenti Yeruşalim.</p><ul><li><b>Kuzey</b> · bütün kralları putlara hizmet eder; MÖ 722'de Asur'a düşer.</li><li><b>Güney</b> · Davut'un soyu sürer ve Hizkiya ile Yoşiya gibi iyi krallar olur, ama genel olarak gerilemeye geçer.</li><li><b>Peygamberler</b> · İlyas, Amos, Yeşaya, Yeremya «dönün!» diye haykırır. Mesih peygamberliği burada en zengin noktasına ulaşır (Yeşaya 53'teki «acı çeken kul»).</li></ul>",
+   "next": "Sonunda uyarılan yargı gelir: tutsak edilip götürülürler…"
+  },
+  {
+   "tag": "ESKİ ANTLAŞMA · YARGI",
+   "title": "Sürgün",
+   "date": "MÖ 722 / 586",
+   "one": "Krallık çöker ve halk yabancı ülkelere sürülür.",
+   "people": "Daniel, Hezekiel, Nebukadnessar",
+   "events": "İsrail Asur'a düşer (722); Yahuda Babil'e düşer ve tapınak yıkılır (586)",
+   "q": "Babil ırmakları kıyısında oturup Siyon'u andıkça ağladık.",
+   "cite": "Mezmur 137:1",
+   "christ": "Umutsuzluğun en derininde Yeremya bir «yeni antlaşma» vaat eder (Yeremya 31:31): İsa'nın son akşam yemeğinde onayladığı antlaşmanın ta kendisi.",
+   "detail": "<p>Uyarılar gerçek olur. Tapınak yanar ve halk Babil'e götürülür: ülkeyi, kralı ve tapınağı yitirirler, en derin bunalım.</p><ul><li><b>İki çöküş</b> · İsrail (Asur, MÖ 722) ve Yahuda (Babil, MÖ 586).</li><li><b>Daniel</b> · putperest sarayda bile iman örneği (aslan çukuru); gelecek bir «sonsuz krallığın» görümünü görür.</li><li><b>Bir umut kıvılcımı</b> · canlanan kuru kemikler görümü (Hezekiel 37) ve Yeremya'nın «yeni antlaşma»sı karanlıkta geleceği işaret eder.</li></ul>",
+   "next": "Yetmiş yıl sonra Tanrı yol açar: evlerine dönerler…"
+  },
+  {
+   "tag": "ESKİ ANTLAŞMA · YENİDEN YAPILANMA",
+   "title": "Sürgünden Dönüş",
+   "date": "MÖ 538–430",
+   "one": "Geri dönüp tapınağı ve surları yeniden inşa ederler.",
+   "people": "Ezra, Nehemya, Ester, Zerubbabil",
+   "events": "Koreş'in fermanıyla dönüş, tapınağın yeniden inşası, Yeruşalim surlarının onarımı, Söz'ün yeniden canlanması",
+   "q": "RAB'bin verdiği sevinç sizi güçlü kılar.",
+   "cite": "Nehemya 8:10",
+   "christ": "Eski Antlaşma'nın son kitabı Malaki, Mesih'in yolunu hazırlayacak bir habercinin geleceğini bildirerek kapanır: «İşte habercimi gönderiyorum» (Malaki 3:1).",
+   "detail": "<p>Pers Kralı Koreş'in fermanıyla (MÖ 538) dönüş başlar. Üç dalga halinde geri dönüp yıkılanı yeniden kurarlar.</p><ul><li><b>Zerubbabil</b> · tapınağı yeniden inşa eder (MÖ 516'da tamamlandı).</li><li><b>Ezra</b> · Söz'ü (yasayı) yeniden öğretir ve imanı canlandırır.</li><li><b>Nehemya</b> · Yeruşalim surlarını 52 günde yeniden inşa eder.</li><li><b>Ester</b> · Pers'teki Yahudileri yok edilmekten kurtarır: «kim bilir, belki de böyle bir gün için…».</li><li><b>Süren özlem</b> · tapınak ayakta, ama Davut gibi bir kral yok. Halk Mesih'i bekler.</li></ul>",
+   "next": "Ve sonra… gökyüzü susmuş gibi, 400 yıl geçer."
+  },
+  {
+   "tag": "ANTLAŞMALAR ARASI · SAHNENİN HAZIRLANIŞI",
+   "title": "Sessizlik Yılları",
+   "date": "yaklaşık MÖ 430–4",
+   "one": "Peygamber sesinin olmadığı 400 yıl; ama sahne sessizce hazırlandı.",
+   "people": "Büyük İskender, Makabiler, Roma",
+   "events": "Pers → Yunan → Makabi bağımsızlığı → Roma egemenliği",
+   "q": "Ama zaman dolunca Tanrı… kadından doğan… öz Oğlu'nu gönderdi.",
+   "cite": "Galatyalılar 4:4",
+   "christ": "Bütün bu «sahne hazırlığı», İsa'nın tam «zaman dolunca» gelmesi için Tanrı'nın işiydi.",
+   "detail": "<p>Malaki'den Yeni Antlaşma'ya dek yaklaşık 400 yıl yeni Kutsal Yazı (peygamber) olmadan geçer. Ama tarihin ardında Tanrı müjdenin yayılması için yolu hazırlıyordu.</p><ul><li><b>El değiştiren imparatorluklar</b> · Pers → Yunan (İskender, MÖ 333) → Mısır ve Suriye → Makabi ayaklanması (MÖ 167) → Roma (MÖ 63).</li><li><b>Yunanca</b> · İskender'in fetihleri Yunancayı ortak dil yaptı; Eski Antlaşma Yunancaya çevrildi (Septuaginta), böylece müjdenin hızla yayılmasının yolu açıldı.</li><li><b>Roma yolları ve barışı</b> · iyi yapılmış yollar ve «Pax Romana» misyonun yolları olur.</li><li><b>Havra ve mezhepler</b> · havra öğretisi kök salar; Ferisiler ve Sadukiler ortaya çıkar; ve <b>Mesih özlemi</b> olgunlaşır.</li></ul>",
+   "next": "Sonra sessizlik bozulur — sonunda O gelir."
+  },
+  {
+   "tag": "YENİ ANTLAŞMA · GERÇEKLEŞME",
+   "title": "İsa'nın Gelişi",
+   "date": "yaklaşık MÖ 4 – MS 30",
+   "one": "Vaat edilen Mesih geldi, öldü ve yeniden dirildi.",
+   "people": "İsa, on iki öğrenci, Vaftizci Yahya",
+   "events": "Beden alma, öğretiş ve mucizelerle hizmeti, çarmıhta ölüm, üçüncü gün diriliş",
+   "q": "Söz, insan olup aramızda yaşadı… lütuf ve gerçekle dolu.",
+   "cite": "Yuhanna 1:14",
+   "christ": "Kadının soyu (2. sahne), İbrahim'in bereketi (3), Fısıh kuzusu (4), Davut'un sonsuz kralı (6) ve yeni antlaşma (8) — hepsi tek bir kişide, İsa'da gerçekleşir: gerçek peygamberimiz, kâhinimiz ve kralımız.",
+   "detail": "<p>Sessizlik bozulur; vaat edilen gelir. Dört Müjde, İsa'nın yaşamına, ölümüne ve dirilişine dört açıdan tanıklık eder.</p><ul><li><b>Beden alma</b> · Tanrı insan oldu (İmmanuel, «Tanrı bizimle»), Beytlehem'in alçakgönüllü yerinde.</li><li><b>Hizmet</b> · Tanrı'nın egemenliğini öğretir, hastaları iyileştirir ve günahkârları çağırır. «Beni görmüş olan, Baba'yı görmüştür.»</li><li><b>Çarmıh</b> · düşüşün getirdiği günahın ve ölümün (2. sahne) bedelini bizim yerimize öder. Gerçek Fısıh kuzusu.</li><li><b>Diriliş</b> · üçüncü gün dirilip günahın, ölümün ve Şeytan'ın gücünü kırar; daha çarmıhta «yönetimlerin ve hükümranlıkların elindeki silahı alıp… onları yenerek» galip geldi (Koloseliler 2:15).</li></ul><p>Bu yüzden İsa bizim <b>gerçek peygamberimizdir</b> (Tanrı'ya giden yolu gösterir), <b>gerçek kâhinimizdir</b> (kendi bedeniyle günahın kefaretini öder) ve <b>gerçek kralımızdır</b> (günahı, ölümü ve Şeytan'ı yener ve sonsuza dek hüküm sürer).</p>",
+   "next": "Dirilen İsa öğrencilerini dünyaya gönderir…"
+  },
+  {
+   "tag": "YENİ ANTLAŞMA · YAYILMA",
+   "title": "Kilisenin Başlangıcı",
+   "date": "yaklaşık MS 30 –",
+   "one": "Ruh gelir ve müjde dünyanın dört bucağına yayılır.",
+   "people": "Petrus, Pavlus, ilk kilise",
+   "events": "Pentikost'ta Ruh'un dökülmesi, kilisenin doğuşu, zulüm aracılığıyla müjdenin Yeruşalim'den Roma'ya yayılması",
+   "q": "Kutsal Ruh üzerinize inince güç alacaksınız… dünyanın dört bucağında benim tanıklarım olacaksınız.",
+   "cite": "Elçilerin İşleri 1:8",
+   "christ": "Bu öykü bugün de sürüyor. Kutsal Kitap, İsa'nın yeniden geleceği ve her şeyi yenileyeceği vaadiyle kapanır (Vahiy 21).",
+   "detail": "<p>İsa göğe alındıktan sonra vaat edilen Ruh Pentikost'ta gelir ve kilise doğar. Müjde patlama gibi yayılır.</p><ul><li><b>Pentikost</b> · Ruh, korkak öğrencileri yürekli tanıklara dönüştürür.</li><li><b>Petrus</b> · Yeruşalim'de Yahudilere müjdeyi duyurur.</li><li><b>Pavlus</b> · zulmedenken elçi olur; uluslar dünyasında kiliseler kurar ve mektupları yazar.</li><li><b>Dünyanın dört bucağına</b> · Yeruşalim → Yahudiye → Samiriye → Roma. İbrahim'e verilen «bütün halklar» vaadi gerçek olur.</li><li><b>Ve biz</b> · öykü bitmez; İsa'nın yeniden gelişine ve yeni göğe, yeni yere doğru ilerler.</li></ul>",
+   "next": "Ama öykü burada bitmez…"
+  },
+  {
+   "tag": "YENİ ANTLAŞMA · TAMAMLANMA",
+   "title": "Yenilenme (her şey yeni)",
+   "date": "henüz gelmedi",
+   "one": "İsa yeniden gelir ve her şeyi yeniler.",
+   "people": "Yeniden gelen İsa; bütün uluslar",
+   "events": "İkinci geliş, son yargı, günahın·ölümün·gözyaşının sonu, yeni gök ve yeni yer",
+   "q": "Onların gözlerinden bütün yaşları silecek. Artık ölüm olmayacak. Artık ne yas, ne ağlayış, ne de ıstırap olacak.",
+   "cite": "Vahiy 21:4",
+   "christ": "İlk yaratılışın Aden'i sonunda «yeni Yeruşalim» olarak yenilenir. Tanrı halkıyla sonsuza dek birlikte yaşar: İmmanuel'in doluluğu (Vahiy 21:3; Matta 1:23).",
+   "detail": "<p>Kutsal Kitap kilise çağında bitmez. Son kitabı Vahiy, <b>yeniden gelen</b> ve her şeyi tamamlayan İsa'yı gösterir.</p><ul><li><b>İkinci geliş</b> · vaat edilen kral görkemle döner.</li><li><b>Son zafer</b> · Şeytan ve ölüm sonsuza dek yok edilir ve Mesih kralların Kralı olarak hüküm sürer (1. Korintliler 15:25-26; Vahiy 20:10).</li><li><b>Yargı ve diriliş</b> · her haksızlık düzeltilir ve ölüler diriltilir.</li><li><b>Yeni gök ve yeni yer</b> · günah, ölüm, gözyaşı ve acı sonsuza dek yok olur (Vahiy 21:4).</li><li><b>Yenilenen Aden</b> · başlangıçtan daha güzel bir «yeni Yeruşalim»de Tanrı halkıyla sonsuza dek birlikte yaşar: tüm Kutsal Kitap'ın işaret ettiği hedef.</li></ul><p>Bu yüzden şimdi <b>«çoktan ama henüz değil»</b> çağıdır: İsa'da kurtuluş <b>çoktan</b> tamamlandı, ama doluluğu <b>henüz</b> beklenmektedir.</p>",
+   "next": "Öyleyse tüm bu öykünün «benim için» anlamı nedir?"
+  }
+ ],
+ "love": [
+  "Öykü yargıyla değil, taşan bir sevgiyle yaratılan bir dünyayla başlar.",
+  "İnsan günah işler işlemez Tanrı tam orada kurtuluşu vaat etti.",
+  "Tanrı hak etmeyen birini önce O aradı, adıyla çağırdı ve onu bereket kaynağı yaptı.",
+  "Köle halkın iniltisini işitti ve onu kurtarmak için kendisi indi.",
+  "Defalarca ihanete uğrasa da, her feryat ettiklerinde bir kurtarıcı gönderip onları yeniden ayağa kaldırdı.",
+  "Düşmüş Davut'u bile reddetmedi; onun aracılığıyla sonsuz bir kral vaat etti.",
+  "Sırtını dönen halka peygamberler göndermeyi sürdürdü, «lütfen geri dön» diye yalvararak.",
+  "Sürgünün en karanlık ülkesine bile onlarla birlikte indi ve yenilenmeyi vaat etti.",
+  "Defalarca başarısız olan halka bile vaadini geri almadı, onları yeniden ayağa kaldırdı.",
+  "400 yıllık sessizlikte bile, görünmeden, kurtuluşun yolunu hazırlıyordu.",
+  "Biz daha günahkârken Oğlu'nu gönderdi ve canını verdi.",
+  "Aldığımız o sevgiyi şimdi tüm dünyaya akıtmak için gönderiyor.",
+  "Sonunda her gözyaşını silecek ve her şeyi sevgiyle yenileyecek."
+ ],
+ "mis": [
+  {
+   "w": "«Tanrı neden günah işleyebilen bir varlık yaptı? Hiç yaratmaması daha iyi olmaz mıydı?»",
+   "t": "Tanrı dünyayı ve insanı bir eksiklikten değil, taşan sevgisinden yarattı. İnsanı <b>Tanrı'yla ilişki kurabilen bir kişi</b> olarak yapması başlı başına sevgidir. Üstelik günahın girişi bile Tanrı'nın kurtuluş planının dışında kalmadı (Efesliler 1:4-5). Kutsal Kitap'ın ilk sahnesi yargı değil, sevgidir."
+  },
+  {
+   "w": "«Tek bir meyve yedi diye kovulmak, hatta ölümle cezalandırılmak — Tanrı fazla sert değil mi?»",
+   "t": "Aden'den çıkarılmak hem yargı hem de merhametti. İnsan, Tanrı'dan kopuk ve kırılmış o durumda yaşam ağacından yiyip sonsuza dek yaşasaydı, sonsuza dek acının içine hapsolurdu (Yaratılış 3:22). Ölüme izin vermek geri dönüş yolunu açtı; ve tam orada Tanrı bir Kurtarıcı vaat etti (Yaratılış 3:15). Yargının içinde çoktan sevgi vardı."
+  },
+  {
+   "w": "«İbrahim büyük imanı yüzünden seçildi; Kutsal Kitap'taki kişiler ahlak kahramanı değil mi?»",
+   "t": "İbrahim de yalan söyledi ve kuşku duydu, Yakup ise bir aldatıcıydı. Tanrı «layık olanları» değil, lütufla kusurluları çağırdı. Seçimin nedeni onların üstünlüğü değil, Tanrı'nın sadık sevgisiydi (Yasa'nın Tekrarı 7:7-8)."
+  },
+  {
+   "w": "«Yasa (buyruklar), kurtulmak için geçilmesi gereken bir sınav ya da koşul değil mi?»",
+   "t": "Tanrı onları Yasa'yı vermeden <b>önce</b> kurtardı. On Buyruk bile bir kurtuluş bildirisiyle başlar: «Seni Mısır'dan çıkaran Tanrın RAB benim» (Mısır'dan Çıkış 20:2). Yasa «kurtulmak için tut» değil, lütufla zaten kurtulmuş bir halkın nasıl yaşayacağına dair sevgi dolu bir rehberdir (Yasa'nın Tekrarı 7:7-9). Her zaman önce lütuf; itaat ise yanıttır."
+  },
+  {
+   "w": "«Kenan'ın fethi merhametsiz bir katliamdı; demek ki Eski Antlaşma'nın Tanrısı gerçekten zalim.»",
+   "t": "Tek bir cümlede çözülemeyen ve dikkat isteyen bir konu. Ama Kutsal Kitap bunu rastgele bir şiddet olarak değil, aşırı kötülüğe (çocuk kurban etme dahil) karşı yüzyıllarca sürdürülen sabırdan sonra gelen bir yargı olarak sunar (Yaratılış 15:16; Yasa'nın Tekrarı 9:4-5; Levililer 18:24-25). Tanrı yargıda bile acele etmez ve kendisine dönen birini, yabancı bile olsa, Rahav ile Rut gibi sevinçle kabul eder (Yeşu 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "«Davut kusursuz bir kahramandı; bu yüzden ona “Tanrı'nın yüreğine göre adam” dendi.»",
+   "t": "Davut zina işledi, hatta cinayete bile karıştı. «Tanrı'nın yüreğine göre adam» kusursuz demek değil, günahını gizlemeyen, derinden tövbe eden ve her seferinde Tanrı'ya dönen biri demektir (Mezmur 51). Tanrı'nın sevgisi ağır biçimde düşeni bile reddetmez."
+  },
+  {
+   "w": "«Peygamber geleceği bilen bir kâhindir; Eski Antlaşma'nın Tanrısı yalnızca öfkelenir.»",
+   "t": "Peygamberin özü «geleceği bilmek» değil, Tanrı'nın yürekten yakarışıdır: «lütfen geri dön». Yargı uyarısı bile yok etmeyi değil, döndürüp yaşatmayı amaçlar: «ben kötü kişinin ölümünden sevinç duymam» (Hezekiel 33:11)."
+  },
+  {
+   "w": "«Sürgün, Tanrı'nın İsrail'i tümüyle terk ettiğini kanıtlar.»",
+   "t": "Sürgün bir terk ediş değil, sevgili bir çocuğa yönelik bir Baba'nın terbiyesi ve arındırmasıydı (İbraniler 12:6). Tanrı gitmedi; sürgünün tam ortasında Daniel'le birlikteydi ve şöyle vaat etti: «size umutlu bir gelecek sağlayan esenlik tasarıları biliyorum» (Yeremya 29:11)."
+  },
+  null,
+  {
+   "w": "«400 yıl boyunca söz olmadıysa, Tanrı gitmiş ya da dinleniyor olmasın?»",
+   "t": "Sessizlik yokluk değildir. Yalnızca konuşmadı; tüm o süre boyunca kurtuluşun sahnesini hazırlamak için imparatorlukları, dilleri ve yolları hareket ettiriyordu. En sessiz anda Tanrı her zamankinden daha çok sevgiyle çalışıyordu (Galatyalılar 4:4)."
+  },
+  {
+   "w": "«İsa yalnızca iyi ahlak öğretmenlerinden biridir; çarmıh trajik bir yenilgiydi.»",
+   "t": "İsa Tanrı olduğunu bildirdi (Yuhanna 8:58) ve çarmıh bir kaza ya da yenilgi değil, tasarlanmış bir sevgiydi. Zorla götürülmedi, canını kendi isteğiyle verdi (Yuhanna 10:18). «İnsanın, dostları uğruna canını vermesinden daha büyük bir sevgi yoktur» (Yuhanna 15:13)."
+  },
+  {
+   "w": "«Kilise kusursuz insanların dinî bir kulübüdür ya da yalnızca bir binadır.»",
+   "t": "Kilise «kusursuz azizlerin» değil, <b>bağışlanmış günahkârların</b> topluluğudur. Elçi Pavlus bile kendine «günahkârların en kötüsü» dedi (1. Timoteos 1:15). İlk kilise de tartıştı ve hata yaptı (Elçilerin İşleri 6:1; 1. Korintliler 1:11). Kilise övünmek için değil, aldığı sevgiyi başkalarına aktaranların yeridir (Yuhanna 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "İlk günah: doğru kimse yok",
+   "body": "Sorun «birkaç kötü davranış» değil, yüreğin kökü. Âdem'den beri herkes günah altında doğar ve kendi başına Tanrı'ya ulaşamaz.",
+   "vref": "Romalılar 3:10-12, 23",
+   "vtext": "Doğru kimse yok, tek kişi bile yok… çünkü herkes günah işledi ve Tanrı'nın yüceliğinden yoksun kaldı."
+  },
+  {
+   "title": "Yasa beni kurtaramaz",
+   "body": "Yasa bir merdiven değil, bir aynadır. Tutmaya ne kadar çabalarsan, ne kadar başarısız olduğunu o kadar gösterir. Amacı bizi Mesih'e götürmektir.",
+   "vref": "Romalılar 3:20 · Galatyalılar 3:24",
+   "vtext": "Çünkü Yasa sayesinde günahın bilincine varılır… Mesih gelinceye dek Yasa eğitmenimiz oldu."
+  },
+  {
+   "title": "Lütufla: bir armağan, çaba değil",
+   "body": "Kurtuluş, biriktirilen hak edişin ücreti değil, hak etmeyene Tanrı'nın verdiği bir armağandır. Bu yüzden kimse övünemez.",
+   "vref": "Efesliler 2:8-9",
+   "vtext": "İman yoluyla, lütufla kurtuldunuz… kimse övünmesin diye iyi işlerin sonucu değil."
+  },
+  {
+   "title": "İmanla aklanma",
+   "body": "Yasa'yı tutarak değil, İsa Mesih'e iman ederek doğru sayılırız: kendi doğruluğumuzu değil, O'nunkini giyeriz.",
+   "vref": "Romalılar 5:1 · Galatyalılar 2:16",
+   "vtext": "İmanla aklandığımıza göre… insanın Yasa'nın gereklerini yaparak değil, İsa Mesih'e iman ederek aklandığını biliyoruz."
+  },
+  {
+   "title": "Kutsal Kitap İsa'yı işaret eder",
+   "body": "Kutsal Kitap büyük adamların biyografisi ya da bir kişisel gelişim kitabı değildir. Yaratılış'tan Vahiy'e her sayfa tek bir kişiye tanıklık eder: İsa Mesih'e.",
+   "vref": "Yuhanna 5:39 · Luka 24:27",
+   "vtext": "Bana tanıklık eden de bu yazılardır!… Kutsal Yazılar'ın hepsinde kendisiyle ilgili olanları onlara açıkladı."
+  },
+  {
+   "title": "Tanrı'nın egemenliği: İsa'nın bildirisinin merkezi",
+   "body": "İsa'nın en çok öğrettiği konu. Tanrı'nın kral olarak hüküm sürdüğü egemenlik, İsa'yla bu dünyaya girdi ve ikinci gelişinde tamamlanacak. Çarmıh ve dirilişiyle İsa, günahı, ölümü ve Şeytan'ı yenen gerçek Kral'dır.",
+   "vref": "Markos 1:15",
+   "vtext": "Zaman doldu, Tanrı'nın Egemenliği yaklaştı. Tövbe edin, Müjde'ye inanın!"
+  },
+  {
+   "title": "Müjde: O her şeyi tamamladı",
+   "body": "Ödeyemeyeceğim günah borcunu İsa benim yerime çarmıhta ödedi ve dirilerek ölümü yendi. «Şunu yap»a değil, «tamamlandı»ya dayanıyorum.",
+   "vref": "Yuhanna 19:30 · Romalılar 5:8",
+   "vtext": "Tamamlandı!… Tanrı bizi sevdiğini şununla kanıtlıyor: Biz daha günahkârken, Mesih bizim için öldü."
+  }
+ ]
+}

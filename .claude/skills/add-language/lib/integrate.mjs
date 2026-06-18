@@ -43,7 +43,8 @@ const unresolved = [];
 for (const nm of used) { const u = resolve(nm); if (!u) { unresolved.push(nm); continue; } dict[nm] = u; }
 if (unresolved.length) console.error('⚠ 미해결 토큰(대부분 앞 절 숫자로 인한 오탐 — 무시 가능): ' + JSON.stringify(unresolved));
 
-const booksLine = `BOOKS.${code}={` + Object.entries(dict).map(([k, v]) => `'${k}':'${v}'`).join(',') + '};';
+const esc = (s) => String(s).replace(/\\/g, '\\\\').replace(/'/g, "\\'");
+const booksLine = `BOOKS.${code}={` + Object.entries(dict).map(([k, v]) => `'${esc(k)}':'${esc(v)}'`).join(',') + '};';
 const langEntry = `{code:'${code}',native:'${native}',en:'${en}'}`;
 const bopt = `${/^[a-z-]+$/i.test(code) ? code : `'${code}'`}:{sep:'${bookopt.sep}',suf:'${bookopt.suf}',bare:${bookopt.bare}}`;
 const yvKey = /^[a-z]+$/i.test(code) ? code : `'${code}'`;

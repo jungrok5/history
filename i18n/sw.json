@@ -1,0 +1,343 @@
+{
+ "menuName": "Kiswahili",
+ "htmlLang": "sw",
+ "dir": "ltr",
+ "brand": "Biblia kwa Mkunjo Mmoja",
+ "docTitle": "Biblia kwa Mkunjo Mmoja · Kutoka uumbaji hadi kanisa",
+ "share": {
+  "title": "Biblia kwa Mkunjo Mmoja",
+  "text": "Katika mkunjo mmoja, gundua hadithi kuu ya Biblia — na kwa nini Yesu alikuja."
+ },
+ "ui": {
+  "people": "Watu",
+  "events": "Matukio muhimu",
+  "christLabel": "Inaelekeza kwa Yesu",
+  "loveLabel": "Upendo usiokoma",
+  "mythWrong": "Dhana potofu ya kawaida",
+  "mythRight": "Ukweli",
+  "more": "Soma zaidi",
+  "version": "(SRUV)"
+ },
+ "labels": {
+  "start": "Anza",
+  "thread": "Mtiririko wa hadithi",
+  "gospel": "Injili",
+  "about": "Kuhusu"
+ },
+ "s": {
+  "ui.share": "↗ Shiriki",
+  "ui.toast": "Kiungo kimenakiliwa 📋",
+  "ui.footer": "Biblia kwa Mkunjo Mmoja · Manukuu ya Maandiko kutoka SRUV",
+  "hero.kicker": "KUTOKA UUMBAJI HADI KANISA",
+  "hero.title": "Biblia,<br><span class=\"em\">kwa mkunjo mmoja</span>",
+  "hero.sub": "Katika mkunjo mmoja, gundua hadithi kuu ya Biblia — na kwa nini Yesu alikuja.",
+  "hero.cue": "Sogeza chini<span>↓</span>",
+  "thread.eyebrow": "SENTENSI MOJA INAYOUNGANISHA YOTE",
+  "thread.h2": "Mwishoni, Biblia ni hadithi moja tu",
+  "thread.flow": "<b>Ahadi</b><span class=\"arw\">→</span><b>Kungoja</b><span class=\"arw\">→</span><b>Utimilifu</b>",
+  "thread.note": "Mungu <b>anaahidi</b> (agano), watu <b>wanangoja</b> muda mrefu, na hatimaye yote <b>yanatimizwa</b> na kukamilishwa katika Yesu. Fuata matukio 13 yafuatayo kwa mtiririko huo — gusa <b>“Soma zaidi”</b> kwenye kila kadi ili kupata hadithi ya kina.",
+  "gospel.eyebrow": "MAANA YA HADITHI HII KWA “MIMI”",
+  "gospel.h2": "Kiini halisi cha Biblia",
+  "gospel.lead": "Biblia <b>si kitabu cha mafundisho juu ya “kuwa mtu mwema.”</b>",
+  "gospel.sublead": "Ni hadithi ya jinsi Mungu, <b>kwa neema peke yake</b>, alivyowaokoa wenye dhambi ambao hawakuweza kujiokoa wenyewe. Katikati yake amesimama Yesu Kristo.",
+  "gospel.mirror": "<h3>Mzunguko usiokoma wa Israeli kwa kweli ni picha ya “mimi”</h3><div class=\"cycle\"><b>Ibada ya sanamu</b><span class=\"a\">→</span><b>Mateso</b><span class=\"a\">→</span><b>Kulia</b><span class=\"a\">→</span><b>Mungu anaokoa</b><span class=\"a\">→</span><b>Ibada ya sanamu tena…</b></div><p>Kuanzia Waamuzi hadi uhamishoni, Israeli unarudia mzunguko huu bila mwisho. Biblia haikuyaandika ili tudharau, “Walikuwa wanyonge kiasi gani.”</p><p>Ni <b>kioo</b>. Lengo si “Israeli walifanya hivyo” bali <b>“mimi nafanya vivyo hivyo”</b> (1 Wakorintho 10:11).</p><p><b>Sanamu</b> si tu kinyago kilichochongwa. Ni <b>chochote tunachokipenda au kukitegemea zaidi ya Mungu</b> — fedha, mafanikio, sifa, watu, hata mimi mwenyewe. Na kumtumia Mungu kama <b>chombo cha kupata ninachotaka</b> pia ni ibada ya sanamu.</p><p class=\"punch\">Mwishoni, sanamu ya ndani kabisa ni “mimi mwenyewe, niliyeketi kwenye kiti cha enzi cha Mungu.”</p>",
+  "gospel.coreIntro": "Basi Mungu anamwokoaje mwenye dhambi kama huyu? Hiki ndicho kiini cha Injili ambayo Biblia inahubiri.",
+  "gospel.crux": "<p class=\"crux-lead\">Biblia nzima inaelekeza mahali pamoja.</p><p>Wanadamu hawakuweza kuuvunja mzunguko wa dhambi peke yao, na hakuna hata mmoja aliyekuwa mwenye haki. Kwa hiyo mtu mmoja ilibidi <b>alipe gharama mahali pao</b>.</p><p>Yesu hakuja tu kutoa mafundisho mema. Bila njia nyingine yoyote ya kuniokoa, <b>hakuwa na budi kuja.</b></p><p class=\"crux-punch\">Yule aliyepaswa kutundikwa msalabani ule alikuwa ni <b>mimi</b>.<br>Yesu alibeba <b>dhambi yangu</b> na akatundikwa pale mahali pangu.</p><div class=\"crux-verse\">“Bali alijeruhiwa kwa makosa yetu, Alichubuliwa kwa maovu yetu … Na kwa kupigwa kwake sisi tumepona.” — Isaya 53:5</div>",
+  "faq.h": "Bado unahangaika na jambo fulani?",
+  "faq.q1": "<span class=\"arr\">▸</span> Kwa hiyo muuaji anahitaji tu kuamini ndipo aende mbinguni, huku mtu aliyeishi maisha mema lakini hasiyeamini akienda motoni?",
+  "faq.a1": "<p>Ni swali la haki. Lakini ndani yake kumefichwa kutoelewa kuwili.</p><p><b>① Biblia haigawanyi watu katika “wema na waovu.”</b> Kipimo si “bora kuliko mtu wa jirani” bali “utakatifu mkamilifu wa Mungu.” Mbele zake, hakuna mtu aliye “mwema wa kutosha” (Warumi 3:23). Kwa hiyo hili si “mtu mwema dhidi ya muuaji,” bali ni kama watu wawili wenye ugonjwa uleule wa kufisha — mmoja anapokea dawa, mwingine anaikataa akisema, “Mimi nina afya zaidi ya yule.”</p><p><b>② Kitu kimoja tu kinachotenga mbingu na moto.</b> Si alama ya matendo, bali <b>kama umempokea Yesu Kristo kuwa Bwana na tatizo lako la dhambi limetatuliwa.</b> Yule ambaye dhambi yake imetatuliwa kwa damu ya Kristo huenda mbinguni; yule asiyempokea kamwe, ambaye dhambi yake inabaki, haendi. Hakuna tendo jema lolote linaloweza kutatua tatizo lenyewe la dhambi.</p><p>Kwa hiyo mbingu na moto si “zawadi ya tabia njema” bali ni jambo la <b>uhusiano na Kristo</b>. Na “kuamini” si kukubali kwa akili tu, bali ni mabadiliko ya nani anayeendesha maisha yako — yeyote anayempokea kweli hajigambi bali anatubu kwa kina zaidi. Kwa kweli, kujihesabia haki (“Mimi ni mtu mwema”) ndiyo sanamu ngumu zaidi kuivunja, ile inayotufanya tudhani hatumhitaji Kristo (Luka 18:9-14).</p><p>Biblia inasema waziwazi: <b>“Amwaminiye yeye hahukumiwi; asiyeamini amekwisha kuhukumiwa”</b> (Yohana 3:18). Hukumu si “kupanga alama za matendo yako baada ya kufa,” bali tayari imeamuliwa kulingana na <b>kama ulimpokea Kristo</b>.</p><p class=\"faq-v\">Warumi 3:23 · Yohana 3:18 · Waefeso 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Je, siwezi tu kuishi maisha mema bila kumwamini Yesu?",
+  "faq.a2": "<p>Ni wazo lililoenea zaidi, lakini linakosea kuelewa tatizo halisi ni nini. Hebu tutumie picha.</p><p><b>Fikiria uko ndani ya meli ya maharamia.</b> Hata ukiisafisha sitaha vizuri kiasi gani, ukiwa mkarimu kwa wafanyakazi, na ukiishi maisha ya mfano, bado wewe ni <b>maharamia</b>, kwa sababu meli inakubeba pamoja nayo hadi inapoelekea (bandari ya hukumu). Tatizo si “alama ya matendo yako” bali <b>“ni meli gani uliyo wake” (utambulisho wako)</b>.</p><p>Kwa hiyo Injili haisemi “jitahidi zaidi kuwa mwema”; inasema <b>“hamia meli nyingine.”</b> Shuka kwenye meli ya dhambi na uvuke kwenda kwa Yesu — kwenye utambulisho mpya wa <b>mtoto wa Mungu</b>. Hili si kuongeza alama yako kwa juhudi, bali ni kumwamini Yule anayekunyooshea mkono wake na kuvuka kwenda meli yake.</p><p>Kwa kweli Biblia inaeleza wokovu kama uhamisho huu hasa — <b>“Naye alituokoa kutoka kwa nguvu za giza, akatuhamisha na kutuingiza katika ufalme wa Mwana wake mpendwa”</b> (Wakolosai 1:13).</p><p>Usikose kuelewa: <b>hii haimaanishi maisha mema hayana maana.</b> Wema si “sharti” la wokovu bali ni <b>tunda</b> lake. Yeyote aliyehamia meli nyingine sasa anaishi vizuri si kwa hofu, bali kwa upendo wa mtoto.</p><p class=\"faq-v\">Wakolosai 1:13 · Yohana 1:12 · Yohana 3:3 · Waefeso 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Kama mtenda maovu anajisikia amani, akidai “Mungu amenisamehe,” huku mwathirika bado anateseka — je, neema si rahisi mno?",
+  "faq.a3": "<p>Swali ni la haki, na maumivu hayo ni ya kweli. Lakini dai kama hilo si “msamaha wa Biblia” — ni <b>upotoshaji</b> wake.</p><p><b>① Msamaha wa Mungu kamwe si rahisi.</b> Dhambi haifutiliwi mbali kana kwamba haikutokea; Mungu mwenyewe alilipa gharama yake kwa uhai wa Mwanawe mwenyewe. Msalaba si ushahidi kwamba dhambi inachukuliwa kirahisi, bali kwamba dhambi ni nzito kiasi hicho — msamaha wa gharama kubwa kuliko yote duniani.</p><p><b>② Toba ya kweli huzaa matunda.</b> Kama mtenda maovu anajigamba mbele ya mwathirika — “Mungu amenisamehe, kwa hiyo nina amani” — hiyo si toba bali ni mwigo wake (Mathayo 3:8). Na msamaha kati ya mtu na Mungu haufuti jeraha la mwathirika wala haumlazimishi mwathirika kusamehe.</p><p><b>③ Dhambi kamwe haiachiliwi tu.</b> Kila dhambi hulipiwa katika mojawapo ya mahali pawili — <b>ama Kristo anaibeba msalabani</b> (kwa wanaomwamini hakuna tena hukumu ya adhabu, Warumi 8:1), <b>ama yule anayemkataa hatimaye anaibeba mwenyewe.</b> Kwa hiyo hakuna “msamaha wa bei rahisi.” Mtenda maovu pia bado anabeba wajibu wa kisheria katika dunia hii (Warumi 13:1-4).</p><p><b>④ Machozi ya mwathirika kamwe si madogo mbele za Mungu.</b> Mungu hulia pamoja na waliao, hukumbuka kila chozi, na hatimaye atayafuta mwenyewe (Ufunuo 21:4). Kwa hiyo mwathirika hahitaji kubeba mzigo wa kisasi peke yake, bali anaweza kumkabidhi Mungu mwenye haki (Warumi 12:19 — “Kisasi ni juu yangu mimi; mimi nitalipa, anena Bwana”).</p><p class=\"faq-v\">Mathayo 3:8 · Warumi 8:1 · Warumi 13:1-4 · Ufunuo 21:4</p>",
+  "respond.h3": "Basi — vipi kuhusu mimi?",
+  "respond.sub": "Upendo huu si habari bali ni <b>mwaliko</b>. Ikiwa upendo uliotundikwa mahali pako umegusa moyo wako, omba sala hii polepole, mstari mmoja kwa wakati.",
+  "respond.prayer": "<p>Mungu,</p><p>nakiri kwamba mimi ni mwenye dhambi ambaye siwezi kujiokoa mwenyewe.</p><p>Naamini Yesu alikufa msalabani kwa ajili yangu na akafufuka.</p><p>Tafadhali nisamehe dhambi zangu zote, na kuanzia sasa uwe Bwana wa maisha yangu.</p><p>Nipokee niwe mtoto wako, na uniwezeshe kuishi maisha mapya.</p><p class=\"amen\">Kwa jina la Yesu naomba. Amina.</p>",
+  "respond.after": "Ikiwa umeomba sala hii kwa moyo wa dhati, Biblia inasema umekuwa <b>mtoto wa Mungu</b>. Hauko peke yako tena — tafuta kanisa lililo karibu na utembee njia ya imani pamoja na wengine.",
+  "respond.verse": "“Bali wote waliompokea aliwapa uwezo wa kufanyika watoto wa Mungu, ndio wale waliaminio jina lake.” — Yohana 1:12 · Warumi 10:9-10",
+  "closing.main": "Mungu mmoja,<br>kwa hadithi moja,<br>anatufuatia kwa <em>upendo</em><br>usiokata tamaa kamwe.",
+  "closing.verse": "“Wala mauti, wala uzima … wala kiumbe kinginecho chote hakitaweza kututenga na upendo wa Mungu ulio katika Kristo Yesu Bwana wetu.” — Warumi 8:38-39",
+  "closing.small": "Juu ya mtiririko huu wa hadithi, Sheria, Mashairi, Manabii, na Nyaraka huongeza “nyama.”<br>Sasa, kitabu chochote utakachofungua, utaona uko wapi katika hadithi.",
+  "closing.share": "↗ Shiriki hadithi hii",
+  "about.line": "Imejengwa juu ya mtazamo wa <b>kihistoria-ukombozi, kiinjili na kireformi</b> unaoshirikiwa na wengi wa kanisa la Kiprotestanti la Korea.",
+  "about.contact": "Maswali · maoni — <a id=\"contact\" class=\"mail\">Tutumie barua pepe</a>"
+ },
+ "epochs": [
+  {
+   "tag": "AGANO LA KALE · MWANZO",
+   "title": "Uumbaji",
+   "date": "Hapo mwanzo",
+   "one": "Mungu aliumba ulimwengu uliokuwa “mzuri sana.”",
+   "people": "Mungu; Adamu na Hawa",
+   "events": "Siku sita za uumbaji, mwanadamu aliumbwa kwa mfano wa Mungu, pumziko la Sabato",
+   "q": "Hapo mwanzo Mungu aliziumba mbingu na nchi.",
+   "cite": "Mwanzo 1:1",
+   "christ": "Ulimwengu uliumbwa kwa njia ya “Neno.” Injili ya Yohana inatangaza kwamba Neno hili ni Yesu mwenyewe (Yohana 1:1-3).",
+   "detail": "<p>Biblia haianzi na hoja ya kifalsafa bali na tangazo: <b>“Hapo mwanzo Mungu…”</b> Ulimwengu si ajali bali ni kazi ya Mungu wa kibinafsi.</p><ul><li><b>Mfano wa Mungu</b> · Kati ya viumbe vyote, mwanadamu peke yake aliumbwa kufanana na Mungu — kumjua yeye na kuutunza ulimwengu.</li><li><b>Pumziko</b> · Pumziko la siku ya saba linaonyesha kila kitu kikiwa kimekamilika na katika amani (shalom): “ni vyema.”</li><li><b>Edeni</b> · Ulimwengu kabla haujavunjika, ambapo Mungu na watu wanatembea pamoja.</li></ul>",
+   "next": "Lakini ukamilifu huu unakaribia kuvunjwa…"
+  },
+  {
+   "tag": "AGANO LA KALE · TATIZO LAANZA",
+   "title": "Anguko",
+   "date": "Hapo mwanzo",
+   "one": "Dhambi iliingia, na uhusiano kati ya watu na Mungu ukakatika.",
+   "people": "Adamu na Hawa; nyoka (Shetani)",
+   "events": "Kula tunda lililokatazwa, kufukuzwa Edeni, kuja kwa mauti na taabu",
+   "q": "nami nitaweka uadui kati yako na huyo mwanamke … huo utakuponda kichwa.",
+   "cite": "Mwanzo 3:15",
+   "christ": "Ahadi ya kwanza ya Injili, iliyotolewa mara tu baada ya Anguko: “uzao wa mwanamke” utakiponda kichwa cha nyoka — na huyo ni Yesu (Mwanzo 3:15; Warumi 16:20; Wagalatia 4:4).",
+   "detail": "<p>Kupitia uasi wa kutaka “kuwa kama Mungu,” dhambi inaingia ulimwenguni. Matokeo si tu sheria iliyovunjwa bali ni <b>uhusiano uliovunjika</b>.</p><ul><li><b>Mahusiano yaliyovunjika</b> · na Mungu (kujificha), na wenzao (kulaumiana), na asili (miiba na taabu).</li><li><b>Mauti</b> · onyo “hakika utakufa” linakuwa kweli.</li><li><b>Mwanzo 3:15</b> · lakini katikati ya hukumu, ahadi ya ukombozi inakuja kwanza. Wasomi huiita <b>protoevangelium (injili ya kwanza)</b>.</li></ul>",
+   "next": "Sasa Mungu anamwita mtu mmoja kuanza ukombozi…"
+  },
+  {
+   "tag": "AGANO LA KALE · AHADI",
+   "title": "Mababu wa Imani",
+   "date": "mnamo 2000 KK",
+   "one": "Mungu anamwahidi Abrahamu, “Utakuwa mfereji wa baraka.”",
+   "people": "Abrahamu · Isaka · Yakobo · Yusufu",
+   "events": "Agano la Abrahamu, kufungwa kwa Isaka, wana kumi na wawili wa Yakobo, Yusufu apanda madarakani Misri",
+   "q": "nami nitakufanya wewe kuwa taifa kubwa … na katika wewe jamaa zote za dunia watabarikiwa.",
+   "cite": "Mwanzo 12:2-3",
+   "christ": "Ahadi kwamba “jamaa zote zitabarikiwa” inatimizwa katika Yesu, uzao wa Abrahamu (Wagalatia 3:16).",
+   "detail": "<p>Mungu anaanza kushughulikia tatizo la wanadamu wote kwa kumwita mtu mmoja, <b>Abrahamu</b>. Kiini chake ni <b>agano (ahadi)</b> — taifa kubwa, nchi, na “baraka kwa jamaa zote.”</p><ul><li><b>Imani</b> · Abrahamu aliiamini ahadi isiyoonekana, naye akahesabiwa hilo kuwa haki (Mwanzo 15:6).</li><li><b>Isaka na Yakobo</b> · ahadi inaendelea; Yakobo (Israeli) anazaa kabila kumi na mbili.</li><li><b>Yusufu</b> · aliuzwa na ndugu zake lakini akapandishwa madarakani — “Mungu aliyakusudia kuwa mema” (Mwanzo 50:20).</li></ul>",
+   "next": "Kumfuata Yusufu, familia inashuka Misri — na inakuwa watumwa…"
+  },
+  {
+   "tag": "AGANO LA KALE · UKOMBOZI",
+   "title": "Kutoka na Jangwani",
+   "date": "mnamo 1446 KK",
+   "one": "Mungu aliwaokoa watu waliokuwa watumwa na kuwafanya kuwa wake.",
+   "people": "Musa, Haruni, Farao",
+   "events": "Mapigo kumi, Pasaka, kuvuka Bahari ya Shamu, Amri Kumi mlimani Sinai, hema ya kukutania, miaka 40 jangwani",
+   "q": "nami nitawatwaeni kuwa watu wangu, nitakuwa Mungu kwenu.",
+   "cite": "Kutoka 6:7",
+   "christ": "Pasaka — ambapo damu ya mwana-kondoo iliepusha mauti — inaelekeza kwa Yesu, “Pasaka yetu,” aliyesulubiwa kwa ajili yetu (1 Wakorintho 5:7).",
+   "detail": "<p>Ukombozi mkuu zaidi wa Agano la Kale. Israeli waliokuwa watumwa wanawekwa huru kwa nguvu za Mungu na kuumbwa kuwa <b>watu</b> wake.</p><ul><li><b>Pasaka</b> · nyumba iliyotiwa alama ya damu ya mwana-kondoo inapitwa na mauti — mfano nyuma ya kila dhabihu iliyofuata.</li><li><b>Bahari ya Shamu</b> · wokovu pale njia inapoishia; “kuvuka ng'ambo” linakuwa ishara ya mwanzo mpya.</li><li><b>Agano la Sinai</b> · kupitia Amri wanajifunza jinsi ya kuishi kama watu wa Mungu.</li><li><b>Hema ya kukutania</b> · patakatifu pa kuhamishika ambapo Mungu anakaa kati ya watu wake — onjo la awali la “Imanueli.”</li><li><b>Miaka 40</b> · uasi unaifanya kizazi kimoja kuzurura, lakini Mungu anakaa karibu kwa mana na nguzo ya wingu na moto.</li></ul>",
+   "next": "Wakiwa wamesimama ukingoni mwa nchi ya ahadi, wanajiandaa kuingia…"
+  },
+  {
+   "tag": "AGANO LA KALE · MAKAZI",
+   "title": "Ushindi na Waamuzi",
+   "date": "mnamo 1400–1050 KK",
+   "one": "Walipata nchi, lakini bila mfalme kila mtu alifanya apendavyo.",
+   "people": "Yoshua; waamuzi kama Gideoni na Samsoni; Ruthu",
+   "events": "Kuanguka kwa Yeriko, kukaa Kanaani, mzunguko unaorudia wa dhambi–hukumu–ukombozi",
+   "q": "Siku hizo hapakuwa na mfalme katika Israeli; kila mtu alifanya yaliyokuwa ni mema machoni pake mwenyewe.",
+   "cite": "Waamuzi 21:25",
+   "christ": "Kutoka ukoo wa Ruthu anatoka Daudi, na kutoka ukoo wa Daudi anatoka Yesu (Mathayo 1). Hata katika machafuko, mti wa ukoo wa Masihi unaendelea.",
+   "detail": "<p>Chini ya Yoshua wanaingia nchi ya ahadi, lakini baada ya kukaa wanamsahau Mungu upesi. Waamuzi ni mfano uleule unaorudia.</p><ul><li><b>Mzunguko wa kushuka</b> · dhambi → dhuluma → kulia → mwamuzi anaokoa → dhambi tena. Unazidi kuwa mbaya tu.</li><li><b>Waamuzi</b> · Gideoni, Samsoni, Debora — waokozi wa muda, mashujaa lakini wenye kasoro nyingi.</li><li><b>Ruthu</b> · hadithi angavu ya uaminifu katika zama za giza; mwanamke mgeni anaingia ukoo wa Daudi (na Yesu).</li></ul>",
+   "next": "Watu wanalia, “Tupe sisi pia mfalme!”…"
+  },
+  {
+   "tag": "AGANO LA KALE · ZAMA ZA DHAHABU",
+   "title": "Ufalme Ulioungana",
+   "date": "mnamo 1050–930 KK",
+   "one": "Mungu anamwahidi Daudi, “Kiti chako cha enzi kitadumu milele.”",
+   "people": "Sauli · Daudi · Sulemani",
+   "events": "Mfalme wa kwanza Sauli, Daudi na Goliathi, agano la Daudi, Sulemani ajenga hekalu",
+   "q": "Na nyumba yako, na ufalme wako, vitathibitishwa milele mbele yako. Nacho kiti chako kitaimarishwa milele.",
+   "cite": "2 Samweli 7:16",
+   "christ": "“Kiti cha enzi cha milele” kinatimizwa katika Yesu, mwana wa Daudi — ndiyo maana anaitwa “Mwana wa Daudi” (Luka 1:32-33; Mathayo 1:1).",
+   "detail": "<p>Kilele cha Israeli, kilichotawaliwa na wafalme watatu.</p><ul><li><b>Sauli</b> · mfalme ambaye watu walimtaka; mwanzo mzuri ulioharibiwa na uasi.</li><li><b>Daudi</b> · “mtu aliye sawasawa na moyo wa Mungu.” Anamshinda Goliathi na kuifanya Yerusalemu mji mkuu. Anatenda dhambi kubwa (Bathsheba) lakini anatubu kutoka moyoni (Zaburi 51).</li><li><b>Agano la Daudi (2 Samweli 7)</b> · Mungu anaahidi kuusimamisha ukoo wa Daudi milele — mzizi wa maamuzi wa tumaini la Kimasihi.</li><li><b>Sulemani</b> · katika kilele cha hekima na utajiri anajenga <b>hekalu</b>, lakini mwishoni mwa maisha anageukia sanamu.</li></ul>",
+   "next": "Baada ya Sulemani, ufalme unagawanyika mara mbili…"
+  },
+  {
+   "tag": "AGANO LA KALE · KUSHUKA",
+   "title": "Ufalme Uliogawanyika",
+   "date": "930–586 KK",
+   "one": "Uligawanyika kusini (Yuda) na kaskazini (Israeli), na taifa likateleza kwenye uharibifu.",
+   "people": "Wafalme wa falme zote mbili; manabii kama Eliya, Isaya, Yeremia",
+   "events": "Ufalme unagawanyika, ibada ya sanamu inaenea, manabii wanaonya",
+   "q": "Hivyo Israeli wakaasi juu ya nyumba ya Daudi hata leo.",
+   "cite": "1 Wafalme 12:19",
+   "christ": "Katika zama hizi manabii wanatabiri kuja kwa Masihi kwa uwazi zaidi na zaidi (Isaya 9:6; Isaya 53).",
+   "detail": "<p>Katika siku za mwana wa Sulemani taifa linagawanyika: <b>ufalme wa kaskazini wa Israeli</b> (kabila 10, mji mkuu Samaria) na <b>ufalme wa kusini wa Yuda</b> (kabila 2, mji mkuu Yerusalemu).</p><ul><li><b>Israeli (kaskazini)</b> · kila mfalme anaabudu sanamu; unaanguka mbele ya Ashuru mwaka 722 KK.</li><li><b>Yuda (kusini)</b> · ukoo wa Daudi unaendelea, na wapo wafalme wachache wema kama Hezekia na Yosia, lakini kwa ujumla unashuka.</li><li><b>Manabii</b> · Eliya, Amosi, Isaya, Yeremia wanalia “rudini!” Unabii wa Kimasihi unafikia kilele chake tajiri hapa (“mtumishi mteswa” wa Isaya 53).</li></ul>",
+   "next": "Mwishowe hukumu iliyoonywa inakuja — wanachukuliwa uhamishoni…"
+  },
+  {
+   "tag": "AGANO LA KALE · HUKUMU",
+   "title": "Uhamisho",
+   "date": "722 / 586 KK",
+   "one": "Taifa linaanguka na watu wanaburutwa hadi nchi za kigeni.",
+   "people": "Danieli, Ezekieli, Nebukadneza",
+   "events": "Israeli unaanguka mbele ya Ashuru (722), Yuda unaanguka mbele ya Babeli na hekalu linaharibiwa (586)",
+   "q": "Kando ya mito ya Babeli ndiko tulikoketi, Tukalia tulipoikumbuka Sayuni.",
+   "cite": "Zaburi 137:1",
+   "christ": "Katika kina cha kukata tamaa Yeremia anaahidi “agano jipya” (Yeremia 31:31) — agano lilelile ambalo Yesu analitia muhuri katika Karamu ya Mwisho.",
+   "detail": "<p>Maonyo yanatimia. Hekalu linateketea na watu wanachukuliwa Babeli — wakipoteza nchi, mfalme, na hekalu: hatua ya chini kabisa.</p><ul><li><b>Maanguko mawili</b> · Israeli (Ashuru, 722 KK) na Yuda (Babeli, 586 KK).</li><li><b>Danieli</b> · mfano wa imani hata katika ikulu ya kipagani (tundu la simba); anaona maono ya “ufalme wa milele” utakaokuja.</li><li><b>Cheche ya tumaini</b> · maono ya Ezekieli ya mifupa mikavu inayoishi (Ezekieli 37) na “agano jipya” la Yeremia yanaelekeza wakati ujao gizani.</li></ul>",
+   "next": "Miaka sabini baadaye, Mungu anafungua njia — wanarudi nyumbani…"
+  },
+  {
+   "tag": "AGANO LA KALE · UREJESHO",
+   "title": "Kurudi Kutoka Uhamishoni",
+   "date": "538–430 KK",
+   "one": "Wanarudi na kujenga upya hekalu na kuta.",
+   "people": "Ezra, Nehemia, Esta, Zerubabeli",
+   "events": "Kurudi kwa amri ya Koreshi, kujenga upya hekalu, kurejesha kuta za Yerusalemu, kuirejesha Neno",
+   "q": "kwa kuwa furaha ya BWANA ni nguvu zenu.",
+   "cite": "Nehemia 8:10",
+   "christ": "Malaki, kitabu cha mwisho cha Agano la Kale, kinamalizia kwa kutabiri mjumbe wa kuiandaa njia ya Masihi: “Tazama, namtuma mjumbe wangu” (Malaki 3:1).",
+   "detail": "<p>Kwa amri ya mfalme wa Uajemi Koreshi (538 KK) kurudi kunaanza. Kwa mawimbi matatu wanarudi na kujenga upya kilichoharibika.</p><ul><li><b>Zerubabeli</b> · anajenga upya hekalu (lilikamilika 516 KK).</li><li><b>Ezra</b> · anafundisha Neno tena na kufufua imani.</li><li><b>Nehemia</b> · anajenga upya kuta za Yerusalemu kwa siku 52.</li><li><b>Esta</b> · anawaokoa Wayahudi waliokuwa Uajemi kutoka kuangamizwa — “kwa wakati kama huu.”</li><li><b>Bado wakitamani</b> · hekalu limesimama, lakini hakuna mfalme kama Daudi. Watu wanamngojea Masihi.</li></ul>",
+   "next": "Na kisha… kana kwamba mbingu zimenyamaza, miaka 400 inapita."
+  },
+  {
+   "tag": "KATI YA MAAGANO · KUANDAA JUKWAA",
+   "title": "Miaka ya Ukimya",
+   "date": "mnamo 430–4 KK",
+   "one": "Miaka 400 bila sauti ya nabii — hata hivyo jukwaa lilikuwa likiandaliwa kimya kimya.",
+   "people": "Aleksanda Mkuu, Wamakabayo, Roma",
+   "events": "Uajemi → Ugiriki → uhuru wa Wamakabayo → utawala wa Roma",
+   "q": "Lakini ulipowadia utimilifu wa wakati, Mungu alimtuma Mwanawe ambaye amezaliwa na mwanamke.",
+   "cite": "Wagalatia 4:4",
+   "christ": "“Kuandaa jukwaa” huku kote kulikuwa ni Mungu akifanya kazi ili Yesu aje hasa wakati wa “utimilifu wa wakati.”",
+   "detail": "<p>Kuanzia Malaki hadi Agano Jipya, takriban miaka 400 inapita bila Maandiko mapya. Hata hivyo nyuma ya historia Mungu alikuwa akiiandaa njia ya Injili.</p><ul><li><b>Falme zinabadilishana mikono</b> · Uajemi → Ugiriki (Aleksanda, 333 KK) → Watolemayo na Waselukia → uasi wa Wamakabayo (167 KK) → Roma (63 KK).</li><li><b>Kiyunani</b> · ushindi wa Aleksanda unaifanya Kiyunani kuwa lugha ya kawaida; Agano la Kale linatafsiriwa kwa Kiyunani (Septuajinti), kuandaa njia ya Injili kuenea haraka.</li><li><b>Barabara na amani ya Roma</b> · barabara zilizojengwa vizuri na “Pax Romana” zinakuwa njia kuu za umisheni.</li><li><b>Masinagogi na vyama</b> · ufundishaji wa sinagogi unashika mizizi; Mafarisayo na Masadukayo wanainuka; na <b>shauku ya Masihi</b> inakomaa.</li></ul>",
+   "next": "Kisha ukimya unavunjika — hatimaye, anakuja."
+  },
+  {
+   "tag": "AGANO JIPYA · UTIMILIFU",
+   "title": "Yesu Anakuja",
+   "date": "mnamo 4 KK–30 BK",
+   "one": "Masihi aliyeahidiwa alikuja, akafa, na akafufuka tena.",
+   "people": "Yesu, wanafunzi kumi na wawili, Yohana Mbatizaji",
+   "events": "Kufanyika mwili, huduma yake na mafundisho na miujiza, kifo msalabani, ufufuo siku ya tatu",
+   "q": "Naye Neno alifanyika mwili, akakaa kwetu … amejaa neema na kweli.",
+   "cite": "Yohana 1:14",
+   "christ": "Uzao wa mwanamke (tukio la 2), baraka ya Abrahamu (3), mwana-kondoo wa Pasaka (4), mfalme wa milele wa Daudi (6), agano jipya (8) — yote yanatimizwa katika mtu mmoja, Yesu: Nabii, Kuhani, na Mfalme wetu wa kweli.",
+   "detail": "<p>Ukimya unavunjika; Aliyeahidiwa anawasili. Injili nne zinashuhudia maisha, kifo, na ufufuo wa Yesu kutoka pembe nne.</p><ul><li><b>Kufanyika mwili</b> · Mungu anakuwa mwanadamu (Imanueli, “Mungu pamoja nasi”), katika unyenyekevu wa Bethlehemu.</li><li><b>Huduma</b> · anafundisha ufalme wa Mungu, anaponya wagonjwa, anawaita wenye dhambi. “Aliyeniona mimi amemwona Baba.”</li><li><b>Msalaba</b> · analipa mahali petu gharama ya dhambi na mauti zilizoletwa na Anguko (tukio la 2). Mwana-kondoo wa kweli wa Pasaka.</li><li><b>Ufufuo</b> · akifufuka siku ya tatu, anavunja nguvu za dhambi, mauti, na Shetani — tayari msalabani “akiisha kuzivua enzi na mamlaka … akiziongoza kwa ushindi wake wa shangwe” (Wakolosai 2:15).</li></ul><p>Kwa hiyo Yesu ni <b>Nabii wetu wa kweli</b> (anatuonyesha njia ya kumwendea Mungu), <b>Kuhani wetu wa kweli</b> (anaiondoa dhambi kwa mwili wake mwenyewe), na <b>Mfalme wetu wa kweli</b> (anashinda dhambi, mauti, na Shetani na kutawala milele).</p>",
+   "next": "Yesu aliyefufuka anawatuma wanafunzi wake ulimwenguni…"
+  },
+  {
+   "tag": "AGANO JIPYA · KUENEA",
+   "title": "Kanisa Laanza",
+   "date": "mnamo 30 BK–",
+   "one": "Roho anakuja, na Injili inaenea hadi miisho ya dunia.",
+   "people": "Petro, Paulo, kanisa la kwanza",
+   "events": "Roho amwagwa siku ya Pentekoste, kanisa lazaliwa, Injili yaenea kutoka Yerusalemu hadi Roma kupitia mateso",
+   "q": "Lakini mtapokea nguvu, akiisha kuwajilia juu yenu Roho Mtakatifu … na hata mwisho wa nchi.",
+   "cite": "Matendo 1:8",
+   "christ": "Hadithi hii bado inaendelea hadi leo. Biblia inamalizia kwa kuahidi kwamba Yesu atakuja tena na kufanya vitu vyote kuwa vipya (Ufunuo 21).",
+   "detail": "<p>Baada ya Yesu kupaa, Roho aliyeahidiwa anakuja siku ya Pentekoste na kanisa lazaliwa. Injili inaenea kwa kasi ya mlipuko.</p><ul><li><b>Pentekoste</b> · Roho anawageuza wanafunzi wenye hofu kuwa mashahidi wenye ujasiri.</li><li><b>Petro</b> · anahubiri Injili kwa Wayahudi katika Yerusalemu.</li><li><b>Paulo</b> · kutoka mtesi hadi mtume, akipanda makanisa katika ulimwengu wa Mataifa na kuandika nyaraka.</li><li><b>Hadi miisho ya dunia</b> · Yerusalemu → Yudea → Samaria → Roma. Ahadi kwa Abrahamu ya “jamaa zote” inatimia.</li><li><b>Na sisi</b> · hadithi haiishi; inaendelea kuelekea kuja kwa Yesu na mbingu mpya na nchi mpya.</li></ul>",
+   "next": "Lakini hadithi haiishii hapa…"
+  },
+  {
+   "tag": "AGANO JIPYA · UKAMILIFU",
+   "title": "Urejesho",
+   "date": "Bado inakuja",
+   "one": "Yesu anakuja tena na kufanya vitu vyote kuwa vipya.",
+   "people": "Yesu anayerudi; mataifa yote",
+   "events": "Kuja kwa mara ya pili, hukumu ya mwisho, mwisho wa dhambi·mauti·machozi, mbingu mpya na nchi mpya",
+   "q": "Naye atafuta kila chozi katika macho yao, wala mauti haitakuwapo tena; wala maombolezo, wala kilio, wala maumivu hayatakuwapo tena.",
+   "cite": "Ufunuo 21:4",
+   "christ": "Edeni ya uumbaji wa kwanza inarejeshwa hatimaye kama “Yerusalemu Mpya.” Mungu anakaa pamoja na watu wake milele — utimilifu wa Imanueli (Ufunuo 21:3; Mathayo 1:23).",
+   "detail": "<p>Biblia haiishii katika zama za kanisa. Kitabu chake cha mwisho, Ufunuo, kinaonyesha Yesu <b>akija tena</b> kukamilisha kila kitu.</p><ul><li><b>Kuja kwa mara ya pili</b> · mfalme aliyeahidiwa anarudi kwa utukufu.</li><li><b>Ushindi wa mwisho</b> · Shetani na mauti vinaangamizwa milele, na Kristo anatawala kama Mfalme wa wafalme (1 Wakorintho 15:25-26; Ufunuo 20:10).</li><li><b>Hukumu na ufufuo</b> · kila uovu unanyooshwa, na wafu wanafufuliwa.</li><li><b>Mbingu mpya na nchi mpya</b> · dhambi, mauti, machozi, na maumivu vinatoweka milele (Ufunuo 21:4).</li><li><b>Edeni iliyorejeshwa</b> · katika “Yerusalemu Mpya” iliyo bora kuliko mwanzo, Mungu anakaa pamoja na watu wake milele — lengo ambalo Biblia nzima imekuwa ikilielekea.</li></ul><p>Kwa hiyo sasa ni zama za <b>“tayari, lakini bado”</b>: katika Yesu wokovu <b>tayari</b> umetimizwa, lakini ukamilifu wake <b>bado</b> unangojewa.</p>",
+   "next": "Basi hadithi hii yote inamaanisha nini kwa “mimi”?"
+  }
+ ],
+ "love": [
+  "Hadithi haianzi na hukumu bali na uumbaji uliomiminwa kwa upendo.",
+  "Wakati ule watu walipotenda dhambi, Mungu aliahidi ukombozi papo hapo.",
+  "Mungu alikuja kwanza kwa mtu asiyestahili, akamwita kwa jina, na akamfanya mfereji wa baraka.",
+  "Alikisikia kilio cha watu waliokuwa watumwa na akashuka mwenyewe kuwaokoa.",
+  "Walisalitiwa tena na tena, lakini kila walipolia aliwatumia mwokozi na kuwainua.",
+  "Hakumtupa hata Daudi aliyeanguka, na kupitia yeye akaahidi Mfalme wa milele.",
+  "Kwa watu waliomgeuza mgongo, aliendelea kutuma manabii, akisihi, “Tafadhali rudini nyumbani.”",
+  "Alikwenda nao hata katika nchi ya giza zaidi ya uhamisho, na akaahidi urejesho.",
+  "Hata kwa watu walioshindwa tena na tena, hakuiondoa ahadi yake.",
+  "Hata kupitia miaka 400 ya ukimya, bila kuonekana, alikuwa akiiandaa njia ya wokovu.",
+  "Tulipokuwa tungali wenye dhambi, alimtuma Mwanawe kuutoa uhai wake mwenyewe.",
+  "Upendo tuliopokea, sasa anautuma utiririke kwa ulimwengu wote.",
+  "Hatimaye atafuta kila chozi na kurejesha vitu vyote kwa upendo."
+ ],
+ "mis": [
+  {
+   "w": "“Kwa nini Mungu aliumba watu wenye uwezo wa kutenda dhambi? Si ingekuwa bora asingetuumba kabisa?”",
+   "t": "Mungu aliumba ulimwengu na watu si kwa upungufu wowote, bali kwa upendo unaofurika. Kumfanya mwanadamu kuwa <b>mtu anayeweza kuwa na uhusiano na Mungu</b> ni upendo wenyewe. Na hata kuingia kwa dhambi hakukuwa nje ya mpango wa Mungu wa wokovu (Waefeso 1:4-5). Tukio la kwanza la Biblia si hukumu bali ni upendo."
+  },
+  {
+   "w": "“Kufukuzwa na kupewa mauti kwa kula tunda moja tu — je, Mungu si mkali mno?”",
+   "t": "Kutolewa Edeni kulikuwa hukumu na rehema kwa pamoja. Kula matunda ya mti wa uzima na kuishi milele katika hali hiyo iliyovunjika, iliyotengwa na Mungu, kungekuwa kunaswa katika mateso milele (Mwanzo 3:22). Kuruhusu mauti kulifungua njia ya kurudi, na pale pale Mungu aliahidi Mwokozi (Mwanzo 3:15). Upendo ulikuwa tayari ndani ya hukumu."
+  },
+  {
+   "w": "“Abrahamu alichaguliwa kwa sababu alikuwa na imani kubwa — je, watu wote wa Biblia si mashujaa wa kimaadili?”",
+   "t": "Abrahamu pia alidanganya na kutilia shaka; Yakobo alikuwa mlaghai. Mungu hakuwaita watu “wanaostahili” bali wenye kasoro, kwa neema. Sababu haikuwa wema wao bali upendo mwaminifu wa Mungu (Kumbukumbu la Torati 7:7-8)."
+  },
+  {
+   "w": "“Je, Sheria (Amri) si mtihani ambao lazima uufaulu ili uokoke?”",
+   "t": "Mungu aliwaokoa <b>kabla</b> ya kuwapa Sheria. Hata Amri Kumi zinaanza na tangazo la wokovu: “Mimi ni BWANA, Mungu wako, niliyekutoa katika nchi ya Misri” (Kutoka 20:2). Sheria si “itunze ili uokoke,” bali ni mwongozo wa upendo wa jinsi watu waliookolewa tayari wanavyopaswa kuishi (Kumbukumbu la Torati 7:7-9). Neema huja kwanza daima; utii ni jibu."
+  },
+  {
+   "w": "“Ushindi wa Kanaani ulikuwa mauaji yasiyo na huruma — kwa hiyo Mungu wa Agano la Kale kwa kweli ni katili.”",
+   "t": "Hili ni somo gumu lisiloweza kutatuliwa kwa sentensi moja. Lakini Biblia haliwasilishi kama vurugu la ovyo bali kama hukumu baada ya karne za uvumilivu kuelekea uovu uliokithiri (ikiwemo kuwatoa watoto dhabihu) (Mwanzo 15:16; Kumbukumbu la Torati 9:4-5; Mambo ya Walawi 18:24-25). Mungu ni mwepesi hata wa kuhukumu, naye aliwakaribisha kwa furaha wale waliomgeukia — hata wageni kama Rahabu na Ruthu (Yoshua 6:25; Ruthu 4:13-17)."
+  },
+  {
+   "w": "“Daudi alikuwa shujaa asiye na kasoro — ndiyo maana aliitwa ‘mtu aliye sawasawa na moyo wa Mungu.’”",
+   "t": "Daudi alizini na hata kuua. “Mtu aliye sawasawa na moyo wa Mungu” haimaanishi asiye na kasoro, bali yule asiyeficha dhambi yake — aliyetubu kikamilifu na kurudi kwa Mungu daima (Zaburi 51). Upendo wa Mungu hautupi hata wale wanaoanguka vibaya."
+  },
+  {
+   "w": "“Nabii ni mwaguzi anayetabiri wakati ujao / Mungu wa Agano la Kale ni hasira tupu.”",
+   "t": "Moyo wa nabii si “kutabiri wakati ujao” bali ni kilio cha uchungu cha Mungu: “Tafadhali rudini.” Hata maonyo ya hukumu yanalenga si kuangamiza bali kuwarudisha watu na kuwaokoa — “sikufurahii kufa kwake mtu mwovu” (Ezekieli 33:11)."
+  },
+  {
+   "w": "“Uhamisho unathibitisha kwamba Mungu aliutupa kabisa Israeli.”",
+   "t": "Uhamisho haukuwa kutupwa bali nidhamu na kusafisha kuelekea mtoto mpendwa (Waebrania 12:6). Mungu hakuondoka; alikuwa pamoja na Danieli katikati ya uhamisho na akaahidi, “nayajua mawazo ninayowawazia ninyi … ni mawazo ya amani wala si ya mabaya, kuwapa ninyi tumaini siku zenu za baadaye” (Yeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Kwa miaka 400 bila neno, Mungu alikuwa ameondoka au alikuwa akipumzika.”",
+   "t": "Ukimya si kutokuwepo. Tu hakusema, huku wakati wote akizihamisha falme, lugha, na barabara ili kuandaa jukwaa la wokovu. Katika wakati wa kimya zaidi, Mungu alikuwa akifanya kazi kwa bidii zaidi, kwa upendo (Wagalatia 4:4)."
+  },
+  {
+   "w": "“Yesu alikuwa mwalimu mmoja tu mzuri wa maadili / msalaba ulikuwa kushindwa kwa msiba.”",
+   "t": "Yesu alidai kuwa Mungu mwenyewe (Yohana 8:58), na msalaba haukuwa ajali wala kushindwa bali upendo uliopangwa. Hakuburutwa pale kwa nguvu; aliutoa uhai wake mwenyewe (Yohana 10:18). “Hakuna aliye na upendo mwingi kuliko huu, wa mtu kuutoa uhai wake kwa ajili ya rafiki zake” (Yohana 15:13)."
+  },
+  {
+   "w": "“Kanisa ni klabu ya watu wakamilifu, au ni jengo tu.”",
+   "t": "Kanisa si jumuiya ya “watakatifu wakamilifu” bali ya <b>wenye dhambi waliosamehewa</b>. Hata mtume Paulo alijiita “wa kwanza” wa wenye dhambi (1 Timotheo 1:15). Kanisa la kwanza nalo lilibishana na kujikwaa (Matendo 6:1; 1 Wakorintho 1:11). Si mahali pa kujigamba, bali ni watu wanaopitisha upendo waliopokea (Yohana 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Dhambi ya asili — hakuna mwenye haki",
+   "body": "Tatizo si “matendo machache mabaya” bali ni mzizi wa moyo. Tangu Adamu, kila mtu anazaliwa chini ya dhambi na hawezi kumfikia Mungu peke yake.",
+   "vref": "Warumi 3:10-12, 23",
+   "vtext": "Hakuna mwenye haki hata mmoja … kwa sababu wote wamefanya dhambi, na kupungukiwa na utukufu wa Mungu."
+  },
+  {
+   "title": "Sheria haiwezi kuniokoa",
+   "body": "Sheria si ngazi bali ni kioo. Kadiri unavyojaribu zaidi, ndivyo inavyoonyesha jinsi unavyopungukiwa. Lengo lake ni kutuleta kwa Kristo.",
+   "vref": "Warumi 3:20 · Wagalatia 3:24",
+   "vtext": "Kutambua dhambi huja kwa njia ya sheria … torati imekuwa kiongozi kutuleta kwa Kristo."
+  },
+  {
+   "title": "Kwa neema — zawadi, si juhudi",
+   "body": "Wokovu si malipo ya sifa ulizojipatia, bali ni zawadi ya bure kwa wale wasiostahili. Kwa hiyo hakuna anayeweza kujisifu.",
+   "vref": "Waefeso 2:8-9",
+   "vtext": "Kwa maana mmeokolewa kwa neema, kwa njia ya imani … wala si kwa matendo, mtu awaye yote asije akajisifu."
+  },
+  {
+   "title": "Kuhesabiwa haki kwa imani",
+   "body": "Si kwa kuitunza Sheria, bali kwa imani katika Yesu Kristo, unahesabiwa kuwa mwenye haki — umevikwa si haki yako mwenyewe bali yake.",
+   "vref": "Warumi 5:1 · Wagalatia 2:16",
+   "vtext": "Tukiisha kuhesabiwa haki itokayo katika imani … mwanadamu hahesabiwi haki kwa matendo ya sheria, bali kwa imani ya Kristo Yesu."
+  },
+  {
+   "title": "Biblia inaelekeza kwa Yesu",
+   "body": "Biblia si kitabu cha watu wakuu wala cha kujisaidia. Kutoka Mwanzo hadi Ufunuo, kila ukurasa unamshuhudia mtu mmoja — Yesu Kristo.",
+   "vref": "Yohana 5:39 · Luka 24:27",
+   "vtext": "Maandiko yayo hayo ndiyo yanayonishuhudia … akawaeleza katika maandiko yote mambo yaliyomhusu yeye mwenyewe."
+  },
+  {
+   "title": "Ufalme wa Mungu — ujumbe mkuu wa Yesu",
+   "body": "Mada ambayo Yesu aliifundisha zaidi. Utawala wa Mungu kama Mfalme uliingia ulimwenguni pamoja na Yesu na utakamilishwa atakaporudi. Kwa msalaba na ufufuo wake, Yesu ni Mfalme wa kweli aliyeshinda dhambi, mauti, na Shetani.",
+   "vref": "Marko 1:15",
+   "vtext": "Wakati umetimia, na ufalme wa Mungu umekaribia; tubuni, na kuiamini Injili."
+  },
+  {
+   "title": "Injili — yeye aliikamilisha yote",
+   "body": "Deni la dhambi ambalo singeweza kulipa kamwe, Yesu alililipa mahali pangu msalabani, na kwa kufufuka akaishinda mauti. Sitegemei “fanya hivi” bali “imekwisha.”",
+   "vref": "Yohana 19:30 · Warumi 5:8",
+   "vtext": "Imekwisha … Kristo alikufa kwa ajili yetu, tulipokuwa tungali wenye dhambi."
+  }
+ ]
+}

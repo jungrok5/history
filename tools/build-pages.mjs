@@ -33,6 +33,7 @@ const LANGS = [
   { code:'bn',     dir:'ltr', locale:'bn_BD' },
   { code:'si',     dir:'ltr', locale:'si_LK' },
   { code:'lo',     dir:'ltr', locale:'lo_LA' },
+  { code:'tr',     dir:'ltr', locale:'tr_TR' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
