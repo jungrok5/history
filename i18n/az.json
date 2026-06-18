@@ -1,0 +1,343 @@
+{
+ "menuName": "Azərbaycan",
+ "htmlLang": "az",
+ "dir": "ltr",
+ "brand": "Müqəddəs Kitab bir baxışda",
+ "docTitle": "Müqəddəs Kitab bir baxışda · Yaradılışdan kilsəyə qədər",
+ "share": {
+  "title": "Müqəddəs Kitab bir baxışda",
+  "text": "Bir baxışda Müqəddəs Kitabın böyük hekayəsini və İsanın nə üçün gəldiyini kəşf et."
+ },
+ "ui": {
+  "people": "Şəxslər",
+  "events": "Əsas hadisələr",
+  "christLabel": "İsaya işarə edir",
+  "loveLabel": "Əl çəkməyən məhəbbət",
+  "mythWrong": "Geniş yayılmış yanlış fikir",
+  "mythRight": "Əslində",
+  "more": "Daha ətraflı",
+  "version": "(Müqəddəs Kitab)"
+ },
+ "labels": {
+  "start": "Başlanğıc",
+  "thread": "Hekayə xətti",
+  "gospel": "Müjdə",
+  "about": "Haqqında"
+ },
+ "s": {
+  "ui.share": "↗ Paylaş",
+  "ui.toast": "Keçid kopyalandı 📋",
+  "ui.footer": "Müqəddəs Kitab bir baxışda · Müqəddəs Yazı sitatları Azərbaycan Bibliyasındandır",
+  "hero.kicker": "YARADILIŞDAN KİLSƏYƏ QƏDƏR",
+  "hero.title": "Müqəddəs Kitab,<br><span class='em'>bir baxışda</span>",
+  "hero.sub": "Bir baxışda Müqəddəs Kitabın böyük hekayəsini və İsanın nə üçün gəldiyini kəşf et.",
+  "hero.cue": "Aşağı sürüşdür<span>↓</span>",
+  "thread.eyebrow": "HAMISINI BİRLƏŞDİRƏN BİR CÜMLƏ",
+  "thread.h2": "Sonda Müqəddəs Kitab vahid bir hekayədir",
+  "thread.flow": "<b>Vəd</b><span class='arw'>→</span><b>Gözləyiş</b><span class='arw'>→</span><b>Yerinə yetmə</b>",
+  "thread.note": "Allah <b>vəd verir</b> (əhd), xalq uzun müddət <b>gözləyir</b>, və nəhayət hər şey İsada <b>yerinə yetir</b> və tamamlanır. Aşağıdakı 13 səhnəni bu axınla izlə — hər kartda daha dərin hekayə üçün <b>«Daha ətraflı»</b> düyməsinə toxun.",
+  "gospel.eyebrow": "BU HEKAYƏ «MƏNİM» ÜÇÜN NƏ DEMƏKDİR",
+  "gospel.h2": "Müqəddəs Kitabın əsl ürəyi",
+  "gospel.lead": "Müqəddəs Kitab <b>«yaxşı insan ol» deyən əxlaq dərsliyi deyil.</b>",
+  "gospel.sublead": "Bu, Allahın <b>yalnız lütfü ilə</b>, özlərini xilas edə bilməyən günahkarları necə qurtardığının hekayəsidir. Onun mərkəzində İsa Məsih dayanır.",
+  "gospel.mirror": "<h3>İsrailin sonsuz dövranı əslində «mənim» təsvirimdir</h3><div class='cycle'><b>Bütpərəstlik</b><span class='a'>→</span><b>Əzab</b><span class='a'>→</span><b>Fəryad</b><span class='a'>→</span><b>Allah qurtarır</b><span class='a'>→</span><b>Yenə bütpərəstlik…</b></div><p>Hakimlər dövründən sürgünə qədər İsrail bu dövranı sonsuz təkrar edir. Müqəddəs Kitab bunu «nə qədər acınacaqlı idilər» deyə lağ edək deyə yazmadı.</p><p>Bu, bir <b>güzgüdür</b>. Məsələ «İsrail belə etdi» deyil, <b>«mən də eyni cürəm»</b> (1 Korinflilərə 10:11) həqiqətidir.</p><p><b>Büt</b> sadəcə yonulmuş heykəl deyil. Bu, <b>Allahdan çox sevdiyimiz və ya güvəndiyimiz hər şeydir</b> — pul, müvəffəqiyyət, təsdiq, insanlar, hətta öz mənliyim. Allahı <b>öz istəklərimi yerinə yetirmək üçün bir vasitə</b> kimi işlətmək də bütpərəstlikdir.</p><p class='punch'>Sonda ən dərin büt «Allahın taxtında oturmuş öz mənliyimdir».</p>",
+  "gospel.coreIntro": "Bəs Allah belə bir günahkarı necə xilas edir? Budur Müqəddəs Kitabın elan etdiyi Müjdənin ürəyi.",
+  "gospel.crux": "<p class='crux-lead'>Bütün Müqəddəs Kitab bir yerə işarə edir.</p><p>İnsan günah dövranını öz gücü ilə qıra bilmədi və saleh olan bir nəfər də yox idi. Buna görə kimsə <b>onların yerinə bədəlini ödəməli</b> idi.</p><p>İsa sadəcə yaxşı təlim vermək üçün gəlmədi. Məni xilas etməyin başqa yolu olmadığına görə <b>gəlməkdən başqa çarəsi yox idi.</b></p><p class='crux-punch'>O çarmıxda asılmalı olan <b>mən</b> idim.<br>İsa <b>mənim günahımı</b> daşıdı və mənim yerimə oraya mıxlandı.</p><div class='crux-verse'>«Bizim üsyankarlığımıza görə onun bədəni deşildi, Şər əməllərimiz naminə əzildi… Onun yaraları ilə biz şəfa tapdıq.» — Yeşaya 53:5</div>",
+  "faq.h": "Hələ də nəyəsə görə tərəddüd edirsən?",
+  "faq.q1": "<span class='arr'>▸</span> Yəni qatil sadəcə iman edib cənnətə gedir, ömrü boyu yaxşı yaşayan, lakin iman etməyən isə cəhənnəmə gedir?",
+  "faq.a1": "<p>Ədalətli sualdır. Lakin onun içində iki yanlış anlaşma gizlənib.</p><p><b>① Müqəddəs Kitab insanları «yaxşı» və «pis» deyə bölmür.</b> Ölçü «yanındakından yaxşı olmaq» deyil, «Allahın kamil müqəddəsliyidir». Onun önündə heç kim «kifayət qədər yaxşı» deyil (Romalılara 3:23). Beləliklə, bu «yaxşı insan ilə qatil» deyil, daha çox eyni ölümcül xəstəliyə tutulmuş iki adam kimidir — biri dərmanı qəbul edir, digəri isə «mən ondan daha sağlamam» deyə onu rədd edir.</p><p><b>② Cənnəti və cəhənnəmi ayıran yalnız bir şeydir.</b> Davranış balı deyil, <b>İsa Məsihi Rəbb olaraq qəbul edib-etmədiyin və günah probleminin həll olub-olmadığıdır.</b> Günahı Məsihin qanı ilə həll olunan cənnətə gedir; Onu heç vaxt qəbul etməyən, günahı qalan isə getmir. Heç bir yaxşı əməl o günah probleminin özünü sənin əvəzinə həll edə bilməz.</p><p>Buna görə cənnət və cəhənnəm «yaxşı davranışa görə mükafat» deyil, <b>Məsihlə münasibət</b> məsələsidir. «İman etmək» də zehni razılıq deyil, həyatın sahibinin dəyişməsidir — Onu həqiqətən qəbul edən həyasız olmur, əksinə daha dərindən tövbə edir. Əslində «mən yaxşı insanam» deyən <b>özünü saleh sayma</b> qırılması ən çətin büt, «mənə Məsih lazım deyil» düşündürən bütdür (Luka 18:9-14).</p><p>Müqəddəs Kitab bunu aydın deyir: <b>«Ona iman edən mühakimə olunmur, iman etməyənsə artıq mühakimə olunub»</b> (Yəhya 3:18). Mühakimə «öləndən sonra həyatını qiymətləndirmək» deyil, <b>Məsihi qəbul edib-etmədiyinə</b> görə artıq qərara alınıb.</p><p class='faq-v'>Romalılara 3:23 · Yəhya 3:18 · Efeslilərə 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> İsaya iman etmədən sadəcə yaxşı insan olmaq bəs etmirmi?",
+  "faq.a2": "<p>Ən çox yayılmış fikir budur, lakin «əsl problemin» nə olduğunu yanlış başa düşür. Bir misal verək.</p><p><b>Tut ki, sən bir quldur gəmisindəsən.</b> Göyərtəni nə qədər tərtəmiz saxlasan, heyətə nə qədər mehriban olsan, həyatını nə qədər nümunəvi yaşasan da, yenə də <b>quldursan</b>, çünki gəmi səni getdiyi yerə (mühakimə limanına) aparır. Problem «əməllərinin balı» deyil, <b>«hansı gəmiyə aid olduğun» (kimliyin)</b> məsələsidir.</p><p>Buna görə Müjdə «daha çox çalış, yaxşı ol» demir, <b>«gəmini dəyiş»</b> deyir. Günah gəmisindən düş və İsaya keç — <b>Allahın övladı</b> olmaq kimi yeni kimliyə. Bu, səy ilə balını qaldırmaq deyil, əlini uzadan Şəxsə güvənib Onun gəmisinə keçməkdir.</p><p>Əslində Müqəddəs Kitab xilası məhz bu «köçürülmə» kimi təsvir edir: <b>«O bizi zülmət hakimiyyətindən xilas edib Öz sevimli Oğlunun Padşahlığına köçürtdü»</b> (Koloslulara 1:13).</p><p>Səhv başa düşmə: <b>bu, yaxşı yaşamağın mənasız olduğunu bildirmir.</b> Yaxşılıq xilasın «şərti» deyil, onun <b>bəhrəsidir</b>. Gəmisini dəyişən artıq qorxudan deyil, <b>övlad məhəbbəti</b> ilə yaxşı yaşayır.</p><p class='faq-v'>Koloslulara 1:13 · Yəhya 1:12 · Yəhya 3:3 · Efeslilərə 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Əgər təcavüzkar «Allah məni bağışladı» deyib rahatlıqla yaşayır, qurban isə hələ də əzab çəkirsə, bu bağışlama həddən artıq ucuz deyilmi?",
+  "faq.a3": "<p>Sual haqlıdır və o ağrı gerçəkdir. Lakin belə bir iddia «Müqəddəs Kitabın bağışlaması» deyil, onun <b>təhrifidir</b>.</p><p><b>① Allahın bağışlaması heç vaxt ucuz deyil.</b> Günah «sanki olmamış kimi» xalçanın altına süpürülmür; Allah Özü onun bədəlini Öz Oğlunun həyatı ilə ödədi. Çarmıx günahın yüngül qəbul edildiyini deyil, nə qədər ağır olduğunu sübut edir: bu, dünyanın ən baha bağışlamasıdır.</p><p><b>② Əsl tövbə bəhrə verir.</b> Əgər təcavüzkar qurbanın önündə «Allah məni bağışladı, mən rahatam» deyə laqeyd dayanırsa, bu tövbə deyil, onun saxta təqlididir (Matta 3:8). Allahla mənim aramdakı bağışlama qurbanın yarasını silmir və onu bağışlamağa məcbur etmir.</p><p><b>③ Günah heç vaxt sadəcə «yaddan çıxarılmır».</b> Hər günah iki yerdən birində ödənilir: <b>ya Məsih onu çarmıxda daşıyır</b> (Ona iman edənlər üçün artıq məhkumluq yoxdur, Romalılara 8:1), <b>ya da Onu axıradək rədd edən özü daşıyır.</b> Beləliklə, «ucuz bəraət» yoxdur. Təcavüzkar həm də bu dünyanın ədaləti qarşısında cavabdehdir (Romalılara 13:1-4).</p><p><b>④ Qurbanın göz yaşları Allahın önündə heç vaxt kiçik deyil.</b> Allah ağlayanlarla ağlayır, hər göz yaşını xatırlayır və sonda onları Özü siləcək (Vəhy 21:4). Buna görə qurban da qisas yükünü tək daşımır, onu ədalətli Allaha həvalə edə bilər (Romalılara 12:19: «Qisas Mənimdir, əvəzini Mən verəcəyəm»).</p><p class='faq-v'>Matta 3:8 · Romalılara 8:1 · Romalılara 13:1-4 · Vəhy 21:4</p>",
+  "respond.h3": "Bəs mən nə edim?",
+  "respond.sub": "Bu məhəbbət məlumat deyil, bir <b>dəvətdir</b>. Sənin yerinə mıxlanan o məhəbbət ürəyinə toxundusa, indi bu duanı yavaş-yavaş, cümlə-cümlə et.",
+  "respond.prayer": "<p>Allahım,</p><p>etiraf edirəm ki, özünü xilas edə bilməyən bir günahkaram.</p><p>İnanıram ki, İsa çarmıxda mənim üçün öldü və dirildi.</p><p>Bütün günahlarımı bağışla və bu gündən etibarən həyatımın Rəbbi ol.</p><p>Məni Öz övladın olaraq qəbul et və yeni bir həyat yaşamağa qoy.</p><p class='amen'>İsanın adı ilə dua edirəm. Amin.</p>",
+  "respond.after": "Əgər bunu səmimi qəlbdən dua etdinsə, Müqəddəs Kitab deyir ki, sən <b>Allahın övladı oldun</b>. Artıq tək deyilsən — yaxınlıqdakı bir kilsə tap və imanda başqaları ilə birgə yeri.",
+  "respond.verse": "«Lakin Onu qəbul edənlərin hamısına, adına iman edənlərə Allahın övladları olmaq ixtiyarını verdi.» — Yəhya 1:12 · Romalılara 10:9-10",
+  "closing.main": "Tək bir Allah,<br>tək bir hekayə ilə,<br>heç vaxt əl çəkməyən bir <em>məhəbbət</em><br>ilə bizi axtarır.",
+  "closing.verse": "«Nə ölüm, nə həyat… nə də başqa bir məxluq bizi Rəbbimiz Məsih İsada olan Allah məhəbbətindən ayırmağa qadir olmayacaq.» — Romalılara 8:38-39",
+  "closing.small": "Bu hekayə xətti üzərinə Qanun, şeir kitabları, peyğəmbərlər və məktublar «əti» əlavə edir.<br>Bundan sonra hansı kitabı açsan, «hekayənin harasında olduğunu» biləcəksən.",
+  "closing.share": "↗ Bu hekayəni paylaş",
+  "about.line": "Koreya protestant kilsəsinin əksəriyyətinin paylaşdığı <b>qurtuluş-tarixi, evangelik və islaha uyğun</b> baxışa əsaslanır.",
+  "about.contact": "Suallar · rəylər — <a id='contact' class='mail'>Bizə yaz</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ƏHDİ-ƏTİQ · BAŞLANĞIC",
+   "title": "Yaradılış",
+   "date": "Başlanğıcda",
+   "one": "Allah «çox yaxşı» olan bir dünya yaratdı.",
+   "people": "Allah; Adəm və Həvva",
+   "events": "Altı günlük yaradılış, Allahın surətində yaradılan insan, Şənbə istirahəti",
+   "q": "Başlanğıcda Allah göyləri və yeri yaratdı.",
+   "cite": "Yaradılış 1:1",
+   "christ": "Dünya «Kəlam» vasitəsilə yarandı. Yəhyanın Müjdəsi bəyan edir ki, bu Kəlam İsanın Özüdür (Yəhya 1:1-3).",
+   "detail": "<p>Müqəddəs Kitab fəlsəfi mübahisə ilə deyil, bir bəyanatla başlayır: <b>«Başlanğıcda Allah…»</b>. Dünya təsadüf deyil, şəxsi bir Allahın əməlidir.</p><ul><li><b>Allahın surəti</b> · bütün məxluqlar arasında yalnız insan Allaha bənzər yaradılıb — Onu tanımaq və dünyaya qayğı göstərmək üçün.</li><li><b>İstirahət</b> · yeddinci günün istirahəti hər şeyin tamam və sülh (şalom) içində olduğunu göstərir: «yaxşı idi».</li><li><b>Eden</b> · qırılmadan əvvəlki dünya, Allah və insanın birlikdə yeridiyi yer.</li></ul>",
+   "next": "Lakin bu bütövlük tezliklə parçalanır…"
+  },
+  {
+   "tag": "ƏHDİ-ƏTİQ · PROBLEM BAŞLAYIR",
+   "title": "Süqut",
+   "date": "Başlanğıcda",
+   "one": "Günah girdi və insanla Allah arasındakı bağ qırıldı.",
+   "people": "Adəm və Həvva; ilan (Şeytan)",
+   "events": "Qadağan olunmuş meyvədən yemə, Edendən qovulma, ölüm və əziyyətin gəlişi",
+   "q": "Mən səninlə qadın arasına… Düşmənçilik salıram. Bu övlad sənin başından vuracaq…",
+   "cite": "Yaradılış 3:15",
+   "christ": "Süqutdan dərhal sonra verilən Müjdənin ilk vədi: «qadının övladı» ilanın başından vuracaq — və bu İsadır (Yaradılış 3:15; Romalılara 16:20; Qalatiyalılara 4:4).",
+   "detail": "<p>«Allah kimi olmaq» istəyinin itaətsizliyi ilə günah dünyaya girir. Nəticə yalnız bir qaydanın pozulması deyil, <b>münasibətin qırılmasıdır</b>.</p><ul><li><b>Qırılan bağlar</b> · Allahla (gizlənmə), bir-biri ilə (günahı başqasının üstünə atma) və təbiətlə (tikan və əziyyət).</li><li><b>Ölüm</b> · «hökmən öləcəksən» xəbərdarlığı reallaşır.</li><li><b>Yaradılış 3:15</b> · lakin mühakimənin ortasında əvvəlcə qurtuluş vədi gəlir. Alimlər buna <b>«protoevangelium» (ilk Müjdə)</b> deyirlər.</li></ul>",
+   "next": "İndi Allah qurtuluşu başlamaq üçün bir adamı çağırır…"
+  },
+  {
+   "tag": "ƏHDİ-ƏTİQ · VƏD",
+   "title": "Əcdadlar",
+   "date": "təxminən e.ə. 2000",
+   "one": "Allah İbrahimə vəd verir: «Sən bərəkət qaynağı olacaqsan».",
+   "people": "İbrahim · İshaq · Yaqub · Yusif",
+   "events": "İbrahimlə bağlanan əhd, İshaqın qurban gətirilməsi, Yaqubun on iki oğlu, Yusifin Misirdə hakimiyyətə yüksəlməsi",
+   "q": "Səndən böyük bir millət törədəcəyəm… Yer üzünün bütün tayfaları sənin vasitənlə xeyir-dua alacaq.",
+   "cite": "Yaradılış 12:2-3",
+   "christ": "«Bütün tayfalar xeyir-dua alacaq» vədi İbrahimin nəslindən olan İsada yerinə yetir (Qalatiyalılara 3:16).",
+   "detail": "<p>Allah bütün bəşəriyyətin problemini tək bir adamı, <b>İbrahimi</b> çağıraraq həll etməyə başlayır. Bunun mərkəzi <b>əhddir (vəd)</b> — böyük bir millət, bir torpaq və «bütün tayfalar üçün xeyir-dua».</p><ul><li><b>İman</b> · İbrahim görünməyən vədə inandı və bu ona salehlik sayıldı (Yaradılış 15:6).</li><li><b>İshaq və Yaqub</b> · vəd növbəti nəsilə keçir; Yaqub (İsrail) on iki qəbilənin atasıdır.</li><li><b>Yusif</b> · qardaşları tərəfindən satıldı, lakin hakimiyyətə yüksəldi — «Allah onu yaxşı işə çevirdi» (Yaradılış 50:20).</li></ul>",
+   "next": "Yusifin ardınca ailə Misirə enir — və qul olur…"
+  },
+  {
+   "tag": "ƏHDİ-ƏTİQ · QURTULUŞ",
+   "title": "Çıxış və səhra",
+   "date": "təxminən e.ə. 1446",
+   "one": "Allah qul olan xalqı qurtardı və onları Özünə xalq etdi.",
+   "people": "Musa, Harun, firon",
+   "events": "On bəla, Pasxa, Qırmızı dənizdən keçid, Sinada On Əmr, ibadət çadırı, səhrada 40 il",
+   "q": "Sizi Özümə xalq edəcəyəm və sizin Allahınız olacağam.",
+   "cite": "Çıxış 6:7",
+   "christ": "Quzunun qanının ölümü uzaqlaşdırdığı Pasxa, bizim üçün çarmıxa çəkilən «bizim Pasxa quzumuz» İsaya işarə edir (1 Korinflilərə 5:7).",
+   "detail": "<p>Əhdi-Ətiqin ən böyük qurtuluşu. Bir vaxtlar qul olan İsrail Allahın qüdrəti ilə azad olunur və Onun <b>xalqı</b> kimi formalaşır.</p><ul><li><b>Pasxa</b> · qapısında quzu qanı olan ev ölümdən qorunur — sonrakı bütün qurbanların nümunəsi.</li><li><b>Qırmızı dəniz</b> · yol bitdiyi yerdə qurtuluş; «o tərəfə keçmək» yeni başlanğıcın simvolu olur.</li><li><b>Sina əhdi</b> · Əmrlər vasitəsilə Allahın xalqı kimi necə yaşamağı öyrənirlər.</li><li><b>İbadət çadırı</b> · Allahın xalqı arasında məskən saldığı köçəri müqəddəs məkan — «İmmanuelin» öncəsi.</li><li><b>40 il</b> · itaətsizlik bir nəsli səhrada dolaşdırır, lakin Allah manna və bulud-od sütunu ilə yanlarında qalır.</li></ul>",
+   "next": "Vəd edilən torpağın kənarında dayanaraq, içəri girməyə hazırlaşırlar…"
+  },
+  {
+   "tag": "ƏHDİ-ƏTİQ · MƏSKUNLAŞMA",
+   "title": "Fəth və hakimlər",
+   "date": "təxminən e.ə. 1400–1050",
+   "one": "Torpağı aldılar, lakin padşah olmadığından hərə öz istədiyini etdi.",
+   "people": "Yeşua; Gideon və Şimşon kimi hakimlər; Rut",
+   "events": "Yerixonun süqutu, Kənanda məskunlaşma, günah–mühakimə–qurtuluş dövranının təkrarı",
+   "q": "O dövrdə İsraildə padşah yox idi, hərə öz gözündə doğru görünən işi edirdi.",
+   "cite": "Hakimlər 21:25",
+   "christ": "Rutun nəslindən Davud, Davudun nəslindən isə İsa gəlir (Matta 1). Hətta qarışıqlıqda belə Məsihin nəsil şəcərəsi davam edir.",
+   "detail": "<p>Yeşuanın rəhbərliyi altında vəd edilən torpağa girirlər, lakin məskunlaşandan sonra tezliklə Allahı unudurlar. Hakimlər kitabı eyni nümunənin təkrarıdır.</p><ul><li><b>Aşağı doğru dövran</b> · günah → zülm → fəryad → hakim qurtarır → yenə günah. Hər dəfə daha da pisləşir.</li><li><b>Hakimlər</b> · Gideon, Şimşon, Devora — müvəqqəti qurtarıcılar, qəhrəman, lakin böyük qüsurları olan.</li><li><b>Rut</b> · qaranlıq bir dövrdə sədaqətin işıqlı hekayəsi; əcnəbi bir qadın Davudun (və İsanın) nəslinə daxil olur.</li></ul>",
+   "next": "Xalq fəryad edir: «Bizə də bir padşah ver!»…"
+  },
+  {
+   "tag": "ƏHDİ-ƏTİQ · QIZIL DÖVR",
+   "title": "Birləşmiş padşahlıq",
+   "date": "təxminən e.ə. 1050–930",
+   "one": "Allah Davuda vəd verir: «Sənin taxtın əbədi qalacaq».",
+   "people": "Şaul · Davud · Süleyman",
+   "events": "İlk padşah Şaul, Davud və Qolyat, Davudla bağlanan əhd, Süleymanın məbədi tikməsi",
+   "q": "Sənin nəslin və padşahlığın Mənim qarşımda əbədi əmin-amanlıqda olacaq, taxtın isə əbədi möhkəm qalacaq.",
+   "cite": "2 Şamuel 7:16",
+   "christ": "«Əbədi taxt» Davudun oğlu olan İsada yerinə yetir — buna görə Ona «Davud Oğlu» deyilir (Luka 1:32-33; Matta 1:1).",
+   "detail": "<p>İsrailin zirvəsi, üç padşahın hakimiyyəti altında.</p><ul><li><b>Şaul</b> · xalqın tələb etdiyi ilk padşah; yaxşı başlanğıc itaətsizliklə korlandı.</li><li><b>Davud</b> · «Allahın ürəyincə olan adam». Qolyatı məğlub edir və Yerusəlimi paytaxt edir. Böyük günah edir (Bat-Şeva), lakin ürəkdən tövbə edir (Məzmur 51).</li><li><b>Davudla əhd (2 Şamuel 7)</b> · Allah Davudun sülaləsini əbədi bərqərar etməyi vəd edir — Məsih ümidinin həlledici kökü.</li><li><b>Süleyman</b> · hikmət və sərvətin zirvəsində Yerusəlimdə <b>məbədi</b> tikir, lakin ömrünün sonunda bütlərə üz tutur.</li></ul>",
+   "next": "Süleymandan sonra padşahlıq iki yerə parçalanır…"
+  },
+  {
+   "tag": "ƏHDİ-ƏTİQ · TƏNƏZZÜL",
+   "title": "Parçalanmış padşahlıq",
+   "date": "e.ə. 930–586",
+   "one": "Cənuba (Yəhuda) və şimala (İsrail) bölünür, millət tədricən xarabalığa sürüklənir.",
+   "people": "Hər iki padşahlığın padşahları; İlyas, Yeşaya, Yeremya kimi peyğəmbərlər",
+   "events": "Padşahlığın bölünməsi, bütpərəstliyin yayılması, peyğəmbərlərin xəbərdarlıqları",
+   "q": "Beləcə İsraillilər Davudun sülaləsinə qarşı qalxdılar və bu indiyə qədər belədir.",
+   "cite": "1 Padşahlar 12:19",
+   "christ": "Bu dövrdə peyğəmbərlər gələcək Məsih barədə getdikcə daha aydın xəbər verirlər (Yeşaya 9:6; Yeşaya 53).",
+   "detail": "<p>Süleymanın oğlunun dövründə millət parçalanır: <b>şimal İsrail padşahlığı</b> (10 qəbilə, paytaxt Samariya) və <b>cənub Yəhuda padşahlığı</b> (2 qəbilə, paytaxt Yerusəlim).</p><ul><li><b>İsrail (şimal)</b> · bütün padşahları bütlərə xidmət edir; e.ə. 722-ci ildə Aşşura təslim olur.</li><li><b>Yəhuda (cənub)</b> · Davudun nəsli davam edir, Xizqiya və Yoşiya kimi bir neçə yaxşı padşah var, lakin ümumilikdə tənəzzül edir.</li><li><b>Peyğəmbərlər</b> · İlyas, Amos, Yeşaya, Yeremya «geri qayıdın!» deyə fəryad edir. Məsih peyğəmbərliyi burada ən zəngin nöqtəyə çatır (Yeşaya 53-ün «əzab çəkən qulu»).</li></ul>",
+   "next": "Nəhayət xəbərdarlıq edilən mühakimə gəlir — onları sürgünə aparırlar…"
+  },
+  {
+   "tag": "ƏHDİ-ƏTİQ · MÜHAKİMƏ",
+   "title": "Sürgün",
+   "date": "e.ə. 722 / 586",
+   "one": "Padşahlıq çökür və xalq yad ölkələrə sürülür.",
+   "people": "Daniel, Yezekel, Navuxodonosor",
+   "events": "İsrail Aşşura təslim olur (722), Yəhuda Babilə təslim olur və məbəd dağıdılır (586)",
+   "q": "Babil torpağında olanda Sionu yada salardıq, Çay kənarında oturaraq ağlayardıq.",
+   "cite": "Məzmur 137:1",
+   "christ": "Ümidsizliyin dərinliyində Yeremya «Yeni Əhd» vəd edir (Yeremya 31:31) — İsanın Son Şam yeməyində bağladığı həmin əhd.",
+   "detail": "<p>Xəbərdarlıqlar reallaşır. Məbəd yanır və xalq Babilə aparılır — torpağı, padşahı və məbədi itirir: ən aşağı nöqtə.</p><ul><li><b>İki süqut</b> · İsrail (Aşşur, e.ə. 722) və Yəhuda (Babil, e.ə. 586).</li><li><b>Daniel</b> · bütpərəst sarayda belə iman nümunəsi (aslan quyusu); gələcək «əbədi padşahlıq» görüntülərini görür.</li><li><b>Bir ümid qığılcımı</b> · quru sümüklərin dirilməsi görüntüsü (Yezekel 37) və Yeremyanın «Yeni Əhdi» qaranlıqda gələcəyə işarə edir.</li></ul>",
+   "next": "Yetmiş il sonra Allah yol açır — onlar evə qayıdırlar…"
+  },
+  {
+   "tag": "ƏHDİ-ƏTİQ · BƏRPA",
+   "title": "Sürgündən qayıdış",
+   "date": "e.ə. 538–430",
+   "one": "Geri qayıdıb məbədi və divarları yenidən tikirlər.",
+   "people": "Üzeyir, Nehemya, Ester, Zerubbabil",
+   "events": "Kirin fərmanı ilə qayıdış, məbədin yenidən tikilməsi, Yerusəlim divarlarının bərpası, Kəlamın bərpası",
+   "q": "Rəbbin verdiyi sevinc sizin qüvvətinizdir.",
+   "cite": "Nehemya 8:10",
+   "christ": "Əhdi-Ətiqin son kitabı Malaki, Məsihin yolunu hazırlayacaq bir elçi barədə xəbər verərək bitir: «Mən Öz elçimi göndərirəm» (Malaki 3:1).",
+   "detail": "<p>Fars padşahı Kirin fərmanı ilə (e.ə. 538) qayıdış başlayır. Üç dalğada geri qayıdıb dağılanı yenidən tikirlər.</p><ul><li><b>Zerubbabil</b> · məbədi yenidən tikir (e.ə. 516-da tamamlanır).</li><li><b>Üzeyir</b> · Kəlamı yenidən öyrədir və imanı dirçəldir.</li><li><b>Nehemya</b> · Yerusəlim divarlarını 52 günə yenidən tikir.</li><li><b>Ester</b> · Farsda olan yəhudiləri qırğından xilas edir — «bəlkə də bu vaxt üçün».</li><li><b>Hələ də həsrət</b> · məbəd ayaqdadır, lakin Davud kimi padşah yoxdur. Xalq Məsihi gözləyir.</li></ul>",
+   "next": "Və sonra… sanki göy susdu, 400 il keçir."
+  },
+  {
+   "tag": "ƏHDLƏR ARASI · SƏHNƏ HAZIRLANIR",
+   "title": "Sükut illəri",
+   "date": "təxminən e.ə. 430–4",
+   "one": "400 il peyğəmbər səsi olmadan — lakin səhnə sakitcə hazırlanırdı.",
+   "people": "Makedoniyalı İsgəndər, Makkabilər, Roma",
+   "events": "Fars → Yunanıstan → Makkabi müstəqilliyi → Roma hakimiyyəti",
+   "q": "Lakin vaxt tamam olanda Allah qadından, Qanun altında doğulan Öz Oğlunu göndərdi.",
+   "cite": "Qalatiyalılara 4:4",
+   "christ": "Bütün bu «səhnə hazırlığı» İsanın məhz «vaxt tamam olanda» gəlməsi üçün Allahın işi idi.",
+   "detail": "<p>Malakidən Əhdi-Cədidə qədər təxminən 400 il yeni Müqəddəs Yazı olmadan keçir. Lakin tarixin arxasında Allah Müjdənin yolunu hazırlayırdı.</p><ul><li><b>İmperiyaların əl dəyişməsi</b> · Fars → Yunanıstan (İsgəndər, e.ə. 333) → Ptolemeylər və Selevkilər → Makkabi üsyanı (e.ə. 167) → Roma (e.ə. 63).</li><li><b>Yunan dili</b> · İsgəndərin fəthləri yunan dilini ümumi dilə çevirir; Əhdi-Ətiq yunan dilinə tərcümə olunur (Septuaginta), bu da Müjdənin sürətlə yayılması üçün yol açır.</li><li><b>Roma yolları və sülhü</b> · yaxşı tikilmiş yollar və «Pax Romana» missiya üçün magistral olur.</li><li><b>Sinaqoqlar və cərəyanlar</b> · sinaqoq təlimi kök salır; fariseylər və sadukeylər meydana çıxır; və <b>Məsih həsrəti</b> yetkinləşir.</li></ul>",
+   "next": "Sonra sükut pozulur — nəhayət, O gəlir."
+  },
+  {
+   "tag": "ƏHDİ-CƏDİD · YERİNƏ YETMƏ",
+   "title": "İsanın gəlişi",
+   "date": "təxminən e.ə. 4 – eramızın 30",
+   "one": "Vəd edilən Məsih gəldi, öldü və dirildi.",
+   "people": "İsa, on iki şagird, Vəftizçi Yəhya",
+   "events": "Mücəssəmə, təlim və möcüzə xidməti, çarmıxda ölüm, üçüncü gün dirilmə",
+   "q": "Kəlam bəşər olub… lütf və həqiqətlə dolu olaraq aramızda məskən saldı.",
+   "cite": "Yəhya 1:14",
+   "christ": "Qadının övladı (2-ci səhnə), İbrahimin xeyir-duası (3), Pasxa quzusu (4), Davudun əbədi padşahı (6), Yeni Əhd (8) — hamısı tək bir Şəxsdə, İsada yerinə yetir: bizim əsl Peyğəmbər, Kahin və Padşahımız.",
+   "detail": "<p>Sükut pozulur; Vəd Edilən gəlir. Dörd Müjdə İsanın həyatına, ölümünə və dirilməsinə dörd bucaqdan şəhadət edir.</p><ul><li><b>Mücəssəmə</b> · Allah insan oldu (İmmanuel, «Allah bizimlədir»), Bet-Lexemin sadə yerində.</li><li><b>Xidmət</b> · Allahın Padşahlığını öyrədir, xəstələri sağaldır, günahkarları çağırır. «Məni görən Atanı görüb.»</li><li><b>Çarmıx</b> · süqutun (2-ci səhnə) gətirdiyi günah və ölümün bədəlini bizim yerimizə ödəyir. Əsl Pasxa quzusu.</li><li><b>Dirilmə</b> · üçüncü gün dirilərək günahın, ölümün və Şeytanın gücünü qırır; hələ çarmıxda «başçıları və hakimləri tərk-silah edib… onlara qələbə çaldı» (Koloslulara 2:15).</li></ul><p>Buna görə İsa bizim <b>əsl Peyğəmbərimizdir</b> (Allaha gedən yolu göstərir), <b>əsl Kahinimizdir</b> (Öz bədəni ilə günahı kəffarə edir) və <b>əsl Padşahımızdır</b> (günahı, ölümü və Şeytanı məğlub edir və əbədi hökmranlıq edir).</p>",
+   "next": "Dirilən İsa şagirdlərini dünyaya göndərir…"
+  },
+  {
+   "tag": "ƏHDİ-CƏDİD · YAYILMA",
+   "title": "Kilsənin başlanğıcı",
+   "date": "təxminən eramızın 30-dan",
+   "one": "Ruh gəlir və Müjdə yer üzünün qurtaracağınadək yayılır.",
+   "people": "Peter, Paul, ilk kilsə",
+   "events": "Əllinci gündə Ruhun tökülməsi, kilsənin doğulması, Müjdənin təqiblər vasitəsilə Yerusəlimdən Romaya yayılması",
+   "q": "Müqəddəs Ruh üzərinizə enəndə siz qüvvə alacaqsınız… yer üzünün qurtaracağınadək hər yerdə Mənim şahidlərim olacaqsınız.",
+   "cite": "Həvarilərin İşləri 1:8",
+   "christ": "Bu hekayə bu gün də davam edir. Müqəddəs Kitab İsanın yenidən gələcəyi və hər şeyi yeniləyəcəyi vədi ilə bitir (Vəhy 21).",
+   "detail": "<p>İsa göyə qalxandan sonra vəd edilən Ruh Əllinci gündə gəlir və kilsə doğulur. Müjdə partlayışla yayılır.</p><ul><li><b>Əllinci gün</b> · Ruh qorxan şagirdləri cəsur şahidlərə çevirir.</li><li><b>Peter</b> · Yerusəlimdə yəhudilərə Müjdəni təbliğ edir.</li><li><b>Paul</b> · təqibçidən həvariyə, bütpərəst dünyasında kilsələr qurur və məktublar yazır.</li><li><b>Yer üzünün qurtaracağınadək</b> · Yerusəlim → Yəhudeya → Samariya → Roma. İbrahimə verilən «bütün tayfalar» vədi reallaşır.</li><li><b>Və biz</b> · hekayə bitmir; İsanın gəlişinə və yeni göy ilə yeni yerə doğru irəliləyir.</li></ul>",
+   "next": "Lakin hekayə burada bitmir…"
+  },
+  {
+   "tag": "ƏHDİ-CƏDİD · KAMİLLƏŞMƏ",
+   "title": "Bərpa (hər şey yeni)",
+   "date": "Gələcəkdə",
+   "one": "İsa yenidən gəlir və hər şeyi yeniləyir.",
+   "people": "Geri qayıdan İsa; bütün millətlər",
+   "events": "İkinci gəlişi, son mühakimə, günah·ölüm·göz yaşlarının sonu, yeni göy və yeni yer",
+   "q": "Allah onların bütün göz yaşlarını siləcək. Artıq ölüm olmayacaq. Yas, nalə və ağrı bir daha olmayacaq.",
+   "cite": "Vəhy 21:4",
+   "christ": "İlk yaradılışın Edeni nəhayət «Yeni Yerusəlim» kimi bərpa olunur. Allah Öz xalqı ilə əbədi məskən salır — İmmanuelin tamlığı (Vəhy 21:3; Matta 1:23).",
+   "detail": "<p>Müqəddəs Kitab kilsə dövründə bitmir. Onun son kitabı Vəhy, hər şeyi tamamlamaq üçün <b>yenidən gələn</b> İsanı göstərir.</p><ul><li><b>İkinci gəlişi</b> · vəd edilən Padşah izzətlə qayıdır.</li><li><b>Son qələbə</b> · Şeytan və ölüm əbədi məğlub edilir, Məsih padşahların Padşahı kimi hökmranlıq edir (1 Korinflilərə 15:25-26; Vəhy 20:10).</li><li><b>Mühakimə və dirilmə</b> · hər haqsızlıq düzəldilir və ölülər dirilir.</li><li><b>Yeni göy və yeni yer</b> · günah, ölüm, göz yaşları və ağrı əbədi yox olur (Vəhy 21:4).</li><li><b>Bərpa olunan Eden</b> · başlanğıcdan daha gözəl bir «Yeni Yerusəlim»də Allah Öz xalqı ilə əbədi məskən salır — bütün Müqəddəs Kitabın yönəldiyi məqsəd.</li></ul><p>Buna görə indi <b>«artıq, lakin hələ deyil»</b> dövrüdür: İsada xilas <b>artıq</b> tamamlanıb, lakin onun kamilliyi <b>hələ</b> gözlənilir.</p>",
+   "next": "Bəs bütün bu hekayə «mənim» üçün nə deməkdir?"
+  }
+ ],
+ "love": [
+  "Hekayə mühakimə ilə deyil, məhəbbətlə yaradılan bir dünya ilə başlayır.",
+  "İnsan günah etdiyi an Allah elə oradaca qurtuluşu vəd etdi.",
+  "Allah əvvəlcə layiq olmayan bir adamı tapdı, onu adı ilə çağırdı və bərəkət qaynağı etdi.",
+  "Qul olan xalqın naləsini eşitdi və onları qurtarmaq üçün Özü endi.",
+  "Dəfələrlə xəyanət olunsa da, onlar hər fəryad edəndə bir qurtarıcı göndərib onları yenidən qaldırdı.",
+  "Yıxılan Davudu belə atmadı; onun vasitəsilə əbədi bir Padşah vəd etdi.",
+  "Ona arxa çevirən xalqa peyğəmbərlər göndərməyə davam etdi, yalvararaq: «Xahiş edirəm, geri qayıt».",
+  "Sürgünün ən qaranlıq torpağına belə onlarla birgə endi və bərpanı vəd etdi.",
+  "Dəfələrlə uğursuzluğa düçar olan xalqdan belə vədini geri götürmədi, onları yenidən qaldırdı.",
+  "400 illik sükut dövründə belə, gözəgörünməz şəkildə qurtuluşun yolunu hazırlayırdı.",
+  "Biz hələ günahkar ola-ola O, Öz Oğlunu göndərdi və həyatını verdi.",
+  "Aldığımız o məhəbbəti indi bütün dünyaya axıtmaq üçün göndərir.",
+  "Nəhayət hər göz yaşını siləcək və hər şeyi məhəbbətlə yeniləyəcək."
+ ],
+ "mis": [
+  {
+   "w": "«Allah niyə günah edə bilən bir varlıq yaratdı? Heç yaratmasaydı daha yaxşı olmazdımı?»",
+   "t": "Allah dünyanı və insanı hər hansı bir əskiklikdən deyil, daşan məhəbbətdən yaratdı. İnsanı <b>Allahla münasibət qura bilən şəxs</b> kimi yaratmaq özlüyündə məhəbbətdir. Günahın girməsi belə Allahın qurtuluş planından kənarda deyildi (Efeslilərə 1:4-5). Müqəddəs Kitabın açılış səhnəsi mühakimə deyil, məhəbbətdir."
+  },
+  {
+   "w": "«Yalnız bir meyvə yedi deyə qovulmaq, hətta ölümə məhkum olmaq — Allah həddən artıq sərt deyilmi?»",
+   "t": "Edendən qovulmaq həm mühakimə, həm də mərhəmət idi. Əgər insan Allahdan ayrı, o qırıq vəziyyətdə həyat ağacından yeyib əbədi yaşasaydı, əbədi olaraq əzabda qapanardı (Yaradılış 3:22). Ölümə yol vermək geri dönüş yolunu açdı və elə oradaca Allah bir Qurtarıcı vəd etdi (Yaradılış 3:15). Mühakimənin içində artıq məhəbbət var idi."
+  },
+  {
+   "w": "«İbrahim böyük imanına görə seçildi — Müqəddəs Kitabdakı bütün şəxslər əxlaq qəhrəmanları deyilmi?»",
+   "t": "İbrahim də yalan danışdı və şübhə etdi, Yaqub isə hiyləgər idi. Allah «layiqli» adamları deyil, qüsurlu adamları lütfü ilə çağırdı. Seçimin səbəbi onların yaxşılığı deyil, Allahın sadiq məhəbbəti idi (Qanunun təkrarı 7:7-8)."
+  },
+  {
+   "w": "«Qanun (Əmrlər) xilas olmaq üçün keçməli olduğun bir imtahan və ya şərt deyilmi?»",
+   "t": "Allah onları Qanunu verməzdən <b>əvvəl</b> qurtardı. Hətta On Əmr xilas bəyanatı ilə başlayır: «Səni Misirdən çıxaran Allahın Rəbb Mənəm» (Çıxış 20:2). Qanun «xilas olmaq üçün ona əməl et» demək deyil, artıq lütflə qurtarılmış xalqın necə yaşamalı olduğuna dair məhəbbət göstərişidir (Qanunun təkrarı 7:7-9). Həmişə əvvəlcə lütf; itaət isə cavabdır."
+  },
+  {
+   "w": "«Kənanın fəthi amansız bir qırğın idi — deməli Əhdi-Ətiqin Allahı həqiqətən qəddardır.»",
+   "t": "Bu, bir cümlə ilə həll olunmayan və ehtiyatlı yanaşma tələb edən çətin mövzudur. Lakin Müqəddəs Kitab bunu təsadüfi zorakılıq kimi deyil, həddindən artıq pisliyə (uşaq qurbanı da daxil olmaqla) qarşı əsrlərlə davam edən səbrdən sonra mühakimə kimi təqdim edir (Yaradılış 15:16; Qanunun təkrarı 9:4-5; Levililər 18:24-25). Allah mühakimədə belə tələsmir və Ona üz tutanları, hətta Raxav və Rut kimi əcnəbiləri də sevinclə qəbul edir (Yeşua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "«Davud qüsursuz bir qəhrəman idi — buna görə ona “Allahın ürəyincə olan adam” deyildi.»",
+   "t": "Davud zina etdi, hətta qətlə də əl atdı. «Allahın ürəyincə olan adam» qüsursuz demək deyil, günahını gizlətməyən, dərindən tövbə edən və həmişə Allaha qayıdan demək idi (Məzmur 51). Allahın məhəbbəti ağır yıxılanı belə atmaz."
+  },
+  {
+   "w": "«Peyğəmbər gələcəyi xəbər verən falçıdır / Əhdi-Ətiqin Allahı yalnız qəzəbdən ibarətdir.»",
+   "t": "Peyğəmbərin ürəyi «gələcəyi söyləmək» deyil, Allahın ağrılı yalvarışıdır: «Xahiş edirəm, geri qayıt». Hətta mühakimə xəbərdarlığı da məhv etmək üçün deyil, insanları geri döndərib xilas etmək üçündür — «pis adamın ölümündən zövq almıram» (Yezekel 33:11)."
+  },
+  {
+   "w": "«Sürgün Allahın İsraili tamamilə tərk etdiyini sübut edir.»",
+   "t": "Sürgün tərk etmək deyil, sevimli övlada qarşı tərbiyə və saflaşdırma idi (İbranilərə 12:6). Allah getmədi; sürgünün ortasında Daniellə birgə idi və vəd etdi: «sizin üçün nə fikirləşdiyimi bilirəm… firavanlıq, sizə ümidli gələcək vermək üçündür» (Yeremya 29:11)."
+  },
+  null,
+  {
+   "w": "«400 il söz olmadığına görə, Allah getmişdi və ya istirahət edirdi.»",
+   "t": "Sükut yoxluq demək deyil. O, sadəcə danışmadı, bütün bu müddətdə isə qurtuluşun səhnəsini hazırlamaq üçün imperiyaları, dilləri və yolları hərəkətə gətirirdi. Ən sakit anda Allah ən çox, məhəbbətlə işləyirdi (Qalatiyalılara 4:4)."
+  },
+  {
+   "w": "«İsa sadəcə yaxşı əxlaq müəllimlərindən biridir / çarmıx faciəvi bir məğlubiyyət idi.»",
+   "t": "İsa Özünün Allah olduğunu bəyan etdi (Yəhya 8:58), və çarmıx təsadüf və ya məğlubiyyət deyil, planlaşdırılmış məhəbbət idi. O, zorla aparılmadı, həyatını Öz iradəsi ilə verdi (Yəhya 10:18). «Heç kəsin məhəbbəti dostları uğrunda canını qurban verən adamın məhəbbətindən üstün ola bilməz» (Yəhya 15:13)."
+  },
+  {
+   "w": "«Kilsə kamil insanların dini klubu, yaxud sadəcə bir binadır.»",
+   "t": "Kilsə «kamil müqəddəslərin» icması deyil, <b>bağışlanmış günahkarların</b> icmasıdır. Hətta həvari Paul özünü «günahkarların ən pisi» adlandırdı (1 Timoteyə 1:15). İlk kilsə də mübahisə etdi və büdrədi (Həvarilərin İşləri 6:1; 1 Korinflilərə 1:11). Kilsə öyünmək yeri deyil, aldıqları məhəbbəti ötürən insanlardır (Yəhya 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "İlk günah — saleh olan yoxdur",
+   "body": "Problem «bir neçə pis əməl» deyil, ürəyin kökündədir. Adəmdən bəri hər kəs günah altında doğulur və öz gücü ilə Allaha çata bilməz.",
+   "vref": "Romalılara 3:10-12, 23",
+   "vtext": "Saleh olan yoxdur, Bir nəfər belə, yoxdur… Çünki hamı günah edib, Allahın izzətindən məhrum olub"
+  },
+  {
+   "title": "Qanun məni xilas edə bilməz",
+   "body": "Qanun nərdivan deyil, güzgüdür. Nə qədər çox çalışsan, o qədər çox göstərir ki, necə qüsurlusan. Onun məqsədi bizi Məsihə yönəltməkdir.",
+   "vref": "Romalılara 3:20 · Qalatiyalılara 3:24",
+   "vtext": "Qanun vasitəsilə günah dərk olunur… Qanun bizə Məsihə qədər yol göstərən mürəbbimiz oldu"
+  },
+  {
+   "title": "Lütflə — bir hədiyyə, səy deyil",
+   "body": "Xilas qazandığın xidmətin haqqı deyil, layiq olmayanlara verilən pulsuz bir hədiyyədir. Buna görə heç kim öyünə bilməz.",
+   "vref": "Efeslilərə 2:8-9",
+   "vtext": "iman vasitəsilə, lütflə xilas oldunuz… Əməllərlə deyil ki, heç kim öyünə bilməsin"
+  },
+  {
+   "title": "İmanla saleh sayılmaq",
+   "body": "Qanuna əməl etməklə deyil, İsa Məsihə iman etməklə saleh sayılırsan — öz salehliyinə deyil, Onunkuna bürünürsən.",
+   "vref": "Romalılara 5:1 · Qalatiyalılara 2:16",
+   "vtext": "imanla saleh sayıldığımız üçün… insan Qanuna əməl etməklə deyil, yalnız İsa Məsihə iman etməklə saleh sayılır"
+  },
+  {
+   "title": "Müqəddəs Kitab İsaya işarə edir",
+   "body": "Müqəddəs Kitab böyük adamların tərcümeyi-halı və ya özünə kömək kitabı deyil. Yaradılışdan Vəhyə qədər hər səhifə bir Şəxsə şəhadət edir — İsa Məsihə.",
+   "vref": "Yəhya 5:39 · Luka 24:27",
+   "vtext": "onlar da Mənim barəmdə şəhadət edir… Müqəddəs Yazıların hamısında Özü haqqında olanları onlara izah etdi"
+  },
+  {
+   "title": "Allahın Padşahlığı — İsanın əsas mesajı",
+   "body": "İsanın ən çox öyrətdiyi mövzu. Allahın Padşah kimi hökmranlığı İsa ilə bu dünyaya girdi və O qayıdanda tamamlanacaq. Çarmıxı və dirilməsi ilə İsa günahı, ölümü və Şeytanı məğlub edən əsl Padşahdır.",
+   "vref": "Mark 1:15",
+   "vtext": "Vaxt yetişib, Allahın Padşahlığı yaxınlaşıb. Tövbə edin və Müjdəyə inanın"
+  },
+  {
+   "title": "Müjdə — O, hər şeyi tamamladı",
+   "body": "Ödəyə bilməyəcəyim günah borcunu İsa mənim yerimə çarmıxda ödədi və dirilərək ölümü məğlub etdi. Mən «bunu et»ə deyil, «tamam oldu»ya söykənirəm.",
+   "vref": "Yəhya 19:30 · Romalılara 5:8",
+   "vtext": "«tamam oldu»… biz hələ günahkar ola-ola Məsih bizim uğrumuzda öldü"
+  }
+ ]
+}

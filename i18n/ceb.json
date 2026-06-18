@@ -1,0 +1,343 @@
+{
+ "menuName": "Cebuano",
+ "htmlLang": "ceb",
+ "dir": "ltr",
+ "brand": "Ang Biblia sa Usa ka Pag-scroll",
+ "docTitle": "Ang Biblia sa Usa ka Pag-scroll · Gikan sa Paglalang hangtod sa Iglesia",
+ "share": {
+  "title": "Ang Biblia sa Usa ka Pag-scroll",
+  "text": "Sa usa lang ka pag-scroll, tukibi ang dakong sugilanon sa Biblia — ug kon nganong mianhi si Jesus."
+ },
+ "ui": {
+  "people": "Mga tawo",
+  "events": "Mahinungdanong mga panghitabo",
+  "christLabel": "Nagtumong kang Jesus",
+  "loveLabel": "Gugmang dili motugot",
+  "mythWrong": "Komon nga sayop nga sabot",
+  "mythRight": "Ang tinuod",
+  "more": "Basaha pa",
+  "version": "(Ang Biblia)"
+ },
+ "labels": {
+  "start": "Sugod",
+  "thread": "Ang sugilanon",
+  "gospel": "Ang Maayong Balita",
+  "about": "Mahitungod"
+ },
+ "s": {
+  "ui.share": "↗ Ipaambit",
+  "ui.toast": "Nakopya na ang link 📋",
+  "ui.footer": "Ang Biblia sa Usa ka Pag-scroll · Ang mga kinutlo gikan sa Ang Biblia",
+  "hero.kicker": "GIKAN SA PAGLALANG HANGTOD SA IGLESIA",
+  "hero.title": "Ang Biblia,<br><span class=\"em\">sa usa ka pag-scroll</span>",
+  "hero.sub": "Sa usa lang ka pag-scroll, tukibi ang dakong sugilanon sa Biblia — ug kon nganong mianhi si Jesus.",
+  "hero.cue": "I-scroll paubos<span>↓</span>",
+  "thread.eyebrow": "USA KA TUDLING-PULONG NGA NAGHIUSA SA TANAN",
+  "thread.h2": "Sa kataposan, ang Biblia usa lang ka sugilanon",
+  "thread.flow": "<b>Saad</b><span class=\"arw\">→</span><b>Paghulat</b><span class=\"arw\">→</span><b>Katumanan</b>",
+  "thread.note": "Ang Dios <b>nagsaad</b> (ang kasabotan), ang katawhan dugay nga <b>naghulat</b>, ug sa kataposan ang tanan <b>natuman</b> ug nahingpit diha kang Jesus. Sunda ang 13 ka talan-awon sa ubos pinaagi niini nga agianan — i-tap ang <b>“Basaha pa”</b> sa matag kard alang sa mas lawom nga sugilanon.",
+  "gospel.eyebrow": "UNSA ANG KAHULOGAN NIINING SUGILANON ALANG “KANAKO”",
+  "gospel.h2": "Ang tinuod nga kasingkasing sa Biblia",
+  "gospel.lead": "Ang Biblia <b>dili usa ka libro sa pamatasan nga nag-ingon “pagmaayo nga tawo.”</b>",
+  "gospel.sublead": "Kini ang sugilanon kon giunsa sa Dios, <b>pinaagi lamang sa grasya</b>, pagluwas ang mga makasasala nga dili gayod makaluwas sa ilang kaugalingon. Sa sentro niini nagbarog si Jesu-Cristo.",
+  "gospel.mirror": "<h3>Ang walay kataposang siklo sa Israel usa gayod ka hulagway “kanako”</h3><div class=\"cycle\"><b>Pagsimba sa diosdios</b><span class=\"a\">→</span><b>Pag-antos</b><span class=\"a\">→</span><b>Pagtuaw</b><span class=\"a\">→</span><b>Pagluwas sa Dios</b><span class=\"a\">→</span><b>Pagsimba na usab sa diosdios…</b></div><p>Gikan sa mga maghuhukom hangtod sa pagkabihag, gibalik-balik sa Israel kini nga siklo nga walay kataposan. Wala kini itala sa Biblia aron atong biaybiayon, “Pagkamakaluluoy gayod nila.”</p><p>Kini usa ka <b>salamin</b>. Ang punto dili “mao kana ang gibuhat sa Israel” kondili <b>“mao usab kana ang akong gibuhat”</b> (1 Corinto 10:11).</p><p>Ang <b>diosdios</b> dili lamang usa ka kinulit nga estatuwa. Kini <b>bisan unsa nga atong gihigugma o gisaligan labaw pa sa Dios</b> — salapi, kalampusan, pag-uyon sa uban, mga tawo, bisan ang akong kaugalingon. Ug ang paggamit sa Dios isip <b>himan aron makab-ot ang akong gusto</b> usa usab ka pagsimba sa diosdios.</p><p class=\"punch\">Sa kataposan, ang labing lawom nga diosdios mao “ang akong kaugalingon, nga naglingkod sa trono sa Dios.”</p>",
+  "gospel.coreIntro": "Busa unsaon man sa Dios pagluwas ang maong makasasala? Ania ang kasingkasing sa Maayong Balita nga gimantala sa Biblia.",
+  "gospel.crux": "<p class=\"crux-lead\">Ang tibuok Biblia nagtumong sa usa ka dapit.</p><p>Dili makahimo ang tawo sa pagbungkag sa siklo sa sala pinaagi sa iyang kaugalingon, ug walay bisan usa nga matarong. Busa kinahanglan nga adunay <b>mobayad sa bili puli kanato</b>.</p><p>Si Jesus wala mianhi aron lamang sa paghatag ug maayong pagtulon-an. Kay wala nay laing paagi aron luwason ako, <b>wala siyay laing kapilian kondili ang pag-anhi.</b></p><p class=\"crux-punch\">Ang angay untang nagbitay niadtong krus mao <b>ako</b>.<br>Gipas-an ni Jesus ang <b>akong sala</b> ug gilansang didto puli kanako.</p><div class=\"crux-verse\">“Apan siya gisamaran tungod sa atong kalapasan, napangos siya tungod sa atong mga kasal-anan … ug pinaagi sa iyang mga labod kita nangaayo.” — Isaias 53:5</div>",
+  "faq.h": "Aduna pa bay nagsamok kanimo?",
+  "faq.q1": "<span class=\"arr\">▸</span> Busa ang usa ka mamumuno motuo lang ug moadto sa langit, samtang ang usa ka tibuok kinabuhi nga maayong tawo nga wala motuo moadto sa impyerno?",
+  "faq.a1": "<p>Maayo kana nga pangutana. Apan duha ka sayop nga sabot ang natago sulod niini.</p><p><b>① Wala bahina sa Biblia ang mga tawo ngadto sa “maayo ug daotan.”</b> Ang sukdanan dili “mas maayo kaysa sa kasikbit” kondili “ang hingpit nga pagkabalaan sa Dios.” Sa iyang atubangan, walay usa nga “igo nga maayo” (Roma 3:23). Busa kini dili “maayong tawo batok sa mamumuno,” kondili sama sa duha ka tawo nga managsama ang makamatay nga sakit — ang usa modawat sa tambal, ang usa misalikway niini, nga nag-ingon, “Mas himsog ako kaysa nianang tawhana.”</p><p><b>② Usa lamang ka butang ang nagbahin sa langit ug impyerno.</b> Dili ang iskor sa binuhatan, kondili <b>kon imo bang nadawat si Jesu-Cristo isip Ginoo ug nasulbad na ang imong suliran sa sala.</b> Ang tawo kansang sala nasulbad pinaagi sa dugo ni Cristo moadto sa langit; ang wala gayod modawat kaniya, kansang sala nagpabilin, dili. Walay gidaghanon sa maayong binuhatan nga makasulbad sa maong suliran sa sala.</p><p>Busa ang langit ug impyerno dili usa ka “ganti sa maayong panggawi” kondili usa ka butang sa <b>relasyon kang Cristo</b>. Ug ang “pagtuo” dili pag-uyon sa hunahuna kondili pag-ilis kon kinsa ang nagdumala sa imong kinabuhi — si bisan kinsa nga tinuod nga modawat kaniya dili magmagahi kondili maghinulsol nga mas lawom. Sa pagkatinuod, ang pagpakamatarong sa kaugalingon (“maayo ako nga tawo”) mao ang labing lisod nga diosdios nga bungkagon, ang naghimo kanato sa paghunahuna nga dili kita magkinahanglan kang Cristo (Lucas 18:9-14).</p><p>Tin-aw ang Biblia: <b>“Ang nagtuo kaniya dili na hinukman sa silot apan ang wala magtuo hinukman na sa silot”</b> (Juan 3:18). Ang paghukom dili “pag-iskor sa imong binuhatan human ka mamatay,” kondili nahukman na sumala sa <b>kon imo bang nadawat si Cristo</b>.</p><p class=\"faq-v\">Roma 3:23 · Juan 3:18 · Efeso 2:8-9 · Lucas 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Dili ba igo na nga magpuyo lang ako ug maayong kinabuhi bisan walay pagtuo kang Jesus?",
+  "faq.a2": "<p>Mao kini ang labing komon nga hunahuna, apan wala kini makasabot kon unsa ang tinuod nga suliran. Ania ang usa ka hulagway.</p><p><b>Pananglitan, anaa ka sa usa ka barko sa mga pirata.</b> Bisan unsa pa kahinlo nga imong tipigan ang salog, bisan unsa pa nimo kabuotan sa mga tripulante, bisan unsa pa ka-ehemplo sa imong kinabuhi — <b>pirata</b> ka gihapon, kay gidala ka man uban sa barko ngadto sa padulngan niini (ang dunggoanan sa paghukom). Ang suliran dili “iskor sa imong binuhatan” kondili <b>“asa nga barko ka nahisakop” (ang imong pagkatawo)</b>.</p><p>Busa ang Maayong Balita wala mag-ingon “paninguha pa nga magmaayo”; kini nag-ingon, <b>“ilis ug barko.”</b> Kanaog sa barko sa sala ug tabok ngadto kang Jesus — ngadto sa bag-ong pagkatawo isip <b>anak sa Dios</b>. Dili kini pagtaas sa imong iskor pinaagi sa paninguha, kondili pagsalig sa Usa nga nagtunol sa iyang kamot ug pagtabok ngadto sa iyang barko.</p><p>Sa pagkatinuod, gihulagway sa Biblia ang kaluwasan ingon niini gayong pagbalhin — <b>“Siya mao ang nagluwas kanato gikan sa gahom sa kangitngit ug nagbalhin kanato ngadto sa gingharian sa iyang pinalanggang Anak”</b> (Colosas 1:13).</p><p>Ayaw masayop: <b>wala kini magpasabot nga walay pulos ang maayong kinabuhi.</b> Ang pagkamaayo dili ang “kondisyon” sa kaluwasan kondili ang <b>bunga</b> niini. Si bisan kinsa nga nakailis na ug barko karon magpuyo ug maayo dili tungod sa kahadlok kondili tungod sa gugma sa usa ka anak.</p><p class=\"faq-v\">Colosas 1:13 · Juan 1:12 · Juan 3:3 · Efeso 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Kon ang nakasala mibati ug kalinaw, nga nag-angkon nga “Gipasaylo na ako sa Dios,” samtang ang biktima nag-antos pa gihapon — dili ba barato kaayo ang grasya?",
+  "faq.a3": "<p>Maayo ang pangutana, ug tinuod ang kasakit. Apan ang maong pag-angkon dili “ang pagpasaylo sa Biblia” — kini usa ka <b>pagtuis</b> niini.</p><p><b>① Ang pagpasaylo sa Dios dili gayod barato.</b> Ang sala wala tagoi nga daw wala mahitabo; ang Dios mismo nagbayad sa bili niini pinaagi sa kinabuhi sa iyang kaugalingong Anak. Ang krus dili pamatuod nga ang sala gipakawalay-bili, kondili nga ang sala bug-at kaayo — ang labing mahal nga pagpasaylo sa kalibotan.</p><p><b>② Ang tinuod nga paghinulsol mamunga.</b> Kon ang nakasala magmagahi atubangan sa biktima — “Gipasaylo ako sa Dios, busa malinawon ako” — kana dili paghinulsol kondili usa ka pagsundog niini (Mateo 3:8). Ug ang pagpasaylo tali sa tawo ug sa Dios dili magwagtang sa samad sa biktima ni magpugos sa biktima sa pagpasaylo.</p><p><b>③ Ang sala dili gayod basta “pasagdan lang.”</b> Ang matag sala bayran sa usa sa duha ka dapit — <b>o pas-anon kini ni Cristo diha sa krus</b> (alang sa nagsalig kaniya wala nay paghukom sa silot, Roma 8:1), <b>o pas-anon kini sa tawo nga sa kataposan misalikway kaniya.</b> Busa walay “baratong pagpasaylo.” Ang nakasala adunay tulubagon usab sa balaod niining kalibotana (Roma 13:1-4).</p><p><b>④ Ang mga luha sa biktima dili gayod gamay alang sa Dios.</b> Ang Dios mihilak uban sa mga naghilak, nakahinumdom sa matag luha, ug sa kataposan iya kining pahiran (Pinadayag 21:4). Busa ang biktima dili magpas-an nga mag-inusara sa kabug-at sa pagpanimalos, kondili makatugyan niini ngadto sa matarong nga Dios (Roma 12:19 — “Akoa ang pagpanimalos, ako ang mobayad, nag-ingon ang Ginoo”).</p><p class=\"faq-v\">Mateo 3:8 · Roma 8:1 · Roma 13:1-4 · Pinadayag 21:4</p>",
+  "respond.h3": "Busa — unsa man ang akong buhaton?",
+  "respond.sub": "Kini nga gugma dili impormasyon kondili usa ka <b>pagdapit</b>. Kon ang gugma nga gilansang puli kanimo nakatandog sa imong kasingkasing, iampo kini nga hinay-hinay, usa ka linya sa matag higayon.",
+  "respond.prayer": "<p>Dios,</p><p>giila ko nga ako usa ka makasasala nga dili makaluwas sa akong kaugalingon.</p><p>Mituo ako nga si Jesus namatay sa krus alang kanako ug nabanhaw.</p><p>Pasayloa ang tanan kong mga sala, ug sukad karon mahimong Ginoo sa akong kinabuhi.</p><p>Dawata ako isip imong anak, ug tugoti ako nga magpuyo ug bag-ong kinabuhi.</p><p class=\"amen\">Sa ngalan ni Jesus ako nag-ampo. Amen.</p>",
+  "respond.after": "Kon imo kining giampo sa kinasingkasing, ang Biblia nag-ingon nga ikaw <b>nahimo nang anak sa Dios</b>. Dili ka na mag-inusara — pangitag duol nga iglesia ug paglakaw sa dalan sa pagtuo uban sa uban.",
+  "respond.verse": "“Apan ngadto sa tanang midawat kaniya, sa mga mituo sa iyang ngalan, naghatag siya kanila ug katungod sa pagkahimong mga anak sa Dios.” — Juan 1:12 · Roma 10:9-10",
+  "closing.main": "Usa ka Dios,<br>pinaagi sa usa ka sugilanon,<br>nangita kanato uban sa usa ka <em>gugma</em><br>nga dili gayod motugot.",
+  "closing.verse": "“Kay misalig ako nga bisan kamatayon, o kinabuhi … o bisan unsa diha sa tibuok kabuhatan, dili makapahimulag kanato gikan sa gugma sa Dios, sa gugma nga anaa kang Cristo Jesus nga atong Ginoo.” — Roma 8:38-39",
+  "closing.small": "Niini nga sugilanon, ang Balaod, ang Balak, ang mga Propeta, ug ang mga Sulat nagdugang sa “unod.”<br>Sukad karon, bisan unsang libro ang imong ablihan, masayran nimo kon hain ka na sa sugilanon.",
+  "closing.share": "↗ Ipaambit kini nga sugilanon",
+  "about.line": "Gibase sa <b>panglantaw nga makasaysayanon-manunubos, ebanghelikanhon ug repormado</b> nga giambitan sa kadaghanan sa iglesia nga Protestante sa Korea.",
+  "about.contact": "Mga pangutana · komento — <a id=\"contact\" class=\"mail\">Pagpadala ug email</a>"
+ },
+ "epochs": [
+  {
+   "tag": "DAANG TUGON · SINUGDAN",
+   "title": "Paglalang",
+   "date": "Sa sinugdan",
+   "one": "Ang Dios naghimo ug kalibotan nga “maayo kaayo.”",
+   "people": "Ang Dios; si Adan ug si Eva",
+   "events": "Unom ka adlaw sa paglalang, ang tawo gibuhat sa dagway sa Dios, ang pahulay sa Igpapahulay",
+   "q": "Sa sinugdan gibuhat sa Dios ang kalangitan ug ang yuta.",
+   "cite": "Genesis 1:1",
+   "christ": "Ang kalibotan gibuhat pinaagi sa “Pulong.” Ang Ebanghelyo ni Juan nagpahayag nga kini nga Pulong mao mismo si Jesus (Juan 1:1-3).",
+   "detail": "<p>Wala magsugod ang Biblia sa usa ka pangatarongan sa pilosopiya kondili sa usa ka pahayag: <b>“Sa sinugdan, ang Dios…”</b> Ang kalibotan dili sulagma kondili buhat sa usa ka personal nga Dios.</p><ul><li><b>Ang dagway sa Dios</b> · sa tanang binuhat, ang tawo lamang ang gibuhat aron mahisama sa Dios — aron makaila kaniya ug mag-atiman sa kalibotan.</li><li><b>Pahulay</b> · ang pahulay sa ikapito nga adlaw nagpakita nga ang tanan kompleto na ug malinawon (shalom): “maayo kini.”</li><li><b>Eden</b> · ang kalibotan sa wala pa kini madaot, diin ang Dios ug ang tawo naglakaw nga magkauban.</li></ul>",
+   "next": "Apan kining pagkahingpit hapit nang madugmok…"
+  },
+  {
+   "tag": "DAANG TUGON · NAGSUGOD ANG SULIRAN",
+   "title": "Ang Pagkapukan",
+   "date": "Sa sinugdan",
+   "one": "Misulod ang sala, ug naputol ang relasyon tali sa tawo ug sa Dios.",
+   "people": "Si Adan ug si Eva; ang bitin (Satanas)",
+   "events": "Pagkaon sa gidili nga bunga, paghingilin gikan sa Eden, pag-abot sa kamatayon ug kabudlay",
+   "q": "Ug ibutang nako ang panag-away tali kanimo ug sa babaye … siya magsamad sa imong ulo.",
+   "cite": "Genesis 3:15",
+   "christ": "Ang unang saad sa Maayong Balita, gihatag dayon human sa Pagkapukan: ang “kaliwat sa babaye” magsamad sa ulo sa bitin — ug kana mao si Jesus (Genesis 3:15; Roma 16:20; Galacia 4:4).",
+   "detail": "<p>Pinaagi sa pagsupak sa pagtinguha nga “mahisama sa Dios,” ang sala misulod sa kalibotan. Ang sangpotan dili lang usa ka nalapas nga lagda kondili usa ka <b>nabungkag nga relasyon</b>.</p><ul><li><b>Nabungkag nga mga relasyon</b> · sa Dios (pagtago), sa usag usa (pagbasol), sa kinaiyahan (mga tunok ug kabudlay).</li><li><b>Kamatayon</b> · ang pasidaan nga “mamatay ka gayod” nahimong tinuod.</li><li><b>Genesis 3:15</b> · apan taliwala sa paghukom, ang saad sa pagluwas miabot pag-una. Gitawag kini sa mga eskolar nga <b>protoevangelium (ang unang ebanghelyo)</b>.</li></ul>",
+   "next": "Karon ang Dios nagtawag ug usa ka tawo aron sugdan ang pagluwas…"
+  },
+  {
+   "tag": "DAANG TUGON · ANG SAAD",
+   "title": "Ang mga Patriarka",
+   "date": "mga 2000 BC",
+   "one": "Ang Dios nagsaad kang Abraham, “Ikaw mahimong agianan sa panalangin.”",
+   "people": "Abraham · Isaac · Jacob · Jose",
+   "events": "Ang kasabotan kang Abraham, ang paghalad kang Isaac, ang napulog-duha ka anak ni Jacob, si Jose mibarog sa gahom sa Ehipto",
+   "q": "Akong buhaton gikan kanimo ang usa ka dako nga nasod … ug pinaagi kanimo panalanginan ang tanang kabanayan sa yuta.",
+   "cite": "Genesis 12:2-3",
+   "christ": "Ang saad nga “ang tanang kabanayan panalanginan” natuman diha kang Jesus, ang kaliwat ni Abraham (Galacia 3:16).",
+   "detail": "<p>Gisugdan sa Dios ang pagsulbad sa suliran sa tibuok katawhan pinaagi sa pagtawag ug usa ka tawo, si <b>Abraham</b>. Ang kasingkasing niini mao ang <b>kasabotan (saad)</b> — usa ka dakong nasod, usa ka yuta, ug “panalangin alang sa tanang kabanayan.”</p><ul><li><b>Pagtuo</b> · si Abraham mituo sa usa ka dili-makita nga saad, ug kini giisip kaniya ingon nga pagkamatarong (Genesis 15:6).</li><li><b>Isaac ug Jacob</b> · ang saad mipadayon; si Jacob (Israel) nahimong amahan sa napulog-duha ka tribo.</li><li><b>Jose</b> · gibaligya sa iyang mga igsoon apan gibayaw sa gahom — “ang tuyo sa Dios alang sa kaayohan” (Genesis 50:20).</li></ul>",
+   "next": "Misunod kang Jose, ang banay milugsong sa Ehipto — ug nahimong ulipon…"
+  },
+  {
+   "tag": "DAANG TUGON · PAGTUBOS",
+   "title": "Ang Exodo ug Kamingawan",
+   "date": "mga 1446 BC",
+   "one": "Giluwas sa Dios ang katawhang ulipon ug gihimo silang iyaha.",
+   "people": "Moises, Aaron, ang Paraon",
+   "events": "Ang napulo ka hampak, ang Paskuwa, ang pagtabok sa Pulang Dagat, ang Napulo ka Sugo sa Sinai, ang tabernakulo, 40 ka tuig sa kamingawan",
+   "q": "Kuhaon ko kamo ingon nga akong katawhan ug ako mahimo nga inyong Dios.",
+   "cite": "Exodo 6:7",
+   "christ": "Ang Paskuwa — diin ang dugo sa nating karnero mipalingiw sa kamatayon — nagtumong kang Jesus, “ang atong nating karnero sa Paskuwa,” nga gilansang alang kanato (1 Corinto 5:7).",
+   "detail": "<p>Ang labing dako nga pagluwas sa Daang Tugon. Ang Israel nga kanhi ulipon gibuhian pinaagi sa gahom sa Dios ug gihulma nga iyang <b>katawhan</b>.</p><ul><li><b>Paskuwa</b> · ang panimalay nga gimarkahan sa dugo sa nating karnero gilabyan sa kamatayon — ang sumbanan sa tanang ulahing halad.</li><li><b>Ang Pulang Dagat</b> · kaluwasan diin nahurot ang dalan; ang “pagtabok” nahimong simbolo sa bag-ong sinugdan.</li><li><b>Ang kasabotan sa Sinai</b> · pinaagi sa mga Sugo nakat-onan nila kon unsaon pagpuyo isip katawhan sa Dios.</li><li><b>Tabernakulo</b> · usa ka madaladala nga balaang puloy-anan diin ang Dios nagpuyo taliwala sa iyang katawhan — usa ka pasipsip sa “Emmanuel.”</li><li><b>40 ka tuig</b> · ang pagsupak nakapahimo sa usa ka kaliwatan nga naglatagaw, apan ang Dios nagpabilin nga duol uban sa manna ug sa haligi sa panganod ug kalayo.</li></ul>",
+   "next": "Nagbarog sa ngilit sa gisaad nga yuta, nangandam sila sa pagsulod…"
+  },
+  {
+   "tag": "DAANG TUGON · PAGPUYO",
+   "title": "Ang Pagsakop ug ang mga Maghuhukom",
+   "date": "mga 1400–1050 BC",
+   "one": "Nakuha nila ang yuta, apan kay walay hari, ang matag usa nagbuhat sa iyang gusto.",
+   "people": "Josue; mga maghuhukom sama nila Gideon ug Samson; Ruth",
+   "events": "Ang pagkapukan sa Jerico, ang pagpuyo sa Canaan, ang nagbalik-balik nga siklo sa sala–paghukom–pagluwas",
+   "q": "Niadtong mga adlawa walay hari sa Israel, ang matag tawo naghimo sa unsay matarong diha sa iyang mga mata.",
+   "cite": "Mga Maghuhukom 21:25",
+   "christ": "Gikan sa kaliwat ni Ruth migula si David, ug gikan sa kaliwat ni David migula si Jesus (Mateo 1). Bisan sa kagubot, nagpadayon ang kaliwatan sa Mesias.",
+   "detail": "<p>Ubos ni Josue misulod sila sa gisaad nga yuta, apan human makapuyo dali ra nilang gikalimtan ang Dios. Ang Mga Maghuhukom mao ang samang sumbanan nga gibalik-balik.</p><ul><li><b>Ang nagpaubos nga siklo</b> · sala → pagdaugdaog → pagtuaw → pagluwas sa usa ka maghuhukom → sala na usab. Mograbe lamang kini.</li><li><b>Ang mga maghuhukom</b> · Gideon, Samson, Debora — temporaryo nga mga tigluwas, bayanihon apan punog kakulangan.</li><li><b>Ruth</b> · usa ka hayag nga sugilanon sa pagkamatinud-anon sa mangitngit nga panahon; usa ka langyaw nga babaye misulod sa kaliwat ni David (ug ni Jesus).</li></ul>",
+   "next": "Ang katawhan mituaw, “Hatagi usab kami ug hari!”…"
+  },
+  {
+   "tag": "DAANG TUGON · BULAWANONG PANAHON",
+   "title": "Ang Nahiusang Gingharian",
+   "date": "mga 1050–930 BC",
+   "one": "Ang Dios nagsaad kang David, “Ang imong trono molungtad sa kahangtoran.”",
+   "people": "Saul · David · Solomon",
+   "events": "Ang unang hari nga si Saul, si David ug si Goliat, ang kasabotan kang David, gitukod ni Solomon ang templo",
+   "q": "Ang imong balay ug ang imong gingharian himoong lig-on hangtod sa kahangtoran … ang imong trono lig-onon hangtod sa kahangtoran.",
+   "cite": "2 Samuel 7:16",
+   "christ": "Ang “trono nga walay kataposan” natuman diha kang Jesus, ang anak ni David — mao nga gitawag siya nga “Anak ni David” (Lucas 1:32-33; Mateo 1:1).",
+   "detail": "<p>Ang kinatas-ang panahon sa Israel, gimandoan sa tulo ka hari.</p><ul><li><b>Saul</b> · ang hari nga gipangayo sa katawhan; maayong sinugdan apan nadaot tungod sa pagsupak.</li><li><b>David</b> · “usa ka tawo nga sama sa kasingkasing sa Dios.” Iyang gibuntog si Goliat ug gihimong kaulohan ang Jerusalem. Nakahimo siya ug dakong sala (Batsheba) apan naghinulsol gikan sa kasingkasing (Salmo 51).</li><li><b>Ang kasabotan kang David (2 Samuel 7)</b> · ang Dios nagsaad sa pagtukod sa dinastiya ni David sa kahangtoran — ang mahukmanong gamot sa paglaom sa Mesias.</li><li><b>Solomon</b> · sa kinatas-an sa kaalam ug bahandi iyang gitukod ang <b>templo</b>, apan sa ulahing bahin sa iyang kinabuhi mitalikod ngadto sa mga diosdios.</li></ul>",
+   "next": "Human ni Solomon, ang gingharian nabahin sa duha…"
+  },
+  {
+   "tag": "DAANG TUGON · PAGKUNHOD",
+   "title": "Ang Nabahing Gingharian",
+   "date": "930–586 BC",
+   "one": "Nabahin sa habagatan (Juda) ug amihanan (Israel), ang nasod nahulog sa kalaglagan.",
+   "people": "Ang mga hari sa duha ka gingharian; mga propeta sama nila Elias, Isaias, Jeremias",
+   "events": "Ang gingharian nabahin, mikaylap ang pagsimba sa diosdios, ang mga propeta nagpasidaan",
+   "q": "Busa ang Israel mialsa batok sa panimalay ni David hangtod niining adlawa.",
+   "cite": "1 Mga Hari 12:19",
+   "christ": "Niini nga panahon ang mga propeta nagtagna sa nagsingabot nga Mesias nga mas tin-aw pa gayod (Isaias 9:6; Isaias 53).",
+   "detail": "<p>Sa panahon sa anak ni Solomon ang nasod nabahin: <b>ang amihanang gingharian sa Israel</b> (10 ka tribo, kaulohan Samaria) ug <b>ang habagatang gingharian sa Juda</b> (2 ka tribo, kaulohan Jerusalem).</p><ul><li><b>Israel (amihanan)</b> · ang matag hari niini nag-alagad sa mga diosdios; napukan kini sa Asiria niadtong 722 BC.</li><li><b>Juda (habagatan)</b> · ang kaliwat ni David nagpadayon, uban sa pipila ka maayong hari sama nila Ezekias ug Josias, apan sa kinatibuk-an mikunhod.</li><li><b>Ang mga propeta</b> · si Elias, Amos, Isaias, Jeremias mituaw “balik!” Ang tagna mahitungod sa Mesias mikabat sa kinaadunahan dinhi (ang “alagad nga nag-antos” sa Isaias 53).</li></ul>",
+   "next": "Sa kataposan miabot ang gipasidaan nga paghukom — gibihag sila…"
+  },
+  {
+   "tag": "DAANG TUGON · PAGHUKOM",
+   "title": "Ang Pagkabihag",
+   "date": "722 / 586 BC",
+   "one": "Napukan ang nasod ug ang katawhan gibihag ngadto sa langyawng kayutaan.",
+   "people": "Daniel, Ezequiel, Nabucodonosor",
+   "events": "Ang Israel napukan sa Asiria (722), ang Juda napukan sa Babilonia ug ang templo gigun-ob (586)",
+   "q": "Sa daplin sa mga suba sa Babilonia, didto kami nanglingkod ug nanghilak sa dihang nahinumdom kami sa Zion.",
+   "cite": "Salmo 137:1",
+   "christ": "Sa kinahiladman sa kawalay-paglaom, si Jeremias nagsaad ug “bag-ong kasabotan” (Jeremias 31:31) — ang mismong kasabotan nga gitukod ni Jesus sa Kataposang Panihapon.",
+   "detail": "<p>Natuman ang mga pasidaan. Nasunog ang templo ug ang katawhan gidala sa Babilonia — nawad-an sa yuta, sa hari, ug sa templo: ang labing ubos nga punto sa tanan.</p><ul><li><b>Duha ka pagkapukan</b> · Israel (Asiria, 722 BC) ug Juda (Babilonia, 586 BC).</li><li><b>Daniel</b> · usa ka panig-ingnan sa pagtuo bisan sa korte sa mga pagano (ang lungib sa mga liyon); nakakita siya ug mga panan-awon sa nagsingabot nga “gingharian nga walay kataposan.”</li><li><b>Usa ka silaw sa paglaom</b> · ang panan-awon ni Ezequiel sa mga uga nga bukog nga nabuhi (Ezequiel 37) ug ang “bag-ong kasabotan” ni Jeremias nagtumong sa usa ka kaugmaon sa kangitngit.</li></ul>",
+   "next": "Kapitoan ka tuig sa ulahi, ang Dios nag-abli sa dalan — mipauli sila…"
+  },
+  {
+   "tag": "DAANG TUGON · PAGPASIG-ULI",
+   "title": "Ang Pagpauli",
+   "date": "538–430 BC",
+   "one": "Mibalik sila ug gitukod pag-usab ang templo ug ang mga paril.",
+   "people": "Esdras, Nehemias, Ester, Zorobabel",
+   "events": "Pagbalik pinaagi sa mando ni Ciro, pagtukod pag-usab sa templo, pagbalik sa mga paril sa Jerusalem, pagpasig-uli sa Pulong",
+   "q": "Ang kalipay sa Ginoo maoy inyong kusog.",
+   "cite": "Nehemias 8:10",
+   "christ": "Ang Malaquias, ang kataposang libro sa Daang Tugon, mitapos pinaagi sa pagtagna sa usa ka sinugo nga mag-andam sa dalan sa Mesias: “Ako magpadala sa akong sinugo” (Malaquias 3:1).",
+   "detail": "<p>Pinaagi sa mando sa hari sa Persia nga si Ciro (538 BC) nagsugod ang pagpauli. Sa tulo ka balod mibalik sila ug gitukod pag-usab ang nagun-ob.</p><ul><li><b>Zorobabel</b> · gitukod pag-usab ang templo (nahuman 516 BC).</li><li><b>Esdras</b> · gitudlo pag-usab ang Pulong ug gibanhaw ang pagtuo.</li><li><b>Nehemias</b> · gitukod pag-usab ang mga paril sa Jerusalem sulod sa 52 ka adlaw.</li><li><b>Ester</b> · giluwas ang mga Judio sa Persia gikan sa kalaglagan — “alang sa maong panahon.”</li><li><b>Nagpadayong pangandoy</b> · nagbarog ang templo, apan walay hari nga sama kang David. Ang katawhan naghulat sa Mesias.</li></ul>",
+   "next": "Ug unya… nga daw mihilom ang langit, milabay ang 400 ka tuig."
+  },
+  {
+   "tag": "TALIWALA SA MGA TUGON · PAG-ANDAM SA TALAN-AWON",
+   "title": "Ang Mga Tuig sa Kahilom",
+   "date": "mga 430–4 BC",
+   "one": "400 ka tuig nga walay tingog sa propeta — apan ang talan-awon hilom nga giandam.",
+   "people": "Alejandro nga Bantogan, ang mga Macabeo, Roma",
+   "events": "Persia → Gresya → kagawasan sa mga Macabeo → pagmando sa Roma",
+   "q": "Apan sa pag-abot na sa tukma nga panahon, ang Dios mipadala sa iyang Anak nga natawo pinaagi sa usa ka babaye.",
+   "cite": "Galacia 4:4",
+   "christ": "Kining tanan nga “pag-andam sa talan-awon” mao ang buhat sa Dios aron si Jesus moabot sa tukma gayod nga “pag-abot sa panahon.”",
+   "detail": "<p>Gikan sa Malaquias hangtod sa Bag-ong Tugon, mga 400 ka tuig ang milabay nga walay bag-ong Kasulatan. Apan luyo sa kasaysayan ang Dios nag-andam sa dalan alang sa Maayong Balita.</p><ul><li><b>Nag-ilis ang mga imperyo</b> · Persia → Gresya (Alejandro, 333 BC) → ang mga Ptolemeo ug Seleucida → ang pag-alsa sa mga Macabeo (167 BC) → Roma (63 BC).</li><li><b>Griyego</b> · ang mga pagsakop ni Alejandro naghimo sa Griyego nga sagad nga pinulongan; ang Daang Tugon gihubad ngadto sa Griyego (ang Septuagint), nga nag-abli sa dalan aron mokaylap dayon ang Maayong Balita.</li><li><b>Mga dalan ug kalinaw sa Roma</b> · ang maayong pagkatukod nga mga dalan ug ang “Pax Romana” nahimong mga agianan alang sa misyon.</li><li><b>Mga sinagoga ug mga pundok</b> · ang pagtulon-an sa sinagoga milambo; mitungha ang mga Pariseo ug Saduceo; ug ang <b>pangandoy sa Mesias</b> mihinog.</li></ul>",
+   "next": "Unya nabungkag ang kahilom — sa kataposan, mianhi siya."
+  },
+  {
+   "tag": "BAG-ONG TUGON · KATUMANAN",
+   "title": "Mianhi si Jesus",
+   "date": "mga 4 BC–AD 30",
+   "one": "Ang gisaad nga Mesias mianhi, namatay, ug nabanhaw.",
+   "people": "Jesus, ang napulog-duha ka tinun-an, Juan nga Magbabawtismo",
+   "events": "Ang pagpakatawo, ang iyang pag-alagad ug pagtulon-an ug mga milagro, ang kamatayon sa krus, ang pagkabanhaw sa ikatulong adlaw",
+   "q": "Ug ang Pulong nahimong tawo ug mipuyo uban kanato … puno sa grasya ug kamatuoran.",
+   "cite": "Juan 1:14",
+   "christ": "Ang kaliwat sa babaye (talan-awon 2), ang panalangin ni Abraham (3), ang nating karnero sa Paskuwa (4), ang walay kataposang hari ni David (6), ang bag-ong kasabotan (8) — natuman ang tanan diha sa usa ka tawo, si Jesus: ang atong tinuod nga Propeta, Pari, ug Hari.",
+   "detail": "<p>Nabungkag ang kahilom; miabot ang Gisaad. Ang upat ka Ebanghelyo nagpamatuod sa kinabuhi, kamatayon, ug pagkabanhaw ni Jesus gikan sa upat ka anggulo.</p><ul><li><b>Pagpakatawo</b> · ang Dios nahimong tawo (Emmanuel, “Ang Dios uban kanato”), sa ubos nga dapit sa Betlehem.</li><li><b>Pag-alagad</b> · iyang gitudlo ang gingharian sa Dios, giayo ang mga masakiton, gitawag ang mga makasasala. “Ang nakakita kanako nakakita na sa Amahan.”</li><li><b>Ang krus</b> · iyang gibayran ang bili sa sala ug kamatayon nga gidala sa Pagkapukan (talan-awon 2). Ang tinuod nga nating karnero sa Paskuwa.</li><li><b>Pagkabanhaw</b> · nga nabanhaw sa ikatulong adlaw, iyang gibungkag ang gahom sa sala, kamatayon, ug ni Satanas — diha na sa krus iyang “gitangtangan sa mga hinagiban ang mga pamunoan ug kagamhanan … diha sa iyang pagdaog batok kanila” (Colosas 2:15).</li></ul><p>Busa si Jesus mao ang atong <b>tinuod nga Propeta</b> (nagpakita sa dalan ngadto sa Dios), atong <b>tinuod nga Pari</b> (naghalad alang sa sala pinaagi sa iyang kaugalingong lawas), ug atong <b>tinuod nga Hari</b> (nagbuntog sa sala, kamatayon, ug ni Satanas ug naghari sa kahangtoran).</p>",
+   "next": "Ang nabanhaw nga si Jesus mipadala sa iyang mga tinun-an ngadto sa kalibotan…"
+  },
+  {
+   "tag": "BAG-ONG TUGON · PAGKAYLAP",
+   "title": "Nagsugod ang Iglesia",
+   "date": "mga AD 30–",
+   "one": "Mikunsad ang Espiritu, ug ang Maayong Balita mikaylap ngadto sa kinatumyan sa kalibotan.",
+   "people": "Pedro, Pablo, ang unang iglesia",
+   "events": "Ang Espiritu gibubo sa Pentecostes, natawo ang iglesia, ang Maayong Balita mikaylap gikan sa Jerusalem ngadto sa Roma pinaagi sa paglutos",
+   "q": "Apan makadawat kamo ug gahom sa diha nga mokunsad na kaninyo ang Espiritu Santo … hangtod sa kinatumyan sa kalibotan.",
+   "cite": "Mga Buhat 1:8",
+   "christ": "Kini nga sugilanon nagpadayon pa hangtod karon. Ang Biblia mitapos pinaagi sa pagsaad nga si Jesus mobalik ug magbag-o sa tanang butang (Pinadayag 21).",
+   "detail": "<p>Human mokayab si Jesus, ang gisaad nga Espiritu mikunsad sa Pentecostes ug natawo ang iglesia. Ang Maayong Balita mikaylap nga mabuto.</p><ul><li><b>Pentecostes</b> · ang Espiritu naghimo sa mahadlukong mga tinun-an nga maisogong mga saksi.</li><li><b>Pedro</b> · nagsangyaw sa Maayong Balita ngadto sa mga Judio sa Jerusalem.</li><li><b>Pablo</b> · gikan sa maglulutos ngadto sa apostol, nagtukod ug mga iglesia sa tibuok kalibotan sa mga Hentil ug nagsulat sa mga Sulat.</li><li><b>Ngadto sa kinatumyan sa kalibotan</b> · Jerusalem → Judea → Samaria → Roma. Ang saad ngadto kang Abraham mahitungod sa “tanang kabanayan” natuman.</li><li><b>Ug kita</b> · ang sugilanon wala matapos; nagpadayon kini ngadto sa pagbalik ni Jesus ug sa bag-ong langit ug bag-ong yuta.</li></ul>",
+   "next": "Apan ang sugilanon wala matapos dinhi…"
+  },
+  {
+   "tag": "BAG-ONG TUGON · PAGKAHINGPIT",
+   "title": "Ang Pagpasig-uli",
+   "date": "Umaabot pa",
+   "one": "Si Jesus mobalik ug magbag-o sa tanang butang.",
+   "people": "Ang nagbalik nga si Jesus; ang tanang kanasoran",
+   "events": "Ang ikaduhang pag-anhi, ang kataposang paghukom, ang pagtapos sa sala·kamatayon·luha, usa ka bag-ong langit ug bag-ong yuta",
+   "q": "Iyang pahiran ang tanang luha … ug ang kamatayon wala na, ug wala na usab unyay pagminatay o paghilak o kasakit.",
+   "cite": "Pinadayag 21:4",
+   "christ": "Ang Eden sa unang paglalang gipasig-uli sa kataposan isip “Bag-ong Jerusalem.” Ang Dios mopuyo uban sa iyang katawhan sa kahangtoran — ang pagkahingpit sa Emmanuel (Pinadayag 21:3; Mateo 1:23).",
+   "detail": "<p>Ang Biblia wala matapos sa panahon sa iglesia. Ang kataposang libro niini, ang Pinadayag, nagpakita kang Jesus nga <b>mobalik</b> aron hingpiton ang tanan.</p><ul><li><b>Ang ikaduhang pag-anhi</b> · ang gisaad nga Hari mobalik diha sa himaya.</li><li><b>Ang kataposang kadaugan</b> · si Satanas ug ang kamatayon laglagon sa walay kataposan, ug si Cristo maghari isip Hari sa mga hari (1 Corinto 15:25-26; Pinadayag 20:10).</li><li><b>Paghukom ug pagkabanhaw</b> · ang matag kasaypanan tul-iron, ug ang mga patay banhawon.</li><li><b>Usa ka bag-ong langit ug bag-ong yuta</b> · ang sala, kamatayon, luha, ug kasakit mahanaw sa walay kataposan (Pinadayag 21:4).</li><li><b>Ang Eden gipasig-uli</b> · diha sa usa ka “Bag-ong Jerusalem” nga mas maayo pa kaysa sa sinugdan, ang Dios mopuyo uban sa iyang katawhan sa kahangtoran — ang padulngan nga gitumong sa tibuok Biblia.</li></ul><p>Busa karon mao ang panahon sa <b>“karon na, apan dili pa”</b>: diha kang Jesus ang kaluwasan <b>natuman na</b>, apan ang pagkahingpit niini <b>gihulat pa</b>.</p>",
+   "next": "Busa unsa man ang kahulogan niining tibuok sugilanon alang “kanako”?"
+  }
+ ],
+ "love": [
+  "Ang sugilanon nagsugod dili sa paghukom kondili sa usa ka kalibotan nga gibubo sa gugma.",
+  "Sa higayon nga nakasala ang tawo, ang Dios nagsaad ug pagluwas dayon didto mismo.",
+  "Ang Dios mianhi pag-una ngadto sa usa ka tawo nga dili takos, gitawag siya sa iyang ngalan, ug gihimong agianan sa panalangin.",
+  "Iyang nadungog ang pag-agulo sa katawhang ulipon ug mikanaog mismo aron luwason sila.",
+  "Bisan gibudhian balik-balik, apan sa matag tuaw nila nagpadala siya ug tigluwas ug gibangon sila pag-usab.",
+  "Wala niya isalikway bisan ang nahulog nga si David, ug pinaagi kaniya nagsaad ug usa ka Hari nga walay kataposan.",
+  "Ngadto sa katawhan nga mitalikod kaniya, padayon siyang nagpadala ug mga propeta, nga nagpakiluoy, “Balik na, palihog.”",
+  "Mikuyog siya kanila bisan ngadto sa labing ngitngit nga yuta sa pagkabihag, ug nagsaad ug pagpasig-uli.",
+  "Bisan ngadto sa katawhan nga napakyas balik-balik, wala niya bawia ang iyang saad.",
+  "Bisan sulod sa 400 ka tuig nga kahilom, dili-makita, nag-andam siya sa dalan sa kaluwasan.",
+  "Samtang mga makasasala pa kita, gipadala niya ang iyang Anak aron magtahan sa iyang kaugalingong kinabuhi.",
+  "Ang gugma nga atong nadawat, gipadala na niya nga magbaha ngadto sa tibuok kalibotan.",
+  "Sa kataposan iyang pahiran ang tanang luha ug pasig-ulion ang tanang butang diha sa gugma."
+ ],
+ "mis": [
+  {
+   "w": "“Nganong gibuhat man sa Dios ang tawo nga makahimo sa pagpakasala? Dili ba mas maayo pa unta nga wala lang kita buhata?”",
+   "t": "Gibuhat sa Dios ang kalibotan ug ang tawo dili tungod sa bisan unsang kakulangan, kondili gumikan sa nag-awas nga gugma. Ang paghimo sa tawo isip <b>mga persona nga makarelasyon sa Dios</b> mao na mismo ang gugma. Ug bisan ang pagsulod sa sala wala mahisaylo sa plano sa kaluwasan sa Dios (Efeso 1:4-5). Ang unang talan-awon sa Biblia dili paghukom kondili gugma."
+  },
+  {
+   "w": "“Gihingilin ug gihatagan ug kamatayon tungod lang sa pagkaon ug usa ka bunga — dili ba bangis kaayo ang Dios?”",
+   "t": "Ang paghingilin gikan sa Eden paghukom ug kalooy sa samang higayon. Ang pagkaon gikan sa kahoy sa kinabuhi ug pagpuyo hangtod sa kahangtoran nianang nabungkag, gilain-sa-Dios nga kahimtang mahimong pagkabilanggo sa pag-antos hangtod sa kahangtoran (Genesis 3:22). Ang pagtugot sa kamatayon nag-abli sa dalan pabalik, ug didto mismo ang Dios nagsaad ug usa ka Manluluwas (Genesis 3:15). Ang gugma anaa na sa sulod sa paghukom."
+  },
+  {
+   "w": "“Si Abraham gipili tungod kay siya adunay dakong pagtuo — dili ba ang tanang tawo sa Biblia mga bayani sa pamatasan?”",
+   "t": "Si Abraham namakak ug nagduhaduha; si Jacob usa ka maglilimbong. Gitawag sa Dios dili ang “takos” nga mga tawo kondili ang adunay kakulangan, pinaagi sa grasya. Ang hinungdan dili ang ilang pagkamaayo kondili ang matinud-anong gugma sa Dios (Deuteronomio 7:7-8)."
+  },
+  {
+   "w": "“Dili ba ang Balaod (ang mga Sugo) usa ka pagsulay nga kinahanglang ipasar aron maluwas?”",
+   "t": "Giluwas sila sa Dios <b>sa wala pa</b> ihatag ang Balaod. Bisan ang Napulo ka Sugo nagsugod sa usa ka pahayag sa kaluwasan: “Ako mao ang Ginoo nga inyong Dios nga nagkuha kaninyo gikan sa yuta sa Ehipto” (Exodo 20:2). Ang Balaod dili “tumana aron maluwas,” kondili usa ka mahigugmaong giya kon unsaon pagpuyo sa katawhang naluwas na (Deuteronomio 7:7-9). Ang grasya kanunay mag-una; ang pagkamasulundon mao ang tubag."
+  },
+  {
+   "w": "“Ang pagsakop sa Canaan usa ka walay-kalooy nga pagpamatay — busa ang Dios sa Daang Tugon tinuod gayong bangis.”",
+   "t": "Kini usa ka lisod nga hilisgotan nga dili masulbad sa usa ka tudling-pulong. Apan ang Biblia nagpresentar niini dili isip walay-katarongan nga kabangis kondili isip paghukom human sa mga siglo sa pagpailob ngadto sa hilabihang pagkadaotan (lakip ang paghalad ug bata) (Genesis 15:16; Deuteronomio 9:4-5; Levitico 18:24-25). Hinay ang Dios bisan sa paghukom, ug malipayon niyang gidawat ang mitalikod kaniya — bisan ang mga langyaw sama nila Rahab ug Ruth (Josue 6:25; Ruth 4:13-17)."
+  },
+  {
+   "w": "“Si David usa ka bayani nga walay sayop — mao nga gitawag siya nga ‘tawo nga sama sa kasingkasing sa Dios.’”",
+   "t": "Si David nanapaw ug nakahimo pa ug pagpatay. Ang “tawo nga sama sa kasingkasing sa Dios” wala magpasabot ug walay-sayop, kondili usa nga wala magtago sa iyang sala — nga naghinulsol pag-ayo ug kanunayng mibalik ngadto sa Dios (Salmo 51). Ang gugma sa Dios wala magsalikway bisan sa mga nahulog ug grabe."
+  },
+  {
+   "w": "“Ang propeta usa ka tigtagna sa kaugmaon / ang Dios sa Daang Tugon pulos kaligutgot.”",
+   "t": "Ang kasingkasing sa propeta dili “pagtagna sa kaugmaon” kondili ang masulob-ong pagpakiluoy sa Dios: “Balik na, palihog.” Bisan ang mga pasidaan sa paghukom wala magtinguha sa paglaglag kondili sa pagpabalik sa mga tawo aron luwason sila — “ako walay kalipay sa kamatayon sa tawong daotan” (Ezequiel 33:11)."
+  },
+  {
+   "w": "“Ang pagkabihag nagpamatuod nga ang Dios hingpit nga mibiya sa Israel.”",
+   "t": "Ang pagkabihag dili pagbiya kondili pagdisiplina ug paghinlo ngadto sa usa ka pinalanggang anak (Hebreo 12:6). Wala mobiya ang Dios; siya nag-uban kang Daniel sa kinapusoran sa pagkabihag ug nagsaad, “ako nahibalo sa akong mga laraw alang kaninyo … mga laraw sa kaayohan ug dili sa kadaotan, sa paghatag kaninyo ug kaugmaon ug paglaom” (Jeremias 29:11)."
+  },
+  null,
+  {
+   "w": "“Kay walay pulong sulod sa 400 ka tuig, ang Dios mibiya na o nagpahulay.”",
+   "t": "Ang kahilom dili pagkawala. Wala lang siya mosulti, samtang sa tibuok panahon nagpalihok sa mga imperyo, mga pinulongan, ug mga dalan aron iandam ang talan-awon sa kaluwasan. Sa labing hilom nga gutlo, ang Dios naghago nga labing kugihan, diha sa gugma (Galacia 4:4)."
+  },
+  {
+   "w": "“Si Jesus usa lang ka maayong magtutudlo sa pamatasan / ang krus usa ka makapaguol nga kapildihan.”",
+   "t": "Si Jesus nag-angkon nga siya mao mismo ang Dios (Juan 8:58), ug ang krus dili usa ka aksidente o kapildihan kondili giplano nga gugma. Wala siya guyora didto pinaagi sa pinugos; iyang gitahan ang iyang kaugalingong kinabuhi (Juan 10:18). “Walay si bisan kinsa nga adunay gugma nga labaw pa niini, nga ang usa ka tawo magtahan sa iyang kinabuhi alang sa iyang mga higala” (Juan 15:13)."
+  },
+  {
+   "w": "“Ang iglesia usa ka pundok sa hingpit nga mga tawo, o usa lang ka building.”",
+   "t": "Ang iglesia dili usa ka komunidad sa “hingpit nga mga balaan” kondili sa <b>gipasaylo nga mga makasasala</b>. Bisan ang apostol Pablo nagtawag sa iyang kaugalingon nga “labaw sa mga makasasala” (1 Timoteo 1:15). Ang unang iglesia naglalis ug napandol usab (Mga Buhat 6:1; 1 Corinto 1:11). Dili kini dapit aron magpasigarbo, kondili mga tawo nga nagpaambit sa gugma nga ilang nadawat (Juan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Sala nga panulondon — walay matarong",
+   "body": "Ang suliran dili “pipila ka daotang binuhatan” kondili ang gamot sa kasingkasing. Sukad kang Adan, ang tanan natawo ilalom sa sala ug dili makaabot sa Dios pinaagi sa ilang kaugalingon.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Walay matarong, bisan usa … nakasala ang tanan ug nawad-an sa himaya sa Dios."
+  },
+  {
+   "title": "Ang Balaod dili makaluwas kanako",
+   "body": "Ang Balaod dili usa ka hagdanan kondili usa ka salamin. Kon mas mosulay ka, mas ipakita niini kon unsa ka layo ang imong pagkakulang. Ang katuyoan niini mao ang pagdala kanato ngadto kang Cristo.",
+   "vref": "Roma 3:20 · Galacia 3:24",
+   "vtext": "Pinaagi sa Balaod miabot ang pagkahibalo mahitungod sa sala … ang Balaod nahimong atong tig-atiman hangtod kang Cristo."
+  },
+  {
+   "title": "Pinaagi sa grasya — usa ka gasa, dili paninguha",
+   "body": "Ang kaluwasan dili suhol sa kantidad nga imong natigom, kondili usa ka walay-bayad nga gasa ngadto sa dili takos. Busa walay makapasigarbo.",
+   "vref": "Efeso 2:8-9",
+   "vtext": "Kay tungod sa grasya kamo nangaluwas pinaagi sa pagtuo … dili tungod sa mga binuhatan aron walay bisan kinsa nga magpasigarbo."
+  },
+  {
+   "title": "Gimatarong pinaagi sa pagtuo",
+   "body": "Dili pinaagi sa pagtuman sa Balaod, kondili pinaagi sa pagtuo kang Jesu-Cristo gipahayag kang matarong — gisul-oban dili sa atong kaugalingong pagkamatarong kondili sa iyaha.",
+   "vref": "Roma 5:1 · Galacia 2:16",
+   "vtext": "Tungod kay gihimo man kitang matarong pinaagi sa pagtuo … ang tawo dili mahimong matarong pinaagi sa mga buhat sumala sa Balaod kondili pinaagi sa pagtuo kang Jesu-Cristo."
+  },
+  {
+   "title": "Ang Biblia nagtumong kang Jesus",
+   "body": "Ang Biblia dili usa ka libro sa mga bantogang tawo o sa pagtabang-sa-kaugalingon. Gikan sa Genesis hangtod sa Pinadayag, ang matag panid nagpamatuod sa usa ka persona — si Jesu-Cristo.",
+   "vref": "Juan 5:39 · Lucas 24:27",
+   "vtext": "Mao kini ang nagpamatuod mahitungod kanako … iyang gipasabot kanila ang mga butang sa tibuok nga kasulatan mahitungod sa iyang kaugalingon."
+  },
+  {
+   "title": "Ang Gingharian sa Dios — ang sentrong mensahe ni Jesus",
+   "body": "Ang hilisgotan nga labing gitudlo ni Jesus. Ang pagmando sa Dios isip Hari misulod niining kalibotana uban kang Jesus ug hingpiton sa iyang pagbalik. Pinaagi sa iyang krus ug pagkabanhaw, si Jesus mao ang tinuod nga Hari nga nagbuntog sa sala, kamatayon, ug ni Satanas.",
+   "vref": "Marcos 1:15",
+   "vtext": "Ang panahon miabot na, ug ang gingharian sa Dios ania na. Paghinulsol ug tuo kamo sa Maayong Balita."
+  },
+  {
+   "title": "Ang Maayong Balita — iyang gihingpit ang tanan",
+   "body": "Ang utang sa sala nga dili ko gayod mabayran, gibayran ni Jesus puli kanako diha sa krus, ug pinaagi sa pagkabanhaw iyang gibuntog ang kamatayon. Nagsalig ako dili sa “buhata kini” kondili sa “natapos na.”",
+   "vref": "Juan 19:30 · Roma 5:8",
+   "vtext": "Natapos na … bisan sa mga makasasala pa kita, si Cristo nagpakamatay alang kanato."
+  }
+ ]
+}
