@@ -44,6 +44,7 @@ const LANGS = [
   { code:'am',     dir:'ltr', locale:'am_ET' },
   { code:'ml',     dir:'ltr', locale:'ml_IN' },
   { code:'ig',     dir:'ltr', locale:'ig_NG' },
+  { code:'yo',     dir:'ltr', locale:'yo_NG' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
