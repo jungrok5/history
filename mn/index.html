@@ -33,6 +33,7 @@
 <link rel="alternate" hreflang="sw" href="https://one-scroll-bible.com/sw/" />
 <link rel="alternate" hreflang="fa" href="https://one-scroll-bible.com/fa/" />
 <link rel="alternate" hreflang="ta" href="https://one-scroll-bible.com/ta/" />
+<link rel="alternate" hreflang="pa" href="https://one-scroll-bible.com/pa/" />
 <link rel="alternate" hreflang="x-default" href="https://one-scroll-bible.com/" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 <meta name="theme-color" content="#0e1118" />
@@ -828,7 +829,8 @@ const LANGS=[
  {code:'tr',native:'Türkçe',en:'Turkish'},
  {code:'sw',native:'Kiswahili',en:'Swahili'},
  {code:'fa',native:'فارسی',en:'Persian'},
- {code:'ta',native:'தமிழ்',en:'Tamil'}
+ {code:'ta',native:'தமிழ்',en:'Tamil'},
+ {code:'pa',native:'ਪੰਜਾਬੀ',en:'Punjabi'}
 ];
 const NAV_MAP={'zh':'zh-Hans','zh-cn':'zh-Hans','zh-sg':'zh-Hans','zh-hans':'zh-Hans','zh-tw':'zh-Hant','zh-hk':'zh-Hant','zh-hant':'zh-Hant','pt':'pt-BR','pt-br':'pt-BR','pt-pt':'pt-BR'};
 function hasLang(c){return c==='ko'||LANGS.some(l=>l.code===c);}
@@ -847,7 +849,7 @@ const ORIG={}; I18N_NODES.forEach(n=>{ORIG[n.getAttribute('data-i18n')]=n.innerH
 let curPack=KO_PACK, curCode='ko';
 
 /* ---- 성경 구절 링크 (ko=개역개정 bskorea / 나머지=YouVersion, USFM 통일) ---- */
-var YV={en:59,'zh-Hans':48,'zh-Hant':46,ja:1819,es:149,'pt-BR':212,fr:93,de:51,ru:400,ar:13,hi:1683,id:306,vi:193,th:174,tl:399,ne:1483,mn:369,my:386,km:85,uz:1939,ur:189,bn:1681,si:1794,lo:1727,tr:170,sw:1818,fa:136,ta:339};
+var YV={en:59,'zh-Hans':48,'zh-Hant':46,ja:1819,es:149,'pt-BR':212,fr:93,de:51,ru:400,ar:13,hi:1683,id:306,vi:193,th:174,tl:399,ne:1483,mn:369,my:386,km:85,uz:1939,ur:189,bn:1681,si:1794,lo:1727,tr:170,sw:1818,fa:136,ta:339,pa:1687};
 var EP_REF=['GEN.1.1','GEN.3.15','GEN.12.2-3','EXO.6.7','JDG.21.25','2SA.7.16','1KI.12.19','PSA.137.1','NEH.8.10','GAL.4.4','JHN.1.14','ACT.1.8','REV.21.4'];
 var CORE_REF=['ROM.3.10','ROM.3.20','EPH.2.8','ROM.5.1','JHN.5.39','MRK.1.15','JHN.19.30'];
 function verseUrl(usfm,code){ var p=String(usfm).split('.'); if(p.length<3)return null;
@@ -906,7 +908,8 @@ BOOKS.tr={'Yaratılış':'GEN','Mısır\'dan Çıkış':'EXO','Levililer':'LEV',
 BOOKS.sw={'Mwanzo':'GEN','Kutoka':'EXO','Mambo ya Walawi':'LEV','Hesabu':'NUM','Kumbukumbu la Torati':'DEU','Yoshua':'JOS','Waamuzi':'JDG','Ruthu':'RUT','Ezra':'EZR','Nehemia':'NEH','Esta':'EST','Ayubu':'JOB','Zaburi':'PSA','Mithali':'PRO','Isaya':'ISA','Yeremia':'JER','Maombolezo':'LAM','Ezekieli':'EZK','Danieli':'DAN','Hosea':'HOS','Yoeli':'JOL','Amosi':'AMO','Yona':'JON','Mika':'MIC','Malaki':'MAL','Mathayo':'MAT','Marko':'MRK','Luka':'LUK','Yohana':'JHN','Matendo':'ACT','Warumi':'ROM','Wagalatia':'GAL','Waefeso':'EPH','Wafilipi':'PHP','Wakolosai':'COL','Waebrania':'HEB','Ufunuo':'REV','1 Samweli':'1SA','2 Samweli':'2SA','1 Wafalme':'1KI','2 Wafalme':'2KI','1 Wakorintho':'1CO','2 Wakorintho':'2CO','1 Timotheo':'1TI','2 Timotheo':'2TI'};
 BOOKS.fa={'پیدایش':'GEN','خروج':'EXO','لاویان':'LEV','اعداد':'NUM','تثنیه':'DEU','یوشع':'JOS','داوران':'JDG','روت':'RUT','نحمیا':'NEH','مزامیر':'PSA','مزمور':'PSA','امثال':'PRO','اشعیا':'ISA','ارمیا':'JER','حزقیال':'EZK','دانیال':'DAN','ملاکی':'MAL','متی':'MAT','مرقس':'MRK','لوقا':'LUK','یوحنا':'JHN','اعمال':'ACT','رومیان':'ROM','غلاطیان':'GAL','افسسیان':'EPH','کولسیان':'COL','عبرانیان':'HEB','مکاشفه':'REV','اول سموئیل':'1SA','دوم سموئیل':'2SA','اول پادشاهان':'1KI','دوم پادشاهان':'2KI','اول قرنتیان':'1CO','دوم قرنتیان':'2CO','اول تیموتائوس':'1TI','دوم تیموتائوس':'2TI'};
 BOOKS.ta={'ஆதியாகமம்':'GEN','யாத்திராகமம்':'EXO','லேவியராகமம்':'LEV','எண்ணாகமம்':'NUM','உபாகமம்':'DEU','யோசுவா':'JOS','நியாயாதிபதிகள்':'JDG','ரூத்':'RUT','எஸ்றா':'EZR','நெகேமியா':'NEH','எஸ்தர்':'EST','யோபு':'JOB','சங்கீதம்':'PSA','நீதிமொழிகள்':'PRO','ஏசாயா':'ISA','எரேமியா':'JER','புலம்பல்':'LAM','எசேக்கியேல்':'EZK','தானியேல்':'DAN','ஓசியா':'HOS','யோவேல்':'JOL','ஆமோஸ்':'AMO','யோனா':'JON','மீகா':'MIC','மல்கியா':'MAL','மத்தேயு':'MAT','மாற்கு':'MRK','லூக்கா':'LUK','யோவான்':'JHN','அப்போஸ்தலர்':'ACT','ரோமர்':'ROM','கலாத்தியர்':'GAL','எபேசியர்':'EPH','பிலிப்பியர்':'PHP','கொலோசெயர்':'COL','எபிரெயர்':'HEB','வெளிப்படுத்தல்':'REV','1 சாமுவேல்':'1SA','2 சாமுவேல்':'2SA','1 இராஜாக்கள்':'1KI','2 இராஜாக்கள்':'2KI','1 கொரிந்தியர்':'1CO','2 கொரிந்தியர்':'2CO','1 தீமோத்தேயு':'1TI','2 தீமோத்தேயு':'2TI'};
-var BOOKOPT={ko:{sep:':',suf:'편|장',bare:false},en:{sep:':',suf:'',bare:true},es:{sep:':',suf:'',bare:true},'pt-BR':{sep:':',suf:'',bare:true},fr:{sep:':',suf:'',bare:true},de:{sep:',',suf:'',bare:true},ru:{sep:':',suf:'',bare:true},id:{sep:':',suf:'',bare:true},'zh-Hans':{sep:':',suf:'',bare:true},'zh-Hant':{sep:':',suf:'',bare:true},th:{sep:':',suf:'',bare:false},vi:{sep:':',suf:'',bare:false},hi:{sep:':',suf:'',bare:true},ar:{sep:':',suf:'',bare:false},ja:{sep:':',suf:'章',bare:false},tl:{sep:':',suf:'',bare:false},ne:{sep:':',suf:'',bare:false},mn:{sep:':',suf:'',bare:false},my:{sep:':',suf:'',bare:false},km:{sep:':',suf:'',bare:false},uz:{sep:':',suf:'',bare:true},ur:{sep:':',suf:'',bare:false},bn:{sep:':',suf:'',bare:false},si:{sep:':',suf:'',bare:false},lo:{sep:':',suf:'',bare:false},tr:{sep:':',suf:'',bare:false},sw:{sep:':',suf:'',bare:false},fa:{sep:':',suf:'',bare:false},ta:{sep:':',suf:'',bare:false}};
+BOOKS.pa={'ਉਤਪਤ':'GEN','ਕੂਚ':'EXO','ਲੇਵੀਆਂ':'LEV','ਗਿਣਤੀ':'NUM','ਬਿਵਸਥਾ ਸਾਰ':'DEU','ਯਹੋਸ਼ੁਆ':'JOS','ਨਿਆਂਈਆਂ':'JDG','ਰੂਥ':'RUT','ਨਹਮਯਾਹ':'NEH','ਜ਼ਬੂਰ':'PSA','ਕਹਾਉਤਾਂ':'PRO','ਯਸਾਯਾਹ':'ISA','ਯਿਰਮਿਯਾਹ':'JER','ਵਿਰਲਾਪ':'LAM','ਹਿਜ਼ਕੀਏਲ':'EZK','ਦਾਨੀਏਲ':'DAN','ਮਲਾਕੀ':'MAL','ਮੱਤੀ':'MAT','ਮਰਕੁਸ':'MRK','ਲੂਕਾ':'LUK','ਯੂਹੰਨਾ':'JHN','ਰਸੂਲਾਂ ਦੇ ਕਰਤੱਬ':'ACT','ਰੋਮੀਆਂ':'ROM','ਗਲਾਤੀਆਂ':'GAL','ਅਫ਼ਸੀਆਂ':'EPH','ਫ਼ਿਲਿੱਪੀਆਂ':'PHP','ਕੁਲੁੱਸੀਆਂ':'COL','ਇਬਰਾਨੀਆਂ':'HEB','ਪਰਕਾਸ਼ ਦੀ ਪੋਥੀ':'REV','1 ਸਮੂਏਲ':'1SA','2 ਸਮੂਏਲ':'2SA','1 ਰਾਜਿਆਂ':'1KI','2 ਰਾਜਿਆਂ':'2KI','1 ਕੁਰਿੰਥੀਆਂ':'1CO','2 ਕੁਰਿੰਥੀਆਂ':'2CO','1 ਤਿਮੋਥਿਉਸ':'1TI','2 ਤਿਮੋਥਿਉਸ':'2TI'};
+var BOOKOPT={ko:{sep:':',suf:'편|장',bare:false},en:{sep:':',suf:'',bare:true},es:{sep:':',suf:'',bare:true},'pt-BR':{sep:':',suf:'',bare:true},fr:{sep:':',suf:'',bare:true},de:{sep:',',suf:'',bare:true},ru:{sep:':',suf:'',bare:true},id:{sep:':',suf:'',bare:true},'zh-Hans':{sep:':',suf:'',bare:true},'zh-Hant':{sep:':',suf:'',bare:true},th:{sep:':',suf:'',bare:false},vi:{sep:':',suf:'',bare:false},hi:{sep:':',suf:'',bare:true},ar:{sep:':',suf:'',bare:false},ja:{sep:':',suf:'章',bare:false},tl:{sep:':',suf:'',bare:false},ne:{sep:':',suf:'',bare:false},mn:{sep:':',suf:'',bare:false},my:{sep:':',suf:'',bare:false},km:{sep:':',suf:'',bare:false},uz:{sep:':',suf:'',bare:true},ur:{sep:':',suf:'',bare:false},bn:{sep:':',suf:'',bare:false},si:{sep:':',suf:'',bare:false},lo:{sep:':',suf:'',bare:false},tr:{sep:':',suf:'',bare:false},sw:{sep:':',suf:'',bare:false},fa:{sep:':',suf:'',bare:false},ta:{sep:':',suf:'',bare:false},pa:{sep:':',suf:'',bare:false}};
 var _reCache={};
 function refRe(code){ if(code in _reCache)return _reCache[code]; var BK=BOOKS[code]; if(!BK)return _reCache[code]=null;
  var o=BOOKOPT[code]||{sep:':',suf:'',bare:false}; var sep=(o.sep||':').replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
