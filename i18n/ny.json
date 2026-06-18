@@ -1,0 +1,343 @@
+{
+ "menuName": "Chichewa",
+ "htmlLang": "ny",
+ "dir": "ltr",
+ "brand": "Baibulo mu Kukulungutsa Kumodzi",
+ "docTitle": "Baibulo mu Kukulungutsa Kumodzi · Kuyambira Chilengedwe mpaka Mpingo",
+ "share": {
+  "title": "Baibulo mu Kukulungutsa Kumodzi",
+  "text": "Mu kukulungutsa kumodzi, dziwa nkhani yaikulu ya Baibulo — ndi chifukwa chimene Yesu anadzera."
+ },
+ "ui": {
+  "people": "Anthu",
+  "events": "Zochitika zazikulu",
+  "christLabel": "Zikuloza kwa Yesu",
+  "loveLabel": "Chikondi chosaleka",
+  "mythWrong": "Kusamvetsa kofala",
+  "mythRight": "Choonadi",
+  "more": "Werengani zambiri",
+  "version": "(Buku Lopatulika)"
+ },
+ "labels": {
+  "start": "Chiyambi",
+  "thread": "Nkhani",
+  "gospel": "Uthenga Wabwino",
+  "about": "Za ife"
+ },
+ "s": {
+  "ui.share": "↗ Gawani",
+  "ui.toast": "Ulalo wakopedwa 📋",
+  "ui.footer": "Baibulo mu Kukulungutsa Kumodzi · Mawu a Baibulo ochokera mu Buku Lopatulika",
+  "hero.kicker": "KUYAMBIRA CHILENGEDWE MPAKA MPINGO",
+  "hero.title": "Baibulo,<br><span class=\"em\">mu kukulungutsa kumodzi</span>",
+  "hero.sub": "Mu kukulungutsa kumodzi, dziwa nkhani yaikulu ya Baibulo — ndi chifukwa chimene Yesu anadzera.",
+  "hero.cue": "Kulungutsani pansi<span>↓</span>",
+  "thread.eyebrow": "MAU AMODZI AMENE AGWIRIZANITSA ZONSE",
+  "thread.h2": "Potsiriza, Baibulo ndi nkhani imodzi yokha",
+  "thread.flow": "<b>Lonjezo</b><span class=\"arw\">→</span><b>Kudikira</b><span class=\"arw\">→</span><b>Kukwaniritsidwa</b>",
+  "thread.note": "Mulungu <b>amalonjeza</b> (pangano), anthu <b>amadikira</b> kwa nthawi yaitali, ndipo potsiriza zonse <b>zikukwaniritsidwa</b> ndi kukwanira mwa Yesu. Tsatirani zochitika 13 zotsatirazi ndi mzere umenewu — tinthani <b>“Werengani zambiri”</b> pa khadi liri lonse kuti mumve nkhani yozama.",
+  "gospel.eyebrow": "TANTHAUZO LA NKHANIYI KWA “INE”",
+  "gospel.h2": "Mtima weniweni wa Baibulo",
+  "gospel.lead": "Baibulo <b>si buku lophunzitsa “kukhala munthu wabwino.”</b>",
+  "gospel.sublead": "Ndi nkhani ya mmene Mulungu, <b>mwa chisomo chokha</b>, anapulumutsira ochimwa amene sakanatha kudzipulumutsa okha. Pakati pake paima Yesu Khristu.",
+  "gospel.mirror": "<h3>Kuzungulira kosatha kwa Israele kwenikweni ndi chithunzi cha “ine”</h3><div class=\"cycle\"><b>Kupembedza mafano</b><span class=\"a\">→</span><b>Kuvutika</b><span class=\"a\">→</span><b>Kulira</b><span class=\"a\">→</span><b>Mulungu apulumutsa</b><span class=\"a\">→</span><b>Mafano kunsenso…</b></div><p>Kuyambira pa Oweruza mpaka ku ukapolo, Israele anabwerezabwereza kuzungulira kumeneku mosatha. Baibulo silinalembe izi kuti tinyoze kuti, “Anali achabechabe bwanji.”</p><p>Ndi <b>kalirole</b>. Mfundo si yakuti “Israele anachita zimenezo” koma yakuti <b>“inenso ndimachita zomwezo”</b> (1 Akorinto 10:11).</p><p><b>Fano</b> sili chosema cha mtengo chokha. Ndi <b>chilichonse chimene timachikonda kapena kuchidalira koposa Mulungu</b> — ndalama, kupambana, kuvomerezedwa, anthu, ngakhale ine mwini. Ndipo kugwiritsa ntchito Mulungu ngati <b>chida chopezera zomwe ndimafuna</b> komwenso ndi kupembedza mafano.</p><p class=\"punch\">Potsiriza, fano lozama koposa ndi “ine mwini, ndikukhala pa mpando wachifumu wa Mulungu.”</p>",
+  "gospel.coreIntro": "Nanga Mulungu amampulumutsa bwanji wochimwa wotereyu? Apa pali mtima wa Uthenga Wabwino umene Baibulo limalalikira.",
+  "gospel.crux": "<p class=\"crux-lead\">Baibulo lonse likuloza kumalo amodzi.</p><p>Munthu sakanatha kuthyola kuzungulira kwa uchimo paokha, ndipo panalibe mmodzi wolungama. Choncho winawake anayenera <b>kulipira mtengo m'malo mwathu</b>.</p><p>Yesu sanadze kudzangophunzitsa chabwino chokha. Popeza panalibe njira ina yondipulumutsira, <b>analibe chochita koma kudza.</b></p><p class=\"crux-punch\">Amene anayenera kupachikidwa pa mtanda uja anali <b>ine</b>.<br>Yesu ananyamula <b>uchimo wanga</b> ndi kukhomeredwapo m'malo mwanga.</p><div class=\"crux-verse\">“Koma Iye analasidwa chifukwa cha zolakwa zathu, natundudzidwa chifukwa cha mphulupulu zathu… ndi mikwingwirima yake ife tachiritsidwa.” — Yesaya 53:5</div>",
+  "faq.h": "Kodi mukulimbanabe ndi chinthu china?",
+  "faq.q1": "<span class=\"arr\">▸</span> Ndiye wakupha akangokhulupirira amapita kumwamba, pamene munthu amene anakhala bwino moyo wonse koma sakhulupirira amapita kugehena?",
+  "faq.a1": "<p>Ndi funso lomveka. Koma muli kusamvetsa kuwiri kobisika mkati mwake.</p><p><b>① Baibulo siligawa anthu mu “abwino ndi oipa.”</b> Muyeso suli “wopambana munthu wapafupi” koma “chiyero changwiro cha Mulungu.” Pamaso pake, palibe amene ali “wabwino mokwanira” (Aroma 3:23). Choncho izi siti “munthu wabwino motsutsana ndi wakupha,” koma ndi ngati anthu awiri a matenda omwewo akupha — mmodzi alandira mankhwala, winayo akana nati, “Ndine wathanzi koposa amuneyo.”</p><p><b>② Chinthu chimodzi chokha ndicho chimasiyanitsa kumwamba ndi gehena.</b> Si mphoto ya machitidwe, koma <b>ngati mwalandira Yesu Khristu kukhala Ambuye ndipo vuto la uchimo wanu lathetsedwa.</b> Amene uchimo wake wathetsedwa ndi mwazi wa Khristu apita kumwamba; amene sanamlandire konse, uchimo wake utakhalabe, sapita. Palibe ntchito yabwino ingathetse vuto la uchimo lokhalo.</p><p>Choncho kumwamba ndi gehena si “mphoto ya khalidwe labwino” koma ndi nkhani ya <b>ubale ndi Khristu</b>. Ndipo “kukhulupirira” si kuvomereza m'maganizo chabe, koma kusintha kwa amene amalamulira moyo wanu — amene amamlandiradi sakhala wodzitukumula koma amalapa mozamatu. M'malo mwake, <b>kudziyesa wolungama</b> (“ndine wabwino”) ndilo fano lovuta koposa kuthyola, limene limatipanga kuganiza kuti sitisowa Khristu (Luka 18:9-14).</p><p>Baibulo likunena momveka bwino: <b>“Wokhulupirira Iye saweruzidwa; wosakhulupirira waweruzidwa ngakhale tsopano”</b> (Yohane 3:18). Chiweruzo si “kuyesa moyo wako ukatha,” koma chathetsedwa kale malingana ndi <b>ngati unalandira Khristu</b>.</p><p class=\"faq-v\">Aroma 3:23 · Yohane 3:18 · Aefeso 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Kodi sindingangokhala munthu wabwino popanda kukhulupirira Yesu?",
+  "faq.a2": "<p>Ndi maganizo ofala koposa, koma akusamvetsa vuto lenileni. Tiyeni tigwiritse ntchito fanizo.</p><p><b>Tangoganizirani kuti muli m'sitima ya zigawenga za panyanja.</b> Mosasamala kanthu kuti mumayeretsa bwanji denga, mumakomera bwanji ogwira ntchitowo, kapena moyo wanu ndi wopanda cholakwa motani — mukadali <b>chigawenga</b>, chifukwa sitimayo ikukunyamulani kupita kumene iyo ikupita (doko la chiweruzo). Vuto si “mphambano za machitidwe anu” koma <b>“sitima imene muli wake” (umene ndinu)</b>.</p><p>Choncho Uthenga Wabwino sukunena kuti “yesetsa kukhala wabwino” koma <b>“sinthani sitima.”</b> Tsikani pa sitima ya uchimo ndi kuwolokera kwa Yesu — ku umene watsopano wa <b>mwana wa Mulungu</b>. Si kukweza mphambano zanu ndi khama, koma kudalira Iye amene watambasula dzanja lake ndi kuwolokera ku sitima yake.</p><p>Ndithudi Baibulo likufotokoza chipulumutso ngati kusunthika kumeneko — <b>“amene anatilanditsa ife kuulamuliro wa mdima, natisunthitsa kutilowetsa mu ufumu wa Mwana wa chikondi chake”</b> (Akolose 1:13).</p><p>Musasokonezedwe: <b>izi sizitanthauza kuti moyo wabwino ulibe phindu.</b> Ubwino si “chofunika” cha chipulumutso koma <b>chipatso</b> chake. Amene wasintha sitima tsopano amakhala bwino osati chifukwa cha mantha, koma chifukwa cha <b>chikondi cha mwana</b>.</p><p class=\"faq-v\">Akolose 1:13 · Yohane 1:12 · Yohane 3:3 · Aefeso 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Ngati wochita zoipa akhala mu mtendere, akunena kuti “Mulungu wandikhululukira,” pamene wovutitsidwa akuvutikabe — kodi chikhululukirochi sichotchipa kwambiri?",
+  "faq.a3": "<p>Funsoli ndi lomveka, ndipo ululu umenewu ndi weniweni. Koma kunena kotereku si “chikhululukiro cha Baibulo” — ndi <b>kupotoza</b> kwake.</p><p><b>① Chikhululukiro cha Mulungu sichotchipa konse.</b> Uchimo sukutsekedwa pansi ngati sunachitike; Mulungu mwiniyo analipira mtengo wake ndi moyo wa Mwana wake. Mtanda suli umboni wakuti uchimo umalingaliridwa mosalemekeza, koma wakuti uchimo ndi wolemera chotere — ndilo chikhululukiro chodula koposa pa dziko lapansi.</p><p><b>② Kulapa kwenikweni kumabala chipatso.</b> Ngati wochita zoipa akhala wodzitama pamaso pa wovutitsidwayo — “Mulungu wandikhululukira, choncho ndili mu mtendere” — ameneyo si kulapa koma kutsanzira kwake (Mateyu 3:8). Ndipo chikhululukiro pakati pa munthu ndi Mulungu sichifafaniza bala la wovutitsidwayo kapena kumkakamiza kukhululuka.</p><p><b>③ Uchimo sumangosiyidwa chabe.</b> Uchimo uliwonse umalipiridwa pa malo amodzi mwa awiri — <b>kapena Khristu amaunyamula pa mtanda</b> (kwa amene amadalira Iye palibenso chitsutso, Aroma 8:1), <b>kapena amene amamkana mpaka kumapeto amaunyamula yekha.</b> Choncho palibe “chikhululukiro chotchipa.” Wochita zoipayo amayeneranso kuyankha pamaso pa chilungamo cha dziko lino (Aroma 13:1-4).</p><p><b>④ Misozi ya wovutitsidwa siyaing'ono konse pamaso pa Mulungu.</b> Mulungu amalira pamodzi ndi olira, amakumbukira msozi uliwonse, ndipo potsiriza adzaupukuta Yekha (Chivumbulutso 21:4). Choncho wovutitsidwayo saperekedwa kunyamula kulemera kwa kubwezera yekha, koma akhoza kuchipereka kwa Mulungu wolungama (Aroma 12:19 — “Kubwezera kuli kwanga, Ine ndidzabwezera, ati Ambuye”).</p><p class=\"faq-v\">Mateyu 3:8 · Aroma 8:1 · Aroma 13:1-4 · Chivumbulutso 21:4</p>",
+  "respond.h3": "Nanga — ine bwanji?",
+  "respond.sub": "Chikondi ichi si chidziwitso koma <b>chiitano</b>. Ngati chikondi chimene chinakhomeredwa m'malo mwanu chakhudza mtima wanu, pempherani izi pang'onopang'ono, mzere ndi mzere.",
+  "respond.prayer": "<p>Mulungu,</p><p>ndikuvomera kuti ndine wochimwa amene sangadzipulumutse yekha.</p><p>Ndikhulupirira kuti Yesu anandifera pa mtanda ndipo anauka.</p><p>Chonde khululukirani machimo anga onse, ndipo kuyambira lero khalani Ambuye a moyo wanga.</p><p>Ndilandireni kukhala mwana wanu, ndipo ndipatseni kukhala ndi moyo watsopano.</p><p class=\"amen\">M'dzina la Yesu ndipemphera. Amen.</p>",
+  "respond.after": "Ngati mwapemphera izi mochokera mu mtima, Baibulo likunena kuti <b>mwakhala mwana wa Mulungu</b>. Simulinso nokha — pezani mpingo wapafupi ndipo yendani njira ya chikhulupiriro pamodzi ndi anzanu.",
+  "respond.verse": "“Koma onse amene anamlandira Iye… anapatsa mphamvu yakukhala ana a Mulungu” — Yohane 1:12 · Aroma 10:9-10",
+  "closing.main": "Mulungu mmodzi,<br>kudzera mu nkhani imodzi,<br>akutifuna ndi <em>chikondi</em><br>chimene sichileka konse.",
+  "closing.verse": "“ngakhale imfa, ngakhale moyo… ngakhale cholengedwa china chilichonse, sichingadzakhoze kutisiyanitsa ife ndi chikondi cha Mulungu, chimene chili mwa Khristu Yesu Ambuye wathu.” — Aroma 8:38-39",
+  "closing.small": "Pa nkhani iyi, Chilamulo, mabuku a ndakatulo, aneneri, ndi makalata zikuwonjezera “mnofu.”<br>Kuyambira tsopano, buku lililonse mukatsegula, mudzadziwa “muli pati mu nkhaniyi.”",
+  "closing.share": "↗ Gawani nkhani iyi",
+  "about.line": "Zopangidwa malingana ndi maganizo a <b>mbiri yachiwombolo, achisomo achipulotesitanti achisinthiko</b> amene mpingo wambiri wachipulotesitanti ku Korea umagawana.",
+  "about.contact": "Mafunso · ndemanga — <a id=\"contact\" class=\"mail\">Tilembereni imelo</a>"
+ },
+ "epochs": [
+  {
+   "tag": "CHIPANGANO CHAKALE · CHIYAMBI",
+   "title": "Chilengedwe",
+   "date": "Pachiyambi",
+   "one": "Mulungu analenga dziko limene linali “labwino kwambiri.”",
+   "people": "Mulungu; Adamu ndi Hava",
+   "events": "Masiku asanu ndi limodzi a chilengedwe, munthu wopangidwa mu chifaniziro cha Mulungu, kupuma kwa Sabata",
+   "q": "Pachiyambi Mulungu adalenga kumwamba ndi dziko lapansi.",
+   "cite": "Genesis 1:1",
+   "christ": "Dziko linapangidwa kudzera mu “Mau.” Uthenga wa Yohane ukulengeza kuti Mau ameneyu ndi Yesu mwiniyo (Yohane 1:1-3).",
+   "detail": "<p>Baibulo siliyamba ndi mtsutso wa filosofi koma ndi chilengezo: <b>“Pachiyambi Mulungu…”</b> Dziko si ngozi koma ndi ntchito ya Mulungu wa munthu weniweni.</p><ul><li><b>Chifaniziro cha Mulungu</b> · pa zolengedwa zonse, munthu yekha anapangidwa kufanana ndi Mulungu — kuti amdziwe ndi kusamalira dziko.</li><li><b>Kupuma</b> · kupuma kwa tsiku lachisanu ndi chiwiri kukusonyeza zonse zatha ndi mu mtendere (shalom): “linali labwino.”</li><li><b>Edeni</b> · dziko lisanaonongeke, kumene Mulungu ndi anthu amayenda pamodzi.</li></ul>",
+   "next": "Koma ukwanirowu uli pafupi kuswedwa…"
+  },
+  {
+   "tag": "CHIPANGANO CHAKALE · VUTO LIYAMBA",
+   "title": "Kugwa",
+   "date": "Pachiyambi",
+   "one": "Uchimo unalowa, ndipo ubale pakati pa anthu ndi Mulungu unadulika.",
+   "people": "Adamu ndi Hava; njoka (Satana)",
+   "events": "Kudya chipatso choletsedwa, kuthamangitsidwa ku Edeni, kufika kwa imfa ndi kuvutika",
+   "q": "ndidzaika udani pakati pa iwe ndi mkaziyo… idzalalira mutu wako",
+   "cite": "Genesis 3:15",
+   "christ": "Lonjezo loyamba la Uthenga Wabwino, lopatsidwa pomwepo Kugwa kutachitika: “mbeu ya mkazi” idzaphwanya mutu wa njoka — ndiye Yesu (Genesis 3:15; Aroma 16:20; Agalatiya 4:4).",
+   "detail": "<p>Kudzera mu kusamvera kwa kufuna “kukhala ngati Mulungu,” uchimo unalowa m'dziko. Chotsatira chake si kungoswa lamulo chabe koma <b>kuswedwa kwa ubale</b>.</p><ul><li><b>Maubale oswedwa</b> · ndi Mulungu (kubisala), ndi anzathu (kuimbana mlandu), ndi chilengedwe (minga ndi kuvutika).</li><li><b>Imfa</b> · chenjezo lakuti “udzafadi” likukwaniritsidwa.</li><li><b>Genesis 3:15</b> · komatu pakati pa chiweruzo, lonjezo la chipulumutso likudza poyamba. Akatswiri amalitcha <b>protoevangelium (Uthenga Wabwino woyamba)</b>.</li></ul>",
+   "next": "Tsopano Mulungu akuitana munthu mmodzi kuti ayambe chiwombolo…"
+  },
+  {
+   "tag": "CHIPANGANO CHAKALE · LONJEZO",
+   "title": "Makolo Akale",
+   "date": "cha m'ma 2000 B.C.",
+   "one": "Mulungu akulonjeza Abrahamu, “Udzakhala ngalande ya madalitso.”",
+   "people": "Abrahamu · Isake · Yakobo · Yosefe",
+   "events": "Pangano la Abrahamu, kumanga Isake, ana khumi ndi awiri a Yakobo, Yosefe akwera ku ulamuliro ku Egypt",
+   "q": "ndidzakuyesa iwe mtundu waukulu… mwa iwe adzadalitsidwa mabanja onse a dziko lapansi.",
+   "cite": "Genesis 12:2-3",
+   "christ": "Lonjezo lakuti “mabanja onse adzadalitsidwa” likukwaniritsidwa mwa Yesu, mbeu ya Abrahamu (Agalatiya 3:16).",
+   "detail": "<p>Mulungu akuyamba kuthana ndi vuto la anthu onse pa kuitana munthu mmodzi, <b>Abrahamu</b>. Mtima wake ndi <b>pangano (lonjezo)</b> — mtundu waukulu, dziko, ndi “madalitso kwa mabanja onse.”</p><ul><li><b>Chikhulupiriro</b> · Abrahamu anakhulupirira lonjezo losaoneka, ndipo kunayesedwa kwa iye chilungamo (Genesis 15:6).</li><li><b>Isake ndi Yakobo</b> · lonjezo likupitirira; Yakobo (Israele) ndi bambo wa mafuko khumi ndi awiri.</li><li><b>Yosefe</b> · anagulitsidwa ndi abale ake komabe anakwezedwa ku ulamuliro — “Mulungu anachipangira chabwino” (Genesis 50:20).</li></ul>",
+   "next": "Potsatira Yosefe, banja likutsikira ku Egypt — ndipo likusanduka akapolo…"
+  },
+  {
+   "tag": "CHIPANGANO CHAKALE · CHIWOMBOLO",
+   "title": "Eksodo ndi Chipululu",
+   "date": "cha m'ma 1446 B.C.",
+   "one": "Mulungu anapulumutsa anthu akapolo ndi kuwasandutsa ake.",
+   "people": "Mose, Aroni, Farao",
+   "events": "Miliri khumi, Paska, kuwoloka Nyanja Yofiira, Malamulo Khumi pa Sinai, chihema, zaka 40 m'chipululu",
+   "q": "ndidzalandira inu mukhale anthu anga, ndipo ndidzakhala Ine Mulungu wanu.",
+   "cite": "Eksodo 6:7",
+   "christ": "Paska — kumene mwazi wa mwana wankhosa unatembenuza imfa — ukuloza kwa Yesu, “Paska wathu,” wopachikidwa chifukwa cha ife (1 Akorinto 5:7).",
+   "detail": "<p>Chiwombolo chachikulu koposa cha Chipangano Chakale. Israele amene anali kapolo akumasulidwa ndi mphamvu ya Mulungu ndi kupangidwa kukhala <b>anthu</b> ake.</p><ul><li><b>Paska</b> · nyumba yodzozedwa ndi mwazi wa mwana wankhosa imapulumuka ku imfa — chitsanzo cha nsembe zonse zotsatira.</li><li><b>Nyanja Yofiira</b> · chipulumutso pamene njira yatha; “kuwoloka” kukhala chizindikiro cha chiyambi chatsopano.</li><li><b>Pangano la Sinai</b> · kudzera mu Malamulo akuphunzira kukhala anthu a Mulungu.</li><li><b>Chihema</b> · malo opatulika onyamulika kumene Mulungu amakhala pakati pa anthu ake — chithunzithunzi cha “Imanueli.”</li><li><b>Zaka 40</b> · kusamvera kukumayendetsa mbadwo m'chipululu, komabe Mulungu akhala pafupi ndi mana ndi mzati wa mtambo ndi moto.</li></ul>",
+   "next": "Atayima m'mphepete mwa dziko lolonjezedwa, akukonzekera kulowa…"
+  },
+  {
+   "tag": "CHIPANGANO CHAKALE · KUKHAZIKIKA",
+   "title": "Kugonjetsa ndi Oweruza",
+   "date": "cha m'ma 1400–1050 B.C.",
+   "one": "Analandira dziko, koma popanda mfumu aliyense anachita chomkomera.",
+   "people": "Yoswa; oweruza monga Gidiyoni ndi Samsoni; Rute",
+   "events": "Kugwa kwa Yeriko, kukhazikika ku Kanani, kuzungulira kobwerezedwa kwa uchimo–chiweruzo–chiwombolo",
+   "q": "Panalibe mfumu mu Israele masiku aja; yense anachita chomkomera pamaso pake.",
+   "cite": "Oweruza 21:25",
+   "christ": "Kuchokera ku mzere wa Rute kukudza Davide, ndipo kuchokera ku mzere wa Davide kukudza Yesu (Mateyu 1). Ngakhale mu chisokonezo, mtengo wa banja la Mesiya ukupitirirabe.",
+   "detail": "<p>Pansi pa Yoswa akulowa m'dziko lolonjezedwa, koma atakhazikika posachedwa amaiwala Mulungu. Oweruza ndi kalembedwe komweko kobwerezedwa.</p><ul><li><b>Kuzungulira kotsika</b> · uchimo → kuponderezedwa → kulira → woweruza apulumutsa → uchimo kunsenso. Kumangoipiraipira.</li><li><b>Oweruza</b> · Gidiyoni, Samsoni, Debora — opulumutsa a kanthawi, ngwazi koma ndi zolakwa zambiri.</li><li><b>Rute</b> · nkhani yowala ya kukhulupirika m'nthawi ya mdima; mkazi wachilendo akulowa mu mzere wa Davide (ndi Yesu).</li></ul>",
+   "next": "Anthu akulira, “Tipatseni mfumu nafenso!”…"
+  },
+  {
+   "tag": "CHIPANGANO CHAKALE · NTHAWI YA UREMU",
+   "title": "Ufumu Wogwirizana",
+   "date": "cha m'ma 1050–930 B.C.",
+   "one": "Mulungu akulonjeza Davide, “Mpando wako wachifumu udzakhala ku nthawi zonse.”",
+   "people": "Sauli · Davide · Solomoni",
+   "events": "Mfumu yoyamba Sauli, Davide ndi Goliyati, pangano la Davide, Solomoni amanga Kachisi",
+   "q": "mpando wachifumu wako udzakhazikika ku nthawi zonse.",
+   "cite": "2 Samueli 7:16",
+   "christ": "“Mpando wachifumu wosatha” ukukwaniritsidwa mwa Yesu, mwana wa Davide — ndicho chifukwa amatchedwa “Mwana wa Davide” (Luka 1:32-33; Mateyu 1:1).",
+   "detail": "<p>Pamwamba pa Israele, polamuliridwa ndi mafumu atatu.</p><ul><li><b>Sauli</b> · mfumu imene anthu anafuna; chiyambi chabwino chowonongedwa ndi kusamvera.</li><li><b>Davide</b> · “munthu wa pamtima pa Mulungu.” Akugonjetsa Goliyati ndi kupanga Yerusalemu likulu. Akuchita uchimo waukulu (Bateseba) komabe akulapa kuchokera pamtima (Salmo 51).</li><li><b>Pangano la Davide (2 Samueli 7)</b> · Mulungu akulonjeza kukhazikitsa mzera wa Davide ku nthawi zonse — muzu wofunika wa chiyembekezo cha Mesiya.</li><li><b>Solomoni</b> · pa nsonga ya nzeru ndi chuma akumanga <b>Kachisi</b>, koma kumapeto kwa moyo wake akutembenukira ku mafano.</li></ul>",
+   "next": "Solomoni atamwalira, ufumu ukugawanika pawiri…"
+  },
+  {
+   "tag": "CHIPANGANO CHAKALE · KUCHEPA",
+   "title": "Ufumu Wogawanika",
+   "date": "930–586 B.C.",
+   "one": "Wagawanika pawiri kumwera (Yuda) ndi kumpoto (Israele), mtunduwo ukusweka pang'onopang'ono.",
+   "people": "Mafumu a maufumu onse awiri; aneneri monga Eliya, Yesaya, Yeremiya",
+   "events": "Ufumu ukugawanika, kupembedza mafano kukufalikira, aneneri akuchenjeza",
+   "q": "Motero Aisraele anapandukana ndi nyumba ya Davide kufikira lero.",
+   "cite": "1 Mafumu 12:19",
+   "christ": "M'nthawi imeneyi aneneri akulosera za Mesiya wodzayo momveka koposa (Yesaya 9:6; Yesaya 53).",
+   "detail": "<p>M'masiku a mwana wa Solomoni mtunduwo ukugawanika: <b>ufumu wakumpoto wa Israele</b> (mafuko 10, likulu Samariya) ndi <b>ufumu wakumwera wa Yuda</b> (mafuko 2, likulu Yerusalemu).</p><ul><li><b>Israele (kumpoto)</b> · mfumu iliyonse imatumikira mafano; ukugwa kwa Asuri mu 722 B.C.</li><li><b>Yuda (kumwera)</b> · mzere wa Davide ukupitirira, ndi mafumu owerengeka abwino monga Hezekiya ndi Yosiya, koma onsewa akuchepa.</li><li><b>Aneneri</b> · Eliya, Amosi, Yesaya, Yeremiya akulira “bwererani!” Ulosi wa Mesiya ukufika pa nsonga yake apa (“mtumiki wovutika” wa Yesaya 53).</li></ul>",
+   "next": "Potsiriza chiweruzo chochenjezedwa chikudza — akutengedwa ukapolo…"
+  },
+  {
+   "tag": "CHIPANGANO CHAKALE · CHIWERUZO",
+   "title": "Ukapolo",
+   "date": "722 / 586 B.C.",
+   "one": "Mtunduwo ukugwa ndipo anthu akukokeredwa ku mayiko achilendo.",
+   "people": "Danieli, Ezekieli, Nebukadinezara",
+   "events": "Israele akugwa kwa Asuri (722), Yuda akugwa kwa Babiloni ndipo Kachisi akuwonongedwa (586)",
+   "q": "Ku mitsinje ya ku Babiloni, kumeneko tinakhala pansi, inde tinalira, pokumbukira Ziyoni.",
+   "cite": "Salmo 137:1",
+   "christ": "Mu kuya kwa kutaya mtima Yeremiya akulonjeza “pangano latsopano” (Yeremiya 31:31) — pangano lomwelo limene Yesu akulisindikiza pa Mgonero Wotsiriza.",
+   "detail": "<p>Machenjezo akukwaniritsidwa. Kachisi akutentha ndipo anthu akutengedwa ku Babiloni — kutaya dziko, mfumu, ndi Kachisi: malo otsika koposa.</p><ul><li><b>Kugwa kuwiri</b> · Israele (Asuri, 722 B.C.) ndi Yuda (Babiloni, 586 B.C.).</li><li><b>Danieli</b> · chitsanzo cha chikhulupiriro ngakhale mu bwalo lachikunja (dzenje la mikango); akuona masomphenya a “ufumu wosatha” wodzayo.</li><li><b>Mbaliwali ya chiyembekezo</b> · masomphenya a Ezekieli a mafupa ouma akutsitsimuka (Ezekieli 37) ndi “pangano latsopano” la Yeremiya zikuloza tsogolo mu mdima.</li></ul>",
+   "next": "Patapita zaka makumi asanu ndi awiri, Mulungu akutsegula njira — akubwerera kunyumba…"
+  },
+  {
+   "tag": "CHIPANGANO CHAKALE · KUBWEZERETSEDWA",
+   "title": "Kubwerera ku Ukapolo",
+   "date": "538–430 B.C.",
+   "one": "Akubwerera ndi kumanganso Kachisi ndi malinga.",
+   "people": "Ezara, Nehemiya, Estere, Zerubabeli",
+   "events": "Kubwerera mwa lamulo la Koresi, kumanganso Kachisi, kukonza malinga a Yerusalemu, kubwezeretsa Mau",
+   "q": "chimwemwe cha Yehova ndicho mphamvu yanu.",
+   "cite": "Nehemiya 8:10",
+   "christ": "Malaki, buku lotsiriza la Chipangano Chakale, likumaliza polosera za mthenga wokonza njira ya Mesiya: “ndituma mthenga wanga” (Malaki 3:1).",
+   "detail": "<p>Mwa lamulo la mfumu ya ku Perisiya, Koresi (538 B.C.) kubwerera kukuyamba. Mu magulu atatu akubwerera ndi kumanganso zomwe zinaonongeka.</p><ul><li><b>Zerubabeli</b> · akumanganso Kachisi (anatha mu 516 B.C.).</li><li><b>Ezara</b> · akuphunzitsanso Mau ndi kutsitsimutsa chikhulupiriro.</li><li><b>Nehemiya</b> · akumanganso malinga a Yerusalemu mu masiku 52.</li><li><b>Estere</b> · akupulumutsa Ayuda a ku Perisiya ku chiwonongeko — “kaya kuti unabwerera ku nthawi ngati iyi.”</li><li><b>Khumbo lopitirira</b> · Kachisi waima, koma palibe mfumu ngati Davide. Anthu akudikira Mesiya.</li></ul>",
+   "next": "Ndipo kenako… ngati kumwamba kwakhala chete, zaka 400 zikupita."
+  },
+  {
+   "tag": "PAKATI PA ZIPANGANO · KUKONZA MALO",
+   "title": "Zaka za Chete",
+   "date": "cha m'ma 430–4 B.C.",
+   "one": "Zaka 400 popanda mau a mneneri — komabe malo amakonzedwa mwakachetechete.",
+   "people": "Alekisandro Wamkulu, Amakabe, Roma",
+   "events": "Perisiya → Girisi → ufulu wa Amakabe → ulamuliro wa Roma",
+   "q": "koma pokwaniridwa nthawi, Mulungu anatuma Mwana wake, wobadwa ndi mkazi,",
+   "cite": "Agalatiya 4:4",
+   "christ": "“Kukonza malo” konseku kunali Mulungu akugwira ntchito kuti Yesu adze pa “kukwaniridwa kwa nthawi” lenileni.",
+   "detail": "<p>Kuyambira Malaki mpaka Chipangano Chatsopano, pafupifupi zaka 400 zikupita popanda Malemba atsopano. Komabe kuseri kwa mbiri Mulungu anali kukonza njira ya Uthenga Wabwino.</p><ul><li><b>Maufumu akusintha</b> · Perisiya → Girisi (Alekisandro, 333 B.C.) → Aigupto ndi Asuri → kuwukira kwa Amakabe (167 B.C.) → Roma (63 B.C.).</li><li><b>Chigiriki</b> · kugonjetsa kwa Alekisandro kunapanga Chigiriki chinenero chofala; Chipangano Chakale chinamasuliridwa ku Chigiriki (Septuagint), kutsegula njira yakuti Uthenga Wabwino ufalikire mofulumira.</li><li><b>Misewu ndi mtendere wa Roma</b> · misewu yomangidwa bwino ndi “Pax Romana” zikukhala misewu ya umishonale.</li><li><b>Masunagoge ndi magulu</b> · kuphunzitsa kwa sunagoge kukukhazikika; Afarisi ndi Asaduki akudza; ndipo <b>khumbo la Mesiya</b> likucha.</li></ul>",
+   "next": "Ndipo chete chikuswedwa — potsiriza, Iye akudza."
+  },
+  {
+   "tag": "CHIPANGANO CHATSOPANO · KUKWANIRITSIDWA",
+   "title": "Yesu Akudza",
+   "date": "cha m'ma 4 B.C.–A.D. 30",
+   "one": "Mesiya wolonjezedwa anadza, anafa, ndipo anauka.",
+   "people": "Yesu, ophunzira khumi ndi awiri, Yohane M'batizi",
+   "events": "Kubadwa mu thupi, utumiki wake ndi chiphunzitso ndi zozizwitsa, imfa pa mtanda, kuuka pa tsiku lachitatu",
+   "q": "Ndipo Mau anasandulika thupi, nakhazikika pakati pa ife… wodzala ndi chisomo ndi choonadi.",
+   "cite": "Yohane 1:14",
+   "christ": "Mbeu ya mkazi (zochitika 2), madalitso a Abrahamu (3), mwana wankhosa wa Paska (4), mfumu yosatha ya Davide (6), pangano latsopano (8) — zonse zikukwaniritsidwa mwa munthu mmodzi, Yesu: Mneneri, Wansembe, ndi Mfumu yathu yeniyeni.",
+   "detail": "<p>Chete chikuswedwa; Wolonjezedwa akufika. Mauthenga anayi akuchitira umboni za moyo, imfa, ndi kuuka kwa Yesu kuchokera ku mbali zinayi.</p><ul><li><b>Kubadwa mu thupi</b> · Mulungu akukhala munthu (Imanueli, “Mulungu nafe”), m'malo onyozeka a Betelehemu.</li><li><b>Utumiki</b> · akuphunzitsa za ufumu wa Mulungu, akuchiritsa odwala, akuitana ochimwa. “Wandiona Ine, waona Atate.”</li><li><b>Mtanda</b> · akulipira m'malo mwathu mtengo wa uchimo ndi imfa zobweretsedwa ndi Kugwa (zochitika 2). Mwana wankhosa weniweni wa Paska.</li><li><b>Kuuka</b> · pa kuuka tsiku lachitatu, akuthyola mphamvu ya uchimo, imfa, ndi Satana — kale pa mtanda “atavula maukulu ndi maulamuliro… nawagonjetsera” (Akolose 2:15).</li></ul><p>Choncho Yesu ndi <b>Mneneri wathu weniweni</b> (akusonyeza njira yopita kwa Mulungu), <b>Wansembe wathu weniweni</b> (akuwombola uchimo ndi thupi lake), ndi <b>Mfumu yathu yeniyeni</b> (akugonjetsa uchimo, imfa, ndi Satana ndi kulamulira ku nthawi zonse).</p>",
+   "next": "Yesu woukayo akutumiza ophunzira ake ku dziko…"
+  },
+  {
+   "tag": "CHIPANGANO CHATSOPANO · KUFALIKIRA",
+   "title": "Mpingo Ukuyamba",
+   "date": "cha m'ma A.D. 30–",
+   "one": "Mzimu akudza, ndipo Uthenga Wabwino ukufalikira kufikira malekezero a dziko.",
+   "people": "Petro, Paulo, mpingo woyamba",
+   "events": "Mzimu akupatsidwa pa Pentekoste, mpingo ukubadwa, Uthenga Wabwino ukufalikira kuchokera ku Yerusalemu kupita ku Roma kudzera mu chizunzo",
+   "q": "mudzalandira mphamvu, Mzimu Woyera atadza pa inu… kufikira malekezero ake a dziko.",
+   "cite": "Machitidwe 1:8",
+   "christ": "Nkhani iyi ikupitirirabe ngakhale lero. Baibulo likumaliza polonjeza kuti Yesu adzabweranso ndi kupanga zinthu zonse zatsopano (Chivumbulutso 21).",
+   "detail": "<p>Yesu atakwera kumwamba, Mzimu wolonjezedwa akudza pa Pentekoste ndipo mpingo ukubadwa. Uthenga Wabwino ukufalikira mwamphamvu.</p><ul><li><b>Pentekoste</b> · Mzimu akusandutsa ophunzira amantha kukhala mboni zolimba mtima.</li><li><b>Petro</b> · akulalikira Uthenga Wabwino kwa Ayuda ku Yerusalemu.</li><li><b>Paulo</b> · kuchoka kukhala wozunza kufikira mtumwi, akukhazikitsa mipingo m'dziko la amitundu ndi kulemba makalata.</li><li><b>Kufikira malekezero a dziko</b> · Yerusalemu → Yudeya → Samariya → Roma. Lonjezo kwa Abrahamu la “mabanja onse” likukwaniritsidwa.</li><li><b>Ndi ife</b> · nkhani siyitha; ikupitirira kuloza kubwera kwa Yesu ndi kumwamba kwatsopano ndi dziko latsopano.</li></ul>",
+   "next": "Koma nkhani siyitha apa…"
+  },
+  {
+   "tag": "CHIPANGANO CHATSOPANO · KUKWANIRITSIDWA KOMALIZA",
+   "title": "Kubwezeretsedwa",
+   "date": "Kudzayo",
+   "one": "Yesu akubweranso ndi kupanga zinthu zonse zatsopano.",
+   "people": "Yesu wobweranso; mitundu yonse",
+   "events": "Kubwera kwachiwiri, chiweruzo chomaliza, mathero a uchimo·imfa·misozi, kumwamba katsopano ndi dziko latsopano",
+   "q": "adzawapukutira misozi yonse… ndipo sipadzakhalanso imfa; ndipo sipadzakhalanso maliro, kapena kulira, kapena chowawitsa",
+   "cite": "Chivumbulutso 21:4",
+   "christ": "Edeni ya chilengedwe choyamba ikubwezeretsedwa potsiriza ngati “Yerusalemu Watsopano.” Mulungu akukhala ndi anthu ake ku nthawi zonse — ukwanitso wa Imanueli (Chivumbulutso 21:3; Mateyu 1:23).",
+   "detail": "<p>Baibulo siliyimitsa pa nthawi ya mpingo. Buku lake lotsiriza, Chivumbulutso, likuwonetsa Yesu <b>akubweranso</b> kukwaniritsa zonse.</p><ul><li><b>Kubwera kwachiwiri</b> · mfumu yolonjezedwa ikubwera mu ulemerero.</li><li><b>Chigonjetso chomaliza</b> · Satana ndi imfa zikuwonongedwa ku nthawi zonse, ndipo Khristu akulamulira ngati Mfumu ya mafumu (1 Akorinto 15:25-26; Chivumbulutso 20:10).</li><li><b>Chiweruzo ndi kuuka</b> · cholakwa chilichonse chikuwongoledwa, ndipo akufa akuukitsidwa.</li><li><b>Kumwamba katsopano ndi dziko latsopano</b> · uchimo, imfa, misozi, ndi chowawitsa zikutha ku nthawi zonse (Chivumbulutso 21:4).</li><li><b>Edeni yobwezeretsedwa</b> · mu “Yerusalemu Watsopano” wopambana chiyambi, Mulungu akukhala ndi anthu ake ku nthawi zonse — komaliza kumene Baibulo lonse lakhala likuloza.</li></ul><p>Choncho tsopano ndi nthawi ya <b>“kale, koma osati panobe”</b>: mwa Yesu chipulumutso <b>kale</b> chakwaniritsidwa, koma ukwanitso wake <b>chikadali</b> chodikiridwa.</p>",
+   "next": "Nanga nkhani yonseyi ikutanthauza chiyani kwa “ine”?"
+  }
+ ],
+ "love": [
+  "Nkhani siyiyamba ndi chiweruzo koma ndi chilengedwe chotsanuka mu chikondi.",
+  "Pomwepo anthu atachimwa, Mulungu analonjeza chiwombolo pamenepo.",
+  "Mulungu anadza poyamba kwa munthu osayenera, anamuitana ndi dzina lake, ndi kumupanga ngalande ya madalitso.",
+  "Anamva kubuula kwa anthu akapolo ndipo anatsika Yekha kudzawapulumutsa.",
+  "Ngakhale anam'pandukira mobwerezabwereza, nthawi iliyonse pamene analira anatuma wopulumutsa ndi kuwadzutsanso.",
+  "Sanataye ngakhale Davide wogwa; mwa iye analonjeza Mfumu yosatha.",
+  "Kwa anthu omtembenukira msana, anapitiriza kutuma aneneri, akudandaula, “Chonde bwererani kunyumba.”",
+  "Anapita nawo ngakhale ku dziko la mdima la ukapolo, ndipo analonjeza kubwezeretsedwa.",
+  "Ngakhale kwa anthu olephera mobwerezabwereza, sanabwezere lonjezo lake.",
+  "Ngakhale mu zaka 400 za chete, mosaoneka, anali kukonza njira ya chipulumutso.",
+  "Pamene tinali tichimwabe, anatuma Mwana wake kudzapereka moyo wake.",
+  "Chikondi chimene tinalandira, tsopano akuchitumiza kuti chiyenderere ku dziko lonse.",
+  "Potsiriza adzapukuta msozi uliwonse ndi kubwezeretsa zinthu zonse mu chikondi."
+ ],
+ "mis": [
+  {
+   "w": "“Chifukwa chiyani Mulungu analenga anthu okhoza kuchimwa? Kodi sikukanakhala bwino osatilenga konse?”",
+   "t": "Mulungu analenga dziko ndi anthu osati chifukwa cha kuchepa kwina, koma chifukwa cha chikondi chotsanuka. Kupanga anthu kukhala <b>anthu ogwirizana ndi Mulungu</b> kuli, mwa kokha, chikondi. Ndipo ngakhale kulowa kwa uchimo sikunali kunja kwa dongosolo la chipulumutso la Mulungu (Aefeso 1:4-5). Chochitika choyamba cha Baibulo si chiweruzo koma chikondi."
+  },
+  {
+   "w": "“Kuthamangitsidwa ndi kupatsidwa imfa chifukwa cha kudya chipatso chimodzi — kodi Mulungu si wankhanza kwambiri?”",
+   "t": "Kutulutsidwa ku Edeni kunali chiweruzo komanso chifundo. Kudya za mtengo wa moyo ndi kukhala ndi moyo ku nthawi zonse mu mkhalidwe woswekawo, wodulika ndi Mulungu, kukanakhala kukhala wokodwa mu kuvutika ku nthawi zonse (Genesis 3:22). Kulola imfa kunatsegula njira yobwerera, ndipo pomwepo Mulungu analonjeza Wopulumutsa (Genesis 3:15). Chikondi chinali kale mkati mwa chiweruzo."
+  },
+  {
+   "w": "“Abrahamu anasankhidwa chifukwa anali ndi chikhulupiriro chachikulu — kodi anthu onse a Baibulo si ngwazi za makhalidwe?”",
+   "t": "Abrahamu nayenso ananama ndi kukayika; Yakobo anali wonyenga. Mulungu sanaitane anthu “oyenera” koma olakwitsa, mwa chisomo. Chifukwa sichinali ubwino wawo koma chikondi chokhulupirika cha Mulungu (Deuteronomo 7:7-8)."
+  },
+  {
+   "w": "“Kodi Chilamulo (Malamulo) si mayeso amene muyenera kupambana kuti mupulumutsidwe?”",
+   "t": "Mulungu anawapulumutsa <b>asanapereke</b> Chilamulo. Ngakhale Malamulo Khumi akuyamba ndi chilengezo cha chipulumutso: “Ine ndine Yehova Mulungu wako, amene ndinatulutsa iwe ku dziko la Ejipito” (Eksodo 20:2). Chilamulo si “sungani kuti mupulumutsidwe,” koma chitsogozo cha chikondi cha mmene anthu opulumutsidwa kale ayenera kukhalira (Deuteronomo 7:7-9). Chisomo nthawi zonse chimadza poyamba; kumvera ndiko yankho."
+  },
+  {
+   "w": "“Kugonjetsa kwa Kanani kunali kupha mwankhanza — choncho Mulungu wa Chipangano Chakale ndi wankhanza ndithu.”",
+   "t": "Ili ndi nkhani yovuta yosatha kuthetsedwa mu chiganizo chimodzi. Koma Baibulo siliyiyimira ngati chiwawa chongochita, koma ngati chiweruzo pambuyo pa zaka mazana a kuleza mtima ku zoipa zonyanya (kuphatikiza kupha ana nsembe) (Genesis 15:16; Deuteronomo 9:4-5; Levitiko 18:24-25). Mulungu ndi wodekha ngakhale pa kuweruza, ndipo anawalandira mokondwera amene anatembenukira kwa Iye — ngakhale alendo monga Rahabe ndi Rute (Yoswa 6:25; Rute 4:13-17)."
+  },
+  {
+   "w": "“Davide anali ngwazi yopanda chofooka — ndicho chifukwa anatchedwa ‘munthu wa pamtima pa Mulungu.’”",
+   "t": "Davide anachita chigololo ndipo ngakhale kupha. “Munthu wa pamtima pa Mulungu” sikutanthauza wopanda chofooka, koma munthu amene sanabise uchimo wake — amene analapa mozama ndi kupitiriza kubwerera kwa Mulungu (Salmo 51). Chikondi cha Mulungu sichitaya ngakhale amene agwa mwakukulu."
+  },
+  {
+   "w": "“Mneneri ndi wolosera amene amaneneratu za m'tsogolo / Mulungu wa Chipangano Chakale ndi mkwiyo wokha.”",
+   "t": "Mtima wa mneneri si “kuneneratu za m'tsogolo” koma pempho lowawa la Mulungu: “Chonde bwererani.” Ngakhale machenjezo a chiweruzo cholinga chake sichiri kuwononga koma kutembenuza anthu ndi kuwapulumutsa — “sindikondwera nayo imfa ya woipa” (Ezekieli 33:11)."
+  },
+  {
+   "w": "“Ukapolo ukutsimikiza kuti Mulungu anasiya Israele kotheratu.”",
+   "t": "Ukapolo sunali kusiyidwa koma chilango ndi kuyeretsa kwa mwana wokondedwa (Ahebri 12:6). Mulungu sanachoke; anali ndi Danieli pakati pa ukapolo ndipo analonjeza, “ndidziwa malingiriro amene ndilingiririra inu… malingiriro a mtendere, si a choipa, akukupatsani inu adzukulu ndi chiyembekezero” (Yeremiya 29:11)."
+  },
+  null,
+  {
+   "w": "“Popeza panalibe mau kwa zaka 400, Mulungu anachoka kapena anali kupuma.”",
+   "t": "Chete si kupezeka. Anangosalankhula, pamene nthawi yonseyi anali kuyendetsa maufumu, zinenero, ndi misewu kuti akonze malo a chipulumutso. Pa nthawi yachete koposa, Mulungu anali kugwira ntchito moposa, mu chikondi (Agalatiya 4:4)."
+  },
+  {
+   "w": "“Yesu anali mphunzitsi wabwino mmodzi wa makhalidwe chabe / mtanda unali kugonja kowawitsa.”",
+   "t": "Yesu ananena kuti ndi Mulungu mwiniyo (Yohane 8:58), ndipo mtanda sunali ngozi kapena kugonja koma chikondi cholinganizidwa. Sanakokeredwapo mwakakamizo; anataya moyo wake yekha (Yohane 10:18). “Palibe munthu ali nacho chikondi choposa ichi, chakuti munthu ataya moyo wake chifukwa cha abwenzi ake” (Yohane 15:13)."
+  },
+  {
+   "w": "“Mpingo ndi kalabu ya anthu angwiro, kapena nyumba chabe.”",
+   "t": "Mpingo si gulu la “oyera angwiro” koma la <b>ochimwa okhululukidwa</b>. Ngakhale mtumwi Paulo anadzitcha “woposa” pa ochimwa (1 Timoteo 1:15). Mpingo woyamba unakangananso ndi kupunthwa (Machitidwe 6:1; 1 Akorinto 1:11). Si malo odzitamandira, koma anthu opereka chikondi chimene analandira (Yohane 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Uchimo wobadwa nawo — palibe wolungama",
+   "body": "Vuto si “zochita zochepa zoipa” koma muzu wa mtima. Kuyambira Adamu, aliyense amabadwa pansi pa uchimo ndipo sangafike kwa Mulungu paokha.",
+   "vref": "Aroma 3:10-12, 23",
+   "vtext": "Palibe mmodzi wolungama, inde palibe mmodzi… pakuti onse anachimwa, naperewera pa ulemerero wa Mulungu."
+  },
+  {
+   "title": "Chilamulo sichingandipulumutse",
+   "body": "Chilamulo si makwerero koma kalirole. Mukamayesetsa koposa, ndi mmene chimasonyezera mmene mulephereramo. Cholinga chake ndi kutifikitsa kwa Khristu.",
+   "vref": "Aroma 3:20 · Agalatiya 3:24",
+   "vtext": "uchimo udziwika ndi lamulo… chilamulo chidakhala namkungwi wathu wakutifikitsa kwa Khristu."
+  },
+  {
+   "title": "Mwa chisomo — mphatso, osati khama",
+   "body": "Chipulumutso si malipiro a ntchito imene munachita, koma mphatso yaulere kwa amene sayenera. Choncho palibe angadzitamandire.",
+   "vref": "Aefeso 2:8-9",
+   "vtext": "muli opulumutsidwa ndi chisomo chakuchita mwa chikhulupiriro… chosachokera kuntchito, kuti asadzitamandire munthu aliyense."
+  },
+  {
+   "title": "Kuyesedwa wolungama mwa chikhulupiriro",
+   "body": "Osati pa kusunga Chilamulo, koma mwa chikhulupiriro mwa Yesu Khristu, muyesedwa wolungama — mwavekedwa osati chilungamo chanu koma chake.",
+   "vref": "Aroma 5:1 · Agalatiya 2:16",
+   "vtext": "tayesedwa olungama ndi chikhulupiriro… munthu sayesedwa wolungama pa ntchito ya lamulo, koma mwa chikhulupiriro cha Yesu Khristu."
+  },
+  {
+   "title": "Baibulo likuloza kwa Yesu",
+   "body": "Baibulo si buku la anthu akuluakulu kapena la kudzithandiza. Kuyambira Genesis mpaka Chivumbulutso, tsamba lirilonse likuchitira umboni za munthu mmodzi — Yesu Khristu.",
+   "vref": "Yohane 5:39 · Luka 24:27",
+   "vtext": "akundichitira Ine umboni ndi iwo omwewo… nawatanthauzira iwo m'malembo onse zinthu za Iye yekha."
+  },
+  {
+   "title": "Ufumu wa Mulungu — uthenga wapakati wa Yesu",
+   "body": "Mutu umene Yesu anaphunzitsa koposa. Ulamuliro wa Mulungu ngati Mfumu unalowa m'dziko lino ndi Yesu ndipo udzakwaniritsidwa pamene abwerera. Mwa mtanda ndi kuuka kwake, Yesu ndi Mfumu yeniyeni amene anagonjetsa uchimo, imfa, ndi Satana.",
+   "vref": "Marko 1:15",
+   "vtext": "Nthawi yakwanira, ndipo Ufumu wa Mulungu wayandikira; tembenukani mtima, khulupirirani Uthenga Wabwino."
+  },
+  {
+   "title": "Uthenga Wabwino — Iye anakwaniritsa zonse",
+   "body": "Ngongole ya uchimo imene sindikanatha kulipira, Yesu analipira m'malo mwanga pa mtanda, ndipo pa kuuka anagonjetsa imfa. Sindidalira pa “chita izi” koma pa “kwatha.”",
+   "vref": "Yohane 19:30 · Aroma 5:8",
+   "vtext": "Kwatha… pokhala ife chikhalire ochimwa, Khristu adatifera ife."
+  }
+ ]
+}

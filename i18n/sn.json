@@ -1,0 +1,343 @@
+{
+ "menuName": "chiShona",
+ "htmlLang": "sn",
+ "dir": "ltr",
+ "brand": "Bhaibheri muKupeta Kumwe",
+ "docTitle": "Bhaibheri muKupeta Kumwe · Kubva paKusika kusvika kuKereke",
+ "share": {
+  "title": "Bhaibheri muKupeta Kumwe",
+  "text": "Mukupeta kumwe chete, ziva nyaya huru yeBhaibheri — uye chikonzero nei Jesu akauya."
+ },
+ "ui": {
+  "people": "Vanhu",
+  "events": "Zviitiko zvikuru",
+  "christLabel": "Zvinonongedzera kuna Jesu",
+  "loveLabel": "Rudo rusingaregi",
+  "mythWrong": "Kunzwisisa kusakarurama",
+  "mythRight": "Chokwadi",
+  "more": "Verenga zvimwe",
+  "version": "(Bhaibheri 1949/2002)"
+ },
+ "labels": {
+  "start": "Tanga",
+  "thread": "Nyaya",
+  "gospel": "Vhangeri",
+  "about": "Pamusoro"
+ },
+ "s": {
+  "ui.share": "↗ Goverana",
+  "ui.toast": "Chinongedzo chakopwa 📋",
+  "ui.footer": "Bhaibheri muKupeta Kumwe · Mashoko eBhaibheri anobva muBhaibheri 1949/2002",
+  "hero.kicker": "KUBVA PAKUSIKA KUSVIKA KUKEREKE",
+  "hero.title": "Bhaibheri,<br><span class='em'>mukupeta kumwe</span>",
+  "hero.sub": "Mukupeta kumwe chete, ziva nyaya huru yeBhaibheri — uye chikonzero nei Jesu akauya.",
+  "hero.cue": "Pfekenyura pasi<span>↓</span>",
+  "thread.eyebrow": "MUTSARA MUMWE UNOSUNGANIDZA ZVOSE",
+  "thread.h2": "Pakupedzisira, Bhaibheri inyaya imwe chete",
+  "thread.flow": "<b>Chivimbiso</b><span class='arw'>→</span><b>Kumirira</b><span class='arw'>→</span><b>Kuzadziswa</b>",
+  "thread.note": "Mwari <b>anovimbisa</b> (sungano), vanhu <b>vanomirira</b> nguva refu, uye pakupedzisira zvose <b>zvinozadziswa</b> uye zvinopera muna Jesu. Tevera zviitiko gumi nezvitatu zviri pasi apa nenzira iyi — tinya <b>“Verenga zvimwe”</b> pakadhi rimwe nerimwe kuti unyatsoziva nyaya yacho.",
+  "gospel.eyebrow": "ZVINOREVEI NYAYA IYI KWANDIRI “INI”",
+  "gospel.h2": "Mwoyo wechokwadi weBhaibheri",
+  "gospel.lead": "Bhaibheri <b>haisi bhuku rinodzidzisa “kuva munhu akanaka.”</b>",
+  "gospel.sublead": "Inyaya yokuti Mwari, <b>nenyasha chete</b>, akanunura vatadzi vakanga vasingagoni kuzviponesa pachavo. Pakati pacho pamire Jesu Kristu.",
+  "gospel.mirror": "<h3>Denderedzwa risingaperi raIsiraeri richokwadi mufananidzo wa“ini”</h3><div class='cycle'><b>Kunamata zvifananidzo</b><span class='a'>→</span><b>Kutambudzika</b><span class='a'>→</span><b>Kuchema</b><span class='a'>→</span><b>Mwari anonunura</b><span class='a'>→</span><b>Kunamata zvifananidzo zvakare…</b></div><p>Kubva pavaTongi kusvika kuutapwa, Isiraeri inodzokorora denderedzwa iri zvisingaperi. Bhaibheri harina kurinyora kuti tisveere tichiti, “Vakanga vakaderera sei.”</p><p>Ikani <b>chionioni</b>. Pfungwa haisi yokuti “Isiraeri vakaita izvozvo” asi <b>“neniwo ndinoita saizvozvo”</b> (1 VaKorinte 10:11).</p><p><b>Chifananidzo</b> hachisi mufananidzo wakavezwa chete. Ndi<b>chinhu chipi nechipi chatinoda kana kuvimba nacho kupfuura Mwari</b> — mari, kubudirira, kutenderwa, vanhu, kunyange ini pachangu. Uye kushandisa Mwari se<b>mudziyo wokuwana zvandinoda</b> kunamata zvifananidzowo.</p><p class='punch'>Pakupedzisira, chifananidzo chakadzika kupfuura zvose ndi“ini pachangu, ndakagara pachigaro choushe chaMwari.”</p>",
+  "gospel.coreIntro": "Saka Mwari anoponesa sei mutadzi akadai? Heuno mwoyo wevhangeri rinoparidzwa neBhaibheri.",
+  "gospel.crux": "<p class='crux-lead'>Bhaibheri rose rinonongedzera kunzvimbo imwe chete.</p><p>Vanhu vakanga vasingagoni kutyora denderedzwa rechivi pachavo, uye kwakanga kusina munhu akarurama. Saka mumwe munhu aifanira <b>kuripa mutengo munzvimbo yedu</b>.</p><p>Jesu haana kungouya kuzopa dzidziso dzakanaka chete. Pakushaya imwe nzira yokundiponesa nayo, <b>akanga asina imwe nzira kunze kwokuuya.</b></p><p class='crux-punch'>Munhu aifanira kunge akarembera pamuchinjikwa uya ndini <b>ini</b>.<br>Jesu akatakura <b>chivi changu</b> akarovererwa ipapo munzvimbo yangu.</p><div class='crux-verse'>“Asi akakuvadzwa nokuda kwokudarika kwedu, akarwadziwa nokuda kwezvakaipa zvedu… takaporeswa namavanga ake.” — Isaya 53:5</div>",
+  "faq.h": "Uchine chaunorwisana nacho here?",
+  "faq.q1": "<span class='arr'>▸</span> Saka mhondi inongotenda chete ichienda kudenga, asi munhu akararama upenyu hwakanaka asingatendi achienda kugehena?",
+  "faq.a1": "<p>Mubvunzo wakanaka. Asi mukati maro mune kunzwisisa kusakarurama kuviri.</p><p><b>① Bhaibheri haparadzanisi vanhu kuti “vakanaka” na“vakaipa.”</b> Chiyero hachisi “kupfuura wokwako” asi “utsvene hwakakwana hwaMwari.” Pamberi pake, hakuna munhu “akanaka zvakakwana” (VaRoma 3:23). Saka uku hakusi “munhu akanaka achipesana nemhondi,” asi kunyanya zvakafanana navanhu vaviri vane chirwere chimwe chinouraya — mumwe anotambira mushonga, mumwe anouramba achiti, “Ndakagwinya kupfuura uya.”</p><p><b>② Chinhu chimwe chete ndicho chinoparadzanisa denga negehena.</b> Hachisi chiyero chamabasa, asi <b>kuti wakagamuchira Jesu Kristu saIshe here uye dambudziko rako rechivi rakagadziriswa here.</b> Uyo ane chivi chakagadziriswa neropa raKristu anoenda kudenga; uyo asingambomugamuchiri, ane chivi chakasara, haaendi. Hapana basa rakanaka rakawanda ringagadzirisa dambudziko rechivi pacharo.</p><p>Saka denga negehena hazvisi “mubayiro wokuita zvakanaka” asi inyaya ye<b>ukama naKristu</b>. Uye “kutenda” hakusi kubvumirana mupfungwa chete, asi kuchinja kuti ndiani anotonga upenyu hwako — ani naani anonyatsomugamuchira haazvikudzi asi anotendeuka zvakadzika kupfuura. Chokwadi, kuzviti wakarurama (“ndiri munhu akanaka”) ndicho chifananidzo chakaoma kutyora kupfuura zvose, icho chinoita kuti tifunge kuti hatidi Kristu (Ruka 18:9-14).</p><p>Bhaibheri rinozvitaura pachena: <b>“Anotenda kwaari, haatongwi; asi asingatendi kwaari, atotongwa”</b> (Johani 3:18). Kutongwa hakusi “kuyera upenyu hwako paunofa,” asi kwatova kwakatemwa nekuti <b>wakagamuchira Kristu here</b>.</p><p class='faq-v'>VaRoma 3:23 · Johani 3:18 · VaEfeso 2:8-9 · Ruka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Ko handingangoraramawo upenyu hwakanaka ndisingatendi muna Jesu here?",
+  "faq.a2": "<p>Ndiyo pfungwa inonyanya kuvapo, asi inotadza kunzwisisa kuti dambudziko chairo nderei. Heino mufananidzo.</p><p><b>Funga kuti uri muchikepe chamakororo egungwa.</b> Kunyange ukachenesa sei pasi pechikepe, ukava nomwoyo munyoro kuvashandi, ukararama upenyu hunoremekedzwa — uchiri <b>gororo regungwa</b>, nokuti chikepe chinokutakura pamwe nacho kunzvimbo yachakananga (chiteshi chokutongwa). Dambudziko harisi “chiyero chamabasa ako” asi <b>“ndecheri chikepe chaurimo” (ndiani iwe)</b>.</p><p>Saka vhangeri hariti “edza zvakanyanya kuva akanaka”; rinoti <b>“chinja chikepe.”</b> Buruka muchikepe chechivi uende kuna Jesu — uende kune wava mwana waMwari, ndiani matsva. Uku hakusi kuwedzera chiyero chako nesimba rako, asi kuvimba neuyo anotambanudza ruoko rwake ndokuyambukira kuchikepe chake.</p><p>Chokwadi Bhaibheri rinotsanangura ruponeso saizvozvo zvachose — <b>“vakatisunungura pasimba rerima, vakatiisa muushe hwoMwanakomana worudo rwavo”</b> (VaKorose 1:13).</p><p>Usanzwisisa zvisizvo: <b>izvi hazvirevi kuti upenyu hwakanaka hahuna maturo.</b> Kunaka hakusi “mubvunzo” weruponeso asi <b>chibereko</b> charo. Uyo akachinja chikepe iye zvino anorarama zvakanaka kwete nokutya, asi nokuda kworudo rwomwana.</p><p class='faq-v'>VaKorose 1:13 · Johani 1:12 · Johani 3:3 · VaEfeso 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Kana muiti wezvakaipa achinzwa rugare, achiti “Mwari akandikanganwira,” asi munhu akakuvadzwa achiri kutambudzika — ko nyasha hadzina kuva dzakachipa zvakanyanya here?",
+  "faq.a3": "<p>Mubvunzo wakanaka, uye kurwadziwa kwacho ndekwechokwadi. Asi kutaura kwakadaro hakusi “kukanganwira kweBhaibheri” — <b>kunyangadza</b> kwako.</p><p><b>① Kukanganwira kwaMwari hakumbofa kwakachipa.</b> Chivi hachivanzwi sokuti hachina kumboitika; Mwari pachake akaripa mutengo wacho noupenyu hwoMwanakomana wake. Muchinjikwa hausi uchapupu hwokuti chivi chinotorwa zvisina basa, asi hwokuti chivi chinorema sei — kukanganwira kunodhura kupfuura zvose panyika.</p><p><b>② Kutendeuka kwechokwadi kunobereka zvibereko.</b> Kana muiti wezvakaipa achizvikudza pamberi pomunhu akakuvadzwa — “Mwari akandikanganwira, saka ndine rugare” — uku hakusi kutendeuka asi kutevedzera kwako (Mateo 3:8). Uye kukanganwira pakati pomunhu naMwari hakubvisi ronda romunhu akakuvadzwa kana kumumanikidza kukanganwira.</p><p><b>③ Chivi hachimbongoregererwa “zvakangodaro.”</b> Chivi chimwe nechimwe chinoripwa kune imwe yenzvimbo mbiri — <b>kana Kristu achitakura pamuchinjikwa</b> (kuna vanovimba naye hakuchina kupiwa mhosva, VaRoma 8:1), <b>kana kuti uyo anomuramba kusvika pakuguma anozvitakura iye amene.</b> Saka hapana “kukanganwira kwakachipa.” Muiti wezvakaipa achine mhosva pamberi pomutemo wenyika ino (VaRoma 13:1-4).</p><p><b>④ Misodzi yomunhu akakuvadzwa haina kumbova miduku kuna Mwari.</b> Mwari anochema navanochema, anorangarira musodzi mumwe nomumwe, uye pakupedzisira achaipisika iye pachake (Zvakazarurwa 21:4). Saka munhu akakuvadzwa haatakuri mutoro wokutsiva ari oga, asi anogona kuupa kuna Mwari akarurama (VaRoma 12:19 — “Kutsiva ndokwangu, ini ndicharipira ndizvo zvinoreva Ishe”).</p><p class='faq-v'>Mateo 3:8 · VaRoma 8:1 · VaRoma 13:1-4 · Zvakazarurwa 21:4</p>",
+  "respond.h3": "Saka — ko ini?",
+  "respond.sub": "Rudo urwu harusi ruzivo asi <b>kukoka</b>. Kana rudo rwakarovererwa munzvimbo yako rwabata mwoyo wako, nyengetera munyengetero uyu zvishoma nezvishoma, mutsara nomutsara.",
+  "respond.prayer": "<p>Mwari,</p><p>ndinobvuma kuti ndiri mutadzi asingagoni kuzviponesa.</p><p>Ndinotenda kuti Jesu akandifira pamuchinjikwa uye akamukazve.</p><p>Ndapota kanganwirai zvivi zvangu zvose, uye kubva nhasi ivai Ishe woupenyu hwangu.</p><p>Ndigamuchirei somwana wenyu, uye ndiponesei kuti ndirarame upenyu hutsva.</p><p class='amen'>Muzita raJesu ndinonyengetera. Ameni.</p>",
+  "respond.after": "Kana wanyengetera uku nomwoyo wose, Bhaibheri rinoti <b>wava mwana waMwari</b>. Hauchisiri wega — tsvaka kereke iri pedyo ufambe naro mu rwendo rwokutenda pamwe chete.",
+  "respond.verse": "“Asi vose vakamugamuchira, akavapa simba kuti vave vana vaMwari.” — Johani 1:12 · VaRoma 10:9-10",
+  "closing.main": "Mwari mumwe,<br>nokunyaya imwe,<br>anotitevera no<em>rudo</em><br>rusingamboregi.",
+  "closing.verse": "“Kunyange rufu, kana upenyu… kana chinhu chimwe chakasikwa, hazvingagoni kutiparadzanisa norudo rwaMwari, ruri muna Kristu Jesu, Ishe wedu.” — VaRoma 8:38-39",
+  "closing.small": "Pamusoro penyaya iyi, Murayiro, mabhuku enhetembo, vaporofita, netsamba zvinowedzera “nyama.”<br>Kubva zvino, bhuku ripi neripi raunovhura, uchaziva kwauri panyaya yacho.",
+  "closing.share": "↗ Goverana nyaya iyi",
+  "about.line": "Zvichienderana nemaonero <b>enhoroondo yoruponeso, evhangeri uye eReformed</b> anogoveranwa nevazhinji vekereke yechiProtestant yeKorea.",
+  "about.contact": "Mibvunzo · mhinduro — <a id='contact' class='mail'>Tinyorere tsamba</a>"
+ },
+ "epochs": [
+  {
+   "tag": "TESTAMENDE YEKARE · KUTANGA",
+   "title": "Kusika",
+   "date": "Pakutanga",
+   "one": "Mwari akaita nyika yakanga “yakanaka kwazvo.”",
+   "people": "Mwari; Adhamu naEva",
+   "events": "Mazuva matanhatu okusika, vanhu vakaitwa nomufananidzo waMwari, zororo reSabata",
+   "q": "Pakutanga Mwari akasika denga nenyika.",
+   "cite": "Genesi 1:1",
+   "christ": "Nyika yakaitwa kuburikidza ne“Izwi.” Vhangeri raJohani rinoti Izwi iri ndiJesu pachake (Johani 1:1-3).",
+   "detail": "<p>Bhaibheri haritangi nenharo dzouzivi asi nokuzivisa: <b>“Pakutanga Mwari…”</b> Nyika haisi tsaona asi basa raMwari ari munhu.</p><ul><li><b>Mufananidzo waMwari</b> · pazvisikwa zvose, vanhu chete ndivo vakaitwa kuti vafanane naMwari — kuti vamuzive uye vachengete nyika.</li><li><b>Zororo</b> · zororo rezuva rechinomwe rinoratidza zvose zvakakwana uye zvine rugare (shalom): “zvakanga zvakanaka.”</li><li><b>Edheni</b> · nyika isati yatyorwa, kwaifamba Mwari navanhu pamwe chete.</li></ul>",
+   "next": "Asi kuzara uku kwava kuda kuputswa…"
+  },
+  {
+   "tag": "TESTAMENDE YEKARE · DAMBUDZIKO RINOTANGA",
+   "title": "Kuwa",
+   "date": "Pakutanga",
+   "one": "Chivi chakapinda, ukama pakati pavanhu naMwari ndokugurwa.",
+   "people": "Adhamu naEva; nyoka (Satani)",
+   "events": "Kudya muchero wakarambidzwa, kudzingwa muEdheni, kusvika kworufu nokutambudzika",
+   "q": "Ndichaisa ruvengo pakati pako nomukadzi… irwo rwuchapwanya musoro wako.",
+   "cite": "Genesi 3:15",
+   "christ": "Chivimbiso chokutanga chevhangeri, chakapiwa pakarepo kuwa kwapfuura: “rudzi rwomukadzi” ruchapwanya musoro wenyoka — uye ndiJesu (Genesi 3:15; VaRoma 16:20; VaGaratiya 4:4).",
+   "detail": "<p>Kuburikidza nokusateerera kwokuda “kuva saMwari,” chivi chakapinda munyika. Mugumisiro hausi kungotyora mutemo chete asi <b>kutyorwa kweukama</b>.</p><ul><li><b>Ukama hwakatyorwa</b> · naMwari (kuvanda), navamwe (kupomerana), nezvakasikwa (minzwa nokutambudzika).</li><li><b>Rufu</b> · yambiro yokuti “uchafa zvirokwazvo” inova chokwadi.</li><li><b>Genesi 3:15</b> · asi pakati pokutongwa, chivimbiso chokununura chinotanga kupiwa. Vadzidzi vanochiti <b>“protoevangelium” (vhangeri rokutanga)</b>.</li></ul>",
+   "next": "Zvino Mwari anodana murume mumwe kuti atange kununura…"
+  },
+  {
+   "tag": "TESTAMENDE YEKARE · CHIVIMBISO",
+   "title": "Madzitateguru",
+   "date": "c. 2000 BC",
+   "one": "Mwari anovimbisa Abhurahamu, “Uchava nzira yokuropafadza nayo.”",
+   "people": "Abhurahamu · Isaka · Jakobho · Josefa",
+   "events": "Sungano yaAbhurahamu, kusungwa kwaIsaka, vanakomana gumi navaviri vaJakobho, Josefa anokwirira kuva mubati muIjipiti",
+   "q": "Ndichakuita rudzi rukuru… marudzi ose enyika acharopafadzwa mauri.",
+   "cite": "Genesi 12:2-3",
+   "christ": "Chivimbiso chokuti “marudzi ose acharopafadzwa” chinozadziswa muna Jesu, rudzi rwaAbhurahamu (VaGaratiya 3:16).",
+   "detail": "<p>Mwari anotanga kugadzirisa dambudziko ravanhu vose nokudana murume mumwe, <b>Abhurahamu</b>. Pakati pacho ndi<b>sungano (chivimbiso)</b> — rudzi rukuru, nyika, uye “kuropafadzwa kwamarudzi ose.”</p><ul><li><b>Kutenda</b> · Abhurahamu akatenda chivimbiso chisingaonekwi, akanzi ndiko kururama kwake (Genesi 15:6).</li><li><b>Isaka naJakobho</b> · chivimbiso chinopfuurira; Jakobho (Isiraeri) ndiye baba vamarudzi gumi namaviri.</li><li><b>Josefa</b> · akatengeswa nehama dzake asi akakwidziridzwa kuva mubati — “Mwari akafunga kuti zvive zvakanaka” (Genesi 50:20).</li></ul>",
+   "next": "Vachitevera Josefa, mhuri inoburukira kuIjipiti — ndokuva varanda…"
+  },
+  {
+   "tag": "TESTAMENDE YEKARE · RUPONESO",
+   "title": "Kubuda kweIjipiti neRenje",
+   "date": "c. 1446 BC",
+   "one": "Mwari akanunura vanhu vaiva varanda akavaita vake.",
+   "people": "Mosesi, Aroni, Farao",
+   "events": "Matambudziko gumi, Pasika, kuyambuka Gungwa Dzvuku, Mirairo Gumi paSinai, tabhenakeri, makore makumi mana murenje",
+   "q": "Ndichakutorai imi kuti muve vanhu vangu, ini ndichava Mwari wenyu.",
+   "cite": "Eksodho 6:7",
+   "christ": "Pasika — pakanunura ropa regwayana parufu — inonongedzera kuna Jesu, “gwayana redu rePasika,” akarovererwa nokuda kwedu (1 VaKorinte 5:7).",
+   "detail": "<p>Ruponeso rukuru pane zvose zveTestamende Yekare. Isiraeri yaimbova varanda inosunungurwa nesimba raMwari ndokuumbwa kuva <b>vanhu</b> vake.</p><ul><li><b>Pasika</b> · imba yakaratidzwa neropa regwayana inopfuurwa norufu — muenzaniso wezvibayiro zvose zvakatevera.</li><li><b>Gungwa Dzvuku</b> · ruponeso panopera nzira; “kuyambuka” kunova chiratidzo chokutanga kutsva.</li><li><b>Sungano yeSinai</b> · kuburikidza neMirairo vanodzidza kurarama savanhu vaMwari.</li><li><b>Tabhenakeri</b> · nzvimbo tsvene inotamiswa kwainogara Mwari pakati pavanhu vake — chiratidzo cha“Emanueri.”</li><li><b>Makore makumi mana</b> · kusateerera kunoita kuti chizvarwa chidzungaire, asi Mwari anogara pedyo nemana neshongwe yegore nemoto.</li></ul>",
+   "next": "Vamire pamuganhu wenyika yakavimbiswa, vanogadzirira kupinda…"
+  },
+  {
+   "tag": "TESTAMENDE YEKARE · KUGARA MUNYIKA",
+   "title": "Kukunda neVatongi",
+   "date": "c. 1400–1050 BC",
+   "one": "Vakawana nyika, asi pasina mambo munhu wose aiita zvaaida.",
+   "people": "Joshua; vatongi vakaita saGidhiyoni naSamusoni; Rute",
+   "events": "Kuwa kweJeriko, kugara muKenani, denderedzwa rinodzokororwa rechivi–kutongwa–kununurwa",
+   "q": "Namazuva iwayo kwakanga kusina mambo pakati paIsiraeri; murume mumwe nomumwe waiita sezvaakafunga kuti ndizvo zvakanaka.",
+   "cite": "Vatongi 21:25",
+   "christ": "Kubva kurudzi rwaRute kunobva Dhavhidhi, uye kubva kurudzi rwaDhavhidhi kunobva Jesu (Mateo 1). Kunyange mubvongodzeki, mutsara womhuri yaMesiya unopfuurira.",
+   "detail": "<p>Pasi paJoshua vanopinda munyika yakavimbiswa, asi vagara vanokurumidza kukanganwa Mwari. Vatongi inhau imwe cheteyo inodzokororwa.</p><ul><li><b>Denderedzwa rinoenda pasi</b> · chivi → kudzvinyirirwa → kuchema → mutongi anonunura → chivi zvakare. Zvinongoramba zvichiipa.</li><li><b>Vatongi</b> · Gidhiyoni, Samusoni, Dhebhora — vanunuri vechinguva, vamhare asi vane zvikanganiso zvakawanda.</li><li><b>Rute</b> · nyaya yakajeka yokutendeka munguva yerima; mukadzi wokumwe nyika anopinda murudzi rwaDhavhidhi (naJesu).</li></ul>",
+   "next": "Vanhu vanochema vachiti, “Tipeiwo mambo!”…"
+  },
+  {
+   "tag": "TESTAMENDE YEKARE · NGUVA YEMBIRI",
+   "title": "Ushe Hwakabatana",
+   "date": "c. 1050–930 BC",
+   "one": "Mwari anovimbisa Dhavhidhi, “Chigaro chako choushe chichagara nokusingaperi.”",
+   "people": "Sauro · Dhavhidhi · Soromoni",
+   "events": "Mambo wokutanga Sauro, Dhavhidhi naGoriati, sungano yaDhavhidhi, Soromoni anovaka temberi",
+   "q": "Imba yako noushe hwako zvichasimbiswa pamberi pako nokusingaperi, nechigaro chako choushe chichasimbiswa nokusingaperi.",
+   "cite": "2 Samueri 7:16",
+   "christ": "“Chigaro choushe chisingaperi” chinozadziswa muna Jesu, mwanakomana waDhavhidhi — ndicho chikonzero anonzi “Mwanakomana waDhavhidhi” (Ruka 1:32-33; Mateo 1:1).",
+   "detail": "<p>Nguva yepamusoro yeIsiraeri, ichitongwa namadzimambo matatu.</p><ul><li><b>Sauro</b> · mambo wakakumbirwa nevanhu; kutanga kwakanaka kwakaparadzwa nokusateerera.</li><li><b>Dhavhidhi</b> · “munhu anoda mwoyo waMwari.” Anokunda Goriati, anoita Jerusarema guta guru. Anoita chivi chikuru (Bhatishebha) asi anotendeuka nomwoyo (Pisarema 51).</li><li><b>Sungano yaDhavhidhi (2 Samueri 7)</b> · Mwari anovimbisa kusimbisa imba yaDhavhidhi nokusingaperi — mudzi unokosha wetariro yaMesiya.</li><li><b>Soromoni</b> · pakati pouchenjeri noupfumi anovaka <b>temberi</b>, asi pakupera kwoupenyu hwake anotsaukira kuzvifananidzo.</li></ul>",
+   "next": "Pashure paSoromoni, ushe hunopatsanurwa kuva huviri…"
+  },
+  {
+   "tag": "TESTAMENDE YEKARE · KUWA",
+   "title": "Ushe Hwakapatsanurwa",
+   "date": "930–586 BC",
+   "one": "Hwakapatsanurwa kuva chamhembe (Judha) nechokumusoro (Isiraeri), rudzi rwopinda muna kuparara.",
+   "people": "Madzimambo oushe huviri; vaporofita vakaita saEria, Isaya, Jeremia",
+   "events": "Ushe hunopatsanurwa, kunamata zvifananidzo kunopararira, vaporofita vanoyambira",
+   "q": "Saizvozvo vaIsiraeri vakamukira imba yaDhavhidhi kusvikira zuva ranhasi.",
+   "cite": "1 Madzimambo 12:19",
+   "christ": "Munguva ino vaporofita vanoprofita Mesiya anouya zvakajeka kupfuura (Isaya 9:6; Isaya 53).",
+   "detail": "<p>Mumazuva omwanakomana waSoromoni rudzi runopatsanurwa: <b>ushe hwokuchamhembe hweIsiraeri</b> (marudzi 10, guta guru Samaria) ne<b>ushe hwechamhembe hweJudha</b> (marudzi 2, guta guru Jerusarema).</p><ul><li><b>Isiraeri (chamhembe)</b> · mambo wose anoshumira zvifananidzo; runowira kuAsiria muna 722 BC.</li><li><b>Judha (chamhembe)</b> · rudzi rwaDhavhidhi runopfuurira, nemadzimambo mashoma akanaka akaita saHezekia naJosia, asi pakuwanda runoderera.</li><li><b>Vaporofita</b> · Eria, Amosi, Isaya, Jeremia vanochema kuti “dzokai!” Uprofita hwaMesiya hunosvika papamusoro pacho pano (“muranda anotambudzika” weIsaya 53).</li></ul>",
+   "next": "Pakupedzisira kutongwa kwakayambirwa kunouya — vanotapwa kuenda kuutapwa…"
+  },
+  {
+   "tag": "TESTAMENDE YEKARE · KUTONGWA",
+   "title": "Utapwa",
+   "date": "722 / 586 BC",
+   "one": "Rudzi runoparara uye vanhu vanozvuzvurudzirwa kunyika dzokumwe.",
+   "people": "Dhanieri, Ezekieri, Nebhukadhinezari",
+   "events": "Isiraeri inowira kuAsiria (722), Judha inowira kuBhabhironi uye temberi inoparadzwa (586)",
+   "q": "Panzizi dzeBhabhironi, Ndipo patakagara pasi, zvirokwazvo tikachema, Pakurangarira kwedu Zioni.",
+   "cite": "Pisarema 137:1",
+   "christ": "Mukati mokupera tariro Jeremia anovimbisa “sungano itsva” (Jeremia 31:31) — sungano iyo Jesu yaakaisa paChirairo Chokupedzisira.",
+   "detail": "<p>Yambiro dzinoitika. Temberi inopiswa uye vanhu vanotapwa kuenda kuBhabhironi — vachirasikirwa nenyika, mambo, netemberi: nzvimbo yakaderera pane dzose.</p><ul><li><b>Kuwa kuviri</b> · Isiraeri (Asiria, 722 BC) naJudha (Bhabhironi, 586 BC).</li><li><b>Dhanieri</b> · muenzaniso wokutenda kunyange muruvazhe rwavahedheni (gomba reshumba); anoona zviratidzo zve“ushe husingaperi” huchauya.</li><li><b>Pwititi yetariro</b> · chiratidzo chaEzekieri chamapfupa akaoma anorarama (Ezekieri 37) ne“sungano itsva” yaJeremia zvinonongedzera kuremangwana murima.</li></ul>",
+   "next": "Makore makumi manomwe gare gare, Mwari anovhura nzira — vanodzokera kumusha…"
+  },
+  {
+   "tag": "TESTAMENDE YEKARE · KUVANDUDZWA",
+   "title": "Kudzoka kuUtapwa",
+   "date": "538–430 BC",
+   "one": "Vanodzoka vovakazve temberi namasvingo.",
+   "people": "Ezira, Nehemia, Esteri, Zerubhabheri",
+   "events": "Kudzoka nechirevo chaKoreshi, kuvakazve temberi, kuvakazve masvingo eJerusarema, kudzoreredzwa kweShoko",
+   "q": "Mufaro waJehovha isimba renyu.",
+   "cite": "Nehemia 8:10",
+   "christ": "Maraki, bhuku rokupedzisira reTestamende Yekare, rinoguma richiprofita nhume yokugadzirira nzira yaMesiya: “Ndinotuma nhume yangu” (Maraki 3:1).",
+   "detail": "<p>Nechirevo chamambo wePersia Koreshi (538 BC) kudzoka kunotanga. Mumapoka matatu vanodzoka vovakazve zvakanga zvaparadzwa.</p><ul><li><b>Zerubhabheri</b> · anovakazve temberi (yakapera 516 BC).</li><li><b>Ezira</b> · anodzidzisazve Shoko uye anomutsidzira kutenda.</li><li><b>Nehemia</b> · anovakazve masvingo eJerusarema mumazuva 52.</li><li><b>Esteri</b> · anoponesa vaJudha vaiva muPersia pakuparadzwa — “nokuda kwenguva yakadai.”</li><li><b>Kuchine kushuva</b> · temberi yamira, asi hapana mambo akafanana naDhavhidhi. Vanhu vanomirira Mesiya.</li></ul>",
+   "next": "Uye zvino… sokunge denga ranyarara, makore mazana mana anopfuura."
+  },
+  {
+   "tag": "PAKATI PETESTAMENDE · KUGADZIRA CHIKUVA",
+   "title": "Makore Okunyarara",
+   "date": "c. 430–4 BC",
+   "one": "Makore mazana mana pasina inzwi romuporofita — asi chikuva chakanga chichigadzirwa muchinyararire.",
+   "people": "Arekizandere Mukuru, vaMakabhe, Roma",
+   "events": "Persia → Girisi → kuzvitonga kwevaMakabhe → kutonga kweRoma",
+   "q": "Zvino nguva yakati yazara kwazvo, Mwari akatuma Mwanakomana wake, akaberekwa nomukadzi.",
+   "cite": "VaGaratiya 4:4",
+   "christ": "“Kugadzira chikuva” uku kwose kwaiva Mwari achishanda kuti Jesu auye chaizvo “panguva yakazara kwazvo.”",
+   "detail": "<p>Kubva kuna Maraki kusvika kuTestamende Itsva, makore anenge mazana mana anopfuura pasina Rugwaro rutsva. Asi seri kwenhoroondo Mwari aigadzira nzira yevhangeri.</p><ul><li><b>Umambo hunochinjana</b> · Persia → Girisi (Arekizandere, 333 BC) → vaPtolemy navaSeleucid → kupanduka kwevaMakabhe (167 BC) → Roma (63 BC).</li><li><b>ChiGiriki</b> · kukunda kwaArekizandere kunoita kuti chiGiriki chive mutauro wose; Testamende Yekare inoshandurirwa muchiGiriki (Septuagint), kuvhura nzira yokuti vhangeri ripararire nokukurumidza.</li><li><b>Migwagwa norugare rweRoma</b> · migwagwa yakavakwa zvakanaka ne“Pax Romana” zvinova migwagwa yeushumiri.</li><li><b>Masinagoge namapoka</b> · kudzidzisa musinagoge kunodzika midzi; vaFarisi navaSadhusi vanomuka; uye <b>kushuva Mesiya</b> kunoibva.</li></ul>",
+   "next": "Zvino kunyarara kunotyoka — pakupedzisira, anouya."
+  },
+  {
+   "tag": "TESTAMENDE ITSVA · KUZADZISWA",
+   "title": "Jesu Anouya",
+   "date": "c. 4 BC–AD 30",
+   "one": "Mesiya akavimbiswa akauya, akafa, akamukazve.",
+   "people": "Jesu, vadzidzi gumi navaviri, Johani Mubhabhatidzi",
+   "events": "Kuva munhu, ushumiri hwake nokudzidzisa nezvishamiso, rufu pamuchinjikwa, kumuka nezuva retatu",
+   "q": "Izwi rakazova munhu, rikagara pakati pedu… azere nenyasha nechokwadi.",
+   "cite": "Johani 1:14",
+   "christ": "Rudzi rwomukadzi (chiitiko 2), kuropafadzwa kwaAbhurahamu (3), gwayana rePasika (4), mambo asingaperi waDhavhidhi (6), sungano itsva (8) — zvose zvinozadziswa mumunhu mumwe, Jesu: muporofita, mupristi, namambo wedu wechokwadi.",
+   "detail": "<p>Kunyarara kunotyoka; Akavimbiswa anosvika. Mavhangeri mana anopupura upenyu hwaJesu, rufu, nokumuka kubva kumativi mana.</p><ul><li><b>Kuva munhu</b> · Mwari anova munhu (Emanueri, “Mwari anesu”), munzvimbo yakaderera yeBhetirehema.</li><li><b>Ushumiri</b> · anodzidzisa ushe hwaMwari, anoporesa varwere, anodana vatadzi. “Akandiona ini, akaona Baba.”</li><li><b>Muchinjikwa</b> · anoripa munzvimbo yedu mutengo wechivi norufu zvakaunzwa nokuwa (chiitiko 2). Gwayana rePasika rechokwadi.</li><li><b>Kumuka</b> · achimuka nezuva retatu, anotyora simba rechivi, rufu, naSatani — kare pamuchinjikwa “akaparadza vabati namasimba… akavakunda mauri” (VaKorose 2:15).</li></ul><p>Saka Jesu ndiye <b>muporofita wedu wechokwadi</b> (anoratidza nzira inoenda kuna Mwari), <b>mupristi wedu wechokwadi</b> (anoyananisira chivi nomuviri wake), na<b>mambo wedu wechokwadi</b> (anokunda chivi, rufu, naSatani uye anotonga nokusingaperi).</p>",
+   "next": "Jesu akamuka anotuma vadzidzi vake munyika…"
+  },
+  {
+   "tag": "TESTAMENDE ITSVA · KUWEDZERA",
+   "title": "Kereke Inotanga",
+   "date": "c. AD 30–",
+   "one": "Mweya anouya, uye vhangeri rinopararira kusvika kumigumo yenyika.",
+   "people": "Petro, Pauro, kereke yokutanga",
+   "events": "Mweya anodururwa paPendekosti, kereke inoberekwa, vhangeri rinopararira kubva Jerusarema kusvika Roma kuburikidza nokutambudzwa",
+   "q": "Asi muchapiwa simba, kana Mweya Mutsvene auya pamusoro penyu… kusvikira kumugumo wenyika.",
+   "cite": "Mabasa 1:8",
+   "christ": "Nyaya iyi ichiri kufamba nanhasi. Bhaibheri rinoguma richivimbisa kuti Jesu achadzoka uye achaita zvinhu zvose zvitsva (Zvakazarurwa 21).",
+   "detail": "<p>Pashure pokukwira kwaJesu kudenga, Mweya akavimbiswa anouya paPendekosti uye kereke inoberekwa. Vhangeri rinopararira nokushamisa.</p><ul><li><b>Pendekosti</b> · Mweya anoshandura vadzidzi vaitya kuva zvapupu zvakashinga.</li><li><b>Petro</b> · anoparidza vhangeri kuvaJudha muJerusarema.</li><li><b>Pauro</b> · kubva pamushori kuva muapositori, achisima kereke munyika yavahedheni uye achinyora tsamba.</li><li><b>Kusvika kumigumo yenyika</b> · Jerusarema → Judhea → Samaria → Roma. Chivimbiso chakapiwa Abhurahamu cha“marudzi ose” chinova chokwadi.</li><li><b>Nesu</b> · nyaya haigumi; inopfuurira ichienda kukudzoka kwaJesu nedenga idzva nenyika itsva.</li></ul>",
+   "next": "Asi nyaya haigumiri pano…"
+  },
+  {
+   "tag": "TESTAMENDE ITSVA · KUPEDZISWA",
+   "title": "Kudzoreredzwa",
+   "date": "Zvichiri kuuya",
+   "one": "Jesu anodzoka uye anoita zvinhu zvose zvitsva.",
+   "people": "Jesu anodzoka; marudzi ose",
+   "events": "Kudzoka kwechipiri, kutongwa kwokupedzisira, kuguma kwechivi·rufu·misodzi, denga idzva nenyika itsva",
+   "q": "Achapisika misodzi yose pameso avo; rufu haruchavipo, kana kuchema, kana kurira, kana kutambudzika hazvingavipo.",
+   "cite": "Zvakazarurwa 21:4",
+   "christ": "Edheni rokusika kwokutanga rinodzoreredzwa pakupedzisira se“Jerusarema Idzva.” Mwari anogara navanhu vake nokusingaperi — kuzara kwaEmanueri (Zvakazarurwa 21:3; Mateo 1:23).",
+   "detail": "<p>Bhaibheri harigumiri munguva yekereke. Bhuku raro rokupedzisira, Zvakazarurwa, rinoratidza Jesu <b>achidzoka</b> kuti apedzise zvose.</p><ul><li><b>Kudzoka kwechipiri</b> · mambo akavimbiswa anodzoka mukubwinya.</li><li><b>Kukunda kwokupedzisira</b> · Satani norufu zvinoparadzwa nokusingaperi, uye Kristu anotonga saMambo wamadzimambo (1 VaKorinte 15:25-26; Zvakazarurwa 20:10).</li><li><b>Kutongwa nokumuka</b> · zvakaipa zvose zvinoruramiswa, uye vakafa vanomutswa.</li><li><b>Denga idzva nenyika itsva</b> · chivi, rufu, misodzi, nokutambudzika zvinopera nokusingaperi (Zvakazarurwa 21:4).</li><li><b>Edheni rakadzoreredzwa</b> · mu“Jerusarema Idzva” rakanaka kupfuura kutanga, Mwari anogara navanhu vake nokusingaperi — kwakananga Bhaibheri rose.</li></ul><p>Saka iko zvino inguva ye<b>“zvatova, asi zvisati zvasvika”</b>: muna Jesu ruponeso <b>rwatova</b> rwakaitwa, asi kuzara kwarwo <b>kuchiri</b> kumirirwa.</p>",
+   "next": "Saka nyaya iyi yose inorevei kwandiri “ini”?"
+  }
+ ],
+ "love": [
+  "Nyaya inotanga kwete nokutongwa asi nokusika kwakadururwa norudo.",
+  "Panguva yakangotadza vanhu, Mwari akavimbisa kununurwa ipapo pakarepo.",
+  "Mwari akatanga kuuya kumurume asina kufanira, akamudana nezita rake, akamuita nzira yokuropafadza nayo.",
+  "Akanzwa kugomera kwavanhu vaiva varanda akaburuka iye pachake kuzovanunura.",
+  "Vachimupandukira kakawanda, asi nguva imwe neimwe pavaichema aitumira munununuri achivamutsa.",
+  "Haana kurasa kunyange Dhavhidhi akawa, uye kuburikidza naye akavimbisa Mambo asingaperi.",
+  "Kuvanhu vakamufuratira, akaramba achitumira vaporofita, achikumbira achiti, “Ndapota dzokai kumusha.”",
+  "Akaenda navo kunyange kunyika yakasviba pane dzose youtapwa, akavimbisa kudzoreredzwa.",
+  "Kunyange kuvanhu vakatadza kakawanda, haana kudzosa chivimbiso chake.",
+  "Kunyange mumakore mazana mana okunyarara, asingaonekwi, aigadzira nzira yoruponeso.",
+  "Tichiri vatadzi, akatuma Mwanakomana wake kuti arase upenyu hwake.",
+  "Rudo rwatakagamuchira, iye zvino anorutumira kuti ruyerere kunyika yose.",
+  "Pakupedzisira achapisika misodzi yose uye achavandudza zvinhu zvose norudo."
+ ],
+ "mis": [
+  {
+   "w": "“Sei Mwari akaita vanhu vaigona kutadza? Hazvaisava nani kusatisika zvachose here?”",
+   "t": "Mwari akasika nyika navanhu kwete nokushaya chinhu, asi norudo rwakawandisa. Kuita vanhu se<b>vanhu vanowirirana naMwari</b> ndirwo rudo pacharwo. Uye kunyange kupinda kwechivi hakuna kuva kunze kwehurongwa hworuponeso hwaMwari (VaEfeso 1:4-5). Chiitiko chokutanga cheBhaibheri hachisi kutongwa asi rudo."
+  },
+  {
+   "w": "“Kudzingwa nokupiwa rufu nokuda kwokudya muchero mumwe chete — ko Mwari haana hasha dzakapfuuridza here?”",
+   "t": "Kudzingwa muEdheni kwaiva kutongwa uye nyasha pamwe chete. Kudya pamuti woupenyu uye kurarama nokusingaperi muchimiro icho chakatyoka, chakaparadzaniswa naMwari, kwaizova kuvharirwa mukutambudzika nokusingaperi (Genesi 3:22). Kutendera rufu kwakavhura nzira yokudzoka, uye ipapo pakarepo Mwari akavimbisa Munununuri (Genesi 3:15). Rudo rwakanga rwatova mukati mokutongwa."
+  },
+  {
+   "w": "“Abhurahamu akasarudzwa nokuti aiva nokutenda kukuru — ko vanhu vose veBhaibheri havasi mhare dzetsika here?”",
+   "t": "Abhurahamu akareva nhema uye akakahadzika; Jakobho aiva munyengeri. Mwari haana kudana vanhu “vakafanira” asi vakanga vane zvikanganiso, nenyasha. Chikonzero chakanga chisiri kunaka kwavo asi rudo rwakatendeka rwaMwari (Dheuteronomio 7:7-8)."
+  },
+  {
+   "w": "“Ko murayiro (Mirairo) haasi bvunzo yaunofanira kupasa kuti uponeswe here?”",
+   "t": "Mwari akavanunura <b>asati</b> avapa murayiro. Kunyange Mirairo Gumi inotanga nokuzivisa kworuponeso: “Ndini Jehovha, Mwari wako, akakubvisa munyika yeIjipiti” (Eksodho 20:2). Murayiro hausi “uchengete kuti uponeswe,” asi nhungamiro yorudo yokuti vanhu vakatonunurwa vararame sei (Dheuteronomio 7:7-9). Nyasha dzinogara dziri pakutanga; kuteerera ndiwo mhinduro."
+  },
+  {
+   "w": "“Kukunda kweKenani kwaiva kuuraya kusina tsitsi — saka Mwari weTestamende Yekare ane utsinye chaihwo.”",
+   "t": "Iyi inhau yakaoma isingapedzwi nomutsara mumwe. Asi Bhaibheri harizviratidzi sechisimba chisina musoro asi sokutongwa pashure pamazana amakore okushivirira pamberi pezvakaipa zvakanyanya (kusanganisira kubayira vana) (Genesi 15:16; Dheuteronomio 9:4-5; Revhitiko 18:24-25). Mwari anononoka kunyange kutonga, uye anogamuchira nomufaro avo vanotendeukira kwaari — kunyange vatorwa saRakabhi naRute (Joshua 6:25; Rute 4:13-17)."
+  },
+  {
+   "w": "“Dhavhidhi aiva mhare isina chikanganiso — ndicho chikonzero akanzi ‘munhu anoda mwoyo waMwari.’”",
+   "t": "Dhavhidhi akaita upombwe uye kunyange umhondi. “Munhu anoda mwoyo waMwari” hazvirevi asina chikanganiso, asi uyo asina kuvanza chivi chake — akatendeuka zvizere achiramba achidzokera kuna Mwari (Pisarema 51). Rudo rwaMwari harurasi kunyange avo vanowa zvakaipisisa."
+  },
+  {
+   "w": "“Muporofita ihwenga anofanotaura ramangwana / Mwari weTestamende Yekare ihasha chete.”",
+   "t": "Mwoyo womuporofita hausi “kufanotaura ramangwana” asi chikumbiro chinorwadza chaMwari: “Ndapota dzokai.” Kunyange yambiro yokutongwa haisi yokuparadza asi yokutendeudza vanhu nokuvaponesa — “handifariri rufu rwowakaipa” (Ezekieri 33:11)."
+  },
+  {
+   "w": "“Utapwa hunoratidza kuti Mwari akarasa Isiraeri zvachose.”",
+   "t": "Utapwa hahusi kurasa asi kuranga nokuchenesa kwababa kumwana anodikanwa (VaHebheru 12:6). Mwari haana kuenda; akanga ari naDhanieri pakati poutapwa uye akavimbisa, “ndinoziva ndangariro dzandinorangarira pamusoro penyu… ndangariro dzorugare… kuti ndikupei mugumo une tariro” (Jeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Pasina shoko kwamakore mazana mana, Mwari akanga aenda kana kuti aizorora.”",
+   "t": "Kunyarara hakusi kushayikwa. Akangosataura, asi nguva yose iyoyo achifambisa umambo, mitauro, nemigwagwa kuti agadzire chikuva choruponeso. Munguva yakanyarara zvikuru, Mwari aishanda zvakanyanya, norudo (VaGaratiya 4:4)."
+  },
+  {
+   "w": "“Jesu aingova mumwe mudzidzisi wetsika akanaka / muchinjikwa waiva kukundwa kunorwadza.”",
+   "t": "Jesu akati ndiye Mwari pachake (Johani 8:58), uye muchinjikwa wakanga usiri tsaona kana kukundwa asi rudo rwakarongwa. Haana kukweverwa ikoko nechisimba; akarasa upenyu hwake pachake (Johani 10:18). “Hakuna munhu ano rudo rukuru kune urwu, kuti munhu arasire hama dzake upenyu hwake” (Johani 15:13)."
+  },
+  {
+   "w": "“Kereke iboka ravanhu vakakwana, kana kuti chivako chete.”",
+   "t": "Kereke haisi ungano ya“vatsvene vakapedza” asi ya<b>vatadzi vakakanganwirwa</b>. Kunyange muapositori Pauro akazviti “mukuru” wavatadzi (1 Timoti 1:15). Kereke yokutanga yakakakavadzanawo uye yakagumburwa (Mabasa 6:1; 1 VaKorinte 1:11). Hairi nzvimbo yokuzvikudza, asi vanhu vanopfuudza rudo rwavakagamuchira (Johani 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Chivi chokutanga — hakuna akarurama",
+   "body": "Dambudziko harisi “mabasa mashoma akaipa” asi mudzi womwoyo. Kubva pana Adhamu, munhu wose anoberekwa ari pasi pechivi uye haagoni kusvika kuna Mwari ari oga.",
+   "vref": "VaRoma 3:10-12, 23",
+   "vtext": "Hakuna akarurama, kunyange nomumwe… nokuti vose vakatadza, vakasasvika pakubwinya kwaMwari."
+  },
+  {
+   "title": "Murayiro haungandiponesi",
+   "body": "Murayiro hausi danho asi chionioni. Pose paunoedza zvakanyanya, ndipo paunoratidza kuti unotadza zvakadii. Chinangwa chawo kutiendesa kuna Kristu.",
+   "vref": "VaRoma 3:20 · VaGaratiya 3:24",
+   "vtext": "zvivi zvinoziviswa nomurayiro… murayiro wakanga uri muperekedzi wedu, kutiisa kuna Kristu."
+  },
+  {
+   "title": "Nenyasha — chipo, kwete kushanda",
+   "body": "Ruponeso harusi mubhadharo wezvinhu zvakanaka zvawakaita, asi chipo chemahara kune vasina kufanira. Saka hapana munhu angazvikudza.",
+   "vref": "VaEfeso 2:8-9",
+   "vtext": "makaponeswa nenyasha, nokutenda… hazvibvi pamabasa, kuti kurege kuva nomunhu anozvikudza."
+  },
+  {
+   "title": "Kururamiswa nokutenda",
+   "body": "Kwete nokuchengeta murayiro, asi nokutenda muna Jesu Kristu unonzi wakarurama — wakapfekedzwa kwete kururama kwako asi kururama kwake.",
+   "vref": "VaRoma 5:1 · VaGaratiya 2:16",
+   "vtext": "zvatinoruramiswa nokutenda ngative norugare kuna Mwari… munhu haaruramiswi namabasa omurayiro, asi nokutenda kuna Kristu Jesu."
+  },
+  {
+   "title": "Bhaibheri rinonongedzera kuna Jesu",
+   "body": "Bhaibheri harisi bhuku ravarume vakuru kana rokuzvibatsira. Kubva Genesi kusvika Zvakazarurwa, peji rimwe nerimwe rinopupura munhu mumwe — Jesu Kristu.",
+   "vref": "Johani 5:39 · Ruka 24:27",
+   "vtext": "ndiwo anondipupurira ini… akavadudzira zvakanyorwa pamusoro pake muMagwaro ose."
+  },
+  {
+   "title": "Ushe hwaMwari — shoko guru raJesu",
+   "body": "Iyi inyaya yakanyanya kudzidziswa naJesu. Kutonga kwaMwari saMambo kwakapinda munyika ino naJesu uye kuchapedziswa paanodzoka. Nomuchinjikwa nokumuka kwake, Jesu ndiye Mambo wechokwadi akakunda chivi, rufu, naSatani.",
+   "vref": "Mako 1:15",
+   "vtext": "Nguva yazadziswa, ushe hwaMwari hwaswedera pedyo; tendeukai, mutende Vhangeri."
+  },
+  {
+   "title": "Vhangeri — akapedza zvose",
+   "body": "Chikwereti chechivi chandakanga ndisingagoni kuripa, Jesu akachiripa munzvimbo yangu pamuchinjikwa, uye nokumuka akakunda rufu. Handizendamiri pa“ita izvi” asi pa“zvapera.”",
+   "vref": "Johani 19:30 · VaRoma 5:8",
+   "vtext": "Zvapera… Kristu akatifira, tichiri vatadzi."
+  }
+ ]
+}

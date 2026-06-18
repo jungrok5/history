@@ -1,0 +1,343 @@
+{
+ "menuName": "Soomaali",
+ "htmlLang": "so",
+ "dir": "ltr",
+ "brand": "Kitaabka Quduuska Ah hal goor",
+ "docTitle": "Kitaabka Quduuska Ah hal goor · Laga bilaabo Abuurka ilaa Kaniisadda",
+ "share": {
+  "title": "Kitaabka Quduuska Ah hal goor",
+  "text": "Hal goor oo wax la hoos u rogo, ka ogow sheekada weyn ee Kitaabka Quduuska Ah — iyo sababta Ciise u yimid."
+ },
+ "ui": {
+  "people": "Dadka",
+  "events": "Dhacdooyinka muhiimka ah",
+  "christLabel": "Wuxuu tilmaamayaa Ciise",
+  "loveLabel": "Jacayl aan weligiis quusan",
+  "mythWrong": "Khalad caan ah",
+  "mythRight": "Runta",
+  "more": "Akhri wax dheeraad ah",
+  "version": "(SOM)"
+ },
+ "labels": {
+  "start": "Bilow",
+  "thread": "Sheekada",
+  "gospel": "Injiilka",
+  "about": "Ku saabsan"
+ },
+ "s": {
+  "ui.share": "↗ Wadaag",
+  "ui.toast": "Linkiga waa la koobiyeeyay 📋",
+  "ui.footer": "Kitaabka Quduuska Ah hal goor · Tixraacyada Kitaabka waxay ka yimaadeen Kitaabka Quduuska Ah",
+  "hero.kicker": "LAGA BILAABO ABUURKA ILAA KANIISADDA",
+  "hero.title": "Kitaabka Quduuska Ah,<br><span class='em'>hal goor</span>",
+  "hero.sub": "Hal goor oo wax la hoos u rogo, ka ogow sheekada weyn ee Kitaabka Quduuska Ah — iyo sababta Ciise u yimid.",
+  "hero.cue": "Hoos u rog<span>↓</span>",
+  "thread.eyebrow": "HAL WEEDH OO WADA XIRAYSA WAX WALBA",
+  "thread.h2": "Dhammaadkii, Kitaabka Quduuska Ah waa hal sheeko oo kaliya",
+  "thread.flow": "<b>Ballan</b><span class='arw'>→</span><b>Sugid</b><span class='arw'>→</span><b>Rumayn</b>",
+  "thread.note": "Ilaah waa <b>ballanqaadaa</b> (axdiga), dadkuna wakhti dheer ayay <b>sugaan</b>, ugu dambeyntiina wax walba waa <b>rumoobaan</b> oo Ciise gudahiis ku dhammaystiraan. Raac 13-ka muuqaal ee hoose si waafaqsan socodkaas — taabo <b>“Akhri wax dheeraad ah”</b> kaadh kasta si aad u hesho sheekada qoto dheer.",
+  "gospel.eyebrow": "WAXAY SHEEKADANI U TASEELAYSO “ANIGA”",
+  "gospel.h2": "Xudunta dhabta ah ee Kitaabka Quduuska Ah",
+  "gospel.lead": "Kitaabka Quduuska Ah <b>maaha buug bara “noqo qof wanaagsan.”</b>",
+  "gospel.sublead": "Waa sheekada sida Ilaah, <b>nimco keliya</b>, u badbaadiyey dembiilayaal aan weligood is-badbaadin karin. Bartamaheeda waxaa taagan Ciise Masiix.",
+  "gospel.mirror": "<h3>Wareegga aan dhammaadka lahayn ee Israa'iil runtii waa sawirka “aniga”</h3><div class='cycle'><b>Sanam-caabudid</b><span class='a'>→</span><b>Dhibaato</b><span class='a'>→</span><b>Qaylo</b><span class='a'>→</span><b>Ilaah baa badbaadiya</b><span class='a'>→</span><b>Mar kale sanam-caabudid…</b></div><p>Laga bilaabo Xaakinnada ilaa maxaabiistii, Israa'iil wareeggan ayay mar kale iyo mar kale ku celcelisaa. Kitaabka Quduuska Ah uma uu qorin si aynu u quudhsanno, “Sidee bay u xun yihiin.”</p><p>Waa <b>muraayad</b>. Ujeeddadu maaha “Israa'iil ayaa sidaas yeelay” laakiinse waa <b>“aniga oo iyaga oo kale ah”</b> (1 Korintos 10:11).</p><p><b>Sanamku</b> ma aha oo kaliya taallo la xardhay. Waa <b>wax kasta oo aynu jeclaanno ama isku hallaynno in ka badan Ilaah</b> — lacag, guul, ammaan, dad, xataa aniga qudhayda. Oo isticmaalka Ilaah si aad <b>u gaadho waxaad rabto</b> sidoo kale waa sanam-caabudid.</p><p class='punch'>Dhammaadkii, sanamka ugu qoto dheer waa “aniga oo carshiga Ilaah ku fadhiya.”</p>",
+  "gospel.coreIntro": "Haddaba sidee buu Ilaah u badbaadiyaa dembiilahaas oo kale? Halkan waa xudunta injiilka uu Kitaabku ku dhawaaqo.",
+  "gospel.crux": "<p class='crux-lead'>Kitaabka Quduuska Ah oo dhammu wuxuu tilmaamayaa hal meel.</p><p>Dadku kuma ay awoodin inay keligood wareegga dembiga jebiyaan, mid xaq ahna ma uu jirin. Sidaas darteed qof baa loo baahnaa inuu <b>qiimaha meeshooda ku bixiyo</b>.</p><p>Ciise uma uu iman oo kaliya inuu wax wanaagsan baro. Iyadoo aan jirin jid kale oo lagu i badbaadiyo, <b>wuu iman lahaa oo qudha.</b></p><p class='crux-punch'>Kii iskutallaabtaas lagu deldeli lahaa wuxuu ahaa <b>aniga</b>.<br>Ciise wuxuu qaaday <b>dembigayga</b> oo halkaas ayaa meeshayda lagu deldelay.</p><div class='crux-verse'>“Laakiinse waxaa isaga loo dhaawacay xadgudubyadeenna, waxaana loo nabareeyey xumaatooyinkeenna… dildillaaciisiina waynu ku bogsannay.” — Ishacyaah 53:5</div>",
+  "faq.h": "Weli wax kula adag?",
+  "faq.q1": "<span class='arr'>▸</span> Haddaba dilaa kaliya inuu rumaysto ayuu ku tegayaa jannada, halka qof nolol oo dhan wanaagsanaa oo aan rumaysanin uu galayo jahannamada?",
+  "faq.a1": "<p>Waa su'aal cadaalad ah. Laakiin laba khalad ayaa ku qarsoon.</p><p><b>① Kitaabka Quduuska Ah dadka uguma kala saaro “wanaagsan iyo xun.”</b> Cabbirku maaha “ka wanaagsan kan kuu xiga” laakiinse waa “quduusnimada kaamilka ah ee Ilaah.” Hortiisa, qofna “si filan uguma wanaagsana” (Rooma 3:23). Sidaas darteed tani maaha “qof wanaagsan iyo dilaa,” laakiinse waa sida laba qof oo isku cudur halis ah qaba — mid daawada qaata, kan kalena diido isagoo leh, “Anigu waan ka caafimaad qabaa ninkaas.”</p><p><b>② Hal shay oo keliya ayaa kala saara jannada iyo jahannamada.</b> Maaha buundada dhaqanka, laakiinse waa <b>haddaad aqbashay Ciise Masiix Rabbi ahaan oo dhibaatadaadii dembiga la xalliyay.</b> Kii dembigiisa lagu xalliyay dhiigga Masiix wuxuu galaa jannada; kii aan weligiis isaga aqbalin, oo dembigiisu hadho, ma galo. Wanaag intii la doono ma xallin karo dhibaatada dembiga lafteeda.</p><p>Sidaas darteed jannada iyo jahannamadu maaha “abaalmarin dhaqan wanaagsan” laakiinse waa arrin la xiriirta <b>xiriirka aad la leedahay Masiix</b>. Oo “rumaysadku” maaha oggolaansho maskaxeed laakiinse waa beddelka kan noloshaada wada — mid kasta oo run ahaantii aqbala kuma kibro, laakiinse aad buu ugu toobad keenaa. Dhab ahaantii, is-xaqsiinta (“Waan wanaagsanahay”) waa sanamka ugu adag in la jebiyo, kan na dhaliya inaynu u malayno inaynaan Masiix u baahnayn (Luukos 18:9-14).</p><p>Kitaabka Quduuska Ah si cad ayuu u yiri: <b>“Kii isaga rumaystaa ma xukumna, laakiinse kii aan isaga rumaysan, hore ayaa loo xukumay”</b> (Yooxanaa 3:18). Xukunku maaha “buundeyn noloshaada markaad dhimato” laakiinse horeba waxaa loo go'aamiyey <b>haddaad aqbashay Masiix</b>.</p><p class='faq-v'>Rooma 3:23 · Yooxanaa 3:18 · Efesos 2:8-9 · Luukos 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Miyaanan ku filnayn inaan nolol wanaagsan noolaado iyadoo aanan Ciise rumaysanin?",
+  "faq.a2": "<p>Waa fikirka ugu badan, laakiin wuu khaldamay waxa dhibaatada dhabta ahi tahay. Halkan waa sawir.</p><p><b>Ka soo qaad inaad ku jirto markab budhcad-badeed.</b> Si kasta oo aad u nadiifiso sagxadda, ugu naxariisato shaqaalaha, una noolaato nolol tusaale ah — wali waxaad tahay <b>budhcad-badeed</b>, maxaa yeelay markabku wuxuu kula socdaa meeshuu u socdo (dekedda xukunka). Dhibaatadu maaha “buundada dhaqankaaga” laakiinse waa <b>“markabkee aad ka tirsan tahay” (aqoonsigaaga)</b>.</p><p>Sidaas darteed injiilku ma yiraahdo “iskudday inaad sii wanaagsanaato” laakiinse wuxuu yiraahdaa <b>“markabka beddel.”</b> Ka deg markabka dembiga oo u gudub Ciise — aqoonsiga cusub ee <b>ilmaha Ilaah</b>. Tani maaha kor u qaadidda buundadaada dadaal, laakiinse waa inaad isku hallayso Kan gacantiisa kuu soo fidiya oo aad markabkiisa u gudubto.</p><p>Dhab ahaantii Kitaabka Quduuska Ah wuxuu badbaadinta ugu sharraxaa sidan oo kale beddelid: <b>“Isagu waa inaga samatabbixiyey xoogga gudcurka, oo wuxuu inoo beddelay boqortooyadii Wiilka jacaylkiisa”</b> (Kolosay 1:13).</p><p>Ha is-khaldin: <b>tani micnaheedu maaha in nolol wanaagsani aan macno lahayn.</b> Wanaagsanaantu maaha “shuruudda” badbaadinta laakiinse waa <b>midhaheeda</b>. Kan markabka beddelay hadda si wanaagsan uma noolaado cabsi darteed, laakiinse jacaylka ilmo darteed.</p><p class='faq-v'>Kolosay 1:13 · Yooxanaa 1:12 · Yooxanaa 3:3 · Efesos 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Haddii dembiile uu nabad dareemo, isagoo sheeganaya “Ilaah waa i cafiyey,” halka dhibbanahu wali dhibaato leeyahay — sow nimcadu aad uma jaban tahay?",
+  "faq.a3": "<p>Su'aashu waa cadaalad, xanuunkuna waa run. Laakiin sheegashada noocaas ah maaha “cafiska Kitaabka Quduuska Ah” — waa <b>qalloocin</b> isaga.</p><p><b>① Cafiska Ilaah weligiis ma jaban.</b> Dembiga laguma daboolo sidii oo aanay waxba dhicin; Ilaah qudhiisu wuxuu qiimihiisii ku bixiyey nolosha Wiilkiisa. Iskutallaabtu maaha caddayn in dembiga la fududaysto, laakiinse waa caddayn intuu dembigu culus yahay — waa cafiska ugu qaali badan adduunka.</p><p><b>② Toobad dhabta ahi midho bay dhashaa.</b> Haddii dembiile uu hor istaago dhibbanaha isagoo aan dareemin — “Ilaah waa i cafiyey, sidaas darteed waan nabad qabaa” — taasi maaha toobad laakiinse waa ku-dayasho keliya (Matayos 3:8). Oo cafiska u dhexeeya qofka iyo Ilaah ma tirtiro nabarka dhibbanaha, kuma qasbo dhibbanaha inuu cafiyo.</p><p><b>③ Dembiga weligiis kaliya looma “daayo.”</b> Dembi kastaa wuxuu ku bixiyaa labada meel midkood — <b>ama Masiix ayaa iskutallaabta ku qaada</b> (kuwa isaga rumaysta hortooda xukun ma laha, Rooma 8:1), <b>ama kan ugu dambeyntii diidaa qudhiisa ayaa qaata.</b> Sidaas darteed ma jiro “cafis jaban.” Dembiilaha sidoo kale wuxuu wali leeyahay mas'uuliyad sharci ee adduunkan (Rooma 13:1-4).</p><p><b>④ Ilmadii dhibbanahu Ilaah hortiisa weligeed ma yarayn.</b> Ilaah wuu la ooyaa kuwa ooya, ilmo kastana wuu xusuustaa, ugu dambeyntiina isaga qudhiisa ayaa tirtiri doona (Muujintii 21:4). Sidaas darteed dhibbanahu uma uu sido culayska aarsashada keligiis, laakiinse wuxuu ku aamini karaa Ilaaha xaqa ah (Rooma 12:19 — “Aarsasho anigaa leh; anaa u abaalmarin, ayaa Rabbigu leeyahay”).</p><p class='faq-v'>Matayos 3:8 · Rooma 8:1 · Rooma 13:1-4 · Muujintii 21:4</p>",
+  "respond.h3": "Haddaba — aniga waa maxay?",
+  "respond.sub": "Jacaylkanu maaha macluumaad laakiinse waa <b>casuumaad</b>. Haddii jacaylka meeshaada lagu deldelay uu taabtay qalbigaaga, hadda tukashadan tartiib u tuko, sadar sadar.",
+  "respond.prayer": "<p>Ilaahow,</p><p>Waxaan qiranayaa inaan ahay dembiile aanan is-badbaadin karin.</p><p>Waxaan rumaysanahay in Ciise iskutallaabta iigu dhintay oo uu mar kale soo sara kacay.</p><p>Iga cafi dembiyadayda oo dhan, oo maantadan dabadeed noqo Rabbiga noloshayda.</p><p>Ii aqbal sidii ilmahaaga, oo i daa inaan nolol cusub noolaado.</p><p class='amen'>Magaca Ciise ayaan ku tukanayaa. Aamiin.</p>",
+  "respond.after": "Haddaad daacadnimo ku tukatay tan, Kitaabka Quduuska Ah wuxuu leeyahay waxaad noqotay <b>ilmaha Ilaah</b>. Mar dambe keligaa ma tihid — raadi kaniisad kuu dhow oo jidka iimaanka kuwa kale la qaad.",
+  "respond.verse": "“Laakiin in alla intii aqbashay, wuxuu siiyey amar ay carruurtii Ilaah ku noqdaan, kuwaasu waa kuwii magiciisa rumaystay.” — Yooxanaa 1:12 · Rooma 10:9-10",
+  "closing.main": "Hal Ilaah,<br>oo hal sheeko ku soo maraya,<br>ayaa nagu raadiya <em>jacayl</em><br>aan weligiis quusan.",
+  "closing.verse": "“Waxaan hubaa inaan dhimashada, ama nolosha… ama uun kaleeto inaga sooci karin jacaylka Ilaah oo ku jira Rabbigeenna Ciise Masiix.” — Rooma 8:38-39",
+  "closing.small": "Sheekadan dushooda, Sharcigii, buugaagta gabayada, nebiyada, iyo waraaqaha ayaa “hilibka” ku daraya.<br>Hadda, buug kasta oo aad furto, waxaad arki doontaa meeshaad ku taal sheekada.",
+  "closing.share": "↗ Wadaag sheekadan",
+  "about.line": "Waxay ku salaysan tahay aragtida <b>taariikhda madaxfurashada, evangelical iyo Reformed</b> ee ay wadaagaan inta badan kaniisadda Protestant ee Kuuriya.",
+  "about.contact": "Su'aalo · jawaab celin — <a id='contact' class='mail'>Noo soo qor</a>"
+ },
+ "epochs": [
+  {
+   "tag": "AXDIGA HORE · BILOWGA",
+   "title": "Abuurka",
+   "date": "Bilowgii",
+   "one": "Ilaah wuxuu sameeyey adduun “aad u wanaagsan.”",
+   "people": "Ilaah; Aadan iyo Xaawo",
+   "events": "Lix maalmood oo abuur, dadka oo loo sameeyey sida Ilaah, nasashada Sabtida",
+   "q": "Bilowgii Ilaah samada iyo dhulkuu abuuray.",
+   "cite": "Bilowgii 1:1",
+   "christ": "Adduunka waxaa loo sameeyey “Ereyga.” Injiilka Yooxanaa wuxuu caddeeyaa in Ereygaasi yahay Ciise qudhiisa (Yooxanaa 1:1-3).",
+   "detail": "<p>Kitaabka Quduuska Ah kuma furmo dood falsafadeed laakiinse caddayn: <b>“Bilowgii Ilaah…”</b> Adduunku maaha shil laakiinse waa shaqada Ilaah shakhsi ah.</p><ul><li><b>Suuradda Ilaah</b> · uunka oo dhan, dadka oo keliya ayaa loo sameeyey inay Ilaah u eg yihiin — inay isaga gartaan oo ay adduunka u daryeelaan.</li><li><b>Nasasho</b> · nasashada maalinta toddobaad waxay muujinaysaa wax walba oo dhammays tiran oo nabad ah (shalom): “way wanaagsanayd.”</li><li><b>Ceeden</b> · adduunkii ka hor intaan la jebin, halkaas oo Ilaah iyo dadku ay isla socdaan.</li></ul>",
+   "next": "Laakiin dhammaystirkani wuu jebi doonaa dhowaan…"
+  },
+  {
+   "tag": "AXDIGA HORE · DHIBAATADII WAA BILAABATAY",
+   "title": "Dhicitaanka",
+   "date": "Bilowgii",
+   "one": "Dembigii wuu soo galay, xiriirkii dadka iyo Ilaahna waa la gooyey.",
+   "people": "Aadan iyo Xaawo; abeesadii (Shayddaan)",
+   "events": "Cunidda midhihii la mamnuucay, ka eryidda Ceeden, imaatinka dhimashada iyo hawsha",
+   "q": "oo colaad baan idin dhex dhigi doonaa adiga iyo naagta… oo madaxaaguu burburin doonaa.",
+   "cite": "Bilowgii 3:15",
+   "christ": "Ballantii ugu horraysay ee injiilka, oo la bixiyey isla markii dhicitaanka ka dib: “farcanka naagta” ayaa burburin doona madaxa abeesada — taasina waa Ciise (Bilowgii 3:15; Rooma 16:20; Galatiya 4:4).",
+   "detail": "<p>Caasinimadii doonista in la “noqdo sida Ilaah,” dembigu wuxuu galay adduunka. Natiijadu maaha kaliya xeer jaban laakiinse waa <b>xiriir jaban</b>.</p><ul><li><b>Xiriiro jaban</b> · Ilaah (dhuumasho), midba midka kale (eedayn), iyo dabeecadda (qodxan iyo hawl).</li><li><b>Dhimasho</b> · digniintii “hubaal waad dhiman doontaa” waa la rumeeyey.</li><li><b>Bilowgii 3:15</b> · weliba xukunka dhexdiisa, ballan badbaadin ah ayaa marka hore yimaada. Aqoonyahannadu waxay ugu yeeraan <b>protoevangelium (injiilka ugu horreeya)</b>.</li></ul>",
+   "next": "Hadda Ilaah wuxuu u yeeraa hal nin si uu u bilaabo badbaadinta…"
+  },
+  {
+   "tag": "AXDIGA HORE · BALLANKII",
+   "title": "Aabbayaashii hore",
+   "date": "qiyaastii 2000 ka hor C.",
+   "one": "Ilaah wuxuu u ballanqaaday Ibraahim, “Waxaad noqon doontaa marin barako.”",
+   "people": "Ibraahim · Isxaaq · Yacquub · Yuusuf",
+   "events": "Axdigii Ibraahim, xidhidhka Isxaaq, laba iyo tobankii wiil ee Yacquub, Yuusuf oo Masar ku sarreeya",
+   "q": "Oo quruun weyn baan kaa dhigi doonaa… oo qabiilooyinka dhulka oo dhammu adigay kugu barakoobi doonaan.",
+   "cite": "Bilowgii 12:2-3",
+   "christ": "Ballantii ah in “qabiilooyinka oo dhammu ay barakoobi doonaan” waxay ku rumowdaa Ciise, oo ah farcankii Ibraahim (Galatiya 3:16).",
+   "detail": "<p>Ilaah wuxuu bilaabaa inuu xalliyo dhibaatada bani'aadminta oo dhan isagoo u yeeraya hal nin, <b>Ibraahim</b>. Xudunteedu waa <b>axdiga (ballanka)</b> — quruun weyn, dhul, iyo “barako qabiilooyinka oo dhan.”</p><ul><li><b>Iimaan</b> · Ibraahim wuxuu rumaystay ballan aan la arkin, waxaana loogu tiriyey xaqnimo (Bilowgii 15:6).</li><li><b>Isxaaq iyo Yacquub</b> · ballanku wuu sii gudbaa; Yacquub (Israa'iil) wuxuu dhalaa laba iyo tobanka qabiil.</li><li><b>Yuusuf</b> · walaalihiis way iibiyeen weliba kor buu u kacay — “Ilaah wuxuu damacsanaa wanaag” (Bilowgii 50:20).</li></ul>",
+   "next": "Iyagoo Yuusuf raacaya, qoysku Masar ayay u dhaadhaceen — wayna addoonsadeen…"
+  },
+  {
+   "tag": "AXDIGA HORE · MADAXFURASHO",
+   "title": "Baxniintii iyo Cidlada",
+   "date": "qiyaastii 1446 ka hor C.",
+   "one": "Ilaah wuxuu badbaadiyey dad la addoonsaday oo isagiisa ka dhigay.",
+   "people": "Muuse, Haaruun, Fircoon",
+   "events": "Tobankii belaayo, Iiddii Kormaridda, ka gudubkii Badda Cas, Tobankii Amar ee Siinay, Taambuugga, 40 sannadood oo cidlada ah",
+   "q": "oo waxaan idiin qaadan doonaa dad ahaan, oo aan idiin noqon doonaa Ilaah.",
+   "cite": "Baxniintii 6:7",
+   "christ": "Iiddii Kormaridda — halkaas oo dhiigga wankii uu dhimashada ka leexshay — waxay tilmaamaysaa Ciise, “wankeenna Iidda Kormaridda,” oo nala iskutallaabay (1 Korintos 5:7).",
+   "detail": "<p>Madaxfurashada ugu weyn ee Axdiga Hore. Israa'iil oo hore loo addoonsaday waxaa xoogga Ilaah ku xoreeyey oo loo qaabeeyey <b>dadkiisa</b>.</p><ul><li><b>Iiddii Kormaridda</b> · gurigii dhiigga wankii lagu calaameeyey dhimashadu way ka gudubtaa — qaabkii ka dambeeyey allabari kasta oo dambe.</li><li><b>Badda Cas</b> · badbaadin meel jidku ku dhammaado; “ka gudubku” wuxuu noqdaa astaanta bilowga cusub.</li><li><b>Axdigii Siinay</b> · Amarrada ayay ku bartaan sida loo noolaado dad Ilaah ah.</li><li><b>Taambuugga</b> · meel quduus ah oo la dhaqaajin karo halkaas oo Ilaah dadkiisa dhex deggan yahay — dhadhan hore oo “Cimmaanuu'eel.”</li><li><b>40 sannadood</b> · caasinimadu waxay ka dhigtaa qarni cidlada wareega, weliba Ilaah wuu la jiraa maanna iyo tiirka daruurta iyo dabka.</li></ul>",
+   "next": "Iyagoo dhulka ballanqaadan cidhibtiisa taagan, waxay isu diyaariyaan inay galaan…"
+  },
+  {
+   "tag": "AXDIGA HORE · DEGITAANKA",
+   "title": "Qabsashada iyo Xaakinnada",
+   "date": "qiyaastii 1400–1050 ka hor C.",
+   "one": "Waxay heleen dhulkii, laakiin boqor la'aan qof kastaa wuxuu sameeyey wixii la qumman.",
+   "people": "Yashuuca; xaakinno sida Gidcoon iyo Samsoon; Ruud",
+   "events": "Dhicitaankii Yerixoo, degitaankii Kancaan, wareeg ku celcelis ah dembi–xukun–badbaadin",
+   "q": "Waagaasna reer binu Israa'iil boqor ma ay lahayn; oo nin walubana wuxuu samayn jiray wixii isaga la qumman.",
+   "cite": "Xaakinnada 21:25",
+   "christ": "Farcankii Ruud waxaa ka yimid Daa'uud, farcankii Daa'uudna waxaa ka yimid Ciise (Matayos 1). Xataa qaska dhexdiisa, abtirsiinyada Masiixu way sii socotaa.",
+   "detail": "<p>Yashuuca hoostiisa ayay galaan dhulka ballanqaadan, laakiin markay degaan dhowaan ayay Ilaah iloobaan. Xaakinnadu waa qaab isku mid ah oo celcelis ah.</p><ul><li><b>Wareegga hoos u dhaca</b> · dembi → cadaadis → qaylo → xaakin baa badbaadiya → mar kale dembi. Wuu sii xumaadaa oo kaliya.</li><li><b>Xaakinnada</b> · Gidcoon, Samsoon, Debooraah — badbaadiyayaal ku meel gaadh ah, geesi laakiin aad u cilladaysan.</li><li><b>Ruud</b> · sheeko iftiin ah oo aaminnimo ah xilli madow; naag qalaad ayaa gasha abtirsiinyada Daa'uud (iyo Ciise).</li></ul>",
+   "next": "Dadku waxay qayliyaan, “Annagana boqor na sii!”…"
+  },
+  {
+   "tag": "AXDIGA HORE · WAAGII DAHABKA AHAA",
+   "title": "Boqortooyadii Midaysnayd",
+   "date": "qiyaastii 1050–930 ka hor C.",
+   "one": "Ilaah wuxuu u ballanqaaday Daa'uud, “Carshigaagu weligiis wuu dhisnaan doonaa.”",
+   "people": "Saa'uul · Daa'uud · Sulaymaan",
+   "events": "Boqorkii ugu horreeyey Saa'uul, Daa'uud iyo Goolyad, axdigii Daa'uud, Sulaymaan oo macbudka dhisa",
+   "q": "Oo reerkaaga iyo boqortooyadaadaba waxaa laga dhigi doonaa kuwo weligood hortaada ku raaga, oo carshigaaguna weligiis wuu dhisnaan doonaa.",
+   "cite": "2 Samuu'eel 7:16",
+   "christ": "“Carshiga weligiis” wuxuu ku rumoobaa Ciise, oo ah ina Daa'uud — taas ayaa loogu yeeraa “Ina Daa'uud” (Luukos 1:32-33; Matayos 1:1).",
+   "detail": "<p>Heerkii ugu sarreeyey ee Israa'iil, oo ay xukumayaan saddex boqor.</p><ul><li><b>Saa'uul</b> · boqorkii dadku doonayeen; bilow wanaagsan oo caasinimo ku kharribay.</li><li><b>Daa'uud</b> · “nin ah sida qalbiga Ilaah.” Wuxuu jebiyaa Goolyad oo Yeruusaalem ka dhigaa caasimad. Wuxuu sameeyaa dembi weyn (Batsheba) laakiin qalbi ahaan ayuu uga toobad keenaa (Sabuurka 51).</li><li><b>Axdigii Daa'uud (2 Samuu'eel 7)</b> · Ilaah wuxuu ballanqaadaa inuu weligiis dhiso boqornimada Daa'uud — xididka go'aaminaya rajada Masiixa.</li><li><b>Sulaymaan</b> · isagoo xigmad iyo maal sarreeya wuxuu dhisaa <b>macbudka</b>, laakiin noloshiisa dabadeed sanamyo ayuu u jeestaa.</li></ul>",
+   "next": "Sulaymaan dabadiis, boqortooyadu waxay u kala qaybsantaa laba…"
+  },
+  {
+   "tag": "AXDIGA HORE · HOOS U DHAC",
+   "title": "Boqortooyadii Kala Qaybsantay",
+   "date": "930–586 ka hor C.",
+   "one": "Waxay u kala qaybsantaa koonfur (Yahuudah) iyo waqooyi (Israa'iil), quruuntiina waxay u dhacdaa burbur.",
+   "people": "Boqorradii labada boqortooyo; nebiyo sida Eliyaas, Ishacyaah, Yeremyaah",
+   "events": "Boqortooyadu way kala qaybsantaa, sanam-caabudid baa fida, nebiyadu way digaan",
+   "q": "Sidaasay dadkii Israa'iil ugu caasiyoobeen Daa'uud reerkiisii ilaa maantadan la joogo.",
+   "cite": "1 Boqorradii 12:19",
+   "christ": "Xilligan nebiyadu waxay sii caddeeyeen Masiixa imanaya si ka sii cad (Ishacyaah 9:6; Ishacyaah 53).",
+   "detail": "<p>Maalmihii wiilkii Sulaymaan boqortooyadu way kala qaybsantaa: <b>boqortooyada waqooyi ee Israa'iil</b> (10 qabiil, caasimad Samaariya) iyo <b>boqortooyada koonfureed ee Yahuudah</b> (2 qabiil, caasimad Yeruusaalem).</p><ul><li><b>Israa'iil (waqooyi)</b> · boqor kastaa wuxuu u adeegaa sanamyo; waxay ku dhacdaa Ashuur 722 ka hor C.</li><li><b>Yahuudah (koonfur)</b> · abtirsiinyada Daa'uud way socotaa, oo ay jiraan boqorro wanaagsan oo sida Xisqiyaah iyo Yoosiyaah, laakiin guud ahaan way hoos u dhacaan.</li><li><b>Nebiyada</b> · Eliyaas, Caamoos, Ishacyaah, Yeremyaah ayaa qaylinaya “soo noqda!” Nebinnimada Masiixu halkan ayay ugu badan tahay (“addoonka silcaya” ee Ishacyaah 53).</li></ul>",
+   "next": "Ugu dambeyntii xukunkii la diggaye wuu yimaada — maxaabiis ahaan ayaa loo kaxeeyaa…"
+  },
+  {
+   "tag": "AXDIGA HORE · XUKUN",
+   "title": "Maxaabiisnimada",
+   "date": "722 / 586 ka hor C.",
+   "one": "Quruuntu way burburtaa dadkana waxaa loo kaxeeyaa dhulal qalaad.",
+   "people": "Daanyeel, Yexesqeel, Nebukadnesar",
+   "events": "Israa'iil waxay ku dhacdaa Ashuur (722); Yahuudah waxay ku dhacdaa Baabuloon macbudkana waa la dumiyaa (586)",
+   "q": "Waxaannu ag fadhiisannay webiyaashii Baabuloon, Oo waannu ooynay markii aannu Siyoon soo xusuusannay.",
+   "cite": "Sabuurka 137:1",
+   "christ": "Quusta hoosteeda Yeremyaah wuxuu ballanqaadaa “axdi cusub” (Yeremyaah 31:31) — isla axdigii Ciise xidhay Cashadii u Dambaysay.",
+   "detail": "<p>Digniintii waa rumowdaa. Macbudku waa gubtaa dadkana waxaa loo kaxeeyaa Baabuloon — iyagoo lumiya dhulkii, boqorkii, iyo macbudkii: heerkii ugu hooseeyey ee dhammaan.</p><ul><li><b>Laba dhicitaan</b> · Israa'iil (Ashuur, 722 ka hor C.) iyo Yahuudah (Baabuloon, 586 ka hor C.).</li><li><b>Daanyeel</b> · tusaale iimaan ah xataa barxad jaahil ah (godkii libaaxyada); wuxuu arkaa muuqaallo “boqortooyo weligeed ah” oo imanaysa.</li><li><b>Dhimbiil rajo ah</b> · muuqaalkii Yexesqeel ee lafihii engegay oo soo nooleysmaya (Yexesqeel 37) iyo “axdiga cusub” ee Yeremyaah waxay tilmaamayaan mustaqbal mugdiga dhexdiisa.</li></ul>",
+   "next": "Toddobaatan sannadood ka dib, Ilaah wuu furaa jidka — guriga ayay ku noqdaan…"
+  },
+  {
+   "tag": "AXDIGA HORE · SOO CELIN",
+   "title": "Soo Noqoshada",
+   "date": "538–430 ka hor C.",
+   "one": "Way soo noqdaan oo dhisaan macbudkii iyo derbiyadii.",
+   "people": "Cesraa, Nexemyaah, Esteer, Serubaabel",
+   "events": "Soo noqosho amarka Kuuros, dhisidda macbudka, soo celinta derbiyada Yeruusaalem, soo celinta Ereyga",
+   "q": "waayo, idinka waxaa xoog idiin ah farxadda Rabbiga.",
+   "cite": "Nexemyaah 8:10",
+   "christ": "Malaakii, buugga ugu dambeeya ee Axdiga Hore, wuxuu ku soo gabagabeeyaa nebinnimo wargeeye u diyaariya jidka Masiixa: “waxaan soo dirayaa wargeeyahayga” (Malaakii 3:1).",
+   "detail": "<p>Amarka boqorkii Faaris ee Kuuros (538 ka hor C.) ayaa soo noqoshadu ku bilaabataa. Saddex hir ayay ku soo noqdaan oo dhisaan wixii burburay.</p><ul><li><b>Serubaabel</b> · wuxuu dhisaa macbudka (la dhammeeyey 516 ka hor C.).</li><li><b>Cesraa</b> · wuxuu mar kale baraa Ereyga oo soo nooleeyaa iimaanka.</li><li><b>Nexemyaah</b> · wuxuu derbiyada Yeruusaalem dhisaa 52 maalmood gudahood.</li><li><b>Esteer</b> · waxay Yuhuudda Faaris ka badbaadisaa baabbi'in — “waxaa laga yaabaa inaad boqornimada timid xilli sidan oo kale ah.”</li><li><b>Weli oohin</b> · macbudku wuu taagan yahay, laakiin boqor sida Daa'uud oo kale ma jiro. Dadku waxay sugaan Masiixa.</li></ul>",
+   "next": "Markaasna… sidii samadii oo aamustay, 400 sannadood ayaa dhaafa."
+  },
+  {
+   "tag": "AXDIYADA DHEXDOODA · GOOBTA DIYAARINTA",
+   "title": "Sannadihii Aamusnaa",
+   "date": "qiyaastii 430–4 ka hor C.",
+   "one": "400 sannadood oo aan codka nebi lahayn — weliba goobtii si aamusan ayaa loo diyaarinayey.",
+   "people": "Aleksander Weyn, Makabiyiintii, Roomaan",
+   "events": "Faaris → Giriig → madaxbannaanidii Makabiyiinta → xukunkii Roomaan",
+   "q": "laakiinse markii wakhtigii buuxsamay, Ilaah wuxuu soo diray Wiilkiisii, isagoo naag ka dhashay.",
+   "cite": "Galatiya 4:4",
+   "christ": "“Goobta diyaarintan” oo dhammu waxay ahayd Ilaah oo shaqaynaya si Ciise u yimaado isla saacaddii “wakhtigii buuxsamay.”",
+   "detail": "<p>Laga bilaabo Malaakii ilaa Axdiga Cusub, qiyaastii 400 sannadood ayaa dhaaftay iyadoo aan jirin Qoraal cusub. Weliba taariikhda gadaasheeda Ilaah wuxuu diyaarinayey jidka injiilka.</p><ul><li><b>Boqortooyooyinku way isbeddelaan</b> · Faaris → Giriig (Aleksander, 333 ka hor C.) → Tolomaayos iyo Seleukos → kacdoonkii Makabiyiinta (167 ka hor C.) → Roomaan (63 ka hor C.).</li><li><b>Giriiggii</b> · qabsashada Aleksander waxay ka dhigtay Giriiggii afkii caamka ah; Axdiga Hore waxaa loo turjumay Giriig (Septuagint), taasoo jidka u furtay in injiilku si dhakhso ah u faafo.</li><li><b>Waddooyinka iyo nabadda Roomaan</b> · waddooyinkii si fiican loo dhisay iyo “Pax Romana” waxay noqdeen jidad u adeegga.</li><li><b>Sunagogyada iyo xisbiyada</b> · barashada sunagogga way xididaysmaan; Farrisiintii iyo Sadukiintii way kacaan; oo <b>sugidda Masiixu</b> way bislaataa.</li></ul>",
+   "next": "Markaasna aamusnaantu way jebisaa — ugu dambeyntii, wuu yimaada."
+  },
+  {
+   "tag": "AXDIGA CUSUB · RUMAYN",
+   "title": "Imaatinka Ciise",
+   "date": "qiyaastii 4 ka hor C.–30 ka dib C.",
+   "one": "Masiixii la ballanqaaday wuu yimid, wuu dhintay, wuuna soo sara kacay.",
+   "people": "Ciise, laba iyo tobankii xer, Yooxanaa Baabtiisaha",
+   "events": "Jidhsiga, adeeggiisii iyo waxbariddiisii iyo cajaa'ibyadiisii, dhimashada iskutallaabta, soo saraka cidda maalintii saddexaad",
+   "q": "Ereyguna jidh buu noqday, oo waa ina dhex joogay… ee nimco iyo run ka buuxa.",
+   "cite": "Yooxanaa 1:14",
+   "christ": "Farcanka naagta (muuqaal 2), barakada Ibraahim (3), wankii Iidda Kormaridda (4), boqorka weligiis ee Daa'uud (6), axdiga cusub (8) — dhammaantood waxay ku rumoobaan hal nin, Ciise: nebigeenna dhabta ah, wadaadkeenna, iyo boqorkeenna.",
+   "detail": "<p>Aamusnaantu way jebisaa; Kii la ballanqaaday wuu yimaadaa. Afarta Injiil waxay ka markhaati furaan nolosha, dhimashada, iyo soo sarakicidda Ciise afar dhinac.</p><ul><li><b>Jidhsi</b> · Ilaah wuxuu noqdaa dad (Cimmaanuu'eel, “Ilaah baa inala jooga”), meel hooseysa ee Beytlaxam.</li><li><b>Adeeg</b> · wuxuu baraa boqortooyada Ilaah, wuxuu bogsiiyaa kuwa buka, wuxuu u yeeraa dembiilayaal. “Kii i arkay wuxuu arkay Aabbaha.”</li><li><b>Iskutallaabta</b> · wuxuu meesheenna ku bixiyaa qiimaha dembiga iyo dhimashada uu keenay dhicitaanku (muuqaal 2). Wankii dhabta ahaa ee Iidda Kormaridda.</li><li><b>Soo sarakicidda</b> · isagoo soo sara kacaya maalintii saddexaad, wuxuu jebiyaa xoogga dembiga, dhimashada, iyo Shayddaan — horeba iskutallaabta wuxuu “hubkuu ka qaaday taliyayaasha iyo kuwa amarka leh… isagoo iyaga kaga guulaysanaya” (Kolosay 2:15).</li></ul><p>Sidaas darteed Ciise waa <b>nebigeenna dhabta ah</b> (na tusaya jidka Ilaah), <b>wadaadkeenna dhabta ah</b> (jidhkiisa ku kafaaro guda dembiga), iyo <b>boqorkeenna dhabta ah</b> (ka adkaada dembiga, dhimashada, iyo Shayddaan, weligiisna xukuma).</p>",
+   "next": "Ciisihii soo sara kacay wuxuu xertiisa adduunka u diraa…"
+  },
+  {
+   "tag": "AXDIGA CUSUB · FIDID",
+   "title": "Bilowga Kaniisadda",
+   "date": "qiyaastii 30 ka dib C.–",
+   "one": "Ruuxu wuu yimaadaa, injiilkuna wuxuu u faafaa dhammaadka dhulka.",
+   "people": "Butros, Bawlos, kaniisaddii hore",
+   "events": "Ruuxa oo lagu shubay Bentakostada, kaniisadda oo dhalata, injiilka oo Yeruusaalem ka gaadha Roomaan dhibaato dartiis",
+   "q": "Laakiinse waxaad heli doontaan xoog markii Ruuxa Quduuska ahi idinku soo dego… ilaa meesha dunida ugu fog.",
+   "cite": "Falimaha Rasuullada 1:8",
+   "christ": "Sheekadani weli way socotaa maanta. Kitaabka Quduuska Ah wuxuu ku gabagabeeyaa ballan ah in Ciise mar kale yimaado oo wax walba cusboonaysiiyo (Muujintii 21).",
+   "detail": "<p>Ciise markii uu kor u baxay ka dib, Ruuxii la ballanqaaday wuu yimaadaa Bentakostada kaniisadduna way dhalataa. Injiilku si qarxan ayuu u faafaa.</p><ul><li><b>Bentakosta</b> · Ruuxu wuxuu xertii cabsida lahayd ka dhigaa markhaatiyaal geesi ah.</li><li><b>Butros</b> · wuxuu injiilka u wacdiyaa Yuhuudda Yeruusaalem.</li><li><b>Bawlos</b> · silciye ilaa rasuul, wuxuu kaniisado ka aasaasaa dunida dadka aan Yuhuudda ahayn wuxuuna qoraa waraaqaha.</li><li><b>Ilaa dhammaadka dhulka</b> · Yeruusaalem → Yahuudiya → Samaariya → Roomaan. Ballantii Ibraahim ee “qabiilooyinka oo dhan” way rumowdaa.</li><li><b>Innaga iyo</b> · sheekadu ma dhammaato; waxay u sii socotaa soo noqoshada Ciise iyo samada cusub iyo dhulka cusub.</li></ul>",
+   "next": "Laakiin sheekadu halkan kuma dhammaato…"
+  },
+  {
+   "tag": "AXDIGA CUSUB · DHAMMAYSTIR",
+   "title": "Soo Celinta (wax walba cusub)",
+   "date": "Wali imanaya",
+   "one": "Ciise mar kale wuu yimaadaa oo wax walba cusboonaysiiyaa.",
+   "people": "Ciise oo soo noqonaya; quruumaha oo dhan",
+   "events": "Soo noqoshada, xukunka ugu dambeeya, dhammaadka dembiga·dhimashada·ilmada, samo cusub iyo dhul cusub",
+   "q": "oo isna indhahooda ilmo kastuu ka tirtiri doonaa, oo dhimashona mar dambe ma jiri doonto… murug iyo oohin iyo xanuun toona.",
+   "cite": "Muujintii 21:4",
+   "christ": "Ceedenkii abuurka hore ugu dambeyntii waa loo soo celiyaa sida “Yeruusaalem Cusub.” Ilaah wuxuu dadkiisa weligiis la deggan yahay — buuxnaanta Cimmaanuu'eel (Muujintii 21:3; Matayos 1:23).",
+   "detail": "<p>Kitaabka Quduuska Ah kuma dhammaado xilliga kaniisadda. Buuggiisa ugu dambeeya, Muujintii, wuxuu muujiyaa Ciise oo <b>mar kale soo noqonaya</b> si uu wax walba u dhammaystiro.</p><ul><li><b>Soo noqoshada</b> · boqorkii la ballanqaaday wuxuu ku soo noqdaa ammaan.</li><li><b>Guushii ugu dambaysay</b> · Shayddaan iyo dhimashada weligood waa la baabbi'iyaa, Masiixna wuxuu u taliyaa boqorka boqorrada (1 Korintos 15:25-26; Muujintii 20:10).</li><li><b>Xukun iyo soo sarakicid</b> · gef kasta waa la hagaajiyaa, kuwii dhintayna waa la soo sara kiciyaa.</li><li><b>Samo cusub iyo dhul cusub</b> · dembiga, dhimashada, ilmada, iyo xanuunku weligood way baaba'aan (Muujintii 21:4).</li><li><b>Ceedenkii la soo celiyey</b> · “Yeruusaalem Cusub” oo ka wanaagsan bilowgii, Ilaah wuxuu dadkiisa weligiis la deggan yahay — meesha uu Kitaabku oo dhammu ku socday.</li></ul><p>Sidaas darteed hadda waa xilliga <b>“horeba, laakiin wali maaha”</b>: Ciise dhexdiisa badbaadintu <b>horeba</b> way dhammaatay, laakiin dhammaystirkeeda <b>wali</b> waa la sugaa.</p>",
+   "next": "Haddaba sheekadan oo dhammu maxay u tasaysaa “aniga”?"
+  }
+ ],
+ "love": [
+  "Sheekadu kuma bilaabato xukun laakiinse abuur jacayl lagu shubay.",
+  "Markii ay dadku dembaabeen, Ilaah wuxuu isla goobtii ku ballanqaaday badbaadin.",
+  "Ilaah wuxuu marka hore u yimid nin aan istaahilin, magiciisa ugu yeeray, oo marin barako ka dhigay.",
+  "Wuxuu maqlay taahii dad la addoonsaday oo qudhiisu hoos u soo degay inuu badbaadiyo.",
+  "In kasta oo mar kale iyo mar kale la khiyaaneeyey, mar kasta oo ay qayliyaan wuxuu soo diraa badbaadiye oo kor u qaadaa.",
+  "Xataa Daa'uudkii dhacay ma uu xoorin, isagana wuxuu ku ballanqaaday boqor weligiis ah.",
+  "Dadkii dhabarka u jeediyey wuxuu u sii diraa nebiyo, isagoo baryaya, “Fadlan soo noqo.”",
+  "Wuxuu la galay xataa dhulka ugu madow ee maxaabiisnimada, wuxuuna ballanqaaday soo celin.",
+  "Xataa dad mar kale iyo mar kale ku gef sameeyey ma uu laaban ballankiisii.",
+  "Xataa 400-kii sannadood ee aamusnaa, si aan la arkin, wuxuu diyaarinayey jidka badbaadinta.",
+  "Intaynu weli dembiilayaal ahayn, wuxuu soo diray Wiilkiisii inuu naftiisa bixiyo.",
+  "Jacaylkii aynu helnay, hadda wuxuu u soo diraa inuu adduunka oo dhan ku faafo.",
+  "Ugu dambeyntii wuxuu tirtiri doonaa ilmo kasta oo wax walbana jacayl ku cusboonaysiin doonaa."
+ ],
+ "mis": [
+  {
+   "w": "“Maxaa Ilaah u sameeyey dad dembaabi kara? Sow ma fiicneen inuusan na samayn gabi ahaanba?”",
+   "t": "Ilaah wuxuu abuuray adduunka iyo dadka ma aha cilad uu qabo, laakiinse jacayl badan dartiis. In dadka loo sameeyo <b>shakhsiyaad la xiriira Ilaah</b> qudheedu waa jacayl. Oo xataa soo galidda dembigu ma ahayn meel ka baxsan qorshaha badbaadinta Ilaah (Efesos 1:4-5). Muuqaalka ugu horreeya ee Kitaabka Quduuska Ah maaha xukun laakiinse waa jacayl."
+  },
+  {
+   "w": "“Midho keliya cunid awgeed in la eryo oo xataa dhimasho la siiyo — sow Ilaah aad uguma daran yahay?”",
+   "t": "In Ceeden laga saaro wuxuu ahaa xukun iyo isla mar naxariis. In geedka nolosha laga cuno oo weligiis lagu noolaado xaaladdaas jaban ee Ilaah laga go'ay waxay ahaan lahayd in weligiis lagu xanniido silic (Bilowgii 3:22). In dhimashada la oggolaado wuxuu furay jidka soo noqoshada, halkaas qudheeda Ilaah wuxuu ku ballanqaaday Badbaadiye (Bilowgii 3:15). Jacayl horeba wuxuu ku jiray xukunka."
+  },
+  {
+   "w": "“Ibraahim waxaa loo doortay sababtoo ah iimaan weyn buu lahaa — sow dhammaan dadka Kitaabku maaha geesiyaal akhlaaqeed?”",
+   "t": "Ibraahim wuu been sheegay oo shakiyey; Yacquubna khaayin buu ahaa. Ilaah uma uu yeerin dad “u qalma” laakiinse kuwo cilladaysan, nimco. Sababtu ma ahayn wanaaggooda laakiinse jacaylka aaminka ah ee Ilaah (Sharciga Kunoqoshadiisa 7:7-8)."
+  },
+  {
+   "w": "“Sow sharcigu (Amarrada) maaha imtixaan aad gudbi lahayd si aad u badbaaddo?”",
+   "t": "Ilaah wuxuu badbaadiyey <b>ka hor</b> intuusan siin sharciga. Xataa Tobanka Amar waxay ku bilaabmaan caddayn badbaadin ah: “Anigu waxaan ahay Rabbiga Ilaahaaga ah, oo kaa soo bixiyey dalkii Masar” (Baxniintii 20:2). Sharcigu maaha “dhawr si aad u badbaaddo” laakiinse waa hagid jacayl ah oo ku saabsan sida ay dad horeba loo badbaadiyey nimco ay u noolaadaan (Sharciga Kunoqoshadiisa 7:7-9). Had iyo jeer nimcadu way hor martaa; addeecidu waa jawaabta."
+  },
+  {
+   "w": "“Qabsashadii Kancaan waxay ahayd gowrac naxariis darro ah — sidaas darteed Ilaaha Axdiga Hore runtii waa naxariis darane.”",
+   "t": "Tani waa mawduuc adag oo aan hal weedh lagu xallin karin oo u baahan taxaddar. Laakiin Kitaabka Quduuska Ah uma soo bandhigo rabshad aan nidaam lahayn laakiinse xukun ka dib qarniyo dulqaad ah oo loo qabo sharka aadka u xun (oo ay ku jirto allabariga carruurta) (Bilowgii 15:16; Sharciga Kunoqoshadiisa 9:4-5; Laawiyiintii 18:24-25). Ilaah xataa xukunka kuma degdego, oo si farxad leh ayuu u soo dhoweeyey kuwa isaga u soo jeesta — xataa shisheeyaha sida Raxab iyo Ruud (Yashuuca 6:25; Ruud 4:13-17)."
+  },
+  {
+   "w": "“Daa'uud wuxuu ahaa geesi aan cillad lahayn — taas darteed ayaa loogu yeeray ‘nin ah sida qalbiga Ilaah.’”",
+   "t": "Daa'uud wuxuu sameeyey sino iyo xataa dil. “Nin ah sida qalbiga Ilaah” micnaheedu maaha cillad la'aan, laakiinse mid aan dembigiisa qarin — kii toobad si buuxda u keenay oo had iyo jeer Ilaah ku soo noqday (Sabuurka 51). Jacaylka Ilaah ma xooro xataa kuwa si xun u dhaca."
+  },
+  {
+   "w": "“Nebigu waa faaliye saadaaliya mustaqbalka / Ilaaha Axdiga Hore waa cadho oo kaliya.”",
+   "t": "Qalbiga nebigu maaha “saadaalinta mustaqbalka” laakiinse waa baryada xanuun badan ee Ilaah: “Fadlan soo noqo.” Xataa digniinta xukunku uma aha in la baabbi'iyo laakiinse in dadka la soo celiyo oo la badbaadiyo — “inaanan innaba farxad ka helayn dhimashada sharrowga” (Yexesqeel 33:11)."
+  },
+  {
+   "w": "“Maxaabiisnimadu waxay caddaynaysaa in Ilaah gabi ahaanba ka tagay Israa'iil.”",
+   "t": "Maxaabiisnimadu ma ahayn ka tegid laakiinse waa edbin iyo safayn loo qabo ilmo la jecel yahay (Cibraaniyada 12:6). Ilaah ma uu tegin; wuxuu la jiray Daanyeel maxaabiisnimada dhexdeeda wuxuuna ku ballanqaaday, “Anigu waan garanayaa fikirrada aan idiinku fikiro, waana fikirro nabadeed… si aan ugudambaystiinna rajo idiin siiyo” (Yeremyaah 29:11)."
+  },
+  null,
+  {
+   "w": "“Iyadoo aan eray jirin 400 sannadood, Ilaah wuu tegay ama wuu nasanayey.”",
+   "t": "Aamusnaantu maaha maqnaansho. Wuxuu kaliya hadli waayey, halka wakhtigaas oo dhan uu dhaqaajinayey boqortooyooyin, luqado, iyo waddooyin si uu u diyaariyo goobta badbaadinta. Daqiiqaddii ugu aamusnayd, Ilaah wuxuu si jacayl ah aad ugu shaqaynayey (Galatiya 4:4)."
+  },
+  {
+   "w": "“Ciise wuxuu ahaa kaliya bare akhlaaq oo wanaagsan / iskutallaabtu waxay ahayd guuldarro murugo leh.”",
+   "t": "Ciise wuxuu sheegtay inuu Ilaah qudhiisa yahay (Yooxanaa 8:58), iskutallaabtuna ma ahayn shil ama guuldarro laakiinse jacayl la qorsheeyey. Lama kaxaynin xoog; wuxuu naftiisii bixiyey raalli ahaan (Yooxanaa 10:18). “Ninna ma leh jacayl kan ka weyn inuu nin naftiisa u bixiyo saaxiibbadiis” (Yooxanaa 15:13)."
+  },
+  {
+   "w": "“Kaniisaddu waa naadi diineed oo dad kaamil ah, ama dhismo oo keliya.”",
+   "t": "Kaniisaddu maaha bulsho “quduusiin dhammaystiran” laakiinse waa <b>dembiilayaal la cafiyey</b>. Xataa rasuulkii Bawlos wuxuu isugu yeeray “kan ugu daran” dembiilayaasha (1 Timoteyos 1:15). Kaniisaddii hore sidoo kale way muransatay oo gef samaysay (Falimaha Rasuullada 6:1; 1 Korintos 1:11). Maaha meel lagu faano, laakiinse waa dad gudbiya jacaylkii ay heleen (Yooxanaa 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Dembiga aasaasiga ah — qofna xaq ma aha",
+   "body": "Dhibaatadu maaha “falal xun oo dhowr ah” laakiinse waa xididka qalbiga. Tan iyo Aadan, qof kastaa wuxuu ku dhashaa dembi hoostiisa, kumana gaadhi karo Ilaah keligiis.",
+   "vref": "Rooma 3:10-12, 23",
+   "vtext": "Mid xaq ahu ma jiro, midnaba… Maxaa yeelay, dhammaan way wada dembaabeen oo gaadhi waayeen ammaanta Ilaah."
+  },
+  {
+   "title": "Sharcigu i badbaadin karo",
+   "body": "Sharcigu maaha jaranjaro laakiinse waa muraayad. Inta aad isku daydo, ayuu sii muujiyaa intaad gabaabsi tahay. Ujeeddadiisu waa inuu Masiixa noo geeyo.",
+   "vref": "Rooma 3:20 · Galatiya 3:24",
+   "vtext": "sharciga ayaa lagu gartaa dembiga… sharcigu wuxuu ahaa edbiyeheenna inuu Masiixa inoo geeyo."
+  },
+  {
+   "title": "Nimco — hadiyad, ma aha dadaal",
+   "body": "Badbaadintu maaha mushahar ku saabsan abaal aad shaqaysatay, laakiinse waa hadiyad bilaash ah oo loo siiyo kuwa aan istaahilin. Sidaas darteed qofna kuma faani karo.",
+   "vref": "Efesos 2:8-9",
+   "vtext": "idinku waxaad ku badbaaddeen nimco xagga rumaysadka… mana aha xagga shuqullada, si aan ninna ugu faanin."
+  },
+  {
+   "title": "Xaq lagaaga dhigay rumaysad",
+   "body": "Ma aha dhawrista sharciga, laakiinse rumaysadka Ciise Masiix ayaa lagugu tiriyaa xaq — laguma xidho xaqnimadaada laakiinse xaqnimadiisa.",
+   "vref": "Rooma 5:1 · Galatiya 2:16",
+   "vtext": "innagoo xaq laynagaga dhigay rumaysad… inaan nin xaq ku noqon shuqullada sharciga, rumaysadka uu Ciise Masiix ku rumaystay mooyaane."
+  },
+  {
+   "title": "Kitaabka Quduuska Ah wuxuu tilmaamayaa Ciise",
+   "body": "Kitaabka Quduuska Ah maaha buug nimanno waaweyn ama is-caawin. Laga bilaabo Bilowgii ilaa Muujintii, bog kastaa wuxuu ka markhaati furayaa hal qof — Ciise Masiix.",
+   "vref": "Yooxanaa 5:39 · Luukos 24:27",
+   "vtext": "waana iyaga kuwa ii marag furayaa… Qorniinka oo dhanna ayuu uga micneeyey wixii isaga qudhiisa ku saabsanaa."
+  },
+  {
+   "title": "Boqortooyada Ilaah — fariinta dhexe ee Ciise",
+   "body": "Mawduuca Ciise ugu badan baray. Xukunka Ilaah oo boqor ah wuxuu adduunkan la soo galay Ciise wuxuuna dhammaan doonaa markuu soo noqdo. Iskutallaabtiisa iyo soo sarakicidiisa dartood, Ciise waa boqorka dhabta ah ee ka adkaaday dembiga, dhimashada, iyo Shayddaan.",
+   "vref": "Markos 1:15",
+   "vtext": "Wakhtigii waa buuxsamay, oo boqortooyadii Ilaah waa soo dhowaatay; toobadkeena oo injiilka rumaysta."
+  },
+  {
+   "title": "Injiilka — wax walba wuu dhammaystiray",
+   "body": "Deynta dembiga oo aanan weligay bixin karin, Ciise meeshayda ayuu iskutallaabta ku bixiyey, soo sarakicidiisana wuxuu kaga adkaaday dhimashada. Kuma tiirsani “samee” laakiinse “waa dhammaatay.”",
+   "vref": "Yooxanaa 19:30 · Rooma 5:8",
+   "vtext": "Waa dhammaatay… Masiixu waa inoo dhintay intaynu weli dembilayaal ahayn."
+  }
+ ]
+}
