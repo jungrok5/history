@@ -46,6 +46,7 @@
 <link rel="alternate" hreflang="pa" href="https://one-scroll-bible.com/pa/" />
 <link rel="alternate" hreflang="te" href="https://one-scroll-bible.com/te/" />
 <link rel="alternate" hreflang="ha" href="https://one-scroll-bible.com/ha/" />
+<link rel="alternate" hreflang="mr" href="https://one-scroll-bible.com/mr/" />
 
 <!-- Open Graph (카카오톡·페이스북 등 공유 미리보기) -->
 <meta property="og:type" content="website" />
@@ -874,7 +875,8 @@ const LANGS=[
  {code:'ta',native:'தமிழ்',en:'Tamil'},
  {code:'pa',native:'ਪੰਜਾਬੀ',en:'Punjabi'},
  {code:'te',native:'తెలుగు',en:'Telugu'},
- {code:'ha',native:'Hausa',en:'Hausa'}
+ {code:'ha',native:'Hausa',en:'Hausa'},
+ {code:'mr',native:'मराठी',en:'Marathi'}
 ];
 const NAV_MAP={'zh':'zh-Hans','zh-cn':'zh-Hans','zh-sg':'zh-Hans','zh-hans':'zh-Hans','zh-tw':'zh-Hant','zh-hk':'zh-Hant','zh-hant':'zh-Hant','pt':'pt-BR','pt-br':'pt-BR','pt-pt':'pt-BR'};
 function hasLang(c){return c==='ko'||LANGS.some(l=>l.code===c);}
@@ -893,7 +895,7 @@ const ORIG={}; I18N_NODES.forEach(n=>{ORIG[n.getAttribute('data-i18n')]=n.innerH
 let curPack=KO_PACK, curCode='ko';
 
 /* ---- 성경 구절 링크 (ko=개역개정 bskorea / 나머지=YouVersion, USFM 통일) ---- */
-var YV={en:59,'zh-Hans':48,'zh-Hant':46,ja:1819,es:149,'pt-BR':212,fr:93,de:51,ru:400,ar:13,hi:1683,id:306,vi:193,th:174,tl:399,ne:1483,mn:369,my:386,km:85,uz:1939,ur:189,bn:1681,si:1794,lo:1727,tr:170,sw:1818,fa:136,ta:339,pa:1687,te:1787,ha:71};
+var YV={en:59,'zh-Hans':48,'zh-Hant':46,ja:1819,es:149,'pt-BR':212,fr:93,de:51,ru:400,ar:13,hi:1683,id:306,vi:193,th:174,tl:399,ne:1483,mn:369,my:386,km:85,uz:1939,ur:189,bn:1681,si:1794,lo:1727,tr:170,sw:1818,fa:136,ta:339,pa:1687,te:1787,ha:71,mr:1686};
 var EP_REF=['GEN.1.1','GEN.3.15','GEN.12.2-3','EXO.6.7','JDG.21.25','2SA.7.16','1KI.12.19','PSA.137.1','NEH.8.10','GAL.4.4','JHN.1.14','ACT.1.8','REV.21.4'];
 var CORE_REF=['ROM.3.10','ROM.3.20','EPH.2.8','ROM.5.1','JHN.5.39','MRK.1.15','JHN.19.30'];
 function verseUrl(usfm,code){ var p=String(usfm).split('.'); if(p.length<3)return null;
@@ -955,7 +957,8 @@ BOOKS.ta={'ஆதியாகமம்':'GEN','யாத்திராகமம
 BOOKS.pa={'ਉਤਪਤ':'GEN','ਕੂਚ':'EXO','ਲੇਵੀਆਂ':'LEV','ਗਿਣਤੀ':'NUM','ਬਿਵਸਥਾ ਸਾਰ':'DEU','ਯਹੋਸ਼ੁਆ':'JOS','ਨਿਆਂਈਆਂ':'JDG','ਰੂਥ':'RUT','ਨਹਮਯਾਹ':'NEH','ਜ਼ਬੂਰ':'PSA','ਕਹਾਉਤਾਂ':'PRO','ਯਸਾਯਾਹ':'ISA','ਯਿਰਮਿਯਾਹ':'JER','ਵਿਰਲਾਪ':'LAM','ਹਿਜ਼ਕੀਏਲ':'EZK','ਦਾਨੀਏਲ':'DAN','ਮਲਾਕੀ':'MAL','ਮੱਤੀ':'MAT','ਮਰਕੁਸ':'MRK','ਲੂਕਾ':'LUK','ਯੂਹੰਨਾ':'JHN','ਰਸੂਲਾਂ ਦੇ ਕਰਤੱਬ':'ACT','ਰੋਮੀਆਂ':'ROM','ਗਲਾਤੀਆਂ':'GAL','ਅਫ਼ਸੀਆਂ':'EPH','ਫ਼ਿਲਿੱਪੀਆਂ':'PHP','ਕੁਲੁੱਸੀਆਂ':'COL','ਇਬਰਾਨੀਆਂ':'HEB','ਪਰਕਾਸ਼ ਦੀ ਪੋਥੀ':'REV','1 ਸਮੂਏਲ':'1SA','2 ਸਮੂਏਲ':'2SA','1 ਰਾਜਿਆਂ':'1KI','2 ਰਾਜਿਆਂ':'2KI','1 ਕੁਰਿੰਥੀਆਂ':'1CO','2 ਕੁਰਿੰਥੀਆਂ':'2CO','1 ਤਿਮੋਥਿਉਸ':'1TI','2 ਤਿਮੋਥਿਉਸ':'2TI'};
 BOOKS.te={'ఆదికాండము':'GEN','నిర్గమకాండము':'EXO','లేవీయకాండము':'LEV','సంఖ్యాకాండము':'NUM','ద్వితీయోపదేశకాండము':'DEU','యెహోషువ':'JOS','న్యాయాధిపతులు':'JDG','రూతు':'RUT','నెహెమ్యా':'NEH','కీర్తన':'PSA','సామెతలు':'PRO','యెషయా':'ISA','యిర్మీయా':'JER','విలాపవాక్యములు':'LAM','యెహెజ్కేలు':'EZK','దానియేలు':'DAN','మలాకీ':'MAL','మత్తయి':'MAT','మార్కు':'MRK','లూకా':'LUK','యోహాను':'JHN','అపొస్తలుల కార్యములు':'ACT','రోమీయులకు':'ROM','గలతీయులకు':'GAL','ఎఫెసీయులకు':'EPH','ఫిలిప్పీయులకు':'PHP','కొలొస్సయులకు':'COL','హెబ్రీయులకు':'HEB','ప్రకటన':'REV','1 సమూయేలు':'1SA','2 సమూయేలు':'2SA','1 రాజులు':'1KI','2 రాజులు':'2KI','1 కొరింథీయులకు':'1CO','2 కొరింథీయులకు':'2CO','1 తిమోతి':'1TI','2 తిమోతి':'2TI'};
 BOOKS.ha={'Farawa':'GEN','Fitowa':'EXO','Litafin Firistoci':'LEV','Ƙidaya':'NUM','Kubawar Shari\'a':'DEU','Yoshuwa':'JOS','Alƙalai':'JDG','Rut':'RUT','Ezra':'EZR','Nehemiya':'NEH','Esta':'EST','Ayuba':'JOB','Zabura':'PSA','Karin Magana':'PRO','Ishaya':'ISA','Irmiya':'JER','Makoki':'LAM','Ezekiyel':'EZK','Daniyel':'DAN','Yusha\'u':'HOS','Yowel':'JOL','Amos':'AMO','Yunusa':'JON','Mika':'MIC','Malaki':'MAL','Mattiyu':'MAT','Markus':'MRK','Luka':'LUK','Yohanna':'JHN','Ayyukan Manzanni':'ACT','Romawa':'ROM','Galatiyawa':'GAL','Afisawa':'EPH','Filibiyawa':'PHP','Kolosiyawa':'COL','Ibraniyawa':'HEB','Ru\'ya ta Yohanna':'REV','1 Sama\'ila':'1SA','2 Sama\'ila':'2SA','1 Sarakuna':'1KI','2 Sarakuna':'2KI','1 Korintiyawa':'1CO','2 Korintiyawa':'2CO','1 Timoti':'1TI','2 Timoti':'2TI'};
-var BOOKOPT={ko:{sep:':',suf:'편|장',bare:false},en:{sep:':',suf:'',bare:true},es:{sep:':',suf:'',bare:true},'pt-BR':{sep:':',suf:'',bare:true},fr:{sep:':',suf:'',bare:true},de:{sep:',',suf:'',bare:true},ru:{sep:':',suf:'',bare:true},id:{sep:':',suf:'',bare:true},'zh-Hans':{sep:':',suf:'',bare:true},'zh-Hant':{sep:':',suf:'',bare:true},th:{sep:':',suf:'',bare:false},vi:{sep:':',suf:'',bare:false},hi:{sep:':',suf:'',bare:true},ar:{sep:':',suf:'',bare:false},ja:{sep:':',suf:'章',bare:false},tl:{sep:':',suf:'',bare:false},ne:{sep:':',suf:'',bare:false},mn:{sep:':',suf:'',bare:false},my:{sep:':',suf:'',bare:false},km:{sep:':',suf:'',bare:false},uz:{sep:':',suf:'',bare:true},ur:{sep:':',suf:'',bare:false},bn:{sep:':',suf:'',bare:false},si:{sep:':',suf:'',bare:false},lo:{sep:':',suf:'',bare:false},tr:{sep:':',suf:'',bare:false},sw:{sep:':',suf:'',bare:false},fa:{sep:':',suf:'',bare:false},ta:{sep:':',suf:'',bare:false},pa:{sep:':',suf:'',bare:false},te:{sep:':',suf:'',bare:false},ha:{sep:':',suf:'',bare:false}};
+BOOKS.mr={'उत्पत्ती':'GEN','निर्गम':'EXO','लेवीय':'LEV','गणना':'NUM','अनुवाद':'DEU','यहोशवा':'JOS','शास्ते':'JDG','रूथ':'RUT','नहेम्या':'NEH','एस्तेर':'EST','स्तोत्र':'PSA','स्तोत्रसंहिता':'PSA','नीतिसूत्रे':'PRO','यशया':'ISA','यिर्मया':'JER','विलापगीत':'LAM','यहेज्केल':'EZK','दानीएल':'DAN','मलाखी':'MAL','मत्तय':'MAT','मार्क':'MRK','लूक':'LUK','योहान':'JHN','प्रेषितांची कृत्ये':'ACT','रोमकर':'ROM','गलतीकर':'GAL','इफिसकर':'EPH','फिलिप्पैकर':'PHP','कलस्सै':'COL','इब्री':'HEB','प्रकटीकरण':'REV','1 शमुवेल':'1SA','2 शमुवेल':'2SA','1 राजे':'1KI','2 राजे':'2KI','1 करिंथ':'1CO','2 करिंथ':'2CO','1 तीमथ्य':'1TI','2 तीमथ्य':'2TI'};
+var BOOKOPT={ko:{sep:':',suf:'편|장',bare:false},en:{sep:':',suf:'',bare:true},es:{sep:':',suf:'',bare:true},'pt-BR':{sep:':',suf:'',bare:true},fr:{sep:':',suf:'',bare:true},de:{sep:',',suf:'',bare:true},ru:{sep:':',suf:'',bare:true},id:{sep:':',suf:'',bare:true},'zh-Hans':{sep:':',suf:'',bare:true},'zh-Hant':{sep:':',suf:'',bare:true},th:{sep:':',suf:'',bare:false},vi:{sep:':',suf:'',bare:false},hi:{sep:':',suf:'',bare:true},ar:{sep:':',suf:'',bare:false},ja:{sep:':',suf:'章',bare:false},tl:{sep:':',suf:'',bare:false},ne:{sep:':',suf:'',bare:false},mn:{sep:':',suf:'',bare:false},my:{sep:':',suf:'',bare:false},km:{sep:':',suf:'',bare:false},uz:{sep:':',suf:'',bare:true},ur:{sep:':',suf:'',bare:false},bn:{sep:':',suf:'',bare:false},si:{sep:':',suf:'',bare:false},lo:{sep:':',suf:'',bare:false},tr:{sep:':',suf:'',bare:false},sw:{sep:':',suf:'',bare:false},fa:{sep:':',suf:'',bare:false},ta:{sep:':',suf:'',bare:false},pa:{sep:':',suf:'',bare:false},te:{sep:':',suf:'',bare:false},ha:{sep:':',suf:'',bare:false},mr:{sep:':',suf:'',bare:false}};
 var _reCache={};
 function refRe(code){ if(code in _reCache)return _reCache[code]; var BK=BOOKS[code]; if(!BK)return _reCache[code]=null;
  var o=BOOKOPT[code]||{sep:':',suf:'',bare:false}; var sep=(o.sep||':').replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
