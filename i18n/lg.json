@@ -1,0 +1,343 @@
+{
+ "menuName": "Luganda",
+ "htmlLang": "lg",
+ "dir": "ltr",
+ "brand": "Baibuli mu Kuzingulula Kumu",
+ "docTitle": "Baibuli mu Kuzingulula Kumu · Okuva ku Kutonda okutuuka ku Kkanisa",
+ "share": {
+  "title": "Baibuli mu Kuzingulula Kumu",
+  "text": "Mu kuzingulula kumu, vumbula olugero olukulu olwa Baibuli — n'ensonga lwaki Yesu yajja."
+ },
+ "ui": {
+  "people": "Abantu",
+  "events": "Ebintu ebikulu",
+  "christLabel": "Kiraga eri Yesu",
+  "loveLabel": "Okwagala okutakoowa",
+  "mythWrong": "Endowooza enkyamu eya bulijjo",
+  "mythRight": "Amazima",
+  "more": "Soma ebisingawo",
+  "version": "(Baibuli)"
+ },
+ "labels": {
+  "start": "Entandikwa",
+  "thread": "Olugero",
+  "gospel": "Enjiri",
+  "about": "Ebikwata ku lino"
+ },
+ "s": {
+  "ui.share": "↗ Gabana",
+  "ui.toast": "Akakubo kakoppeddwa 📋",
+  "ui.footer": "Baibuli mu Kuzingulula Kumu · Ebigambo bya Baibuli bivudde mu Baibuli y'Oluganda",
+  "hero.kicker": "OKUVA KU KUTONDA OKUTUUKA KU KKANISA",
+  "hero.title": "Baibuli,<br><span class='em'>mu kuzingulula kumu</span>",
+  "hero.sub": "Mu kuzingulula kumu, vumbula olugero olukulu olwa Baibuli — n'ensonga lwaki Yesu yajja.",
+  "hero.cue": "Serengeta wansi<span>↓</span>",
+  "thread.eyebrow": "OLUGAMBO LUMU OLUGATTA BYONNA",
+  "thread.h2": "Ku nkomerero, Baibuli lugero lumu lwokka",
+  "thread.flow": "<b>Endagaano</b><span class='arw'>→</span><b>Okulindirira</b><span class='arw'>→</span><b>Okutuukirira</b>",
+  "thread.note": "Katonda <b>asuubiza</b> (endagaano), abantu <b>balindirira</b> ekiseera ekiwanvu, n'oluvannyuma byonna <b>bituukirira</b> ne bituukirizibwa mu Yesu. Goberera ebifaananyi 13 wammanga mu kutambula okwo — koona <b>“Soma ebisingawo”</b> ku buli kkaadi olabe olugero olw'enjawulo.",
+  "gospel.eyebrow": "EKY'OLUGERO LUNO BYE KITEGEEZA ERI “NZE”",
+  "gospel.h2": "Omutima ogw'amazima ogwa Baibuli",
+  "gospel.lead": "Baibuli <b>si kitabo ekiyigiriza “okuba omuntu omulungi.”</b>",
+  "gospel.sublead": "Lugero olw'engeri Katonda gye yalokolamu, <b>lwa kisa kyokka</b>, abalina ebibi abatayinza kwerokola bokka. Mu makkati gaalwo wayimirira Yesu Kristo.",
+  "gospel.mirror": "<h3>Empewuke etaggwaawo eya Isiraeri mu butuufu kifaananyi kya “nze”</h3><div class='cycle'><b>Okusinza ebifaananyi</b><span class='a'>→</span><b>Okubonaabona</b><span class='a'>→</span><b>Okukaaba</b><span class='a'>→</span><b>Katonda alokola</b><span class='a'>→</span><b>Okusinza ebifaananyi nate…</b></div><p>Okuva ku Balamuzi okutuuka ku busibe, Isiraeri yeddamu empewuke eno obutaggwaawo. Baibuli teyakiwandiika tulyoke tunyoome nti “nga baali ba bbi.”</p><p>Kye <b>ndabirwamu</b>. Ensonga si “Isiraeri yakola ekyo” naye <b>“nange nkola bwe ntyo”</b> (1 Abakkolinso 10:11).</p><p><b>Ekifaananyi</b> si kibajje kyokka. Kye <b>kintu kyonna kye twagala oba kye twesiga okusinga Katonda</b> — ssente, obuwanguzi, okusiimibwa, abantu, ne nze wennyini. N'okukozesa Katonda nga <b>ekkubo ery'okutuukiriza bye njagala</b> nakyo kusinza bifaananyi.</p><p class='punch'>Ku nkomerero, ekifaananyi ekisingayo obuziba kwe “nze wennyini nga ntudde ku ntebe ya Katonda.”</p>",
+  "gospel.coreIntro": "Kale Katonda alokola atya omuntu ono alina ebibi? Guno gwe mutima gw'enjiri Baibuli gw'erangirira.",
+  "gospel.crux": "<p class='crux-lead'>Baibuli yonna eraga eri ekifo kimu.</p><p>Abantu tebaayinza kumenya mpewuke ya kibi bokka, era tewaali n'omu omutuukirivu. Bwe kityo waaliwo eyali ateekwa <b>okusasula omuwendo mu kifo kyabwe</b>.</p><p>Yesu teyajja kuyigiriza birungi byokka. Olw'okuba nga tewaali kkubo ddala lirala lya kundokola, <b>kyamugwanira okujja.</b></p><p class='crux-punch'>Eyali ateekwa okuwanikibwa ku musaalaba ogwo yali <b>nze</b>.<br>Yesu yeetikka <b>ekibi kyange</b> n'akomererwa eyo mu kifo kyange.</p><div class='crux-verse'>“Naye yafumitibwa olw'okusobya kwaffe, yabetentebwa olw'obutali butuukirivu bwaffe… era emiggo gye gye gituwonya.” — Isaaya 53:5</div>",
+  "faq.h": "Okyalina ekikutawanya?",
+  "faq.q1": "<span class='arr'>▸</span> Kale omussi y'akkiriza yokka n'agenda mu ggulu, ate omuntu eyabeera obulungi obulamu bwe bwonna naye n'atakkiriza n'agenda mu muliro?",
+  "faq.a1": "<p>Kibuuzo kya nsonga. Naye mu kyo mukwekemu obutamanya bubiri.</p><p><b>① Baibuli teyawula bantu mu “balungi ne babi.”</b> Ekipimo si “okusinga muliraanwa wo” naye “obutukuvu obutuukiridde obwa Katonda.” Mu maaso ge, tewali “mulungi mu ngeri emala” (Abaruumi 3:23). Kale kino si “omuntu omulungi ne omussi,” naye kifaanana ng'abalwadde babiri ab'endwadde emu ey'okufa — omu atwala eddagala, omulala n'aligaana ng'agamba nti “nze ndi mulamu okusinga oyo.”</p><p><b>② Ekyawula eggulu n'omuliro kintu kimu kyokka.</b> Si namba ya bikolwa, naye <b>oba osembezza Yesu Kristo nga Mukama wo n'ekizibu ky'ekibi kyo ne kigonjoolwa.</b> Oyo ekibi kye ekigonjooddwa olw'omusaayi gwa Kristo agenda mu ggulu; oyo atamusembeza ennaku zonna, ekibi kye nga kikyaliwo, tagenda. Tewali kikolwa kirungi kiyinza kugonjoola kizibu ky'ekibi kyokka.</p><p>Kale eggulu n'omuliro si “mpeera ya bikolwa birungi” naye nsonga ya <b>nkolagana ne Kristo</b>. Ate “okukkiriza” si kukkiriza mu birowoozo byokka, naye nkyukakyuka ya buyinza obufuga obulamu bwo — buli amusembeza ddala takula kwekuluntaza naye yeenenya nnyo. Mu butuufu, okwemala (“nze ndi mulungi”) ye kifaananyi ekisinga obuzibu okumenya, ekituleetera okulowooza nti tetwetaaga Kristo (Lukka 18:9-14).</p><p>Baibuli ekyogera lwatu nti: <b>“Amukkiriza tegumusinga: atamukkiriza gumaze okumusinga”</b> (Yokaana 3:18). Omusango si “kupima bikolwa byo ng'omaze okufa,” naye gumaze okusalibwa olw'oba <b>wasembeza Kristo</b>.</p><p class='faq-v'>Abaruumi 3:23 · Yokaana 3:18 · Abaefeso 2:8-9 · Lukka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Tekimala kuba muntu mulungi, ne bwe sikkiriza Yesu?",
+  "faq.a2": "<p>Ye ndowooza esinga okubeerawo, naye tetegeera kizibu ekituufu kye kiri. Wano waliwo ekifaananyi.</p><p><b>Lowooza ng'oli ku lyato ery'abanyazi (pirate).</b> Wadde ng'oyonja olubaawo, ng'oli wa kisa eri abakola nawe, ng'obulamu bwo bwa kyokulabirako — okyali <b>munyazi</b>, kubanga otwalibwa wamu n'eryato eri gye liraga (omwalo gw'omusango). Ekizibu si “namba ya bikolwa” naye <b>“lyato ki ly'oliko” (kye ki ekikulaga)</b>.</p><p>Kale enjiri tegamba nti “fuba okuba omulungi”; egamba nti <b>“kyuka eryato.”</b> Va ku lyato ery'ekibi oyingire mu Yesu — mu kikulaga ekiggya eky'<b>omwana wa Katonda</b>. Kino si kwongera namba yo n'okufuba, naye kwesiga oyo agolola omukono gwe n'osomoka oyingire mu lyato lye.</p><p>Mu butuufu Baibuli eyogera ku bulokozi ng'okukyuka kuno kwennyini — <b>“eyatulokola mu buyinza obw'ekizikiza, n'atutwala mu bwakabaka obw'Omwana we omwagalwa”</b> (Abakkolosaayi 1:13).</p><p>Tokyamizibwa: <b>tekitegeeza nti obulamu obulungi tebugasa.</b> Obulungi si “kkalu” lya bulokozi naye <b>kibala</b> kyabwo. Buli eyakyusa eryato kati abeera obulungi si lwa kutya, naye lwa kwagala kw'omwana.</p><p class='faq-v'>Abakkolosaayi 1:13 · Yokaana 1:12 · Yokaana 3:3 · Abaefeso 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Singa omuzzi w'omusango awulira emirembe, ng'agamba nti “Katonda yansonyiyye,” ate eyayisibwa obubi ng'akyabonaabona — okusonyiwa kuno tekuli kwa bwereere nnyo?",
+  "faq.a3": "<p>Ekibuuzo kya nsonga, n'obulumi bwa mazima. Naye okwogera bwe kityo si “kusonyiwa kwa Baibuli” — kwe <b>kukyusakyusa</b> kwakwo.</p><p><b>① Okusonyiwa kwa Katonda tekuli kwa bwereere n'akamu.</b> Ekibi tekibikkibwa ng'ekitabaddewo; Katonda yennyini yasasula omuwendo gwakyo n'obulamu bw'Omwana we. Omusaalaba si bukakafu nti ekibi kitwalibwa nga kyangu, naye nti ekibi kizitowa nnyo — kwe kusonyiwa okusinga obungi obw'omuwendo mu nsi.</p><p><b>② Okwenenya okw'amazima kubala kibala.</b> Singa omuzzi w'omusango yeekuluntaza mu maaso g'eyayisibwa obubi — “Katonda yansonyiyye, kale ndi mu mirembe” — ekyo si kwenenya naye kukoppa kwakwo (Matayo 3:8). N'okusonyiwa wakati w'omuntu ne Katonda tekusangula kiwundu ky'eyayisibwa obubi newaakubadde okumukaka okusonyiwa.</p><p><b>③ Ekibi tekirekebwawo kyereere.</b> Buli kibi kisasulwa mu bifo bibiri — <b>oba Kristo akyetikka ku musaalaba</b> (eri abamwesiga tewali musango nate, Abaruumi 8:1), <b>oba oyo amugaana okutuusa ku nkomerero akyetikka yekka.</b> Kale tewali “kusonyiwa kwa bwereere.” Omuzzi w'omusango era akyalina obuvunaanyizibwa mu mateeka g'ensi eno (Abaruumi 13:1-4).</p><p><b>④ Amaziga g'eyayisibwa obubi tegali matono mu maaso ga Katonda.</b> Katonda akaaba n'abo abakaaba, ajjukira buli zziga, era ku nkomerero alirisangula yekka (Okubikkulirwa 21:4). Kale eyayisibwa obubi tasaana kwetikka buzito bw'okuwoolera ggwanga yekka, naye ayinza okubukwasa Katonda omutuukirivu (Abaruumi 12:19: “Okuwalana kwange; nze ndisasula, bw'ayogera Mukama”).</p><p class='faq-v'>Matayo 3:8 · Abaruumi 8:1 · Abaruumi 13:1-4 · Okubikkulirwa 21:4</p>",
+  "respond.h3": "Kale — nze nkole ki?",
+  "respond.sub": "Okwagala kuno si bigambo naye <b>kuyita</b>. Singa okwagala okwakomererwa mu kifo kyo kukutuuseeko mu mutima, saba okusaba kuno mpolampola, lunyiriri ku lunyiriri.",
+  "respond.prayer": "<p>Ai Katonda,</p><p>nzikiriza nti ndi mwonoonyi atayinza kwerokola yekka.</p><p>Nzikiriza nti Yesu yanfiirira ku musaalaba n'azuukira.</p><p>Nsonyiwa ebibi byange byonna, era okuviira ddala leero beera Mukama w'obulamu bwange.</p><p>Nsembeza nga omwana wo, era onsobozese okuba n'obulamu obuggya.</p><p class='amen'>Mu linnya lya Yesu nsaba. Amiina.</p>",
+  "respond.after": "Singa wasaba kino n'omutima gwo gwonna, Baibuli egamba nti <b>ofuuse omwana wa Katonda</b>. Toli nate bw'omu — noonya ekkanisa eriraanwa otambule mu kkubo ery'okukkiriza wamu n'abalala.",
+  "respond.verse": "“Naye bonna abaamusembeza yabawa obuyinza okufuuka abaana ba Katonda, be bakkiriza erinnya lye.” — Yokaana 1:12 · Abaruumi 10:9-10",
+  "closing.main": "Katonda omu,<br>ng'ayita mu lugero lumu,<br>atunoonya n'<em>okwagala</em><br>okutakoowa.",
+  "closing.verse": "“Newakubadde okufa, newakubadde obulamu… newakubadde ekitonde kyonna ekirala, tebiiyinzenga kutwawukanya na kwagala kwa Katonda okuli mu Kristo Yesu Mukama waffe.” — Abaruumi 8:38-39",
+  "closing.small": "Ku lugero luno, Amateeka, ebitabo eby'ennyimba, bannabbi, n'ebbaluwa byongerako “omubiri.”<br>Kati, ekitabo kyonna ky'oggulawo, ojja kumanya we wuli mu lugero.",
+  "closing.share": "↗ Gabana olugero luno",
+  "about.line": "Kyesigamiziddwa ku ndowooza ey'<b>ebyafaayo eby'okununula, ey'enjiri n'ey'enkyukakyuka (evangelical · Reformed)</b> egabanibwa ekkanisa y'Abaprotestanti ab'e Koreya abasinga obungi.",
+  "about.contact": "Ebibuuzo · ebirowoozo — <a id='contact' class='mail'>Tuwandiikire ebbaluwa</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ENDAGAANO ENKADDE · ENTANDIKWA",
+   "title": "Okutonda",
+   "date": "Mu ntandikwa",
+   "one": "Katonda yakola ensi eyali “nnungi nnyo.”",
+   "people": "Katonda; Adamu ne Kaawa",
+   "events": "Ennaku omukaaga ez'okutonda, omuntu eyakolebwa mu kifaananyi kya Katonda, ekiwummulo kya Ssabbiiti",
+   "q": "Olubereberye Katonda yatonda eggulu n'ensi.",
+   "cite": "Olubereberye 1:1",
+   "christ": "Ensi yakolebwa ng'eyita mu “Kigambo.” Enjiri ya Yokaana eraga nti Kigambo kino ye Yesu yennyini (Yokaana 1:1-3).",
+   "detail": "<p>Baibuli tetandika na mpaka za kufirosoofiya naye etandika n'okulangirira: <b>“Olubereberye Katonda…”</b> Ensi si yamabwa naye mulimu gwa Katonda ow'omuntu.</p><ul><li><b>Ekifaananyi kya Katonda</b> · mu bitonde byonna, omuntu yekka ye yakolebwa okufaanana Katonda — okumumanya n'okulabirira ensi.</li><li><b>Okuwummula</b> · okuwummula okw'olunaku olw'omusanvu kuraga buli kintu nga kituukiridde era nga kiri mu mirembe (shalom): “kyali kirungi.”</li><li><b>Edeni</b> · ensi nga tennamenyebwa, Katonda n'abantu we batambulira wamu.</li></ul>",
+   "next": "Naye obutuukirivu buno bunaatera okumenyebwa…"
+  },
+  {
+   "tag": "ENDAGAANO ENKADDE · EKIZIBU KITANDIKA",
+   "title": "Okugwa",
+   "date": "Mu ntandikwa",
+   "one": "Ekibi kyayingira, n'enkolagana wakati w'abantu ne Katonda n'esalibwawo.",
+   "people": "Adamu ne Kaawa; omusota (Sitaani)",
+   "events": "Okulya ku kibala ekyaziyizibwa, okugobebwa mu Edeni, okujja kw'okufa n'okutegana",
+   "q": "nange obulabe n'abuteekanga wakati wo n'omukazi… (ezzadde ly'omukazi) lirikubetenta omutwe.",
+   "cite": "Olubereberye 3:15",
+   "christ": "Endagaano ey'enjiri eyasooka, eyaweebwa amangu ddala oluvannyuma lw'Okugwa: “ezzadde ly'omukazi” liribetenta omutwe gw'omusota — era oyo ye Yesu (Olubereberye 3:15; Abaruumi 16:20; Abaggalatiya 4:4).",
+   "detail": "<p>Olw'obujeemu obw'okwagala “okuba nga Katonda,” ekibi kyayingira mu nsi. Ekyava mu kino si tteeka erimenyeddwa kyokka naye <b>enkolagana emenyeddwa</b>.</p><ul><li><b>Enkolagana ezimenyeddwa</b> · ne Katonda (okwekweka), n'omuntu munne (okuteekako omusango), n'obutonde (amaggwa n'okutegana).</li><li><b>Okufa</b> · okulabula nti “tolirema kufa” kufuuka kya mazima.</li><li><b>Olubereberye 3:15</b> · naye wakati mu musango, endagaano ey'okununula esooka. Abayivu bagiyita <b>protoevangelium (enjiri esooka)</b>.</li></ul>",
+   "next": "Kati Katonda ayita omuntu omu okutandika okununula…"
+  },
+  {
+   "tag": "ENDAGAANO ENKADDE · ENDAGAANO",
+   "title": "Bajjajja",
+   "date": "nga 2000 BC",
+   "one": "Katonda asuubiza Ibulayimu nti, “Olibeera mukutu gw'omukisa.”",
+   "people": "Ibulayimu · Isaaka · Yakobo · Yusufu",
+   "events": "Endagaano ne Ibulayimu, okusiba Isaaka, abaana ekkumi n'ababiri aba Yakobo, Yusufu okutuuka ku buyinza mu Misiri",
+   "q": "nange ndikufuula eggwanga eddene… ne mu ggwe ebika byonna eby'omu nsi mwe biriweerwa omukisa.",
+   "cite": "Olubereberye 12:2-3",
+   "christ": "Endagaano nti “ebika byonna biriweerwa omukisa” etuukirira mu Yesu, ezzadde lya Ibulayimu (Abaggalatiya 3:16).",
+   "detail": "<p>Katonda atandika okugonjoola ekizibu eky'abantu bonna ng'ayita omuntu omu, <b>Ibulayimu</b>. Omutima gwakyo ye <b>ndagaano (endagaano)</b> — eggwanga eddene, ensi, n'“omukisa eri ebika byonna.”</p><ul><li><b>Okukkiriza</b> · Ibulayimu yakkiriza endagaano etalabika, ne kimubalirwa okuba obutuukirivu (Olubereberye 15:6).</li><li><b>Isaaka ne Yakobo</b> · endagaano eyita mu mirembe egiddako; Yakobo (Isiraeri) azaala ebika ekkumi n'ebibiri.</li><li><b>Yusufu</b> · yatundibwa baganda be naye n'atuusibwa ku buyinza — “Katonda yakissa mu birungi” (Olubereberye 50:20).</li></ul>",
+   "next": "Nga bagoberera Yusufu, olunnyiriri lugenda e Misiri — ne lufuuka abaddu…"
+  },
+  {
+   "tag": "ENDAGAANO ENKADDE · OKUNUNULA",
+   "title": "Okuva mu Misiri n'Eddungu",
+   "date": "nga 1446 BC",
+   "one": "Katonda yanunula eggwanga eryali mu buddu n'alifuula erirye.",
+   "people": "Musa, Alooni, Falaawo",
+   "events": "Ebibonyoobonyo ekkumi, Okuyitako, okusomoka Ennyanja Emyufu, Amateeka Ekkumi ku Sinaayi, Eweema ey'Okukuŋŋaanirangamu, emyaka 40 mu ddungu",
+   "q": "era ndibeetwalira okubeera eggwanga, nange ndibabeerera Katonda.",
+   "cite": "Okuva 6:7",
+   "christ": "Okuyitako — omusaayi gw'omwana gw'endiga lwe gwagoba okufa — kiraga eri Yesu, “omwana gw'endiga gwaffe ogw'Okuyitako,” eyakomererwa ku lwaffe (1 Abakkolinso 5:7).",
+   "detail": "<p>Okununula okusinga obukulu mu Ndagaano Enkadde. Isiraeri eyali omuddu aweebwa eddembe olw'amaanyi ga Katonda n'akolebwa <b>eggwanga</b> lye.</p><ul><li><b>Okuyitako</b> · ennyumba erina omusaayi gw'omwana gw'endiga ku luggi okufa kuyitako — kye kifaananyi ekiri emabega wa buli ssaddaaka eyaddako.</li><li><b>Ennyanja Emyufu</b> · obulokozi nga ekkubo liweddewo; “okusomoka” kufuuka akabonero k'entandikwa empya.</li><li><b>Endagaano ya Sinaayi</b> · olw'Amateeka bayiga okubeera ng'eggwanga lya Katonda.</li><li><b>Eweema</b> · ekifo ekitukuvu ekitambula Katonda we yabeerera mu ggwanga lye — okufunzaako “Emmanueri.”</li><li><b>Emyaka 40</b> · obujeemu buleetera olulyo okuwaba mu ddungu, naye Katonda asigala kumpi n'emaanu n'empagi ey'ekire n'ey'omuliro.</li></ul>",
+   "next": "Nga bayimiridde ku mabbali g'ensi eyasuubizibwa, beetegekera okuyingira…"
+  },
+  {
+   "tag": "ENDAGAANO ENKADDE · OKUTEEKA EMIRI",
+   "title": "Okuwangula n'Abalamuzi",
+   "date": "nga 1400–1050 BC",
+   "one": "Baafuna ensi, naye nga tewali kabaka buli muntu yakola nga bw'ayagala.",
+   "people": "Yoswa; abalamuzi nga Gideoni ne Samusooni; Luusi",
+   "events": "Okugwa kwa Yeriko, okuteeka emiri mu Kanani, empewuke eyeddamu ey'ekibi–omusango–okununula",
+   "q": "buli muntu yakolanga ekyabanga mu maaso ge ye ekirungi.",
+   "cite": "Abalamuzi 21:25",
+   "christ": "Mu lulyo lwa Luusi muvaamu Dawudi, ne mu lulyo lwa Dawudi muvaamu Yesu (Matayo 1). Ne mu kavuyo, olulyo lwa Masiya lugenda mu maaso.",
+   "detail": "<p>Wansi wa Yoswa bayingira ensi eyasuubizibwa, naye bwe bamala okuteeka emiri amangu beerabira Katonda. Abalamuzi mpewuke y'emu eyeddiŋŋanwa.</p><ul><li><b>Empewuke ekka wansi</b> · ekibi → okujooga → okukaaba → omulamuzi alokola → ekibi nate. Kyeyongera bubi.</li><li><b>Abalamuzi</b> · Gideoni, Samusooni, Debola — abalokozi ab'akaseera, abazira naye nga balina obukyamu obungi.</li><li><b>Luusi</b> · olugero olw'obwesigwa mu mirembe egy'ekizikiza; omukazi munnaggwanga ayingira mu lulyo lwa Dawudi (ne Yesu).</li></ul>",
+   "next": "Abantu bakaaba nti, “Tuwe kabaka naffe!”…"
+  },
+  {
+   "tag": "ENDAGAANO ENKADDE · OMULEMBE OGWA ZAABU",
+   "title": "Obwakabaka Obwagatta",
+   "date": "nga 1050–930 BC",
+   "one": "Katonda asuubiza Dawudi nti, “Entebe yo erinywezebwa ennaku zonna.”",
+   "people": "Sawulo · Dawudi · Sulemaani",
+   "events": "Kabaka eyasooka Sawulo, Dawudi ne Goliyaasi, endagaano ne Dawudi, Sulemaani azimba yeekaalu",
+   "q": "entebe yo erinywezebwa ennaku zonna.",
+   "cite": "2 Samwiri 7:16",
+   "christ": "“Entebe ey'olubeerera” etuukirira mu Yesu, omwana wa Dawudi — kyava ayitibwa “Omwana wa Dawudi” (Lukka 1:32-33; Matayo 1:1).",
+   "detail": "<p>Olukunkumuka lwa Isiraeri, nga lufugibwa bakabaka basatu.</p><ul><li><b>Sawulo</b> · kabaka abantu gwe baasaba; entandikwa nnungi naye n'eyonoonebwa obujeemu.</li><li><b>Dawudi</b> · “omuntu ng'omutima gwa Katonda bwe guli.” Awangula Goliyaasi era afuula Yerusaalemi ekibuga ekikulu. Akola ekibi kinene (Basuseba) naye yeenenya n'omutima (Zabbuli 51).</li><li><b>Endagaano ne Dawudi (2 Samwiri 7)</b> · Katonda asuubiza okunyweza olulyo lwa Dawudi ennaku zonna — omulandira omukulu ogw'essuubi lya Masiya.</li><li><b>Sulemaani</b> · ku ntikko ey'amagezi n'obugagga azimba <b>yeekaalu</b>, naye ku nkomerero akyukira ebifaananyi.</li></ul>",
+   "next": "Oluvannyuma lwa Sulemaani, obwakabaka bwawukanamu bubiri…"
+  },
+  {
+   "tag": "ENDAGAANO ENKADDE · OKUGWA",
+   "title": "Obwakabaka Obwawukana",
+   "date": "930–586 BC",
+   "one": "Bwawukanamu obwa bukiika ddyo (Yuda) n'obwa bukiika kkono (Isiraeri), eggwanga ne litandika okugwa.",
+   "people": "Bakabaka b'obwakabaka bombi; bannabbi nga Eriya, Isaaya, Yeremiya",
+   "events": "Obwakabaka bwawukanamu, okusinza ebifaananyi kweyongera, bannabbi balabula",
+   "q": "Bwe batyo Isiraeri ne bajeemera ennyumba ya Dawudi ne leero.",
+   "cite": "1 Bassekabaka 12:19",
+   "christ": "Mu mulembe guno bannabbi balagula Masiya ajja mu butegeerekeka okweyongera (Isaaya 9:6; Isaaya 53).",
+   "detail": "<p>Mu nnaku z'omwana wa Sulemaani eggwanga lyawukanamu: <b>obwakabaka obwa bukiika kkono obwa Isiraeri</b> (ebika 10, ekibuga Samaliya) n'<b>obwakabaka obwa bukiika ddyo obwa Yuda</b> (ebika 2, ekibuga Yerusaalemi).</p><ul><li><b>Isiraeri (kkono)</b> · buli kabaka asinza ebifaananyi; bugwa eri Bwasuli mu 722 BC.</li><li><b>Yuda (ddyo)</b> · olulyo lwa Dawudi lugenda mu maaso, nga lulina bakabaka abalungi abatono nga Keezeekiya ne Yosiya, naye okutwaliza awamu lugwa.</li><li><b>Bannabbi</b> · Eriya, Amosi, Isaaya, Yeremiya bakaaba nti “mudde!” Obunnabbi obwa Masiya butuuka ku ntikko wano (“omuddu abonaabona” owa Isaaya 53).</li></ul>",
+   "next": "Ku nkomerero omusango ogwalabulibwa gujja — batwalibwa mu busibe…"
+  },
+  {
+   "tag": "ENDAGAANO ENKADDE · OMUSANGO",
+   "title": "Obusibe",
+   "date": "722 / 586 BC",
+   "one": "Eggwanga ligwa n'abantu basikibwa okutwalibwa mu nsi z'amawanga amalala.",
+   "people": "Danyeri, Ezeekyeri, Nebukadduneeza",
+   "events": "Isiraeri agwa eri Bwasuli (722); Yuda agwa eri Babulooni ne yeekaalu ezikirizibwa (586)",
+   "q": "Okumpi n'emigga egy'e Babulooni, Twatuulawo wansi, weewaawo, ne tukaaba amaziga: Bwe twajjukira Sayuuni.",
+   "cite": "Zabbuli 137:1",
+   "christ": "Mu buziba bw'okuggwaamu essuubi, Yeremiya asuubiza “endagaano empya” (Yeremiya 31:31) — endagaano Yesu gye yanyweza ku Kyekiro eky'Enkomerero.",
+   "detail": "<p>Okulabula kutuukirira. Yeekaalu eyokebwa n'abantu batwalibwa e Babulooni — nga bafiirwa ensi, kabaka, ne yeekaalu: ekifo ekisinga obwabwabo wansi.</p><ul><li><b>Okugwa kwombi</b> · Isiraeri (Bwasuli, 722 BC) ne Yuda (Babulooni, 586 BC).</li><li><b>Danyeri</b> · ekyokulabirako ky'okukkiriza ne mu lubiri olw'abakaafiiri (obunnya bw'empologoma); alaba okwolesebwa okw'“obwakabaka obw'olubeerera” obujja.</li><li><b>Akamuli k'essuubi</b> · okwolesebwa kwa Ezeekyeri okw'amagumba amakalu agafuuka amalamu (Ezeekyeri 37) n'“endagaano empya” ya Yeremiya biraga eri ebijja mu kizikiza.</li></ul>",
+   "next": "Oluvannyuma lw'emyaka nsanvu, Katonda agguliza ekkubo — baddayo eka…"
+  },
+  {
+   "tag": "ENDAGAANO ENKADDE · OKUZZA OBUGGYA",
+   "title": "Okudda Eka",
+   "date": "538–430 BC",
+   "one": "Baddayo ne baddaabiriza yeekaalu ne bbugwe.",
+   "people": "Ezera, Nekkemiya, Eseza, Zerubbaberi",
+   "events": "Okudda olw'ekiragiro kya Kuulo, okuddaabiriza yeekaalu, okuddaabiriza bbugwe wa Yerusaalemi, okuzza Ekigambo",
+   "q": "essanyu lya Mukama ge maanyi gammwe.",
+   "cite": "Nekkemiya 8:10",
+   "christ": "Malaki, ekitabo eky'enkomerero eky'Endagaano Enkadde, kikomekkereza nga kirangirira omubaka ow'okuteekateeka ekkubo lya Masiya: “ntuma omubaka wange” (Malaki 3:1).",
+   "detail": "<p>Olw'ekiragiro kya Kuulo kabaka w'e Buperusi (538 BC) okudda kutandika. Mu mabunga asatu badda ne baddaabiriza ebyamenyebwa.</p><ul><li><b>Zerubbaberi</b> · addaabiriza yeekaalu (yamalibwa mu 516 BC).</li><li><b>Ezera</b> · ayigiriza Ekigambo nate era azzaamu okukkiriza.</li><li><b>Nekkemiya</b> · addaabiriza bbugwe wa Yerusaalemi mu nnaku 52.</li><li><b>Eseza</b> · alokola Abayudaaya mu Buperusi obutazikirizibwa — “ku biro ng'ebino.”</li><li><b>Okwegomba okukyaliwo</b> · yeekaalu eyimiridde, naye tewali kabaka nga Dawudi. Abantu balindirira Masiya.</li></ul>",
+   "next": "N'olwo… ng'eggulu bwe lyasirika, emyaka 400 giyitawo."
+  },
+  {
+   "tag": "WAKATI W'ENDAGAANO · OKUTEGEKA EKIFO",
+   "title": "Emyaka egy'Akasirise",
+   "date": "nga 430–4 BC",
+   "one": "Emyaka 400 nga tewali ddoboozi lya nnabbi — naye ekifo kyateekebwateekebwa mu kasirise.",
+   "people": "Alegezanda Omukulu, Abamakkabbi, Ruumi",
+   "events": "Buperusi → Buyonaani → obwetwaze bw'Abamakkabbi → okufuga kwa Ruumi",
+   "q": "naye okutuukirira kw'ebiro bwe kwatuuka, Katonda n'atuma Omwana we eyazaalibwa omukazi.",
+   "cite": "Abaggalatiya 4:4",
+   "christ": "Okuteekateeka kuno kwonna kwali Katonda akola Yesu alyoke ajje ku kiseera ekituufu “okutuukirira kw'ebiro.”",
+   "detail": "<p>Okuva ku Malaki okutuuka ku Ndagaano Empya, emyaka nga 400 giyitawo nga tewali kyawandiikibwa kiggya. Naye emabega w'ebyafaayo Katonda yali ateekateeka ekkubo ly'enjiri.</p><ul><li><b>Amawanga gakyukakyuka</b> · Buperusi → Buyonaani (Alegezanda, 333 BC) → Abatolemi n'Abaseruki → obujeemu bw'Abamakkabbi (167 BC) → Ruumi (63 BC).</li><li><b>Oluyonaani</b> · okuwangula kwa Alegezanda kufuula Oluyonaani olulimi olwa bonna; Endagaano Enkadde evvuunulwa mu Luyonaani (Septuagint), ne kiteekateeka ekkubo enjiri ekwate amangu.</li><li><b>Amakubo n'emirembe gya Ruumi</b> · amakubo amazimbe obulungi n'“emirembe gya Ruumi” bifuuka amakubo ag'obweraliikirivu obw'okubuulira.</li><li><b>Amasinzizo n'ebibinja</b> · okuyigiriza mu masinzizo kuteeka emiri; Abafalisaayo n'Abasaddukaayo bavaayo; n'<b>okwegomba Masiya</b> kuyengera.</li></ul>",
+   "next": "N'olwo akasirise kamenyeka — ku nkomerero, ajja."
+  },
+  {
+   "tag": "ENDAGAANO EMPYA · OKUTUUKIRIRA",
+   "title": "Yesu Ajja",
+   "date": "nga 4 BC–AD 30",
+   "one": "Masiya eyasuubizibwa yajja, n'afa, n'azuukira.",
+   "people": "Yesu, abayigirizwa ekkumi n'ababiri, Yokaana Omubatiza",
+   "events": "Okufuuka omubiri, obuweereza bwe n'okuyigiriza n'ebyamagero, okufa ku musaalaba, okuzuukira ku lunaku olw'okusatu",
+   "q": "Kigambo n'afuuka omubiri, n'abeerako gye tuli… ng'ajjudde ekisa n'amazima.",
+   "cite": "Yokaana 1:14",
+   "christ": "Ezzadde ly'omukazi (ekifaananyi 2), omukisa gwa Ibulayimu (3), omwana gw'endiga ogw'Okuyitako (4), kabaka wa Dawudi ow'olubeerera (6), endagaano empya (8) — byonna bituukirira mu muntu omu, Yesu: nnabbi waffe ow'amazima, kabona, ne kabaka.",
+   "detail": "<p>Akasirise kamenyeka; eyasuubizibwa atuuka. Enjiri ennya zijulira obulamu bwa Yesu, okufa kwe, n'okuzuukira kwe okuva mu nsonda nnya.</p><ul><li><b>Okufuuka omubiri</b> · Katonda afuuka omuntu (Emmanueri, “Katonda ali naffe”), mu kifo eky'ekitiibwa ekitono e Besirekemu.</li><li><b>Obuweereza</b> · ayigiriza obwakabaka bwa Katonda, awonya abalwadde, ayita aboonoonyi. “Andabye andabye Kitange.”</li><li><b>Omusaalaba</b> · asasula omuwendo gw'ekibi n'okufa ebyaleetebwa Okugwa (ekifaananyi 2). Omwana gw'endiga gw'Okuyitako ogw'amazima.</li><li><b>Okuzuukira</b> · ng'azuukira ku lunaku olw'okusatu, amenya amaanyi g'ekibi, okufa, ne Sitaani — dda ku musaalaba “yayambulira ddala obwami n'amasaza… n'abiwangulira ku gwo” (Abakkolosaayi 2:15).</li></ul><p>Kale Yesu ye <b>nnabbi waffe ow'amazima</b> (atulaga ekkubo eri Katonda), <b>kabona waffe ow'amazima</b> (atangirira ekibi n'omubiri gwe yennyini), ne <b>kabaka waffe ow'amazima</b> (awangula ekibi, okufa, ne Sitaani era afuga ennaku zonna).</p>",
+   "next": "Yesu eyazuukira atuma abayigirizwa be mu nsi…"
+  },
+  {
+   "tag": "ENDAGAANO EMPYA · OKWANJULA",
+   "title": "Ekkanisa Etandika",
+   "date": "nga AD 30–",
+   "one": "Omwoyo ajja, n'enjiri esaasaana okutuuka ku nkomerero z'ensi.",
+   "people": "Peetero, Pawulo, ekkanisa ey'edda",
+   "events": "Omwoyo afukibwa ku Pentekooti, ekkanisa ezaalibwa, enjiri esaasaana okuva e Yerusaalemi okutuuka e Ruumi ng'eyita mu kuyigganyizibwa",
+   "q": "Naye muliweebwa amaanyi… n'okutuusa ku nkomerero y'ensi.",
+   "cite": "Ebikolwa 1:8",
+   "christ": "Olugero luno lukyagenda mu maaso ne leero. Baibuli ekomekkereza ng'esuubiza nti Yesu alidda n'akola byonna nga biggya (Okubikkulirwa 21).",
+   "detail": "<p>Oluvannyuma Yesu okulinnya mu ggulu, Omwoyo eyasuubizibwa ajja ku Pentekooti n'ekkanisa ezaalibwa. Enjiri esaasaana mu maanyi.</p><ul><li><b>Pentekooti</b> · Omwoyo afuula abayigirizwa abatya okuba abajulirwa abazira.</li><li><b>Peetero</b> · abuulira enjiri eri Abayudaaya mu Yerusaalemi.</li><li><b>Pawulo</b> · okuva ku muyiganyi okutuuka ku mutume, asimba amakkanisa mu nsi ey'Abamawanga era awandiika ebbaluwa.</li><li><b>Okutuuka ku nkomerero z'ensi</b> · Yerusaalemi → Buyudaaya → Samaliya → Ruumi. Endagaano eya Ibulayimu ey'“ebika byonna” etuukirira.</li><li><b>Naffe</b> · olugero terukoma; lugenda mu maaso eri okudda kwa Yesu n'eggulu eriggya n'ensi empya.</li></ul>",
+   "next": "Naye olugero terukoma wano…"
+  },
+  {
+   "tag": "ENDAGAANO EMPYA · OKUTUUKIRIZIBWA",
+   "title": "Okuzzibwa Obuggya",
+   "date": "Bukyajja",
+   "one": "Yesu adda nate n'akola byonna nga biggya.",
+   "people": "Yesu adda; amawanga gonna",
+   "events": "Okudda okwa Yesu, omusango ogw'enkomerero, enkomerero y'ekibi·okufa·amaziga, eggulu eriggya n'ensi empya",
+   "q": "alisangula buli zziga mu maaso gaabwe; era okufa tekulibaawo nate… newakubadde okukaaba newakubadde okulumwa.",
+   "cite": "Okubikkulirwa 21:4",
+   "christ": "Edeni ey'okutonda okwasooka ezzibwa ku nkomerero ng'“Eyerusaalemi Empya.” Katonda abeera n'abantu be ennaku zonna — okutuukirira kwa Emmanueri (Okubikkulirwa 21:3; Matayo 1:23).",
+   "detail": "<p>Baibuli tekoma ku mulembe gw'ekkanisa. Ekitabo kyayo eky'enkomerero, Okubikkulirwa, kiraga Yesu <b>ng'adda nate</b> okutuukiriza byonna.</p><ul><li><b>Okudda okwa Yesu</b> · kabaka eyasuubizibwa adda mu kitiibwa.</li><li><b>Obuwanguzi obw'enkomerero</b> · Sitaani n'okufa biwangulwa ennaku zonna, Kristo n'afuga nga kabaka wa bakabaka (1 Abakkolinso 15:25-26; Okubikkulirwa 20:10).</li><li><b>Omusango n'okuzuukira</b> · buli butali butuukirivu butereezebwa, n'abafu bazuukizibwa.</li><li><b>Eggulu eriggya n'ensi empya</b> · ekibi, okufa, amaziga, n'okulumwa biggwaawo ennaku zonna (Okubikkulirwa 21:4).</li><li><b>Edeni ezzibwa</b> · mu “Yerusaalemi Empya” esinga entandikwa obulungi, Katonda abeera n'abantu be ennaku zonna — ekifo Baibuli yonna gye yali eraga.</li></ul><p>Kale kati gwe mulembe gw'<b>“okumaze, naye tekunnatuukirira”</b>: mu Yesu obulokozi <b>bumaze</b> okukolebwa, naye okutuukirira kwabwo <b>kukyalindirirwa</b>.</p>",
+   "next": "Kale olugero luno lwonna lutegeeza ki eri “nze”?"
+  }
+ ],
+ "love": [
+  "Olugero tilutandika na musango naye n'okutonda okwafukibwa mu kwagala.",
+  "Mu kiseera kyennyini abantu lwe bayonoona, Katonda yasuubizira eyo wennyini okununula.",
+  "Katonda yasooka okujja eri omuntu atasaanira, n'amuyita erinnya, n'amufuula omukutu gw'omukisa.",
+  "Yawulira okusinda kw'eggwanga eryali mu buddu n'akka yennyini okulinunula.",
+  "Wadde nga baamulyamu olukwe emirundi n'emirundi, buli lwe baakaaba yatuma omulokozi n'abagolola nate.",
+  "Teyasuula wadde Dawudi eyagwa, era ng'amuyita yasuubiza kabaka ow'olubeerera.",
+  "Eri eggwanga eryamukuba amabega, yeeyongera okutuma bannabbi, ng'akaaba nti, “Dda eka, nkwegayiridde.”",
+  "Yagenda nabo ne mu nsi ey'ekizikiza ennyo ey'obusibe, n'asuubiza okuzza obuggya.",
+  "Wadde eri eggwanga eryalemwa emirundi n'emirundi, teyaggyawo ndagaano ye, naye yabagolola nate.",
+  "Wadde nga waayitawo emyaka 400 egy'akasirise, mu kyama, yali ateekateeka ekkubo ery'obulokozi.",
+  "Bwe twali tukyalina ebibi, yatuma Omwana we okuwaayo obulamu bwe yennyini.",
+  "Okwagala kwe twafuna, kati akutuma okukulukuta okutuuka ku nsi yonna.",
+  "Ku nkomerero alisangula buli zziga n'akola byonna nga biggya mu kwagala."
+ ],
+ "mis": [
+  {
+   "w": "“Lwaki Katonda yakola abantu abasobola okwonoona? Tekyandibadde kirungi obutabakola n'akamu?”",
+   "t": "Katonda yatonda ensi n'abantu si lw'okubulwa kintu, naye lw'okwagala okwasukkirira. Okukola abantu nga <b>abantu abakolagana ne Katonda</b> kwennyini kwagala. Era n'okuyingira kw'ekibi tekwali kweru wa ntegeka ya Katonda ey'obulokozi (Abaefeso 1:4-5). Ekifaananyi ekisooka ekya Baibuli si musango naye kwagala."
+  },
+  {
+   "w": "“Okugobebwa n'okuweebwa okufa olw'okulya kibala kimu — Katonda tali mukambwe nnyo?”",
+   "t": "Okufulumizibwa mu Edeni kwali musango ate era n'okusaasira. Singa, ng'ayawukanyiziddwa ku Katonda era nga mu mbeera eyo emenyese, omuntu yalidde ku muti gw'obulamu n'awangaala ennaku zonna, yandisibiddwa mu kubonaabona emirembe gyonna (Olubereberye 3:22). Okukkiriza okufa kwali kwagulawo ekkubo ery'okudda; era eyo wennyini Katonda n'asuubiza Omulokozi (Olubereberye 3:15). Okwagala kwali kumaze okubeera mu musango."
+  },
+  {
+   "w": "“Ibulayimu yalondebwa olw'okukkiriza kwe okunene — abantu bonna aba Baibuli si bazira mu mpisa?”",
+   "t": "Ibulayimu naye yalimba n'abuusabuusa, ne Yakobo yali mulimba. Katonda teyayita “abasaanira” naye yayita abalina obukyamu, olw'ekisa. Ensonga y'okulondebwa si bulungi bwabwe naye kwagala kwa Katonda okwesigwa (Ekyamateeka 7:7-8)."
+  },
+  {
+   "w": "“Amateeka (Ebiragiro) si kigezo oba kkalu ky'oteekwa okuyita olyoke olokoke?”",
+   "t": "Katonda yabalokola <b>nga</b> tannabawa Mateeka. Ne Amateeka Ekkumi gatandika n'okulangirira okwa bulokozi: “nze Yakuwa Katonda wammwe, abaggya mu… Misiri” (Okuva 20:2). Amateeka si “gagoberere olyoke olokoke,” naye buyambi bwa kwagala ku ngeri abantu abalokoddwa olw'ekisa gye basaana okubeeramu (Ekyamateeka 7:7-9). Ekisa kisooka bulijjo; obuwulize kye kiddibwamu."
+  },
+  {
+   "w": "“Okuwangula Kanani kwali kutta kwa bukambwe — kale Katonda ow'Endagaano Enkadde mukambwe ddala.”",
+   "t": "Kino kya nsonga enzibu etayinza kugonjoolwa mu lugambo lumu era kyetaaga obwegendereza. Naye Baibuli tekiraga ng'obukambwe obutaliimu nsonga naye ng'omusango oluvannyuma lw'ebyasa eby'obugumiikiriza eri obubi obwasukkiridde (omwo nga mwe muli okuwaayo abaana ssaddaaka) (Olubereberye 15:16; Ekyamateeka 9:4-5; EByabaleevi 18:24-25). Katonda tayanguya na kusalira musango, era oyo adda gy'ali amusembeza n'essanyu, ne bw'aba munnaggwanga, nga Lakabu ne Luusi (Yoswa 6:25; Luusi 4:13-17)."
+  },
+  {
+   "w": "“Dawudi yali muzira atalina bukyamu — kyava ayitibwa ‘omuntu ng'omutima gwa Katonda.’”",
+   "t": "Dawudi yakola obwenzi n'okutta. “Omuntu ng'omutima gwa Katonda” tekitegeeza nti talina bukyamu, naye nti teyakweka kibi kye — yeenenya n'omutima gwe gwonna era yeeyongera okudda eri Katonda (Zabbuli 51). Okwagala kwa Katonda tekusuula wadde abo abagwa nnyo."
+  },
+  {
+   "w": "“Nnabbi mulaguzi alagula ebigenda okubaawo / Katonda ow'Endagaano Enkadde busungu bwokka.”",
+   "t": "Omutima gwa nnabbi si “okulagula ebigenda okubaawo” naye okwegayirira okuva ku Katonda: “nkusaba, dda eka.” Ne okulabula okw'omusango tekuluubirira kuzikiriza naye kukyusa abantu okubawonya — “sisanyukira kufa kwa mwonoonyi” (Ezeekyeri 33:11)."
+  },
+  {
+   "w": "“Obusibe bukakasa nti Katonda yava ddala ku Isiraeri.”",
+   "t": "Obusibe tebwali kuva ku gw'oyagala naye kukangavvula n'okutukuza kya Kitaawe eri omwana omwagalwa (Abaebbulaniya 12:6). Katonda teyagenda; yali wamu ne Danyeri wakati mu busibe era n'asuubiza: “mmanyi ebirowoozo bye nbalowooleza… ebirowoozo eby'emirembe, okubawa essuubi ery'enkomerero” (Yeremiya 29:11)."
+  },
+  null,
+  {
+   "w": "“Singa emyaka 400 tewabaddewo kigambo, Katonda yagenda oba yali awummula?”",
+   "t": "Akasirise si bweru. Yali tayogedde kyokka, ng'ate ekiseera kyonna ekyo akyusa amawanga, ennimi, n'amakubo okuteekateeka ekifo eky'obulokozi. Mu kiseera ekisinga obusirise, Katonda yali akolera ennyo, mu kwagala (Abaggalatiya 4:4)."
+  },
+  {
+   "w": "“Yesu yali omu ku bayigiriza b'empisa abalungi / omusaalaba gwali buwanguzi bwa nnaku.”",
+   "t": "Yesu yeeyita Katonda yennyini (Yokaana 8:58), n'omusaalaba tegwali gwa kabenje wadde buwanguzi naye kwagala okwategekebwa. Teyatwalibwa eyo na maanyi; yawaayo obulamu bwe yennyini (Yokaana 10:18). “Tewali alina kwagala kusinga kuno, omuntu okuwaayo obulamu bwe olw'emikwano gye” (Yokaana 15:13)."
+  },
+  {
+   "w": "“Ekkanisa kibinja kya ddiini eky'abantu abatuukiridde, oba kizimbe kyokka.”",
+   "t": "Ekkanisa si kibiina kya “batukuvu abatuukiridde” naye kya <b>boonoonyi abasonyiyiddwa</b>. Ne omutume Pawulo yeeyita “asooka mu boonoonyi” (1 Timoseewo 1:15). Ekkanisa ey'edda nayo yawakana n'esittala (Ebikolwa 6:1; 1 Abakkolinso 1:11). Ekkanisa si kifo kya kwekuluntaza, naye bantu abatuusa okwagala kwe baafuna eri abalala (Yokaana 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Ekibi eky'obuzaale — tewali mutuukirivu",
+   "body": "Ekizibu si “ebikolwa ebibi ebitono” naye mulandira gwa mutima. Okuva ku Adamu, buli muntu azaalibwa wansi w'ekibi era tayinza kutuuka ku Katonda yekka.",
+   "vref": "Abaruumi 3:10-12, 23",
+   "vtext": "Tewali mutuukirivu n'omu… kubanga bonna baayonoona, ne batatuuka ku kitiibwa kya Katonda."
+  },
+  {
+   "title": "Amateeka tegayinza kundokola",
+   "body": "Amateeka si ddaala naye ndabirwamu. Bwe weeyongera okufuba, gwe geeyongera okulaga obungi bw'olemwa. Ekigendererwa kyago kwe kututwala eri Kristo.",
+   "vref": "Abaruumi 3:20 · Abaggalatiya 3:24",
+   "vtext": "amateeka ge gamanyisa ekibi… amateeka yali mutwazi waffe eri Kristo."
+  },
+  {
+   "title": "Olw'ekisa — kirabo, si kufuba",
+   "body": "Obulokozi si mpeera ya bikolwa bye weekuŋŋaanyiza, naye kirabo kya bwereere eri abo abatakisaanira. Noolwekyo tewali ayinza kwenyumiriza.",
+   "vref": "Abaefeso 2:8-9",
+   "vtext": "mwalokoka lwa kisa lwa kukkiriza… tekwava mu bikolwa, omuntu yenna aleme okwenyumirizanga."
+  },
+  {
+   "title": "Tuweebwa obutuukirivu olw'okukkiriza",
+   "body": "Si lwa kugoberera Mateeka, naye lwa kukkiriza Yesu Kristo, tulangirirwa okuba abatuukirivu — tetwambazibwa butuukirivu bwaffe naye obwe.",
+   "vref": "Abaruumi 5:1 · Abaggalatiya 2:16",
+   "vtext": "bwe twaweebwa obutuukirivu olw'okukkiriza… omuntu taweebwa butuukirivu lwa bikolwa bya mateeka wabula olw'okukkiriza Yesu Kristo."
+  },
+  {
+   "title": "Baibuli eraga eri Yesu",
+   "body": "Baibuli si kitabo kya basajja bakulu wadde kya kweyamba. Okuva ku Lubereberye okutuuka ku Kubikkulirwa, buli lupapula lujulira omuntu omu — Yesu Kristo.",
+   "vref": "Yokaana 5:39 · Lukka 24:27",
+   "vtext": "n'ebyo bye bitegeeza ebyange… n'abategeeza mu byawandiikibwa ebyo byonna ebyamuwandiikirwa ye."
+  },
+  {
+   "title": "Obwakabaka bwa Katonda — obubaka obukulu obwa Yesu",
+   "body": "Ekiteeso Yesu kye yasinga okuyigiriza. Okufuga kwa Katonda nga kabaka kwayingira mu nsi eno ne Yesu era kulituukirizibwa bw'alidda. Olw'omusaalaba gwe n'okuzuukira kwe, Yesu ye kabaka ow'amazima eyawangula ekibi, okufa, ne Sitaani.",
+   "vref": "Makko 1:15",
+   "vtext": "ekiseera kituuse, obwakabaka bwa Katonda busembedde, mwenenye, mukkirize enjiri."
+  },
+  {
+   "title": "Enjiri — yatuukiriza byonna",
+   "body": "Ebbanja ly'ekibi lye nnali sisobola kusasula, Yesu yalisasula mu kifo kyange ku musaalaba, era olw'okuzuukira yawangula okufa. Sigeme ku “kola kino” naye ku “kiwedde.”",
+   "vref": "Yokaana 19:30 · Abaruumi 5:8",
+   "vtext": "Kiwedde… bwe twali nga tukyalina ebibi Kristo n'atufiirira."
+  }
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "menuName": "isiXhosa",
+ "htmlLang": "xh",
+ "dir": "ltr",
+ "brand": "IBhayibhile ngokuqengqeleka okunye",
+ "docTitle": "IBhayibhile ngokuqengqeleka okunye · Ukususela ekudalweni kuse ebandleni",
+ "share": {
+  "title": "IBhayibhile ngokuqengqeleka okunye",
+  "text": "Ngokuqengqeleka okunye, fumana ibali elikhulu leBhayibhile — nesizathu sokuza kukaYesu."
+ },
+ "ui": {
+  "people": "Abantu",
+  "events": "Iziganeko eziphambili",
+  "christLabel": "Kalatha kuYesu",
+  "loveLabel": "Uthando olungayekiyo",
+  "mythWrong": "Imbono ephosakeleyo eqhelekileyo",
+  "mythRight": "Inyaniso",
+  "more": "Funda okungakumbi",
+  "version": "(IBHAYIBHILE)"
+ },
+ "labels": {
+  "start": "Qalisa",
+  "thread": "Ibali",
+  "gospel": "IiNdaba eziLungileyo",
+  "about": "Malunga"
+ },
+ "s": {
+  "ui.share": "↗ Yabelana",
+  "ui.toast": "Ikhonkco likhutshelwe 📋",
+  "ui.footer": "IBhayibhile ngokuqengqeleka okunye · Iimbalelo zeBhayibhile zithatyathwe kwiIBHAYIBHILE",
+  "hero.kicker": "UKUSUSELA EKUDALWENI KUSE EBANDLENI",
+  "hero.title": "IBhayibhile,<br><span class='em'>ngokuqengqeleka okunye</span>",
+  "hero.sub": "Ngokuqengqeleka okunye, fumana ibali elikhulu leBhayibhile — nesizathu sokuza kukaYesu.",
+  "hero.cue": "Qengqela ezantsi<span>↓</span>",
+  "thread.eyebrow": "ISIVAKALISI ESINYE ESIDIBANISA YONKE INTO",
+  "thread.h2": "Ekugqibeleni, iBhayibhile libali elinye",
+  "thread.flow": "<b>Isithembiso</b><span class='arw'>→</span><b>Ukulinda</b><span class='arw'>→</span><b>Ukuzaliseka</b>",
+  "thread.note": "UThixo <b>uyathembisa</b> (umnqophiso), abantu <b>balinda</b> ixesha elide, ekugqibeleni yonke into <b>izaliseke</b> ize igqitywe kuYesu. Landela imiboniso eli-13 engezantsi ngolo hlobo — cofa <b>“Funda okungakumbi”</b> kwikhadi ngalinye ukuze ufumane ibali elinzulu.",
+  "gospel.eyebrow": "OKO ELI BALI LITHETHA KONA “KUM”",
+  "gospel.h2": "Intliziyo yokwenene yeBhayibhile",
+  "gospel.lead": "IBhayibhile <b>asiyongqondo yokuba “ube ngumntu olungileyo.”</b>",
+  "gospel.sublead": "Lilibali lendlela uThixo, <b>ngobabalo kuphela</b>, awahlangula ngayo aboni ababengenako ukuzisindisa. Embindini wayo kumi uYesu Krestu.",
+  "gospel.mirror": "<h3>Umjikelo ongapheliyo kaSirayeli ngenene ngumfanekiso “wam”</h3><div class='cycle'><b>Unqulo-zithixo</b><span class='a'>→</span><b>Ukubandezeleka</b><span class='a'>→</span><b>Ukukhala</b><span class='a'>→</span><b>UThixo uyahlangula</b><span class='a'>→</span><b>Unqulo-zithixo kwakhona…</b></div><p>Ukususela kubaGwebi kuse ekuthinjweni, uSirayeli uphinda-phinda lo mjikelo ngokungapheliyo. IBhayibhile ayilibhalanga eli bali ukuze sigculele sisithi, “Babebahlazo kangakanani na.”</p><p>Sisipili. Eyona nto iphambili asiyiyo eyokuba “uSirayeli wenza loo nto” kodwa <b>“nam ndenza into efanayo”</b> (1 Korinte 10:11).</p><p><b>Isithixo</b> asingomfanekiso oqingqiweyo kuphela. <b>Yiyo nantoni na esiyithanda okanye esiyithembe ngaphezu kukaThixo</b> — imali, impumelelo, ukwamkelwa, abantu, nokuba ndim kanye. Nokumsebenzisa uThixo <b>njengesixhobo sokuzuza oko ndikufunayo</b> kukunqula-zithixo nako.</p><p class='punch'>Ekugqibeleni, esona sithixo sinzulu ngu “mna, ndihleli etroneni kaThixo.”</p>",
+  "gospel.coreIntro": "Ngoko ke uThixo umsindisa njani umoni onjalo? Nantsi intliziyo yeendaba ezilungileyo ezivakaliswa yiBhayibhile.",
+  "gospel.crux": "<p class='crux-lead'>Yonke iBhayibhile ikalatha endaweni enye.</p><p>Abantu babengenako ukuwuqhawula ngokwabo umjikelo wesono, kwaye kwakungekho namnye ulilungisa. Ngoko kwakufuneka othile <b>ahlawule ixabiso esikhundleni sabo</b>.</p><p>UYesu akazanga nje ukuza kunika imfundiso elungileyo. Ekubeni kwakungekho enye indlela yokundisindisa, <b>wayengenakwenza nto ngaphandle kokuza.</b></p><p class='crux-punch'>Lowo wayemele ukuxhonywa kuloo mnqamlezo <b>ndim</b>.<br>UYesu wathwala <b>isono sam</b> wabethelelwa apho esikhundleni sam.</p><div class='crux-verse'>“Phofu ke ungxwelerhwe ngenxa yokukreqa kwethu; ewe, ubulewe ngenxa yobugwenxa bethu … thina sinyangwe ngamanxeba akhe.” — Isaya 53:5</div>",
+  "faq.h": "Usenento okusakhathazayo?",
+  "faq.q1": "<span class='arr'>▸</span> Ngoko ke umbulali kumele nje akholwe aze aye ezulwini, kanti umntu ophile ubomi obulungileyo lonke ixesha kodwa ongakholwayo uya esihogweni?",
+  "faq.a1": "<p>Ngumbuzo ofanelekileyo. Kodwa kufihlwe iimbono ezimbini eziphosakeleyo ngaphakathi kuwo.</p><p><b>① IBhayibhile ayibahluli abantu ibenza “abalungileyo nababi.”</b> Umlinganiselo asikuko ukuba “ungcono kunalowo umelene naye” kodwa “ubungcwele obugqibeleleyo bukaThixo.” Phambi kwakhe, akukho namnye “olunge ngokwaneleyo” (Roma 3:23). Ngoko le asiyongxaki “yomntu olungileyo ngokuchasene nombulali,” kodwa ngakumbi injengabantu ababini abanesifo esinye esibulalayo — omnye uthatha unyango, omnye uyalukhaba, esithi, “Ndisempilweni engcono kunalo mfo.”</p><p><b>② Yinto enye kuphela eyahlula izulu nesihogo.</b> Ayinakuba ngamanqaku eziganeko, kodwa <b>ukuba ngaba umamkele uYesu Krestu njengeNkosi yaye ingxaki yakho yesono isombululwe na.</b> Lowo isono sakhe sisonjululwe ligazi likaKrestu uya ezulwini; lowo ungazange amamkele, isono sakhe sisahleli, akayi. Akukho zenzo zilungileyo zinokusombulula loo ngxaki yesono ngokwayo.</p><p>Ngoko izulu nesihogo asibobuwongo bokuziphatha kakuhle” kodwa ngumcimbi <b>wobudlelwane noKrestu</b>. Yaye “ukukholwa” akukokuvuma ngengqondo kuphela, kodwa lutshintsho lwalowo ulawula ubomi bakho — nabani na omamkela ngokwenene akazi kuziphakamisa, kodwa uguquka ngokunzulu ngakumbi. Eneneni, ukuzigwebela ngokwakho (“ndingumntu olungileyo”) sesona sithixo kunzima ukusiqhawula, eso senza sicinge ukuba asimfuni uKrestu (Luka 18:9-14).</p><p>IBhayibhile ikutsho ngokucacileyo: <b>“Lowo uzinikelayo kuNyana kaThixo akagwetywa; kodwa lowo ungazinikeliyo selegwetyiwe”</b> (Yohane 3:18). Umgwebo asikuko “ukulinganisela ubomi bakho emva kokufa,” kodwa sele ugqitywe ngokuya <b>wamamkela na uKrestu</b>.</p><p class='faq-v'>Roma 3:23 · Yohane 3:18 · Efese 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Andinakuphila nje ubomi obulungileyo ndingakholwa kuYesu?",
+  "faq.a2": "<p>Yeyona nto icingwa kakhulu, kodwa ayiyiqondi eyona ngxaki yokwenene. Nanku umfanekiso.</p><p><b>Masithi ukhwele kwinqanawa yamasela.</b> Naphi na ukuyicoca kakuhle indawo yokunyathela, ube nobubele kubasebenzi, ube nobomi obungumzekelo — usengummelwane <b>weqela lamasela</b>, kuba uthwalwa nenqanawa uye apho iya khona (izibuko lomgwebo). Ingxaki asikuko “amanqaku okuziphatha” kodwa <b>“ngeyiphi inqanawa oyeyayo” (isazisi sakho)</b>.</p><p>Ngoko iindaba ezilungileyo azitsho “zama ngamandla ukuba ulunge”; zithi <b>“tshintsha iinqanawa.”</b> Yihla enqanaweni yesono uwele uye kuYesu — kwisazisi esitsha <b>somntwana kaThixo</b>. Oku akukokuphakamisa amanqaku akho ngemigudu, kodwa kukuthemba Lowo welula isandla sakhe uwele uye enqanaweni yakhe.</p><p>Eneneni iBhayibhile iyichaza ngokuchanekileyo ngolu hlobo le nsindiso njengoku fudusela — <b>“Wasihlangula egunyeni lobumnyama, waza wasifudusela ekulawulweni nguNyana wakhe oyintanda”</b> (Kolose 1:13).</p><p>Musa ukuyiqonda kakubi: <b>oku akuthethi ukuba ubomi obulungileyo abunamsebenzi.</b> Ubulungisa asingomgaqo wensindiso kodwa <b>siqhamo</b> sayo. Lowo utshintshe iinqanawa ngoku uphila kakuhle kungekho ngakoyika, kodwa <b>ngenxa yothando lomntwana</b>.</p><p class='faq-v'>Kolose 1:13 · Yohane 1:12 · Yohane 3:3 · Efese 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Ukuba umoni uziva enoxolo, esithi “uThixo undixolele,” lo gama lowo wonzakaliswayo esabandezeleka — ubabalo aluthengi-shiphu kakhulu?",
+  "faq.a3": "<p>Umbuzo ufanelekile, yaye intlungu iyinyaniso. Kodwa intetho enjalo asikuko “ukuxolela kweBhayibhile” — <b>kukugqwetha</b> kona.</p><p><b>① Ukuxolela kukaThixo akuze kube shiphu.</b> Isono asingqungqwa ngathi asizange senzeke; uThixo ngokwakhe wahlawula ixabiso laso ngobomi boNyana wakhe. Umnqamlezo asibobungqina bokuba isono sithathwa lula, kodwa bokuba isono sinzima kangakanani — kukuxolela okona kuxabisekileyo emhlabeni.</p><p><b>② Inguquko yokwenene ivelisa isiqhamo.</b> Ukuba umoni uziphakamisa phambi kolowo wonzakalisiweyo — “uThixo undixolele, ngoko ndinoxolo” — leyo asiyonguquko kodwa kukuxelisa kona (Mateyu 3:8). Yaye ukuxolelana komntu noThixo akusicimi isilonda solowo wonzakalisiweyo nokumnyanzela ukuba axolele.</p><p><b>③ Isono asize siyekwe nje.</b> Sonke isono sihlawulwa kwenye yeendawo ezimbini — <b>okanye uKrestu asithwale emnqamlezweni</b> (kwabo bamthembayo akukho kuyekugwetywa, Roma 8:1), <b>okanye lowo umalayo ekugqibeleni asithwale ngokwakhe.</b> Ngoko akukho “ulibalelo lushiphu.” Umoni naye usanoxanduva lwasemthethweni kweli hlabathi (Roma 13:1-4).</p><p><b>④ Iinyembezi zolowo wonzakalisiweyo azincinci kuThixo.</b> UThixo ulila nababalilayo, ukhumbula inyembezi nganye, yaye uya kuzosula ngokwakhe ekugqibeleni (ISityhilelo 21:4). Ngoko olowo wonzakalisiweyo akanyanzelekanga ukuba athwale ubunzima bempindezelo yedwa, kodwa unganikela kuThixo olilungisa (Roma 12:19 — “Impindezelo yeyam, kuya kubuyekeza mna, itsho iNkosi”).</p><p class='faq-v'>Mateyu 3:8 · Roma 8:1 · Roma 13:1-4 · ISityhilelo 21:4</p>",
+  "respond.h3": "Ngoko ke — kuthekani ngam?",
+  "respond.sub": "Olu thando aluyolwazi kodwa <b>sisimemo</b>. Ukuba uthando olwabethelelwa esikhundleni sakho luchukumise intliziyo yakho, thandaza oku ngokucothayo, umgca ngamnye ngexesha.",
+  "respond.prayer": "<p>Thixo,</p><p>ndiyavuma ukuba ndingumoni ongenako ukuzisindisa.</p><p>Ndiyakholwa ukuba uYesu wandifela emnqamlezweni waza wavuka kwakhona.</p><p>Nceda uxolele zonke izono zam, ukususela ngoku ube yiNkosi yobomi bam.</p><p>Ndamkele njengomntwana wakho, undenze ndiphile ubomi obutsha.</p><p class='amen'>Egameni likaYesu ndiyathandaza. Amen.</p>",
+  "respond.after": "Ukuba uthandaze oku ngenyaniso, iBhayibhile ithi <b>usube ngumntwana kaThixo</b>. Awusekho wedwa — fumana ibandla elikufuphi uhambe indlela yokholo kunye nabanye.",
+  "respond.verse": "“Kodwa bonke abâmamkeláyo, bezinikele kuye ngokupheleleyo, wabanika igunya lokuba ngabantwana bakaThixo.” — Yohane 1:12 · Roma 10:9-10",
+  "closing.main": "UThixo omnye,<br>ngebali elinye,<br>uyasilandela ngo<em>thando</em><br>olungaze luyeke.",
+  "closing.verse": "“Asikuko nakufa, nabomi … nditsho nasiphi na isidalwa, esiya kuba nako ukusahlula nothando lukaThixo olukuye uKrestu Yesu, iNkosi yethu.” — Roma 8:38-39",
+  "closing.small": "Phezu kweli bali, uMthetho, iiNcwadi zeMibongo, abaProfeti, neeleta zongeza “inyama.”<br>Ukususela ngoku, nokuba uvula yiphi na incwadi, uya kubona ukuba ukweyiphi indawo kweli bali.",
+  "closing.share": "↗ Yabelana ngeli bali",
+  "about.line": "Isekelwe kwimbono <b>yembali-yenkululeko, evangeli · eyoHlaziyo</b> eyabelwana ngayo ngamabandla amaninzi amaProtestanti aseKorea.",
+  "about.contact": "Imibuzo · iimpendulo — <a id='contact' class='mail'>Sibhalele i-imeyile</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ITESTAMENTE ENDALA · ISIQALO",
+   "title": "Ukudalwa",
+   "date": "Ekuqaleni",
+   "one": "UThixo wadala ihlabathi “elalilungile kakhulu.”",
+   "people": "UThixo; uAdam noEva",
+   "events": "Iintsuku ezithandathu zokudala, uluntu lwadalwa ngokomfanekiso kaThixo, ukuphumla kweSabatha",
+   "q": "Ekuqaleni uThixo wadala izulu nomhlaba.",
+   "cite": "Genesis 1:1",
+   "christ": "Ihlabathi ladalwa nge “Lizwi.” IVangeli kaYohane ivakalisa ukuba eli Lizwi nguYesu ngokwakhe (Yohane 1:1-3).",
+   "detail": "<p>IBhayibhile ayiqali ngengxoxo yefilosofi kodwa ngentetho: <b>“Ekuqaleni uThixo…”</b> Ihlabathi asiyongozi kodwa ngumsebenzi kaThixo ongumntu.</p><ul><li><b>Umfanekiso kaThixo</b> · kuzo zonke izidalwa, ngabantu kuphela abenziwe bafane noThixo — ukuze bamazi yaye banyamekele ihlabathi.</li><li><b>Ukuphumla</b> · ukuphumla kosuku lwesixhenxe kubonisa yonke into igqibelele inoxolo (ishalom): “kwakulungile.”</li><li><b>I-Eden</b> · ihlabathi phambi kokwaphuka kwalo, apho uThixo nabantu bahamba kunye.</li></ul>",
+   "next": "Kodwa olu phelelo seluza kwaphulwa…"
+  },
+  {
+   "tag": "ITESTAMENTE ENDALA · INGXAKI IYAQALA",
+   "title": "Ukuwa",
+   "date": "Ekuqaleni",
+   "one": "Isono sangena, lwaza lwaqhawuka unxibelelwano phakathi kwabantu noThixo.",
+   "people": "UAdam noEva; inyoka (uSathana)",
+   "events": "Ukutya isiqhamo esalelweyo, ukugxothwa e-Eden, ukufika kokufa nokubulaleka",
+   "q": "Ndiza kudala ubutshaba phakathi kwakho nomfazi … wena woyiluma isithende.",
+   "cite": "Genesis 3:15",
+   "christ": "Isithembiso sokuqala seVangeli, esanikwa kanye emva kokuWa: “inzala yomfazi” iya kuyicumza intloko yenyoka — yaye lowo nguYesu (Genesis 3:15; Roma 16:20; Galati 4:4).",
+   "detail": "<p>Ngokungathobeli kokuzama “ukufana noThixo,” isono sangena ehlabathini. Umphumo asikoku kwaphula umthetho kuphela kodwa <b>kukwaphuka kobudlelwane</b>.</p><ul><li><b>Unxibelelwano olwaphukileyo</b> · noThixo (ukuzimela), nabanye (ukutyabeka ityala), nendalo (ameva nobunzima).</li><li><b>Ukufa</b> · isilumkiso esithi “uya kufa nakanjani” siba yinyaniso.</li><li><b>Genesis 3:15</b> · kanti phakathi komgwebo, isithembiso sosindiso siza kuqala. Abafundi basibiza ngokuba <b>yiprotoevangelium (ivangeli yokuqala)</b>.</li></ul>",
+   "next": "Ngoku uThixo ubiza indoda enye ukuze aqalise usindiso…"
+  },
+  {
+   "tag": "ITESTAMENTE ENDALA · ISITHEMBISO",
+   "title": "Ooyisemkhulu",
+   "date": "malunga ne-2000 BC",
+   "one": "UThixo uthembisa uAbraham, “Uya kuba ngumjelo wesithsaba.”",
+   "people": "UAbraham · uIsake · uYakobi · uYosefu",
+   "events": "Umnqophiso kaAbraham, ukubotshwa kukaIsake, oonyana abalishumi elinambini bakaYakobi, uYosefu unyukela elawulweni eYiputa",
+   "q": "Ndiza kukunika inzala eninzi, eya kuba sisizwe esikhulu … Zonke izizwe zothamsanqeliswa ngawe.",
+   "cite": "Genesis 12:2-3",
+   "christ": "Isithembiso sokuba “zonke izizwe ziya kuthamsanqeliswa” sizaliseka kuYesu, inzala kaAbraham (Galati 3:16).",
+   "detail": "<p>UThixo uqala ukuyilungisa ingxaki yabo bonke abantu ngokubiza indoda enye, <b>uAbraham</b>. Intliziyo yayo <b>ngumnqophiso (isithembiso)</b> — isizwe esikhulu, ilizwe, “nesithsaba kuzo zonke izizwe.”</p><ul><li><b>Ukholo</b> · uAbraham wasikholelwa isithembiso esingabonakaliyo, saza sabalelwa kuye njengobulungisa (Genesis 15:6).</li><li><b>UIsake noYakobi</b> · isithembiso siyadlula; uYakobi (uSirayeli) uzala izizwe ezilishumi elinambini.</li><li><b>UYosefu</b> · wathengiswa ngabantakwabo kodwa wanyuselwa elawulweni — “uThixo wakuthethela okuhle” (Genesis 50:20).</li></ul>",
+   "next": "Belandela uYosefu, intsapho yehlela eYiputa — yaza yaba ngamakhoboka…"
+  },
+  {
+   "tag": "ITESTAMENTE ENDALA · INKULULEKO",
+   "title": "UMphambili nentlango",
+   "date": "malunga ne-1446 BC",
+   "one": "UThixo wahlangula abantu ababengamakhoboka wabenza abakhe.",
+   "people": "UMosis, uAron, uFaro",
+   "events": "Izibetho ezilishumi, iPasika, ukuwela uLwandle oluBomvu, iMithetho eliShumi eSinayi, umnquba, iminyaka engama-40 entlango",
+   "q": "Ndiya kunenza abantu bam, mna ndibe nguThixo wenu.",
+   "cite": "Eksodus 6:7",
+   "christ": "IPasika — apho igazi lemvana laguqula ukufa — likalathela kuYesu, “imvana yethu yePasika,” owabethelelwa esikhundleni sethu (1 Korinte 5:7).",
+   "detail": "<p>Olona sindiso lukhulu lweTestamente eNdala. USirayeli owayengamakhoboka ukhululwa ngamandla kaThixo aze enziwe <b>abantu</b> bakhe.</p><ul><li><b>IPasika</b> · indlu emakelwe ligazi lemvana iyatyhutshwa kukufa — umzekelo emva kwawo onke amadini alandelayo.</li><li><b>ULwandle oluBomvu</b> · usindiso apho indlela iphela khona; “ukuwela” kuba ngumqondiso wesiqalo esitsha.</li><li><b>Umnqophiso waseSinayi</b> · ngeMithetho bafunda ukuphila njengabantu bakaThixo.</li><li><b>Umnquba</b> · indlu engcwele ehamba-hambayo apho uThixo ahlala phakathi kwabantu bakhe — ukungxama “kukaImanuweli.”</li><li><b>Iminyaka engama-40</b> · ukungathobeli kugcina isizukulwana siphamphatheka entlango, kanti uThixo uhleli ekufuphi nemana nentsika yelifu nomlilo.</li></ul>",
+   "next": "Bemi emdeni welizwe lesithembiso, bazilungiselela ukungena…"
+  },
+  {
+   "tag": "ITESTAMENTE ENDALA · UKUZINZA",
+   "title": "Uloyiso nabaGwebi",
+   "date": "malunga ne-1400–1050 BC",
+   "one": "Bafumana ilizwe, kodwa kungekho kumkani umntu ngamnye wenza unothanda.",
+   "people": "UYoshuwa; abagwebi abafana noGidiyon noSamson; uRute",
+   "events": "Ukuwa kweYeriko, ukuzinza eKanan, umjikelo ophindaphindekayo wesono–umgwebo–usindiso",
+   "q": "Ke kaloku ngelo thuba kwakungekho kumkani kwaSirayeli; umntu ngamnye ke wayesenza unothanda.",
+   "cite": "AbaGwebi 21:25",
+   "christ": "Kumnombo kaRute kuvela uDavide, naseluzalweni lukaDavide kuvela uYesu (Mateyu 1). Nasesiphithiphithini, umnombo kaMesiya uyaqhubeka.",
+   "detail": "<p>Phantsi koYoshuwa bangena elizweni lesithembiso, kodwa emva kokuzinza bakhawuleza bamlibale uThixo. AbaGwebi yintshukumo enye ephindaphindwayo.</p><ul><li><b>Umjikelo osezantsi</b> · isono → ucinezelo → ukukhala → umgwebi uyahlangula → isono kwakhona. Kuya kuba kubi ngakumbi.</li><li><b>Abagwebi</b> · uGidiyon, uSamson, uDebhora — abahlanguli bexeshana, abaqhawe kodwa abanezithubeli ezinkulu.</li><li><b>URute</b> · ibali eliqaqambileyo lokuthembeka kwixesha elimnyama; umfazi wesinye isizwe ungena kumnombo kaDavide (nokaYesu).</li></ul>",
+   "next": "Abantu bayakhala, “Sinike ukumkani nathi!”…"
+  },
+  {
+   "tag": "ITESTAMENTE ENDALA · IXESHA ELIQAQAMBILEYO",
+   "title": "UBukumkani obuManyeneyo",
+   "date": "malunga ne-1050–930 BC",
+   "one": "UThixo uthembisa uDavide, “Itrone yakho iya kuhlala ngonaphakade.”",
+   "people": "USawule · uDavide · uSolomon",
+   "events": "Ukumkani wokuqala uSawule, uDavide noGoliyati, umnqophiso kaDavide, uSolomon wakha itempile",
+   "q": "Indlu yakho ndiya kuyizinzisa, ubukumkani bakho buhlale buhleli, ulawulo lwakho luhlale ngonaphakade.",
+   "cite": "2 Samuweli 7:16",
+   "christ": "“Itrone engunaphakade” izaliseka kuYesu, unyana kaDavide — kungoko abizwa ngokuba “nguNyana kaDavide” (Luka 1:32-33; Mateyu 1:1).",
+   "detail": "<p>Incopho kaSirayeli, elawulwa ngookumkani abathathu.</p><ul><li><b>USawule</b> · ukumkani abamfunayo abantu; isiqalo esihle esonakaliswe kukungathobeli.</li><li><b>UDavide</b> · “indoda engokwentliziyo kaThixo.” Woyisa uGoliyati aze enze iYerusalem ikomkhulu. Wenza isono esikhulu (uBhatishebha) kodwa uguquka ngentliziyo (iNdumiso 51).</li><li><b>Umnqophiso kaDavide (2 Samuweli 7)</b> · uThixo uthembisa ukuyizinzisa indlu kaDavide ngonaphakade — ingcambu echaphazelekayo yethemba lobuMesiya.</li><li><b>USolomon</b> · encotsheni yobulumko nobutyebi wakha <b>itempile</b>, kodwa ekupheleni kobomi waphethukela kwizithixo.</li></ul>",
+   "next": "Emva koSolomon, ubukumkani buyahlulwa kabini…"
+  },
+  {
+   "tag": "ITESTAMENTE ENDALA · UKUHLA",
+   "title": "UBukumkani obuMahluleyo",
+   "date": "930–586 BC",
+   "one": "Bahlulwa baba ngumzantsi (uYuda) nomntla (uSirayeli), isizwe sityibilikela entshabalalweni.",
+   "people": "Ookumkani bezikumkani zombini; abaprofeti abafana noEliya, uIsaya, uYeremiya",
+   "events": "Ubukumkani buyahlulwa, unqulo-zithixo lunwenwa, abaprofeti bayalumkisa",
+   "q": "Unanamhla ke uSirayeli usavukelene nendlu kaDavide.",
+   "cite": "1 Kumkani 12:19",
+   "christ": "Kweli xesha abaprofeti baxela uMesiya oza kuza ngokucacileyo ngokwandayo (Isaya 9:6; Isaya 53).",
+   "detail": "<p>Ngemihla yonyana kaSolomon isizwe siyahlulwa: <b>ubukumkani basemntla bakwaSirayeli</b> (izizwe ezili-10, ikomkhulu iSamariya) <b>nobukumkani basemzantsi bakwaYuda</b> (izizwe ezi-2, ikomkhulu iYerusalem).</p><ul><li><b>USirayeli (umntla)</b> · onke ookumkani bakhonza izithixo; uwela kwa-Asiriya ngo-722 BC.</li><li><b>UYuda (umzantsi)</b> · uluzalo lukaDavide luyaqhubeka, ngookumkani abambalwa abalungileyo abafana noHezekiya noYosiya, kodwa luyahla ngokubanzi.</li><li><b>Abaprofeti</b> · uEliya, uAmosi, uIsaya, uYeremiya bakhala “buyani!” Isiprofeto sobuMesiya sifika encotsheni yaso apha (“isicaka esibandezelekayo” seIsaya 53).</li></ul>",
+   "next": "Ekugqibeleni umgwebo owalunyukiswa ngawo uyeza — bathinjwa…"
+  },
+  {
+   "tag": "ITESTAMENTE ENDALA · UMGWEBO",
+   "title": "Ukuthinjwa",
+   "date": "722 / 586 BC",
+   "one": "Isizwe siyadilika abantu batsalelwa emazweni asemzini.",
+   "people": "UDaniyeli, uHezekile, uNebhukadenezare",
+   "events": "USirayeli uwela kwa-Asiriya (722), uYuda uwela kwiBhabheli yaza yatshatyalaliswa itempile (586)",
+   "q": "Ngasemilanjeni yaseBhabheli sahlala phantsi sagixa sakucinga ngeZiyon.",
+   "cite": "INdumiso 137:1",
+   "christ": "Ezinzulwini zonxunguphalo uYeremiya uthembisa “umnqophiso omtsha” (Yeremiya 31:31) — kanye loo mnqophiso uYesu awunqophisa kwiSidlo soKugqibela.",
+   "detail": "<p>Izilumkiso ziyazaliseka. Itempile iyatsha abantu basiwa eBhabheli — belahlekelwa lilizwe, ukumkani, netempile: olona xesha lisezantsi kunazo zonke.</p><ul><li><b>Ukuwa kabini</b> · uSirayeli (Asiriya, 722 BC) noYuda (Bhabheli, 586 BC).</li><li><b>UDaniyeli</b> · umzekelo wokholo nakwinkundla yabahedeni (umhadi weengonyama); ubona imibono “yobukumkani obungunaphakade” obuzayo.</li><li><b>Intlansi yethemba</b> · umbono kaHezekile wamathambo omileyo aphilayo (Hezekile 37) “nomnqophiso omtsha” kaYeremiya bakalathela kwikamva ebumnyameni.</li></ul>",
+   "next": "Emva kweminyaka engamashumi asixhenxe, uThixo uvula indlela — bayagoduka…"
+  },
+  {
+   "tag": "ITESTAMENTE ENDALA · USINDISO",
+   "title": "Ukubuya",
+   "date": "538–430 BC",
+   "one": "Bayabuya baze bakhe kwakhona itempile neendonga.",
+   "people": "UEzra, uNehemiya, uEstere, uZerubhabheli",
+   "events": "Ukubuya ngommiselo kaKoreshi, ukwakhiwa kwetempile, ukulungiswa kweendonga zaseYerusalem, ukubuyiselwa kweLizwi",
+   "q": "Kaloku uNdikhoyo uza kunomeleza ngovuyo lwakhe.",
+   "cite": "Nehemiya 8:10",
+   "christ": "UMalaki, incwadi yokugqibela yeTestamente eNdala, igqibezela ngokuxela isigidimi esiza kulungisa indlela kaMesiya: “Ndiyasithuma isigidimi sam” (Malaki 3:1).",
+   "detail": "<p>Ngommiselo kakumkani wasePersi uKoreshi (538 BC) ukubuya kuyaqala. Ngamaza amathathu bayabuya baze bakhe kwakhona oko kwakonakele.</p><ul><li><b>UZerubhabheli</b> · wakha kwakhona itempile (yagqitywa ngo-516 BC).</li><li><b>UEzra</b> · ufundisa iLizwi kwakhona aze avuselele ukholo.</li><li><b>UNehemiya</b> · wakha kwakhona iindonga zaseYerusalem ngeentsuku ezingama-52.</li><li><b>UEstere</b> · usindisa amaYuda asePersi entshabalalweni — “ngexesha elinjengeli.”</li><li><b>Ukunqwenela okusekhoyo</b> · itempile imi, kodwa akukho kumkani onjengoDavide. Abantu balindele uMesiya.</li></ul>",
+   "next": "Kwaza ke… ngokungathi izulu lithi cwaka, kwadlula iminyaka engama-400."
+  },
+  {
+   "tag": "PHAKATHI KWEETESTAMENTE · UKULUNGISA INDAWO YOKUDLALELA",
+   "title": "Iminyaka yokuThula",
+   "date": "malunga ne-430–4 BC",
+   "one": "Iminyaka engama-400 ingekho lizwi lomprofeti — kanti indawo yokudlalela yayilungiswa ngokuthe cwaka.",
+   "people": "UAleksandire oMkhulu, amaMakabhi, iRoma",
+   "events": "IPersi → iGrike → inkululeko yamaMakabhi → ulawulo lwaseRoma",
+   "q": "Kodwa ke lithe lakuzaliseka ixesha, uThixo wamthumela uNyana wakhe. Weza ngokuzalwa ngumntu obhinqileyo.",
+   "cite": "Galati 4:4",
+   "christ": "Konke oku “kulungiswa kwendawo yokudlalela” kwakunguThixo esebenza ukuze uYesu eze kanye “ekuzalisekeni kwexesha.”",
+   "detail": "<p>Ukususela kuMalaki kuse kwiTestamente eNtsha, kudlula iminyaka emalunga nama-400 kungekho siBhalo sitsha. Kanti emva kwembali uThixo wayelungisa indlela yeendaba ezilungileyo.</p><ul><li><b>Ubukhosi buyatshintshana</b> · iPersi → iGrike (uAleksandire, 333 BC) → amaPtolemy namaSeleukasi → uvukelo lwamaMakabhi (167 BC) → iRoma (63 BC).</li><li><b>IsiGrike</b> · uloyiso lukaAleksandire lwenza isiGrike sibe lulwimi oluqhelekileyo; iTestamente eNdala iguqulelwe esiGrikini (iSeptuagint), kuvula indlela yeendaba ezilungileyo ukuba zinwenwe ngokukhawuleza.</li><li><b>Iindlela noxolo lwaseRoma</b> · iindlela ezakhiwe kakuhle “noxolo lwamaRoma” baba ziindlela zobuvangeli.</li><li><b>Iisinagoge namaqela</b> · imfundiso yasesinagogeni iyemiliselwa; abaFarisi nabaSadusi bayavela; nokunqwenela uMesiya kuyavuthwa.</li></ul>",
+   "next": "Kwaza ke ukuthula kwaphuka — ekugqibeleni, uyeza."
+  },
+  {
+   "tag": "ITESTAMENTE ENTSHA · UKUZALISEKA",
+   "title": "UYesu uyeza",
+   "date": "malunga ne-4 BC–AD 30",
+   "one": "UMesiya owayethenjisiwe weza, wafa, waza wavuka kwakhona.",
+   "people": "UYesu, abafundi abalishumi elinambini, uYohane uMbhaptizi",
+   "events": "Ukwenziwa-mntu, ubulungiseleli bakhe nemfundiso nemimangaliso, ukufa emnqamlezweni, ukuvuka ngomhla wesithathu",
+   "q": "ULizwi ke waba ngumntu, waza wahlala phakathi kwethu … obuphuphuma ububele nenyaniso.",
+   "cite": "Yohane 1:14",
+   "christ": "Inzala yomfazi (umboniso 2), isithsaba sikaAbraham (3), imvana yePasika (4), ukumkani ongunaphakade kaDavide (6), umnqophiso omtsha (8) — konke kuzaliseka kumntu omnye, uYesu: umProfeti, uMbingeleli, noKumkani wethu wokwenene.",
+   "detail": "<p>Ukuthula kuyaphuka; lowo waThenjiswayo uyafika. IiVangeli ezine zingqina ngobomi bukaYesu, ukufa, novuko ngezimbo ezine.</p><ul><li><b>Ukwenziwa-mntu</b> · uThixo waba ngumntu (uImanuweli, “uThixo unathi”), kwindawo ephantsi yaseBhetelehem.</li><li><b>Ubulungiseleli</b> · ufundisa ngobukumkani bukaThixo, aphilise abagulayo, abize aboni. “Lowo undibonileyo ubone uBawo.”</li><li><b>Umnqamlezo</b> · uhlawula esikhundleni sethu ixabiso lesono nokufa okwabangelwa kukuWa (umboniso 2). Imvana yePasika yokwenene.</li><li><b>Uvuko</b> · evuka ngomhla wesithathu, wophula amandla esono, ukufa, noSathana — kwasemnqamlezweni “uboyisile oomagunya nooziphathamandla … wabenza intlekisa” (Kolose 2:15).</li></ul><p>Ngoko uYesu <b>ngumProfeti wethu wokwenene</b> (esibonisa indlela eya kuThixo), <b>uMbingeleli wethu wokwenene</b> (ecamagushela isono ngomzimba wakhe), <b>noKumkani wethu wokwenene</b> (eyoyisa isono, ukufa, noSathana aze alawule ngonaphakade).</p>",
+   "next": "UYesu ovukileyo uthumela abafundi bakhe ehlabathini…"
+  },
+  {
+   "tag": "ITESTAMENTE ENTSHA · UKWANDA",
+   "title": "Ibandla liyaqala",
+   "date": "malunga ne-AD 30–",
+   "one": "UMoya uyeza, neendaba ezilungileyo zinwenwa zise eziphelweni zomhlaba.",
+   "people": "UPetros, uPawulos, ibandla lokuqala",
+   "events": "UMoya uthululwa ngePentekoste, ibandla liyazalwa, iindaba ezilungileyo zinwenwa zisuka eYerusalem zisiya eRoma ngentshutshiso",
+   "q": "Nina niya kunikwa amandla, akufika kuni uMoya oyiNgcwele … kude kuse naseziphelweni zomhlaba.",
+   "cite": "IZenzo 1:8",
+   "christ": "Eli bali lisaqhubeka nanamhlanje. IBhayibhile igqibezela ngokuthembisa ukuba uYesu uya kubuya enze zonke izinto zibe ntsha (ISityhilelo 21).",
+   "detail": "<p>Emva kokunyukela kukaYesu ezulwini, uMoya owayethenjisiwe uyeza ngePentekoste laza labelu ibandla. Iindaba ezilungileyo zinwenwa ngokuqhushumbayo.</p><ul><li><b>IPentekoste</b> · uMoya wenza abafundi ababesoyika babe ngamangqina anesibindi.</li><li><b>UPetros</b> · ushumayela iindaba ezilungileyo kumaYuda eYerusalem.</li><li><b>UPawulos</b> · esuka kumtshutshisi waba ngumpostile, etyala amabandla kwilizwe leentlanga aze abhale iileta.</li><li><b>Kude kuse eziphelweni zomhlaba</b> · iYerusalem → iYuda → iSamariya → iRoma. Isithembiso sikaAbraham “sezizwe zonke” siyazaliseka.</li><li><b>Nathi</b> · ibali aliphezi; liqhubela phambili kukubuya kukaYesu nezulu elitsha nomhlaba omtsha.</li></ul>",
+   "next": "Kodwa ibali aliphezi apha…"
+  },
+  {
+   "tag": "ITESTAMENTE ENTSHA · UKUGQITYWA",
+   "title": "Ukubuyiselwa",
+   "date": "Kusezakuza",
+   "one": "UYesu uyabuya enze zonke izinto zibe ntsha.",
+   "people": "UYesu obuyayo; zonke izizwe",
+   "events": "Ukubuya kwesibini, umgwebo wokugqibela, isiphelo sesono·sokufa·seenyembezi, izulu elitsha nomhlaba omtsha",
+   "q": "Uya kubosula zonke iinyembezi. Akusayi kubuye kubekho kufa, nalusizi, nasikhalo, nazintlungu.",
+   "cite": "ISityhilelo 21:4",
+   "christ": "I-Eden yendalo yokuqala iyabuyiselwa ekugqibeleni njenge “Yerusalem eNtsha.” UThixo uhlala nabantu bakhe ngonaphakade — ukuzaliseka kukaImanuweli (ISityhilelo 21:3; Mateyu 1:23).",
+   "detail": "<p>IBhayibhile ayipheli ngexesha lebandla. Incwadi yayo yokugqibela, iSityhilelo, ibonisa uYesu <b>ebuya</b> ukuze agqibezele yonke into.</p><ul><li><b>Ukubuya kwesibini</b> · ukumkani owathenjiswayo ubuya ngozuko.</li><li><b>Uloyiso lokugqibela</b> · uSathana nokufa boyiswa ngonaphakade, uKrestu alawule njengoKumkani wookumkani (1 Korinte 15:25-26; ISityhilelo 20:10).</li><li><b>Umgwebo novuko</b> · konke okungalunganga kulungiswa, baze abafileyo bavuswe.</li><li><b>Izulu elitsha nomhlaba omtsha</b> · isono, ukufa, iinyembezi, neentlungu kunyamalala ngonaphakade (ISityhilelo 21:4).</li><li><b>I-Eden ebuyiselweyo</b> · kwi “Yerusalem eNtsha” engcono kunesiqalo, uThixo uhlala nabantu bakhe ngonaphakade — injongo le iBhayibhile iphela ikalathela kuyo.</li></ul><p>Ngoko ngoku lixesha <b>“lokuba sekukho, kodwa kungekafiki”</b>: kuYesu usindiso <b>selufikile</b>, kodwa ukugqitywa kwalo <b>kusalindelwe</b>.</p>",
+   "next": "Ngoko ke eli bali lonke lithetha ntoni “kum”?"
+  }
+ ],
+ "love": [
+  "Ibali liqala kungekho ngomgwebo kodwa ngendalo ephuphuma uthando.",
+  "Ngomzuzu abantu bonayo, uThixo wathembisa usindiso kwangoko apho.",
+  "UThixo weza kuqala kwindoda engafanelekanga, wayibiza ngegama, wayenza umjelo wesithsaba.",
+  "Weva ukugcuma kwabantu ababengamakhoboka, wehla ngokwakhe ukuze abahlangule.",
+  "Bemngcatsha ngokuphindaphindiweyo, kanti rhoqo bakukhala wathumela umhlanguli wabaphakamisa.",
+  "Akazange amlahle nokuba uDavide owayewile, yaye ngaye wathembisa uKumkani ongunaphakade.",
+  "Kubantu ababemfulathele, waqhubeka ethumela abaprofeti, ebongoza, “Khanibuye ekhaya.”",
+  "Wehla nabo kwanasezweni elimnyama lokuthinjwa, waza wathembisa usindiso.",
+  "Nakubantu abasilelayo ngokuphindaphindiweyo, akazange asibuyise isithembiso sakhe.",
+  "Nasekuthuleni kweminyaka engama-400, engabonakali, wayelungisa indlela yosindiso.",
+  "Ngoxa sasiseyizoni, wathumela uNyana wakhe ukuba abeke phantsi ubomi bakhe.",
+  "Uthando esaluxhamlayo, ngoku uyaluthumela luqukuqele kulo lonke ihlabathi.",
+  "Ekugqibeleni uya kuzosula zonke iinyembezi aze abuyisele zonke izinto ngothando."
+ ],
+ "mis": [
+  {
+   "w": "“Kutheni uThixo wenza abantu abanokona? Bekungayi kuba ngcono ukuba akasenzanga konke konke?”",
+   "t": "UThixo wadala ihlabathi nabantu kungekuko ngenxa yokuswela kwakhe, kodwa ngenxa yothando oluphuphumayo. Ukwenza abantu <b>babe ngabantu abanonxibelelwano noThixo</b> luthando ngokwako. Yaye nokungena kwesono kwakungaphandle kwecebo likaThixo losindiso (Efese 1:4-5). Umboniso wokuqala weBhayibhile asingomgwebo kodwa luthando."
+  },
+  {
+   "w": "“Ugxothwe waze wanikwa ukufa ngenxa nje yokutya isiqhamo esinye — uThixo akakhohlakali kakhulu?”",
+   "t": "Ukugxothwa e-Eden kwakungumgwebo nenceba kunye. Ukutya emthini wobomi uphile ngonaphakade kuloo meko yokwaphuka, yokwahlukana noThixo, kwakuya kuba kukubanjwa entlungwini ngonaphakade (Genesis 3:22). Ukuvumela ukufa kwavula indlela yokubuya, yaye kanye apho uThixo wathembisa umHlanguli (Genesis 3:15). Uthando lwaluselungaphakathi komgwebo."
+  },
+  {
+   "w": "“UAbraham wanyulwa ngenxa yokuba wayenokholo olukhulu — ababalisi beBhayibhile bonke ngamaqhawe okuziphatha okuhle?”",
+   "t": "UAbraham wakhe waxoka waza wathandabuza; uYakobi wayengumkhohlisi. UThixo akabizanga “abafanelekileyo” kodwa wabiza abanezithubeli, ngobabalo. Isizathu sasingekuko ukulunga kwabo kodwa luthando oluthembekileyo lukaThixo (Duteronomi 7:7-8)."
+  },
+  {
+   "w": "“Umthetho (iMithetho) asikoluvavanyo ekumele uluphumelele ukuze usindiswe?”",
+   "t": "UThixo wabasindisa <b>phambi</b> kokunika umthetho. NeMithetho eliShumi iqala ngentetho yosindiso: “Mna Ndikhoyo ndinguThixo wenu onikhulule ebukhobokeni eJiputa” (Eksodus 6:7). Umthetho asikuko “wugcine ukuze usindiswe,” kodwa sisikhokelo sothando sokuba abantu abasele besindisiwe baphile njani (Duteronomi 7:7-9). Ubabalo luhlala luqala; ukuthobela yimpendulo."
+  },
+  {
+   "w": "“Uloyiso lwaseKanan lwaluyimbubho engenanceba — ngoko uThixo weTestamente eNdala ngenene ukhohlakele.”",
+   "t": "Lo ngumcimbi onzima ongenakusonjululwa ngesivakalisi esinye. Kodwa iBhayibhile ayiwuvelisi njengogonyamelo olungenanjongo kodwa njengomgwebo emva kweenkulungwane zomonde ngakubo ububi obugqithisileyo (kuquka nokubingelela abantwana) (Genesis 15:16; Duteronomi 9:4-5; Levitikus 18:24-25). UThixo ucotha nokugweba, yaye wabamkela ngovuyo abo babuyela kuye — nokuba bezizizwe ezifana noRahabhi noRute (Yoshuwa 6:25; Rute 4:13-17)."
+  },
+  {
+   "w": "“UDavide wayeliqhawe elingenasithubeli — kungoko abizwa ngokuba ‘yindoda engokwentliziyo kaThixo.’”",
+   "t": "UDavide wakrexeza waza wabulala. “Indoda engokwentliziyo kaThixo” ayithethi engenasithubeli, kodwa ethetha lowo wayengasifihli isono sakhe — owaguqukayo ngokupheleleyo waza wahlala ebuyela kuThixo (iNdumiso 51). Uthando lukaThixo aluwalahli nawo lawo awa kabuhlungu."
+  },
+  {
+   "w": "“Umprofeti ngumvumisi oxela ikamva / uThixo weTestamente eNdala unomsindo kuphela.”",
+   "t": "Intliziyo yomprofeti asikuko “ukuxela ikamva” kodwa sisibongozo esibuhlungu sikaThixo: “Khaibuye.” Nezilumkiso zomgwebo azijongelanga ukutshabalalisa kodwa ukubuyisa abantu nokubasindisa — “Andivuyiswa kukufa kongendawo” (Hezekile 33:11)."
+  },
+  {
+   "w": "“Ukuthinjwa kungqina ukuba uThixo wamlahla ngokupheleleyo uSirayeli.”",
+   "t": "Ukuthinjwa kwakungekuko ukulahlwa kodwa kwakuluqeqesho noluhlambuluko ngakumntwana othandwayo (Hebhere 12:6). UThixo akazange ahambe; wayenoDaniyeli embindini wokuthinjwa waza wathembisa, “Ndiyazazi izicwangciso endinazo ngani — izicwangciso zoxolo, hayi ezobubi, ukuze ndininike ikamva nethemba” (Yeremiya 29:11)."
+  },
+  null,
+  {
+   "w": "“Ekubeni kungazange kubekho lizwi iminyaka engama-400, uThixo wayehambile okanye ephumla.”",
+   "t": "Ukuthula akukukungabikho. Wayengathethi nje, lo gama lonke wayehambisa ubukhosi, iilwimi, neendlela ukuze alungise indawo yokudlalela yosindiso. Ngomzuzu olelona thuli, uThixo wayesebenza nzima ngakumbi, ngothando (Galati 4:4)."
+  },
+  {
+   "w": "“UYesu wayengomnye nje wabafundisi abalungileyo bokuziphatha / umnqamlezo wawukukoyiswa okulusizi.”",
+   "t": "UYesu wazibhengeza ukuba unguThixo ngokwakhe (Yohane 8:58), yaye umnqamlezo wawungengozi okanye kukoyiswa kodwa luthando olwacwangciswayo. Akazange arhuqelwe apho ngenkani; wabubeka phantsi ubomi bakhe ngokwakhe (Yohane 10:18). “Akukho namnye unothando olungaphezu kolu, lokuba umntu abeke phantsi ubomi bakhe ngenxa yabahlobo bakhe” (Yohane 15:13)."
+  },
+  {
+   "w": "“Ibandla liklabhu yabantu abagqibeleleyo, okanye sisakhiwo nje.”",
+   "t": "Ibandla asilolubuntu “lwabangcwele abagqibeleleyo” kodwa <b>lwaboni abaxolelweyo</b>. Nompostile uPawulos wazibiza ngokuba “ngobalaseleyo kuzoni” (1 Timoti 1:15). Ibandla lokuqala laliphikisana laze lakhubeka nalo (IZenzo 6:1; 1 Korinte 1:11). Asiyondawo yokuqhayisa, kodwa ngabantu abadlulisela uthando abaluxhamlayo (Yohane 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Isono sokuqala — akukho namnye olilungisa",
+   "body": "Ingxaki asikuko “izenzo ezimbalwa ezimbi” kodwa yingcambu yentliziyo. Ukususela kuAdam, wonke umntu uzalwa ephantsi kwesono kwaye akanakufikelela kuThixo ngokwakhe.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Akukho namnye ulilungisa … Kaloku bonke bonile; bayalabalaba kubuqaqawuli ababulungiselelwe nguThixo."
+  },
+  {
+   "title": "Umthetho awunako ukundisindisa",
+   "body": "Umthetho asingoleli kodwa sisipili. Okukhona uzama nzima, kokukhona ubonisa ukuba usilela kangakanani. Injongo yawo kukusikhokelela kuKrestu.",
+   "vref": "Roma 3:20 · Galati 3:24",
+   "vtext": "Into eyenziwa ngumthetho kukwazisa abantu ngesono … umthetho wawusigcine lo gama angekafiki uKrestu, ukuze sigwetyelwe."
+  },
+  {
+   "title": "Ngobabalo — sisipho, hayi imigudu",
+   "body": "Usindiso asingomvuzo wokulunga okuziqokeleleyo, kodwa sisipho sasimahla kwabo bangakufanelekanga. Ngoko akukho mntu unokuziqhayisa.",
+   "vref": "Efese 2:8-9",
+   "vtext": "Nakhululwa ngesisa sikaThixo ngokholo; anikhululwanga ngemizamo yenu … akukho nto ubani angaziqhayisa ngayo."
+  },
+  {
+   "title": "Sigwetyelwa ngokholo",
+   "body": "Kungekuko ngokugcina umthetho, kodwa ngokukholwa kuYesu Krestu, sivakaliswa singamalungisa — sambathiswa kungekuko ubulungisa bethu kodwa obakhe.",
+   "vref": "Roma 5:1 · Galati 2:16",
+   "vtext": "Njengoko sikholwa, sígwetyelwe nguThixo … umntu akenziwa abe lilungisa nguThixo ngenxa yokwenza okufunwa ngumthetho, kuphela kungokuzinikela kuYesu Krestu."
+  },
+  {
+   "title": "IBhayibhile ikalatha kuYesu",
+   "body": "IBhayibhile asiyoncwadi yamadoda amakhulu okanye yokuzinceda. Ukususela kuGenesis kuse kwiSityhilelo, iphepha ngalinye lingqina ngomntu omnye — uYesu Krestu.",
+   "vref": "Yohane 5:39 · Luka 24:27",
+   "vtext": "Zona zingqina ngam … Wabachazela kuzo zonke iziBhalo iindawo ezithetha ngaye."
+  },
+  {
+   "title": "UBukumkani bukaThixo — umyalezo ophambili kaYesu",
+   "body": "Umxholo uYesu awawufundisa kunazo zonke. Ulawulo lukaThixo njengoKumkani lwangena kweli hlabathi noYesu luze lugqitywe ekubuyeni kwakhe. Ngomnqamlezo novuko lwakhe, uYesu nguKumkani wokwenene owoyisa isono, ukufa, noSathana.",
+   "vref": "Marko 1:15",
+   "vtext": "Lifikile ngoku ixesha. Luthwasile ulawulo lukaThixo. Guqukani, nikholwe kuzo ezi ndaba zimnandi."
+  },
+  {
+   "title": "IiNdaba eziLungileyo — yena wakugqiba konke",
+   "body": "Ityala lesono endingenako ukulihlawula, uYesu walihlawula esikhundleni sam emnqamlezweni, yaye ngokuvuka woyisa ukufa. Andiyami kwi“yenza oku” kodwa kwi“kugqityiwe.”",
+   "vref": "Yohane 19:30 · Roma 5:8",
+   "vtext": "Kugqityiwe … uKrestu asifele sisengaboni!"
+  }
+ ]
+}
