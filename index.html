@@ -118,8 +118,9 @@
   #langList .none{color:var(--muted);font-size:13px;padding:9px 11px}
   [dir="rtl"] .oneline{border-left:0;border-right:3px solid var(--c2);padding-left:0;padding-right:15px}
   [dir="rtl"] .next{flex-direction:row-reverse}
-  [dir="rtl"] .thread-line,[dir="rtl"] .love-note,[dir="rtl"] .m-row,[dir="rtl"] .faq-item summary{flex-direction:row-reverse;text-align:right}
-  [dir="rtl"] .faq-body,[dir="rtl"] details.more .body,[dir="rtl"] .meta-row{text-align:right}
+  [dir="rtl"] .note-h,[dir="rtl"] .faq-item summary{flex-direction:row-reverse}
+  [dir="rtl"] .faq-item summary{text-align:right}
+  [dir="rtl"] .faq-body,[dir="rtl"] details.more .body,[dir="rtl"] .meta-row,[dir="rtl"] .thread-line,[dir="rtl"] .love-note,[dir="rtl"] .m-row{text-align:right}
   [dir="rtl"] #langPanel{right:auto;left:10px}
 
   .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
@@ -189,12 +190,14 @@
   a.vlink:hover{color:var(--accent);text-decoration-color:var(--accent)}
   .verse::before{content:"“";font-family:var(--serif);position:absolute;top:0;left:12px;font-size:50px;color:var(--c2);opacity:.4}
 
-  .thread-line{display:flex;gap:11px;align-items:flex-start;margin-top:18px;padding:15px;border-radius:13px;
+  /* 공용 인사이트 카드(예수·사랑) — 헤더(아이콘+라벨) 위, 본문 전체폭 */
+  .note-h{display:flex;align-items:center;gap:8px;margin:0 0 7px;font-size:13.5px;font-weight:700}
+  .note-h .note-i{font-size:18px;line-height:1}
+  .note-b{margin:0;font-size:14px;line-height:1.65}
+  .thread-line{margin-top:14px;padding:14px 15px;border-radius:13px;
     background:rgba(233,185,73,.07);border:1px solid rgba(233,185,73,.22)}
   :root.sepia .thread-line{background:rgba(176,125,35,.08)}
-  .thread-line .t{font-size:20px;line-height:1}
-  .thread-line p{margin:0;font-size:14px}
-  .thread-line b{color:var(--accent)}
+  .thread-line .note-h b{color:var(--accent)}
 
   details.more{margin-top:16px;border:1px solid var(--line);border-radius:13px;background:var(--card);overflow:hidden}
   details.more summary{cursor:pointer;list-style:none;padding:13px 16px;font-size:14px;font-weight:600;
@@ -335,13 +338,12 @@
   :root.sepia .m-tag.right{color:#1a7a52}
 
   /* 멈추지 않는 사랑 (각 섹션) */
-  .love-note{display:flex;gap:11px;align-items:flex-start;margin-top:14px;padding:14px 15px;border-radius:13px;
+  .love-note{margin-top:14px;padding:14px 15px;border-radius:13px;
     background:linear-gradient(160deg,rgba(232,122,93,.15),var(--card));border:1px solid rgba(232,122,93,.28)}
   :root.sepia .love-note{background:linear-gradient(160deg,rgba(176,80,50,.12),var(--card))}
-  .love-note .lh{font-size:18px;line-height:1.25}
-  .love-note p{margin:0;font-size:14px;color:var(--ink)}
-  .love-note b{color:#ef9f7e}
-  :root.sepia .love-note b{color:#b0552c}
+  .love-note .note-h b{color:#ef9f7e}
+  .love-note .note-b{color:var(--ink)}
+  :root.sepia .love-note .note-h b{color:#b0552c}
 
   /* 이 콘텐츠에 대하여 */
   .about{padding:46px 0 40px;background:var(--bg2)}
@@ -968,8 +970,8 @@ function renderEpochs(pack){
           <div class="meta-row"><span class="k">${u.events}</span><p class="vv">${e.events}</p></div>
         </div>
         <div class="verse"><div class="q">${e.q}</div><div class="cite">${BOOKS[curCode]?e.cite:vlink(EP_REF[i],e.cite,curCode)}${ver}</div></div>
-        <div class="thread-line"><span class="t">🧵</span><p><b>${u.christLabel}</b> · ${e.christ}</p></div>
-        <div class="love-note"><span class="lh">💛</span><p><b>${u.loveLabel}</b> · ${pack.love[i]}</p></div>
+        <div class="thread-line"><p class="note-h"><span class="note-i">🧵</span><b>${u.christLabel}</b></p><p class="note-b">${e.christ}</p></div>
+        <div class="love-note"><p class="note-h"><span class="note-i">💛</span><b>${u.loveLabel}</b></p><p class="note-b">${pack.love[i]}</p></div>
         ${mis?`<div class="myth"><div class="m-row"><span class="m-tag wrong">${u.mythWrong}</span><p>${mis.w}</p></div><div class="m-row"><span class="m-tag right">${u.mythRight}</span><p>${mis.t}</p></div></div>`:''}
         <details class="more"><summary><span class="arr">▸</span> ${u.more}</summary><div class="body">${e.detail}</div></details>
         <div class="next">${e.next}</div>
