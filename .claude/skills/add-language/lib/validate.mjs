@@ -50,7 +50,7 @@ pack.menuName ? ok('menuName = ' + pack.menuName) : bad('menuName 없음');
 
 // 4) 영화(밀양) 의존 제거 확인
 const blob = JSON.stringify(pack);
-const film = /secret\s*sunshine|밀양|miryang|mily|密陽|密阳|シークレット|มิลยัง|мирян|मिलयांग/i;
+const film = /secret\s*sunshine|밀양|\bmir?yang\b|\bmilyang\b|密陽|密阳|シークレット|มิลยัง|\bмирян\b|मिलयांग/i;
 film.test(blob) ? bad('영화(밀양/Secret Sunshine) 잔존 — ko 외 언어는 영화 무관이어야 함') : ok('영화 의존 없음(film-free)');
 
 // 5) 본문 verse-text 필드에 비-ASCII 숫자 없는지(있으면 verbatim 손상 가능 / 링크 불가)

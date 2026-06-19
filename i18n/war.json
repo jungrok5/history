@@ -1,0 +1,343 @@
+{
+ "menuName": "Winaray",
+ "htmlLang": "war",
+ "dir": "ltr",
+ "brand": "An Biblia ha Usa nga Pag-iskrol",
+ "docTitle": "An Biblia ha Usa nga Pag-iskrol · Tikang ha Pagtuha tubtob ha Singbahan",
+ "share": {
+  "title": "An Biblia ha Usa nga Pag-iskrol",
+  "text": "Ha usa la nga pag-iskrol, hibaroi an dako nga istorya han Biblia — ngan kon kay ano nga kinmanhi hi Jesus."
+ },
+ "ui": {
+  "people": "Mga tawo",
+  "events": "Mga importante nga panhitabo",
+  "christLabel": "Nagtutudlok kan Jesus",
+  "loveLabel": "Gugma nga diri nasurender",
+  "mythWrong": "Komon nga sayop nga pagsabot",
+  "mythRight": "An kamatuoran",
+  "more": "Basaha pa",
+  "version": "(Samarenyo)"
+ },
+ "labels": {
+  "start": "Tinikangan",
+  "thread": "An istorya",
+  "gospel": "An Maupay nga Sumat",
+  "about": "Mahitungod"
+ },
+ "s": {
+  "ui.share": "↗ Ipaambit",
+  "ui.toast": "Nakopya na an link 📋",
+  "ui.footer": "An Biblia ha Usa nga Pag-iskrol · Mga sambit ha Biblia tikang ha Samarenyo",
+  "hero.kicker": "TIKANG HA PAGTUHA TUBTOB HA SINGBAHAN",
+  "hero.title": "An Biblia,<br><span class='em'>ha usa nga pag-iskrol</span>",
+  "hero.sub": "Ha usa la nga pag-iskrol, hibaroi an dako nga istorya han Biblia — ngan kon kay ano nga kinmanhi hi Jesus.",
+  "hero.cue": "Iskrol paubos<span>↓</span>",
+  "thread.eyebrow": "USA NGA TUDLING NGA NAGSUSUMAT HA BUG-OS NGA BIBLIA",
+  "thread.h2": "Ha kataposan, an Biblia usa la nga istorya",
+  "thread.flow": "<b>Saad</b><span class='arw'>→</span><b>Paghulat</b><span class='arw'>→</span><b>Katumanan</b>",
+  "thread.note": "An Dyos <b>nagsasaad</b> (an kasabotan), an mga tawo <b>naghuhulat</b> hin maiha nga panahon, ngan ha kataposan an ngatanan <b>natutuman</b> ngan nahihingpit kan Jesus. Sundon an 13 nga mga eksena ha ubos ha sugad nga agos — pitika an <b>“Basaha pa”</b> ha kada karta para han mas hilarom nga istorya.",
+  "gospel.eyebrow": "AN KAHULUGAN HINI NGA ISTORYA PARA HA “AKON”",
+  "gospel.h2": "An tinuod nga kasingkasing han Biblia",
+  "gospel.lead": "An Biblia <b>diri usa nga libro nga nasiring “magin maupay nga tawo.”</b>",
+  "gospel.sublead": "Ini an istorya kon paonan-o gintalwas han Dyos, <b>pinaagi la han grasya</b>, an mga makasasala nga diri makakatalwas han ira kalugaringon. Ha sentro nakatindog hi Jesu-Cristo.",
+  "gospel.mirror": "<h3>An waray kataposan nga siklo han Israel amo gud an ladawan han “akon”</h3><div class='cycle'><b>Pagsingba hin diosdios</b><span class='a'>→</span><b>Pag-antos</b><span class='a'>→</span><b>Pagtuaw</b><span class='a'>→</span><b>An Dyos nagtatalwas</b><span class='a'>→</span><b>Pagsingba liwat hin diosdios…</b></div><p>Tikang ha mga maghuhukom tubtob ha pagkabihag, ginbalik-balik han Israel ini nga siklo nga waray kataposan. Diri ini iginsurat han Biblia basi pakawang-pakawangan naton hira, “Pagkamakaluluoy nira.”</p><p>Usa ini nga <b>salaming</b>. An punto diri amo nga “ginbuhat ini han Israel” kundi nga <b>“ako amo man an sugad”</b> (1 Mga Taga-Corinto 10:11).</p><p>An <b>diosdios</b> diri la inukit nga rebulto. Amo ini <b>an bisan ano nga aton hinihigugma o ginsasaligan labaw pa han Dyos</b> — kwarta, kalamposan, pagdayaw, mga tawo, bisan an akon kalugaringon. Ngan an paggamit han Dyos sugad nga <b>galamiton basi makuha an akon karuyag</b> usa man nga pagsingba hin diosdios.</p><p class='punch'>Ha kataposan, an pinakahilarom nga diosdios amo “an akon kalugaringon, nga nalingkod ha trono han Dyos.”</p>",
+  "gospel.coreIntro": "Niyan, paonan-o gintatalwas han Dyos an sugad nga makasasala? Ini an kasingkasing han Maupay nga Sumat nga iginpapahayag han Biblia.",
+  "gospel.crux": "<p class='crux-lead'>An bug-os nga Biblia nagtutudlok ha usa la nga lugar.</p><p>An mga tawo diri makakaguba han siklo han sala ha ira kalugaringon, ngan waray bisan usa nga matadong. Sanglit may-ada kinahanglan <b>magbayad han kantidad ha ira baylo</b>.</p><p>Hi Jesus kinmanhi diri la basi maghatag hin maupay nga katutdoan. Tungod nga waray na lain nga paagi basi matalwas ako, <b>kinahanglan gud hiya kumanhi.</b></p><p class='crux-punch'>An angay unta nga ginbitay hadto nga kros amo <b>ako</b>.<br>Gindara ni Jesus <b>an akon sala</b> ngan ginraysang didto ha akon baylo.</p><div class='crux-verse'>“Kundi ginsamad hiya tungod han aton mga sala, ginhampak hiya tungod han karat-an nga aton ginbuhat. Natambal kita pinaagi han kastigo nga iya gin-antos.” — Isaias 53:5</div>",
+  "faq.h": "May-ada pa ba nasamok ha imo?",
+  "faq.q1": "<span class='arr'>▸</span> Sanglit an usa nga parapatay matuod la magtoo ngan makakadto ha langit, kundi an nagkinabuhi hin maupay nga diri natoo makakadto ha impyerno?",
+  "faq.a1": "<p>Makatadunganon nga pakiana. Kundi may-ada duha nga sayop nga pagsabot nga nakatago hini.</p><p><b>① An Biblia diri nagbabahin han mga tawo ha “maupay ngan maraot.”</b> An sukol diri amo an “mas maupay han imo katapit” kundi “an hingpit nga kabaraan han Dyos.” Ha iya atubangan, waray bisan usa nga “igo nga maupay” (Mga Taga-Roma 3:23). Sanglit diri ini “maupay nga tawo kontra parapatay” kundi sugad hin duha nga tawo nga pariho an makamaratay nga sakit — an usa nakarawat han tambal, an usa nagdumili hini, nasiring, “Mas maupay an akon kahimsog kaysa hito nga tawo.”</p><p><b>② Usa la nga butang an nagbubulag han langit ngan impyerno.</b> Diri an iskor han binuhatan, kundi <b>kon ginkarawat mo ba hi Jesu-Cristo sugad nga Ginoo ngan nasulbad na an imo problema ha sala.</b> An tawo nga an sala nasulbad pinaagi han dugo ni Cristo makakadto ha langit; an tawo nga waray makarawat ha iya, nga nahibilin an sala, diri. Waray maupay nga binuhatan nga makakasulbad para ha imo han problema ha sala mismo.</p><p>Sanglit an langit ngan impyerno diri “premyo para han maupay nga pamatasan” kundi usa nga butang han <b>relasyon kan Cristo</b>. Ngan an “pagtoo” diri amo an pag-uyon ha hunahuna, kundi an pagbalhin kon hin-o an nagdudumara han imo kinabuhi — an bisan hin-o nga tinuod nga nakarawat ha iya diri nagigin mapahitas-on kundi nagbabasol hin mas hilarom. Ha pagkatuod, an pagpakamatadong-matadong (“maupay nga tawo ako”) amo an pinakamakuri nga diosdios nga gugubaon, an nagpapahunahuna ha aton nga diri naton kinahanglan hi Cristo (Lucas 18:9-14).</p><p>Matin-aw an siring han Biblia: <b>“Diri ginhuhukman an bisan hin-o nga nasarig han Anak, kundi ginhukman na an bisan hin-o nga diri nasarig”</b> (Juan 3:18). An paghukom diri amo an “pag-iskor han imo kinabuhi human ka mamatay” kundi nadesisyonan na sumala han <b>kon ginkarawat mo ba hi Cristo</b>.</p><p class='faq-v'>Mga Taga-Roma 3:23 · Juan 3:18 · Mga Taga-Efeso 2:8-9 · Lucas 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Diri ba igo nga magin maupay nga tawo, bisan diri natoo kan Jesus?",
+  "faq.a2": "<p>Amo ini an pinakakomon nga hunahuna, kundi nasasayop ini kon ano gud an tinuod nga problema. Magsaysay kita hin ladawan.</p><p><b>Hunahunaa nga aada ka ha barko han mga pirata.</b> Bisan kon paonan-o mo kalimpyo an kubyerta, kalumo ha mga sakay, ngan kahalimbawa an imo kinabuhi, usa ka gihapon nga <b>pirata</b>, kay ginadara ka han barko ngadto han iya kakadtoan (an pantalan han paghukom). An problema diri amo an “iskor han imo binuhatan” kundi <b>“hain nga barko an imo gintatampo” (an imo pagkatawo)</b>.</p><p>Sanglit an Maupay nga Sumat diri nasiring “pangalimbasog hin mas maupay” kundi nasiring <b>“balhin hin barko.”</b> Lusad ha barko han sala ngan tabok ngadto kan Jesus — ngadto han bag-o nga pagkatawo nga <b>anak han Dyos</b>. Diri ini pagpataas han imo iskor pinaagi hin pangalimbasog, kundi pagsarig ha Iya nga nag-aabot han iya kamot ngan pagtabok ngadto han iya barko.</p><p>Ha pagkatuod, iginhuhulagway han Biblia an katalwasan sugad gud hini nga pagbalhin — <b>“Gintalwas kita niya tikang han gahom han kasisidman, ngan ginbalhin kita ngadto han ginhadian han iya hinigugma nga Anak”</b> (Mga Taga-Colosas 1:13).</p><p>Ayaw pagsayop pagsabot: <b>diri ini nangangahulogan nga waray pulos an pagkinabuhi hin maupay.</b> Kundi an pagkamaupay diri an “kondisyon” han katalwasan kundi an iya <b>bunga</b>. An nagbalhin hin barko nakikinabuhi hin maupay diri na tungod han kahadlok kundi tungod han <b>gugma han usa nga anak</b>.</p><p class='faq-v'>Mga Taga-Colosas 1:13 · Juan 1:12 · Juan 3:3 · Mga Taga-Efeso 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Kon an nakasala nasiring “ginpasaylo na ako han Dyos” ngan nabubuhi ha kamurayawan samtang an biktima nag-aantos pa gihapon — diri ba barato hito nga kapasayloan?",
+  "faq.a3": "<p>Makatadunganon an pakiana, ngan tinuod hito nga kasakit. Kundi an sugad nga pag-angkon diri amo an “kapasayloan han Biblia” kundi usa nga <b>pagtiko</b> hini.</p><p><b>① An kapasayloan han Dyos diri gud barato.</b> An sala diri gintatabonan sugad nga “waray nahitabo”; an Dyos mismo nagbayad han kantidad hini pinaagi han kinabuhi han iya Anak. An kros diri pamatuod nga ginhihimo nga magaan an sala, kundi nga an sala kabug-at gud — an pinakamahal nga kapasayloan ha kalibutan.</p><p><b>② An tinuod nga pagbasol may-ada bunga.</b> Kon an nakasala waray pagbati ha atubangan han biktima nga nasiring “ginpasaylo na ako han Dyos, mamurayawon ako,” diri ini pagbasol kundi usa nga pagsundog hini (Mateo 3:8). Ngan an kapasayloan butnga han usa nga tawo ngan han Dyos diri nagpapara han samad han biktima ni nagpipirit ha biktima nga magpasaylo.</p><p><b>③ An sala diri gud “pinabay-an la.”</b> Tagsa nga sala binayaran ha usa han duha nga lugar — <b>o gin-dara ito ni Cristo ha kros</b> (para han nasarig ha iya waray na paghukom, Mga Taga-Roma 8:1), <b>o gindara ito han nagdumili ha iya tubtob ha kataposan.</b> Sanglit waray “barato nga kapasayloan.” An nakasala may-ada man gihapon kaakohan ha balaod hini nga kalibutan (Mga Taga-Roma 13:1-4).</p><p><b>④ An mga luha han biktima diri gud gutiay ha atubangan han Dyos.</b> An Dyos natangis kaupod han mga natangis, naghihinumdom han tagsa nga luha, ngan papahiron niya ito ha kataposan (Ginpadayag 21:4). Sanglit diri kinahanglan dad-on han biktima nga nag-uusahan an bug-at han pagbulos, kundi mahimo niya ito itubyan ha matadong nga Dyos (Mga Taga-Roma 12:19 — “Ako an mabulos, ako an mabayad, nasiring an Ginoo”).</p><p class='faq-v'>Mateo 3:8 · Mga Taga-Roma 8:1 · Mga Taga-Roma 13:1-4 · Ginpadayag 21:4</p>",
+  "respond.h3": "Niyan — kumusta naman ako?",
+  "respond.sub": "Ini nga gugma diri impormasyon kundi usa nga <b>imbitasyon</b>. Kon an gugma nga ginraysang ha imo baylo nakatandog han imo kasingkasing, ig-ampo ini yana hin hinay, kada tudling.",
+  "respond.prayer": "<p>Dyos,</p><p>kinakarawat ko nga ako usa nga makasasala nga diri makakatalwas han akon kalugaringon.</p><p>Natoo ako nga hi Jesus namatay para ha akon ha kros ngan nabanhaw liwat.</p><p>Pasayloa an ngatanan ko nga mga sala, ngan tikang yana magin Ginoo han akon kinabuhi.</p><p>Karawata ako sugad nga imo anak, ngan tugoti ako nga magkinabuhi hin bag-o.</p><p class='amen'>Ha ngaran ni Jesus nag-aampo ako. Amen.</p>",
+  "respond.after": "Kon kinasingkasing mo ini nga gin-ampo, an Biblia nasiring nga <b>nahimo ka na nga anak han Dyos</b>. Diri ka na nag-uusahan — pamilnga an haranihon nga singbahan ngan maglakat kaupod han iba ha dalan han pagtoo.",
+  "respond.verse": "“May-ada kinmarawat ngan tinmoo ha iya sanglit ihinatag ha ira an katungod hin pagka anak han Dyos.” — Juan 1:12 · Mga Taga-Roma 10:9-10",
+  "closing.main": "Usa nga Dyos,<br>pinaagi hin usa nga istorya,<br>nagpipinamiling ha aton hin <em>gugma</em><br>nga diri gud nasurender.",
+  "closing.verse": "“Bisan pa an kamatayon o an kinabuhi … waray gud bisan ano ha ngatanan nga mga binuhat nga makakapabulag ha aton han gugma han Dyos pinaagi kan Cristo Jesus nga aton Ginoo.” — Mga Taga-Roma 8:38-39",
+  "closing.small": "Hini nga istorya, an Balaod, an mga libro han siday, an mga manaragna, ngan an mga surat nagdudugang han “unod.”<br>Tikang yana, bisan ano nga libro an imo buksan, makikita mo kon hain ka ha istorya.",
+  "closing.share": "↗ Ipaambit ini nga istorya",
+  "about.line": "Iginbasar ha <b>kasaysayan-katubsanan, ebanghelikal ngan repormado</b> nga panhunahuna nga iginpapakigbahin han kadam-an han Koreano nga Protestante nga singbahan.",
+  "about.contact": "Mga pakiana · komento — <a id='contact' class='mail'>Mag-email ha amon</a>"
+ },
+ "epochs": [
+  {
+   "tag": "DAAN NGA TUGON · TINIKANGAN",
+   "title": "Pagtuha",
+   "date": "Ha tinikangan",
+   "one": "Gintuha han Dyos an kalibutan nga “maupay gud.”",
+   "people": "Dyos; hi Adan ngan hi Eva",
+   "events": "Unom ka adlaw nga pagtuha, an tawo ginhimo sugad han ladawan han Dyos, an pagpahuway ha Sabbath",
+   "q": "Ha tinikangan, han pagtuha han Dyos han bug-os nga kalibutan ug han mga butang ha kalangitan",
+   "cite": "Genesis 1:1",
+   "christ": "An kalibutan ginhimo pinaagi han “Pulong.” An Ebanghelyo ni Juan nagpapahayag nga ini nga Pulong amo gud hi Jesus (Juan 1:1-3).",
+   "detail": "<p>An Biblia diri natikang hin pilosopiya nga argumento kundi hin usa nga pahayag: <b>“Ha tinikangan, an Dyos…”</b> An kalibutan diri usa nga aksidente kundi an buhat hin usa nga personal nga Dyos.</p><ul><li><b>An ladawan han Dyos</b> · ha ngatanan nga binuhat, an tawo la an ginhimo nga kapariho han Dyos — basi kilal-on hiya ngan ataman an kalibutan.</li><li><b>Pagpahuway</b> · an pagpahuway ha ikapito nga adlaw nagpapakita nga an ngatanan kompleto na ngan ha kamurayawan (shalom): “maupay ini.”</li><li><b>Eden</b> · an kalibutan antes ito naguba, diin an Dyos ngan an tawo naglalakat nga magkaupod.</li></ul>",
+   "next": "Kundi ini nga kahingpitan tikang na maguba…"
+  },
+  {
+   "tag": "DAAN NGA TUGON · NATIKANG AN PROBLEMA",
+   "title": "An Pagkahulog",
+   "date": "Ha tinikangan",
+   "one": "Sinmulod an sala, ngan naputol an kasumpay butnga han tawo ngan han Dyos.",
+   "people": "Hi Adan ngan hi Eva; an halas (Satanas)",
+   "events": "Pagkaon han igdiri nga bunga, pagpaiwas tikang ha Eden, pag-abot han kamatayon ngan kabudlay",
+   "q": "Hihimoon ko nga magkaaway kamo—hi ikaw ngan han babaye; dayuday magkaaway an iya ngan an imo mga tulin. An iya mga tulin amo an madugmok han imo ulo",
+   "cite": "Genesis 3:15",
+   "christ": "An siyahan nga saad han Maupay nga Sumat, iginhatag dayon human han Pagkahulog: an “tulin han babaye” amo an madugmok han ulo han halas — ngan amo ito hi Jesus (Genesis 3:15; Mga Taga-Roma 16:20; Mga Taga-Galacia 4:4).",
+   "detail": "<p>Pinaagi han pagsupak nga magpangalimbasog nga “magin pariho han Dyos,” sinmulod an sala ha kalibutan. An resulta diri la usa nga naguba nga balaod kundi usa nga <b>naguba nga relasyon</b>.</p><ul><li><b>Naguba nga mga kasumpay</b> · ha Dyos (pagtago), ha usa kag usa (pagbasol), ngan ha kinaiyahan (mga tunok ngan kabudlay).</li><li><b>Kamatayon</b> · an pahamangno nga “mamamatay ka gud” nahimo nga tinuod.</li><li><b>Genesis 3:15</b> · kundi ha butnga han paghukom, an saad han katalwasan iginhatag siyahan. Gintatawag ini han mga eskolar nga <b>protoevangelium (an siyahan nga ebanghelyo)</b>.</li></ul>",
+   "next": "Yana tinmawag an Dyos hin usa la nga tawo basi tikangan an katalwasan…"
+  },
+  {
+   "tag": "DAAN NGA TUGON · AN SAAD",
+   "title": "An mga Patriyarka",
+   "date": "mga 2000 A.K.",
+   "one": "Nagsaad an Dyos kan Abraham: “Magigin ka usa nga kanal han bendisyon.”",
+   "people": "Abraham · Isaac · Jacob · Jose",
+   "events": "An kasabotan kan Abraham, an paghatag kan Isaac, an napulo'g duha nga anak ni Jacob, hi Jose nagin gobernador han Ehipto",
+   "q": "Tatagan ko ikaw hin damo nga mga tulin, ngan mahihimo hira nga usa nga dako nga nasod… Ngan pinaagi ha imo pagpapakaupayon ko an ngatanan nga mga nasod.",
+   "cite": "Genesis 12:2-3",
+   "christ": "An saad nga “an ngatanan nga mga nasod pagbebendisyonan” natuman kan Jesus, an tulin ni Abraham (Mga Taga-Galacia 3:16).",
+   "detail": "<p>Tinikangan han Dyos sulbaron an problema han bug-os nga katawhan pinaagi hin pagtawag hin usa la nga tawo, hi <b>Abraham</b>. An sentro hini amo an <b>kasabotan (an saad)</b> — usa nga dako nga nasod, usa nga tuna, ngan “bendisyon para han ngatanan nga mga nasod.”</p><ul><li><b>Pagtoo</b> · tinmoo hi Abraham han diri nakikita nga saad, ngan gin-isip ini ha iya sugad nga pagkamatadong (Genesis 15:6).</li><li><b>Isaac ngan Jacob</b> · an saad iginpasa ngadto han masunod nga kahenerasyon; hi Jacob (Israel) amay han napulo'g duha nga tribu.</li><li><b>Jose</b> · iginbaligya han iya kabugtoan kundi iginbayaw ngadto han gahom — “ginhimo ini han Dyos nga kaupayan” (Genesis 50:20).</li></ul>",
+   "next": "Pagsunod kan Jose, naglusad an pamilya ngadto ha Ehipto — ngan nahimo nga oripon…"
+  },
+  {
+   "tag": "DAAN NGA TUGON · KATUBSANAN",
+   "title": "Eksodo ngan Kamingawan",
+   "date": "mga 1446 A.K.",
+   "one": "Gintalwas han Dyos an oripon nga katawhan ngan ginhimo niya hira nga iya kalugaringon.",
+   "people": "Moises, Aaron, an Paraon",
+   "events": "An napulo nga mga kalamidad, an Paskua, an pagtabok han Pula nga Dagat, an Napulo nga Sugo ha Sinai, an tabernakulo, 40 ka tuig ha kamingawan",
+   "q": "Hihimoon ko kamo nga akon kalugaringon nga mga tawo, ngan magigin Dyos ako niyo.",
+   "cite": "Exodo 6:7",
+   "christ": "An Paskua — diin an dugo han kordero nagpaiwas han kamatayon — nagtutudlok kan Jesus, “an aton kordero han Paskua,” iginraysang para ha aton (1 Mga Taga-Corinto 5:7).",
+   "detail": "<p>An pinakadako nga pagtalwas han Daan nga Tugon. An Israel nga oripon hadto gintalwas pinaagi han gahom han Dyos ngan ginhimo nga iya <b>katawhan</b>.</p><ul><li><b>An Paskua</b> · an balay nga may dugo han kordero ha pultahan gin-iwasan han kamatayon — an padron han ngatanan nga sunod nga halad.</li><li><b>An Pula nga Dagat</b> · katalwasan diin nawawara an dalan; an “pagtabok” nahimo nga simbolo han bag-o nga tikang.</li><li><b>An kasabotan ha Sinai</b> · pinaagi han mga Sugo nahibaro hira kon paonan-o mabuhi sugad nga katawhan han Dyos.</li><li><b>An tabernakulo</b> · usa nga mabalhin-balhin nga santuaryo diin an Dyos naukoy ha butnga han iya katawhan — usa nga panimtaman han “Immanuel.”</li><li><b>40 ka tuig</b> · an pagsupak nagpalaag hin usa nga kahenerasyon ha kamingawan, kundi an Dyos nagpabilin nga haranihon pinaagi han manna ngan han haligi nga dampog ngan kalayo.</li></ul>",
+   "next": "Nakatindog ha ligid han tuna nga iginsaad, nag-aandam hira hin pagsulod…"
+  },
+  {
+   "tag": "DAAN NGA TUGON · PAGHUSAY",
+   "title": "Pagsakop ngan mga Maghuhukom",
+   "date": "mga 1400–1050 A.K.",
+   "one": "Nakarawat nira an tuna, kundi waray hadi, nagbuhat an kada tawo han iya karuyag.",
+   "people": "Josue; mga maghuhukom sugad nira Gideon ngan Samson; Ruth",
+   "events": "An pagkahulog han Jerico, an pag-istar ha Canaan, an gin-uutro nga siklo han sala–paghukom–katalwasan",
+   "q": "Waray hadi didto ha Israel hadto nga panahon. Nagbuhat an kada tawo han bisan ano nga iya karuyag.",
+   "cite": "Mga Maghurukom 21:25",
+   "christ": "Tikang ha katulinan ni Ruth nagtikang hi David, ngan tikang ha katulinan ni David nagtikang hi Jesus (Mateo 1). Bisan ha kagubot, nagpadayon an kahoy han pamilya han Mesias.",
+   "detail": "<p>Ilarom kan Josue sinmulod hira ha tuna nga iginsaad, kundi human mag-istar madali hira nga nalimot han Dyos. An Mga Maghuhukom amo an gin-uutro nga padron.</p><ul><li><b>An paubos nga siklo</b> · sala → pagpig-ot → pagtuaw → nagtatalwas an maghuhukom → sala liwat. Nagtitikaraot ini.</li><li><b>An mga maghuhukom</b> · Gideon, Samson, Debora — temporaryo nga mga magtatalwas, bayani kundi may damo nga sayop.</li><li><b>Ruth</b> · usa nga masilaw nga istorya han pagkamatinumanon ha madulom nga panahon; usa nga dumuruong nga babaye sinmulod ha katulinan ni David (ngan ni Jesus).</li></ul>",
+   "next": "Nagtuaw an mga tawo, “Tagi man kami hin hadi!”…"
+  },
+  {
+   "tag": "DAAN NGA TUGON · BULAWANON NGA PANAHON",
+   "title": "An Naghiusa nga Ginhadian",
+   "date": "mga 1050–930 A.K.",
+   "one": "Nagsaad an Dyos kan David: “An imo trono magpapadayon ha kadayonan.”",
+   "people": "Saul · David · Salomon",
+   "events": "An siyahan nga hadi nga hi Saul, hi David ngan hi Goliat, an kasabotan kan David, gintukod ni Salomon an Templo",
+   "q": "Dayuday magkakamay-ada mga tulin ngan magpapadayon an imo ginhadian. Diri gud matatapos an paghadi han imo katulinan.",
+   "cite": "2 Samuel 7:16",
+   "christ": "An “waray kataposan nga trono” natuman kan Jesus, an anak ni David — amo nga gintawag hiya nga “Anak ni David” (Lucas 1:32-33; Mateo 1:1).",
+   "detail": "<p>An kataas-taasan han Israel, pinangunahan han tulo nga hadi.</p><ul><li><b>Saul</b> · an siyahan nga hadi nga ginpangaro han mga tawo; maupay an tinikangan kundi nagunguba han pagsupak.</li><li><b>David</b> · “usa nga tawo nga uyon ha kasingkasing han Dyos.” Ginpilde niya hi Goliat ngan ginhimo niya an Jerusalem nga kapital. Nakasala hiya hin dako (Batsheba) kundi nagbasol hiya hin kinasingkasing (Mga Salmo 51).</li><li><b>An kasabotan kan David (2 Samuel 7)</b> · nagsaad an Dyos nga itutukod an dinastiya ni David ha kadayonan — an pinakaimportante nga gamot han paglaom ha Mesias.</li><li><b>Salomon</b> · ha kataas-taasan han kinaadman ngan bahandi gintukod niya an <b>Templo</b>, kundi ha kataposan han iya kinabuhi nagdumalin hiya ha mga diosdios.</li></ul>",
+   "next": "Human kan Salomon, nabahin an ginhadian ha duha…"
+  },
+  {
+   "tag": "DAAN NGA TUGON · PAGLUYA",
+   "title": "An Nabahin nga Ginhadian",
+   "date": "930–586 A.K.",
+   "one": "Nabahin ngadto ha salatan (Juda) ngan amihanan (Israel), ngan naghinay-hinay pagkadaut.",
+   "people": "An mga hadi han duha nga ginhadian; mga manaragna sugad nira Elias, Isaias, Jeremias",
+   "events": "Nabahin an ginhadian, naglarom an pagsingba hin diosdios, nagpahamangno an mga manaragna",
+   "q": "Tikang hito nga panahon, sinmupil na han panimalay ni David an mga tawo han amihanan nga ginhadian han Israel.",
+   "cite": "1 Hadi 12:19",
+   "christ": "Hini nga panahon iginsasaysay han mga manaragna an tiabot nga Mesias hin mas matin-aw pa (Isaias 9:6; Isaias 53).",
+   "detail": "<p>Han panahon han anak ni Salomon nabahin an nasod: <b>an amihanan nga ginhadian han Israel</b> (10 nga tribu, kapital Samaria) ngan <b>an salatan nga ginhadian han Juda</b> (2 nga tribu, kapital Jerusalem).</p><ul><li><b>Israel (amihanan)</b> · an ngatanan nga hadi nag-alagad ha mga diosdios; nahulog ito ha Asiria han 722 A.K.</li><li><b>Juda (salatan)</b> · nagpadayon an katulinan ni David, may pipira nga maupay nga hadi sugad nira Ezequias ngan Josias, kundi ha kabug-osan nagluya.</li><li><b>An mga manaragna</b> · Elias, Amos, Isaias, Jeremias nagtuaw “bumalik kamo!” An tagna mahitungod han Mesias nakaabot dinhe han pinakaharog nga punto (an “nag-aantos nga surugoon” ha Isaias 53).</li></ul>",
+   "next": "Ha kataposan inmabot an iginpahamangno nga paghukom — gindara hira nga bihag…"
+  },
+  {
+   "tag": "DAAN NGA TUGON · PAGHUKOM",
+   "title": "An Pagkabihag",
+   "date": "722 / 586 A.K.",
+   "one": "Nahulog an nasod ngan gindara an mga tawo ngadto ha lugar han iba.",
+   "people": "Daniel, Ezequiel, Nabucodonosor",
+   "events": "Nahulog an Israel ha Asiria (722); nahulog an Juda ha Babilonia ngan ginguba an Templo (586)",
+   "q": "Nanlingkod ngan nagtangis kami ha ligid han mga salog han Babilonia, dida han amon paghinumdom han Sion.",
+   "cite": "Mga Salmo 137:1",
+   "christ": "Ha kahiladman han kasubo, nagsaad hi Jeremias hin “bag-o nga kasabotan” (Jeremias 31:31) — an mismo nga kasabotan nga ginsantipikar ni Jesus ha Kataposan nga Panihapon.",
+   "detail": "<p>Natuman an mga pahamangno. Nasunog an Templo ngan gindara an mga tawo ngadto ha Babilonia — nawad-an han tuna, han hadi, ngan han Templo: an pinakaubos nga punto.</p><ul><li><b>Duha nga pagkahulog</b> · Israel (Asiria, 722 A.K.) ngan Juda (Babilonia, 586 A.K.).</li><li><b>Daniel</b> · usa nga halimbawa han pagtoo bisan ha pagano nga korte (an lungib han mga liyon); nakita niya an mga bisyon han tiabot nga “waray kataposan nga ginhadian.”</li><li><b>Usa nga silaw han paglaom</b> · an bisyon ni Ezequiel han mga uga nga tul-an nga nabuhi (Ezequiel 37) ngan an “bag-o nga kasabotan” ni Jeremias nagtutudlok hin tidaraon ha kasisidman.</li></ul>",
+   "next": "Kapitoan ka tuig an linmabay, gin-abrihan han Dyos an dalan — pinmauli hira…"
+  },
+  {
+   "tag": "DAAN NGA TUGON · PAGPAHIULI",
+   "title": "An Pagbalik",
+   "date": "538–430 A.K.",
+   "one": "Pinmauli hira ngan gintukod liwat an Templo ngan an mga kuta.",
+   "people": "Esdras, Nehemias, Ester, Zorobabel",
+   "events": "Pagbalik pinaagi han mando ni Ciro, pagtukod liwat han Templo, pagtukod liwat han mga kuta han Jerusalem, pagpahiuli han Pulong",
+   "q": "Magpapakusog ha iyo an kalipay nga ihinahatag ha iyo han Ginoo.",
+   "cite": "Nehemias 8:10",
+   "christ": "Hi Malaquias, an kataposan nga libro han Daan nga Tugon, nagtatapos hin pagtagna hin usa nga mensahero nga mag-aandam han dalan han Mesias: “Susugoon ko an akon magsarangyaw” (Malaquias 3:1).",
+   "detail": "<p>Pinaagi han mando han Persyano nga hadi nga hi Ciro (538 A.K.) nagtikang an pagbalik. Ha tulo nga balod pinmauli hira ngan gintukod liwat an naguba.</p><ul><li><b>Zorobabel</b> · gintukod liwat an Templo (natapos 516 A.K.).</li><li><b>Esdras</b> · gintutdoan liwat an Pulong ngan ginbuhi liwat an pagtoo.</li><li><b>Nehemias</b> · gintukod liwat an mga kuta han Jerusalem ha 52 ka adlaw.</li><li><b>Ester</b> · gintalwas an mga Judiyo ha Persya tikang ha kalaglagan — “para hini nga panahon.”</li><li><b>Nagpapadayon nga hidlaw</b> · nakatindog an Templo, kundi waray hadi nga sugad kan David. Naghuhulat an mga tawo han Mesias.</li></ul>",
+   "next": "Ngan niyan… sugad nga naghilom an langit, linmabay an 400 ka tuig."
+  },
+  {
+   "tag": "BUTNGA HAN MGA TUGON · PAG-ANDAM HAN ENTABLADO",
+   "title": "An Mahilom nga mga Tuig",
+   "date": "mga 430–4 A.K.",
+   "one": "400 ka tuig nga waray tingog han manaragna — kundi hilom nga gin-aandam an entablado.",
+   "people": "Alejandro nga Bantogan, an mga Macabeo, Roma",
+   "events": "Persya → Gresya → kagawasan han mga Macabeo → pagdumara han Roma",
+   "q": "Kundi han pag-abot na han igo nga panahon, ginpakanhi han Dyos an iya kalugaringon nga Anak. Kinmanhi hiya usa nga anak hin tunan-on nga iroy",
+   "cite": "Mga Taga-Galacia 4:4",
+   "christ": "Ini ngatanan nga “pag-andam han entablado” amo an Dyos nga nagbubuhat basi kumanhi hi Jesus ha eksakto gud nga “igo nga panahon.”",
+   "detail": "<p>Tikang kan Malaquias tubtob han Bag-o nga Tugon, mga 400 ka tuig an linmabay nga waray bag-o nga Kasuratan. Kundi ha luyo han kasaysayan, gin-aandam han Dyos an dalan para han Maupay nga Sumat.</p><ul><li><b>Nagbabalyo an mga imperyo</b> · Persya → Gresya (Alejandro, 333 A.K.) → an mga Tolomeo ngan Seleucida → an rebelyon han mga Macabeo (167 A.K.) → Roma (63 A.K.).</li><li><b>Griyego</b> · an pagsakop ni Alejandro naghimo han Griyego nga komon nga yinaknan; an Daan nga Tugon ginhubad ngadto ha Griyego (an Septuagint), nag-andam han dalan basi madali magsarang an Maupay nga Sumat.</li><li><b>Mga dalan ngan kamurayawan han Roma</b> · an maupay nga mga dalan ngan an “Pax Romana” nahimo nga haywey han misyon.</li><li><b>Mga sinagoga ngan mga partido</b> · nagrarom an pagtutdo ha sinagoga; tinmindog an mga Pariseo ngan Saduceo; ngan <b>an pagpinaghulat han Mesias</b> nahimsog.</li></ul>",
+   "next": "Niyan naguba an kahilom — ha kataposan, kinmanhi hiya."
+  },
+  {
+   "tag": "BAG-O NGA TUGON · KATUMANAN",
+   "title": "Pag-abot ni Jesus",
+   "date": "mga 4 A.K.–30 P.K.",
+   "one": "An iginsaad nga Mesias kinmanhi, namatay, ngan nabanhaw liwat.",
+   "people": "Jesus, an napulo'g duha nga disipulo, Juan an Bautista",
+   "events": "An pagpakatawo, an iya pagministeryo ngan pagtutdo ngan mga milagro, an kamatayon ha kros, an pagkabanhaw ha ikatulo nga adlaw",
+   "q": "Nahimo nga tawo an Pulong, ngan puno hin grasya ngan kamatuoran, nag-ukoy dinhe ha aton.",
+   "cite": "Juan 1:14",
+   "christ": "An tulin han babaye (eksena 2), an bendisyon ni Abraham (3), an kordero han Paskua (4), an waray kataposan nga hadi ni David (6), an bag-o nga kasabotan (8) — natuman ngatanan ha usa nga tawo, hi Jesus: an aton tinuod nga Manaragna, Saserdote, ngan Hadi.",
+   "detail": "<p>Naguba an kahilom; inmabot an Iginsaad. An upat nga Ebanghelyo nagsasaksi han kinabuhi, kamatayon, ngan pagkabanhaw ni Jesus tikang ha upat nga anggulo.</p><ul><li><b>Pagpakatawo</b> · an Dyos nahimo nga tawo (Immanuel, “an Dyos kaupod naton”), ha ubos nga lugar han Bethlehem.</li><li><b>Ministeryo</b> · gintutdoan niya an ginhadian han Dyos, ginpapaupay niya an mga masakit, gintatawag an mga makasasala. “An nakakita ha akon nakakita na han Amay.”</li><li><b>An kros</b> · binayaran niya ha aton baylo an kantidad han sala ngan kamatayon nga dinara han Pagkahulog (eksena 2). An tinuod nga kordero han Paskua.</li><li><b>Pagkabanhaw</b> · ha pagbangon ha ikatulo nga adlaw, ginguba niya an gahom han sala, kamatayon, ngan Satanas — bisan ha kros “ginhukasan ni Cristo hin gahom an espirituhanon nga mga punoan ngan mga pagburot-an … pinaagi hin pagtugwayi ha ira nga sugad hin mga bihag” (Mga Taga-Colosas 2:15).</li></ul><p>Sanglit hi Jesus amo an aton <b>tinuod nga Manaragna</b> (nagpapakita han dalan ngadto han Dyos), an aton <b>tinuod nga Saserdote</b> (nagbabayad han sala pinaagi han iya kalugaringon nga lawas), ngan an aton <b>tinuod nga Hadi</b> (nagpipilde han sala, kamatayon, ngan Satanas ngan naghahadi ha kadayonan).</p>",
+   "next": "An nabanhaw nga Jesus nagsusugo han iya mga disipulo ngadto ha kalibutan…"
+  },
+  {
+   "tag": "BAG-O NGA TUGON · PAGSARANG",
+   "title": "An Tinikangan han Singbahan",
+   "date": "mga 30 P.K.–",
+   "one": "Kinmanhi an Espiritu, ngan nagsarang an Maupay nga Sumat tubtob ha mga sidsid han kalibutan.",
+   "people": "Pedro, Pablo, an una nga singbahan",
+   "events": "An pagbubo han Espiritu ha Pentecostes, natawo an singbahan, nagsarang an Maupay nga Sumat tikang ha Jerusalem ngadto ha Roma pinaagi han pagtimaraot",
+   "q": "Kundi kon kumunsad na ha iyo an Espiritu Santo, mapupuno kamo hin gahom ngan magigin mga saksi ko kamo … ngan ha bug-os nga kalibutan.",
+   "cite": "Mga Buhat 1:8",
+   "christ": "Ini nga istorya nagpapadayon pa gihapon yana. An Biblia natatapos hin pagsaad nga hi Jesus mabalik liwat ngan hihimoon niya nga bag-o an ngatanan nga butang (Ginpadayag 21).",
+   "detail": "<p>Human kumayab hi Jesus, kinmanhi an iginsaad nga Espiritu ha Pentecostes ngan natawo an singbahan. Nagsarang an Maupay nga Sumat hin makusog.</p><ul><li><b>Pentecostes</b> · ginhimo han Espiritu an mahadlukon nga mga disipulo nga maisog nga mga saksi.</li><li><b>Pedro</b> · iginsangyaw an Maupay nga Sumat ngadto han mga Judiyo ha Jerusalem.</li><li><b>Pablo</b> · tikang ha paratimaraot ngadto ha apostol, nagtukod hin mga singbahan ha bug-os nga kalibutan han mga Hentil ngan nagsurat han mga surat.</li><li><b>Ngadto ha mga sidsid han kalibutan</b> · Jerusalem → Judea → Samaria → Roma. An saad kan Abraham mahitungod han “ngatanan nga mga nasod” nahimo nga tinuod.</li><li><b>Ngan kita</b> · diri natatapos an istorya; nagpapadayon ngadto han pagbalik ni Jesus ngan han bag-o nga langit ngan bag-o nga tuna.</li></ul>",
+   "next": "Kundi diri natatapos an istorya dinhe…"
+  },
+  {
+   "tag": "BAG-O NGA TUGON · KATUMANAN HAN NGATANAN",
+   "title": "An Pagpahiuli",
+   "date": "Tidaraon pa",
+   "one": "Mabalik liwat hi Jesus ngan hihimoon niya nga bag-o an ngatanan nga butang.",
+   "people": "An nabalik nga Jesus; an ngatanan nga mga nasod",
+   "events": "An ikaduha nga pag-abot, an kataposan nga paghukom, an pagtapos han sala·kamatayon·luha, an bag-o nga langit ngan bag-o nga tuna",
+   "q": "Papahiron niya an ngatanan nga mga luha ha ira mga mata. Waray na kamatayon, waray na kasubo, pagtangis, o kabidoan.",
+   "cite": "Ginpadayag 21:4",
+   "christ": "An Eden han siyahan nga pagtuha ginpahiuli ha kataposan sugad nga an “Bag-o nga Jerusalem.” An Dyos naukoy kaupod han iya katawhan ha kadayonan — an kahingpitan han Immanuel (Ginpadayag 21:3; Mateo 1:23).",
+   "detail": "<p>An Biblia diri natatapos ha panahon han singbahan. An kataposan nga libro hini, an Ginpadayag, nagpapakita kan Jesus nga <b>mabalik liwat</b> basi hingpiton an ngatanan.</p><ul><li><b>An ikaduha nga pag-abot</b> · an iginsaad nga Hadi mabalik nga may himaya.</li><li><b>An kataposan nga kadaugan</b> · an Satanas ngan an kamatayon ginlaglag ha kadayonan, ngan hi Cristo naghahadi sugad nga Hadi han mga hadi (1 Mga Taga-Corinto 15:25-26; Ginpadayag 20:10).</li><li><b>Paghukom ngan pagkabanhaw</b> · an tagsa nga sayop gintatadong, ngan an mga patay ginbabanhaw.</li><li><b>Bag-o nga langit ngan bag-o nga tuna</b> · an sala, kamatayon, luha, ngan kasakit nawawara ha kadayonan (Ginpadayag 21:4).</li><li><b>Ginpahiuli nga Eden</b> · ha usa nga “Bag-o nga Jerusalem” nga mas maupay kaysa tinikangan, an Dyos naukoy kaupod han iya katawhan ha kadayonan — an kakadtoan nga gintutudlok han bug-os nga Biblia.</li></ul><p>Sanglit yana an panahon han <b>“nahimo na, kundi diri pa hingpit”</b>: kan Jesus an katalwasan <b>nahimo na</b>, kundi an kahingpitan hini <b>ginhuhulat pa</b>.</p>",
+   "next": "Niyan, ano an kahulugan hini ngatanan nga istorya para ha “akon”?"
+  }
+ ],
+ "love": [
+  "An istorya natikang diri hin paghukom kundi hin usa nga kalibutan nga gintuha tungod han nag-aawas nga gugma.",
+  "Han makasala an tawo, dida dayon nagsaad an Dyos hin katalwasan.",
+  "Gin-una han Dyos pagpamiling an diri takos, gintawag hiya ha iya ngaran, ngan ginhimo nga kanal han bendisyon.",
+  "Ginbati niya an pag-agulo han oripon nga katawhan ngan kinmunsad hiya mismo basi talwason hira.",
+  "Bisan ginluiban hiya hin damo nga beses, kada pagtuaw nira nagpadara hiya hin magtatalwas ngan gin-alsa hira liwat.",
+  "Bisan an nahulog nga hi David waray niya isalikway; pinaagi ha iya nagsaad hiya hin waray kataposan nga Hadi.",
+  "Ngadto han katawhan nga tinmalikod ha iya, padayon hiya nga nagpadara hin mga manaragna, nag-aaro, “Bumalik kamo.”",
+  "Bisan ngadto ha pinakamadulom nga tuna han pagkabihag kinmunsad hiya kaupod nira, ngan nagsaad hiya hin pagpahiuli.",
+  "Bisan ngadto han katawhan nga napakyas hin balik-balik, waray niya bawia an iya saad, kundi gin-alsa hira liwat.",
+  "Bisan ha 400 ka tuig nga kahilom, diri kinikit-an, gin-aandam niya an dalan han katalwasan.",
+  "Han mga makasasala pa kita, ginpadara niya an iya Anak ngan igintubyan an iya kinabuhi.",
+  "An gugma nga aton ginkarawat, iginpapadara na niya yana basi mag-awas ngadto han bug-os nga kalibutan.",
+  "Ha kataposan papahiron niya an ngatanan nga luha ngan hihimoon niya nga bag-o an ngatanan nga butang tungod han gugma."
+ ],
+ "mis": [
+  {
+   "w": "“Kay ano nga ginhimo han Dyos an usa nga binuhat nga makakasala? Diri ba mas maupay kon waray na la kita ginhimo?”",
+   "t": "Gintuha han Dyos an kalibutan ngan an tawo diri tungod hin kakulang kundi tungod han nag-aawas nga gugma. An paghimo han tawo sugad nga <b>persona nga makakarelasyon han Dyos</b> usa na ha iya kalugaringon nga gugma. Ngan bisan an pagsulod han sala waray ha luwas han plano han katalwasan han Dyos (Mga Taga-Efeso 1:4-5). An siyahan nga eksena han Biblia diri paghukom kundi gugma."
+  },
+  {
+   "w": "“Ginpaiwas ngan bisan ginhatagan hin kamatayon tungod la han pagkaon hin usa nga bunga — diri ba sobra kabangis an Dyos?”",
+   "t": "An pagpaiwas tikang ha Eden paghukom ngan, ha pariho nga panahon, kalooy. Kon, nahibulag ha Dyos ngan ha sugad nga naguba nga kahimtang, an tawo kumaon han kahoy han kinabuhi ngan mabuhi ha kadayonan, masisirotan hiya ha pag-antos ha kadayonan (Genesis 3:22). An pagtugot han kamatayon nag-abri han dalan pabalik; ngan dida dayon nagsaad an Dyos hin usa nga Magtatalwas (Genesis 3:15). Aada na an gugma ha sulod han paghukom."
+  },
+  {
+   "w": "“Ginpili hi Abraham tungod han iya dako nga pagtoo — diri ba mga bayani han moral an ngatanan nga tawo ha Biblia?”",
+   "t": "Hi Abraham nagbuwa ngan nagduhaduha man, ngan hi Jacob usa nga maglilimbong. Gintawag han Dyos diri an “mga takos” kundi an mga may sayop, pinaagi han grasya. An hinungdan han pagpili diri an ira pagkamaupay kundi an matinumanon nga gugma han Dyos (Deuteronomio 7:7-8)."
+  },
+  {
+   "w": "“Diri ba an Balaod (an mga Sugo) usa nga eksamen o kondisyon nga kinahanglan ipasa basi matalwas?”",
+   "t": "Gintalwas hira han Dyos <b>antes</b> niya iginhatag an Balaod. An Napulo nga Sugo natikang hin pahayag han katalwasan: “Ako amo an Ginoo nga iyo Dyos nga nagdara ha iyo tikang ha Ehipto” (Exodo 20:2). An Balaod diri “tumana basi matalwas” kundi usa nga giya hin gugma kon paonan-o mabuhi an natalwas na nga katawhan (Deuteronomio 7:7-9). Pirme an grasya nauuna; an pagsugot amo an baton."
+  },
+  {
+   "w": "“An pagsakop han Canaan usa nga waray kalooy nga pagpamatay — sanglit an Dyos han Daan nga Tugon mabangis gud.”",
+   "t": "Usa ini nga makuri nga hisgotanan nga diri masusulbad ha usa nga tudling ngan nagkikinahanglan hin pag-ataman. Kundi an Biblia diri nagpapakita hini sugad nga waray pulos nga kabangis kundi sugad nga paghukom human han mga gatos ka tuig nga pagpailob ngadto han sobra nga karat-an (lakip an paghalad hin mga bata) (Genesis 15:16; Deuteronomio 9:4-5; Levitico 18:24-25). An Dyos mahinay bisan ha paghukom, ngan malipayon niya nga ginkarawat an mga binmalik ha iya — bisan an mga dumuruong sugad nira Rahab ngan Ruth (Josue 6:25; Ruth 4:13-17)."
+  },
+  {
+   "w": "“Hi David usa nga bayani nga waray sayop — amo nga gintawag hiya nga ‘tawo nga uyon ha kasingkasing han Dyos.’”",
+   "t": "Hi David nakasala hin pagpanapaw ngan bisan pagpatay. An “tawo nga uyon ha kasingkasing han Dyos” diri nangangahulogan nga waray sayop, kundi usa nga waray magtago han iya sala — nga nagbasol hin hingpit ngan padayon nga binmalik ha Dyos (Mga Salmo 51). An gugma han Dyos diri nagsasalikway bisan han mga nahulog hin daku."
+  },
+  {
+   "w": "“An manaragna usa nga manlalagna nga nagtatagna han tidaraon; an Dyos han Daan nga Tugon kasina la.”",
+   "t": "An kasingkasing han manaragna diri amo an “pagtagna han tidaraon” kundi an masulob-on nga pag-aro han Dyos: “Bumalik kamo, alayon.” Bisan an mga pahamangno han paghukom diri nagtutuyo hin pagguba kundi hin pagpabalik ngan pagtalwas — “diri ako nalilipay hin pagkita hin usa nga makasasala nga namamatay” (Ezequiel 33:11)."
+  },
+  {
+   "w": "“An pagkabihag nagpapamatuod nga ginbayaan gud han Dyos an Israel.”",
+   "t": "An pagkabihag diri pagbaya kundi disiplina ngan pagputli ngadto han hinigugma nga anak (Hebreo 12:6). Waray bumaya an Dyos; kaupod hiya ni Daniel ha butnga han pagkabihag ngan nagsaad, “mga larang hin pagpakaupay ha iyo … mga larang nga magdadara han kabubwason nga iyo ginlalaoman” (Jeremias 29:11)."
+  },
+  null,
+  {
+   "w": "“Kon ha 400 ka tuig waray pulong, diri ba kay bumaya an Dyos o nagpapahuway?”",
+   "t": "An kahilom diri pagkawara. Waray la hiya magyakan, samtang ha bug-os nga panahon nga ito ginpapalihok niya an mga imperyo, yinaknan, ngan mga dalan basi mag-andam han entablado han katalwasan. Ha pinakahilom nga takna, an Dyos nagtatrabaho hin pinakamakusog, tungod han gugma (Mga Taga-Galacia 4:4)."
+  },
+  {
+   "w": "“Hi Jesus usa la nga maupay nga magtutudo han moral; an kros usa nga makaluluoy nga pagkapilde.”",
+   "t": "Iginpahayag ni Jesus nga hiya mismo an Dyos (Juan 8:58), ngan an kros diri usa nga aksidente o pagkapilde kundi gintuyo nga gugma. Waray hiya dad-a didto hin pinugos; igintubyan niya an iya kalugaringon nga kinabuhi (Juan 10:18). “An gidadakoi nga gugma nga maaangkon hin usa ka tawo tungod han iya kasangkayan, amo an pagtubyan han iya kinabuhi para ha ira” (Juan 15:13)."
+  },
+  {
+   "w": "“An singbahan usa nga relihiyoso nga klub han mga hingpit nga tawo, o usa la nga balay.”",
+   "t": "An singbahan diri usa nga komunidad han “hingpit nga mga santos” kundi han <b>ginpasaylo nga mga makasasala</b>. Bisan an apostol nga hi Pablo nagtawag han iya kalugaringon nga “labi nga kamaraot ha ira” (1 Timoteo 1:15). An una nga singbahan nakiglantugi ngan nahulog man (Mga Buhat 6:1; 1 Mga Taga-Corinto 1:11). Diri ini lugar hin pagpahambog, kundi mga tawo nga nagpapasa han gugma nga ira ginkarawat (Juan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Orihinal nga sala — waray matadong",
+   "body": "An problema diri amo an “pipira nga maraot nga binuhatan” kundi an gamot han kasingkasing. Tikang kan Adan, an ngatanan natawo ilarom han sala ngan diri makakaabot han Dyos ha ira kalugaringon.",
+   "vref": "Mga Taga-Roma 3:10-12, 23",
+   "vtext": "Waray tawo nga matadong, waray bisan usa nga nakakasabot, o nangingita han Dyos… nagpakasala an ngatanan nga mga tawo ngan nawad-an hira han himaya han Dyos."
+  },
+  {
+   "title": "Diri ako matatalwas han Balaod",
+   "body": "An Balaod diri usa nga hagdan kundi usa nga salaming. Kon mas magpangalimbasog ka, mas ipinapakita hini kon ano kalayo an imo pagkapakyas. An iya katuyoan amo an pagdara ha aton kan Cristo.",
+   "vref": "Mga Taga-Roma 3:20 · Mga Taga-Galacia 3:24",
+   "vtext": "pinaagi han Balaod an tawo nakakasabot nga nakakasala hiya… an Balaod an magmarangno ha aton tubtob han pag-abot ni Cristo"
+  },
+  {
+   "title": "Pinaagi han grasya — usa nga regalo, diri pangalimbasog",
+   "body": "An katalwasan diri amo an suhol han mga merito nga gintipig, kundi usa nga libre nga regalo para han diri takos. Sanglit waray makakapanhambog.",
+   "vref": "Mga Taga-Efeso 2:8-9",
+   "vtext": "Kay pinaagi hin pagtoo, natalwas kamo tungod han grasya han Dyos. Diri ini iyo kalugaringon nga buhat, kundi hatag gud la ini han Dyos."
+  },
+  {
+   "title": "Ginpakamatadong pinaagi han pagtoo",
+   "body": "Diri pinaagi hin pagtuman han Balaod, kundi pinaagi hin pagtoo kan Jesu-Cristo gin-iisip kita nga matadong — diri kita ginbisti han aton kalugaringon nga pagkamatadong kundi han iya.",
+   "vref": "Mga Taga-Roma 5:1 · Mga Taga-Galacia 2:16",
+   "vtext": "tungod nga gin-isip na kita nga matadong sa Dyos pinaagi hin pagtoo… an tawo matadong ha atubangan han Dyos pinaagi la hin pagtoo kan Jesu-Cristo"
+  },
+  {
+   "title": "An Biblia nagtutudlok kan Jesus",
+   "body": "An Biblia diri usa nga biograpiya han mga bantogan nga tawo o libro hin pagtabang ha kalugaringon. Tikang ha Genesis tubtob ha Ginpadayag, an tagsa nga pahina nagsasaksi hin usa nga persona — hi Jesu-Cristo.",
+   "vref": "Juan 5:39 · Lucas 24:27",
+   "vtext": "nagpapamatuod ini hira ngahaw mahitungod ha akon… iginsaysay ha ira ni Jesus an iginsiring mahitungod ha iya ha ngatanan nga Kasuratan"
+  },
+  {
+   "title": "An ginhadian han Dyos — an sentro nga mensahe ni Jesus",
+   "body": "An tema nga gintutdo gud ni Jesus. An ginhadian diin an Dyos naghahadi sugad nga hadi sinmulod hini nga kalibutan kaupod ni Jesus ngan mahihingpit ha iya pagbalik. Pinaagi han kros ngan pagkabanhaw, hi Jesus an tinuod nga Hadi nga nagpilde han sala, kamatayon, ngan Satanas.",
+   "vref": "Marcos 1:15",
+   "vtext": "Inmabot na an igo nga panahon… ngan haraniay na an Ginhadian han Dyos. Bayai an iyo mga sala ngan tuohi niyo an Maupay nga Sumat."
+  },
+  {
+   "title": "An Maupay nga Sumat — ginhingpit niya an ngatanan",
+   "body": "An utang han sala nga diri ko makakabayaran, hi Jesus an nagbayad ha akon baylo ha kros, ngan pinaagi han pagkabanhaw ginpilde niya an kamatayon. Diri ako nasarig ha “buhata ini” kundi ha “natuman na.”",
+   "vref": "Juan 19:30 · Mga Taga-Roma 5:8",
+   "vtext": "Natuman na… dida han magpakasasala pa kita, nagpakamatay hi Cristo para ha aton."
+  }
+ ]
+}

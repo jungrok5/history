@@ -1,0 +1,343 @@
+{
+ "menuName": "Setswana",
+ "htmlLang": "tn",
+ "dir": "ltr",
+ "brand": "Baebele mo go Phuthololweng go le Gangwe",
+ "docTitle": "Baebele mo go Phuthololweng go le Gangwe · Go tswa Tlholong go ya Phuthegong",
+ "share": {
+  "title": "Baebele mo go Phuthololweng go le Gangwe",
+  "text": "Mo go phuthololweng go le gangwe, bona kgang e kgolo ya Baebele — le gore ke ka ntlha yang Jesu a ne a tla."
+ },
+ "ui": {
+  "people": "Batho",
+  "events": "Ditiragalo tsa botlhokwa",
+  "christLabel": "Go supa kwa go Jesu",
+  "loveLabel": "Lorato lo lo sa khutleng",
+  "mythWrong": "Tlhalogano e e sa siamang",
+  "mythRight": "Boammaaruri",
+  "more": "Bala go feta",
+  "version": "(Setswana 1970)"
+ },
+ "labels": {
+  "start": "Tshimologo",
+  "thread": "Tatelano ya kgang",
+  "gospel": "Efangele",
+  "about": "Ka ga rona"
+ },
+ "s": {
+  "ui.share": "↗ Abelana",
+  "ui.toast": "Kgokaganyo e kopilwe 📋",
+  "ui.footer": "Baebele mo go Phuthololweng go le Gangwe · Ditemana di tswa mo Setswana 1970",
+  "hero.kicker": "GO TSWA TLHOLONG GO YA PHUTHEGONG",
+  "hero.title": "Baebele,<br><span class='em'>mo go phuthololweng go le gangwe</span>",
+  "hero.sub": "Mo go phuthololweng go le gangwe, bona kgang e kgolo ya Baebele — le gore ke ka ntlha yang Jesu a ne a tla.",
+  "hero.cue": "Phuthologa kwa tlase<span>↓</span>",
+  "thread.eyebrow": "POLELO E LE NNGWE E E TLHOMAGANYANG TSOTLHE",
+  "thread.h2": "Kwa bokhutlong, Baebele ke kgang e le nngwe fela",
+  "thread.flow": "<b>Tsholofetso</b><span class='arw'>→</span><b>Go letela</b><span class='arw'>→</span><b>Phitlhelelo</b>",
+  "thread.note": "Modimo o <b>solofetsa</b> (kgolagano), batho ba <b>letela</b> sebaka se seleele, mme kwa bokhutlong tsotlhe di a <b>diragala</b> di bo di felela mo go Jesu. Latela diponagalo di le 13 tse di latelang ka tatelano eo — tobetsa <b>“Bala go feta”</b> mo karateng nngwe le nngwe go bona kgang e e boteng.",
+  "gospel.eyebrow": "SE KGANG E E SE RAYANG MO GO “NNA”",
+  "gospel.h2": "Pelo ya nnete ya Baebele",
+  "gospel.lead": "Baebele ga se <b>buka e e rutang go “nna motho yo molemo.”</b>",
+  "gospel.sublead": "Ke kgang ya ka fa Modimo, <b>ka boitshwarelo fela</b>, a golotseng baleofi ba ba neng ba sa kgone go ipholosa. Mo bogareng jwa yona go eme Jesu Keresete.",
+  "gospel.mirror": "<h3>Sediko se se sa khutleng sa Iseraele tota ke setshwantsho sa “nna”</h3><div class='cycle'><b>Borapela-medingwana</b><span class='a'>→</span><b>Pogo</b><span class='a'>→</span><b>Go lela</b><span class='a'>→</span><b>Modimo o a golola</b><span class='a'>→</span><b>Borapela-medingwana gape…</b></div><p>Go tswa go Baatlhodi go ya botshwarwa, Iseraele o boeletsa sediko se ka go sa khutleng. Baebele ga e a se kwala gore re tle re sotle, re re, “Ba ne ba le matlhotlhapelo jang.”</p><p>Ke <b>seipone</b>. Ntlha ga se gore “Iseraele o dirile jalo,” mme ke gore <b>“le nna ke dira jalo”</b> (1 Bakorinthe 10:11).</p><p><b>Modingwana</b> ga se setshwantsho sa logong fela. Ke <b>sengwe le sengwe se re se ratang kgotsa re se ikanyang go feta Modimo</b> — madi, katlego, go amogelwa, batho, le nna ka nosi. Le go dirisa Modimo jaaka <b>sediriswa sa go fitlhelela se ke se batlang</b> ke borapela-medingwana.</p><p class='punch'>Kwa bokhutlong, modingwana o mogolo go gaisa ke “nna ka bonna, ke ntse mo sedulong sa bogosi sa Modimo.”</p>",
+  "gospel.coreIntro": "Jaanong Modimo o golola moleofi yo jang? Fano ke pelo ya Efangele e Baebele e e bolelang.",
+  "gospel.crux": "<p class='crux-lead'>Baebele yotlhe e supa kwa lefelong le le lengwe.</p><p>Batho ba ne ba sa kgone go kgaola sediko sa boleo ka bobone, e bile go ne go se na ope yo o siameng. Ka jalo mongwe o ne a tshwanetse go <b>duela tlhwatlhwa mo boemong jwa bone</b>.</p><p>Jesu ga a a ka a tla fela go ruta dilo tse di molemo. Ka go bo go se na tsela e nngwe ya go mpholosa, <b>o ne a tshwanetse go tla.</b></p><p class='crux-punch'>Yo o neng a tshwanetse go pega mo sefapaanong seo e ne e le <b>nna</b>.<br>Jesu o ne a sikara <b>boleo jwa me</b> mme a kokotelwa teng mo boemong jwa me.</p><div class='crux-verse'>“Mme ene o phololeditswe ka ntlha ya maleo a rona, a teketelwa melato ya rona … Mme re fodisitswe ka dintho tsa gagwe.” — Isaia 53:5</div>",
+  "faq.h": "A go santse go na le sengwe se se go tshwenyang?",
+  "faq.q1": "<span class='arr'>▸</span> A mmolai o tshwanetse fela go dumela mme a ye legodimong, fa motho yo o tshetseng botshelo jo bo molemo mme a sa dumele a ya moleting?",
+  "faq.a1": "<p>Ke potso e e siameng. Mme go na le tlhalogano tse pedi tse di sa siamang tse di fitlhilweng mo go yona.</p><p><b>① Baebele ga e kgaoganye batho ka “ba ba siameng le ba ba bosula.”</b> Selekanyo ga se “go gaisa yo mongwe,” mme ke “boitshepo jo bo itekanetseng jwa Modimo.” Fa pele ga gagwe, ga go ope yo o “molemo go lekana” (Baroma 3:23). Ka jalo ga se “motho yo molemo kgatlhanong le mmolai,” mme go feta foo ke batho ba babedi ba ba nang le bolwetse jo bo bolayang bo le bongwe — yo mongwe o tsaya kalafi, yo mongwe o e gana, a re, “Ke itekanetse go gaisa yole.”</p><p><b>② Selo se le sengwe fela se se kgaoganyang legodimo le molete.</b> E seng dintlha tsa ditiro, mme <b>gore a o amogetse Jesu Keresete go nna Morena le gore mathata a gago a boleo a rarabilwe.</b> Yo boleo jwa gagwe bo rarabilweng ka madi a Keresete o ya legodimong; yo a sa kang a mo amogela, yo boleo jwa gagwe bo setseng, ga a ye. Ga go tiro epe e e molemo e e ka rarabololang mathata a boleo ka boyona.</p><p>Ka jalo legodimo le molete ga se “sekgele sa boitshwaro jo bo molemo,” mme ke kgang ya <b>kamano le Keresete</b>. Mme “go dumela” ga se go dumalana ka tlhaloganyo, mme ke phetogo ya yo o laolang botshelo jwa gago — mongwe le mongwe yo o mo amogelang ka nnete ga a nne mabela, mme o sokologa ka boteng go gaisa. Tota, go ipoloka tshiamo (“Ke motho yo molemo”) ke modingwana o o thata go o roba, o o dirang gore re ithaye re re ga re tlhoke Keresete (Luka 18:9-14).</p><p>Baebele e a bua phepa: <b>“Yo o dumelang mo go ene ga a atlholwe; mme yo o sa dumeleng o setse a atlhotswe”</b> (Johane 3:18). Katlholo ga se “go lekanyetsa ditiro tsa gago morago ga loso,” mme e setse e laotswe ka <b>gore a o amogetse Keresete</b>.</p><p class='faq-v'>Baroma 3:23 · Johane 3:18 · Baefese 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> A ga go a lekana fa ke tshela botshelo jo bo molemo le fa ke sa dumele mo go Jesu?",
+  "faq.a2": "<p>Ke kakanyo e e tlwaelegileng thata, mme e tlhaloganya bosula gore mathata a nnete ke eng. A re dirise setshwantsho.</p><p><b>Akanya gore o mo sekepeng sa magodu.</b> Le fa o ka phepafatsa borogo jang, o le pelonomi mo bathong, o tshela botshelo jo bo molemo — o santse o le <b>legodu</b>, ka gonne o tsamaisiwa le sekepe go ya kwa se yang teng (boemakepe jwa katlholo). Mathata ga se “dintlha tsa boitshwaro” mme ke <b>“gore o wa sekepe se sefe” (boitshupo jwa gago)</b>.</p><p>Ka jalo Efangele ga e re “leka go nna molemo go feta”; e re <b>“fetola sekepe.”</b> Fologa sekepe sa boleo mme o welele kwa go Jesu — kwa boitshupong jo bošwa jwa <b>ngwana wa Modimo</b>. Se ga se go oketsa dintlha tsa gago ka maiteko, mme ke go ikanya Yo o go atlolosetsang seatla sa gagwe o bo o welela kwa sekepeng sa gagwe.</p><p>Tota Baebele e tlhalosa pholoso fela jaaka phetiso e — <b>“o re golotse mo taolong ya lefifi, a re fudusetsa mo bogosing jwa Morwawe yo o rategang”</b> (Bakolosa 1:13).</p><p>O se ka wa tlhaloganya bosula: <b>ga go reye gore botshelo jo bo molemo ga bo na molemo.</b> Bomolemo ga se “tshwanelo” ya pholoso, mme ke <b>leungo</b> la yona. Yo o fetotseng sekepe jaanong o tshela sentle e seng ka poifo, mme ka lorato lwa ngwana.</p><p class='faq-v'>Bakolosa 1:13 · Johane 1:12 · Johane 3:3 · Baefese 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Fa mmolai a ikutlwa a na le kagiso, a re “Modimo o intshwaretse,” fa motho yo o utlwisitsweng botlhoko a santse a boga — a boitshwarelo ga bo a tlhwafala thata?",
+  "faq.a3": "<p>Potso e siame, mme botlhoko bo boammaaruri. Mme polelo e e ntseng jalo ga se “boitshwarelo jwa Baebele” — ke <b>phetogo e e maswe</b> ya jona.</p><p><b>① Boitshwarelo jwa Modimo ga bo ke bo tlhwafala.</b> Boleo ga bo a fitlhwa jaaka e kete ga bo a ka jwa diragala; Modimo ka boene o duetse tlhwatlhwa ya jona ka botshelo jwa Morwawe. Sefapaano ga se bopaki jwa gore boleo bo tsewa motlhofo, mme ke gore boleo bo bokete jang — ke boitshwarelo jo bo turang go gaisa mo lefatsheng.</p><p><b>② Boikwatlhao jwa nnete bo ungwa maungo.</b> Fa mmolai a le mabela fa pele ga yo o utlwisitsweng botlhoko — “Modimo o intshwaretse, ke na le kagiso” — seo ga se boikwatlhao mme ke tshwantsho ya jona (Mathaio 3:8). Mme boitshwarelo fa gare ga motho le Modimo ga bo phimole ntho ya yo o utlwisitsweng botlhoko le e seng go mo pateletsa go itshwarela.</p><p><b>③ Boleo ga bo ke bo “lesiwe fela.”</b> Boleo bongwe le bongwe bo duelelwa mo lefelong le le lengwe mo go a mabedi — <b>kgotsa Keresete o bo sikara mo sefapaanong</b> (mo go ba ba mo ikanyang ga go tlhole go na le katlholo, Baroma 8:1), <b>kgotsa yo o mo ganang go fitlha bokhutlong o bo sikara ka boene.</b> Ka jalo ga go na “boitshwarelo jo bo tlhwafetseng.” Mmolai gape o sa ntse a na le maikarabelo a molao mo lefatsheng le (Baroma 13:1-4).</p><p><b>④ Dikeledi tsa yo o utlwisitsweng botlhoko ga di ke di nne tse dinnye fa pele ga Modimo.</b> Modimo o lela le ba ba lelang, o gakologelwa keledi nngwe le nngwe, mme o tla di phimola ka boene kwa bokhutlong (Tshenolo 21:4). Ka jalo yo o utlwisitsweng botlhoko ga a tlhoke go sikara morwalo wa pusoloso a le esi, mme a ka o neela Modimo yo o siameng (Baroma 12:19 — pusoloso ke ya Modimo).</p><p class='faq-v'>Mathaio 3:8 · Baroma 8:1 · Baroma 13:1-4 · Tshenolo 21:4</p>",
+  "respond.h3": "Jaanong — go tweng ka nna?",
+  "respond.sub": "Lorato lo ga se kitso mme ke <b>taletso</b>. Fa lorato lo lo neng lo kokotelwa mo boemong jwa gago lo amile pelo ya gago, rapela se ka bonya, mola ka mola.",
+  "respond.prayer": "<p>Modimo,</p><p>ke a ipona gore ke moleofi yo o sa kgoneng go ipholosa.</p><p>Ke dumela gore Jesu o nswetse mo sefapaanong mme a tsoga gape.</p><p>Tswarela maleo a me otlhe, mme go simolola gompieno o nne Morena wa botshelo jwa me.</p><p>Nkamogele jaaka ngwana wa gago, mme o ntshedise botshelo jo bošwa.</p><p class='amen'>Ke rapela ka leina la ga Jesu. Amen.</p>",
+  "respond.after": "Fa o rapetse se ka pelo yotlhe, Baebele ya re o <b>fetogile ngwana wa Modimo</b>. Ga o tlhole o le esi — batla phuthego e e gaufi mme lo tsamaye mmogo mo tseleng ya tumelo.",
+  "respond.verse": "“Botlhe ba ba neng ba mo tshola, a ba naya tshiamelo ya go nna bana ba Modimo.” — Johane 1:12 · Baroma 10:9-10",
+  "closing.main": "Modimo a le mongwe,<br>ka kgang e le nngwe,<br>o re batla ka<br><em>lorato</em> lo lo sa khutleng.",
+  "closing.verse": "“Le fa e ka nna loso gongwe bophelo … le fa e ka nna sebopiwa se sele, ga di kgone go ka re kgaoganya le lorato lwa Modimo lo lo mo go Keresete Jesu, Morena wa rona.” — Baroma 8:38-39",
+  "closing.small": "Mo tatelanong e, Molao, dibuka tsa boboki, baporofeti le dikwalo di oketsa “nama.”<br>Go tswa jaanong, le fa o bula buka efe, o tla bona gore o kae mo kgannye.",
+  "closing.share": "↗ Abelana kgang e",
+  "about.line": "E theilwe mo ponong ya <b>histori-kgololo, evangeli le kgiso</b> e e abelanwang ke bontsi jwa phuthego ya Maporotesetanta a Korea.",
+  "about.contact": "Dipotso · dikakgelo — <a id='contact' class='mail'>Re romelele imeile</a>"
+ },
+ "epochs": [
+  {
+   "tag": "TESTAMENTE E KGOLOGOLO · TSHIMOLOGO",
+   "title": "Tlholo",
+   "date": "Mo tshimologong",
+   "one": "Modimo o dirile lefatshe le le neng le le “molemo thata.”",
+   "people": "Modimo; Adamo le Efa",
+   "events": "Malatsi a marataro a tlholo, motho a dirilwe ka setshwano sa Modimo, boikhutso jwa Sabata",
+   "q": "Modimo o tlhodile legodimo le lefatshe mo tshimologong.",
+   "cite": "Genesise 1:1",
+   "christ": "Lefatshe le dirilwe ka “Lefoko.” Efangele ya ga Johane e bolela gore Lefoko leo ke Jesu ka boene (Johane 1:1-3).",
+   "detail": "<p>Baebele ga e simolole ka kganetsano ya filosofi mme ka tlhomamiso: <b>“Mo tshimologong, Modimo…”</b> Lefatshe ga se kotsi mme ke tiro ya Modimo yo o nang le botho.</p><ul><li><b>Setshwano sa Modimo</b> · mo dibopiweng tsotlhe, motho fela o dirilwe go tshwana le Modimo — go mo itse le go tlhokomela lefatshe.</li><li><b>Boikhutso</b> · boikhutso jwa letsatsi la bosupa bo supa gore tsotlhe di feletse di le mo kagisong (shalom): “go ne go le molemo.”</li><li><b>Edene</b> · lefatshe pele ga le senngwa, kwa Modimo le batho ba tsamayang mmogo.</li></ul>",
+   "next": "Mme botlalo jo bo tloga bo robega…"
+  },
+  {
+   "tag": "TESTAMENTE E KGOLOGOLO · MATHATA A SIMOLOLA",
+   "title": "Go Wa",
+   "date": "Mo tshimologong",
+   "one": "Boleo bo tsene, mme kgolagano fa gare ga motho le Modimo ya kgaolwa.",
+   "people": "Adamo le Efa; noga (Satane)",
+   "events": "Go ja leungo le le ileditsweng, go lelekwa mo Edeneng, go tla ga loso le matsapa",
+   "q": "Le gona ke tla baya letlhoo fa gare ga gago le mosadi … lone lo tla go tšhwetla tlhogo",
+   "cite": "Genesise 3:15",
+   "christ": "Tsholofetso ya ntlha ya Efangele, e e neng e newa morago fela ga go wa: “losika lwa mosadi” lo tla tšhwetla tlhogo ya noga — mme yoo ke Jesu (Genesise 3:15; Baroma 16:20; Bagalatia 4:4).",
+   "detail": "<p>Ka go sa utlweng ga go batla go “tshwana le Modimo,” boleo bo tsena mo lefatsheng. Maduo ga se fela molao o o robilweng mme ke <b>kgolagano e e robegileng</b>.</p><ul><li><b>Dikgolagano tse di robegileng</b> · le Modimo (go iphitlha), le ba bangwe (go pega molato), le tlholego (mitlwa le matsapa).</li><li><b>Loso</b> · tlhagiso ya “ruri o tla swa” e a diragala.</li><li><b>Genesise 3:15</b> · le fa go le jalo mo gare ga katlholo, tsholofetso ya pholoso e tla pele. Borutegi ba e bitsa <b>protoevangelium (Efangele ya ntlha)</b>.</li></ul>",
+   "next": "Jaanong Modimo o bitsa monna a le mongwe go simolola pholoso…"
+  },
+  {
+   "tag": "TESTAMENTE E KGOLOGOLO · TSHOLOFETSO",
+   "title": "Borraronamogolo",
+   "date": "± 2000 PB",
+   "one": "Modimo o solofetsa Aborahame, “O tla nna molomo wa tshegofatso.”",
+   "people": "Aborahame · Isake · Jakobe · Josefa",
+   "events": "Kgolagano ya ga Aborahame, go bofiwa ga Isake, barwa ba ba lesome le bobedi ba ga Jakobe, Josefa o tlhatlogela mo taolong kwa Egepeto",
+   "q": "Ke tla go dira setšhaba se segolo … ditshika tsotlhe tsa lefatshe di tla tshegofadiwa ka wena.",
+   "cite": "Genesise 12:2-3",
+   "christ": "Tsholofetso ya gore “ditshika tsotlhe di tla tshegofadiwa” e diragala mo go Jesu, losika lwa ga Aborahame (Bagalatia 3:16).",
+   "detail": "<p>Modimo o simolola go rarabolola mathata a batho botlhe ka go bitsa monna a le mongwe, <b>Aborahame</b>. Pelo ya yona ke <b>kgolagano (tsholofetso)</b> — setšhaba se segolo, lefatshe, le “tshegofatso ya ditshika tsotlhe.”</p><ul><li><b>Tumelo</b> · Aborahame o dumetse tsholofetso e e sa bonweng, mme ya kaiwa tshiamo ya gagwe (Genesise 15:6).</li><li><b>Isake le Jakobe</b> · tsholofetso e fetela pele; Jakobe (Iseraele) o tsala ditso tse di lesome le bobedi.</li><li><b>Josefa</b> · o rekisitswe ke bomonnawe mme a tlhatlosediwa mo taolong — “Modimo o bo fetotse molemo” (Genesise 50:20).</li></ul>",
+   "next": "Ka go latela Josefa, lelapa le fologela kwa Egepeto — mme le fetoga makgoba…"
+  },
+  {
+   "tag": "TESTAMENTE E KGOLOGOLO · KGOLOLO",
+   "title": "Ekesodo le Sekaka",
+   "date": "± 1446 PB",
+   "one": "Modimo o golotse morafe wa makgoba mme a o dira wa gagwe.",
+   "people": "Moše, Arone, Faro",
+   "events": "Dipetso tse di lesome, Tlolaganyo, go kgabaganya Lewatle le Lehibidu, Melao e e Lesome kwa Sinai, motlaagana, dingwaga di le 40 mo sekakeng",
+   "q": "Ke tla lo tshola gore lo nne morafe wa me; ke tla nna Modimo wa lona.",
+   "cite": "Ekesodo 6:7",
+   "christ": "Tlolaganyo — kwa madi a kwana a neng a fapogisa loso — e supa kwa go Jesu, “kwana ya rona ya Tlolaganyo,” yo o re bapoletsweng (1 Bakorinthe 5:7).",
+   "detail": "<p>Pholoso e kgolo go gaisa ya Testamente e Kgologolo. Iseraele yo o neng a le makgoba o gololwa ka nonofo ya Modimo mme a dirwa <b>morafe</b> wa gagwe.</p><ul><li><b>Tlolaganyo</b> · ntlo e e tshwailweng ka madi a kwana e a fapogwa ke loso — sekao se se kwa morago ga ditlhabelo tsotlhe tse di latelang.</li><li><b>Lewatle le Lehibidu</b> · pholoso kwa tsela e felang teng; “go kgabaganya” go nna sesupo sa tshimologo e ntšhwa.</li><li><b>Kgolagano ya Sinai</b> · ka Melao ba ithuta go tshela jaaka morafe wa Modimo.</li><li><b>Motlaagana</b> · felo ga boitshepo go go tsamaisiwang kwa Modimo o agang teng mo gare ga morafe wa gagwe — selelo sa “Imanuele.”</li><li><b>Dingwaga di le 40</b> · go sa utlweng go dira gore tshika e nngwe e kgarakgatshege mo sekakeng, mme Modimo o nna gaufi ka mana le kgodu ya leru le ya molelo.</li></ul>",
+   "next": "Ba eme fa molelwaneng wa lefatshe le le solofeditsweng, ba ipaakanyetsa go tsena…"
+  },
+  {
+   "tag": "TESTAMENTE E KGOLOGOLO · GO NNA",
+   "title": "Phenyo le Baatlhodi",
+   "date": "± 1400–1050 PB",
+   "one": "Ba bone lefatshe, mme ka go bo go se na kgosi mongwe le mongwe o ne a dira jaaka a rata.",
+   "people": "Joshua; baatlhodi jaaka Gideone le Samesone; Ruthe",
+   "events": "Go wa ga Jeriko, go nna kwa Kanana, sediko se se boeletsang sa boleo–katlholo–pholoso",
+   "q": "Ka sebaka seo go ne go se na kgosi mo Iseraeleng; mongwe le mongwe a dira tse di kgatlhang matlho a gagwe.",
+   "cite": "Baatlhodi 21:25",
+   "christ": "Mo losikeng lwa ga Ruthe go tswa Dafita, mme mo losikeng lwa ga Dafita go tswa Jesu (Mathaio 1). Le mo tlhakatlhakanong, lotso lwa Mesia lo a tswelela.",
+   "detail": "<p>Ka fa tlase ga Joshua ba tsena mo lefatsheng le le solofeditsweng, mme morago ga go nna ba akofa go lebala Modimo. Baatlhodi ke mokgwa o le mongwe o o boeletsang.</p><ul><li><b>Sediko se se yang tlase</b> · boleo → kgatelelo → go lela → moatlhodi o a golola → boleo gape. Go a nna bosula go feta.</li><li><b>Baatlhodi</b> · Gideone, Samesone, Debora — bagolodi ba nakwana, ba bagale mme ba na le diphoso tse dintsi.</li><li><b>Ruthe</b> · kgang e e phatsimang ya boikanyego mo nakong e e lefifi; mosadi wa moeng o tsena mo losikeng lwa ga Dafita (le Jesu).</li></ul>",
+   "next": "Batho ba lela, “Re neye le rona kgosi!”…"
+  },
+  {
+   "tag": "TESTAMENTE E KGOLOGOLO · NAKO YA GAUDE",
+   "title": "Bogosi jo bo Kopaneng",
+   "date": "± 1050–930 PB",
+   "one": "Modimo o solofetsa Dafita, “Sedulo sa gago sa bogosi se tla nna ka bosakhutleng.”",
+   "people": "Saulo · Dafita · Solomone",
+   "events": "Kgosi ya ntlha Saulo, Dafita le Goliathe, kgolagano le Dafita, Solomone o aga Tempele",
+   "q": "Go tla tlhomama ntlo ya gago le bogosi jwa gago ka bosakhutleng fa pele ga me; sedulo sa bogosi sa gago se tla tlhomama ka bosakhutleng.",
+   "cite": "2 Samuele 7:16",
+   "christ": "“Sedulo se se sa khutleng” se diragala mo go Jesu, morwa Dafita — ke ka moo a bidiwang “Morwa Dafita” (Luka 1:32-33; Mathaio 1:1).",
+   "detail": "<p>Setlhoa sa Iseraele, se busiwa ke dikgosi tse tharo.</p><ul><li><b>Saulo</b> · kgosi e batho ba neng ba e batla; tshimologo e ntle e e senngwang ke go sa utlwe.</li><li><b>Dafita</b> · “monna yo o ratwang ke pelo ya Modimo.” O fenya Goliathe mme a dira Jerusalema motsemogolo. O dira boleo jo bogolo (Bathešeba) mme a sokologa ka pelo (Pesalome 51).</li><li><b>Kgolagano le Dafita (2 Samuele 7)</b> · Modimo o solofetsa go tlhomamisa bogosi jwa ga Dafita ka bosakhutleng — modi o o tlhomameng wa tsholofelo ya Mesia.</li><li><b>Solomone</b> · mo setlhoeng sa botlhale le khumo o aga <b>Tempele</b>, mme bofelong jwa botshelo o retologela kwa medingwaneng.</li></ul>",
+   "next": "Morago ga Solomone, bogosi jwa kgaogana ka bobedi…"
+  },
+  {
+   "tag": "TESTAMENTE E KGOLOGOLO · GO WELA TLASE",
+   "title": "Bogosi jo bo Kgaoganeng",
+   "date": "930–586 PB",
+   "one": "Jwa kgaogana ka borwa (Juta) le bokone (Iseraele), morafe wa wela mo tshenyegong.",
+   "people": "Dikgosi tsa magosi a mabedi; baporofeti jaaka Elia, Isaia, Jeremia",
+   "events": "Bogosi jwa kgaogana, borapela-medingwana bo a anama, baporofeti ba a tlhagisa",
+   "q": "Baiseraele ba ne ba ikepa jalo mo ntlong ya ga Dafita go fitlha letsatsing la kajeno.",
+   "cite": "1 Dikgosi 12:19",
+   "christ": "Mo nakong e baporofeti ba bolela Mesia yo o tlang ka phepa go ya pele (Isaia 9:6; Isaia 53).",
+   "detail": "<p>Mo malatsing a morwa Solomone bogosi jwa kgaogana: <b>bogosi jwa bokone jwa Iseraele</b> (ditso di le 10, motsemogolo Samaria) le <b>bogosi jwa borwa jwa Juta</b> (ditso di le 2, motsemogolo Jerusalema).</p><ul><li><b>Iseraele (bokone)</b> · kgosi nngwe le nngwe e direla medingwana; bo wela kwa Asiria ka 722 PB.</li><li><b>Juta (borwa)</b> · losika lwa ga Dafita lo tswelela, ka dikgosi tse di sekae tse di molemo jaaka Hesekia le Josia, mme ka kakaretso bo wela tlase.</li><li><b>Baporofeti</b> · Elia, Amose, Isaia, Jeremia ba lela “boang!” Boporofeti jwa Mesia bo fitlha kwa boteng jwa jona fano (“motlhanka yo o bogang” wa Isaia 53).</li></ul>",
+   "next": "Kwa bokhutlong katlholo e e tlhagisitsweng e a tla — ba isiwa botshwarwa…"
+  },
+  {
+   "tag": "TESTAMENTE E KGOLOGOLO · KATLHOLO",
+   "title": "Botshwarwa",
+   "date": "722 / 586 PB",
+   "one": "Bogosi jwa wa mme batho ba isiwa kwa mafatsheng a sele.",
+   "people": "Daniele, Esekiele, Nebukadenesare",
+   "events": "Iseraele o wela Asiria (722), Juta o wela Babele mme Tempele e a senngwa (586)",
+   "q": "Re ne re dutse fa dinokeng tsa Babele, ra ba ra lela, fa re gopola Sione.",
+   "cite": "Pesalome 137:1",
+   "christ": "Mo boteng jwa go felelwa ke tsholofelo Jeremia o solofetsa “kgolagano e ntšhwa” (Jeremia 31:31) — kgolagano e Jesu a e kaneditseng mo Selalelong se se Bofelo.",
+   "detail": "<p>Ditlhagiso di a diragala. Tempele e a sha mme batho ba isiwa kwa Babele — ba latlhegelwa ke lefatshe, kgosi le Tempele: ntlha e e kwa tlase go gaisa.</p><ul><li><b>Go wa go gabedi</b> · Iseraele (Asiria, 722 PB) le Juta (Babele, 586 PB).</li><li><b>Daniele</b> · sekao sa tumelo le mo kgotleng ya baheitane (mongobo wa ditau); o bona diponatshegelo tsa “bogosi jo bo sa khutleng” jo bo tlang.</li><li><b>Tlhase ya tsholofelo</b> · ponatshegelo ya marapo a a omeletseng a tshela (Esekiele 37) le “kgolagano e ntšhwa” ya ga Jeremia di supa kwa isagong mo lefifing.</li></ul>",
+   "next": "Dingwaga di le masome a supa morago, Modimo o bula tsela — ba boela gae…"
+  },
+  {
+   "tag": "TESTAMENTE E KGOLOGOLO · POELO",
+   "title": "Go Boa",
+   "date": "538–430 PB",
+   "one": "Ba a boa mme ba aga Tempele le marako gape.",
+   "people": "Esera, Nehemia, Esetere, Serubabele",
+   "events": "Go boa ka taolo ya ga Kuruse, go aga Tempele gape, go busolosa marako a Jerusalema, go busolosa Lefoko",
+   "q": "Gonne go itumela mo Moreneng ke thata ya lona.",
+   "cite": "Nehemia 8:10",
+   "christ": "Malaki, buka ya bofelo ya Testamente e Kgologolo, e konela ka go bolela morongwi yo o baakanyang tsela ya Mesia: “ke tla roma morongwi wa me” (Malaki 3:1).",
+   "detail": "<p>Ka taolo ya kgosi ya Peresia Kuruse (538 PB) go boa go a simologa. Ka makgaolakgang a mararo ba boa ba aga tse di neng di senngwa gape.</p><ul><li><b>Serubabele</b> · o aga Tempele gape (e weditswe 516 PB).</li><li><b>Esera</b> · o ruta Lefoko gape mme a tsosolosa tumelo.</li><li><b>Nehemia</b> · o aga marako a Jerusalema gape mo malatsing a le 52.</li><li><b>Esetere</b> · o golola Bajuta mo Peresia mo phediso — “mo nakong e e ntseng jaana.”</li><li><b>Go santse go tlhwafala</b> · Tempele e eme, mme ga go na kgosi jaaka Dafita. Batho ba letela Mesia.</li></ul>",
+   "next": "Mme jaanong… jaaka legodimo le didimetse, dingwaga di le 400 di a feta."
+  },
+  {
+   "tag": "FA GARE GA DITESTAMENTE · GO BAAKANYA LEFELO",
+   "title": "Dingwaga tsa Tidimalo",
+   "date": "± 430–4 PB",
+   "one": "Dingwaga di le 400 di se na lentswe la moporofeti — mme lefelo le ne le baakanngwa ka tidimalo.",
+   "people": "Alexandere yo Mogolo, ba-Makabaeo, Roma",
+   "events": "Peresia → Gerika → boipuso jwa ba-Makabaeo → puso ya Roma",
+   "q": "Mme ya re sebaka se e leng sona se sena go tla, Modimo wa roma Morwaa-ona, a belegwa ke mosadi.",
+   "cite": "Bagalatia 4:4",
+   "christ": "“Go baakanya lefelo” gotlhe e ne e le Modimo a dira gore Jesu a tle fela ka “sebaka se se leng sona.”",
+   "detail": "<p>Go tswa Malaki go ya Testamenteng e Ntšhwa, dingwaga di ka nna 400 di feta go se na Lokwalo lo lošwa. Mme kwa morago ga histori Modimo o ne a baakanya tsela ya Efangele.</p><ul><li><b>Mebuso e a fetoga</b> · Peresia → Gerika (Alexandere, 333 PB) → ba-Ptoleme le ba-Selukia → boipelaetso jwa ba-Makabaeo (167 PB) → Roma (63 PB).</li><li><b>Segerika</b> · diphenyo tsa ga Alexandere di dira Segerika puo e e tlwaelegileng; Testamente e Kgologolo e ranolelwa mo Segerikeng (Septuagint), go bulela Efangele tsela ya go anama ka bonako.</li><li><b>Ditsela le kagiso ya Roma</b> · ditsela tse di agilweng sentle le “Pax Romana” di nna ditselagolo tsa boromiwa.</li><li><b>Disinagoge le ditlhopha</b> · go ruta mo sinagogeng go a tsenelela; Bafarisai le Basaduke ba tlhaga; mme <b>go tlhwafalela Mesia</b> go a gola.</li></ul>",
+   "next": "Jaanong tidimalo e a robega — kwa bofelong, o a tla."
+  },
+  {
+   "tag": "TESTAMENTE E NTŠHWA · PHITLHELELO",
+   "title": "Jesu o a Tla",
+   "date": "± 4 PB–30 NB",
+   "one": "Mesia yo o solofeditsweng o tsile, a swa, mme a tsoga gape.",
+   "people": "Jesu, barutwa ba ba lesome le bobedi, Johane Mokolobetsi",
+   "events": "Go nna nama, tirelo ya gagwe le go ruta le dikgakgamatso, loso mo sefapaanong, tsogo ka letsatsi la boraro",
+   "q": "Lefoko leo la nna nama, la aga mo go rona, ra ba ra bona kgalalelo ya lone … a tletse bopelotlhomogi le boammaaruri.",
+   "cite": "Johane 1:14",
+   "christ": "Losika lwa mosadi (ponagalo 2), tshegofatso ya ga Aborahame (3), kwana ya Tlolaganyo (4), kgosi e e sa khutleng ya ga Dafita (6), kgolagano e ntšhwa (8) — tsotlhe di diragala mo monneng a le mongwe, Jesu: Moporofeti, Moperesiti le Kgosi ya rona ya nnete.",
+   "detail": "<p>Tidimalo e a robega; yo o solofeditsweng o a tla. Diefangele tse nne di paka ka botshelo, loso le tsogo ya ga Jesu go tswa mo ditshekong tse nne.</p><ul><li><b>Go nna nama</b> · Modimo o nna motho (Imanuele, “Modimo o na le rona”), mo felong go go kwa tlase go Bethelehema.</li><li><b>Tirelo</b> · o ruta bogosi jwa Modimo, o fodisa balwetse, o bitsa baleofi. “Yo o mponeng o bonye Rara.”</li><li><b>Sefapaano</b> · o duela mo boemong jwa rona tlhwatlhwa ya boleo le loso tse di tlisitsweng ke go wa (ponagalo 2). Kwana ya nnete ya Tlolaganyo.</li><li><b>Tsogo</b> · ka go tsoga ka letsatsi la boraro, o roba nonofo ya boleo, loso le Satane — le mo sefapaanong o ne “a apola babusi le balaodi … wa tlhaba kôma ka bone mo go ene” (Bakolosa 2:15).</li></ul><p>Ka jalo Jesu ke <b>Moporofeti wa nnete</b> (o supa tsela e e isang kwa Modimong), <b>Moperesiti wa nnete</b> (o duelela boleo ka mmele wa gagwe), le <b>Kgosi ya nnete</b> (o fenya boleo, loso le Satane mme a busa ka bosakhutleng).</p>",
+   "next": "Jesu yo o tsogileng o roma barutwa ba gagwe mo lefatsheng…"
+  },
+  {
+   "tag": "TESTAMENTE E NTŠHWA · KANAMO",
+   "title": "Phuthego e a Simologa",
+   "date": "± 30 NB–",
+   "one": "Mowa o a tla, mme Efangele e anamela kwa dikhutlong tsa lefatshe.",
+   "people": "Petoro, Paulo, phuthego ya bogologolo",
+   "events": "Mowa o tshololwa ka Pentekoste, phuthego e a tsalwa, Efangele e anama go tswa Jerusalema go ya Roma ka pogiso",
+   "q": "Mme lo tla bona nonofo ya Mowa o o Boitshepo … lo tla nna basupi ba me … go ya kwa bokhutlong jwa lefatshe.",
+   "cite": "Ditiro 1:8",
+   "christ": "Kgang e e santse e tswelela le gompieno. Baebele e konela ka tsholofetso ya gore Jesu o tla tla gape mme a dire dilo tsotlhe ditšhwa (Tshenolo 21).",
+   "detail": "<p>Morago ga Jesu a tlhatlogela kwa legodimong, Mowa o o solofeditsweng o tla ka Pentekoste mme phuthego e a tsalwa. Efangele e anama ka go thunya.</p><ul><li><b>Pentekoste</b> · Mowa o fetola barutwa ba ba boifang go nna basupi ba ba pelokgale.</li><li><b>Petoro</b> · o rera Efangele mo Bajuteng kwa Jerusalema.</li><li><b>Paulo</b> · go tswa mmogisi go nna moaposetoloi, o tlhoma diphuthego mo lefatsheng la Baditšhaba mme a kwala dikwalo.</li><li><b>Go ya dikhutlong tsa lefatshe</b> · Jerusalema → Jutea → Samaria → Roma. Tsholofetso e e neng e newa Aborahame ya “ditshika tsotlhe” e a diragala.</li><li><b>Le rona</b> · kgang ga e khutle; e tswelela go ya kwa go boeng ga Jesu le legodimo le lešwa le lefatshe le lešwa.</li></ul>",
+   "next": "Mme kgang ga e khutle fano…"
+  },
+  {
+   "tag": "TESTAMENTE E NTŠHWA · TLHOMAMISO",
+   "title": "Tsosoloso",
+   "date": "E sa ntse e tla",
+   "one": "Jesu o tla tla gape mme a dire dilo tsotlhe ditšhwa.",
+   "people": "Jesu yo o boang; merafe yotlhe",
+   "events": "Go tla ga bobedi, katlholo ya bofelo, bokhutlo jwa boleo·loso·dikeledi, legodimo le lešwa le lefatshe le lešwa",
+   "q": "Modimo o tla phimola dikeledi tsotlhe mo matlhong a bone; loso ga lo ne lo tlhola lo nna teng, le bohutsana le selelo le botlhoko ga di ne di tlhola di nna teng.",
+   "cite": "Tshenolo 21:4",
+   "christ": "Edene ya tlholo ya ntlha e busolosiwa kwa bofelong jaaka “Jerusalema e Ntšhwa.” Modimo o aga le batho ba gagwe ka bosakhutleng — botlalo jwa Imanuele (Tshenolo 21:3; Mathaio 1:23).",
+   "detail": "<p>Baebele ga e khutle ka nako ya phuthego. Buka ya yona ya bofelo, Tshenolo, e bontsha Jesu a <b>boa gape</b> go feleletsa tsotlhe.</p><ul><li><b>Go tla ga bobedi</b> · Kgosi e e solofeditsweng e boa ka kgalalelo.</li><li><b>Phenyo ya bofelo</b> · Satane le loso di fenngwa ka bosakhutleng, mme Keresete o busa jaaka Kgosi ya dikgosi (1 Bakorinthe 15:25-26; Tshenolo 20:10).</li><li><b>Katlholo le tsogo</b> · tshiamololo nngwe le nngwe e a siamisiwa, mme baswi ba a tsosiwa.</li><li><b>Legodimo le lešwa le lefatshe le lešwa</b> · boleo, loso, dikeledi le botlhoko di nyelela ka bosakhutleng (Tshenolo 21:4).</li><li><b>Edene e e busolositsweng</b> · mo “Jerusalema e Ntšhwa” e e gaisang tshimologo, Modimo o aga le batho ba gagwe ka bosakhutleng — boemo bo Baebele yotlhe e neng e bo lebile.</li></ul><p>Ka jalo jaanong ke nako ya <b>“setse, mme e seng jaanong”</b>: mo go Jesu pholoso e <b>setse</b> e diragetse, mme botlalo jwa yona bo <b>santse</b> bo letetswe.</p>",
+   "next": "Jaanong kgang e yotlhe e raya eng mo go “nna”?"
+  }
+ ],
+ "love": [
+  "Kgang e simolola e seng ka katlholo mme ka tlholo e e tshololwang ka lorato.",
+  "Ka nako e batho ba leofang, Modimo o solofetsa pholoso foo fela.",
+  "Modimo o tlile pele kwa monneng yo o sa tshwanelang, a mmitsa ka leina, mme a mo dira molomo wa tshegofatso.",
+  "O utlwile selelo sa morafe wa makgoba mme a fologa ka boene go o golola.",
+  "Le fa ba mo eka gangwe le gape, nako nngwe le nngwe fa ba lela o ne a roma mogolodi mme a ba tsosa gape.",
+  "O ne a sa latlhe le Dafita yo o ileng a wa, mme ka ene a solofetsa Kgosi e e sa khutleng.",
+  "Kwa morafeng o o neng o mo furalela, o ne a tswelela go roma baporofeti, a kopa, “Tswee-tswee boang gae.”",
+  "O ne a tsamaya nabo le mo lefatsheng le le lefifi go gaisa la botshwarwa, mme a solofetsa tsosoloso.",
+  "Le mo morafeng o o neng o palelwa gangwe le gape, o ne a sa busetse tsholofetso ya gagwe.",
+  "Le mo dingwageng di le 400 tsa tidimalo, ka sephiri, o ne a baakanya tsela ya pholoso.",
+  "Re sa ntse re le baleofi, o ne a roma Morwawe go ntsha botshelo jwa gagwe.",
+  "Lorato lo re lo amogetseng, jaanong o lo romela go elela mo lefatsheng lotlhe.",
+  "Kwa bokhutlong o tla phimola keledi nngwe le nngwe mme a dire dilo tsotlhe ditšhwa ka lorato."
+ ],
+ "mis": [
+  {
+   "w": "“Ke ka ntlha yang Modimo a dirile batho ba ba ka leofang? A ga go a ka ga nna botoka go se re dire gotlhelele?”",
+   "t": "Modimo o dirile lefatshe le batho e seng ka ntlha ya tlhaelo epe, mme ka lorato lo lo penologang. Go dira batho jaaka <b>batho ba ba nang le kamano le Modimo</b> ke lorato ka boyona. Mme le go tsena ga boleo go ne go se kwa ntle ga leano la Modimo la pholoso (Baefese 1:4-5). Ponagalo ya ntlha ya Baebele ga se katlholo mme ke lorato."
+  },
+  {
+   "w": "“Go lelekwa le go newa loso ka ntlha ya go ja leungo le le lengwe fela — a Modimo ga a setlhogo thata?”",
+   "t": "Go ntshiwa mo Edeneng e ne e le katlholo le kutlwelobotlhoko ka nako e le nngwe. Fa motho, a kgaogane le Modimo mo seemong se se robegileng seo, a ka ja mo setlhareng sa botshelo a tshela ka bosakhutleng, o ne a tla tswalelwa mo pogong ka bosakhutleng (Genesise 3:22). Go letla loso e ne e le go bula tsela ya go boa, mme foo fela Modimo o ne a solofetsa Mmoloki (Genesise 3:15). Mo katlholong go ne go setse go na le lorato."
+  },
+  {
+   "w": "“Aborahame o tlhophilwe ka ntlha ya tumelo e kgolo — a botho jotlhe jwa Baebele ga se bagale ba maitseo?”",
+   "t": "Aborahame le ene o ne a aka mme a belaela, Jakobe e ne e le motsietsi. Modimo ga a a ka a bitsa batho ba ba “tshwanelegang” mme ba ba nang le diphoso, ka boitshwarelo. Lebaka la ktlhopho e ne e se bomolemo jwa bone mme e le lorato lo lo ikanyegang lwa Modimo (Doiteronomio 7:7-8)."
+  },
+  {
+   "w": "“A molao (melao) ga se teko kgotsa tshwanelo e o tshwanetseng go e fitlhelela go bolokwa?”",
+   "t": "Modimo o ne a ba pholositse <b>pele</b> a ba naya molao. Melao e e Lesome e simolola ka tlhomamiso ya pholoso: “Ke nna Morena Modimo wa gago yo ke go ntshitseng mo lefatsheng la Egepeto” (Ekesodo 20:2). Molao ga se “o boloke gore o bolokwe,” mme ke kaelo ya lorato ka fa morafe o o setseng o bolokilwe o tshwanetseng go tshela ka teng (Doiteronomio 7:7-9). Boitshwarelo bo nna pele ka metlha; kutlo ke karabo."
+  },
+  {
+   "w": "“Phenyo ya Kanana e ne e le polao e e setlhogo — ka jalo Modimo wa Testamente e Kgologolo tota o setlhogo.”",
+   "t": "Se ke kgang e e thata e e sa kgoneng go rarabololwa ka polelo e le nngwe e bile e tlhoka kelotlhoko. Mme Baebele ga e e tlhalose jaaka thubakanyo e e sa lebanyeng mme e le katlholo morago ga makgolo a dingwaga a bopelotelele kgatlhanong le bosula jo bogolo (go akaretsa ditlhabelo tsa bana) (Genesise 15:16; Doiteronomio 9:4-5; Lefitiko 18:24-25). Modimo o bonya le mo go atlholeng, mme o amogela ka boitumelo ba ba retologelang kwa go ene — le baeng jaaka Rahabe le Ruthe (Joshua 6:25; Ruthe 4:13-17)."
+  },
+  {
+   "w": "“Dafita e ne e le mogale yo o se nang phoso — ke ka moo a neng a bidiwa ‘monna yo o ratwang ke pelo ya Modimo.’”",
+   "t": "Dafita o dirile boaka le polao tota. “Monna yo o ratwang ke pelo ya Modimo” ga go reye yo o itekanetseng, mme yo o sa kang a fitlha boleo jwa gagwe — yo o sokologileng ka boteng mme a tswelela go boela kwa Modimong (Pesalome 51). Lorato lwa Modimo ga lo latlhe le ba ba welang ka thata."
+  },
+  {
+   "w": "“Moporofeti ke moitseanape yo o bolelelang pele isago / Modimo wa Testamente e Kgologolo ke bogale fela.”",
+   "t": "Pelo ya moporofeti ga se “go bolelela pele isago” mme ke kopo e e botlhoko ya Modimo: “Tswee-tswee boa.” Le tlhagiso ya katlholo ga e ikaelele go senya mme go retolosa batho le go ba boloka — “ga ke itumelele loso lwa moikepi” (Esekiele 33:11)."
+  },
+  {
+   "w": "“Botshwarwa bo supa gore Modimo o tlogetse Iseraele gotlhelele.”",
+   "t": "Botshwarwa e ne e se go tlogela mme e le kgalemo le go itshekisa go ya ngwaneng yo o ratwang (Bahebera 12:6). Modimo ga a a ka a tloga; o ne a na le Daniele mo bogareng jwa botshwarwa mme a solofetsa, “Ke itse megopolo e ke e akanyang ka lona — megopolo ya kagiso e seng ya bosula, go lo naya bofelo le tsholofelo” (Jeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Ka go bo go se na lefoko ka dingwaga di le 400, Modimo o ne a tsamaile kgotsa a ikhutsa.”",
+   "t": "Tidimalo ga se go bo a sa nne teng. O ne a sa bue fela, fa ka nako eo yotlhe a ne a tsamaisa mebuso, dipuo le ditsela go baakanya lefelo la pholoso. Mo motsotsong o o didimetseng go gaisa, Modimo o ne a dira ka natla go gaisa, ka lorato (Bagalatia 4:4)."
+  },
+  {
+   "w": "“Jesu e ne e le moruti fela a le mongwe yo o molemo wa maitseo / sefapaano e ne e le tlhōlo e e botlhoko.”",
+   "t": "Jesu o ipoletse gore ke Modimo ka boene (Johane 8:58), mme sefapaano e ne e se kotsi kgotsa tlhōlo mme e le lorato lo lo rulagantsweng. Ga a a ka a gogelwa teng ka thata; o ne a ntsha botshelo jwa gagwe ka boene (Johane 10:18). “Ga go na yo o nang le lorato lo logolo go feta lo, gore mongwe a ntshetse ditsala tsa gagwe botshelo” (Johane 15:13)."
+  },
+  {
+   "w": "“Phuthego ke setlhopha sa bodumedi sa batho ba ba itekanetseng, kgotsa kago fela.”",
+   "t": "Phuthego ga se setlhopha sa “baitshepi ba ba feletseng” mme sa <b>baleofi ba ba itshwaretsweng</b>. Le moaposetoloi Paulo o ipiditse “yo mogolo wa baleofi” (1 Timotheo 1:15). Phuthego ya bogologolo le yona e ne e omanya e bile e wa (Ditiro 6:1; 1 Bakorinthe 1:11). Ga se felo go go ikgodisang, mme ke batho ba ba fetisang lorato lo ba lo amogetseng (Johane 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Boleo jwa botswalo — ga go ope yo o siameng",
+   "body": "Mathata ga se “ditiro di se kae tse di bosula” mme ke modi wa pelo. Go tloga ka Adamo, mongwe le mongwe o tsalwa ka fa tlase ga boleo mme ga a kgone go fitlha kwa Modimong ka boene.",
+   "vref": "Baroma 3:10-12, 23",
+   "vtext": "Ga go ope yo o siameng, le e seng a le mongwe fela … gonne botlhe ba leofile, ba tlhoka tlotlo fa pele ga Modimo."
+  },
+  {
+   "title": "Molao ga o kgone go mpholosa",
+   "body": "Molao ga se lere mme ke seipone. Fa o leka thata, o gola o supa ka fa o palelwang ka teng. Maikaelelo a ona ke go re isa kwa go Keresete.",
+   "vref": "Baroma 3:20 · Bagalatia 3:24",
+   "vtext": "Molao o re naya kitso ya boleo … molao o ne wa nna mowatlhai wa rona go re isa kwa go Keresete."
+  },
+  {
+   "title": "Ka boitshwarelo — mpho, e seng maiteko",
+   "body": "Pholoso ga se tuelo ya melemo e o e dirileng, mme ke mpho ya mahala mo go ba ba sa e tshwanelang. Ka jalo ga go ope yo o ka ipokang.",
+   "vref": "Baefese 2:8-9",
+   "vtext": "Lo pholositswe ka boitshwarelo ka tumelo … Ga se ka ditiro, gore go se nne ope yo o ipokang."
+  },
+  {
+   "title": "Go siamisiwa ka tumelo",
+   "body": "E seng ka go boloka Molao, mme ka tumelo mo go Jesu Keresete, o kaiwa o siame — o apesiwa e seng ka tshiamo ya gago mme ka ya gagwe.",
+   "vref": "Baroma 5:1 · Bagalatia 2:16",
+   "vtext": "Ka re siamisitswe ka tumelo, re na le kagiso le Modimo … motho ga a siamisiwa ka ditiro tsa molao, mme e le ka go dumela mo go Keresete Jesu."
+  },
+  {
+   "title": "Baebele e supa kwa go Jesu",
+   "body": "Baebele ga se buka ya banna ba bagolo kgotsa ya go ithusa. Go tswa Genesise go ya Tshenolo, tsebe nngwe le nngwe e paka motho a le mongwe — Jesu Keresete.",
+   "vref": "Johane 5:39 · Luka 24:27",
+   "vtext": "Tse di supang ka ga me … a ba rarabololela tse di builweng ka ga gagwe mo Dikwalong tsotlhe."
+  },
+  {
+   "title": "Bogosi jwa Modimo — molaetsa o mogolo wa ga Jesu",
+   "body": "Setlhogo se Jesu a se rutileng go gaisa. Puso ya Modimo jaaka Kgosi e tsene mo lefatsheng le Jesu mme e tla feleletsa fa a boa. Ka sefapaano le tsogo, Jesu ke Kgosi ya nnete e e fentseng boleo, loso le Satane.",
+   "vref": "Mareko 1:15",
+   "vtext": "Sebaka se weditswe, puso ya Modimo e atametse. Tlhabologang lo dumele Efangele!"
+  },
+  {
+   "title": "Efangele — o feleditse tsotlhe",
+   "body": "Molato wa boleo o ke neng ke sa kgone go o duela, Jesu o o duetse mo boemong jwa me mo sefapaanong, mme ka go tsoga a fenya loso. Ga ke ikaege mo go “dira” mme mo go “go weditswe.”",
+   "vref": "Johane 19:30 · Baroma 5:8",
+   "vtext": "Go weditswe … Modimo o supile lorato lo o re ratang ka lone, ka Keresete a re swetse, re ntse re le baleofi."
+  }
+ ]
+}

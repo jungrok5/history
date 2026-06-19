@@ -73,6 +73,11 @@ const LANGS = [
   { code:'bem',    dir:'ltr', locale:'bem_ZM' },
   { code:'ilo',    dir:'ltr', locale:'ilo_PH' },
   { code:'ki',     dir:'ltr', locale:'ki_KE' },
+  { code:'as',     dir:'ltr', locale:'as_IN' },
+  { code:'tn',     dir:'ltr', locale:'tn_ZA' },
+  { code:'war',    dir:'ltr', locale:'war_PH' },
+  { code:'bcl',    dir:'ltr', locale:'bcl_PH' },
+  { code:'rn',     dir:'ltr', locale:'rn_BI' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
@@ -99,6 +104,7 @@ const FONT_TITLE = {
   'zh-Hant':'Noto Serif CJK TC, serif',
   'ar':'Noto Naskh Arabic, serif',
   'hi':'Noto Serif Devanagari, Noto Sans Devanagari, serif',
+  'as':'Noto Serif Bengali, serif',
   'ti':'Noto Serif Ethiopic, serif',
   'ckb':'Noto Naskh Arabic, serif',
   'sd':'Noto Naskh Arabic, serif',
@@ -128,6 +134,7 @@ const FONT_SUB = {
   'zh-Hant':'Noto Sans CJK TC, sans-serif',
   'ar':'Noto Sans Arabic, sans-serif',
   'hi':'Noto Sans Devanagari, sans-serif',
+  'as':'Noto Sans Bengali, sans-serif',
   'ti':'Noto Sans Ethiopic, sans-serif',
   'ckb':'Noto Sans Arabic, sans-serif',
   'sd':'Noto Sans Arabic, sans-serif',
@@ -261,7 +268,7 @@ function ogSvg(m){
   const fs2 = FONT_SUB[m.code] || DEFAULT_SUB;
   const tlen = [...m.brand].length;
   const tsize = tlen>26?44 : tlen>20?52 : tlen>14?60 : 70;
-  const ls = ['ar','hi','th','ne','my','km','ur','bn','si','lo','fa','ta','pa','te','mr','am','ml','gu','or','kn','sd','ckb','ti'].includes(m.code) ? 0 : 6; // 자모 결합 스크립트는 자간 0
+  const ls = ['ar','hi','th','ne','my','km','ur','bn','si','lo','fa','ta','pa','te','mr','am','ml','gu','or','kn','sd','ckb','ti','as'].includes(m.code) ? 0 : 6; // 자모 결합 스크립트는 자간 0
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>
     <radialGradient id="g1" cx="50%" cy="-5%" r="75%"><stop offset="0%" stop-color="#e9b949" stop-opacity="0.20"/><stop offset="60%" stop-color="#e9b949" stop-opacity="0"/></radialGradient>

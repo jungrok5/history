@@ -1,0 +1,343 @@
+{
+ "menuName": "Ikirundi",
+ "htmlLang": "rn",
+ "dir": "ltr",
+ "brand": "Bibiliya mu kuyirenga ijisho rimwe",
+ "docTitle": "Bibiliya mu kuyirenga ijisho rimwe · Kuva ku kurema gushitsa ku Kanisa",
+ "share": {
+  "title": "Bibiliya mu kuyirenga ijisho rimwe",
+  "text": "Mu kunyerereza rimwe, menya inkuru nkuru ya Bibiliya — n’igituma Yesu yaje."
+ },
+ "ui": {
+  "people": "Abantu",
+  "events": "Ibintu nyamukuru",
+  "christLabel": "Yerekana Yesu",
+  "loveLabel": "Urukundo rudahera",
+  "mythWrong": "Ukutumva gukunze",
+  "mythRight": "Ukuri",
+  "more": "Soma vyinshi",
+  "version": "(Bibiliya Yera)"
+ },
+ "labels": {
+  "start": "Intango",
+  "thread": "Inkuru",
+  "gospel": "Inkuru Nziza",
+  "about": "Ku bidukikuje"
+ },
+ "s": {
+  "ui.share": "↗ Sangiza",
+  "ui.toast": "Umurongo wakopowe 📋",
+  "ui.footer": "Bibiliya mu kuyirenga ijisho rimwe · Amajambo y’Imana avuye muri Bibiliya Yera",
+  "hero.kicker": "KUVA KU KUREMA GUSHITSA KU KANISA",
+  "hero.title": "Bibiliya,<br><span class='em'>mu kunyerereza rimwe</span>",
+  "hero.sub": "Mu kunyerereza rimwe, menya inkuru nkuru ya Bibiliya — n’igituma Yesu yaje.",
+  "hero.cue": "Nyerereza hasi<span>↓</span>",
+  "thread.eyebrow": "INTERURO IMWE IHUZA VYOSE",
+  "thread.h2": "Mu nyuma, Bibiliya ni inkuru imwe gusa",
+  "thread.flow": "<b>Isezerano</b><span class='arw'>→</span><b>Kurindira</b><span class='arw'>→</span><b>Iranguka</b>",
+  "thread.note": "Imana <b>irasezerana</b> (isezerano), abantu <b>barindira</b> igihe kirekire, kandi mu nyuma vyose biraranguka kandi biraherezwa muri Yesu. Kurikira ibikorwa 13 bikurikira muri uwo murongo — fyonda <b>“Soma vyinshi”</b> kuri buri karuta kugira ngo uronke inkuru yimbitse.",
+  "gospel.eyebrow": "ICO IYI NKURU ISOBANURA KURI “JEWE”",
+  "gospel.h2": "Umutima nyezina wa Bibiliya",
+  "gospel.lead": "Bibiliya <b>si igitabu c’inyigisho yo “kuba umuntu mwiza.”</b>",
+  "gospel.sublead": "Ni inkuru y’uko Imana, <b>ku buntu bgonyene</b>, yakijije abanyavyaha batashobora kwikiza ubgabo. Hagati yayo hahagaze Yesu Kristo.",
+  "gospel.mirror": "<h3>Uruziga rudahera rwa Isirayeli mu vy’ukuri ni ishusho rya “jewe”</h3><div class='cycle'><b>Ugusenga ibigirwamana</b><span class='a'>→</span><b>Imibabaro</b><span class='a'>→</span><b>Gutaka</b><span class='a'>→</span><b>Imana irakiza</b><span class='a'>→</span><b>Ugusenga ibigirwamana kandi…</b></div><p>Kuva ku Bacamanza gushitsa mu bunyagano, Isirayeli isubiramwo uru ruziga ata herezo. Bibiliya ntiyacanditse kugira ngo dukenyure ngo “bari abagayitse gute.”</p><p>Ni <b>icirore</b>. Ako kanovera si “Isirayeli yakoze ivyo” ariko ni <b>“jewe ndakora kumwe nk’abo”</b> (1 Abakorinto 10:11).</p><p><b>Igigirwamana</b> si ikishusho c’ibiti gusa. Ni <b>ikintu cose dukunda canke twizigira gusumba Imana</b> — amahera, intsinzi, kwemerwa, abantu, mbere na jewe nyene. No gukoresha Imana nk’<b>ikoresho ryo kuronka ico ngomba</b> na ryo ni ugusenga ibigirwamana.</p><p class='punch'>Mu nyuma, igigirwamana kimbitse cane ni “jewe nyene, nicaye ku ntebe y’Imana.”</p>",
+  "gospel.coreIntro": "None Imana ikiza gute umunyavyaha mwene uyo? Ng’ uyu umutima w’inkuru nziza Bibiliya itangaza.",
+  "gospel.crux": "<p class='crux-lead'>Bibiliya yose yerekana ahantu hamwe.</p><p>Abantu ntibashoboye kumena uruziga rw’icaha ubgabo, kandi nta n’umwe yari agororotse. Rero hari uwabga akwiye <b>kuriha ikiguzi mu kibanza cabo</b>.</p><p>Yesu ntiyaje gusa kugira ngo atange inyigisho nziza. Kuko ata yindi nzira yari iho yo kunkiza, <b>ycategerejwe kuza.</b></p><p class='crux-punch'>Uwagombwa kumanikwa kuri uwo musaraba yari <b>jewe</b>.<br>Yesu yikoreye <b>icaha canje</b> abambga ng’aho mu kibanza canje.</p><div class='crux-verse'>“Yamara yacumitiwe ivyacu bicumuro, yajanjaguriwe ivyacu bigabitanyo… kand’ imishishagu yiwe ni yo idukiza.” — Yesaya 53:5</div>",
+  "faq.h": "Hari ikikinakuraje?",
+  "faq.q1": "<span class='arr'>▸</span> Mbe none umwicanyi ategerezwa gusa kwizera ngw aje mw ijuru, naho umuntu yabayeho neza ubuzima bgose ariko atizera aja mu muriro?",
+  "faq.a1": "<p>Ni ikibazo gikwiye. Ariko ari mwo ukutumva kubiri kunyegejwe.</p><p><b>① Bibiliya ntigaba abantu mu “beza n’ababi.”</b> Igipimo si “kuruta uwo muri kumwe” ariko ni “ukwera kwuzuye kw’Imana.” Imbere yayo, nta n’umwe “amwiza bihagije” (Abaroma 3:23). Rero ntivyo “umuntu mwiza n’umwicanyi,” ariko nko abantu babiri bafise indwara imwe yica — umwe akira umuti, uwundi akawanka, ati “Ndi muzima kuruta uwo muntu.”</p><p><b>② Hari ikintu kimwe gusa kitandukanya ijuru n’umuriro.</b> Si igipimo c’ingeso, ariko ni <b>uko wakiriye Yesu Kristo nk’Umwami n’ikibazo c’icaha cawe gikemuwe.</b> Uwo icaha ciwe gikemuwe n’amaraso ya Kristo aja mw ijuru; uwutamwakira na rimwe, icaha ciwe kigumaho, ntaja. Nta ngeso nziza na nke ishobora gukemura ico kibazo c’icaha ubgaco.</p><p>Rero ijuru n’umuriro ntibivuye “igihembo c’ingeso nziza” ariko ni ikibazo c’<b>ubucuti na Kristo</b>. Kandi “kwizera” si ukwemeza kwo mu bgenge, ariko ni ukuhindura uwuyobora ubuzima bgawe — uwumwakira vy’ukuri ntahinduka umwishima ariko yihana cane. Mbere <b>ukwigira intungane</b> kw’ ngo “ndi umuntu mwiza” ni co gigirwamana kigoye kumena, ico gituma twiyumvira ko tudakeneye Kristo (Luka 18:9-14).</p><p>Bibiliya ivuga gusobanutse: <b>“Ūmwizeye ntazotsindwa n’urubanza, arik’ ūtamwizeye aramaze gutsindwa”</b> (Yohana 3:18). Urubanza si “gupima ubuzima bgawe ushize gupfa,” ariko ruramaze gutegekanijwe ku kuba <b>wakiriye Kristo</b>.</p><p class='faq-v'>Abaroma 3:23 · Yohana 3:18 · Abanyefeso 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Mbe ntibikwiye gusa kubaho neza, naho ntizera Yesu?",
+  "faq.a2": "<p>Ni ico abantu benshi biyumvira, ariko ntibatahura ico kibazo nyezina ari co. Reka dukoreshe ishusho.</p><p><b>Tiyumvire ko uri ku bgato bg’abambuzi.</b> Naho woza ushuka neza ku bgato, ukaba mwiza ku bakozi, ukabaho ubuzima bg’icitegererezo, uracari <b>umwambuzi</b>, kuko ubgato bukujana iyo bgerekeje (ku kivuko c’urubanza). Ikibazo si “igipimo c’ingeso” ariko ni <b>“ni ubuhe bgato uri kwo” (uwo uri we)</b>.</p><p>Rero inkuru nziza ntivuga ngo “gerageza cane kuba mwiza”; ivuga ngo <b>“himuka ubgato.”</b> Manuka ku bgato bg’icaha uje kuri Yesu — mu buntu bgo gucika <b>umwana w’Imana</b>. Iki si ukuduza igipimo cawe ku migeragezo, ariko ni ukwizigira Uwurambura ukuboko ukambukira ku bgato bgiwe.</p><p>Mu vy’ukuri Bibiliya isobanura ugukizwa nk’uko nyene kw’uku kwimuka — <b>“yadukijije ububasha bg’umwiza, atwimurira mu bgami bg’Umwana wiwe akunda”</b> (Abakolosayi 1:13).</p><p>Ntimuwutahure nabi: <b>ntibisobanura ko kubaho neza ata co bimaze.</b> Ubgiza si “ikigaragojwe” c’ugukizwa ariko ni <b>icamwa</b> caco. Uwahimutse ubgato ubu abaho neza atari ku bg’ubgoba, ariko ku bg’urukundo rw’umwana.</p><p class='faq-v'>Abakolosayi 1:13 · Yohana 1:12 · Yohana 3:3 · Abanyefeso 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Niba umubi avuga ati “Imana yampariye” akabaho amahoro mu gihe uwagiriwe nabi acumbabara, mbe iyo mbabazi ntiyo iri hasi cane?",
+  "faq.a3": "<p>Ikibazo gikwiye, kand’ uwo mubabaro ni nyakuri. Ariko mwene iryo jambo si “ihariwe rya Bibiliya” — ni <b>ugupfunyura</b> kwaryo.</p><p><b>① Ihariwe ry’Imana na rimwe ntiriri hasi.</b> Icaha ntigishirwa hasi nk’aho “kitabaye”; Imana ubgayo yarishe ikiguzi caco n’ubuzima bg’Umwana wayo. Umusaraba ntiwerekana ko icaha gifatwa minenerwe, ariko werekana ko icaha kiremereye uku kungana — ni ihariwe rihenze kuruta yose mw isi.</p><p><b>② Ukwihana kw’ukuri kwama imbuto.</b> Niba umubi yibona neza imbere y’uwagiriwe nabi — ati “Imana yampariye, ndi mu mahoro” — ico si ukwihana ariko ni ukwigana kwako (Matayo 3:8). Kand’ ihariwe hagati y’umuntu n’Imana ntiryambura igikomere c’uwagiriwe nabi canke ngo rimuhate kubabarira.</p><p><b>③ Icaha na rimwe ntigisigara “cirengagijwe.”</b> Icaha cose kirihirwa ahantu hamwe muri habiri — <b>canke Kristo akigikorera ku musaraba</b> (ku bamwizera nta rubanza rukirimwo, Abaroma 8:1), <b>canke uwumwanka gushitsa mu nyuma akigikorera ubgiwe.</b> Rero nta “gupfukira ku buntu.” Umubi na we aracafise ico abazwa n’ubutungane bg’iyi si (Abaroma 13:1-4).</p><p><b>④ Amosozi y’uwagiriwe nabi imbere y’Imana na rimwe ntimato.</b> Imana iririra hamwe n’abarira, ikibuka buri rira, kandi izoyahanagura ubgayo mu nyuma (Ivyahishuriwe 21:4). Rero uwagiriwe nabi ntiyikorera wenyene uburemere bg’uguhōra, ariko arashobora kubuhereza Imana itungane (Abaroma 12:19 — “Uguhōra n’ukwanje, ni jewe nzobasubiriza mu nkōko, ni k’Uhoraho agize”).</p><p class='faq-v'>Matayo 3:8 · Abaroma 8:1 · Abaroma 13:1-4 · Ivyahishuriwe 21:4</p>",
+  "respond.h3": "None — jewe nkore iki?",
+  "respond.sub": "Uru rukundo si amakuru ariko ni <b>ubutumire</b>. Niba urwo rukundo rwabambga mu kibanza cawe rwakoze umutima wawe, sengera iri sengesho buhoro, umurongo ku murongo.",
+  "respond.prayer": "<p>Mana,</p><p>Ndemera ko ndi umunyavyaha atashobora kwikiza.</p><p>Ndizera ko Yesu yampfiriye ku musaraba kandi yazutse.</p><p>Mbabarira ivyaha vyanje vyose, kandi kuva uyu musi ube Umwami w’ubuzima bganje.</p><p>Nyakira nk’umwana wawe, unyemerere kubaho ubuzima bushasha.</p><p class='amen'>Mw izina rya Yesu ndasenga. Amen.</p>",
+  "respond.after": "Niwasenze iri sengesho ukivuye ku mutima, Bibiliya ivuga ko <b>wabaye umwana w’Imana</b>. Ntukiri wenyene — rondera ikanisa ryegereye, mugendere hamwe inzira y’ukwizera.",
+  "respond.verse": "“Arikw abāmwākiriye bose yabahaye ububasha bgo gucika abana b’Imana.” — Yohana 1:12 · Abaroma 10:9-10",
+  "closing.main": "Imana imwe,<br>biciye mu nkuru imwe,<br>iratudondera n’<em>urukundo</em><br>rutigera ruheba.",
+  "closing.verse": "“Naho rwoba urupfu, cank’ ubugingo… cank’ ikindi caremwe cose, ata kizoshobora kudutandukanya n’urukundo rw’Imana ruri muri Kristo Yesu Umwami wacu.” — Abaroma 8:38-39",
+  "closing.small": "Kuri uyu murongo w’inkuru, Ivyagezwe, Ibitabu vy’indirimbo, Abavugishwa n’Imana n’Amakete birongera “umubiri.”<br>Ubu, igitabu cose uzofungura, uzobona aho uri mu nkuru.",
+  "closing.share": "↗ Sangiza iyi nkuru",
+  "about.line": "Bishingiye ku migambi y’<b>amateka y’ugucungurwa, ya gakirisu kandi ya Reformed</b> isangiwe na benshi mu Kanisa rya gikirisu rya Korea.",
+  "about.contact": "Ibibazo · ivyiyumviro — <a id='contact' class='mail'>Twandikire</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ISEZERANO RYA KERA · INTANGO",
+   "title": "Ukurema",
+   "date": "Ubga mbere na mbere",
+   "one": "Imana yaremye isi “nziza cane.”",
+   "people": "Imana; Adamu na Eva",
+   "events": "Imisi itandatu y’ukurema, umuntu yaremwe mw ishusho ry’Imana, ukuruhuka kwa Sabato",
+   "q": "Ubga mbere na mbere Imana yaremye ijuru n’isi.",
+   "cite": "Itanguriro 1:1",
+   "christ": "Isi yaremwe biciye ku “Jambo.” Injili ya Yohana itangaza ko iryo Jambo ari Yesu ubgiwe (Yohana 1:1-3).",
+   "detail": "<p>Bibiliya ntitangura n’impaka za filozofiya ariko itangura n’ijwi ritangaza, ngo <b>“Ubga mbere na mbere Imana…”</b> Isi si ibanga ariko ni igikorwa c’Imana nzima.</p><ul><li><b>Ishusho ry’Imana</b> · mu vyaremwe vyose, umuntu wenyene niwe yaremwe asa n’Imana — kuyimenya no kwitwararika isi.</li><li><b>Ukuruhuka</b> · ukuruhuka kw’umusi ugira indwi kwerekana ko vyose vyari vyuzuye kandi mu mahoro (shalom): “bari vyiza.”</li><li><b>Edeni</b> · isi imbere y’uko imenagurwa, aho Imana n’abantu bagendera hamwe.</li></ul>",
+   "next": "Ariko ubu bukungahara bugiye kumenagurwa…"
+  },
+  {
+   "tag": "ISEZERANO RYA KERA · IKIBAZO GITANGURA",
+   "title": "Ukugwa",
+   "date": "Ubga mbere na mbere",
+   "one": "Icaha kirinjira, kandi umubano hagati y’abantu n’Imana uracibga.",
+   "people": "Adamu na Eva; inzoka (Shetani)",
+   "events": "Kurya ivyamwa vyabujijwe, gukurwa muri Edeni, ukuza kw’urupfu n’umuruho",
+   "q": "Nzoshira inyankane hagati yawe n’uyu mugore… ruzogukomeretsa umutwe.",
+   "cite": "Itanguriro 3:15",
+   "christ": "Isezerano rya mbere ry’inkuru nziza, ryatanzwe inyuma gato y’Ukugwa: “uruvyaro rw’umugore” ruzomena umutwe w’inzoka — kandi uwo ni Yesu (Itanguriro 3:15; Abaroma 16:20; Abagalatiya 4:4).",
+   "detail": "<p>Biciye ku kutumvira kwo kugomba “kumera nk’Imana,” icaha kirinjira mw isi. Inyishu si ugucisha kw’itegeko gusa ariko ni <b>umubano umenagutse</b>.</p><ul><li><b>Imibano imenagutse</b> · n’Imana (kwinyegeza), n’abandi (gushinyagurira), n’ibidukikije (amahwa n’umuruho).</li><li><b>Urupfu</b> · imburizi ngo “uzopfa rwose” iba nyakuri.</li><li><b>Itanguriro 3:15</b> · yamara hagati y’urubanza, isezerano ry’ugukizwa rica ritangura. Abahinga baravuga ngo ni <b>protoevangelium (inkuru nziza ya mbere)</b>.</li></ul>",
+   "next": "Ubu Imana ihamagara umuntu umwe gutangura ugukiza…"
+  },
+  {
+   "tag": "ISEZERANO RYA KERA · ISEZERANO",
+   "title": "Ba sokuruza",
+   "date": "nko mu 2000 I.K.",
+   "one": "Imana isezeranira Aburahamu, ngo “Uzoba umuyoboro w’umugisha.”",
+   "people": "Aburahamu · Isaka · Yakobo · Yozefu",
+   "events": "Isezerano rya Aburahamu, kuboha Isaka, abahungu cumi na babiri ba Yakobo, Yozefu aduga ku butware mu Egiputa",
+   "q": "Nanje nzoguhindura ubgoko bukomeye… n’abandi baze bagire umugisha kubgawe.",
+   "cite": "Itanguriro 12:2-3",
+   "christ": "Isezerano ngo “imiryango yose izohabga umugisha” riraranguka muri Yesu, uruvyaro rwa Aburahamu (Abagalatiya 3:16).",
+   "detail": "<p>Imana itangura gukemura ikibazo c’abantu bose mu guhamagara umuntu umwe, <b>Aburahamu</b>. Umutima waryo ni <b>isezerano</b> — ubgoko bukomeye, igihugu, n’“umugisha ku miryango yose.”</p><ul><li><b>Ukwizera</b> · Aburahamu yizeye isezerano ritaboneka, biramuharūrwako nk’ukugororoka (Itanguriro 15:6).</li><li><b>Isaka na Yakobo</b> · isezerano riraciye imbere; Yakobo (Isirayeli) avyara imiryango cumi n’ibiri.</li><li><b>Yozefu</b> · yagujishijwe na bene wabo yamara aduzwa ku butware — “Imana yo yagabiye kubizanisha ivyiza” (Itanguriro 50:20).</li></ul>",
+   "next": "Bakurikiye Yozefu, umuryango umanuka i Egiputa — uca uba abaja…"
+  },
+  {
+   "tag": "ISEZERANO RYA KERA · UGUCUNGURWA",
+   "title": "Kuva muri Egiputa n’ubugaragwa",
+   "date": "nko mu 1446 I.K.",
+   "one": "Imana yakijije ubgoko bgari abaja ibugira ubgayo.",
+   "people": "Musa, Aroni, Farawo",
+   "events": "Ivyago cumi, Pasika, kwambuka Ikiyaga gitukura, Amategeko cumi kuri Sinayi, ihema ryeranda, imyaka 40 mu bugaragwa",
+   "q": "Kandi nzobagira abantu banje, nanje nzoba Imana yanyu.",
+   "cite": "Kuvayo 6:7",
+   "christ": "Pasika — aho amaraso y’umwagazi yirukana urupfu — yerekana Yesu, “umwagazi wacu wa Pasika,” yabambga kubg’abantu (1 Abakorinto 5:7).",
+   "detail": "<p>Ugukiza guhambaye kuruta gwose mw Isezerano rya Kera. Isirayeli yari abaja irarekurwa n’ubushobozi bg’Imana iba <b>ubgoko</b> bgayo.</p><ul><li><b>Pasika</b> · inzu yandikwako amaraso y’umwagazi irarengwa n’urupfu — icitegererezo c’ibimazi vyose vyakurikiye.</li><li><b>Ikiyaga gitukura</b> · ugukizwa aho inzira ihera; “kwambuka” biba ikimenyetso c’intango nshasha.</li><li><b>Isezerano rya Sinayi</b> · biciye ku Mategeko biga ukubaho nk’ubgoko bg’Imana.</li><li><b>Ihema ryeranda</b> · ahantu heranda hashobora kwimurwa aho Imana ibana n’ubgoko bgayo — ikimenyetso c’“Emanueli.”</li><li><b>Imyaka 40</b> · ukutumvira kuguma kuzungaza iyaruka mu bugaragwa, yamara Imana iguma iri hafi n’imana n’inkingi y’igicu n’umuriro.</li></ul>",
+   "next": "Bahagaze ku rubibe rw’igihugu casezeranywe, biteguye kwinjira…"
+  },
+  {
+   "tag": "ISEZERANO RYA KERA · UGUTURA",
+   "title": "Ukunaka n’Abacamanza",
+   "date": "nko mu 1400–1050 I.K.",
+   "one": "Bironkeye igihugu, ariko ata mwami umuntu wese yakora ico yigombeye.",
+   "people": "Yosuwa; abacamanza nka Gideyoni na Samusoni; Rusi",
+   "events": "Ugusenyuka kwa Yeriko, gutura i Kanani, uruziga rusubiramwo rw’icaha–urubanza–ugukiza",
+   "q": "Kandi mur’ iyo misi Abisirayeli nta mwami bāribgagire: umuntu wese yakora ico yigombeye.",
+   "cite": "Abacamanza 21:25",
+   "christ": "Ku ruvyaro rwa Rusi haza Dawidi, no ku ruvyaro rwa Dawidi haza Yesu (Matayo 1). Mbere mu kavumbi, igiti c’uruvyaro rwa Mesiya kiraguma kigenda.",
+   "detail": "<p>Munsi ya Yosuwa binjira mu gihugu casezeranywe, ariko bamaze gutura baca biribagira Imana. Igitabu c’Abacamanza ni ugusubiramwo icitegererezo kimwe.</p><ul><li><b>Uruziga rumanuka</b> · icaha → uguhahazwa → gutaka → umucamanza akiza → icaha kandi. Biguma birushiriza kuba bibi.</li><li><b>Abacamanza</b> · Gideyoni, Samusoni, Debora — abakiza b’akanya gato, intwari ariko bafise utunenge twinshi.</li><li><b>Rusi</b> · inkuru y’umuco y’ubudahemuka mu gihe c’umwiza; umunyamahanga w’umugore yinjira mu ruvyaro rwa Dawidi (na Yesu).</li></ul>",
+   "next": "Abantu baratakamba, ngo “Naturonse umwami!”…"
+  },
+  {
+   "tag": "ISEZERANO RYA KERA · IGIHE C’IZAHABU",
+   "title": "Ubgami bgunze ubumwe",
+   "date": "nko mu 1050–930 I.K.",
+   "one": "Imana isezeranira Dawidi, ngo “Ingoma yawe izokwama ibungabunga.”",
+   "people": "Sauli · Dawidi · Salomo",
+   "events": "Umwami wa mbere Sauli, Dawidi na Goliyati, isezerano rya Dawidi, Salomo yubaka urusengero",
+   "q": "Kand’ inzu yawe n’ubgami bgawe bizohora bihamye imbere yiwe… N’ingoma yawe izokwama ihangamye na ntaryo.",
+   "cite": "2 Samweli 7:16",
+   "christ": "“Ingoma idahera” iraranguka muri Yesu, umwana wa Dawidi — ico ni co gituma yitwa “Umwana wa Dawidi” (Luka 1:32-33; Matayo 1:1).",
+   "detail": "<p>Igihe c’iteka rya Isirayeli, kiyobowe n’abami batatu.</p><ul><li><b>Sauli</b> · umwami abantu basavye; intango nziza yononywe n’ukutumvira.</li><li><b>Dawidi</b> · “umuntu ahuje n’umutima w’Imana.” Atsinda Goliyati agira Yeruzalemu umurwa mukuru. Akora icaha gikomeye (Batisheba) yamara yihana akivuye ku mutima (Zaburi 51).</li><li><b>Isezerano rya Dawidi (2 Samweli 7)</b> · Imana isezerana gushiraho ingoma ya Dawidi ibihe vyose — imizi nyamukuru y’icizigiro ca Mesiya.</li><li><b>Salomo</b> · ari ku rusonga rw’ubgenge n’itunga yubaka <b>urusengero</b>, ariko mu nyuma ahindukirira ibigirwamana.</li></ul>",
+   "next": "Inyuma ya Salomo, ubgami bugabanyije kabiri…"
+  },
+  {
+   "tag": "ISEZERANO RYA KERA · UGUSHIRA HASI",
+   "title": "Ubgami bugabanijwe",
+   "date": "930–586 I.K.",
+   "one": "Bugabanijwe mu bumanuko (Yuda) n’uburaruko (Isirayeli), ubgoko buramanuka mu kononekara.",
+   "people": "Abami b’ubgami bgompi; abavugishwa n’Imana nka Eliya, Yesaya, Yeremiya",
+   "events": "Ubgami buragabanijwe, ugusenga ibigirwamana kurakwiragira, abavugishwa n’Imana baraburira",
+   "q": "Uko ni kw Abisirayeli bāgararije inzu ya Dawidi gushitsa na bugingo n’ubu.",
+   "cite": "1 Abami 12:19",
+   "christ": "Muri iki gihe abavugishwa n’Imana baravuga Mesiya azoza kandi badashidikanya (Yesaya 9:6; Yesaya 53).",
+   "detail": "<p>Mu misi y’umwana wa Salomo ubgoko buragabanijwe: <b>ubgami bg’uburaruko bga Isirayeli</b> (imiryango 10, umurwa Samariya) n’<b>ubgami bg’ubumanuko bga Yuda</b> (imiryango 2, umurwa Yeruzalemu).</p><ul><li><b>Isirayeli (uburaruko)</b> · abami bayo bose basenga ibigirwamana; ihirikwa na Ashuri mu 722 I.K.</li><li><b>Yuda (ubumanuko)</b> · uruvyaro rwa Dawidi rurabandanya, hari abami beza nka Ezekiya na Yosiya, ariko muri rusangi iramanuka.</li><li><b>Abavugishwa n’Imana</b> · Eliya, Amosi, Yesaya, Yeremiya baratakamba ngo “muhindukire!” Ubuhanuzi bga Mesiya bushika ku rugero rwiza cane ng’aha (“umusavyi ababara” wa Yesaya 53).</li></ul>",
+   "next": "Mu nyuma urubanza rwaburiwe ruraza — barajanwa mu bunyagano…"
+  },
+  {
+   "tag": "ISEZERANO RYA KERA · URUBANZA",
+   "title": "Ubunyagano",
+   "date": "722 / 586 I.K.",
+   "one": "Ubgami bururumba kandi abantu barajanwa mu mahanga.",
+   "people": "Daniyeli, Ezekiyeli, Nebukadinezari",
+   "events": "Isirayeli ihirikwa na Ashuri (722), Yuda ihirikwa na Babuloni n’urusengero rurasenywa (586)",
+   "q": "Ku nzūzi z’i Babuloni Ni ho twāhora twicara, mbere tugaturika tukarira, Twibutse i Siyoni.",
+   "cite": "Zaburi 137:1",
+   "christ": "Mu nyenga z’ukwiheba Yeremiya asezerana “isezerano risha” (Yeremiya 31:31) — iryo sezerano nyene Yesu yashizeho mu mfungurwa ya nyuma.",
+   "detail": "<p>Imburizi ziraba nyakuri. Urusengero rurasha kandi abantu barajanwa i Babuloni — bata igihugu, umwami, n’urusengero: igihe kibi kuruta vyose.</p><ul><li><b>Ukurumba kabiri</b> · Isirayeli (Ashuri, 722 I.K.) na Yuda (Babuloni, 586 I.K.).</li><li><b>Daniyeli</b> · icitegererezo c’ukwizera mbere mu rugo rw’abapagani (urwobo rw’intambge); abona iyerekwa ry’“ubgami budahera” buzoza.</li><li><b>Akabengabenga k’icizigiro</b> · iyerekwa ry’amagufa yumye agaruka mu buzima (Ezekiyeli 37) n’“isezerano risha” rya Yeremiya byerekana kazoza mu mwiza.</li></ul>",
+   "next": "Inyuma y’imyaka mirongo irindwi, Imana irugurura inzira — barataha…"
+  },
+  {
+   "tag": "ISEZERANO RYA KERA · UGUSUBIZA MU BUSANZWE",
+   "title": "Ugutaha",
+   "date": "538–430 I.K.",
+   "one": "Barataha bongera kwubaka urusengero n’uruzitiro.",
+   "people": "Ezira, Nehemiya, Esiteri, Zerubabeli",
+   "events": "Ugutaha biciye ku citegekano ca Kuro, kwubaka urusengero, gusana uruzitiro rwa Yeruzalemu, gusubizaho Ijambo",
+   "q": "Kuk’ umunezero w’Uhoraho ari zo nkomezi zanyu.",
+   "cite": "Nehemiya 8:10",
+   "christ": "Malaki, igitabu ca nyuma c’Isezerano rya Kera, gisozera mu kuvuga integuza izotegura inzira ya Mesiya: “ngira ntume integuza yanje” (Malaki 3:1).",
+   "detail": "<p>Biciye ku citegekano c’umwami w’i Buperesi Kuro (538 I.K.) ugutaha kuratangura. Mu mihārure itatu barataha bongera kwubaka ivyari vyasenyutse.</p><ul><li><b>Zerubabeli</b> · yongera kwubaka urusengero (rwarangiye 516 I.K.).</li><li><b>Ezira</b> · yongera kwigisha Ijambo akagarura ukwizera.</li><li><b>Nehemiya</b> · yongera kwubaka uruzitiro rwa Yeruzalemu mu misi 52.</li><li><b>Esiteri</b> · akiza Abayuda b’i Buperesi ukurandurwa — “kumbure ni kubg’iki gihe.”</li><li><b>Inyota iguma iho</b> · urusengero rurahagaze, ariko nta mwami nka Dawidi. Abantu barindira Mesiya.</li></ul>",
+   "next": "Maze… nk’aho ijuru ricecetse, imyaka 400 iraharengana."
+  },
+  {
+   "tag": "HAGATI Y’AMASEZERANO · GUTEGURA IKIBANZA",
+   "title": "Imyaka y’ugucereza",
+   "date": "nko mu 430–4 I.K.",
+   "one": "Imyaka 400 ata jwi ry’umuvugishwa — yamara ikibanza cariko kirategurwa mu mpwemu.",
+   "people": "Alegizandere Mukuru, Abamakabe, Roma",
+   "events": "Buperesi → Bugiriki → ukwikukira kwa Abamakabe → ubutware bga Roma",
+   "q": "Maz’ igihe gikwiye gishitse, Imana ituma Umwana wayo, yavyawe n’umugore.",
+   "cite": "Abagalatiya 4:4",
+   "christ": "Uku “gutegura ikibanza” kwose kwari Imana iriko irakora kugira ngo Yesu aze neza “igihe gikwiye gishitse.”",
+   "detail": "<p>Kuva kuri Malaki gushitsa ku Isezerano Risha, haraha nk’imyaka 400 ata Vyanditswe bisha. Yamara inyuma y’amateka Imana yariko irategura inzira y’inkuru nziza.</p><ul><li><b>Ubwami buraharanwa</b> · Buperesi → Bugiriki (Alegizandere, 333 I.K.) → Abaputolemayo n’Abaseleyuko → ukugarariza kwa Abamakabe (167 I.K.) → Roma (63 I.K.).</li><li><b>Ikigiriki</b> · ukunaka kwa Alegizandere gutuma ikigiriki kiba ururimi rusangiye; Isezerano rya Kera rihindurwa mu kigiriki (Septante), bukingurira inkuru nziza inzira yo gukwiragira ningoga.</li><li><b>Amabarabara n’amahoro vya Roma</b> · amabarabara meza n’“amahoro ya Roma” biba inzira z’ivugabutumwa.</li><li><b>Amasinagogi n’imice</b> · inyigisho yo mu sinagogi irashinga imizi; Abafarizayo n’Abasadukayo barahaguruka; kandi <b>ukwifuza Mesiya</b> kurahizwa.</li></ul>",
+   "next": "Maze ugucereza kurahera — amaherezo, araza."
+  },
+  {
+   "tag": "ISEZERANO RISHA · IRANGUKA",
+   "title": "Yesu araza",
+   "date": "nko mu 4 I.K.–30 N.K.",
+   "one": "Mesiya yasezeranywe yaraje, arapfa, arazuka.",
+   "people": "Yesu, abigishwa cumi na babiri, Yohana Umubatizi",
+   "events": "Kwambara umubiri, igikorwa ciwe n’inyigisho n’ibitangaza, urupfu ku musaraba, izuka ku musi ugira gatatu",
+   "q": "Kand’ uwo Jambo yihaye umubiri, abana natwe… yuzuye ubuntu n’ukuri.",
+   "cite": "Yohana 1:14",
+   "christ": "Uruvyaro rw’umugore (igikorwa 2), umugisha wa Aburahamu (3), umwagazi wa Pasika (4), umwami adahera wa Dawidi (6), isezerano risha (8) — vyose biraranguka mu muntu umwe, Yesu: umuvugishwa, umuherezi n’umwami wacu w’ukuri.",
+   "detail": "<p>Ugucereza kurahera; Uwasezeranywe araza. Injili zine zishingira intahe ubuzima bga Yesu, urupfu n’izuka biciye mu mpande zine.</p><ul><li><b>Kwambara umubiri</b> · Imana iba umuntu (Emanueli, “Imana iri kumwe natwe”), mu kibanza co hasi i Betelehemu.</li><li><b>Igikorwa</b> · yigisha ubgami bg’Imana, akiza abarwaye, ahamagara abanyavyaha. “Uwamboye amaze kubona Data.”</li><li><b>Umusaraba</b> · ariha mu kibanza cacu ikiguzi c’icaha n’urupfu vyazanywe n’Ukugwa (igikorwa 2). Umwagazi wa Pasika w’ukuri.</li><li><b>Izuka</b> · yazutse ku musi ugira gatatu, amena ububasha bg’icaha, urupfu na Shetani — ako kuri musaraba “yambuye abakuru n’abafise ububasha… ibashorera bafashwe mpiri kubg’ uwo musaraba” (Abakolosayi 2:15).</li></ul><p>Rero Yesu ni <b>umuvugishwa wacu w’ukuri</b> (atwereka inzira ija ku Mana), <b>umuherezi wacu w’ukuri</b> (atang’ umubiri wiwe ahonganira icaha), n’<b>umwami wacu w’ukuri</b> (atsinda icaha, urupfu na Shetani, akaganza ibihe vyose).</p>",
+   "next": "Yesu yazutse arungika abigishwa biwe mw isi…"
+  },
+  {
+   "tag": "ISEZERANO RISHA · UGUKWIRAGIRA",
+   "title": "Ikanisa ritangura",
+   "date": "nko mu 30 N.K.–",
+   "one": "Mpwemu araza, kandi inkuru nziza ikwiragira ku mpera y’isi.",
+   "people": "Petero, Paulo, ikanisa rya mbere",
+   "events": "Mpwemu asukwa kuri Pentekoti, ikanisa riravuka, inkuru nziza ikwiragira kuva Yeruzalemu gushitsa Roma biciye mu ruhamo",
+   "q": "Muzohabga ubushobozi, Mpwemu Yera ni yabazako… no gushitsa ku mpera y’isi.",
+   "cite": "Ivyakozwe 1:8",
+   "christ": "Iyi nkuru iracagenda n’ubu. Bibiliya isozera mu gusezerana ko Yesu azosubira kuza akagira vyose bisha (Ivyahishuriwe 21).",
+   "detail": "<p>Inyuma y’uko Yesu aduga mw ijuru, Mpwemu yasezeranywe araza kuri Pentekoti kandi ikanisa riravuka. Inkuru nziza ikwiragira nk’uguturika.</p><ul><li><b>Pentekoti</b> · Mpwemu ahindura abigishwa b’ubgoba ivyabona b’umutima rugabo.</li><li><b>Petero</b> · avuga inkuru nziza ku Bayuda i Yeruzalemu.</li><li><b>Paulo</b> · kuva ku muhamvyi aba intumwa, ashinga amakanisa mw isi y’abanyamahanga akandika amakete.</li><li><b>Gushitsa ku mpera y’isi</b> · Yeruzalemu → Yudaya → Samariya → Roma. Isezerano rya Aburahamu ry’“imiryango yose” riba nyakuri.</li><li><b>Natwe</b> · inkuru ntihera; iraja imbere yerekeza ku kugaruka kwa Yesu n’ijuru rishasha n’isi nshasha.</li></ul>",
+   "next": "Ariko inkuru ntihera ng’aha…"
+  },
+  {
+   "tag": "ISEZERANO RISHA · IHEREZO",
+   "title": "Ugusubizwa mu busanzwe (vyose bisha)",
+   "date": "Bikiteze",
+   "one": "Yesu arasubira kuza akagira vyose bisha.",
+   "people": "Yesu agaruka; amahanga yose",
+   "events": "Ukugaruka, urubanza rwa nyuma, iherezo ry’icaha·urupfu·amosozi, ijuru rishasha n’isi nshasha",
+   "q": "Izohanagura amosozi yose ku maso yabo, kand’ urupfu ntiruzoba rukiriho, kand’ amaborogo no gutaka n’uburibge ntibizoba bikiriho.",
+   "cite": "Ivyahishuriwe 21:4",
+   "christ": "Edeni y’ukurema kwa mbere irasubizwa amaherezo nk’“Yeruzalemu nshasha.” Imana ibana n’ubgoko bgayo ibihe vyose — ukwuzura kwa Emanueli (Ivyahishuriwe 21:3; Matayo 1:23).",
+   "detail": "<p>Bibiliya ntihera ku gihe c’ikanisa. Igitabu cayo ca nyuma, Ivyahishuriwe, kigaragaza Yesu <b>asubira kuza</b> kugira ngo aherereze vyose.</p><ul><li><b>Ukugaruka</b> · umwami yasezeranywe agaruka mu buninahazwa.</li><li><b>Intsinzi ya nyuma</b> · Shetani n’urupfu binesherejwe ibihe vyose, kandi Kristo aganza nk’Umwami w’abami (1 Abakorinto 15:25-26; Ivyahishuriwe 20:10).</li><li><b>Urubanza n’izuka</b> · ubucumane bgose buragororwa, kandi abapfuye barazurwa.</li><li><b>Ijuru rishasha n’isi nshasha</b> · icaha, urupfu, amosozi, n’umubabaro biraheba ibihe vyose (Ivyahishuriwe 21:4).</li><li><b>Edeni isubijwe</b> · mu “Yeruzalemu nshasha” iruta intango, Imana ibana n’ubgoko bgayo ibihe vyose — intumbero Bibiliya yose yariko yerekeza.</li></ul><p>Rero ubu ni igihe c’<b>“birangiye, ariko ntibirashika ku herezo”</b>: muri Yesu ugukizwa <b>birangiye</b>, ariko ukwuzura kwaco <b>kuracarindiriwe</b>.</p>",
+   "next": "None iyi nkuru yose isobanura iki kuri “jewe”?"
+  }
+ ],
+ "love": [
+  "Inkuru itangura atari n’urubanza ariko n’isi yaremwe n’urukundo rwasesetse.",
+  "Aho abantu bacumuriye, Imana yaca isezerana ugukiza ng’aho nyene.",
+  "Imana yabanje kuza ku muntu atari abikwiye, imuhamagara kw izina, imugira umuyoboro w’umugisha.",
+  "Yumvise ukuniha kw’ubgoko bgari abaja maze imanuka kubukiza ubgayo.",
+  "Naho bahemukira kenshi na kenshi, ico bataka ikabatumira umukiza ikabavyura.",
+  "Ntiyateye kure mbere Dawidi yaguye, kandi biciye kuri we asezerana umwami adahera.",
+  "Ku bgoko bgamuhakanira, yaguma arungika abavugishwa n’Imana, ataka ngo “Nimwihane, mugaruke.”",
+  "Yagiye nabo mbere mu gihugu c’umwiza kuruta vyose c’ubunyagano, kandi asezerana ugusubizwa mu busanzwe.",
+  "Mbere ku bgoko bgananiwe kenshi na kenshi, ntiyasubije inyuma isezerano ryiwe.",
+  "Mbere biciye mu myaka 400 y’ugucereza, atabonwa, yariko ategura inzira y’ugukizwa.",
+  "Tukiri abanyavyaha, yarungitse Umwana wayo ngo atange ubuzima bgiwe.",
+  "Urwo rukundo twaronse, ubu arurungika ngo rusesekare mw isi yose.",
+  "Amaherezo azohanagura amosozi yose, agire vyose bisha mu rukundo."
+ ],
+ "mis": [
+  {
+   "w": "“Kubera iki Imana yaremye abantu bashobora gucumura? Ntivyari vyiza kutaturema na gato?”",
+   "t": "Imana yaremye isi n’abantu atari kubera bworo na bumwe, ariko kubera urukundo rwasesetse. Kugira umuntu <b>umuntu ushobora kugiranira ubucuti n’Imana</b> ubgaco ni urukundo. Kandi mbere ukwinjira kw’icaha ntikwabaye hanze y’umugambi w’Imana wo gukiza (Abanyefeso 1:4-5). Igikorwa ca mbere ca Bibiliya si urubanza ariko n’urukundo."
+  },
+  {
+   "w": "“Kwirukanwa no guhabga urupfu kubera kurya ivyamwa vyonyene — Imana ntiyo iri inkazi cane?”",
+   "t": "Kwirukanwa muri Edeni kwari urubanza kandi n’imbabazi. Niba, atandukanijwe n’Imana kandi mu buryo bumenagutse, umuntu yariye ku giti c’ubuzima akabaho ibihe vyose, yari kuzigamwa mu mibabaro ibihe vyose (Itanguriro 3:22). Kwemerera urupfu kwari ugukingura inzira yo gutaha, kandi ng’aho nyene Imana yasezeranye Umukiza (Itanguriro 3:15). Urukundo rwari rumaze kuba muri urwo rubanza."
+  },
+  {
+   "w": "“Aburahamu yatowe kubera ukwizera kwiwe kwinshi — mbe abantu bose ba Bibiliya si intwari mu kuntu bagenza?”",
+   "t": "Aburahamu na we yarabeshe kandi yarakekeranya, na Yakobo yari umuhendanyi. Imana ntiyahamagaye abantu “bakwije ibisabga” ariko yahamagaye abafise utunenge, ku buntu. Igituma yatowe si ubgiza bgabo ariko n’urukundo rudahemuka rw’Imana (Gusubira mu vyagezwe 7:7-8)."
+  },
+  {
+   "w": "“Mbe ivyagezwe (amategeko) si ikibazo ategerezwa gutsinda kugira ngo akizwe?”",
+   "t": "Imana yabakijije <b>imbere</b> y’uko ibaha ivyagezwe. Mbere Amategeko cumi atangura n’ijwi ritangaza ugukizwa: “Nd’ Uhoraho Imana yawe, yagukūye mu gihugu ca Egiputa” (Kuvayo 20:2). Ivyagezwe si “bikurikize ngo ukizwe,” ariko ni ubuyobozi bg’urukundo bgerekana ukuntu ubgoko bgamaze gukizwa bukwiye kubaho (Gusubira mu vyagezwe 7:7-9). Ubuntu buguma bubanza; ukugamburuka ni inyishu."
+  },
+  {
+   "w": "“Ukunaka Kanani kwari ukubaga ata mbabazi — none Imana y’Isezerano rya Kera ni inkazi koko.”",
+   "t": "Iki ni ikibazo gikomeye kitakemurwa mu nteruro imwe. Ariko Bibiliya ntikigaragaza nk’ubukazi bg’ubusa ariko nk’urubanza inyuma y’ibinjana vy’ukwihangana imbere y’ububi bukabije (harimwo gushikana abana ku gitambo) (Itanguriro 15:16; Gusubira mu vyagezwe 9:4-5; Abalewi 18:24-25). Imana ntiyihutira mbere mu rubanza, kandi yakira n’umunezero abahindukiriye — mbere abanyamahanga nka Rahabu na Rusi (Yosuwa 6:25; Rusi 4:13-17)."
+  },
+  {
+   "w": "“Dawidi yari intwari ata kanenge — ni co gituma yitwa ‘umuntu ahuje n’umutima w’Imana.’”",
+   "t": "Dawidi yarasambanye mbere arica n’umwicanyi. “Umuntu ahuje n’umutima w’Imana” ntibisobanura ata kanenge, ariko uwutahishe icaha ciwe — uwihana rwose akaguma agaruka ku Mana (Zaburi 51). Urukundo rw’Imana ntiruta mbere abaguye bikomeye."
+  },
+  {
+   "w": "“Umuvugishwa ni umupfumu avuga kazoza / Imana y’Isezerano rya Kera ni uburake bgonyene.”",
+   "t": "Umutima w’umuvugishwa si “kuvuga kazoza” ariko ni ugutakamba kw’Imana kuvuye ku mutima: “Nimuhindukire, mugaruke.” Mbere imburizi y’urubanza ntigamije gusenya ariko gukiza mu guhindura abantu — “simpimbarwa n’uk’ umunyavyaha apfa” (Ezekiyeli 33:11)."
+  },
+  {
+   "w": "“Ubunyagano bwerekana ko Imana yatereye Isirayeli rwose.”",
+   "t": "Ubunyagano ntibwabaye uguta ariko bwabaye ukubaza no gusukura kwa Se ku mwana akunda (Abaheburayo 12:6). Imana ntiyagiye; yari kumwe na Daniyeli mu nyenga z’ubunyagano kandi yasezeranye, ngo “nzi ivyiyumviro mbiyumvirako… kw ar’ ivyiyumviro vy’amahoro, atar’ ivy’ ivyago, kugira ngo mbahe ivyizigiro vyo mw iherezo ryanyu” (Yeremiya 29:11)."
+  },
+  null,
+  {
+   "w": "“Niba imyaka 400 ata jambo ryabayeho, mbe Imana ntiyagiye canke yariko iraruhuka?”",
+   "t": "Ugucereza si ukubura. Yagize gusa atavuze, mu gihe cose yariko inyiganza ubgami, indimi, n’amabarabara kugira ngo ategure ikibanza c’ugukizwa. Mu kanya gacereje kuruta utwundi, Imana yariko irakora cane, mu rukundo (Abagalatiya 4:4)."
+  },
+  {
+   "w": "“Yesu ni umwe gusa mu bigisha beza b’ingeso / umusaraba wari ukunesha guteye akabonge.”",
+   "t": "Yesu yaravuze ko ari Imana ubgiwe (Yohana 8:58), kandi umusaraba ntiwari ibanga canke ukunesheshwa ariko wari urukundo rwategekanijwe. Ntiyajanwe ng’aho ku nguvu; yatanze ubuzima bgiwe ubgiwe (Yohana 10:18). “Nta wogira urukundo ruruta urw’ uk’ umuntu yigura abakunzi biwe” (Yohana 15:13)."
+  },
+  {
+   "w": "“Ikanisa ni umugwi w’idini w’abantu batunganye, canke inyubako gusa.”",
+   "t": "Ikanisa si umuryango w’“aberanda bashitse ku rugero” ariko ni uw’<b>abanyavyaha baharirwe</b>. Mbere intumwa Paulo yiyise “agahebuza” mu banyavyaha (1 Timoteyo 1:15). Ikanisa rya mbere na ryo ryaraharira rikananirwa (Ivyakozwe 6:1; 1 Abakorinto 1:11). Si ikibanza co kwirata, ariko ni abantu bashikiriza urukundo baronse (Yohana 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Icaha c’inkomoko — nta wugororoka",
+   "body": "Ikibazo si “ingeso mbi nke” ariko ni imizi y’umutima. Kuva kuri Adamu, bose bavukira mu caha kandi ubgabo ntibashobora gushika ku Mana.",
+   "vref": "Abaroma 3:10-12, 23",
+   "vtext": "Nta wugororoka, nta n’umwe… bose bākoze ivyaha, ntibashikīra ubgiza bg’Imana."
+  },
+  {
+   "title": "Ivyagezwe ntibishobora kunkiza",
+   "body": "Ivyagezwe si urudaraza ariko n’icirore. Uko ugerageza cane, ni ko bikwereka ukuntu unanirwa. Intumbero yavyo ni ukutuyobora kuri Kristo.",
+   "vref": "Abaroma 3:20 · Abagalatiya 3:24",
+   "vtext": "ivyagezwe ari vyo bimenyekanisha icaha… ivyagezwe vyatubereye umurezi aturera akadushikiriza Kristo."
+  },
+  {
+   "title": "Ku buntu — ingabire, atari umugeragezo",
+   "body": "Ugukizwa si impembo y’ibikorwa wironkeye, ariko n’ingabire y’Imana ku batabikwiye. Ni co gituma nta wushobora kwirarira.",
+   "vref": "Abanyefeso 2:8-9",
+   "vtext": "Ubuntu ni bgo bgabakijije kubg’ ukwizera… ntivyavuye ku bikorwa, kugira ngo hoye kugira uwirarira."
+  },
+  {
+   "title": "Gutsindanishirizwa no kwizera",
+   "body": "Atari ku gukurikiza ivyagezwe, ariko ku kwizera Yesu Kristo, uharurwa nk’umugororotsi — ntiwambara ukugororoka kwawe ariko ukgwiwe.",
+   "vref": "Abaroma 5:1 · Abagalatiya 2:16",
+   "vtext": "ko twatsindanishirijwe no kwizera… umuntu adatsindanishirizwa n’ibikorwa bishinzwe n’ivyagezwe, arikw atsindanishirizwa no kwizera Yesu Kristo."
+  },
+  {
+   "title": "Bibiliya yerekana Yesu",
+   "body": "Bibiliya si igitabu c’abantu bahambaye canke c’ukwifasha. Kuva ku Itanguriro gushitsa ku Vyahishuriwe, buri rupapuro rushingira intahe umuntu umwe — Yesu Kristo.",
+   "vref": "Yohana 5:39 · Luka 24:27",
+   "vtext": "ari vyo binshingira intahe… abasobanurira mu vyanditswe vyose ivyanditswe kuri we."
+  },
+  {
+   "title": "Ubgami bg’Imana — ubutumwa nyamukuru bga Yesu",
+   "body": "Iciyumviro Yesu yigishije kuruta ibindi. Ubgami aho Imana iganza nk’umwami bginjiye mw isi na Yesu kandi buzoherezwa igihe azogaruka. Biciye ku musaraba n’izuka, Yesu ni Umwami w’ukuri yatsinze icaha, urupfu na Shetani.",
+   "vref": "Mariko 1:15",
+   "vtext": "Igihe kirashitse, ubgami bg’Imana buri hafi: mwihane, mwemere ubutumwa bgiza."
+  },
+  {
+   "title": "Inkuru nziza — yaherereje vyose",
+   "body": "Umwenda w’icaha ntashobora kuriha, Yesu yawurishe mu kibanza canje ku musaraba, kandi mu kuzuka yatsinze urupfu. Ntiniyegamira ku “kora gutya” ariko ku “Birarangiye.”",
+   "vref": "Yohana 19:30 · Abaroma 5:8",
+   "vtext": "Birarangiye… kuko Kristo yadupfiriye tukir’ abanyavyaha."
+  }
+ ]
+}
