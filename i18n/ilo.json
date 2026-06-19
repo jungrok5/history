@@ -1,0 +1,343 @@
+{
+ "menuName": "Ilokano",
+ "htmlLang": "ilo",
+ "dir": "ltr",
+ "brand": "Ti Biblia iti Maysa a Pannakaiyunnat",
+ "docTitle": "Ti Biblia iti Maysa a Pannakaiyunnat · Manipud iti Panagparsua agingga iti Iglesia",
+ "share": {
+  "title": "Ti Biblia iti Maysa a Pannakaiyunnat",
+  "text": "Iti maysa laeng a pannakaiyunnat, sukimatem ti dakkel a sarita ti Biblia — ken no apay nga immay ni Jesus."
+ },
+ "ui": {
+  "people": "Dagiti tao",
+  "events": "Napateg a pasamak",
+  "christLabel": "Itudona ni Jesus",
+  "loveLabel": "Ayat a saan nga agsardeng",
+  "mythWrong": "Gagangay a di pannakaawat",
+  "mythRight": "Ti kinapudno",
+  "more": "Basaen pay",
+  "version": "(Ti Biblia)"
+ },
+ "labels": {
+  "start": "Rugi",
+  "thread": "Ti sarita",
+  "gospel": "Ti Ebanghelio",
+  "about": "Maipapan"
+ },
+ "s": {
+  "ui.share": "↗ Iranud",
+  "ui.toast": "Nakopia ti link 📋",
+  "ui.footer": "Ti Biblia iti Maysa a Pannakaiyunnat · Dagiti naadaw a teksto ti Biblia manipud iti Ti Biblia",
+  "hero.kicker": "MANIPUD ITI PANAGPARSUA AGINGGA ITI IGLESIA",
+  "hero.title": "Ti Biblia<br><span class='em'>iti maysa a pannakaiyunnat</span>",
+  "hero.sub": "Iti maysa laeng a pannakaiyunnat, sukimatem ti dakkel a sarita ti Biblia — ken no apay nga immay ni Jesus.",
+  "hero.cue": "Iyunnatmo iti baba<span>↓</span>",
+  "thread.eyebrow": "MAYSA A SAO A MANGSILPO ITI AMIN",
+  "thread.h2": "Iti udina, ti Biblia ket maysa laeng a sarita",
+  "thread.flow": "<b>Kari</b><span class='arw'>→</span><b>Panaguray</b><span class='arw'>→</span><b>Pannakatungpal</b>",
+  "thread.note": "Ti Dios <b>agkari</b> (ti tulag), dagiti tao <b>aguray</b> iti nabayag, ket iti kamaudiananna amin ket <b>matungpal</b> ken malpas ken Jesus. Surotem dagiti 13 a buya iti baba babaen iti dayta nga ayus. Pindutem ti <b>“Basaen pay”</b> iti tunggal kard para iti naun-uneg a sarita.",
+  "gospel.eyebrow": "TI KAIPAPANAN DAYTOY A SARITA PARA “KANIAK”",
+  "gospel.h2": "Ti pudpudno a puso ti Biblia",
+  "gospel.lead": "Ti Biblia ket <b>saan a libro maipapan iti “panagbalin a naimbag a tao.”</b>",
+  "gospel.sublead": "Daytoy ket ti sarita no kasano nga isalakan ti Dios, <b>babaen laeng iti parabur</b>, dagiti managbasol a saan a mabalin a mangisalakan iti bagbagida. Iti tengngana ket agtakder ni Jesu-Cristo.",
+  "gospel.mirror": "<h3>Ti agnanayon a wagas ti Israel ket pudpudno a ladawan “ko”</h3><div class='cycle'><b>Panagrukbab iti didiosen</b><span class='a'>→</span><b>Panagsagaba</b><span class='a'>→</span><b>Panagasug</b><span class='a'>→</span><b>Isalakan ti Dios</b><span class='a'>→</span><b>Panagrukbab manen…</b></div><p>Manipud kadagiti ukom agingga iti pannakaibalud, ulit-uliten ti Israel daytoy a wagas iti awan patingga. Saan nga insurat ti Biblia daytoy tapno mabalin a laisentayo ida, “Anian a nakakaasida.”</p><p>Daytoy ket maysa a <b>sarming</b>. Ti punto ket saan a “kasta ti inaramid ti Israel” no di ket <b>“kasta met ti aramidek”</b> (I Taga Corinto 10:11).</p><p>Ti <b>didiosen</b> ket saan laeng a kinitikitan a ladawan. Daytoy ket <b>aniaman nga ay-ayatentayo wenno pagtalkantayo a nalablabes ngem iti Dios</b> — kuarta, balligi, pammadayaw, tattao, uray pay ti bagik. Ket ti panangusar iti Dios a kas <b>ramit a pangtungpal iti tarigagayko</b> ket panagrukbab met laeng iti didiosen.</p><p class='punch'>Iti kamaudiananna, ti kaunegan a didiosen ket “ti bagik, a situtugaw iti trono ti Dios.”</p>",
+  "gospel.coreIntro": "Isu nga, kasano nga isalakan ti Dios ti kasta a managbasol? Adtoy ti puso ti ebanghelio nga iwarwaragawag ti Biblia.",
+  "gospel.crux": "<p class='crux-lead'>Ti intero a Biblia itudona ti maysa a disso.</p><p>Saan a mabalin a burakemen dagiti tao ti wagas ti basol babaen iti bukodda a pigsa, ket awan ti uray maysa a nalinteg. Isu nga adda masapul a <b>mangbayad iti gatad iti saadda</b>.</p><p>Saan nga immay ni Jesus tapno mangted laeng iti naimbag a sursuro. Gapu ta awanen ti sabali a wagas a mangisalakan kaniak, <b>awan ti dadduma a maaramidanna no di ti umay.</b></p><p class='crux-punch'>Daydiay rumbeng a nailansa iti dayta a krus ket <b>siak</b>.<br>Inawit ni Jesus ti <b>basolko</b> ket nailansa sadiay iti saadko.</p><div class='crux-verse'>“Ngem isu nasugsugat a gapu cadagiti labsingtayo, isu napalitem a gapu cadagiti kinadangkestayo… ket gapu cadagiti saplitna maagasantayo.” — Isaias 53:5</div>",
+  "faq.h": "Adda kadi pay laeng pakariribukam?",
+  "faq.q1": "<span class='arr'>▸</span> Isu nga ti maysa a mammapatay ket mamati laeng ket mapan idiay langit, ngem ti maysa a nagbiag a naimbag a saan a mamati ket mapan idiay impierno?",
+  "faq.a1": "<p>Daytoy ket nainkalintegan a saludsod. Ngem dua a di pannakaawat ti nailemmeng iti dayta.</p><p><b>① Saan a guduaen ti Biblia dagiti tao iti “naimbag vs. dakes.”</b> Ti rukod ket saan a “nasaysayaat ngem ti kaarruba” no di ket “ti naan-anay a kinasanto ti Dios.” Iti sangoananna, awan ti “naimbag a maibilang” (Taga Roma 3:23). Isu a daytoy ket saan a “naimbag a tao vs. mammapatay,” no di ket kasla dua a tao nga addaan iti agpada a makapatay a sakit — ti maysa awatenna ti agas, ti maysa laksidenna, a kunana, “Nasalsalun-atak ngem dayta a tao.”</p><p><b>② Maymaysa laeng a banag ti manggudua iti langit ken impierno.</b> Saan a ti puntos ti aramid, no di ket <b>no inawatmo ni Jesu-Cristo a kas Apo ket nalpasen ti parikut ti basolmo.</b> Ti tao a ti basolna ket nalpasen babaen iti dara ni Cristo ket mapan idiay langit; ti tao a saan a nangawat kenkuana, a ti basolna ket nabati, ket saan. Awan a pulos ti naimbag nga aramid a makaresolba iti parikut ti basol a maipaay kenka.</p><p>Isu a ti langit ken impierno ket saan a “gunggona iti naimbag nga aramid” no di ket banag a maipapan iti <b>relasion ken Cristo</b>. Ket ti “panamati” ket saan a panagtutunos ti panunot no di ket panagbaliw no asino ti mangituray iti biagmo — ti siasinoman a pudpudno a mangawat kenkuana ket saan nga agbalin a natangsit no di ket agbabawi a sipipinget. Ti kinapudnona, ti panangikalinteg iti bagi (“naimbagak a tao”) ti karigatan a burakemen a didiosen, a mangpapanunot kadatayo a saantayo a kasapulan ni Cristo (Lucas 18:9-14).</p><p>Silalawag a kuna ti Biblia: <b>“Ti mamati kencuana, saan a maocom; ngem ti di mamati kencuana, naocomen”</b> (Juan 3:18). Ti panangukom ket saan a “panangraranggas iti biagmo kalpasan ti ipapataymo” no di ket naikeddengen babaen iti <b>no inawatmo ni Cristo</b>.</p><p class='faq-v'>Taga Roma 3:23 · Juan 3:18 · Taga Efeso 2:8-9 · Lucas 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Saan kadi nga umdas ti agbalin a naimbag a tao, uray no saanak a mamati ken Jesus?",
+  "faq.a2": "<p>Daytoy ti kadawyan a kapanunotan, ngem di naawatanna no ania ti “pudpudno a parikut.” Mangaramidtayo iti ladawan.</p><p><b>Ipagarupmo nga addaka iti barko dagiti agtatakaw iti baybay.</b> Uray no kasano kadalus ti panangtaripatom iti kubierta, kasano ti kinaimbagmo kadagiti kakaduam, kasano kasayaat ti panagbiagmo — maysaka pay laeng nga <b>agtatakaw</b>, ta maitugotka a kadua ti barko a mapan iti turonganna (ti puerto ti panangukom). Ti parikut ket saan a “puntos ti aramid” no di ket <b>“ania a barko ti naibilangam” (ti kinasiasinom)</b>.</p><p>Isu a saan a kunaen ti ebanghelio “ikagumaam ti agbalin a naimbag”; kunana <b>“agsukatka iti barko.”</b> Bumabaka iti barko ti basol ket bumallasiwka ken Jesus — iti baro a kinasiasino a kas <b>anak ti Dios</b>. Saan a daytoy ti panangngato iti puntosmo babaen iti kinagaget, no di ket panagtalek iti Daydiay mangiyunnat iti imana ket bummallasiwka iti barkona.</p><p>Kinapudnona, iladawan ti Biblia ti pannakaisalakan a kas dayta a pannakaiyalis — <b>“Isu a nangluc-at cadatayo iti pannacabalin ti sipnget, ket inyallatiwnatayo iti pagarian ti dungdongoenna nga Anac”</b> (Taga Colosas 1:13).</p><p>Saanmo a di maawatan: <b>saan a kayatna a sawen nga awan serserbi ti naimbag a panagbiag.</b> Ngem ti kinaimbag ket saan a “kondision” ti pannakaisalakan no di ket ti <b>bungana</b>. Ti nagsukat iti barko ket agbiagen iti naimbag saan a gapu iti buteng, no di ket gapu iti <b>ayat ti maysa nga anak</b>.</p><p class='faq-v'>Taga Colosas 1:13 · Juan 1:12 · Juan 3:3 · Taga Efeso 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> No ti nakaaramid iti dakes ket agtalna, a kunana “Pinakawanennakon ti Dios,” bayat a ti biktima agsagsagaba pay laeng — saan kadi a nalaklaka unay ti parabur?",
+  "faq.a3": "<p>Nainkalintegan ti saludsod, ket pudpudno ti sakit. Ngem ti kasta a panangibaga ket saan a “ti pammakawan ti Biblia” — daytoy ket maysa a <b>panangrang-ay</b> iti dayta.</p><p><b>① Saan a pulos a nalaka ti pammakawan ti Dios.</b> Saan a maiyabbong ti basol a kasla saan a napasamak; binayadan a mismo ti Dios ti gatadna babaen iti biag ti bukodna nga Anak. Ti krus ket saan a paneknek a nalaka ti panangmatmat iti basol, no di ket kasano kadagsen ti basol — ti kanginaan a pammakawan iti lubong.</p><p><b>② Ti pudpudno a panagbabawi ket agbunga.</b> No ti nakaaramid iti dakes ket natangsit iti sangoanan ti biktima — “Pinakawanennakon ti Dios, isu nga addaanak iti talna” — dayta ket saan a panagbabawi no di ket panangtulad iti dayta (Mateo 3:8). Ket ti pammakawan iti nagbaetan ti tao ken ti Dios ket saanna a punasen ti sugat ti biktima wenno piliten ti biktima a mangpakawan.</p><p><b>③ Saan a pulos a basta “mapalubosan” ti basol.</b> Tunggal basol ket mabayadan iti maysa kadagiti dua a disso — <b>awiten ni Cristo iti krus</b> (para kadagiti agtalek kenkuana awanen ti pannakaukom, Taga Roma 8:1), <b>wenno awiten daydiay aginggana laksidenna kenkuana.</b> Isu nga awan ti “nalaka a pammakawan.” Ti nakaaramid iti dakes ket addaan pay laeng iti rebbengen iti linteg iti daytoy a lubong (Taga Roma 13:1-4).</p><p><b>④ Saan a pulos a babassit iti Dios dagiti lua ti biktima.</b> Ti Dios makipagsangit kadagiti agsangsangit, lagipenna ti tunggal lua, ket iti kamaudiananna isuna a mismo ti mangpunas kadagitoy (Apocalipsis 21:4). Isu a saan met a baklayen ti biktima a maymaysa ti dagsen ti panangibales, no di ket maitalekna iti nalinteg a Dios (Taga Roma 12:19 — “cuac ti pammales: Siac supapacacto, cuna ti Apo”).</p><p class='faq-v'>Mateo 3:8 · Taga Roma 8:1 · Taga Roma 13:1-4 · Apocalipsis 21:4</p>",
+  "respond.h3": "Isu — ania ngarud ti maipapan kaniak?",
+  "respond.sub": "Daytoy nga ayat ket saan nga impormasion no di ket maysa nga <b>imbitasion</b>. No ti ayat a nailansa iti saadmo ket nangsagid iti pusom, ikararagmo daytoy iti inana-anay, sangmaysa a linia.",
+  "respond.prayer": "<p>O Dios,</p><p>bigbigek a maysaak a managbasol a saan a mabalin a mangisalakan iti bagbagik.</p><p>Patiek a natay ni Jesus iti krus a maipaay kaniak ket nagungar.</p><p>Pakawanem amin a basolko, ket manipud ita agbalinka koma nga Apo ti biagko.</p><p>Awatennak a kas anakmo, ket itulokmo a makapagbiagak iti baro a biag.</p><p class='amen'>Iti nagan ni Jesus ikararagko. Amen.</p>",
+  "respond.after": "No sipapasnek nga inkararagmo daytoy, kuna ti Biblia a <b>nagbalinkan nga anak ti Dios</b>. Saankan a maymaysa — agbirokka iti asideg nga iglesia ket makipagnaka iti dalan ti pammati.",
+  "respond.verse": "“Ngem cadagiti amin nga immawat kencuana… iniccanna ida ti calintegan nga agbalin nga anac ti Dios.” — Juan 1:12 · Taga Roma 10:9-10",
+  "closing.main": "Maysa a Dios,<br>babaen iti maysa a sarita,<br>birbirokennatayo iti maysa nga<br><em>ayat</em> a saan a pulos nga agsuko.",
+  "closing.verse": "“Ta diac duaduaen nga uray ni patay, uray ti biag… uray aniaman a sabsabali a parsua, didatay mabalinto nga isina iti ayat ti Dios, nga adda ken Cristo Jesus nga Apotayo.” — Taga Roma 8:38-39",
+  "closing.small": "Iti rabaw daytoy a sarita, ti Linteg, dagiti libro a daniw, dagiti mammadto, ken dagiti surat ket nayonanda iti “lasag.”<br>Manipud ita, aniaman a libro ti luktam, maammuamto “sadino a paset ti sarita ti ayanmo.”",
+  "closing.share": "↗ Iranud daytoy a sarita",
+  "about.line": "Naibatay iti panangmatmat a <b>histo-pannubbot, ebanghelikal ken Reformado</b> nga ibingbingay ti kaaduan iti Korea a Protestante nga iglesia.",
+  "about.contact": "Saludsod · komento — <a id='contact' class='mail'>Mangipatulodka iti email</a>"
+ },
+ "epochs": [
+  {
+   "tag": "DAAN A TULAG · RUGI",
+   "title": "Panagparsua",
+   "date": "Idi punganay",
+   "one": "Pinarsua ti Dios ti maysa a lubong a “naimbag unay.”",
+   "people": "Dios; ni Adan ken ni Eva",
+   "events": "Innem nga aldaw ti panagparsua, ti tao a naaramid iti ladawan ti Dios, ti panaginana iti Sabado",
+   "q": "Idi punganay ti Dios pinarsuana dagiti langlangit ken ti daga.",
+   "cite": "Genesis 1:1",
+   "christ": "Ti lubong ket naaramid babaen iti “Verbo.” Iwaragawag ti Ebanghelio ni Juan nga isu daytoy a Verbo ni Jesus a mismo (Juan 1:1-3).",
+   "detail": "<p>Saan a mangrugi ti Biblia iti pilosopiko nga argumento no di ket iti maysa a panangiwaragawag: <b>“Idi punganay ti Dios…”</b> Ti lubong ket saan a maysa a gasat no di ket ti aramid ti maysa a personal a Dios.</p><ul><li><b>Ti ladawan ti Dios</b> · Kadagiti amin a parsua, ti tao laeng ti naaramid a kaas-asping ti Dios — tapno am-ammuenna ken aywananna ti lubong.</li><li><b>Inana</b> · Ti panaginana iti maikapito nga aldaw ipakitana ti amin a naan-anay ken natalna (shalom): “naimbag.”</li><li><b>Eden</b> · Ti lubong sakbay a narba, a sadiay magna a sangsangkamaysa ti Dios ken dagiti tao.</li></ul>",
+   "next": "Ngem daytoy a kinaan-anay ket dandanin marba…"
+  },
+  {
+   "tag": "DAAN A TULAG · MANGRUGI TI PARIKUT",
+   "title": "Ti Pannakatnag",
+   "date": "Idi punganay",
+   "one": "Simrek ti basol, ket napugsat ti silpo ti tao ken ti Dios.",
+   "people": "Adan ken Eva; ti uleg (Satanas)",
+   "events": "Pannangan iti maiparit a bunga, pannakapatalaw iti Eden, ti iyaay ti patay ken bannog",
+   "q": "Ket Siac pagginnuraencayto iti babai… daytoy sugatennanto ta olom.",
+   "cite": "Genesis 3:15",
+   "christ": "Ti immuna a kari ti ebanghelio, naited apaman a kalpasan ti Pannakatnag: ti “caputotan ti babai” ti mangrumek iti ulo ti uleg — ket dayta ni Jesus (Genesis 3:15; Taga Roma 16:20; Taga Galacia 4:4).",
+   "detail": "<p>Babaen iti panagsukir a panangtarigagay nga “agbalin a kas iti Dios,” simrek ti basol iti lubong. Ti pagbanaganna ket saan laeng a maysa a nadadael a paglintegan no di ket maysa a <b>nadadael a relasion</b>.</p><ul><li><b>Naburak a singgalut</b> · iti Dios (panaglemmeng), iti maysa ken maysa (panangpabasol), iti naturalesa (sisiit ken bannog).</li><li><b>Patay</b> · ti pakdaar a “sigurado a mataykanto” ket nagbalin a kinapudno.</li><li><b>Genesis 3:15</b> · ngem iti tengnga ti panangukom, immuna nga immay ti maysa a kari ti pannakaisalakan. Awagan dagiti eskolar daytoy a <b>protoevangelium (ti immuna nga ebanghelio)</b>.</li></ul>",
+   "next": "Ita ayaban ti Dios ti maysa a lalaki tapno rugianna ti panangisalakan…"
+  },
+  {
+   "tag": "DAAN A TULAG · TI KARI",
+   "title": "Dagiti Patriarka",
+   "date": "agarup 2000 B.C.",
+   "one": "Inkari ti Dios ken Abraham, “Sikanto ti maysa a kanal ti bendision.”",
+   "people": "Abraham · Isaac · Jacob · Jose",
+   "events": "Ti tulag ken Abraham, ti pannakaidaton ni Isaac, dagiti sangapulo ket dua nga annak ni Jacob, ni Jose nga immangato iti turay idiay Egipto",
+   "q": "Ket aramidencanto a dackel a pagarian… benditodanto kenca amin dagiti caputotan iti daga.",
+   "cite": "Genesis 12:2-3",
+   "christ": "Ti kari nga “amin a tattao mabendisionanto” ket matungpal ken Jesus, ti caputotan ni Abraham (Taga Galacia 3:16).",
+   "detail": "<p>Rugian ti Dios a sangoen ti parikut ti intero a sangkataoan babaen iti panangayabna iti maysa a lalaki, ni <b>Abraham</b>. Ti pusona ket ti <b>tulag (kari)</b> — maysa a dackel a pagarian, maysa a daga, ken “bendision para iti amin a tattao.”</p><ul><li><b>Pammati</b> · Pinati ni Abraham ti di makita a kari, ket naibilang kenkuana a kinalinteg (Genesis 15:6).</li><li><b>Isaac ken Jacob</b> · ti kari ket maipasa iti sumaruno a kaputotan; ni Jacob (Israel) ti ama dagiti sangapulo ket dua a tribu.</li><li><b>Jose</b> · nailaco dagiti kakabsatna ngem immangato iti turay — “pinanagem ti Dios a naimbag” (Genesis 50:20).</li></ul>",
+   "next": "Iti panangsurot ken Jose, bimmaba ti pamilia idiay Egipto — ket nagbalin a tagabu…"
+  },
+  {
+   "tag": "DAAN A TULAG · PANNUBBOT",
+   "title": "Exodo ken Let-ang",
+   "date": "agarup 1446 B.C.",
+   "one": "Inispal ti Dios ti maysa a natagabu nga ili ket pinagbalinna nga isu a bukodna.",
+   "people": "Moises, Aaron, Faraon",
+   "events": "Dagiti sangapulo a didigra, ti Paskua, ti panagballasiw iti Nalabaga a Baybay, dagiti Sangapulo a Bilin idiay Sinai, ti tabernakulo, 40 a tawen iti let-ang",
+   "q": "Ket alaencayto nga ilic, ket siacto ti Diosyo.",
+   "cite": "Exodo 6:7",
+   "christ": "Ti Paskua — a sadiay ti dara ti karnero ti nangpaadayo iti patay — itudona ni Jesus, “ti Paskuatayo a karnero,” a nailansa para kadatayo (I Taga Corinto 5:7).",
+   "detail": "<p>Ti kadaklan a panangispal iti Daan a Tulag. Ti Israel a tagabu idi ket nawayawayaan babaen iti pannakabalin ti Dios ket nasukog a kas <b>ili</b> ti Dios.</p><ul><li><b>Ti Paskua</b> · ti balay a namarkaan iti dara ti karnero iti ruangan ket nailasat manipud iti patay — ti pagwadan ti tunggal daton kalpasanna.</li><li><b>Ti Nalabaga a Baybay</b> · pannakaisalakan no sadino a nagngudo ti dalan; ti “panagballasiw” ket nagbalin a simbolo ti baro a panagrugi.</li><li><b>Ti tulag iti Sinai</b> · babaen kadagiti Sangapulo a Bilin masursuroda no kasano ti agbiag a kas ili ti Dios.</li><li><b>Ti tabernakulo</b> · maysa a maiyalis-alis a santuario a sadiay agnaed ti Dios iti tengnga ti ilina — maysa a pakpakauna iti “Emmanuel.”</li><li><b>40 a tawen</b> · ti panagsukir ti namagwander iti maysa a kaputotan iti let-ang, ngem nagtalinaed nga asideg ti Dios babaen iti mana ken ti adigi ti ulep ken apuy.</li></ul>",
+   "next": "Iti igid ti daga a naikari, agsagsaganada nga sumrek…"
+  },
+  {
+   "tag": "DAAN A TULAG · PANAGNAED",
+   "title": "Panangabak ken Dagiti Ukom",
+   "date": "agarup 1400–1050 B.C.",
+   "one": "Naawatda ti daga, ngem awan ari, tunggal maysa inaramidna ti naimbag iti panagkitana.",
+   "people": "Josue; dagiti ukom a kas ken Gideon ken Samson; Ruth",
+   "events": "Ti pannakarba ti Jerico, ti panagnaed idiay Canaan, ti maul-ulit a wagas ti basol–panangukom–pannakaispal",
+   "q": "Cadagidi nga al-aldaw awan idi ti ari idiay Israel: ti tumunggal tao aramidenna idi daydi a nalinteg iti matana met laeng.",
+   "cite": "Oc-ocom 21:25",
+   "christ": "Manipud iti kaputotan ni Ruth nagtaud ni David, ket manipud iti kaputotan ni David nagtaud ni Jesus (Mateo 1). Uray iti riribuk, agtultuloy ti kaputotan ti Mesias.",
+   "detail": "<p>Iti panangidaulo ni Josue simrekda iti naikari a daga, ngem kalpasan ti panagnaedda dagus a nalipatanda ti Dios. Ti Oc-ocom ket ti isu met laeng a wagas a maul-ulit.</p><ul><li><b>Ti agpababa a wagas</b> · basol → panangirurumen → panagasug → mangispal ti maysa nga ukom → basol manen. Dumakdakes laeng.</li><li><b>Dagiti ukom</b> · Gideon, Samson, Debora — temporario a mangispal, naturay ngem napno iti pagkapuyan.</li><li><b>Ruth</b> · maysa a naraniag a sarita ti kinamatalek iti nasipnget a tiempo; maysa a ganggannaet a babai ti simrek iti kaputotan ni David (ken ni Jesus).</li></ul>",
+   "next": "Agasug dagiti tattao, “Ikkannakami met iti ari!”…"
+  },
+  {
+   "tag": "DAAN A TULAG · BALITOK NGA EDAD",
+   "title": "Ti Nagkaykaysa a Pagarian",
+   "date": "agarup 1050–930 B.C.",
+   "one": "Inkari ti Dios ken David, “Ti tronom agtalinaedto iti agnanayon.”",
+   "people": "Saul · David · Solomon",
+   "events": "Ti immuna nga ari a Saul, ni David ken ni Goliat, ti tulag ken David, imbangon ni Solomon ti templo",
+   "q": "Ket mapatalgedanto ti balaymo ken ti pagariam iti agnanayon iti sangoanam: ti tronom mapasingkedanto nga agnanayon.",
+   "cite": "II Samuel 7:16",
+   "christ": "Ti “agnanayon a trono” ket matungpal ken Jesus, ti anak ni David — isu nga isu ket maawagan a “Anak ni David” (Lucas 1:32-33; Mateo 1:1).",
+   "detail": "<p>Ti tuktok ti Israel, naituray babaen ti tallo nga ari.</p><ul><li><b>Saul</b> · ti immuna nga ari a dinawat ti ili; naimbag ti rugi ngem nadadael ti panagsukirna.</li><li><b>David</b> · “maysa a tao a maitunos iti puso ti Dios.” Inabakna ni Goliat ket pinagbalinna ti Jerusalem a kabesera. Nagbasol iti dakkel (Betsabe) ngem nagbabawi a naimpusuan (Salmo 51).</li><li><b>Ti tulag ken David (II Samuel 7)</b> · inkari ti Dios a pasingkedanna ti dinastia ni David iti agnanayon — ti napateg a ramut ti namnama ti Mesias.</li><li><b>Solomon</b> · iti tuktok ti sirib ken kinabaknang imbangonna ti <b>templo</b>, ngem iti udi ti biagna timmallikud kadagiti didiosen.</li></ul>",
+   "next": "Kalpasan ni Solomon, nabingay ti pagarian iti dua…"
+  },
+  {
+   "tag": "DAAN A TULAG · PANAGPUKAW",
+   "title": "Ti Nabingay a Pagarian",
+   "date": "930–586 B.C.",
+   "one": "Nabingay iti abagatan (Juda) ken amianan (Israel), ket in-inut a nadadael ti nasion.",
+   "people": "Dagiti ari ti agpada a pagarian; dagiti mammadto a kas ken Elias, Isaias, Jeremias",
+   "events": "Nabingay ti pagarian, nagwaras ti panagrukbab iti didiosen, nagpakdaar dagiti mammadto",
+   "q": "Iti casta ti Israel immalsa a maibusor iti balay ni David inggana ita nga aldaw.",
+   "cite": "I Ar-ari 12:19",
+   "christ": "Iti daytoy a panawen ipadto dagiti mammadto ti umay a Mesias iti ad-adda a kinalawag (Isaias 9:6; Isaias 53).",
+   "detail": "<p>Idi al-aldaw ti anak ni Solomon nabingay ti nasion: <b>ti amianan a pagarian ti Israel</b> (10 a tribu, kabesera ti Samaria) ken <b>ti abagatan a pagarian ti Juda</b> (2 a tribu, kabesera ti Jerusalem).</p><ul><li><b>Israel (amianan)</b> · tunggal ari agserbi iti didiosen; natnag iti Asiria idi 722 B.C.</li><li><b>Juda (abagatan)</b> · agtultuloy ti kaputotan ni David, addaan iti sumagmamano a naimbag nga ari a kas ken Ezekias ken Josias, ngem iti kaaduanna nagpababa.</li><li><b>Dagiti mammadto</b> · Elias, Amos, Isaias, Jeremias agasug “agsublikayo!” Aglaplapusanan ditoy ti padto ti Mesias (ti “agsagsagaba nga adipen” ti Isaias 53).</li></ul>",
+   "next": "Iti udina dumteng ti naipakdaar a panangukom — maitalawda a kas balud…"
+  },
+  {
+   "tag": "DAAN A TULAG · PANANGUKOM",
+   "title": "Ti Pannakaibalud",
+   "date": "722 / 586 B.C.",
+   "one": "Narba ti nasion ket maiguyod dagiti tattao iti ganggannaet a daga.",
+   "people": "Daniel, Ezekiel, Nabucodonosor",
+   "events": "Natnag ti Israel iti Asiria (722), natnag ti Juda iti Babilonia ket nadadael ti templo (586)",
+   "q": "Iti denna dagiti carcarayan sadi Babilonia, Sadiay nagtugtugawcami, wen, nagsangsangitcami, no malagipmi idi ti Sion.",
+   "cite": "Salmo 137:1",
+   "christ": "Iti kaunegan ti panagrigat inkari ni Jeremias ti maysa a “baro a tulag” (Jeremias 31:31) — ti isu met laeng a tulag a sinelyoan ni Jesus iti Maudi a Pangrabii.",
+   "detail": "<p>Natungpal dagiti pakdaar. Napuoran ti templo ket naiyalis dagiti tattao idiay Babilonia — napukawda ti daga, ti ari, ken ti templo: ti kababaan a punto.</p><ul><li><b>Dua a pannakatnag</b> · Israel (Asiria, 722 B.C.) ken Juda (Babilonia, 586 B.C.).</li><li><b>Daniel</b> · maysa a pagwadan ti pammati uray iti pagano a palasio (ti rukib dagiti leon); makitana dagiti sirmata ti umay nga “agnanayon a pagarian.”</li><li><b>Maysa a rissik ti namnama</b> · ti sirmata ni Ezekiel kadagiti namagaan a tulang nga agbiag manen (Ezekiel 37) ken ti “baro a tulag” ni Jeremias itudoda ti masakbayan iti kasipngetan.</li></ul>",
+   "next": "Pitupulo a tawen kalpasanna, luktan ti Dios ti dalan — agawidda…"
+  },
+  {
+   "tag": "DAAN A TULAG · PANANGISUBLI",
+   "title": "Ti Panagsubli",
+   "date": "538–430 B.C.",
+   "one": "Nagsublida ket binangonda manen ti templo ken dagiti pader.",
+   "people": "Esdras, Nehemias, Ester, Zorobabel",
+   "events": "Panagsubli babaen ti bilin ni Ciro, panangbangon manen iti templo, panangtarimaan kadagiti pader ti Jerusalem, panangisubli iti Sao",
+   "q": "Ti rag-o ni Jehova isu ti pigsayo.",
+   "cite": "Nehemias 8:10",
+   "christ": "Ni Malakias, ti maudi a libro ti Daan a Tulag, agngudo babaen ti panangipadto iti maysa a mensahero a mangisagana iti dalan ti Mesias: “ibaonco ti babaonec” (Malakias 3:1).",
+   "detail": "<p>Babaen ti bilin ti ari ti Persia a Ciro (538 B.C.) mangrugi ti panagsubli. Iti tallo a daras agsublida ket bangonenda manen ti narba.</p><ul><li><b>Zorobabel</b> · binangonna manen ti templo (nalpas idi 516 B.C.).</li><li><b>Esdras</b> · isurona manen ti Sao ket pasayaatenna ti pammati.</li><li><b>Nehemias</b> · binangonna manen dagiti pader ti Jerusalem iti 52 nga aldaw.</li><li><b>Ester</b> · insalakanna dagiti Judio idiay Persia manipud iti pannakadadael — “para iti kasta a tiempo a kas itoy.”</li><li><b>Agtultuloy a panagtarigagay</b> · agtakder ti templo, ngem awan ti ari a kas ken David. Aguray dagiti tattao iti Mesias.</li></ul>",
+   "next": "Ket kalpasanna… a kasla naulimek ti langit, lumabas ti 400 a tawen."
+  },
+  {
+   "tag": "NAGBAETAN DAGITI TULAG · PANANGISAGANA ITI ESKENARIO",
+   "title": "Dagiti Naulimek a Tawen",
+   "date": "agarup 430–4 B.C.",
+   "one": "400 a tawen nga awan timek ti mammadto — ngem siuulimek a naisagana ti eskenario.",
+   "people": "Alejandro ti Naindaklan, dagiti Macabeo, Roma",
+   "events": "Persia → Grecia → kinawaya dagiti Macabeo → turay ti Roma",
+   "q": "Ngem idi nadanunan ti aldaw, ti Dios imbaonna ti Anacna, a nayanac iti babai.",
+   "cite": "Taga Galacia 4:4",
+   "christ": "Amin daytoy a “panangisagana iti eskenario” ket panagtrabaho ti Dios tapno umay ni Jesus iti husto “a tiempo.”",
+   "detail": "<p>Manipud ken Malakias agingga iti Baro a Tulag, agarup 400 a tawen ti limmabas nga awan baro a Surat. Ngem iti likudan ti historia agsagsagana ti Dios ti dalan para iti ebanghelio.</p><ul><li><b>Agsisinnukat dagiti imperio</b> · Persia → Grecia (Alejandro, 333 B.C.) → dagiti Ptolemeo ken Seleucida → ti panagalsa dagiti Macabeo (167 B.C.) → Roma (63 B.C.).</li><li><b>Griego</b> · ti panangabak ni Alejandro nagpagbalin ti Griego a gagangay a pagsasao; naipatarus ti Daan a Tulag iti Griego (ti Septuaginta), a nangsagana iti dalan tapno agwaras a napardas ti ebanghelio.</li><li><b>Dalan ken talna ti Roma</b> · dagiti nasayaat a dalan ken ti “Pax Romana” nagbalinda a dalan para iti mision.</li><li><b>Sinagoga ken partido</b> · nagrramut ti panangisuro iti sinagoga; nagparang dagiti Fariseo ken Saduceo; ket nataenganan ti <b>panagtarigagay iti Mesias</b>.</li></ul>",
+   "next": "Ket napugsat ti panagulimek — iti kamaudiananna, immay isuna."
+  },
+  {
+   "tag": "BARO A TULAG · PANNAKATUNGPAL",
+   "title": "Immay ni Jesus",
+   "date": "agarup 4 B.C.–30 A.D.",
+   "one": "Immay ti naikari a Mesias, natay, ket nagungar.",
+   "people": "Jesus, dagiti sangapulo ket dua nga adalan, Juan a Mammautisar",
+   "events": "Ti panagbalin a tao, ti ministeriona ken panangisuro ken dagiti milagro, ti ipapatay iti krus, ti panagungar iti maikatlo nga aldaw",
+   "q": "Ket daydi a Verbo nagbalin a lasag, ket nakipaggian cadatayo… napno ti parabur ken pudno.",
+   "cite": "Juan 1:14",
+   "christ": "Ti caputotan ti babai (buya 2), ti bendision ni Abraham (3), ti karnero ti Paskua (4), ti agnanayon nga ari ni David (6), ti baro a tulag (8) — amin matungpalda iti maysa a tao, ni Jesus: ti pudpudno a Mammadto, Padi, ken Ari.",
+   "detail": "<p>Napugsat ti panagulimek; dimteng ti Naikari. Dagiti uppat nga Ebanghelio paneknekanda ti biag, ipapatay, ken panagungar ni Jesus manipud iti uppat nga anggulo.</p><ul><li><b>Panagbalin a tao</b> · ti Dios nagbalin a tao (Emmanuel, “Dios sicadatayo”), iti nanumo a disso ti Betlehem.</li><li><b>Ministerio</b> · isursurona ti pagarian ti Dios, agasanna dagiti masaksakit, ayabanna dagiti managbasol. “Ti nakakita kaniak, nakitanan ti Ama.”</li><li><b>Ti krus</b> · binayadanna ti gatad ti basol ken patay nga inyeg ti Pannakatnag (buya 2). Ti pudpudno a karnero ti Paskua.</li><li><b>Panagungar</b> · iti panagungarna iti maikatlo nga aldaw, rinekkenna ti pannakabalin ti basol, patay, ken Satanas — uray iti krus “inabacna, dagiti kinaturay ken dagiti pannacabalin… ti panagballigina cadacuada iti cruzna” (Taga Colosas 2:15).</li></ul><p>Isu a ni Jesus ket ti <b>pudpudno a Mammadto</b> (mangipakita iti dalan iti Dios), ti <b>pudpudno a Padi</b> (mangsubbot iti basol babaen iti bukodna a bagi), ken ti <b>pudpudno nga Ari</b> (mangabak iti basol, patay, ken Satanas ket agturay iti agnanayon).</p>",
+   "next": "Ti nagungar a Jesus ibaonna dagiti adalanna iti lubong…"
+  },
+  {
+   "tag": "BARO A TULAG · PANAGWARAS",
+   "title": "Mangrugi ti Iglesia",
+   "date": "agarup 30 A.D.–",
+   "one": "Immay ti Espiritu, ket agwaras ti ebanghelio agingga iti ungto ti daga.",
+   "people": "Pedro, Pablo, ti immuna nga iglesia",
+   "events": "Naibukbok ti Espiritu idi Pentecostes, naipasngay ti iglesia, nagwaras ti ebanghelio manipud Jerusalem agingga Roma babaen ti pannakaidadanes",
+   "q": "Ngem umawatcayto ti pannacabalin, inton umay cadacayo ti Espiritu Santo… agingga iti ungto ti daga.",
+   "cite": "Dagiti Aramid 1:8",
+   "christ": "Daytoy a sarita ket agtultuloy pay laeng ita. Agngudo ti Biblia babaen ti panangkari nga umayto manen ni Jesus ket pagbalinenna a baro ti amin a banbanag (Apocalipsis 21).",
+   "detail": "<p>Kalpasan ti panagpangato ni Jesus, immay ti naikari nga Espiritu idi Pentecostes ket naipasngay ti iglesia. Nagwaras a sirrusok ti ebanghelio.</p><ul><li><b>Pentecostes</b> · ti Espiritu pinagbalinna dagiti mabuteng nga adalan kadagiti natured a saksi.</li><li><b>Pedro</b> · inkasabana ti ebanghelio kadagiti Judio idiay Jerusalem.</li><li><b>Pablo</b> · manipud mangidadanes a nagbalin nga apostol, mangimula kadagiti iglesia iti intero a lubong dagiti Hentil ket nagsurat kadagiti surat.</li><li><b>Agingga iti ungto ti daga</b> · Jerusalem → Judea → Samaria → Roma. Ti kari ken Abraham maipapan iti “amin a tattao” nagbalin a pudno.</li><li><b>Ket datayo</b> · saan nga agngudo ti sarita; agtultuloy nga agturong iti isasangpet ni Jesus ken ti baro a langit ken baro a daga.</li></ul>",
+   "next": "Ngem saan nga agngudo ti sarita ditoy…"
+  },
+  {
+   "tag": "BARO A TULAG · PANNAKALPAS",
+   "title": "Ti Pannakaisubli",
+   "date": "Sumungad pay",
+   "one": "Umay manen ni Jesus ket pagbalinenna a baro ti amin a banbanag.",
+   "people": "Ti agsubli a Jesus; amin a nasion",
+   "events": "Ti maikadua nga iyaay, ti maudi a panangukom, ti panagpatingga ti basol·patay·lua, baro a langit ken baro a daga",
+   "q": "Ket punasennanto ti amin a lulua cadagiti matada; ket awanton ni patay; ket awanto met-ten ti sasaibbec, wenno sangsangit, wenno rigrigat.",
+   "cite": "Apocalipsis 21:4",
+   "christ": "Ti Eden ti immuna a panagparsua ket maisubli iti kamaudiananna a kas “Baro a Jerusalem.” Agnaed ti Dios kadagiti tattaona iti agnanayon — ti kinaan-anay ti Emmanuel (Apocalipsis 21:3; Mateo 1:23).",
+   "detail": "<p>Saan nga agngudo ti Biblia iti edad ti iglesia. Ti maudi a librona, Apocalipsis, ipakitana ni Jesus a <b>umay manen</b> tapno lpasenna ti amin.</p><ul><li><b>Ti maikadua nga iyaay</b> · ti naikari nga Ari agsubli a sidadayag.</li><li><b>Ti maudi a balligi</b> · ni Satanas ken ti patay ket maparmek iti agnanayon, ket ni Cristo agturay a kas Ari dagiti ar-ari (I Taga Corinto 15:25-26; Apocalipsis 20:10).</li><li><b>Panangukom ken panagungar</b> · tunggal kinakillo ket mailinteg, ket mapagungar dagiti natay.</li><li><b>Baro a langit ken baro a daga</b> · ti basol, patay, lua, ken rigat ket agpukaw iti agnanayon (Apocalipsis 21:4).</li><li><b>Naisubli nga Eden</b> · iti “Baro a Jerusalem” a nasaysayaat ngem ti rugi, agnaed ti Dios kadagiti tattaona iti agnanayon — ti turong nga inay-ayyaban ti intero a Biblia.</li></ul><p>Isu nga ita ti edad ti <b>“addan, ngem saan pay”</b>: ken Jesus ti pannakaisalakan ket <b>addan</b> a nagungpal, ngem ti pannakalpasna ket <b>ur-urayen pay</b>.</p>",
+   "next": "Isu nga, ania ti kaipapanan daytoy nga intero a sarita para “kaniak”?"
+  }
+ ],
+ "love": [
+  "Ti sarita mangrugi saan a babaen ti panangukom no di ket babaen ti panagparsua a naibukbok iti ayat.",
+  "Iti kanito a nagbasol dagiti tao, inkari ti Dios ti pannakaispal sadiay a mismo.",
+  "Immuna nga immay ti Dios iti di maikari a tao, inawaganna iti naganna, ket pinagbalinna a kanal ti bendision.",
+  "Nangngegna ti as-asug ti natagabu nga ili ket bimmaba a mismo tapno ispalenna ida.",
+  "Naliputan iti namin-adu, ngem tunggal agasugda nangibaon iti mangispal ket binangonna ida manen.",
+  "Saanna a pinaidam uray ti natnag a David; babaen kenkuana inkarina ti agnanayon nga Ari.",
+  "Iti ili a timmallikud kenkuana, intultuloyna ti panangibaon kadagiti mammadto, nga agpakpakaasi, “Pangaasiyo ta agawidkayo.”",
+  "Bimmaba a kaduada uray iti kasipngetan a daga ti pannakaibalud, ket inkarina ti pannakaisubli.",
+  "Uray iti ili a namin-adu a nagkurang, saanna nga inawat ti karina, no di ket binangonna ida manen.",
+  "Uray kadagiti 400 a tawen ti panagulimek, di makita, agsagsagana iti dalan ti pannakaisalakan.",
+  "Idinto a managbasoltayo pay laeng, imbaonna ti Anakna tapno itedna ti bukodna a biag.",
+  "Ti ayat nga inawattayo, ibaonna itan nga agayus iti intero a lubong.",
+  "Iti kamaudiananna punasennanto ti amin a lua ket pagbalinenna a baro ti amin a banbanag iti ayat."
+ ],
+ "mis": [
+  {
+   "w": "“Apay a nangaramid ti Dios kadagiti tao a makabasol? Saan kadi a nasaysayaat no saannatayo a pinarsua?”",
+   "t": "Pinarsua ti Dios ti lubong ken dagiti tao saan a gapu iti aniaman a kinakurang, no di ket gapu iti aglaplapusanan nga ayat. Ti panangaramid kadagiti tao a kas <b>tattao a makirelasion iti Dios</b> ket ayat a mismo. Ket uray ti iseserrek ti basol ket saan nga adda iti ruar ti plano ti pannakaisalakan ti Dios (Taga Efeso 1:4-5). Ti immuna a buya ti Biblia ket saan a panangukom no di ket ayat."
+  },
+  {
+   "w": "“Naitalaw ken naikkan iti patay gapu laeng iti pannangan iti maysa a bunga — saan kadi a nakaro unay ti Dios?”",
+   "t": "Ti pannakaitalaw iti Eden ket panangukom ken asi a sangsangkamaysa. No agtaray manipud iti Dios ket iti dayta a nadadael a kasasaad mangan iti kayo ti biag ket agbiag iti agnanayon, mabalud iti agnanayon iti panagsagaba (Genesis 3:22). Ti panangipalubos iti patay ket nanglukat iti dalan a pagsublian, ket sadiay a mismo inkari ti Dios ti maysa a Mangispal (Genesis 3:15). Adda idin ti ayat iti uneg ti panangukom."
+  },
+  {
+   "w": "“Napili ni Abraham gapu iti dakkel a pammatina — saan kadi nga amin a tattao iti Biblia ket bannuar iti moral?”",
+   "t": "Nagulbod ken nagduadua met ni Abraham; managsaur ni Jacob. Inayaban ti Dios saan a dagiti “maikari” a tattao no di ket dagiti adda pagkapuyanna, babaen ti parabur. Ti gapuna ket saan a ti kinaimbagda no di ket ti matalek nga ayat ti Dios (Deuteronomio 7:7-8)."
+  },
+  {
+   "w": "“Saan kadi a ti linteg (dagiti bilin) ket maysa a pannubok wenno kondision a masapul a malasatam tapno maisalakanka?”",
+   "t": "Insalakan ida ti Dios <b>sakbay</b> a nangted iti linteg. Uray dagiti Sangapulo a Bilin mangrugida iti maysa a panangiwaragawag ti pannakaisalakan: “Siac ni Jehova a Diosmo, a nangaon kenca iti daga nga Egipto” (Exodo 20:2). Ti linteg ket saan a “tungpalem tapno maisalakanka,” no di ket maay-ayat a panangiwanwan no kasano nga agbiag ti maysan a naisalakan nga ili (Deuteronomio 7:7-9). Umuna a kanayon ti parabur; ti panagtulnog ket ti sungbat."
+  },
+  {
+   "w": "“Ti panangabak iti Canaan ket maysa a naranggas a panangpapatay — isu a ti Dios ti Daan a Tulag ket pudpudno a naranggas.”",
+   "t": "Daytoy ket narigat a topiko a saan a marisut iti maysa a sentence. Ngem iladawan ti Biblia daytoy saan a kas awan ngruna a kinaranggas no di ket kas panangukom kalpasan ti ginasut a tawen ti panagibtur iti nakaro a kinadakes (agraman ti panangidaton iti ubbing) (Genesis 15:16; Deuteronomio 9:4-5; Levitico 18:24-25). Nainayad ti Dios uray iti panangukom, ket sirarag-o nga awatenna dagiti agsubli kenkuana — uray dagiti ganggannaet a kas ken Rahab ken Ruth (Josue 6:25; Ruth 4:13-17)."
+  },
+  {
+   "w": "“Ni David ket awan pagkuranganna a bannuar — isu a naawagan ‘maysa a tao a maitunos iti puso ti Dios.’”",
+   "t": "Nakikamalala ni David ken uray nakapatay. “Maysa a tao a maitunos iti puso ti Dios” ket saanna a kayat a sawen nga awan pagkuranganna, no di ket maysa a saanna nga inlemmeng ti basolna — a nagbabawi a naimpusuan ket kanayon nga agsubli iti Dios (Salmo 51). Ti ayat ti Dios saanna nga ibelleng uray dagiti natnag iti nakaro."
+  },
+  {
+   "w": "“Ti mammadto ket maysa a mammuyon a mangipadto iti masakbayan / ti Dios ti Daan a Tulag ket pungtot laeng.”",
+   "t": "Ti puso ti mammadto ket saan a “panangipadto iti masakbayan” no di ket ti naimpusuan a pakaasi ti Dios: “Pangaasiyo ta agsublikayo.” Uray dagiti pakdaar ti panangukom panggepda saan a mangdadael no di ket mangpasubli kadagiti tattao tapno maisalakanda — “Awan ti ragsacco iti ipapatay ti nadangkes” (Ezekiel 33:11)."
+  },
+  {
+   "w": "“Paneknekan ti pannakaibalud nga inwaksin a naan-anay ti Dios ti Israel.”",
+   "t": "Ti pannakaibalud ket saan a panangiwaksi no di ket disiplina ken panangpadalus iti dungdungoen nga anak (Hebreo 12:6). Saan a pimmanaw ti Dios; kaduana ni Daniel iti tengnga ti pannakaibalud ket inkarina, “ammoc dagiti panpanunot a panunotec a maipapan cadacayo… panpanunotda ti cappia, ket saan nga iti dakes, tapno mangted cadacayo ti inanama iti maududi a pagtungpalanyo” (Jeremias 29:11)."
+  },
+  null,
+  {
+   "w": "“Iti 400 a tawen nga awan sao, pimmanawen ti Dios wenno aginana.”",
+   "t": "Ti panagulimek ket saan a kaawan. Saan laeng a nagsao, bayat amin a tiempo ig-iggamanna dagiti imperio, pagsasao, ken dalan tapno isaganana ti eskenario ti pannakaisalakan. Iti kaulimekan a kanito, agtrabtrabaho ti Dios iti kaadduan, iti ayat (Taga Galacia 4:4)."
+  },
+  {
+   "w": "“Maysa laeng ni Jesus kadagiti naimbag a manursuro iti moral / ti krus ket maysa a nakalkaldaang nga abak.”",
+   "t": "Indeklara ni Jesus nga isu ti Dios a mismo (Juan 8:58), ket ti krus ket saan nga aksidente wenno abak no di ket naplano nga ayat. Saan a naiguyod sadiay babaen ti puersa; impaayna ti bukodna a biag (Juan 10:18). “Awan ti addaan dacdackel nga ayat ngem daytoy: ti mangted ti biagna gapu cadagiti gagayyemna” (Juan 15:13)."
+  },
+  {
+   "w": "“Ti iglesia ket maysa a klub dagiti naan-anay a tattao, wenno maysa laeng a pasdek.”",
+   "t": "Ti iglesia ket saan a maysa a gimong dagiti “naan-anay a santo” no di ket dagiti <b>napakawan a managbasol</b>. Uray ti apostol a Pablo inawaganna ti bagina a “ti cangronaan” kadagiti managbasol (I Timoteo 1:15). Nagsisinnusik ken naitibkol met ti immuna nga iglesia (Dagiti Aramid 6:1; I Taga Corinto 1:11). Saan a maysa a disso a pagpalangguadan, no di ket tattao a mangipaay iti ayat nga inawatda (Juan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Sagrap a basol — awan ti nalinteg",
+   "body": "Ti parikut ket saan a “sumagmamano a dakes nga aramid” no di ket ti ramut ti puso. Manipud ken Adan, amin ket naiyanak iti sirok ti basol ket saanda a mabalin a danunen ti Dios babaen ti bukodda a pigsa.",
+   "vref": "Taga Roma 3:10-12, 23",
+   "vtext": "Awan ti nalinteg, uray maysa… isuda amin nagbasolda ket agcurangda iti dayag ti Dios"
+  },
+  {
+   "title": "Ti Linteg saanna a mabalin nga isalakannak",
+   "body": "Ti Linteg ket saan a maysa nga agdan no di ket maysa a sarming. No kasano ti panangikagumaam, ad-adda nga ipakitana no kasano ti panagkuranganmo. Ti panggepna ket iturongnatayo ken Cristo.",
+   "vref": "Taga Roma 3:20 · Taga Galacia 3:24",
+   "vtext": "gapu iti linteg maipacaammo ti basol… ti Linteg, nagbalin a mangaywan cadatayo, tapno iturongnatayo ken Cristo"
+  },
+  {
+   "title": "Babaen ti parabur — maysa a sagut, saan a panagbannog",
+   "body": "Ti pannakaisalakan ket saan a tangdan ti merito a nagun-odmo, no di ket maysa nga awan bayadna a sagut kadagiti saan a maikari. Isu nga awan ti makaipannakkel.",
+   "vref": "Taga Efeso 2:8-9",
+   "vtext": "Ta gapu iti parabur naisalacancayo gapu iti pammati… Saan nga aggapu cadagiti ar-aramid, tapno awan ti siasinoman nga agpasindayaw."
+  },
+  {
+   "title": "Napalinteg babaen ti pammati",
+   "body": "Saan a babaen ti panangtungpal iti Linteg, no di ket babaen ti pammati ken Jesu-Cristo, naibilangka a nalinteg — saan a nakawesan iti bukodmo a kinalinteg no di ket iti kinalintegna.",
+   "vref": "Taga Roma 5:1 · Taga Galacia 2:16",
+   "vtext": "Idinto ngarud a mapalintegtayo gapu iti pammati… ti tao mapalinteg saan a gapu cadagiti ar-aramid ti linteg, no di ket gapu iti pammati ken Jesu-Cristo"
+  },
+  {
+   "title": "Ti Biblia itudona ni Jesus",
+   "body": "Ti Biblia ket saan a libro dagiti naindaklan a lallaki wenno panangtulong iti bagi. Manipud Genesis agingga Apocalipsis, tunggal panid mangpaneknek iti maysa a tao — ni Jesu-Cristo.",
+   "vref": "Juan 5:39 · Lucas 24:27",
+   "vtext": "dagitoy isuda ti mangpanecnec ti maipapan caniac… impalawagna cadacuada dagiti amin a sursurat a mangsarita iti maipapan kencuana."
+  },
+  {
+   "title": "Ti Pagarian ti Dios — ti pangbukel a mensahe ni Jesus",
+   "body": "Ti tema nga ad-adda nga insuro ni Jesus. Ti panagturay ti Dios a kas Ari simrek iti daytoy a lubong babaen ken Jesus ket malpasto inton agsubli. Babaen ti krus ken panagungarna, ni Jesus ti pudpudno nga Ari a nangabak iti basol, patay, ken Satanas.",
+   "vref": "Marcos 1:15",
+   "vtext": "Naturposen ti aldaw ket ti pagarian ti Dios asidegen: agbabawicayo ket patienyo ti evangelio."
+  },
+  {
+   "title": "Ti ebanghelio — lineppasna amin",
+   "body": "Ti utang ti basol a saanko a kabaelan a bayadan, binayadan ni Jesus iti saadko iti krus, ket babaen ti panagungarna inabakna ti patay. Saanak nga agtalek iti “aramidem daytoy” no di ket iti “natungpalen.”",
+   "vref": "Juan 19:30 · Taga Roma 5:8",
+   "vtext": "Natungpalen… idinto a managbasoltayo pay laeng, ni Cristo natay gapu cadatayo."
+  }
+ ]
+}

@@ -70,6 +70,7 @@ const LANGS = [
   { code:'ak',     dir:'ltr', locale:'ak_GH' },
   { code:'hil',    dir:'ltr', locale:'hil_PH' },
   { code:'luo',    dir:'ltr', locale:'luo_KE' },
+  { code:'bem',    dir:'ltr', locale:'bem_ZM' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
