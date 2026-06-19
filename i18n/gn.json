@@ -1,0 +1,343 @@
+{
+ "menuName": "Avañe’ẽ",
+ "htmlLang": "gn",
+ "dir": "ltr",
+ "brand": "Ñe’ẽñandúpe Ñanderuete kuatiañe’ẽ",
+ "docTitle": "Ñe’ẽñandúpe Ñanderuete kuatiañe’ẽ · Jeguapýgui Tupãogapeve",
+ "share": {
+  "title": "Ñe’ẽñandúpe Ñanderuete kuatiañe’ẽ",
+  "text": "Peteĩ jepoyhúpente, eikuaami Ñanderuete kuatiañe’ẽ mombe’u guasu ha mba’érepa Hesu ou."
+ },
+ "ui": {
+  "people": "Tapichakuéra",
+  "events": "Mba’e oikova’ekue tuichavéva",
+  "christLabel": "Ohechauka Hesúpe",
+  "loveLabel": "Mborayhu nopytáiva",
+  "mythWrong": "Jejavypa ojeguerekóva",
+  "mythRight": "Añetehápe",
+  "more": "Ehecháve",
+  "version": "(Ñe’ẽ Porã)"
+ },
+ "labels": {
+  "start": "Ñepyrũ",
+  "thread": "Mombe’u rape",
+  "gospel": "Ñe’ẽ Porã",
+  "about": "Kóva rehegua"
+ },
+ "s": {
+  "ui.share": "↗ Emboja’o",
+  "ui.toast": "Joajuha oñemoĩ kópiape 📋",
+  "ui.footer": "Ñe’ẽñandúpe Ñanderuete kuatiañe’ẽ · Ñanderuete kuatiañe’ẽgui ojeporu Ñe’ẽ Porã",
+  "hero.kicker": "JEGUAPÝGUI TUPÃOGAPEVE",
+  "hero.title": "Ñanderuete kuatiañe’ẽ,<br><span class='em'>peteĩ jepoyhúpe</span>",
+  "hero.sub": "Peteĩ jepoyhúpente, eikuaami Ñanderuete kuatiañe’ẽ mombe’u guasu ha mba’érepa Hesu ou.",
+  "hero.cue": "Eñemboguejy yvýre<span>↓</span>",
+  "thread.eyebrow": "PETEĨ ÑE’Ẽ OMBOJOAJÚVA OPA MBA’E",
+  "thread.h2": "Ipahápe, Ñanderuete kuatiañe’ẽ ningo peteĩ mombe’únte",
+  "thread.flow": "<b>Ñe’ẽme’ẽ</b><span class='arw'>→</span><b>Ñeha’ãrõ</b><span class='arw'>→</span><b>Jehupyty</b>",
+  "thread.note": "Ñanderuete <b>oprometé</b> (pe ñe’ẽme’ẽ), tetãygua <b>oha’ãrõ</b> are, ha ipahápe opa mba’e <b>ojehupyty</b> ha henyhẽmba Hesúpe. Eho umi 13 escéna oĩva ko’ápe pe rape rupive. Eipoko <b>«Ehecháve»</b> rehe peteĩteĩ tarjétape eikuaapyhyvévo pe mombe’u.",
+  "gospel.eyebrow": "MBA’EPA HE’ISE KO MOMBE’U «CHÉVE» G̃UARÃ",
+  "gospel.h2": "Ñanderuete kuatiañe’ẽ mbyte añetegua",
+  "gospel.lead": "Ñanderuete kuatiañe’ẽ <b>ndaha’éi peteĩ aranduka he’íva «eiko porãke tapicha».</b>",
+  "gospel.sublead": "Ha’e pe mombe’u mba’éichapa Ñanderuete, <b>imborayhu rupínte</b>, oguenohẽ angaipavorakuéragui ndaikatúiva oñesalva ijehegui. Mbytépe oñembo’y Hesu Crísto.",
+  "gospel.mirror": "<h3>Israel rape oñembojevýva ningo añetehápe «che» rãngue</h3><div class='cycle'><b>Tupãgua’u</b><span class='a'>→</span><b>Jehasa asy</b><span class='a'>→</span><b>Sapukái</b><span class='a'>→</span><b>Ñanderuete osalva</b><span class='a'>→</span><b>Tupãgua’u jey…</b></div><p>Mbojovakehára guive jererahágui tetã ambuépe, Israel ombojevýnte ko rape opa’ỹre. Ñanderuete kuatiañe’ẽ ndohairi kóva ñañe’ẽrei hag̃ua «mba’eichaitépa ha’ekuéra ivai».</p><p>Kóva ha’e peteĩ <b>itarovaha</b>. Ndaha’éi «ha’ekuéra ojapo upéicha», ha’e uvei ñanemoñesã hag̃ua <b>«che ajapo avei upéicha»</b> (1 Corintoyguakuérape 10:11).</p><p>Peteĩ <b>tupãgua’u</b> ndaha’éi yvyrágui ojejapóva añónte. Ha’e <b>opa mba’e jahayhu térã jajeroviáva Ñanderuetégui hetave</b> —pirapire, ojejuhuporã, ñembojerovia, tapichakuéra, che voi jepe. Ha jaiporúvo Ñanderuetépe <b>che remipota ojehupyty hag̃uánte</b> ha’e avei tupãgua’u.</p><p class='punch'>Ipahápe, pe tupãgua’u ipypukuvéva ha’e «che voi, aguapýva Ñanderuete apykápe».</p>",
+  "gospel.coreIntro": "Mba’éichapa upéicharõ Ñanderuete osalva ko angaipavórape? Kóva ha’e pe ñe’ẽ porã mbyte Ñanderuete kuatiañe’ẽ omombe’úva.",
+  "gospel.crux": "<p class='crux-lead'>Ñanderuete kuatiañe’ẽ ohechauka peteĩ tendaitépe.</p><p>Yvypóra ndaikatúi ombyai ijeheguínte pe angaipa rape, ha ndaipóri ni peteĩ heko porãva. Upévare oĩ va’erã peteĩ <b>omyengoviáva pe valor ñande rendaguépe</b>.</p><p>Hesu ndoúiri omombe’úvo mbo’epy porã añónte. Ha’e ou <b>ndaiporiguinte ambue rape che salva hag̃ua</b>: ou va’erãnte.</p><p class='crux-punch'>Pe oĩva’erãva upe kurusúpe ha’e <b>che</b>.<br>Hesu ogueraha <b>che angaipa</b> ha oñembokutu upépe che rendaguépe.</p><div class='crux-verse'>«Ojekutu ichupe ñane rembiapo vai rupi ha oñenupã vaipa ichupe… ijekutukue rupi ñande jakuera.» — Isaías 53:5</div>",
+  "faq.h": "Reñehesa’ỹijo gueteripa mba’ére?",
+  "faq.q1": "<span class='arr'>▸</span> Upéicharõ peteĩ jukahára ojeroviánterõ oho yvágape, ha peteĩ oiko porãva’ekue ojerovia’ỹre oho añaretãme?",
+  "faq.a1": "<p>Kóva ha’e peteĩ porandu hekopegua. Mokõi jejavypa katu okañy ipype.</p><p><b>① Ñanderuete kuatiañe’ẽ ndombojaói tapichakuéra «iporãva» ha «ivaívape».</b> Pe ja’eha ndaha’éi «iporãve pe ijykeguágui», ha’e uvei «Ñanderuete reko jajaipa imarã’ỹva». Henondépe, avave nahi’porãvéi «iporã hag̃uáicha» (Romayguakuérape 3:23). Upévare ndaha’éi «tapicha iporãva ha jukahára», ha’e uvei mokõi hasýva omanótava: peteĩ ojapyhy pe pohã, ambue katu ndojapyhýi he’ívo «che cheresãive upévagui».</p><p><b>② Peteĩ mba’énte omboja’o yvága ha añaretã.</b> Ndaha’éi tembiapo papaha, ha’e uvei <b>rejapyhýpa Hesu Crístope ne Jára ramo ha ne angaipa apañuãi oñembyaipáma</b>. Pe iñangaipa oñembyaíva Crísto ruguy rupi oho yvágape; pe ndojapyhýiva ichupe, hi’angaipa opyta ndive, ndohói. Ndaipóri tembiapo porã ikatúva ombyai pe angaipa apañuãi voi nde rendaguépe.</p><p>Upévare yvága ha añaretã ndaha’éi «aguyje tembiapo porãre», ha’e uvei peteĩ mba’e <b>jeguereko Crísto ndive</b> rehegua. Ha «jerovia» ndaha’éi ñe’ãme ñeñe’ẽ’ẽnte, ha’e uvei jára ñembyai tekovépe: pe añetehápe ojapyhýva ichupe ndaikéi mba’erei reípe, oñembyasy uvei pypukuve. Pe <b>añetehápe iñangaipa’ỹha</b> «che cheporã» ha’e pe tupãgua’u hasyvéva ombyai hag̃ua, pe ñanembo’éva «ndaikotevẽi Crístore».</p><p>Ñanderuete kuatiañe’ẽ he’i hesakã porã: <b>«Upe ojeroviáva guive hese noñembojovakemo’ãi, upe ojerovia’ỹva hese katu oñembojovakéma»</b> (Juan 3:18). Pe ñembojovake ndaha’éi «ne rekove papaha remano rire», ha’e uvei oĩmbáma <b>rejapyhýpa Crístope</b> rehe.</p><p class='faq-v'>Romayguakuérape 3:23 · Juan 3:18 · Efesoyguakuérape 2:8-9</p>",
+  "faq.q2": "<span class='arr'>▸</span> Naiporãipa che aiko porãnte, ajerovia’ỹrõ jepe Hesúre?",
+  "faq.a2": "<p>Kóva ha’e pe heta ojepensáva, ojejavy katu mba’épa pe apañuãi añetegua. Ñahenói peteĩ ta’anga.</p><p><b>Eñembojaru reĩha peteĩ pirata várcope.</b> Reipotĩ ramojepe pe cubiérta, reiko porãrõ jepe umi tripulación ndive, reiko porãitéramo jepe, pirata <b>nde gueteri</b>, pe várco neraha mombyry ohohápe (pe ñembojovake pórto). Pe apañuãi ndaha’éi «tembiapo papaha», ha’e uvei <b>«mávapepa reime» (mávapa nde)</b>.</p><p>Upévare pe ñe’ẽ porã nahe’íri «eiko porãvéke»; he’i uvei <b>«embovéve várco».</b> Eguejy pe angaipa várcogui ha tereho Hesúpe: pe pyahúvape, <b>Ñanderuete ra’y</b> reko pyahúpe. Kóva ndaha’éi ne papaha ojupive ne ñeha’ã rupi, ha’e uvei rejerovia pe oipysóva ipo ndéve ha rehasa ha’e várcope.</p><p>Añetehápe Ñanderuete kuatiañe’ẽ omombe’u salvación ko’ãichaite: <b>«Ñanderuete ñaneguenohẽ Satana rembiapo ypytũ vai poguýgui ha ñandeguerova Ita’ýra ohayhuetéva retãguasúpe»</b> (Colosayguakuérape 1:13).</p><p>Ani rejavy: <b>kóva nahe’iséi pe tekove porã ndovaléiha.</b> Pe teko porã katu ndaha’éi salvación «mbojojaha», ha’e uvei i<b>ña’ã</b>. Pe ombovéva’ekue várco oiko porãma ndaha’éi kyhyjégui, ta’ýra <b>mborayhúgui</b> uvei.</p><p class='faq-v'>Colosayguakuérape 1:13 · Juan 1:12 · Efesoyguakuérape 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Pe ojaposéva’ekue ivaíva oikórõ py’aguapýpe he’ívo «Ñanderuete chemboheko jeýma», pe oñembyasyva’ekue katu ohasa asy gueteri ramo — naiporãvéiri piko upe jeheja rei?",
+  "faq.a3": "<p>Pe porandu hekopegua, ha pe tasy añetegua. Upe ja’éva katu ndaha’éi «Ñanderuete kuatiañe’ẽ jeheja rei», ha’e uvei iñe’ẽ <b>ojejavyha</b>.</p><p><b>① Ñanderuete jeheja rei araka’eve ndahepýi’ỹi.</b> Pe angaipa ndojeñomíri «ndoikoiháicha»; Ñanderuete voi omyengovia hepy Ita’ýra rekovépe. Pe kurusu ndohechaukái pe angaipa ojereraha vevuiha, ohechauka uvei mba’eichaitépa ipohýi: pe jeheja rei hepyvéva ko yvy ári.</p><p><b>② Pe añetegua ñembyasy hi’a.</b> Pe ojaposéva’ekue ivaíva oñembovéramo pe oñembyasyva’ekue renondépe he’ívo «Ñanderuete chemboheko jeýma, aime py’aguapýpe», kóva ndaha’éi ñembyasy, ha’e uvei iñembojahéi. Ha pe jeheja rei tapicha ha Ñanderuete pa’ũme ndomboguéi pe oñembyasyva’ekue jejapi ni ndojopýi ichupe oheja rei hag̃ua.</p><p><b>③ Pe angaipa araka’eve ndoñeheja reíri.</b> Opa angaipa oñemyengovia mokõi tendágui peteĩme: <b>térã Crísto ogueraha kurusúpe</b> (pe ojeroviávape g̃uarã ndaiporivéima ñembojovake), <b>térã ogueraha pe ojapyhy’ỹva ichupe ipahaite peve.</b> Upévare ndaipóri «jeheja rei hepy’ỹva». Pe ojaposéva’ekue ivaíva ohasa avei justícia poguýpe ko yvópe.</p><p><b>④ Pe oñembyasyva’ekue resay araka’eve ndaha’éi michĩ Ñanderuete renondépe.</b> Ñanderuete hasẽ umi hasẽva ndive, imandu’a peteĩteĩ tesayre ha ipahápe ha’e voi omokãta. Upévare pe oñembyasyva’ekue ndogueraháiri ha’eño pe ñevenga pohýi, oguerova uvei Ñanderuete heko jojávape (Romayguakuérape 12:19: «Che avengáta ha amyengoviáta opavave rembiapo vaikue»).</p><p class='faq-v'>Romayguakuérape 8:1 · Apocalípsis 21:4</p>",
+  "respond.h3": "Upéicharõ — mba’épa ajapo che?",
+  "respond.sub": "Ko mborayhu ndaha’éi marandu, ha’e uvei peteĩ <b>ñehenói</b>. Pe mborayhu oñembokutuva’ekue ne rendaguépe opoko ramo ne ñe’ãre, eñembo’e ko’ág̃a mbeguekatúpe, peteĩteĩ ñe’ẽ.",
+  "respond.prayer": "<p>Ñanderuete,</p><p>aikuaa che peteĩ angaipavóraha ndaikatúiva osalva ijehegui.</p><p>Ajerovia Hesu omanoha kurusúpe che rehehápe ha oikove jeyha.</p><p>Eheja rei opa che angaipa ha ko ára guive eiko che rekove Jára ramo.</p><p>Cherecibí ne ra’y ramo ha eiporu chéve aiko hag̃ua tekove pyahu.</p><p class='amen'>Hesu rérape añembo’e. Amén.</p>",
+  "respond.after": "Reñembo’érõ kóva ne ñe’ãgui, Ñanderuete kuatiañe’ẽ he’i reikoha <b>Ñanderuete ra’y ramo</b>. Ndereiméi vehéima ne año: eheka peteĩ tupão ne ypýpe ha eguata oñondive jeroviápe.",
+  "respond.verse": "«Umi omog̃uahẽva’ekue… ichupe hekovépe, Ha’e ome’ẽ ichupekuéra pu’aka oiko hag̃ua ichuguikuéra Ñanderuete ra’ykuéra.» — Juan 1:12",
+  "closing.main": "Peteĩ Ñanderuete,<br>peteĩ mombe’u rupive,<br>oheka ñandéve peteĩ <em>mborayhúpe</em><br>araka’eve nopytáiva.",
+  "closing.verse": "«Mba’evete ndaikatuiha ñandepe’a Hesu Crísto mborayhúgui… ni ambue pu’aka ndaikatúi ñandepe’a Ñanderuete mborayhúgui, ojehechaukámava Ñandejára Hesu Crísto rupi.» — Romayguakuérape 8:38-39",
+  "closing.small": "Ko mombe’u rape ári, pe Léi, kuatiañe’ẽ poesía, profetakuéra ha kartakuéra ombojoapy pe «to’o».<br>Ko’ág̃a guive, oimeraẽva aranduka reipe’arõ, reikuaáta «mamópa reime pe mombe’úpe».",
+  "closing.share": "↗ Emboja’o ko mombe’u",
+  "about.line": "Contenído oñemoĩva pe jehecha <b>tekove redentor-istórico, evangélico ha reformádo</b> ári, omoĩva oñondive Coréa protestantismo hetave.",
+  "about.contact": "Porandu · ñe’ẽ ñohenduka — <a id='contact' class='mail'>Embou correo</a>"
+ },
+ "epochs": [
+  {
+   "tag": "AT · Ñepyrũ",
+   "title": "Jeguapy",
+   "date": "Ñepyrũmbýpe",
+   "one": "Ñanderuete ojapo peteĩ yvy «iporãitereíva».",
+   "people": "Ñanderuete; Adán ha Eva",
+   "events": "Jeguapy poteĩ árape, yvypóra Ñanderuete ra’angápe, pytu’u ára",
+   "q": "Ñepyrũmbýpe Ñanderuete (Jahve) ojapo ypyva’ekue yvagakuéra ha yvy.",
+   "cite": "Génesis 1:1",
+   "christ": "Yvy ojejapo pe «Ñe’ẽ» rupive. Juan ñe’ẽ porã he’i ko Ñe’ẽ ha’eha Hesu voi (Juan 1:1-3).",
+   "detail": "<p>Ñanderuete kuatiañe’ẽ ndoñepyrũi peteĩ filosofía ñe’ẽapóre, oñepyrũ uvei peteĩ ñemombe’úpe: <b>«Ñepyrũmbýpe, Ñanderuete…»</b>. Yvy ndaha’éi reígui oikóva, ha’e uvei peteĩ Ñanderuete tekovéva rembiapo.</p><ul><li><b>Ñanderuete ra’anga</b> · yvypóra añónte ojejapo Ñanderueteichagua, oikuaa hag̃ua ichupe ha oñangareko hag̃ua yvýre.</li><li><b>Pytu’u</b> · pe ára 7 pytu’u ohechauka opa mba’e oĩmbaha ha py’aguapýpe (shalom): «iporã».</li><li><b>Edén</b> · yvy oñembyai mboyve, Ñanderuete ha yvypóra oguatahápe oñondive.</li></ul>",
+   "next": "Ko ñembohetépe katu sapy’aitépe oñembyaíta…"
+  },
+  {
+   "tag": "AT · Apañuãi oñepyrũ",
+   "title": "Pe ho’a",
+   "date": "Ñepyrũmbýpe",
+   "one": "Angaipa oike ha oñekytĩ pe joaju yvypóra ha Ñanderuete pa’ũme.",
+   "people": "Adán ha Eva; pe mbói (Satana)",
+   "events": "Yva ojejokóva ho’u, Edéngui oñemosẽ, ñemano ha kane’õ oike",
+   "q": "Ha oikóta ñorãirõme kuña ha iñemoñare… ha’ekuéra omongu’íta ne akã.",
+   "cite": "Génesis 3:15",
+   "christ": "Pe ñe’ẽ porã ñe’ẽme’ẽ tenondegua, oñeme’ẽva pe ho’a rire voi: «kuña ñemoñare» omongu’íta pe mbói akã. Upéva ha’e Hesu (Génesis 3:15; Romayguakuérape 16:20; Galaciayguakuérape 4:4).",
+   "detail": "<p>Pe ñe’ẽrendu’ỹ rupi oñemoĩsévo «Ñanderueteháicha», angaipa oike yvýpe. Pe resultádo ndaha’éi peteĩ teko ñembyaínte, ha’e uvei <b>jeguereko ñembyai</b>.</p><ul><li><b>Joaju oñembyaipáva</b> · Ñanderuete ndive (ñekañy), tapicha ndive (ja’o) ha tekohápe ndive (ñuatĩ ha kane’õ).</li><li><b>Ñemano</b> · pe ñe’ẽ «remanóta añetehápe» oiko añetehápe.</li><li><b>Génesis 3:15</b> · pe ñembojovake mbytépe katu oñeme’ẽ tenonde pe salvación ñe’ẽme’ẽ. Umi arandúva ohenói kóvape pe <b>«protoevangelio» (pe ñe’ẽ porã tenondegua)</b>.</li></ul>",
+   "next": "Ko’ág̃a Ñanderuete ohenói peteĩ kuimba’épe ha oñepyrũ pe ñemboheko jey…"
+  },
+  {
+   "tag": "AT · Ñe’ẽme’ẽ",
+   "title": "Umi ru ypykue",
+   "date": "2000 a. C. rupi",
+   "one": "Ñanderuete oprometé Abrahámpe: «Reikóta jehovasa rape ramo».",
+   "people": "Abraham · Isaac · Jacob · José",
+   "events": "Pe ñe’ẽme’ẽ Abraham ndive, Isaac ñekuave’ẽ, Jacob ta’ýra 12, José Egípto ruvicha ramo",
+   "q": "Ha ajapóta ndehegui peteĩ tetã ndetuicháva… ha nderupi ojehovasava’erã opaite tetãnguéra.",
+   "cite": "Génesis 12:2-3",
+   "christ": "Pe ñe’ẽme’ẽ «opaite tetã ojehovasataha» ojehupyty Hesúpe, Abraham ñemoñare (Galaciayguakuérape 3:16).",
+   "detail": "<p>Ñanderuete oñepyrũ ombyai opaite yvypóra apañuãi ohenóivo peteĩ kuimba’épe, <b>Abraham</b>. Pe mbyte ha’e pe <b>ñe’ẽme’ẽ (promésa)</b>: peteĩ tetã guasu, peteĩ yvy ha «jehovasa opaite tetãnguérape g̃uarã».</p><ul><li><b>Jerovia</b> · Abraham ojerovia pe ñe’ẽme’ẽ ndojehechái ramo jepe, ha oñemoĩ ichupe heko porãvaramo (Génesis 15:6).</li><li><b>Isaac ha Jacob</b> · pe ñe’ẽme’ẽ ohasa pe ñemoñaréme; Jacob (Israel) ha’e umi 12 tribu ru.</li><li><b>José</b> · ojevende itývype rupi, oñembotuicha katu Egípto ruvicha ramo: «Ñanderuete oguereko upéicha mba’e porãrã» (Génesis 50:20).</li></ul>",
+   "next": "Pe ogapy oguejy Egíptope José rapykuéri… ha opyta tembiguáiramo."
+  },
+  {
+   "tag": "AT · Salvación",
+   "title": "Ñesẽ ha taveñũ",
+   "date": "1446 a. C. rupi",
+   "one": "Ñanderuete oguenohẽ pe tetã tembiguái ha omoĩ imba’erã.",
+   "people": "Moises, Aarón, faraón",
+   "events": "Umi 10 ivaíva, Páscua, Yguasu Pytã rasa, Mandamiénto 10 Sinaípe, pe tabernáculo, 40 ary taveñũme",
+   "q": "Ha peikóta che retã ramo ha Che pende Jára ramo.",
+   "cite": "Éxodo 6:7",
+   "christ": "Pe Páscua, ovecha ruguy oguenohẽhápe ñemanógui, ohechauka Hesúpe, «ñande Páscua», oñembokutuva’ekue ñande rehehápe (1 Corintoyguakuérape 5:7).",
+   "detail": "<p>Pe salvación tuichavéva AT-pe. Israel, tembiguái va’ekue, ohupyty sãso Ñanderuete pu’aka rupi ha ojejapo i<b>retã</b> ramo.</p><ul><li><b>Páscua</b> · pe óga ovecha ruguy rendáva pe okẽme oguenohẽ ñemanógui; opaite ñekuave’ẽ upe rireguáva ra’anga.</li><li><b>Yguasu Pytã</b> · salvación pe yguasu ojeavávo peteĩ rape pa’ũ’ỹme; «pe ohasávo» peteĩ ñepyrũ pyahu ra’angáramo.</li><li><b>Sinaí ñe’ẽme’ẽ</b> · pe Mandamiénto 10 rupive oikuaa mba’éichapa oikóta Ñanderuete retã ramo.</li><li><b>Tabernáculo</b> · santuário ojereraháva Ñanderuete oikohápe tetã mbytépe: pe «Emanuel» tenondegua.</li><li><b>40 ary</b> · ñe’ẽrendu’ỹ rupi peteĩ ñemoñare oguata taveñũme, Ñanderuete katu oĩ hendivekuéra maná ha pe arai ha tata yvyramo’ã reheve.</li></ul>",
+   "next": "Oñembo’ývo pe yvy oñeme’ẽva’ekue renondépe, oñembosako’i oike hag̃ua…"
+  },
+  {
+   "tag": "AT · Ñemohenda",
+   "title": "Ñepyrũ ha mbojovakehára",
+   "date": "1400–1050 a. C. rupi",
+   "one": "Ohupyty pe yvy, mburuvicha’ỹre katu peteĩteĩ ojapo iporãve háicha ichupe.",
+   "people": "Josué; mbojovakehára Gedeón ha Sansón rupi; Rut",
+   "events": "Jericó ho’a, ñemohenda Canaánpe, pe rape oñembojevýva angaipa–ñembojovake–salvación",
+   "q": "Umi árape ndaipóri gueteri tetã ruvicha Israélpe; peteĩteĩ ojapo iporãve háicha ichupe.",
+   "cite": "Juéces 21:25",
+   "christ": "Rut ñemoñarégui ou David, ha David ñemoñarégui ou Hesu (Matéo 1). Pe sarambi mbytépe jepe, pe Mesías ñemoñare oku’eve.",
+   "detail": "<p>Josué poguýpe oike pe yvy oñeme’ẽva’ekuépe, oñemohenda rire katu sapy’aitépe hesarái Ñanderuetégui. Mbojovakehára aranduka ha’e pe rape oñembojevýva.</p><ul><li><b>Pe rape oguejýva</b> · angaipa → ñepyhy → sapukái → mbojovakehára osalva → angaipa jey, ivaivéntema.</li><li><b>Mbojovakehára</b> · Gedeón, Sansón, Débora… osalváva sapy’aitérã, heróicova katu henyhẽ jejavýgui.</li><li><b>Rut</b> · peteĩ tesape jeroviapy ára pytũme; peteĩ kuña ambue tetãgua oike David (ha Hesu) ñemoñaréme.</li></ul>",
+   "next": "Tetãygua osapukái: «Eme’ẽ oréve mburuvicha!»…"
+  },
+  {
+   "tag": "AT · Hi’aratĩ",
+   "title": "Pe retãguasu peteĩva",
+   "date": "1050–930 a. C. rupi",
+   "one": "Ñanderuete oprometé Davídpe: «Ne apyka oĩta tapiaite peve».",
+   "people": "Saúl · David · Salomón",
+   "events": "Mburuvicha tenondegua Saúl, David ha Goliat, ñe’ẽme’ẽ David ndive, Salomón tupão",
+   "q": "Ha nde róga oñemoĩ hatãta… ndojepe’amo’ãvéima ára pahaite peve ne mburuvicha reko.",
+   "cite": "2 Samuel 7:16",
+   "christ": "Pe «apyka tapiaitéva» ojehupyty Hesúpe, David ñemoñare; upévare oñehenói ichupe «David Ra’y» (Lúcas 1:32-33; Matéo 1:1).",
+   "detail": "<p>Israel hi’aratĩ, mbohapy mburuvicha poguýpe.</p><ul><li><b>Saúl</b> · pe mburuvicha tenondegua tetãygua ojeruréva; oñepyrũ porã, ojeheja katu iñe’ẽrendu’ỹgui.</li><li><b>David</b> · «peteĩ kuimba’e Ñanderuete py’a háicha». Oñakã’o Goliátpe ha omoĩ Jerusalén táva ruvicha ramo. Ojapo peteĩ angaipa guasu (Betsabé), oñembyasy katu ipy’aitégui (Salmokuéra 51).</li><li><b>Ñe’ẽme’ẽ David ndive (2 Samuel 7)</b> · Ñanderuete oprometé omoĩ hatãtaha hóga tapiaite peve: pe Mesías ñeha’ãrõ rapo añetegua.</li><li><b>Salomón</b> · arandu ha mba’e reta hi’aratĩme omopu’ã pe <b>tupão</b> Jerusalénpe, ipahápe katu ho’a tupãgua’úpe.</li></ul>",
+   "next": "Salomón rire, pe retãguasu oñemboja’o mokõime…"
+  },
+  {
+   "tag": "AT · Ñeguejy",
+   "title": "Pe retãguasu ojeavýva",
+   "date": "930–586 a. C.",
+   "one": "Oñembojao yvyguágui (Judá) ha yvategua (Israel), ha oñembyai mbeguekatúpe.",
+   "people": "Mokõive retãguasu mburuvicha; profetakuéra Elías, Isaías ha Jeremías rupi",
+   "events": "Pe retãguasu ñembojao, tupãgua’u, profetakuéra ñe’ẽmondo",
+   "q": "Péicha Israel ojehekýi David rógagui ko ára peve.",
+   "cite": "1 Réyes 12:19",
+   "christ": "Ko árape profetakuéra omombe’u hesakãvévo pe Mesías oútava (Isaías 9:6; Isaías 53).",
+   "detail": "<p>Salomón ra’y árape pe retãguasu oñembojao: <b>Israel (yvategua)</b>, 10 tribu, táva ruvicha Samaria; ha <b>Judá (yvyguágua)</b>, 2 tribu, táva ruvicha Jerusalén.</p><ul><li><b>Yvategua</b> · opaite imburuvicha oservi tupãgua’úpe; ho’a Asíria poguýpe 722 a. C.</li><li><b>Yvyguágua</b> · David ñemoñare oku’eve ha oĩ mburuvicha porã Ezequías ha Josías ramo, opa rupi katu oñembyai.</li><li><b>Profetakuéra</b> · Elías, Amós, Isaías, Jeremías osapukái «pejevýke!». Ko’ápe heta pe Mesías profecía (pe «tembiguái ohasa asýva» Isaías 53).</li></ul>",
+   "next": "Ipahápe og̃uahẽ pe ñembojovake oñemombe’uva’ekue: oñererahapa tembiguáiramo…"
+  },
+  {
+   "tag": "AT · Ñembojovake",
+   "title": "Pe jererahapa",
+   "date": "722 / 586 a. C.",
+   "one": "Pe retãguasu ho’a ha tetãygua oñererahapa tetã ambuépe.",
+   "people": "Daniel, Ezequiel, Nabucodonosor",
+   "events": "Israel ho’a Asíria poguýpe (722); Judá ho’a Babilónia poguýpe ha tupão oñembyai (586)",
+   "q": "Ore roguapy joava’ekue Babilónia ysyrykuéra ypýpe, ha orerasẽ, oremandu’ávo Jerusalen rehe.",
+   "cite": "Salmokuéra 137:1",
+   "christ": "Pe py’angata pypukuvévape Jeremías oprometé peteĩ «ñe’ẽme’ẽ pyahu» (Jeremías 31:31): pe Hesu omoĩva’ekue pe karuguasu pahápe.",
+   "detail": "<p>Pe ñe’ẽmondo oiko añetehápe. Pe tupão okái ha tetãygua oñereraha Babilóniape: omokañy hikuái yvy, mburuvicha ha tupão, pe apañuãi ivaivéva.</p><ul><li><b>Mokõi jeho’a</b> · Israel (Asíria, 722 a. C.) ha Judá (Babilónia, 586 a. C.).</li><li><b>Daniel</b> · jerovia ra’anga pe mburuvicha óga tupãrei mbytépe jepe (pe jaguarete kua); ohecha peteĩ «retãguasu tapiaitéva» oútava ra’anga.</li><li><b>Tesape michĩ</b> · pe kãgue piru oikove jeýva ra’anga (Ezequiel 37) ha Jeremías «ñe’ẽme’ẽ pyahu» ohechauka pe tenondegua pe pytũme.</li></ul>",
+   "next": "70 ary rire, Ñanderuete oipe’a pe rape: oho jey hógape…"
+  },
+  {
+   "tag": "AT · Ñemboheko jey",
+   "title": "Pe jejevy",
+   "date": "538–430 a. C.",
+   "one": "Ou jey hikuái ha omopu’ã jey pe tupão ha umi korapy.",
+   "people": "Esdras, Nehemías, Ester, Zorobabel",
+   "events": "Jejevy Ciro ñe’ẽmondo rupi, tupão jeguapy jey, Jerusalén korapy ñemyatyrõ, Ñe’ẽ ñemoñepyrũ jey",
+   "q": "Ñanderuete vy’a tapenemyenyhẽ uvei pende py’apy.",
+   "cite": "Nehemías 8:10",
+   "christ": "Malaquías, AT aranduka pahague, oñembotývo omombe’u peteĩ marandu mbouhára ombosako’íva pe Mesías rape: «Amondóta che marandu mbouhára» (Malaquías 3:1).",
+   "detail": "<p>Pe jejevy oñepyrũ Pérsia mburuvicha Ciro ñe’ẽmondo rupi (538 a. C.). Mbohapy ñembyatýpe ou jey ha omopu’ã jey pe ho’áva’ekue.</p><ul><li><b>Zorobabel</b> · omopu’ã jey pe tupão (oñembopaha 516 a. C.).</li><li><b>Esdras</b> · ombo’e jey pe léi (pe Ñe’ẽ) ha omoñepyrũ jey pe jerovia.</li><li><b>Nehemías</b> · omopu’ã jey Jerusalén korapy 52 árape.</li><li><b>Ester</b> · osalva ñemanógui umi judío Pérsiapegua: «máva oikuaa kóva árape g̃uarã ndepa…».</li><li><b>Ñembyahýi oku’eve</b> · pe tupão oĩ, mburuvicha David ramoguáva katu ndaipóri. Tetãygua oha’ãrõ pe Mesías.</li></ul>",
+   "next": "Ha upéi… yvága oñemboty ramoguáicha, og̃uahẽ 400 ary kirirĩ."
+  },
+  {
+   "tag": "Testaménto pa’ũme · Escenário ñembosako’i",
+   "title": "Pe ary kirirĩ",
+   "date": "430–4 a. C. rupi",
+   "one": "400 ary profeta ñe’ẽ’ỹre; pe escenário katu oñembosako’i kirirĩháme.",
+   "people": "Alejandro Guasu, umi Macabeo, Roma",
+   "events": "Pérsia → Grécia → Macabeo sãso → Roma poguy",
+   "q": "Og̃uahẽvo pe ára Ñanderuete oiporavomava’ekue, Ha’e ombou Ita’ýra ko yvy apére, onaceva’ekue peteĩ kuñataĩ heko potĩvagui.",
+   "cite": "Galaciayguakuérape 4:4",
+   "christ": "Ko «escenário ñembosako’i» ha’e Ñanderuete rembiapo Hesu ou hag̃ua «og̃uahẽvo pe ára» voi.",
+   "detail": "<p>Malaquías guive AT peve, 400 ary rupi ñe’ẽ pyahu Ñanderuete kuatiañe’ẽgui’ỹre (profetakuéra). Istória rapykuéri katu Ñanderuete ombosako’i pe ñe’ẽ porã ñemyasãi rape.</p><ul><li><b>Retãguasu ñembovéve</b> · Pérsia → Grécia (Alejandro, 333 a. C.) → Egípto ha Síria → Macabeo ñepu’ã (167 a. C.) → Roma (63 a. C.).</li><li><b>Pe grício ñe’ẽ</b> · Alejandro ñehupyty omoĩ pe grício ñe’ẽ joajuhárõ; AT oñembohasa grício ñe’ẽme (pe Septuaginta), oipe’ávo rape pe ñe’ẽ porã ñemyasãi pya’e hag̃ua.</li><li><b>Roma rape ha py’aguapy</b> · umi tape ha pe «paz romana» oñemboja rape ñemosarambi hag̃ua.</li><li><b>Sinagóga ha aty</b> · oñemohatã pe ñembo’e sinagógape; osẽ fariséo ha saducéo, ha hi’aratĩ <b>pe Mesías ñeha’ãrõ</b>.</li></ul>",
+   "next": "Ha, oñemyangu’ívo pe kirirĩ, ipahápe Ha’e ou."
+  },
+  {
+   "tag": "PT · Jehupyty",
+   "title": "Hesu ou",
+   "date": "4 a. C.–30 d. C. rupi",
+   "one": "Pe Mesías oñeprometéva’ekue ou, omano ha oikove jey.",
+   "people": "Hesu, umi 12 temimbo’e, Juan Mongarãihára",
+   "events": "Pe ñembo’o (Navidad), iñembo’e ha milágro rembiapo, ñemano kurusúpe, jeikove jey ára mbohapyhápe",
+   "q": "Ha pe Ñe’ẽ oñemboho’o ha oikóma ñande apytépe kuimba’e ramo… henyhẽva jeporiahuvereko (mborayhu) ha añeteguágui.",
+   "cite": "Juan 1:14",
+   "christ": "Pe kuña ñemoñare (escéna 2), Abraham jehovasa (3), pe Páscua ovecha (4), David mburuvicha tapiaitéva (6) ha pe ñe’ẽme’ẽ pyahu (8) ojehupytypa peteĩ Hesúpe: ñande profeta, pa’i ha mburuvicha añetegua.",
+   "detail": "<p>Oñemyangu’ívo pe kirirĩ, ou pe oñeprometéva’ekue. Umi irundy ñe’ẽ porã omombe’u Hesu rekove, ñemano ha jeikove jey heta ñemañágui.</p><ul><li><b>Ñembo’o</b> · Ñanderuete oiko kuimba’éramo (Emanuel, «Ñanderuete ñane ndive»), Belén tenda mboriahúpe.</li><li><b>Rembiapo</b> · ombo’e Ñanderuete retãguasu, omonguera hasýva ha ohenói angaipavórape. «Pe checha va’ekue, ohecha pe Ru.»</li><li><b>Pe kurusu</b> · omyengovia ñande rendaguépe pe angaipa ha ñemano valor pe ho’a ogueruva’ekue (escéna 2). Pe Páscua ovecha añetegua.</li><li><b>Jeikove jey</b> · oikove jey ára mbohapyhápe ha ombyai pe angaipa, ñemano ha Satana pu’aka; pe kurusúpe voi «ombopoguy opaite Satana ha hembiguaiguasukuéra pu’aka ha omotĩ ichupekuéra opavave rovaképe» (Colosayguakuérape 2:15).</li></ul><p>Upévare Hesu ha’e ñande <b>profeta añetegua</b> (ohechauka ñandéve rape Ñanderuetépe), ñande <b>pa’i añetegua</b> (omyengovia angaipa hete voi rupi) ha ñande <b>mburuvicha añetegua</b> (oñakã’o angaipa, ñemano ha Satana, ha osãmbyhy tapiaite peve).</p>",
+   "next": "Hesu oikove jeýva omondo itemimbo’ekuéra ko yvy ári…"
+  },
+  {
+   "tag": "PT · Ñemosarambi",
+   "title": "Tupão ñepyrũ",
+   "date": "30 d. C. guive",
+   "one": "Ou pe Espíritu ha pe ñe’ẽ porã oñemosarambi yvy rugua pahaite peve.",
+   "people": "Pedro, Pablo, tupão ypykue",
+   "events": "Pe Espíritu ou Pentecostés árape, tupão ñepyrũ, pe ñe’ẽ porã Jerusaléngui Romápe jejahéi rupive",
+   "q": "Opáichavo oñeme’ẽta peẽme pu’aka, ou vove pende’ári pe Pytu Porãmbáva… ha peẽ peikóta che rechaharekuéra ramo… yvy rugua pahaite peve.",
+   "cite": "Apostolkuéra 1:8",
+   "christ": "Ko mombe’u oku’eve gueteri ko árape. Ñanderuete kuatiañe’ẽ oñembotývo oprometé Hesu oújeytaha ha ojapotaha opa mba’e pyahu (Apocalípsis 21).",
+   "detail": "<p>Hesu ojupi rire, pe Espíritu oñeprometéva’ekue ou Pentecostés árape ha onace pe tupão. Pe ñe’ẽ porã oñemosarambi pya’eterei.</p><ul><li><b>Pentecostés</b> · pe Espíritu rupi umi temimbo’e kyhyjéva oiko rechahárõ py’aguasúpe.</li><li><b>Pedro</b> · omombe’u pe ñe’ẽ porã umi judíope Jerusalénpe.</li><li><b>Pablo</b> · jejahéihárõ oiko apóstolrõ; omopu’ã tupão tetã ambue rupi ha ohai kartakuéra.</li><li><b>Yvy rugua peve</b> · Jerusalén → Judea → Samaria → Roma. Pe ñe’ẽme’ẽ «opaite tetãnguérape» ojejapova’ekue Abrahámpe oiko añetehápe.</li><li><b>Ha ñande</b> · pe mombe’u ndopái; oku’eve Hesu jeju jey ha yvága ha yvy pyahúpe.</li></ul>",
+   "next": "Pe mombe’u katu ndopái ko’ápe…"
+  },
+  {
+   "tag": "PT · Ñembopaha",
+   "title": "Ñemboheko jey (opa mba’e pyahu)",
+   "date": "outaha",
+   "one": "Hesu ou jey ha ojapo opa mba’e pyahu.",
+   "people": "Hesu oújeýva; opaite tetãnguéra",
+   "events": "Pe jeju jey, pe ñembojovake paha, angaipa·ñemano·tesay opa, yvága ha yvy pyahu",
+   "q": "Ñanderuete voi omokãta tetãyguakuéra resay. Ha pe ñemano ndaiporimo’ãvéi, pe jejahe’o soro… ndaiporivéima.",
+   "cite": "Apocalípsis 21:4",
+   "christ": "Pe Edén jeguapy tenondegua oñemboheko jey ipahápe pe «Jerusalén pyahu» ramo. Ñanderuete oiko tapiaite peve hetã ndive: pe Emanuel henyhẽmbáva (Apocalípsis 21:3; Matéo 1:23).",
+   "detail": "<p>Ñanderuete kuatiañe’ẽ ndopái pe tupão árape. Aranduka pahague, Apocalípsis, ohechauka Hesu <b>oújeýva</b> ha ombopaháva opa mba’e.</p><ul><li><b>Pe jeju jey</b> · pe mburuvicha oñeprometéva’ekue ou jey vy’apavẽme.</li><li><b>Pe pu’aka paha</b> · Satana ha ñemano oñembyaipa tapiaite peve, ha Crísto osãmbyhy Mburuvicha guasúrõ (1 Corintoyguakuérape 15:25-26; Apocalípsis 20:10).</li><li><b>Ñembojovake ha jeikove jey</b> · opaite teko vai oñemyatyrõ ha umi omanóva oikove jey.</li><li><b>Yvága ha yvy pyahu</b> · angaipa, ñemano, tesay ha tasy okañymba tapiaite peve (Apocalípsis 21:4).</li><li><b>Pe Edén oñemboheko jeýva</b> · peteĩ «Jerusalén pyahu» iporãvévape pe ñepyrũ guivévagui, Ñanderuete oiko tapiaite peve hetã ndive: pe tenda opaite Ñanderuete kuatiañe’ẽ ohohápe.</li></ul><p>Upévare ko’ág̃a ha’e pe ára <b>«oĩmáva, ndoĩporãvéi gueteri»</b>: Hesúpe pe salvación oĩmbáma <b>voi</b>, henyhẽmbáva katu oñeha’ãrõ <b>gueteri</b>.</p>",
+   "next": "Upéicharõ, mba’épa he’ise ko mombe’upa «chéve» g̃uarã?"
+  }
+ ],
+ "love": [
+  "Pe mombe’u ñepyrũ ndaha’éi ñembojovake, ha’e uvei peteĩ yvy ojejapóva mborayhu osyrývape.",
+  "Yvypóra oñangaipa vove, Ñanderuete oprometé upépe voi pe salvación.",
+  "Ñanderuete oheka tenonde pe ndoga’uáivape, ohenói ichupe héra rupi ha omoĩ ichupe jehovasa rape ramo.",
+  "Ohendu pe tetã tembiguái pyahẽ ha oguejy voi osalva hag̃ua ichupe.",
+  "Ojetraicióna ramojepe jey jey, ohenói jave oĩ ramo omondo peteĩ osalváva ha omopu’ã jey ichupe.",
+  "Ndoitýiri David ho’áva’ekuépe jepe; ha’e rupive oprometé peteĩ mburuvicha tapiaitéva.",
+  "Pe tetã ojeréva ichugui omondo profetakuéra, ojerurévo: «Ejevýna».",
+  "Pe jererahapa yvy pytũvévape jepe oguejy hendivekuéra ha oprometé ñemboheko jey.",
+  "Pe tetã ojavýva ramojepe jey jey ndogueru jeýiri pe ñe’ẽme’ẽ, omopu’ã jey uvei ichupe.",
+  "Umi 400 ary kirirĩme jepe, ombosako’i kañyháme pe salvación rape.",
+  "Ñande jaiko ramojepe gueteri angaipavórõ, omondo Ita’ýra ha ome’ẽ hekove.",
+  "Pe mborayhu jahupytýva, ko’ág̃a omondo osyry hag̃ua opaite yvy rupi.",
+  "Ipahápe omokãta opaite tesay ha ojapóta opa mba’e pyahu mborayhúpe."
+ ],
+ "mis": [
+  {
+   "w": "«Mba’ére piko Ñanderuete ojapo peteĩ oñangaipakuaáva? Naiporãvéiri piko ojapo’ỹrõ?»",
+   "t": "Ñanderuete ojapo pe yvy ha yvypóra ndaha’éi mba’eve ifáltagui, mborayhu osyrývagui uvei. Yvypóra ojejapo <b>peteĩ tapicha ojejuhúva Ñanderuete ndive</b> ha’e voi mborayhu. Ha pe angaipa jeike jepe noñemboykéi Ñanderuete salvación rapégui (Efesoyguakuérape 1:4-5). Ñanderuete kuatiañe’ẽ escéna tenondegua ndaha’éi ñembojovake, mborayhu uvei."
+  },
+  {
+   "w": "«Peteĩ yvánte ho’u haguére oñemosẽ ha ohupyty jepe ñemano? Naipohýietereipa Ñanderuete?»",
+   "t": "Pe ñemosẽ Edéngui ha’e ñembojovake ha avei poriahuvereko. Ñanderuetégui mombyry ha pe teko ñembyaipápe, yvypóra ho’urõ pe yvyra tekoverãgui ha oikove tapiaite peve, opytáta jejahasa asy poguýpe tapiaite peve (Génesis 3:22). Pe ñemano ojeporavóvo oipe’a peteĩ rape jejevy hag̃ua; ha upépe voi Ñanderuete oprometé peteĩ Osalváva (Génesis 3:15). Pe ñembojovaképe oĩma voi mborayhu."
+  },
+  {
+   "w": "«Abraham ojeporavo ijerovia guasúgui; opaite tapicha Ñanderuete kuatiañe’ẽpegua ndaha’éipa heróicova teko porãme?»",
+   "t": "Abraham ojapu ha oñemoñe’ãsã avei, ha Jacob ha’e peteĩ japoseko. Ñanderuete nohenóiri «umi oĩporãvape», ohenói uvei imborayhu rupi umi imarãvape. Pe ñeñeporavo ndaha’éi iteko porãgui, Ñanderuete mborayhu jeroviapy uvei (Deuteronómio 7:7-8)."
+  },
+  {
+   "w": "«Pe léi (mandamiénto) ndaha’éipa peteĩ examen térã condición ohasava’erã peteĩ ojesalva hag̃ua?»",
+   "t": "Ñanderuete osalva ichupekuéra <b>mboyve</b> ome’ẽ pe léi. Pe Mandamiénto 10 voi oñepyrũ peteĩ salvación ñemombe’úpe: «Che ningo Jahve, pende Ruete, poguenohẽva’ekue Egípto retãgui» (Éxodo 20:2). Pe léi ndaha’éi «ejapo ke ojesalva hag̃ua», ha’e uvei peteĩ mborayhu jehechauka mba’éichapa oikóta umi ojesalvámava’ekue gracia rupi (Deuteronómio 7:7-9). Tapia gracia tenonde; pe ñe’ẽrendu ha’e pe mbohovái."
+  },
+  {
+   "w": "«Pe Canaán ñehupyty ha’e peteĩ jejuka poriahuvereko’ỹva; pe AT Ñanderuete ipochýnte, opa rupi.»",
+   "t": "Kóva ha’e peteĩ mba’e ndoñesolucionáiva peteĩ ñe’ẽme ha oikotevẽ ñeñangareko. Ñanderuete kuatiañe’ẽ katu ndohechaukái kóva ñorãirõ reírõ, ha’e uvei ñembojovake heta sa ary teko vai guasu rire (mitã ñekuave’ẽ avei), heta ñembohape rire (Génesis 15:16; Deuteronómio 9:4-5; Levítico 18:24-25). Ñanderuete ndaipya’éi pe ñembojovaképe jepe, ha pe ojevýva ichupe orrecibi vy’ápe, tetã ambuegua ramojepe, Rahab ha Rut ramo (Josué 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "«David ha’e peteĩ heróicova ijavy’ỹva; upévare oñehenói “peteĩ kuimba’e Ñanderuete py’a háicha”.»",
+   "t": "David ojapo angaipa kuña rehe ha jejuka jepe. «Peteĩ kuimba’e Ñanderuete py’a háicha» nahe’iséi ijavy’ỹva, he’i uvei pe ndomokañýiva iñangaipa, oñembyasy pypukúva ha ojevy tapia Ñanderuetépe (Salmokuéra 51). Ñanderuete mborayhu ndoitýiri pe ho’a guasúvape jepe."
+  },
+  {
+   "w": "«Pe profeta ha’e peteĩ paje omombe’úva pe oútava; pe AT Ñanderuete ipochýnte.»",
+   "t": "Pe profeta mba’e tuichavéva ndaha’éi «pe oútava mombe’u», ha’e uvei Ñanderuete sapukái py’aitéva: «ejevýna». Pe ñembojovake ñe’ẽmondo jepe ndoipotái ombyaipa, oipota uvei ojevy oikove hag̃ua: «ndaipotái pe heko vaíva omano» (Ezequiel 33:11)."
+  },
+  {
+   "w": "«Pe jererahapa ohechauka Ñanderuete oheja reipaitéha Israélpe.»",
+   "t": "Pe jererahapa ndaha’éi jeheja rei, ha’e uvei peteĩ Ru ñembokatupyry ha ñemopotĩ ta’ýra ohayhúva rehe (Hebreoyguakuérape 12:6). Ñanderuete ndohói; oĩ Daniel ndive pe jererahapa mbytépe ha oprometé: «aguereko py’aguapy, ha ndaha’éi py’aro, ame’ẽ jevy hag̃ua peẽme umi mba’e peha’ãrõva» (Jeremías 29:11)."
+  },
+  null,
+  {
+   "w": "«400 ary ñe’ẽ’ỹrõ, naiporãi piko Ñanderuete oho térã opytu’u hína?»",
+   "t": "Pe kirirĩ ndaha’éi jeike’ỹ. Nde’íri añónte; upe aja katu omongu’e retãguasu, ñe’ẽ ha tape ombosako’i hag̃ua pe salvación escenário. Pe momento kirirĩvévape, Ñanderuete omba’apo hetave, mborayhúpe (Galaciayguakuérape 4:4)."
+  },
+  {
+   "w": "«Hesu ha’e peteĩnte umi mbo’ehára porã teko porãme; pe kurusu ha’e peteĩ ñe’ẽrasy.»",
+   "t": "Hesu he’i ha’eha Ñanderuete (Juan 8:58), ha pe kurusu ndaha’éi reígui oikóva ni ñe’ẽrasy, ha’e uvei mborayhu oñembosako’íva. Noñererahái mbarete rupi; ome’ẽ uvei hekove ipy’a guive (Juan 10:18). «Upe imborayhu tuichavéva ome’ẽ hekovetee voi ohayhúva rehehápe» (Juan 15:13)."
+  },
+  {
+   "w": "«Pe tupão ha’e peteĩ aty religiósa tapicha ijavy’ỹvagui, térã peteĩ óganténte.»",
+   "t": "Pe tupão ndaha’éi peteĩ aty «marangatu ijavy’ỹvagui», ha’e uvei <b>angaipavóra oñembogue jeýva</b>. Pe apóstol Pablo voi oñehenói «che pe ituichaveva’ekue» (1 Timotéope 1:15). Pe tupão ypykue ojoavy ha ho’a avei (Apostolkuéra 6:1; 1 Corintoyguakuérape 1:11). Pe tupão ndaha’éi ñembotuicha hag̃ua, ha’e uvei tapicha omyasãiva pe mborayhu ojahupytýva (Juan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Angaipa ypy — ndaipóri heko porãva",
+   "body": "Pe apañuãi ndaha’éi «teko vai sa’i», ha’e uvei pe ñe’ã rapo. Adán guive, opavave onace angaipa poguýpe ha ijeheguínte ndaikatúi ohupyty Ñanderuetépe.",
+   "vref": "Romayguakuérape 3:10-12, 23",
+   "vtext": "Ndaipóri heko porãva, ni peteĩ añónte jepe… opavave opia Ñanderuete rapégui, ndaipóri heko porãva… Opavavete oñemboheko vaipáguima… upévare ndaikatúi ohupity Ñanderuete reko ojajaipáva."
+  },
+  {
+   "title": "Pe léi ndaikatúi che salva",
+   "body": "Pe léi ndaha’éi peteĩ jupiha, peteĩ itarovaha uvei. Ñaha’ãvéramo ñaime hekópe, ohechaukave mba’eichaitépa jajavy. Pe iñe’ẽ ha’e ñanegueraha hag̃ua Crístope.",
+   "vref": "Romayguakuérape 3:20 · Galaciayguakuérape 3:24",
+   "vtext": "Moises rembiapoukapykuéra ningo oĩ ohechauka hag̃uánte opavavépe, ñande ñañemboheko vaimaha… (Moises) tembiapoukapykuéra opyta ñande rerekua ramo… Hesu Crísto ou peve."
+  },
+  {
+   "title": "Gracia rupi — peteĩ me’ẽmby, ndaha’éi ñeha’ã",
+   "body": "Pe salvación ndaha’éi pe valor tembiapo oñembyatýva rehe, ha’e uvei peteĩ Ñanderuete me’ẽmby pe ndoga’uáivape g̃uarã. Upévare avave ndaikatúi oñembotuicha.",
+   "vref": "Efesoyguakuérape 2:8-9",
+   "vtext": "Ñanderuete mborayhu rupi peẽ pejesalva ha pejerovia Hesu Crísto rehe… Ndaha’éi yvyarigua rembiapo porã rupi, ani hag̃ua avave oñembotuicha."
+  },
+  {
+   "title": "Heko potĩva oñemoĩva jerovia rupi",
+   "body": "Ndaha’éi pe léi ñembojeguarúpe, ha’e uvei jajeroviávo Hesu Crísto rehe oñemoĩ ñande heko potĩva ramo: ndajañemondéi ñande teko porãme, Ha’e mba’épe uvei.",
+   "vref": "Romayguakuérape 5:1 · Galaciayguakuérape 2:16",
+   "vtext": "Ko’ág̃a ñande jajerereko heko potĩva ramo jajeroviágui Hesu Crísto rehe… yvyariguakuéra noñemboheko potĩri ojapo ramojepe Moises rembiapoukapy, ojerovia rire uvei Hesu Crísto rehe ae."
+  },
+  {
+   "title": "Ñanderuete kuatiañe’ẽ ohechauka Hesúpe",
+   "body": "Ñanderuete kuatiañe’ẽ ndaha’éi peteĩ kuimba’e guasu rekove térã peteĩ aranduka pytyvõ jejehegui. Génesis guive Apocalípsis peve, peteĩteĩ rogue ohechauka peteĩme: Hesu Crístope.",
+   "vref": "Juan 5:39 · Lúcas 24:27",
+   "vtext": "Ñanderuete kuatiañe’ẽ che rechahare voi… ohechauka porãvo opaite mba’e ojehaiva’ekue Crísto rehe Ñanderuete kuatiañe’ẽme."
+  },
+  {
+   "title": "Ñanderuete retãguasu — Hesu marandu mbyte",
+   "body": "Pe téma Hesu ombo’evéva. Pe retãguasu Ñanderuete osãmbyhyhápe mburuvichárõ oike ko yvýpe Hesu reheve ha oñembopaháta ojeju jeývo. Pe kurusu ha jeikove jey rupi, Hesu ha’e pe mburuvicha añetegua oñakã’ova’ekue angaipa, ñemano ha Satánape.",
+   "vref": "Márcos 1:15",
+   "vtext": "Pe ára oikopáma ha og̃uahẽma Ñanderuete retãguasu pu’aka, upévare pejevy hendápe ha pejerovia iñe’ẽ porãite rehe."
+  },
+  {
+   "title": "Pe ñe’ẽ porã — Ha’e ombopaha opa mba’e",
+   "body": "Pe angaipa retã ndaikatúiva amyengovia, Hesu omyengovia che rendaguépe pe kurusúpe, ha oikove jeývo oñakã’o ñemanóre. Ndajeko «ejapóre», jajeko uvei «oikopáma» rehe.",
+   "vref": "Juan 19:30 · Romayguakuérape 5:8",
+   "vtext": "Oikopáma… Ñanderuete katu ohechaukáma imborayhu ñandéve, Hesu Crísto omanóvo ñanderehehápe, ñande jaiko ramojepe angaipa (Aña) poguýpe."
+  }
+ ]
+}

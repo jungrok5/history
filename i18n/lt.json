@@ -1,0 +1,343 @@
+{
+ "menuName": "Lietuvių",
+ "htmlLang": "lt",
+ "dir": "ltr",
+ "brand": "Biblija viename slinkties žvilgsnyje",
+ "docTitle": "Biblija viename slinkties žvilgsnyje · Nuo sukūrimo iki Bažnyčios",
+ "share": {
+  "title": "Biblija viename slinkties žvilgsnyje",
+  "text": "Vienu slinkties žvilgsniu atrask didžiąją Biblijos istoriją ir kodėl atėjo Jėzus."
+ },
+ "ui": {
+  "people": "Asmenys",
+  "events": "Svarbiausi įvykiai",
+  "christLabel": "Rodo į Jėzų",
+  "loveLabel": "Nepasiduodanti meilė",
+  "mythWrong": "Dažnas nesusipratimas",
+  "mythRight": "Iš tikrųjų",
+  "more": "Skaityti daugiau",
+  "version": "(LBD)"
+ },
+ "labels": {
+  "start": "Pradžia",
+  "thread": "Siužetas",
+  "gospel": "Evangelija",
+  "about": "Apie"
+ },
+ "s": {
+  "ui.share": "↗ Dalintis",
+  "ui.toast": "Nuoroda nukopijuota 📋",
+  "ui.footer": "Biblija viename slinkties žvilgsnyje · Biblijos citatos iš A. Rubšio ir Č. Kavaliausko vertimo",
+  "hero.kicker": "Nuo sukūrimo iki Bažnyčios",
+  "hero.title": "Biblija<br><span class='em'>viename slinkties žvilgsnyje</span>",
+  "hero.sub": "Vienu slinkties žvilgsniu atrask didžiąją Biblijos istoriją ir kodėl atėjo Jėzus.",
+  "hero.cue": "Slink žemyn<span>↓</span>",
+  "thread.eyebrow": "Vienas sakinys, jungiantis visą Bibliją",
+  "thread.h2": "Galų gale Biblija yra viena vientisa istorija",
+  "thread.flow": "<b>Pažadas</b><span class='arw'>→</span><b>Laukimas</b><span class='arw'>→</span><b>Išsipildymas</b>",
+  "thread.note": "Dievas <b>pažada</b> (sandora), tauta ilgai <b>laukia</b>, ir galiausiai viskas <b>išsipildo</b> ir užbaigiama Jėzuje. Sek toliau pateiktas 13 scenų šia gija. Spustelėk <b>„Skaityti daugiau“</b> ant kiekvienos kortelės, kad sužinotum gilesnę istoriją.",
+  "gospel.eyebrow": "Ką ši istorija reiškia „man“",
+  "gospel.h2": "Tikrasis Biblijos centras",
+  "gospel.lead": "Biblija <b>nėra dorovės vadovėlis, sakantis „būk geras žmogus“.</b>",
+  "gospel.sublead": "Tai istorija apie tai, kaip Dievas <b>vien iš malonės</b> išgelbėjo nusidėjėlius, kurie patys negalėjo savęs išgelbėti. Jos centre stovi Jėzus Kristus.",
+  "gospel.mirror": "<h3>Izraelio nesibaigiantis ratas iš tikrųjų yra „mano“ paveikslas</h3><div class='cycle'><b>Stabmeldystė</b><span class='a'>→</span><b>Kančia</b><span class='a'>→</span><b>Šauksmas</b><span class='a'>→</span><b>Dievas gelbsti</b><span class='a'>→</span><b>Vėl stabmeldystė…</b></div><p>Nuo teisėjų iki tremties Izraelis be galo kartoja šį ratą. Biblija jį užrašė ne tam, kad galėtume šaipytis: „Kokie jie buvo apgailėtini.“</p><p>Tai <b>veidrodis</b>. Esmė ne ta, kad „jie tokie buvo“, o ta, kad pamatytume: <b>„aš darau tą patį“</b> (1 Korintiečiams 10:11).</p><p><b>Stabas</b> nėra tik medinis atvaizdas. Tai <b>visa, ką mylime ar kuo pasitikime labiau nei Dievu</b> – pinigai, sėkmė, pripažinimas, žmonės, net aš pats. Ir naudoti Dievą kaip <b>priemonę savo norams išpildyti</b> taip pat yra stabmeldystė.</p><p class='punch'>Galų gale giliausias stabas yra „aš pats, sėdintis Dievo soste“.</p>",
+  "gospel.coreIntro": "Tad kaip Dievas išgelbsti tokį nusidėjėlį? Štai evangelijos, kurią skelbia Biblija, esmė.",
+  "gospel.crux": "<p class='crux-lead'>Visa Biblija rodo į vieną vietą.</p><p>Žmogus pats negalėjo nutraukti nuodėmės rato, ir nebuvo nė vieno teisaus. Todėl kažkas turėjo <b>sumokėti kainą jų vietoje</b>.</p><p>Jėzus atėjo ne vien tam, kad duotų gerus pamokymus. Nebuvo kito kelio man išgelbėti, todėl <b>jam teko ateiti</b>.</p><p class='crux-punch'>Tas, kuris turėjo kaboti ant to kryžiaus, buvau <b>aš</b>.<br>Jėzus nešė <b>mano nuodėmę</b> ir buvo prikaltas ten mano vietoje.</p><div class='crux-verse'>„Bet jis buvo sužalotas dėl mūsų nusižengimų, ant jo krito kirčiai už mūsų kaltes… ir mes buvome išgydyti jo žaizdomis.“ — Izaijo 53:5</div>",
+  "faq.h": "Galbūt kažkas dar neduoda ramybės?",
+  "faq.q1": "<span class='arr'>▸</span> Tai žmogžudys, kuris tiki, eina į dangų, o visą gyvenimą gerai gyvenęs, bet netikintis – į pragarą?",
+  "faq.a1": "<p>Pagrįstas klausimas. Bet jame slypi du nesusipratimai.</p><p><b>① Biblija neskirsto žmonių į „gerus“ ir „blogus“.</b> Matas yra ne „geresnis už kaimyną“, o „tobulas Dievo šventumas“. Prieš jį niekas nėra „pakankamai geras“ (Romiečiams 3:23). Tad tai ne „geras žmogus prieš žmogžudį“, o veikiau du tos pačios mirtinos ligos ligoniai: vienas priima vaistus, o kitas atsisako sakydamas: „Aš sveikesnis už aną.“</p><p><b>② Dangų nuo pragaro skiria vienas dalykas.</b> Ne darbų balas, o <b>tai, ar priėmei Jėzų Kristų kaip Viešpatį ir ar tavo nuodėmės problema išspręsta</b>. Tas, kurio nuodėmė išspręsta Kristaus krauju, eina į dangų; tas, kuris niekada jo nepriima ir lieka su savo nuodėme, neeina. Joks geras darbas negali už tave išspręsti pačios nuodėmės problemos.</p><p>Todėl dangus ir pragaras nėra „atlygis už gerą elgesį“, o <b>santykio su Kristumi</b> klausimas. O „tikėti“ – tai ne protinis pritarimas, o gyvenimo Viešpaties pasikeitimas: kas iš tikrųjų jį priima, netampa įžūlus, o atgailauja giliausiai. Priešingai, <b>savęs teisinimas</b> „aš geras“ yra sunkiausiai įveikiamas stabas, verčiantis manyti „man Kristaus nereikia“ (Luko 18:9-14).</p><p>Biblija sako aiškiai: <b>„Kas jį tiki, tas nebus pasmerktas, o kas netiki, jau yra nuteistas“</b> (Jono 3:18). Teismas nėra „tavo gyvenimo įvertinimas po mirties“, o jau nuspręstas pagal tai, <b>ar priėmei Kristų</b>.</p><p class='faq-v'>Romiečiams 3:23 · Jono 3:18 · Efeziečiams 2:8-9 · Luko 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Argi nepakanka gerai gyventi, net jei netikiu Jėzumi?",
+  "faq.a2": "<p>Taip galvojama dažniausiai, bet taip nesuprantama, kuri yra „tikroji problema“. Pasitelkime vaizdą.</p><p><b>Įsivaizduok, kad esi piratų laive.</b> Kad ir kaip nepriekaištingai valytum denį, kaip maloniai elgtumeisi su įgula, kaip pavyzdingai gyventum – vis tiek esi <b>piratas</b>, nes laivas tave neša į savo paskirties vietą (teismo uostą). Problema ne „tavo darbų balas“, o <b>„kuriam laivui priklausai“ (tavo tapatybė)</b>.</p><p>Todėl evangelija sako ne „stenkis būti geresnis“, o <b>„persikelk į kitą laivą“</b>. Išlipk iš nuodėmės laivo ir pereik pas Jėzų – į naują <b>Dievo vaiko</b> tapatybę. Tai ne balo kėlimas pastangomis, o pasitikėjimas tuo, kuris tiesia tau ranką, ir perėjimas į jo laivą.</p><p>Iš tiesų Biblija išgelbėjimą aprašo būtent kaip tokį „perkėlimą“: <b>„kuris išgelbėjo mus iš tamsybių valdžios ir perkėlė į savo mylimojo Sūnaus karalystę“</b> (Kolosiečiams 1:13).</p><p>Nesupraskime klaidingai: <b>tai nereiškia, kad geras gyvenimas bevertis.</b> Bet gerumas yra ne išgelbėjimo „sąlyga“, o jo <b>vaisius</b>. Kas persikėlė į kitą laivą, dabar gerai gyvena ne iš baimės, o <b>iš vaiko meilės</b>.</p><p class='faq-v'>Kolosiečiams 1:13 · Jono 1:12 · Jono 3:3 · Efeziečiams 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Jei nusikaltėlis sako „Dievas man jau atleido“ ir gyvena ramiai, o auka vis dar kenčia, argi tas atleidimas ne per pigus?",
+  "faq.a3": "<p>Klausimas teisėtas, ir tas skausmas tikras. Bet toks teiginys yra ne „Biblijos atleidimas“, o jo <b>iškraipymas</b>.</p><p><b>① Dievo atleidimas niekada nėra pigus.</b> Nuodėmė neužglaistoma, tarsi „nieko nebūtų buvę“; Dievas pats sumokėjo jos kainą savo Sūnaus gyvybe. Kryžius yra įrodymas ne to, kad nuodėmė laikoma menku dalyku, o to, kokia ji sunki: tai brangiausias atleidimas pasaulyje.</p><p><b>② Tikra atgaila duoda vaisių.</b> Jei nusikaltėlis abejingai stovi prieš auką sakydamas „Dievas man atleido, esu ramus“, tai ne atgaila, o jos pamėgdžiojimas (Mato 3:8). O atleidimas tarp Dievo ir manęs nepanaikina aukos žaizdos ir neverčia jos atleisti.</p><p><b>③ Nuodėmė niekada paprasčiausiai „nenuleidžiama“.</b> Kiekviena nuodėmė apmokama vienoje iš dviejų vietų: <b>arba ją neša Kristus ant kryžiaus</b> (tikinčiajam nebėra pasmerkimo, Romiečiams 8:1), <b>arba ją neša pats tas, kuris jį galutinai atstumia.</b> Tad „pigaus atleidimo“ nėra. Nusikaltėlis taip pat atsako šio pasaulio teisingumui (Romiečiams 13:1-4).</p><p><b>④ Aukos ašaros Dievui niekada nėra mažos.</b> Dievas verkia su verkiančiais, atmena kiekvieną ašarą ir galiausiai jas pats nušluostys (Apreiškimas 21:4). Todėl aukai nereikia vienai nešti keršto naštos – ją gali patikėti teisingam Dievui (Romiečiams 12:19: „Mano kerštas, aš atmokėsiu, – sako Viešpats“).</p><p class='faq-v'>Mato 3:8 · Romiečiams 8:1 · Romiečiams 13:1-4 · Apreiškimas 21:4</p>",
+  "respond.h3": "Tai ką man daryti?",
+  "respond.sub": "Ši meilė yra ne informacija, o <b>kvietimas</b>. Jei ta meilė, prikalta mano vietoje, palietė tavo širdį, sukalbėk dabar šią maldą, lėtai, eilutė po eilutės.",
+  "respond.prayer": "<p>Dieve,</p><p>pripažįstu, kad esu nusidėjėlis, kuris pats savęs negali išgelbėti.</p><p>Tikiu, kad Jėzus mirė už mane ant kryžiaus ir prisikėlė.</p><p>Atleisk visas mano nuodėmes ir nuo šiandien būk mano gyvenimo Viešpats.</p><p>Priimk mane kaip savo vaiką ir leisk gyventi naują gyvenimą.</p><p class='amen'>Jėzaus vardu meldžiuosi. Amen.</p>",
+  "respond.after": "Jei nuoširdžiai sukalbėjai šią maldą, Biblija sako, kad tu tapai <b>Dievo vaiku</b>. Tu nebe vienas – susirask netoliese esančią bažnyčią ir kartu su kitais eik tikėjimo keliu.",
+  "respond.verse": "„Visiems, kurie jį priėmė, jis davė galią tapti Dievo vaikais – tiems, kurie tiki jo vardą.“ — Jono 1:12 · Romiečiams 10:9-10",
+  "closing.main": "Vienas Dievas,<br>per vieną istoriją,<br>seka mus su <em>meile</em>,<br>kuri niekada nepasiduoda.",
+  "closing.verse": "„Nei mirtis, nei gyvenimas… nei jokie kiti kūriniai negalės mūsų atskirti nuo Dievo meilės, kuri yra mūsų Viešpatyje Kristuje Jėzuje.“ — Romiečiams 8:38-39",
+  "closing.small": "Ant šio siužeto Įstatymas, poezijos knygos, pranašai ir laiškai prideda „kūno“.<br>Nuo dabar, kurią knygą beatverstum, žinosi, „kurioje istorijos vietoje esi“.",
+  "closing.share": "↗ Pasidalink šia istorija",
+  "about.line": "Turinys remiasi <b>išganymo istorijos, evangelinės ir reformatiškos</b> perspektyva, kurią dalijasi dauguma Korėjos protestantizmo.",
+  "about.contact": "Klausimai · atsiliepimai — <a id='contact' class='mail'>Rašyk laišką</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ST · Pradžia",
+   "title": "Sukūrimas",
+   "date": "Pradžioje",
+   "one": "Dievas sukūrė pasaulį, kuris buvo „labai geras“.",
+   "people": "Dievas; Adomas ir Ieva",
+   "events": "Šešios kūrimo dienos, žmogus pagal Dievo paveikslą, šabo poilsis",
+   "q": "Pradžioje Dievas sukūrė dangų ir žemę.",
+   "cite": "Pradžios 1:1",
+   "christ": "Pasaulis buvo sukurtas per „Žodį“. Jono evangelija skelbia, kad tas Žodis yra pats Jėzus (Jono 1:1-3).",
+   "detail": "<p>Biblija prasideda ne filosofiniu samprotavimu, o pareiškimu: <b>„Pradžioje Dievas…“</b> Pasaulis yra ne atsitiktinumas, o asmeniško Dievo kūrinys.</p><ul><li><b>Dievo paveikslas</b> · tik žmogus sukurtas panašus į Dievą, kad jį pažintų ir rūpintųsi pasauliu.</li><li><b>Poilsis</b> · septintosios dienos poilsis rodo, kad viskas buvo užbaigta ir rimtyje (šalom): „buvo gera“.</li><li><b>Edenas</b> · pasaulis prieš lūžį, kur Dievas ir žmogus vaikščioja drauge.</li></ul>",
+   "next": "Bet ši pilnatvė netrukus subyrės…"
+  },
+  {
+   "tag": "ST · Prasideda problema",
+   "title": "Nuopuolis",
+   "date": "Pradžioje",
+   "one": "Įėjo nuodėmė ir nutrūko ryšys tarp žmogaus ir Dievo.",
+   "people": "Adomas ir Ieva; žaltys (Šėtonas)",
+   "events": "Uždrausto vaisiaus valgymas, išvarymas iš Edeno, mirties ir vargo atėjimas",
+   "q": "Aš sukelsiu priešiškumą tarp tavęs ir moters… ji trupins tau galvą.",
+   "cite": "Pradžios 3:15",
+   "christ": "Pirmasis evangelijos pažadas, duotas iškart po nuopuolio: „moters ainija“ sutrupins žalčiui galvą. Tai Jėzus (Pradžios 3:15; Romiečiams 16:20; Galatams 4:4).",
+   "detail": "<p>Per nepaklusnumą norint „būti kaip Dievas“ į pasaulį įėjo nuodėmė. Pasekmė yra ne tik sulaužyta taisyklė, o <b>sugriautas santykis</b>.</p><ul><li><b>Sugriauti ryšiai</b> · su Dievu (slėpimasis), su kitais (kaltinimas) ir su gamta (erškėčiai ir vargas).</li><li><b>Mirtis</b> · įspėjimas „tikrai mirsi“ tampa tikrove.</li><li><b>Pradžios 3:15</b> · bet teismo viduryje pirmiau duodamas išgelbėjimo pažadas. Mokslininkai jį vadina <b>„protoevangelija“ (pirmąja evangelija)</b>.</li></ul>",
+   "next": "Dabar Dievas pašaukia vieną žmogų ir pradeda gelbėjimą…"
+  },
+  {
+   "tag": "ST · Pažadas",
+   "title": "Patriarchai",
+   "date": "apie 2000 m. pr. Kr.",
+   "one": "Dievas pažada Abraomui: „Tu būsi palaiminimo versmė“.",
+   "people": "Abraomas · Izaokas · Jokūbas · Juozapas",
+   "events": "Sandora su Abraomu, Izaoko aukojimas, dvylika Jokūbo sūnų, Juozapas tampa Egipto valdovu",
+   "q": "Padarysiu iš tavęs didelę tautą… visos žemės gentys ras tavyje palaiminimą.",
+   "cite": "Pradžios 12:2-3",
+   "christ": "Pažadas, kad „visos gentys ras palaiminimą“, išsipildo Jėzuje, Abraomo palikuonyje (Galatams 3:16).",
+   "detail": "<p>Dievas pradeda spręsti visos žmonijos problemą pašaukdamas vieną žmogų – <b>Abraomą</b>. Esmė yra <b>sandora (pažadas)</b>: didelė tauta, žemė ir „palaiminimas visoms gentims“.</p><ul><li><b>Tikėjimas</b> · Abraomas patikėjo nematomu pažadu, ir tai jam buvo įskaityta teisumu (Pradžios 15:6).</li><li><b>Izaokas ir Jokūbas</b> · pažadas pereina kitai kartai; Jokūbas (Izraelis) yra dvylikos giminių tėvas.</li><li><b>Juozapas</b> · parduotas brolių, tampa Egipto valdovu: „Dievas pakeitė tai į gera“ (Pradžios 50:20).</li></ul>",
+   "next": "Šeima nusileidžia į Egiptą paskui Juozapą… ir galiausiai patenka į vergiją."
+  },
+  {
+   "tag": "ST · Išgelbėjimas",
+   "title": "Išėjimas ir dykuma",
+   "date": "apie 1446 m. pr. Kr.",
+   "one": "Dievas išgelbėjo vergaujančią tautą ir padarė ją savąja.",
+   "people": "Mozė, Aaronas, faraonas",
+   "events": "Dešimt negandų, Pascha, perėjimas per Raudonąją jūrą, dešimt Dievo įsakymų prie Sinajaus, Padangtė, 40 metų dykumoje",
+   "q": "Pasiimsiu jus kaip tautą ir būsiu jūsų Dievas.",
+   "cite": "Išėjimo 6:7",
+   "christ": "Pascha, kurioje avinėlio kraujas nukreipė mirtį, nurodo į Jėzų, „mūsų Paschą“, nukryžiuotą už mus (1 Korintiečiams 5:7).",
+   "detail": "<p>Didžiausias Senojo Testamento išgelbėjimo veiksmas. Vergavęs Izraelis Dievo galia gauna laisvę ir suformuojamas kaip jo <b>tauta</b>.</p><ul><li><b>Pascha</b> · namus su avinėlio krauju ant durų aplenkia mirtis; visų vėlesnių aukų pavyzdys.</li><li><b>Raudonoji jūra</b> · išgelbėjimas, kai kelias baigiasi; „perėjimas į kitą krantą“ tampa naujos pradžios ženklu.</li><li><b>Sinajaus sandora</b> · per įsakymus jie išmoksta gyventi kaip Dievo tauta.</li><li><b>Padangtė</b> · nešiojama šventovė, kur Dievas gyvena savo tautos viduryje: „Emanuelio“ provaizdis.</li><li><b>40 metų</b> · dėl nepaklusnumo karta klaidžioja dykumoje, bet Dievas yra su jais su mana ir debesies bei ugnies stulpu.</li></ul>",
+   "next": "Stovėdami ties pažadėtąja žeme, jie ruošiasi įžengti…"
+  },
+  {
+   "tag": "ST · Įsikūrimas",
+   "title": "Užkariavimas ir teisėjai",
+   "date": "apie 1400–1050 m. pr. Kr.",
+   "one": "Jie gauna žemę, bet, be karaliaus, kiekvienas elgiasi kaip jam patinka.",
+   "people": "Jozuė; teisėjai, kaip Gideonas ir Samsonas; Rūta",
+   "events": "Jericho griūtis, įsikūrimas Kanaane, kartojamas nuodėmės–teismo–išgelbėjimo ratas",
+   "q": "Tomis dienomis nebuvo Izraelyje karaliaus. Kiekvienas taip elgėsi, kaip jam patiko.",
+   "cite": "Teisėjų 21:25",
+   "christ": "Iš Rūtos giminės kyla Dovydas, o iš Dovydo giminės – Jėzus (Mato 1). Net chaose Mesijo giminės medis tęsiasi.",
+   "detail": "<p>Vadovaujami Jozuės jie įžengia į pažadėtąją žemę, bet įsikūrę netrukus pamiršta Dievą. Teisėjų knyga – tas pats pasikartojantis modelis.</p><ul><li><b>Nuodėmės ratas</b> · nuodėmė → priespauda → šauksmas → teisėjas išgelbsti → vėl nuodėmė, kaskart blogiau.</li><li><b>Teisėjai</b> · Gideonas, Samsonas, Debora… laikini gelbėtojai, didvyriški, bet pilni trūkumų.</li><li><b>Rūta</b> · ištikimybės šviesa tamsiame laike; svetimtautė įžengia į Dovydo (ir Jėzaus) giminę.</li></ul>",
+   "next": "Tauta šaukia: „Duok mums karalių!“…"
+  },
+  {
+   "tag": "ST · Aukso amžius",
+   "title": "Suvienyta karalystė",
+   "date": "apie 1050–930 m. pr. Kr.",
+   "one": "Dievas pažada Dovydui: „Tavo sostas bus tvirtas amžinai“.",
+   "people": "Saulius · Dovydas · Saliamonas",
+   "events": "Pirmasis karalius Saulius, Dovydas ir Galijotas, sandora su Dovydu, Saliamono pastatyta šventykla",
+   "q": "Tavo namai ir tavo karalystė bus amžinai tvirti mano akivaizdoje; tavo sostas bus amžinai tvirtas.",
+   "cite": "2 Samuelio 7:16",
+   "christ": "„Amžinasis sostas“ išsipildo Jėzuje, Dovydo palikuonyje; todėl jis vadinamas „Dovydo Sūnumi“ (Luko 1:32-33; Mato 1:1).",
+   "detail": "<p>Izraelio viršūnė, valdoma trijų karalių.</p><ul><li><b>Saulius</b> · karalius, kurio tauta reikalavo; gera pradžia, sugriauta nepaklusnumo.</li><li><b>Dovydas</b> · „vyras pagal Dievo širdį“. Jis nugali Galijotą ir Jeruzalę paverčia sostine. Padaro didelę nuodėmę (Batšeba), bet atgailauja iš širdies (Psalmynas 51).</li><li><b>Sandora su Dovydu (2 Samuelio 7)</b> · Dievas pažada įtvirtinti jo dinastiją amžinai: lemiamoji mesijinės vilties šaknis.</li><li><b>Saliamonas</b> · išminties ir turtų viršūnėje stato Jeruzalės <b>šventyklą</b>, bet gyvenimo pabaigoje atsigręžia į stabus.</li></ul>",
+   "next": "Po Saliamono karalystė skyla į dvi…"
+  },
+  {
+   "tag": "ST · Smukimas",
+   "title": "Padalyta karalystė",
+   "date": "930–586 m. pr. Kr.",
+   "one": "Padalyta į pietus (Judą) ir šiaurę (Izraelį), tauta pamažu žlunga.",
+   "people": "Abiejų karalysčių karaliai; pranašai, kaip Elijas, Izaijas, Jeremijas",
+   "events": "Karalystės padalijimas, plintanti stabmeldystė, pranašų įspėjimai",
+   "q": "Taip Izraelis ir kėlė maištą prieš Dovydo namus iki šios dienos.",
+   "cite": "1 Karalių 12:19",
+   "christ": "Šiuo laikotarpiu pranašai vis aiškiau skelbia ateisiantį Mesiją (Izaijo 9:6; Izaijo 53).",
+   "detail": "<p>Saliamono sūnaus laikais tauta skyla: <b>šiaurinė Izraelio karalystė</b> (10 giminių, sostinė Samarija) ir <b>pietinė Judo karalystė</b> (2 giminės, sostinė Jeruzalė).</p><ul><li><b>Izraelis (šiaurė)</b> · visi jo karaliai tarnauja stabams; 722 m. pr. Kr. krenta nuo Asirijos.</li><li><b>Judas (pietūs)</b> · tęsiasi Dovydo giminė, yra kelių gerų karalių, kaip Ezekijas ir Jošijas, bet bendrai smunka.</li><li><b>Pranašai</b> · Elijas, Amosas, Izaijas, Jeremijas šaukia „grįžkite!“. Čia mesijinė pranašystė pasiekia turtingiausią tašką („kenčiantis tarnas“ iš Izaijo 53).</li></ul>",
+   "next": "Galiausiai ateina įspėtas teismas: jie išvedami į tremtį…"
+  },
+  {
+   "tag": "ST · Teismas",
+   "title": "Tremtis",
+   "date": "722 / 586 m. pr. Kr.",
+   "one": "Karalystė žlunga ir tauta nuvedama į svetimas žemes.",
+   "people": "Danielius, Ezechielis, Nebukadnecaras",
+   "events": "Izraelis krenta nuo Asirijos (722); Judas krenta nuo Babilono ir šventykla sugriaunama (586)",
+   "q": "Prie Babilono upių mes sėdėjome verkdami, Siono kalną atsiminę.",
+   "cite": "Psalmynas 137:1",
+   "christ": "Pačiose nevilties gelmėse Jeremijas pažada „naują sandorą“ (Jeremijo 31:31) – tą pačią, kurią Jėzus sudaro per Paskutinę vakarienę.",
+   "detail": "<p>Įspėjimai išsipildo. Šventykla sudega ir tauta nuvedama į Babiloną: prarandama žemė, karalius ir šventykla – žemiausias taškas.</p><ul><li><b>Du žlugimai</b> · Izraelis (Asirija, 722 m. pr. Kr.) ir Judas (Babilonas, 586 m. pr. Kr.).</li><li><b>Danielius</b> · tikėjimo pavyzdys net pagonių rūmuose (liūtų duobė); jis regi būsimos „amžinosios karalystės“ regėjimus.</li><li><b>Vilties kibirkštis</b> · regėjimas apie atgyjančius sausus kaulus (Ezechielio 37) ir Jeremijo „naujoji sandora“ nurodo ateitį tamsoje.</li></ul>",
+   "next": "Po septyniasdešimties metų Dievas atveria kelią: jie grįžta namo…"
+  },
+  {
+   "tag": "ST · Atstatymas",
+   "title": "Grįžimas iš tremties",
+   "date": "538–430 m. pr. Kr.",
+   "one": "Jie grįžta ir atstato šventyklą bei sienas.",
+   "people": "Ezra, Nehemijas, Estera, Zerubabelis",
+   "events": "Grįžimas pagal Kyro įsaką, šventyklos atstatymas, Jeruzalės sienų atkūrimas, Žodžio atgaivinimas",
+   "q": "Džiugesys VIEŠPATYJE yra jūsų stiprybė.",
+   "cite": "Nehemijo 8:10",
+   "christ": "Malachijas, paskutinė Senojo Testamento knyga, baigiasi skelbdamas pasiuntinį, kuris parengs Mesijo kelią: „Siunčiu savo pasiuntinį pirma savęs parengti man kelią“ (Malachijo 3:1).",
+   "detail": "<p>Grįžimas prasideda Persijos karaliaus Kyro įsaku (538 m. pr. Kr.). Trimis bangomis jie grįžta ir atstato tai, kas sugriauta.</p><ul><li><b>Zerubabelis</b> · atstato šventyklą (užbaigta 516 m. pr. Kr.).</li><li><b>Ezra</b> · vėl moko Žodžio ir atgaivina tikėjimą.</li><li><b>Nehemijas</b> · atstato Jeruzalės sienas per 52 dienas.</li><li><b>Estera</b> · išgelbsti Persijos žydus nuo sunaikinimo: „kas žino, ar ne dėl tokios valandos…“.</li><li><b>Vis dar besitęsiantis ilgesys</b> · šventykla stovi, bet nėra karaliaus kaip Dovydas. Tauta laukia Mesijo.</li></ul>",
+   "next": "Ir tada… tarsi dangus užsivertų, ateina 400 tylos metų."
+  },
+  {
+   "tag": "Tarp Testamentų · Scenos parengimas",
+   "title": "Tylos metai",
+   "date": "apie 430–4 m. pr. Kr.",
+   "one": "400 metų be pranašo balso; bet scena buvo tyliai rengiama.",
+   "people": "Aleksandras Makedonietis, Makabėjai, Roma",
+   "events": "Persija → Graikija → Makabėjų nepriklausomybė → Romos valdžia",
+   "q": "Bet, atėjus laiko pilnatvei, Dievas atsiuntė savo Sūnų, gimusį iš moters.",
+   "cite": "Galatams 4:4",
+   "christ": "Visas šis „scenos rengimas“ buvo Dievo darbas, kad Jėzus ateitų kaip tik „atėjus laiko pilnatvei“.",
+   "detail": "<p>Nuo Malachijo iki Naujojo Testamento praeina apie 400 metų be naujo Biblijos žodžio (pranašų). Bet už istorijos Dievas rengė kelią evangelijai plisti.</p><ul><li><b>Imperijų kaita</b> · Persija → Graikija (Aleksandras, 333 m. pr. Kr.) → Egiptas ir Sirija → Makabėjų sukilimas (167 m. pr. Kr.) → Roma (63 m. pr. Kr.).</li><li><b>Graikų kalba</b> · Aleksandro užkariavimai graikų kalbą paverčia bendrine; Senasis Testamentas išverčiamas į graikų kalbą (Septuaginta), atveriant kelią evangelijai greitai plisti.</li><li><b>Romos keliai ir taika</b> · gerai nutiesti keliai ir „Pax Romana“ tampa misijos vieškeliais.</li><li><b>Sinagoga ir partijos</b> · įsitvirtina mokymas sinagogoje; iškyla fariziejai ir sadukiejai, ir bręsta <b>Mesijo laukimas</b>.</li></ul>",
+   "next": "Ir, nutrūkus tylai, jis pagaliau ateina."
+  },
+  {
+   "tag": "NT · Išsipildymas",
+   "title": "Jėzaus atėjimas",
+   "date": "apie 4 m. pr. Kr.–30 m. po Kr.",
+   "one": "Pažadėtasis Mesijas atėjo, mirė ir prisikėlė.",
+   "people": "Jėzus, dvylika mokinių, Jonas Krikštytojas",
+   "events": "Įsikūnijimas, jo tarnystė, mokymas ir stebuklai, mirtis ant kryžiaus, prisikėlimas trečią dieną",
+   "q": "Tas Žodis tapo kūnu ir gyveno tarp mūsų… pilno malonės ir tiesos.",
+   "cite": "Jono 1:14",
+   "christ": "Moters ainija (2 scena), Abraomo palaiminimas (3), Paschos avinėlis (4), amžinasis Dovydo karalius (6) ir naujoji sandora (8) – visa išsipildo viename Jėzuje: mūsų tikrajame pranaše, kunige ir karaliuje.",
+   "detail": "<p>Nutrūkus tylai, ateina pažadėtasis. Keturios evangelijos liudija Jėzaus gyvenimą, mirtį ir prisikėlimą iš skirtingų kampų.</p><ul><li><b>Įsikūnijimas</b> · Dievas tapo žmogumi (Emanuelis, „Dievas su mumis“), nuolankiame Betliejaus mieste.</li><li><b>Tarnystė</b> · jis moko apie Dievo karalystę, gydo ligonius, šaukia nusidėjėlius. „Kas yra matęs mane, yra matęs Tėvą.“</li><li><b>Kryžius</b> · jis sumoka mūsų vietoje nuopuolio (2 scena) atneštos nuodėmės ir mirties kainą. Tikrasis Paschos avinėlis.</li><li><b>Prisikėlimas</b> · trečią dieną prisikeldamas jis sutriuškina nuodėmės, mirties ir Šėtono galią; jau ant kryžiaus „nuginklavo kunigaikštystes ir valdžias… švęsdamas pergalę prieš jas“ (Kolosiečiams 2:15).</li></ul><p>Todėl Jėzus yra mūsų <b>tikrasis pranašas</b> (rodantis kelią pas Dievą), <b>tikrasis kunigas</b> (savo kūnu permaldaujantis už nuodėmę) ir <b>tikrasis karalius</b> (nugalintis nuodėmę, mirtį ir Šėtoną ir viešpataujantis amžinai).</p>",
+   "next": "Prisikėlęs Jėzus siunčia savo mokinius į pasaulį…"
+  },
+  {
+   "tag": "NT · Plitimas",
+   "title": "Bažnyčios pradžia",
+   "date": "nuo 30 m. po Kr.",
+   "one": "Ateina Dvasia ir evangelija plinta iki žemės pakraščių.",
+   "people": "Petras, Paulius, ankstyvoji bažnyčia",
+   "events": "Dvasios atėjimas per Sekmines, bažnyčios gimimas, evangelija iš Jeruzalės į Romą per persekiojimus",
+   "q": "Kai ant jūsų nužengs Šventoji Dvasia, jūs gausite jos galybės… ligi pat žemės pakraščių.",
+   "cite": "Apaštalų darbai 1:8",
+   "christ": "Ši istorija tęsiasi iki šiol. Biblija baigiasi pažadu, kad Jėzus sugrįš ir padarys visa nauja (Apreiškimas 21).",
+   "detail": "<p>Jėzui įžengus į dangų, pažadėtoji Dvasia ateina per Sekmines ir gimsta bažnyčia. Evangelija plinta sprogstamai.</p><ul><li><b>Sekminės</b> · Dvasios galia išsigandę mokiniai tampa drąsiais liudytojais.</li><li><b>Petras</b> · skelbia evangeliją žydams Jeruzalėje.</li><li><b>Paulius</b> · iš persekiotojo tampa apaštalu; steigia bažnyčias pagonių pasaulyje ir rašo laiškus.</li><li><b>Iki žemės pakraščių</b> · Jeruzalė → Judėja → Samarija → Roma. Abraomui duotas pažadas apie „visas gentis“ tampa tikrove.</li><li><b>Ir mes</b> · istorija nesibaigia; ji veržiasi link Jėzaus sugrįžimo ir naujo dangaus bei naujos žemės.</li></ul>",
+   "next": "Bet istorija čia nesibaigia…"
+  },
+  {
+   "tag": "NT · Užbaigimas",
+   "title": "Atstatymas (visa nauja)",
+   "date": "dar ateis",
+   "one": "Jėzus sugrįžta ir padaro visa nauja.",
+   "people": "Sugrįžtantis Jėzus; visos tautos",
+   "events": "Antrasis atėjimas, paskutinis teismas, nuodėmės, mirties ir ašarų pabaiga, naujas dangus ir nauja žemė",
+   "q": "Jis nušluostys kiekvieną ašarą… ir nebebus mirties, nebebus liūdesio nei aimanos, nei sielvarto.",
+   "cite": "Apreiškimas 21:4",
+   "christ": "Pirmojo sukūrimo Edenas galiausiai atstatomas kaip „naujoji Jeruzalė“. Dievas amžinai gyvena su savo tauta: Emanuelio pilnatvė (Apreiškimas 21:3; Mato 1:23).",
+   "detail": "<p>Biblija nesibaigia bažnyčios amžiumi. Paskutinė jos knyga, Apreiškimas, parodo Jėzų, kuris <b>sugrįžta</b> ir visa užbaigia.</p><ul><li><b>Antrasis atėjimas</b> · pažadėtasis karalius sugrįžta šlovėje.</li><li><b>Galutinė pergalė</b> · Šėtonas ir mirtis sunaikinami amžinai, ir Kristus viešpatauja kaip karalių Karalius (1 Korintiečiams 15:25-26; Apreiškimas 20:10).</li><li><b>Teismas ir prisikėlimas</b> · kiekviena neteisybė ištaisoma, ir mirusieji prisikelia.</li><li><b>Naujas dangus ir nauja žemė</b> · nuodėmė, mirtis, ašaros ir skausmas išnyksta amžinai (Apreiškimas 21:4).</li><li><b>Atstatytas Edenas</b> · „naujojoje Jeruzalėje“, geresnėje nei pradžia, Dievas amžinai gyvena su savo tauta: tikslas, į kurį rodo visa Biblija.</li></ul><p>Todėl dabar yra <b>„jau, bet dar ne“</b> laikas: Jėzuje išgelbėjimas <b>jau</b> įvykdytas, bet jo pilnatvės <b>dar</b> laukiama.</p>",
+   "next": "Tad ką visa ši istorija reiškia „man“?"
+  }
+ ],
+ "love": [
+  "Istorijos pradžia yra ne teismas, o pasaulis, sukurtas iš plūstančios meilės.",
+  "Vos žmogui nusidėjus, Dievas čia pat pažadėjo išgelbėjimą.",
+  "Dievas pirmas ieškojo neverto žmogaus, pašaukė jį vardu ir padarė palaiminimo versme.",
+  "Jis išgirdo vergaujančios tautos vaitojimą ir pats nužengė jos išgelbėti.",
+  "Nors buvo vis išduodamas, kaskart, kai jie šaukėsi, siųsdavo gelbėtoją ir vėl juos pakeldavo.",
+  "Net puolusio Dovydo neatmetė; per jį pažadėjo amžinąjį Karalių.",
+  "Tautai, kuri jam nusigręžė, siuntė pranašus, maldaudamas: „Prašau, sugrįžk“.",
+  "Net į tamsiausią tremties žemę nužengė su jais ir pažadėjo atstatymą.",
+  "Net tautai, kuri klydo vis iš naujo, neatėmė pažado, o vėl ją pakėlė.",
+  "Net per 400 tylos metų nematomas rengė išgelbėjimo kelią.",
+  "Kai dar tebebuvome nusidėjėliai, atsiuntė savo Sūnų ir atidavė jo gyvybę.",
+  "Tą meilę, kurią gavome, dabar siunčia tekėti į visą pasaulį.",
+  "Galiausiai jis nušluostys kiekvieną ašarą ir su meile atnaujins visa."
+ ],
+ "mis": [
+  {
+   "w": "„Kodėl Dievas sukūrė būtybę, galinčią nusidėti? Argi nebūtų buvę geriau jos nekurti?“",
+   "t": "Dievas sukūrė pasaulį ir žmogų ne dėl kokio nors trūkumo, o iš plūstančios meilės. Padaryti žmogų <b>asmeniu, galinčiu santykiauti su Dievu</b>, savaime jau yra meilė. Ir net nuodėmės įėjimas neliko už Dievo išgelbėjimo plano ribų (Efeziečiams 1:4-5). Pirmoji Biblijos scena yra ne teismas, o meilė."
+  },
+  {
+   "w": "„Už vieno vaisiaus suvalgymą būti išvarytam ir net gauti mirtį? Argi Dievas ne pernelyg griežtas?“",
+   "t": "Išvarymas iš Edeno buvo ir teismas, ir gailestingumas. Jei nuo Dievo atskirtas, tame sugriautame būvyje žmogus valgytų nuo gyvybės medžio ir gyventų amžinai, jis amžinai liktų įstrigęs kančioje (Pradžios 3:22). Leisti mirtį reiškė atverti grįžimo kelią; ir čia pat Dievas pažadėjo Gelbėtoją (Pradžios 3:15). Teisme jau buvo meilė."
+  },
+  {
+   "w": "„Abraomas buvo išrinktas dėl didelio tikėjimo; argi ne visi Biblijos veikėjai moraliniai didvyriai?“",
+   "t": "Abraomas ir melavo, ir abejojo, o Jokūbas buvo apgavikas. Dievas pašaukė ne „tinkamus“, o iš malonės pašaukė netobulus. Išrinkimo priežastis buvo ne jų išskirtinumas, o ištikima Dievo meilė (Pakartoto Įstatymo 7:7-8)."
+  },
+  {
+   "w": "„Argi įstatymas (įsakymai) nėra egzaminas ar sąlyga, kurią reikia išlaikyti, kad būtum išgelbėtas?“",
+   "t": "Dievas juos išgelbėjo <b>prieš</b> duodamas įstatymą. Dešimt įsakymų prasideda išgelbėjimo pareiškimu: „Aš esu VIEŠPATS, tavo Dievas, kuris išvedžiau tave iš Egipto žemės“ (Išėjimo 20:2). Įstatymas yra ne „vykdyk jį, kad būtum išgelbėtas“, o meilės vedimas, kaip turi gyventi malone jau išgelbėti (Pakartoto Įstatymo 7:7-9). Visada pirma malonė; paklusnumas yra atsakas."
+  },
+  {
+   "w": "„Kanaano užkariavimas buvo negailestingos žudynės; vis dėlto Senojo Testamento Dievas yra žiaurus.“",
+   "t": "Tai sunki tema, kurios neišspręsi vienu sakiniu, ir reikia atidumo. Bet Biblija jį pateikia ne kaip savavališką smurtą, o kaip teismą po šimtmečių kantrybės kraštutiniam blogiui (įskaitant vaikų aukojimą) (Pradžios 15:16; Pakartoto Įstatymo 9:4-5; Kunigų 18:24-25). Dievas neskuba net teisti, ir tą, kuris atsigręžia į jį, mielai priima, net jei svetimtautis, kaip Rahabą ir Rūtą (Jozuės 6:25; Rūtos 4:13-17)."
+  },
+  {
+   "w": "„Dovydas buvo nepriekaištingas didvyris; todėl jis vadinamas „vyru pagal Dievo širdį“.“",
+   "t": "Dovydas svetimavo ir net žudė. „Vyras pagal Dievo širdį“ reiškia ne nepriekaištingą, o tą, kuris neslėpė savo nuodėmės, atgailavo nuoširdžiai ir visada grįždavo pas Dievą (Psalmynas 51). Dievo meilė neatmeta net to, kuris sunkiai krenta."
+  },
+  {
+   "w": "„Pranašas yra būrėjas, spėjantis ateitį; Senojo Testamento Dievas tik pyksta.“",
+   "t": "Pranašo esmė yra ne „spėti ateitį“, o širdingas Dievo šauksmas: „prašau, sugrįžk“. Net įspėjimas apie teismą siekia ne sunaikinti, o sugrąžinti ir suteikti gyvenimą: „nenoriu, kad nedorėlis mirtų“ (Ezechielio 33:11)."
+  },
+  {
+   "w": "„Tremtis įrodo, kad Dievas visiškai paliko Izraelį.“",
+   "t": "Tremtis buvo ne palikimas, o mylimo vaiko drausminimas ir gryninimas (Hebrajams 12:6). Dievas neišėjo; jis buvo su Danieliumi pačiame tremties viduryje ir pažadėjo: „dėl jūsų gerovės, o ne dėl žalos! Noriu jums suteikti vilties sklidiną ateitį“ (Jeremijo 29:11)."
+  },
+  null,
+  {
+   "w": "„Jei 400 metų nebuvo žodžio, gal Dievas išėjo ar ilsėjosi?“",
+   "t": "Tyla nėra nebuvimas. Jis tiesiog nekalbėjo; per visą tą laiką judino imperijas, kalbas ir kelius, kad parengtų išgelbėjimo sceną. Tyliausią akimirką Dievas dirbo su didžiausia meile (Galatams 4:4)."
+  },
+  {
+   "w": "„Jėzus yra tik vienas iš gerų dorovės mokytojų; kryžius buvo tragiškas pralaimėjimas.“",
+   "t": "Jėzus skelbėsi esąs pats Dievas (Jono 8:58), ir kryžius buvo ne nelaimingas atsitikimas ar pralaimėjimas, o suplanuota meilė. Jis nebuvo nuvestas jėga, o pats atidavė savo gyvybę (Jono 10:18). „Nėra didesnės meilės, kaip gyvybę už draugus atiduoti“ (Jono 15:13)."
+  },
+  {
+   "w": "„Bažnyčia yra tobulų žmonių klubas arba tik pastatas.“",
+   "t": "Bažnyčia yra ne „tobulų šventųjų“ bendruomenė, o <b>atleistų nusidėjėlių</b> bendruomenė. Net apaštalas Paulius sakė apie nusidėjėlius: „kurių pirmasis esu aš“ (1 Timotiejui 1:15). Ankstyvoji bažnyčia irgi ginčijosi ir klupo (Apaštalų darbai 6:1; 1 Korintiečiams 1:11). Bažnyčia – ne vieta pasipuikuoti, o žmonės, perduodantys gautą meilę (Jono 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Gimtoji nuodėmė: nėra teisaus",
+   "body": "Problema yra ne „keli blogi darbai“, o širdies šaknis. Nuo Adomo visi gimsta po nuodėme ir patys negali pasiekti Dievo.",
+   "vref": "Romiečiams 3:10-12, 23",
+   "vtext": "Nėra teisaus, nėra nė vieno… nes visi yra nusidėję ir stokoja Dievo garbės."
+  },
+  {
+   "title": "Įstatymas negali manęs išgelbėti",
+   "body": "Įstatymas yra ne kopėčios, o veidrodis. Kuo labiau stengiuosi jį vykdyti, tuo labiau jis rodo, kiek nusenku. Jo tikslas – atvesti mus pas Kristų.",
+   "vref": "Romiečiams 3:20 · Galatams 3:24",
+   "vtext": "Per Įstatymą tik pažįstame nuodėmę… Įstatymas buvo mūsų auklėtojas, vedęs į Kristų."
+  },
+  {
+   "title": "Iš malonės: dovana, ne pastangos",
+   "body": "Išgelbėjimas yra ne atlygis už sukauptus nuopelnus, o Dievo dovana tam, kuris jos nevertas. Todėl niekas negali girtis.",
+   "vref": "Efeziečiams 2:8-9",
+   "vtext": "Jūs juk esate išgelbėti malone per tikėjimą… ne darbais, kad kas nors nesigirtų."
+  },
+  {
+   "title": "Nuteisinti tikėjimu",
+   "body": "Ne vykdydami įstatymą, o tikėdami Jėzų Kristų esame paskelbti teisiais: apsivelkame ne savo, o jo teisumu.",
+   "vref": "Romiečiams 5:1 · Galatams 2:16",
+   "vtext": "Nuteisinti tikėjimu, gyvename taikoje su Dievu… žmogus nuteisinamas ne Įstatymo darbais, o tik tikėjimu į Jėzų Kristų."
+  },
+  {
+   "title": "Biblija rodo į Jėzų",
+   "body": "Biblija yra ne didžių žmonių biografija ar saviugdos knyga. Nuo Pradžios iki Apreiškimo kiekvienas puslapis liudija vieną: Jėzų Kristų.",
+   "vref": "Jono 5:39 · Luko 24:27",
+   "vtext": "Tie Raštai ir liudija apie mane… jis aiškino jiems, kas visuose Raštuose apie jį pasakyta."
+  },
+  {
+   "title": "Dievo karalystė: Jėzaus žinios centras",
+   "body": "Tema, kurią Jėzus mokė daugiausia. Karalystė, kur Dievas viešpatauja kaip karalius, su Jėzumi įsiveržė į pasaulį ir bus užbaigta jam sugrįžus. Kryžiumi ir prisikėlimu Jėzus yra tikrasis Karalius, nugalėjęs nuodėmę, mirtį ir Šėtoną.",
+   "vref": "Morkaus 1:15",
+   "vtext": "Atėjo metas ir prisiartino Dievo karalystė: „Atsiverskite ir tikėkite Evangelija!“"
+  },
+  {
+   "title": "Evangelija: jis visa atliko",
+   "body": "Nuodėmės skolą, kurios pats negalėjau apmokėti, Jėzus apmokėjo mano vietoje ant kryžiaus, o prisikeldamas nugalėjo mirtį. Remiuosi ne „daryk“, o „atlikta“.",
+   "vref": "Jono 19:30 · Romiečiams 5:8",
+   "vtext": "Atlikta!… Kristus numirė už mus, kai tebebuvome nusidėjėliai."
+  }
+ ]
+}

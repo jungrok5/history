@@ -1,0 +1,343 @@
+{
+ "menuName": "Eʋegbe",
+ "htmlLang": "ee",
+ "dir": "ltr",
+ "brand": "Biblia le Agbalẽ Mlɔ Ɖeka me",
+ "docTitle": "Biblia le Agbalẽ Mlɔ Ɖeka me · Tso Nuwɔwɔ va Ðo Hame",
+ "share": {
+  "title": "Biblia le Agbalẽ Mlɔ Ɖeka me",
+  "text": "Le ŋkuvɛvɛ ɖeka me, ke nàkpɔ Biblia ƒe ŋutinya gã la — kple nu si ta Yesu va."
+ },
+ "ui": {
+  "people": "Amewo",
+  "events": "Nudzɔdzɔ veviwo",
+  "christLabel": "Efia Yesu",
+  "loveLabel": "Lɔlɔ̃ si meɖea asi le ame ŋu o",
+  "mythWrong": "Nukpɔsusu masɔmasɔ si bɔ",
+  "mythRight": "Nyateƒe la",
+  "more": "Xlẽ geɖe",
+  "version": "(EƲEGBE BIBLIA)"
+ },
+ "labels": {
+  "start": "Gɔmedzedze",
+  "thread": "Ŋutinya la",
+  "gospel": "Nyanyui la",
+  "about": "Tso eŋu"
+ },
+ "epochs": [
+  {
+   "tag": "NUBABLA XOXO · GƆMEDZEDZE",
+   "title": "Nuwɔwɔ",
+   "date": "Le gɔmedzedzea me",
+   "one": "Mawu wɔ xexe si “nyo ŋutɔ.”",
+   "people": "Mawu; Adam kple Eva",
+   "events": "Nuwɔwɔ ŋkeke ade, amegbetɔ wɔwɔ ɖe Mawu ƒe nɔnɔme nu, Sabat ƒe gbɔɖeme",
+   "q": "Le gɔmedzedzea me, Mawu wɔ dziƒo kple anyigba.",
+   "cite": "Mose I 1:1",
+   "christ": "Woto “Nya la” dzi wɔ xexea. Yohanes ƒe Nyanyui gblɔ be Nya sia nye Yesu ŋutɔ (Yohanes 1:1-3).",
+   "detail": "<p>Biblia medze egɔme kple xexemenunya ƒe nyahehe o, ke boŋ kple gbeƒãɖeɖe: <b>“Le gɔmedzedzea me, Mawu…”</b> Xexea menye dzɔdzɔ tatra aɖe ƒe nu o, ke boŋ Mawu ŋutɔ ƒe dɔwɔwɔ.</p><ul><li><b>Mawu ƒe nɔnɔme</b> · Le nuwɔwɔwo katã dome la, amegbetɔ koe wowɔ be wòaɖi Mawu — be wòanya eya, eye wòakpɔ xexea dzi.</li><li><b>Gbɔɖeme</b> · Ŋkeke adrelia ƒe gbɔɖeme fia be nu sia nu wu enu eye ŋutifafa (shalom) le edzi: “enyo.”</li><li><b>Eden</b> · Xexea hafi wòagbã, afi si Mawu kple amegbetɔ zɔna le ɖekae.</li></ul>",
+   "next": "Gake blibodede sia gbɔna gbãgbã ge…"
+  },
+  {
+   "tag": "NUBABLA XOXO · KUXIA DZE EGƆME",
+   "title": "Anyidzedzea",
+   "date": "Le gɔmedzedzea me",
+   "one": "Nuvɔ̃ ge ɖe eme, eye ka si nɔ amegbetɔ kple Mawu dome la tso.",
+   "people": "Adam kple Eva; da la (Satan)",
+   "events": "Atikutsetse si wode se ɖo la ɖuɖu, nyanya tso Eden, ku kple agbagbadzedze ƒe vava",
+   "q": "Made adika wò kple nyɔnua dome … Agbã ta na wò.",
+   "cite": "Mose I 3:15",
+   "christ": "Nyanyui la ƒe ŋugbedodo gbãtɔ, si wona le anyidzedzea megbe tututu: “nyɔnu la ƒe dzidzimevi” agbã da la ƒe ta — eye eya nye Yesu (Mose I 3:15; Romatɔwo 16:20; Galatiatɔwo 4:4).",
+   "detail": "<p>To “Mawu nɔnɔ” didi ƒe tomaɖomaɖo me la, nuvɔ̃ ge ɖe xexea me. Emetsonua menye se gbãgbã ɖeɖe ko o, ke boŋ <b>ƒomedodo gbãgbã</b>.</p><ul><li><b>Ka tsotso</b> · le Mawu (beɖoɖo), le ame nɔewo (fɔbubu), kple le dzɔdzɔme (ŋuwo kple agbagbadzedze) gbɔ.</li><li><b>Ku</b> · nuxlɔ̃ame si nye “àku godoo” va zu nyateƒe.</li><li><b>Mose I 3:15</b> · gake le ʋɔnudɔdrɔ̃ titina la, ɖeɖe ƒe ŋugbedodo va gbã. Nunyalawo yɔnɛ be <b>protoevangelium (nyanyui gbãtɔ)</b>.</li></ul>",
+   "next": "Azɔ Mawu yɔ ame ɖeka be wòadze ɖeɖe la gɔme…"
+  },
+  {
+   "tag": "NUBABLA XOXO · ŊUGBEDODO",
+   "title": "Fofowo",
+   "date": "Anɔ ƒe 2000 D.Y.",
+   "one": "Mawu do ŋugbe na Abraham be, “Àzu yayra ƒe mɔ.”",
+   "people": "Abraham · Isak · Yakob · Yosef",
+   "events": "Abraham ƒe nubabla, Isak ƒe b'labla, Yakob ƒe viŋutsu wuieve, Yosef do ɖe ŋgɔ le Egipte",
+   "q": "Mana dukɔ gã aɖe nado tso mewò … Mewò anyigba dzi ƒomeawo katã ato axɔ yayra.",
+   "cite": "Mose I 12:2-3",
+   "christ": "Ŋugbedodo be “dukɔwo katã axɔ yayra” va eme le Yesu, Abraham ƒe dzidzimevi la me (Galatiatɔwo 3:16).",
+   "detail": "<p>Mawu dze amegbetɔ ƒomea katã ƒe kuxia gbɔ kpɔkpɔ gɔme to ame ɖeka, <b>Abraham</b>, yɔyɔ me. Eƒe dzigbɔɖi nye <b>nubabla (ŋugbedodo)</b> — dukɔ gã, anyigba, kple “yayra na dukɔwo katã.”</p><ul><li><b>Xɔse</b> · Abraham xɔ ŋugbedodo si womekpɔna o dzi se, eye wobui nɛ be enye dzɔdzɔenyenye (Mose I 15:6).</li><li><b>Isak kple Yakob</b> · ŋugbedodoa yi edzi; Yakob (Israel) dzi to wuieveawo.</li><li><b>Yosef</b> · nɔviawo dzrae gake wodoe ɖe ŋgɔ — “Mawu trɔe wòzu nu nyui” (Mose I 50:20).</li></ul>",
+   "next": "Le Yosef yome la, ƒomea ɖi yi Egipte — eye wova zu kluviwo…"
+  },
+  {
+   "tag": "NUBABLA XOXO · ÐEÐE",
+   "title": "Gododo kple Gbedzi",
+   "date": "Anɔ ƒe 1446 D.Y.",
+   "one": "Mawu ɖe dukɔ si nye kluviwo, eye wòwɔ wo wonye eya ŋutɔ tɔ.",
+   "people": "Mose, Aron, Farao",
+   "events": "Dɔvɔ̃ ewoawo, Ŋutitotoŋkekenyui la, Ƒu Dzẽ la tsotso, Se Ewoawo le Sinai, agbadɔ la, ƒe 40 le gbedzi",
+   "q": "Mawɔ mi mianye nye ŋutɔ nye dukɔ, eye manye miaƒe Mawu.",
+   "cite": "Mose II 6:7",
+   "christ": "Ŋutitotoŋkekenyui la — afi si alẽvi ƒe ʋu na be ku trɔ ɖa — efia Yesu, “míaƒe Ŋutitotoŋkekenyui ƒe alẽvi,” si woklã ɖe ati ŋu ɖe mía ta (Korintotɔwo I, 5:7).",
+   "detail": "<p>Nubabla Xoxo ƒe ɖeɖe gãtɔ. Israel si nye kluviwo tsã la kpɔ ablɔɖe to Mawu ƒe ŋusẽ me, eye wòzu eƒe <b>dukɔ</b>.</p><ul><li><b>Ŋutitotoŋkekenyui</b> · aƒe si dzi alẽvi ƒe ʋu le la, ku to eŋu — kpɔɖeŋu na vɔsa siwo katã va emegbe.</li><li><b>Ƒu Dzẽ la</b> · ɖeɖe le afi si mɔ wu enu ɖo; “tsotso yi go” va zu gɔmedzedze yeye ƒe dzesi.</li><li><b>Sinai ƒe nubabla</b> · to Seawo me la, wosrɔ̃ ale si woanɔ agbe abe Mawu ƒe dukɔ ene.</li><li><b>Agbadɔ</b> · kɔkɔeƒe si woate ŋu aʋu, afi si Mawu le eƒe dukɔ dome — “Imanuel” ƒe ŋgɔdoɖa.</li><li><b>Ƒe 40</b> · tomaɖomaɖo na dzidzime aɖe tsa tsaglãla, gake Mawu nɔ wo gbɔ kple mana kple lilikpo kple dzosɔti.</li></ul>",
+   "next": "Esi wotsi tsitre ɖe ŋugbedodonyigba la to la, wodzra ɖo be yewoage ɖe eme…"
+  },
+  {
+   "tag": "NUBABLA XOXO · ANYINƆNƆ",
+   "title": "Anyigbaxɔxɔ kple Ɖelawo",
+   "date": "Anɔ ƒe 1400–1050 D.Y.",
+   "one": "Wokpɔ anyigba la, gake esi fia aɖeke menɔ anyi o ta la, ame sia ame wɔ nu si dze eŋu.",
+   "people": "Yosua; ɖela abe Gideon kple Samson ene; Rut",
+   "events": "Yeriko ƒe dzedze, anyinɔnɔ ɖe Kanaan, nuvɔ̃–ʋɔnudɔdrɔ̃–ɖeɖe ƒe tsatsalia",
+   "q": "Ɣe ma ɣi la, fia aɖeke menɔ Israel-dukɔ la si o. Ale ame sia ame wɔa nu sia nu si dze eŋu.",
+   "cite": "Ɖelawo 21:25",
+   "christ": "Tso Rut ƒe dzidzime me la, David do, eye tso David ƒe dzidzime me la, Yesu do (Mateo 1). Le tɔtɔ la titina gɔ̃ hã la, Mesia la ƒe ƒometiti yi edzi.",
+   "detail": "<p>Le Yosua te la, woge ɖe ŋugbedodonyigba la dzi, gake esi wonɔ anyi vɔ la, woŋlɔ Mawu be kaba. Ɖelawo ƒe Agbalẽ nye nɔnɔme ma ke ƒe tsatsa.</p><ul><li><b>Tsatsalia si yina anyime</b> · nuvɔ̃ → teteɖeanyi → ɣlidodo → ɖela aɖe ɖe wo → nuvɔ̃ ake. Eyina vɔ̃ɖivɔ̃ɖi ɖaa.</li><li><b>Ɖelawo</b> · Gideon, Samson, Debora — ɖela siwo nɔ anyi ɣeyiɣi kpui aɖe, kalẽtɔwo gake gbɔdzɔgbɔdzɔ nɔ wo ŋu vevie.</li><li><b>Rut</b> · nuteƒewɔwɔ ƒe ŋutinya keklẽ aɖe le ɣeyiɣi viviti me; nyɔnu dzra aɖe ge ɖe David (kple Yesu) ƒe dzidzime me.</li></ul>",
+   "next": "Dukɔ la do ɣli be, “Tsɔ fia aɖe na míawo hã!”…"
+  },
+  {
+   "tag": "NUBABLA XOXO · ŊKEKE NYUITƆWO",
+   "title": "Fiaɖuƒe Ðekawɔwɔ la",
+   "date": "Anɔ ƒe 1050–930 D.Y.",
+   "one": "Mawu do ŋugbe na David be, “Wò fiazikpui anɔ anyi tegbee.”",
+   "people": "Saul · David · Salomo",
+   "events": "Fia gbãtɔ Saul, David kple Goliat, David ƒe nubabla, Salomo tu gbedoxɔ la",
+   "q": "Wò dzidzimeviwo anɔ anyi ɖaa, eye wò fiaɖuɖu nu matso akpɔ o. Wò dzidzimeviwo koe anɔ wò zi dzi tegbee.",
+   "cite": "Samuel II 7:16",
+   "christ": "“Fiazikpui mavɔ” la va eme le Yesu, David ƒe vi la me — eyae na woyɔnɛ be “David ƒe Vi” (Luka 1:32-33; Mateo 1:1).",
+   "detail": "<p>Israel ƒe kɔkɔƒe la, fia etɔ̃ ɖu fia ɖe edzi.</p><ul><li><b>Saul</b> · fia si dukɔ la bia; gɔmedzedze nyui si tomaɖomaɖo gblẽ.</li><li><b>David</b> · “ame si le Mawu ƒe dzi ŋu.” Eɖu Goliat dzi, eye wòwɔ Yerusalem fiadu. Ewɔ nuvɔ̃ gã (Batseba) gake etrɔ dzime tso eƒe dzi me (Psalmo 51).</li><li><b>David ƒe nubabla (Samuel II 7)</b> · Mawu do ŋugbe be yeaɖo David ƒe fiaƒome anyi tegbee — Mesia ƒe mɔkpɔkpɔ ƒe ke vevitɔ.</li><li><b>Salomo</b> · le nunya kple kesinɔnu ƒe kɔkɔƒe la, etu <b>gbedoxɔ</b> la, gake le eƒe agbe ƒe nuwuwu la, etrɔ ɖe trɔ̃wo ŋu.</li></ul>",
+   "next": "Le Salomo megbe la, fiaɖuƒea ma ɖe eve…"
+  },
+  {
+   "tag": "NUBABLA XOXO · DZEDZE",
+   "title": "Fiaɖuƒe Mama la",
+   "date": "930–586 D.Y.",
+   "one": "Ema ɖe dziehe (Yuda) kple anyiehe (Israel), eye dukɔ la zɔ yi gbegblẽ me.",
+   "people": "Fiaɖuƒe eveawo ƒe fiawo; nyagblɔɖila abe Eliya, Yesaya, Yeremya ene",
+   "events": "Fiaɖuƒea ma, trɔ̃subɔsubɔ keke ta, nyagblɔɖilawo xlɔ̃ nu",
+   "q": "Tso ema dzi la, Israel-fiaɖuƒea ƒe dzigbemetɔwo dze aglã heɖe wo ɖokui ɖa le David ƒe ƒome la ƒe ŋusẽ te gbidii va se ɖe egbe.",
+   "cite": "Fiawo I 12:19",
+   "christ": "Le ɣeyiɣi sia me la, nyagblɔɖilawo gblɔ Mesia si gbɔna la ŋu nya kɔtɛe ɖe edzi (Yesaya 9:6; Yesaya 53).",
+   "detail": "<p>Le Salomo ƒe vi ƒe ŋkekewo me la, dukɔ la ma: <b>anyiehe fiaɖuƒe Israel</b> (to ewo, fiadu Samaria) kple <b>dziehe fiaɖuƒe Yuda</b> (to eve, fiadu Yerusalem).</p><ul><li><b>Israel (anyiehe)</b> · fia ɖe sia ɖe subɔ trɔ̃wo; edze le Asiria ƒe asi me le ƒe 722 D.Y.</li><li><b>Yuda (dziehe)</b> · David ƒe dzidzime yi edzi, kple fia nyui ʋɛ aɖewo abe Hezekia kple Yosia ene, gake le blibo me la, edze.</li><li><b>Nyagblɔɖilawo</b> · Eliya, Amos, Yesaya, Yeremya do ɣli be “mitrɔ gbɔ!” Mesia ƒe nyagblɔɖi de kɔkɔƒe gãtɔ le afi sia (Yesaya 53 ƒe “fukpela dɔla”).</li></ul>",
+   "next": "Mlɔeba la, ʋɔnudɔdrɔ̃ si ŋu woxlɔ̃ nu la va — wokplɔ wo yi aboyo me…"
+  },
+  {
+   "tag": "NUBABLA XOXO · ʋƆNUDƆDRƆ̃",
+   "title": "Aboyomenɔnɔ la",
+   "date": "722 / 586 D.Y.",
+   "one": "Dukɔ la mu, eye wokplɔ amewo yi anyigba bubuwo dzi.",
+   "people": "Daniel, Hesekiel, Nebukadnezar",
+   "events": "Israel dze le Asiria ƒe asi me (722), Yuda dze le Babilon ƒe asi me eye wogbã gbedoxɔ la (586)",
+   "q": "Le Babilon-tɔsisiwo nu, gamae míebɔbɔ nɔ anyi ɖo, fa avi, esime míeɖo ŋku Zion dzi.",
+   "cite": "Psalmowo 137:1",
+   "christ": "Le mɔkpɔkpɔbubu ƒe gogloƒe ke la, Yeremya do “nubabla yeye” ƒe ŋugbe (Yeremya 31:31) — nubabla si Yesu tre nu ɖo le Fiẽnuɖuɖu Mamlɛtɔ la me.",
+   "detail": "<p>Nuxlɔ̃ameawo va eme. Gbedoxɔ la bi eye wokplɔ dukɔ la yi Babilon — anyigba, fia, kple gbedoxɔ la bubu: nu si nye gbɔdzɔƒe wu.</p><ul><li><b>Dzedze eve</b> · Israel (Asiria, 722 D.Y.) kple Yuda (Babilon, 586 D.Y.).</li><li><b>Daniel</b> · xɔse ƒe kpɔɖeŋu le trɔ̃subɔla ƒe fiasã me gɔ̃ hã (dzatawo ƒe do); ekpɔ “fiaɖuƒe mavɔ” si gbɔna la ƒe ŋutega.</li><li><b>Mɔkpɔkpɔ ƒe dzosi</b> · Hesekiel ƒe ŋutega tso ƒu ƒuƒuwo si gava le agbe (Hesekiel 37) kple Yeremya ƒe “nubabla yeye” fia etsɔme le viviti me.</li></ul>",
+   "next": "Le ƒe blaadre megbe la, Mawu ʋu mɔ — wotrɔ yi aƒeme…"
+  },
+  {
+   "tag": "NUBABLA XOXO · ɖƆɖƆ ÐE EME",
+   "title": "Tɔtrɔgbɔ la",
+   "date": "538–430 D.Y.",
+   "one": "Wotrɔ gbɔ eye wogbugbɔ tu gbedoxɔ la kple gliawo.",
+   "people": "Ezra, Nexemya, Ester, Zerubabel",
+   "events": "Tɔtrɔgbɔ to Sirus ƒe sededea me, gbedoxɔ gbugbɔtutu, Yerusalem gliawo ɖoɖoɖi, Nya la xɔxɔ ake",
+   "q": "Dzidzɔkpɔkpɔ ɖe Aƒetɔ ŋu nye míaƒe ŋusẽ.",
+   "cite": "Nexemya ƒe Agbalẽ 8:10",
+   "christ": "Maleaxi, Nubabla Xoxo ƒe agbalẽ mamlɛtɔ, wu nu kple dɔla aɖe ŋugbe si adzra Mesia ƒe mɔ ɖo gbɔgblɔ: “Mele nye dɔla dɔ ge ɖa” (Maleaxi 3:1).",
+   "detail": "<p>To Persia-fia Sirus ƒe sededea me (538 D.Y.) la, tɔtrɔgbɔ la dze egɔme. Le ʋuʋu etɔ̃ me la, wotrɔ gbɔ eye wogbugbɔ tu nu siwo gbã.</p><ul><li><b>Zerubabel</b> · gbugbɔ tu gbedoxɔ la (wowu enu le 516 D.Y.).</li><li><b>Ezra</b> · gbugbɔ fia Nya la eye wògbɔ agbe na xɔse la.</li><li><b>Nexemya</b> · gbugbɔ tu Yerusalem gliawo le ŋkeke 52 me.</li><li><b>Ester</b> · ɖe Yudatɔ siwo le Persia tso tsɔtsrɔ̃ me — “ɖe ɣeyiɣi sia tɔgbi ŋuti.”</li><li><b>Didi si gakpɔtɔ</b> · gbedoxɔ la le tsitre, gake fia abe David ene meli o. Dukɔ la le Mesia lalam.</li></ul>",
+   "next": "Eye emegbe… abe ale si dziƒo zi ɖoɖoe ene la, ƒe 400 va yi."
+  },
+  {
+   "tag": "NUBABLA EVEAWO DOME · DZRAƉOƉO",
+   "title": "Ƒe Ðoɖoeziwo la",
+   "date": "Anɔ ƒe 430–4 D.Y.",
+   "one": "Ƒe 400 nyagblɔɖila ƒe gbe manɔmanɔ — gake wonɔ dzra ɖo wɔm le bebeme.",
+   "people": "Aleksandro Gã la, Makabeotɔwo, Roma",
+   "events": "Persia → Hela → Makabeotɔwo ƒe ablɔɖe → Roma ƒe dziɖuɖu",
+   "q": "Ke esi ɣeyiɣia de la, Mawu ɖo Via ɖa. Nyɔnue dzii le se la te.",
+   "cite": "Galatiatɔwo 4:4",
+   "christ": "“Dzraɖoɖo” sia katã nye Mawu ƒe dɔwɔwɔ ale be Yesu nava le “ɣeyiɣi si de” pɛpɛpɛ.",
+   "detail": "<p>Tso Maleaxi va se ɖe Nubabla Yeye la, anɔ ƒe 400 va yi mawunya yeye aɖeke manɔmanɔ me. Gake le ŋutinya megbe la, Mawu nɔ mɔ dzram ɖo na nyanyui la.</p><ul><li><b>Fiaɖuƒewo trɔ asi</b> · Persia → Hela (Aleksandro, 333 D.Y.) → Ptolemeotɔwo kple Seleukotɔwo → Makabeotɔwo ƒe aglãdzedze (167 D.Y.) → Roma (63 D.Y.).</li><li><b>Helagbe</b> · Aleksandro ƒe anyigbaxɔxɔ na Helagbe va zu gbe si amewo katã doa; wogɔlɔ̃ Nubabla Xoxo ɖe Helagbe me (Septuaginta), eye esia ʋu mɔ be nyanyui la nakeke ta kaba.</li><li><b>Roma ƒe mɔwo kple ŋutifafa</b> · mɔ nyuiwo kple “Roma ƒe ŋutifafa” va zu mɔ na dɔgbedeasi la.</li><li><b>Ƒuƒoƒewo kple hatsotsowo</b> · ƒuƒoƒe ƒe nufiafia ɖo to; Farisitɔwo kple Zadukitɔwo do; eye <b>Mesia didi</b> tsi.</li></ul>",
+   "next": "Eye emegbe, ɖoɖoezizia gbã — mlɔeba la, eva."
+  },
+  {
+   "tag": "NUBABLA YEYE · DEDEBLIBO",
+   "title": "Yesu ƒe Vava",
+   "date": "Anɔ ƒe 4 D.Y.–Ŋ.Ƒ. 30",
+   "one": "Mesia si ŋugbe wodo la va, ku, eye wògagbɔ agbe.",
+   "people": "Yesu, nusrɔ̃la wuieveawo, Yohanes Mawutsidetanamela",
+   "events": "Ŋutilãdoname, eƒe subɔsubɔdɔ kple nufiafia kple nukunuwɔwɔ, ku le ati ŋu, tsitretsitsi le ŋkeke etɔ̃lia gbe",
+   "q": "Nya la va zu amegbetɔ henɔ mía dome … amenuvenu kple nyateƒe yɔe taŋ.",
+   "cite": "Yohanes 1:14",
+   "christ": "Nyɔnu la ƒe dzidzimevi (nudzɔdzɔ 2), Abraham ƒe yayra (3), Ŋutitotoŋkekenyui ƒe alẽvi (4), David ƒe fia mavɔ (6), nubabla yeye (8) — wo katã va eme le ame ɖeka, Yesu me: míaƒe Nyagblɔɖila, Nunɔla, kple Fia vavãtɔ.",
+   "detail": "<p>Ðoɖoezizia gbã; ame si ŋugbe wodo la va. Nyanyui eneawo ɖi ɖase tso Yesu ƒe agbe, ku, kple tsitretsitsi ŋu tso mo ene me.</p><ul><li><b>Ŋutilãdoname</b> · Mawu zu amegbetɔ (Imanuel, “Mawu li kpli mí”), le Betlehem ƒe ɖokuibɔbɔ me.</li><li><b>Subɔsubɔdɔ</b> · efia Mawu ƒe fiaɖuƒe, eda dɔnɔwo gbɔ, eye wòyɔ nuvɔ̃wɔlawo. “Ame si kpɔm la, ekpɔ Fofo la.”</li><li><b>Ati la</b> · exe nuvɔ̃ kple ku si anyidzedzea (nudzɔdzɔ 2) he vɛ la ƒe fe. Ŋutitotoŋkekenyui ƒe alẽvi vavãtɔ.</li><li><b>Tsitretsitsi</b> · esi wògbɔ agbe le ŋkeke etɔ̃lia gbe la, egbã nuvɔ̃, ku, kple Satan ƒe ŋusẽ — le ati la ŋu xoxo gɔ̃ hã wò “xɔ ŋusẽ le gbɔgbɔmeŋusẽwo … si, do ŋukpe wo” (Kolosetɔwo 2:15).</li></ul><p>Eya ta Yesue nye míaƒe <b>Nyagblɔɖila vavãtɔ</b> (efiaa mɔ si yi Mawu gbɔ), míaƒe <b>Nunɔla vavãtɔ</b> (etsɔ eya ŋutɔ ƒe ŋutilã le avuléle wɔm ɖe nuvɔ̃ ŋu), kple míaƒe <b>Fia vavãtɔ</b> (eɖu nuvɔ̃, ku, kple Satan dzi, eye wòɖu fia tegbee).</p>",
+   "next": "Yesu si gbɔ agbe la dɔ eƒe nusrɔ̃lawo ɖe xexea me…"
+  },
+  {
+   "tag": "NUBABLA YEYE · KEKEÐEENU",
+   "title": "Hame la Dze Egɔme",
+   "date": "Anɔ ƒe Ŋ.Ƒ. 30–",
+   "one": "Gbɔgbɔ la va, eye nyanyui la keke ta yina anyigba ƒe seƒewo.",
+   "people": "Petro, Paulo, hame gbãtɔ la",
+   "events": "Gbɔgbɔ la ƒe kɔkɔ ɖe amewo dzi le Pentekoste, hame la dzɔ, nyanyui la keke tso Yerusalem va se ɖe Roma to yometiti me",
+   "q": "Ke ne Gbɔgbɔ Kɔkɔe la va mia dzi la, miaxɔ ŋusẽ … va se ɖe xexeme ƒe seƒe ke.",
+   "cite": "Amedɔdɔawo ƒe Dɔwɔwɔwo 1:8",
+   "christ": "Ŋutinya sia gakpɔtɔ le edzi yim. Biblia wu nu kple ŋugbedodo be Yesu agatrɔ ava eye wòawɔ nuwo katã yeyee (Nyaɖeɖefia 21).",
+   "detail": "<p>Le Yesu ƒe ɖoɖomedzi megbe la, Gbɔgbɔ si ŋugbe wodo la va le Pentekoste eye hame la dzɔ. Nyanyui la keke ta vevie.</p><ul><li><b>Pentekoste</b> · Gbɔgbɔ la trɔ nusrɔ̃la vɔvɔ̃tɔwo wozu ɖasefo dzideƒotɔwo.</li><li><b>Petro</b> · gblɔ nyanyui la na Yudatɔwo le Yerusalem.</li><li><b>Paulo</b> · tso yometila zu apostolo, ɖo hamewo anyi le ame siwo menye Yudatɔwo o ƒe xexea me eye wòŋlɔ agbalẽawo.</li><li><b>Va se ɖe anyigba ƒe seƒewo</b> · Yerusalem → Yudea → Samaria → Roma. Ŋugbedodo si wowɔ na Abraham tso “dukɔwo katã” ŋu va eme.</li><li><b>Kpakple míawo</b> · ŋutinya la mewu nu o; eyina ŋgɔ ɖe Yesu ƒe vavava kple dziƒo yeye kple anyigba yeye gbɔ.</li></ul>",
+   "next": "Gake ŋutinya la mewu nu ɖe afi sia o…"
+  },
+  {
+   "tag": "NUBABLA YEYE · NUWUWU",
+   "title": "Gbugbɔɖoɖoanyi",
+   "date": "Megava o haɖe",
+   "one": "Yesu agatrɔ ava eye wòawɔ nuwo katã yeyee.",
+   "people": "Yesu si gbɔna; dukɔwo katã",
+   "events": "Vavava evelia, ʋɔnudɔdrɔ̃ mamlɛtɔ, nuvɔ̃·ku·aɖatsi ƒe nuwuwu, dziƒo yeye kple anyigba yeye",
+   "q": "Atutu aɖatsi ɖe sia ɖe ɖa … Ku maganɔ anyi o. Nenema ke nuxaxa, avifafa kple vevesese hã maganɔ anyi o.",
+   "cite": "Nyaɖeɖefia 21:4",
+   "christ": "Nuwɔwɔ gbãtɔ ƒe Eden la gava eme mlɔeba abe “Yerusalem Yeye” ene. Mawu nɔ eƒe dukɔ dome tegbee — Imanuel ƒe blibodede (Nyaɖeɖefia 21:3; Mateo 1:23).",
+   "detail": "<p>Biblia mewu nu kple hame ƒe ɣeyiɣia o. Eƒe agbalẽ mamlɛtɔ, Nyaɖeɖefia, fia Yesu si <b>gatrɔ ava</b> be yeawu nuwo katã nu.</p><ul><li><b>Vavava evelia</b> · fia si ŋugbe wodo la gatrɔ ava le ŋutikɔkɔe me.</li><li><b>Dziɖuɖu mamlɛtɔ</b> · woɖu Satan kple ku dzi tegbee, eye Kristo ɖu fia abe fiawo ƒe Fia ene (Korintotɔwo I, 15:25-26; Nyaɖeɖefia 20:10).</li><li><b>Ʋɔnudɔdrɔ̃ kple tsitretsitsi</b> · woɖɔ nu gbegblẽ ɖe sia ɖe ɖo, eye ame kukuwo gbɔna agbe.</li><li><b>Dziƒo yeye kple anyigba yeye</b> · nuvɔ̃, ku, aɖatsi, kple vevesese nu va yi tegbee (Nyaɖeɖefia 21:4).</li><li><b>Eden si wogagbugbɔ ɖo anyi</b> · le “Yerusalem Yeye” si nyo wu gɔmedzedzea me la, Mawu nɔ eƒe dukɔ dome tegbee — afi si Biblia bliboa le mɔ zɔm ɖo.</li></ul><p>Eya ta fifia nye ɣeyiɣi si nye <b>“xoxo, gake mehaɖe o”</b>: le Yesu me la, ɖeɖe la <b>xoxo</b> wu enu, gake woagakpɔtɔ le eƒe blibodede <b>lalam</b>.</p>",
+   "next": "Ekema nu kae ŋutinya bliboa sia fia na “nye”?"
+  }
+ ],
+ "core": [
+  {
+   "title": "Nuvɔ̃ tsoaƒe — ame dzɔdzɔe aɖeke meli o",
+   "body": "Kuxia menye “nuwɔna vɔ̃ ʋɛ aɖewo” o, ke boŋ dzi ƒe ke. Tso Adam dzi la, wodzia ame sia ame ɖe nuvɔ̃ te, eye womate ŋu aɖo Mawu gbɔ le wo ɖokui si o.",
+   "vref": "Romatɔwo 3:10-12, 23",
+   "vtext": "Ame aɖeke meli, si le dzɔdzɔe o. Ao, ɖeka pɛ hã meli o. … Elabe ame sia ame wɔ nuvɔ̃, eye mete va Mawu ƒe ŋutikɔkɔe la gbɔ kura o."
+  },
+  {
+   "title": "Se la mate ŋu aɖem o",
+   "body": "Se la menye atrakpui o, ke boŋ ahuhɔ̃e. Zi ale si nèdze agbagba la, nenema kee wòfiaa ale si nèdo kpoe. Eƒe taɖodzinue nye be wòakplɔ mí ayi Kristo gbɔe.",
+   "vref": "Romatɔwo 3:20 · Galatiatɔwo 3:24",
+   "vtext": "Se la ɖeko wònana míedzea sii be nuvɔ̃ li boŋ. … Ale se la nɔ mía kplɔm va se ɖe esime Kristo va."
+  },
+  {
+   "title": "To amenuveve me — nunana, menye agbagbadzedze o",
+   "body": "Ðeɖe menye fe si woxe ɖe dɔ si nèwɔ ta o, ke boŋ nunana faa na ame siwo medze na o. Eya ta ame aɖeke mate ŋu aƒo adegbe o.",
+   "vref": "Efesotɔwo 2:8-9",
+   "vtext": "Eve mia nu heɖe mi, esi miexɔ edzi se la ta. … ne wòava tsɔe aƒo adegbee o."
+  },
+  {
+   "title": "Woabu mí ame dzɔdzɔewoe to xɔse me",
+   "body": "Menye to se la dzi wɔwɔ me o, ke boŋ to xɔse ɖe Yesu Kristo dzi me, wobua mí ame dzɔdzɔewoe — wodo eya tɔ dzɔdzɔenyenye na mí, menye mía ŋutɔ tɔ o.",
+   "vref": "Romatɔwo 5:1 · Galatiatɔwo 2:16",
+   "vtext": "Azɔ esi Mawu bu mí be míele dzɔdzɔe to xɔse me vɔ la, ŋutifafa le mía kple Mawu dome. … menye ame si le sea dzi wɔm lae woabu be ele dzɔdzɔe o, ke boŋ ame si xɔ Kristo Yesu dzi se lae."
+  },
+  {
+   "title": "Biblia fia Yesu",
+   "body": "Biblia menye amegã xɔŋkɔwo ŋuti agbalẽ alo ɖokuikpekpeɖeŋu ƒe agbalẽ o. Tso Mose I va se ɖe Nyaɖeɖefia, axa ɖe sia ɖe ɖia ɖase tso ame ɖeka — Yesu Kristo ŋu.",
+   "vref": "Yohanes 5:39 · Luka 24:27",
+   "vtext": "Mawunyagbalẽawoe le ɖase ɖim le ŋutinye. … Tete Yesu ɖe nu siwo ku ɖe eyama ŋu le mawunyawo katã me la me na wo."
+  },
+  {
+   "title": "Mawu ƒe fiaɖuƒe — Yesu ƒe gbedeasi ƒe ke",
+   "body": "Nya si Yesu fia wu. Mawu ƒe fiaɖuɖu abe fia ene ge ɖe xexe sia me kple Yesu eye woawu enu ne wògatrɔ va. To eƒe ati kple tsitretsitsi me la, Yesue nye Fia vavãtɔ si ɖu nuvɔ̃, ku, kple Satan dzi.",
+   "vref": "Marko 1:15",
+   "vtext": "Ɣeyiɣi la ɖo edzi, Mawu ƒe fiaɖuɖu la tu aƒe. Mitrɔ dzime, eye mixɔ Nyanyui la dzi se."
+  },
+  {
+   "title": "Nyanyui la — ewu enu katã",
+   "body": "Nuvɔ̃ ƒe fe si nyemate ŋu axe akpɔ o la, Yesu xee ɖe tenyeƒe le ati la ŋu, eye to tsitretsitsi me la, eɖu ku dzi. Nyemeziɔ ɖe “wɔ esia” dzi o, ke boŋ ɖe “wowu enu” dzi.",
+   "vref": "Yohanes 19:30 · Romatɔwo 5:8",
+   "vtext": "“Wowu enu azɔ!” … esime míeganye nuvɔ̃wɔlawo la, Kristo ku ɖe mía ta."
+  }
+ ],
+ "mis": [
+  {
+   "w": "“Nu ka tae Mawu wɔ amewo siwo ate ŋu awɔ nuvɔ̃? Ðe manyo wu be mègawɔ mí kura oa?”",
+   "t": "Mawu wɔ xexea kple amewo menye ɖe naneke ƒe hiãhiã ta o, ke boŋ ɖe lɔlɔ̃ si gbã go ta. Be wòawɔ amegbetɔwo <b>amesiwo dona ɖe ka me kple Mawu</b> la eya ŋutɔ nye lɔlɔ̃. Eye nuvɔ̃ gɔ̃ ƒe gegeɖe eme la menɔ Mawu ƒe ɖeɖeɖoɖo godo o (Efesotɔwo 1:4-5). Biblia ƒe nudzɔdzɔ gbãtɔ menye ʋɔnudɔdrɔ̃ o, ke boŋ lɔlɔ̃."
+  },
+  {
+   "w": "“Atikutsetse ɖeka ɖuɖu ko ta woanya ame ɖa eye woana ku — ɖe Mawu mesesẽ akpa oa?”",
+   "t": "Nyanya tso Eden la nye ʋɔnudɔdrɔ̃ kple nublanuikpɔkpɔ siaa. Be ame naɖu agbeti la ƒe tsetse ahanɔ agbe tegbee le nɔnɔme gbãgbã ma me, si me wòtso ɖa le Mawu gbɔ la, anye be wòaɖo gaxɔ me le fukpekpe me tegbee (Mose I 3:22). Be woɖe mɔ na ku la ʋu mɔ na tɔtrɔgbɔ, eye le afi ma tututu la, Mawu do ŋugbe na Ðela aɖe (Mose I 3:15). Lɔlɔ̃ nɔ ʋɔnudɔdrɔ̃ la me xoxo."
+  },
+  {
+   "w": "“Wotia Abraham elabe eƒe xɔse lolo — ɖe Biblia me ŋutsuwo katã menye agbenyuinɔnɔ ƒe kalẽtɔwo oa?”",
+   "t": "Abraham da alakpa eye wòke ɖi; Yakob nye ameflula. Mawu meyɔ ame “dzedziwo” o, ke boŋ ame gbɔdzɔgbɔdzɔwo, to amenuveve me. Susu lae menye woƒe nyuinyenye o, ke boŋ Mawu ƒe lɔlɔ̃ nuteƒewɔla (Mose V 7:7-8)."
+  },
+  {
+   "w": "“Ðe se la (Seawo) menye dodokpɔ aɖe si dze be nàto hafi nàkpɔ ɖeɖe oa?”",
+   "t": "Mawu ɖe wo <b>hafi</b> tsɔ se la na wo. Se Ewoawo gɔ̃ hã dze egɔme kple ɖeɖe ƒe gbeƒãɖeɖe: “Nyee nye Aƒetɔ, wò Mawu, si kplɔ wò dzoe le Egipte-nyigba dzi” (Mose II 20:2). Se la menye “lée me hafi nàkpɔ ɖeɖe” o, ke boŋ lɔlɔ̃ ƒe mɔfiame tso ale si dukɔ si wòɖe xoxo la anɔ agbe ŋu (Mose V 7:7-9). Amenuveve va gbã ɣesiaɣi; toɖoɖo nye ŋuɖoɖo la."
+  },
+  {
+   "w": "“Kanaan xɔxɔ nye amewuwu masɔmasɔ — eya ta Nubabla Xoxo ƒe Mawu nye ŋutasẽla vavãtɔ.”",
+   "t": "Esia nye nya sesẽ aɖe si womate ŋu akpɔ gbɔ le nyagbɔgblɔ ɖeka me o. Gake Biblia metsɔe fia abe ŋutasesẽ dzodzro ene o, ke boŋ abe ʋɔnudɔdrɔ̃ le ƒe alafa geɖe ƒe dzigbɔɖi ɖe vɔ̃ɖinyenye gãtɔ (ɖevitsɔsasa hã le eme) ŋu megbe ene (Mose I 15:16; Mose V 9:4-5; Mose III 18:24-25). Mawu metsɔa ɖe me le ʋɔnudɔdrɔ̃ gɔ̃ hã me o, eye wòxɔa ame siwo trɔ ɖe eŋu kple dzidzɔ — amedzrowo abe Raxab kple Rut ene gɔ̃ hã (Yosua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“David nye kalẽtɔ si ŋu kpɔtsɔtsɔ aɖeke meli ɖo o — eyae na woyɔe be ‘ame si le Mawu ƒe dzi ŋu.’”",
+   "t": "David wɔ ahasi eye wòwu ame gɔ̃ hã. “Ame si le Mawu ƒe dzi ŋu” mefia ame si ŋu kpɔtsɔtsɔ aɖeke meli ɖo o, ke boŋ ame si meɣla eƒe nuvɔ̃ o — ame si trɔ dzime nyuie eye wòtrɔ gbɔ na Mawu enuenu (Psalmo 51). Mawu ƒe lɔlɔ̃ metsɔa ame siwo dze anyi sesĩe gɔ̃ hã ƒua gbe o."
+  },
+  {
+   "w": "“Nyagblɔɖilawo nye bokɔnɔwo siwo gblɔa etsɔme ŋu nya / Nubabla Xoxo ƒe Mawu nye dɔmedzoe ko.”",
+   "t": "Nyagblɔɖila ƒe dzi mele “etsɔme gbɔgblɔ” me o, ke boŋ Mawu ƒe kukuɖeɖe vevi: “Meɖe kuku, trɔ gbɔ.” Ʋɔnudɔdrɔ̃ ƒe nuxlɔ̃ame gɔ̃ hã medi be yeagblẽ ame o, ke boŋ be wòatrɔ ame gbɔ ahaɖee — “nyemekpɔa dzidzɔ le ame vɔ̃ɖi ƒe ku ŋu o” (Hesekiel 33:11)."
+  },
+  {
+   "w": "“Aboyomenɔnɔ la ɖo kpe edzi be Mawu gblẽ Israel ɖi keŋkeŋ.”",
+   "t": "Aboyomenɔnɔ la menye ɖigbɔgblẽ o, ke boŋ hehe kple kɔ ɖe vi lɔlɔ̃a ŋu (Hebritɔwo 12:6). Mawu medzo o; enɔ Daniel gbɔ le aboyo la ƒe titina eye wòdo ŋugbe be, “Menya ɖoɖo si mewɔ ɖe mia ŋu. Nunyoname ƒe ɖoɖoe, ke menye vɔ̃ o, mɔkpɔkpɔ li na mi le etsɔ me” (Yeremya 29:11)."
+  },
+  null,
+  {
+   "w": "“Esi nya aɖeke menɔ anyi o ƒe 400 sɔŋ ta la, Mawu dzo alo wònɔ gbɔɖem.”",
+   "t": "Ðoɖoezizi menye manɔmanɔ o. Meƒo nu ko o, le ɣeyiɣi ma katã me la, enɔ fiaɖuƒewo, gbegbɔgblɔwo, kple mɔwo ʋãm be wòadzra ɖeɖe ƒe teƒe ɖo. Le ɣeyiɣi si me ɖoɖoezizi nɔ anyi wu la, Mawu nɔ dɔ wɔm sesĩe wu, le lɔlɔ̃ me (Galatiatɔwo 4:4)."
+  },
+  {
+   "w": "“Yesu nye agbenyuifiala nyui ɖeka pɛ ko / ati la nye dziɖuɖumadzedze ƒe nublanuinya.”",
+   "t": "Yesu gblɔ be yenye Mawu ŋutɔ (Yohanes 8:58), eye ati la menye dzɔdzɔ tatra alo dziɖuɖumadzedze o, ke boŋ lɔlɔ̃ si woɖo ɖi. Womehee yi afi ma sesẽtɔe o; etsɔ eya ŋutɔ ƒe agbe ɖi anyi (Yohanes 10:18). “Lɔlɔ̃ deto meli wu be ame natsɔ eƒe agbe ake ɖe xɔlɔ̃a ta o” (Yohanes 15:13)."
+  },
+  {
+   "w": "“Hame la nye amedzɔdzɔewo ƒe habɔbɔ, alo xɔ aɖe ko.”",
+   "t": "Hame la menye “amekɔkɔe deblibowo” ƒe hadede o, ke boŋ <b>nuvɔ̃wɔla siwo wotsɔ ke</b> tɔ. Apostolo Paulo gɔ̃ hã yɔ eɖokui be “nuvɔ̃wɔla vɔ̃ɖitɔ wu ame sia ame” (Timoteo I 1:15). Hame gbãtɔ la hã ʋli nya eye wòkli nu (Apostoloawo 6:1; Korintotɔwo I, 1:11). Menye teƒe si woaƒo adegbe le o, ke boŋ amesiwo le lɔlɔ̃ si woxɔ la tsɔm yina ŋgɔ (Yohanes 13:34-35)."
+  },
+  null
+ ],
+ "love": [
+  "Ŋutinya la medze egɔme kple ʋɔnudɔdrɔ̃ o, ke boŋ kple nuwɔwɔ si wokɔ ɖe edzi le lɔlɔ̃ me.",
+  "Esi amewo wɔ nuvɔ̃ ko la, Mawu do ɖeɖe ƒe ŋugbe le afi ma tututu.",
+  "Mawu va ame si medze o gbɔ gbã, yɔe kple eƒe ŋkɔ, eye wòwɔe wòzu yayra ƒe mɔ.",
+  "Ese dukɔ si nye kluviwo ƒe hũɖeɖe eye wòɖi va be yeaɖe wo eya ŋutɔ.",
+  "Togbɔ be wode wo asi enuenu hã la, ɣesiaɣi si wodo ɣli la, eɖo ɖela ɖe wo eye wòfɔ wo ɖe tsitre.",
+  "Mefɔ David si dze anyi gɔ̃ hã ƒu gbe o; eye to eya dzi la, edo Fia mavɔ aɖe ƒe ŋugbe.",
+  "Eɖo nyagblɔɖilawo ɖe dukɔ si trɔ megbe dee la enuenu, hele kuku ɖem be, “Meɖe kuku, trɔ gbɔ.”",
+  "Eɖi va se ɖe aboyo ƒe anyigba si me viviti nɔ wu la gɔ̃ hã kpli wo, eye wòdo ɖoɖoɖi ƒe ŋugbe.",
+  "Dukɔ si dze anyi enuenu gɔ̃ hã la, mexɔ eƒe ŋugbedodo le wo si o.",
+  "Le ɖoɖoezizi ƒe ƒe 400 me gɔ̃ hã la, le bebeme la, enɔ ɖeɖe ƒe mɔ dzram ɖo.",
+  "Esi míeganye nuvɔ̃wɔlawo la, eɖo Via ɖa be wòatsɔ eya ŋutɔ ƒe agbe aɖi anyi.",
+  "Lɔlɔ̃ si míexɔ la, fifia eɖoe ɖa be wòakɔ ayi xexea katã me.",
+  "Mlɔeba la, atutu aɖatsi ɖe sia ɖe ɖa eye wòagagbugbɔ nuwo katã aɖo te le lɔlɔ̃ me."
+ ],
+ "s": {
+  "ui.share": "↗ Mae",
+  "ui.toast": "Wokɔ kadodo la 📋",
+  "ui.footer": "Biblia le Agbalẽ Mlɔ Ɖeka me · Mawunya tsɔtsɔ tso EƲEGBE BIBLIA me",
+  "hero.kicker": "TSO NUWƆWƆ VA ÐO HAME",
+  "hero.title": "Biblia,<br><span class=\"em\">le agbalẽ mlɔ ɖeka me</span>",
+  "hero.sub": "Le ŋkuvɛvɛ ɖeka me, ke nàkpɔ Biblia ƒe ŋutinya gã la — kple nu si ta Yesu va.",
+  "hero.cue": "Tsɔ ɖe anyime<span>↓</span>",
+  "thread.eyebrow": "NYAGBƆGBLƆ ƉEKA SI BLA NU SIA NU NU ƉEKAE",
+  "thread.h2": "Le nuwuwu la, Biblia nye ŋutinya ɖeka pɛ",
+  "thread.flow": "<b>Ŋugbedodo</b><span class=\"arw\">→</span><b>Lalanɔnɔ</b><span class=\"arw\">→</span><b>Vavaeme</b>",
+  "thread.note": "Mawu <b>doa ŋugbe</b> (nubabla), amewo <b>lalana</b> ɣeyiɣi didi aɖe, eye mlɔeba la, nu sia nu <b>va eme</b> eye wòwu enu le Yesu me. Dze nudzɔdzɔ 13 siwo le ete la yome le tsatsa ma me — tɔ <b>“Xlẽ geɖe”</b> ɖe kart ɖe sia ɖe dzi hena ŋutinya si goglo wu.",
+  "gospel.eyebrow": "NU SI ŊUTINYA SIA FIA NA “NYE”",
+  "gospel.h2": "Biblia ƒe dzigbɔɖi vavãtɔ",
+  "gospel.lead": "Biblia <b>menye nufiagbalẽ tso “amenyuinyenye” ŋu o.</b>",
+  "gospel.sublead": "Enye ŋutinya tso ale si Mawu, <b>to amenuveve ɖeɖe ko me</b>, ɖe nuvɔ̃wɔla siwo mate ŋu aɖe wo ɖokui gbeɖe o ŋu. Yesu Kristo le titina.",
+  "gospel.mirror": "<h3>Israel ƒe tsatsa si nu metsona o la, le nyateƒe me, nye “nye” ŋutɔ ƒe nɔnɔme</h3><div class=\"cycle\"><b>Trɔ̃subɔsubɔ</b><span class=\"a\">→</span><b>Fukpekpe</b><span class=\"a\">→</span><b>Ɣlidodo</b><span class=\"a\">→</span><b>Mawu ɖe ame</b><span class=\"a\">→</span><b>Trɔ̃subɔsubɔ ake…</b></div><p>Tso Ɖelawo va se ɖe aboyomenɔnɔ la, Israel gawɔa tsatsa sia enuenu. Biblia meŋlɔe ɖi be míaɖu fewu be, “Aleke wonye nu maɖinu ɖoe” o.</p><p>Enye <b>ahuhɔ̃e</b>. Nya la menye “Israel wɔ ema” o, ke boŋ <b>“nye hã mewɔa nu ma ke”</b> (Korintotɔwo I, 10:11).</p><p><b>Trɔ̃</b> menye legba si wokpa ko o. Enye <b>nu sia nu si míelɔ̃na alo míeɖoa ŋu ɖo wu Mawu</b> — ga, dzidzedzekpɔkpɔ, lɔlɔ̃xɔxɔ, amewo, nye ŋutɔ gɔ̃ hã. Eye Mawu zazã abe <b>dɔwɔnu hena nu si medi la xɔxɔ</b> ene hã nye trɔ̃subɔsubɔ.</p><p class=\"punch\">Le nuwuwu la, trɔ̃ si goglo wu lae nye “nye ŋutɔ, si nɔ Mawu ƒe fiazikpui dzi.”</p>",
+  "gospel.coreIntro": "Ekema aleke Mawu ɖea nuvɔ̃wɔla sia tɔgbi? Esiae nye nyanyui si Biblia gblɔ la ƒe dzigbɔɖi.",
+  "gospel.crux": "<p class=\"crux-lead\">Biblia bliboa fia teƒe ɖeka.</p><p>Amewo mete ŋu gbã nuvɔ̃ ƒe tsatsa le wo ɖokui si o, eye ame dzɔdzɔe aɖeke menɔ anyi o. Eya ta ele be ame aɖe <b>naxe fe la ɖe wo teƒe</b>.</p><p>Yesu meva be yeana nufiame nyui ko o. Esi mɔ bubu aɖeke menɔ anyi si dzi woato aɖem o ta la, <b>ele be wòava godoo.</b></p><p class=\"crux-punch\">Ame si wòle be wòaku ɖe ati ma ŋu lae nye <b>nye</b>.<br>Yesu tsɔ <b>nye nuvɔ̃</b> eye woklãe ɖe ati ŋu ɖe tenyeƒe.</p><div class=\"crux-verse\">“Ke wode abi eŋu le míaƒe dzidadawo ta, eye wogbãe gudugudu le míaƒe vodadawo ta … eye ameƒoka ƒe abi siwo wòxɔ lae yɔ dɔ mí.” — Yesaya 53:5</div>",
+  "faq.h": "Ðe nane gakpɔtɔ le fu ɖem na wòa?",
+  "faq.q1": "<span class=\"arr\">▸</span> Ekema amewula aɖe xɔ edzi se ko ayi dziƒo, gake ame nyui si nɔ agbenyui ƒe agbe ʋuu gake mexɔ se o ayi dzomavɔ mea?",
+  "faq.a1": "<p>Enye biabia dzɔdzɔe. Gake nusɔnumeɖoɖo eve ɣla ɖe eme.</p><p><b>① Biblia mema amewo ɖe “amenyui kple amevɔ̃ɖi” me o.</b> Dzidzenu la menye “nyo wu ame si le axadzi” o, ke boŋ “Mawu ƒe kɔkɔenyenye deblibo.” Le eŋkume la, ame aɖeke “menyo de teƒe” o (Romatɔwo 3:23). Eya ta esia menye “amenyui kple amewula” o, ke boŋ enɔ abe ame eve siwo dze dɔ ɖeka si wua ame ene: ame ɖeka xɔ atike la, evelia gbe egblɔ be, “Mele lãmesẽ me wu ŋutsu ma.”</p><p><b>② Nu ɖeka koe maa dziƒo kple dzomavɔ dome.</b> Menye nuwɔna ƒe dzidze o, ke boŋ <b>ne èxɔ Yesu Kristo abe Aƒetɔ ene eye wòɖɔ wò nuvɔ̃ ƒe kuxia ɖo hã.</b> Ame si ƒe nuvɔ̃ Kristo ƒe ʋu ɖɔ ɖo la ayi dziƒo; ame si mexɔe gbeɖe o, ame si ƒe nuvɔ̃ gakpɔtɔ li la, mayi o. Nuwɔna nyui ƒe agbɔsɔsɔ aɖeke mate ŋu aɖɔ nuvɔ̃ ƒe kuxi ma ŋutɔ ɖo o.</p><p>Eya ta dziƒo kple dzomavɔ menye “fetu ɖe nuwɔna nyui ta” o, ke boŋ <b>ƒomedodo kple Kristo</b> ƒe nya. Eye “xɔse” menye susu ŋutɔ ƒe ɖoɖodzi o, ke boŋ tɔtrɔ le ame si kpɔa wò agbe dzi ŋu — ame si xɔe vavã la metrɔna zua dadala o, ke boŋ etrɔa dzime ɖe goglome wu. Le nyateƒe me la, ɖokuidzɔdzɔenyenye (“menye amenyui”) nye trɔ̃ si sesẽ wu be woagbã, si nana míesusuna be míehiã Kristo o (Luka 18:9-14).</p><p>Biblia gblɔe eme kɔ be: <b>“Ame si xɔ Vi la dzi se la, womabu fɔe o. Ke ame si mexɔ edzi se o la, wobu fɔe xoxo”</b> (Yohanes 3:18). Ʋɔnudɔdrɔ̃ menye “wò nuwɔnawo dzidze le wò ku megbe” o, ke boŋ woɖoe kpɔ xoxo to <b>ne èxɔ Kristo</b> me.</p><p class=\"faq-v\">Romatɔwo 3:23 · Yohanes 3:18 · Efesotɔwo 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Ðe nyemate ŋu anɔ agbenyui ƒe agbe ko, evɔ nyemexɔ Yesu dzi se o oa?",
+  "faq.a2": "<p>Enye susu si bɔ wu, gake mese kuxi vavãtɔ la gɔme o. Kpɔ ɖaa.</p><p><b>Tsɔe be èle adzodala ƒe tɔdziʋu aɖe me.</b> Aleke ke nàkɔ kpɔɖeƒea ŋu hã, aleke ke nànyo dɔ me na ʋua dɔwɔlawo, aleke ke wò agbenɔnɔ nanyo hã la, kpɔɖeŋunyui hã, <b>adzodala</b> kokoko nènye, elabe ʋua kɔ wò ɖe asi yina afi si wòɖo tae (ʋɔnudɔdrɔ̃ ƒe melidzeƒe). Kuxia menye “nuwɔna ƒe dzidze” o, ke boŋ <b>“ʋu ka tɔ nènye” (wò ŋutɔnyenye)</b>.</p><p>Eya ta nyanyui la megblɔ be “dze agbagba nànyo wu” o; egblɔ be <b>“ɖɔli ʋu.”</b> Ði le nuvɔ̃ ƒe ʋua me eye nàtso ayi Yesu gbɔ — ɖe <b>Mawu ƒe vi</b> ƒe ŋutɔnyenye yeye me. Esia menye wò dzidze dodoɖedzi to agbagbadzedze me o, ke boŋ ŋuɖoɖodzi ɖe Ame si do asi ɖa la ŋu kple tsotso yi eƒe ʋu me.</p><p>Le nyateƒe me la, Biblia ɖɔ ɖeɖe la abe tɔtrɔ sia tututu ene — <b>“Mawue xɔ mí tso viviti ƒe dziɖuɖu te, eye wòtsɔ mí ɖo Via lɔlɔ̃a ƒe fiaɖuƒe me”</b> (Kolosetɔwo 1:13).</p><p>Mègase egɔme bui o: <b>esia mefia be agbenyuinɔnɔ ŋu nye gbɔlo o.</b> Nyuiwɔwɔ menye ɖeɖe ƒe “se” o, ke boŋ eƒe <b>kutsetse</b>. Ame si ɖɔli ʋu la nɔa agbenyui fifia menye le vɔvɔ̃ ta o, ke boŋ le vi aɖe ƒe lɔlɔ̃ ta.</p><p class=\"faq-v\">Kolosetɔwo 1:13 · Yohanes 1:12 · Yohanes 3:3 · Efesotɔwo 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Ne nuvɔ̃wɔla aɖe le dzudzɔ me, hele gbɔgblɔm be “Mawu tsɔ kem,” evɔ ame si wòwɔ nuvɔ̃a ɖe eŋu gakpɔtɔ le fu kpem — ɖe tsɔtsɔke la mexɔ asi tsɔ akpa oa?",
+  "faq.a3": "<p>Biabia la sɔ, eye veve la nye nyateƒe. Gake nya tɔgbi sia menye “Biblia ƒe tsɔtsɔke” o — enye eƒe <b>ŋugblẽ</b>.</p><p><b>① Mawu ƒe tsɔtsɔke mexɔ asi tsɔ gbeɖe o.</b> Womeɣlaa nuvɔ̃ abe ɖe “mewɔ naneke o” ene o; Mawu ŋutɔ xe eƒe fe kple eya ŋutɔ ƒe Vi ƒe agbe. Ati la menye kpeɖodzi be wobua nuvɔ̃ tsɛe o, ke boŋ be nuvɔ̃ kpekpe nenema gbɔ — tsɔtsɔke si xɔ asi wu le xexea me.</p><p><b>② Dzimetrɔtrɔ vavãtɔ tsea ku.</b> Ne nuvɔ̃wɔla aɖe le dzudzɔ me le ame si wòwɔ nuvɔ̃a ɖe eŋu la ŋkume — “Mawu tsɔ kem, eya ta mele dzudzɔ me” — ema menye dzimetrɔtrɔ o, ke boŋ eƒe srɔ̃ɖeɖe (Mateo 3:8). Eye tsɔtsɔke si le ame kple Mawu dome la metutua ame si ŋu wowɔ nuvɔ̃ ɖo ƒe abi la ɖa o, eye mezia edzi be wòatsɔ ake o.</p><p><b>③ Womeɖea asi le nuvɔ̃ ŋu kpoo gbeɖe o.</b> Woxea nuvɔ̃ ɖe sia ɖe ƒe fe le teƒe eve dometɔ ɖeka — <b>Kristo tsɔnɛ ɖe ati la ŋu</b> (na ame si xɔ edzi se la, fɔbubu aɖeke megali o, Romatɔwo 8:1), <b>alo ame si gbee mlɔeba la tsɔnɛ eya ŋutɔ.</b> Eya ta “tsɔtsɔke si xɔ asi tsɛ” aɖeke meli o. Nuvɔ̃wɔla la hã gakpɔtɔ tsɔ se ƒe agba le xexe sia me (Romatɔwo 13:1-4).</p><p><b>④ Ame si ŋu wowɔ nuvɔ̃ ɖo ƒe aɖatsiwo mele sue na Mawu gbeɖe o.</b> Mawu fa avi kple ame siwo fa avi, eɖoa ŋku aɖatsi ɖe sia ɖe dzi, eye mlɔeba la, eya ŋutɔ atutui ɖa (Nyaɖeɖefia 21:4). Eya ta ame si ŋu wowɔ nuvɔ̃ ɖo la magatsɔ hlɔ̃biabia ƒe agba ɖeɖe o, ke boŋ ate ŋu atsɔe ade Mawu dzɔdzɔetɔ la si (Romatɔwo 12:19 — “Nyee abia hlɔ̃a; nyee le eteƒe ɖo ge”).</p><p class=\"faq-v\">Mateo 3:8 · Romatɔwo 8:1 · Romatɔwo 13:1-4 · Nyaɖeɖefia 21:4</p>",
+  "respond.h3": "Ekema — aleke wòle le nye gome?",
+  "respond.sub": "Lɔlɔ̃ sia menye nyatakaka o, ke boŋ <b>amekpekpe</b>. Ne lɔlɔ̃ si woklã ɖe ati ŋu ɖe tewòƒe la ka wò dzi la, do gbe ɖa sia blewuu, fli ɖeka ɖe fli ɖeka.",
+  "respond.prayer": "<p>Mawu,</p><p>melɔ̃ ɖe edzi be nuvɔ̃wɔla menye, ame si mate ŋu aɖe eɖokui o.</p><p>Mexɔe se be Yesu ku ɖe tenyeƒe le ati la ŋu eye wògagbɔ agbe.</p><p>Tsɔ nye nuvɔ̃wo katã kem, eye tso egbe dzi la, va zu nye agbe ƒe Aƒetɔ.</p><p>Xɔm abe viwò ene, eye na manɔ agbe yeye.</p><p class=\"amen\">Le Yesu ƒe ŋkɔ me medo gbe ɖa. Amen.</p>",
+  "respond.after": "Ne èdo gbe ɖa sia kple wò dzi blibo la, Biblia gblɔ be <b>èva zu Mawu ƒe vi</b>. Mègale ɖokuiwò si o — di hame aɖe si te ɖe ŋuwò eye miazɔ xɔse ƒe mɔ la ɖekae.",
+  "respond.verse": "“Ke ame siwo katã xɔe, eye woxɔ edzi se la, ena ŋusẽ wo be woazu Mawu viwo.” — Yohanes 1:12 · Romatɔwo 10:9-10",
+  "closing.main": "Mawu ɖeka,<br>to ŋutinya ɖeka me,<br>le mía yome tim kple<br><em>lɔlɔ̃</em> si meɖea asi le ame ŋu gbeɖe o.",
+  "closing.verse": "“Naneke kura meli, si ate ŋu ama mí ɖa tso Mawu ƒe lɔlɔ̃ na mí, si míekpɔ to Kristo Yesu mía Aƒetɔ dzi la gbɔ akpɔ gbeɖe o.” — Romatɔwo 8:38-39",
+  "closing.small": "Ðe ŋutinya sia dzi la, Se la, Hakpanyawo, Nyagblɔɖilawo, kple Agbalẽwo tsɔ “ŋutilã” kpe ɖe eŋu.<br>Fifia, agbalẽ ka kee nàʋu hã la, àkpɔ afi si nèle le ŋutinya la me.",
+  "closing.share": "↗ Mae ŋutinya sia",
+  "about.line": "Wotu nu sia ɖe ɖeɖeŋutinya ƒe nukpɔkpɔ si Korea-Protestant-hame ƒe akpa gãtɔ ɖu (nyanyuihafiala · ɖɔliɖola) dzi.",
+  "about.contact": "Biabiawo · nuƒoƒo — <a id=\"contact\" class=\"mail\">Ðo email ɖe mí</a>"
+ }
+}

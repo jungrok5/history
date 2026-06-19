@@ -1,0 +1,343 @@
+{
+ "menuName": "Slovenščina",
+ "htmlLang": "sl",
+ "dir": "ltr",
+ "brand": "Sveto pismo v enem pogledu",
+ "docTitle": "Sveto pismo v enem pogledu · Od stvarjenja do Cerkve",
+ "share": {
+  "title": "Sveto pismo v enem pogledu",
+  "text": "V enem samem pomiku odkrij veliko zgodbo Svetega pisma in zakaj je prišel Jezus."
+ },
+ "ui": {
+  "people": "Osebe",
+  "events": "Ključni dogodki",
+  "christLabel": "Kaže na Jezusa",
+  "loveLabel": "Vztrajna ljubezen",
+  "mythWrong": "Pogost nesporazum",
+  "mythRight": "Resnica",
+  "more": "Več",
+  "version": "(SSP)"
+ },
+ "labels": {
+  "start": "Začetek",
+  "thread": "Zgodba",
+  "gospel": "Evangelij",
+  "about": "O strani"
+ },
+ "epochs": [
+  {
+   "tag": "STARA ZAVEZA · ZAČETEK",
+   "title": "Stvarjenje",
+   "date": "Na začetku",
+   "one": "Bog je ustvaril svet, ki je bil »zelo dober«.",
+   "people": "Bog; Adam in Eva",
+   "events": "Šest dni stvarjenja, človek ustvarjen po Božji podobi, počitek na sedmi dan",
+   "q": "V začetku je Bog ustvaril nebo in zemljo.",
+   "cite": "1 Mojzes 1:1",
+   "christ": "Svet je bil ustvarjen po »Besedi«. Janezov evangelij oznanja, da je ta Beseda Jezus sam (Janez 1:1-3).",
+   "detail": "<p>Sveto pismo se ne začne s filozofskim dokazom, ampak z izjavo: <b>»V začetku je Bog …«</b>. Svet ni naključje, ampak delo osebnega Boga.</p><ul><li><b>Božja podoba</b> · izmed vseh bitij je le človek ustvarjen po Božji podobi — da bi Boga spoznaval in skrbel za svet.</li><li><b>Počitek</b> · počitek na sedmi dan kaže, da je bilo vse dovršeno in v miru (šalom): »in videl je, da je dobro«.</li><li><b>Eden</b> · svet pred zlomom, kjer Bog in človek hodita skupaj.</li></ul>",
+   "next": "A ta celovitost se bo kmalu razbila …"
+  },
+  {
+   "tag": "STARA ZAVEZA · TEŽAVA SE ZAČNE",
+   "title": "Padec",
+   "date": "Na začetku",
+   "one": "Vstopil je greh in vez med človekom in Bogom je bila pretrgana.",
+   "people": "Adam in Eva; kača (Satan)",
+   "events": "Uživanje prepovedanega sadu, izgon iz Edena, prihod smrti in muke",
+   "q": "Sovraštvo bom naredil med teboj in ženo … On bo prežal na tvojo glavo, ti pa boš prežala na njegovo peto.",
+   "cite": "1 Mojzes 3:15",
+   "christ": "Prva obljuba evangelija, dana takoj po padcu: »zarod žene« bo strl kačo po glavi — in to je Jezus (1 Mojzes 3:15; Rimljanom 16:20; Galačanom 4:4).",
+   "detail": "<p>Z neposlušnostjo, ko je človek hotel »biti kakor Bog«, je v svet vstopil greh. Posledica ni le prekršeno pravilo, ampak <b>pretrgan odnos</b>.</p><ul><li><b>Pretrgane vezi</b> · z Bogom (skrivanje), med seboj (obtoževanje), z naravo (trnje in muka).</li><li><b>Smrt</b> · svarilo »gotovo boš umrl« postane resničnost.</li><li><b>1 Mojzes 3:15</b> · vendar se sredi sodbe najprej da obljuba rešitve. Učenjaki jo imenujejo <b>protoevangelij (prvi evangelij)</b>.</li></ul>",
+   "next": "Zdaj Bog kliče enega človeka, da se začne rešitev …"
+  },
+  {
+   "tag": "STARA ZAVEZA · OBLJUBA",
+   "title": "Očaki",
+   "date": "ok. 2000 pr. Kr.",
+   "one": "Bog obljubi Abrahamu: »Boš v blagoslov.«",
+   "people": "Abraham · Izak · Jakob · Jožef",
+   "events": "Zaveza z Abrahamom, žrtvovanje Izaka, dvanajst Jakobovih sinov, Jožef se povzpne do oblasti v Egiptu",
+   "q": "Iz tebe bom naredil velik narod … in v tebi bodo blagoslovljeni vsi rodovi zemlje.",
+   "cite": "1 Mojzes 12:2-3",
+   "christ": "Obljuba, da »bodo blagoslovljeni vsi rodovi«, se izpolni v Jezusu, Abrahamovem zarodu (Galačanom 3:16).",
+   "detail": "<p>Bog začne reševati težavo vsega človeštva s tem, da pokliče enega človeka, <b>Abrahama</b>. Srce tega je <b>zaveza (obljuba)</b> — velik narod, dežela in »blagoslov za vse rodove«.</p><ul><li><b>Vera</b> · Abraham je veroval nevidni obljubi in to mu je bilo šteto v pravičnost (1 Mojzes 15:6).</li><li><b>Izak in Jakob</b> · obljuba se prenaša naprej; Jakob (Izrael) je oče dvanajstih rodov.</li><li><b>Jožef</b> · prodan od bratov, a povzdignjen do oblasti — »Bog je to obrnil na dobro« (1 Mojzes 50:20).</li></ul>",
+   "next": "Za Jožefom družina pride v Egipt — in postane sužnja …"
+  },
+  {
+   "tag": "STARA ZAVEZA · ODREŠENJE",
+   "title": "Izhod in puščava",
+   "date": "ok. 1446 pr. Kr.",
+   "one": "Bog je rešil zasužnjeno ljudstvo in ga naredil za svoje.",
+   "people": "Mojzes, Aron, faraon",
+   "events": "Deset nadlog, pasha, prehod čez Rdeče morje, deset zapovedi na Sinaju, shodni šotor, 40 let v puščavi",
+   "q": "Vzamem vas za svoje ljudstvo in bom vaš Bog …",
+   "cite": "2 Mojzes 6:7",
+   "christ": "Pasha — kjer je kri jagnjeta odvrnila smrt — kaže na Jezusa, »naše pashalno jagnje«, križano za nas (1 Korinčanom 5:7).",
+   "detail": "<p>Največja rešitev Stare zaveze. Nekoč zasužnjeni Izrael je z Božjo močjo osvobojen in oblikovan v njegovo <b>ljudstvo</b>.</p><ul><li><b>Pasha</b> · dom, zaznamovan s krvjo jagnjeta, smrt obide — vzorec za vse poznejše žrtve.</li><li><b>Rdeče morje</b> · rešitev tam, kjer se pot konča; »prehod« postane simbol novega začetka.</li><li><b>Sinajska zaveza</b> · po zapovedih se učijo, kako živeti kot Božje ljudstvo.</li><li><b>Shodni šotor</b> · prenosno svetišče, kjer Bog prebiva sredi svojega ljudstva — predokus »Emanuela«.</li><li><b>40 let</b> · zaradi neposlušnosti rod tava, a Bog ostaja blizu z mano ter z oblačnim in ognjenim stebrom.</li></ul>",
+   "next": "Ko stojijo na robu obljubljene dežele, se pripravljajo na vstop …"
+  },
+  {
+   "tag": "STARA ZAVEZA · NASELITEV",
+   "title": "Osvojitev in sodniki",
+   "date": "ok. 1400–1050 pr. Kr.",
+   "one": "Dobili so deželo, a ker ni bilo kralja, je vsak delal po svoje.",
+   "people": "Jozue; sodniki, kot sta Gideon in Samson; Ruta",
+   "events": "Padec Jerihe, naselitev v Kanaanu, ponavljajoč se krog greha–sodbe–rešitve",
+   "q": "Tiste dni ni bilo kralja v Izraelu; vsak je delal, kakor je bilo prav v njegovih očeh.",
+   "cite": "Sodniki 21:25",
+   "christ": "Iz Rutine rodovne črte pride David, iz Davidove pa Jezus (Matej 1). Tudi sredi kaosa se Mesijevo družinsko deblo nadaljuje.",
+   "detail": "<p>Pod Jozuetom vstopijo v obljubljeno deželo, a po naselitvi kmalu pozabijo na Boga. Sodniki so isti vzorec, ki se ponavlja.</p><ul><li><b>Padajoči krog</b> · greh → zatiranje → vpitje → sodnik reši → spet greh. Stanje se le slabša.</li><li><b>Sodniki</b> · Gideon, Samson, Debora — začasni rešitelji, junaški, a globoko pomanjkljivi.</li><li><b>Ruta</b> · svetla zgodba o zvestobi v temni dobi; tujka vstopi v rodovno črto Davida (in Jezusa).</li></ul>",
+   "next": "Ljudstvo vpije: »Daj nam kralja!« …"
+  },
+  {
+   "tag": "STARA ZAVEZA · ZLATA DOBA",
+   "title": "Združeno kraljestvo",
+   "date": "ok. 1050–930 pr. Kr.",
+   "one": "Bog obljubi Davidu: »Tvoj prestol bo obstal na veke.«",
+   "people": "Savel · David · Salomon",
+   "events": "Prvi kralj Savel, David in Goljat, Davidova zaveza, Salomon zgradi tempelj",
+   "q": "Tvoja hiša in tvoje kraljestvo bosta obstala pred teboj na veke in tvoj prestol bo utrjen na veke.",
+   "cite": "2 Samuel 7:16",
+   "christ": "»Večni prestol« se izpolni v Jezusu, Davidovem sinu — zato ga imenujejo »Davidov sin« (Luka 1:32-33; Matej 1:1).",
+   "detail": "<p>Vrhunec Izraela pod tremi kralji.</p><ul><li><b>Savel</b> · kralj, ki ga je ljudstvo zahtevalo; dober začetek, uničen z neposlušnostjo.</li><li><b>David</b> · »mož po Božjem srcu«. Premaga Goljata in iz Jeruzalema naredi prestolnico. Zagreši velik greh (Batšeba), a se iz srca pokesa (Psalm 51).</li><li><b>Davidova zaveza (2 Samuel 7)</b> · Bog obljubi, da bo Davidovo dinastijo utrdil na veke — odločilna korenina mesijanskega upanja.</li><li><b>Salomon</b> · na vrhuncu modrosti in bogastva zgradi <b>tempelj</b>, a se proti koncu življenja obrne k malikom.</li></ul>",
+   "next": "Po Salomonu se kraljestvo razdeli na dvoje …"
+  },
+  {
+   "tag": "STARA ZAVEZA · ZATON",
+   "title": "Razdeljeno kraljestvo",
+   "date": "930–586 pr. Kr.",
+   "one": "Razdeljeno na jug (Juda) in sever (Izrael) narod drsi v propad.",
+   "people": "Kralji obeh kraljestev; preroki, kot so Elija, Izaija, Jeremija",
+   "events": "Kraljestvo se razdeli, malikovanje se širi, preroki svarijo",
+   "q": "Tako se Izrael do tega dne upira Davidovi hiši.",
+   "cite": "1 Kralji 12:19",
+   "christ": "V tej dobi preroki vse jasneje napovedujejo prihajajočega Mesija (Izaija 9:6; Izaija 53).",
+   "detail": "<p>V dneh Salomonovega sina se narod razdeli: <b>severno kraljestvo Izrael</b> (10 rodov, prestolnica Samarija) in <b>južno kraljestvo Juda</b> (2 rodova, prestolnica Jeruzalem).</p><ul><li><b>Izrael (sever)</b> · vsak kralj služi malikom; leta 722 pr. Kr. pade pod Asirijo.</li><li><b>Juda (jug)</b> · Davidova črta se nadaljuje, z nekaj dobrimi kralji, kot sta Ezekija in Jošija, a v celoti propada.</li><li><b>Preroki</b> · Elija, Amos, Izaija, Jeremija vpijejo »vrnite se!«. Mesijanska prerokba doseže tu svojo najbogatejšo točko (»trpeči služabnik« iz Izaije 53).</li></ul>",
+   "next": "Na koncu pride napovedana sodba — odpeljani so v izgnanstvo …"
+  },
+  {
+   "tag": "STARA ZAVEZA · SODBA",
+   "title": "Izgnanstvo",
+   "date": "722 / 586 pr. Kr.",
+   "one": "Narod se zruši in ljudstvo je odvlečeno v tuje dežele.",
+   "people": "Daniel, Ezekiel, Nebukadnezar",
+   "events": "Izrael pade pod Asirijo (722), Juda pade pod Babilon in tempelj je uničen (586)",
+   "q": "Ob rekah Babilona, tam smo sedeli in jokali, ko smo se spominjali Siona.",
+   "cite": "Psalmi 137:1",
+   "christ": "V globinah obupa Jeremija obljubi »novo zavezo« (Jeremija 31:31) — prav tisto zavezo, ki jo Jezus zapečati pri zadnji večerji.",
+   "detail": "<p>Svarila se uresničijo. Tempelj zgori in ljudstvo je odpeljano v Babilon — izgubijo deželo, kralja in tempelj: najnižja točka vseh.</p><ul><li><b>Dva padca</b> · Izrael (Asirija, 722 pr. Kr.) in Juda (Babilon, 586 pr. Kr.).</li><li><b>Daniel</b> · zgled vere tudi na poganskem dvoru (levnjak); vidi videnja o prihajajočem »večnem kraljestvu«.</li><li><b>Iskra upanja</b> · Ezekielovo videnje suhih kosti, ki oživijo (Ezekiel 37), in Jeremijeva »nova zaveza« kažeta na prihodnost v temi.</li></ul>",
+   "next": "Sedemdeset let pozneje Bog odpre pot — vračajo se domov …"
+  },
+  {
+   "tag": "STARA ZAVEZA · OBNOVA",
+   "title": "Vrnitev",
+   "date": "538–430 pr. Kr.",
+   "one": "Vrnejo se in obnovijo tempelj in obzidje.",
+   "people": "Ezra, Nehemija, Estera, Zerubabel",
+   "events": "Vrnitev po Kirovem odloku, obnova templja, obnova jeruzalemskega obzidja, ponovno odkritje Besede",
+   "q": "Gospodovo veselje je vaša moč.",
+   "cite": "Nehemija 8:10",
+   "christ": "Malahija, zadnja knjiga Stare zaveze, se konča z napovedjo glasnika, ki pripravi Mesijevo pot: »Pošljem svojega glasnika« (Malahija 3:1).",
+   "detail": "<p>Po odloku perzijskega kralja Kira (538 pr. Kr.) se začne vrnitev. V treh valovih se vrnejo in obnovijo, kar je bilo porušeno.</p><ul><li><b>Zerubabel</b> · obnovi tempelj (dokončan 516 pr. Kr.).</li><li><b>Ezra</b> · znova uči Besedo in obudi vero.</li><li><b>Nehemija</b> · v 52 dneh obnovi jeruzalemsko obzidje.</li><li><b>Estera</b> · reši Jude v Perziji pred iztrebljenjem — »za tak čas, kakršen je ta«.</li><li><b>Še vedno hrepenenje</b> · tempelj stoji, a ni kralja, kakršen je bil David. Ljudstvo čaka Mesija.</li></ul>",
+   "next": "In potem … kakor da je nebo obmolknilo, mine 400 let."
+  },
+  {
+   "tag": "MED ZAVEZAMA · PRIPRAVA ODRA",
+   "title": "Leta tišine",
+   "date": "ok. 430–4 pr. Kr.",
+   "one": "400 let brez prerokovega glasu — a oder se je tiho pripravljal.",
+   "people": "Aleksander Veliki, Makabejci, Rim",
+   "events": "Perzija → Grčija → makabejska neodvisnost → rimska oblast",
+   "q": "Ko pa je nastopila polnost časa, je Bog poslal svojega Sina, rojenega iz žene …",
+   "cite": "Galačanom 4:4",
+   "christ": "Vsa ta »priprava odra« je bila Božje delo, da bi Jezus prišel točno ob »polnosti časa«.",
+   "detail": "<p>Od Malahija do Nove zaveze mine okoli 400 let brez novega Pisma. A za zaveso zgodovine je Bog pripravljal pot evangeliju.</p><ul><li><b>Cesarstva se menjajo</b> · Perzija → Grčija (Aleksander, 333 pr. Kr.) → Ptolemajci in Selevkidi → makabejski upor (167 pr. Kr.) → Rim (63 pr. Kr.).</li><li><b>Grščina</b> · Aleksandrove osvojitve naredijo grščino za skupni jezik; Stara zaveza je prevedena v grščino (Septuaginta), kar utre pot hitremu širjenju evangelija.</li><li><b>Rimske ceste in mir</b> · dobro grajene ceste in »Pax Romana« postanejo poti za misijon.</li><li><b>Sinagoge in struje</b> · sinagogalno poučevanje se zakorenini; pojavijo se farizeji in saduceji; in <b>hrepenenje po Mesiju</b> dozori.</li></ul>",
+   "next": "Nato se tišina prelomi — končno pride."
+  },
+  {
+   "tag": "NOVA ZAVEZA · IZPOLNITEV",
+   "title": "Jezus pride",
+   "date": "ok. 4 pr. Kr.–30 po Kr.",
+   "one": "Obljubljeni Mesija je prišel, umrl in vstal.",
+   "people": "Jezus, dvanajsteri učenci, Janez Krstnik",
+   "events": "Učlovečenje, njegovo delovanje, učenje in čudeži, smrt na križu, vstajenje tretji dan",
+   "q": "In Beseda je postala meso in se naselila med nami … polna milosti in resnice.",
+   "cite": "Janez 1:14",
+   "christ": "Zarod žene (prizor 2), Abrahamov blagoslov (3), pashalno jagnje (4), Davidov večni kralj (6), nova zaveza (8) — vse se izpolni v enem človeku, Jezusu: našem pravem Preroku, Duhovniku in Kralju.",
+   "detail": "<p>Tišina se prelomi; Obljubljeni pride. Štirje evangeliji pričujejo o Jezusovem življenju, smrti in vstajenju iz štirih zornih kotov.</p><ul><li><b>Učlovečenje</b> · Bog postane človek (Emanuel, »Bog z nami«), v ponižnosti Betlehema.</li><li><b>Delovanje</b> · uči o Božjem kraljestvu, ozdravlja bolne, kliče grešnike. »Kdor je videl mene, je videl Očeta.«</li><li><b>Križ</b> · plača ceno greha in smrti, ki ju je povzročil padec (prizor 2). Pravo pashalno jagnje.</li><li><b>Vstajenje</b> · ko vstane tretji dan, zlomi moč greha, smrti in Satana — že na križu velja: »Razorožil je vladarstva in oblasti … slavil zmago nad njimi« (Kološanom 2:15).</li></ul><p>Tako je Jezus naš <b>pravi Prerok</b> (kaže pot k Bogu), naš <b>pravi Duhovnik</b> (s svojim telesom poravna greh) in naš <b>pravi Kralj</b> (premaga greh, smrt in Satana ter kraljuje na veke).</p>",
+   "next": "Vstali Jezus pošlje svoje učence v svet …"
+  },
+  {
+   "tag": "NOVA ZAVEZA · ŠIRJENJE",
+   "title": "Cerkev se začne",
+   "date": "ok. 30 po Kr.–",
+   "one": "Duh pride in evangelij se širi do skrajnih mej sveta.",
+   "people": "Peter, Pavel, prva Cerkev",
+   "events": "Izlitje Duha na binkošti, rojstvo Cerkve, evangelij se skozi preganjanje širi od Jeruzalema do Rima",
+   "q": "Toda prejeli boste moč, ko bo Sveti Duh prišel nad vas … do skrajnih mej sveta.",
+   "cite": "Apostolska dela 1:8",
+   "christ": "Ta zgodba se še vedno odvija. Sveto pismo se konča z obljubo, da bo Jezus znova prišel in vse naredil novo (Razodetje 21).",
+   "detail": "<p>Ko se Jezus povzpne v nebesa, na binkošti pride obljubljeni Duh in Cerkev se rodi. Evangelij se širi eksplozivno.</p><ul><li><b>Binkošti</b> · Duh prestrašene učence spremeni v pogumne priče.</li><li><b>Peter</b> · oznanja evangelij Judom v Jeruzalemu.</li><li><b>Pavel</b> · iz preganjalca v apostola; po vsem poganskem svetu ustanavlja Cerkve in piše pisma.</li><li><b>Do skrajnih mej</b> · Jeruzalem → Judeja → Samarija → Rim. Obljuba Abrahamu o »vseh rodovih« se uresniči.</li><li><b>In mi</b> · zgodba se ne konča; nadaljuje se proti Jezusovi vrnitvi ter novim nebesom in novi zemlji.</li></ul>",
+   "next": "Toda zgodba se tu ne konča …"
+  },
+  {
+   "tag": "NOVA ZAVEZA · DOVRŠITEV",
+   "title": "Obnova",
+   "date": "Še pride",
+   "one": "Jezus znova pride in vse naredi novo.",
+   "people": "Jezus, ki se vrača; vsi narodi",
+   "events": "Drugi prihod, poslednja sodba, konec greha·smrti·solz, novo nebo in nova zemlja",
+   "q": "In obrisal bo vse solze … in smrti ne bo več, pa tudi žalovanja, vpitja in bolečine ne bo več.",
+   "cite": "Razodetje 21:4",
+   "christ": "Eden prvega stvarjenja je naposled obnovljen kot »novi Jeruzalem«. Bog prebiva s svojim ljudstvom na veke — polnost Emanuela (Razodetje 21:3; Matej 1:23).",
+   "detail": "<p>Sveto pismo se ne konča z dobo Cerkve. Njegova zadnja knjiga, Razodetje, kaže Jezusa, ki <b>znova pride</b>, da vse dovrši.</p><ul><li><b>Drugi prihod</b> · obljubljeni Kralj se vrne v slavi.</li><li><b>Dokončna zmaga</b> · Satan in smrt sta za vedno premagana, in Kristus kraljuje kot Kralj kraljev (1 Korinčanom 15:25-26; Razodetje 20:10).</li><li><b>Sodba in vstajenje</b> · vsaka krivica je popravljena in mrtvi vstanejo.</li><li><b>Novo nebo in nova zemlja</b> · greh, smrt, solze in bolečina za vedno izginejo (Razodetje 21:4).</li><li><b>Obnovljeni Eden</b> · v »novem Jeruzalemu«, boljšem od začetka, Bog prebiva s svojim ljudstvom na veke — cilj, h kateremu je usmerjeno vse Sveto pismo.</li></ul><p>Tako je zdaj doba <b>»že, a še ne«</b>: v Jezusu je odrešenje <b>že</b> dovršeno, a njegova dopolnitev se <b>še</b> pričakuje.</p>",
+   "next": "Kaj torej ta vsa zgodba pomeni za »mene«?"
+  }
+ ],
+ "core": [
+  {
+   "title": "Izvirni greh — ni pravičnega",
+   "body": "Težava niso »nekatera slaba dejanja«, ampak korenina srca. Od Adama se vsak rodi pod grehom in sam ne more priti do Boga.",
+   "vref": "Rimljanom 3:10-12, 23",
+   "vtext": "Ni pravičnega, niti enega … saj so vsi grešili in so brez Božje slave"
+  },
+  {
+   "title": "Postava me ne more rešiti",
+   "body": "Postava ni lestev, ampak ogledalo. Bolj ko se trudiš, bolj kaže, kako daleč zaostajaš. Njen namen je, da nas privede h Kristusu.",
+   "vref": "Rimljanom 3:20 · Galačanom 3:24",
+   "vtext": "postava nam le omogoča, da spoznamo greh … je postava postala za nas vzgojiteljica, ki nas je vzgojila za Kristusa"
+  },
+  {
+   "title": "Po milosti — dar, ne trud",
+   "body": "Odrešenje ni plačilo za zasluge, ki si jih prislužil, ampak zastonjski dar tistim, ki ga ne zaslužijo. Zato se nihče ne more hvaliti.",
+   "vref": "Efežanom 2:8-9",
+   "vtext": "Z milostjo ste namreč odrešeni po veri … Niste odrešeni iz del, da se ne bi kdo hvalil."
+  },
+  {
+   "title": "Opravičeni po veri",
+   "body": "Ne z izpolnjevanjem postave, ampak po veri v Jezusa Kristusa si štet za pravičnega — oblečen ne v svojo pravičnost, ampak v njegovo.",
+   "vref": "Rimljanom 5:1 · Galačanom 2:16",
+   "vtext": "Ker smo torej opravičeni iz vere … človek ni opravičen po delih postave, ampak edinole po veri v Jezusa Kristusa."
+  },
+  {
+   "title": "Sveto pismo kaže na Jezusa",
+   "body": "Sveto pismo ni knjiga o velikih možeh ali samopomoč. Od 1 Mojzesove do Razodetja vsaka stran priča o eni osebi — Jezusu Kristusu.",
+   "vref": "Janez 5:39 · Luka 24:27",
+   "vtext": "prav ta pričujejo o meni … jima razlagal, kar je napisano o njem v vseh Pismih."
+  },
+  {
+   "title": "Božje kraljestvo — Jezusovo osrednje sporočilo",
+   "body": "Tema, ki jo je Jezus največ učil. Božje kraljevanje je z Jezusom vstopilo v ta svet in bo dovršeno ob njegovi vrnitvi. S svojim križem in vstajenjem je Jezus pravi Kralj, ki je premagal greh, smrt in Satana.",
+   "vref": "Marko 1:15",
+   "vtext": "Čas se je dopolnil in Božje kraljestvo se je približalo. Spreobrnite se in verujte evangeliju!"
+  },
+  {
+   "title": "Evangelij — vse je dovršil",
+   "body": "Ceno greha, ki je nikoli ne bi mogel plačati, je Jezus plačal na mojem mestu na križu, in z vstajenjem je premagal smrt. Ne opiram se na »naredi to«, ampak na »izpolnjeno je«.",
+   "vref": "Janez 19:30 · Rimljanom 5:8",
+   "vtext": "Izpolnjeno je … Bog pa izkazuje svojo ljubezen do nas s tem, da je Kristus umrl za nas, ko smo bili še grešniki."
+  }
+ ],
+ "mis": [
+  {
+   "w": "»Zakaj je Bog ustvaril ljudi, ki lahko grešijo? Ali ne bi bilo bolje, da nas sploh ne bi ustvaril?«",
+   "t": "Bog je ustvaril svet in ljudi ne iz kakršne koli pomanjkljivosti, ampak iz prekipevajoče ljubezni. Že to, da je človeka ustvaril kot <b>osebo, ki je v odnosu z Bogom</b>, je ljubezen. In tudi vstop greha ni bil zunaj Božjega načrta odrešenja (Efežanom 1:4-5). Prvi prizor Svetega pisma ni sodba, ampak ljubezen."
+  },
+  {
+   "w": "»Izgnan in obsojen na smrt zgolj zaradi enega sadu — ali ni Bog veliko preostrog?«",
+   "t": "Izgon iz Edena je bil sodba in hkrati usmiljenje. Jesti z drevesa življenja in večno živeti v tem zlomljenem, od Boga pretrganem stanju bi pomenilo biti za vedno ujet v trpljenje (1 Mojzes 3:22). Dopustitev smrti je odprla pot nazaj, in prav tam je Bog obljubil Rešitelja (1 Mojzes 3:15). Ljubezen je bila že znotraj sodbe."
+  },
+  {
+   "w": "»Abraham je bil izbran, ker je imel veliko vero — ali niso vse svetopisemske osebe moralni junaki?«",
+   "t": "Abraham je lagal in dvomil; Jakob je bil prevarant. Bog ni klical »primernih« ljudi, ampak pomanjkljive, po milosti. Razlog ni bila njihova dobrota, ampak Božja zvesta ljubezen (5 Mojzes 7:7-8)."
+  },
+  {
+   "w": "»Ali ni postava (zapovedi) izpit, ki ga moraš opraviti, da bi bil rešen?«",
+   "t": "Bog jih je rešil <b>prej</b>, preden je dal postavo. Že deset zapovedi se začne z izjavo odrešenja: »Jaz sem Gospod, tvoj Bog, ki sem te izpeljal iz egiptovske dežele« (2 Mojzes 20:2). Postava ni »izpolnjuj jo, da boš rešen«, ampak ljubeče vodilo, kako naj že rešeno ljudstvo živi (5 Mojzes 7:7-9). Milost vedno pride prva; poslušnost je odgovor."
+  },
+  {
+   "w": "»Osvojitev Kanaana je bila neusmiljen poboj — torej je Bog Stare zaveze res krut.«",
+   "t": "To je težka tema, ki je ni mogoče razrešiti z enim stavkom. A Sveto pismo je ne predstavlja kot naključno nasilje, ampak kot sodbo po stoletjih potrpljenja do skrajnega zla (vključno z žrtvovanjem otrok) (1 Mojzes 15:16; 5 Mojzes 9:4-5; 3 Mojzes 18:24-25). Bog je počasen celo k sodbi in z veseljem je sprejel tiste, ki so se obrnili k njemu — celo tujce, kot sta bili Rahaba in Ruta (Jozue 6:25; Ruta 4:13-17)."
+  },
+  {
+   "w": "»David je bil brezhiben junak — zato so ga imenovali ‚mož po Božjem srcu‘.«",
+   "t": "David je prešuštvoval in celo umoril. »Mož po Božjem srcu« ne pomeni brezhiben, ampak nekdo, ki svojega greha ni skrival — ki se je temeljito pokesal in se vedno znova vračal k Bogu (Psalm 51). Božja ljubezen ne zavrže niti tistih, ki hudo padejo."
+  },
+  {
+   "w": "»Preroki so vedeževalci, ki napovedujejo prihodnost / Bog Stare zaveze je sama jeza.«",
+   "t": "Prerokovo srce ni »napovedovanje prihodnosti«, ampak Božja boleča prošnja: »Prosim, vrnite se.« Tudi svarila pred sodbo ne merijo na uničenje, ampak na to, da ljudi obrnejo in rešijo — »nimam veselja nad krivičneževo smrtjo« (Ezekiel 33:11)."
+  },
+  {
+   "w": "»Izgnanstvo dokazuje, da je Bog popolnoma zapustil Izrael.«",
+   "t": "Izgnanstvo ni bilo zapustitev, ampak vzgoja in prečiščevanje ljubljenega otroka (Hebrejcem 12:6). Bog ni odšel; bil je z Danielom v srcu izgnanstva in obljubil: »Vem za načrte, ki jih imam z vami … načrte blaginje in ne nesreče, da vam dam prihodnost in upanje« (Jeremija 29:11)."
+  },
+  null,
+  {
+   "w": "»Ker 400 let ni bilo besede, je Bog odšel ali počival.«",
+   "t": "Tišina ni odsotnost. Samo ni govoril, medtem ko je ves čas premikal cesarstva, jezike in ceste, da bi pripravil oder odrešenja. V najtišjem trenutku je Bog z ljubeznijo delal najbolj zavzeto (Galačanom 4:4)."
+  },
+  {
+   "w": "»Jezus je bil le eden dobrih moralnih učiteljev / križ je bil tragičen poraz.«",
+   "t": "Jezus je trdil, da je Bog sam (Janez 8:58), in križ ni bil nesreča ali poraz, ampak načrtovana ljubezen. Ni bil tja odvlečen na silo; sam je dal svoje življenje (Janez 10:18). »Nihče nima večje ljubezni, kakor je ta, da dá življenje za svoje prijatelje« (Janez 15:13)."
+  },
+  {
+   "w": "»Cerkev je klub popolnih ljudi ali pa zgolj zgradba.«",
+   "t": "Cerkev ni skupnost »dovršenih svetnikov«, ampak <b>odpuščenih grešnikov</b>. Celo apostol Pavel je o sebi rekel »med temi pa sem prvi jaz« (1 Timoteju 1:15). Tudi prva Cerkev se je prepirala in spotikala (Apostolska dela 6:1; 1 Korinčanom 1:11). Ni kraj za hvalisanje, ampak ljudje, ki naprej dajejo prejeto ljubezen (Janez 13:34-35)."
+  },
+  null
+ ],
+ "love": [
+  "Zgodba se ne začne s sodbo, ampak s stvarjenjem, izlitim v ljubezni.",
+  "V trenutku, ko je človek grešil, je Bog prav tam, na mestu, obljubil rešitev.",
+  "Bog je prvi prišel k nevrednemu človeku, ga poklical po imenu in ga naredil za kanal blagoslova.",
+  "Slišal je vzdihovanje zasužnjenega ljudstva in se sam spustil dol, da bi ga rešil.",
+  "Čeprav so ga izdajali znova in znova, je vsakič, ko so vpili, poslal rešitelja in jih dvignil.",
+  "Niti padlega Davida ni zavrgel in po njem je obljubil večnega Kralja.",
+  "Ljudstvu, ki mu je obračalo hrbet, je nenehno pošiljal preroke in prosil: »Prosim, vrnite se domov.«",
+  "Šel je z njimi celo v najtemnejšo deželo izgnanstva in obljubil obnovo.",
+  "Tudi ljudstvu, ki je padalo znova in znova, ni vzel nazaj svoje obljube.",
+  "Tudi skozi 400 let tišine je nevidno pripravljal pot odrešenja.",
+  "Ko smo bili še grešniki, je poslal svojega Sina, da je dal svoje življenje.",
+  "Ljubezen, ki smo jo prejeli, zdaj pošilja, da se izliva po vsem svetu.",
+  "Naposled bo obrisal vse solze in v ljubezni vse obnovil."
+ ],
+ "s": {
+  "ui.share": "↗ Deli",
+  "ui.toast": "Povezava kopirana 📋",
+  "ui.footer": "Sveto pismo v enem pogledu · Svetopisemski navedki iz SSP",
+  "hero.kicker": "OD STVARJENJA DO CERKVE",
+  "hero.title": "Sveto pismo,<br><span class=\"em\">v enem pogledu</span>",
+  "hero.sub": "V enem samem pomiku odkrij veliko zgodbo Svetega pisma in zakaj je prišel Jezus.",
+  "hero.cue": "Pomakni navzdol<span>↓</span>",
+  "thread.eyebrow": "EN STAVEK, KI VSE POVEZUJE",
+  "thread.h2": "Na koncu je Sveto pismo ena sama zgodba",
+  "thread.flow": "<b>Obljuba</b><span class=\"arw\">→</span><b>Čakanje</b><span class=\"arw\">→</span><b>Izpolnitev</b>",
+  "thread.note": "Bog <b>obljubi</b> (zaveza), ljudstvo dolgo <b>čaka</b>, in naposled se vse <b>izpolni</b> in dovrši v Jezusu. Sledi spodnjim 13 prizorom v tem toku — na vsaki kartici pritisni <b>»Več«</b> za globljo zgodbo.",
+  "gospel.eyebrow": "KAJ TA ZGODBA POMENI ZA »MENE«",
+  "gospel.h2": "Pravo srce Svetega pisma",
+  "gospel.lead": "Sveto pismo <b>ni učbenik o tem, »kako biti dober človek«.</b>",
+  "gospel.sublead": "Je zgodba o tem, kako je Bog, <b>zgolj po milosti</b>, rešil grešnike, ki se sami nikoli ne bi mogli rešiti. V njenem središču stoji Jezus Kristus.",
+  "gospel.mirror": "<h3>Neskončni Izraelov krog je v resnici slika »mene«</h3><div class=\"cycle\"><b>Malikovanje</b><span class=\"a\">→</span><b>Trpljenje</b><span class=\"a\">→</span><b>Vpitje</b><span class=\"a\">→</span><b>Bog reši</b><span class=\"a\">→</span><b>Spet malikovanje …</b></div><p>Od Sodnikov do izgnanstva Izrael ta krog ponavlja brez konca. Sveto pismo tega ni zapisalo zato, da bi se posmehovali: »Kako bedni so bili.«</p><p>Je <b>ogledalo</b>. Bistvo ni »Izrael je tako delal«, ampak <b>»jaz delam isto«</b> (1 Korinčanom 10:11).</p><p><b>Malik</b> ni le izrezljan kip. Je <b>vse, kar ljubimo ali čemur zaupamo bolj kakor Bogu</b> — denar, uspeh, odobravanje, ljudje, celo jaz sam. In uporabljati Boga kot <b>orodje za to, kar hočem</b>, je prav tako malikovanje.</p><p class=\"punch\">Na koncu je najgloblji malik »jaz sam, ki sedim na Božjem prestolu«.</p>",
+  "gospel.coreIntro": "Kako torej Bog reši takega grešnika? To je srce evangelija, ki ga oznanja Sveto pismo.",
+  "gospel.crux": "<p class=\"crux-lead\">Vse Sveto pismo kaže na eno mesto.</p><p>Ljudje sami niso mogli prelomiti kroga greha in nihče ni bil pravičen. Zato je nekdo moral <b>plačati ceno na njihovem mestu</b>.</p><p>Jezus ni prišel le zato, da bi dal dober nauk. Ker ni bilo druge poti, da bi me rešil, <b>ni imel druge izbire, kakor da pride.</b></p><p class=\"crux-punch\">Tisti, ki bi moral viseti na tistem križu, sem bil <b>jaz</b>.<br>Jezus je nesel <b>moj greh</b> in bil pribit tja na mojem mestu.</p><div class=\"crux-verse\">»On pa je bil ranjen zaradi naših prestopkov, strt zaradi naših krivd … po njegovih ranah smo bili ozdravljeni.« — Izaija 53:5</div>",
+  "faq.h": "Te kaj še teži?",
+  "faq.q1": "<span class=\"arr\">▸</span> Torej morilec samo veruje in gre v nebesa, vse življenje dober človek, ki ne veruje, pa gre v pekel?",
+  "faq.a1": "<p>To je pošteno vprašanje. A v njem se skrivata dva nesporazuma.</p><p><b>① Sveto pismo ljudi ne deli na »dobre proti slabim«.</b> Merilo ni »boljši od soseda«, ampak »popolna Božja svetost«. Pred njim nihče ni »dovolj dober« (Rimljanom 3:23). Torej to ni »dober človek proti morilcu«, ampak prej kakor dva človeka z isto smrtonosno boleznijo — eden vzame zdravilo, drugi ga zavrne, rekoč: »Bolj zdrav sem od tega.«</p><p><b>② Le ena stvar loči nebesa in pekel.</b> Ne ocena vedenja, ampak <b>ali si sprejel Jezusa Kristusa kot Gospoda in je tvoj problem greha rešen.</b> Tisti, čigar greh je poravnan s Kristusovo krvjo, gre v nebesa; tisti, ki ga nikoli ne sprejme in čigar greh ostaja, ne. Nobena količina dobrih del ne more rešiti samega tega problema greha.</p><p>Zato nebesa in pekel niso »nagrada za dobro vedenje«, ampak vprašanje <b>odnosa s Kristusom</b>. In »vera« ni umsko strinjanje, ampak sprememba tega, kdo vodi tvoje življenje — kdor ga resnično sprejme, ne postane domišljav, ampak se najgloblje pokesa. Pravzaprav je samopravičnost (»jaz sem dober človek«) najtežji malik za zlomiti, tisti, zaradi katerega menimo, da ne potrebujemo Kristusa (Luka 18:9-14).</p><p>Sveto pismo to pove jasno: <b>»Kdor vanj veruje, se mu ne sodi; kdor pa ne veruje, je že sojen«</b> (Janez 3:18). Sodba ni »ocenjevanje tvojih del po smrti«, ampak je že odločena s tem, <b>ali si sprejel Kristusa</b>.</p><p class=\"faq-v\">Rimljanom 3:23 · Janez 3:18 · Efežanom 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Ali ne morem preprosto živeti dobrega življenja, ne da bi veroval v Jezusa?",
+  "faq.a2": "<p>To je najpogostejša misel, a napačno razume, kaj je pravi problem. Tukaj je slika.</p><p><b>Recimo, da si na piratski ladji.</b> Naj bo krov še tako čist, naj boš še tako prijazen do posadke, naj bo tvoje življenje še tako zgledno — še vedno si <b>pirat</b>, ker te ladja nese tja, kamor je namenjena (v pristanišče sodbe). Problem ni »ocena vedenja«, ampak <b>»kateri ladji pripadaš« (tvoja istovetnost)</b>.</p><p>Zato evangelij ne pravi »bolj se trudi biti dober«; pravi <b>»zamenjaj ladjo«</b>. Stopi z ladje greha in prestopi k Jezusu — v novo istovetnost <b>Božjega otroka</b>. To ni dvigovanje ocene s trudom, ampak zaupanje Tistemu, ki ti ponuja roko, in prehod na njegovo ladjo.</p><p>Pravzaprav Sveto pismo odrešenje opisuje prav kot ta prestop — <b>»On nas je namreč iztrgal iz oblasti teme in nas prestavil v kraljestvo svojega ljubljenega Sina«</b> (Kološanom 1:13).</p><p>Ne razumi narobe: <b>to ne pomeni, da je dobro življenje brez pomena.</b> Dobrota ni »pogoj« odrešenja, ampak njegov <b>sad</b>. Kdor je zamenjal ladjo, zdaj živi dobro ne iz strahu, ampak iz otroške ljubezni.</p><p class=\"faq-v\">Kološanom 1:13 · Janez 1:12 · Janez 3:3 · Efežanom 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Če storilec živi v miru in trdi »Bog mi je odpustil«, žrtev pa še vedno trpi — ali ni milost veliko prepoceni?",
+  "faq.a3": "<p>Vprašanje je pošteno in bolečina je resnična. A taka trditev ni »svetopisemsko odpuščanje« — je njegovo <b>popačenje</b>.</p><p><b>① Božje odpuščanje nikoli ni poceni.</b> Greh ni pometen pod preprogo, kakor da se ni nikoli zgodil; Bog sam je plačal njegovo ceno z življenjem svojega Sina. Križ ni dokaz, da je greh vzet zlahka, ampak da je greh tako težak — najdražje odpuščanje na svetu.</p><p><b>② Pravo kesanje obrodi sad.</b> Če je storilec pred žrtvijo domišljav — »Bog mi je odpustil, zato sem v miru« — to ni kesanje, ampak njegovo posnemanje (Matej 3:8). In odpuščanje med človekom in Bogom ne izbriše žrtvine rane niti je ne sili, da odpusti.</p><p><b>③ Greh nikoli ni preprosto »spregledan«.</b> Vsak greh je plačan na enem od dveh mest — <b>ali ga Kristus nosi na križu</b> (za tiste, ki mu zaupajo, ni več obsodbe, Rimljanom 8:1), <b>ali ga nosi sam tisti, ki ga naposled zavrne.</b> Zato ni »poceni oprostitve«. Storilec na tem svetu nosi tudi pravno odgovornost (Rimljanom 13:1-4).</p><p><b>④ Žrtvine solze pri Bogu nikoli niso majhne.</b> Bog joka s tistimi, ki jokajo, se spominja vsake solze in jih bo naposled sam obrisal (Razodetje 21:4). Zato žrtvi ni treba sami nositi bremena maščevanja, ampak ga lahko izroči pravičnemu Bogu (Rimljanom 12:19 — »Moje je maščevanje, jaz bom povrnil, pravi Gospod«).</p><p class=\"faq-v\">Matej 3:8 · Rimljanom 8:1 · Rimljanom 13:1-4 · Razodetje 21:4</p>",
+  "respond.h3": "Kaj pa torej z mano?",
+  "respond.sub": "Ta ljubezen ni informacija, ampak <b>povabilo</b>. Če se je ljubezen, ki je bila pribita na tvojem mestu, dotaknila tvojega srca, počasi izmoli to molitev, vrstico za vrstico.",
+  "respond.prayer": "<p>Bog,</p><p>priznam, da sem grešnik, ki se sam ne more rešiti.</p><p>Verujem, da je Jezus zame umrl na križu in vstal.</p><p>Prosim, odpusti vse moje grehe in od zdaj bodi Gospod mojega življenja.</p><p>Sprejmi me za svojega otroka in daj, da živim novo življenje.</p><p class=\"amen\">V Jezusovem imenu molim. Amen.</p>",
+  "respond.after": "Če si to iskreno izmolil, Sveto pismo pravi, da si <b>postal Božji otrok</b>. Nisi več sam — poišči bližnjo Cerkev in skupaj hodi po poti vere.",
+  "respond.verse": "»Tistim pa, ki so jo sprejeli, je dala moč, da postanejo Božji otroci, vsem, ki verujejo v njeno ime.« — Janez 1:12 · Rimljanom 10:9-10",
+  "closing.main": "En Bog,<br>skozi eno zgodbo,<br>prihaja za nami z<br><em>ljubeznijo</em>, ki nikoli ne odneha.",
+  "closing.verse": "»Ne smrt ne življenje … ne kakršna koli druga stvar nas ne bo mogla ločiti od Božje ljubezni v Kristusu Jezusu, našem Gospodu.« — Rimljanom 8:38-39",
+  "closing.small": "Na to zgodbo Postava, Pesmi, Preroki in Pisma dodajo »meso«.<br>Odslej, katero koli knjigo odpreš, boš videl, kje v zgodbi si.",
+  "closing.share": "↗ Deli to zgodbo",
+  "about.line": "Temelji na odrešenjsko-zgodovinskem pogledu, ki ga deli večina korejske protestantske Cerkve (evangeljska · reformirana).",
+  "about.contact": "Vprašanja · odzivi — <a id=\"contact\" class=\"mail\">Pišite nam</a>"
+ }
+}
