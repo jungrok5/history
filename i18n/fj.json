@@ -1,0 +1,343 @@
+{
+ "menuName": "Vakaviti",
+ "htmlLang": "fj",
+ "dir": "ltr",
+ "brand": "Na iVolatabu ena Dua na Taraki",
+ "docTitle": "Na iVolatabu ena Dua na Taraki · Mai na Veibuli ki na Lotu",
+ "share": {
+  "title": "Na iVolatabu ena Dua na Taraki",
+  "text": "Ena dua na taraki, kunea na italanoa levu ni iVolatabu — kei na vuna a lako mai kina ko Jisu."
+ },
+ "ui": {
+  "people": "Tamata",
+  "events": "Veika bibi",
+  "christLabel": "Dusia ko Jisu",
+  "loveLabel": "Loloma e sega ni mudu",
+  "mythWrong": "Vakasama cala e dau tu",
+  "mythRight": "Na ka dina",
+  "more": "Wilika e levu",
+  "version": "(FNV)"
+ },
+ "labels": {
+  "start": "Tekivu",
+  "thread": "Na italanoa",
+  "gospel": "Na Kosipeli",
+  "about": "Kabaki"
+ },
+ "s": {
+  "ui.share": "↗ Wasea",
+  "ui.toast": "Sa kopiataki na isema 📋",
+  "ui.footer": "Na iVolatabu ena Dua na Taraki · Veitukuni mai na iVolatabu FNV",
+  "hero.kicker": "MAI NA VEIBULI KI NA LOTU",
+  "hero.title": "Na iVolatabu,<br><span class='em'>ena dua na taraki</span>",
+  "hero.sub": "Ena dua na taraki, kunea na italanoa levu ni iVolatabu — kei na vuna a lako mai kina ko Jisu.",
+  "hero.cue": "Taraki sobu<span>↓</span>",
+  "thread.eyebrow": "DUA NA YATU VOSA E SEMATI IRA KECE",
+  "thread.h2": "Ena mudi, na iVolatabu e dua ga na italanoa",
+  "thread.flow": "<b>Yalayala</b><span class='arw'>→</span><b>Wawa</b><span class='arw'>→</span><b>Vakayacori</b>",
+  "thread.note": "Sa <b>yalataka</b> na Kalou (na veiyalayalati), era <b>wawa</b> vakadede na tamata, ka sa <b>vakayacori</b> ka vakaotia kece ena mudi vei Jisu. Muria na 13 na italanoa e ra muri ena yatu oqo — tabaka na <b>“Wilika e levu”</b> ena dua na veikadi me wili kina na italanoa titobu.",
+  "gospel.eyebrow": "NA KENA IBALEBALE NI ITALANOA OQO VEI “AU”",
+  "gospel.h2": "Na uto dina ni iVolatabu",
+  "gospel.lead": "Na iVolatabu <b>e sega ni dua na ivola ni ivakavuvuli me “tamata vinaka.”</b>",
+  "gospel.sublead": "Sai koya na italanoa ni nona vakabula na Kalou, <b>ena loloma wale ga</b>, na tamata i valavala ca era sega ni rawa ni vakabula ira vakataki ira. Ena kena uto sa tu kina ko Jisu Karisito.",
+  "gospel.mirror": "<h3>Na ivakarau tawamudu kei Isireli sai koya dina na iyaloyalo i “au”</h3><div class='cycle'><b>Soro ki na matakau</b><span class='a'>→</span><b>Rarawa</b><span class='a'>→</span><b>Tagi cake</b><span class='a'>→</span><b>Sa vakabula na Kalou</b><span class='a'>→</span><b>Soro tale ki na matakau…</b></div><p>Mai na Dauveilewai me yacova na veivakabobulataki, era vakavotuya tikoga na Isireli na ivakarau oqo. Sa sega ni volai me da vakalialiai ira, “Era ca dina vakacava.”</p><p>Sai koya e dua na <b>iloilo</b>. Na kena ibalebale e sega ni “era cakava o ira o ya” ia <b>“au cakava talega na kena vata oya”</b> (1 Korinica 10:11).</p><p>Na <b>matakau</b> e sega ni dua ga na kau tara. Sai koya na <b>veika kece eda lomana se nuitaka vakalevu cake mai na Kalou</b> — na ilavo, na rawa ka, na vakadonui mai vei ira na tamata, kei au talega. Ka na vakayagataki ni Kalou me <b>iyaya me rawa kina na ka au gadreva</b>, sa soro talega ki na matakau o ya.</p><p class='punch'>Ena mudi, na matakau e titobu duadua sai koya na “au ga, au dabe ena idabedabe vakatui ni Kalou.”</p>",
+  "gospel.coreIntro": "Ia e vakabula vakacava na Kalou e dua vaka oqo na tamata i valavala ca? Sai koya oqo na uto ni kosipeli sa vunautaka na iVolatabu.",
+  "gospel.crux": "<p class='crux-lead'>Na iVolatabu taucoko e dusia ga e dua na vanua.</p><p>Era sega ni rawa ni voro lesu vakataki ira na tamata na ivakarau ni ivalavala ca, ka sa sega e dua e i valavala dodonu. O koya gona, e dodonu me dua me <b>saumi na isau ena vukudra</b>.</p><p>E sega ni lako mai ga ko Jisu me vakavuvulitaka na ka vinaka. A lako mai baleta ni <b>sega ni dua tale na sala me vakabulai au kina</b>: a dodonu me lako mai.</p><p class='crux-punch'>Sa dodonu me'u vakoti ki na kauveilatai o ya ko <b>au</b>.<br>Sa colata na <b>noqu i valavala ca</b> ko Jisu ka vakoti kina ena noqu yasana.</p><div class='crux-verse'>“Sa vakamavoataki o koya ena vuku ni noda ca Ka sa mokuti ena vuku ni noda i valavala ca. Eda sa sereki ena vuku ni nona totogi.” — Aisea 53:5</div>",
+  "faq.h": "Se tiko e dua na ka o vakananuma?",
+  "faq.q1": "<span class='arr'>▸</span> Ia o koya e dau veivakamatei sa vakabauta ga sa lako ki lomalagi, ia o koya a bula vinaka tu ia e sega ni vakabauta sa lako ki eli?",
+  "faq.a1": "<p>E dua na taro dodonu. Ia e ruarua na vakasama cala e vuni e lomana.</p><p><b>① E sega ni wasei ira na tamata na iVolatabu me “vinaka kei na ca.”</b> Na ivakarau e sega ni “vinaka cake mai na kena toka voleka” ia sai koya na “savasava uasivi ni Kalou.” Ena mata ni Kalou, e sega e dua e “vinaka rawa” (Roma 3:23). O koya gona e sega ni “tamata vinaka kei na dauveivakamatei,” ia e vaka ga na rua na tamata e tauvi rau na tauvimate mate — e ciqoma e dua na wai ni mate, e cati e dua ka kaya, “Au bula vinaka cake mai vei koya.”</p><p><b>② E dua ga na ka e wasea na lomalagi kei na eli.</b> E sega ni vakatautauvatataki na ivalavala, ia <b>na nomu ciqoma ko Jisu Karisito me Turaga ka sa wali kina na nomu leqa ni ivalavala ca.</b> O koya sa wali na nona ivalavala ca ena dra i Karisito sa lako ki lomalagi; o koya sa sega ni ciqoma ka sa tiko ga vua na nona ca, sega. Sega ni dua na ivalavala vinaka e rawa ni wali kina vei iko na leqa ni ivalavala ca.</p><p>O koya gona na lomalagi kei na eli e sega ni “isau ni ivalavala vinaka” ia sai koya na <b>veiwekani kei Karisito</b>. Ka na “vakabauta” e sega ni dua na vakadonui ni vakasama wale ga, ia sai koya na veisautaki ni Turaga ena bula: o koya sa ciqoma dina e sega ni viavialevu, ia sa veivutuni titobu cake. Na <b>vakadonu-taki-koya</b> (“Au tamata vinaka”) sai koya na matakau dredre duadua me voro, o koya e vakavuna meda nanuma ni sega ni gadrevi vei keda ko Karisito (Luke 18:9-14).</p><p>Sa kaya matata na iVolatabu: <b>“O ira sa vakabauta na Luvena era na sega ni lewai; ia o ira era sa sega ni vakabauta sa lewai oti tu”</b> (Joni 3:18). Na veilewai e sega ni “vakatautauvatataki na nomu bula ni o sa mate,” ia sa lewa oti ena <b>nomu ciqoma se sega ko Karisito</b>.</p><p class='faq-v'>Roma 3:23 · Joni 3:18 · Efeso 2:8-9 · Luke 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> E sega li ni rawa me'u bula vinaka ga, dina ga ni'u sega ni vakabauti Jisu?",
+  "faq.a2": "<p>Sai koya na vakasama e dau tu duadua, ia e cala kina na kena kilai na “leqa dina.” Me da raica e dua na iyaloyalo.</p><p><b>Vakananuma ni o tu ena dua na waqa ni daubutako.</b> Se mani vakacava na nomu samaka na waqa me savasava, na nomu yalovinaka vei ira na lewe ni waqa, na nomu bula vakaivakarau — o tiko ga e dua na <b>daubutako</b>, baleta ni o sa kau vata kei na waqa ki na vanua e lako kina (na ikelekele ni veilewai). Na leqa e sega ni “vakatautauvatataki ni ivalavala” ia sai koya <b>“na waqa cava o lewena” (na nomu itovo dina)</b>.</p><p>O koya gona na kosipeli e sega ni kaya “saga vakaukauwa mo vinaka,” ia e kaya <b>“veisau na nomu waqa.”</b> Sobu mai na waqa ni ivalavala ca ka lako ki vei Jisu: ki na itovo vou ni <b>luve ni Kalou</b>. E sega ni vakalevutaki ni nomu ivakarau ena saga, ia sai koya na vakabauti koya sa dodoka mai na ligana ka kosova ki na nona waqa.</p><p>Sa vakamacalataka dina na iVolatabu na veivakabulai me vaka ga na veisau oqo — <b>“Sa vakabulai keda o koya mai na vakatulewa ni butobuto ka kauti keda tani ki na nona matanitu na Luvena lomani”</b> (Kolosa 1:13).</p><p>Kakua ni vakasamataka vakacala: <b>e sega ni kena ibalebale ni sega ni yaga na bula vinaka.</b> Ia na bula vinaka e sega ni “ivakarau” ni veivakabulai ia sai koya na <b>vuana</b>. O koya sa veisau na nona waqa sa bula vinaka, sega ni baleta ni rere, ia ena vuku ni <b>loloma ni dua na luvena</b>.</p><p class='faq-v'>Kolosa 1:13 · Joni 1:12 · Joni 3:3 · Efeso 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Ke kaya na dauveivakacaca “Sa vosoti au na Kalou” ka bula vakacegu, ia e se rarawa tiko na ka e caka vakacacataki — e sega li ni rawarawa vakasivia na veivosoti o ya?",
+  "faq.a3": "<p>E dodonu na taro, ka dina na rarawa o ya. Ia na vosa va oqo e sega ni “veivosoti ni iVolatabu” ia sai koya na <b>kena vakatawadodonutaki</b>.</p><p><b>① Na veivosoti ni Kalou e sega sara ni rawarawa.</b> Na ivalavala ca e sega ni ubia me vaka “e sega ni yaco”; sa saumi na isau ko koya ga na Kalou ena bula ni Luvena. Na kauveilatai e sega ni ivakadinadina ni sa vakamamadataki na ivalavala ca, ia ni sa bibi vakaevei: sai koya na veivosoti e saumi vakalevu duadua e vuravura.</p><p><b>② Na veivutuni dina e vuataka na vua.</b> Ke vakaraitaka na dauveivakacaca ni sega ni leqataka na ka e caka vei koya e vakacacataki — “Sa vosoti au na Kalou, au sa bula vakacegu” — e sega ni veivutuni o ya ia sai koya na vakatotomutaki ni veivutuni (Maciu 3:8). Ka na veivosoti ena maliwa ni tamata kei na Kalou e sega ni bokoca na mavoa ni o ya e vakacacataki se vakasaurarataki koya me veivosoti.</p><p><b>③ Na ivalavala ca e sega sara ni “lesu wale.”</b> Na ivalavala ca kece e saumi ena dua vei rua na vanua: <b>se colata ko Karisito ena kauveilatai</b> (vei ira sa vakabauti koya sa sega na veivakacalai, Roma 8:1), <b>se colata o koya sa cati koya me yacova na mudi.</b> O koya gona, e sega ni dua na “veivosoti rawarawa.” Na dauveivakacaca e colata talega na ka e dodonu ena lawa e vuravura (Roma 13:1-4).</p><p><b>④ Na wainimata ni o ya e vakacacataki e sega ni lailai ena mata ni Kalou.</b> E tagi vata na Kalou kei ira era tagi, e nanuma na wainimata kece, ka na qai tavoya tani ko koya ga ena mudi (Vakatakila 21:4). O koya gona e sega ni colata duadua na bibi ni veisaumitaki o ya e vakacacataki, ia e rawa ni soli vua na Kalou dodonu (Roma 12:19: “Sa noqu i tavi me'u cudruvaka, au na sauma oi au, sa kaya na Turaga”).</p><p class='faq-v'>Maciu 3:8 · Roma 8:1 · Roma 13:1-4 · Vakatakila 21:4</p>",
+  "respond.h3": "Ia — vakacava o au?",
+  "respond.sub": "Na loloma oqo e sega ni itukutuku ga ia sai koya na <b>iveisureti</b>. Kevaka sa tara na lomamu na loloma sa vakoti ena nomu yasana, masu vakamalua ena gauna oqo, dua na yatu ena dua na gauna.",
+  "respond.prayer": "<p>Kalou,</p><p>au sa vakadinadinataka ni'u tamata i valavala ca ka sega ni rawa ni vakabula au vakataki au.</p><p>Au vakabauta ni a mate ena vukuqu ko Jisu ena kauveilatai ka sa tucake tale.</p><p>Mo vosota mada na noqu ivalavala ca kece, ka mai na siga oqo mo Turaga ni noqu bula.</p><p>Mo ciqomi au me luvemu, ka mo vakabula au me'u bula vou.</p><p class='amen'>Ena yaca i Jisu au masu kina. Emeni.</p>",
+  "respond.after": "Kevaka o sa masu dina vaka oqo, sa kaya na iVolatabu ni o sa <b>yaco me luve ni Kalou</b>. O sa sega ni tiko duadua — vaqaqara e dua na lotu voleka ka taubale vata ena sala ni vakabauta.",
+  "respond.verse": "“Sa solia kina vei ira o koya na dodonu me ra yaco rawa me ra luve ni Kalou.” — Joni 1:12 · Roma 10:9-10",
+  "closing.main": "E dua ga na Kalou,<br>ena dua na italanoa,<br>e vaqaqara keda ena dua na <em>loloma</em><br>e sega ni mudu.",
+  "closing.verse": "“Ena sega ni rawata na mate, se na bula… se na vuravura e ra. Ena sega sara ni dua na ka me na rawa ni tawasei keda mai na loloma ni Kalou sa mai noda ena vuku i Karisito Jisu na noda Turaga.” — Roma 8:38-39",
+  "closing.small": "Ena yatu italanoa oqo, na Lawa, na ivola ni serekali, na parofita kei na ivola ni vakauqeti e ra biuta na “lewena.”<br>Mai na gauna oqo, se mani vakacava na ivola o dolava, o na kila na “vanua o tu kina ena italanoa.”",
+  "closing.share": "↗ Wasea na italanoa oqo",
+  "about.line": "E yavutaki ena rai <b>vakaivolatabu ni veivakabulai, vakakosipeli kei na vakavou</b> sa veiwasei vata e levu na lotu Porotesitani e Korea.",
+  "about.contact": "Veitarogi · veivakasamataki — <a id='contact' class='mail'>Vakauta na imeli</a>"
+ },
+ "epochs": [
+  {
+   "tag": "VEIYALAYALATI MAKAWA · IVAKATEKIVU",
+   "title": "Na Veibuli",
+   "date": "Ena ivakatekivu",
+   "one": "Sa bula na Kalou e dua na vuravura a “vinaka sara.”",
+   "people": "Na Kalou; ko Atama kei Ivi",
+   "events": "Na ono na siga ni veibuli, na tamata buli me vaka na Kalou, na vakacegu ni Sigatabu",
+   "q": "Ena i vakatekivu, ena gauna a bulia kina na lomalagi kei na vuravura na Kalou;",
+   "cite": "Vakatekivu 1:1",
+   "christ": "A buli na vuravura ena “Vosa.” Sa kaya na Kosipeli i Joni ni Vosa oqo sai koya ga ko Jisu (Joni 1:1-3).",
+   "detail": "<p>E sega ni tekivu na iVolatabu ena dua na veivosaki vakavuku, ia ena dua na vakaraitaki: <b>“Ena ivakatekivu, na Kalou…”</b> Na vuravura e sega ni dua na ka veisau wale ga, ia sai koya na cakacaka ni dua na Kalou bula.</p><ul><li><b>Na iyaloyalo ni Kalou</b> · vei ira kece na ka buli, na tamata duaduaga e buli me tautauvata kei na Kalou — me kila koya ka maroroya na vuravura.</li><li><b>Vakacegu</b> · na vakacegu ena ikavitu ni siga e vakaraitaka ni sa vakaoti kece ka tu vakacegu (shalom): “sa vinaka.”</li><li><b>Iteni</b> · na vuravura ni bera ni voroka, era taubale vata kina na Kalou kei na tamata.</li></ul>",
+   "next": "Ia sa voleka ni voro na taucoko vinaka oqo…"
+  },
+  {
+   "tag": "VEIYALAYALATI MAKAWA · SA TEKIVU NA LEQA",
+   "title": "Na Bale",
+   "date": "Ena ivakatekivu",
+   "one": "Sa curu mai na ivalavala ca, ka sa musuki na veisemati ni tamata kei na Kalou.",
+   "people": "Ko Atama kei Ivi; na gata (Setani)",
+   "events": "Na nodrau kania na vua tabu, na vakasevi mai Iteni, na curu mai ni mate kei na oca",
+   "q": "Au na cakava mo na veimecaki kei na yalewa… o na katia na bukubuku ni yavadra na luvena.",
+   "cite": "Vakatekivu 3:15",
+   "christ": "Na imatai ni yalayala ni kosipeli, soli ena gauna sara ga ni oti na Bale: na “kawa ni yalewa” ena butuqaqia na ulu ni gata — sai koya ko Jisu (Vakatekivu 3:15; Roma 16:20; Kalatia 4:4).",
+   "detail": "<p>Ena talaidredre ni via “tautauvata kei na Kalou,” sa curu mai ki vuravura na ivalavala ca. Na kena vua e sega ni voroki ga ni dua na lawa, ia sai koya na <b>musuki ni veisemati</b>.</p><ul><li><b>Veisemati voroki</b> · kei na Kalou (vuni), kei na kai noda (vakacala), kei na veika buli (votovotoa kei na oca).</li><li><b>Mate</b> · na ivakasala “o na mate dina” sa yaco dina.</li><li><b>Vakatekivu 3:15</b> · ia ena loma sara ni veilewai, e soli kina na yalayala ni veivakabulai. Era vakatoka na vuli na <b>“protoevangelium” (na imatai ni kosipeli)</b>.</li></ul>",
+   "next": "Sa qai kacivi e dua ga na tamata na Kalou me tekivu na veivakabulai…"
+  },
+  {
+   "tag": "VEIYALAYALATI MAKAWA · NA YALAYALA",
+   "title": "Na Qase Makawa",
+   "date": "rauta 2000 BK",
+   "one": "Sa yalataka na Kalou vei Eparama: “O na yaco mo vu ni veivakalougatataki.”",
+   "people": "Eparama · Aisake · Jekope · Josefa",
+   "events": "Na veiyalayalati kei Eparama, na soro ni cabocabo i Aisake, na tinikarua na luve i Jekope, sa cecere ko Josefa e Ijipita",
+   "q": "Au na vakalewevuqataka na nomu kawa, ka na yaco me na matanitu levu… Na veimatanitu kece sara e vuravura era na vakalougatataki ena vukumu.",
+   "cite": "Vakatekivu 12:2-3",
+   "christ": "Na yalayala ni “na veimatanitu kece era na vakalougatataki” e vakayacori vei Jisu, na kawa i Eparama (Kalatia 3:16).",
+   "detail": "<p>Sa tekivu wali na Kalou na leqa ni kawatamata taucoko ena nona kacivi e dua ga na tamata, ko <b>Eparama</b>. Na kena uto sai koya na <b>veiyalayalati (na yalayala)</b> — dua na matanitu levu, dua na vanua, kei na “veivakalougatataki vei ira kecega.”</p><ul><li><b>Vakabauta</b> · sa vakabauta na yalayala tawarairai ko Eparama, ka sa wili vua me nona ivalavala dodonu (Vakatekivu 15:6).</li><li><b>Aisake kei Jekope</b> · sa kau yani na yalayala ki na itabatamata kei muri; ko Jekope (Isireli) sai tama ni tinikarua na yavusa.</li><li><b>Josefa</b> · a volitaki ko koya mai vei iratou na ganena ia sa qai vakaturagataki e Ijipita — “Sa vakanakitaka na Kalou me kena ivinaka” (Vakatekivu 50:20).</li></ul>",
+   "next": "Ni muri Josefa, sa lako sobu na vuvale ki Ijipita — ka sa qai vakabobula…"
+  },
+  {
+   "tag": "VEIYALAYALATI MAKAWA · VEIVAKABULAI",
+   "title": "Na Lako Yani kei na Lekutu",
+   "date": "rauta 1446 BK",
+   "one": "Sa vakabula na Kalou na tamata vakabobula ka cakava me nona.",
+   "people": "Mosese, Eroni, na Fero",
+   "events": "Na tini na mate ni dela, na Lakosivia, na takosova na Wasa Damudamu, na Tini na Vunau e Sainai, na valelaca, na 40 na yabaki ena lekutu",
+   "q": "Au na ciqomi kemuni mo ni sa noqu tamata, ia ka'u na nomuni Kalou.",
+   "cite": "Lako Yani 6:7",
+   "christ": "Na Lakosivia — ena gauna a vakabula kina na dra ni lami mai na mate — e dusia ko Jisu, na “noda Lami ni Lakosivia,” a vakoti ena vukuda (1 Korinica 5:7).",
+   "detail": "<p>Na cakacaka levu duadua ni veivakabulai ena Veiyalayalati Makawa. Na Isireli, era a vakabobula, sa sereki ena kaukauwa ni Kalou ka caka me nona <b>tamata</b>.</p><ul><li><b>Na Lakosivia</b> · na vale a vakatakilakilataki ena dra ni lami ena katuba sa lakosivia na mate; iyavu ni veisoro kece e muri mai.</li><li><b>Na Wasa Damudamu</b> · veivakabulai ena gauna sa oti kina na sala; na “takosova” sa ivakatakilakila ni dua na ivakatekivu vou.</li><li><b>Veiyalayalati e Sainai</b> · ena Tini na Vunau era vulica kina na bula me tamata ni Kalou.</li><li><b>Na valelaca</b> · vale tabu e rawa ni kau a tiko kina na Kalou ena maliwa ni tamata — itovotovo ni “Emanuela.”</li><li><b>40 na yabaki</b> · ena talaidredre e veicakitaki kina e dua na itabatamata ena lekutu, ia sa tiko voli vata na Kalou ena mana kei na duru ni o kei na bukawaqa.</li></ul>",
+   "next": "Ni ra tu ena bati ni vanua yalataki, era sa vakavakarau me ra curu…"
+  },
+  {
+   "tag": "VEIYALAYALATI MAKAWA · TIKOTIKO",
+   "title": "Na Qaqa kei na Dauveilewai",
+   "date": "rauta 1400–1050 BK",
+   "one": "Era taukena na vanua, ia ni sega na tui, era dui cakava ga na ka e vinakata.",
+   "people": "Josua; dauveilewai me vaka ko Kitioni kei Samisoni; Ruci",
+   "events": "Na bale i Jeriko, na tiko e Kenani, na ivakarau tawamudu ni ivalavala ca–veilewai–veivakabulai",
+   "q": "Ena gauna o ya a sega tu na nodra tui na Isireli, ka ra a dui vakayacora ga na tamata na veika a dodonu e matadra.",
+   "cite": "Dauveilewai 21:25",
+   "christ": "Mai na kawa i Ruci e lako mai ko Tevita, ka mai na kawa i Tevita e lako mai ko Jisu (Maciu 1). Ena loma ni veicalacala, e tomani tiko ga na kawa ni Mesaia.",
+   "detail": "<p>Ena ruku i Josua era curu ki na vanua yalataki, ia ni ra tiko oti era sa qai guilecava na Kalou. Na Dauveilewai sai koya na vakavotuya tikoga ni ivakarau vata oya.</p><ul><li><b>Na ivakarau lako sobu</b> · ivalavala ca → veivakararawataki → tagi cake → veivakabulai mai vua e dua na dauveilewai → ivalavala ca tale, ka ca cake tiko ga.</li><li><b>Na dauveilewai</b> · Kitioni, Samisoni, Tepora — dauveivakabula vakagauna, vakaturaga ia e sinai ena cala.</li><li><b>Ruci</b> · dua na italanoa serau ni yalodina ena gauna butobuto; e dua na yalewa vulagi e curu ki na kawa i Tevita (kei Jisu).</li></ul>",
+   "next": "Era sa tagi cake na tamata, “Solia mai talega vei keimami e dua na tui!”…"
+  },
+  {
+   "tag": "VEIYALAYALATI MAKAWA · GAUNA VINAKA DUADUA",
+   "title": "Na Matanitu Duavata",
+   "date": "rauta 1050–930 BK",
+   "one": "Sa yalataka na Kalou vei Tevita: “Ena tu dei na nomu idabedabe vakatui me sega ni mudu.”",
+   "people": "Saula · Tevita · Solomoni",
+   "events": "Na imatai ni tui ko Saula, ko Tevita kei Koliaca, na veiyalayalati kei Tevita, sa tara na valetabu ko Solomoni",
+   "q": "Na nomu mataqali kei na nomu matanitu ena vakataudeitaki e mataqu, ka sega ni oti. Ena vakataudeitaki ka tawa mudu na nomu i tikotiko vakatui.",
+   "cite": "2 Samuela 7:16",
+   "christ": "Na “idabedabe vakatui tawamudu” e vakayacori vei Jisu, na kawa i Tevita — o koya gona e vakatokai kina ko koya na “Luve i Tevita” (Luke 1:32-33; Maciu 1:1).",
+   "detail": "<p>Na gauna vinaka duadua ni Isireli, ena ruku ni tolu na tui.</p><ul><li><b>Saula</b> · na imatai ni tui era kerea na tamata; tekivu vinaka ia sa biu ena nona talaidredre.</li><li><b>Tevita</b> · “e dua na tamata sa vinakati koya na loma ni Kalou.” Sa vakamalumalumutaki Koliaca ka cakava ko Jerusalemi me kena keba. Sa cakava e dua na ivalavala ca levu (Pasiba) ia sa veivutuni mai na loma (Same 51).</li><li><b>Na veiyalayalati kei Tevita (2 Samuela 7)</b> · sa yalataka na Kalou me vakataudeitaka na nona kawa me sega ni mudu — na yava bibi ni nuinui vakaMesaia.</li><li><b>Solomoni</b> · ena dela ni vuku kei na iyau sa tara na <b>valetabu</b> e Jerusalemi, ia sa qai soro ki na matakau ena ivakamudi ni nona bula.</li></ul>",
+   "next": "Ni oti ko Solomoni, sa wasei rua na matanitu…"
+  },
+  {
+   "tag": "VEIYALAYALATI MAKAWA · LAKO SOBU",
+   "title": "Na Matanitu Wasei",
+   "date": "930–586 BK",
+   "one": "Sa wasei ki na ceva (Juta) kei na vualiku (Isireli), ka sa vakaca vakamalua.",
+   "people": "Na tui ni ruarua na matanitu; parofita me vaka ko Ilaija, Aisea, Jeremaia",
+   "events": "Na wase ni matanitu, na soro ki na matakau, na ivakasala ni parofita",
+   "q": "Era sa vuki tani mai na veiliutaki vakatui ni vuvale i Tevita o ira na tamata ena vualiku kei Isireli.",
+   "cite": "1 Tui 12:19",
+   "christ": "Ena gauna oqo, era vakaraitaka matata cake tiko na parofita na Mesaia ena lako mai (Aisea 9:6; Aisea 53).",
+   "detail": "<p>Ena gauna ni luve i Solomoni sa wasei na matanitu: <b>na matanitu vualiku ni Isireli</b> (10 na yavusa, keba ko Samaria) kei na <b>matanitu ceva ni Juta</b> (2 na yavusa, keba ko Jerusalemi).</p><ul><li><b>Isireli (vualiku)</b> · sa qarava na matakau na nona tui kece; sa bale vei Asiria ena 722 BK.</li><li><b>Juta (ceva)</b> · e tomani tiko na kawa i Tevita, kei na vica na tui vinaka me vaka ko Esekaia kei Josaia, ia ena ka taucoko e lako sobu.</li><li><b>Na parofita</b> · ko Ilaija, Emosi, Aisea, Jeremaia era tagi “lesu mai!” Sa levu duadua kina na parofisai vakaMesaia (na “dauveiqaravi vakararawataki” e Aisea 53).</li></ul>",
+   "next": "Ena mudi sa yaco mai na veilewai a vakasalataki — era sa kau vakabobula…"
+  },
+  {
+   "tag": "VEIYALAYALATI MAKAWA · VEILEWAI",
+   "title": "Na Veivakabobulataki",
+   "date": "722 / 586 BK",
+   "one": "Sa bale na matanitu ka sa kau na tamata ki na vanua tani.",
+   "people": "Taniela, Isikeli, Nepukanesa",
+   "events": "Sa bale ki Asiria na Isireli (722); sa bale ki Papiloni na Juta ka vakarusai na valetabu (586)",
+   "q": "Ena bati ni uciwai mai Papiloni, Keimami a dabe sobu kina ka tagi, Ni keimami a vakananumi Saioni.",
+   "cite": "Same 137:1",
+   "christ": "Ena titobu ni yalolailai, sa yalataka na Jeremaia e dua na “veiyalayalati vou” (Jeremaia 31:31) — na veiyalayalati ga a vakadeitaka ko Jisu ena Vakayakavi i Muri.",
+   "detail": "<p>Sa yaco dina na ivakasala. Sa kama na valetabu ka sa kau na tamata ki Papiloni — sa yali na vanua, na tui, kei na valetabu: na gauna ca duadua.</p><ul><li><b>Rua na bale</b> · Isireli (Asiria, 722 BK) kei na Juta (Papiloni, 586 BK).</li><li><b>Taniela</b> · itovotovo ni vakabauta ena loma sara ni veiliutaki vakamatakau (na qara ni laioni); sa raica na raivotu ni dua na “matanitu tawamudu” ena lako mai.</li><li><b>Dua na serau ni nuinui</b> · na raivotu ni sui mamaca era bula tale (Isikeli 37) kei na “veiyalayalati vou” i Jeremaia e dusia na ka ena yaco mai muri ena butobuto.</li></ul>",
+   "next": "Ni oti e vitusagavulu na yabaki, sa dola na sala na Kalou — era sa lesu ki vale…"
+  },
+  {
+   "tag": "VEIYALAYALATI MAKAWA · VAKADUAVATA TALE",
+   "title": "Na Lesu Tale Mai",
+   "date": "538–430 BK",
+   "one": "Era lesu mai ka tara tale na valetabu kei na bai.",
+   "people": "Esera, Niemaia, Esiteri, Serupapeli",
+   "events": "Lesu mai ena ivakaro i Sairusi, tara tale na valetabu, vakavinakataki na bai i Jerusalemi, vakaduataki tale na Vosa",
+   "q": "Na marau ena solia vei kemuni ko Jiova ena vakaukauwataki kemuni.",
+   "cite": "Niemaia 8:10",
+   "christ": "Ko Malakai, na ivola iotioti ni Veiyalayalati Makawa, e tinia ena vakaraitaki ni dua na italai me vakavakarautaka na sala ni Mesaia: “Au sa tala yani na noqu italai” (Malakai 3:1).",
+   "detail": "<p>Ena ivakaro ni tui Perisia ko Sairusi (538 BK) sa tekivu na lesu mai. Ena tolu na ua era lesu mai ka tara tale na ka a voroki.</p><ul><li><b>Serupapeli</b> · sa tara tale na valetabu (vakaoti ena 516 BK).</li><li><b>Esera</b> · sa vakavulica tale na Vosa ka vakaduataki tale na vakabauta.</li><li><b>Niemaia</b> · sa tara tale na bai i Jerusalemi ena 52 na siga.</li><li><b>Esiteri</b> · sa vakabula na kai Jiu e Perisia mai na vakarusai — “me baleta na gauna vata oqo.”</li><li><b>Vinakata tiko</b> · sa tu na valetabu, ia sa sega na tui me vaka ko Tevita. Era wawataka na Mesaia na tamata.</li></ul>",
+   "next": "Ka sa qai… me vaka e sa galu na lomalagi, sa oti e 400 na yabaki ni galu."
+  },
+  {
+   "tag": "MALIWA NI VEIYALAYALATI · VAKARAUTAKI NA VANUA",
+   "title": "Na Yabaki ni Galu",
+   "date": "rauta 430–4 BK",
+   "one": "400 na yabaki e sega kina na domo ni parofita — ia sa vakavakarautaki vakagalu na vanua.",
+   "people": "Alesatari na Cecere, na Makapea, Roma",
+   "events": "Perisia → Kirisi → galala ni Makapea → veiliutaki vakaRoma",
+   "q": "Ia ni sa yaco mai na kena gauna dodonu, sa qai tala mai na Luvena na Kalou. A sucu mai vua e dua na yalewa…",
+   "cite": "Kalatia 4:4",
+   "christ": "Na “vakarautaki ni vanua” oqo kece sai koya na cakacaka ni Kalou me lako mai dina ko Jisu ena “kena gauna dodonu.”",
+   "detail": "<p>Mai vei Malakai me yacova na Veiyalayalati Vou, e rauta na 400 na yabaki e sega kina na iVolatabu vou (parofita). Ia ena daku ni veika a yaco, sa vakavakarautaka na Kalou na sala ni kacivaki ni kosipeli.</p><ul><li><b>Veisau ni matanitu lelevu</b> · Perisia → Kirisi (Alesatari, 333 BK) → Ijipita kei Siria → veitalia ni Makapea (167 BK) → Roma (63 BK).</li><li><b>Na vosa vaKirisi</b> · na qaqa i Alesatari sa cakava me vosa veitaratara na vosa vaKirisi; sa vakadewataki ki vaKirisi na Veiyalayalati Makawa (na Sepituatini), ka dola kina na sala me kacivaki totolo na kosipeli.</li><li><b>Sala kei na vakacegu vakaRoma</b> · na sala vinaka kei na “Pax Romana” sa yaco me sala ni kacivaki kosipeli.</li><li><b>Vale ni soqo kei na isoqosoqo</b> · sa tu dei na veivakavulici ena vale ni soqo; sa tubu cake na Farisi kei na Satukai; ka sa matua na <b>wawa ni Mesaia</b>.</li></ul>",
+   "next": "Sa qai mudu na galu — ena ivakamudi, sa lako mai."
+  },
+  {
+   "tag": "VEIYALAYALATI VOU · VAKAYACORI",
+   "title": "Sa Lako Mai ko Jisu",
+   "date": "rauta 4 BK–30 GM",
+   "one": "Sa lako mai na Mesaia a yalataki, sa mate, ka sa tucake tale.",
+   "people": "Jisu, na tinikarua na tisaipeli, Joni na Dauveipapitaisotaki",
+   "events": "Na yaco me tamata (Kerisimasi), na nona cakacaka ni veivakavulici kei na cakamana, na mate ena kauveilatai, na tucake tale ena ikatolu ni siga",
+   "q": "A sa yaco me tamata na Vosa, sa sinai ena lolomasavu kei na dina, ka sa bula ena keda maliwa.",
+   "cite": "Joni 1:14",
+   "christ": "Na kawa ni yalewa (italanoa 2), na veivakalougatataki i Eparama (3), na lami ni Lakosivia (4), na tui tawamudu i Tevita (6), na veiyalayalati vou (8) — sa vakayacori kece ena dua ga na tamata, ko Jisu: na noda parofita dina, bete dina, kei na tui dina.",
+   "detail": "<p>Sa mudu na galu; sa yaco mai na Yalataki. Na va na Kosipeli era vakadinadinataka na bula, na mate, kei na tucake tale i Jisu mai na yasana eso.</p><ul><li><b>Yaco me tamata</b> · sa yaco me tamata na Kalou (Emanuela, “sa tiko na Kalou kei keda”), ena vanua malumalumu ko Peceliema.</li><li><b>Cakacaka</b> · sa vakavulica na matanitu ni Kalou, sa vakabula na tauvimate, sa kacivi ira na tamata i valavala ca. “O koya sa raici au, sa raica na Tamaqu.”</li><li><b>Na kauveilatai</b> · sa saumi ena vukuda na isau ni ivalavala ca kei na mate a vakavuna na Bale (italanoa 2). Na Lami ni Lakosivia dina.</li><li><b>Tucake tale</b> · ena ikatolu ni siga sa tucake tale, ka voroka na kaukauwa ni ivalavala ca, na mate, kei Setani — sa rauta ga ena kauveilatai sa “vakamalumalumutaka na veiyalo vakatani kei na kaukauwa kecega… ka cakava me ra ka ni sarasara e matana levu ni sa liutaki ira yani ena qaqa” (Kolosa 2:15).</li></ul><p>O koya gona ko Jisu sai koya na noda <b>parofita dina</b> (vakaraitaka na sala ki vua na Kalou), na noda <b>bete dina</b> (sorovaki na ivalavala ca ena yagona), kei na noda <b>tui dina</b> (qaqa ena ivalavala ca, na mate, kei Setani, ka veiliutaki me tawamudu).</p>",
+   "next": "Sa tala yani ko Jisu sa tucake tale na nona tisaipeli ki vuravura…"
+  },
+  {
+   "tag": "VEIYALAYALATI VOU · TUBU CAKE",
+   "title": "Na Tekivu ni Lotu",
+   "date": "rauta 30 GM kina",
+   "one": "Sa lako mai na Yalo, ka sa kacivaki na kosipeli ki na iyalayala kei vuravura.",
+   "people": "Pita, Paula, na lotu makawa",
+   "events": "Na sobu mai ni Yalo ena Penitekosi, na sucu ni lotu, na kacivaki ni kosipeli mai Jerusalemi ki Roma ena loma ni veivakararawataki",
+   "q": "Dou na vakasinaiti ena kaukauwa ni sa sobuti kemudou na Yalo Tabu, ka dou na qai noqu i vakadinadina… ka yacova na i yalayala kei vuravura.",
+   "cite": "Cakacaka 1:8",
+   "christ": "Na italanoa oqo e se vakayacori tiko edaidai. Sa tinia na iVolatabu ena yalayala ni na lako tale mai ko Jisu ka vakavoui na veika kece (Vakatakila 21).",
+   "detail": "<p>Ni sa cake ki lomalagi ko Jisu, sa lako mai na Yalo a yalataki ena Penitekosi ka sa sucu na lotu. Sa kacivaki vakatotolo na kosipeli.</p><ul><li><b>Penitekosi</b> · ena vuku ni Yalo, era sa yaco me ivakadinadina yalodoudou na tisaipeli era a rere.</li><li><b>Pita</b> · sa kacivaka na kosipeli vei ira na kai Jiu e Jerusalemi.</li><li><b>Paula</b> · mai na dauveivakararawataki ki na yapositolo; sa tara lotu ena vuravura ni kai Matanitu Tani ka vola na ivola.</li><li><b>Ki na iyalayala kei vuravura</b> · Jerusalemi → Jutia → Samaria → Roma. Sa yaco dina na yalayala vei Eparama ni “veimatanitu kece.”</li><li><b>Kei keda</b> · e sega ni mudu na italanoa; e toso tiko ki na lesu mai i Jisu kei na lomalagi vou kei na vuravura vou.</li></ul>",
+   "next": "Ia e sega ni mudu eke na italanoa…"
+  },
+  {
+   "tag": "VEIYALAYALATI VOU · VAKAOTI",
+   "title": "Na Vakaduavata Tale (veika kece sa vou)",
+   "date": "se na yaco mai",
+   "one": "Sa lako tale mai ko Jisu ka vakavoui na veika kece.",
+   "people": "Jisu sa lako tale mai; na veimatanitu kece",
+   "events": "Na lako tale mai, na veilewai iotioti, na mudu ni ivalavala ca·mate·wainimata, na lomalagi vou kei na vuravura vou",
+   "q": "E na tavoya tani na wainimata kecega mai na matadra o koya. Ena sega tale na mate, ena sega na rarawa, se na tagi se na vutugu.",
+   "cite": "Vakatakila 21:4",
+   "christ": "Na Iteni ni imatai ni veibuli sa qai vakaduataki tale me “Jerusalemi Vou.” Sa tiko vata kei na nona tamata na Kalou me tawamudu — na sinai ni Emanuela (Vakatakila 21:3; Maciu 1:23).",
+   "detail": "<p>E sega ni mudu na iVolatabu ena gauna ni lotu. Na kena ivola iotioti, na Vakatakila, e vakaraitaka ko Jisu sa <b>lako tale mai</b> me vakaotia na veika kece.</p><ul><li><b>Na lako tale mai</b> · sa lesu mai ena lagilagi na tui a yalataki.</li><li><b>Na qaqa iotioti</b> · sa vakarusai me tawamudu ko Setani kei na mate, ka veiliutaki me Tui ni Tui ko Karisito (1 Korinica 15:25-26; Vakatakila 20:10).</li><li><b>Veilewai kei na tucake tale</b> · sa vakadodonutaki na ka cala kece, ka tucake tale na mate.</li><li><b>Lomalagi vou kei na vuravura vou</b> · na ivalavala ca, na mate, na wainimata, kei na rarawa sa takali tani me tawamudu (Vakatakila 21:4).</li><li><b>Na Iteni vakaduataki</b> · ena dua na “Jerusalemi Vou” vinaka cake mai na ivakatekivu, sa tiko vata kei na nona tamata na Kalou me tawamudu — na ikelekele e dusia tiko na iVolatabu taucoko.</li></ul><p>O koya gona oqo na gauna ni <b>“sa oti, ia sa bera tiko”</b>: vei Jisu sa <b>oti</b> na veivakabulai, ia na kena sinai sa <b>wawai</b> tiko.</p>",
+   "next": "Ia na kena ibalebale ni italanoa taucoko oqo vei “au” sa cava?"
+  }
+ ],
+ "love": [
+  "E sega ni tekivu ena veilewai na italanoa, ia ena dua na vuravura a buli ena loloma sivia.",
+  "Ena gauna sara ga a valavala ca kina na tamata, sa yalataka kina na Kalou na veivakabulai.",
+  "Sa lako liu mai na Kalou vua e dua a sega ni kilikili, kacivi koya ena yacana, ka cakava me vu ni veivakalougatataki.",
+  "Sa rogoca na vutugu ni tamata vakabobula ka lako sobu mai ko koya ga me vakabula ira.",
+  "Dina ga ni ra veivakacacani vakawasoma, ena veigauna era tagi cake kina sa tala mai e dua na dauveivakabula ka vakatabakidua tale ira.",
+  "Sega sara ni biuta ko Tevita a bale; ena vukuna sa yalataka e dua na tui tawamudu.",
+  "Vei ira na tamata era vukici koya, sa tala tiko ga kina na parofita, kerea, “Lesu mai mada.”",
+  "E sa lako sobu vata kei ira ki na vanua butobuto duadua ni veivakabobulataki, ka yalataka na vakaduataki tale.",
+  "Dina ga vei ira na tamata era cala vakawasoma, sega ni kauta tani na nona yalayala, ia sa vakatabakidua tale ira.",
+  "Dina ga ena 400 na yabaki ni galu, e sega ni rairai, sa vakavakarautaka tiko na sala ni veivakabulai.",
+  "Ni da se tamata i valavala ca tiko, sa tala mai na Luvena ka solia na nona bula.",
+  "Na loloma eda sa ciqoma, sa tala yani me tawasava ki vuravura taucoko.",
+  "Ena mudi ena tavoya tani na wainimata kecega ka vakavoui na veika kece ena loloma."
+ ],
+ "mis": [
+  {
+   "w": "“Na cava a buli kina na Kalou e dua e rawa ni valavala ca? E sega li ni vinaka cake me kakua ni buli?”",
+   "t": "A buli na vuravura kei na tamata na Kalou e sega ni baleta e dua na ka e leqa kina, ia ena loma ni loloma sivia. Na kena buli na tamata me <b>tamata e rawa ni veisemati kei na Kalou</b> sai koya ga na loloma. Ka na curu mai ga ni ivalavala ca e sega ni tiko ena tautua ni nona ituvatuva ni veivakabulai na Kalou (Efeso 1:4-5). Na imatai ni italanoa ni iVolatabu e sega ni veilewai ia sai koya na loloma."
+  },
+  {
+   "w": "“Ena vuku ni kania e dua ga na vua sa vakasevi ka sa solia talega vua na mate? E sega li ni dredre vakasivia na Kalou?”",
+   "t": "Na vakasevi mai Iteni sai koya na veilewai ka na loloma talega. Kevaka, ni sa tawasei mai na Kalou ka sa voroki, na tamata e kania na kau ni bula ka bula tawamudu, ena vesu tu ena rarawa me tawamudu (Vakatekivu 3:22). Na vakatara ni mate sai koya na dolavi ni dua na sala ni lesu; ka sa yalataka sara ga kina na Kalou e dua na Dauveivakabula (Vakatekivu 3:15). Sa tu oti na loloma ena loma ni veilewai."
+  },
+  {
+   "w": "“A digitaki ko Eparama ena nona vakabauta levu — era sega li ni qaqa vakaivalavala na tamata kece ni iVolatabu?”",
+   "t": "Sa lasu ka vakatitiqa talega ko Eparama, ka sa dauveivakaisini ko Jekope. E sega ni kacivi ira na “kilikili” na Kalou ia sa kacivi ira ena loloma na sega ni savasava. Na vuna ni veidigitaki e sega ni nodra vinaka ia sai koya na loloma yalodina ni Kalou (Vakarua ni Vunau 7:7-8)."
+  },
+  {
+   "w": "“Na Lawa (na vunau) e sega li ni dua na ivakatovotovo se ivakarau e dodonu mo rawata mo vakabulai kina?”",
+   "t": "Sa vakabula ira na Kalou <b>ni bera</b> ni solia na Lawa. Na Tini na Vunau sara ga e tekivu ena dua na vakaraitaki ni veivakabulai: “Sai au ko Jiova na nomuni Kalou, ka'u a kauti kemuni tani mai na vanua o Ijipita” (Lako Yani 20:2). Na Lawa e sega ni “muria mo bula kina,” ia sai koya na ivakasala ni loloma ki na ivalavala vei ira sa vakabula oti ena loloma wale (Vakarua ni Vunau 7:7-9). Na loloma e liu tiko ga; na talairawarawa sai koya na isau."
+  },
+  {
+   "w": "“Na qaqa ni Kenani sai koya na laba veivakararawataki — sa yalokaukauwa dina na Kalou ni Veiyalayalati Makawa.”",
+   "t": "Sai koya e dua na ulutaga dredre e sega ni wali ena dua na yatu vosa ka dodonu me qaravi vakavinaka. Ia e sega ni vakaraitaka na iVolatabu me veivakararawataki wale ga, ia me veilewai ni oti na vuqa na senitiuri ni vosota na ca levu (wili kina na vakacaboti ni gone) (Vakatekivu 15:16; Vakarua ni Vunau 9:4-5; Vunau ni Soro 18:24-25). E sega ni totolo na Kalou ena veilewai, ka sa ciqoma ena reki o koya sa vukici koya, dina ga me kai tani me vaka ko Reapi kei Ruci (Josua 6:25; Ruci 4:13-17)."
+  },
+  {
+   "w": "“E qaqa tawacala ko Tevita — o koya gona a vakatokai kina me ‘tamata e vinakati koya na loma ni Kalou.’”",
+   "t": "Sa cakava na veibutakoci kei na laba talega ko Tevita. Na “tamata e vinakati koya na loma ni Kalou” e sega ni kena ibalebale e qaqa tawacala, ia o koya e sega ni vuna na nona ivalavala ca — sa veivutuni titobu ka sa lesu tiko ga ki na Kalou (Same 51). Na loloma ni Kalou e sega ni biuta o koya sa bale vakaca."
+  },
+  {
+   "w": "“Na parofita sai koya e dau parofisaitaka na ka ena yaco mai muri; na Kalou ni Veiyalayalati Makawa e cudru ga.”",
+   "t": "Na kena uto ni parofita e sega ni “parofisaitaka na ka ena yaco” ia sai koya na tagicake yalovinaka ni Kalou: “lesu mai mada.” Na ivakasala ni veilewai e sega ni vinakata me vakarusa ia me vukici ira mai me bula: “au sa sega ni vinakata se marautaka me mate na tamata ca” (Isikeli 33:11)."
+  },
+  {
+   "w": "“Na veivakabobulataki e vakadinadinataka ni sa biu kece sara na Isireli na Kalou.”",
+   "t": "Na veivakabobulataki e sega ni biu wale, ia sai koya na vakavulici kei na vakasavasavataki ni dua na Tama vua na luvena lomani (Iperiu 12:6). E sega ni biuta na Kalou; sa tiko vata kei Taniela ena loma sara ni veivakabobulataki ka yalataka, “au sa kila na noqu i naki ena vukumuni, na noqu i naki mo ni tiko vinaka me vaka o ni sa nuitaka me na yaco mai muri” (Jeremaia 29:11)."
+  },
+  null,
+  {
+   "w": "“Kevaka e sega na vosa ena 400 na yabaki, e biu se vakacegu li na Kalou?”",
+   "t": "Na galu e sega ni kena ibalebale e yali. Sa sega ga ni vosa; ena gauna taucoko o ya sa vukica na matanitu lelevu, na vosa, kei na sala me vakavakarautaka na vanua ni veivakabulai. Ena gauna galu duadua, sa cakacaka vakaukauwa duadua na Kalou ena loloma (Kalatia 4:4)."
+  },
+  {
+   "w": "“Ko Jisu e dua ga na vunau vinaka ni ivakavuvuli; na kauveilatai sai koya na qaqa rarawa.”",
+   "t": "Sa kaya ko Jisu ni Kalou ko koya (Joni 8:58), ka na kauveilatai e sega ni dua na ka veisau wale se qaqa rarawa, ia sai koya na loloma vakatuvanaki. E sega ni kauti vakasaurarataki kina; sa solia ga na nona bula ena nona via (Joni 10:18). “Na loloma cecere duadua e rawa ni solia e dua na tamata vei ira na wekana sai koya me solia na nona bula ena vukudra” (Joni 15:13)."
+  },
+  {
+   "w": "“Na lotu sai koya e dua na isoqosoqo ni tamata savasava, se vale ga.”",
+   "t": "Na lotu e sega ni dua na isoqosoqo ni “yalododonu savasava” ia sai koya na <b>tamata i valavala ca sa vosoti</b>. Na yapositolo ko Paula sara ga sa vakatokai koya “na tamata i valavala ca levu duadua” (1 Timoci 1:15). Na lotu makawa sa veiba ka cala talega (Cakacaka 6:1; 1 Korinica 1:11). E sega ni vanua ni viavialevu, ia sai ira na tamata era kauta yani na loloma era sa ciqoma (Joni 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Ivalavala ca makawa — e sega e dua e dodonu",
+   "body": "Na leqa e sega ni “vica na ivalavala ca” ia sai koya na vu ni lomada. Mai vei Atama, era sucu ena ruku ni ivalavala ca na tamata kece ka sega ni rawa ni yaco vakataki ira ki na Kalou.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Sa sega sara ni dua na tamata e i valavala dodonu, E sega mada ga ni bau dua… ni sai valavala ca na tamata kecega ka sa yawa tani sara mai na nona veivakabulai na Kalou."
+  },
+  {
+   "title": "Na Lawa e sega ni rawa ni vakabula au",
+   "body": "Na Lawa e sega ni dua na ikabakaba ia sai koya na iloilo. Ni au saga vakaukauwa cake, sa vakaraitaka cake ni au cala vakaevei. Na kena inaki me tuberi keda ki vei Karisito.",
+   "vref": "Roma 3:20 · Kalatia 3:24",
+   "vtext": "Na ka ga e kitaka na Lawa sai koya me vakatakila vua na tamata ni sa caka cala… Sa qai yaco kina na Lawa me tuberi keda ki na bula vakaivakarau me yacova na tadu mai nei Karisito."
+  },
+  {
+   "title": "Ena loloma wale — isolisoli, e sega ni saga",
+   "body": "Na veivakabulai e sega ni isau ni cakacaka eda vakarautaka, ia sai koya na isolisoli wale ni Kalou vei ira era sega ni kilikili. O koya gona e sega ni dua e rawa ni dokadoka.",
+   "vref": "Efeso 2:8-9",
+   "vtext": "Ni sa lolomasavu walega ni Kalou o ni sa vakabulai kina ena vuku ni vakabauti Karisito… E sega ni vua ni cakacaka, me kakua ni dua me dokadokai koya kina."
+  },
+  {
+   "title": "Vakadonui ena vakabauta",
+   "body": "E sega ni ena muria na Lawa, ia ena vakabauti Jisu Karisito eda vakadonui kina — eda sega ni vakaisulu ena noda ivalavala dodonu, ia ena nona.",
+   "vref": "Roma 5:1 · Kalatia 2:16",
+   "vtext": "Ni sa vakadonui keda vakaoqo na Kalou ena vuku ni vakabauta… ni sa vakadonui na tamata mai vua na Kalou ena vuku ni nona vakabauti Jisu Karisito, ka segai ena vuku ni kena muri na veika e vinakata na Lawa."
+  },
+  {
+   "title": "Na iVolatabu e dusia ko Jisu",
+   "body": "Na iVolatabu e sega ni ivola ni tamata cecere se ivola ni veivuke vakataki keda. Mai na Vakatekivu ki na Vakatakila, na tabana kece e vakadinadinataka e dua na tamata — ko Jisu Karisito.",
+   "vref": "Joni 5:39 · Luke 24:27",
+   "vtext": "Na i Vola Tabu oqo sa tukuni au ga!… Sa qai vakamacalataka vei rau ko Jisu na veika e tukuni tu me baleti koya ena i Vola Tabu taucoko."
+  },
+  {
+   "title": "Na matanitu ni Kalou — na uto ni itukutuku i Jisu",
+   "body": "Na ulutaga a vakavulica vakalevu ko Jisu. Na matanitu e veiliutaki kina na Kalou me tui sa curu mai ki vuravura kei Jisu ka na vakaoti ena nona lako tale mai. Ena kauveilatai kei na tucake tale, ko Jisu sai koya na Tui dina sa qaqa ena ivalavala ca, na mate, kei Setani.",
+   "vref": "Marika 1:15",
+   "vtext": "Sa qai yaco mai na kena gauna, ka sa voleka na matanitu ni Kalou. Ni veivutuni ka vakabauta na i Tukutuku Vinaka!"
+  },
+  {
+   "title": "Na kosipeli — sa vakaotia kece ko koya",
+   "body": "Na dinau ni ivalavala ca au sega ni rawa ni saumi, sa saumi ko Jisu ena noqu yasana ena kauveilatai, ka ena tucake tale sa qaqa na mate. Au sega ni vakararavi ena “cakava oqo” ia ena “sa oti.”",
+   "vref": "Joni 19:30 · Roma 5:8",
+   "vtext": "Sa oti!… ka ni da se bula voli ga ena i valavala ca, a sa mai mate oti na Karisito ena vukuda!"
+  }
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "menuName": "Lea fakatonga",
+ "htmlLang": "to",
+ "dir": "ltr",
+ "brand": "Tohitapu ʻi he Takotaha",
+ "docTitle": "Tohitapu ʻi he Takotaha · Mei he Fakatupu ki he Siasi",
+ "share": {
+  "title": "Tohitapu ʻi he Takotaha",
+  "text": "ʻI he takotaha pē, ʻiloʻi ʻa e talanoa lahi ʻo e Tohitapu — pea mo e ʻuhinga naʻe haʻu ai ʻa Sīsū."
+ },
+ "ui": {
+  "people": "Kakai",
+  "events": "Ngaahi meʻa mahuʻinga",
+  "christLabel": "Tuhu kia Sīsū",
+  "loveLabel": "ʻOfa ʻoku ʻikai tukulolo",
+  "mythWrong": "Fehālaaki angamaheni",
+  "mythRight": "Ko hono moʻoni",
+  "more": "Lau lahi ange",
+  "version": "(TMB)"
+ },
+ "labels": {
+  "start": "Kamata",
+  "thread": "Talanoa",
+  "gospel": "Ko e Ongoongolelei",
+  "about": "Fekauʻaki"
+ },
+ "s": {
+  "ui.share": "↗ Vahevahe",
+  "ui.toast": "Kuo hiki ʻa e fehokotakiʻanga 📋",
+  "ui.footer": "Tohitapu ʻi he Takotaha · ʻOku toʻo ʻa e ngaahi konga Tohitapu mei he TMB",
+  "hero.kicker": "MEI HE FAKATUPU KI HE SIASI",
+  "hero.title": "Ko e Tohitapu,<br><span class='em'>ʻi he takotaha</span>",
+  "hero.sub": "ʻI he takotaha pē, ʻiloʻi ʻa e talanoa lahi ʻo e Tohitapu — pea mo e ʻuhinga naʻe haʻu ai ʻa Sīsū.",
+  "hero.cue": "Tāʻaki ki lalo<span>↓</span>",
+  "thread.eyebrow": "KO E SENITENISI ʻE TAHA ʻOKU NE HAʻI KOTOA",
+  "thread.h2": "ʻI hono fakaʻosi, ko e talanoa pē ʻe taha ʻa e Tohitapu",
+  "thread.flow": "<b>Talaʻofa</b><span class='arw'>→</span><b>Tatali</b><span class='arw'>→</span><b>Fakahoko</b>",
+  "thread.note": "ʻOku <b>talaʻofa</b> ʻa e ʻOtua (ko e fuakava), ʻoku <b>tatali</b> ʻa e kakai ʻo fuoloa, pea ʻi he ʻosi ʻoku <b>fakahoko</b> mo fakakakato kotoa ʻia Sīsū. Muimui ʻi he ngaahi vāhenga ʻe 13 ʻi lalo ʻi he founga ko ia — lomiʻi ʻa e <b>“Lau lahi ange”</b> ʻi he kāti taki taha ki he talanoa loloto ange.",
+  "gospel.eyebrow": "KO E ʻUHINGA ʻO E TALANOA NI KIA “AU”",
+  "gospel.h2": "Ko e loto moʻoni ʻo e Tohitapu",
+  "gospel.lead": "ʻOku <b>ʻikai ko ha tohi-ako ʻo e “hoko ko ha tokotaha lelei”</b> ʻa e Tohitapu.",
+  "gospel.sublead": "Ko e talanoa ia ʻo e founga ʻo e fakahaofi ʻe he ʻOtua, <b>ʻi he kelesi pē</b>, ʻa e kau angahala naʻe ʻikai te nau lava ʻo fakamoʻui kinautolu. ʻI hono loto ʻoku tuʻu ʻa Sīsū Kalaisi.",
+  "gospel.mirror": "<h3>Ko e taʻengata ʻo e takai ʻa ʻIsileli ko e fakatātā moʻoni ia kia “au”</h3><div class='cycle'><b>Tauhi ʻaitoli</b><span class='a'>→</span><b>Mamahi</b><span class='a'>→</span><b>Tangi</b><span class='a'>→</span><b>Fakahaofi ʻe he ʻOtua</b><span class='a'>→</span><b>Toe tauhi ʻaitoli…</b></div><p>Mei he Kau Fakamaau ki he ave pōpula, naʻe toutou fai ʻe ʻIsileli ʻa e takai ni ʻo taʻengata. Naʻe ʻikai hiki ia ʻe he Tohitapu koeʻuhi ke tau manuki, “Naʻa nau matamata fakaʻofaʻofa.”</p><p>Ko ha <b>sioʻata</b> ia. ʻOku ʻikai ko e poini, “Naʻe fai pehē ʻa ʻIsileli,” ka ko e <b>“ʻOku ou fai pehē foki au”</b> (Kolinitō 1 10:11).</p><p>Ko ha <b>ʻaitoli</b> ʻoku ʻikai ko ha tamapua tongitongi pē. Ko <b>ha meʻa pē ʻoku tau ʻofa pe falala ki ai ʻo lahi ange ʻi he ʻOtua</b> — paʻanga, lavameʻa, fakaʻapaʻapaʻi, kakai, naʻa mo au tonu. Pea ko hono ngāueʻaki ʻo e ʻOtua ko ha <b>meʻangāue ke maʻu ʻeku faʻiteliha</b> ko e tauhi ʻaitoli foki ia.</p><p class='punch'>ʻI he ʻosi, ko e ʻaitoli loloto taha ko “au tonu, ʻoku nofo ʻi he taloni ʻo e ʻOtua.”</p>",
+  "gospel.coreIntro": "Ko ia, ʻoku fēfē hono fakamoʻui ʻe he ʻOtua ʻa e angahala peheni? Ko e loto eni ʻo e ongoongolelei ʻoku fanongonongo ʻe he Tohitapu.",
+  "gospel.crux": "<p class='crux-lead'>ʻOku tuhu kotoa ʻa e Tohitapu ki he potu pē ʻe taha.</p><p>Naʻe ʻikai lava ʻe he tangata ʻo motuhi tokotaha ʻa e takai ʻo e angahala, pea naʻe ʻikai ha tokotaha māʻoniʻoni ʻe taha. Ko ia naʻe pau ke <b>totongi ʻe ha taha hono totongi ʻi honau fetongi</b>.</p><p>Naʻe ʻikai haʻu pē ʻa Sīsū ke ʻomi ha akonaki lelei. Naʻe haʻu ia koeʻuhi <b>naʻe ʻikai ha toe hala ke fakamoʻui ai au</b>: naʻe pau ke ne haʻu.</p><p class='crux-punch'>Ko ia naʻe totonu ke tautau ʻi he kolosi ko <b>au</b>.<br>Naʻe fua ʻe Sīsū ʻa <b>ʻeku angahala</b> ʻo tutuki ai ʻi hoku fetongi.</p><div class='crux-verse'>«Na‘e fai hono hoka‘i koe‘uhi ko e ngaahi angahala ‘atautolu, na‘e tuki ia koe‘uhi ko ‘etau ngaahi hia… pea ko hono ngaahi tā ko hotau faito‘o ia.» — ʻIsaia 53:5</div>",
+  "faq.h": "ʻOku kei fefakakaukauʻaki ha meʻa?",
+  "faq.q1": "<span class='arr'>▸</span> Ko ia ko ha fakapō ʻoku tui pē kuo ne ʻalu ki Hēvani, kae ʻalu ki Heli ha taha naʻe moʻui lelei kae ʻikai tui?",
+  "faq.a1": "<p>Ko ha fehuʻi totonu ia. Ka ʻoku toʻo ai ʻa e fehālaaki ʻe ua.</p><p><b>① ʻOku ʻikai vaheua ʻe he Tohitapu ʻa e kakai ki he “lelei mo kovi.”</b> Ko e fua ʻoku ʻikai ko e “lelei ange ʻi ho kaungāʻapi,” ka ko e “māʻoniʻoni haohaoa ʻo e ʻOtua.” ʻI hono ʻao, ʻoku ʻikai ha taha ʻoku “lelei feʻunga” (Loma 3:23). Ko ia ʻoku ʻikai ko e “tangata lelei mo ha fakapō,” ka ʻoku hangē ko ha tokotaha ʻe ua ʻoku mate fakatouʻosi ʻi he mahaki tatau — ʻoku maʻu ʻe he taha ʻa e faitoʻo, kae fakafisi ʻa e taha, ʻo pehē, “ʻOku ou moʻui lelei ange ʻiate ia.”</p><p><b>② Ko e meʻa pē ʻe taha ʻoku ne vaheua ʻa Hēvani mo Heli.</b> ʻOku ʻikai ko e fika ʻo e ngāue, ka ko <b>e maʻu ʻe koe ʻa Sīsū Kalaisi ko e ʻEiki pea kuo fakalelei ʻa hoʻo palopalema ʻo e angahala</b>. Ko ia kuo fakalelei ʻene angahala ʻi he taʻataʻa ʻo Kalaisi ʻoku ʻalu ki Hēvani; ko ia ʻoku ʻikai te ne maʻu ia, ʻo kei toe ʻene angahala, ʻoku ʻikai. ʻOku ʻikai ha ngāue lelei ʻe lava ʻo fakalelei maʻau ʻa e palopalema ʻo e angahala tonu.</p><p>Ko ia ʻoku ʻikai ko ha “pale ki he ʻulungaanga lelei” ʻa Hēvani mo Heli, ka ko ha meʻa ʻo e <b>vā mo Kalaisi</b>. Pea ko e “tui” ʻoku ʻikai ko ha loto-tuiaki pē ʻo e ʻatamai, ka ko ha liliu ʻo e taha ʻoku ne puleʻi ho moʻui: ko ia ʻoku ne maʻu moʻoni ia ʻoku ʻikai ke ne hoko ʻo loto-fielahi, ka ʻoku fakatomala loloto ange. Ko hono moʻoni, ko e fakatonuhia-au-tonu (“ʻOku ou lelei”) ko e ʻaitoli faingataʻa taha ke motuhi, ʻa ia ʻoku ne pule ke tau pehē ʻoku ʻikai te tau fie maʻu ʻa Kalaisi (Luké 18:9-14).</p><p>ʻOku lea mahino ʻa e Tohitapu: <b>«Ko ia ‘oku tui pīkitai kiate ia ‘oku ‘ikai ke fakamaau ia; ka ko ia ‘oku ‘ikai ke tui, kuo ‘osi fakamaau ia»</b> (Sione 3:18). ʻOku ʻikai ko e fakamaau ha “fakafua ho moʻui hili hoʻo mate,” ka kuo ʻosi fakapapauʻi ia ʻo fakatatau ki he <b>maʻu ʻe koe ʻa Kalaisi</b>.</p><p class='faq-v'>Loma 3:23 · Sione 3:18 · ʻEfeso 2:8-9 · Luké 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> ʻIkai ʻe feʻunga pē ʻeku moʻui lelei, neongo ʻoku ʻikai te u tui kia Sīsū?",
+  "faq.a2": "<p>Ko e fakakaukau angamaheni taha ia, ka ʻoku ne fehālaaki ʻa e “palopalema moʻoni.” Vakai ki ha fakatātā.</p><p><b>Fakakaukau ʻoku ke ʻi ha vaka kaihaʻa.</b> Neongo hoʻo fakamaʻa ʻa e fukahivaka, mo hoʻo angalelei ki he kau folau, mo hoʻo moʻui fakaʻofoʻofa — ʻoku ke kei <b>kaihaʻa</b> pē, koeʻuhi ʻoku ʻave koe ʻe he vaka ki hono ʻalu (ko e taulanga ʻo e fakamaau). ʻOku ʻikai ko e palopalema ko e “fika ʻo hoʻo ngaahi ngāue,” ka ko e <b>“vaka fē ʻoku ke kau ki ai” (ko ho tuʻunga)</b>.</p><p>Ko ia ʻoku ʻikai pehē ʻe he ongoongolelei “feinga ke lelei ange,” ka ʻoku pehē <b>“liliu vaka.”</b> Hifo mei he vaka ʻo e angahala ʻo hāʻele ki he vaka ʻo Sīsū: ki he tuʻunga foʻou ko ha <b>tama ʻa e ʻOtua</b>. ʻOku ʻikai ko hono fakahake ho fika ʻaki ʻa e feinga, ka ko hono falala ki he tokotaha ʻoku ne mafao mai hono nima ʻo aʻa atu ki hono vaka.</p><p>Ko hono moʻoni, ʻoku fakamatalaʻi ʻe he Tohitapu ʻa e fakamoʻui ʻo hangē tofu pē ko e hiki ko ia: <b>«na‘a ne hamusi kitautolu mei he pule ‘a Po‘uli, mo ne hiki kitautolu ki he pule‘anga ‘o hono ‘Alo ‘Ofa‘anga»</b> (Kolose 1:13).</p><p>ʻOua ʻe fehālaaki: <b>ʻoku ʻikai ʻuhinga ia ʻoku ʻikai mahuʻinga ʻa e moʻui lelei.</b> Ka ko e lelei ʻoku ʻikai ko e “tuʻutuʻuni” ʻo e fakamoʻui, ka ko hono <b>fua</b>. Ko ia kuo liliu vaka ʻoku moʻui lelei ʻo ʻikai ʻi he manavahē, ka ʻi he <b>ʻofa ʻa ha tama</b>.</p><p class='faq-v'>Kolose 1:13 · Sione 1:12 · Sione 3:3 · ʻEfeso 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Kapau ʻoku nofo melino ʻa e tokotaha fai kovi, ʻo ne pehē “Kuo fakamolemoleʻi au ʻe he ʻOtua,” kae kei mamahi ʻa e tokotaha naʻe fakamamahiʻi — ʻikai ʻoku maʻamaʻa fau ʻa e kelesi?",
+  "faq.a3": "<p>ʻOku totonu ʻa e fehuʻi, pea ʻoku moʻoni ʻa e mamahi. Ka ko e fakamatala peheni ʻoku ʻikai ko e “fakamolemole ʻa e Tohitapu” — ka ko hano <b>fakakehe</b>.</p><p><b>① ʻOku ʻikai ʻaupito maʻamaʻa ʻa e fakamolemole ʻa e ʻOtua.</b> ʻOku ʻikai pulou ʻa e angahala ʻo hangē naʻe ʻikai ke hoko; naʻe totongi ia ʻe he ʻOtua tonu ʻaki ʻa e moʻui ʻo hono ʻAlo. ʻOku ʻikai ko e fakamoʻoni ʻa e kolosi ʻoku maʻamaʻa ʻa e angahala, ka ʻoku mamafa pehē fau ia: ko e fakamolemole mahuʻinga taha ʻi māmani.</p><p><b>② ʻOku fua ʻe he fakatomala moʻoni.</b> Kapau ʻoku loto-fielahi ʻa e tokotaha fai kovi ʻi he ʻao ʻo e tokotaha naʻe fakamamahiʻi — “Kuo fakamolemoleʻi au ʻe he ʻOtua, ko ia ʻoku ou melino” — ʻoku ʻikai ko ha fakatomala ia, ka ko hano fakaʻoʻona (Mātiú 3:8). Pea ko e fakamolemole ʻi he vā ʻo e tangata mo e ʻOtua ʻoku ʻikai ke ne tāmateʻi ʻa e lavea ʻo e tokotaha naʻe fakamamahiʻi, pe fakamālohiʻi ia ke ne fakamolemole.</p><p><b>③ ʻOku ʻikai ʻaupito “fakangalongaloʻi” ʻa e angahala.</b> ʻOku totongi ʻa e angahala kotoa ʻi he potu ʻe taha ʻo e ua: <b>ʻe fua ia ʻe Kalaisi ʻi he kolosi</b> (kiate kinautolu ʻoku tui ʻoku ʻikai toe ha fakamaau, Loma 8:1), <b>pe ʻe fua ʻe he tokotaha ʻoku ne fakafisi ki ai ʻo aʻu ki he ngataʻanga.</b> Ko ia ʻoku ʻikai ha “fakamolemole maʻamaʻa.” ʻOku kei fua foki ʻe he tokotaha fai kovi ʻa e fatongia fakalao ʻi māmani (Loma 13:1-4).</p><p><b>④ ʻOku ʻikai ʻaupito siʻisiʻi ʻi he ʻao ʻo e ʻOtua ʻa e loʻimata ʻo e tokotaha naʻe fakamamahiʻi.</b> ʻOku tangi mo e ʻOtua ʻiate kinautolu ʻoku tangi, ʻo ne manatuʻi ʻa e loʻimata kotoa, pea te ne holoholo tokotaha ia ʻi he ʻosi (Fakahā 21:4). Ko ia ʻoku ʻikai pau ke fua tokotaha ʻe he tokotaha naʻe fakamamahiʻi ʻa e mafasia ʻo e sauni, ka ʻe lava ke ne tukuange ia ki he ʻOtua māʻoniʻoni (Loma 12:19 — «‘Oku ‘a‘aku ‘a e sauni; ko au te u ‘atu hono tuha–ko e folofola ē ‘a e ‘Eiki»).</p><p class='faq-v'>Mātiú 3:8 · Loma 8:1 · Loma 13:1-4 · Fakahā 21:4</p>",
+  "respond.h3": "Ko ia — ko e hā ʻiate au?",
+  "respond.sub": "Ko e ʻofa ni ʻoku ʻikai ko ha fakamatala ka ko ha <b>fakaafe</b>. Kapau kuo ala ki ho loto ʻa e ʻofa ko ia naʻe tutuki ʻi ho fetongi, lotu ʻaki eni ʻo māmālie, ʻo laine taki taha.",
+  "respond.prayer": "<p>ʻE ʻOtua,</p><p>ʻoku ou fakahā ko ha angahala au ʻoku ʻikai te u lava ʻo fakamoʻui au.</p><p>ʻOku ou tui naʻe pekia ʻa Sīsū maʻaku ʻi he kolosi ʻo ne toetuʻu.</p><p>Fakamolemoleʻi ʻeku angahala kotoa, pea kamata mei he ʻaho ni ke ke ʻEiki ʻo ʻeku moʻui.</p><p>Maʻu au ko hoʻo tama, pea fakaʻata au ke u moʻui ʻi ha moʻui foʻou.</p><p class='amen'>ʻOku ou lotu ʻi he huafa ʻo Sīsū. ʻEmeni.</p>",
+  "respond.after": "Kapau naʻa ke lotu loto-moʻoni ʻaki eni, ʻoku pehē ʻe he Tohitapu kuo ke <b>hoko ko ha tama ʻa e ʻOtua</b>. ʻOku ʻikai te ke kei tokotaha — kumi ha siasi ofi pea ʻalu fakataha ʻi he hala ʻo e tui.",
+  "respond.verse": "«ʻIlonga kinautolu na‘e ma‘u ia, na‘a ne fakamafai‘i kinautolu ke hoko ko e fānau ‘a e ‘Otua, ‘io, ‘a kinautolu ‘oku tui pīkitai ki hono huafa.» — Sione 1:12 · Loma 10:9-10",
+  "closing.main": "Ko e ʻOtua pē ʻe taha,<br>ʻi he talanoa pē ʻe taha,<br>ʻoku ne kumi kitautolu ʻaki ha<br><em>ʻofa</em> ʻoku ʻikai ʻaupito tukulolo.",
+  "closing.verse": "«ʻOku te tui, ‘e ‘ikai lava ‘e he mate, pe ko e mo‘ui… pe ko ha me‘a ‘e taha ‘i Natula, ‘e ‘ikai te ne lava ke motuhi kitautolu mei he ‘ofa ‘a e ‘Otua, ‘a ia ‘oku ‘ia Kalaisi Sīsū ko hotau ‘Eiki.» — Loma 8:38-39",
+  "closing.small": "ʻI he talanoa ni, ʻoku tānaki ʻe he Lao, ngaahi tohi fakamavava, kau palōfita, mo e ngaahi tohi ʻa e “kakano.”<br>Mei heni, ʻilonga ʻa e tohi ʻoku ke fakaava, te ke ʻiloʻi “ʻa e potu ʻoku ke ʻi ai ʻi he talanoa.”",
+  "closing.share": "↗ Vahevahe ʻa e talanoa ni",
+  "about.line": "ʻOku fakatefito ʻa e ngaahi meʻa ʻi he vakai <b>fakahisitōlia-fakahaofi, fakaongoongolelei mo fakatonutonu (Reformed)</b> ʻoku vahevahe ʻe he tokolahi ʻo e siasi Polotisiteni Kōlea.",
+  "about.contact": "Ngaahi fehuʻi · fakamatala — <a id='contact' class='mail'>ʻImeili mai</a>"
+ },
+ "epochs": [
+  {
+   "tag": "TT · KAMATAʻANGA",
+   "title": "Fakatupu",
+   "date": "ʻI he kamataʻanga",
+   "one": "Naʻe fakatupu ʻe he ʻOtua ha māmani naʻe “lelei ʻaupito.”",
+   "people": "ʻOtua; ʻAtama mo ʻIvi",
+   "events": "Ngaahi ʻaho fakatupu ʻe ono, fakatupu ʻa e tangata ʻi he ʻīmisi ʻo e ʻOtua, ʻa e Sāpate mālōlō",
+   "q": "ʻI he kamata‘anga na‘e fakatupu ‘e he ‘Otua ‘a e ngaahi langi mo māmani.",
+   "cite": "Senesi 1:1",
+   "christ": "Naʻe fakatupu ʻa māmani ʻi he “Folofola.” ʻOku fakahā ʻe he Kōsipeli ʻa Sione ko e Folofola ko ia ko Sīsū tonu ia (Sione 1:1-3).",
+   "detail": "<p>ʻOku ʻikai kamata ʻa e Tohitapu ʻaki ha fakakaukau fakafilosofia, ka ʻaki ha fakahā: <b>“ʻI he kamataʻanga, ko e ʻOtua…”</b>. ʻOku ʻikai ko ha faingataʻaʻia ʻa māmani, ka ko e ngāue ʻa ha ʻOtua fakafoʻituitui.</p><ul><li><b>ʻĪmisi ʻo e ʻOtua</b> · ko e tangata pē naʻe ngaohi ke hangē ko e ʻOtua, ke ʻiloʻi ia mo tauhi māmani.</li><li><b>Mālōlō</b> · ʻoku fakahā ʻe he mālōlō ʻo e ʻaho hofitu naʻe kakato kotoa mo melino (shalom): “naʻe lelei ia.”</li><li><b>ʻIteni</b> · ko māmani ʻi he teʻeki maumauʻi, ʻa ia ʻoku ʻaʻeva fakataha ai ʻa e ʻOtua mo e tangata.</li></ul>",
+   "next": "Ka ʻoku teu ke maumauʻi ʻa e kakato ni…"
+  },
+  {
+   "tag": "TT · KAMATAʻANGA ʻO E PALOPALEMA",
+   "title": "Ko e Hinga",
+   "date": "ʻI he kamataʻanga",
+   "one": "Naʻe hū mai ʻa e angahala, pea motuhi ʻa e vā ʻo e tangata mo e ʻOtua.",
+   "people": "ʻAtama mo ʻIvi; ʻa e ngata (Sētane)",
+   "events": "Kai ʻa e fua tapu, kapusi mei ʻIteni, hū mai ʻa e mate mo e ngāue mamahi",
+   "q": "Te u ‘ai ke mo fetāufehi‘a‘aki, ‘a koe mo e fefine… ‘e laiki ‘e ia ho ‘ulu.",
+   "cite": "Senesi 3:15",
+   "christ": "Ko e talaʻofa ʻuluaki ʻo e ongoongolelei, naʻe foaki tonu hili ʻa e Hinga: ʻe laiki ʻe he “hako ʻo e fefine” ʻa e ʻulu ʻo e ngata — pea ko Sīsū ia (Senesi 3:15; Loma 16:20; Kaletia 4:4).",
+   "detail": "<p>ʻI he talangataʻa ʻo e fie “tatau mo e ʻOtua,” naʻe hū mai ai ʻa e angahala ki māmani. Ko hono ola ʻoku ʻikai ko e maumau pē ʻo ha lao, ka ko e <b>maumau ʻo e ngaahi vā</b>.</p><ul><li><b>Vā maumau</b> · mo e ʻOtua (toitoi), mo e niʻihi kehe (tukuakiʻi), mo e natula (talatala mo e ngāue mamahi).</li><li><b>Mate</b> · ʻoku hoko moʻoni ʻa e fakatokanga “te ke mate moʻoni.”</li><li><b>Senesi 3:15</b> · ka ʻi he loto ʻo e fakamaau, ʻoku tomuʻa haʻu ai ha talaʻofa ʻo e fakahaofi. ʻOku ui ia ʻe he kau mataotao ko e <b>“protoevangelium” (ko e ongoongolelei ʻuluaki)</b>.</li></ul>",
+   "next": "Ko ʻeni ʻoku ui ʻe he ʻOtua ha tangata pē ʻe taha ke kamata ʻa e fakahaofi…"
+  },
+  {
+   "tag": "TT · TALAʻOFA",
+   "title": "Kau Tamai Motuʻa",
+   "date": "c. 2000 KM",
+   "one": "ʻOku talaʻofa ʻe he ʻOtua kia ʻEpalahame, “Te ke hoko ko e halaʻanga ʻo e monū.”",
+   "people": "ʻEpalahame · ʻAisake · Sēkope · Siosefa",
+   "events": "Ko e fuakava mo ʻEpalahame, hono haʻisia ʻo ʻAisake, ngaahi foha ʻe toko hongofulu ma ua ʻo Sēkope, hoko ʻa Siosefa ko e pule ʻi ʻIsipite",
+   "q": "Te u ngaohi koe ko e pule‘anga lahi… pea ‘e monū‘ia ‘iate koe ‘a e fa‘ahinga kotoa pē ‘o e kelekele.",
+   "cite": "Senesi 12:2-3",
+   "christ": "Ko e talaʻofa ʻe “monūʻia ʻa e faʻahinga kotoa” ʻoku fakahoko ʻia Sīsū, ko e hako ʻo ʻEpalahame (Kaletia 3:16).",
+   "detail": "<p>ʻOku kamata ʻe he ʻOtua ke fakalelei ʻa e palopalema ʻo e faʻahinga ʻo e tangata kotoa ʻaki hono ui ha tangata pē ʻe taha, <b>ʻEpalahame</b>. Ko hono loto ko e <b>fuakava (talaʻofa)</b>: ko e puleʻanga lahi, ko e fonua, mo e “monū ki he faʻahinga kotoa.”</p><ul><li><b>Tui</b> · naʻe tui ʻe ʻEpalahame ki he talaʻofa taʻehāmai, pea naʻe lau ia ko ʻene māʻoniʻoni (Senesi 15:6).</li><li><b>ʻAisake mo Sēkope</b> · ʻoku fou atu ʻa e talaʻofa ki he toʻutangata hoko; ko Sēkope (ʻIsileli) ko e tamai ʻo e ngaahi matakali ʻe hongofulu ma ua.</li><li><b>Siosefa</b> · naʻe fakatau ʻe hono kāinga ka naʻe hakeakiʻi ki he pule — “naʻe ʻai ia ʻe he ʻOtua ke lelei” (Senesi 50:20).</li></ul>",
+   "next": "ʻI he muimui ʻia Siosefa, ʻoku ʻalu hifo ʻa e fāmili ki ʻIsipite — pea hoko ʻo pōpula…"
+  },
+  {
+   "tag": "TT · FAKAHAOFI",
+   "title": "ʻEkisoto mo e Toafa",
+   "date": "c. 1446 KM",
+   "one": "Naʻe fakahaofi ʻe he ʻOtua ha kakai pōpula ʻo ne ngaohi ke ʻoʻona.",
+   "people": "Mōsese, ʻElone, Felo",
+   "events": "Ngaahi mala ʻe hongofulu, Lakaatu (Pasova), aʻa ʻi he Tahi Kulokula, Ngaahi Fekau ʻe Hongofulu ʻi Sainai, ʻa e tāpanekale, taʻu ʻe 40 ʻi he toafa",
+   "q": "Te u to‘o kimoutolu mo‘oku kakai, pea te u nofo ko homou ‘Otua.",
+   "cite": "ʻEkisoto 6:7",
+   "christ": "Ko e Lakaatu — ʻa ia naʻe fakaafe ʻe he taʻataʻa ʻo e lami ʻa e mate — ʻoku tuhu ia kia Sīsū, “hotau lami ʻo e Lakaatu,” naʻe tutuki maʻatautolu (Kolinitō 1 5:7).",
+   "detail": "<p>Ko e fakahaofi lahi taha ʻo e Tuʻutuʻuni Motuʻa. Ko ʻIsileli, ʻa ia naʻe pōpula, ʻoku fakatauʻatāina ʻe he mālohi ʻo e ʻOtua ʻo ngaohi ko hono <b>kakai</b>.</p><ul><li><b>Lakaatu</b> · ko e ʻapi ʻoku ʻi ai ʻa e taʻataʻa ʻo e lami ʻi he matapā ʻoku lakaatu ai ʻa e mate; ko e sīpinga ʻo e ngaahi feilaulau kotoa naʻe muimui mai.</li><li><b>Tahi Kulokula</b> · ko e fakamoʻui ʻi he māvae ʻa e tahi ʻi ha hala ʻoku ʻikai hano ikuʻanga; ko e “aʻa ki he kauvai ʻe taha” ko e fakaʻilonga ʻo ha kamataʻanga foʻou.</li><li><b>Fuakava ʻo Sainai</b> · ʻi he Ngaahi Fekau ʻe Hongofulu ʻoku nau ako ke moʻui ko e kakai ʻa e ʻOtua.</li><li><b>Tāpanekale</b> · ko ha potutapu hiki-noa ʻoku nofo ai ʻa e ʻOtua ʻi he lotolotonga ʻo e kakai: ko e ʻuluaki ifoifo ʻo e “ʻImanuela.”</li><li><b>Taʻu ʻe 40</b> · ʻoku ʻai ʻe he talangataʻa ha toʻutangata ke ʻalu fano ʻi he toafa, ka ʻoku nofo ofi ʻa e ʻOtua ʻaki ʻa e mana mo e pou ʻao mo e afi.</li></ul>",
+   "next": "ʻOku nau tuʻu ʻi he matatahi ʻo e fonua naʻe talaʻofaʻi, ʻo teuteu ke hū ki ai…"
+  },
+  {
+   "tag": "TT · NOFOʻANGA",
+   "title": "Kapasiviki mo e Kau Fakamaau",
+   "date": "c. 1400–1050 KM",
+   "one": "Naʻe maʻu ʻe kinautolu ʻa e fonua, ka ʻi he taʻehatuʻi naʻe takitaha fai hono loto.",
+   "people": "Siosiua; kau fakamaau hangē ko Kitione mo Samisoni; Lute",
+   "events": "Ko e hinga ʻo Sēliko, ko e nofoʻi ʻo Kēnani, ko e takai toutou ʻo e angahala–fakamaau–fakahaofi",
+   "q": "Na‘e ‘ikai ha tu‘i ‘i ‘Isileli: na‘e takitaha fai hono loto.",
+   "cite": "Kau Fakamaau 21:25",
+   "christ": "Mei he hako ʻo Lute ʻoku haʻu ai ʻa Tēvita, pea mei he hako ʻo Tēvita ʻoku haʻu ai ʻa Sīsū (Mātiú 1). Naʻa mo e maveuveu, ʻoku kei fai pē ʻa e ʻakau-fāmili ʻo e Mesaia.",
+   "detail": "<p>ʻI he malumalu ʻo Siosiua ʻoku nau hū ki he fonua naʻe talaʻofaʻi, ka hili ʻenau nofo ʻoku nau vave ʻo fakangalongaloʻi ʻa e ʻOtua. Ko e Kau Fakamaau ko e toutou tatau ʻo e founga.</p><ul><li><b>Takai ki lalo</b> · angahala → fakamālohiʻi → tangi → fakahaofi ʻe ha fakamaau → toe angahala. ʻOku fakaʻau ʻo kovi ange.</li><li><b>Kau fakamaau</b> · Kitione, Samisoni, Tepola — kau fakahaofi fakataimi, fakaʻeiʻeiki ka fonu ʻi he mele.</li><li><b>Lute</b> · ko e talanoa maama ʻo e angatonu ʻi ha kuonga fakapoʻuli; ʻoku hū ha fefine muli ki he hako ʻo Tēvita (mo Sīsū).</li></ul>",
+   "next": "ʻOku tangi ʻa e kakai, “Foaki mai foki ha tuʻi!”…"
+  },
+  {
+   "tag": "TT · KUONGA KOULA",
+   "title": "Ko e Puleʻanga Fakataha",
+   "date": "c. 1050–930 KM",
+   "one": "ʻOku talaʻofa ʻe he ʻOtua kia Tēvita, “ʻE tuʻumaʻu ho taloni ʻo taʻengata.”",
+   "people": "Saula · Tēvita · Solomone",
+   "events": "Ko e tuʻi ʻuluaki ko Saula, ko Tēvita mo Kolaiate, ko e fuakava mo Tēvita, langa ʻe Solomone ʻa e temipale",
+   "q": "ʻE fakapapau ho fale mo ho pule‘anga kiate koe ‘o ta‘engata: ‘e fokotu‘u ho taloni ‘o ta‘engata.",
+   "cite": "2 Samiuela 7:16",
+   "christ": "Ko e “taloni taʻengata” ʻoku fakahoko ʻia Sīsū, ko e foha ʻo Tēvita — ko ia ʻoku ui ai ia ko e “Foha ʻo Tēvita” (Luké 1:32-33; Mātiú 1:1).",
+   "detail": "<p>Ko e tumutumu ʻo ʻIsileli, ʻi he malumalu ʻo ha tuʻi ʻe toko tolu.</p><ul><li><b>Saula</b> · ko e tuʻi ʻuluaki naʻe kole ʻe he kakai; kamata lelei kae maumauʻi ʻe he talangataʻa.</li><li><b>Tēvita</b> · “ko ha tangata ʻoku ʻofeina ʻe he loto ʻo e ʻOtua.” ʻOku ne ikuna ʻa Kolaiate ʻo ne ngaohi ʻa Selusalema ko e kolomuʻa. ʻOku ne fai ha angahala lahi (Patisepa) ka ʻoku ne fakatomala loto-moʻoni (Saame 51).</li><li><b>Fuakava mo Tēvita (2 Samiuela 7)</b> · ʻoku talaʻofa ʻe he ʻOtua ke fokotuʻu ʻa e puleʻanga ʻo Tēvita ʻo taʻengata — ko e tefitoʻi mahuʻinga ʻo e ʻamanaki Mesaia.</li><li><b>Solomone</b> · ʻi he tumutumu ʻo e poto mo e koloa ʻoku ne langa ʻa e <b>temipale</b>, ka ʻi he muʻomuʻa ʻo ʻene moʻui ʻoku ne tafoki ki he ngaahi ʻaitoli.</li></ul>",
+   "next": "Hili ʻa Solomone, ʻoku mavahevahe ua ʻa e puleʻanga…"
+  },
+  {
+   "tag": "TT · HOLO",
+   "title": "Ko e Puleʻanga Mavahe",
+   "date": "930–586 KM",
+   "one": "Mavahe ki he tonga (Siuta) mo e tokelau (ʻIsileli), pea ʻoku faleholo māmālie ʻa e puleʻanga.",
+   "people": "Ngaahi tuʻi ʻo e ongo puleʻanga; kau palōfita hangē ko ʻIlaisiā, ʻIsaia, Selemaia",
+   "events": "Mavahe ʻa e puleʻanga, mafola ʻa e tauhi ʻaitoli, fakatokanga ʻa e kau palōfita",
+   "q": "Na‘e tu‘u ‘a ‘Isileli ki he fale ‘o Tēvita, pea talu ai pē.",
+   "cite": "1 Tuʻi 12:19",
+   "christ": "ʻI he kuonga ni ʻoku tomuʻa fakahā ange ʻe he kau palōfita ʻo mahino ange ʻa e Mesaia ʻoku haʻu (ʻIsaia 9:6; ʻIsaia 53).",
+   "detail": "<p>ʻI he ngaahi ʻaho ʻo e foha ʻo Solomone ʻoku mavahe ʻa e puleʻanga: <b>ko e puleʻanga tokelau ʻo ʻIsileli</b> (matakali ʻe 10, kolomuʻa ko Samēlia) mo <b>e puleʻanga tonga ʻo Siuta</b> (matakali ʻe 2, kolomuʻa ko Selusalema).</p><ul><li><b>ʻIsileli (tokelau)</b> · ʻoku tauhi ʻe he tuʻi kotoa ʻa e ngaahi ʻaitoli; ʻoku hinga ia ki ʻAsīlia ʻi he 722 KM.</li><li><b>Siuta (tonga)</b> · ʻoku kei fai ʻa e hako ʻo Tēvita, ʻo ʻi ai ha tuʻi lelei hangē ko Hesekaia mo Siosaia, ka ʻi hono kātoa ʻoku holo.</li><li><b>Kau palōfita</b> · ʻoku tangi ʻa ʻIlaisiā, ʻAmosi, ʻIsaia, Selemaia, “tafoki mai!” ʻOku aʻu ʻa e kikite Mesaia ki hono koloaʻia taha heni (ko e “tamaioʻeiki faingataʻaʻia” ʻo ʻIsaia 53).</li></ul>",
+   "next": "ʻI he ʻosi ʻoku hoko ʻa e fakamaau naʻe fakatokanga ki ai — ʻoku ʻave pōpula kinautolu…"
+  },
+  {
+   "tag": "TT · FAKAMAAU",
+   "title": "Ko e Ave Pōpula",
+   "date": "722 / 586 KM",
+   "one": "ʻOku hinga ʻa e puleʻanga pea ʻoku tohoaki ʻa e kakai ki he ngaahi fonua muli.",
+   "people": "Taniela, ʻIsikeli, Nepukanesa",
+   "events": "Hinga ʻa ʻIsileli ki ʻAsīlia (722); hinga ʻa Siuta ki Pāpilone pea fakaʻauha ʻa e temipale (586)",
+   "q": "NA‘A mau nofo ‘i he ngaahi ve‘e vai ‘o Pāpilone, ‘Io, pea mau tangi foki ‘i he‘emau manatu ki Saione.",
+   "cite": "Saame 137:1",
+   "christ": "ʻI he loloto ʻo e taʻeʻamanaki ʻoku talaʻofa ʻe Selemaia ha “fuakava foʻou” (Selemaia 31:31) — ko e fuakava tofu pē naʻe fakamoʻoniʻi ʻe Sīsū ʻi he ʻOhomohe Fakaʻosi.",
+   "detail": "<p>ʻOku hoko moʻoni ʻa e ngaahi fakatokanga. ʻOku vela ʻa e temipale pea ʻoku ʻave ʻa e kakai ki Pāpilone — ʻoku mole ʻa e fonua, ʻa e tuʻi, mo e temipale: ko e potu māʻulalo taha.</p><ul><li><b>Hinga ʻe ua</b> · ʻIsileli (ʻAsīlia, 722 KM) mo Siuta (Pāpilone, 586 KM).</li><li><b>Taniela</b> · ko ha sīpinga ʻo e tui naʻa mo ha fale-tuʻi faka-hiteni (ko e luo ʻo e laione); ʻoku ne mamata ki ha ngaahi meʻa-hā-mai ʻo ha “puleʻanga taʻengata” ʻe haʻu.</li><li><b>Ko ha kalofiama ʻo e ʻamanaki</b> · ko e meʻa-hā-mai ʻo e ngaahi hui mōmoa ʻoku toe moʻui (ʻIsikeli 37) mo e “fuakava foʻou” ʻa Selemaia ʻoku tuhu ki ha kahaʻu ʻi he poʻuli.</li></ul>",
+   "next": "Hili ha taʻu ʻe fitungofulu, ʻoku fakaava ʻe he ʻOtua ʻa e hala — ʻoku nau ʻalu ki ʻapi…"
+  },
+  {
+   "tag": "TT · FAKALELEI",
+   "title": "Ko e Foki Mai",
+   "date": "538–430 KM",
+   "one": "ʻOku nau foki mai ʻo toe langa ʻa e temipale mo e ngaahi ʻā.",
+   "people": "ʻEsila, Nehemaia, ʻEseta, Selupāpeli",
+   "events": "Foki ʻi he tuʻutuʻuni ʻa Saialosi, toe langa ʻa e temipale, fakalelei ʻa e ngaahi ʻā ʻo Selusalema, fakaakeake ʻa e Folofola",
+   "q": "Ko e fiefia ‘i he ‘Eiki ko homou mālohinga ia.",
+   "cite": "Nehemaia 8:10",
+   "christ": "Ko Malakai, ko e tohi fakamuimui ʻo e Tuʻutuʻuni Motuʻa, ʻoku ne tāpuni ʻaki hono fakahā ha talafekau ke teuteu ʻa e hala ʻo e Mesaia: “ʻOku ou fekauʻi atu ʻeku talafekau” (Malakai 3:1).",
+   "detail": "<p>ʻI he tuʻutuʻuni ʻa e tuʻi Pēsia ko Saialosi (538 KM) ʻoku kamata ʻa e foki. ʻI he peau ʻe tolu ʻoku nau foki mai ʻo toe langa ʻa e meʻa naʻe maumau.</p><ul><li><b>Selupāpeli</b> · ʻoku ne toe langa ʻa e temipale (ʻosi ʻi he 516 KM).</li><li><b>ʻEsila</b> · ʻoku ne toe ako ʻaki ʻa e Folofola ʻo fakaakeake ʻa e tui.</li><li><b>Nehemaia</b> · ʻoku ne toe langa ʻa e ngaahi ʻā ʻo Selusalema ʻi he ʻaho ʻe 52.</li><li><b>ʻEseta</b> · ʻoku ne fakahaofi ʻa e kau Siu ʻi Pēsia mei he fakaʻauha — “maʻa ha taimi pehē ni.”</li><li><b>Holi ʻoku kei fai</b> · ʻoku tuʻu ʻa e temipale, ka ʻoku ʻikai ha tuʻi hangē ko Tēvita. ʻOku tatali ʻa e kakai ki he Mesaia.</li></ul>",
+   "next": "Pea hili ai… ʻo hangē kuo longo ʻa langi, ʻoku ʻalu ʻa e taʻu ʻe 400."
+  },
+  {
+   "tag": "VAHAʻA TUʻUTUʻUNI · TEUTEU ʻO E FAKAALIʻALI",
+   "title": "Ko e Ngaahi Taʻu Longo",
+   "date": "c. 430–4 KM",
+   "one": "Taʻu ʻe 400 taʻehaleʻo palōfita — ka naʻe teuteu fakalongolongo ʻa e fakaaliʻali.",
+   "people": "ʻAlekisānita ko e Lahi, kau Makapē, Loma",
+   "events": "Pēsia → Kalisi → tauʻatāina ʻa e kau Makapē → pule ʻa Loma",
+   "q": "ʻI he hokosia leva ‘a e fakakakato ‘o e taimi, na‘e fekau atu ‘e he ‘Otua hono ‘Alo ‘o‘ona, ‘a ia ne tupu mei ha fefine.",
+   "cite": "Kaletia 4:4",
+   "christ": "Ko e “teuteu ʻo e fakaaliʻali” kotoa ni ko e ngāue ʻa e ʻOtua koeʻuhi ke haʻu ʻa Sīsū tofu pē ʻi he “fakakakato ʻo e taimi.”",
+   "detail": "<p>Mei Malakai ki he Tuʻutuʻuni Foʻou, ʻoku ʻalu ha taʻu ʻe 400 nai taʻehafoʻou ʻa e Tohitapu (kau palōfita). Ka ʻi he tuʻa ʻo e hisitōlia naʻe teuteu ʻe he ʻOtua ʻa e hala ʻo e ongoongolelei.</p><ul><li><b>Liliu ʻa e ngaahi ʻemepaea</b> · Pēsia → Kalisi (ʻAlekisānita, 333 KM) → ʻIsipite mo Sīlia → ko e angatuʻu ʻa e kau Makapē (167 KM) → Loma (63 KM).</li><li><b>Lea faka-Kalisi</b> · naʻe ʻai ʻe he kapasiviki ʻa ʻAlekisānita ʻa e lea faka-Kalisi ko e lea angamaheni; naʻe liliu ʻa e Tuʻutuʻuni Motuʻa ki he lea faka-Kalisi (ko e Septuagint), ʻo fakaava ʻa e hala ke mafola vave ai ʻa e ongoongolelei.</li><li><b>Ngaahi hala mo e melino ʻa Loma</b> · ko e ngaahi hala lelei mo e “Pax Romana” ʻoku hoko ko e ngaahi hala lahi ki he ngāue fakamisinale.</li><li><b>Sinakoke mo e ngaahi faʻahi</b> · ʻoku tupu ʻa e ako ʻi he sinakoke; ʻoku tupu ʻa e kau Falesi mo e kau Satusi, pea ʻoku motuʻa ʻa e <b>holi ki he Mesaia</b>.</li></ul>",
+   "next": "Pea ʻi he motuhi ʻa e longo — ʻi he ʻosi, ʻoku haʻu ia."
+  },
+  {
+   "tag": "TF · FAKAHOKO",
+   "title": "Ko e Haʻu ʻa Sīsū",
+   "date": "c. 4 KM–TS 30",
+   "one": "Naʻe haʻu ʻa e Mesaia naʻe talaʻofaʻi, ʻo pekia, pea toetuʻu.",
+   "people": "Sīsū, kau ākonga ʻe toko hongofulu ma ua, Sione Papitaiso",
+   "events": "Ko e hoko-ko-kakano, ʻene ngāue mo e akonaki mo e ngaahi mana, pekia ʻi he kolosi, toetuʻu ʻi hono ʻaho tolu",
+   "q": "Na‘e hoko ‘a Folofola ko e kakano; ‘o ne fokotu‘u hono tāpanekale ‘i hotau lotolotonga… ‘oku ne fonu ‘i he kelesi mo e mo‘oni.",
+   "cite": "Sione 1:14",
+   "christ": "Ko e hako ʻo e fefine (vāhenga 2), ko e monū ʻo ʻEpalahame (3), ko e lami ʻo e Lakaatu (4), ko e tuʻi taʻengata ʻo Tēvita (6), ko e fuakava foʻou (8) — ʻoku fakahoko kotoa ʻi he tangata pē ʻe taha, ko Sīsū: ko hotau palōfita, taulaʻeiki, mo tuʻi moʻoni.",
+   "detail": "<p>ʻOku motuhi ʻa e longo; ʻoku aʻu mai ʻa e Tokotaha-naʻe-talaʻofaʻi. ʻOku fakamoʻoniʻi ʻe he ongoongolelei ʻe fā ʻa e moʻui, pekia, mo e toetuʻu ʻo Sīsū mei he tuliki ʻe fā.</p><ul><li><b>Hoko-ko-kakano</b> · naʻe hoko ʻa e ʻOtua ko ha tangata (ʻImanuela, “ʻOtua ʻoku ʻiate kitautolu”), ʻi he potu māʻulalo ʻo Petelihema.</li><li><b>Ngāue</b> · ʻoku ne ako ʻaki ʻa e puleʻanga ʻo e ʻOtua, faitoʻo ʻa e mahaki, ui ʻa e kau angahala. “Ko ia kuo ne mamata kiate au kuo ne mamata ki he Tamai.”</li><li><b>Kolosi</b> · ʻoku ne totongi ʻi hotau fetongi ʻa e totongi ʻo e angahala mo e mate naʻe ʻomi ʻe he Hinga (vāhenga 2). Ko e lami moʻoni ʻo e Lakaatu.</li><li><b>Toetuʻu</b> · ʻi heʻene toetuʻu ʻi hono ʻaho tolu, ʻoku ne motuhi ʻa e mālohi ʻo e angahala, mate, mo Sētane — naʻe ʻosi ʻi he kolosi ʻa ʻene «hu‘ihu‘i meiate ia ‘a e kau pule mo e kau ma‘u tu‘unga, ‘o ne mātu‘aki faka‘ali‘ali kinautolu, he‘ene sipikaki kinautolu ‘i He‘ene ‘Afio» (Kolose 2:15).</li></ul><p>Ko ia ʻoku hoko ai ʻa Sīsū ko hotau <b>palōfita moʻoni</b> (fakahā ʻa e hala ki he ʻOtua), <b>taulaʻeiki moʻoni</b> (totongi ʻa e angahala ʻaki hono sino ʻoʻona), mo <b>tuʻi moʻoni</b> (ikuna ʻa e angahala, mate, mo Sētane ʻo pule ʻo taʻengata).</p>",
+   "next": "ʻOku fekau ʻe Sīsū toetuʻu ʻa ʻene kau ākonga ki māmani…"
+  },
+  {
+   "tag": "TF · MAFOLA",
+   "title": "Ko e Kamata ʻa e Siasi",
+   "date": "c. TS 30–",
+   "one": "ʻOku haʻu ʻa e Laumālie, pea ʻoku mafola ʻa e ongoongolelei ki he ngaahi ngataʻanga ʻo māmani.",
+   "people": "Pita, Paula, ʻa e siasi muʻa",
+   "events": "Lilingi ʻa e Laumālie ʻi he Penitekosi, fanauʻi ʻa e siasi, mafola ʻa e ongoongolelei mei Selusalema ki Loma fakafou ʻi he fakatanga",
+   "q": "Te mou ma‘u pē ha mālohi, ‘oka hifo ‘a e Laumālie Mā‘oni‘oni kiate kimoutolu… ‘o a‘u ki he ngata‘anga ‘o māmani.",
+   "cite": "Ngaue 1:8",
+   "christ": "ʻOku kei fai pē ʻa e talanoa ni he ʻaho ni. ʻOku tāpuni ʻa e Tohitapu ʻaki ha talaʻofa ʻe toe haʻu ʻa Sīsū ʻo ne ngaohi foʻou ʻa e meʻa kotoa (Fakahā 21).",
+   "detail": "<p>Hili ʻa e hāʻele hake ʻa Sīsū, ʻoku haʻu ʻa e Laumālie naʻe talaʻofaʻi ʻi he Penitekosi pea fanauʻi ai ʻa e siasi. ʻOku mafola fakaʻulia ʻa e ongoongolelei.</p><ul><li><b>Penitekosi</b> · ʻoku liliu ʻe he Laumālie ʻa e kau ākonga manavahē ko e kau fakamoʻoni loto-toʻa.</li><li><b>Pita</b> · ʻoku ne malanga ʻaki ʻa e ongoongolelei ki he kau Siu ʻi Selusalema.</li><li><b>Paula</b> · mei he tokotaha fakatanga ki he ʻaposetolo; ʻoku ne tō ngaahi siasi ʻi he māmani Senitaile ʻo ne tohi ʻa e ngaahi tohi.</li><li><b>Ki he ngaahi ngataʻanga</b> · Selusalema → Siutea → Samēlia → Loma. ʻOku hoko moʻoni ʻa e talaʻofa ʻo e “faʻahinga kotoa” naʻe fai kia ʻEpalahame.</li><li><b>Mo kitautolu</b> · ʻoku ʻikai ngata ʻa e talanoa; ʻoku ne fakalele atu ki he toe haʻu ʻa Sīsū mo e langi foʻou mo e fonua foʻou.</li></ul>",
+   "next": "Ka ʻoku ʻikai ngata heni ʻa e talanoa…"
+  },
+  {
+   "tag": "TF · FAKAKAKATO",
+   "title": "Ko e Fakalelei (foʻou kotoa)",
+   "date": "Teʻeki haʻu",
+   "one": "ʻOku toe haʻu ʻa Sīsū ʻo ne ngaohi foʻou ʻa e meʻa kotoa.",
+   "people": "Ko Sīsū ʻoku toe haʻu; ʻa e ngaahi puleʻanga kotoa",
+   "events": "Ko e toe haʻu, ko e fakamaau fakaʻosi, ko e ngataʻanga ʻo e angahala·mate·loʻimata, ko e langi foʻou mo e fonua foʻou",
+   "q": "Te ne holoholo ‘a e lo‘imata kotoa pē mei honau mata; Pea ‘e ‘ikai toe ai ha mate, Pea ‘e ‘ikai toe ai ha mamahi, pe ha tangi, pe ha ongosia.",
+   "cite": "Fakahā 21:4",
+   "christ": "Ko e ʻIteni ʻo e fakatupu ʻuluaki ʻoku fakalelei fakaʻosi ko e “Selusalema Foʻou.” ʻOku nofo ʻa e ʻOtua mo hono kakai ʻo taʻengata — ko e kakato ʻo e ʻImanuela (Fakahā 21:3; Mātiú 1:23).",
+   "detail": "<p>ʻOku ʻikai ngata ʻa e Tohitapu ʻi he kuonga ʻo e siasi. Ko hono tohi fakamuimui, ko e Fakahā, ʻoku ne fakahā ʻa Sīsū ʻoku <b>toe haʻu</b> ke fakakakato ʻa e meʻa kotoa.</p><ul><li><b>Toe haʻu</b> · ʻoku toe foki mai ʻa e tuʻi naʻe talaʻofaʻi ʻi he nāunau.</li><li><b>Ikuna fakaʻosi</b> · ʻoku fakaʻauha ʻo taʻengata ʻa Sētane mo e mate, pea ʻoku pule ʻa Kalaisi ko e Tuʻi ʻo e ngaahi tuʻi (Kolinitō 1 15:25-26; Fakahā 20:10).</li><li><b>Fakamaau mo e toetuʻu</b> · ʻoku fakatonutonu ʻa e taʻetotonu kotoa, pea ʻoku fokotuʻu ʻa e kau mate.</li><li><b>Langi foʻou mo e fonua foʻou</b> · ʻoku mole ʻo taʻengata ʻa e angahala, mate, loʻimata, mo e mamahi (Fakahā 21:4).</li><li><b>ʻIteni kuo fakalelei</b> · ʻi ha “Selusalema Foʻou” ʻoku lelei ange ʻi he kamataʻanga, ʻoku nofo ai ʻa e ʻOtua mo hono kakai ʻo taʻengata — ko e ikuʻanga ʻoku tuhu ki ai ʻa e Tohitapu kotoa.</li></ul><p>Ko ia ko e taimi ni ko e kuonga ʻo e <b>“kuo ʻosi, ka teʻeki”</b>: ʻia Sīsū ʻoku <b>ʻosi</b> fakahoko ʻa e fakamoʻui, ka ʻoku <b>kei</b> tatali ki hono kakato.</p>",
+   "next": "Ko ia, ko e hā ʻa e ʻuhinga ʻo e talanoa kotoa ni kia “au”?"
+  }
+ ],
+ "love": [
+  "ʻOku ʻikai kamata ʻa e talanoa ʻaki ha fakamaau, ka ʻaki ha māmani naʻe fakatupu ʻi he ʻofa lilingi.",
+  "ʻI he taimi tonu naʻe angahala ai ʻa e tangata, naʻe talaʻofa ʻe he ʻOtua ʻi he potu pē ko ia ʻa e fakahaofi.",
+  "Naʻe tomuʻa haʻu ʻa e ʻOtua ki ha tangata taʻetaau, ʻo ne ui ia ʻaki hono hingoa, ʻo ngaohi ia ko e halaʻanga ʻo e monū.",
+  "Naʻe ne fanongo ki he toʻe ʻa e kakai pōpula ʻo ne hāʻele hifo tonu ke fakahaofi kinautolu.",
+  "Neongo hono lavakiʻi ʻo toutou, ka ʻi he taimi kotoa naʻa nau tangi naʻe ne fekauʻi ha fakahaofi ʻo ne toe fokotuʻu kinautolu.",
+  "Naʻe ʻikai te ne liʻaki naʻa mo Tēvita kuo hinga, pea fakafou ʻiate ia naʻe talaʻofa ai ha Tuʻi taʻengata.",
+  "Ki ha kakai naʻe fulituʻa, naʻe ne kei fekauʻi pē ʻa e kau palōfita, ʻo kole, “Foki mai ki ʻapi.”",
+  "Naʻe ne hāʻele fakataha mo kinautolu naʻa mo e fonua fakapoʻuli taha ʻo e ave pōpula, ʻo ne talaʻofa ʻa e fakalelei.",
+  "Naʻa mo ha kakai naʻe toutou hala, naʻe ʻikai te ne toʻo hono talaʻofa, ka naʻa ne toe fokotuʻu kinautolu.",
+  "Naʻa mo e taʻu longo ʻe 400, ʻi he taʻehāmai, naʻa ne teuteuʻi ai ʻa e hala ʻo e fakamoʻui.",
+  "Lolotonga ʻetau kei angahala, naʻa ne fekauʻi mai hono ʻAlo ke ne li ʻa ʻene moʻui ʻoʻona.",
+  "Ko e ʻofa naʻa tau maʻu, ʻoku ne fekauʻi atu ʻeni ke tafe ki māmani kotoa.",
+  "ʻI he ʻosi te ne holoholo ʻa e loʻimata kotoa ʻo ne fakalelei ʻa e meʻa kotoa ʻi he ʻofa."
+ ],
+ "mis": [
+  {
+   "w": "«Ko e hā naʻe ngaohi ai ʻe he ʻOtua ha kakai ʻe lava ke angahala? ʻIkai ʻe lelei ange ʻo ka naʻe ʻikai te ne ngaohi kitautolu?»",
+   "t": "Naʻe fakatupu ʻe he ʻOtua ʻa māmani mo e tangata ʻo ʻikai mei ha masiva, ka mei he ʻofa lilingi. Ko hono ngaohi ʻo e tangata ko <b>ha tokotaha ʻe lava ʻo vā mo e ʻOtua</b> ko e ʻofa pē ia. Pea naʻa mo e hū mai ʻa e angahala naʻe ʻikai ke ʻituʻa ʻi he palani fakamoʻui ʻa e ʻOtua (ʻEfeso 1:4-5). Ko e vāhenga ʻuluaki ʻo e Tohitapu ʻoku ʻikai ko ha fakamaau ka ko ha ʻofa."
+  },
+  {
+   "w": "«Kapusi mo foaki ʻa e mate koeʻuhi pē ko e kai ha fua ʻe taha — ʻikai ʻoku fefeka fau ʻa e ʻOtua?»",
+   "t": "Ko hono kapusi mei ʻIteni ko e fakamaau pea ko e ʻaloʻofa fakatouʻosi. Kapau ʻe kai ʻe he tangata mei he ʻakau ʻo e moʻui ʻo moʻui taʻengata ʻi he tuʻunga maumau, mavahe mei he ʻOtua, ʻe nofo maʻu ai pē ia ʻi he mamahi ʻo taʻengata (Senesi 3:22). Ko hono tuku ʻa e mate ko hono fakaava ha hala foki; pea ʻi he potu pē ko ia naʻe talaʻofa ai ʻe he ʻOtua ha Fakahaofi (Senesi 3:15). Naʻe ʻosi ʻi loto ʻi he fakamaau ʻa e ʻofa."
+  },
+  {
+   "w": "«Naʻe fili ʻa ʻEpalahame koeʻuhi ko ʻene tui lahi — ʻikai ko e kau toa fakaʻulungaanga kotoa ʻa e kakai ʻo e Tohitapu?»",
+   "t": "Naʻe loi mo veiveiua foki ʻa ʻEpalahame, pea ko Sēkope ko ha tangata kākā. Naʻe ʻikai ui ʻe he ʻOtua ʻa “e kau taau,” ka naʻa ne ui ʻi he kelesi ʻa e kau taʻehaohaoa. Ko e ʻuhinga ʻo e fili naʻe ʻikai ko ʻenau lelei, ka ko e ʻofa anga-tonu ʻa e ʻOtua (Teutalonome 7:7-8)."
+  },
+  {
+   "w": "«ʻIkai ko e lao (ngaahi fekau) ha sivi pe tuʻutuʻuni kuo pau ke pasi ke fakamoʻui ai?»",
+   "t": "Naʻe fakahaofi ʻe he ʻOtua kinautolu <b>kimuʻa</b> ʻi hono foaki ʻa e lao. ʻOku kamata ʻa e Ngaahi Fekau ʻe Hongofulu ʻaki ha fakahā ʻo e fakamoʻui: «Ko Au ko Sihova ko ho ‘Otua, ‘a ia na‘a ku ‘omi koe mei ‘Isipite» (ʻEkisoto 20:2). ʻOku ʻikai ko e lao ha “tauhi ke fakamoʻui ai koe,” ka ko ha tataki ʻofa ʻo e founga ke moʻui ai ʻa e kakai kuo ʻosi fakahaofi ʻi he kelesi (Teutalonome 7:7-9). ʻOku tomuʻa maʻu pē ʻa e kelesi; ko e talangofua ko hono tali."
+  },
+  {
+   "w": "«Ko e kapasiviki ʻo Kēnani ko ha tāmateʻi taʻealoʻofa — ko ia ʻoku faʻa fakamālohi moʻoni ʻa e ʻOtua ʻo e Tuʻutuʻuni Motuʻa.»",
+   "t": "Ko ha kaveinga faingataʻa ʻe ʻikai fakaʻosi ʻi ha senitenisi pe taha. Ka ʻoku ʻikai fakahā ia ʻe he Tohitapu ko ha fakamālohi taʻe-ʻuhinga, ka ko ha fakamaau hili ha ngaahi senituli ʻo e kātaki ki he kovi fakamanavahē (ʻo kau ai hono feilaulauʻi ʻo e fānau) (Senesi 15:16; Teutalonome 9:4-5; Levitiko 18:24-25). ʻOku tuai ʻa e ʻOtua naʻa mo e fakamaau, pea ko ia ʻoku tafoki kiate ia ʻoku ne tali fiefia, neongo ha muli, hangē ko Lahapi mo Lute (Siosiua 6:25; Lute 4:13-17)."
+  },
+  {
+   "w": "«Ko Tēvita ko ha toa taʻehamele — ko ia naʻe ui ai ia ko ‘ha tangata ʻoku ʻofeina ʻe he loto ʻo e ʻOtua.’»",
+   "t": "Naʻe fai feʻauaki ʻa Tēvita ʻo aʻu naʻa mo e fakapō. Ko e “tangata ʻoku ʻofeina ʻe he loto ʻo e ʻOtua” ʻoku ʻikai ʻuhinga ko e haohaoa, ka ko ha tokotaha naʻe ʻikai te ne fakapuli ʻene angahala — naʻa ne fakatomala loloto ʻo toutou foki ki he ʻOtua (Saame 51). ʻOku ʻikai liʻaki ʻe he ʻofa ʻa e ʻOtua naʻa mo kinautolu ʻoku hinga lahi."
+  },
+  {
+   "w": "«Ko e palōfita ko ha kikite ʻoku tomuʻa fakahā ʻa e kahaʻu / ko e ʻOtua ʻo e Tuʻutuʻuni Motuʻa ʻoku ne ʻita pē.»",
+   "t": "Ko e loto ʻo ha palōfita ʻoku ʻikai ko e “tomuʻa fakahā ʻa e kahaʻu,” ka ko e tangi loto-mamahi ʻa e ʻOtua: “Kātaki ʻo foki mai.” Naʻa mo e fakatokanga ʻo e fakamaau ʻoku ʻikai ke fakaʻauha ka ke fakatafoki mo fakamoʻui ʻa e kakai — «Tangi ‘eku mo‘ui ha‘aku fiefia ‘i he pekia ‘a e angahala; ka ‘i he tafoki ‘a e angahala mei hono ‘alunga ke ne mo‘ui» (ʻIsikeli 33:11)."
+  },
+  {
+   "w": "«ʻOku fakamoʻoniʻi ʻe he ave pōpula naʻe liʻaki kakato ʻe he ʻOtua ʻa ʻIsileli.»",
+   "t": "Ko e ave pōpula naʻe ʻikai ko ha liʻaki, ka ko ha tauteʻi mo fakamaʻa ʻo ha Tamai ki ha tama ʻofaʻanga (Hepelu 12:6). Naʻe ʻikai mavahe ʻa e ʻOtua; naʻa ne ʻi ai mo Taniela ʻi he loto ʻo e ave pōpula, ʻo ne talaʻofa: «‘Oku ou ‘ilo pē ‘a e ngaahi fakakaukau ‘oku ou fakakaukau kiate kimoutolu… ko e ngaahi fakakaukau lelei, ‘o ‘ikai sio kovi, ke ‘ange kiate kimoutolu ha ‘amui mo ha ‘amanaki» (Selemaia 29:11)."
+  },
+  null,
+  {
+   "w": "«Ko e taʻehafolofola ʻi he taʻu ʻe 400, ko hono ʻuhinga kuo mavahe pe mālōlō ʻa e ʻOtua.»",
+   "t": "Ko e longo ʻoku ʻikai ko e mavahe. Naʻa ne ʻikai pē ke lea, ka lolotonga ʻa e taimi kotoa ko ia naʻa ne ueʻi ʻa e ngaahi ʻemepaea, lea, mo e ngaahi hala ke teuteu ʻa e fakaaliʻali ʻo e fakamoʻui. ʻI he momeniti longo taha, naʻe ngāue mālohi taha ai ʻa e ʻOtua, ʻi he ʻofa (Kaletia 4:4)."
+  },
+  {
+   "w": "«Ko Sīsū ko ha taha pē ʻo e kau faiako lelei fakaʻulungaanga / ko e kolosi ko ha ikuhala fakamamahi.»",
+   "t": "Naʻe fakahā ʻe Sīsū ko e ʻOtua ia tonu (Sione 8:58), pea ko e kolosi naʻe ʻikai ko ha tūkia pe ikuhala, ka ko ha ʻofa naʻe palani. Naʻe ʻikai tohoaki fakamālohi ia ki ai; naʻa ne li ʻa ʻene moʻui ʻi heʻene faʻiteliha (Sione 10:18). «Tala‘ehai ‘oku ai ha ‘ofa ‘a ha taha ‘e lahi ‘i he ‘ofa ko ē, ke ne li‘aki ‘ene mo‘ui koe‘uhi ko hono ngaahi kaume‘a» (Sione 15:13)."
+  },
+  {
+   "w": "«Ko e siasi ko ha kalapu fakalotu ʻo e kakai haohaoa, pe ko ha fale pē.»",
+   "t": "ʻOku ʻikai ko ha komiunitī ʻo e “kau māʻoniʻoni haohaoa” ʻa e siasi, ka ko e <b>kau angahala kuo fakamolemoleʻi</b>. Naʻa mo e ʻaposetolo ko Paula naʻe ui ia ʻe ia ko e «kakai angahala» tefua (Timote 1 1:15). Naʻe fakakikihi mo tūkia foki ʻa e siasi muʻa (Ngaue 6:1; Kolinitō 1 1:11). ʻOku ʻikai ko ha potu ke pōlepole, ka ko ha kakai ʻoku nau fakahoko atu ʻa e ʻofa naʻa nau maʻu (Sione 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Angahala fakatupu — ʻoku ʻikai ha māʻoniʻoni",
+   "body": "Ko e palopalema ʻoku ʻikai ko e “ngaahi ngāue kovi siʻi” ka ko e tefitoʻi ʻo e loto. Talu mei ʻAtama, ʻoku fanauʻi ʻa e tokotaha kotoa ʻi he malumalu ʻo e angahala pea ʻoku ʻikai te ne lava tokotaha ʻo aʻu ki he ʻOtua.",
+   "vref": "Loma 3:10-12, 23",
+   "vtext": "‘oku ‘ikai ha tokotaha ‘oku angatonu, ‘io, ‘oku ‘ikai ha taha… he ‘oku angahala kotoa pē, pea ‘oku tōnounou ‘i he nāunau ‘o e ‘Otua."
+  },
+  {
+   "title": "ʻOku ʻikai lava ʻe he lao ʻo fakamoʻui au",
+   "body": "ʻOku ʻikai ko ha tuʻunga-hake ʻa e lao ka ko ha sioʻata. Ko e lahi ange hoʻo feinga, ko e lahi ange ʻa hono fakahā hoʻo tōnounou. Ko hono taumuʻa ke tataki kitautolu kia Kalaisi.",
+   "vref": "Loma 3:20 · Kaletia 3:24",
+   "vtext": "‘oku ma‘u ‘i he Lao ‘a e ‘ilo ki he angahala… na‘e hoko ‘a e Lao ko hotau pule, ke ne tataki kitautolu kia Kalaisi."
+  },
+  {
+   "title": "ʻI he kelesi — ko ha meʻaʻofa, ʻo ʻikai ko ha feinga",
+   "body": "ʻOku ʻikai ko e totongi ʻo ha ngāue kuo fakatānaki ʻa e fakamoʻui, ka ko ha meʻaʻofa taʻetotongi ki he kakai ʻoku ʻikai te nau taau ki ai. Ko ia ʻoku ʻikai ha taha ʻe lava ʻo polepole.",
+   "vref": "ʻEfeso 2:8-9",
+   "vtext": "ko e me‘a ‘i he kelesi kuo fakamo‘ui ai kimoutolu ‘i he tui… ‘o ‘ikai mei he ngaahi ngāue, ke ‘oua na‘a polepole ha taha."
+  },
+  {
+   "title": "Fakatonuhiaʻi ʻi he tui",
+   "body": "ʻOku ʻikai ʻi hono tauhi ʻa e lao, ka ʻi he tui kia Sīsū Kalaisi, ʻoku lau kitautolu ko e angatonu — ʻoku ʻikai te tau kofu ʻaki hotau angatonu, ka ʻaki hono ʻoʻona.",
+   "vref": "Loma 5:1 · Kaletia 2:16",
+   "vtext": "kuo fakatonuhia‘i kitautolu ‘i he tui… ‘oku ‘ikai fakatonuhia‘i ‘a e tangata ‘i he ngāue ‘o e lao, ka ‘i he tui kia Sīsū Kalaisi."
+  },
+  {
+   "title": "ʻOku tuhu ʻa e Tohitapu kia Sīsū",
+   "body": "ʻOku ʻikai ko ha tohi ʻo e kau tangata lalahi pe tokoni-au pē ʻa e Tohitapu. Mei Senesi ki Fakahā, ʻoku fakamoʻoniʻi ʻe he peesi kotoa ha tokotaha pē ʻe taha — ko Sīsū Kalaisi.",
+   "vref": "Sione 5:39 · Luké 24:27",
+   "vtext": "ko kinautolu ia ‘oku fakamo‘oni kiate au… na‘a ne fakamatala kiate kinaua ‘i he ngaahi Tohi kotoa pē ‘a e ngaahi me‘a ‘iate ia."
+  },
+  {
+   "title": "Ko e puleʻanga ʻo e ʻOtua — ko e pōpoaki tefito ʻa Sīsū",
+   "body": "Ko e kaveinga naʻe ako lahi taha ʻe Sīsū. Ko e puleʻanga ʻoku pule ai ʻa e ʻOtua ko e tuʻi naʻe hū ki māmani ʻia Sīsū pea ʻe fakakakato ʻi heʻene toe haʻu. ʻI hono kolosi mo e toetuʻu, ko Sīsū ʻa e Tuʻi moʻoni naʻe ikuna ʻa e angahala, mate, mo Sētane.",
+   "vref": "Maʻake 1:15",
+   "vtext": "Kuo kakato ‘a e taimi, pea kuo ofi mai ‘a e pule‘anga ‘o e ‘Otua: mou fakatomala, pea tui ki he ongoongolelei."
+  },
+  {
+   "title": "Ko e ongoongolelei — naʻa ne fakakakato kotoa",
+   "body": "Ko e moʻua ʻo e angahala naʻe ʻikai te u lava ʻo totongi, naʻe totongi ia ʻe Sīsū ʻi hoku fetongi ʻi he kolosi, pea ʻi heʻene toetuʻu naʻa ne ikuna ʻa e mate. ʻOku ʻikai te u falala ki he “fai eni” ka ki he “kuo fakaʻosi.”",
+   "vref": "Sione 19:30 · Loma 5:8",
+   "vtext": "Kuo lava… he lolotonga ‘etau kei angahala na‘e pekia ‘a Kalaisi koe‘uhi ko kitautolu."
+  }
+ ]
+}

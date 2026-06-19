@@ -1,0 +1,343 @@
+{
+ "menuName": "Kreyòl Ayisyen",
+ "htmlLang": "ht",
+ "dir": "ltr",
+ "brand": "Bib la nan yon sèl woulo",
+ "docTitle": "Bib la nan yon sèl woulo · Depi kreyasyon an rive nan legliz la",
+ "share": {
+  "title": "Bib la nan yon sèl woulo",
+  "text": "Nan yon sèl woulo, dekouvri gwo istwa Bib la — epi poukisa Jezi te vini."
+ },
+ "ui": {
+  "people": "Moun yo",
+  "events": "Evènman kle",
+  "christLabel": "Montre Jezi",
+  "loveLabel": "Renmen ki pa lage",
+  "mythWrong": "Move konprann ki kouran",
+  "mythRight": "Verite a",
+  "more": "Li plis",
+  "version": "(HAT98)"
+ },
+ "labels": {
+  "start": "Konmanse",
+  "thread": "Istwa a",
+  "gospel": "Bòn Nouvèl la",
+  "about": "Konsènan"
+ },
+ "s": {
+  "ui.share": "↗ Pataje",
+  "ui.toast": "Lyen kopye 📋",
+  "ui.footer": "Bib la nan yon sèl woulo · Sitasyon Bib la sòti nan HAT98",
+  "hero.kicker": "Depi kreyasyon an rive nan legliz la",
+  "hero.title": "Bib la,<br><span class='em'>nan yon sèl woulo</span>",
+  "hero.sub": "Nan yon sèl woulo, dekouvri gwo istwa Bib la — epi poukisa Jezi te vini.",
+  "hero.cue": "Desann anba<span>↓</span>",
+  "thread.eyebrow": "Yon sèl fraz ki mare tout bagay ansanm",
+  "thread.h2": "Nan finisman, Bib la se yon sèl istwa",
+  "thread.flow": "<b>Pwomès</b><span class='arw'>→</span><b>Tann</b><span class='arw'>→</span><b>Akonplisman</b>",
+  "thread.note": "Bondye <b>pwomèt</b> (kontra a), pèp la <b>tann</b> pandan lontan, epi nan finisman tout bagay <b>akonpli</b> nèt nan Jezi. Swiv 13 sèn ki anba yo nan fil sa a. Peze sou <b>«Li plis»</b> nan chak kat pou istwa ki pi fon an.",
+  "gospel.eyebrow": "Sa istwa sa a vle di pou «mwen»",
+  "gospel.h2": "Vrè kè Bib la",
+  "gospel.lead": "Bib la <b>se pa yon liv moral ki di «se pou ou yon bon moun».</b>",
+  "gospel.sublead": "Se istwa a sou jan Bondye, <b>pa gras sèlman</b>, te sove pechè ki pa janm ka sove tèt yo. Nan mitan an se Jezikri ki kanpe.",
+  "gospel.mirror": "<h3>Sik san fen Izrayèl la se vreman yon pòtre «mwen menm»</h3><div class='cycle'><b>Zidolatri</b><span class='a'>→</span><b>Soufrans</b><span class='a'>→</span><b>Rèl</b><span class='a'>→</span><b>Bondye sove</b><span class='a'>→</span><b>Zidolatri ankò…</b></div><p>Depi nan liv Jij la rive nan egzil la, Izrayèl repete sik sa a san rete. Bib la pa t ekri l pou nou ta pase l nan betiz: «Ala moun pa vo anyen!».</p><p>Se yon <b>glas</b>. Pwen an se pa «yo te fè konsa», men pou fè nou wè <b>«mwen menm tou m fè menm bagay la»</b> (1 Korent 10:11).</p><p>Yon <b>zidòl</b> se pa sèlman yon estati an bwa. Se <b>tout bagay nou renmen oswa nou fè konfyans plis pase Bondye</b> — lajan, siksè, lwanj moun, moun, menm tèt mwen. Epi sèvi ak Bondye tankou yon <b>zouti pou jwenn sa mwen vle</b> se zidolatri tou.</p><p class='punch'>Nan finisman, zidòl ki pi fon an se «tèt mwen, chita sou fòtèy Bondye a».</p>",
+  "gospel.coreIntro": "Bon, kijan Bondye sove yon pechè konsa? Men kè Bòn Nouvèl Bib la anonse a.",
+  "gospel.crux": "<p class='crux-lead'>Tout Bib la montre yon sèl kote.</p><p>Moun pa t ka kraze sik peche a pou kont yo, epi pa t gen yon sèl moun ki jis. Se konsa yon moun te dwe <b>peye pri a nan plas yo</b>.</p><p>Jezi pa t vini sèlman pou bay bon ansèyman. Kòm pa t gen lòt chemen pou sove mwen, <b>li te oblije vini.</b></p><p class='crux-punch'>Moun ki te dwe pandye sou kwa sa a se te <b>mwen menm</b>.<br>Jezi pote <b>peche mwen</b> epi yo kloure l la nan plas mwen.</p><div class='crux-verse'>«Se pou peche nou kifè yo te mete san l deyò konsa… Avèk tout kou li te resevwa yo, li ban nou gerizon.» — Ezayi 53:5</div>",
+  "faq.h": "Èske gen yon bagay ki toujou ap toumante ou?",
+  "faq.q1": "<span class='arr'>▸</span> Donk yon asasen sèlman bezwen kwè epi li al nan paradi, pandan yon moun ki viv byen tout lavi l men ki pa kwè al nan lanfè?",
+  "faq.a1": "<p>Se yon kesyon ki rezonab. Men de move konprann kache ladan li.</p><p><b>① Bib la pa divize moun an «bon kont move».</b> Mezi a se pa «pi bon pase moun bò kote ou» men «sentete pafè Bondye a». Devan li, pèsonn pa «ase bon» (Women 3:23). Donk se pa «yon bon moun kont yon asasen», men pito de moun ki gen menm maladi mòtèl la — youn pran remèd la, lòt la refize l, l ap di: «Mwen an sante plis pase nèg sa a».</p><p><b>② Yon sèl bagay separe paradi ak lanfè.</b> Se pa yon nòt konduit, men <b>èske ou resevwa Jezikri kòm Senyè epi èske pwoblèm peche ou rezoud.</b> Moun ki gen peche l rezoud nan san Kris la al nan paradi; moun ki pa janm resevwa l, ki rete ak peche l, pa al la. Pa gen okenn bon zèv ki ka rezoud pwoblèm peche sa a li menm.</p><p>Konsa paradi ak lanfè se pa yon «rekonpans pou bon konduit» men yon kesyon <b>relasyon ak Kris</b>. Epi «kwè» se pa yon dakò nan tèt, men yon chanjman sou kilès k ap dirije lavi ou — moun ki vrèman resevwa l pa vin awogan, men li repanti pi fon an. An reyalite, jistifye tèt ou («mwen se yon bon moun») se zidòl ki pi difisil pou kraze a, sa ki fè nou panse nou pa bezwen Kris (Lik 18:9-14).</p><p>Bib la di l klè: <b>«Moun ki mete konfyans yo nan Pitit Bondye a, yo p'ap kondannen. Men moun ki pa kwè nan li, yo deja kondannen»</b> (Jan 3:18). Jijman an se pa «konte zèv ou apre ou mouri», men li deja regle dapre <b>èske ou te resevwa Kris</b>.</p><p class='faq-v'>Women 3:23 · Jan 3:18 · Efezyen 2:8-9 · Lik 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Èske mwen pa ka senpleman viv yon bon lavi san m pa kwè nan Jezi?",
+  "faq.a2": "<p>Se panse ki pi kouran an, men li pa konprann ki sa vrè pwoblèm nan ye. Men yon imaj.</p><p><b>Sipoze ou abò yon batiman piray.</b> Kèlkeswa jan ou kenbe pon an pwòp, jan ou janti ak ekipaj la, jan lavi ou egzanplè — ou toujou yon <b>piray</b>, paske batiman an pote ou ansanm ak li nan kote l prale a (pò jijman an). Pwoblèm nan se pa yon «nòt konduit» men <b>«ki batiman ou fè pati» (idantite ou)</b>.</p><p>Se konsa Bòn Nouvèl la pa di «eseye vin pi bon»; li di <b>«chanje batiman».</b> Desann nan batiman peche a epi travèse al jwenn Jezi — nan nouvo idantite a kòm <b>yon pitit Bondye</b>. Sa se pa monte nòt ou ak efò, men fè konfyans Sila ki lonje men l ban ou epi travèse al nan batiman li.</p><p>An reyalite Bib la dekri delivrans la jistman konsa — <b>«Li rache nou anba pouvwa fènwa a, li fè nou antre nan peyi kote Pitit li renmen anpil la wa»</b> (Kolosyen 1:13).</p><p>Pa mal konprann: <b>sa pa vle di yon bon lavi pa gen valè.</b> Bonte se pa «kondisyon» delivrans la men <b>fwi</b> li. Moun ki chanje batiman kounye a viv byen — pa pou laperèz, men pou lanmou yon pitit.</p><p class='faq-v'>Kolosyen 1:13 · Jan 1:12 · Jan 3:3 · Efezyen 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Si yon moun ki fè mal santi l anpè, l ap di «Bondye padonnen mwen», pandan viktim nan toujou ap soufri — èske gras la pa twò bon mache?",
+  "faq.a3": "<p>Kesyon an rezonab, epi doulè a reyèl. Men yon deklarasyon konsa se pa «padon Bib la» — se yon <b>defòmasyon</b> li.</p><p><b>① Padon Bondye pa janm bon mache.</b> Peche pa pase anba tapi kòm si li pa t janm rive; Bondye li menm peye pri li ak lavi pwòp Pitit li. Kwa a se pa prèv yo pran peche alalejè, men prèv jan peche lou — se padon ki pi chè nan lemonn.</p><p><b>② Vrè repantans pote fwi.</b> Si yon moun ki fè mal awogan devan viktim nan — «Bondye padonnen m, donk mwen anpè» — sa se pa repantans men yon imitasyon li (Matye 3:8). Epi padon ant yon moun ak Bondye pa efase blesi viktim nan ni li pa fòse viktim nan padonnen.</p><p><b>③ Peche pa janm senpleman «kite ale».</b> Chak peche peye nan youn nan de kote — <b>swa Kris pote l sou kwa a</b> (pou moun ki fè l konfyans pa gen kondanasyon ankò, Women 8:1), <b>swa moun ki rejte l nèt pote l li menm.</b> Konsa pa gen «padon bon mache». Moun ki fè mal toujou gen responsablite legal nan mond sa a tou (Women 13:1-4).</p><p><b>④ Dlo nan je viktim nan pa janm piti devan Bondye.</b> Bondye kriye ak moun k ap kriye, li sonje chak dlo nan je, epi nan finisman l ap siye yo li menm (Revelasyon 21:4). Konsa viktim nan pa bezwen pote pwa revanj la pou kont li, men li ka renmèt li bay Bondye ki jis la (Women 12:19 — «Se mwen sèl ki gendwa tire revanj, se mwen menm sèl ki va bay moun sa yo merite. Se Bondye menm ki di sa»).</p><p class='faq-v'>Matye 3:8 · Women 8:1 · Women 13:1-4 · Revelasyon 21:4</p>",
+  "respond.h3": "Donk — e mwen menm?",
+  "respond.sub": "Lanmou sa a se pa enfòmasyon men yon <b>envitasyon</b>. Si lanmou ki te kloure nan plas ou a te touche kè ou, fè lapriyè sa a dousman, yon liy alafwa.",
+  "respond.prayer": "<p>Bondye,</p><p>mwen rekonèt mwen se yon pechè ki pa ka sove tèt mwen.</p><p>Mwen kwè Jezi te mouri sou kwa a pou mwen epi li leve vivan ankò.</p><p>Tanpri padonnen tout peche mwen, epi depi jodi a se ou ki Senyè lavi mwen.</p><p>Resevwa mwen kòm pitit ou, epi kite m viv yon nouvo lavi.</p><p class='amen'>Nan non Jezi mwen priye. Amèn.</p>",
+  "respond.after": "Si ou te priye sa a ak tout kè ou, Bib la di ou <b>tounen yon pitit Bondye</b>. Ou pa pou kont ou ankò — chèche yon legliz toupre epi mache wout lafwa a ansanm.",
+  "respond.verse": "«Men, moun ki te resevwa li yo, moun ki te kwè nan li yo, li ba yo pouvwa pou yo vin pitit Bondye.» — Jan 1:12 · Women 10:9-10",
+  "closing.main": "Yon sèl Bondye,<br>nan yon sèl istwa,<br>ap kouri dèyè nou ak yon<br><em>lanmou</em> ki pa janm lage.",
+  "closing.verse": "«Ni lavi, ni lanmò… pa gen anyen nan tout kreyasyon an ki ka rive fè nou pèdi lamou Bondye fè nou wè li gen pou nou nan Jezikri, Senyè nou an.» — Women 8:38-39",
+  "closing.small": "Sou fil istwa sa a, Lalwa, liv pwezi yo, pwofèt yo ak lèt yo ajoute «chè a».<br>Kounye a, kèlkeswa liv ou louvri, w ap wè kote ou ye nan istwa a.",
+  "closing.share": "↗ Pataje istwa sa a",
+  "about.line": "Baze sou pèspektiv istwa-redanmsyon (evanjelik · refòme) majorite legliz pwotestan koreyen an pataje.",
+  "about.contact": "Kesyon · kòmantè — <a id='contact' class='mail'>Voye yon imèl</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ANSYEN TESTAMAN · KONMANSMAN",
+   "title": "Kreyasyon",
+   "date": "Nan konmansman",
+   "one": "Bondye fè yon mond ki te «bon nèt».",
+   "people": "Bondye; Adan ak Èv",
+   "events": "Sis jou kreyasyon, lèzòm fèt nan imaj Bondye, repo Saba a",
+   "q": "Nan konmansman, Bondye kreye syèl la ak latè a.",
+   "cite": "Jenèz 1:1",
+   "christ": "Mond lan te fèt pa «Pawòl la». Levanjil Jan an deklare Pawòl sa a se Jezi li menm (Jan 1:1-3).",
+   "detail": "<p>Bib la pa louvri ak yon agiman filozofik men ak yon deklarasyon: <b>«Nan konmansman, Bondye…»</b>. Mond lan se pa yon aksidan men travay yon Bondye pèsonèl.</p><ul><li><b>Imaj Bondye</b> · pami tout kreyati, se sèlman lèzòm ki fèt pou sanble ak Bondye — pou konnen li epi pran swen mond lan.</li><li><b>Repo</b> · repo setyèm jou a montre tout bagay konplè epi anpè (chalom): «li te bon».</li><li><b>Edenn</b> · mond lan anvan li te kraze, kote Bondye ak moun mache ansanm.</li></ul>",
+   "next": "Men antyète sa a prèt pou kraze…"
+  },
+  {
+   "tag": "ANSYEN TESTAMAN · PWOBLÈM NAN KONMANSE",
+   "title": "Chit la",
+   "date": "Nan konmansman",
+   "one": "Peche antre, epi lyen ki te ant moun ak Bondye koupe.",
+   "people": "Adan ak Èv; sèpan an (Satan)",
+   "events": "Manje fwi defandi a, mete deyò Edenn, rive lanmò ak travay di",
+   "q": "Ou menm ak fanm lan, m'ap fè nou lènmi yonn ak lòt… Pitit pitit li ap kraze tèt ou.",
+   "cite": "Jenèz 3:15",
+   "christ": "Premye pwomès Bòn Nouvèl la, bay touswit apre chit la: «pitit pitit fanm lan» ap kraze tèt sèpan an — se Jezi sa ye (Jenèz 3:15; Women 16:20; Galat 4:4).",
+   "detail": "<p>Pa dezobeyisans ki te vle «vin tankou Bondye» a, peche antre nan mond lan. Rezilta a se pa senpleman yon règ kase, men yon <b>relasyon kraze</b>.</p><ul><li><b>Lyen kraze</b> · ak Bondye (kache), youn ak lòt (akize), ak lanati (pikan ak travay di).</li><li><b>Lanmò</b> · avètisman «se mouri w ap mouri» a vin reyalite.</li><li><b>Jenèz 3:15</b> · men nan mitan jijman an, yon pwomès delivrans bay anvan. Save yo rele sa <b>«pwotoevanjil la» (premye Bòn Nouvèl la)</b>.</li></ul>",
+   "next": "Kounye a Bondye rele yon sèl moun pou konmanse delivrans la…"
+  },
+  {
+   "tag": "ANSYEN TESTAMAN · PWOMÈS LA",
+   "title": "Patriyach yo",
+   "date": "anviwon 2000 ANVAN J.K.",
+   "one": "Bondye pwomèt Abraram: «W a sèvi yon kanal benediksyon».",
+   "people": "Abraram · Izarak · Jakòb · Jozèf",
+   "events": "Kontra ak Abraram, ofrann Izarak la, douz pitit gason Jakòb, Jozèf monte gen pouvwa nan peyi Lejip",
+   "q": "Y'a tounen yon gwo nasyon… W'a sèvi yon benediksyon pou tout moun.",
+   "cite": "Jenèz 12:2-3",
+   "christ": "Pwomès la ke «tout nasyon va jwenn benediksyon» akonpli nan Jezi, pitit pitit Abraram (Galat 3:16).",
+   "detail": "<p>Bondye konmanse rezoud pwoblèm tout limanite a lè li rele yon sèl moun, <b>Abraram</b>. Kè a se <b>kontra a (pwomès la)</b> — yon gwo nasyon, yon peyi, ak «benediksyon pou tout nasyon».</p><ul><li><b>Lafwa</b> · Abraram te kwè yon pwomès li pa t wè, epi Bondye konte sa pou li tankou jistis (Jenèz 15:6).</li><li><b>Izarak ak Jakòb</b> · pwomès la pase pi devan; Jakòb (Izrayèl) vin papa douz tribi yo.</li><li><b>Jozèf</b> · frè li yo vann li men li monte gen pouvwa — «Bondye fè sa tounen yon byen» (Jenèz 50:20).</li></ul>",
+   "next": "Apre Jozèf, fanmi an desann nan peyi Lejip — epi li vin esklav…"
+  },
+  {
+   "tag": "ANSYEN TESTAMAN · DELIVRANS",
+   "title": "Egzòd ak dezè a",
+   "date": "anviwon 1446 ANVAN J.K.",
+   "one": "Bondye delivre yon pèp esklav epi li fè l vin pa li.",
+   "people": "Moyiz, Arawon, farawon an",
+   "events": "Dis flewo yo, Delivrans (Pak), travèse Lanmè Wouj la, Dis Kòmandman yo nan Sinayi, tant lan, 40 ane nan dezè a",
+   "q": "M'ap adopte nou pou pèp mwen, mwen menm m'a Bondye nou.",
+   "cite": "Egzòd 6:7",
+   "christ": "Pak la — kote san yon ti mouton te detounen lanmò — montre Jezi, «ti mouton Pak nou an», ki kloure pou nou (1 Korent 5:7).",
+   "detail": "<p>Pi gwo delivrans Ansyen Testaman an. Izrayèl ki te esklav vin lib pa pouvwa Bondye epi fòme kòm <b>pèp</b> li.</p><ul><li><b>Pak la</b> · kay ki make ak san ti mouton an, lanmò pase l sou kote — modèl tout sakrifis ki vin apre.</li><li><b>Lanmè Wouj la</b> · delivrans kote chemen an fini; «travèse» a vin senbòl yon nouvo konmansman.</li><li><b>Kontra Sinayi a</b> · pa Kòmandman yo, yo aprann kijan pou viv kòm pèp Bondye.</li><li><b>Tant lan</b> · yon sanktyè ou ka deplase kote Bondye rete nan mitan pèp li — yon avangou «Emanyèl».</li><li><b>40 ane</b> · dezobeyisans kenbe yon jenerasyon ap mache nan dezè, men Bondye rete pre ak laman ak poto nyaj ak dife a.</li></ul>",
+   "next": "Kanpe sou rebò peyi pwomès la, yo prepare pou antre…"
+  },
+  {
+   "tag": "ANSYEN TESTAMAN · ETABLISMAN",
+   "title": "Konkèt ak Jij yo",
+   "date": "anviwon 1400–1050 ANVAN J.K.",
+   "one": "Yo jwenn peyi a, men san wa chak moun te fè sa l pito.",
+   "people": "Jozye; jij tankou Jedeyon ak Samson; Rit",
+   "events": "Chit Jeriko, etabli nan Kanaran, yon sik repete peche–jijman–delivrans",
+   "q": "Nan tan sa a pat gen wa nan peyi Izrayèl la. Chak moun te fè sa yo pito.",
+   "cite": "Jij 21:25",
+   "christ": "Nan liy Rit la soti David, epi nan liy David soti Jezi (Matye 1). Menm nan dezòd la, pye fanmi Mesi a kontinye.",
+   "detail": "<p>Anba Jozye yo antre nan peyi pwomès la, men apre yo etabli yo vit bliye Bondye. Liv Jij la se menm modèl la k ap repete.</p><ul><li><b>Sik k ap desann nan</b> · peche → opresyon → rèl → yon jij delivre → peche ankò. Li sèlman vin pi mal.</li><li><b>Jij yo</b> · Jedeyon, Samson, Debora — delivrè tanporè, ewoyik men ki gen anpil defo.</li><li><b>Rit</b> · yon istwa klere sou fidelite nan yon epòk fènwa; yon fanm etranje antre nan liy David (ak Jezi).</li></ul>",
+   "next": "Pèp la rele: «Ban nou yon wa tou!»…"
+  },
+  {
+   "tag": "ANSYEN TESTAMAN · LAJ DÒ",
+   "title": "Wayòm ini a",
+   "date": "anviwon 1050–930 ANVAN J.K.",
+   "one": "Bondye pwomèt David: «Fòtèy ou ap dire pou tout tan».",
+   "people": "Sayil · David · Salomon",
+   "events": "Premye wa Sayil, David ak Golyat, kontra ak David, Salomon bati tanp lan",
+   "q": "Ap toujou gen moun nan fanmi ou chita sou fòtèy la ap gouvènen apre ou… m'ap fè gouvènman fanmi ou lan kanpe fèm pou tout tan.",
+   "cite": "2 Samyèl 7:16",
+   "christ": "«Fòtèy ki dire pou tout tan» an akonpli nan Jezi, pitit David — se poutèt sa yo rele l «Pitit David» (Lik 1:32-33; Matye 1:1).",
+   "detail": "<p>Pwen pi wo Izrayèl, anba twa wa.</p><ul><li><b>Sayil</b> · wa pèp la te mande; yon bon konmansman gate pa dezobeyisans.</li><li><b>David</b> · «yon moun dapre kè Bondye». Li bat Golyat epi li fè Jerizalèm kapital la. Li fè yon gwo peche (Batcheba) men li repanti ak tout kè li (Sòm 51).</li><li><b>Kontra ak David la (2 Samyèl 7)</b> · Bondye pwomèt etabli dinasti David la pou tout tan — rasin desizif espwa mesianik la.</li><li><b>Salomon</b> · nan somè sajès ak richès li bati <b>tanp lan</b>, men nan fen lavi l li vire bò zidòl.</li></ul>",
+   "next": "Apre Salomon, wayòm nan separe an de…"
+  },
+  {
+   "tag": "ANSYEN TESTAMAN · DEKLEN",
+   "title": "Wayòm divize a",
+   "date": "930–586 ANVAN J.K.",
+   "one": "Divize an sid (Jida) ak nò (Izrayèl), nasyon an glise nan kraze.",
+   "people": "Wa de wayòm yo; pwofèt tankou Eli, Ezayi, Jeremi",
+   "events": "Wayòm nan divize, zidolatri gaye, pwofèt yo avèti",
+   "q": "Depi lè sa a, moun pèp Izrayèl yo vire do bay moun fanmi David yo jouk jounen jòdi a.",
+   "cite": "1 Wa 12:19",
+   "christ": "Nan epòk sa a pwofèt yo anonse Mesi k ap vini an pi klè toujou (Ezayi 9:6; Ezayi 53).",
+   "detail": "<p>Nan jou pitit Salomon an nasyon an separe: <b>wayòm nò Izrayèl la</b> (10 tribi, kapital Samari) ak <b>wayòm sid Jida a</b> (2 tribi, kapital Jerizalèm).</p><ul><li><b>Izrayèl (nò)</b> · chak wa sèvi zidòl; li tonbe anba Asiri an 722 ANVAN J.K.</li><li><b>Jida (sid)</b> · liy David kontinye, ak kèk bon wa tankou Ezekyas ak Jozyas, men an jeneral li deklere.</li><li><b>Pwofèt yo</b> · Eli, Amòs, Ezayi, Jeremi rele «tounen!». Pwofesi mesianik rive nan pwen ki pi rich li la (the «sèvitè k ap soufri» nan Ezayi 53).</li></ul>",
+   "next": "Nan finisman jijman yo te avèti a rive — yo pote yo ale nan egzil…"
+  },
+  {
+   "tag": "ANSYEN TESTAMAN · JIJMAN",
+   "title": "Egzil la",
+   "date": "722 / 586 ANVAN J.K.",
+   "one": "Nasyon an tonbe epi yo trennen pèp la nan peyi etranje.",
+   "people": "Danyèl, Ezekyèl, Nèbikadneza",
+   "events": "Izrayèl tonbe anba Asiri (722), Jida tonbe anba Babilòn epi tanp lan detwi (586)",
+   "q": "Nou te chita bò larivyè ki nan peyi Babilòn yo, nou t'ap kriye lè nou chonje peyi Siyon.",
+   "cite": "Sòm 137:1",
+   "christ": "Nan fon dezespwa a Jeremi pwomèt yon «nouvo kontra» (Jeremi 31:31) — menm kontra Jezi siyen nan dènye soupe a.",
+   "detail": "<p>Avètisman yo rive vre. Tanp lan boule epi yo pote pèp la nan Babilòn — yo pèdi peyi a, wa a, ak tanp lan: pwen ki pi ba a.</p><ul><li><b>De chit</b> · Izrayèl (Asiri, 722 ANVAN J.K.) ak Jida (Babilòn, 586 ANVAN J.K.).</li><li><b>Danyèl</b> · yon modèl lafwa menm nan yon lakou payen (twou lyon yo); li wè vizyon yon «wayòm ki dire pou tout tan» k ap vini.</li><li><b>Yon etensèl espwa</b> · vizyon Ezekyèl sou zo sèk ki tounen vivan (Ezekyèl 37) ak «nouvo kontra» Jeremi an montre yon lavni nan fènwa.</li></ul>",
+   "next": "Swasanndizan apre, Bondye louvri chemen — yo tounen lakay yo…"
+  },
+  {
+   "tag": "ANSYEN TESTAMAN · RESTORASYON",
+   "title": "Retounen an",
+   "date": "538–430 ANVAN J.K.",
+   "one": "Yo tounen epi yo rebati tanp lan ak miray yo.",
+   "people": "Esdras, Neyemi, Estè, Zowobabèl",
+   "events": "Retounen pa dekrè Siris la, rebati tanp lan, restore miray Jerizalèm yo, retwouve Pawòl la",
+   "q": "Kontantman Bondye ap mete nan kè nou an va ban nou fòs!",
+   "cite": "Neyemi 8:10",
+   "christ": "Malachi, dènye liv Ansyen Testaman an, fini lè li anonse yon mesaje pou prepare chemen Mesi a: «M'ap voye mesaje mwen» (Malachi 3:1).",
+   "detail": "<p>Pa dekrè wa Pès la Siris (538 ANVAN J.K.) retounen an konmanse. Nan twa vag yo tounen epi yo rebati sa ki te kraze.</p><ul><li><b>Zowobabèl</b> · rebati tanp lan (fini an 516 ANVAN J.K.).</li><li><b>Esdras</b> · anseye Pawòl la ankò epi reviv lafwa a.</li><li><b>Neyemi</b> · rebati miray Jerizalèm yo nan 52 jou.</li><li><b>Estè</b> · sove Jwif yo nan Pès anba ekstèminasyon — «pou yon lè konsa».</li><li><b>Toujou ap anvi</b> · tanp lan kanpe, men pa gen yon wa tankou David. Pèp la ap tann Mesi a.</li></ul>",
+   "next": "Epi answit… tankou syèl la ta fè silans, 400 ane pase."
+  },
+  {
+   "tag": "ANT TESTAMAN YO · PREPARE SÈN NAN",
+   "title": "Ane silans yo",
+   "date": "anviwon 430–4 ANVAN J.K.",
+   "one": "400 ane san vwa yon pwofèt — men sèn nan t ap prepare an silans.",
+   "people": "Aleksann Legran, Makabe yo, Wòm",
+   "events": "Pès → Lagrès → endepandans Makabe → dominasyon women",
+   "q": "Men, lè lè a rive, Bondye te voye pwòp pitit li. Li sòti nan vant yon fanm.",
+   "cite": "Galat 4:4",
+   "christ": "Tout «preparasyon sèn nan» se te Bondye k ap travay pou Jezi ta vini jisteman «lè lè a rive».",
+   "detail": "<p>Depi Malachi rive nan Nouvo Testaman an, anviwon 400 ane pase san nouvo Pawòl. Men dèyè istwa a Bondye t ap prepare chemen Bòn Nouvèl la.</p><ul><li><b>Anpi yo chanje men</b> · Pès → Lagrès (Aleksann, 333 ANVAN J.K.) → Ptoleme yo ak Selesid yo → revòlt Makabe a (167 ANVAN J.K.) → Wòm (63 ANVAN J.K.).</li><li><b>Grèk</b> · konkèt Aleksann fè grèk vin lang komen; Ansyen Testaman an tradui an grèk (Septant lan), ki louvri chemen pou Bòn Nouvèl la gaye vit.</li><li><b>Wout ak lapè Wòm</b> · bon wout ak «Pax Romana» a vin gran chemen pou misyon.</li><li><b>Sinagòg ak pati</b> · ansèyman nan sinagòg pran rasin; Farizyen ak Sadiseyen parèt; epi <b>anvi Mesi a</b> mi.</li></ul>",
+   "next": "Epi silans la kase — anfen, li vini."
+  },
+  {
+   "tag": "NOUVO TESTAMAN · AKONPLISMAN",
+   "title": "Jezi vini",
+   "date": "anviwon 4 ANVAN J.K.–30 APRE J.K.",
+   "one": "Mesi yo te pwomèt la vini, mouri, epi leve ankò.",
+   "people": "Jezi, douz disip yo, Jan Batis",
+   "events": "Enkanasyon an, ministè li ak ansèyman ak mirak, lanmò sou kwa a, rezirèksyon nan twazyèm jou a",
+   "q": "Pawòl la tounen moun. Li te vin viv nan mitan nou… ak renmen nan tout kè li.",
+   "cite": "Jan 1:14",
+   "christ": "Pitit fanm lan (sèn 2), benediksyon Abraram (3), ti mouton Pak la (4), wa David la ki dire pou tout tan (6), nouvo kontra a (8) — tout akonpli nan yon sèl moun, Jezi: vrè Pwofèt, Prèt, ak Wa nou.",
+   "detail": "<p>Silans la kase; Sila yo te pwomèt la rive. Kat levanjil yo temwen lavi, lanmò, ak rezirèksyon Jezi soti nan kat ang.</p><ul><li><b>Enkanasyon</b> · Bondye vin moun (Emanyèl, «Bondye avèk nou»), nan kote enb Betleyèm.</li><li><b>Ministè</b> · li anseye wayòm Bondye a, geri malad, rele pechè. «Moun ki wè m, li wè Papa a.»</li><li><b>Kwa a</b> · li peye pri peche ak lanmò chit la te pote (sèn 2). Vrè ti mouton Pak la.</li><li><b>Rezirèksyon</b> · li leve nan twazyèm jou a, li kraze pouvwa peche, lanmò, ak Satan — deja sou kwa a li «devide tout pouvwa ak tout otorite lespri yo… Li fè yo tounen rizib devan je tout moun» (Kolosyen 2:15).</li></ul><p>Konsa Jezi se <b>vrè Pwofèt</b> nou (montre chemen pou rive jwenn Bondye), <b>vrè Prèt</b> nou (peye pou peche ak pwòp kò li), ak <b>vrè Wa</b> nou (venk peche, lanmò, ak Satan epi reye pou tout tan).</p>",
+   "next": "Jezi resisite voye disip li yo nan mond lan…"
+  },
+  {
+   "tag": "NOUVO TESTAMAN · EKSPANSYON",
+   "title": "Legliz la konmanse",
+   "date": "anviwon 30 APRE J.K.–",
+   "one": "Lespri a vini, epi Bòn Nouvèl la gaye nan dènye bout latè.",
+   "people": "Pyè, Pòl, premye legliz la",
+   "events": "Lespri a vide nan Pannkòt, legliz la fèt, Bòn Nouvèl la gaye soti Jerizalèm rive Wòm atravè pèsekisyon",
+   "q": "lè Sentespri a va desann sou nou, n'a resevwa yon pouvwa… jouk nan dènye bout latè.",
+   "cite": "Travay 1:8",
+   "christ": "Istwa sa a ap kontinye toujou. Bib la fini lè li pwomèt Jezi ap vini ankò epi fè tout bagay tounen nèf (Revelasyon 21).",
+   "detail": "<p>Apre Jezi monte nan syèl, Lespri yo te pwomèt la vini nan Pannkòt epi legliz la fèt. Bòn Nouvèl la gaye tankou eksplozyon.</p><ul><li><b>Pannkòt</b> · Lespri a fè disip ki te pè yo vin temwen ki gen kouraj.</li><li><b>Pyè</b> · preche Bòn Nouvèl la bay Jwif yo nan Jerizalèm.</li><li><b>Pòl</b> · soti pèsekitè li vin apot, li plante legliz atravè mond payen an epi li ekri lèt yo.</li><li><b>Jouk nan dènye bout latè</b> · Jerizalèm → Jide → Samari → Wòm. Pwomès «tout nasyon» Bondye te fè Abraram nan vin reyalite.</li><li><b>Epi nou menm</b> · istwa a pa fini; li avanse vè retou Jezi a ak nouvo syèl ak nouvo tè a.</li></ul>",
+   "next": "Men istwa a pa fini la…"
+  },
+  {
+   "tag": "NOUVO TESTAMAN · AKONPLISMAN FINAL",
+   "title": "Restorasyon",
+   "date": "Ki poko rive",
+   "one": "Jezi vini ankò epi fè tout bagay tounen nèf.",
+   "people": "Jezi k ap tounen; tout nasyon yo",
+   "events": "Dezyèm vini an, jijman final la, fen peche·lanmò·dlo nan je, yon nouvo syèl ak yon nouvo tè",
+   "q": "Li gen pou l cheche tout dlo nan je yo. P'ap gen lanmò ankò, yo p'ap nan lapenn ankò.",
+   "cite": "Revelasyon 21:4",
+   "christ": "Edenn premye kreyasyon an restore anfen kòm «nouvo Jerizalèm» an. Bondye rete ak pèp li pou tout tan — antyète Emanyèl la (Revelasyon 21:3; Matye 1:23).",
+   "detail": "<p>Bib la pa fini ak laj legliz la. Dènye liv li, Revelasyon, montre Jezi <b>k ap vini ankò</b> pou konplete tout bagay.</p><ul><li><b>Dezyèm vini an</b> · Wa yo te pwomèt la tounen nan glwa.</li><li><b>Viktwa final la</b> · Satan ak lanmò venk pou tout tan, epi Kris reye kòm Wa wa yo (1 Korent 15:25-26; Revelasyon 20:10).</li><li><b>Jijman ak rezirèksyon</b> · tout sa ki mal ranje, epi mò yo leve.</li><li><b>Yon nouvo syèl ak yon nouvo tè</b> · peche, lanmò, dlo nan je, ak doulè disparèt pou tout tan (Revelasyon 21:4).</li><li><b>Edenn restore</b> · nan yon «nouvo Jerizalèm» ki pi bon pase konmansman an, Bondye rete ak pèp li pou tout tan — destinasyon tout Bib la t ap dirije a.</li></ul><p>Konsa kounye a se laj <b>«deja, men poko»</b> a: nan Jezi delivrans <b>deja</b> akonpli, men akonplisman li <b>poko</b> rive.</p>",
+   "next": "Donk ki sa tout istwa sa a vle di pou «mwen»?"
+  }
+ ],
+ "core": [
+  {
+   "title": "Peche orijinèl — pa gen moun ki jis",
+   "body": "Pwoblèm nan se pa «kèk move zak» men rasin kè a. Depi Adan, tout moun fèt anba peche epi yo pa ka rive jwenn Bondye pou kont yo.",
+   "vref": "Women 3:10-12, 23",
+   "vtext": "Nanpwen moun ki gen rezon devan Bondye. Non, pa menm yon grenn… Tout moun peche, Bondye ki gen pouvwa a bay yo tout do."
+  },
+  {
+   "title": "Lalwa pa ka sove mwen",
+   "body": "Lalwa se pa yon nechèl men yon glas. Plis ou eseye, plis li montre konbyen ou rate. Bi li se mennen nou bay Kris.",
+   "vref": "Women 3:20 · Galat 3:24",
+   "vtext": "Lalwa annik fè nou konnen sa nou fè a pa bon… lalwa te reskonsab nou pou tann Kris vini."
+  },
+  {
+   "title": "Pa gras — yon kado, pa yon efò",
+   "body": "Delivrans se pa salè pou merit ou rasanble, men yon kado gratis pou moun ki pa merite l. Konsa pèsonn pa ka vante tèt yo.",
+   "vref": "Efezyen 2:8-9",
+   "vtext": "Se yon kado Bondye ban nou… pèsonn pa ka vante tèt yo."
+  },
+  {
+   "title": "Jistifye pa lafwa",
+   "body": "Se pa lè ou kenbe Lalwa, men lè ou mete konfyans nan Jezikri, Bondye konte ou jis — pa abiye ak pwòp jistis ou men ak pa li.",
+   "vref": "Women 5:1 · Galat 2:16",
+   "vtext": "Paske nou gen konfyans nan Bondye, Bondye fè nou gras… se lè li mete konfyans li nan Jezikri Bondye va fè l gras."
+  },
+  {
+   "title": "Bib la montre Jezi",
+   "body": "Bib la se pa yon liv sou gwo nèg ni yon liv pou ede tèt ou. Depi Jenèz rive Revelasyon, chak paj temwen yon sèl moun — Jezikri.",
+   "vref": "Jan 5:39 · Lik 24:27",
+   "vtext": "Se Liv sa a menm ki pale sou mwen… li pran esplike yo tou sa ki te ekri sou li nan Liv yo."
+  },
+  {
+   "title": "Wayòm Bondye a — mesaj santral Jezi a",
+   "body": "Tèm Jezi te anseye plis la. Rèy Bondye kòm Wa antre nan mond sa a ak Jezi epi l ap konplete lè li tounen. Pa kwa li ak rezirèksyon li, Jezi se vrè Wa a ki venk peche, lanmò, ak Satan.",
+   "vref": "Mak 1:15",
+   "vtext": "Jou a rive. Kounyeya, Bondye ki wa nan syèl la ap vin pran pouvwa a nan men li. Tounen vin jwenn Bondye. Asepte Bòn Nouvèl la."
+  },
+  {
+   "title": "Bòn Nouvèl la — li fini tout bagay",
+   "body": "Pri peche mwen pa t janm ka peye a, Jezi peye l nan plas mwen sou kwa a, epi lè li leve li venk lanmò. Mwen pa apiye sou «fè sa» men sou «tou sa fin rive».",
+   "vref": "Jan 19:30 · Women 5:8",
+   "vtext": "Tou sa ki pou te rive rive!… nou te nan peche toujou lè Kris la mouri pou nou."
+  }
+ ],
+ "mis": [
+  {
+   "w": "«Poukisa Bondye fè moun ki ka peche? Èske li pa t ap pi bon pou l pa t kreye nou ditou?»",
+   "t": "Bondye kreye mond lan ak moun pa paske l te manke anyen, men pa lanmou ki debòde. Fè lèzòm tankou <b>moun ki gen yon relasyon ak Bondye</b> se lanmou nan tèt li. Epi menm antre peche a pa t deyò plan delivrans Bondye (Efezyen 1:4-5). Premye sèn Bib la se pa jijman men lanmou."
+  },
+  {
+   "w": "«Mete deyò epi bay lanmò sèlman pou manje yon fwi — èske Bondye pa twò di?»",
+   "t": "Mete deyò Edenn nan se te jijman epi mizèrikòd alafwa. Manje nan pyebwa lavi a epi viv pou tout tan nan eta kraze sa a, separe ak Bondye, se ta rete pran nan soufrans pou tout tan (Jenèz 3:22). Pèmèt lanmò te louvri yon chemen pou tounen, epi la menm Bondye pwomèt yon Sovè (Jenèz 3:15). Lanmou te deja anndan jijman an."
+  },
+  {
+   "w": "«Yo te chwazi Abraram paske li te gen gwo lafwa — èske tout moun Bib la se pa ewo moral?»",
+   "t": "Abraram bay manti epi li doute; Jakòb te yon twonpè. Bondye pa t rele moun «kalifye» men moun ki gen defo, pa gras. Rezon an se pa bonte yo men lanmou fidèl Bondye (Detewonòm 7:7-8)."
+  },
+  {
+   "w": "«Èske Lalwa (Kòmandman yo) se pa yon egzamen ou dwe pase pou ou sove?»",
+   "t": "Bondye sove yo <b>anvan</b> li bay Lalwa. Menm Dis Kòmandman yo louvri ak yon deklarasyon delivrans: «Se mwen menm, Senyè a, Bondye nou an, ki te fè nou sòti nan peyi Lejip kote nou te esklav la» (Egzòd 20:2). Lalwa se pa «kenbe l pou ou sove», men gid lanmou sou jan yon pèp ki deja delivre dwe viv (Detewonòm 7:7-9). Gras toujou vin anvan; obeyisans se repons lan."
+  },
+  {
+   "w": "«Konkèt Kanaran an se te yon masak san pitye — donk Bondye Ansyen Testaman an vreman mechan.»",
+   "t": "Sa se yon sijè difisil ou pa ka regle nan yon fraz. Men Bib la prezante l pa kòm vyolans okazib men kòm jijman apre syèk pasyans devan mechanste ekstrèm (ki gen ladan sakrifis timoun) (Jenèz 15:16; Detewonòm 9:4-5; Levitik 18:24-25). Bondye dousman menm pou jije, epi li te resevwa ak kè kontan moun ki tounen jwenn li — menm etranje tankou Rahab ak Rit (Jozye 6:25; Rit 4:13-17)."
+  },
+  {
+   "w": "«David te yon ewo san defo — se poutèt sa yo te rele l “yon moun dapre kè Bondye”.»",
+   "t": "David fè adiltè epi menm asasinay. «Yon moun dapre kè Bondye» pa vle di san defo, men yon moun ki pa t kache peche l — ki te repanti afon epi ki te toujou tounen jwenn Bondye (Sòm 51). Lanmou Bondye pa jete menm moun ki tonbe di."
+  },
+  {
+   "w": "«Pwofèt yo se divinò k ap predi lavni / Bondye Ansyen Testaman an se kòlè sèlman.»",
+   "t": "Kè yon pwofèt se pa «predi lavni» men siplikasyon Bondye ki gen doulè: «Tanpri tounen». Menm avètisman jijman pa pou detwi men pou fè moun tounen epi sove yo — «Mwen pa pran okenn plezi nan wè mechan yo mouri» (Ezekyèl 33:11)."
+  },
+  {
+   "w": "«Egzil la pwouve Bondye abandonnen Izrayèl nèt.»",
+   "t": "Egzil la se pa abandon men disiplin ak rafineman vè yon pitit byenneme (Ebre 12:6). Bondye pa t pati; li te ak Danyèl nan kè egzil la epi li pwomèt: «Se mwen menm ki konnen sa m gen nan tèt nou pou nou… se pwojè byen mwen gen pou nou, se pa pwojè malè» (Jeremi 29:11)."
+  },
+  null,
+  {
+   "w": "«Ak okenn pawòl pandan 400 ane, Bondye te pati oswa li t ap repoze.»",
+   "t": "Silans se pa absans. Li senpleman pa t pale, pandan tout tan an l ap deplase anpi, lang, ak wout pou prepare sèn delivrans la. Nan moman ki pi an silans la, Bondye t ap travay pi rèd, ak lanmou (Galat 4:4)."
+  },
+  {
+   "w": "«Jezi te jis yon bon mèt moral / kwa a te yon defèt trajik.»",
+   "t": "Jezi te deklare se li menm ki Bondye (Jan 8:58), epi kwa a se pa t yon aksidan ni yon defèt men lanmou planifye. Yo pa t trennen l la pa fòs; li bay pwòp lavi li (Jan 10:18). «Pa gen pi bon jan pou ou moutre jan ou renmen zanmi ou pase lè ou bay lavi ou pou yo» (Jan 15:13)."
+  },
+  {
+   "w": "«Legliz la se yon klèb moun pafè, oswa jis yon bilding.»",
+   "t": "Legliz la se pa yon kominote «sen ki fini» men <b>pechè ki padonnen</b>. Menm apot Pòl te rele tèt li «pi gwo pechè a» (1 Timote 1:15). Premye legliz la te diskite epi tonbe tou (Travay 6:1; 1 Korent 1:11). Se pa yon kote pou vante tèt ou, men moun k ap pase bay lanmou yo te resevwa a (Jan 13:34-35)."
+  },
+  null
+ ],
+ "love": [
+  "Istwa a konmanse pa ak jijman men ak yon kreyasyon vide nan lanmou.",
+  "Moman moun yo peche, Bondye pwomèt yon delivrans la menm sou plas la.",
+  "Bondye vin anvan bay yon moun ki pa merite l, rele l pa non l, epi fè l yon kanal benediksyon.",
+  "Li tande plenyen yon pèp esklav epi li desann li menm pou delivre yo.",
+  "Trayi ankò e ankò, men chak fwa yo te rele li te voye yon delivrè epi leve yo.",
+  "Li pa t jete menm David ki te tonbe, epi atravè li li pwomèt yon Wa ki dire pou tout tan.",
+  "Bay yon pèp ki te vire do, li te kontinye voye pwofèt, ap sipliye: «Tanpri tounen lakay».",
+  "Li te ale ak yo menm nan peyi egzil ki pi fènwa a, epi li pwomèt restorasyon.",
+  "Menm bay yon pèp ki te echwe ankò e ankò, li pa t reprann pwomès li.",
+  "Menm atravè 400 ane silans, san yo pa wè, l ap prepare chemen delivrans la.",
+  "Pandan nou te toujou pechè, li voye Pitit li pou bay pwòp lavi li.",
+  "Lanmou nou te resevwa a, kounye a li voye l koule sou tout mond lan.",
+  "Anfen l ap siye tout dlo nan je epi restore tout bagay nan lanmou."
+ ]
+}

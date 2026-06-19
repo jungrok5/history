@@ -1,0 +1,343 @@
+{
+ "menuName": "Suomi",
+ "htmlLang": "fi",
+ "dir": "ltr",
+ "brand": "Raamattu yhdellä vierityksellä",
+ "docTitle": "Raamattu yhdellä vierityksellä · Luomisesta seurakuntaan",
+ "share": {
+  "title": "Raamattu yhdellä vierityksellä",
+  "text": "Yhdellä vierityksellä: löydä Raamatun suuri kertomus ja se, miksi Jeesus tuli."
+ },
+ "ui": {
+  "people": "Henkilöt",
+  "events": "Keskeiset tapahtumat",
+  "christLabel": "Osoittaa Jeesukseen",
+  "loveLabel": "Rakkaus, joka ei luovuta",
+  "mythWrong": "Yleinen väärinkäsitys",
+  "mythRight": "Todellisuudessa",
+  "more": "Lue lisää",
+  "version": "(KR92)"
+ },
+ "labels": {
+  "start": "Alku",
+  "thread": "Juoni",
+  "gospel": "Evankeliumi",
+  "about": "Tietoja"
+ },
+ "s": {
+  "ui.share": "↗ Jaa",
+  "ui.toast": "Linkki kopioitu 📋",
+  "ui.footer": "Raamattu yhdellä vierityksellä · Raamatunlainaukset KR92:sta",
+  "hero.kicker": "LUOMISESTA SEURAKUNTAAN",
+  "hero.title": "Raamattu<br><span class='em'>yhdellä vierityksellä</span>",
+  "hero.sub": "Yhdellä vierityksellä: löydä Raamatun suuri kertomus ja se, miksi Jeesus tuli.",
+  "hero.cue": "Vieritä alas<span>↓</span>",
+  "thread.eyebrow": "YKSI LAUSE, JOKA KULKEE LÄPI KOKO RAAMATUN",
+  "thread.h2": "Lopulta Raamattu on yksi ainoa kertomus",
+  "thread.flow": "<b>Lupaus</b><span class='arw'>→</span><b>Odotus</b><span class='arw'>→</span><b>Täyttymys</b>",
+  "thread.note": "Jumala <b>lupaa</b> (liitto), kansa <b>odottaa</b> kauan, ja lopulta kaikki <b>täyttyy</b> ja tulee täydelliseksi Jeesuksessa. Käy läpi seuraavat 13 näkymää tämän juonen mukaan. Napauta kunkin kortin <b>«Lue lisää»</b> saadaksesi syvemmän kertomuksen.",
+  "gospel.eyebrow": "MITÄ TÄMÄ KERTOMUS MERKITSEE «MINULLE»",
+  "gospel.h2": "Raamatun todellinen ydin",
+  "gospel.lead": "Raamattu <b>ei ole moraalin oppikirja, joka sanoo «ole hyvä ihminen».</b>",
+  "gospel.sublead": "Se on kertomus siitä, kuinka Jumala <b>yksin armosta</b> pelastaa syntiset, jotka eivät voi pelastaa itseään. Keskuksessa on Jeesus Kristus.",
+  "gospel.mirror": "<h3>Israelin loputon kierre on todellisuudessa kuva «minusta»</h3><div class='cycle'><b>Epäjumalanpalvelus</b><span class='a'>→</span><b>Kärsimys</b><span class='a'>→</span><b>Avunhuuto</b><span class='a'>→</span><b>Jumala pelastaa</b><span class='a'>→</span><b>Taas epäjumalanpalvelus…</b></div><p>Tuomareiden ajasta pakkosiirtolaisuuteen Israel toistaa tätä kierrettä loputtomasti. Raamattu ei tallentanut tätä, jotta voisimme pilkata: «miten surkeita he olivat».</p><p>Se on <b>peili</b>. Kyse ei ole siitä, että «he olivat sellaisia», vaan siitä, että näkisimme: <b>«minä olen samanlainen»</b> (Ensimmäinen kirje korinttilaisille 10:11).</p><p><b>Epäjumala</b> ei ole vain puusta veistetty kuva. Se on <b>kaikki, mitä rakastamme tai mihin luotamme enemmän kuin Jumalaan</b> — raha, menestys, hyväksyntä, ihmiset, jopa minä itse. Ja Jumalan käyttäminen <b>välineenä omien halujen täyttämiseksi</b> on sekin epäjumalanpalvelusta.</p><p class='punch'>Lopulta syvin epäjumala on «minä itse, joka istun Jumalan valtaistuimella».</p>",
+  "gospel.coreIntro": "Kuinka Jumala sitten pelastaa tällaisen syntisen? Tässä on Raamatun julistaman evankeliumin ydin.",
+  "gospel.crux": "<p class='crux-lead'>Koko Raamattu osoittaa yhteen paikkaan.</p><p>Ihminen ei voinut omin voimin murtaa synnin kierrettä, eikä ollut yhtään vanhurskasta. Siksi jonkun oli <b>maksettava hinta meidän sijastamme</b>.</p><p>Jeesus ei tullut vain antamaan hyvää opetusta. Koska ei ollut muuta tietä pelastaa minua, <b>hänen oli pakko tulla.</b></p><p class='crux-punch'>Se, jonka olisi pitänyt riippua tuolla ristillä, olin <b>minä</b>.<br>Jeesus kantoi <b>minun syntini</b> ja naulittiin sinne minun sijastani.</p><div class='crux-verse'>«Vaikka meidän rikkomuksemme olivat hänet lävistäneet ja meidän pahat tekomme hänet ruhjoneet… hänen haavojensa hinnalla me olemme parantuneet.» — Jesajan kirja 53:5</div>",
+  "faq.h": "Painaako jokin vielä mieltäsi?",
+  "faq.q1": "<span class='arr'>▸</span> Pääseekö siis murhaaja taivaaseen pelkästään uskomalla, kun taas hyvän elämän elänyt mutta uskomaton joutuu helvettiin?",
+  "faq.a1": "<p>Se on aiheellinen kysymys. Mutta sen sisällä piilee kaksi väärinkäsitystä.</p><p><b>① Raamattu ei jaa ihmisiä «hyviin» ja «pahoihin».</b> Mittapuu ei ole «parempi kuin viereinen», vaan «Jumalan täydellinen pyhyys». Hänen edessään kukaan ei ole «kyllin hyvä» (Kirje roomalaisille 3:23). Kyse ei siis ole «hyvästä ihmisestä vastaan murhaaja», vaan pikemminkin kahdesta parantumattomasti sairaasta: toinen ottaa vastaan lääkkeen, toinen torjuu sen sanoen «minä olen terveempi kuin tuo».</p><p><b>② Taivaan ja helvetin erottaa vain yksi asia.</b> Ei tekojen pistemäärä, vaan <b>se, oletko ottanut Jeesuksen Kristuksen vastaan Herrana ja onko syntiongelmasi ratkaistu</b>. Se, jonka synti on sovitettu Kristuksen verellä, pääsee taivaaseen; se, joka ei koskaan ota häntä vastaan ja jää syntiinsä, ei. Mikään hyvä teko ei voi ratkaista itse syntiongelmaa puolestasi.</p><p>Siksi taivas ja helvetti eivät ole «palkinto hyvästä käytöksestä», vaan kysymys <b>suhteesta Kristukseen</b>. Eikä «usko» ole mielen myöntymys, vaan elämän Herran vaihtuminen: se, joka todella ottaa hänet vastaan, ei tule röyhkeäksi vaan katuu syvemmin. Pikemminkin <b>itsevanhurskaus</b> «minä olen hyvä» on vaikein epäjumala murtaa, se joka saa ajattelemaan «en tarvitse Kristusta» (Evankeliumi Luukkaan mukaan 18:9-14).</p><p>Raamattu sanoo sen selvästi: <b>«Sitä, joka uskoo häneen, ei tuomita, mutta se, joka ei usko, on jo tuomittu»</b> (Evankeliumi Johanneksen mukaan 3:18). Tuomio ei ole «elämäsi arvostelua lopussa», vaan se on jo ratkaistu sen mukaan, <b>otitko Kristuksen vastaan</b>.</p><p class='faq-v'>Kirje roomalaisille 3:23 · Evankeliumi Johanneksen mukaan 3:18 · Kirje efesolaisille 2:8-9 · Evankeliumi Luukkaan mukaan 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Eikö riitä, että on hyvä ihminen, vaikkei uskoisikaan Jeesukseen?",
+  "faq.a2": "<p>Näin ajatellaan useimmiten, mutta se käsittää väärin, mikä on «todellinen ongelma». Otetaan vertaus.</p><p><b>Kuvittele, että olet merirosvolaivassa.</b> Vaikka kuinka pidät kannen puhtaana, olet ystävällinen miehistölle ja elät esimerkillisesti, olet silti <b>merirosvo</b>, koska laiva kuljettaa sinut mukanaan määränpäähänsä (tuomion satamaan). Ongelma ei ole «tekojen pistemäärä», vaan <b>«mihin laivaan kuulut» (identiteettisi)</b>.</p><p>Siksi evankeliumi ei sano «yritä olla parempi», vaan <b>«vaihda laivaa»</b>. Astu pois synnin laivasta ja siirry Jeesukseen: <b>Jumalan lapsen</b> uuteen identiteettiin. Kyse ei ole pistemäärän nostamisesta ponnistelemalla, vaan luottamisesta Häneen, joka ojentaa kätensä, ja siirtymisestä hänen laivaansa.</p><p>Itse asiassa Raamattu kuvaa pelastusta juuri tällaisena «siirtona»: <b>«Hän on pelastanut meidät pimeyden vallasta ja siirtänyt meidät rakkaan Poikansa valtakuntaan»</b> (Kirje kolossalaisille 1:13).</p><p>Älä käsitä väärin: <b>tämä ei tarkoita, että hyvä elämä olisi arvotonta.</b> Mutta hyvyys ei ole pelastuksen «ehto», vaan sen <b>hedelmä</b>. Se, joka on vaihtanut laivaa, elää hyvin enää ei pelosta, vaan <b>lapsen rakkaudesta</b>.</p><p class='faq-v'>Kirje kolossalaisille 1:13 · Evankeliumi Johanneksen mukaan 1:12 · Evankeliumi Johanneksen mukaan 3:3 · Kirje efesolaisille 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Jos tekijä elää rauhassa väittäen «Jumala on jo antanut minulle anteeksi», kun taas uhri yhä kärsii, eikö sellainen anteeksianto ole aivan liian halpaa?",
+  "faq.a3": "<p>Kysymys on oikeutettu, ja tuo kipu on todellista. Mutta tällainen väite ei ole «Raamatun anteeksianto», vaan sen <b>vääristymä</b>.</p><p><b>① Jumalan anteeksianto ei ole koskaan halpaa.</b> Syntiä ei lakaista maton alle ikään kuin «mitään ei olisi tapahtunut»; Jumala itse maksoi sen hinnan oman Poikansa elämällä. Risti ei todista, että syntiin suhtaudutaan kevyesti, vaan kuinka raskas se on: se on maailman kallein anteeksianto.</p><p><b>② Todellinen katumus tuottaa hedelmää.</b> Jos tekijä on tunteeton uhrin edessä sanoen «Jumala antoi minulle anteeksi, olen rauhassa», se ei ole katumusta vaan sen jäljitelmä (Evankeliumi Matteuksen mukaan 3:8). Eikä anteeksianto Jumalan ja minun välilläni poista uhrin haavaa eikä pakota häntä antamaan anteeksi.</p><p><b>③ Syntiä ei koskaan vain «päästetä menemään».</b> Jokainen synti maksetaan jommassakummassa kahdesta paikasta: <b>joko Kristus kantaa sen ristillä</b> (sille, joka uskoo, ei ole enää kadotustuomiota, Kirje roomalaisille 8:1), <b>tai sen kantaa se, joka loppuun asti torjuu hänet.</b> Niinpä «halpaa armahdusta» ei ole olemassa. Tekijä on vastuussa myös tämän maailman oikeudelle (Kirje roomalaisille 13:1-4).</p><p><b>④ Uhrin kyyneleet eivät ole koskaan pieniä Jumalan edessä.</b> Jumala itkee itkevien kanssa, muistaa jokaisen kyyneleen ja lopulta pyyhkii ne itse pois (Johanneksen ilmestys 21:4). Siksi uhrinkaan ei tarvitse kantaa koston taakkaa yksin, vaan hän voi uskoa sen vanhurskaalle Jumalalle (Kirje roomalaisille 12:19: «Minun on tuomio, minä maksan tekojen mukaan – näin sanoo Herra»).</p><p class='faq-v'>Evankeliumi Matteuksen mukaan 3:8 · Kirje roomalaisille 8:1 · Kirje roomalaisille 13:1-4 · Johanneksen ilmestys 21:4</p>",
+  "respond.h3": "Mitä minä siis teen?",
+  "respond.sub": "Tämä rakkaus ei ole tietoa, vaan <b>kutsu</b>. Jos rakkaus, joka naulittiin minun sijastani, on koskettanut sydäntäsi, rukoile nyt tämä hitaasti, lause kerrallaan.",
+  "respond.prayer": "<p>Jumala,</p><p>tunnustan olevani syntinen, joka ei voi pelastaa itseään.</p><p>Uskon, että Jeesus kuoli puolestani ristillä ja nousi kuolleista.</p><p>Anna anteeksi kaikki syntini ja ole tästä päivästä alkaen elämäni Herra.</p><p>Ota minut lapseksesi ja anna minun elää uutta elämää.</p><p class='amen'>Jeesuksen nimessä rukoilen. Aamen.</p>",
+  "respond.after": "Jos rukoilit tämän vilpittömästi, Raamattu sanoo, että sinusta on tullut <b>Jumalan lapsi</b>. Et ole enää yksin: etsi lähellä oleva seurakunta ja kulje uskon tietä yhdessä muiden kanssa.",
+  "respond.verse": "«Mutta kaikille, jotka ottivat hänet vastaan, hän antoi oikeuden tulla Jumalan lapsiksi.» — Evankeliumi Johanneksen mukaan 1:12 · Kirje roomalaisille 10:9-10",
+  "closing.main": "Yksi Jumala,<br>yhdellä kertomuksella,<br>etsii meitä <em>rakkaudella</em>,<br>joka ei koskaan luovuta.",
+  "closing.verse": "«Olen varma siitä, ettei kuolema eikä elämä… ei mikään luotu voi erottaa meitä Jumalan rakkaudesta, joka on tullut ilmi Kristuksessa Jeesuksessa, meidän Herrassamme.» — Kirje roomalaisille 8:38-39",
+  "closing.small": "Tälle juonelle laki, runokirjat, profeetat ja kirjeet lisäävät «lihan».<br>Tästä lähtien, minkä kirjan tahansa avaatkin, tiedät «missä kohdassa kertomusta olet».",
+  "closing.share": "↗ Jaa tämä kertomus",
+  "about.line": "Sisältö perustuu <b>lunastushistorialliseen, evankeliseen ja reformoituun</b> näkökulmaan, jonka korealaisen protestanttisuuden enemmistö jakaa.",
+  "about.contact": "Kysymykset · palaute — <a id='contact' class='mail'>Lähetä sähköpostia</a>"
+ },
+ "epochs": [
+  {
+   "tag": "VT · ALKU",
+   "title": "Luominen",
+   "date": "Alussa",
+   "one": "Jumala loi maailman, joka oli «sangen hyvä».",
+   "people": "Jumala; Aadam ja Eeva",
+   "events": "Kuusi luomispäivää, ihminen luotu Jumalan kuvaksi, sapatin lepo",
+   "q": "Alussa Jumala loi taivaan ja maan.",
+   "cite": "Ensimmäinen Mooseksen kirja 1:1",
+   "christ": "Maailma luotiin «Sanan» kautta. Johanneksen evankeliumi julistaa, että tämä Sana on Jeesus itse (Evankeliumi Johanneksen mukaan 1:1-3).",
+   "detail": "<p>Raamattu ei ala filosofisella todistelulla, vaan julistuksella: <b>«Alussa Jumala…»</b>. Maailma ei ole sattumaa, vaan persoonallisen Jumalan teko.</p><ul><li><b>Jumalan kuva</b> · vain ihminen on luotu Jumalan kaltaiseksi, jotta hän tuntisi Jumalan ja pitäisi huolta maailmasta.</li><li><b>Lepo</b> · seitsemännen päivän lepo osoittaa, että kaikki oli valmista ja rauhassa (shalom): «Jumala näki, että se oli hyvä».</li><li><b>Eeden</b> · maailma ennen särkymistä, jossa Jumala ja ihminen kulkevat yhdessä.</li></ul>",
+   "next": "Mutta tämä täyteys särkyy pian…"
+  },
+  {
+   "tag": "VT · ONGELMA ALKAA",
+   "title": "Lankeemus",
+   "date": "Alussa",
+   "one": "Synti astui sisään ja katkaisi ihmisen ja Jumalan välisen siteen.",
+   "people": "Aadam ja Eeva; käärme (Saatana)",
+   "events": "Kielletyn hedelmän syöminen, karkotus Eedenistä, kuoleman ja vaivannäön tulo",
+   "q": "Ja minä panen vihan sinun ja naisen välille… ihminen on iskevä sinun pääsi murskaksi.",
+   "cite": "Ensimmäinen Mooseksen kirja 3:15",
+   "christ": "Evankeliumin ensimmäinen lupaus, annettu heti lankeemuksen jälkeen: «naisen suku» musertaa käärmeen pään. Se on Jeesus (Ensimmäinen Mooseksen kirja 3:15; Kirje roomalaisille 16:20; Kirje galatalaisille 4:4).",
+   "detail": "<p>Tottelemattomuus, halu «olla niin kuin Jumala», toi synnin maailmaan. Seuraus ei ole vain yhden säännön rikkominen, vaan <b>suhteiden särkyminen</b>.</p><ul><li><b>Särkyneet suhteet</b> · Jumalaan (piiloutuminen), toisiin ihmisiin (syyttely) ja luontoon (orjantappurat ja vaivannäkö).</li><li><b>Kuolema</b> · varoitus «olet kuoleva» käy toteen.</li><li><b>1. Moos. 3:15</b> · mutta keskellä tuomiota annetaan ensin pelastuksen lupaus. Tutkijat kutsuvat sitä nimellä <b>«protoevankeliumi» (ensimmäinen evankeliumi)</b>.</li></ul>",
+   "next": "Nyt Jumala kutsuu yhden miehen ja aloittaa ennallistuksen…"
+  },
+  {
+   "tag": "VT · LUPAUS",
+   "title": "Patriarkat",
+   "date": "n. 2000 eKr.",
+   "one": "Jumala lupaa Abrahamille: «Sinusta tulee siunauksen kanava».",
+   "people": "Abraham · Iisak · Jaakob · Joosef",
+   "events": "Liitto Abrahamin kanssa, Iisakin uhraaminen, Jaakobin kaksitoista poikaa, Joosef Egyptin hallitsijaksi",
+   "q": "Minä teen sinusta suuren kansan… sinun saamasi siunaus tulee siunaukseksi kaikille maailman kansoille.",
+   "cite": "Ensimmäinen Mooseksen kirja 12:2-3",
+   "christ": "Lupaus, että «kaikki kansat siunataan», täyttyy Jeesuksessa, Abrahamin jälkeläisessä (Kirje galatalaisille 3:16).",
+   "detail": "<p>Jumala alkaa ratkaista koko ihmiskunnan ongelmaa kutsumalla yhden miehen, <b>Abrahamin</b>. Keskuksena on <b>liitto (lupaus)</b>: suuri kansa, maa ja «siunaus kaikille kansoille».</p><ul><li><b>Usko</b> · Abraham uskoi näkymättömän lupauksen, ja se luettiin hänelle vanhurskaudeksi (1. Moos. 15:6).</li><li><b>Iisak ja Jaakob</b> · lupaus siirtyy seuraavalle sukupolvelle; Jaakob (Israel) on kahdentoista heimon isä.</li><li><b>Joosef</b> · veljiensä myymä mutta nousee Egyptin hallitsijaksi: «Jumala käänsi sen hyväksi» (1. Moos. 50:20).</li></ul>",
+   "next": "Perhe menee Joosefin perässä Egyptiin… ja päätyy orjuuteen."
+  },
+  {
+   "tag": "VT · PELASTUS",
+   "title": "Lähtö ja erämaa",
+   "date": "n. 1446 eKr.",
+   "one": "Jumala pelastaa orjuutetun kansan ja tekee siitä omansa.",
+   "people": "Mooses, Aaron, farao",
+   "events": "Kymmenen vitsausta, pääsiäinen, Kaislameren ylitys, kymmenen käskyä Siinailla, ilmestysmaja, 40 vuotta erämaassa",
+   "q": "Minä otan teidät omaksi kansakseni ja olen teidän Jumalanne.",
+   "cite": "Toinen Mooseksen kirja 6:7",
+   "christ": "Pääsiäinen, jossa karitsan veri käänsi kuoleman pois, ennakoi Jeesusta, «meidän pääsiäislammastamme», joka ristiinnaulittiin puolestamme (1. Kor. 5:7).",
+   "detail": "<p>VT:n suurin pelastusteko. Orjana ollut Israel saa vapauden Jumalan voimalla ja muovataan hänen <b>kansakseen</b>.</p><ul><li><b>Pääsiäinen</b> · koti, jonka ovessa on karitsan veri, säästyy kuolemalta; malli kaikille myöhemmille uhreille.</li><li><b>Kaislameri</b> · pelastus, kun meri aukeaa umpikujassa; «toiselle puolelle pääsy» uuden alun vertauskuvana.</li><li><b>Siinain liitto</b> · kymmenen käskyn kautta he oppivat elämään Jumalan kansana.</li><li><b>Ilmestysmaja</b> · siirrettävä pyhäkkö, jossa Jumala asuu kansansa keskellä: ennakkomaku «Immanuelista».</li><li><b>40 vuotta</b> · tottelemattomuuden tähden yksi sukupolvi vaeltaa erämaassa, mutta Jumala on heidän kanssaan mannan sekä pilvi- ja tulipatsaan kautta.</li></ul>",
+   "next": "Luvatun maan reunalla he valmistautuvat astumaan sisään…"
+  },
+  {
+   "tag": "VT · ASETTUMINEN",
+   "title": "Valloitus ja tuomarit",
+   "date": "n. 1400–1050 eKr.",
+   "one": "He saavat maan, mutta ilman kuningasta jokainen tekee niin kuin itse hyväksi näkee.",
+   "people": "Joosua; tuomarit kuten Gideon ja Simson; Ruut",
+   "events": "Jerikon kukistuminen, asettuminen Kanaaniin, toistuva kierre synti–tuomio–pelastus",
+   "q": "Siihen aikaan Israelissa ei vielä ollut kuningasta, ja jokainen toimi niin kuin itse hyväksi näki.",
+   "cite": "Tuomarien kirja 21:25",
+   "christ": "Ruutin suvusta tulee Daavid, ja Daavidin suvusta tulee Jeesus (Matt. 1). Kaaoksessakin Messiaan sukulinja jatkuu.",
+   "detail": "<p>Joosuan johdolla he astuvat luvattuun maahan, mutta asetuttuaan unohtavat pian Jumalan. Tuomareiden kirja on saman kaavan toistoa.</p><ul><li><b>Synnin kierre</b> · synti → sorto → avunhuuto → tuomarin tuoma pelastus → taas synti, joka kerta pahempana.</li><li><b>Tuomarit</b> · Gideon, Simson, Debora… tilapäisiä vapauttajia, sankarillisia mutta täynnä puutteita.</li><li><b>Ruut</b> · uskollisuuden valo pimeänä aikana; muukalainen pääsee Daavidin (ja Jeesuksen) sukulinjaan.</li></ul>",
+   "next": "Kansa huutaa: «Anna meillekin kuningas!»…"
+  },
+  {
+   "tag": "VT · KUKOISTUS",
+   "title": "Yhtenäinen kuningaskunta",
+   "date": "n. 1050–930 eKr.",
+   "one": "Jumala lupaa Daavidille: «Sinun valtaistuimesi on kestävä ikuisesti».",
+   "people": "Saul · Daavid · Salomo",
+   "events": "Ensimmäinen kuningas Saul, Daavid ja Goljat, liitto Daavidin kanssa, Salomon temppeli",
+   "q": "Ja sukusi ja kuninkuutesi pysyvät edessäni ikuisesti lujina, ja valtaistuimesi on kestävä ikuisesti.",
+   "cite": "Toinen Samuelin kirja 7:16",
+   "christ": "«Ikuinen valtaistuin» täyttyy Jeesuksessa, Daavidin jälkeläisessä; siksi häntä kutsutaan «Daavidin Pojaksi» (Luuk. 1:32-33; Matt. 1:1).",
+   "detail": "<p>Israelin kukoistus kolmen kuninkaan aikana.</p><ul><li><b>Saul</b> · ensimmäinen kuningas, jota kansa vaati; hyvä alku, mutta hylätty tottelemattomuutensa tähden.</li><li><b>Daavid</b> · «Jumalan mielen mukainen mies». Voittaa Goljatin ja tekee Jerusalemista pääkaupungin. Tekee suuren synnin (Batseba), mutta katuu sydämestään (Ps. 51).</li><li><b>Liitto Daavidin kanssa (2. Sam. 7)</b> · Jumala lupaa pystyttää hänen sukunsa ikuisesti: messiaanisen toivon ratkaiseva juuri.</li><li><b>Salomo</b> · viisauden ja rikkauden huipulla rakentaa Jerusalemin <b>temppelin</b>, mutta lankeaa lopulta epäjumalanpalvelukseen.</li></ul>",
+   "next": "Salomon jälkeen kuningaskunta jakautuu kahtia…"
+  },
+  {
+   "tag": "VT · RAPPIO",
+   "title": "Jakautunut kuningaskunta",
+   "date": "930–586 eKr.",
+   "one": "Se jakautuu eteläiseen (Juuda) ja pohjoiseen (Israel) ja turmeltuu vähitellen.",
+   "people": "Molempien kuningaskuntien kuninkaat; profeetat kuten Elia, Jesaja ja Jeremia",
+   "events": "Kuningaskunnan jakautuminen, epäjumalanpalvelus, profeettojen varoitukset",
+   "q": "Israel hylkäsi Daavidin kuningassuvun ja on pysynyt siitä erillään tähän päivään saakka.",
+   "cite": "Ensimmäinen kuninkaiden kirja 12:19",
+   "christ": "Tänä aikana profeetat julistavat tulevaa Messiasta yhä selvemmin (Jes. 9:6; Jes. 53).",
+   "detail": "<p>Salomon pojan aikana kuningaskunta jakautuu: <b>Israel (pohjoinen)</b>, kymmenen heimoa, pääkaupunki Samaria; ja <b>Juuda (eteläinen)</b>, kaksi heimoa, pääkaupunki Jerusalem.</p><ul><li><b>Pohjoinen</b> · kaikki sen kuninkaat palvelevat epäjumalia; kukistuu Assyrialle vuonna 722 eKr.</li><li><b>Eteläinen</b> · Daavidin sukulinja jatkuu, ja on hyviä kuninkaita kuten Hiskia ja Josia, mutta kokonaisuutena rappeutuu.</li><li><b>Profeetat</b> · Elia, Aamos, Jesaja, Jeremia huutavat «kääntykää!». Täällä messiaaninen profetia on runsaimmillaan (Jesajan «kärsivä palvelija», Jes. 53).</li></ul>",
+   "next": "Lopulta luvattu tuomio koittaa: heidät viedään pakkosiirtolaisuuteen…"
+  },
+  {
+   "tag": "VT · TUOMIO",
+   "title": "Pakkosiirtolaisuus",
+   "date": "722 / 586 eKr.",
+   "one": "Kuningaskunta kaatuu ja kansa viedään vieraaseen maahan.",
+   "people": "Daniel, Hesekiel, Nebukadnessar",
+   "events": "Israel kukistuu Assyrialle (722); Juuda kukistuu Babylonialle ja temppeli tuhotaan (586)",
+   "q": "Virtojen varsilla Babyloniassa me istuimme ja itkimme, kun muistimme Siionia.",
+   "cite": "Psalmit 137:1",
+   "christ": "Syvimmän epätoivon keskellä Jeremia lupaa «uuden liiton» (Jer. 31:31): saman, jonka Jeesus vahvisti viimeisellä aterialla.",
+   "detail": "<p>Varoitus käy toteen. Temppeli palaa ja kansa viedään Babyloniaan: he menettävät maan, kuninkaan ja temppelin, pahin kriisi.</p><ul><li><b>Kaksi kukistumista</b> · Israel (Assyria, 722 eKr.) ja Juuda (Babylonia, 586 eKr.).</li><li><b>Daniel</b> · uskon esikuva jopa pakanallisessa hovissa (leijonien luola); hän näkee näyn tulevasta «ikuisesta valtakunnasta».</li><li><b>Toivon kipinä</b> · näky kuivista luista, jotka heräävät eloon (Hes. 37), ja Jeremian «uusi liitto» osoittavat tulevaisuuteen pimeydessä.</li></ul>",
+   "next": "Seitsemänkymmentä vuotta myöhemmin Jumala avaa tien: he palaavat kotiin…"
+  },
+  {
+   "tag": "VT · ENNALLISTUS",
+   "title": "Paluu pakkosiirtolaisuudesta",
+   "date": "538–430 eKr.",
+   "one": "He palaavat ja rakentavat jälleen temppelin ja muurit.",
+   "people": "Esra, Nehemia, Ester, Serubbabel",
+   "events": "Paluu Kyyroksen käskyllä, temppelin jälleenrakennus, Jerusalemin muurien korjaus, Sanan ennallistus",
+   "q": "Herra on teidän voimanne.",
+   "cite": "Nehemian kirja 8:10",
+   "christ": "Malakia, VT:n viimeinen kirja, päättyy ennustamalla sanansaattajaa, joka valmistaa Messiaan tien: «Minä lähetän sanansaattajani» (Mal. 3:1).",
+   "detail": "<p>Paluu alkaa Persian kuninkaan Kyyroksen käskyllä (538 eKr.). Kolmessa aallossa he palaavat ja rakentavat raunioituneen jälleen.</p><ul><li><b>Serubbabel</b> · rakentaa temppelin (valmis 516 eKr.).</li><li><b>Esra</b> · opettaa jälleen lakia (Sanaa) ja ennallistaa uskon.</li><li><b>Nehemia</b> · rakentaa Jerusalemin muurit 52 päivässä.</li><li><b>Ester</b> · pelastaa Persian juutalaiset tuholta: «kuka tietää, eikö juuri tätä hetkeä varten…?».</li><li><b>Jatkuva kaipaus</b> · temppeli seisoo, mutta ei ole kuningasta Daavidin kaltaista. Kansa odottaa Messiasta.</li></ul>",
+   "next": "Ja sitten… kuin suljettu taivas, koittaa 400 vuoden hiljaisuus."
+  },
+  {
+   "tag": "TESTAMENTTIEN VÄLI · NÄYTTÄMÖ VALMISTUU",
+   "title": "Hiljaisuuden vuodet",
+   "date": "n. 430–4 eKr.",
+   "one": "400 vuotta ilman profeetan ääntä; mutta näyttämö valmistui hiljaisuudessa.",
+   "people": "Aleksanteri Suuri, makkabilaiset, Rooma",
+   "events": "Persia → Kreikka → makkabilaisten itsenäisyys → Rooman valta",
+   "q": "Mutta kun aika oli täyttynyt, Jumala lähetti tänne Poikansa. Naisesta hän syntyi.",
+   "cite": "Kirje galatalaisille 4:4",
+   "christ": "Koko tämä «näyttämön valmistelu» oli Jumalan työtä, jotta Jeesus tulisi juuri silloin, «kun aika oli täyttynyt».",
+   "detail": "<p>Malakiasta Uuteen testamenttiin kuluu noin 400 vuotta ilman uutta Raamatun sanaa (profeettoja). Mutta historian takana Jumala valmisti tietä evankeliumille.</p><ul><li><b>Valtakuntien vaihtuminen</b> · Persia → Kreikka (Aleksanteri, 333 eKr.) → Egypti ja Syyria → makkabilaiskapina (167 eKr.) → Rooma (63 eKr.).</li><li><b>Kreikan kieli</b> · Aleksanterin valloitukset tekivät kreikasta yleiskielen; VT käännettiin kreikaksi (Septuaginta), avaten tien evankeliumin nopealle leviämiselle.</li><li><b>Rooman tiet ja rauha</b> · maantiet ja «Pax Romana» muuttuvat lähetystyön väyliksi.</li><li><b>Synagoga ja puolueet</b> · synagogaopetus juurtuu; nousevat fariseukset ja saddukeukset, ja <b>Messiaan odotus</b> kypsyy.</li></ul>",
+   "next": "Ja kun hiljaisuus murtuu, hän vihdoin tulee."
+  },
+  {
+   "tag": "UT · TÄYTTYMYS",
+   "title": "Jeesuksen tulo",
+   "date": "n. 4 eKr.–30 jKr.",
+   "one": "Luvattu Messias tuli, kuoli ja nousi kuolleista.",
+   "people": "Jeesus, kaksitoista opetuslasta, Johannes Kastaja",
+   "events": "Ihmiseksi tulo (joulu), opetuksen ja ihmeiden palvelu, kuolema ristillä, ylösnousemus kolmantena päivänä",
+   "q": "Sana tuli lihaksi ja asui meidän keskellämme… Hän oli täynnä armoa ja totuutta.",
+   "cite": "Evankeliumi Johanneksen mukaan 1:14",
+   "christ": "Naisen suku (näkymä 2), Abrahamin siunaus (3), pääsiäislammas (4), Daavidin ikuinen kuningas (6) ja uusi liitto (8) täyttyvät kaikki yhdessä Jeesuksessa: meidän tosi profeettamme, pappimme ja kuninkaamme.",
+   "detail": "<p>Hiljaisuus murtuu; luvattu tulee. Neljä evankeliumia todistavat Jeesuksen elämästä, kuolemasta ja ylösnousemuksesta eri näkökulmista.</p><ul><li><b>Ihmiseksi tulo</b> · Jumala tuli ihmiseksi (Immanuel, «Jumala meidän kanssamme»), Betlehemin alhaisuudessa.</li><li><b>Palvelutyö</b> · hän opettaa Jumalan valtakuntaa, parantaa sairaita ja kutsuu syntisiä. «Joka on nähnyt minut, on nähnyt Isän.»</li><li><b>Risti</b> · hän maksaa meidän sijastamme lankeemuksen (näkymä 2) tuoman synnin ja kuoleman hinnan. Tosi pääsiäislammas.</li><li><b>Ylösnousemus</b> · kolmantena päivänä hän nousee ja murtaa synnin, kuoleman ja Saatanan vallan; jo ristillä hän «riisui aseista vallat ja voimat… kun hän teki Kristuksesta niiden voittajan» (Kol. 2:15).</li></ul><p>Siksi Jeesus on meidän <b>tosi profeettamme</b> (näyttää tien Jumalan luo), <b>tosi pappimme</b> (sovittaa synnin omalla ruumiillaan) ja <b>tosi kuninkaamme</b> (voittaa synnin, kuoleman ja Saatanan ja hallitsee ikuisesti).</p>",
+   "next": "Ylösnoussut Jeesus lähettää opetuslapsensa maailmaan…"
+  },
+  {
+   "tag": "UT · LEVIÄMINEN",
+   "title": "Seurakunnan alku",
+   "date": "30 jKr. alkaen",
+   "one": "Henki tulee ja evankeliumi leviää maan ääriin saakka.",
+   "people": "Pietari, Paavali, alkuseurakunta",
+   "events": "Hengen vuodatus helluntaina, seurakunnan syntyminen, evankeliumi Jerusalemista Roomaan vainon kautta",
+   "q": "Mutta te saatte voiman, kun Pyhä Henki tulee teihin… te olette minun todistajani… maan ääriin saakka.",
+   "cite": "Apostolien teot 1:8",
+   "christ": "Tämä kertomus jatkuu yhä tänäänkin. Raamattu päättyy lupaukseen, että Jeesus palaa ja tekee kaiken uudeksi (Ilm. 21).",
+   "detail": "<p>Jeesuksen taivaaseen astumisen jälkeen luvattu Henki tulee helluntaina ja seurakunta syntyy. Evankeliumi leviää räjähdysmäisesti.</p><ul><li><b>Helluntai</b> · Hengen kautta pelokkaista opetuslapsista tulee rohkeita todistajia.</li><li><b>Pietari</b> · julistaa evankeliumia juutalaisille Jerusalemissa.</li><li><b>Paavali</b> · vainoojasta apostoliksi; perustaa seurakuntia pakanamaailmaan ja kirjoittaa kirjeitä.</li><li><b>Maan ääriin saakka</b> · Jerusalem → Juudea → Samaria → Rooma. Abrahamille annettu lupaus «kaikista kansoista» käy toteen.</li><li><b>Ja me</b> · kertomus ei pääty; se etenee kohti Jeesuksen paluuta sekä uutta taivasta ja uutta maata.</li></ul>",
+   "next": "Mutta kertomus ei pääty tähän…"
+  },
+  {
+   "tag": "UT · TÄYTTYMINEN",
+   "title": "Ennallistus (kaikki uudeksi)",
+   "date": "vielä tulossa",
+   "one": "Jeesus palaa ja tekee kaiken uudeksi.",
+   "people": "Palaava Jeesus; kaikki kansat",
+   "events": "Toinen tuleminen, viimeinen tuomio, synnin·kuoleman·kyynelten loppu, uusi taivas ja uusi maa",
+   "q": "Hän pyyhkii heidän silmistään joka ainoan kyyneleen. Kuolemaa ei enää ole, ei murhetta, valitusta eikä vaivaa.",
+   "cite": "Johanneksen ilmestys 21:4",
+   "christ": "Ensimmäisen luomakunnan Eeden ennallistetaan vihdoin «uutena Jerusalemina». Jumala asuu ikuisesti kansansa kanssa: Immanuelin täyteys (Ilm. 21:3; Matt. 1:23).",
+   "detail": "<p>Raamattu ei pääty seurakunnan aikakauteen. Sen viimeinen kirja, Ilmestys, näyttää Jeesuksen, joka <b>palaa</b> ja saattaa kaiken täydelliseksi.</p><ul><li><b>Toinen tuleminen</b> · luvattu kuningas palaa kirkkaudessa.</li><li><b>Lopullinen voitto</b> · Saatana ja kuolema tuhotaan ikuisesti, ja Kristus hallitsee kuninkaiden Kuninkaana (1. Kor. 15:25-26; Ilm. 20:10).</li><li><b>Tuomio ja ylösnousemus</b> · kaikki vääryys oikaistaan ja kuolleet herätetään.</li><li><b>Uusi taivas ja uusi maa</b> · synti, kuolema, kyyneleet ja kipu katoavat ikuisesti (Ilm. 21:4).</li><li><b>Ennallistettu Eeden</b> · alkua paremmassa «uudessa Jerusalemissa» Jumala asuu ikuisesti kansansa kanssa: päämäärä, jota kohti koko Raamattu on suunnannut.</li></ul><p>Siksi nyt on <b>«jo, mutta ei vielä»</b> -aika: Jeesuksessa pelastus on <b>jo</b> saatettu täytäntöön, mutta sen täyteyttä <b>vielä</b> odotetaan.</p>",
+   "next": "Mitä tämä koko kertomus sitten merkitsee «minulle»?"
+  }
+ ],
+ "love": [
+  "Kertomus ei ala tuomiolla, vaan maailmalla, joka on luotu ylitsevuotavasta rakkaudesta.",
+  "Heti kun ihminen teki syntiä, Jumala lupasi siinä samassa pelastuksen.",
+  "Jumala etsi ensin sitä, joka ei sitä ansainnut, kutsui häntä nimeltä ja teki hänestä siunauksen kanavan.",
+  "Hän kuuli orjuutetun kansan huokauksen ja tuli itse alas pelastamaan sitä.",
+  "Vaikka häntä petettiin yhä uudelleen, joka kerta kun he huusivat, hän lähetti vapauttajan ja nosti heidät jälleen.",
+  "Hän ei hylännyt edes langennutta Daavidia; hänen kauttaan hän lupasi ikuisen kuninkaan.",
+  "Kansalle, joka käänsi hänelle selkänsä, hän lähetti profeettoja rukoillen: «Käänny, ole kiltti».",
+  "Vielä pimeimpään pakkosiirtolaisuuden maahankin hän laskeutui heidän kanssaan ja lupasi ennallistuksen.",
+  "Edes kansalle, joka petti yhä uudelleen, hän ei peruuttanut lupausta, vaan nosti sen jälleen ylös.",
+  "Vielä 400 hiljaisen vuodenkin aikana hän valmisti salassa pelastuksen tietä.",
+  "Kun olimme vielä syntisiä, hän lähetti Poikansa ja antoi tämän elämän.",
+  "Sen rakkauden, jonka saimme, hän nyt lähettää vuotamaan koko maailmaan.",
+  "Lopulta hän pyyhkii pois joka kyyneleen ja tekee kaiken uudeksi rakkaudessa."
+ ],
+ "mis": [
+  {
+   "w": "«Miksi Jumala teki olennon, joka kykenee tekemään syntiä? Eikö olisi ollut parempi olla luomatta meitä lainkaan?»",
+   "t": "Jumala loi maailman ja ihmisen ei mistään puutteesta, vaan ylitsevuotavasta rakkaudesta. Ihmisen tekeminen <b>persoonaksi, joka voi olla suhteessa Jumalaan</b>, on jo itsessään rakkautta. Eikä edes synnin sisääntulo jäänyt Jumalan pelastussuunnitelman ulkopuolelle (Kirje efesolaisille 1:4-5). Raamatun ensimmäinen näkymä ei ole tuomio, vaan rakkaus."
+  },
+  {
+   "w": "«Karkotettu ja vieläpä kuolemalla rangaistu vain yhden hedelmän syömisestä? Eikö Jumala ole aivan liian ankara?»",
+   "t": "Karkotus Eedenistä oli sekä tuomio että armo. Jos ihminen söisi tuossa särkyneessä, Jumalasta erotetussa tilassa elämän puusta ja eläisi ikuisesti, hän jäisi ikuisesti kärsimyksen vangiksi (1. Moos. 3:22). Kuoleman salliminen avasi paluutien; ja siinä samassa Jumala lupasi Pelastajan (1. Moos. 3:15). Tuomiossa oli jo rakkautta."
+  },
+  {
+   "w": "«Abraham valittiin suuren uskonsa tähden; eivätkö kaikki Raamatun henkilöt ole moraalisia sankareita?»",
+   "t": "Abrahamkin valehteli ja epäili, ja Jaakob oli petturi. Jumala ei kutsunut «kelvollisia», vaan kutsui armosta puutteellisia. Valinnan syy ei ollut heidän erinomaisuutensa, vaan Jumalan uskollinen rakkaus (Viides Mooseksen kirja 7:7-8)."
+  },
+  {
+   "w": "«Eikö laki (käskyt) ole koe tai ehto, joka on läpäistävä pelastuakseen?»",
+   "t": "Jumala pelasti heidät <b>ennen</b> lain antamista. Kymmenen käskyä alkavat pelastuksen julistuksella: «Minä olen Herra, sinun Jumalasi, joka johdatin sinut pois Egyptistä» (Toinen Mooseksen kirja 20:2). Laki ei ole «pidä se pelastuaksesi», vaan rakkauden ohje siitä, kuinka armosta jo pelastettujen tulee elää (Viides Mooseksen kirja 7:7-9). Aina armo ensin; kuuliaisuus on vastaus."
+  },
+  {
+   "w": "«Kanaanin valloitus oli säälimätön verilöyly; Vanhan testamentin Jumala on sittenkin julma.»",
+   "t": "Tämä on aihe, joka ei ratkea yhdellä lauseella ja vaatii varovaisuutta. Mutta Raamattu ei esitä sitä mielivaltaisena väkivaltana, vaan tuomiona vuosisatojen äärimmäisen pahuuden (mukaan lukien lasten uhraaminen) jälkeen, kärsivällisen odotuksen jälkeen (1. Moos. 15:16; 5. Moos. 9:4-5; 3. Moos. 18:24-25). Jumala ei kiirehdi tuomiossakaan, ja hän ottaa mielellään vastaan sen, joka kääntyy hänen puoleensa, vaikka olisi muukalainen, kuten Rahabin ja Ruutin (Joos. 6:25; Ruut 4:13-17)."
+  },
+  {
+   "w": "«Daavid oli virheetön sankari; siksi häntä kutsuttiin “Jumalan mielen mukaiseksi”.»",
+   "t": "Daavid teki aviorikoksen ja jopa murhan. «Jumalan mielen mukainen» ei tarkoita virheetöntä, vaan sitä, ettei hän peittänyt syntiään, katui perinpohjin ja palasi aina Jumalan luo (Ps. 51). Jumalan rakkaus ei hylkää edes sitä, joka lankeaa raskaasti."
+  },
+  {
+   "w": "«Profeetta on ennustaja, joka kertoo tulevaisuuden; Vanhan testamentin Jumala vain vihastuu.»",
+   "t": "Profeetan olennaisin asia ei ole «tulevaisuuden arvaaminen», vaan Jumalan sydämellinen vetoomus: «käänny, ole kiltti». Tuomion varoituskaan ei pyri tuhoamaan, vaan kääntämään takaisin elämään: «en minä tahdo, että jumalaton kuolee vaan että hän kääntyy teiltään ja saa elää» (Hesekielin kirja 33:11)."
+  },
+  {
+   "w": "«Pakkosiirtolaisuus todistaa, että Jumala hylkäsi Israelin täysin.»",
+   "t": "Pakkosiirtolaisuus ei ollut hylkäämistä, vaan Isän kuritusta ja puhdistusta rakasta lasta kohtaan (Hepr. 12:6). Jumala ei lähtenyt; hän oli Danielin kanssa keskellä pakkosiirtolaisuutta ja lupasi: «Minun ajatukseni ovat rauhan eivätkä tuhon ajatuksia: minä annan teille tulevaisuuden ja toivon» (Jeremian kirja 29:11)."
+  },
+  null,
+  {
+   "w": "«Jos 400 vuoteen ei ollut sanaa, eikö Jumala ollut lähtenyt tai levännyt?»",
+   "t": "Hiljaisuus ei ole poissaoloa. Hän vain ei puhunut; koko sen ajan hän liikutteli valtakuntia, kieliä ja teitä valmistaakseen pelastuksen näyttämön. Hiljaisimmalla hetkellä Jumala teki työtä enemmän rakkaudella kuin koskaan (Kirje galatalaisille 4:4)."
+  },
+  {
+   "w": "«Jeesus on vain yksi hyvistä moraalinopettajista; risti oli traaginen tappio.»",
+   "t": "Jeesus julisti olevansa Jumala (Joh. 8:58), eikä risti ollut onnettomuus tai tappio, vaan suunniteltu rakkaus. Häntä ei viety sinne väkisin, vaan hän antoi henkensä omasta tahdostaan (Joh. 10:18). «Suurempaa rakkautta ei kukaan voi osoittaa, kuin että antaa henkensä ystäviensä puolesta» (Evankeliumi Johanneksen mukaan 15:13)."
+  },
+  {
+   "w": "«Seurakunta on täydellisten ihmisten uskonnollinen kerho, tai vain rakennus.»",
+   "t": "Seurakunta ei ole «täydellisten pyhien» yhteisö, vaan <b>anteeksi saaneiden syntisten</b> yhteisö. Jopa apostoli Paavali kutsui itseään «syntisistä suurimmaksi» (Ensimmäinen kirje Timoteukselle 1:15). Alkuseurakuntakin kiisteli ja kompasteli (Ap. t. 6:1; 1. Kor. 1:11). Seurakunta ei ole kerskailua varten, vaan ihmisiä, jotka välittävät eteenpäin saamansa rakkauden (Joh. 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Perisynti: ei ole vanhurskasta",
+   "body": "Ongelma ei ole «muutamat huonot teot», vaan sydämen juuri. Aadamista lähtien jokainen syntyy synnin alle eikä omin voimin voi päästä Jumalan luo.",
+   "vref": "Kirje roomalaisille 3:10-12, 23",
+   "vtext": "Ei ole yhtäkään vanhurskasta… ei ainoatakaan… Sillä kaikki ovat tehneet syntiä ja ovat vailla Jumalan kirkkautta."
+  },
+  {
+   "title": "Laki ei voi pelastaa minua",
+   "body": "Laki ei ole tikapuut, vaan peili. Mitä enemmän yritän pitää sen, sitä enemmän se osoittaa, kuinka paljon epäonnistun. Sen tarkoitus on johtaa meidät Kristuksen luo.",
+   "vref": "Kirje roomalaisille 3:20 · Kirje galatalaisille 3:24",
+   "vtext": "Lain tehtävänä on opettaa tuntemaan, mitä synti on… laki oli meidän valvojamme Kristuksen tuloon asti."
+  },
+  {
+   "title": "Armosta: lahja, ei ponnistus",
+   "body": "Pelastus ei ole palkka kootuista ansioista, vaan Jumalan lahja sille, joka ei sitä ansaitse. Siksi kukaan ei voi kerskailla.",
+   "vref": "Kirje efesolaisille 2:8-9",
+   "vtext": "Armosta Jumala on teidät pelastanut antamalla teille uskon… Pelastus ei ole lähtöisin teistä, vaan se on Jumalan lahja. Se ei perustu ihmisen tekoihin, jottei kukaan voisi ylpeillä."
+  },
+  {
+   "title": "Vanhurskautettu uskosta",
+   "body": "Ei lakia pitämällä, vaan uskomalla Jeesukseen Kristukseen meidät julistetaan vanhurskaiksi: emme pukeudu omaan vanhurskauteemme, vaan hänen.",
+   "vref": "Kirje roomalaisille 5:1 · Kirje galatalaisille 2:16",
+   "vtext": "Kun nyt Jumala on tehnyt meidät, jotka uskomme, vanhurskaiksi… ettei ihminen tule vanhurskaaksi tekemällä lain vaatimia tekoja vaan uskomalla Jeesukseen Kristukseen."
+  },
+  {
+   "title": "Raamattu osoittaa Jeesukseen",
+   "body": "Raamattu ei ole suurmiesten elämäkerta eikä itseapuopas. Ensimmäisestä Mooseksen kirjasta Ilmestykseen jokainen sivu todistaa yhdestä: Jeesuksesta Kristuksesta.",
+   "vref": "Evankeliumi Johanneksen mukaan 5:39 · Evankeliumi Luukkaan mukaan 24:27",
+   "vtext": "Nehän juuri todistavat minusta… hän selitti heille Mooseksesta ja kaikista profeetoista alkaen, mitä hänestä oli kaikissa kirjoituksissa sanottu."
+  },
+  {
+   "title": "Jumalan valtakunta: Jeesuksen sanoman ydin",
+   "body": "Aihe, jota Jeesus opetti eniten. Valtakunta, jossa Jumala hallitsee kuninkaana, tuli maailmaan Jeesuksen myötä ja täydellistyy hänen paluussaan. Ristin ja ylösnousemuksen kautta Jeesus on tosi Kuningas, joka voitti synnin, kuoleman ja Saatanan.",
+   "vref": "Evankeliumi Markuksen mukaan 1:15",
+   "vtext": "Aika on täyttynyt, Jumalan valtakunta on tullut lähelle. Kääntykää ja uskokaa hyvä sanoma!"
+  },
+  {
+   "title": "Evankeliumi: hän saattoi kaiken täytäntöön",
+   "body": "Synnin velan, jota minä en koskaan voinut maksaa, Jeesus maksoi sijastani ristillä, ja ylösnousemuksellaan hän voitti kuoleman. En nojaa sanaan «tee», vaan sanaan «se on täytetty».",
+   "vref": "Evankeliumi Johanneksen mukaan 19:30 · Kirje roomalaisille 5:8",
+   "vtext": "Se on täytetty… Jumala osoittaa rakkautensa meitä kohtaan siinä, että Kristus kuoli meidän puolestamme, kun vielä olimme syntisiä."
+  }
+ ]
+}
