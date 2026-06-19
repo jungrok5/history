@@ -112,6 +112,20 @@ const LANGS = [
   { code:'ts',     dir:'ltr', locale:'ts_ZA' },
   { code:'ee',     dir:'ltr', locale:'ee_GH' },
   { code:'gn',     dir:'ltr', locale:'gn_PY' },
+  { code:'sat',    dir:'ltr', locale:'sat_IN' },
+  { code:'tk',     dir:'ltr', locale:'tk_TM' },
+  { code:'tt',     dir:'ltr', locale:'tt_RU' },
+  { code:'sq',     dir:'ltr', locale:'sq_AL' },
+  { code:'mk',     dir:'ltr', locale:'mk_MK' },
+  { code:'cy',     dir:'ltr', locale:'cy_GB' },
+  { code:'wo',     dir:'ltr', locale:'wo_SN' },
+  { code:'mos',    dir:'ltr', locale:'mos_BF' },
+  { code:'nd',     dir:'ltr', locale:'nd_ZW' },
+  { code:'ay',     dir:'ltr', locale:'ay_BO' },
+  { code:'quc',    dir:'ltr', locale:'quc_GT' },
+  { code:'pam',    dir:'ltr', locale:'pam_PH' },
+  { code:'pag',    dir:'ltr', locale:'pag_PH' },
+  { code:'bi',     dir:'ltr', locale:'bi_VU' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드

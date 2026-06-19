@@ -1,0 +1,343 @@
+{
+ "menuName": "Moore",
+ "htmlLang": "mos",
+ "dir": "ltr",
+ "brand": "Biibl wã sẽn pʋgd taab",
+ "docTitle": "Biibl wã sẽn pʋgd taab · Naaneg tɛk n tãag wẽn-doogã",
+ "share": {
+  "title": "Biibl wã sẽn pʋgd taab",
+  "text": "Pʋgr a yembr pʋgẽ, bãng-y Biibl kibar kãsenga, la bũmb ning sẽn kɩt t'a Zezi wa."
+ },
+ "ui": {
+  "people": "Neba",
+  "events": "Yɛl kãsema",
+  "christLabel": "Wilgda a Zezi",
+  "loveLabel": "Nonglem sẽn ka basd",
+  "mythWrong": "Yam-toog sẽn yaa wʋsg",
+  "mythRight": "Sɩd-sɩda",
+  "more": "Karem-y n paase",
+  "version": "(Sebr Sõngo)"
+ },
+ "labels": {
+  "start": "Sɩngre",
+  "thread": "Kibara",
+  "gospel": "Koe-noogã",
+  "about": "Bãngr-goamã"
+ },
+ "s": {
+  "ui.share": "↗ Pʋɩ",
+  "ui.toast": "Lenka wã dʋka 📋",
+  "ui.footer": "Biibl wã sẽn pʋgd taab · Biibl goam yaa Sebr Sõng pʋgẽ",
+  "hero.kicker": "NAANEG TƐK N TÃAG WẼN-DOOGÃ",
+  "hero.title": "Biibl wã,<br><span class='em'>pʋgr a yembr pʋgẽ</span>",
+  "hero.sub": "Pʋgr a yembr pʋgẽ, bãng-y Biibl kibar kãsenga, la bũmb ning sẽn kɩt t'a Zezi wa.",
+  "hero.cue": "Pʋg-y n sigi<span>↓</span>",
+  "thread.eyebrow": "GOM-YEND SẼN LOEEND BIIBL WÃ FÃA",
+  "thread.h2": "Baas zãngã, Biibl wã yaa kibar a yembr bala",
+  "thread.flow": "<b>Kãabga</b><span class='arw'>→</span><b>Gũudum</b><span class='arw'>→</span><b>Pidsgu</b>",
+  "thread.note": "Wẽnd <b>kãabdame</b> (kaoolã), nebã <b>gũudame</b> wakat woko, la baasgo bũmb fãa <b>pidsdame</b> n saagd a Zezi pʋgẽ. Pʋg-y yɛl piig la a tã wã sẽn pʋgd taabã ne sʋloor kãnga. Pẽ-y <b>«Karem-y n paase»</b> kart fãa zug n paam kibarã sẽn yaa woko.",
+  "gospel.eyebrow": "KIBAR KÃNGÃ SẼN RAT N YEEL BŨMB NING «MAAM» YĨNGA",
+  "gospel.h2": "Biibl wã sũur sɩd-sɩda",
+  "gospel.lead": "Biibl wã <b>ka sebr sẽn yet tɩ «yɩ-y nin-sõngo» ye.</b>",
+  "gospel.sublead": "A yaa kibar sẽn wilgd Wẽnd sẽn fãag yel-wẽn-maandb sẽn ka tõe n fãag b mens <b>ne yamleoog bal</b>. A sũur-biisẽ, a Zezi Krista n be.",
+  "gospel.mirror": "<h3>Israyɛl ylemd kãngã sɩd-sɩd yaa «maam» fotã</h3><div class='cycle'><b>Bõn-naands pʋʋsgo</b><span class='a'>→</span><b>Toogo</b><span class='a'>→</span><b>Kelgre</b><span class='a'>→</span><b>Wẽnd fãagda</b><span class='a'>→</span><b>Bõn-naands pʋʋsg yɛsa…</b></div><p>Bʋ-kaoodbã wakat tɛk n tãag yembrã, Israyɛl maanda ylemd kãngã n pa basdẽ ye. Biibl wã ka gʋls rẽnda tɩ d na yaal-ba t'«a yãmb da yaa nin-faaad bala» ye.</p><p>A yaa <b>nin-gɛtga</b>. Yam ka «bãmb n da maan woto» ye, yaa tɩ d bãng t'«maam me yaa woto» (1Korẽnt Rãmba 10:11).</p><p>Bõn-naanga ka tɩ-yãag wal kʋɩleng bal ye. A yaa <b>bũmb fãa ning tõnd sẽn nong wal d sẽn teeg n yɩɩd Wẽnde</b> — ligdi, paoongo, pẽgr neb nengẽ, neba, baa m menga. La Wẽnd tʋmd wa <b>bũmb sẽn na n pids mam ratem</b> me yaa bõn-naands pʋʋsgo.</p><p class='punch'>Baasgo, bõn-naanga sẽn zulg n yɩɩd yaa «maam meng sẽn zĩ Wẽnd geer zugu».</p>",
+  "gospel.coreIntro": "Dẽ, wãn-wãn la Wẽnd fãagd yel-wẽn-maand-kãnga? Ad Koe-noog ning Biibl wã sẽn moond sũur-biisã.",
+  "gospel.crux": "<p class='crux-lead'>Biibl wã fãa wilgda zĩig a yembr bala.</p><p>Ninsaal ka tõog n kao yel-wẽnã ylemd ne a meng pãng ye, la nin-tɩrg ba a ye ka be ye. Yaa woto la ned tog n <b>yao samdã a soab yĩnga</b>.</p><p>A Zezi ka wa n kõ zãms-sõma bal ye. A waame, bala <b>sor a to da ka be n na fãag maam ye</b>: a ra tog n waame.</p><p class='crux-punch'>Ned ning sẽn da tog n ka da-luk zugã yaa <b>maam</b>.<br>A Zezi rɩka <b>mam yel-wẽna</b> n ka da-luk zug mam yĩnga.</p><div class='crux-verse'>«Mik yaa tõnd yel-wẽna yĩnga la b da paoogd-a… a noadã n maag tõnd dẽnna.» — Ezayi 53:5</div>",
+  "faq.h": "Bãngr-goam sẽn ket n namsd-yã?",
+  "faq.q1": "<span class='arr'>▸</span> Dẽ, nin-kʋʋd sã n tẽ a kẽnda saasẽ, la ned sẽn vɩɩmd sõma n yaool n pa tẽ a kẽnda bugum pʋgẽ?",
+  "faq.a1": "<p>A yaa sokr sẽn zems. La yam-toog a yiib n solg a pʋgẽ.</p><p><b>① Biibl wã ka welgd nebã «nin-sõma» ne «nin-wẽns» ye.</b> Mak-tɛk ka «zɩslem ne f to wã» ye, yaa «Wẽnd zãnglmã sẽn yaa zãnga». A taoore, ned ka «sõma sẽn sek» ye (Rom Dãmba 3:23). Dẽ, ka «nin-sõng ne nin-kʋʋd» ye, yaa wa bãad a yiib sẽn tar bã-yood a yembr: a yembr deega tɩɩma, a to wã zãgsd-a n yet t'«maam laafɩ yɩɩd a soaba».</p><p><b>② Bũmb a yembr bal n welgd saasẽ ne bugum.</b> Ka tʋʋm zɩslem ye, yaa <b>tɩ f deega a Zezi Krista wa Zu-soaba la f yel-wẽn yellã paam manegre</b>. Ned ning yel-wẽn sẽn paam manegr ne Krista zɩɩmã kẽnda saasẽ; ned ning sẽn ka deeg-a la a yel-wẽn ket-a ka kẽnd ye. Tʋʋm-sõng baa a yembr ka tõe n kao yel-wẽn yellã a meng yĩnga ye.</p><p>Yaa woto tɩ saasẽ ne bugum ka «keoor tʋʋm-sõma yĩnga» ye, yaa <b>zʋg-loees ne Krista</b> yelle. La «tẽebo» ka yam saglg bal ye, yaa zu-soab tekr vɩɩmẽ: ned ning sẽn sɩd deeg-a wã ka lebgd wuk-meng ye, a tuubda ne sũur fãa. Sẽn yɩɩda, <b>«maam yaa nin-sõng» tɩr-meng-maaneg</b> n yaa bõn-naang sẽn yaa toog n kao, sẽn kɩtd tɩ d tags t'«d ka tar Krista ratem» ye (Luki 18:9-14).</p><p>Biibl wã yeta vẽeneg-vẽenega: <b>«Sẽn tẽed-a bãmba, b ka bʋʋd yẽ soab bʋʋd ye; la sẽn pa tẽed-a bãmba, a bʋʋd zoe n bʋʋme»</b> (Zã 3:18). Bʋʋdã ka «f vɩɩm zɩslmã f kũum poore» ye, a zoe n kaoome <b>f sẽn deeg Krista bɩ f sẽn ka deeg-a wã</b> pʋgẽ.</p><p class='faq-v'>Rom Dãmba 3:23 · Zã 3:18 · Efɛɛz Rãmba 2:8-9 · Luki 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> M sã n vɩɩmd sõma, baa m sẽn ka tẽed a Zezi, rẽ ka sekd sɩda?",
+  "faq.a2": "<p>Yaa bũmb ning nebã sẽn tags n yɩɩda, la a ka mi «yel-kãsengã» sẽn yaa bũmb ning ye. D rɩk makre.</p><p><b>Tags tɩ f bee wagdb koom-koglg pʋgẽ.</b> Baa f sã n pẽneg koglgã zãng-zãnga, f maand neere ne tʋmdba, la f vɩɩm yaa makre, f ket n yaa <b>wagda</b>, bala koglgã rɩt-f-la ne-a a sẽn debd zĩig ningã (bʋʋd kʋɩlenga). Yellã ka «tʋʋm zɩslem» ye, yaa <b>«koglg ning f sẽn be wã» (f menga)</b>.</p><p>Yaa woto tɩ Koe-noogã ka yet tɩ «mak n yɩ sõma» ye, a yetame tɩ <b>«tek koglga»</b>. Sig yel-wẽn koglgã n kẽng a Zezi nengẽ: <b>Wẽnnaam biig</b> meng-paalg pʋgẽ. Ka tɩ zẽk f zɩslem ne mak ye, yaa tɩ teeg Soab ning sẽn tẽkd a nug ne-fã n kẽng a koglgẽ.</p><p>Sɩd-sɩda, Biibl wã wilgda fãagrã wa lebgr kãnga: <b>«Yaa bãmb n yiis tõnd Lik naab soolmẽ n kẽes tõnd bãmb Bi-nongra Rĩungẽ»</b> (Kolos Rãmba 1:13).</p><p>Da bʋrg ye: <b>rẽ ka rat n yeel tɩ vɩɩm-sõng ka tar yõod ye.</b> La sõmblmã ka fãagr «noore» ye, a yaa a <b>biiga</b>. Ned ning sẽn tek koglgã vɩɩmda sõma ka ne rabeem ye, yaa ne <b>biig nonglem</b>.</p><p class='faq-v'>Kolos Rãmba 1:13 · Zã 1:12 · Zã 3:3 · Efɛɛz Rãmba 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Wẽgd sã n yeel t'«Wẽnd zoe n kõ-a sugri» n vɩɩmd ne laafɩ tɩ wẽg-paoongã ket n namsdẽ, rẽ sugrã ka faag-faag sɩda?",
+  "faq.a3": "<p>Sokrã zemsame, la naang-kãng yaa sɩda. La gom-kãng ka «Biibl sugrã» ye, a yaa a <b>tudgre</b>.</p><p><b>① Wẽnd sugrã ka faag-faag abada ye.</b> Yel-wẽnã ka lud wa «a sẽn ka maan ye»; Wẽnd meng n yao a samdã ne b Biig vɩɩm. Da-lukã ka wilgd tɩ yel-wẽn yaa bũmb faag ye, a wilgda a sẽn zɩsl to-to: a yaa sugr sẽn zɩsl n yɩɩd dũni wã fãa pʋgẽ.</p><p><b>② Tuub-sɩd wat ne biisi.</b> Wẽgd sã n pa võt b yĩng wẽg-paoong taoor n yet t'«Wẽnd kõ-m sugri, m bee ne laafɩ», rẽ ka tuubr ye, a yaa a dõdgr bala (Matye 3:8). La sugr ning sẽn be ned ne Wẽnd sʋkã ka yẽesd wẽg-paoongã naang ye, a ka modgd-a t'a kõ sugr me ye.</p><p><b>③ Yel-wẽn ka «basd zaalem» abada ye.</b> Yel-wẽn fãa yaood beoog zĩis a yiib pʋgẽ: <b>bɩ Krista n zɩk-a da-luk zugu</b> (sẽn tẽed-a bãmba bʋʋd ka le be ye, Rom Dãmba 8:1), <b>bɩ ned ning sẽn zãgs-a wã n zɩk-a a meng zug</b>. Dẽ, «sugr faag-faag» ka be ye. Wẽgdã me na n leoka dũni wã bʋʋdã taoore (Rom Dãmba 13:1-4).</p><p><b>④ Wẽg-paoongã nintãm ka bõn-bõoneg Wẽnd taoor abada ye.</b> Wẽnd yãbda ne sẽn yãbd-bã, a tẽegda nintãm fãa, la baasgo a meng na n yẽes-a (Wilgr 21:4). Yaa woto tɩ wẽg-paoongã me ka rɩkd bʋ-kaoorã zɩɩb a meng yĩng ye, a tõe n bas-a-la Wẽnd sẽn yaa tɩrgã nengẽ (Rom Dãmba 12:19: «Yaa maam n na n kao bʋʋdo, yaa maam n na n kõ rolbo»).</p><p class='faq-v'>Matye 3:8 · Rom Dãmba 8:1 · Rom Dãmba 13:1-4 · Wilgr 21:4</p>",
+  "respond.h3": "Dẽ, mam yẽ na n maana wãna?",
+  "respond.sub": "Nonglem kãngã ka kibar bal ye, a yaa <b>boolgo</b>. Nonglem ning sẽn ka da-luk zug fo yĩng sã n sɩɩ fo sũur menga, pʋʋs-y pʋʋsg kãngã masã, gom-yend gom-yendre, bilf-bilfu.",
+  "respond.prayer": "<p>Wẽnnaam,</p><p>m saka tɩ m yaa yel-wẽn-maand sẽn ka tõe n fãag a meng.</p><p>M tẽeme t'a Zezi ki da-luk zug mam yĩnga la a vʋʋge.</p><p>Kõ-m m yel-wẽna fãa sugri, la rũnna tɛka, lebg mam vɩɩmã Zu-soaba.</p><p>Reeg-m wa f biiga, la kɩt tɩ m vɩɩmd vɩɩm-paalga.</p><p class='amen'>A Zezi yʋʋr pʋgẽ la m pʋʋsda. Amina.</p>",
+  "respond.after": "Fo sã n pʋʋs woto ne f sũur fãa, Biibl wã yetame tɩ fo lebga <b>Wẽnnaam biiga</b>. F ka le yaa fo yembr ye: bao-y wẽn-doog sẽn pẽ n kẽn-y tẽebã sor ne taaba.",
+  "respond.verse": "«Neb niyns fãa sẽn deeg-b bãmba… b kõ-b-la tõogo tɩ b lebg Wẽnnaam kamba.» — Zã 1:12 · Rom Dãmba 10:9-10",
+  "closing.main": "Wẽnnaam a yembr,<br>ne kibar a yembr,<br>n baood tõnd ne <em>nonglem</em><br>sẽn ka basd abada.",
+  "closing.verse": "«Kõn yɩ kũum bɩ vɩɩm ye… kõn yɩ naand buud ba a ye» sẽn na n tõog n zãag tõnd ne Wẽnnaam nonglma, a Zezi Krista sẽn wa ne a soaba ye. — Rom Dãmba 8:38-39",
+  "closing.small": "Kibar kãngã zugu, Tõogo, Yɩɩnã sɛba, Bãngdba la Lɛtrã n paasd «yĩnga».<br>Rũnna tɛka, sebr ning fãa fo sẽn na n pak, f na n bãngame tɩ «f bee kibarã zĩig bʋg».",
+  "closing.share": "↗ Pʋɩ kibar kãngã",
+  "about.line": "Tagsg ning sẽn loee ne <b>fãagr-kibar bãngrã, Koe-noogã la tekr</b> tagsg ning Kore protestã wẽn-doog wʋsg sẽn naagd taaba.",
+  "about.contact": "Sokrã · tagsg — <a id='contact' class='mail'>Gʋls-y lɛtr</a>"
+ },
+ "epochs": [
+  {
+   "tag": "KAOOL KƲDRE · SƖNGRE",
+   "title": "Naaneg",
+   "date": "Sɩngrẽ",
+   "one": "Wẽnd naana dũni sẽn yaa «sõma wʋsgo».",
+   "people": "Wẽnnaam; a Ãdem ne a Hawa",
+   "events": "Naaneg raar a yoobe, ninsaal sẽn naan wa Wẽnd wõnde, vʋʋsg raarã",
+   "q": "Dũni wã sɩngrẽ Wẽnd naana yĩngr la tẽnga.",
+   "cite": "Sɩngrẽ 1:1",
+   "christ": "Dũni wã naana ne «Gomdã». A Zã Koe-noogã yetame tɩ Gom-kãng yaa a Zezi meng (Zã 1:1-3).",
+   "detail": "<p>Biibl wã ka sɩng ne yam-bãngr gomd ye, a sɩnga ne togsgo: <b>«Sɩngrẽ, Wẽnd…»</b>. Dũni wã ka zaalem ye, a yaa Wẽnnaam sẽn yaa nin-buudã tʋʋma.</p><ul><li><b>Wẽnd wõnde</b> · ninsaal a yembr bal n naan wa Wẽnd wõnde, t'a bãng Wẽnde la a ges dũni wã yelle.</li><li><b>Vʋʋsgo</b> · raar a yopoe wã vʋʋsg wilgda tɩ bũmb fãa ra saame la a ra bee ne laafɩ (shalom): «Wẽnd yãame t'a yaa sõma».</li><li><b>Edɛn</b> · dũni wã sẽn nan ka sãam taoore, Wẽnd ne ninsaal sẽn kẽnd ne taaba.</li></ul>",
+   "next": "La pidsg kãngã na n sãama ka kaoos ye…"
+  },
+  {
+   "tag": "KAOOL KƲDRE · YELLÃ SƖNGRE",
+   "title": "Lʋɩɩsem",
+   "date": "Sɩngrẽ",
+   "one": "Yel-wẽn kẽeme, la ninsaal ne Wẽnd loeerã kaoome.",
+   "people": "A Ãdem ne a Hawa; waafã (Sʋtãana)",
+   "events": "B sẽn dɩ tɩɩg ning b sẽn da gɩdgã biigi, b yiisg Edẽ, kũum ne tʋʋm-toog kẽere",
+   "q": "M na n ninga beem, foo ne paga sʋka… a na bedsa f zugu.",
+   "cite": "Sɩngrẽ 3:15",
+   "christ": "Koe-noogã pipi kãabga, sẽn kõ lʋɩɩsmã poor tao-tao: «paga kamba» na n bedsa waafã zugu — la a yaa a Zezi (Sɩngrẽ 3:15; Rom Dãmba 16:20; Galat Rãmba 4:4).",
+   "detail": "<p>Ne tõog-kɩɩsg sẽn dat n «lebg wa Wẽnde», yel-wẽn kẽe dũni wã pʋgẽ. Biis ka tõog kɩɩsg bal ye, a yaa <b>zʋg-loees kaoore</b>.</p><ul><li><b>Loees sẽn kao</b> · ne Wẽnde (solgre), ne taaba (taal ningri), la ne dũni wã (gõaadã ne tʋʋm-toogo).</li><li><b>Kũum</b> · keoogr ning «f na n kiime» wã pidsame.</li><li><b>Sɩngrẽ 3:15</b> · la bʋʋdã sʋka, fãagr kãabg n deng n wa. Bãngdbã boond-a-la <b>«protoevangelium» (pipi koe-noogo)</b>.</li></ul>",
+   "next": "Masã Wẽnd boonda ned a yembr n na n sɩng fãagrã…"
+  },
+  {
+   "tag": "KAOOL KƲDRE · KÃABGA",
+   "title": "Yaab-rãmbã",
+   "date": "yʋʋm 2000 sẽn deng a Zezi rogem",
+   "one": "Wẽnd kãaba a Abrahaam: «Fo na n yɩɩ barka soore».",
+   "people": "A Abrahaam · a Izaak · a Zakoob · a Zozɛf",
+   "events": "Kaoolã ne a Abrahaam, a Izaak maoongã, a Zakoob kamb piig la a yiibu, a Zozɛf sẽn lebg naab Ezipte",
+   "q": "M na n kɩtame tɩ f buud lebg kãsenga… dũni ninsaalba fãa na n tũu fo maasem n paam barka.",
+   "cite": "Sɩngrẽ 12:2-3",
+   "christ": "Kãabg ning sẽn yet tɩ «buud fãa na n paam barka» wã pidsda a Zezi nengẽ, sẽn yaa a Abrahaam yagengã (Galat Rãmba 3:16).",
+   "detail": "<p>Wẽnd sɩnga ninsaalba fãa yellã maneg ne a sẽn bool ned a yembr, <b>a Abrahaam</b>. A sũur-biisẽ yaa <b>kaoolã (kãabga)</b>: buud kãsenga, tẽnga, la «barka buud fãa yĩnga».</p><ul><li><b>Tẽebo</b> · a Abrahaam tẽe kãabg ning b sẽn pa yãta, la b geelg-a-la tɩrlem (Sɩngrẽ 15:6).</li><li><b>A Izaak ne a Zakoob</b> · kãabgã loogda yʋʋm-yãang yaoolã nengẽ; a Zakoob (Israyɛl) yaa buud piig la a yiibã ba.</li><li><b>A Zozɛf</b> · b ba-biis koos-a-la, la a wa lebg naab Ezipte: «Wẽnd kɩtame tɩ neer yi a pʋgẽ» (Sɩngrẽ 50:20).</li></ul>",
+   "next": "Zakã pʋgda a Zozɛf n sig Ezipt… n wa lebg yembsi."
+  },
+  {
+   "tag": "KAOOL KƲDRE · FÃAGRE",
+   "title": "Yiibu ne we-raoogo",
+   "date": "yʋʋm 1446 sẽn deng a Zezi rogem",
+   "one": "Wẽnd fãaga nin-buiidã sẽn da yaa yembse, n maan-b a meng dẽnda.",
+   "people": "A Moyiiz, a Aaroõ, a Faraõ",
+   "events": "Toad piigã, Pakã, mog-miuugã pɩɩsgo, Tõog Goam piigã Sinayi, fu-roogã, yʋʋm 40 we-raoogẽ",
+   "q": "Y na lebg mam buud neba la ma me na lebg yãmb Wẽnde.",
+   "cite": "Yikri 6:7",
+   "christ": "Pakã, pe-bil zɩɩm sẽn yiis kũumã, wilgda a Zezi sẽn yaa «tõnd Pak pe-bila», b sẽn ka da-luk zug tõnd yĩnga (1Korẽnt Rãmba 5:7).",
+   "detail": "<p>Kaool kʋdrã fãagr sẽn yɩɩd fãa. Israyɛl sẽn da yaa yemse, paama lohorem ne Wẽnd pãnga, la a lebg b <b>buudu</b>.</p><ul><li><b>Pakã</b> · roog ning sẽn tar pe-bil zɩɩm a noorã, kũumã loogd-a-la zĩig: maoong fãa sẽn pʋgd taab makre.</li><li><b>Mog-miuugã</b> · fãagr sor sẽn sɛ zĩiga; «pɩɩsgo» yaa sɩngr paalg makre.</li><li><b>Sinayi kaoolã</b> · ne Tõog Goamã, b zãmsda b sẽn na n vɩɩmd wa Wẽnd buud to-to.</li><li><b>Fu-roogã</b> · wẽn-doog sẽn kẽnd Wẽnd sẽn zĩnd b buudã sʋka: «Emanuel» bilgre.</li><li><b>Yʋʋm 40</b> · tõog-kɩɩsg kɩtame tɩ yãang a yembr kẽn we-raoogẽ, la Wẽnd kell n bee ne-b ne manã la sa-wilg-luglg ne bug-luglga.</li></ul>",
+   "next": "B sẽn yas kãabg tẽnga noore, b seglg n na n kẽe…"
+  },
+  {
+   "tag": "KAOOL KƲDRE · ZĨNDGRE",
+   "title": "Tõogr ne bʋ-kaoodbã",
+   "date": "yʋʋm 1400–1050 sẽn deng a Zezi rogem",
+   "one": "B paama tẽnga, la b sẽn ka tar naabã, ned kam fãa maanda a sẽn date.",
+   "people": "A Zozue; bʋ-kaoodb wala a Zedeõ ne a Sãmsõ; a Rut",
+   "events": "Zeriko lʋɩɩsgo, Kanaã zĩndgo, yel-wẽn–bʋʋd–fãagr ylemd sẽn pʋgd taaba",
+   "q": "Wakat kãng tɩ Israyɛl nan ka tar dĩm ye la ned kam fãa ra maanda a sẽn date, a sẽn tẽed tɩ yaa sõmbo.",
+   "cite": "Bʋ-kaoodba 21:25",
+   "christ": "A Rut buudã pʋgẽ la a Davɩɩd yita, la a Davɩɩd buudã pʋgẽ la a Zezi yita (Matye 1). Baa zĩlmã pʋgẽ, Mesi wã buud kẽnda taoore.",
+   "detail": "<p>A Zozue taoor lʋɩɩbẽ b kẽe kãabg tẽnga, la b sẽn zĩnd b yĩmda Wẽnde ka kaoos ye. Bʋ-kaoodbã sɛb yaa ylemd a yembr sẽn pʋgd taaba.</p><ul><li><b>Yel-wẽnã ylemd</b> · yel-wẽn → toogo → kelgre → bʋ-kaood fãagr → yel-wẽn yɛsa, n paasdẽ.</li><li><b>Bʋ-kaoodbã</b> · a Zedeõ, a Sãmsõ, a Debora… fãagdb sẽn pa kaoosde, sẽn yɩ kãsemdba la sẽn tar kongr wʋsgo.</li><li><b>A Rut</b> · sɩd-pʋʋsg vẽenem sasa-lik wakate; sãan pag kẽe a Davɩɩd buudẽ (la a Zezi rẽndẽ).</li></ul>",
+   "next": "Nebã kelmdame: «Kõ-y tõnd naab me!»…"
+  },
+  {
+   "tag": "KAOOL KƲDRE · ZIIRÃ WAKATE",
+   "title": "Rĩung a yembrã",
+   "date": "yʋʋm 1050–930 sẽn deng a Zezi rogem",
+   "one": "Wẽnd kãaba a Davɩɩd: «F zaoorã na n viglame wakat fãa».",
+   "people": "A Sayɩll · a Davɩɩd · a Salomõ",
+   "events": "Pipi naab a Sayɩll, a Davɩɩd ne a Goliat, kaoolã ne a Davɩɩd, a Salomõ wẽn-doogã",
+   "q": "Fo roogo la f rĩunga na kaoose, a kõn sɛ ye; f zaoorã na n viglame la a kõn vik abada.",
+   "cite": "2Samwɛl 7:16",
+   "christ": "«Zaoor sẽn kaoosd wakat fãa» wã pidsda a Zezi nengẽ, sẽn yaa a Davɩɩd yagenga — yaa rẽ yĩng la b boond-a t'«a Davɩɩd Biiga» (Luki 1:32-33; Matye 1:1).",
+   "detail": "<p>Israyɛl ziirã wakate, naab a tã taoor lʋɩɩbẽ.</p><ul><li><b>A Sayɩll</b> · pipi naab ning nebã sẽn kotã; sɩngr sõma la b basa a tõog-kɩɩsg yĩnga.</li><li><b>A Davɩɩd</b> · «rao sẽn zems Wẽnd sũur». A tõoga a Goliat la a maan Zerizalɛɛm a rĩung-tẽnga. A maana yel-wẽn-kãseng (a Batseba), la a tuubame ne a sũur fãa (Yɩɩll 51).</li><li><b>Kaoolã ne a Davɩɩd (2Samwɛl 7)</b> · Wẽnd kãabame n na n vigl a buudã wakat fãa: Mesi wã saagr yẽgrã.</li><li><b>A Salomõ</b> · yam ne paoong sẽn yɩɩd zĩigẽ, a meee Zerizalɛɛm <b>wẽn-doogo</b>, la baasgo a lʋɩɩ bõn-naands pʋʋsgo.</li></ul>",
+   "next": "A Salomõ poore, rĩungã welga zɩ-yiib…"
+  },
+  {
+   "tag": "KAOOL KƲDRE · LƲƲSGRE",
+   "title": "Rĩung sẽn welg taabã",
+   "date": "yʋʋm 930–586 sẽn deng a Zezi rogem",
+   "one": "A welga rɩtg (Zida) ne goabg (Israyɛl), n sãamd bilf-bilfu.",
+   "people": "Rĩung a yiibã nanambse; bãngdb wala a Eli, a Ezayi, a Zeremi",
+   "events": "Rĩungã welgr taaba, bõn-naands pʋʋsgo, bãngdbã keoogr",
+   "q": "Yaa woto la a Zɩɩda ne a Israyɛl roog welg taaba n ta ne rũnna.",
+   "cite": "1Dĩm Dãmba 12:19",
+   "christ": "Wakat kãngã, bãngdbã togsda Mesi ning sẽn watã yelle vẽeneg n paasdẽ (Ezayi 9:6; Ezayi 53).",
+   "detail": "<p>A Salomõ biigã wakate, rĩungã welgda: <b>Israyɛl (goabga)</b>, buud piig, a tẽng-kãseng Samari; la <b>Zida (rɩtga)</b>, buud a yiibu, a tẽng-kãseng Zerizalɛɛm.</p><ul><li><b>Goabgã</b> · a nanambsã fãa tʋmda bõn-naands; a lʋɩɩ Asiri nengẽ yʋʋm 722 sẽn deng a Zezi rogem.</li><li><b>Rɩtgã</b> · a Davɩɩd buudã kẽnda taoore, la naab sõma kẽer be wala a Ezekɩɩas ne a Zoziyas, la baas zãngã a sãamdame.</li><li><b>Bãngdbã</b> · a Eli, a Amos, a Ezayi, a Zeremi kelmdame n yet tɩ «lebg-y n wa!». Ka la Mesi wã bãngr-goam sẽn yɩɩd be (Ezayi 53 «tʋm-tʋmd sẽn namsdã»).</li></ul>",
+   "next": "Baasgo bʋʋd ning b sẽn da togsã waame: b tall-b-la yembd tẽng…"
+  },
+  {
+   "tag": "KAOOL KƲDRE · BƲƲDO",
+   "title": "Yembd tẽngã",
+   "date": "722 / 586 sẽn deng a Zezi rogem",
+   "one": "Rĩungã lʋɩɩme la b tall nin-buiidã sãamb tẽnga.",
+   "people": "A Daniɛl, a Ezekiyɛl, a Nebukadnezaar",
+   "events": "Israyɛl lʋɩɩ Asiri nengẽ (722); Zida lʋɩɩ Babilon nengẽ la b sãam wẽn-doogã (586)",
+   "q": "Babilon kʋɩlsa noor la d da zĩi n tar yãbre, d da gomdame la d tẽegd Siõ yelle.",
+   "cite": "Yɩɩla 137:1",
+   "christ": "Sũ-sãang sẽn zulg n yɩɩd zĩigẽ, a Zeremi kãabda «kaool paalga» (Zeremi 31:31) — kaool ning a Zezi sẽn maan zaab yaoolg rɩɩbẽ wã.",
+   "detail": "<p>Keoogrã pidsdame. Wẽn-doogã yõogdame la b tall nin-buiidã Babilon: b boanda tẽnga, naabã, la wẽn-doogã, sẽn yɩ sũ-sãang sẽn yɩɩd fãa.</p><ul><li><b>Lʋɩɩs a yiibu</b> · Israyɛl (Asiri, 722) ne Zida (Babilon, 586).</li><li><b>A Daniɛl</b> · tẽeb makr baa bõn-naands pʋʋsdb naabã yir (gɩgɛmsã bok); a yãa «rĩung sẽn kaoosd wakat fãa» bãngr-yũ-yãag sẽn watã.</li><li><b>Saagr bug-pɩlga</b> · kõab sẽn lebg n vɩɩnd bãngr-yũ-yãagã (Ezekiyɛl 37) ne a Zeremi «kaool paalgã» wilgda beoog-daar sasa-likẽ.</li></ul>",
+   "next": "Yʋʋm pis-yopoe poore, Wẽnd pakda sorã: b lebgda yiri…"
+  },
+  {
+   "tag": "KAOOL KƲDRE · LEBGRE",
+   "title": "Yembd tẽng lebgrã",
+   "date": "538–430 sẽn deng a Zezi rogem",
+   "one": "B lebgame n le me wẽn-doogã ne lalsã.",
+   "people": "A Ɛsdras, a Nehemi, a Ɛstɛɛr, a Zorobabɛl",
+   "events": "Lebgr ne a Sirus noore, wẽn-doog megr a paalga, Zerizalɛɛm lalsã manegre, Gomdã lebgr a zĩiga",
+   "q": "Y sũ-noog sã n yit Wẽnd nengẽ a pidsd-y-la ne pãnga.",
+   "cite": "Nehemi 8:10",
+   "christ": "A Malaki, sẽn yaa kaool kʋdrã sɛb sɛɛbo, baasda ne togsg tɩ koe-taasd n na n seg Mesi wã sore: «Mam tʋmda m koe-taasdã» (Malaki 3:1).",
+   "detail": "<p>Lebgrã sɩngda ne Pɛrs naab a Sirus noorã (538). Soog a tã pʋgẽ b lebgdame n le med bũmb ning sẽn sãamã.</p><ul><li><b>A Zorobabɛl</b> · meela wẽn-doogã (b sɛɛ yʋʋm 516).</li><li><b>A Ɛsdras</b> · zãmsda Gomdã yɛsa, la a lebsd tẽebã n vɩ.</li><li><b>A Nehemi</b> · meela Zerizalɛɛm lalsã rasem 52 pʋgẽ.</li><li><b>A Ɛstɛɛr</b> · fãaga Zʋɩf rãmb sẽn be Pɛrsã ne sãoongo: «ãnda n mi tɩ yaa wakat kãngã yĩng…?».</li><li><b>Ko-yũud sẽn ket</b> · wẽn-doogã yasame, la naab wa a Davɩɩd ka be ye. Nebã gũuda Mesi wã.</li></ul>",
+   "next": "La rẽ poore… wa saag sẽn pae, yʋʋm 400 sĩ-sĩid n looge."
+  },
+  {
+   "tag": "KAOOL A YIIBÃ SƲKA · SEGLGO",
+   "title": "Sĩ-sĩid yʋʋma",
+   "date": "yʋʋm 430–4 sẽn deng a Zezi rogem",
+   "one": "Yʋʋm 400 sẽn ka bãngd koɛɛg — la b segla zĩiga sĩ-sĩidẽ.",
+   "people": "A Aleksãndr Kãsenga, a Makabe rãmbã, Rom",
+   "events": "Pɛrs → Gɛrɛk → Makabe lohorem → Rom soolem",
+   "q": "La wakat sẽn waa n ta, Wẽnd tʋma b Biiga sẽn yɩ pag biiga.",
+   "cite": "Galat Rãmba 4:4",
+   "christ": "«Zĩig seglgã» fãa ra yaa Wẽnd tʋʋma, sẽn na yɩl t'a Zezi wa wakat ning a sẽn da segeã.",
+   "detail": "<p>A Malaki tɛk n tãag Kaool Paalgã, yʋʋm 400 sẽn ka Biibl gom-paalg (bãngdba). La kibarã poore, Wẽnd segla Koe-noogã yagsg sore.</p><ul><li><b>Soolem tekr taaba</b> · Pɛrs → Gɛrɛk (a Aleksãndr, 333) → Ezipt ne Siri → Makabe sʋbgr (167) → Rom (63).</li><li><b>Gɛrɛk buud-goamã</b> · a Aleksãndr tõogrã kɩtame tɩ Gɛrɛk lebg goam fãa; b lebsa kaool kʋdrã Gɛrɛk goam pʋgẽ (Septãant), n pak sor tɩ Koe-noogã yagse tao-tao.</li><li><b>Rom sõaad ne laafɩ</b> · sõaadã sẽn me sõma ne «Rom laafɩ» wã lebga koe-taasg soya.</li><li><b>Karen-doto ne sull-rãmba</b> · karen-doto zãmsgã viglame; Farizẽ rãmba ne Sadusẽ rãmba puki, la <b>Mesi wã gũudum</b> bɩme.</li></ul>",
+   "next": "La sĩ-sĩidã sẽn kaoge, baasgo, b waame."
+  },
+  {
+   "tag": "KAOOL PAALGÃ · PIDSGU",
+   "title": "A Zezi waoongo",
+   "date": "yʋʋm 4 sẽn deng tãag yʋʋm 30 poore",
+   "one": "Mesi ning b sẽn kãabã waame, n ki, n vʋʋge.",
+   "people": "A Zezi, karen-biis piig la a yiibu, a Zã so-lisdã",
+   "events": "Sẽn lebg neda (Nõaalã), b zãmsg ne yel-soalsã tʋʋma, kũum da-luk zugu, vʋʋgr daar a tãab daare",
+   "q": "La Gomda lebga neda, la b waa n zĩnda tõnd sʋka… sẽn pid ne sõmblem la sɩda.",
+   "cite": "Zã 1:14",
+   "christ": "Paga kamba (yel a 2 soaba), a Abrahaam barka (3), Pak pe-bila (4), a Davɩɩd rĩm sẽn kaoosd wakat fãa (6), la kaool paalga (8) fãa pidsda a Zezi a yembr nengẽ: tõnd bãngd-sɩda, maan-kʋʋd-sɩda la rĩm-sɩda.",
+   "detail": "<p>Sĩ-sĩidã kaoome; Sẽn-kãab-a-soabã waame. Koe-noog a naasã kɩta a Zezi vɩɩm, kũum la vʋʋgr kaset zĩis a naas pʋgẽ.</p><ul><li><b>Sẽn lebg neda</b> · Wẽnd lebga ninsaal (Emanuel, «Wẽnd bee ne tõndo»), Betelɛm sik-m-mengã pʋgẽ.</li><li><b>Tʋʋma</b> · a zãmsda Wẽnd Rĩunga, a maagd bãad-dãmba, a boonda yel-wẽn-maandba. «Sẽn yã-a maam yãa Ba.»</li><li><b>Da-lukã</b> · a yaooda yel-wẽn ne kũum samdã lʋɩɩsmã sẽn wa ne (yel a 2 soaba). Pak pe-bil sɩd-sɩda.</li><li><b>Vʋʋgre</b> · raar a tãab daare a vʋʋgame n kao yel-wẽna, kũum la Sʋtãan pãnga; baa da-luk zugẽ a «yeesa yĩngr Na-komsã la Pãn-dãmbã futu… n kẽnd ned sẽn tõog a bɛɛb kẽnde» (Kolos Rãmba 2:15).</li></ul><p>Yaa woto t'a Zezi yaa tõnd <b>bãngd-sɩda</b> (a wilgda Wẽnd sore), <b>maan-kʋʋd-sɩda</b> (a yaooda yel-wẽn ne a meng yĩnga) la <b>rĩm-sɩda</b> (a tõoga yel-wẽn, kũum la Sʋtãana, n dɩt naam wakat fãa).</p>",
+   "next": "A Zezi sẽn vʋʋgã tʋmda b karen-biisã dũni wã pʋgẽ…"
+  },
+  {
+   "tag": "KAOOL PAALGÃ · YAGSGO",
+   "title": "Wẽn-doogã sɩngre",
+   "date": "yʋʋm 30 poore tɛka",
+   "one": "Vʋʋsmã waame la Koe-noogã yagsda n tãag dũni wã tɛka.",
+   "people": "A Pɩyɛɛr, a Poll, pipi wẽn-doogã",
+   "events": "Vʋʋsmã sẽn sig Pãntakot daare, wẽn-doogã rogem, Koe-noogã yagsg sẽn yi Zerizalɛɛm n tãag Rom ne namsgo",
+   "q": "Yaa pãng la y na n paame, a Vʋʋsem Sõng pãngã n na n sig yãmba… n tãag dũni wã tɛka.",
+   "cite": "Tʋʋm-tʋmdba vɩɩm 1:8",
+   "christ": "Kibar kãngã ket n kẽnda rũnna me. Biibl wã baasda ne kãabg t'a Zezi na n lebg n waame n maan bũmb fãa paalse (Wilgr 21).",
+   "detail": "<p>A Zezi sẽn dʋ saasẽ poore, Vʋʋsem ning b sẽn kãabã waa Pãntakot daare la wẽn-doogã roge. Koe-noogã yagsda ne pãng wʋsgo.</p><ul><li><b>Pãntakot</b> · ne Vʋʋsmã, karen-biis sẽn da tar rabeem lebga kaset dãmb sẽn ka rabeem.</li><li><b>A Pɩyɛɛr</b> · moonda Koe-noogã Zʋɩf rãmbã Zerizalɛɛm.</li><li><b>A Poll</b> · sẽn yɩ namsd n lebg tʋm-tʋmda; a luga wẽn-doot bʋ-zẽms rãmbã dũni pʋgẽ la a gʋlsd lɛtre.</li><li><b>N tãag dũni tɛka</b> · Zerizalɛɛm → Zide → Samari → Rom. Kãabg ning b sẽn kãab a Abrahaam «buud fãa» yĩngã pidsdame.</li><li><b>La tõndo</b> · kibarã ka sɛ ye; a kẽnda taoor n tʋg a Zezi lebgr waoongo la saas-paalg ne tẽn-paalga.</li></ul>",
+   "next": "La kibarã ka sɛ ka ye…"
+  },
+  {
+   "tag": "KAOOL PAALGÃ · SAOOGO",
+   "title": "Lebgr a paalga (bũmb fãa paalse)",
+   "date": "sẽn watame",
+   "one": "A Zezi lebgda n wa n maan bũmb fãa paalse.",
+   "people": "A Zezi sẽn lebgd n watã; buud fãa",
+   "events": "Lebgr waoongo, bʋʋd sɛɛbo, yel-wẽn·kũum·nintãm saabo, saas-paalg ne tẽn-paalga",
+   "q": "B na n yẽesa nintãm buud fãa la b kõn le wʋm kũum yelle ye; yãbre bɩ kɛlenga, bɩ sũ-sãang me kõn le zĩnd ye.",
+   "cite": "Wilgr 21:4",
+   "christ": "Pipi naanegã Edɛn lebgda baasgo wa «Zerizalɛɛm-paalga». Wẽnd zĩnda ne b nebã wakat fãa: Emanuel pidsgu (Wilgr 21:3; Matye 1:23).",
+   "detail": "<p>Biibl wã ka saagd wẽn-doogã wakate ye. A sɛb sɛɛbã, Wilgrã, wilgda a Zezi sẽn <b>lebgd n watã</b> n na n sɛ bũmb fãa.</p><ul><li><b>Lebgr waoongo</b> · rĩm ning b sẽn kãabã lebgda ne ziiri.</li><li><b>Tõogr sẽn sɛ</b> · Sʋtãan ne kũum sãama wakat fãa, la Krista dɩt naam wa rĩm-dãmb Rĩma (1Korẽnt Rãmba 15:25-26; Wilgr 20:10).</li><li><b>Bʋʋd ne vʋʋgre</b> · tʋʋlem fãa manegdame, la sẽn ki-bã vʋʋgdame.</li><li><b>Saas-paalg ne tẽn-paalga</b> · yel-wẽna, kũum, nintãm la sũ-sãang sãama wakat fãa (Wilgr 21:4).</li><li><b>Edɛn sẽn lebse</b> · «Zerizalɛɛm-paalg» sẽn yɩɩd sɩngrã pʋgẽ, Wẽnd zĩnda ne b nebã wakat fãa: zĩig ning Biibl wã fãa sẽn debdẽ.</li></ul><p>Yaa woto tɩ rũnna yaa <b>«zoe n be, la a nan ka sɛ»</b> wakate: a Zezi pʋgẽ, fãagrã <b>zoe</b> n saame, la a pidsg <b>nan</b> gũudame.</p>",
+   "next": "Dẽ, kibar kãngã fãa rat n yeel bũmb ning «maam» yĩnga?"
+  }
+ ],
+ "love": [
+  "Kibarã sɩngre ka bʋʋd ye, yaa dũni sẽn naan ne nonglem sẽn pids n yɩɩda.",
+  "Ninsaal sẽn maan yel-wẽnã bal, Wẽnd kãaba fãagrã zĩig kãng tao-tao.",
+  "Wẽnd deng n baoa ned sẽn ka zema, n bool-a ne a yʋʋre, n maan-a barka soore.",
+  "A wʋma nin-buiid sẽn yaa yembsã kasetã n sig a meng n wa fãag-ba.",
+  "Baa b sẽn zãgs-a naoor wʋsgo, b sẽn da kelmd fãa a tʋmda fãagd n yik-b yɛsa.",
+  "A ka bas baa a Davɩɩd sẽn lʋɩ wã ye; a maasem yĩnga a kãaba rĩm sẽn kaoosd wakat fãa.",
+  "Nin-buiid sẽn bas-a wã, a kell n tʋmda bãngdba n kot-ba: «Lebg-y n wa, m kota.»",
+  "Baa yembd tẽng sẽn yaa lik n yɩɩdã, a sig n bee ne-ba la a kãab lebgre.",
+  "Baa nin-buiid sẽn kong naoor wʋsgo, a ka rɩk a kãabgã ye, a yik-b lame yɛsa.",
+  "Baa yʋʋm 400 sĩ-sĩidã pʋgẽ, sĩ-sĩidẽ, a segla fãagrã sore.",
+  "Tõnd sẽn da nan yaa yel-wẽn-maandbã, a tʋma b Biiga n kõ a vɩɩma.",
+  "Nonglem ning tõnd sẽn deegã, masã a tʋmd-a-la t'a yagse dũni wã fãa.",
+  "Baasgo a na n yẽesa nintãm fãa la a maan bũmb fãa paalse ne nonglem."
+ ],
+ "mis": [
+  {
+   "w": "«Bõe yĩng la Wẽnd naan ned sẽn tõe n maan yel-wẽnde? A sã n da ka naan-a, rẽ ka sõma n yɩɩd sɩda?»",
+   "t": "Wẽnd ka naan dũni wã ne ninsaalã ne ya-bõoneg yĩng ye, yaa ne nonglem sẽn pids n yɩɩda. Maan ninsaal <b>wa ned sẽn tõe n loe ne Wẽnde</b> yaa nonglem a meng yĩnga. La baa yel-wẽnã kẽebr ka yi Wẽnd fãagr sasrã yĩng ye (Efɛɛz Rãmba 1:4-5). Biibl wã pipi sõsg ka bʋʋd ye, yaa nonglem."
+  },
+  {
+   "w": "«B yiis-a Edɛn la b kõ-a kũum biig a yembr dɩɩb yĩng bala? Wẽnd ka yaa to-toog n yɩɩd sɩda?»",
+   "t": "Edɛn yiisgã yɩɩ bʋʋd la nimbãan-zoeer me. Ninsaal sã n da pa zãag ne Wẽnd la a sãamg pʋgẽ n dɩ vɩɩm tɩɩgã n vɩ wakat fãa, a na n paa toog pʋgẽ wakat fãa (Sɩngrẽ 3:22). Sak tɩ kũum wa pakda lebgr sore; la zĩig kãng meng Wẽnd kãaba fãagda (Sɩngrẽ 3:15). Nonglem ra zoe n bee bʋʋdã pʋgẽ."
+  },
+  {
+   "w": "«B yãka a Abrahaam a tẽeb sẽn yaa kãsengã yĩnga; Biibl neba fãa ka manesem kãsemdb sɩda?»",
+   "t": "A Abrahaam me yagsa ziri la a sãmbe, la a Zakoob ra yaa belgda. Wẽnd ka bool «sẽn zems-bã» ye, a boola sẽn pa zems-bã ne yamleoogo. Yãkrã bʋʋm ka b sõmblem ye, yaa Wẽnd nonglem sẽn yaa sɩda (Tõog Kʋdr 7:7-8)."
+  },
+  {
+   "w": "«Tõogã (noya) ka makr bɩ noor ned sẽn tog n tõog n paam fãagre sɩda?»",
+   "t": "Wẽnd fãag-b-la <b>nan</b> n kõ-b Tõogã. Tõog Goam piigã sɩngda ne fãagr togsgo: «Yaa maam, f Soaala, n yiis foo Ezipt tẽnga» (Yikri 20:2). Tõogã ka «sak-a tɩ f paam fãagre» ye, a yaa nonglem sor-wilgr sẽn wilgd sẽn zoe n paam-b fãagr ne yamleoog sẽn na n vɩɩmd to-to (Tõog Kʋdr 7:7-9). Yamleoogã n deng wakat fãa; sakrã yaa leoore."
+  },
+  {
+   "w": "«Kanaã tõogrã yɩɩ kʋʋb sẽn ka nimbãan-zoeere; kaool kʋdrã Wẽnd yaa to-toog baasgo.»",
+   "t": "Yaa yel sẽn yaa toog n ka tõe n manege gom-yend pʋgẽ ye, la a baoodame tɩ d gũus sõma. La Biibl wã ka wilg-a wa wẽgb zaalem ye, a yaa bʋʋd yʋʋm kobs wẽnem sẽn yɩɩd poore (sẽn naag kamb maoongo), sũ-mar wʋsg poore (Sɩngrẽ 15:16; Tõog Kʋdr 9:4-5; Maan-kʋʋdba 18:24-25). Wẽnd ka tʋlsd baa bʋʋdã, la a deega ne sũ-noog sẽn lebg n wa-a nengẽ, baa a yaa sãana, wala a Rahab ne a Rut (Zozue 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "«A Davɩɩd yɩɩ kãsemd sẽn ka tar kongre; yaa rẽ yĩng la b boond-a t'“rao sẽn zems Wẽnd sũur”.»",
+   "t": "A Davɩɩd maana yoobo la baa nin-kʋʋbo. «Rao sẽn zems Wẽnd sũur» ka rat n yeel tɩ a ka tar kongr ye, yaa a sẽn ka solg a yel-wẽn ye — a tuuba zãng la a kell n lebgd n wat Wẽnd nengẽ (Yɩɩll 51). Wẽnd nonglem ka basd baa ned sẽn lʋɩ kãsengã ye."
+  },
+  {
+   "w": "«Bãngd yaa bagr-maand sẽn togsd beoog yelle; kaool kʋdrã Wẽnd yaa sũ-puug bala.»",
+   "t": "Bãngd yellã ka «beoog togsg» ye, yaa Wẽnd sũ-sãangã kelgre: «Lebg n wa.» Baa bʋʋd keoogr ka baood sãoong ye, a baoodame tɩ lebg n wa n paam vɩɩm: «Mam pa nong nin-wẽnsa kũum ye, mam sẽn date, yaa b teem zʋgo n paam n vɩɩnde» (Ezekiyɛl 33:11)."
+  },
+  {
+   "w": "«Yembd tẽngã wilgdame tɩ Wẽnd basa Israyɛl zãnga.»",
+   "t": "Yembd tẽngã ka basg ye, a yaa Ba sɩlgr ne manegr biig nonglg yĩnga (Hebre rãmb 12:6). Wẽnd ka loog ye; a zĩnda ne a Daniɛl yembd tẽng sũur-biisẽ la a kãabame: «Mam mii m sẽn dat bũmb ning y yĩnga. Yaa laafi la m data, ka sũ-sãang ye, m sẽn dat yaa y yell yɩ neer beoogo» (Zeremi 29:11)."
+  },
+  null,
+  {
+   "w": "«Yʋʋm 400 sẽn ka gom-yendre, rẽ ka wilgd tɩ Wẽnd loogame wala a vʋʋsda sɩda?»",
+   "t": "Sĩ-sĩid ka basg ye. A pa gom bala, la wakat fãa kãng a vẽneg-a-la soolem dãmba, goamã la soyã n na n segl fãagrã zĩiga. Sasa sẽn yaa sĩ-sĩid n yɩɩdã, Wẽnd tʋmda ne pãng n yɩɩda, ne nonglem (Galat Rãmba 4:4)."
+  },
+  {
+   "w": "«A Zezi yaa zãms-sõng karen-saamb a yembr bala; da-lukã yɩɩ tõogr sũ-sãang.»",
+   "t": "A Zezi yeelame t'a yaa Wẽnd menga (Zã 8:58), la da-lukã ka yel-solemd bɩ tõogr ye, a yaa nonglem sẽn yaa sasr. B ka dɩk-a ne pãng ye, a kõo a meng vɩɩm ne a yam (Zã 10:18). «Ned nonglem ka pit n yɩɩg woto ye: kõ f vɩɩm f zo-rãmb yĩnga» (Zã 15:13)."
+  },
+  {
+   "w": "«Wẽn-doog yaa neb sẽn zems zãng tũudum sull, bɩ roog bal.»",
+   "t": "Wẽn-doog ka «nin-sõma sẽn zems zãngã» sull ye, a yaa <b>yel-wẽn-maandb sẽn paam sugri</b>. Baa tʋm-tʋmd a Poll yeelame t'a yaa «yel-wẽn-maandba… pipi» (1Timote 1:15). Pipi wẽn-doogã me sɩka taab la a kongame (Tʋʋm-tʋmdba vɩɩm 6:1; 1Korẽnt Rãmba 1:11). Wẽn-doog ka zĩig f sẽn wukd f meng ye, a yaa neb sẽn taasd nonglem ning b sẽn deegã (Zã 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Pipi yel-wẽn — nin-tɩrg ka be",
+   "body": "Yellã ka «tʋʋm-wẽn a wãn» ye, yaa sũur yẽgrã. A Ãdem tɛka, ned fãa rogda yel-wẽn pʋgẽ la a ka tõe n ta Wẽnd nengẽ a meng pãng ye.",
+   "vref": "Rom Dãmba 3:10-12, 23",
+   "vtext": "Nin-sõng ka ye, ba a ye… b fãa beega Wẽnde tɩ Wẽnd sẽn pid ne ziira zãag ne-ba."
+  },
+  {
+   "title": "Tõogã ka tõe n fãag maam ye",
+   "body": "Tõogã ka zɛ-dʋʋg ye, a yaa nin-gɛtga. F sẽn modgd n yɩɩda, a wilgda f sẽn kong to-to. A yõod yaa a wa ne tõnd a Krista nengẽ.",
+   "vref": "Rom Dãmba 3:20 · Galat Rãmba 3:24",
+   "vtext": "Noor sẽn tõe ne bũmb ning yaa wa ne yel-wẽnd bãngr bala… Noor yɩ karen-saamba n tãag Krista."
+  },
+  {
+   "title": "Ne yamleoogo — kũun, ka modgr ye",
+   "body": "Fãagrã ka tʋʋm-sõma keoor ye, a yaa Wẽnd kũun ned ning sẽn ka zema yĩnga. Yaa rẽ yĩng tɩ ned ka tõe n wuk a meng ye.",
+   "vref": "Efɛɛz Rãmba 2:8-9",
+   "vtext": "Tũu ne Wẽnd yamleoogo la y sẽn paam fãagrã, ne tẽeba kũuni… tɩ ned ka tõe n paam pẽgr a meng nengẽ ye."
+  },
+  {
+   "title": "Tẽeb n maneg d yelle",
+   "body": "Ka noya reegr yĩng ye, yaa a Zezi Krista tẽeb yĩng la b geelgd tõnd tɩrse — d ka yer d meng tɩrlem ye, d yerda bãmb tɩrlma.",
+   "vref": "Rom Dãmba 5:1 · Galat Rãmba 2:16",
+   "vtext": "Tẽeba sẽn maneg d yell yĩnga, d zĩi ne laafi… ninsaal pa teeg noya reegre n na n paam a yell manegr ne Wẽnd ye; ya a Zezi Krista tẽeb n wat ne rẽ."
+  },
+  {
+   "title": "Biibl wã wilgda a Zezi",
+   "body": "Biibl wã ka nin-kãsems vɩɩm sɛb bɩ f-meng-sõngr sebr ye. Sɩngrẽ tɛk n tãag Wilgrã, neng fãa kɩta ned a yembr kaseto: a Zezi Krista.",
+   "vref": "Zã 5:39 · Luki 24:27",
+   "vtext": "Sebr sõng n kõt-m kaseto… b sɩnga ne a Moyiiz n saag bãngdba fãa n vẽnegd bũmb ning fãa sẽn gʋls bãmb poorẽ."
+  },
+  {
+   "title": "Wẽnd Rĩunga — a Zezi koɛɛgã sũur",
+   "body": "Yel ning a Zezi sẽn zãms n yɩɩda. Rĩung ning Wẽnd sẽn dɩt naam wa rĩmã kẽe dũni wã ne a Zezi la a na n pidsa b lebgr waoongo. Ne da-lukã ne vʋʋgrã, a Zezi yaa rĩm-sɩd sẽn tõog yel-wẽna, kũum la Sʋtãana.",
+   "vref": "Mark 1:15",
+   "vtext": "Wakat taame, Wẽnd Rĩunga kolgame, tuub-y y yel-wẽna, tẽ-y Koe-noogã."
+  },
+  {
+   "title": "Koe-noogã — bãmb pidsa fãa",
+   "body": "Yel-wẽn samd ning mam sẽn da ka tõe n yaoã, a Zezi yao-a-la mam yĩng da-luk zugu, la ne vʋʋgrã a tõoga kũum. M ka teeg «maan woto» ye, m teega «fãa pidsame».",
+   "vref": "Zã 19:30 · Rom Dãmba 5:8",
+   "vtext": "Fãa pidsame… yaa Krista sẽn ki d yĩnga tɩ d yaool n da ket n ya yel-wẽn-maandbã."
+  }
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "menuName": "Aymar aru",
+ "htmlLang": "ay",
+ "dir": "ltr",
+ "brand": "Bibliia mä uñtawina",
+ "docTitle": "Bibliia mä uñtawina · Luräwita Iglesiacama",
+ "share": {
+  "title": "Bibliia mä uñtawina",
+  "text": "Mä uñtawinakiw Bibliian jach'a cuentapa uñjäta, ucatsti cunatsa Jesusajj jutawayi ucsa."
+ },
+ "ui": {
+  "people": "Jakenaca",
+  "events": "Wali wakiskir lurawinaca",
+  "christLabel": "Jesusaruw uñacht'ayi",
+  "loveLabel": "Jan tucusir munasiña",
+  "mythWrong": "Pantjat amuyäwi",
+  "mythRight": "Chekapanjja",
+  "more": "Juc'amp uñjañataqui",
+  "version": "(Aymar Bibliia)"
+ },
+ "labels": {
+  "start": "Kalltawi",
+  "thread": "Cuentapa",
+  "gospel": "Evangelio",
+  "about": "Acata"
+ },
+ "s": {
+  "ui.share": "↗ Yatiyaña",
+  "ui.toast": "Enlace copiatawa 📋",
+  "ui.footer": "Bibliia mä uñtawina · Bibliat aytäwinacajj Aymar Bibliiata",
+  "hero.kicker": "LURÄWITA IGLESIACAMA",
+  "hero.title": "Bibliia,<br><span class='em'>mä uñtawina</span>",
+  "hero.sub": "Mä uñtawinakiw Bibliian jach'a cuentapa uñjäta, ucatsti cunatsa Jesusajj jutawayi ucsa.",
+  "hero.cue": "Aynachar saracam<span>↓</span>",
+  "thread.eyebrow": "MÄ ARUKIW TAKE BIBLIIJJ MAYACHI",
+  "thread.h2": "Tucuyaru, Bibliiajj mä sap cuentaquiwa",
+  "thread.flow": "<b>Arust'awi</b><span class='arw'>→</span><b>Suyt'awi</b><span class='arw'>→</span><b>Phokhasiwi</b>",
+  "thread.note": "Diosajj <b>arust'awayi</b> (pacto), marcasti walja tiempow <b>suyt'i</b>, ucatsti tucuyaru take cunaw Jesusan <b>phokhasi</b> uqhamarac tucuyasi. Aca 13 escenanac aca tokerjam saracam — sapa tarjetan <b>«Juc'amp uñjañataqui»</b> sas limt'am juc'amp manqha cuentataqui.",
+  "gospel.eyebrow": "ACA CUENTAJJ «NAYATAQUI» CUNS SISA",
+  "gospel.h2": "Bibliian chekpach chuymapa",
+  "gospel.lead": "Bibliiajj <b>janiw «suma jake» ñancachañataqui mä yatichañ libroquiti.</b>",
+  "gospel.sublead": "Acajj Diosajj cunjamatï, <b>munasiñapampikiw</b>, jan pachpa khespiyasipctir juchararanacar khespiyi ucatwa parli. Taypipansti Jesucristow sayasqui.",
+  "gospel.mirror": "<h3>Israelan jan tucusir lurawipajj chekansti «nayan» uñacht'awipawa</h3><div class='cycle'><b>Idolatría</b><span class='a'>→</span><b>T'akhesiña</b><span class='a'>→</span><b>Jacha</b><span class='a'>→</span><b>Diosaw khespiyi</b><span class='a'>→</span><b>Wasitat idolatría…</b></div><p>Jueces tiempot exiliocama, Israelajj aca lurawjja jan tucusisaw wasitat wasitat luri. Bibliiajj janiw «¡cunja ajustawisapjjäna!» sas larusiñataqui kellkcäti.</p><p>Acajj mä <b>lunajawa</b>. Janiw «Israelaw uqham lurawayi» sañ munquiti, jan ucasti <b>«nayas uqhamaraquiw lurta»</b> sañ amuyt'ayistu (1 Corintios 10:11).</p><p>Mä <b>ídolojj</b> janiw lawat luratäki ucaquiti. Acajj <b>cuntejj Diosat sipan juc'amp muntan jan ucajj atisctan ucawa</b> — kollke, atipjawi, jakenacan jiwasar uñjatapa, jakenaca, nayapacha. Ucatsti Diosaru <b>cuna munäwijja phokhañataqui mä yänacjam</b> apnakañajj idolatríaraquiwa.</p><p class='punch'>Tucuyaru, take taypin manqhanqui uca ídolojj «nayapachawa, Diosan tronopan kont'asita».</p>",
+  "gospel.coreIntro": "Ucjjarusti, ¿cunjamsa Diosajj aca juchararar khespiyani? Acaw Bibliian yatiyqui uca evangelion chuymapa.",
+  "gospel.crux": "<p class='crux-lead'>Take Bibliiajj mä cheka uñacht'ayi.</p><p>Jakejj pachpa jan juchan lurawip apanucuñ atcänti, ucatsti janiw mä asqui jakes utjcänti. Ucatwa maynijj <b>jupanacan lanti chaniñchañapa</b> wakisïna.</p><p>Jesusajj janiw asqui yatichäwinac churañatak jutcänti. Janiw nayar khespiyañatak yakha thaqui utjcänti laycu, <b>jutañapaw wakisïna.</b></p><p class='crux-punch'>Uca cruzanjja <b>naya</b> warcuntataw warcuntat sayañ wakiscäna.<br>Jesusasti <b>nayan juchaja</b> apt'asisaw uca cheka nayan lanti ch'akkantata.</p><div class='crux-verse'>«jupajj jiwasan Diosasataqui sayt'asitas laycuw chhojjriñchjatänjja, jiwasan ñankha luratanacas laycuw wali t'akhesiyatänjja… chhojjrinacap laycuw kollata uñjasiractanjja.» — Isaías 53:5</div>",
+  "faq.h": "¿Aca tokejj cuns chuym usuyasctamti?",
+  "faq.q1": "<span class='arr'>▸</span> ¿Ucjjarojj mä jiwariri iyawsasaw alajjpacharu mistu, ucatsti suma jacasir mayni jan iyawsiri inferno saraquispa?",
+  "faq.a1": "<p>Acajj mä wali amuytäwiwa. Ucampis pä pantjat amuyäwiw manqhipat imantata.</p><p><b>① Bibliiajj janiw jakenacjja «suma» uqhamarac «jan walï» sas jaljquiti.</b> Tupusti janiw «jak'anqu uca jaket sipan suma» sañäquiti, jan ucasti «Diosan phokhat kollancañapawa». Jupan nayrakatapansti, janiw qhitis «suma jachañcamäquiti» (Romanos 3:23). Ucatwa janiw «suma jake jiwariri toke» sañäquiti, jan ucasti pä jiwañ usump usuta jakejam: maynejj kollañ catoki, mayni jan catoquisa «naya uca jaket sipan asctwa» sasaw inakti.</p><p><b>② Mä cunaquiw alajjpacha inferno toke jalji.</b> Janiw luräwin tupupäquiti, jan ucasti <b>Jesucriston Tatitupjam catokatap laycu juman juchamajj khespiyatächejja</b>. Qhititï Criston wilapampi juchap phokhayqui ucajj alajjpacharu mistu; qhititï janipuni catoqui, juchapampi quertasi ucasti janiw mistuquiti. Janiw cuna asqui luräwis pachpa uca jucha jan walja phokhayquiti.</p><p>Ucatwa alajjpacha inferno tokejja janiw «suma luräwit churatäquiti», jan ucasti <b>Cristompi mä jakthapiñawa</b>. Ucatsti «iyawsañajja» janiw amuyumpi iyawsañäquiti, jan ucasti qhitis jacañamar apnaki uca turcasiñawa: qhititï chekapun catoqui ucajj janiw jacha ajayunïquiti, jan ucasti juc'amp manqharu arrepentisi. Chekansti, «naya suma jaketwa» sas pachpa jan walit jarapt'asiñajja juc'amp jan apanucuñ ídolowa, uca <b>«janiw Cristjja muncti»</b> sas amuyiri (Lucas 18:9-14).</p><p>Bibliiajj khanapach siwa: <b>«Qhititejj Diosan Yokapar iyawsqui ucajja, janiw juchañchatäquiti, ucampis qhititejj jan iyawsqui ucajj niyaw juchañchatäjje»</b> (Juan 3:18). Juzgañajja janiw «jiwañ urumar jacañam tupuñäquiti», jan ucasti niyaw <b>Cristo catokayätati janicha</b> ucarjam phokhatäjje.</p><p class='faq-v'>Romanos 3:23 · Juan 3:18 · Efesios 2:8-9 · Lucas 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> ¿Janicha Jesusar jan iyawsasas suma jacañaki wakisi?",
+  "faq.a2": "<p>Acajj juc'amp amuytatawa, ucampis «chekpach jan walt'awi» cunäquis ucjja pantji. Mä uñacht'äwimp uñjañäni.</p><p><b>Mä lunthat barcun saraskasm sasaw amuyt'am.</b> Cunja sumas cubierta picharta, cunja sumas tripulacionampi sarnakta, cunja asqui jacañ jactasa — ucampis <b>lunthatapunïtawa</b>, barcoyataw barcojj cawcjjarutï saraski ucaru irpasctam (juzgañ puertoru). Jan walt'awejj janiw «luräwit tuputäquiti», jan ucasti <b>«cawqui barcoruts catokatäta» (qhitïtam)</b> ucawa.</p><p>Ucatwa evangeliojj janiw «juc'amp suma jakeñ yant'am» sañäquiti, jan ucasti <b>«barco turcasim»</b> siwa. Jucha barcot aynacht'am ucatsti Jesusaru saracam: machaka <b>Diosan wawapan</b> qhitïñaparu. Acajj janiw ch'amampi tupum aptañäquiti, jan ucasti amparap loktqui uca Maynir iyawsasaw barcoparu mañänitam.</p><p>Chekpachansa Bibliiajj khespiyañjja uca turcasiñjamaw uñacht'ayi — <b>«Diosaw jiwasarojj ch'amacanacan munañapat khespiyanistu, Jesucristo Yokapan apnakatäñataquiw uchasiraquistu»</b> (Colosenses 1:13).</p><p>Jan pantjäpañam: <b>acajj janiw suma jacañajj jan wakiskiri sañ muncti.</b> Sumankañajj janiw khespiyañ «wakisitäpäquiti», jan ucasti <b>achupawa</b>. Qhititï barco turcasi ucajj janiw ajjsarat suma jacjiti, jan ucasti <b>mä wawan munasiñapampiwa</b>.</p><p class='faq-v'>Colosenses 1:13 · Juan 1:12 · Juan 3:3 · Efesios 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Jan walinac luririw «Diosaw juchanacaja perdonjjituwa» sas sumancañan jacaski, ucampis t'akhesiyat jakejj t'akheskaquiwa ucajja, ¿janicha uca perdonajj wali ñañaqui?",
+  "faq.a3": "<p>Amuytäwejj wakisitawa, ucatsti uca usuyasiñajj chekawa. Ucampis uca arusti janiw «Bibliian perdonapäquiti», jan ucasti <b>pantjat amuyäwipawa.</b></p><p><b>① Diosan perdonapajj janipuniw ñañaquiti.</b> Juchajj janiw «janiw cuns pasiti» sas imantatäquiti; Diosapacha Yokapan jacañapampiw chaniñchawayi. Cruzajj janiw juchajj jisc'achatäñapatak uñacht'ayiti, jan ucasti cunja jathiscs uca uñacht'ayi: aca orakpachan juc'amp chaninïr perdonawa.</p><p><b>② Chekpach arrepentisiñajj achuniwa.</b> Jan walinac luririw t'akhesiyat jaken nayrakatap «Diosaw perdonjjitu, ucatwa sumancañan jacta» sas jan amuyt'asisa inaki ucajja, janiw arrepentisiñäquiti, jan ucasti mä yäncäwipawa (Mateo 3:8). Ucatsti jake Diosampin perdonasiñapajja janiw t'akhesiyat jaken chhojjrip picharcaspati, ni perdonañ wayuncascaspati.</p><p><b>③ Juchajj janipuniw inaki «armata» quertquiti.</b> Sapa juchajj pä cawqha tokenwa chaniñchatäni — <b>jan ucajj Cristow cruzan apt'asi</b> (qhititejj iyawsqui ucataquejj janiw juchañchäwi utjjiti, Romanos 8:1), <b>jan ucasti qhititï tucuyar jan catoqui ucaw pachpa apt'asi.</b> Ucatwa janiw «ñaña perdonajj utjquiti». Jan walinac luriristi aca orakpachansa leyin nayrakatap arsuñapaw utji (Romanos 13:1-4).</p><p><b>④ T'akhesiyat jaken jachanacapajja janipuniw Diosan nayrakatap jisc'äquiti.</b> Diosajj jachirinacampiw jachi, sapa jachjja amtasi, ucatsti tucuyar pachpaw picharani (Apocalipsis 21:4). Ucatwa t'akhesiyat jakejja janiw pachpaki vengarasiñ jathi apt'ascaspati, jan ucasti cheka Diosaru jaytarpäcaspawa (Romanos 12:19: «Nayaruw wact'itu mutuyascañajja, nayaraquiw phokhascäjja, siw Tatitojja»).</p><p class='faq-v'>Mateo 3:8 · Romanos 8:1 · Romanos 13:1-4 · Apocalipsis 21:4</p>",
+  "respond.h3": "Ucjjarusti, ¿cuns nayajj luräjja?",
+  "respond.sub": "Aca munasiñajj janiw mä yatiyäwiquiti, jan ucasti mä <b>jawsäwiwa</b>. Uca nayan lanti ch'akkantat munasiñajj chuymam llamkt'i ucajja, jichha aca mayisiñ jamasata, mä arut mä aru, k'achata aytam.",
+  "respond.prayer": "<p>Diosay,</p><p>nayajj pachpa jan khespiyasipctir mä juchararatwa amuyt'asta.</p><p>Jesusajj cruzan nayan lantija jiwawayi ucatsti jactawayi ucwa iyawsta.</p><p>Take juchanacaja perdonjjita, ucatsti jichhürut jacañajan Tatitupäm.</p><p>Wawamjam catokita, ucatsti machaka jacaña jacayita.</p><p class='amen'>Jesusan sutipan mayista. Amén.</p>",
+  "respond.after": "Aca chuymapacha mayisita ucajja, Bibliiajj <b>Diosan wawapaw tucusta</b> siwa. Janiw sapacti — jak'anqui uca iglesia thakem ucatsti yakhanacampi iyawsäwin saracam.",
+  "respond.verse": "«juparu catokapqui iyawsapcaraqui ucanacarusti munañanïñwa churi Diosan wawanacapa tucupjjañapataqui.» — Juan 1:12 · Romanos 10:9-10",
+  "closing.main": "Mä sap Dios,<br>mä sap cuentampi,<br>jan tucusir <em>munasiñampiw</em><br>jiwasar thaquistu.",
+  "closing.verse": "«janiw jiwañasa, ni jacañasa… ni cuna yakha yänacasa Diosan munañapatjja apakquistaspati, uca munasiñsti Cristo Jesús Tatitus tokwa uñacht'ayistu.» — Romanos 8:38-39",
+  "closing.small": "Aca cuentaru, leyejj, jaylli libronaca, profetanaca ucatsti cartanacajj «janchi» uchapjje.<br>Jichhata, cawqui librotï jist'arta ucansa, «cuentan cawcjjancta» ucwa yatïta.",
+  "closing.share": "↗ Aca cuentajj yatiyaña",
+  "about.line": "Contenidojj coreano protestante iglesian walja partepan uñjqui uca <b>histórico-redentor, evangélico ucatsti reformado</b> uñjäwirjamaw lurata.",
+  "about.contact": "Jisct'awinaca · amuyt'awinaca — <a id='contact' class='mail'>Correo qhelkt'aña</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ANTIGUO TESTAMENTO · KALLTAWI",
+   "title": "Luräwi",
+   "date": "Kalltäwina",
+   "one": "Diosajj «wali suma» orakpach luräna.",
+   "people": "Dios; Adán Eva ucatsti",
+   "events": "Sojjta uru luräwi, jake Diosan uñtampi lurata, samañ sábado",
+   "q": "Take cunan kalltäwipanjja Diosajj alajjpacha, uqhamarac acapacha luräna.",
+   "cite": "Génesis 1:1",
+   "christ": "Orakpachajj «Aru» tokew lurata. Juanan Evangeliopajj uca Arojj Jesuspachawa sas khanañchi (Juan 1:1-3).",
+   "detail": "<p>Bibliiajj janiw mä filosofía amuyt'awimp kalltquiti, jan ucasti mä khanañchäwimpiwa: <b>«Take cunan kalltäwipanjja Diosajj…»</b>. Orakpachajj janiw inaquit utjcänti, jan ucasti mä jakjam Diosan luräwipawa.</p><ul><li><b>Diosan uñtapa</b> · take luratanac taypitjja, jakequiw Diosaru uñtañaru luratäna, jupar uñt'añataqui ucatsti orakpach uñjañataqui.</li><li><b>Samaña</b> · pakallku uru samañajj take cuna phokhata ucatsti sumancañan (shalom) utjatap uñacht'ayi: «walïnwa».</li><li><b>Edén</b> · jan p'akisitan orakpacha, cawcatï Diosampi jakempi mayachat sarnakapcäna.</li></ul>",
+   "next": "Ucampis aca phokhatajj niyaw p'akisini…"
+  },
+  {
+   "tag": "ANTIGUO TESTAMENTO · JAN WALT'AWI KALLTI",
+   "title": "Jucharu jalanta",
+   "date": "Kalltäwina",
+   "one": "Juchaw mantani, ucatsti jakempi Diosampin chinupajj t'aktata.",
+   "people": "Adán Eva; asiru (Satanás)",
+   "events": "Jark'at acharar mank'awi, Edenat alsuwi, jiwañampi caram ch'amampi jutawi",
+   "q": "Warmimpi jumampsti enemigo tucuyapjjäma… Warmin wawapasti p'eket takjjatätam.",
+   "cite": "Génesis 3:15",
+   "christ": "Jan walt'awi tucuyatat catjjar churat evangelion nayrïr arust'awipa: «warmin wawapa» asiron p'ekep takjjatani — ucasti Jesusawa (Génesis 3:15; Romanos 16:20; Gálatas 4:4).",
+   "detail": "<p>«Diosjam tucuñ» munasin jan istjasiñapatjja, juchajj orakparu mantani. Acan achupasti janiw mä leyi p'akisiñaquiti, jan ucasti <b>jakthapiñ p'akisiñawa</b>.</p><ul><li><b>P'akisit chinunaca</b> · Diosampi (imantasiwi), maynimpi (juchanchasiwi) ucatsti orakempi (kichca ch'amampi).</li><li><b>Jiwaña</b> · «jiwapuniätawa» sas yatiyäwejj chekanchasi.</li><li><b>Génesis 3:15</b> · ucampis juzgañ taypinjja, khespiyañ arust'awejj nayrar churata. Yatiñaninacajj acaru <b>«protoevangelio» (nayrïr evangelio)</b> sas sutiyapjje.</li></ul>",
+   "next": "Jichhasti Diosajj mä jakequiru jawst'i khespiyaw kalltañataqui…"
+  },
+  {
+   "tag": "ANTIGUO TESTAMENTO · ARUST'AWI",
+   "title": "Awquinaca",
+   "date": "2000 a. C. tokensa",
+   "one": "Diosajj Abrahamar arust'i: «Mä bendición jawiräm tucuätawa».",
+   "people": "Abraham · Isaac · Jacob · José",
+   "events": "Abrahammpin pactopa, Isaacan luktäwipa, Jacoban tunca payani wawanacapa, José Egiptun apnakirïtapa",
+   "q": "Wawanacamampisti mä jach'a marca tucuyäma… juma tokeraquiw take familianacas aca orakenjja bendicitäpjjani.",
+   "cite": "Génesis 12:2-3",
+   "christ": "«Take familianacaw bendicitäpjjani» sas arust'awejj Jesusan phokhasi, jupasti Abrahaman wawapawa (Gálatas 3:16).",
+   "detail": "<p>Diosajj take jaken jan walt'awipjja mä jaki, <b>Abraham</b>, jawsasaw apanucuñ kallti. Chuymapasti <b>pacto (arust'awi)</b>: mä jach'a marca, mä orake ucatsti «take familianacataqui bendición».</p><ul><li><b>Iyawsaña</b> · Abrahamajj jan uñjat arust'aw iyawsi, ucatsti cheka jakjam tupusiwayi (Génesis 15:6).</li><li><b>Isaac Jacob ucatsti</b> · arust'awejj qhepa wila masinacar pasi; Jacob (Israel) tunca payan ayllunacan awquipawa.</li><li><b>José</b> · jilanacapaw aljawayapjje ucampis apnakirïru aptata — «Diosaw uca jan waljja asquiru tucuyjje» (Génesis 50:20).</li></ul>",
+   "next": "José qhepat familiajj Egiptoru sari… ucatsti esclavo tucu."
+  },
+  {
+   "tag": "ANTIGUO TESTAMENTO · KHESPIYAWI",
+   "title": "Egiptot mistuwi wasarana",
+   "date": "1446 a. C. tokensa",
+   "one": "Diosajj esclavo marc khespiyi, ucatsti jupanacapa tucuyi.",
+   "people": "Moisés, Aarón, faraón",
+   "events": "Tunca jan walinaca, Pascua, Wila Lamar makhatawi, Sinaín Tunca Camachinaca, tabernáculo, pä tunca marawi wasarana",
+   "q": "Jumanacarusti nayan marcajjwa tucuyapjjäma, ucatsti nayawa jumanacan Diosamäyäjja.",
+   "cite": "Éxodo 6:7",
+   "christ": "Pascuajja, cawcansa cordero wilapaw jiwañ apsuwayi ucajja, Jesusaru uñacht'ayi, jiwasan «Pascuasaru», jiwasan lanti cruzar warcuntata (1 Corintios 5:7).",
+   "detail": "<p>Antiguo Testamenton jach'a khespiyäwipa. Esclavo Israelajj Diosan ch'amapampiw khespiyatäjje, ucatsti jupan <b>marcaparu</b> tucuyata.</p><ul><li><b>Pascua</b> · cordero wilampi punkup macatatat utajja jiwañat khespiyata; qhep take luktawinacan uñtapa.</li><li><b>Wila Lamar</b> · cawcatï thaquejj tucu ucan khespiyäwi; «mä toker makhatañajj» machaka kalltäwin uñtapaw tucu.</li><li><b>Sinaín pactopa</b> · Camachinac toke Diosan marcapjam jacañ yatipjje.</li><li><b>Tabernáculo</b> · sarnakir templo cawcansa Diosajj marcap taypin jaki — «Emanuelan» nayrïr uñtapa.</li><li><b>Pä tunca mara</b> · jan istjasiñ laycu mä wila masejj wasarana sarnaki, ucampis Diosajj maná ucatsti k'oñ qenaya nina utcatatampiw jak'ancäna.</li></ul>",
+   "next": "Arust'at oraken nayrakatapan, mantañ wakichasipjje…"
+  },
+  {
+   "tag": "ANTIGUO TESTAMENTO · UTT'AWI",
+   "title": "Atipjawi jueces",
+   "date": "1400–1050 a. C. tokensa",
+   "one": "Orakejj catokapjje, ucampis jan reyini, sapa maynisa munañaparjam luri.",
+   "people": "Josué; Gedeón Sansón jamä juecesnaca; Rut",
+   "events": "Jericon t'unjasiwipa, Canaanan utt'awi, jucha–juzgawi–khespiwi wasitat lurawi",
+   "q": "Uca urunacansti Israel marcanjja janiw reyejja utjcänti, uqhamïpansti sapa maynisa munañapacwa lurasipjjäna.",
+   "cite": "Jueces 21:25",
+   "christ": "Rutan wila masipat David juti, ucatsti Davidan wila masipat Jesús juti (Mateo 1). Take ch'ajwa taypinsa, Mesíasan wila masipajj sarascaquiwa.",
+   "detail": "<p>Josuén apnakatapanjja arust'at oraker mantapjje, ucampis utt'asajja niyaw Diosjja armapjje. Jueces librojj uca pachpa lurawiw wasitat wasitata.</p><ul><li><b>Jucha lurawi</b> · jucha → t'akhesiyawi → jacha → mä juez khespiyi → wasitat jucha, sapa cuti juc'amp jan wali.</li><li><b>Juecesnaca</b> · Gedeón, Sansón, Débora… mä juc'a tiempotaqui khespiyirinaca, jach'anaca ukampis walja pantjasirinaca.</li><li><b>Rut</b> · ch'amac tiemponjja iyawsañ k'ajiri; mä yakha marcan warmejj Davidan (ucatsti Jesusan) wila masiparu mantani.</li></ul>",
+   "next": "Marcajj jachi: «¡Jiwasarus mä rey churapjjeta!»…"
+  },
+  {
+   "tag": "ANTIGUO TESTAMENTO · WALI SUMA TIEMPO",
+   "title": "Mayachat reino",
+   "date": "1050–930 a. C. tokensa",
+   "one": "Diosajj Davidar arust'i: «Tronomajj wiñayataquiw utt'atani».",
+   "people": "Saúl · David · Salomón",
+   "events": "Nayrïr rey Saúl, David Goliatampi, Davidampin pactopa, Salomonan templopa",
+   "q": "Juman wawanacamajj wiñayaw apnakapjjani… uqhamaraqui juman tronomasa wiñayataqui utt'atapuniraquïniwa.",
+   "cite": "2 Samuel 7:16",
+   "christ": "«Wiñay tronojja» Jesusan phokhasi, Davidan wawapana — ucatwa «Davidan Wawapa» sas sutiyata (Lucas 1:32-33; Mateo 1:1).",
+   "detail": "<p>Israelan wali suma tiempopa, quimsa reyin apnakatapana.</p><ul><li><b>Saúl</b> · marcan mayit nayrïr rey; suma kalltäwi, ucampis jan istjasitap laycu jaytata.</li><li><b>David</b> · «Diosan chuymaparjam jake». Goliat atipji ucatsti Jerusalén marcap capital lurasi. Mä jach'a jucha luri (Betsabé), ucampis chuymapach arrepentisi (Salmo 51).</li><li><b>Davidampin pactopa (2 Samuel 7)</b> · Diosajj Davidan reinopa wiñayataqui utt'ayañ arust'i — Mesíasan suyañan chekpach saphipa.</li><li><b>Salomón</b> · yatiñ kollanenjja kamiripiniraqui <b>templo</b> Jerusalén lurawayi, ucampis tucuyar ídolonacar mantani.</li></ul>",
+   "next": "Salomón qhepat reinojj payaru jaljasi…"
+  },
+  {
+   "tag": "ANTIGUO TESTAMENTO · AYNACHT'AWI",
+   "title": "Jaljat reino",
+   "date": "930–586 a. C.",
+   "one": "Aynach (Judá) ucatsti aljjir (Israel) jaljasi, ucatsti pisitat pisitat jan walt'asi.",
+   "people": "Pä reinonacan reyinacapa; Elías, Isaías, Jeremías jamä profetanaca",
+   "events": "Reino jaljasiwipa, idolatría, profetanacan yatiyawinacapa",
+   "q": "Uqhamatwa Israel marcajj Davidan familiapa contra tucuwayäna jichhürcama.",
+   "cite": "1 Reyes 12:19",
+   "christ": "Aca tiemponjja profetanacajj jutiri Mesías juc'amp khanapach yatiyapjje (Isaías 9:6; Isaías 53).",
+   "detail": "<p>Salomonan wawapan tiempopanjja reinojj jaljasi: <b>aljjir Israel reino</b> (tunca ayllunaca, capital Samaria) ucatsti <b>aynach Judá reino</b> (pä ayllunaca, capital Jerusalén).</p><ul><li><b>Israel (aljjir)</b> · take reyinacapajj ídolonacar serviwapjje; 722 a. C. Asiria nayrakatapan t'unjasi.</li><li><b>Judá (aynach)</b> · Davidan wila masipajj sarasqui, Ezequías Josías jamä juc'a asqui reyinacampi, ucampis takpach aynacht'asi.</li><li><b>Profetanaca</b> · Elías, Amós, Isaías, Jeremías «¡cuttanipjjam!» sas jacharapjje. Mesíasat profeciajj acan juc'amp utji (Isaías 53an «t'akhesir serviripa»).</li></ul>",
+   "next": "Tucuyar yatiyat juzgawejj puri — esclavoru irpata…"
+  },
+  {
+   "tag": "ANTIGUO TESTAMENTO · JUZGAWI",
+   "title": "Exilio",
+   "date": "722 / 586 a. C.",
+   "one": "Reinojj t'unjasi ucatsti marcajj yakha orakeru irpata.",
+   "people": "Daniel, Ezequiel, Nabucodonosor",
+   "events": "Israelajj Asiria nayrakatap t'unjasi (722); Judá Babilonia nayrakatap t'unjasi ucatsti templo t'unjata (586)",
+   "q": "Babilonia jawir lacanacan kont'ataw Sión marcat amtasisajj jachapjjäyätan.",
+   "cite": "Salmos 137:1",
+   "christ": "Wali jan walt'añ taypinjja Jeremiasajj mä «machak pacto» arust'i (Jeremías 31:31) — ucasti pachpa pacto cawctï Jesusajj qhepa manq'añan utt'ayqui ucawa.",
+   "detail": "<p>Yatiyäwinacajj chekanchasi. Templo nakhi ucatsti marcajj Babiloniaru irpata — orake, rey ucatsti templo aptata: take taypin aynachankañapa.</p><ul><li><b>Pä t'unjasiwi</b> · Israel (Asiria, 722 a. C.) ucatsti Judá (Babilonia, 586 a. C.).</li><li><b>Daniel</b> · ídolot reyin utapansa iyawsañ uñacht'awi (leones lojo); «wiñay reino» jutiri uñjäwi uñji.</li><li><b>Mä suyt'añ k'ajiri</b> · waña ch'akhanac jacatatasiwip uñjäwi (Ezequiel 37) ucatsti Jeremiasan «machak pacto» ch'amaca taypin jutiri uru uñacht'ayi.</li></ul>",
+   "next": "Pakallku tunca mara qhepa, Diosajj thaqui jist'ari — utaparu cutipjje…"
+  },
+  {
+   "tag": "ANTIGUO TESTAMENTO · MACHAKACHAWI",
+   "title": "Exiliot cutt'awi",
+   "date": "538–430 a. C.",
+   "one": "Cutt'anipjje ucatsti templo perqhanacampi wasitat sayt'ayapjje.",
+   "people": "Esdras, Nehemías, Ester, Zorobabel",
+   "events": "Ciron camachipat cutt'awi, templo wasitat sayt'awi, Jerusalén perqhanac askichawi, Aru machakachawi",
+   "q": "Tatitusti cusisiñapampiw jiwasar ch'amañchistani.",
+   "cite": "Nehemías 8:10",
+   "christ": "Malaquías, Antiguo Testamenton tucuyïr libropa, Mesíasan thaquip wakichiri mä apiri arust'isaw tucuyi: «Apirijjwa qhitanta» (Malaquías 3:1).",
+   "detail": "<p>Persia rey Ciron camachipat (538 a. C.) cutt'awejj kallti. Quimsa cutiw cutt'anipjje ucatsti t'unjat cunanac wasitat sayt'ayapjje.</p><ul><li><b>Zorobabel</b> · templo wasitat sayt'ayi (516 a. C. tucuyata).</li><li><b>Esdras</b> · Aru wasitat yatichi ucatsti iyawsañ jactayi.</li><li><b>Nehemías</b> · Jerusalén perqhanac patunca payan urun sayt'ayi.</li><li><b>Ester</b> · Persian judíonac tucjañat khespiyi — «aca horataquisa qhitis yati».</li><li><b>Sarascir munäwi</b> · templojj sayt'i, ucampis janiw Davidjam reyejj utjquiti. Marcajj Mesías suyt'i.</li></ul>",
+   "next": "Ucatsti… alajjpach jist'antatjam, pä pataca tunca marawiw pasi."
+  },
+  {
+   "tag": "TESTAMENTONAC TAYPI · ESCENA WAKICHAWI",
+   "title": "Amukt'at maranaca",
+   "date": "430–4 a. C. tokensa",
+   "one": "Pä pataca tunca mara jan profetan arupampi — ucampis escenajj amukta wakichasïna.",
+   "people": "Jach'a Alejandro, Macabeonaca, Roma",
+   "events": "Persia → Grecia → Macabeonacan jiljatawipa → Roman apnakawipa",
+   "q": "cunapachatejj tiempojj phokhasiwayjjejja, Diosajj Yokapwa qhitani mä warmi toke yurisa.",
+   "cite": "Gálatas 4:4",
+   "christ": "Take aca «escena wakichañajj» Diosan luräwipänwa, Jesusajj «tiempo phokhasiwiparjam» jutañapataqui.",
+   "detail": "<p>Malaquiasat Nuevo Testamentocama, pä pataca tunca marachjaniw machak Kellkata (profetanaca) jani. Ucampis historian qhepapanjja Diosajj evangelion thaquip wakichäna.</p><ul><li><b>Reinonac turcasiwi</b> · Persia → Grecia (Alejandro, 333 a. C.) → Ptolomeo Seléucida ucatsti → Macabeonacan jiljatäwipa (167 a. C.) → Roma (63 a. C.).</li><li><b>Griego aru</b> · Alejandron atipjäwipajj griego arojj take arur tucuyi; Antiguo Testamentojj griegoru jaqhocatata (Septuaginta), evangelion jankaki yatatañapataqui thaqui jist'arasina.</li><li><b>Roman thaquinacapa sumancañapa</b> · suma luratat thaquinaca ucatsti «Pax Romana» misiontaqui thaqui tucu.</li><li><b>Sinagoga partidonaca</b> · sinagogan yatichañajj saphintasi; fariseonaca saduceonaca alsupjje; ucatsti <b>Mesías suyt'añajj</b> phokhasi.</li></ul>",
+   "next": "Ucatsti, amukt'awi p'akisi — tucuyar jupajj juti."
+  },
+  {
+   "tag": "NUEVO TESTAMENTO · PHOKHASIWI",
+   "title": "Jesusajj juti",
+   "date": "4 a. C.–30 d. C. tokensa",
+   "one": "Arust'at Mesíasajj juti, jiwi, ucatsti wasitat jacatati.",
+   "people": "Jesús, tunca payan discipulonaca, bautisir Juan",
+   "events": "Encarnación, yatichäwip qollasäwipa, cruzan jiwawipa, quimsïr urun jacatatäwipa",
+   "q": "Qhä Arusti janchiruw tucu, jiwasanac taypinwa jacaraquïna… munasiñampi asquimpi phokhantataraqui.",
+   "cite": "Juan 1:14",
+   "christ": "Warmin wawapa (escena 2), Abrahaman bendiciónapa (3), Pascuan corderopa (4), Davidan wiñay reyepa (6), machak pacto (8) — take mä sap Jesusan phokhasi: jiwasan chekpach profetasa, sacerdotesa, reysa.",
+   "detail": "<p>Amukt'awejj p'akisi; Arust'atajj juti. Pusi Evangelionacajj Jesusan jacañapa, jiwañapa, jacatatäwipa pusi tokenacat khanañchapjje.</p><ul><li><b>Encarnación</b> · Diosajj jake tucu (Emanuel, «Dios jiwasampi»), Belenan alt'at chekapana.</li><li><b>Qollasäwi</b> · Diosan reinop yatichi, usutanac kollani, juchararanac jawsi. «Qhititï nayaru uñjituchijj, Awquiruw uñji.»</li><li><b>Cruz</b> · jan walt'awin (escena 2) apanit jucham jiwañ chanip jiwasan lanti phokhi. Chekpach Pascuan corderopa.</li><li><b>Jacatatäwi</b> · quimsïr urun jacatatasajj jucha, jiwaña, Satanasan ch'amap p'akiji — niya cruzanpach «take ajayunacan ch'amanacaparojj atipjawayi» (Colosenses 2:15).</li></ul><p>Ucatwa Jesusajj jiwasan <b>chekpach profetasawa</b> (Diosaru thaqui uñacht'ayistu), jiwasan <b>chekpach sacerdotesawa</b> (pachpa janchipampi juchanac pampachi), ucatsti jiwasan <b>chekpach reysawa</b> (jucha, jiwaña, Satanás atipjasaw wiñayataqui apnaki).</p>",
+   "next": "Jacatatat Jesusajj discipulonacap orakparu qhitani…"
+  },
+  {
+   "tag": "NUEVO TESTAMENTO · MISTAÑAWI",
+   "title": "Iglesia kallti",
+   "date": "30 d. C. tokensa",
+   "one": "Ajayuw juti, ucatsti evangeliojj orake tucuyacama yatatasi.",
+   "people": "Pedro, Pablo, nayrïr iglesia",
+   "events": "Pentecostesan Ajayu warantatawi, iglesia yuriwi, perseguciont toke Jerusalenat Romacama evangelio yatatawi",
+   "q": "Kollan Ajayuw jumanacjjar jutani, ucatjja ch'am catokapjjäta… take aca orakpachana.",
+   "cite": "Hechos 1:8",
+   "christ": "Aca cuentajj jichhürcamaw sarasqui. Bibliiajj Jesusajj wasitat jutani ucatsti take cuna machakachani sas arust'isaw tucuyi (Apocalipsis 21).",
+   "detail": "<p>Jesús alajjpacharu mistjja qhepatjja, arust'at Ajayujj Pentecostesan juti ucatsti iglesia yuri. Evangeliojj wali jankaki yatatasi.</p><ul><li><b>Pentecostés</b> · Ajayu toke, ajjsarat discipulonacajj ch'amani khanañchirir tucupjje.</li><li><b>Pedro</b> · Jerusalenan judíonacar evangelio yatiyi.</li><li><b>Pablo</b> · perseguidorat apóstolaru, gentil orake tuqui iglesianac sayt'ayi ucatsti cartanac kellki.</li><li><b>Orake tucuyacama</b> · Jerusalén → Judea → Samaria → Roma. Abrahamar churat «take familianacat» arust'awejj chekanchasi.</li><li><b>Ucatsti jiwasa</b> · cuentajj janiw tucuquiti; Jesusan cutt'aniwiparu ucatsti machak alajjpach machak orakeru saraski.</li></ul>",
+   "next": "Ucampis cuentajj janiw acan tucuquiti…"
+  },
+  {
+   "tag": "NUEVO TESTAMENTO · TUCUYAWI",
+   "title": "Machakachawi",
+   "date": "Jutiri",
+   "one": "Jesusajj wasitat juti ucatsti take cuna machakachi.",
+   "people": "Cutt'anir Jesús; take marcanaca",
+   "events": "Cutt'aniwi, tucuyïr juzgawi, jucha·jiwaña·jachan tucuyawi, machak alajjpach machak orake",
+   "q": "Diosajj take jachanacapwa nayranacapatjja picharani, janiraquiw jiwañas, jachañas utjcjjaniti, warariñasa ni usuyasiñasa.",
+   "cite": "Apocalipsis 21:4",
+   "christ": "Nayrïr luräwin Edenapajj tucuyar «Machak Jerusalén» tucusaw machakachata. Diosajj marcapampi wiñayataquiw jaki — Emanuelan phokhatapa (Apocalipsis 21:3; Mateo 1:23).",
+   "detail": "<p>Bibliiajj janiw iglesia tiempon tucuquiti. Tucuyïr librompa, Apocalipsis, Jesusajj <b>wasitat jutani</b> ucatsti take cuna tucuyani sas uñacht'ayi.</p><ul><li><b>Cutt'aniwi</b> · arust'at reyejj jach'a cancañampi cutt'ani.</li><li><b>Tucuyïr atipjawi</b> · Satanás jiwañampi wiñayataqui t'unjata, ucatsti Cristojj reyinacan Reypaspjam apnaki (1 Corintios 15:25-26; Apocalipsis 20:10).</li><li><b>Juzgawi jacatatawi</b> · take jan walejj askichata, ucatsti jiwatanacajj jacatatata.</li><li><b>Machak alajjpach machak orake</b> · jucha, jiwaña, jacha ucatsti usuyasiñajj wiñayataqui chhaqhi (Apocalipsis 21:4).</li><li><b>Machakachat Edén</b> · kalltäwit sipan suma «Machak Jerusalenana», Diosajj marcapampi wiñayataquiw jaki — take Bibliian saraski uca chekapa.</li></ul><p>Ucatwa jichhajj <b>«niya, ucampis janira»</b> tiempo: Jesusanjja khespiyañajj <b>niyaw</b> phokhasi, ucampis phokhatapasti <b>janiraw</b> suyaski.</p>",
+   "next": "Ucjjarusti, ¿aca take cuentajj «nayataqui» cuns sisa?"
+  }
+ ],
+ "love": [
+  "Cuentajj janiw juzgawimp kalltquiti, jan ucasti munasiñamp wartat luratat orakempiwa.",
+  "Jakejj juchachasiwi pachpa, Diosajj uca chekapach khespiyaw arust'i.",
+  "Diosajj jan wakisir jaki nayar thaqui, sutipat jawsi, ucatsti mä bendición jawiräm tucuyi.",
+  "Esclavo marcan kachakawip ist'i ucatsti jupapacha khespiyiri aynacht'anini.",
+  "Wasitat wasitat jaytata ucampisa, sapa cuti jacapcäna ucapachaw mä khespiyiri qhiti ucatsti wasitat sayt'ayi.",
+  "Jalantat David jan jaytcaspa; jupa toke mä wiñay rey arust'i.",
+  "Jupar jiqhañchir marcaru profetanac qhiti, mayisisa: «Cuttanipjjam, mira».",
+  "Exilion wali ch'amac orakecamasa jupanacampi aynacht'i ucatsti machakachawi arust'i.",
+  "Wasitat wasitat pantjasir marcatsa arust'awip janiw aytarpäquiti, jan ucasti wasitat sayt'ayi.",
+  "Pä pataca tunca amukt'at maranacansa, jan uñjata, khespiyañ thaquip wakichäna.",
+  "Jiwasajj juchararäscapctan ucapachaw Yokap qhitani ucatsti pachpa jacañap loktawayi.",
+  "Catoktan uca munasiñjja, jichhajj take orakeru wartañataquiw qhiti.",
+  "Tucuyar take jachanac picharani ucatsti take cuna munasiñampi machakachani."
+ ],
+ "mis": [
+  {
+   "w": "«¿Cunats Diosajj jucha lurañ atir jak luräna? ¿Janicha jan lurañ juc'amp wali ucax?»",
+   "t": "Diosajj orakpach ucatsti jak janiw cuna pisitap laycu luräquiti, jan ucasti wartat munasiñapampiwa. Jakeru <b>Diosampi mayachasir jakjam</b> lurañajja, pachpa, munasiñawa. Ucatsti jucha mantañasa janiw Diosan khespiyañ amtäwipata ancjjanquiti (Efesios 1:4-5). Bibliian nayrïr escenapajj janiw juzgawiquiti, jan ucasti munasiñawa."
+  },
+  {
+   "w": "«¿Mä acharar mank'at quertasiñataqui alsuwi ucatsti jiwaña catokaña? ¿Janicha Diosajj wali khoruquix?»",
+   "t": "Edenat alsuwejj juzgawi ucatsti khuyapayasiñaraquïnwa. Diosat jaljtat uca p'akisit qhitïpan jacañ acharar mank'asisin wiñayataqui jacasm ucax, wiñayataquiw t'akhesiñan quertasispa (Génesis 3:22). Jiwaña churañajj cutt'añ thaqui jist'arawayïnwa; ucatsti uca chekapach Diosajj mä Khespiyiri arust'i (Génesis 3:15). Juzgaw taypinjja niyaw munasiña utjäna."
+  },
+  {
+   "w": "«Abrahamajj jach'a iyawsañap laycuw ajllita; ¿janicha take Bibliian jakenacapajj ñancachañ ch'amaninacaquix?»",
+   "t": "Abrahamasa k'ari ucatsti pachi, Jacobasti mä sallka chachänwa. Diosajj janiw «wakiscir» jakenac jawscänti, jan ucasti pantjasir jakenac munasiñapampi jawsi. Ajllin laycupasti janiw jupanacan sumankañapänti, jan ucasti Diosan cheka munasiñapänwa (Deuteronomio 7:7-8)."
+  },
+  {
+   "w": "«¿Janicha leyejj (camachinaca) khespiyañataqui phokhañasaki uca mä yant'awi jan ucax mä wakisiñax?»",
+   "t": "Diosajj leyi churañ <b>nayrar</b> khespiyäna. Tunca Camachinacasti mä khespiyañ khanañchäwimpiw kallti: «Nayätwa juman Tatitu Diosamajja, nayaw Egiptotjja apsunsma» (Éxodo 20:2). Leyejj janiw «khespiyatañatak phokham» sañäquiti, jan ucasti niya munasiñampi khespiyat marcajj cunjam jacañapsa uca mä munasiñ irpawiwa (Deuteronomio 7:7-9). Wiñayaw munasiñajj nayraqui; istjasiñasti achuparaqui."
+  },
+  {
+   "w": "«Canaanan atipjawejj mä jan khuyat jiwariñänwa; Antiguo Testamenton Diosajj chekpachansa khoruwa.»",
+   "t": "Acajj mä ch'ama tema cawcatï mä arumpi jan kollasitäquis ucawa ucatsti yatiyañaw wakisi. Ucampis Bibliiajj janiw inacat colerasiw uñacht'ayquiti, jan ucasti walja patac maranac juc'amp jan wali (wawanac luktasiñ catusina) qhepat, walja pacientaña qhepat juzgawjamaw uñacht'ayi (Génesis 15:16; Deuteronomio 9:4-5; Levítico 18:24-25). Diosajj janiw juzgañar jankacquiti, ucatsti qhititï juparu cutti ucanacjja cusisitaw catoki, yakha marcan jakesa, Rahab Rut jamä (Josué 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "«Davidajj jan pantjasir ch'amaninwa; ucatwa «Diosan chuymaparjam jake» sas sutiyapjjäna.»",
+   "t": "Davidajj mä yakha warmimp quertasi ucatsti jiwariñacama luri. «Diosan chuymaparjam jakejj» janiw jan pantjasir sañ munquiti, jan ucasti qhititejj juchap jan imantcänti, chuymapach arrepentisi ucatsti wiñayaw Diosaru cuttäna (Salmo 51). Diosan munasiñapajj janiw wali jalantqui ucsa jaytarpäquiti."
+  },
+  {
+   "w": "«Profetajj jutiri uru yatïr layka qarariwa; Antiguo Testamenton Diosajj coleraquiwa.»",
+   "t": "Profetan chuymapajj janiw «jutiri yatiñäquiti», jan ucasti Diosan llaqui jachapawa: «cuttanipjjam, mira». Juzgaw yatiyäwisa janiw t'unjañ thaququiti, jan ucasti cuttayasaw jacayañ thaqui — «janiw nayajj khoru jaken jiwañapjja muncti» (Ezequiel 33:11)."
+  },
+  {
+   "w": "«Exiliojj Diosajj Israel takpach jaytarpäwayi uca uñacht'ayi.»",
+   "t": "Exiliojj janiw jaytarpäwiquiti, jan ucasti mä Awquin munat wawaparu yatichäwi ucatsti k'omachäwiraqui (Hebreos 12:6). Diosajj janiw saracänti; exilio taypin Danielampi jak'ancäna ucatsti arust'i: «yatiractwa cuna amtäwinacatejj jumanacataqui utjquitu ucanacjja, uca amtäwinacasti jumanacan asquinacamataquiwa… uqhamat khepa urunacanjja wali suma jacasipjjañanacamataqui, suyt'añanacansa phokhantataraqui» (Jeremías 29:11)."
+  },
+  null,
+  {
+   "w": "«Pä pataca tunca marachjani jan arumpi quertasajj, ¿janicha Diosajj saracäna jan ucax samascäna?»",
+   "t": "Amukt'awejj janiw jan utjañaquiti. Jupajj janiw parlcänti ucaquiwa, ucampis uca take tiempon reinonac, arunac, thaquinac unuqtayäna khespiyañ escena wakichañataqui. Wali amukt'at chekanjja, Diosajj munasiñampi juc'amp wali luräna (Gálatas 4:4)."
+  },
+  {
+   "w": "«Jesusajj suma camachi yatichirinac taypin mä juc'aquiwa; cruzajj mä llaqui atipjayasiñänwa.»",
+   "t": "Jesusajj Diospachatwa sasaw khanañchi (Juan 8:58), ucatsti cruzajj janiw mä jan amtat jan ucax atipjayasiñäquiti, jan ucasti wakichat munasiñawa. Janiw ch'amampi irpcatatäquiti, jan ucasti pachpa munasisaw jacañap loktäna (Juan 10:18). «Janiw juc'ampi jach'a munasiñanejj utjcaspati cawquïritejj amigonacap laycu jacañap apt'asquis ucat sipanjja» (Juan 15:13)."
+  },
+  {
+   "w": "«Iglesiajj jan pantjasir jakenacan mä religión club, jan ucax mä utaqui.»",
+   "t": "Iglesiajj janiw «phokhat kollananacan» mayachawipäquiti, jan ucasti <b>perdonat juchararanacanwa</b>. Apóstol Pablosa «juchararanacar khespiyiriw juti, ucanacatsti nayaw nayrïrïtjja» sas qhanañchi (1 Timoteo 1:15). Nayrïr iglesiasa sallkasiwayi ucatsti pantjasiwayiraqui (Hechos 6:1; 1 Corintios 1:11). Janiw jacha chekäquiti, jan ucasti catoktan uca munasiña apaski uca jakenacawa (Juan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Saphi jucha — janiw cheka jakes utji",
+   "body": "Jan walt'awejj janiw «mä juc'a jan wali luräwinacaquiti», jan ucasti chuyman saphipawa. Adanat juti, takeniw jucha manqhan yuripjje ucatsti pachpa jan Diosaru puriñ atipjje.",
+   "vref": "Romanos 3:10-12, 23",
+   "vtext": "Janiw mä asqui jakes utjquiti, ni mayniquisa… Takeniw jan wali thaquir saranucupjje… takeni jucha lurapjjatap laycusti Diosampejj janiw catokatäpquiti."
+  },
+  {
+   "title": "Leyejj janiw nayar khespiyiti",
+   "body": "Leyejj janiw mä takhän thaququiti, jan ucasti mä lunajawa. Juc'amp phokhañ yant'asctan ucjja, juc'amp cunja pantasctan uca uñacht'ayistu. Amtapasti Cristoru irpañasawa.",
+   "vref": "Romanos 3:20 · Gálatas 3:24",
+   "vtext": "Uca leyisti jiwasanacan juchanïtas uñt'ayañataquiquiwa… jupar iyawsasinjja Diosampi catokatäñasataqui."
+  },
+  {
+   "title": "Munasiñampi — mä churäwi, jan ch'amaquiti",
+   "body": "Khespiyañajj janiw apthapit luräwit pagäquiti, jan ucasti jan wakistir jakenacar Diosan churäwipawa. Ucatwa janiw qhitis jach'achasiscani.",
+   "vref": "Efesios 2:8-9",
+   "vtext": "Diosan munasiñapatwa jumanacajj khespiyatäpjjtajja iyawsañ laycu… Janiraquiw cuna luräw tokëquisa, uqhamat jan qhitis jach'achasiscañapataqui."
+  },
+  {
+   "title": "Iyawsañ toke cheka jakjam tupusiwi",
+   "body": "Janiw ley phokhat laycuti, jan ucasti Jesucristoru iyawsat laycuw cheka jakjam tupusiwitajja — janiw pachpa cheka cancañasampi isthapisiscti, jan ucasti jupanwa.",
+   "vref": "Romanos 5:1 · Gálatas 2:16",
+   "vtext": "Iyawsäwi laycu Dios nayrakatan asquit uñt'atäjjatasatwa… janiw qhitis Diosan nayrakatapanjja catokatäcaniti Moisesan leyip phokhatap laycojja, jan ucasti Jesucristoru iyawsatap laycuquiw catokatäni."
+  },
+  {
+   "title": "Bibliiajj Jesusaruw uñacht'ayi",
+   "body": "Bibliiajj janiw jach'a chachanacan jacañapan jan ucax pachpar yanapt'asiñ libroquiti. Génesisat Apocalipsiscama, sapa janajj mä jaket khanañchi — Jesucristota.",
+   "vref": "Juan 5:39 · Lucas 24:27",
+   "vtext": "Kellkatanacajj nayjjataracwa parli… amuyt'ayañ kallti jupa toket take kellkatanacajj parlqui ucanacata."
+  },
+  {
+   "title": "Diosan reinopa — Jesusan chuyma yatiyäwipa",
+   "body": "Jesusan juc'amp yatichat tema. Diosajj reyjam apnaki uca reinojj Jesusampi aca orakparu mantani ucatsti cutt'aniwipan phokhasini. Cruzapampi jacatatäwipampi, Jesusajj jucha, jiwaña, Satanás atipjir chekpach Reyiwa.",
+   "vref": "Marcos 1:15",
+   "vtext": "Horasajj phokhasjjewa. Diosan reinopasti jac'ancjjewa. Juchan sarnakañanacjja apanucupjjam, khespiyasiñ arunacapar iyawsapjjaraquim."
+  },
+  {
+   "title": "Evangelio — take cuna jupaw phokhi",
+   "body": "Jucha manuja cawctï nayajj jan pagañ atcäyäta ucjja, Jesusaw nayan lantija cruzan pagi, ucatsti jacatatasaw jiwaña atipji. Janiw «aca lurama» tokeru aytasiscti, jan ucasti «take cuna phokhasi» tokeruwa.",
+   "vref": "Juan 19:30 · Romanos 5:8",
+   "vtext": "Take cunaw phokhasjje… cunapachatejj jiwasanacajj juchanïscäyätan ucapachaw Cristojj jiwasanac laycu jiwawayi."
+  }
+ ]
+}

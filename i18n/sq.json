@@ -1,0 +1,343 @@
+{
+ "menuName": "Shqip",
+ "htmlLang": "sq",
+ "dir": "ltr",
+ "brand": "Bibla me një shikim",
+ "docTitle": "Bibla me një shikim · Nga krijimi te kisha",
+ "share": {
+  "title": "Bibla me një shikim",
+  "text": "Me një rrëshqitje të vetme, zbulo historinë e madhe të Biblës dhe pse erdhi Jezui."
+ },
+ "ui": {
+  "people": "Personazhet",
+  "events": "Ngjarjet kryesore",
+  "christLabel": "Tregon nga Jezui",
+  "loveLabel": "Dashuri që nuk dorëzohet",
+  "mythWrong": "Keqkuptim i shpeshtë",
+  "mythRight": "Në të vërtetë",
+  "more": "Lexo më shumë",
+  "version": "(Së bashku 2020)"
+ },
+ "labels": {
+  "start": "Fillimi",
+  "thread": "Rrëfimi",
+  "gospel": "Ungjilli",
+  "about": "Rreth nesh"
+ },
+ "s": {
+  "ui.share": "↗ Shpërnda",
+  "ui.toast": "Lidhja u kopjua 📋",
+  "ui.footer": "Bibla me një shikim · Citime biblike nga përkthimi «Së bashku 2020»",
+  "hero.kicker": "NGA KRIJIMI TE KISHA",
+  "hero.title": "Bibla,<br><span class='em'>me një shikim</span>",
+  "hero.sub": "Me një rrëshqitje të vetme, zbulo historinë e madhe të Biblës dhe pse erdhi Jezui.",
+  "hero.cue": "Rrëshqit poshtë<span>↓</span>",
+  "thread.eyebrow": "NJË FJALI QË E LIDH GJITHÇKA SË BASHKU",
+  "thread.h2": "Në fund, Bibla është një histori e vetme",
+  "thread.flow": "<b>Premtimi</b><span class='arw'>→</span><b>Pritja</b><span class='arw'>→</span><b>Përmbushja</b>",
+  "thread.note": "Perëndia <b>premton</b> (besëlidhja), populli <b>pret</b> gjatë, dhe në fund gjithçka <b>përmbushet</b> e plotësohet në Jezuin. Ndjek 13 skenat e mëposhtme me këtë fill. Prek <b>«Lexo më shumë»</b> në çdo kartë për historinë më të thellë.",
+  "gospel.eyebrow": "ÇFARË DO TË THOTË KJO HISTORI PËR «MUA»",
+  "gospel.h2": "Zemra e vërtetë e Biblës",
+  "gospel.lead": "Bibla <b>nuk është një tekst morali që thotë «ji njeri i mirë».</b>",
+  "gospel.sublead": "Është historia se si Perëndia, <b>vetëm me anë të hirit</b>, shpëton mëkatarët që nuk mund të shpëtojnë veten. Në qendër qëndron Jezu Krishti.",
+  "gospel.mirror": "<h3>Cikli i pafund i Izraelit është në të vërtetë një portret i «imi»</h3><div class='cycle'><b>Idhujtaria</b><span class='a'>→</span><b>Vuajtja</b><span class='a'>→</span><b>Britma</b><span class='a'>→</span><b>Perëndia shpëton</b><span class='a'>→</span><b>Përsëri idhujtari…</b></div><p>Nga gjyqtarët deri te mërgimi, Izraeli e përsërit këtë cikël pa fund. Bibla nuk e shkroi që ta përqeshim «sa të mjerë ishin».</p><p>Është një <b>pasqyrë</b>. Çështja nuk është «ata ishin të tillë», por të na bëjë të shohim se <b>«edhe unë jam i tillë»</b> (1 Korintasve 10:11).</p><p>Një <b>idhull</b> nuk është vetëm një figurë prej druri. Është <b>gjithçka që e duam ose i besojmë më shumë se Perëndisë</b> — paraja, suksesi, miratimi, njerëzit, madje edhe vetja. Dhe ta përdorësh Perëndinë si <b>mjet për të plotësuar dëshirat e tua</b> është gjithashtu idhujtari.</p><p class='punch'>Në fund, idhulli më i thellë është «vetja ime e ulur në fronin e Perëndisë».</p>",
+  "gospel.coreIntro": "Atëherë, si e shpëton Perëndia këtë mëkatar? Kjo është zemra e ungjillit që shpall Bibla.",
+  "gospel.crux": "<p class='crux-lead'>E gjithë Bibla tregon nga një vend i vetëm.</p><p>Njeriu nuk mundi ta thyente vetë ciklin e mëkatit, dhe nuk kishte asnjë të drejtë. Prandaj dikush duhej <b>të paguante çmimin në vendin tonë</b>.</p><p>Jezui nuk erdhi vetëm për të dhënë mësime të mira. Erdhi sepse <b>nuk kishte rrugë tjetër për të më shpëtuar</b>: duhej të vinte.</p><p class='crux-punch'>Ai që duhej të ishte në atë kryq isha <b>unë</b>.<br>Jezui e mbarti <b>mëkatin tim</b> dhe u gozhdua atje në vendin tim.</p><div class='crux-verse'>«Ai u shporua për shkeljet tona, u shtyp për paudhësitë tona… prej vurratave të tij ne u shëruam.» — Isaia 53:5</div>",
+  "faq.h": "Ende po lufton me diçka?",
+  "faq.q1": "<span class='arr'>▸</span> Pra një vrasës veçse beson dhe shkon në parajsë, ndërsa dikush që jetoi mirë gjithë jetën por nuk beson shkon në ferr?",
+  "faq.a1": "<p>Është pyetje e arsyeshme. Por brenda saj fshihen dy keqkuptime.</p><p><b>① Bibla nuk i ndan njerëzit në «të mirë» dhe «të këqij».</b> Masa nuk është «më i mirë se ai përbri», por «shenjtëria e përsosur e Perëndisë». Para tij, askush nuk është «mjaftueshëm i mirë» (Romakëve 3:23). Pra nuk është «njeri i mirë kundër vrasësi», por më tepër dy të sëmurë në fazë të rëndë: njëri e pranon kurën dhe tjetri e refuzon duke thënë «unë jam më i shëndetshëm se ai».</p><p><b>② Atë që e ndan parajsën nga ferri është një gjë e vetme.</b> Jo pikët e veprave, por <b>nëse e ke pranuar Jezu Krishtin si Zot dhe problemi yt i mëkatit është zgjidhur</b>. Ai që e ka mëkatin të zgjidhur me gjakun e Krishtit shkon në parajsë; ai që nuk e pranon kurrë dhe mbetet me mëkatin e tij, jo. Asnjë vepër e mirë nuk mund të zgjidhë për ty vetë problemin e mëkatit.</p><p>Prandaj parajsa dhe ferri nuk janë «shpërblim për sjellje të mirë», por çështje e <b>marrëdhënies me Krishtin</b>. Dhe «të besosh» nuk është një pranim mendor, por një ndërrim i Zotit në jetë: ai që e pranon vërtet nuk bëhet i pacipë, por pendohet më thellë. Përkundrazi, <b>vetëdrejtësia</b> e «unë jam i mirë» është idhulli më i vështirë për t'u thyer, ai që të bën të mendosh «nuk kam nevojë për Krishtin» (Luka 18:9-14).</p><p>Bibla e thotë qartë: <b>«Kush beson në të nuk gjykohet, ndërsa kush nuk beson në të është gjykuar tashmë»</b> (Gjoni 3:18). Gjykimi nuk është «vlerësimi i jetës sate në fund», por është vendosur tashmë sipas <b>nëse e pranove Krishtin</b>.</p><p class='faq-v'>Romakëve 3:23 · Gjoni 3:18 · Efesianëve 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> A nuk mjafton të jesh njeri i mirë, edhe pa besuar te Jezui?",
+  "faq.a2": "<p>Është mendimi më i përhapur, por keqkupton se cili është «problemi i vërtetë». Le të përdorim një figurë.</p><p><b>Imagjino se je në një anije piratësh.</b> Sado ta pastrosh kuvertën, të jesh i sjellshëm me ekuipazhin dhe të jetosh në mënyrë shembullore, prapë mbetesh <b>pirat</b>, sepse anija të çon me vete drejt destinacionit të saj (porti i gjykimit). Problemi nuk është «pikët e veprave të tua», por <b>«së cilës anije i përket» (identiteti yt)</b>.</p><p>Prandaj ungjilli nuk thotë «bëhu më i mirë», por <b>«ndërro anije»</b>. Zbrit nga anija e mëkatit dhe kalo te Jezui: te identiteti i ri i <b>bijve të Perëndisë</b>. Nuk bëhet fjalë të ngresh pikët me përpjekje, por t'i besosh Atij që të zgjat dorën dhe të kalosh në anijen e tij.</p><p>Në fakt, Bibla e përshkruan shpëtimin pikërisht si atë «kalim»: <b>«Ai na nxori nga pushteti i errësirës e na futi në mbretërinë e Birit të tij të dashur»</b> (Kolosianëve 1:13).</p><p>Mos e keqkupto: <b>kjo nuk do të thotë se jeta e mirë s'ka vlerë.</b> Por mirësia nuk është «kushti» i shpëtimit, por <b>fryti</b> i tij. Ai që ndërroi anije tani jeton mirë jo nga frika, por nga <b>dashuria e një biri</b>.</p><p class='faq-v'>Kolosianëve 1:13 · Gjoni 1:12 · Gjoni 3:3 · Efesianëve 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Nëse keqbërësi ndihet në paqe, duke pretenduar «Perëndia më ka falur», ndërsa viktima ende vuan — a nuk është tepër i lirë ai falje?",
+  "faq.a3": "<p>Pyetja është e drejtë, dhe ajo dhimbje është reale. Por një pretendim i tillë nuk është «falja e Biblës», por një <b>shtrembërim</b> i saj.</p><p><b>① Falja e Perëndisë nuk është kurrë e lirë.</b> Mëkati nuk fshihet sikur «nuk ka ndodhur»; vetë Perëndia e pagoi çmimin e tij me jetën e Birit të tij. Kryqi nuk dëshmon se mëkati merret lehtë, por sa i rëndë është: është falja më e shtrenjtë në botë.</p><p><b>② Pendimi i vërtetë jep fryt.</b> Nëse keqbërësi qëndron i patrazuar para viktimës duke thënë «Perëndia më fali, jam në paqe», kjo nuk është pendim, por një imitim i tij (Mateu 3:8). Dhe falja mes Perëndisë e meje nuk e fshin plagën e viktimës dhe as e detyron atë të falë.</p><p><b>③ Mëkati nuk «lihet» kurrë thjesht pas dore.</b> Çdo mëkat paguhet në njërin nga dy vende: <b>ose e mbart Krishti në kryq</b> (për atë që beson nuk ka më dënim, Romakëve 8:1), <b>ose e mbart ai që e refuzon deri në fund.</b> Prandaj nuk ka «falje të lirë». Keqbërësi përgjigjet edhe para drejtësisë së kësaj bote (Romakëve 13:1-4).</p><p><b>④ Lotët e viktimës nuk janë kurrë të vegjël para Perëndisë.</b> Perëndia qan me ata që qajnë, kujton çdo lot dhe në fund do t'i fshijë vetë (Zbulesa 21:4). Prandaj viktima nuk e mbart e vetme barrën e shpagimit, por mund t'ia besojë Perëndisë së drejtë (Romakëve 12:19: «shpagimi më përket mua dhe unë jam ai që do të marrë shpagim, thotë Zoti»).</p><p class='faq-v'>Mateu 3:8 · Romakëve 8:1 · Romakëve 13:1-4 · Zbulesa 21:4</p>",
+  "respond.h3": "Atëherë — po unë?",
+  "respond.sub": "Kjo dashuri nuk është informacion, por një <b>ftesë</b>. Nëse ajo dashuri që u gozhdua në vendin tënd e ka prekur zemrën tënde, bëje tani këtë lutje, fjali pas fjalie, ngadalë.",
+  "respond.prayer": "<p>Perëndi,</p><p>pranoj se jam një mëkatar që nuk mund ta shpëtojë veten.</p><p>Besoj se Jezui vdiq për mua në kryq dhe u ngjall.</p><p>Fal të gjitha mëkatet e mia dhe bëhu që sot Zoti i jetës sime.</p><p>Më prano si birin tënd dhe më bëj të jetoj një jetë të re.</p><p class='amen'>Në emrin e Jezuit lutem. Amen.</p>",
+  "respond.after": "Nëse e bëre këtë lutje me zemër, Bibla thotë se je bërë <b>bir i Perëndisë</b>. Nuk je më vetëm: kërko një kishë afër dhe ec bashkë me të tjerë në besim.",
+  "respond.verse": "«Atyre që e pranuan dhe besuan në emrin e tij, u dha të drejtën të bëhen bij të Perëndisë.» — Gjoni 1:12 · Romakëve 10:9-10",
+  "closing.main": "Një Perëndi i vetëm,<br>me një histori të vetme,<br>na kërkon me një <em>dashuri</em><br>që nuk dorëzohet kurrë.",
+  "closing.verse": "«As vdekja, as jeta… as ndonjë krijesë tjetër nuk do të mund të na ndajnë nga dashuria e Perëndisë që u tregua në Krishtin Jezu, Zotit tonë.» — Romakëve 8:38-39",
+  "closing.small": "Mbi këtë rrëfim, Ligji, librat poetikë, profetët dhe letrat shtojnë «mishin».<br>Që tani, çfarëdo libri që hapësh, do ta dish «në cilën pikë të historisë je».",
+  "closing.share": "↗ Shpërnda këtë histori",
+  "about.line": "Përmbajtje e bazuar në këndvështrimin <b>historik-shpengues, ungjillor dhe të reformuar</b> që ndan shumica e protestantizmit korean.",
+  "about.contact": "Pyetje · komente — <a id='contact' class='mail'>Na shkruani email</a>"
+ },
+ "epochs": [
+  {
+   "tag": "DHIATA E VJETËR · FILLIMI",
+   "title": "Krijimi",
+   "date": "Në fillim",
+   "one": "Perëndia bëri një botë «shumë të mirë».",
+   "people": "Perëndia; Adami dhe Eva",
+   "events": "Gjashtë ditë krijimi, njeriu i bërë sipas shëmbëlltyrës së Perëndisë, pushimi i shabatit",
+   "q": "Në fillim Perëndia krijoi qiejt e tokën.",
+   "cite": "Zanafilla 1:1",
+   "christ": "Bota u bë nëpërmjet «Fjalës». Ungjilli i Gjonit shpall se kjo Fjalë është vetë Jezui (Gjoni 1:1-3).",
+   "detail": "<p>Bibla nuk fillon me një argument filozofik, por me një shpallje: <b>«Në fillim, Perëndia…»</b>. Bota nuk është rastësi, por vepra e një Perëndie vetjak.</p><ul><li><b>Shëmbëlltyra e Perëndisë</b> · vetëm njeriu u bë i ngjashëm me Perëndinë, për ta njohur dhe për të kujdesur për botën.</li><li><b>Pushimi</b> · pushimi i ditës së shtatë tregon se gjithçka ishte e plotë dhe në paqe (shalom): «ishte e mirë».</li><li><b>Edeni</b> · bota përpara se të thyhej, ku Perëndia dhe njeriu ecin së bashku.</li></ul>",
+   "next": "Por kjo plotësi do të thyhet së shpejti…"
+  },
+  {
+   "tag": "DHIATA E VJETËR · PROBLEMI FILLON",
+   "title": "Rënia",
+   "date": "Në fillim",
+   "one": "Mëkati hyri dhe lidhja mes njeriut e Perëndisë u këput.",
+   "people": "Adami dhe Eva; gjarpri (Satani)",
+   "events": "Hanë frutin e ndaluar, dëbohen nga Edeni, hyjnë vdekja dhe lodhja",
+   "q": "Armiqësi do të shtie mes teje e gruas… që do të ta shtypë kokën.",
+   "cite": "Zanafilla 3:15",
+   "christ": "Premtimi i parë i ungjillit, dhënë menjëherë pas rënies: «fara e gruas» do t'ia shtypë kokën gjarprit. Ai është Jezui (Zanafilla 3:15; Romakëve 16:20; Galatasve 4:4).",
+   "detail": "<p>Me mosbindjen për të dashur «të jesh si Perëndia», mëkati hyri në botë. Pasoja nuk është thjesht thyerja e një rregulli, por <b>thyerja e marrëdhënieve</b>.</p><ul><li><b>Marrëdhënie të thyera</b> · me Perëndinë (fshehja), me të tjerët (fajësimi) dhe me natyrën (ferra dhe lodhja).</li><li><b>Vdekja</b> · paralajmërimi «do të vdesësh me siguri» bëhet realitet.</li><li><b>Zanafilla 3:15</b> · por në mes të gjykimit jepet së pari premtimi i shpëtimit. Studiuesit e quajnë <b>«protoungjill» (ungjilli i parë)</b>.</li></ul>",
+   "next": "Tani Perëndia thërret një njeri të vetëm dhe nis rivendosjen…"
+  },
+  {
+   "tag": "DHIATA E VJETËR · PREMTIMI",
+   "title": "Patriarkët",
+   "date": "rreth vitit 2000 p.K.",
+   "one": "Perëndia i premton Abrahamit: «Do të jesh kanal bekimi».",
+   "people": "Abrahami · Isaku · Jakobi · Jozefi",
+   "events": "Besëlidhja me Abrahamin, flijimi i Isakut, dymbëdhjetë bijtë e Jakobit, Jozefi sundimtar në Egjipt",
+   "q": "Do të të bëj komb të madh… Të gjitha fiset e tokës do të bekohen në ty.",
+   "cite": "Zanafilla 12:2-3",
+   "christ": "Premtimi se «të gjitha fiset do të bekohen» përmbushet në Jezuin, pasardhësin e Abrahamit (Galatasve 3:16).",
+   "detail": "<p>Perëndia nis ta zgjidhë problemin e gjithë njerëzimit duke thirrur një njeri të vetëm, <b>Abrahamin</b>. Në qendër është <b>besëlidhja (premtimi)</b>: një komb i madh, një tokë dhe «bekim për të gjitha fiset».</p><ul><li><b>Besimi</b> · Abrahami i besoi premtimit të padukshëm, dhe iu llogarit për drejtësi (Zanafilla 15:6).</li><li><b>Isaku dhe Jakobi</b> · premtimi kalon te brezi tjetër; Jakobi (Izraeli) është ati i dymbëdhjetë fiseve.</li><li><b>Jozefi</b> · i shitur nga vëllezërit, bëhet sundimtar në Egjipt: «Perëndia e ktheu në të mirë» (Zanafilla 50:20).</li></ul>",
+   "next": "Familja zbret në Egjipt duke ndjekur Jozefin… dhe përfundon skllave."
+  },
+  {
+   "tag": "DHIATA E VJETËR · SHPENGIMI",
+   "title": "Eksodi dhe shkretëtira",
+   "date": "rreth vitit 1446 p.K.",
+   "one": "Perëndia shpëton popullin skllav dhe e bën të tijin.",
+   "people": "Moisiu, Aaroni, faraoni",
+   "events": "Dhjetë plagët, Pashka, kalimi i Detit të Kuq, Dhjetë Urdhërimet në Sinai, tabernakulli, 40 vjet në shkretëtirë",
+   "q": "Do t'ju marr për popullin tim dhe do të jem Perëndia juaj.",
+   "cite": "Eksodi 6:7",
+   "christ": "Pashka, ku gjaku i qengjit largoi vdekjen, paralajmëron Jezuin, «Pashkën tonë», të kryqëzuar për ne (1 Korintasve 5:7).",
+   "detail": "<p>Akti më i madh i shpëtimit i Dhiatës së Vjetër. Izraeli, që ishte skllav, merr lirinë me fuqinë e Perëndisë dhe formohet si <b>populli</b> i tij.</p><ul><li><b>Pashka</b> · shtëpia me gjakun e qengjit në portë çlirohet nga vdekja; modeli i të gjitha flijimeve të mëvonshme.</li><li><b>Deti i Kuq</b> · shpëtim kur deti hapet në rrugë pa krye; «kalimi në anën tjetër» si simbol i një fillimi të ri.</li><li><b>Besëlidhja e Sinait</b> · me Dhjetë Urdhërimet mësojnë të jetojnë si populli i Perëndisë.</li><li><b>Tabernakulli</b> · shenjtërore e lëvizshme ku Perëndia banon në mes të popullit: paralajmërim i «Emanuelit».</li><li><b>40 vjet</b> · për shkak të mosbindjes një brez endet në shkretëtirë, por Perëndia është me ta me manën dhe shtyllat e resë e të zjarrit.</li></ul>",
+   "next": "Të ngritur para tokës së premtuar, përgatiten të hyjnë…"
+  },
+  {
+   "tag": "DHIATA E VJETËR · VENDOSJA",
+   "title": "Pushtimi dhe gjyqtarët",
+   "date": "rreth 1400–1050 p.K.",
+   "one": "Marrin tokën, por pa mbret, secili bën si t'i duket.",
+   "people": "Jozueu; gjyqtarë si Gedeoni dhe Sansoni; Ruta",
+   "events": "Rënia e Jerikos, vendosja në Kanaan, cikli i përsëritur mëkat–gjykim–shpëtim",
+   "q": "Në atë kohë nuk kishte ende mbret në Izrael dhe secili vepronte si t'i dukej e drejtë.",
+   "cite": "Gjyqtarët 21:25",
+   "christ": "Nga fisi i Rutës vjen Davidi, dhe nga linja e Davidit vjen Jezui (Mateu 1). Edhe në kaos, pema gjenealogjike e Mesisë vazhdon.",
+   "detail": "<p>Nën Jozueun hyjnë në tokën e premtuar, por pasi vendosen, shpejt e harrojnë Perëndinë. Gjyqtarët është përsëritja e të njëjtit model.</p><ul><li><b>Cikli i mëkatit</b> · mëkat → shtypje → britmë → shpëtim nga një gjyqtar → përsëri mëkat, çdo herë më keq.</li><li><b>Gjyqtarët</b> · Gedeoni, Sansoni, Debora… çlirimtarë të përkohshëm, heroikë por plot të meta.</li><li><b>Ruta</b> · një dritë besnikërie në kohë të errëta; një e huaj hyn në linjën e Davidit (dhe të Jezuit).</li></ul>",
+   "next": "Populli thërret: «Na jep një mbret!»…"
+  },
+  {
+   "tag": "DHIATA E VJETËR · KULMI",
+   "title": "Mbretëria e bashkuar",
+   "date": "rreth 1050–930 p.K.",
+   "one": "Perëndia i premton Davidit: «Froni yt do të jetë i përjetshëm».",
+   "people": "Sauli · Davidi · Salomoni",
+   "events": "Mbreti i parë Sauli, Davidi dhe Goliati, besëlidhja me Davidin, tempulli i Salomonit",
+   "q": "Do ta bëj të qëndrueshme përgjithmonë shtëpinë tënde dhe mbretërinë tënde dhe froni yt do të mbetet në amshim.",
+   "cite": "2 Samuelit 7:16",
+   "christ": "«Froni i përjetshëm» përmbushet në Jezuin, pasardhësin e Davidit; prandaj quhet «Biri i Davidit» (Luka 1:32-33; Mateu 1:1).",
+   "detail": "<p>Kulmi i Izraelit, nën tre mbretër.</p><ul><li><b>Sauli</b> · mbreti i parë që populli kërkoi; fillim i mirë, por i refuzuar për mosbindjen e tij.</li><li><b>Davidi</b> · «një njeri sipas zemrës së Perëndisë». E mund Goliatin dhe e bën Jerusalemin kryeqytetin e tij. Bën një mëkat të madh (Batsheba), por pendohet me zemër (Psalmi 51).</li><li><b>Besëlidhja me Davidin (2 Samuelit 7)</b> · Perëndia premton ta vendosë dinastinë e tij përgjithmonë: rrënja vendimtare e shpresës mesianike.</li><li><b>Salomoni</b> · në kulmin e urtësisë dhe pasurisë ndërton <b>tempullin</b> e Jerusalemit, por në fund bie në idhujtari.</li></ul>",
+   "next": "Pas Salomonit, mbretëria ndahet në dysh…"
+  },
+  {
+   "tag": "DHIATA E VJETËR · RËNIA",
+   "title": "Mbretëria e ndarë",
+   "date": "930–586 p.K.",
+   "one": "Ndahet në jug (Juda) dhe veri (Izrael), dhe korruptohet dalëngadalë.",
+   "people": "Mbretërit e të dyja mbretërive; profetë si Elia, Isaia e Jeremia",
+   "events": "Ndarja e mbretërisë, idhujtaria, paralajmërimet e profetëve",
+   "q": "Izraeli ngriti krye kundër shtëpisë së Davidit e ashtu është deri sot.",
+   "cite": "1 Mbretërve 12:19",
+   "christ": "Në këtë epokë profetët e shpallin gjithnjë e më qartë Mesinë që do të vijë (Isaia 9:6; Isaia 53).",
+   "detail": "<p>Në kohën e birit të Salomonit mbretëria ndahet: <b>Izraeli (veriu)</b>, dhjetë fise, kryeqytet Samaria; dhe <b>Juda (jugu)</b>, dy fise, kryeqytet Jerusalemi.</p><ul><li><b>Veriu</b> · të gjithë mbretërit e tij u shërbejnë idhujve; bie para Asirisë në vitin 722 p.K.</li><li><b>Jugu</b> · vazhdon linja e Davidit dhe ka mbretër të mirë si Ezekia dhe Josia, por në tërësi shkon drejt rënies.</li><li><b>Profetët</b> · Elia, Amosi, Isaia, Jeremia thërrasin «kthehuni!». Këtu shtohet më shumë profecia mesianike (i «shërbëtori vuajtës» i Isaisë 53).</li></ul>",
+   "next": "Më në fund vjen gjykimi i paralajmëruar: çohen robër…"
+  },
+  {
+   "tag": "DHIATA E VJETËR · GJYKIMI",
+   "title": "Mërgimi",
+   "date": "722 / 586 p.K.",
+   "one": "Mbretëria bie dhe populli çohet në tokë të huaj.",
+   "people": "Danieli, Ezekieli, Nabukodonosori",
+   "events": "Izraeli bie para Asirisë (722); Juda bie para Babilonisë dhe tempulli shkatërrohet (586)",
+   "q": "Brigjeve të lumenjve të Babilonisë, atje uleshim e qanim, Sionin tek kujtonim.",
+   "cite": "Psalmet 137:1",
+   "christ": "Në thellësinë e dëshpërimit, Jeremia premton një «besëlidhje të re» (Jeremia 31:31): të njëjtën që Jezui vendosi në darkën e fundit.",
+   "detail": "<p>Paralajmërimi përmbushet. Tempulli digjet dhe populli çohet në Babiloni: humbasin tokën, mbretin dhe tempullin, kriza më e rëndë.</p><ul><li><b>Dy rënie</b> · Izraeli (Asiria, 722 p.K.) dhe Juda (Babilonia, 586 p.K.).</li><li><b>Danieli</b> · shembull besimi edhe në oborrin pagan (gropa e luanëve); sheh vegimin e një «mbretërie të përjetshme» që do të vijë.</li><li><b>Një shkëndijë shprese</b> · vegimi i eshtrave të thata që ringjallen (Ezekieli 37) dhe «besëlidhja e re» e Jeremisë tregojnë nga e ardhmja në errësirë.</li></ul>",
+   "next": "Shtatëdhjetë vjet më vonë, Perëndia hap rrugën: kthehen në shtëpi…"
+  },
+  {
+   "tag": "DHIATA E VJETËR · RIVENDOSJA",
+   "title": "Kthimi nga mërgimi",
+   "date": "538–430 p.K.",
+   "one": "Kthehen dhe rindërtojnë tempullin dhe muret.",
+   "people": "Ezdra, Nehemia, Estera, Zorobabeli",
+   "events": "Kthimi me dekretin e Kirit, rindërtimi i tempullit, riparimi i mureve të Jerusalemit, rivendosja e Fjalës",
+   "q": "Gëzimi i Zotit është streha juaj.",
+   "cite": "Nehemia 8:10",
+   "christ": "Malakia, libri i fundit i Dhiatës së Vjetër, mbyll duke shpallur një lajmëtar që përgatit udhën e Mesisë: «Po dërgoj lajmëtarin tim» (Malakia 3:1).",
+   "detail": "<p>Kthimi nis me dekretin e Kirit të Persisë (538 p.K.). Në tri valë kthehen dhe rindërtojnë atë që ra.</p><ul><li><b>Zorobabeli</b> · rindërton tempullin (përfunduar në vitin 516 p.K.).</li><li><b>Ezdra</b> · mëson sërish ligjin (Fjalën) dhe rivendos besimin.</li><li><b>Nehemia</b> · rindërton muret e Jerusalemit në 52 ditë.</li><li><b>Estera</b> · shpëton nga shfarosja judenjtë e Persisë: «kush e di nëse për këtë çast…?».</li><li><b>Një etje që vazhdon</b> · tempulli qëndron, por nuk ka një mbret si Davidi. Populli pret Mesinë.</li></ul>",
+   "next": "Dhe pastaj… si një qiell i mbyllur, vijnë 400 vjet heshtjeje."
+  },
+  {
+   "tag": "MES DHIATAVE · PËRGATITJA E SKENËS",
+   "title": "Heshtja",
+   "date": "rreth 430–4 p.K.",
+   "one": "400 vjet pa zë profetik; por skena u përgatit në heshtje.",
+   "people": "Aleksandri i Madh, Makabenjtë, Roma",
+   "events": "Persia → Greqia → pavarësia e Makabenjve → sundimi romak",
+   "q": "Por, kur erdhi koha e caktuar, Perëndia dërgoi Birin e tij. Ai lindi nga një grua.",
+   "cite": "Galatasve 4:4",
+   "christ": "Gjithë kjo «përgatitje e skenës» ishte vepra e Perëndisë që Jezui të vinte pikërisht «kur erdhi koha e caktuar».",
+   "detail": "<p>Nga Malakia deri te Dhiata e Re, rreth 400 vjet pa fjalë të re biblike (profetë). Por, pas historisë, Perëndia përgatiste udhën për përhapjen e ungjillit.</p><ul><li><b>Ndërrim perandorish</b> · Persia → Greqia (Aleksandri, 333 p.K.) → Egjipti e Siria → kryengritja e Makabenjve (167 p.K.) → Roma (63 p.K.).</li><li><b>Greqishtja</b> · pushtimi i Aleksandrit e bëri greqishten gjuhë të përbashkët; Dhiata e Vjetër u përkthye në greqisht (Septuaginta), duke hapur udhën që ungjilli të përhapej shpejt.</li><li><b>Rrugët dhe paqja e Romës</b> · rrugët dhe «paqja romake» bëhen udhë për misionin.</li><li><b>Sinagoga dhe partitë</b> · forcohet mësimi në sinagogë; lindin farisenjtë dhe saducenjtë, dhe piqet <b>pritja e Mesisë</b>.</li></ul>",
+   "next": "Dhe, e thyer heshtja, më në fund Ai vjen."
+  },
+  {
+   "tag": "DHIATA E RE · PËRMBUSHJA",
+   "title": "Ardhja e Jezuit",
+   "date": "rreth 4 p.K.–30 m.K.",
+   "one": "Mesia i premtuar erdhi, vdiq dhe u ngjall.",
+   "people": "Jezui, dymbëdhjetë dishepujt, Gjon Pagëzori",
+   "events": "Mishërimi (Krishtlindja), shërbesa e tij e mësimit dhe mrekullive, vdekja në kryq, ngjallja ditën e tretë",
+   "q": "Dhe Fjala u mishërua e banoi mes nesh… plot hir e të vërtetë.",
+   "cite": "Gjoni 1:14",
+   "christ": "Fara e gruas (skena 2), bekimi i Abrahamit (3), qengji i Pashkës (4), mbreti i përjetshëm i Davidit (6) dhe besëlidhja e re (8) përmbushen të gjitha në një Jezu të vetëm: profeti, prifti dhe mbreti ynë i vërtetë.",
+   "detail": "<p>E thyer heshtja, vjen i premtuari. Katër ungjijtë dëshmojnë për jetën, vdekjen dhe ngjalljen e Jezuit nga këndvështrime të ndryshme.</p><ul><li><b>Mishërimi</b> · Perëndia u bë njeri (Emanueli, «Perëndia me ne»), në përulësinë e Betlehemit.</li><li><b>Shërbesa</b> · mëson mbretërinë e Perëndisë, shëron të sëmurët dhe thërret mëkatarët. «Kush më ka parë mua, ka parë Atin.»</li><li><b>Kryqi</b> · paguan në vendin tonë çmimin e mëkatit dhe të vdekjes që solli rënia (skena 2). Qengji i vërtetë i Pashkës.</li><li><b>Ngjallja</b> · ditën e tretë ngjallet dhe thyen fuqinë e mëkatit, vdekjes dhe Satanit; tashmë në kryq «i çarmatosi paritë e pushtetet djallëzore… kur ngadhënjeu kryqi» (Kolosianëve 2:15).</li></ul><p>Prandaj Jezui është <b>profeti ynë i vërtetë</b> (na tregon udhën te Perëndia), <b>prifti ynë i vërtetë</b> (me trupin e vet shlyen mëkatin) dhe <b>mbreti ynë i vërtetë</b> (mund mëkatin, vdekjen dhe Satanin, dhe mbretëron përgjithmonë).</p>",
+   "next": "Jezui i ngjallur i dërgon dishepujt e tij në botë…"
+  },
+  {
+   "tag": "DHIATA E RE · ZGJERIMI",
+   "title": "Fillimi i kishës",
+   "date": "nga viti 30 m.K.",
+   "one": "Vjen Shpirti dhe ungjilli përhapet deri në skajet e dheut.",
+   "people": "Pjetri, Pali, kisha e hershme",
+   "events": "Ardhja e Shpirtit në Rrëshajë, lindja e kishës, ungjilli nga Jerusalemi në Romë nëpërmjet përndjekjes",
+   "q": "Kur të zbresë mbi ju Shpirti i shenjtë do të merrni fuqi e do të jeni dëshmitarët e mi… deri në skajet e dheut.",
+   "cite": "Veprat 1:8",
+   "christ": "Kjo histori vazhdon ende sot. Bibla mbyllet me premtimin se Jezui do të kthehet dhe do t'i bëjë të gjitha të reja (Zbulesa 21).",
+   "detail": "<p>Pas ngjitjes së Jezuit, Shpirti i premtuar vjen në Rrëshajë dhe lind kisha. Ungjilli përhapet në mënyrë shpërthyese.</p><ul><li><b>Rrëshaja</b> · me anë të Shpirtit, dishepujt e frikësuar bëhen dëshmitarë të guximshëm.</li><li><b>Pjetri</b> · shpall ungjillin te judenjtë në Jerusalem.</li><li><b>Pali</b> · nga përndjekës në apostull; themelon kisha në botën pagane dhe shkruan letra.</li><li><b>Deri në skajet</b> · Jerusalem → Jude → Samari → Romë. Premtimi i «të gjitha fiseve» dhënë Abrahamit bëhet realitet.</li><li><b>Dhe ne</b> · historia nuk mbaron; ecën drejt ardhjes së dytë të Jezuit dhe qiellit e tokës së re.</li></ul>",
+   "next": "Por historia nuk mbaron këtu…"
+  },
+  {
+   "tag": "DHIATA E RE · PLOTËSIMI",
+   "title": "Rivendosja (gjithçka e re)",
+   "date": "ende për të ardhur",
+   "one": "Jezui kthehet dhe i bën të gjitha të reja.",
+   "people": "Jezui që kthehet; të gjithë popujt",
+   "events": "Ardhja e dytë, gjykimi i fundit, fundi i mëkatit, vdekjes dhe lotëve, qiej e tokë të re",
+   "q": "Ai do të fshijë çdo lot nga sytë e tyre dhe nuk do të ketë më as vdekje, as zi, as vajtim, as dhimbje.",
+   "cite": "Zbulesa 21:4",
+   "christ": "Edeni i krijimit të parë rivendoset më në fund si «Jerusalemi i ri». Perëndia banon përgjithmonë me popullin e tij: plotësia e Emanuelit (Zbulesa 21:3; Mateu 1:23).",
+   "detail": "<p>Bibla nuk mbaron në epokën e kishës. Libri i saj i fundit, Zbulesa, tregon Jezuin që <b>kthehet</b> dhe e plotëson gjithçka.</p><ul><li><b>Ardhja e dytë</b> · mbreti i premtuar kthehet në lavdi.</li><li><b>Fitorja e fundit</b> · Satani dhe vdekja shkatërrohen përgjithmonë, dhe Krishti mbretëron si Mbreti i mbretërve (1 Korintasve 15:25-26; Zbulesa 20:10).</li><li><b>Gjykimi dhe ngjallja</b> · çdo padrejtësi drejtohet dhe të vdekurit ngjallen.</li><li><b>Qiej e tokë të re</b> · mëkati, vdekja, lotët dhe dhimbja zhduken përgjithmonë (Zbulesa 21:4).</li><li><b>Edeni i rivendosur</b> · në një «Jerusalem të ri» më të mirë se fillimi, Perëndia banon përgjithmonë me popullin e tij: caku drejt të cilit tregon e gjithë Bibla.</li></ul><p>Prandaj sot është koha e <b>«tashmë, por jo ende»</b>: në Jezuin shpëtimi është <b>tashmë</b> i plotësuar, por plotësia e tij <b>ende</b> pritet.</p>",
+   "next": "Atëherë, çfarë do të thotë gjithë kjo histori për «mua»?"
+  }
+ ],
+ "love": [
+  "Fillimi i historisë nuk është gjykimi, por një botë e krijuar me dashuri që rrjedh me bollëk.",
+  "Sapo njeriu mëkatoi, Perëndia premtoi aty për aty shpëtimin.",
+  "Perëndia kërkoi i pari atë që nuk e meritonte, e thirri me emër dhe e bëri kanal bekimi.",
+  "Dëgjoi rënkimin e popullit skllav dhe zbriti Vetë për ta shpëtuar.",
+  "Edhe pse e tradhtonin herë pas here, sa herë që thërrisnin dërgonte një çlirimtar dhe i ngrinte sërish.",
+  "As Davidin e rënë nuk e flaku; nëpërmjet tij premtoi një mbret të përjetshëm.",
+  "Popullit që i kthente shpinën i dërgonte profetë, duke iu lutur: «Kthehu, të lutem».",
+  "Edhe deri në tokën më të errët të mërgimit zbriti me ta dhe premtoi rivendosjen.",
+  "Edhe popullit që dështonte herë pas here nuk ia hoqi premtimin, por e ngriti sërish.",
+  "Edhe në 400 vjet heshtjeje, përgatiste fshehtas udhën e shpëtimit.",
+  "Kur ishim ende mëkatarë, dërgoi Birin e tij dhe dha jetën e vet.",
+  "Atë dashuri që morëm, tani e dërgon të derdhet në mbarë botën.",
+  "Më në fund do të fshijë çdo lot dhe do t'i bëjë të gjitha të reja me dashuri."
+ ],
+ "mis": [
+  {
+   "w": "«Pse e bëri Perëndia një qenie të aftë të mëkatojë? A nuk do të ishte më mirë të mos e krijonte fare?»",
+   "t": "Perëndia e krijoi botën dhe njeriun jo nga ndonjë mungesë, por nga dashuria që rrjedh me bollëk. Ta bësh njeriun <b>një person të aftë të lidhet me Perëndinë</b> është në vetvete dashuri. Dhe as hyrja e mëkatit nuk mbeti jashtë planit të shpëtimit të Perëndisë (Efesianëve 1:4-5). Skena e parë e Biblës nuk është gjykim, por dashuri."
+  },
+  {
+   "w": "«Të dëbohesh e madje të marrësh vdekjen vetëm pse hëngre një frut? A nuk është Perëndia tepër i ashpër?»",
+   "t": "Dëbimi nga Edeni ishte gjykim dhe, njëkohësisht, mëshirë. Po të hante njeriu, i ndarë nga Perëndia dhe në atë gjendje të thyer, nga pema e jetës dhe të jetonte përgjithmonë, do të mbetej i bllokuar përjetësisht në vuajtje (Zanafilla 3:22). Lejimi i vdekjes ishte hapja e një rruge kthimi; dhe aty Perëndia premtoi një Shpëtimtar (Zanafilla 3:15). Në gjykim kishte tashmë dashuri."
+  },
+  {
+   "w": "«Abrahami u zgjodh për besimin e tij të madh; a nuk janë të gjithë personazhet biblikë heronj moralë?»",
+   "t": "Edhe Abrahami gënjeu e dyshoi, dhe Jakobi ishte mashtrues. Perëndia nuk thirri «të aftët», por me hir thirri të papërsosurit. Arsyeja e zgjedhjes nuk ishte përsosmëria e tyre, por dashuria besnike e Perëndisë (Ligji i përtërirë 7:7-8)."
+  },
+  {
+   "w": "«A nuk është ligji (urdhërimet) një provim apo kusht që duhet kaluar për t'u shpëtuar?»",
+   "t": "Perëndia i shpëtoi <b>përpara</b> se t'u jepte ligjin. Dhjetë Urdhërimet nisin me një shpallje shpëtimi: «Unë, Zoti, jam Perëndia yt, ai që të nxori nga toka e Egjiptit» (Eksodi 20:2). Ligji nuk është «zbatoje që të shpëtohesh», por një udhërrëfim dashurie se si të jetojnë ata që janë shpëtuar tashmë me hir (Ligji i përtërirë 7:7-9). Gjithmonë hiri i pari; bindja është përgjigjja."
+  },
+  {
+   "w": "«Pushtimi i Kanaanit ishte një masakër e pamëshirshme; në fund të fundit, Perëndia i Dhiatës së Vjetër është mizor.»",
+   "t": "Është një temë që nuk zgjidhet me një fjali dhe kërkon kujdes. Por Bibla nuk e paraqet si dhunë arbitrare, por si gjykim pas shekujsh ligësie ekstreme (përfshirë flijimin e fëmijëve), pas durimit të madh (Zanafilla 15:16; Ligji i përtërirë 9:4-5; Levitiku 18:24-25). Perëndia nuk nxiton as në gjykim, dhe atë që kthehet tek Ai e pranon me gëzim, qoftë edhe i huaj, si Rahabën dhe Rutën (Jozueu 6:25; Ruta 4:13-17)."
+  },
+  {
+   "w": "«Davidi ishte një hero pa të meta; prandaj e quajtën “sipas zemrës së Perëndisë”.»",
+   "t": "Davidi kreu shkelje kurore e madje vrasje. «Sipas zemrës së Perëndisë» nuk do të thotë i përsosur, por se nuk e fshehu mëkatin, u pendua thellësisht dhe gjithmonë u kthye te Perëndia (Psalmi 51). Dashuria e Perëndisë nuk e flak as atë që rrëzohet rëndë."
+  },
+  {
+   "w": "«Profeti është një fallxhor që parashikon të ardhmen; Perëndia i Dhiatës së Vjetër vetëm zemërohet.»",
+   "t": "Thelbi i profetit nuk është «të qëllosh të ardhmen», por britma e përzemërt e Perëndisë: «kthehu, të lutem». Edhe paralajmërimi i gjykimit nuk synon të shkatërrojë, por të kthejë për të dhënë jetë: «unë nuk gëzohem me vdekjen e të paudhëve» (Ezekieli 33:11)."
+  },
+  {
+   "w": "«Mërgimi dëshmon se Perëndia e braktisi krejtësisht Izraelin.»",
+   "t": "Mërgimi nuk ishte braktisje, por disiplinë dhe pastrim i një Ati ndaj birit të dashur (Hebrenjve 12:6). Perëndia nuk u largua; ishte me Danielin në mes të mërgimit dhe premtoi: «Unë i njoh shestimet e mia për ju… Janë shestime paqeje… për t'ju dhënë të ardhme e shpresë» (Jeremia 29:11)."
+  },
+  null,
+  {
+   "w": "«Nëse për 400 vjet nuk pati fjalë, a nuk do të thotë se Perëndia ishte larguar ose pushonte?»",
+   "t": "Heshtja nuk është mungesë. Veçse nuk foli; gjatë gjithë asaj kohe lëvizte perandori, gjuhë dhe rrugë për të përgatitur skenën e shpëtimit. Në çastin më të heshtur, Perëndia punonte me më shumë dashuri se kurrë (Galatasve 4:4)."
+  },
+  {
+   "w": "«Jezui është thjesht edhe një mësues i mirë morali; kryqi ishte një disfatë tragjike.»",
+   "t": "Jezui shpalli se ishte Perëndi (Gjoni 8:58), dhe kryqi nuk ishte aksident as disfatë, por dashuri e planifikuar. Nuk u çua atje me forcë, por dha jetën me vullnetin e vet (Gjoni 10:18). «Nuk ka dashuri më të madhe se të japësh jetën për miqtë» (Gjoni 15:13)."
+  },
+  {
+   "w": "«Kisha është një klub fetar njerëzish të përsosur, ose thjesht një ndërtesë.»",
+   "t": "Kisha nuk është një bashkësi «shenjtorësh të përsosur», por <b>mëkatarësh të falur</b>. Edhe apostulli Pal e quajti veten «i pari» ndër mëkatarë (1 Timoteut 1:15). Kisha e hershme gjithashtu u grind dhe dështoi (Veprat 6:1; 1 Korintasve 1:11). Kisha nuk është për t'u mburrur, por njerëz që përcjellin dashurinë që morën (Gjoni 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Mëkati rrënjësor — askush nuk është i drejtë",
+   "body": "Problemi nuk janë «disa vepra të këqija», por rrënja e zemrës. Që nga Adami, të gjithë lindin nën mëkat dhe vetë nuk mund të arrijnë te Perëndia.",
+   "vref": "Romakëve 3:10-12, 23",
+   "vtext": "Asnjeri nuk është i drejtë, as edhe një… sepse të gjithë kanë mëkatuar dhe nuk e kanë lavdinë e Perëndisë."
+  },
+  {
+   "title": "Ligji nuk mund të më shpëtojë",
+   "body": "Ligji nuk është një shkallë, por një pasqyrë. Sa më shumë përpiqem ta zbatoj, aq më shumë tregon sa dështoj. Qëllimi i tij është të na çojë te Krishti.",
+   "vref": "Romakëve 3:20 · Galatasve 3:24",
+   "vtext": "Nëpërmjet këtij ligji vjen vetëm njohja e mëkatit… ligji u bë kujdestari ynë deri në ardhjen e Krishtit."
+  },
+  {
+   "title": "Me anë të hirit — dhuratë, jo përpjekje",
+   "body": "Shpëtimi nuk është paga për merita të grumbulluara, por një dhuratë e Perëndisë për atë që nuk e meriton. Prandaj askush nuk mund të mburret.",
+   "vref": "Efesianëve 2:8-9",
+   "vtext": "Ju jeni shpëtuar me anë të hirit, përmes besimit… kështu që askush të mos mburret."
+  },
+  {
+   "title": "Të bërë të drejtë me anë të besimit",
+   "body": "Jo duke zbatuar ligjin, por duke besuar te Jezu Krishti shpallemi të drejtë: nuk vishemi me drejtësinë tonë, por me të tijën.",
+   "vref": "Romakëve 5:1 · Galatasve 2:16",
+   "vtext": "Përderisa jemi bërë të drejtë prej besimit, kemi paqe me Perëndinë… njeriu nuk bëhet i drejtë nga veprat që kërkon ligji, por vetëm përmes besimit në Jezu Krishtin."
+  },
+  {
+   "title": "Bibla tregon nga Jezui",
+   "body": "Bibla nuk është një biografi njerëzish të mëdhenj as një libër vetëndihme. Nga Zanafilla te Zbulesa, çdo faqe dëshmon për një: Jezu Krishtin.",
+   "vref": "Gjoni 5:39 · Luka 24:27",
+   "vtext": "Pikërisht ato dëshmojnë për mua… ai u shtjelloi të gjitha Shkrimet që flisnin për të."
+  },
+  {
+   "title": "Mbretëria e Perëndisë — qendra e mesazhit të Jezuit",
+   "body": "Tema që Jezui mësoi më shumë. Mbretëria ku Perëndia sundon si mbret hyri në botë me Jezuin dhe do të plotësohet në ardhjen e tij të dytë. Me anë të kryqit dhe ngjalljes, Jezui është Mbreti i vërtetë që mundi mëkatin, vdekjen dhe Satanin.",
+   "vref": "Marku 1:15",
+   "vtext": "Erdhi koha, mbretëria e Perëndisë është afër; pendohuni e besoni në ungjill."
+  },
+  {
+   "title": "Ungjilli — Ai e plotësoi gjithçka",
+   "body": "Borxhin e mëkatit që unë nuk mund ta paguaja, Jezui e pagoi në vendin tim në kryq, dhe me ngjalljen mundi vdekjen. Nuk mbështetem te «bëj», por te «u krye».",
+   "vref": "Gjoni 19:30 · Romakëve 5:8",
+   "vtext": "U krye!… Kur ishim ende mëkatarë, Krishti vdiq për ne."
+  }
+ ]
+}

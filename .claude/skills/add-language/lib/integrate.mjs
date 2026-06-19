@@ -45,7 +45,7 @@ if (unresolved.length) console.error('⚠ 미해결 토큰(대부분 앞 절 숫
 
 const esc = (s) => String(s).replace(/\\/g, '\\\\').replace(/'/g, "\\'");
 const booksLine = `BOOKS.${code}={` + Object.entries(dict).map(([k, v]) => `'${esc(k)}':'${esc(v)}'`).join(',') + '};';
-const langEntry = `{code:'${code}',native:'${native}',en:'${en}'}`;
+const langEntry = `{code:'${code}',native:'${esc(native)}',en:'${esc(en)}'}`;
 const bopt = `${/^[a-z-]+$/i.test(code) ? code : `'${code}'`}:{sep:'${bookopt.sep}',suf:'${bookopt.suf}',bare:${bookopt.bare}}`;
 const yvKey = /^[a-z]+$/i.test(code) ? code : `'${code}'`;
 

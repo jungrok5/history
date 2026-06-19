@@ -1,0 +1,343 @@
+{
+ "menuName": "Cymraeg",
+ "htmlLang": "cy",
+ "dir": "ltr",
+ "brand": "Y Beibl mewn Un Sgrôl",
+ "docTitle": "Y Beibl mewn Un Sgrôl · O'r creu i'r eglwys",
+ "share": {
+  "title": "Y Beibl mewn Un Sgrôl",
+  "text": "Mewn un sgrôl, darganfydda stori fawr y Beibl — a pham y daeth Iesu."
+ },
+ "ui": {
+  "people": "Pobl",
+  "events": "Digwyddiadau allweddol",
+  "christLabel": "Cyfeirio at Iesu",
+  "loveLabel": "Cariad di-ildio",
+  "mythWrong": "Camsyniad cyffredin",
+  "mythRight": "Y gwir",
+  "more": "Darllen mwy",
+  "version": "(BCND)"
+ },
+ "labels": {
+  "start": "Dechrau",
+  "thread": "Y stori",
+  "gospel": "Yr Efengyl",
+  "about": "Amdano"
+ },
+ "s": {
+  "ui.share": "↗ Rhannu",
+  "ui.toast": "Dolen wedi'i chopïo 📋",
+  "ui.footer": "Y Beibl mewn Un Sgrôl · Dyfyniadau o'r Beibl Cymraeg Newydd Diwygiedig",
+  "hero.kicker": "O'R CREU I'R EGLWYS",
+  "hero.title": "Y Beibl,<br><span class=\"em\">mewn un sgrôl</span>",
+  "hero.sub": "Mewn un sgrôl, darganfydda stori fawr y Beibl — a pham y daeth Iesu.",
+  "hero.cue": "Sgrolia i lawr<span>↓</span>",
+  "thread.eyebrow": "UN FRAWDDEG SY'N CLYMU'R CYFAN AT EI GILYDD",
+  "thread.h2": "Yn y diwedd, un stori sengl yw'r Beibl",
+  "thread.flow": "<b>Addewid</b><span class=\"arw\">→</span><b>Aros</b><span class=\"arw\">→</span><b>Cyflawniad</b>",
+  "thread.note": "Mae Duw'n <b>addo</b> (cyfamod), mae pobl yn <b>aros</b> yn hir, ac yn y diwedd caiff popeth ei <b>gyflawni</b> a'i gwblhau yn Iesu. Dilyn y 13 olygfa isod yn y llif hwnnw — tapia <b>“Darllen mwy”</b> ar bob cerdyn am y stori ddyfnach.",
+  "gospel.eyebrow": "BETH MAE'R STORI HON YN EI OLYGU I “MI”",
+  "gospel.h2": "Gwir galon y Beibl",
+  "gospel.lead": "Nid <b>gwerslyfr ar “fod yn berson da”</b> yw'r Beibl.",
+  "gospel.sublead": "Stori ydyw am sut y bu i Dduw, <b>trwy ras yn unig</b>, achub pechaduriaid na allent byth eu hachub eu hunain. Yn ei chanol saif Iesu Grist.",
+  "gospel.mirror": "<h3>Mae cylch diddiwedd Israel mewn gwirionedd yn llun o “mi”</h3><div class=\"cycle\"><b>Eilunaddoliaeth</b><span class=\"a\">→</span><b>Dioddefaint</b><span class=\"a\">→</span><b>Gweiddi am help</b><span class=\"a\">→</span><b>Duw'n achub</b><span class=\"a\">→</span><b>Eilunaddoliaeth eto…</b></div><p>O Lyfr y Barnwyr hyd y gaethglud, mae Israel yn ailadrodd y cylch hwn yn ddiddiwedd. Ni chofnododd y Beibl hyn er mwyn inni wawdio, “Mor druenus oeddent.”</p><p><b>Drych</b> ydyw. Nid “Israel a wnaeth hynny” yw'r pwynt, ond <b>“yr wyf finnau'n gwneud yr un peth”</b> (1 Corinthiaid 10:11).</p><p>Nid cerflun yn unig yw <b>eilun</b>. Mae'n <b>unrhyw beth a garwn neu yr ymddiriedwn ynddo'n fwy na Duw</b> — arian, llwyddiant, cymeradwyaeth, pobl, hyd yn oed fi fy hun. Ac mae defnyddio Duw fel <b>arf i gael yr hyn rwyf ei eisiau</b> yn eilunaddoliaeth hefyd.</p><p class=\"punch\">Yn y diwedd, yr eilun dyfnaf yw “fi fy hun, yn eistedd ar orsedd Duw.”</p>",
+  "gospel.coreIntro": "Felly sut mae Duw'n achub pechadur o'r fath? Dyma galon yr efengyl y mae'r Beibl yn ei chyhoeddi.",
+  "gospel.crux": "<p class=\"crux-lead\">Mae'r Beibl cyfan yn cyfeirio at un lle.</p><p>Ni allai pobl dorri cylch y pechod ar eu pennau eu hunain, ac nid oedd neb yn gyfiawn. Felly bu'n rhaid i rywun <b>dalu'r pris yn eu lle</b>.</p><p>Ni ddaeth Iesu yn unig i roi dysgeidiaeth dda. Heb unrhyw ffordd arall i'm hachub, <b>nid oedd dewis ganddo ond dod.</b></p><p class=\"crux-punch\">Yr un a ddylai fod wedi hongian ar y groes honno oedd <b>fi</b>.<br>Cariodd Iesu <b>fy mhechod i</b> a'i hoeliwyd yno yn fy lle.</p><div class=\"crux-verse\">“Ond archollwyd ef am ein troseddau ni, a'i ddryllio am ein camweddau ni… a thrwy ei gleisiau ef y cawsom ni iachâd.” — Eseia 53:5</div>",
+  "faq.h": "Yn dal i frwydro â rhywbeth?",
+  "faq.q1": "<span class=\"arr\">▸</span> Felly mae llofrudd ond yn gorfod credu i fynd i'r nef, tra bo person da ar hyd ei oes nad yw'n credu yn mynd i uffern?",
+  "faq.a1": "<p>Cwestiwn teg ydyw. Ond mae dau gamddealltwriaeth ynghudd ynddo.</p><p><b>① Nid yw'r Beibl yn rhannu pobl yn “dda yn erbyn drwg.”</b> Nid “gwell na'r nesaf” yw'r safon, ond “sancteiddrwydd perffaith Duw.” O'i flaen ef, nid oes neb “ddigon da” (Rhufeiniaid 3:23). Felly nid “person da yn erbyn llofrudd” mo hyn, ond yn hytrach fel dau berson â'r un clefyd marwol — mae un yn cymryd y feddyginiaeth, a'r llall yn ei gwrthod, gan ddweud, “Rwy'n iachach na'r boi yna.”</p><p><b>② Un peth yn unig sy'n rhannu'r nef ac uffern.</b> Nid sgôr ymddygiad, ond <b>a wyt ti wedi derbyn Iesu Grist yn Arglwydd ac a yw dy broblem bechod wedi'i datrys.</b> Mae'r un y mae ei bechod wedi'i setlo gan waed Crist yn mynd i'r nef; nid yw'r un nad yw byth yn ei dderbyn, ac y mae ei bechod yn parhau, yn gwneud hynny. Ni all unrhyw faint o ymddygiad da ddatrys y broblem bechod ei hun.</p><p>Felly nid “gwobr am ymddygiad da” yw'r nef ac uffern, ond mater o <b>berthynas â Christ</b>. Ac nid cytundeb meddyliol yw “ffydd” ond newid pwy sy'n rheoli dy fywyd — nid yw neb sy'n ei dderbyn ef o ddifrif yn tyfu'n hunanfodlon, ond yn edifarhau'n ddyfnaf. Yn wir, hunangyfiawnder (“rwy'n berson da”) yw'r eilun anoddaf i'w dorri, yr un sy'n gwneud inni feddwl nad oes angen Crist arnom (Luc 18:9-14).</p><p>Mae'r Beibl yn ei ddweud yn glir: <b>“Nid yw neb sy'n credu ynddo ef yn cael ei gondemnio, ond y mae'r sawl nad yw'n credu wedi ei gondemnio eisoes”</b> (Ioan 3:18). Nid “sgorio dy weithredoedd ar ôl iti farw” yw'r farn, ond mae eisoes wedi'i setlo yn ôl <b>a wnest ti dderbyn Crist</b>.</p><p class=\"faq-v\">Rhufeiniaid 3:23 · Ioan 3:18 · Effesiaid 2:8-9 · Luc 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Oni allaf fyw bywyd da heb gredu yn Iesu?",
+  "faq.a2": "<p>Dyma'r meddwl mwyaf cyffredin, ond mae'n camddeall beth yw'r broblem go iawn. Dyma lun.</p><p><b>Tybiwch dy fod ar fwrdd llong fôr-ladron.</b> Ni waeth pa mor lân y cedwi'r dec, pa mor garedig wyt ti i'r criw, pa mor rhagorol dy fywyd — môr-leidr wyt ti o hyd, oherwydd cei dy gludo ymlaen gyda'r llong i'r lle y mae'n mynd (porthladd y farn). Nid “sgôr ymddygiad” yw'r broblem ond <b>“i ba long y perthyni di” (dy hunaniaeth)</b>.</p><p>Felly nid yw'r efengyl yn dweud “ceisia'n galetach i fod yn dda”; mae'n dweud <b>“newidia long.”</b> Disgyn oddi ar long y pechod a chroesa draw at Iesu — i hunaniaeth newydd <b>plentyn Duw</b>. Nid codi dy sgôr trwy ymdrech yw hyn, ond ymddiried yn yr Un sy'n estyn ei law a chroesi i'w long ef.</p><p>Yn wir, mae'r Beibl yn disgrifio iachawdwriaeth fel yr union drosglwyddiad hwn — <b>“Gwaredodd ni o afael y tywyllwch, a'n trosglwyddo i deyrnas ei annwyl Fab”</b> (Colosiaid 1:13).</p><p>Paid â chamddeall: <b>nid yw hyn yn golygu bod bywyd da yn ddiystyr.</b> Nid “amod” iachawdwriaeth yw daioni ond ei <b>ffrwyth</b>. Mae'r sawl sydd wedi newid llong bellach yn byw'n dda nid o ofn, ond o gariad plentyn.</p><p class=\"faq-v\">Colosiaid 1:13 · Ioan 1:12 · Ioan 3:3 · Effesiaid 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Os yw troseddwr yn teimlo'n dawel ei feddwl, gan honni “Mae Duw wedi maddau imi,” tra bo'r dioddefwr yn dal i ddioddef — onid yw gras yn rhy rad o lawer?",
+  "faq.a3": "<p>Mae'r cwestiwn yn deg, ac mae'r boen yn real. Ond nid “maddeuant y Beibl” yw honiad o'r fath — <b>ystumiad</b> ohono ydyw.</p><p><b>① Nid yw maddeuant Duw byth yn rhad.</b> Ni chaiff pechod ei ysgubo o dan y carped fel pe na bai erioed wedi digwydd; talodd Duw ei hun ei bris â bywyd ei Fab ei hun. Nid prawf yw'r groes fod pechod yn cael ei gymryd yn ysgafn, ond ei fod mor drwm â hynny — y maddeuant drytaf yn y byd.</p><p><b>② Mae gwir edifeirwch yn dwyn ffrwyth.</b> Os yw troseddwr yn hunanfodlon gerbron y dioddefwr — “Maddeuodd Duw imi, felly rwy'n dawel fy meddwl” — nid edifeirwch mo hynny ond efelychiad ohono (Mathew 3:8). Ac nid yw maddeuant rhwng person a Duw yn dileu clwyf y dioddefwr nac yn gorfodi'r dioddefwr i faddau.</p><p><b>③ Ni chaiff pechod byth ei “anwybyddu” yn syml.</b> Telir am bob pechod yn un o ddau le — <b>naill ai mae Crist yn ei gario ar y groes</b> (i'r rhai sy'n ymddiried ynddo nid oes condemniad mwyach, Rhufeiniaid 8:1), <b>neu mae'r un sy'n ei wrthod yn y pen draw yn ei gario ei hun.</b> Felly nid oes “pardwn rhad.” Mae'r troseddwr hefyd yn dal yn gyfrifol yn gyfreithiol yn y byd hwn (Rhufeiniaid 13:1-4).</p><p><b>④ Nid yw dagrau'r dioddefwr byth yn fach gan Dduw.</b> Mae Duw'n wylo gyda'r rhai sy'n wylo, yn cofio pob deigryn, ac fe'u sych ymaith ei hun yn y diwedd (Datguddiad 21:4). Felly nid oes raid i'r dioddefwr gario pwysau'r dial ar ei ben ei hun, ond gall ei ymddiried i'r Duw cyfiawn (Rhufeiniaid 12:19 — “Myfi piau dial, myfi a dalaf yn ôl,… medd yr Arglwydd”).</p><p class=\"faq-v\">Mathew 3:8 · Rhufeiniaid 8:1 · Rhufeiniaid 13:1-4 · Datguddiad 21:4</p>",
+  "respond.h3": "Felly — beth amdanaf fi?",
+  "respond.sub": "Nid gwybodaeth yw'r cariad hwn ond <b>gwahoddiad</b>. Os yw'r cariad a hoeliwyd yn dy le wedi cyffwrdd â'th galon, gweddïa hyn yn araf, un llinell ar y tro.",
+  "respond.prayer": "<p>O Dduw,</p><p>rwy'n cyfaddef fy mod yn bechadur na all achub fy hun.</p><p>Credaf fod Iesu wedi marw ar y groes drosof ac wedi atgyfodi.</p><p>Maddau fy holl bechodau, ac o hyn ymlaen bydd yn Arglwydd ar fy mywyd.</p><p>Derbyn fi yn blentyn iti, a gad imi fyw bywyd newydd.</p><p class=\"amen\">Yn enw Iesu y gweddïaf. Amen.</p>",
+  "respond.after": "Os gweddïaist hyn o ddidwylledd, dywed y Beibl dy fod wedi <b>dod yn blentyn i Dduw</b>. Nid wyt mwyach ar dy ben dy hun — dod o hyd i eglwys gyfagos a cherdda ffordd y ffydd gyda'th gilydd.",
+  "respond.verse": "“Ond cynifer ag a'i derbyniodd, rhoes iddynt hwy, y rhai sy'n credu yn ei enw, hawl i ddod yn blant Duw” — Ioan 1:12 · Rhufeiniaid 10:9-10",
+  "closing.main": "Un Duw,<br>trwy un stori,<br>yn dod ar ein hôl â<br><em>chariad</em> nad yw byth yn ildio.",
+  "closing.verse": "“Na all nac angau nac einioes… na dim arall a grewyd, ein gwahanu ni oddi wrth gariad Duw yng Nghrist Iesu ein Harglwydd.” — Rhufeiniaid 8:38-39",
+  "closing.small": "Ar y stori hon, mae'r Gyfraith, y Farddoniaeth, y Proffwydi a'r Llythyrau'n ychwanegu'r “cnawd.”<br>O hyn ymlaen, pa lyfr bynnag a agori, fe weli ble'r wyt ti yn y stori.",
+  "closing.share": "↗ Rhannu'r stori hon",
+  "about.line": "Yn seiliedig ar y safbwynt prynedigaethol-hanesyddol a rennir gan y rhan fwyaf o'r eglwys Brotestannaidd Goreaidd (efengylaidd · Diwygiedig).",
+  "about.contact": "Cwestiynau · adborth — <a id=\"contact\" class=\"mail\">E-bostiwch ni</a>"
+ },
+ "epochs": [
+  {
+   "tag": "YR HEN DESTAMENT · Y DECHRAU",
+   "title": "Y Creu",
+   "date": "Yn y dechreuad",
+   "one": "Gwnaeth Duw fyd a oedd “yn dda iawn.”",
+   "people": "Duw; Adda ac Efa",
+   "events": "Chwe diwrnod o greu, y ddynoliaeth wedi'i gwneud ar ddelw Duw, gorffwys y Saboth",
+   "q": "Yn y dechreuad creodd Duw y nefoedd a'r ddaear.",
+   "cite": "Genesis 1:1",
+   "christ": "Gwnaethpwyd y byd trwy'r “Gair.” Mae Efengyl Ioan yn datgan mai Iesu ei hun yw'r Gair hwn (Ioan 1:1-3).",
+   "detail": "<p>Nid â dadl athronyddol y mae'r Beibl yn agor, ond â datganiad: <b>“Yn y dechreuad creodd Duw…”</b> Nid damwain yw'r byd ond gwaith Duw personol.</p><ul><li><b>Delw Duw</b> · O blith yr holl greaduriaid, dim ond y ddynoliaeth a wnaethpwyd i ddwyn tebygrwydd i Dduw — i'w adnabod ef ac i ofalu am y byd.</li><li><b>Gorffwys</b> · Mae gorffwys y seithfed dydd yn dangos popeth yn gyflawn ac mewn heddwch (shalom): “ei fod yn dda.”</li><li><b>Eden</b> · Y byd cyn ei dorri, lle mae Duw a phobl yn cerdded gyda'i gilydd.</li></ul>",
+   "next": "Ond mae'r cyflawnder hwn ar fin cael ei chwalu…"
+  },
+  {
+   "tag": "YR HEN DESTAMENT · Y BROBLEM YN DECHRAU",
+   "title": "Y Cwymp",
+   "date": "Yn y dechreuad",
+   "one": "Daeth pechod i mewn, a thorrwyd y rhwymyn rhwng pobl a Duw.",
+   "people": "Adda ac Efa; y sarff (Satan)",
+   "events": "Bwyta'r ffrwyth gwaharddedig, eu halltudio o Eden, dyfodiad marwolaeth a llafur",
+   "q": "Gosodaf elyniaeth hefyd rhyngot ti a'r wraig… bydd ef yn ysigo dy ben di.",
+   "cite": "Genesis 3:15",
+   "christ": "Addewid gyntaf yr efengyl, a roddwyd yn syth ar ôl y Cwymp: bydd “had y wraig” yn ysigo pen y sarff — a hwnnw yw Iesu (Genesis 3:15; Rhufeiniaid 16:20; Galatiaid 4:4).",
+   "detail": "<p>Trwy'r anufudd-dod o geisio “bod fel Duw,” daw pechod i mewn i'r byd. Nid rheol wedi'i thorri yn unig yw'r canlyniad ond <b>perthynas wedi'i thorri</b>.</p><ul><li><b>Rhwymau wedi torri</b> · â Duw (cuddio), â'i gilydd (beio), â natur (drain a llafur).</li><li><b>Marwolaeth</b> · daw'r rhybudd “gan farw y byddi farw” yn realiti.</li><li><b>Genesis 3:15</b> · eto yng nghanol y farn, daw addewid o waredigaeth yn gyntaf. Mae ysgolheigion yn galw hyn yn <b>protoevangelium (yr efengyl gyntaf)</b>.</li></ul>",
+   "next": "Yn awr mae Duw'n galw un dyn i ddechrau'r waredigaeth…"
+  },
+  {
+   "tag": "YR HEN DESTAMENT · YR ADDEWID",
+   "title": "Y Patriarchiaid",
+   "date": "tua 2000 CC",
+   "one": "Mae Duw'n addo i Abraham, “Byddi'n sianel bendith.”",
+   "people": "Abraham · Isaac · Jacob · Joseff",
+   "events": "Cyfamod Abraham, rhwymo Isaac, deuddeg mab Jacob, Joseff yn codi i rym yn yr Aifft",
+   "q": "Gwnaf di yn genedl fawr… ac ynot ti bendithir holl dylwythau'r ddaear.",
+   "cite": "Genesis 12:2-3",
+   "christ": "Mae'r addewid y “bendithir holl bobloedd” yn cael ei chyflawni yn Iesu, had Abraham (Galatiaid 3:16).",
+   "detail": "<p>Mae Duw'n dechrau mynd i'r afael â phroblem yr holl ddynoliaeth trwy alw un dyn, <b>Abraham</b>. Calon y peth yw'r <b>cyfamod (addewid)</b> — cenedl fawr, gwlad, a “bendith i'r holl bobloedd.”</p><ul><li><b>Ffydd</b> · Credodd Abraham addewid anweledig, a chyfrifwyd hynny iddo'n gyfiawnder (Genesis 15:6).</li><li><b>Isaac a Jacob</b> · mae'r addewid yn parhau; mae Jacob (Israel) yn dad i'r deuddeg llwyth.</li><li><b>Joseff</b> · ei werthu gan ei frodyr ond ei godi i rym — “trodd Duw y bwriad yn ddaioni” (Genesis 50:20).</li></ul>",
+   "next": "Yn dilyn Joseff, mae'r teulu'n mynd i lawr i'r Aifft — ac yn cael ei gaethiwo…"
+  },
+  {
+   "tag": "YR HEN DESTAMENT · PRYNEDIGAETH",
+   "title": "Yr Ecsodus a'r Anialwch",
+   "date": "tua 1446 CC",
+   "one": "Achubodd Duw bobl gaeth a'u gwneud yn eiddo iddo'i hun.",
+   "people": "Moses, Aaron, Pharo",
+   "events": "Y deg pla, y Pasg, croesi'r Môr Coch, y Deg Gorchymyn yn Sinai, y tabernacl, 40 mlynedd yn yr anialwch",
+   "q": "Fe'ch cymeraf yn bobl i mi, a byddaf finnau yn Dduw i chwi.",
+   "cite": "Exodus 6:7",
+   "christ": "Mae'r Pasg — lle trodd gwaed oen y farwolaeth ymaith — yn cyfeirio at Iesu, “ein hoen Pasg,” a groeshoeliwyd drosom (1 Corinthiaid 5:7).",
+   "detail": "<p>Gwaredigaeth fwyaf yr Hen Destament. Caiff Israel, a fu unwaith yn gaeth, ei rhyddhau trwy nerth Duw a'i ffurfio'n <b>bobl</b> iddo.</p><ul><li><b>Y Pasg</b> · caiff y cartref a nodwyd â gwaed yr oen ei arbed rhag marwolaeth — y patrwm y tu ôl i bob aberth dilynol.</li><li><b>Y Môr Coch</b> · iachawdwriaeth lle daw'r ffordd i ben; daw “croesi drosodd” yn symbol o ddechrau newydd.</li><li><b>Cyfamod Sinai</b> · trwy'r Gorchmynion maent yn dysgu sut i fyw fel pobl Duw.</li><li><b>Y tabernacl</b> · cysegr symudol lle mae Duw'n trigo ymhlith ei bobl — rhagflas o “Emaniwel.”</li><li><b>40 mlynedd</b> · mae anufudd-dod yn cadw cenhedlaeth i grwydro, eto mae Duw'n aros yn agos â manna a cholofn y cwmwl a'r tân.</li></ul>",
+   "next": "Yn sefyll ar ymyl y wlad addawedig, maent yn paratoi i fynd i mewn…"
+  },
+  {
+   "tag": "YR HEN DESTAMENT · YMSEFYDLU",
+   "title": "Concwest a Barnwyr",
+   "date": "tua 1400–1050 CC",
+   "one": "Cawsant y wlad, ond heb frenin gwnaeth pawb yn ôl ei fympwy ei hun.",
+   "people": "Josua; barnwyr fel Gideon a Samson; Ruth",
+   "events": "Cwymp Jericho, ymsefydlu yng Nghanaan, cylch o bechod–barn–gwaredigaeth yn ailadrodd",
+   "q": "Yn y dyddiau hynny nid oedd brenin yn Israel. Yr oedd pob un yn gwneud yr hyn oedd yn iawn yn ei olwg ei hun.",
+   "cite": "Barnwyr 21:25",
+   "christ": "O linach Ruth daw Dafydd, ac o linach Dafydd daw Iesu (Mathew 1). Hyd yn oed yn yr anhrefn, mae coeden deuluol y Meseia'n parhau.",
+   "detail": "<p>Dan Josua maent yn mynd i mewn i'r wlad addawedig, ond ar ôl ymsefydlu maent yn anghofio Duw'n fuan. Yr un patrwm ar ailadrodd yw Llyfr y Barnwyr.</p><ul><li><b>Y cylch tuag i lawr</b> · pechod → gormes → gweiddi am help → barnwr yn achub → pechod eto. Dim ond gwaethygu y mae.</li><li><b>Y barnwyr</b> · Gideon, Samson, Debora — gwaredwyr dros dro, arwrol ond ag enfawr eu diffygion.</li><li><b>Ruth</b> · stori ddisglair o ffyddlondeb mewn oes dywyll; mae gwraig estron yn dod i linach Dafydd (ac Iesu).</li></ul>",
+   "next": "Mae'r bobl yn gweiddi, “Rho frenin i ninnau hefyd!”…"
+  },
+  {
+   "tag": "YR HEN DESTAMENT · YR OES AUR",
+   "title": "Y Deyrnas Unedig",
+   "date": "tua 1050–930 CC",
+   "one": "Mae Duw'n addo i Ddafydd, “Bydd dy orsedd yn para am byth.”",
+   "people": "Saul · Dafydd · Solomon",
+   "events": "Y brenin cyntaf Saul, Dafydd a Goliath, cyfamod Dafydd, Solomon yn adeiladu'r deml",
+   "q": "Sicrheir dy deulu a'th deyrnas am byth o'm blaen; erys dy orsedd yn gadarn hyd byth.",
+   "cite": "2 Samuel 7:16",
+   "christ": "Mae'r “orsedd dragwyddol” yn cael ei chyflawni yn Iesu, mab Dafydd — a dyna pam y'i gelwir yn “Fab Dafydd” (Luc 1:32-33; Mathew 1:1).",
+   "detail": "<p>Uchafbwynt Israel, dan dri brenin.</p><ul><li><b>Saul</b> · y brenin y mynnodd y bobl ei gael; dechrau da wedi'i ddifetha gan anufudd-dod.</li><li><b>Dafydd</b> · “gŵr wrth fodd calon Duw.” Mae'n trechu Goliath ac yn gwneud Jerwsalem yn brifddinas. Mae'n cyflawni pechod mawr (Bathseba) ond yn edifarhau o'i galon (Salm 51).</li><li><b>Cyfamod Dafydd (2 Samuel 7)</b> · mae Duw'n addo sefydlu llinach Dafydd am byth — gwreiddyn pendant gobaith Meseianaidd.</li><li><b>Solomon</b> · ar anterth doethineb a chyfoeth mae'n adeiladu'r <b>deml</b>, ond yn hwyr yn ei oes mae'n troi at eilunod.</li></ul>",
+   "next": "Ar ôl Solomon, mae'r deyrnas yn hollti'n ddwy…"
+  },
+  {
+   "tag": "YR HEN DESTAMENT · DIRYWIAD",
+   "title": "Y Deyrnas Ranedig",
+   "date": "930–586 CC",
+   "one": "Wedi'i rhannu'n dde (Jwda) a gogledd (Israel), mae'r genedl yn llithro i ddistryw.",
+   "people": "Brenhinoedd y ddwy deyrnas; proffwydi fel Elias, Eseia, Jeremeia",
+   "events": "Mae'r deyrnas yn rhannu, eilunaddoliaeth yn lledu, y proffwydi'n rhybuddio",
+   "q": "Ac y mae Israel mewn gwrthryfel yn erbyn llinach Dafydd hyd heddiw.",
+   "cite": "1 Brenhinoedd 12:19",
+   "christ": "Yn yr oes hon mae'r proffwydi'n rhagfynegi'r Meseia sydd i ddod yn fwyfwy clir (Eseia 9:6; Eseia 53).",
+   "detail": "<p>Yn nyddiau mab Solomon mae'r genedl yn hollti: <b>teyrnas ogleddol Israel</b> (10 llwyth, prifddinas Samaria) a <b>theyrnas ddeheuol Jwda</b> (2 lwyth, prifddinas Jerwsalem).</p><ul><li><b>Israel (gogledd)</b> · mae pob brenin yn gwasanaethu eilunod; mae'n syrthio i Asyria yn 722 CC.</li><li><b>Jwda (de)</b> · mae llinach Dafydd yn parhau, gyda rhai brenhinoedd da fel Heseceia a Joseia, ond yn dirywio'n gyffredinol.</li><li><b>Y proffwydi</b> · mae Elias, Amos, Eseia, Jeremeia'n gweiddi “dychwelwch!” Mae proffwydoliaeth Feseianaidd yn cyrraedd ei phwynt cyfoethocaf yma (“gwas dioddefus” Eseia 53).</li></ul>",
+   "next": "Yn y diwedd daw'r farn a rybuddiwyd — fe'u cludir i gaethglud…"
+  },
+  {
+   "tag": "YR HEN DESTAMENT · BARN",
+   "title": "Y Gaethglud",
+   "date": "722 / 586 CC",
+   "one": "Mae'r genedl yn syrthio a'r bobl yn cael eu llusgo i wledydd estron.",
+   "people": "Daniel, Eseciel, Nebuchadnesar",
+   "events": "Mae Israel yn syrthio i Asyria (722), mae Jwda'n syrthio i Fabilon a dinistrir y deml (586)",
+   "q": "Ger afonydd Babilon yr oeddem yn eistedd ac yn wylo wrth inni gofio am Seion.",
+   "cite": "Y Salmau 137:1",
+   "christ": "Yn nyfnder anobaith mae Jeremeia'n addo “cyfamod newydd” (Jeremeia 31:31) — yr union gyfamod y mae Iesu'n ei selio yn y Swper Olaf.",
+   "detail": "<p>Daw'r rhybuddion yn wir. Mae'r deml yn llosgi a'r bobl yn cael eu cludo i Fabilon — yn colli'r wlad, y brenin, a'r deml: y pwynt isaf oll.</p><ul><li><b>Dau gwymp</b> · Israel (Asyria, 722 CC) a Jwda (Babilon, 586 CC).</li><li><b>Daniel</b> · esiampl o ffydd hyd yn oed mewn llys paganaidd (ffau'r llewod); mae'n gweld gweledigaethau o “deyrnas dragwyddol” sydd i ddod.</li><li><b>Gwreichionen o obaith</b> · mae gweledigaeth Eseciel o'r esgyrn sychion yn dod yn fyw (Eseciel 37) a “chyfamod newydd” Jeremeia'n cyfeirio at ddyfodol yn y tywyllwch.</li></ul>",
+   "next": "Saith deg mlynedd yn ddiweddarach, mae Duw'n agor y ffordd — maent yn mynd adref…"
+  },
+  {
+   "tag": "YR HEN DESTAMENT · ADFERIAD",
+   "title": "Y Dychweliad",
+   "date": "538–430 CC",
+   "one": "Maent yn dychwelyd ac yn ailadeiladu'r deml a'r muriau.",
+   "people": "Esra, Nehemeia, Esther, Sorobabel",
+   "events": "Dychwelyd trwy ddyfarniad Cyrus, ailadeiladu'r deml, atgyweirio muriau Jerwsalem, adfer y Gair",
+   "q": "Llawenhau yn yr ARGLWYDD yw eich nerth.",
+   "cite": "Nehemeia 8:10",
+   "christ": "Mae Malachi, llyfr olaf yr Hen Destament, yn gorffen trwy ragfynegi negesydd i baratoi ffordd y Meseia: “Anfonaf fy nghennad” (Malachi 3:1).",
+   "detail": "<p>Trwy ddyfarniad Cyrus brenin Persia (538 CC) mae'r dychweliad yn dechrau. Mewn tair ton maent yn dychwelyd ac yn ailadeiladu'r hyn a ddinistriwyd.</p><ul><li><b>Sorobabel</b> · yn ailadeiladu'r deml (gorffennwyd 516 CC).</li><li><b>Esra</b> · yn dysgu'r Gair eto ac yn adfywio'r ffydd.</li><li><b>Nehemeia</b> · yn ailadeiladu muriau Jerwsalem mewn 52 diwrnod.</li><li><b>Esther</b> · yn achub yr Iddewon ym Mhersia rhag difodiant — “erbyn amser fel hwn.”</li><li><b>Hiraeth o hyd</b> · mae'r deml ar ei thraed, ond nid oes brenin fel Dafydd. Mae'r bobl yn disgwyl am y Meseia.</li></ul>",
+   "next": "Ac yna… fel pe bai'r nef wedi distewi, mae 400 mlynedd yn mynd heibio."
+  },
+  {
+   "tag": "RHWNG Y TESTAMENTAU · GOSOD Y LLWYFAN",
+   "title": "Y Blynyddoedd Tawel",
+   "date": "tua 430–4 CC",
+   "one": "400 mlynedd heb lais proffwyd — eto câi'r llwyfan ei osod yn dawel.",
+   "people": "Alexander Fawr, y Macabeaid, Rhufain",
+   "events": "Persia → Groeg → annibyniaeth Facabeaidd → rheolaeth Rufeinig",
+   "q": "Ond pan ddaeth cyflawniad yr amser, anfonodd Duw ei Fab, wedi ei eni o wraig.",
+   "cite": "Galatiaid 4:4",
+   "christ": "Roedd yr holl “osod llwyfan” hwn yn waith Duw fel y deuai Iesu yn union ar “gyflawniad yr amser.”",
+   "detail": "<p>O Malachi i'r Testament Newydd, mae tua 400 mlynedd yn mynd heibio heb Ysgrythur newydd. Eto y tu ôl i hanes roedd Duw'n paratoi'r ffordd i'r efengyl.</p><ul><li><b>Ymerodraethau'n newid dwylo</b> · Persia → Groeg (Alexander, 333 CC) → y Ptolemïaid a'r Seleuciaid → gwrthryfel y Macabeaid (167 CC) → Rhufain (63 CC).</li><li><b>Groeg</b> · mae concwestau Alexander yn gwneud Groeg yn iaith gyffredin; cyfieithir yr Hen Destament i'r Roeg (y Septuagint), gan baratoi'r ffordd i'r efengyl ledu'n gyflym.</li><li><b>Ffyrdd a heddwch Rhufain</b> · daw'r ffyrdd cadarn a'r “Pax Romana” yn briffyrdd i genhadaeth.</li><li><b>Synagogau a phleidiau</b> · mae dysgu yn y synagog yn gwreiddio; mae'r Phariseaid a'r Sadwceaid yn codi; ac mae <b>hiraeth am y Meseia</b> yn aeddfedu.</li></ul>",
+   "next": "Yna mae'r distawrwydd yn torri — o'r diwedd, daw ef."
+  },
+  {
+   "tag": "Y TESTAMENT NEWYDD · CYFLAWNIAD",
+   "title": "Iesu'n Dod",
+   "date": "tua 4 CC–OC 30",
+   "one": "Daeth y Meseia addawedig, bu farw, ac atgyfododd.",
+   "people": "Iesu, y deuddeg disgybl, Ioan Fedyddiwr",
+   "events": "Yr ymgnawdoliad, ei weinidogaeth a'i ddysgeidiaeth a'i wyrthiau, ei farwolaeth ar y groes, ei atgyfodiad ar y trydydd dydd",
+   "q": "A daeth y Gair yn gnawd a phreswylio yn ein plith… yn llawn gras a gwirionedd.",
+   "cite": "Ioan 1:14",
+   "christ": "Had y wraig (golygfa 2), bendith Abraham (3), oen y Pasg (4), brenin tragwyddol Dafydd (6), y cyfamod newydd (8) — pob un wedi'i gyflawni yn un dyn, Iesu: ein gwir Broffwyd, Offeiriad, a Brenin.",
+   "detail": "<p>Mae'r distawrwydd yn torri; daw'r Un Addawedig. Mae'r pedair efengyl yn tystio i fywyd, marwolaeth ac atgyfodiad Iesu o bedwar ongl.</p><ul><li><b>Yr ymgnawdoliad</b> · daw Duw'n ddyn (Emaniwel, “Duw gyda ni”), yn lle isel Bethlehem.</li><li><b>Gweinidogaeth</b> · mae'n dysgu teyrnas Dduw, yn iacháu'r cleifion, yn galw pechaduriaid. “Y mae'r sawl a'm gwelodd i wedi gweld y Tad.”</li><li><b>Y groes</b> · mae'n talu pris y pechod a'r farwolaeth a achoswyd gan y Cwymp (golygfa 2). Y gwir oen Pasg.</li><li><b>Atgyfodiad</b> · gan godi ar y trydydd dydd, mae'n torri grym pechod, marwolaeth, a Satan — eisoes ar y groes “Diarfogodd y tywysogaethau a'r awdurdodau… ei fuddugoliaeth arnynt” (Colosiaid 2:15).</li></ul><p>Felly Iesu yw ein <b>gwir Broffwyd</b> (yn dangos y ffordd at Dduw), ein <b>gwir Offeiriad</b> (yn gwneud iawn am bechod â'i gorff ei hun), a'n <b>gwir Frenin</b> (yn trechu pechod, marwolaeth, a Satan ac yn teyrnasu am byth).</p>",
+   "next": "Mae'r Iesu atgyfodedig yn anfon ei ddisgyblion i'r byd…"
+  },
+  {
+   "tag": "Y TESTAMENT NEWYDD · LLEDU",
+   "title": "Yr Eglwys yn Dechrau",
+   "date": "tua OC 30–",
+   "one": "Daw'r Ysbryd, ac mae'r efengyl yn lledu tuag at eithafoedd y ddaear.",
+   "people": "Pedr, Paul, yr eglwys gynnar",
+   "events": "Tywallt yr Ysbryd ar y Pentecost, geni'r eglwys, yr efengyl yn lledu o Jerwsalem i Rufain trwy erledigaeth",
+   "q": "Ond fe dderbyniwch nerth wedi i'r Ysbryd Glân ddod arnoch… a hyd eithaf y ddaear.",
+   "cite": "Actau 1:8",
+   "christ": "Mae'r stori hon yn dal i fynd rhagddi heddiw. Mae'r Beibl yn gorffen trwy addo y daw Iesu eto ac y gwna bopeth yn newydd (Datguddiad 21).",
+   "detail": "<p>Ar ôl i Iesu esgyn, daw'r Ysbryd addawedig ar y Pentecost a genir yr eglwys. Mae'r efengyl yn lledu'n ffrwydrol.</p><ul><li><b>Y Pentecost</b> · mae'r Ysbryd yn troi disgyblion ofnus yn dystion beiddgar.</li><li><b>Pedr</b> · yn pregethu'r efengyl i'r Iddewon yn Jerwsalem.</li><li><b>Paul</b> · o erlidiwr i apostol, yn plannu eglwysi ar draws y byd Cenhedlig ac yn ysgrifennu'r llythyrau.</li><li><b>Hyd eithafoedd y ddaear</b> · Jerwsalem → Jwdea → Samaria → Rhufain. Daw addewid Abraham am “yr holl bobloedd” yn wir.</li><li><b>A ninnau</b> · nid yw'r stori'n gorffen; mae'n pwyso ymlaen tuag at ddychweliad Iesu a'r nef newydd a'r ddaear newydd.</li></ul>",
+   "next": "Ond nid yw'r stori'n gorffen yma…"
+  },
+  {
+   "tag": "Y TESTAMENT NEWYDD · CWBLHAD",
+   "title": "Yr Adferiad",
+   "date": "Eto i ddod",
+   "one": "Daw Iesu eto ac mae'n gwneud popeth yn newydd.",
+   "people": "Yr Iesu sy'n dychwelyd; pob cenedl",
+   "events": "Yr ailddyfodiad, y farn olaf, diwedd pechod·marwolaeth·dagrau, nef newydd a daear newydd",
+   "q": "Fe sych bob deigryn o'u llygaid hwy, ac ni bydd marwolaeth mwyach, na galar na llefain na phoen.",
+   "cite": "Datguddiad 21:4",
+   "christ": "Caiff Eden y creu cyntaf ei hadfer o'r diwedd fel y “Jerwsalem Newydd.” Mae Duw'n trigo â'i bobl am byth — cyflawnder Emaniwel (Datguddiad 21:3; Mathew 1:23).",
+   "detail": "<p>Nid yw'r Beibl yn gorffen ag oes yr eglwys. Mae ei lyfr olaf, Datguddiad, yn dangos Iesu'n <b>dod eto</b> i gwblhau popeth.</p><ul><li><b>Yr ailddyfodiad</b> · mae'r Brenin addawedig yn dychwelyd mewn gogoniant.</li><li><b>Y fuddugoliaeth derfynol</b> · mae Satan a marwolaeth yn cael eu trechu am byth, ac mae Crist yn teyrnasu fel Brenin y brenhinoedd (1 Corinthiaid 15:25-26; Datguddiad 20:10).</li><li><b>Barn ac atgyfodiad</b> · caiff pob cam ei unioni, a chyfodir y meirw.</li><li><b>Nef newydd a daear newydd</b> · mae pechod, marwolaeth, dagrau, a phoen yn diflannu am byth (Datguddiad 21:4).</li><li><b>Eden wedi'i hadfer</b> · mewn “Jerwsalem Newydd” well na'r dechrau, mae Duw'n trigo â'i bobl am byth — y cyrchfan y mae'r Beibl cyfan wedi bod yn anelu ato.</li></ul><p>Felly nawr yw oes y <b>“eisoes, ond nid eto”</b>: yn Iesu mae iachawdwriaeth <b>eisoes</b> wedi'i chyflawni, ond mae ei chwblhad <b>eto</b> i'w ddisgwyl.</p>",
+   "next": "Felly beth mae'r holl stori hon yn ei olygu i “mi”?"
+  }
+ ],
+ "love": [
+  "Nid â barn y mae'r stori'n dechrau ond â chreu wedi'i dywallt mewn cariad.",
+  "Y foment y pechodd pobl, addawodd Duw waredigaeth yn syth yn y fan a'r lle.",
+  "Daeth Duw'n gyntaf at ddyn anheilwng, ei alw wrth ei enw, a'i wneud yn sianel bendith.",
+  "Clywodd ochenaid pobl gaeth a daeth i lawr i'w hachub ei hun.",
+  "Wedi'i fradychu dro ar ôl tro, eto bob tro y gwaeddent anfonodd waredwr a'u codi.",
+  "Ni wrthodai hyd yn oed Dafydd a syrthiodd, a thrwyddo addawodd Frenin tragwyddol.",
+  "At bobl a drodd eu cefnau, daliodd i anfon proffwydi, gan ymbil, “Dewch adref.”",
+  "Aeth gyda hwy hyd yn oed i wlad dywyllaf y gaethglud, ac addawodd adferiad.",
+  "Hyd yn oed at bobl a fethodd dro ar ôl tro, ni thynnai ei addewid yn ôl.",
+  "Hyd yn oed trwy 400 mlynedd dawel, yn anweledig, roedd yn paratoi ffordd yr iachawdwriaeth.",
+  "Tra oeddem ni'n dal yn bechaduriaid, anfonodd ei Fab i roi ei einioes ei hun.",
+  "Y cariad a dderbyniasom, mae nawr yn ei anfon i lifo allan i'r byd cyfan.",
+  "O'r diwedd fe sych bob deigryn ac fe adfer bopeth mewn cariad."
+ ],
+ "mis": [
+  {
+   "w": "“Pam y gwnaeth Duw bobl a allai bechu? Oni fyddai wedi bod yn well peidio â'n gwneud o gwbl?”",
+   "t": "Creodd Duw'r byd a phobl nid o unrhyw ddiffyg, ond o gariad gorlifol. Mae gwneud bodau dynol yn <b>bersonau sy'n ymwneud â Duw</b> ynddo'i hun yn gariad. Ac nid oedd hyd yn oed dyfodiad pechod y tu allan i gynllun achubol Duw (Effesiaid 1:4-5). Nid barn yw golygfa agoriadol y Beibl ond cariad."
+  },
+  {
+   "w": "“Ei alltudio a chael marwolaeth dim ond am fwyta un ffrwyth — onid yw Duw'n llawer rhy lym?”",
+   "t": "Roedd cael ei anfon allan o Eden yn farn ac yn drugaredd ar yr un pryd. Byddai bwyta o bren y bywyd a byw am byth yn y cyflwr toredig, wedi'i dorri oddi wrth Dduw hwnnw, yn golygu cael ei ddal mewn dioddefaint am byth (Genesis 3:22). Agorodd caniatáu marwolaeth y ffordd yn ôl, ac yn y fan a'r lle addawodd Duw Waredwr (Genesis 3:15). Roedd cariad eisoes y tu mewn i'r farn."
+  },
+  {
+   "w": "“Dewiswyd Abraham am fod ganddo ffydd fawr — onid arwyr moesol yw holl ffigyrau'r Beibl?”",
+   "t": "Dywedodd Abraham gelwydd ac amau hefyd; twyllwr oedd Jacob. Galwodd Duw nid bobl “gymwys” ond rhai diffygiol, trwy ras. Nid eu daioni oedd y rheswm ond cariad ffyddlon Duw (Deuteronomium 7:7-8)."
+  },
+  {
+   "w": "“Onid prawf neu amod yw'r Gyfraith (y Gorchmynion) y mae'n rhaid ei basio i gael dy achub?”",
+   "t": "Achubodd Duw hwy <b>cyn</b> rhoi'r Gyfraith. Mae hyd yn oed y Deg Gorchymyn yn agor â datganiad o iachawdwriaeth: “Myfi yw'r ARGLWYDD dy Dduw, a'th arweiniodd allan o wlad yr Aifft” (Exodus 20:2). Nid “cadwa hi i gael dy achub” yw'r Gyfraith, ond arweiniad cariadus ar sut y dylai pobl sydd eisoes wedi'u hachub fyw (Deuteronomium 7:7-9). Mae gras bob amser yn dod yn gyntaf; yr ufudd-dod yw'r ymateb."
+  },
+  {
+   "w": "“Roedd concwest Canaan yn lladdfa ddidostur — felly mae Duw'r Hen Destament wir yn greulon.”",
+   "t": "Mae hwn yn bwnc anodd na ellir ei setlo mewn brawddeg. Ond nid fel trais ar hap y mae'r Beibl yn ei gyflwyno ond fel barn ar ôl canrifoedd o amynedd tuag at ddrygioni eithafol (gan gynnwys aberthu plant) (Genesis 15:16; Deuteronomium 9:4-5; Lefiticus 18:24-25). Mae Duw'n araf hyd yn oed i farnu, ac fe groesawodd yn llawen y rhai a drodd ato — hyd yn oed estroniaid fel Rahab a Ruth (Josua 6:25; Ruth 4:13-17)."
+  },
+  {
+   "w": "“Roedd Dafydd yn arwr diffaith — dyna pam y'i gelwid yn ‘ŵr wrth fodd calon Duw.’”",
+   "t": "Cyflawnodd Dafydd odineb a hyd yn oed lofruddiaeth. Nid “perffaith” yw ystyr “gŵr wrth fodd calon Duw,” ond un na chuddiodd ei bechod — a edifarhaodd yn drwyadl a dal i ddychwelyd at Dduw (Salm 51). Nid yw cariad Duw'n taflu ymaith hyd yn oed y rhai sy'n syrthio'n drwm."
+  },
+  {
+   "w": "“Dewin sy'n rhagfynegi'r dyfodol yw proffwyd / dim ond dicter yw Duw'r Hen Destament.”",
+   "t": "Nid “rhagfynegi'r dyfodol” yw calon proffwyd, ond ymbil dwys Duw: “Dewch yn ôl, os gwelwch yn dda.” Hyd yn oed nid dinistrio yw nod rhybudd y farn ond troi pobl o gwmpas a'u hachub — “nid wyf yn ymhyfrydu ym marwolaeth y drygionus” (Eseciel 33:11)."
+  },
+  {
+   "w": "“Mae'r gaethglud yn profi i Dduw gefnu'n llwyr ar Israel.”",
+   "t": "Nid cefnu oedd y gaethglud ond disgyblu a phuro tuag at blentyn annwyl (Hebreaid 12:6). Ni adawodd Duw; bu gyda Daniel yng nghanol y gaethglud ac addawodd, “myfi sy'n gwybod fy mwriadau a drefnaf ar eich cyfer… bwriadau o heddwch, nid niwed, i roi ichwi ddyfodol gobeithiol” (Jeremeia 29:11)."
+  },
+  null,
+  {
+   "w": "“Heb air am 400 mlynedd, roedd Duw wedi mynd neu'n gorffwys.”",
+   "t": "Nid absenoldeb yw distawrwydd. Dim ond peidio â siarad a wnaeth, tra oedd drwy'r amser yn symud ymerodraethau, ieithoedd, a ffyrdd i baratoi'r llwyfan i iachawdwriaeth. Yn y foment dawelaf, roedd Duw'n gweithio galetaf, mewn cariad (Galatiaid 4:4)."
+  },
+  {
+   "w": "“Dim ond un athro moesol da oedd Iesu / gorchfygiad trasig oedd y groes.”",
+   "t": "Honnodd Iesu mai Duw ei hun ydoedd (Ioan 8:58), ac nid damwain na gorchfygiad oedd y groes ond cariad bwriadol. Ni chafodd ei lusgo yno trwy rym; rhoddodd ei einioes ei hun (Ioan 10:18). “Nid oes gan neb gariad mwy na hyn, sef bod rhywun yn rhoi ei einioes dros ei gyfeillion” (Ioan 15:13)."
+  },
+  {
+   "w": "“Clwb o bobl berffaith yw'r eglwys, neu ddim ond adeilad.”",
+   "t": "Nid cymuned o “seintiau gorffenedig” yw'r eglwys ond o <b>bechaduriaid a faddeuwyd</b>. Galwodd hyd yn oed yr apostol Paul ei hun yn “blaenaf” y pechaduriaid (1 Timotheus 1:15). Roedd yr eglwys gynnar yn dadlau ac yn baglu hefyd (Actau 6:1; 1 Corinthiaid 1:11). Nid lle i ymffrostio mohoni, ond pobl sy'n trosglwyddo'r cariad a dderbyniasant (Ioan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Pechod gwreiddiol — nid oes neb cyfiawn",
+   "body": "Nid “ychydig o weithredoedd drwg” yw'r broblem ond gwreiddyn y galon. Ers Adda, ganwyd pawb dan bechod ac ni allant gyrraedd Duw ar eu pennau eu hunain.",
+   "vref": "Rhufeiniaid 3:10-12, 23",
+   "vtext": "Nid oes neb cyfiawn, nac oes un… y maent oll wedi pechu, ac yn amddifad o ogoniant Duw."
+  },
+  {
+   "title": "Ni all y Gyfraith fy achub",
+   "body": "Nid ysgol yw'r Gyfraith ond drych. Po galetaf y ceisi, mwyaf y dengys mor bell yr wyt yn methu. Ei phwrpas yw ein harwain at Grist.",
+   "vref": "Rhufeiniaid 3:20 · Galatiaid 3:24",
+   "vtext": "Yr hyn a geir trwy'r Gyfraith yw ymwybyddiaeth o bechod… bu'r Gyfraith yn was i warchod trosom hyd nes i Grist ddod."
+  },
+  {
+   "title": "Trwy ras — rhodd, nid ymdrech",
+   "body": "Nid cyflog am haeddiant a enilliaist yw iachawdwriaeth, ond rhodd rad i'r rhai nad ydynt yn ei haeddu. Felly ni all neb ymffrostio.",
+   "vref": "Effesiaid 2:8-9",
+   "vtext": "Trwy ras yr ydych wedi eich achub, trwy ffydd… nid yw'n dibynnu ar weithredoedd, ac felly ni all neb ymffrostio."
+  },
+  {
+   "title": "Wedi'n cyfiawnhau trwy ffydd",
+   "body": "Nid trwy gadw'r Gyfraith ond trwy ffydd yn Iesu Grist y'n cyfrifir yn gyfiawn — wedi'n dilladu nid â'n cyfiawnder ein hunain ond â'i gyfiawnder ef.",
+   "vref": "Rhufeiniaid 5:1 · Galatiaid 2:16",
+   "vtext": "Oherwydd ein bod wedi ein cyfiawnhau trwy ffydd… na chaiff neb ei gyfiawnhau ond trwy ffydd yn Iesu Grist, nid trwy gadw gofynion cyfraith."
+  },
+  {
+   "title": "Mae'r Beibl yn cyfeirio at Iesu",
+   "body": "Nid llyfr am wŷr mawr na llyfr hunangymorth yw'r Beibl. O Genesis i Ddatguddiad, mae pob tudalen yn tystio i un person — Iesu Grist.",
+   "vref": "Ioan 5:39 · Luc 24:27",
+   "vtext": "Tystiolaethu amdanaf fi y mae'r rhain… dehonglodd iddynt y pethau a ysgrifennwyd amdano ef ei hun yn yr holl Ysgrythurau."
+  },
+  {
+   "title": "Teyrnas Dduw — neges ganolog Iesu",
+   "body": "Y thema a ddysgodd Iesu fwyaf. Torrodd teyrnasiad Duw fel Brenin i mewn i'r byd hwn gydag Iesu a'i gwblheir pan ddychwel. Trwy ei groes a'i atgyfodiad, Iesu yw'r gwir Frenin a drechodd bechod, marwolaeth, a Satan.",
+   "vref": "Marc 1:15",
+   "vtext": "Y mae'r amser wedi ei gyflawni ac y mae teyrnas Dduw wedi dod yn agos. Edifarhewch a chredwch yr Efengyl."
+  },
+  {
+   "title": "Yr efengyl — gorffennodd ef y cyfan",
+   "body": "Y ddyled bechod na allwn i byth ei thalu, talodd Iesu hi yn fy lle ar y groes, a thrwy godi gorchfygodd farwolaeth. Nid ar “gwna hyn” yr wyf yn pwyso ond ar “gorffennwyd.”",
+   "vref": "Ioan 19:30 · Rhufeiniaid 5:8",
+   "vtext": "Gorffennwyd… Crist wedi marw drosom pan oeddem yn dal yn bechaduriaid."
+  }
+ ]
+}

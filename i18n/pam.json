@@ -1,0 +1,343 @@
+{
+ "menuName": "Kapampangan",
+ "htmlLang": "pam",
+ "dir": "ltr",
+ "brand": "Ing Biblia king Metung a Scroll",
+ "docTitle": "Ing Biblia king Metung a Scroll · Manibat king Pamanlalang angga king Pisamban",
+ "share": {
+  "title": "Ing Biblia king Metung a Scroll",
+  "text": "King metung mung scroll, tuklasan ya ing maragul a salita ning Biblia — at nung bakit dinatang ya i Jesus."
+ },
+ "ui": {
+  "people": "Ding tau",
+  "events": "Mahalagang milyari",
+  "christLabel": "Tutuldu kang Jesus",
+  "loveLabel": "Lugud a e magsawa",
+  "mythWrong": "Karaniwan a kamalian",
+  "mythRight": "Ing katutuan",
+  "more": "Basan pa",
+  "version": "(Ing Mayap a Balita)"
+ },
+ "labels": {
+  "start": "Pasimula",
+  "thread": "Ing salita",
+  "gospel": "Ing Ebanghelyo",
+  "about": "Tungkul"
+ },
+ "s": {
+  "ui.share": "↗ Ibage",
+  "ui.toast": "Mekopia ne ing link 📋",
+  "ui.footer": "Ing Biblia king Metung a Scroll · Ding kawatas king Biblia ibat la king Ing Mayap a Balita Biblia",
+  "hero.kicker": "MANIBAT KING PAMANLALANG ANGGA KING PISAMBAN",
+  "hero.title": "Ing Biblia,<br><span class=\"em\">king metung a scroll</span>",
+  "hero.sub": "King metung mung scroll, tuklasan ya ing maragul a salita ning Biblia — at nung bakit dinatang ya i Jesus.",
+  "hero.cue": "I-scroll papababa<span>↓</span>",
+  "thread.eyebrow": "METUNG A PANGUNGUSAP A MANYari KING MABILUG A BIBLIA",
+  "thread.h2": "King kapupusan, ing Biblia metung mung salita",
+  "thread.flow": "<b>Pangako</b><span class=\"arw\">→</span><b>Pamanaya</b><span class=\"arw\">→</span><b>Pamagkatupad</b>",
+  "thread.note": "Mangako ya ing Dios (ing kasunduan), manaya la ding tau king malwat a panaun, at king kapupusan ing sablang bage <b>matupad</b> at malubus kang Jesus. Tukyan mu la ding 13 a eksena king lalam king salitang ita — pindut mu ing <b>“Basan pa”</b> king balang card para king mas malalam a salita.",
+  "gospel.eyebrow": "NUNG NANU ING KABALDUGAN NING SALITANG ITI PARA KANAKU",
+  "gospel.h2": "Ing tutung pusu ning Biblia",
+  "gospel.lead": "Ing Biblia <b>e ya metung a librung tutuldu mu na “maging mayap a tau.”</b>",
+  "gospel.sublead": "Iti ya ing salita nung makananu na ning Dios, <b>king grasya mu</b>, liligtas no la ding makasalanan a e malyaring miligtas king sarili ra. King pusu na, mitatalakad ya i Jesu-Cristo.",
+  "gospel.mirror": "<h3>Ing alang angga a siklo ning Israel, ing tutu, larawan na ku</h3><div class=\"cycle\"><b>Pamaglaru king dios-diosan</b><span class=\"a\">→</span><b>Pamagdusa</b><span class=\"a\">→</span><b>Pamananawad</b><span class=\"a\">→</span><b>Liligtas ya ing Dios</b><span class=\"a\">→</span><b>Pamaglaru king dios-diosan pasibayu…</b></div><p>Manibat king Ukum angga king pamipalako, uulitan ne ning Israel iting siklo king alang angga. E ne tinala ning Biblia bang mibiro tamu, “Kaluluya na ra.”</p><p>Iti metung yang <b>salamin</b>. E ya ing puntu “depat da ra itang bage” nune <b>“gagawan ku rin ing makanyan”</b> (1 Corinto 10:11).</p><p>Ing <b>dios-diosan</b> e ya mu metung a estatuwang inukit. Iti ya <b>nanumang kaluguran o pagtiwalan tamung mas maygit king Dios</b> — kuwalta, tagumpe, pamiramdam, tau, agyang ku mismu. At ing pamamie king Dios bilang <b>kasangkapan ban makamit ku ing buri ku</b> dios-diosan ya rin.</p><p class=\"punch\">King kapupusan, ing pekamalalam a dios-diosan ya ing “sarili ku, makalukluk king tronu ning Dios.”</p>",
+  "gospel.coreIntro": "Anya, makananu na ning Dios liligtas ne iting makasalanan? Oini ing pusu ning ebanghelyong sasabian ning Biblia.",
+  "gospel.crux": "<p class=\"crux-lead\">Ing mabilug a Biblia tutuldu ya king metung a lugal.</p><p>E na arapat na ning tau king sarili na ing pamutul king siklo ning kasalanan, at alang taung banal agyang metung. Anya, atin yang dapat <b>mibayad king alaga, kasalili ra</b>.</p><p>I Jesus e ya dinatang ban mamie mu mayap a aral. Uling ala nang aliwa pang paralan ban iligtas naku, <b>kailangan nang dinatang.</b></p><p class=\"crux-punch\">Ing dapat sanang nasabit king krus a ita <b>aku</b>.<br>Selikan nang Jesus <b>ing kasalanan ku</b> at mepaku ya karin, kasalili ku.</p><div class=\"crux-verse\">“Mesugat ya uli da ring kekatamung kasalanan, mebugbug ya uli ning depat tamung e mayap… kinayap tamu king uli ra ding barug a digpa king katawan na.” — Isaias 53:5</div>",
+  "faq.h": "Atin ka pang papagisipan?",
+  "faq.q1": "<span class=\"arr\">▸</span> Anya, ing mamaslang, basta maniwala ya, munta ya banua, a ing tau a mayap ya bie pero e maniwala, munta ya impyerno?",
+  "faq.a1": "<p>Makatwiran a kutang. Oneng atin yang aduang kamalian a maki-tagu kayni.</p><p><b>① E no pipagulpe ning Biblia ding tau king “mayap kontra marok.”</b> Ing sukatan e ya “mas mayap king kasiping” nune “ing ganap a kabanalan ning Dios.” King arapan na, alang taung “mayap a mayap” (Roma 3:23). Anya, e iti “mayap a tau kontra mamaslang,” nune mas anti la ring aduang taung paparas king kamatayan king saking sakit — ing metung tatanggap ne ing lunas, a ing aliwa tatanggi ne, ngana, “Mas masalese ku kesa ketang tau.”</p><p><b>② Metung mu a bage ing pipanibala king banua at impyerno.</b> E ya ing iskor ning ugali, nune <b>nung tinanggap me i Jesu-Cristo bilang Ginu at miresolbe ne ing problema mung kasalanan.</b> Ing taung miresolbe ne ing kasalanan na king daya nang Cristo munta ya banua; ing e na man tinanggap, a manatili ya ing kasalanan na, e ya. Alang dakal a mayap a ugali a makaresolbe king problemang kasalanan a ita.</p><p>Anya, ing banua at impyerno e la “premyu king mayap a ugali” nune kabaldugan na ning <b>pisanibatan kang Cristo</b>. At ing “pamaniwala” e ya mu pamiyabe ning isip nune pamanyalili nung ninu ing mamuntuk king bie mu — ing ninumang tutung tatanggap keya, e ya magmaragul nune mas malalam yang sisi. Ing tutu, ing pamagmatulid king sarili (“mayap a tau ku”) ya ing pekamasanting a dios-diosan a alunan, ing makapagisip kekatamung e tamu kailangan i Cristo (Lucas 18:9-14).</p><p>Maliwanag yang sasabian ning Biblia: <b>“E ya miyatulan kaparusan ing ninumang maniwala keya; oneng miyatulan ne ing e maniwala keya”</b> (Juan 3:18). Ing atul e ya “pagisko ning bie mu kaybat mu mate,” nune medesidi na uli na ning <b>nung tinanggap me i Cristo</b>.</p><p class=\"faq-v\">Roma 3:23 · Juan 3:18 · Efeso 2:8-9 · Lucas 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> E na sapat a maging mayap a tau ku, agyang e ku maniwala kang Jesus?",
+  "faq.a2": "<p>Iti ya ing pekakaraniwan a kaisipan, oneng mali ya ing pamaintindi king tutung problema. Oini ing metung a larawan.</p><p><b>Isipan mu na atyu ka king metung a barkung pirata.</b> Agyang nung makananu mung paglinisan ing kubyerta, magmaganaca ka karing kasama, masanting ya ing bie mu — <b>pirata</b> ka pa murin, uling daragan da ka king barku angga king pupuntalan na (ing puwertu ning atul). Ing problema e ya “iskor ning ugali” nune <b>“nung makananu kang barku” (ing pamikilanlan mu)</b>.</p><p>Anya, ing ebanghelyo e na sasabian, “magsikap kang mas maging mayap”; sasabian na, <b>“magsalili kang barku.”</b> Babang ka king barku ning kasalanan at lumipat kang Jesus — king bayung pamikilanlan na ning <b>anak ning Dios</b>. E iti pamamitas king iskor mu king sikap, nune pamagtiwala king Ya a magpalawe king gamat na, at pamanlipat king barku na.</p><p>Ing tutu, dening salese ning Biblia ing kaligtasan bilang ing pamanlipat a iti — <b>“Linigtas na katamu king upaya na ning karalumduman at linipat na katamu king kayarian na ning Anak nang pakamalan”</b> (Colosas 1:13).</p><p>E mu papagkamalan: <b>e kabaldugan na nita king alang halaga ing mayap a bie.</b> Ing kayapan e ya “kundisyun” ning kaligtasan nune <b>bunga</b> na. Ing minalili nang barku mie ne king mayap, e na uli ning takut, nune uli ning <b>lugud ning metung a anak</b>.</p><p class=\"faq-v\">Colosas 1:13 · Juan 1:12 · Juan 3:3 · Efeso 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Nung ing mamye sakit malino ya ing pamiramdam, sasabian na “pepatawad naku ne ning Dios,” kabang ing biktima magdurusa ya pa — e mura ya ing grasyang ita?",
+  "faq.a3": "<p>Makatwiran ya ing kutang, at tutu ya ing sakit. Oneng ing paniwalang ita e ya “pamipatawad ning Biblia” — <b>pamipangit</b> ya nita.</p><p><b>① Ing pamipatawad ning Dios e ya kapilan man mura.</b> Ing kasalanan e ya tatakpan a anti mong “e meyari”; ing Dios mismu bineyad na ing alaga na king bie na ning sarili nang Anak. Ing krus e ya patutu king kayatlan king kasalanan, nune king kabayatan na — ing pekamal a pamipatawad king yatu.</p><p><b>② Ing tutung pamanyisi mabunga ya.</b> Nung ing mamye sakit malino ya king arapan na ning biktima — “pepatawad naku ne ning Dios, anya malino ku” — e iti pamanyisi nune gaya-gaya na mu nita (Mateo 3:8). At ing pamipatawad king pilatan na ning tau at Dios e na pinaspas ing sugat ning biktima ni pipilitan na ya bang mamatawad.</p><p><b>③ Ing kasalanan e ya kapilan man basta “pababustan.”</b> Balang kasalanan mibayad ya king metung karing aduang lugal — <b>o sikanan nang Cristo king krus</b> (para karetang maniwala keya alang nang kaparusan, Roma 8:1), <b>o sikanan na ning ninumang tatanggi keya angga king kapupusan.</b> Anya, alang “murang pamipatawad.” Ing mamye sakit atin ya muring pananagutan king atul ning yatung iti (Roma 13:1-4).</p><p><b>④ Ding lua na ning biktima e la kapilan man malati king arapan na ning Dios.</b> Tatangis yang kayabe da ring tatangis ing Dios, gagaganakan na la ding balang lua, at king kapupusan, ya mismu ing mamulisan kareti (Apocalipsis 21:4). Anya, ing biktima e na kailangan dalan ya mu sarili na ing bayat ning pamablas, nune malyari nang ipanibala king Dios a matulid (Roma 12:19 — “Aku ing mablas, aku ing singil, ngana ning Ginu”).</p><p class=\"faq-v\">Mateo 3:8 · Roma 8:1 · Roma 13:1-4 · Apocalipsis 21:4</p>",
+  "respond.h3": "Anya — nanu ing daptan ku?",
+  "respond.sub": "Ing lugud a iti e ya impormasyun nune metung yang <b>imbitasyun</b>. Nung ing lugud a mepaku kasalili mu kinawat ne ing pusu mu, manalangin ka ngeni a marimla, balang dikil.",
+  "respond.prayer": "<p>Dios,</p><p>tinggap ku king makasalanan ku a e malyaring miligtas king sarili ku.</p><p>Maniwala ku king mete ya i Jesus king krus para kanaku at mibie yang pasibayu.</p><p>Pakipatawaran mu la ding sablang kasalanan ku, at manibat ngeni maging Ginu na ka ning bie ku.</p><p>Tanggapan mu ku bilang anak mu, at pabiyayan mu ku king bayung bie.</p><p class=\"amen\">King lagyu nang Jesus manalangin ku. Amen.</p>",
+  "respond.after": "Nung tunay mung pinanalangin iti, sasabian na ning Biblia king <b>meging anak na ka ning Dios</b>. E na ka mu sarili — manintun kang pisamban a malapit at maglakad kang kayabe da reng aliwa king dalan ning kasalpantayanan.",
+  "respond.verse": "“Karetang tinanggap at meniwala keya binie na ing karapatan a maging anak na la ning Dios.” — Juan 1:12 · Roma 10:9-10",
+  "closing.main": "Metung a Dios,<br>king metung a salita,<br>panintunan na katamu king metung a <em>lugud</em><br>a e magsawa.",
+  "closing.verse": "“Agyang ing kamatayan o ing bie man… ing nanumang melalang, e na katamu kapilan man malyaring ikawani king lugud na ning Dios kang Cristo Jesus a Ginu tamu.” — Roma 8:38-39",
+  "closing.small": "King ibabo na ning salitang iti, ding Kautusan, ding Tula, ding Propeta, at ding Sulat daragdag da ing “laman.”<br>Manibat ngeni, nanu mang libru ing buklatan mu, akakit mu nung nukarin ka king salita.",
+  "closing.share": "↗ Ibage ya ing salitang iti",
+  "about.line": "Mibatay king pamanakit a <b>kasaysayan-pamanatubus, ebanghelikal · reformado</b> a pisanmetung da ring kalakalan king Korea a Protestante.",
+  "about.contact": "Mga kutang · puna — <a id=\"contact\" class=\"mail\">Sumulat kekami</a>"
+ },
+ "epochs": [
+  {
+   "tag": "MATUANG TIPAN · PASIMULA",
+   "title": "Pamanlalang",
+   "date": "King pasimula",
+   "one": "Linalang na ning Dios ing metung a yatung “mayap a mayap.”",
+   "people": "Dios; i Adan at i Eva",
+   "events": "Anam a aldo a pamanlalang, ing tau melalang king larawan ning Dios, ing pamagpainawa king Sabbath",
+   "q": "King pasimula, lelangan ne ning Dios ing banua at ing yatu.",
+   "cite": "Genesis 1:1",
+   "christ": "Ing yatu melalang ya king kapamilatan na ning “Amanu.” Sasabian na ning Ebanghelyo nang Juan king ing Amanu a ita i Jesus mismu (Juan 1:1-3).",
+   "detail": "<p>Ing Biblia e ya mamuklat king metung a pamipasiya pilosopiko nune king metung a pamipahayag: <b>“King pasimula, ing Dios…”</b> Ing yatu e ya aksidente nune dapat na ning metung a Dios a personal.</p><ul><li><b>Ing larawan ning Dios</b> · king sablang melalang, ding tau mu ing melalang a mikakanti king Dios — ban akilala re at ingatan de ing yatu.</li><li><b>Pamagpainawa</b> · ing pamagpainawa king katpitung aldo pakit na king sablang bage lubus at king kapayapan (shalom): “mayap ya.”</li><li><b>Eden</b> · ing yatu bayu ya mibasag, nung nukarin ing Dios at ding tau maglakad lang misanmetung.</li></ul>",
+   "next": "Oneng iting kalubusan malapit na yang mibasag…"
+  },
+  {
+   "tag": "MATUANG TIPAN · MAGPASIMULA ING PROBLEMA",
+   "title": "Ing Pamagkasala",
+   "date": "King pasimula",
+   "one": "Linub ya ing kasalanan, at mepatd ya ing pisanibatan ning tau at Dios.",
+   "people": "I Adan at i Eva; ing ulupong (Satanas)",
+   "events": "Ing pamangan king ipinagbawal a bunga, ing pamipalako king Eden, ing pamanatang ning kamatayan at pamagpagal",
+   "q": "Mikasama kayu ning babai… Lasawan de ring anak na ing buntuk mu.",
+   "cite": "Genesis 3:15",
+   "christ": "Ing mumunang pangako ning ebanghelyo, mibie tambing kaybat ning Pamagkasala: ing “anak ning babai” lasawan na ing buntuk ning ulupong — at iti i Jesus (Genesis 3:15; Roma 16:20; Galacia 4:4).",
+   "detail": "<p>Kapamilatan na ning pamisuway king pamagbiri a “maging anti king Dios,” linub ya ing kasalanan king yatu. Ing bunga e ya mu metung a mebasag a tuntunin nune <b>metung a mebasag a pisanibatan</b>.</p><ul><li><b>Mebasag a pisanibatan</b> · king Dios (pamanyalikut), king metung at metung (pamamintang), king kalikasan (sapinit at pamagpagal).</li><li><b>Kamatayan</b> · ing babala a “mate ka” meging katutuan.</li><li><b>Genesis 3:15</b> · oneng king kalibutbutan na ning atul, ing pangakung pamanligtas mumuna yang datang. Aausan da ning mga iskolar a <b>“protoevangelium” (ing mumunang ebanghelyo)</b>.</li></ul>",
+   "next": "Ngeni mananawag ya ing Dios king metung a lalaki ban magpasimula ing pamanligtas…"
+  },
+  {
+   "tag": "MATUANG TIPAN · ING PANGAKO",
+   "title": "Ding Patriarka",
+   "date": "c. 2000 BC",
+   "one": "Mangako ya ing Dios kang Abraham, “Maging dalan kang bendisyun.”",
+   "people": "Abraham · Isaac · Jacob · Jose",
+   "events": "Ing kasunduan kang Abraham, ing pamanaldak kang Isaac, ding labinaduang anak nang Jacob, ing pamayatas nang Jose king Ehipto",
+   "q": "Gawan da kang metung a maragul a bansa… kapamilatan mu bendisyunan ku la ding sablang bansa.",
+   "cite": "Genesis 12:2-3",
+   "christ": "Ing pangako a “bendisyunan da la ding sablang bansa” matupad ya kang Jesus, ing anak nang Abraham (Galacia 3:16).",
+   "detail": "<p>Maglapad ya ing Dios king pamigsolusyun king problema na ning mabilug a katauan king pamananawag king metung a lalaki, i <b>Abraham</b>. Ing pusu na ya ing <b>kasunduan (pangako)</b> — metung a maragul a bansa, metung a labuad, at “bendisyun para king sablang bansa.”</p><ul><li><b>Kasalpantayanan</b> · meniwala ya i Abraham king metung a pangakung e akakit, at mibilang ya kaya bilang katuliran (Genesis 15:6).</li><li><b>Isaac at Jacob</b> · ing pangako mipasa ya; i Jacob (Israel) tatang na la ding labinaduang tribu.</li><li><b>Jose</b> · pisali da ring kapatad na oneng mipayatas — “para king kayapan ya iti kanu ning Dios” (Genesis 50:20).</li></ul>",
+   "next": "Tinuki kang Jose, ing pamilya minabang ya king Ehipto — at meging ipus…"
+  },
+  {
+   "tag": "MATUANG TIPAN · PAMANATUBUS",
+   "title": "Ing Pamako at Ilang",
+   "date": "c. 1446 BC",
+   "one": "Linigtas no la ning Dios ding taung ipus at ginawa no la sarili na.",
+   "people": "Moises, Aaron, Faraon",
+   "events": "Ding apulung salut, ing Pamako, ing pamanglakbe king Pulang Dayatmalat, ding Apulung Utus king Sinai, ing tabernakulo, 40 banwa king ilang",
+   "q": "Gawan da kayung sarili kung memalen, at aku ing maging Dios yu.",
+   "cite": "Exodo 6:7",
+   "christ": "Ing Pamako — nung nukarin ing daya ning kordero binawi na ing kamatayan — tutuldu ya kang Jesus, ing “kordero tamung Pamako,” mepaku ya para kekatamu (1 Corinto 5:7).",
+   "detail": "<p>Ing pekamaragul a pamanligtas king Matuang Tipan. Ing dating-ipus a Israel meging mabanwa king upaya na ning Dios at mehugis bilang <b>memalen</b> na.</p><ul><li><b>Pamako</b> · ing bale a mamarkawan na ning daya ning kordero linaktawan ne ning kamatayan — ing huwaran king likud na ning balang daus a saday.</li><li><b>Ing Pulang Dayatmalat</b> · pamanligtas nung nukarin maganan ne ing dalan; ing “pamanlakbe” meging tanda na ning bayung pamagpasimula.</li><li><b>Kasunduan king Sinai</b> · king kapamilatan da ring Utus aaralan da nung makananu mie bilang memalen ning Dios.</li><li><b>Tabernakulo</b> · metung a santuwaryung magagalo nung nukarin manuknangan ya ing Dios king pilatan da ring memalen na — metung a pamatikman king “Emmanuel.”</li><li><b>40 banwa</b> · ing pamisuway pakirat na ne ing metung a salinlahi king ilang, oneng manatili yang malapit ing Dios kayabe ne ing manna at ing aslag ning ulap at api.</li></ul>",
+   "next": "Makatalakad king gilid na ning labuad pengaku, sususan dang lub…"
+  },
+  {
+   "tag": "MATUANG TIPAN · PAMANUKNANGAN",
+   "title": "Pamanakup at Ding Ukum",
+   "date": "c. 1400–1050 BC",
+   "one": "Akamit da ing labuad, oneng alang ari, balang metung gagawan na itang buri na.",
+   "people": "Josue; ding ukum a anti la kang Gideon at Samson; Rut",
+   "events": "Ing pamibagsak na ning Jerico, ing pamanuknangan king Canaan, ing uulitan a siklo ning kasalanan–atul–pamanligtas",
+   "q": "Ala pang ari king Israel kanitang panaun a ita. Daraptan na ning balang metung at metung itang buri nang daptan.",
+   "cite": "Ukum 21:25",
+   "christ": "Manibat king lahi nang Rut datang ya i David, at manibat king lahi nang David datang ya i Jesus (Mateo 1). Agyang king kagulu, manatili ya ing lahi na ning Mesias.",
+   "detail": "<p>Lalam nang Josue lulub la king labuad pengaku, oneng kaybat dang manuknangan kalalu rang lilingwan ing Dios. Ing Ukum ya ing siklong uulitan.</p><ul><li><b>Ing pababang siklo</b> · kasalanan → pamanyiil → pamananawad → maligtas king kapamilatan na ning ukum → kasalanan pasibayu. Lalu yang lalu mararawak.</li><li><b>Ding ukum</b> · Gideon, Samson, Debora — pansamantalang taligtas, magiting oneng mitmu lang kakulangan.</li><li><b>Rut</b> · metung a maliwanag a salita ning katapatan king maderang panaun; metung a babaing dayuan lulub ya king lahi nang David (at Jesus).</li></ul>",
+   "next": "Mananawad la ding tau, “Dinan yu kaming ari!”…"
+  },
+  {
+   "tag": "MATUANG TIPAN · GINTONG PANAUN",
+   "title": "Ing Misanmetung a Kayarian",
+   "date": "c. 1050–930 BC",
+   "one": "Mangako ya ing Dios kang David, “Ing tronu mu manatili king kapilan pa man.”",
+   "people": "Saul · David · Solomon",
+   "events": "Ing mumunang ari a Saul, i David at i Goliat, ing kasunduan kang David, tinalakad ne ning Solomon ing templo",
+   "q": "Manatili ya ing kekang pamilya at ing kekang kayarian. Manatili ya ing kekang tronu king kapilan pa man.",
+   "cite": "2 Samuel 7:16",
+   "christ": "Ing “tronung alang angga” matupad ya kang Jesus, ing anak nang David — anya aausan de “Anak nang David” (Lucas 1:32-33; Mateo 1:1).",
+   "detail": "<p>Ing taluktuk ning Israel, mamuntukan da ring atlung ari.</p><ul><li><b>Saul</b> · ing ari a inad da ring tau; mayap a pasimula a sinira na ning pamisuway.</li><li><b>David</b> · “metung a lalaking ayayun king pusu na ning Dios.” Tinalu ne i Goliat at gewa neng kabisera ing Jerusalem. Mikasala yang maragul (Betsabe) oneng sinisi yang king pusu (Salmo 51).</li><li><b>Ing kasunduan kang David (2 Samuel 7)</b> · mangako ya ing Dios a italakad na ing lahi nang David king kapilan pa man — ing desisibung lamut ning panenayan king Mesias.</li><li><b>Solomon</b> · king taluktuk ning kabiasnan at kayamanan tinalakad ne ing <b>templo</b>, oneng king tauling panaun lumiku ya karing dios-diosan.</li></ul>",
+   "next": "Kaybat nang Solomon, ing kayarian mibingi ya king adua…"
+  },
+  {
+   "tag": "MATUANG TIPAN · PAMANUKDU",
+   "title": "Ing Mibingi a Kayarian",
+   "date": "930–586 BC",
+   "one": "Mebingi king mauli (Juda) at paroba (Israel), at mukdu yang mukdu ing bansa.",
+   "people": "Ding ari ra ding aduang kayarian; ding propetang anti la kang Elias, Isaias, Jeremias",
+   "events": "Ing pamibingi na ning kayarian, ing pamaglaru king dios-diosan kumalat ya, papabala la ding propeta",
+   "q": "Manibat na kanita menatili lang mag-rebeldi ding memalen ning Israel laban king pamilya nang David.",
+   "cite": "1 Ari 12:19",
+   "christ": "King panaun a iti pipropesiyan da ring propeta ing datang a Mesias king maliwanag a maliwanag (Isaias 9:6; Isaias 53).",
+   "detail": "<p>King panaun na ning anak nang Solomon mibingi ya ing bansa: <b>ing paroba a kayarian ning Israel</b> (10 tribu, kabisera Samaria) at <b>ing mauli a kayarian ning Juda</b> (2 tribu, kabisera Jerusalem).</p><ul><li><b>Israel (paroba)</b> · balang ari na maglingkud ya karing dios-diosan; mibagsak ya king Asiria king 722 BC.</li><li><b>Juda (mauli)</b> · manatili ya ing lahi nang David, kayabe ne ing pilang mayap a ari anti kang Ezekias at Josias, oneng king kabuuan mukdu ya.</li><li><b>Ding propeta</b> · Elias, Amos, Isaias, Jeremias mananawad “mibalik kayu!” Ing propesiya king Mesias miras ya king pekamayaman a puntu keni (ing “magdurusang lingkud” king Isaias 53).</li></ul>",
+   "next": "King kapupusan datang ya ing atul a pengaku — derag da la patungung pamipalako…"
+  },
+  {
+   "tag": "MATUANG TIPAN · ATUL",
+   "title": "Ing Pamipalako",
+   "date": "722 / 586 BC",
+   "one": "Mibagsak ya ing bansa at dinalan da la ding tau king dayuang labuad.",
+   "people": "Daniel, Ezekiel, Nabucodonosor",
+   "events": "Mibagsak ya ing Israel king Asiria (722), mibagsak ya ing Juda king Babilonia at miragsak ya ing templo (586)",
+   "q": "Karing pampang ding ilug ning Babilonia karin kami pakalukluk, at manangis inyang agaganaka mi ya ing Zion.",
+   "cite": "Ding Dalit 137:1",
+   "christ": "King kalalaman na ning pamagdusa, mangako ya i Jeremias king metung a “bayung kasunduan” (Jeremias 31:31) — ing kasunduan a mismung selyuwan nang Jesus king Tauling Apunan.",
+   "detail": "<p>Matupad la ding babala. Mira ya ing templo at dinalan da la ding tau king Babilonia — mauala ing labuad, ing ari, at ing templo: ing pekamababang puntu king sabla.</p><ul><li><b>Aduang pamibagsak</b> · Israel (Asiria, 722 BC) at Juda (Babilonia, 586 BC).</li><li><b>Daniel</b> · metung a huwaran ning kasalpantayanan agyang king pakanwan a pagano (ing lungib ding leon); akakit na la ding pangaisip ning metung a “kayariang alang angga” a datang.</li><li><b>Metung a kislap ning panenayan</b> · ing pangaisip nang Ezekiel king ding tuyu a butul mie la pasibayu (Ezekiel 37) at ing “bayung kasunduan” nang Jeremias tutuldu la king bukas king dalumdum.</li></ul>",
+   "next": "Pitumpulung banwa kaybat, mibuklat ya ing Dios king dalan — muli la king bale…"
+  },
+  {
+   "tag": "MATUANG TIPAN · PAMANUMBALIK",
+   "title": "Ing Pamibalik",
+   "date": "538–430 BC",
+   "one": "Muli la at tinalakad da pasibayu ing templo at ding kuta.",
+   "people": "Esdras, Nehemias, Ester, Zerubabel",
+   "events": "Ing pamibalik king utus nang Ciro, ing pamipatalakad king templo, ing pamipasanting da ring kuta ning Jerusalem, ing pamanumbalik king Amanu",
+   "q": "Ing tula a babie na ning Ginu kekayu ya ing kekayung sikanan.",
+   "cite": "Nehemias 8:10",
+   "christ": "Ing Malaquias, ing tauling libru ning Matuang Tipan, mamusan ya king pamipropesiya king metung a sugu a sasadyan ne ing dalan na ning Mesias: “Tubud ku ing sugu ku” (Malaquias 3:1).",
+   "detail": "<p>King utus na ning ari ning Persia a Ciro (538 BC) magpasimula ya ing pamibalik. King atlung balon muli la at tinalakad da pasibayu ing meragsak.</p><ul><li><b>Zerubabel</b> · tinalakad ne pasibayu ing templo (mebigtas king 516 BC).</li><li><b>Esdras</b> · tinuldu ne pasibayu ing Amanu at biniayang muli ne ing kasalpantayanan.</li><li><b>Nehemias</b> · tinalakad na la pasibayu ding kuta ning Jerusalem king 52 aldo.</li><li><b>Ester</b> · liligtas no la ding Judio king Persia king pamaglipul — “para king panaun a iti.”</li><li><b>Manatili ya ing pamananasa</b> · makatalakad ya ing templo, oneng alang aring anti kang David. Manaya la ding tau king Mesias.</li></ul>",
+   "next": "At kaybat… anti mong tinikip ya ing banua, milabas ya ing 400 banwa."
+  },
+  {
+   "tag": "PILATAN DA RING TIPAN · PAMISADYA KING ENTABLADO",
+   "title": "Ding Tikmang Banwa",
+   "date": "c. 430–4 BC",
+   "one": "400 banwang alang siwala ning propeta — oneng tikmang misasadya ya ing entablado.",
+   "people": "Alejandro a Maragul, ding Macabeo, Roma",
+   "events": "Persia → Griego → kalayan da ring Macabeo → pamamuntuk ning Roma",
+   "q": "Inyang miras na ing mituldung panaun, tinubud ne ning Dios ing Anak na. Mibait ya king metung a babai.",
+   "cite": "Galacia 4:4",
+   "christ": "Ing mabilug a “pamisadya king entablado” a iti dapat na ning Dios bang datang ya i Jesus king eksaktung “pamisuldung panaun.”",
+   "detail": "<p>Manibat king Malaquias angga king Bayung Tipan, mga 400 banwa ing milabas a alang bayung Kasulatan. Oneng king likud na ning kasaysayan sasadyan na ning Dios ing dalan para king ebanghelyo.</p><ul><li><b>Mibabayu la ding kaharian</b> · Persia → Griego (Alejandro, 333 BC) → ding Ptolomeo at Seleucida → ing pamiyalsa da ring Macabeo (167 BC) → Roma (63 BC).</li><li><b>Griego</b> · ing pamananakup nang Alejandro ginawa neng karaniwan a amanu ing Griego; ing Matuang Tipan mesalin king Griego (ing Septuaginta), a sinadya king dalan ban masias kumalat ya ing ebanghelyo.</li><li><b>Dalan at kapayapan ning Roma</b> · ding mayap a dalan at ing “Pax Romana” meging dalan king misyun.</li><li><b>Ding sinagoga at partidu</b> · ing pamituldu king sinagoga lumamut ya; lulto la ding Fariseo at Saduceo; at lulutu ya ing <b>pamananasa king Mesias</b>.</li></ul>",
+   "next": "Kaybat, mabasag ya ing katikman — king kapupusan, datang ne."
+  },
+  {
+   "tag": "BAYUNG TIPAN · PAMAGKATUPAD",
+   "title": "Datang ya i Jesus",
+   "date": "c. 4 BC–AD 30",
+   "one": "Ing Mesias a pengaku dinatang ya, mete, at mibie yang pasibayu.",
+   "people": "Jesus, ding labinaduang alagad, Juan a Mananyawad",
+   "events": "Ing pamagkatawan, ing pamituldu na at milagru na, ing kamatayan king krus, ing pamibie king katlung aldo",
+   "q": "Meging tau ya ing Amanu at mekipanuknangan ya kekatamu… ing kamalan na a mitmung lugud at katutuan.",
+   "cite": "Juan 1:14",
+   "christ": "Ing anak ning babai (eksena 2), ing bendisyun nang Abraham (3), ing kordero ning Pamako (4), ing aring alang angga nang David (6), ing bayung kasunduan (8) — sablang matupad king metung a tau, i Jesus: ing tutu tamung Propeta, Sacerdote, at Ari.",
+   "detail": "<p>Mabasag ya ing katikman; datang ya ing Pengaku. Ding apat a Ebanghelyo magpatutu la king bie, kamatayan, at pamibie nang Jesus manibat king apat a panig.</p><ul><li><b>Pamagkatawan</b> · ing Dios meging tau (Emmanuel, “Dios a kayabe tamu”), king mababang lugal ning Betlehem.</li><li><b>Pamituldu</b> · tutuldu ne ing kayarian ning Dios, papakayap na la ding misasaki, mananawag na la ding makasalanan. “Ing mekakit kanaku mekit ne ing Ibpa.”</li><li><b>Ing krus</b> · bineyad na, kasalili tamu, ing alaga ning kasalanan at kamatayan a dinatang king Pamagkasala (eksena 2). Ing tutung kordero ning Pamako.</li><li><b>Pamibie</b> · linwal yang mabie king katlung aldo, libag na ing upaya ning kasalanan, kamatayan, at Satanas — king krus pa mu “linupig na lang Cristo ding pamuntuk at upayang espiritual… kaybat ning pamagtagumpe na” (Colosas 2:15).</li></ul><p>Anya i Jesus ing tutu tamung <b>Propeta</b> (papakit na ing dalan king Dios), tutu tamung <b>Sacerdote</b> (tatakpan na ing kasalanan king katawan na mismu), at tutu tamung <b>Ari</b> (linupig na ing kasalanan, kamatayan, at Satanas at mamuntuk king kapilan pa man).</p>",
+   "next": "Ing mebie nang pasibayu a Jesus tutubud na la ding alagad na king yatu…"
+  },
+  {
+   "tag": "BAYUNG TIPAN · PAMANLAPAD",
+   "title": "Magpasimula Ya ing Pisamban",
+   "date": "c. AD 30–",
+   "one": "Datang ya ing Espiritu, at kumalat ya ing ebanghelyo angga karing wakas ning yatu.",
+   "people": "Pedro, Pablo, ing mumunang pisamban",
+   "events": "Ing pamibuldak na ning Espiritu king Pentecostes, mibait ya ing pisamban, kumalat ya ing ebanghelyo manibat Jerusalem angga Roma king kapamilatan na ning pamaniil",
+   "q": "Mikatmuan kayung upaya potang datang ne kekayu ing Banal a Espiritu… angga na karing wakas ning yatu.",
+   "cite": "Ding Dapat 1:8",
+   "christ": "Ing salitang iti tutuloy ya pa angga ngeni. Mamusan ya ing Biblia king pamipangako king i Jesus datang ya pasibayu at gawan na lang bayu ngan ding sablang bage (Apocalipsis 21).",
+   "detail": "<p>Kaybat nang menik i Jesus, datang ya ing Espiritu a pengaku king Pentecostes at mibait ya ing pisamban. Kumalat yang masias ing ebanghelyo.</p><ul><li><b>Pentecostes</b> · king kapamilatan na ning Espiritu, ding alagad a takut meging matapang a saksi.</li><li><b>Pedro</b> · isasaysay na ing ebanghelyo karing Judio king Jerusalem.</li><li><b>Pablo</b> · manibat manyiil meging apostol, tatanam yang pisamban king mabilug a yatung Gentil at sumulat ya karing sulat.</li><li><b>Angga karing wakas</b> · Jerusalem → Judea → Samaria → Roma. Ing pangakung “sablang bansa” kang Abraham meging katutuan.</li><li><b>At ikatamu</b> · ing salita e ya mamusan; lalakad ya patungung pamibalik nang Jesus at ing bayung banua at bayung yatu.</li></ul>",
+   "next": "Oneng ing salita e ya mamusan keni…"
+  },
+  {
+   "tag": "BAYUNG TIPAN · PAMAGLUBUS",
+   "title": "Pamanumbalik (Bayu Ngan)",
+   "date": "Daratang pa",
+   "one": "Datang ya pasibayu i Jesus at gawan na lang bayu ngan ding sablang bage.",
+   "people": "Ing Jesus a datang pasibayu; ding sablang bansa",
+   "events": "Ing pamibalik, ing tauling atul, ing wakas ning kasalanan·kamatayan·lua, metung a bayung banua at bayung yatu",
+   "q": "Pulisan na ing lua karing mata ra. Mawala na ing kamatayan, ing kalungkutan, ing tangis, at ing kaplas.",
+   "cite": "Apocalipsis 21:4",
+   "christ": "Ing Eden na ning mumunang pamanlalang miumbalik ya king kapupusan bilang ing “Bayung Jerusalem.” Manuknangan ya ing Dios kayabe na la ding memalen na king kapilan pa man — ing kalubusan ning Emmanuel (Apocalipsis 21:3; Mateo 1:23).",
+   "detail": "<p>Ing Biblia e ya mamusan king panaun ning pisamban. Ing tauling libru na, ing Apocalipsis, papakit na i Jesus a <b>datang pasibayu</b> ban lubusan na ngan.</p><ul><li><b>Ing pamibalik</b> · ing aring pengaku datang yang pasibayu king kamalan.</li><li><b>Ing tauling tagumpe</b> · ding Satanas at kamatayan mialis king kapilan pa man, at mamuntuk ya i Cristo bilang Ari da ring ari (1 Corinto 15:25-26; Apocalipsis 20:10).</li><li><b>Atul at pamibie</b> · balang kalisya mituldu, at ding mete mibie la pasibayu.</li><li><b>Bayung banua at bayung yatu</b> · ing kasalanan, kamatayan, lua, at kaplas mauala king kapilan pa man (Apocalipsis 21:4).</li><li><b>Ing Eden a miumbalik</b> · king metung a “Bayung Jerusalem” a mas mayap kesa king pasimula, manuknangan ya ing Dios kayabe na la ding memalen na king kapilan pa man — ing pupuntalan a tutuldu ya ing mabilug a Biblia.</li></ul><p>Anya ngeni ya ing panaun na ning <b>“atin na, oneng e pa”</b>: kang Jesus ing kaligtasan <b>atin na</b> mibigtas, oneng ing kalubusan na <b>e pa</b> ya makatanaya.</p>",
+   "next": "Anya, nanu ing kabaldugan na ning mabilug a salitang iti para kanaku?"
+  }
+ ],
+ "love": [
+  "Ing pasimula na ning salita e ya atul nune metung a yatung melalang king lugud a agus.",
+  "Inyang mikasala la ding tau, mengako ya ing Dios king pamanligtas tambing karin mismu.",
+  "Mumuna yang dinatang ing Dios king metung a lalaking e dapat, ineng ne king lagyu na, at ginawa neng dalan ning bendisyun.",
+  "Dimdam na ing daldal da ring taung ipus at binaba ya mismu bang iligtas no la.",
+  "Pesublyan da ya pasibayu at pasibayu, oneng balang pananawad da tutubud yang taligtas at iyatas no la pasibayu.",
+  "E ne man tinakwilan ing mebaldug a David; king kapamilatan na mengako yang metung a Aring alang angga.",
+  "Karing taung tinalikud keya, manatili yang tutubud propeta, mananawad, “Mibalik kayu pakisuyu.”",
+  "Tinuki ya karela angga king pekamadalumdum a labuad ning pamipalako, at mengako yang pamanumbalik.",
+  "Agyang karing taung mikasala pasibayu at pasibayu, e na binawi ing pangako na, nune iyatas no la pasibayu.",
+  "Agyang king 400 banwang tikman, alang akit, sasadyan na ing dalan ning kaligtasan.",
+  "Kanitang makasalanan tamu pa, tinubud ne ing Anak na bang ibie ne ing bie na.",
+  "Ing lugud a tinanggap tamu, tutubud na ngeni bang umagus king mabilug a yatu.",
+  "King kapupusan pulisan na ngan ding lua at gawan na lang bayu ngan ding sablang bage king lugud."
+ ],
+ "mis": [
+  {
+   "w": "“Baket lelangan ne ning Dios ing metung a malyaring mikasala? E sana mas mayap nung e na kami linalang?”",
+   "t": "Linalang na ning Dios ing yatu at ding tau e uli ning nanumang kakulangan, nune uli ning lugud a aagus. Ing pamanggawa king tau bilang <b>taung malyaring misanibatan king Dios</b> lugud ya naman. At agyang ing pamanlub ning kasalanan e ya milwal king plano na ning Dios king pamanligtas (Efeso 1:4-5). Ing mumunang eksena ning Biblia e ya atul nune lugud."
+  },
+  {
+   "w": "“Mipalako at mibie kamatayan uli mu ning pamangan king metung a bunga — e ya kaba ya pamu ing Dios?”",
+   "t": "Ing pamipalako king Eden atul ya at, king kapareu, awa. Nung, mialis king Dios at king mebasag a kalagayan a ita, ing tau mengan king dutung ning bie at mie king kapilan pa man, makulung ya king pamagdusa king kapilan pa man (Genesis 3:22). Ing pamipaintulut king kamatayan binuklat ya ing dalan a pamibalik; at karin mismu mengako ya ing Dios king metung a Talapagligtas (Genesis 3:15). King atul atin nang lugud."
+  },
+  {
+   "w": "“Pinili ya i Abraham uli ning maragul a kasalpantayanan na — e la nganan bayani king kayapan ding tau king Biblia?”",
+   "t": "Mibulaan ya rin i Abraham at miduda, at i Jacob magdaya ya. E na inad da ring tau ning Dios ding “kuwalipikadu” nune ding e ganap, king grasya na. Ing dahilan ning pamamili e ya ing kayapan da nune ing tapat a lugud ning Dios (Deuteronomio 7:7-8)."
+  },
+  {
+   "w": "“E la wari ing Kautusan (ding Utus) metung a egzaminadu o kundisyun a kailangan mung makapasa bang miligtas?”",
+   "t": "Linigtas no la ning Dios <b>bayu</b> na binie ing Kautusan. Agyang ding Apulung Utus magpasimula la king metung a pamipahayag king kaligtasan: “Aku ing Ginung kekayung Dios a milual kekayu ibat Ehipto” (Exodo 20:2). Ing Kautusan e ya “tuparan mu ban miligtas ka,” nune metung a giya ning lugud nung makananu dapat mie ding mial-iligtas na king grasya (Deuteronomio 7:7-9). Pirmi munang datang ing grasya; ing pamanupad ya ing kasagutan."
+  },
+  {
+   "w": "“Ing pamanakup king Canaan metung yang mabengis a pamamaslang — anya ing Dios ning Matuang Tipan mabengis ya pala.”",
+   "t": "Iti metung yang mabayat a paksa a e malyaring tapusan king metung a pangungusap at kailangan na ning ingat. Oneng ing Biblia e na pakit bilang basta-bastang karahasan nune bilang atul kaybat na ning dakal a dilubu a pamagtitiis king sukdang karuksan (kayabe na ing pamanaldak king anak) (Genesis 15:16; Deuteronomio 9:4-5; Levitico 18:24-25). Ing Dios mabagal ya mu rin king pag-atul, at malugud na lang tatanggapan ding mibalik keya — agyang ding dayuan anti la kang Rahab at Rut (Josue 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“I David metung yang bayaning alang depekto — anya ya aausan a ‘lalaking ayayun king pusu na ning Dios.’”",
+   "t": "Mikasala yang pangaliwa i David at agyang pamamaslang. Ing “lalaking ayayun king pusu na ning Dios” e na kabaldugan king alang depekto, nune ing metung a e na sinalikut ing kasalanan na — a sinisi yang lubus at manatiling mibalik king Dios (Salmo 51). Ing lugud ning Dios e na tatakwilan agyang ding mabaldug a maragul."
+  },
+  {
+   "w": "“Ing propeta metung yang manula-tula a magpropesiya king daratang / ing Dios ning Matuang Tipan puru mu mua.”",
+   "t": "Ing pusu na ning propeta e ya “pamagpropesiya king daratang” nune ing masakit a pananawad ning Dios: “Pakisuyu, mibalik ka.” Agyang ding babala king atul e da layun ing magsira nune ing magpabalik at magligtas — “e ku matulang akit keng mate ing metung a makasalanan” (Ezekiel 33:11)."
+  },
+  {
+   "w": "“Ing pamipalako patutu na king lubus a tinakwilan na ning Dios ing Israel.”",
+   "t": "Ing pamipalako e ya pamanakwil nune disiplina at pamipalinis king metung a pakamal a anak (Hebreo 12:6). E ya minalis ing Dios; kayabe ne i Daniel king kalalaman ning pamipalako at mengako ya, “Aku mu ing bukud makibalu karing planu ku para kekayu, detang planu ban minawa kayu bie at e ban misaldak” (Jeremias 29:11)."
+  },
+  null,
+  {
+   "w": "“Nung alang amanu king 400 banwa, minalis ya ing Dios o mamagpainawa.”",
+   "t": "Ing katikman e ya kawalan. E ya mu mengusap, kabang king mabilug a panaun a ita gagalo na la ding kaharian, amanu, at dalan ban isadya ya ing entablado ning kaligtasan. King pekatikman a sandali, ing Dios masias yang dapat, king lugud (Galacia 4:4)."
+  },
+  {
+   "w": "“I Jesus metung mu yang mayap a guru king kayapan / ing krus metung yang trahedyang pamipasaul.”",
+   "t": "Ineng-engku nang Jesus a ya mismu ing Dios (Juan 8:58), at ing krus e ya aksidente o pamipasaul nune lugud a pengplanu. E ya derag karin king upaya; binie na ing bie na king sariling lub (Juan 10:18). “Ala nang lugud a maygit pa kesa ketang ibie na ning metung a tau ing bie na para karing kakaluguran na” (Juan 15:13)."
+  },
+  {
+   "w": "“Ing pisamban metung yang club da ring taung ganap, o metung mu yang bale.”",
+   "t": "Ing pisamban e ya metung a komunidad da ring “santung ganap” nune da ring <b>makasalanan a mipatawad</b>. Agyang ing apostol Pablo inaus na ya “ing marok dili” da ring makasalanan (1 Timoteo 1:15). Ing mumunang pisamban mityalu at mikamali la rin (Ding Dapat 6:1; 1 Corinto 1:11). E ya lugal a pagmaragulan, nune tau a magpasa king lugud a tinanggap da (Juan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Kasalanan ning pasimula — alang taung banal",
+   "body": "Ing problema e ya “pilang marok a dapat” nune ing lamut ning pusu. Manibat kang Adan, mibait la ding sabla lalam ning kasalanan at e la malyaring miras king Dios king sarili ra.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Alang taung banal, ala metung man… ding sablang tau uling mikasala la ngan, at mirayu la king Dios a Talapagligtas da."
+  },
+  {
+   "title": "Ing Kautusan e na ku malyaring iligtas",
+   "body": "Ing Kautusan e ya hagdan nune salamin. Inya kang lalung magsikap, lalu nang papakit nung makananu kang magkulang. Ing parasan na ya ing magdala kekatamu kang Cristo.",
+   "vref": "Roma 3:20 · Galacia 3:24",
+   "vtext": "Ing parasan na ning Kautusan ya ing mipakilala king mikasala ya ing tau… ing Kautusan ya ing peka talaingat tamu anggang e dinatang i Cristo."
+  },
+  {
+   "title": "King grasya — regalu, e sikap",
+   "body": "Ing kaligtasan e ya sweldu king merito a kinamit mu, nune metung a regalu ning Dios karetang e dapat. Anya alang malyaring magmaragul.",
+   "vref": "Efeso 2:8-9",
+   "vtext": "King grasya na ning Dios miligtas kayu king kapamilatan na ning pamanialpantaya yu kang Cristo… Iti e uli na ning kekayung dapat, inya e ya kailangan magparangalan ing ninuman."
+  },
+  {
+   "title": "Mipatawaran king kasalpantayanan",
+   "body": "E king pamanupad king Kautusan, nune king pamaniwala kang Jesu-Cristo mibilang katang matulid — e tamu mibili king sariling katuliran tamu nune king katuliran na.",
+   "vref": "Roma 5:1 · Galacia 2:16",
+   "vtext": "Mipatawaran na ing kasalanan tamu king kapamilatan na ning kasalpantayanan… ing metung a tau kikilalanan neng matulid ning Dios king kapamilatan na mu ning kasalpantayanan kang Jesu-Cristo, at e king kapamilatan na ning pamanupad king aduan na ning Kautusan."
+  },
+  {
+   "title": "Tutuldu ya ing Biblia kang Jesus",
+   "body": "Ing Biblia e ya libru da ring maragul a tau ni libru ning pamanaup king sarili. Manibat Genesis angga Apocalipsis, balang bulung magpatutu ya king metung a tau — i Jesu-Cristo.",
+   "vref": "Juan 5:39 · Lucas 24:27",
+   "vtext": "Deti ila kabud ding patutu tungkul kanaku… selese nang Jesus karela ing masasabi karing sablang kasulatan tungkul keya."
+  },
+  {
+   "title": "Ing Kayarian ning Dios — ing sentrung mensahe nang Jesus",
+   "body": "Ing tema a pekatuldu nang Jesus. Ing pamamuntuk ning Dios bilang Ari linub ya king yatung iti kayabe nang Jesus at malubus ya potang mibalik ya. King krus at pamibie na, i Jesus ya ing tutung Ari a linupig king kasalanan, kamatayan, at Satanas.",
+   "vref": "Marcos 1:15",
+   "vtext": "Miras na ing mituldung panaun… at malapit ne ing Kayarian ning Dios! Sisian yu la at painggulutan ding kekayung kasalanan at maniwala kayu king Mayap a Balita!"
+  },
+  {
+   "title": "Ing ebanghelyo — biguan na ngan",
+   "body": "Ing utang ning kasalanan a e ku abayaran, bineyad nang Jesus kasalili ku king krus, at king pamibie linupig na ing kamatayan. E ku mibili king “daptan mu iti” nune king “meyari na.”",
+   "vref": "Juan 19:30 · Roma 5:8",
+   "vtext": "Meyari na… mete ya i Cristo para kekatamu kanitang makasalanan tamu pa!"
+  }
+ ]
+}
