@@ -1,0 +1,343 @@
+{
+ "menuName": "Magyar",
+ "htmlLang": "hu",
+ "dir": "ltr",
+ "brand": "A Biblia egyetlen görgetésben",
+ "docTitle": "A Biblia egyetlen görgetésben · A teremtéstől az egyházig",
+ "share": {
+  "title": "A Biblia egyetlen görgetésben",
+  "text": "Egyetlen görgetésben fedezd fel a Biblia nagy történetét – és azt, miért jött el Jézus."
+ },
+ "ui": {
+  "people": "Szereplők",
+  "events": "Kulcsesemények",
+  "christLabel": "Jézusra mutat",
+  "loveLabel": "Soha fel nem adó szeretet",
+  "mythWrong": "Gyakori félreértés",
+  "mythRight": "Valójában",
+  "more": "Tovább",
+  "version": "(RÚF)"
+ },
+ "labels": {
+  "start": "Kezdés",
+  "thread": "A vezérfonal",
+  "gospel": "Az evangélium",
+  "about": "Névjegy"
+ },
+ "s": {
+  "ui.share": "↗ Megosztás",
+  "ui.toast": "Link másolva 📋",
+  "ui.footer": "A Biblia egyetlen görgetésben · Bibliai idézetek a RÚF szerint",
+  "hero.kicker": "A TEREMTÉSTŐL AZ EGYHÁZIG",
+  "hero.title": "A Biblia<br><span class='em'>egyetlen görgetésben</span>",
+  "hero.sub": "Egyetlen görgetésben fedezd fel a Biblia nagy történetét – és azt, miért jött el Jézus.",
+  "hero.cue": "Görgess lefelé<span>↓</span>",
+  "thread.eyebrow": "EGYETLEN MONDAT, AMELY ÁTSZÖVI AZ EGÉSZ BIBLIÁT",
+  "thread.h2": "A Biblia végső soron egyetlen történet",
+  "thread.flow": "<b>Ígéret</b><span class='arw'>→</span><b>Várakozás</b><span class='arw'>→</span><b>Beteljesedés</b>",
+  "thread.note": "Isten <b>ígéretet tesz</b> (a szövetség), a nép sokáig <b>vár</b>, és végül minden <b>beteljesedik</b> és teljessé lesz Jézusban. Kövesd végig az alábbi 13 jelenetet ezzel a fonállal. Érintsd meg a <b>„Tovább”</b> gombot minden kártyán a mélyebb történetért.",
+  "gospel.eyebrow": "MIT JELENT EZ A TÖRTÉNET „NEKEM”",
+  "gospel.h2": "A Biblia valódi középpontja",
+  "gospel.lead": "A Biblia <b>nem egy erkölcsi kézikönyv, amely azt mondja: „légy jó ember”.</b>",
+  "gospel.sublead": "Annak a története, ahogyan Isten <b>egyedül kegyelemből</b> menti meg a bűnösöket, akik nem tudják megmenteni önmagukat. A középpontban Jézus Krisztus áll.",
+  "gospel.mirror": "<h3>Izráel körforgása valójában az én saját képmásom</h3><div class='cycle'><b>Bálványimádás</b><span class='a'>→</span><b>Szenvedés</b><span class='a'>→</span><b>Kiáltás</b><span class='a'>→</span><b>Isten megment</b><span class='a'>→</span><b>Megint bálványimádás…</b></div><p>A bíráktól a fogságig Izráel vég nélkül ismétli ezt a körforgást. A Biblia nem azért jegyezte fel, hogy gúnyolódjunk: „milyen szánalmasak voltak”.</p><p>Ez egy <b>tükör</b>. Nem arról van szó, hogy „ők ilyenek voltak”, hanem hogy ráébredjünk: <b>„én is ugyanezt teszem”</b> (1Korinthus 10:11).</p><p>A <b>bálvány</b> nem csupán fából faragott szobor. Minden, <b>amit Istennél jobban szeretünk vagy amiben jobban bízunk</b> – pénz, siker, elismerés, emberek, sőt önmagam. És ha Istent <b>a vágyaim eszközeként</b> használom, az is bálványimádás.</p><p class='punch'>Végső soron a legmélyebb bálvány „önmagam, aki Isten trónján ül”.</p>",
+  "gospel.coreIntro": "Hogyan menti meg tehát Isten ezt a bűnöst? Ez az evangélium középpontja, amelyet a Biblia hirdet.",
+  "gospel.crux": "<p class='crux-lead'>Az egész Biblia egyetlen pont felé mutat.</p><p>Az ember önmagától nem tudta megtörni a bűn körforgását, és egyetlen igaz sem akadt. Ezért valakinek <b>helyettünk kellett megfizetnie az árat</b>.</p><p>Jézus nem csupán azért jött, hogy jó tanításokat adjon. Azért jött, mert <b>nem volt más út a megmentésemre</b>: el kellett jönnie.</p><p class='crux-punch'>Akinek azon a kereszten kellett volna lógnia, az <b>én</b> voltam.<br>Jézus hordozta <b>az én bűnömet</b>, és helyettem szegezték oda.</p><div class='crux-verse'>„A mi vétkeink miatt kapott sebeket, bűneink miatt törték össze… az ő sebei árán gyógyultunk meg.” — Ézsaiás 53:5</div>",
+  "faq.h": "Talán valami még nem hagy nyugodni?",
+  "faq.q1": "<span class='arr'>▸</span> Tehát egy gyilkos, ha hisz, a mennybe jut, egy egész életében jól élő, de nem hívő ember pedig a pokolba?",
+  "faq.a1": "<p>Jogos kérdés. De két félreértés rejlik benne.</p><p><b>① A Biblia nem osztja az embereket „jókra” és „rosszakra”.</b> A mérce nem az, hogy „jobb vagyok a mellettem állónál”, hanem „Isten tökéletes szentsége”. Őelőtte senki sem „elég jó” (Róma 3:23). Tehát nem „jó ember kontra gyilkos” a kérdés, hanem inkább két halálos beteg: az egyik elfogadja a gyógyszert, a másik elutasítja, mondván: „én egészségesebb vagyok annál”.</p><p><b>② Egyetlen dolog választja el a mennyet a pokoltól.</b> Nem a tettek pontszáma, hanem az, <b>hogy befogadtad-e Jézus Krisztust Úrként, és megoldódott-e a bűn problémád</b>. Aki bűne Krisztus vére által rendeződött, a mennybe jut; aki sosem fogadja be őt, és bűnében marad, az nem. Semmilyen jó cselekedet nem oldhatja meg helyetted magát a bűn problémáját.</p><p>Ezért a menny és a pokol nem „a jó magaviselet jutalma”, hanem a <b>Krisztussal való kapcsolat</b> kérdése. És a „hit” nem értelmi egyetértés, hanem az élet Urának megváltozása: aki igazán befogadja őt, az nem lesz arcátlan, hanem még mélyebben tér meg. Sőt, az <b>önigazultság</b> – „én jó ember vagyok” – a legnehezebben megtörhető bálvány, amely azt hiteti el, hogy „nincs szükségem Krisztusra” (Lukács 18:9-14).</p><p>A Biblia világosan kimondja: <b>„Aki hisz őbenne, az nem jut ítéletre, aki pedig nem hisz, már ítélet alatt van”</b> (János 3:18). Az ítélet nem „az életed végső kiértékelése”, hanem már eldőlt aszerint, <b>hogy befogadtad-e Krisztust</b>.</p><p class='faq-v'>Róma 3:23 · János 3:18 · Efezus 2:8-9 · Lukács 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Nem elég jó embernek lenni, még ha nem is hiszek Jézusban?",
+  "faq.a2": "<p>Ez a leggyakoribb gondolat, de félreérti, mi „az igazi probléma”. Vegyünk egy képet.</p><p><b>Képzeld el, hogy egy kalózhajón vagy.</b> Bármilyen ragyogóra súrolod a fedélzetet, bármilyen kedves vagy a legénységhez, bármilyen példásan élsz, mégis <b>kalóz</b> maradsz, mert a hajó magával visz oda, ahová tart (az ítélet kikötőjébe). A probléma nem „a tetteid pontszáma”, hanem <b>az, hogy melyik hajóhoz tartozol (a kilétem)</b>.</p><p>Ezért az evangélium nem azt mondja: „légy jobb”, hanem: <b>„válts hajót”</b>. Szállj le a bűn hajójáról, és menj át Jézushoz: <b>Isten gyermekének</b> új kilétébe. Nem arról van szó, hogy erőfeszítéssel emeled a pontszámod, hanem hogy bízol abban, aki kinyújtja feléd a kezét, és átkelsz az ő hajójára.</p><p>A Biblia épp így, „átvitelként” írja le az üdvösséget: <b>„Ő szabadított meg minket a sötétség hatalmából, és ő vitt át minket szeretett Fiának országába”</b> (Kolossé 1:13).</p><p>Ne értsd félre: <b>ez nem azt jelenti, hogy a jó élet értéktelen.</b> De a jóság nem az üdvösség „feltétele”, hanem a <b>gyümölcse</b>. Aki hajót váltott, az már nem félelemből, hanem <b>egy gyermek szeretetéből</b> él jól.</p><p class='faq-v'>Kolossé 1:13 · János 1:12 · János 3:3 · Efezus 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Ha az elkövető azt mondja: „Isten már megbocsátott nekem”, és békében él, miközben az áldozat tovább szenved, nem túl olcsó az a megbocsátás?",
+  "faq.a3": "<p>A kérdés jogos, és az a fájdalom valós. De az ilyen állítás nem „a Biblia megbocsátása”, hanem annak <b>eltorzítása</b>.</p><p><b>① Isten megbocsátása sosem olcsó.</b> A bűnt nem söprik a szőnyeg alá, mintha „meg sem történt volna”; Isten maga fizette meg az árát saját Fia életével. A kereszt nem azt bizonyítja, hogy könnyen veszi a bűnt, hanem hogy milyen súlyos: ez a világ legdrágább megbocsátása.</p><p><b>② Az igazi megtérés gyümölcsöt terem.</b> Ha az elkövető rezzenéstelenül áll az áldozat előtt, mondván: „Isten megbocsátott, békében vagyok”, az nem megtérés, hanem annak utánzata (Máté 3:8). És az Isten és köztem lévő megbocsátás nem törli el az áldozat sebét, és nem kényszeríti megbocsátásra.</p><p><b>③ A bűnt sosem hagyják egyszerűen „futni”.</b> Minden bűnt két hely egyikén fizetnek meg: <b>vagy Krisztus hordozza a kereszten</b> (aki benne hisz, nincs többé ítélet alatt, Róma 8:1), <b>vagy az hordozza, aki mindvégig elutasítja.</b> Tehát nincs „olcsó felmentés”. Az elkövető e világ igazságszolgáltatása előtt is felel (Róma 13:1-4).</p><p><b>④ Az áldozat könnyei sosem kicsik Isten előtt.</b> Isten együtt sír a sírókkal, minden könnyre emlékezik, és a végén ő maga törli le őket (Jelenések 21:4). Ezért az áldozatnak sem egyedül kell hordoznia a bosszú terhét, hanem rábízhatja az igazságos Istenre (Róma 12:19: „Enyém a bosszúállás, én megfizetek – így szól az Úr”).</p><p class='faq-v'>Máté 3:8 · Róma 8:1 · Róma 13:1-4 · Jelenések 21:4</p>",
+  "respond.h3": "Akkor hát mit tegyek?",
+  "respond.sub": "Ez a szeretet nem információ, hanem <b>meghívás</b>. Ha az a szeretet, amelyet helyettem szegeztek a keresztre, megérintette a szívedet, mondd el most ezt az imádságot, mondatról mondatra, lassan.",
+  "respond.prayer": "<p>Istenem,</p><p>elismerem, hogy bűnös vagyok, aki nem tudja megmenteni önmagát.</p><p>Hiszem, hogy Jézus meghalt értem a kereszten, és feltámadt.</p><p>Bocsásd meg minden bűnömet, és mától légy az életem Ura.</p><p>Fogadj be gyermekedként, és add, hogy új életet éljek.</p><p class='amen'>Jézus nevében imádkozom. Ámen.</p>",
+  "respond.after": "Ha ezt őszintén imádkoztad, a Biblia szerint <b>Isten gyermekévé</b> lettél. Többé nem vagy egyedül: keress egy közeli gyülekezetet, és járd a hit útját másokkal együtt.",
+  "respond.verse": "„Akik pedig befogadták, azoknak hatalmat adott arra, hogy Isten gyermekeivé legyenek.” — János 1:12 · Róma 10:9-10",
+  "closing.main": "Egyetlen Isten,<br>egyetlen történeten át,<br>olyan <em>szeretettel</em> keres minket,<br>amely soha fel nem adja.",
+  "closing.verse": "„Sem halál, sem élet… sem semmiféle más teremtmény nem választhat el minket Isten szeretetétől, amely megjelent Krisztus Jézusban, a mi Urunkban.” — Róma 8:38-39",
+  "closing.small": "Erre a vezérfonalra a Törvény, a költői könyvek, a próféták és a levelek adják rá a „húst”.<br>Mostantól bármelyik könyvet nyitod is ki, tudni fogod, „hol tartasz a történetben”.",
+  "closing.share": "↗ Oszd meg ezt a történetet",
+  "about.line": "A tartalom a koreai protestantizmus többsége által osztott <b>üdvtörténeti, evangéliumi és református</b> szemléleten alapul.",
+  "about.contact": "Kérdések · visszajelzés — <a id='contact' class='mail'>Írj e-mailt</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ÓSZÖVETSÉG · KEZDET",
+   "title": "Teremtés",
+   "date": "Kezdetben",
+   "one": "Isten „igen jó” világot teremtett.",
+   "people": "Isten; Ádám és Éva",
+   "events": "A teremtés hat napja, az ember Isten képmására, a szombati nyugalom",
+   "q": "Kezdetben teremtette Isten az eget és a földet.",
+   "cite": "1Mózes 1:1",
+   "christ": "A világ az „Ige” által lett. János evangéliuma kijelenti, hogy ez az Ige maga Jézus (János 1:1-3).",
+   "detail": "<p>A Biblia nem filozófiai érveléssel kezdődik, hanem egy kijelentéssel: <b>„Kezdetben teremtette Isten…”</b>. A világ nem véletlen, hanem egy személyes Isten műve.</p><ul><li><b>Isten képmása</b> · minden teremtmény közül egyedül az ember lett Istenhez hasonlóvá téve, hogy ismerje őt és gondját viselje a világnak.</li><li><b>Nyugalom</b> · a hetedik napi nyugalom azt mutatja, hogy minden teljes és békés (sálóm) volt: „és látta Isten, hogy jó”.</li><li><b>Éden</b> · a világ a törés előtt, ahol Isten és ember együtt jár.</li></ul>",
+   "next": "De ez a teljesség hamarosan összetörik…"
+  },
+  {
+   "tag": "ÓSZÖVETSÉG · A BAJ KEZDETE",
+   "title": "A bűnbeesés",
+   "date": "Kezdetben",
+   "one": "Belépett a bűn, és elszakadt az ember és Isten közti kötelék.",
+   "people": "Ádám és Éva; a kígyó (Sátán)",
+   "events": "A tiltott gyümölcs elfogyasztása, kiűzetés az Édenből, a halál és a fáradságos munka beköszönte",
+   "q": "Ellenségeskedést támasztok közted és az asszony között… ő a fejedet tapossa.",
+   "cite": "1Mózes 3:15",
+   "christ": "Az evangélium első ígérete, amely közvetlenül a bűnbeesés után hangzott el: „az asszony utódja” széttapossa a kígyó fejét – és ez Jézus (1Mózes 3:15; Róma 16:20; Galata 4:4).",
+   "detail": "<p>Az engedetlenség által, amely „olyanná akart lenni, mint Isten”, belépett a bűn a világba. Az eredmény nem csupán egy szabály megszegése, hanem a <b>kapcsolatok megtörése</b>.</p><ul><li><b>Megtört kötelékek</b> · Istennel (elrejtőzés), egymással (vádaskodás) és a természettel (tövisek és fáradság).</li><li><b>Halál</b> · a „bizony meghalsz” figyelmeztetés valósággá válik.</li><li><b>1Mózes 3:15</b> · de az ítélet közepette előbb hangzik el a megmentés ígérete. A tudósok ezt <b>„protoevangéliumnak” (az első evangéliumnak)</b> nevezik.</li></ul>",
+   "next": "Isten most egyetlen embert hív el, és elkezdődik a helyreállítás…"
+  },
+  {
+   "tag": "ÓSZÖVETSÉG · AZ ÍGÉRET",
+   "title": "Az ősatyák",
+   "date": "Kr. e. 2000 körül",
+   "one": "Isten megígéri Ábrahámnak: „Áldás csatornája leszel”.",
+   "people": "Ábrahám · Izsák · Jákób · József",
+   "events": "Az Ábrahámmal kötött szövetség, Izsák feláldozása, Jákób tizenkét fia, József egyiptomi felemelkedése",
+   "q": "Nagy néppé teszlek… Általad nyer áldást a föld minden nemzetsége.",
+   "cite": "1Mózes 12:2-3",
+   "christ": "Az ígéret, hogy „minden nemzetség áldást nyer”, Jézusban teljesedik be, aki Ábrahám utóda (Galata 3:16).",
+   "detail": "<p>Isten az egész emberiség problémáját egyetlen ember, <b>Ábrahám</b> elhívásával kezdi megoldani. A lényege a <b>szövetség (az ígéret)</b>: nagy nép, egy föld és „áldás minden nemzetségnek”.</p><ul><li><b>Hit</b> · Ábrahám hitt a láthatatlan ígéretnek, és ez igazságul számíttatott neki (1Mózes 15:6).</li><li><b>Izsák és Jákób</b> · az ígéret átszáll a következő nemzedékre; Jákób (Izráel) a tizenkét törzs atyja.</li><li><b>József</b> · testvérei eladták, mégis Egyiptom kormányzójává lett: „Isten jóra fordította” (1Mózes 50:20).</li></ul>",
+   "next": "A család Józsefet követve Egyiptomba megy… és végül rabszolgává lesz."
+  },
+  {
+   "tag": "ÓSZÖVETSÉG · MEGVÁLTÁS",
+   "title": "Kivonulás és pusztai vándorlás",
+   "date": "Kr. e. 1446 körül",
+   "one": "Isten kimenti a rabszolga népet, és a sajátjává teszi.",
+   "people": "Mózes, Áron, a fáraó",
+   "events": "A tíz csapás, a páska, az átkelés a Vörös-tengeren, a tízparancsolat a Sínai-hegyen, a szent sátor, 40 év a pusztában",
+   "q": "Népemmé fogadlak titeket, én pedig Istenetek leszek.",
+   "cite": "2Mózes 6:7",
+   "christ": "A páska, ahol a bárány vére elhárította a halált, Jézusra mutat, „a mi húsvéti bárányunkra”, akit értünk feszítettek meg (1Korinthus 5:7).",
+   "detail": "<p>Az Ószövetség legnagyobb megmentő tette. A rabszolga Izráel Isten ereje által szabadságot kap, és az ő <b>népévé</b> formálódik.</p><ul><li><b>A páska</b> · a házat, amelynek ajtaján a bárány vére van, elkerüli a halál; minden későbbi áldozat mintája.</li><li><b>A Vörös-tenger</b> · megmenekülés, amikor a tenger megnyílik a zsákutcában; az „átkelés” az új kezdet jelképe.</li><li><b>A Sínai szövetség</b> · a tízparancsolat által megtanulják, hogyan éljenek Isten népeként.</li><li><b>A szent sátor</b> · hordozható szentély, ahol Isten a nép között lakik: az „Immánuel” előíze.</li><li><b>40 év</b> · az engedetlenség miatt egy nemzedék a pusztában bolyong, de Isten velük van a mannával és a felhő- meg tűzoszloppal.</li></ul>",
+   "next": "Az ígéret földje előtt állva felkészülnek a bevonulásra…"
+  },
+  {
+   "tag": "ÓSZÖVETSÉG · LETELEPEDÉS",
+   "title": "Honfoglalás és bírák",
+   "date": "Kr. e. 1400–1050 körül",
+   "one": "Megkapják a földet, de király nélkül mindenki azt teszi, ami jónak látszik neki.",
+   "people": "Józsué; bírák, mint Gedeon és Sámson; Ruth",
+   "events": "Jerikó eleste, a letelepedés Kánaánban, a bűn–ítélet–szabadítás ismétlődő körforgása",
+   "q": "Abban az időben nem volt király Izráelben: mindenki azt csinálta, amit jónak látott.",
+   "cite": "Bírák 21:25",
+   "christ": "Ruth vonalából származik Dávid, Dávid vonalából pedig Jézus (Máté 1). A káoszban is folytatódik a Messiás családfája.",
+   "detail": "<p>Józsué alatt bevonulnak az ígéret földjére, de letelepedve hamar elfeledik Istent. A Bírák könyve ugyanazt a mintát ismétli.</p><ul><li><b>A bűn körforgása</b> · bűn → elnyomás → kiáltás → egy bíró megmenti → újra bűn, egyre rosszabbul.</li><li><b>A bírák</b> · Gedeon, Sámson, Debóra… ideiglenes szabadítók, hősiesek, de hibákkal teli.</li><li><b>Ruth</b> · a hűség fénye sötét időkben; egy idegen asszony lép be Dávid (és Jézus) családfájába.</li></ul>",
+   "next": "A nép így kiált: „Adj nekünk királyt!”…"
+  },
+  {
+   "tag": "ÓSZÖVETSÉG · ARANYKOR",
+   "title": "Az egységes királyság",
+   "date": "Kr. e. 1050–930 körül",
+   "one": "Isten megígéri Dávidnak: „Trónod örökre szilárd lesz”.",
+   "people": "Saul · Dávid · Salamon",
+   "events": "Az első király, Saul, Dávid és Góliát, a Dáviddal kötött szövetség, Salamon temploma",
+   "q": "Így a te házad és királyságod örökre megmarad, és trónod örökre szilárd lesz.",
+   "cite": "2Sámuel 7:16",
+   "christ": "Az „örökké tartó trón” Jézusban teljesedik be, aki Dávid fia; ezért nevezik „Dávid Fiának” (Lukács 1:32-33; Máté 1:1).",
+   "detail": "<p>Izráel csúcspontja, három király uralma alatt.</p><ul><li><b>Saul</b> · az első király, akit a nép követelt; jó kezdet, de engedetlensége miatt elvettetett.</li><li><b>Dávid</b> · „Isten szíve szerint való férfi”. Legyőzi Góliátot, és Jeruzsálemet teszi fővárossá. Súlyos bűnt követ el (Betsabé), de szívből megtér (Zsoltárok 51).</li><li><b>A Dáviddal kötött szövetség (2Sámuel 7)</b> · Isten megígéri, hogy dinasztiáját örökre megerősíti: a messiási remény döntő gyökere.</li><li><b>Salamon</b> · a bölcsesség és gazdagság csúcsán felépíti Jeruzsálem <b>templomát</b>, de végül bálványimádásba esik.</li></ul>",
+   "next": "Salamon után a királyság kettészakad…"
+  },
+  {
+   "tag": "ÓSZÖVETSÉG · HANYATLÁS",
+   "title": "A kettészakadt királyság",
+   "date": "Kr. e. 930–586",
+   "one": "Délre (Júda) és északra (Izráel) szakad, és lassan megromlik.",
+   "people": "Mindkét királyság királyai; próféták, mint Illés, Ézsaiás és Jeremiás",
+   "events": "A királyság kettészakadása, a bálványimádás, a próféták intelmei",
+   "q": "Izráel tehát elpártolt Dávid házától. Így van ez még ma is.",
+   "cite": "1Királyok 12:19",
+   "christ": "Ebben a korban a próféták egyre világosabban hirdetik az eljövendő Messiást (Ézsaiás 9:6; Ézsaiás 53).",
+   "detail": "<p>Salamon fiának idejében a királyság kettészakad: <b>Izráel (észak)</b>, tíz törzs, fővárosa Samária; és <b>Júda (dél)</b>, két törzs, fővárosa Jeruzsálem.</p><ul><li><b>Az északi országrész</b> · minden királya bálványokat szolgál; Kr. e. 722-ben elesik Asszíria előtt.</li><li><b>A déli országrész</b> · folytatódik Dávid vonala, és vannak jó királyok is, mint Ezékiás és Jósiás, de összességében hanyatlik.</li><li><b>A próféták</b> · Illés, Ámósz, Ézsaiás, Jeremiás kiáltja: „térjetek meg!”. Itt gazdagodik leginkább a messiási prófécia (Ézsaiás 53 „szenvedő szolgája”).</li></ul>",
+   "next": "Végül beteljesül a meghirdetett ítélet: fogságba viszik őket…"
+  },
+  {
+   "tag": "ÓSZÖVETSÉG · ÍTÉLET",
+   "title": "A fogság",
+   "date": "Kr. e. 722 / 586",
+   "one": "A királyság elbukik, és a népet idegen földre hurcolják.",
+   "people": "Dániel, Ezékiel, Nebukadneccar",
+   "events": "Izráel elesik Asszíria előtt (722); Júda elesik Babilon előtt, és a templom elpusztul (586)",
+   "q": "Amikor Babilon folyói mellett laktunk, sírtunk, ha a Sionra gondoltunk.",
+   "cite": "Zsoltárok 137:1",
+   "christ": "A kétségbeesés mélyén Jeremiás „új szövetséget” ígér (Jeremiás 31:31): ugyanazt, amelyet Jézus szerez az utolsó vacsorán.",
+   "detail": "<p>A figyelmeztetés beteljesül. A templom leég, és a népet Babilonba viszik: elvesztik a földet, a királyt és a templomot, a legsúlyosabb válság.</p><ul><li><b>Két bukás</b> · Izráel (Asszíria, Kr. e. 722) és Júda (Babilon, Kr. e. 586).</li><li><b>Dániel</b> · a hit példája még a pogány udvarban is (az oroszlánok verme); látomást lát egy eljövendő „örök királyságról”.</li><li><b>A remény szikrája</b> · a megelevenedő száraz csontok látomása (Ezékiel 37) és Jeremiás „új szövetsége” a sötétségben mutat a jövőre.</li></ul>",
+   "next": "Hetven évvel később Isten utat nyit: hazatérnek…"
+  },
+  {
+   "tag": "ÓSZÖVETSÉG · HELYREÁLLÍTÁS",
+   "title": "Hazatérés a fogságból",
+   "date": "Kr. e. 538–430",
+   "one": "Hazatérnek, és újjáépítik a templomot és a falakat.",
+   "people": "Ezsdrás, Nehémiás, Eszter, Zerubbábel",
+   "events": "Hazatérés Círusz rendeletére, a templom újjáépítése, Jeruzsálem falainak helyreállítása, az Ige helyreállítása",
+   "q": "Az Úr előtt való örvendezés a ti menedéketek!",
+   "cite": "Nehémiás 8:10",
+   "christ": "Malakiás, az Ószövetség utolsó könyve, azzal zárul, hogy hírnököt ígér, aki előkészíti a Messiás útját: „Íme, elküldöm követemet” (Malakiás 3:1).",
+   "detail": "<p>A hazatérés a perzsa Círusz rendeletével kezdődik (Kr. e. 538). Három hullámban térnek vissza, és újjáépítik az elpusztultat.</p><ul><li><b>Zerubbábel</b> · újjáépíti a templomot (Kr. e. 516-ban kész).</li><li><b>Ezsdrás</b> · újra tanítja a törvényt (az Igét), és helyreállítja a hitet.</li><li><b>Nehémiás</b> · 52 nap alatt újjáépíti Jeruzsálem falait.</li><li><b>Eszter</b> · megmenti a perzsiai zsidókat a kiirtástól: „ki tudja, nem ezért az időért…?”.</li><li><b>A vágy, amely megmarad</b> · a templom áll, de nincs Dávidhoz hasonló király. A nép a Messiásra vár.</li></ul>",
+   "next": "És aztán… mint egy bezárult ég, 400 év csend következik."
+  },
+  {
+   "tag": "KÉT SZÖVETSÉG KÖZÖTT · A SZÍNTÉR ELŐKÉSZÍTÉSE",
+   "title": "A csend évei",
+   "date": "Kr. e. 430–4 körül",
+   "one": "400 év prófétai szó nélkül; de a színtér csendben elkészült.",
+   "people": "Nagy Sándor, a Makkabeusok, Róma",
+   "events": "Perzsia → Görögország → makkabeus függetlenség → római uralom",
+   "q": "De amikor eljött az idő teljessége, Isten elküldte Fiát, aki asszonytól született.",
+   "cite": "Galata 4:4",
+   "christ": "Mindez a „színtér-előkészítés” Isten munkája volt, hogy Jézus pontosan „az idő teljességekor” jöjjön el.",
+   "detail": "<p>Malakiástól az Újszövetségig mintegy 400 év telik el új bibliai szó (próféták) nélkül. De a történelem mögött Isten készítette az utat az evangélium terjedéséhez.</p><ul><li><b>Birodalmak váltakozása</b> · Perzsia → Görögország (Nagy Sándor, Kr. e. 333) → Egyiptom és Szíria → makkabeus felkelés (Kr. e. 167) → Róma (Kr. e. 63).</li><li><b>A görög nyelv</b> · Nagy Sándor hódítása a görögöt közös nyelvvé tette; az Ószövetséget lefordították görögre (a Septuaginta), utat nyitva az evangélium gyors terjedéséhez.</li><li><b>Római utak és béke</b> · az utak és a „római béke” a misszió országútjaivá lettek.</li><li><b>Zsinagóga és pártok</b> · megerősödik a zsinagógai tanítás; megjelennek a farizeusok és a szadduceusok, és megérik <b>a Messiásra való várakozás</b>.</li></ul>",
+   "next": "És a csend megtörik: végre eljön ő."
+  },
+  {
+   "tag": "ÚJSZÖVETSÉG · BETELJESEDÉS",
+   "title": "Jézus eljövetele",
+   "date": "Kr. e. 4 – Kr. u. 30 körül",
+   "one": "A megígért Messiás eljött, meghalt és feltámadt.",
+   "people": "Jézus, a tizenkét tanítvány, Keresztelő János",
+   "events": "A megtestesülés (karácsony), tanító és gyógyító szolgálata, a kereszthalál, a harmadik napi feltámadás",
+   "q": "Az Ige testté lett, közöttünk lakott… telve kegyelemmel és igazsággal.",
+   "cite": "János 1:14",
+   "christ": "Az asszony utódja (2. jelenet), Ábrahám áldása (3.), a húsvéti bárány (4.), Dávid örökké tartó királya (6.) és az új szövetség (8.) mind egyetlen Jézusban teljesedik be: ő a mi igazi prófétánk, papunk és királyunk.",
+   "detail": "<p>A csend megtörik, eljön a megígért. A négy evangélium különböző szögekből tesz bizonyságot Jézus életéről, haláláról és feltámadásáról.</p><ul><li><b>Megtestesülés</b> · Isten emberré lett (Immánuel, „velünk az Isten”), Betlehem alacsony helyén.</li><li><b>Szolgálat</b> · tanítja Isten országát, gyógyítja a betegeket, hívja a bűnösöket. „Aki engem látott, látta az Atyát.”</li><li><b>A kereszt</b> · helyettünk fizeti meg a bűnbeesés (2. jelenet) okozta bűn és halál árát. Az igazi húsvéti bárány.</li><li><b>Feltámadás</b> · a harmadik napon feltámad, és megtöri a bűn, a halál és a Sátán hatalmát; már a kereszten „lefegyverezte a fejedelemségeket és a hatalmasságokat… és diadalmaskodott rajtuk” (Kolossé 2:15).</li></ul><p>Ezért Jézus a mi <b>igazi prófétánk</b> (megmutatja az Istenhez vezető utat), <b>igazi papunk</b> (saját testével engesztel a bűnért) és <b>igazi királyunk</b> (legyőzi a bűnt, a halált és a Sátánt, és örökre uralkodik).</p>",
+   "next": "A feltámadott Jézus elküldi tanítványait a világba…"
+  },
+  {
+   "tag": "ÚJSZÖVETSÉG · TERJEDÉS",
+   "title": "Az egyház kezdete",
+   "date": "Kr. u. 30-tól",
+   "one": "Eljön a Lélek, és az evangélium a föld végső határáig terjed.",
+   "people": "Péter, Pál, az őskeresztény egyház",
+   "events": "A Lélek kiáradása pünkösdkor, az egyház megszületése, az evangélium Jeruzsálemtől Rómáig az üldözésen át",
+   "q": "Erőt kaptok, amikor eljön hozzátok a Szentlélek… és tanúim lesztek… a föld végső határáig.",
+   "cite": "Cselekedetek 1:8",
+   "christ": "Ez a történet ma is folytatódik. A Biblia azzal az ígérettel zárul, hogy Jézus újra eljön, és mindent újjáteremt (Jelenések 21).",
+   "detail": "<p>Jézus mennybemenetele után a megígért Lélek eljön pünkösdkor, és megszületik az egyház. Az evangélium robbanásszerűen terjed.</p><ul><li><b>Pünkösd</b> · a Lélek a félénk tanítványokat bátor tanúkká teszi.</li><li><b>Péter</b> · Jeruzsálemben hirdeti az evangéliumot a zsidóknak.</li><li><b>Pál</b> · üldözőből apostol lesz; gyülekezeteket alapít a pogány világban, és leveleket ír.</li><li><b>A föld végső határáig</b> · Jeruzsálem → Júdea → Samária → Róma. Az Ábrahámnak tett ígéret „minden nemzetségről” valóra válik.</li><li><b>És mi</b> · a történet nem ér véget; Jézus visszajövetele és az új ég és új föld felé halad.</li></ul>",
+   "next": "De a történet itt nem ér véget…"
+  },
+  {
+   "tag": "ÚJSZÖVETSÉG · BETELJESÜLÉS",
+   "title": "A helyreállítás (minden újjá lesz)",
+   "date": "Még eljövendő",
+   "one": "Jézus újra eljön, és mindent újjáteremt.",
+   "people": "A visszatérő Jézus; minden nép",
+   "events": "A második eljövetel, a végső ítélet, a bűn, a halál és a könnyek vége, új ég és új föld",
+   "q": "Letöröl minden könnyet a szemükről, és halál sem lesz többé, sem gyász, sem jajkiáltás, sem fájdalom nem lesz többé.",
+   "cite": "Jelenések 21:4",
+   "christ": "Az első teremtés Édenje végre helyreáll mint az „új Jeruzsálem”. Isten örökre népével lakik: az Immánuel teljessége (Jelenések 21:3; Máté 1:23).",
+   "detail": "<p>A Biblia nem az egyház korával ér véget. Utolsó könyve, a Jelenések, Jézust mutatja be, aki <b>újra eljön</b>, és mindent beteljesít.</p><ul><li><b>A második eljövetel</b> · a megígért király dicsőségben tér vissza.</li><li><b>A végső győzelem</b> · a Sátán és a halál örökre legyőzetik, és Krisztus a királyok Királyaként uralkodik (1Korinthus 15:25-26; Jelenések 20:10).</li><li><b>Ítélet és feltámadás</b> · minden igazságtalanság helyrebillen, és a holtak feltámadnak.</li><li><b>Új ég és új föld</b> · a bűn, a halál, a könnyek és a fájdalom örökre eltűnik (Jelenések 21:4).</li><li><b>A helyreállított Éden</b> · egy a kezdetnél is jobb „új Jeruzsálemben” Isten örökre népével lakik: a cél, amely felé az egész Biblia tart.</li></ul><p>Ezért ma a <b>„már, de még nem”</b> kora van: Jézusban az üdvösség <b>már</b> beteljesedett, de teljessége <b>még</b> várat magára.</p>",
+   "next": "Akkor hát mit jelent ez az egész történet „nekem”?"
+  }
+ ],
+ "love": [
+  "A történet nem ítélettel kezdődik, hanem egy túláradó szeretetből teremtett világgal.",
+  "Amint az ember vétkezett, Isten ott helyben megígérte a megmentést.",
+  "Isten előbb kereste meg azt, aki nem érdemelte meg, nevén szólította, és az áldás csatornájává tette.",
+  "Meghallotta a rabszolga nép sóhaját, és maga szállt le, hogy megmentse.",
+  "Bár újra és újra elárulták, valahányszor kiáltottak, szabadítót küldött, és újra felemelte őket.",
+  "Még az elbukott Dávidot sem vetette el; rajta keresztül örökké tartó királyt ígért.",
+  "A neki hátat fordító néphez prófétákat küldött, kérlelve: „Térj vissza, kérlek”.",
+  "Még a fogság legsötétebb földjére is leszállt velük, és helyreállítást ígért.",
+  "Még az újra és újra elbukó néptől sem vonta vissza ígéretét, hanem ismét felemelte.",
+  "Még a 400 év csendjében is rejtve készítette a megmentés útját.",
+  "Amikor még bűnösök voltunk, elküldte Fiát, és odaadta életét.",
+  "Azt a szeretetet, amelyet kaptunk, most kiárasztja az egész világra.",
+  "Végül letöröl minden könnyet, és szeretetben újjáteremt mindent."
+ ],
+ "mis": [
+  {
+   "w": "„Miért teremtett Isten olyan lényt, amely képes vétkezni? Nem lett volna jobb meg sem teremteni?”",
+   "t": "Isten nem valamiféle hiányból, hanem túláradó szeretetből teremtette a világot és az embert. Az embert <b>Istennel kapcsolatra képes személlyé</b> tenni már önmagában szeretet. És még a bűn beköszönte sem esett kívül Isten megmentő tervén (Efezus 1:4-5). A Biblia első jelenete nem ítélet, hanem szeretet."
+  },
+  {
+   "w": "„Egyetlen gyümölcs miatt kiűzetés, sőt halál? Nem túl szigorú ez az Isten?”",
+   "t": "Az Édenből való kiűzetés ítélet és egyúttal kegyelem is volt. Ha az ember Istentől elszakadva, ebben a megtört állapotban evett volna az élet fájáról, és örökké élt volna, örökre csapdába esett volna a szenvedésben (1Mózes 3:22). A halál megengedése a visszatérés útját nyitotta meg; és ott helyben Isten Szabadítót ígért (1Mózes 3:15). Az ítéletben már ott volt a szeretet."
+  },
+  {
+   "w": "„Ábrahámot nagy hitéért választotta ki; nem mind erkölcsi hősök a bibliai szereplők?”",
+   "t": "Ábrahám is hazudott és kételkedett, Jákób pedig csaló volt. Isten nem „az alkalmasakat” hívta el, hanem kegyelemből a tökéletleneket. A kiválasztás oka nem a kiválóságuk volt, hanem Isten hűséges szeretete (5Mózes 7:7-8)."
+  },
+  {
+   "w": "„Nem a törvény (a parancsolatok) egy vizsga vagy feltétel, amelyet teljesíteni kell az üdvösséghez?”",
+   "t": "Isten <b>azelőtt</b> mentette meg őket, hogy a törvényt adta volna. A tízparancsolat is az üdvösség kijelentésével kezdődik: „Én, az Úr vagyok a te Istened, aki kihoztalak téged Egyiptom földjéről” (2Mózes 20:2). A törvény nem azt mondja: „tartsd meg, hogy üdvözülj”, hanem szeretetből adott útmutatás arról, hogyan éljenek a már kegyelemből megmentettek (5Mózes 7:7-9). Mindig a kegyelem az első; az engedelmesség a válasz."
+  },
+  {
+   "w": "„Kánaán meghódítása könyörtelen mészárlás volt; az Ószövetség Istene mégiscsak kegyetlen.”",
+   "t": "Ez olyan téma, amelyet nem lehet egy mondatban elintézni, és körültekintést kíván. De a Biblia ezt nem önkényes erőszakként, hanem évszázadokon át tartó türelem utáni, a szélsőséges gonoszságra (gyermekáldozatot is beleértve) adott ítéletként mutatja be (1Mózes 15:16; 5Mózes 9:4-5; 3Mózes 18:24-25). Isten az ítéletben sem siet, és aki hozzá fordul, azt szívesen befogadja, legyen bár idegen, mint Ráhábot és Ruthot (Józsué 6:25; Ruth 4:13-17)."
+  },
+  {
+   "w": "„Dávid hibátlan hős volt; ezért nevezték »Isten szíve szerint való férfinak«.”",
+   "t": "Dávid házasságtörést, sőt gyilkosságot is elkövetett. Az „Isten szíve szerint való” nem azt jelenti, hogy hibátlan, hanem hogy nem rejtette el bűnét, alaposan megtért, és mindig visszatért Istenhez (Zsoltárok 51). Isten szeretete azt sem veti el, aki súlyosan elbukik."
+  },
+  {
+   "w": "„A próféta jövendőmondó, aki a jövőt jósolja; az Ószövetség Istene csak haragszik.”",
+   "t": "A próféta lényege nem „a jövő eltalálása”, hanem Isten szívből jövő kérlelése: „térj vissza, kérlek”. Még az ítélet figyelmeztetése sem pusztítani akar, hanem visszatérésre és életre indítani: „nem kívánom a bűnös ember halálát” (Ezékiel 33:11)."
+  },
+  {
+   "w": "„A fogság azt bizonyítja, hogy Isten teljesen elhagyta Izráelt.”",
+   "t": "A fogság nem elhagyás volt, hanem egy Atya fegyelmezése és tisztítása a szeretett gyermek felé (Zsidók 12:6). Isten nem ment el; ott volt Dániellel a fogság kellős közepén, és megígérte: „jólétet és nem romlást tervezek, és reményteljes jövő az, amelyet nektek szánok” (Jeremiás 29:11)."
+  },
+  null,
+  {
+   "w": "„Ha 400 évig nem volt szó, akkor talán Isten elment vagy pihent?”",
+   "t": "A csend nem hiány. Csak nem szólt; közben mindvégig birodalmakat, nyelveket és utakat mozgatott, hogy előkészítse a megmentés színterét. A legcsendesebb pillanatban Isten dolgozott a legbuzgóbban, szeretetből (Galata 4:4)."
+  },
+  {
+   "w": "„Jézus csak egy a jó erkölcstanítók közül; a kereszt tragikus vereség volt.”",
+   "t": "Jézus Istennek vallotta magát (János 8:58), és a kereszt nem baleset vagy vereség volt, hanem eltervezett szeretet. Nem erővel hurcolták oda, hanem önként adta életét (János 10:18). „Nincs senkiben nagyobb szeretet annál, mint ha valaki életét adja barátaiért” (János 15:13)."
+  },
+  {
+   "w": "„Az egyház tökéletes emberek vallási klubja, vagy csak egy épület.”",
+   "t": "Az egyház nem „tökéletes szentek” közössége, hanem <b>megbocsátást nyert bűnösöké</b>. Még Pál apostol is „elsőnek” nevezte magát a bűnösök között (1Timóteus 1:15). Az őskeresztény egyház is vitatkozott és botladozott (Cselekedetek 6:1; 1Korinthus 1:11). Az egyház nem dicsekvésre való, hanem olyan emberek közössége, akik továbbadják a kapott szeretetet (János 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Eredendő bűn – nincs igaz ember",
+   "body": "A probléma nem „néhány rossz tett”, hanem a szív gyökere. Ádám óta mindenki bűn alatt születik, és önmagától nem juthat el Istenhez.",
+   "vref": "Róma 3:10-12, 23",
+   "vtext": "Nincsen igaz ember egy sem… mivel mindenki vétkezett, és nélkülözi Isten dicsőségét."
+  },
+  {
+   "title": "A törvény nem tud megmenteni",
+   "body": "A törvény nem létra, hanem tükör. Minél jobban igyekszem megtartani, annál inkább megmutatja, mennyire elmaradok. Célja, hogy Krisztushoz vezessen.",
+   "vref": "Róma 3:20 · Galata 3:24",
+   "vtext": "A törvényből csak a bűn felismerése adódik… a törvény nevelőnk volt Krisztusig."
+  },
+  {
+   "title": "Kegyelemből – ajándék, nem erőfeszítés",
+   "body": "Az üdvösség nem a felhalmozott érdemek bére, hanem Isten ajándéka annak, aki nem érdemli meg. Ezért senki sem dicsekedhet.",
+   "vref": "Efezus 2:8-9",
+   "vtext": "Kegyelemből van üdvösségetek hit által… nem cselekedetekért, hogy senki se dicsekedjék."
+  },
+  {
+   "title": "Hit által megigazulva",
+   "body": "Nem a törvény megtartása, hanem a Jézus Krisztusba vetett hit által nyilvánítanak igaznak: nem a magunk igazságába öltözünk, hanem az övébe.",
+   "vref": "Róma 5:1 · Galata 2:16",
+   "vtext": "Megigazultunk hitből… az ember nem a törvény cselekedetei alapján igazul meg, hanem a Krisztus Jézusba vetett hit által."
+  },
+  {
+   "title": "A Biblia Jézusra mutat",
+   "body": "A Biblia nem nagy emberek életrajza, és nem önsegítő könyv. 1Mózestől a Jelenésekig minden lapja egyvalakiről tesz bizonyságot: Jézus Krisztusról.",
+   "vref": "János 5:39 · Lukács 24:27",
+   "vtext": "Azok rólam tesznek bizonyságot… elmagyarázta nekik mindazt, ami az Írásokban róla szólt."
+  },
+  {
+   "title": "Isten országa – Jézus üzenetének középpontja",
+   "body": "Az a téma, amelyet Jézus a legtöbbet tanított. Az ország, ahol Isten királyként uralkodik, Jézussal lépett be a világba, és visszajövetelekor lesz teljessé. A kereszt és a feltámadás által Jézus az igazi Király, aki legyőzte a bűnt, a halált és a Sátánt.",
+   "vref": "Márk 1:15",
+   "vtext": "Beteljesedett az idő, és elközelített az Isten országa. Térjetek meg, és higgyetek az evangéliumban!"
+  },
+  {
+   "title": "Az evangélium – ő mindent elvégzett",
+   "body": "A bűn adósságát, amelyet én nem tudtam megfizetni, Jézus fizette meg helyettem a kereszten, és feltámadásával legyőzte a halált. Nem a „tedd meg”-re, hanem az „elvégeztetett”-re támaszkodom.",
+   "vref": "János 19:30 · Róma 5:8",
+   "vtext": "Elvégeztetett!… Krisztus már akkor meghalt értünk, amikor még bűnösök voltunk."
+  }
+ ]
+}
