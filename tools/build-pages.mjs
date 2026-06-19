@@ -78,6 +78,11 @@ const LANGS = [
   { code:'war',    dir:'ltr', locale:'war_PH' },
   { code:'bcl',    dir:'ltr', locale:'bcl_PH' },
   { code:'rn',     dir:'ltr', locale:'rn_BI' },
+  { code:'it',     dir:'ltr', locale:'it_IT' },
+  { code:'pl',     dir:'ltr', locale:'pl_PL' },
+  { code:'uk',     dir:'ltr', locale:'uk_UA' },
+  { code:'ro',     dir:'ltr', locale:'ro_RO' },
+  { code:'nl',     dir:'ltr', locale:'nl_NL' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
