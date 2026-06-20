@@ -1254,7 +1254,7 @@ function renderEpochs(pack){
           <div class="meta-row"><span class="k">${u.people}</span><p class="vv">${e.people}</p></div>
           <div class="meta-row"><span class="k">${u.events}</span><p class="vv">${e.events}</p></div>
         </div>
-        <div class="verse"><div class="q">${e.q}</div><div class="cite">${BOOKS[curCode]?e.cite:vlink(EP_REF[i],e.cite,curCode)}${ver}</div></div>
+        <div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite?(BOOKS[curCode]?e.cite:vlink(EP_REF[i],e.cite,curCode))+ver:''}</div></div>
         <div class="thread-line"><p class="note-h"><span class="note-i">🧵</span><b>${u.christLabel}</b></p><p class="note-b">${e.christ}</p></div>
         <div class="love-note"><p class="note-h"><span class="note-i">💛</span><b>${u.loveLabel}</b></p><p class="note-b">${pack.love[i]}</p></div>
         ${mis?`<div class="myth"><div class="m-row"><span class="m-tag wrong">${u.mythWrong}</span><p>${mis.w}</p></div><div class="m-row"><span class="m-tag right">${u.mythRight}</span><p>${mis.t}</p></div></div>`:''}
@@ -1454,7 +1454,7 @@ function shareSite(){ var sh=(curPack&&curPack.share)||{}; openShare({title:sh.t
 var _sb=document.getElementById('shareBtn'); if(_sb) _sb.addEventListener('click',shareSite);
 document.querySelectorAll('[data-share]').forEach(function(b){ b.addEventListener('click',shareSite); });
 /* 장면별 공유 (이벤트 위임) */
-main.addEventListener('click',function(e){ var b=e.target.closest('.ep-share'); if(!b)return; var i=+b.dataset.sc-1; var e2=curPack&&curPack.epochs&&curPack.epochs[i]; if(!e2)return; openShare({title:e2.title, text:e2.one+'\n“'+e2.q+'” '+e2.cite, url:shareUrl()+'#s'+(i+1), img:'“'+e2.q+'”\n— '+e2.cite}); });
+main.addEventListener('click',function(e){ var b=e.target.closest('.ep-share'); if(!b)return; var i=+b.dataset.sc-1; var e2=curPack&&curPack.epochs&&curPack.epochs[i]; if(!e2)return; openShare({title:e2.title, text:e2.one+'\n“'+e2.q+'”'+(e2.cite?' '+e2.cite:''), url:shareUrl()+'#s'+(i+1), img:'“'+e2.q+'”'+(e2.cite?'\n— '+e2.cite:'')}); });
 /* 더보기 열람 이벤트 */
 main.addEventListener('toggle',function(e){ var d=e.target; if(d.tagName==='DETAILS'&&d.open&&d.classList.contains('more')){ var sec=d.closest('.epoch'); gevent('read_more',{scene:sec?+sec.dataset.sc:0}); } },true);
 
