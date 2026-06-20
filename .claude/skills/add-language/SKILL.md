@@ -82,9 +82,13 @@ node .claude/skills/add-language/lib/verify-verbatim.mjs <code>   # 인용 verba
   - 흔한 정상 FLAG(오탐) 판별: ① 인용이 산문 중간을 건너뛰는데 `…` 없이 이어붙임 → **진짜 문제(…)를 넣거나 본문 보강)**; ② 절번호 차이(사9:6/9:5)·LXX 시편번호는 cite 를 판본 자체번호로 맞추면 해소; ③ inline 산문 인용은 이 도구가 검사 안 함(원어민 검수 담당).
 - 추가 수동 확인: `<code>/index.html` 의 lang/BOOTLANG/프리렌더(자국어)/canonical/hreflang/film-free, `og-<code>.png` 1200×630, sitemap 에 `/<code>/` 1줄.
 
-## 6. 원어민 검수 (백그라운드 에이전트) + 역번역 QA
-- 원어민 검수 에이전트: **판본 verbatim 대조**(전 인용 fetch) + 책이름/번호 + 산문 품질 + FAQ 영화무관 + HTML. **보고만**.
-- 보고의 **진짜 verbatim 불일치는 본인이 직접 수정**(원문 재fetch로 확인 후). ZWNJ/Cyrillic 등은 코드포인트 대조로 안전 편집(스크립트 치환 권장). 수정 후 `build-pages` 재실행.
+## 6. 원어민 검수 (백그라운드 에이전트) + 산문 자동 점검
+- **원어민 검수 에이전트 실행 방법**(재사용 프롬프트): `lib/native-review-prompt.md` 의 `«...»` 자리를 채워
+  **언어별 백그라운드 에이전트**(Agent/Task 툴, 능력 좋은 모델)로 띄운다. 여러 언어면 **병렬 실행**. 에이전트는 **보고만**(파일 수정 금지).
+  - 채울 값: `«언어명»`·`«code»`·`«판본명»`·`«YVid»`(=CLAUDE.md 구절링크 절의 검증된 YV id).
+  - 검수 범위: **판본 verbatim 대조**(전 인용 fetch-verse) + 책이름/번호 + 산문 품질·교리 충실 + 민감 주제 완화 + HTML.
+  - 자동검증(5단계 verify-verbatim·아래 verify-prose) **이후** 실행 — 자동이 못 잡는 fluency·관용·교리 뉘앙스·인라인 인용 verbatim 을 사람(원어민) 관점에서 잡는다.
+- 보고의 **진짜 verbatim 불일치는 본인(메인 세션)이 직접 수정**(fetch-verse 로 원문 재확인 후). ZWNJ/Cyrillic 등은 코드포인트 대조로 안전 편집(스크립트 치환 권장). 수정 후 `build-pages` 재실행.
 - 절번호 차이 주의: 사 9:6 vs 9:5는 번역본별 상이(CUV/ESV/Синод./АБ=9:6; TB/BTT/Luther/新共同訳=9:5).
 - **★ 연결 산문(인용 아닌 본문) 의미검증 = 산문 자동 점검**:
   ```
@@ -168,6 +172,6 @@ git checkout claude/bible-timeline-mobile-site-cb8u6x
 - [ ] build-pages: LANGS(+필요시 FONT·letterspacing0)
 - [ ] qr-<code>.png · build 산출물(<code>/index.html·og-<code>.png·sitemap·llms)
 - [ ] validate ✓ · audit-links missed 0·anchors OK · **verify-verbatim CLEAN** · **verify-prose 플래그 triage**(POLARITY 우선, 진짜 반전/누락만 수정)
-- [ ] 원어민 검수 반영(진짜 불일치 0)
+- [ ] 원어민 검수(`lib/native-review-prompt.md` 로 언어별 에이전트 실행, 보고만) → 진짜 불일치 본인이 수정(불일치 0)
 - [ ] **CLAUDE.md 갱신**(현재 상태 언어 수·목록·날짜·이력 + YV ID 목록) — 새 함정이면 SKILL.md 다이제스트에도 추가
 - [ ] 커밋·푸시(작업 브랜치) → (허락 시) main 배포 → 라이브 확인
