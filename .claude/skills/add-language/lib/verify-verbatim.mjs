@@ -46,7 +46,8 @@ const HEBREW_MARKS = /[֑-ׇֽֿׁׂׅׄ]/g;
 const ALEF = /[آأإٱ]/g;
 const ZW = /[­​-‏]/g;
 const norm = t => t.normalize('NFC').replace(ARABIC_MARKS, '').replace(HEBREW_MARKS, '').replace(ALEF, 'ا').replace(ZW, '');
-const key = t => norm(t).toLowerCase().replace(/[^\p{L}\p{N}]/gu, '');
+// ʻokina(U+02BB)·곡선/수직 아포스트로피 계열은 글자(Lm)라 그냥 두면 안 사라짐 → 먼저 제거(코드포인트 차이 = noise).
+const key = t => norm(t).toLowerCase().replace(/[ʻʼʽʾʿ‘’‛`´]/g, '').replace(/[^\p{L}\p{N}]/gu, '');
 const disp = t => t.replace(ZW, '').replace(/\s+/g, ' ').trim();
 const stripq = t => t.replace(/^[\s"“«»”'‚„‹›]+|[\s"“«»”'‚„‹›]+$/g, '');
 function contains(src, seg) { const k = key(seg); return k.length >= 4 && key(src).includes(k); }
