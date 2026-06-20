@@ -431,8 +431,14 @@
   .r-after b{color:var(--accent)}
   .r-verse{font-family:var(--serif);font-size:14px;color:var(--accent);max-width:46ch;margin:0 auto;line-height:1.7}
   .partial-note{font-size:12.5px;line-height:1.5;color:var(--muted);background:rgba(0,0,0,.04);border-bottom:1px solid rgba(0,0,0,.06);padding:9px 16px;text-align:center}
-  .r-read{display:inline-block;margin:22px auto 0;padding:13px 22px;border-radius:999px;background:var(--accent);color:#fff;font-size:15px;font-weight:700;text-decoration:none;box-shadow:0 4px 14px rgba(0,0,0,.18)}
+  .r-read{display:inline-flex;align-items:center;gap:9px;margin:24px auto 0;padding:11px 20px;border-radius:999px;
+    background:rgba(233,185,73,.10);border:1px solid rgba(233,185,73,.42);color:var(--accent);
+    font-family:var(--serif);font-size:15px;font-weight:600;text-decoration:none;transition:background .15s,border-color .15s}
+  .r-read:hover{background:rgba(233,185,73,.17);border-color:rgba(233,185,73,.62)}
   .r-read:active{transform:translateY(1px)}
+  .r-read .r-ic{width:18px;height:18px;flex:none;opacity:.9}
+  :root.sepia .r-read{background:rgba(176,125,35,.10);border-color:rgba(176,125,35,.4)}
+  :root.sepia .r-read:hover{background:rgba(176,125,35,.16);border-color:rgba(176,125,35,.6)}
 
   /* 흔한 오해 → 사실은 */
   .myth{margin-top:16px;border:1px solid var(--line);border-radius:13px;overflow:hidden}
@@ -590,7 +596,7 @@
       <div class="prayer" data-i18n="respond.prayer"><p>A Suku,</p><p>ndi tava okuti ndi ukuakandu ka ndi tẽla oku lipopela ame muẽle.</p><p>Ndi kolela okuti Yesu wa fa kekulusu omo liange kuenje wa pinduka.</p><p>Ñ ecela akandu ange osi, kuenje tunde etali kala Ñala yomuenyo wange.</p><p>Ndi tambula ndomõla wove, kuenje ñ ecelela oku kala lomuenyo wokaliye.</p><p class="amen">Vonduko ya Yesu ndi vondisa. Ame.</p></div>
       <p class="r-after" data-i18n="respond.after">Nda wa vondisa locili, Embimbiliya li popia okuti wa <b>linga omõla wa Suku</b>. Ka u kasi vali wove lika — sanda ekongelo ocipepi kuenje endaenda olonjila viekolelo pamuamue.</p>
       <div class="r-verse" data-i18n="respond.verse">«Puãi vosi vo tambula, kuenda va kolela onduko yaye, wa va iha omoko yoku linga omãla va Suku.» — Yoano 1:12 · Va Roma 10:9-10</div>
-      <a class="r-read" id="readBtn" target="_blank" rel="noopener" href="#" hidden>📖 성경을 직접 읽어 보세요 — 요한복음부터</a>
+      <a class="r-read" id="readBtn" target="_blank" rel="noopener" href="#" hidden>성경을 직접 읽어 보세요 — 요한복음부터</a>
     </div>
   </div>
 </section>
@@ -891,7 +897,7 @@ const EN_PACK={menuName:`English`,htmlLang:`en`,dir:`ltr`,brand:`Bible in One Sc
    'respond.sub':`This love is not information but an <b>invitation</b>. If the love that was nailed in your place has touched your heart, pray this slowly, one line at a time.`,
    'respond.prayer':`<p>God,</p><p>I admit I am a sinner who cannot save myself.</p><p>I believe Jesus died on the cross for me and rose again.</p><p>Please forgive all my sins, and from now on be the Lord of my life.</p><p>Receive me as Your child, and let me live a new life.</p><p class="amen">In Jesus’ name I pray. Amen.</p>`,
    'respond.after':`If you prayed this sincerely, the Bible says you have <b>become a child of God</b>. You are no longer alone — find a nearby church and walk the road of faith together.`,
-   'respond.read':`📖 Read the Bible for yourself — start with John`,
+   'respond.read':`Read the Bible for yourself — start with John`,
    'respond.verse':`“But to all who did receive him, who believed in his name, he gave the right to become children of God.” — John 1:12 · Romans 10:9-10`,
    'closing.main':`One God,<br>through one story,<br>comes after us with a<br><em>love</em> that never gives up.`,
    'closing.verse':`“Neither death nor life … nor anything else in all creation will be able to separate us from the love of God in Christ Jesus our Lord.” — Romans 8:38-39`,
@@ -1319,7 +1325,7 @@ function doApply(pack,code){
   html.setAttribute('lang',pack.htmlLang||code);
   html.setAttribute('dir',pack.dir||'ltr');
   I18N_NODES.forEach(n=>{const k=n.getAttribute('data-i18n');const v=pack.s?pack.s[k]:null;n.innerHTML=linkifyRefs(v!=null?v:ORIG[k], code);});
-  (function(){var rb=document.getElementById('readBtn');if(!rb)return;var rv=(code==='ko')?READ_KO:(pack.s&&pack.s['respond.read']);var u=verseUrl('JHN.1.1',code);if(rv&&u){rb.innerHTML=rv;rb.href=u;rb.hidden=false;}else{rb.hidden=true;}})();
+  (function(){var rb=document.getElementById('readBtn');if(!rb)return;var rv=(code==='ko')?READ_KO:(pack.s&&pack.s['respond.read']);var u=verseUrl('JHN.1.1',code);if(rv&&u){rv=rv.replace(/^\s*📖\s*/,'').trim();rb.innerHTML='<svg class="r-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6.6C10.3 5.3 7.9 4.8 4.9 5.2A1 1 0 0 0 4 6.2v11a1 1 0 0 0 1.1 1c2.7-.3 4.9.2 6.9 1.5 2-1.3 4.2-1.8 6.9-1.5a1 1 0 0 0 1.1-1v-11a1 1 0 0 0-.9-1c-3-.4-5.4.1-7.1 1.4Z"/><path d="M12 6.6v12.6"/></svg><span>'+rv+'</span>';rb.href=u;rb.hidden=false;}else{rb.hidden=true;}})();
   (function(){var pn=document.getElementById('partialNote');if(!pn)return;var v=pack.s&&pack.s['partial.note'];if(v){pn.textContent=v;pn.hidden=false;}else{pn.hidden=true;}})();
   document.querySelectorAll('[data-sec]').forEach(sec=>{const lk=sec.getAttribute('data-sec');const lab=pack.labels&&pack.labels[lk];if(lab){sec.dataset.title=lab;sec.dataset.label=lab;}});
   renderCore(pack); renderEpochs(pack);
