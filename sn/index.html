@@ -429,6 +429,8 @@
   .r-after{font-size:14px;color:var(--muted);max-width:42ch;margin:0 auto 16px}
   .r-after b{color:var(--accent)}
   .r-verse{font-family:var(--serif);font-size:14px;color:var(--accent);max-width:46ch;margin:0 auto;line-height:1.7}
+  .r-read{display:inline-block;margin:22px auto 0;padding:13px 22px;border-radius:999px;background:var(--accent);color:#fff;font-size:15px;font-weight:700;text-decoration:none;box-shadow:0 4px 14px rgba(0,0,0,.18)}
+  .r-read:active{transform:translateY(1px)}
 
   /* 흔한 오해 → 사실은 */
   .myth{margin-top:16px;border:1px solid var(--line);border-radius:13px;overflow:hidden}
@@ -585,6 +587,7 @@
       <div class="prayer" data-i18n="respond.prayer"><p>Mwari,</p><p>ndinobvuma kuti ndiri mutadzi asingagoni kuzviponesa.</p><p>Ndinotenda kuti Jesu akandifira pamuchinjikwa uye akamukazve.</p><p>Ndapota kanganwirai zvivi zvangu zvose, uye kubva nhasi ivai Ishe woupenyu hwangu.</p><p>Ndigamuchirei somwana wenyu, uye ndiponesei kuti ndirarame upenyu hutsva.</p><p class='amen'>Muzita raJesu ndinonyengetera. Ameni.</p></div>
       <p class="r-after" data-i18n="respond.after">Kana wanyengetera uku nomwoyo wose, Bhaibheri rinoti <b>wava mwana waMwari</b>. Hauchisiri wega — tsvaka kereke iri pedyo ufambe naro mu rwendo rwokutenda pamwe chete.</p>
       <div class="r-verse" data-i18n="respond.verse">“Asi vose vakamugamuchira, akavapa simba kuti vave vana vaMwari.” — Johani 1:12 · VaRoma 10:9-10</div>
+      <a class="r-read" id="readBtn" target="_blank" rel="noopener" href="#" hidden>📖 성경을 직접 읽어 보세요 — 요한복음부터</a>
     </div>
   </div>
 </section>
@@ -885,6 +888,7 @@ const EN_PACK={menuName:`English`,htmlLang:`en`,dir:`ltr`,brand:`Bible in One Sc
    'respond.sub':`This love is not information but an <b>invitation</b>. If the love that was nailed in your place has touched your heart, pray this slowly, one line at a time.`,
    'respond.prayer':`<p>God,</p><p>I admit I am a sinner who cannot save myself.</p><p>I believe Jesus died on the cross for me and rose again.</p><p>Please forgive all my sins, and from now on be the Lord of my life.</p><p>Receive me as Your child, and let me live a new life.</p><p class="amen">In Jesus’ name I pray. Amen.</p>`,
    'respond.after':`If you prayed this sincerely, the Bible says you have <b>become a child of God</b>. You are no longer alone — find a nearby church and walk the road of faith together.`,
+   'respond.read':`📖 Read the Bible for yourself — start with John`,
    'respond.verse':`“But to all who did receive him, who believed in his name, he gave the right to become children of God.” — John 1:12 · Romans 10:9-10`,
    'closing.main':`One God,<br>through one story,<br>comes after us with a<br><em>love</em> that never gives up.`,
    'closing.verse':`“Neither death nor life … nor anything else in all creation will be able to separate us from the love of God in Christ Jesus our Lord.” — Romans 8:38-39`,
@@ -1038,6 +1042,7 @@ function resolveNav(nav){
 
 const I18N_NODES=[...document.querySelectorAll('[data-i18n]')];
 const ORIG={}; I18N_NODES.forEach(n=>{ORIG[n.getAttribute('data-i18n')]=n.innerHTML;});
+const READ_KO=(document.getElementById('readBtn')||{}).innerHTML||'';
 let curPack=KO_PACK, curCode='ko';
 
 /* ---- 성경 구절 링크 (ko=개역개정 bskorea / 나머지=YouVersion, USFM 통일) ---- */
@@ -1309,6 +1314,7 @@ function doApply(pack,code){
   html.setAttribute('lang',pack.htmlLang||code);
   html.setAttribute('dir',pack.dir||'ltr');
   I18N_NODES.forEach(n=>{const k=n.getAttribute('data-i18n');const v=pack.s?pack.s[k]:null;n.innerHTML=linkifyRefs(v!=null?v:ORIG[k], code);});
+  (function(){var rb=document.getElementById('readBtn');if(!rb)return;var rv=(code==='ko')?READ_KO:(pack.s&&pack.s['respond.read']);var u=verseUrl('JHN.1.1',code);if(rv&&u){rb.innerHTML=rv;rb.href=u;rb.hidden=false;}else{rb.hidden=true;}})();
   document.querySelectorAll('[data-sec]').forEach(sec=>{const lk=sec.getAttribute('data-sec');const lab=pack.labels&&pack.labels[lk];if(lab){sec.dataset.title=lab;sec.dataset.label=lab;}});
   renderCore(pack); renderEpochs(pack);
   buildNav(); setupObservers(); bindContact(); onScroll();
