@@ -123,5 +123,5 @@ for (const code of codes) {
   }
   totalFlag += real.length;
 }
-if (arg === '--all') console.log(`\n총 FLAG: ${totalFlag} (언어 ${codes.length - 1}, EN 베이스라인 ${baseline.size}건 제외)`);
+if (arg === '--all') console.log(`\n총 FLAG: ${totalFlag} (언어 ${codes.length - 1}, EN 일탈필드 ${enLabels.size}개 + 호칭/적용 cite 제외)`);
 process.exit(totalFlag ? 1 : 0);
