@@ -476,6 +476,14 @@ ${LANGS.map(L=>`- ${L.code}: ${L.code==='ko'?ORIGIN+'/':ORIGIN+'/'+L.code+'/'}`)
 `;
 fs.writeFileSync(`${root}/llms.txt`, llms);
 
+// ---- i18n/en.json (기여자용 영어 템플릿/레퍼런스 — en 페이지는 인라인 EN_PACK 사용, 이 파일은 번역 출발점) ----
+try {
+  const P = EN_PACK;
+  const en = { menuName: P.menuName, htmlLang: 'en', dir: P.dir, brand: P.brand, docTitle: P.docTitle,
+    share: P.share, ui: P.ui, labels: P.labels, s: P.s, epochs: P.epochs, love: P.love, mis: P.mis, core: P.core };
+  fs.writeFileSync(`${root}/i18n/en.json`, JSON.stringify(en, null, 1));
+} catch (e) { console.log('i18n/en.json 생성 건너뜀:', e.message); }
+
 // ---- 서비스워커 캐시 버전 스탬프 ----
 // 앱 셸(index.html) 해시로 CACHE 이름을 갱신 → 셸 변경 시 SW 가 옛 캐시 자동 폐기.
 // (i18n 본문은 sw.js 에서 network-first 라 별도 무효화 불필요)
