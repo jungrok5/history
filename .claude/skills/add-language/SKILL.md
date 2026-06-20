@@ -86,16 +86,22 @@ node .claude/skills/add-language/lib/verify-verbatim.mjs <code>   # 인용 verba
 - 원어민 검수 에이전트: **판본 verbatim 대조**(전 인용 fetch) + 책이름/번호 + 산문 품질 + FAQ 영화무관 + HTML. **보고만**.
 - 보고의 **진짜 verbatim 불일치는 본인이 직접 수정**(원문 재fetch로 확인 후). ZWNJ/Cyrillic 등은 코드포인트 대조로 안전 편집(스크립트 치환 권장). 수정 후 `build-pages` 재실행.
 - 절번호 차이 주의: 사 9:6 vs 9:5는 번역본별 상이(CUV/ESV/Синод./АБ=9:6; TB/BTT/Luther/新共同訳=9:5).
-- **★ 연결 산문(인용 아닌 본문) 의미검증 = 역번역 QA**:
+- **★ 연결 산문(인용 아닌 본문) 의미검증 = 산문 자동 점검**:
   ```
-  node .claude/skills/add-language/lib/backtranslate-check.mjs <code> [ko]
+  node .claude/skills/add-language/lib/verify-prose.mjs <code>          # 플래그된 후보만 출력(+요약), 플래그시 exit 1
+  node .claude/skills/add-language/lib/verify-prose.mjs <code> --all     # 전 필드 점수와 함께
+  node .claude/skills/add-language/lib/verify-prose.mjs <code> --dump    # 역번역 원문만 나열(대조 없이)
   ```
-  구글번역 무료 엔드포인트로 산문을 ko 로 **역번역**해 의도(EN/KO)와 대조 → **의미 반전/오역**을 잡음.
+  산문 필드를 구글번역으로 **영어 역번역** 후 정본 `index.html`의 `EN_PACK` 같은 필드와 **자동 대조**해 후보를 추린다:
+  - **POLARITY** — 부정어(not/no/never/without/n't…) 유무가 정본과 뒤집힘 = **의미 반전 의심**(최우선).
+  - **LOW-SIM** — 역번역↔정본 문자 바이그램 Dice 유사도 < 0.30 = 오역/누락 의심(짧은 관용구 <24자는 제외).
+  - **LEN** — 길이비 < 0.45 또는 > 2.3 = 통째 누락/중복 의심.
   배경: 저자원 언어는 verify-verbatim(인용 전용)으로 못 잡는 **산문 오류**가 생김. 실제로 ff `about.line` 이
   "Ɗoftaaki…"(**부정 완료형** = "따르지 **않는다**")로 시작해 "복음주의·개혁주의 관점을 **안** 따른다"는 정반대 뜻이었음
-  (ff 본문 내 `ɗoftaaki haɗaaki`=불순종 용례로 확정). 구글 역번역이 이 반전을 즉시 드러냄 → "E dow yiyannde…"로 교정.
-  **주의**: ① 구글번역 미지원 저자원어는 결과가 비거나 엉뚱 → 그땐 원어민 검수만이 답. ② 역번역의 어휘 오류(책이름·고유어)는
-  구글측 노이즈이지 우리 오류 아님 — **폴라리티(긍정↔부정)·교리 명제 반전**에만 집중해 판단. ③ 인용절(q/vtext/verse)은 제외(verbatim).
+  (ff 본문 내 `ɗoftaaki haɗaaki`=불순종 용례로 확정). 이 도구가 POLARITY(ref 0↔bt 1)로 즉시 적발 → "E dow yiyannde…"로 교정.
+  **주의**: ① 플래그는 **확정 오류가 아니라 검수 후보** — 구글번역 의역(undeserving↔not deserve, never↔unfailing)·짧은 관용구
+  로 인한 **오탐**이 섞임(저자원어일수록 多). **POLARITY 부터** 보고, BT↔REF 를 눈으로 대조해 진짜 반전/누락만 본인이 수정.
+  ② 구글번역 미지원 저자원어는 GT-FAIL/엉뚱 결과 → 그땐 원어민 검수만이 답. ③ 인용절(q/vtext/verse)은 제외(verify-verbatim 담당).
   부정형 어미(언어별: 풀라 -aaki/-aaka/-aani/-ataako 등)가 **긍정 의도 자리**에 오면 적신호.
 
 ## 7. 커밋 (작업 브랜치)
@@ -161,7 +167,7 @@ git checkout claude/bible-timeline-mobile-site-cb8u6x
 - [ ] index.html: hreflang·LANGS·YV·BOOKS.<code>·BOOKOPT
 - [ ] build-pages: LANGS(+필요시 FONT·letterspacing0)
 - [ ] qr-<code>.png · build 산출물(<code>/index.html·og-<code>.png·sitemap·llms)
-- [ ] validate ✓ · audit-links missed 0·anchors OK · **verify-verbatim CLEAN**
+- [ ] validate ✓ · audit-links missed 0·anchors OK · **verify-verbatim CLEAN** · **verify-prose 플래그 triage**(POLARITY 우선, 진짜 반전/누락만 수정)
 - [ ] 원어민 검수 반영(진짜 불일치 0)
 - [ ] **CLAUDE.md 갱신**(현재 상태 언어 수·목록·날짜·이력 + YV ID 목록) — 새 함정이면 SKILL.md 다이제스트에도 추가
 - [ ] 커밋·푸시(작업 브랜치) → (허락 시) main 배포 → 라이브 확인
