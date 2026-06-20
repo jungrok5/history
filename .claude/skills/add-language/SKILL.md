@@ -82,10 +82,21 @@ node .claude/skills/add-language/lib/verify-verbatim.mjs <code>   # 인용 verba
   - 흔한 정상 FLAG(오탐) 판별: ① 인용이 산문 중간을 건너뛰는데 `…` 없이 이어붙임 → **진짜 문제(…)를 넣거나 본문 보강)**; ② 절번호 차이(사9:6/9:5)·LXX 시편번호는 cite 를 판본 자체번호로 맞추면 해소; ③ inline 산문 인용은 이 도구가 검사 안 함(원어민 검수 담당).
 - 추가 수동 확인: `<code>/index.html` 의 lang/BOOTLANG/프리렌더(자국어)/canonical/hreflang/film-free, `og-<code>.png` 1200×630, sitemap 에 `/<code>/` 1줄.
 
-## 6. 원어민 검수 (백그라운드 에이전트)
+## 6. 원어민 검수 (백그라운드 에이전트) + 역번역 QA
 - 원어민 검수 에이전트: **판본 verbatim 대조**(전 인용 fetch) + 책이름/번호 + 산문 품질 + FAQ 영화무관 + HTML. **보고만**.
 - 보고의 **진짜 verbatim 불일치는 본인이 직접 수정**(원문 재fetch로 확인 후). ZWNJ/Cyrillic 등은 코드포인트 대조로 안전 편집(스크립트 치환 권장). 수정 후 `build-pages` 재실행.
 - 절번호 차이 주의: 사 9:6 vs 9:5는 번역본별 상이(CUV/ESV/Синод./АБ=9:6; TB/BTT/Luther/新共同訳=9:5).
+- **★ 연결 산문(인용 아닌 본문) 의미검증 = 역번역 QA**:
+  ```
+  node .claude/skills/add-language/lib/backtranslate-check.mjs <code> [ko]
+  ```
+  구글번역 무료 엔드포인트로 산문을 ko 로 **역번역**해 의도(EN/KO)와 대조 → **의미 반전/오역**을 잡음.
+  배경: 저자원 언어는 verify-verbatim(인용 전용)으로 못 잡는 **산문 오류**가 생김. 실제로 ff `about.line` 이
+  "Ɗoftaaki…"(**부정 완료형** = "따르지 **않는다**")로 시작해 "복음주의·개혁주의 관점을 **안** 따른다"는 정반대 뜻이었음
+  (ff 본문 내 `ɗoftaaki haɗaaki`=불순종 용례로 확정). 구글 역번역이 이 반전을 즉시 드러냄 → "E dow yiyannde…"로 교정.
+  **주의**: ① 구글번역 미지원 저자원어는 결과가 비거나 엉뚱 → 그땐 원어민 검수만이 답. ② 역번역의 어휘 오류(책이름·고유어)는
+  구글측 노이즈이지 우리 오류 아님 — **폴라리티(긍정↔부정)·교리 명제 반전**에만 집중해 판단. ③ 인용절(q/vtext/verse)은 제외(verbatim).
+  부정형 어미(언어별: 풀라 -aaki/-aaka/-aani/-ataako 등)가 **긍정 의도 자리**에 오면 적신호.
 
 ## 7. 커밋 (작업 브랜치)
 - **커밋 전 `CLAUDE.md` 갱신**(언어 추가 시 필수): `## 현재 상태`의 언어 수·코드 목록·날짜·작업 이력에 새 언어 반영 + `구절 링크` 섹션의 `YV 버전ID(검증됨)` 목록에 `<code><id>` 추가. (CLAUDE.md는 `.vercelignore`로 배포 제외 → 사이트 영향 없음)
