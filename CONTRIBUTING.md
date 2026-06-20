@@ -77,6 +77,36 @@ Open an [issue](../../issues) if you have questions.
 
 ---
 
+## 🔑 언어 코드 찾기 · Finding your language code
+
+이 프로젝트는 브라우저·Unicode CLDR·YouVersion이 쓰는 표준 코드(**BCP-47 = ISO 639**)를 그대로 씁니다. 파일 이름이 `i18n/<코드>.json` 이므로 코드를 정확히 골라야 합니다.
+
+**규칙 (rules):**
+1. **2글자(ISO 639-1)가 있으면 그걸 씁니다** — 예: 한국어 `ko`, 스와힐리어 `sw`, 베트남어 `vi`.
+2. **2글자가 없으면 3글자(ISO 639-3)** — 예: 세부아노 `ceb`, 톡피신 `tpi`, 키체 `quc`.
+3. **문자(script)가 여럿이면 `-` 뒤에 4글자 문자코드** — 예: 중국어 간체 `zh-Hans`, 번체 `zh-Hant`.
+4. **지역 구분이 필요할 때만 `-` 뒤에 지역코드** — 예: 브라질 포르투갈어 `pt-BR`.
+5. 소문자 우선(문자코드는 첫 글자 대문자: `Hans`, `Latn`).
+
+**찾는 순서 (how to look it up):**
+1. **이미 있는지 확인** — `i18n/` 폴더 목록이나 사이트 우측 상단 🌐 메뉴에 당신 언어가 이미 있을 수 있습니다(있으면 “수정” 경로로).
+2. **표에서 찾기** — 아래 중 하나에서 언어 이름으로 검색:
+   - 위키백과: **“List of ISO 639 language codes”** (이름 → 639-1 2글자 있으면 그것, 없으면 639-3 3글자)
+   - SIL 공식 등록부: **https://iso639-3.sil.org/code_tables/639/data** (이름으로 검색)
+   - 또는 구글에 **“(언어 이름) ISO 639 code”**
+3. **YouVersion 확인** — 인용은 [bible.com](https://www.bible.com)으로 링크되므로, 거기에 당신 언어 성경이 있는지 보고 코드를 맞춥니다(대개 위 표준과 동일).
+4. **모르겠으면 그냥 [이슈](../../issues)를 여세요** — “새 언어 요청”으로 이름만 적어주시면 코드를 정해 드립니다.
+
+---
+
+This project uses the same standard codes as browsers, Unicode CLDR and YouVersion (**BCP-47 = ISO 639**). Since the file is named `i18n/<code>.json`, pick the code carefully.
+
+**Rules:** ① use the 2-letter **ISO 639-1** code if one exists (`ko`, `sw`, `vi`); ② otherwise the 3-letter **ISO 639-3** (`ceb`, `tpi`, `quc`); ③ add a 4-letter script subtag only if the language uses several scripts (`zh-Hans`, `zh-Hant`); ④ add a region subtag only when needed (`pt-BR`); ⑤ lowercase, with the script capitalized (`Hans`, `Latn`).
+
+**How to look it up:** ① check `i18n/` or the site’s 🌐 menu (it may exist already → use the “fix” path); ② search your language name in Wikipedia **“List of ISO 639 language codes”**, the SIL registry **https://iso639-3.sil.org/code_tables/639/data**, or Google “*(language) ISO 639 code*” — prefer the 2-letter, else the 3-letter; ③ confirm your Bible exists on [bible.com](https://www.bible.com); ④ **unsure? just open an [issue](../../issues)** and we’ll assign the code.
+
+---
+
 ## 파일 구조 한눈에 · The file at a glance
 
 ```jsonc
