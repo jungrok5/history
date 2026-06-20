@@ -77,9 +77,11 @@ node tools/build-pages.mjs                                   # <code>/index.html
 node .claude/skills/add-language/lib/validate.mjs <code>          # APP_JS_OK 재확인
 node .claude/skills/add-language/lib/audit-links.mjs <code>       # 표시↔USFM 정합·미링크 0·anchors OK
 node .claude/skills/add-language/lib/verify-verbatim.mjs <code>   # 인용 verbatim(epoch q·core vtext) — CLEAN 목표
+node .claude/skills/add-language/lib/verify-inline.mjs <code>     # 본문 안 인라인 인용(christ/detail/mis/faq/respond.verse/closing.verse/gospel.crux) — EN 베이스라인 대비
 ```
 - **verify-verbatim 은 설정파일 불필요**: 책이름·YV를 배포된 index.html `BOOKS.<code>`/`YV` 에서 직접 읽어 fetch-verse 원문과 대조(대소문자·따옴표·구두점·ZW·테아밈 정규화). **FLAG 가 뜨면 실제 의역/누락 가능성** → 원문 재fetch 후 본인이 직접 verbatim 교정. (드래프팅 자체검증을 했어도 최종 게이트로 반드시 실행.)
-  - 흔한 정상 FLAG(오탐) 판별: ① 인용이 산문 중간을 건너뛰는데 `…` 없이 이어붙임 → **진짜 문제(…)를 넣거나 본문 보강)**; ② 절번호 차이(사9:6/9:5)·LXX 시편번호는 cite 를 판본 자체번호로 맞추면 해소; ③ inline 산문 인용은 이 도구가 검사 안 함(원어민 검수 담당).
+  - 흔한 정상 FLAG(오탐) 판별: ① 인용이 산문 중간을 건너뛰는데 `…` 없이 이어붙임 → **진짜 문제(…)를 넣거나 본문 보강)**; ② 절번호 차이(사9:6/9:5)·LXX 시편번호는 cite 를 판본 자체번호로 맞추면 해소.
+- **verify-inline**(verify-verbatim 의 사각 보완): epoch q·core vtext 외 **본문에 박힌 인용+참조**(괄호형 `«…»(책 c:v)` + 대시형 `"…" — 책 c:v`)를 전수 검사. `i18n/en.json`(정본)을 **베이스라인**으로 — EN 도 축약/강조/엘리전한 자리는 편집의도라 제외, **EN 이 verbatim 인데 번역만 어긋난 것만** 플래그(MAL3:1 «I send my messenger» 가 42개 언어에서 환언됐던 류). **확정 아닌 검수 후보**(따옴표 친 호칭·저자표현이 cite 옆이면 오탐) → q/s 눈으로 보고 진짜 인용 일탈만 fetch-verse 재확인 후 교정. `--all` 로 전 언어 스윕.
 - 추가 수동 확인: `<code>/index.html` 의 lang/BOOTLANG/프리렌더(자국어)/canonical/hreflang/film-free, `og-<code>.png` 1200×630, sitemap 에 `/<code>/` 1줄.
 
 ## 6. 원어민 검수 (백그라운드 에이전트) + 산문 자동 점검
@@ -171,7 +173,7 @@ git checkout claude/bible-timeline-mobile-site-cb8u6x
 - [ ] index.html: hreflang·LANGS·YV·BOOKS.<code>·BOOKOPT
 - [ ] build-pages: LANGS(+필요시 FONT·letterspacing0)
 - [ ] qr-<code>.png · build 산출물(<code>/index.html·og-<code>.png·sitemap·llms)
-- [ ] validate ✓ · audit-links missed 0·anchors OK · **verify-verbatim CLEAN** · **verify-prose 플래그 triage**(POLARITY 우선, 진짜 반전/누락만 수정)
+- [ ] validate ✓ · audit-links missed 0·anchors OK · **verify-verbatim CLEAN** · **verify-inline 플래그 triage**(인라인 인용, EN 베이스라인) · **verify-prose 플래그 triage**(POLARITY 우선, 진짜 반전/누락만 수정)
 - [ ] 원어민 검수(`lib/native-review-prompt.md` 로 언어별 에이전트 실행, 보고만) → 진짜 불일치 본인이 수정(불일치 0)
 - [ ] **CLAUDE.md 갱신**(현재 상태 언어 수·목록·날짜·이력 + YV ID 목록) — 새 함정이면 SKILL.md 다이제스트에도 추가
 - [ ] 커밋·푸시(작업 브랜치) → (허락 시) main 배포 → 라이브 확인
