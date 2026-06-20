@@ -1,0 +1,345 @@
+{
+ "menuName": "Fulfulde",
+ "htmlLang": "ff",
+ "dir": "ltr",
+ "brand": "Linjiila e gite goo",
+ "docTitle": "Linjiila e gite goo · Daga tagugol haa mawɓe diina",
+ "share": {
+  "title": "Linjiila e gite goo",
+  "text": "E gite goo tan, tawu daari mawɗi Linjiila — e ko adii Yeesu."
+ },
+ "ui": {
+  "people": "Yimɓe",
+  "events": "Kuuɗe mawɗe",
+  "christLabel": "Hollay Yeesu",
+  "loveLabel": "Yidde nde wattataako",
+  "mythWrong": "Faamuki kaljungal",
+  "mythRight": "Goonga on",
+  "more": "Janga ko ɓuri",
+  "version": "(Linjiila)"
+ },
+ "labels": {
+  "start": "Fuɗɗorde",
+  "thread": "Daari",
+  "gospel": "Habaru Belɗum",
+  "about": "Dow lor"
+ },
+ "s": {
+  "ui.share": "↗ Lillu",
+  "ui.toast": "Laawol nanngaama 📋",
+  "ui.footer": "Linjiila e gite goo · Aayaaje Linjiila",
+  "hero.kicker": "DAGA TAGUGOL HAA MAWƁE DIINA",
+  "hero.title": "Linjiila,<br><span class='em'>e gite goo</span>",
+  "hero.sub": "E gite goo tan, tawu daari mawɗi Linjiila — e ko adii Yeesu.",
+  "hero.cue": "Joofto les<span>↓</span>",
+  "thread.eyebrow": "KONNGOL GOOTOL HABBORƊOL ɗum FUU",
+  "thread.h2": "Haa joofnde, Linjiila ko daari gootol",
+  "thread.flow": "<b>Aadi</b><span class='arw'>→</span><b>Habbaaki</b><span class='arw'>→</span><b>Timminaaki</b>",
+  "thread.note": "Allah <b>aada</b> (aadi on), yimɓe <b>habba</b> sa'aaji mawɗi, sey haa joofnde fuu <b>timmina</b> e Yeesu. Tokku daariiji 13 ɗii les e laawol ngol — ɗotta <b>«Janga ko ɓuri»</b> e koo kart fuu ngam daari ɓurngal luggol.",
+  "gospel.eyebrow": "KO DAARI NGOL FIRTI NGAM «AM»",
+  "gospel.h2": "Goonga ɓernde Linjiila",
+  "gospel.lead": "Linjiila <b>naa' deftere janngingol «wattude neɗɗo moƴƴo.»</b>",
+  "gospel.sublead": "Ɗum ko daari no Allah, <b>barka caahu tan</b>, hisniri gaɗooɓe hakke ɓe mbaawaa hisinde ko'e maɓɓe. E ɓernde maaɗum woni Yeesu Almasiihu.",
+  "gospel.mirror": "<h3>Yiilaango Israa'iila ngo gasataa ko natal «am»</h3><div class='cycle'><b>Sujugol sanamu</b><span class='a'>→</span><b>Torra</b><span class='a'>→</span><b>Noddugol</b><span class='a'>→</span><b>Allah hisina</b><span class='a'>→</span><b>Sujugol sanamu fahin…</b></div><p>Daga Sariyaaɓe haa tawegol horɓe, Israa'iila firtitan yiilaango ngo nde wattataako. Linjiila windaaki ɗum ngam min njala, «Hol no ɓe njottii.»</p><p>Ɗum ko <b>daanduki</b>. Maanaa naa' «Israa'iila waɗi ɗum» ammaa <b>«am boo mi waɗay non»</b> (1 Korintiyanko'en 10:11).</p><p>Sanamu <b>naa' tan natal lekki sosaangal.</b> Ko ko <b>fuu ko en njiɗi maa en koolii ɓuri Allah</b> — ceede, jaalal, teddungal, yimɓe, haa hoore am. E huutoraaki Allah <b>jongirgal heɓuki ko mi yiɗi</b> ko sujugol sanamu boo.</p><p class='punch'>Haa joofnde, sanamu ɓurɗo luggidde ko «hoore am, jooɗiingo dow jaba laamu Allah.»</p>",
+  "gospel.coreIntro": "Kala, no Allah hisinirta gaɗoowo hakke ka'a? Ɗum woni ɓernde Habaru Belɗum mo Linjiila habra.",
+  "gospel.crux": "<p class='crux-lead'>Linjiila fuu hollay nokkuure gootiire.</p><p>Neɗɗo waawaa firtitde yiilaango hakke ngo ngam hoore muuɗum, walaa aadiliijo koo go'oto. Sey neɗɗo waɗanay <b>yoɓa coggu on e nokkuure maɓɓe</b>.</p><p>Yeesu wartaa tan ngam hokkuki janngirgal moƴƴal. O wari ngam <b>walaa laawol goɗngol hisinki am</b>: sey o wara.</p><p class='crux-punch'>On haaniraaɗo ɓilaaki dow gaafaangal ngal ko <b>am</b>.<br>Yeesu ƴeti <b>hakke am</b> o ɓilaa toon e nokkuure am.</p><div class='crux-verse'>«Kanko e hoore maako jaɓi o yowanee hakke ɗum ngaɗuɗen o ɓilee dow gaafaangal. O waɗu non ngam laawol mayde maako alen waɗuki hakke… Barka nawnooɗe maako on njamɗitii.» — 1 Biiturus 2:24</div>",
+  "faq.h": "Hiɗa ndimɗina e huunde tafon?",
+  "faq.q1": "<span class='arr'>▸</span> Kala, baroowo neɗɗo to o hoolake o yaaday Aljanna, ammaa neɗɗo moƴƴuɗo nguurndam fuu mo hoolaaki o yaaday Jahannama?",
+  "faq.a1": "<p>Naamnal moƴƴal. Ammaa faamuki kaljungal ɗiɗi nder maggal.</p><p><b>① Linjiila seerataa yimɓe «moƴƴuɓe e bonɓe.»</b> Pesungal naa' «ɓuri caggal makko» ammaa «laaɓal timmungal Allah.» Yeesoojo, walaa «moƴƴuɗo yonugol» (Roomanko'en 3:23). Kala ɗum naa' «moƴƴuɗo e baroowo,» ammaa ko nay yimɓe ɗiɗo nawnaaɓe maayre wootere — gooto ƴeti lekki, goɗɗo salii wi'i, «mi ɓuri on jamɗude.»</p><p><b>② Huunde wootere tan seeray Aljanna e Jahannama.</b> Naa' pesungal kuuɗe, ammaa <b>to a jaɓii Yeesu Almasiihu Joomiraawo e to caɗeele hakke maaɗa firtaama.</b> Mo hakke muuɗum firtaa barka ƴiiƴam Almasiihu o yaaday Aljanna; mo jaɓaakimo abada, mo hakke muuɗum heddii, o yaadataa. Walaa kuugal moƴƴal waawayngal firtitde caɗeele hakke ɗen ngam maaɗa.</p><p>Kala Aljanna e Jahannama naa' «njoɓdi kuuɗe moƴƴe» ammaa fii <b>jokkere e Almasiihu</b>. E «hoolaaki» naa' jaɓal hakkille, ammaa waylugol moodibbo nguurndam — kala jaɓɗo o haqiiqa o mawnataako ammaa o tuuba ɓuri. Tigi, aadiliyankaagal hoore muuɗum («mi moƴƴuɗo») ko sanamu ɓurɗo saɗtude firtude, ngo waɗata en miilen min ngalaa hatonjinaare e Almasiihu (Luka 18:9-14).</p><p>Linjiila wi'ay ɗum laaɓɗum: <b>«Koo moye kooliiɗomo taƴantaake kiita, ammaa mo hoolaakimo o yaadake o taƴanaama kiita»</b> (Yahaya 3:18). Kiita naa' «pesugol nguurndam maaɗa ɓaawo maayde,» ammaa ɗum firtaama gila e <b>to a jaɓii Almasiihu</b>.</p><p class='faq-v'>Roomanko'en 3:23 · Yahaya 3:18 · Aafisanko'en 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Mi waawaa wuurde nguurndam moƴƴam tan hooliyaaki Yeesu?",
+  "faq.a2": "<p>Ɗum ko miijo ɓurngo heewde, ammaa ngo faamaa ko caɗeele goonga ɗen. Yo'o natal.</p><p><b>Miijo a woni dow laana wujjooɓe.</b> Koo a laɓɓinii sancal, koo a moƴƴinii e wujjooɓe ɓen, koo nguurndam maaɗa moƴƴi — a heddii <b>wujjoowo</b>, ngam laana ngan nawray maa haa to ngan faandii (waalde kiita). Caɗeele naa' «pesungal kuuɗe maaɗa» ammaa <b>«laana hol ngo a jeyaa» (njinngu maaɗa)</b>.</p><p>Kala Habaru Belɗum wi'ataa «ɓeydu wattude moƴƴo» ammaa <b>«waylu laana.»</b> Jippo daga laana hakke njahaa to Yeesu — e njinngu hesngu <b>ɓiɗɗo Allah</b>. Ɗum naa' ɓeydugol pesungal maaɗa e tiiɗnaare, ammaa hoolaaki on tiniroowo junngo muuɗum a feƴƴa haa laana muuɗum.</p><p>Tigi Linjiila siforii hisinde non e «njahdugol» ka'a: <b>«O hisnii'en daga bawɗe nyiwre ɗe Ceyɗan, o nattinii'en nder laamu Ɓiɗɗo maako mo o yiɗi»</b> (Koloosiyanko'en 1:13).</p><p>Hoto faamu kaljun: <b>naa' wi'ude wuurde moƴƴam walaa nafa.</b> Moƴƴude naa' «sharɗi» hisinde ammaa <b>ɓiɓɓe</b> maaɗum. Mo waylii laana o wuuray moƴƴam naa' ngam kulol, ammaa ngam <b>yidde ɓiɗɗo</b>.</p><p class='faq-v'>Koloosiyanko'en 1:13 · Yahaya 1:12 · Yahaya 3:3 · Aafisanko'en 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> To gaɗoowo bone wi'ay «Allah haforanii am» o wuura e jam, ammaa torraaɗo on himo torra tabbii — ɗum naa' haforaneede ɓurngo coyɗude?",
+  "faq.a3": "<p>Naamnal moƴƴal, e torra on ko goonga. Ammaa konngol ka'a naa' «haforaneede Linjiila» ammaa <b>wayleede</b> maaɗum.</p><p><b>① Haforaneede Allah wattataako coyɗude.</b> Hakke suuɗetaake hono «ɗum waɗaaki,» Allah hoore muuɗum yoɓi coggu maaɗum e yonki Ɓiɗɗo muuɗum. Gaafaangal naa' seedee hakke ƴeɓaa e hoyfere ammaa ko hakke teddi non: ko haforaneede ɓurnde tiiɗude coggu nder duuniyaaru.</p><p><b>② Tuubuubuya goonga rimay ɓiɓɓe.</b> To gaɗoowo bone mawnii yeeso torraaɗo on — «Allah haforanii am, mi woni e jam» — ɗum naa' tuubuubuya ammaa natal maaɗum (Maatiyu 3:8). E haforaneede hakkunde neɗɗo e Allah momtataa nawnaare torraaɗo on koo waɗɗina mo o hafora.</p><p><b>③ Hakke wattataako «ƴeɓe e hoyfere.»</b> Hakke fuu yoɓetee e nokkuuje ɗiɗi — <b>maa Almasiihu ƴeta ngal dow gaafaangal</b> (ngam hoolaaɓemo walaa kiita fahin, Roomanko'en 8:1), <b>maa salii mo haa joofnde ƴeta ngal hoore muuɗum.</b> Kala walaa «haforaneede coyɗunde.» Gaɗoowo bone on himo waɗɗii kiita duuniyaaru ngu boo (Roomanko'en 13:1-4).</p><p><b>④ Gonɗi torraaɗo on ngalaa hoyɗude yeeso Allah.</b> Allah wullitoo e wullitooɓe, jogii koo gonal fuu, haa joofnde o moytay ɗi hoore muuɗum (Wahayu Yahaya 21:4). Kala torraaɗo on boo waawaa ƴeɓde teddungal yottagol hoore muuɗum, ammaa o waawi hokkude ɗum Allah aadiliijo on (Roomanko'en 12:19 — «Min woni gaatotooɗo, mi waatoto, wi'i Joomiraawo»).</p><p class='faq-v'>Maatiyu 3:8 · Roomanko'en 8:1 · Roomanko'en 13:1-4 · Wahayu Yahaya 21:4</p>",
+  "respond.h3": "Kala — ko fii am?",
+  "respond.sub": "Yidde nde'e naa' habaru ammaa <b>noddaango</b>. To yidde nde ɓilaa e nokkuure maaɗa naɓɓii ɓernde maaɗa, du'ano ɗum ɗoo seese, simoore e simoore.",
+  "respond.prayer": "<p>Allah,</p><p>mi qirritike mi gaɗoowo hakke mo waawaa hisinde hoore muuɗum.</p><p>Mi hoolake Yeesu maayanii am dow gaafaangal o ummitii.</p><p>Hafanam hakkeeji am fuu, gila hannde wonu Joomiraawo nguurndam am.</p><p>Jaɓam ɓiɗɗo maaɗa, waɗam mi wuura nguurndam hesɗam.</p><p class='amen'>E inde Yeesu mi du'oo. Aamiin.</p>",
+  "respond.after": "To a du'anike ɗum e ɓernde maaɗa, Linjiila wi'i a <b>wartii ɓiɗɗo Allah</b>. A wonaa kanjaa fahin — ɗaɓɓu mawɓe diina ɓadiiɗo a yaada e laawol hoolaare e woɓɓe.",
+  "respond.read": "📖 Janngu Linjiila hoore maaɗa — fuɗɗoro e Yahaya",
+  "respond.verse": "«Ammaa fuu jaɓuɓemo kooliiɓe inde maako, o hokkiiɓe bawɗe wartuki ɓiɓɓe Allah.» — Yahaya 1:12 · Roomanko'en 10:9-10",
+  "closing.main": "Allah gooto,<br>e daari gootol,<br>ɗaɓɓita'en e <em>yidde</em><br>nde wattataako.",
+  "closing.verse": "«Koo mayde, koo yonki… walaa goɗɗum nder fuu ko tagaa baawayɗum haɗa Allah yiɗuki'en yidde nde o hollata'en barka Yeesu Almasiihu Joomiraawo meeɗen.» — Roomanko'en 8:38-39",
+  "closing.small": "Dow daari ngol, Sariya, defte yimre, Annabo'en e ɓatakuuje ɓeyday «teewu.»<br>Gila jooni, koo deftere fuu nde njuɓɓitoton, on nganday «hol to ngonɗon nder daari.»",
+  "closing.share": "↗ Lillu daari ngol",
+  "about.line": "Ɗoftaaki e yiyannde <b>daari kisingol, injiliyankaagal e renewuyankaagal</b> nde ɓuri heewɓe nder diina protestan Koore keɓdata.",
+  "about.contact": "Naamne · miijooji — <a id='contact' class='mail'>Windan min imeel</a>",
+  "partial.note": "E Fulfulde, Linjiila Heyri on woodi; aayaaje Linjiila Hindi ɗen ngoni ɗoo hono dungtinaaki. Janngu Linjiila Heyri ndi timmuɗi e laawol ngol."
+ },
+ "epochs": [
+  {
+   "tag": "LINJIILA HINDI · FUƊƊORDE",
+   "title": "Tagugol",
+   "date": "E fuɗɗorde",
+   "one": "Allah tagi duuniyaaru «moƴƴuru no feewi.»",
+   "people": "Allah; Aadama e Hawwaa'u",
+   "events": "Balɗe joweegoo tagugol, neɗɗo tagaaɗo e mbaadi Allah, fooftere asabnde",
+   "q": "E fuɗɗorde, Allah tagi kammuuli e leydi.",
+   "cite": "Génesis 1:1",
+   "christ": "Duuniyaaru tagiraa «Wolde.» Linjiila Yahaya wi'ay Wolde on ko Yeesu hoore muuɗum (Yahaya 1:1-3).",
+   "detail": "<p>Linjiila fuɗɗoraaki konngol falsafa ammaa konngol qirritaango: <b>«E fuɗɗorde, Allah…»</b> Duuniyaaru naa' tawtoraagol ammaa kuugal Allah jogiiɗo njinngu.</p><ul><li><b>Mbaadi Allah</b> · e tageefooji fuu, neɗɗo tan tagaa o nanndina Allah — ngam o anda mo o reena duuniyaaru.</li><li><b>Fooftere</b> · fooftere nyalaande jeeɗiɗiɓiri hollay ko fuu timmi e jam (salaamu): «ɗum moƴƴi.»</li><li><b>Aljanna Eden</b> · duuniyaaru ko adii bonugol, ɗo Allah e yimɓe njaadi.</li></ul>",
+   "next": "Ammaa timmal ka'a haɗtin firta…"
+  },
+  {
+   "tag": "LINJIILA HINDI · CAƊEELE FUƊƊII",
+   "title": "Tawegol horɓe",
+   "date": "E fuɗɗorde",
+   "one": "Hakke naati, jokkere hakkunde yimɓe e Allah taƴii.",
+   "people": "Aadama e Hawwaa'u; mboddi (Ceyɗan)",
+   "events": "Nyaamugol ɓiɗɗi haɗaaɗi, riiwgol daga Eden, garal mayde e tampere",
+   "q": "Allah wi'i ngañgu wonay hakkunde mboddi e debbo, ɓiɗɗo debbo on helay hoore mboddi.",
+   "cite": "Génesis 3:15",
+   "christ": "Aadi adii Habaru Belɗum, hokkaaɗo ɓaawo tawegol horɓe: «ɓiɗɗo debbo on» helay hoore mboddi — ɗum ko Yeesu (Génesis 3:15; Roomanko'en 16:20; Galaatiyanko'en 4:4).",
+   "detail": "<p>E ɗoftaaki haɗaaki ngam yidde «wattude no Allah,» hakke naati nder duuniyaaru. Joofol naa' tan luttugol sariya ammaa <b>taƴugol jokkere</b>.</p><ul><li><b>Jokkere taƴaaɗe</b> · e Allah (suuɗagol), e yimɓe woɓɓe (faawugol), e tageefe (gi'e e tampere).</li><li><b>Mayde</b> · rentingol «a maayay tigi» wartii goonga.</li><li><b>Génesis 3:15</b> · ammaa nder ɓernde kiita, aadi hisinde adii. Annduɓe noddi ɗum <b>«habaru belɗum adii» (linjiila aranal)</b>.</li></ul>",
+   "next": "Jooni Allah nodday gorko gooto fuɗɗina hisinde…"
+  },
+  {
+   "tag": "LINJIILA HINDI · AADI",
+   "title": "Maama'en diina",
+   "date": "haa hitaande 2000 H.A.",
+   "one": "Allah aadi Ibraahiima: «A wonay laawol barka.»",
+   "people": "Ibraahiima · Isiyaaka · Yaaquuba · Yuusufu",
+   "events": "Aadi Ibraahiima, hibbugol Isiyaaka, ɓiɓɓe sappo e ɗiɗi Yaaquuba, Yuusufu naatay laamu Misira",
+   "q": "Allah aadi Ibraahiima o wonay lenyol mawngol, e barka maako leƴƴi duuniyaaru fuu keɓay.",
+   "cite": "Génesis 12:2-3",
+   "christ": "Aadi «leƴƴi fuu keɓay barka» timminaa e Yeesu, ɓiɗɗo Ibraahiima (Galaatiyanko'en 3:16).",
+   "detail": "<p>Allah fuɗɗii firtude caɗeele yimɓe fuu e noddugol gorko gooto, <b>Ibraahiima</b>. Ɓernde maaɗum ko <b>aadi on</b> — lenyol mawngol, leydi, e barka leƴƴi fuu.</p><ul><li><b>Hoolaare</b> · Ibraahiima hooli aadi nde yi'aaka, ɗum limanaa mo aadiliyankaagal (Génesis 15:6).</li><li><b>Isiyaaka e Yaaquuba</b> · aadi nawtii jaamanu garayngu; Yaaquuba (Israa'iila) ko baaba leƴƴi sappo e ɗiɗi.</li><li><b>Yuusufu</b> · yeeyaaɗo e siɗɗiraaɓe muuɗum, ammaa naatii laamu Misira — Allah waɗtini ɗum moƴƴere (Génesis 50:20).</li></ul>",
+   "next": "Tokkugol Yuusufu, ɓeynguure ndee jippoyii Misira — wartii maccuɓe…"
+  },
+  {
+   "tag": "LINJIILA HINDI · HISINDE",
+   "title": "Yaltugol e ladde",
+   "date": "haa hitaande 1446 H.A.",
+   "one": "Allah hisni leñol maccuɗo o waɗi ngal leñol muuɗum.",
+   "people": "Muusaa, Haaruuna, Firawna",
+   "events": "Bone sappo, Hawre Yaaltugol, lummbugol Maayo Boɗeewo, Sariyaaji sappo e Sinaa'i, suudu tukuru, duuɓi 40 e ladde",
+   "q": "Allah wi'i o waɗtay ɓe leñol muuɗum, kanko boo o wona Allah maɓɓe.",
+   "cite": "Éxodo 6:7",
+   "christ": "Hawre Yaaltugol — ɗo ƴiiƴam baali haɗi mayde — hollay Yeesu, «baali Hawre Yaaltugol meeɗen,» ɓilaaɗo ngam meeɗen (1 Korintiyanko'en 5:7).",
+   "detail": "<p>Hisinde ɓurnde mawnude e Linjiila Hindi. Israa'iila on wonɗo maccuɗo, hisinaa e bawɗe Allah o waɗtaa <b>leñol</b> muuɗum.</p><ul><li><b>Hawre Yaaltugol</b> · suudu maɓɓo e ƴiiƴam baali e damal haɗtaa mayde — natal sadaka ɗe garayɗe fuu.</li><li><b>Maayo Boɗeewo</b> · hisinde ɗo laawol joofi; «lummbugol» wartii natal fuɗɗorde hesere.</li><li><b>Aadi Sinaa'i</b> · e Sariyaaji sappo ɓe njanga no nguurdeteengo leñol Allah.</li><li><b>Suudu tukuru</b> · suudu njaadooru ɗo Allah hoɗata nder leñol — natal «Imanuweel.»</li><li><b>Duuɓi 40</b> · ɗoftaaki haɗtin jaamanu yiilaade ladde, ammaa Allah wondi e maɓɓe e manna e bagumawal duule e yiite.</li></ul>",
+   "next": "Daraaɓe e keerol leydi aadaandi, ɓe naatay…"
+  },
+  {
+   "tag": "LINJIILA HINDI · TAWEGOL LEYDI",
+   "title": "Foolugol e Sariyaaɓe",
+   "date": "haa 1400–1050 H.A.",
+   "one": "Ɓe keɓi leydi, ammaa walaa laamɗo koo moye waɗay ko o yiɗi.",
+   "people": "Yuusha'u; Sariyaaɓe no Gideyuuna e Samsuuna; Ruutu",
+   "events": "Yangugol Yeriko, tawegol Kanaana, yiilaango firtitnoongo hakke–kiita–hisinde",
+   "q": "E balɗe ɗen walaa laamɗo nder Israa'iila; koo moye waɗay ko feewi yeeso muuɗum.",
+   "cite": "Jueces 21:25",
+   "christ": "E jaamanu Ruutu ƴiwi Daawuuda, e jaamanu Daawuuda ƴiwi Yeesu (Maatiyu 1). Koo nder jiibru, jaamanu Almasiihu jokki.",
+   "detail": "<p>Les Yuusha'u ɓe naati leydi aadaandi, ammaa ɓaawo tawegol ɓe nyifti Allah. Sariyaaɓe ko firtitgol natal gootal.</p><ul><li><b>Yiilaango les</b> · hakke → torra → noddugol → Sariyaajo hisina → hakke fahin. Ɗum ɓeyday bonude.</li><li><b>Sariyaaɓe</b> · Gideyuuna, Samsuuna, Debora — hisinooɓe sa'aa, gorɓe ammaa jogiiɓe ella mawngal.</li><li><b>Ruutu</b> · daari hoolaare nder jaamanu niɓɓingu; debbo gimɗo naati jaamanu Daawuuda (e Yeesu).</li></ul>",
+   "next": "Yimɓe ɓen noddi, «Hokku'en laamɗo boo!»…"
+  },
+  {
+   "tag": "LINJIILA HINDI · JAAMANU ƁURNGU",
+   "title": "Laamu woortungu",
+   "date": "haa 1050–930 H.A.",
+   "one": "Allah aadi Daawuuda: «Jaba laamu maaɗa heddoto poomaa.»",
+   "people": "Sawuula · Daawuuda · Sulaymaana",
+   "events": "Laamɗo aranɗo Sawuula, Daawuuda e Goliyaata, aadi Daawuuda, Sulaymaana mahay hekkalu",
+   "q": "Allah aadi Daawuuda suudu muuɗum e laamu muuɗum heddoto poomaa, jaba laamu muuɗum tabbitoto haa abada.",
+   "cite": "2 Samuel 7:16",
+   "christ": "«Jaba laamu poomayankeejo» timminaa e Yeesu, ɓiɗɗo Daawuuda — ko waɗi noddetee «Ɓiɗɗo Daawuuda» (Luka 1:32-33; Maatiyu 1:1).",
+   "detail": "<p>Ɓurngu Israa'iila, les laamɓe tati.</p><ul><li><b>Sawuula</b> · laamɗo aranɗo mo yimɓe naamni; fuɗɗorde moƴƴere bonnaande e ɗoftaaki.</li><li><b>Daawuuda</b> · «gorko jaɓaaɗo e ɓernde Allah.» O fooli Goliyaata o waɗi Urucaliima hekkalu. O waɗi hakke mawngal (Batseba) ammaa o tuubi e ɓernde (Jabuura 51).</li><li><b>Aadi Daawuuda (2 Samuel 7)</b> · Allah aadi tabbitinde jaamanu Daawuuda haa abada — ɗaɗol mawngol tama'u Almasiihu.</li><li><b>Sulaymaana</b> · e ɓurngu hikma e jawdi o mahi <b>hekkalu</b> Urucaliima, ammaa joofnde nguurndam muuɗum o yahay e sanamuuji.</li></ul>",
+   "next": "Ɓaawo Sulaymaana, laamu seeray ɗiɗi…"
+  },
+  {
+   "tag": "LINJIILA HINDI · USTAGOL",
+   "title": "Laamu seerngu",
+   "date": "930–586 H.A.",
+   "one": "Seeri worgo (Yahuuda) e rewo (Israa'iila), leñol on yahay bonude.",
+   "people": "Laamɓe laamuuji ɗiɗi; Annabo'en no Iliyaasu, Isaaya, Irimiyaa",
+   "events": "Laamu seeri, sujugol sanamu saaktii, Annabo'en rentini",
+   "q": "Kala Israa'iila murtii e suudu Daawuuda haa hannde.",
+   "cite": "1 Reyes 12:19",
+   "christ": "E jaamanu ngu Annabo'en habray Almasiihu garoowo ɓeydude laaɓude (Isaaya 9:6; Isaaya 53).",
+   "detail": "<p>E balɗe ɓiɗɗo Sulaymaana laamu seeri: <b>laamu rewo Israa'iila</b> (leƴƴi 10, hekkalu Samaariya) e <b>laamu worgo Yahuuda</b> (leƴƴi 2, hekkalu Urucaliima).</p><ul><li><b>Israa'iila (rewo)</b> · laamɓe muuɗum fuu njokki sanamuuji; ngu yangi e Asuuriya e 722 H.A.</li><li><b>Yahuuda (worgo)</b> · jaamanu Daawuuda jokki, e laamɓe moƴƴuɓe no Hizkiya e Yoosiya, ammaa fuu ngu yahay bonude.</li><li><b>Annabo'en</b> · Iliyaasu, Aamuusa, Isaaya, Irimiyaa noddi «ngartee!» Habaru Almasiihu ɓuri heewde ɗoo (the «maccuɗo torraaɗo» Isaaya 53).</li></ul>",
+   "next": "Haa joofnde kiita habraangal warii — ɓe njaɓɓinaa hoɗanannde…"
+  },
+  {
+   "tag": "LINJIILA HINDI · KIITA",
+   "title": "Horeede",
+   "date": "722 / 586 H.A.",
+   "one": "Laamu yangii e yimɓe njaɓɓinaa leydi gimngal.",
+   "people": "Daani'eela, Hazaqiyeela, Nabukadnesar",
+   "events": "Israa'iila yangii e Asuuriya (722); Yahuuda yangii e Baabila e hekkalu bonnaa (586)",
+   "q": "E daande maaje Baabila, ɗoo min njoɗii min mbojji, nde min ciftori Siyona.",
+   "cite": "Salmo 137:1",
+   "christ": "Nder luggidde ngantaari, Irimiyaa aadi «aadi heyri» (Irimiyaa 31:31) — aadi nde Yeesu tabbitini e nyaametee sakkitoowo.",
+   "detail": "<p>Rentingol wartii goonga. Hekkalu sumii e yimɓe njaɓɓinaa Baabila — ɓe ngustii leydi, laamɗo, e hekkalu: nokkuure ɓurnde les.</p><ul><li><b>Yangugol ɗiɗi</b> · Israa'iila (Asuuriya, 722 H.A.) e Yahuuda (Baabila, 586 H.A.).</li><li><b>Daani'eela</b> · natal hoolaare koo nder galle kaafiri (ngaska mbaroodi); o yi'i wahayuuji «laamu poomayankeejo» garowu.</li><li><b>Yelo tama'u</b> · wahayu ƴi'e jooɗɗe ummitaaɗe (Hazaqiyeela 37) e «aadi heyri» Irimiyaa kollay jaamanu garowu nder niɓɓere.</li></ul>",
+   "next": "Ɓaawo duuɓi cappanɗe jeeɗiɗi, Allah udditi laawol — ɓe ngarti suudu…"
+  },
+  {
+   "tag": "LINJIILA HINDI · ARTUGOL",
+   "title": "Artugol daga horeede",
+   "date": "538–430 H.A.",
+   "one": "Ɓe ngarti ɓe mahti hekkalu e galɗe.",
+   "people": "Ezra, Nehemiya, Esteer, Zerubabel",
+   "events": "Artugol e konngol Sirus, mahtugol hekkalu, mahtugol galɗe Urucaliima, artugol Wolde",
+   "q": "Belɗum Joomiraawo woni bawɗe mooɗon.",
+   "cite": "Nehemías 8:10",
+   "christ": "Malaaki, deftere sakkitiinde Linjiila Hindi, joofniri habaru nelaaɗo cuɓɓitoowo laawol Almasiihu: «Mi lilay nelaaɗo am» (Malaaki 3:1).",
+   "detail": "<p>E konngol laamɗo Persiya Sirus (538 H.A.) artugol fuɗɗii. E lummbe tati ɓe ngarti ɓe mahti ko bonnaa.</p><ul><li><b>Zerubabel</b> · mahti hekkalu (timmaa 516 H.A.).</li><li><b>Ezra</b> · janngini Wolde fahin o ummitini hoolaare.</li><li><b>Nehemiya</b> · mahti galɗe Urucaliima e balɗe 52.</li><li><b>Esteer</b> · hisni Yahuudiyankooɓe Persiya e bonugol — «ngam sa'a no nii.»</li><li><b>Ɗomka jokkii</b> · hekkalu darii, ammaa walaa laamɗo no Daawuuda. Yimɓe ɓen habbii Almasiihu.</li></ul>",
+   "next": "Sey jooni… hono kammu deƴƴi, duuɓi 400 ɓenni."
+  },
+  {
+   "tag": "HAKKUNDE LINJIILAAJI · HEƁILUKI",
+   "title": "Duuɓi deƴƴal",
+   "date": "haa 430–4 H.A.",
+   "one": "Duuɓi 400 walaa daande Annabo'en — ammaa nokkuure heɓilaama e deƴƴal.",
+   "people": "Alesandere Mawɗo, Makabe'en, Romaaru",
+   "events": "Persiya → Helenanke'en → ndimaagu Makabe → laamu Romaaru",
+   "q": "Ammaa nde carel waɗi, Allah liloyi Ɓiɗɗo muuɗum. Debbo danyimo, o jooɗii ley Attawra,",
+   "cite": "Galaatiyanko'en 4:4",
+   "christ": "«Heɓiluki» ka'a fuu ko Allah huutorii ngam Yeesu wara tigi «nde carel waɗi.»",
+   "detail": "<p>Daga Malaaki haa Linjiila Heyri, haa duuɓi 400 walaa Wolde heyri. Ammaa ɓaawo daari Allah heɓiltinoo laawol Habaru Belɗum.</p><ul><li><b>Laamuuji mbaylitii</b> · Persiya → Helenanke'en (Alesandere, 333 H.A.) → Misiranke'en e Siriyanke'en → murtere Makabe (167 H.A.) → Romaaru (63 H.A.).</li><li><b>Helenanke</b> · foolugol Alesandere waɗi Helenanke ɗemngal jaaynungal; Linjiila Hindi firaa Helenanke (Septuagint), udditi laawol Habaru Belɗum saaktoo law.</li><li><b>Laabi e jam Romaaru</b> · laabi mahaaɗi e «Pax Romana» wartii laabi misiyon.</li><li><b>Sinagog e fedde'en</b> · janngingol sinagog ɗaɗii; Fariisanke'en e Sadukanke'en njibinii; e <b>habbaaki Almasiihu</b> ɓenndi.</li></ul>",
+   "next": "Sey deƴƴal taƴii — haa joofnde, o warii."
+  },
+  {
+   "tag": "LINJIILA HEYRI · TIMMINAAKI",
+   "title": "Garal Yeesu",
+   "date": "haa 4 H.A.–30 B.A.",
+   "one": "Almasiihu aadaaɗo on warii, maayii, ummitii.",
+   "people": "Yeesu, taalibaaɓe sappo e ɗiɗo, Yahaya Lootoowo",
+   "events": "Wartuki neɗɗo (Kirsimati), kuugal janngingol e mu'jizaaji, mayde dow gaafaangal, ummitaagol nyalaande tataɓere",
+   "q": "Bi'eteeɗo Wolde on, o wartii neɗɗo, o jooɗii nder meeɗen… o kewɗo yidde e goonga.",
+   "cite": "Yahaya 1:14",
+   "christ": "Ɓiɗɗo debbo (daari 2), barka Ibraahiima (3), baali Hawre Yaaltugol (4), laamɗo poomayankeejo Daawuuda (6), aadi heyri (8) — fuu timminaa e neɗɗo gooto, Yeesu: Annabaajo, Limaamuujo, e Laamɗo meeɗen goonga.",
+   "detail": "<p>Deƴƴal taƴii; aadaaɗo on warii. Linjiilaaji nay seedi nguurndam Yeesu, mayde maako, e ummitaagol maako daga nokkuuje nay.</p><ul><li><b>Wartuki neɗɗo</b> · Allah wartii neɗɗo (Imanuweel, «Allah wondi e meeɗen»), e hoyfere Baytalami.</li><li><b>Kuugal</b> · o janngina laamu Allah, o sellina nawnaaɓe, o nodda gaɗooɓe hakke. «Mo yi'imi yi'ii Baaba.»</li><li><b>Gaafaangal</b> · o yoɓi e nokkuure meeɗen coggu hakke e mayde naɓii e tawegol horɓe (daari 2). Baali Hawre Yaaltugol goonga.</li><li><b>Ummitaagol</b> · ummitiingo nyalaande tataɓere, o heli bawɗe hakke, mayde, e Ceyɗan — gila dow gaafaangal o «heɓi jaalorgal dow ginni e fuu bawɗe… o semtiniiɗum» (Koloosiyanko'en 2:15).</li></ul><p>Kala Yeesu ko <b>Annabaajo</b> meeɗen goonga (hollay laawol Allah), <b>Limaamuujo</b> meeɗen goonga (yoɓi hakke e ɓanndu muuɗum), e <b>Laamɗo</b> meeɗen goonga (fooli hakke, mayde, e Ceyɗan o laamoo poomaa).</p>",
+   "next": "Yeesu ummitiiɗo on lilay taalibaaɓe muuɗum nder duuniyaaru…"
+  },
+  {
+   "tag": "LINJIILA HEYRI · SAAKTUGOL",
+   "title": "Mawɓe diina fuɗɗii",
+   "date": "haa 30 B.A.–",
+   "one": "Ruuhu Allah warii, Habaru Belɗum saaktii haa keerol duuniyaaru.",
+   "people": "Biiturus, Pool, mawɓe diina aranɓe",
+   "events": "Ruuhu Allah jippoyii e Pentekoste, mawɓe diina njibinii, Habaru Belɗum saaktii daga Urucaliima haa Romaaru e torra",
+   "q": "To Ruuhu Allah jippoyake dow mooɗon, on keɓay bawɗe… on ngartay kokkayɓe woɓɓe habaru am nder Urucaliima… haa keerol duuniyaaru.",
+   "cite": "Kuuɗe Lilaaɓe 1:8",
+   "christ": "Daari ngol jokkay haa hannde. Linjiila joofniri aadi Yeesu artoto o waɗtita ko fuu heyɗum (Wahayu Yahaya 21).",
+   "detail": "<p>Ɓaawo Yeesu ƴiwi, Ruuhu aadaaɗo on warii e Pentekoste e mawɓe diina njibinii. Habaru Belɗum saaktii law no feewi.</p><ul><li><b>Pentekoste</b> · Ruuhu waɗtiti taalibaaɓe hulɓe wartude seedeeɓe cuusɓe.</li><li><b>Biiturus</b> · habri Habaru Belɗum Yahuudiyankooɓe Urucaliima.</li><li><b>Pool</b> · daga torroowo wartude nelaaɗo, mahay mawɓe diina nder duuniyaaru gimɓe o winda ɓatakuuje.</li><li><b>Haa keerol duuniyaaru</b> · Urucaliima → Yahuudiya → Samaariya → Romaaru. Aadi Ibraahiima «leƴƴi fuu» wartii goonga.</li><li><b>E enen</b> · daari joofataako; ngol yahay haa artugol Yeesu e kammuuli heyɗi e leydi heyri.</li></ul>",
+   "next": "Ammaa daari joofataako ɗoo…"
+  },
+  {
+   "tag": "LINJIILA HEYRI · TIMMUGOL",
+   "title": "Artugol (ko fuu heyɗum)",
+   "date": "Garowu",
+   "one": "Yeesu artoto o waɗtita ko fuu heyɗum.",
+   "people": "Yeesu artoowo; leƴƴi fuu",
+   "events": "Artugol, kiita sakkitiingol, joofol hakke·mayde·gonɗi, kammuuli heyɗi e leydi heyri",
+   "q": "O moytanayɓe fuu gonɗi maɓɓe, ɗum boo… fuɗɗitataa ɗum waɗa mayde koo wannaare koo bojji koo torra.",
+   "cite": "Wahayu Yahaya 21:4",
+   "christ": "Eden tagugol aranal artaa haa joofnde no «Urucaliima Heyri.» Allah hoɗoto e leñol muuɗum poomaa — timmal Imanuweel (Wahayu Yahaya 21:3; Maatiyu 1:23).",
+   "detail": "<p>Linjiila joofataako e jaamanu mawɓe diina. Deftere sakkitiinde maaɗum, Wahayu Yahaya, hollay Yeesu <b>artoowo</b> timmina ko fuu.</p><ul><li><b>Artugol</b> · laamɗo aadaaɗo on artoto e teddungal.</li><li><b>Jaalal sakkitiingal</b> · Ceyɗan e mayde mbonnaa poomaa, Almasiihu laamoo Laamɗo laamɓe (1 Korintiyanko'en 15:25-26; Wahayu Yahaya 20:10).</li><li><b>Kiita e ummitaagol</b> · ko fuu ko ooñii feewnitaa, maayɓe ɓen ummitee.</li><li><b>Kammuuli heyɗi e leydi heyri</b> · hakke, mayde, gonɗi, e torra ƴaɓɓay poomaa (Wahayu Yahaya 21:4).</li><li><b>Eden artaaɗo</b> · nder «Urucaliima Heyri» ɓurnde fuɗɗorde, Allah hoɗoto e leñol muuɗum poomaa — faandaare nde Linjiila fuu yahata.</li></ul><p>Kala jooni ko jaamanu <b>«gila, ammaa tawi tabbii»</b>: e Yeesu hisinde <b>gila</b> timmii, ammaa timmugol maaɗum <b>tawi</b> habbaaka.</p>",
+   "next": "Kala, ko daari ngol fuu firti ngam «am»?"
+  }
+ ],
+ "love": [
+  "Daari fuɗɗoraaki kiita ammaa duuniyaaru tagaandu e yidde rufiindu.",
+  "Sa'a nde yimɓe ngaɗi hakke, Allah aadi hisinde ɗoo e nokkuure.",
+  "Allah ari adii to mo yonaaki, noddi mo e inde muuɗum, waɗi mo laawol barka.",
+  "O nani ŋuuruka leñol maccuɗo o jippii hoore muuɗum hisina ngal.",
+  "Koo ɓe njanfimo laabi keewɗi, sa'a fuu nde ɓe noddi o lili hisinoowo o ummitini ɓe.",
+  "O salaaki koo Daawuuda yanɗo, e maako o aadi laamɗo poomayankeejo.",
+  "Leñol huccaningol mo ɓaawo, o lilay Annabo'en, o tora, «Ngartee, alaa.»",
+  "Koo haa leydi ɓurndi niɓɓude horeede o jippodii e maɓɓe o aadi artugol.",
+  "Koo leñol luttungol laabi keewɗi, o ƴeɓtaaki aadi muuɗum, ammaa o ummitini ngal fahin.",
+  "Koo nder duuɓi 400 deƴƴal, o suuɗii, o heɓiltinoo laawol hisinde.",
+  "Carel ko ngonɗen e hakke, o lili Ɓiɗɗo muuɗum o hokki yonki muuɗum.",
+  "Yidde nde keɓɗen, jooni o lilay nde rufa nder duuniyaaru fuu.",
+  "Haa joofnde o moytay gonɗi fuu o waɗtita ko fuu heyɗum e yidde."
+ ],
+ "mis": [
+  {
+   "w": "«Ko adii Allah tagi neɗɗo waawɗo waɗude hakke? Naa' ɓurataano moƴƴude o tagaaka tigi?»",
+   "t": "Allah tagi duuniyaaru e yimɓe naa' ngam ustaare woo, ammaa ngam yidde rufiindu. Waɗude yimɓe <b>yimɓe jokkooɓe e Allah</b> ko yidde tigi. E koo naatugol hakke wonaano caggal eɓɓo hisinde Allah (Aafisanko'en 1:4-5). Daari aranal Linjiila naa' kiita ammaa yidde."
+  },
+  {
+   "w": "«Ngam nyaamugol ɓiɗɗo gootol tan, riiweede e hokkeede mayde — naa' Allah ɓuri saɗtude?»",
+   "t": "Riiweede daga Eden ko kiita e hinnaare boo. To, ceeraaɗo e Allah o wonɗo e njinngu bonaangu, neɗɗo nyaami daga lekki yonki o wuuri poomaa, o nanngirta torra poomaa (Génesis 3:22). Yamiruki mayde ko udditugol laawol artugol; e ɗoo Allah aadi Hisinoowo (Génesis 3:15). Nder kiita yidde wonnoo gila."
+  },
+  {
+   "w": "«Ibraahiima cuɓaa ngam o jogii hoolaare mawnde — naa' yimɓe Linjiila fuu gorɓe moƴƴe?»",
+   "t": "Ibraahiima fewi o sikki, e Yaaquuba ko janfotooɗo. Allah noddaani «hanɗuɓe» ammaa noddi jogiiɓe ella, barka caahu. Sabaabu cuɓagol naa' moƴƴere maɓɓe ammaa yidde hoolniinde Allah (Deutéronome 7:7-8)."
+  },
+  {
+   "w": "«Naa' Sariya (yamirooje) ko gite koo sharɗi ngo a haani tokkude ngam hiseede?»",
+   "t": "Allah hisni ɓe <b>ko adii</b> hokkugol Sariya. Koo Sariyaaji sappo puɗɗoraa qirritaango hisinde: Allah woni Joomiraawo maɓɓe, yaltinɗo ɓe daga Misira (Éxodo 20:2). Sariya naa' tokku ngam a hisee ammaa peewnirgol yidde no leñol hisaangol e caahu nguurdata. Caahu adan; ɗoftaaki ko jaabawol."
+  },
+  {
+   "w": "«Foolugol Kanaana ko warhoore tampuki; Allah Linjiila Hindi ko hattaniiɗo.»",
+   "t": "Ɗum ko fii saɗtungo ngo firtataako e konngol gootol, ngo naamnii deennaaki. Ammaa Linjiila hollaani ɗum hono fitina mo jokkaani sariya ammaa kiita ɓaawo teemedanɗe duuɓi munyal yeeso bone burtungo (firgol ɓikkon ko kadi) (Génesis 15:16; Deutéronome 9:4-5; Levítico 18:24-25). Allah yaawataa koo e kiita, e mo huccii e maako o jaɓay mo e weltaare, koo gimɗo no Rahab e Ruutu (Josué 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "«Daawuuda ko gorko walaa ella; ko waɗi noddetee “gorko jaɓaaɗo e ɓernde Allah.”»",
+   "t": "Daawuuda waɗi jeenaa e koo warhoore. «Gorko jaɓaaɗo e ɓernde Allah» naa' firi walaa ella, ammaa mo suuɗaani hakke muuɗum — tuubɗo no feewi o artira to Allah sa'a fuu (Jabuura 51). Yidde Allah salaani koo mo yani saɗtude."
+  },
+  {
+   "w": "«Annabo ko mbileejo habroowo garowu; Allah Linjiila Hindi ko tikkere tan.»",
+   "t": "Ɓernde Annabo naa' habroowo garowu ammaa nodduki nyaaƴungal Allah: ngartee, alaa. Koo rentingol kiita ɗaɓɓataa bonude ammaa artirde yimɓe ngam wuura — Allah wi'i o welaaka mayde gaɗoowo bone, ammaa o welanaa o tuuba o wuura (Ezequiel 33:11)."
+  },
+  {
+   "w": "«Horeede hollay Allah salii Israa'iila no feewi.»",
+   "t": "Horeede naa' salaade ammaa kabaaki e laɓɓinaaki Baaba ngam ɓiɗɗo jiɗaaɗo (Ibraaniyanko'en 12:6). Allah yahaani; o wondi e Daani'eela nder ɓernde horeede, o aadi: o anday eɓɓooje muuɗum, eɓɓooje jam naa' bone, ngam hokkugol maɓɓe joofnde e tama'u (Jérémie 29:11)."
+  },
+  null,
+  {
+   "w": "«To duuɓi 400 walaa Wolde, naa' Allah yahi koo himo fooftoo?»",
+   "t": "Deƴƴal naa' woɗɗitagol. O haalaani tan, ammaa nder sa'a on fuu o yiilatnoo laamuuji, ɗemɗe, e laabi heɓilana nokkuure hisinde. E sa'a ɓurɗo deƴƴude, Allah huwnoo no feewi, e yidde (Galaatiyanko'en 4:4)."
+  },
+  {
+   "w": "«Yeesu ko gooto jannginoowo moƴƴo nder; gaafaangal ngal ko foolaaki suniingal.»",
+   "t": "Yeesu wi'i himo Allah (Yahaya 8:58), e gaafaangal naa' tawtoraagol koo foolaaki ammaa yidde eɓɓaande. O naɓaaki toon e doole; o hokki yonki muuɗum e yidde muuɗum (Yahaya 10:18). «Walaa yidde ɓurnde nde'e, waato neɗɗo hokka yonki muuɗum ngam higooɓe muuɗum» (Yahaya 15:13)."
+  },
+  {
+   "w": "«Mawɓe diina ko fedde diina yimɓe moƴƴuɓe timmuɓe, koo tan mahdi.»",
+   "t": "Mawɓe diina naa' jamaa «hooliyankooɓe timmuɓe» ammaa <b>gaɗooɓe hakke haforanaaɓe</b>. Koo nelaaɗo Pool noddi hoore muuɗum «ɓurɗo koo moye waɗuki hakke» (1 Timooti 1:15). Mawɓe diina aranɓe boo njedditii e ngayli (Kuuɗe Lilaaɓe 6:1; 1 Korintiyanko'en 1:11). Mawɓe diina naa' nokkuure mawnirde, ammaa yimɓe nawtooɓe yidde nde keɓi."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Hakke aranal — walaa aadiliijo",
+   "body": "Caɗeele naa' «kuuɗe bonɗe seeɗa» ammaa ɗaɗol ɓernde. Gila Aadama, koo moye danyaa les hakke, o waawaa hewtude Allah e hoore muuɗum.",
+   "vref": "Roomanko'en 3:10-12, 23",
+   "vtext": "Walaa neɗɗo aadiliijo, walaa koo go'oto… walaa gooduɗo faamu, walaa ɗaɓɓutuɗo Allah… Koo moye neɗɗo waɗi hakke woɗɗitake ko Allah yiɗi o waɗa."
+  },
+  {
+   "title": "Sariya waawaa hisinde am",
+   "body": "Sariya naa' ɓargal ammaa daanduki. Sa'a fuu nde mi tokkitii nde, ɓuri hollude no mi luttitii. Faandaare maaɗum ko naɓde'en haa Almasiihu.",
+   "vref": "Roomanko'en 3:20 · Galaatiyanko'en 3:24",
+   "vtext": "Ngam ko Attawra waɗata woni ɗum holla neɗɗo hakke muuɗum… carel ngel Almasiihu wari ngam min ngarta aadili'en."
+  },
+  {
+   "title": "Barka caahu — dokkal, naa' tiiɗnaare",
+   "body": "Hisinde naa' njoɓdi kuuɗe mooɗaa ammaa dokkal Allah ngam mo yonaaki. Ko waɗi walaa mo mawnoo.",
+   "vref": "Aafisanko'en 2:8-9",
+   "vtext": "On kisii ngam yidde Allah barka hoolaaki Yeesu… ɗum caahu Allah, naa' ngam kuuɗe mooɗon, ngam to' goɗɗo mawnina hoore muuɗum."
+  },
+  {
+   "title": "Wartiraa aadiliijo barka hoolaare",
+   "body": "Naa' ngam tokkuki Sariya, ammaa ngam hoolaaki Yeesu Almasiihu wartireteɗen aadili'en — min coorataako aadiliyankaagal min ammaa maako.",
+   "vref": "Roomanko'en 5:1 · Galaatiyanko'en 2:16",
+   "vtext": "Nde Allah wartiri'en aadili'en ngam en koolake Yeesu Almasiihu, en ciryootirii e Allah… Allah jaɓataa neɗɗo o aadiliijo ngam tokkuki Attawra, ammaa o jaɓaymo barka hoolaaki Yeesu Almasiihu."
+  },
+  {
+   "title": "Linjiila hollay Yeesu",
+   "body": "Linjiila naa' daari mawɓe koo deftere wallitde hoore. Daga Génesis haa Wahayu Yahaya, hello fuu seeday gooto — Yeesu Almasiihu.",
+   "vref": "Yahaya 5:39 · Luka 24:27",
+   "vtext": "Ɗe'e aayaaje ɗe njangoton boo e ɗe kokka ceyda dow am… o famtiniɓe ko Deftere wi'i waɗay dow maako, daga Attawra yaaki Defte Annabo'en fuu."
+  },
+  {
+   "title": "Laamu Allah — ɓernde habaru Yeesu",
+   "body": "Konu ngu Yeesu ɓuri janngingol. Laamu ɗo Allah laamotoo no laamɗo naati duuniyaaru e Yeesu o timmoo e artugol maako. Barka gaafaangal e ummitaagol, Yeesu ko Laamɗo goonga fooluɗo hakke, mayde, e Ceyɗan.",
+   "vref": "Markus 1:15",
+   "vtext": "Carel waɗii! Laamu Allah warii haade mooɗon. Tuubee, njaɓon Habaru Belɗum."
+  },
+  {
+   "title": "Habaru Belɗum — o timmini ko fuu",
+   "body": "Njibdi hakke nde mi waawaano yoɓde, Yeesu yoɓi nde e nokkuure am dow gaafaangal, e ummitaagol o fooli mayde. Mi tugnortaako «waɗ ɗum» ammaa «ɗum yottinaama.»",
+   "vref": "Yahaya 19:30 · Roomanko'en 5:8",
+   "vtext": "Ɗum yottinaama… carel ko ngonɗen nder hakke, Almasiihu maayii ngam meeɗen."
+  }
+ ]
+}

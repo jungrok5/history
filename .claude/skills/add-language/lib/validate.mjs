@@ -38,8 +38,13 @@ coOk ? ok('core 객체 키 완비') : bad('core 객체 키 누락');
 // 2) s 키가 es.json 과 동일
 try {
   const es = JSON.parse(fs.readFileSync(p('i18n/es.json'), 'utf8'));
-  const a = Object.keys(es.s).sort().join(','), b = Object.keys(pack.s).sort().join(',');
-  a === b ? ok('s 키 집합이 es.json 과 동일') : bad('s 키 불일치 — es 기준 누락/추가 확인');
+  const OPT = new Set(['respond.read', 'partial.note']); // 선택적 신규 키(다음걸음 버튼·부분모드 안내)
+  const base = Object.keys(es.s);
+  const miss = base.filter(k => !(k in pack.s));
+  const extra = Object.keys(pack.s).filter(k => !base.includes(k) && !OPT.has(k));
+  (miss.length === 0 && extra.length === 0)
+    ? ok('s 키 집합 OK' + (Object.keys(pack.s).some(k=>OPT.has(k))?' (+선택키)':''))
+    : bad('s 키 불일치 — 누락:[' + miss + '] 비허용추가:[' + extra + ']');
 } catch { bad('es.json 비교 실패'); }
 
 // 3) 필수 메타
