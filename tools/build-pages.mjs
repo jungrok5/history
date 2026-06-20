@@ -126,6 +126,14 @@ const LANGS = [
   { code:'pam',    dir:'ltr', locale:'pam_PH' },
   { code:'pag',    dir:'ltr', locale:'pag_PH' },
   { code:'bi',     dir:'ltr', locale:'bi_VU' },
+  { code:'ug',     dir:'rtl', locale:'ug_CN' },
+  { code:'lua',    dir:'ltr', locale:'lua_CD' },
+  { code:'umb',    dir:'ltr', locale:'umb_AO' },
+  { code:'sg',     dir:'ltr', locale:'sg_CF' },
+  { code:'be',     dir:'ltr', locale:'be_BY' },
+  { code:'mad',    dir:'ltr', locale:'mad_ID' },
+  { code:'kab',    dir:'ltr', locale:'kab_DZ' },
+  { code:'tum',    dir:'ltr', locale:'tum_MW' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
@@ -152,6 +160,7 @@ const FONT_TITLE = {
   'zh-Hant':'Noto Serif CJK TC, serif',
   'ar':'Noto Naskh Arabic, serif',
   'hi':'Noto Serif Devanagari, Noto Sans Devanagari, serif',
+  'ug':'Noto Naskh Arabic, serif',
   'he':'Noto Serif Hebrew, serif',
   'ka':'Noto Serif Georgian, serif',
   'hy':'Noto Serif Armenian, serif',
@@ -185,6 +194,7 @@ const FONT_SUB = {
   'zh-Hant':'Noto Sans CJK TC, sans-serif',
   'ar':'Noto Sans Arabic, sans-serif',
   'hi':'Noto Sans Devanagari, sans-serif',
+  'ug':'Noto Sans Arabic, sans-serif',
   'he':'Noto Sans Hebrew, sans-serif',
   'ka':'Noto Sans Georgian, sans-serif',
   'hy':'Noto Sans Armenian, sans-serif',
@@ -322,7 +332,7 @@ function ogSvg(m){
   const fs2 = FONT_SUB[m.code] || DEFAULT_SUB;
   const tlen = [...m.brand].length;
   const tsize = tlen>26?44 : tlen>20?52 : tlen>14?60 : 70;
-  const ls = ['ar','hi','th','ne','my','km','ur','bn','si','lo','fa','ta','pa','te','mr','am','ml','gu','or','kn','sd','ckb','ti','as'].includes(m.code) ? 0 : 6; // 자모 결합 스크립트는 자간 0
+  const ls = ['ar','hi','th','ne','my','km','ur','bn','si','lo','fa','ta','pa','te','mr','am','ml','gu','or','kn','sd','ckb','ti','as','ug'].includes(m.code) ? 0 : 6; // 자모 결합 스크립트는 자간 0
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>
     <radialGradient id="g1" cx="50%" cy="-5%" r="75%"><stop offset="0%" stop-color="#e9b949" stop-opacity="0.20"/><stop offset="60%" stop-color="#e9b949" stop-opacity="0"/></radialGradient>
