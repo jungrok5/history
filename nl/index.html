@@ -429,6 +429,7 @@
   .r-after{font-size:14px;color:var(--muted);max-width:42ch;margin:0 auto 16px}
   .r-after b{color:var(--accent)}
   .r-verse{font-family:var(--serif);font-size:14px;color:var(--accent);max-width:46ch;margin:0 auto;line-height:1.7}
+  .partial-note{font-size:12.5px;line-height:1.5;color:var(--muted);background:rgba(0,0,0,.04);border-bottom:1px solid rgba(0,0,0,.06);padding:9px 16px;text-align:center}
   .r-read{display:inline-block;margin:22px auto 0;padding:13px 22px;border-radius:999px;background:var(--accent);color:#fff;font-size:15px;font-weight:700;text-decoration:none;box-shadow:0 4px 14px rgba(0,0,0,.18)}
   .r-read:active{transform:translateY(1px)}
 
@@ -530,6 +531,7 @@
 <div id="shareSheet" hidden><div class="ss-card"><button class="ss-close" id="ssClose" aria-label="Close">✕</button><div class="ss-title" id="ssTitle">Share</div><div class="ss-grid" id="ssGrid"></div></div></div>
 <div id="qrModal" hidden><div class="qr-card"><button class="ss-close" id="qrClose" aria-label="Close">✕</button><img id="qrImg" alt="QR code" width="240" height="240" /><div class="qr-url" id="qrUrl"></div><a class="qr-dl" id="qrDl" download>⤓ Save QR</a></div></div>
 
+<div class="partial-note" id="partialNote" hidden></div>
 <header class="hero" data-sec="start" data-title="시작" data-label="시작" data-ga="hero">
   <div class="bgsky"></div>
   <div class="kicker" data-i18n="hero.kicker">VAN DE SCHEPPING TOT DE KERK</div>
@@ -1315,6 +1317,7 @@ function doApply(pack,code){
   html.setAttribute('dir',pack.dir||'ltr');
   I18N_NODES.forEach(n=>{const k=n.getAttribute('data-i18n');const v=pack.s?pack.s[k]:null;n.innerHTML=linkifyRefs(v!=null?v:ORIG[k], code);});
   (function(){var rb=document.getElementById('readBtn');if(!rb)return;var rv=(code==='ko')?READ_KO:(pack.s&&pack.s['respond.read']);var u=verseUrl('JHN.1.1',code);if(rv&&u){rb.innerHTML=rv;rb.href=u;rb.hidden=false;}else{rb.hidden=true;}})();
+  (function(){var pn=document.getElementById('partialNote');if(!pn)return;var v=pack.s&&pack.s['partial.note'];if(v){pn.textContent=v;pn.hidden=false;}else{pn.hidden=true;}})();
   document.querySelectorAll('[data-sec]').forEach(sec=>{const lk=sec.getAttribute('data-sec');const lab=pack.labels&&pack.labels[lk];if(lab){sec.dataset.title=lab;sec.dataset.label=lab;}});
   renderCore(pack); renderEpochs(pack);
   buildNav(); setupObservers(); bindContact(); onScroll();
