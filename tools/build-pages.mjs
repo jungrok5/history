@@ -2,6 +2,7 @@
 // 사용법: node tools/build-pages.mjs   (rsvg-convert 필요; 없으면 이미지 단계만 건너뜀)
 import fs from 'node:fs';
 import { execSync } from 'node:child_process';
+import crypto from 'node:crypto';
 
 const ORIGIN = 'https://one-scroll-bible.com';
 const root = process.cwd();
@@ -474,6 +475,17 @@ ${LANGS.map(L=>`- ${L.code}: ${L.code==='ko'?ORIGIN+'/':ORIGIN+'/'+L.code+'/'}`)
 - num2323studio@gmail.com
 `;
 fs.writeFileSync(`${root}/llms.txt`, llms);
+
+// ---- 서비스워커 캐시 버전 스탬프 ----
+// 앱 셸(index.html) 해시로 CACHE 이름을 갱신 → 셸 변경 시 SW 가 옛 캐시 자동 폐기.
+// (i18n 본문은 sw.js 에서 network-first 라 별도 무효화 불필요)
+try {
+  const swPath = `${root}/sw.js`;
+  const sw = fs.readFileSync(swPath, 'utf8');
+  const hash = crypto.createHash('sha1').update(src).digest('hex').slice(0, 8);
+  const stamped = sw.replace(/const CACHE = '[^']*';/, `const CACHE = 'osb-${hash}';`);
+  if (stamped !== sw) { fs.writeFileSync(swPath, stamped); console.log('sw.js CACHE =', 'osb-' + hash); }
+} catch (e) { console.log('sw.js 스탬프 건너뜀:', e.message); }
 
 console.log('생성된 언어 페이지:', generated.join(', '));
 console.log('OG 이미지: 생성', imgOK, '· 건너뜀', imgSkip, imgSkip?'(rsvg/폰트 없음 → 커밋된 이미지 사용)':'');

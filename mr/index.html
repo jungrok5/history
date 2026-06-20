@@ -431,9 +431,10 @@
   .r-after b{color:var(--accent)}
   .r-verse{font-family:var(--serif);font-size:14px;color:var(--accent);max-width:46ch;margin:0 auto;line-height:1.7}
   .partial-note{margin-top:50px;font-size:12.5px;line-height:1.55;color:var(--muted);background:rgba(233,185,73,.07);border-top:1px solid rgba(233,185,73,.18);border-bottom:1px solid rgba(233,185,73,.18);padding:10px 16px;text-align:center}
-  .r-read{display:inline-flex;align-items:center;gap:9px;margin:24px auto 0;padding:11px 20px;border-radius:999px;
+  .r-read{display:inline-flex;align-items:center;justify-content:center;gap:9px;margin:24px auto 0;padding:12px 22px;border-radius:22px;max-width:min(92%,30em);
     background:rgba(233,185,73,.10);border:1px solid rgba(233,185,73,.42);color:var(--accent);
-    font-family:var(--serif);font-size:15px;font-weight:600;text-decoration:none;transition:background .15s,border-color .15s}
+    font-family:var(--serif);font-size:15px;font-weight:600;line-height:1.4;text-align:center;word-break:keep-all;text-decoration:none;transition:background .15s,border-color .15s}
+  .r-read span{overflow-wrap:break-word}
   .r-read:hover{background:rgba(233,185,73,.17);border-color:rgba(233,185,73,.62)}
   .r-read:active{transform:translateY(1px)}
   .r-read .r-ic{width:18px;height:18px;flex:none;opacity:.9}
