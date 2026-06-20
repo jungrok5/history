@@ -99,8 +99,12 @@ function checkLang(code) {
   return { code, yv, devs };
 }
 
-// EN(정본)이 verbatim 인 자리에서 번역만 어긋난 것 = 진짜 오류. EN 도 축약/강조한 자리(편집 의도)는 베이스라인으로 제외.
-const baseline = new Set(checkLang('en').devs.map(d => d.key));
+// EN(정본) 베이스라인으로 노이즈 제거:
+//  ① EN 도 일탈한 **필드**(faq.a*·mis 편집 인용 등)는 그 자체가 verbatim 대상 아님 → 필드 단위 제외.
+//  ② 호칭/저자적용 cite(성경 직접인용 아님)는 ref 로 제외: «다윗의 자손»(LUK1:32-33·MAT1:1)·«나도 똑같이»(1CO10:11) 등.
+const enLabels = new Set(checkLang('en').devs.map(d => d.label));
+const CONCEPT_REFS = new Set(['LUK.1.32-33', 'MAT.1.1', '1CO.10.11', 'LUK.18.9-14']);
+const isReal = d => !enLabels.has(d.label) && !d.refs.some(r => CONCEPT_REFS.has(r));
 
 const codes = arg === '--all'
   ? fs.readdirSync(path.join(root, 'i18n')).filter(f => f.endsWith('.json')).map(f => f.replace('.json', '')).filter(c => YV[c])
@@ -110,7 +114,7 @@ let totalFlag = 0;
 for (const code of codes) {
   if (code === 'en') continue; // en 은 베이스라인(정본 자체)
   const r = checkLang(code);
-  const real = r.devs.filter(d => !baseline.has(d.key)); // EN 베이스라인 제외 = 언어 고유 일탈
+  const real = r.devs.filter(isReal); // EN 베이스라인(필드)+호칭/적용 cite 제외 = 진짜 인용 일탈
   if (arg === '--all' && !real.length) { console.log(`✓ ${code} CLEAN`); continue; }
   console.log('===== ' + r.code + ' (yv' + (r.yv || '?') + ') — ' + (real.length ? real.length + ' FLAG(S)' : 'CLEAN') + ' =====');
   for (const d of real) {
