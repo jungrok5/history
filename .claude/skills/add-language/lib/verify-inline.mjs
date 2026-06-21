@@ -93,7 +93,7 @@ function checkLang(code) {
       // 인용 안 엘리전: …, 그리고 — / , 도 분절점으로 허용(EN 도 쓰는 편집 생략)
       const segs = quote.replace(/<[^>]+>/g, '').split(/…|—|–/).map(x => x.trim()).filter(x => key(x).length >= 4);
       const bad = segs.filter(seg => !contains(pool, seg));
-      if (bad.length) devs.push({ key: k, label, refs, q: disp(bad[0]).slice(0, 120), s: disp(pool).slice(0, 150) });
+      if (bad.length) devs.push({ key: k, label, refs, quote, verse: pool, q: disp(bad[0]).slice(0, 120), s: disp(pool).slice(0, 150) });
     }
   }
   return { code, yv, devs };
@@ -106,22 +106,27 @@ const enLabels = new Set(checkLang('en').devs.map(d => d.label));
 const CONCEPT_REFS = new Set(['LUK.1.32-33', 'MAT.1.1', '1CO.10.11', 'LUK.18.9-14']);
 const isReal = d => !enLabels.has(d.label) && !d.refs.some(r => CONCEPT_REFS.has(r));
 
-const codes = arg === '--all'
+const JSON_OUT = process.argv.includes('--json');
+const ALL = arg === '--all' || arg === '--json';
+const codes = ALL
   ? fs.readdirSync(path.join(root, 'i18n')).filter(f => f.endsWith('.json')).map(f => f.replace('.json', '')).filter(c => YV[c])
   : [arg];
 
+const jsonRows = [];
 let totalFlag = 0;
 for (const code of codes) {
   if (code === 'en') continue; // en 은 베이스라인(정본 자체)
   const r = checkLang(code);
   const real = r.devs.filter(isReal); // EN 베이스라인(필드)+호칭/적용 cite 제외 = 진짜 인용 일탈
-  if (arg === '--all' && !real.length) { console.log(`✓ ${code} CLEAN`); continue; }
+  totalFlag += real.length;
+  if (JSON_OUT) { for (const d of real) if (!d.fail) jsonRows.push({ code, yv: r.yv, label: d.label, refs: d.refs, quote: d.quote, verse: d.verse }); continue; }
+  if (ALL && !real.length) { console.log(`✓ ${code} CLEAN`); continue; }
   console.log('===== ' + r.code + ' (yv' + (r.yv || '?') + ') — ' + (real.length ? real.length + ' FLAG(S)' : 'CLEAN') + ' =====');
   for (const d of real) {
     if (d.fail) { console.log(` • ${d.label} [${d.refs.join(',')}] FETCH FAIL(신포맷?)`); continue; }
     console.log(` • ${d.label} [${d.refs.join(',')}] NOT VERBATIM:\n     q: ${d.q}\n     s: ${d.s}`);
   }
-  totalFlag += real.length;
 }
-if (arg === '--all') console.log(`\n총 FLAG: ${totalFlag} (언어 ${codes.length - 1}, EN 일탈필드 ${enLabels.size}개 + 호칭/적용 cite 제외)`);
+if (JSON_OUT) { console.log(JSON.stringify(jsonRows)); process.exit(0); }
+if (ALL) console.log(`\n총 FLAG: ${totalFlag} (언어 ${codes.length - 1}, EN 일탈필드 ${enLabels.size}개 + 호칭/적용 cite 제외)`);
 process.exit(totalFlag ? 1 : 0);
