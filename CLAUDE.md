@@ -1,86 +1,122 @@
-# CLAUDE.md — 프로젝트 메모리
+# CLAUDE.md — Project memory
 
-> 다음 세션이 컨텍스트를 빠르게 잇기 위한 핵심 요약. 작업 전 먼저 읽을 것.
+> A concise summary so the next session can pick up fast. Read this before working.
+> This file is written in English. **Communicate with the maintainer in Korean.**
 
-## 프로젝트
-**한눈에 보는 성경 이야기 (Bible in One Scroll)** — 창조→타락→…→교회→회복(재림)까지 성경 전체 구속사를 모바일 스크롤 단일 페이지로 전하고, 복음 이해→**영접 기도**로 이어지게 하는 사이트.
-- 라이브: **https://one-scroll-bible.com/**
-- 저장소: `jungrok5/one-scroll-bible` (구 `jungrok5/history` — 2026-06-21 개명, 옛 URL은 GitHub 리다이렉트)
-- 사용자 작업 언어: **한국어**
+## Project
+**Bible in One Scroll (한눈에 보는 성경 이야기)** — the whole Bible's redemptive history
+(Creation → Fall → … → Church → Restoration/Second Coming) told as a single mobile scroll,
+leading from understanding the gospel to a **prayer to receive Christ**.
+- Live: **https://one-scroll-bible.com/**
+- Repo: `jungrok5/one-scroll-bible` (formerly `jungrok5/history`, renamed 2026-06-21; old URLs redirect)
+- Maintainer's working language: **Korean** — reply in Korean.
 
-## 콘텐츠 관점 (모든 수정의 기준 — 반드시 준수)
-**한국 개신교 대다수가 공유하는 복음주의·개혁주의 구속사(救贖史) 관점, 개역개정판 기준.**
-- 성경 인용은 **각 언어의 대표 공식 번역본을 그대로(verbatim)** 사용 — 의역/임의 표현 금지.
-  - ko 개역개정 · en ESV · zh-Hans/zh-Hant 和合本(CUV) · ja 新共同訳 · es RVR1960 · pt-BR Almeida · fr Louis Segond(LSG) · de Lutherbibel · ru Синодальный · ar Van Dyck(SVD) · hi 힌디 OV/IRV · id TB(LAI) · vi Bản Truyền Thống(BTT) · th THSV2011
-- 민감 주제는 완화된 표현 유지(살인자/값싼 용서/“착하게 살면”/밀양 등 FAQ). 롬12:19는 “원수 갚음은 하나님께” 본뜻(복수 정당화 아님).
+## Content perspective (the standard for every edit — must follow)
+**The evangelical · Reformed redemptive-historical (구속사) view shared by most of the Korean
+Protestant church; Korean Revised Version (개역개정) as the Korean baseline.**
+- Quote Scripture **verbatim from each language's representative official translation** — never
+  paraphrase or invent. (ko 개역개정 · en ESV · zh 和合本/CUV · ja 新共同訳 · es RVR1960 ·
+  pt-BR Almeida · fr LSG · de Lutherbibel(1912) · ru Синодальный · ar Van Dyck/SVD · etc. The
+  exact version per language lives in `YV` / each pack's `ui.version` — never hard-code a second list.)
+- Keep sensitive topics gently worded (murderer / "cheap grace" / "just be a good person";
+  for non-ko, FAQ q3/a3 must reference **no specific films or events**). Rom 12:19 = "vengeance
+  belongs to God," not a justification of revenge.
 
-## 파일 구조
-- `index.html` — 단일 파일 앱(HTML/CSS/바닐라 JS). **ko·en 콘텐츠는 인라인**(KO_PACK/EN_PACK, EPOCHS/CORE/MIS/LOVE 등 배열), 렌더링 함수, LANGS(15개), NAV_MAP, GA4 등.
-- `i18n/<code>.json` — **나머지 13개 언어 외부 팩**(런타임 `fetch`로 로드). 키: menuName, share, ui, labels, s.{...}, epochs[13], love[13], mis[13, index 8·12는 null], core[7].
-- `tools/build-pages.mjs` — 언어별 정적 페이지 생성기(`index.html`을 템플릿으로 사용). **하위 14개 페이지에 본문 프리렌더**(JS 없이도 현지어 본문 노출 → 검색/AI 크롤러용): index.html에서 EPOCHS/CORE/EN_PACK을 `new Function`으로 추출 + i18n JSON으로 정적섹션(data-i18n)·epochs·core를 균형태그 스캐너(setInner)로 채움. + 언어별 **JSON-LD(WebSite+FAQPage)**, **llms.txt**, keywords 현지화. **루트(index.html) 본문 컨테이너는 비워둔 채 유지**(ko는 인라인 JS로 런타임 렌더; 템플릿 불변 = 생성기 idempotent). 루트 JSON-LD만 결정적 치환.
-- 생성물(커밋 대상): `/<code>/index.html`(14개·본문 프리렌더 포함), `og.png`+`og-<code>.png`(15개), `icon-192/512.png`, `sitemap.xml`, `llms.txt`.
-- PWA: `manifest.webmanifest` + `sw.js`(오프라인 캐시: navigate=network-first, 자원=cache-first, 동일출처만). 아이콘은 생성기가 rsvg로 생성.
-- 공유: 전역+장면별(`.ep-share`, `#shareSheet`) **적응형**(모바일=네이티브 1개+복사/이미지/QR; 데스크톱=소셜 WhatsApp/Telegram/X/Facebook/LINE+복사/이미지/QR) + 캔버스 구절이미지 + QR 모달(`qr-<code>.png` 정적 커밋) + 딥링크(`#s1`~`#s13`, gotoHash). 라벨은 `SHARE_L` 맵으로 15개 언어 현지화, 아이콘은 라인 SVG.
-- GA4 이벤트: `language_select`·`share{method}`·`scene_view{scene}`·`section_view{section}`·`prayer_view`·`read_more{scene}`(gevent 헬퍼). 언어별 이탈지점 분석용.
-- `vercel.json` (buildCommand=`node tools/build-pages.mjs` + 보안헤더/캐시 headers), `robots.txt`, `README.md`. **`.vercelignore`로 CLAUDE.md·.claude 배포 제외**(사이트 404).
-- `.claude/skills/add-language/` — **언어 추가 스킬**(`/add-language`). SKILL.md(전 절차 체크리스트) + lib/(validate·audit-links·integrate·make-qr·convert-digits·config.example.json). 새 언어 추가 시 이 스킬을 따를 것(누락 방지).
+## File structure
+- `index.html` — single-file app (HTML/CSS/vanilla JS). **ko & en content is inline**
+  (KO_PACK/EN_PACK; EPOCHS/CORE/MIS/LOVE arrays), plus render functions, `LANGS`, the verse-link
+  data (`BOOKS`/`BOOKOPT`/`YV`), NAV_MAP, and GA4.
+- `i18n/<code>.json` — **every other language pack**, loaded at runtime via `fetch`. Keys:
+  menuName, share, ui, labels, s.{…}, epochs[13], love[13], mis[13] (index **8 & 12 = null**), core[7].
+- `i18n/en.json` — English template for contributors (kept in sync from EN_PACK by build-pages; **committed**).
+- `tools/build-pages.mjs` — static page generator (uses index.html as the template). For each
+  non-ko language it **prerenders the localized body** (so search/AI crawlers see real text without
+  JS), bakes in per-language `<title>`/OG/canonical/hreflang + JSON-LD (WebSite + FAQPage), and
+  writes `sitemap.xml` + `llms.txt`. It also stamps the service-worker cache name from the
+  index.html hash and refreshes `i18n/en.json`.
+- **Generated output is NOT committed** (Vercel regenerates it every deploy via the buildCommand):
+  `/<code>/index.html`, `sitemap.xml`, `llms.txt`. See `.gitignore`.
+- **Committed binaries** (Vercel can't generate these — no rsvg/fonts at build time):
+  `og.png` (a **single shared OG image** for all languages), `icon-192/512.png`, `qr-<code>.png`.
+  Every page's `og:image` points to the shared `/og.png`; `og:title`/`og:description` stay per-language.
+- PWA: `manifest.webmanifest` + `sw.js` (navigate = network-first, assets = cache-first, same-origin only).
+- Share: global + per-scene adaptive UI (mobile native + copy/image/QR; desktop social + copy/image/QR),
+  canvas verse-image, QR modal (loads `qr-<code>.png` **lazily**, only when opened), deep links `#s1`–`#s13`.
+- GA4 events: language_select · share{method} · scene_view · section_view · prayer_view · read_more.
+- `vercel.json` (`buildCommand = node tools/build-pages.mjs` + security/cache headers), `robots.txt`.
+  **`.vercelignore` keeps `CLAUDE.md` and `.claude` out of the deploy.**
+- `.claude/skills/add-language/` — the **/add-language skill**. Follow its `SKILL.md` when adding a
+  language. Helpers in `lib/`: validate · audit-links · integrate · make-qr · convert-digits ·
+  fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review-prompt.
 
-## 다국어 동작
-- 비 ko/en 페이지 **본문은 런타임에 `i18n/<code>.json`을 fetch**해 채움 → 라이브 본문 검증은 **HTML이 아니라 JSON 파일**을 확인할 것 (예: `curl .../i18n/th.json`). head/OG/meta에는 각 언어 값이 빌드 시 박힘.
-- `window.__BOOTLANG__`로 언어별 페이지 부팅. 언어 자동감지 + 우측 상단 🌐 검색 전환.
+## Single source of truth — do NOT track per-language state in this file
+The language list, codes, and YouVersion version IDs live in **`index.html`** (`LANGS`, `BOOKS`, `YV`)
+and `tools/build-pages.mjs` (`LANGS`). **Derive them from code; never keep a duplicate list here** —
+duplicating it is what caused a merge conflict on every language PR.
+- **When adding/changing a language, do NOT edit CLAUDE.md.** New cross-cutting gotchas go in
+  `SKILL.md` (maintainer-owned, rarely touched), not here.
+- Count languages: `node -e "console.log(require('fs').readdirSync('i18n').filter(f=>f.endsWith('.json')).length)"` (+ ko inline).
 
-## 빌드·배포 파이프라인
-1. 콘텐츠 수정(index.html / i18n) 후 **반드시** `node tools/build-pages.mjs` 재실행 → 페이지·OG·sitemap 재생성.
-   - 생성기는 `index.html`을 템플릿으로 모든 언어 페이지를 만듦 → **index.html(en 인라인) 수정 시 14개 페이지 전부 재생성됨**(정상).
-   - OG 이미지: SVG→PNG `rsvg-convert`(1200×630), 스크립트별 Noto/Nanum 폰트. ar/hi/th는 letter-spacing=0.
-2. 검증(아래) 통과 후 커밋.
-3. **배포**: 작업 브랜치 커밋·푸시 → `main` 체크아웃 → `git merge --ff-only <branch>` → `git push origin main` → **Vercel 자동 배포**.
+## Multilingual behavior
+- For non-ko/en pages the **body is fetched at runtime from `i18n/<code>.json`** → verify live
+  content against the **JSON file, not the HTML** (e.g. `curl .../i18n/th.json`). head/OG/meta carry
+  per-language values baked in at build time.
+- `window.__BOOTLANG__` boots each language page; browser-language auto-detect + 🌐 search switcher.
 
-## Git 규칙
-- 개발 브랜치: **`claude/bible-timeline-mobile-site-cb8u6x`** (여기서 작업·푸시).
-- `main` 머지/푸시는 **사용자 명시 허락 시에만**(배포 트리거). ff-only 선호.
-- push: `git push -u origin <branch>`, 네트워크 실패 시 2/4/8/16초 백오프 4회.
-- PR은 사용자가 요청할 때만 생성.
-- 커밋 메시지 한국어, 끝에 Co-Authored-By(Claude Opus 4.8) / Claude-Session 푸터. **모델 식별자(claude-opus-4-8[1m])를 커밋·코드·산출물에 넣지 말 것**(채팅 한정).
+## Build & deploy pipeline
+1. After editing content (index.html / i18n), run `node tools/build-pages.mjs`. Its page output is
+   gitignored, so locally the run is to **confirm it succeeds** and to refresh the **committed**
+   side-effects: `i18n/en.json` and the `sw.js` cache stamp. (OG/icon image steps need
+   `rsvg-convert` + Noto/Nanum fonts; without them they are skipped and the committed PNGs are used.)
+   - The generator uses index.html as the template, so editing index.html (en inline) re-derives all
+     language pages — expected.
+2. Pass validation (below), then commit.
+3. **Deploy**: push the work branch → checkout `main` → `git merge --ff-only <branch>` →
+   `git push origin main` → **Vercel auto-deploys** (it runs build-pages.mjs and serves the freshly
+   generated pages — live output is identical whether or not the pages were committed).
 
-## 검증 패턴 (커밋 전)
+## Git rules
+- Work branch: **`claude/bible-timeline-mobile-site-cb8u6x`** (work & push here).
+- Merge/push to `main` **only with explicit user permission** (it triggers a deploy). Prefer ff-only.
+- Commits: Korean message; footer `Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>`
+  and `Claude-Session: …`. **Never put a model identifier (e.g. `claude-opus-4-8`) in commits, code,
+  or any artifact** — chat only.
+- Open PRs only when asked.
+
+## Validation (before commit) — run from repo root
 ```
-node -e '... JSON.parse 각 i18n; epochs===13, core===7, love===13, mis null===2 확인'
-node -e '... index.html 마지막 <script> 블록 new Function()으로 파싱 확인 (APP_JS_OK)'
+node .claude/skills/add-language/lib/validate.mjs <code>        # structure, s-keys, HTML, film-free, native-digit, APP_JS — offline gate
+node .claude/skills/add-language/lib/audit-links.mjs <code>     # display↔USFM, 0 missed links, anchors
+node .claude/skills/add-language/lib/verify-verbatim.mjs <code> # epoch q + core vtext quotes verbatim
+node .claude/skills/add-language/lib/verify-inline.mjs <code>   # inline quotes in body, EN baseline
+node .claude/skills/add-language/lib/verify-prose.mjs <code>    # prose meaning via back-translation (candidates only)
 ```
-라이브 확인은 `curl https://one-scroll-bible.com/i18n/<code>.json | grep ...`.
+`fetch-verse.mjs <YV> <USFM,…>` pulls verbatim verse text from bible.com — **the only trusted source;
+WebFetch hallucinates verses.** `validate` is the deterministic offline gate; the verify-* tools are
+advisory (they hit the network). Full procedure for a new language: see `SKILL.md`.
 
-## 함정 / 주의
-- **Edit 전 해당 파일을 이 세션에서 Read 必**(grep만으론 불충분 — 에러남).
-- **린터/사용자 포맷을 되돌리지 말 것**: i18n JSON은 `JSON.stringify(p,null,1)`(공백 1칸) 포맷, sitemap.xml은 `<url>` 한 줄, robots/README 포맷 유지.
-- zh-Hant: **대만 표준 자형 사용**(為/裡/啟/吃/背). 간→번체 변환 오자 주의(乾淨≠幹淨, 顯明了≠顯明瞭, 捨≠舍, 申冤≠伸冤). 和合本 본문은 원문대로(예: 사53:5 “壓傷”에 被 추가 금지).
-- 절 번호 차이: 사 9:6 vs 9:5 — TB·BTT·Luther·新共同訳은 **9:5**, RVR1960·Almeida·Синод.·CUV·ESV는 **9:6**. 번역본별로 다름.
-- 검수는 언어별 전문 에이전트 병렬 실행 후 **취합·크로스체크 후 본인이 직접 수정**(에이전트는 보고만).
+## Gotchas / pitfalls
+- **Read a file in-session before you Edit it** (grep alone errors out).
+- **Don't undo linter/user formatting**: i18n JSON uses `JSON.stringify(p,null,1)` (1-space indent);
+  sitemap is one `<url>` per line; keep robots/README formatting as-is.
+- zh-Hant uses **Taiwan standard glyphs** (為/裡/啟/吃/背); watch simplified→traditional miscoversions.
+- Versification differs by translation: Isa 9:6 (CUV/ESV/Синод.) vs 9:5 (TB/BTT/Luther/新共同訳);
+  LXX/Slavonic Psalms (exile = Ps 136, MT 137) for ru/uz/uk/tg/kk/ka/tk/tt — write each `cite` in the
+  translation's own numbering (YouVersion does not remap). Per-language details are in SKILL.md's gotcha digest.
+- Verse links: `verseUrl(usfm,code)` → ko → bskorea (개역개정); all others → YouVersion
+  (`bible.com/bible/<YV>/<USFM>`). `linkifyRefs` is a tag-safe parser over `BOOKS[code]`/`BOOKOPT[code]`;
+  `bookopt.bare` (colon-less chapter refs) is enabled only where book names don't collide with common words.
+- Native-script prose can't be guaranteed by the model — use `lib/native-review-prompt.md` to run a
+  per-language reviewer agent (it **reports only**; the main session applies real fixes after re-fetching verses).
 
-## SEO / 도메인 / 분석
-- GA4: `G-JTXXC8TYVX`. Google Search Console + Naver 웹마스터 등록·소유확인 메타 포함(.com 기준). 사이트맵 제출 완료.
-- 도메인: Cloudflare DNS, **apex(one-scroll-bible.com) primary**, www·*.vercel.app → apex로 308. 모든 canonical/OG/hreflang는 apex 기준.
-- 카톡/SNS 공유: 현재 언어의 `/<lang>/` URL 공유 → 언어별 미리보기(이미지 포함).
-- 연락처(자동수집 거부 안내 포함): num2323studio@gmail.com.
+## Partial mode (NT-only / partially translated languages)
+Languages without a full OT are still added: NT quotes verbatim; OT key verses substituted from the NT
+(e.g. Isa 53:5 → 1 Pet 2:24); OT storyline as unquoted summary; **OT references dropped**
+(epoch[0..8].cite = "", OT inline refs removed, but NT refs in the same spot kept). `s["partial.note"]`
+banner + `s["respond.read"]` (John button). First case = **ff (Fula)**.
 
-## 구절 링크 (전 15개 언어 완료)
-본문의 모든 성경 참조를 탭하면 해당 언어 성경의 그 구절로 이동. `index.html` 인라인 JS에:
-- `verseUrl(usfm,code)`: **ko→개역개정(bskorea, book=USFM소문자)**, 나머지 14개→**YouVersion**(`bible.com/bible/<id>/<USFM>`). 구절은 언어무관 USFM, 번역본 ID만 언어별.
-- `YV` 버전ID(검증됨): en59·es149·pt-BR212·fr93·de51(Luther1912)·ru400·ar13·ja1819·zh-Hant46·zh-Hans48·id306·vi193·th174·hi1683·tl399·ne1483·mn369·my386·km85(KHCV 2005 គខប, 구약+신약 완전판)·uz1939(Muqaddas Kitob 라틴 O‘zbMK, IBT 2016/2020 완전판)·**ur189(URD کِتابِ مُقادّس, RTL)·si1794(Sinhala Revised SROV)·bn1681(পবিত্র বাইবেল O.V. BSI)·lo1727(Lao ພຣະຄຳພີ)·fa136(Persian OV ترجمه قدیم, RTL)·tr170(Kutsal Kitap YÇ)·ta339(Tamil O.V. BSI)·te1787(Telugu O.V. BSI)·pa1687(Punjabi O.V. BSI)·sw1818(Swahili Revised Union SRUV)·mr1686(Marathi RV BSI)·am1260(Amharic NASV, 히브리 시편번호)·ha71(Hausa Littafi Mai Tsarki)·ml1693(Malayalam O.V. BSI)·gu1691(Gujarati O.V. BSI)·kn1684(Kannada J.V. BSI)·yo2754(Yoruba Bibeli Mimọ)·ig77(Igbo Bible Nsọ)·or1749(Odia Re-edited BSI)·jv248(Javanese Kitab Sutji)·su2410(Sundanese Kitab Suci LAI)·zu286(Zulu 1959)·sd3392(Sindhi FB, RTL)·ckb503(Sorani KSS, RTL)·so87(Somali)·rw351(Kinyarwanda)·ny1068(Chichewa)·sn1960(Shona)·tg1477(Tajik, LXX시편)·om3552(Oromo)·ceb2187(Cebuano)·az2324(Azerbaijani)·kk2733(Kazakh, LXX시편·왕국서)·ti2998(Tigrinya, Geʽez)·xh282(Xhosa IBHAYIBHILE)·af5(Afrikaans 1933/1953)·ln1964(Lingala MNB)·lg1829(Luganda Baibuli)·ak2094(Asante Twi ASNA)·ilo2192(Ilocano Ti Biblia)·hil2191(Hiligaynon Ang Biblia)·ki2926(Kikuyu BSK)·luo1810(Dholuo Muma Maler)·bem1097(Bemba BSZ)·as1979(Assamese IRV, 동부나가리)·tn185(Setswana 1970)·war2198(Waray Samarenyo MBB)·bcl890(Central Bikol Marahay na Bareta)·rn2944(Kirundi Bibiliya Yera, 히브리 시편번호)·it122(Italian Nuova Riveduta)·pl132(Polish Biblia Gdańska)·uk186(Ukrainian Огієнко, LXX 시편번호)·ro191(Romanian Cornilescu VDC)·nl1990(Dutch HSV)·el921(Greek Filos Pergamos)·hu920(Hungarian RÚF)·cs509(Czech ČSP)·sv1223(Swedish Folkbibeln 2015)·hy2329(E.Armenian New Revised Ararat, LXX 왕국서)·ka2369(Georgian 완전판, LXX 시편·왕국서)·he2220(Hebrew Tanakh+Delitzsch, RTL, 니쿠드/테아밈)·ht1957(Haitian 1998)·sm2203(Samoan O LE TUSI PAIA)·to1307(Tongan TMB)·fj676(Fijian FNV)·qu2392(Cusco Quechua Diospa Simin Qelqa)·bg190(Bulgarian Верен)·sr202(Serbian Савремени)·da49(Danish 1871/1907)·fi330(Finnish KR92)·st274(Sesotho BIBELE)·nso256(N.Sotho Taba yea Botse)·hr2475(Croatian SHP)·sk465(Slovak SEB)·sl2319(Slovenian SSP)·no29(Norwegian Bibel2011)·lt419(Lithuanian LBD)·lv2406(Latvian Glika)·mi3363(Maori Paipera Tapu)·tpi3481(Tok Pisin)·ts184(Tsonga Bibele)·ee3306(Ewe EƲEGBE BIBLIA)·gn3146(Guarani Ñe'ẽ Porã)·sat3292(Santali SBT, 라틴)·tk1851(Turkmen Mukaddes Kitap, LXX시편)·tt1502(Tatar Изге Язма, LXX시편·4권왕국서)·sq3631(Albanian Së bashku)·mk1501(Macedonian Стандардна)·cy394(Welsh BCND)·wo3338(Wolof Kàddug Yàlla)·mos1217(Mossi Sebr Sõngo)·nd4087(N.Ndebele iBhayibhili)·ay2251(Aymara Bibliia)·quc490(K'iche' Quiché)·pam1141(Kapampangan)·pag1166(Pangasinan)·bi1923(Bislama Baebol)·ug453(Uyghur HZUT, RTL/아랍)·lua2919(Tshiluba)·umb2686(Umbundu)·sg1285(Sango)·be1573(Belarusian Бокун)·mad2870(Madurese)·kab4409(Kabyle Berber)·tum1961(Tumbuka)**.
-- `BOOKS[code]` 언어별 책이름→USFM 사전 + `BOOKOPT[code]`{sep,suf,bare} 매처설정: 구분자 de=쉼표·나머지 콜론, ja는 `章` 접미사, **bare(콜론생략 장단위 허용)는 영어·라틴·키릴·zh·id·hi만; 일반어 충돌 언어(ko·de·th·vi·ar·ja)는 콜론필수**.
-- `linkifyRefs(html,code)`: 태그안전 파서(태그·기존<a> 보존), 멀티참조 분리, 범위 보존(EPH.1.4-5), 번호차이 자동대응(ru·uz Синод./LXX 번호: 시편 136=히137·50=히51, Kings는 uz "3 Shohlar"=1KI). **cite는 각 판본 자체 번호로 작성**(YV는 versification 리맵 안 함 → es=137(히)·ru/uz=136(Синод)). cite·core vref도 사전언어는 파서가 처리(EP_REF/CORE_REF는 비사전 폴백).
-- **검증 프로토콜**(언어 추가 시 필수): 실데이터로 audit(표시↔USFM 정합·미링크·오탐·HTML무결성) + 유버전 ID/책코드 라이브 실연결. 전 언어 진짜불일치 0·미링크 0 확인됨.
-
-## 현재 상태 (2026-06-20)
-**127개 언어**(126 완역 + 1 부분모드 ff)(ko·en·ja·es·pt-BR·fr·de·ru·ar·hi·id·vi·th·zh-Hans·zh-Hant·tl·ne·mn·my·km·uz·ur·si·bn·lo·fa·tr·ta·te·pa·sw·mr·am·ha·ml·gu·kn·yo·ig·or·jv·su·zu·sd·ckb·so·rw·ny·sn·tg·om·ceb·az·kk·ti·xh·af·ln·lg·ak·ilo·hil·ki·luo·bem·as·tn·war·bcl·rn·it·pl·uk·ro·nl·el·hu·cs·sv·hy·ka·he·ht·sm·to·fj·qu·bg·sr·da·fi·st·nso·hr·sk·sl·no·lt·lv·mi·tpi·ts·ee·gn·sat·tk·tt·sq·mk·cy·wo·mos·nd·ay·quc·pam·pag·bi·ug·lua·umb·sg·be·mad·kab·tum·**ff**). 작업 이력: ①13개 언어 본문 공식 번역본 대조 검수·수정 → ②보안헤더+캐시 → ③hreflang중복제거+keywords → ④SEO/AI(프리렌더+JSON-LD+llms.txt) → ⑤공유 적응형UI+PWA+GA4이벤트+QR → ⑥본문 구절 링크(ko 개역개정·나머지 YouVersion) → ⑦**외국인노동자 패키지 언어 추가: tl·ne·mn → my(미얀마, Judson YV386) → km(크메르, KHCV 2005 គខប YV85 완전판)** → ⑧**uz(우즈베크, Muqaddas Kitob 라틴 O‘zbMK YV1939 완전판)** → ⑨**EPS 고용허가제 송출국 패키지 완성: ur(우르두/파키스탄, URD189, RTL/Nastaliq)·si(싱할라/스리랑카, SROV1794)·bn(벵골/방글라데시, BSI O.V.1681)·lo(라오/라오스, Lao1727)**. km은 원문 바이트로 ZWNJ까지 절별 verbatim 대조(v85 절별 비일관 → 인용절만 원형에 맞춤). uz는 라틴 정자법 oʻ/gʻ=U+02BB·tutuq belgisi=U+02BC 바이트 보존, **Синод/LXX 번호로 cite 작성**(시편 136=히137·50=히51, Kings "3 Shohlar"=1KI — YV가 versification 리맵 안 함). ⑨는 `fetch-verse.mjs`로 절별 verbatim 추출(WebFetch 환각 방지)·구약 완전판 확인 후 추가; ur 번호책 하이픈형(2-سموئیل)·lo 책이름 ZWSP(ເພງ​ສັນລະເສີນ) BOOKS 표면형 처리·bn 벵골숫자 참조 ASCII 변환; 원어민 검수 반영(ur Rom8:38·12:19 어순, si 6건, lo mis 4건 verbatim 교정). **키르기스(ky)·테툼(tet)은 YouVersion 구약 완전판 부재로 제외**(둘 다 창세기+신약만; 시편·이사야 없음). → ⑩**전략 도달 패키지(대형 미전도·디아스포라): fa(페르시아, OV 트리짐 카딤 136, RTL/Naskh)·tr(튀르키예, Kutsal Kitap YÇ 170)·ta(타밀, O.V. BSI 339)·te(텔루구, O.V. BSI 1787)·pa(펀자브, O.V. BSI 1687, 구르무키)·sw(스와힐리, Revised Union 1818)**. ⑩에서 발견·반영: integrate.mjs **BOOKS 키 아포스트로피/역슬래시 이스케이프 버그 수정**(tr "Mısır'dan Çıkış"가 작은따옴표 직렬화를 깨뜨려 전 언어 JS 무효화 → 수정); 번호책 표면형 다양화(tr 마침표형 "1. Samuel"·fa 스펠아웃 서수 "دوم سموئیل"·나머지 공백형은 books_numbered); fa 시편 단/복수 مزمور·مزامیر 둘다 PSA, **JDG 21:25가 v136 부재 → 동일문 17:6으로 cite 보정**; 원어민 검수 6개 반영(tr EPH2:8-9·ROM5:8·COL2:15, ta EXO20:2, pa 1Tim1:15, fa·te 각 mis/epoch 인용 verbatim 슬라이스 교정; sw·pa 본문 클린). → ⑪**블렌드(인구×전략성×가용성) 패키지: mr(마라티, BSI RV 1686)·am(암하라, NASV 1260)·ha(하우사, Littafi Mai Tsarki 71)·ml(말라얄람, O.V. BSI 1693)**. 선정기준: 순수 인구수 단독이 아니라 인구×복음 전략성(미전도·디아스포라·교회 보유)×YouVersion 구약 완전판 가용성. ⑪에서 발견·반영: **am 고전 1954판(YV3867)은 시편 책 전체가 YV에서 미반환 → NASV(1260, 히브리 번호)로 변경**(가용성이 명성보다 우선의 실례); mr 데바나가리 인라인 참조(१ करिंथ १०:११) convert-digits로 ASCII화·각주 위첨자 제외·मार्क/स्तोत्र 충돌로 bare=false; ha 아포스트로피 책이름(2 Sama'ila·Ru'ya ta Yohanna) integrate 이스케이프; **원어민 검수 4개 반영(ha core[].vtext 7개+closing 의역 전면 verbatim 교정, mr 4건, am 6건, ml 3건 — 전부 원문 슬라이스로 ZWNJ/내부공백까지 원본 보존)**. **키르기스(ky)·테툼(tet)은 YouVersion 구약 완전판 부재로 제외**(둘 다 창세기+신약만). → ⑫**블렌드 2차(대형 미커버×디아스포라): gu(구자라트, O.V. BSI 1691)·kn(칸나다, J.V. BSI 1684)·yo(요루바, Bibeli Mimọ 2754)·ig(이그보, Bible Nsọ 77)·or(오리야, Re-edited BSI 1749)**. ⑫에서 발견·반영: convert-digits에 구자라트·오디아·칸나다·타밀·텔루구·말라얄람 숫자 범위 추가(or 산문 ୧୩→13); kn Acts='ಅ. ಕೃತ್ಯಗಳು'(마침표+공백 → 정규식 이스케이프로 처리); ig 'Ndị'(=사람들)·yo Iṣe(=행위)/Ọba(=왕) 빈출충돌로 bare=false; or v1749 인쇄 아티팩트(세미콜론 등)는 YV 원본대로 보존(링크도 동일판); 원어민 검수 5개 반영(gu 1Kings12:19, or·kn 각 MAL3:1 첨가어 제거 verbatim 교정; ig·yo 본문 클린). km까지 20개 `main` 배포 완료; uz~or 20개는 작업 브랜치 완료. → ⑬**블렌드 3차(군도 대형어+미전도): jv(자바, Kitab Sutji 248)·su(순다, Kitab Suci LAI 2410)·zu(줄루, 1959판 286)·sd(신디/파키스탄, FB 3392, RTL)·ckb(소라니쿠르드/이라크·이란, KSS 503, RTL)**. ⑬에서 발견·반영: ps(파슈토)는 YV 언어페이지 자체 부재로 제외, sd 인도판(3818) YV 미반환→파키스탄판(3392) 채택; 라틴 빈출충돌 bare=false(jv Rum·Para, su Rum/Rut/Rasul, zu Roma); ckb 번호책 스펠아웃 서수(دووەم ساموئێل)·sd EZK ZWNJ 표면형(حزقي‌ايل); v503 ﴿﴾·RLM·v3392/v2410/v286 판본표기 verbatim 보존; 원어민 검수 5개 반영(su 1Tim1:15 ge복원, zu MAL3:1·COL2:15, ckb Rom12:19어순·1Tim1:15, sd Rom8:39 heh글자 U+06BE; jv 클린). uz~ckb 25개 작업 브랜치 완료. → ⑭**아프리카·중앙아·필리핀 확장 10개: so(소말리87)·rw(키냐르완다351)·ny(치체와1068)·sn(쇼나1960)·tg(타직1477)·om(오로모3552)·ceb(세부아노2187)·az(아제르바이잔2324)·kk(카자흐2733)·ti(티그리냐2998)**. ⑭에서 발견·반영: **kk 접미사 서수형 번호책**(Патшалықтар 2-жазба=2Sam, Қорынттықтарға 1-хат=1Cor)+LXX 왕국서 4권 번호→books_single 정확표면형; **tg·kk LXX 시편**(바벨론=136/MT137); ti config 키릴 л→게에즈 ል 오타 교정; 라틴 빈출충돌 bare=false(so·rw·ny·sn·om·ceb·az: Roma/Juan/Rut/İşləri 등); 원어민 검수 반영(so ACT1:8, sn 분열왕국 방위, ny Egypt→Ejipito, az 5건 mis/COL2:15, ceb COL2:15, ti MAL3:1; rw·tg·om·kk 클린). mg(말라가시)·ps(파슈토)·kmr(쿠르만지)는 YV 구약완전판 부재로 제외. ko 외 54개 작업브랜치 완료(각 검증·감사 92/92·원어민 검수 반영). → ⑮**아프리카 2차(남부·동부·서부): xh(코사/남아공, IBHAYIBHILE 282)·af(아프리칸스/남아공, 1933/1953 v5)·ln(링갈라/콩고, MNB 1964)·lg(루간다/우간다, Baibuli 1829)·ak(아칸·트위/가나, Asante Twi 2094)**. ⑮에서 발견·반영: af NEH8:10→8:11(AFR53 자체번호)·ALL-CAPS 단락머리 보존, xh *각주표식 보존+GAL2:16 어휘교정, ln Neyemi=NEH·단수형 EXO20:2, **ak 드래프팅이 책이름을 영어로 누출(Genesis·Acts·John 등) → 검수서 v2094 트위형으로 표준화**(Genesis→1 Mose·Psalm→Nnwom·Acts→Asomafoɔ; Samuel은 v2094도 라틴형); 라틴 충돌 bare=false(Rum/Roma/Misala/Luusi 등). 원어민 검수: xh3·af2·lg6·ln4 verbatim 교정, ak 책이름 표준화. uz~ak 30개 작업브랜치 완료(각 검증·감사 92/92). → ⑯**필리핀·동/중앙아프리카: ilo(일로카노/필리핀, Ti Biblia 2192)·hil(일롱고/필리핀, Ang Biblia 2191)·ki(키쿠유/케냐, BSK 2926)·luo(루오/케냐, Muma Maler 1810)·bem(벰바/잠비아, BSZ 1097)**. ⑯에서: ilo **로마숫자 접두 번호책**(II Samuel·I Ar-ari·I Taga Corinto) books_single 처리, luo 곡선아포스트로피(Jong’ad Bura U+2019) BOOKS 정합·다단어책(Rapar mar Chik), ki ALL-CAPS 단락머리·다단어책(Maũndũ ma Alawii), 라틴 충돌 bare=false. **드래프팅이 인라인/q 구절을 의역하는 경향 재확인** — 검수서 대량 verbatim 교정(hil 20·luo 8·ki 2; ilo·bem 클린). uz~bem 35개 작업브랜치 완료(각 92/92). → ⑰**선별 우량(인구×전략성) 배치: as(아삼/인도, IRV YV1979, 동부나가리)·tn(츠와나/보츠와나·남아공, Setswana 1970 YV185)·war(와라이/필리핀, Samarenyo MBB 1984 YV2198)·bcl(중부비콜/필리핀, Marahay na Bareta YV890)·rn(키룬디/부룬디, Bibiliya Yera YV2944)**. ⑰에서: as 벵골숫자→ASCII 변환(verse-text 숫자 부재 확인 후), war/bcl "Mga Taga-" 다단어책 런타임링커 정상(integrate 토큰경고는 오탐, audit 92/92가 권위); rn 히브리 시편번호; 라틴 충돌 bare=false. **validate.mjs 영화 정규식 단어경계화**(pamilya·imiryango 오탐 제거: `mily`→`\bmilyang\b`, `miryang`→`\bmir?yang\b`). 드래프팅 의역 경향 재확인 → verbatim 교정(as 5건: mis EZK33:11 মৰণত·JER29:11·JHN15:13·1TI1:15+창50:20, tn 6건: faq JHN3:18·COL1:13+mis 4건, bcl 1건 faq JHN3:18; war·rn Scripture 클린). 드래프팅 에이전트 세션한도 소진으로 본인이 직접 검증(verify-batch/verify-inline 스크립트로 epoch q+core+inline 절별 substring 대조). uz~rn 40개 작업브랜치 완료(각 92/92). 70개 `main` 배포 완료. → ⑱**트랙A(유럽 기독교 정착국 大언어, "성경 알지만 통독 미경험층" 도달): it(이탈리아, Nuova Riveduta YV122)·pl(폴란드, Biblia Gdańska YV132)·uk(우크라이나, Огієнко YV186)·ro(루마니아, Cornilescu VDC YV191)·nl(네덜란드, HSV YV1990)**. ⑱에서: **uk는 LXX/슬라브 시편번호**(ru류 — 유배 "바벨론 강가"=Псалом 136, MT137; cite도 136으로; 링커는 ru/uz만 리맵하므로 uk는 cite번호=USFM 그대로 통과); **드래프팅이 키릴 책이름에 ASCII i/I 혼입**(Суддiв·Iвана 등 60곳 — 화면상 구별불가) → і(U+0456)/І(U+0406)로 일괄교정; uk 서수접두 번호책(2-а Самуїлова·1-е до коринтян)은 books_single 정확표면형(books_numbered "1 X" 패턴과 불일치하므로); **pl 오경은 로마자 서수**(I/II/III/V Mojżeszowa)=books_single, 나머지(2 Samuelowa·1 Królewska)는 아라비아 books_numbered; pl Biblia Gdańska 고어철자 byte보존(Babilońskiemi·Syon·mojem); ro "1 Împăraţilor" ţ(U+0163)·nl Neh8:10→8:11(HSV 자체번호). **core[].vref(≠.cite) 검증 누락 발견** → verify-core.mjs 신규(vref " · "구분·"c:v-v, v"연속 파싱)로 10개 전수 재검증; 원어민 검수(verbatim): uk Gen50:20(те/добре)·nl 1Tim1:15(van wie ik de voornaamste ben)/Gen50:20(dat)+as/tn core Gal2:16 교정(as 코노에오·tn siamisiwe). 라틴/키릴 충돌 bare=false. pl·it·ro 본문 클린. 75개 `main` 배포 완료. → ⑲**트랙A 2차+古기독교: el(그리스, Filos Pergamos 현대역 YV921)·hu(헝가리, RÚF YV920)·cs(체코, ČSP YV509)·sv(스웨덴, Folkbibeln 2015 YV1223)·hy(동부아르메니아, New Revised Ararat YV2329)·ka(조지아, 완전판 YV2369)**. ⑲에서: **el ano teleia U+0387↔중점 U+00B7 정준등가**(verify 정규화 필요)·소문자 라틴유사 글자(ΣTA/Kατά의 K/T/I/o) 원본 byte보존·각주숫자(παιδαγωγός1) 제외·번호책 ΄(U+0384) 혼합위치(Β΄ Σαμουήλ 선두/Προς Κορινθίους Α΄ 후미)→books_single; **hu 무공백 번호책**(1Mózes·2Sámuel·1Korinthus)도 books_single·런타임 링크 정상(92/92); **hy·ka LXX 왕국서**(hy Ա/Բ/Գ/Դ Թագավորների=1SA/2SA/1KI/2KI; ka 1-4 მეფეთა, 드래프팅이 1KI를 "1 მეფეთა"로 오기→"3 მეფეთა" 4권체계로 보정); **ka LXX 시편**(유배=ფსალმუნი 136, 전체시편 인용 "ფსალმუნი 50/136"은 절번호 없어 미링크=전 언어 공통 패턴); hy 아르메니아 마침표 ։(U+0589)·ka 폰트 Noto Georgian·hy Noto Armenian(설치확인). **core[].vref도 verify-core로 전수**(el footnote·각 punct 정준등가는 오탐). 원어민 검수(verbatim): el/hy Gen50:20 의역→원문슬라이스, ka 시편cite 절번호 보정; cs 버전라벨 Bible21→ČSP 정정. el은 audit 휴리스틱이 그리스 ΄ 번호책 미탐지(88)이나 linkifyRefs 직접검증 4개 모두 링크 확인. **mg(말라가시)·ps(파슈토)·ky·tet·kmr 등 YV 구약완전판 부재 제외 유지**. as~ka 작업브랜치 완료. → ⑳**확장 패키지(유럽·태평양·중남미·중동·아프리카 추천 13→12): he(히브리, Tanakh+Delitzsch YV2220, RTL)·ht(아이티크리올, 1998 YV1957)·sm(사모아, O LE TUSI PAIA YV2203)·to(통가, TMB YV1307)·fj(피지, FNV YV676)·qu(쿠스코케추아, Diospa Simin Qelqa YV2392)·bg(불가리아, Верен YV190)·sr(세르비아, Савремени YV202)·da(덴마크, 1871/1907 YV49)·fi(핀란드, KR92 YV330)·st(세소토, BIBELE YV274)·nso(북소토/세페디, YV256)**. **ff(풀라)는 YV 구약 부재로 제외**(fuv1159·fuf1798 모두 신약만). ⑳에서: **he RTL+니쿠드/테아밈 byte보존**·후치 번호책(שמואל ב=2SA·מלכים א=1KI, 후치 서수 הראשונה אל הקורינתים=1CO); **to 혼합 번호책**(OT 전치 "2 Samiuela"+NT 후치 "Kolinitō 1"); **sm 로마자 번호책**(II Samuelu·I Korinito); **bg 4권 왕국서**(2 Царе=2SA·3 Царе=1KI)+시편 "(По слав. N)" 편집주석 제외; **sr 마침표 서수**(1. Мојсијева·2. Самуило)·키릴; **da 오경 번호책**(1 Mosebog)+1871 고어철자; **fi 정식명+약어 혼용**(Ensimmäinen Mooseksen kirja & "1. Moos."/"1. Kor." 39형); **ka/he LXX 시편**(he는 Tanakh라 히브리번호). **드래프팅 12개 모두 세션한도로 자체검증 누락 → 의역 다수**(특히 sm/to/qu core 전면): **언어별 fix 에이전트 12개로 verbatim 전수교정**(sm11·to8·qu10·he6·fi8·sr7·bg3·ht2·da2·fj4·st1·nso0; 총 ~62건). he는 te'amim 복원, ht/sr는 아포스트로피·어순, 공통 MAL3:1·COL2:15·1TI1:15·GEN50:20 의역 교정. **verify-batch/core/inline 정규화 확장**(ano teleia U+0387·아르메니아 ։·ʻokina U+02BB 글리프 등가). to audit 87·el 88은 휴리스틱이 후치/그리스 번호책 미탐지(linkifyRefs 직접검증 OK). → ㉑**블렌드(유럽잔여·태평양·중남미·아프리카): hr(크로아티아 SHP YV2475)·sk(슬로바키아 SEB YV465)·sl(슬로베니아 SSP YV2319)·no(노르웨이 Bibel2011 YV29)·lt(리투아니아 LBD YV419)·lv(라트비아 Glika YV2406)·mi(마오리 YV3363)·tpi(톡피신 YV3481)·ts(총가 YV184)·ee(에웨 YV3306)·gn(과라니 YV3146)**. ㉑에서: **드래프팅 프롬프트에 verbatim 자체검증(fetch-verse 대조 0건까지 반복) 내장 → 11개 전부 epoch q+core+inline 클린, 별도 fix 에이전트 불요**(이전 배치들의 의역 문제를 드래프트 단계에서 해결). 번호책 표면형 다양: hr 후치(Samuel 2)·ee 후치로마자(Mose I·Samuel II)·ts 전치로마자(II Samiele)·sk 서수철자(Druhá Samuelova/Prvá kráľov)·no/lv 마침표전치(1. Mosebok/1. Mozus)·sl 전치(Mojzes{1,2,3,5})·lt/mi/gn/tpi 전치아라비아. **hr 전치/후치 혼용 버그 발견·교정**(인라인 "1 Korinćanima"가 후치 "Korinćanima 1" 사전과 chapter-0 오매칭 → 전부 후치로 정규화); **gn native puso U+2019**(ASCII '는 LANGS JS 단일인용 문자열 깨뜨림 — integrate가 native 미이스케이프, 정자 puso로 회피). **et(에스토니아)는 YV 구약 부재 제외**(3605·3257 신약만); mg·ps·ky·tet·kmr 제외 유지. audit ee88·gn82·hr85·to87은 후치/장책명 휴리스틱 미탐(linkifyRefs 직접검증 전수 OK). → ㉒**⭐후보 14개(남아시아·중앙아·유럽·아프리카·태평양·중남미): sat(산탈리 SBT3292,라틴)·tk(투르크멘1851,LXX)·tt(타타르1502,LXX·4권왕국서)·sq(알바니아3631)·mk(마케도니아1501)·cy(웨일스394)·wo(월로프3338)·mos(모시1217)·nd(북은데벨레4087)·ay(아이마라2251)·quc(키체490)·pam(카팜팡안1141)·pag(팡가시난1166)·bi(비슬라마1923)**. ㉒에서: **tk·tt LXX 시편**(유배=Zebur/Зәбур 136:1; 챕터단위 cite는 :1 필수 — 미링크 방지); **tt 4권왕국서 로마자**(II Патшалар=2SA·III=1KI); **quc 어순서수**(Nabe=1·Ucab=2: "Ucab Samuel"=2SA·"Nabe Ajawinelab"=1KI); wo/mos 무공백·마침표 번호책(2.Samiyel·1Dĩm Dãmba)·nd 약어+장형 혼용(2 Sam/Levitikusi)·sat 장형 서간명(…lạgitʼ Pạul Apostolakʼ ciṭhi)·pag "Saray Arari"=1KI 무번호. **integrate.mjs native/en 이스케이프 수정**(quc "K'iche'"·gn puso의 ASCII '가 LANGS JS 단일인용 문자열 깨던 잠재버그 — 정자 puso/이스케이프로 해결). **mk 소스에 연성하이픈(U+00AD) 내장**(검수 정규화 필요, 에이전트가 제거=정상). 드래프팅 자체검증 내장에도 세션한도로 일부 미완 → 언어별 fix 에이전트 13개로 inline까지 verbatim 전수교정(공통 Gen50:20·1Tim1:15·Col2:15·Mal3:1, tt "!.."→"… ", bi 각주* 제거). yue(YV 구약이 1915 로마자뿐, 한자본문과 비정합)·bho·mai(신약만)·bm(YV 언어페이지 부재) 제외. → ㉓**90% 돌파 배치(순증 인구 큰 중간규모 완역): ug(위구르 HZUT453, RTL/아랍)·lua(칠루바/콩고2919)·umb(움분두/앙골라2686)·sg(상고/중앙아공1285)·be(벨라루스 Бокун1573)·mad(마두라/인니2870)·kab(카빌/베르베르4409)·tum(툼부카/말라위1961)**. ㉓에서: 대형 미커버(광둥어·파슈토·보지푸리·풀라·마이틸리)는 YV 구약 부재로 막혀, 이중언어 중복 적은 중규모 완역어로 순증 도달; **ug 후치 서수책명**(سامۇئىل ئىككىنچى قىسىم=2SA·پادىشاھلار بىرىنچى قىسىم=1KI·…بىرىنچى خەت=1CO/1TI, 긴 서술형)·RTL 아랍폰트·히브리시편; **umb 4권 왕국서 로마자**(I/II OLOSOMA=1KI/2KI)+대문자 cite/소문자 inline 양형 등록; **sg 각주 *마커 제거**(*KOTA GBIA 등)·PSA "Abia (Psaumes)"+무번호 "Abia 51"(전체시편 미링크); kab "최고 죄인"이 v15 아닌 **1Tim 1:16**(4409 자체)·Isa 9:5; be 2SA/1KI 일반번호(왕국서 아님); tum ACT 단축형 "Milimo" BOOKS 추가(미링크 해소). **integrate.mjs native 이스케이프 수정 효과**(특수문자 LANGS 안전). 드래프팅 자체검증 내장으로 8개 전부 count=0(audit 92/92; sat/ug 등 휴리스틱·"·"파서·각주* 잔여플래그는 linkifyRefs/audit 직접검증 OK). **현재 도달 추정 ~90%+** (완역 보유 776개 언어 중 5M+급은 사실상 소진; 남은 대형은 YV 구약 부재). Google·Naver·Bing 등록+사이트맵 제출.
-- **㉔ 검증 도구화 + 초기 언어 재정합(2026-06-20)**: (1) **`lib/verify-verbatim.mjs`**(영구·설정파일 불필요) — 책이름/YV/해석을 배포된 index.html(BOOKS/YV/linkifyRefs)에서 직접 읽어 cite/vref→USFM 해석 후 fetch-verse 원문과 "글자만" 키로 대조(따옴표·구두점·공백·대소문자·아랍하라카트/히브리니쿠드·ʻokina·CJK간격 흡수, 인도계 마트라 보존; 동일장 연속절 범위확장). 인용 전용(산문 미검). (2) **`lib/backtranslate-check.mjs`** — 구글번역 무료 엔드포인트로 **산문 역번역**해 의미 반전·오역 검출(저자원어 산문은 verify-verbatim이 못 잡음; ff `about.line`이 "Ɗoftaaki"=부정형으로 "관점을 안 따른다"는 반전이었던 것을 이 방식이 잡음 → "E dow yiyannde"로 교정). 둘 다 SKILL.md 5·6단계에 편입. (3) 전 126개 verify 스윕 → **초기 13개(fetch-verse 규율 이전 작성)에 인용 이탈 다수** 발견 → 언어별 fix 에이전트로 **11개 verbatim 재정합**(de·pt-BR·th·hi·id·ja·vi·ar·fr·ru·es 전부 CLEAN). **de는 사용자 결정으로 Luther1912(yv51) 유지+인용 환원**(현대 루터2017은 YV 저작권 부재). id는 Exo6:7→6:6·Neh8:10→8:11 판본자체번호 cite 보정. **zh-Hant 裡/裏는 대만 표준 자형(의도) 유지**. ff 부분모드: about.line 반전 교정·partial.note 헤더가림(margin-top) 해결·성경읽기 버튼 톤 정합(외곽선 골드+라인SVG). **SSH 커밋 서명 활성화**(commit.gpgsign true, /home/claude/.ssh 키). mg·ps·ky·tet·kmr·et·yue·bm·bho(신포맷) 제외 유지.
-- **㉕ SW 캐시 전략 수정 + 산문 자동 점검 도구화(2026-06-20)**: (1) **서비스워커 콘텐츠 network-first**: 기존 `sw.js`가 `i18n/*.json`을 cache-first(고정 캐시명 osb-v2)로 잡아 **배포해도 재방문자에게 옛 본문이 남던** 구조적 버그(ff about.line 수정이 "따르지 않습니다"로 계속 보임) → HTML 네비게이션+`/i18n/*.json`을 network-first(온라인=항상 최신, 오프라인=캐시 폴백), 정적자원만 cache-first. CACHE→osb-v3 + **build-pages가 index.html sha1로 CACHE명 자동 스탬프**(`osb-<hash8>`, 셸 변경시 옛 캐시 자동 폐기). (2) **성경읽기 버튼(.r-read) 줄바꿈 정리**: word-break:keep-all·중앙정렬·radius 22px·max-width(2줄도 깔끔). (3) **`lib/verify-prose.mjs` 신규(산문 자동 점검)** — backtranslate-check를 대체·자동화: 산문 필드를 구글번역으로 **영어 역번역** 후 정본 `EN_PACK`(index.html에서 추출)과 자동 대조해 **POLARITY**(부정어 유무 반전=의미 반전, ff about.line류 적발)·**LOW-SIM**(문자 bigram Dice<0.30 오역/누락)·**LEN**(길이비 이상)으로 **후보만** 출력(+exit 1). 곡선부호/축약형(n't) 정규화·짧은 관용구(<24자) sim제외로 오탐 억제(es 161필드중 ~3 잔여=의역 noise). `--all`(전필드 점수)·`--dump`(역번역 나열). **플래그=확정아님, 검수 후보**(POLARITY 우선 triage). SKILL.md 6단계·체크리스트 편입, 구 backtranslate-check.mjs 삭제. (4) **`lib/native-review-prompt.md` 신규(원어민 검수 에이전트 재사용 프롬프트)** — 그동안 즉석 프롬프트로 돌리던 원어민 검수를 템플릿화: `«언어명/code/판본명/YVid»` 채워 언어별 백그라운드 에이전트(보고만)로 실행, 인용 verbatim(fetch-verse)+책이름/번호+산문 교리충실+민감주제완화+HTML 검수. SKILL.md 6단계에 실행 절차 명시. **첫 실전 적용=ff 재검수**: 자동(verify-prose)이 후보 4건 → 원어민 에이전트가 2건(epoch2/epoch3 "did not enter")=구글번역 잡음·2건 실오류 판정 → fetch-verse 재확인 후 직접 교정: epochs[12].q(계21:4 말줄임 위치)·mis[11].t(딤전1:15 분사환언→원형 «mi ɓurii koo moye waɗuki hakke»)·**s.thread.flow(Habbaaki/Timminaaki=−aaki 부정완료 반전위험 → 코퍼스 실재 긍정 동명사 Habbugol/Timmugol, Timmugol=성취는 epoch12.detail 출현)**. ff verify-verbatim CLEAN.
-- **㉖ 성경읽기 버튼(respond.read) 전 언어 롤아웃(2026-06-20)**: respond.read("Read the Bible for yourself — start with John" 요한복음 버튼)는 ff/partial 신설 키라 **ko·en·ff에만 있고 나머지 124개 누락** → 비ko 언어 페이지에서 버튼 미표시(또는 캐시된 옛 페이지서 한국어 폴백). 런타임 로직(index.html: `rv=pack.s['respond.read']`, 없으면 버튼 hidden; 프리렌더는 readBtn 미처리)이라 **i18n 각 팩에 키만 추가하면 해결**. 절차: (1) index.html `BOOKS[code]`에서 언어별 요한복음 표면형 추출(사이트 자체 명칭=권위) → (2) 번역 에이전트 6배치 병렬로 자연스러운 라벨 생성(EN "Read the Bible for yourself — start with John", " — " 구분자 유지, John은 각 언어 통용 복음서명) → (3) `respond.after` 뒤에 삽입, `JSON.stringify(p,null,1)` 포맷·**파일별 trailing newline 원본 보존**(57개는 `}\n`, 67개는 `}` — 혼재라 복원 처리). **에이전트 산출 교정 2건: ug(위구르)가 키릴로 와서 아랍문자로**(사이트는 Ereb Yéziqi, 어휘 مۇقەددەس كىتاب/ئوقۇ/يۇھاننا 정합), **he가 התנ״ך(구약 타나크)로 와서 המקרא로**(사이트 우산어, 요한복음=신약과 모순 해소). 124개 +1줄씩 클린, validate 통과. **저자원어 라벨은 추후 원어민 폴리시 여지**(verify-prose/native-review로 점검 가능). build-pages는 버튼 런타임 렌더라 페이지 불변.
-- **㉗ verify-prose 전체 스윕 + 버튼 검수(2026-06-20)**: respond.read 추가 후 전 124개 산문 자동 스윕(병렬 -P6). **결과**: (1) **respond.read 버튼 자동검증 실오류 0**(롤아웃 건전), 원어민 에이전트 4배치 점검도 cy(웨일스 동사형 dechrau→dechreuwch)만 확정 수정. (2) **GT 전면 미지원 7개**(bi·kab·ki·mos·nd·quc·umb=GT-FAIL 162/162)는 verify-prose 자동검증 불가 → 원어민 검수만 가능. (3) 산문 플래그는 언어당 0~10으로 전부 낮음(초기13과 동일한 의역 잡음: flawless↔without flaws·never↔unable·whatever↔no matter 등); 저자원어는 GT 자체 불안정으로 모호 플래그多(진위 구분엔 실제 원어민 필요). (4) **언어무관 검증 가능한 사실=침묵기 "약 400년" 전수점검 → ay만 오류**(epoch8.next·epoch9.detail 둘 다 "pä pataca tunca"=210 → "pusi pataca"=400; nd "ngamakhulu amane"·sn "mazana mana"는 철자형 400 정상). cy·ay 수정·배포. **남은 과제: 저자원어 산문 진짜 원어민 검수**(LLM 에이전트는 저자원어 naturalness 보증 못 함 — UNCERTAIN 다수).
-- **㉘ 저자원어 원어민 검수 1차(GT 미지원 7개, 2026-06-20)**: bi·kab·ki·mos·nd·quc·umb(verify-prose 자동검증 불가 사각지대)에 native-review-prompt 에이전트 7개 병렬 투입. **인용 verbatim은 fetch-verse 객관검증이라 저자원어도 신뢰**(전부 CLEAN), 산문 naturalness만 UNCERTAIN(실제 원어민 필요). **확정 수정 2건**: ①mos epoch[8].christ MAL3:1 cite-있는 인용 «Mam tʋmda m koe-taasdã»(환언)→원문 «Ade, m tʋmda neda, t'a tuk sore m taoore» ②quc epoch[7].next 유배기간 "Oxc'al junab"(60)→"Oxc'al lajuj junab"(70) — **키체 성경 자체(JER25:11·DAN9:2 "oxc'al lajuj junab=70")로 표면형 grounding** + Salm 51→Salmib 51(구절링크 복구 2곳). **원칙 정립**: cite-있는 정식 인용·언어무관 사실(숫자)은 교정, **cite-없는 인라인 요약**(JHN14:9 "Father", GEN1:31 "very good" 강조어 등 — 정본 EN도 축약/언어공통 패턴)은 편집 재량으로 유지(124개 일괄 사안화 방지). bi·ki·nd·umb·kab는 인용·책이름·400년·민감·HTML 전부 CLEAN.
-- **㉙ 저자원어 검수 2차 + MAL3:1 인라인 전수 감사 + 공개기여 셋업(2026-06-20)**: (1) **wave2 14개 원어민 검수**(tpi·sat·wo·om·tk·ts·am·fj·ig·jv·luo·mad·mi·pag) — 인용 verbatim은 fetch-verse로 객관검증. (2) **★ 중대 발견: MAL3:1 인라인 인용이 42개 언어에서 환언**(epoch[8].christ "I send my messenger"/«…»(말라기 3:1)). **verify-verbatim 가 christ/detail/mis 인라인 인용을 추출 못 해 그동안 전부 놓침** — 원어민 에이전트조차 일부(tpi/tk/ts)를 verbatim이라 오판. → **타깃 감사 스크립트**(`/tmp/mal-audit.mjs` 식: BOOKS의 Malachi명+YV로 «인용»(말라기 3:1) 추출 → fetch-verse MAL.3.1 와 letters-only substring 대조, …분할)로 **126개 전수 → 42 FLAG**. fix-에이전트 5배치가 각 원문에서 **정확 substring 슬라이스**만 추출(번역 아님, 검증 후 적용) → 42개 전부 교정, 재감사 **FLAG 0**(OK 112). pt-BR anjo(≠mensageiro)·el 역본문구·ne दूत·tk wekil·ts nandza·tpi "man bilong autim tok" 등. (3) ig COL2:15 인라인도 1913정자 원문 슬라이스로 교정(verify-verbatim CLEAN). (4) **공개 기여 셋업**: CONTRIBUTING.md(한/영)·README "함께 번역하기"·**i18n/en.json 영어 템플릿**(build-pages가 EN_PACK로 자동 동기화)·`.github/`(PR·이슈 템플릿). 리포 Public화 + description/topics는 사용자 수동(GitHub MCP에 리포설정 도구 없음). **교훈: verify-verbatim 인라인 인용 미검 = 구조적 사각 → 범용 인라인-인용 감사기 별도 과제(TODO)**. wave2 LOW(om EZK33:11 them→wicked·am GEN50:20 detail 축약·sat 1Ti1:15 form)는 편집 재량으로 유지.
-- **㉚ verify-inline.mjs 영구 도구화(㉙ TODO 해소, 2026-06-20)**: 매번 /tmp 에 만들던 인라인-인용 감사기를 `lib/verify-inline.mjs` 로 영구화. epoch q·core vtext(=verify-verbatim 담당) **외 본문에 박힌 인용+참조** 전수 검사 — 괄호형 `«…»(책 c:v)` + 대시형 `"…" — 책 c:v` → **respond.verse·closing.verse·gospel.crux·christ/detail/mis/faq 인라인**(그동안 자동검증 사각)까지 커버. 핵심: **`i18n/en.json` 정본을 베이스라인**으로 — EN 도 축약/강조/엘리전(…·—·,)한 자리는 편집의도라 제외, **EN 이 verbatim 인데 번역만 어긋난 것만** 플래그(MAL3:1류). verify-verbatim 인프라(BOOKS/YV/linkifyRefs·norm/key) 재사용. `<code>` 또는 `--all`. **확정 아닌 검수 후보**(따옴표 친 호칭·저자표현이 cite 옆이면 오탐 — q/s 눈대조 필요). SKILL 5단계·체크리스트 편입. **첫 적용서 실제 발견**: am GEN50:20(ለበጎ←ለበጎ ነገር 누락)·es mis[10] JHN15:13 의역 등 verify-verbatim 이 못 보던 인라인 일탈 다수 존재 → **전 언어 --all 스윕+정리는 후속 과제**(초기13 포함 inline 미검 상태였음). → **실행 완료(2026-06-21)**: verify-inline `--json` 으로 99건/60언어 추출(LUK1:32-33 호칭·LUK18·1CO10:11 등 76 노이즈는 EN필드/CONCEPT_REFS로 제외) → fix-에이전트 5배치가 각 판본 fetch-verse 원문에서 **정확 substring 슬라이스만** 추출·프로그램 검증(letters-only) 후 **95건 적용, NOFIX 4**(nso·tpi·gn·el = 해당 판본 3:1/50:20/31:31 절에 그 표현이 verbatim 부재 → 보류). GEN50:20·COL2:15·JER31:31·closing.verse(ROM8:38-39)·gospel.crux(ISA53:5)·mis 등 정식 절인용 정합. verify-verbatim 무관(인라인만 교체).
-- **㉛ PR 자동검증 CI(2026-06-21)**: `.github/workflows/validate-translations.yml` — 번역 PR에서 **바뀐 i18n 언어만** 추출(base..HEAD diff)해 점검. `validate.mjs`=게이트(구조·s키·HTML·film-free·자국숫자·APP_JS, 오프라인·결정적), `verify-verbatim`+`verify-inline`=정보성(bible.com fetch·continue-on-error, 신규언어 미통합은 건너뜀), 결과는 `$GITHUB_STEP_SUMMARY`에 표시. `verify-prose`는 GT 불안정으로 CI 제외(관리자 수동). 수천 언어 확장 #4(커뮤니티 PR 자동 QA) 충족. CONTRIBUTING에 "🤖 자동 검증" 안내 추가. (남은 확장후보 #1 생성물 비커밋·#2 동적OG·#3 증분빌드는 Vercel/OG 파이프라인 변경이라 신중 진행.)
-- 남은 개선 후보(미적용): CSP `'unsafe-inline'` 제거(인라인 스크립트 nonce/hash — 정적사이트라 가성비 낮아 보류), 인라인 `<script>` 데이터(KO/EN)가 전 페이지에 남는 점(런타임 필수라 유지).
-- **부분 모드(partial mode, 신약만/일부 번역 언어)**: 완역 없는 언어도 추가 — 신약 인용=verbatim, 이사야53:5 등 구약 핵심은 신약 대체(예: 벧전2:24), 나머지 구약 줄거리는 따옴표 없는 요약. **구약 참조는 아예 빼기**(사용자 결정 "절 표기 빼기"): 구약 장면 9개(epoch[0..8])의 `cite`는 빈 문자열 `""`로, 본문(detail/christ/mis.t)의 구약 괄호·인라인 참조도 제거(단 **같은 자리의 신약 참조는 보존** — 예 ep1.christ "Roomanko'en 16:20" 유지). 빈 cite 렌더 대응: index.html `renderEpochs`와 build-pages.mjs `epochsHtml` 둘 다 `e.cite?…:''`로 가드(버전라벨 dangling 방지), 장면별 공유 텍스트도 cite 조건부. `s["partial.note"]` 배너 + `respond.read`(요한복음 버튼, verseUrl(JHN.1.1))로 안내. **첫 적용=ff(풀라, fuv1159 신약, ~3,700만 최대 미전도) — 빌드·검증·감사(63/63 링크) 완료, main 배포**. validate.mjs는 `respond.read`·`partial.note`를 선택키(OPT)로 허용. **fetch-verse 한계: 일부 신약전용 버전(예: 보지푸리 bho3621)은 신포맷(챕터 HTML blob, data-usfm)이라 현 추출기로 미독출 → "유버전 신포맷 대응 추출기(챕터 파서)" 별도 과제(TODO).** (Fula·Maithili 신약은 현 추출기로 정상.)
-- **목표/진행률**: README에 명시 — 살아있는 언어 ~7,396개 전부가 최종 목표(현재 126개 ≈1.7%, 인구 도달 ~90%). 다음 세대까지 이어가는 프로젝트. 영접 기도 후 "다음 걸음": 가까운 교회(문구만, respond.after 기존) + 성경 읽기(요한복음 유버전 버튼, respond.read 신설).
+## Current status
+~127 languages (126 full + 1 partial = ff), ~90% population reach. The long-term goal (see README) is
+every living language (~7,396). Most languages with 5M+ speakers and a full YouVersion OT are done; the
+remaining large ones generally lack a full OT on YouVersion. Excluded for lack of a full-OT YouVersion
+edition (recorded so we don't retry): ky, tet, kmr, mg, ps, et, yue, bm, bho (new chapter format).

@@ -1,179 +1,260 @@
 ---
 name: add-language
-description: "사이트(한눈에 보는 성경 이야기)에 새 언어를 빠짐없이 추가한다. i18n 팩 작성→통합(hreflang/LANGS/YV/BOOKS/BOOKOPT/build-pages/QR)→빌드→검증→링크감사→원어민 검수→배포까지 정형 절차. '언어 추가/번역 추가/새 언어' 요청 시 사용."
+description: "Add a new language to the site (Bible in One Scroll) with nothing missed: write the i18n pack → integrate (hreflang/LANGS/YV/BOOKS/BOOKOPT/build-pages/QR) → build → validate → audit links → native review → deploy. Use when asked to add or improve a translation / add a new language (\"언어 추가\", \"새 언어\", \"번역 추가\", \"add a language\", \"translate to X\")."
 ---
 
-# 언어 추가 스킬
+# Add-language skill
 
-새 언어 1개를 **누락 없이** 추가하는 절차. tl·ne·mn 추가에서 정형화됨.
-헬퍼: `.claude/skills/add-language/lib/` (validate / audit-links / integrate / make-qr / convert-digits / config.example.json).
-**작업·헬퍼 명령은 모두 repo 루트(`/home/user/history`)에서 실행.**
+Procedure to add one language **with nothing missed**. Helpers live in
+`.claude/skills/add-language/lib/` (validate · audit-links · integrate · make-qr · convert-digits ·
+fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review-prompt · config.example.json).
+**Run every command from the repo root.**
 
-> 핵심 원칙(CLAUDE.md): 복음주의·개혁주의 구속사 관점. 성경 인용은 **각 언어 공식 번역본 verbatim**.
-> ko 외 모든 언어의 FAQ q3/a3는 **영화(밀양/Secret Sunshine) 무관**으로 작성. 롬12:19는 "원수 갚음은 하나님께"(복수 정당화 아님).
+> Core principle (CLAUDE.md): evangelical · Reformed redemptive-historical view. Scripture is quoted
+> **verbatim from each language's official translation**. For every language except ko, FAQ q3/a3 must
+> reference **no specific film or event**. Rom 12:19 = "vengeance belongs to God" (not a justification of revenge).
 
 ---
 
-## 0. 결정 + 판본 가용성 게이트 (full vs partial 자동 판정)
-1. **추가할 언어** + **YouVersion 판본 ID**(verbatim 기준). 후보 여럿이면 AskUserQuestion.
-   - 검증 ID 전체 목록은 CLAUDE.md `구절 링크` 섹션 참조(en59·es149·…·ff1159 등 127개).
-2. **★ 가장 먼저: 구약 완전판 여부를 fetch-verse 로 실측**(이걸로 full/partial 모드가 갈림):
+## 0. Decide + version-availability gate (auto-pick full vs partial mode)
+1. **Language to add** + **YouVersion version ID** (the verbatim baseline). If several candidates, ask
+   the user (AskUserQuestion). Verified IDs already in use live in `YV` in `index.html` — read them there.
+2. **First, measure whether a full OT exists** with fetch-verse (this decides full vs partial):
    ```
    node lib/fetch-verse.mjs <YV> ISA.53.5,PSA.23.1,MAL.3.1,GEN.1.1,EXO.20.2
    ```
-   - **5개 다 본문 반환 → full 모드**(구약+신약 전부 verbatim·링크).
-   - **구약절이 빈칸/누락 → partial 모드**(신약만 번역된 언어. 아래 "부분 모드" 절). 예: ff(풀라 fuv1159)·Maithili.
-   - **fetch 가 전부 실패(신약절 JHN.3.16 도 못 읽음) → 추출 불가 판본**. YouVersion 신포맷(챕터 HTML blob, `data-usfm` 마커)은 현 fetch-verse 가 못 읽음(예: 보지푸리 bho3621). → **그 판본은 보류**(TODO: 챕터 파서). 같은 언어 다른 판본이 구포맷이면 그것으로.
-   - **언어 페이지/구약완전판 자체 부재** → 제외(기록: ky·tet·kmr·mg·ps·et·yue·bm 등).
-3. **스크립트 유형** → 폰트/숫자:
-   - 라틴/키릴(ru·mn 류): 기본 Noto, font=null, 숫자 ASCII.
-   - 데바나가리(hi·ne)/아랍(ar)/타이(th)/CJK/크메르/미얀마/게에즈/아르메니아/조지아/싱할라 등: 전용 Noto 폰트 + letterspacing0. 참조 숫자는 ASCII로 변환.
+   - **All five return text → full mode** (OT + NT all verbatim and linked).
+   - **OT verses blank/missing → partial mode** (NT-only language; see "Partial mode" below). E.g. ff (Fula fuv1159), Maithili.
+   - **Every fetch fails (even NT JHN.3.16) → unreadable edition.** YouVersion's new chapter format
+     (chapter HTML blob with `data-usfm` markers) can't be read by the current fetch-verse (e.g. Bhojpuri bho3621)
+     → **hold that edition** (TODO: chapter parser). If another edition of the same language is the old format, use it.
+   - **No language page / no full-OT edition at all → exclude** (recorded in CLAUDE.md: ky·tet·kmr·mg·ps·et·yue·bm etc.).
+3. **Script type** → font / digits:
+   - Latin/Cyrillic (ru·mn type): default Noto, `font=null`, ASCII digits.
+   - Devanagari (hi·ne) / Arabic (ar) / Thai / CJK / Khmer / Myanmar / Geʽez / Armenian / Georgian /
+     Sinhala etc.: a dedicated Noto font + letter-spacing 0. Convert reference digits to ASCII.
 
-## 1. i18n 팩 작성 (드래프팅 에이전트)
-- 원어민 기독교 번역가 에이전트를 띄워 `i18n/<code>.json` 작성. 프롬프트 핵심:
-  - `i18n/es.json` = **구조 템플릿**(동일 키/shape). `index.html` 의 `EN_PACK`/EPOCHS/CORE = **의미 출처**.
-  - 구조: epochs[13]·core[7]·love[13]·mis[13](index **8,12 = null**), s 키는 es.json 과 동일 집합.
-  - **모든 성경 인용은 해당 판본 verbatim** — 반드시 `node lib/fetch-verse.mjs <YV> <USFM[,USFM...]>` 로 추출(bible.com `__NEXT_DATA__` 원문 그대로; **WebFetch 요약 모델은 구절을 환각하므로 금지**). es.json 의 해당 필드를 보고 **인용 범위·말줄임(…) 위치를 맞출 것**.
-  - 판본 가용성 먼저 확인: 본문은 구약(GEN·EXO·DEU·PSA·ISA·JER·MAL 등)을 다수 인용 → `fetch-verse <YV> ISA.53.5,PSA.23.1,MAL.3.1` 로 **구약 완전판인지** 검증(신약전용/낙장본이면 그 언어는 보류). 예: Kyrgyz·Tetum 은 YouVersion 에 구약 완전판이 없어 제외됨(2026-06).
-  - HTML 태그(`<b><p><h3><ul><li><span><br><em>` 등) 보존, 사람 읽는 텍스트만 번역.
-  - **faq.q3/a3 = 영화 무관**(가해자가 "용서받았다"며 평안한데 피해자는 고통 — 자기완결 시나리오). 롬12:19 = "원수 갚음은 하나님께".
-  - `menuName`·`htmlLang=<code>`·`dir`·`ui.version="(약칭)"`. 출력 포맷 `JSON.stringify(obj,null,1)`(공백 1칸).
-  - cite/inline 참조는 **표준 책이름 + ASCII 숫자**(데바나가리 등은 본문이 자국 숫자라도 참조는 ASCII 권장). 보고에 **사용한 책이름 목록** 요청(BOOKS 사전용).
+## 1. Write the i18n pack (drafting agent)
+- Spin up a native-speaker Christian-translator agent to write `i18n/<code>.json`. Prompt essentials:
+  - `i18n/es.json` is the **structure template** (same keys/shape). `EN_PACK`/EPOCHS/CORE in `index.html`
+    is the **meaning source**.
+  - Structure: epochs[13] · core[7] · love[13] · mis[13] (index **8 & 12 = null**); `s` keys = the same set as es.json.
+  - **Every Bible quote is verbatim from that edition** — always extract with
+    `node lib/fetch-verse.mjs <YV> <USFM[,USFM…]>` (bible.com `__NEXT_DATA__` raw text;
+    **the WebFetch/summarizing model hallucinates verses — forbidden**). Match es.json's quote range and
+    the position of any ellipsis (…).
+  - Check edition availability first: the body quotes many OT books (GEN·EXO·DEU·PSA·ISA·JER·MAL…) →
+    `fetch-verse <YV> ISA.53.5,PSA.23.1,MAL.3.1` confirms a **full OT** (hold NT-only / lacunae editions).
+  - Preserve HTML tags (`<b><p><h3><ul><li><span><br><em>` …); translate only human-readable text.
+  - **faq.q3/a3 = film-free** (a self-contained scenario: an offender feels at peace claiming forgiveness
+    while the victim still suffers). Rom 12:19 = "vengeance belongs to God."
+  - Set `menuName` · `htmlLang=<code>` · `dir` · `ui.version="(abbrev)"`. Output format `JSON.stringify(obj,null,1)` (1-space).
+  - cite/inline references use **standard book names + ASCII digits** (even where the body uses native
+    digits, keep references ASCII). Ask the agent to report **the list of book names it used** (for the BOOKS dictionary).
 
-## 2. 1차 검증
+## 2. First validation
 ```
 node .claude/skills/add-language/lib/validate.mjs <code>
 ```
-- 구조·s키·film-free·verse-text 비-ASCII숫자·APP_JS 확인.
-- 참조에 비-ASCII 숫자 경고가 뜨면(데바나가리/아랍/타이 등):
-  **먼저 validate 가 verse-text엔 그 숫자가 없다고 확인**한 뒤
+- Checks structure · s-keys · film-free · non-ASCII digits in verse-text · APP_JS.
+- If it warns about non-ASCII digits in references (Devanagari/Arabic/Thai…):
+  **first confirm validate says the verse-text has none**, then
   ```
   node .claude/skills/add-language/lib/convert-digits.mjs <code>
   ```
-  (verse-text에 자국 숫자가 있으면 verbatim 손상 위험 → 수동 처리)
+  (Native digits inside verse-text would break verbatim → handle manually.)
 
-## 3. 통합 (index.html + build-pages)
-- `lib/config.example.json` 복사 → `/tmp/lang-<code>.json` 작성:
-  - code·native·en·yv·dir·locale·**after**(현재 마지막 언어 코드)·bookopt·books_single·books_numbered·font.
-  - **bookopt.bare**: 책이름이 일반어와 충돌하면(예 Эхлэл=시작, प्रकाश=빛, राजा=왕) **false(콜론 필수)**. 충돌 없는 라틴/키릴/zh/id/hi 류는 true 가능. de는 sep=',', ja는 suf='章'.
-  - books_*: i18n 표기와 일치(ZWNJ는 통합기가 정규화로 흡수). 다단어 책이름(예 "Египетээс гарсан нь")·numbered(1/2/3) 그대로.
-  - **번호책 표면형 주의**: integrate 는 books_numbered 를 `숫자+공백+이름`("2 Samuel")로 생성. 본문이 **하이픈형**(Urdu "2-سموئیل")이나 다른 구분자를 쓰면 그 정확한 표면형을 **books_single 에 직접** 넣을 것(공백형과 불일치 시 미링크).
-  - **ZWSP(U+200B) 책이름 주의**(Lao 등 띄어쓰기 없는 스크립트): 책이름 음절 사이에 ZWSP 가 박혀 있으면(예 "ເພງ​ສັນລະເສີນ"=시편) BOOKS 키도 **그 ZWSP 포함 정확 표면형**이어야 매칭. 본문 실제 표면형을 추출(참조 정규식 char class 에 ZWSP 포함)해 BOOKS 에 추가. verse-text 의 ZWSP 는 verbatim 이므로 절대 제거 금지.
-  - **integrate 는 비-멱등**: 이미 통합된 언어(hreflang 존재)면 중단됨 → BOOKS 등 수정은 index.html 의 `BOOKS.<code>=` 라인을 직접 편집 후 `build-pages` 재실행.
+## 3. Integrate (index.html + build-pages)
+- Copy `lib/config.example.json` → `/tmp/lang-<code>.json` and fill:
+  - code · native · en · yv · dir · locale · **after** (the current last language code) · bookopt ·
+    books_single · books_numbered · font.
+  - **bookopt.bare**: if book names collide with everyday words (e.g. Эхлэл = "beginning", प्रकाश = "light",
+    राजा = "king") set **false** (colon required). Latin/Cyrillic/zh/id/hi without collisions can use true.
+    de uses `sep=','`; ja uses `suf='章'`.
+  - books_*: match the in-text spelling (the integrator normalizes ZWNJ). Keep multi-word book names
+    (e.g. "Египетээс гарсан нь") and numbered (1/2/3) as written.
+  - **Numbered-book surface form (most common trap)**: integrate generates `number + space + name`
+    ("2 Samuel"). If the text uses a **hyphen form** (Urdu "2-سموئیل") or another separator, put that exact
+    surface form **directly in books_single** (a space-form mismatch = unlinked).
+  - **ZWSP (U+200B) in book names** (Lao etc., scripts without spaces): if a ZWSP sits between syllables
+    (e.g. "ເພງ​ສັນລະເສີນ" = Psalms) the BOOKS key must be that **exact ZWSP-bearing surface form**. Extract the
+    real in-text form (include ZWSP in the reference regex char class) and add it to BOOKS. **Never strip
+    ZWSP from verse-text — it is verbatim.**
+  - **integrate is non-idempotent**: if the language is already integrated (hreflang present) it aborts →
+    edit the `BOOKS.<code>=` line in index.html directly, then re-run build-pages.
 ```
 node .claude/skills/add-language/lib/integrate.mjs /tmp/lang-<code>.json
 ```
-- 자동 처리: hreflang · LANGS(index) · YV · **BOOKS.<code>**(전체+콘텐츠 byte-exact) · BOOKOPT · build-pages LANGS · (font 시) FONT_TITLE/SUB + letterspacing0.
-- "미해결 토큰"은 보통 앞 절 숫자 오탐("3 Ром" 등) — 무시 가능. 실제 책이 빠졌으면 config 보완 후 재실행.
+- Auto-handles: hreflang · LANGS (index) · YV · **BOOKS.<code>** (full + byte-exact content) · BOOKOPT ·
+  build-pages LANGS · (if font) FONT_TITLE/SUB + letter-spacing 0.
+- "Unresolved token" warnings are usually a false positive on a preceding number ("3 Ром" etc.) — ignore.
+  If a real book is missing, fix the config and re-run.
 
-## 4. QR + 빌드
+## 4. QR + build
 ```
-node .claude/skills/add-language/lib/make-qr.mjs <code>      # qr-<code>.png (없으면 /tmp/qrgen 에 npm i qrcode)
-node tools/build-pages.mjs                                   # <code>/index.html · og-<code>.png · sitemap · llms 재생성
+node .claude/skills/add-language/lib/make-qr.mjs <code>   # qr-<code>.png (committed; if missing, npm i qrcode in /tmp/qrgen)
+node tools/build-pages.mjs                                # regenerates pages locally; refreshes i18n/en.json + sw.js stamp
 ```
+- `qr-<code>.png` is a **committed** binary (Vercel can't generate it).
+- build-pages' page output (`<code>/index.html`, sitemap.xml, llms.txt) is **gitignored** — Vercel
+  regenerates it on every deploy. Run it here to **verify it succeeds** and to inspect the generated
+  `<code>/index.html` locally; its committed side-effects are `i18n/en.json` and the `sw.js` cache stamp.
+- OG image is a **single shared `og.png`** for all languages (no per-language og-<code>.png anymore);
+  build-pages points each page's og:image to `/og.png`.
 
-## 5. 2차 검증 + 링크 감사 + verbatim 자동검증
+## 5. Second validation + link audit + verbatim auto-checks
 ```
-node .claude/skills/add-language/lib/validate.mjs <code>          # APP_JS_OK 재확인
-node .claude/skills/add-language/lib/audit-links.mjs <code>       # 표시↔USFM 정합·미링크 0·anchors OK
-node .claude/skills/add-language/lib/verify-verbatim.mjs <code>   # 인용 verbatim(epoch q·core vtext) — CLEAN 목표
-node .claude/skills/add-language/lib/verify-inline.mjs <code>     # 본문 안 인라인 인용(christ/detail/mis/faq/respond.verse/closing.verse/gospel.crux) — EN 베이스라인 대비
+node .claude/skills/add-language/lib/validate.mjs <code>          # re-confirm APP_JS_OK
+node .claude/skills/add-language/lib/audit-links.mjs <code>       # display↔USFM, 0 missed links, anchors OK
+node .claude/skills/add-language/lib/verify-verbatim.mjs <code>   # quotes (epoch q · core vtext) — target CLEAN
+node .claude/skills/add-language/lib/verify-inline.mjs <code>     # inline quotes in body (christ/detail/mis/faq/respond.verse/closing.verse/gospel.crux), EN baseline
 ```
-- **verify-verbatim 은 설정파일 불필요**: 책이름·YV를 배포된 index.html `BOOKS.<code>`/`YV` 에서 직접 읽어 fetch-verse 원문과 대조(대소문자·따옴표·구두점·ZW·테아밈 정규화). **FLAG 가 뜨면 실제 의역/누락 가능성** → 원문 재fetch 후 본인이 직접 verbatim 교정. (드래프팅 자체검증을 했어도 최종 게이트로 반드시 실행.)
-  - 흔한 정상 FLAG(오탐) 판별: ① 인용이 산문 중간을 건너뛰는데 `…` 없이 이어붙임 → **진짜 문제(…)를 넣거나 본문 보강)**; ② 절번호 차이(사9:6/9:5)·LXX 시편번호는 cite 를 판본 자체번호로 맞추면 해소.
-- **verify-inline**(verify-verbatim 의 사각 보완): epoch q·core vtext 외 **본문에 박힌 인용+참조**(괄호형 `«…»(책 c:v)` + 대시형 `"…" — 책 c:v`)를 전수 검사. `i18n/en.json`(정본)을 **베이스라인**으로 — EN 도 축약/강조/엘리전한 자리는 편집의도라 제외, **EN 이 verbatim 인데 번역만 어긋난 것만** 플래그(MAL3:1 «I send my messenger» 가 42개 언어에서 환언됐던 류). **확정 아닌 검수 후보**(따옴표 친 호칭·저자표현이 cite 옆이면 오탐) → q/s 눈으로 보고 진짜 인용 일탈만 fetch-verse 재확인 후 교정. `--all` 로 전 언어 스윕.
-- 추가 수동 확인: `<code>/index.html` 의 lang/BOOTLANG/프리렌더(자국어)/canonical/hreflang/film-free, `og-<code>.png` 1200×630, sitemap 에 `/<code>/` 1줄.
+- **verify-verbatim needs no config file**: it reads book names + YV from the deployed `index.html`
+  (`BOOKS.<code>`/`YV`) and compares against fetch-verse raw text (case/quotes/punctuation/ZW/teʿamim
+  normalized). **A FLAG means a likely paraphrase/omission** → re-fetch the verse and fix it verbatim
+  yourself. (Run it as the final gate even if the drafting agent self-checked.)
+  - Common benign FLAGs: ① a quote skips mid-sentence without `…` → add the `…` (or restore text);
+    ② verse-number differences (Isa 9:6/9:5) or LXX Psalm numbers → set `cite` to the edition's own number.
+- **verify-inline** (covers verify-verbatim's blind spot): scans **inline quotes + references in the body**
+  (paren form `«…»(Book c:v)` + dash form `"…" — Book c:v`). It uses `i18n/en.json` (the canonical pack) as
+  the **baseline** — where EN itself abbreviates/elides, that's editorial intent and is excluded; it flags
+  only where **EN is verbatim but the translation diverges** (e.g. MAL 3:1 «I send my messenger» was
+  paraphrased in 42 languages). **A flag is a review candidate, not a verdict** (a quoted title/epithet next
+  to a cite is a false positive) → eyeball q/s, re-fetch only true divergences, then fix. `--all` sweeps every language.
+- Extra manual checks: `<code>/index.html` lang/BOOTLANG/prerender(native)/canonical/hreflang/film-free;
+  sitemap has a `/<code>/` line (both regenerated locally even though gitignored).
 
-## 6. 원어민 검수 (백그라운드 에이전트) + 산문 자동 점검
-- **원어민 검수 에이전트 실행 방법**(재사용 프롬프트): `lib/native-review-prompt.md` 의 `«...»` 자리를 채워
-  **언어별 백그라운드 에이전트**(Agent/Task 툴, 능력 좋은 모델)로 띄운다. 여러 언어면 **병렬 실행**. 에이전트는 **보고만**(파일 수정 금지).
-  - 채울 값: `«언어명»`·`«code»`·`«판본명»`·`«YVid»`(=CLAUDE.md 구절링크 절의 검증된 YV id).
-  - 검수 범위: **판본 verbatim 대조**(전 인용 fetch-verse) + 책이름/번호 + 산문 품질·교리 충실 + 민감 주제 완화 + HTML.
-  - 자동검증(5단계 verify-verbatim·아래 verify-prose) **이후** 실행 — 자동이 못 잡는 fluency·관용·교리 뉘앙스·인라인 인용 verbatim 을 사람(원어민) 관점에서 잡는다.
-- 보고의 **진짜 verbatim 불일치는 본인(메인 세션)이 직접 수정**(fetch-verse 로 원문 재확인 후). ZWNJ/Cyrillic 등은 코드포인트 대조로 안전 편집(스크립트 치환 권장). 수정 후 `build-pages` 재실행.
-- 절번호 차이 주의: 사 9:6 vs 9:5는 번역본별 상이(CUV/ESV/Синод./АБ=9:6; TB/BTT/Luther/新共同訳=9:5).
-- **★ 연결 산문(인용 아닌 본문) 의미검증 = 산문 자동 점검**:
+## 6. Native-speaker review (background agent) + automatic prose check
+- **How to run the reviewer** (reusable prompt): fill the `«…»` slots in `lib/native-review-prompt.md` and
+  launch a **per-language background agent** (Agent/Task tool, a capable model). For several languages, run
+  them **in parallel**. The agent **reports only** (must not edit files).
+  - Fill: `«language»` · `«code»` · `«version name»` · `«YVid»` (the verified YV id from index.html's `YV`).
+  - Scope: **verbatim check against the edition** (every quote via fetch-verse) + book names/numbers +
+    prose quality / doctrinal fidelity + sensitive-topic softening + HTML.
+  - Run it **after** the automatic checks (step 5 verify-verbatim and verify-prose below) — it catches the
+    fluency/idiom/doctrinal-nuance/inline-quote issues the automatic tools can't.
+- **The main session (you) applies any real verbatim fix** after re-confirming with fetch-verse. For
+  ZWNJ/Cyrillic etc., edit by code point (a scripted substitution is safest). Re-run build-pages after fixing.
+- Verse-number caveat: Isa 9:6 vs 9:5 varies by edition (CUV/ESV/Синод./АБ = 9:6; TB/BTT/Luther/新共同訳 = 9:5).
+- **★ Connecting prose (non-quote body) meaning check = automatic prose check**:
   ```
-  node .claude/skills/add-language/lib/verify-prose.mjs <code>          # 플래그된 후보만 출력(+요약), 플래그시 exit 1
-  node .claude/skills/add-language/lib/verify-prose.mjs <code> --all     # 전 필드 점수와 함께
-  node .claude/skills/add-language/lib/verify-prose.mjs <code> --dump    # 역번역 원문만 나열(대조 없이)
+  node .claude/skills/add-language/lib/verify-prose.mjs <code>          # prints flagged candidates only (+ summary); exit 1 if any
+  node .claude/skills/add-language/lib/verify-prose.mjs <code> --all     # every field with scores
+  node .claude/skills/add-language/lib/verify-prose.mjs <code> --dump    # back-translations only (no comparison)
   ```
-  산문 필드를 구글번역으로 **영어 역번역** 후 정본 `index.html`의 `EN_PACK` 같은 필드와 **자동 대조**해 후보를 추린다:
-  - **POLARITY** — 부정어(not/no/never/without/n't…) 유무가 정본과 뒤집힘 = **의미 반전 의심**(최우선).
-  - **LOW-SIM** — 역번역↔정본 문자 바이그램 Dice 유사도 < 0.30 = 오역/누락 의심(짧은 관용구 <24자는 제외).
-  - **LEN** — 길이비 < 0.45 또는 > 2.3 = 통째 누락/중복 의심.
-  배경: 저자원 언어는 verify-verbatim(인용 전용)으로 못 잡는 **산문 오류**가 생김. 실제로 ff `about.line` 이
-  "Ɗoftaaki…"(**부정 완료형** = "따르지 **않는다**")로 시작해 "복음주의·개혁주의 관점을 **안** 따른다"는 정반대 뜻이었음
-  (ff 본문 내 `ɗoftaaki haɗaaki`=불순종 용례로 확정). 이 도구가 POLARITY(ref 0↔bt 1)로 즉시 적발 → "E dow yiyannde…"로 교정.
-  **주의**: ① 플래그는 **확정 오류가 아니라 검수 후보** — 구글번역 의역(undeserving↔not deserve, never↔unfailing)·짧은 관용구
-  로 인한 **오탐**이 섞임(저자원어일수록 多). **POLARITY 부터** 보고, BT↔REF 를 눈으로 대조해 진짜 반전/누락만 본인이 수정.
-  ② 구글번역 미지원 저자원어는 GT-FAIL/엉뚱 결과 → 그땐 원어민 검수만이 답. ③ 인용절(q/vtext/verse)은 제외(verify-verbatim 담당).
-  부정형 어미(언어별: 풀라 -aaki/-aaka/-aani/-ataako 등)가 **긍정 의도 자리**에 오면 적신호.
+  It back-translates prose fields to English (Google Translate) and **auto-compares** against the canonical
+  `EN_PACK` field, surfacing candidates:
+  - **POLARITY** — a negator (not/no/never/without/n't…) flips vs. the canonical = **suspected meaning
+    reversal** (top priority).
+  - **LOW-SIM** — back-translation↔canonical char-bigram Dice < 0.30 = suspected mistranslation/omission
+    (short idioms < 24 chars excluded).
+  - **LEN** — length ratio < 0.45 or > 2.3 = suspected whole drop/duplication.
+  Why: low-resource prose has errors that verify-verbatim (quotes-only) can't catch. Real example: ff
+  `about.line` started "Ɗoftaaki…" (**negative perfective** = "does **not** follow") — the exact opposite
+  meaning; this tool caught it via POLARITY and it was fixed to "E dow yiyannde…".
+  **Notes**: ① a flag is a **review candidate, not a confirmed error** — GT paraphrase (undeserving↔not
+  deserve, never↔unfailing) and short idioms cause false positives (more so in low-resource langs). Read
+  **POLARITY first**, eyeball BT↔REF, fix only true reversals/omissions. ② GT-unsupported languages give
+  GT-FAIL / garbage → only native review works there. ③ Quote fields (q/vtext/verse) are excluded
+  (verify-verbatim owns them). Negative endings (per language: Fula -aaki/-aaka/-aani/-ataako, …) in a
+  **positive-intent slot** are a red flag.
 
-## 7. 커밋 (작업 브랜치)
-- **커밋 전 `CLAUDE.md` 갱신**(언어 추가 시 필수): `## 현재 상태`의 언어 수·코드 목록·날짜·작업 이력에 새 언어 반영 + `구절 링크` 섹션의 `YV 버전ID(검증됨)` 목록에 `<code><id>` 추가. (CLAUDE.md는 `.vercelignore`로 배포 제외 → 사이트 영향 없음)
-- 브랜치 `claude/bible-timeline-mobile-site-cb8u6x`. 한국어 커밋 메시지 + 푸터:
-  `Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>` / `Claude-Session: ...`.
-  (모델 식별자를 산출물에 넣지 말 것)
+## 7. Commit (work branch)
+- **Do NOT edit CLAUDE.md when adding a language.** The language list / codes / YV IDs are derived from
+  code (`LANGS`/`BOOKS`/`YV` in index.html); duplicating them in CLAUDE.md caused a merge conflict on every
+  PR. Only put a genuinely new cross-cutting gotcha into this SKILL.md (the gotcha digest below).
+- A language addition commits: `i18n/<code>.json`, the `index.html` edits (LANGS/BOOKS/BOOKOPT/YV),
+  `tools/build-pages.mjs` LANGS, `qr-<code>.png`, and any refreshed `i18n/en.json` / `sw.js` stamp /
+  `og.png`. It does **not** commit `<code>/index.html`, `sitemap.xml`, or `llms.txt` (gitignored — Vercel
+  regenerates them).
+- Branch `claude/bible-timeline-mobile-site-cb8u6x`. Korean commit message + footer:
+  `Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>` / `Claude-Session: …`.
+  (Never put a model identifier in any artifact.)
 ```
-git add -A && git commit -m "언어 추가: <이름>(<code>) — ..." && git push -u origin claude/bible-timeline-mobile-site-cb8u6x
+git add -A && git commit -m "언어 추가: <name>(<code>) — …" && git push -u origin claude/bible-timeline-mobile-site-cb8u6x
 ```
 
-## 8. 배포 (**사용자 명시 허락 시에만**)
+## 8. Deploy (**only with explicit user permission**)
 ```
 git checkout main && git merge --ff-only claude/bible-timeline-mobile-site-cb8u6x && git push origin main
 git checkout claude/bible-timeline-mobile-site-cb8u6x
 ```
-- 라이브 확인: `curl -s -o /dev/null -w '%{http_code}' https://one-scroll-bible.com/i18n/<code>.json` → 200 + 핵심 필드.
+- Vercel runs build-pages.mjs on deploy and serves the freshly generated pages. Live check:
+  `curl -s -o /dev/null -w '%{http_code}' https://one-scroll-bible.com/i18n/<code>.json` → 200 + key fields
+  (verify live body against the **JSON**, since non-ko/en bodies are fetched at runtime).
 
-## 부분 모드(partial mode) — 신약만/일부만 번역된 언어
-구약 완전판이 없어도(0번 게이트에서 판정) **"성경은 이런 이야기"+유버전 연결**의 가치는 충분 → 추가한다.
-- **신약 인용 = verbatim**(full 모드와 동일, verify-verbatim 으로 검증).
-- **구약 핵심은 신약으로 대체**: 이사야 53:5(대속) → 벧전 2:24, 창 3:15 그리스도 실 → 롬 16:20 등.
-- **구약 줄거리는 따옴표 없는 요약**(인용 아님 → verbatim 불요). epoch[0..8].q 는 요약문.
-- **★ 구약 참조는 아예 뺀다**(사용자 결정 "절 표기 빼기"):
-  - 구약 장면 epoch[0..8] 의 `cite` = **빈 문자열 `""`**.
-  - detail/christ/mis.t 본문의 **구약 괄호·인라인 참조 제거** — 단 **같은 자리의 신약 참조는 보존**(예 ep1.christ 의 "Roomanko'en 16:20"은 유지, "Génesis 3:15"만 제거).
-  - 빈 cite 렌더 가드는 이미 코드에 있음: index.html `renderEpochs` + build-pages `epochsHtml` 둘 다 `e.cite?…:''`, 장면 공유 텍스트도 cite 조건부. (다른 언어엔 무영향.)
-- **안내 UI**: `s["partial.note"]`(배너) 추가 + `s["respond.read"]`(요한복음 버튼). 이 둘은 validate 의 선택키(OPT)라 통과.
-- BOOKS 에는 신약 책만 넣음(구약 책이름 없음 → 혹시 남은 구약 표기는 plain).
-- 첫 사례 = **ff(풀라)**. 새 partial 언어도 이 틀을 그대로 복제.
+## Partial mode — NT-only / partially translated languages
+Even without a full OT (decided at gate 0), "the Bible is this story" + a link into YouVersion is worth
+shipping → add it.
+- **NT quotes = verbatim** (same as full mode; checked by verify-verbatim).
+- **OT key verses replaced by NT ones**: Isa 53:5 (atonement) → 1 Pet 2:24; Gen 3:15 Christ-thread → Rom 16:20, etc.
+- **OT storyline as unquoted summary** (not a quote → no verbatim). epoch[0..8].q are summaries.
+- **★ Drop OT references entirely** (user decision):
+  - epoch[0..8].cite = **empty string `""`**.
+  - Remove OT paren/inline references in detail/christ/mis.t — but **keep NT references in the same spot**
+    (e.g. keep "Roomanko'en 16:20" in ep1.christ, remove only "Génesis 3:15").
+  - The empty-cite render guards already exist: index.html `renderEpochs` + build-pages `epochsHtml` both
+    use `e.cite?…:''`, and per-scene share text is cite-conditional. (No effect on other languages.)
+- **Guidance UI**: add `s["partial.note"]` (banner) + `s["respond.read"]` (John button); both are optional
+  keys (OPT) in validate, so they pass.
+- BOOKS holds NT books only (no OT names → any stray OT mention stays plain text).
+- First case = **ff (Fula)**. Clone this shape for any new partial language.
 
-## 반복 함정 다이제스트 (실제로 겪은 것 — 새 언어 추가 시 먼저 점검)
-> 새 언어마다 CLAUDE.md `현재 상태` 이력에 한 줄 추가하는 이유 = **대개 새 함정/규칙이 나오기 때문**. 아래는 그 누적분. 새 함정을 또 만나면 여기 + CLAUDE.md 에 적어 다음 세션이 안 밟게 한다.
+## Recurring-trap digest (things actually hit — check these first on every new language)
+> A new trap usually appears with each new language. When you hit a new one, add it here so the next
+> session doesn't step on it.
 
-**번호책 표면형(가장 잦음)** — integrate 는 `숫자+공백+이름`("2 Samuel")만 생성. 다르면 **정확 표면형을 books_single 에 직접** 넣어야 매칭:
-- 전치 아라비아 "2 Samuel"(기본) / 후치 "Samuel 2"(hr·he NT·to NT) / 로마자 "II Samuel"(sm·ts·ilo·umb·tt) / 서수철자 "Druhá Samuelova"·"دوم سموئیل"(sk·fa·ckb·uk) / 마침표 "1. Samuel"·"1. Mosebok"(fi·no·lv·sr) / 무공백 "1Mózes"·"2.Samiyel"(hu·wo·mos) / 접미사 "Патшалықтар 2-жазба"(kk) / 하이픈 "2-سموئیل"(ur) / 어순서수 "Ucab Samuel"(quc) / 무번호 "Saray Arari"=1KI(pag). he/to 는 **전치+후치 혼용**.
-- **왕국서 번호 체계**: LXX/4권왕국서면 1KI=**"3 …"**(hy·ka·tt·bg·umb·kk). 일반 2권이면 1KI="1 …".
+**Numbered-book surface form (most frequent)** — integrate only generates `number + space + name`
+("2 Samuel"). Anything else must go into **books_single** with the exact surface form:
+- leading Arabic "2 Samuel" (default) / trailing "Samuel 2" (hr·he NT·to NT) / Roman "II Samuel"
+  (sm·ts·ilo·umb·tt) / spelled ordinal "Druhá Samuelova"·"دوم سموئیل" (sk·fa·ckb·uk) / dotted
+  "1. Samuel"·"1. Mosebok" (fi·no·lv·sr) / no-space "1Mózes"·"2.Samiyel" (hu·wo·mos) / suffixed
+  "Патшалықтар 2-жазба" (kk) / hyphen "2-سموئیل" (ur) / word-order ordinal "Ucab Samuel" (quc) /
+  no-number "Saray Arari" = 1KI (pag). he/to **mix leading and trailing**.
+- **Kingdoms numbering**: under LXX/4-book Kingdoms, 1KI = **"3 …"** (hy·ka·tt·bg·umb·kk). Normal 2-book → 1KI = "1 …".
 
-**versification(시편/구약 번호)**:
-- LXX/슬라브 시편(유배=시 136, MT 137): ru·uz·uk·tg·kk·ka·tk·tt. **cite 를 판본 자체번호로** 작성(YV는 리맵 안 함). 챕터단위 인용은 `136:1`처럼 **:1 붙여야** 링크됨.
-- 사 9:6 vs 9:5: CUV/ESV/Синод/АБ=9:6; TB/BTT/Luther/新共同訳=9:5. 판본대로.
-- 느 8:10 vs 8:11 등 판본 자체번호 존재(af·nl·ln). 빠진 절은 같은 뜻 다른 절로 cite 보정(fa JDG 17:6, kab 1Tim 1:16).
+**Versification (Psalm / OT numbers)**:
+- LXX/Slavonic Psalms (exile = Ps 136, MT 137): ru·uz·uk·tg·kk·ka·tk·tt. **Write cite in the edition's own
+  number** (YouVersion doesn't remap). Chapter-level quotes need `:1` (e.g. `136:1`) to link.
+- Isa 9:6 vs 9:5: CUV/ESV/Синод/АБ = 9:6; TB/BTT/Luther/新共同訳 = 9:5. Follow the edition.
+- Neh 8:10 vs 8:11 etc. exist per edition (af·nl·ln). For a missing verse, cite a same-meaning different
+  verse (fa JDG 17:6, kab 1Tim 1:16).
 
-**스크립트/문자 함정**:
-- LANGS native/en 에 아포스트로피(quc "K'iche'", gn) → integrate 의 `esc()`가 처리(native/en 둘 다). config 작성 시 정자 사용도 가능.
-- BOOKS 키에 아포스트로피/역슬래시(tr "Mısır'dan Çıkış", ha "Ru'ya") → integrate 이스케이프 적용됨(확인).
-- ZWNJ/ZWSP/연성하이픈/RLM/테아밈/니쿠드/ʻokina/ano teleia(U+0387)/아르메니아 ։ — **verse-text 안의 것은 verbatim 이므로 절대 제거 금지**. 참조 매칭·검증 정규화에서만 흡수(verify-verbatim 이 처리).
-- 자국 숫자(데바나가리·아랍·벵골·구자라트·오디아·칸나다·타밀·텔루구·말라얄람…): **참조는 convert-digits 로 ASCII**, **verse-text 숫자는 손대지 말 것**(거의 없음, validate 가 확인).
-- 각주 마커(* 또는 위첨자 숫자)는 본문이 아님 → 인용에서 제외(sg·bi·xh·mr).
+**Script / character traps**:
+- Apostrophes in LANGS native/en (quc "K'iche'", gn) → integrate's `esc()` handles both. Using the
+  orthographic form in config is also fine.
+- Apostrophe/backslash in BOOKS keys (tr "Mısır'dan Çıkış", ha "Ru'ya") → integrate escapes them (verified).
+- ZWNJ/ZWSP/soft-hyphen/RLM/teʿamim/niqqud/ʻokina/ano teleia (U+0387)/Armenian ։ — **anything inside
+  verse-text is verbatim, never strip it.** Absorb it only in reference matching / verification
+  normalization (verify-verbatim handles this).
+- Native digits (Devanagari·Arabic·Bengali·Gujarati·Odia·Kannada·Tamil·Telugu·Malayalam…): **convert
+  references to ASCII with convert-digits**, **leave verse-text digits alone** (rare; validate confirms).
+- Footnote markers (* or superscript digits) are not text → exclude from quotes (sg·bi·xh·mr).
 
-**bare(콜론 생략 장단위) 끄기**: 책이름이 일반어와 충돌하면 `bookopt.bare=false`(콜론 필수). 라틴 충돌 빈발: Rum/Roma/Rut/Rasul/Juan/Para/Ndị/Iṣe/İşləri/Misala/Luusi 등 → 거의 모든 비영어 라틴/키릴은 false 가 안전.
+**Turn off bare (colon-less chapter refs)**: if book names collide with common words, `bookopt.bare=false`
+(colon required). Latin collisions are frequent: Rum/Roma/Rut/Rasul/Juan/Para/Ndị/Iṣe/İşləri/Misala/Luusi
+… → almost every non-English Latin/Cyrillic is safer false.
 
-**드래프팅 의역 경향**: 에이전트는 인용을 의역/재배열하는 경향이 있음. 대책 = ① 드래프팅 프롬프트에 **fetch-verse 대조 0건까지 자체검증** 내장, ② 그래도 최종 `verify-verbatim` 게이트 통과 필수. 흔한 의역: Gen50:20·1Tim1:15(어순)·Col2:15·Mal3:1·JHN3:18·Gal2:16. 인용이 산문 중간 건너뛰면 `…` 표기.
+**Drafting paraphrase tendency**: the drafting agent tends to paraphrase/reorder quotes. Counter: ① build
+"self-check against fetch-verse until 0 diffs" into the drafting prompt; ② still require the final
+`verify-verbatim` gate. Common paraphrases: Gen 50:20 · 1 Tim 1:15 (word order) · Col 2:15 · Mal 3:1 ·
+John 3:18 · Gal 2:16. Mark a mid-sentence skip with `…`.
 
-**도구 idempotency**: integrate 는 비-멱등(이미 통합된 언어는 중단) → 재수정은 index.html `BOOKS.<code>=`/LANGS 직접 편집 후 build-pages. OG/sitemap 은 build 가 동일바이트면 git 변화 없음(정상). index.html 인라인 JS 수정 시 14X개 하위 페이지 전부 재생성(정상).
+**Tool idempotency**: integrate is non-idempotent (aborts if already integrated) → re-edits go directly into
+index.html `BOOKS.<code>=`/LANGS, then build-pages. OG/sitemap show no git change when bytes are identical
+(normal). Editing index.html inline JS re-derives all sub-pages (normal; they're gitignored anyway).
 
-## 완료 체크리스트 (빠짐 방지)
-- [ ] **0번 게이트**: fetch-verse 로 구약 완전판 실측 → full / partial / 보류·제외 판정
-- [ ] 판본 ID 확정 + 라이브 실연결 확인
-- [ ] i18n/<code>.json: 구조(13/7/13/null8,12)·s키·verbatim·film-free·HTML
-- [ ] (partial 이면) 구약 cite 빈문자열·구약 인라인참조 제거(신약참조 보존)·partial.note·respond.read
-- [ ] (자국 숫자) 참조 ASCII 변환, verse-text 무손상
-- [ ] index.html: hreflang·LANGS·YV·BOOKS.<code>·BOOKOPT
-- [ ] build-pages: LANGS(+필요시 FONT·letterspacing0)
-- [ ] qr-<code>.png · build 산출물(<code>/index.html·og-<code>.png·sitemap·llms)
-- [ ] validate ✓ · audit-links missed 0·anchors OK · **verify-verbatim CLEAN** · **verify-inline 플래그 triage**(인라인 인용, EN 베이스라인) · **verify-prose 플래그 triage**(POLARITY 우선, 진짜 반전/누락만 수정)
-- [ ] 원어민 검수(`lib/native-review-prompt.md` 로 언어별 에이전트 실행, 보고만) → 진짜 불일치 본인이 수정(불일치 0)
-- [ ] **CLAUDE.md 갱신**(현재 상태 언어 수·목록·날짜·이력 + YV ID 목록) — 새 함정이면 SKILL.md 다이제스트에도 추가
-- [ ] 커밋·푸시(작업 브랜치) → (허락 시) main 배포 → 라이브 확인
+## Completion checklist (don't miss anything)
+- [ ] **Gate 0**: fetch-verse confirms a full OT → full / partial / hold·exclude
+- [ ] Version ID fixed + live link confirmed
+- [ ] i18n/<code>.json: structure (13/7/13/null@8,12) · s-keys · verbatim · film-free · HTML
+- [ ] (if partial) OT cite empty · OT inline refs removed (NT refs kept) · partial.note · respond.read
+- [ ] (native digits) references converted to ASCII, verse-text untouched
+- [ ] index.html: hreflang · LANGS · YV · BOOKS.<code> · BOOKOPT
+- [ ] build-pages: LANGS (+ FONT · letter-spacing 0 if needed)
+- [ ] qr-<code>.png · build runs clean (pages regenerated locally; en.json/sw.js refreshed)
+- [ ] validate ✓ · audit-links missed 0 · anchors OK · **verify-verbatim CLEAN** · **verify-inline flags
+      triaged** (inline quotes, EN baseline) · **verify-prose flags triaged** (POLARITY first; fix only real reversals/omissions)
+- [ ] native review (run a per-language agent via `lib/native-review-prompt.md`, report only) → apply real fixes yourself (0 divergences)
+- [ ] **Do NOT edit CLAUDE.md** — only add a genuinely new gotcha to this SKILL.md's digest
+- [ ] commit & push (work branch) → (with permission) deploy to main → live check

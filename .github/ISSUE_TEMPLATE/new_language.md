@@ -14,7 +14,7 @@ labels: ["translation", "new-language"]
 - 
 
 ## 직접 번역하시겠어요? / Will you translate it?
-- [ ] 네, 제가 번역해서 PR을 올리겠습니다. / Yes, I'll submit a PR. (👉 [CONTRIBUTING.md](../../blob/main/CONTRIBUTING.md))
+- [ ] 네, 제가 번역해서 PR을 올리겠습니다. / Yes, I'll submit a PR. (👉 [CONTRIBUTING.md](../../blob/main/CONTRIBUTING.md) · [한국어](../../blob/main/CONTRIBUTING.ko.md))
 - [ ] 아니요, 요청만 합니다. / No, just requesting.
 
 <!-- 번역은 i18n/en.json 을 복사해 시작합니다. Start by copying i18n/en.json. -->

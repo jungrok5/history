@@ -350,18 +350,19 @@ function ogSvg(m){
 </svg>`;
 }
 let imgOK = 0, imgSkip = 0;
-function buildImage(m){
-  const out = m.code==='ko' ? `${root}/og.png` : `${root}/og-${m.code}.png`;
-  const tmp = `/tmp/og-${m.code}.svg`;
+// 단일 공용 OG 이미지(og.png) — 모든 언어가 공유. 언어별 제목/설명은 각 페이지 meta 태그에 박힘.
+// 언어별 og-<code>.png 는 더 생성/커밋하지 않음(git 비대화 방지). 영어 중립 카피로 1장만 생성.
+function buildSharedOG(){
+  const out = `${root}/og.png`;
+  const tmp = `/tmp/og-shared.svg`;
   try{
-    fs.writeFileSync(tmp, ogSvg(m));
+    fs.writeFileSync(tmp, ogSvg({ code:'en', brand: EN.brand, kicker: EN.kicker }));
     execSync(`rsvg-convert -w 1200 -h 630 "${tmp}" -o "${out}"`, { stdio:'ignore' });
     imgOK++;
   }catch(e){
-    // rsvg-convert/폰트가 없는 환경(예: Vercel 빌드)에서는 건너뛰고 커밋된 이미지를 그대로 사용
+    // rsvg-convert/폰트가 없는 환경(예: Vercel 빌드·Windows)에서는 건너뛰고 커밋된 og.png 를 그대로 사용
     imgSkip++;
   }
-  return out.split('/').pop();
 }
 // PWA 아이콘 (다크 배경 + 금색 십자가). rsvg 없으면 커밋된 PNG 사용.
 function buildIcons(){
@@ -386,7 +387,7 @@ const HREF = hreflangBlock();
 // ---- 페이지 생성 ----
 function makePage(m){
   const url = `${ORIGIN}/${m.code}/`;
-  const img = `${ORIGIN}/og-${m.code}.png`;
+  const img = `${ORIGIN}/og.png`; // 단일 공용 OG 이미지(언어 무관). 언어별 제목/설명은 meta 태그로 처리.
   let h = src;
   h = h.replace('<html lang="ko">', `<html lang="${m.code}" dir="${m.dir}">`);
   // 템플릿의 기존 hreflang 제거(중복 방지) — 아래에서 한 벌만 다시 주입
@@ -426,11 +427,11 @@ function makePage(m){
 }
 
 buildIcons();
+buildSharedOG();
 let generated = [];
 for (const L of LANGS) {
+  if (L.code === 'ko') continue; // ko는 루트(index.html)
   const m = meta[L.code];
-  if (L.code === 'ko') { buildImage(m); continue; } // 루트 이미지(og.png)만 갱신
-  buildImage(m);
   fs.mkdirSync(`${root}/${L.code}`, { recursive:true });
   fs.writeFileSync(`${root}/${L.code}/index.html`, makePage(m));
   generated.push(L.code);
@@ -461,7 +462,7 @@ const llms = `# Bible in One Scroll — 한눈에 보는 성경 이야기
 > ${EN.desc}
 > ${KO.desc}
 
-The whole Bible told as one scrollable, mobile-friendly page: Creation → Fall → Patriarchs → Exodus → Conquest/Judges → United Kingdom → Divided Kingdom → Exile → Return → Silent Years → Jesus → The Church → Restoration (Second Coming) — leading to the gospel and a prayer to receive Christ. Perspective: the evangelical · Reformed redemptive-historical view shared by most of the Korean Protestant church. Scripture is quoted from each language's representative translation. Available in 15 languages.
+The whole Bible told as one scrollable, mobile-friendly page: Creation → Fall → Patriarchs → Exodus → Conquest/Judges → United Kingdom → Divided Kingdom → Exile → Return → Silent Years → Jesus → The Church → Restoration (Second Coming) — leading to the gospel and a prayer to receive Christ. Perspective: the evangelical · Reformed redemptive-historical view shared by most of the Korean Protestant church. Scripture is quoted from each language's representative translation. Available in ${LANGS.length} languages.
 
 Home: ${ORIGIN}/
 

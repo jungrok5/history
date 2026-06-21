@@ -1,62 +1,61 @@
-# 한눈에 보는 성경 이야기 (Bible in One Scroll)
+**English** · [한국어](README.ko.md)
 
-창조부터 회복까지, **성경 전체를 한 편의 이야기로** 스크롤하며 한눈에 이해하도록 만든 모바일 친화적 단일 페이지 사이트입니다.
+# Bible in One Scroll (한눈에 보는 성경 이야기)
+
+The whole Bible as **one story you scroll through** — from Creation to Restoration — built mobile-first so it can be understood at a glance.
 
 🔗 **https://one-scroll-bible.com/**
 
-## 목적 — 우리가 만든 것은 무엇인가
-이것은 **성경 번역본이 아니고**(번역은 성서공회·위클리프가 합니다), **성경 앱도 아닙니다**(유버전이 합니다). 그 앞단의 **‘입구(on-ramp)’** 입니다.
+## What this is
+This is **not a Bible translation** (Bible societies and Wycliffe do that) and **not a Bible app** (YouVersion does that). It is the **on-ramp** in front of them.
 
-> **세계 대부분의 사람이 자기 모국어로, 5분 안에, 성경 66권의 큰 그림(창조→타락→…→교회→재림)과 복음을 만나고 — 영접 기도까지 이르게 하는, 무료·공유 가능한 단일 페이지.**
+> A free, shareable single page where most people on earth can meet — in their mother tongue, in five minutes — the big picture of the Bible's 66 books (Creation → Fall → … → Church → Second Coming) and the gospel, all the way to a prayer to receive Christ.
 
-종이 전도지가 4페이지에 복음을 요약한다면, 이 사이트는 **성경 전체의 줄거리를 한 스크롤에 담고, 모든 인용을 진짜 성경 원문에 링크로 연결한 “살아있는 전도지”** 입니다.
-- 성경 인용은 **각 언어 공인 번역본 그대로(verbatim)** — 우리가 의역하지 않습니다.
-- 모든 구절은 탭하면 그 언어의 성경(개역개정·유버전)으로 이동합니다.
-- 대상은 둘: **“성경을 알지만 통독은 못 해본 사람” + “처음 듣는 사람.”**
+If a paper tract summarizes the gospel in four pages, this site holds **the whole Bible's storyline in one scroll, with every quotation linked to the real Scripture** — a "living tract."
+- Scripture is quoted **verbatim from each language's official translation** — we never paraphrase.
+- Every reference is tappable and opens that language's Bible (Korean Revised Version / YouVersion).
+- Two audiences: **people who know the Bible but have never read it through, and people hearing it for the first time.**
 
-## 원대한 목표 (Vision) — 모든 민족의 모국어로
-지구상 **살아있는 언어는 약 7,396개**입니다. 우리의 목표는 그 **모든 언어**로 이 ‘성경의 큰 그림 + 복음 입구’를 만드는 것입니다.
+## The vision — every people group in its mother tongue
+There are about **7,396 living languages**. Our goal is this "big picture of the Bible + gospel on-ramp" in **all of them**.
 
-- **언어 수 진행률: 127 / 7,396 ≈ 1.7%**
-- **인구 도달률: 약 90%** (큰 언어부터 했기 때문) — *10명 중 9명이 자기 언어로 읽을 수 있음*
-- 남은 ~7,270개는 화자 수가 적은 ‘롱테일’이며, 상당수는 아직 성경 완역(구약+신약)이 없습니다.
+- **Language progress: ~127 / 7,396** (the live 🌐 menu has the full list)
+- **Population reach: ~90%** (we started with the largest languages) — *9 in 10 people can read it in their own language*
+- The remaining ~7,270 are the long tail; many do not yet have a complete Bible (OT + NT).
 
-완역이 없는 언어는 무작정 기다리지 않습니다. **“있으면 verbatim, 없으면 신약 인용으로 대체하거나 요약을 명시”** 하는 *부분 모드* 로, **신약·일부만 번역된 언어에도 성경의 큰 그림을 전하고 유버전의 가용 본문에 연결**합니다. (완역 자체는 SIL·Greek Room·unfoldingWord·ETEN 등이 AI로 가속 중)
+Where there is no complete Bible we don't simply wait. A **partial mode** — *verbatim where it exists; otherwise substitute a NT quote or clearly label a summary* — carries the big picture into **NT-only / partially translated languages** and links to whatever YouVersion has. (Full translation itself is being accelerated by SIL, unfoldingWord, ETEN and others.)
 
-> 이것은 한 사람의 평생을 넘어, **다음 세대로 이어가는 프로젝트**입니다. 다만 AI의 도움으로, 그 ‘평생’이 훨씬 짧아질 수 있습니다.
+> This is a project that **outlasts a single lifetime** — though with AI's help, that "lifetime" can be much shorter.
 
-## 무엇을 담았나
-- **13개 장면** — 창조 → 타락 → 족장 → 출애굽 → 정복·사사 → 통일왕국 → 분열왕국 → 포로 → 귀환 → 침묵기 → 예수님 → 교회 → 회복(재림)
-- 각 장면: 핵심 인물·사건, 핵심 구절, **‘그리스도 실’**(그 장면이 예수님을 어떻게 가리키는가), **‘멈추지 않는 사랑’**, 그리고 ‘흔한 오해 → 사실은’
-- **복음의 핵심** — 원죄·율법·은혜·이신칭의·하나님 나라·복음, ‘거울’(이스라엘 = 나), **“바로 나 때문에”(십자가)**, 거부감 FAQ(공정성/값싼 용서/“착하게 살면 되지 않나”), **영접 기도**, 그리고 **다음 걸음**(계속 기도 · 성경 읽기 · 가까운 교회)
-- 그리스도의 삼중직(참 선지자·제사장·왕) 강조
+## What's inside
+- **13 scenes** — Creation → Fall → Patriarchs → Exodus → Conquest/Judges → United Kingdom → Divided Kingdom → Exile → Return → Silent Years → Jesus → The Church → Restoration (Second Coming)
+- Each scene: key people & events, a key verse, the **"Christ thread"** (how the scene points to Jesus), **"Love that won't quit,"** and a "common misconception → actually."
+- **The heart of the gospel** — sin / law / grace / justification by faith / the kingdom of God / the gospel; the "mirror" (Israel = me); **"because of me"** (the cross); the objection FAQ (fairness / cheap grace / "isn't being a good person enough?"); a **prayer to receive Christ**; and **next steps** (keep praying · read the Bible · find a nearby church).
+- The threefold office of Christ (true Prophet · Priest · King).
 
-## 다국어 (현재 127개 언어)
-브라우저(OS) 언어를 자동 감지하며, 우측 상단 🌐에서 검색해 전환할 수 있습니다.
-한국어·영어·중국어(간/번)·일본어·스페인어·포르투갈어·프랑스어·독일어·러시아어·아랍어·힌디어를 비롯해 **유럽·아시아·아프리카·태평양·중남미 전역 127개 언어**를 지원합니다. (전체 목록은 사이트 🌐 메뉴)
+## Languages (~127)
+The site auto-detects the browser/OS language and lets you switch via the 🌐 search at top right. It supports Korean, English, Chinese (Simplified/Traditional), Japanese, Spanish, Portuguese, French, German, Russian, Arabic, Hindi and **~127 languages across Europe, Asia, Africa, the Pacific and Latin America** (full list in the site's 🌐 menu).
 
-성경 인용은 각 언어의 대표 공인 번역본을 그대로 사용합니다 — 개역개정·ESV·和合本·新共同訳·RVR1960·Almeida·Louis Segond·Lutherbibel·Синодальный·Van Dyck·Tanakh(델리치)·Огієнко 등. 구절을 탭하면 해당 언어 성경(주로 [YouVersion](https://www.bible.com))으로 연결됩니다.
+Scripture uses each language's representative official translation — Korean Revised Version, ESV, 和合本, 新共同訳, RVR1960, Almeida, Louis Segond, Lutherbibel, Синодальный, Van Dyck, Tanakh (Delitzsch), Огієнко and more. Tapping a reference opens that language's Bible (mostly [YouVersion](https://www.bible.com)).
 
-## 관점
-한국 개신교 대다수가 공유하는 **복음주의·개혁주의 구속사(救贖史)** 관점에 기반합니다. (공식 감수 전 자료이며, 사용 전 교역자·교단 자료 확인을 권합니다.)
+## Perspective
+Based on the **evangelical · Reformed redemptive-historical** view shared by most of the Korean Protestant church. (This is pre–formal-review material; please check with your pastor or denominational resources before relying on it.)
 
-## 기술 / 배포
-- 의존성 없는 **단일 `index.html`**(HTML·CSS·바닐라 JS) + 언어 팩 `i18n/<code>.json`(필요 시 로드)
-- **언어별 정적 페이지**: `/en/`, `/ja/`, `/ar/` … 각 페이지에 그 언어의 `title`·OG(제목·설명·이미지·locale)·canonical·**hreflang**이 박혀 있어, 카톡·SNS 공유 시 **해당 언어 미리보기(이미지 포함)**가 뜨고 검색엔진·AI 크롤러가 언어별로 색인합니다 (본문 프리렌더 + JSON-LD + llms.txt)
-- **자동 생성기**: `node tools/build-pages.mjs` → 팩에서 언어별 페이지 + OG 이미지(`og-<code>.png`) + `sitemap.xml`을 생성 *(콘텐츠 수정 후 재실행하여 커밋. `rsvg-convert` + Noto/Nanum 폰트 필요)*
-- 새 언어 추가는 `/add-language` 스킬(검증·구절링크 감사·verbatim 검수 포함)을 따릅니다.
-- **Vercel**로 자동 배포 (`main` 푸시 시 갱신). `robots.txt`, `sitemap.xml`, OG·JSON-LD, PWA(오프라인) 포함
+## Tech / deploy
+- A dependency-free **single `index.html`** (HTML / CSS / vanilla JS) plus per-language packs `i18n/<code>.json` (loaded on demand).
+- **Per-language static pages** (`/en/`, `/ja/`, `/ar/` …): each carries its own `title` / OG (title · description · image · locale) / canonical / **hreflang** and a **prerendered localized body** + JSON-LD + llms.txt, so social shares preview correctly (image included) and search/AI crawlers index each language.
+- **Generator** `node tools/build-pages.mjs` produces those pages plus `sitemap.xml` and `llms.txt`. **Vercel runs it on every deploy**, so the generated pages are *not* committed to git; the committed binaries are the shared OG image, the PWA icons and the per-language QR codes.
+- Adding a language follows the `/add-language` skill (validation · verse-link audit · verbatim checks).
+- Deployed on **Vercel** (updates on push to `main`). Includes `robots.txt`, sitemap, OG / JSON-LD and an offline PWA.
 
-## 함께 번역하기 (Contribute) — 다 같이, 모든 언어로
-이 일은 **다 같이** 할 때 빨라집니다. 당신의 언어를 더하거나 다듬어 주세요. **코딩 지식은 필요 없고, 번역(텍스트)만** 손보면 됩니다 — 빌드·이미지·구절 링크·배포는 관리자가 합니다.
+## Contribute — together, in every language
+This goes faster **together**. Please add or polish your language. **You don't need to code — just the text**; the maintainer handles building, images, verse links and deployment.
 
-- ✏️ **문구 고치기 (제일 쉬움)**: GitHub에서 `i18n/<언어코드>.json` 을 열고 연필(Edit) → 문장 수정 → *Propose changes* → *Pull request*. 끝.
-- 🌍 **새 언어 추가**: `i18n/en.json` 을 복사해 `i18n/<코드>.json` 으로 만들고 값을 번역 → Pull request.
-- 📜 **딱 두 가지만**: ① 성경 인용은 **당신 언어 공인 번역본 그대로(verbatim)** — 의역 금지(실제 성경에서 복사) ② **키·HTML 태그·구조는 그대로**, 값(문장)만 번역.
+- ✏️ **Fix wording (easiest)**: on GitHub, open `i18n/<code>.json`, click the pencil (Edit), change the text, then *Propose changes* → *Pull request*. Done.
+- 🌍 **Add a language**: copy `i18n/en.json` to `i18n/<code>.json`, translate the values → Pull request.
+- 📜 **Just two rules**: ① Bible quotes must be **verbatim from your language's official translation** — no paraphrase (copy from a real Bible). ② **Keep the keys, HTML tags and structure**; translate only the values.
 
-자세한 단계·원칙은 **[CONTRIBUTING.md](CONTRIBUTING.md)** 를 보세요. (Step-by-step guide in Korean & English.)
-질문은 [이슈](../../issues)로.
+Full step-by-step: **[CONTRIBUTING.md](CONTRIBUTING.md)** (English) · **[CONTRIBUTING.ko.md](CONTRIBUTING.ko.md)** (한국어). Questions → [issues](../../issues).
 
-## 라이선스 / 문의
-성경 본문 저작권은 각 번역본 발행처에 있으며, 본문은 인용·링크 형태로 사용합니다.
-콘텐츠 문의/피드백은 사이트 하단 연락처를 통해 주세요.
+## License / contact
+Scripture text is copyright its respective publishers and is used here by quotation and linking. For content questions or feedback, use the contact at the bottom of the site.
