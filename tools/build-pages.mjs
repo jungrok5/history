@@ -136,6 +136,7 @@ const LANGS = [
   { code:'kab',    dir:'ltr', locale:'kab_DZ' },
   { code:'tum',    dir:'ltr', locale:'tum_MW' },
   { code:'ff',     dir:'ltr', locale:'ff_NG' },
+  { code:'mww',    dir:'ltr', locale:'mww_CN' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드

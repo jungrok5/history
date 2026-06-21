@@ -1,0 +1,344 @@
+{
+ "menuName": "Hmoob Dawb",
+ "htmlLang": "mww",
+ "dir": "ltr",
+ "brand": "Phau Vajluskub hauv Ib Daig Ntawv",
+ "docTitle": "Phau Vajluskub hauv Ib Daig Ntawv · Txij thaum tsim ntuj tsim teb mus txog pawg ntseeg",
+ "share": {
+  "title": "Phau Vajluskub hauv Ib Daig Ntawv",
+  "text": "Hauv ib daig ntawv xwb, nrhiav pom zaj dab neeg loj hauv phau Vajluskub — thiab vim li cas Yexus thiaj los."
+ },
+ "ui": {
+  "people": "Cov tubrog hauv zaj",
+  "events": "Tej xwm txheej tseem ceeb",
+  "christLabel": "Taw rau Yexus",
+  "loveLabel": "Txojkev hlub uas tsis tso tseg",
+  "mythWrong": "Qhov nkag siab yuam kev",
+  "mythRight": "Qhov tseeb",
+  "more": "Nyeem ntxiv",
+  "version": "(HMOWSV)"
+ },
+ "labels": {
+  "start": "Pib",
+  "thread": "Zaj dab neeg",
+  "gospel": "Txoj Xov Zoo",
+  "about": "Txog peb"
+ },
+ "s": {
+  "ui.share": "↗ Faib",
+  "ui.toast": "Twb theej qhov txuas lawm 📋",
+  "ui.footer": "Phau Vajluskub hauv Ib Daig Ntawv · Tej lus Vajluskub muab los ntawm HMOWSV",
+  "hero.kicker": "TXIJ THAUM TSIM NTUJ TSIM TEB MUS TXOG PAWG NTSEEG",
+  "hero.title": "Phau Vajluskub,<br><span class=\"em\">hauv ib daig ntawv</span>",
+  "hero.sub": "Hauv ib daig ntawv xwb, nrhiav pom zaj dab neeg loj hauv phau Vajluskub — thiab vim li cas Yexus thiaj los.",
+  "hero.cue": "Nthuav saud mus rau hauv<span>↓</span>",
+  "thread.eyebrow": "IB KAB LUS UAS KHI TAG NRHO UA KE",
+  "thread.h2": "Thaum kawg, phau Vajluskub yog tib zaj dab neeg xwb",
+  "thread.flow": "<b>Lus Cog Tseg</b><span class=\"arw\">→</span><b>Tos</b><span class=\"arw\">→</span><b>Tiav</b>",
+  "thread.note": "Vajtswv <b>cog lus</b> (lus cog tseg), cov pejxeem <b>tos</b> ntev heev, thiab thaum kawg txhua yam <b>tiav</b> thiab puv npo hauv Yexus. Raws cov xwm txheej 13 zaj hauv qab no mus raws txojkev no — nias <b>“Nyeem ntxiv”</b> ntawm txhua daim npav los kawm zaj uas tob dua.",
+  "gospel.eyebrow": "ZAJ DAB NEEG NO MUAJ NQIS LI CAS RAU “KUV”",
+  "gospel.h2": "Lub plawv tseeb ntawm phau Vajluskub",
+  "gospel.lead": "Phau Vajluskub <b>tsis yog ib phau ntawv qhia kev coj ncaj uas hais tias “cia li ua neeg zoo.”</b>",
+  "gospel.sublead": "Nws yog zaj dab neeg uas qhia tias Vajtswv, <b>los ntawm txojkev hlub xwb</b>, cawm cov neeg muaj txim uas cawm tsis tau lawv tus kheej kom dim. Nyob hauv nruab nrab yog Yexus Khetos.",
+  "gospel.mirror": "<h3>Cov Yixayee zaj voj voog uas tsis kawg, qhov tseeb yog ib daim duab ntawm “kuv”</h3><div class=\"cycle\"><b>Pe dab mlom</b><span class=\"a\">→</span><b>Txom nyem</b><span class=\"a\">→</span><b>Quaj thov</b><span class=\"a\">→</span><b>Vajtswv cawm</b><span class=\"a\">→</span><b>Rov pe dab mlom dua…</b></div><p>Txij cov Thawj mus txog kev raug ntes coj mus, cov Yixayee rov ua zaj voj voog no tsis kawg li. Phau Vajluskub tsis tau sau zaj no cia kom peb thuam tias, “Lawv yog neeg yias kawg li.”</p><p>Nws yog ib daim <b>iav ntsejmuag</b>. Lub ntsiab tsis yog “cov Yixayee ua li ntawd” tiamsis yog <b>“kuv kuj ua ib yam nkaus”</b> (1 Khaulee 10:11).</p><p>Ib tug <b>dab mlom</b> tsis yog ib tug mlom ntoo xwb. Nws yog <b>txhua yam uas peb hlub lossis tso siab rau ntau dua Vajtswv</b> — nyiaj txiag, kev vam meej, kev luag lees txais, neeg, txawm yog kuv tus kheej los xij. Thiab qhov uas siv Vajtswv ua <b>ib lub cuab yeej los ua kom tau li kuv lub siab xav</b> kuj yog kev pe dab mlom thiab.</p><p class=\"punch\">Thaum kawg, tus dab mlom uas tob tshaj plaws yog “kuv tus kheej zaum saum Vajtswv lub zwm txwv.”</p>",
+  "gospel.coreIntro": "Yog li ntawd, Vajtswv cawm tus neeg muaj txim no li cas? Ntawm no yog lub plawv ntawm txoj xov zoo uas phau Vajluskub tshaj tawm.",
+  "gospel.crux": "<p class=\"crux-lead\">Tag nrho phau Vajluskub taw mus rau tib qho chaw.</p><p>Tib neeg tsis muaj peevxwm rhuav tau zaj voj voog ntawm kev txhaum ntawm lawv tus kheej, thiab tsis muaj ib tug ncaj ncees. Yog li ntawd yuav tsum muaj ib tug los <b>them nqi this lawv</b>.</p><p>Yexus tsis yog tsuav los qhia tej lus qhia zoo xwb. Vim tsis muaj lwm txojkev los cawm kuv, <b>nws thiaj yuav tsum los xwb.</b></p><p class=\"crux-punch\">Tus uas tsim nyog dai saum tus ntoo khaublig ntawd yog <b>kuv</b>.<br>Yexus ris <b>kuv tej kev txhaum</b> thiab raug ntsia rau qhov ntawd this kuv.</p><div class=\"crux-verse\">“Tiamsis nws raug mob vim yog tim peb tej kev fav xeeb, nws raug ntsoog vim yog tim peb tej kev txhaum … qhov nws raug to ntawd kuj yog kho kom peb zoo.” — Yaxaya 53:5</div>",
+  "faq.h": "Tseem muaj ib yam dabtsi ua rau koj txhawj xeeb los?",
+  "faq.q1": "<span class=\"arr\">▸</span> Yog li ntawd tus neeg tua neeg tsuas yog ntseeg ces mus saum ntuj ceeb tsheej, tiamsis tus neeg uas nyob zoo ib sim neej tiamsis tsis ntseeg ho poob rau hauv ntuj raug txim?",
+  "faq.a1": "<p>Yog ib lo lus nug zoo. Tiamsis muaj ob qho kev nkag siab yuam kev nkaum hauv nws.</p><p><b>① Phau Vajluskub tsis muab tib neeg faib ua “neeg zoo thiab neeg phem.”</b> Tus kab tshuaj tsis yog “zoo dua tus nyob ib sab” tiamsis yog “Vajtswv txojkev dawb huv uas zoo kawg nkaus.” Ntawm nws xubntiag, tsis muaj leejtwg “zoo txaus” (Loos 3:23). Yog li ntawd nws tsis yog “neeg zoo vs. tus tua neeg,” tiamsis zoo li ob tug uas mob ib yam kab mob uas yuav tuag — ib tug txais tshuaj kho, ho ib tug tsis kam, hais tias “kuv noj qab dua tus ntawd.”</p><p><b>② Tib yam xwb thiaj cais saum ntuj ceeb tsheej thiab ntuj raug txim.</b> Tsis yog cov ntsiab ntawm tej haujlwm, tiamsis yog <b>seb koj puas tau lees txais Yexus Khetos ua tus Tswv thiab koj qhov teeb meem kev txhaum puas tau daws.</b> Tus uas Khetos cov ntshav daws nws tej kev txhaum lawm mus saum ntuj ceeb tsheej; tus uas yeej tsis tau lees txais nws, uas nws tej kev txhaum tseem nyob, ces tsis tau mus. Tsis muaj tej haujlwm zoo dabtsi yuav daws tau qhov teeb meem kev txhaum ntawd this koj.</p><p>Yog li ntawd ntuj ceeb tsheej thiab ntuj raug txim tsis yog “ib qho khoom plig rau kev coj zoo” tiamsis yog ib qho teeb meem ntawm <b>kev sib raug zoo nrog Khetos</b>. Thiab “kev ntseeg” tsis yog kev pom zoo hauv lub siab xwb, tiamsis yog kev hloov tus uas kav lub neej: tus uas lees txais nws tiag tiag tsis tau muaj plhus, tiamsis ntxeev dua siab tshiab tob tshaj. Tiamsis qhov <b>ua zoo rau yus tus kheej</b> uas hais tias “kuv yog neeg zoo” yog tus dab mlom uas nyuaj rhuav tshaj, tus uas ua rau peb xav tias “kuv tsis xav tau Khetos” (Luka 18:9-14).</p><p>Phau Vajluskub hais meej tseeb: <b>“Tus uas tso siab rau leej Tub yeej tsis raug teem txim, tus uas tsis tso siab rau leej Tub twb raug teem txim lawm”</b> (Yauhas 3:18). Kev txiav txim tsis yog “qhia koj lub neej tom qab koj tuag,” tiamsis twb txiav txim raws li <b>seb koj puas tau lees txais Khetos</b> lawm.</p><p class=\"faq-v\">Loos 3:23 · Yauhas 3:18 · Efexau 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Tsuas yog ua neeg zoo, txawm tsis ntseeg Yexus, kuj tsis txaus lov?",
+  "faq.a2": "<p>Nws yog qhov uas neeg xav coob tshaj, tiamsis nkag siab yuam kev txog “qhov teeb meem tseeb.” Cia peb siv ib daim duab.</p><p><b>Xav mus tias koj nyob saum ib lub nkoj tub sab.</b> Txawm koj cheb lub nkoj kom huv li cas, ua siab zoo rau cov neeg saum nkoj npaum li cas, nyob zoo tau ua qauv npaum li cas, koj tseem yog ib tug <b>tub sab</b>, vim lub nkoj coj koj nrog nws mus rau qhov uas nws taug (lub chaw nres nkoj ntawm kev txiav txim). Qhov teeb meem tsis yog “cov ntsiab ntawm tej haujlwm,” tiamsis yog <b>“koj yog leejtwg li” (koj tus yam ntxwv)</b>.</p><p>Yog li ntawd txoj xov zoo tsis hais “cia li ua kom zoo dua,” tiamsis hais tias <b>“hloov nkoj.”</b> Cia li nqes ntawm lub nkoj kev txhaum mus rau Yexus: mus rau tus yam ntxwv tshiab ua <b>Vajtswv tus menyuam</b>. Nws tsis yog kev nce koj cov ntsiab los ntawm kev siv zog, tiamsis yog kev tso siab rau Tus uas cev nws txhais tes tuaj thiab hla mus rau nws lub nkoj.</p><p>Qhov tseeb phau Vajluskub piav txog txojkev cawm dim tiag tiag zoo li kev “tsiv chaw” no — <b>“Vajtswv cawm peb dim lub hwjchim tsaus ntuj thiab coj peb los nyob hauv nws tus tub uas nws hlub lub tebchaws”</b> (Khaulauxi 1:13).</p><p>Tsis txhob nkag siab yuam kev: <b>nws tsis tau hais tias kev nyob zoo tsis muaj nqis.</b> Tiamsis kev ua zoo tsis yog “tus xwm txheej” ntawm txojkev dim, tiamsis yog nws <b>cov txiv</b>. Tus uas hloov nkoj lawm nyob zoo tsis yog vim ntshai lawm, tiamsis vim <b>tus menyuam txojkev hlub</b>.</p><p class=\"faq-v\">Khaulauxi 1:13 · Yauhas 1:12 · Yauhas 3:3 · Efexau 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Yog tus uas ua txhaum xav tias nws nyob kaj siab lug, hais tias “Vajtswv twb zam txim rau kuv lawm,” tiamsis tus uas raug ua phem tseem txom nyem — txojkev zam txim ntawd puas pheej tsawg dhau lawm?",
+  "faq.a3": "<p>Lo lus nug no muaj nqis, thiab txojkev mob ntawd yog tseeb. Tiamsis qhov uas hais li ntawd tsis yog “phau Vajluskub txojkev zam txim” — nws yog <b>ib qho kev hloov yuam kev</b> ntawm txojkev zam txim.</p><p><b>① Vajtswv txojkev zam txim yeej tsis pheej tsawg.</b> Kev txhaum tsis raug muab npog cia ib yam li tsis tau muaj dabtsi; Vajtswv tus kheej muab nws Leej Tub txojsia los them nws tus nqi. Tus ntoo khaublig tsis yog ua pov thawj tias muab kev txhaum saib yias, tiamsis yog qhia tias kev txhaum hnyav npaum li cas: nws yog txojkev zam txim uas kim tshaj nyob hauv lub ntiajteb.</p><p><b>② Kev ntxeev dua siab tshiab tiag tiag txi txiv.</b> Yog tus uas ua txhaum muaj plhus tab meeg tus uas raug ua phem, hais tias “Vajtswv twb zam txim rau kuv, kuv thiaj nyob kaj siab,” qhov ntawd tsis yog kev ntxeev dua siab tshiab, tiamsis yog kev ua txuj zwm xwb (Mathai 3:8). Thiab kev zam txim ntawm Vajtswv thiab kuv tsis muab tus uas raug ua phem tej kev mob kho zoo lossis yuam nws kom zam txim.</p><p><b>③ Kev txhaum yeej tsis raug muab “tso dhau plho.”</b> Txhua yam kev txhaum yuav raug them rau ntawm ib qho hauv ob qho chaw — <b>tsis yog Khetos ris saum tus ntoo khaublig</b> (rau tus uas tso siab rau nws ces tsis muaj kev txiav txim ntxiv lawm, Loos 8:1), <b>los yog tus uas thaum kawg tsis kam txais nws ris nws tus kheej.</b> Yog li ntawd tsis muaj “kev zam txim pheej tsawg.” Tus uas ua txhaum tseem yuav tau ris lub luag haujlwm raws kev cai hauv lub ntiajteb no thiab (Loos 13:1-4).</p><p><b>④ Tus uas raug ua phem tej kua muag yeej tsis me ntawm Vajtswv xubntiag.</b> Vajtswv quaj nrog cov uas quaj, nco txhua ncos kua muag, thiab thaum kawg nws yuav so cov kua muag ntawd nws tus kheej (Qhia Tshwm 21:4). Yog li ntawd tus uas raug ua phem kuj tsis tas ris lub nra kev ua pauj nws ib leeg xwb, tiamsis muab tso tau rau Vajtswv tus ncaj ncees (Loos 12:19 — “Qhov uas ua pauj yog kuv li feem, kuv yuav pauj. Tus Tswv hais li no ntag”).</p><p class=\"faq-v\">Mathai 3:8 · Loos 8:1 · Loos 13:1-4 · Qhia Tshwm 21:4</p>",
+  "respond.h3": "Yog li ntawd — kuv ho yuav ua li cas?",
+  "respond.sub": "Txojkev hlub no tsis yog ib qho ntaub ntawv tiamsis yog ib qho <b>kev caw</b>. Yog txojkev hlub uas raug ntsia this koj twb chwv koj lub siab lawm, cia li thov ntawm no kom maj mam, ib kab dhau ib kab.",
+  "respond.prayer": "<p>Vajtswv,</p><p>kuv lees tias kuv yog ib tug neeg muaj txim uas cawm tsis tau kuv tus kheej.</p><p>Kuv ntseeg tias Yexus tuag saum tus ntoo khaublig this kuv thiab rov ciaj sawv los.</p><p>Thov zam txim rau kuv tej kev txhaum huvsi, thiab txij hnub no mus ua tus Tswv ntawm kuv lub neej.</p><p>Thov txais kuv ua koj tus menyuam, thiab pub kuv ua lub neej tshiab.</p><p class=\"amen\">Kuv tuav Yexus lub npe thov. Amee.</p>",
+  "respond.after": "Yog koj thov qhov no los ntawm lub siab tiag tiag, phau Vajluskub hais tias koj twb <b>ua Vajtswv tus menyuam</b> lawm. Koj tsis nyob ib leeg lawm — nrhiav ib lub tsev teev ntuj nyob ze thiab nrog luag taug txojkev ntseeg ua ke.",
+  "respond.read": "Cia li nyeem phau Vajluskub koj tus kheej — pib ntawm Yauhas",
+  "respond.verse": "“Tiamsis txhua tus uas lees yuav nws, yog cov uas ntseeg nws lub npe, nws kuj pub lawv muaj feem ua Vajtswv li menyuam.” — Yauhas 1:12 · Loos 10:9-10",
+  "closing.main": "Tib tug Vajtswv,<br>los ntawm tib zaj dab neeg,<br>los nrhiav peb nrog ib<br><em>txojkev hlub</em> uas tsis tso tseg.",
+  "closing.verse": "“Txawm yog kev tuag lossis txojsia … lossis ib yam dabtsi uas tau tsim los no yuav cais tsis tau peb ntawm Vajtswv txojkev hlub uas muaj hauv peb tus Tswv Yexus Khetos kiag li.” — Loos 8:38-39",
+  "closing.small": "Saum zaj dab neeg no, Txoj Kevcai, Cov Ntawv Paj Huam, Cov Xibhwb Cev Lus, thiab Cov Tsab Ntawv ntxiv “cev nqaij” rau.<br>Txij no mus, txawm koj qheb phau twg los, koj yuav pom “koj nyob qhov twg hauv zaj dab neeg.”",
+  "closing.share": "↗ Faib zaj dab neeg no",
+  "about.line": "Lub ntsiab raws li tus kev xav <b>keeb kwm-txhiv dim, txoj xov zoo · Reformed</b> uas feem coob ntawm cov ntseeg Protestant hauv Kauslim sib koom.",
+  "about.contact": "Lus nug · lus tawm tswv yim — <a id=\"contact\" class=\"mail\">Sau email rau peb</a>"
+ },
+ "epochs": [
+  {
+   "tag": "PHAU QUB · LUB HAUV PAUS",
+   "title": "Kev Tsim Ntuj Tsim Teb",
+   "date": "Chiv keeb thaum ub",
+   "one": "Vajtswv tsim ib lub ntiajteb uas “zoo kawg nkaus.”",
+   "people": "Vajtswv; Adas thiab Eva",
+   "events": "Rau hnub tsim ntuj tsim teb, tib neeg raug tsim raws li Vajtswv tus yam ntxwv, hnub Xanpatau so",
+   "q": "Chiv keeb thaum ub Vajtswv tsim lub ntuj thiab lub ntiajteb.",
+   "cite": "Chiv Keeb 1:1",
+   "christ": "Lub ntiajteb raug tsim los ntawm “Txojlus.” Yauhas Txoj Moo Zoo tshaj tias Txojlus ntawd yog Yexus nws tus kheej (Yauhas 1:1-3).",
+   "detail": "<p>Phau Vajluskub tsis pib nrog ib qho kev sib cav txog kev txawj ntse, tiamsis nrog ib qho kev tshaj tawm: <b>“Chiv keeb thaum ub Vajtswv…”</b> Lub ntiajteb tsis yog ib qho xwm txheej tshwm sim xwb, tiamsis yog ib tug Vajtswv uas muaj siab muaj ntsws tes haujlwm.</p><ul><li><b>Vajtswv tus yam ntxwv</b> · hauv txhua yam tsiaj txhu, tsuas yog tib neeg xwb thiaj raug tsim kom zoo li Vajtswv — los paub nws thiab tu lub ntiajteb.</li><li><b>Kev so</b> · hnub xya kev so qhia tias txhua yam puv npo thiab nyob kaj siab (shalom): “zoo kawg li.”</li><li><b>Edee</b> · lub ntiajteb ua ntej nws raug rhuav, qhov chaw uas Vajtswv thiab tib neeg ua ke taug kev.</li></ul>",
+   "next": "Tiamsis qhov puv npo no twb yuav raug rhuav tshem…"
+  },
+  {
+   "tag": "PHAU QUB · TEEB MEEM PIB",
+   "title": "Kev Poob Txim",
+   "date": "Chiv keeb thaum ub",
+   "one": "Kev txhaum nkag los, thiab txoj saw txuas ntawm tib neeg thiab Vajtswv raug txiav.",
+   "people": "Adas thiab Eva; tus nab (Xatas)",
+   "events": "Noj cov txiv uas txwv, raug ntiab tawm hauv Edee, kev tuag thiab kev nkees nkag los",
+   "q": "Kuv yuav ua rau koj thiab tus pojniam no ua yeeb ncuab … Tus pojniam caj ces yuav tsoo koj taubhau kom ntsoog.",
+   "cite": "Chiv Keeb 3:15",
+   "christ": "Txoj xov zoo thawj zaug cog lus, muab tom qab kev poob txim tamsid: “tus pojniam caj ces” yuav tsoo tus nab lub taubhau — thiab ntawd yog Yexus (Chiv Keeb 3:15; Loos 16:20; Kalatia 4:4).",
+   "detail": "<p>Los ntawm kev tsis mloog lus uas xav “ua zoo li Vajtswv,” kev txhaum nkag los rau hauv lub ntiajteb. Qhov tshwm sim tsis yog rhuav ib txoj cai xwb, tiamsis yog <b>kev sib raug zoo raug rhuav</b>.</p><ul><li><b>Tej kev sib raug raug rhuav</b> · nrog Vajtswv (nkaum), nrog ib leeg (sib liam), nrog ntuj nrog teb (pos kaus thiab kev nkees).</li><li><b>Kev tuag</b> · lo lus ceeb toom “koj yeej yuav tuag” tshwm los ua tseeb.</li><li><b>Chiv Keeb 3:15</b> · tiamsis nyob nruab nrab kev txiav txim, lo lus cog tseg txog kev cawm dim tshwm los ua ntej. Cov kws tshawb fawb hu nws ua <b>protoevangelium (txoj xov zoo thawj zaug)</b>.</li></ul>",
+   "next": "Nim no Vajtswv hu ib tug txivneej los pib txojkev cawm…"
+  },
+  {
+   "tag": "PHAU QUB · LUS COG TSEG",
+   "title": "Cov Yawg Koob",
+   "date": "kwvyees 2000 ua ntej V.T.",
+   "one": "Vajtswv cog lus rau Anplahas: “Koj yuav ua ib txoj kwj dej koob hmoov.”",
+   "people": "Anplahas · Yiha · Yakhauj · Yauxej",
+   "events": "Lus cog tseg nrog Anplahas, kev muab Yiha tua xyeem, Yakhauj kaum ob tug tub, Yauxej nce ua thawj coj hauv Iyi tebchaws",
+   "q": "Kuv yuav tsa koj ua ib haiv neeg loj … Ib tsoom neeg hauv lub ntiajteb yuav tau koob hmoov ntawm koj los.",
+   "cite": "Chiv Keeb 12:2-3",
+   "christ": "Lo lus cog tseg tias “ib tsoom neeg yuav tau koob hmoov” tiav hauv Yexus, Anplahas caj ces (Kalatia 3:16).",
+   "detail": "<p>Vajtswv pib daws ib tsoom neeg sawvdaws qhov teeb meem los ntawm kev hu ib tug txivneej, <b>Anplahas</b>. Lub plawv yog <b>lus cog tseg (lus cog)</b> — ib haiv neeg loj, ib thaj av, thiab “koob hmoov rau ib tsoom neeg.”</p><ul><li><b>Kev ntseeg</b> · Anplahas ntseeg lo lus cog tseg uas pom tsis tau, thiab raug suav tias ncaj ncees rau nws (Chiv Keeb 15:6).</li><li><b>Yiha thiab Yakhauj</b> · lo lus cog tseg dhau mus rau tiam tom ntej; Yakhauj (Yixayee) yog kaum ob xeem leej txiv.</li><li><b>Yauxej</b> · raug nws cov tijlaug muag, tiamsis nce ua thawj coj — “Vajtswv muab ua kom tau qhov zoo” (Chiv Keeb 50:20).</li></ul>",
+   "next": "Raws Yauxej qab, tsev neeg nqes mus rau Iyi tebchaws — thiab los ua qhev…"
+  },
+  {
+   "tag": "PHAU QUB · KEV TXHIV DIM",
+   "title": "Kev Khiav Dim thiab Tom Roob Moj Sab Qhua",
+   "date": "kwvyees 1446 ua ntej V.T.",
+   "one": "Vajtswv cawm cov pejxeem uas ua qhev thiab tsa lawv ua nws haiv neeg.",
+   "people": "Mauxe, Aloo, Falau",
+   "events": "Kaum yam mob phem, Kevcai Hla Dhau, hla Hiavtxwv Liab, Kaum Lo Lus Qhia ntawm Xinai, lub Tsev Ntaub, 40 xyoo tom roob moj sab qhua",
+   "q": "Kuv yuav txais nej ua kuv haiv neeg thiab kuv yuav ua nej tus Vajtswv.",
+   "cite": "Khiav Dim 6:7",
+   "christ": "Kevcai Hla Dhau — qhov uas menyuam yaj cov ntshav tav kev tuag — taw mus rau Yexus, “peb tus menyuam yaj Hla Dhau,” uas raug ntsia saum ntoo khaublig this peb (1 Khaulee 5:7).",
+   "detail": "<p>Phau Qub txojkev cawm dim uas loj tshaj. Cov Yixayee uas ua qhev raug Vajtswv lub hwjchim tso dim thiab raug tsim ua nws <b>haiv neeg</b>.</p><ul><li><b>Kevcai Hla Dhau</b> · lub tsev uas muaj menyuam yaj cov ntshav ntawm qhov rooj raug kev tuag hla dhau — tus qauv rau txhua qhov kev tua xyeem tom qab.</li><li><b>Hiavtxwv Liab</b> · kev cawm dim thaum txojkev xaus rau qhov chaw uas khiav tsis tau; “hla mus rau sab tid” ua lub cim ntawm kev pib tshiab.</li><li><b>Lus cog tseg ntawm Xinai</b> · los ntawm Kaum Lo Lus Qhia lawv kawm ua neej li Vajtswv haiv neeg.</li><li><b>Lub Tsev Ntaub</b> · ib lub chaw dawb huv uas nqa tau, qhov chaw uas Vajtswv nrog nws haiv neeg nyob — ib qho saj ua ntej ntawm “Imanuyee.”</li><li><b>40 xyoo</b> · kev tsis mloog lus ua rau ib tiam neeg taug kev tom roob moj sab qhua, tiamsis Vajtswv tseem nyob ze nrog cov manas thiab tus ncej huab thiab ncej hluavtaws.</li></ul>",
+   "next": "Sawv ntawm ntug thaj av cog tseg, lawv npaj nkag mus…"
+  },
+  {
+   "tag": "PHAU QUB · KEV NYOB RUAJ",
+   "title": "Kev Txeeb Av thiab Cov Thawj",
+   "date": "kwvyees 1400–1050 ua ntej V.T.",
+   "one": "Lawv tau thaj av, tiamsis tsis muaj vajntxwv, nyias ua raws li nyias pom zoo.",
+   "people": "Yausua; cov thawj zoo li Kide-oo thiab Xamaxoo; Luv",
+   "events": "Yelikhau lub pob zeb pob, kev nyob ruaj hauv Khana-as, zaj voj voog rov rov kev txhaum–kev txiav txim–kev cawm",
+   "q": "Ncua sijhawm ntawd cov Yixayee tsis muaj vajntxwv, mas nyias ua raws li nyias pom zoo xwb.",
+   "cite": "Cov Thawj 21:25",
+   "christ": "Ntawm Luv caj ces los muaj Davi, thiab ntawm Davi caj ces los muaj Yexus (Mathai 1). Txawm nyob hauv kev ntxhov, tus Mexiyas tsob ntoo caj ces tseem nce mus li.",
+   "detail": "<p>Hauv Yausua lawv nkag mus rau thaj av cog tseg, tiamsis thaum nyob ruaj lawm lawv sai sai tsis nco qab Vajtswv. Cov Thawj yog tib tus qauv rov rov ua dua.</p><ul><li><b>Zaj voj voog poob qis</b> · kev txhaum → kev quab yuam → kev quaj thov → ib tug thawj cawm → rov kev txhaum dua. Nws tsuas hnyav zuj zus.</li><li><b>Cov thawj</b> · Kide-oo, Xamaxoo, Denpaula — cov uas cawm ib ntus xwb, ua siab loj tiamsis muaj yam tsis zoo ntau.</li><li><b>Luv</b> · ib zaj dab neeg ci ntsa iab ntawm kev ncaj ncees hauv tiam tsaus ntuj; ib tug pojniam txawv tebchaws nkag mus rau Davi (thiab Yexus) caj ces.</li></ul>",
+   "next": "Cov pejxeem quaj thov, “Muab ib tug vajntxwv rau peb thiab!”…"
+  },
+  {
+   "tag": "PHAU QUB · LUB SIJHAWM VAM MEEJ",
+   "title": "Lub Tebchaws Sib Koom",
+   "date": "kwvyees 1050–930 ua ntej V.T.",
+   "one": "Vajtswv cog lus rau Davi: “Koj lub zwm txwv yuav nyob mus ib txhis.”",
+   "people": "Xa-u · Davi · Xalaumoo",
+   "events": "Thawj tug vajntxwv Xa-u, Davi thiab Kaulia, lus cog tseg nrog Davi, Xalaumoo ua lub tuam tsev",
+   "q": "Koj caj ces thiab qhov uas lawv ua vajntxwv yuav nyob ruaj khov rau ntawm kuv xubntiag mus ib txhis li. Koj lub zwm txwv yuav raug muab tsa nyob ruaj khov mus ib txhis.",
+   "cite": "2 Xamuyee 7:16",
+   "christ": "Lub “zwm txwv nyob mus ib txhis” tiav hauv Yexus, Davi tus tub — qhov ntawd thiaj hu nws ua “Davi Tus Tub” (Luka 1:32-33; Mathai 1:1).",
+   "detail": "<p>Cov Yixayee lub sijhawm vam meej tshaj, kav los ntawm peb tug vajntxwv.</p><ul><li><b>Xa-u</b> · tus vajntxwv uas cov pejxeem thov; pib zoo tiamsis raug rhuav vim kev tsis mloog lus.</li><li><b>Davi</b> · “ib tug txivneej uas hum Vajtswv lub siab.” Nws kov yeej Kaulia thiab ua Yeluxalees ua lub nroog loj. Nws ua kev txhaum loj (Npasenpa) tiamsis ntxeev dua siab tshiab los ntawm lub siab (Ntawv Nkauj 51).</li><li><b>Lus cog tseg nrog Davi (2 Xamuyee 7)</b> · Vajtswv cog lus tias yuav tsa Davi caj ces mus ib txhis — lub hauv paus tseem ceeb ntawm kev vam tus Mexiyas.</li><li><b>Xalaumoo</b> · thaum txawj ntse thiab nplua nuj tshaj plaws nws ua lub <b>tuam tsev</b>, tiamsis thaum yuav laus nws tig mus pe dab mlom.</li></ul>",
+   "next": "Tom qab Xalaumoo, lub tebchaws faib ua ob…"
+  },
+  {
+   "tag": "PHAU QUB · KEV POOB QIS",
+   "title": "Lub Tebchaws Sib Faib",
+   "date": "930–586 ua ntej V.T.",
+   "one": "Faib ua sab qab teb (Yudas) thiab sab qaum teb (Yixayee), thiab maj mam puas tsuaj.",
+   "people": "Ob lub tebchaws cov vajntxwv; cov xibhwb cev lus zoo li Eliya, Yaxaya, Yelemi",
+   "events": "Lub tebchaws faib, kev pe dab mlom nthuav, cov xibhwb cev lus ceeb toom",
+   "q": "Yixayee thiaj li fav xeeb rau Davi caj ces los txog niaj hnub nimno.",
+   "cite": "1 Vajntxwv 12:19",
+   "christ": "Hauv tiam no cov xibhwb cev lus qhia txog tus Mexiyas uas yuav los ntau zuj zus meej (Yaxaya 9:6; Yaxaya 53).",
+   "detail": "<p>Hauv Xalaumoo tus tub tiam, lub tebchaws faib: <b>lub tebchaws Yixayee sab qaum teb</b> (10 xeem, lub nroog Xamali) thiab <b>lub tebchaws Yudas sab qab teb</b> (2 xeem, lub nroog Yeluxalees).</p><ul><li><b>Yixayee (qaum teb)</b> · txhua tus vajntxwv pe dab mlom; poob rau Axilia xyoo 722 ua ntej V.T.</li><li><b>Yudas (qab teb)</b> · Davi caj ces nce mus, muaj ob peb tug vajntxwv zoo zoo li Hexekhiya thiab Yauxiya, tiamsis tag nrho poob qis.</li><li><b>Cov xibhwb cev lus</b> · Eliya, Amau, Yaxaya, Yelemi quaj “rov los!” Kev qhia txog tus Mexiyas nplua mias tshaj plaws ntawm no (tus “tub qhe txom nyem” hauv Yaxaya 53).</li></ul>",
+   "next": "Thaum kawg kev txiav txim uas ceeb toom los txog — lawv raug ntes coj mus…"
+  },
+  {
+   "tag": "PHAU QUB · KEV TXIAV TXIM",
+   "title": "Kev Raug Ntes Coj Mus",
+   "date": "722 / 586 ua ntej V.T.",
+   "one": "Lub tebchaws pob thiab cov pejxeem raug ntes coj mus rau lwm lub tebchaws.",
+   "people": "Daniyee, Exekhee, Nenpukhanexa",
+   "events": "Yixayee poob rau Axilia (722), Yudas poob rau Npanpiloo thiab lub tuam tsev raug rhuav (586)",
+   "q": "Peb zaum ntawm tej ntug dej hauv Npanpiloo, thiab quaj ntsuag rau thaum peb nco txog Xi‑oo.",
+   "cite": "Ntawv Nkauj 137:1",
+   "christ": "Hauv qhov tob ntawm kev poob siab Yelemi cog lus txog ib “lus tshiab” (Yelemi 31:31) — tib txoj uas Yexus muab nia ntawm pluas hmo kawg.",
+   "detail": "<p>Tej lus ceeb toom tshwm los ua tseeb. Lub tuam tsev kub hnyiab thiab cov pejxeem raug ntes coj mus rau Npanpiloo — poob thaj av, vajntxwv, thiab lub tuam tsev: lub sijhawm phem tshaj plaws.</p><ul><li><b>Ob zaug poob</b> · Yixayee (Axilia, 722 ua ntej V.T.) thiab Yudas (Npanpiloo, 586 ua ntej V.T.).</li><li><b>Daniyee</b> · ib tug qauv kev ntseeg txawm nyob hauv lub tsev pe dab (lub qhov tsov ntxhuav); nws pom yog toog txog ib lub “tebchaws nyob mus ib txhis” uas yuav los.</li><li><b>Ib tug pawg nplaim kev vam</b> · Exekhee zaj yog toog txog tej pob txha qhuav rov ciaj (Exekhee 37) thiab Yelemi “txoj kev cog tseg tshiab” taw mus rau yav tom ntej hauv qhov tsaus ntuj.</li></ul>",
+   "next": "Xya caum xyoo tom qab, Vajtswv qheb txojkev — lawv rov los tsev…"
+  },
+  {
+   "tag": "PHAU QUB · KEV TSHIV TSHEEJ",
+   "title": "Kev Rov Qab Los",
+   "date": "538–430 ua ntej V.T.",
+   "one": "Lawv rov los thiab ua dua lub tuam tsev thiab tej ntsa loog.",
+   "people": "Exala, Nehemi, Exethaw, Xelunpanpee",
+   "events": "Rov los raws Xailab tsab kevcai, ua dua lub tuam tsev, kho Yeluxalees tej ntsa loog, txhiv Vajtswv Txojlus",
+   "q": "vim qhov uas zoo siab xyiv fab rau Yawmsaub yog nej lub zog.",
+   "cite": "Nehemi 8:10",
+   "christ": "Malakhi, Phau Qub thawj kawg phau ntawv, xaus los ntawm kev qhia txog ib tug tubtxib los npaj tus Mexiyas txojkev: “kuv tso kuv tus tubtxib mus” (Malakhi 3:1).",
+   "detail": "<p>Los ntawm Pawxia tus vajntxwv Xailab tsab kevcai (538 ua ntej V.T.) kev rov los pib. Hauv peb zaug lawv rov los thiab ua dua tej uas puas tsuaj.</p><ul><li><b>Xelunpanpee</b> · ua dua lub tuam tsev (ua tiav xyoo 516 ua ntej V.T.).</li><li><b>Exala</b> · qhia Vajtswv Txojlus dua thiab txhawb kev ntseeg.</li><li><b>Nehemi</b> · ua dua Yeluxalees tej ntsa loog hauv 52 hnub.</li><li><b>Exethaw</b> · cawm cov Yudai hauv Pawxia kom tsis txhob raug muab tua tu noob — “tej zaum koj los txais lub meej mom no twb yog rau lub sijhawm no.”</li><li><b>Tseem nqhis</b> · lub tuam tsev sawv lawm, tiamsis tsis muaj ib tug vajntxwv zoo li Davi. Cov pejxeem tos tus Mexiyas.</li></ul>",
+   "next": "Thiab ces… ib yam li ntuj ntsiag to, 400 xyoo dhau mus."
+  },
+  {
+   "tag": "NRUAB NRAB OB PHAU · NPAJ LUB CHAW",
+   "title": "Cov Xyoo Ntsiag To",
+   "date": "kwvyees 430–4 ua ntej V.T.",
+   "one": "400 xyoo tsis muaj xibhwb cev lus suab — tiamsis lub chaw twb tau npaj ntsiag to.",
+   "people": "Aleyaxades Tus Loj, cov Makhanpi, Loos",
+   "events": "Pawxia → Kili → cov Makhanpi ywj pheej → Loos kav",
+   "q": "Tiamsis thaum txog lub sijhawm uas teem cia lawd, Vajtswv txib nws tus Tub los yug ntawm pojniam.",
+   "cite": "Kalatia 4:4",
+   "christ": "Tag nrho “kev npaj lub chaw” no yog Vajtswv tes haujlwm xwv Yexus thiaj li los raug “lub sijhawm uas teem cia.”",
+   "detail": "<p>Txij Malakhi mus txog Phau Tshiab, kwvyees 400 xyoo dhau mus tsis muaj Vajluskub tshiab. Tiamsis tom qab keeb kwm Vajtswv npaj kev rau txoj xov zoo.</p><ul><li><b>Tej teb chaws loj hloov tes</b> · Pawxia → Kili (Aleyaxades, 333 ua ntej V.T.) → cov Putaulemi thiab cov Xelu-si → cov Makhanpi sawv ntsug (167 ua ntej V.T.) → Loos (63 ua ntej V.T.).</li><li><b>Lus Kili</b> · Aleyaxades kev kov yeej ua rau lus Kili ua lus sib txuas; Phau Qub raug txhais ua lus Kili (Septuagint), npaj kev rau txoj xov zoo nthuav sai.</li><li><b>Loos tej kev thiab kev thaj yeeb</b> · tej kev ua tau zoo thiab “Pax Romana” ua tej kev rau kev tshaj tawm.</li><li><b>Tej tsev sablwm thiab tej pab</b> · kev qhia hauv tsev sablwm ua paus; cov Falixai thiab cov Xadukai sawv los; thiab <b>kev tos tus Mexiyas</b> hlob.</li></ul>",
+   "next": "Ces kev ntsiag to tu — thaum kawg, nws los."
+  },
+  {
+   "tag": "PHAU TSHIAB · KEV UA TIAV",
+   "title": "Yexus Los",
+   "date": "kwvyees 4 ua ntej V.T.–30 V.T.",
+   "one": "Tus Mexiyas uas cog lus tseg twb los, tuag, thiab rov ciaj sawv los.",
+   "people": "Yexus, kaum ob tug thwjtim, Yauhas tus muab neeg ua kevcai raus dej",
+   "events": "Kev los yug ua neeg, nws tes haujlwm qhia thiab ua txujci, kev tuag saum ntoo khaublig, kev rov ciaj sawv hnub peb",
+   "q": "Txojlus ntawd tshwm los ua neeg thiab nyob hauv peb nruab nrab … nws muaj txojkev hlub txojkev tseeb nplua mias.",
+   "cite": "Yauhas 1:14",
+   "christ": "Tus pojniam caj ces (zaj 2), Anplahas koob hmoov (3), tus menyuam yaj Hla Dhau (4), Davi tus vajntxwv nyob mus ib txhis (6), thiab txoj kev cog tseg tshiab (8) — tag nrho tiav hauv tib tug Yexus: peb tus xibhwb cev lus, tus pov thawj, thiab tus vajntxwv tseeb.",
+   "detail": "<p>Kev ntsiag to tu; Tus uas Cog Lus Tseg los txog. Plaub Phau Moo Zoo ua timkhawv txog Yexus lub neej, kev tuag, thiab kev ciaj sawv ntawm plaub lub kwj.</p><ul><li><b>Kev los yug ua neeg</b> · Vajtswv los ua neeg (Imanuyee, “Vajtswv nrog peb nyob”), nyob hauv lub chaw qis Npelehee.</li><li><b>Tes haujlwm</b> · nws qhia Vajtswv lub tebchaws, kho cov mob, hu cov neeg muaj txim. “Tus uas pom kuv twb pom leej Txiv lawm.”</li><li><b>Tus ntoo khaublig</b> · nws them tus nqi ntawm kev txhaum thiab kev tuag uas kev poob txim coj los (zaj 2). Tus menyuam yaj Hla Dhau tseeb.</li><li><b>Kev rov ciaj sawv</b> · ciaj sawv hnub peb, nws rhuav kev txhaum, kev tuag, thiab Xatas lub hwjchim — twb saum tus ntoo khaublig nws “rhuav tej timtswv thiab tej hwjchim … kov yeej lawv” (Khaulauxi 2:15).</li></ul><p>Yog li ntawd Yexus yog peb tus <b>xibhwb cev lus tseeb</b> (qhia txojkev mus cuag Vajtswv), peb tus <b>pov thawj tseeb</b> (muab nws lub cev them kev txhaum), thiab peb tus <b>vajntxwv tseeb</b> (kov yeej kev txhaum, kev tuag, thiab Xatas thiab kav mus ib txhis).</p>",
+   "next": "Yexus uas ciaj sawv los txib nws cov thwjtim mus rau hauv lub ntiajteb…"
+  },
+  {
+   "tag": "PHAU TSHIAB · KEV NTHUAV DAV",
+   "title": "Pawg Ntseeg Pib",
+   "date": "kwvyees 30 V.T. mus",
+   "one": "Vaj Ntsuj Plig los, thiab txoj xov zoo nthuav mus txog qab ntuj kawg.",
+   "people": "Petus, Povlauj, pawg ntseeg thaum ub",
+   "events": "Vaj Ntsuj Plig nqes los rau Peethekhos, pawg ntseeg yug los, txoj xov zoo nthuav txij Yeluxalees mus txog Loos los ntawm kev tsim txom",
+   "q": "Tiamsis nej yuav tau txais hwjchim rau thaum Vaj Ntsuj Plig uas dawb huv nqes los rau saum nej … thiab mus thoob qab ntuj kawg.",
+   "cite": "Tubtxib Tes Haujlwm 1:8",
+   "christ": "Zaj dab neeg no tseem nce mus txog niaj hnub no. Phau Vajluskub xaus los ntawm lo lus cog tseg tias Yexus yuav rov los thiab ua txhua yam kom tshiab (Qhia Tshwm 21).",
+   "detail": "<p>Tom qab Yexus nce mus saum ntuj, Vaj Ntsuj Plig uas cog lus tseg nqes los rau Peethekhos thiab pawg ntseeg yug los. Txoj xov zoo nthuav tawg phwj.</p><ul><li><b>Peethekhos</b> · los ntawm Vaj Ntsuj Plig, cov thwjtim uas ntshai hloov ua cov timkhawv siab loj.</li><li><b>Petus</b> · tshaj txoj xov zoo rau cov Yudai hauv Yeluxalees.</li><li><b>Povlauj</b> · txij tus tsim txom mus ua ib tug tubtxib; cog pawg ntseeg thoob lub ntiajteb lwm haiv neeg thiab sau cov tsab ntawv.</li><li><b>Mus txog qab ntuj kawg</b> · Yeluxalees → Yudia → Xamali → Loos. Lo lus cog tseg nrog Anplahas txog “ib tsoom neeg” tshwm los ua tseeb.</li><li><b>Thiab peb</b> · zaj dab neeg tsis xaus; nws nce mus txog Yexus rov los thiab lub ntuj tshiab thiab lub ntiajteb tshiab.</li></ul>",
+   "next": "Tiamsis zaj dab neeg tsis xaus ntawm no…"
+  },
+  {
+   "tag": "PHAU TSHIAB · KEV UA TIAV NKAUS",
+   "title": "Kev Tsim Tshiab Dua (Txhua Yam Tshiab)",
+   "date": "tseem yuav los",
+   "one": "Yexus rov los thiab ua txhua yam kom tshiab.",
+   "people": "Yexus uas rov los; ib tsoom neeg",
+   "events": "Kev rov los zaum ob, kev txiav txim thaum kawg, kev kawg ntawm kev txhaum·kev tuag·kua muag, lub ntuj tshiab thiab lub ntiajteb tshiab",
+   "q": "Nws yuav so txhua ncos kua muag … txojkev tuag yuav tsis muaj dua li lawm, txojkev quaj ntsuag txojkev quaj thiab kev mob yuav tsis muaj dua li lawm.",
+   "cite": "Qhia Tshwm 21:4",
+   "christ": "Thawj zaug kev tsim lub Edee thaum kawg raug txhim kho dua ua lub “Yeluxalees Tshiab.” Vajtswv nrog nws haiv neeg nyob mus ib txhis — Imanuyee qhov puv npo (Qhia Tshwm 21:3; Mathai 1:23).",
+   "detail": "<p>Phau Vajluskub tsis xaus rau pawg ntseeg lub sijhawm. Nws phau kawg, Qhia Tshwm, qhia Yexus <b>rov los</b> los ua txhua yam kom tiav.</p><ul><li><b>Kev rov los zaum ob</b> · tus vajntxwv uas cog lus tseg rov los hauv lub hwjchim ci ntsa iab.</li><li><b>Kev kov yeej zaum kawg</b> · Xatas thiab kev tuag raug rhuav mus ib txhis, thiab Khetos kav ua Vajntxwv ntawm cov vajntxwv (1 Khaulee 15:25-26; Qhia Tshwm 20:10).</li><li><b>Kev txiav txim thiab kev ciaj sawv</b> · txhua yam tsis ncaj raug kho kom raug, thiab cov tuag rov ciaj sawv.</li><li><b>Lub ntuj tshiab thiab lub ntiajteb tshiab</b> · kev txhaum, kev tuag, kua muag, thiab kev mob ploj mus ib txhis (Qhia Tshwm 21:4).</li><li><b>Edee raug txhim kho dua</b> · hauv ib lub “Yeluxalees Tshiab” uas zoo dua thaum pib, Vajtswv nrog nws haiv neeg nyob mus ib txhis — lub hom phiaj uas tag nrho phau Vajluskub taug los.</li></ul><p>Yog li ntawd nim no yog lub sijhawm ntawm <b>“twb tiav lawm, tiamsis tseem tsis tau tiav nkaus”</b>: hauv Yexus txojkev cawm dim <b>twb</b> tiav lawm, tiamsis nws qhov puv npo <b>tseem</b> tos.</p>",
+   "next": "Yog li ntawd, tag nrho zaj dab neeg no muaj nqis li cas rau “kuv”?"
+  }
+ ],
+ "love": [
+  "Zaj dab neeg pib tsis yog ntawm kev txiav txim tiamsis ntawm ib lub ntiajteb uas tsim los ntawm txojkev hlub nphwv.",
+  "Thaum tib neeg ua txhaum, Vajtswv cog lus txog kev cawm dim tamsid ntawm qhov ntawd ntag.",
+  "Vajtswv los ua ntej cuag tus txivneej uas tsis tsim nyog, hu nws lub npe, thiab tsa nws ua txoj kwj dej koob hmoov.",
+  "Nws hnov cov pejxeem uas ua qhev txojkev ntsaj thiab nqes los cawm lawv nws tus kheej.",
+  "Txawm lawv fav xeeb rov rov, tiamsis txhua zaus uas lawv quaj thov, nws txib ib tug los cawm thiab tsa lawv sawv dua.",
+  "Txawm yog Davi uas poob lawm los nws tsis muab pov tseg; los ntawm nws nws cog lus txog ib tug Vajntxwv nyob mus ib txhis.",
+  "Rau cov pejxeem uas tig nrob qaum rau nws, nws txib cov xibhwb cev lus mus tsis tseg, thov tias, “Thov rov los tsev.”",
+  "Nws nrog lawv nqes mus txawm rau thaj av tsaus ntuj tshaj ntawm kev raug ntes coj mus, thiab cog lus txog kev txhim kho dua.",
+  "Txawm rau cov pejxeem uas ua tsis tiav rov rov los nws tsis thim nws lo lus cog tseg.",
+  "Txawm dhau 400 xyoo ntsiag to, pom tsis tau, nws tabtom npaj txojkev cawm dim.",
+  "Thaum peb tseem yog neeg muaj txim, nws txib nws Leej Tub los tso nws txojsia tseg.",
+  "Txojkev hlub uas peb tau txais, nim no nws xa kom ntws mus rau thoob ntiajteb.",
+  "Thaum kawg nws yuav so txhua ncos kua muag thiab ua txhua yam kom tshiab hauv txojkev hlub."
+ ],
+ "mis": [
+  {
+   "w": "“Vim li cas Vajtswv ho tsim ib tug uas ua txhaum tau? Tsis yog tsis tsim peb kiag yuav zoo dua lov?”",
+   "t": "Vajtswv tsim lub ntiajteb thiab tib neeg tsis yog vim tu ncua ib yam dabtsi, tiamsis vim txojkev hlub uas nphwv heev. Qhov uas tsim tib neeg ua <b>cov uas sib raug zoo nrog Vajtswv</b> twb yog txojkev hlub lawm. Thiab txawm kev txhaum nkag los los tsis nyob sab nraum Vajtswv txoj phiaj xwm cawm dim (Efexau 1:4-5). Phau Vajluskub thawj zaj tsis yog kev txiav txim tiamsis yog kev hlub."
+  },
+  {
+   "w": "“Tsuas yog noj ib lub txiv xwb los raug ntiab tawm thiab tau txais kev tuag — Vajtswv tsis yog nyaum dhau lawm lov?”",
+   "t": "Kev raug xa tawm hauv Edee yog kev txiav txim thiab kuj yog kev hlub tshua. Yog tib neeg, uas raug cais ntawm Vajtswv thiab nyob hauv tus xeev uas raug rhuav ntawd, noj ntawm tsob ntoo txojsia es nyob mus ib txhis, ces nws yuav raug khi nyob hauv kev txom nyem mus ib txhis (Chiv Keeb 3:22). Qhov uas tso cai kom muaj kev tuag twb yog qheb txojkev rov qab los, thiab ntawm qhov ntawd ntag Vajtswv cog lus txog ib tug Cawm Seej (Chiv Keeb 3:15). Twb muaj txojkev hlub hauv kev txiav txim lawm."
+  },
+  {
+   "w": "“Anplahas raug xaiv vim nws muaj kev ntseeg loj — tsis yog tag nrho cov neeg hauv Vajluskub puavleej yog cov tubrog kev coj ncaj lov?”",
+   "t": "Anplahas kuj dag thiab ua xyem xyav, thiab Yakhauj yog ib tug neeg ntxias. Vajtswv tsis hu “cov tsim nyog” tiamsis hu cov uas tsis zoo tag los ntawm txojkev hlub. Qhov uas xaiv tsis yog vim lawv qhov zoo tiamsis yog Vajtswv txojkev hlub uas ncaj ncees (Kevcai 7:7-8)."
+  },
+  {
+   "w": "“Txoj kevcai (Kaum Lo Lus Qhia) tsis yog ib qho kev xeem lossis xwm txheej uas yuav tsum dhau thiaj tau dim lov?”",
+   "t": "Vajtswv cawm lawv <b>ua ntej</b> muab txoj kevcai rau lawv. Txawm Kaum Lo Lus Qhia los pib nrog ib lo lus tshaj txog kev cawm dim: “Kuv yog Yawmsaub uas yog koj tus Vajtswv, uas coj koj tawm hauv Iyi tebchaws” (Khiav Dim 20:2). Txoj kevcai tsis yog “coj raws thiaj dim,” tiamsis yog kev qhia kev hlub txog kev ua neej rau cov uas twb dim los ntawm txojkev hlub lawm (Kevcai 7:7-9). Txojkev hlub ua ntej li; kev mloog lus yog cov lus teb."
+  },
+  {
+   "w": "“Kev txeeb Khana-as yog kev tua neeg tsis muaj kev hlub tshua — yog li ntawd Phau Qub tus Vajtswv yeej yog tus nyaum tiag.”",
+   "t": "Nws yog ib lub ncauj lus nyuaj uas daws tsis tau hauv ib kab lus thiab yuav tsum saib xyuas. Tiamsis phau Vajluskub tsis qhia nws ua kev ua nruj ua tsiv tsis muaj laj thawj, tiamsis ua kev txiav txim tom qab ntau pua xyoo ua siab ntev rau kev phem heev (suav nrog kev muab menyuam tua xyeem) (Chiv Keeb 15:16; Kevcai 9:4-5; Levi Tej Kevcai 18:24-25). Vajtswv tsis maj txawm yog hauv kev txiav txim, thiab tus uas tig los cuag nws, txawm yog neeg txawv tebchaws, nws txais zoo siab — zoo li Lahaj thiab Luv (Yausua 6:25; Luv 4:13-17)."
+  },
+  {
+   "w": "“Davi yog ib tug tubrog uas tsis muaj chaw thuam — qhov ntawd thiaj hu nws ua ‘ib tug txivneej uas hum Vajtswv lub siab.’”",
+   "t": "Davi ua kev nkauj nraug thiab txawm tua neeg. “Ib tug txivneej uas hum Vajtswv lub siab” tsis txhais tias zoo tsis muaj chaw thuam, tiamsis yog tus uas tsis nkaum nws tej kev txhaum — uas ntxeev dua siab tshiab tag nrho thiab rov los cuag Vajtswv tsis tseg (Ntawv Nkauj 51). Vajtswv txojkev hlub tsis muab txawm tus uas poob hnyav pov tseg."
+  },
+  {
+   "w": "“Tus xibhwb cev lus yog ib tug saib yaig uas qhia txog yav tom ntej / Phau Qub tus Vajtswv tsuas yog npau taws xwb.”",
+   "t": "Tus xibhwb cev lus lub plawv tsis yog “qhia yav tom ntej” tiamsis yog Vajtswv lub siab mob: “Thov rov los.” Txawm lo lus ceeb toom txog kev txiav txim los tsis yog nrhiav kev rhuav tiamsis yog kom neeg tig rov los thiab cawm lawv — “kuv tsis txaus siab rau qhov uas cov neeg phem tuag” (Exekhee 33:11)."
+  },
+  {
+   "w": "“Kev raug ntes coj mus ua pov thawj tias Vajtswv tso Yixayee tseg tag nrho lawm.”",
+   "t": "Kev raug ntes coj mus tsis yog kev tso tseg tiamsis yog kev qhuab qhia thiab kev ntxuav rau ib tug menyuam uas hlub (Henplais 12:6). Vajtswv tsis tau ncaim mus; nws nrog Daniyee nyob hauv plawv kev raug ntes coj mus thiab cog lus tias, “Kuv paub tej uas kuv npaj tseg rau nej, yog tej uas yuav ua rau nej tau zoo tsis yog ua rau nej tau qhov phem, yuav pub kom nej muaj lub neej tom hauv ntej thiab muaj siab vam” (Yelemi 29:11)."
+  },
+  null,
+  {
+   "w": "“Yog 400 xyoo tsis muaj lus, ces yam zoo li Vajtswv twb ncaim mus lossis so lawm.”",
+   "t": "Kev ntsiag to tsis yog kev tsis nyob. Nws tsuas yog tsis hais lus xwb, thaum lub sijhawm ntawd tag nrho nws txav tej teb chaws loj, tej lus, thiab tej kev los npaj lub chaw rau kev cawm dim. Hauv lub sijhawm uas ntsiag tshaj, Vajtswv tabtom ua haujlwm sib zog tshaj, hauv txojkev hlub (Kalatia 4:4)."
+  },
+  {
+   "w": "“Yexus tsuas yog ib tug xibhwb qhia kev coj ncaj zoo xwb / tus ntoo khaublig yog ib qho kev swb uas tu siab.”",
+   "t": "Yexus tshaj tias nws yog Vajtswv nws tus kheej (Yauhas 8:58), thiab tus ntoo khaublig tsis yog ib qho xwm txheej tshwm sim lossis kev swb tiamsis yog txojkev hlub uas npaj tseg. Nws tsis raug yuam coj mus; nws muab nws txojsia tso tseg nws tus kheej (Yauhas 10:18). “Tsis muaj txojkev hlub loj dhau txoj no lawm, yog qhov uas ib tug tso txojsia this nws cov kwvluag” (Yauhas 15:13)."
+  },
+  {
+   "w": "“Pawg ntseeg yog ib pab neeg zoo tsis muaj chaw thuam, lossis tsuas yog ib lub tsev xwb.”",
+   "t": "Pawg ntseeg tsis yog ib pab “cov dawb huv uas zoo tag lawm” tiamsis yog ib pab <b>neeg muaj txim uas raug zam txim</b>. Txawm yog tus tubtxib Povlauj los hais txog nws tus kheej tias, “Hauv cov neeg muaj txim ntawd kuv yog tus thawj” (1 Timaute 1:15). Pawg ntseeg thaum ub kuj sib cav thiab dawm taw thiab (Tubtxib Tes Haujlwm 6:1; 1 Khaulee 1:11). Nws tsis yog ib qho chaw los khav, tiamsis yog cov neeg uas xa txojkev hlub uas lawv tau txais mus (Yauhas 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Kev txhaum tseej — tsis muaj ib tug ncaj ncees",
+   "body": "Qhov teeb meem tsis yog “ob peb yam haujlwm phem” tiamsis yog lub hauv paus ntawm lub plawv. Txij Adas los, txhua tus yug los nyob hauv kev txhaum thiab cawm tsis tau lawv tus kheej cuag Vajtswv.",
+   "vref": "Loos 3:10-12, 23",
+   "vtext": "Tsis muaj ib tug ncaj ncees, tsis muaj ib tug kiag li … rau qhov txhua tus puavleej muaj txim thiab poob ntawm Vajtswv lub hwjchim ci ntsa iab lawm."
+  },
+  {
+   "title": "Txoj kevcai cawm tsis tau kuv",
+   "body": "Txoj kevcai tsis yog ib tug ntaiv tiamsis yog ib daim iav ntsejmuag. Koj siv zog npaum twg los, nws qhia tias koj poob qis npaum li cas. Nws lub hom phiaj yog coj peb mus rau Khetos.",
+   "vref": "Loos 3:20 · Kalatia 3:24",
+   "vtext": "txoj kevcai ntawd qhia kom peb paub txog lub txim xwb … Txoj kevcai thiaj ua tus uas kav peb mus txog thaum Khetos los."
+  },
+  {
+   "title": "Los ntawm txojkev hlub — ib qho khoom plig, tsis yog kev siv zog",
+   "body": "Txojkev cawm dim tsis yog tus nqi them rau tej koob meej uas koj khwv tau, tiamsis yog ib qho khoom plig dawb rau cov uas tsis tsim nyog. Yog li ntawd tsis muaj leejtwg khav tau.",
+   "vref": "Efexau 2:8-9",
+   "vtext": "Rau qhov nej dim, yog los ntawm txojkev hlub vim yog nej ntseeg … tsis yog tau ntawm qhov uas xyaum xwv thiaj tsis muaj leejtwg khav tau."
+  },
+  {
+   "title": "Raug suav tias ncaj ncees vim kev ntseeg",
+   "body": "Tsis yog vim coj raws txoj kevcai, tiamsis vim ntseeg Yexus Khetos, koj thiaj raug suav tias ncaj ncees — tsis hnav koj tus kheej txojkev ncaj ncees tiamsis hnav nws li.",
+   "vref": "Loos 5:1 · Kalatia 2:16",
+   "vtext": "twb yog vim peb raug suav tias ncaj ncees vim yog qhov uas ntseeg … tsis muaj leejtwg raug suav tias ncaj ncees vim xyaum raws li txoj kevcai, tiamsis yog vim ntseeg Yexus Khetos."
+  },
+  {
+   "title": "Phau Vajluskub taw rau Yexus",
+   "body": "Phau Vajluskub tsis yog ib phau ntawv txog cov neeg loj lossis ib phau ntawv pab yus tus kheej. Txij Chiv Keeb mus txog Qhia Tshwm, txhua nplooj ntawv ua timkhawv txog tib tug — Yexus Khetos.",
+   "vref": "Yauhas 5:39 · Luka 24:27",
+   "vtext": "Txojlus ntawd kuj ua timkhawv txog kuv … Yexus txawm txhais Vajtswv txojlus txhua nqe uas ntsig txog nws."
+  },
+  {
+   "title": "Vajtswv lub tebchaws — Yexus lo lus nruab nrab",
+   "body": "Lub ncauj lus uas Yexus qhia ntau tshaj. Vajtswv kev kav ua vajntxwv tawg los rau hauv lub ntiajteb no nrog Yexus thiab yuav tiav thaum nws rov los. Los ntawm nws tus ntoo khaublig thiab kev ciaj sawv, Yexus yog tus vajntxwv tseeb uas kov yeej kev txhaum, kev tuag, thiab Xatas.",
+   "vref": "Malakau 1:15",
+   "vtext": "Puv lub sijhawm lawm, thiab Vajtswv lub tebchaws los ze lawm, cia li ntxeev dua siab tshiab thiab ntseeg txoj xov zoo."
+  },
+  {
+   "title": "Txoj xov zoo — nws ua tiav txhua yam",
+   "body": "Tus nqi kev txhaum uas kuv yeej them tsis tau, Yexus them this kuv saum tus ntoo khaublig, thiab los ntawm kev ciaj sawv nws kov yeej kev tuag. Kuv tsis tso siab rau “cia li ua qhov no” tiamsis rau “tiav lawm lauj.”",
+   "vref": "Yauhas 19:30 · Loos 5:8",
+   "vtext": "Tiav lawm lauj! … thaum peb tseem ua neeg muaj txim Khetos tuag this peb."
+  }
+ ]
+}
