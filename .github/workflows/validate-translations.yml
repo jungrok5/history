@@ -1,0 +1,76 @@
+name: Validate translations
+
+# 번역 PR 자동검증: 바뀐 i18n 언어만 골라 구조/인용을 점검한다.
+#  · validate (오프라인·결정적) = 게이트: 구조·s키·HTML·film-free·자국숫자·APP_JS
+#  · verify-verbatim / verify-inline (bible.com fetch) = 정보성: 인용 verbatim 대조
+#    (네트워크 의존이라 실패해도 머지를 막지 않음. 신규 언어는 아직 index.html 미통합이라 건너뜀)
+#  · verify-prose 는 Google 번역 의존(불안정)이라 CI 제외 — 관리자 수동 triage.
+
+on:
+  pull_request:
+    paths:
+      - 'i18n/**.json'
+      - 'index.html'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 변경된 언어 코드 추출
+        id: changed
+        run: |
+          base='${{ github.event.pull_request.base.sha }}'
+          codes=$(git diff --name-only "$base" HEAD -- 'i18n/*.json' \
+            | sed -E 's#^i18n/(.+)\.json$#\1#' | sort -u | tr '\n' ' ')
+          echo "codes=$codes" >> "$GITHUB_OUTPUT"
+          echo "## 번역 검증 / Translation validation" >> "$GITHUB_STEP_SUMMARY"
+          echo "변경된 언어 / Changed languages: \`${codes:-(none)}\`" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: 구조 검증 (validate — 게이트 / gate)
+        if: steps.changed.outputs.codes != ''
+        run: |
+          fail=0
+          echo "### validate (구조·키·HTML·film-free)" >> "$GITHUB_STEP_SUMMARY"
+          for c in ${{ steps.changed.outputs.codes }}; do
+            echo "::group::validate $c"
+            if node .claude/skills/add-language/lib/validate.mjs "$c"; then
+              echo "- ✅ \`$c\`" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "- ❌ \`$c\`" >> "$GITHUB_STEP_SUMMARY"; fail=1
+            fi
+            echo "::endgroup::"
+          done
+          if [ "$fail" = 1 ]; then
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "구조 검증 실패 — 위 로그의 ✗ 항목을 확인하세요. / Structure check failed; see the ✗ items in the logs." >> "$GITHUB_STEP_SUMMARY"
+          fi
+          exit $fail
+
+      - name: 인용 verbatim 대조 (verify-verbatim + verify-inline — 정보성 / informational)
+        if: steps.changed.outputs.codes != ''
+        continue-on-error: true
+        run: |
+          echo "### 인용 대조 (verify-verbatim · verify-inline) — 참고용" >> "$GITHUB_STEP_SUMMARY"
+          echo "FLAG 는 의역/누락 가능성(절번호·LXX 차이 등 오탐 가능). 관리자가 fetch-verse 로 확인. 신규 언어는 통합 전이라 건너뜀." >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          for c in ${{ steps.changed.outputs.codes }}; do
+            echo "— $c —" >> "$GITHUB_STEP_SUMMARY"
+            node .claude/skills/add-language/lib/verify-verbatim.mjs "$c" 2>&1 | tail -8 >> "$GITHUB_STEP_SUMMARY" || true
+            node .claude/skills/add-language/lib/verify-inline.mjs "$c" 2>&1 | tail -8 >> "$GITHUB_STEP_SUMMARY" || true
+          done
+          echo '```' >> "$GITHUB_STEP_SUMMARY"

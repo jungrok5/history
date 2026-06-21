@@ -77,6 +77,12 @@ Open an [issue](../../issues) if you have questions.
 
 ---
 
+## 🤖 자동 검증 · Automated checks
+PR을 열면 GitHub Action이 **바뀐 언어만** 자동 점검합니다 — 구조·키·HTML·민감주제(게이트)와 인용 verbatim 대조(참고용). 통과 못 해도 겁먹지 마세요; 관리자가 함께 봅니다.
+*When you open a PR, a GitHub Action auto-checks only the changed languages — structure/keys/HTML (gate) and Bible-quote verbatim (informational). Don't worry if it isn't all green; the maintainer reviews with you.*
+
+---
+
 ## 🔑 언어 코드 찾기 · Finding your language code
 
 이 프로젝트는 브라우저·Unicode CLDR·YouVersion이 쓰는 표준 코드(**BCP-47 = ISO 639**)를 그대로 씁니다. 파일 이름이 `i18n/<코드>.json` 이므로 코드를 정확히 골라야 합니다.
