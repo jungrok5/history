@@ -328,13 +328,10 @@ function ldBlock({ name, desc, url, code, s }){
   return '<script type="application/ld+json">\n' + JSON.stringify({ '@context':'https://schema.org', '@graph': graph }) + '\n</script>';
 }
 
-// ---- OG 이미지 생성 ----
-function ogSvg(m){
-  const ft = FONT_TITLE[m.code] || DEFAULT_TITLE;
-  const fs2 = FONT_SUB[m.code] || DEFAULT_SUB;
-  const tlen = [...m.brand].length;
-  const tsize = tlen>26?44 : tlen>20?52 : tlen>14?60 : 70;
-  const ls = ['ar','hi','th','ne','my','km','ur','bn','si','lo','fa','ta','pa','te','mr','am','ml','gu','or','kn','sd','ckb','ti','as','ug'].includes(m.code) ? 0 : 6; // 자모 결합 스크립트는 자간 0
+// ---- OG 이미지 생성 (단일 공용·언어 중립: 십자가 도형 + 도메인만) ----
+// 언어별 og-<code>.png 는 생성/커밋하지 않음(git 비대화 방지). 어느 언어에도 안 어긋나게 1장만.
+// 십자가는 폰트 의존 없이 도형(rect)으로, 텍스트는 도메인(라틴)만 → 어떤 빌드 환경에서도 동일.
+function neutralOgSvg(){
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>
     <radialGradient id="g1" cx="50%" cy="-5%" r="75%"><stop offset="0%" stop-color="#e9b949" stop-opacity="0.20"/><stop offset="60%" stop-color="#e9b949" stop-opacity="0"/></radialGradient>
@@ -343,24 +340,23 @@ function ogSvg(m){
   <rect width="1200" height="630" fill="#0e1118"/>
   <rect width="1200" height="630" fill="url(#g1)"/>
   <rect width="1200" height="630" fill="url(#g2)"/>
-  <text x="600" y="180" text-anchor="middle" font-family="${DEFAULT_TITLE}" font-size="64" fill="#e9b949">✝</text>
-  <text x="600" y="262" text-anchor="middle" font-family="${fs2}" font-weight="bold" font-size="28" letter-spacing="${ls}" fill="#e9b949">${xml(m.kicker)}</text>
-  <text x="600" y="${360+(70-tsize)/2}" text-anchor="middle" font-family="${ft}" font-weight="bold" font-size="${tsize}" fill="#f4efe6">${xml(m.brand)}</text>
-  <text x="600" y="560" text-anchor="middle" font-family="${DEFAULT_SUB}" font-size="26" fill="#9aa3b2">one-scroll-bible.com</text>
+  <g fill="#e9b949">
+    <rect x="585" y="170" width="30" height="200" rx="6"/>
+    <rect x="538" y="226" width="124" height="30" rx="6"/>
+  </g>
+  <text x="600" y="460" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="48" fill="#f4efe6">one-scroll-bible.com</text>
 </svg>`;
 }
 let imgOK = 0, imgSkip = 0;
-// 단일 공용 OG 이미지(og.png) — 모든 언어가 공유. 언어별 제목/설명은 각 페이지 meta 태그에 박힘.
-// 언어별 og-<code>.png 는 더 생성/커밋하지 않음(git 비대화 방지). 영어 중립 카피로 1장만 생성.
 function buildSharedOG(){
   const out = `${root}/og.png`;
   const tmp = `/tmp/og-shared.svg`;
   try{
-    fs.writeFileSync(tmp, ogSvg({ code:'en', brand: EN.brand, kicker: EN.kicker }));
+    fs.writeFileSync(tmp, neutralOgSvg());
     execSync(`rsvg-convert -w 1200 -h 630 "${tmp}" -o "${out}"`, { stdio:'ignore' });
     imgOK++;
   }catch(e){
-    // rsvg-convert/폰트가 없는 환경(예: Vercel 빌드·Windows)에서는 건너뛰고 커밋된 og.png 를 그대로 사용
+    // rsvg-convert/폰트 없는 환경(Vercel·Windows)에서는 건너뛰고 커밋된 og.png 사용
     imgSkip++;
   }
 }
@@ -387,7 +383,7 @@ const HREF = hreflangBlock();
 // ---- 페이지 생성 ----
 function makePage(m){
   const url = `${ORIGIN}/${m.code}/`;
-  const img = `${ORIGIN}/og.png`; // 단일 공용 OG 이미지(언어 무관). 언어별 제목/설명은 meta 태그로 처리.
+  const img = OG_URL; // 단일 공용 OG(언어 무관) + ?v=해시 캐시버스팅. 언어별 제목/설명은 meta 태그로 처리.
   let h = src;
   h = h.replace('<html lang="ko">', `<html lang="${m.code}" dir="${m.dir}">`);
   // 템플릿의 기존 hreflang 제거(중복 방지) — 아래에서 한 벌만 다시 주입
@@ -428,6 +424,11 @@ function makePage(m){
 
 buildIcons();
 buildSharedOG();
+// OG 이미지 캐시 버스팅: og.png 내용 해시를 og:image URL 에 ?v= 로 부착.
+// (og.png 는 immutable·1년 캐시 + 고정 파일명이라, 내용이 바뀌어도 URL 이 같으면 카톡·텔레그램·
+//  브라우저가 옛 이미지를 계속 씀 → 해시로 URL 을 바꿔 강제 갱신. og.png 생성 후 계산해야 일치.)
+const OG_VER = (()=>{ try { return crypto.createHash('sha1').update(fs.readFileSync(`${root}/og.png`)).digest('hex').slice(0,8); } catch { return ''; } })();
+const OG_URL = `${ORIGIN}/og.png${OG_VER ? `?v=${OG_VER}` : ''}`;
 let generated = [];
 for (const L of LANGS) {
   if (L.code === 'ko') continue; // ko는 루트(index.html)
@@ -446,6 +447,9 @@ if (!rootHtml.includes('hreflang=')) {
 const koS = {}; for (const k of ['faq.q1','faq.a1','faq.q2','faq.a2','faq.q3','faq.a3']) koS[k] = getInner(src, k);
 rootHtml = rootHtml.replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>/,
   ldBlock({ name: KO.brand, desc: KO.desc, url: `${ORIGIN}/`, code: 'ko', s: koS }));
+// 루트 og:image/twitter:image 도 버전(?v=) 부착 — 캐시 버스팅
+rootHtml = rootHtml.replace(/(<meta property="og:image" content=")[^"]*(")/, `$1${OG_URL}$2`);
+rootHtml = rootHtml.replace(/(<meta name="twitter:image" content=")[^"]*(")/, `$1${OG_URL}$2`);
 if (rootHtml !== src) fs.writeFileSync(`${root}/index.html`, rootHtml);
 
 // ---- sitemap.xml ----
