@@ -5,7 +5,7 @@
 ## 프로젝트
 **한눈에 보는 성경 이야기 (Bible in One Scroll)** — 창조→타락→…→교회→회복(재림)까지 성경 전체 구속사를 모바일 스크롤 단일 페이지로 전하고, 복음 이해→**영접 기도**로 이어지게 하는 사이트.
 - 라이브: **https://one-scroll-bible.com/**
-- 저장소: `jungrok5/history`
+- 저장소: `jungrok5/one-scroll-bible` (구 `jungrok5/history` — 2026-06-21 개명, 옛 URL은 GitHub 리다이렉트)
 - 사용자 작업 언어: **한국어**
 
 ## 콘텐츠 관점 (모든 수정의 기준 — 반드시 준수)
