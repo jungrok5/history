@@ -8,7 +8,7 @@ description: "Add a new language to the site (Bible in One Scroll) with nothing 
 Procedure to add one language **with nothing missed**. Helpers live in
 `.claude/skills/add-language/lib/` (validate · audit-links · integrate · make-qr · convert-digits ·
 fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review-prompt · config.example.json).
-**Run every command from the repo root.**
+**Run every command from the repo root.** **Setup (once):** `npm install` (installs `qrcode` for make-qr). The repo is LF-normalized via `.gitattributes`, so these Node tools run identically on Windows and Linux.
 
 > Core principle (CLAUDE.md): evangelical · Reformed redemptive-historical view. Scripture is quoted
 > **verbatim from each language's official translation**. For every language except ko, FAQ q3/a3 must

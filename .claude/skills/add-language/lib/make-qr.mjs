@@ -13,7 +13,7 @@ let QR;
 for (const base of ['/tmp/qrgen/node_modules/qrcode', 'qrcode', path.join(root, 'node_modules/qrcode')]) {
   try { QR = require(base); break; } catch {}
 }
-if (!QR) { console.error("qrcode 모듈 없음 → 실행: mkdir -p /tmp/qrgen && cd /tmp/qrgen && npm i qrcode"); process.exit(2); }
+if (!QR) { console.error("qrcode 모듈 없음 → repo 루트에서 'npm install' 실행 후 재시도 (package.json devDependencies 에 qrcode 있음)"); process.exit(2); }
 
 const out = path.join(root, `qr-${code}.png`);
 QR.toFile(out, `https://one-scroll-bible.com/${code}/`,

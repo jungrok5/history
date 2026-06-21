@@ -32,7 +32,7 @@
 ### C · Claude / AI로 — 가장 빠름
 [Claude](https://claude.ai) / [Claude Code](https://www.claude.com/product/claude-code)를 쓰면, 번역 초안부터 **성경 인용 verbatim 검증**까지 Claude가 해줍니다 — 이 사이트를 만든 방식 그대로입니다. 스킬과 검증 도구는 이미 리포 안에 있고(`.claude/skills/add-language/`), Node.js + Claude Code만 있으면 됩니다.
 
-1. 리포를 포크·클론하고 **Claude Code로 엽니다.**
+1. 리포를 포크·클론하고 **Claude Code로 엽니다.** 처음 한 번 `npm install` 실행(qrcode 도구 설치).
 2. 아래 프롬프트를 붙여넣습니다 (빈칸 두 개만 채우세요):
 
    > **«언어명»** 을 `/add-language` 스킬로 이 사이트에 추가해줘.

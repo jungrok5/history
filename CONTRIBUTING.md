@@ -32,7 +32,7 @@ Everything below is just *how*.
 ### C · With Claude / AI — fastest
 If you use [Claude](https://claude.ai) / [Claude Code](https://www.claude.com/product/claude-code), it can draft the translation **and verify every Bible quote verbatim** — exactly how this site is built. The skill and tools already live in the repo (`.claude/skills/add-language/`); you only need Node.js + Claude Code.
 
-1. Fork & clone the repo, open it in Claude Code.
+1. Fork & clone the repo, open it in Claude Code, and run `npm install` once (installs the `qrcode` dev tool).
 2. Paste this prompt (fill the two blanks):
 
    > Add **«language name»** to this site using the `/add-language` skill.

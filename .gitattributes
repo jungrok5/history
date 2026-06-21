@@ -1,0 +1,16 @@
+# Always use LF line endings in the repo AND in the working tree (Windows included).
+# The Node tooling (integrate.mjs, build-pages.mjs, verify-*.mjs) assumes LF; CRLF
+# breaks their regexes and the sw.js content-hash. This keeps Windows and Linux identical.
+* text=auto eol=lf
+
+# Binary assets — never line-ending-normalize.
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.webp  binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.otf   binary

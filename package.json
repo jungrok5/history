@@ -1,0 +1,12 @@
+{
+  "name": "one-scroll-bible",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bible in One Scroll — static page generator + add-language skill tooling.",
+  "scripts": {
+    "build": "node tools/build-pages.mjs"
+  },
+  "devDependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
