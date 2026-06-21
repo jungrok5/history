@@ -116,7 +116,9 @@ Languages without a full OT are still added: NT quotes verbatim; OT key verses s
 banner + `s["respond.read"]` (John button). First case = **ff (Fula)**.
 
 ## Current status
-~127 languages (126 full + 1 partial = ff), ~90% population reach. The long-term goal (see README) is
+100+ languages (mostly full mode + a few partial like ff), ~90% population reach. The exact count is
+auto-derived on the site from `LANGS` (build-pages fills the meta) — don't hand-maintain a number here.
+The long-term goal (see README) is
 every living language (~7,396). Most languages with 5M+ speakers and a full YouVersion OT are done; the
 remaining large ones generally lack a full OT on YouVersion. Excluded for lack of a usable
 YouVersion text edition (recorded so we don't retry): ky, tet, kmr, mg, ps, et, yue, bm, bho (audio-only — no text).

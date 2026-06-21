@@ -19,7 +19,7 @@ If a paper tract summarizes the gospel in four pages, this site holds **the whol
 ## The vision — every people group in its mother tongue
 There are about **7,396 living languages**. Our goal is this "big picture of the Bible + gospel on-ramp" in **all of them**.
 
-- **Language progress: ~127 / 7,396** (the live 🌐 menu has the full list)
+- **Language progress: 100+ of ~7,396 living languages** (the live 🌐 menu shows the exact, current count)
 - **Population reach: ~90%** (we started with the largest languages) — *9 in 10 people can read it in their own language*
 - The remaining ~7,270 are the long tail; many do not yet have a complete Bible (OT + NT).
 
@@ -33,8 +33,8 @@ Where there is no complete Bible we don't simply wait. A **partial mode** — *v
 - **The heart of the gospel** — sin / law / grace / justification by faith / the kingdom of God / the gospel; the "mirror" (Israel = me); **"because of me"** (the cross); the objection FAQ (fairness / cheap grace / "isn't being a good person enough?"); a **prayer to receive Christ**; and **next steps** (keep praying · read the Bible · find a nearby church).
 - The threefold office of Christ (true Prophet · Priest · King).
 
-## Languages (~127)
-The site auto-detects the browser/OS language and lets you switch via the 🌐 search at top right. It supports Korean, English, Chinese (Simplified/Traditional), Japanese, Spanish, Portuguese, French, German, Russian, Arabic, Hindi and **~127 languages across Europe, Asia, Africa, the Pacific and Latin America** (full list in the site's 🌐 menu).
+## Languages
+The site auto-detects the browser/OS language and lets you switch via the 🌐 search at top right. It supports Korean, English, Chinese (Simplified/Traditional), Japanese, Spanish, Portuguese, French, German, Russian, Arabic, Hindi and **100+ languages across Europe, Asia, Africa, the Pacific and Latin America** (the site's 🌐 menu has the exact, current list).
 
 Scripture uses each language's representative official translation — Korean Revised Version, ESV, 和合本, 新共同訳, RVR1960, Almeida, Louis Segond, Lutherbibel, Синодальный, Van Dyck, Tanakh (Delitzsch), Огієнко and more. Tapping a reference opens that language's Bible (mostly [YouVersion](https://www.bible.com)).
 

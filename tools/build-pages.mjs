@@ -450,6 +450,8 @@ rootHtml = rootHtml.replace(/<script type="application\/ld\+json">[\s\S]*?<\/scr
 // 루트 og:image/twitter:image 도 버전(?v=) 부착 — 캐시 버스팅
 rootHtml = rootHtml.replace(/(<meta property="og:image" content=")[^"]*(")/, `$1${OG_URL}$2`);
 rootHtml = rootHtml.replace(/(<meta name="twitter:image" content=")[^"]*(")/, `$1${OG_URL}$2`);
+// 지원 언어 수는 LANGS.length 에서 자동 도출 — 메타 설명의 하드코딩 카운트 수동관리 제거
+rootHtml = rootHtml.replace(/\d+개 언어 지원/, `${LANGS.length}개 언어 지원`);
 if (rootHtml !== src) fs.writeFileSync(`${root}/index.html`, rootHtml);
 
 // ---- sitemap.xml ----
