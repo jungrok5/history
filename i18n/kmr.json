@@ -1,0 +1,344 @@
+{
+ "menuName": "Kurmancî",
+ "htmlLang": "kmr",
+ "dir": "ltr",
+ "brand": "Mizgînî di Yek Pelê de",
+ "docTitle": "Mizgînî di Yek Pelê de · Ji Afirandinê heta Civatê",
+ "share": {
+  "title": "Mizgînî di Yek Pelê de",
+  "text": "Di yek pelê de, çîroka mezin a Mizgîniyê — û çima Îsa hat — kifş bike."
+ },
+ "ui": {
+  "people": "Kes",
+  "events": "Bûyerên girîng",
+  "christLabel": "Ber bi Îsa ve",
+  "loveLabel": "Hezkirina ku dest jê bernade",
+  "mythWrong": "Şaşfêmkirineke berbelav",
+  "mythRight": "Rastî",
+  "more": "Bêtir bixwîne",
+  "version": "(KURNT)"
+ },
+ "labels": {
+  "start": "Destpêk",
+  "thread": "Çîrok",
+  "gospel": "Mizgînî",
+  "about": "Derbar"
+ },
+ "s": {
+  "ui.share": "↗ Parve bike",
+  "ui.toast": "Girêdan hat jêgirtin 📋",
+  "ui.footer": "Mizgînî di Yek Pelê de · Jêgirtinên Nivîsara Pîroz ji KURNT",
+  "hero.kicker": "JI AFIRANDINÊ HETA CIVATÊ",
+  "hero.title": "Mizgînî,<br><span class=\"em\">di yek pelê de</span>",
+  "hero.sub": "Di yek pelê de, çîroka mezin a Mizgîniyê — û çima Îsa hat — kifş bike.",
+  "hero.cue": "Berjêr here<span>↓</span>",
+  "thread.eyebrow": "HEVOKEK KU HEMÛYÊ BI HEV VE GIRÊ DIDE",
+  "thread.h2": "Di dawiyê de, Mizgînî tenê yek çîrok e",
+  "thread.flow": "<b>Soz</b><span class=\"arw\">→</span><b>Hêvîmayîn</b><span class=\"arw\">→</span><b>Pêkhatin</b>",
+  "thread.note": "Xwedê <b>soz dide</b> (peyman), gel demeke dirêj <b>li bendê dimîne</b>, û di dawiyê de her tişt di Îsa de <b>pêk tê</b> û temam dibe. 13 dîmenên jêrîn li gor vê herikînê bişopîne — li ser her kartê <b>«Bêtir bixwîne»</b> bitikîne ji bo çîroka kûrtir.",
+  "gospel.eyebrow": "EV ÇÎROK JI BO «MIN» ÇI WATEYÊ DIDE",
+  "gospel.h2": "Dilê rastîn ê Mizgîniyê",
+  "gospel.lead": "Mizgînî <b>ne pirtûkeke ders e ya «mirovekî baş bûnê.»</b>",
+  "gospel.sublead": "Ew çîroka wê ye ku çawa Xwedê, <b>tenê bi keremê</b>, gunehkarên ku tu carî nikaribûn xwe xilas bikin rizgar kir. Di navenda wê de Îsa Mesîh radiweste.",
+  "gospel.mirror": "<h3>Çerxa bêdawî ya Îsraêl bi rastî wêneyê «min» e</h3><div class=\"cycle\"><b>Pûtperestî</b><span class=\"a\">→</span><b>Êş</b><span class=\"a\">→</span><b>Hawar</b><span class=\"a\">→</span><b>Xwedê rizgar dike</b><span class=\"a\">→</span><b>Dîsa pûtperestî…</b></div><p>Ji Dadgeran heta sirgûnê, Îsraêl vê çerxê bê dawî dubare dike. Mizgîniyê ev tomar nekir da ku em bi tinazî bibêjin: «Çiqas reben bûn ew.»</p><p>Ew <b>neynikek</b> e. Mesele ne «Îsraêl wisa kir» e, lê <b>«ez jî heman tiştî dikim»</b> (1 Korîntî I 10:11).</p><p><b>Pût</b> ne tenê peykerekî tahtkirî ye. Ew <b>her tiştê ku em ji Xwedê bêtir jê hez dikin an pê bawer dikin</b> e — pere, serfirazî, pejirandin, mirov, heta ez bi xwe. Û bikaranîna Xwedê wek <b>amûrekê ji bo bidestxistina daxwazên min</b> jî pûtperestî ye.</p><p class=\"punch\">Di dawiyê de, pûtê herî kûr «ez bi xwe me, ku li ser textê Xwedê rûniştime.»</p>",
+  "gospel.coreIntro": "Îcar Xwedê çawa gunehkarekî wisa xilas dike? Va ye dilê wê Mizgîniyê ku Nivîsara Pîroz radigihîne.",
+  "gospel.crux": "<p class=\"crux-lead\">Tevahiya Mizgîniyê ber bi yek cihî ve nîşan dide.</p><p>Mirov nikaribû bi serê xwe çerxa gunehê bişkîne, û tu kes rast nebû. Loma diviya kesek <b>bihayê li şûna wan bide</b>.</p><p>Îsa ne tenê hat ku hînkirinên baş bide. Bê ku rêyeke din hebûya ku min xilas bike, <b>çareyeke wî ji hatinê pê ve tunebû.</b></p><p class=\"crux-punch\">Yê ku diviya li ser wî xaçê dardakirî bûya <b>ez</b> bûm.<br>Îsa <b>gunehê min</b> hilgirt û li şûna min li wir hat mîxkirin.</p><div class=\"crux-verse\">«Lê ew ji ber neheqiyên me birîndar bû, ji ber sûcên me perçiqî … me bi birînên wî şifa dît.» — Îşaya 53:5</div>",
+  "faq.h": "Hîn jî tiştek heye ku te aciz dike?",
+  "faq.q1": "<span class=\"arr\">▸</span> Wê demê mêrkujek tenê bawer dike û diçe bihiştê, lê kesê ku tevahiya jiyana xwe baş jiya û bawer nake diçe dojehê?",
+  "faq.a1": "<p>Pirseke maqûl e. Lê du şaşfêmkirin di nav wê de veşartî ne.</p><p><b>① Mizgînî mirovan li «baş û xerab» dabeş nake.</b> Pîvan ne «ji yê li tenişta xwe çêtir» e, lê «pîrozahiya bêkêmasî ya Xwedê» ye. Li ber wî, tu kes ne «têra xwe baş» e (Romayî 3:23). Loma ev ne «mirovekî baş li hember mêrkujekî» ye, lê bêtir mîna du kesên bi heman nexweşiya kujende ye — yek dermên distîne, yê din red dike û dibêje: «Ez ji wî saxlemtir im.»</p><p><b>② Tenê yek tişt bihişt û dojehê ji hev cuda dike.</b> Ne nimreya kiryaran, lê <b>ka te Îsa Mesîh wek Xudan qebûl kiriye û meseleya gunehê te hatiye çareserkirin yan na.</b> Yê ku gunehê wî bi xwîna Mesîh hatiye çareserkirin diçe bihiştê; yê ku tu carî ew qebûl nekir û gunehê wî dimîne, naçe. Ti qencî bi qasî xwe nikare wê meseleya gunehê bi xwe çareser bike.</p><p>Loma bihişt û dojeh ne «xelateke ji bo kiryarên baş» in, lê meseleyeke <b>têkiliyê bi Mesîh re</b> ye. Û «bawerî» ne razîbûna hişî ye, lê guhertina yê ku jiyana te dimeşîne — her kesê ku bi rastî ew qebûl dike pozbilind nabe, lê herî kûr tobe dike. Bi rastî, xwerastderxistin («ez mirovekî baş im») pûtê herî dijwar e ku bê şkandin, ew ku me dide bawerkirin ku em ne hewceyî Mesîh in (Lûqa 18:9-14).</p><p>Mizgînî bi eşkereyî dibêje: <b>«Yê ku baweriyê bi wî tîne, sûcdar nayê derxistin; lê yê ku baweriyê nayne, ji xwe sûcdar bûye»</b> (Yûhenna 3:18). Dîwan ne «nimredayîna kiryarên te piştî ku tu mirî» ye, lê jixwe li gor <b>ka te Mesîh qebûl kir</b> hatiye biryardan.</p><p class=\"faq-v\">Romayî 3:23 · Yûhenna 3:18 · Efesî 2:8-9 · Lûqa 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Ma ez nikarim tenê jiyaneke baş bijîm bê ku bi Îsa bawer bikim?",
+  "faq.a2": "<p>Ev ramana herî berbelav e, lê şaşfêmkirina wê heye ka pirsgirêka rastîn çi ye. Va ye wêneyek.</p><p><b>Bifikire ku tu li ser keştiyeke korsanan î.</b> Tu çiqasî pal pak bigirî, çiqasî ji ekîbê re dilovan bî, çiqasî jiyana te nimûneyî be — tu hîn jî <b>korsan</b> î, çimkî tu bi keştiyê re ber bi cihê ku diçe (bendera dîwanê) tê birin. Pirsgirêk ne «nimreya kiryarên te» ye, lê <b>«tu girêdayî kîjan keştiyê yî» (nasnameya te)</b> ye.</p><p>Loma Mizgînî nabêje «hîn zêdetir hewl bide ku baş bî»; ew dibêje <b>«keştiyê biguherîne.»</b> Ji keştiya gunehê dakeve û derbasî Îsa bibe — nav nasnameya nû ya <b>zarokê Xwedê</b>. Ev ne bilindkirina nimreya te bi hewldanê ye, lê baweriya bi Yê ku destê xwe dirêj dike û derbasbûna nav keştiya wî ye.</p><p>Bi rastî Mizgînî xilasiyê tam wek vê derbasbûnê pênase dike — <b>«Wî em ji desthilatiya tariyê rizgar kirin û em derbasî Padîşahiya Kurê xwe yê hezkirî kirin»</b> (Kolosî 1:13).</p><p>Şaş fêm neke: <b>ev nayê wê wateyê ku jiyaneke baş bêwate ye.</b> Qencî ne «mercê» xilasiyê ye, lê <b>fêkiyê</b> wê ye. Yê ku keştî guhertiye niha baş dijî, ne ji tirsê, lê ji hezkirina zarokek.</p><p class=\"faq-v\">Kolosî 1:13 · Yûhenna 1:12 · Yûhenna 3:3 · Efesî 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Heke sûcdarek bi hêmnî bibêje «Xwedê min efû kir» û di aştiyê de bijî, lê qurban hîn jî dikişîne — ma ev kerem ne pir erzan e?",
+  "faq.a3": "<p>Pirs maqûl e, û ew êş rastîn e. Lê îdîayeke wisa ne «efûya Mizgîniyê» ye — ew <b>xerakirineke</b> wê ye.</p><p><b>① Efûya Xwedê tu carî ne erzan e.</b> Guneh ne wek ku «qet nebû» tê veşartin; Xwedê bi xwe bihayê wê bi jiyana Kurê xwe da. Xaç ne delîla wê ye ku guneh sivik tê girtin, lê wê ye ku guneh çiqasî giran e — efûya herî biha ya dinyayê.</p><p><b>② Tobeya rastîn fêkî dide.</b> Heke sûcdarek li ber qurban pozbilind be — «Xwedê min efû kir, loma ez di aştiyê de me» — ew ne tobe ye, lê teqlîda wê ye (Metta 3:8). Û efûya di navbera kesekî û Xwedê de birîna qurban paqij nake û qurban mecbûr nake ku efû bike.</p><p><b>③ Guneh tu carî tenê «nayê berdan.»</b> Her guneh li yek ji du cihan tê dayîn — <b>an Mesîh wê li ser xaçê hildigire</b> (ji bo yên ku pê bawer dikin êdî sûcdarkirin tune, Romayî 8:1), <b>an yê ku heta dawiyê wî red dike bi xwe wê hildigire.</b> Loma «efûya erzan» tune. Sûcdar di vê dinyayê de jî hîn berpirsiyariya qanûnî hildigire (Romayî 13:1-4).</p><p><b>④ Hêstirên qurban tu carî li ber Xwedê ne biçûk in.</b> Xwedê bi yên digirîn re digirî, her hêstirê bibîr tîne, û di dawiyê de wê bi xwe wan paqij bike (Peyxam 21:4). Loma qurban ne hewce ye giraniya heyfê bi tena serê xwe hilgire, lê dikare wê bispêre Xwedayê dadmend (Romayî 12:19 — «Heyfhilanîn ya min e. Xudan dibêje: ‹Ezê bergîdana wê bidim.›»).</p><p class=\"faq-v\">Metta 3:8 · Romayî 8:1 · Romayî 13:1-4 · Peyxam 21:4</p>",
+  "respond.h3": "Îcar — ez çi bikim?",
+  "respond.sub": "Ev hezkirin ne agahî ye lê <b>vexwendinek</b> e. Heke ew hezkirina ku li şûna te hat mîxkirin dilê te destdaye, vê duayê hêdî hêdî, rêz bi rêz bike.",
+  "respond.prayer": "<p>Xwedayê min,</p><p>ez qebûl dikim ku ez gunehkarek im ku nikarim xwe xilas bikim.</p><p>Ez bawer dikim ku Îsa ji bo min li ser xaçê mir û rabû.</p><p>Ji kerema xwe hemû gunehên min efû bike, û ji niha û pê ve bibe Xudanê jiyana min.</p><p>Min wek zarokê xwe qebûl bike, û bihêle ez jiyaneke nû bijîm.</p><p class=\"amen\">Bi navê Îsa ez dua dikim. Amîn.</p>",
+  "respond.after": "Heke te ev bi dilê xwe kir, Mizgînî dibêje ku tu <b>bûyî zarokê Xwedê</b>. Tu êdî ne bi tenê yî — civateke nêzîk bibîne û rêya baweriyê bi hev re bimeşe.",
+  "respond.read": "Mizgîniyê bi xwe bixwîne — bi Yûhenna dest pê bike",
+  "respond.verse": "«Lê hemûyên ku ew qebûl kirin û bawerî bi navê wî anîn, wî desthilatî da wan ku bibin zarokên Xwedê.» — Yûhenna 1:12 · Romayî 10:9-10",
+  "closing.main": "Yek Xwedê,<br>bi yek çîrokê,<br>bi <em>hezkirineke</em> ku tu carî dest jê bernade<br>li dû me tê.",
+  "closing.verse": "«Ne mirin, ne jiyan … ne jî afirînekî din dikare me ji hezkirina Xwedê ya ku bi Xudanê me Mesîh Îsa ye, veqetîne.» — Romayî 8:38-39",
+  "closing.small": "Li ser vê çîrokê, Şerîet, Helbest, Pêxember û Name «goşt» lê zêde dikin.<br>Niha, tu kîjan pirtûkê vekî, tê bibînî ka tu li ku derê çîrokê yî.",
+  "closing.share": "↗ Vê çîrokê parve bike",
+  "about.line": "Li ser bingeha dîtina xilaskariya-dîrokî ya ku piraniya civata Protestan a Koreyî (mizgînîxwaz · Reformkirî) parve dike.",
+  "about.contact": "Pirs · raman — <a id=\"contact\" class=\"mail\">Ji me re binivîse</a>"
+ },
+ "epochs": [
+  {
+   "tag": "PEYMANA KEVIN · DESTPÊK",
+   "title": "Afirandin",
+   "date": "Di destpêkê de",
+   "one": "Xwedê dinyayek çêkir ku «pir baş» bû.",
+   "people": "Xwedê; Adem û Hewa",
+   "events": "Şeş rojên afirandinê, mirovahî li ser sûretê Xwedê, rehetiya Şemiyê",
+   "q": "Di destpêkê de Xwedê erd û ezman afirandin.",
+   "cite": "Destpêk 1:1",
+   "christ": "Dinya bi «Peyvê» hat çêkirin. Mizgîniya Yûhenna radigihîne ku ev Peyv bi xwe Îsa ye (Yûhenna 1:1-3).",
+   "detail": "<p>Mizgînî ne bi nîqaşeke felsefî, lê bi ragihandinekê dest pê dike: <b>«Di destpêkê de Xwedê…»</b> Dinya ne tesadif e, lê karê Xwedayekî kesane ye.</p><ul><li><b>Sûretê Xwedê</b> · ji hemû afirîdan tenê mirov hatiye çêkirin ku dişibe Xwedê — ku wî nas bike û li dinyayê miqate be.</li><li><b>Rehetî</b> · rehetiya roja heftan nîşan dide ku her tişt temam û di aştiyê (şalom) de bû: «baş bû.»</li><li><b>Êden</b> · dinya berî ku bişikê, ku Xwedê û mirov bi hev re dimeşin.</li></ul>",
+   "next": "Lê ev temamî nêzîk e ku bişikê…"
+  },
+  {
+   "tag": "PEYMANA KEVIN · PIRSGIRÊK DEST PÊ DIKE",
+   "title": "Ketin",
+   "date": "Di destpêkê de",
+   "one": "Guneh ket nav, û girêdana di navbera mirov û Xwedê de hat birîn.",
+   "people": "Adem û Hewa; mar (Îblîs)",
+   "events": "Xwarina fêkiyê qedexe, ji Êdenê derxistin, hatina mirin û zehmetiyê",
+   "q": "Ezê dijminatiyê bixim navbera te û jinê … Wê serê te biperçiqîne.",
+   "cite": "Destpêk 3:15",
+   "christ": "Soza ewil a Mizgîniyê, ku rast piştî Ketinê hat dayîn: «ziriyeta jinê» wê serê mar biperçiqîne — û ew Îsa ye (Destpêk 3:15; Romayî 16:20; Galatî 4:4).",
+   "detail": "<p>Bi neguhdariya hewla «mîna Xwedê bûnê», guneh ket nav dinyayê. Encam ne tenê şikandina rêzikekê ye, lê <b>şikandina têkiliyê</b> ye.</p><ul><li><b>Girêdanên şikestî</b> · bi Xwedê re (veşartin), bi hev re (sûcdarkirin), bi xwezayê re (stirî û zehmetî).</li><li><b>Mirin</b> · hişyariya «tê herî teqez bimirî» dibe rastî.</li><li><b>Destpêk 3:15</b> · lê di nav dîwanê de, pêşî soza rizgariyê tê. Zanyar jê re dibêjin <b>protoewangelyûm (mizgîniya ewil)</b>.</li></ul>",
+   "next": "Niha Xwedê mirovekî gazî dike ku rizgariyê dest pê bike…"
+  },
+  {
+   "tag": "PEYMANA KEVIN · SOZ",
+   "title": "Bav-kal",
+   "date": "li dora 2000 B.Z.",
+   "one": "Xwedê soz dide Birahîm: «Tê bibî kaniya bereketê.»",
+   "people": "Birahîm · Îshaq · Aqûb · Ûsiv",
+   "events": "Peymana bi Birahîm re, qurbankirina Îshaq, diwanzdeh kurên Aqûb, hilkişîna Ûsiv li Misrê",
+   "q": "Ezê te bikim miletekî mezin … Wê hemû eşîrên dinyayê bi te pîroz bibin.",
+   "cite": "Destpêk 12:2-3",
+   "christ": "Soza ku «hemû eşîr wê pîroz bibin» di Îsa de, ziriyeta Birahîm, pêk tê (Galatî 3:16).",
+   "detail": "<p>Xwedê dest pê dike ku pirsgirêka tevahiya mirovahiyê çareser bike, bi gazîkirina mirovekî, <b>Birahîm</b>. Dilê wê <b>peyman (soz)</b> e — miletekî mezin, welatek, û «bereket ji bo hemû eşîran».</p><ul><li><b>Bawerî</b> · Birahîm bi soza nedîtî bawer kir, û ev jê re wek rastdarî hat hesibandin (Destpêk 15:6).</li><li><b>Îshaq û Aqûb</b> · soz derbasî nifşê tê; Aqûb (Îsraêl) bavê diwanzdeh eşîran e.</li><li><b>Ûsiv</b> · ji aliyê birayên xwe ve hat firotin lê hilkişiya desthilatiyê — «Xwedê … ev niyet vegerand ser qenciyê» (Destpêk 50:20).</li></ul>",
+   "next": "Li dû Ûsiv, malbat dakeve Misrê — û dibe kole…"
+  },
+  {
+   "tag": "PEYMANA KEVIN · RIZGARÎ",
+   "title": "Derketin û Çol",
+   "date": "li dora 1446 B.Z.",
+   "one": "Xwedê gelekî kole rizgar kir û wan kir gelê xwe.",
+   "people": "Mûsa, Harûn, Firewn",
+   "events": "Deh belayên, Derbasbûn (Pesax), derbasbûna Behra Sor, Deh Emir li Sînayê, konê pîroz, 40 sal li çolê",
+   "q": "Ezê we bikim gelê xwe û bibim Xwedayê we.",
+   "cite": "Derketin 6:7",
+   "christ": "Pesax — ku xwîna berxekî mirin jê dûr xist — ber bi Îsa ve nîşan dide, «Berxê me yê Pesaxê», ku ji bo me hat xaçkirin (1 Korîntî I 5:7).",
+   "detail": "<p>Rizgariya herî mezin a Peymana Kevin. Îsraêla berê kole, bi hêza Xwedê azad dibe û dibe <b>gelê</b> wî.</p><ul><li><b>Pesax</b> · mala ku bi xwîna berxî nîşankirî, mirin jê derbas dibe — şêwaza her qurbana paşê.</li><li><b>Behra Sor</b> · xilasî li cihê ku rê diqede; «derbasbûn» dibe sembola destpêkeke nû.</li><li><b>Peymana Sînayê</b> · bi Deh Emiran fêr dibin ka wek gelê Xwedê çawa bijîn.</li><li><b>Konê pîroz</b> · perestgeheke livok ku Xwedê di nav gelê xwe de dimîne — pêşgirtina «Îmmanûêl».</li><li><b>40 sal</b> · neguhdarî nifşekî li çolê digerîne, lê dîsa jî Xwedê bi men û stûna ewr û agir nêzîk dimîne.</li></ul>",
+   "next": "Li ber welatê soza sekinî, ji bo ketinê amade dibin…"
+  },
+  {
+   "tag": "PEYMANA KEVIN · BICIHBÛN",
+   "title": "Dagirkirin û Dadger",
+   "date": "li dora 1400–1050 B.Z.",
+   "one": "Welat bi dest xistin, lê bê padîşah her kesî tiştê di çavê wî de kir.",
+   "people": "Yêşû; dadgerên wek Gîdeyon û Şemşûn; Rût",
+   "events": "Ketina Erîhayê, bicihbûna li Kenanê, çerxeke dubarbûyî ya guneh–dîwan–rizgarî",
+   "q": "Di wan rojan de … padîşah tunebû. Her kesî tiştê di çavê wan de rast bû, dikir.",
+   "cite": "Dadger 21:25",
+   "christ": "Ji nifşê Rûtê Dawid tê, û ji nifşê Dawid Îsa tê (Metta 1). Heta di nav tevliheviyê de jî, dara malbata Mesîh berdewam dike.",
+   "detail": "<p>Di bin Yêşû de dikevin welatê soza, lê piştî bicihbûnê zû Xwedê ji bîr dikin. Dadger heman şêwaz e ku tê dubarekirin.</p><ul><li><b>Çerxa berjêr</b> · guneh → zordarî → hawar → dadgerek rizgar dike → dîsa guneh. Tenê xerabtir dibe.</li><li><b>Dadger</b> · Gîdeyon, Şemşûn, Debora — rizgarkerên demkî, qehreman lê pir kêmasî.</li><li><b>Rût</b> · çîrokeke ronî ya dilsoziyê di serdemeke tarî de; jineke biyanî dikeve nav nifşê Dawid (û Îsa).</li></ul>",
+   "next": "Gel hawar dike: «Ji me re jî padîşahekî bide!»…"
+  },
+  {
+   "tag": "PEYMANA KEVIN · SERDEMA ZÊRÎN",
+   "title": "Padîşahiya Yekbûyî",
+   "date": "li dora 1050–930 B.Z.",
+   "one": "Xwedê soz dide Dawid: «Textê te wê her û her bidome.»",
+   "people": "Şawil · Dawid · Silêman",
+   "events": "Padîşahê ewil Şawil, Dawid û Golyat, peymana bi Dawid re, avakirina Perestgehê ji aliyê Silêman ve",
+   "q": "Wê mal û padîşahiya te her û her bidomînin. Wê textê te her û her xurt bimîne.",
+   "cite": "Samûêl II 7:16",
+   "christ": "«Textê herheyî» di Îsa de, kurê Dawid, pêk tê — loma jê re «Kurê Dawid» tê gotin (Lûqa 1:32-33; Metta 1:1).",
+   "detail": "<p>Lûtkeya Îsraêl, di bin sê padîşahan de.</p><ul><li><b>Şawil</b> · padîşahê ku gel xwest; destpêkeke baş bi neguhdariyê hat xerakirin.</li><li><b>Dawid</b> · «mirovekî li gor dilê Xwedê.» Golyatî têk dibe û Orşelîmê dike paytext. Gunehekî mezin dike (Bersûbah) lê ji dil tobe dike (Zebûr 51).</li><li><b>Peymana bi Dawid re (Samûêl II 7)</b> · Xwedê soz dide ku rêza Dawid her û her xurt bike — koka biryargir a hêviya Mesîhî.</li><li><b>Silêman</b> · di lûtkeya şehrezayî û dewlemendiyê de <b>Perestgehê</b> ava dike, lê di dawiya jiyana xwe de ber bi pûtan ve dizivire.</li></ul>",
+   "next": "Piştî Silêman, padîşahî dibe du parçe…"
+  },
+  {
+   "tag": "PEYMANA KEVIN · KETIN",
+   "title": "Padîşahiya Dabeşbûyî",
+   "date": "930–586 B.Z.",
+   "one": "Li başûr (Cihûda) û bakur (Îsraêl) dabeş bû, milet ber bi xerabûnê ve diçe.",
+   "people": "Padîşahên her du padîşahiyan; pêxemberên wek Êlyas, Îşaya, Yêremya",
+   "events": "Padîşahî dabeş dibe, pûtperestî belav dibe, pêxember hişyar dikin",
+   "q": "Ji wê rojê vir ve Îsraêl li dijî Mala Dawid serhildêr e.",
+   "cite": "Padîşah I 12:19",
+   "christ": "Di vê serdemê de pêxember Mesîhê ku wê bê her çiqas zelaltir pêşbînî dikin (Îşaya 9:6; Îşaya 53).",
+   "detail": "<p>Di rojên kurê Silêman de milet dabeş dibe: <b>padîşahiya bakur a Îsraêl</b> (10 eşîr, paytext Sameriya) û <b>padîşahiya başûr a Cihûda</b> (2 eşîr, paytext Orşelîm).</p><ul><li><b>Îsraêl (bakur)</b> · her padîşah pûtan diparêze; di 722 B.Z. de dikeve destê Aşûrê.</li><li><b>Cihûda (başûr)</b> · nifşê Dawid berdewam dike, bi çend padîşahên baş wek Hizkiya û Yoşiya, lê bi giştî ber bi ketinê ve diçe.</li><li><b>Pêxember</b> · Êlyas, Amos, Îşaya, Yêremya hawar dikin «vegerin!» Pêxembertiya Mesîhî li vir digihîje cihê herî dewlemend («xulamê cefakêş» ê Îşaya 53).</li></ul>",
+   "next": "Di dawiyê de dîwana ku hatibû hişyarkirin tê — ew sirgûn dibin…"
+  },
+  {
+   "tag": "PEYMANA KEVIN · DÎWAN",
+   "title": "Sirgûn",
+   "date": "722 / 586 B.Z.",
+   "one": "Milet hilweşiya û gel ber bi welatên biyanî ve hat birin.",
+   "people": "Danyêl, Hezekiyêl, Nebûkadnezar",
+   "events": "Îsraêl dikeve destê Aşûrê (722), Cihûda dikeve destê Babîlê û Perestgeh tê hilweşandin (586)",
+   "q": "Em li keviyên çemên Babîlê rûniştin, Me Sîyon bibîr anî û em giriyan.",
+   "cite": "Zebûr 137:1",
+   "christ": "Di kûrahiya bêhêvîtiyê de Yêremya soza «peymaneke nû» dide (Yêremya 31:31) — heman peymana ku Îsa di Şîva Dawî de mor dike.",
+   "detail": "<p>Hişyarî pêk tê. Perestgeh dişewite û gel ber bi Babîlê ve tê birin — welat, padîşah û Perestgehê ji dest didin: xala herî nizm a hemûyan.</p><ul><li><b>Du ketin</b> · Îsraêl (Aşûr, 722 B.Z.) û Cihûda (Babîl, 586 B.Z.).</li><li><b>Danyêl</b> · nimûneya baweriyê heta li seraya pûtperest jî (çala şêran); dîtinên «padîşahiyeke herheyî» ya ku wê bê dibîne.</li><li><b>Çirûskeke hêviyê</b> · dîtina Hezekiyêl a hestiyên ziwa yên ku vedijîn (Hezekiyêl 37) û «peymana nû» ya Yêremya ber bi pêşerojekê ve di tariyê de nîşan didin.</li></ul>",
+   "next": "Heftê sal şûnde, Xwedê rê vedike — ew vedigerin malê…"
+  },
+  {
+   "tag": "PEYMANA KEVIN · VEGER",
+   "title": "Veger",
+   "date": "538–430 B.Z.",
+   "one": "Vedigerin û Perestgeh û sûran ji nû ve ava dikin.",
+   "people": "Ezra, Nehemya, Êster, Zerûbabel",
+   "events": "Veger bi fermana Kûreş, avakirina Perestgehê ji nû ve, başkirina sûrên Orşelîmê, vegerandina Peyvê",
+   "q": "Hêza we şahiya Xudan e.",
+   "cite": "Nehemya 8:10",
+   "christ": "Melaxî, pirtûka dawî ya Peymana Kevin, bi pêşbîniya qasidekî ku rêya Mesîh amade dike diqede: «Va ye ez qasidê xwe dişînim» (Melaxî 3:1).",
+   "detail": "<p>Bi fermana padîşahê Faris Kûreş (538 B.Z.) veger dest pê dike. Di sê pêlan de vedigerin û tiştê hilweşiyayî ji nû ve ava dikin.</p><ul><li><b>Zerûbabel</b> · Perestgehê ji nû ve ava dike (di 516 B.Z. de qediya).</li><li><b>Ezra</b> · dîsa Peyvê fêr dike û baweriyê vedijîne.</li><li><b>Nehemya</b> · sûrên Orşelîmê di 52 rojan de ji nû ve ava dike.</li><li><b>Êster</b> · Cihûyên li Farisê ji qirkirinê xilas dike — «ji bo demeke wisa».</li><li><b>Hîn jî bêriya</b> · Perestgeh radiweste, lê padîşahekî wek Dawid tune. Gel li benda Mesîh e.</li></ul>",
+   "next": "Û paşê… mîna ku ezman bêdeng bibe, 400 sal derbas dibin."
+  },
+  {
+   "tag": "DI NAVBERA PEYMANAN DE · AMADEKIRINA DÎMENÊ",
+   "title": "Salên Bêdeng",
+   "date": "li dora 430–4 B.Z.",
+   "one": "400 sal bê dengê pêxemberekî — lê dîmen bi bêdengî dihat amadekirin.",
+   "people": "Îskenderê Mezin, Makabî, Roma",
+   "events": "Faris → Yewnan → serxwebûna Makabî → desthilatiya Romayê",
+   "q": "Lê gava ku dem temam bû, Xwedê Kurê xwe şand. Ew ji jinê çêbû.",
+   "cite": "Galatî 4:4",
+   "christ": "Ev hemû «amadekirina dîmenê» karê Xwedê bû da ku Îsa rast «dema temam» bê.",
+   "detail": "<p>Ji Melaxî heta Peymana Nû, li dora 400 sal bê Nivîsara Pîroz a nû derbas dibe. Lê li pişt dîrokê Xwedê rêya Mizgîniyê amade dikir.</p><ul><li><b>Împaratorî diguherin</b> · Faris → Yewnan (Îskender, 333 B.Z.) → Ptolemyos û Selefkî → serhildana Makabî (167 B.Z.) → Roma (63 B.Z.).</li><li><b>Yewnanî</b> · dagirkirinên Îskender Yewnanî dike zimanê hevpar; Peymana Kevin dibe Yewnanî (Septûagînta), rêyê vedike ku Mizgînî zû belav bibe.</li><li><b>Rê û aştiya Romayê</b> · rêyên baş çêkirî û «Pax Romana» dibin rêyên mezin ji bo mîsyonê.</li><li><b>Kinîşt û aliyên</b> · hînkirina kinîştê bi cih dibe; Fêrisî û Saddûqî derdikevin; û <b>bêriya Mesîh</b> digihîje.</li></ul>",
+   "next": "Paşê bêdengî dişikê — di dawiyê de, ew tê."
+  },
+  {
+   "tag": "PEYMANA NÛ · PÊKHATIN",
+   "title": "Îsa Tê",
+   "date": "li dora 4 B.Z.–30 P.Z.",
+   "one": "Mesîhê ku soz hatibû dayîn hat, mir û dîsa rabû.",
+   "people": "Îsa, diwanzdeh şagird, Yûhennayê Nixumandar",
+   "events": "Bi xwîn û goşt bûn, xizmet û hînkirin û mûcîzeyên wî, mirin li ser xaçê, vejîn di roja sêyemîn de",
+   "q": "Û Peyv bû xwîn û goşt … bi kerem û rastiyê tije di nav me de konê xwe danî.",
+   "cite": "Yûhenna 1:14",
+   "christ": "Ziriyeta jinê (dîmen 2), bereketa Birahîm (3), berxê Pesaxê (4), padîşahê herheyî yê Dawid (6), peymana nû (8) — hemû di yek mirovî de, Îsa, pêk tên: Pêxember, Kahîn û Padîşahê me yê rastîn.",
+   "detail": "<p>Bêdengî dişikê; Yê ku soz hatibû dayîn tê. Çar Mizgînî ji çar aliyan şahidiya jiyan, mirin û vejîna Îsa dikin.</p><ul><li><b>Bûna bi xwîn û goşt</b> · Xwedê dibe mirov (Îmmanûêl, «Xwedê bi me re»), li cihê nizm ê Beytlehmê.</li><li><b>Xizmet</b> · Padîşahiya Xwedê fêr dike, nexweşan saxlem dike, gunehkaran gazî dike. «Yê ku ez dîtim, Bav dît.»</li><li><b>Xaç</b> · bihayê gunehê û mirina ku ji ber Ketinê hat (dîmen 2) dide. Berxê Pesaxê yê rastîn.</li><li><b>Vejîn</b> · di roja sêyemîn de radibe, hêza guneh, mirin û Îblîs dişikîne — jixwe li ser xaçê «serwer û desthilatî bêçek kirin … bi serfirazî bi ser ket» (Kolosî 2:15).</li></ul><p>Loma Îsa <b>Pêxemberê me yê rastîn</b> e (rêya ber bi Xwedê ve nîşan dide), <b>Kahînê me yê rastîn</b> e (bi laşê xwe ji bo gunehê keffaretê dide), û <b>Padîşahê me yê rastîn</b> e (guneh, mirin û Îblîs têk dibe û her û her serwer e).</p>",
+   "next": "Îsayê vejiyayî şagirtên xwe ber bi dinyayê ve dişîne…"
+  },
+  {
+   "tag": "PEYMANA NÛ · BELAVBÛN",
+   "title": "Civat Dest Pê Dike",
+   "date": "li dora 30 P.Z.–",
+   "one": "Ruh tê, û Mizgînî ber bi kujên dinyayê ve belav dibe.",
+   "people": "Petrûs, Pawlos, civata destpêkê",
+   "events": "Rijandina Ruh di Pentîkostê de, jidayikbûna civatê, belavbûna Mizgîniyê ji Orşelîmê heta Romayê bi rêya zordariyê",
+   "q": "Hûnê hêzê bistînin … û heta bi kujê dinyayê yê herî dûr bibin şahidên min.",
+   "cite": "Karên Şandiyan 1:8",
+   "christ": "Ev çîrok hîn jî berdewam dike. Mizgînî bi soza ku Îsa wê dîsa bê û her tiştî nû bike diqede (Peyxam 21).",
+   "detail": "<p>Piştî ku Îsa hilkişiya, Ruhê ku soz hatibû dayîn di Pentîkostê de tê û civat çêdibe. Mizgînî bi teqînî belav dibe.</p><ul><li><b>Pentîkost</b> · Ruh şagirtên tirsonek dike şahidên wêrek.</li><li><b>Petrûs</b> · Mizgîniyê ji Cihûyan re li Orşelîmê dide.</li><li><b>Pawlos</b> · ji zordarekî dibe şandî, li seranserê dinyaya neyahûdî civatan diçîne û naman dinivîse.</li><li><b>Heta kujên dinyayê</b> · Orşelîm → Cihûstan → Sameriya → Roma. Soza «hemû eşîran» a ji Birahîm re pêk tê.</li><li><b>Û em</b> · çîrok naqede; ber bi vegera Îsa û ezman û erdê nû ve dimeşe.</li></ul>",
+   "next": "Lê çîrok li vir naqede…"
+  },
+  {
+   "tag": "PEYMANA NÛ · TEMAMBÛN",
+   "title": "Vegerandin",
+   "date": "Hîn nehatî",
+   "one": "Îsa dîsa tê û her tiştî nû dike.",
+   "people": "Îsayê vedigere; hemû milet",
+   "events": "Vegera duyemîn, dîwana dawî, dawiya guneh·mirin·hêstiran, ezmanekî nû û erdekî nû",
+   "q": "Ewê ji çavên wan hemû hêstirên wan paqij bike û êdî mirin wê nebe. Êdî şîn û girîn, êş û elem jî wê nebin.",
+   "cite": "Peyxam 21:4",
+   "christ": "Êdena afirandina ewil di dawiyê de wek «Orşelîma Nû» tê vegerandin. Xwedê her û her bi gelê xwe re dimîne — temamiya Îmmanûêl (Peyxam 21:3; Metta 1:23).",
+   "detail": "<p>Mizgînî bi serdema civatê naqede. Pirtûka wê ya dawî, Peyxam, Îsa nîşan dide ku <b>dîsa tê</b> da ku her tiştî temam bike.</p><ul><li><b>Vegera duyemîn</b> · Padîşahê ku soz hatibû dayîn bi rûmetê vedigere.</li><li><b>Serketina dawî</b> · Îblîs û mirin her û her têk diçin, û Mesîh wek Padîşahê padîşahan serwer e (1 Korîntî I 15:25-26; Peyxam 20:10).</li><li><b>Dîwan û vejîn</b> · her neheqî tê rastkirin, û miriyan radibin.</li><li><b>Ezmanekî nû û erdekî nû</b> · guneh, mirin, hêstir û êş her û her winda dibin (Peyxam 21:4).</li><li><b>Êden vegerandî</b> · di «Orşelîmeke Nû» ya ji destpêkê çêtir de, Xwedê her û her bi gelê xwe re dimîne — armanca ku tevahiya Mizgîniyê ber bi wê ve diçû.</li></ul><p>Loma niha serdema <b>«jixwe, lê hîn na»</b> ye: di Îsa de xilasî <b>jixwe</b> pêk hatiye, lê temamiya wê <b>hîn</b> tê hêvîkirin.</p>",
+   "next": "Îcar ev hemû çîrok ji bo «min» çi watayê dide?"
+  }
+ ],
+ "love": [
+  "Çîrok ne bi dîwanê, lê bi afirandinê ku bi hezkirinê dirijiya dest pê dike.",
+  "Di kêliya ku mirov guneh kir de, Xwedê li wir, di cî de, soza rizgariyê da.",
+  "Xwedê pêşî hat ber mirovekî ku ne heq dikir, ew bi nav gazî kir û ew kir kaniya bereketê.",
+  "Wî nalîna gelekî kole bihîst û bi xwe dakeve ku wan rizgar bike.",
+  "Car bi car hat xayîntîkirin, lê her cara ku hawar dikirin, wî rizgarkerek dişand û wan dîsa radikir.",
+  "Wî heta Dawidê ketî jî davêt nedida, û bi rêya wî soza padîşahekî herheyî da.",
+  "Ji gelê ku pişta xwe didayê, wî her pêxember dişandin, lava dikirin: «Ji kerema xwe vegere malê.»",
+  "Wî heta welatê herî tarî yê sirgûnê jî bi wan re dakeve, û soza vegerandinê da.",
+  "Heta ji gelê ku car bi car şikest jî, wî soza xwe paş ve negirt.",
+  "Heta di 400 salên bêdeng de jî, bê ku bê dîtin, wî rêya xilasiyê amade dikir.",
+  "Hê em gunehkar bûn, wî Kurê xwe şand ku jiyana xwe bide.",
+  "Hezkirina ku me wergirt, wî niha dişîne ku ber bi tevahiya dinyayê ve birije.",
+  "Di dawiyê de wê her hêstirê paqij bike û her tiştî bi hezkirinê vegerîne."
+ ],
+ "mis": [
+  {
+   "w": "«Çima Xwedê mirovên ku dikarin guneh bikin çêkir? Ma ne çêtir bûya ku me qet çênekira?»",
+   "t": "Xwedê dinya û mirov ne ji ber kêmasiyekê, lê ji hezkirina ku dirije çêkir. Çêkirina mirovan wek <b>kesên ku bi Xwedê re têkilî datînin</b> bi xwe hezkirin e. Û heta ketina gunehê jî ne li derveyî plana xilasiyê ya Xwedê bû (Efesî 1:4-5). Dîmenê ewil ê Mizgîniyê ne dîwan e, lê hezkirin e."
+  },
+  {
+   "w": "«Tenê ji ber xwarina yek fêkî sirgûn û mirin — ma Xwedê ne pir hişk e?»",
+   "t": "Ji Êdenê derketin hem dîwan hem dilovanî bû. Ku mirov ji dara jiyanê bixwara û her û her di wî halê şikestî yê ji Xwedê birîn de bijiya, wê her û her di nav êşê de bigirta (Destpêk 3:22). Destûra mirinê rêya vegerê vekir, û rast li wir Xwedê soza Rizgarkerekî da (Destpêk 3:15). Hezkirin jixwe di nav dîwanê de bû."
+  },
+  {
+   "w": "«Birahîm ji ber baweriya wî ya mezin hat hilbijartin — ma hemû kesên Mizgîniyê ne qehremanên exlaqî ne?»",
+   "t": "Birahîm derew kir û guman kir; Aqûb fêlbaz bû. Xwedê ne kesên «hêja» lê kesên kêmasî, bi keremê gazî kir. Sedem ne qenciya wan, lê hezkirina dilsoz a Xwedê bû (Dubarekirina Şerîetê 7:7-8)."
+  },
+  {
+   "w": "«Ma Şerîet (Emir) ne ezmûnek e ku divê tu di wê re derbas bibî da ku xilas bibî?»",
+   "t": "Xwedê ew <b>berî</b> dayîna Şerîetê rizgar kirin. Heta Deh Emir jî bi ragihandina xilasiyê dest pê dikin: «Ez Xwedayê te Xudan im ku tu ji welatê Misrê … deranî» (Derketin 20:2). Şerîet ne «wê bigire da ku tu xilas bibî» ye, lê rêberiyeke bi hezkirin e ji bo ka gelekî jixwe rizgarbûyî divê çawa bijî (Dubarekirina Şerîetê 7:7-9). Her dem pêşî kerem; guhdarî bersiv e."
+  },
+  {
+   "w": "«Dagirkirina Kenanê komkujiyeke bê dilovanî bû — loma Xwedayê Peymana Kevin bi rastî zalim e.»",
+   "t": "Ev mijareke dijwar e ku bi hevokekê nayê çareserkirin. Lê Mizgînî wê ne wek şîdeta bê hesab, lê wek dîwan piştî sedsalên sebrê li hember xerabiya tund (tevî qurbankirina zarokan) pêşkêş dike (Destpêk 15:16; Dubarekirina Şerîetê 9:4-5; Lêwiyî 18:24-25). Xwedê di dîwanê de jî dereng e, û yên ku berê xwe didanê bi dilxweşî pêşwazî dikir — heta biyaniyên wek Rahab û Rûtê jî (Yêşû 6:25; Rût 4:13-17)."
+  },
+  {
+   "w": "«Dawid qehremanekî bê kêmasî bû — loma jê re ‹mirovekî li gor dilê Xwedê› hat gotin.»",
+   "t": "Dawid zîna kir û heta mêr jî kuşt. «Mirovekî li gor dilê Xwedê» nayê wê wateyê ku bê kêmasî ye, lê yê ku gunehê xwe venedişart — yê ku bi temamî tobe kir û her vedigeriya ber Xwedê (Zebûr 51). Hezkirina Xwedê heta yên ku giran dikevin jî davêt nade."
+  },
+  {
+   "w": "«Pêxember falçî ne ku pêşerojê pêşbînî dikin / Xwedayê Peymana Kevin tev hêrs e.»",
+   "t": "Dilê pêxemberekî ne «pêşbîniya pêşerojê» ye, lê lavaya kûr a Xwedê ye: «Ji kerema xwe vegere.» Heta hişyariyên dîwanê jî armanc ne hilweşandin e, lê vegerandin û xilaskirina mirovan e — «dilê min bi mirina xeraban xweş nabe» (Hezekiyêl 33:11)."
+  },
+  {
+   "w": "«Sirgûn delîl e ku Xwedê bi temamî Îsraêl terikand.»",
+   "t": "Sirgûn ne terikandin bû, lê terbiye û paqijkirin ber bi zarokekî hezkirî ve bû (Îbranî 12:6). Xwedê neçû; ew di dilê sirgûnê de bi Danyêl re bû û soz da: «Ez pîlanên xwe yên ji bo we dizanim … pîlanên xêrê ne ku pêşeroja hêviyê bidin we» (Yêremya 29:11)."
+  },
+  null,
+  {
+   "w": "«400 sal bê peyv, Xwedê çû bû an radizî.»",
+   "t": "Bêdengî ne tunebûn e. Ew tenê neaxivî, lê di tevahiya wê demê de împaratorî, ziman û rêyan dilivand da ku dîmenê xilasiyê amade bike. Di kêliya herî bêdeng de, Xwedê bi herî zêde hezkirinê dixebitî (Galatî 4:4)."
+  },
+  {
+   "w": "«Îsa tenê mamosteyekî exlaqî yê baş bû / xaç têkçûneke trajîk bû.»",
+   "t": "Îsa îdîa kir ku ew bi xwe Xwedê ye (Yûhenna 8:58), û xaç ne tesadif an têkçûn bû, lê hezkirineke plankirî bû. Ew bi zorê nehat birin; wî bi vîna xwe jiyana xwe da (Yûhenna 10:18). «Tu hezkirin ne di ser wê hezkirinê re ye ku mirovek di ber dostên xwe de canê xwe dide» (Yûhenna 15:13)."
+  },
+  {
+   "w": "«Civat klûbeke mirovên bêkêmasî ye, an tenê avahiyek e.»",
+   "t": "Civat ne civateke «pîrozên temambûyî» ye, lê ya <b>gunehkarên efûkirî</b> ye. Heta şandî Pawlos bi xwe got «ji wan ê herî gunehkar ez im» (Tîmotêyos I 1:15). Civata destpêkê jî nîqaş kir û şaş bû (Karên Şandiyan 6:1; Korîntî I 1:11). Ew ne cihê pesnê xwe dayînê ye, lê mirovên ku hezkirina wergirtî derbas dikin (Yûhenna 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Gunehê eslî — tu kes ne rast e",
+   "body": "Pirsgirêk ne «çend kiryarên xerab» e, lê koka dil e. Ji Adem û pê ve, her kes di bin gunehê de tê dinyayê û bi serê xwe nikare bigihîje Xwedê.",
+   "vref": "Romayî 3:10-12, 23",
+   "vtext": "Tu kesê rast tune, tenê yek jî tune … Hemûyan guneh kir û ji rûmeta Xwedê bêpar man."
+  },
+  {
+   "title": "Şerîet nikare min xilas bike",
+   "body": "Şerîet ne derince ye, lê neynik e. Tu çiqasî hewl bidî, ew bêtir nîşan dide ka tu çiqas kêm dikevî. Armanca wê ev e ku me ber bi Mesîh ve bibe.",
+   "vref": "Romayî 3:20 · Galatî 3:24",
+   "vtext": "bi Şerîetê guneh tê zanîn … Şerîet … bû perwerdevanê me, da ku em bi baweriyê rastdar derkevin."
+  },
+  {
+   "title": "Bi keremê — diyarî, ne hewldan",
+   "body": "Xilasî ne heqdaya xebata ku te kişandiye ye, lê diyariyeke belaş ji bo yên ku heq nakin e. Loma tu kes nikare pesnê xwe bide.",
+   "vref": "Efesî 2:8-9",
+   "vtext": "hûn bi riya baweriyê, bi keremê xilas bûn … Ev ne ji kirinan e, da ku tu kes pesnê xwe nede."
+  },
+  {
+   "title": "Bi baweriyê rastdar derketin",
+   "body": "Ne bi girtina Şerîetê, lê bi baweriya bi Îsa Mesîh tu rastdar tê hesibandin — ne bi rastdariya xwe, lê bi ya wî hatî nixumandin.",
+   "vref": "Romayî 5:1 · Galatî 2:16",
+   "vtext": "ji ber ku em bi baweriyê rastdar derketine … mirov, ne bi kirina Şerîetê, lê bi baweriya ku bi Îsa Mesîh e rastdar derkeve."
+  },
+  {
+   "title": "Mizgînî ber bi Îsa ve nîşan dide",
+   "body": "Mizgînî ne pirtûka mirovên mezin an a alîkariya xwe ye. Ji Destpêkê heta Peyxamê, her rûpel şahidiya yek kesî dike — Îsa Mesîh.",
+   "vref": "Yûhenna 5:39 · Lûqa 24:27",
+   "vtext": "yên ku şahidiya min dikin jî ew in … wî … ji wan re tiştên ku li ser wî di hemû Nivîsarên Pîroz de hatibûn nivîsîn, şîrovekirin."
+  },
+  {
+   "title": "Padîşahiya Xwedê — peyama navendî ya Îsa",
+   "body": "Mijara ku Îsa herî zêde fêr kir. Serweriya Xwedê wek Padîşah bi Îsa ket vê dinyayê û wê dema ku ew vegere temam bibe. Bi xaç û vejîna xwe, Îsa Padîşahê rastîn e ku guneh, mirin û Îblîs têk bir.",
+   "vref": "Marqos 1:15",
+   "vtext": "Wext hat, Padîşahiya Xwedê nêzîk bûye; tobe bikin û baweriya xwe bi Mizgîniyê bînin!"
+  },
+  {
+   "title": "Mizgînî — wî her tişt temam kir",
+   "body": "Bihayê gunehê ku ez tu carî nikaribûm bidim, Îsa li şûna min li ser xaçê da, û bi vejînê mirin têk bir. Ez ne li ser «vê bike» lê li ser «temam bû» radiwestim.",
+   "vref": "Yûhenna 19:30 · Romayî 5:8",
+   "vtext": "Temam bû … Xwedê hezkirina xwe ya ji me bi vê kifş dike ku hê em gunehkar bûn, Mesîh ji bo me mir."
+  }
+ ]
+}
