@@ -118,5 +118,7 @@ banner + `s["respond.read"]` (John button). First case = **ff (Fula)**.
 ## Current status
 ~127 languages (126 full + 1 partial = ff), ~90% population reach. The long-term goal (see README) is
 every living language (~7,396). Most languages with 5M+ speakers and a full YouVersion OT are done; the
-remaining large ones generally lack a full OT on YouVersion. Excluded for lack of a full-OT YouVersion
-edition (recorded so we don't retry): ky, tet, kmr, mg, ps, et, yue, bm, bho (new chapter format).
+remaining large ones generally lack a full OT on YouVersion. Excluded for lack of a usable
+YouVersion text edition (recorded so we don't retry): ky, tet, kmr, mg, ps, et, yue, bm, bho (audio-only — no text).
+`fetch-verse.mjs` reads both YouVersion reader formats (old verse-page `__NEXT_DATA__` + new chapter
+`chapterInfo.content` `data-usfm` parser), so "new format" alone no longer blocks a language.

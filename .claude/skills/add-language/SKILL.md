@@ -25,9 +25,10 @@ fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review
    ```
    - **All five return text → full mode** (OT + NT all verbatim and linked).
    - **OT verses blank/missing → partial mode** (NT-only language; see "Partial mode" below). E.g. ff (Fula fuv1159), Maithili.
-   - **Every fetch fails (even NT JHN.3.16) → unreadable edition.** YouVersion's new chapter format
-     (chapter HTML blob with `data-usfm` markers) can't be read by the current fetch-verse (e.g. Bhojpuri bho3621)
-     → **hold that edition** (TODO: chapter parser). If another edition of the same language is the old format, use it.
+   - **Every fetch returns empty → no usable text.** fetch-verse tries the old format (verse page
+     `__NEXT_DATA__` content) and then the new format (chapter `chapterInfo.content` `data-usfm` parser),
+     so both reader formats are covered. If it's still empty the edition is **audio-only** (e.g. bho3621 =
+     "available in audio format") or otherwise has no text → **hold it**; use a text edition of the same language if one exists.
    - **No language page / no full-OT edition at all → exclude** (recorded in CLAUDE.md: ky·tet·kmr·mg·ps·et·yue·bm etc.).
 3. **Script type** → font / digits:
    - Latin/Cyrillic (ru·mn type): default Noto, `font=null`, ASCII digits.
