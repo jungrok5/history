@@ -6,6 +6,23 @@
 
 ---
 
+## 🛠️ 두 가지 방법 · Two ways to contribute
+
+| | **길 1 · 손으로 (Manual)** | **길 2 · Claude(AI)로** |
+|---|---|---|
+| 누구 / Who | 그 언어를 아는 사람 (코딩 불필요) | 프로그래밍을 알거나 Claude를 쓰는 사람 |
+| 방법 / How | `en.json` 복사 → 직접 번역 → PR | 리포 클론 → Claude의 `/add-language` 스킬로 초안+검증 → PR |
+| 도구 / Tools | GitHub 웹 편집만 | Node + Claude (스킬·검증도구가 리포에 포함) |
+| 성경 인용 / Quotes | 실제 성경(YouVersion)에서 복사 | Claude가 `fetch-verse`로 판본 원문 추출·대조 |
+
+- **길 1** → 아래 **🇰🇷 한국어 / 🇬🇧 English** 절. **길 2** → **🤝 Claude(AI)로 기여하기** 절.
+- 어느 길이든 핵심은 같습니다: **성경 인용은 공인 번역본 verbatim**, **키·HTML·구조 보존**.
+- ⭐ **가장 좋은 건 둘의 결합** — Claude가 초안+verbatim 검증, 그 언어 **원어민이 자연스러움 검수**.
+
+*Two kinds of people do this together — pick one: **(1) by hand** (a speaker of the language, no coding — copy `en.json`, translate, PR) or **(2) with Claude/AI** (clone the repo, let Claude draft + verify via the built-in `add-language` skill, PR). Either way: Bible quotes verbatim, keep keys/HTML/structure. Best of all: Claude drafts & verifies, a native speaker reviews naturalness.*
+
+---
+
 ## 🇰🇷 한국어
 
 ### A. 이미 있는 언어의 문구 고치기 (가장 쉬움 — 설치 불필요, GitHub 웹에서)
@@ -74,6 +91,27 @@ The maintainer verifies (verbatim, links, structure) and ships it.
 - **Preserve HTML tags**; use Arabic numerals for chapter:verse references where possible.
 
 Open an [issue](../../issues) if you have questions.
+
+---
+
+## 🤝 Claude(AI)로 기여하기 · Contribute with Claude
+
+프로그래밍을 알거나 [Claude](https://claude.ai) / [Claude Code](https://www.claude.com/product/claude-code)를 쓰면, 번역 초안부터 **성경 인용 verbatim 검증**까지 Claude가 해줄 수 있습니다 — 지금 이 사이트를 만드는 방식과 똑같습니다.
+
+**준비물:** Node.js + Claude Code(권장). **별도 설치·패키지 없음** — 스킬과 검증 도구가 리포 안에 들어 있습니다(`.claude/skills/add-language/`).
+
+1. 리포를 포크·클론하고 **Claude Code로 엽니다**.
+2. Claude에게 시킵니다 — 예: *"`/add-language` 스킬로 «언어명»을 추가해줘. 판본은 «YouVersion 판본명 / ID»."*
+3. Claude가 자동으로:
+   - `i18n/en.json`을 출발점으로 해당 언어 초안 작성
+   - **성경 인용은 `fetch-verse`로 판본 원문을 그대로 추출**(의역·환각 금지)
+   - `validate` · `verify-verbatim` · `verify-inline`로 자가 검증(CLEAN까지 반복)
+4. 결과 `i18n/<code>.json`을 **PR로 올립니다**. (책이름 링크·OG·빌드·배포는 관리자 몫 — Claude가 그 부분까지 한 PR을 만들어도 됩니다.)
+5. PR을 열면 **자동검증 Action**이 한 번 더 점검합니다.
+
+**중요 / Important:** Claude는 **인용 verbatim·구조는 객관적으로 정확히** 맞추지만, **저자원 언어의 자연스러움(naturalness)은 보증하지 못합니다.** 가능하면 그 언어 **원어민이 한 번 검수**해 주세요(`lib/native-review-prompt.md` 프롬프트 활용 가능).
+
+*If you can code or use Claude/Claude Code, Claude can draft the translation and verify every Bible quote verbatim — exactly how this site is built. Requirements: Node.js + Claude Code (no packages — the skill and tools live in the repo). Fork & clone → open in Claude Code → ask it to run the `/add-language` skill for your language and Bible version. It drafts from `i18n/en.json`, pulls quotes verbatim via `fetch-verse`, and self-checks with `validate`/`verify-verbatim`/`verify-inline`; then open a PR (integration/build/deploy is the maintainer's part). Note: Claude nails verbatim quotes and structure, but **cannot guarantee naturalness in low-resource languages — please have a native speaker review.***
 
 ---
 
