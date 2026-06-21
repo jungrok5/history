@@ -1,7 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "node tools/build-pages.mjs",
-  "installCommand": "echo no build deps needed (qrcode is a local dev tool only)",
   "outputDirectory": ".",
   "headers": [
     {
