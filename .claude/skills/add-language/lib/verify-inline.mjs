@@ -12,11 +12,12 @@
 import { execFileSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
 const arg = process.argv[2];
 if (!arg) { console.error('usage: node verify-inline.mjs <code> | --all'); process.exit(2); }
 const root = process.cwd();
-const here = path.dirname(new URL(import.meta.url).pathname);
+const here = path.dirname(fileURLToPath(import.meta.url));
 const fetcher = path.join(here, 'fetch-verse.mjs');
 
 // index.html 링크 인프라(BOOKS/YV/linkifyRefs) 추출 (verify-verbatim 과 동일)
