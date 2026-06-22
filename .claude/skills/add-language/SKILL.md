@@ -245,6 +245,16 @@ When a language has no Bible anywhere fetchable (not YouVersion, not eBible, not
   OPT key (validate) and renders in the same banner element as `partial.note` (index.html doApply: `partial.note || bridge.note`).
 - First case = **bho (Bhojpuri)** prose + **hi (Hindi)** quotes (yv 1683) — Bhojpuri & Hindi share Devanagari and Bhojpuri speakers read Hindi.
 
+## Terminology policy (objective — no per-language debate)
+**Prose religious terms = the words the quoted Bible uses.** Render God, Jesus/Christ, sin, grace, salvation, prayer,
+heaven/hell, prophet, and proper names (Abraham, Moses…) with the **same forms as the Scripture you quote on that page**.
+Do NOT introduce a different religious register (e.g. Islamic-idiom আল্লা/ইসা/গুনাহ when the quoted Bible reads ঈশ্বর/যীশু/পাপ).
+- full/partial/eBible → that language's own quoted translation's terms.
+- **bridge mode → the bridge language's** translation's terms (mother-tongue grammar, bridge-Bible terms). E.g. **ctg**
+  (Chittagonian, Bengali bridge): Chittagonian grammar, but ঈশ্বর/যীশু/পাপ (Bengali Christian terms), matching the bn quotes.
+- Rationale: each page stays internally consistent (prose ↔ quotes), and the contextualization choice is deferred to the
+  official Bible translators (if a language's *own* official Bible uses আল্লা, then matching it is automatically consistent).
+
 ## Language decisions log (update HERE, never in AGENTS.md)
 So we don't re-investigate, and so adding a language never edits AGENTS.md. The live language *list/count* is
 auto-derived from `LANGS`; only these **non-derivable decisions** need a home:

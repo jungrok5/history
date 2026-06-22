@@ -48,6 +48,7 @@ If you use [Claude](https://claude.ai) / [Claude Code](https://www.claude.com/pr
 ## Please follow (principles)
 - **Perspective**: the evangelical · Reformed redemptive-historical view shared by most of the Korean Protestant church.
 - **Verbatim Scripture** — we never paraphrase the Bible.
+- **Match the Bible's words**: in your prose, use the same words for God, Jesus, sin, grace, etc. (and proper names) that appear in the Bible verses you quote — don't swap in a different religious vocabulary.
 - **Stay gentle**: keep the sensitive FAQs (fairness · "cheap grace" · "just be a good person") softened, and reference no specific films or events.
 - Use Arabic numerals for chapter:verse references where possible.
 

@@ -19,6 +19,11 @@ Protestant church; Korean Revised Version (개역개정) as the Korean baseline.
   paraphrase or invent. (ko 개역개정 · en ESV · zh 和合本/CUV · ja 新共同訳 · es RVR1960 ·
   pt-BR Almeida · fr LSG · de Lutherbibel(1912) · ru Синодальный · ar Van Dyck/SVD · etc. The
   exact version per language lives in `YV` / each pack's `ui.version` — never hard-code a second list.)
+- **Terminology follows the quoted translation**: in prose, render key religious terms (God, Jesus/Christ, sin,
+  grace, salvation, prayer, heaven/hell, prophet, and proper names) with the **same words the quoted Scripture uses**
+  on that page — do NOT introduce a different religious register (e.g. Islamic-idiom আল্লা/ইসা when the quoted Bible
+  reads ঈশ্বর/যীশু). **Bridge mode**: match the **bridge language's** Bible. This keeps each page internally consistent
+  and defers the contextualization choice to the official Bible translators, not to us per page. (See SKILL.md.)
 - Keep sensitive topics gently worded (murderer / "cheap grace" / "just be a good person";
   for non-ko, FAQ q3/a3 must reference **no specific films or events**). Rom 12:19 = "vengeance
   belongs to God," not a justification of revenge.
