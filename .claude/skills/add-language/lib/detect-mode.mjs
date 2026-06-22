@@ -39,13 +39,19 @@ function yvVersions(code) {
   })(j);
   return [...seen.values()];
 }
-// 한 YV 버전이 완역인지 NT만인지: GEN.1.1(구약) + JHN.1.1(신약) 프로브
+// 한 YV 버전의 범위: GEN.1.1(구약 처음) + MAL.3.1(구약 끝) + JHN.1.1(신약) 프로브.
+//  full = 구약(말라기까지) + 신약 둘 다.  nt = 신약만(완전 구약 없음) → partial 모드.
+//  ot-partial = 구약 일부만, 신약 없음(예: 창세기만 있는 EAT) → full/partial 어느 쪽도 못 씀.
+//  (GEN 하나만 보면 창세기-only 판본이 full 로 오판되므로 MAL·JHN 도 본다.)
 function classifyYV(id) {
   let out = '';
-  try { out = execFileSync('node', [FV, String(id), 'GEN.1.1,JHN.1.1'], { encoding: 'utf8', maxBuffer: 64e6 }); } catch { return 'none'; }
-  const hasGen = /^GEN\.1\.1\t(?!MISSING)\S/m.test(out);
-  const hasJhn = /^JHN\.1\.1\t(?!MISSING)\S/m.test(out);
-  return hasGen ? 'full' : (hasJhn ? 'nt' : 'none');
+  try { out = execFileSync('node', [FV, String(id), 'GEN.1.1,ISA.53.5,MAL.3.1,JHN.1.1'], { encoding: 'utf8', maxBuffer: 64e6 }); } catch { return 'none'; }
+  const has = (r) => new RegExp('^' + r.replace(/\./g, '\\.') + '\\t(?!MISSING)\\S', 'm').test(out);
+  const otEarly = has('GEN.1.1'), otMid = has('ISA.53.5'), otLate = has('MAL.3.1'), nt = has('JHN.1.1');
+  if (nt && otMid && otLate) return 'full';   // 신약 + 구약(이사야·말라기까지) = 완역
+  if (nt) return 'nt';                          // 신약(+구약 일부) → partial / richer-partial (예: syl = 오경+신약, 이사야 결락)
+  if (otEarly || otMid || otLate) return 'ot-partial';
+  return 'none';
 }
 
 // ---- eBible.org: translations.csv (col0 = languageCode, BOM 주의) ----
@@ -85,7 +91,8 @@ for (const code of codes) {
     console.log(`YouVersion: ${vs.length} version(s)`);
     for (const v of vs.slice(0, 6)) {
       const cl = classifyYV(v.id);
-      console.log(`  #${v.id} "${v.title}" (${v.abbr}) → ${cl === 'full' ? 'FULL Bible' : cl === 'nt' ? 'NT-only' : 'no text fetched'}`);
+      const lbl = cl === 'full' ? 'FULL Bible' : cl === 'nt' ? 'NT-only' : cl === 'ot-partial' ? 'OT-only/incomplete (NOT usable as full or partial — NT absent)' : 'no text fetched';
+      console.log(`  #${v.id} "${v.title}" (${v.abbr}) → ${lbl}`);
       if (cl === 'full' && !yvFull) yvFull = v;
       if (cl === 'nt' && !yvNT) yvNT = v;
     }
