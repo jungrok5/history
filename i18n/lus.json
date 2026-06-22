@@ -1,0 +1,384 @@
+{
+ "menuName": "Mizo ṭawng",
+ "htmlLang": "lus",
+ "dir": "ltr",
+ "brand": "Bible Chanchin Thlûk Khat",
+ "docTitle": "Bible Chanchin Thlûk Khat · Siamtirna aṭanga Kohhran thleng",
+ "share": {
+  "title": "Bible Chanchin Thlûk Khat",
+  "text": "Scroll pakhat chhûngin Bible chanchin ropui leh Isua a lo kalna chhan chu hmu rawh."
+ },
+ "ui": {
+  "people": "Mihringte",
+  "events": "Thiltir pawimawh",
+  "christLabel": "Isua a kâwk",
+  "loveLabel": "Hmangaihna tlawmngai lo",
+  "mythWrong": "Hriatsualna khawvêl",
+  "mythRight": "A dik chu",
+  "more": "Chhiar belh",
+  "version": "(MIZCLBSI)"
+ },
+ "labels": {
+  "start": "Ṭanna",
+  "thread": "Chanchin zui",
+  "gospel": "Chanchin Ṭha",
+  "about": "Chungchâng"
+ },
+ "s": {
+  "ui.share": "↗ Sem chhuak",
+  "ui.toast": "Link copy a ni ta 📋",
+  "ui.footer": "Bible Chanchin Thlûk Khat · Bible thu thuhretute MIZCLBSI aṭanga lâk a ni",
+  "hero.kicker": "SIAMTIRNA AṬANGA KOHHRAN THLENG",
+  "hero.title": "Bible,<br><span class='em'>thlûk khatin</span>",
+  "hero.sub": "Scroll pakhat chhûngin Bible chanchin ropui leh Isua a lo kalna chhan chu hmu rawh.",
+  "hero.cue": "Hnuai lamah scroll rawh<span>↓</span>",
+  "thread.eyebrow": "BIBLE PUMPUI KHITTU THU PAKHAT",
+  "thread.h2": "A tâwpah chuan Bible hi chanchin pakhat chauh a ni",
+  "thread.flow": "<b>Thutiam</b><span class='arw'>→</span><b>Nghahhlel</b><span class='arw'>→</span><b>Thlennakhâwm</b>",
+  "thread.note": "Pathianin a <b>tiam</b> (thuthlung) a, mite chuan rei tak an <b>nghah</b> a, a tâwpah chuan engkim Isuaah <b>thleng famkim</b>in a awm ta a. Hêng chanchin hawm 13-te hi chu rilru pu hian zui rawh. Card tinah <b>“Chhiar belh”</b> i her chuan chanchin thûk zâwk i hmu ang.",
+  "gospel.eyebrow": "HE CHANCHIN HIAN “KEIMAH” TÂN ENG NGE A SAWI",
+  "gospel.h2": "Bible thinlung dik tak",
+  "gospel.lead": "Bible hi <b>“mi ṭha ni rawh” tih zirtîrna lehkhabu a ni lo.</b>",
+  "gospel.sublead": "Mahse, Pathianin <b>khawngaihna chauhvin</b>, mahni inchhandam thei lo mi sualte a chhandamna chanchin a ni. A laibûah chuan Isua Krista a ding.",
+  "gospel.mirror": "<h3>Israelte zinghlimna tâwp neilo hi a dik takin “keimah” lim a ni</h3><div class='cycle'><b>Milem biakna</b><span class='a'>→</span><b>Hrehawmna</b><span class='a'>→</span><b>Aw chhuahna</b><span class='a'>→</span><b>Pathian chhandam</b><span class='a'>→</span><b>Milem biak leh…</b></div><p>Rorêltute aṭanga sâla kal thlengin Israelten he zinghlimna hi tâwp neiin an thlâwk reng. He thil hi Bible-in “engtinnge an inkhem êm!” tia kan inhnial nân a ziak a ni lo.</p><p>He thil hi <b>lemchhuah</b> a ni. A awmzia chu “anni chu chutiang an ni” tih ni lovin, <b>“keimah pawh chutiang khan ka ni ve” tih</b> hriattîr a ni (1 Korinth 10:11).</p><p><b>Milem</b> chu thing milem siam chauh a ni lo. Mahse, <b>Pathian aia kan hmangaih zâwk emaw, kan rinchhan zâwk emaw apiang</b> chu a ni — sum, hlawhtlinna, ralin pawmna, mihring, keimah ngei pawh. Tin, Pathian hi <b>kan duhzâwng tichhuah nân hmanrua</b> anga hman pawh hi milem biakna a ni.</p><p class='punch'>A tâwpah chuan milem thûk ber chu “Pathian lalṭhutthlênga ṭhu keimah” hi a ni.</p>",
+  "gospel.coreIntro": "Chuti chuan, Pathianin he mi sual hi engtin nge a chhandam? Hei hi Bible-in a puanchhuah Chanchin Ṭha thinlung a ni.",
+  "gospel.crux": "<p class='crux-lead'>Bible pumpui hian hmun pakhat a kâwk.</p><p>Mihringin sual zinghlimna chu mahni theihnghilhin a chhe thei lo va, mi fel pakhat mah an awm bawk lo. Chuvângin tu emawin <b>an aiawhin man a pe ngei a ngai</b>.</p><p>Isua chu zirtîrna ṭha pe tûr chauhvin a lo kal a ni lo. Keimah min chhandam theihna kawng dang a awm loh avângin, <b>a lo kal a ngai a ni.</b></p><p class='crux-punch'>Chu krawsa-a khaibet tûr chu <b>keimah</b> ka ni.<br>Isuan <b>ka sual</b> chu a phurin, ka aiawhin chutah chuan khaibet a ni.</p><div class='crux-verse'>“Mahse, ani chuan kan bawhchhiatna avângin hliam a tuar a, Kan sual avânga sawisak a ni… A vuak tuar chu kan tân damna tûr a lo ni.” — Isaia 53:5</div>",
+  "faq.h": "Engemaw chungchângah i la inhnik thîn em?",
+  "faq.q1": "<span class='arr'>▸</span> Chutichuan tualthattu pawh a ring chauh chuan vânah a kal a, ṭha taka nung mahse ringlo chu hellah a kal mai dâwn em?",
+  "faq.a1": "<p>Zawhna ṭha tak a ni. Mahse a chhûngah hriatsualna pahnih a thup a awm.</p><p><b>① Bible-in mihringte hi “ṭha leh ṭhalo”-ah a then hran lo.</b> Tehna chu “a bula mi aia ṭha zâwk” a ni lo va, “Pathian thianghlimna famkim” a ni. Ani hmaah chuan tu mah “a ṭha ṭhei” an awm lo (Rom 3:23). Chuvângin hei hi “mi ṭha versus tualthattu” a ni lo va, natna thi theih awm pahnih nên a inang zâwk — pakhat chuan damdawi a la a, a dang chuan “anmah aiin ka ṭha zâwk” a tiin a hnâwl.</p><p><b>② Vân leh hell ṭhentu chu thil pakhat chauh a ni.</b> Thiltih marka ni lovin, <b>Isua Krista chu Lalpa anga i pawm tawh emaw, i sual harsatna chinfel a nih tawh emaw</b> a ni zâwk. Krista thisen avânga sual chinfel tawh chu vânah a kal a; amah pawm ngai lova sual nei reng chu a kal lo. Thiltih ṭha engmahin sual harsatna ngei chu a chinfel thei lo.</p><p>Chuvângin vân leh hell hi “nungchang ṭha man” a ni lo va, <b>Krista nêna inlaichînna</b> thu a ni. Tin, “ring” tih chu rilrua pawmpui mai a ni lo va, nun chunga lal inthlâkna a ni — amah pawm tak tak chu a la chhe lo va, thûk zâwka a sim zâwk a ni. A dik takin, “mi ṭha ka ni” tih <b>mahni inthianghlimtîrna</b> hi “Krista ka mamawh lo” tih ngaihtuahtîrtu, milem chhe har ber a ni (Luka 18:9-14).</p><p>Bible chuan chiang takin a sawi: <b>“Tu pawh Pathian Fapa ring chu thiam lohvin an awm lo va, tu pawh ring lo chu thiam lohvin an awm tawh reng a ni”</b> (Johana 3:18). Rorêlna chu “i nun tâwpah dah chhut” a ni lo va, <b>Krista i pawm leh pawm loh</b> azirin a thlen tawh a ni.</p><p class='faq-v'>Rom 3:23 · Johana 3:18 · Efesi 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Isua ring lo mah ila, mi ṭha ka nih chauh a tâwk lo vang em?",
+  "faq.a2": "<p>Hei hi ngaihtuah tlângpui a ni a, mahse “harsatna dik tak” chu eng nge tih a hria sual. Lem khatin sawi ila.</p><p><b>Suaktrah lawng chunga i awm anga ngai teh.</b> Lawng chu i tihfai a, lawng chhûngmite hnênah i ṭha a, i nun a ṭha hle rual pawhin, <b>suaktrah</b> i la ni reng a ni, lawng chuan a kal nân (rorêlna kai) a kawh tel zêl avângin. Harsatna chu “i thiltih mark” a ni lo va, <b>“lawng eng nge i awmpui” (i milim)</b> a ni zâwk.</p><p>Chuvângin Chanchin Ṭha chuan “ṭha zâwk ni tum rawh” a ti lo va, <b>“lawng thlâk rawh”</b> a ti zâwk. Sual lawng aṭangin chhuk la, Isua — <b>Pathian fa</b> nih milim tharah chuan kal lût rawh. Hei hi beihna marka i mark sângtir a ni lo va, kut min zâwntu chu rinchhanin a lawngah kâi lût a ni zâwk.</p><p>A dik takin Bible chuan chhandamna chu chutiang inthlâkna ang khân a sawi: <b>“Ani chuan thim thuneihna laka min chhan chhuakin, a Fapa hmangaih taka ramah chuan min hruai lût ta a”</b> (Kolosa 1:13).</p><p>Hriatsual suh: <b>hei hian nun ṭha hi a tlâwm tih a sawina a ni lo.</b> Mahse ṭhatna chu chhandamna “kâwng” a ni lo va, a <b>rah</b> a ni zâwk. Lawng thlâk tawh chuan ṭih avâng ni lovin, <b>fapa hmangaihnain</b> ṭha takin a nung tawh.</p><p class='faq-v'>Kolosa 1:13 · Johana 1:12 · Johana 3:3 · Efesi 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Tihsuaktu chuan “Pathianin min ngaihdam tawh” tiin lungmuang taka a awm laia, tihsuaktu chu a la hrehawm reng chuan, chu ngaihdamna chu a tlâwm lutuk lo vang em?",
+  "faq.a3": "<p>Zawhna chu a dik a, chu mawngmawhna chu a ni tak zet. Mahse chutiang sawina chu “Bible ngaihdamna” a ni lo va, chu mi <b>tihbawlhhlawhna</b> a ni zâwk.</p><p><b>① Pathian ngaihdamna chu engtikahmah a tlâwm ngai lo.</b> Sual chu “a lo thleng ngai lo” anga phûm hral a ni lo va; Pathian ngei chuan a Fapa nunna nên a man a pe a. Krawsa chu sual hi awlsam taka ngaih a nihzia lan a ni lo va, sual chu rit tak a nihzia lantîrtu a ni — khawvêla ngaihdamna to ber a ni.</p><p><b>② Sim dik takin rah a chhuah ngei.</b> Tihsuaktu chuan tihsuakmi hmaah “Pathianin min ngaihdam tawh, lungmuang takin ka awm” tiin a inngainat loh chuan, chu chu simna a ni lo va, simna entawn a ni zâwk (Mathaia 3:8). Tin, mihring leh Pathian inkâra ngaihdamna chuan tihsuakmi hliam chu a tihboral lo va, ngaihdam tûra a chih a tih bawk lo.</p><p><b>③ Sual chu engtikmah “liamsan mai” a ni ngai lo.</b> Sual tinrêng chu hmun pahnih zînga pakhatah man a pe ṭhîn: <b>Krista'n krawsah a phur emaw</b> (amah ringtute tân chuan thiamlohchanna a awm tawh lo, Rom 8:1), <b>a tâwp thlenga amah hnâwltu chuan amahin a phur emaw</b>. Chuvângin “ngaihdamna tlâwm” a awm lo. Tihsuaktu chuan he khawvêl rorêlna hmaah pawh mawhphurhna a la nei reng (Rom 13:1-4).</p><p><b>④ Tihsuakmi mittui chu Pathian hmaah engtikahmah a tê lo.</b> Pathianin ṭaptute nên a ṭap a, mittui tin a hria a, a tâwpah chuan amah ngeiin a hru hul ang (Thupuan 21:4). Chuvângin tihsuakmi pawhin phuba lâk rit chu amah chauhin a phur lo va, Pathian dik tak hnênah a kawltîr thei (Rom 12:19: “‘Phuba rêng rêng keima lâk tûr a ni, keiman ka thungrûl ang,’ Lalpan a ti”).</p><p class='faq-v'>Mathaia 3:8 · Rom 8:1 · Rom 13:1-4 · Thupuan 21:4</p>",
+  "respond.h3": "Chutichuan — keimah erawh chu?",
+  "respond.sub": "He hmangaihna hi thuhril a ni lo va, <b>sâwmna</b> a ni zâwk. I aiawha khaibet hmangaihna chuan i thinlung a khawih tawh chuan, tûnah hian he ṭawngṭaina hi thu khat zêlin, muang takin ṭawng rawh.",
+  "respond.prayer": "<p>Pathian,</p><p>mahni inchhandam thei lo mi sual ka nih ka pawm.</p><p>Isua chu keimah aiawhin krawsah a thi a, a kaihthawh leh tih ka ring.</p><p>Ka sual zawng zawng min ngaihdam la, tûn aṭang chuan ka nun Lalpa ni rawh.</p><p>I fa angin min pawm la, nun thar nung tûrin min siam rawh.</p><p class='amen'>Isua hmingin ka ṭawngṭai a ni. Amen.</p>",
+  "respond.after": "Hei hi rilru tak taka i ṭawngṭai chuan, Bible-in i <b>Pathian fa i lo ni ta</b> tih a sawi. I awm ruak tawh lo — i bulah kohhran zawng la, mi dangte nên rinna kawngah kal ho rawh.",
+  "respond.read": "Bible mahni inah chhiar rawh — Johana aṭangin ṭan rawh",
+  "respond.verse": "“Mi ṭhenkhat erawh chuan an lo lâwm a, amah an ring a, an hnênah Pathian fate nih theihna a pe a.” — Johana 1:12 · Rom 10:9-10",
+  "closing.main": "Pathian pakhat,<br>chanchin pakhat zârin,<br>engtikahmah a phal ngai loh<br><em>hmangaihna</em>in min zawng.",
+  "closing.verse": "“Eng mahin… thihna te, nunna te… thil siam dang rêng rêng te pawhin, kan Lalpa Krista Isuaa awm Pathian hmangaihna ata chu min ṭhen thei lo vang.” — Rom 8:38-39",
+  "closing.small": "He chanchin zui chungah hian Dân te, hla bûte, zâwlneite leh lehkhathawnte chuan “tisa” an belh.<br>Tûn aṭangin lehkhabu engpawh i hawn chuan, “chanchin khinah nge i awm” tih i hria ang.",
+  "closing.share": "↗ He chanchin hi sem chhuak rawh",
+  "about.line": "Korea Protestant kohhran tam zâwkin an pawm <b>chhandamna chanchin (redemptive-historical), evangelical · Reformed</b> thlîr dân hmanga siam a ni.",
+  "about.contact": "Zawhna · ngaihdan — <a id='contact' class='mail'>Email min thawn rawh</a>"
+ },
+ "epochs": [
+  {
+   "tag": "THUTHLUNG HLUI · ṬANNA",
+   "title": "Siamtirna",
+   "date": "A tîrah",
+   "one": "Pathianin khawvêl “ṭha êm êm” a siam.",
+   "people": "Pathian; Adama leh Evi",
+   "events": "Ni ruka siamtirna, mihring Pathian lim anga siam, Sabbath chawlhni",
+   "q": "A tîra Pathianin lei leh vân a siam khân",
+   "cite": "Genesis 1:1",
+   "christ": "Khawvêl hi “Thu” zârin siam a ni. Johana Chanchin Ṭhain chu Thu chu Isua ngei a ni tih a puang (Johana 1:1-3).",
+   "detail": "<p>Bible hi philosophy thu inhnialnaa ṭan a ni lo va, puanchhuahnaa ṭan a ni zâwk: <b>“A tîrah Pathian…”</b> Khawvêl hi thlawhhmai a ni lo va, Pathian mimal hnathawh a ni.</p><ul><li><b>Pathian lim</b> · thil siam zawng zawng zîngah mihring chauh hi Pathian ang lo siam a ni — amah hriat tûr leh khawvêl enkawl tûrin.</li><li><b>Chawlhna</b> · ni sarihna chawlhna chuan engkim a famkim a, a rem (shalom) a nihzia a lantîr: “a ṭha tih a hmu a.”</li><li><b>Eden</b> · a chhe hma khawvêl, Pathian leh mihring an kal hona hmun.</li></ul>",
+   "next": "Mahse he famkimna hi a chip hunah a thleng dâwn ta…"
+  },
+  {
+   "tag": "THUTHLUNG HLUI · HARSATNA A ṬAN",
+   "title": "Tlûkna",
+   "date": "A tîrah",
+   "one": "Sual a lût a, mihring leh Pathian inkârna a chat ta.",
+   "people": "Adama leh Evi; rûl (Setana)",
+   "events": "Thei khap an ei, Eden aṭanga hnawt chhuah, thihna leh thawhrim a lût",
+   "q": "“Nang leh hmeichhia hi ka inhmêlmâktîr ang che u a… I luruh a vaw keh ang a, nangin a keartui i chuk ang,” a ti a.",
+   "cite": "Genesis 3:15",
+   "christ": "Tlûkna a tâwp vêleha pek, Chanchin Ṭha thutiam hmasa ber: “hmeichhia thlah” chuan rûl lu a vaw keh ang — chu chu Isua a ni (Genesis 3:15; Rom 16:20; Galatia 4:4).",
+   "detail": "<p>“Pathian ang ni” tum nȃna thuâwih lohna avângin sual chu khawvêlah a lût. A rah chu dân tihsiatna mai a ni lo va, <b>inlaichînna tihchhiatna</b> a ni.</p><ul><li><b>Inlaichînna chat</b> · Pathian (inbihrûk), mihring dang (mawhna inhleh), leh thlai tinrêng (hling leh thawhrim) nên.</li><li><b>Thihna</b> · “i thi ngei ngei ang” tih vaukhânna chu a thleng dik ta.</li><li><b>Genesis 3:15</b> · mahse rorêlna kâr chhûngah chhandamna thutiam chu a lo lang hmasa. Mi zirthiamten hei hi <b>protoevangelium (Chanchin Ṭha hmasa ber)</b> an ti.</li></ul>",
+   "next": "Tûnah Pathianin mi pakhat a ko a, chhandamna a ṭan ta…"
+  },
+  {
+   "tag": "THUTHLUNG HLUI · THUTIAM",
+   "title": "Pute hlui",
+   "date": "B.C. 2000 vêl",
+   "one": "Pathianin Abrahama hnênah a tiam: “Malsâwmna kawng i ni ang.”",
+   "people": "Abrahama · Isaaka · Jakoba · Josefa",
+   "events": "Abrahama thuthlung, Isaaka hlan, Jakoba fapa sâwm leh pahnih, Josefa Aigupta rama lal a chang",
+   "q": "Hnam ropui takah ka siam ang che… khawvêla hnam tinrêng i zârah an nihlawh ang,",
+   "cite": "Genesis 12:2-3",
+   "christ": "“Hnam tinrêng malsâwm an ni ang” tih thutiam chu Abrahama thlah, Isuaah a thleng famkim (Galatia 3:16).",
+   "detail": "<p>Pathianin mihring zawng zawng harsatna chu mi pakhat, <b>Abrahama</b> koin a chinfel ṭan. A thinlung chu <b>thuthlung (thutiam)</b> a ni — hnam ropui, ram, leh “hnam tinrêng tâna malsâwmna.”</p><ul><li><b>Rinna</b> · Abrahama'n thutiam mit hmuh theih loh chu a ring a, chu chu felna anga ngaih a ni (Genesis 15:6).</li><li><b>Isaaka leh Jakoba</b> · thutiam chu a thlah hnuah a kal zêl; Jakoba (Israela) chu hnam sâwm leh pahnih pa a ni.</li><li><b>Josefa</b> · a unaute'n an hralh mahse lalah a chang — “Pathianin hmanraw ṭhaah a hmang” (Genesis 50:20).</li></ul>",
+   "next": "Josefa zuiin chhûngkua chu Aigupta rama an kal a — bawih an chang ta…"
+  },
+  {
+   "tag": "THUTHLUNG HLUI · CHHANDAMNA",
+   "title": "Aigupta chhuahsan leh thlalêr",
+   "date": "B.C. 1446 vêl",
+   "one": "Pathianin bawih mite a chhan chhuak a, amah mi tûrin a siam.",
+   "people": "Mosia, Arona, Faraw",
+   "events": "Hripui sâwm, Kalhpalh, Tuipui Sen kân, Sinai-a Thupêk Sâwm, biak puan, thlalêra kum 40",
+   "q": "Ka mite in ni ang a, in Pathian ka ni bawk ang.",
+   "cite": "Exodus 6:7",
+   "christ": "Kalhpalh — berâm no thisenin thihna a tihpêltu — chu Isua, “kan Kalhpalh berâm no,” keimahni tâna krawsa-a khaibet chu a kâwk (1 Korinth 5:7).",
+   "detail": "<p>Thuthlung Hlui chhandamna lian ber. Bawiha awm Israelte chu Pathian thiltihtheihnain zalênna an chang a, a <b>mi</b>-ah siam an ni.</p><ul><li><b>Kalhpalh</b> · berâm no thisen kawngkhâra hnawih chhûngkaw chu thihnain a kalhpalh — a hnua inthawina zawng zawng entawn.</li><li><b>Tuipui Sen</b> · kawng a bo huna chhandamna; “ral kân” chu ṭanṭhatna thar entîrnaah a chang.</li><li><b>Sinai thuthlung</b> · Thupêk Sâwm zârin Pathian mi anga nung dân an zir.</li><li><b>Biak puan</b> · Pathianin a mite zînga a awmna hmun lengtheng — “Immanuel” lo thleng tûr hmêlhriat.</li><li><b>Kum 40</b> · thuâwih lohnain chhuanlam pakhat thlalêrah a vâkvai a, mahse Pathian chuan manna leh chhûm leh mei kâwlin an bulah a awm.</li></ul>",
+   "next": "Ram tiam bula dingin, lût tûrin an inbuatsaih…"
+  },
+  {
+   "tag": "THUTHLUNG HLUI · CHENNA",
+   "title": "Hneh leh rorêltute",
+   "date": "B.C. 1400–1050 vêl",
+   "one": "Ram an chang, mahse lal an nei lo va, mi tinin an duhthlan an ti.",
+   "people": "Josua; Gideona leh Samsona ang rorêltute; Ruthi",
+   "events": "Jeriko tlûkna, Kanaan rama chenna, sual–rorêlna–chhandamna zinghlim thlâwk reng",
+   "q": "Chutih lai chuan Israel ramah lal an awm lo, ṭha an tih ang angin mi tin an awm mai a ni.",
+   "cite": "Roreltute 21:25",
+   "christ": "Ruthi thlah aṭangin Davida a lo chhuak a, Davida thlah aṭangin Isua a lo chhuak (Mathaia 1). Inrelbâwlna kârah pawh Messia chhûngkua zui chu a kal zêl.",
+   "detail": "<p>Josua hnuaiah ram tiamah an lût a, mahse an chen hnuah Pathian an theihnghilh lawk. Rorêltute hi chu zinghlim mahkhat thlâwk reng a ni.</p><ul><li><b>Sual zinghlim</b> · sual → hnehchhiahna → aw chhuah → rorêltuin chhandam → sual leh. A chhe chho zêl.</li><li><b>Rorêltute</b> · Gideona, Samsona, Debora — hun chhûng chhandamtu, mi huaisen mahse a chhiatna tam tak nei.</li><li><b>Ruthi</b> · hun thima rinawmna êng; ramdang hmeichhia Davida (leh Isua) thlahah a lût.</li></ul>",
+   "next": "Mipuiin an aw an chhuah: “Lal min pe ve rawh!”…"
+  },
+  {
+   "tag": "THUTHLUNG HLUI · ROPUI ZAWNG",
+   "title": "Ram pumkhat",
+   "date": "B.C. 1050–930 vêl",
+   "one": "Pathianin Davida hnênah a tiam: “I lalṭhutthlêng chu chatuanin a awm ang.”",
+   "people": "Saula · Davida · Solomona",
+   "events": "Lal hmasa ber Saula, Davida leh Goliatha, Davida thuthlung, Solomona Tempul sak",
+   "q": "I chhûngkua leh i ram chu kumkhuain ka tinghet ang a, i lalṭhutthlêng chu nghet takin a awm reng ang,",
+   "cite": "2 Samuela 7:16",
+   "christ": "“Lalṭhutthlêng chatuan” chu Davida thlah, Isuaah a thleng famkim — chuvângin amah chu “Davida Fapa” an ti (Luka 1:32-33; Mathaia 1:1).",
+   "detail": "<p>Israel ropui zawng, lal pathum hnuaiah.</p><ul><li><b>Saula</b> · mipuiin an dîl lal hmasa ber; ṭhatakin a ṭan, mahse thuâwih lohnain a hnâwl a ni.</li><li><b>Davida</b> · “Pathian thinlang ang mi.” Goliatha a hneh a, Jerusalem khawpui chu lal khawpuiah a siam. Sual nasa tak (Bath-sheba) a ti, mahse thinlung tak takin a sim (Sam 51).</li><li><b>Davida thuthlung (2 Samuela 7)</b> · Pathianin a lal chhûngkua chu chatuanin nghet tûrin a tiam — Messia beiseina bul pawimawh ber.</li><li><b>Solomona</b> · finna leh hausakna chunglênah Jerusalem <b>Tempul</b> a sa, mahse a tâwpah milem biaknaah a tlu.</li></ul>",
+   "next": "Solomona hnuah ram chu pahnihah a inthen ta…"
+  },
+  {
+   "tag": "THUTHLUNG HLUI · INTLAKHDELHNA",
+   "title": "Ram inthen",
+   "date": "B.C. 930–586",
+   "one": "Sim (Juda) leh hmâr (Israel)-ah a inthen a, zawizawiin a chhe ta.",
+   "people": "Ram pahnih lalte; Elija, Isaia, Jeremia ang zâwlneite",
+   "events": "Ram inthen, milem biakna a darh, zâwlneite vaukhânna",
+   "q": "Chutichuan, hmâr lam rama awm Israel mite chu Davida thlahte lakah tûn thlengin an hel ta a ni.",
+   "cite": "1 Lalte 12:19",
+   "christ": "He hun chhûng hian zâwlneiten lo kal tûr Messia chu chiang zual zêlin an sawi lâwk (Isaia 9:6; Isaia 53).",
+   "detail": "<p>Solomona fapa hunah ram chu a inthen: <b>hmâr lam Israel ram</b> (chi sâwm, khawpui Samari) leh <b>sim lam Juda ram</b> (chi hnih, khawpui Jerusalem).</p><ul><li><b>Israel (hmâr)</b> · a lal zawng zawngin milem an biak; B.C. 722-ah Assuria hnênah a tlûk.</li><li><b>Juda (sim)</b> · Davida thlah a kal zêl a, Hezekia leh Josia ang lal ṭha tlêm tê an awm, mahse a vântlângin a tlâkhniam.</li><li><b>Zâwlneite</b> · Elija, Amosa, Isaia, Jeremia chuan “lo kîr leh rawh!” an au. Hetah hian Messia hrilh lâwkna a hausa ber (Isaia 53-a “hrehawm tuartu chhiahhlawh”).</li></ul>",
+   "next": "A tâwpah vaukhânna rorêlna chu a lo thleng ta — sâlah hruai an ni…"
+  },
+  {
+   "tag": "THUTHLUNG HLUI · RORÊLNA",
+   "title": "Sâlna",
+   "date": "B.C. 722 / 586",
+   "one": "Ram chu a tlûk a, mite chu ram danga hruai an ni.",
+   "people": "Daniela, Ezekiela, Nebukadnezzara",
+   "events": "Israel Assuria hnênah a tlûk (722); Juda Babulon hnênah a tlûk a, Tempul tihboral a ni (586)",
+   "q": "Babulon lui kamahte kan ṭhu a, Zion ngaiin kan ṭap ṭhîn.",
+   "cite": "Sam 137:1",
+   "christ": "Beidawnna thûk berah Jeremia chuan “thuthlung thar” a tiam (Jeremia 31:31) — chu thuthlung ngei chu Isuan Ei Tâwp Berah a tibuat a ni.",
+   "detail": "<p>Vaukhânna chu a thleng dik ta. Tempul a kâng a, mite chu Babulonah hruai an ni — ram te, lal te, Tempul te an chân: a tâwp ber khirhna.</p><ul><li><b>Tlûkna pahnih</b> · Israel (Assuria, B.C. 722) leh Juda (Babulon, B.C. 586).</li><li><b>Daniela</b> · pathian biak lo lalṭhutphahah pawh rinna entawn (sakei kuaah); “ram chatuan” lo thleng tûr inlârna a hmu.</li><li><b>Beiseina alh êng</b> · ruh ro nung leh tûra Ezekiela inlârna (Ezekiel 37) leh Jeremia “thuthlung thar” chuan thima hma lam a kâwk.</li></ul>",
+   "next": "Kum sawmsarih hnuah Pathianin kawng a hawng — in lamah an haw…"
+  },
+  {
+   "tag": "THUTHLUNG HLUI · THARSIAMNA",
+   "title": "Sâl aṭanga haw",
+   "date": "B.C. 538–430",
+   "one": "An haw leh a, Tempul leh kulhmangte an sa thar.",
+   "people": "Ezra, Nehemia, Esther, Zerubbabela",
+   "events": "Sairusa thupêkin haw, Tempul sak that, Jerusalem kulhmang sak that, Lehkha Thu tharsiamna",
+   "q": "Lalpa-a in lâwmna chu in chakna a ni si a,",
+   "cite": "Nehemia 8:10",
+   "christ": "Thuthlung Hlui lehkhabu hnuhnung ber Malakia chuan Messia kawng buatsaihtu tirhkoh hrilh lâwkin a tâwp: “ka tirhkoh ka rawn tîr dâwn” (Malakia 3:1).",
+   "detail": "<p>Persia lal Sairusa thupêkin (B.C. 538) haw chu a ṭan. Vawi thumin an haw a, a chhiat chu an sa that.</p><ul><li><b>Zerubbabela</b> · Tempul a sa that (B.C. 516-ah zo).</li><li><b>Ezra</b> · Lehkha Thu a zirtir leh a, rinna a tharsiam.</li><li><b>Nehemia</b> · Jerusalem kulhmang chu ni 52-in a sa that.</li><li><b>Esther</b> · Persia rama Judate chu tihboral atangin a chhanchhuak — “hetiang hun atân pawh.”</li><li><b>Phûtna a la awm reng</b> · Tempul a ding tho mahse, Davida ang lal a awm lo. Mipuiin Messia an nghah.</li></ul>",
+   "next": "Tin… vân khâr ang maiin, kum 400 ngawihna a lo thleng ta."
+  },
+  {
+   "tag": "THUTHLUNG INKÂR · HMUN BUATSAIH",
+   "title": "Ngawihna kum",
+   "date": "B.C. 430–4 vêl",
+   "one": "Kum 400 chhûng zâwlnei aw awm lo; mahse hmun chu ngawih takin buatsaih a ni.",
+   "people": "Alexander Lian, Makabaite, Rom",
+   "events": "Persia → Grik → Makabai zalênna → Rom rorêlna",
+   "q": "A hun tak a lo thlen meuh chuan Pathianin a Fapa chu a rawn tîr a.",
+   "cite": "Galatia 4:4",
+   "christ": "He “hmun buatsaihna” zawng zawng hi Isua chu “a hun tak” takzeta a lo kal theih nâna Pathian hnathawh a ni.",
+   "detail": "<p>Malakia aṭanga Thuthlung Thar thlengin kum 400 vêl Bible thu thar (zâwlnei) awm lovin a kal. Mahse chanchin hnungah Pathianin Chanchin Ṭha darh nân kawng a buatsaih.</p><ul><li><b>Ram lalna inthlâk</b> · Persia → Grik (Alexander, B.C. 333) → Ptolemy leh Selukia → Makabai helna (B.C. 167) → Rom (B.C. 63).</li><li><b>Grik ṭawng</b> · Alexander hneh tlângna chuan Grik chu ṭawng pângngai a siam; Thuthlung Hlui chu Grik ṭawngah lehlin a ni (Septuagint), Chanchin Ṭha darh chak nân kawng a hawng.</li><li><b>Rom kawng leh remna</b> · kawng ṭha tak sak leh “Pax Romana” chuan thuchah kalna lampui a chang.</li><li><b>Synagog leh pâwlte</b> · synagog-a zirtirna a din ngheh; Pharisaite leh Sadukaite an lo chhuak a; <b>Messia nghahhlelhna</b> a hmin.</li></ul>",
+   "next": "Tin, ngawihna a chat hunah, a tâwpah chuan a lo kal ta."
+  },
+  {
+   "tag": "THUTHLUNG THAR · THLENNAKHÂWM",
+   "title": "Isua a lo kal",
+   "date": "B.C. 4–A.D. 30 vêl",
+   "one": "Messia tiam tâk chu a lo kal a, a thi a, a tho leh.",
+   "people": "Isua, zirtîr sâwm leh pahnih, Baptisttu Johana",
+   "events": "Mihringa lo lan (Krismas), zirtîrna leh thiltihmak rawngbâwlna, krawsa-a thihna, ni thumna-a thawhlehna",
+   "q": "Tin, thu chu tisaah a lo chang a, kan zîngah a lo awm ta a… khawngaih leh thutakin a khat.",
+   "cite": "Johana 1:14",
+   "christ": "Hmeichhia thlah (hawm 2), Abrahama malsâwmna (3), Kalhpalh berâm no (4), Davida lal chatuan (6), thuthlung thar (8) — engkim hi mi pakhat, Isuaah a thleng famkim: kan zâwlnei dik, puithiam dik, leh lal dik.",
+   "detail": "<p>Ngawihna a chat a; Tiam Tâk chu a lo thleng. Chanchin Ṭha pali chuan Isua nun, thihna, leh thawhlehna chu lam liin an thuhret.</p><ul><li><b>Mihringa lo lan</b> · Pathian chu mihringah a lo chang (Immanuel, “Pathian kan hnênah”), Bethlehem hmun hniamah.</li><li><b>Rawngbâwlna</b> · Pathian ram a zirtir a, dam lote a tihdam a, mi sualte a ko. “Mi pawh keimah hmu chuan Pa a hmu tawh a ni.”</li><li><b>Krawsa</b> · tlûkna (hawm 2) avânga lo thleng sual leh thihna man chu kan aiawhin a pe. Kalhpalh berâm no dik tak.</li><li><b>Thawhleh</b> · ni thumna-ah a tho leh a, sual, thihna, leh Setana thiltihtheihna a tihchhiat — krawsah ngei pawh “boruaka rorêltute leh thuneitute chu a hneh” a (Kolosa 2:15).</li></ul><p>Chuvângin Isua chu kan <b>zâwlnei dik</b> (Pathian kawng min hriattîrtu), kan <b>puithiam dik</b> (a taksa ngeiin sual a thâwitu), leh kan <b>lal dik</b> (sual, thihna, leh Setana hnehin chatuanin rorêltu) a ni.</p>",
+   "next": "Isua tho leh chuan a zirtîrte chu khawvêlah a tîr…"
+  },
+  {
+   "tag": "THUTHLUNG THAR · DARHNA",
+   "title": "Kohhran ṭanna",
+   "date": "A.D. 30 aṭangin",
+   "one": "Thlarau a lo thleng a, Chanchin Ṭha chu lei tâwp thlengin a darh.",
+   "people": "Petera, Paula, hmasâng kohhran",
+   "events": "Pentikost-a Thlarau chhuah, kohhran piannna, tihduhdahna kârah Jerusalem aṭanga Rom thlenga Chanchin Ṭha darh",
+   "q": "Nimahsela, Thlarau Thianghlim in chunga a lo thlen hunah thiltihtheihna in la nei ang a… kâwlkil thlengin ka thuhretute in ni tûr a ni,",
+   "cite": "Tirhkohte 1:8",
+   "christ": "He chanchin hi tûn thlengin a kal zêl. Bible chuan Isua a lo kal leh anga, engkim a tihthar leh tûr thutiamin a tâwp (Thupuan 21).",
+   "detail": "<p>Isua a kal chho hnuah, Thlarau tiam tâk chu Pentikost-ah a lo thleng a, kohhran a piang. Chanchin Ṭha chu darh hmâl takin a kal.</p><ul><li><b>Pentikost</b> · Thlarau zârin zirtîr ṭihâwm tak takte chu thuhret huaisen takah an chang.</li><li><b>Petera</b> · Jerusalem-a Judate hnênah Chanchin Ṭha a hril.</li><li><b>Paula</b> · tihduhdahtu aṭanga tirhkohah; Jentail khawvêl pumah kohhran a phun a, lehkhate a ziak.</li><li><b>Lei tâwp thleng</b> · Jerusalem → Judai → Samari → Rom. Abrahama hnêna “hnam tinrêng” thutiam chu a thleng dik.</li><li><b>Tin keimahni</b> · chanchin chu a tâwp lo; Isua lo kal leh tûr leh vân thar leh lei thar lamah a kal zêl.</li></ul>",
+   "next": "Mahse chanchin chu hetah a tâwp lo…"
+  },
+  {
+   "tag": "THUTHLUNG THAR · FAMKIMNA",
+   "title": "Tharsiamna (engkim thar)",
+   "date": "Lo thleng tûr",
+   "one": "Isua a lo kal leh a, engkim a tihthar leh.",
+   "people": "Lo kal leh tûr Isua; hnam tinrêng",
+   "events": "Lo kal lehna, rorêlna nghakhlel, sual·thihna·mittui tâwp, vân thar leh lei thar",
+   "q": "An mit ata mittui zawng zawng a hru hul ang a, Thih a awm leh tawh lo vang. Lu sûn te, ṭah te, nat te pawh a awm tawh hek lo vang.",
+   "cite": "Thupuan 21:4",
+   "christ": "Siamtirna hmasa Eden chu a tâwpah “Jerusalem Thar”-ah tharsiam a ni. Pathian chu a mite nên chatuanin a awm — Immanuel famkimna (Thupuan 21:3; Mathaia 1:23).",
+   "detail": "<p>Bible hi kohhran hunah a tâwp lo. A lehkhabu hnuhnung ber Thupuan chuan Isua <b>lo kal leh</b>in engkim a tihfamkim chu a lantîr.</p><ul><li><b>Lo kal lehna</b> · lal tiam tâk chu ropuinain a lo kîr leh.</li><li><b>Hnehna tâwp</b> · Setana leh thihna chatuanin tihbo an ni a, Krista chu lalte Lal anga rorêl (1 Korinth 15:25-26; Thupuan 20:10).</li><li><b>Rorêlna leh thawhlehna</b> · diklohna zawng zawng tihfel a ni a, mitthite an tho leh.</li><li><b>Vân thar leh lei thar</b> · sual, thihna, mittui, leh natna chu chatuanin a bo (Thupuan 21:4).</li><li><b>Eden tharsiam</b> · ṭanna aia ṭha “Jerusalem Thar”-ah Pathian chu a mite nên chatuanin a awm — Bible pumpuiin a panna hmun.</li></ul><p>Chuvângin tûnah hi <b>“a thleng tawh, mahse a la thleng famkim lo”</b> hun a ni: Isuaah chhandamna chu a <b>thleng tawh</b>, mahse a famkimna chu a la <b>nghah</b> reng a ni.</p>",
+   "next": "Chuti chuan, he chanchin pumpui hian “keimah” tân eng nge a sawi?"
+  }
+ ],
+ "love": [
+  "Chanchin ṭanna chu rorêlna a ni lo va, hmangaihna lêt khawpa siam khawvêl a ni.",
+  "Mihring an sual veleh, Pathianin chutah ngeiin chhandamna a tiam nghâl.",
+  "Pathianin a hlawt lo mi chu a zawng hmasa a, a hmingin a ko a, malsâwmna kawngah a siam.",
+  "Bawih mite mawngmawhna chu a hria a, anmahni chhandam tûrin amah ngei a lo chhuk.",
+  "Vawi tin an pumpelh mahse, an au veleh chhandamtu a tîr a, an tho leh tîr.",
+  "Davida tlu pawh a paih lo va; amah zârin lal chatuan a tiam.",
+  "Amah hnungtir mipuite hnênah zâwlneite a tîr a, “lo kîr leh ang che” tiin a ngên.",
+  "Sâlna ram thim ber thlengin pawh an bulah a lo chhuk a, tharsiamna a tiam.",
+  "Vawi tin tlachhe mipui hnên pawhah thutiam a hnâwl lo va, a phurh tho zêl.",
+  "Kum 400 ngawihna chhûng pawhin, thup takin chhandamna kawng a buatsaih.",
+  "Kan la mi sual lai ngeiin a Fapa a tîr a, a nunna a pe.",
+  "Hmangaihna kan dawn chu, tûnah khawvêl pum chhuara luangzauh tûrin a tîr.",
+  "A tâwpah mittui zawng zawng a hru hul ang a, hmangaihnaa engkim a tihthar leh ang."
+ ],
+ "mis": [
+  {
+   "w": "“Engvângin nge Pathianin sual thei mi a siam? Siam loh a ṭha lo vang em?”",
+   "t": "Pathianin khawvêl leh mihring hi tlachhamna avâng ni lovin, hmangaihna lêt khawpin a siam. Mihring chu <b>Pathian nêna inlaichîn thei mi</b> a siam hi hmangaihna ngei a ni. Tin, sual lût pawh hi Pathian chhandamna ruahmanna pâwn lamah a awm lo (Efesi 1:4-5). Bible thawn hmasa ber chu rorêlna a ni lo va, hmangaihna a ni."
+  },
+  {
+   "w": "“Thei pakhat ei avânga hnawt chhuah leh thihna pawh dawn — Pathian a nasa lutuk lo vang em?”",
+   "t": "Eden aṭanga hnawt chhuah chu rorêlna leh zahngaihna a ni ve. Pathian nêna ṭhen, chutiang tihchhiat tâk dinhmunah nunna thing ei a, chatuana nung sela, hrehawmnaah chatuanin tang ang (Genesis 3:22). Thihna phalna chu hawn lehna kawng hawnna a ni a; chutah ngeiin Pathianin Chhandamtu a tiam (Genesis 3:15). Rorêlna chhûngah hmangaihna a awm tawh."
+  },
+  {
+   "w": "“Abrahama chu rinna nasa tak a neih avânga thlan a ni — Bible mihringte hi mi ṭha vek an ni lo'm ni?”",
+   "t": "Abrahama pawh a dâwt a, a rinhlel bawk a, Jakoba chu mi bumtu a ni. Pathianin “mi tlâktute” a ko lo va, mi chhiatna neite chu khawngaihnain a ko zâwk. Thlan chhan chu an ṭhatna avâng ni lovin, Pathian hmangaihna rinawm avâng a ni (Deuteronomy 7:7-8)."
+  },
+  {
+   "w": "“Dân (thupêkte) hi chhandam nâna hlawhtling tûra zawhfiahna emaw chên emaw a ni lo'm ni?”",
+   "t": "Pathianin Dân a pek <b>hmaa</b> anmahni a chhandam tawh. Thupêk Sâwm pawh chhandamna puanchhuahnaa ṭan a ni: “Bawiha in awmna Aigupta ram aṭanga hruai chhuaktu che u Lalpa, in Pathian chu ka ni” (Exodus 20:2). Dân chu “chhandam i nih nân zâwm rawh” a ni lo va, khawngaihnaa chhandam tawhte chu engtin nge nung tûr tih kaihhruaina hmangaih tak a ni zâwk (Deuteronomy 7:7-9). Khawngaihna a hmasa reng a; thuâwihna chu chhânna a ni."
+  },
+  {
+   "w": "“Kanaan hneh chu zahngaihna nei lo thatna a ni — Thuthlung Hlui Pathian chu a nunrâwng tak ber a ni.”",
+   "t": "Hei hi thu pakhata chinfel theih loh, fimkhur taka ngaihtuah ngai a ni. Mahse Bible chuan hei hi remchânga thatna anga lan ai chuan, suangtuahna nei lo (naupang inthawina tiam) kum zabi tam tak dawhthei taka enkawl hnua rorêlna anga a tarlang (Genesis 15:16; Deuteronomy 9:4-5; Leviticus 18:24-25). Pathian chu rorêl pawhah a inhmeh lo va, amah panga, ramdang mi Rahaba leh Ruthi pawh chu lâwm takin a lo pawm (Josua 6:25; Ruthi 4:13-17)."
+  },
+  {
+   "w": "“Davida chu chhiatna nei lo mi huaisen a ni — chuvângin ‘Pathian thinlang ang mi’ tih a ni.”",
+   "t": "Davida chuan uire a ti a, tualthahna pawh a ti. “Pathian thinlang ang mi” tih chu chhiatna nei lo a ni lo va, a sual a thup lova — thinlung tak taka sim a, Pathian lamah lo kîr zêltu a ni zâwk (Sam 51). Pathian hmangaihnain mi tlu nasa pawh a paih bo lo."
+  },
+  {
+   "w": "“Zâwlnei chu hmâ lam hrilh lâwktu aii a ni — Thuthlung Hlui Pathian chu a thinur mai mai.”",
+   "t": "Zâwlnei thinlung chu “hmâ lam hrilh lâwk” a ni lo va, Pathian aw ngaih tak: “lo kîr leh ang che.” Rorêlna vaukhânna pawh hi tihboral nâna ni lovin, hawi kîr tîra nunna pe nân a ni: “Mi sualte thih hi ka lawmzâwng em ni? An lamlêta an nun asin ka duh” (Ezekiel 33:11)."
+  },
+  {
+   "w": "“Sâlna chuan Pathianin Israel a paih bo tlat tih a tilang.”",
+   "t": "Sâlna chu paih bohna a ni lo va, fa hmangaih chunga Pa thunûnna leh tinthianghlimna a ni (Hebrai 12:6). Pathian a kal san lo; sâlna laizing ngeiah Daniela bulah a awm a, a tiam bawk: “In tâna ka remruat chu keimah chauhvin ka hria… Chhiatna ni lo, thil ṭha in beisei chu in chan theih nân ka ruahman a ni” (Jeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Kum 400 chhûng thu a awm loh chuan, Pathian a kal san emaw, a chawl emaw maithei.”",
+   "t": "Ngawihna chu awm lohna a ni lo. A sawi loh chauh a ni a; chu hun chhûng zawng zawngah chhandamna hmun buatsaih nân ram te, ṭawng te, kawng te a thunûn reng. Hun ngawih ber hunah, Pathian chu hmangaihnain a thawk fak ber (Galatia 4:4)."
+  },
+  {
+   "w": "“Isua hi zirtîrtu ṭha pakhat mai a ni — krawsa chu lungchhiatthlâk taka hnehchhiahna a ni.”",
+   "t": "Isua chuan Pathian a nih a sawi (Johana 8:58), tin krawsa chu thil tihlâk emaw hnehchhiahna a ni lo va, ruahman hmangaihna a ni zâwk. Chakna hmangin a hruai a ni lo va, mahni duhthlanin a nunna a pe: “Miin a ṭhian tân a nun a pêk aliama hmangaihna nasa zâwk tu man an nei lo” (Johana 15:13)."
+  },
+  {
+   "w": "“Kohhran chu mi famkim pâwl emaw, in mai a ni.”",
+   "t": "Kohhran chu “mi thianghlim famkim” khâwmkhâwm a ni lo va, <b>mi sual ngaihdam</b> khâwmkhâwm a ni zâwk. Tirhkoh Paula ngei pawhin “sual ber” a inti (1 Timothea 1:15). Hmasâng kohhran pawh an inhnial a, an tlûk ve thîn (Tirhkohte 6:1; 1 Korinth 1:11). Kohhran chu inuangna hmun a ni lo va, hmangaihna an dawn chu pêkzêltute an ni (Johana 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Pian aṭanga sual — mi fel a awm lo",
+   "body": "Harsatna chu “thiltihsual tlêm tê” a ni lo va, thinlung bul a ni. Adama aṭangin mi tin sual hnuaiah piang an ni a, mahni theihtawpin Pathian an thleng thei lo.",
+   "vref": "Rom 3:10-12, 23",
+   "vtext": "Tu mah mi fel rêng an awm lo, Pakhat mah an awm lo… mi zawng zawngin thil sual an ti vek a, Pathian ropuina chu an chang thei ta lo va ni."
+  },
+  {
+   "title": "Dân chuan min chhandam thei lo",
+   "body": "Dân chu kâilâwn a ni lo va, lemchhuahna a ni. I beih chho poh leh i tla tlâk zia a tilang chho. A thiltum chu Krista hnêna min hruai a ni.",
+   "vref": "Rom 3:20 · Galatia 3:24",
+   "vtext": "Dân avângin miin thil sual an tih an inhre fiah ṭhîn a ni… rinna thu tihlan fiah a nih hma chuan min kaihruai a."
+  },
+  {
+   "title": "Khawngaihnain — thawhrim ni lova, thilthlâwn",
+   "body": "Chhandamna chu thiltih ṭha man a ni lo va, a tlâk lo mi tâna Pathian thilpêk a ni. Chuvângin tu mahin an inchhuang thei lo.",
+   "vref": "Efesi 2:8-9",
+   "vtext": "Rinna avânga khawngaihnaa chhandam in ni… Thil ṭha tih avângin a ni lo, chuti ni se miin an chhuang dah ang e."
+  },
+  {
+   "title": "Rinna avânga thiamchanna",
+   "body": "Dân zawm vâng ni lovin, Isua Krista rin avângin felah ngaih kan ni — mahni felna silh ni lovin, amah felna silh kan ni zâwk.",
+   "vref": "Rom 5:1 · Galatia 2:16",
+   "vtext": "rin vânga thiam kan chan tâk avângin… Dân zawm vâng ni lovin, Isua Krista rin avâng chauhvin miin Pathian hmaah thiam an chang thei a ni."
+  },
+  {
+   "title": "Bible chuan Isua a kâwk",
+   "body": "Bible hi mi liante chanchin emaw, mahni puihna lehkhabu emaw a ni lo. Genesis aṭanga Thupuan thlengin, phêk tinin mi pakhat — Isua Krista a thuhret.",
+   "vref": "Johana 5:39 · Luka 24:27",
+   "vtext": "Chu chu ka thu hriattîrtu a ni si a… Lehkha Thua a chanchin ziakna apiang anmahni a hrilh fiah a."
+  },
+  {
+   "title": "Pathian ram — Isua thuchah laibû",
+   "body": "Isua thu zirtîr tam ber. Pathian lal anga rorêlna ram chu Isua nên he khawvêlah a lo lût a, a lo kal lehnaah a thleng famkim ang. Krawsa leh thawhlehna zârin Isua chu sual, thihna, leh Setana hnehtu Lal dik tak a ni.",
+   "vref": "Marka 1:15",
+   "vtext": "Hun chu a lo thleng ta; Pathian ram pawh a hnai e; sim ula, Chanchin Ṭha hi ring rawh u."
+  },
+  {
+   "title": "Chanchin Ṭha — engkim a tichhuah ta",
+   "body": "Sual man keiman ka pe thei loh chu Isuan ka aiawhin krawsah a pe a, thawhlehna zârin thihna a hneh. “Ti rawh” chungah ni lovin, “A kim ta!” chungah ka innghat.",
+   "vref": "Johana 19:30 · Rom 5:8",
+   "vtext": "A kim ta!… mi sual kan nih reng laiin Krista kan tân zu thi a!"
+  }
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodus": "EXO",
+  "Leviticus": "LEV",
+  "Numbers": "NUM",
+  "Deuteronomy": "DEU",
+  "Josua": "JOS",
+  "Roreltute": "JDG",
+  "Ruthi": "RUT",
+  "1 Samuela": "1SA",
+  "2 Samuela": "2SA",
+  "1 Lalte": "1KI",
+  "2 Lalte": "2KI",
+  "Nehemia": "NEH",
+  "Sam": "PSA",
+  "Isaia": "ISA",
+  "Jeremia": "JER",
+  "Ezekiel": "EZK",
+  "Ezekiela": "EZK",
+  "Malakia": "MAL",
+  "Mathaia": "MAT",
+  "Marka": "MRK",
+  "Luka": "LUK",
+  "Johana": "JHN",
+  "Tirhkohte": "ACT",
+  "Rom": "ROM",
+  "1 Korinth": "1CO",
+  "Galatia": "GAL",
+  "Efesi": "EPH",
+  "Kolosa": "COL",
+  "1 Timothea": "1TI",
+  "Hebrai": "HEB",
+  "Thupuan": "REV"
+ },
+ "yv": 1048,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

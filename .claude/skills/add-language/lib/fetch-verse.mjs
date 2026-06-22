@@ -168,13 +168,36 @@ function ebibleMethod(ref) {
   return pr.list.map(u => vs[+u.split('.')[2]]).filter(Boolean).join(' ').replace(/\s+/g, ' ').trim();
 }
 
+// 신포맷(Door43-Catalog 등): content/<SS>.md 마크다운에서 프레임 추출
+//  프레임 = 이미지(![..]) 줄로 구분되는 본문 문단. title = '# 제목', reference = '_..._'.
+function obsFrameMd(content, frameRaw) {
+  const lines = content.split(/\r?\n/);
+  if (frameRaw === 'title') { const h = lines.find(l => /^#\s/.test(l)); return h ? h.replace(/^#+\s*/, '').trim() : ''; }
+  if (frameRaw === 'reference') { const r = lines.find(l => /^_.*_\s*$/.test(l.trim())); return r ? r.trim().replace(/^_+|_+$/g, '').trim() : ''; }
+  const frames = []; let buf = [];
+  for (const l of lines) {
+    if (/^!\[/.test(l)) { if (buf.length) { frames.push(buf.join(' ').trim()); buf = []; } continue; }
+    const t = l.trim();
+    if (!t || /^#/.test(l)) continue;
+    if (/^_.*_\s*$/.test(t)) { if (buf.length) { frames.push(buf.join(' ').trim()); buf = []; } break; }
+    buf.push(t);
+  }
+  if (buf.length) frames.push(buf.join(' ').trim());
+  return frames[(+frameRaw) - 1] || '';
+}
 function obsFrame(ref) {
   const m = String(ref).split('/');
   if (m.length < 2) return '';
   const story = ('0' + m[0]).slice(-2);
-  const frame = /^\d+$/.test(m[1]) ? ('0' + m[1]).slice(-2) : m[1];  // title / reference 도 허용
+  const frameRaw = m[1];  // title / reference / 숫자
+  // 구포맷: <SS>/<FF>.txt (예: fa_gl/Balochi_OBS)
+  const frame = /^\d+$/.test(frameRaw) ? ('0' + frameRaw).slice(-2) : frameRaw;
   const t = curlText(`https://git.door43.org/${OBS}/raw/branch/master/${story}/${frame}.txt`);
-  return (t && t.trim() !== 'Not found.') ? t.replace(/\s+/g, ' ').trim() : '';
+  if (t && t.trim() && t.trim() !== 'Not found.') return t.replace(/\s+/g, ' ').trim();
+  // 신포맷: content/<SS>.md (예: Door43-Catalog/guq_obs)
+  const md = curlText(`https://git.door43.org/${OBS}/raw/branch/master/content/${story}.md`);
+  if (md && md.trim() !== 'Not found.') { const v = obsFrameMd(md, frameRaw); if (v) return v.replace(/\s+/g, ' ').trim(); }
+  return '';
 }
 
 for (const r of refs) {

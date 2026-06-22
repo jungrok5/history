@@ -146,6 +146,10 @@ const LANGS = [
   { code:'bho',    dir:'ltr', locale:'bho_IN' },
   { code:'ctg',    dir:'ltr', locale:'ctg_BD' },
   { code:'bal',    dir:'rtl', locale:'bal_PK' },
+  { code:'mag',    dir:'ltr', locale:'mag_IN' },
+  { code:'chk',    dir:'ltr', locale:'chk_FM' },
+  { code:'lus',    dir:'ltr', locale:'lus_IN' },
+  { code:'haz',    dir:'rtl', locale:'haz_AF' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
@@ -174,6 +178,7 @@ const FONT_TITLE = {
   'hi':'Noto Serif Devanagari, Noto Sans Devanagari, serif',
   'ctg':'Noto Serif Bengali, Noto Sans Bengali, serif',
   'bho':'Noto Serif Devanagari, Noto Sans Devanagari, serif',
+  'mag':'Noto Serif Devanagari, Noto Sans Devanagari, serif',
   'bo':'Noto Serif Tibetan, Noto Sans Tibetan, serif',
   'ug':'Noto Naskh Arabic, serif',
   'he':'Noto Serif Hebrew, serif',
@@ -194,6 +199,7 @@ const FONT_TITLE = {
   'ta':'Noto Serif Tamil, serif',
   'fa':'Noto Naskh Arabic, serif',
   'bal':'Noto Naskh Arabic, serif',
+  'haz':'Noto Naskh Arabic, serif',
   'lo':'Noto Serif Lao, serif',
   'si':'Noto Serif Sinhala, serif',
   'bn':'Noto Serif Bengali, serif',
@@ -212,6 +218,7 @@ const FONT_SUB = {
   'hi':'Noto Sans Devanagari, sans-serif',
   'ctg':'Noto Sans Bengali, sans-serif',
   'bho':'Noto Sans Devanagari, sans-serif',
+  'mag':'Noto Sans Devanagari, sans-serif',
   'bo':'Noto Sans Tibetan, sans-serif',
   'ug':'Noto Sans Arabic, sans-serif',
   'he':'Noto Sans Hebrew, sans-serif',
@@ -232,6 +239,7 @@ const FONT_SUB = {
   'ta':'Noto Sans Tamil, sans-serif',
   'fa':'Noto Sans Arabic, sans-serif',
   'bal':'Noto Sans Arabic, sans-serif',
+  'haz':'Noto Sans Arabic, sans-serif',
   'lo':'Noto Sans Lao, sans-serif',
   'si':'Noto Sans Sinhala, sans-serif',
   'bn':'Noto Sans Bengali, sans-serif',

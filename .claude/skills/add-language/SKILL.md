@@ -249,9 +249,9 @@ When a language has no Bible anywhere fetchable (not YouVersion, not eBible, not
 For a language with **no Bible** (not YV, not eBible) **and no good bridge**, use **Open Bible Stories** (unfoldingWord,
 50 narrative stories Creation→Return, hundreds of languages, **CC BY-SA**). OBS is a *retelling*, not verses — so we quote it
 **verbatim but clearly labelled as OBS, not Scripture**, and that page becomes **CC BY-SA** (the rest of the site stays CC BY).
-- **Catalog**: `git.door43.org/api/v1/catalog/search?subject=Open Bible Stories&stage=prod`. Each lang → a repo `<owner>/<repo>`
-  (e.g. `fa_gl/Balochi_OBS`). Frame files: raw `git.door43.org/<repo>/raw/branch/master/<SS>/<FF>.txt` (story/frame, `title`, `reference`).
-  Per-story reader: `door43.org/u/<repo>/master/<SS>.html`.
+- **Catalog**: `git.door43.org/api/v1/catalog/search?subject=Open Bible Stories&stage=prod`. Each lang → a repo `<owner>/<repo>`.
+  **Two on-disk layouts — fetch-verse handles BOTH**: old per-frame `<SS>/<FF>.txt` (e.g. `fa_gl/Balochi_OBS`) and newer
+  markdown `content/<SS>.md` (Door43-Catalog/* repos, frames split on `![..]` image lines). Per-story reader (both): `door43.org/u/<repo>/master/<SS>.html`.
 - **Pack config**: `yv:"obs:<owner>/<repo>"`, **no** `books`/`bookopt`. `ui.version:"(OBS)"`. `dir`/`htmlLang`/`menuName`/font = mother tongue.
   `s["bridge.note"]` = a mother-tongue banner lead ("no Bible in <lang> yet; these stories are from") — render appends the OBS
   link + `© unfoldingWord · CC BY-SA 4.0` (visible + static-baked by build-pages, so crawlers/no-JS see the attribution).

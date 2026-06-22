@@ -1,0 +1,420 @@
+{
+ "menuName": "Chuuk",
+ "htmlLang": "chk",
+ "dir": "ltr",
+ "brand": "Ewe Paipel lon Eu Chök Tapwö",
+ "docTitle": "Ewe Paipel lon Eu Chök Tapwö · Seni ewe Föritä tori ewe Mwichefel",
+ "share": {
+  "title": "Ewe Paipel lon Eu Chök Tapwö",
+  "text": "Lon eu chök tapwö, kütta ewe pworausen Paipel mi watte — me pwata Jesus a feito."
+ },
+ "ui": {
+  "people": "Aramas",
+  "events": "Mettoch mi lapalap",
+  "christLabel": "A pwäri Jesus",
+  "loveLabel": "Tong mi esap mwüt",
+  "mythWrong": "Ekiek mi mwääl",
+  "mythRight": "Ewe enlet",
+  "more": "Aleasini",
+  "version": "(CHK)"
+ },
+ "labels": {
+  "start": "Poputä",
+  "thread": "Ewe pworaus",
+  "gospel": "Ewe Kapas Allim",
+  "about": "Usun"
+ },
+ "s": {
+  "ui.share": "↗ Tinala",
+  "ui.toast": "A fen apüü ewe link 📋",
+  "ui.footer": "Ewe Paipel lon Eu Chök Tapwö · Ekewe kapasen Paipel a feito seni ewe Paipel chk (eBible.org)",
+  "hero.kicker": "SENI EWE FÖRITÄ TORI EWE MWICHEFEL",
+  "hero.title": "Ewe Paipel,<br><span class=\"em\">lon eu chök tapwö</span>",
+  "hero.sub": "Lon eu chök tapwö, kütta ewe pworausen Paipel mi watte — me pwata Jesus a feito.",
+  "hero.cue": "Tapwö feitiu<span>↓</span>",
+  "thread.eyebrow": "EU CHÖK KAPAS MI ARÄPÄKKICHFENGENI MEINISIN",
+  "thread.h2": "Lon sopwoloon, ewe Paipel eu chök pworaus",
+  "thread.flow": "<b>Pwon</b><span class=\"arw\">→</span><b>Witiwit</b><span class=\"arw\">→</span><b>Apwönüetä</b>",
+  "thread.note": "Kot a <b>pwon</b> (ewe pwon mi pin), aramas ra <b>witi</b> fansoun mi lap, nge lon sopwoloon meinisin a <b>apwönüetä</b> o unusöchüla lon Jesus. Tapwö ngeni ekkewe 13 sopwun fän ewe al — chök wewe ngeni <b>“Aleasini”</b> lon eu me eu kard ren ewe pworaus mi alolol.",
+  "gospel.eyebrow": "MET EI PWORAUS A WEWE NGENI “NGANG”",
+  "gospel.h2": "Ewe lölükülükün letipen ewe Paipel",
+  "gospel.lead": "Ewe Paipel <b>esap eu puken sukul ren “om kopwe eman aramas mi mürina.”</b>",
+  "gospel.sublead": "Ewe pworausen ifa usun Kot, <b>ren chök an ümöümöch</b>, a amanaua chon tipis ekkewe rese tongeni amanau püsiniir. Lon letipen, Jesus Kraist a üt.",
+  "gospel.mirror": "<h3>Ewe sönüsönün Israel mi esap mwüch a wesewesen pwäri “ngang”</h3><div class=\"cycle\"><b>Fötek</b><span class=\"a\">→</span><b>Riäfföü</b><span class=\"a\">→</span><b>Sio</b><span class=\"a\">→</span><b>Kot a amanau</b><span class=\"a\">→</span><b>Fötek sefäl…</b></div><p>Seni fansoun ekewe Soukapwüng tori ewe fansoun ar nikina, Israel a sönükini ei sönüsön esap mwüch. Ewe Paipel esap maka ei ren ach sipwe turunufas, “Iföükör ar wä ngauöngau.”</p><p>Ina eu <b>mwäsäl</b>. Ewe poraus esap “Israel a föri ena” nge <b>“ngang üa pwal föri ussun ena”</b> (1 Korint 10:11).</p><p>Eu <b>uut</b> esap chök eu mettoch mi pir. Ina <b>met chök sia tongei are likiitü won lap seni Kot</b> — möni, sopwöch, alapas, aramas, are pwal ngang püsin. Iwe, ach nöünöü Kot pwe epwe <b>eu mettoch sia eäni ren ach kopwe küna minne sia mochen</b> ina pwal fötek.</p><p class=\"punch\">Lon sopwoloon, ewe uut mi alolol seni meinisin ina “ngang püsin üa mottiu won mwün Kot.”</p>",
+  "gospel.coreIntro": "Iwe, ifa usun Kot a amanaua eu chon tipis ussun na? Ina ewe letipen ewe Kapas Allim ewe Paipel a esinai.",
+  "gospel.crux": "<p class=\"crux-lead\">Ewe Paipel meinisin a pwäri eu chök leni.</p><p>Aramas rese tongeni amwüchanü ewe sönüsönün tipis püsiniir, nge esap fokun wor eman mi pwüng. Ina pwata epwe wor emön epwe <b>liwini ngeni ar tipis won mesa</b>.</p><p>Jesus esap chök feito ren an epwe ngeni kich eu äiti mi mürina. Esap wor pwal eu al mi amanauei, ina <b>a fokun feito.</b></p><p class=\"crux-punch\">Ewe emön epwe fis le tä won ena iräpenges ina <b>ngang</b>.<br>Jesus a uweia <b>ai tipis</b> nge a tä won ena ren liwiniei.</p><div class=\"crux-verse\">“Nge a kinas pokiten ach pupungau, a tatakis pokiten ach föföringau. … nge ren an kinas kana a mola ach samau.” — Aisea 53:5</div>",
+  "faq.h": "Mei wor met ka chüen ekieki?",
+  "faq.q1": "<span class=\"arr\">▸</span> Iwe, eman chon nninni epwe chök lükü nge epwe feila läng, nge eman aramas mi mürina lon manawan meinisin nge esap lükü epwe feila Hell?",
+  "faq.a1": "<p>Ina eu kapas eis mi pwüng. Nge mei wor rüu ekiek mi mwääl mi opaalo lon.</p><p><b>① Ewe Paipel esap aimwüfeseni aramas ngeni “mi mürina me mi ngau.”</b> Ewe lemelem esap “mürina seni emön nge a nonom unukkun” nge “ewe unusen pinin Kot.” Mwen mesan, esap wor eman mi “naf an mürina” (Rom 3:23). Ina pwata esap “eman aramas mi mürina me eman chon nninni,” nge a ussun rüümön mi eäni eu chök semwen mi achocho — emön a etiwa ewe säfei, nge emön a likiitü o apasa, “Üa mürinai seni ena emön.”</p><p><b>② Eu chök mettoch a aimwüfeseni läng me Hell.</b> Esap ewe naapen om föför, nge <b>ika ka etiwa Jesus Kraist pwe om Samol o ka amwüchaanü ewe osukosukun om tipis</b>. Ewe emön mi amwüchaanü an tipis ren chchaan Kraist epwe feila läng; ewe emön rese fokun etiwa i, nge an tipis a chüen nonom, esap. Esap wor eu föför mi mürina epwe tongeni amwüchaanü ewe osukosukun tipis.</p><p>Ina pwata läng me Hell esap “liwinin föför mi mürina” nge ina <b>ririifengenin emön me Kraist</b>. Iwe, “lükü” esap chök ekiek lon ekiek, nge a siwili ió epwe nemeni manawom — emön mi enletin etiwa i esap lapalo le sou-tekia, nge a aier ren alolol. Wesewesen, ewe ekiek pwe “ngang eman mi mürina” ina ewe uut mi weires seni meinisin le amwüchanü, ewe a äriaffoukich pwe sisap nöünöü Kraist (Luk 18:9-14).</p><p>Ewe Paipel a apasa ngeni kich pin: <b>“Iö a lükü ewe Nau esap küna feiengauen apwüng, nge iö esap lükü i a fen küna feiengauen apwüng”</b> (Jon 3:18). Ewe kapwüng esap “naap manawom mürin om mäla,” nge a fen kapwüng seni <b>ika ka etiwa Kraist</b>.</p><p class=\"faq-v\">Rom 3:23 · Jon 3:18 · Efisus 2:8-9 · Luk 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Sap naf chök ai üpwe eman mi mürina, inaamwo ika üsap lükü Jesus?",
+  "faq.a2": "<p>Ina ewe ekiek aramas chommong ra eäni, nge a mwäälinneti met ina “ewe osukosuk mi enlet.” Iei eu kapas äwewe.</p><p><b>Anini en mi nonom won eu warupwen sou-solä.</b> Inaamwo ka apinala lukapachen ewe warup, ka eäni tong ngeni ekewe chon angang, ka manaw mi mürina — nge en mei chüen eman <b>sou-solä</b>, pun ewe warup a uweiuk ngeni ia a kerän feila ie (ewe leni epwe wor kapwüng ie). Ewe osukosuk esap “naapen om föför” nge ina <b>“ menni warup ka nonom won” (en pwisin)</b>.</p><p>Ina pwata ewe Kapas Allim esap apasa “achocho le eman mi mürina,” nge a apasa <b>“ekiisini warup.”</b> Feitiu seni ewe warupwen tipis nge ka feita ngeni Jesus — ngeni ewe minafön napanapan, om kopwe <b>nöün Kot</b>. Ina esap atekia om naap ren om achocho, nge ina ka lükü Ewe a alolei poun nge ka ekiis ngeni an we warup.</p><p>Wesewesen ewe Paipel a aweweei ewe amanau ina chök ei ekiisin: <b>“A angasakich seni fän nemenien rochopwak o atolongakich lon mwün Nöün we mi achengicheng”</b> (Kolose 1:13).</p><p>Kosap mwäälinneti: <b>esap wewe pwe manau mi mürina esap lamot.</b> Nge mürinaöch esap “ewe popun” ewe amanau, nge ina <b>uwaan</b>. Ewe emön a ekiisini warup iei a manaw mi mürina esap pokiten niuokkus, nge pokiten <b>tongen eu nau</b>.</p><p class=\"faq-v\">Kolose 1:13 · Jon 1:12 · Jon 3:3 · Efisus 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Ika emön sou-föringau a apasa “Kot a fen omusalo ai tipis” nge a nonom lon kinamwe, nge ewe emön mi riäfföü a chüen riäfföü — sap a wesewesen mecheres ena omusomus?",
+  "faq.a3": "<p>Ewe kapas eis a pwüng, nge ewe riäfföü mei enlet. Nge eu sokun apas usun ena esap “ewe omusomusen ewe Paipel” — ina eu <b>mwäälinnetin</b> i.</p><p><b>① An Kot omusomus esap fokun mecheres.</b> Tipis esap opaalo usun ita ese fis; pwisin Kot a liwini ren manawen pwisin Nöün we. Ewe iräpenges esap pwäri pwe tipis a ngöngön, nge a pwäri ükükün chouchoun tipis — ina ewe omusomus mi alapalo lon fanüfan.</p><p><b>② Ewe enletin aierin tipis a uwa.</b> Ika eman sou-föringau a sou-tekia mwen ewe emön mi riäfföü — “Kot a omusa ngeni ei, ina üa nonom lon kinamwe” — ina esap aier nge ina chök an apinukunuk (Mattu 3:8). Iwe, ewe omusomus lefilen emön me Kot esap amwüchaanü ewe kinas-pweten ewe chon riäfföü are amwacheari epwe omusa.</p><p><b>③ Tipis esap fokun chök “mwütawu.”</b> Tipis meinisin a liwin lon eu me lukun rüu leni — <b>ika Kraist a uweia won ewe iräpenges</b> (ngeni ekewe ra lükü i esap chüen wor kapwüng, Rom 8:1), <b>ika ewe emön mi fokun pwätä i epwe pwisin uweia.</b> Ina pwata esap wor “omusomus mi mecheres.” Ewe sou-föringau epwe pwal uweia an wisen mwün ei fanüfan (Rom 13:1-4).</p><p><b>④ Chönün mesen ewe emön mi riäfföü esap fokun kükkün mwen Kot.</b> Kot a kechü fengen me chokewe ra kechü, a chechemeni chönün mas meinisin, nge epwe pwisin talüpwasei lon sopwoloon (Pwäratä 21:4). Ina pwata ewe emön mi riäfföü esap püsin uweia chouchoun liwin, nge epwe tongeni mwüt ngeni Kot mi pwüng (Rom 12:19 — “Ngang üpwe ngeniir chappen ar föför … iei alon ewe Samol”).</p><p class=\"faq-v\">Mattu 3:8 · Rom 8:1 · Rom 13:1-4 · Pwäratä 21:4</p>",
+  "respond.h3": "Iwe — met usun ngang?",
+  "respond.sub": "Ei tong esap pworaus chök nge ina eu <b>etiwetiw</b>. Ika ewe tong mi tä won ena iräpenges ren liwiniom a chök etötö letipom, iei iótä ekei kapas mi mochomoch, eu me eu sopwun.",
+  "respond.prayer": "<p>Kot,</p><p>üa pwüng pwe ngang eman chon tipis mi esap tongeni amanau püsin.</p><p>Üa lükü pwe Jesus a mäla won ewe iräpenges fänäsengesiei nge a manausefäl.</p><p>Kose mochen omusa ai tipis meinisin, nge seni iei kopwe ewe Samol won manawei.</p><p>Kopwe etiwaei pwe nöüm, o mwüt ngeniei pwe üpwe manaw eu manau mi minafö.</p><p class=\"amen\">Lon iten Jesus üa iótek. Amen.</p>",
+  "respond.after": "Ika ka iótek ei seni letipom, ewe Paipel a apasa pwe ka fen <b>wiliti nöün Kot</b>. Kose chüen alimök — kütta eu mwichefel mi arap ngonuk o fetäl fengen me ekkewe ekkoch lon ewe alen lükü.",
+  "respond.read": "Älleani ewe Paipel pwisin — poputä seni Jon",
+  "respond.verse": "“Nge iö kana ra etiwa o lükü i a ngeniir manaman pwe repwe wiliti nöün Kot.” — Jon 1:12 · Rom 10:9-10",
+  "closing.main": "Eu chök Kot,<br>fän eu chök pworaus,<br>a kütta kich ren eu <em>tong</em><br>mi esap fokun mwüt.",
+  "closing.verse": "“… esap fokun wor och … esap fokun wor och lein förian kewe meinisin epwe tongeni aimwüfesenikich seni än Kot we chen mi torikich lon Kraist Jesus ach Samol.” — Rom 8:38-39",
+  "closing.small": "Won ei pworaus, ewe Allük, ekewe Kölün Köl, ekewe Soufos me ekewe Toropwe ra achomonga ewe “fituk.”<br>Iei, inaamwo menni puk ka suuki, kopwe küna ia ka nonom ie lon ewe pworaus.",
+  "closing.share": "↗ Tinala ei pworaus",
+  "about.line": "A longolong won ewe lemelemen amanau-uruwo (kapas allim · refömt) ewe lapalapen ewe mwichefelin Korea Protestant a eäni.",
+  "about.contact": "Kapas eis · ekiek — <a id=\"contact\" class=\"mail\">Tinatoei email</a>"
+ },
+ "epochs": [
+  {
+   "tag": "TESTAMENT MI LÄL · POPUTÄ",
+   "title": "Ewe Föritä",
+   "date": "Lepopun",
+   "one": "Kot a föri eu fanüfan mi “fokun mürina.”",
+   "people": "Kot; Atam me Ip",
+   "events": "Sön ränin föritä, aramas a föritä usun lapalapen Kot, ewe ränin asöson",
+   "q": "Lepopun Kot a föri läng me fanüfan.",
+   "cite": "Keneses 1:1",
+   "christ": "Ewe fanüfan a föritä ren ewe “Kapas.” An Jon we Kapas Allim a esinai pwe ei Kapas ina pwisin Jesus (Jon 1:1-3).",
+   "detail": "<p>Ewe Paipel esap poputä ren eu kapas tipatipan, nge ren eu esinesin: <b>“Lepopun Kot…”</b> Ewe fanüfan esap eu mettoch mi fis chök, nge ina angangen eman Kot mi manaw.</p><ul><li><b>Lapalapen Kot</b> · seni mettochun manaw meinisin, chök aramas ra föritä pwe repwe ussun Kot — repwe silei i o tümünü ewe fanüfan.</li><li><b>Asöson</b> · ewe asösonun ewe afisuruwen rän a pwäri pwe meinisin a unusöch o nonom lon kinamwe (shalom): “a mürina.”</li><li><b>Eten</b> · ewe fanüfan mwen an a tä, ia Kot me aramas ra fetäl fengen ie.</li></ul>",
+   "next": "Nge ei unusöch epwe kerän tä…"
+  },
+  {
+   "tag": "TESTAMENT MI LÄL · EWE OSUKOSUK A POPUTÄ",
+   "title": "Ewe Tä",
+   "date": "Lepopun",
+   "one": "Tipis a tolong, nge ewe ririifengen lefilen aramas me Kot a mwüchchü.",
+   "people": "Atam me Ip; ewe serepenit (Satan)",
+   "events": "Mongö ewe föün irä mi pin, atowu seni Eten, warotoon mäla me angang weires",
+   "q": "Üpwe afiukemi me ewe fefin, pwal mwirimwirum me mwirimwirin. Men epwe puri mökürom …",
+   "cite": "Keneses 3:15",
+   "christ": "Ewe pwon allimen ewe Kapas Allim mi pöputä mürin chök ewe Tä: ewe “mwirimwirin ewe fefin” epwe puri mökürün ewe serepenit — ina Jesus (Keneses 3:15; Rom 16:20; Galesia 4:4).",
+   "detail": "<p>Ren ewe alleasolapen an a mochen “ussun Kot,” tipis a tolong lon ewe fanüfan. Ewe uwaan esap chök eu allük mi mwüchchü, nge ina <b>eu ririifengen mi mwüchchü</b>.</p><ul><li><b>Ririifengen mi mwüchchü</b> · me Kot (opaalo), me lefiler (apwüngfengen), me natur (sasa me angang weires).</li><li><b>Mäla</b> · ewe äöü “oupwe enletin mäla” a wesewesen fis.</li><li><b>Keneses 3:15</b> · nge lukalapen ewe kapwüng, eu pwon mi amanau a poputä akkomw. Ekewe sou-käeö ra eita ngeni ei <b>protoevangelium (ewe Kapas Allim mi äeü)</b>.</li></ul>",
+   "next": "Iei Kot a köri eman chök aramas pwe epwe poputä le amanau…"
+  },
+  {
+   "tag": "TESTAMENT MI LÄL · EWE PWON",
+   "title": "Ekkewe Sämä-lap",
+   "date": "arap 2000 BC",
+   "one": "Kot a pwon ngeni Apraham, “Kopwe eman wän feiöch.”",
+   "people": "Apraham · Aisak · Jakop · Josef",
+   "events": "Ewe pwonen Apraham, ewe filiyenin Aisak, ekewe nöün Jakop 12, Josef a tekia lon Isip",
+   "q": "Üpwe achomonga mwirimwirum kana pwe ir repwe wiliti eu mwü mi watte … chon ekewe mwü meinisin won fanüfan repwe küna feiöch reöm.",
+   "cite": "Keneses 12:2-3",
+   "christ": "Ewe pwon pwe “chon ekewe mwü meinisin repwe küna feiöch” a apwönüetä lon Jesus, ewe mwirimwirin Apraham (Galesia 3:16).",
+   "detail": "<p>Kot a poputä le amwüchaanü ewe osukosukun aramas meinisin ren an köri eman chök aramas, <b>Apraham</b>. Ewe letipan ina <b>ewe pwon mi pin</b> — eu mwü mi watte, eu fanü, me “feiöch ngeni chon ekewe mwü meinisin.”</p><ul><li><b>Lükülük</b> · Apraham a lükü eu pwon esap tongeni küna, nge a kapil, nge a aleani usun an pwüng (Keneses 15:6).</li><li><b>Aisak me Jakop</b> · ewe pwon a feitä; Jakop (Israel) a sämä-lapen ekewe einang 12.</li><li><b>Josef</b> · ekewe pwiin ra amömöa nge a tekia — “Kot a awili ngeni mürina” (Keneses 50:20).</li></ul>",
+   "next": "Mürin Josef, ewe famili a feitiu ngeni Isip — nge ra wiliti chon angang…"
+  },
+  {
+   "tag": "TESTAMENT MI LÄL · OMUSANO",
+   "title": "Ewe Towuwu me ewe Fönüpwön",
+   "date": "arap 1446 BC",
+   "one": "Kot a amanaua eu mwü mi chon angang nge a föriir pwe nöün.",
+   "people": "Moses, Aron, Farao",
+   "events": "Ewe engön riäfföü, ewe Towuwu (Passover), ekiisin ewe Sät mi Par, ekewe Allük 10 won Sainai, ewe imwen fel, ier 40 lon ewe fönüpwön",
+   "q": "Üpwe nöünikemi pwe oupwe aramasei, nge ngang üpwe ämi Kot.",
+   "cite": "Towuwu 6:7",
+   "christ": "Ewe Towuwu — ia chchaan eu lam a aimwü ngeni mäla — a pwäri Jesus, “ach lamun Towuwu,” a tä won iräpenges fänäsengesich (1 Korint 5:7).",
+   "detail": "<p>Ewe omusano mi lapalap seni meinisin lon ewe Testament mi läl. Israel mi chon angang a ngaseno ren manamanen Kot nge a föritä pwe an <b>aramas</b>.</p><ul><li><b>Ewe Towuwu</b> · ewe imw mi makketä ren chchaan ewe lam mäla a aimwü seni — ina ewe lapalapen ekewe asor meinisin mürin.</li><li><b>Ewe Sät mi Par</b> · omusano lon ewe leni ese chüen wor al ie; “tä lon pekilukun” a wiliti esinesinen eu poputä mi minafö.</li><li><b>Ewe pwonen Sainai</b> · ren ekewe Allük 10 ra käeö ifa usun ar repwe manaw usun nöün Kot aramas.</li><li><b>Ewe imwen fel</b> · eu leni mi fel mi tongeni mwökütükütun, ia Kot a nonom lukun nöün aramas ie — ina sänäpengenin “Immanuel.”</li><li><b>Ier 40</b> · ren alleasolap, eu täpwün aramas ra fetäl chök lon ewe fönüpwön, nge Kot a arap chök ngeniir ren manna me ewe ülüngen kuchu me ekkeu.</li></ul>",
+   "next": "Le üt lukun ewe fanü mi pin, ra ammolnetä pwe repwe tolong…"
+  },
+  {
+   "tag": "TESTAMENT MI LÄL · NONNOMOTÄ",
+   "title": "Ewe Akküla me ekkewe Soukapwüng",
+   "date": "arap 1400–1050 BC",
+   "one": "Ra angei ewe fanü, nge ren ar ese wor king, emön me emön a föri minne a pwüng me ren.",
+   "people": "Josua; soukapwüng usun Kiteon me Samson; Rut",
+   "events": "Ewe turunufasen Jeriko, nonnomotä lon Kanaan, ewe sönüsönün tipis–kapwüng–omusano mi sönükini",
+   "q": "Lon ekana fansoun esap wor eman king lon Israel. Eman me eman aramas a chök föri mine a pwüng me ren.",
+   "cite": "Ekewe Soukapwüng 21:25",
+   "christ": "Seni mwirimwirin Rut a war Tafit, nge seni mwirimwirin Tafit a war Jesus (Mattu 1). Inaamwo lon ewe sönüsön, ewe mwirimwirin ewe Messaia a chüen feitä.",
+   "detail": "<p>Fän Josua ra tolong ngeni ewe fanü mi pin, nge mürin ar nonnomotä ra kerän mwäliechü Kot. Ewe puken Soukapwüng ina chök ena lapalap mi sönükini.</p><ul><li><b>Ewe sönüsön mi feitiu</b> · tipis → wisawis weires → sio → eman soukapwüng a amanau → tipis sefäl. A kan lapalo le ngau.</li><li><b>Ekewe soukapwüng</b> · Kiteon, Samson, Tepora — chon amanau ren fansoun-mwochomwoch, mi pwäratä nge mi watte ar tunap.</li><li><b>Rut</b> · eu pworaus mi täämen usun tüppwöl lon eu fansoun mi rochopwak; eu fefin chon ekis a tolong ngeni ewe mwirimwirin Tafit (me Jesus).</li></ul>",
+   "next": "Aramas ra sio, “Pwal ngeni kich eu king!”…"
+  },
+  {
+   "tag": "TESTAMENT MI LÄL · FANSOUN MI LING",
+   "title": "Ewe Mwü mi Tipeeüfengen",
+   "date": "arap 1050–930 BC",
+   "one": "Kot a pwon ngeni Tafit, “Mwum epwe nonom feilfeilachök.”",
+   "people": "Saul · Tafit · Solomon",
+   "events": "Ewe akkomwen king Saul, Tafit me Koliat, ewe pwonen Tafit, ewe imwenfel an Solomon",
+   "q": "Üpwe afisi mwirimwirum, nge mwum me om nemenem epwe nüküchar me fän mesei tori feilfeilachök.",
+   "cite": "2 Samuel 7:16",
+   "christ": "Ewe “mwü mi nonom feilfeilachök” a apwönüetä lon Jesus, ewe mwirimwirin Tafit — ina pwata a eita ngeni “Nöün Tafit” (Luk 1:32-33; Mattu 1:1).",
+   "detail": "<p>Ewe fansoun mi ling seni meinisin an Israel, fän ülümön king.</p><ul><li><b>Saul</b> · ewe akkomwen king ewe aramas ra tüngor; eu poputä mi mürina nge a ngauelo ren an alleasolap.</li><li><b>Tafit</b> · “eman aramas mi tipeeü ngeni letipen Kot.” A akküla Koliat o föri Jerusalem pwe an telinimw. A föri eu tipis mi watte (Patseba) nge a aier seni letipan (Köl 51).</li><li><b>Ewe pwonen Tafit (2 Samuel 7)</b> · Kot a pwon le afisi mwirimwirin Tafit tori feilfeilachök — ewe popun mi lapalap ren ewe äpilükülükün ewe Messaia.</li><li><b>Solomon</b> · le tekian an tipachem me wöü a föri ewe <b>imwenfel</b> lon Jerusalem, nge lon sopwoloon a fötek.</li></ul>",
+   "next": "Mürin Solomon, ewe mwü a aimwüfeseni ngeni rüu…"
+  },
+  {
+   "tag": "TESTAMENT MI LÄL · FEITIU",
+   "title": "Ewe Mwü mi Aimwüfeseni",
+   "date": "930–586 BC",
+   "one": "A aimwüfeseni ngeni eor (Juta) me ennefen (Israel), nge a kerän kkuk.",
+   "people": "Ekewe king lon ekkewe rüu mwü; soufos usun Elaisa, Aisea, Jeremaia",
+   "events": "Ewe mwü a aimwüfeseni, fötek a torofesen, ekewe soufos ra öü",
+   "q": "Seni ewe ränin tori ikenai ekewe chon Israel ra ü ngeni mwün Tafit me mwirimwirin.",
+   "cite": "1 Kings 12:19",
+   "christ": "Lon ei fansoun ekewe soufos ra esinai ewe Messaia epwe feito mi achaariu chök (Aisea 9:6; Aisea 53).",
+   "detail": "<p>Lon fansoun nöün Solomon ewe mwü a aimwüfeseni: <b>ennefen ewe mwün Israel</b> (einang 10, telinimw Sameria) me <b>eor ewe mwün Juta</b> (einang 2, telinimw Jerusalem).</p><ul><li><b>Israel (ennefen)</b> · ekewe king meinisin ra angang ngeni uut; a turunufas ngeni Assüria lon 722 BC.</li><li><b>Juta (eor)</b> · ewe mwirimwirin Tafit a chüen feitä, mi wor ekkoch king mi mürina usun Hesekaia me Josaia, nge lon sopwoloon a kkuk.</li><li><b>Ekewe soufos</b> · Elaisa, Amos, Aisea, Jeremaia ra öü “oupwe liwin!” Ewe esinesinen ewe Messaia a torita le watte lon ikei (ewe “chon angang mi riäfföü” lon Aisea 53).</li></ul>",
+   "next": "Lon sopwoloon ewe kapwüng a war — ra uwei ngeni nikina…"
+  },
+  {
+   "tag": "TESTAMENT MI LÄL · KAPWÜNG",
+   "title": "Ewe Nikina",
+   "date": "722 / 586 BC",
+   "one": "Ewe mwü a tä, nge aramas ra uwei ngeni ekewe fanü ekis.",
+   "people": "Taniel, Esekiel, Nepukatnesar",
+   "events": "Israel a tä ngeni Assüria (722); Juta a tä ngeni Papilon, ewe imwenfel a kekkeuelo (586)",
+   "q": "Ünükün ekewe chanpupun Papilon aia mottiu o kechü, lupwen aia chechemeni Sion.",
+   "cite": "Köl 137:1",
+   "christ": "Lukalapen ewe alolol, Jeremaia a pwon eu “pwon mi minafö” (Jeremaia 31:31) — ina chök ewe pwon Jesus a awora lon ewe Säwüin Le Sopwoloon.",
+   "detail": "<p>Ekewe äöü ra war. Ewe imwenfel a kkä nge aramas ra uwei ngeni Papilon — ra poutano ewe fanü, ewe king, me ewe imwenfel: ewe leni mi feitiu seni meinisin.</p><ul><li><b>Rüu tä</b> · Israel (Assüria, 722 BC) me Juta (Papilon, 586 BC).</li><li><b>Taniel</b> · eu lepin lükü inaamwo lon eu mwün rese silei Kot (ewe woungun laion); a küna ewe langepuk usun eu “mwü esap mwüch” epwe feito.</li><li><b>Eu fö lükülük</b> · an Esekiel we langepuk usun ekewe chünapwen mäla mi manawsefäl (Esekiel 37) me an Jeremaia we “pwon mi minafö” ra pwäri eu fansoun mi feito lon ewe rochopwak.</li></ul>",
+   "next": "Mürin ier 70, Kot a sukapilätä eu al — ra liwiniti imwer…"
+  },
+  {
+   "tag": "TESTAMENT MI LÄL · AMANAUSEFÄL",
+   "title": "Ewe Liwiniti Imwer",
+   "date": "538–430 BC",
+   "one": "Ra liwiniti imwer o awillisefäli ewe imwenfel me ekewe ttiitin telinimw.",
+   "people": "Esra, Nehemia, Esta, Serupapel",
+   "events": "Liwin ren an Sairus we annük, awillisefälin ewe imwenfel, awillisefälin ttiitin Jerusalem, amanausefälin ewe Kapas",
+   "q": "Pun ewe pwapwa seni ewe Samol mi Lapalap epwe apöchökülakemi.",
+   "cite": "Nehemia 8:10",
+   "christ": "Malakai, ewe sopwolóón puk lon ewe Testament mi läl, a soponoto le esinai eman chon künö pwe epwe amolätä alen ewe Messaia: “Üpwe tinala nei chon künö” (Malakai 3:1).",
+   "detail": "<p>Ren an ewe king Persia we Sairus annük (538 BC) ewe liwin a poputä. Lon ülüngat ra liwin o awillisefäli minne a ta.</p><ul><li><b>Serupapel</b> · a awillisefäli ewe imwenfel (a wesila lon 516 BC).</li><li><b>Esra</b> · a äiti sefäl ngeni ewe Kapas o amanausefälü ewe lükü.</li><li><b>Nehemia</b> · a awillisefäli ttiitin Jerusalem lon 52 rän.</li><li><b>Esta</b> · a amanaua ekewe chon Jew lon Persia seni nninnino — “fän iten ei sokun fansoun.”</li><li><b>Mochen mi chüen wor</b> · ewe imwenfel a üt, nge esap wor eman king usun Tafit. Aramas ra witi ewe Messaia.</li></ul>",
+   "next": "Iwe mürin… usun ita läng a niukunno, ier 400 ra mwöküt nge esap wor kapas."
+  },
+  {
+   "tag": "LEFILEN EKKEWE TESTAMENT · AMMOLNETÄ EWE LENI",
+   "title": "Ekkewe Ier mi Nikinök",
+   "date": "arap 430–4 BC",
+   "one": "Ier 400 esap wor mongungun eman soufos — nge ewe leni a kan ammolnetä mi nikinök.",
+   "people": "Alexander mi Lapalap, ekewe Maccabee, Rom",
+   "events": "Persia → Grik → an Maccabee ngas → an Rom nemenem",
+   "q": "Lupwen a war ewe fansoun mi kapwüngüla, Kot a tinato püsin Nöün. A uputiu seni eman fefin …",
+   "cite": "Galesia 4:4",
+   "christ": "Ei “ammolnetäen ewe leni” meinisin ina an Kot angang pwe Jesus epwe feito lon ewe fansoun mi pwüng, “lupwen a war ewe fansoun.”",
+   "detail": "<p>Seni Malakai tori ngeni ewe Testament mi Fö, arap 400 ier esap wor Kapas mi minafö. Nge lukapachen uruwo, Kot a ammolnetä ewe al ren ewe Kapas Allim epwe torofesen.</p><ul><li><b>Ekewe mwü ra siwili</b> · Persia → Grik (Alexander, 333 BC) → ekewe Ptolemy me Seleukit → an Maccabee uprisa (167 BC) → Rom (63 BC).</li><li><b>Ewe Grik</b> · an Alexander akküla a föri pwe Grik ewe kapas meinisin ra eäni; ewe Testament mi läl a affoukatä ngeni Grik (ewe Septuagint), mi ammolnetä ewe al ren ewe Kapas Allim epwe mwitir torofesen.</li><li><b>Alen Rom me kinamwe</b> · ekewe al mi föritä öch me ewe “Pax Romana” ra wiliti al ren ewe angangen tinatin.</li><li><b>Ekewe sinakok me ekewe mwich</b> · ewe äitin sinakok a populonotä; ekewe Farisi me Satusi ra pwä; iwe, <b>ewe witiwitin ewe Messaia</b> a maara.</li></ul>",
+   "next": "Iwe ewe niukunnó a kuk — lon sopwoloon, i a feito."
+  },
+  {
+   "tag": "TESTAMENT MI FÖ · APWÖNÜETÄ",
+   "title": "Jesus a Feito",
+   "date": "arap 4 BC–AD 30",
+   "one": "Ewe Messaia mi pwon a feito, a mäla, o a manausefäl.",
+   "people": "Jesus, ekewe chon käeö 12, Jon ewe Sou-papatais",
+   "events": "Ewe wiliti aramas, an angang me äiti me mwämwääsil, ewe mäla won iräpenges, ewe manawsefäl lon ewe ülüngat rän",
+   "q": "Ewe Kapas a wiliti aramas o nonom lefilach … a uren ümöümöch me let.",
+   "cite": "Jon 1:14",
+   "christ": "Ewe mwirimwirin ewe fefin (sopwun 2), ewe feiöchün Apraham (3), ewe lamun Towuwu (4), ewe king mi nonom feilfeilachök an Tafit (6), ewe pwon mi minafö (8) — meinisin ra apwönüetä lon eman chök aramas, Jesus: ach enletin Soufos, Samol-asor, me King.",
+   "detail": "<p>Ewe niukunnó a kuk; ewe Emön mi Pwon a war. Ekewe Kapas Allim ülümen ra pwärätä manawen Jesus, an mäla, me an manausefäl seni pekipek mi sokopat.</p><ul><li><b>Wiliti aramas</b> · Kot a wiliti aramas (Immanuel, “Kot a nonom rech”), lon ewe leni mi tekison, Petlehem.</li><li><b>Angang</b> · a äiti usun mwün Kot, a apöchökülä ekewe semwen, a köri chon tipis. “Iö a fen küna ngang a fen küna ewe Sam.”</li><li><b>Ewe iräpenges</b> · a liwini ngeni ewe tipis me mäla mi feito ren ewe Tä (sopwun 2). Ewe enletin lamun Towuwu.</li><li><b>Manawsefäl</b> · a manausefäl lon ewe ülüngat rän, a amwüchaanü manamanen tipis, mäla, me Satan — won chök ewe iräpenges a “awesi pöchökülen ekewe ngün mi nemenem o manaman … usun chon fötek mi fetalela mürin ewe chon win” (Kolose 2:15).</li></ul><p>Ina pwata Jesus ina ach <b>enletin Soufos</b> (a pwäri ewe al ngeni Kot), ach <b>enletin Samol-asor</b> (a asoraani tipis ren pwisin inisin), me ach <b>enletin King</b> (a akküla tipis, mäla, me Satan o a nemeni tori feilfeilachök).</p>",
+   "next": "Jesus mi manausefäl a tinala nöün chon käeö ngeni ewe fanüfan…"
+  },
+  {
+   "tag": "TESTAMENT MI FÖ · TOROFESEN",
+   "title": "Ewe Mwichefel a Poputä",
+   "date": "arap AD 30–",
+   "one": "Ewe Ngün a feito, nge ewe Kapas Allim a torofesen tori sopwolóón fanüfan.",
+   "people": "Petrus, Paulus, ewe mwichefel mi äeü",
+   "events": "Ewe Ngün a feitiu lon Pentekost, ewe mwichefel a uputä, ewe Kapas Allim a torofesen seni Jerusalem tori Rom fän eriäfföü",
+   "q": "Ämi oupwe angei ewe manaman lupwen Ngünmifel epwe feitiu womi, iwe, oupwe pwäriei lon Jerusalem … tori lon unusen fanüfan.",
+   "cite": "Föför 1:8",
+   "christ": "Ei pworaus a chüen feitä tori ikenai. Ewe Paipel a soponoto le pwon pwe Jesus epwe feitosefäl o föri meinisin pwe epwe minafö (Pwäratä 21).",
+   "detail": "<p>Mürin an Jesus feitä ngeni läng, ewe Ngün mi pwon a feito lon Pentekost nge ewe mwichefel a uputä. Ewe Kapas Allim a torofesen mi mwitir.</p><ul><li><b>Pentekost</b> · ewe Ngün a awili ekewe chon käeö mi niuokkus ngeni chon pwäri mi pwora.</li><li><b>Petrus</b> · a esinai ewe Kapas Allim ngeni ekewe chon Jew lon Jerusalem.</li><li><b>Paulus</b> · seni chon eriäfföü ngeni soulo, a föri mwichefel won unusen fanüfan ekis o makketä ekewe toropwe.</li><li><b>Tori sopwolóón fanüfan</b> · Jerusalem → Jutea → Sameria → Rom. Ewe pwon ngeni Apraham usun “chon ekewe mwü meinisin” a enletin fis.</li><li><b>Me kich</b> · ewe pworaus esap mwüch; a chüen feitä tori an Jesus feitosefäl me ewe läng mi minafö me fanüfan mi minafö.</li></ul>",
+   "next": "Nge ewe pworaus esap mwüch ikei…"
+  },
+  {
+   "tag": "TESTAMENT MI FÖ · UNUSÖCHÜLA",
+   "title": "Ewe Amanausefäl",
+   "date": "Epwe chüen feito",
+   "one": "Jesus a feitosefäl o föri meinisin pwe epwe minafö.",
+   "people": "Jesus mi feitosefäl; ekkewe mwü meinisin",
+   "events": "Ewe feitosefäl, ewe kapwüng le sopwoloon, ewe sopwolóón tipis·mäla·chönün mas, eu läng mi minafö me eu fanüfan mi minafö",
+   "q": "Epwe talüpwasei chönün mas seni won meser meinisin. Esap chüen wor mäla ika letipeta ika kechü ika cheuch …",
+   "cite": "Pwäratä 21:4",
+   "christ": "Ewe Eten an ewe föritä mi äeü a amanausefäl lon sopwoloon usun ewe “Jerusalem mi Minafö.” Kot a nonom ren nöün aramas tori feilfeilachök — ewe unusen Immanuel (Pwäratä 21:3; Mattu 1:23).",
+   "detail": "<p>Ewe Paipel esap mwüch lon ewe fansoun mwichefel. Ewe sopwolóón puk, Pwäratä, a pwäri Jesus a <b>feitosefäl</b> le aunusa meinisin.</p><ul><li><b>Ewe feitosefäl</b> · ewe king mi pwon a liwinsefäl lon ling.</li><li><b>Ewe win le sopwoloon</b> · Satan me mäla ra akkülälo tori feilfeilachök, nge Kraist a nemeni usun Kingen ekewe king (1 Korint 15:25-26; Pwäratä 20:10).</li><li><b>Kapwüng me manawsefäl</b> · mettoch mi mwääl meinisin a awenechü, nge ekewe sou-mäla ra manawsefäl.</li><li><b>Läng mi minafö me fanüfan mi minafö</b> · tipis, mäla, chönün mas, me riäfföü ra morolo tori feilfeilachök (Pwäratä 21:4).</li><li><b>Ewe Eten mi amanausefäl</b> · lon eu “Jerusalem mi Minafö” mi mürina seni ewe poputä, Kot a nonom ren nöün aramas tori feilfeilachök — ewe leni ewe Paipel meinisin a tapwö ngeni.</li></ul><p>Ina pwata iei ewe fansoun “a fen fis, nge esamwo wesila”: lon Jesus ewe amanau a <b>fen</b> apwönüetä, nge an unusöch a <b>chüen</b> witiwit.</p>",
+   "next": "Iwe, met ei pworaus meinisin a wewe ngeni “ngang”?"
+  }
+ ],
+ "love": [
+  "Ewe pworaus esap poputä ren kapwüng, nge ren eu föritä mi sössöngün tong.",
+  "Lon ewe atun aramas ra tipis, Kot a pwon eu amanau ikenan chök won ewe leni.",
+  "Kot a feito akkomw ngeni eman aramas esap fich ngeni, a köri i ren itan, o a föri i pwe wän feiöch.",
+  "A rongorong ngeni asüsünüpen eu mwü mi chon angang nge a feitiu pwisin le amanauer.",
+  "Inaamwo ra apwüngafichi i fän chommong, nge ren ar sio iteiten, a tinato eman sou-amanau o auetä sefäliir.",
+  "A esap likitalo inaamwo Tafit mi tä, nge ren i a pwon eu King mi nonom feilfeilachök.",
+  "Ngeni ekewe aramas ra alimuriir ngeni, a chüen tinato soufos, le tüngor, “Kose mochen liwiniti imwom.”",
+  "A feitiu rer inaamwo ngeni ewe fanü mi rochopwak seni meinisin, ewe nikina, o a pwon amanausefäl.",
+  "Inaamwo ngeni eu mwü mi pwäkkilo fän chommong, esap likitalo an we pwon, nge a auetä sefäliir.",
+  "Inaamwo fän ekewe ier 400 mi nikinök, mi opaalo, a ammolnetä ewe alen amanau.",
+  "Lupwen sia chüen chon tipis, a tinato Nöün we pwe epwe likiitü pwisin manawan.",
+  "Ewe tong sia angei, iei a tinatoei pwe epwe tüü ngeni unusen fanüfan.",
+  "Lon sopwoloon epwe talüpwasei chönün mas meinisin o amanausefäli meinisin lon tong."
+ ],
+ "mis": [
+  {
+   "w": "“Pwata Kot a föri aramas mi tongeni tipis? Sap epwe mürina ika ese föriiöch kich?”",
+   "t": "Kot a föri ewe fanüfan me aramas esap pokiten och osupwang, nge pokiten an tong mi sössöngün. Ach föritä pwe <b>aramas mi tongeni ririifengen me Kot</b> ina püsin tong. Iwe, inaamwo ewe tolongun tipis esap nonom lukun an Kot kokkotun amanau (Efisus 1:4-5). Ewe sopwun mi äeü lon ewe Paipel esap kapwüng nge ina tong."
+  },
+  {
+   "w": "“Atowu o ngeni mäla ren chök an a mongö eu föün irä — sap a fokun pöchökül an Kot kapwüng?”",
+   "t": "Ewe atowu seni Eten ina kapwüng me pwal ümöümöch. Ika aramas repwe mongö seni ewe iräin manau o manaw tori feilfeilachök lon ena nonnomur mi mwääl, mi mwüchchü seni Kot, repwe nonom lon riäfföü tori feilfeilachök (Keneses 3:22). Ewe mwütün mäla ina sukapilätä eu al le liwinsefäl, nge ikenan chök Kot a pwon eman Sou-amanau (Keneses 3:15). Tong a fen nonom lon ewe kapwüng."
+  },
+  {
+   "w": "“Apraham a filitä pokiten an lükü mi watte — sap ekewe aramas lon Paipel meinisin chon pwora mi mürina?”",
+   "t": "Apraham a pwal chofona o tipemwaramwar, nge Jakop eman chon otuputup. Kot esap köri ekewe “mi fich” nge a köri ekewe rese unusöch, ren ümöümöch. Ewe popun ewe fili esap ar mürina, nge ina an Kot tong mi tuppwöl (Tuteronomi 7:7-8)."
+  },
+  {
+   "w": "“Sap ewe Allük (ekewe annük) eu sosot are popun kopwe pwönüetä pwe kopwe amanau?”",
+   "t": "Kot a amanauaiir <b>mwen</b> an ngeniir ewe Allük. Inaamwo ekewe Allük 10 ra poputä ren eu esinesinen amanau: “Ngang ewe Samol mi Lapalap om Kot, üa emwenukowu seni ewe fanü Isip” (Towuwu 20:2). Ewe Allük esap “pwönüetä pwe kopwe amanau,” nge eu emmwen mi tong usun ifa usun ekewe aramas mi fen amanau ren ümöümöch repwe manaw (Tuteronomi 7:7-9). Ümöümöch a kan akkomw; ewe alleasochis ina ewe pölüen."
+  },
+  {
+   "w": "“Ewe akkülaan Kanaan ina eu nninni mi esap ümöümöch — ina an Kot we Testament mi läl a wesewesen ngau.”",
+   "t": "Ina eu osukosuk mi weires esap tongeni amwüchanü lon eu chök kapas, nge a tongeni eäni mwümmwün. Nge ewe Paipel esap pwäri usun nninni chök, nge usun eu kapwüng mürin chommong ier mi mosonoson ngeni föföringau mi alolol (kapachelong ar nninni semirit) (Keneses 15:16; Tuteronomi 9:4-5; Lifitikus 18:24-25). Kot esap mwitir le kapwüng, iwe, a etiwa ngeni pwapwa ekewe ra liwin ngeni i — inaamwo chon ekis usun Rahap me Rut (Josua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“Tafit eman chon pwora mi esap wor tunap — ina pwata a eita ngeni ‘eman aramas mi tipeeü ngeni letipen Kot.’”",
+   "t": "Tafit a föri lisowu o pwal nninni. “Eman aramas mi tipeeü ngeni letipen Kot” esap wewe pwe esap wor tunap, nge ina emön esap opaala an tipis — a aier mi alolol o a kan liwinsefäl ngeni Kot (Köl 51). An Kot tong esap likitalo inaamwo ekewe ra tä mi alolol."
+  },
+  {
+   "w": "“Eman soufos ina eman sou-langepuk mi esinai mwachkkan; an Kot we Testament mi läl ina chök song.”",
+   "t": "Ewe letipen ewe soufos esap “esinai mwachkkan” nge ina an Kot sio mi riäfföü: “Kose mochen liwin.” Inaamwo ewe äöü kapwüng esap mochen le aunieselo nge ina le awilisefäli aramas o amanauaiir — “üsap pwapwaiti mälan eman chon föföringau” (Esekiel 33:11)."
+  },
+  {
+   "w": "“Ewe nikina a pwäri pwe Kot a fokun likitalo Israel.”",
+   "t": "Ewe nikina esap likitalo nge ina eu emmwen me eu alimeti ngeni eu nau mi achengicheng (Hipru 12:6). Kot esap feilo; a nonom ren Taniel lukalapen ewe nikina nge a pwon, “Pun ngang üa silei mine üa ekieki ngenikemi. Üa ekieki feiöchümi, … pwe üpwe ngenikemi eu fansounöch me apilükülük” (Jeremaia 29:11)."
+  },
+  null,
+  {
+   "w": "“Ren ese wor kapas fän ier 400, Kot a fen feilo are a asöson.”",
+   "t": "Ewe nikinök esap wewe pwe esap nonom. A chök sap kapas, nge fän ena fansoun meinisin a mwökütükütü ekewe mwü, ekewe kapas, me ekewe al ren an epwe ammolnetä ewe leni ren amanau. Lon ewe fansoun mi nikinök seni meinisin, Kot a wesewesen angang mi pöchökül lon tong (Galesia 4:4)."
+  },
+  {
+   "w": "“Jesus eman chök sou-äiti mi mürina; ewe iräpenges ina eu turunufas mi äweires.”",
+   "t": "Jesus a apasa pwe i Kot (Jon 8:58), iwe, ewe iräpenges esap eu mettoch mi fis chök ika eu turunufas nge ina eu tong mi kokkot. Esap uweesä le kyou, nge a pwisin likiitü manawan (Jon 10:18). “Esap wor eman a eäni chen mi lapalap seni ei chen, are eman a pölükü manauan fän iten chiechian kana” (Jon 15:13)."
+  },
+  {
+   "w": "“Ewe mwichefel eu mwichen aramas mi unusöch, ika eu chök imw.”",
+   "t": "Ewe mwichefel esap eu mwichen “chon pin mi unusöch” nge ina eu mwichen <b>chon tipis mi fen omusano</b>. Inaamwo soulo Paulus a eita ngeni i pwisin “ngang eman chon tipis mi ngau seniir meinisin” (1 Timoti 1:15). Ewe mwichefel mi äeü a pwal apwüngfengen o a tä (Föför 6:1; 1 Korint 1:11). Esap eu leni le siniposita, nge ina aramas mi atturufesenni ewe tong ra angei (Jon 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Tipis mi feitä — esap wor eman mi pwüng",
+   "body": "Ewe osukosuk esap “ekkoch chök föför mi ngau” nge ina ewe popun lon letip. Seni Atam, aramas meinisin ra uputä fän tipis nge rese tongeni feita ngeni Kot püsiniir.",
+   "vref": "Rom 3:10-12, 23",
+   "vtext": "Esap fokun wor eman chon pwüng. … Pun aramas meinisin ra tipis, ra pwal osun lingen Kot."
+  },
+  {
+   "title": "Ewe Allük esap tongeni amanauei",
+   "body": "Ewe Allük esap eu lekön nge ina eu mwäsäl. Ükükün om achocho, ina chök ükükün a pwäri ifeet om tunap. Popun ina epwe emwenikich ngeni Kraist.",
+   "vref": "Rom 3:20 · Galesia 3:24",
+   "vtext": "… ra aiti ngeni aramas pwe ra tipis. … ekewe Allük ra nemenikich tori Kraist a war."
+  },
+  {
+   "title": "Ren ümöümöch — eu liffang, esap angang",
+   "body": "Ewe amanau esap liwinin tunap ka achocho ngeni, nge ina eu liffang seni ngeni ekewe rese fich ngeni. Ina pwata esap wor eman epwe tongeni aingaing.",
+   "vref": "Efisus 2:8-9",
+   "vtext": "Pun ren än Kot we ümöümöch oua küna manau ren ämi lükülük. … esap pwal liwinin ämi angang, pwe esap wor eman epwe tongeni aingaing ren."
+  },
+  {
+   "title": "Küna pwüng ren lükülük",
+   "body": "Esap ren om apwönüetä ewe Allük, nge ren om lükü Jesus Kraist ka küna pwüng — esap ka ufouf ren pwisin om pwüng nge ren an we pwüng.",
+   "vref": "Rom 5:1 · Galesia 2:16",
+   "vtext": "… pokiten sia küna pwüng me ren Kot ren ach lükülük … eman aramas a küna pwüng me ren Kot ren an lükü Jesus Kraist chök, nge esap ren an apwönüetä ekewe Allük."
+  },
+  {
+   "title": "Ewe Paipel a pwäri Jesus",
+   "body": "Ewe Paipel esap eu puken aramas mi watte ika eu puken alisi-pwisin. Seni Keneses tori Pwäratä, eu me eu pwäk a pwärätä usun eman chök aramas — Jesus Kraist.",
+   "vref": "Jon 5:39 · Luk 24:27",
+   "vtext": "Ekei Toropwe mi Pin ra pwärätä usi. … A awewe ngeniir met a mak lon ekewe Puk mi Pin usun püsin i."
+  },
+  {
+   "title": "Mwün Kot — ewe letipen an Jesus poraus",
+   "body": "Ewe poraus Jesus a kan äiti. Mwün Kot ia Kot a nemeni usun King a tolong lon ei fanüfan ren Jesus, nge epwe unusöchüla lupwen epwe feitosefäl. Ren an iräpenges me manawsefäl, Jesus ina ewe enletin King a akküla tipis, mäla, me Satan.",
+   "vref": "Mark 1:15",
+   "vtext": "A tori ewe fansoun, Mwün Kot a arapoto. Oupwe aier seni ämi tipis o lükü ewe Pworausen Manau."
+  },
+  {
+   "title": "Ewe Kapas Allim — i a aunusa meinisin",
+   "body": "Ewe iräin tipis üsap tongeni liwini, Jesus a liwini ren liwiniei won ewe iräpenges, nge ren an manawsefäl a akküla mäla. Üsap longolong won “föri ei” nge won “a wesila.”",
+   "vref": "Jon 19:30 · Rom 5:8",
+   "vtext": "A wesila! … lupwen sia chüen nonom lon tipis, Kraist a mäla fänäsengesich."
+  }
+ ],
+ "books": {
+  "Keneses": "GEN",
+  "Towuwu": "EXO",
+  "Lifitikus": "LEV",
+  "Numbers": "NUM",
+  "Tuteronomi": "DEU",
+  "Josua": "JOS",
+  "Ekewe Soukapwüng": "JDG",
+  "Soukapwüng": "JDG",
+  "Rut": "RUT",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Kings": "1KI",
+  "2 Kings": "2KI",
+  "1 Chronicles": "1CH",
+  "2 Chronicles": "2CH",
+  "Esra": "EZR",
+  "Nehemia": "NEH",
+  "Esta": "EST",
+  "Job": "JOB",
+  "Köl": "PSA",
+  "Köl Fel": "PSA",
+  "Proverbs": "PRO",
+  "Ecclesiastes": "ECC",
+  "Song of Songs": "SNG",
+  "Aisea": "ISA",
+  "Jeremaia": "JER",
+  "Lamentations": "LAM",
+  "Esekiel": "EZK",
+  "Taniel": "DAN",
+  "Hosea": "HOS",
+  "Joel": "JOL",
+  "Amos": "AMO",
+  "Obadiah": "OBA",
+  "Jonah": "JON",
+  "Micah": "MIC",
+  "Nahum": "NAM",
+  "Habakkuk": "HAB",
+  "Zephaniah": "ZEP",
+  "Haggai": "HAG",
+  "Zechariah": "ZEC",
+  "Malakai": "MAL",
+  "Mattu": "MAT",
+  "Mark": "MRK",
+  "Luk": "LUK",
+  "Jon": "JHN",
+  "Föför": "ACT",
+  "Rom": "ROM",
+  "1 Korint": "1CO",
+  "2 Korint": "2CO",
+  "Galesia": "GAL",
+  "Efisus": "EPH",
+  "Philippians": "PHP",
+  "Kolose": "COL",
+  "1 Thessalonians": "1TH",
+  "2 Thessalonians": "2TH",
+  "1 Timoti": "1TI",
+  "2 Timoti": "2TI",
+  "Titus": "TIT",
+  "Philemon": "PHM",
+  "Hipru": "HEB",
+  "James": "JAS",
+  "1 Peter": "1PE",
+  "2 Peter": "2PE",
+  "1 John": "1JN",
+  "2 John": "2JN",
+  "3 John": "3JN",
+  "Jude": "JUD",
+  "Pwäratä": "REV"
+ },
+ "yv": "ebible:chk",
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
