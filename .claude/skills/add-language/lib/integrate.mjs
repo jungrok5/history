@@ -89,8 +89,10 @@ if (font && font.sub) {
   b = b.replace(/( *'hi':'Noto Sans Devanagari[^\n]*\n)/, `$1  '${code}':'${font.sub}',\n`);
 }
 if (font && font.letterspacing0) {
-  must(/const ls = \[[^\]]*\]\.includes\(m\.code\)/.test(b), 'letter-spacing 리스트 못 찾음');
-  b = b.replace(/(const ls = \[)([^\]]*)(\]\.includes\(m\.code\))/, `$1$2,'${code}'$3`);
+  // letter-spacing 리스트가 있으면 추가(없으면 비치명적으로 건너뜀 — 현재 build-pages 엔 리스트 없음)
+  if (/const ls = \[[^\]]*\]\.includes\(m\.code\)/.test(b)) {
+    b = b.replace(/(const ls = \[)([^\]]*)(\]\.includes\(m\.code\))/, `$1$2,'${code}'$3`);
+  } else { console.error('  (letter-spacing 리스트 없음 — letterspacing0 건너뜀)'); }
 }
 fs.writeFileSync(p('tools/build-pages.mjs'), b);
 

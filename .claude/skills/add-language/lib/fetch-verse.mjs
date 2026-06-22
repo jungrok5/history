@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-// YouVersion 구절 verbatim 추출(요약 모델 환각 방지).  사용법: node fetch-verse.mjs <yvId> <USFM[,USFM...]>
+// YouVersion 구절 verbatim 추출(요약 모델 환각 방지).  사용법: node fetch-verse.mjs <src> <USFM[,USFM...]>
 // 예) node fetch-verse.mjs 189 GEN.1.1   /   node fetch-verse.mjs 1681 JHN.1.1-3,ROM.3.23
+//     <src> 가 숫자면 YouVersion 버전ID, "ebible:<id>" 면 eBible.org(예: ebible:azb) 챕터 HTML 소스.
 //
 // 두 가지 포맷 지원:
 //  (1) 구포맷: 절 페이지 <script id="__NEXT_DATA__"> JSON 의 verse content 를 그대로 수집.
@@ -13,8 +14,9 @@ import { execFileSync } from 'child_process';
 
 const yv = process.argv[2];
 const refs = (process.argv[3] || '').split(',').map(s => s.trim()).filter(Boolean);
-if (!yv || !refs.length) { console.error('usage: node fetch-verse.mjs <yvId> <USFM[,USFM...]>'); process.exit(2); }
+if (!yv || !refs.length) { console.error('usage: node fetch-verse.mjs <src> <USFM[,USFM...]>'); process.exit(2); }
 const FORCE_CHAPTER = process.env.FORCE_CHAPTER === '1';
+const EBIBLE = yv.startsWith('ebible:') ? yv.slice(7) : null;   // 비-YouVersion 소스: eBible.org
 
 function curlText(url) {
   for (let i = 0; i < 4; i++) {
@@ -112,8 +114,61 @@ function newMethod(ref) {
   return pr.list.map(u => vs[u]).filter(Boolean).join(' ').replace(/\s+/g, ' ').trim();
 }
 
+// ---- (3) eBible.org 소스: 챕터 HTML(<span class="verse" id="V#">) 파서 ----
+// URL: https://ebible.org/<id>/<BOOK><CC>.htm (CC=장, 최소 2자리). 각주(notemark/popup/f/x)·절번호 제외.
+function parseEbibleChapter(html) {
+  const mainAt = html.indexOf('class="main"');
+  let body = mainAt >= 0 ? html.slice(mainAt) : html;
+  const cut = body.search(/<ul class=['"]tnav|<div class="footnote"|<p class="copyright"/);
+  if (cut >= 0) body = body.slice(0, cut);
+  const verses = {};
+  let cur = null, inNum = false, skip = 0;
+  const stack = [];
+  const re = /<([a-zA-Z]+)([^>]*)>|<\/([a-zA-Z]+)>|([^<]+)/g;
+  let m;
+  while ((m = re.exec(body))) {
+    if (m[1]) {
+      const tag = m[1], attrs = m[2] || '';
+      const selfClose = VOID.test(tag) || /\/\s*$/.test(attrs);
+      const cls = (attrs.match(/class="([^"]*)"/) || [, ''])[1];
+      const isVerse = /\bverse\b/.test(cls);
+      const isNote = /\b(notemark|popup|f|x)\b/.test(cls); // 각주/상호참조 영역(중첩 ft/fq/xt 포함)
+      if (isVerse) { const id = (attrs.match(/id="V(\d+)"/) || [])[1]; if (id) { cur = +id; inNum = true; } }
+      if (!selfClose) stack.push({ tag, isNote, closesNum: isVerse });
+      if (isNote) skip++;
+    } else if (m[3]) {
+      for (let i = stack.length - 1; i >= 0; i--) {
+        if (stack[i].tag === m[3]) { const f = stack.splice(i, 1)[0]; if (f.isNote) skip--; if (f.closesNum) inNum = false; break; }
+      }
+    } else if (m[4]) {
+      if (cur != null && !inNum && skip === 0) verses[cur] = (verses[cur] || '') + m[4];
+    }
+  }
+  for (const k in verses) verses[k] = decodeEnt(verses[k]).replace(/\s+/g, ' ').trim();
+  return verses;
+}
+const ebCache = new Map();
+function ebibleVerses(book, ch) {
+  const key = book + '.' + ch;
+  if (ebCache.has(key)) return ebCache.get(key);
+  let v = {};
+  for (const w of [2, 3]) { // 대부분 2자리(GEN01); 시편 등 100+장은 3자리(PSA023.htm)
+    v = parseEbibleChapter(curlText(`https://ebible.org/${EBIBLE}/${book}${String(ch).padStart(w, '0')}.htm`) || '');
+    if (Object.keys(v).length) break;
+  }
+  ebCache.set(key, v);
+  return v;
+}
+function ebibleMethod(ref) {
+  const pr = parseRef(ref); if (!pr) return '';
+  const [book, ch] = pr.chap.split('.');
+  const vs = ebibleVerses(book, ch);
+  return pr.list.map(u => vs[+u.split('.')[2]]).filter(Boolean).join(' ').replace(/\s+/g, ' ').trim();
+}
+
 for (const r of refs) {
-  let text = FORCE_CHAPTER ? '' : oldMethod(r);
-  if (!text) text = newMethod(r);
+  let text;
+  if (EBIBLE) text = ebibleMethod(r);
+  else { text = FORCE_CHAPTER ? '' : oldMethod(r); if (!text) text = newMethod(r); }
   console.log(`${r}\t${text || 'MISSING'}`);
 }

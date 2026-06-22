@@ -219,6 +219,20 @@ by its own ref's availability, **not** a blanket OT-off:
 - Example: **ky (Kyrgyz КЫРИ 2328)** = NT + **Genesis + Judges** → ep0/1/2 (GEN) & ep4 (JDG) get real quotes;
   ep3/5/6/7/8 (Exo/2Sa/1Ki/Psa/Neh absent) stay summary+empty-cite. BOOKS.ky carries Genesis & Judges + the NT books.
 
+## eBible.org source (languages not on YouVersion)
+For a language with no usable YouVersion edition, check **eBible.org** (~1,500 redistributable Bibles, public-domain/CC, no API key):
+- Find the translation: `curl -s https://ebible.org/Scriptures/translations.csv` → grep your language. Columns:
+  languageCode, **translationId**, …englishName…, OTbooks, …, NTbooks, **Redistributable**. Use the **translationId**
+  (e.g. Tibetan = `bodn`, NOT `bod`) and require Redistributable=True + the books you need.
+- Gate 0 / fetch / verify all use the token **`ebible:<translationId>`** wherever a YouVersion number would go:
+  `node lib/fetch-verse.mjs ebible:bodn ISA.53.5,GEN.1.1,JHN.3.16` (OT present → full mode). fetch-verse parses
+  ebible.org chapter HTML (각주/notemark/popup 제외, 시편 등 100+장은 PSA023.htm 3자리, 챕터끝 tnav 컷).
+- Config: set **`"yv": "ebible:<translationId>"`** (a **string**, not a number). integrate/gates/verseUrl all handle it
+  automatically — `verseUrl` links to `https://ebible.org/<id>/<BOOK><CC>.htm#V<v>` (PSA → 3-digit chapter).
+- **★ Check the actual script before committing** — the catalog name can mislead: eBible `azb` ("South Azerbaijani")
+  is in **Latin** (duplicates `az`, wrong for Arabic-script Iranian readers), not what the name implies. Fetch a verse and look.
+- First eBible language = **bo (Tibetan, `bodn`)**.
+
 ## Language decisions log (update HERE, never in AGENTS.md)
 So we don't re-investigate, and so adding a language never edits AGENTS.md. The live language *list/count* is
 auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
