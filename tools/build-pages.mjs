@@ -143,6 +143,7 @@ const LANGS = [
   { code:'ps',     dir:'rtl', locale:'ps_AF' },
   { code:'bo',     dir:'ltr', locale:'bo_CN' },
   { code:'dwr',    dir:'ltr', locale:'dwr_ET' },
+  { code:'bho',    dir:'ltr', locale:'bho_IN' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
@@ -169,6 +170,7 @@ const FONT_TITLE = {
   'zh-Hant':'Noto Serif CJK TC, serif',
   'ar':'Noto Naskh Arabic, serif',
   'hi':'Noto Serif Devanagari, Noto Sans Devanagari, serif',
+  'bho':'Noto Serif Devanagari, Noto Sans Devanagari, serif',
   'bo':'Noto Serif Tibetan, Noto Sans Tibetan, serif',
   'ug':'Noto Naskh Arabic, serif',
   'he':'Noto Serif Hebrew, serif',
@@ -204,6 +206,7 @@ const FONT_SUB = {
   'zh-Hant':'Noto Sans CJK TC, sans-serif',
   'ar':'Noto Sans Arabic, sans-serif',
   'hi':'Noto Sans Devanagari, sans-serif',
+  'bho':'Noto Sans Devanagari, sans-serif',
   'bo':'Noto Sans Tibetan, sans-serif',
   'ug':'Noto Sans Arabic, sans-serif',
   'he':'Noto Sans Hebrew, sans-serif',

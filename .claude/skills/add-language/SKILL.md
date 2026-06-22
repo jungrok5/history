@@ -233,6 +233,18 @@ For a language with no usable YouVersion edition, check **eBible.org** (~1,500 r
   is in **Latin** (duplicates `az`, wrong for Arabic-script Iranian readers), not what the name implies. Fetch a verse and look.
 - First eBible language = **bo (Tibetan, `bodn`)**.
 
+## Bridge mode (languages with NO Scripture in any text source)
+When a language has no Bible anywhere fetchable (not YouVersion, not eBible, not OBS) but its speakers read a nearby
+**bridge language** (national/regional) that we already support:
+- **Prose** (storyline, gospel, prayer, FAQ, UI) → the **mother tongue**.
+- **Scripture quotes + cites** → the **bridge language**, verbatim (copy them from the bridge pack `i18n/<bridge>.json`).
+  Speakers read the bridge language, so this is honest + useful.
+- Config: `yv` / `bookopt` / `books_single` = the **bridge language's** (so cites link to the bridge Bible and
+  verify-verbatim checks against the bridge source). `htmlLang`/`dir`/`menuName`/`font` = the **mother tongue**.
+- Add `s["bridge.note"]` — a mother-tongue banner ("no Bible in <lang> yet; verses shown in <bridge>"). It is an
+  OPT key (validate) and renders in the same banner element as `partial.note` (index.html doApply: `partial.note || bridge.note`).
+- First case = **bho (Bhojpuri)** prose + **hi (Hindi)** quotes (yv 1683) — Bhojpuri & Hindi share Devanagari and Bhojpuri speakers read Hindi.
+
 ## Language decisions log (update HERE, never in AGENTS.md)
 So we don't re-investigate, and so adding a language never edits AGENTS.md. The live language *list/count* is
 auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
