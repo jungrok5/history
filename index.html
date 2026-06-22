@@ -526,7 +526,8 @@
     *{ background:transparent !important; box-shadow:none !important; text-shadow:none !important;
        color:#000 !important; -webkit-text-fill-color:currentColor !important; }
     html,body{ background:#fff !important; }
-    body{ font-size:11pt; line-height:1.5; }
+    /* 이모지·강조색 보더·SVG 등 color:#000 로 안 잡히는 잔여 색을 인쇄 시 일괄 흑백화 */
+    body{ font-size:11pt; line-height:1.5; filter:grayscale(100%) !important; }
     @page{ margin:14mm; }
 
     /* 화면 전용 UI·장식 숨김 */
@@ -1490,7 +1491,7 @@ function shareUrl(){ var lp=(curCode&&curCode!=='ko')?(curCode+'/'):''; return '
 function gotoHash(){ try{ if(location.hash&&location.hash.length>1){ var el=document.querySelector(location.hash); if(el) setTimeout(function(){ el.scrollIntoView(); },70); } }catch(e){} }
 window.addEventListener('hashchange',gotoHash);
 
-/* 공유 시트 (전역 + 장면별 + 다채널 + 구절 이미지) */
+/* 공유 시트 (전역 + 장면별 + 다채널) */
 var shareSheet=document.getElementById('shareSheet'); var _shctx=null;
 var SHARE_L={
  ko:{apps:'앱으로 공유',copy:'링크 복사',image:'이미지',qr:'QR 코드'},
@@ -1512,7 +1513,6 @@ var SHARE_L={
 var SVG={
  share:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3m0 0L8 7m4-4 4 4"/><path d="M5 12v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>',
  copy:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 13a4.5 4.5 0 0 0 6.4.4l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4L10.4 5.9"/><path d="M14.5 11a4.5 4.5 0 0 0-6.4-.4L5.5 13.2a4.5 4.5 0 0 0 6.4 6.4l1.6-1.5"/></svg>',
- image:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.6"/><path d="m21 15-4.5-4.5L5 21"/></svg>',
  qr:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><path d="M14 14h3M21 14v3M17 17v4M21 21h-4"/></svg>'
 };
 function shareT(){ return SHARE_L[curCode]||SHARE_L.en; }
@@ -1525,7 +1525,7 @@ function buildShareGrid(){
   } else {
     html+='<div class="ss-soc">'+_soc('whatsapp','#25D366','WhatsApp')+_soc('telegram','#2AABEE','Telegram')+_soc('x','#111','X')+_soc('facebook','#1877F2','Facebook')+_soc('line','#06C755','LINE')+'</div>';
   }
-  html+='<div class="ss-util">'+_ssBtn('copy',SVG.copy,T.copy)+_ssBtn('image',SVG.image,T.image)+_ssBtn('qr',SVG.qr,T.qr)+'</div>';
+  html+='<div class="ss-util">'+_ssBtn('copy',SVG.copy,T.copy)+_ssBtn('qr',SVG.qr,T.qr)+'</div>';
   g.innerHTML=html;
 }
 function openShare(ctx){ _shctx=ctx; var t=document.getElementById('ssTitle'); if(t)t.textContent=ctx.title||((curPack&&curPack.brand)||''); buildShareGrid(); shareSheet.hidden=false; }
@@ -1536,7 +1536,6 @@ function doChannel(ch){
   var u=encodeURIComponent(url), t=encodeURIComponent(text), both=encodeURIComponent(text?(text+'\n'+url):url);
   if(ch==='native'){ if(navigator.share){ navigator.share({title:s.title,text:text,url:url}).then(function(){gevent('share',{method:'native'});}).catch(function(){}); } else { copyLink(url); } closeShare(); return; }
   if(ch==='copy'){ copyLink(url); gevent('share',{method:'copy'}); closeShare(); return; }
-  if(ch==='image'){ shareImage(s); gevent('share',{method:'image'}); closeShare(); return; }
   if(ch==='qr'){ openQR(); closeShare(); return; }
   var L={whatsapp:'https://wa.me/?text='+both,telegram:'https://t.me/share/url?url='+u+'&text='+t,line:'https://line.me/R/msg/text/?'+both,x:'https://twitter.com/intent/tweet?text='+t+'&url='+u,facebook:'https://www.facebook.com/sharer/sharer.php?u='+u}[ch];
   if(L){ window.open(L,'_blank','noopener'); gevent('share',{method:ch}); }
@@ -1553,23 +1552,6 @@ main.addEventListener('click',function(e){ var b=e.target.closest('.ep-share'); 
 /* 더보기 열람 이벤트 */
 main.addEventListener('toggle',function(e){ var d=e.target; if(d.tagName==='DETAILS'&&d.open&&d.classList.contains('more')){ var sec=d.closest('.epoch'); gevent('read_more',{scene:sec?+sec.dataset.sc:0}); } },true);
 
-/* 구절 카드 이미지 (캔버스 → 공유/저장) */
-function wrapText(ctx,text,cx,y,maxW,lh){ var line='',yy=y; for(var i=0;i<text.length;i++){ var test=line+text[i]; if(ctx.measureText(test).width>maxW&&line){ ctx.fillText(line,cx,yy); line=text[i]; yy+=lh; } else line=test; } if(line){ ctx.fillText(line,cx,yy); } return yy+lh; }
-function shareImage(s){
-  try{
-    var c=document.createElement('canvas'); c.width=1080; c.height=1080; var x=c.getContext('2d');
-    x.fillStyle='#0e1118'; x.fillRect(0,0,1080,1080);
-    var g=x.createRadialGradient(540,0,0,540,0,980); g.addColorStop(0,'rgba(233,185,73,.18)'); g.addColorStop(1,'rgba(14,17,24,0)'); x.fillStyle=g; x.fillRect(0,0,1080,1080);
-    x.textAlign='center'; x.fillStyle='#e9b949'; x.font='72px serif'; x.fillText('✝',540,200);
-    var lines=(s.img||s.text||'').split('\n'); var y=380;
-    lines.forEach(function(line){ var cite=/^—/.test(line); x.fillStyle=cite?'#e9b949':'#f4efe6'; x.font=cite?'500 34px sans-serif':'600 48px serif'; y=wrapText(x,line,540,y,900,cite?48:66)+(cite?12:26); });
-    x.fillStyle='#9aa3b2'; x.font='30px sans-serif'; x.fillText('one-scroll-bible.com',540,1015);
-    c.toBlob(function(b){ if(!b){ copyLink(s.url||shareUrl()); return; } var file=new File([b],'one-scroll-bible.png',{type:'image/png'});
-      if(navigator.canShare&&navigator.canShare({files:[file]})){ navigator.share({files:[file],text:s.text,url:s.url}).catch(function(){}); }
-      else { var a=document.createElement('a'); a.href=URL.createObjectURL(b); a.download='one-scroll-bible.png'; a.click(); showToast(); }
-    },'image/png');
-  }catch(e){ copyLink(s.url||shareUrl()); }
-}
 /* QR 코드 (현재 언어 페이지 URL — 인쇄·주보·포스터용) */
 function openQR(){ var code=curCode||'ko'; var img=document.getElementById('qrImg'); if(!img)return; img.src='qr-'+code+'.png'; document.getElementById('qrUrl').textContent=shareUrl(); var dl=document.getElementById('qrDl'); dl.href='qr-'+code+'.png'; dl.setAttribute('download','qr-one-scroll-bible-'+code+'.png'); document.getElementById('qrModal').hidden=false; gevent('share',{method:'qr'}); }
 (function(){ var qm=document.getElementById('qrModal'); if(!qm)return; var cl=document.getElementById('qrClose'); if(cl)cl.addEventListener('click',function(){qm.hidden=true;}); qm.addEventListener('click',function(e){ if(e.target===qm)qm.hidden=true; }); })();
