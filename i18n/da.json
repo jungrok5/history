@@ -340,5 +340,45 @@
    "vref": "Johannes 19:30 · Romerne 5:8",
    "vtext": "Det er fuldbragt… Kristus døde for os, medens vi endnu vare Syndere."
   }
- ]
+ ],
+ "books": {
+  "Josva": "JOS",
+  "Dommer": "JDG",
+  "Ruth": "RUT",
+  "Nehemias": "NEH",
+  "Salme": "PSA",
+  "Esajas": "ISA",
+  "Jeremias": "JER",
+  "Ezekiel": "EZK",
+  "Malakias": "MAL",
+  "Mattæus": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Johannes": "JHN",
+  "Apostlenes Gerninger": "ACT",
+  "Romerne": "ROM",
+  "Galaterne": "GAL",
+  "Efeserne": "EPH",
+  "Kolossenserne": "COL",
+  "Hebræerne": "HEB",
+  "Åbenbaringen": "REV",
+  "1 Mosebog": "GEN",
+  "2 Mosebog": "EXO",
+  "3 Mosebog": "LEV",
+  "5 Mosebog": "DEU",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Kongebog": "1KI",
+  "2 Kongebog": "2KI",
+  "1 Korinther": "1CO",
+  "2 Korinther": "2CO",
+  "1 Timoteus": "1TI",
+  "2 Timoteus": "2TI"
+ },
+ "yv": 49,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

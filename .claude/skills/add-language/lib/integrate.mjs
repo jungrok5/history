@@ -43,11 +43,14 @@ const unresolved = [];
 for (const nm of used) { const u = resolve(nm); if (!u) { unresolved.push(nm); continue; } dict[nm] = u; }
 if (unresolved.length) console.error('⚠ 미해결 토큰(대부분 앞 절 숫자로 인한 오탐 — 무시 가능): ' + JSON.stringify(unresolved));
 
+// ---- 구절-링크 데이터를 팩에 동봉 (books/yv/bookopt). index.html 에는 ko/en 만 인라인 ----
+pack.books = dict;
+pack.yv = yv;
+pack.bookopt = bookopt;
+fs.writeFileSync(p(`i18n/${code}.json`), JSON.stringify(pack, null, 1));
+
 const esc = (s) => String(s).replace(/\\/g, '\\\\').replace(/'/g, "\\'");
-const booksLine = `BOOKS.${code}={` + Object.entries(dict).map(([k, v]) => `'${esc(k)}':'${esc(v)}'`).join(',') + '};';
 const langEntry = `{code:'${code}',native:'${esc(native)}',en:'${esc(en)}'}`;
-const bopt = `${/^[a-z-]+$/i.test(code) ? code : `'${code}'`}:{sep:'${bookopt.sep}',suf:'${bookopt.suf}',bare:${bookopt.bare}}`;
-const yvKey = /^[a-z]+$/i.test(code) ? code : `'${code}'`;
 
 // ---- index.html 패치 ----
 let h = fs.readFileSync(p('index.html'), 'utf8');
@@ -65,17 +68,6 @@ h = h.slice(0, insAt) + `<link rel="alternate" hreflang="${code}" href="https://
 const afterEntryRe = new RegExp(`(\\{code:'${after}'[^}]*\\})`);
 must(afterEntryRe.test(h), `LANGS에서 after='${after}' 엔트리 못 찾음`);
 h = h.replace(afterEntryRe, `$1,\n ${langEntry}`);
-
-// 3) YV — 단일 라인 끝 }; 앞
-must(/var YV=\{[^\n]*\};/.test(h), 'YV 라인 못 찾음');
-h = h.replace(/(var YV=\{[^\n]*?)\};/, `$1,${yvKey}:${yv}};`);
-
-// 4) BOOKS.<code> — var BOOKOPT= 앞
-must(/var BOOKOPT=\{ko:/.test(h), 'BOOKOPT 라인 못 찾음(BOOKS 삽입 기준)');
-h = h.replace('var BOOKOPT={ko:', booksLine + '\nvar BOOKOPT={ko:');
-
-// 5) BOOKOPT — 단일 라인 끝 }; 앞
-h = h.replace(/(var BOOKOPT=\{[^\n]*?)\};/, `$1,${bopt}};`);
 
 fs.writeFileSync(p('index.html'), h);
 
@@ -103,7 +95,7 @@ if (font && font.letterspacing0) {
 fs.writeFileSync(p('tools/build-pages.mjs'), b);
 
 console.log(`OK: ${code} 통합 완료`);
-console.log(`  BOOKS.${code} entries = ${Object.keys(dict).length} | 콘텐츠 토큰 해결 ${used.size - unresolved.length}/${used.size}`);
-console.log(`  index.html: hreflang/LANGS/YV/BOOKS/BOOKOPT ✓`);
+console.log(`  i18n/${code}.json: books(${Object.keys(dict).length})/yv/bookopt 동봉 | 콘텐츠 토큰 해결 ${used.size - unresolved.length}/${used.size}`);
+console.log(`  index.html: hreflang/LANGS ✓`);
 console.log(`  build-pages: LANGS${font ? ' + FONT' : ''} ✓`);
 console.log(`  다음: make-qr → build-pages 실행 → validate → audit-links`);

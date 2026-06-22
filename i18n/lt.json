@@ -340,5 +340,45 @@
    "vref": "Jono 19:30 · Romiečiams 5:8",
    "vtext": "Atlikta!… Kristus numirė už mus, kai tebebuvome nusidėjėliai."
   }
- ]
+ ],
+ "books": {
+  "Pradžios": "GEN",
+  "Išėjimo": "EXO",
+  "Kunigų": "LEV",
+  "Pakartoto Įstatymo": "DEU",
+  "Jozuės": "JOS",
+  "Teisėjų": "JDG",
+  "Rūtos": "RUT",
+  "Nehemijo": "NEH",
+  "Psalmynas": "PSA",
+  "Izaijo": "ISA",
+  "Jeremijo": "JER",
+  "Ezechielio": "EZK",
+  "Malachijo": "MAL",
+  "Mato": "MAT",
+  "Morkaus": "MRK",
+  "Luko": "LUK",
+  "Jono": "JHN",
+  "Apaštalų darbai": "ACT",
+  "Romiečiams": "ROM",
+  "Galatams": "GAL",
+  "Efeziečiams": "EPH",
+  "Kolosiečiams": "COL",
+  "Hebrajams": "HEB",
+  "Apreiškimas": "REV",
+  "1 Samuelio": "1SA",
+  "2 Samuelio": "2SA",
+  "1 Karalių": "1KI",
+  "2 Karalių": "2KI",
+  "1 Korintiečiams": "1CO",
+  "2 Korintiečiams": "2CO",
+  "1 Timotiejui": "1TI",
+  "2 Timotiejui": "2TI"
+ },
+ "yv": 419,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

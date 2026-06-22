@@ -340,5 +340,45 @@
    "vref": "Ján 19:30 · Rimanom 5:8",
    "vtext": "Je dokonané!… Boh dokazuje svoju lásku k nám tým, že Kristus zomrel za nás, keď sme boli ešte hriešni."
   }
- ]
+ ],
+ "books": {
+  "Genezis": "GEN",
+  "Exodus": "EXO",
+  "Levitikus": "LEV",
+  "Deuteronómium": "DEU",
+  "Jozua": "JOS",
+  "Sudcov": "JDG",
+  "Rút": "RUT",
+  "Nehemiáš": "NEH",
+  "Žalmy": "PSA",
+  "Izaiáš": "ISA",
+  "Jeremiáš": "JER",
+  "Ezechiel": "EZK",
+  "Malachiáš": "MAL",
+  "Matúš": "MAT",
+  "Marek": "MRK",
+  "Lukáš": "LUK",
+  "Ján": "JHN",
+  "Skutky apoštolov": "ACT",
+  "Rimanom": "ROM",
+  "Galaťanom": "GAL",
+  "Efezanom": "EPH",
+  "Kolosanom": "COL",
+  "Hebrejom": "HEB",
+  "Zjavenie Jána": "REV",
+  "Prvá Samuelova": "1SA",
+  "Druhá Samuelova": "2SA",
+  "Prvá kráľov": "1KI",
+  "Druhá kráľov": "2KI",
+  "Prvý Korinťanom": "1CO",
+  "Druhý Korinťanom": "2CO",
+  "Prvý Timotejovi": "1TI",
+  "Druhý Timotejovi": "2TI"
+ },
+ "yv": 465,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

@@ -340,5 +340,50 @@
    "vref": "Johannes 19:30 · Romeine 5:8",
    "vtext": "Dit is volbring!… God bewys sy liefde tot ons daarin dat Christus vir ons gesterf het toe ons nog sondaars was."
   }
- ]
+ ],
+ "books": {
+  "Génesis": "GEN",
+  "Exodus": "EXO",
+  "Levítikus": "LEV",
+  "Númeri": "NUM",
+  "Deuteronómium": "DEU",
+  "Josua": "JOS",
+  "Rigters": "JDG",
+  "Rut": "RUT",
+  "Nehemía": "NEH",
+  "Ester": "EST",
+  "Psalm": "PSA",
+  "Spreuke": "PRO",
+  "Jesaja": "ISA",
+  "Jeremia": "JER",
+  "Eségiël": "EZK",
+  "Daniël": "DAN",
+  "Maleági": "MAL",
+  "Matthéüs": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Johannes": "JHN",
+  "Handelinge": "ACT",
+  "Romeine": "ROM",
+  "Galásiërs": "GAL",
+  "Efésiërs": "EPH",
+  "Filippense": "PHP",
+  "Kolossense": "COL",
+  "Hebreërs": "HEB",
+  "Openbaring": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Konings": "1KI",
+  "2 Konings": "2KI",
+  "1 Korinthiërs": "1CO",
+  "2 Korinthiërs": "2CO",
+  "1 Timótheüs": "1TI",
+  "2 Timótheüs": "2TI"
+ },
+ "yv": 5,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

@@ -340,5 +340,50 @@
    "vref": "Yoane 19:30 · Baroma 5:8",
    "vtext": "Nyonso ekokisami… wana tozalaki nanu bato ya masumu, Klisto akufelaki biso."
   }
- ]
+ ],
+ "books": {
+  "Neyemi": "NEH",
+  "Ebandeli": "GEN",
+  "Kobima": "EXO",
+  "Levitike": "LEV",
+  "Mitango": "NUM",
+  "Deteronome": "DEU",
+  "Yozue": "JOS",
+  "Basambisi": "JDG",
+  "Ruti": "RUT",
+  "Neyemia": "NEH",
+  "Nzembo": "PSA",
+  "Masese": "PRO",
+  "Ezaya": "ISA",
+  "Yirimia": "JER",
+  "Ezekiele": "EZK",
+  "Daniele": "DAN",
+  "Malaki": "MAL",
+  "Matayo": "MAT",
+  "Marko": "MRK",
+  "Luka": "LUK",
+  "Yoane": "JHN",
+  "Misala": "ACT",
+  "Baroma": "ROM",
+  "Bagalatia": "GAL",
+  "Baefeso": "EPH",
+  "Bafilipi": "PHP",
+  "Bakolose": "COL",
+  "Baebre": "HEB",
+  "Emoniseli": "REV",
+  "1 Samuele": "1SA",
+  "2 Samuele": "2SA",
+  "1 Bakonzi": "1KI",
+  "2 Bakonzi": "2KI",
+  "1 Bakorinti": "1CO",
+  "2 Bakorinti": "2CO",
+  "1 Timote": "1TI",
+  "2 Timote": "2TI"
+ },
+ "yv": 1964,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

@@ -21,9 +21,10 @@ const sandbox = 'var document={addEventListener(){}};var gevent=function(){};\n'
 // eslint-disable-next-line no-new-func
 new Function(sandbox)();
 const T = globalThis.__T;
-if (!T.BOOKS[code]) { console.error('BOOKS.' + code + ' 없음 — integrate 먼저 실행'); process.exit(1); }
-
 const pack = JSON.parse(fs.readFileSync(p(`i18n/${code}.json`), 'utf8'));
+// 구절-링크 데이터는 팩에 동봉됨(ko/en 만 index.html 인라인) — 런타임 doApply 와 동일하게 등록
+if (code !== 'ko' && code !== 'en' && pack.books) { T.BOOKS[code] = pack.books; if (pack.yv != null) T.YV[code] = pack.yv; if (pack.bookopt) T.BOOKOPT[code] = pack.bookopt; }
+if (!T.BOOKS[code]) { console.error('BOOKS.' + code + ' 없음 — 팩에 books 필드 없음(integrate 먼저 실행)'); process.exit(1); }
 const fields = [];
 pack.epochs.forEach((x, i) => ['q','cite','one','people','events','christ','detail','next'].forEach(k => fields.push(['epoch' + i + '.' + k, x[k]])));
 pack.core.forEach((x, i) => ['body','vref','vtext'].forEach(k => fields.push(['core' + i + '.' + k, x[k]])));

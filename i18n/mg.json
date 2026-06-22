@@ -340,5 +340,45 @@
    "vref": "Jaona 19:30 · Romana 5:8",
    "vtext": "Vita … Andriamanitra mampiseho ny fitiavany antsika, fa fony mbola mpanota isika, dia maty hamonjy antsika Kristy."
   }
- ]
+ ],
+ "books": {
+  "Genesisy": "GEN",
+  "Eksodosy": "EXO",
+  "Levitikosy": "LEV",
+  "Deoteronomia": "DEU",
+  "Josoa": "JOS",
+  "Mpitsara": "JDG",
+  "Rota": "RUT",
+  "Salamo": "PSA",
+  "Isaia": "ISA",
+  "Jeremia": "JER",
+  "Ezekiela": "EZK",
+  "Malakia": "MAL",
+  "Nehemia": "NEH",
+  "Matio": "MAT",
+  "Marka": "MRK",
+  "Lioka": "LUK",
+  "Jaona": "JHN",
+  "Asan’ny Apostoly": "ACT",
+  "Romana": "ROM",
+  "Galatiana": "GAL",
+  "Efesiana": "EPH",
+  "Kolosiana": "COL",
+  "Hebreo": "HEB",
+  "Apokalypsy": "REV",
+  "1 Samoela": "1SA",
+  "2 Samoela": "2SA",
+  "1 Mpanjaka": "1KI",
+  "2 Mpanjaka": "2KI",
+  "1 Korintiana": "1CO",
+  "2 Korintiana": "2CO",
+  "1 Timoty": "1TI",
+  "2 Timoty": "2TI"
+ },
+ "yv": 873,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

@@ -340,5 +340,46 @@
    "t": "De kerk is geen gemeenschap van “voltooide heiligen”, maar van <b>vergeven zondaars</b>. Zelfs de apostel Paulus noemde zichzelf “van wie ik de voornaamste ben” (1 Timotheüs 1:15). De vroege kerk twistte en struikelde ook (Handelingen 6:1; 1 Korinthe 1:11). Het is geen plaats om op te scheppen, maar mensen die de ontvangen liefde doorgeven (Johannes 13:34-35)."
   },
   null
- ]
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodus": "EXO",
+  "Leviticus": "LEV",
+  "Deuteronomium": "DEU",
+  "Jozua": "JOS",
+  "Richteren": "JDG",
+  "Ruth": "RUT",
+  "Nehemia": "NEH",
+  "Psalm": "PSA",
+  "Psalmen": "PSA",
+  "Jesaja": "ISA",
+  "Jeremia": "JER",
+  "Ezechiël": "EZK",
+  "Maleachi": "MAL",
+  "Mattheüs": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Johannes": "JHN",
+  "Handelingen": "ACT",
+  "Romeinen": "ROM",
+  "Galaten": "GAL",
+  "Efeze": "EPH",
+  "Kolossenzen": "COL",
+  "Hebreeën": "HEB",
+  "Openbaring": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Koningen": "1KI",
+  "2 Koningen": "2KI",
+  "1 Korinthe": "1CO",
+  "2 Korinthe": "2CO",
+  "1 Timotheüs": "1TI",
+  "2 Timotheüs": "2TI"
+ },
+ "yv": 1990,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

@@ -340,5 +340,49 @@
    "vref": "Yooxanaa 19:30 · Rooma 5:8",
    "vtext": "Waa dhammaatay… Masiixu waa inoo dhintay intaynu weli dembilayaal ahayn."
   }
- ]
+ ],
+ "books": {
+  "Bilowgii": "GEN",
+  "Baxniintii": "EXO",
+  "Laawiyiintii": "LEV",
+  "Tirintii": "NUM",
+  "Sharciga Kunoqoshadiisa": "DEU",
+  "Yashuuca": "JOS",
+  "Xaakinnada": "JDG",
+  "Ruud": "RUT",
+  "Nexemyaah": "NEH",
+  "Sabuurka": "PSA",
+  "Maahmaahyadii": "PRO",
+  "Ishacyaah": "ISA",
+  "Yeremyaah": "JER",
+  "Yexesqeel": "EZK",
+  "Daanyeel": "DAN",
+  "Malaakii": "MAL",
+  "Matayos": "MAT",
+  "Markos": "MRK",
+  "Luukos": "LUK",
+  "Yooxanaa": "JHN",
+  "Falimaha Rasuullada": "ACT",
+  "Rooma": "ROM",
+  "Galatiya": "GAL",
+  "Efesos": "EPH",
+  "Filiboy": "PHP",
+  "Kolosay": "COL",
+  "Cibraaniyada": "HEB",
+  "Muujintii": "REV",
+  "1 Samuu'eel": "1SA",
+  "2 Samuu'eel": "2SA",
+  "1 Boqorradii": "1KI",
+  "2 Boqorradii": "2KI",
+  "1 Korintos": "1CO",
+  "2 Korintos": "2CO",
+  "1 Timoteyos": "1TI",
+  "2 Timoteyos": "2TI"
+ },
+ "yv": 87,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

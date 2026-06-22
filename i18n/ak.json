@@ -340,5 +340,45 @@
    "vref": "Yohane 19:30 · Romafoɔ 5:8",
    "vtext": "Mawie… ɛberɛ a yɛyɛ nnebɔneyɛfoɔ no, Kristo wu maa yɛn."
   }
- ]
+ ],
+ "books": {
+  "1 Mose": "GEN",
+  "2 Mose": "EXO",
+  "Leguitikus": "LEV",
+  "Deuteronomium": "DEU",
+  "Yosua": "JOS",
+  "Atemmufoɔ": "JDG",
+  "Rut": "RUT",
+  "Nehemia": "NEH",
+  "Nnwom": "PSA",
+  "Yesaia": "ISA",
+  "Yeremia": "JER",
+  "Hesekiel": "EZK",
+  "Malaki": "MAL",
+  "Mateo": "MAT",
+  "Marko": "MRK",
+  "Luka": "LUK",
+  "Yohane": "JHN",
+  "Asomafoɔ": "ACT",
+  "Romafoɔ": "ROM",
+  "Galatifoɔ": "GAL",
+  "Efesofoɔ": "EPH",
+  "Kolosefoɔ": "COL",
+  "Hebrifoɔ": "HEB",
+  "Adiyisɛm": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Ahemfo": "1KI",
+  "2 Ahemfo": "2KI",
+  "1 Korintofoɔ": "1CO",
+  "2 Korintofoɔ": "2CO",
+  "1 Timoteo": "1TI",
+  "2 Timoteo": "2TI"
+ },
+ "yv": 2094,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

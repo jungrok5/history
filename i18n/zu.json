@@ -340,5 +340,52 @@
    "vref": "Johane 19:30 · Roma 5:8",
    "vtext": "Kufeziwe… siseyizoni, uKristu wasifela."
   }
- ]
+ ],
+ "books": {
+  "Genesise": "GEN",
+  "Eksodusi": "EXO",
+  "Levitikusi": "LEV",
+  "AmaNani": "NUM",
+  "Duteronomi": "DEU",
+  "Joshuwa": "JOS",
+  "AbaHluleli": "JDG",
+  "Ruthe": "RUT",
+  "Nehemiya": "NEH",
+  "Esteri": "EST",
+  "iHubo": "PSA",
+  "amaHubo": "PSA",
+  "IzAga": "PRO",
+  "Isaya": "ISA",
+  "Jeremiya": "JER",
+  "IsiLilo": "LAM",
+  "Hezekeli": "EZK",
+  "Daniyeli": "DAN",
+  "Malaki": "MAL",
+  "Mathewu": "MAT",
+  "Marku": "MRK",
+  "Luka": "LUK",
+  "Johane": "JHN",
+  "IzEnzo": "ACT",
+  "Roma": "ROM",
+  "Galathiya": "GAL",
+  "Efesu": "EPH",
+  "Filipi": "PHP",
+  "Kolose": "COL",
+  "Hebheru": "HEB",
+  "IsAmbulo": "REV",
+  "1 Samuweli": "1SA",
+  "2 Samuweli": "2SA",
+  "1 AmaKhosi": "1KI",
+  "2 AmaKhosi": "2KI",
+  "1 Korinte": "1CO",
+  "2 Korinte": "2CO",
+  "1 Thimothewu": "1TI",
+  "2 Thimothewu": "2TI"
+ },
+ "yv": 286,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

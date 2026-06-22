@@ -340,5 +340,46 @@
    "vref": "Johannesevangeliet 19:30 · Romarbrevet 5:8",
    "vtext": "Det är fullbordat… Kristus dog för oss medan vi ännu var syndare."
   }
- ]
+ ],
+ "books": {
+  "Josua": "JOS",
+  "Domarboken": "JDG",
+  "Rut": "RUT",
+  "Psaltaren": "PSA",
+  "Nehemja": "NEH",
+  "Jesaja": "ISA",
+  "Jeremia": "JER",
+  "Hesekiel": "EZK",
+  "Malaki": "MAL",
+  "Matteusevangeliet": "MAT",
+  "Markusevangeliet": "MRK",
+  "Lukasevangeliet": "LUK",
+  "Johannesevangeliet": "JHN",
+  "Apostlagärningarna": "ACT",
+  "Romarbrevet": "ROM",
+  "Galaterbrevet": "GAL",
+  "Efesierbrevet": "EPH",
+  "Kolosserbrevet": "COL",
+  "Hebreerbrevet": "HEB",
+  "Uppenbarelseboken": "REV",
+  "Första Moseboken": "GEN",
+  "Andra Moseboken": "EXO",
+  "Tredje Moseboken": "LEV",
+  "Fjärde Moseboken": "NUM",
+  "Femte Moseboken": "DEU",
+  "Första Samuelsboken": "1SA",
+  "Andra Samuelsboken": "2SA",
+  "Första Kungaboken": "1KI",
+  "Andra Kungaboken": "2KI",
+  "Första Korintierbrevet": "1CO",
+  "Andra Korintierbrevet": "2CO",
+  "Första Timoteusbrevet": "1TI",
+  "Andra Timoteusbrevet": "2TI"
+ },
+ "yv": 1223,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

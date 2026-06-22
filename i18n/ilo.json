@@ -340,5 +340,50 @@
    "vref": "Juan 19:30 · Taga Roma 5:8",
    "vtext": "Natungpalen… idinto a managbasoltayo pay laeng, ni Cristo natay gapu cadatayo."
   }
- ]
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodo": "EXO",
+  "Levitico": "LEV",
+  "Numeros": "NUM",
+  "Deuteronomio": "DEU",
+  "Josue": "JOS",
+  "Oc-ocom": "JDG",
+  "Ruth": "RUT",
+  "Nehemias": "NEH",
+  "Salmo": "PSA",
+  "Dagiti Salmo": "PSA",
+  "Proverbio": "PRO",
+  "Isaias": "ISA",
+  "Jeremias": "JER",
+  "Ezekiel": "EZK",
+  "Daniel": "DAN",
+  "Malakias": "MAL",
+  "Mateo": "MAT",
+  "Marcos": "MRK",
+  "Lucas": "LUK",
+  "Juan": "JHN",
+  "Dagiti Aramid": "ACT",
+  "Taga Roma": "ROM",
+  "Taga Galacia": "GAL",
+  "Taga Efeso": "EPH",
+  "Taga Filipos": "PHP",
+  "Taga Colosas": "COL",
+  "Hebreo": "HEB",
+  "Apocalipsis": "REV",
+  "I Samuel": "1SA",
+  "II Samuel": "2SA",
+  "I Ar-ari": "1KI",
+  "II Ar-ari": "2KI",
+  "I Taga Corinto": "1CO",
+  "II Taga Corinto": "2CO",
+  "I Timoteo": "1TI",
+  "II Timoteo": "2TI"
+ },
+ "yv": 2192,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

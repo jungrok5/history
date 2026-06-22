@@ -341,5 +341,31 @@
    "vref": "Yahaya 19:30 · Roomanko'en 5:8",
    "vtext": "Ɗum yottinaama… carel ko ngonɗen nder hakke, Almasiihu maayii ngam meeɗen."
   }
- ]
+ ],
+ "books": {
+  "Maatiyu": "MAT",
+  "Markus": "MRK",
+  "Luka": "LUK",
+  "Yahaya": "JHN",
+  "Kuuɗe Lilaaɓe": "ACT",
+  "Roomanko'en": "ROM",
+  "Galaatiyanko'en": "GAL",
+  "Aafisanko'en": "EPH",
+  "Filibiyanko'en": "PHP",
+  "Koloosiyanko'en": "COL",
+  "Ibraaniyanko'en": "HEB",
+  "Wahayu Yahaya": "REV",
+  "1 Korintiyanko'en": "1CO",
+  "2 Korintiyanko'en": "2CO",
+  "1 Timooti": "1TI",
+  "2 Timooti": "2TI",
+  "1 Biiturus": "1PE",
+  "2 Biiturus": "2PE"
+ },
+ "yv": 1159,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

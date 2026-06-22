@@ -340,5 +340,45 @@
   "Pandan nou te toujou pechè, li voye Pitit li pou bay pwòp lavi li.",
   "Lanmou nou te resevwa a, kounye a li voye l koule sou tout mond lan.",
   "Anfen l ap siye tout dlo nan je epi restore tout bagay nan lanmou."
- ]
+ ],
+ "books": {
+  "Jenèz": "GEN",
+  "Egzòd": "EXO",
+  "Levitik": "LEV",
+  "Detewonòm": "DEU",
+  "Jozye": "JOS",
+  "Jij": "JDG",
+  "Rit": "RUT",
+  "Neyemi": "NEH",
+  "Sòm": "PSA",
+  "Ezayi": "ISA",
+  "Jeremi": "JER",
+  "Ezekyèl": "EZK",
+  "Malachi": "MAL",
+  "Matye": "MAT",
+  "Mak": "MRK",
+  "Lik": "LUK",
+  "Jan": "JHN",
+  "Travay": "ACT",
+  "Women": "ROM",
+  "Galat": "GAL",
+  "Efezyen": "EPH",
+  "Kolosyen": "COL",
+  "Ebre": "HEB",
+  "Revelasyon": "REV",
+  "1 Samyèl": "1SA",
+  "2 Samyèl": "2SA",
+  "1 Wa": "1KI",
+  "2 Wa": "2KI",
+  "1 Korent": "1CO",
+  "2 Korent": "2CO",
+  "1 Timote": "1TI",
+  "2 Timote": "2TI"
+ },
+ "yv": 1957,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

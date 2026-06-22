@@ -340,5 +340,46 @@
    "vref": "János 19:30 · Róma 5:8",
    "vtext": "Elvégeztetett!… Krisztus már akkor meghalt értünk, amikor még bűnösök voltunk."
   }
- ]
+ ],
+ "books": {
+  "Józsué": "JOS",
+  "Bírák": "JDG",
+  "Ruth": "RUT",
+  "Zsoltárok": "PSA",
+  "Nehémiás": "NEH",
+  "Ézsaiás": "ISA",
+  "Jeremiás": "JER",
+  "Ezékiel": "EZK",
+  "Malakiás": "MAL",
+  "Máté": "MAT",
+  "Márk": "MRK",
+  "Lukács": "LUK",
+  "János": "JHN",
+  "Cselekedetek": "ACT",
+  "Róma": "ROM",
+  "Galata": "GAL",
+  "Efezus": "EPH",
+  "Kolossé": "COL",
+  "Zsidók": "HEB",
+  "Jelenések": "REV",
+  "1Mózes": "GEN",
+  "2Mózes": "EXO",
+  "3Mózes": "LEV",
+  "4Mózes": "NUM",
+  "5Mózes": "DEU",
+  "1Sámuel": "1SA",
+  "2Sámuel": "2SA",
+  "1Királyok": "1KI",
+  "2Királyok": "2KI",
+  "1Korinthus": "1CO",
+  "2Korinthus": "2CO",
+  "1Timóteus": "1TI",
+  "2Timóteus": "2TI"
+ },
+ "yv": 920,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

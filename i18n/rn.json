@@ -340,5 +340,45 @@
    "vref": "Yohana 19:30 · Abaroma 5:8",
    "vtext": "Birarangiye… kuko Kristo yadupfiriye tukir’ abanyavyaha."
   }
- ]
+ ],
+ "books": {
+  "Itanguriro": "GEN",
+  "Kuvayo": "EXO",
+  "Abalewi": "LEV",
+  "Gusubira mu vyagezwe": "DEU",
+  "Yosuwa": "JOS",
+  "Abacamanza": "JDG",
+  "Rusi": "RUT",
+  "Nehemiya": "NEH",
+  "Zaburi": "PSA",
+  "Yesaya": "ISA",
+  "Yeremiya": "JER",
+  "Ezekiyeli": "EZK",
+  "Malaki": "MAL",
+  "Matayo": "MAT",
+  "Mariko": "MRK",
+  "Luka": "LUK",
+  "Yohana": "JHN",
+  "Ivyakozwe": "ACT",
+  "Abaroma": "ROM",
+  "Abagalatiya": "GAL",
+  "Abanyefeso": "EPH",
+  "Abakolosayi": "COL",
+  "Abaheburayo": "HEB",
+  "Ivyahishuriwe": "REV",
+  "1 Samweli": "1SA",
+  "2 Samweli": "2SA",
+  "1 Abami": "1KI",
+  "2 Abami": "2KI",
+  "1 Abakorinto": "1CO",
+  "2 Abakorinto": "2CO",
+  "1 Timoteyo": "1TI",
+  "2 Timoteyo": "2TI"
+ },
+ "yv": 2944,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

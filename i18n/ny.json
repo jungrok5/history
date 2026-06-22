@@ -340,5 +340,49 @@
    "vref": "Yohane 19:30 · Aroma 5:8",
    "vtext": "Kwatha… pokhala ife chikhalire ochimwa, Khristu adatifera ife."
   }
- ]
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Eksodo": "EXO",
+  "Levitiko": "LEV",
+  "Numeri": "NUM",
+  "Deuteronomo": "DEU",
+  "Yoswa": "JOS",
+  "Oweruza": "JDG",
+  "Rute": "RUT",
+  "Nehemiya": "NEH",
+  "Salmo": "PSA",
+  "Miyambo": "PRO",
+  "Yesaya": "ISA",
+  "Yeremiya": "JER",
+  "Ezekieli": "EZK",
+  "Danieli": "DAN",
+  "Malaki": "MAL",
+  "Mateyu": "MAT",
+  "Marko": "MRK",
+  "Luka": "LUK",
+  "Yohane": "JHN",
+  "Machitidwe": "ACT",
+  "Aroma": "ROM",
+  "Agalatiya": "GAL",
+  "Aefeso": "EPH",
+  "Afilipi": "PHP",
+  "Akolose": "COL",
+  "Ahebri": "HEB",
+  "Chivumbulutso": "REV",
+  "1 Samueli": "1SA",
+  "2 Samueli": "2SA",
+  "1 Mafumu": "1KI",
+  "2 Mafumu": "2KI",
+  "1 Akorinto": "1CO",
+  "2 Akorinto": "2CO",
+  "1 Timoteo": "1TI",
+  "2 Timoteo": "2TI"
+ },
+ "yv": 1068,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

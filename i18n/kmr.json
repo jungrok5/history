@@ -340,5 +340,45 @@
    "vref": "Yûhenna 19:30 · Romayî 5:8",
    "vtext": "Temam bû … Xwedê hezkirina xwe ya ji me bi vê kifş dike ku hê em gunehkar bûn, Mesîh ji bo me mir."
   }
- ]
+ ],
+ "books": {
+  "Destpêk": "GEN",
+  "Derketin": "EXO",
+  "Lêwiyî": "LEV",
+  "Dubarekirina Şerîetê": "DEU",
+  "Yêşû": "JOS",
+  "Dadger": "JDG",
+  "Rût": "RUT",
+  "Zebûr": "PSA",
+  "Îşaya": "ISA",
+  "Yêremya": "JER",
+  "Hezekiyêl": "EZK",
+  "Melaxî": "MAL",
+  "Nehemya": "NEH",
+  "Metta": "MAT",
+  "Marqos": "MRK",
+  "Lûqa": "LUK",
+  "Yûhenna": "JHN",
+  "Karên Şandiyan": "ACT",
+  "Romayî": "ROM",
+  "Galatî": "GAL",
+  "Efesî": "EPH",
+  "Kolosî": "COL",
+  "Îbranî": "HEB",
+  "Peyxam": "REV",
+  "Samûêl I": "1SA",
+  "Samûêl II": "2SA",
+  "Padîşah I": "1KI",
+  "Padîşah II": "2KI",
+  "Korîntî I": "1CO",
+  "Korîntî II": "2CO",
+  "Tîmotêyos I": "1TI",
+  "Tîmotêyos II": "2TI"
+ },
+ "yv": 251,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

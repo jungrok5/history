@@ -340,5 +340,45 @@
    "vref": "Sione 19:30 · Loma 5:8",
    "vtext": "Kuo ‘osi… ‘i he pekia ‘a Kalaisi ma‘atautolu, lolotonga ‘oku tau kei angahala."
   }
- ]
+ ],
+ "books": {
+  "Senesi": "GEN",
+  "ʻEkisoto": "EXO",
+  "Levitiko": "LEV",
+  "Teutalonome": "DEU",
+  "Siosiua": "JOS",
+  "Kau Fakamaau": "JDG",
+  "Lute": "RUT",
+  "Nehemaia": "NEH",
+  "Saame": "PSA",
+  "ʻIsaia": "ISA",
+  "Selemaia": "JER",
+  "ʻIsikeli": "EZK",
+  "Malakai": "MAL",
+  "Mātiú": "MAT",
+  "Maʻake": "MRK",
+  "Luké": "LUK",
+  "Sione": "JHN",
+  "Ngaue": "ACT",
+  "Loma": "ROM",
+  "Kaletia": "GAL",
+  "ʻEfeso": "EPH",
+  "Kolose": "COL",
+  "Hepelu": "HEB",
+  "Fakahā": "REV",
+  "Kolinitō 1": "1CO",
+  "Kolinitō 2": "2CO",
+  "Timote 1": "1TI",
+  "Timote 2": "2TI",
+  "1 Samiuela": "1SA",
+  "2 Samiuela": "2SA",
+  "1 Tuʻi": "1KI",
+  "2 Tuʻi": "2KI"
+ },
+ "yv": 1307,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

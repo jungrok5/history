@@ -340,5 +340,47 @@
    "vref": "Giovanni 19:30 · Romani 5:8",
    "vtext": "È compiuto… mentre eravamo ancora peccatori, Cristo è morto per noi."
   }
- ]
+ ],
+ "books": {
+  "Genesi": "GEN",
+  "Esodo": "EXO",
+  "Levitico": "LEV",
+  "Deuteronomio": "DEU",
+  "Giosuè": "JOS",
+  "Giudici": "JDG",
+  "Rut": "RUT",
+  "Neemia": "NEH",
+  "Ester": "EST",
+  "Salmo": "PSA",
+  "Salmi": "PSA",
+  "Isaia": "ISA",
+  "Geremia": "JER",
+  "Ezechiele": "EZK",
+  "Malachia": "MAL",
+  "Matteo": "MAT",
+  "Marco": "MRK",
+  "Luca": "LUK",
+  "Giovanni": "JHN",
+  "Atti": "ACT",
+  "Romani": "ROM",
+  "Galati": "GAL",
+  "Efesini": "EPH",
+  "Colossesi": "COL",
+  "Ebrei": "HEB",
+  "Apocalisse": "REV",
+  "1 Samuele": "1SA",
+  "2 Samuele": "2SA",
+  "1 Re": "1KI",
+  "2 Re": "2KI",
+  "1 Corinzi": "1CO",
+  "2 Corinzi": "2CO",
+  "1 Timoteo": "1TI",
+  "2 Timoteo": "2TI"
+ },
+ "yv": 122,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

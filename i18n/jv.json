@@ -340,5 +340,51 @@
    "vref": "Yokanan 19:30 · Rum 5:8",
    "vtext": "Wus rampung… Sang Kristus wus nglampahi seda kanggo kita, nalika kita isih padha kawengku ing dosa."
   }
- ]
+ ],
+ "books": {
+  "Purwaning Dumadi": "GEN",
+  "Pangentasan": "EXO",
+  "Kaimaman": "LEV",
+  "Wilangan": "NUM",
+  "Pangandharing Toret": "DEU",
+  "Yusak": "JOS",
+  "Para Hakim": "JDG",
+  "Rut": "RUT",
+  "Nehemya": "NEH",
+  "Ester": "EST",
+  "Masmur": "PSA",
+  "Wulang Bebasan": "PRO",
+  "Yesaya": "ISA",
+  "Yeremia": "JER",
+  "Pangadhuh": "LAM",
+  "Yeheskiel": "EZK",
+  "Daniel": "DAN",
+  "Maleakhi": "MAL",
+  "Mateus": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Yokanan": "JHN",
+  "Lelakone Para Rasul": "ACT",
+  "Rum": "ROM",
+  "Galati": "GAL",
+  "Efesus": "EPH",
+  "Filipi": "PHP",
+  "Kolose": "COL",
+  "Ibrani": "HEB",
+  "Wahyu": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Para Raja": "1KI",
+  "2 Para Raja": "2KI",
+  "1 Korinta": "1CO",
+  "2 Korinta": "2CO",
+  "1 Timoteus": "1TI",
+  "2 Timoteus": "2TI"
+ },
+ "yv": 248,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

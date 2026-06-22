@@ -340,5 +340,48 @@
    "vref": "Ewangelia Jana 19:30 · Rzymian 5:8",
    "vtext": "Wykonało się… gdy jeszcze byliśmy grzesznymi, Chrystus za nas umarł."
   }
- ]
+ ],
+ "books": {
+  "I Mojżeszowa": "GEN",
+  "II Mojżeszowa": "EXO",
+  "III Mojżeszowa": "LEV",
+  "IV Mojżeszowa": "NUM",
+  "V Mojżeszowa": "DEU",
+  "Jozuego": "JOS",
+  "Sędziów": "JDG",
+  "Rut": "RUT",
+  "Estery": "EST",
+  "Nehemiasza": "NEH",
+  "Psalmy": "PSA",
+  "Psalm": "PSA",
+  "Izajasza": "ISA",
+  "Jeremiasza": "JER",
+  "Ezechiela": "EZK",
+  "Malachiasza": "MAL",
+  "Ewangelia Mateusza": "MAT",
+  "Ewangelia Marka": "MRK",
+  "Ewangelia Łukasza": "LUK",
+  "Ewangelia Jana": "JHN",
+  "Dzieje Apostolskie": "ACT",
+  "Rzymian": "ROM",
+  "Galatów": "GAL",
+  "Efezów": "EPH",
+  "Kolosensów": "COL",
+  "Żydów": "HEB",
+  "Objawienie św. Jana": "REV",
+  "1 Samuelowa": "1SA",
+  "2 Samuelowa": "2SA",
+  "1 Królewska": "1KI",
+  "2 Królewska": "2KI",
+  "1 Koryntów": "1CO",
+  "2 Koryntów": "2CO",
+  "1 Tymoteusza": "1TI",
+  "2 Tymoteusza": "2TI"
+ },
+ "yv": 132,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

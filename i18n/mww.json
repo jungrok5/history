@@ -340,5 +340,45 @@
    "vref": "Yauhas 19:30 · Loos 5:8",
    "vtext": "Tiav lawm lauj! … thaum peb tseem ua neeg muaj txim Khetos tuag this peb."
   }
- ]
+ ],
+ "books": {
+  "Chiv Keeb": "GEN",
+  "Khiav Dim": "EXO",
+  "Levi Tej Kevcai": "LEV",
+  "Kevcai": "DEU",
+  "Yausua": "JOS",
+  "Cov Thawj": "JDG",
+  "Luv": "RUT",
+  "Ntawv Nkauj": "PSA",
+  "Yaxaya": "ISA",
+  "Yelemi": "JER",
+  "Exekhee": "EZK",
+  "Malakhi": "MAL",
+  "Nehemi": "NEH",
+  "Mathai": "MAT",
+  "Malakau": "MRK",
+  "Luka": "LUK",
+  "Yauhas": "JHN",
+  "Tubtxib Tes Haujlwm": "ACT",
+  "Loos": "ROM",
+  "Kalatia": "GAL",
+  "Efexau": "EPH",
+  "Khaulauxi": "COL",
+  "Henplais": "HEB",
+  "Qhia Tshwm": "REV",
+  "1 Xamuyee": "1SA",
+  "2 Xamuyee": "2SA",
+  "1 Vajntxwv": "1KI",
+  "2 Vajntxwv": "2KI",
+  "1 Khaulee": "1CO",
+  "2 Khaulee": "2CO",
+  "1 Timaute": "1TI",
+  "2 Timaute": "2TI"
+ },
+ "yv": 1269,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

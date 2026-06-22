@@ -340,5 +340,45 @@
    "vref": "Juan 19:30 · Romanos 5:8",
    "vtext": "Take cunaw phokhasjje… cunapachatejj jiwasanacajj juchanïscäyätan ucapachaw Cristojj jiwasanac laycu jiwawayi."
   }
- ]
+ ],
+ "books": {
+  "Génesis": "GEN",
+  "Éxodo": "EXO",
+  "Levítico": "LEV",
+  "Deuteronomio": "DEU",
+  "Josué": "JOS",
+  "Jueces": "JDG",
+  "Rut": "RUT",
+  "Nehemías": "NEH",
+  "Salmos": "PSA",
+  "Isaías": "ISA",
+  "Jeremías": "JER",
+  "Ezequiel": "EZK",
+  "Malaquías": "MAL",
+  "Mateo": "MAT",
+  "Marcos": "MRK",
+  "Lucas": "LUK",
+  "Juan": "JHN",
+  "Hechos": "ACT",
+  "Romanos": "ROM",
+  "Gálatas": "GAL",
+  "Efesios": "EPH",
+  "Colosenses": "COL",
+  "Hebreos": "HEB",
+  "Apocalipsis": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Reyes": "1KI",
+  "2 Reyes": "2KI",
+  "1 Corintios": "1CO",
+  "2 Corintios": "2CO",
+  "1 Timoteo": "1TI",
+  "2 Timoteo": "2TI"
+ },
+ "yv": 2251,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

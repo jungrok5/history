@@ -24,10 +24,11 @@ Protestant church; Korean Revised Version (개역개정) as the Korean baseline.
 
 ## File structure
 - `index.html` — single-file app (HTML/CSS/vanilla JS). **ko & en content is inline**
-  (KO_PACK/EN_PACK; EPOCHS/CORE/MIS/LOVE arrays), plus render functions, `LANGS`, the verse-link
-  data (`BOOKS`/`BOOKOPT`/`YV`), NAV_MAP, and GA4.
+  (KO_PACK/EN_PACK; EPOCHS/CORE/MIS/LOVE arrays), plus render functions, `LANGS`, **only ko/en**
+  verse-link data (`BOOKS`/`BOOKOPT`/`YV` — every other language's lives in its i18n pack), NAV_MAP, and GA4.
 - `i18n/<code>.json` — **every other language pack**, loaded at runtime via `fetch`. Keys:
-  menuName, share, ui, labels, s.{…}, epochs[13], love[13], mis[13] (index **8 & 12 = null**), core[7].
+  menuName, share, ui, labels, s.{…}, epochs[13], love[13], mis[13] (index **8 & 12 = null**), core[7],
+  **plus its own verse-link data `books`/`yv`/`bookopt`** (doApply registers them into `BOOKS`/`YV`/`BOOKOPT` on language-switch).
 - `i18n/en.json` — English template for contributors (kept in sync from EN_PACK by build-pages; **committed**).
 - `tools/build-pages.mjs` — static page generator (uses index.html as the template). For each
   non-ko language it **prerenders the localized body** (so search/AI crawlers see real text without
@@ -40,8 +41,9 @@ Protestant church; Korean Revised Version (개역개정) as the Korean baseline.
   `og.png` (a **single shared OG image** for all languages), `icon-192/512.png`, `qr-<code>.png`.
   Every page's `og:image` points to the shared `/og.png`; `og:title`/`og:description` stay per-language.
 - PWA: `manifest.webmanifest` + `sw.js` (navigate = network-first, assets = cache-first, same-origin only).
-- Share: global + per-scene adaptive UI (mobile native + copy/image/QR; desktop social + copy/image/QR),
-  canvas verse-image, QR modal (loads `qr-<code>.png` **lazily**, only when opened), deep links `#s1`–`#s13`.
+- Share: global + per-scene adaptive UI (mobile native + copy/QR; desktop social + copy/QR),
+  QR modal (loads `qr-<code>.png` **lazily**, only when opened), deep links `#s1`–`#s13`.
+  (The canvas verse-image option was removed — canvas fonts can't render most non-Latin scripts.)
 - GA4 events: language_select · share{method} · scene_view · section_view · prayer_view · read_more.
 - `vercel.json` (`buildCommand = node tools/build-pages.mjs` + security/cache headers), `robots.txt`.
   **`.vercelignore` keeps `CLAUDE.md` and `.claude` out of the deploy.**
@@ -50,8 +52,9 @@ Protestant church; Korean Revised Version (개역개정) as the Korean baseline.
   fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review-prompt.
 
 ## Single source of truth — do NOT track per-language state in this file
-The language list, codes, and YouVersion version IDs live in **`index.html`** (`LANGS`, `BOOKS`, `YV`)
-and `tools/build-pages.mjs` (`LANGS`). **Derive them from code; never keep a duplicate list here** —
+The language list/codes live in **`index.html`** (`LANGS`) + `tools/build-pages.mjs` (`LANGS`); each
+language's **verse-link data (`books`/`yv`/`bookopt`) lives in its `i18n/<code>.json` pack** (only ko/en
+inline in index.html, as `BOOKS`/`YV`/`BOOKOPT`). **Derive them from code; never keep a duplicate list here** —
 duplicating it is what caused a merge conflict on every language PR.
 - **When adding/changing a language, do NOT edit CLAUDE.md.** New cross-cutting gotchas go in
   `SKILL.md` (maintainer-owned, rarely touched), not here.
@@ -104,7 +107,8 @@ advisory (they hit the network). Full procedure for a new language: see `SKILL.m
   LXX/Slavonic Psalms (exile = Ps 136, MT 137) for ru/uz/uk/tg/kk/ka/tk/tt — write each `cite` in the
   translation's own numbering (YouVersion does not remap). Per-language details are in SKILL.md's gotcha digest.
 - Verse links: `verseUrl(usfm,code)` → ko → bskorea (개역개정); all others → YouVersion
-  (`bible.com/bible/<YV>/<USFM>`). `linkifyRefs` is a tag-safe parser over `BOOKS[code]`/`BOOKOPT[code]`;
+  (`bible.com/bible/<YV>/<USFM>`). `linkifyRefs` is a tag-safe parser over `BOOKS[code]`/`BOOKOPT[code]`
+  (registered at language-switch from the pack's `books`/`bookopt`; only ko/en inline);
   `bookopt.bare` (colon-less chapter refs) is enabled only where book names don't collide with common words.
 - Native-script prose can't be guaranteed by the model — use `lib/native-review-prompt.md` to run a
   per-language reviewer agent (it **reports only**; the main session applies real fixes after re-fetching verses).

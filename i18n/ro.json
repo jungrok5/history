@@ -340,5 +340,46 @@
    "vref": "Ioan 19:30 · Romani 5:8",
    "vtext": "S-a isprăvit… pe când eram noi încă păcătoși, Hristos a murit pentru noi."
   }
- ]
+ ],
+ "books": {
+  "Geneza": "GEN",
+  "Exodul": "EXO",
+  "Leviticul": "LEV",
+  "Deuteronomul": "DEU",
+  "Iosua": "JOS",
+  "Judecătorii": "JDG",
+  "Rut": "RUT",
+  "Neemia": "NEH",
+  "Psalmul": "PSA",
+  "Isaia": "ISA",
+  "Ieremia": "JER",
+  "Ezechiel": "EZK",
+  "Maleahi": "MAL",
+  "Matei": "MAT",
+  "Marcu": "MRK",
+  "Luca": "LUK",
+  "Ioan": "JHN",
+  "Faptele Apostolilor": "ACT",
+  "Romani": "ROM",
+  "Galateni": "GAL",
+  "Efeseni": "EPH",
+  "Filipeni": "PHP",
+  "Coloseni": "COL",
+  "Evrei": "HEB",
+  "Apocalipsa": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Împăraţilor": "1KI",
+  "2 Împăraţilor": "2KI",
+  "1 Corinteni": "1CO",
+  "2 Corinteni": "2CO",
+  "1 Timotei": "1TI",
+  "2 Timotei": "2TI"
+ },
+ "yv": 191,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

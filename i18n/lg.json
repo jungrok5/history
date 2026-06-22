@@ -340,5 +340,49 @@
    "vref": "Yokaana 19:30 · Abaruumi 5:8",
    "vtext": "Kiwedde… bwe twali nga tukyalina ebibi Kristo n'atufiirira."
   }
- ]
+ ],
+ "books": {
+  "Olubereberye": "GEN",
+  "Okuva": "EXO",
+  "EByabaleevi": "LEV",
+  "Okubala": "NUM",
+  "Ekyamateeka": "DEU",
+  "Yoswa": "JOS",
+  "Abalamuzi": "JDG",
+  "Luusi": "RUT",
+  "Nekkemiya": "NEH",
+  "Zabbuli": "PSA",
+  "Engero": "PRO",
+  "Isaaya": "ISA",
+  "Yeremiya": "JER",
+  "Ezeekyeri": "EZK",
+  "Danyeri": "DAN",
+  "Malaki": "MAL",
+  "Matayo": "MAT",
+  "Makko": "MRK",
+  "Lukka": "LUK",
+  "Yokaana": "JHN",
+  "Ebikolwa": "ACT",
+  "Abaruumi": "ROM",
+  "Abaggalatiya": "GAL",
+  "Abaefeso": "EPH",
+  "Abafiripi": "PHP",
+  "Abakkolosaayi": "COL",
+  "Abaebbulaniya": "HEB",
+  "Okubikkulirwa": "REV",
+  "1 Samwiri": "1SA",
+  "2 Samwiri": "2SA",
+  "1 Bassekabaka": "1KI",
+  "2 Bassekabaka": "2KI",
+  "1 Abakkolinso": "1CO",
+  "2 Abakkolinso": "2CO",
+  "1 Timoseewo": "1TI",
+  "2 Timoseewo": "2TI"
+ },
+ "yv": 1829,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

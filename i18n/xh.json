@@ -340,5 +340,49 @@
    "vref": "Yohane 19:30 · Roma 5:8",
    "vtext": "Kugqityiwe … uKrestu asifele sisengaboni!"
   }
- ]
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Eksodus": "EXO",
+  "Levitikus": "LEV",
+  "Numeri": "NUM",
+  "Duteronomi": "DEU",
+  "Yoshuwa": "JOS",
+  "AbaGwebi": "JDG",
+  "Rute": "RUT",
+  "Nehemiya": "NEH",
+  "INdumiso": "PSA",
+  "IMizekeliso": "PRO",
+  "Isaya": "ISA",
+  "Yeremiya": "JER",
+  "Hezekile": "EZK",
+  "Daniyeli": "DAN",
+  "Malaki": "MAL",
+  "Mateyu": "MAT",
+  "Marko": "MRK",
+  "Luka": "LUK",
+  "Yohane": "JHN",
+  "IZenzo": "ACT",
+  "Roma": "ROM",
+  "Galati": "GAL",
+  "Efese": "EPH",
+  "Filipi": "PHP",
+  "Kolose": "COL",
+  "Hebhere": "HEB",
+  "ISityhilelo": "REV",
+  "1 Samuweli": "1SA",
+  "2 Samuweli": "2SA",
+  "1 Kumkani": "1KI",
+  "2 Kumkani": "2KI",
+  "1 Korinte": "1CO",
+  "2 Korinte": "2CO",
+  "1 Timoti": "1TI",
+  "2 Timoti": "2TI"
+ },
+ "yv": 282,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

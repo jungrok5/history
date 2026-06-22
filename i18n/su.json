@@ -340,5 +340,51 @@
    "vref": "Yahya 19:30 · Rum 5:8",
    "vtext": "Geus tutas!… Kristus pupus ngaganti urang sajeroning urang keur hirup keneh dina dosa."
   }
- ]
+ ],
+ "books": {
+  "Kajadian": "GEN",
+  "Budalan": "EXO",
+  "Imamat": "LEV",
+  "Bilangan": "NUM",
+  "Pamindo": "DEU",
+  "Yosua": "JOS",
+  "Hakim-hakim": "JDG",
+  "Rut": "RUT",
+  "Nehemia": "NEH",
+  "Ester": "EST",
+  "Jabur": "PSA",
+  "Siloka": "PRO",
+  "Yesaya": "ISA",
+  "Yermia": "JER",
+  "Lagu Pangadua": "LAM",
+  "Yeheskiel": "EZK",
+  "Daniel": "DAN",
+  "Maléakhi": "MAL",
+  "Mateus": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Yahya": "JHN",
+  "Rasul": "ACT",
+  "Rum": "ROM",
+  "Galata": "GAL",
+  "Epesus": "EPH",
+  "Pilipi": "PHP",
+  "Kolosa": "COL",
+  "Ibrani": "HEB",
+  "Wahyu": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Raja-raja": "1KI",
+  "2 Raja-raja": "2KI",
+  "1 Korinta": "1CO",
+  "2 Korinta": "2CO",
+  "1 Timoteus": "1TI",
+  "2 Timoteus": "2TI"
+ },
+ "yv": 2410,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

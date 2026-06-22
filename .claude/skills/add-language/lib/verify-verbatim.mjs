@@ -26,11 +26,13 @@ const s = lines.findIndex(l => l.startsWith('var YV='));
 const e = lines.findIndex((l, i) => i > s && l.trim() === 'return out; }');
 if (s < 0 || e < 0) { console.error('링크 인프라 슬라이스 실패(var YV= ~ linkifyRefs)'); process.exit(2); }
 new Function('var document={addEventListener(){}};var gevent=function(){};\n'
-  + lines.slice(s, e + 1).join('\n') + '\n;globalThis.__T={BOOKS,YV,linkifyRefs};')();
-const { BOOKS, YV, linkifyRefs } = globalThis.__T;
-if (!BOOKS[code]) { console.error('BOOKS.' + code + ' 없음 — integrate 먼저 실행'); process.exit(1); }
-const yv = YV[code];
+  + lines.slice(s, e + 1).join('\n') + '\n;globalThis.__T={BOOKS,BOOKOPT,YV,linkifyRefs};')();
+const { BOOKS, BOOKOPT, YV, linkifyRefs } = globalThis.__T;
 const pack = JSON.parse(fs.readFileSync(path.join(root, `i18n/${code}.json`), 'utf8'));
+// 구절-링크 데이터는 팩에 동봉됨(ko/en 만 index.html 인라인) — 런타임 doApply 와 동일하게 등록
+if (code !== 'ko' && code !== 'en' && pack.books) { BOOKS[code] = pack.books; if (pack.yv != null) YV[code] = pack.yv; if (pack.bookopt) BOOKOPT[code] = pack.bookopt; }
+if (!BOOKS[code]) { console.error('BOOKS.' + code + ' 없음 — 팩에 books 필드 없음(integrate 먼저)'); process.exit(1); }
+const yv = YV[code];
 
 const cache = {};
 const fetchV = (ref) => {

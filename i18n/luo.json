@@ -340,5 +340,49 @@
    "vref": "Johana 19:30 · Jo-Rumi 5:8",
    "vtext": "Tija duto koro orumo!… Kristo nothonwa kane pod wan joricho."
   }
- ]
+ ],
+ "books": {
+  "Chakruok": "GEN",
+  "Wuok": "EXO",
+  "Tim jo-Lawi": "LEV",
+  "Kwan": "NUM",
+  "Rapar mar Chik": "DEU",
+  "Joshua": "JOS",
+  "Jong’ad Bura": "JDG",
+  "Ruth": "RUT",
+  "Nehemia": "NEH",
+  "Zaburi": "PSA",
+  "Ngeche": "PRO",
+  "Isaya": "ISA",
+  "Jeremia": "JER",
+  "Ezekiel": "EZK",
+  "Daniel": "DAN",
+  "Malaki": "MAL",
+  "Mathayo": "MAT",
+  "Mariko": "MRK",
+  "Luka": "LUK",
+  "Johana": "JHN",
+  "Tich Joote": "ACT",
+  "Jo-Rumi": "ROM",
+  "Jo-Galatia": "GAL",
+  "Jo-Efeso": "EPH",
+  "Jo-Filipi": "PHP",
+  "Jo-Kolosai": "COL",
+  "Jo-Hibrania": "HEB",
+  "Fweny": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Ruodhi": "1KI",
+  "2 Ruodhi": "2KI",
+  "1 Jo-Korintho": "1CO",
+  "2 Jo-Korintho": "2CO",
+  "1 Timotheo": "1TI",
+  "2 Timotheo": "2TI"
+ },
+ "yv": 1810,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

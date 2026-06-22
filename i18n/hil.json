@@ -340,5 +340,49 @@
    "vref": "Juan 19:30 · Roma 5:8",
    "vtext": "Himpit na… ang Dios nagapakilala sang iya kaugalingon nga gugma sa aton nga sang mga makasasala pa kita si Cristo napatay tungud sa aton."
   }
- ]
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodo": "EXO",
+  "Levitico": "LEV",
+  "Numeros": "NUM",
+  "Deuteronomio": "DEU",
+  "Josue": "JOS",
+  "Mga Hukom": "JDG",
+  "Ruth": "RUT",
+  "Nehemias": "NEH",
+  "Salmo": "PSA",
+  "Hulubaton": "PRO",
+  "Isaias": "ISA",
+  "Jeremias": "JER",
+  "Ezequiel": "EZK",
+  "Daniel": "DAN",
+  "Malaquias": "MAL",
+  "Mateo": "MAT",
+  "Marcos": "MRK",
+  "Lucas": "LUK",
+  "Juan": "JHN",
+  "Mga Binuhatan": "ACT",
+  "Roma": "ROM",
+  "Galacia": "GAL",
+  "Efeso": "EPH",
+  "Filipos": "PHP",
+  "Colosas": "COL",
+  "Hebreo": "HEB",
+  "Bugna": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Mga Hari": "1KI",
+  "2 Mga Hari": "2KI",
+  "1 Corinto": "1CO",
+  "2 Corinto": "2CO",
+  "1 Timoteo": "1TI",
+  "2 Timoteo": "2TI"
+ },
+ "yv": 2191,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

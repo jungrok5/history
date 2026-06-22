@@ -340,5 +340,45 @@
    "vref": "Gjoni 19:30 · Romakëve 5:8",
    "vtext": "U krye!… Kur ishim ende mëkatarë, Krishti vdiq për ne."
   }
- ]
+ ],
+ "books": {
+  "Zanafilla": "GEN",
+  "Eksodi": "EXO",
+  "Levitiku": "LEV",
+  "Ligji i përtërirë": "DEU",
+  "Jozueu": "JOS",
+  "Gjyqtarët": "JDG",
+  "Ruta": "RUT",
+  "Nehemia": "NEH",
+  "Psalmet": "PSA",
+  "Isaia": "ISA",
+  "Jeremia": "JER",
+  "Ezekieli": "EZK",
+  "Malakia": "MAL",
+  "Mateu": "MAT",
+  "Marku": "MRK",
+  "Luka": "LUK",
+  "Gjoni": "JHN",
+  "Veprat": "ACT",
+  "Romakëve": "ROM",
+  "Galatasve": "GAL",
+  "Efesianëve": "EPH",
+  "Kolosianëve": "COL",
+  "Hebrenjve": "HEB",
+  "Zbulesa": "REV",
+  "1 Samuelit": "1SA",
+  "2 Samuelit": "2SA",
+  "1 Mbretërve": "1KI",
+  "2 Mbretërve": "2KI",
+  "1 Korintasve": "1CO",
+  "2 Korintasve": "2CO",
+  "1 Timoteut": "1TI",
+  "2 Timoteut": "2TI"
+ },
+ "yv": 3631,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

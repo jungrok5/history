@@ -340,5 +340,45 @@
    "vref": "Joni 19:30 · Roma 5:8",
    "vtext": "Sa oti!… ka ni da se bula voli ga ena i valavala ca, a sa mai mate oti na Karisito ena vukuda!"
   }
- ]
+ ],
+ "books": {
+  "Vakatekivu": "GEN",
+  "Lako Yani": "EXO",
+  "Vunau ni Soro": "LEV",
+  "Vakarua ni Vunau": "DEU",
+  "Josua": "JOS",
+  "Dauveilewai": "JDG",
+  "Ruci": "RUT",
+  "Niemaia": "NEH",
+  "Same": "PSA",
+  "Aisea": "ISA",
+  "Jeremaia": "JER",
+  "Isikeli": "EZK",
+  "Malakai": "MAL",
+  "Maciu": "MAT",
+  "Marika": "MRK",
+  "Luke": "LUK",
+  "Joni": "JHN",
+  "Cakacaka": "ACT",
+  "Roma": "ROM",
+  "Kalatia": "GAL",
+  "Efeso": "EPH",
+  "Kolosa": "COL",
+  "Iperiu": "HEB",
+  "Vakatakila": "REV",
+  "1 Samuela": "1SA",
+  "2 Samuela": "2SA",
+  "1 Tui": "1KI",
+  "2 Tui": "2KI",
+  "1 Korinica": "1CO",
+  "2 Korinica": "2CO",
+  "1 Timoci": "1TI",
+  "2 Timoci": "2TI"
+ },
+ "yv": 676,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

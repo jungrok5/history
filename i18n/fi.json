@@ -340,5 +340,52 @@
    "vref": "Evankeliumi Johanneksen mukaan 19:30 · Kirje roomalaisille 5:8",
    "vtext": "Se on täytetty… Jumala osoittaa rakkautensa meitä kohtaan siinä, että Kristus kuoli meidän puolestamme, kun vielä olimme syntisiä."
   }
- ]
+ ],
+ "books": {
+  "Ensimmäinen Mooseksen kirja": "GEN",
+  "Toinen Mooseksen kirja": "EXO",
+  "Viides Mooseksen kirja": "DEU",
+  "1. Moos.": "GEN",
+  "3. Moos.": "LEV",
+  "5. Moos.": "DEU",
+  "Tuomarien kirja": "JDG",
+  "Ruut": "RUT",
+  "Toinen Samuelin kirja": "2SA",
+  "Ensimmäinen kuninkaiden kirja": "1KI",
+  "Psalmit": "PSA",
+  "Nehemian kirja": "NEH",
+  "Jesajan kirja": "ISA",
+  "Jeremian kirja": "JER",
+  "Hesekielin kirja": "EZK",
+  "Evankeliumi Matteuksen mukaan": "MAT",
+  "Evankeliumi Markuksen mukaan": "MRK",
+  "Evankeliumi Luukkaan mukaan": "LUK",
+  "Evankeliumi Johanneksen mukaan": "JHN",
+  "Apostolien teot": "ACT",
+  "Johanneksen ilmestys": "REV",
+  "Kirje roomalaisille": "ROM",
+  "Ensimmäinen kirje korinttilaisille": "1CO",
+  "Kirje galatalaisille": "GAL",
+  "Kirje efesolaisille": "EPH",
+  "Kirje kolossalaisille": "COL",
+  "Ensimmäinen kirje Timoteukselle": "1TI",
+  "1. Kor.": "1CO",
+  "Ap. t.": "ACT",
+  "Hepr.": "HEB",
+  "Ilm.": "REV",
+  "Jer.": "JER",
+  "Jes.": "ISA",
+  "Joh.": "JHN",
+  "Joos.": "JOS",
+  "Kol.": "COL",
+  "Luuk.": "LUK",
+  "Mal.": "MAL",
+  "Matt.": "MAT"
+ },
+ "yv": 330,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

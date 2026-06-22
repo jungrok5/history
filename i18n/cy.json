@@ -340,5 +340,45 @@
    "vref": "Ioan 19:30 · Rhufeiniaid 5:8",
    "vtext": "Gorffennwyd… Crist wedi marw drosom pan oeddem yn dal yn bechaduriaid."
   }
- ]
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodus": "EXO",
+  "Lefiticus": "LEV",
+  "Deuteronomium": "DEU",
+  "Josua": "JOS",
+  "Barnwyr": "JDG",
+  "Ruth": "RUT",
+  "Nehemeia": "NEH",
+  "Y Salmau": "PSA",
+  "Eseia": "ISA",
+  "Jeremeia": "JER",
+  "Eseciel": "EZK",
+  "Malachi": "MAL",
+  "Mathew": "MAT",
+  "Marc": "MRK",
+  "Luc": "LUK",
+  "Ioan": "JHN",
+  "Actau": "ACT",
+  "Rhufeiniaid": "ROM",
+  "Galatiaid": "GAL",
+  "Effesiaid": "EPH",
+  "Colosiaid": "COL",
+  "Hebreaid": "HEB",
+  "Datguddiad": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Brenhinoedd": "1KI",
+  "2 Brenhinoedd": "2KI",
+  "1 Corinthiaid": "1CO",
+  "2 Corinthiaid": "2CO",
+  "1 Timotheus": "1TI",
+  "2 Timotheus": "2TI"
+ },
+ "yv": 394,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

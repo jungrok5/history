@@ -340,5 +340,51 @@
    "vref": "Yəhya 19:30 · Romalılara 5:8",
    "vtext": "«tamam oldu»… biz hələ günahkar ola-ola Məsih bizim uğrumuzda öldü"
   }
- ]
+ ],
+ "books": {
+  "Yaradılış": "GEN",
+  "Çıxış": "EXO",
+  "Levililər": "LEV",
+  "Saylar": "NUM",
+  "Qanunun təkrarı": "DEU",
+  "Yeşua": "JOS",
+  "Hakimlər": "JDG",
+  "Rut": "RUT",
+  "Nehemya": "NEH",
+  "Ester": "EST",
+  "Məzmur": "PSA",
+  "Süleymanın məsəlləri": "PRO",
+  "Yeşaya": "ISA",
+  "Yeremya": "JER",
+  "Yezekel": "EZK",
+  "Daniel": "DAN",
+  "Malaki": "MAL",
+  "Matta": "MAT",
+  "Mark": "MRK",
+  "Luka": "LUK",
+  "Yəhya": "JHN",
+  "Həvarilərin İşləri": "ACT",
+  "İşləri": "ACT",
+  "Romalılara": "ROM",
+  "Qalatiyalılara": "GAL",
+  "Efeslilərə": "EPH",
+  "Filipililərə": "PHP",
+  "Koloslulara": "COL",
+  "İbranilərə": "HEB",
+  "Vəhy": "REV",
+  "1 Şamuel": "1SA",
+  "2 Şamuel": "2SA",
+  "1 Padşahlar": "1KI",
+  "2 Padşahlar": "2KI",
+  "1 Korinflilərə": "1CO",
+  "2 Korinflilərə": "2CO",
+  "1 Timoteyə": "1TI",
+  "2 Timoteyə": "2TI"
+ },
+ "yv": 2324,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

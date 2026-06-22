@@ -340,5 +340,45 @@
    "vref": "Jan 19:30 · Římanům 5:8",
    "vtext": "Dokonáno jest… Kristus za nás zemřel, když jsme ještě byli hříšní."
   }
- ]
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodus": "EXO",
+  "Leviticus": "LEV",
+  "Deuteronomium": "DEU",
+  "Jozue": "JOS",
+  "Soudců": "JDG",
+  "Rút": "RUT",
+  "Žalmy": "PSA",
+  "Nehemiáš": "NEH",
+  "Izaiáš": "ISA",
+  "Jeremiáš": "JER",
+  "Ezechiel": "EZK",
+  "Malachiáš": "MAL",
+  "Matouš": "MAT",
+  "Marek": "MRK",
+  "Lukáš": "LUK",
+  "Jan": "JHN",
+  "Skutky": "ACT",
+  "Římanům": "ROM",
+  "Galatským": "GAL",
+  "Efeským": "EPH",
+  "Koloským": "COL",
+  "Židům": "HEB",
+  "Zjevení": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Královská": "1KI",
+  "2 Královská": "2KI",
+  "1 Korintským": "1CO",
+  "2 Korintským": "2CO",
+  "1 Timoteus": "1TI",
+  "2 Timoteus": "2TI"
+ },
+ "yv": 509,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

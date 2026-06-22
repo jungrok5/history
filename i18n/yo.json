@@ -340,5 +340,51 @@
    "vref": "Johannu 19:30 · Romu 5:8",
    "vtext": "O pari… nigbati awa jẹ ẹlẹṣẹ, Kristi kú fun wa."
   }
- ]
+ ],
+ "books": {
+  "Genesisi": "GEN",
+  "Eksodu": "EXO",
+  "Lefitiku": "LEV",
+  "Numeri": "NUM",
+  "Deuteronomi": "DEU",
+  "Joṣua": "JOS",
+  "Onidajọ": "JDG",
+  "Rutu": "RUT",
+  "Nehemiah": "NEH",
+  "Esteri": "EST",
+  "Saamu": "PSA",
+  "Owe": "PRO",
+  "Isaiah": "ISA",
+  "Jeremiah": "JER",
+  "Ẹkun": "LAM",
+  "Esekieli": "EZK",
+  "Danieli": "DAN",
+  "Malaki": "MAL",
+  "Matteu": "MAT",
+  "Marku": "MRK",
+  "Luku": "LUK",
+  "Johannu": "JHN",
+  "Iṣe": "ACT",
+  "Romu": "ROM",
+  "Galatia": "GAL",
+  "Efesu": "EPH",
+  "Filippi": "PHP",
+  "Kolosse": "COL",
+  "Heberu": "HEB",
+  "Ìfihàn": "REV",
+  "1 Samueli": "1SA",
+  "2 Samueli": "2SA",
+  "1 Ọba": "1KI",
+  "2 Ọba": "2KI",
+  "1 Korinti": "1CO",
+  "2 Korinti": "2CO",
+  "1 Timoteu": "1TI",
+  "2 Timoteu": "2TI"
+ },
+ "yv": 2754,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

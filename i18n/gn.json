@@ -340,5 +340,45 @@
    "vref": "Juan 19:30 · Romayguakuérape 5:8",
    "vtext": "Oikopáma… Ñanderuete katu ohechaukáma imborayhu ñandéve, Hesu Crísto omanóvo ñanderehehápe, ñande jaiko ramojepe angaipa (Aña) poguýpe."
   }
- ]
+ ],
+ "books": {
+  "Génesis": "GEN",
+  "Éxodo": "EXO",
+  "Levítico": "LEV",
+  "Deuteronómio": "DEU",
+  "Josué": "JOS",
+  "Juéces": "JDG",
+  "Rut": "RUT",
+  "Nehemías": "NEH",
+  "Salmokuéra": "PSA",
+  "Isaías": "ISA",
+  "Jeremías": "JER",
+  "Ezequiel": "EZK",
+  "Malaquías": "MAL",
+  "Matéo": "MAT",
+  "Márcos": "MRK",
+  "Lúcas": "LUK",
+  "Juan": "JHN",
+  "Apostolkuéra": "ACT",
+  "Romayguakuérape": "ROM",
+  "Galaciayguakuérape": "GAL",
+  "Efesoyguakuérape": "EPH",
+  "Colosayguakuérape": "COL",
+  "Hebreoyguakuérape": "HEB",
+  "Apocalípsis": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Réyes": "1KI",
+  "2 Réyes": "2KI",
+  "1 Corintoyguakuérape": "1CO",
+  "2 Corintoyguakuérape": "2CO",
+  "1 Timotéope": "1TI",
+  "2 Timotéope": "2TI"
+ },
+ "yv": 3146,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

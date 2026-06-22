@@ -340,5 +340,45 @@
    "vref": "Juan 19:30 · Mga Taga-Roma 5:8",
    "vtext": "Natuman na… dida han magpakasasala pa kita, nagpakamatay hi Cristo para ha aton."
   }
- ]
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodo": "EXO",
+  "Levitico": "LEV",
+  "Deuteronomio": "DEU",
+  "Josue": "JOS",
+  "Mga Maghurukom": "JDG",
+  "Ruth": "RUT",
+  "Nehemias": "NEH",
+  "Mga Salmo": "PSA",
+  "Isaias": "ISA",
+  "Jeremias": "JER",
+  "Ezequiel": "EZK",
+  "Malaquias": "MAL",
+  "Mateo": "MAT",
+  "Marcos": "MRK",
+  "Lucas": "LUK",
+  "Juan": "JHN",
+  "Mga Buhat": "ACT",
+  "Mga Taga-Roma": "ROM",
+  "Mga Taga-Galacia": "GAL",
+  "Mga Taga-Efeso": "EPH",
+  "Mga Taga-Colosas": "COL",
+  "Hebreo": "HEB",
+  "Ginpadayag": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Hadi": "1KI",
+  "2 Hadi": "2KI",
+  "1 Mga Taga-Corinto": "1CO",
+  "2 Mga Taga-Corinto": "2CO",
+  "1 Timoteo": "1TI",
+  "2 Timoteo": "2TI"
+ },
+ "yv": 2198,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

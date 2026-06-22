@@ -340,5 +340,45 @@
    "vref": "Juan 19:30 · Roma 5:8",
    "vtext": "Meyari na… mete ya i Cristo para kekatamu kanitang makasalanan tamu pa!"
   }
- ]
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodo": "EXO",
+  "Levitico": "LEV",
+  "Deuteronomio": "DEU",
+  "Josue": "JOS",
+  "Ukum": "JDG",
+  "Rut": "RUT",
+  "Nehemias": "NEH",
+  "Ding Dalit": "PSA",
+  "Isaias": "ISA",
+  "Jeremias": "JER",
+  "Ezekiel": "EZK",
+  "Malaquias": "MAL",
+  "Mateo": "MAT",
+  "Marcos": "MRK",
+  "Lucas": "LUK",
+  "Juan": "JHN",
+  "Ding Dapat": "ACT",
+  "Roma": "ROM",
+  "Galacia": "GAL",
+  "Efeso": "EPH",
+  "Colosas": "COL",
+  "Hebreo": "HEB",
+  "Apocalipsis": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Ari": "1KI",
+  "2 Ari": "2KI",
+  "1 Corinto": "1CO",
+  "2 Corinto": "2CO",
+  "1 Timoteo": "1TI",
+  "2 Timoteo": "2TI"
+ },
+ "yv": 1141,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

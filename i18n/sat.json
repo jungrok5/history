@@ -340,5 +340,45 @@
    "vref": "Johan 19:30 · Romiko lạgitʼ Pạul Apostolakʼ ciṭhi 5:8",
    "vtext": "Purạu akana… kại hoṛ bon tahẽkanrege Mạsi do abo lạgitʼ jiwiye emkeda."
   }
- ]
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodus": "EXO",
+  "Levitikus": "LEV",
+  "Dosar Biboron": "DEU",
+  "Josuạ": "JOS",
+  "Bikʼcạrko": "JDG",
+  "Rut": "RUT",
+  "Nehemiạ": "NEH",
+  "Sereńko": "PSA",
+  "Jesaea": "ISA",
+  "Jirimiạ": "JER",
+  "Jeheskel": "EZK",
+  "Malaki": "MAL",
+  "Mathae": "MAT",
+  "Mark": "MRK",
+  "Luk": "LUK",
+  "Johan": "JHN",
+  "Aposkạmi": "ACT",
+  "Romiko lạgitʼ Pạul Apostolakʼ ciṭhi": "ROM",
+  "Galathiko lạgitʼ Pạul Apostolakʼ ciṭhi": "GAL",
+  "Ephesiko lạgitʼ Pạul Apostolakʼ ciṭhi": "EPH",
+  "Kolossiko lạgitʼ Pạul Apostolakʼ ciṭhi": "COL",
+  "Ibriko": "HEB",
+  "Johan sodor": "REV",
+  "1Timothi": "1TI",
+  "2Timothi": "2TI",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Rapajko": "1KI",
+  "2 Rapajko": "2KI",
+  "1 Korinthiko": "1CO",
+  "2 Korinthiko": "2CO"
+ },
+ "yv": 3292,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

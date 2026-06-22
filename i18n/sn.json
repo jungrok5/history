@@ -340,5 +340,49 @@
    "vref": "Johani 19:30 · VaRoma 5:8",
    "vtext": "Zvapera… Kristu akatifira, tichiri vatadzi."
   }
- ]
+ ],
+ "books": {
+  "Genesi": "GEN",
+  "Eksodho": "EXO",
+  "Revhitiko": "LEV",
+  "Numeri": "NUM",
+  "Dheuteronomio": "DEU",
+  "Joshua": "JOS",
+  "Vatongi": "JDG",
+  "Rute": "RUT",
+  "Nehemia": "NEH",
+  "Pisarema": "PSA",
+  "Zvirevo": "PRO",
+  "Isaya": "ISA",
+  "Jeremia": "JER",
+  "Ezekieri": "EZK",
+  "Dhanyeri": "DAN",
+  "Maraki": "MAL",
+  "Mateo": "MAT",
+  "Mako": "MRK",
+  "Ruka": "LUK",
+  "Johani": "JHN",
+  "Mabasa": "ACT",
+  "VaRoma": "ROM",
+  "VaGaratiya": "GAL",
+  "VaEfeso": "EPH",
+  "VaFiripi": "PHP",
+  "VaKorose": "COL",
+  "VaHebheru": "HEB",
+  "Zvakazarurwa": "REV",
+  "1 Samueri": "1SA",
+  "2 Samueri": "2SA",
+  "1 Madzimambo": "1KI",
+  "2 Madzimambo": "2KI",
+  "1 VaKorinte": "1CO",
+  "2 VaKorinte": "2CO",
+  "1 Timoti": "1TI",
+  "2 Timoti": "2TI"
+ },
+ "yv": 1960,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

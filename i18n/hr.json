@@ -340,5 +340,45 @@
    "vref": "Ivan 19:30 · Rimljanima 5:8",
    "vtext": "Svršeno je!… Bog je pokazao svoju ljubav prema nama tako što je Krist umro za nas dok smo još bili grešnici."
   }
- ]
+ ],
+ "books": {
+  "Postanak": "GEN",
+  "Izlazak": "EXO",
+  "Levitski zakonik": "LEV",
+  "Ponovljeni zakon": "DEU",
+  "Jošua": "JOS",
+  "Suci": "JDG",
+  "Ruta": "RUT",
+  "Nehemija": "NEH",
+  "Psalmi": "PSA",
+  "Izaija": "ISA",
+  "Jeremija": "JER",
+  "Ezekiel": "EZK",
+  "Malahija": "MAL",
+  "Matej": "MAT",
+  "Marko": "MRK",
+  "Luka": "LUK",
+  "Ivan": "JHN",
+  "Djela": "ACT",
+  "Rimljanima": "ROM",
+  "Galaćanima": "GAL",
+  "Efežanima": "EPH",
+  "Kološanima": "COL",
+  "Hebrejima": "HEB",
+  "Otkrivenje": "REV",
+  "Samuel 1": "1SA",
+  "Samuel 2": "2SA",
+  "Kraljevi 1": "1KI",
+  "Kraljevi 2": "2KI",
+  "Korinćanima 1": "1CO",
+  "Korinćanima 2": "2CO",
+  "Timoteju 1": "1TI",
+  "Timoteju 2": "2TI"
+ },
+ "yv": 2475,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

@@ -26,8 +26,8 @@ const s = lines.findIndex(l => l.startsWith('var YV='));
 const e = lines.findIndex((l, i) => i > s && l.trim() === 'return out; }');
 if (s < 0 || e < 0) { console.error('링크 인프라 슬라이스 실패'); process.exit(2); }
 new Function('var document={addEventListener(){}};var gevent=function(){};\n'
-  + lines.slice(s, e + 1).join('\n') + '\n;globalThis.__T={BOOKS,YV,linkifyRefs};')();
-const { BOOKS, YV, linkifyRefs } = globalThis.__T;
+  + lines.slice(s, e + 1).join('\n') + '\n;globalThis.__T={BOOKS,BOOKOPT,YV,linkifyRefs};')();
+const { BOOKS, BOOKOPT, YV, linkifyRefs } = globalThis.__T;
 
 // 정규화/대조 (verify-verbatim 과 동일 키)
 const ARABIC_MARKS = /[ً-ْٰٖ-ٟۖ-ۭ]/g, HEBREW_MARKS = /[֑-ׇֽֿׁׂׅׄ]/g, ALEF = /[آأإٱ]/g, ZW = /[­​-‏]/g;
@@ -56,9 +56,11 @@ function refsFromText(text, code) {
 
 // 한 언어 검사
 function checkLang(code) {
+  const pack = JSON.parse(fs.readFileSync(path.join(root, `i18n/${code}.json`), 'utf8'));
+  // 구절-링크 데이터는 팩에 동봉(ko/en 만 index.html 인라인) — 런타임 doApply 와 동일하게 등록
+  if (code !== 'ko' && code !== 'en' && pack.books) { BOOKS[code] = pack.books; if (pack.yv != null) YV[code] = pack.yv; if (pack.bookopt) BOOKOPT[code] = pack.bookopt; }
   if (!BOOKS[code]) return { code, flags: ['BOOKS 없음'] };
   const yv = YV[code];
-  const pack = JSON.parse(fs.readFileSync(path.join(root, `i18n/${code}.json`), 'utf8'));
   const cache = {};
   const fetchV = ref => cache[ref] !== undefined ? cache[ref]
     : (cache[ref] = (() => { try { return execFileSync('node', [fetcher, String(yv), ref], { encoding: 'utf8' }).split('\n').map(l => l.split('\t').slice(1).join(' ')).join(' ').trim() || '__EMPTY__'; } catch { return '__FAIL__'; } })());

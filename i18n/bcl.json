@@ -340,5 +340,45 @@
    "vref": "Juan 19:30 · Roma 5:8",
    "vtext": "Tapos na! … ipinahiling nin Dios an saiyang dakulang pagkamoot sato kan si Jesus nagadan para sato kan kita mga parakasala pa!"
   }
- ]
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodo": "EXO",
+  "Levitico": "LEV",
+  "Deuteronomio": "DEU",
+  "Josue": "JOS",
+  "Hukom": "JDG",
+  "Rut": "RUT",
+  "Nehemias": "NEH",
+  "Salmo": "PSA",
+  "Isaias": "ISA",
+  "Jeremias": "JER",
+  "Ezekiel": "EZK",
+  "Malakias": "MAL",
+  "Mateo": "MAT",
+  "Markos": "MRK",
+  "Lukas": "LUK",
+  "Juan": "JHN",
+  "Mga Gibo": "ACT",
+  "Roma": "ROM",
+  "Galacia": "GAL",
+  "Efeso": "EPH",
+  "Colosas": "COL",
+  "Hebreyo": "HEB",
+  "Kapahayagan": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Mga Hade": "1KI",
+  "2 Mga Hade": "2KI",
+  "1 Corinto": "1CO",
+  "2 Corinto": "2CO",
+  "1 Timoteo": "1TI",
+  "2 Timoteo": "2TI"
+ },
+ "yv": 890,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

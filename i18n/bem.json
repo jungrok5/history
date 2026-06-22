@@ -340,5 +340,49 @@
    "vref": "Yoani 19:30 · Roma 5:8",
    "vtext": "Nomba capwa … Lesa alilanga ifyo atutemwa pakuleka ukuti Kristu atufwile ilyo tucili ababifi!"
   }
- ]
+ ],
+ "books": {
+  "Icitendekelo": "GEN",
+  "Ukufuma": "EXO",
+  "Abena Levi": "LEV",
+  "Impendwa": "NUM",
+  "Amafunde": "DEU",
+  "Yoshua": "JOS",
+  "Abapingushi": "JDG",
+  "Ruti": "RUT",
+  "Nehemia": "NEH",
+  "Amalumbo": "PSA",
+  "Amapinda": "PRO",
+  "Esaya": "ISA",
+  "Yeremia": "JER",
+  "Esekieli": "EZK",
+  "Danieli": "DAN",
+  "Malaki": "MAL",
+  "Mateo": "MAT",
+  "Mako": "MRK",
+  "Luka": "LUK",
+  "Yoani": "JHN",
+  "Imilimo": "ACT",
+  "Roma": "ROM",
+  "Galatia": "GAL",
+  "Efeso": "EPH",
+  "Filipi": "PHP",
+  "Kolose": "COL",
+  "Bahibulu": "HEB",
+  "Ubusokololo": "REV",
+  "1 Samwele": "1SA",
+  "2 Samwele": "2SA",
+  "1 Ishamfumu": "1KI",
+  "2 Ishamfumu": "2KI",
+  "1 Kolinti": "1CO",
+  "2 Kolinti": "2CO",
+  "1 Timote": "1TI",
+  "2 Timote": "2TI"
+ },
+ "yv": 1097,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

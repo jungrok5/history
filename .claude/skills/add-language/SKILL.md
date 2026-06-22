@@ -89,12 +89,13 @@ node .claude/skills/add-language/lib/validate.mjs <code>
     real in-text form (include ZWSP in the reference regex char class) and add it to BOOKS. **Never strip
     ZWSP from verse-text — it is verbatim.**
   - **integrate is non-idempotent**: if the language is already integrated (hreflang present) it aborts →
-    edit the `BOOKS.<code>=` line in index.html directly, then re-run build-pages.
+    edit the pack's `books`/`yv`/`bookopt` fields in `i18n/<code>.json` directly, then re-run build-pages.
 ```
 node .claude/skills/add-language/lib/integrate.mjs /tmp/lang-<code>.json
 ```
-- Auto-handles: hreflang · LANGS (index) · YV · **BOOKS.<code>** (full + byte-exact content) · BOOKOPT ·
-  build-pages LANGS · (if font) FONT_TITLE/SUB + letter-spacing 0.
+- Auto-handles: **writes `books`(full+byte-exact)/`yv`/`bookopt` into `i18n/<code>.json`**; patches index.html
+  hreflang · LANGS, and build-pages LANGS · (if font) FONT_TITLE/SUB + letter-spacing 0.
+  (Per-language verse-link data lives in the **pack**, not index.html — only ko/en are inline there.)
 - "Unresolved token" warnings are usually a false positive on a preceding number ("3 Ром" etc.) — ignore.
   If a real book is missing, fix the config and re-run.
 
@@ -168,11 +169,11 @@ node .claude/skills/add-language/lib/verify-inline.mjs <code>     # inline quote
   **positive-intent slot** are a red flag.
 
 ## 7. Commit (work branch)
-- **Do NOT edit CLAUDE.md when adding a language.** The language list / codes / YV IDs are derived from
-  code (`LANGS`/`BOOKS`/`YV` in index.html); duplicating them in CLAUDE.md caused a merge conflict on every
-  PR. Only put a genuinely new cross-cutting gotcha into this SKILL.md (the gotcha digest below).
-- A language addition commits: `i18n/<code>.json`, the `index.html` edits (LANGS/BOOKS/BOOKOPT/YV),
-  `tools/build-pages.mjs` LANGS, `qr-<code>.png`, and any refreshed `i18n/en.json` / `sw.js` stamp /
+- **Do NOT edit CLAUDE.md when adding a language.** The language list/codes are in `LANGS` (index.html);
+  per-language verse data (`books`/`yv`/`bookopt`) lives in the `i18n/<code>.json` pack. Duplicating any of
+  it in CLAUDE.md caused a merge conflict on every PR. Only put a genuinely new cross-cutting gotcha into this SKILL.md.
+- A language addition commits: `i18n/<code>.json` (content **+ its `books`/`yv`/`bookopt`**), the `index.html`
+  edits (**hreflang/LANGS only**), `tools/build-pages.mjs` LANGS, `qr-<code>.png`, and any refreshed `i18n/en.json` / `sw.js` stamp /
   `og.png`. It does **not** commit `<code>/index.html`, `sitemap.xml`, or `llms.txt` (gitignored — Vercel
   regenerates them).
 - Branch `claude/bible-timeline-mobile-site-cb8u6x`. Korean commit message + footer:
@@ -259,8 +260,8 @@ by its own ref's availability, **not** a blanket OT-off:
 John 3:18 · Gal 2:16. Mark a mid-sentence skip with `…`.
 
 **Tool idempotency**: integrate is non-idempotent (aborts if already integrated) → re-edits go directly into
-index.html `BOOKS.<code>=`/LANGS, then build-pages. OG/sitemap show no git change when bytes are identical
-(normal). Editing index.html inline JS re-derives all sub-pages (normal; they're gitignored anyway).
+the pack's `books`/`yv`/`bookopt` (verse data) and index.html `LANGS`, then build-pages. OG/sitemap show no
+git change when bytes are identical (normal). Editing index.html inline JS re-derives all sub-pages (normal; gitignored anyway).
 
 ## Completion checklist (don't miss anything)
 - [ ] **Gate 0**: fetch-verse confirms a full OT → full / partial / hold·exclude
@@ -268,7 +269,7 @@ index.html `BOOKS.<code>=`/LANGS, then build-pages. OG/sitemap show no git chang
 - [ ] i18n/<code>.json: structure (13/7/13/null@8,12) · s-keys · verbatim · film-free · HTML
 - [ ] (if partial) OT cite empty · OT inline refs removed (NT refs kept) · partial.note · respond.read
 - [ ] (native digits) references converted to ASCII, verse-text untouched
-- [ ] index.html: hreflang · LANGS · YV · BOOKS.<code> · BOOKOPT
+- [ ] i18n/<code>.json: `books`/`yv`/`bookopt` written (by integrate) | index.html: hreflang · LANGS
 - [ ] build-pages: LANGS (+ FONT · letter-spacing 0 if needed)
 - [ ] qr-<code>.png · build runs clean (pages regenerated locally; en.json/sw.js refreshed)
 - [ ] validate ✓ · audit-links missed 0 · anchors OK · **verify-verbatim CLEAN** · **verify-inline flags

@@ -340,5 +340,48 @@
    "vref": "Yuhanno 19:30 · Rimliklarga 5:8",
    "vtext": "Amalga oshdi!… biz hali gunohga botgan chogʻimizda, Masih biz uchun oʻldi."
   }
- ]
+ ],
+ "books": {
+  "Ibtido": "GEN",
+  "Chiqish": "EXO",
+  "Levilar": "LEV",
+  "Qonunlar": "DEU",
+  "Yoshua": "JOS",
+  "Hakamlar": "JDG",
+  "Rut": "RUT",
+  "Naximiyo": "NEH",
+  "Zabur": "PSA",
+  "Ishayo": "ISA",
+  "Yeremiyo": "JER",
+  "Hizqiyo": "EZK",
+  "Doniyor": "DAN",
+  "Malaki": "MAL",
+  "Matto": "MAT",
+  "Mark": "MRK",
+  "Luqo": "LUK",
+  "Yuhanno": "JHN",
+  "Havoriylar": "ACT",
+  "Rimliklarga": "ROM",
+  "Galatiyaliklarga": "GAL",
+  "Efesliklarga": "EPH",
+  "Kolosaliklarga": "COL",
+  "Ibroniylarga": "HEB",
+  "Vahiy": "REV",
+  "1 Shohlar": "1SA",
+  "2 Shohlar": "2SA",
+  "3 Shohlar": "1KI",
+  "4 Shohlar": "2KI",
+  "1 Korinfliklarga": "1CO",
+  "2 Korinfliklarga": "2CO",
+  "1 Korinfliklar": "1CO",
+  "2 Korinfliklar": "2CO",
+  "1 Timoʻtiyga": "1TI",
+  "2 Timoʻtiyga": "2TI"
+ },
+ "yv": 1939,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": true
+ }
 }

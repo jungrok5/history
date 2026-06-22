@@ -340,5 +340,45 @@
    "vref": "Jāņa ev. 19:30 · Romiešiem 5:8",
    "vtext": "Tas ir piepildīts… Kristus par mums ir nomiris, kad mēs vēl bijām grēcinieki."
   }
- ]
+ ],
+ "books": {
+  "Jozuas": "JOS",
+  "Soģu": "JDG",
+  "Rutes": "RUT",
+  "Nehemijas": "NEH",
+  "Dāvida dziesmas": "PSA",
+  "Jesaja": "ISA",
+  "Jeremija": "JER",
+  "Ecehiēls": "EZK",
+  "Maleahija": "MAL",
+  "Mateja ev.": "MAT",
+  "Marka ev.": "MRK",
+  "Lūkas ev.": "LUK",
+  "Jāņa ev.": "JHN",
+  "Apustuļu darbi": "ACT",
+  "Romiešiem": "ROM",
+  "Galatiešiem": "GAL",
+  "Efesiešiem": "EPH",
+  "Kolosiešiem": "COL",
+  "Ebrejiem": "HEB",
+  "Parādīšanas": "REV",
+  "1. Mozus": "GEN",
+  "2. Mozus": "EXO",
+  "3. Mozus": "LEV",
+  "5. Mozus": "DEU",
+  "1. Samuēla": "1SA",
+  "2. Samuēla": "2SA",
+  "1. Ķēniņu": "1KI",
+  "2. Ķēniņu": "2KI",
+  "1. Korintiešiem": "1CO",
+  "2. Korintiešiem": "2CO",
+  "1. Timotejam": "1TI",
+  "2. Timotejam": "2TI"
+ },
+ "yv": 2406,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }

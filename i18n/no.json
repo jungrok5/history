@@ -340,5 +340,45 @@
    "vref": "Johannes 19:30 · Romerne 5:8",
    "vtext": "Det er fullbrakt! … Gud viser sin kjærlighet til oss ved at Kristus døde for oss mens vi ennå var syndere."
   }
- ]
+ ],
+ "books": {
+  "Dommerne": "JDG",
+  "Josva": "JOS",
+  "Rut": "RUT",
+  "Nehemja": "NEH",
+  "Salmene": "PSA",
+  "Jesaja": "ISA",
+  "Jeremia": "JER",
+  "Esekiel": "EZK",
+  "Malaki": "MAL",
+  "Matteus": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Johannes": "JHN",
+  "Apostlenes gjerninger": "ACT",
+  "Romerne": "ROM",
+  "Galaterne": "GAL",
+  "Efeserne": "EPH",
+  "Kolosserne": "COL",
+  "Hebreerne": "HEB",
+  "Johannes' åpenbaring": "REV",
+  "1. Mosebok": "GEN",
+  "2. Mosebok": "EXO",
+  "3. Mosebok": "LEV",
+  "5. Mosebok": "DEU",
+  "1. Samuelsbok": "1SA",
+  "2. Samuelsbok": "2SA",
+  "1. Kongebok": "1KI",
+  "2. Kongebok": "2KI",
+  "1. Korinter": "1CO",
+  "2. Korinter": "2CO",
+  "1. Timoteus": "1TI",
+  "2. Timoteus": "2TI"
+ },
+ "yv": 29,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
 }
