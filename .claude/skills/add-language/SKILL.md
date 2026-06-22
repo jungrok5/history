@@ -17,9 +17,17 @@ fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review
 ---
 
 ## 0. Decide + version-availability gate (auto-pick full vs partial mode)
+0. **Fastest path — run `detect-mode` first** (probes all sources, removes the "which mode?" guesswork):
+   ```
+   node lib/detect-mode.mjs <code> [code2 …]
+   ```
+   It lists YouVersion versions (+full/NT-only probe), eBible editions (full/NT/redistributable), and OBS
+   (repo + .txt|markdown format), then prints a **RECOMMENDED mode** (full / eBible / partial / OBS / bridge).
+   YV is preferred over eBible for the same full Bible. If unsure of the code, pass both the 2-letter and the
+   ISO 639-3 form (sources differ, e.g. Malagasy is `plt` on YV). Then confirm the chosen `yv`/ID below.
 1. **Language to add** + **YouVersion version ID** (the verbatim baseline). If several candidates, ask
    the user (AskUserQuestion). Verified IDs already in use live in `YV` in `index.html` — read them there.
-2. **First, measure whether a full OT exists** with fetch-verse (this decides full vs partial):
+2. **Confirm the OT/NT split** with fetch-verse (detect-mode already did this; re-check the chosen ID):
    ```
    node lib/fetch-verse.mjs <YV> ISA.53.5,PSA.23.1,MAL.3.1,GEN.1.1,EXO.20.2
    ```

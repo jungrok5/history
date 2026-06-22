@@ -54,8 +54,8 @@ Protestant church; Korean Revised Version (개역개정) as the Korean baseline.
 - `vercel.json` (`buildCommand = node tools/build-pages.mjs` + security/cache headers), `robots.txt`.
   **`.vercelignore` keeps `AGENTS.md`, `CLAUDE.md` and `.claude` out of the deploy.**
 - `.claude/skills/add-language/` — the **/add-language skill**. Follow its `SKILL.md` when adding a
-  language. Helpers in `lib/`: validate · audit-links · integrate · make-qr · convert-digits ·
-  fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review-prompt.
+  language. Helpers in `lib/`: detect-mode (probe sources → recommend mode) · validate · audit-links ·
+  integrate · make-qr · convert-digits · fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review-prompt.
 
 ## Single source of truth — do NOT track per-language state in this file
 The language list/codes live in **`index.html`** (`LANGS`) + `tools/build-pages.mjs` (`LANGS`); each
