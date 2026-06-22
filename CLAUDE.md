@@ -97,6 +97,8 @@ node .claude/skills/add-language/lib/verify-prose.mjs <code>    # prose meaning 
 `fetch-verse.mjs <YV> <USFM,…>` pulls verbatim verse text from bible.com — **the only trusted source;
 WebFetch hallucinates verses.** `validate` is the deterministic offline gate; the verify-* tools are
 advisory (they hit the network). Full procedure for a new language: see `SKILL.md`.
+`fetch-verse` reads both YouVersion reader formats (old verse-page `__NEXT_DATA__` + new chapter `data-usfm`),
+so "new format" alone no longer blocks a language.
 
 ## Gotchas / pitfalls
 - **Read a file in-session before you Edit it** (grep alone errors out).
@@ -120,13 +122,3 @@ Languages without a full OT are still added: NT quotes verbatim; OT key verses s
 banner + `s["respond.read"]` (John button). First case = **ff (Fula)**.
 **Richer-partial**: if the edition has *some* OT books (e.g. **ky** = NT+Genesis+Judges), handle each epoch by
 its own ref's availability — present-book epochs keep real verbatim `q`+`cite`, absent ones stay empty-cite summaries (see SKILL.md).
-
-## Current status
-100+ languages (mostly full mode + a few partial like ff), ~90% population reach. The exact count is
-auto-derived on the site from `LANGS` (build-pages fills the meta) — don't hand-maintain a number here.
-The long-term goal (see README) is every living language (~7,396). Most languages with 5M+ speakers and a
-full YouVersion OT are done; the remaining large ones generally lack a full OT on YouVersion (still addable in
-**partial mode**). **Per-language decisions (held/not-addable, partial-mode candidates, YouVersion code/version
-gotchas) live in SKILL.md's "Language decisions log" — update there, never here, so adding a language never edits this file.**
-`fetch-verse.mjs` reads both YouVersion reader formats (old verse-page `__NEXT_DATA__` + new chapter
-`chapterInfo.content` `data-usfm` parser), so "new format" alone no longer blocks a language.
