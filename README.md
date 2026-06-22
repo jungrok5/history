@@ -52,7 +52,7 @@ So when a language has no complete Bible, we respond in tiers — never by fabri
 Tiers 3–5 are still being built out; today most languages are full mode (1), with a few in partial mode (1 + 2, e.g. Kyrgyz, Fula).
 
 ## Perspective
-Based on the **evangelical · Reformed redemptive-historical** view shared by most of the Korean Protestant church. (This is pre–formal-review material; please check with your pastor or denominational resources before relying on it.)
+Based on the **evangelical · Reformed redemptive-historical** view shared by most of the Korean Protestant church.
 
 ## Tech / deploy
 - A dependency-free **single `index.html`** (HTML / CSS / vanilla JS) plus per-language packs `i18n/<code>.json` (loaded on demand).
