@@ -290,8 +290,11 @@ Do NOT introduce a different religious register (e.g. Islamic-idiom আল্ল
 ## Language decisions log (update HERE, never in AGENTS.md)
 So we don't re-investigate, and so adding a language never edits AGENTS.md. The live language *list/count* is
 auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
-- **Held / not addable** (recorded so we don't retry): bho (audio-only — no text), bm (no YV language page),
-  yue (only the 1915 romanized edition — no Han NT).
+- **Held / not addable** (recorded so we don't retry): bm (no YV language page).
+- **Added despite a limited source** (non-obvious choices): bho (own edition audio-only → added as **bridge** from hi);
+  yue (only the **1915 romanized** Cantonese edition #3026 — added full-mode but kept deliberately: romanized verses
+  clash with the Traditional-Han prose & most Cantonese read zh-Hant, yet verses are verbatim and it gives a 廣東話 page);
+  arz (YV #2429 is **Genesis-only** → added as **bridge** from ar/Van Dyck); syl (#1917 = richer-partial, Isaiah etc. absent).
 - **Partial-mode**: done = ff, **ky** (NT+Genesis+Judges richer-partial). Remaining candidates = tet, et (NT-only on YV).
 - **OBS-mode** (no Bible + OBS): done = **bal** (Balochi, `fa_gl/Balochi_OBS`). Other no-Bible OBS langs in catalog: haz, shu, qxq, kaa, glk, lrc, mzn, tly, etc.
 - **YouVersion code/version gotchas**: Malagasy = code `plt` (id 873, full Bible — the old `mg` exclusion was a code
