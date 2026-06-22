@@ -70,5 +70,25 @@ This goes faster **together**. Please add or polish your language. **You don't n
 
 Full step-by-step: **[CONTRIBUTING.md](CONTRIBUTING.md)** (English) · **[CONTRIBUTING.ko.md](CONTRIBUTING.ko.md)** (한국어). Questions → [issues](../../issues).
 
+## Related projects
+Many ministries share this heart; **we are the on-ramp in front of them**, and we link out to them. A few, by focus:
+
+**Big-picture overview** (closest to us)
+- [BibleProject](https://bibleproject.com) — the Bible's storyline & themes as animations; many subtitle languages, free. *(video-first; no prayer to receive Christ)*
+- [Open Bible Stories — unfoldingWord](https://www.unfoldingword.org/obs) — 50 Creation→Restoration Bible stories, CC-licensed in hundreds of languages.
+
+**Gospel presentation + a decision** (closest to our second half)
+- [Peace With God](https://peacewithgod.net) (BGEA) — the gospel + a prayer to receive Christ, many languages.
+- [GodTools](https://godtoolsapp.com) (Cru) — Four Spiritual Laws / Knowing God Personally, ~119 languages.
+- [KnowGod](https://knowgod.com) · [EveryStudent](https://www.everystudent.com) · [StartingWithGod](https://www.startingwithgod.com) (Cru) — evangelism sites.
+
+**Video / oral evangelism** (every-language aim)
+- [Jesus Film Project](https://www.jesusfilm.org) — the *JESUS* film in 2,000+ languages.
+- [God's Story Project](https://www.gods-story.org) · [Create International](https://www.createinternational.com) · the Wordless Book — oral & picture gospel.
+
+**Full-Bible access** (the infrastructure we link into)
+- [YouVersion / Bible.com](https://www.bible.com) — Bible reading in 2,000+ languages.
+- [Wycliffe](https://www.wycliffe.org) · [SIL](https://www.sil.org) · [ETEN / illumiNations](https://illuminations.bible) — Bible translation & distribution (we're the on-ramp in front of the finished translations).
+
 ## License / contact
 Scripture text is copyright its respective publishers and is used here by quotation and linking. For content questions or feedback, use the contact at the bottom of the site.

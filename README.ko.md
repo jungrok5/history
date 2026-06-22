@@ -70,5 +70,25 @@
 
 자세한 단계는 **[CONTRIBUTING.ko.md](CONTRIBUTING.ko.md)** (한국어) · **[CONTRIBUTING.md](CONTRIBUTING.md)** (English). 질문은 [이슈](../../issues)로.
 
+## 비슷한 취지의 다른 프로젝트들
+많은 사역이 같은 마음을 품고 있습니다. **우리는 그 앞단의 ‘입구’** 이고, 그들에게 링크로 연결합니다. 초점별로 몇 가지:
+
+**큰 그림 개관** (우리와 가장 가까움)
+- [BibleProject](https://bibleproject.com) — 성경 전체 줄거리·주제를 애니메이션으로. 다국어 자막, 무료. *(영상 중심, 영접 기도는 없음)*
+- [Open Bible Stories — unfoldingWord](https://www.unfoldingword.org/obs) — 창조→회복 성경 이야기 50편, 수백 개 언어 CC 라이선스.
+
+**복음 제시 + 결단** (우리 후반부와 가까움)
+- [Peace With God](https://peacewithgod.net) (BGEA) — 복음 + 영접 기도, 다국어. 우리의 “복음→기도”와 가장 유사.
+- [GodTools](https://godtoolsapp.com) (Cru) — 사영리 / 하나님을 인격적으로 아는 것 등, 약 119개 언어.
+- [KnowGod](https://knowgod.com) · [EveryStudent](https://www.everystudent.com) · [StartingWithGod](https://www.startingwithgod.com) (Cru) — 전도 사이트.
+
+**영상·구술 전도** (모든 언어 지향)
+- [Jesus Film Project](https://www.jesusfilm.org) — 예수 영화, 2,000+ 언어.
+- [God's Story Project](https://www.gods-story.org) · [Create International](https://www.createinternational.com) · Wordless Book — 구술·그림 복음.
+
+**전체 성경 접근** (우리가 링크하는 인프라)
+- [YouVersion / Bible.com](https://www.bible.com) — 2,000+ 언어 성경 읽기.
+- [Wycliffe](https://www.wycliffe.org) · [SIL](https://www.sil.org) · [ETEN / illumiNations](https://illuminations.bible) — 완역 번역·배포(우리는 그 완성된 번역 앞단의 입구).
+
 ## 라이선스 / 문의
 성경 본문 저작권은 각 번역본 발행처에 있으며, 본문은 인용·링크 형태로 사용합니다. 콘텐츠 문의/피드백은 사이트 하단 연락처를 통해 주세요.
