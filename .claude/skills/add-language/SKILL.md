@@ -44,6 +44,13 @@ fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review
     `node lib/fetch-verse.mjs <YV> <USFM[,USFM…]>` (bible.com `__NEXT_DATA__` raw text;
     **the WebFetch/summarizing model hallucinates verses — forbidden**). Match es.json's quote range and
     the position of any ellipsis (…).
+  - **Inline quotes — fetch ALL of these verbatim too** (besides epoch[].q and core[].vtext). Drafting agents
+    repeatedly paraphrase the ones in **bold**, so fetch them explicitly and slice the source contiguously:
+    `s.gospel.crux`(ISA.53.5) · `s.respond.verse`(JHN.1.12) · `s.closing.verse`(ROM.8.38-39) ·
+    `epoch[8].christ`(MAL.3.1) · **`epoch[2].detail`(GEN.50.20)** · **`epoch[10].detail`(COL.2.15)** ·
+    `mis[].t` (EXO.20.2 · EZK.33.11 · JER.29.11 · JHN.15.13 · 1TI.1.15) ·
+    **`s.faq.a1`(JHN.3.18, span ends at "…condemned already")** · **`s.faq.a2`(COL.1.13)** · `s.faq.a3`(ROM.12.19).
+    (verify-inline catches paren/dash forms but can miss the `<b>"…"</b> (Book c:v)` faq form — so get these right at draft time.)
   - Check edition availability first: the body quotes many OT books (GEN·EXO·DEU·PSA·ISA·JER·MAL…) →
     `fetch-verse <YV> ISA.53.5,PSA.23.1,MAL.3.1` confirms a **full OT** (hold NT-only / lacunae editions).
   - Preserve HTML tags (`<b><p><h3><ul><li><span><br><em>` …); translate only human-readable text.

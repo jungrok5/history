@@ -1,0 +1,344 @@
+{
+ "menuName": "Malagasy",
+ "htmlLang": "mg",
+ "dir": "ltr",
+ "brand": "Baiboly amin’ny horonana iray",
+ "docTitle": "Baiboly amin’ny horonana iray · Hatramin’ny famoronana ka hatramin’ny fiangonana",
+ "share": {
+  "title": "Baiboly amin’ny horonana iray",
+  "text": "Amin’ny horonana tokana, fantaro ny tantara lehibe ao amin’ny Baiboly — sy ny antony nahatongavan’i Jesosy."
+ },
+ "ui": {
+  "people": "Olona",
+  "events": "Zava-nitranga lehibe",
+  "christLabel": "Manondro an’i Jesosy",
+  "loveLabel": "Fitiavana tsy mety lefy",
+  "mythWrong": "Hevi-diso fahita",
+  "mythRight": "Ny marina",
+  "more": "Hamaky bebe kokoa",
+  "version": "(MBP)"
+ },
+ "labels": {
+  "start": "Fanombohana",
+  "thread": "Ny tantara",
+  "gospel": "Ny Filazantsara",
+  "about": "Mombamomba"
+ },
+ "s": {
+  "ui.share": "↗ Zarao",
+  "ui.toast": "Voadika ny rohy 📋",
+  "ui.footer": "Baiboly amin’ny horonana iray · Ny teny ao amin’ny Soratra Masina dia avy amin’ny MBP",
+  "hero.kicker": "HATRAMIN’NY FAMORONANA KA HATRAMIN’NY FIANGONANA",
+  "hero.title": "Ny Baiboly,<br><span class=\"em\">amin’ny horonana iray</span>",
+  "hero.sub": "Amin’ny horonana tokana, fantaro ny tantara lehibe ao amin’ny Baiboly — sy ny antony nahatongavan’i Jesosy.",
+  "hero.cue": "Akodiavo midina<span>↓</span>",
+  "thread.eyebrow": "FEHEZAN-TENY IRAY MAMATOTRA NY ZAVATRA REHETRA",
+  "thread.h2": "Amin’ny farany, ny Baiboly dia tantara tokana ihany",
+  "thread.flow": "<b>Fampanantenana</b><span class=\"arw\">→</span><b>Fiandrasana</b><span class=\"arw\">→</span><b>Fahatanterahana</b>",
+  "thread.note": "Andriamanitra <b>mampanantena</b> (fanekena), miandry ela ny olona, ary amin’ny farany dia <b>tanteraka</b> sy feno ao amin’i Jesosy ny zava-drehetra. Araho ireo sehatra 13 etsy ambany araka izany fizotrana izany — tsindrio ny <b>“Hamaky bebe kokoa”</b> amin’ny karatra tsirairay ho an’ny tantara lalina kokoa.",
+  "gospel.eyebrow": "NY DIKAN’ITY TANTARA ITY HO AHY",
+  "gospel.h2": "Ny tena fon’ny Baiboly",
+  "gospel.lead": "Ny Baiboly dia <b>tsy boky mampianatra “fomba hahatonga ho olona tsara.”</b>",
+  "gospel.sublead": "Tantara izy io milaza ny fomba namonjen’Andriamanitra, <b>amin’ny fahasoavana irery</b>, ireo mpanota izay tsy afaka namonjy ny tenany mihitsy. Eo afovoany dia mijoro i Jesosy Kristy.",
+  "gospel.mirror": "<h3>Ny tsingerin’ny Isiraely tsy mety tapaka dia sary tena maneho an’“izaho”</h3><div class=\"cycle\"><b>Fanompoan-tsampy</b><span class=\"a\">→</span><b>Fijaliana</b><span class=\"a\">→</span><b>Fitarainana</b><span class=\"a\">→</span><b>Mamonjy Andriamanitra</b><span class=\"a\">→</span><b>Fanompoan-tsampy indray…</b></div><p>Hatramin’ny Mpitsara ka hatramin’ny fahababoana, miverimberina tsy misy farany izany tsingerina izany ny Isiraely. Tsy nosoratan’ny Baiboly izany mba hanesoantsika hoe: “Akory ny halemen’izy ireo.”</p><p><b>Fitaratra</b> izany. Tsy hoe “nanao izany ny Isiraely” no fototra, fa <b>“izaho koa manao toy izany”</b> (1 Korintiana 10:11).</p><p>Ny <b>sampy</b> dia tsy sary voasokitra ihany. Izany dia <b>na inona na inona tiantsika na itokisantsika mihoatra an’Andriamanitra</b> — vola, fahombiazana, fankasitrahana, olona, na dia ny tenako aza. Ary ny fampiasana an’Andriamanitra ho <b>fitaovana hahazoana izay tiako</b> dia fanompoan-tsampy ihany koa.</p><p class=\"punch\">Amin’ny farany, ny sampy lalina indrindra dia “ny tenako, mipetraka eo amin’ny seza fiandrianan’Andriamanitra.”</p>",
+  "gospel.coreIntro": "Koa ahoana no amonjen’Andriamanitra mpanota toy izany? Ity no fon’ny filazantsara ambaran’ny Baiboly.",
+  "gospel.crux": "<p class=\"crux-lead\">Ny Baiboly manontolo dia manondro toerana iray.</p><p>Tsy afaka nanapaka ny tsingerin’ny ota samirery ny olona, ary tsy nisy marina na dia iray aza. Koa tsy maintsy nisy nandoa ny vidiny solony.</p><p>Jesosy dia tsy tonga fotsiny mba hanome fampianarana tsara. Satria tsy nisy lalana hafa hamonjena ahy, <b>dia tsy nanan-tsafidy afa-tsy ny ho tonga Izy.</b></p><p class=\"crux-punch\">Ilay tokony nihantona teo amin’izany hazo fijaliana izany dia <b>izaho</b>.<br>Nitondra <b>ny otako</b> i Jesosy ka voafantsika teo solony.</p><div class=\"crux-verse\">“Nefa Izy dia voalefona noho ny fahadisoantsika Sy notorotoroina noho ny helotsika … Ary ny dian-kapoka taminy no nahasitranana antsika.” — Isaia 53:5</div>",
+  "faq.h": "Mbola misy mampanahy anao ve?",
+  "faq.q1": "<span class=\"arr\">▸</span> Koa ny mpamono olona dia mino fotsiny dia mankany an-danitra, fa ny olona tsara nandritra ny androny izay tsy mino kosa mankany amin’ny helo?",
+  "faq.a1": "<p>Fanontaniana ara-drariny izany. Saingy misy hevi-diso roa miafina ao anatiny.</p><p><b>① Tsy mizara ny olona ho “tsara sy ratsy” ny Baiboly.</b> Ny fenitra dia tsy hoe “tsara kokoa noho ny olon-kafa” fa “ny fahamasinana tonga lafatr’Andriamanitra.” Eo anatrehany, tsy misy “tsara ampy” na iza na iza (Romana 3:23). Koa tsy hoe “olona tsara sy mpamono olona” izany, fa toy ny olona roa mitondra aretina mahafaty mitovy — ny iray mandray ny fanafody, fa ny iray mandà azy ka manao hoe: “Salama kokoa noho iry aho.”</p><p><b>② Zavatra iray ihany no mampisaraka ny lanitra sy ny helo.</b> Tsy ny isan’ny fitondran-tena, fa <b>raha nandray an’i Jesosy Kristy ho Tompo ianao ka voavaha ny olan’ny otanao.</b> Izay voavaha amin’ny ran’i Kristy ny otany dia mankany an-danitra; izay tsy nandray Azy mihitsy ka mbola mitoetra ny otany dia tsy mankany. Tsy misy fitondran-tena tsara, na firy na firy, afaka mamaha izany olan’ny ota izany.</p><p>Koa ny lanitra sy ny helo dia tsy “loka noho ny fitondran-tena tsara” fa raharaha mahakasika ny <b>fifandraisana amin’i Kristy</b>. Ary ny “finoana” dia tsy fanekena an-tsaina fotsiny fa fiovan’ny tompo mifehy ny fiainanao — izay tena mandray Azy dia tsy mihamiavona fa mibebaka lalina indrindra. Raha ny marina, ny fahamarinan-tena (“olona tsara aho”) no sampy sarotra indrindra tapahina, ilay mahatonga antsika hihevitra fa tsy mila an’i Kristy isika (Lioka 18:9-14).</p><p>Milaza mazava ny Baiboly hoe: <b>“Izay mino Azy dia tsy helohina; fa izay tsy mino kosa dia efa voaheloka rahateo”</b> (Jaona 3:18). Ny fitsarana dia tsy “fanombanana ny ataonao rehefa maty ianao,” fa efa voafaritra araka ny <b>nandraisanao an’i Kristy</b>.</p><p class=\"faq-v\">Romana 3:23 · Jaona 3:18 · Efesiana 2:8-9 · Lioka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Tsy afaka miaina tsara fotsiny ve aho na dia tsy mino an’i Jesosy aza?",
+  "faq.a2": "<p>Izany no eritreritra fahita indrindra, saingy diso ny fahatakarany ny tena olana. Ity misy sary iray.</p><p><b>Eritrereto fa eo an-tsambon’ny jiolahin-tsambo ianao.</b> Na firy na firy ny fahadiovan’ny tokotany ataonao, na akory ny hatsaram-panahinao amin’ny matilo, na endrika modely ny fiainanao — mbola <b>jiolahin-tsambo</b> ihany ianao, satria entin’ny sambo miaraka aminao ho any amin’ny halehany (ny seranan’ny fitsarana). Tsy “ny isan’ny fitondran-tena” no olana, fa <b>“sambo iza no isianao” (ny maha-ianao anao)</b>.</p><p>Koa ny filazantsara dia tsy milaza hoe “miezaha mafy kokoa ho tsara”; milaza izy hoe <b>“miovà sambo.”</b> Midina avy amin’ny sambon’ny ota ka miampita any amin’i Jesosy — ho amin’ny maha-<b>zanak’Andriamanitra</b> vaovao. Tsy fampiakarana isa amin’ny ezaka izany, fa fitokisana Ilay manolotra ny tanany ka fiampitana mankany amin’ny sambony.</p><p>Raha ny marina, dia toy izany indrindra no amaritan’ny Baiboly ny famonjena — <b>“sady nahafaka antsika tamin’ny fahefan’ny maizina ka namindra antsika ho amin’ny fanjakan’ny Zanany malalany”</b> (Kolosiana 1:13).</p><p>Aza diso hevitra: <b>tsy midika izany fa tsy misy dikany ny fiainana tsara.</b> Ny hatsaram-panahy dia tsy ny “fepetra” famonjena fa ny <b>vokatr’</b>izany. Izay efa niova sambo dia miaina tsara ankehitriny, tsy noho ny tahotra, fa noho ny fitiavan’ny zanaka.</p><p class=\"faq-v\">Kolosiana 1:13 · Jaona 1:12 · Jaona 3:3 · Efesiana 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Raha milamina ny mpanao ratsy, milaza hoe “efa namela ahy Andriamanitra,” nefa mbola mijaly ny niharam-boina — moa tsy mora loatra ve izany fahasoavana izany?",
+  "faq.a3": "<p>Ara-drariny ny fanontaniana, ary tena misy ny fanaintainana. Saingy izany filazana izany dia tsy “ny famelan-keloky ny Baiboly” — <b>fanodinkodinana</b> azy izany.</p><p><b>① Tsy mora mihitsy ny famelan-kelok’Andriamanitra.</b> Ny ota dia tsy afenina toy ny hoe tsy nisy; Andriamanitra mihitsy no nandoa ny vidiny tamin’ny ain’ny Zanany. Ny hazo fijaliana dia tsy porofo fa atao tsinontsinona ny ota, fa porofo fa lehibe tokoa ny ota — izy no famelan-keloka lafo indrindra eto an-tany.</p><p><b>② Ny tena fibebahana dia mamoa.</b> Raha miavona eo anatrehan’ny niharam-boina ny mpanao ratsy — “namela ahy Andriamanitra, koa milamina aho” — dia tsy fibebahana izany fa fakàna tahaka azy (Matio 3:8). Ary ny famelan-keloka eo amin’ny olona sy Andriamanitra dia tsy mamafa ny ratran’ny niharam-boina na manery azy hamela heloka.</p><p><b>③ Ny ota dia tsy “avela handeha” fotsiny mihitsy.</b> Ny ota rehetra dia voaloa amin’ny toerana iray amin’ny roa — <b>na zakain’i Kristy eo amin’ny hazo fijaliana</b> (ho an’izay matoky Azy dia tsy misy fanamelohana intsony, Romana 8:1), <b>na zakain’izay mandà Azy hatramin’ny farany ho an’ny tenany.</b> Koa tsy misy “famotsoran-keloka mora.” Ny mpanao ratsy ihany koa dia mbola tompon’andraikitra ara-dalàna eto amin’ity tontolo ity (Romana 13:1-4).</p><p><b>④ Tsy kely velively eo imason’Andriamanitra ny ranomason’ny niharam-boina.</b> Andriamanitra mitomany miaraka amin’ny mitomany, mahatsiaro ny ranomaso tsirairay, ary Izy mihitsy no hamafa azy amin’ny farany (Apokalypsy 21:4). Koa ny niharam-boina dia tsy mitondra irery ny enta-mavesatry ny famaliana faty, fa afaka mametraka izany amin’Andriamanitra marina (Romana 12:19 — “Ahy ny famaliana; Izaho no hamaly, hoy Jehovah”).</p><p class=\"faq-v\">Matio 3:8 · Romana 8:1 · Romana 13:1-4 · Apokalypsy 21:4</p>",
+  "respond.h3": "Koa — ahoana ny amiko?",
+  "respond.sub": "Ity fitiavana ity dia tsy vaovao fa <b>fanasana</b>. Raha nikasika ny fonao ilay fitiavana voafantsika ho solonao, dia vavaha miadana ity, andalana iray isaky ny indray mandeha.",
+  "respond.prayer": "<p>Andriamanitra ô,</p><p>ekeko fa mpanota tsy afaka mamonjy ny tenako aho.</p><p>Mino aho fa maty teo amin’ny hazo fijaliana ho ahy i Jesosy ary nitsangana tamin’ny maty.</p><p>Mifona aho, mamelà ny otako rehetra, ary aoka Ianao hatramin’izao ho Tompon’ny fiainako.</p><p>Raiso ho zanakao aho, ka avelao hiaina fiainam-baovao.</p><p class=\"amen\">Amin’ny anaran’i Jesosy no ivavahako. Amen.</p>",
+  "respond.after": "Raha nivavaka izany tamin’ny fo tokoa ianao, dia lazain’ny Baiboly fa <b>tonga zanak’Andriamanitra</b> ianao. Tsy irery intsony ianao — tadiavo fiangonana akaiky ka mandehana miaraka amin’ny lalan’ny finoana.",
+  "respond.read": "Vakio ho anao manokana ny Baiboly — manombohà amin’i Jaona",
+  "respond.verse": "“Fa izay rehetra nandray Azy dia nomeny hery ho tonga zanak’Andriamanitra, dia izay mino ny anarany.” — Jaona 1:12 · Romana 10:9-10",
+  "closing.main": "Andriamanitra iray,<br>amin’ny alalan’ny tantara iray,<br>no manenjika antsika amin’ny<br><em>fitiavana</em> tsy mety milefitra.",
+  "closing.verse": "“Na fahafatesana, na fiainana … na inona na inona amin’izao zavatra ary rehetra izao, dia tsy hahasaraka antsika amin’ny fitiavan’Andriamanitra izay ao amin’i Kristy Jesosy Tompontsika.” — Romana 8:38-39",
+  "closing.small": "Eo amin’ity tantara ity, ny Lalàna, ny boky ara-tononkalo, ny Mpaminany, ary ny Epistily no manampy ny “nofo.”<br>Manomboka izao, na inona na inona boky sokafanao, dia ho hitanao izay misy anao ao amin’ny tantara.",
+  "closing.share": "↗ Zarao ity tantara ity",
+  "about.line": "Mifototra amin’ny fomba fijery ara-tantara amin’ny famonjena (evanjelika · reformista) izay zarain’ny ankamaroan’ny fiangonana protestanta.",
+  "about.contact": "Fanontaniana · hevitra — <a id=\"contact\" class=\"mail\">Andefaso mailaka izahay</a>"
+ },
+ "epochs": [
+  {
+   "tag": "TESTAMENTA TALOHA · FANOMBOHANA",
+   "title": "Famoronana",
+   "date": "Tamin’ny voalohany",
+   "one": "Nanao izao tontolo izao “tsara indrindra” Andriamanitra.",
+   "people": "Andriamanitra; Adama sy Eva",
+   "events": "Andro enina namoronana, ny olona natao mitovy endrika amin’Andriamanitra, ny fitsaharan’ny Sabata",
+   "q": "TAMIN’ny voalohany Andriamanitra nahary sy ny lanitra sy ny tany.",
+   "cite": "Genesisy 1:1",
+   "christ": "Natao tamin’ny alalan’ny “Teny” izao tontolo izao. Manambara ny Filazantsaran’i Jaona fa io Teny io dia Jesosy mihitsy (Jaona 1:1-3).",
+   "detail": "<p>Ny Baiboly dia tsy manomboka amin’ny tohan-kevitra filozofika, fa amin’ny fanambarana: <b>“Tamin’ny voalohany Andriamanitra…”</b> Izao tontolo izao dia tsy kisendrasendra fa asan’Andriamanitra manana ny maha-izy azy.</p><ul><li><b>Ny endrik’Andriamanitra</b> · amin’ny voary rehetra, ny olona ihany no natao hitovy endrika amin’Andriamanitra — hahafantatra Azy sy hikarakara izao tontolo izao.</li><li><b>Fitsaharana</b> · ny fitsaharana amin’ny andro fahafito dia maneho fa feno sy milamina (shalom) ny zava-drehetra: “tsara izany.”</li><li><b>Edena</b> · izao tontolo izao talohan’ny nahasimba azy, izay handehanan’Andriamanitra sy ny olona miaraka.</li></ul>",
+   "next": "Saingy efa ho rava izany hafenoana izany…"
+  },
+  {
+   "tag": "TESTAMENTA TALOHA · MANOMBOKA NY OLANA",
+   "title": "Ny Fahalavoana",
+   "date": "Tamin’ny voalohany",
+   "one": "Niditra ny ota, ka tapaka ny rohy nampifandray ny olona sy Andriamanitra.",
+   "people": "Adama sy Eva; ny menarana (Satana)",
+   "events": "Ny fihinanana ny voankazo voarara, ny fandroahana avy tao Edena, ny fahatongavan’ny fahafatesana sy ny fisasarana",
+   "q": "Dia hampifandrafesiko hianao sy ny vehivavy ary ny taranakao sy ny taranany: izy hanorotoro ny lohanao, ary hianao kosa hanorotoro ny ombelahin-tongony.",
+   "cite": "Genesisy 3:15",
+   "christ": "Ny fampanantenana voalohany momba ny filazantsara, nomena avy hatrany taorian’ny Fahalavoana: ny “taranaky ny vehivavy” no hanorotoro ny lohan’ny menarana — ary izany dia Jesosy (Genesisy 3:15; Romana 16:20; Galatiana 4:4).",
+   "detail": "<p>Tamin’ny alalan’ny tsy fankatoavana naniry “ho tahaka an’Andriamanitra,” dia niditra teo amin’izao tontolo izao ny ota. Ny vokany dia tsy hoe fitsipika voahitsakitsaka fotsiny fa <b>fifandraisana tapaka</b>.</p><ul><li><b>Rohy tapaka</b> · amin’Andriamanitra (miery), amin’ny namana (mifanome tsiny), amin’ny natiora (tsilo sy fisasarana).</li><li><b>Fahafatesana</b> · ny fampitandremana hoe “ho faty tokoa ianao” dia tonga marina.</li><li><b>Genesisy 3:15</b> · nefa eo anivon’ny fitsarana dia tonga voalohany ny fampanantenana famonjena. Antsoin’ny manam-pahaizana hoe <b>protoevangelium (ny filazantsara voalohany)</b> izany.</li></ul>",
+   "next": "Ankehitriny Andriamanitra miantso lehilahy iray hanombohana ny famonjena…"
+  },
+  {
+   "tag": "TESTAMENTA TALOHA · NY FAMPANANTENANA",
+   "title": "Ny Patriarka",
+   "date": "tokony ho 2000 tal. J.K.",
+   "one": "Mampanantena an’i Abrahama Andriamanitra hoe: “Ho fitaovam-pitahiana ianao.”",
+   "people": "Abrahama · Isaka · Jakoba · Josefa",
+   "events": "Ny fanekena tamin’i Abrahama, ny fanaterana an’i Isaka, ny zanaka roa ambin’ny folon’i Jakoba, Josefa nisandratra ho lehibe tany Egypta",
+   "q": "dia hahatonga anao ho firenena lehibe Aho sady hitahy anao sy hahalehibe ny anaranao; ary ho fitahiana tokoa hianao; ary hitahy izay manisy soa anao Aho, fa hanozona izay manozona anao; ary aminao no hitahiana ny firenena rehetra ambonin’ny tany.",
+   "cite": "Genesisy 12:2-3",
+   "christ": "Ny fampanantenana fa “hotahina ny firenena rehetra” dia tanteraka ao amin’i Jesosy, taranak’i Abrahama (Galatiana 3:16).",
+   "detail": "<p>Manomboka mamaha ny olan’ny olombelona manontolo Andriamanitra amin’ny fiantsoana lehilahy iray, dia <b>Abrahama</b>. Ny votoatiny dia ny <b>fanekena (fampanantenana)</b> — firenena lehibe, tany, ary “fitahiana ho an’ny firenena rehetra.”</p><ul><li><b>Finoana</b> · nino fampanantenana tsy hita maso i Abrahama, ka nisaina ho fahamarinana ho azy izany (Genesisy 15:6).</li><li><b>Isaka sy Jakoba</b> · mifindra ny fampanantenana; Jakoba (Isiraely) no rain’ny foko roa ambin’ny folo.</li><li><b>Josefa</b> · namidin’ny rahalahiny nefa nasandratra ho lehibe — “Andriamanitra kosa nisaina izany ho soa” (Genesisy 50:20).</li></ul>",
+   "next": "Manaraka an’i Josefa, midina any Egypta ny fianakaviana — ka tonga andevo…"
+  },
+  {
+   "tag": "TESTAMENTA TALOHA · FANAVOTANA",
+   "title": "Eksodosy sy ny Efitra",
+   "date": "tokony ho 1446 tal. J.K.",
+   "one": "Namonjy vahoaka andevo Andriamanitra ka nanao azy ho Azy.",
+   "people": "Mosesy, Arona, Farao",
+   "events": "Ny loza folo, ny Paska, ny fitana ny Ranomasina Mena, ny Didy Folo tao Sinay, ny tabernakely, taona 40 tany an-efitra",
+   "q": "Dia halaiko ho Ahy hianareo ho oloko, ary ho Andriamanitrareo Aho; dia ho fantatrareo fa Izaho no Jehovah Andriamanitrareo, Izay mitondra anareo mivoaka ho afaka amin’ny fanompoana mafy ampanaovin’ny Egyptiana anareo.",
+   "cite": "Eksodosy 6:7",
+   "christ": "Ny Paska — izay nampiala ny fahafatesana tamin’ny ran’ny zanak’ondry — dia manondro an’i Jesosy, “ny Paska ho antsika,” voahombo ho antsika (1 Korintiana 5:7).",
+   "detail": "<p>Ny famonjena lehibe indrindra tao amin’ny Testamenta Taloha. Ny Isiraely izay andevo taloha dia afahana tamin’ny herin’Andriamanitra ka voaforona ho <b>vahoakany</b>.</p><ul><li><b>Paska</b> · ny trano voamarika tamin’ny ran’ny zanak’ondry dia tsy nidiran’ny fahafatesana — ny modelin’ny fanatitra rehetra tatỳ aoriana.</li><li><b>Ny Ranomasina Mena</b> · famonjena rehefa tapitra ny lalana; ny “fiampitana” no tonga mariky ny fanombohana vaovao.</li><li><b>Ny fanekena tao Sinay</b> · tamin’ny alalan’ny Didy no ianaran’izy ireo ny fomba fiaina ho vahoakan’Andriamanitra.</li><li><b>Tabernakely</b> · fitoerana masina azo afindrafindra izay onenan’Andriamanitra eo afovoan’ny vahoakany — santatry ny “Imanoela.”</li><li><b>Taona 40</b> · ny tsy fankatoavana no nampirenireny ny taranaka iray, nefa nijanona akaiky Andriamanitra tamin’ny mana sy ny andry rahona sy afo.</li></ul>",
+   "next": "Mijoro eo am-baravaran’ny tany nampanantenaina izy ireo, miomana hiditra…"
+  },
+  {
+   "tag": "TESTAMENTA TALOHA · FONENANA",
+   "title": "Fandresena sy Mpitsara",
+   "date": "tokony ho 1400–1050 tal. J.K.",
+   "one": "Azony ny tany, saingy tsy nisy mpanjaka ka samy nanao izay tiany ny tsirairay.",
+   "people": "Josoa; mpitsara toa an’i Gideona sy Samsona; Rota",
+   "events": "Ny fianjeran’i Jeriko, ny fonenana tao Kanana, ny tsingerina miverimberina: ota–fitsarana–famonjena",
+   "q": "Tsy nisy mpanjaka teo amin’ny Isiraely tamin’izany andro izany; fa samy nanao izay nataony ho marina avy izy rehetra.",
+   "cite": "Mpitsara 21:25",
+   "christ": "Avy amin’ny taranak’i Rota no nipoiran’i Davida, ary avy amin’ny taranak’i Davida no nipoiran’i Jesosy (Matio 1). Na dia teo afovoan’ny korontana aza, mbola nitohy ny tetiaran’ny Mesia.",
+   "detail": "<p>Teo ambany fitarihan’i Josoa no nidirany tao amin’ny tany nampanantenaina, saingy rehefa nonina dia nanadino an’Andriamanitra haingana izy ireo. Mpitsara dia famerenana an’io fombafomba io ihany.</p><ul><li><b>Ny tsingerina midina</b> · ota → fampahoriana → fitarainana → mamonjy ny mpitsara iray → ota indray. Mihaharatsy ihany izany.</li><li><b>Ny mpitsara</b> · Gideona, Samsona, Debora — mpamonjy vonjimaika, mahery fo nefa be tsiny lalina.</li><li><b>Rota</b> · tantara mamiratra momba ny tsy fivadihana tamin’ny vanim-potoana maizina; vehivavy vahiny no niditra tao amin’ny taranak’i Davida (sy Jesosy).</li></ul>",
+   "next": "Mitaraina ny vahoaka hoe: “Mba omeo mpanjaka koa izahay!”…"
+  },
+  {
+   "tag": "TESTAMENTA TALOHA · VANIM-POTOANA VOLAMENA",
+   "title": "Ny Fanjakana Iray",
+   "date": "tokony ho 1050–930 tal. J.K.",
+   "one": "Mampanantena an’i Davida Andriamanitra hoe: “Haharitra mandrakizay ny seza fiandriananao.”",
+   "people": "Saoly · Davida · Solomona",
+   "events": "Saoly mpanjaka voalohany, Davida sy Goliata, ny fanekena tamin’i Davida, Solomona nanorina ny tempoly",
+   "q": "Ary ny taranakao sy ny fanjakanao hitoetra eo anatrehanao mandrakizay; ny seza fiandriananao hitoetra mandrakizay.",
+   "cite": "2 Samoela 7:16",
+   "christ": "Ny “seza fiandrianana mandrakizay” dia tanteraka ao amin’i Jesosy, zanak’i Davida — izany no iantsoana Azy hoe “Zanak’i Davida” (Lioka 1:32-33; Matio 1:1).",
+   "detail": "<p>Ny tampon’ny Isiraely, notapahin’ny mpanjaka telo.</p><ul><li><b>Saoly</b> · ny mpanjaka nangatahin’ny vahoaka; nanomboka tsara nefa simban’ny tsy fankatoavana.</li><li><b>Davida</b> · “lehilahy araka ny fon’Andriamanitra.” Naharesy an’i Goliata ary nanao an’i Jerosalema ho renivohitra. Nanao ota lehibe (Batseba) nefa nibebaka tamin’ny fo (Salamo 51).</li><li><b>Ny fanekena tamin’i Davida (2 Samoela 7)</b> · mampanantena Andriamanitra fa hampitoetra ny taranak’i Davida mandrakizay — ny fototra manapaka ny fanantenana ny Mesia.</li><li><b>Solomona</b> · teo an-tampon’ny fahendrena sy ny harena no nanorenany ny <b>tempoly</b>, saingy nivily nankamin’ny sampy izy taty aoriana.</li></ul>",
+   "next": "Taorian’i Solomona, nizara roa ny fanjakana…"
+  },
+  {
+   "tag": "TESTAMENTA TALOHA · FIHEMORANA",
+   "title": "Ny Fanjakana Mizara Roa",
+   "date": "930–586 tal. J.K.",
+   "one": "Mizara ho atsimo (Joda) sy avaratra (Isiraely), midina tsikelikely ho amin’ny fandringanana ny firenena.",
+   "people": "Ny mpanjaky ny fanjakana roa; mpaminany toa an’i Elia, Isaia, Jeremia",
+   "events": "Mizara ny fanjakana, miely ny fanompoan-tsampy, mampitandrina ny mpaminany",
+   "q": "Ka dia niodina tamin’ny taranak’i Davida ny Isiraely mandraka andro-any.",
+   "cite": "1 Mpanjaka 12:19",
+   "christ": "Tamin’izany vanim-potoana izany no nanambaran’ny mpaminany an’i Mesia ho avy mazava kokoa hatrany (Isaia 9:6; Isaia 53).",
+   "detail": "<p>Tamin’ny andron’ny zanak’i Solomona dia nizara ny firenena: <b>ny fanjakan’ny Isiraely avaratra</b> (foko 10, renivohitra Samaria) sy <b>ny fanjakan’ny Joda atsimo</b> (foko 2, renivohitra Jerosalema).</p><ul><li><b>Isiraely (avaratra)</b> · manompo sampy ny mpanjaka rehetra; lavo teo am-pelatanan’i Asyria tamin’ny 722 tal. J.K.</li><li><b>Joda (atsimo)</b> · mitohy ny taranak’i Davida, miaraka amin’ny mpanjaka tsara vitsivitsy toa an’i Hezekia sy Josia, saingy mihena amin’ny ankapobeny.</li><li><b>Ny mpaminany</b> · Elia, Amosa, Isaia, Jeremia miantso hoe “miverena!” Tonga amin’ny harena indrindra ny faminaniana momba ny Mesia eto (ny “mpanompo mijaly” ao amin’ny Isaia 53).</li></ul>",
+   "next": "Amin’ny farany dia tonga ny fitsarana nampitandremana — entina ho babo izy ireo…"
+  },
+  {
+   "tag": "TESTAMENTA TALOHA · FITSARANA",
+   "title": "Ny Fahababoana",
+   "date": "722 / 586 tal. J.K.",
+   "one": "Mirodana ny firenena ary entina ho any an-tany hafa ny vahoaka.",
+   "people": "Daniela, Ezekiela, Nebokadnezara",
+   "events": "Lavo teo am-pelatanan’i Asyria ny Isiraely (722), lavo teo am-pelatanan’i Babylona ny Joda ary rava ny tempoly (586)",
+   "q": "TEO amoron’ny onin’i Babylona no nipetrahanay, Sady nitomanianay, raha nahatsiaro an’i Ziona.",
+   "cite": "Salamo 137:1",
+   "christ": "Teo anatin’ny famoizam-po lalina dia nampanantena “fanekena vaovao” Jeremia (Jeremia 31:31) — ilay fanekena nasian’i Jesosy tombo-kase tamin’ny Fanasana Farany.",
+   "detail": "<p>Tanteraka ny fampitandremana. May ny tempoly ary entina any Babylona ny vahoaka — very ny tany, ny mpanjaka, ary ny tempoly: ny fara fietreny indrindra.</p><ul><li><b>Fianjerana roa</b> · Isiraely (Asyria, 722 tal. J.K.) sy Joda (Babylona, 586 tal. J.K.).</li><li><b>Daniela</b> · modely amin’ny finoana na dia teo amin’ny lapa mpanompo sampy aza (ny lavaky ny liona); nahita fahitana momba ny “fanjakana mandrakizay” ho avy.</li><li><b>Pitik’afon’ny fanantenana</b> · ny fahitan’i Ezekiela momba ny taolana maina velona indray (Ezekiela 37) sy ny “fanekena vaovao” nataon’i Jeremia dia manondro ny hoavy ao anatin’ny haizina.</li></ul>",
+   "next": "Fitopolo taona taty aoriana, nanokatra lalana Andriamanitra — mody an-tanindrazana izy ireo…"
+  },
+  {
+   "tag": "TESTAMENTA TALOHA · FAMERENANA AMIN’NY LAONY",
+   "title": "Ny Fiverenana",
+   "date": "538–430 tal. J.K.",
+   "one": "Miverina izy ireo ka manorina indray ny tempoly sy ny manda.",
+   "people": "Ezra, Nehemia, Estera, Zerobabela",
+   "events": "Fiverenana noho ny didin’i Kyrosy, fanorenana indray ny tempoly, famerenana ny mandan’i Jerosalema, famerenana ny Tenin’Andriamanitra",
+   "q": "fa ny fifaliana avy amin’i Jehovah no fiarovana mafy ho anareo.",
+   "cite": "Nehemia 8:10",
+   "christ": "Malakia, ny boky farany ao amin’ny Testamenta Taloha, dia mifarana amin’ny faminaniana iraka hanomana ny lalan’ny Mesia: “Haniraka ny irako Aho” (Malakia 3:1).",
+   "detail": "<p>Tamin’ny didin’i Kyrosy mpanjakan’i Persia (538 tal. J.K.) no nanombohan’ny fiverenana. Tamin’ny onja telo no niverenan’izy ireo ka nanorenany indray izay rava.</p><ul><li><b>Zerobabela</b> · nanorina indray ny tempoly (vita tamin’ny 516 tal. J.K.).</li><li><b>Ezra</b> · nampianatra indray ny Tenin’Andriamanitra ka namelona ny finoana.</li><li><b>Nehemia</b> · nanorina indray ny mandan’i Jerosalema tao anatin’ny 52 andro.</li><li><b>Estera</b> · namonjy ny Jiosy tany Persia tamin’ny fandringanana — “ho amin’izao fotoana izao.”</li><li><b>Mbola maniry ihany</b> · mijoro ny tempoly, saingy tsy misy mpanjaka toa an’i Davida. Miandry ny Mesia ny vahoaka.</li></ul>",
+   "next": "Ary avy eo… toy ny lanitra nangina, nandalo ny 400 taona."
+  },
+  {
+   "tag": "TENY ANELANELAN’NY TESTAMENTA · FANOMANANA NY SEHATRA",
+   "title": "Ny Taona Nangina",
+   "date": "tokony ho 430–4 tal. J.K.",
+   "one": "400 taona tsy nisy feon’ny mpaminany — nefa nomanina mangina ny sehatra.",
+   "people": "Aleksandra Lehibe, ny Makabeo, Roma",
+   "events": "Persia → Grika → fahaleovan-tena Makabeo → fanjakan’i Roma",
+   "q": "fa rehefa tonga ny fotoan’andro, dia nirahin’Andriamanitra ny Zanany, nateraky ny vehivavy, nateraka tao ambanin’ny lalàna,",
+   "cite": "Galatiana 4:4",
+   "christ": "Izany “fanomanana ny sehatra” rehetra izany dia asan’Andriamanitra mba hahatongavan’i Jesosy amin’ny “fotoana voafetra” marina.",
+   "detail": "<p>Manomboka amin’i Malakia ka hatramin’ny Testamenta Vaovao, tokony ho 400 taona no lasa tsy nisy Soratra Masina vaovao. Nefa tao ambadiky ny tantara dia nanomana ny lalan’ny filazantsara Andriamanitra.</p><ul><li><b>Mifandimby ny fanjakana</b> · Persia → Grika (Aleksandra, 333 tal. J.K.) → ny Ptolémée sy Séleucide → ny fikomian’ny Makabeo (167 tal. J.K.) → Roma (63 tal. J.K.).</li><li><b>Ny teny grika</b> · ny fandresen’i Aleksandra dia nahatonga ny teny grika ho fiteny iombonana; nadika tamin’ny teny grika ny Testamenta Taloha (ny Septanta), nanomana ny lalana hielezan’ny filazantsara haingana.</li><li><b>Ny lalan’i Roma sy ny fandriampahalemana</b> · ny lalana voaorina tsara sy ny “Pax Romana” dia tonga lalambe ho an’ny misiona.</li><li><b>Synagoga sy antoko</b> · niorina ny fampianarana tao amin’ny synagoga; nipoitra ny Fariseo sy ny Sadoseo; ary nahamasaka ny <b>faniriana ny Mesia</b>.</li></ul>",
+   "next": "Avy eo dia tapaka ny fanginana — amin’ny farany, tonga Izy."
+  },
+  {
+   "tag": "TESTAMENTA VAOVAO · FAHATANTERAHANA",
+   "title": "Tonga i Jesosy",
+   "date": "tokony ho 4 tal. J.K.–30 taor. J.K.",
+   "one": "Tonga ny Mesia nampanantenaina, maty, ary nitsangana tamin’ny maty.",
+   "people": "Jesosy, ny mpianatra roa ambin’ny folo, Jaona Mpanao Batisa",
+   "events": "Ny nahatongavany ho nofo, ny asany sy ny fampianarany ary ny fahagagana, ny fahafatesana teo amin’ny hazo fijaliana, ny nitsanganany tamin’ny andro fahatelo",
+   "q": "Ary ny Teny dia tonga nofo ka nonina tamintsika; ary hitanay ny voninahiny, dia voninahitra mendrika ho an’ny Lahitokana avy tamin’ny Ray, sady feno fahasoavana sy fahamarinana.",
+   "cite": "Jaona 1:14",
+   "christ": "Ny taranaky ny vehivavy (sehatra 2), ny fitahiana an’i Abrahama (3), ny zanak’ondry Paska (4), ny mpanjaka mandrakizain’i Davida (6), ny fanekena vaovao (8) — tanteraka avokoa ao amin’ny olona iray, Jesosy: ny tena Mpaminanintsika, Mpisorona, sy Mpanjaka.",
+   "detail": "<p>Tapaka ny fanginana; tonga Ilay nampanantenaina. Ny Filazantsara efatra dia manambara ny fiainan’i Jesosy, ny fahafatesany, ary ny fitsanganany tamin’ny maty avy amin’ny lafiny efatra.</p><ul><li><b>Nahatongavana ho nofo</b> · tonga olombelona Andriamanitra (Imanoela, “Andriamanitra momba antsika”), teo amin’ny toerana ambany tao Betlehema.</li><li><b>Asa fanompoana</b> · nampianatra ny fanjakan’Andriamanitra, nanasitrana ny marary, niantso ny mpanota. “Izay nahita Ahy dia nahita ny Ray.”</li><li><b>Ny hazo fijaliana</b> · nandoa ny vidin’ny ota sy ny fahafatesana nateraky ny Fahalavoana (sehatra 2). Ilay tena zanak’ondry Paska.</li><li><b>Fitsanganana tamin’ny maty</b> · nitsangana tamin’ny andro fahatelo, namaky ny herin’ny ota, ny fahafatesana, sy Satana — efa teo amin’ny hazo fijaliana izy “nesoriny tsy ho eo amin’ny tenany ny fanapahana sy ny fahefana … nasehony miharihary ny fitòndrany ireo” (Kolosiana 2:15).</li></ul><p>Koa Jesosy no <b>tena Mpaminanintsika</b> (maneho ny lalana mankany amin’Andriamanitra), <b>tena Mpisoronantsika</b> (manao fanavotana ny ota amin’ny vatany manokana), ary <b>tena Mpanjakantsika</b> (mandresy ny ota, ny fahafatesana, sy Satana ary manjaka mandrakizay).</p>",
+   "next": "Ny Jesosy nitsangana tamin’ny maty dia naniraka ny mpianany ho any amin’izao tontolo izao…"
+  },
+  {
+   "tag": "TESTAMENTA VAOVAO · FANITARANA",
+   "title": "Niorina ny Fiangonana",
+   "date": "tokony ho 30 taor. J.K.–",
+   "one": "Tonga ny Fanahy, ary miely mankany amin’ny faran’ny tany ny filazantsara.",
+   "people": "Petera, Paoly, ny fiangonana voalohany",
+   "events": "Naidina ny Fanahy tamin’ny Pentekosta, teraka ny fiangonana, niely avy any Jerosalema ka hatrany Roma ny filazantsara tamin’ny alalan’ny fanenjehana",
+   "q": "Fa hahazo hery hianareo amin’ny hilatsahan’ny Fanahy Masina aminareo, ary ho vavolombeloko any Jerosalema sy eran’i Jodia sy Samaria ary hatramin’ny faran’ny tany.",
+   "cite": "Asan’ny Apostoly 1:8",
+   "christ": "Mbola mitohy ity tantara ity. Mifarana amin’ny fampanantenana ny Baiboly fa hiverina i Jesosy ka hanavao ny zava-drehetra (Apokalypsy 21).",
+   "detail": "<p>Taorian’ny niakaran’i Jesosy, tonga ny Fanahy nampanantenaina tamin’ny Pentekosta ary teraka ny fiangonana. Niely faran’izay haingana ny filazantsara.</p><ul><li><b>Pentekosta</b> · ny Fanahy nanova ny mpianatra natahotra ho vavolombelona sahy.</li><li><b>Petera</b> · nitory ny filazantsara tamin’ny Jiosy tany Jerosalema.</li><li><b>Paoly</b> · avy amin’ny mpanenjika ho apostoly, namboly fiangonana manerana ny tany jentilisa ary nanoratra ny epistily.</li><li><b>Ka hatrany amin’ny faran’ny tany</b> · Jerosalema → Jodia → Samaria → Roma. Tanteraka ny fampanantenana tamin’i Abrahama momba ny “firenena rehetra.”</li><li><b>Ary isika</b> · tsy mifarana ny tantara; mandroso mankany amin’ny fiverenan’i Jesosy sy ny lanitra vaovao sy ny tany vaovao izy.</li></ul>",
+   "next": "Saingy tsy mifarana eto ny tantara…"
+  },
+  {
+   "tag": "TESTAMENTA VAOVAO · FAHATANTERAHANA FENO",
+   "title": "Famerenana amin’ny Laony",
+   "date": "Mbola ho avy",
+   "one": "Miverina i Jesosy ary manavao ny zava-drehetra.",
+   "people": "Ny Jesosy miverina; ny firenena rehetra",
+   "events": "Ny fiavian’ny faharoa, ny fitsarana farany, ny fiafaran’ny ota·fahafatesana·ranomaso, ny lanitra vaovao sy ny tany vaovao",
+   "q": "Ary hofafany ny ranomaso rehetra amin’ny masony; ary tsy hisy fahafatesana intsony, sady tsy hisy alahelo, na fitarainana, na fanaintainana; fa efa lasa ny zavatra taloha.",
+   "cite": "Apokalypsy 21:4",
+   "christ": "Ny Edena tamin’ny famoronana voalohany dia averina amin’ny laony amin’ny farany ho “Jerosalema Vaovao.” Onenan’Andriamanitra miaraka amin’ny vahoakany mandrakizay — ny hafenoan’ny Imanoela (Apokalypsy 21:3; Matio 1:23).",
+   "detail": "<p>Ny Baiboly dia tsy mifarana amin’ny vanim-potoanan’ny fiangonana. Ny bokiny farany, ny Apokalypsy, dia maneho an’i Jesosy <b>miverina</b> mba hahatanteraka ny zava-drehetra.</p><ul><li><b>Ny fiavian’ny faharoa</b> · ny mpanjaka nampanantenaina dia miverina amim-boninahitra.</li><li><b>Fandresena farany</b> · resy mandrakizay Satana sy ny fahafatesana, ary manjaka i Kristy ho Mpanjakan’ny mpanjaka (1 Korintiana 15:25-26; Apokalypsy 20:10).</li><li><b>Fitsarana sy fitsanganana amin’ny maty</b> · ahitsy ny tsy rariny rehetra, ary atsangana ny maty.</li><li><b>Lanitra vaovao sy tany vaovao</b> · levona mandrakizay ny ota, ny fahafatesana, ny ranomaso, ary ny fanaintainana (Apokalypsy 21:4).</li><li><b>Edena averina amin’ny laony</b> · ao amin’ny “Jerosalema Vaovao” tsara noho ny voalohany, dia onenan’Andriamanitra miaraka amin’ny vahoakany mandrakizay — ny tanjona nokendren’ny Baiboly manontolo.</li></ul><p>Koa ankehitriny dia vanim-potoanan’ny <b>“efa, nefa tsy mbola”</b>: ao amin’i Jesosy dia <b>efa</b> vita ny famonjena, nefa <b>mbola</b> andrasana ny fahatanterahany.</p>",
+   "next": "Koa inona no dikan’ity tantara manontolo ity ho ahy?"
+  }
+ ],
+ "love": [
+  "Ny tantara dia tsy manomboka amin’ny fitsarana fa amin’ny famoronana naidina tamin’ny fitiavana.",
+  "Tamin’ny fotoana nanotan’ny olona, dia nampanantena famonjena teo no ho eo Andriamanitra.",
+  "Andriamanitra no tonga voalohany tamin’ny lehilahy tsy mendrika, niantso azy tamin’ny anarany, ka nanao azy ho fitaovam-pitahiana.",
+  "Nandre ny fitarainan’ny vahoaka andevo Izy ka nidina mba hamonjy azy ireo ny tenany.",
+  "Nivadihana imbetsaka, nefa isaky ny mitaraina izy ireo dia naniraka mpamonjy ka nanarina azy.",
+  "Tsy nariany na dia i Davida lavo aza, ary tamin’ny alalany no nampanantenany Mpanjaka mandrakizay.",
+  "Tamin’ny vahoaka niamboho azy, dia mbola naniraka mpaminany Izy, niangavy hoe: “Miverena re.”",
+  "Niara-nidina taminy na dia hatrany amin’ny tany maizina indrindra tamin’ny fahababoana aza, ary nampanantena famerenana amin’ny laony.",
+  "Na dia tamin’ny vahoaka tsy nahomby imbetsaka aza, dia tsy nanaisotra ny fampanantenany Izy.",
+  "Na dia nandritra ny 400 taona nangina aza, dia nanomana mangina ny lalan’ny famonjena Izy.",
+  "Raha mbola mpanota isika, dia naniraka ny Zanany Izy hanolotra ny ainy.",
+  "Ny fitiavana noraisintsika dia alefany mikoriana ankehitriny ho an’izao tontolo izao manontolo.",
+  "Amin’ny farany dia hamafa ny ranomaso rehetra Izy ka hanavao ny zava-drehetra amin’ny fitiavana."
+ ],
+ "mis": [
+  {
+   "w": "“Nahoana Andriamanitra no nanao olona afaka manota? Tsy aleo ve tsy nanao antsika mihitsy?”",
+   "t": "Andriamanitra dia tsy namorona izao tontolo izao sy ny olona noho ny tsy fahampiana fa noho ny fitiavana mihoa-pampana. Ny manao ny olona ho <b>olona mifandray amin’Andriamanitra</b> dia efa fitiavana ihany. Ary na dia ny fidiran’ny ota aza dia tsy ivelan’ny drafi-pamonjen’Andriamanitra (Efesiana 1:4-5). Ny sehatra voalohany ao amin’ny Baiboly dia tsy fitsarana fa fitiavana."
+  },
+  {
+   "w": "“Noroahina sy nomena fahafatesana noho ny nihinanana voankazo iray monja — moa tsy henjana loatra ve Andriamanitra?”",
+   "t": "Ny nandroahana azy tao Edena dia sady fitsarana no famindram-po. Ny mihinana ny hazon’aina ka ho velona mandrakizay ao amin’izany toetra simba tafasaraka amin’Andriamanitra izany dia ho voafandrika ao amin’ny fijaliana mandrakizay (Genesisy 3:22). Ny famelana ny fahafatesana dia nanokatra ny lalana hiverenana, ary teo no ho eo Andriamanitra dia nampanantena Mpamonjy (Genesisy 3:15). Efa tao anatin’ny fitsarana ny fitiavana."
+  },
+  {
+   "w": "“Voafidy i Abrahama satria nanana finoana lehibe — moa ve ny olona rehetra ao amin’ny Baiboly tsy mahery fo ara-pitondran-tena?”",
+   "t": "Nandainga sy nisalasala i Abrahama; mpamitaka i Jakoba. Andriamanitra dia tsy niantso olona “mendrika” fa olona feno tsiny, tamin’ny fahasoavana. Ny antony dia tsy ny hatsaran’izy ireo fa ny fitiavana mahatoky an’Andriamanitra (Deoteronomia 7:7-8)."
+  },
+  {
+   "w": "“Tsy fitsapana tsy maintsy lalovana mba ho voavonjy ve ny Lalàna (ny Didy)?”",
+   "t": "Namonjy azy ireo Andriamanitra <b>talohan’</b>ny nanomezana ny Lalàna. Na dia ny Didy Folo aza dia manomboka amin’ny fanambarana famonjena: “Izaho no Jehovah Andriamanitrao, Izay nitondra anao nivoaka avy tany amin’ny tany Egypta” (Eksodosy 20:2). Ny Lalàna dia tsy hoe “tandremo mba ho voavonjy,” fa torolalana feno fitiavana momba ny fomba fiainan’ny vahoaka efa voavonjy (Deoteronomia 7:7-9). Ny fahasoavana foana no aloha; ny fankatoavana no valiny."
+  },
+  {
+   "w": "“Famonoana olona tsy nisy indrafo ny fandresena an’i Kanana — koa lozabe tokoa ny Andriamanitry ny Testamenta Taloha.”",
+   "t": "Lohahevitra sarotra tsy voavaha amin’ny fehezanteny iray ity. Saingy ny Baiboly dia tsy maneho izany ho herisetra tsy antony fa ho fitsarana taorian’ny taonjato maro nandeferana tamin’ny faharatsiana tafahoatra (anisan’izany ny fanaterana zaza ho fanatitra) (Genesisy 15:16; Deoteronomia 9:4-5; Levitikosy 18:24-25). Tsy maika hitsara akory Andriamanitra, ary nandray an-kafaliana izay nitodika taminy Izy — na dia vahiny aza toa an’i Rahaba sy Rota (Josoa 6:25; Rota 4:13-17)."
+  },
+  {
+   "w": "“Mpahery fo tsy nanan-tsiny i Davida — izany no niantsoana azy hoe ‘lehilahy araka ny fon’Andriamanitra.’”",
+   "t": "Nijangajanga ary nahavita namono olona aza i Davida. Ny “lehilahy araka ny fon’Andriamanitra” dia tsy midika hoe tsy nanan-tsiny, fa olona tsy nanafina ny otany — nibebaka tanteraka ka niverina tamin’Andriamanitra hatrany (Salamo 51). Ny fitiavan’Andriamanitra dia tsy manary na dia izay lavo mafy aza."
+  },
+  {
+   "w": "“Mpisikidy maminany ny ho avy ny mpaminany / fahatezerana avokoa ny Andriamanitry ny Testamenta Taloha.”",
+   "t": "Ny fon’ny mpaminany dia tsy “faminaniana ny ho avy” fa ny fitalahoan’Andriamanitra mangidy hoe: “Miverena re.” Na dia ny fampitandremana ny fitsarana aza dia tsy mikendry handrava fa hampiova ny olona ka hamonjy azy — “Tsy sitrako ny hahafatesan’ny ratsy fanahy” (Ezekiela 33:11)."
+  },
+  {
+   "w": "“Manaporofo ny fahababoana fa nahafoy tanteraka ny Isiraely Andriamanitra.”",
+   "t": "Ny fahababoana dia tsy fahafoizana fa fananarana sy fanadiovana ho an’ny zanaka malala (Hebreo 12:6). Tsy nandao Andriamanitra; niaraka tamin’i Daniela teo afovoan’ny fahababoana Izy ary nampanantena hoe: “Izaho mahalala ny hevitra iheverako anareo … dia hevitra hahatonga fiadanana, fa tsy loza, mba hanome anareo fanantenana ny amin’ny farany” (Jeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Tsy nisy teny nandritra ny 400 taona, ka lasa Andriamanitra na nitsahatra.”",
+   "t": "Ny fanginana dia tsy fialana. Tsy niteny fotsiny Izy, nefa nandritra izany fotoana izany dia nampihetsika ny fanjakana, ny fiteny, sy ny lalana mba hanomana ny sehatry ny famonjena. Tamin’ny fotoana nangina indrindra, dia niasa mafy indrindra Andriamanitra, tamin’ny fitiavana (Galatiana 4:4)."
+  },
+  {
+   "w": "“Mpampianatra tsara momba ny fitondran-tena iray monja i Jesosy / faharesena nampalahelo ny hazo fijaliana.”",
+   "t": "Nilaza ny tenany ho Andriamanitra i Jesosy (Jaona 8:58), ary ny hazo fijaliana dia tsy kisendrasendra na faharesena fa fitiavana voadrafitra. Tsy nentina an-keriny Izy; nanolotra ny ainy ny tenany (Jaona 10:18). “Tsy misy manana fitiavana lehibe noho izao, dia ny manolotra ny ainy hamonjy ny sakaizany” (Jaona 15:13)."
+  },
+  {
+   "w": "“Fikambanana ho an’ny olona tonga lafatra ny fiangonana, na trano fotsiny ihany.”",
+   "t": "Ny fiangonana dia tsy fiombonan’ny “olo-masina vita” fa <b>mpanota voavela heloka</b>. Na dia i Paoly apostoly aza dia nilaza ny tenany ho anisan’ny mpanota: “amin’ireny izaho no lohany” (1 Timoty 1:15). Niady hevitra sy nahadiso koa ny fiangonana voalohany (Asan’ny Apostoly 6:1; 1 Korintiana 1:11). Tsy toerana hireharehana izy io, fa olona mampita ny fitiavana noraisiny (Jaona 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Ny ota nolovaina — tsy misy marina",
+   "body": "Ny olana dia tsy “asa ratsy vitsivitsy” fa ny fakan’ny fo. Hatramin’i Adama, ny olona rehetra dia teraka ambanin’ny ota ka tsy afaka mahatratra an’Andriamanitra samirery.",
+   "vref": "Romana 3:10-12, 23",
+   "vtext": "Tsy misy marina na dia iray akory aza … fa samy efa nanota izy rehetra ka tsy manana ny voninahitra avy amin’Andriamanitra."
+  },
+  {
+   "title": "Tsy afaka mamonjy ahy ny Lalàna",
+   "body": "Ny Lalàna dia tsy tohatra fa fitaratra. Arakaraka ny iezahanao no mampiseho bebe kokoa ny halehiben’ny tsy fahatratranao. Ny tanjony dia ny hitarika antsika ho amin’i Kristy.",
+   "vref": "Romana 3:20 · Galatiana 3:24",
+   "vtext": "Ny lalàna no ahazoana ny fahalalana marina ny amin’ny ota … Ny lalàna dia mpitaiza antsika ho amin’i Kristy."
+  },
+  {
+   "title": "Amin’ny fahasoavana — fanomezana, fa tsy ezaka",
+   "body": "Ny famonjena dia tsy karama noho ny fahamendrehana azonao, fa fanomezana maimaim-poana ho an’izay tsy mendrika azy. Koa tsy misy afaka mirehareha.",
+   "vref": "Efesiana 2:8-9",
+   "vtext": "Fahasoavana no namonjena anareo amin’ny finoana … tsy avy amin’ny asa, fandrao hisy hirehareha."
+  },
+  {
+   "title": "Hamarinina amin’ny finoana",
+   "body": "Tsy amin’ny fitandremana ny Lalàna, fa amin’ny finoana an’i Jesosy Kristy, no isainana anao ho marina — mitafy tsy ny fahamarinanao manokana fa ny Azy.",
+   "vref": "Romana 5:1 · Galatiana 2:16",
+   "vtext": "Satria efa nohamarinina tamin’ny finoana isika … tsy hamarinina amin’ny asan’ny lalàna ny olona, fa amin’ny finoana an’i Jesosy Kristy."
+  },
+  {
+   "title": "Ny Baiboly manondro an’i Jesosy",
+   "body": "Ny Baiboly dia tsy bokin’ny olo-malaza na fanampiana ny tena. Hatramin’ny Genesisy ka hatramin’ny Apokalypsy, ny pejy tsirairay dia manambara olona iray — Jesosy Kristy.",
+   "vref": "Jaona 5:39 · Lioka 24:27",
+   "vtext": "Ireny no manambara Ahy … nanambara taminy ny hevitry ny teny milaza Azy ao amin’ny Soratra Masina rehetra."
+  },
+  {
+   "title": "Ny fanjakan’Andriamanitra — ny hafatra ivon’i Jesosy",
+   "body": "Ny lohahevitra nampianarin’i Jesosy indrindra. Ny fanjakana izay anjakan’Andriamanitra ho Mpanjaka dia niditra teto amin’izao tontolo izao niaraka tamin’i Jesosy ary ho tanteraka rehefa miverina Izy. Amin’ny alalan’ny hazo fijaliany sy ny fitsanganany, Jesosy no tena Mpanjaka nandresy ny ota, ny fahafatesana, sy Satana.",
+   "vref": "Marka 1:15",
+   "vtext": "Efa tonga ny fotoana, ka efa akaiky ny fanjakan’Andriamanitra; mibebaha hianareo ka minoa ny filazantsara."
+  },
+  {
+   "title": "Ny filazantsara — vitany avokoa ny zava-drehetra",
+   "body": "Ny vidin’ny ota izay tsy ho voaloako mihitsy, dia naloan’i Jesosy ho solony teo amin’ny hazo fijaliana, ary tamin’ny fitsanganany dia nandresy ny fahafatesana Izy. Tsy miankina amin’ny “ataovy ity” aho fa amin’ny “vita.”",
+   "vref": "Jaona 19:30 · Romana 5:8",
+   "vtext": "Vita … Andriamanitra mampiseho ny fitiavany antsika, fa fony mbola mpanota isika, dia maty hamonjy antsika Kristy."
+  }
+ ]
+}

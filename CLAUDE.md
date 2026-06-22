@@ -120,7 +120,10 @@ banner + `s["respond.read"]` (John button). First case = **ff (Fula)**.
 auto-derived on the site from `LANGS` (build-pages fills the meta) — don't hand-maintain a number here.
 The long-term goal (see README) is
 every living language (~7,396). Most languages with 5M+ speakers and a full YouVersion OT are done; the
-remaining large ones generally lack a full OT on YouVersion. Excluded for lack of a usable
-YouVersion text edition (recorded so we don't retry): ky, tet, kmr, mg, ps, et, yue, bm, bho (audio-only — no text).
+remaining large ones generally lack a full OT on YouVersion. Held / not addable (recorded so we don't retry):
+bho (audio-only — no text), bm (no YV language page), yue (only the 1915 romanized edition — no Han NT).
+NT-only-on-YV editions are addable in **partial mode** (like ff): ky (NT+Genesis), tet, et. Note: **Malagasy is
+YouVersion code `plt`** (id 873, full Bible — the old `mg` exclusion was a code mismatch); **kmr** (id 251) is a
+full Bible despite its "Încîl" (NT) name.
 `fetch-verse.mjs` reads both YouVersion reader formats (old verse-page `__NEXT_DATA__` + new chapter
 `chapterInfo.content` `data-usfm` parser), so "new format" alone no longer blocks a language.
