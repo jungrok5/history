@@ -1,6 +1,6 @@
 ---
 name: add-language
-description: "Add a new language to the site (Bible in One Scroll) with nothing missed: write the i18n pack → integrate (hreflang/LANGS/YV/BOOKS/BOOKOPT/build-pages/QR) → build → validate → audit links → native review → deploy. Use when asked to add or improve a translation / add a new language (\"언어 추가\", \"새 언어\", \"번역 추가\", \"add a language\", \"translate to X\")."
+description: "Add a new language to the site (Bible in One Scroll) with nothing missed: write the i18n pack → integrate (writes books/yv/bookopt into the pack; patches hreflang/LANGS + build-pages/QR) → build → validate → audit links → native review → deploy. Use when asked to add or improve a translation / add a new language (\"언어 추가\", \"새 언어\", \"번역 추가\", \"add a language\", \"translate to X\")."
 ---
 
 # Add-language skill
@@ -118,8 +118,8 @@ node .claude/skills/add-language/lib/audit-links.mjs <code>       # display↔US
 node .claude/skills/add-language/lib/verify-verbatim.mjs <code>   # quotes (epoch q · core vtext) — target CLEAN
 node .claude/skills/add-language/lib/verify-inline.mjs <code>     # inline quotes in body (christ/detail/mis/faq/respond.verse/closing.verse/gospel.crux), EN baseline
 ```
-- **verify-verbatim needs no config file**: it reads book names + YV from the deployed `index.html`
-  (`BOOKS.<code>`/`YV`) and compares against fetch-verse raw text (case/quotes/punctuation/ZW/teʿamim
+- **verify-verbatim needs no config file**: it reads the link infra from `index.html` and registers the pack's
+  `books`/`yv` (same as the runtime doApply), then compares against fetch-verse raw text (case/quotes/punctuation/ZW/teʿamim
   normalized). **A FLAG means a likely paraphrase/omission** → re-fetch the verse and fix it verbatim
   yourself. (Run it as the final gate even if the drafting agent self-checked.)
   - Common benign FLAGs: ① a quote skips mid-sentence without `…` → add the `…` (or restore text);
@@ -218,6 +218,15 @@ by its own ref's availability, **not** a blanket OT-off:
 - Same per-ref test for inline OT quotes (e.g. `epoch[2].detail` GEN.50.20: keep verbatim if Genesis is present).
 - Example: **ky (Kyrgyz КЫРИ 2328)** = NT + **Genesis + Judges** → ep0/1/2 (GEN) & ep4 (JDG) get real quotes;
   ep3/5/6/7/8 (Exo/2Sa/1Ki/Psa/Neh absent) stay summary+empty-cite. BOOKS.ky carries Genesis & Judges + the NT books.
+
+## Language decisions log (update HERE, never in CLAUDE.md)
+So we don't re-investigate, and so adding a language never edits CLAUDE.md. The live language *list/count* is
+auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
+- **Held / not addable** (recorded so we don't retry): bho (audio-only — no text), bm (no YV language page),
+  yue (only the 1915 romanized edition — no Han NT).
+- **Partial-mode**: done = ff, **ky** (NT+Genesis+Judges richer-partial). Remaining candidates = tet, et (NT-only on YV).
+- **YouVersion code/version gotchas**: Malagasy = code `plt` (id 873, full Bible — the old `mg` exclusion was a code
+  mismatch); kmr (id 251) is a full Bible despite its "Încîl" (NT) name.
 
 ## Recurring-trap digest (things actually hit — check these first on every new language)
 > A new trap usually appears with each new language. When you hit a new one, add it here so the next

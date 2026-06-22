@@ -124,13 +124,9 @@ its own ref's availability — present-book epochs keep real verbatim `q`+`cite`
 ## Current status
 100+ languages (mostly full mode + a few partial like ff), ~90% population reach. The exact count is
 auto-derived on the site from `LANGS` (build-pages fills the meta) — don't hand-maintain a number here.
-The long-term goal (see README) is
-every living language (~7,396). Most languages with 5M+ speakers and a full YouVersion OT are done; the
-remaining large ones generally lack a full OT on YouVersion. Held / not addable (recorded so we don't retry):
-bho (audio-only — no text), bm (no YV language page), yue (only the 1915 romanized edition — no Han NT).
-NT-only-on-YV editions are addable in **partial mode** (like ff; **ky** = NT+Genesis+Judges richer-partial, **done**);
-remaining candidates: tet, et. Note: **Malagasy is
-YouVersion code `plt`** (id 873, full Bible — the old `mg` exclusion was a code mismatch); **kmr** (id 251) is a
-full Bible despite its "Încîl" (NT) name.
+The long-term goal (see README) is every living language (~7,396). Most languages with 5M+ speakers and a
+full YouVersion OT are done; the remaining large ones generally lack a full OT on YouVersion (still addable in
+**partial mode**). **Per-language decisions (held/not-addable, partial-mode candidates, YouVersion code/version
+gotchas) live in SKILL.md's "Language decisions log" — update there, never here, so adding a language never edits this file.**
 `fetch-verse.mjs` reads both YouVersion reader formats (old verse-page `__NEXT_DATA__` + new chapter
 `chapterInfo.content` `data-usfm` parser), so "new format" alone no longer blocks a language.
