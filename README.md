@@ -38,6 +38,19 @@ The site auto-detects the browser/OS language and lets you switch via the 🌐 s
 
 Scripture uses each language's representative official translation — Korean Revised Version, ESV, 和合本, 新共同訳, RVR1960, Almeida, Louis Segond, Lutherbibel, Синодальный, Van Dyck, Tanakh (Delitzsch), Огієнко and more. Tapping a reference opens that language's Bible (mostly [YouVersion](https://www.bible.com)).
 
+## How we handle Scripture — including the long tail
+The one rule we never break: **we never invent or self-translate a verse.** Every quoted verse is **verbatim from an official published translation** — pulled from the real Bible (mostly YouVersion) and checked character-by-character. The surrounding prose (storyline, explanations, the prayer) *is* translated per language and natively reviewed, but anything shown in quotation marks as Scripture is the official text, untouched.
+
+So when a language has no complete Bible, we respond in tiers — never by fabricating Scripture:
+
+1. **Quote what exists, verbatim.** Many languages have the New Testament (sometimes part of the Old). Those passages are quoted directly. *Example: Kyrgyz has the NT + Genesis + Judges, so the Creation / Fall / Promise and Judges scenes use real Kyrgyz Scripture.*
+2. **Substitute a NT verse for a missing OT one.** Where an Old-Testament key verse isn't available, we use a New-Testament verse that carries the same truth (e.g. Isaiah 53:5 → 1 Peter 2:24) — still verbatim — and otherwise tell that scene as an **unquoted summary** with its reference left empty (no broken link).
+3. **Widen the trusted sources / use open Scripture.** "Not on YouVersion" ≠ "no text exists." Other trusted, openly-licensed sources can be added (eBible.org, the Digital Bible Library / api.bible, unfoldingWord / Door43), and **Open Bible Stories** (Creation→Restoration, CC-licensed in hundreds of languages) maps onto this site's structure almost exactly.
+4. **Bridge language where there is no Scripture at all.** Speakers of an unwritten or yet-unreached language can usually read a regional or national language. There the **storyline and gospel are translated into the mother tongue** (prose, not Scripture) while the **quoted verses are shown in that bridge language**, linked to its Bible and clearly labeled.
+5. **Otherwise, defer honestly.** If none of the above is possible yet, the language is marked *coming soon* and recorded, to be revisited as translations and sources appear. **A faithful "not yet" beats a fabricated verse.**
+
+Tiers 3–5 are still being built out; today most languages are full mode (1), with a few in partial mode (1 + 2, e.g. Kyrgyz, Fula).
+
 ## Perspective
 Based on the **evangelical · Reformed redemptive-historical** view shared by most of the Korean Protestant church. (This is pre–formal-review material; please check with your pastor or denominational resources before relying on it.)
 
