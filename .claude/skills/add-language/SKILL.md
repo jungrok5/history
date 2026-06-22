@@ -10,7 +10,7 @@ Procedure to add one language **with nothing missed**. Helpers live in
 fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review-prompt · config.example.json).
 **Run every command from the repo root.** **Setup (once):** `npm install` (installs `qrcode` for make-qr). The repo is LF-normalized via `.gitattributes`, so these Node tools run identically on Windows and Linux.
 
-> Core principle (CLAUDE.md): evangelical · Reformed redemptive-historical view. Scripture is quoted
+> Core principle (AGENTS.md): evangelical · Reformed redemptive-historical view. Scripture is quoted
 > **verbatim from each language's official translation**. For every language except ko, FAQ q3/a3 must
 > reference **no specific film or event**. Rom 12:19 = "vengeance belongs to God" (not a justification of revenge).
 
@@ -29,7 +29,7 @@ fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review
      `__NEXT_DATA__` content) and then the new format (chapter `chapterInfo.content` `data-usfm` parser),
      so both reader formats are covered. If it's still empty the edition is **audio-only** (e.g. bho3621 =
      "available in audio format") or otherwise has no text → **hold it**; use a text edition of the same language if one exists.
-   - **No language page / no full-OT edition at all → exclude** (recorded in CLAUDE.md: ky·tet·kmr·mg·ps·et·yue·bm etc.).
+   - **No language page / no full-OT edition at all → exclude** (record it in this SKILL.md's *Language decisions log*).
 3. **Script type** → font / digits:
    - Latin/Cyrillic (ru·mn type): default Noto, `font=null`, ASCII digits.
    - Devanagari (hi·ne) / Arabic (ar) / Thai / CJK / Khmer / Myanmar / Geʽez / Armenian / Georgian /
@@ -169,9 +169,9 @@ node .claude/skills/add-language/lib/verify-inline.mjs <code>     # inline quote
   **positive-intent slot** are a red flag.
 
 ## 7. Commit (work branch)
-- **Do NOT edit CLAUDE.md when adding a language.** The language list/codes are in `LANGS` (index.html);
+- **Do NOT edit AGENTS.md when adding a language.** The language list/codes are in `LANGS` (index.html);
   per-language verse data (`books`/`yv`/`bookopt`) lives in the `i18n/<code>.json` pack. Duplicating any of
-  it in CLAUDE.md caused a merge conflict on every PR. Only put a genuinely new cross-cutting gotcha into this SKILL.md.
+  it in AGENTS.md caused a merge conflict on every PR. Only put a genuinely new cross-cutting gotcha into this SKILL.md.
 - A language addition commits: `i18n/<code>.json` (content **+ its `books`/`yv`/`bookopt`**), the `index.html`
   edits (**hreflang/LANGS only**), `tools/build-pages.mjs` LANGS, `qr-<code>.png`, and any refreshed `i18n/en.json` / `sw.js` stamp /
   `og.png`. It does **not** commit `<code>/index.html`, `sitemap.xml`, or `llms.txt` (gitignored — Vercel
@@ -219,8 +219,8 @@ by its own ref's availability, **not** a blanket OT-off:
 - Example: **ky (Kyrgyz КЫРИ 2328)** = NT + **Genesis + Judges** → ep0/1/2 (GEN) & ep4 (JDG) get real quotes;
   ep3/5/6/7/8 (Exo/2Sa/1Ki/Psa/Neh absent) stay summary+empty-cite. BOOKS.ky carries Genesis & Judges + the NT books.
 
-## Language decisions log (update HERE, never in CLAUDE.md)
-So we don't re-investigate, and so adding a language never edits CLAUDE.md. The live language *list/count* is
+## Language decisions log (update HERE, never in AGENTS.md)
+So we don't re-investigate, and so adding a language never edits AGENTS.md. The live language *list/count* is
 auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
 - **Held / not addable** (recorded so we don't retry): bho (audio-only — no text), bm (no YV language page),
   yue (only the 1915 romanized edition — no Han NT).
@@ -284,5 +284,5 @@ git change when bytes are identical (normal). Editing index.html inline JS re-de
 - [ ] validate ✓ · audit-links missed 0 · anchors OK · **verify-verbatim CLEAN** · **verify-inline flags
       triaged** (inline quotes, EN baseline) · **verify-prose flags triaged** (POLARITY first; fix only real reversals/omissions)
 - [ ] native review (run a per-language agent via `lib/native-review-prompt.md`, report only) → apply real fixes yourself (0 divergences)
-- [ ] **Do NOT edit CLAUDE.md** — only add a genuinely new gotcha to this SKILL.md's digest
+- [ ] **Do NOT edit AGENTS.md** — only add a genuinely new gotcha to this SKILL.md's digest
 - [ ] commit & push (work branch) → (with permission) deploy to main → live check

@@ -8,7 +8,7 @@ The goal of **Bible in One Scroll** is to carry the Bible's big picture and the 
 
 ## Two rules (this is the whole job)
 1. **Bible quotes are verbatim.** Copy them from your language's official translation (e.g. on [YouVersion](https://www.bible.com)). Never paraphrase or re-translate Scripture.
-2. **Keep the keys, HTML tags and structure.** Translate only the *values* (the sentences). Don't rename keys or remove `<b>`, `<p>`, `<br>`, etc.
+2. **Keep the keys, HTML tags and structure.** Translate only the *values* (the sentences). Don't rename keys or remove `<b>`, `<p>`, `<br>`, etc. *(If a pack already has `books` / `yv` / `bookopt` fields, leave them untouched — they're auto-generated verse-link data the maintainer's tooling manages.)*
 
 Everything below is just *how*.
 
