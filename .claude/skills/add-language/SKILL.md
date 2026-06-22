@@ -208,6 +208,16 @@ shipping → add it.
 - BOOKS holds NT books only (no OT names → any stray OT mention stays plain text).
 - First case = **ff (Fula)**. Clone this shape for any new partial language.
 
+**Per-epoch OT availability (richer partial)** — an otherwise-partial edition may include *some* OT books.
+At gate 0, run fetch-verse over **every** OT epoch ref (not just Isa/Psa), e.g. for the 9 OT epochs
+`GEN.1.1,GEN.3.15,GEN.12.2,EXO.6.7,JDG.21.25,2SA.7.16,1KI.12.19,PSA.137.1,NEH.8.10` — then handle each epoch
+by its own ref's availability, **not** a blanket OT-off:
+- ref **present** → real **verbatim** `q` + real `cite` (and add that OT book to BOOKS so it links). Treat exactly like full mode for that epoch.
+- ref **absent** → `cite=""` + unquoted summary `q` (the partial rule above).
+- Same per-ref test for inline OT quotes (e.g. `epoch[2].detail` GEN.50.20: keep verbatim if Genesis is present).
+- Example: **ky (Kyrgyz КЫРИ 2328)** = NT + **Genesis + Judges** → ep0/1/2 (GEN) & ep4 (JDG) get real quotes;
+  ep3/5/6/7/8 (Exo/2Sa/1Ki/Psa/Neh absent) stay summary+empty-cite. BOOKS.ky carries Genesis & Judges + the NT books.
+
 ## Recurring-trap digest (things actually hit — check these first on every new language)
 > A new trap usually appears with each new language. When you hit a new one, add it here so the next
 > session doesn't step on it.
