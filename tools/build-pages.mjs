@@ -145,6 +145,7 @@ const LANGS = [
   { code:'dwr',    dir:'ltr', locale:'dwr_ET' },
   { code:'bho',    dir:'ltr', locale:'bho_IN' },
   { code:'ctg',    dir:'ltr', locale:'ctg_BD' },
+  { code:'bal',    dir:'rtl', locale:'bal_PK' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
@@ -192,6 +193,7 @@ const FONT_TITLE = {
   'pa':'Noto Serif Gurmukhi, serif',
   'ta':'Noto Serif Tamil, serif',
   'fa':'Noto Naskh Arabic, serif',
+  'bal':'Noto Naskh Arabic, serif',
   'lo':'Noto Serif Lao, serif',
   'si':'Noto Serif Sinhala, serif',
   'bn':'Noto Serif Bengali, serif',
@@ -229,6 +231,7 @@ const FONT_SUB = {
   'pa':'Noto Sans Gurmukhi, sans-serif',
   'ta':'Noto Sans Tamil, sans-serif',
   'fa':'Noto Sans Arabic, sans-serif',
+  'bal':'Noto Sans Arabic, sans-serif',
   'lo':'Noto Sans Lao, sans-serif',
   'si':'Noto Sans Sinhala, sans-serif',
   'bn':'Noto Sans Bengali, sans-serif',
@@ -311,18 +314,33 @@ function getInner(html, key){
   return n ? html.slice(n.openEnd+1, n.close) : '';
 }
 
+// ---- OBS 모드(성경 번역본 없는 언어: Open Bible Stories 콘텐츠) ----
+// index.html 의 EP_OBS 와 동일해야 함(13시대 ↔ 대표 OBS 스토리).
+const EP_OBS = [1,2,4,12,16,17,18,20,20,21,23,43,50];
+const obsRepoOf = pack => (pack && typeof pack.yv === 'string' && pack.yv.indexOf('obs:') === 0) ? pack.yv.slice(4) : null;
+const obsUrl = (repo, story) => `https://door43.org/u/${repo}/master/${('0'+story).slice(-2)}.html`;
+
 // ---- 본문 프리렌더 (런타임 renderEpochs/renderCore와 동일 구조) ----
 function epochsHtml(pack){
   const u = pack.ui, ver = u.version ? (' '+u.version) : '';
+  const repo = obsRepoOf(pack);
   return pack.epochs.map((e,i)=>{
     const v = EPOCHS[i], mis = pack.mis[i];
     const misHtml = mis ? `<div class="myth"><div class="m-row"><span class="m-tag wrong">${u.mythWrong}</span><p>${mis.w}</p></div><div class="m-row"><span class="m-tag right">${u.mythRight}</span><p>${mis.t}</p></div></div>` : '';
-    return `<section class="epoch" id="s${i+1}" data-sc="${i+1}" data-title="${esc(e.title)}" data-label="${esc(e.title)}" style="--c1:${v.c1};--c2:${v.c2}"><div class="glow"></div><div class="wrap"><div class="ep-inner"><div class="txt"><div class="ep-icon">${v.emoji}</div><div class="badge"><span class="num">${i+1}</span><span class="tag">${e.tag}</span><span class="date">${e.date}</span><button class="ep-share" data-sc="${i+1}" aria-label="Share" title="Share">↗</button></div><h2>${e.title}</h2><div class="oneline">${e.one}</div><div class="meta"><div class="meta-row"><span class="k">${u.people}</span><p class="vv">${e.people}</p></div><div class="meta-row"><span class="k">${u.events}</span><p class="vv">${e.events}</p></div></div><div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite?e.cite+ver:''}</div></div><div class="thread-line"><p class="note-h"><span class="note-i">🧵</span><b>${u.christLabel}</b></p><p class="note-b">${e.christ}</p></div><div class="love-note"><p class="note-h"><span class="note-i">💛</span><b>${u.loveLabel}</b></p><p class="note-b">${pack.love[i]}</p></div>${misHtml}<details class="more"><summary><span class="arr">▸</span> ${u.more}</summary><div class="body">${e.detail}</div></details><div class="next">${e.next}</div></div></div></div></section>`;
+    const cite = e.cite ? (repo ? `<a class="vlink" href="${obsUrl(repo,EP_OBS[i])}" target="_blank" rel="noopener">${e.cite}</a>` : e.cite+ver) : '';
+    return `<section class="epoch" id="s${i+1}" data-sc="${i+1}" data-title="${esc(e.title)}" data-label="${esc(e.title)}" style="--c1:${v.c1};--c2:${v.c2}"><div class="glow"></div><div class="wrap"><div class="ep-inner"><div class="txt"><div class="ep-icon">${v.emoji}</div><div class="badge"><span class="num">${i+1}</span><span class="tag">${e.tag}</span><span class="date">${e.date}</span><button class="ep-share" data-sc="${i+1}" aria-label="Share" title="Share">↗</button></div><h2>${e.title}</h2><div class="oneline">${e.one}</div><div class="meta"><div class="meta-row"><span class="k">${u.people}</span><p class="vv">${e.people}</p></div><div class="meta-row"><span class="k">${u.events}</span><p class="vv">${e.events}</p></div></div><div class="verse"><div class="q">${e.q}</div><div class="cite">${cite}</div></div><div class="thread-line"><p class="note-h"><span class="note-i">🧵</span><b>${u.christLabel}</b></p><p class="note-b">${e.christ}</p></div><div class="love-note"><p class="note-h"><span class="note-i">💛</span><b>${u.loveLabel}</b></p><p class="note-b">${pack.love[i]}</p></div>${misHtml}<details class="more"><summary><span class="arr">▸</span> ${u.more}</summary><div class="body">${e.detail}</div></details><div class="next">${e.next}</div></div></div></div></section>`;
   }).join('');
 }
 function coreHtml(pack){
   const ver = pack.ui.version ? (' '+pack.ui.version) : '';
-  return pack.core.map((c,idx)=>`<div class="core reveal"><div class="ic">${CORE[idx].ic}</div><h3>${c.title}</h3><p>${c.body}</p><div class="v">“<em>${c.vtext}</em>” — ${c.vref}${ver}</div></div>`).join('');
+  return pack.core.map((c,idx)=>`<div class="core reveal"><div class="ic">${CORE[idx].ic}</div><h3>${c.title}</h3><p>${c.body}</p>${c.vtext?`<div class="v">“<em>${c.vtext}</em>” — ${c.vref}${ver}</div>`:''}</div>`).join('');
+}
+// OBS 출처/라이선스 배너(정적 baking — no-JS·크롤러도 CC BY-SA 출처표시 보이게)
+function obsBannerHtml(pack){
+  const repo = obsRepoOf(pack); if (!repo) return null;
+  const v = (pack.s && (pack.s['bridge.note'] || pack.s['partial.note'])) || '';
+  if (!v) return null;
+  return `${v} <a href="${obsUrl(repo,1)}" target="_blank" rel="noopener">Open Bible Stories</a> · © unfoldingWord · <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>`;
 }
 
 // ---- 구조화 데이터(JSON-LD): WebSite + FAQPage ----
@@ -431,6 +449,8 @@ function makePage(m){
     if (pack.s) for (const k of Object.keys(pack.s)) h = setInner(h, k, pack.s[k]);
     h = h.replace('<main id="epochs"></main>', `<main id="epochs">${epochsHtml(pack)}</main>`);
     h = h.replace('<div class="core-grid" id="core"></div>', `<div class="core-grid" id="core">${coreHtml(pack)}</div>`);
+    const obsBanner = obsBannerHtml(pack);
+    if (obsBanner) h = h.replace('<div class="partial-note" id="partialNote" hidden></div>', `<div class="partial-note" id="partialNote">${obsBanner}</div>`);
     h = h.replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>/,
       ldBlock({ name: pack.brand, desc: (pack.share && pack.share.text) || m.desc, url, code: m.code, s: pack.s }));
   }

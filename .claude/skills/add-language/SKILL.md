@@ -245,6 +245,29 @@ When a language has no Bible anywhere fetchable (not YouVersion, not eBible, not
   OPT key (validate) and renders in the same banner element as `partial.note` (index.html doApply: `partial.note || bridge.note`).
 - First case = **bho (Bhojpuri)** prose + **hi (Hindi)** quotes (yv 1683) — Bhojpuri & Hindi share Devanagari and Bhojpuri speakers read Hindi.
 
+## OBS mode (no Bible anywhere, but Open Bible Stories exists in the language)
+For a language with **no Bible** (not YV, not eBible) **and no good bridge**, use **Open Bible Stories** (unfoldingWord,
+50 narrative stories Creation→Return, hundreds of languages, **CC BY-SA**). OBS is a *retelling*, not verses — so we quote it
+**verbatim but clearly labelled as OBS, not Scripture**, and that page becomes **CC BY-SA** (the rest of the site stays CC BY).
+- **Catalog**: `git.door43.org/api/v1/catalog/search?subject=Open Bible Stories&stage=prod`. Each lang → a repo `<owner>/<repo>`
+  (e.g. `fa_gl/Balochi_OBS`). Frame files: raw `git.door43.org/<repo>/raw/branch/master/<SS>/<FF>.txt` (story/frame, `title`, `reference`).
+  Per-story reader: `door43.org/u/<repo>/master/<SS>.html`.
+- **Pack config**: `yv:"obs:<owner>/<repo>"`, **no** `books`/`bookopt`. `ui.version:"(OBS)"`. `dir`/`htmlLang`/`menuName`/font = mother tongue.
+  `s["bridge.note"]` = a mother-tongue banner lead ("no Bible in <lang> yet; these stories are from") — render appends the OBS
+  link + `© unfoldingWord · CC BY-SA 4.0` (visible + static-baked by build-pages, so crawlers/no-JS see the attribution).
+- Each epoch: `q` = a **verbatim OBS frame**, `cite` = the OBS **story title** (links to that story's reader). `core[i].vtext`/`vref` = `""`
+  (no verses → renderCore/coreHtml skip the `.v` box). The "read more" button (`respond.read`) links to the OBS reader, not John.
+- **Frame mapping**: index.html + build-pages share `EP_OBS=[1,2,4,12,16,17,18,20,20,21,23,43,50]` (13 eras → representative
+  story). Pick the key **frame number** per era from English OBS (`unfoldingWord/en_obs/content/<NN>.md`) by meaning, then pull
+  the mother-tongue frame: `fetch-verse.mjs obs:<repo> "1/1,2/9,…"` (refs are **comma-joined in one arg**, not space-separated).
+- **★ Re-inject q/cite after any agent edit**: saving the JSON renormalizes Arabic combining marks (e.g. damma U+064F ↔ shadda
+  U+0651 reorder), so a drafting/fix agent silently drifts the frames off verbatim. After the framing translation, **re-fetch the
+  frames and overwrite `q`/`cite`** (then they're byte-exact). Verify by re-fetching + comparing all 13.
+- **Terminology = OBS's own words** (per terminology policy): fetch praying/gospel frames to learn them (e.g. Balochi OBS prays
+  with **دْوا**, God=هُدا, Jesus=ایسّا — match these, don't "correct" to another register).
+- `verseUrl` returns `null` for an `obs:` yv (no Bible verse links); `obsRepo()`/`obsUrl()` build OBS links; `doApply` registers
+  `yv` even when a pack has no `books`. First case = **bal (Balochi, `fa_gl/Balochi_OBS`)**, 137th language.
+
 ## Terminology policy (objective — no per-language debate)
 **Prose religious terms = the words the quoted Bible uses.** Render God, Jesus/Christ, sin, grace, salvation, prayer,
 heaven/hell, prophet, and proper names (Abraham, Moses…) with the **same forms as the Scripture you quote on that page**.
@@ -252,6 +275,7 @@ Do NOT introduce a different religious register (e.g. Islamic-idiom আল্ল
 - full/partial/eBible → that language's own quoted translation's terms.
 - **bridge mode → the bridge language's** translation's terms (mother-tongue grammar, bridge-Bible terms). E.g. **ctg**
   (Chittagonian, Bengali bridge): Chittagonian grammar, but ঈশ্বর/যীশু/পাপ (Bengali Christian terms), matching the bn quotes.
+- **OBS mode → the OBS edition's own terms** (mother tongue). E.g. **bal**: هُدا/ایسّا/گُناه + دْوا (pray), as Balochi OBS uses them.
 - Rationale: each page stays internally consistent (prose ↔ quotes), and the contextualization choice is deferred to the
   official Bible translators (if a language's *own* official Bible uses আল্লা, then matching it is automatically consistent).
 
@@ -261,6 +285,7 @@ auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
 - **Held / not addable** (recorded so we don't retry): bho (audio-only — no text), bm (no YV language page),
   yue (only the 1915 romanized edition — no Han NT).
 - **Partial-mode**: done = ff, **ky** (NT+Genesis+Judges richer-partial). Remaining candidates = tet, et (NT-only on YV).
+- **OBS-mode** (no Bible + OBS): done = **bal** (Balochi, `fa_gl/Balochi_OBS`). Other no-Bible OBS langs in catalog: haz, shu, qxq, kaa, glk, lrc, mzn, tly, etc.
 - **YouVersion code/version gotchas**: Malagasy = code `plt` (id 873, full Bible — the old `mg` exclusion was a code
   mismatch); kmr (id 251) is a full Bible despite its "Încîl" (NT) name.
 

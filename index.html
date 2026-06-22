@@ -8,7 +8,7 @@
 <link rel="manifest" href="/manifest.webmanifest" />
 <link rel="apple-touch-icon" href="/icon-192.png" />
 <title>한눈에 보는 성경 이야기 · 창조에서 교회까지</title>
-<meta name="description" content="창조부터 회복까지 — 성경 66권 전체를 한 편의 이야기로 스크롤하며 한눈에. 복음의 핵심과 영접 기도까지, 136개 언어 지원. 모든 민족이 모국어로 성경의 큰 그림을 만나는 입구." />
+<meta name="description" content="창조부터 회복까지 — 성경 66권 전체를 한 편의 이야기로 스크롤하며 한눈에. 복음의 핵심과 영접 기도까지, 137개 언어 지원. 모든 민족이 모국어로 성경의 큰 그림을 만나는 입구." />
 <meta name="keywords" content="성경 요약, 성경 한눈에, 성경 줄거리, 성경 통독, 성경 전체 흐름, 성경 개요, 복음, 복음 제시, 구속사, 창조 타락 구속 회복, 예수님, 예수님은 누구인가, 구원의 길, 영접 기도, 기독교 입문, 성경 입문, 성경 공부" />
 <meta name="author" content="한눈에 보는 성경 이야기" />
 <meta name="robots" content="index, follow, max-image-preview:large" />
@@ -1141,7 +1141,8 @@ const LANGS=[
  {code:'bo',native:'བོད་སྐད་',en:'Tibetan'},
  {code:'dwr',native:'Dawuro',en:'Dawro'},
  {code:'bho',native:'भोजपुरी',en:'Bhojpuri'},
- {code:'ctg',native:'চাটগাঁইয়া',en:'Chittagonian'}
+ {code:'ctg',native:'চাটগাঁইয়া',en:'Chittagonian'},
+ {code:'bal',native:'بلوچی',en:'Balochi'}
 ];
 const NAV_MAP={'zh':'zh-Hans','zh-cn':'zh-Hans','zh-sg':'zh-Hans','zh-hans':'zh-Hans','zh-tw':'zh-Hant','zh-hk':'zh-Hant','zh-hant':'zh-Hant','pt':'pt-BR','pt-br':'pt-BR','pt-pt':'pt-BR'};
 function hasLang(c){return c==='ko'||LANGS.some(l=>l.code===c);}
@@ -1164,9 +1165,15 @@ let curPack=KO_PACK, curCode='ko';
 var YV={"en":59};
 var EP_REF=['GEN.1.1','GEN.3.15','GEN.12.2-3','EXO.6.7','JDG.21.25','2SA.7.16','1KI.12.19','PSA.137.1','NEH.8.10','GAL.4.4','JHN.1.14','ACT.1.8','REV.21.4'];
 var CORE_REF=['ROM.3.10','ROM.3.20','EPH.2.8','ROM.5.1','JHN.5.39','MRK.1.15','JHN.19.30'];
+/* OBS 모드: 성경 번역본이 없는 언어 — 13시대를 Open Bible Stories(unfoldingWord, CC BY-SA) 모국어 이야기로.
+   YV[code]='obs:<owner>/<repo>'. 각 시대 ↔ 대표 OBS 스토리 번호. */
+var EP_OBS=[1,2,4,12,16,17,18,20,20,21,23,43,50];
+function obsRepo(code){ var id=YV[code]; return (typeof id==='string'&&id.indexOf('obs:')===0)?id.slice(4):null; }
+function obsUrl(repo,story){ return 'https://door43.org/u/'+repo+'/master/'+('0'+story).slice(-2)+'.html'; }
 function verseUrl(usfm,code){ var p=String(usfm).split('.'); if(p.length<3)return null;
   if(code==='ko') return 'https://www.bskorea.or.kr/bible/korbibReadpage.php?version=GAE&book='+p[0].toLowerCase()+'&chap='+p[1]+'&sec='+p[2].split('-')[0]+'#focus';
   var id=YV[code]; if(!id)return null;
+  if(typeof id==='string'&&id.indexOf('obs:')===0) return null;   /* OBS 모드엔 성경 절 링크 없음 */
   if(typeof id==='string'&&id.indexOf('ebible:')===0){ var eid=id.slice(7),bk=p[0],v=p[2].split('-')[0],cc=(bk==='PSA'?('00'+p[1]).slice(-3):('0'+p[1]).slice(-2)); return 'https://ebible.org/'+eid+'/'+bk+cc+'.htm#V'+v; }
   return 'https://www.bible.com/bible/'+id+'/'+usfm; }
 function vlink(usfm,text,code){ var u=verseUrl(usfm,code); return u?('<a class="vlink" href="'+u+'" target="_blank" rel="noopener" data-ref="'+usfm+'">'+text+'</a>'):text; }
@@ -1197,12 +1204,13 @@ function renderCore(pack){
   pack.core.forEach((c,idx)=>{
     const d=document.createElement('div'); d.className='core reveal';
     d.innerHTML=linkifyRefs(`<div class="ic">${CORE[idx].ic}</div><h3>${c.title}</h3><p>${c.body}</p>`
-      +`<div class="v">“<em>${c.vtext}</em>” — ${BOOKS[curCode]?c.vref:vlink(CORE_REF[idx],c.vref,curCode)}${ver}</div>`,curCode);
+      +(c.vtext?`<div class="v">“<em>${c.vtext}</em>” — ${BOOKS[curCode]?c.vref:vlink(CORE_REF[idx],c.vref,curCode)}${ver}</div>`:''),curCode);
     coreWrap.appendChild(d);
   });
 }
 function renderEpochs(pack){
   const u=pack.ui, ver=u.version?(' '+u.version):'';
+  const repo=obsRepo(curCode);
   main.innerHTML='';
   pack.epochs.forEach((e,i)=>{
     const v=EPOCHS[i], mis=pack.mis[i];
@@ -1222,7 +1230,7 @@ function renderEpochs(pack){
           <div class="meta-row"><span class="k">${u.people}</span><p class="vv">${e.people}</p></div>
           <div class="meta-row"><span class="k">${u.events}</span><p class="vv">${e.events}</p></div>
         </div>
-        <div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite?(BOOKS[curCode]?e.cite:vlink(EP_REF[i],e.cite,curCode))+ver:''}</div></div>
+        <div class="verse"><div class="q">${e.q}</div><div class="cite">${e.cite?(repo?'<a class="vlink" href="'+obsUrl(repo,EP_OBS[i])+'" target="_blank" rel="noopener">'+e.cite+'</a>':(BOOKS[curCode]?e.cite:vlink(EP_REF[i],e.cite,curCode))+ver):''}</div></div>
         <div class="thread-line"><p class="note-h"><span class="note-i">🧵</span><b>${u.christLabel}</b></p><p class="note-b">${e.christ}</p></div>
         <div class="love-note"><p class="note-h"><span class="note-i">💛</span><b>${u.loveLabel}</b></p><p class="note-b">${pack.love[i]}</p></div>
         ${mis?`<div class="myth"><div class="m-row"><span class="m-tag wrong">${u.mythWrong}</span><p>${mis.w}</p></div><div class="m-row"><span class="m-tag right">${u.mythRight}</span><p>${mis.t}</p></div></div>`:''}
@@ -1284,13 +1292,17 @@ function applyLang(code){
 function doApply(pack,code){
   curPack=pack; curCode=code;
   // 구절-링크 데이터는 각 팩에 동봉(index.html 에는 ko/en 만 인라인). 언어 전환 시 등록.
-  if(pack.books){ BOOKS[code]=pack.books; if(pack.yv!=null)YV[code]=pack.yv; if(pack.bookopt)BOOKOPT[code]=pack.bookopt; delete _reCache[code]; }
+  if(pack.yv!=null) YV[code]=pack.yv;   /* OBS 모드 등 books 없는 팩도 yv 등록 */
+  if(pack.books){ BOOKS[code]=pack.books; if(pack.bookopt)BOOKOPT[code]=pack.bookopt; delete _reCache[code]; }
   const html=document.documentElement;
   html.setAttribute('lang',pack.htmlLang||code);
   html.setAttribute('dir',pack.dir||'ltr');
   I18N_NODES.forEach(n=>{const k=n.getAttribute('data-i18n');const v=pack.s?pack.s[k]:null;n.innerHTML=linkifyRefs(v!=null?v:ORIG[k], code);});
-  (function(){var rb=document.getElementById('readBtn');if(!rb)return;var rv=(code==='ko')?READ_KO:(pack.s&&pack.s['respond.read']);var u=verseUrl('JHN.1.1',code);if(rv&&u){rv=rv.replace(/^\s*📖\s*/,'').trim();rb.innerHTML='<svg class="r-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6.6C10.3 5.3 7.9 4.8 4.9 5.2A1 1 0 0 0 4 6.2v11a1 1 0 0 0 1.1 1c2.7-.3 4.9.2 6.9 1.5 2-1.3 4.2-1.8 6.9-1.5a1 1 0 0 0 1.1-1v-11a1 1 0 0 0-.9-1c-3-.4-5.4.1-7.1 1.4Z"/><path d="M12 6.6v12.6"/></svg><span>'+rv+'</span>';rb.href=u;rb.hidden=false;}else{rb.hidden=true;}})();
-  (function(){var pn=document.getElementById('partialNote');if(!pn)return;var v=pack.s&&(pack.s['partial.note']||pack.s['bridge.note']);if(v){pn.textContent=v;pn.hidden=false;}else{pn.hidden=true;}})();
+  (function(){var rb=document.getElementById('readBtn');if(!rb)return;var rv=(code==='ko')?READ_KO:(pack.s&&pack.s['respond.read']);var _repo=obsRepo(code);var u=_repo?obsUrl(_repo,1):verseUrl('JHN.1.1',code);if(rv&&u){rv=rv.replace(/^\s*📖\s*/,'').trim();rb.innerHTML='<svg class="r-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6.6C10.3 5.3 7.9 4.8 4.9 5.2A1 1 0 0 0 4 6.2v11a1 1 0 0 0 1.1 1c2.7-.3 4.9.2 6.9 1.5 2-1.3 4.2-1.8 6.9-1.5a1 1 0 0 0 1.1-1v-11a1 1 0 0 0-.9-1c-3-.4-5.4.1-7.1 1.4Z"/><path d="M12 6.6v12.6"/></svg><span>'+rv+'</span>';rb.href=u;rb.hidden=false;}else{rb.hidden=true;}})();
+  (function(){var pn=document.getElementById('partialNote');if(!pn)return;var _repo=obsRepo(code);var v=pack.s&&(pack.s['partial.note']||pack.s['bridge.note']);
+    if(_repo&&v){ pn.innerHTML=v+' <a href="'+obsUrl(_repo,1)+'" target="_blank" rel="noopener">Open Bible Stories</a> · © unfoldingWord · <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'; pn.hidden=false; }
+    else if(v){ pn.textContent=v; pn.hidden=false; }
+    else { pn.hidden=true; } })();
   document.querySelectorAll('[data-sec]').forEach(sec=>{const lk=sec.getAttribute('data-sec');const lab=pack.labels&&pack.labels[lk];if(lab){sec.dataset.title=lab;sec.dataset.label=lab;}});
   renderCore(pack); renderEpochs(pack);
   buildNav(); setupObservers(); bindContact(); onScroll();

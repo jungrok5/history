@@ -17,6 +17,8 @@ const refs = (process.argv[3] || '').split(',').map(s => s.trim()).filter(Boolea
 if (!yv || !refs.length) { console.error('usage: node fetch-verse.mjs <src> <USFM[,USFM...]>'); process.exit(2); }
 const FORCE_CHAPTER = process.env.FORCE_CHAPTER === '1';
 const EBIBLE = yv.startsWith('ebible:') ? yv.slice(7) : null;   // 비-YouVersion 소스: eBible.org
+const OBS = yv.startsWith('obs:') ? yv.slice(4) : null;         // 무-성경 소스: Open Bible Stories(door43)
+//   OBS ref 포맷: "<스토리>/<프레임>" 예) 1/1, 12/9, 또는 "<스토리>/title", "<스토리>/reference"
 
 function curlText(url) {
   for (let i = 0; i < 4; i++) {
@@ -166,9 +168,19 @@ function ebibleMethod(ref) {
   return pr.list.map(u => vs[+u.split('.')[2]]).filter(Boolean).join(' ').replace(/\s+/g, ' ').trim();
 }
 
+function obsFrame(ref) {
+  const m = String(ref).split('/');
+  if (m.length < 2) return '';
+  const story = ('0' + m[0]).slice(-2);
+  const frame = /^\d+$/.test(m[1]) ? ('0' + m[1]).slice(-2) : m[1];  // title / reference 도 허용
+  const t = curlText(`https://git.door43.org/${OBS}/raw/branch/master/${story}/${frame}.txt`);
+  return (t && t.trim() !== 'Not found.') ? t.replace(/\s+/g, ' ').trim() : '';
+}
+
 for (const r of refs) {
   let text;
-  if (EBIBLE) text = ebibleMethod(r);
+  if (OBS) text = obsFrame(r);
+  else if (EBIBLE) text = ebibleMethod(r);
   else { text = FORCE_CHAPTER ? '' : oldMethod(r); if (!text) text = newMethod(r); }
   console.log(`${r}\t${text || 'MISSING'}`);
 }
