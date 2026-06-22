@@ -519,6 +519,45 @@
   .qr-url{color:#444;font-size:0.75rem;margin:12px 0 8px;word-break:break-all}
   .qr-dl{display:inline-block;color:#0e1118;font-size:0.8125rem;font-weight:600;text-decoration:underline;cursor:pointer}
   .qr-card .ss-close{color:#999}
+
+  /* ===== 인쇄/PDF 전용 (화면엔 영향 없음 — @media print 스코프) ===== */
+  @media print{
+    /* 색·배경·그림자 제거 → 흰 바탕에 검은 글자 (잉크 절약·가독성) */
+    *{ background:transparent !important; box-shadow:none !important; text-shadow:none !important;
+       color:#000 !important; -webkit-text-fill-color:currentColor !important; }
+    html,body{ background:#fff !important; }
+    body{ font-size:11pt; line-height:1.5; }
+    @page{ margin:14mm; }
+
+    /* 화면 전용 UI·장식 숨김 */
+    #progress,#topbar,#langPanel,#map,#toTop,#toast,#shareSheet,#qrModal,
+    .scrollcue,.ep-share,.share-cta,.r-read,#readBtn,.bgsky,.glow,.ep-icon{ display:none !important; }
+
+    /* 스크롤 전 숨겨지는 리빌/애니메이션 콘텐츠 강제 노출 */
+    .reveal,.txt,[class*="reveal"]{ opacity:1 !important; transform:none !important; visibility:visible !important; }
+
+    /* 전체 높이 풀고 한 흐름으로 */
+    .hero{ min-height:auto !important; padding:18pt 0 10pt !important; }
+    .epoch{ padding:12pt 0 !important; overflow:visible !important; border-bottom:1px solid #999 !important; }
+    .wrap{ max-width:none !important; width:100% !important; padding:0 !important; }
+
+    /* 접힌 <details>(FAQ·자세히 보기) 모두 펼쳐서 인쇄
+       (최신 Chromium/Edge는 ::details-content 를 content-visibility:hidden 로 숨김) */
+    details::details-content{ content-visibility:visible !important; display:block !important; height:auto !important; }
+    details > *{ display:block !important; }
+    details[open] > *, details > summary ~ *{ display:block !important; }
+    details > summary{ list-style:none; cursor:auto; }
+    details > summary::-webkit-details-marker{ display:none; }
+    .faq-body,details .body{ display:block !important; }
+
+    /* 작은 블록은 페이지 중간에서 끊기지 않게 */
+    .verse,.core,.faq-item,.crux,.crux-verse,.prayer,.r-verse,.closing-verse,
+    .mirror,.love-note,.thread-line,.myth,.meta{ break-inside:avoid; page-break-inside:avoid; }
+    h1,h2,h3{ break-after:avoid; page-break-after:avoid; }
+
+    /* 링크는 평문처럼 (URL 미부착) */
+    a,a.vlink{ text-decoration:none !important; }
+  }
 </style>
 </head>
 <body>
