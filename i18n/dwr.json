@@ -1,0 +1,395 @@
+{
+ "menuName": "Dawuro",
+ "htmlLang": "dwr",
+ "dir": "ltr",
+ "brand": "Geeshsha Mas'aafaa Itti Xaaruwaan",
+ "docTitle": "Geeshsha Mas'aafaa Itti Xaaruwaan · Med'etsaappe Woosa Golliyaa gakkanaw",
+ "share": {
+  "title": "Geeshsha Mas'aafaa Itti Xaaruwaan",
+  "text": "Itti xaaruwaan, Geeshsha Mas'aafaa gita taarikiyaa — k'ay Yesuusi ayaw yeeddaakkonne — demma."
+ },
+ "ui": {
+  "people": "Asaa",
+  "events": "Waanna hanotatuwaa",
+  "christLabel": "Yesuusakko zaaree",
+  "loveLabel": "Wuranna siik'uwaa",
+  "mythWrong": "Daro Asay baletettiyaawaa",
+  "mythRight": "Tumatetsaa",
+  "more": "Gujji nabbaba",
+  "version": "(eBible)"
+ },
+ "labels": {
+  "start": "Doommite",
+  "thread": "Taarikiyaa ogiyaa",
+  "gospel": "Wonggalaa",
+  "about": "Abaa"
+ },
+ "s": {
+  "ui.share": "↗ Shaakkite",
+  "ui.toast": "Xifuu kopetteedda 📋",
+  "ui.footer": "Geeshsha Mas'aafaa Itti Xaaruwaan · Geeshsha Mas'aafaa k'aalay Dawuro Geeshsha Mas'aafaappe (eBible)",
+  "hero.kicker": "MED'ETSAAPPE WOOSA GOLLIYAA GAKKANAW",
+  "hero.title": "Geeshsha Mas'aafaa,<br><span class=\"em\">itti xaaruwaan</span>",
+  "hero.sub": "Itti xaaruwaan, Geeshsha Mas'aafaa gita taarikiyaa — k'ay Yesuusi ayaw yeeddaakkonne — demma.",
+  "hero.cue": "Garssaakko sii'a<span>↓</span>",
+  "thread.eyebrow": "UBBAA ITTippe GATSIYAA ITTI K'AALAA",
+  "thread.h2": "Wurssettan, Geeshsha Mas'aafay itti taarikiyaa xalla",
+  "thread.flow": "<b>Ufaysaa</b><span class=\"arw\">→</span><b>Naagiyaawaa</b><span class=\"arw\">→</span><b>Polettiyaawaa</b>",
+  "thread.note": "S'oossay <b>ufaysee</b> (caak'k'uwaa), Asay daro wode <b>naagee</b>, k'ay wurssettan ubbabay Yesuusan <b>polettee</b> k'ay kumee. Garssan de'iyaa 13 hanotatuwaa he ogiyaan kaalla — itti itti kaardden <b>“Gujji nabbaba”</b> giyaawaa bochcha k'ay aad'd'iyaa taarikiyaa demma.",
+  "gospel.eyebrow": "HA TAARIKII “TAW” AYBA GIDIYAAKKO",
+  "gospel.h2": "Geeshsha Mas'aafaa tuma waanna yewuwaa",
+  "gospel.lead": "Geeshsha Mas'aafay <b>“lo\"o asa gidiyaawaa” tamaarissiyaa mas'aafaa gidenna.</b>",
+  "gospel.sublead": "Hawe S'oossay, <b>aad'd'o keekatetsa xalaalan</b>, barena ashshanaw danddayenna nagaranchchatuwaa waati ashsheeddaakko odiyaa taariki. Aa gidduwaan Yesuus Kiristtoosi ek'ettidi de'ee.",
+  "gospel.mirror": "<h3>Israa'eeliyaa wuranna giraa kanddii tumu “taw” leemiso</h3><div class=\"cycle\"><b>Eek'a goyno</b><span class=\"a\">→</span><b>Waayiyaa</b><span class=\"a\">→</span><b>Waassiyaawaa</b><span class=\"a\">→</span><b>S'oossay ashshee</b><span class=\"a\">→</span><b>Eek'a goyno gujje…</b></div><p>Daannatuwaappe doommiide omoodetethaa gakkanaw, Israa'eeli ha giraa wurssetti baynnan zaaree. Geeshsha Mas'aafay hawaa, “Unttuu ayba leddatee” gaade nuuni borssanaadan xaafibeenna.</p><p>Hawe <b>masttooti</b>. Yewuu “Israa'eeli hawaa ootseedda” gidenna; <b>“taanikka hewaa ootsays”</b> giyaawaa (1 K'oronttoosa 10:11).</p><p><b>Eek'ay</b> haaketteedda misiliyaa xalaala gidenna. Hawe <b>S'oossaappe aad'd'iide nuuni siik'iyaa woy ammaniyaa aybanne</b> — miishshaa, dirijjuwaa, sabaa, asaa, harenttoo taana. K'ay taani koyiyaawaa demmanaw S'oossaa <b>oosanchcha</b> ootsiyaawaykka eek'a goyno.</p><p class=\"punch\">Wurssettan, ubbaappe aad'd'iyaa eek'ay “S'oossaa araatan uttida taana.”</p>",
+  "gospel.coreIntro": "Yaatina S'oossay hagaa mala nagaranchchaa waati ashshee? Hawe Geeshsha Mas'aafay sabbakiyaa Wonggalaa waanna yewuwaa.",
+  "gospel.crux": "<p class=\"crux-lead\">Geeshsha Mas'aafay ubbay itti sohuwaakko zaaree.</p><p>Asay nagaraa giraa barew kanttanaw danddayibeenna, k'ay s'illuu ittuunne baawa. Hewaa diraw itti asay <b>unttunttu sohuwaan k'aanxiyaa k'anxana</b> bessee.</p><p>Yesuusi lo\"o tamaarissuwaa xalaala immanaw yeebeenna. Taana ashshanaw hara ogii baynnaan, <b>I yaanaappe attin agganaw danddayibeenna.</b></p><p class=\"crux-punch\">He mask'k'aliyan kak'ettanaw bessiyaawe <b>taana</b>.<br>Yesuusi <b>ta nagaraa</b> tookkiide ta sohuwaan he sohuwaan c'aak'etteedda.</p><div class=\"crux-verse\">“Shin I nu bayzzuwaa diraw, c'adettiide maduns's'eedda; nu nagaraa dirawukka shoc'ettiide liik'eedda … Aa madutsan nuuni pas'eeddo.” — Isiyaasa 53:5</div>",
+  "faq.h": "Ha'ikka itti yewuwaa diraw waayettay?",
+  "faq.q1": "<span class=\"arr\">▸</span> Yaatina shemppuwaa wod'eedda asay ammaniyaa xalaala saluwaa baana, k'ay bare de'o ubbaa lo\"o de'eedda ammanennawe Gaannamiyaa baanee?",
+  "faq.a1": "<p>Hawe likke oysha. Shin a gidduwaan nam\"u baletetsaa geemmeedda.</p><p><b>① Geeshsha Mas'aafay asaa “lo\"onne iita” gaade shaakkenna.</b> Likkii “hara asaappe aad'd'iyaawaa” gidenna; “S'oossaa s'illo geeshshatetsaa.” Aa sintsan, ooninne “gidiyaawaadan lo\"o” gidenna (Roome 3:23). Hewaa diraw hawe “lo\"o asaanne shemppuwaa wod'eedda asaa” gidenna; shin itti malatiyaa wod'iyaa harggii de'iyaa nam\"u asaadan — ittuu xaaliyaa akkee, hankuu “taani aappe pas'ays” gaade ek'enna.</p><p><b>② Saluwaanne Gaannamiyaa shaakkiyaawe itti yewuwaa xalaala.</b> Oosuwaa likkiyaa gidenna; shin <b>Yesuus Kiristtoosa Godaadan akkeeddaakkonne ne nagaraa yewuu giigeeddaakko.</b> Bare nagaray Kiristtoosa suuthaan giigeedda asay saluwaa baana; barena mulekka ek'ennawe, bare nagaray attiyaawe, baynna. Aybi lo\"o oosuukka he nagaraa yewuwaa giigissanaw danddayenna.</p><p>Hewaa diraw saluunne Gaannami “lo\"o oosuwaa woytuwaa” gidenna; shin <b>Kiristtoosaanna de'iyaa gaytotetsaa</b> yewuwaa. K'ay “ammanuu” huup'iyaan eeno giyaawaa gidenna; shin ne de'uwaa oonii haariyaakko laammiyaawaa — barena tumu ek'iyaawe ottoretsenna; shin daro aad'd'iide maarotaa demmanaw simmee. Tumatetsan, barena s'illayssiyaawe (“taani lo\"o asa”) ubbaappe aad'd'iide men\"anaw deexiyaa eek'a, nuuni Kiristtoosa koyokkonne nuuna ootsiyaawaa (Luuk'aasa Mishiraachchuwaa 18:9-14).</p><p>Geeshsha Mas'aafay galassiide odee: <b>“Aa Na'aa ammaniyaa ooninne pirddettenna; shin Na'aan ammanenna ooninne … ha\"ikka pirddetti utteedda”</b> (Yohaannisa Mishiraachchuwaa 3:18). Pirddii “hayk'k'eeddawaappe guyyiyaan ne oosuwaa likkiyaawaa” gidenna; shin <b>Kiristtoosa ek'eeddaakko</b> ha\"ikka giigeedda.</p><p class=\"faq-v\">Roome 3:23 · Yohaannisa Mishiraachchuwaa 3:18 · Efesoona 2:8-9 · Luuk'aasa Mishiraachchuwaa 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Yesuusa ammanennaan lo\"o de'uwaa xalaala de'iyaawaa danddayikkinaa?",
+  "faq.a2": "<p>Hawe daro asay k'oppiyaawaa, shin tumu yewuu aybakko erenna. Itti leemisuwaa be'oos.</p><p><b>Bonk'k'iyaawanttu markkabiyaan de'aysittaa giide k'oppa.</b> Markkabiyaa pooc'c'uwaa waati pooc'c'ikkonne, oosanchchatoo waati keehattikkonne, lo\"o de'uwaa de'ikkonne, ne ha\"ikka <b>bonk'k'iyaawaa</b>; ayaw gooppe markkabii biyaa sohuwaa (pirddaa so'aa) neenanna efee. Yewuu “oosuwaa likkiyaa” gidenna; shin <b>“ay markkabe gidiyaawaa” (ne sunthaa)</b>.</p><p>Hewaa diraw Wonggalay “gujjada lo\"o gidanaw baaxeta” gaa odenna; shin <b>“markkabiyaa laamma”</b> gee. Nagaraa markkabiyaappe wodd'a k'ay Yesuusakko pinna — <b>S'oossaa na'aa</b> ooratsa sunthaakko. Hawe baaxetan ne likkiyaa gujjiyaawaa gidenna; shin bare kushiyaa neekko yeddiyaa Aa ammanada Aa markkabiyaakko pinniyaawaa.</p><p>Tumatetsan Geeshsha Mas'aafay atotetsaa hawaadan ha pinuwaadan odee — <b>“I nuuna d'umaa wolk'k'aappe ashshiide, bare siik'iyaa Na'aa kawutetsaakko pintseedda”</b> (K'olaasiyaasa 1:13).</p><p>Baletoppa: <b>hawe lo\"o de'uu coo giyaawaa gidenna.</b> Lo\"otetsay atotetsaa “waagaa” gidenna; shin a <b>ayfiyaa</b>. Markkabiyaa laammeedda asay ha\"i de'ee, yashshaa diraw gidennan, na'aa siik'uwaa diraw.</p><p class=\"faq-v\">K'olaasiyaasa 1:13 · Yohaannisa Mishiraachchuwaa 1:12 · Yohaannisa Mishiraachchuwaa 3:3 · Efesoona 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Naaqoo ootseedda asay “S'oossay taana maareedda” giide sarotettiide de'ishshin, naaqettowaa asay ha\"ikka waayettiyaawaa gidooppe — aad'd'o keekatetsay daro k'irk'irinnaa?",
+  "faq.a3": "<p>Oyshay likke, k'ay sahuu tuma. Shin hagaa mala odii “Geeshsha Mas'aafaa maarotsaa” gidenna — hawe a <b>baletsiyaawaa</b>.</p><p><b>① S'oossaa maarotsay mulekka k'irk'iri gidenna.</b> Nagaray hanibeennawaadan k'osetti agganawaa gidenna; S'oossay barew bare Na'aa shemppuwaa diraw a k'aanxiyaa k'anxeedda. Mask'k'alii nagaray k'irk'iri gidiyaawaa besenna; shin nagaray hewaa keena deexo gidiyaawaa — sa'aan ubbaappe aad'd'iyaa al\"o maarotsaa.</p><p><b>② Tumu naaqettowaa ayfee.</b> Naaqoo ootseedda asay naaqettowaa asaa sintsan ottoroppe — “S'oossay taana maareedda, hewaa diraw taw sarotetsi de'ee” — hawe naaqettowaa gidenna; shin a misatsiyaawaa (Maatoossa Mishiraachchuwaa 3:8). K'ay asaanne S'oossaa giddo maarotsay naaqettowaa asaa madunthaa xayssenna woy a maaranaadan godatenna.</p><p><b>③ Nagaray mulekka coo aggettenna.</b> Nagara ubbay nam\"u sohuwaappe ittan k'anxettee — <b>woy Kiristtoosi a mask'k'aliyan tookkee</b> (Aa ammaniyaawanttoo pirddii hari baawa, Roome 8:1), <b>woy a wurssettan ixxeedda asay barew tookkee.</b> Hewaa diraw “k'irk'iri maarotsi” baawa. Naaqoo ootseedda asaykka ha sa'aan higgiyaa oyshaa ha\"ikka tookkee (Roome 13:1-4).</p><p><b>④ Naaqettowaa asaa afutsay mulekka S'oossaa sintsan guutsa gidenna.</b> S'oossay yeekkiyaawanttunna yeekkee, afutsa ubbaa hassayee, k'ay wurssettan barew a k'uc'c'ana (Yohaannisa Sas'aa 21:4). Hewaa diraw naaqettowaa asay haluwaa deexuwaa bare xalaalan tookkanaw bessenna; shin s'illo S'oossaakko a yeddanaw danddayee (Roome 12:19 — “Goday, ‹Taani haluwaa kesana; taani kushiyaa c'iggana› gee”).</p><p class=\"faq-v\">Maatoossa Mishiraachchuwaa 3:8 · Roome 8:1 · Roome 13:1-4 · Yohaannisa Sas'aa 21:4</p>",
+  "respond.h3": "Yaatina — taw aybi hanii?",
+  "respond.sub": "Ha siik'uu odo gidenna; shin <b>shoobbuwaa</b>. Ne sohuwaan kak'etteedda siik'uu ne wozanaa bochcheeddawaa gidooppe, ha woosaa lo\"otsi, itti itti k'aalaa woossa.",
+  "respond.prayer": "<p>S'oossaw,</p><p>taani taana ashshanaw danddayenna nagaranchcha gidiyaawaa eraad'.</p><p>Yesuusi ta diraw mask'k'aliyan hayk'k'iide zaaride denddeeddawaa ammanays.</p><p>Hayyanaa ta nagara ubbaa taw maara, k'ay hawaappe sintsanaw ta de'uwaa Goday gida.</p><p>Taana ne na'aa ootsada eka, k'ay ooratsa de'uwaa taani de'anaadan ootsa.</p><p class=\"amen\">Yesuusa sunthaan woossays. Amen'i.</p>",
+  "respond.after": "Hawaa wozanaappe woossowaa gidooppe, neeni <b>S'oossaa na'aa gideeddawaa</b> Geeshsha Mas'aafay odee. Neeni ha\"i barkka de'akka — ne matan de'iyaa woosa golliyaa demmada ammanuwaa ogiyaa unttunttunna hemetta.",
+  "respond.read": "Geeshsha Mas'aafaa ne huup'ew nabbaba — Yohaannisaappe doomma",
+  "respond.verse": "“Gidoppe attin I barena shiishshi akkeedda ubbatoo, bare suntsaan ammaneeddawanttoo, S'oossaa naanaa gidana mala, maataa immeedda.” — Yohaannisa Mishiraachchuwaa 1:12 · Roome 10:9-10",
+  "closing.main": "Itti S'oossi,<br>itti taarikiyaa baggana,<br>mulekka agganna baynna<br><em>siik'uwaan</em> nuuna kaallee.",
+  "closing.verse": "“Ayaw gooppe, hayk'uwaa gidina, de'uwaa … ay med'etaa gidinakka, nu Godaa Kiristtoosa Yesuusan de'iyaa S'oossaa siik'uwaappe nuuna shaakkanaw danddayennawaa taani eraad.” — Roome 8:38-39",
+  "closing.small": "Ha taarikiyaa ogiyaa bollan, Higgii, Yexuwaa, Naabatuwaanne Kiitatuwaa “ashuwaa” gujjee.<br>Ha\"i, ay mas'aafaa dooyikkonne, taarikiyan ay sohuwaan de'iyaakko be'ana.",
+  "closing.share": "↗ Ha taarikiyaa shaakkite",
+  "about.line": "Daro Kooriyaa Piroottesttaanttiyaa woosa golliyaa shaakkettiyaa atotsa-taariki (wonggalaawenne reformme) be'uwaa bolla eessetteedda.",
+  "about.contact": "Oyshatuwaanne k'oppaa — <a id=\"contact\" class=\"mail\">Nuukko xaafa</a>"
+ },
+ "epochs": [
+  {
+   "tag": "BENI CAAK'K'UWAA · DOOMETSAA",
+   "title": "Med'etsaa",
+   "date": "Koyro",
+   "one": "S'oossay “daro lo\"o” gidiyaa sa'aa med'eedda.",
+   "people": "S'oossaa; Addaameenne Hewaano",
+   "events": "Usuppun gallassaa med'etsaa, asay S'oossaa malaatan med'etteedda, Sambbataa shemppuwaa",
+   "q": "S'oossay salotuwaanne sa'aa koyro med'd'eedda.",
+   "cite": "Doometsaa 1:1",
+   "christ": "Sa'ay “K'aalaa” baggana med'etteedda. Yohaannisa Mishiraachchuwaa ha K'aalay Yesuusa barena gidiyaawaa odee (Yohaannisa Mishiraachchuwaa 1:1-3).",
+   "detail": "<p>Geeshsha Mas'aafay piloosoofiyaa palaman doommenna; shin odiide doommee: <b>“Koyro S'oossay…”</b> Sa'ay hanotetsan hanibeenna; shin asho gidiyaa S'oossaa oosuwaa.</p><ul><li><b>S'oossaa malaata</b> · med'etsa ubbaa gidduwaappe, asay xalaala S'oossaa malatanaadan med'etteedda — barena eranaadaaninne sa'aa naaganaadan.</li><li><b>Shemppuwaa</b> · laappuntsa gallassaa shemppuu ubbabay kumiide saruwaan (shalom) de'iyaawaa besee: “lo\"o gidee.”</li><li><b>Geene</b> · sa'ay menanaappe sintsa, S'oossaynne asay ittippe hemettiyaa sohuwaa.</li></ul>",
+   "next": "Shin ha kumetsay menanaw matatteedda…"
+  },
+  {
+   "tag": "BENI CAAK'K'UWAA · YEWUU DOOMMEE",
+   "title": "Kunddetsaa",
+   "date": "Koyro",
+   "one": "Nagaray geleedda, k'ay asaanne S'oossaa giddo gaytotetsay k'anxetteedda.",
+   "people": "Addaameenne Hewaano; shooshshaa (Seexaanaa)",
+   "events": "Diggeedda ayfiyaa miyaawaa, Geeneppe kessiyaawaa, hayk'uunne deexuu yiyaawaa",
+   "q": "Taani neenanne mishirato, ne zeretsaanne izi zeretsaa morkke kessana … I ne huup'iyaa k'os's'ana.",
+   "cite": "Doometsaa 3:15",
+   "christ": "Kunddetsaappe guyyiyaan sohuwaan immetteedda Wonggalaa koyro ufaysaa: “mishiraa zeretsay” shooshshaa huup'iyaa k'os's'ana — k'ay hawe Yesuusa (Doometsaa 3:15; Roome 16:20; Galaatiyaa 4:4).",
+   "detail": "<p>“S'oossaadan hananaw” koyiyaa azazettennatetsaa baggana, nagaray sa'aa gelee. Ayfii higgiyaa menuwaa xalaala gidenna; shin <b>gaytotetsaa menuwaa</b>.</p><ul><li><b>K'anxetteedda gaytotetsaa</b> · S'oossaanna (geemmiyaawaa), asaanna (mootiyaawaa), med'etsaanna (aguntsaanne deexuwaa).</li><li><b>Hayk'uwaa</b> · “tumu hayk'k'ana” giyaa seeray polettee.</li><li><b>Doometsaa 3:15</b> · gidoppe attin pirddaa gidduwaan, atotsaa ufaysay koyro yee. Eranchchatuu hawaa <b>koyro wonggalaa</b> goosona.</li></ul>",
+   "next": "Ha\"i S'oossay atotetsaa doommanaw itti asaa xeesee…"
+  },
+  {
+   "tag": "BENI CAAK'K'UWAA · UFAYSAA",
+   "title": "Aawatuwaa",
+   "date": "M.K. 2000 heeran",
+   "one": "S'oossay Abraahaamew, “Neeni anjjuwaa ogi gidana” giide ufaysee.",
+   "people": "Abraahaame · Yisaak'a · Yayk'oobe · Yooseefa",
+   "events": "Abraahaame caak'k'uwaa, Yisaak'a k'achuwaa, Yayk'oobe tammanne nam\"u naati, Yooseefi Gibs'en sunthatethaakko keseedda",
+   "q": "Taani neena wolk'k'aama kawutetsaa ootsana … ha sa'aa bollan de'iyaa Asay ubbay ne baggana anjjettana.",
+   "cite": "Doometsaa 12:2-3",
+   "christ": "“Asay ubbay anjjettana” giyaa ufaysay Abraahaame zeretsaa gidiyaa Yesuusan polettee (Galaatiyaa 3:16).",
+   "detail": "<p>S'oossay asa ubbaa yewuwaa itti asaa, <b>Abraahaame</b>, xeesiide doommee. Aa waanay <b>caak'k'uwaa (ufaysaa)</b> — wolk'k'aama kawutetsaa, sa'aa, k'ay “asa ubbaw anjjuwaa.”</p><ul><li><b>Ammanuwaa</b> · Abraahaami be'ettenna ufaysaa ammaneedda, k'ay hawe aw s'illotetsa giide payddetteedda (Doometsaa 15:6).</li><li><b>Yisaak'a k'ay Yayk'oobe</b> · ufaysay aad'd'ee; Yayk'oobi (Israa'eeli) tammanne nam\"u zariyaa yelee.</li><li><b>Yooseefa</b> · bare ishatuu a bayzzeeddino shin sunthatethaakko keseedda — “S'oossay lo\"otetsaw hawaa ootseedda” (Doometsaa 50:20).</li></ul>",
+   "next": "Yooseefa kaalliide, so'aa asay Gibs'e woddee — k'ay ayilettee…"
+  },
+  {
+   "tag": "BENI CAAK'K'UWAA · ATOTETSAA",
+   "title": "Kessaanne Bazzuwaa",
+   "date": "M.K. 1446 heeran",
+   "one": "S'oossay ayletetteedda asaa ashshiide barew ootseedda.",
+   "people": "Muse, Aarone, Gibs'e Kaatii",
+   "events": "Tammu boochaa, Paasikaa, Zo'o Abbaa pinuwaa, Siinaa Tammu Azazuwaa, dunkkaaniyaa, oytamu laytsaa bazzuwaan",
+   "q": "Taani hinttentta ta huup'e asaadan akkananne taani hinttenttu S'oossaa gidana.",
+   "cite": "Kessaa 6:7",
+   "christ": "Paasikaa — dorssaa suuthay hayk'uwaa diggeedda sohuwaa — nu diraw c'addetteedda Yesuusakko, “nu Paasikaa dorssaakko,” zaaree (1 K'oronttoosa 5:7).",
+   "detail": "<p>Beni Caak'k'uwaa ubbaappe gita atotsaa. Kase ayletetteedda Israa'eeli S'oossaa wolk'k'aan la\"a kessettiide Aa <b>asa</b> gidana mala med'ettee.</p><ul><li><b>Paasikaa</b> · dorssaa suuthay tiyetteedda golliyaa hayk'uu pinnee — guyyeppe yiyaa yarshuwaa ubbaa leemiso.</li><li><b>Zo'o Abbaa</b> · ogii wurssettan atotetsaa; “pinniyaawe” ooratsa doometsaa malaata gidee.</li><li><b>Siinaa caak'k'uwaa</b> · Azazuwaa baggana S'oossaa asadan waati de'iyaakko tamaarana.</li><li><b>Dunkkaaniyaa</b> · S'oossay bare asaa gidduwaan de'iyaa lammiyaa geeshsha sohuwaa — “Amaanu'eela” misatsuwaa.</li><li><b>Oytamu laytsaa</b> · azazettennatetsay itti yeletsaa yuushshees, shin S'oossay manttaaninne shaaraa k'ay tamaa tuussaan matan de'ee.</li></ul>",
+   "next": "Ufaysaa sa'aa dunaan ek'k'iide, gelanaw giigettoosona…"
+  },
+  {
+   "tag": "BENI CAAK'K'UWAA · SO'AA AKKIYAAWAA",
+   "title": "Xoonuwaanne Daannatuwaa",
+   "date": "M.K. 1400–1050 heeran",
+   "one": "Sa'aa akkeeddino, shin kaatii baynnan asay ubbay koyiyaawaa ootseedda.",
+   "people": "Iyyaasa; Gediyoonanne Samsoona mala daannatuwaa; Uruuto",
+   "events": "Yarkkoo kunddetsaa, Kanaane akkiyaawaa, nagaraa–pirddaa–atotetsaa zaariyaa giraa",
+   "q": "He wode Israa'eeliyaa gadiyaan kaatii baawa; Asay ubbay barew likke malateeddawaa c'oo ootsee.",
+   "cite": "Daannatuwaa 21:25",
+   "christ": "Uruuto zariyaappe Daawiti yee, k'ay Daawita zariyaappe Yesuusi yee (Maatoossa Mishiraachchuwaa 1). Wuranna giddonkka, Mase so'aa zaray sinttan bee.",
+   "detail": "<p>Iyyaasa garssan ufaysaa sa'aa geloosona, shin akkeeddawaappe guyyiyaan S'oossaa eesoo dogoosona. Daannatuu he giraa zaariyaawaa.</p><ul><li><b>Garssa giraa</b> · nagara → un\"etsaa → waassuwaa → daannay ashshee → nagara gujje. Iitiide bee.</li><li><b>Daannatuwaa</b> · Gediyoona, Samsoona, Daboora — wode atotsanchchatuwaa, xoonanchcha shin daro baletetsa de'iyaawantta.</li><li><b>Uruuto</b> · d'umaa wodiyan ammanetethaa po\"o taariki; allaga mishiri Daawita (k'ay Yesuusa) zariyaa gelaaddu.</li></ul>",
+   "next": "Asay, “Nuwukka kaatii imma!” giide waassee…"
+  },
+  {
+   "tag": "BENI CAAK'K'UWAA · WORK'K'AA WODIYAA",
+   "title": "Ittippetteedda Kawutetsaa",
+   "date": "M.K. 1050–930 heeran",
+   "one": "S'oossay Daawitew, “Ne araatay med'inaw de'ana” giide ufaysee.",
+   "people": "Saa'oola · Daawita · Solomona",
+   "events": "Koyro kaatii Saa'oola, Daawitanne Goliyaada, Daawita caak'k'uwaa, Solomoni Geeshsha Golliyaa keexxiyaawaa",
+   "q": "Ne zaratuunne ne kawutetsay ta sintsan med'inaw gam\"ana; ne kawutetsaa araataykka med'inaw min ek'k'ana.",
+   "cite": "2 Sammeela 7:16",
+   "christ": "“Med'inaa araatay” Daawita na'aa gidiyaa Yesuusan polettee — hewaa diraw I “Daawita Na'aa” geetettee (Luuk'aasa Mishiraachchuwaa 1:32-33; Maatoossa Mishiraachchuwaa 1:1).",
+   "detail": "<p>Israa'eeliyaa work'k'aa wodii, heezzu kaatatuu haareeddawaa.</p><ul><li><b>Saa'oola</b> · asay koyeedda kaatii; lo\"o doometsay azazettennatetsan menetteedda.</li><li><b>Daawita</b> · “S'oossaa wozanaadan de'iyaa asa.” Goliyaada xoonee k'ay Yerusaalame waanna katama ootsee. Gita nagaraa (Berssaabe) ootsee shin wozanaappe naaqettee (Mazimuriyaa 51).</li><li><b>Daawita caak'k'uwaa (2 Sammeela 7)</b> · S'oossay Daawita zaretethaa med'inaw eessanaw ufaysee — Mase hidootaa waanna xap'uwaa.</li><li><b>Solomona</b> · cinccatethaaninne dure de'uwaa work'k'aan <b>Geeshsha Golliyaa</b> keexxee, shin bare de'uwaa wurssettan eek'aakko zaarettee.</li></ul>",
+   "next": "Solomonappe guyyiyaan, kawutetsay nam\"u kesiide shaakettee…"
+  },
+  {
+   "tag": "BENI CAAK'K'UWAA · KUNDDIYAAWAA",
+   "title": "Shaakettowaa Kawutetsaa",
+   "date": "M.K. 930–586",
+   "one": "Tohossa (Yihudaa) k'ay huuphphe (Israa'eeli) shaakettiide, kawotetsay menuwaakko gunddee.",
+   "people": "Nam\"u kawutetsaa kaatatuu; Eelaasa, Isiyaasa, Ermaasa mala nabatuu",
+   "events": "Kawutetsay shaakettee, eek'a goynuu kuwayee, nabatuu seeroosona",
+   "q": "Heewaappe doommiide hachche gakkanaw Israa'eeliyaa zaratuu tammatuu Daawita zariyaappe kaateteedda kaatetuwaa bolla makkaleeddino.",
+   "cite": "1 Kaatatuwaa 12:19",
+   "christ": "Ha wodiyan nabatuu yaanaw de'iyaa Mase kaseetiide galassiide odoosona (Isiyaasa 9:6; Isiyaasa 53).",
+   "detail": "<p>Solomona na'aa wodiyan kawutetsay shaakettee: <b>huuphphe Israa'eeliyaa kawutetsaa</b> (tammu zariyaa, waanna katamay Sammaariyaa) k'ay <b>tohossa Yihudaa kawutetsaa</b> (nam\"u zariyaa, waanna katamay Yerusaalame).</p><ul><li><b>Israa'eeli (huuphphe)</b> · kaatii ubbay eek'aa goynnee; M.K. 722 Asoore kushiyan kunddee.</li><li><b>Yihudaa (tohossa)</b> · Daawita zaray aad'd'ee, Hizik'k'iyaasanne Yoosiyaasa mala guutsa lo\"o kaatatuu de'oosona, shin ubbaa baggan kundee.</li><li><b>Nabatuu</b> · Eelaasa, Amoos'a, Isiyaasa, Ermaasa “simmite!” giide waassoosona. Mase hiraagay hawaan bare work'k'aakko gakkee (Isiyaasa 53 “waayettowaa ashkkaraa”).</li></ul>",
+   "next": "Wurssettan seerettowaa pirddii yee — omoodetethaan efettoosona…"
+  },
+  {
+   "tag": "BENI CAAK'K'UWAA · PIRDDAA",
+   "title": "Omoodetethaa",
+   "date": "M.K. 722 / 586",
+   "one": "Kawutetsay kunddee k'ay asay allaga sa'aa goochettee.",
+   "people": "Daaneela, Hizik'k'eela, Naabukadanaas'oora",
+   "events": "Israa'eeli Asoore kushiyan kunddee (722), Yihudaa Baabiloone kushiyan kunddiide Geeshsha Gollii menee (586)",
+   "q": "Baabloone shaafatuwaa matan uttiide, nuuni S'iyoone k'oppeedda wode yeekkeeddo.",
+   "cite": "Mazimuriyaa 137:1",
+   "christ": "Hidoota gunaan Ermaasi “ooratsa caak'k'uwaa” ufaysee (Ermaasa 31:31) — Yesuusi Wurssetsa Kahuwaan matayssiyaa he caak'k'uwaa.",
+   "detail": "<p>Seeruu polettee. Geeshsha Gollii xuugettee k'ay asay Baabiloone goochettee — sa'aa, kaatiyaa, k'ay Geeshsha Golliyaa xayssoosona: ubbaappe garssa sohuwaa.</p><ul><li><b>Nam\"u kunddetsaa</b> · Israa'eeli (Asoore, M.K. 722) k'ay Yihudaa (Baabiloone, M.K. 586).</li><li><b>Daaneela</b> · eek'a kaatiyaa keettan (gaammuwaa olaan) ammanetethaa leemiso; yaanaw de'iyaa “med'inaa kawutetsaa” ajjuutaa be'ee.</li><li><b>Hidoota po\"uwaa</b> · Hizik'k'eela melaa mek'etsay paxxiyaa ajjuutay (Hizik'k'eela 37) k'ay Ermaasa “ooratsa caak'k'uwaa” d'umaan sinttaakko zaaree.</li></ul>",
+   "next": "Laappun tammu laytsaappe guyyiyaan, S'oossay ogiyaa dooyee — so'aa simmoosona…"
+  },
+  {
+   "tag": "BENI CAAK'K'UWAA · ZAARETETSAA",
+   "title": "Simuwaa",
+   "date": "M.K. 538–430",
+   "one": "Simmiide Geeshsha Golliyaanne dirssaa zaarissi keexxoosona.",
+   "people": "Izira, Nahimii, Asttiro, Zarubaabeela",
+   "events": "K'iiroosa azazuwaan simuwaa, Geeshsha Golliyaa zaarissi keexxiyaawaa, Yerusaalame dirssaa zaaretsuwaa, K'aalaa zaaretsuwaa",
+   "q": "Med'inaa Godaa nashechchay hinttenttoo wolk'k'aa gidiyaa diraw kayyottoppite.",
+   "cite": "Nahimiyaa 8:10",
+   "christ": "Beni Caak'k'uwaa wurssetsa mas'aafaa Milkkiyaasi, Mase ogiyaa giigissiyaa kiitettowaa kaseetiide odiide kuuyee: “taani kiittiyaa asaa kasetaade yeddana” (Milkkiyaasa 3:1).",
+   "detail": "<p>Persiyaa kaatii K'iiroosa azazuwaan (M.K. 538) simuu doommee. Heezzu wodiyan simmiide meneeddawaa zaarissi keexxoosona.</p><ul><li><b>Zarubaabeela</b> · Geeshsha Golliyaa zaarissi keexxee (M.K. 516 polettee).</li><li><b>Izira</b> · K'aalaa zaaridi tamaarissee k'ay ammanuwaa zaaree.</li><li><b>Nahimii</b> · Yerusaalame dirssaa 52 gallassaan zaarissi keexxee.</li><li><b>Asttiro</b> · Persiyaan de'iyaa Ayhudatuwaa xayuwaappe ashshaaddu — “hagaa mala wodiyaa diraw.”</li><li><b>Ha\"ikka koyiyaawaa</b> · Geeshsha Gollii ek'k'eedda, shin Daawitaadan kaatii baawa. Asay Mase naagee.</li></ul>",
+   "next": "K'ay he wode… saluu c'uulleeddawaadan, oytamu xeetu laytsay aad'd'ee."
+  },
+  {
+   "tag": "CAAK'K'UWAA GIDDON · SOHUWAA GIIGISSIYAAWAA",
+   "title": "C'uula Laytsaa",
+   "date": "M.K. 430–4 heeran",
+   "one": "Oytamu xeetu laytsay nabiyaa k'aali baynnan — gidoppe attin sohuu c'uussan giigettishshe de'eedda.",
+   "people": "Aleksanddiroosa Gita, Makaabe asaa, Roome",
+   "events": "Persiyaa → Giriike → Makaabe la\"atetsaa → Roome haaruwaa",
+   "q": "Shin yaanaw bessiyaa wodii gakkeedda wode, S'oossay … bare Na'aa kiitteedda.",
+   "cite": "Galaatiyaa 4:4",
+   "christ": "Ha “sohuwaa giigissiyaawe” ubbay Yesuusi “wodii kumeedda wode” yaanaadan S'oossay ootseedda oosuwaa.",
+   "detail": "<p>Milkkiyaasaappe Ooratsa Caak'k'uwaa gakkanaw, oytamu xeetu laytsaa heeri ooratsa Mas'aafi baynnan aad'd'ee. Gidoppe attin taarikiyaa guyyiyaan S'oossay Wonggalaa ogiyaa giigissishshe de'eedda.</p><ul><li><b>Kawutetsay laamettee</b> · Persiyaa → Giriike (Aleksanddiroosa, M.K. 333) → Tolemaawosatuwaanne Selewk'oosatuwaa → Makaabe la\"atetsaa (M.K. 167) → Roome (M.K. 63).</li><li><b>Giriiketsuwaa</b> · Aleksanddiroosa xoonuu Giriiketsuwaa waanna doonaa ootsee; Beni Caak'k'uu Giriiketsuwaan birshettee (Sebttuwaaginttaa), Wonggalay ellekka aakkanaadan ogiyaa giigissee.</li><li><b>Roome ogiyaanne saruwaa</b> · lo\"o keexettowaa ogiyaanne “Pax Romana” saruu mishiraachchuwaa waanna ogiyaa gidee.</li><li><b>Mukuraabatuwaanne dirijjuwaa</b> · mukuraabe tamaarssuu xap'uwaa yeddee; Parisaawatuunne Saaduk'aawatuu denddoosona; k'ay <b>Mase laamotsay</b> kayllee.</li></ul>",
+   "next": "K'ay c'uulay menee — wurssettan, I yee."
+  },
+  {
+   "tag": "OORATSA CAAK'K'UWAA · POLETTIYAAWAA",
+   "title": "Yesuusi Yee",
+   "date": "M.K. 4–M.L. 30 heeran",
+   "one": "Ufaysetteedda Masii yiide hayk'k'iide zaaridi denddeedda.",
+   "people": "Yesuusa, tammanne nam\"u kaalliyaawantta, Xaammak'iyaa Yohaannisa",
+   "events": "Asho gidiyaawaa, Aa oosuwaanne tamaarssuwaanne malaatatuwaa, mask'k'aliyan hayk'uwaa, heezzantsa gallassan denddiyaawaa",
+   "q": "K'aalay asaa gidiide, aad'd'o keekatetsaaninne tumatetsaan kumiide nu gidduwaan de'eedda.",
+   "cite": "Yohaannisa Mishiraachchuwaa 1:14",
+   "christ": "Mishiraa zeretsay (hanota 2), Abraahaame anjjuwaa (3), Paasikaa dorssaa (4), Daawita med'inaa kaatii (6), ooratsa caak'k'uwaa (8) — ubbay itti asaa, Yesuusan, polettee: nu tumu Nabiyaa, K'eesiyaanne Kaatiyaa.",
+   "detail": "<p>C'uulay menee; Ufaysetteeddawe yee. Oyddu Mishiraachchuu Yesuusa de'uwaa, hayk'uwaanne denduwaa oyddu baggaappe markkattoosona.</p><ul><li><b>Asho gidiyaawaa</b> · S'oossay asa gidee (Amaanu'eela, “S'oossay nunna”), Beeteliheeme zib'b'a sohuwaan.</li><li><b>Oosuwaa</b> · S'oossaa kawutetsaa tamaarissee, harggancha pas'ssee, nagaranchchaa xeesee. “Taana be'eeddawe Aawaa be'eedda.”</li><li><b>Mask'k'aliyaa</b> · Kunddetsay (hanota 2) eheedda nagaraanne hayk'uwaa k'aanxiyaa k'anxee. Tumu Paasikaa dorssaa.</li><li><b>Denduwaa</b> · heezzantsa gallassan denddiide, nagaraa, hayk'uwaa, k'ay Seexaanaa wolk'k'aa menee — mask'k'aliyan “kaappatuwaappenne godatuwaappe wolk'k'aa wotsi akkiide … besseedda” (K'olaasiyaasa 2:15).</li></ul><p>Hewaa diraw Yesuusi nu <b>tumu Nabiyaa</b> (S'oossaakko ogiyaa besee), nu <b>tumu K'eesiyaa</b> (bare ashuwaan nagaraa k'aanxee), k'ay nu <b>tumu Kaatiyaa</b> (nagaraa, hayk'uwaa, k'ay Seexaanaa xooniide med'inaw haaree).</p>",
+   "next": "Denddeedda Yesuusi bare kaalliyaawantta sa'aakko kiittee…"
+  },
+  {
+   "tag": "OORATSA CAAK'K'UWAA · AAKKIYAAWAA",
+   "title": "Woosa Gollii Doommee",
+   "date": "M.L. 30 heeran–",
+   "one": "Ayyaanay yee, k'ay Wonggalay sa'aa gas'aa gakkanaw aakkee.",
+   "people": "P'eexiroosa, P'awuloosa, koyro woosa gollii",
+   "events": "P'enxxak'osxxe gallassan Ayyaanay tigettee, woosa gollii yelettee, Wonggalay un\"uwaa baggana Yerusaalameppe Roome gakkanaw aakkee",
+   "q": "Geeshsha Ayyaanay hinttenttu bolla wod'd'iyaa wode, wolk'k'aa hinttenttu akkanita … gadiyaa gas'aa ubbaa gakkanaw Taw markkattiyaawantta gidanita.",
+   "cite": "Kiitteeddawanttu Oosuwaa 1:8",
+   "christ": "Ha taarikii ha\"ikka aad'd'ishshe de'ee. Geeshsha Mas'aafay Yesuusi simmiide ubbabaa ooratsa ootsanaw ufaysiide kuuyee (Yohaannisa Sas'aa 21).",
+   "detail": "<p>Yesuusi pude keseeddawaappe guyyiyaan, ufaysetteedda Ayyaanay P'enxxak'osxxe gallassan yee k'ay woosa gollii yelettee. Wonggalay daro ellekka aakkee.</p><ul><li><b>P'enxxak'osxxe</b> · Ayyaanay yashshay de'iyaa kaalliyaawantta xala markkatuwaa ootsee.</li><li><b>P'eexiroosa</b> · Yerusaalamen de'iyaa Ayhudatoo Wonggalaa sabbakee.</li><li><b>P'awuloosa</b> · gooddanchchaappe kiitettowaa gidiide, Allaga asaa giddon woosa golliyaa tokkiide kiitatuwaa xaafee.</li><li><b>Sa'aa gas'aa gakkanaw</b> · Yerusaalame → Yihudaa → Sammaariyaa → Roome. Abraahaamew immetteedda “asa ubbaa” ufaysay polettee.</li><li><b>K'ay nuuni</b> · taarikii kuuyenna; Yesuusi simuwaakkonne ooratsa saluwaakkonne ooratsa sa'aakko aad'd'ee.</li></ul>",
+   "next": "Shin taarikii hawaan kuuyenna…"
+  },
+  {
+   "tag": "OORATSA CAAK'K'UWAA · KUMETSAA",
+   "title": "Zaaretetsaa",
+   "date": "Buroo yaanaw de'iyaawaa",
+   "one": "Yesuusi gujje yiide ubbabaa ooratsa ootsee.",
+   "people": "Simmiyaa Yesuusa; asa ubbaa",
+   "events": "Nam\"antsa yuussaa, wurssetsa pirddaa, nagaraa·hayk'uwaa·afutsaa wurssetsaa, ooratsa saluwaanne ooratsa sa'aa",
+   "q": "S'oossay unttunttu ayfiyaa afotsa ubbaa k'uc'c'ana. Hawaappe sintsanaw hayk'uunne kayyuu woy waasuunne sakuu baawa.",
+   "cite": "Yohaannisa Sas'aa 21:4",
+   "christ": "Koyro med'etsaa Geenii wurssettan “Ooratsa Yerusaalame” gidiide zaarettee. S'oossay bare asaanna med'inaw de'ee — Amaanu'eela kumetsaa (Yohaannisa Sas'aa 21:3; Maatoossa Mishiraachchuwaa 1:23).",
+   "detail": "<p>Geeshsha Mas'aafay woosa golliyaa wodiyan kuuyenna. Aa wurssetsa mas'aafaa Yohaannisa Sas'ay Yesuusi ubbabaa polanaw <b>gujje yiyaawaa</b> besee.</p><ul><li><b>Nam\"antsa yuussaa</b> · ufaysetteedda Kaatii bonchchuwaan simmee.</li><li><b>Wurssetsa xoonuwaa</b> · Seexaanaynne hayk'uu med'inaw xooettee, k'ay Kiristtoosi kaatatuwaa Kaatiyaadan haaree (1 K'oronttoosa 15:25-26; Yohaannisa Sas'aa 20:10).</li><li><b>Pirddaanne denduwaa</b> · iitabay ubbay likkettee, k'ay hayk'k'eeddawanttu denddoosona.</li><li><b>Ooratsa saluwaanne ooratsa sa'aa</b> · nagaray, hayk'uu, afutsay, k'ay sahuu med'inaw d'ayee (Yohaannisa Sas'aa 21:4).</li><li><b>Zaarettowaa Geenii</b> · doometsaappe aad'd'iyaa “Ooratsa Yerusaalamen” S'oossay bare asaanna med'inaw de'ee — Geeshsha Mas'aafa ubbay zaaree de'iyaa sohuwaa.</li></ul><p>Hewaa diraw ha\"i <b>“ha\"ikka polettowaa, shin buroo de'iyaa”</b> wodiyaa: Yesuusan atotetsay <b>ha\"i</b> polettowaa, shin a kumetsay <b>buroo</b> naagettee.</p>",
+   "next": "Yaatina ha taariki ubbay “taw” ayba gidii?"
+  }
+ ],
+ "love": [
+  "Taarikii pirddaan doommenna; shin siik'uwaan tigetteedda med'etsaan doommee.",
+  "Asay nagaraa ootseedda wode, S'oossay he sohuwaan atotetsaa ufaysee.",
+  "S'oossay bessennaa asaakko koyro yee, sunthaan a xeesee, k'ay anjjuwaa ogi ootsee.",
+  "Ayletetteedda asaa oolaa siyiide, unttuntta ashshanaw barkka woddee.",
+  "Zaari zaaridi kaddettowaa shin, waasseedda wode ubban ashshanchchaa kiittiide unttuntta dentsee.",
+  "Kunddeedda Daawitakka aggibeenna, k'ay a baggana med'inaa Kaatiyaa ufaysee.",
+  "Zokkuwaa zaareedda asaakko, “Hayyanaa, so'aa simmite” giide woossiide nabatuwaa kiittiidi de'ee.",
+  "Ubbaappe d'uma omoodetethaa sa'aakka unttunttunna beedda, k'ay zaaretethaa ufaysee.",
+  "Zaari zaaridi kunddeedda asaakka, bare ufaysaa zaari ek'ibeenna.",
+  "Oytamu xeetu laytsaa c'uulan, be'ettennaan, atotsaa ogiyaa giigissishshe de'eedda.",
+  "Nuuni buroo nagaranchcha gidishshin, bare shemppuwaa wottanaw bare Na'aa kiitteedda.",
+  "Nuuni akkeedda siik'uwaa, ha\"i sa'aa ubbaakko goggissee.",
+  "Wurssettan afutsa ubbaa k'uc'c'ana k'ay ubbabaa siik'uwaan zaarana."
+ ],
+ "mis": [
+  {
+   "w": "“S'oossay nagaraa ootsanaw danddayiyaa asaa ayaw med'eedee? Mulekka nuuna med'enna aggiyaawe lo\"o gidennee?”",
+   "t": "S'oossay sa'aanne asaa ay pacciyaa diraw gidennan, kumiyaa siik'uwaa diraw med'eedda. Asaa <b>S'oossaanna gaytotetsi de'iyaa asadan</b> med'iyaawe barena siik'uwaa. K'ay nagaray gelowaakka S'oossaa atotsaa halchchuwaappe gaxxan gidenna (Efesoona 1:4-5). Geeshsha Mas'aafaa koyro hanotay pirddaa gidenna; shin siik'uwaa."
+  },
+  {
+   "w": "“Itti ayfiyaa miyaa diraw xalaala omoodettiide hayk'uu immettee — S'oossay daro k'arenne?”",
+   "t": "Geeneppe kessettiyaawe pirddaanne maarotsaa nam\"aakka. Med'inaa de'uwaa mits'aappe miide he menetteedda, S'oossaappe shaakettowaa hanotan med'inaw de'iyaawe, waayiyan med'inaw geliyaawaa (Doometsaa 3:22). Hayk'uwaa eeshshiyaawe simmiyaa ogiyaa dooyee, k'ay he sohuwaan S'oossay Ashshanchchaa ufaysee (Doometsaa 3:15). Siik'uu ha\"ikka pirddaa gidduwaan de'eedda."
+  },
+  {
+   "w": "“Abraahaami gita ammanuu de'iyaa diraw doorettee — Geeshsha Mas'aafaa asay ubbay eeshsha xoonanchcha gidenne?”",
+   "t": "Abraahaami worddottee k'ay siree; Yayk'oobi genanchcha. S'oossay “bessiyaa” asaa gidennan, baletsancha asaa, aad'd'o keekatetsan xeeseedda. Gaasoy unttuntta lo\"otetsaa gidenna; shin S'oossaa ammanetteedda siik'uwaa (Zaaretsuwaa 7:7-8)."
+  },
+  {
+   "w": "“Higgii (Azazuu) atotsaa demmanaw kantanaw bessiyaa paaciyaa gidennee?”",
+   "t": "S'oossay Higgiyaa immanaappe <b>sintsa</b> unttuntta ashsheedda. Tammu Azazuukka atotsaa odiyaawaan doommee: “Neena Gibs'eppe ayiletetsaa gadiyaappe keseedda Med'inaa Goday ne S'oossay taana” (Kessaa 20:2). Higgii “atotsaa demmanaw naaga” giyaawaa gidenna; shin kase atotetteedda asay waati de'anaakko siik'uwaa kaaletsaa (Zaaretsuwaa 7:7-9). Aad'd'o keekatetsay ubba wode kaseetee; azazettiyaawe zaaruwaa."
+  },
+  {
+   "w": "“Kanaane xoonuu maarotsa baynna woruwaa — hewaa diraw Beni Caak'k'uwaa S'oossay tumaa iitanchcha.”",
+   "t": "Hawe itti k'aalan kuuyettenna deexo yewuwaa. Shin Geeshsha Mas'aafay hawaa coo asaa woruwaa gidennan, daro xeetu laytsaa danddayaappe guyyiyaan keehi iita oosuwaa (naatuwaa yarshshiyaawaa gujjiide) bolla yiyaa pirddaadan besee (Doometsaa 15:16; Zaaretsuwaa 9:4-5; Wogaa 18:24-25). S'oossay pirddanawukka eeshshenna, k'ay barekko simmeeddawantta — Ra'aabanne Uruuto mala allagatuwaakka — ufayssan ekkeedda (Iyyaasa 6:25; Uruuto 4:13-17)."
+  },
+  {
+   "w": "“Daawiti baletsa baynna xoonanchcha — hewaa diraw ‘S'oossaa wozanaadan de'iyaa asa’ geetetteedda.”",
+   "t": "Daawiti laymma k'ay wod'aakka ootsee. “S'oossaa wozanaadan de'iyaa asa” giyaawe baletsa baynnaawaa gidenna; shin bare nagaraa geemmennan — daro naaqettiide ubba wode S'oossaakko zaarettiyaawaa (Mazimuriyaa 51). S'oossaa siik'uu deexuwaan kunddeeddawanttakka aggenna."
+  },
+  {
+   "w": "“Nabatuu sinttabaa odiyaa kk'uuyanchcha / Beni Caak'k'uwaa S'oossay hank'k'o xalaala.”",
+   "t": "Nabiyaa wozanay “sinttabaa odiyaawaa” gidenna; shin S'oossaa sahuwaa woosaa: “Hayyanaa, simmite.” Pirddaa seeraykka xayssanaw gidennan; shin asaa zaariide ashshanaw — “nagaranchchaa hayk'k'uwaan nashetikke” (Hizik'k'eela 33:11)."
+  },
+  {
+   "w": "“Omoodetethay S'oossay Israa'eela muleera aggeeddawaa besee.”",
+   "t": "Omoodetethay aggiyaawaa gidennan; shin siik'ettiyaa na'aakko seeraanne geeshshiyaawaa (Ibraawe 12:6). S'oossay aggibeenna; omoodetethaa giddon Daaneelaanna de'ee k'ay “taani hinttew halchchiyaa halchchuwaa taani … eray; hewekka, hinttew sintsa hidootaanne nashshechchaa immana mala, saro halchchuwaa” giide ufaysee (Ermaasa 29:11)."
+  },
+  null,
+  {
+   "w": "“Oytamu xeetu laytsaa k'aali baynnan, S'oossay aggeedda woy shemppee.”",
+   "t": "C'uulay baawatetsa gidenna. I odibeenna xalaala, shin he wode ubban atotsaa sohuwaa giigissanaw kawutetsaa, doonatuwaanne ogiyaa laammishshe de'ee. Ubbaappe c'uula wodiyan, S'oossay ubbaappe minniide, siik'uwaan ootsiishshe de'eedda (Galaatiyaa 4:4)."
+  },
+  {
+   "w": "“Yesuusi itti lo\"o eeshshaa tamaarssanchcha xalaala / mask'k'alii kayyo xoonettowaa.”",
+   "t": "Yesuusi barena S'oossaa giide odeedda (Yohaannisa Mishiraachchuwaa 8:58), k'ay mask'k'alii hanotetsa woy xoonetethaa gidennan; shin halchchetteedda siik'uwaa. Wolk'k'aan goochetti efettibeenna; bare shemppuwaa barkka immeedda (Yohaannisa Mishiraachchuwaa 10:18). “Bare shemppuwaa bare laggew aatsiide immiyaawaappe aad'd'iyaa siik'uu oossinnekka baawa” (Yohaannisa Mishiraachchuwaa 15:13)."
+  },
+  {
+   "w": "“Woosa gollii bessiyaa asaa shiik'uwaa, woy keettaa xalaala.”",
+   "t": "Woosa gollii “poletteedda geeshshatuwaa” shiik'o gidennan; shin <b>maaretteedda nagaranchchatuwaa</b> shiik'o. Kiitettowaa P'awuloosikka barena “Ubbaappe aad'd'iyaa nagaranchchay taana” giide xeeseedda (1 S'imootoosa 1:15). Koyro woosa golliikka palamettee k'ay dhuphettee (Kiitteeddawanttu Oosuwaa 6:1; 1 K'oronttoosa 1:11). Hawe ottoriyaa sohuwaa gidenna; shin akkeedda siik'uwaa aatsiyaa asaa (Yohaannisa Mishiraachchuwaa 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Koyro nagaraa — s'illuu baawa",
+   "body": "Yewuu “guutsa iita oosuwaa” gidennan; shin wozanaa xap'uwaa. Addaameppe doommiide, asay ubbay nagaraa garssan yelettee k'ay barkka S'oossaakko gakkanaw danddayenna.",
+   "vref": "Roome 3:10-12, 23",
+   "vtext": "S'illo Asay ittuunne baawa … Ayaw gooppe, Asay ubbay nagaraa ootseedda; S'oossaa bonchchuukka unttunttoo guus's'eedda."
+  },
+  {
+   "title": "Higgii taana ashshanaw danddayenna",
+   "body": "Higgii baggottiyaa gidennan; shin masttooti. Daro baaxetowaa keenan, neeni waati paccowaakko besee. Aa halchchuu nuuna Kiristtoosakko kaalethiyaawaa.",
+   "vref": "Roome 3:20 · Galaatiyaa 3:24",
+   "vtext": "higgii itti Asay nagaraa ootseeddawaa eranaadan ootsee … nuuni ammanuwaan s'illana mala, Kiristtoosi yaana gakkanaw higgii nuuna naagiyaawaa gideedda."
+  },
+  {
+   "title": "Aad'd'o keekatetsan — imuwaa, oosuwaa gidenna",
+   "body": "Atotetsay neeni demmeedda waaga gidennan; shin bessennawanttoo coo imetteedda imuwaa. Hewaa diraw ooninne ottoranaw danddayenna.",
+   "vref": "Efesoona 2:8-9",
+   "vtext": "Ayaw gooppe, hintte S'oossaa aad'd'o keekatetsan, ammanuwaan atteeddita; hawe S'oossaa imuwaappe attin, hintte oosuwaanna gidenna … Hintte daaburan beettibeenna diraw, hintte c'eek'ettiyaabay ayaynne baawa."
+  },
+  {
+   "title": "Ammanuwaan s'illiyaawaa",
+   "body": "Higgiyaa naaguwaan gidennan; shin Yesuus Kiristtoosa ammaniyaawaan, s'illo giide payddettee — ne huup'e s'illotetsaan gidennan, Aa s'illotetsaan maayetteedda.",
+   "vref": "Roome 5:1 · Galaatiyaa 2:16",
+   "vtext": "Hewaa diraw, nuuni ammanuwaan S'illeeddawaan, nu Godaa Yesuusi Kiristtoosa baggana nuw S'oossaanna sarotetsay de'ee … Asay Yesuusi Kiristtoosa ammaniide S'oossaa sintsan s'illanaappe attin, Muse higgiyaa naaguwaan s'illennawaa ereeddo."
+  },
+  {
+   "title": "Geeshsha Mas'aafay Yesuusakko zaaree",
+   "body": "Geeshsha Mas'aafay gita asaa woy huup'e maaduwaa mas'aafaa gidenna. Doometsaappe Yohaannisa Sas'aa gakkanaw, sa'i ubbay itti asaa — Yesuus Kiristtoosa — markkattee.",
+   "vref": "Yohaannisa Mishiraachchuwaa 5:39 · Luuk'aasa Mishiraachchuwaa 24:27",
+   "vtext": "unttuntta biddiita; unttunttukka tabaa markkattiyaawantta … Yesuusi Muse mas'aafatuwaappenne Nabatuu s'aafeedda mas'aafatuwaappe doommiide, S'oossaa Mas'aafatuwaa ubbaan s'aafetteedda barebaa unttunttoo billiide odeedda."
+  },
+  {
+   "title": "S'oossaa kawutetsaa — Yesuusa waanna kiitaa",
+   "body": "Yesuusi ubbaappe aad'd'iide tamaarsseedda yewuwaa. S'oossay Kaatiyaadan haariyaawe Yesuusanna ha sa'aakko geleedda k'ay I simmiyaa wode kumana. Bare mask'k'aliyaaninne denduwaan, Yesuusi nagaraa, hayk'uwaa, k'ay Seexaanaa xooneedda tumu Kaatiyaa.",
+   "vref": "Mark'k'oossa Mishiraachchuwaa 1:15",
+   "vtext": "Wodii gakkeedda; S'oossaa kawutetsaykka matatteedda. Hinttenttu nagaraappe simmiide, wonggalaa mishiraachchuwaa ammanite"
+  },
+  {
+   "title": "Wonggalay — I ubbabaa poleedda",
+   "body": "Taani mulekka k'anxanaw danddayenna nagaraa k'aanxiyaa, Yesuusi ta sohuwaan mask'k'aliyan k'anxeedda, k'ay denddiide hayk'uwaa xooneedda. Taani “hawaa ootsa” giyaawaan gidennan; shin “poletteedda” giyaawaan shemppays.",
+   "vref": "Yohaannisa Mishiraachchuwaa 19:30 · Roome 5:8",
+   "vtext": "Poletteedda … nuuni biro nagaranchcha gidiide de'ishshin, Kiristtoosi nu diraw hayk'k'eedda."
+  }
+ ],
+ "books": {
+  "Doometsaa": "GEN",
+  "Kessaa": "EXO",
+  "Wogaa": "LEV",
+  "Payduwaa": "NUM",
+  "Zaaretsuwaa": "DEU",
+  "Iyyaasa": "JOS",
+  "Daannatuwaa": "JDG",
+  "Uruuto": "RUT",
+  "Izira": "EZR",
+  "Nahimiyaa": "NEH",
+  "Asttiro": "EST",
+  "Iyyooba": "JOB",
+  "Mazimuriyaa": "PSA",
+  "Leemisuwaa": "PRO",
+  "Isiyaasa": "ISA",
+  "Ermaasa": "JER",
+  "Ermaasa Seelaa": "LAM",
+  "Hizik'k'eela": "EZK",
+  "Daaneela": "DAN",
+  "Amoos'a": "AMO",
+  "Yoonaasa": "JON",
+  "Mikiyaasa": "MIC",
+  "Milkkiyaasa": "MAL",
+  "Maatoossa Mishiraachchuwaa": "MAT",
+  "Mark'k'oossa Mishiraachchuwaa": "MRK",
+  "Luuk'aasa Mishiraachchuwaa": "LUK",
+  "Yohaannisa Mishiraachchuwaa": "JHN",
+  "Kiitteeddawanttu Oosuwaa": "ACT",
+  "Roome": "ROM",
+  "Galaatiyaa": "GAL",
+  "Efesoona": "EPH",
+  "Pilip'p'isiyoosa": "PHP",
+  "K'olaasiyaasa": "COL",
+  "Ibraawe": "HEB",
+  "Yohaannisa Sas'aa": "REV",
+  "1 Sammeela": "1SA",
+  "2 Sammeela": "2SA",
+  "1 Kaatatuwaa": "1KI",
+  "2 Kaatatuwaa": "2KI",
+  "1 K'oronttoosa": "1CO",
+  "2 K'oronttoosa": "2CO",
+  "1 S'imootoosa": "1TI",
+  "2 S'imootoosa": "2TI"
+ },
+ "yv": "ebible:dwrl",
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
