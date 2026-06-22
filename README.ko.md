@@ -91,4 +91,8 @@
 - [Wycliffe](https://www.wycliffe.org) · [SIL](https://www.sil.org) · [ETEN / illumiNations](https://illuminations.bible) — 완역 번역·배포(우리는 그 완성된 번역 앞단의 입구).
 
 ## 라이선스 / 문의
-성경 본문 저작권은 각 번역본 발행처에 있으며, 본문은 인용·링크 형태로 사용합니다. 콘텐츠 문의/피드백은 사이트 하단 연락처를 통해 주세요.
+- **코드**(HTML/CSS/JS + 빌드 도구): [MIT](LICENSE).
+- **콘텐츠**(구속사·복음 본문과 그 번역): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — 출처 표시 시 자유롭게 재사용·번역·배포.
+- **성경 인용문**: 각 번역본 발행처 저작권이며, 인용·링크 형태로만 사용합니다.
+
+콘텐츠 문의/피드백은 사이트 하단 연락처 또는 [이슈](../../issues)로 주세요.

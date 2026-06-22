@@ -91,4 +91,8 @@ Many ministries share this heart; **we are the on-ramp in front of them**, and w
 - [Wycliffe](https://www.wycliffe.org) · [SIL](https://www.sil.org) · [ETEN / illumiNations](https://illuminations.bible) — Bible translation & distribution (we're the on-ramp in front of the finished translations).
 
 ## License / contact
-Scripture text is copyright its respective publishers and is used here by quotation and linking. For content questions or feedback, use the contact at the bottom of the site.
+- **Code** (HTML/CSS/JS + build tooling): [MIT](LICENSE).
+- **Content** (the redemptive-history / gospel text & its translations): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse, translate and share freely, with attribution.
+- **Scripture** quotations: copyright their respective publishers; used here by quotation and linking only.
+
+For content questions or feedback, use the contact at the bottom of the site, or open an [issue](../../issues).
