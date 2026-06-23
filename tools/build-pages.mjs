@@ -165,7 +165,6 @@ const LANGS = [
   { code:'ary',    dir:'rtl', locale:'ary_MA' },
   { code:'dyu',    dir:'ltr', locale:'dyu_CI' },
   { code:'dcc',    dir:'rtl', locale:'dcc_IN' },
-  { code:'knc',    dir:'ltr', locale:'knc_NG' },
   { code:'kg',    dir:'ltr', locale:'kg_CD' },
   { code:'ks',    dir:'rtl', locale:'ks_IN' },
   { code:'gom',    dir:'ltr', locale:'gom_IN' },

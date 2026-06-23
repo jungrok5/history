@@ -27,6 +27,8 @@ Where there is no complete Bible we don't simply wait. A **partial mode** — *v
 
 **But correctness comes before scale.** We publish a language only when its translated prose is **verifiably faithful** — checked by back-translation and native review. Where AI translation can't yet reach that bar (many ultra-low-resource languages), we **defer** rather than ship something unreliable: *a faithful "not yet" beats a confident mistranslation.* So the realistically auto-translatable set is far smaller than 7,396 — and that is the point. The gospel must be conveyed **correctly**, not merely widely.
 
+*How far do we go, and how that compares:* big platforms tier their languages — Apple fully localizes ~40 (few, polished); Google/Meta reach ~200–240 via machine translation (many, variable quality); Meta's FLORES/NLLB-200 marks roughly *"where usable MT data exists."* Our quality gate is essentially **Apple's "correct first" applied to a mission, not a market**: we go far deeper down the long tail than any revenue-driven product would, yet we **stop where a faithful translation isn't yet possible** instead of shipping something unreliable. So our realistic ceiling sits near that ~200-language line — reached one verified language at a time.
+
 > This is a project that **outlasts a single lifetime** — though with AI's help, that "lifetime" can be much shorter.
 
 ## What's inside

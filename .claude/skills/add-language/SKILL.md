@@ -300,6 +300,9 @@ Do NOT introduce a different religious register (e.g. Islamic-idiom আল্ল
 So we don't re-investigate, and so adding a language never edits AGENTS.md. The live language *list/count* is
 auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
 - **Held / not addable** (recorded so we don't retry): bm (no YV language page).
+- **Deferred — failed the empirical quality gate** (removed from live, await a human/native translator): **knc** (Kanuri —
+  prose heavily Hausa-code-mixed + grammatically broken prayer/FAQ on blind back-translation); **guq** (Aché — ultra-low-resource,
+  AI prose unreliable; never deployed). Re-add only after a native speaker verifies the prose. kg/ks/mni were re-checked and PASSED.
 - **Added despite a limited source** (non-obvious choices): bho (own edition audio-only → added as **bridge** from hi);
   yue (only the **1915 romanized** Cantonese edition #3026 — added full-mode but kept deliberately: romanized verses
   clash with the Traditional-Han prose & most Cantonese read zh-Hant, yet verses are verbatim and it gives a 廣東話 page);
