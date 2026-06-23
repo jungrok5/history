@@ -92,8 +92,18 @@ function parseChapterContent(contentHtml) {
 const chapCache = new Map();
 function chapterVerses(chap) {
   if (chapCache.has(chap)) return chapCache.get(chap);
-  const j = nextData(curlText(`https://www.bible.com/bible/${yv}/${chap}`));
-  const content = j?.props?.pageProps?.chapterInfo?.content;
+  // 1차: nodejs.bible.com JSON API (www.bible.com 은 봇 차단 "Client Challenge" 페이지를 반환하므로).
+  //      API 의 content 는 www 챕터 페이지와 동일한 data-usfm 스팬 HTML 이라 같은 파서로 처리.
+  let content = '';
+  try {
+    const api = JSON.parse(curlText(`https://nodejs.bible.com/api/bible/chapter/3.1?id=${yv}&reference=${chap}`) || '{}');
+    content = api && typeof api.content === 'string' ? api.content : '';
+  } catch (e) { content = ''; }
+  // 2차(폴백): 구 www.bible.com __NEXT_DATA__ 경로.
+  if (!content) {
+    const j = nextData(curlText(`https://www.bible.com/bible/${yv}/${chap}`));
+    content = j?.props?.pageProps?.chapterInfo?.content || '';
+  }
   let verses = {};
   if (content && !/available in audio format/i.test(content)) verses = parseChapterContent(content);
   chapCache.set(chap, verses);
@@ -204,6 +214,6 @@ for (const r of refs) {
   let text;
   if (OBS) text = obsFrame(r);
   else if (EBIBLE) text = ebibleMethod(r);
-  else { text = FORCE_CHAPTER ? '' : oldMethod(r); if (!text) text = newMethod(r); }
+  else { text = newMethod(r); if (!text && !FORCE_CHAPTER) text = oldMethod(r); }
   console.log(`${r}\t${text || 'MISSING'}`);
 }
