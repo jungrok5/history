@@ -38,7 +38,7 @@ coOk ? ok('core 객체 키 완비') : bad('core 객체 키 누락');
 // 2) s 키가 es.json 과 동일
 try {
   const es = JSON.parse(fs.readFileSync(p('i18n/es.json'), 'utf8'));
-  const OPT = new Set(['respond.read', 'partial.note', 'bridge.note']); // 선택 키(다음걸음 버튼·부분모드·브릿지모드 안내)
+  const OPT = new Set(['respond.read', 'partial.note', 'bridge.note', 'faq.q4', 'faq.a4']); // 선택 키(다음걸음 버튼·부분모드·브릿지모드 안내 · 번역된 언어만 갖는 q4 FAQ)
   const base = Object.keys(es.s);
   const miss = base.filter(k => !(k in pack.s));
   const extra = Object.keys(pack.s).filter(k => !base.includes(k) && !OPT.has(k));

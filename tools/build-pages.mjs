@@ -404,7 +404,7 @@ const stripTags = s => String(s).replace(/<[^>]+>/g,' ');
 const decodeEnt = s => s.replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&nbsp;/g,' ');
 const cleanText = s => decodeEnt(stripTags(String(s))).replace(/[▸►]/g,'').replace(/\s+/g,' ').trim();
 function faqLd(s){
-  const pairs = [['faq.q1','faq.a1'],['faq.q2','faq.a2'],['faq.q3','faq.a3']];
+  const pairs = [['faq.q1','faq.a1'],['faq.q2','faq.a2'],['faq.q3','faq.a3'],['faq.q4','faq.a4']];
   const main = pairs.filter(([q,a])=>s&&s[q]&&s[a]).map(([q,a])=>({
     '@type':'Question', name: cleanText(s[q]),
     acceptedAnswer:{ '@type':'Answer', text: cleanText(s[a]) }
@@ -503,6 +503,12 @@ function makePage(m){
   const pack = packFor(m.code);
   if (pack) {
     if (pack.s) for (const k of Object.keys(pack.s)) h = setInner(h, k, pack.s[k]);
+    // q4 FAQ(성경이 실화인가?)는 번역된 언어에서만 노출 — 미번역 언어는 한국어 잔존 방지 위해 본문 비우고 숨김
+    if (!(pack.s && pack.s['faq.q4'])) {
+      h = setInner(h, 'faq.q4', '');
+      h = setInner(h, 'faq.a4', '');
+      h = h.replace('<details class="faq-item" id="faqQ4">', '<details class="faq-item" id="faqQ4" hidden>');
+    }
     h = h.replace('<main id="epochs"></main>', `<main id="epochs">${epochsHtml(pack)}</main>`);
     h = h.replace('<div class="core-grid" id="core"></div>', `<div class="core-grid" id="core">${coreHtml(pack)}</div>`);
     const obsBanner = obsBannerHtml(pack);
@@ -535,7 +541,7 @@ if (!rootHtml.includes('hreflang=')) {
   rootHtml = rootHtml.replace('<link rel="canonical" href="https://one-scroll-bible.com/" />',
     `<link rel="canonical" href="${ORIGIN}/" />\n${HREF}`);
 }
-const koS = {}; for (const k of ['faq.q1','faq.a1','faq.q2','faq.a2','faq.q3','faq.a3']) koS[k] = getInner(src, k);
+const koS = {}; for (const k of ['faq.q1','faq.a1','faq.q2','faq.a2','faq.q3','faq.a3','faq.q4','faq.a4']) koS[k] = getInner(src, k);
 rootHtml = rootHtml.replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>/,
   ldBlock({ name: KO.brand, desc: KO.desc, url: `${ORIGIN}/`, code: 'ko', s: koS }));
 // 루트 og:image/twitter:image 도 버전(?v=) 부착 — 캐시 버스팅
