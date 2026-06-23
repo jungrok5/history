@@ -23,6 +23,30 @@ function curlText(url, t = 25) {
   return '';
 }
 
+// ---- 번역가능성: 자원 자문(advisory) — 실제 한계점은 실측 게이트 ----
+//  한계점(deploy 여부)은 **실측 게이트**가 정한다: verify-prose 역번역이 영어 원문과 충실히 일치 +
+//  원어민 검수에 미해결 BLOCKER/MAJOR 없음. 둘 중 하나라도 실패 → 배포 안 함(defer, "사람 번역 대기").
+//  성경 구절(verbatim)은 무관 — "틀 산문"(해설·FAQ·영접기도)만의 문제.
+//  아래 FLORES-200/Wikipedia 는 **자문용 프록시일 뿐**(자동 제외 아님): 우리 롱테일에선 예측력이 약함 —
+//  저자원이라도 번역되는 언어(bal·ctg·dwr)를 오제외하고, FLORES에 이름만 있는 부실 언어(knc·kg)는 통과시킴.
+//  그래서 "자원 부족" 표시는 "더 엄격히 실측 검수하라"는 신호로만 쓰고, 최종 판정은 실측 게이트가 한다.
+const FLORES200 = new Set(('ace acm acq aeb afr ajp aka als amh apc arb ars ary arz asm ast awa ayr azb azj bak bam ban bel bem ben bho bjn bod bos bug bul cat ceb ces cjk ckb crh cym dan deu dik dyu dzo ell eng epo est eus ewe fao fij fin fon fra fur fuv gaz gla gle glg grn guj hat hau heb hin hne hrv hun hye ibo ilo ind isl ita jav jpn kab kac kam kan kas kat kaz kbp kea khk khm kik kin kir kmb kmr knc kon kor lao lij lim lin lit lmo ltg ltz lua lug luo lus lvs mag mai mal mar min mkd mlt mni mos mri mya nld nno nob npi nso nus nya oci ory pag pan pap pbt pes plt pol por prs quy ron run rus sag san sat scn shn sin slk slv smo sna snd som sot spa srd srp ssw sun swe swh szl tam taq tat tel tgk tgl tha tir tpi tsn tso tuk tum tur twi tzm uig ukr umb urd uzn vec vie war wol xho ydd yor yue zho zsm zul').split(' '));
+// 우리 코드(주로 639-1) → FLORES 639-3 별칭(불일치 보정)
+const ISO3 = { sw:'swh', uz:'uzn', fa:'pes', ne:'npi', mg:'plt', om:'gaz', mn:'khk', az:'azj', lv:'lvs', ms:'zsm', ar:'arb', zh:'zho', et:'est', or:'ory', pa:'pan', ps:'pbt', kg:'kon', ks:'kas', ku:'kmr', yi:'ydd', 'zh-Hans':'zho', 'zh-Hant':'zho', 'pt-BR':'por' };
+// 게이트가 오제외하면 안 되는 검증된 예외(예: 영어 기반 크리올 — 자원지표는 낮아도 모델이 잘 번역). 이미 배포된 양질.
+const FORCE_OK = new Set(['pcm']);
+function wikiArticles(code) {
+  const out = curlText(`https://${code}.wikipedia.org/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json`, 15);
+  try { return JSON.parse(out).query.statistics.articles || 0; } catch { return 0; }
+}
+function translatability(code) {
+  if (FORCE_OK.has(code)) return { ok: true, why: 'allowlisted (verified-good creole/edge case)' };
+  const inF = FLORES200.has(code) || FLORES200.has(ISO3[code] || '');
+  const wiki = wikiArticles(code);
+  const ok = inF || wiki >= 10000;
+  return { ok, why: ok ? (inF ? 'in FLORES-200' : `Wikipedia ${wiki}≥10k`) : `NOT in FLORES-200 & Wikipedia ${wiki}<10k` };
+}
+
 // ---- YouVersion: 언어페이지 __NEXT_DATA__ 의 버전 목록 ----
 function yvVersions(code) {
   const html = curlText(`https://www.bible.com/languages/${code}`);
@@ -115,7 +139,8 @@ for (const code of codes) {
   const obs = obsInfo(code);
   console.log(obs ? `OBS: ${obs.repo} (${obs.fmt} format) → yv:"obs:${obs.repo}"` : 'OBS: none');
 
-  // ---- 권장 ----
+  // ---- 번역가능성 게이트(한계점) + 권장 ----
+  const t = translatability(code);
   let rec;
   if (yvFull) rec = `FULL mode — YouVersion #${yvFull.id} (${yvFull.abbr}). yv:${yvFull.id}`;
   else if (ebFull) rec = `FULL mode via eBible — yv:"ebible:${ebFull.id}" (OT${ebFull.ot} NT${ebFull.nt})`;
@@ -123,5 +148,7 @@ for (const code of codes) {
   else if (ebNT) rec = `PARTIAL mode via eBible — yv:"ebible:${ebNT.id}" (NT-only).`;
   else if (obs) rec = `OBS mode — no Bible found; Open Bible Stories exists. yv:"obs:${obs.repo}". (Or BRIDGE if speakers read a major language we already have.)`;
   else rec = `BRIDGE mode (mother-tongue prose + a bridge language's verses) — no Bible/OBS found under this code. If none works, defer ("coming soon"). NB: try the ISO 639-3 code too if this was a 2-letter code.`;
-  console.log(`→ RECOMMENDED: ${rec}`);
+  console.log(`Resource note (advisory): ${t.ok ? 'has MT resources (' + t.why + ')' : '⚠ LOW-RESOURCE (' + t.why + ') — scrutinize the prose harder'}`);
+  console.log(`→ RECOMMENDED MODE: ${rec}`);
+  console.log(`  ⛔ DEPLOY GATE (this decides — not the resource note): after drafting, verify-prose back-translation must be FAITHFUL to the English source AND native review must have NO unresolved BLOCKER/MAJOR. Else DEFER — don't deploy; record "coming soon (needs a human/native translator)".`);
 }

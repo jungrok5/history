@@ -16,6 +16,15 @@ fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review
 
 ---
 
+## ⛔ Deploy quality gate (한계점 — correctness > scale, read first)
+**A language ships only if its translated *prose* is verifiably faithful.** After drafting, it must pass BOTH:
+(1) **`verify-prose`** back-translation faithfully matches the English source, AND (2) **native review** has
+**no unresolved BLOCKER/MAJOR**. If either fails and can't be fixed → **DEFER** (record in the decisions log as
+"coming soon — needs a human/native translator"); do **not** deploy, however many speakers. Verbatim Scripture is
+always safe (copied) — this gate is only about the AI-generated prose (storyline/FAQ/prayer/UI). Resource proxies
+(FLORES-200 / Wikipedia size in `detect-mode`) are **advisory only** — a "scrutinize harder" flag, never an auto-exclude
+(they false-exclude bal/ctg/dwr and false-include knc/kg). The empirical gate decides. (See memory `translation-quality-gate`.)
+
 ## 0. Decide + version-availability gate (auto-pick full vs partial mode)
 0. **Fastest path — run `detect-mode` first** (probes all sources, removes the "which mode?" guesswork):
    ```

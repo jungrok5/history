@@ -19,11 +19,13 @@ If a paper tract summarizes the gospel in four pages, this site holds **the whol
 ## The vision — every people group in its mother tongue
 There are about **7,396 living languages**. Our goal is this "big picture of the Bible + gospel on-ramp" in **all of them**.
 
-- **Language progress: 100+ of ~7,396 living languages** (the live 🌐 menu shows the exact, current count)
+- **Language progress: 160+ of ~7,396 living languages** (the live 🌐 menu shows the exact, current count)
 - **Population reach: ~90%** (we started with the largest languages) — *9 in 10 people can read it in their own language*
 - The remaining ~7,270 are the long tail; many do not yet have a complete Bible (OT + NT).
 
 Where there is no complete Bible we don't simply wait. A **partial mode** — *verbatim where it exists; otherwise substitute a NT quote or clearly label a summary* — carries the big picture into **NT-only / partially translated languages** and links to whatever YouVersion has. (Full translation itself is being accelerated by SIL, unfoldingWord, ETEN and others.)
+
+**But correctness comes before scale.** We publish a language only when its translated prose is **verifiably faithful** — checked by back-translation and native review. Where AI translation can't yet reach that bar (many ultra-low-resource languages), we **defer** rather than ship something unreliable: *a faithful "not yet" beats a confident mistranslation.* So the realistically auto-translatable set is far smaller than 7,396 — and that is the point. The gospel must be conveyed **correctly**, not merely widely.
 
 > This is a project that **outlasts a single lifetime** — though with AI's help, that "lifetime" can be much shorter.
 
@@ -34,7 +36,7 @@ Where there is no complete Bible we don't simply wait. A **partial mode** — *v
 - The threefold office of Christ (true Prophet · Priest · King).
 
 ## Languages
-The site auto-detects the browser/OS language and lets you switch via the 🌐 search at top right. It supports Korean, English, Chinese (Simplified/Traditional), Japanese, Spanish, Portuguese, French, German, Russian, Arabic, Hindi and **100+ languages across Europe, Asia, Africa, the Pacific and Latin America** (the site's 🌐 menu has the exact, current list).
+The site auto-detects the browser/OS language and lets you switch via the 🌐 search at top right. It supports Korean, English, Chinese (Simplified/Traditional), Japanese, Spanish, Portuguese, French, German, Russian, Arabic, Hindi and **160+ languages across Europe, Asia, Africa, the Pacific and Latin America** (the site's 🌐 menu has the exact, current list).
 
 Scripture uses each language's representative official translation — Korean Revised Version, ESV, 和合本, 新共同訳, RVR1960, Almeida, Louis Segond, Lutherbibel, Синодальный, Van Dyck, Tanakh (Delitzsch), Огієнко and more. Tapping a reference opens that language's Bible (mostly [YouVersion](https://www.bible.com)).
 
@@ -47,9 +49,11 @@ So when a language has no complete Bible, we respond in tiers — never by fabri
 2. **Substitute a NT verse for a missing OT one.** Where an Old-Testament key verse isn't available, we use a New-Testament verse that carries the same truth (e.g. Isaiah 53:5 → 1 Peter 2:24) — still verbatim — and otherwise tell that scene as an **unquoted summary** with its reference left empty (no broken link).
 3. **Widen the trusted sources / use open Scripture.** "Not on YouVersion" ≠ "no text exists." Other trusted, openly-licensed sources can be added (eBible.org, the Digital Bible Library / api.bible, unfoldingWord / Door43), and **Open Bible Stories** (Creation→Restoration, CC-licensed in hundreds of languages) maps onto this site's structure almost exactly.
 4. **Bridge language where there is no Scripture at all.** Speakers of an unwritten or yet-unreached language can usually read a regional or national language. There the **storyline and gospel are translated into the mother tongue** (prose, not Scripture) while the **quoted verses are shown in that bridge language**, linked to its Bible and clearly labeled.
-5. **Otherwise, defer honestly.** If none of the above is possible yet, the language is marked *coming soon* and recorded, to be revisited as translations and sources appear. **A faithful "not yet" beats a fabricated verse.**
+5. **Otherwise, defer honestly.** If none of the above is possible yet, the language is marked *coming soon* and recorded, to be revisited as translations, sources, and tooling improve. **A faithful "not yet" beats a fabricated verse — or an unreliable AI translation of the prose.**
 
-Tiers 3–5 are still being built out; today most languages are full mode (1), with a few in partial mode (1 + 2, e.g. Kyrgyz, Fula).
+**A quality gate governs every tier (not a population or resource threshold).** A language goes live only if its translated *prose* (the storyline, FAQ and prayer — the parts AI generates, since the verses are copied verbatim) passes an **empirical check: back-translation that faithfully matches the source + native review with no unresolved errors.** If it can't be verified faithful, it is **held**, however many people speak it. (A resource proxy like FLORES-200 / Wikipedia size is used only as an advisory "scrutinize harder" flag — it proved a poor predictor on the long tail, so it never decides on its own.)
+
+All five tiers are in use today — full (1); partial / richer-partial (1 + 2, e.g. Kyrgyz, Fula); **eBible-sourced** full Bibles (3, e.g. Tibetan); **Open Bible Stories** for no-Bible languages (3, e.g. Balochi); and **bridge mode** (4, e.g. Bhojpuri←Hindi, Chittagonian←Bengali) — each subject to the quality gate above.
 
 ## Perspective
 Based on the **evangelical · Reformed redemptive-historical** view shared by most of the Korean Protestant church.

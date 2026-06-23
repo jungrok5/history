@@ -27,6 +27,12 @@ Protestant church; Korean Revised Version (개역개정) as the Korean baseline.
 - Keep sensitive topics gently worded (murderer / "cheap grace" / "just be a good person";
   for non-ko, FAQ q3/a3 must reference **no specific films or events**). Rom 12:19 = "vengeance
   belongs to God," not a justification of revenge.
+- **Quality gate before deploy — correctness > scale.** Publish a language only if its translated *prose*
+  (storyline/FAQ/prayer — the AI-generated part; verbatim Scripture is always safe) is **verifiably faithful**:
+  `verify-prose` back-translation matches the English source AND native review has **no unresolved BLOCKER/MAJOR**.
+  If not, **defer** it ("coming soon — needs a human translator"), however many speakers. The 7,400-language vision is
+  bounded by this — *a faithful "not yet" beats an unreliable AI translation.* (Resource proxies like FLORES-200/
+  Wikipedia size are **advisory only** — `detect-mode` shows them as a "scrutinize harder" flag; they never auto-exclude.)
 
 ## File structure
 - `index.html` — single-file app (HTML/CSS/vanilla JS). **ko & en content is inline**
