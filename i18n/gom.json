@@ -1,0 +1,371 @@
+{
+ "menuName": "Konknni",
+ "htmlLang": "gom",
+ "dir": "ltr",
+ "brand": "Povitr Pustok eka nodrent",
+ "docTitle": "Povitr Pustok eka nodrent · Rochnnê thaun Igorz meren",
+ "share": {
+  "title": "Povitr Pustok eka nodrent",
+  "text": "Eka scroll-ant, Povitr Pustokachi vhôddli khobor ani Jezu kiteak ailo tem sôdun kadd."
+ },
+ "ui": {
+  "people": "Mon'xam",
+  "events": "Mukhel ghoddnnê",
+  "christLabel": "Jezuk nimtta",
+  "loveLabel": "Konnuch soddinaslolo môg",
+  "mythWrong": "Sodanchi chuk somzonni",
+  "mythRight": "Khorench",
+  "more": "Chôdd vach",
+  "version": "(KONKABSI)"
+ },
+ "labels": {
+  "start": "Suru",
+  "thread": "Kotha",
+  "gospel": "Bori Khobor",
+  "about": "Vixim"
+ },
+ "s": {
+  "ui.share": "↗ Vantun gheiat",
+  "ui.toast": "Link copy zalo 📋",
+  "ui.footer": "Povitr Pustok eka nodrent · Vchanam Konkani Novea Korara thaun",
+  "hero.kicker": "Rochnnê thaun Igorz meren",
+  "hero.title": "Povitr Pustok<br><span class='em'>eka nodrent</span>",
+  "hero.sub": "Eka scroll-ant, Povitr Pustokachi vhôddli khobor ani Jezu kiteak ailo tem sôdun kadd.",
+  "hero.cue": "Sokoil scroll kôr<span>↓</span>",
+  "thread.eyebrow": "Saglem Povitr Pustok eka utran ghuttta",
+  "thread.h2": "Nimannem, Povitr Pustok ek-uch ekoddi kotha",
+  "thread.flow": "<b>Bhasavnni</b><span class='arw'>→</span><b>Rakhonn</b><span class='arw'>→</span><b>Purnnotta</b>",
+  "thread.note": "Dev <b>bhasavnni</b> dita (korar), mon'xam choddxea kallak <b>rakhtat</b>, ani nimannem sogllem Jezu-ant <b>purnn</b> ani sompurnn zata. Sokoilim 13 dixavam hea suteak vach. Dôr-eka card-acher <b>“Chôdd vach”</b> dabun chôddli kotha ugddi zata.",
+  "gospel.eyebrow": "Hi kotha ‘mhaka’ kitem mhonnta",
+  "gospel.h2": "Povitr Pustokacho khoro gôbho",
+  "gospel.lead": "Povitr Pustok <b>“boro monis za” mhonn xikoun dilolem niti-pustok nhoi.</b>",
+  "gospel.sublead": "Hi tea kothi: Dev, <b>fôktt doiallaien</b>, apnnak vanchounk nozo aslolea patkeank vanchoita. Hachê gôbheant Jezu Krist asa.",
+  "gospel.mirror": "<h3>Israelacho na-sompchea chôkr khorench ‘mhojich’ tosbir</h3><div class='cycle'><b>Murti-puzo</b><span class='a'>→</span><b>Kôxtt</b><span class='a'>→</span><b>Ulo</b><span class='a'>→</span><b>Dev vanchoita</b><span class='a'>→</span><b>Portun murti-puzo…</b></div><p>Nyaikartam thaun bondkhonni meren, Israel hô chôkr porot-porot kôrta. Povitr Pustokan hem heam khatir boroun na ki ami “tim kitlim bhikari aslim” mhonn hansum.</p><p>Hem ek <b>arso</b>. Vixoi “Israel oxem aslem” mhollolem nhoi, punn ami polleunchê khatir ki <b>“hanvuch toslo asam”</b> (1 Korint 10:11).</p><p>Ek <b>murti</b> fôktt eka lakddachi tosbir nhoi. Hi <b>tem sogllem ki amim Deva poros chôdd môg kôrtanv vô tacher bhavart tthevtanv</b> — duddu, zoit, manai, mon'xam, ani amchem apnnach poriant. Ani Devak <b>amchi khuxi puronn korpacho ek vatt</b> mhonn vaprunk-ui murti-puzo.</p><p class='punch'>Nimannem, sôglleam poros gimblea murti “Devachea xinvasonacher boslolo mhozo apunnuch” mhollolo.</p>",
+  "gospel.coreIntro": "Tôr Dev hea patkeak koxêch vanchoita? Hench Povitr Pustokan porgottlolea bôrê khobrechi gôbho.",
+  "gospel.crux": "<p class='crux-lead'>Saglem Povitr Pustok eka zageak nimtta.</p><p>Mon'xak apneanim patkacho chôkr moddunk zaina aslo, ani konnuch promannik naslo. Dekhun konnem-eklean <b>amchea bodlek to môl farik korunk</b> aslem.</p><p>Jezu fôktt borem xikovnn diunk ailo nhoi. Tannem ieunk paddlem kiteak <b>mhaka vanchounk anik dusri vatt naslli</b>: Taka ieunkuch paddlem.</p><p class='crux-punch'>Tea khursar zaunk aslolo, to <b>hanv</b> aslom.<br>Jezun <b>mhojem patok</b> ubarun ghetlem ani mhojea bodlek thõi khilamnim marlo.</p><div class='crux-verse'>“Khursar Tannem amcheam patkancho bhar Aplê kuddicher ubarun ghetlo. Patkak patt korun Devak man’ta tê bhaxen ami jieunchê khatir Tannem oxem kelem. Tacheam ghaiamnim tumi borim zaleant.” — 1 Pedru 2:24</div>",
+  "faq.h": "Hatuntlem kãich tuka adim-ui khôtkhôtaita?",
+  "faq.q1": "<span class='arr'>▸</span> Tôr ek khunni bhavart tthevta zalear sorgar, ani jivit-bhôr boro raunaslolo bhavart tthevina zalear iemkonddant?",
+  "faq.a1": "<p>Hô ek voiglo prôxn. Punn hatunt don chuk somzonneô lipleat.</p><p><b>① Povitr Pustok mon'xank ‘borim’ ani ‘vaitt’ oxim vantun na.</b> Map ‘xezarea poros borem’ nhoi, punn ‘Devachi sompurnn povitrtai’ asa. Tachê mukhar konnuch “puro borem” na — sogllim patki zaleant (Roman 3:23). Dekhun hem ‘boro monis vi khunni’ nhoi, punn don morpachea piddestam bhaxen asa — eklo ôvkhod gheta, dusro “hanv tachê poros boro asam” mhonn taka portoita.</p><p><b>② Sorg ani iemkonddak vegllem korpi gôx fôktt eklich.</b> Karneanchem map nhoi, punn <b>tunvem Jezu Kristak Somi mhonn mandun ghetla vô na, ani tujea patkacho prôxn suttla vô na.</b> Zachem patok Kristachea rogtan suttlam to sorgar vôta; jô kednanch mandun ghena ani zachem patok tôxench urta, to vôna. Konnem-i borem karnem tujea bodlek patkacho prôxn apnneanim suttoinam.</p><p>Dekhun sorg-iemkondd ‘bôrê chalichem inam’ nhoi, punn <b>Krista lagim sombond</b> hachi gôx asa. Ani ‘bhavart’ fôktt budhi-manni nhoi, punn jivitachea Somiachem bôddol asa — jô khorench mandun gheta to gimbla zaina, bôgôr chôdd gimbllea-ievon patt kôrta. Ulttem, ‘hanv boro asam’ mhollolem <b>apunn-promannik mhonnpachem</b> sôglleam poros kôtthinn murti, jem “mhaka Krista zorur na” mhonn somzaita (Lukas 18:9-14).</p><p>Povitr Pustok hem suddhsuddhit sangta — <b>“Jim konn Tacher bhavart tthevtat tankam khastichem formonn na; punn jim konn Tacher bhavart tthevinant, tancher khastichem formonn poddlelem asa”</b> (Juanv 3:18). Nyai ‘nimannem tujea jivitak map diunchem’ nhoi, punn <b>tunvem Kristak mandun ghetla vô na</b> — hachê adinch tharaita.</p><p class='faq-v'>Roman 3:23 · Juanv 3:18 · Efez 2:8-9 · Lukas 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Jezucher bhavart tthevinastana, fôktt boro monis zaun raunchem puro nhoi?",
+  "faq.a2": "<p>Hi sôglleam chôdd somzonni, punn hi ‘khoro prôxn’ chukon somzata. Eka tosbiren somzun gheuiam.</p><p><b>Somz, tum eka chôramchea taronvar asai.</b> Toronnchi vhonsorai kitlich nitoll dovôr, bharoteleam-sangata kitloch maiemmogallo za, jivit kitlench udharonn-bhôr za — tum tôriy <b>chôram</b>uch asai, kiteak toronv tuka apnnachea zagear (nyaiacho bondôr) ghevn vôta. Prôxn ‘karneanchem map’ nhoi, punn <b>‘tum khõinchea toronvacho?’ (tuji ollôk)</b> mhollolo.</p><p>Dekhun bori khobor ‘chôdd boro za’ mhonnonam, punn <b>‘toronv bôddol’</b> mhonnta. Patkachea toronva thaun denvon Jezu lagim vôch — <b>Devachem bhurgem</b> mhollolê novê ollkhent. Hem proitnan map ubarchem nhoi, punn hat lambounaslolea-cher bhavart tthevon Tachea toronvar uttron vôchem.</p><p>Khorench Povitr Pustok soddvonn hea ‘bôddolak’uch oxi vornnita — <b>“Kallokachê razvoddkentli Tannench amkam suttka dili, Aplea mogachea Putachea rajeant amkam bhitôr kaddlim”</b> (Kolosai 1:13).</p><p>Chukon somzonaka: <b>boro jivit nirôrthok mhonnchem nhoi.</b> Punn borem-zalem soddvonnechi ‘ott’ nhoi, punn tachem <b>foll</b>. Jô toronv bôddol kelo to atam bhiien nhoi, bôgôr <b>bhurgeachea mogan</b> boro jieta.</p><p class='faq-v'>Kolosai 1:13 · Juanv 1:12 · Juanv 3:3 · Efez 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Zôr ek chukôddo ‘Devan mhaka bhogsila’ mhonn xantin urta, punn dukhi-eklo adim-ui kôxtt bhogta — tôr hem bhogsonnem chôdduch sôstem nhoi?",
+  "faq.a3": "<p>Hô prôxn voiglo, ani to dukh-ui khoro. Punn toslem mhollolem ‘Povitr Pustokachem bhogsonnem’ nhoi, punn tachem <b>bigddonnem</b>.</p><p><b>① Devachem bhogsonnem kednanch sôstem nhoi.</b> Patok ‘ghoddunkuch na’ mhonn lipoinastana; Devan apunnuch aplea Putachea jivan tachem môl farik kelem. Khurs patok holval gheta mhollolo puravo nhoi, punn patok kitlem bhari mhollolo — sonvsarantlem sôglleam mhargachem bhogsonnem.</p><p><b>② Khorem patt-bhogsonnem foll dita.</b> Zôr ek chukôddo dukhi-eklea mukhar ‘Devan mhaka bhogsila, hanv xantin asam’ mhonn besorman sangta, tôr hem patt-bhogsonnem nhoi, punn tachi nokol (Matev 3:8). Ani Dev ani mhojê modlem bhogsonnem dukhi-eklea-cho ghai ‘pusun’ kaddinam, ani dukhi-ekleak bhogsunk borzori korinam.</p><p><b>③ Patok kednanch ‘oxench soddlolem’ zaina.</b> Dôr-ek patok donantlea eka zagear farik zata — <b>vô Krist tem khursar ubarta</b> (bhavart tthevpeak atam koslench khastichem formonn na, Roman 8:1), <b>vô jô nimanne meren portoita to apnneanim ubarta.</b> Dekhun ‘sôstem suttka’ kãich na. Chukôddo sonvsarachi kaiddeachi zababdari-ui ubarta (Roman 13:1-4).</p><p><b>④ Dukhi-eklea-chim dukam Devachê mukhar kednanch lhanvim nhoi.</b> Dev rôddtaleam-sangata rôddta, dôr-ek dukam ugddas dovôrta, ani nimannem apunnuch tim pusun kaddtolo (Porgott 21:4). Dekhun dukhi-eklean farikponnacho bhar ekleach ubarchem paddona — to promannik Devak sumpunk xokta (Roman 12:19: “Farikponn ghetolo to Hanv; diunk zai tem ditolo to Hanv, uloita to Sorvespor”).</p><p class='faq-v'>Matev 3:8 · Roman 8:1 · Roman 13:1-4 · Porgott 21:4</p>",
+  "respond.h3": "Tôr — ami kitem korchem?",
+  "respond.sub": "Hô môg mhaiti nhoi, punn ek <b>apovnnem</b>. Zôr mhojea bodlek khilamnim marlolo to môg tujea kallzak liplolo, tôr atanch hem magnnem ek-êk vôll, sussegan, portoi.",
+  "respond.prayer": "<p>O Deva,</p><p>hanv kobul kôrtam ki hanv apnnak vanchounk nozo aslolo ek patki.</p><p>hanv bhavart tthevtam ki Jezu mhojê khatir khursar melo ani portun jivo zalo.</p><p>Mhojim sogllim patkam bhogos, ani azun thaun mhojea jivitacho Somi za.</p><p>Mhaka Apnnachem bhurgem mhonn mandun ghe, ani ek novem jivit jieunk di.</p><p class='amen'>Jezuchea nãvan magnnem kôrtam. Amen.</p>",
+  "respond.after": "Zôr tunvem hem kallza-thaun magnnem kelem, tôr Povitr Pustok sangta ki tum <b>Devachem bhurgem</b> zalai. Atam tum ekleach na — lagxilea igorz-ek sôdun kadd ani bhavartachê vatten heram-sangata chôl.",
+  "respond.read": "Povitr Pustok tunvench vach — Juanva thaun suru kôr",
+  "respond.verse": "“Punn Taka mandun ghetleleank, Tacher bhavart tthevteleank, Devachim bhurgim zaunchem Tannem dennem kelem.” — Juanv 1:12 · Roman 10:9-10",
+  "closing.main": "Ekuch Dev,<br>ekê kothen,<br>kednanch soddinaslolea <em>mogan</em><br>amkam sôdta.",
+  "closing.verse": "“…moronnachean vô jivitachean, devdutchean vô ontralla veleô xokti ani podveo asat tanchean… prithvê voir vô prithvê pondak asa tea sogttachean amkam toddun kaddunk koxêch bhaxen zaunchem na… Jezu Krista amchea Somia udexim Devacho môg.” — Roman 8:38-39",
+  "closing.small": "Hê kothechea sutevôir, Niti-xastr, kovita, provade ani potram ‘mãs’ zoddtat.<br>Atam, khõinchem-i pustok ugôdd, ‘kothent atam khõi asai’ tem disun ietolem.",
+  "closing.share": "↗ Hi kotha vantun gheiat",
+  "about.line": "Hi mhaiti Koriacheam Protestant Igorzecho choddxeamnim vantun ghetlolea <b>Bori-Khobor-vadi · Sudharnna-vadi soddvonnê-itihasa</b> nodrecher adarlolea.",
+  "about.contact": "Prôxn · protikriya — <a id='contact' class='mail'>Email dhadd</a>",
+  "partial.note": "Konkani-ant, fôktt Novo Korar (Novea Korar) mell'ta; Pornnea Korarachim vchanam hea avruttent nant. Pornnea Korarachea vchanancha bodlek Novea Korarachim vchanam dilim. Konkani Novo Korar tunvench vach."
+ },
+ "epochs": [
+  {
+   "tag": "Pornno Korar · Suru",
+   "title": "Rochnnê",
+   "date": "Orombak",
+   "one": "Devan ek “bhov borem” sonvsar rochlo.",
+   "people": "Dev; Adam ani Hêvai",
+   "events": "sô disanchi rochnnê, monis Devachea rupan, vixevacho dis",
+   "q": "Orombak Devan sorg ani prithumi rochli; hatunt thaun saglli kotha suru zata.",
+   "cite": "",
+   "christ": "Sonvsar “Sôbd” vorvim rochlo. Juanvacho Bori-Khobor porgottta ki to Sôbd apunnuch Jezu (Juanv 1:1-3).",
+   "detail": "<p>Povitr Pustok koslea-i tatvik vadan suru zaina, punn eka porgottnnen: <b>“Orombak Dev…”</b> Sonvsar ek opghôt nhoi, punn eka khaxa Devachem kãm.</p><ul><li><b>Devachem rup</b> · sôglleam rochnnam modem fôktt monis Devachea sarkho rochlo — taka olkhunchê ani sonvsarachi chitai korchê khatir.</li><li><b>Vixev</b> · satvea disacho vixev dakhoita ki sogllem sompurnn ani xantin (xalom) aslem.</li><li><b>Eden</b> · futun vochê adlo sonvsar, jõi Dev ani monis ekttaim chôltat.</li></ul>",
+   "next": "Punn hi purnnotta veginch futun vôta…"
+  },
+  {
+   "tag": "Pornno Korar · Vatto suru",
+   "title": "Pôddnni",
+   "date": "Orombak",
+   "one": "Patok bhitôr sôrlem, ani monis-Devachê modlem bondh tutlem.",
+   "people": "Adam ani Hêvai; sôrôp (Soitan)",
+   "events": "addkhol kel'lem foll khaunchem, Eden thaun bhair kaddunchem, moronn ani kôxtt ieunchem",
+   "q": "Devan sanglem ki sôrôp ani bailê modem dusmankai uronchi, ani bailechi xivddi sôrpachem mathem mostounchi — hi bôrê khobrechi pôili bhasavnni.",
+   "cite": "",
+   "christ": "Pôddnnê uprant lôguch dil'li bôrê khobrechi pôili bhasavnni: “bailechi xivddi” sôrpachem mathem mostounchi — ani to Jezu (Roman 16:20; Galat 4:4).",
+   "detail": "<p>“Deva sarkhe zaunchê” adnia-bhongan patok sonvsarant sôrlem. Foll fôktt ek kaiddo moddunchem nhoi, punn ek <b>tutlolem sombond</b>.</p><ul><li><b>Tutlolim bondha</b> · Deva-sangata (lipunchem), ekamekat (dôx diunchem), nisorgan (kantte ani kôxtt).</li><li><b>Moronn</b> · “tum khorench morxi” mhollolem chetavnni khorem zata.</li><li><b>Pôili axa</b> · tôriy nyaiachê modem, vanchounchi bhasavnni adim ieta. Vidvan heak <b>“proto-evangelium” (pôili bori khobor)</b> mhonntat.</li></ul>",
+   "next": "Atam Dev eka mon’xak apoun soddvonn suru kôrta…"
+  },
+  {
+   "tag": "Pornno Korar · Bhasavnni",
+   "title": "Mhalghôdde",
+   "date": "sumar 2000 PK",
+   "one": "Dev Abrahamak bhasavnni dita, “tum besãvachi vatt zaxi.”",
+   "people": "Abraham · Izaak · Jakob · Juze",
+   "events": "Abrahamacho korar, Izaakachem bolidan, Jakobache bara put, Juze Egiptant odhikari zata",
+   "q": "Devan Abrahamak bhasavnni keli ki to ek vhôddli zaat zatolo, ani tachê vorvim prithumechim sogllim kullam besãv mellteleô.",
+   "cite": "",
+   "christ": "Hi bhasavnni ki “sogllim kullam besãv mellteleô” Jezu-ant purnn zata, jô Abrahamachi xivddi (Galat 3:16).",
+   "detail": "<p>Dev sogllea mon’xa-zaticho prôxn eka mon’xak, <b>Abrahamak</b>, apoun suttavnnek lagta. Hachi gôbho <b>korar (bhasavnni)</b> — ek vhôddli zaat, ek dês, ani “sogllim kullam besãv”.</p><ul><li><b>Bhavart</b> · Abrahaman dixttipoddnaslolê bhasavnnecher bhavart tthevlo, ani tem taka promannikponn lekhlem.</li><li><b>Izaak ani Jakob</b> · bhasavnni mukhlê pillgek vôta; Jakob (Israel) bara kullancho bapui.</li><li><b>Juze</b> · bhavamnim vikun-i odhikari zalo — Devan taka boreak vatt dakhoili.</li></ul>",
+   "next": "Juze-pattlean ghorabo Egiptak vôta — ani gulam zata…"
+  },
+  {
+   "tag": "Pornno Korar · Suttavnni",
+   "title": "Bhair-vôchem ani Ronn",
+   "date": "sumar 1446 PK",
+   "one": "Devan gulam zal’lea mon’xank vanchoile ani tankam apnnachem kelem.",
+   "people": "Moizes, Aron, Faraom",
+   "events": "dha vipotti, Paska, Tambddo Doria uttron, Sinai-ar dha adnia, Mellnnem-tombu, ronnant 40 vôrsam",
+   "q": "Devan sanglem ki to tankam apnnachi porza kôrtolo, ani apunnuch tancho Dev zatolo.",
+   "cite": "",
+   "christ": "Paska — jõi menddreachea rogtan moronn pois kelem — Jezuk nimtta, jô “amcho Paskacho Menddro”, amchê khatir bolidan zalo (1 Korint 5:7).",
+   "detail": "<p>Pornnea Korarachem sôglleam vhôddlem suttavnnem. Eke vellar gulam zal’lem Israel Devachea bollan mukôtt zata ani tachi <b>porza</b> mhonn ghoddpaita.</p><ul><li><b>Paska</b> · zachea dorar menddreachem rogot, taka moronn soddun vôta — fuddleam sôglleam bolidanancho namuno.</li><li><b>Tambddo Doria</b> · jõi vatt sompli, thõi suttavnnem; “uttronchem” novea suruvatecho ixaro zata.</li><li><b>Sinaicho korar</b> · dha adnia vorvim tim Devachi porza koxim jieunchem tem xiktat.</li><li><b>Mellnnem-tombu</b> · ek choltolem povitr-thodd jõi Dev porzê modem ravta — “Immanuel”acho pôvrabhas.</li><li><b>40 vôrsam</b> · adnia-bhongak lagun ek pillgi ronnant bhonvta, tôriy Dev manna ani megh-uzeachea khambean sangata ravta.</li></ul>",
+   "next": "Bhasayil’lea desachea koddêr ubim, tim bhitôr sôrunk toiar zata…"
+  },
+  {
+   "tag": "Pornno Korar · Vosti",
+   "title": "Zoit ani Nyaikartam",
+   "date": "sumar 1400–1050 PK",
+   "one": "Dês mell’lo, punn raza-vinnem dôr-eklean apnnachê nodrent borem dislolem tem kelem.",
+   "people": "Jôzve; Nyaikartam Gideon ani Samson bhaxen; Rut",
+   "events": "Jericho-chi pôddnni, Kanaant vosti, patok–nyai–suttavnnecho portavlolo chôkr",
+   "q": "Tea disamnim Israelant koslo-i raza naslo; dôr-eklean apnnachê nodrent borem dislolem tem kelem.",
+   "cite": "",
+   "christ": "Rutichê vonxa thaun David ieta, ani Davidachê vonxa thaun Jezu (Matev 1). Bhômgudda-modem-i, Mesiachi vonxa-vôll choltench urta.",
+   "detail": "<p>Jôzvechea fuddarponnan tim bhasayil’lea desant bhitôr sôrtat, punn vosti uprant veginch Devak visôrtat. Nyaikartanchem pustok tea ekê namuneacho portavôll.</p><ul><li><b>Sokoil-vôchpacho chôkr</b> · patok → zulum → ulo → ek nyaikartan suttavnnem → portun patok. Hem fôktt vaitt zat-vôta.</li><li><b>Nyaikartam</b> · Gideon, Samson, Debora — vellâche suttavpi, dhirad punn vhôdd doxamnim bhôrlolê.</li><li><b>Rut</b> · kalokhi iuga-modem visvaxikaichi ujvallê kotha; ek poriaki bail Davidachê (ani Jezuchê) vonxant bhitôr ieta.</li></ul>",
+   "next": "Mon’xam ulo kôrtat, “amkam-i ek raza di!”…"
+  },
+  {
+   "tag": "Pornno Korar · Bhangranno iug",
+   "title": "Ekttavlolem Raj",
+   "date": "sumar 1050–930 PK",
+   "one": "Dev Davidak bhasavnni dita, “tujem xinvason sasnnak urtolem.”",
+   "people": "Saul · David · Solomon",
+   "events": "pôilo raza Saul, David ani Goliat, Davidacho korar, Solomon mondir bandhta",
+   "q": "Devan Davidak bhasavnni keli ki tacho ghorabo ani raj tachê mukhar sasnnak ghôtt urtolem, ani tachem xinvason kednanch na-moddtolem.",
+   "cite": "",
+   "christ": "Hem “sasnnachem xinvason” Jezu-ant purnn zata, jô Davidacho Put — dekhunuch Taka “Davidacho Put” mhonntat (Lukas 1:32-33; Matev 1:1).",
+   "detail": "<p>Israelacho uchamb, tin razancha raja-modem.</p><ul><li><b>Saul</b> · lôkamnim magil’lo raza; boro suru punn adnia-bhongan moddlo.</li><li><b>David</b> · “Devachea kallza-pormonnem ek monis.” Tannem Goliatak harvolo ani Jeruzalemak razthani kelem. Tannem vhôddlem patok kelem (Bat-xeba) tôriy kallza-thaun patt-bhogsonnem kôrta.</li><li><b>Davidacho korar</b> · Dev Davidacho razvonx sasnnak ghôtt korpachi bhasavnni kôrta — Mesia-axechem nirnnaiok mull.</li><li><b>Solomon</b> · giman ani sompôtticho uchamb-vôir tô Jeruzalemant <b>mondir</b> bandhta, punn jivitachea nimannean murti-konddek vôta.</li></ul>",
+   "next": "Solomona uprant, raj donant vantun vôta…"
+  },
+  {
+   "tag": "Pornno Korar · Sokoil-vôchem",
+   "title": "Vantlolem Raj",
+   "date": "930–586 PK",
+   "one": "Dôkxinn (Juda) ani Uttôr (Israel) oxem vantun, zaat ulli-ulli moddon vôta.",
+   "people": "Don razanche raza; Elias, Izaias, Jeremias bhaxen provade",
+   "events": "raj vantun vôta, murti-puzo possôrta, provade chetavnni ditat",
+   "q": "Oxê bhaxen Israel Davidachea ghoranneacher bonddkhor zaun veglli zali.",
+   "cite": "",
+   "christ": "Hea iugant provade ietolea Mesia-vixim chôdd suddhsuddhit bhakit kôrtat.",
+   "detail": "<p>Solomonachea putachea disamnim zaat vantun vôta: <b>Uttrechem Israel raj</b> (10 kullam, razthani Samaria) ani <b>Dôkxinnechem Juda raj</b> (2 kullam, razthani Jeruzalem).</p><ul><li><b>Israel (Uttôr)</b> · tacho dôr-ek raza murti-puzo kôrta; hem 722 PK-ant Aslurachea hatak poddta.</li><li><b>Juda (Dôkxinn)</b> · Davidachi vonxa choltench urta, Hizkias ani Josias bhaxen thoddea borea razam-sangata, punn ekvôtt-mello sokoil-vôchpi.</li><li><b>Provade</b> · Elias, Amos, Izaias, Jeremias “portun ieiat!” mhonn ulo kôrtat. Mesia-bhakit hangacher sôglleam dôdôx zata.</li></ul>",
+   "next": "Nimannem chetayil’lo nyai ieta — tim bondi korun vhortat…"
+  },
+  {
+   "tag": "Pornno Korar · Nyai",
+   "title": "Bondkhonn",
+   "date": "722 / 586 PK",
+   "one": "Zaat koslli poddta ani mon’xank poriaki desant odun vhortat.",
+   "people": "Daniel, Ezekiel, Nabukadnezar",
+   "events": "Israel Aslurachea hatak poddta (722); Juda Babilonachea hatak poddta ani mondir naxtt zata (586)",
+   "q": "Babilonachea nhõieanchea koddêr, thõi ami boslim ani roddlim, jednam Sionacho ugddas kelo.",
+   "cite": "",
+   "christ": "Nirasevele gôbheant Jeremias eka “novea korara”chi bhasavnni kôrta — toch korar jô Jezun nimannea jevnnant ghôtt kelo.",
+   "detail": "<p>Chetavnneô khôrê zatat. Mondir lasta ani mon’xank Babilonak vhortat — dês, raza ani mondir sogllem hôgddaita: sôglleam sokoilo bindu.</p><ul><li><b>Don pôddnneô</b> · Israel (Aslur, 722 PK) ani Juda (Babilon, 586 PK).</li><li><b>Daniel</b> · poriaki razdorbarant-i (xinvancha bilant) bhavartacho namuno; to ieteleam “sasnnachea raja”cheô dôrxonam polleita.</li><li><b>Axechi tinghi</b> · suklolea haddancho jivo-zaunchea dôrxonam ani Jeremiasacho “novo korar” kallokhant fuddarak nimtta.</li></ul>",
+   "next": "Sottôr vôrsam uprant, Dev vatt ugddi kôrta — tim portun ghora ietat…"
+  },
+  {
+   "tag": "Pornno Korar · Punorsthapôn",
+   "title": "Bondkhonni thaun portun",
+   "date": "538–430 PK",
+   "one": "Tim portun ietat ani mondir ani gãvkott portun bandhtat.",
+   "people": "Ezra, Nehemia, Ester, Zerubabel",
+   "events": "Sirusachea hukman portun ieta, mondirachem punorbandh, Jeruzalemachea gãvkottachi durusti, Sôbdacho punorsthapôn",
+   "q": "Sorvesporachi khuxalkai amchem boll.",
+   "cite": "",
+   "christ": "Pornnea Korarachem nimannem pustok eka khôbri-dharchea bhakitan sompta jô Mesiachi vatt toiar kôrtolo.",
+   "detail": "<p>Persiacho raza Sirusachea hukman (538 PK) portun-ievpacho suru zata. Tin lharamnim tim portun ietat ani naxtt zal’lem portun bandhtat.</p><ul><li><b>Zerubabel</b> · mondir portun bandhta (516 PK-ant sompurnn).</li><li><b>Ezra</b> · Sôbd portun xikoita ani bhavart portun jivo kôrta.</li><li><b>Nehemia</b> · Jeruzalemacho gãvkott 52 disamnim portun bandhta.</li><li><b>Ester</b> · Persiantleam Juda-lokak naxa thaun vanchoita — “oslea vella khatir.”</li><li><b>Adim-ui tan</b> · mondir ubem asa, punn David bhaxen koslo-i raza na. Lôk Mesiachi vatt polleitat.</li></ul>",
+   "next": "Ani magir… sôrg gôp zalolea bhaxen, 400 vôrsam vôtat."
+  },
+  {
+   "tag": "Don Korarancha modem · Bhoim toiar",
+   "title": "Mounnachim vôrsam",
+   "date": "sumar 430–4 PK",
+   "one": "400 vôrsam koslea-i provadeacho tallo na — tôriy bhoim gôpginnem toiar zatalem.",
+   "people": "Alexander Vhôddlo, Makabi, Rom",
+   "events": "Persia → Grik → Makabi suttkai → Roman raj",
+   "q": "Punn nemlolo kall bhòrlo tedna, Devan Apleach Putak dhaddlo. Ho Put êkê bailê thaun zolmun ailo…",
+   "cite": "Galat 4:4",
+   "christ": "Hem sogllem “bhoim toiar korchem” Devachem kãm aslem joxem Jezu sarkho “kallachê purnnotter” ieunchê khatir.",
+   "detail": "<p>Pornnea Korarachea nimannea pustoka thaun Novea Korar meren, sumar 400 vôrsam koslo-i novo povitr-xastr na. Tôriy itihasachea fattlean Dev bôrê khobrechea possôrnneachi vatt toiar kôrtalo.</p><ul><li><b>Razvôddki bôddoltat</b> · Persia → Grik (Alexander, 333 PK) → Tolemi ani Selukid → Makabi bonddkhor (167 PK) → Rom (63 PK).</li><li><b>Grik bhas</b> · Alexanderachea zoitan Grik bhas sodanchi bhas zata; Pornno Korar Grik-ant ônvôddla zata (Septuagint), bôrê khobrechea veginchea possôrnneak vatt ugddi kôrta.</li><li><b>Roman ruste ani xanti</b> · borê bandhlolê ruste ani “Pax Romana” misanvachi vhôddli vatt zatat.</li><li><b>Sinagog ani pôntt</b> · sinagogachem xikovnn mull dôvôrta; Farizev ani Sadusev uttat; ani <b>Mesia-axa</b> pôkti zata.</li></ul>",
+   "next": "Magir mounn tutta — nimannem, To ieta."
+  },
+  {
+   "tag": "Novo Korar · Purnnotta",
+   "title": "Jezuchem ievpem",
+   "date": "sumar 4 PK–30 KK",
+   "one": "Bhasayil’lo Mesia ailo, melo, ani portun jivo zalo.",
+   "people": "Jezu, bara xis, Juanv Bapdar",
+   "events": "monis-zaunchem, tachem misanv ani xikovnn ani ojeapam, khursacher moronn, tisrea disa punorjivontponn",
+   "q": "Sôbd monis zaun dixtti poddlo: ani oxem Tannem amchê modem tthikann kelem. Tachi mhoima ami dekhlea: hi Bapachea ekleach Putachi khaxa mhoima, doiallaien ani sotan bhòrlolo.",
+   "cite": "Juanv 1:14",
+   "christ": "Bailechi xivddi (dixav 2), Abrahamachem besãv (3), Paskacho menddro (4), Davidacho sasnnacho raza (6), novo korar (8) — sogllem ekach mon’xant, Jezu-ant, purnn zata: amcho khoro provadi, podôr, ani raza.",
+   "detail": "<p>Mounn tutta; bhasayil’lo to ieta. Char Bôrê-Khobream Jezuchea jivitachi, moronnachi ani punorjivontponnachi char konnam thaun gôvai ditat.</p><ul><li><b>Monis-zaunchem</b> · Dev monis zalo (Immanuel, “Amchê sovem Dev”), Betleamachea dinponna-modem.</li><li><b>Misanv</b> · To Devachea Rajacho xikovnn dita, piddestank borim kôrta, patkeank apoita. “Jannem Mhaka dekhlo tannem Bapaik dekhlo.”</li><li><b>Khurs</b> · Pôddnnê (dixav 2) thaun ail’lem patok ani moronnachem môl amchea bodlek farik kôrta. Khoro Paskacho menddro.</li><li><b>Punorjivontponn</b> · tisrea disa jivo zaun To patok, moronn, ani Soitanachem boll moddta — khursarunch Tannem “odhikarianchi ani odhipotinchi podvi kaddun ghetli, ani… soglleam rochnnam mukhar tankam firoile” (Kolosai 2:15).</li></ul><p>Dekhun Jezu amcho <b>khoro provadi</b> (Deva-kuxinchi vatt dakhoita), <b>khoro podôr</b> (apnnachê kuddin patkacho farik kôrta), ani <b>khoro raza</b> (patok, moronn, ani Soitanak harvon sasnnak raj kôrta).</p>",
+   "next": "Jivo zal’lo Jezu apnnachea xisank sonvsarant dhaddta…"
+  },
+  {
+   "tag": "Novo Korar · Possôrnnem",
+   "title": "Igorz suru zata",
+   "date": "sumar 30 KK–",
+   "one": "Atmo ieta, ani bori khobor prithumechea koddxam meren possôrta.",
+   "people": "Pedru, Paulu, suruvatechi Igorz",
+   "events": "Pentekostant Atmeachem vôtnnem, Igorzecho zolm, chhôll-monni-modem Jeruzalem thaun Rom meren bôrê khobrechem possôrnnem",
+   "q": "Punn tumcher denvun ietolo tea Povitr Atmeachem boll tumi ghetelet ani Jeruzaleant… ani sonvsaracheam ximam porian tumi Mhoje govai zatelet.",
+   "cite": "Niz-kãm 1:8",
+   "christ": "Hi kotha aiz-ui choltench asa. Povitr Pustok hê bhasavnnen sompta ki Jezu portun ietolo ani sogllem novem kôrtolo (Porgott 21).",
+   "detail": "<p>Jezuchea sôrgar-vôchpa uprant, bhasayil’lo Atmo Pentekostant ieta ani Igorzecho zolm zata. Bori khobor futtnnê-rupan possôrta.</p><ul><li><b>Pentekost</b> · Atmo bhiel’lea xisank dhirad gôvaiamnim bôddolta.</li><li><b>Pedru</b> · Jeruzalemant Juda-lokak bori khobor porgottta.</li><li><b>Paulu</b> · chhôll-monni karpea thaun provadi zaun, poriaki sonvsarant Igorzo lavta ani potram boroita.</li><li><b>Prithumechea koddxam meren</b> · Jeruzalem → Judeia → Samaria → Rom. Abrahamak dil’li “sogllim kullam” bhasavnni khôri zata.</li><li><b>Ani ami</b> · kotha sompona; hi Jezuchea portun-ievpa ani novea sôrga ani novê prithumê-kodden fuddem vôta.</li></ul>",
+   "next": "Punn kotha hangach sompona…"
+  },
+  {
+   "tag": "Novo Korar · Uchamb-purnnotta",
+   "title": "Punorsthapôn (sogllem novem)",
+   "date": "fuddem ietolem",
+   "one": "Jezu portun ietolo ani sogllem novem kôrtolo.",
+   "people": "Portun-ietolo Jezu; sogllê zaati",
+   "events": "Dusrem ievpem, nimanno nyai, patok·moronn·dukamancho xevôtt, novo sôrg ani novi prithumi",
+   "q": "Tancheam dolleantlim sogllim dukam To pusun kaddtolo; moronn anink aschem na, dukh anink korchim nant, rudon somptolem, koxtt-ui anink asche nant. Adlem sogott soron gelem.",
+   "cite": "Porgott 21:4",
+   "christ": "Pôilê rochnnê-cho Eden nimannem “novo Jeruzalem” mhonn punorsthapôn zata. Dev apnnachê porzê-sangata sasnnak ravta — Immanuelachi purnnotta (Porgott 21:3; Matev 1:23).",
+   "detail": "<p>Povitr Pustok Igorzechea iugant sompona. Tachem nimannem pustok, Porgottnnem, Jezuk <b>portun ietolo</b> mhonn dakhoita jô sogllem purnn kôrta.</p><ul><li><b>Dusrem ievpem</b> · bhasayil’lo raza mhoiment portun ieta.</li><li><b>Nimannem zoit</b> · Soitan ani moronn sasnnak naxtt zatat, ani Krist razancho Raza mhonn raj kôrta (1 Korint 15:25-26; Porgott 20:10).</li><li><b>Nyai ani punorjivontponn</b> · dôr-ek onit nitt zata, ani melolê jivê zatat.</li><li><b>Novo sôrg ani novi prithumi</b> · patok, moronn, dukam, ani kôxtt sasnnak hôgddtat (Porgott 21:4).</li><li><b>Punorsthapit Eden</b> · suruvate poros boro “novo Jeruzalem”ant, Dev apnnachê porzê-sangata sasnnak ravta — toch xevôtt zaka-koddem saglem Povitr Pustok vôtalem.</li></ul><p>Dekhun atam <b>“zalem, punn adim-ui na”</b> mhollolo iug: Jezu-ant soddvonn <b>zalem</b> purnn, punn tachi purnnotta <b>adim-ui</b> rakhli vôta.</p>",
+   "next": "Tôr hi saglli kotha ‘mhaka’ kitem mhonnta?"
+  }
+ ],
+ "love": [
+  "Kotha nyaian suru zaina, punn mogan vôtlolê rochnnen suru zata.",
+  "Joxem monis patok kelem, toxench Devan thõi lôguch soddvonnechi bhasavnni keli.",
+  "Dev pôilo na-layôk mon’xa lagim ailo, taka nãvan apoilo, ani besãvachi vatt kelo.",
+  "Tannem gulam zal’lê zaticho rôddnnem aikolem ani apunnuch sokoil ievn tankam vanchoile.",
+  "Porot-porot dôx mell’llea uprant-i, dôr-ek pavtti tim ulo kelem tednam, suttavpi dhaddlo ani tankam uthoile.",
+  "Pôddlolea Davidak-ui Tannem hôgddunk na; tachê vorvim eka sasnnachea raja-chi bhasavnni keli.",
+  "Pãtt firovpea mon’xank Tannem provade dhaddtench urlo, ‘portun ieiat’ mhonn vinôvun.",
+  "Bondkhonnechea sôglleam kalokhi desa meren Tannem tanchê-sangata sokoil ailo, ani punorsthapônachi bhasavnni keli.",
+  "Porot-porot ônôll zatolea mon’xank-i Tannem apli bhasavnni portun gheunk na.",
+  "400 vôrsanchea mounna-modem-i, dixttipoddnastana, To soddvonnechi vatt toiar kôrtalo.",
+  "Joxem ami adim-ui patkiuch aslim, Tannem apnnacho Put dhaddlo ani apnnacho jiv dilo.",
+  "Joch môg ami mell’llo, toch To atam sagllea sonvsarant vôtunk dhaddta.",
+  "Nimannem To sogllim dukam pusun kaddtolo ani sogllem mogan novem kôrtolo."
+ ],
+ "mis": [
+  {
+   "w": "«Dev koxêch oslo monis rochlo jô patok korunk xokta? Amkam mullavinch rochinastana borem naslem?»",
+   "t": "Devan sonvsar ani mon’xank koslea-i unnenak lagun nhoi, punn umallttea mogak lagun rochli. Mon’xak <b>Deva-sangata sombond aslolo eklo</b> mhonn rochchem hench môg. Ani patok bhitôr ietôch poriant Devachê soddvonnê-ievzonnê bhair naslem (Efez 1:4-5). Povitr Pustokachi pôili dixav nyai nhoi, punn môg."
+  },
+  {
+   "w": "«Fôktt ek foll khaunkuch lagun bhair kaddunchem ani moronna meren — Dev chôdduch kôtthinn nhoi?»",
+   "t": "Eden thaun bhair kaddunchem nyai-i aslem ani doia-i. Tea tutlolê, Deva-thaun-vegllê stitint zôr monis jivitachea zhaddacho khaun sasnnak jiela, tôr to sasnnak kôxttant bond zatolo. Moronnachi porvôngi portun-ievpachi vatt ugddi keli, ani thõi Devan eka suttavpeachi bhasavnni keli. Môg adinch nyaiachê bhitôr aslo."
+  },
+  {
+   "w": "«Abraham vhôddlea bhavartak lagun vinchlo — Povitr Pustokachim sogllim mon’xam niti-virponn nhoi?»",
+   "t": "Abrahaman foddpô sanglem ani dubhav kelo, ani Jokob ek fottkiro aslo. Devan “layôk”ank nhoi, punn doxam-bhôrleleank, doiallaien apoile. Karonn tanchem borem-zalem nhoi, punn Devacho visvaxi môg aslo."
+  },
+  {
+   "w": "«Somurt (adnia) ek pôriksha mhonnchi ki vanchunk pas korunk paddta?»",
+   "t": "Devan tankam somurt diunchea <b>adinch</b> vanchoile. Dha adnia-ui soddvonnechê porgottnnen suru zatat — Devan tankam Egipta thaun bhair kaddlo. Somurt ‘vanchunk pall’ mhonnchi nhoi, punn adinch doiallaien vanchoil’lê porzen koxem jieunchem tachem mogall margdôrxôn. Doiallai sodanch adim; adnia-pall zababi."
+  },
+  {
+   "w": "«Kanaanachem zoit ek bhirankull marnnem aslem; dekhun Pornnea Koraracho Dev khorench nirdai.»",
+   "t": "Hô ek kôtthinn vixoi jô eka utran suttona ani zopnnai magta. Punn Povitr Pustok heak mônzori himsa mhonn nhoi, punn xek-bhôrlolea vaittponna (bhurgeanchea bolidana meren) vôir xenkddeam vôrsanchea dhirar uprant ek nyai mhonn dakhoita. Dev nyaiant-i ghai korina, ani jô tachê-koddem portoita taka to khuxalkaien mandun gheta — Rahab ani Rut bhaxen poriaki-i."
+  },
+  {
+   "w": "«David ek dôx-nastolo virponn aslo; dekhun taka ‘Devachea kallza-pormonnem monis’ mhonn’lem.»",
+   "t": "Davidan vebhichar ani khun-i kelem. ‘Devachea kallza-pormonnem monis’ mhollolea-cho ôrth dôx-nastolo nhoi, punn jô apnnachem patok lipoinaslo — jô gôvôtt patt-bhogsonnem kelo ani sodanch Devakôddem portolo. Devacho môg gôvôtt poddlolea-ki-i hôgddinam."
+  },
+  {
+   "w": "«Provade fuddar sangtolê joxikar; Pornnea Koraracho Dev fôktt rogan bhôrlolo.»",
+   "t": "Eka provadeachi gôbho ‘fuddar sangchem’ nhoi, punn Devachea kallzacho ulo: ‘portun ieiat.’ Nyaiachea chetavnnecho hetu-i naxtt korchem nhoi, punn mon’xank portoun jivit diunchem — vaittanchea moronnant Devak koslich khuxalkai mellona."
+  },
+  {
+   "w": "«Bondkhonn dakhoita ki Devan Israelak sompurnn soddlem.»",
+   "t": "Bondkhonn soddunchem nhoi, punn ek mogall bhurgea-kodden xist ani nitollai aslem (Ebrev 12:6). Dev geleo na; To bondkhonnechê gôbheant Daniela-sangata aslo ani bhasavnni keli ki tachê ievzonneô xantiche, vaittanchê nhoi, joxem tankam ek fuddar ani ek axa mellunk."
+  },
+  null,
+  {
+   "w": "«Zôr 400 vôrsam koslo-i Sôbd na, tôr Dev gelo vô vixev ghetalo?»",
+   "t": "Mounn gôir-hazri nhoi. To fôktt ulounk na, jednam tea sôgllea kallant razvôddki, bhaso, ani ruste choloitalo soddvonnechem bhoim toiar korunk. Sôglleam gôp velar, Dev sôglleam chôdd, mogan, kãm kôrtalo (Galat 4:4)."
+  },
+  {
+   "w": "«Jezu fôktt ek boro niti-xikxôk aslo; khurs ek dukhi hôll aslem.»",
+   "t": "Jezun apnnak Dev mhonn porgottlo (Juanv 8:58), ani khurs koslo opghôt vô hôll naslem, punn ievzal’lo môg aslo. To zoran thõi odlo na; To apnnacho jiv apnnachê khuxen dilo (Juanv 10:18). “Konnem zôr apleam ixttam pasot aplo jiv dilo, hachê poros vhôdd môg konnak na!” (Juanv 15:13)."
+  },
+  {
+   "w": "«Igorz sompurnn mon’xancho dhormik club, vô fôktt ek bandhpem.»",
+   "t": "Igorz ‘sompurnn santanchi’ ekvôtt nhoi, punn <b>bhogsiil’lea patkeanchi</b>. Provadi Paulu-ui apnnak “patkeantlo paxtt patki” mhonn’lo (1 Timotei 1:15). Suruvatechi Igorz-ui zhôgddli ani kollôtt khali. Hem mira korpacho zago nhoi, punn mell’llo môg fuddem vôrtolea mon’xancho."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Mull-patok — konnuch promannik na",
+   "body": "Prôxn ‘thodde vaitt karneam’ nhoi, punn kallzachem mull. Adama thaun, dôr-eklo patkachea pondak zolmta ani apneanim Deva meren pavunk xokona.",
+   "vref": "Roman 3:10-12, 23",
+   "vtext": "Boro mhonnlolo monis eklo porian na, Somzota toslo konnuch na, Devak sôdta to konn-êklo na! … Khorench, sogllim patki zalim, ani Aplê mhoiment vantto gheunk jem Devan mon’xank nirmil’lem tem tankam chuklem."
+  },
+  {
+   "title": "Somurt amkam vanchounk xokona",
+   "body": "Somurt ek soponn nhoi, punn ek arso. Jitlo chôdd proitn kôrtanv, titlech tem dakhoita ki ami kitlim chuktanv. Tachi gôx amkam Krista meren pavounchi.",
+   "vref": "Roman 3:20 · Galat 3:24",
+   "vtext": "Somurti udexim patkachi ollok asta dekhun, Somurtichim kortubam korun, konnuch Devak manovlelim zainant. … Krist ieit porian, amcher odhikar cholounk Devan dil’li somurt ti."
+  },
+  {
+   "title": "Doiallaien — ek dennem, proitn nhoi",
+   "body": "Soddvonn zoddlolea punneacho pôgar nhoi, punn na-layôk mon’xank Devachem funkeachem dennem. Dekhun konnuch mira korunk xokona.",
+   "vref": "Efez 2:8-9",
+   "vtext": "Karonn Devachech doiallaien, bhavarta udexim, tumkam soddvonn mell'lea; ti tuminch kel'leam proitnancho foll nhoi, punn Devachem funkeachem dennem. … kiteak amchi soddvonn amcheanch kornneam udexim upzona."
+  },
+  {
+   "title": "Bhavartan promannik thoraunchem",
+   "body": "Somurt-pallan nhoi, punn Jezu Kristacher bhavartan tum promannik lekhlolo zatai — apnnachê promannikaien nhoi, punn Tachê promannikaien nesoilolo.",
+   "vref": "Roman 5:1 · Galat 2:16",
+   "vtext": "Bhavarta vorvim Devan amkam Apnnak manovlelim keleant dekhun, amchea Somia Jezu Krista udexim Deva thaim ami xantin jietanv … khõichim-i mon’xam… Jezu Kristacher bhavart dovrun Devak manovlelim zaunchê khatir, ami-i Jezu Kristacher bhavart dovorla."
+  },
+  {
+   "title": "Povitr Pustok Jezuk nimtta",
+   "body": "Povitr Pustok vhôddlea mon’xanchem jivit-charitr vô apnn-adharachem pustok nhoi. Suruvate thaun Porgottnnea meren, dôr-ek pann ekach mon’xa-vixim gôvai dita — Jezu Krist.",
+   "vref": "Juanv 5:39 · Lukas 24:27",
+   "vtext": "tinch Mhojê vixim sakxi ditat … Magir Moizesa ani soglleam provadeam meren Apnnak lagtat titleam-i xastrancho ôrth To tankam sangunk laglo."
+  },
+  {
+   "title": "Devachem Raj — Jezuchea sondexacho gôbho",
+   "body": "Toch vixoi jô Jezun sôglleam chôdd xikoilo. Jõi Dev raza mhonn raj kôrta, tem Raj Jezu-sangata hea sonvsarant bhitôr sôrlem ani tachea portun-ievpar purnn zatolem. Khurs ani punorjivontponna vorvim, Jezu khoro raza jannem patok, moronn, ani Soitanak harvolo.",
+   "vref": "Marku 1:15",
+   "vtext": "Nemlolo kall bhòrlo ani Devachem Raj ieunchem zalem. Jivit-mon bôdlat ani xubhvhortoman mandun gheiat."
+  },
+  {
+   "title": "Bori khobor — Tannem sogllem sompoilem",
+   "body": "Tem patkachem rinn jem ami kednanch farik korunk nozo aslem, Jezun amchea bodlek khursar farik kelem, ani jivo zaun moronnak harvolo. Ami ‘hem kôr’cher nhoi, punn ‘sompadlem’cher tttekta.",
+   "vref": "Juanv 19:30 · Roman 5:8",
+   "vtext": "Sompadlem! … Punn ami patki zaunui, Krist amchê pasot melo te vixim Dev amkam Aplea mogacho puravo dita."
+  }
+ ],
+ "books": {
+  "Matev": "MAT",
+  "Marku": "MRK",
+  "Lukas": "LUK",
+  "Juanv": "JHN",
+  "Niz-kãm": "ACT",
+  "Roman": "ROM",
+  "1 Korint": "1CO",
+  "2 Korint": "2CO",
+  "Galat": "GAL",
+  "Efez": "EPH",
+  "Filip": "PHP",
+  "Kolosai": "COL",
+  "1 Timotei": "1TI",
+  "2 Timotei": "2TI",
+  "Ebrev": "HEB",
+  "1 Pedru": "1PE",
+  "2 Pedru": "2PE",
+  "Porgott": "REV"
+ },
+ "yv": 1866,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

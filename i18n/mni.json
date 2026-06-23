@@ -1,0 +1,383 @@
+{
+ "menuName": "Meiteilon",
+ "htmlLang": "mni",
+ "dir": "ltr",
+ "brand": "Bāibalbu Scroll Amada",
+ "docTitle": "Bāibalbu Scroll Amada · Semtibadagi Singlupki phaoba",
+ "share": {
+  "title": "Bāibalbu Scroll Amada",
+  "text": "Scroll amatada, Bāibalgi achouba wāri amasung Jisuna karigi lākkhibage haibadu khang'u."
+ },
+ "ui": {
+  "people": "Misak",
+  "events": "Maru oiba thoudoksing",
+  "christLabel": "Jisuda khudum tāhalli",
+  "loveLabel": "Mutkhidaba nungsiba",
+  "mythWrong": "Lallaba wākhal",
+  "mythRight": "Achumbadi",
+  "more": "Henna pārou",
+  "version": "(MBUR22)"
+ },
+ "labels": {
+  "start": "Houbi",
+  "thread": "Warigi lambi",
+  "gospel": "Aphaba Pāo",
+  "about": "Maramda"
+ },
+ "s": {
+  "ui.share": "↗ Sandok'u",
+  "ui.toast": "Link copy toukhre 📋",
+  "ui.footer": "Bāibalbu Scroll Amada · Bāibalgi wāheising MBUR22-dagini",
+  "hero.kicker": "SEMTIBADAGI SINGLUPKI PHAOBA",
+  "hero.title": "Bāibal,<br><span class='em'>scroll amada</span>",
+  "hero.sub": "Scroll amatada, Bāibalgi achouba wāri amasung Jisuna karigi lākkhibage haibadu khang'u.",
+  "hero.cue": "Makha tāna scroll tou<span>↓</span>",
+  "thread.eyebrow": "BĀIBAL APUMBA PUNSILLIBA WAHANG AMA",
+  "thread.h2": "Aroibada Bāibaldi wāri amatani",
+  "thread.flow": "<b>Wāsak</b><span class='arw'>→</span><b>Ngaiba</b><span class='arw'>→</span><b>Thunghanba</b>",
+  "thread.note": "Isorna <b>wāsak</b> tāi (warepnaba), misingna matam sāngna <b>ngaii</b>, aduga aroibada pumnamak Jisuda <b>thungna</b> amasung mapung phāna oire. Makha tāriba thoudok 13 asi lambi asigi matung inna inthou. Card khudingda <b>“Henna pārou”</b> namduna henna luna wāri adu pārou.",
+  "gospel.eyebrow": "WĀRI ASINA “EI”GIDAMAK KARI HAININGBAGE",
+  "gospel.h2": "Bāibalgi achumba thawai",
+  "gospel.lead": "Bāibaldi <b>“aphaba mi oirou” haina tāmba lairik amatadi natte.</b>",
+  "gospel.sublead": "Madudi, Isorna <b>thoujān khaktagi mapānna</b>, masāmak kanjaba ngamdaba pāpisingbu kanbiba adugi wārini. Madugi mayaida Jisu Khrista lepli.",
+  "gospel.mirror": "<h3>Isrāyelgi lomba nāidaba chak-haba asi achumbadi “ei” isāgi mitam ama oi</h3><div class='cycle'><b>Lāi murti latpa</b><span class='a'>→</span><b>Awāba</b><span class='a'>→</span><b>Laoba</b><span class='a'>→</span><b>Isorna kanbi</b><span class='a'>→</span><b>Amuk lāi murti latpa…</b></div><p>Wāyel mapudagi houduna mināi oiba phāoba, Isrāyelna chak-haba asi loihandana ambubi. Bāibalna masi “makhoi kayāda chumdrabano!” haina eikhoina nokningnaba isinba natte.</p><p>Masi <b>mingsel</b> amani. Madugi wāhanthokti “makhoidi adugumba oirammi” haiba natte, “<b>eisu adugumba oi</b>” haina ujahanbani (1 Korinth 10:11).</p><p><b>Lāi murti</b> haibasi u-na sāba murti khaktadi natte. Madudi <b>Isordagi henna eikhoina nungsiba nattraga thājaba pot khudingmak</b> — sel, mai pākpa, mina yāba, mising, isā ngāk phāoba. Aduga Isorbu eigi apāmba thunghannabagi <b>pot ama</b> oina sijinnabasu lāi murti latpani.</p><p class='punch'>Aroibada khwāidagi luba lāi murti adudi “Isorgi phambālda phamliba isāmak” asini.</p>",
+  "gospel.coreIntro": "Adudi, Isorna asigumba pāpi asibu karamna kanbige? Masi Bāibalna laothokliba Aphaba Pāogi thawai asini.",
+  "gospel.crux": "<p class='crux-lead'>Bāibal apumbana mapham amada khudum tāhalli.</p><p>Misingna pāpki chak-haba adu masāmak thugaiba ngamlamde, aduga dharmachenba mi amatasu leiramde. Maram aduna kanagumba amana <b>makhoigi mahutta maman pibiba tāi</b>.</p><p>Jisudi aphaba tākpiba khaktagidamak lākpa natte. Eibu kanbinabagi atoppa lambi leitabana, <b>mahāk lākpa tāi.</b></p><p class='crux-punch'>Kros aduda yotpham toupham thokpa adu <b>ei</b>ni.<br>Jisuna <b>eigi pāp</b> adu putlaga, eigi mahutta mapham aduda yotsinbire.</p><div class='crux-verse'>“Adubu eikhoigi langjabagidamak mahākpu sok'hankhi, Eikhoigi ayol arān'gidamak mahāk pop'hankhi… Aduga mahākki cheiphamna eikhoibu phahankhi.” — Isaiah 53:5</div>",
+  "faq.h": "Houjiksu karigumba amada wākhal taibra?",
+  "faq.q1": "<span class='arr'>▸</span> Adudi mihatpa mi amana thājaba khaktana swargada chatkani, aduga punsi apumba aphaba mi oina hinglaba adubu thājadabana naraktā chatkadabra?",
+  "faq.a1": "<p>Masi chumba wahangni. Adubu manungda lallaba wākhal anikhai lottuna lei.</p><p><b>① Bāibalna misingbu “aphaba amasung phattaba” haina khaina khaide.</b> Chānglondi “nakhāgi mi adudagi henna phaba” natte, adubu “Isorgi mapung phāba asengba” aduni. Mahākki māngdadi kanāmatasu “matik chāna phade” (Rom 3:23). Maram aduna masi “aphaba mi amasung mihatpa mi” natte, adubu siba ngamba anāba amatang chaba mi anigumbani — amana hidāk lou-i, aduga amana “eidi mahāktagi henna phai” haina yāde.</p><p><b>② Swarga amasung narak khaidoktuna leihalliba adu pot amatani.</b> Thabakki maaktani natte, adubu <b>Jisu Khristabu Mapu Ibungo oina nahākna lousinbra amasung nahākki pāpki achāmba adu loisinbra</b> haiba aduni. Khristagi ee-na pāp loisinbiba mahāk swargada chatli; mahākpu keidoungeidasu lousindaba, pāp leiriba mahāk chatte. Aphaba thabak karambana phaobana pāpki achāmba adu masāna loisinba ngamde.</p><p>Maram aduna swarga amasung narak haibasi “aphaba chatnabigi maan” natte, adubu <b>Khristaga leinaba</b> adugi wāphamni. Aduga “thājaba” haibasi wākhalgi yānaba natte, adubu punsida Mapu Ibungo honglakpani — mahākpu achumbamak lousinba mahāk laoning chaode, adubu henna luna pukning hong-i. Achumbamak, “ei aphaba mini” haiba <b>isāmak chumhanjaba</b> asi “eingonda Khrista mathou tāde” haina khanhalliba, thugaiba khwāidagi waba lāi murti aduni (Luka 18:9-14).</p><p>Bāibalna sengna hāi: <b>“Mahākpu thājaba mi adubu wāyen toubide, adubu thājadaba mi adudi wāyenkhrabani”</b> (Johon 3:18). Wāyendi “nahākki punsi siraba matungda chānglon thāmba” natte, adubu <b>nahākna Khristabu lousinbra nattra</b> haiba aduda khanglakhrabani.</p><p class='faq-v'>Rom 3:23 · Johon 3:18 · Ephesus 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Jisubu thājadrabasu, aphaba mi oina hinglaba adu matik chādabra?",
+  "faq.a2": "<p>Masi khwāidagi mina khalliba wākhalni, adubu “achumba achāmba” adu kari oiribage haibadu khangdaba aduni. Mitam ama yengsi.</p><p><b>Nahāk huran-gi higāmda leiba thanjabiyu.</b> Higāmgi mapānthong adu kayā sengna ngāk-pikpa, higāmgi misingda kayā aphaba oibibo, nahākki punsi kayā sengbra oiba phaoba, nahāk <b>huranba mi</b> amamak oiri, maramdi higāmna mahākki chatkadaba mapham (wāyenbagi port) aduda nahākpu puduna chatli. Achāmba adudi “nahākki thabakki maan” natte, adubu <b>“nahāk kari higāmgi mi oiribage” (nahākki masak)</b> aduni.</p><p>Maram aduna Aphaba Pāona “henna aphaba oiba hotnou” haide, adubu <b>“higām hong-u”</b> hai. Pāpki higāmdagi kumtharaktuna, Jisu — <b>Isorgi machā</b> oibagi anouba masak aduda chatlu. Masi hotnabagi mapānna nahākki chānglon henhanba natte, adubu nahākki khut tingthokpiriba mahākpu thājaduna mahākki higāmda kāba aduni.</p><p>Achumbamak Bāibalna kanbiba adu hong-bagumna sak-i: <b>“Ipā aduna eikhoibu amambagi pānggandagi kanbiduna mahākna nungsiba Machānipāgi ningthou leibāk aduda pubirakle”</b> (Kolosa 1:13).</p><p>Lallu nungaide: <b>masina aphaba mi oina hingba adu kānnaba leite haiba natte.</b> Adubu aphabana chhandamnagi “mathou” natte, adubu madugi <b>mahei</b>ni. Higām honglaba mahāk houjikti kibadagi natte, adubu <b>machāgi nungsibadagi</b> aphaba oina hingli.</p><p class='faq-v'>Kolosa 1:13 · Johon 1:12 · Johon 3:3 · Ephesus 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Aranba touba mi amana “Isorna eibu kokpire” haiduna ingthana leiringeida, awāba phangliba mahāk adudi awāba khangduna leiri haorabadi, kokpiba adu yāmna lupha henba natte?",
+  "faq.a3": "<p>Wāhang asi chumba aduni, aduga awāba adu achumbamak oibani. Adubu asigumba laoba adu “Bāibalgi kokpiba” natte, adubu madugi <b>amotpa oihanba</b> aduni.</p><p><b>① Isorgi kokpiba adu keidoungeidasu lupha hende.</b> Pāp adu “oikhidabagumna” lottuna thāmba natte; Isor mahāk masāmakna mahākki Machāgi punsina madugi maman pibikhi. Kros adu pāp adu laina loubagi maan natte, adubu pāp adu kayām luribage haibagi maan oibani — taibangpānda khwāidagi lupha henba kokpiba aduni.</p><p><b>② Achumba pukning hongbana mahei pulli.</b> Aranba touba mi adu awāba phangliba mahāk adugi māngda “Isorna eibu kokpire, maram aduna ei ingthana leiri” haina chumthana leijarabadi, madu pukning hongba natte, adubu madugi inthokpa aduni (Mathai 3:8). Aduga mi amaga Isorga marakta leiba kokpibana awāba phangliba adugi sok adu mutthatpa nattraga mahākpu kokpinaba namduna oihanba natte.</p><p><b>③ Pāp adu keidoungeidasu “thadokkhiba” natte.</b> Pāp khudingda mapham anigi maraktagi amada maman pi: <b>nattraga Khristana krosta puduna lou-i</b> (mahākpu thājaba misingda houjik wāyentaba leitre, Rom 8:1), <b>nattraga aroibada mahākpu yādaba mahāk masāna pui.</b> Maram aduna “lupha henba kokpiba” haiba leite. Aranba touba mahāk asina taibangpan asigi wāyelgi māngdasu mathou pāngba leiri (Rom 13:1-4).</p><p><b>④ Awāba phangliba adugi pirāng adu Isorgi māngda keidoungeidasu pidik natte.</b> Isorna kapliba misingga loinana kapminni, pirāng khuding ningsing-i, aduga aroibada mahāk masāmakna teithokpigani (Mānglomba 21:4). Maram aduna awāba phangliba mahāksu laman khumbagi puhei adu mahāk khaktana puba natte, adubu adu achumba Isorda sinnaba ngammi (Rom 12:19: “Laman khumba eigini; eina laman singgani,” Jehobāna hāi).</p><p class='faq-v'>Mathai 3:8 · Rom 8:1 · Rom 13:1-4 · Mānglomba 21:4</p>",
+  "respond.h3": "Adudi — eigi oinadi karamno?",
+  "respond.sub": "Nungsiba asi pāori natte, adubu <b>koujabani</b>. Eigi mahutta yotsinbiba nungsiba aduna nahākki thawaibu sokpirabadi, houjik wāhang khuding amamam, tappa tappana wāphei asi haijou.",
+  "respond.prayer": "<p>Isor,</p><p>ei masāmak kanjaba ngamdaba pāpi amani haiba ei yājei.</p><p>Jisuna eigidamak krosta sibire aduga amuk hingatlare haiba ei thājei.</p><p>Eigi pāp pumnamak kokpiyu, aduga ngasidagi houna eigi punsigi Mapu Ibungo oibiyu.</p><p>Eibu nahākki machā oina lousinbiyu, aduga anouba punsi ama hinghanbiyu.</p><p class='amen'>Jisugi mingda ei haijari. Amen.</p>",
+  "respond.after": "Nahākna thawaina haijarabadi, Bāibalna nahāk <b>Isorgi machā oirakle</b> haina hāi. Nahāk amaktangdi natte — nakta leiba sang-lup ama thiduna, atoppasingga loinana thājabagi lambida punna chatminnou.",
+  "respond.read": "Nasāmak Bāibal pārou — Johondagi houbiyu",
+  "respond.verse": "“Adubu mahākpu lousillaba makhoi pumnamakta, hāibadi mahākki mingda thājaba makhoida Isorgi machāsing oinanaba mahākna matik pibire.” — Johon 1:12 · Rom 10:9-10",
+  "closing.main": "Isor amatang,<br>wāri amatanggi mapānna,<br>keidoungeidasu thadoktaba<br><em>nungsiba</em> amaga loinana eikhoibu thi.",
+  "closing.verse": "“Madudi sibanasu, hingbanasu… semkhraba pot pumnamakki manungdagi karigumba amatana eikhoigi Ibungo Khrista Jisuda leiba Isorgi nungsiba adudagi eikhoibu khāidokhanba ngamloi.” — Rom 8:38-39",
+  "closing.small": "Lambi asigi mathakta, Wāyel Yāthang, lā lairiksing, wā tākthokpasing amasung chitthisingna “hakchang” adu hāplli.<br>Houjiktagi, nahākna karigumba lairik ama hāngdoklasu, “wārigi karamba mphamda nahāk leiribage” haiba nahāk khanggani.",
+  "closing.share": "↗ Wāri asi sandok'u",
+  "about.line": "Korea-gi Protestant sang-lup ayāmbana yājaba <b>chhandamnagi (redemptive-historical), evangelical · Reformed</b> mityeng dāl asida yumpham oiraga sembani.",
+  "about.contact": "Hangba · wākhallon — <a id='contact' class='mail'>Email thābiyu</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ARIBA WĀREPNABA · HOUBI",
+   "title": "Semtiba",
+   "date": "Ahānbada",
+   "one": "Isorna “yāmna phaba” taibangpan ama sembire.",
+   "people": "Isor; Ādam amasung Ībi",
+   "events": "Numit taruktagi semtiba, mioiba Isorgi mitamda sembiba, Sabbathgi potthaba",
+   "q": "Ahānbada Isorna atiyā nongdon amasung mālem sembirammi.",
+   "cite": "Genesis 1:1",
+   "christ": "Taibangpan asi “Wāhei”gi mapānna sembani. Johongi Aphaba Pāona Wāhei adu Jisu masāmak oi haina laothok-i (Johon 1:1-3).",
+   "detail": "<p>Bāibaldi philosophy-gi yetnaba amada houba natte, adubu laothokpa amada hou-i: <b>“Ahānbada Isorna…”</b> Taibangpan asi khudak ama natte, adubu mahāk-isā oiba Isor amagi thabakni.</p><ul><li><b>Isorgi mitam</b> · sembiba pot pumnamakki marakta mioiba khaktabu Isorgi maongda sembi — mahākpu khangnanaba amasung taibangpan ngāk-sennanaba.</li><li><b>Potthaba</b> · numit taretsubagi potthabana pumnamak mapung phāba amasung ingthaba (shalom) oibadu utli: “madu phai haina mahākna ukhi.”</li><li><b>Eden</b> · thugaidringeigi taibangpan, Isor amasung mioiba punna chatminnaba mapham.</li></ul>",
+   "next": "Adubu mapung phāba asi thunamak thugaigani…"
+  },
+  {
+   "tag": "ARIBA WĀREPNABA · ACHĀMBA HOUBI",
+   "title": "Tāba",
+   "date": "Ahānbada",
+   "one": "Pāp changlaktuna, mioiba amasung Isorgi marak kāire.",
+   "people": "Ādam amasung Ībi; lil (Sātan)",
+   "events": "Karambadasu chādaba mahei chaba, Edendagi tanthokpa, siba amasung khangba lākpa",
+   "q": "Nahākka nupi asiga, Nahākki dhārāga mahākki dhārāga eina yengthinahan'gani. Mahākna nahākki nakok pop'han'gani…",
+   "cite": "Genesis 3:15",
+   "christ": "Tāba adugi tungda khudak pibikhiba, Aphaba Pāogi ahānba wāsak: “nupigi dhārā” aduna lilgi nakok pop'han'gani — adu Jisuni (Genesis 3:15; Rom 16:20; Galatia 4:4).",
+   "detail": "<p>“Isorgumna oiba” pāmbagi haiba indaba adugi mapānna, pāp taibangpanda changlak-i. Madugi mahei adu wāyel ama thugaiba khaktadi natte, adubu <b>mari thugaiba</b> aduni.</p><ul><li><b>Mari thugaiba</b> · Isorga (lottuna leptuna), atei misingga (maral siram-naduna), aduga akkanba potsingga (tingkhāng amasung khangba) loinana.</li><li><b>Siba</b> · “nahāk tasengnamak sigani” haiba cheksin wā adu achumba oirakle.</li><li><b>Genesis 3:15</b> · adubu wāyengi marakta, kanbabigi wāsak adu ahānbada lāk-i. Sāstri-singna masibu <b>protoevangelium (ahānba Aphaba Pāo)</b> haina kou-i.</li></ul>",
+   "next": "Houjik Isorna mi amabu koudaduna, kanbiba houbire…"
+  },
+  {
+   "tag": "ARIBA WĀREPNABA · WĀSAK",
+   "title": "Mapu-paribasing",
+   "date": "B.C. 2000 faoba",
+   "one": "Isorna Ābrāhāmda wāsak tāi: “Nahāk bor pibagi lambi oigani.”",
+   "people": "Ābrāhām · Aishāk · Jākob · Joseph",
+   "events": "Ābrāhāmgi warepnaba, Aishākpu katchaba, Jākobki machā taranithoi, Joseph Ijipki ningthou oiba",
+   "q": "Aduga eina nahākpu achouba jāti ama oihan'gani… na'ngonda mālemgi imung manung pumnamak bor phangjagani.",
+   "cite": "Genesis 12:2-3",
+   "christ": "“Mālemgi imung manung pumnamak bor phangjagani” haiba wāsak adu Ābrāhāmgi dhārā, Jisuda thungna oire (Galatia 3:16).",
+   "detail": "<p>Isorna mioiba pumnamakki achāmba adu mi amabu, <b>Ābrāhām</b>bu kouduna loisinba houbi. Madugi thawaidi <b>warepnaba (wāsak)</b> aduni — achouba jāti, lam ama, amasung “imung manung pumnamakki bor.”</p><ul><li><b>Thājaba</b> · Ābrāhāmna uba ngamdaba wāsak adu thājakhi, aduga madu mahākki dharmachenba oina singthākhi (Genesis 15:6).</li><li><b>Aishāk amasung Jākob</b> · wāsak adu mathang inna chatthare; Jākob (Isrāyel) na salai taranithoigi mapā oi.</li><li><b>Joseph</b> · mahākki manaosingna yonkhrabasu ningthou oirakle — “Isorna madu aphaba oina toubikhre” (Genesis 50:20).</li></ul>",
+   "next": "Joseph-gi matung induna imung adu Ijipta kumtharak-i — aduga mināi oirakle…"
+  },
+  {
+   "tag": "ARIBA WĀREPNABA · KANBIBA",
+   "title": "Ijip thadoktuna lamhāngda",
+   "date": "B.C. 1446 faoba",
+   "one": "Isorna mināi oiba mising adu kanbiraga, makhoibu mahākki mi oina sembire.",
+   "people": "Mousi, Ārun, Pherāo",
+   "events": "Awāba potlum tara, Lanthengba, Angangba Ipāk lanthokpa, Sinaida Wāyel Yāthang Tara, Isorgi yumsang, lamhāngda chahi 40",
+   "q": "eina nakhoibu eigi mi oina lousinbigani amasung ei nakhoigi Isor oigani",
+   "cite": "Exodus 6:7",
+   "christ": "Lanthengba — yāo machāgi ee-na sibadagi kanbikhiba — adu Jisu, “eikhoigi Lanthengbagi yāo machā,” eikhoigidamak krosta sibikhiba aduda khudum tāhalli (1 Korinth 5:7).",
+   "detail": "<p>Ariba Wārepnabagi khwāidagi achouba kanbiba. Mināi oiramba Isrāyelbu Isorgi pānggalna ningtamhanbi amasung mahākki <b>mi</b> oina sembi.</p><ul><li><b>Lanthengba</b> · thongda yāo machāgi ee theiraba imung adu sibana lanthengbi — madugi tungda oiba katchaba pumnamakki maongni.</li><li><b>Angangba Ipāk</b> · lambi loirabada kanbiba; “lanthokpa” adu anouba houbagi maong oi.</li><li><b>Sinaigi warepnaba</b> · Wāyel Yāthang Tāragi mapānna Isorgi mi oina karamna hingadge haibadu tammi.</li><li><b>Isorgi yumsang</b> · Isorna mahākki misinggi marakta leiba pukhanba mapham — “Immanuel” lākkadaba adugi mitam.</li><li><b>Chahi 40</b> · indabana misak amabu lamhāngda chenghan-i, adubu Isorna manna amasung leichil amasung meigi yotpā loinana makhoiga leiminni.</li></ul>",
+   "next": "Wāsaktaba lamgi nakanda lepladuna, changnaba thourāng tou-i…"
+  },
+  {
+   "tag": "ARIBA WĀREPNABA · LEITHABA",
+   "title": "Maithokpa amasung wāyel mapusing",
+   "date": "B.C. 1400–1050 faoba",
+   "one": "Lam adu phanglakle, adubu ningthou leitabana mi khudingna māgi mityengda chumba tou-i.",
+   "people": "Joshua; Gideon amasung Samson-gumba wāyel mapusing; Ruth",
+   "events": "Jerichogi tāba, Kanāanda leithaba, pāp–wāyel–kanbiba haibagi chak-haba lomba nāidana ambuba",
+   "q": "Matam aduda Isrāyelda ningthou pāllamde; mi khudingna māgi māgi mityengda chumba adu tourammi.",
+   "cite": "Wāyel Mapusing 21:25",
+   "christ": "Ruth-gi dhārādagi David lāk-i, aduga Davidki dhārādagi Jisu lāk-i (Mathai 1). Phattaba matamdasu, Messiahgi imunggi pāmbi adu chatthare.",
+   "detail": "<p>Joshua-gi makhāda wāsaktaba lamda changlak-i, adubu leithakhraga thunamak Isorbu kaothok-i. Wāyel Mapusing-na chap mānnaba maong adu amuk amuk hanbani.</p><ul><li><b>Pāpki chak-haba</b> · pāp → namphuba → laoba → wāyel mapuna kanbi → amuk pāp. Henna henna phattarak-i.</li><li><b>Wāyel mapusing</b> · Gideon, Samson, Deborah — matamgi oiba kanbiba mising, thouna phaba adubu ayolba kayā leiba.</li><li><b>Ruth</b> · amamba matamda thājaba yābagi mangāl ama; lamlāgi nupi amana David (amasung Jisu)gi dhārāda changlak-i.</li></ul>",
+   "next": "Misingna laorak-i: “Eikhoidasu ningthou ama piyu!”…"
+  },
+  {
+   "tag": "ARIBA WĀREPNABA · MAMING CHĀOBA",
+   "title": "Punsinba leibāk",
+   "date": "B.C. 1050–930 faoba",
+   "one": "Isorna Davidta wāsak tāi: “Nahākki phambān matam pumnamakki oina leigani.”",
+   "people": "Saul · David · Solomon",
+   "events": "Ahānba ningthou Saul, David amasung Goliath, Davidki warepnaba, Solomon-na Sanglen sāba",
+   "q": "Nahākki imung amasung nahākki ningthou leibāk… matam pumnamakki oina marā chet'hanbigani.",
+   "cite": "2 Samuel 7:16",
+   "christ": "“Lomba nāidaba phambān” adu David-gi dhārā, Jisuda thungna oire — maram aduna mahākpu “David-gi Machānipā” haina kou-i (Luka 1:32-33; Mathai 1:1).",
+   "detail": "<p>Isrāyelgi maming chāoba matam, ningthou ahum-gi makhāda.</p><ul><li><b>Saul</b> · misingna nijaba ahānba ningthou; aphabamak houbi, adubu indabana yāttabi.</li><li><b>David</b> · “Isorgi thamoiga chunaba mi.” Goliath maithibi aduga Jerusalembu ningthamlen oina sembi. Achouba pāp ama (Bathsheba) tou-i, adubu thamoi sengna pukning hong-i (Lā 51).</li><li><b>Davidki warepnaba (2 Samuel 7)</b> · Isorna mahākki ningthou imung adu matam pumnamakki oina chet-hanbigani haina wāsak tāi — Messiahgi āsāgi maru oiba mapuk.</li><li><b>Solomon</b> · lousing amasung lan-thumgi mathakta Jerusalemda <b>Sanglen</b> ama sā-i, adubu aroibada lāi murti latpada tā-i.</li></ul>",
+   "next": "Solomon-gi tungda leibāk adu anida khaina khaire…"
+  },
+  {
+   "tag": "ARIBA WĀREPNABA · HANTHARAKPA",
+   "title": "Khaidoklaba leibāk",
+   "date": "B.C. 930–586",
+   "one": "Khā (Judah) amasung awāng (Isrāyel)-da khaire, aduga tappa tappana thugaire.",
+   "people": "Leibāk anigi ningthousing; Elijah, Isaiah, Jeremiah-gumba wā tākthokpasing",
+   "events": "Leibāk khaiba, lāi murti latpa sandokpa, wā tākthokpasinggi cheksin",
+   "q": "Maram aduna ngasi phāobada Isrāyelna Debidki imunggi mathakta lān houduna lei.",
+   "cite": "1 Ningthousing 12:19",
+   "christ": "Matam asida wā tākthokpasingna lākkadaba Messiah adu henna sengna laothok-i (Isaiah 9:6; Isaiah 53).",
+   "detail": "<p>Solomon-gi machāgi matamda leibāk adu khaire: <b>awāng-thangba Isrāyel leibāk</b> (salai tara, ningthamlen Samaria) amasung <b>khā-thangba Judah leibāk</b> (salai ani, ningthamlen Jerusalem).</p><ul><li><b>Isrāyel (awāng)</b> · mahākki ningthou pumnamakna lāi murti lat-i; B.C. 722-da Assyria-da tā-i.</li><li><b>Judah (khā)</b> · David-gi dhārā chatthare, aduga Hezekiah amasung Josiah-gumba aphaba ningthou kharā leiri, adubu apumbada hanthare.</li><li><b>Wā tākthokpasing</b> · Elijah, Amos, Isaiah, Jeremiah-na “hallak'u!” haina lao-i. Mphamasida Messiahgi laothokpa khwāidagi inakkhunbi (Isaiah 53-gi “awāba khangba minai”).</li></ul>",
+   "next": "Aroibada cheksinkhiba wāyel adu lāklare — mināi oina puthok-i…"
+  },
+  {
+   "tag": "ARIBA WĀREPNABA · WĀYEN",
+   "title": "Mināi oina puthokpa",
+   "date": "B.C. 722 / 586",
+   "one": "Leibāk adu tā-i, aduga misingbu lamlā leibākta puthok-i.",
+   "people": "Daniel, Ezekiel, Nebuchadnezzar",
+   "events": "Isrāyel Assyria-da tā-i (722); Judah Babylon-da tā-i aduga Sanglen thugai-i (586)",
+   "q": "Bābilon'gi turensinggi mapānda Eikhoina phamthakhi, hoi, eikhoina kapchakhi, Eikhoina Siyonbu ningsinglubada.",
+   "cite": "Lā 137:1",
+   "christ": "Khwāidagi luba āsā tāba adugi marakta Jeremiah-na “anouba warepnaba” ama wāsak tāi (Jeremiah 31:31) — Jisuna Aroiba Chākkhāramda chethanbiba warepnaba adumakni.",
+   "detail": "<p>Cheksin adu achumba oirak-i. Sanglen adu mei chākpi aduga misingbu Babylon-da puthok-i — lam, ningthou, amasung Sanglen mangkhi: khwāidagi luba akāntaba.</p><ul><li><b>Tāba ani</b> · Isrāyel (Assyria, B.C. 722) amasung Judah (Babylon, B.C. 586).</li><li><b>Daniel</b> · lāi ningdaba ningthougi sang-gisu thājabagi maong (nongsa kombida); lākkadaba “lomba nāidaba leibāk” adugi uhanbiba u-i.</li><li><b>Āsāgi meirengbi</b> · amuk hingatlakkadaba sarugi mityeng (Ezekiel 37) amasung Jeremiah-gi “anouba warepnaba”na amambada tunggi lambi adu utli.</li></ul>",
+   "next": "Chahi humphu-gi tungda Isorna lambi hāngdok-i — yumda halak-i…"
+  },
+  {
+   "tag": "ARIBA WĀREPNABA · AMUK SEMGATPA",
+   "title": "Mināidagi halakpa",
+   "date": "B.C. 538–430",
+   "one": "Makhoi halaklaga, Sanglen amasung kheng-pālsing amuk sā-i.",
+   "people": "Ezra, Nehemiah, Esther, Zerubbabel",
+   "events": "Cyrus-gi yāthangna halakpa, Sanglen amuk sāba, Jerusalemgi kheng-pāl amuk sāba, Wāheigi amuk semgatpa",
+   "q": "maramdi Jehobāgi harāobana nakhoigi pāngganni.",
+   "cite": "Nehemiah 8:10",
+   "christ": "Ariba Wārepnabagi aroiba lairik Malachi-na Messiahgi lambi thourāng-gadaba pāo puba mi ama laothoktuna loi: “eina eigi pāo puba mi thāri” (Malachi 3:1).",
+   "detail": "<p>Persia-gi ningthou Cyrus-gi yāthangna (B.C. 538) halakpa adu houbi. Tāram ahumda makhoi halaklaga thugaikhibasing adu amuk sā-i.</p><ul><li><b>Zerubbabel</b> · Sanglen amuk sā-i (B.C. 516-da loi).</li><li><b>Ezra</b> · Wāhei adu amuk tāmlaga thājaba amuk hinghan-i.</li><li><b>Nehemiah</b> · Jerusalemgi kheng-pāl adu numit 52-da amuk sā-i.</li><li><b>Esther</b> · Persia-da leiba Jihudisingbu mangtaktagi kanbi — “asigumba matam asigidamaktani.”</li><li><b>Khangaba leiri</b> · Sanglen lepkhre, adubu David-gumba ningthou leitre. Misingna Messiahbu ngaire.</li></ul>",
+   "next": "Aduga adudagi… atiyā tumlaba-gumna, chahi 400-gi tumlaba lāklare."
+  },
+  {
+   "tag": "WĀREPNABA ANIGI MARAK · MAPHAM THOURĀNGBA",
+   "title": "Tumlaba chahising",
+   "date": "B.C. 430–4 faoba",
+   "one": "Chahi 400 wā tākthokpagi khonjel leitana; adubu maphamdi tumna thourāng toure.",
+   "people": "Alexander Achouba, Maccabee-sing, Rome",
+   "events": "Persia → Greece → Maccabee-gi ningtamba → Rome-gi pālba",
+   "q": "Adubu matam adu pumsu surabada Isorna mahākki machānipābu thābirakle. Mahākti nupina pokpa…",
+   "cite": "Galatia 4:4",
+   "christ": "“Mapham thourāngba” asi pumnamak Jisuna “matam pumsubada” chumna lākpa ngamnaba Isorgi thabakni.",
+   "detail": "<p>Malachi-dagi Anouba Wārepnaba faoba, chahi 400 faoba anouba Bāibalgi wā (wā tākthokpa) leitana chatkhi. Adubu warigi tungda Isorna Aphaba Pāo sandoknanaba lambi thourāng tou-i.</p><ul><li><b>Leibāk pāllonba honglakpa</b> · Persia → Greece (Alexander, B.C. 333) → Ptolemy amasung Seleucus → Maccabee-gi lan (B.C. 167) → Rome (B.C. 63).</li><li><b>Greek lon</b> · Alexander-na maithibana Greek-pu pangsaba lon oihan-i; Ariba Wārepnaba adu Greek londa hanthok-i (Septuagint), Aphaba Pāo thunamak sandoknanaba lambi hāngdok-i.</li><li><b>Rome-gi lambi amasung ingthaba</b> · aphana sāba lambising amasung “Pax Romana” aduna pāo puribagi lampak oirak-i.</li><li><b>Synagogue amasung kanglup</b> · synagogue-gi tāmbiba lep-i; Pharisee amasung Sadducee thorak-i; aduga <b>Messiahbu ngaiba</b> mahei pulli.</li></ul>",
+   "next": "Aduga, tumlaba adu kāirabada, aroibada mahāk lāk-i."
+  },
+  {
+   "tag": "ANOUBA WĀREPNABA · THUNGHANBA",
+   "title": "Jisu lāk-i",
+   "date": "B.C. 4–A.D. 30 faoba",
+   "one": "Wāsak tākhraba Messiah adu lāk-i, sī-i, aduga amuk hingatlare.",
+   "people": "Jisu, tung-inba taranithoi, Baptize touba John",
+   "events": "Mioiba oina pokpa (Christmas), tāmbiba amasung angakpa thabaksing, krosta siba, numit ahumsuba numitta hingatpa",
+   "q": "Aduga wāhei aduna sāyollaktuna eikhoigi irakta leibirare… thoujān amasung achumbana pik thanduna.",
+   "cite": "Johon 1:14",
+   "christ": "Nupigi dhārā (thoudok 2), Ābrāhāmgi bor (3), Lanthengbagi yāo machā (4), Davidki lomba nāidaba ningthou (6), anouba warepnaba (8) — pumnamak asi mi amada, Jisuda thungna oire: eikhoigi achumba wā tākthokpa, achumba purohit, amasung achumba ningthou.",
+   "detail": "<p>Tumlaba adu kāire; Wāsak Tākhraba adu lāk-i. Aphaba Pāo mari-na Jisugi punsi, siba, amasung hingatpa adu maong mari-dagi sākhi pi.</p><ul><li><b>Mioiba oina pokpa</b> · Isor mioiba oirakle (Immanuel, “Isor eikhoiga leiminni”), Bethlehemgi nemba maphamda.</li><li><b>Thabak</b> · Isorgi ningthou leibāk tāmbi, anābasingbu phahanbi, pāpisingbu kou-i. “Eibu uba mahākna Mapābu ukhre.”</li><li><b>Kros</b> · tāba (thoudok 2)na purakkhiba pāp amasung sibagi maman adu eikhoigi mahutta pibi. Achumba Lanthengbagi yāo machā.</li><li><b>Hingatpa</b> · numit ahumsuba numitta hingatlaga, pāp, siba, amasung Sātangi pānggal thugai-i — krosta phaobada “A'ngam athousing amasung matik leibasing adugi pānggal louthoktuna mahākna makhoibu kroski mapānna māithiba piduna makhoibu iphong phongna utpikhi” (Kolosa 2:15).</li></ul><p>Maram aduna Jisu eikhoigi <b>achumba wā tākthokpa</b> (Isorgi lambi utpiba), eikhoigi <b>achumba purohit</b> (mahāk masāgi hakchangna pāp loisinbiba), amasung eikhoigi <b>achumba ningthou</b> (pāp, siba, amasung Sātanbu maithiduna lomba nāidana pālba) oi.</p>",
+   "next": "Hingatlaba Jisuna mahākki tung-inbasingbu taibangpanda thābi…"
+  },
+  {
+   "tag": "ANOUBA WĀREPNABA · SANDOKPA",
+   "title": "Sang-lup houbi",
+   "date": "A.D. 30-dagi",
+   "one": "Thawāi lāk-i, aduga Aphaba Pāo mālemgi aroiba ngamkhei phaoba sandok-i.",
+   "people": "Peter, Paul, ahanba sang-lup",
+   "events": "Pentecost-ta Thawāi heithokpa, sang-lup pokpa, otpi neibibagi marakta Jerusalemdagi Rome faoba Aphaba Pāo sandokpa",
+   "q": "Adubu Thawāi Asengba aduna nakhoigi nathakta lāklaba matamda nakhoina pānggal phangjagani… mālemgi aroiba ngamkhei phāobada eigi maramda sākhi oigani.",
+   "cite": "Pāothokpa 1:8",
+   "christ": "Wāri asi houjik phaoba chatthari. Bāibalna Jisu amuk lāklani aduga pumnamak amuk anouba oihanbigani haina wāsak tāduna loi (Mānglomba 21).",
+   "detail": "<p>Jisu kāthokkhraba tungda, wāsak tākhraba Thawāi adu Pentecost-ta lāk-i aduga sang-lup pokle. Aphaba Pāo thunamak sandok-i.</p><ul><li><b>Pentecost</b> · Thawāi-na akiba tung-inbasingbu thouna phaba sākhi piba mi oihalli.</li><li><b>Peter</b> · Jerusalemda Jihudisingda Aphaba Pāo sandok-i.</li><li><b>Paul</b> · otpi neibadagi pāo puba mi oirakle; Jentilgi taibangpan pumnamakta sang-lup phun-i aduga chitthising i-i.</li><li><b>Aroiba ngamkhei faoba</b> · Jerusalem → Judea → Samaria → Rome. Ābrāhāmda “imung manung pumnamak” haiba wāsak adu achumba oirak-i.</li><li><b>Aduga eikhoi</b> · wāri adu loide; Jisu amuk lākpa amasung anouba atiyā amasung anouba mālem thangda chatthari.</li></ul>",
+   "next": "Adubu wāri adu mphamasida loide…"
+  },
+  {
+   "tag": "ANOUBA WĀREPNABA · MAPUNG PHĀHANBA",
+   "title": "Amuk semgatpa (pumnamak anouba)",
+   "date": "Lākkadaba",
+   "one": "Jisu amuk lāklaga, pumnamak anouba oihanbi.",
+   "people": "Amuk lākkadaba Jisu; phurup pumnamak",
+   "events": "Amuk lākpa, aroiba wāyen, pāp·siba·pirāng loiba, anouba atiyā amasung anouba mālem",
+   "q": "Isorna makhoigi mittagi pirāng khuding teithokpigani; amuk hanna siba, wāba, tengthāba, kappa amasung nāba leiraroi.",
+   "cite": "Mānglomba 21:4",
+   "christ": "Ahānba semtibagi Eden adu aroibada “Anouba Jerusalem” oina amuk semgat-i. Isorna mahākki misingga loinana lomba nāidana lei — Immanuelgi mapung phāba (Mānglomba 21:3; Mathai 1:23).",
+   "detail": "<p>Bāibaldi sang-lupki matamda loide. Madugi aroiba lairik Mānglombana Jisu <b>amuk lāklaga</b> pumnamak mapung phāhanbiba adu utli.</p><ul><li><b>Amuk lākpa</b> · wāsak tākhraba ningthou adu matik mangālga loinana amuk halak-i.</li><li><b>Aroiba maithiba</b> · Sātan amasung siba lomba nāidana mang-i, aduga Khristana ningthousinggi Ningthou oina pāl-i (1 Korinth 15:25-26; Mānglomba 20:10).</li><li><b>Wāyen amasung hingatpa</b> · aranba pumnamak chumhalli, aduga sikhrabasing hingatlak-i.</li><li><b>Anouba atiyā amasung anouba mālem</b> · pāp, siba, pirāng, amasung nāba lomba nāidana mang-i (Mānglomba 21:4).</li><li><b>Eden amuk semgatpa</b> · houbidagi henna phaba “Anouba Jerusalem”da Isorna mahākki misingga loinana lomba nāidana lei — Bāibal apumbana chatliba mapham.</li></ul><p>Maram aduna houjikti <b>“thungkhre, adubu mapung phāna oidri”</b> haiba matamni: Jisuda kanbiba adu <b>thungkhre</b>, adubu madugi mapung phāba adudi <b>ngaihak</b> lei.</p>",
+   "next": "Adudi, wāri apumba asina “ei”gidamak kari hainingbage?"
+  }
+ ],
+ "love": [
+  "Warigi houbidi wāyen natte, adubu nungsibana thallaktuna sembiba taibangpan amani.",
+  "Mioibana pāp toubada, Isorna maphamdumaktada kanbiba wāsak tāi.",
+  "Isorna matik chādaba mi adubu mamāngda thi, mahākki mingna kou-i, aduga bor pibagi lambi oina sembi.",
+  "Mināi oiba misinggi tengthāba khangbi, aduga makhoibu kanbinaba mahāk masāmak kumtharak-i.",
+  "Amuk amuk yāttabi, adubu laorakpa khudingda kanbiba mi ama thābi aduga makhoibu amuk lepkat-i.",
+  "Tāraba David phaoba langthoktrabi; mahākki mapānna lomba nāidaba ningthou ama wāsak tāi.",
+  "Maipārom onsillaba misingda wā tākthokpasing thābi, “hallak'u” haina haijabi.",
+  "Mināigi khwāidagi amamba lamda phaoba makhoiga loinana kumtharak-i, aduga amuk semgatpa wāsak tāi.",
+  "Amuk amuk maipāk yāttaba misingdasu wāsak adu langthoktrabi, adubu amuk lepkat-i.",
+  "Chahi 400 tumlabagi marakkadasu, lottuna kanbibagi lambi thourāng tou-i.",
+  "Eikhoi pāpi oiriba matamdamaktada mahākki Machā thābi, aduga mahākki punsi pibi.",
+  "Eikhoina phangjaba nungsiba adu, houjik taibangpan apumba thunglaknaba thābi.",
+  "Aroibada pirāng khuding teithokpigani aduga pumnamak nungsibada amuk anouba oihanbigani."
+ ],
+ "mis": [
+  {
+   "w": "“Isorna karigi pāp touba ngamba mi sembage? Sendrabadi henna phaba oiramloidra?”",
+   "t": "Isorna taibangpan amasung mioiba sembibadi watpa amagidamak natte, adubu thallaktuna leiba nungsibadagini. Mioibabu <b>Isorga mari leinaba ngamba mi</b> oina sembibasi madumakna nungsibani. Aduga pāp changlakpa phaoba Isorgi kanbibagi thourāng-gi mapānthongda leite (Ephesus 1:4-5). Bāibalgi ahānba thoudokti wāyen natte, adubu nungsibani."
+  },
+  {
+   "w": "“Mahei amatang chabagidamak tanthokpa aduga siba phaoba phangba — Isordi yāmna laknadabra?”",
+   "t": "Edendagi tanthokpa adu wāyen amasung chanbibani phaoba oi. Isordagi khaidoktuna, asigumba thugairaba phibhamda, hinghon-gi upāldagi chāduna lomba nāidana hinglamlabadi, awābada lomba nāidana chethaktuna leigani (Genesis 3:22). Siba yābibadi amuk halaknabagi lambi hāngbani; aduga maphamdumaktada Isorna Kanbiba Mapu ama wāsak tāi (Genesis 3:15). Wāyengi manungda nungsiba leiramle."
+  },
+  {
+   "w": "“Ābrāhāmbu mahākki achouba thājabagidamak khandokpani — Bāibalgi misingdi pumnamak aphaba mi natlabra?”",
+   "t": "Ābrāhāmsu minamba tou-i, chingnaba phaoba leikhi, aduga Jākobti namthak touba mini. Isorna “matik chāba” misingbu kouba natte, adubu thoujānna ayolba leiba misingbu kou-i. Khandokpagi maramdi makhoigi aphabagi maramna natte, adubu Isorgi thājaba yāba nungsibagi maramnani (Deuteronomy 7:7-8)."
+  },
+  {
+   "w": "“Wāyel Yāthang (yāthangsing) haibasi kanbiba phangnaba pāsgadaba khang-thiba nattraga warep amana oidabra?”",
+   "t": "Isorna Wāyel Yāthang pidringei <b>mamāngda</b> makhoibu kanbikhre. Wāyel Yāthang Tāra phaoba kanbibagi laothokpada hou-i: “Nahākpu Ijip leibāktagi, mināi oiramba maphamdagi puthokpirakpa eidi Jehobā nahākki Isorni” (Exodus 20:2). Wāyel Yāthangdi “kanbiba phangnaba ngāk-u” haiba natte, adubu thoujānna hanna kankhrabasingna karamna hingadge haibagi nungsibagi lamjingbani (Deuteronomy 7:7-9). Thoujān hanna lei; haiba inbadi khumjabani."
+  },
+  {
+   "w": "“Kanāan maithokpa adu chanbiba leitana hatpani — aroibada Ariba Wārepnabagi Isordi laknabani.”",
+   "t": "Masi wāhei amatada loisinba ngamdaba, cheksinna khannaba tāba hiramni. Adubu Bāibalna masibu hejingdaba mangsaba haina utpa natte, adubu khwāidagi waba phattaba (angang katchaba phaoba yaona)da chahi chamāgi khwāngnaba touba mātungda oiba wāyen oina utli (Genesis 15:16; Deuteronomy 9:4-5; Leviticus 18:24-25). Isordi wāyentasu thunade, aduga mahākta hallakpasing — lamlāgi mising Rahab amasung Ruth phaoba — harāona lousilli (Joshua 6:25; Ruth 4:13-17)."
+  },
+  {
+   "w": "“David adu ayolba leitaba thouna phaba mini — maram aduna ‘Isorgi thamoiga chunaba mi’ haina kou-i.”",
+   "t": "Davidna nupa nupi lannaba tou-i, mihatpa phaoba tou-i. “Isorgi thamoiga chunaba mi” haibasi ayolba leitabani haiba natte, adubu mahākki pāp lottaduna — thamoi sengna pukning hong-i, aduga matam pumnamak Isorda hallaktu mahāk aduni (Lā 51). Isorgi nungsibana yāmna tāraba mi phaoba langthokte."
+  },
+  {
+   "w": "“Wā tākthokpa haibasi tunggi maramda haitha haiba mini — Ariba Wārepnabagi Isordi saoba khaktani.”",
+   "t": "Wā tākthokpagi thamoidi “tungda kari oigani haiba” natte, adubu Isorgi thamoidagi laoba: “hallak'u.” Wāyengi cheksin phaoba mutthatnaba natte, adubu maipāk onsillaktuna hingba pinabani: “‘Isor ningdaba mina sibada eigi harāoba leite… adubu masāgi phattaba lambidagi hallaktuna hingbani’” (Ezekiel 33:11)."
+  },
+  {
+   "w": "“Mināi oina puthokpana Isorna Isrāyelbu mapungphāna thadokkhi haibadu utli.”",
+   "t": "Mināi oina puthokpadi thadokpa natte, adubu nungsiba machāgidamak Mapāgi cheirāk amasung sengdokpani (Hebrew 12:6). Isorna thadoktrabi; mināigi marak adumaktada Daniel-ga leiminni aduga wāsak tāi: “eina nakhoigidamak khalliba wākhal asi eina khang'i… phattanaba natte amasung tungda nakhoigi āsā pinabani” (Jeremiah 29:11)."
+  },
+  null,
+  {
+   "w": "“Chahi 400 wā leitrabadi, Isorna thadokkhi nattraga potthakhi haibra.”",
+   "t": "Tumlabadi leitabagi maan natte. Mahāk haikhidaba khaktani; matam adu apumbada kanbibagi mapham thourāngnaba leibāk, lon, amasung lambising thumoi hāl-i. Khwāidagi tumlaba matamda, Isorna nungsibada khwāidagi henna thabak tou-i (Galatia 4:4)."
+  },
+  {
+   "w": "“Jisudi aphaba wā tākpiba mi amatang oi — krosti tengthājaningai oiba maithibani.”",
+   "t": "Jisuna mahāk masāmak Isorni haina laothok-i (Johon 8:58), aduga krosti khudak nattraga maithiba natte, adubu thourāng tourabi nungsibani. Pānggalna chinghatpa natte, adubu masāgi aningbana mahākki punsi pibi: “Mi amana mahākki marupsinggidamak mathawāi thābiba asidagi henna chāoba nungsiba kanā amatagi leite” (Johon 15:13)."
+  },
+  {
+   "w": "“Sang-lup haibasi mapung phāba misinggi kanglup nattraga sangmak khaktani.”",
+   "t": "Sang-lup haibasi “mapung phāba asengba mi” punba natte, adubu <b>kokpikhraba pāpisingni</b>. Pāo puba mi Paul masāmak phaoba “pāp chenbasinggi marakta khwāidagi pāp chenbani” haina inai (1 Timothy 1:15). Ahanba sang-lupsu yetnakhi, aduga tā-i (Pāothokpa 6:1; 1 Korinth 1:11). Sang-lup haibasi chāothoknabagi mapham natte, adubu phangjaba nungsiba adu piththariba misingni (Johon 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Pokpadagi pāp — dharmachenba mi leite",
+   "body": "Achāmbadi “phattaba thabak kharā” natte, adubu thamoigi mapuk aduni. Ādam-dagi houduna mi pumnamak pāpki makhāda pok-i, aduga masāgi panggalna Isorda thungba ngamde.",
+   "vref": "Rom 3:10-12, 23",
+   "vtext": "Dharmachenba mi amata leite, Leite, amatasu leite… Maramdi mi pumnamak pāp chelle amasung Isorgi matik ma'ngāndagi sotthei."
+  },
+  {
+   "title": "Wāyel Yāthangna eibu kanba ngamde",
+   "body": "Wāyel Yāthang haibasi kāgatnaba kāl natte, adubu mingsel amani. Hotnaba henhanba khudingda, eina kayām sotthage haibadu henna utli. Madugi thouramdi eikhoibu Khristada puribani.",
+   "vref": "Rom 3:20 · Galatia 3:24",
+   "vtext": "wāyen yāthanggi mapānna pāp khanglak'i… eikhoibu Khristada puraknaba wāyen yāthang asi eikhoigi ngāk-senba ojā oirakkhi."
+  },
+  {
+   "title": "Thoujānna — khudol amani, hotnabagi maan natte",
+   "body": "Kanbibadi khomjinba thabakki maan natte, adubu matik chādabasingidamak Isorgi khudolni. Maram aduna kanāmatana chāothokpa ngamde.",
+   "vref": "Ephesus 2:8-9",
+   "vtext": "thoujānna thājabagi mapānna nakhoibu kanbire… mi kanā amatana chāothoktanaba thabaktagi natte."
+  },
+  {
+   "title": "Thājabagi mapānna dharmachenba oiba",
+   "body": "Wāyel Yāthang ngākpagi mapānna natte, adubu Jisu Khristabu thājabagi mapānna eikhoi dharmachenba oina singthābi — eikhoigi achumbana phijetnaba natte, adubu mahākki achumbana phijetpani.",
+   "vref": "Rom 5:1 · Galatia 2:16",
+   "vtext": "eikhoibu thājabagi mapānna chumhanbirabanina… wāyen yāthanggi thabaksinggi mapānna nattana Khristada thājabagi mapānna eikhoibu chumhanbinaba eikhoinasu Khrista Jisubu thājei."
+  },
+  {
+   "title": "Bāibalna Jisuda khudum tāhalli",
+   "body": "Bāibaldi mi achaubasinggi punsi wāri nattraga isā mateng-gi lairik natte. Genesis-dagi Mānglomba faoba, lamai khudingna mi amada — Jisu Khristada sākhi pi.",
+   "vref": "Johon 5:39 · Luka 24:27",
+   "vtext": "eigi maramda sākhi piba adu pumnamak aduni… Mousi amasung wā tākthokpa misinggi lāiriktagi houraga mahākna makhoida masāgi maramda sāstra pumnamakta iba adu sandokna tāklammi."
+  },
+  {
+   "title": "Isorgi ningthou leibāk — Jisugi maru oiba pāo",
+   "body": "Jisuna khwāidagi yāmna tāmbiba pāo. Isor ningthou oina pālliba leibāk adu Jisuga loinana taibangpan asida changlakkhi aduga mahāk amuk lakpada mapung phāgani. Krosta amasung hingatpagi mapānna, Jisu pāp, siba, amasung Sātanbu maithiba achumba Ningthouni.",
+   "vref": "Mark 1:15",
+   "vtext": "Matam adu thungle, Isorgi ningthou leibāk nakle; pukning hong'u amasung aphaba wāpāoda thājou."
+  },
+  {
+   "title": "Aphaba Pāo — mahākna pumnamak loisinbire",
+   "body": "Eina pithaba ngamdaba pāpki maman adu Jisuna eigi mahutta krosta pibi, aduga hingatpagi mapānna sibabu maithibi. Eina “tou” haiba aduda yumpham toujade, adubu “Loire” haiba aduda yumpham tou-i.",
+   "vref": "Johon 19:30 · Rom 5:8",
+   "vtext": "Loire… eikhoina pāpi oiringeimaktada, Khristana eikhoigidamak sibiba aduda Isorna eikhoida mahākki nungsiba utpire."
+  }
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodus": "EXO",
+  "Leviticus": "LEV",
+  "Numbers": "NUM",
+  "Deuteronomy": "DEU",
+  "Joshua": "JOS",
+  "Wāyel Mapusing": "JDG",
+  "Ruth": "RUT",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Ningthousing": "1KI",
+  "2 Ningthousing": "2KI",
+  "Nehemiah": "NEH",
+  "Lā": "PSA",
+  "Isaiah": "ISA",
+  "Jeremiah": "JER",
+  "Ezekiel": "EZK",
+  "Malachi": "MAL",
+  "Mathai": "MAT",
+  "Mark": "MRK",
+  "Luka": "LUK",
+  "Johon": "JHN",
+  "Pāothokpa": "ACT",
+  "Rom": "ROM",
+  "1 Korinth": "1CO",
+  "Galatia": "GAL",
+  "Ephesus": "EPH",
+  "Kolosa": "COL",
+  "1 Timothy": "1TI",
+  "Hebrew": "HEB",
+  "Mānglomba": "REV"
+ },
+ "yv": 4707,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

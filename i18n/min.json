@@ -1,0 +1,419 @@
+{
+ "menuName": "Minangkabau",
+ "htmlLang": "min",
+ "dir": "ltr",
+ "brand": "Alkitab Sakilmeh",
+ "docTitle": "Alkitab Sakilmeh · Dari panciptoan sampai garejo",
+ "share": {
+  "title": "Alkitab Sakilmeh",
+  "text": "Dalam ciek guliran, temui kisah gadang Alkitab — jo manga Isa Almasih datang."
+ },
+ "ui": {
+  "people": "Tokoh",
+  "events": "Kajadian pantiang",
+  "christLabel": "Manunjuak ka Isa Almasih",
+  "loveLabel": "Kasiah nan indak manyarah",
+  "mythWrong": "Salah paham umum",
+  "mythRight": "Sabananyo",
+  "more": "Baco salangkok-nyo",
+  "version": "(TB)"
+ },
+ "labels": {
+  "start": "Mulai",
+  "thread": "Alua",
+  "gospel": "Injil",
+  "about": "Tantang"
+ },
+ "s": {
+  "ui.share": "↗ Babagi",
+  "ui.toast": "Pautan tasalin 📋",
+  "ui.footer": "Alkitab Sakilmeh · Kutipan dari Terjemahan Baru (TB)",
+  "hero.kicker": "Dari panciptoan sampai garejo",
+  "hero.title": "Alkitab<br><span class='em'>Sakilmeh</span>",
+  "hero.sub": "Dalam ciek guliran, temui kisah gadang Alkitab — jo manga Isa Almasih datang.",
+  "hero.cue": "Guliang ka bawah<span>↓</span>",
+  "thread.eyebrow": "Ciek kalimaik nan manjalin sadonyo Alkitab",
+  "thread.h2": "Pado akhianyo, Alkitab adolah ciek kisah",
+  "thread.flow": "<b>Janji</b><span class='arw'>→</span><b>Manantian</b><span class='arw'>→</span><b>Panggenapan</b>",
+  "thread.note": "Allah <b>bajanji</b> (parjanjian), umaik <b>manantian</b> lamo, dan akhianyo sadonyo <b>digenapi</b> dan disampurnoan dalam Isa Almasih. Ikuti 13 adegan barikuik malalui banang ko. Tekan <b>«Baco salangkok-nyo»</b> di tiok kartu untuak kisah nan labiah dalam.",
+  "gospel.eyebrow": "Apo arati kisah ko bagi «ambo»",
+  "gospel.h2": "Inti sabana Alkitab",
+  "gospel.lead": "Alkitab <b>bukan buku moral nan bakato «jadilah urang elok».</b>",
+  "gospel.sublead": "Iko kisah baa caro Allah, <b>hanyo dek anugerah</b>, manyalamaikan urang badoso nan indak sanggup manyalamaikan diri. Di pusek-nyo ado Isa Almasih.",
+  "gospel.mirror": "<h3>Lingkaran setan Israel sabananyo adolah poto «ambo»</h3><div class='cycle'><b>Panyembahan barhalo</b><span class='a'>→</span><b>Pandaritoan</b><span class='a'>→</span><b>Saruan</b><span class='a'>→</span><b>Allah manyalamaikan</b><span class='a'>→</span><b>barhalo baliak…</b></div><p>Dari zaman hakim sampai pambuangan, Israel maulang lingkaran ko tanpa baranti. Alkitab manulihnyo bukan supayo awak maeje «baa sadiahnyo urang tu».</p><p>Iko sabuah <b>camin</b>. Bukan soal «Israel baitu», tapi supayo awak maliek baso <b>«ambo pun baitu»</b> (1 Korintus 10:11).</p><p>Sabuah <b>barhalo</b> bukan hanyo patuang kayu. Itu adolah <b>sagalo sasuatu nan awak kasiahi atau awak andalan malabihi Allah</b> — pitih, sukses, pangakuan, urang, bahkan diri ambo surang. Dan mamakai Allah sabagai <b>alaik untuak mamenuhi kainginan ambo</b> pun panyembahan barhalo.</p><p class='punch'>Pado akhianyo, barhalo nan paliang dalam adolah «diri ambo surang nan duduak di singgasana Allah».</p>",
+  "gospel.coreIntro": "Lalu, baa caro Allah manyalamaikan urang badoso ko? Ikolah inti Injil nan dibaritoan Alkitab.",
+  "gospel.crux": "<p class='crux-lead'>Sadonyo Alkitab manunjuak pado ciek titiak.</p><p>Manusia indak sanggup mamutuihan surang lingkaran doso, dan indak surang pun nan bana. Mako saurang harus <b>mambayia haragonyo bagi awak</b>.</p><p>Isa Almasih datang bukan sakadar mambari ajaran elok. Baliau datang dek <b>indak ado jalan lain untuak manyalamaikan ambo</b> — Baliau harus datang.</p><p class='crux-punch'>Nan saharusnyo ado di salib tu adolah <b>ambo</b>.<br>Isa Almasih mamikua <b>doso ambo</b> dan dipakuan di sinan manggantian ambo.</p><div class='crux-verse'>«Tetapi dia tertikam oleh karena pemberontakan kita, dia diremukkan oleh karena kejahatan kita… dan oleh bilur-bilurnya kita menjadi sembuh.» — Yesaya 53:5</div>",
+  "faq.h": "Mungkin ado nan masih maganja di hati ang?",
+  "faq.q1": "<span class='arr'>▸</span> Jadi saurang pambunuah nan picayo masuak sarugo, dan nan iduik elok tapi indak picayo masuak narako?",
+  "faq.a1": "<p>Patanyoan nan wajar. Tapi di dalamnyo tasumbunyi duo salah paham.</p><p><b>① Alkitab indak mambagi manusia jadi «elok» jo «jahek».</b> Ukuannyo bukan «labiah elok dari tatanggo», tapi «kasucian Allah nan sampurna». Di hadapan-Nyo, indak surang pun «cukuik elok» (Roma 3:23). Mako iko bukan «urang elok lawan pambunuah», tapi duo urang sakik parah: nan ciek manarimo ubek, nan lain manolaknyo sambia bakato «ambo labiah sehat dari inyo».</p><p><b>② Nan mamisahan sarugo jo narako hanyo ciek hal.</b> Bukan nilai pabuatan, tapi <b>apokah ang manarimo Isa Almasih sabagai Tuhan dan masalah doso lah salasai</b>. Nan dosonyo dibereskan dek darah Almasih masuak sarugo; nan indak panah manarimo-Nyo dan dosonyo tatap, indak. Sa-elok apo pun pabuatan, inyo indak dapek mambereskan masalah doso tu surang bagi ang.</p><p>Jadi sarugo jo narako bukan «hadiah ateh kalakuan elok», tapi soal <b>hubungan jo Almasih</b>. Dan «picayo» bukan satuju di kapalo, tapi pagantian Tuan dalam iduik: nan sungguah manarimo-Nyo indak jadi gadang kapalo, malah batobat labiah dalam. Sabaliaknyo, <b>kabanaran diri surang</b> «ambo elok» adolah barhalo nan paliang sulik dihancuran, nan mambuek urang bapikia «ambo indak paralu Almasih» (Lukas 18:9-14).</p><p>Alkitab bakato jaleh: <b>«Barangsiapa percaya kepada-Nya, ia tidak akan dihukum; barangsiapa tidak percaya, ia telah berada di bawah hukuman»</b> (Yohanes 3:18). Pangadilan bukan «manilai iduik ang di akhianyo», tapi lah ditantuan manuruik <b>apokah ang manarimo Almasih</b>.</p><p class='faq-v'>Roma 3:23 · Yohanes 3:18 · Efesus 2:8-9 · Lukas 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Bukankah cukuik jadi urang elok, walau indak picayo ka Isa Almasih?",
+  "faq.a2": "<p>Itulah nan paliang acok dipikia urang, tapi salah mamahami «masalah nan sabananyo». Mari pakai sabuah parumpamoan.</p><p><b>Bayangan ang barado di kapa bajak lauik.</b> Sa-barasiah apo pun ang manggosok dek, sa-ramah apo pun ka awak kapa, sa-elok apo pun iduik ang — ang tatap saurang <b>bajak lauik</b>, dek kapa mambao ang sarato ka tujuannyo (palabuhan pangadilan). Masalahnyo bukan «nilai pabuatan ang», tapi <b>«milik kapa nan ma ang ko» (jati diri ang)</b>.</p><p>Dek karano itu Injil indak bakato «jadilah labiah elok», tapi <b>«pindahlah kapa»</b>. Turunlah dari kapa doso, manyabarang ka Isa Almasih — ka jati diri baru sabagai <b>anak Allah</b>. Iko bukan manaikan nilai jo usao, tapi mampicayoi Baliau nan maunjuakan tangan dan manyabarang ka kapa-Nyo.</p><p>Sasungguahnyo Alkitab malukihan kasalamaikan justru sabagai «pamindahan» ko: <b>«Ia telah melepaskan kita dari kuasa kegelapan dan memindahkan kita ke dalam Kerajaan Anak-Nya yang kekasih»</b> (Kolose 1:13).</p><p>Jan salah paham: <b>iko bukan barati iduik elok tu indak baharago.</b> Tapi kabaikan bukan «sarat» kasalamaikan, tapi <b>buahnyo</b>. Nan lah pindah kapa kini iduik elok bukan dek takuik, tapi dek <b>kasiah saurang anak</b>.</p><p class='faq-v'>Kolose 1:13 · Yohanes 1:12 · Yohanes 3:3 · Efesus 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Jikok palaku bakato «Allah lah maampuni ambo» dan iduik damai samantaro korban masih mandarito — bukankah pangampunan tu talampau murah?",
+  "faq.a3": "<p>Patanyoan tu sah, dan luko tu nyato. Tapi klaim sarupo itu bukanlah «pangampunan Alkitab», tapi <b>panyimpangannyo</b>.</p><p><b>① Pangampunan Allah indak panah murah.</b> Doso indak ditutuik saolah «indak panah tajadi»; Allah surang mambayia haragonyo jo nyawo Anak-Nyo. Salib bukan bukti doso dianggok ramah, tapi baa beraknyo doso — pangampunan nan paliang maha di dunia.</p><p><b>② Patobatan sajati mangasiakan buah.</b> Jikok palaku basikap tanang di hadapan korban sambia bakato «Allah lah maampuni ambo, ambo damai», itu bukan patobatan, tapi tiruannyo (Matius 3:8). Dan pangampunan antaro Allah jo ambo indak maapuih luko korban, dan indak mamakso korban maampuni.</p><p><b>③ Doso indak panah «dibiaan baitu sajo».</b> Tiok doso dibayia di salah satu dari duo tampek: <b>antah Almasih mamikuanyo di salib</b> (bagi nan picayo indak ado lai panghukuman, Roma 8:1), <b>antah nan manolak-Nyo sampai akhia mamikua-nyo surang.</b> Mako indak ado «pambebasan murahan». Palaku pun manangguang tangguang jawek hukum di dunia ko (Roma 13:1-4).</p><p><b>④ Aia mato korban indak panah ketek di hadapan Allah.</b> Allah manangih basamo nan manangih, maingek tiok aia mato, dan pado akhianyo maapuih surang (Wahyu 21:4). Mako korban pun indak paralu mamikua surang baban pambalasan, tapi dapek manyarahkannyo ka Allah nan adia (Roma 12:19: «Pembalasan itu adalah hak-Ku… firman Tuhan»).</p><p class='faq-v'>Matius 3:8 · Roma 8:1 · Roma 13:1-4 · Wahyu 21:4</p>",
+  "respond.h3": "Lalu, apo nan harus ambo karajoan?",
+  "respond.sub": "Kasiah ko bukan informasi, tapi sabuah <b>undangan</b>. Jikok kasiah nan dipakuan manggantian ambo tu manyantuah hati ang, doakanlah doa ko kini, kalimaik demi kalimaik, palahan.",
+  "respond.prayer": "<p>Allah,</p><p>ambo mangaku baso ambo urang badoso nan indak dapek manyalamaikan diri.</p><p>Ambo picayo Isa Almasih mati bagi ambo di salib dan lah bangkik.</p><p>Ampunilah sagalo doso ambo, dan jadilah Tuhan ateh iduik ambo mulai ari ko.</p><p>Tarimolah ambo sabagai anak-Mu, dan jadikanlah ambo iduik baru.</p><p class='amen'>Dalam namo Isa Almasih ambo badoa. Amin.</p>",
+  "respond.after": "Jikok ang madoakannyo jo sungguah hati, Alkitab bakato ang lah jadi <b>anak Allah</b>. Ang indak lai surang — caghilah garejo nan tadakek dan tampuahlah jalan iman basamo nan lain.",
+  "respond.read": "Bacolah Alkitab surang — mulai dari Yohanes",
+  "respond.verse": "«Semua orang yang menerima-Nya diberi-Nya kuasa supaya menjadi anak-anak Allah.» — Yohanes 1:12 · Roma 10:9-10",
+  "closing.main": "Ciek Allah,<br>jo ciek kisah,<br>mancari awak jo <em>kasiah</em><br>nan indak panah manyarah.",
+  "closing.verse": "«Baik maut maupun hidup… ataupun sesuatu makhluk lain, tidak akan dapat memisahkan kita dari kasih Allah, yang ada dalam Kristus Yesus, Tuhan kita.» — Roma 8:38-39",
+  "closing.small": "Di ateh alua ko, Taurat, kitab puisi, para nabi, dan surek-surek manambahan «dagiang».<br>Mulai kini, kitab ma pun nan ang bukak, ang ka maliek «di bagian ma kisah ko ang barado».",
+  "closing.share": "↗ Babagi kisah ko",
+  "about.line": "Konten badasarkan pandangan <b>sajarah panebusan, injili-reformed</b> nan dianut mayoritas Protestan Korea.",
+  "about.contact": "Patanyoan · masukan — <a id='contact' class='mail'>Kirim email</a>",
+  "bridge.note": "Alun ado Alkitab dalam baso Minangkabau lai — ayaik di siko diambia dari Alkitab Indonesia."
+ },
+ "epochs": [
+  {
+   "tag": "PL · Pamuloan",
+   "title": "Panciptoan",
+   "date": "Pado mulonyo",
+   "one": "Allah manciptoan dunia nan «sungguah amaik elok».",
+   "people": "Allah; Adam jo Hawa",
+   "events": "Panciptoan dalam anam ari, manusia manuruik gambar Allah, ari Sabat parantian",
+   "q": "Pada mulanya Allah menciptakan langit dan bumi.",
+   "cite": "Kejadian 1:1",
+   "christ": "Dunia dijadian dek «Firman». Injil Yohanes mamaklumkan baso Firman tu Isa Almasih surang (Yohanes 1:1-3).",
+   "detail": "<p>Alkitab indak dimulai jo argumen filsafat, tapi jo maklumat: <b>«Pada mulanya Allah…»</b>. Dunia bukan kabatulan, tapi karyo Allah nan bapribadi.</p><ul><li><b>Gambar Allah</b> · hanyo manusia dijadian sarupo Allah, untuak mangana-Nyo dan mamaliharo dunia.</li><li><b>Parantian</b> · parantian ari katujuah manunjuakan sadonyo lah salasai dan damai (syalom): «Allah melihat bahwa semuanya itu baik».</li><li><b>Eden</b> · dunia sabalun karetakan, tampek Allah jo manusia bajalan basamo.</li></ul>",
+   "next": "Tapi kapanuahan ko sabanta lai retak…"
+  },
+  {
+   "tag": "PL · Awal masalah",
+   "title": "Kajatuahan",
+   "date": "Pado mulonyo",
+   "one": "Doso masuak, dan ikatan antaro manusia jo Allah taputuih.",
+   "people": "Adam jo Hawa; ula (Iblis)",
+   "events": "Mamakan buah talarang, diusia dari Eden, mauik jo jariah payah masuak",
+   "q": "Aku akan mengadakan permusuhan antara engkau dan perempuan ini… keturunannya akan meremukkan kepalamu.",
+   "cite": "Kejadian 3:15",
+   "christ": "Janji Injil nan partamo, dibari sabanta sasudah kajatuahan: «keturunan perempuan» ka maramukkan kapalo ula. Baliaulah Isa Almasih (Kejadian 3:15; Roma 16:20; Galatia 4:4).",
+   "detail": "<p>Dek katidaktaatan nan nio «manjadi sarupo Allah», doso masuak ka dunia. Akibaiknyo bukan sakadar malangga aturan, tapi <b>putuihnyo hubungan</b>.</p><ul><li><b>Hubungan nan putuih</b> · jo Allah (basumbunyi), jo sasamo (sa-liang manyalahan), dan jo alam (duri jo jariah payah).</li><li><b>Mauik</b> · paringatan «pastilah engkau mati» jadi kanyataan.</li><li><b>Kejadian 3:15</b> · tapi di tangah pangadilan, janji kasalamaikan dibari labiah dulu. Para ahli manyabuiknyo <b>«protoinjil» (Injil partamo)</b>.</li></ul>",
+   "next": "Kini Allah mamanggia ciek urang dan mamulai pamulihan…"
+  },
+  {
+   "tag": "PL · Janji",
+   "title": "Zaman para nenek moyang",
+   "date": "sakitar 2000 SM",
+   "one": "Allah bajanji ka Abraham: «Ang ka manjadi saluran berkat».",
+   "people": "Abraham · Ishak · Yakub · Yusuf",
+   "events": "Parjanjian jo Abraham, mampasambahkan Ishak, duo baleh anak Yakub, Yusuf manjadi panguaso Mesir",
+   "q": "Aku akan membuat engkau menjadi bangsa yang besar… olehmu semua kaum di muka bumi akan mendapat berkat.",
+   "cite": "Kejadian 12:2-3",
+   "christ": "Janji «semua kaum akan diberkati» digenapi dalam Isa Almasih, katurunan Abraham (Galatia 3:16).",
+   "detail": "<p>Allah mulai manyalasaian masalah saluruah umaik manusia jo mamanggia ciek urang, <b>Abraham</b>. Pusek-nyo adolah <b>parjanjian (janji)</b> — bangso gadang, tanah, dan «berkat bagi semua kaum».</p><ul><li><b>Iman</b> · Abraham picayo pado janji nan indak tampak, dan itu diperhitungkan ka inyo sabagai kabanaran (Kejadian 15:6).</li><li><b>Ishak jo Yakub</b> · janji balanjuik ka generasi salanjuiknyo; Yakub (Israel) manjadi nenek moyang duo baleh suku.</li><li><b>Yusuf</b> · dijua dunsanaknyo, tapi manjadi panguaso Mesir: «Allah … mereka-rekakannya untuk kebaikan» (Kejadian 50:20).</li></ul>",
+   "next": "Kaluargo tu turun ka Mesir ma-ikuik Yusuf… dan manjadi budak."
+  },
+  {
+   "tag": "PL · Kasalamaikan",
+   "title": "Keluaran jo padang pasia",
+   "date": "sakitar 1446 SM",
+   "one": "Allah manyalamaikan umaik nan dipabudak dan manjadikannyo umaik-Nyo.",
+   "people": "Musa, Harun, Firaun",
+   "events": "Sapuluah tulah, Paskah, manyabarangi Lauik Teberau, Sapuluah Hukum di Sinai, Kemah Suci, 40 taun di padang pasia",
+   "q": "Aku akan mengangkat kamu menjadi umat-Ku dan Aku akan menjadi Allahmu.",
+   "cite": "Keluaran 6:6",
+   "christ": "Paskah, katiko darah anak domba maluputkan dari mauik, manggambaran Isa Almasih «anak domba Paskah kita» nan disalibkan bagi awak (1 Korintus 5:7).",
+   "detail": "<p>Kajadian kasalamaikan tagadang dalam PL. Israel nan dahulu budak manarimo kamerdekaan dek kuaso Allah dan dibantuak manjadi <b>umaik</b>-Nyo.</p><ul><li><b>Paskah</b> · rumah nan pintunyo badarah anak domba dilewati mauik; pola sadonyo kurban kamudian.</li><li><b>Lauik Teberau</b> · kasalamaikan katiko lauik tabalah di jalan buntu; «manyabarang» manjadi lambang awal baru.</li><li><b>Parjanjian Sinai</b> · malalui Sapuluah Hukum, urang balaja iduik sabagai umaik Allah.</li><li><b>Kemah Suci</b> · tampek suci bapindah, tampek Allah badiam di tangah umaik — pratando «Imanuel».</li><li><b>40 taun</b> · dek katidaktaatan ciek generasi mangambaro di pasia, tapi Allah manyertai jo manna sarato tiang awan jo tiang api.</li></ul>",
+   "next": "Tagak di ambang Tanah Parjanjian, urang basiap masuak…"
+  },
+  {
+   "tag": "PL · Manetap",
+   "title": "Panaklukan jo para hakim",
+   "date": "sakitar 1400–1050 SM",
+   "one": "Tanah dipaolah, tapi tanpa rajo tiok urang babuek suko hatinyo.",
+   "people": "Yosua; para hakim sarupo Gideon jo Simson; Rut",
+   "events": "Runtuahnyo Yerikho, manetap di Kanaan, lingkaran doso–pangadilan–kasalamaikan nan baulang",
+   "q": "Pada zaman itu tidak ada raja di antara orang Israel; setiap orang berbuat apa yang benar menurut pandangannya sendiri.",
+   "cite": "Hakim-hakim 21:25",
+   "christ": "Dari katurunan Rut lahia Daud, dan dari garih Daud datang Isa Almasih (Matius 1). Bahkan dalam kakacauan, silsilah Mesias taruih balanjuik.",
+   "detail": "<p>Di bawah Yosua urang masuak Tanah Parjanjian, tapi sasudah manetap urang capek malupoan Allah. Kitab Hakim-hakim adolah pangulangan pola nan samo.</p><ul><li><b>Lingkaran doso</b> · doso → panindasan → saruan → kasalamaikan dek hakim → doso baliak, dan makin parah.</li><li><b>Para hakim</b> · Gideon, Simson, Debora… panyalamaik samantaro, gagah tapi panuah kakurangan.</li><li><b>Rut</b> · cahayo kasatiaan di maso kalam; saurang padusi asiang masuak ka silsilah Daud (jo Isa Almasih).</li></ul>",
+   "next": "Umaik basaru: «Barilah kami saurang rajo!»…"
+  },
+  {
+   "tag": "PL · Puncak",
+   "title": "Karajaan basatu",
+   "date": "sakitar 1050–930 SM",
+   "one": "Allah bajanji ka Daud: «Singgasana ang kokoh untuak salamo-lamonyo».",
+   "people": "Saul · Daud · Salomo",
+   "events": "Rajo partamo Saul, Daud jo Goliat, parjanjian jo Daud, Rumah Suci Salomo",
+   "q": "Keluarga dan kerajaanmu akan kokoh untuk selama-lamanya di hadapan-Ku, takhtamu akan kokoh untuk selama-lamanya.",
+   "cite": "2 Samuel 7:16",
+   "christ": "«Singgasana kekal» digenapi dalam Isa Almasih, katurunan Daud; dek karano itu Baliau disabuik «Anak Daud» (Lukas 1:32-33; Matius 1:1).",
+   "detail": "<p>Puncak Israel di bawah tigo rajo.</p><ul><li><b>Saul</b> · rajo partamo nan diminta umaik; awal elok, tapi ditolak dek katidaktaatan.</li><li><b>Daud</b> · «orang yang berkenan di hati Allah». Inyo mangalahan Goliat dan manjadikan Yerusalem ibu kota. Inyo babuek doso gadang (Batsyeba), tapi batobat jo sungguah (Mazmur 51).</li><li><b>Parjanjian jo Daud (2 Samuel 7)</b> · Allah bajanji manegakan dinastinyo salamonyo — aka panantu pangharapan Mesias.</li><li><b>Salomo</b> · pado puncak hikmaik jo kakayoan inyo mambangun <b>Rumah Suci</b> di Yerusalem, tapi akhianyo jatuah ka panyembahan barhalo.</li></ul>",
+   "next": "Sasudah Salomo, karajaan tapacah duo…"
+  },
+  {
+   "tag": "PL · Kamerosotan",
+   "title": "Karajaan tapacah",
+   "date": "930–586 SM",
+   "one": "Tabagi manjadi selatan (Yehuda) jo utara (Israel), lalu merosot palahan.",
+   "people": "Rajo-rajo kaduo karajaan; nabi sarupo Elia, Yesaya, jo Yeremia",
+   "events": "Papacahan karajaan, panyembahan barhalo, paringatan para nabi",
+   "q": "Demikianlah mulanya orang Israel memberontak terhadap keluarga Daud sampai hari ini.",
+   "cite": "1 Raja-raja 12:19",
+   "christ": "Pado maso ko para nabi makin jaleh manubuatan Mesias nan ka datang (Yesaya 9:5; Yesaya 53).",
+   "detail": "<p>Pado zaman anak Salomo, karajaan tapacah: <b>Israel (utara)</b>, sapuluah suku, ibu kota Samaria; jo <b>Yehuda (selatan)</b>, duo suku, ibu kota Yerusalem.</p><ul><li><b>Utara</b> · sadonyo rajonyo manyembah barhalo; jatuah ka tangan Asyur taun 722 SM.</li><li><b>Selatan</b> · garih Daud balanjuik, ado rajo elok sarupo Hizkia jo Yosia, tapi sacaro kasaluruahan merosot.</li><li><b>Para nabi</b> · Elia, Amos, Yesaya, Yeremia basaru «batobatlah!». Di sikolah nubuat Mesias paliang kayo («hamba yang menderita» dalam Yesaya 53).</li></ul>",
+   "next": "Akhianyo datang pangadilan nan diingekkan: urang dibuang…"
+  },
+  {
+   "tag": "PL · Pangadilan",
+   "title": "Maso pambuangan",
+   "date": "722 / 586 SM",
+   "one": "Karajaan runtuah, dan umaik dibuang ka nagari asiang.",
+   "people": "Daniel, Yehezkiel, Nebukadnezar",
+   "events": "Israel runtuah dek Asyur (722); Yehuda runtuah dek Babel dan Rumah Suci dihancuran (586)",
+   "q": "Di tepi sungai-sungai Babel, di sanalah kita duduk sambil menangis, apabila kita mengingat Sion.",
+   "cite": "Mazmur 137:1",
+   "christ": "Di dasar kaputusasaan, Yeremia manjanjikan «perjanjian baru» (Yeremia 31:31) — parjanjian nan samo nan Isa Almasih tetapkan pado Parjamuan Tarakhir.",
+   "detail": "<p>Paringatan jadi kanyataan. Rumah Suci tabaka, umaik dibuang ka Babel: kailangan tanah, rajo, jo Rumah Suci — krisis taburuak.</p><ul><li><b>Duo kajatuahan</b> · Israel (Asyur, 722 SM) jo Yehuda (Babel, 586 SM).</li><li><b>Daniel</b> · taladan iman bahkan di istana kafir (gua singo); inyo maliek panglihatan «kerajaan kekal» nan ka datang.</li><li><b>Parcikan harapan</b> · panglihatan tulang-tulang kariang nan iduik baliak (Yehezkiel 37) jo «perjanjian baru» Yeremia manunjuak maso datang dalam kagalapan.</li></ul>",
+   "next": "Tujuah puluah taun kamudian, Allah mambukak jalan: urang pulang…"
+  },
+  {
+   "tag": "PL · Pamulihan",
+   "title": "Baliak dari pambuangan",
+   "date": "538–430 SM",
+   "one": "Urang baliak dan mambangun ulang Rumah Suci sarato tembok.",
+   "people": "Ezra, Nehemia, Ester, Zerubabel",
+   "events": "Baliak dek titah Koresh, pambangunan baliak Rumah Suci, parbaikan tembok Yerusalem, pamulihan Firman",
+   "q": "sukacita karena TUHAN itulah perlindunganmu!",
+   "cite": "Nehemia 8:11",
+   "christ": "Maleakhi, kitab tarakhir PL, ditutuik jo pambaritahuan tantang utusan nan manyiapan jalan Mesias: «Lihat, Aku menyuruh utusan-Ku» (Maleakhi 3:1).",
+   "detail": "<p>Kapulangan dimulai jo titah Koresh, rajo Persia (538 SM). Dalam tigo galombang urang baliak dan mambangun ulang nan runtuah.</p><ul><li><b>Zerubabel</b> · mambangun baliak Rumah Suci (salasai 516 SM).</li><li><b>Ezra</b> · ma-ajaan baliak Taurat (Firman) dan mamulihan iman.</li><li><b>Nehemia</b> · mambangun baliak tembok Yerusalem dalam 52 ari.</li><li><b>Ester</b> · manyalamaikan urang Yahudi di Persia dari pamusnahan — «siapa tahu, mungkin untuk saat seperti ini…».</li><li><b>Dahago nan tasiso</b> · Rumah Suci tagak, tapi indak ado rajo sarupo Daud. Umaik manantian Mesias.</li></ul>",
+   "next": "Lalu… sarupo langik nan tatutuik, datang 400 taun kasunyian."
+  },
+  {
+   "tag": "Antaraparjanjian · Manyiapan pangguang",
+   "title": "Maso kasunyian",
+   "date": "sakitar 430–4 SM",
+   "one": "400 taun tanpa suaro nabi — tapi pangguang disiapan dalam diam.",
+   "people": "Aleksander Agung, kaum Makabe, Roma",
+   "events": "Persia → Yunani → kamardekaan Makabe → kakuasaan Roma",
+   "q": "Tetapi setelah genap waktunya, maka Allah mengutus Anak-Nya, yang lahir dari seorang perempuan.",
+   "cite": "Galatia 4:4",
+   "christ": "Saluruah «panyiapan pangguang» ko adolah karyo Allah supayo Isa Almasih datang tapek «setelah genap waktunya».",
+   "detail": "<p>Dari Maleakhi sampai PB, sakitar 400 taun tanpa firman Alkitab baru (nabi). Tapi di baliak sajarah, Allah manyiapan jalan tasebarnyo Injil.</p><ul><li><b>Pagantian karajaan</b> · Persia → Yunani (Aleksander, 333 SM) → Mesir jo Siria → pambarontakan Makabe (167 SM) → Roma (63 SM).</li><li><b>Baso Yunani</b> · panaklukan Aleksander manjadikan Yunani baso umum; PL ditarjamahan ka Yunani (Septuaginta), mambukak jalan supayo Injil capek tasebar.</li><li><b>Jalan jo damai Roma</b> · jalan nan tabangun jo «damai Roma» manjadi saranan misi.</li><li><b>Sinagoge jo golongan</b> · pangajaran bapusek sinagoge maaka; muncua Farisi jo Saduki, dan <b>manantian Mesias</b> masak.</li></ul>",
+   "next": "Dan katiko kasunyian dipacahkan — akhianyo Baliau datang."
+  },
+  {
+   "tag": "PB · Panggenapan",
+   "title": "Kadatangan Isa Almasih",
+   "date": "sakitar 4 SM–30 M",
+   "one": "Mesias nan dijanjikan datang, mati, dan bangkik.",
+   "people": "Isa Almasih, duo baleh murid, Yohanes Pembaptis",
+   "events": "Inkarnasi (Natal), palayanan pangajaran jo mukjizat, kamatian di salib, kabangkitan pado ari katigo",
+   "q": "Firman itu telah menjadi manusia, dan diam di antara kita… penuh kasih karunia dan kebenaran.",
+   "cite": "Yohanes 1:14",
+   "christ": "Katurunan padusi (adegan 2), berkat Abraham (3), anak domba Paskah (4), rajo kekal Daud (6), jo parjanjian baru (8) — sadonyo digenapi dalam ciek Isa Almasih: Nabi, Imam, jo Rajo awak nan sajati.",
+   "detail": "<p>Kasunyian dipacahkan, Sang Janji datang. Kaampek Injil basaksi tantang iduik, kamatian, jo kabangkitan Isa Almasih dari suduik nan babeda.</p><ul><li><b>Inkarnasi</b> · Allah manjadi manusia (Imanuel, «Allah menyertai kita»), dalam karandahan Betlehem.</li><li><b>Palayanan</b> · Baliau ma-ajaan Karajaan Allah, manyembuahan nan sakik, dan mamanggia urang badoso. «Barangsiapa telah melihat Aku, ia telah melihat Bapa.»</li><li><b>Salib</b> · Baliau mambayia bagi awak harago doso jo mauik nan masuak dek kajatuahan (adegan 2). Anak domba Paskah nan sajati.</li><li><b>Kabangkitan</b> · pado ari katigo Baliau bangkik dan manghancuran kuaso doso, mauik, jo Iblis; di salib pun Baliau lah «melucuti pemerintah-pemerintah dan penguasa-penguasa… dalam kemenangan-Nya» (Kolose 2:15).</li></ul><p>Mako Isa Almasih adolah <b>Nabi awak nan sajati</b> (manunjuakan jalan ka Allah), <b>Imam awak nan sajati</b> (jo tubuah-Nyo surang manebus doso), jo <b>Rajo awak nan sajati</b> (mangalahan doso, mauik, jo Iblis sarato mamarintah salamonyo).</p>",
+   "next": "Isa Almasih nan bangkik mautuih murid-murid-Nyo ka dunia…"
+  },
+  {
+   "tag": "PB · Panyebaran",
+   "title": "Awal mulo garejo",
+   "date": "sajak 30 M",
+   "one": "Roh turun, dan Injil tasebar sampai ka ujuang bumi.",
+   "people": "Petrus, Paulus, garejo mulo-mulo",
+   "events": "Turunnyo Roh pado Pentakosta, lahianyo garejo, Injil dari Yerusalem ka Roma manembuih panganiayoan",
+   "q": "Tetapi kamu akan menerima kuasa, kalau Roh Kudus turun ke atas kamu… sampai ke ujung bumi.",
+   "cite": "Kisah Para Rasul 1:8",
+   "christ": "Kisah ko balanjuik sampai ari ko. Alkitab ditutuik jo janji baso Isa Almasih ka datang baliak dan mambuek sagalo sasuatu baru (Wahyu 21).",
+   "detail": "<p>Sasudah Isa Almasih naiak ka sarugo, Roh nan dijanjikan turun pado Pentakosta, dan garejo lahia. Injil tasebar sacaro dahsyat.</p><ul><li><b>Pentakosta</b> · dek Roh, murid-murid nan katakuik manjadi saksi nan barani.</li><li><b>Petrus</b> · mambaritoan Injil ka urang Yahudi di Yerusalem.</li><li><b>Paulus</b> · dari panganiayo manjadi rasul; mandirian jemaat di dunia kafir dan manulih surek-surek.</li><li><b>Sampai ka ujuang</b> · Yerusalem → Yudea → Samaria → Roma. Janji «semua kaum» ka Abraham manjadi kanyataan.</li><li><b>Dan awak</b> · kisah indak baakhia; bagarak manuju kadatangan Isa Almasih baliak jo langik sarato bumi nan baru.</li></ul>",
+   "next": "Tapi kisah indak baakhia di siko…"
+  },
+  {
+   "tag": "PB · Panyampurnoan",
+   "title": "Pamulihan (sagalo sasuatu baru)",
+   "date": "ka datang",
+   "one": "Isa Almasih datang baliak dan mambuek sagalo sasuatu baru.",
+   "people": "Isa Almasih nan datang baliak; sagalo bangso",
+   "events": "Kadatangan kaduo, pangadilan tarakhir, akhia doso, mauik, jo aia mato, langik jo bumi nan baru",
+   "q": "Dan Ia akan menghapus segala air mata dari mata mereka, dan maut tidak akan ada lagi; tidak akan ada lagi perkabungan, atau ratap tangis, atau dukacita.",
+   "cite": "Wahyu 21:4",
+   "christ": "Eden panciptoan partamo akhianyo dipulihan sabagai «Yerusalem baru». Allah badiam basamo umaik-Nyo salamonyo — kapanuahan Imanuel (Wahyu 21:3; Matius 1:23).",
+   "detail": "<p>Alkitab indak baakhia pado zaman garejo. Kitab tarakhianyo, Wahyu, manampilan Isa Almasih nan <b>datang baliak</b> dan manyampurnoan sadonyo.</p><ul><li><b>Kadatangan kaduo</b> · Rajo nan dijanjikan datang baliak dalam kamuliaan.</li><li><b>Kamananangan akhia</b> · Iblis jo mauik dibinasoan salamonyo, dan Almasih mamarintah sabagai Rajo di ateh sagalo rajo (1 Korintus 15:25-26; Wahyu 20:10).</li><li><b>Pangadilan jo kabangkitan</b> · sagalo katidakadilan dilurusan, dan urang mati dibangkikan.</li><li><b>Langik jo bumi baru</b> · doso, mauik, aia mato, jo darito lanyok salamonyo (Wahyu 21:4).</li><li><b>Eden nan dipulihan</b> · di «Yerusalem baru» nan labiah elok dari samulo, Allah badiam basamo umaik-Nyo salamonyo — tujuan nan dituju saluruah Alkitab.</li></ul><p>Dek karano itu kini adolah maso <b>«sudah, tetapi belum»</b>: dalam Isa Almasih kasalamaikan <b>lah</b> digenapi, tapi kapanuahannyo <b>alun</b> tibo dan masih dinanti.</p>",
+   "next": "Lalu, apo arati saluruah kisah ko bagi «ambo»?"
+  }
+ ],
+ "love": [
+  "Awal kisah bukanlah pangadilan, tapi dunia nan diciptoan dek kasiah nan malimpah.",
+  "Sabantang manusia badoso, Allah langsuang manjanjikan kasalamaikan di situ juo.",
+  "Allah labiah dulu mancari nan indak layak, mamanggianyo jo namo, dan manjadikannyo saluran berkat.",
+  "Baliau mandanga kaluahan umaik nan dipabudak, dan turun surang untuak manyalamaikan.",
+  "Walau dikhianati baulang kali, satiok kali urang basaru Baliau mautuih panyalamaik dan manegakan urang baliak.",
+  "Bahkan Daud nan jatuah dalam pun indak dibuang-Nyo; malalui inyo Baliau manjanjikan Rajo nan kekal.",
+  "Ka umaik nan bapaliang Baliau taruih mautuih nabi, mamohon: «Baliaklah».",
+  "Bahkan sampai ka tanah pambuangan nan tagalap Baliau turun basamo urang, dan manjanjikan pamulihan.",
+  "Bahkan ka umaik nan baulang gagal pun Baliau indak manarik janji-Nyo, tapi manegakan urang baliak.",
+  "Bahkan dalam 400 taun kasunyian, Baliau diam-diam manyiapan jalan kasalamaikan.",
+  "Katiko awak masih badoso, Baliau mautuih Anak-Nyo dan manyarahan nyawo.",
+  "Kasiah nan awak tarimo tu kini Baliau kirim untuak maalia ka saluruah dunia.",
+  "Akhianyo Baliau ka maapuih sagalo aia mato dan mambaharui sagalo sasuatu dalam kasiah."
+ ],
+ "mis": [
+  {
+   "w": "«Manga Allah manciptoan makhluk nan bisa badoso? Bukankah labiah elok indak manciptoannyo?»",
+   "t": "Allah manciptoan dunia jo manusia bukan dek kakurangan, tapi dek kasiah nan malimpah. Manjadikan manusia <b>pribadi nan dapek barelasi jo Allah</b> tu surang adolah kasiah. Bahkan masuaknyo doso pun indak di lua rencana kasalamaikan Allah (Efesus 1:4-5). Adegan partamo Alkitab bukan pangadilan, tapi kasiah."
+  },
+  {
+   "w": "«Hanyo dek ciek buah lalu diusia bahkan dihukum mati — bukankah Allah talampau kareh?»",
+   "t": "Pangusiran dari Eden adolah pangadilan sakaligus baleh kasiah. Jikok dalam kaadaan taputuih dari Allah jo rusak manusia mamakan pohon kahidupan lalu iduik salamonyo, inyo ka takuruang dalam darito salamonyo (Kejadian 3:22). Maizinkan mauik adolah mambukak jalan untuak babaliak; dan di situ juo Allah manjanjikan Juruselamat (Kejadian 3:15). Dalam pangadilan lah ado kasiah."
+  },
+  {
+   "w": "«Abraham dipiliah dek imannyo nan gadang — bukankah tokoh-tokoh Alkitab sadonyo pahlawan moral?»",
+   "t": "Abraham pun baduto jo ragu, dan Yakub saurang panipu. Allah mamanggia bukan «nan layak», tapi dek anugerah mamanggia nan indak sampurna. Alasan pamiliahan bukan kaunggulan urang tu, tapi kasiah satia Allah (Ulangan 7:7-8)."
+  },
+  {
+   "w": "«Bukankah hukum Taurat (parintah) adolah ujian atau sarat nan harus lulus untuak salamaik?»",
+   "t": "Allah manyalamaikan urang tu <b>sabalun</b> mambari Taurat. Sapuluah Hukum pun dibukak jo panyataan kasalamaikan: «Akulah TUHAN, Allahmu, yang membawa engkau keluar dari Mesir» (Keluaran 20:2). Taurat bukan «taatilah agar selamat», tapi tuntunan kasiah tantang baa caro iduik bagi nan lah disalamaikan dek anugerah (Ulangan 7:7-9). Salalu anugerah dulu; ketaatan adolah tanggapan."
+  },
+  {
+   "w": "«Panaklukan Kanaan adolah pambantaian kejam — barati Allah PL iyo kejam.»",
+   "t": "Iko tema nan indak salasai dalam ciek kalimaik dan manuntuik kati-hatian. Tapi Alkitab manyajikannyo bukan sabagai kakerasan sambarangan, tapi pangadilan sasudah ba-abaik-abaik kajahatan ekstrem (tamasuak mangurbankan anak), sasudah panjang saba (Kejadian 15:16; Ulangan 9:4-5; Imamat 18:24-25). Allah indak tagaso bahkan dalam pangadilan, dan jo sanang manarimo satiok nan babaliak ka-Nyo, sakalipun urang asiang, sarupo Rahab jo Rut (Yosua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "«Daud pahlawan tanpa celo, dek karano itu disabuik “orang yang berkenan di hati Allah”.»",
+   "t": "Daud bazina bahkan mambunuah. «Berkenan di hati Allah» bukan barati sampurna, tapi inyo indak manyumbunyikan doso, batobat sungguah, dan salalu baliak ka Allah (Mazmur 51). Kasiah Allah indak mambuang bahkan nan jatuah dalam."
+  },
+  {
+   "w": "«Nabi adolah paramal maso datang / Allah PL hanyo murka.»",
+   "t": "Inti saurang nabi bukan «manabak maso datang», tapi saruan Allah nan sungguah-sungguah: «baliaklah». Bahkan paringatan pangadilan bukan untuak mambinasoan, tapi supayo babaliak dan iduik: «Aku tidak berkenan kepada kematian orang fasik» (Yehezkiel 33:11)."
+  },
+  {
+   "w": "«Pambuangan mambuktikan Allah bana-bana mambuang Israel.»",
+   "t": "Pambuangan bukan pambuangan kasiah, tapi hajaran jo pamurnian saurang Bapak bagi anak nan dikasiahi (Ibrani 12:6). Allah indak pai; Baliau manyertai Daniel di tangah pambuangan dan bajanji: «rancangan damai sejahtera… untuk memberikan kepadamu hari depan yang penuh harapan» (Yeremia 29:11)."
+  },
+  null,
+  {
+   "w": "«Jikok 400 taun indak ado firman, bukankah Allah pai atau baranti?»",
+   "t": "Kasunyian bukan katidakhadiran. Baliau hanyo indak bafirman; sapanjang waktu tu Baliau manggarakan karajaan, baso, jo jalan untuak manyiapan pangguang kasalamaikan. Pado saaik paliang sunyi, Allah bakarajo paliang panuah kasiah (Galatia 4:4)."
+  },
+  {
+   "w": "«Isa Almasih hanyo salah satu guru moral nan elok / salib adolah kakalahan tragis.»",
+   "t": "Isa Almasih surang manyatakan diri sabagai Allah (Yohanes 8:58), dan salib bukan kacalakaan atau kakalahan, tapi kasiah nan tarencana. Baliau indak digiriang jo pakso, tapi manyarahan nyawo ateh kahendak-Nyo surang (Yohanes 10:18). «Tidak ada kasih yang lebih besar dari pada kasih seorang yang memberikan nyawanya untuk sahabat-sahabatnya» (Yohanes 15:13)."
+  },
+  {
+   "w": "«Garejo adolah klub agamo urang-urang sampurna, atau sakadar gaduang.»",
+   "t": "Garejo bukan komunitas «orang kudus yang sempurna», tapi <b>urang badoso nan diampuni</b>. Rasul Paulus surang manyabuik dirinyo «yang paling berdosa» (1 Timotius 1:15). Garejo mulo-mulo pun bacakak jo gagal (Kisah Para Rasul 6:1; 1 Korintus 1:11). Garejo bukan tampek manyombong, tapi urang-urang nan maalia kasiah nan lah ditarimo (Yohanes 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Doso asal — indak ado nan bana",
+   "body": "Masalahnyo bukan «babarapo pabuatan buruak», tapi aka hati. Sajak Adam, sadonyo lahia di bawah doso dan indak dapek mancapai Allah jo kakuatan surang.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Tidak ada yang benar, seorang pun tidak… karena semua orang telah berbuat dosa dan telah kehilangan kemuliaan Allah."
+  },
+  {
+   "title": "Hukum Taurat indak dapek manyalamaikan ambo",
+   "body": "Taurat bukan tanggo, tapi camin. Makin ambo bausao manaatinyo, makin tampak baa ambo gagal. Tujuannyo manuntun awak ka Almasih.",
+   "vref": "Roma 3:20 · Galatia 3:24",
+   "vtext": "Justru oleh hukum Taurat orang mengenal dosa… hukum Taurat adalah penuntun bagi kita sampai Kristus datang."
+  },
+  {
+   "title": "Dek anugerah — pambarian, bukan usao",
+   "body": "Kasalamaikan bukan upah jaso nan ditimbun, tapi pambarian Allah bagi nan indak layak. Dek karano itu indak surang pun dapek mamegahan diri.",
+   "vref": "Efesus 2:8-9",
+   "vtext": "Sebab karena kasih karunia kamu diselamatkan oleh iman… itu bukan hasil usahamu… jangan ada orang yang memegahkan diri."
+  },
+  {
+   "title": "Dibanaan dek iman",
+   "body": "Bukan dek malakukan hukum Taurat, tapi dek picayo ka Isa Almasih awak dinyatoan bana: awak mamakai bukan kabanaran awak surang, tapi kabanaran-Nyo.",
+   "vref": "Roma 5:1 · Galatia 2:16",
+   "vtext": "kita yang dibenarkan karena iman… tidak seorang pun yang dibenarkan oleh karena melakukan hukum Taurat, tetapi hanya oleh karena iman dalam Kristus Yesus."
+  },
+  {
+   "title": "Alkitab manunjuak ka Isa Almasih",
+   "body": "Alkitab bukan biografi urang gadang atau buku pangembangan diri. Dari Kejadian sampai Wahyu, satiok halaman basaksi tantang ciek Pribadi: Isa Almasih.",
+   "vref": "Yohanes 5:39 · Lukas 24:27",
+   "vtext": "Kitab-kitab Suci itu memberi kesaksian tentang Aku… Ia menjelaskan kepada mereka apa yang tertulis tentang Dia dalam seluruh Kitab Suci."
+  },
+  {
+   "title": "Karajaan Allah — pusek pesan Isa Almasih",
+   "body": "Tema nan paliang banyak Isa Almasih ajaan. Karajaan tampek Allah mamarintah sabagai Rajo masuak ka dunia basamo Isa Almasih, dan ka disampurnoan pado kadatangan-Nyo baliak. Malalui salib jo kabangkitan, Isa Almasih adolah Rajo sajati nan mangalahan doso, mauik, jo Iblis.",
+   "vref": "Markus 1:15",
+   "vtext": "Waktunya telah genap; Kerajaan Allah sudah dekat. Bertobatlah dan percayalah kepada Injil!"
+  },
+  {
+   "title": "Injil — Baliau lah manyalasaian sadonyo",
+   "body": "Utang doso nan indak dapek ambo bayia, Isa Almasih bayia manggantian ambo di salib, dan dek kabangkitan Baliau mangalahan mauik. Ambo basandar bukan pado «lakukanlah», tapi pado «sudah selesai».",
+   "vref": "Yohanes 19:30 · Roma 5:8",
+   "vtext": "Sudah selesai… Kristus telah mati untuk kita, ketika kita masih berdosa."
+  }
+ ],
+ "books": {
+  "Kejadian": "GEN",
+  "Keluaran": "EXO",
+  "Imamat": "LEV",
+  "Bilangan": "NUM",
+  "Ulangan": "DEU",
+  "Yosua": "JOS",
+  "Hakim-hakim": "JDG",
+  "Rut": "RUT",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Raja-raja": "1KI",
+  "2 Raja-raja": "2KI",
+  "1 Tawarikh": "1CH",
+  "2 Tawarikh": "2CH",
+  "Ezra": "EZR",
+  "Nehemia": "NEH",
+  "Ester": "EST",
+  "Ayub": "JOB",
+  "Mazmur": "PSA",
+  "Amsal": "PRO",
+  "Pengkhotbah": "ECC",
+  "Kidung Agung": "SNG",
+  "Yesaya": "ISA",
+  "Yeremia": "JER",
+  "Ratapan": "LAM",
+  "Yehezkiel": "EZK",
+  "Daniel": "DAN",
+  "Hosea": "HOS",
+  "Yoel": "JOL",
+  "Amos": "AMO",
+  "Obaja": "OBA",
+  "Yunus": "JON",
+  "Mikha": "MIC",
+  "Nahum": "NAM",
+  "Habakuk": "HAB",
+  "Zefanya": "ZEP",
+  "Hagai": "HAG",
+  "Zakharia": "ZEC",
+  "Maleakhi": "MAL",
+  "Matius": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Yohanes": "JHN",
+  "Kisah Para Rasul": "ACT",
+  "Roma": "ROM",
+  "1 Korintus": "1CO",
+  "2 Korintus": "2CO",
+  "Galatia": "GAL",
+  "Efesus": "EPH",
+  "Filipi": "PHP",
+  "Kolose": "COL",
+  "1 Tesalonika": "1TH",
+  "2 Tesalonika": "2TH",
+  "1 Timotius": "1TI",
+  "2 Timotius": "2TI",
+  "Titus": "TIT",
+  "Filemon": "PHM",
+  "Ibrani": "HEB",
+  "Yakobus": "JAS",
+  "1 Petrus": "1PE",
+  "2 Petrus": "2PE",
+  "1 Yohanes": "1JN",
+  "2 Yohanes": "2JN",
+  "3 Yohanes": "3JN",
+  "Yudas": "JUD",
+  "Wahyu": "REV"
+ },
+ "yv": 306,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": true
+ }
+}

@@ -1,0 +1,383 @@
+{
+ "menuName": "Julakan",
+ "htmlLang": "dyu",
+ "dir": "ltr",
+ "brand": "Bibulu kuma bɛɛ ɲasɔrɔ siɲɛ kelen",
+ "docTitle": "Bibulu kuma bɛɛ ɲasɔrɔ siɲɛ kelen · Ka bɔ Danni na ka se Eglisi ma",
+ "share": {
+  "title": "Bibulu kuma bɛɛ ɲasɔrɔ siɲɛ kelen",
+  "text": "Jagomali kelen kɔnɔ, i ka Bibulu ka maana belebele lɔn — ani mun na Yezu nana."
+ },
+ "ui": {
+  "people": "Mɔgɔw",
+  "events": "Koo nafamaw",
+  "christLabel": "A be Yezu yira",
+  "loveLabel": "Kanuya banbali",
+  "mythWrong": "Hakili la fili",
+  "mythRight": "Tiɲɛ na",
+  "more": "Ka caaman kalan",
+  "version": "(AKKDC08)"
+ },
+ "labels": {
+  "start": "Daminɛ",
+  "thread": "Maana sira",
+  "gospel": "Kibaru diman",
+  "about": "A koo la"
+ },
+ "s": {
+  "ui.share": "↗ Ka tila",
+  "ui.toast": "Jukɔrɔsira kopila 📋",
+  "ui.footer": "Bibulu kuma bɛɛ ɲasɔrɔ siɲɛ kelen · Bibulu kumaw bɔra AKKDC08 la",
+  "hero.kicker": "KA BƆ DANNI NA KA SE EGLISI MA",
+  "hero.title": "Bibulu,<br><span class='em'>ɲasɔrɔ siɲɛ kelen</span>",
+  "hero.sub": "Jagomali kelen kɔnɔ, i ka Bibulu ka maana belebele lɔn — ani mun na Yezu nana.",
+  "hero.cue": "Jagoma ka jigin<span>↓</span>",
+  "thread.eyebrow": "KUMA KELEN MIN BE BIBULU BƐƐ NƆRƆ ƝƆGƆN NA",
+  "thread.h2": "A laban na, Bibulu ye maana kelenpe le ye",
+  "thread.flow": "<b>Layidu</b><span class='arw'>→</span><b>Makɔnɔni</b><span class='arw'>→</span><b>Dafali</b>",
+  "thread.note": "Ala be <b>layidu</b> ta (layidu kura), mɔgɔw be <b>makɔnɔ</b> waati jan kɔnɔ, a laban na koo bɛɛ <b>dafara</b> ka kɛ tiɲɛ ye Yezu la. Maana yɔrɔ 13 nunu bato o sira fɛ — <b>“Ka caaman kalan”</b> digi karti kelen kelen bɛɛ kan walisa ka maana dunman sɔrɔ.",
+  "gospel.eyebrow": "NIN MAANA KƆRƆ YE MUN YE “NE” YE",
+  "gospel.h2": "Bibulu jusukun yɛrɛyɛrɛ",
+  "gospel.lead": "Bibulu <b>tɛ kalanfura ye min b'a fɔ ko “i ka kɛ mɔgɔɲuman ye.”</b>",
+  "gospel.sublead": "A ye maana ye min b'a yira Ala ye hakɛkɛlaw kisi cogo min na <b>nɛɛma dama barika la</b>, olu minw tun tɛ se k'u yɛrɛ kisi. A cɛmancɛ la, Yezu Krista lo lɔlen be.",
+  "gospel.mirror": "<h3>Isirayɛli ka kuruba banbali ye “ne” yɛrɛ ja le ye</h3><div class='cycle'><b>Bolifɛnbato</b><span class='a'>→</span><b>Tɔɔrɔ</b><span class='a'>→</span><b>Kasi</b><span class='a'>→</span><b>Ala be kisi di</b><span class='a'>→</span><b>Bolifɛnbato tugu…</b></div><p>Ka bɔ cɛfariw waati la ka se sigili la, Isirayɛli ye nin kuruba nin kɛ banbali. Bibulu ma o sɛbɛn walisa an ka maa yɛlɛ ko “u dɔgɔyalen tun be cogo min na.”</p><p>A ye <b>dubalan</b> le ye. A kɔrɔ tɛ ko “Isirayɛli ye o kɛ” nga <b>“ne fana be o kelen kɛ”</b> (Kor fɔlɔ 10:11).</p><p><b>Bolifɛn</b> tɛ yiri ja dama ye. A ye <b>fɛɛn o fɛɛn min koo ka di an ye walima an jigi b'a la ka tɛmɛ Ala kan</b> — wari, ɲɛtaa, mɔgɔw ka tanuli, mɔgɔw, hali ne yɛrɛ. Ani ka Ala kɛ <b>minan ye walisa ka ne sago sɔrɔ</b>, o fana ye bolifɛnbato ye.</p><p class='punch'>A laban na, bolifɛn jukɔrɔ ma ye “ne yɛrɛ siginin Ala ka masasigilan kan.”</p>",
+  "gospel.coreIntro": "Ayiwa, Ala be o hakɛkɛla nin kisi cogo di? Kibaru diman jusukun min be fɔ Bibulu fɛ, o filɛ nin ye.",
+  "gospel.crux": "<p class='crux-lead'>Bibulu bɛɛ be yɔrɔ kelen le yira.</p><p>Mɔgɔw tun tɛ se k'u yɛrɛ bɔ hakɛ kuruba la, ani mɔgɔtilennin si tun tɛ yen. O la, fɔɔ mɔgɔ dɔ ka <b>juru sara u nɔɔ na</b>.</p><p>Yezu ma na kalan ɲuman dili dama na. Sira wɛrɛ tun tɛ yen ka ne kisi, o le y'a to <b>fɔɔ a ka na.</b></p><p class='crux-punch'>Min tun ka kan ka gengen o kuruwa kan, o tun ye <b>ne</b> ye.<br>Yezu ye <b>ne ka hakɛ</b> ta ka gengen yen ne nɔɔ na.</p><div class='crux-verse'>“K'a sɔrɔ anw ka kojuguw kosɔn lo, u y'a sɔgɔ. Anw ka juguya kosɔn lo, a halakira… An kɛnɛyara a ka jolidaw sababu la.” — Eza 53:5</div>",
+  "faq.h": "I hakili be sigan koo dɔ la halibi wa?",
+  "faq.q1": "<span class='arr'>▸</span> O la, mɔgɔfagala min lara, o be taga sankolo la, nga mɔgɔ min ɲɛnamaya ɲumanya la a ka ɲɛnamaya bɛɛ kɔnɔ nga a ma la, o be taga jahanama na wa?",
+  "faq.a1": "<p>O ye ɲininkali bɛnnin ye. Nga hakili la fili fila dogolen be a kɔnɔ.</p><p><b>① Bibulu tɛ mɔgɔw tila “mɔgɔɲuman ni mɔgɔjugu” ye.</b> Sumanikɛlan tɛ “ka fisa i kɛrɛfɛmɔgɔ ye,” nga “Ala ka senuya dafanin” lo. A ɲakɔrɔ, mɔgɔ si tɛ “ɲuman bɛrɛ” ye (Ɔrɔ 3:23). O la, nin tɛ “mɔgɔɲuman ni mɔgɔfagala” ye, nga a ka kan ni mɔgɔ fila ye minw banabagatɔlen be bana saya ta la — kelen be furakɛli minɛ, tɔ kelen b'a ban k'a fɔ ko “ne kɛnɛ ka fisa o tigi ta ye.”</p><p><b>② Fɛɛn kelenpe le be sankolo ni jahanama faran ɲɔgɔn na.</b> O tɛ kɛwaliw jati ye, nga <b>n'i ye Yezu Krista minɛ i Matigi ye ani n'i ka hakɛ koo banna</b>. Mɔgɔ min ka hakɛ bana Krista joli barika la, o be taga sankolo la; mɔgɔ min m'a minɛ abada, min ka hakɛ tora, o tena taga. Kɛɲuman si tɛ se ka o hakɛ koo yɛrɛ ban.</p><p>O la, sankolo ni jahanama tɛ “kɛɲuman sara” ye, nga <b>jɛɲɔgɔnya min be i ni Krista cɛ</b> koo lo. Ani “ka la” tɛ hakili ka sɔn dama ye, nga Matigi yɛlɛmani i ka ɲɛnamaya kɔnɔ: mɔgɔ min y'a minɛ tiɲɛ na, o tena kɛ kunkologwɛlɛn ye, nga a be nimisa kosɔbɛ. Tiɲɛ na, <b>i yɛrɛ tilenya</b> (“ne ye mɔgɔɲuman ye”) ye bolifɛn ye min ka gwɛlɛn ka cɛn, min b'a to an b'a miiri ko an mago tɛ Krista la (Luka 18:9-14).</p><p>Bibulu y'a fɔ ka gwɛ: <b>“Ni mɔgɔ min y'a jigi la a kan, o tigi kisira kiti ma, nga ni min m'a jigi la a kan, o tigi jalakira ka ban”</b> (Zan 3:18). Kiti tɛ “i ka ɲɛnamaya jati i salen kɔ,” nga a banna ka ban <b>n'i ye Krista minɛ</b> wo, n'i m'a minɛ wo.</p><p class='faq-v'>Ɔrɔ 3:23 · Zan 3:18 · Efɛ 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Ne tɛ se ka ɲɛnamaya ɲuman dama kɛ ka Yezu to yen ka la wa?",
+  "faq.a2": "<p>O ye miirili ye min ka teli ka kɛ, nga a ma “koo yɛrɛyɛrɛ” faamu. An ka ja dɔ ta.</p><p><b>I miiri ko i be sonyalikɛla ka kurun kɔnɔ.</b> Hali n'i ye kurun kɔnɔ saniya, n'i be mɔgɔɲuman ye kurundenw fɛ, n'i ka ɲɛnamaya ka ɲi cogo o cogo, <b>sonyalikɛla</b> de be i la halibi, bari kurun be taga ni i ye a taayɔrɔ la (kiti tigɛyɔrɔ). Koo tɛ “i ka kɛwaliw jati” ye, nga <b>“i be kurun jumɛn kɔnɔ” (i yɛrɛ)</b> lo.</p><p>O la, Kibaru diman t'a fɔ ko “i ka i jija ka kɛ mɔgɔɲuman ye,” nga a b'a fɔ ko <b>“i ka i ka kurun falen.”</b> Bɔ hakɛ kurun kɔnɔ ka taga Yezu fɛ — ka kɛ <b>Ala deen</b> kura ye. O tɛ i ka jati yɛlɛni i seko la, nga ka i jigi la mɔgɔ min b'i bolo di, ani ka taga a ka kurun kɔnɔ.</p><p>Tiɲɛ na, Bibulu be kisili nin yelema nin yɛrɛ ɲɔgɔn fɔ: <b>“A y'an tila ka bɔ dibi ka fanga bolo, ani k'an don a Deen ka masaya la”</b> (Kɔl 1:13).</p><p>Kana a faamu cogojugu la: <b>o t'a fɔ ko ɲɛnamaya ɲuman tɛ foyi ye.</b> Nga ɲumanya tɛ kisili “sariya” ye, nga a <b>deen</b> lo. Mɔgɔ min y'a ka kurun falen, o be ɲɛnamaya ɲuman kɛ siran kosɔn tugu tɛ, nga <b>deen ka kanuya</b> kosɔn.</p><p class='faq-v'>Kɔl 1:13 · Zan 1:12 · Zan 3:3 · Efɛ 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Ni kojugukɛla be hɛrɛ la, k'a fɔ ko “Ala ye yafa ne ma,” k'a sɔrɔ tɔɔrɔbagatɔ be tɔɔrɔ la halibi — yafa nin ma nɔgɔya kojugu wa?",
+  "faq.a3": "<p>Ɲininkali ka ɲi, ani o dimi ye tiɲɛ ye. Nga o fɔcogo nin tɛ “Bibulu ka yafa” ye, nga a <b>tiɲɛni</b> lo.</p><p><b>① Ala ka yafa ma nɔgɔ abada.</b> Hakɛ tɛ dogo i n'a fɔ a ma kɛ; Ala yɛrɛ ye a juru sara a Dencɛ yɛrɛ nii la. Kuruwa tɛ seereya ko hakɛ ye fɛɛn fɛɛnnin ye, nga a b'a yira ko hakɛ girinya ka bon — diɲɛ na yafa min sɔngɔ ka gwɛlɛn ka tɛmɛ bɛɛ kan.</p><p><b>② Nimisa yɛrɛyɛrɛ be deen sɔrɔ.</b> Ni kojugukɛla be a yɛrɛ jati ko foyi ma kɛ tɔɔrɔbagatɔ ɲakɔrɔ, k'a fɔ ko “Ala ye yafa ne ma, ne be hɛrɛ la,” o tɛ nimisa ye, nga nimisa ladegeli lo (Mat 3:8). Ani yafa min be mɔgɔ ni Ala cɛ, o tɛ tɔɔrɔbagatɔ ka jogin jɔsi, a t'a wajibiya fana k'a ka yafa di.</p><p><b>③ Hakɛ tɛ “to yen dama” abada.</b> Hakɛ bɛɛ be sara yɔrɔ fila la dɔ kelen na: <b>walima Krista b'a ta kuruwa kan</b> (mɔgɔ minw jigi b'a la, jalaki tɛ olu kan tugu, Ɔrɔ 8:1), <b>walima mɔgɔ min y'a ban a la fɔɔ a laban, o yɛrɛ b'a ta.</b> O la, “yafa nɔgɔman” tɛ yen. Kojugukɛla be to ni jalaki ye nin diɲɛ ka kiti fana ɲakɔrɔ (Ɔrɔ 13:1-4).</p><p><b>④ Tɔɔrɔbagatɔ ɲaji tɛ fɛɛn fitinin ye Ala ɲakɔrɔ abada.</b> Ala be kasi ni kasilaw ye, a hakili be ɲaji bɛɛ la, a laban na a yɛrɛ bena u ɲaji cɛ (Yir 21:4). O la, tɔɔrɔbagatɔ yɛrɛ tena mɔnɛbɔ doni ta a kelen na, nga a be se k'a kalifa Ala tilennin ma (Ɔrɔ 12:19: “Mɔnɛbɔko ye ne ta ye, ne le be juru sara. Matigi ko ten”).</p><p class='faq-v'>Mat 3:8 · Ɔrɔ 8:1 · Ɔrɔ 13:1-4 · Yir 21:4</p>",
+  "respond.h3": "Ayiwa — ne dun?",
+  "respond.sub": "Nin kanuya nin tɛ kunnafoni ye, nga <b>weleli</b> lo. Ni kanuya min gengenna i nɔɔ na, o ye i dusukun digi, sisan i ka nin delili nin kɛ dɔɔni dɔɔni, kuma kelen kelen.",
+  "respond.prayer": "<p>Ala,</p><p>ne sɔnna a ma ko ne ye hakɛkɛla ye min tɛ se k'a yɛrɛ kisi.</p><p>Ne dalen b'a la ko Yezu sara kuruwa kan ne kosɔn ani a kununna.</p><p>I ka yafa ne ka hakɛw bɛɛ ma, ani kabini bii i ka kɛ ne ka ɲɛnamaya Matigi ye.</p><p>I ka ne minɛ i deen ye, ani i ka ne kɛ ka ɲɛnamaya kura kɛ.</p><p class='amen'>Yezu tɔgɔ la ne be delili kɛ. Amiina.</p>",
+  "respond.after": "N'i ye nin delili nin kɛ ni i dusukun ye, Bibulu b'a fɔ ko i kɛra <b>Ala deen</b> ye. I tɛ i kelen na tugu — eglisi gɛrɛfɛ ɲini, ani i ni mɔgɔ tɔw ka taama ɲɔgɔn fɛ lanaya sira kan.",
+  "respond.read": "I yɛrɛ ka Bibulu kalan — daminɛ Zan na",
+  "respond.verse": "“Nga minw sɔnn'a ma, ka l'a la, a ye see di olu ma ka kɛ Ala deenw ye.” — Zan 1:12 · Ɔrɔ 10:9-10",
+  "closing.main": "Ala kelen,<br>maana kelen barika la,<br>be an ɲini ni <em>kanuya</em><br>min tɛ ban abada.",
+  "closing.verse": "“Saya yɛrɛ, walima sijan… walima danfɛn wɛrɛw, fɛɛn si te yen min be se k'an faran ka bɔ Ala ka kanuya la min yirala an Matigi Yezu Krista sababu la.” — Ɔrɔ 8:38-39",
+  "closing.small": "Nin maana sira nin kan, Sariya, dɔnkiliw, kiraw ani bataakiw be “sogo” fara a kan.<br>Kabini sisan, i mana gafe o gafe yɛlɛ, i bena a lɔn ko “i be maana yɔrɔ jumɛn na.”",
+  "closing.share": "↗ Ka nin maana nin tila",
+  "about.line": "A sɛbɛnna ka kɛɲɛ ni <b>kisili-tariku, kibarudiman-fɔla ani Reformé</b> hakilila ye min ye Kore Porotɛstanw caaman ta ye.",
+  "about.contact": "Ɲininkaliw · hakililaw — <a id='contact' class='mail'>Email ci an ma</a>"
+ },
+ "epochs": [
+  {
+   "tag": "LAYIDU KƆRƆ · DAMINƐ",
+   "title": "Danni",
+   "date": "Daminɛ na",
+   "one": "Ala ye diɲɛ dan min tun “ka ɲi kosɔbɛ.”",
+   "people": "Ala; Adama ni Awa",
+   "events": "Tile wɔɔrɔ danni, mɔgɔ dara Ala ja la, Lafiɲɛbɔn loon",
+   "q": "Ala y'a ka danni daminɛ tuma min na, a kɔnna ka sankolo ni dugukolo le dan.",
+   "cite": "Kod 1:1",
+   "christ": "Diɲɛ dara “Kuma” barika la. Zan ka Kibaru diman b'a fɔ ko o Kuma ye Yezu yɛrɛ ye (Zan 1:1-3).",
+   "detail": "<p>Bibulu tɛ daminɛ ni hakililatigɛ kuma ye, nga ni fɔli ye: <b>“Ala y'a ka danni daminɛ tuma min na…”</b> Diɲɛ tɛ koo gwansan ye, nga Ala kɛrɛnkɛrɛnnin ka baara lo.</p><ul><li><b>Ala ja</b> · danfɛnw bɛɛ cɛ la, mɔgɔ dama lo dara Ala ja la — walisa k'a lɔn ani ka diɲɛ ladon.</li><li><b>Lafiɲɛ</b> · loon wolonwulanan lafiɲɛbɔn b'a yira ko koo bɛɛ dafalen ani hɛrɛ (shalom) la tun be: “a y'a ye ko a ka ɲi.”</li><li><b>Edɛn</b> · diɲɛ sani a ka tiɲɛ, Ala ni mɔgɔ be taama ɲɔgɔn fɛ yɔrɔ min na.</li></ul>",
+   "next": "Nga nin dafali nin bena tiɲɛ sɔɔni…"
+  },
+  {
+   "tag": "LAYIDU KƆRƆ · KOO DAMINƐ",
+   "title": "Binni",
+   "date": "Daminɛ na",
+   "one": "Hakɛ donna, jɛɲɔgɔnya min tun be mɔgɔ ni Ala cɛ, o tigɛra.",
+   "people": "Adama ni Awa; saa (Sutana)",
+   "events": "U ye jiri den balilen dumu, u gwɛnna ka bɔ Edɛn na, saya ni sɛgɛn donna",
+   "q": "Ne bena e ni muso kɛ ɲɔgɔn juguw ye… Muso ka deen bena i kungolo ɲɔɲɔ, i ben'a cin a seen na.",
+   "cite": "Kod 3:15",
+   "christ": "Kibaru diman ka layidu fɔlɔ, min dira binni kɔ teliya la: “muso ka deen” bena saa kungolo ɲɔɲɔ — ani o ye Yezu ye (Kod 3:15; Ɔrɔ 16:20; Gal 4:4).",
+   "detail": "<p>“Ka kɛ i n'a fɔ Ala” negeli sababu la, mɔgɔ ye sariyatiɲɛ kɛ, hakɛ donna diɲɛ na. A nɔɔ tɛ sariya kelen tiɲɛni dama ye, nga <b>jɛɲɔgɔnya tiɲɛni</b> lo.</p><ul><li><b>Jɛɲɔgɔnya tiɲɛnenw</b> · Ala fɛ (dogoli), ɲɔgɔn fɛ (jalaki da ɲɔgɔn kan), ani diɲɛ fɛ (ŋɔni ni sɛgɛn).</li><li><b>Saya</b> · “i bena sa yɛrɛ” lasiri nin kɛra tiɲɛ ye.</li><li><b>Kod 3:15</b> · nga kiti cɛmancɛ la, kisili layidu be na fɔlɔ. Kalanbagaw b'a wele ko <b>protoevangile (kibaru diman fɔlɔ)</b>.</li></ul>",
+   "next": "Sisan Ala be mɔgɔ kelen wele ka kisili daminɛ…"
+  },
+  {
+   "tag": "LAYIDU KƆRƆ · LAYIDU",
+   "title": "Bɛmaw",
+   "date": "I.ɲ. san 2000 ɲɔgɔn",
+   "one": "Ala be layidu ta Ibrayima ye: “I bena kɛ hɛrɛ sira ye.”",
+   "people": "Ibrayima · Izaka · Zakɔbu · Zozɛfu",
+   "events": "Ibrayima ka layidu, Izaka saraka, Zakɔbu deen tan ni fila, Zozɛfu kɛra Ezipiti kuntigi ye",
+   "q": "Ne bena i kɛ siya dɔ faa ye, min bena caya… dugukolo kan siyaw bɛɛ bena hɛrɛ sɔrɔ.",
+   "cite": "Kod 12:2-3",
+   "christ": "Layidu min ko “siyaw bɛɛ bena hɛrɛ sɔrɔ,” o dafara Yezu la, Ibrayima kɔmɔgɔ (Gal 3:16).",
+   "detail": "<p>Ala be mɔgɔ bɛɛ ka koo daminɛ ka ɲanabɔ ni mɔgɔ kelen weleli ye, <b>Ibrayima</b>. A jusukun ye <b>layidu kura (layidu)</b> ye — siya belebele, jamana, ani “hɛrɛ siyaw bɛɛ ye.”</p><ul><li><b>Lanaya</b> · Ibrayima lara layidu ɲaye-bali nin na, o jatira a ye tilenninya ye (Kod 15:6).</li><li><b>Izaka ni Zakɔbu</b> · layidu be tɛmɛ kɔmɔgɔ tɔ la; Zakɔbu (Isirayɛli) ye siya tan ni fila faa ye.</li><li><b>Zozɛfu</b> · a balimaw y'a feere nga a kɛra kuntigi ye — “Ala y'a ta k'a yɛlɛma k'a kɛ koɲuman ye” (Kod 50:20).</li></ul>",
+   "next": "Zozɛfu nɔɔ fɛ, denbaya jiginna Ezipiti — u kɛra jɔɔnw ye…"
+  },
+  {
+   "tag": "LAYIDU KƆRƆ · KISILI",
+   "title": "Ezipitibɔ ni kongokolon",
+   "date": "I.ɲ. san 1446 ɲɔgɔn",
+   "one": "Ala ye jɔn jama kisi ka u kɛ a yɛrɛ taw ye.",
+   "people": "Musa, Aarɔn, Farawɔn",
+   "events": "Bana tan, Tɛmɛnnaloon, Kɔgɔji Bilenman tigɛli, Sariya Tan Sinayi kan, batoso, san 40 kongokolon na",
+   "q": "Ne bena aw kɛ ne ka mɔgɔw ye, ne bena kɛ aw ka Ala ye.",
+   "cite": "Bɔk 6:7",
+   "christ": "Tɛmɛnnaloon — saraga joli ye saya gwɛn min na — o be Yezu yira, “an ka Tɛmɛnnaloon saraga,” min gengenna kuruwa kan an kosɔn (Kor fɔlɔ 5:7).",
+   "detail": "<p>Layidu Kɔrɔ ka kisili belebele. Isirayɛli minw tun ye jɔɔnw ye, olu hɔrɔnyara Ala ka sebagaya barika la ka kɛ a ka <b>mɔgɔw</b> ye.</p><ul><li><b>Tɛmɛnnaloon</b> · saraga joli min tun be daa la, o soo, saya tɛmɛna o kan — saraga tɔw bɛɛ taamasiɲɛ.</li><li><b>Kɔgɔji Bilenman</b> · kisili min kɛra sira banyɔrɔ la; “tigɛli ka taga fan dɔ fɛ” kɛra daminɛ kura taamasiɲɛ ye.</li><li><b>Sinayi layidu</b> · Sariya Tan barika la, u ye ɲɛnamaya cogo kalan i n'a fɔ Ala ka mɔgɔw.</li><li><b>Batoso</b> · sojan min be tɛmɛ, Ala be sigi a ka mɔgɔw cɛma yen — “Emanuwɛl” natɔ taamasiɲɛ.</li><li><b>San 40</b> · negeli y'a to bonya kelen ye yaalayaala kongokolon na, nga Ala tora u gɛrɛfɛ ni mana ni sankaba ni tasuma samasenba ye.</li></ul>",
+   "next": "U lɔlen jamana layidulen daa la, u be u labɛn ka don…"
+  },
+  {
+   "tag": "LAYIDU KƆRƆ · SIGILI",
+   "title": "Sɔrɔli ni cɛfariw",
+   "date": "I.ɲ. san 1400–1050 ɲɔgɔn",
+   "one": "U ye jamana sɔrɔ, nga masacɛ tun tɛ yen, mɔgɔ kelen kelen bɛɛ tun b'a sago kɛ.",
+   "people": "Zozuwe; cɛfariw i n'a fɔ Zedeyɔn ni Sansɔn; Uru",
+   "events": "Zeriko binni, Kanaan sigili, hakɛ–kiti–kisili kuruba banbali",
+   "q": "O waati la, masacɛ tun te Isirayɛlidenw fɛ. Mɔgɔ kelen kelen bɛɛ tun b'a yɛrɛ sago kɛ.",
+   "cite": "Cɛf 21:25",
+   "christ": "Uru kɔmɔgɔ la, Dawuda bɔra, ani Dawuda kɔmɔgɔ la, Yezu bɔra (Mat 1). Hali ɲagamini na, Masaya ka denbaya jiri be taama.",
+   "detail": "<p>Zozuwe kɔrɔ, u donna jamana layidulen na, nga u sigilen kɔ u ɲinanna Ala kɔ joona. Cɛfariw ye o cogo kelen banbali ye.</p><ul><li><b>Hakɛ kuruba</b> · hakɛ → tɔɔrɔ → kasi → cɛfari be kisi → hakɛ tugu. A be juguya ka taa ɲa.</li><li><b>Cɛfariw</b> · Zedeyɔn, Sansɔn, Debora — waati dɔɔni kisibagaw, cɛkɔrɔbaw nga jogo cɛnnenw caaman b'u la.</li><li><b>Uru</b> · kantigiya yeelen waati dibilen na; jamanawɛrɛ muso be don Dawuda (ani Yezu) ka denbaya jiri la.</li></ul>",
+   "next": "Jama be kasi ko: “Masacɛ di an ma fana!”…"
+  },
+  {
+   "tag": "LAYIDU KƆRƆ · WAATI ƝUMAN",
+   "title": "Masaya kelennin",
+   "date": "I.ɲ. san 1050–930 ɲɔgɔn",
+   "one": "Ala be layidu ta Dawuda ye: “I ka masasigilan bena to tuma bɛɛ.”",
+   "people": "Sayuli · Dawuda · Solomani",
+   "events": "Masacɛ fɔlɔ Sayuli, Dawuda ni Goliyati, Dawuda ka layidu, Solomani ye Batoso jɔ",
+   "q": "Kɔmɔgɔw bena sɔrɔ e fɛ tuma bɛɛ, ani masaya bena to e bolo, a bena sabati tuma bɛɛ.",
+   "cite": "Sam 2nan 7:16",
+   "christ": "“Masasigilan banbali” dafara Yezu la, Dawuda kɔmɔgɔ — o le y'a to a be wele ko “Dawuda Dencɛ” (Luka 1:32-33; Mat 1:1).",
+   "detail": "<p>Isirayɛli ka waati ɲuman, masacɛ saba kɔrɔ.</p><ul><li><b>Sayuli</b> · masacɛ fɔlɔ min jama ye min ɲini; daminɛ ɲuman, nga a banna negeli sababu la.</li><li><b>Dawuda</b> · “cɛ min bɛnnin be Ala dusukun ma.” A ye Goliyati gosi, a ye Zeruzalɛmu kɛ faaba ye. A ye hakɛ belebele kɛ (Batiseba), nga a nimisara ni a dusukun ye (Dal 51).</li><li><b>Dawuda ka layidu (Sam 2nan 7)</b> · Ala be layidu ta k'a ka masaya sabati tuma bɛɛ — Masaya jigi jusukun.</li><li><b>Solomani</b> · hakili ni nafolo sanfɛ a ye Zeruzalɛmu <b>Batoso</b> jɔ, nga a laban na a binna bolifɛnbato la.</li></ul>",
+   "next": "Solomani kɔ, masaya farala fila ye…"
+  },
+  {
+   "tag": "LAYIDU KƆRƆ · JIGINNI",
+   "title": "Masaya farannen",
+   "date": "I.ɲ. san 930–586",
+   "one": "A farala worodugu (Zuda) ni kɔgɔdugu (Isirayɛli) ye, ka tiɲɛ dɔɔni dɔɔni.",
+   "people": "Masaya fila masacɛw; kiraw i n'a fɔ Eli, Eza, Zeremi",
+   "events": "Masaya farali, bolifɛnbato jɛnsɛnni, kiraw ka lasɔmini",
+   "q": "A kɛra ten Isirayɛliden tɔw faranna ka bɔ Dawuda ka soo la fɔɔ ka na se bii ma.",
+   "cite": "Mas fɔlɔ 12:19",
+   "christ": "Nin waati la, kiraw be Masaya natɔ koo fɔ ka gwɛ ka taa a fɛ (Eza 9:5; Eza 53).",
+   "detail": "<p>Solomani dencɛ waati la, masaya farala: <b>kɔgɔdugu Isirayɛli masaya</b> (siya tan, faaba Samari) ani <b>worodugu Zuda masaya</b> (siya fila, faaba Zeruzalɛmu).</p><ul><li><b>Isirayɛli (kɔgɔdugu)</b> · a masacɛw bɛɛ be bolifɛnw bato; a binna Asiri bolo I.ɲ. 722.</li><li><b>Zuda (worodugu)</b> · Dawuda kɔmɔgɔ be taama, masacɛ ɲuman dɔɔni be yen i n'a fɔ Ezekiyasi ni Zoziyasi, nga a bɛɛ lajɛlen, a jiginna.</li><li><b>Kiraw</b> · Eli, Amɔ, Eza, Zeremi be kule ko “aw ye segi!” Masaya koo fɔli be a daan ma nin yɔrɔ la (Eza 53 “tɔɔrɔ baganci”).</li></ul>",
+   "next": "A laban na, kiti lasɔminnen be na — u be ta ka taga jɔnya la…"
+  },
+  {
+   "tag": "LAYIDU KƆRƆ · KITI",
+   "title": "Jɔnya",
+   "date": "I.ɲ. 722 / 586",
+   "one": "Masaya binna, mɔgɔw tara ka taga jamana wɛrɛ la.",
+   "people": "Daniyɛli, Ezekiyɛli, Nabukodonozɔri",
+   "events": "Isirayɛli binna Asiri bolo (722); Zuda binna Babilɔni bolo, Batoso tiɲɛna (586)",
+   "q": "K'an to Babilɔni baaw daa la, an tun siginin be o yɔrɔ la n'an be kasira, an tun be miiri Siyɔn la.",
+   "cite": "Dal 137:1",
+   "christ": "Jigitigɛ jukɔrɔ la, Zeremi be layidu ta “layidu kura” la (Zer 31:31) — o layidu yɛrɛ Yezu y'a sigi a ka surɔfana laban na.",
+   "detail": "<p>Lasɔminiw kɛra tiɲɛ ye. Batoso jenina, mɔgɔw tara Babilɔni la — u ye jamana, masacɛ ani Batoso tunun: koo juguba.</p><ul><li><b>Binni fila</b> · Isirayɛli (Asiri, I.ɲ. 722) ani Zuda (Babilɔni, I.ɲ. 586).</li><li><b>Daniyɛli</b> · lanaya taamasiɲɛ hali Ala-bali ka masaso la (jaraw dingɛ la); a be “masaya banbali” natɔ yeli ye.</li><li><b>Jigi yeelen dɔɔni</b> · kolo jalenw kununni yeli (Eze 37) ani Zeremi ka “layidu kura” be ɲa lakili dibi la.</li></ul>",
+   "next": "San bisaba kɔ, Ala be sira da wɔyɔ — u be segi soo…"
+  },
+  {
+   "tag": "LAYIDU KƆRƆ · KƆSEGINI",
+   "title": "Jɔnyabɔ kɔsegi",
+   "date": "I.ɲ. 538–430",
+   "one": "U seginna ka Batoso ni kogow jɔkura.",
+   "people": "Ɛsidirasi, Neyemi, Ɛstɛri, Zorobabɛli",
+   "events": "Sirisi ka cidaa fɛ kɔsegi, Batoso jɔkura, Zeruzalɛmu kogow dilankura, Kuma laɲanani",
+   "q": "Nisɔndiya min be bɔ Masaba fɛ, o le bena kɛ aw ka barika sɔrɔyɔrɔ ye.",
+   "cite": "Nee 8:10",
+   "christ": "Mal, Layidu Kɔrɔ gafe laban, be ban ni Masaya sira labɛnbaga ciden koo fɔli ye: “N bena n ka ciden ci” (Mal 3:1).",
+   "detail": "<p>Kɔsegi daminɛna Pɛrɛsi masacɛ Sirisi ka cidaa fɛ (I.ɲ. 538). Siɲɛ saba u seginna ka koo tiɲɛnenw jɔkura.</p><ul><li><b>Zorobabɛli</b> · ye Batoso jɔkura (a banna I.ɲ. 516).</li><li><b>Ɛsidirasi</b> · ye Kuma kalan kura, ka lanaya laɲana.</li><li><b>Neyemi</b> · ye Zeruzalɛmu kogow jɔkura tile 52 kɔnɔ.</li><li><b>Ɛstɛri</b> · ye Zuwifuw kisi halakili ma Pɛrɛsi jamana na — “waati nin sugu kama.”</li><li><b>Mago be yen halibi</b> · Batoso lɔlen be, nga masacɛ tɛ yen i n'a fɔ Dawuda. Jama be Masaya makɔnɔ.</li></ul>",
+   "next": "Ani sisan… i n'a fɔ sankolo dadennen, san 400 makun be na."
+  },
+  {
+   "tag": "LAYIDUW CƐ · YƆRƆ LABƐNNI",
+   "title": "Makun sanw",
+   "date": "I.ɲ. san 430–4 ɲɔgɔn",
+   "one": "San 400 ni kira kan tɛ; nga yɔrɔ labɛnna makun na.",
+   "people": "Alɛkizandiri Belebele, Makabe mɔgɔw, Ɔrɔmu",
+   "events": "Pɛrɛsi → Gɛrɛsi → Makabe hɔrɔnya → Ɔrɔmu ka mara",
+   "q": "Ala ka waati latigɛnin dafara tuma min na, a y'a Dencɛ ci, muso y'a wolo sariya kɔrɔ.",
+   "cite": "Gal 4:4",
+   "christ": "Nin “yɔrɔ labɛnni” bɛɛ ye Ala ka baara ye walisa Yezu ka na “waati latigɛnin” yɛrɛyɛrɛ la.",
+   "detail": "<p>Ka bɔ Mal na ka se Layidu Kura ma, san 400 ɲɔgɔn tɛmɛna ni Bibulu kuma kura (kira) tɛ. Nga tariku kɔfɛ Ala tun be sira labɛn Kibaru diman jɛnsɛnni kama.</p><ul><li><b>Masayaw be falen ɲɔgɔn na</b> · Pɛrɛsi → Gɛrɛsi (Alɛkizandiri, I.ɲ. 333) → Tolome ni Selesidi → Makabe murutili (I.ɲ. 167) → Ɔrɔmu (I.ɲ. 63).</li><li><b>Gɛrɛsikan</b> · Alɛkizandiri ka sɔrɔliw y'a to Gɛrɛsikan kɛra kan jɛlen ye; Layidu Kɔrɔ baara Gɛrɛsikan na (Sɛtanti), o ye sira da wɔyɔ Kibaru diman ka jɛnsɛn teliya la.</li><li><b>Ɔrɔmu siraw ni hɛrɛ</b> · sira jɔnenw ni “Pax Romana” kɛra kibaru lasiraw ye.</li><li><b>Sinagɔgi ni jɛkuluw</b> · sinagɔgi kalan be sabati; Farizɛnw ni Sadukenw be bɔ; ani <b>Masaya makɔnɔni</b> be mɔ.</li></ul>",
+   "next": "Ani, makun tigɛlen, a laban na a be na."
+  },
+  {
+   "tag": "LAYIDU KURA · DAFALI",
+   "title": "Yezu be na",
+   "date": "I.ɲ. 4–N.ɲ. 30 ɲɔgɔn",
+   "one": "Masaya layidulen nana, a sara, a kununna.",
+   "people": "Yezu, kalanden tan ni fila, Zan Batisubaga",
+   "events": "Mɔgɔyali (Noɛli), a ka kalan ni kabakow kɛli, saya kuruwa kan, kununni tile sabanan loon",
+   "q": "O kuma nin kɛra mɔgɔ ye, ka na sigi n'an ye… Ale lo ye tiɲɛtigi ni nɛɛmatigi ye.",
+   "cite": "Zan 1:14",
+   "christ": "Muso ka deen (yɔrɔ 2), Ibrayima ka hɛrɛ (3), Tɛmɛnnaloon saraga (4), Dawuda masacɛ banbali (6), layidu kura (8) — bɛɛ dafara mɔgɔ kelen, Yezu la: an ka kira yɛrɛyɛrɛ, sarakalasebaga yɛrɛyɛrɛ, ani masacɛ yɛrɛyɛrɛ.",
+   "detail": "<p>Makun tigɛna; Layidulen be na. Kibaru diman naani be Yezu ka ɲɛnamaya, saya ani kununni koo fɔ ka bɔ fan naani fɛ.</p><ul><li><b>Mɔgɔyali</b> · Ala kɛra mɔgɔ ye (Emanuwɛl, “Ala be an fɛ”), Bɛtileyɛmu dɔgɔyayɔrɔ la.</li><li><b>Baara</b> · a be Ala ka masaya kalan, a be banabagatɔw kɛnɛya, a be hakɛkɛlaw wele. “Mɔgɔ min ye ne ye, o ye Faa ye.”</li><li><b>Kuruwa</b> · binni (yɔrɔ 2) ye hakɛ ni saya min lase, a be o juru sara an nɔɔ na. Tɛmɛnnaloon saraga yɛrɛyɛrɛ.</li><li><b>Kununni</b> · tile sabanan loon a kununna, a ye hakɛ, saya ani Sutana ka fanga tiɲɛ — hali kuruwa kan a ye “fangatigiw ni setigi yebaliw ka sebagaya cɛn… a ye see sɔrɔ u kan” (Kɔl 2:15).</li></ul><p>O la, Yezu ye an ka <b>kira yɛrɛyɛrɛ</b> (a be Ala sira yira an na), an ka <b>sarakalasebaga yɛrɛyɛrɛ</b> (a yɛrɛ farikolo la a be hakɛ saraka), ani an ka <b>masacɛ yɛrɛyɛrɛ</b> (a be see sɔrɔ hakɛ, saya ani Sutana kan, ka masaya kɛ tuma bɛɛ).</p>",
+   "next": "Yezu kununnen be a ka kalandenw ci diɲɛ na…"
+  },
+  {
+   "tag": "LAYIDU KURA · JƐNSƐNNI",
+   "title": "Eglisi daminɛ",
+   "date": "N.ɲ. 30 ka bɔ",
+   "one": "Nii be na, Kibaru diman be jɛnsɛn ka taga diɲɛ daan bɛɛ la.",
+   "people": "Piyɛri, Pɔli, eglisi fɔlɔ",
+   "events": "Nii bɔra Pantekɔti loon, eglisi wolola, Kibaru diman jɛnsɛnna ka bɔ Zeruzalɛmu ka taga Ɔrɔmu nimatɔɔrɔ cɛma",
+   "q": "Ni Nii Senuman jigira aw kan tuma min na, aw bena fanga sɔrɔ… fɔɔ ka taga se diɲɛ faan bɛɛ la.",
+   "cite": "Kɛw 1:8",
+   "christ": "Nin maana be taama halibi. Bibulu be ban ni layidu ye ko Yezu bena segi ka na ani a bena koo bɛɛ kɛ kura ye (Yir 21).",
+   "detail": "<p>Yezu yɛlɛnnen kɔ, Nii layidulen nana Pantekɔti loon ani eglisi wolola. Kibaru diman jɛnsɛnna ni fanga ye.</p><ul><li><b>Pantekɔti</b> · Nii barika la, kalanden siranbagatɔw kɛra seerew jagɛlɛnw ye.</li><li><b>Piyɛri</b> · be Kibaru diman fɔ Zuwifuw ye Zeruzalɛmu.</li><li><b>Pɔli</b> · ka bɔ nimatɔɔrɔlaga ye ka kɛ ciden ye; a ye eglisiw jɔ siyaw ka diɲɛ kɔnɔ, a ye bataakiw sɛbɛn.</li><li><b>Ka se diɲɛ daan bɛɛ la</b> · Zeruzalɛmu → Zude → Samari → Ɔrɔmu. Layidu min dira Ibrayima ma “siyaw bɛɛ” koo la, o be kɛ tiɲɛ ye.</li><li><b>Ani an</b> · maana tɛ ban; a be taama ka taa Yezu ka seginni ni sankolokura ni dugukolokura fan fɛ.</li></ul>",
+   "next": "Nga maana tɛ ban yan…"
+  },
+  {
+   "tag": "LAYIDU KURA · DAFALI YƐRƐYƐRƐ",
+   "title": "Kɔseginni (koo bɛɛ kura)",
+   "date": "Natɔ",
+   "one": "Yezu be segi ka na, a be koo bɛɛ kɛ kura ye.",
+   "people": "Yezu natɔ; siyaw bɛɛ",
+   "events": "Seginni, kiti laban, hakɛ·saya·ɲaji ban, sankolokura ni dugukolokura",
+   "q": "A bena u ɲaji bɛɛ cɛ… Mɔgɔ tena sa, mɔgɔ tena kasi, mɔgɔ tena tɔɔrɔ tugu.",
+   "cite": "Yir 21:4",
+   "christ": "Danni fɔlɔ ka Edɛn be jɔkura a laban na i n'a fɔ “Zeruzalɛmu Kura.” Ala be sigi a ka mɔgɔw fɛ tuma bɛɛ — Emanuwɛl dafali (Yir 21:3; Mat 1:23).",
+   "detail": "<p>Bibulu tɛ ban eglisi waati la. A gafe laban, Yir, b'a yira ko Yezu be <b>segi ka na</b> ka koo bɛɛ dafa.</p><ul><li><b>Seginni</b> · masacɛ layidulen be segi ka na ni nɔɔrɔ ye.</li><li><b>See laban</b> · Sutana ni saya tiɲɛna tuma bɛɛ, Krista be masaya kɛ i n'a fɔ Masacɛw ka Masacɛ (Kor fɔlɔ 15:25-26; Yir 20:10).</li><li><b>Kiti ni kununni</b> · tilenninbaliya bɛɛ be tilen, suw be kununna.</li><li><b>Sankolokura ni dugukolokura</b> · hakɛ, saya, ɲaji ani tɔɔrɔ be ban tuma bɛɛ (Yir 21:4).</li><li><b>Edɛn jɔkura</b> · “Zeruzalɛmu Kura” min ka fisa daminɛ ye, Ala be sigi a ka mɔgɔw fɛ tuma bɛɛ — yɔrɔ min Bibulu bɛɛ be taama ka taa o fan fɛ.</li></ul><p>O la, sisan ye <b>“a kɛra ka ban, nga a ma dafa fɔlɔ”</b> waati ye: Yezu la, kisili <b>kɛra ka ban</b>, nga a dafali <b>be makɔnɔ</b> halibi.</p>",
+   "next": "Ayiwa, nin maana bɛɛ kɔrɔ ye mun ye “ne” ye?"
+  }
+ ],
+ "love": [
+  "Maana tɛ daminɛ ni kiti ye, nga diɲɛ min dara kanuya falen barika la.",
+  "Mɔgɔ ye hakɛ kɛ waati min na, Ala ye kisili layidu ta o yɔrɔ yɛrɛ la.",
+  "Ala ye mɔgɔ min tun man kan na ɲini fɔlɔ, k'a wele a tɔgɔ la, k'a kɛ hɛrɛ sira ye.",
+  "A ye jɔn jama ka ŋunan mɛn, a yɛrɛ jiginna ka u kisi.",
+  "U y'a janfa siɲɛ caaman, nga u mana kasi tuma o tuma, a be kisibaga ci ka u lawuli kura.",
+  "Hali Dawuda binnen, a m'a fili; a barika la a ye masacɛ banbali layidu ta.",
+  "A ye kiraw ci mɔgɔ minw y'u kɔ don a la, ka deli u fɛ ko: “Aw ye segi soo.”",
+  "Hali jɔnya jamana dibinin na a jiginna u fɛ, a ye jɔkura layidu ta.",
+  "Hali mɔgɔ minw tun be dɛsɛ siɲɛ caaman, a m'a ka layidu bɔsi u la, nga a y'u lawuli kura.",
+  "Hali san 400 makun kɔnɔ, dogo la, a tun be kisili sira labɛn.",
+  "K'an to an ka hakɛ la halibi, a y'a Dencɛ ci ka a yɛrɛ nii di.",
+  "Kanuya min an y'a sɔrɔ, sisan a b'o ci ka woyo diɲɛ bɛɛ la.",
+  "A laban na a bena ɲaji bɛɛ cɛ ani a bena koo bɛɛ kɛ kura ye kanuya la."
+ ],
+ "mis": [
+  {
+   "w": "“Mun na Ala ye mɔgɔ dan min be se ka hakɛ kɛ? A tun tena fisa n'a ma an dan abada?”",
+   "t": "Ala ma diɲɛ ni mɔgɔ dan dɛsɛ dɔ kosɔn, nga kanuya falen kosɔn. Ka mɔgɔ kɛ <b>mɔgɔ ye min be se ka jɛɲɔgɔnya kɛ ni Ala ye</b>, o yɛrɛ ye kanuya ye. Ani hali hakɛ donni tun tɛ Ala ka kisili labɛn kɔfɛ (Efɛ 1:4-5). Bibulu yɔrɔ fɔlɔ tɛ kiti ye, nga kanuya."
+  },
+  {
+   "w": "“Ka mɔgɔ gwɛn ka saya yɛrɛ di a ma jiri den kelen dumuni dama kosɔn — Ala ma gwɛlɛya kojugu wa?”",
+   "t": "Ka mɔgɔ gwɛn ka bɔ Edɛn na, o tun ye kiti ni hinɛ ye fila bɛɛ. N'a tun ye ɲɛnamaya jiri den dumu ka to nii la kudayi o cogo cɛnnen, Ala-bɔlen na, a tun bena to tɔɔrɔ la kudayi (Kod 3:22). Ka saya to a ka kɛ, o ye seginni sira da wɔyɔ; ani o yɔrɔ yɛrɛ la Ala ye Kisibaga layidu ta (Kod 3:15). Kiti kɔnɔ kanuya tun be yen ka ban."
+  },
+  {
+   "w": "“Ibrayima sugandira a ka lanaya belebele kosɔn — Bibulu mɔgɔw bɛɛ tɛ jogoɲuman cɛfariw ye wa?”",
+   "t": "Ibrayima fana ye nkalon tigɛ ani a ye sika kɛ, ani Zakɔbu tun ye namaratɔ ye. Ala ma “mɔgɔ bɛnnenw” wele, nga a ye jogo cɛnnen tigiw wele nɛɛma barika la. Sugandili kun tɛ u ka ɲumanya ye, nga Ala ka kanuya tilennen (Sad 7:7-8)."
+  },
+  {
+   "w": "“Sariya (Sariya Tan) tɛ kɔrɔbɔli walima sariya ye min ka kan ka tɛmɛ walisa ka kisi wa?”",
+   "t": "Ala ye u kisi <b>sani</b> a ka Sariya di u ma. Hali Sariya Tan be daminɛ ni kisili fɔli ye: “Ne ye Masaba ye, aw ka Ala, min y'aw bɔ Ezipiti jamana na, k'aw bɔ jɔnya la” (Bɔk 20:2). Sariya tɛ “a bato walisa ka kisi,” nga kanuya kɛrɛ ye mɔgɔ kisinenw ka ɲɛnamaya cogo la (Sad 7:7-9). Nɛɛma be na fɔlɔ tuma bɛɛ; bato ye jaabi ye."
+  },
+  {
+   "w": "“Kanaan sɔrɔli tun ye faga hinɛntan ye — Layidu Kɔrɔ ka Ala ye nimatɔɔrɔla yɛrɛyɛrɛ ye.”",
+   "t": "Nin ye koo gwɛlɛn ye min tɛ se ka ban kuma kelen na, min be janto. Nga Bibulu t'a yira i n'a fɔ fariya gwansan, nga kiti ye juguya juguba (i n'a fɔ deenw saraka) kɔ, muɲuli jan kɔ (Kod 15:16; Sad 9:4-5; Sar 18:24-25). Ala tɛ kɔrɔtɔ hali kiti la, ani mɔgɔ min y'a kɔ don a la, a b'a minɛ ni nisɔndiya ye, hali jamanawɛrɛkaw i n'a fɔ Raabu ni Uru (Zoz 6:25; Uru 4:13-17)."
+  },
+  {
+   "w": "“Dawuda tun ye cɛkɔrɔba jogo-cɛnbali ye — o le y'a to a welela ‘cɛ min bɛnnin be Ala dusukun ma.’”",
+   "t": "Dawuda ye jɛnɛya kɛ ani hali mɔgɔfagali. “Cɛ min bɛnnin be Ala dusukun ma,” o kɔrɔ tɛ ko a tilennen tun lo, nga a m'a ka hakɛ dogo — a nimisara kosɔbɛ ani a tun be segi Ala fɛ tuma bɛɛ (Dal 51). Ala ka kanuya tɛ mɔgɔ binnen yɛrɛ fili."
+  },
+  {
+   "w": "“Kira ye filɛlikɛla ye min be koo natɔ fɔ — Layidu Kɔrɔ ka Ala be dimi dama de.”",
+   "t": "Kira jusukun tɛ “koo natɔ fɔ,” nga Ala dusukun ka deli: “aw ye segi.” Hali kiti lasɔmini, a kun tɛ ka tiɲɛ, nga ka mɔgɔ lawuli ka nii di: “Mɔgɔjugu sayako man di ne ye fewu, ne b'a fɛ a k'a ka sirajugu bila ka kisi le” (Eze 33:11)."
+  },
+  {
+   "w": "“Jɔnya b'a yira ko Ala ye a ka Isirayɛli fili pewu.”",
+   "t": "Jɔnya tun tɛ fili ye, nga Faa ka kolo ni saniyali ye deen kanulen kama (Ebu 12:6). Ala ma taa; a tun be Daniyɛli fɛ jɔnya cɛmancɛ la ani a ye layidu ta: “Ne ye min ŋaniya ta aw kosɔn, ne b'o lɔn… Aw ka hɛrɛko lo, aw ka bɔnɛko tɛ, janko ka labankoɲuman d'aw ma” (Zer 29:11)."
+  },
+  null,
+  {
+   "w": "“Ni kuma tun tɛ yen san 400 kɔnɔ, Ala tun taara walima a tun be lafiɲɛ na.”",
+   "t": "Makun tɛ yɔrɔ-lankolon ye. A tun tɛ kuma dama; o waati bɛɛ kɔnɔ a tun be masayaw, kanw ani siraw lamaga walisa ka kisili yɔrɔ labɛn. Waati makunnen na yɛrɛ, Ala tun be baara kɛ ni kanuya ye ka tɛmɛ tuma bɛɛ kan (Gal 4:4)."
+  },
+  {
+   "w": "“Yezu ye jogoɲuman karamɔgɔ ɲuman dama ye — kuruwa tun ye see-banbali ɲɛnasisi ye.”",
+   "t": "Yezu y'a yɛrɛ jati Ala ye (Zan 8:58), ani kuruwa tun tɛ koo gwansan walima see-banbali ye, nga kanuya labɛnnen lo. A ma sama yen ni fanga ye, nga a yɛrɛ sago la a y'a nii di: “K'i yɛrɛ nii di i teriw kosɔn, kanuya wɛrɛ te yen min ka fisa n'o ye” (Zan 15:13)."
+  },
+  {
+   "w": "“Eglisi ye mɔgɔ dafanenw ka jɛkulu walima soo dama ye.”",
+   "t": "Eglisi tɛ “mɔgɔ senumaw dafanenw” ka jɛkulu ye, nga <b>hakɛkɛla yafalenw</b> ta lo. Hali ciden Pɔli y'a yɛrɛ wele ko “hakɛkɛlaw cɛma fɔlɔ” (Tim fɔlɔ 1:15). Eglisi fɔlɔ fana tun be sɔsɔli kɛ ani u tun be bin (Kɛw 6:1; Kor fɔlɔ 1:11). Eglisi tɛ yɔrɔ ye ka i yɛrɛ boɲa, nga mɔgɔw lo minw be kanuya min u y'a sɔrɔ, o lase tɔw ma (Zan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Hakɛ tariku — mɔgɔtilennin si tɛ yen",
+   "body": "Koo tɛ “kɛjugu dama” ye, nga dusukun lasun lo. Kabini Adama, mɔgɔ bɛɛ wolola hakɛ jukɔrɔ ani u tɛ se ka se Ala ma u yɛrɛ barika la.",
+   "vref": "Ɔrɔ 3:10-12, 23",
+   "vtext": "Mɔgɔtilennin si te yen, hali mɔgɔ kelen… mɔgɔ bɛɛ ye hakɛ kɛ, u yɔrɔ jaɲana Ala ka nɔɔrɔ la."
+  },
+  {
+   "title": "Sariya tɛ se ka ne kisi",
+   "body": "Sariya tɛ yɛlɛnsira ye, nga dubalan lo. I mana i jija ka caya, a b'a yira ka caya ko i bɔnɛna cogo min na. A kun ye ka an lase Krista ma.",
+   "vref": "Ɔrɔ 3:20 · Gal 3:24",
+   "vtext": "An be hakɛ lɔn sariya le barika la… sariya tun kɛra an kɔlɔsibaga ye, ka Yezu Krista makɔnɔ."
+  },
+  {
+   "title": "Nɛɛma barika la — nili, baara tɛ",
+   "body": "Kisili tɛ baara min kɛra o sara ye, nga Ala ka nili ye mɔgɔ minw man kan na. O la, mɔgɔ si tɛ se k'a yɛrɛ boɲa.",
+   "vref": "Efɛ 2:8-9",
+   "vtext": "Aw kisira nɛɛma barika la… O ma kɛ aw ka kɛwali sababu la, janko mɔgɔ si kana se k'a yɛrɛ boɲa."
+  },
+  {
+   "title": "Jati mɔgɔtilennin ye lanaya barika la",
+   "body": "Sariya bato kosɔn tɛ, nga Yezu Krista la lanaya kosɔn an jatira mɔgɔtilenninw ye — an yɛrɛ ka tilenninya tɛ an feeren, nga ale ta lo.",
+   "vref": "Ɔrɔ 5:1 · Gal 2:16",
+   "vtext": "An jatira mɔgɔtilenninw ye jigi barika la… mɔgɔ si te se ka jati mɔgɔtilennin ye sariya batoli fɛ, nga fɔɔ ni min lara Yezu Krista la."
+  },
+  {
+   "title": "Bibulu be Yezu yira",
+   "body": "Bibulu tɛ mɔgɔbaw ka tariku walima yɛrɛdɛmɛ gafe ye. Ka bɔ Kod na ka se Yir ma, ɲa kelen kelen bɛɛ be mɔgɔ kelen koo fɔ — Yezu Krista.",
+   "vref": "Zan 5:39 · Luka 24:27",
+   "vtext": "O kuma nunu be ne le koo fɔ… a ye olu bɛɛ fɔ k'a gwɛya u ye, k'a ta Musa ye kuma min sɛbɛn fɔɔ ka n'a bila kiraw bɛɛ ka sɛbɛnninw ma."
+  },
+  {
+   "title": "Ala ka masaya — Yezu ka kibaru jusukun",
+   "body": "Koo min Yezu y'a kalan ka caya. Masaya min na Ala be masaya kɛ i n'a fɔ masacɛ, o donna nin diɲɛ na ni Yezu ye, a bena dafa a ka seginni na. A ka kuruwa ni kununni barika la, Yezu ye masacɛ yɛrɛyɛrɛ ye min ye see sɔrɔ hakɛ, saya ani Sutana kan.",
+   "vref": "Mar 1:15",
+   "vtext": "Ala ka masaya waati surunyana. Aw ye nimisa ka faran aw ka kojuguw la ka la kibaru diman na."
+  },
+  {
+   "title": "Kibaru diman — a ye koo bɛɛ dafa",
+   "body": "Hakɛ juru min ne tun tɛ se ka sara, Yezu y'a sara ne nɔɔ na kuruwa kan, ani kununni barika la a ye see sɔrɔ saya kan. Ne tɛ jɔ “kɛ nin” kan, nga “a dafara” kan.",
+   "vref": "Zan 19:30 · Ɔrɔ 5:8",
+   "vtext": "Koo bɛɛ dafara… K'an to an ka hakɛ la, Krista sara an kosɔn."
+  }
+ ],
+ "books": {
+  "Kod": "GEN",
+  "Bɔk": "EXO",
+  "Sar": "LEV",
+  "Kok": "NUM",
+  "Sad": "DEU",
+  "Zoz": "JOS",
+  "Cɛf": "JDG",
+  "Uru": "RUT",
+  "Sam fɔlɔ": "1SA",
+  "Sam 2nan": "2SA",
+  "Mas fɔlɔ": "1KI",
+  "Mas 2nan": "2KI",
+  "Nee": "NEH",
+  "Dal": "PSA",
+  "Eza": "ISA",
+  "Zer": "JER",
+  "Eze": "EZK",
+  "Mal": "MAL",
+  "Mat": "MAT",
+  "Mar": "MRK",
+  "Luka": "LUK",
+  "Zan": "JHN",
+  "Kɛw": "ACT",
+  "Ɔrɔ": "ROM",
+  "Kor fɔlɔ": "1CO",
+  "Gal": "GAL",
+  "Efɛ": "EPH",
+  "Kɔl": "COL",
+  "Tim fɔlɔ": "1TI",
+  "Ebu": "HEB",
+  "Yir": "REV"
+ },
+ "yv": 1754,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

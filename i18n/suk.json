@@ -1,0 +1,383 @@
+{
+ "menuName": "Kɪsukuma",
+ "htmlLang": "suk",
+ "dir": "ltr",
+ "brand": "Bibilia mu Kuzunguja Kumo",
+ "docTitle": "Bibilia mu Kuzunguja Kumo · Kufuma kuseema kushisha kanisa",
+ "share": {
+  "title": "Bibilia mu Kuzunguja Kumo",
+  "text": "Mu kuzunguja kumo, managa ng'hulu ntaale ya Bibilia — na nguno ki Yesu akiza."
+ },
+ "ui": {
+  "people": "Banhu",
+  "events": "Mihayo mitaale",
+  "christLabel": "Gikolaaga Yesu",
+  "loveLabel": "Butogwa butadūmile",
+  "mythWrong": "Buhabi bo bingi",
+  "mythRight": "Ng'hana yene",
+  "more": "Soma hangi",
+  "version": "(SUKBI15)"
+ },
+ "labels": {
+  "start": "Wandijo",
+  "thread": "Ng'hulu",
+  "gospel": "Ng'hulu Jawiza",
+  "about": "Mihayo ya"
+ },
+ "s": {
+  "ui.share": "↗ Gabana",
+  "ui.toast": "Kiungo kikopiwa 📋",
+  "ui.footer": "Bibilia mu Kuzunguja Kumo · Mihayo ya Bibilia kufuma SUKBI15",
+  "hero.kicker": "KUFUMA KUSEEMA KUSHISHA KANISA",
+  "hero.title": "Bibilia,<br><span class='em'>mu kuzunguja kumo</span>",
+  "hero.sub": "Mu kuzunguja kumo, managa ng'hulu ntaale ya Bibilia — na nguno ki Yesu akiza.",
+  "hero.cue": "Zungujaga hasi<span>↓</span>",
+  "thread.eyebrow": "MHAYO GUMO GUKADULANYA BIBILIA YOSE",
+  "thread.h2": "Ku bukalikijo, Bibilia ili ng'hulu yimo dūhū",
+  "thread.flow": "<b>Ilagane</b><span class='arw'>→</span><b>Kulindila</b><span class='arw'>→</span><b>Kushikiliija</b>",
+  "thread.note": "U Mulungu <b>akulagana</b> (ilagane), a banhu <b>bakulindila</b> ikanza itaale, na ku bukalikijo pyi yose <b>yikushikiliija</b> na kumala muli Yesu. Tongelaga a mihayo 13 a hasi ku nzila yeniyo — dindaga <b>“Soma hangi”</b> ku buli kadi kulwa ng'hulu ntaale.",
+  "gospel.eyebrow": "ICHI NG'HULU YENIYI ILI NA MHAYO KI KULI “NENE”",
+  "gospel.h2": "U moyo gwa ng'hana gwa Bibilia",
+  "gospel.lead": "Bibilia <b>iti shitabo sha kutulanga “ubize munhu nzogu.”</b>",
+  "gospel.sublead": "Ili ng'hulu ya nzila iyo u Mulungu, <b>ku shigongo dūhū</b>, akabapija ba shibi abo batadūgije kwipija bichene. Ha gati yakwe wimiile Yesu Kilisito.",
+  "gospel.mirror": "<h3>U muzunguko gutamala gwa Isilaeli ku ng'hana guli shikolelo sha “nene”</h3><div class='cycle'><b>Kukumilija shihango</b><span class='a'>→</span><b>Makoye</b><span class='a'>→</span><b>Kulila</b><span class='a'>→</span><b>Mulungu akupija</b><span class='a'>→</span><b>Kukumilija shihango hangi…</b></div><p>Kufuma kuli Balamuji kushisha buchaaji, a Baisilaeli bagayuza u muzunguko gwenuyu gutamala. Bibilia itagwandika kulwa giki tubabeule, “Aba bali bakubahabija.”</p><p>Guli <b>shilolelo</b>. U mhayo guti “Aba bagiitaga gwenuko” aliyo <b>“nene nagiitaga giki gigi”</b> (1 Bakolinto 10:11).</p><p><b>Shihango</b> iti shikolelo sha mti dūhū. Guli <b>buli kintu icho tukutogwa au tukukimila kutinda Mulungu</b> — mhya, kushikiliija, kuzunilijiwa, banhu, nūūlū nene neneki. Hama, kuntumamila u Mulungu giti <b>nzila ya kupandika ichi nene nakutogwa</b> nagwo guli kukumilija shihango.</p><p class='punch'>Ku bukalikijo, u shihango shitaale ni shenishi: “nene neneki, nigashije ha shitumbi sha ng'wa Mulungu.”</p>",
+  "gospel.coreIntro": "Lulu, u Mulungu akumpija ginehe u munhu wa shibi giti uyo? Henaha hu moyo gwa Ng'hulu Jawiza ijo Bibilia ikulomeela.",
+  "gospel.crux": "<p class='crux-lead'>Bibilia yose yigikolaaga hamo hamo.</p><p>A banhu batadūgije kudumula u muzunguko gwa shibi bichene, na atiho nūūlū ntūngīlīja ūmò. Hu nguno yene munhu mungi <b>ize wanukule u nsango ku nyali yabo</b>.</p><p>U Yesu atiza dūhū kulwa kutulanga yawiza. Iki itiho nzila ingi ya kunipija, <b>akiza nguno yatamile.</b></p><p class='crux-punch'>Uyo wigeleelilwe kubambwa ha nsalaba gwenuyo ali <b>nene</b>.<br>U Yesu wabutwiika u <b>shibi shane</b>, ubambwa henaho ku nyali yane.</p><div class='crux-verse'>“Ūgulajiwa kulwa būhūbi wise; ū nsango ūyo gūkatwenhela mhola a bise gūkang'wikalīla wei. Tūkūpījiagwa mu nzīla ya magulagīje gakwe.” — Isaya 53:5</div>",
+  "faq.h": "Ulina mhayo gukukushilija nahale?",
+  "faq.q1": "<span class='arr'>▸</span> Lulu, u nsango ūyo wabulaga akazunya dūhū hama akuja kwigulu, hama uyo wikalile bukalu aliyo atazunije akuja ku moto?",
+  "faq.a1": "<p>Wiwi guli wuzunilijiwe. Aliyo guli na buhabi bubili buhisilwe mo.</p><p><b>① Bibilia itakwabanya banhu mu “bawiza na babi.”</b> U mpimo guti “mwiza kutinda uyo ali habipi yako” aliyo “bwela bo ng'wa Mulungu uyo butakomeele.” Ha butongi bokwe, atiho munhu uyo ali “nzogu kushiliija” (Balumi 3:23). Hu nguno yeniyo wiwi guti “munhu nzogu na nsango,” aliyo giti banhu babili bali na buluuju bumo bo kucha — ūmò akupokela ndagu, ungi akwilema, alihaya, “Nene nali na buzima kutinda uyo munhu.”</p><p><b>② Kintu kimo dūhū kikwabanya wigulu na moto.</b> Iti mpimo gwa shitwa, aliyo <b>ulu wamala kunanukula Yesu Kilisito ubize Seeba na u nsango gwa shibi shako gwamala kumala.</b> Uyo u shibi shakwe shamala kumala ku sakami ya ng'wa Kilisito akuja kwigulu; uyo atanukula nūūlū limo, u shibi shakwe shichalaaga, akuja ho hangi. Atiho butumami bo bwiza nūūlū bingahe bukadula kumala u nsango gwa shibi gwenuyo.</p><p>Hu nguno yeniyo u wigulu na moto guti “buchunu bo butumami bo bwiza,” aliyo guli mhayo gwa <b>buliyani na Kilisito</b>. Hama, “kuzunya” guti kuzunilija dūhū ku masala, aliyo guli kugaluka kwa uyo akutongela u bupanga bwako — buli ng'wene uyo akunanukula ku ng'hana atakwiponejaga, aliyo akugaluka kushiisha. Ku ng'hana, u kwitūngīlīja bunekili (“nene nali munhu nzogu”) hu shihango shitaale kushiliija kudumula, ishi shikutwiganikija giki tutankoobaga Kilisito (Luka 18:9-14).</p><p>Bibilia ikuhaya hape: <b>“Būlī ng'wene ūyo ūnzunya atinhwa nsango, alīyo būlī ng'wene ūyo atanzunije alī mu nsango”</b> (Yohana 3:18). U nsango guti “kuchunula bupanga bwako ulu wamala kucha,” aliyo gwamala kushikiliija kale ku <b>kuzunya kwako Kilisito.</b></p><p class='faq-v'>Balumi 3:23 · Yohana 3:18 · Baefeso 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Nukubeja kubiza munhu nzogu dūhū, nūūlū natanzunije Yesu, gitatosha lo?",
+  "faq.a2": "<p>Geno hu maganiko ga bingi, aliyo gakwihabija ku ichi guli “bukoye bo ng'hana.” Tutule shikolelo.</p><p><b>Iganikaga ulu uli mu ngalawa ya basambo.</b> Nūūlū ukweja ng'hana u mu ngalawa, ukubabeeja a banhu ba mo, na ukikala bukalu, ūkūbiza <b>nsambo</b> gete, nguno u ngalawa gukukutwala hamo na gwo ha ng'hu gukujaga (ku bwilo bo nsango). U bukoye guti “buchunu bo shitwa shako” aliyo guli <b>“ngalawa ki uli mo” (ng'huno yako)</b>.</p><p>Hu nguno yeniyo Ng'hulu Jawiza jitahaya “ibeeje kubiza nzogu,” aliyo jikuhaya <b>“galuka ngalawa.”</b> Shimaaga u mu ngalawa gwa shibi, ujaaga kuli Yesu — ku ng'huno mhya ya kubiza <b>ng'wana wa ng'wa Mulungu</b>. Wiwi guti kongeja buchunu bwako ku nguzu, aliyo guli kunkumilija uyo akukulanhija u nkono gwakwe na kuduluka kuja ngalawa yakwe.</p><p>Ku ng'hana Bibilia ikuyombaaga u bupiji giti ng'wenuyu kugaluka: <b>“Hū ng'wene ūyo wamala kūtūkomoola kūfuma mu nguzu ja giiti, ūtūtūūla mu būsugi wa Ng'wana wakwe Ntogwa”</b> (Bakolose 1:13).</p><p>Utizihabija: <b>wiwi guti giki kwikala bukalu kutina mhayo.</b> Aliyo u bwiza guti “shilagilo” sha bupiji, aliyo guli <b>ndobolo</b> yakwe. Uyo wamala kugaluka ngalawa akwikalaga bukalu iti kulwa woba, aliyo kulwa <b>butogwa bo ng'wana</b>.</p><p class='faq-v'>Bakolose 1:13 · Yohana 1:12 · Yohana 3:3 · Baefeso 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Ulu u ntumami akuhaya “U Mulungu wamala kunilekeja” akwikala na mhola u mo, aliyo uyo wakoeligwa achanaaga makoye, u kulekejiwa kwenuko gutahabuye lo?",
+  "faq.a3": "<p>U wuzu guli bwuza, na u makoye geneyo gali ga ng'hana. Aliyo u kuhaya gwenuko guti “kulekeja kwa Bibilia,” aliyo guli <b>kuhabija</b> kwakwo.</p><p><b>① Kulekeja kwa ng'wa Mulungu kutahabuye nūūlū lulu.</b> U shibi shitafuniwaaga giti “shitabilongela,” u Mulungu ng'wenekili wamala kuliipa u nsango gwasho ku bupanga bo Ng'wana wakwe. U nsalaba guti shikolelo giki u shibi shikubalwa giti shabuse, aliyo shikolelaaga giki u shibi shilemeele lulu — guli kulekeja kutaale kushiliija ku si.</p><p><b>② Kugaluka kwa ng'hana kukutwala ndobolo.</b> Ulu u ntumami akwilanga ha butongi bo uyo wakoeligwa, alihaya, “U Mulungu wanilekeja, nali na mhola,” gwenuko guti kugaluka, aliyo guli kwigega dūhū (Matayo 3:8). Hama, u kulekejiwa ku gati ya munhu na Mulungu kutahaagulaga u nsango gwa uyo wakoeligwa, nūūlū kunkomeleja alekeje.</p><p><b>③ U shibi shitalekejiwaga dūhū “shije.”</b> Buli shibi shikuliipiwa ha umo wa hano habili — <b>au u Kilisito akubutwiika ha nsalaba</b> (kuli abo bakunzunya atiho hangi nsango, Balumi 8:1), <b>au uyo akwilema kushiisha akubutwiika ng'wenekili.</b> Hu nguno yene atiho “kulekejiwa kuhabu.” U ntumami achaaga na nimo gwa shilagilo sha si yiyi (Balumi 13:1-4).</p><p><b>④ A shisoji sha uyo wakoeligwa shitali shidoo ku butongi bo ng'wa Mulungu.</b> U Mulungu akulilaga hamo na bo bakulila, akizukwaga buli lisoji, na ku bukalikijo akushipyagula ng'wenekili (Kukundūlīlwa 21:4). Hu nguno yeniyo uyo wakoeligwa atalitwiika nyali yakwe u nzigo gwa kumala shiili, aliyo akudula kugutwala kuli Mulungu ntūngīlīja (Balumi 12:19: “‘Ū kūmala shiilī gūlī nīmo gwane, nene nakūlīpa,’ alīhaya Seeba”).</p><p class='faq-v'>Matayo 3:8 · Balumi 8:1 · Balumi 13:1-4 · Kukundūlīlwa 21:4</p>",
+  "respond.h3": "Lulu — u nene neneki?",
+  "respond.sub": "U butogwa bwenubu buti mhayo dūhū, aliyo guli <b>kwilangwa</b>. Ulu u butogwa ubo bwabambwa ku nyali yako bwakubita u moyo gwako, lulu lompaga u nsabi gwenuyu, mhayo na mhayo, na ndongeelo.",
+  "respond.prayer": "<p>Mulungu,</p><p>nazunya giki nene nali munhu wa shibi uyo atadūgije kwipija bichene.</p><p>Nazunya giki u Yesu akancha ku nyali yane ha nsalaba, na akazuuka hangi.</p><p>Nilekeje a shibi shane shose, na kufuma haha ubize Seeba wa bupanga bwane.</p><p>Nanukule giti ng'wana wako, na nipije nikale bupanga bupya.</p><p class='amen'>Ku lina lya ng'wa Yesu nalompa. Ameni.</p>",
+  "respond.after": "Ulu wamala kulompa gwenuyu ku moyo gose, Bibilia ikuhaya giki wamala kubiza <b>ng'wana wa ng'wa Mulungu</b>. Utachaaga ng'wenekili — koobaga kanisa ihabipi na utongele nzila ya bukini hamo na bingi.",
+  "respond.read": "Somaga Bibilia ng'wenekili — wandijaga na Yohana",
+  "respond.verse": "“Alīyo pye abo bakūng'wanukūla na kūlīzunya ī lina lyakwe, akūbinha būdūla bo kūbiza baana ba ng'wa Mulungu.” — Yohana 1:12 · Balumi 10:9-10",
+  "closing.main": "Mulungu ūmò,<br>ku ng'hulu yimo,<br>akutukoba na<br><em>butogwa</em> butadūmile.",
+  "closing.verse": "“Nūūlū kūcha, nūūlū būpanga… nūūlū shiseeng'wa shingī shose shose, shitīho īsho shidūgije kūtūlekanya nabo ū būtogwa bo ng'wa Mulungu, ūbo būlī mulī Kilisito Yesu Seeba wise.” — Balumi 8:38-39",
+  "closing.small": "Ha ng'hulu yeniyi, u Shilagilo, a shitabo sha lyimbo, a bahangi, na a malete bakongejaaga “nyama.”<br>Kufuma haha, buli shitabo ucho ukushidindula, ukumana “ha ng'hu uli mu ng'hulu.”",
+  "closing.share": "↗ Gabanaga ng'hulu yeniyi",
+  "about.line": "Yandikwa ku kulola kwa <b>buchaaji bo bupiji (redemptive-historical), evangelical · Reformed</b> ubo bingi mu kanisa ya Buprotestanti ya Korea bagubanaga.",
+  "about.contact": "Mawuzo · maganiko — <a id='contact' class='mail'>Tutumile baluwa</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ILAGANE LYA KALE · WANDIJO",
+   "title": "Kuseema",
+   "date": "Ha wandijo",
+   "one": "U Mulungu akaseema si “yawiza no.”",
+   "people": "Mulungu; Adamu na Eva",
+   "events": "Shikū sita ja kuseema, munhu kuseemwa giti shikolelo sha ng'wa Mulungu, lushiku lwa kuhumula",
+   "q": "A ha wandījo wa kūseema, ū Mulungu akaseema igūlū na sī.",
+   "cite": "wandījo 1:1",
+   "christ": "U si yaseemwa ku “Mhayo.” U Ng'hulu Jawiza ja ng'wa Yohana jikuhaya giki u Mhayo gwenuyu ali Yesu ng'wenekili (Yohana 1:1-3).",
+   "detail": "<p>Bibilia itakwandya na mawuzo ga busala, aliyo ikwandya na mhayo: <b>“A ha wandījo, ū Mulungu…”</b> U si guti mhayo gwa kukwila dūhū, aliyo guli nimo gwa Mulungu ng'wenekili.</p><ul><li><b>Shikolelo sha ng'wa Mulungu</b> · ha shiseeng'wa shose, u munhu dūhū wuseemwa kubiza giti Mulungu — kunmana wei na kulanga si.</li><li><b>Kuhumula</b> · u kuhumula kwa lushiku lwa mpungati kukulanga giki pyi yamala na yali na mhola (shalom): “akaiyibona giki yawiza.”</li><li><b>Edeni</b> · u si butanali kunyaagiwa, ha banhu na Mulungu bakatongaga hamo.</li></ul>",
+   "next": "Aliyo u kushikiliija kwenuku kukandya kunyagiwa nahale…"
+  },
+  {
+   "tag": "ILAGANE LYA KALE · BUKOYE BUKANDYA",
+   "title": "Kugwa",
+   "date": "Ha wandijo",
+   "one": "U shibi shingila, u buliyani bo banhu na Mulungu budumulwa.",
+   "people": "Adamu na Eva; nzoka (Shetani)",
+   "events": "Kulya itunda ililemejiwe, kwingiijiwa kufuma Edeni, kucha na kunyiha gwingila",
+   "q": "Nīyo nakūtūūla wanishi a ha gatī yako nū nkīma… Ū myalwa wakwe akūgūtobagūla Ū ntwe gwako.",
+   "cite": "wandījo 3:15",
+   "christ": "U ilagane lya kwandya lya Ng'hulu Jawiza, ilinhiwe ulu kugwa kwamala: u “myalwa wa nkima” akutobagula u ntwe gwa nzoka — gwenuyo ali Yesu (wandījo 3:15; Balumi 16:20; Bagalatia 4:4).",
+   "detail": "<p>Ku nzila ya kulema kwa kutogwa “kubiza giti Mulungu,” u shibi shingila mu si. U ndobolo guti kudumula shilagilo dūhū, aliyo guli <b>kudumula buliyani</b>.</p><ul><li><b>Buliyani budumulwa</b> · na Mulungu (kwiboneeja), na bingi (kwitwala nsango), na shiseeng'wa (miiba na kunyiha).</li><li><b>Kucha</b> · u luhugu “ukucha gete” lwabiza ng'hana.</li><li><b>wandījo 3:15</b> · aliyo ha gati ya nsango, u ilagane lya bupiji lyingila kwandya. A bamanyi bakulitanaga <b>protoevangelium (Ng'hulu Jawiza ja kwandya)</b>.</li></ul>",
+   "next": "Lulu u Mulungu akukoma munhu ūmò, akwandya u bupiji…"
+  },
+  {
+   "tag": "ILAGANE LYA KALE · ILAGANE",
+   "title": "Bakulu ba kale",
+   "date": "B.C. 2000 vile",
+   "one": "U Mulungu akulagana na Abulahamu: “Ukubiza nzila ya mbango.”",
+   "people": "Abulahamu · Isaka · Yakobo · Yusufu",
+   "events": "Ilagane lya ng'wa Abulahamu, kufunya Isaka, baana 12 ba ng'wa Yakobo, Yusufu kubiza ntemi Misili",
+   "q": "Nakūkwīta ūbize ihanga itaale… a banhū bakwīlūkīlwa mbango kūlwa nguno yako.",
+   "cite": "wandījo 12:2-3",
+   "christ": "U ilagane giki “a mahanga gose gakulukilwa mbango” likushikiliija muli Yesu, u myalwa wa ng'wa Abulahamu (Bagalatia 3:16).",
+   "detail": "<p>U Mulungu akandya kumala u bukoye bo banhu bose ku kunkoma munhu ūmò, <b>Abulahamu</b>. U moyo gwasho guli <b>ilagane</b> — ihanga itaale, isi, na “mbango kulwa mahanga gose.”</p><ul><li><b>Kuzunya</b> · u Abulahamu wazunya u ilagane litabonekaga, ulibalilwa giti butungilija (wandījo 15:6).</li><li><b>Isaka na Yakobo</b> · u ilagane likushokela ku ng'haya ya bili; u Yakobo (Isilaeli) ali ng'wise wa shikolo 12.</li><li><b>Yusufu</b> · wagulijiwa na bakulu biye aliyo wabiza ntemi — “U Mulungu akītūmamīla ī yenīyo kwīta īyo īlīho ī haha” (wandījo 50:20).</li></ul>",
+   "next": "Bakuntongela Yusufu, u kaya guja Misili — ubiza busese…"
+  },
+  {
+   "tag": "ILAGANE LYA KALE · BUPIJI",
+   "title": "Kufuma Misili na buchondi",
+   "date": "B.C. 1446 vile",
+   "one": "U Mulungu akabapija banhu ba busese, ubeeta babize bakwe.",
+   "people": "Musa, Aluni, Falao",
+   "events": "Mapigo 10, Pasaka, kukila Nyanza Ntūnduuli, Shilagilo 10 ha Sinai, ihema, myaka 40 mu buchondi",
+   "q": "Nakūmusola nang'wīte mubize banhū bane, nū nene nabize Mulungu wing'we.",
+   "cite": "Kūfuma 6:7",
+   "christ": "U Pasaka — aha sakami ya ng'holo yashokeja u kucha — likukolaaga Yesu, “pasaka yise,” uyo wabambwa ku nyali yise (1 Bakolinto 5:7).",
+   "detail": "<p>U bupiji butaale bo Ilagane lya Kale. A Baisilaeli abo bali basese bapandika butatu ku nguzu ja ng'wa Mulungu, beetwa kubiza <b>banhu</b> bakwe.</p><ul><li><b>Pasaka</b> · u kaya ikalangulwa ku sakami ya ng'holo ha nyangwa ikakilwa na u kucha — shikolelo sha shitambo shose sha hanyuma.</li><li><b>Nyanza Ntūnduuli</b> · bupiji aha nzila yabula; “kukila kuja igulya” gukabiza shikolelo sha wandijo bupya.</li><li><b>Ilagane lya Sinai</b> · ku Shilagilo bakulanga ginehe kwikala giti banhu ba ng'wa Mulungu.</li><li><b>Ihema</b> · ng'wikalo gwa kutwala, aha u Mulungu akikalaga ha gati ya banhu bakwe — shilolelo sha “Imanueli.”</li><li><b>Myaka 40</b> · u kulema kukatwala ng'haya ya banhu kubela mu buchondi, aliyo u Mulungu akikala habipi na bo na mana na liwingu na moto.</li></ul>",
+   "next": "Bemiile ha nyangwa ya si ilagene, bakwilolelija kwingila…"
+  },
+  {
+   "tag": "ILAGANE LYA KALE · KWIKALA",
+   "title": "Kuhama na balamuji",
+   "date": "B.C. 1400–1050 vile",
+   "one": "Bapandika isi, aliyo na atina ntemi, buli ng'wene akiitaga giti walitogelilwe.",
+   "people": "Yoshwa; balamuji giti Gideoni na Samsoni; Luuzi",
+   "events": "Kugwa kwa Yeliko, kwikala Kanani, muzunguko gwa shibi–nsango–bupiji",
+   "q": "Ū mu shikū jenījo a Baisilaeli baalī batī na ntemi, būlī ng'wene wītaga gīt'ūmo walī atogelilwe.",
+   "cite": "Balamuji 21:25",
+   "christ": "Kufuma ku ng'haya ya ng'wa Luuzi akufuma Daudi, na kufuma ku ng'haya ya Daudi akufuma Yesu (Matayo 1). Nūūlū mu mahisu, u ng'haya ya Masiya yikujaga.",
+   "detail": "<p>Hasi ya ng'wa Yoshwa bakwingila si ilagene, aliyo bamala kwikala bamala kuninha Mulungu. Balamuji guli muzunguko gumo gwiyuza.</p><ul><li><b>Muzunguko gwa shibi</b> · shibi → makoye → kulila → nlamuji akupija → shibi hangi. Gukubela dūhū.</li><li><b>Balamuji</b> · Gideoni, Samsoni, Debola — bapiji ba ikanza, bakini aliyo na mabipo mingi.</li><li><b>Luuzi</b> · ng'hulu ya bukini mu shiku ja giiti; nkima nzenge wingila ku ng'haya ya Daudi (na Yesu).</li></ul>",
+   "next": "A banhu bakulila, “Tunhe ntemi na bise!”…"
+  },
+  {
+   "tag": "ILAGANE LYA KALE · IKANZA ITAALE",
+   "title": "Butemi bumo",
+   "date": "B.C. 1050–930 vile",
+   "one": "U Mulungu akulagana na Daudi: “U shitumbi shako shikushinga welelo bose.”",
+   "people": "Sauli · Daudi · Solomoni",
+   "events": "Ntemi wa kwandya Sauli, Daudi na Goliati, ilagane lya ng'wa Daudi, Solomoni kuzenga hekalu",
+   "q": "Ī numba yako nū būtemi wako shikūshinga ho welelo bose ū kū būtongi wane; ī lisumbī lyako lya būtemi līkwinhwa nguzu shikū jose ja welelo na welelo.",
+   "cite": "2 Sang'weli 7:16",
+   "christ": "U “shitumbi sha welelo bose” shikushikiliija muli Yesu, u myalwa wa ng'wa Daudi — hu nguno yene akutanagwa “Ng'wana wa ng'wa Daudi” (Luka 1:32-33; Matayo 1:1).",
+   "detail": "<p>U ikanza itaale lya Isilaeli, hasi ya batemi batatu.</p><ul><li><b>Sauli</b> · u ntemi wa kwandya uyo banhu balomba; wandijo bwiza, aliyo walemejiwa kulwa kulema.</li><li><b>Daudi</b> · “munhu giti moyo gwa ng'wa Mulungu.” Akanhema u Goliati, ubeeja Yelusalemu kubiza ng'waniki. Wagiita shibi shitaale (Bati-sheba), aliyo wagaluka ku moyo gose (Zabuli 51).</li><li><b>Ilagane lya ng'wa Daudi (2 Sang'weli 7)</b> · u Mulungu akulagana kushinga u butemi bo ng'wa Daudi welelo bose — u nzizo ntaale gwa kwisagilwa kwa Masiya.</li><li><b>Solomoni</b> · ha igulya lya busala na buguni akazenga <b>hekalu</b> lya Yelusalemu, aliyo ku bukalikijo akagwila ku kukumilija shihango.</li></ul>",
+   "next": "Hasi ya ng'wa Solomoni u butemi bukwabanyiwa kabili…"
+  },
+  {
+   "tag": "ILAGANE LYA KALE · KUGWA",
+   "title": "Butemi bwabanyiwa",
+   "date": "B.C. 930–586",
+   "one": "Bwabanyiwa kabili: kushiku (Yuda) na kunfunha (Isilaeli), bunyaagiwa kuyaga.",
+   "people": "Batemi ba mahanga gabili; bahangi giti Eliya, Isaya, Yelemia",
+   "events": "Butemi bwabanyiwa, kukumilija shihango kuyaga, bahangi bakuhugula",
+   "q": "Na lūūlū a Baisilaeli bīgomela ī numba ya ng'wa Daūdi kūfuma ikanza lyenīlo kūshisha lelo īyī.",
+   "cite": "1 Batemi 12:19",
+   "christ": "Mu ikanza lyenili a bahangi bakuhanga u Masiya uyo akwiza ku hape no (Isaya 9:6; Isaya 53).",
+   "detail": "<p>Mu shiku ja ng'wana wa ng'wa Solomoni u butemi bwabanyiwa: <b>butemi bo kunfunha bo Isilaeli</b> (shikolo 10, ng'waniki Samalia) na <b>butemi bo kushiku bo Yuda</b> (shikolo 2, ng'waniki Yelusalemu).</p><ul><li><b>Isilaeli (kunfunha)</b> · batemi bose bakutumamila shihango; bukagwa kuli Ashuli mu B.C. 722.</li><li><b>Yuda (kushiku)</b> · u ng'haya ya Daudi yikuja, na batemi bawiza badoo giti Hezekia na Yosia, aliyo na pyi bunyiha.</li><li><b>Bahangi</b> · Eliya, Amosi, Isaya, Yelemia bakulila “galukagi!” Aha hu kuhanga kwa Masiya kukushiliija no (u “ntūmami wa makoye” wa Isaya 53).</li></ul>",
+   "next": "Ku bukalikijo u nsango ugwahanguligwa gwiza — bakutwalwa busese…"
+  },
+  {
+   "tag": "ILAGANE LYA KALE · NSANGO",
+   "title": "Buchaaji",
+   "date": "B.C. 722 / 586",
+   "one": "U butemi bukagwa, a banhu bakutwalwa mahanga ga bingi.",
+   "people": "Danyeli, Ezekia, Nebukadineza",
+   "events": "Isilaeli bukagwa kuli Ashuli (722); Yuda bukagwa kuli Babuloni na hekalu lyabipigwa (586)",
+   "q": "Twalī twigashije kū ng'hilimvwa ya myongoya Babuloni, aho twayizūkwa ī Sayuni tūyūlīla ng'hūngū.",
+   "cite": "Zabuli 137:1",
+   "christ": "Mu kunyiha kushiliija, u Yelemia akulagana “ilagane lipya” (Yelemia 31:31) — u ilagane lyenilo Yesu akalishinga ha shalya sha bukalikijo.",
+   "detail": "<p>U kuhugula kwabiza ng'hana. U hekalu lyalimba na a banhu bakutwalwa Babuloni — bakubela si, ntemi, na hekalu: u nyiho ntaale kushiliija.</p><ul><li><b>Kugwa kabili</b> · Isilaeli (Ashuli, B.C. 722) na Yuda (Babuloni, B.C. 586).</li><li><b>Danyeli</b> · shikolelo sha kuzunya nūūlū mu lukago lwa banhu ba shihango (mu lina lya nsimba); akabona shibonelo sha “butemi bo welelo bose” buno bwiza.</li><li><b>Lifumvwe lya kwisagilwa</b> · u shibonelo sha makanwa makau gakushoka bupanga (Ezekia 37) na u “ilagane lipya” lya ng'wa Yelemia jikulanga butongi mu giiti.</li></ul>",
+   "next": "Hasi ya myaka 70, u Mulungu akubonelaja nzila — bakushoka kaya…"
+  },
+  {
+   "tag": "ILAGANE LYA KALE · KUSHOKEELA",
+   "title": "Kushoka kufuma buchaaji",
+   "date": "B.C. 538–430",
+   "one": "Bakushoka na kuzenga hangi hekalu na shibumbililo.",
+   "people": "Ezila, Nehemia, Esita, Zelubabeli",
+   "events": "Kushoka ku luhugu lwa ng'wa Kolesi, kuzenga hangi hekalu, kubeeja shibumbililo sha Yelusalemu, kushokeela u Mhayo",
+   "q": "Nguno ū būyegi bo ng'wa SEEBA h'ī nguzu jing'we.",
+   "cite": "Nehemia 8:10",
+   "christ": "U Malaki, shitabo sha bukalikijo sha Ilagane lya Kale, akumala na kuhanga ntumiwa wa kubeeja nzila ya Masiya: “nakwitūma inhungwa yane” (Malaki 3:1).",
+   "detail": "<p>U kushoka kukandya ku luhugu lwa ntemi wa Pelusia Kolesi (B.C. 538). Mu maduluko gatatu bakushoka na kuzenga hangi ichi shabipa.</p><ul><li><b>Zelubabeli</b> · akuzenga hangi hekalu (lyamala mu B.C. 516).</li><li><b>Ezila</b> · akutulanga u Mhayo hangi na kushokeela u bukini.</li><li><b>Nehemia</b> · akuzenga hangi shibumbililo sha Yelusalemu mu shiku 52.</li><li><b>Esita</b> · akubapija a Bayudaya mu Pelusia kufuma kubulagwa — “kulwa ikanza giti lyenili.”</li><li><b>Kwisagilwa kukujaga</b> · u hekalu lyimiile, aliyo atiho ntemi giti Daudi. A banhu bakwisagilwa Masiya.</li></ul>",
+   "next": "Hama lulu… giti igulya lyahuumula, myaka 400 ya bunoneeji yikwiza."
+  },
+  {
+   "tag": "GATI YA MALAGANE · KUBEEJA NZILA",
+   "title": "Myaka ya bunoneeji",
+   "date": "B.C. 430–4 vile",
+   "one": "Myaka 400 itina lyulu lya nhangi; aliyo u nzila gwabeejiwa ku bunoneeji.",
+   "people": "Alekizanda Ntaale, Bamakabayo, Loma",
+   "events": "Pelusia → Bugiliki → butatu bo Bamakabayo → butemi bo Loma",
+   "q": "Alīyo aho lyang'wa ī likanza, ū Mulungu akantūma ū Ng'wana wakwe, ūbyalwa na nkīma.",
+   "cite": "Bagalatia 4:4",
+   "christ": "U “kubeeja nzila” kwenuku kose guli nimo gwa ng'wa Mulungu giki u Yesu ize gete “aho lyang'wa ī likanza.”",
+   "detail": "<p>Kufuma kuli Malaki kushisha Ilagane Lipya, myaka 400 vile yabita itina mhayo nzwa (bahangi). Aliyo hanyuma ya ng'hulu u Mulungu akabeeja nzila ya kudaila Ng'hulu Jawiza.</p><ul><li><b>Butemi bukugaluka</b> · Pelusia → Bugiliki (Alekizanda, B.C. 333) → Batolemi na Baseleuki → buyombo bo Bamakabayo (B.C. 167) → Loma (B.C. 63).</li><li><b>Lulimi lwa Kigiliki</b> · u kunhema kwa ng'wa Alekizanda kukubiza Kigiliki lulimi lwa bingi; u Ilagane lya Kale lukatindululwa Kigiliki (Septuagint), kukubeeja nzila giki Ng'hulu Jawiza jidaile bwangu.</li><li><b>Nzila na mhola ya Loma</b> · nzila jawiza na “Pax Romana” jikabiza nzila ja butumiwa.</li><li><b>Masinagogi na mabuko</b> · u butulanga bo mu sinagogi bukimiila; a Bafalisayo na Basadukayo bafuma; na <b>kwisagilwa Masiya</b> kukushiliija.</li></ul>",
+   "next": "Hama, u bunoneeji bwadumuka, ku bukalikijo wei akiza."
+  },
+  {
+   "tag": "ILAGANE LIPYA · KUSHIKILIIJA",
+   "title": "Yesu akiza",
+   "date": "B.C. 4–A.D. 30 vile",
+   "one": "U Masiya uyo wamala kulaganijiwa akiza, akacha, akazuuka hangi.",
+   "people": "Yesu, bafundwa 12, Yohana Mubatija",
+   "events": "Kubyalwa kubiza munhu, butumami bo kutulanga na shikolwa, kucha ha nsalaba, kuzuuka ha lushiku lwa katatu",
+   "q": "Ū Mhayo akabiza munhū, wigasha hamò nise… okolile shigongo na ng'hana.",
+   "cite": "Yohana 1:14",
+   "christ": "U myalwa wa nkima (mhayo 2), mbango ya ng'wa Abulahamu (3), ng'holo ya Pasaka (4), ntemi wa welelo bose wa Daudi (6), ilagane lipya (8) — pyi yikushikiliija muli munhu ūmò, Yesu: nhangi wise wa ng'hana, ngabiji wise wa ng'hana, na ntemi wise wa ng'hana.",
+   "detail": "<p>U bunoneeji bwadumuka; uyo walaganijiwa akiza. Ng'hulu Jawiza jine jikukaaniija u bupanga, kucha, na kuzuuka kwa ng'wa Yesu kufuma nzila jine.</p><ul><li><b>Kubyalwa kubiza munhu</b> · u Mulungu akabiza munhu (Imanueli, “Mulungu hamo nise”), ha kihamo kidoo kya Betelehemu.</li><li><b>Butumami</b> · akutulanga butemi bo ng'wa Mulungu, akudamya balwáji, akukoma ba shibi. “Uyo wanibona nene wamala kumbona Baba.”</li><li><b>Nsalaba</b> · akuliipa ku nyali yise u nsango gwa shibi na kucha iyo yaletwa na kugwa (mhayo 2). Ng'holo ya Pasaka ya ng'hana.</li><li><b>Kuzuuka</b> · kuzuuka ha lushiku lwa katatu, akudumula u nguzu ja shibi, kucha, na Shetani — nūūlū ha nsalaba “Mabūsugi na mabūtaale ūgazuuja magaka… akūboolechaga ū būtindi bokwe kū bose” (Bakolose 2:15).</li></ul><p>Hu nguno yene u Yesu ali <b>nhangi wise wa ng'hana</b> (akutoleka nzila ya kuli Mulungu), <b>ngabiji wise wa ng'hana</b> (akumala shibi ku mili gwakwe ng'wenekili), na <b>ntemi wise wa ng'hana</b> (akunhema shibi, kucha, na Shetani na kutema welelo bose).</p>",
+   "next": "U Yesu uyo wazuuka akubatuma bafundwa bakwe mu si…"
+  },
+  {
+   "tag": "ILAGANE LIPYA · KUDAILA",
+   "title": "Kanisa likandya",
+   "date": "A.D. 30 kufuma",
+   "one": "U Moyo Ng'wela ukwiza, u Ng'hulu Jawiza jikudaila kushisha ngelelo ya si.",
+   "people": "Petelo, Paulo, kanisa lya kale",
+   "events": "Kufunyiwa kwa Moyo ha Pentekoste, kanisa libyalwa, Ng'hulu Jawiza jikudaila kufuma Yelusalemu kushisha Loma mu makoye",
+   "q": "Ūlū alang'wizīīle ū Moyo Ng'wela mukwanukūla nguzu; mubize bakaanīji bane… kūshika kū ngelelo ya sī.",
+   "cite": "Shītwa sha Batūng'wa 1:8",
+   "christ": "U ng'hulu yeniyi yikujaga nūūlū lelo. Bibilia ikumala na kulagana giki u Yesu akwiza hangi na kwita pyi yose ipya (Kukundūlīlwa 21).",
+   "detail": "<p>Hasi ya ng'wa Yesu kuja igulya, u Moyo ulaganijiwa ukwiza ha Pentekoste na kanisa libyalwa. U Ng'hulu Jawiza jikudaila bwangu no.</p><ul><li><b>Pentekoste</b> · u Moyo akubeeja bafundwa ba woba kubiza bakaaniji ba bukini.</li><li><b>Petelo</b> · akulomeela Ng'hulu Jawiza kuli Bayudaya ba mu Yelusalemu.</li><li><b>Paulo</b> · kufuma ntumami wa makoye kubiza ntung'wa; akuzenga makanisa mu si ya bingi na kwandika malete.</li><li><b>Kushisha ngelelo ya si</b> · Yelusalemu → Buyudaya → Samalia → Loma. U ilagane lya ng'wa Abulahamu lya “mahanga gose” likushikiliija.</li><li><b>Na bise</b> · u ng'hulu jitamala; jikujaga kushisha kushoka kwa ng'wa Yesu na igulu lipya na si ipya.</li></ul>",
+   "next": "Aliyo u ng'hulu jitamalile aha…"
+  },
+  {
+   "tag": "ILAGANE LIPYA · KUMALA",
+   "title": "Kushokeela (pyi yose ipya)",
+   "date": "Iyo ikwiza",
+   "one": "U Yesu akwiza hangi na kwita pyi yose ipya.",
+   "people": "Yesu uyo akushoka; mahanga gose",
+   "events": "Kushoka kwa kabili, nsango wa bukalikijo, bukalikijo bo shibi·kucha·shisoji, igulu lipya na si ipya",
+   "q": "Akūshipyagūla ī shisoji shīnge pyī ū mu miso gabo, na kūtalabiza ho kūcha hangī, nūūlū būpīna, nūūlū ng'hūngū; pye nūūlū kūluha kūtalabiza ho.",
+   "cite": "Kukundūlīlwa 21:4",
+   "christ": "U Edeni wa kuseema kwa kwandya ku bukalikijo wikushokeela giti “Yelusalemu Mpya.” U Mulungu akikala na banhu bakwe welelo bose — kushikiliija kwa Imanueli (Kukundūlīlwa 21:3; Matayo 1:23).",
+   "detail": "<p>Bibilia itamalile mu ikanza lya kanisa. U shitabo sha bukalikijo, Kukundūlīlwa, shikutoleka Yesu uyo <b>akwiza hangi</b> kumala pyi yose.</p><ul><li><b>Kushoka kwa kabili</b> · u ntemi ulaganijiwa akushoka ku ikujo.</li><li><b>Buhemi bo bukalikijo</b> · Shetani na kucha bikuhemwa welelo bose, na u Kilisito akutema giti Ntemi wa batemi (1 Bakolinto 15:25-26; Kukundūlīlwa 20:10).</li><li><b>Nsango na kuzuuka</b> · buli bubipi bukubeejiwa, na bakau bakuzuuka.</li><li><b>Igulu lipya na si ipya</b> · shibi, kucha, shisoji, na kuluha jikubita welelo bose (Kukundūlīlwa 21:4).</li><li><b>Edeni washokeligwa</b> · mu “Yelusalemu Mpya” iyo yawiza kutinda u wandijo, u Mulungu akikala na banhu bakwe welelo bose — u nyangwa iyo Bibilia yose yikujilaga.</li></ul><p>Hu nguno yene haha hu ikanza lya <b>“yamala, aliyo itanali kumala”</b>: muli Yesu u bupiji <b>bwamala</b> kushikiliija, aliyo u kumala kwasho <b>kukali</b> kwisagilwa.</p>",
+   "next": "Lulu, u ng'hulu yeniyi yose yili na mhayo ki kuli “nene”?"
+  }
+ ],
+ "love": [
+  "U wandijo bo ng'hulu guti nsango, aliyo guli si yaseemwa ku butogwa butaale.",
+  "Ikanza banhu bagiita shibi, u Mulungu akalagana bupiji henaho gete.",
+  "U Mulungu akakoba ntandilija munhu uyo atigeleelilwe, akantana ku lina, akeeta nzila ya mbango.",
+  "Akigwa kulila kwa banhu ba busese, akuluuluka ng'wenekili kubapija.",
+  "Nūūlū bagantwala nsango buli ikanza, buli bakulila akubatumila npiji na kubinusha hangi.",
+  "Nūūlū u Daudi uyo wagwa atampaga; ku nguno yakwe akalagana ntemi wa welelo bose.",
+  "Ku banhu bakuninha akubatumila bahangi, akubalomba, “Galukagi, namlomba.”",
+  "Nūūlū kushisha si ya giiti ya buchaaji akuluuluka hamo na bo, na akulagana kushokeela.",
+  "Nūūlū ku banhu bakugwa buli ikanza atashisha u ilagane lyakwe, aliyo akabinusha hangi.",
+  "Nūūlū mu myaka 400 ya bunoneeji, ku buhiso, akabeeja nzila ya bupiji.",
+  "Aho twataali banhu ba shibi, akatuma Ng'wana wakwe na kufunya bupanga bwakwe.",
+  "U butogwa ubo twapandika, haha akubutuma buduluke mu si yose.",
+  "Ku bukalikijo akushipyagula buli lisoji na kwita pyi yose ipya ku butogwa."
+ ],
+ "mis": [
+  {
+   "w": "“Nguno ki u Mulungu akaseema munhu uyo akudula kugiita shibi? Gitatosha lo kutamuseema gete?”",
+   "t": "U Mulungu akaseema si na munhu iti kulwa kubela kintu, aliyo kulwa butogwa butaale. Kweta munhu kubiza <b>munhu uyo akudula kuliyana na Mulungu</b> gwenuko guli butogwa. Hama, nūūlū kwingila kwa shibi gutali hanze ya nzila ya bupiji ya ng'wa Mulungu (Baefeso 1:4-5). U mhayo gwa kwandya gwa Bibilia guti nsango aliyo guli butogwa."
+  },
+  {
+   "w": "“Kwingiijiwa na kuninhwa kucha kulwa kulya itunda limo dūhū — u Mulungu atanyiile no lo?”",
+   "t": "Kwingiijiwa kufuma Edeni kwabiza nsango hamo na shigongo. Ulu, walekanigwa na Mulungu na mu ng'huno yeniyo yanyaagiwa, u munhu walya ku mti gwa bupanga na kwikala welelo bose, ubize wadindilwa mu makoye welelo bose (wandījo 3:22). Kuzunilija u kucha kwabiza kubonelaja nzila ya kushoka; na henaho gete u Mulungu akalagana Npiji (wandījo 3:15). Mu nsango mwali na butogwa."
+  },
+  {
+   "w": "“U Abulahamu wasolwa kulwa kuzunya kutaale akoiile — a banhu ba mu Bibilia bose iti bakini ba bukini lo?”",
+   "t": "U Abulahamu nawo wabeja, na wadidima, na u Yakobo wali ndimi. U Mulungu atakatana “bigeleelilwe,” aliyo ku shigongo akabatana abo bali na mabipo. U nguno ya kusolwa iti bukini bwabo, aliyo butogwa bo bukini bo ng'wa Mulungu (Kūshokeela 7:7-8)."
+  },
+  {
+   "w": "“U Shilagilo (shilagilo) guti luhindiijo au shiilo icho gigeleelilwe kushiisha kulwa kupandika bupiji lo?”",
+   "t": "U Mulungu akabapija <b>butanali</b> kubinha Shilagilo. Nūūlū u Shilagilo 10 gukwandya na mhayo gwa bupiji: “Ū nene nalī SEEBA Mulungu wako, hū nene nakakwenha kūfuma Misili” (Kūfuma 20:2). U Shilagilo guti “gukomeleeje kulwa kupandika bupiji,” aliyo guli kutongela kwa butogwa kwa ginehe banhu abo bamala kupijiwa ku shigongo bigeleelilwe kwikala (Kūshokeela 7:7-9). U shigongo gukwandya buli ikanza; u kuzunilija guli ndumulilo."
+  },
+  {
+   "w": "“U kuhema Kanani gwabiza kubulaga kutina shigongo — u Mulungu wa Ilagane lya Kale ali ntani gete.”",
+   "t": "Geno guli mhayo gulemeele uyo gutadūgije kumalwa ku mhayo gumo na gukulonga kulolwa hanaa. Aliyo Bibilia itagutoleka giti buyombo bo kukwila, aliyo giti nsango hanyuma ya myaka mingi ya kudilila kwa bubipi butaale (hamo na kufunya baana giti shitambo) (wandījo 15:16; Kūshokeela 9:4-5; Bagabīji 18:24-25). U Mulungu atayanguhaga nūūlū ku nsango, na uyo akugaluka kuli wei akunanukula ku buyegi, nūūlū nzenge giti Lahabu na Luuzi (Yoshwa 6:25; Luuzi 4:13-17)."
+  },
+  {
+   "w": "“U Daudi wali nkini atina mabipo — hu nguno yene akatanagwa ‘munhu giti moyo gwa ng'wa Mulungu.’”",
+   "t": "U Daudi akagoya na akabulaga gete. “Munhu giti moyo gwa ng'wa Mulungu” guti giki atina mabipo, aliyo guli giki atashisa u shibi shakwe — wagaluka kushiisha na akujaga kushoka kuli Mulungu (Zabuli 51). U butogwa bo ng'wa Mulungu butampaga nūūlū uyo akugwa no."
+  },
+  {
+   "w": "“U nhangi guli nlaguzi akuhanga ya butongi — u Mulungu wa Ilagane lya Kale akutaagwa dūhū.”",
+   "t": "U moyo gwa nhangi guti “kuhanga ya butongi,” aliyo guli wuzu bo butogwa bo ng'wa Mulungu: “galukagi, namlomba.” Nūūlū u kuhugula kwa nsango guti kunyaaga, aliyo guli kubagalula babize bapanga: “Kūtaniyejaga ū kūcha kwa banhū babūbi, alīyo īlī hambū hambū bagalūke balekane nī nzīla jabo bapīle” (Ezekia 33:11)."
+  },
+  {
+   "w": "“U buchaaji bukulanga giki u Mulungu akashisha Isilaeli gete.”",
+   "t": "U buchaaji guti kushisha, aliyo guli kuhugula na kweja kwa Baba kuli ng'wana ntogwa (Bahebulania 12:6). U Mulungu atajile; wali hamo na Danyeli ha gati ya buchaaji na akalagana: “Maganiko ga kūng'wītīla misoga, gatī ga kūmuminya yaya; maganiko ga kūmutūūla mu kwisagīlwa kwawiza kūlwa mihayo ya kū būtongi” (Yelemia 29:11)."
+  },
+  null,
+  {
+   "w": "“Ulu mu myaka 400 mwatina mhayo, u Mulungu wajile au wahumula.”",
+   "t": "U bunoneeji guti kubela. Atayombile dūhū; mu ikanza lyenilo lyose akatongela butemi, ndimi, na nzila kubeeja nzila ya bupiji. Mu ikanza lya bunoneeji no, u Mulungu akatumama kushiisha, ku butogwa (Bagalatia 4:4)."
+  },
+  {
+   "w": "“U Yesu wali ntulangi nzogu ūmò dūhū — u nsalaba gwabiza buhemwa bo busungu.”",
+   "t": "U Yesu akahaya giki ali Mulungu ng'wenekili (Yohana 8:58), na u nsalaba guti mhayo gwa kukwila au buhemwa, aliyo guli butogwa bulaganijiwe. Atatwalwa ku nguzu; akafunya bupanga bwakwe ku kutogwa kwakwe (Yohana 10:18). “Atīho nūūlū ūmò ūyo alī na būtogwa būtaale kūtinda wenūbū, gīkī munhū kweega būpanga bokwe kūlwa banwani biye” (Yohana 15:13)."
+  },
+  {
+   "w": "“Kanisa guli buko bo banhu bigeleelilwe, au guli numba dūhū.”",
+   "t": "Kanisa guti buko bo “banhu bela bigeleelilwe” aliyo guli bo <b>ba shibi balekejiwe</b>. Nūūlū u ntung'wa Paulo akiyita “wa kwandya” wa ba shibi (1 Timoteo 1:15). U kanisa lya kale nalyo lyagoya na lyagwa (Shītwa sha Batūng'wa 6:1; 1 Bakolinto 1:11). Kanisa guti hantu ha kwiponeeja, aliyo guli banhu bakushokeja butogwa ubo bapandika (Yohana 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Shibi sha kwandya — atiho ntūngīlīja",
+   "body": "U bukoye guti “shitwa shibi shidoo” aliyo guli nzizo gwa moyo. Kufuma kuli Adamu, buli munhu wubyalwa hasi ya shibi na atadūgije kushika kuli Mulungu bichene.",
+   "vref": "Balumi 3:10-12, 23",
+   "vtext": "Atīho ntūngīlīja nūūlū ūmò, atīho ng'witegeleja, atīho ūyo akankoobaga Mulungu… nguno pye a banhū balī na shibi, balebile a h'ikūjo lya ng'wa Mulungu."
+  },
+  {
+   "title": "U Shilagilo gutadūgije kunipija",
+   "body": "U Shilagilo guti ngazo, aliyo guli shilolelo. U kushiisha kushiisha, gukutoleka ginehe ukuleba. U nimo gwasho guli kututwala kuli Kilisito.",
+   "vref": "Balumi 3:20 · Bagalatia 3:24",
+   "vtext": "Nguno ū mu shilagīlo gūlīmo mhayo gwa kūmana shibi… ī shilagīlo shalī na nīmo gwa kūtūlanga, kūshisha līshike ī likanza lya ng'wa Kilisito."
+  },
+  {
+   "title": "Ku shigongo — inong'ho, iti nguzu",
+   "body": "U bupiji guti buchunu bo butumami ubo wapandika, aliyo guli inong'ho lya ng'wa Mulungu kuli abo batigeleelilwe. Hu nguno yene atiho uyo akudula kwikumilija.",
+   "vref": "Baefeso 2:8-9",
+   "vtext": "Mupījiwe kūlwa shigongo, kūlwa kūzunya… nīyo gūtafunyiwe kūlwa nguno ya shītwa, nose atizilonga nūūlū ūmò wa kwikumīlīja."
+  },
+  {
+   "title": "Kubalilwa butūngīlīja kūlwa kūzunya",
+   "body": "Iti kulwa kushikiliija Shilagilo, aliyo kulwa kuzunya Yesu Kilisito tukubalilwa butūngīlīja — tutakwivwala butūngīlīja bwise aliyo bwakwe.",
+   "vref": "Balumi 5:1 · Bagalatia 2:16",
+   "vtext": "Īkī tūbalīlilwe būtūngīlīja kūlwa kūzunya… ū munhū atīko kūbalīlwa būtūngīlīja kūlwa shītwa sha mu shilagīlo, ūlū ītī kūlwa kūnzunya Yesu Kilisito dūhū."
+  },
+  {
+   "title": "Bibilia ikolaaga Yesu",
+   "body": "Bibilia iti shitabo sha banhu bataale au shitabo sha kwipuuha. Kufuma kuli wandījo kushisha Kukundūlīlwa, buli lupande lukukaaniija munhu ūmò — Yesu Kilisito.",
+   "vref": "Yohana 5:39 · Luka 24:27",
+   "vtext": "Nī shene shikūnikaanīlaga nene… wandya kūbasomboolela pyī īyo yandīkilwe kūlwakwe, kwandīja kūlī Musa, na a bahangi a bose."
+  },
+  {
+   "title": "Butemi bo ng'wa Mulungu — mhayo ntaale gwa ng'wa Yesu",
+   "body": "U mhayo uyo u Yesu akutulanga no. U butemi aha u Mulungu akutema giti ntemi bukingila mu si na Yesu na bukushikiliija ulu akushoka. Ku nsalaba na kuzuuka, u Yesu ali ntemi wa ng'hana uyo wanhema shibi, kucha, na Shetani.",
+   "vref": "Maliko 1:15",
+   "vtext": "Ī likanza lyashikaga, ū būtemi bo ng'wa Mulungu wegeelaga, galūkagi mujizunye ī Ng'hūlū Jawiza!"
+  },
+  {
+   "title": "Ng'hulu Jawiza — wei wamala pyi yose",
+   "body": "U nzigo gwa shibi uyo nene natadūgije kuliipa, u Yesu akaliipa ku nyali yane ha nsalaba, na ku kuzuuka akanhema u kucha. Natwimiila ku “giita giki” aliyo ku “Yashila!”",
+   "vref": "Yohana 19:30 · Balumi 5:8",
+   "vtext": "Yashila!… ū Kilisito akatūchīlīla a bise aho twalī tūtaalī banhū ba shibi."
+  }
+ ],
+ "books": {
+  "wandījo": "GEN",
+  "Kūfuma": "EXO",
+  "Bagabīji": "LEV",
+  "Kūbala": "NUM",
+  "Kūshokeela": "DEU",
+  "Yoshwa": "JOS",
+  "Balamuji": "JDG",
+  "Luuzi": "RUT",
+  "Nehemia": "NEH",
+  "Zabuli": "PSA",
+  "Isaya": "ISA",
+  "Yelemia": "JER",
+  "Ezekia": "EZK",
+  "Malaki": "MAL",
+  "Matayo": "MAT",
+  "Maliko": "MRK",
+  "Luka": "LUK",
+  "Yohana": "JHN",
+  "Shītwa sha Batūng'wa": "ACT",
+  "Balumi": "ROM",
+  "Bagalatia": "GAL",
+  "Baefeso": "EPH",
+  "Bakolose": "COL",
+  "Bahebulania": "HEB",
+  "Kukundūlīlwa": "REV",
+  "1 Sang'weli": "1SA",
+  "2 Sang'weli": "2SA",
+  "1 Batemi": "1KI",
+  "2 Batemi": "2KI",
+  "1 Bakolinto": "1CO",
+  "1 Timoteo": "1TI"
+ },
+ "yv": 1517,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

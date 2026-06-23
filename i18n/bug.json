@@ -1,0 +1,383 @@
+{
+ "menuName": "Basa Ugi",
+ "htmlLang": "bug",
+ "dir": "ltr",
+ "brand": "Bible ri Séddi Gulungeng",
+ "docTitle": "Bible ri Séddi Gulungeng · Polé ri Pancajingngé lao ri Jamaa'é",
+ "share": {
+  "title": "Bible ri Séddi Gulungeng",
+  "text": "Ri séddié gulungeng bawang, isseng curita battowana Bible-é — sibawa magai napolé Yésus."
+ },
+ "ui": {
+  "people": "Tau-tauwé",
+  "events": "Kajajiyang pentingngé",
+  "christLabel": "Majjello' lao ri Yésus",
+  "loveLabel": "Pammasé iya temmappésau",
+  "mythWrong": "Ada-ada salaé",
+  "mythRight": "Tongenna",
+  "more": "Baca tamba",
+  "version": "(TML)"
+ },
+ "labels": {
+  "start": "Pammula",
+  "thread": "Curitana",
+  "gospel": "Karéba Madécéng",
+  "about": "Passalenna"
+ },
+ "s": {
+  "ui.share": "↗ Bagi",
+  "ui.toast": "Link purani risalin 📋",
+  "ui.footer": "Bible ri Séddi Gulungeng · Ada-ada Bible polé ri TML",
+  "hero.kicker": "POLÉ RI PANCAJINGNGÉ LAO RI JAMAA'É",
+  "hero.title": "Bible,<br><span class='em'>ri séddi gulungeng</span>",
+  "hero.sub": "Ri séddié gulungeng bawang, isseng curita battowana Bible-é — sibawa magai napolé Yésus.",
+  "hero.cue": "Gulung lao ri yawa<span>↓</span>",
+  "thread.eyebrow": "SÉDDI ADA IYA SISSUMPUNGENGNGI MANENG",
+  "thread.h2": "Ri cappa'na, Bible-é iyanaritu séddi mua curita",
+  "thread.flow": "<b>Janci</b><span class='arw'>→</span><b>Tajeng</b><span class='arw'>→</span><b>Atepurang</b>",
+  "thread.note": "Allataala <b>majjanci</b> (assijancing), tauwé <b>tajeng</b> maitta, na ri cappa'na sininna <b>tepu</b> sibawa rampe maneng ri laleng Yésus. Tinrosiwi 13 mappakkitana ri yawa sibawa iyaro lalengngé — pénré'i <b>“Baca tamba”</b> ri tungke' kartu untu' curita iya malebbi'é.",
+  "gospel.eyebrow": "AGA AKKATTANNA CURITAÉ UNTU' \"IYYA\"",
+  "gospel.h2": "Ati tongenna Bible-é",
+  "gospel.lead": "Bible-é <b>tenniya kitta pappagguruang “mancaji tau madécéng.”</b>",
+  "gospel.sublead": "Iyanaritu curita pékkugi Allataala, <b>banna nasaba pammasé</b>, passalama'i tau madosa iya dé'é naulléi passalama'i aléna. Ri tengnga-tengngana tettong Yésus Kristus.",
+  "gospel.mirror": "<h3>Lélénna tongeng-tongenna Israélié iyanaritu mappakkitana \"iyya\"</h3><div class='cycle'><b>Assompang barahala</b><span class='a'>→</span><b>Anrasa-rasang</b><span class='a'>→</span><b>Mangobbi</b><span class='a'>→</span><b>Allataala passalama'i</b><span class='a'>→</span><b>Assompang barahala paimeng…</b></div><p>Mappammulai ri arung-ngarung essoé lao ri appalliyangngé, Israélié tuli pakkulingngi iyaé léléngngé. Tenniya nasaba iyaro natarokii Bible-é kuwammengngi taccéllai mennang, “Magi makasi-asina mennang.”</p><p>Iyanaritu <b>cammeng</b>. Akkattana tenniya \"napogau'i Israélié iyaro\" iyakiya <b>\"upogau' tomuto iyaro\"</b> (1 Korintus 10:11).</p><p><b>Barahala</b> tenniya bawang patung iya riukki'é. Iyanaritu <b>sininna iya tapojiyé iyaré'ga tatepperié lebbi naiya Allataala</b> — dowi, asuléséreng, panrita-ritana tauwé, tau, muwi aléta muto. Na pakéi Allataala selaku <b>pakkakkasa untu' lolongengngi aga iya uwéloriyé</b> iyatona assompang barahala.</p><p class='punch'>Ri cappa'na, barahala iya kaminang malebbi'é iyanaritu \"aléku iya tudangngé ri kadéra arajanna Allataala.\"</p>",
+  "gospel.coreIntro": "Jaji, pékkugi Allataala passalama'i iyaro tau madosaé? Iyanaé ati tongenna Karéba Madécéng iya napabbéréyangngé Bible-é.",
+  "gospel.crux": "<p class='crux-lead'>Sininna Bible-é majjello' lao ri séddi onrong.</p><p>Tauwé dé' naulléi pettui aléna lélénna dosaé, na dé' muwi séddi tau iya tongengngé. Rimakkuwannanaro engka tau harusu' <b>makkamaja selaku sulléna mennang</b>.</p><p>Yésus tenniya banna polé untu' mabbéré pappagguruang madécéng. Nasaba dé'na laleng laing untu' passalama'ka, <b>dé'na nappémagana napolé.</b></p><p class='crux-punch'>Iya harusu'é riloi ri salli'éro iyanaritu <b>iyya</b>.<br>Yésus napaddékéngngi <b>dosaku</b> sibawa riloi kuwaro selaku sulléku.</p><div class='crux-verse'>“Iyakiya riloi nasaba dosa-dosata, sibawa ribarasa nasaba jata… nasaba sining lona naripajjappaki.” — Yésaya 53:5</div>",
+  "faq.h": "Engka mupaga iya muperasaié?",
+  "faq.q1": "<span class='arr'>▸</span> Jaji pabbunoé iya mateppe'é lao ri suruga, na tau iya madécéngngé tuwona iyakiya dé' namateppe' lao ri naraka?",
+  "faq.a1": "<p>Iyaro pakkutana iya sipato'é. Iyakiya engka duwa pahang sala iya mattallinrungngé ri laleng.</p><p><b>① Bible-é dé' nabbagéi tauwé mancaji \"madécéng sibawa maja.\"</b> Ukkuranna tenniya \"lebbi madécéng naiya tau ri benrénna\" iyakiya \"ataniyanna Allataala iya teppa'é.\" Ri yolona, dé' séddi tau \"madécéng senna'\" (Roma 3:23). Jaji iyaé tenniya \"tau madécéng lao ri pabbunoé,\" iyakiya lebbi pada-pada duwa tau iya maséwa lasa mamatéé — séddié natarima pabbainéna, séddié natampikengngi sibawa makkeda, \"Lebbi madising-ka naiya tauéro.\"</p><p><b>② Banna séddi iya bagéi suruga sibawa naraka.</b> Tenniya nilai gau', iyakiya <b>aga purano mutarima Yésus Kristus selaku Puwang sibawa pura ripattepu masala dosamu.</b> Tau iya purana ripattepu dosana naolai dara-Na Kristus laowi ri suruga; tau iya dé'é natarimai, iya tuli madosaé, dé' nalao. Dé' séddi gau' madécéng iya wedding pattepui masala dosaéro.</p><p>Jaji suruga sibawa naraka tenniya \"hadiya untu' kédo madécéng\" iyakiya passalenna <b>assisumpungeng sibawa Kristus</b>. Na \"mateppe'\" tenniya bawang pammulang ada ri laleng pikkirang, iyakiya appinrang passalenna niga mapparéntai atuwommu — niga-niga iya tonget-tongengngé natarima Aléna dé' namancaji matempo iyakiya lebbi mendre' tobana. Tongenna, apparéssén-aléna selaku madécéng (\"madécéng-ka\") iyanaritu barahala iya kaminang mawatangngé ripettu, iya pancajiyéngngi tappikkiri' dé' tapparellu Kristus (Lukas 18:9-14).</p><p>Bible-é napowadai sibawa manessa: <b>“Tau iya mateppe'é ri Aléna dé' narihukkung. Iyakiya tau iya dé'é namateppe' ri Ana'na Allataala purani rihukkung ri Allataala…”</b> (Yohanés 3:18). Pahukkungngé tenniya \"nilai atuwommu ri cappa'na,\" iyakiya purani ripatettong situru' <b>aga mutarima Kristus</b>.</p><p class='faq-v'>Roma 3:23 · Yohanés 3:18 · Éfésus 2:8-9 · Lukas 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Dé'ga nagenne' mancaji tau madécéng bawang, namuni dé' umateppe' ri Yésus?",
+  "faq.a2": "<p>Iyanaé pikkirang iya kaminang biyasaé, iyakiya salai pahangngi aga masala tongenna. Iyaé séddi pappakkita.</p><p><b>Pakkita-itai aléta engka ri lopi pabbajo-bajo'é.</b> Namuni mappékkugi mupettiti'i gélada'é, masémpo lao ri ana' guru lopié, sibawa malebbi atuwommu — <b>pabbajo-bajo' mupo</b>, nasaba ritiwiko silaong lopié lao ri akkattana (labuwang pahukkungngé). Masalaé tenniya \"nilai kédo\" iyakiya <b>\"lopi aga mutudangi\" (ataniyammu)</b>.</p><p>Rimakkuwannanaro Karéba Madécéng tenniya makkeda \"akkuat-uatiwi mancaji madécéng,\" iyakiya makkeda <b>\"appinra lopino.\"</b> Nono polé ri lopinna dosaé na lété lao ri Yésus — lao ri atanniyang baru selaku <b>ana'na Allataala</b>. Iyaé tenniya pénré'i nilaimu sibawa usaha, iyakiya tapperiwi Aléna iya mappallébangngé liman-Na na lété lao ri lopin-Na.</p><p>Tongenna Bible-é nabbéréyangngi passalama' selaku appinrangngéro: <b>“Puraki napaleppe' polé ri akuwasanna pettangngé sibawa napalétté'ki ri laleng akkarungenna Ana'-Na iya Namaséiyé”</b> (Kolosé 1:13).</p><p>Aja' musalai pahangngi: <b>tenniya bettuwanna dé' nagunana tuwo madécéng.</b> Iyakiya adécéngengngé tenniya \"saraka\" passalama', iyakiya <b>wassélé'na</b>. Tau iya purané appinra lopi tuwoni madécéng tenniya nasaba métau, iyakiya nasaba <b>pammasé selaku ana'</b>.</p><p class='faq-v'>Kolosé 1:13 · Yohanés 1:12 · Yohanés 3:3 · Éfésus 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Rékko pajjaé makkeda \"Puraka naddampengeng Allataala\" sibawa tuwo masennang na tau iya rikennaé tuli marasa, dé'ga namasého senna' iyaro addampengengngé?",
+  "faq.a3": "<p>Iyaro pakkutanaé sipato', sibawa peddiéro tongeng. Iyakiya ada-ada makkuwaéro tenniya \"addampengenna Bible-é\" iyakiya <b>appasalanna</b>.</p><p><b>① Addampengenna Allataala dé' naengka namasého.</b> Dosaé dé' nariwunge selaku \"dé' naengka kajajiyang\"; Allataala muto makkamajai sibawa atuwonna Ana'-Na. Salli'é tenniya bukti makkedaé dosaé riala maringeng, iyakiya makkedaé dosaé matane' senna' — addampengeng iya kaminang masuli'é ri linoé.</p><p><b>② Toba tongengngé pawwassélé'i.</b> Rékko pajjaé matempo ri yolona tau rikennaé — \"Puraka naddampengeng Allataala, jaji masennang-ka\" — iyaro tenniya toba iyakiya pappédda-pédda bawang (Matius 3:8). Na addampengeng pulana tauwé sibawa Allataala dé' nalennye'i loko'na tau rikennaé iyaré'ga passui aléna untu' maddampeng.</p><p><b>③ Dosaé dé' naengka nariwunge bawang.</b> Sininna dosaé riwajai ri séddié polé ri duwa onrong — <b>iyaré'ga napaddékéngngi Kristus ri salli'é</b> (untu' tau iya mateppe'é dé'na gaga pahukkung, Roma 8:1), <b>iyaré'ga napaddékéngngi alé-aléna tau iya tampikengngi lettu' ri cappa'na.</b> Jaji dé' gaga \"addampengeng iya masého.\" Pajjaéto mappunnai mupa tanggung jawa' ri yolona pangadelang ri linoéwé (Roma 13:1-4).</p><p><b>④ Uwai matanna tau rikennaé dé' naengka nabaiccu ri yolona Allataala.</b> Allataala teri silaong tau teriyé, naéngngerangngi tungke' uwai mata, sibawa ri cappa'na Aléna muto matu sussui (Pannessang 21:4). Rimakkuwannanaro tau rikennaéto dé' naperellu paddékéngngi tanggung makkabale alé-aléna, iyakiya wedding nappaddiyolowangngi lao ri Allataala iya adélé'é (Roma 12:19: “Iyya ritu makkabale'. Iyya maélo hukkungngi, adanna Puwangngé”).</p><p class='faq-v'>Matius 3:8 · Roma 8:1 · Roma 13:1-4 · Pannessang 21:4</p>",
+  "respond.h3": "Jaji — pékkugi iyya?",
+  "respond.sub": "Iyaé pammaséé tenniya pappaisseng iyakiya <b>obbiyang</b>. Rékko pammasé iya riloi selaku sulléku napédécéngiwi atimmu, assempajatto makkekkuwangngé sibawa malélé, simata séddi ada.",
+  "respond.prayer": "<p>Allataala,</p><p>uwakuiwi makkedaé iyya tau madosa iya dé'é uwulléi passalama'i aléku.</p><p>Mateppe'ka makkedaé Yésus maté ri salli'é untu' iyya sibawa tuwo paimeng.</p><p>Taddampengeng manengngi dosaku, sibawa mappammulai makkekkuwangngé mancajino Puwanna atuwoku.</p><p>Tarimaka selaku ana'-Mu, sibawa pataroka tuwo baru.</p><p class='amen'>Ri laleng aseng-Na Yésus assempajakka. Amin.</p>",
+  "respond.after": "Rékko muwassempajangngi iyaé sibawa tonget-tongeng, napowadai Bible-é makkedaé puraini mancaji <b>ana'na Allataala</b>. Dé'na muwalé-alé — sappa'i jamaa' ri seddému sibawa joppa silaong ri laleng atepperengngé.",
+  "respond.read": "Baca alému Bible-é — pammulai polé ri Yohanés",
+  "respond.verse": "“Namuni engkato tau tarimai sibawa mateppe' ri Aléna, nawéréngngi ha' mancaji ana' Allataala.” — Yohanés 1:12 · Roma 10:9-10",
+  "closing.main": "Séddi Allataala,<br>naolai séddi curita,<br>sappaki sibawa <em>pammasé</em><br>iya temmappésaué.",
+  "closing.verse": "“…muwi amaténgngé iyaré'ga atuwongngé… iyaré'ga agi-agi laingngé, iya manenna dé' naulléi pésangkaiwi Allataala mamaséiki, pada-pada iya pura Najjellokengngé naolai Kristus Yésus, Puwatta.” — Roma 8:38-39",
+  "closing.small": "Ri yasé'na iyaé curitaé, Hukkungngé, kitta éloé, sining nabié, sibawa sining sure'é natambaiwi \"jukuna.\"<br>Mappammulai makkekkuwangngé, agi-agi kitta mutimpa', muwissengngi \"kéga onroangngé ri laleng curitaé.\"",
+  "closing.share": "↗ Bagiwi iyaé curitaé",
+  "about.line": "Mappédécéngeng ri pakkitan <b>passalama'-curita (redemptive-historical), injili · Reformed</b> iya nabagiyé maégana jamaa' Protestan Koréaé.",
+  "about.contact": "Pakkutana · pappuji — <a id='contact' class='mail'>Kiringngi email lao ri idi</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ASSIJANCING LAMA · PAMMULA",
+   "title": "Pancajingngé",
+   "date": "Ri pammulanna",
+   "one": "Naébbui Allataala lino iya \"madécéng senna'.\"",
+   "people": "Allataala; Adam sibawa Hawa",
+   "events": "Enneng esso pancajingngé, rupa tauwé riébbu selaku gambara'na Allataala, esso appésaungeng Saba'é",
+   "q": "Pammulanna, wettunna Allataala mammula pancajiwi sininna alangngé,",
+   "cite": "Kajajiyang 1:1",
+   "christ": "Linoé riébbu naolai \"Saddaé.\" Karéba Madécénna Yohanés napannessai makkedaé iyaro Saddaé iyanaritu Yésus muto (Yohanés 1:1-3).",
+   "detail": "<p>Bible-é dé' napammulai sibawa appasséwalli filosofi iyakiya sibawa pannessang: <b>“Pammulanna, wettunna Allataala…”</b> Linoé tenniya kabetulang iyakiya jama-jamanna Allataala iya mappunnaié alé.</p><ul><li><b>Gambara'na Allataala</b> · polé ri sininna ripancajié, banna rupa tauwé riébbu pada-pada Allataala — untu' missengngi sibawa jagaiwi linoé.</li><li><b>Appésaungeng</b> · appésaungeng esso mapitué napannessai makkedaé sininna purani tepu sibawa adamengeng (shalom): \"madéceng.\"</li><li><b>Eden</b> · linoé ri yolona reppa, kéga Allataala sibawa rupa tauwé joppa silaong.</li></ul>",
+   "next": "Iyakiya iyaé atepurangngé majjampangeng maréppa…"
+  },
+  {
+   "tag": "ASSIJANCING LAMA · PAMMULANNA MASALAÉ",
+   "title": "Sempé'na",
+   "date": "Ri pammulanna",
+   "one": "Muttama'ni dosaé, na assisumpungeng rupa tauwé sibawa Allataala maté.",
+   "people": "Adam sibawa Hawa; ulaé (Sétang)",
+   "events": "Manréi buwa rilarangngé, ripassu polé ri Eden, poléna amaténg sibawa atosalireng",
+   "q": "Iko sibawa makkunraiéro tuli sibenciko matu… na iko muwokkoi matu amputuna mennang.”",
+   "cite": "Kajajiyang 3:15",
+   "christ": "Janci pammulanna Karéba Madécéng, iya riwérénna riccéu' tepu sempé'é: \"wija-wijanna makkunraié\" naancuru'i matu ulunna ulaé — iyanaritu Yésus (Kajajiyang 3:15; Roma 16:20; Galatia 4:4).",
+   "detail": "<p>Naolai temmatinulu untu' \"mancaji pada-pada Allataala,\" muttama'ni dosaé ri linoé. Wassélé'na tenniya bawang reppana séddi atoro' iyakiya <b>reppana assisumpungeng</b>.</p><ul><li><b>Assisumpungeng maréppa</b> · sibawa Allataala (massubbu), sibawa pada tauwé (assala-salang), sibawa alangngé (dorina sibawa atosalireng).</li><li><b>Amaténg</b> · pappakaingek \"matéko matu\" mancaji tongeng.</li><li><b>Kajajiyang 3:15</b> · iyakiya ri tengnga-tengngana pahukkungngé, janci passalama'é riwérénné riolo. Sining tau panritaé nasengngi <b>protoevangelium (Karéba Madécéng pammulanna)</b>.</li></ul>",
+   "next": "Makkekkuwangngé Allataala obbiwi séddi tau untu' mappammulai passalama'é…"
+  },
+  {
+   "tag": "ASSIJANCING LAMA · JANCI",
+   "title": "Néné-néné lamai",
+   "date": "± 2000 SM",
+   "one": "Majjanci Allataala lao ri Abraham: \"Mancajiko matu laleng barakka.\"",
+   "people": "Abraham · Ishak · Yakub · Yusuf",
+   "events": "Assijancing Abraham, riassijancing Ishak, seppulo duwa ana' worowanéna Yakub, Yusuf mancaji panguwasa ri Maséré",
+   "q": "Maélo-Ka mpérékko wija iya maégaé sibawa mancajiwi matu bangsa iya battowaé… angkammu mancaji matu barakka.",
+   "cite": "Kajajiyang 12:2-3",
+   "christ": "Janci makkedaé \"sininna bangsaé ribarakkaki\" tepu ri laleng Yésus, wija-wijanna Abraham (Galatia 3:16).",
+   "detail": "<p>Mappammulai Allataala pattepui masalana sininna rupa tauwé sibawa obbiwi séddi tau, <b>Abraham</b>. Ati-atinna iyanaritu <b>assijancing (janci)</b> — bangsa battowa, tana, sibawa \"barakka untu' sininna bangsaé.\"</p><ul><li><b>Ateppereng</b> · mateppe'i Abraham ri janci iya dé'é riita, na riang selaku adélékeng (Kajajiyang 15:6).</li><li><b>Ishak sibawa Yakub</b> · jancié lété lao ri wija ri munri; Yakub (Israél) ambo'na seppulo duwa sukué.</li><li><b>Yusuf</b> · ribalu' ri silessurenna iyakiya mancaji panguwasa — \"Allataala pinrai iyaro jaé mancaji adécéngeng\" (Kajajiyang 50:20).</li></ul>",
+   "next": "Tinrosiwi Yusuf, ana'-eppoé nonno lao ri Maséré — na mancaji ata…"
+  },
+  {
+   "tag": "ASSIJANCING LAMA · PASSALAMA'",
+   "title": "Assu polé Maséré sibawa Padang Kessi'",
+   "date": "± 1446 SM",
+   "one": "Napassalama'i Allataala bangsa iya riposata sibawa naébbui mancaji appunnangen-Na.",
+   "people": "Musa, Harun, Firaun",
+   "events": "Seppulo lasa, Paskah, malléttoi tasi' Cellaé, Seppulo Parénta ri Sinai, kémah suci, 40 taung ri padang kessi'é",
+   "q": "Utiwiko matu ri wanuwa iya Uwajjanciyangngé… iyya'na Puwang.”",
+   "cite": "Assu 6:7",
+   "christ": "Paskah — kéga dara bémbé'é napaléssoi amaténg — majjello' lao ri Yésus, \"bémbé' Paskahta,\" iya riloié untu' idi (1 Korintus 5:7).",
+   "detail": "<p>Passalama' kaminang battowana Assijancing Lama. Israél iya riolo riposataé ripaléppe' naolai akuwasanna Allataala sibawa riébbu mancaji <b>bangsa</b>-Na.</p><ul><li><b>Paskah</b> · bola iya ritandai dara bémbé' ri tange'na ripaléttoiwi amaténg — conto sininna assompereng ri munri.</li><li><b>Tasi' Cellaé</b> · passalama' wettunna lalengngé cappu; \"malléttoi\" mancaji tanrana pammula baru.</li><li><b>Assijancing Sinai</b> · naolai Parénta-é naissengngi mennang pékkugi tuwo selaku bangsana Allataala.</li><li><b>Kémah suci</b> · onrong suci iya weddingngé ripalété kéga Allataala monro ri tengnga-tengngana bangsa-Na — coba'na \"Immanuel.\"</li><li><b>40 taung</b> · temmatinulu pancajiyéngngi séddi wija mallaongruma ri padang kessi'é, iyakiya Allataala monro mata sibawa manna sibawa alliri ellung sibawa api.</li></ul>",
+   "next": "Tettong ri wirinna tana jancié, sadiyani muttama'…"
+  },
+  {
+   "tag": "ASSIJANCING LAMA · ONROANG",
+   "title": "Apparéntang sibawa Arung-ngarung",
+   "date": "± 1400–1050 SM",
+   "one": "Nalolongengngi mennang tanaé, iyakiya dé' arunna, tungke tau pogau'i éloriyé.",
+   "people": "Yosua; arung pada Gideon sibawa Simson; Rut",
+   "events": "Sempé'na Yériko, monroang ri Kanaan, lélénna dosa–pahukkung–passalama'",
+   "q": "Iyaro wettué dé'pa gaga arung ri Israélié. Tungke tau napogau'i aga iya nangga'é tongeng.",
+   "cite": "Arung-ngarung 21:25",
+   "christ": "Polé ri wijanna Rut polé Daud, na polé ri wijanna Daud polé Yésus (Matius 1). Muwi ri laleng aruttungengngé, wija-wijana Mésias tuli lélé.",
+   "detail": "<p>Ri yawana Yosua muttama'i mennang ri tana jancié, iyakiya rimunrinna monro masitta'i nallupaiwi Allataala. Arung-ngarung iyanaritu pakkulingenna iyaé léléngngé.</p><ul><li><b>Lélé manorang</b> · dosa → ripaccéo' → mangobbi → naparéllau arung → dosa paimeng. Tuli maccaja'.</li><li><b>Arung-ngarungngé</b> · Gideon, Simson, Débora — pappalessu sicampé', barani iyakiya maéga sala.</li><li><b>Rut</b> · tajang aturusengeng ri wettu mapettangngé; séddi makkunrai laing tana muttama' ri wijanna Daud (sibawa Yésus).</li></ul>",
+   "next": "Mangobbi'i ra'ya'é, \"Wérékki to arung!\"…"
+  },
+  {
+   "tag": "ASSIJANCING LAMA · WETTU MASUMANGE'",
+   "title": "Akkarungeng Marampé",
+   "date": "± 1050–930 SM",
+   "one": "Majjanci Allataala lao ri Daud: \"Akkarungemmu mattahang lettu' mannennungeng.\"",
+   "people": "Saul · Daud · Salomo",
+   "events": "Arung pammulanna Saul, Daud sibawa Goliat, assijancing Daud, naébbui Salomo bola sémpajang",
+   "q": "Tuli mappunnaiko matu wija-wijanna, sibawa Uwébbui matu akkarungemmu mattahang mannennungeng…",
+   "cite": "2 Samuel 7:16",
+   "christ": "\"Akkarungeng mannennungengngé\" tepu ri laleng Yésus, wija-wijana Daud — rimakkuwannanaro riyaseng \"Ana' Daud\" (Lukas 1:32-33; Matius 1:1).",
+   "detail": "<p>Wettu marampéna Israél, ri yawana tellu arung.</p><ul><li><b>Saul</b> · arung pammulanna iya naparéllaué ra'ya'é; pammula madécéng nasaba temmatinulu naritampikeng.</li><li><b>Daud</b> · \"tau situru' atinna Allataala.\" Nacaui Goliat sibawa naébbui Yérusalém mancaji kota raja. Pogau'i dosa battowa (Batsyeba) iyakiya toba'i polé ri atinna (Mazmur 51).</li><li><b>Assijancing Daud (2 Samuel 7)</b> · majjanci Allataala patettongngi akkarungenna Daud lettu' mannennungeng — ure' penting paddennuwang Mésias.</li><li><b>Salomo</b> · ri yasé'na apanréng sibawa asugireng naébbui <b>bola sémpajang</b> ri Yérusalém, iyakiya ri munri sempé' lao ri barahala.</li></ul>",
+   "next": "Rimunrinna Salomo, akkarungengngé mappuwé duwa…"
+  },
+  {
+   "tag": "ASSIJANCING LAMA · AKACCAJANG",
+   "title": "Akkarungeng Mappuwé",
+   "date": "930–586 SM",
+   "one": "Mappuwé lao ri yattang (Yéhuda) sibawa manorang (Israél), na asseddi-seddinna macaja'.",
+   "people": "Arung-ngarunna duwaé akkarungeng; nabi pada Elia, Yésaya, Yérémia",
+   "events": "Mappuwéna akkarungengngé, mallebbanna assompang barahala, pappakaingek sining nabié",
+   "q": "Mappammulai wettuéro ra'ya'é ri bagiyang manoranna akkarungeng Israélié tuli maronta'i lao ri arung-ngarung wija-wijanna Daud.",
+   "cite": "1 Arung 12:19",
+   "christ": "Ri laleng iyaé wettué, sining nabié napowadai Mésias iya laoé pédé manessa (Yésaya 9:6; Yésaya 53).",
+   "detail": "<p>Ri wettunna ana'na Salomo akkarungengngé mappuwé: <b>akkarungeng manorang Israél</b> (seppulo suku, kota Samaria) sibawa <b>akkarungeng yattang Yéhuda</b> (duwa suku, kota Yérusalém).</p><ul><li><b>Israél (manorang)</b> · sininna arunna massompa barahala; sempé' lao ri Asyur ri 722 SM.</li><li><b>Yéhuda (yattang)</b> · wija-wijanna Daud tuli lélé, sibawa siaga arung madécéng pada Hizkia sibawa Yosia, iyakiya asseddi-seddinna kéccé'.</li><li><b>Sining nabié</b> · Elia, Amos, Yésaya, Yérémia mangobbi \"lisuno!\" Botto'na pakkita mésians ri kuwaé (\"ata iya manrasa-rasaé\" ri Yésaya 53).</li></ul>",
+   "next": "Ri cappa'na polési pahukkung iya ripakaingekké — ripaccéo'i lao ri appalliyangngé…"
+  },
+  {
+   "tag": "ASSIJANCING LAMA · PAHUKKUNG",
+   "title": "Appalliyangngé",
+   "date": "722 / 586 SM",
+   "one": "Sempé'i akkarungengngé na ripaccéo' ra'ya'é lao ri tana laing.",
+   "people": "Daniél, Yéheskiél, Nebukadnezar",
+   "events": "Sempé' Israél lao ri Asyur (722); sempé' Yéhuda lao ri Babél na riancuru' bola sémpajangngé (586)",
+   "q": "Ri wirinna salo-salo Babél tudakki sibawa teri rékko riyéngngerangngi Sion.",
+   "cite": "Mazmur 137:1",
+   "christ": "Ri laleng amasérénna pésse atié Yérémia majjanci \"assijancing baru\" (Yérémia 31:31) — assijancing iya napatettongngé Yésus ri Anré Cappa'é.",
+   "detail": "<p>Pappakaingekngé mancaji tongeng. Mattunu bola sémpajangngé na ripaccéo' ra'ya'é lao ri Babél — nateddéngi tanaé, arungngé, sibawa bola sémpajangngé: onrong kaminang masaroé.</p><ul><li><b>Duwa sempé'</b> · Israél (Asyur, 722 SM) sibawa Yéhuda (Babél, 586 SM).</li><li><b>Daniél</b> · conto ateppereng muwi ri istana iya massompa barahalaé (kalebbong singaé); naitai pakkita \"akkarungeng mannennungeng\" iya laoé.</li><li><b>Cella' paddennuwang</b> · pakkitana buku iya tuwo paimeng (Yéheskiél 37) sibawa \"assijancing baru\" Yérémia majjello' lao ri munri ri laleng pettangngé.</li></ul>",
+   "next": "Pituppulo taung ri munri, timpa'i Allataala laleng — lisu'i mennang ri bola…"
+  },
+  {
+   "tag": "ASSIJANCING LAMA · APPÉDÉCÉNGENG",
+   "title": "Lisu polé Appalliyang",
+   "date": "538–430 SM",
+   "one": "Lisu'i mennang sibawa pébbu' paimengngi bola sémpajangngé sibawa benténgngé.",
+   "people": "Ezra, Néhémia, Éster, Zerubabél",
+   "events": "Lisu naolai parénta Korés, pébbu' paimeng bola sémpajangngé, pédécéngi bénténna Yérusalém, palisui Ada-adaé",
+   "q": "Asennangeng nawéréngngékko Puwangnge péwatangiko matu.”",
+   "cite": "Néhémia 8:10",
+   "christ": "Maléakhi, buku cappa'na Assijancing Lama, napaccappureng sibawa powadai séddi suro untu' passadiyai lalenna Mésias: \"Ukiringngi matu suro-Ku\" (Maléakhi 3:1).",
+   "detail": "<p>Naolai parénta arung Persia Korés (538 SM) mappammulai lisué. Ri laleng tellu sé'lo lisu'i mennang sibawa pébbu' paimengngi iya réppa'é.</p><ul><li><b>Zerubabél</b> · pébbu' paimengngi bola sémpajangngé (tepu 516 SM).</li><li><b>Ezra</b> · paggurui paimeng Ada-adaé sibawa palisui atepperengngé.</li><li><b>Néhémia</b> · pébbu' paimengngi bénténna Yérusalém ri laleng 52 esso.</li><li><b>Éster</b> · passalama'i to Yahudié ri Persia polé ri abinasang — \"untu' wettu pada-padaéwé.\"</li><li><b>Cinna iya tette'é</b> · tettongngi bola sémpajangngé, iyakiya dé' arung pada Daud. Tajengngi ra'ya'é Mésias.</li></ul>",
+   "next": "Na rimunrinna… pada-pada langi' iya mammekko'é, lalo 400 taung."
+  },
+  {
+   "tag": "TENGNGANNA ASSIJANCING · SADIYAI ONRONG",
+   "title": "Taung-taung Mammekko'é",
+   "date": "± 430–4 SM",
+   "one": "400 taung dé' saddanna nabi — iyakiya onrongngé risadiya sibawa mammekko'.",
+   "people": "Aléksander Battowaé, sining Makabé, Roma",
+   "events": "Persia → Yunani → amaradékang Makabé → apparéntang Roma",
+   "q": "Iyakiya ri wettunna iya teppa'é, nasuroi Allataala Ana'-Na lao ri linoé… rijajiyangngi riséddié makkunrai.",
+   "cite": "Galatia 4:4",
+   "christ": "Sininna iyaé \"assadiyang onrongngé\" iyanaritu jama-jamanna Allataala kuwammengngi napolé Yésus teppa' ri \"wettunna iya teppa'é.\"",
+   "detail": "<p>Polé ri Maléakhi lao ri Assijancing Baru, ± 400 taung lalo dé' Kitta baru. Iyakiya ri munrinna curitaé Allataala sadiyai lalenna mallebbanna Karéba Madécéng.</p><ul><li><b>Akkarungengngé mappinra liman</b> · Persia → Yunani (Aléksander, 333 SM) → Ptolemy sibawa Selukia → arontang Makabé (167 SM) → Roma (63 SM).</li><li><b>Basa Yunani</b> · acaukenna Aléksander pancajiwi basa Yunani basa biyasa; Assijancing Lama ribasa-Yunaniwi (Septuaginta), timpa'i laleng untu' mallebbanna masitta' Karéba Madécéngngé.</li><li><b>Laleng sibawa adaméngeng Roma</b> · laleng madécéng sibawa \"Pax Romana\" mancaji laleng untu' missi.</li><li><b>Sinagogé sibawa golongangngé</b> · appagguruang sinagogé tette'; mompo Farisi sibawa Saduki; na <b>tajenna Mésias</b> tasa'.</li></ul>",
+   "next": "Nainappa reppa amammekkongngé — ri cappa'na, polési."
+  },
+  {
+   "tag": "ASSIJANCING BARU · ATEPURANG",
+   "title": "Poléna Yésus",
+   "date": "± 4 SM–30 M",
+   "one": "Mésias iya rijanciyangngé polé, maté, sibawa tuwo paimeng.",
+   "people": "Yésus, seppulo duwa ana' guruna, Yohanés Pacceppu'é",
+   "events": "Mancaji rupa tau (Krismas), jama-jamana mappaggurué sibawa kajajiyang makalallaingngé, amaténg ri salli'é, tuwo paimeng ri esso matellunna",
+   "q": "Mancaji rupa tauni Saddaé, monroi ri yelle'ta, napurani riita arajan-Na… naolai Aléna nariita Allataala sibawa pammasé-Na lao ri idi.",
+   "cite": "Yohanés 1:14",
+   "christ": "Wija-wijanna makkunraié (mappakkita 2), barakkana Abraham (3), bémbé' Paskahé (4), arung mannennungenna Daud (6), assijancing baru (8) — sininna tepu ri séddié tau, Yésus: nabita tongeng, imang tongeng, sibawa arutta tongeng.",
+   "detail": "<p>Reppani amammekkongngé; polési iya Rijanciyangngé. Eppa Karéba Madécéngngé mabbéré asabbiyang passalenna atuwonna, amaténna, sibawa tuwo paimenna Yésus polé ri eppa onrong.</p><ul><li><b>Mancaji rupa tau</b> · Allataala mancaji rupa tau (Immanuel, \"Allataala ri seddéta\"), ri onrong mariyawana Bétléhém.</li><li><b>Jama-jama</b> · napaggurui Apparéntanna Allataala, napadécéngngi tau malasaé, naobbiwi tau madosaé. \"Tau iya puraé mita Iyya, puraé mitai Ambo'é.\"</li><li><b>Salli'é</b> · nawajai ri onrottaiwi waji dosa sibawa amaténg iya napoléna sempé'é (mappakkita 2). Bémbé' Paskah tongeng.</li><li><b>Tuwo paimeng</b> · tuwo paimeng ri esso matellunna, napettui akuwasanna dosa, amaténg, sibawa Sétang — ri salli' muto naébbui \"sininna roh-roh iya mapparéntaé sibawa makuwasaé mancaji dé'na pakkullénna… wettunna Kristus tinrosiwi mennang selaku tawangeng ri laleng barisi' apakalan-Na\" (Kolosé 2:15).</li></ul><p>Rimakkuwannanaro Yésus iyanaritu <b>nabita tongeng</b> (najjellokengngi lalenna lao ri Allataala), <b>imatta tongeng</b> (naolai watakkalé-Na muto naonrottaiwi dosaé), sibawa <b>arutta tongeng</b> (nacaui dosa, amaténg, sibawa Sétang sibawa mapparénta mannennungeng).</p>",
+   "next": "Yésus iya tuwoé paimeng nasuroi ana' guruna lao ri linoé…"
+  },
+  {
+   "tag": "ASSIJANCING BARU · MALLEBBANG",
+   "title": "Pammulanna Jamaa'é",
+   "date": "± 30 M–",
+   "one": "Polé Roh-é, na mallebbang Karéba Madécéngngé lao ri cappa'na linoé.",
+   "people": "Pétrus, Paulus, jamaa' riolo",
+   "events": "Riccuru Roh-é ri Péntakosta, jaji jamaa'é, mallebbanna Karéba Madécéng polé Yérusalém lao Roma ri laleng accéo'-céorengngé",
+   "q": "Iyakiya lolongekko matu kuwasa, rékko engkani ri iko Rohna Allataala… lettu ri cappa'na linoé'.”",
+   "cite": "Pappakédona Sininna Surié 1:8",
+   "christ": "Iyaé curitaé tuli lélé lettu makkekkuwangngé. Napaccappurengngi Bible-é sibawa janci makkedaé Yésus polé paimeng sibawa pancaji barui sininna (Pannessang 21).",
+   "detail": "<p>Rimunrinna ménré'na Yésus, polé Roh iya rijanciyangngé ri Péntakosta na jaji jamaa'é. Mallebbang masitta' Karéba Madécéngngé.</p><ul><li><b>Péntakosta</b> · naolai Roh-é ana' guru iya métaué mancaji sabbi barani.</li><li><b>Pétrus</b> · napabbéréyangngi Karéba Madécéng lao ri to Yahudié ri Yérusalém.</li><li><b>Paulus</b> · polé accéo'-céoreng mancaji rasul; mappatettong jamaa' ri sininna linona to laingngé sibawa moki sure'-sure'.</li><li><b>Lettu' ri cappa'na linoé</b> · Yérusalém → Yudéa → Samaria → Roma. Janci lao ri Abraham passalenna \"sininna bangsaé\" mancaji tongeng.</li><li><b>Na idi</b> · curitaé dé' nacappu; tuli lélé lao ri polé paimenna Yésus sibawa langi' baru sibawa lino baru.</li></ul>",
+   "next": "Iyakiya curitaé dé' nacappu kuwaé…"
+  },
+  {
+   "tag": "ASSIJANCING BARU · ATEPPURENG",
+   "title": "Appédécéngeng (sininna baru)",
+   "date": "Laoé matu",
+   "one": "Polé paimeng Yésus na pancaji barui sininna.",
+   "people": "Yésus iya laoé paimeng; sininna bangsaé",
+   "events": "Polé paimeng, pahukkung cappa', cappu'na dosa·amaténg·uwai mata, langi' baru sibawa lino baru",
+   "q": "Nasussui matu sininna uwai mata polé ri matanna. Dé'na gaga matu amaténg; atassinnaureng, teri, iyaré'ga muwi lasa dé'tona gaga.",
+   "cite": "Pannessang 21:4",
+   "christ": "Eden ri pancajing pammulanna ri cappa'na ripédécéngeng selaku \"Yérusalém Baru.\" Allataala monro silaong bangsa-Na mannennungeng — atepurang Immanuel (Pannessang 21:3; Matius 1:23).",
+   "detail": "<p>Bible-é dé' nacappu ri wettunna jamaa'é. Buku cappa'na, Pannessang, napannessai Yésus iya <b>polé paimengngé</b> untu' patepui sininna.</p><ul><li><b>Polé paimeng</b> · arung iya rijanciyangngé polé paimeng ri laleng arajang.</li><li><b>Apakalang cappa'</b> · Sétang sibawa amaténg riancuru' mannennungeng, na mapparénta Kristus selaku Arunna sininna arungngé (1 Korintus 15:25-26; Pannessang 20:10).</li><li><b>Pahukkung sibawa tuwo paimeng</b> · sininna gau' tessitinajaé ripédécéngeng, na tau matéé tuwo paimeng.</li><li><b>Langi' baru sibawa lino baru</b> · dosa, amaténg, uwai mata, sibawa pésse cappu mannennungeng (Pannessang 21:4).</li><li><b>Eden ripédécéngeng</b> · ri \"Yérusalém Baru\" iya lebbi madécéngngé naiya pammulanna, Allataala monro silaong bangsa-Na mannennungeng — akkattana iya nattujuiyé sininna Bible-é.</li></ul><p>Rimakkuwannanaro makkekkuwangngé iyanaritu wettu <b>\"purani, iyakiya dé'pa natepu\"</b>: ri laleng Yésus passalama'é <b>purani</b> ripakajaji, iyakiya atepurangna <b>tette'</b> mupa ritajeng.</p>",
+   "next": "Jaji, aga akkattana sininna iyaé curitaé untu' \"iyya\"?"
+  }
+ ],
+ "love": [
+  "Curitaé dé' napammulai sibawa pahukkung iyakiya sibawa pancajing iya napolé ri pammasé maluwa'.",
+  "Wettunna madosa rupa tauwé, majjanci Allataala passalama' kuwaro muto.",
+  "Allataala polé riolo lao ri tau iya dé'é nasipato', naobbiwi sibawa asenna, sibawa naébbui laleng barakka.",
+  "Naéngkalingai aréngngerenna bangsa riposata na nonno Aléna muto passalama'i.",
+  "Namuni rilémmu'i wékkang-wékkang, tungke' mangobbi nasuroi pappalessu na napaénré' paimeng.",
+  "Muwi Daud iya sempé'é dé' nasalai; naolai majjanci arung mannennungeng.",
+  "Lao ri bangsa iya mabbalé képpakké, tuli nasuroi nabi, marréllau, \"Lisuno.\"",
+  "Lao muto ri tana kaminang mapettanna appalliyangngé nono silaong sibawa majjanci appédécéngeng.",
+  "Muwi lao ri bangsa iya kéccé' wékkang-wékkang, dé' naalai paimeng jancin-Na.",
+  "Muwi ri laleng 400 taung mammekko'é, ri munri, sadiyai lalenna passalama'é.",
+  "Wettutta madosa mupa, nasuroi Ana'-Na untu' mabbéréyangngi atuwon-Na.",
+  "Pammasé iya tatarimaé, makkekkuwangngé nasuroi luangeng lao ri sininna linoé.",
+  "Ri cappa'na nasussui sininna uwai mata sibawa pancaji barui sininna ri laleng pammasé."
+ ],
+ "mis": [
+  {
+   "w": "\"Magi naébbu Allataala tau iya weddingngé madosa? Dé'ga namadécéng rékko dé' naébbuki?\"",
+   "t": "Naébbui Allataala linoé sibawa rupa tauwé tenniya nasaba akuranggang, iyakiya nasaba pammasé maluwa'. Naébbui rupa tauwé selaku <b>tau iya weddingngé assisumpung sibawa Allataala</b> iyatonaro pammasé. Na muwi muttama'na dosaé dé' napésangka polé ri rancana passalama'na Allataala (Éfésus 1:4-5). Mappakkita pammulanna Bible-é tenniya pahukkung iyakiya pammasé."
+  },
+  {
+   "w": "\"Ripassu sibawa riwéréng amaténg banna nasaba manré séddi buwa — dé'ga namatekkeng senna' Allataala?\"",
+   "t": "Ripassu polé ri Eden iyanaritu pahukkung sibawa pammasé. Rékko manréi pong atuwongngé na tuwo mannennungeng ri laleng dinhmunna iya réppa', mattajang ri puttanan sibawa nasalai Allataala, ritarakka'i matu ri laleng anrasa-rasang mannennungeng (Kajajiyang 3:22). Pappélluangngi amaténgngé timpa'i laleng lisu, na kuwaro muto majjanci Allataala Pappassalama' (Kajajiyang 3:15). Engkani pammasé ri laleng pahukkungngé."
+  },
+  {
+   "w": "\"Ripilé Abraham nasaba mappunnai ateppereng battowa — dé'ga sining tau ri laleng Bible-é pahlawang ahla'?\"",
+   "t": "Abraham bellé to, sibawa madduwa-duwa ati, na Yakub iyanaritu pabbelle. Allataala dé' naobbiwi \"tau iya sipato'é\" iyakiya naobbiwi sibawa pammasé tau iya maéga salaé. Saba'na ripilé tenniya nasaba adécéngenna iyakiya nasaba pammasé tette'na Allataala (Ulangan 7:7-8)."
+  },
+  {
+   "w": "\"Dé'ga na Hukkungngé (parénta-é) séddi paréssa iya harusu'é riluluseng untu' ripassalama'?\"",
+   "t": "Napassalama' manengngi Allataala <b>riccéu'</b> nawéréng Hukkung. Muwi Seppulo Paréntaé pammulai sibawa pannessang passalama': \"Iyya'na Puwang Allataalamu iya tiwiékko massu polé ri Maséré onrommu ripowata\" (Assu 20:2). Hukkungngé tenniya \"toro'i kuwammengngi ripassalama',\" iyakiya panrita pammasé passalenna pékkugi harusu' tuwo tau iya purané ripassalama' naolai pammasé (Ulangan 7:7-9). Pammaséé tuli riolo; aturu' iyanaritu pappébali."
+  },
+  {
+   "w": "\"Acaukenna Kanaan iyanaritu abbunowang temmamasé — jaji Allataalana Assijancing Lama tonget-tongeng matekkeng.\"",
+   "t": "Iyaé masala madoja iya dé'é naulléi ripettu ri séddi ada, sibawa parellu fimkhuru'. Iyakiya Bible-é tenniya napannessai selaku abbiyasang temmaorong iyakiya selaku pahukkung rimunrinna abbé-abbé taung sabbara' lao ri ja iya maladde'é (muwi assompereng ana'-ana') (Kajajiyang 15:16; Ulangan 9:4-5; Léwi 18:24-25). Allataala dé' namasitta' muwi ri pahukkung, na natarimai sibawa masennang tau iya lisué lao ri Aléna — muwi tau laing pada Rahab sibawa Rut (Yosua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "\"Daud iyanaritu pahlawang temmasala — rimakkuwannanaro riyaseng 'tau situru' atinna Allataala.'\"",
+   "t": "Daud pogau'i magau' sibawa muwi abbunowang. \"Tau situru' atinna Allataala\" tenniya bettuwanna temmasala, iyakiya tau iya dé'é nasubbui dosana — iya toba'é maladde' na tuli lisu lao ri Allataala (Mazmur 51). Pammaséna Allataala dé' nasalaiwi muwi tau iya sempé'é maladde'."
+  },
+  {
+   "w": "\"Nabié iyanaritu pakkita éloalo iya powadaéngngi laoé / Allataalana Assijancing Lama banna macai.\"",
+   "t": "Atinna nabié tenniya \"powadai laoé\" iyakiya aréllaung pésse atinna Allataala: \"Lisuno.\" Muwi pappakaingek pahukkung tenniya akkattana ancuru' iyakiya palisu tauwé sibawa passalama'i — \"dé' Umasennang rékko matéi tau majaé\" (Yéheskiél 33:11)."
+  },
+  {
+   "w": "\"Appalliyangngé pabuktiwi makkedaé nasalai sikenna Allataala Israél.\"",
+   "t": "Appalliyangngé tenniya assalang iyakiya appémmagang sibawa apaccingeng polé ri Ambo' lao ri ana' iya napojiyé (Ibrani 12:6). Dé' nasalai Allataala; engkai silaong Daniél ri laleng appalliyangngé na majjanci: \"Iyaro rancana-rancanaé tenniya untu' cilakaiko, iyakiya untu' asaléwangemmu sibawa untu' mpérékko wettu mangolo iya pennoé paddennuwang\" (Yérémia 29:11)."
+  },
+  null,
+  {
+   "w": "\"Rékko 400 taung dé' ada, jaji nasalai Allataala iyaré'ga mappésau.\"",
+   "t": "Amammekkongngé tenniya temmaengka. Banna dé' nabbicara, na ri laleng iyaro wettué sininna napalétté' akkarungeng, basa, sibawa laleng untu' sadiyai onrongna passalama'é. Ri wettu kaminang mammekko'é, jamai Allataala sibawa pammasé lebbi naiya temmaka (Galatia 4:4)."
+  },
+  {
+   "w": "\"Yésus banna séddi panrita ahla' madécéng / salli'é iyanaritu apakalang masaroé.\"",
+   "t": "Napowadai Yésus makkedaé Aléna Allataala (Yohanés 8:58), na salli'é tenniya kabetulang iyaré'ga apakalang iyakiya pammasé rirancana. Dé' naritarakka' sibawa apaksang; iyakiya naéloriwi muto mabbéréyangngi atuwon-Na (Yohanés 10:18). \"Tau iya kaminang mamaséiyéngngi sellao-sellaona iyanaritu tau iya mabbéréyangngi atuwonna untu' mennang\" (Yohanés 15:13)."
+  },
+  {
+   "w": "\"Jamaa'é iyanaritu kalompoang tau sukku', iyaré'ga banna bola.\"",
+   "t": "Jamaa'é tenniya kalompoang tau \"suci sukku'\" iyakiya kalompoang <b>tau madosa iya riaddampengngé</b>. Muwi rasul Paulus naseng aléna \"tau madosa iya kaminang majaé\" (1 Timotius 1:15). Jamaa' riolo madduwa-duwa ati to sibawa sempé' (Pappakédona Sininna Surié 6:1; 1 Korintus 1:11). Jamaa'é tenniya onrong untu' tampo, iyakiya tau iya palluangngéngngi pammasé iya natarimaé (Yohanés 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Dosa pammula — dé' séddi tau tongeng",
+   "body": "Masalaé tenniya \"siaga gau' maja\" iyakiya ure'na atié. Mappammulai ri Adam, sininna tauwé jaji ri yawana dosaé na dé' naulléi lao ri Allataala sibawa awatangenna muto.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Dé' muwi séddi tau tongeng, dé' muwi séddi tau pahangngi sibawa dé' muwi séddi tau sompai Allataala… Sininna tauwé madosani sibawa mabélai polé ri Allataala."
+  },
+  {
+   "title": "Hukkungngé dé' naulléi passalama'ka",
+   "body": "Hukkungngé tenniya addakkalang iyakiya cammeng. Lebbi muakkuat-uatiwi, lebbiwi napannessai pékkugi maladde'mu sala. Akkattana iyanaritu tiwiki lao ri Kristus.",
+   "vref": "Roma 3:20 · Galatia 3:24",
+   "vtext": "Iyaro hukkung-hukkungngé banna najjellokengngi lao ri rupa tauwé makkedaé madosai rupa tauwé… Hukkunna Agamaé mancajiwi selaku jennatta narapi polé ri Kristus."
+  },
+  {
+   "title": "Naolai pammasé — pabbéré, tenniya usaha",
+   "body": "Passalama'é tenniya saraka untu' jasa iya purané mulolongeng, iyakiya pabbéré pammasé untu' tau iya dé'é nasipato'. Rimakkuwannanaro dé' séddi tau wedding mattempo.",
+   "vref": "Éfésus 2:8-9",
+   "vtext": "Allataala mamaséiko, iyanaro saba'na napassalama'ko nasaba mateppe'ko lao ri Yésus… Jaji dé'gaga séddi tau mulléi mattempowangngi aléna."
+  },
+  {
+   "title": "Riang madécéng naolai ateppereng",
+   "body": "Tenniya naolai toro'i Hukkungngé, iyakiya naolai ateppereng ri Yésus Kristus, riangki madécéng — tenniya ripakénna adéléketta muto, iyakiya adéléken-Na.",
+   "vref": "Roma 5:1 · Galatia 2:16",
+   "vtext": "Makkekkuwangngé simadécéngenni paimeng sibawa Allataala, nasaba mateppe'ki… simadécéngengngi paimeng tauwé sibawa Allataala banna nasaba teppe' lao ri Yésus Kristus, sibawa tenniya nasaba pajoppai Hukkunna Agamaé."
+  },
+  {
+   "title": "Bible-é majjello' lao ri Yésus",
+   "body": "Bible-é tenniya buku passalenna tau battowaé iyaré'ga buku patulung-alé. Polé ri Kajajiyang lao ri Pannessang, tungke' lebbara' mabbéré asabbiyang lao ri séddié tau — Yésus Kristus.",
+   "vref": "Yohanés 5:39 · Lukas 24:27",
+   "vtext": "Na aléna iyaro Kitta'é mabbéré asabbiyang passalek-Ku… napakatajang Yésus lao ri mennang aga tarokié ri laleng sininna Kitta'é passalenna Aléna."
+  },
+  {
+   "title": "Apparéntanna Allataala — pabberé tongenna Yésus",
+   "body": "Tema iya kaminang napaggurué Yésus. Apparéntana Allataala selaku arung muttama' ri linoéwé sibawa Yésus na ripakatepu wettunna polé paimeng. Naolai salli' sibawa tuwo paimenna, Yésus iyanaritu arung tongeng iya cauiyéngngi dosa, amaténg, sibawa Sétang.",
+   "vref": "Markus 1:15",
+   "vtext": "Dé'na namaitta napammulaiwi Apparéntanna Allataala. Toba'no polé ri dosa-dosamu, sibawa mateppe'no ri Karéba Madécéng polé ri Allataala!"
+  },
+  {
+   "title": "Karéba Madécéng — Napatepu manengngi",
+   "body": "Waji dosa iya dé'é naulléi uwaja, naolai Yésus uwaja ri salli'é selaku sulléku, na naolai tuwo paimenna nacaui amaténg. Dé' usandara ri \"pogau'i iyaé\" iyakiya ri \"Tépuni.\"",
+   "vref": "Yohanés 19:30 · Roma 5:8",
+   "vtext": "Tépuni!… Allataala pannessai pammasé-Na lao ri idi wettunna Kristus maté untu' idi wettutta tau madosa mupa."
+  }
+ ],
+ "books": {
+  "Kajajiyang": "GEN",
+  "Assu": "EXO",
+  "Léwi": "LEV",
+  "Bilangang": "NUM",
+  "Ulangan": "DEU",
+  "Yosua": "JOS",
+  "Arung-ngarung": "JDG",
+  "Rut": "RUT",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Arung": "1KI",
+  "2 Arung": "2KI",
+  "Néhémia": "NEH",
+  "Mazmur": "PSA",
+  "Yésaya": "ISA",
+  "Yérémia": "JER",
+  "Yéheskiél": "EZK",
+  "Maléakhi": "MAL",
+  "Matius": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Yohanés": "JHN",
+  "Pappakédona Sininna Surié": "ACT",
+  "Roma": "ROM",
+  "1 Korintus": "1CO",
+  "Galatia": "GAL",
+  "Éfésus": "EPH",
+  "Kolosé": "COL",
+  "1 Timotius": "1TI",
+  "Ibrani": "HEB",
+  "Pannessang": "REV"
+ },
+ "yv": 2847,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
