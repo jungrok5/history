@@ -87,6 +87,11 @@ function parseChapterContent(contentHtml) {
     }
   }
   for (const k in verses) verses[k] = decodeEnt(verses[k]).replace(/\s+/g, ' ').trim();
+  // 합쳐진 절(merged verse, 예: data-usfm="EPH.2.8+EPH.2.9" — 동적 번역에서 8-9절을 한 단위로 묶음)을
+  //   각 구성 절(EPH.2.8 · EPH.2.9)로도 매핑해, 단일 절 요청도 그 묶음 본문을 verbatim 으로 받게 한다.
+  for (const k of Object.keys(verses)) {
+    if (k.includes('+')) for (const part of k.split('+')) if (!verses[part]) verses[part] = verses[k];
+  }
   return verses;
 }
 const chapCache = new Map();

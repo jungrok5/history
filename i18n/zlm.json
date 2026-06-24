@@ -1,0 +1,420 @@
+{
+ "menuName": "Bahasa Melayu",
+ "htmlLang": "zlm",
+ "dir": "ltr",
+ "brand": "Alkitab Sepintas Lalu",
+ "docTitle": "Alkitab Sepintas Lalu · Daripada penciptaan sehingga gereja",
+ "share": {
+  "title": "Alkitab Sepintas Lalu",
+  "text": "Dalam satu gulungan, temukan kisah besar Alkitab — dan mengapa Yesus datang."
+ },
+ "ui": {
+  "people": "Tokoh",
+  "events": "Peristiwa penting",
+  "christLabel": "Menunjuk kepada Yesus",
+  "loveLabel": "Kasih yang tidak menyerah",
+  "mythWrong": "Salah faham lazim",
+  "mythRight": "Sebenarnya",
+  "more": "Baca selanjutnya",
+  "version": "BM"
+ },
+ "labels": {
+  "start": "Mula",
+  "thread": "Alur",
+  "gospel": "Berita Baik",
+  "about": "Tentang"
+ },
+ "s": {
+  "ui.share": "↗ Kongsi",
+  "ui.toast": "Pautan disalin 📋",
+  "ui.footer": "Alkitab Sepintas Lalu · Petikan Alkitab daripada Alkitab Berita Baik (BM)",
+  "hero.kicker": "Daripada penciptaan sehingga gereja",
+  "hero.title": "Alkitab,<br><span class='em'>sepintas lalu</span>",
+  "hero.sub": "Dalam satu gulungan, temukan kisah besar Alkitab — dan mengapa Yesus datang.",
+  "hero.cue": "Tatal ke bawah<span>↓</span>",
+  "thread.eyebrow": "Satu ayat yang menjalin seluruh Alkitab",
+  "thread.h2": "Pada akhirnya, Alkitab ialah satu kisah",
+  "thread.flow": "<b>Janji</b><span class='arw'>→</span><b>Penantian</b><span class='arw'>→</span><b>Penggenapan</b>",
+  "thread.note": "Allah <b>berjanji</b> (perjanjian), umat <b>menanti</b> lama, dan akhirnya semuanya <b>digenapi</b> serta disempurnakan dalam Yesus. Ikuti 13 babak berikut melalui benang ini. Tekan <b>«Baca selanjutnya»</b> pada setiap kad untuk kisah yang lebih mendalam.",
+  "gospel.eyebrow": "Apa erti kisah ini bagi «aku»",
+  "gospel.h2": "Inti sebenar Alkitab",
+  "gospel.lead": "Alkitab <b>bukan buku panduan moral yang berkata «jadilah orang baik».</b>",
+  "gospel.sublead": "Ini kisah bagaimana Allah, <b>hanya kerana rahmat</b>, menyelamatkan orang berdosa yang tidak mampu menyelamatkan diri sendiri. Di pusatnya ada Yesus Kristus.",
+  "gospel.mirror": "<h3>Kitaran tanpa henti Israel sebenarnya potret «aku»</h3><div class='cycle'><b>Penyembahan berhala</b><span class='a'>→</span><b>Penderitaan</b><span class='a'>→</span><b>Seruan</b><span class='a'>→</span><b>Allah menyelamatkan</b><span class='a'>→</span><b>berhala lagi…</b></div><p>Daripada zaman hakim sehingga pembuangan, Israel mengulangi kitaran ini tanpa henti. Alkitab menuliskannya bukan supaya kita mengejek «betapa hinanya mereka».</p><p>Ini sebuah <b>cermin</b>. Bukan soal «Israel begitu», sebaliknya supaya kita nampak bahawa <b>«aku pun begitu»</b> (1 Korintus 10:11).</p><p>Sebuah <b>berhala</b> bukan hanya patung kayu. Itu ialah <b>segala sesuatu yang kita kasihi atau percayai melebihi Allah</b> — wang, kejayaan, pengiktirafan, manusia, malah diriku sendiri. Dan menjadikan Allah sebagai <b>alat untuk memenuhi keinginanku</b> juga penyembahan berhala.</p><p class='punch'>Pada akhirnya, berhala yang paling dalam ialah «diriku sendiri yang duduk di takhta Allah».</p>",
+  "gospel.coreIntro": "Jadi, bagaimanakah Allah menyelamatkan orang berdosa sebegini? Inilah inti Berita Baik yang diisytiharkan oleh Alkitab.",
+  "gospel.crux": "<p class='crux-lead'>Seluruh Alkitab menunjuk kepada satu tempat.</p><p>Manusia tidak mampu memutuskan sendiri kitaran dosa, dan tiada seorang pun yang benar. Maka seseorang terpaksa <b>membayar harganya menggantikan kita</b>.</p><p>Yesus datang bukan sekadar untuk memberi ajaran yang baik. Kerana <b>tiada jalan lain untuk menyelamatkan aku</b>, Dia terpaksa datang.</p><p class='crux-punch'>Yang sepatutnya tergantung di salib itu adalah <b>aku</b>.<br>Yesus memikul <b>dosaku</b> dan dipakukan di sana menggantikan aku.</p><div class='crux-verse'>«Tetapi dia dilukai kerana dosa kita, dia diseksa kerana perbuatan jahat kita… kita disembuhkan kerana luka-lukanya.» — Yesaya 53:5</div>",
+  "faq.h": "Mungkin masih ada yang mengganjal di hatimu?",
+  "faq.q1": "<span class='arr'>▸</span> Jadi seorang pembunuh yang percaya masuk syurga, sedangkan orang yang seumur hidup baik tetapi tidak percaya masuk neraka?",
+  "faq.a1": "<p>Soalan yang munasabah. Namun di dalamnya tersembunyi dua salah faham.</p><p><b>① Alkitab tidak membahagikan manusia kepada «baik» dan «jahat».</b> Ukurannya bukan «lebih baik daripada jiran», sebaliknya «kekudusan Allah yang sempurna». Di hadapan-Nya, tiada seorang pun «cukup baik» (Roma 3:23). Maka ini bukan «orang baik lawan pembunuh», sebaliknya lebih seperti dua orang yang menghidap penyakit maut yang sama — seorang menerima ubatnya, seorang lagi menolaknya sambil berkata «aku lebih sihat daripada dia».</p><p><b>② Yang memisahkan syurga dan neraka hanya satu perkara.</b> Bukan markah perbuatan, sebaliknya <b>sama ada engkau telah menerima Yesus Kristus sebagai Tuhan dan masalah dosamu telah diselesaikan.</b> Orang yang dosanya diselesaikan oleh darah Kristus masuk syurga; orang yang tidak pernah menerima-Nya, yang dosanya kekal, tidak. Sebaik mana pun perbuatan, ia tidak dapat menyelesaikan masalah dosa itu sendiri.</p><p>Jadi syurga dan neraka bukan «hadiah atas kelakuan baik», sebaliknya soal <b>hubungan dengan Kristus</b>. Dan «percaya» bukan persetujuan di kepala, sebaliknya pertukaran sesiapa yang memerintah hidupmu — sesiapa yang sungguh-sungguh menerima-Nya tidak menjadi sombong, sebaliknya bertaubat dengan paling mendalam. Sebenarnya, kebenaran diri sendiri («aku orang baik») ialah berhala yang paling sukar dihancurkan, yang membuat kita berfikir kita tidak memerlukan Kristus (Lukas 18:9-14).</p><p>Alkitab berkata dengan jelas: <b>«Sesiapa yang percaya kepada Anak itu tidak dihukum, tetapi sesiapa yang tidak percaya sudah dihukum»</b> (Yohanes 3:18). Penghakiman bukan «menilai perbuatanmu selepas engkau mati», sebaliknya sudah ditentukan oleh <b>sama ada engkau menerima Kristus</b>.</p><p class='faq-v'>Roma 3:23 · Yohanes 3:18 · Efesus 2:8-9 · Lukas 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Bukankah cukup dengan hidup baik sahaja, walaupun tidak percaya kepada Yesus?",
+  "faq.a2": "<p>Itulah pemikiran yang paling lazim, tetapi ia salah faham tentang apa masalah yang sebenar. Mari gunakan satu gambaran.</p><p><b>Bayangkan engkau berada di atas kapal lanun.</b> Sebersih mana pun engkau menggosok geladak, semesra mana pun engkau dengan anak kapal, secontoh mana pun hidupmu — engkau tetap seorang <b>lanun</b>, kerana kapal membawamu bersama ke destinasinya (pelabuhan penghakiman). Masalahnya bukan «markah perbuatanmu», sebaliknya <b>«kepunyaan kapal yang mana engkau ini» (jati dirimu)</b>.</p><p>Oleh itu Berita Baik tidak berkata «berusahalah lebih untuk jadi baik»; ia berkata <b>«tukarlah kapal».</b> Turunlah daripada kapal dosa dan menyeberanglah kepada Yesus — ke dalam jati diri baru sebagai <b>anak Allah</b>. Ini bukan menaikkan markahmu dengan usaha, sebaliknya mempercayai Dia yang menghulurkan tangan dan menyeberang ke kapal-Nya.</p><p>Sebenarnya Alkitab melukiskan keselamatan tepat sebagai pemindahan ini — <b>«Allah sudah menyelamatkan kita daripada kuasa kegelapan, dan memindahkan kita ke bawah pemerintahan Anak-Nya yang dikasihi-Nya»</b> (Kolose 1:13).</p><p>Jangan salah faham: <b>ini tidak bermakna hidup baik itu tidak berguna.</b> Kebaikan bukan «syarat» keselamatan, sebaliknya <b>buahnya</b>. Sesiapa yang sudah bertukar kapal kini hidup baik bukan kerana takut, sebaliknya kerana kasih seorang anak.</p><p class='faq-v'>Kolose 1:13 · Yohanes 1:12 · Yohanes 3:3 · Efesus 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Jika pelaku berasa tenang sambil berkata «Allah sudah mengampuni aku», sedangkan mangsa masih menderita — bukankah rahmat itu terlalu murah?",
+  "faq.a3": "<p>Soalan itu adil, dan kesakitan itu nyata. Namun dakwaan seperti itu bukanlah «pengampunan Alkitab» — ia <b>penyelewengan</b> daripadanya.</p><p><b>① Pengampunan Allah tidak pernah murah.</b> Dosa tidak disapu ke bawah permaidani seolah-olah ia tidak pernah berlaku; Allah sendiri membayar harganya dengan nyawa Anak-Nya. Salib bukan bukti dosa dipandang ringan, sebaliknya bukti betapa beratnya dosa — pengampunan yang paling mahal di dunia.</p><p><b>② Pertaubatan sejati menghasilkan buah.</b> Jika pelaku bersikap tenang di hadapan mangsa — «Allah sudah mengampuni aku, jadi aku tenang» — itu bukan pertaubatan, sebaliknya peniruannya (Matius 3:8). Dan pengampunan antara seseorang dengan Allah tidak menghapus luka mangsa atau memaksa mangsa untuk mengampuni.</p><p><b>③ Dosa tidak pernah sekadar «dibiarkan begitu sahaja».</b> Setiap dosa dibayar di salah satu daripada dua tempat — <b>sama ada Kristus memikulnya di salib</b> (bagi mereka yang percaya kepada-Nya tiada lagi penghukuman, Roma 8:1), <b>atau orang yang akhirnya menolak-Nya memikulnya sendiri.</b> Maka tiada «pengampunan murahan». Pelaku juga tetap menanggung tanggungjawab di sisi undang-undang dunia ini (Roma 13:1-4).</p><p><b>④ Air mata mangsa tidak pernah kecil di hadapan Allah.</b> Allah menangis bersama mereka yang menangis, mengingati setiap titis air mata, dan pada akhirnya akan menyapunya sendiri (Wahyu 21:4). Maka mangsa tidak perlu memikul sendiri beban pembalasan, sebaliknya boleh menyerahkannya kepada Allah yang adil (Roma 12:19 — «Aku akan membalas kejahatan mereka. Aku akan menghukum mereka, firman Tuhan»).</p><p class='faq-v'>Matius 3:8 · Roma 8:1 · Roma 13:1-4 · Wahyu 21:4</p>",
+  "faq.q4": "<span class='arr'>▸</span> Adakah Alkitab benar-benar kisah yang nyata? Ia terasa seperti mitos lama atau sebuah novel.",
+  "faq.a4": "<p>Itu soalan yang munasabah — dan tempat yang baik untuk bermula. Keraguan bukan lawan iman, sebaliknya keinginan untuk memeriksa sesuatu dengan jujur. Alkitab bukan mitos samar untuk «dipercayai jika rasa hati ingin», sebaliknya catatan yang ditulis di atas <b>tempat, tarikh, dan orang yang nyata</b>. Beberapa contoh sahaja.</p><p><b>① Ia bukan satu buku, sebaliknya sebuah «perpustakaan» — namun mengalir pada satu tema.</b> Alkitab ialah himpunan <b>66 kitab</b> yang ditulis selama kira-kira <b>1,500 tahun oleh sekitar 40 penulis</b> — raja, gembala, nelayan, seorang pemungut cukai, seorang tabib, orang daripada pelbagai kedudukan dan zaman, yang menulis secara berasingan dan tidak saling mengenali, dalam tiga bahasa (Ibrani, Aram, Yunani). Namun semuanya menyatu, tanpa kekacauan, pada <b>satu tema: keselamatan melalui Kristus</b>. Itu satu keselarasan yang sukar dijelaskan sebagai kebetulan atau hasil penyelarasan manusia.</p><p><b>② Ia terus disahkan daripada tanah (arkeologi).</b> Banyak perkara yang dahulu ditolak sebagai rekaan, «hanya terdapat dalam Alkitab», kemudian disahkan oleh penggalian. <b>Dinasti Daud</b> melalui sebuah batu yang bertulis «keluarga Daud» (Prasasti Tel Dan); <b>Pontius Pilatus</b>, gabenor yang menghukum mati Yesus, melalui sebuah prasasti yang memuat namanya; terowong air Raja Hizkia (2 Raja-raja 20:20) melalui terowong itu sendiri dan prasastinya. Malah <b>bangsa Het</b>, yang dahulu disebut «bangsa khayalan», muncul sebagai sebuah empayar besar di runtuhan.</p><p><b>③ Ia dokumen purba yang paling terpelihara (manuskrip).</b> Dari segi bilangan manuskrip yang masih ada, kesepadanannya antara satu sama lain, dan jurang masa antara penulisan dan salinan, Alkitab <b>tiada tandingan antara dokumen purba</b>. Gulungan Yesaya dari sebelum zaman Kristus dalam <b>Gulungan Laut Mati</b> (ditemui pada 1947) sepadan dengan teks baku kira-kira 1,000 tahun kemudian hampir huruf demi huruf — bukti bahawa Alkitab terpelihara dengan tepat sepanjang zaman.</p><p><b>④ Perkara yang ditulis lebih awal berlaku tepat begitu (nubuat).</b> Perjanjian Lama, yang dicatat berabad-abad sebelum Yesus, menunjuk secara khusus kepada kelahiran-Nya di Betlehem (Mikha 5:2), hamba yang menderita (Yesaya 53:5), dan keadaan di kayu salib (Mazmur 22). Terlalu tepat untuk ditolak sebagai kebetulan.</p><p><b>⑤ Para sejarawan di luar Alkitab turut mencatatnya.</b> Sejarawan Rom <b>Tacitus</b> dan sejarawan Yahudi <b>Josephus</b> — kedua-duanya bukan Kristian — menyebut Yesus, hukuman mati-Nya, dan gereja mula-mula. Yang terutama, para murid yang tadinya bertempiaran kerana ketakutan <b>mempertaruhkan nyawa mereka</b> bersaksi tentang kebangkitan — tiada sesiapa mati demi sesuatu yang mereka tahu itu dusta.</p><p>Namun, untuk berlaku jujur, dasar-dasar ini menunjukkan bahawa mempercayai Alkitab itu <b>bukan tidak munasabah, sebaliknya munasabah</b>; semuanya itu bukan «bukti» yang memaksa seperti rumus matematik. Maka keyakinan seorang Kristian datang bukan daripada bukti semata-mata, sebaliknya daripada <b>keyakinan yang diberikan Roh Kudus kepada hati ketika seseorang membaca Firman</b>. Alkitab berkata — <b>«Oleh itu orang dapat percaya kerana mendengar perkhabaran itu, dan orang dapat mendengar perkhabaran itu kerana ada orang yang memberitakan Kristus»</b> (Roma 10:17). Jadi, walau bagaimana fiksyennya ia terasa, <b>membacanya sendiri</b> ialah permulaannya. Bukti membuka pintu, dan keyakinan bertumbuh di dalam diri orang yang membaca.</p><p class='faq-v'>2 Raja-raja 20:20 · Yesaya 53:5 · Mikha 5:2 · Roma 10:17</p>",
+  "respond.h3": "Jadi — bagaimana dengan aku?",
+  "respond.sub": "Kasih ini bukan maklumat, sebaliknya satu <b>jemputan</b>. Jika kasih yang dipakukan menggantikan engkau itu telah menyentuh hatimu, doakanlah doa ini perlahan-lahan, satu baris pada satu masa.",
+  "respond.prayer": "<p>Ya Allah,</p><p>aku mengaku bahawa aku orang berdosa yang tidak dapat menyelamatkan diri sendiri.</p><p>Aku percaya Yesus mati di salib bagiku dan bangkit semula.</p><p>Ampunilah segala dosaku, dan mulai sekarang jadilah Tuhan atas hidupku.</p><p>Terimalah aku sebagai anak-Mu, dan biarlah aku hidup baru.</p><p class='amen'>Dalam nama Yesus aku berdoa. Amin.</p>",
+  "respond.after": "Jika engkau mendoakannya dengan tulus, Alkitab berkata engkau telah <b>menjadi anak Allah</b>. Engkau tidak lagi keseorangan — carilah gereja berdekatan dan tempuhlah jalan iman bersama-sama.",
+  "respond.read": "Bacalah Alkitab sendiri — mulakan dengan Yohanes",
+  "respond.verse": "«Tetapi kepada mereka yang menyambut Dia dan percaya kepada-Nya, mereka diberikan-Nya hak menjadi anak Allah.» — Yohanes 1:12 · Roma 10:9-10",
+  "closing.main": "Satu Allah,<br>melalui satu kisah,<br>memburu kita dengan<br><em>kasih</em> yang tidak pernah menyerah.",
+  "closing.verse": "«Baik kematian mahupun kehidupan… baik hal-hal yang di langit mahupun yang di bumi — tidak ada sesuatu pun di alam semesta yang dapat menghalang Allah mengasihi kita, seperti yang sudah ditunjukkan-Nya melalui Kristus Yesus, Tuhan kita!» — Roma 8:38-39",
+  "closing.small": "Di atas alur ini, Taurat, kitab puisi, para nabi, dan surat-surat menambahkan «daging».<br>Mulai sekarang, kitab mana pun yang kaubuka, engkau akan nampak di bahagian mana kisah ini engkau berada.",
+  "closing.share": "↗ Kongsi kisah ini",
+  "about.line": "Berdasarkan pandangan sejarah penebusan yang dikongsi oleh majoriti gereja Protestan Korea (injili · Reformed).",
+  "about.contact": "Pertanyaan · maklum balas — <a id='contact' class='mail'>E-mel kami</a>"
+ },
+ "epochs": [
+  {
+   "tag": "PERJANJIAN LAMA · PERMULAAN",
+   "title": "Penciptaan",
+   "date": "Pada mulanya",
+   "one": "Allah menjadikan dunia yang «sungguh baik».",
+   "people": "Allah; Adam dan Hawa",
+   "events": "Enam hari penciptaan, manusia dijadikan menurut gambar Allah, hari perhentian Sabat",
+   "q": "Pada mulanya, ketika Allah mula menciptakan alam semesta,",
+   "cite": "Kejadian 1:1",
+   "christ": "Dunia dijadikan melalui «Firman». Injil Yohanes mengisytiharkan bahawa Firman itu ialah Yesus sendiri (Yohanes 1:1-3).",
+   "detail": "<p>Alkitab tidak dibuka dengan hujah falsafah, sebaliknya dengan satu pengisytiharan: <b>«Pada mulanya, Allah…»</b> Dunia bukan kebetulan, sebaliknya hasil kerja Allah yang berperibadi.</p><ul><li><b>Gambar Allah</b> · daripada segala makhluk, hanya manusia dijadikan menyerupai Allah — untuk mengenali-Nya dan memelihara dunia.</li><li><b>Perhentian</b> · perhentian pada hari ketujuh menunjukkan segalanya lengkap dan sejahtera (syalom): «ia baik».</li><li><b>Eden</b> · dunia sebelum ia rosak, tempat Allah dan manusia berjalan bersama.</li></ul>",
+   "next": "Tetapi kesempurnaan ini akan segera hancur…"
+  },
+  {
+   "tag": "PERJANJIAN LAMA · MASALAH BERMULA",
+   "title": "Kejatuhan",
+   "date": "Pada mulanya",
+   "one": "Dosa masuk, dan ikatan antara manusia dan Allah terputus.",
+   "people": "Adam dan Hawa; ular (Iblis)",
+   "events": "Memakan buah larangan, dibuang dari Eden, kedatangan kematian dan jerih payah",
+   "q": "Keturunannya dan keturunanmu akan sentiasa bermusuhan. Keturunannya akan meremukkan kepalamu…",
+   "cite": "Kejadian 3:15",
+   "christ": "Janji Berita Baik yang pertama, diberikan tepat selepas Kejatuhan: «keturunan perempuan» itu akan meremukkan kepala ular — dan itulah Yesus (Kejadian 3:15; Roma 16:20; Galatia 4:4).",
+   "detail": "<p>Melalui ketidaktaatan yang ingin «menjadi seperti Allah», dosa masuk ke dalam dunia. Akibatnya bukan sekadar peraturan yang dilanggar, sebaliknya <b>hubungan yang terputus</b>.</p><ul><li><b>Ikatan terputus</b> · dengan Allah (bersembunyi), antara satu sama lain (saling menyalahkan), dengan alam (duri dan jerih payah).</li><li><b>Kematian</b> · amaran «engkau pasti akan mati» menjadi kenyataan.</li><li><b>Kejadian 3:15</b> · namun di tengah-tengah penghakiman, janji penyelamatan diberikan dahulu. Para sarjana menamakannya <b>protoevangelium (Berita Baik yang pertama)</b>.</li></ul>",
+   "next": "Kini Allah memanggil seorang lelaki untuk memulakan penyelamatan…"
+  },
+  {
+   "tag": "PERJANJIAN LAMA · JANJI",
+   "title": "Para Bapa Leluhur",
+   "date": "kira-kira 2000 SM",
+   "one": "Allah berjanji kepada Abraham, «Engkau akan menjadi saluran berkat».",
+   "people": "Abraham · Ishak · Yakub · Yusuf",
+   "events": "Perjanjian dengan Abraham, pengorbanan Ishak, dua belas anak Yakub, Yusuf naik berkuasa di Mesir",
+   "q": "Aku akan memberi engkau keturunan yang banyak dan mereka akan menjadi satu bangsa yang besar… Melalui engkau, Aku akan memberkati semua bangsa di bumi.",
+   "cite": "Kejadian 12:2-3",
+   "christ": "Janji bahawa «semua bangsa akan diberkati» digenapi dalam Yesus, keturunan Abraham (Galatia 3:16).",
+   "detail": "<p>Allah mula menangani masalah seluruh umat manusia dengan memanggil seorang lelaki, <b>Abraham</b>. Intinya ialah <b>perjanjian (janji)</b> — satu bangsa yang besar, tanah, dan «berkat bagi semua bangsa».</p><ul><li><b>Iman</b> · Abraham mempercayai janji yang tidak kelihatan, dan hal itu diperhitungkan kepadanya sebagai kebenaran (Kejadian 15:6).</li><li><b>Ishak & Yakub</b> · janji itu diturunkan; Yakub (Israel) menjadi bapa kepada dua belas suku.</li><li><b>Yusuf</b> · dijual oleh saudara-saudaranya namun dinaikkan berkuasa — «Allah mengubah kejahatan itu menjadi kebaikan» (Kejadian 50:20).</li></ul>",
+   "next": "Mengikut Yusuf, keluarga itu turun ke Mesir — dan menjadi hamba…"
+  },
+  {
+   "tag": "PERJANJIAN LAMA · PENEBUSAN",
+   "title": "Keluaran & Padang Gurun",
+   "date": "kira-kira 1446 SM",
+   "one": "Allah menyelamatkan umat yang menjadi hamba dan menjadikan mereka milik-Nya.",
+   "people": "Musa, Harun, Firaun",
+   "events": "Sepuluh bencana, Paska, menyeberangi Laut Merah, Sepuluh Hukum di Sinai, Khemah Suci, 40 tahun di padang gurun",
+   "q": "Aku akan membawa kamu masuk ke negeri yang telah Aku janjikan… Akulah TUHAN.",
+   "cite": "Keluaran 6:7",
+   "christ": "Paska — tempat darah anak domba menjauhkan kematian — menunjuk kepada Yesus, «anak domba Paska kita», yang disalibkan bagi kita (1 Korintus 5:7).",
+   "detail": "<p>Penyelamatan terbesar dalam Perjanjian Lama. Israel yang dahulunya menjadi hamba dibebaskan oleh kuasa Allah dan dibentuk menjadi <b>umat</b>-Nya.</p><ul><li><b>Paska</b> · rumah yang ditandai darah anak domba dilangkau oleh kematian — corak di sebalik setiap korban kemudian.</li><li><b>Laut Merah</b> · keselamatan ketika jalan sudah buntu; «menyeberang» menjadi lambang permulaan baru.</li><li><b>Perjanjian Sinai</b> · melalui Hukum, mereka belajar cara hidup sebagai umat Allah.</li><li><b>Khemah Suci</b> · tempat kudus mudah alih tempat Allah tinggal di tengah-tengah umat-Nya — bayangan awal «Imanuel».</li><li><b>40 tahun</b> · ketidaktaatan membuat satu generasi mengembara, namun Allah tetap dekat dengan manna dan tiang awan serta api.</li></ul>",
+   "next": "Berdiri di pinggir tanah perjanjian, mereka bersiap untuk masuk…"
+  },
+  {
+   "tag": "PERJANJIAN LAMA · PENEMPATAN",
+   "title": "Penaklukan & Hakim-hakim",
+   "date": "kira-kira 1400–1050 SM",
+   "one": "Mereka memperoleh tanah itu, tetapi tanpa raja setiap orang berbuat sesuka hati.",
+   "people": "Yosua; hakim seperti Gideon dan Simson; Rut",
+   "events": "Kejatuhan Yerikho, menetap di Kanaan, kitaran berulang dosa–penghakiman–penyelamatan",
+   "q": "Pada zaman itu umat Israel belum mempunyai raja. Tiap-tiap orang melakukan apa yang dianggapnya benar.",
+   "cite": "Hakim-hakim 21:25",
+   "christ": "Daripada keturunan Rut datanglah Daud, dan daripada keturunan Daud datanglah Yesus (Matius 1). Walaupun dalam kekacauan, salasilah Mesias tetap berterusan.",
+   "detail": "<p>Di bawah Yosua mereka masuk ke tanah perjanjian, tetapi selepas menetap mereka cepat melupakan Allah. Kitab Hakim-hakim ialah corak yang sama berulang-ulang.</p><ul><li><b>Kitaran menurun</b> · dosa → penindasan → seruan → seorang hakim menyelamatkan → dosa lagi. Ia semakin teruk.</li><li><b>Para hakim</b> · Gideon, Simson, Debora — penyelamat sementara, gagah tetapi penuh kekurangan.</li><li><b>Rut</b> · kisah cerah tentang kesetiaan dalam zaman yang gelap; seorang wanita asing masuk ke dalam keturunan Daud (dan Yesus).</li></ul>",
+   "next": "Umat berseru, «Berikanlah kami raja juga!»…"
+  },
+  {
+   "tag": "PERJANJIAN LAMA · ZAMAN KEEMASAN",
+   "title": "Kerajaan Bersatu",
+   "date": "kira-kira 1050–930 SM",
+   "one": "Allah berjanji kepada Daud, «Takhtamu akan kekal selama-lamanya».",
+   "people": "Saul · Daud · Salomo",
+   "events": "Raja pertama Saul, Daud dan Goliat, perjanjian dengan Daud, Salomo membina Rumah TUHAN",
+   "q": "Engkau akan sentiasa mempunyai keturunan dan Aku akan mengekalkan kerajaanmu. Kerajaanmu tidak akan berkesudahan.",
+   "cite": "2 Samuel 7:16",
+   "christ": "«Takhta yang kekal» digenapi dalam Yesus, anak Daud — itulah sebabnya Dia digelar «Anak Daud» (Lukas 1:32-33; Matius 1:1).",
+   "detail": "<p>Kemuncak Israel, diperintah oleh tiga raja.</p><ul><li><b>Saul</b> · raja yang dituntut oleh umat; permulaan yang baik dirosakkan oleh ketidaktaatan.</li><li><b>Daud</b> · «seorang yang berkenan di hati Allah». Dia mengalahkan Goliat dan menjadikan Yerusalem ibu kota. Dia melakukan dosa besar (Batsyeba) namun bertaubat dari hati (Mazmur 51).</li><li><b>Perjanjian dengan Daud (2 Samuel 7)</b> · Allah berjanji mengekalkan dinasti Daud selama-lamanya — akar penentu pengharapan Mesias.</li><li><b>Salomo</b> · di kemuncak hikmat dan kekayaan dia membina <b>Rumah TUHAN</b>, tetapi di hujung hayatnya berpaling kepada berhala.</li></ul>",
+   "next": "Selepas Salomo, kerajaan itu berpecah dua…"
+  },
+  {
+   "tag": "PERJANJIAN LAMA · KEMEROSOTAN",
+   "title": "Kerajaan Berpecah",
+   "date": "930–586 SM",
+   "one": "Berpecah kepada selatan (Yehuda) dan utara (Israel), bangsa itu merosot ke arah kemusnahan.",
+   "people": "Raja-raja kedua-dua kerajaan; nabi seperti Elia, Yesaya, Yeremia",
+   "events": "Kerajaan berpecah, penyembahan berhala merebak, para nabi memberi amaran",
+   "q": "Sejak itu, penduduk di bahagian utara kerajaan Israel sentiasa memberontak terhadap raja-raja keturunan Raja Daud.",
+   "cite": "1 Raja-raja 12:19",
+   "christ": "Pada zaman ini para nabi menubuatkan kedatangan Mesias dengan semakin jelas (Yesaya 9:6; Yesaya 53).",
+   "detail": "<p>Pada zaman anak Salomo, bangsa itu berpecah: <b>kerajaan utara Israel</b> (10 suku, ibu kota Samaria) dan <b>kerajaan selatan Yehuda</b> (2 suku, ibu kota Yerusalem).</p><ul><li><b>Israel (utara)</b> · setiap raja menyembah berhala; ia jatuh kepada Asyur pada 722 SM.</li><li><b>Yehuda (selatan)</b> · keturunan Daud berterusan, dengan beberapa raja baik seperti Hizkia dan Yosia, tetapi secara keseluruhan merosot.</li><li><b>Para nabi</b> · Elia, Amos, Yesaya, Yeremia berseru «kembalilah!». Nubuat Mesias mencapai titik terkaya di sini (the «hamba yang menderita» Yesaya 53).</li></ul>",
+   "next": "Akhirnya penghakiman yang diamarkan itu pun tiba — mereka diheret ke pembuangan…"
+  },
+  {
+   "tag": "PERJANJIAN LAMA · PENGHAKIMAN",
+   "title": "Pembuangan",
+   "date": "722 / 586 SM",
+   "one": "Bangsa itu runtuh dan umat diheret ke negeri asing.",
+   "people": "Daniel, Yehezkiel, Nebukadnezar",
+   "events": "Israel jatuh kepada Asyur (722), Yehuda jatuh kepada Babilonia dan Rumah TUHAN dimusnahkan (586)",
+   "q": "Di tepi sungai-sungai di Babilonia kita duduk dan meratap, apabila kita terkenang akan Sion.",
+   "cite": "Mazmur 137:1",
+   "christ": "Dalam kedalaman keputusasaan Yeremia menjanjikan «perjanjian baru» (Yeremia 31:31) — perjanjian yang sama yang dimeteraikan Yesus pada Perjamuan Terakhir.",
+   "detail": "<p>Amaran itu menjadi kenyataan. Rumah TUHAN terbakar dan umat diheret ke Babilonia — kehilangan tanah, raja, dan Rumah TUHAN: titik paling rendah daripada segalanya.</p><ul><li><b>Dua kejatuhan</b> · Israel (Asyur, 722 SM) dan Yehuda (Babilonia, 586 SM).</li><li><b>Daniel</b> · teladan iman walaupun di istana penyembah berhala (lubang singa); dia melihat penglihatan tentang «kerajaan yang kekal» yang akan datang.</li><li><b>Secercah harapan</b> · penglihatan Yehezkiel tentang tulang-tulang kering yang hidup semula (Yehezkiel 37) dan «perjanjian baru» Yeremia menunjuk kepada masa depan dalam kegelapan.</li></ul>",
+   "next": "Tujuh puluh tahun kemudian, Allah membuka jalan — mereka pulang…"
+  },
+  {
+   "tag": "PERJANJIAN LAMA · PEMULIHAN",
+   "title": "Kepulangan",
+   "date": "538–430 SM",
+   "one": "Mereka pulang dan membina semula Rumah TUHAN dan tembok kota.",
+   "people": "Ezra, Nehemia, Ester, Zerubabel",
+   "events": "Pulang melalui titah Koresy, membina semula Rumah TUHAN, memulihkan tembok Yerusalem, memulihkan Firman",
+   "q": "Kesukaan yang diberikan oleh TUHAN kepada kamu akan menguatkan kamu.",
+   "cite": "Nehemia 8:10",
+   "christ": "Maleakhi, kitab terakhir Perjanjian Lama, ditutup dengan menubuatkan seorang utusan untuk menyediakan jalan bagi Mesias: «Aku akan mengirim utusan-Ku» (Maleakhi 3:1).",
+   "detail": "<p>Melalui titah raja Parsi, Koresy (538 SM), kepulangan bermula. Dalam tiga gelombang mereka pulang dan membina semula apa yang telah runtuh.</p><ul><li><b>Zerubabel</b> · membina semula Rumah TUHAN (siap pada 516 SM).</li><li><b>Ezra</b> · mengajar Firman semula dan menghidupkan kembali iman.</li><li><b>Nehemia</b> · membina semula tembok Yerusalem dalam 52 hari.</li><li><b>Ester</b> · menyelamatkan orang Yahudi di Parsi daripada pemusnahan — «untuk saat seperti ini».</li><li><b>Masih merindui</b> · Rumah TUHAN berdiri, tetapi tiada raja seperti Daud. Umat menanti Mesias.</li></ul>",
+   "next": "Dan kemudian… seakan-akan langit terdiam, 400 tahun berlalu."
+  },
+  {
+   "tag": "ANTARA PERJANJIAN · MENYEDIAKAN PENTAS",
+   "title": "Tahun-tahun Sunyi",
+   "date": "kira-kira 430–4 SM",
+   "one": "400 tahun tanpa suara nabi — namun pentas sedang disediakan dengan senyap.",
+   "people": "Iskandar Agung, golongan Makabe, Rom",
+   "events": "Parsi → Yunani → kemerdekaan Makabe → pemerintahan Rom",
+   "q": "Tetapi pada saat yang tepat, Allah mengutus Anak-Nya sendiri ke dunia. Anak-Nya itu dilahirkan oleh seorang wanita…",
+   "cite": "Galatia 4:4",
+   "christ": "Segala «penyediaan pentas» ini ialah Allah yang bekerja supaya Yesus datang tepat pada «saat yang tepat».",
+   "detail": "<p>Daripada Maleakhi sehingga Perjanjian Baru, kira-kira 400 tahun berlalu tanpa Kitab Suci baru. Namun di sebalik sejarah, Allah sedang menyediakan jalan bagi Berita Baik.</p><ul><li><b>Empayar bertukar tangan</b> · Parsi → Yunani (Iskandar, 333 SM) → dinasti Ptolemi dan Seleukus → pemberontakan Makabe (167 SM) → Rom (63 SM).</li><li><b>Bahasa Yunani</b> · penaklukan Iskandar menjadikan bahasa Yunani sebagai bahasa umum; Perjanjian Lama diterjemahkan ke dalam bahasa Yunani (Septuaginta), membuka jalan supaya Berita Baik tersebar cepat.</li><li><b>Jalan raya dan keamanan Rom</b> · jalan yang terbina baik dan «Pax Romana» menjadi laluan utama bagi penyebaran.</li><li><b>Saumaah dan puak</b> · pengajaran di saumaah berakar; golongan Farisi dan Saduki timbul; dan <b>kerinduan akan Mesias</b> menjadi masak.</li></ul>",
+   "next": "Lalu kesunyian itu pecah — akhirnya, Dia datang."
+  },
+  {
+   "tag": "PERJANJIAN BARU · PENGGENAPAN",
+   "title": "Yesus Datang",
+   "date": "kira-kira 4 SM–30 TM",
+   "one": "Mesias yang dijanjikan datang, mati, dan bangkit semula.",
+   "people": "Yesus, dua belas murid, Yahya Pembaptis",
+   "events": "Penjelmaan, pelayanan dan ajaran dan mukjizat-Nya, kematian di salib, kebangkitan pada hari ketiga",
+   "q": "Firman itu sudah menjadi manusia dan tinggal antara kita… kemuliaan yang diterima-Nya sebagai anak tunggal Bapa.",
+   "cite": "Yohanes 1:14",
+   "christ": "Keturunan perempuan (babak 2), berkat Abraham (3), anak domba Paska (4), raja kekal Daud (6), perjanjian baru (8) — semuanya digenapi dalam seorang manusia, Yesus: Nabi, Imam, dan Raja kita yang sejati.",
+   "detail": "<p>Kesunyian itu pecah; Dia yang dijanjikan tiba. Keempat-empat Injil bersaksi tentang kehidupan, kematian, dan kebangkitan Yesus dari empat sudut.</p><ul><li><b>Penjelmaan</b> · Allah menjadi manusia (Imanuel, «Allah menyertai kita»), di tempat yang hina di Betlehem.</li><li><b>Pelayanan</b> · Dia mengajar tentang kerajaan Allah, menyembuhkan yang sakit, memanggil orang berdosa. «Sesiapa yang sudah melihat Aku, sudah melihat Bapa.»</li><li><b>Salib</b> · Dia membayar harga dosa dan kematian yang disebabkan Kejatuhan (babak 2). Anak domba Paska yang sejati.</li><li><b>Kebangkitan</b> · bangkit pada hari ketiga, Dia mematahkan kuasa dosa, kematian, dan Iblis — sudah pun di salib Dia «membebaskan diri daripada kuasa roh-roh yang berkuasa dan yang memerintah… menggiring mereka sebagai tawanan dalam perarakan kemenangan-Nya» (Kolose 2:15).</li></ul><p>Maka Yesus ialah <b>Nabi sejati</b> kita (menunjukkan jalan kepada Allah), <b>Imam sejati</b> kita (memperdamaikan dosa dengan tubuh-Nya sendiri), dan <b>Raja sejati</b> kita (menakluki dosa, kematian, dan Iblis serta memerintah selama-lamanya).</p>",
+   "next": "Yesus yang bangkit mengutus murid-murid-Nya ke dunia…"
+  },
+  {
+   "tag": "PERJANJIAN BARU · PENYEBARAN",
+   "title": "Gereja Bermula",
+   "date": "kira-kira 30 TM–",
+   "one": "Roh datang, dan Berita Baik tersebar ke hujung bumi.",
+   "people": "Petrus, Paulus, gereja mula-mula",
+   "events": "Roh dicurahkan pada Pentakosta, gereja lahir, Berita Baik tersebar dari Yerusalem ke Rom melalui penganiayaan",
+   "q": "Tetapi kamu akan menerima kuasa, apabila Roh Allah datang kepada kamu… serta sampai ke hujung bumi.",
+   "cite": "Kisah Rasul-rasul 1:8",
+   "christ": "Kisah ini masih berterusan. Alkitab ditutup dengan menjanjikan bahawa Yesus akan datang semula dan menjadikan segala sesuatu baru (Wahyu 21).",
+   "detail": "<p>Selepas Yesus naik ke syurga, Roh yang dijanjikan datang pada Pentakosta dan gereja pun lahir. Berita Baik tersebar secara meletup.</p><ul><li><b>Pentakosta</b> · Roh mengubah murid-murid yang penakut menjadi saksi yang berani.</li><li><b>Petrus</b> · memberitakan Berita Baik kepada orang Yahudi di Yerusalem.</li><li><b>Paulus</b> · daripada penganiaya menjadi rasul, menanam gereja di seluruh dunia bangsa asing dan menulis surat-surat.</li><li><b>Sampai ke hujung bumi</b> · Yerusalem → Yudea → Samaria → Rom. Janji kepada Abraham tentang «semua bangsa» menjadi kenyataan.</li><li><b>Dan kita</b> · kisah ini tidak berakhir; ia terus menuju kepada kedatangan Yesus semula serta langit baru dan bumi baru.</li></ul>",
+   "next": "Tetapi kisah ini tidak berakhir di sini…"
+  },
+  {
+   "tag": "PERJANJIAN BARU · PENYEMPURNAAN",
+   "title": "Pemulihan",
+   "date": "Belum tiba",
+   "one": "Yesus datang semula dan menjadikan segala sesuatu baru.",
+   "people": "Yesus yang datang semula; segala bangsa",
+   "events": "Kedatangan semula, penghakiman terakhir, kesudahan dosa·kematian·air mata, langit baru dan bumi baru",
+   "q": "Dia akan menyapu air mata mereka. Kematian akan tiada lagi, demikian juga kesedihan, tangisan, dan kesakitan.",
+   "cite": "Wahyu 21:4",
+   "christ": "Eden penciptaan pertama akhirnya dipulihkan sebagai «Yerusalem Baru». Allah tinggal bersama umat-Nya selama-lamanya — kepenuhan Imanuel (Wahyu 21:3; Matius 1:23).",
+   "detail": "<p>Alkitab tidak berakhir dengan zaman gereja. Kitab terakhirnya, Wahyu, menunjukkan Yesus <b>datang semula</b> untuk menyempurnakan segala sesuatu.</p><ul><li><b>Kedatangan semula</b> · Raja yang dijanjikan kembali dalam kemuliaan.</li><li><b>Kemenangan terakhir</b> · Iblis dan kematian dikalahkan selama-lamanya, dan Kristus memerintah sebagai Raja segala raja (1 Korintus 15:25-26; Wahyu 20:10).</li><li><b>Penghakiman dan kebangkitan</b> · setiap kesalahan diluruskan, dan orang mati dibangkitkan.</li><li><b>Langit baru dan bumi baru</b> · dosa, kematian, air mata, dan kesakitan lenyap selama-lamanya (Wahyu 21:4).</li><li><b>Eden dipulihkan</b> · dalam «Yerusalem Baru» yang lebih baik daripada permulaan, Allah tinggal bersama umat-Nya selama-lamanya — destinasi yang dituju oleh seluruh Alkitab.</li></ul><p>Maka sekarang ialah zaman <b>«sudah, tetapi belum»</b>: dalam Yesus keselamatan <b>sudah</b> dicapai, tetapi penyempurnaannya <b>masih</b> dinanti.</p>",
+   "next": "Jadi, apakah erti seluruh kisah ini bagi «aku»?"
+  }
+ ],
+ "love": [
+  "Kisah ini bermula bukan dengan penghakiman, sebaliknya dengan penciptaan yang dicurahkan dalam kasih.",
+  "Pada saat manusia berdosa, Allah berjanji menyelamatkan tepat di situ juga.",
+  "Allah datang terlebih dahulu kepada seorang yang tidak layak, memanggilnya dengan nama, dan menjadikannya saluran berkat.",
+  "Dia mendengar rintihan umat yang menjadi hamba dan turun sendiri untuk menyelamatkan mereka.",
+  "Dikhianati berulang kali, namun setiap kali mereka berseru Dia mengutus penyelamat dan membangkitkan mereka.",
+  "Dia tidak membuang Daud yang jatuh pun, dan melaluinya menjanjikan seorang Raja yang kekal.",
+  "Kepada umat yang berpaling tadah, Dia terus mengutus para nabi, merayu, «Pulanglah».",
+  "Dia menyertai mereka sehingga ke negeri pembuangan yang paling gelap, dan menjanjikan pemulihan.",
+  "Bahkan kepada umat yang gagal berulang kali, Dia tidak menarik balik janji-Nya.",
+  "Bahkan melalui 400 tahun yang sunyi, tanpa kelihatan, Dia menyediakan jalan keselamatan.",
+  "Ketika kita masih berdosa, Dia mengutus Anak-Nya untuk menyerahkan nyawa-Nya sendiri.",
+  "Kasih yang kita terima, kini Dia alirkan keluar kepada seluruh dunia.",
+  "Akhirnya Dia akan menyapu setiap air mata dan memulihkan segala sesuatu dalam kasih."
+ ],
+ "mis": [
+  {
+   "w": "«Mengapa Allah menciptakan manusia yang boleh berdosa? Bukankah lebih baik tidak menciptakan kita langsung?»",
+   "t": "Allah menciptakan dunia dan manusia bukan kerana sebarang kekurangan, sebaliknya kerana kasih yang melimpah. Menjadikan manusia sebagai <b>pribadi yang berhubungan dengan Allah</b> itu sendiri ialah kasih. Dan kemasukan dosa pun bukan di luar rancangan keselamatan Allah (Efesus 1:4-5). Babak pembukaan Alkitab bukan penghakiman, sebaliknya kasih."
+  },
+  {
+   "w": "«Dibuang dan diberi kematian hanya kerana memakan satu buah — bukankah Allah terlalu kejam?»",
+   "t": "Diusir dari Eden ialah penghakiman sekali gus belas kasihan. Memakan dari pokok kehidupan dan hidup selama-lamanya dalam keadaan yang rosak dan terputus daripada Allah itu bererti terperangkap dalam penderitaan selama-lamanya (Kejadian 3:22). Membenarkan kematian membuka jalan pulang, dan tepat di situ Allah menjanjikan seorang Penyelamat (Kejadian 3:15). Kasih sudah pun ada di dalam penghakiman itu."
+  },
+  {
+   "w": "«Abraham dipilih kerana imannya hebat — bukankah semua tokoh Alkitab pahlawan moral?»",
+   "t": "Abraham berdusta dan ragu; Yakub seorang penipu. Allah memanggil bukan orang yang «layak» tetapi orang yang penuh kekurangan, kerana rahmat. Sebabnya bukan kebaikan mereka, sebaliknya kasih setia Allah (Ulangan 7:7-8)."
+  },
+  {
+   "w": "«Bukankah Hukum (Sepuluh Hukum) ialah ujian yang mesti dilepasi untuk diselamatkan?»",
+   "t": "Allah menyelamatkan mereka <b>sebelum</b> memberikan Hukum. Sepuluh Hukum pun dibuka dengan satu pengisytiharan keselamatan: «Akulah TUHAN, Allah kamu yang membawa kamu keluar dari Mesir» (Keluaran 20:2). Hukum bukan «taatilah untuk diselamatkan», sebaliknya panduan kasih tentang cara umat yang sudah diselamatkan patut hidup (Ulangan 7:7-9). Rahmat sentiasa datang dahulu; ketaatan ialah respons."
+  },
+  {
+   "w": "«Penaklukan Kanaan ialah pembunuhan tanpa belas kasihan — jadi Allah Perjanjian Lama memang kejam.»",
+   "t": "Ini topik sukar yang tidak dapat diselesaikan dalam satu ayat. Tetapi Alkitab membentangkannya bukan sebagai keganasan rawak, sebaliknya sebagai penghakiman selepas berabad-abad kesabaran terhadap kejahatan yang melampau (termasuk korban anak) (Kejadian 15:16; Ulangan 9:4-5; Imamat 18:24-25). Allah lambat juga untuk menghakimi, dan Dia dengan senang hati menyambut mereka yang berpaling kepada-Nya — malah orang asing seperti Rahab dan Rut (Yosua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "«Daud seorang pahlawan tanpa cela — itulah sebabnya dia digelar ‘seorang yang berkenan di hati Allah’.»",
+   "t": "Daud melakukan zina dan malah pembunuhan. «Seorang yang berkenan di hati Allah» bukan bererti tanpa cela, sebaliknya seorang yang tidak menyembunyikan dosanya — yang bertaubat sepenuhnya dan sentiasa kembali kepada Allah (Mazmur 51). Kasih Allah tidak membuang orang yang jatuh teruk sekalipun."
+  },
+  {
+   "w": "«Nabi ialah tukang tilik yang meramalkan masa depan / Allah Perjanjian Lama hanya penuh murka.»",
+   "t": "Hati seorang nabi bukan «meramalkan masa depan» tetapi rayuan Allah yang pilu: «Pulanglah». Bahkan amaran penghakiman bukan bertujuan memusnahkan, sebaliknya memutarkan manusia dan menyelamatkan mereka — «Aku tidak suka melihat orang berdosa mati» (Yehezkiel 33:11)."
+  },
+  {
+   "w": "«Pembuangan membuktikan Allah benar-benar meninggalkan Israel.»",
+   "t": "Pembuangan bukan pengabaian, sebaliknya didikan dan pemurnian terhadap seorang anak yang dikasihi (Ibrani 12:6). Allah tidak pergi; Dia menyertai Daniel di tengah-tengah pembuangan dan menjanjikan, «Rancangan itu bukan untuk mencelakakan kamu, tetapi untuk kemakmuran kamu dan untuk memberikan masa depan yang kamu harap-harapkan» (Yeremia 29:11)."
+  },
+  null,
+  {
+   "w": "«Kerana tiada firman selama 400 tahun, Allah sudah pergi atau sedang berehat.»",
+   "t": "Kesunyian bukan ketiadaan. Dia hanya tidak berfirman, sambil sepanjang masa menggerakkan empayar, bahasa, dan jalan untuk menyediakan pentas keselamatan. Pada saat yang paling senyap, Allah bekerja paling kuat, dalam kasih (Galatia 4:4)."
+  },
+  {
+   "w": "«Yesus hanyalah seorang guru moral yang baik / salib ialah kekalahan yang tragis.»",
+   "t": "Yesus mendakwa diri-Nya Allah sendiri (Yohanes 8:58), dan salib bukan kemalangan atau kekalahan tetapi kasih yang dirancang. Dia tidak diheret ke sana secara paksa; Dia menyerahkan nyawa-Nya sendiri (Yohanes 10:18). «Jika seseorang mati bagi sahabat-sahabatnya, hal itu menunjukkan bahawa dia orang yang paling mengasihi mereka» (Yohanes 15:13)."
+  },
+  {
+   "w": "«Gereja ialah kelab orang yang sempurna, atau sekadar sebuah bangunan.»",
+   "t": "Gereja bukan komuniti «orang kudus yang sudah sempurna» tetapi <b>orang berdosa yang diampuni</b>. Rasul Paulus sendiri menyebut dirinya «yang paling jahat» (1 Timotius 1:15). Gereja mula-mula juga berbalah dan tersandung (Kisah Rasul-rasul 6:1; 1 Korintus 1:11). Ia bukan tempat untuk bermegah, sebaliknya orang yang menyampaikan kasih yang telah mereka terima (Yohanes 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Dosa asal — tiada seorang pun yang benar",
+   "body": "Masalahnya bukan «beberapa perbuatan buruk», sebaliknya akar hati. Sejak Adam, setiap orang dilahirkan di bawah dosa dan tidak dapat mencapai Allah dengan kekuatan sendiri.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Tidak seorang pun yang benar di sisi Allah… Semua orang sudah berdosa dan jauh daripada Allah yang menyelamatkan mereka."
+  },
+  {
+   "title": "Hukum tidak dapat menyelamatkan aku",
+   "body": "Hukum bukan tangga, sebaliknya cermin. Semakin keras aku berusaha, semakin ia menunjukkan betapa jauh aku gagal. Tujuannya menuntun kita kepada Kristus.",
+   "vref": "Roma 3:20 · Galatia 3:24",
+   "vtext": "Taurat hanya menunjukkan manusia bahawa mereka berdosa… Taurat itu menjadi seperti pengawas kita sehingga Kristus datang."
+  },
+  {
+   "title": "Oleh rahmat — pemberian, bukan usaha",
+   "body": "Keselamatan bukan upah jasa yang ditimbun, sebaliknya pemberian percuma kepada yang tidak layak. Oleh itu tiada seorang pun boleh bermegah.",
+   "vref": "Efesus 2:8-9",
+   "vtext": "Dengan rahmat Allah, kamu diselamatkan oleh sebab kamu percaya kepada Yesus… bukan hasil usaha kamu sendiri… Oleh itu kamu tidak mempunyai alasan untuk bercakap besar tentang hal itu."
+  },
+  {
+   "title": "Dibenarkan oleh iman",
+   "body": "Bukan kerana mematuhi Hukum, sebaliknya kerana iman kepada Yesus Kristus, kita diperhitungkan benar — berpakaian bukan dengan kebenaran kita sendiri, sebaliknya kebenaran-Nya.",
+   "vref": "Roma 5:1 · Galatia 2:16",
+   "vtext": "Sekarang kita sudah berbaik semula dengan Allah kerana kita percaya kepada-Nya… orang berbaik semula dengan Allah kerana percaya kepada Yesus Kristus, dan bukan kerana mengikut Taurat."
+  },
+  {
+   "title": "Alkitab menunjuk kepada Yesus",
+   "body": "Alkitab bukan buku tentang orang besar atau bantu diri. Daripada Kejadian sehingga Wahyu, setiap halaman bersaksi tentang satu Pribadi — Yesus Kristus.",
+   "vref": "Yohanes 5:39 · Lukas 24:27",
+   "vtext": "Sebenarnya Alkitab memberikan kesaksian tentang Aku… Yesus menerangkan apa yang tertulis tentang diri-Nya di dalam seluruh Alkitab kepada mereka."
+  },
+  {
+   "title": "Kerajaan Allah — pesan utama Yesus",
+   "body": "Tema yang paling banyak diajar Yesus. Pemerintahan Allah sebagai Raja menerobos masuk ke dunia ini bersama Yesus dan akan disempurnakan apabila Dia datang semula. Melalui salib dan kebangkitan-Nya, Yesus ialah Raja sejati yang menakluki dosa, kematian, dan Iblis.",
+   "vref": "Markus 1:15",
+   "vtext": "Masanya sudah tiba; tidak lama lagi Allah akan memerintah. Bertaubatlah daripada dosa kamu dan percayalah kepada Berita Baik ini!"
+  },
+  {
+   "title": "Berita Baik — Dia menyelesaikan segalanya",
+   "body": "Harga dosa yang tidak pernah dapat kubayar, Yesus bayar menggantikan aku di salib, dan dengan bangkit Dia menakluki kematian. Aku bersandar bukan pada «lakukanlah ini», sebaliknya pada «sudah selesai».",
+   "vref": "Yohanes 19:30 · Roma 5:8",
+   "vtext": "Sudah selesai… Allah telah menunjukkan betapa besarnya kasih-Nya kepada kita, kerana Kristus mati bagi kita semasa kita masih berdosa."
+  }
+ ],
+ "books": {
+  "Kejadian": "GEN",
+  "Keluaran": "EXO",
+  "Imamat": "LEV",
+  "Bilangan": "NUM",
+  "Ulangan": "DEU",
+  "Yosua": "JOS",
+  "Hakim-hakim": "JDG",
+  "Rut": "RUT",
+  "Ezra": "EZR",
+  "Nehemia": "NEH",
+  "Ester": "EST",
+  "Ayub": "JOB",
+  "Mazmur": "PSA",
+  "Amsal": "PRO",
+  "Pengkhutbah": "ECC",
+  "Kidung Agung": "SNG",
+  "Yesaya": "ISA",
+  "Yeremia": "JER",
+  "Ratapan": "LAM",
+  "Yehezkiel": "EZK",
+  "Daniel": "DAN",
+  "Hosea": "HOS",
+  "Yoel": "JOL",
+  "Amos": "AMO",
+  "Obaja": "OBA",
+  "Yunus": "JON",
+  "Mikha": "MIC",
+  "Nahum": "NAM",
+  "Habakuk": "HAB",
+  "Zefanya": "ZEP",
+  "Hagai": "HAG",
+  "Zakharia": "ZEC",
+  "Maleakhi": "MAL",
+  "Matius": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Yohanes": "JHN",
+  "Kisah Rasul-rasul": "ACT",
+  "Roma": "ROM",
+  "Galatia": "GAL",
+  "Efesus": "EPH",
+  "Filipi": "PHP",
+  "Kolose": "COL",
+  "Titus": "TIT",
+  "Filemon": "PHM",
+  "Ibrani": "HEB",
+  "Yakobus": "JAS",
+  "Yudas": "JUD",
+  "Wahyu": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Raja-raja": "1KI",
+  "2 Raja-raja": "2KI",
+  "1 Tawarikh": "1CH",
+  "2 Tawarikh": "2CH",
+  "1 Korintus": "1CO",
+  "2 Korintus": "2CO",
+  "1 Tesalonika": "1TH",
+  "2 Tesalonika": "2TH",
+  "1 Timotius": "1TI",
+  "2 Timotius": "2TI",
+  "1 Petrus": "1PE",
+  "2 Petrus": "2PE",
+  "1 Yohanes": "1JN",
+  "2 Yohanes": "2JN",
+  "3 Yohanes": "3JN"
+ },
+ "yv": 402,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

@@ -175,6 +175,9 @@ const LANGS = [
   { code:'bjn',    dir:'ltr', locale:'bjn_ID' },
   { code:'mni',    dir:'ltr', locale:'mni_IN' },
   { code:'azb',    dir:'rtl', locale:'azb_IR' },
+  { code:'hak',    dir:'ltr', locale:'hak_TW' },
+  { code:'nan',    dir:'ltr', locale:'nan_TW' },
+  { code:'zlm',    dir:'ltr', locale:'ms_MY' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
