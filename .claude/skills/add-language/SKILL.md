@@ -7,7 +7,7 @@ description: "Add a new language to the site (Bible in One Scroll) with nothing 
 
 Procedure to add one language **with nothing missed**. Helpers live in
 `.claude/skills/add-language/lib/` (pick-candidates · detect-mode · validate · audit-links · integrate · make-qr · convert-digits ·
-fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review-prompt · config.example.json).
+fetch-verse · fetch-booknames · verify-verbatim · verify-inline · verify-prose · native-review-prompt · config.example.json).
 **Run every command from the repo root.** **Setup (once):** `npm install` (installs `qrcode` for make-qr). The repo is LF-normalized via `.gitattributes`, so these Node tools run identically on Windows and Linux.
 
 > Core principle (AGENTS.md): evangelical · Reformed redemptive-historical view. Scripture is quoted
@@ -105,6 +105,11 @@ node .claude/skills/add-language/lib/validate.mjs <code>
   (Native digits inside verse-text would break verbatim → handle manually.)
 
 ## 3. Integrate (index.html + build-pages)
+- **First get the authoritative book names** (don't trust the drafting agent's list — it drifts):
+  `node lib/fetch-booknames.mjs <YV> --config` prints ready-to-paste `books_single`/`books_numbered` from the
+  version's own books API, auto-deriving numbered-book base stems and **warning** when the edition's surface form
+  isn't a plain ASCII `<n> <name>` (native-digit/ordinal/hyphen). Paste those into the config below, and make the
+  pack's body cite/inline refs use the same spelling. (`node lib/fetch-booknames.mjs <YV>` alone = plain USFM⇆name list.)
 - Copy `lib/config.example.json` → `/tmp/lang-<code>.json` and fill:
   - code · native · en · yv · dir · locale · **after** (the current last language code) · bookopt ·
     books_single · books_numbered · font.
@@ -345,11 +350,11 @@ auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
 - **Kingdoms numbering**: under LXX/4-book Kingdoms, 1KI = **"3 …"** (hy·ka·tt·bg·umb·kk). Normal 2-book → 1KI = "1 …".
 
 **Authoritative localized book names = the version's books API, NOT the drafting agent.** The agent (a "native speaker")
-picks valid-but-divergent names that don't match the edition → unlinked refs. Pull the real 66 from
-`curl -s 'https://nodejs.bible.com/api/bible/version/3.1?id=<YV>'` (each book's `human` field) and build BOOKS from THAT;
+picks valid-but-divergent names that don't match the edition → unlinked refs. **Run `node lib/fetch-booknames.mjs <YV> --config`**
+(reads the version's books API `human` field, emits the books_single/books_numbered config + warnings) and build BOOKS from THAT;
 then reconcile any body ref the agent wrote to the edition's spelling. Real azb hits: agent wrote قانونون تکراری/لاویلیلر/عبرانیلر,
-edition = تثنئیه/لاوئلی‌لر/عئبرانئلره (integrate's "미해결 토큰" warning surfaced them). For Arabic-script editions the API names carry
-a **native-digit prefix + no space** (۱سمویئل) — keep the base stem in `books_numbered` and let integrate emit the ASCII "1 …" form
+edition = تثنئیه/لاوئلی‌لر/عئبرانئلره (integrate's "미해결 토큰" warning also surfaces them). For Arabic-script editions the API names carry
+a **native-digit prefix + no space** (۱سمویئل) — fetch-booknames keeps the base stem in `books_numbered` so integrate emits the ASCII "1 …" form
 (refs stay ASCII; convert any stray Persian-digit ref like "۱ قورئنتلی‌لره" → "1 …").
 
 **Versification (Psalm / OT numbers)**:
