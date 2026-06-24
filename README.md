@@ -57,7 +57,7 @@ This goes faster **together**. Please add or polish your language. **You don't n
 
 Full step-by-step: **[CONTRIBUTING.md](CONTRIBUTING.md)** (English) · **[CONTRIBUTING.ko.md](CONTRIBUTING.ko.md)** (한국어). Questions → [issues](../../issues).
 
-## Related projects
+## References
 Many ministries share this heart; **we are the on-ramp in front of them**, and we link out to them. A few, by focus:
 
 **Big-picture overview** (closest to us)
@@ -76,6 +76,9 @@ Many ministries share this heart; **we are the on-ramp in front of them**, and w
 **Full-Bible access** (the infrastructure we link into)
 - [YouVersion / Bible.com](https://www.bible.com) — Bible reading in 2,000+ languages.
 - [Wycliffe](https://www.wycliffe.org) · [SIL](https://www.sil.org) · [ETEN / illumiNations](https://illuminations.bible) — Bible translation & distribution.
+
+**Missions data / research** (used to choose which languages to add next)
+- [Joshua Project](https://joshuaproject.net) — unreached people-group & language data (speakers, % evangelical, Bible-translation status); the dataset we use to pick the next languages by least-reached need and speaker count.
 
 ## License / contact
 - **Code** (HTML/CSS/JS + build tooling): [MIT](LICENSE).

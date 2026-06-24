@@ -6,7 +6,7 @@ description: "Add a new language to the site (Bible in One Scroll) with nothing 
 # Add-language skill
 
 Procedure to add one language **with nothing missed**. Helpers live in
-`.claude/skills/add-language/lib/` (validate · audit-links · integrate · make-qr · convert-digits ·
+`.claude/skills/add-language/lib/` (pick-candidates · detect-mode · validate · audit-links · integrate · make-qr · convert-digits ·
 fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review-prompt · config.example.json).
 **Run every command from the repo root.** **Setup (once):** `npm install` (installs `qrcode` for make-qr). The repo is LF-normalized via `.gitattributes`, so these Node tools run identically on Windows and Linux.
 
@@ -24,6 +24,21 @@ fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review
 always safe (copied) — this gate is only about the AI-generated prose (storyline/FAQ/prayer/UI). Resource proxies
 (FLORES-200 / Wikipedia size in `detect-mode`) are **advisory only** — a "scrutinize harder" flag, never an auto-exclude
 (they false-exclude bal/ctg/dwr and false-include knc/kg). The empirical gate decides. (See memory `translation-quality-gate`.)
+
+## 0a. Pick the next language (which one?) — `pick-candidates`
+Don't guess from memory. Rank real candidates from **Joshua Project** data (the two axes we always use:
+**미전도(unreached)** and **화자수(speaker count)**), with repo-added languages already excluded:
+```
+JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=unreached --top=20   # 미전도 우선 (JPScale↑·화자수↓)
+JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=speakers  --top=20   # 화자 많은순
+```
+- Flags: `--min-speakers=N` · `--religion=Islam|Hindu|Buddhism|…` · `--no-bible` (성경 거의 없는 언어만, BibleStatus≤2)
+  · `--mode` (상위 후보마다 `detect-mode` 실행해 full/eBible/partial/bridge/OBS 주석 — 느림, 언어당 네트워크).
+- **`JP_API_KEY` is env-only — never commit the key.** Free key: joshuaproject.net/api/keys (REST path `/v1/languages/<rol3>.json`).
+  Speaker counts = JP `people_groups` Population summed by ROL3; macrolanguage codes exclude only the **standard member**
+  (so distinct varieties like `azb` 남부 아제리·각 Quechua/Fulfulde stay as valid candidates).
+- This is **advisory** — it proposes targets only. Final go/defer is still the empirical gate (verify-prose + native review) in §0/§Quality.
+- Then take the chosen ROL3/code into §0 below (`detect-mode <code>`) to lock the mode and version ID.
 
 ## 0. Decide + version-availability gate (auto-pick full vs partial mode)
 0. **Fastest path — run `detect-mode` first** (probes all sources, removes the "which mode?" guesswork):

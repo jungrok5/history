@@ -57,7 +57,7 @@
 
 자세한 단계는 **[CONTRIBUTING.ko.md](CONTRIBUTING.ko.md)** (한국어) · **[CONTRIBUTING.md](CONTRIBUTING.md)** (English). 질문은 [이슈](../../issues)로.
 
-## 비슷한 취지의 다른 프로젝트들
+## 참고자료
 많은 사역이 같은 마음을 품고 있습니다. **우리는 그 앞단의 ‘입구’** 이고, 그들에게 링크로 연결합니다. 초점별로 몇 가지:
 
 **큰 그림 개관** (우리와 가장 가까움)
@@ -76,6 +76,9 @@
 **전체 성경 접근** (우리가 링크하는 인프라)
 - [YouVersion / Bible.com](https://www.bible.com) — 2,000+ 언어 성경 읽기.
 - [Wycliffe](https://www.wycliffe.org) · [SIL](https://www.sil.org) · [ETEN / illumiNations](https://illuminations.bible) — 완역 번역·배포.
+
+**선교 데이터·리서치** (다음 추가 언어 선정에 참고)
+- [Joshua Project](https://joshuaproject.net) — 미전도 종족·언어 데이터(화자수·복음주의 비율·성경 번역 현황 등). 우리가 다음에 추가할 언어를 미전도·화자수 기준으로 고를 때 쓰는 데이터 소스.
 
 ## 라이선스 / 문의
 - **코드**(HTML/CSS/JS + 빌드 도구): [MIT](LICENSE).
