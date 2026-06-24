@@ -48,6 +48,21 @@
 - 새 언어 추가는 `/add-language` 스킬을 따릅니다(모드 판정·검증·구절링크 감사·verbatim/산문 검수).
 - **Vercel** 자동 배포(`main` 푸시 시 갱신). `robots.txt`·sitemap·OG/JSON-LD·오프라인 PWA 포함.
 
+### 도구 & 스킬
+사이트 빌드와 다국어 추가는 저장소에 포함된 스크립트 도구와 Claude Code 스킬로 자동화돼 있습니다. (모든 명령은 저장소 루트에서 실행)
+
+**빌드/배포**
+- `tools/build-pages.mjs` — 정적 페이지 생성기. `index.html`을 템플릿으로 언어별 페이지 + `sitemap.xml`·`llms.txt`를 만들고, 누락된 QR을 자동 생성하며 `sw.js` 캐시 스탬프와 `i18n/en.json`을 갱신합니다(생성 페이지는 git에 커밋하지 않고 Vercel이 매 배포마다 재생성).
+
+**`/add-language` 스킬** (`.claude/skills/add-language/`) — 새 언어를 "빠짐없이" 추가하는 절차. 헬퍼(`lib/`)는 단계별로:
+- **후보·모드**: `pick-candidates`(Joshua Project의 미전도·화자수 기준 후보 랭킹) · `detect-mode`(YouVersion·eBible·OBS 소스를 탐지해 full/partial/bridge/OBS 모드 추천)
+- **인용 추출**: `fetch-verse`(bible.com에서 **verbatim** 구절 추출 — 요약 모델 환각 방지) · `fetch-booknames`(판본 API에서 현지어 책이름 66권 + 통합 설정 스니펫 자동 생성)
+- **통합**: `integrate`(팩에 `books`/`yv`/`bookopt` 기록 + `index.html`·`build-pages` 패치) · `convert-digits`(참조의 자국 숫자→ASCII) · `make-qr`(언어별 QR)
+- **검증(오프라인 게이트)**: `validate`(구조·s키·film-free·APP_JS) · `audit-links`(구절 링크 감사 — 표시↔USFM, 누락 0)
+- **검수(네트워크)**: `verify-verbatim`(인용 verbatim) · `verify-inline`(본문 인라인 인용) · `verify-prose`(산문 의미 역번역 대조) · `native-review-prompt`(원어민 검수 에이전트 프롬프트 — 보고 전용)
+
+자세한 절차는 스킬의 `SKILL.md`에 있습니다.
+
 ## 함께 번역하기 (Contribute) — 다 같이, 모든 언어로
 이 일은 **다 같이** 할 때 빨라집니다. 당신의 언어를 더하거나 다듬어 주세요. **코딩 지식은 필요 없고, 번역(텍스트)만** 손보면 됩니다 — 빌드·이미지·구절 링크·배포는 관리자가 합니다.
 

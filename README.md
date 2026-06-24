@@ -48,6 +48,21 @@ Based on the **evangelical · Reformed redemptive-historical** view shared by mo
 - Adding a language follows the `/add-language` skill (mode detection · validation · verse-link audit · verbatim + prose checks).
 - Deployed on **Vercel** (updates on push to `main`). Includes `robots.txt`, sitemap, OG / JSON-LD and an offline PWA.
 
+### Tools & skills
+Site builds and language additions are automated by in-repo scripts and a Claude Code skill. (Run every command from the repo root.)
+
+**Build / deploy**
+- `tools/build-pages.mjs` — the static-page generator. Using `index.html` as the template, it produces the per-language pages plus `sitemap.xml` / `llms.txt`, auto-backfills any missing QR, and refreshes the `sw.js` cache stamp and `i18n/en.json` (generated pages aren't committed — Vercel regenerates them on every deploy).
+
+**`/add-language` skill** (`.claude/skills/add-language/`) — the procedure to add a language **with nothing missed**. Its `lib/` helpers, by phase:
+- **Pick / mode**: `pick-candidates` (rank candidates from Joshua Project by unreached-ness · speaker count) · `detect-mode` (probe YouVersion · eBible · OBS sources → recommend full / partial / bridge / OBS mode)
+- **Quote extraction**: `fetch-verse` (pull **verbatim** verses from bible.com — prevents summarizing-model hallucination) · `fetch-booknames` (localized 66 book names from the version API + a ready-to-paste integrate config)
+- **Integrate**: `integrate` (write `books`/`yv`/`bookopt` into the pack + patch `index.html` and `build-pages`) · `convert-digits` (native digits → ASCII in references) · `make-qr` (per-language QR)
+- **Validate (offline gate)**: `validate` (structure · s-keys · film-free · APP_JS) · `audit-links` (verse-link audit — display↔USFM, 0 missed)
+- **Review (network)**: `verify-verbatim` (quoted verses) · `verify-inline` (inline body quotes) · `verify-prose` (prose meaning via back-translation) · `native-review-prompt` (a report-only native-speaker review agent)
+
+Full procedure lives in the skill's `SKILL.md`.
+
 ## Contribute — together, in every language
 This goes faster **together**. Please add or polish your language. **You don't need to code — just the text**; the maintainer handles building, images, verse links and deployment.
 
