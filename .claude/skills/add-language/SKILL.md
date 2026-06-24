@@ -355,7 +355,11 @@ picks valid-but-divergent names that don't match the edition → unlinked refs. 
 then reconcile any body ref the agent wrote to the edition's spelling. Real azb hits: agent wrote قانونون تکراری/لاویلیلر/عبرانیلر,
 edition = تثنئیه/لاوئلی‌لر/عئبرانئلره (integrate's "미해결 토큰" warning also surfaces them). For Arabic-script editions the API names carry
 a **native-digit prefix + no space** (۱سمویئل) — fetch-booknames keeps the base stem in `books_numbered` so integrate emits the ASCII "1 …" form
-(refs stay ASCII; convert any stray Persian-digit ref like "۱ قورئنتلی‌لره" → "1 …").
+(refs stay ASCII; convert any stray Persian-digit ref like "۱ قورئنتلی‌لره" → "1 …"). fetch-booknames also auto-handles three API quirks
+hit on zlm/nan/hak: ① **CJK abbreviated Gospels** — `human` gives 約翰 (John) but the body uses 約翰福音, so it prefers `human_long`
+when it's a modest fuller form; ② **ALL-CAPS Latin names** (Malay `YOHANES`) — title-cased to `Yohanes` to match running-text refs;
+③ **CJK numbered books** (撒母耳記上/下·哥林多前書/後書·約翰一書/二書/三書) — all go to `books_single` as full forms, `books_numbered` empty.
+(If a CJK pack was integrated from `human` before this fix, its Gospel keys were truncated → add the full 福音/行傳 forms to `books`.)
 
 **Versification (Psalm / OT numbers)**:
 - LXX/Slavonic Psalms (exile = Ps 136, MT 137): ru·uz·uk·tg·kk·ka·tk·tt. **Write cite in the edition's own
@@ -374,6 +378,9 @@ a **native-digit prefix + no space** (۱سمویئل) — fetch-booknames keeps 
 - Native digits (Devanagari·Arabic·Bengali·Gujarati·Odia·Kannada·Tamil·Telugu·Malayalam…): **convert
   references to ASCII with convert-digits**, **leave verse-text digits alone** (rare; validate confirms).
 - Footnote markers (* or superscript digits) are not text → exclude from quotes (sg·bi·xh·mr).
+- **Merged verses** (dynamic translations join e.g. Eph 2:8-9 under one `data-usfm="EPH.2.8+EPH.2.9"`): fetch-verse now
+  maps such a unit onto **each** component verse, so a single-verse request (`EPH.2.8`) returns the merged text and
+  verify-verbatim passes. (First hit: zlm/#402 Eph 2:8-9 — verses 6/7/10 fetched but 8/9 were empty before the fix.)
 
 **Turn off bare (colon-less chapter refs)**: if book names collide with common words, `bookopt.bare=false`
 (colon required). Latin collisions are frequent: Rum/Roma/Rut/Rasul/Juan/Para/Ndị/Iṣe/İşləri/Misala/Luusi
