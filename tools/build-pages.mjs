@@ -3,6 +3,8 @@
 import fs from 'node:fs';
 import { execSync } from 'node:child_process';
 import crypto from 'node:crypto';
+import { createRequire } from 'node:module';
+const require = createRequire(import.meta.url);
 
 const ORIGIN = 'https://one-scroll-bible.com';
 const root = process.cwd();
@@ -457,6 +459,30 @@ function buildIcons(){
     catch(e){ imgSkip++; }
   }
 }
+// ---- QR 코드(언어별) 보강 — 빠진 qr-<code>.png 만 생성 ----
+// og/icon(rsvg+폰트 필요)과 달리 qrcode 는 순수 JS devDependency라 Vercel 기본 npm install 로도 사용 가능.
+// 누락분만 생성(기존 커밋 PNG 는 건드리지 않음). qrcode 없거나 실패해도 **빌드는 절대 막지 않음**(경고만).
+let qrMade = 0, qrHave = 0;
+const qrMissing = [];
+async function buildMissingQRs(){
+  for (const L of LANGS) {
+    if (fs.existsSync(`${root}/qr-${L.code}.png`)) { qrHave++; continue; }
+    qrMissing.push(L.code);
+  }
+  if (!qrMissing.length) return;            // 전부 보유 → 할 일 없음
+  let QR = null;                            // qrcode 로드(여러 경로 시도; make-qr 와 동일)
+  for (const base of ['qrcode', '/tmp/qrgen/node_modules/qrcode', `${root}/node_modules/qrcode`]) {
+    try { QR = require(base); break; } catch {}
+  }
+  if (!QR) return;                          // qrcode 미설치 → 경고만(아래 요약), 빌드 비차단
+  for (const code of qrMissing.slice()) {
+    try {
+      await new Promise((res, rej) => QR.toFile(`${root}/qr-${code}.png`, `${ORIGIN}/${code}/`,
+        { margin: 2, width: 600, color: { dark: '#0e1118', light: '#ffffff' } }, e => e ? rej(e) : res()));
+      qrMade++; qrMissing.splice(qrMissing.indexOf(code), 1);
+    } catch {}
+  }
+}
 
 // ---- hreflang 블록 ----
 function hreflangBlock(){
@@ -521,6 +547,7 @@ function makePage(m){
 
 buildIcons();
 buildSharedOG();
+try { await buildMissingQRs(); } catch (e) { console.log('QR 보강 건너뜀:', e.message); }
 // OG 이미지 캐시 버스팅: og.png 내용 해시를 og:image URL 에 ?v= 로 부착.
 // (og.png 는 immutable·1년 캐시 + 고정 파일명이라, 내용이 바뀌어도 URL 이 같으면 카톡·텔레그램·
 //  브라우저가 옛 이미지를 계속 씀 → 해시로 URL 을 바꿔 강제 갱신. og.png 생성 후 계산해야 일치.)
@@ -600,5 +627,6 @@ try {
 } catch (e) { console.log('sw.js 스탬프 건너뜀:', e.message); }
 
 console.log('생성된 언어 페이지:', generated.join(', '));
+console.log('QR 코드: 생성', qrMade, '· 보유', qrHave, qrMissing.length?`· ⚠ 누락(qrcode 미설치로 생성불가): ${qrMissing.join(', ')} → repo 루트에서 'npm install' 후 재빌드`:'· 누락 없음');
 console.log('OG 이미지: 생성', imgOK, '· 건너뜀', imgSkip, imgSkip?'(rsvg/폰트 없음 → 커밋된 이미지 사용)':'');
 console.log('완료. 총', LANGS.length, '개 언어 (루트=ko + 하위', generated.length, '개) · 본문 프리렌더 + JSON-LD + llms.txt');

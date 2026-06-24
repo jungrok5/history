@@ -118,10 +118,12 @@ node .claude/skills/add-language/lib/integrate.mjs /tmp/lang-<code>.json
 
 ## 4. QR + build
 ```
-node .claude/skills/add-language/lib/make-qr.mjs <code>   # qr-<code>.png (committed; if missing, npm i qrcode in /tmp/qrgen)
-node tools/build-pages.mjs                                # regenerates pages locally; refreshes i18n/en.json + sw.js stamp
+node tools/build-pages.mjs                                # regenerates pages + AUTO-BACKFILLS any missing qr-<code>.png (qrcode devDep); refreshes i18n/en.json + sw.js stamp
+node .claude/skills/add-language/lib/make-qr.mjs <code>   # (optional) explicit single-language QR; build-pages already backfills missing ones
 ```
-- `qr-<code>.png` is a **committed** binary (Vercel can't generate it).
+- `qr-<code>.png` is **committed** (source of truth). **build-pages now auto-generates any missing QR** when
+  `qrcode` is loadable (repo `npm install`, or `/tmp/qrgen`); if qrcode isn't installed it prints a `⚠ 누락` warning
+  and never fails the build — so install qrcode (`npm install` at repo root) before building, then commit the new PNG.
 - build-pages' page output (`<code>/index.html`, sitemap.xml, llms.txt) is **gitignored** — Vercel
   regenerates it on every deploy. Run it here to **verify it succeeds** and to inspect the generated
   `<code>/index.html` locally; its committed side-effects are `i18n/en.json` and the `sw.js` cache stamp.

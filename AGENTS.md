@@ -49,8 +49,9 @@ Protestant church; Korean Revised Version (개역개정) as the Korean baseline.
   index.html hash and refreshes `i18n/en.json`.
 - **Generated output is NOT committed** (Vercel regenerates it every deploy via the buildCommand):
   `/<code>/index.html`, `sitemap.xml`, `llms.txt`. See `.gitignore`.
-- **Committed binaries** (Vercel can't generate these — no rsvg/fonts at build time):
-  `og.png` (a **single shared OG image** for all languages), `icon-192/512.png`, `qr-<code>.png`.
+- **Committed binaries**: `og.png` (a **single shared OG image** for all languages) + `icon-192/512.png`
+  need `rsvg-convert`+fonts (Vercel can't make them → committed); `qr-<code>.png` is pure-JS (`qrcode`
+  devDep) so **build-pages auto-backfills any missing one** on every build (still committed as source of truth).
   Every page's `og:image` points to the shared `/og.png`; `og:title`/`og:description` stay per-language.
 - PWA: `manifest.webmanifest` + `sw.js` (navigate = network-first, assets = cache-first, same-origin only).
 - Share: global + per-scene adaptive UI (mobile native + copy/QR; desktop social + copy/QR),
