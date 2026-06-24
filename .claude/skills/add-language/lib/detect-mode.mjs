@@ -47,21 +47,30 @@ function translatability(code) {
   return { ok, why: ok ? (inF ? 'in FLORES-200' : `Wikipedia ${wiki}≥10k`) : `NOT in FLORES-200 & Wikipedia ${wiki}<10k` };
 }
 
-// ---- YouVersion: 언어페이지 __NEXT_DATA__ 의 버전 목록 ----
+// ---- YouVersion 코드→language_tag 해석기 (configuration API, 1회 캐시) ----
+//  www.bible.com/languages/<code> 는 봇 차단(Client Challenge)되어 못 씀 → nodejs.bible.com JSON API 사용.
+//  config 의 default_versions[]가 iso_639_1(2글자)·iso_639_3(3글자)·language_tag 매핑을 줌.
+let _yvLangMap = null;
+function yvLangTag(code) {
+  if (_yvLangMap === null) {
+    _yvLangMap = new Map();
+    try {
+      const j = JSON.parse(curlText('https://nodejs.bible.com/api/bible/configuration/3.1', 30));
+      for (const L of (j.default_versions || [])) {
+        if (!L.language_tag) continue;
+        for (const k of [L.iso_639_1, L.iso_639_3, L.language_tag]) if (k) _yvLangMap.set(String(k).toLowerCase(), L.language_tag);
+      }
+    } catch {}
+  }
+  return _yvLangMap.get(String(code).toLowerCase()) || code;   // 못 찾으면 코드 그대로(이미 tag 일 수 있음)
+}
+// ---- YouVersion: 언어의 버전 목록 (versions API; language_tag 기준) ----
 function yvVersions(code) {
-  const html = curlText(`https://www.bible.com/languages/${code}`);
-  const m = html && html.match(/<script id="__NEXT_DATA__"[^>]*>([\s\S]*?)<\/script>/);
-  if (!m) return [];
-  let j; try { j = JSON.parse(m[1]); } catch { return []; }
-  const seen = new Map();
-  (function walk(o) {
-    if (!o || typeof o !== 'object') return;
-    if (Array.isArray(o)) return o.forEach(walk);
-    if (o.id && (o.local_title || o.title) && (o.local_abbreviation || o.abbreviation))
-      seen.set(o.id, { id: o.id, title: (o.local_title || o.title).slice(0, 30), abbr: o.local_abbreviation || o.abbreviation });
-    for (const k in o) walk(o[k]);
-  })(j);
-  return [...seen.values()];
+  const tag = yvLangTag(code);
+  let j = null;
+  try { j = JSON.parse(curlText(`https://nodejs.bible.com/api/bible/versions/3.1?language_tag=${encodeURIComponent(tag)}&type=all`, 25)); } catch {}
+  const vs = (j && j.versions) || [];
+  return vs.map(v => ({ id: v.id, title: (v.local_title || v.title || '').slice(0, 30), abbr: v.local_abbreviation || v.abbreviation || '' }));
 }
 // 한 YV 버전의 범위: GEN.1.1(구약 처음) + MAL.3.1(구약 끝) + JHN.1.1(신약) 프로브.
 //  full = 구약(말라기까지) + 신약 둘 다.  nt = 신약만(완전 구약 없음) → partial 모드.
