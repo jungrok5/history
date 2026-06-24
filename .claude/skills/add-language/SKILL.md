@@ -327,7 +327,8 @@ auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
 - **Partial-mode**: done = ff, **ky** (NT+Genesis+Judges richer-partial). Remaining candidates = tet, et (NT-only on YV).
 - **OBS-mode** (no Bible + OBS): done = **bal** (Balochi, `fa_gl/Balochi_OBS`). Other no-Bible OBS langs in catalog: haz, shu, qxq, kaa, glk, lrc, mzn, tly, etc.
 - **YouVersion code/version gotchas**: Malagasy = code `plt` (id 873, full Bible — the old `mg` exclusion was a code
-  mismatch); kmr (id 251) is a full Bible despite its "Încîl" (NT) name.
+  mismatch); kmr (id 251) is a full Bible despite its "Încîl" (NT) name; **azb** (South Azerbaijani) full Arabic-script
+  Bible = YV **#4196 (SAB)** — distinct from the Latin-script eBible azb (which duplicates `az`); Hebrew Psalm numbering, Isa 9:6.
 
 ## Recurring-trap digest (things actually hit — check these first on every new language)
 > A new trap usually appears with each new language. When you hit a new one, add it here so the next
@@ -339,8 +340,17 @@ auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
   (sm·ts·ilo·umb·tt) / spelled ordinal "Druhá Samuelova"·"دوم سموئیل" (sk·fa·ckb·uk) / dotted
   "1. Samuel"·"1. Mosebok" (fi·no·lv·sr) / no-space "1Mózes"·"2.Samiyel" (hu·wo·mos) / suffixed
   "Патшалықтар 2-жазба" (kk) / hyphen "2-سموئیل" (ur) / word-order ordinal "Ucab Samuel" (quc) /
-  no-number "Saray Arari" = 1KI (pag). he/to **mix leading and trailing**.
+  no-number "Saray Arari" = 1KI (pag) /
+  native-digit-prefix **no-space** "۱سمویئل"·"۲پادشاهلار" (azb — the edition's own display form). he/to **mix leading and trailing**.
 - **Kingdoms numbering**: under LXX/4-book Kingdoms, 1KI = **"3 …"** (hy·ka·tt·bg·umb·kk). Normal 2-book → 1KI = "1 …".
+
+**Authoritative localized book names = the version's books API, NOT the drafting agent.** The agent (a "native speaker")
+picks valid-but-divergent names that don't match the edition → unlinked refs. Pull the real 66 from
+`curl -s 'https://nodejs.bible.com/api/bible/version/3.1?id=<YV>'` (each book's `human` field) and build BOOKS from THAT;
+then reconcile any body ref the agent wrote to the edition's spelling. Real azb hits: agent wrote قانونون تکراری/لاویلیلر/عبرانیلر,
+edition = تثنئیه/لاوئلی‌لر/عئبرانئلره (integrate's "미해결 토큰" warning surfaced them). For Arabic-script editions the API names carry
+a **native-digit prefix + no space** (۱سمویئل) — keep the base stem in `books_numbered` and let integrate emit the ASCII "1 …" form
+(refs stay ASCII; convert any stray Persian-digit ref like "۱ قورئنتلی‌لره" → "1 …").
 
 **Versification (Psalm / OT numbers)**:
 - LXX/Slavonic Psalms (exile = Ps 136, MT 137): ru·uz·uk·tg·kk·ka·tk·tt. **Write cite in the edition's own
@@ -368,6 +378,11 @@ auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
 "self-check against fetch-verse until 0 diffs" into the drafting prompt; ② still require the final
 `verify-verbatim` gate. Common paraphrases: Gen 50:20 · 1 Tim 1:15 (word order) · Col 2:15 · Mal 3:1 ·
 John 3:18 · Gal 2:16. Mark a mid-sentence skip with `…`.
+- **Ellipsis clause-selection (verify-verbatim's blind spot)**: both retained spans can be byte-verbatim yet the `…`
+  drops the *meaning-bearing* clause → the gates pass but the point is wrong. Real azb hit: Gen 3:15 `epochs[1].q`
+  ended on "you shall bruise **his heel**" (serpent's strike) instead of the protoevangelium "he shall bruise **your head**"
+  that the very next `christ` field hinges on. Only the **EN-baseline / native review** catches this — check that each `…`
+  quote ends where the EN ends.
 
 **Tool idempotency**: integrate is non-idempotent (aborts if already integrated) → re-edits go directly into
 the pack's `books`/`yv`/`bookopt` (verse data) and index.html `LANGS`, then build-pages. OG/sitemap show no
