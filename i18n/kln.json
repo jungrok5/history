@@ -1,0 +1,417 @@
+{
+ "menuName": "Kalenjin",
+ "htmlLang": "kln",
+ "dir": "ltr",
+ "brand": "Bukuit eng’ Sirutiet Agenge",
+ "docTitle": "Bukuit eng’ Sirutiet Agenge · Kobunu Taunet agoi Kanisa",
+ "share": {
+  "title": "Bukuit eng’ Sirutiet Agenge",
+  "text": "Eng’ sirutiet agenge, isich logoiywetab Bukuit ne o — ak amune kibwa Jesu."
+ },
+ "ui": {
+  "people": "Bik",
+  "events": "Tuguk che kandoi",
+  "christLabel": "Boruni Jesu",
+  "loveLabel": "Chamnyet ne matebei",
+  "mythWrong": "Naetet ne ya",
+  "mythRight": "Imanit",
+  "more": "Geer alak",
+  "version": "(BUKUIT)"
+ },
+ "labels": {
+  "start": "Taunet",
+  "thread": "Logoiywet",
+  "gospel": "Logoiywetab Kararan",
+  "about": "Agobo"
+ },
+ "s": {
+  "ui.share": "↗ Chobchinge",
+  "ui.toast": "Kigosir oret 📋",
+  "ui.footer": "Bukuit eng’ Sirutiet Agenge · Ng’alekab Bukuit kobunu BUKUIT",
+  "hero.kicker": "KOBUNU TAUNET AGOI KANISA",
+  "hero.title": "Bukuit,<br><span class=\"em\">eng’ sirutiet agenge</span>",
+  "hero.sub": "Eng’ sirutiet agenge, isich logoiywetab Bukuit ne o — ak amune kibwa Jesu.",
+  "hero.cue": "Sirin koba oltoni<span>↓</span>",
+  "thread.eyebrow": "NG’OLYONDET AGENGE NE BUNDOTE TUGUL",
+  "thread.h2": "Eng’ let, ko Bukuit logoiywet agenge",
+  "thread.flow": "<b>Logoiywet</b><span class=\"arw\">→</span><b>Kayetet</b><span class=\"arw\">→</span><b>Itetisietab Logoiywet</b>",
+  "thread.note": "Kamuktaindet <b>kaom logoiywet</b> (ng’atunot), bik <b>kayetie</b> betusiek che chang’, ak eng’ let ko <b>itetisechin</b> tuguk tugul ak kanyoorun eng’ Jesu. Sib tuguk 13 che mi oltoni eng’ ortinoni — eb <b>“Geer alak”</b> eng’ kartit age tugul si isich logoiywet ne o. ",
+  "gospel.eyebrow": "ne kimwae logoiywetni agobo “anee”",
+  "gospel.h2": "Mokoryotab Bukuit ne iman",
+  "gospel.lead": "Bukuit <b>ko ma bukutab netetetab “oyai chi ne mie.”</b>",
+  "gospel.sublead": "Ko logoiywetab ole kisoru Kamuktaindet, <b>eng’ mieindo kityo</b>, kiptengeginik che maimuche kosorgei achegei. Eng’ mokoryonyi ko teben Jesu Kristo.",
+  "gospel.mirror": "<h3>Kuriet ne matebei nebo Israel ko boruandanyo netai</h3><div class=\"cycle\"><b>Sigetietab tuguk</b><span class=\"a\">→</span><b>Sandet</b><span class=\"a\">→</span><b>Riretet</b><span class=\"a\">→</span><b>Kosoru Kamuktaindet</b><span class=\"a\">→</span><b>Sigetiet kogeny…</b></div><p>Kobunu Kiruogik agoi sandetab kioch, ko tebei Israel kuretni komaten. Ma kisir Bukuit si keuechi “amune kisang’eet ichek.”</p><p>Ko <b>nukoiywet</b>. Ma “Israel ko kiyae nuni” ne mwa, ago <b>“anee kee ayae netai”</b> (Korintoek 1 10:11).</p><p><b>Ng’oroniandet</b> ko ma bukutiet netoseet kityo. Ko <b>kiy age tugul ne kichame anan ne kiyanate kosir Kamuktaindet</b> — robinik, soyetiet, geretetab bik, bik, agot anee netai. Ak boisietetab Kamuktaindet <b>koek karariot netoiyu mageet</b> ko sigetietab tuguk kee.</p><p class=\"punch\">Eng’ let, ko ng’oroniandet ne mi gararnyi ko “anee netai, ne tebe eng’ kobogoritab Kamuktaindet.”</p>",
+  "gospel.coreIntro": "Ko nyolu nee kosoru Kamuktaindet kiptengekyondoni? Ni mokoryotab logoiywetab kararan ne mwae Bukuit.",
+  "gospel.crux": "<p class=\"crux-lead\">Bukuit komugul koboruni olondo agenge kityo.</p><p>Maimuche bik kobut kuretab tengek achegei, ak mami chi agenge ne iman. Si konyolu chi <b>kongol beyut eng’ boroindo nebo bik</b>.</p><p>Ma kibwa Jesu si konet kityo ng’alek che mie. Kibwa amu <b>mami oret age ne kisorunit anee</b>: konyolu kobwa.</p><p class=\"crux-punch\">Ne kinyolu komiten kimurtoiyondoto ko <b>anee</b>.<br>Kongol Jesu <b>tengek’nyu</b> ak kichobchin kimurtoiyot eng’ baandanyu.</p><div class=\"crux-verse\">“Ago kigitoor agobo bistaosiekyok, kigiguoten agobo tengekwogikyok … ak kisoobenech birutikyik.” — Isaia 53:5</div>",
+  "faq.h": "Mitei kiy ne ipchei ng’omo?",
+  "faq.q1": "<span class=\"arr\">▸</span> Si kotos chi ne kibirei chi kosich kipsengwet kityo ye kigoyan, ago chi ne kisobe eng’ mieindo ye matebei koba olo emoni nebo mat?",
+  "faq.a1": "<p>Ko teboutet ne kararan. Ago mitei naetet ne ya aeng’ che kiunote eng’ inendet.</p><p><b>① Ma cheng’ Bukuit bik koek “che mie ak che ya.”</b> Ma “ne mie kosir chi ne mi negityo” ne keng’alaale, ago “tilingatetab Kamuktaindet ne kararan kele.” Eng’ tainnyi, mami chi ne “mie ne ipom” (Romanik 3:23). Si ma “chi ne mie kosir kibirei chi,” ago u bik aeng’ che mionotin: agenge konam sotetit, ago agenge kosaachi, kole, “amie kosir chi negityo.”</p><p><b>② Kiy agenge konyolu ne ng’echeret kipsengwet ak emonit nebo mat.</b> Ma kondotosiekab boisiet, ago <b>ye kiyan Jesu Kristo koek Kiptaiyat ak kigosulda teboutetab tengek’ung’.</b> Chi ne kigosulda tengek’nyi eng’ korotik’ab Kristo koba kipsengwet; chi ne ma iyan inendet, ne ki teben tengek’nyi, ko matebee koba. Mami boisiet ne mie ne imuchi kosulda teboutetab tengek netai.</p><p>Si ma kipsengwet ak emonit nebo mat ko “lewenutiet nebo boisiet ne mie,” ago ko teboutetab <b>kaorutiet ak Kristo</b>. Ak “iyanet” ko ma katebeget eng’ bwatutiet kityo, ago ko walindetab netaiyu sobondo: chi ne iyani inendet kele iman, ma yoe boiboi, ago weech sub. Agot, ko <b>tororngetetab netai</b> (“amie anee”) ng’oroniandet ne ya kobut, ne yoe kobwat chi kele mami kiboisien Kristo (Luka 18:9-14).</p><p>Mwae Bukuit eng’ iman: <b>“Magiruokyin chi ne iyani inendet: ago inendet ne maiyani, ko kagiruokyi”</b> (Johana 3:18). Ma “kelewen sobondo eng’ let nebo betusiek” ko teretat, ago kagosulda eng’ <b>ye kiyan Kristo.</b></p><p class=\"faq-v\">Romanik 3:23 · Johana 3:18 · Epesoek 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Materis ye asobe eng’ mieindo, agot ye ma ayan Jesu?",
+  "faq.a2": "<p>Ko bwatutiet ne chang’ kityo, ago ma inoni naet teboutet ne iman. Geer boruandani.</p><p><b>Bwat kele imi melekndab cherobik (pirates).</b> Agot ye itilil melekndo, ak imie eng’ bik che mi melekndo, ak isobe eng’ mieindo — ko itinye netai inye <b>cherobindet</b>, amu iuti melekndo koba ole ibendi (kayetab kerchinet). Ma “kondotosiekab boisiet’ung’” netoreta, ago <b>“melekndo ne bo inye” (boruandang’ung’).</b></p><p>Si ma “ben kararanit” ne mwae logoiywetab kararan, ago <b>“walda melekndo.”</b> Kalda eng’ melekndab tengek, ak iut koba Jesu: koba boruandet ne lel nebo <b>weritab Kamuktaindet.</b> Ma ikorgei boisiet’ung’ kityo, ago iyan inendet ne togunaki eung’unnyi, si iut melekndanyi.</p><p>Imanit, ko siiri Bukuit sorunet u utiet ni: <b>“ne kisoruech kemong’une kimnatetab mesundeito, ak kouutech kebe bounatetab Werit ne bo chamnyennyi”</b> (Kolosaik 1:13).</p><p>Manaet ne ya: <b>ma mwae kele mami mokoret sobetab mieindo.</b> Ago mieindo ko ma “teretetab” sorunet, ago ko <b>logoek’nyi.</b> Chi ne kawalda melekndo ko sobe eng’ mieindo ma amu kiun, ago amu <b>chamnyetab werit.</b></p><p class=\"faq-v\">Kolosaik 1:13 · Johana 1:12 · Johana 3:3 · Epesoek 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Ye lenji chi ne kiyae ya kole “kagosaachi Kamuktaindet” ak kosobe eng’ kalyet, ago kobetie chi ne kiyaite kosande — materis kanyiset?",
+  "faq.a3": "<p>Ko teboutet ne kararan, ak sandeto ko iman. Ago mwaeni ko ma “saachetab Bukuit,” ago ko <b>walutennyi.</b></p><p><b>① Ma nyalil saachetab Kamuktaindet.</b> Ma kiunot tengek u kele “mami ne kiyae”; kongol Kamuktaindet beyut eng’ sobetab Werinnyi. Ma boornatetab kimurtoiyot kele kilewen tengek u kiy ne meting’, ago kele kandoi kele tengek ko o: ko saachet ne lewenete eng’ ng’ony tugul.</p><p><b>② Weutet ne iman ko ityie logoek.</b> Ye boiboi chi ne kiyae ya eng’ tainetab chi ne kiyaite kole “kagosaachi Kamuktaindet, abo kalyet,” ko ma weutet ng’oni ago ko boruandanyi kityo (Matayo 3:8). Ak saachet ne mi kwenutab chi ak Kamuktaindet ko ma kosiir birutiet nebo chi ne kiyaite anan kowiranji kosaachi.</p><p><b>③ Ma kisigeei tengek age tugul.</b> Kibegei tengek tugul eng’ olosiek aeng’: <b>kongol Kristo eng’ kimurtoiyot</b> (chi ne iyani inendet komami kerchinet kogeny, Romanik 8:1), <b>anan kongol chi ne saachi inendet agoi let.</b> Si mami “saachet ne nyalil.” Konyolu kee chi ne kiyae ya kotwen eng’ kerchinetab ng’ony (Romanik 13:1-4).</p><p><b>④ Ma nyilil beekab kong’ab chi ne kiyaite eng’ tainetab Kamuktaindet.</b> Riire Kamuktaindet ak che riirei, kobwat beekab kong’ tugul, ak eng’ let kous inendet (Ng’and’utiet 21:4). Si ma kongol chi ne kiyaite borotetab mugetut achichinyi, ago kondoi koba Kamuktaindet ne tilil (Romanik 12:19 — “Nenyu yaaktaetab mugetut; ayaaktoi, mwaei Kiptaiyat”).</p><p class=\"faq-v\">Matayo 3:8 · Romanik 8:1 · Romanik 13:1-4 · Ng’and’utiet 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Logoiywetab iman ng’o Bukuit? Boruni u logoiywet ne kil anan bukutiet.",
+  "faq.a4": "<p>Ko teboutet ne kararan — ak olondab taunet ne mie. Bwatet ko ma teretetab iyanet, ago ko mokoryotab kogoito kiy eng’ iman. Ma Bukuit logoiywetab kil ne “iyani ye ichamei kityo,” ago ko sirutiet ne kisir eng’ <b>olosiek, betusiek, ak bik che bo iman.</b> Geer tuguk che kichunet kityo.</p><p><b>① Ma bukutiet agenge, ago “ng’oontab bukuek” — ago bundote eng’ logoiywet agenge.</b> Bukuit ko kiboritetab <b>bukuek 66</b> che kisir eng’ <b>kenyisiek 1,500 eng’ bik 40</b> — laitorinik, kibagenge, abolik, chemiochet, daktari, bik che terterchin eng’ betusiek che terterchin, che kisir achegei ago ma ng’enotgei, eng’ ng’alektab bik 3 (Heberei, Aramaik, Greek). Ago bundote tugul, ma korirotgei, koba <b>logoiywet agenge: sorunet eng’ Kristo.</b> Ni iboiboiyetab kararan ne ma imuche koek eng’ nyalilet anan kobenge bik.</p><p><b>② Tebei koitorori kobunu ng’ony (akeolojia).</b> Tuguk che chang’ che kibwati kole kiboye, “kinyoru eng’ Bukuit kityo,” ko kilewenchi eng’ let eng’ kobalisiet. <b>Bororietab Daudi</b> kobunu koitab kisir “gotab Daudi” (Stelea ne bo Tel Dan); <b>Pontio Pilato</b>, ne kibirei Jesu, kobunu sirutiet ne tinye kainennyi; ainetab beekab Hesekia (Laitorinik 2 20:20), kobunu ainet netai ak sirutiennyi. Agot <b>Hettim</b>, che kibwati kole “bik che kichobjin” ko kibwa kole bororiet ne o eng’ korosek.</p><p><b>③ Ko sirutietab kasarta ne kibwati ne kisich kararan (manuscripts).</b> Eng’ borotetab sirutik che mitei, ak iboiboiyennyu achegei, ak kasartab kwenutab sirutiet ak sirutiet ne lel, ko Bukuit <b>mami ne ipom eng’ sirutiekab kasarta.</b> Sirutietab Isaia ne kibwati Kristo, eng’ <b>Sirutiekab Aratab Meet</b> (kinyoru eng’ 1947), kibendi ak sirutiet ne kandoi nebo kenyisiek 1,000 che lewenote koetune barak — koitorori kele kibwatu Bukuit eng’ iman eng’ betusiek tugul.</p><p><b>④ Tuguk che kisir taunet ko kibwa u ye kisir (logoiywet).</b> Sirutietab Tai, ne kisir kenyisiek che chang’ che kibwati Jesu, koboruni siegutennyi eng’ Betlehem (Mika 5:2), boisindet ne sande (Isaia 53:5), ak tuguk che bo kimurtoiyot (Tienwogikal 22). Tinye iboiboiyet ne o ne ma imuche koek nyalilet.</p><p><b>⑤ Kisirin agot bik che mami eng’ Bukuit.</b> Sirindetab Roma <b>Tacitus</b> ak Sirindetab Heberei <b>Josephus</b> — che ma bo Kristo — ko mwae agobo Jesu, kerchinetab inendet, ak kanisa ne kibwati. Agot, baorinik che kiwirakei eng’ iuet ko <b>kigol sobonywan</b> eng’ baoretab ng’etunet kobunu meet — mami chi ne mee agobo kiy ne ngen kele ko ya.</p><p>Si tugukchu koitorori kele iyanetab Bukuit ko <b>ma kiy ne kakil ago ko ne ng’om</b>; ago ma “teret” ne togunaki u namalisiet. Si kandetab Kristian ko ma kobunu teret kityo, ago kobunu <b>imanetet ne igochi Tamirmiriet ne Tilil muguleldo eng’ ye somaen Ng’olyot.</b> Mwae Bukuit: <b>“iyanet kobunu kasetab Ng’olyot”</b> (Romanik 10:17). Si agot ye boruni kil, ko <b>somaen netai</b> ko taunet. Igoch teret oret, ak kandet koetune barak eng’ chi ne soome.</p><p class=\"faq-v\">Laitorinik 2 20:20 · Isaia 53:5 · Mika 5:2 · Romanik 10:17</p>",
+  "respond.h3": "Si — nee anee?",
+  "respond.sub": "Chamnyetni ko ma ng’olyondet kityo, ago ko <b>ng’olyotab nguryet.</b> Ye kanam chamnyetni ne kichobchin kimurtoiyot eng’ baandang’ung’ muguleldang’ung’, soomu saaeni komokwogei, ng’olyondet age tugul, eng’ baibai.",
+  "respond.prayer": "<p>Kamuktaindet,</p><p>ayanate kele anee kiptengekyot ne maimuche asorugei.</p><p>Ayani kele kimee Jesu eng’ kimurtoiyot agobo anee ak kong’etu kogeny.</p><p>Saachi tengek’nyu tugul, ak kobunu ra koek Kiptaiyatab sobonyu.</p><p>Yan anee koek werit’ung’, ak igochia asob sobet ne lel.</p><p class=\"amen\">Eng’ kainetab Jesu asaaei. Amen.</p>",
+  "respond.after": "Ye kisaaen ni eng’ muguleldang’ung’, ko mwae Bukuit kele kagiek <b>weritab Kamuktaindet.</b> Mami achicha kogeny — cheng’ kanisa ne mi negityo ak ibendi oret nebo iyanet ak alak.",
+  "respond.read": "Soman Bukuit netai — nam eng’ Johana",
+  "respond.verse": "“Ago tugul che kitaach inendet … koek lagokab Jehovah.” — Johana 1:12 · Romanik 10:9-10",
+  "closing.main": "Kamuktaindet agenge,<br>eng’ logoiywet agenge,<br>cheng’ech ak <em>chamnyet</em><br>ne matebei kogeny.",
+  "closing.verse": "“Amu angen komie ale maimuchi kobesiech meet, anan sobondo … anan kiy age tugul ne kigiyai, eng’ chamnyetab Jehovah, ne mi eng’ Kristo Jesu Kiptaiyandennyo.” — Romanik 8:38-39",
+  "closing.small": "Eng’ logoiywetni, ko itoiyu Ng’atutik, Tienwogik, Maotik, ak Barwaisiek “borto.”<br>Kobunu ra, agot ye iyatun bukutiet age tugul, inai “olo imi eng’ logoiywet.”",
+  "closing.share": "↗ Chobchinge logoiywetni",
+  "about.line": "Kibunu eng’ geretetab <b>logoiywetab sorunet, evangelical · Reformed</b> ne kibchinategei kanisetab Korea ne chang’.",
+  "about.contact": "Tebutik · ng’alek — <a id=\"contact\" class=\"mail\">Sirchige baruet</a>"
+ },
+ "epochs": [
+  {
+   "tag": "SIRUTIETAB TAI · TAUNET",
+   "title": "Taunet",
+   "date": "Eng’ taunet",
+   "one": "Kichob Kamuktaindet ng’ony ne “mie missing.”",
+   "people": "Kamuktaindet; Adam ak Eva",
+   "events": "Betusiek 6 che bo taunet, chito ne kichob u boruandetab Kamuktaindet, betutab menyetab Sabato",
+   "q": "Eng’ taunet, ko kitoi Kamuktaindet koyai kipsengwetisiek ak ng’ony.",
+   "cite": "Taunet 1:1",
+   "christ": "Kichob ng’ony eng’ “Ng’olyot.” Mwae Logoiywetab Kararan nebo Johana kele Ng’olyondoni ko Jesu netai (Johana 1:1-3).",
+   "detail": "<p>Ma nam Bukuit eng’ teboutet nebo ng’omnatet, ago eng’ mwauet: <b>“Eng’ taunet, ko kitoi Kamuktaindet…”</b> Ma ng’ony nyalilet, ago ko boisietab Kamuktaindet ne tinye muguleldo.</p><ul><li><b>Boruandetab Kamuktaindet</b> · eng’ tuguk tugul che kigichob, ko chito kityo ne kigichob u Kamuktaindet — si kong’en inendet ak korib ng’ony.</li><li><b>Menyet</b> · menyetab betut ne tisap koitorori kele tuguk tugul ko kigeitetisien ak ko mi eng’ kalyet (shalom): “mie.”</li><li><b>Eden</b> · ng’ony ne tai kosich kobut, ole bende Kamuktaindet ak bik achegei.</li></ul>",
+   "next": "Ago itetetni komin kobut…"
+  },
+  {
+   "tag": "SIRUTIETAB TAI · NAMTAIYETAB TEGISTET",
+   "title": "Butet",
+   "date": "Eng’ taunet",
+   "one": "Kibwa tengek, ak kingelelda kwenutab bik ak Kamuktaindet.",
+   "people": "Adam ak Eva; erendet (Setani)",
+   "events": "Ametab logoetab kerichet, ng’etunet eng’ Eden, betutab meet ak kasieet",
+   "q": "ak ande bunyondit kwenung’wong’ inye ndaret ak kwondo … ak kotui inendet meting’ung’",
+   "cite": "Taunet 3:15",
+   "christ": "Logoiywetab kararan netai, ne kigigochin let nebo butet: “kwetab kwondo” kotui metitab erendet — ak inoni ko Jesu (Taunet 3:15; Romanik 16:20; Galatiek 4:4).",
+   "detail": "<p>Eng’ kasieetab “oegu u Kamuktaindet,” ko kibwa tengek eng’ ng’ony. Ma teboutet nebo butetab ng’atunot kityo, ago ko <b>butetab kaorutiet.</b></p><ul><li><b>Kaorutiet che kabut</b> · ak Kamuktaindet (ng’unet), ak alak (loget), ak ak tilianik (kemujik ak kasieet).</li><li><b>Meet</b> · sosietetab “imee iman” ko kibwa koek iman.</li><li><b>Taunet 3:15</b> · ago eng’ kwenutab kerchinet, ko kigochin logoiywetab sorunet netai. Mwae chebo nai kele <b>protoevangelium (logoiywetab kararan netai).</b></li></ul>",
+   "next": "Ra ko kuure Kamuktaindet chi agenge si konam sorunet…"
+  },
+  {
+   "tag": "SIRUTIETAB TAI · LOGOIYWET",
+   "title": "Kibagenge",
+   "date": "kobunu 2000 BC",
+   "one": "Kaom Kamuktaindet Abraham, “Iegu oretab beruret.”",
+   "people": "Abraham · Isaka · Jakobo · Josepu",
+   "events": "Ng’atunotab Abraham, kichotetab Isaka, lagokab Jakobo 12, kandoetab Josepu eng’ Misri",
+   "q": "ak ayain iegu bororiet ne o … ak kiberuri ortinwek tugul che bo ng’ony eng’ inye.",
+   "cite": "Taunet 12:2-3",
+   "christ": "Logoiywet kele “kiberuri ortinwek tugul” koitetisechin eng’ Jesu, kwetab Abraham (Galatiek 3:16).",
+   "detail": "<p>Konam Kamuktaindet kosulda teboutetab bik tugul eng’ kuretab chi agenge, <b>Abraham.</b> Mokoryonyi ko <b>ng’atunot (logoiywet)</b> — bororiet ne o, emet, ak “beruret eng’ ortinwek tugul.”</p><ul><li><b>Iyanet</b> · kiyan Abraham logoiywet ne ma kigeere, ak kigitiny imanda (Taunet 15:6).</li><li><b>Isaka ak Jakobo</b> · konyit logoiywet koba ne sub; Jakobo (Israel) ko kwandetab oretinwek 12.</li><li><b>Josepu</b> · kialdo eng’ tupchonik ago kiyit kandoet — “kiyai Kamuktaindet komieit” (Taunet 50:20).</li></ul>",
+   "next": "Sib bik Josepu koba Misri… ak kiek otwogik."
+  },
+  {
+   "tag": "SIRUTIETAB TAI · SORUNET",
+   "title": "Komong’u ak Tilianik",
+   "date": "kobunu 1446 BC",
+   "one": "Kisoru Kamuktaindet bik che otwogik ak koek bikyik.",
+   "people": "Musa, Aroni, Farao",
+   "events": "Sandosiek 10, Pasaka, betetab Araba ne Bireen, Ng’atutik 10 eng’ Sinai, hekalu ne ibendi, kenyisiek 40 eng’ tilianik",
+   "q": "ak anamak oegu bikyuk, ak aegu Kamuktaindet eng’ okwek …",
+   "cite": "Komong’u 6:7",
+   "christ": "Pasaka — ye kisoru korotik’ab kechiriet kobunu meet — koboruni Jesu, “Kechirietab Pasakanyo,” ne kibirei agobo achek (Korintoek 1 5:7).",
+   "detail": "<p>Sorunet ne o eng’ Sirutietab Tai. Israel ne kiek otwogik ko kisich kobolunet eng’ kimnatetab Kamuktaindet ak koek <b>bikyik.</b></p><ul><li><b>Pasaka</b> · gaa ne tinye korotik’ab kechiriet eng’ kurget kosoru kobunu meet — boruandetab chotosiek tugul che lewenote.</li><li><b>Araba ne Bireen</b> · sorunet ole tebei oret; “betet” koek boruandetab taunet ne lel.</li><li><b>Ng’atunotab Sinai</b> · eng’ Ng’atutik konet kele kosob u bikab Kamuktaindet.</li><li><b>Hekalu ne ibendi</b> · olondab kongoiyet ole menye Kamuktaindet kwenutab bikyik — boruandetab “Emanuel.”</li><li><b>Kenyisiek 40</b> · eng’ kasieet ko kibendi koitiet agenge eng’ tilianik, ago kimi Kamuktaindet ak ichek ak mana ak terenikab polut ak mat.</li></ul>",
+   "next": "Tonon eng’ kurgetab emet ne kiyamgei, si kichut…"
+  },
+  {
+   "tag": "SIRUTIETAB TAI · MENYET",
+   "title": "Lutet ak Kiruogik",
+   "date": "kobunu 1400–1050 BC",
+   "one": "Kisich emet, ago amu mami laitoriat, ko kiyaei chi tugul ne kigeerei kole mie.",
+   "people": "Josua; kiruogik u Gideon ak Samson; Ruth",
+   "events": "Butetab Jeriko, menyet eng’ Kanaan, kuretab tengek–kerchinet–sorunet",
+   "q": "Kima komi laitoriat Israel eng’ betusiechoto: kiyaei chi tugul ko u ye kigeerei kole mie.",
+   "cite": "Kiruogik 21:25",
+   "christ": "Kobunu kuretab Ruth ko bwa Daudi, ak kobunu kuretab Daudi ko bwa Jesu (Matayo 1). Agot eng’ kuriet ne ya, ko tebei kuretab Mesia.",
+   "detail": "<p>Eng’ Josua ko kichut emet ne kiyamgei, ago ye kamenye ko kobutu Kamuktaindet. Kiruogik ko kuret agenge ne matebei.</p><ul><li><b>Kuretab tengek</b> · tengek → sandet → riretet → kosoru kiruogindet → tengek kogeny. Yache koba tai.</li><li><b>Kiruogik</b> · Gideon, Samson, Debora — sorunik che bo kasarta, che kararan ago che tinye tengek.</li><li><b>Ruth</b> · logoiywetab imanit eng’ kasarta ne ya; kwonyit ne bo emet age kochut kuretab Daudi (ak Jesu).</li></ul>",
+   "next": "Riire bik, “Igochech laitoriat!”…"
+  },
+  {
+   "tag": "SIRUTIETAB TAI · KASARTA NE KARARAN",
+   "title": "Bororiet ne Kibchinategei",
+   "date": "kobunu 1050–930 BC",
+   "one": "Kaom Kamuktaindet Daudi, “Kobogoriong’ung’ kobwa koigeny.”",
+   "people": "Saul · Daudi · Solomon",
+   "events": "Laitoriatab tai Saul, Daudi ak Goliat, ng’atunotab Daudi, hekalutab Solomon",
+   "q": "Ak kigimiti gong’ung’ ak bounateng’ung’ koigeny eng’ taing’ung’: kigimiti ng’echeretab laitornateng’ung’ agoi koigeny.",
+   "cite": "Samuel 2 7:16",
+   "christ": "“Kobogoriot ne bo koigeny” koitetisechin eng’ Jesu, kwetab Daudi — si kile inendet “Weritab Daudi” (Luka 1:32-33; Matayo 1:1).",
+   "detail": "<p>Kasartab Israel ne kararan, eng’ laitorinik somok.</p><ul><li><b>Saul</b> · laitoriatab tai ne kisoom bik; taunet ne mie, ago kibalakte amu kasieet.</li><li><b>Daudi</b> · “chito ne sib muguleldab Kamuktaindet.” Kobut Goliat ak koyai Jerusalem koek kapchi. Kiyae tengek ne o (Batseba) ago koweech eng’ muguleldo (Tienwogikal 51).</li><li><b>Ng’atunotab Daudi (Samuel 2 7)</b> · kaom Kamuktaindet kogimit kuretab Daudi koigeny — kuretab kandetab Mesia.</li><li><b>Solomon</b> · eng’ barakndab ng’omnatet ak robinik ko kochob <b>hekalu,</b> ago eng’ let kobut koba ng’oroniandetab tuguk.</li></ul>",
+   "next": "Eng’ let nebo Solomon, ko kosulda bororiet aeng’…"
+  },
+  {
+   "tag": "SIRUTIETAB TAI · KASIEET",
+   "title": "Bororiet ne Kibsulda",
+   "date": "930–586 BC",
+   "one": "Kibsulda koba murot (Juda) ak tai (Israel), ak koba tai eng’ tengek.",
+   "people": "Laitorinikab bororiosiek aeng’; maotik u Elija, Isaia, ak Jeremia",
+   "events": "Sulutietab bororiet, sigetietab tuguk, sosionikab maotik",
+   "q": "Kongelelji anyun Israel gotab Daudi agoi ra.",
+   "cite": "Laitorinik 1 12:19",
+   "christ": "Eng’ kasartani ko mwae maotik agobo Mesia ne bwanei eng’ iman missing (Isaia 9:6; Isaia 53).",
+   "detail": "<p>Eng’ betusiekab weritab Solomon ko kisulda bororiet: <b>Israel (tai)</b>, oretinwek 10, kapchi Samaria; ak <b>Juda (murot)</b>, oretinwek 2, kapchi Jerusalem.</p><ul><li><b>Tai</b> · laitorinikyik tugul kobendi ng’oroniandetab tuguk; kobut eng’ Asuria eng’ 722 BC.</li><li><b>Murot</b> · konyit kuretab Daudi ak mitei laitorinik che mie u Hesekia ak Josia, ago koek tai.</li><li><b>Maotik</b> · Elija, Amos, Isaia, Jeremia kole “oweege!” Olondoni ko mi logoiywetab Mesia ne chang’ (“boisindet ne sande” nebo Isaia 53).</li></ul>",
+   "next": "Eng’ let kobwa kerchinet ne kimwa — kialdo koba olo emoni…"
+  },
+  {
+   "tag": "SIRUTIETAB TAI · KERCHINET",
+   "title": "Otwognatet",
+   "date": "722 / 586 BC",
+   "one": "Kobut bororiet ak kialdo bik koba emet age.",
+   "people": "Daniel, Esekiel, Nebukadnesar",
+   "events": "Kobut Israel eng’ Asuria (722); kobut Juda eng’ Babulon ak kibis hekalu (586)",
+   "q": "Kigitebe ngegutab ainosiekab Babulon,Ee kigirirtosi eng’ oloto,Ye kingibwati Sion.",
+   "cite": "Tienwogikal 137:1",
+   "christ": "Eng’ kwenutab kayanutiet ne o ko kaom Jeremia “kayomiset ne leel” (Jeremia 31:31) — ng’atunot ne kiyan Jesu eng’ Amisietab Let.",
+   "detail": "<p>Koitetisechin sosionik. Bele hekalu ak kialdo bik koba Babulon — koibis emet, laitoriat, ak hekalu: olondab kayetet.</p><ul><li><b>Butosiek aeng’</b> · Israel (Asuria, 722 BC) ak Juda (Babulon, 586 BC).</li><li><b>Daniel</b> · boruandetab iyanet agot eng’ kapchitab bik che ma iyani (kerchitab koek); kogeer geretetab “bororiet ne bo koigeny.”</li><li><b>Mat ne kararan</b> · geretetab koik che yaminat che ek sobotinik (Esekiel 37) ak “kayomiset ne leel” nebo Jeremia koboruni betusiek che bwanei eng’ tutiet.</li></ul>",
+   "next": "Eng’ let nebo kenyisiek 70, ko ichom Kamuktaindet oret — koweek gaa…"
+  },
+  {
+   "tag": "SIRUTIETAB TAI · KAMANG’UNET",
+   "title": "Weutet kobunu Otwognatet",
+   "date": "538–430 BC",
+   "one": "Koweek ak kochob hekalu ak korosek.",
+   "people": "Esra, Neemia, Esta, Serubabel",
+   "events": "Weutet eng’ ng’atutietab Kiro, chobetab hekalu, kararetab korosek nebo Jerusalem, kamang’unetab Ng’olyot",
+   "q": "amu kimnateng’wong’ boiboiyetab Jehovah.",
+   "cite": "Neemia 8:10",
+   "christ": "Malaki, bukutiet ne bo let nebo Sirutietab Tai, ko itetisin kole konyolu chi ne yoktoi koetune oretab Mesia: “ayogu chito nenyu” (Malaki 3:1).",
+   "detail": "<p>Eng’ ng’atutietab laitoriatab Persia Kiro (538 BC) ko nam weutet. Eng’ weeksosiek somok ko koweek ak kochob tuguk che kabut.</p><ul><li><b>Serubabel</b> · kochob hekalu (kigeitetisien 516 BC).</li><li><b>Esra</b> · konet Ng’olyot kogeny ak kosob iyanet.</li><li><b>Neemia</b> · kochob korosek nebo Jerusalem eng’ betusiek 52.</li><li><b>Esta</b> · kosoru Heberei che mi Persia kobunu bisiet — “amune ngen kele kobunu kasartani.”</li><li><b>Mageet ne tebei</b> · ko teben hekalu, ago mami laitoriat u Daudi. Kayetie bik Mesia.</li></ul>",
+   "next": "Ak ng’omo… u kipsengwet ne ng’aman, kobwa kenyisiek 400 che ng’aman."
+  },
+  {
+   "tag": "KWENUTAB SIRUTIK · ICHOBETAB OLDA",
+   "title": "Kenyisiek che Ng’aman",
+   "date": "kobunu 430–4 BC",
+   "one": "Kenyisiek 400 che mami kasitab maotiat — ago kichobgei olda eng’ ng’amisiet.",
+   "people": "Aleksanda ne O, Makabaim, Roma",
+   "events": "Persia → Greek → bolunetab Makabaim → kandoetab Roma",
+   "q": "ago ye kingoit betut ne kiyamgei, koyok Jehovah Werinnyi, ne kisich kobogoriot, kosich eng’ Ng’atutiet,",
+   "cite": "Galatiek 4:4",
+   "christ": "Ichobetani tugul nebo olda ko boisietab Kamuktaindet si kobwa Jesu eng’ “betut ne kiyamgei.”",
+   "detail": "<p>Kobunu Malaki agoi Sirutietab Lel, kobwa kenyisiek 400 che mami sirutiet ne lel. Ago eng’ tutiet nebo sirutiet ko ichobe Kamuktaindet oretab logoiywetab kararan.</p><ul><li><b>Walisietab bororiosiek</b> · Persia → Greek (Aleksanda, 333 BC) → Misri ak Suria → ng’etunetab Makabaim (167 BC) → Roma (63 BC).</li><li><b>Greek</b> · lutetab Aleksanda koyai Greek koek ng’alek che kiboisien; kiwalakta Sirutietab Tai koba Greek (Septuaginta), kochobu oret nebo logoiywetab kararan kobut chiitiet.</li><li><b>Ortinwek ak kalyetab Roma</b> · ortinwek che kararan ak “Pax Romana” ko ek ortinwekab boisietab kararan.</li><li><b>Sinagogi ak boroinik</b> · konam netetetab sinagogi; kobwa Farisaim ak Sadukaim; ak <b>mageetab Mesia</b> kobit koetune.</li></ul>",
+   "next": "Si kosulda ng’amisiet — eng’ let, kobwa."
+  },
+  {
+   "tag": "SIRUTIETAB LEL · ITETISIET",
+   "title": "Bwatetab Jesu",
+   "date": "kobunu 4 BC–AD 30",
+   "one": "Kibwa Mesia ne kiyam, kimee, ak kong’etu kogeny.",
+   "people": "Jesu, baorinik 12, Johana Kibapteisindet",
+   "events": "Iegutab borto (Christmas), boisietab netetet ak kararaisiek, meetab kimurtoiyot, ng’etunet eng’ betut ne bo somok",
+   "q": "Ak kiek Ng’olyot borto, ak komeny kwenunnyo … ko nyiitat mieindo ak imanit.",
+   "cite": "Johana 1:14",
+   "christ": "Kwetab kwondo (tuguk 2), beruretab Abraham (3), kechirietab Pasaka (4), laitoriatab Daudi ne bo koigeny (6), ak kayomiset ne leel (8) — koitetisechin tugul eng’ Jesu agenge: maotiandanyo ne iman, kibagengandanyo ne iman, ak laitoriandanyo ne iman.",
+   "detail": "<p>Kosulda ng’amisiet; kobwa ne kiyam. Logoiywetab kararan angwan koitorori sobet, meet, ak ng’etunetab Jesu kobunu olosiek angwan.</p><ul><li><b>Iegutab borto</b> · kiek Kamuktaindet chito (Emanuel, “Kamuktaindet ne mi achek”), eng’ olondab kongoiyet nebo Betlehem.</li><li><b>Boisiet</b> · konet bounatetab Kamuktaindet, kosaib che miach, kokuur kiptengeginik. “Chi ne kageere anee, ko kageer Kwanda.”</li><li><b>Kimurtoiyot</b> · kobeyu boroindetab tengek ak meet ne kibwa eng’ butet (tuguk 2). Kechirietab Pasaka ne iman.</li><li><b>Ng’etunet</b> · ng’etu eng’ betut ne bo somok, kobut kimnatetab tengek, meet, ak Setani — agot eng’ kimurtoiyot ko “kagorek bounatosiek ak kimnatosiek … koterteri ichek” (Kolosaik 2:15).</li></ul><p>Si Jesu ko <b>maotiandanyo ne iman</b> (koborunech oret koba Kamuktaindet), <b>kibagengandanyo ne iman</b> (kosaachi tengek eng’ bortonyi), ak <b>laitoriandanyo ne iman</b> (kobut tengek, meet, ak Setani ak kobogoriot koigeny).</p>",
+   "next": "Yoktoi Jesu ne kong’etu baorinikyik koba ng’ony…"
+  },
+  {
+   "tag": "SIRUTIETAB LEL · KICHUNET",
+   "title": "Taunetab Kanisa",
+   "date": "kobunu AD 30–",
+   "one": "Kobwa Tamirmiriet, ak kibchunei logoiywetab kararan agoi tabandab ng’ony.",
+   "people": "Petero, Paulo, kanisa ne kibwati",
+   "events": "Bwatetab Tamirmiriet eng’ Pentekost, siegutetab kanisa, kichunetab logoiywet kobunu Jerusalem agoi Roma eng’ sandet",
+   "q": "Ago otaache kamuktaet, ye tun kanyonjok Tamirmiriet ne Tilil: ak oegu baorinikyuk eng’ Jerusalem … ak agoi tabandab ng’ony.",
+   "cite": "Boisionikab Che Kiyoktoi 1:8",
+   "christ": "Logoiywetni ko tebei agoi ra. Ko itetisin Bukuit eng’ logoiywet kele kobwa Jesu kogeny ak koyai tuguk tugul che lel (Ng’and’utiet 21).",
+   "detail": "<p>Eng’ let nebo kanyonetab Jesu barak, ko bwa Tamirmiriet ne kiyamgei eng’ Pentekost ak kosiegu kanisa. Kibchunei logoiywetab kararan eng’ kimnatet ne o.</p><ul><li><b>Pentekost</b> · eng’ Tamirmiriet ko kiek baorinik che iuoten kioek baorinik che gimegei.</li><li><b>Petero</b> · komwae logoiywetab kararan eng’ Heberei eng’ Jerusalem.</li><li><b>Paulo</b> · kobunu sanyondet koek baorindet; kosiegu kanisaisiek eng’ ng’ony nebo bik che ma Heberei ak kosir barwaisiek.</li><li><b>Agoi tabandab ng’ony</b> · Jerusalem → Judea → Samaria → Roma. Logoiywet ne kigochin Abraham nebo “ortinwek tugul” koitetisechin.</li><li><b>Ak achek</b> · ma sulda logoiywet; tebei koba bwatetab Jesu ne bo aeng’ ak kipsengwet ne lel ak ng’ony ne lel.</li></ul>",
+   "next": "Ago ma sulda logoiywet oltoni…"
+  },
+  {
+   "tag": "SIRUTIETAB LEL · KEITETISIET",
+   "title": "Kamang’unet (tuguk tugul che lel)",
+   "date": "ne bwanei",
+   "one": "Kobwa Jesu kogeny ak koyai tuguk tugul che lel.",
+   "people": "Jesu ne weksei; ortinwek tugul",
+   "events": "Bwatet ne bo aeng’, kerchinet ne bo let, sulutietab tengek·meet·beekab kong’, kipsengwet ne lel ak ng’ony ne lel",
+   "q": "ak kous inendet beekab kong’ alak tugul eng’ konyekwak; ama komi meet kogeny; ama komi kateiyet kogeny, anan rirek, anan ng’wanindo …",
+   "cite": "Ng’and’utiet 21:4",
+   "christ": "Eden nebo taunet ne tai koitetisechin koek “Jerusalem ne lel.” Menye Kamuktaindet ak bikyik koigeny — keitetisietab Emanuel (Ng’and’utiet 21:3; Matayo 1:23).",
+   "detail": "<p>Ma sulda Bukuit eng’ kasartab kanisa. Bukutiennyi ne bo let, Ng’and’utiet, koitorori Jesu ne <b>weksei kogeny</b> ak koitetisien tuguk tugul.</p><ul><li><b>Bwatet ne bo aeng’</b> · laitoriat ne kiyam koweksei eng’ torornatet.</li><li><b>Lutet ne bo let</b> · kibut Setani ak meet koigeny, ak kobogoriot Kristo koek Laitoriatab laitorinik (Korintoek 1 15:25-26; Ng’and’utiet 20:10).</li><li><b>Kerchinet ak ng’etunet</b> · kelewen kasieet tugul, ak ng’etu che kameet.</li><li><b>Kipsengwet ne lel ak ng’ony ne lel</b> · tengek, meet, beekab kong’, ak kasieet kosiirto koigeny (Ng’and’utiet 21:4).</li><li><b>Eden ne kamang’unate</b> · eng’ “Jerusalem ne lel” ne mie kosir taunet, ko menye Kamuktaindet ak bikyik koigeny — olondo ole bende Bukuit komugul.</li></ul><p>Si ra ko kasartab <b>“kagoit, ago tebei”</b>: eng’ Jesu ko sorunet <b>kageitetisien,</b> ago keitetisiennyi <b>tebei.</b></p>",
+   "next": "Ko logoiywetni komugul ng’o ne imwae agobo “anee”?"
+  }
+ ],
+ "love": [
+  "Ma nam logoiywet eng’ kerchinet, ago eng’ ng’ony ne kichob eng’ chamnyet ne kiyit.",
+  "Ye kiyae chi tengek kityo, ko kaom Kamuktaindet sorunet eng’ olondoto netai.",
+  "Kicheng’ Kamuktaindet chi ne ma kararan netai, kokuur kainennyi, ak koyai oretab beruret.",
+  "Kokas riretetab bik che otwogik ak koebu netai kosoru ichek.",
+  "Agot ye kiwirakei komaten, ago kasarta tugul ye kiriire ko kiyoktoi sorunindet ak koebu ichek kogeny.",
+  "Agot Daudi ne kabut ko ma kibulda; agobo inendet ko kaom laitoriat ne bo koigeny.",
+  "Bik che kiwiranji ko kiyoktoi maotik, kosoom: “Weege, soomu.”",
+  "Agot agoi emet ne tutonin nebo otwognatet ko kiebu ak ichek ak kaom kamang’unet.",
+  "Agot bik che kibal komaten ko ma kiwiriri logoiywennyi, ago koebu ichek kogeny.",
+  "Agot eng’ kenyisiek 400 che ng’aman, eng’ tutiet, ko kichobe oretab sorunet.",
+  "Ye kita ko ki kiptengeginik, ko kiyoktoi Werinnyi ak kogochi sobonyi.",
+  "Chamnyetni ne kasich, ra ko kiyoktoi koba ng’ony komugul.",
+  "Eng’ let ko kous beekab kong’ tugul ak koyai tuguk tugul che lel eng’ chamnyet."
+ ],
+ "mis": [
+  {
+   "w": "“Amune kichob Kamuktaindet chi ne imuche koyai tengek? Materis ye ma kichob achek?”",
+   "t": "Ma kichob Kamuktaindet ng’ony ak bik amu mageet age tugul, ago eng’ chamnyet ne kiyit. Chobetab bik koek <b>bik che imuche kotinye kaorutiet ak Kamuktaindet</b> ko chamnyet netai. Ak agot bwatetab tengek ko ma kibut tutietab pachanetab sorunet nebo Kamuktaindet (Epesoek 1:4-5). Olondab taunet nebo Bukuit ko ma kerchinet, ago ko chamnyet."
+  },
+  {
+   "w": "“Amu ametab logoetab kerichet agenge ko kibol ak kibwa meet? Materis kandetab Kamuktaindet?”",
+   "t": "Ng’etunet eng’ Eden ko kerchinet ak riberiet kee. Ye kiam chi kobunu ketit nebo sobet ak kosob koigeny eng’ boruandetab butet ne kabut kobunu Kamuktaindet, ko kobwa sandetab koigeny (Taunet 3:22). Ichetab meet ko kichob oretab weutet; ak olondoto netai ko kaom Kamuktaindet Sorunindet (Taunet 3:15). Eng’ kerchinet ko mi chamnyet."
+  },
+  {
+   "w": "“Kilewen Abraham amu iyanennyi ne o; materis bikab Bukuit tugul kioek bik che mie?”",
+   "t": "Kibgaakte Abraham ak kobgei, ak Jakobo ko sokondet. Ma kikuur Kamuktaindet “che kiyamgei,” ago eng’ mieindo ko kikuur che ma kororochin. Ma teboutetab kororindennywan, ago ko chamnyetab Kamuktaindet ne tilil (Ng’atutik 7:7-8)."
+  },
+  {
+   "w": "“Materis Ng’atutiet (Ng’atutik) ko teret anan teretet ne konyolu kobit chi si kisorun?”",
+   "t": "Kisoru Kamuktaindet ichek <b>tai</b> nebo kigigochin Ng’atutiet. Agot Ng’atutik 10 ko nam ak mwauetab sorunet: “A Jehovah Kamuktaindeng’ung, ne kiimutun imong’une emetab Misri” (Komong’u 20:2). Ma Ng’atutiet “rib si kisorun,” ago ko netetetab chamnyet kele kosob u che kasorunit eng’ kayanet (Ng’atutik 7:7-9). Kayanet netai; weutet ko walutet."
+  },
+  {
+   "w": "“Lutetab Kanaan ko biretet ne ya; Kamuktaindetab Sirutietab Tai ko kandoi.”",
+   "t": "Ko ng’olyondet ne ma kisulda eng’ ng’olyondet agenge ak konyolu riberiet. Ago ma koitorori Bukuit u biretet ne nyalil, ago ko kerchinet eng’ let nebo kenyisiek che chang’ che bo tegistet ne o (kosen lagok kee) (Taunet 15:16; Ng’atutik 9:4-5; Atebetab Lawik 18:24-25). Ma kandoi Kamuktaindet agot eng’ kerchinet, ak chi ne weche koba inendet ko kous eng’ boiboi, agot ye bo emet age, u Rahab ak Ruth (Josua 6:25; Ruth 4:13-17)."
+  },
+  {
+   "w": "“Daudi ko sorunindet ne mami tengek; si kile inendet ‘chi ne sib muguleldab Kamuktaindet.’”",
+   "t": "Kiyae Daudi sigeet ak agot biretet. “Chi ne sib muguleldab Kamuktaindet” ko ma kele mami tengek, ago chi ne ma kiun tengek’nyi — ne kiweech eng’ iman ak koweech kobwa Kamuktaindet (Tienwogikal 51). Ma bulda chamnyetab Kamuktaindet agot chi ne kabut komissing’."
+  },
+  {
+   "w": "“Maotiat ko chito ne mwae tuguk che bwanei; Kamuktaindetab Sirutietab Tai ko nereret kityo.”",
+   "t": "Mokoryotab maotiat ko ma “mwauetab tuguk che bwanei,” ago ko riretetab Kamuktaindet: “weege, soomu.” Agot sosietetab kerchinet ko ma cheng’ kobeyu, ago kowech bik kosob: “ko mabaibaitune meetab kiptengekyot” (Esekiel 33:11)."
+  },
+  {
+   "w": "“Koitorori otwognatet kele kibulda Kamuktaindet Israel komugul.”",
+   "t": "Ma butet otwognatet, ago ko nguret ak tilingatetab Kwanda koba weritab chamnyet (Hebranik 12:6). Ma kiwende Kamuktaindet; kimi ak Daniel eng’ kwenutab otwognatet ak kaom: “angen kabwatutik che abwati agobo okwek … kabwatutikab kalyet … si agonok kamang’unet eng’ betusiekwok che bo let” (Jeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Ye mami sirutiet eng’ kenyisiek 400, ko materis kibwende Kamuktaindet anan kimenye?”",
+   "t": "Ng’amisiet ko ma achichinet. Ma kong’alaal kityo, ago eng’ kasartani tugul ko kiwale bororiosiek, ng’alek, ak ortinwek si kochobu oldab sorunet. Eng’ kasarta ne ng’aman missing, ko kiboisie Kamuktaindet eng’ chamnyet ne o (Galatiek 4:4)."
+  },
+  {
+   "w": "“Jesu ko netetet ne mie agenge kityo; kimurtoiyot ko butet ne ya.”",
+   "t": "Komwa Jesu kole inendet Kamuktaindet (Johana 8:58), ak kimurtoiyot ko ma nyalilet anan butet, ago ko chamnyet ne kiyamgei. Ma kichut kobwa amu kimnatet, ago kogochi sobondanyi eng’ mageet’nyi (Johana 10:18). “Matinyei chi chamnyet ne siirei ni, ale kogoito chi sobondanyi agobo choronokyik” (Johana 15:13)."
+  },
+  {
+   "w": "“Kanisa ko ng’ootetab bik che mie missing, anan ko gaa kityo.”",
+   "t": "Ma kanisa ng’ootetab “bik che mami tengek,” ago ko nebo <b>kiptengeginik che kasaachi.</b> Agot baorindet Paulo ko kikuurgei “a ne bo tai eng’ choto” (Timoteo 1 1:15). Kanisa ne kibwati ko kibngalaale ak kobgei (Boisionikab Che Kiyoktoi 6:1; Korintoek 1 1:11). Ma kanisa olondab waletit, ago ko bik che togunaki chamnyet ne kasich (Johana 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Tengek nebo taunet — mami chi ne iman",
+   "body": "Ma teret “tuguk che ya kityo,” ago ko kuretab muguleldo. Kobunu Adam, ko kisiegei bik tugul eng’ tengek ak maimuche koit Kamuktaindet achegei.",
+   "vref": "Romanik 3:10-12, 23",
+   "vtext": "Mami ne bo imanda, achicha, mami agot agenge … amu kigoyai tugul tengek, ama ityin torornatetab Jehovah;"
+  },
+  {
+   "title": "Maimuchi Ng’atutiet kosorun",
+   "body": "Ma keit Ng’atutiet, ago ko nukoiywet. Agot ye agim kosob, ko koitorori ole abute. Mokoryonyi ko koibe achek koba Kristo.",
+   "vref": "Romanik 3:20 · Galatiek 3:24",
+   "vtext": "amu bunu naetab tengekto Ng’atutiet … Kiek anyun Ng’atutiet konetindennyo ne imutyinech Kristo"
+  },
+  {
+   "title": "Eng’ kayanet — konunet, ma boisiet",
+   "body": "Ma sorunet kondotosiekab boisiet che kiyae, ago ko konunetab Kamuktaindet koba chi ne ma kororochin. Si maimuche chi kotororngegei.",
+   "vref": "Epesoek 2:8-9",
+   "vtext": "amu kigesoruok eng’ mieindo eng’ kayanet; ago mabunwok nito: konunetab Jehovah; ama bo boisionik, si mailosgei chi."
+  },
+  {
+   "title": "Kiityin imanda eng’ kayanet",
+   "body": "Ma eng’ ribetab Ng’atutiet, ago eng’ iyanetab Jesu Kristo ko kiityin imanda — ma kelosgei imanda nebo netai, ago nebo inendet.",
+   "vref": "Romanik 5:1 · Galatiek 2:16",
+   "vtext": "Kitinye kalyet ak Jehovah eng’ Kiptaiyandennyo Jesu Kristo amu kigiityech imanda eng’ kayanet … magiityin chi imanda eng’ boisionikab ng’atutik, ago eng’ kayanet eng’ Jesu Kristo"
+  },
+  {
+   "title": "Boruni Bukuit Jesu",
+   "body": "Ma Bukuit sirutietab bik che oo anan bukutab toretietgei. Kobunu Taunet agoi Ng’and’utiet, ko baori sirutiet age tugul chito agenge — Jesu Kristo.",
+   "vref": "Johana 5:39 · Luka 24:27",
+   "vtext": "amu olen otinye sobondab koigeny eng’ choto; ago choto che baorianjina … Ak kitoi koboch Musa ak maotik tugul, ak kiiarorji ichek eng’ sirutik tugul ng’alek agobo inendet."
+  },
+  {
+   "title": "Bounatetab Kamuktaindet — mokoryotab ng’olyotab Jesu",
+   "body": "Ng’olyondet ne kinet Jesu missing. Kobogoritab Kamuktaindet u laitoriat ko kichut ng’ony eng’ Jesu ak koitetisechin ye weksei. Eng’ kimurtoiyot ak ng’etunet, ko Jesu laitoriat ne iman ne kabut tengek, meet, ak Setani.",
+   "vref": "Mariko 1:15",
+   "vtext": "Kagosulda betusiek, ak kagorik bounatetab Jehovah …"
+  },
+  {
+   "title": "Logoiywetab kararan — kageitetisien tugul",
+   "body": "Boroindetab tengek ne maimuche abeyu, kobeyu Jesu eng’ baandanyu eng’ kimurtoiyot, ak eng’ ng’etunet kobut meet. Ma atebei eng’ “yai ni,” ago eng’ “kagogesgei.”",
+   "vref": "Johana 19:30 · Romanik 5:8",
+   "vtext": "Kagogesgei … Ago iboruech achek Jehovah chamnyennyi, amu ye kita ko ki kiptengeginik, kome Kristo agobo achek."
+  }
+ ],
+ "books": {
+  "Taunet": "GEN",
+  "Komong’u": "EXO",
+  "Atebetab Lawik": "LEV",
+  "Koitosiek": "NUM",
+  "Ng’atutik": "DEU",
+  "Josua": "JOS",
+  "Kiruogik": "JDG",
+  "Ruth": "RUT",
+  "Esra": "EZR",
+  "Neemia": "NEH",
+  "Esta": "EST",
+  "Job": "JOB",
+  "Tienwogikal": "PSA",
+  "Kalewenaik": "PRO",
+  "Amdoindet": "ECC",
+  "Tiendo Ne Siirei Tugul": "SNG",
+  "Isaia": "ISA",
+  "Jeremia": "JER",
+  "Rirekab Jeremia": "LAM",
+  "Esekiel": "EZK",
+  "Daniel": "DAN",
+  "Hosea": "HOS",
+  "Joel": "JOL",
+  "Amos": "AMO",
+  "Obadia": "OBA",
+  "Jona": "JON",
+  "Mika": "MIC",
+  "Nahum": "NAM",
+  "Habakuk": "HAB",
+  "Sepania": "ZEP",
+  "Hagai": "HAG",
+  "Sekaria": "ZEC",
+  "Malaki": "MAL",
+  "Matayo": "MAT",
+  "Mariko": "MRK",
+  "Luka": "LUK",
+  "Johana": "JHN",
+  "Boisionikab Che Kiyoktoi": "ACT",
+  "Romanik": "ROM",
+  "Galatiek": "GAL",
+  "Epesoek": "EPH",
+  "Pilipik": "PHP",
+  "Kolosaik": "COL",
+  "Tito": "TIT",
+  "Pilemon": "PHM",
+  "Hebranik": "HEB",
+  "Jakobo": "JAS",
+  "Juda": "JUD",
+  "Ng’and’utiet": "REV",
+  "Samuel 1": "1SA",
+  "Samuel 2": "2SA",
+  "Laitorinik 1": "1KI",
+  "Laitorinik 2": "2KI",
+  "Ateptab Betusiek 1": "1CH",
+  "Ateptab Betusiek 2": "2CH",
+  "Korintoek 1": "1CO",
+  "Korintoek 2": "2CO",
+  "Tesalonikek 1": "1TH",
+  "Tesalonikek 2": "2TH",
+  "Timoteo 1": "1TI",
+  "Timoteo 2": "2TI",
+  "Petero 1": "1PE",
+  "Petero 2": "2PE"
+ },
+ "yv": 2927,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

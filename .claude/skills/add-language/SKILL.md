@@ -81,8 +81,10 @@ JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=speakers  --top=
     `s.gospel.crux`(ISA.53.5) · `s.respond.verse`(JHN.1.12) · `s.closing.verse`(ROM.8.38-39) ·
     `epoch[8].christ`(MAL.3.1) · **`epoch[2].detail`(GEN.50.20)** · **`epoch[10].detail`(COL.2.15)** ·
     `mis[].t` (EXO.20.2 · EZK.33.11 · JER.29.11 · JHN.15.13 · 1TI.1.15) ·
-    **`s.faq.a1`(JHN.3.18, span ends at "…condemned already")** · **`s.faq.a2`(COL.1.13)** · `s.faq.a3`(ROM.12.19).
-    (verify-inline catches paren/dash forms but can miss the `<b>"…"</b> (Book c:v)` faq form — so get these right at draft time.)
+    **`s.faq.a1`(JHN.3.18, span ends at "…condemned already")** · **`s.faq.a2`(COL.1.13)** · `s.faq.a3`(ROM.12.19) ·
+    **`s.faq.a4`(ROM.10.17 — "faith comes from hearing … the word of Christ")**.
+    (verify-inline catches paren/dash forms but can miss the `<b>"…"</b> (Book c:v)` faq form — so get these right at draft time.
+    **`s.faq.a4`/ROM.10.17 is the most-missed**: paraphrased & undetected in fon, tiv (tiv even swapped "word of **Christ**"→"word of **God**") — always re-fetch it and the faq.a1/a2/a3 quotes at native-review time.)
   - Check edition availability first: the body quotes many OT books (GEN·EXO·DEU·PSA·ISA·JER·MAL…) →
     `fetch-verse <YV> ISA.53.5,PSA.23.1,MAL.3.1` confirms a **full OT** (hold NT-only / lacunae editions).
   - Preserve HTML tags (`<b><p><h3><ul><li><span><br><em>` …); translate only human-readable text.

@@ -1,0 +1,419 @@
+{
+ "menuName": "Tiv",
+ "htmlLang": "tiv",
+ "dir": "ltr",
+ "brand": "Bibilo ken Mpase Môm",
+ "docTitle": "Bibilo ken Mpase Môm · Hii sha Mgbe zan zan Nyumshima",
+ "share": {
+  "title": "Bibilo ken Mpase Môm",
+  "text": "Ken mpase môm tsô, fa kwaghôron u vesen u Bibilo — man er Yesu A va yô."
+ },
+ "ui": {
+  "people": "Ior",
+  "events": "Akaa a hemban a vesen",
+  "christLabel": "I tese Yesu",
+  "loveLabel": "Dooshima u a kera ende ga",
+  "mythWrong": "Mtsegh u i tsegh la",
+  "mythRight": "Mimi je yô",
+  "more": "Ôr seer",
+  "version": "(TOBNR)"
+ },
+ "labels": {
+  "start": "Mhii",
+  "thread": "Kwaghôron",
+  "gospel": "Loho u Dedoo",
+  "about": "Sha Kwagh Ne"
+ },
+ "s": {
+  "ui.share": "↗ Pase",
+  "ui.toast": "I cir igbenda 📋",
+  "ui.footer": "Bibilo ken Mpase Môm · Avur a icighanruamabera ka sha TOBNR",
+  "hero.kicker": "HII SHA MGBE ZAN ZAN NYUMSHIMA",
+  "hero.title": "Bibilo,<br><span class=\"em\">ken mpase môm</span>",
+  "hero.sub": "Ken mpase môm tsô, fa kwaghôron u vesen u Bibilo — man er Yesu A va yô.",
+  "hero.cue": "Gba kuran shin inya<span>↓</span>",
+  "thread.eyebrow": "KWAGHÔRON U MÔM U A KÔÔM AKAA CII LA",
+  "thread.h2": "Mtôôv u i kar yô, Bibilo ka kwaghôron u môm tsô",
+  "thread.flow": "<b>Ityendezwa</b><span class=\"arw\">→</span><b>Mkohol</b><span class=\"arw\">→</span><b>Mkurom</b>",
+  "thread.note": "Aôndo <b>tôô ityendezwa</b> (ikyua), ior <b>kohol</b> shighe u gbenge, man mtôôv akaa cii <b>kuma</b> shi kure kpaa ken Yesu. Dondo akaa a 13 a ken inya ne sha gbenda u nahan — bende sha <b>“Ôr seer”</b> sha kar môm môm sha u fan kwaghôron seer.",
+  "gospel.eyebrow": "ER KWAGHÔRON NE A LU SHA CI U “MO” YÔ",
+  "gospel.h2": "Ishima i mimi i Bibilo",
+  "gospel.lead": "Bibilo ka <b>takerada u tesen er “lu or u dedoo” ga.</b>",
+  "gospel.sublead": "Ka kwaghôron u er Aôndo, <b>sha mhôôn tsôô</b>, A yima mbaasorabo mba ve fatyô u yiman ayol a ve ga la. Ken atô u kwagh ne tile Yesu Kristu.",
+  "gospel.mirror": "<h3>Gbenda u Iserael u a kera bee ga la ka ikyav i “mo” je</h3><div class=\"cycle\"><b>Mciviraeev</b><span class=\"a\">→</span><b>Ican</b><span class=\"a\">→</span><b>Mliam</b><span class=\"a\">→</span><b>Aôndo yima</b><span class=\"a\">→</span><b>Mciviraeev shi…</b></div><p>Hii sha Mbaajiriv zan zan ken mkohol, Iserael eren gbenda ne sha won sha won. Bibilo nger kwagh ne sha u se gôhôr er, “Ka or u kiriki je ve nahan la ga.”</p><p>Ka <b>ikyav-iyol</b>. Ka u kaan ér “Iserael er nahan” ga kpa ka u kaan ér <b>“mo kpaa m eren kape i môm la”</b> (1 Mbakorinte 10:11).</p><p><b>Eev</b> ka kwagh u i gbe sha kon tseegh ga. Ka <b>hanma kwagh u se soo shin se suur a mi a hemba Aôndo</b> — inyaregh, mtsehe, mlumun u ior, ior, shin mo iyol yam je kpaa. Man u yaren tom a Aôndo er <b>kwagh u zuan a mlu wam</b> kpaa ka mciviraeev je.</p><p class=\"punch\">Mtôôv u i kar yô, eev u hemban yô ka “mo iyol yam, m tem sha ikyônough ki tartor ki Aôndo.”</p>",
+  "gospel.coreIntro": "Nahan kape Aôndo yima orsorabo ne nena? Heen ka ishima i Loho u Dedoo u Bibilo i ôron ne.",
+  "gospel.crux": "<p class=\"crux-lead\">Bibilo cii i tese ijiir i môm tsô.</p><p>Ior fatyô u paven gbenda u isholibo sha ayol a ve ga, man or u perapera kpaa lu môm ga. Sha nahan yô, gba u or nana <b>kimbi injar sha ityough ki ve</b>.</p><p>Yesu va sha u tesen akaa a dedoo tseegh ga. Er gbenda ugen u yiman mo lu ga yô, <b>gba u Una va je.</b></p><p class=\"crux-punch\">Or u yange nana lu sha terankon la ka <b>mo</b>.<br>Yesu tôô <b>isholibo yam</b> A vande Un sha kon her sha ityough kam.</p><div class=\"crux-verse\">“Kpa i kuma Un sha ci u akaabo ase, i vihi Un iyol sha ci u aferakaa a ase … ka sha igbidiv Nav man i wanger se ye.” — Yesaia 53:5</div>",
+  "faq.h": "Inja i kwagh môm ngu nyoon u her kpaa?",
+  "faq.q1": "<span class=\"arr\">▸</span> Nahan orwuanor ka una na jighjigh tsô una za sha nyumshima, kpa or u yange nan lu uma u dedoo kpa nan na jighjigh ga la una za token?",
+  "faq.a1": "<p>Ka mpin u dedoo. Kpa mtsegh uhar ngu yer ken mi.</p><p><b>① Bibilo i palegh ior sha “mba dedoo man mba bo” ga.</b> Ikyav i kar yô ka “hemban or u tile her” ga, kpa ka “mlu wang u kuren ku Aôndo.” Sha ishigh Nagh yô, or u tile er “nan lu dedoo u kuma” kpaa ngu ga (Mbaromanu 3:23). Nahan ka “or u dedoo a orwuanor” ga, kpa ka er ior uhar mba i angev a vihi kang kang — or môm ngohol ikyange, ugen yô venda i kaan ér, “Mo m hemba nan lu wang.”</p><p><b>② Kwagh u môm tsô u palegh nyumshima a token.</b> Ka mlu u aeren ga, kpa <b>aluer u ngohol Yesu Kristu er Ter wou man asorabo ou kar yô</b>. Or u awambe a Kristu kar asorabo na yô nan za sha nyumshima; or u nan ngohol Un ga, asorabo na shi her la nan za ga. Aeren a dedoo cii fatyô u paven we a asorabo ou je ga.</p><p>Sha nahan yô, nyumshima a token ka “injar u aeren a dedoo” ga, kpa ka kwagh u <b>mzough a Kristu</b>. Man “jighjigh” ka mlumun u ishima tseegh ga, kpa ka mgem u or u eren a uma na — or u nan ngohol Un mimi yô nan hingir or u tem sha ikyav ga, kpa nan gema asema kpishi. Sha mimi yô, <b>mlu u or eren ér “mo m lu dedoo”</b> ka eev u taver u haren je, u a ne or henen ér nan soo Kristu ga la (Luka 18:9-14).</p><p>Bibilo ôr a wang er: <b>“U nan ne Un jighjigh yô, á ôr nan ijir ga, kpa u nan ne jighjigh ga yô, i na nan ibo kera je ve”</b> (Yohane 3:18). Ijir ka “mer asorabo ou zum u u kpe” ga, kpa i kure i sha <b>aluer u ngohol Kristu</b> shin u ngohol Un ga.</p><p class=\"faq-v\">Mbaromanu 3:23 · Yohane 3:18 · Mbaefese 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Aluer m lu uma u dedoo tsô kpa m na Yesu jighjigh ga yô, kwagh ne kuma ga?",
+  "faq.a2": "<p>Ka mhen u ior kpishi ve eren, kpa i kaven mimi u zayol la ga. Nenge ikyav ne.</p><p><b>Wuese er we ngu sha tso u mbaheenfemen yô.</b> Aluer u wanger sha tso vindi vindi, u eren ior dedoo, u lu uma u dedoo cii kpaa, we lu <b>orheenfen</b> her, gadia tso la ngu zan a we a we ijiir i u ngu zan la (ijiir i ijir). Zayol ka “injar u aeren ou” ga, kpa ka <b>“tso u u lu sha mi” (we iyol ou)</b>.</p><p>Sha nahan yô, Loho u Dedoo kaan ér “nôngo kpishi sha u lun u dedoo” ga; i kaan ér <b>“gema tso.”</b> Due sha tso u isholibo u za sha Yesu — sha iyol i he i <b>wan u Aôndo</b>. Ka u seer injar ou sha nôngo ga, kpa ka u suur Un u A samber a ave Na la we kar za sha tso Na.</p><p>Sha mimi yô, Bibilo ôr myiman er nahan kpaô: <b>“A yima se A due a vese ken tahav mbu imev kera A nyôr a vese ken tartor u Wan Na u doon ishima”</b> (Mbakolose 1:13).</p><p>De kaven mi shami ga: <b>kwagh ne ka u kaan ér uma u dedoo lu a inja ga.</b> Mlu u dedoo ka “gbendaakaa” u nyumshima ga, kpa ka <b>atam</b> a mi. Or u gema tso kar yô nan eren kwagh u dedoo sha mciem ga, kpa sha <b>dooshima u wan</b>.</p><p class=\"faq-v\">Mbakolose 1:13 · Yohane 1:12 · Yohane 3:3 · Mbaefese 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Aluer orbo nan ember ishima nan kaan ér “Aôndo dem asorabo am” kpa or u i er nan bo la ngu yan ican je yô, mdoom shami la nan hôô shin?",
+  "faq.a3": "<p>Mpin la ka u mimi, man ican la ka i jighjigh. Kpa mkaan u nahan la ka “mdoom u Bibilo” ga — ka <b>mgemyол</b> u u.</p><p><b>① Mdoom u Aôndo ka u shami ga.</b> I cir isholibo er “kwagh la er ga” nahan ga; Aôndo iyol Na kimbi injar u sholibo sha uma u Wan Na. Terankon ka ikyav i tesen er i ngohol isholibo wuese ga, kpa ka i tesen er isholibo ngi ihyom kpishi — ka mdoom u injar i hemban cii shin tar.</p><p><b>② Mgemshima u mimi ne atam.</b> Aluer orbo tile sha ishigh ki or u i er nan bo la nan kaan ér “Aôndo dem mo, m ngu bem bem,” mlu la ka mgemshima ga, kpa ka mtsegh u mgemshima (Mateu 3:8). Man mdoom u atô u or man Aôndo la nan ese ican i or u i er nan bo la ga, shi nan tindi or la sha u nana dema kpaa ga.</p><p><b>③ I de isholibo er “i kar ga” ga.</b> I kimbi hanma isholibo sha ajiir uhar — <b>shin Kristu tôô i sha terankon</b> (sha mba ve suur Un la ibo i kera lu ga, Mbaromanu 8:1), <b>shin or u nan venda Un zan zan la nan tôô i iyol na.</b> Nahan mdoom u shami ngu ga. Orbo la kpaa nan ngu a ityom sha atindi a shin tar ne (Mbaromanu 13:1-4).</p><p><b>④ Mliam ma or u i er nan bo la ka kpuaa sha ishigh ki Aôndo ga.</b> Aôndo vaan a mba ve vaan, A umbur hanma mliam, man masetyô yô Una ese a sha ave Na (Mpase U Yohane 21:4). Sha nahan yô or u i er nan bo la kpaa nan tôô ityough ki oran iyev sha ityough ki nan tsmôô ga, kpa nan fatyô u naan Aôndo u perapera la ian (Mbaromanu 12:19 — “Ka Mo Me or iyev ye, ka Mo Me kimbi ye, kape Ter A kaa la”).</p><p class=\"faq-v\">Mateu 3:8 · Mbaromanu 8:1 · Mbaromanu 13:1-4 · Mpase U Yohane 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Bibilo ka kwaghôron u mimi je shin? I lu inja er kwagh u tsuaa shin takerada u i nger sha ishima la.",
+  "faq.a4": "<p>Ka mpin u dedoo — man ka mhii u dedoo kpaa. Mtaver-ishima ka kwagh u nan a jighjigh igbar ga, kpa ka msoo u pavshima a akaa sha mimi. Bibilo ka kwagh u tsuaa u i kaan ér “suur aluer u soo” ga, kpa ka mnger sha ityough ki <b>ajiir, ayange man ior mba mimi</b>. Ikyav ikyumeishi tsô.</p><p><b>① Ka takerada môm ga kpa ka “ya u utakerada” — kpa cii i zenden sha kwagh u môm tsô.</b> Bibilo ka mkohol u <b>utakerada 66</b> mba i nger ken anyom er <b>1,500 sha ave a ior er 40</b> nahan — utor, mbakuraniyôngo, mbakôronishu, orngoholinyaregh, ortwer, ior mba mlu kposo kposo man shighe kposo kposo, mba i nger kposo kposo kpa ve fa ayol a ve ga ye, ken ijô itar (Heberu, Arami, Grika). Kpa akaa cii zough sha ijiir môm, gbilin ga, sha kwagh u môm tsô: <b>myiman sha ikyev i Kristu</b>. Ka mzough u taver u kaan ér ka sha ahembe shin sha mzough u ior ga la.</p><p><b>② I za hii kuren a sha tar (mlu u kohon akaa a tsuaa).</b> Akaa kpishi a tsuaa a i vande venden er ka mtsue, “i zua a mi ken Bibilo tsô” la, masetyô i kohol a tese mimi ve. <b>Ikurior i Davidi</b> sha won u i nger sha mi ér “ya u Davidi” (Won u Tel Dan); <b>Pontiu Pilatu</b>, gomna u A wua Yesu la, sha mnger u a tese iti na; iwer i mngerem i tor Hesekia (2 Utor 20:20), sha iwer la iyol na man mnger u sha mi. Kua <b>Mbahiti</b>, mba i vande yilan er “ior mba tsuaa” la, ve due er ikurior i vesen ken aaja.</p><p><b>③ Ka takerada u tsuaa u i kura tsembelee hemban (avumakaa).</b> Sha mzough u avumakaa a a shi her, sha mzough ve a ayol a ve, man sha shighe u i lu hen mnger u hii zan zan u i ngeren u kindin, Bibilo <b>ngu a ikyange ken utakerada mba tsuaa cii ga</b>. Mpande u Yesaia u u lu cii Kristu ngu va la, ken <b>Mpande mba Zegemnger u Ku</b> (i zua a ve sha 1947), zough vough a mnger u i ngu eren sha anyom er 1,000 ne — ka ikyav i tesen er i kura Bibilo tsembelee sha shighe cii.</p><p><b>④ Akaa a i vande ngeren la er nahan je a er (mpase u mprofeti).</b> Icighanruamabera u Tse, u i nger anyom kpishi cii Yesu va la, tese mar Na ken Betelehem (Mika 5:2), Ortom u ican (Yesaia 53:5), man akaa a sha terankon (Pasalmi 22), wang wang. A wang kpishi je u i venden er ka mzough tsô la ga.</p><p><b>⑤ Mbangeren-akaa-a-tsuaa mba ve lu Mbakristu ga kpaa nger kwagh Na.</b> Orngeren-akaa-a-tsuaa u Roma <b>Tasitu</b> man orngeren-akaa-a-tsuaa u Yuda <b>Yosefu</b> — môm ve lu Orkristu ga — ve ter Yesu, mwua Na, man nongo u Mbakristu u tsuaa la. Hemban cii, mbahenen mba ve samber sha mcie la <b>ve ver uma ve</b> sha u pasen mnder u Yesu sha ku — or u kpen sha kwagh u nan fe ér ka aie la ngu ga.</p><p>Sha mimi yô kpa, akaa ne tese er u suur Bibilo <b>ka kwagh u inja shio ga, kpa ka u inja</b>; ka “ikyav” i i taver er or er hen mngerem er mbamzough la ga. Sha nahan yô mtaha u Orkristu i due sha ikyav tseegh ga, kpa i due sha <b>jighjigh u Icighan Jijingi A na ishima zum u or henen Kwagh u Aôndo la</b>. Bibilo kaan ér: <b>“Jighjigh u nan ka sha m-ongo, m-ongo di gema ka sha kwaghôron u Kristu”</b> (Mbaromanu 10:17). Sha nahan yô, aluer i lu inja er kwagh u tsuaa nahan kpaa, <b>u henen u iyol ou</b> ka mhii. Ikyav bugh hunda, man mtaha seer ken or u henen la.</p><p class=\"faq-v\">2 Utor 20:20 · Yesaia 53:5 · Mika 5:2 · Mbaromanu 10:17</p>",
+  "respond.h3": "Nahan — sha kwagh wam yô nena?",
+  "respond.sub": "Dooshima ne ka kwaghfan ga, kpa ka <b>mlôhô</b>. Aluer dooshima u i vande sha ityough kou la zough a ishima ou yô, er msen ne hegen, sha gba uper uper, sha hilang.",
+  "respond.prayer": "<p>Aôndo,</p><p>M lumun mer mo m lu orsorabo u m fatyô u yiman iyol yam ga.</p><p>M na jighjigh mer Yesu A kpe sha ci wam sha terankon man A nder shi.</p><p>De asorabo am cii, man hii nyian hingir Ter u uma wam.</p><p>Ngohol mo er wan wou, man na mo m lu uma u he.</p><p class=\"amen\">Ka ken iti i Yesu m eren msen ne ye. Amen.</p>",
+  "respond.after": "Aluer u er msen ne sha ishima ou cii yô, Bibilo kaan ér u hingir <b>wan u Aôndo</b>. U kera lu tswen ga — keren nyianegh ki kegh u una ngohol u, man zenden gbenda u jighjigh imôngo a mbagenev.",
+  "respond.read": "Ôr Bibilo iyol ou — hii a Yohane",
+  "respond.verse": "“Kpa mba ve rumun Un la yô, ve cii A na ve tahav mbu vea hingir ônov mba Aôndo.” — Yohane 1:12 · Mbaromanu 10:9-10",
+  "closing.main": "Aôndo môm,<br>sha kwaghôron u môm,<br>ngu keren se a<br><em>dooshima</em> u a kera de ga.",
+  "closing.verse": "“ku shin uma … shin ma kwagh ugen u i gbe un a gba kpaa, una fatyô u paven se a dooshima u Aôndo u a lu ken Kristu Yesu Ter wase la je ga.” — Mbaromanu 8:38-39",
+  "closing.small": "Sha kwaghôron ne, Atindi, utakerada mba upasalmi, mbaprofeti, man uwasike i seer “iyol.”<br>Hegen yô, hanma takerada u u bugh kpaa, u fa “ape u lu ken kwaghôron la.”",
+  "closing.share": "↗ Pase kwaghôron ne",
+  "about.line": "I lu sha <b>mnenge u nyumshima u sha kwaghyiman, u evangeli · u Riforimd</b> u nongo u Mbakristu mba Mbaprotestanti mba Korea cii ve ngu a mi la.",
+  "about.contact": "Mbampin · mbamhen — <a id=\"contact\" class=\"mail\">Nger se imeil</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ICIGHANRUAMABERA U TSE · MHII",
+   "title": "Mgbe",
+   "date": "Sha hiihii",
+   "one": "Aôndo gba tar u u lu “dedoo kpishi.”",
+   "people": "Aôndo; Adam man Eva",
+   "events": "Ayange a ataratar a mgbe, or u i gbe sha ikyav i Aôndo, mmem u iyange i sha sieer",
+   "q": "Sha hiihii Aôndo gba Sha man tar:",
+   "cite": "Genese 1:1",
+   "christ": "I gba tar sha ikyev i “Imo.” Loho u Dedoo u Yohane ôr ér Imo ne ka Yesu iyol Na (Yohane 1:1-3).",
+   "detail": "<p>Bibilo i hii a mzough u mhenen ga, kpa i hii a mpase: <b>“Sha hiihii Aôndo gba…”</b> Tar lu sha aie ga, kpa ka tom u Aôndo u a lu or la.</p><ul><li><b>Ikyav i Aôndo</b> · ken akaa a uma cii, ka or tseegh i gbe nan kuma a Aôndo — u fan Un man u kuran tar.</li><li><b>Mmem</b> · mmem u iyange i sha sieer i tese er akaa cii kar shi lu bem (shalom): “lu dedoo.”</li><li><b>Edhen</b> · tar u cii vihi ga, ape Aôndo man ior ve zende imôngo la.</li></ul>",
+   "next": "Kpa myôm ne ngu va vihin…"
+  },
+  {
+   "tag": "ICIGHANRUAMABERA U TSE · ZAYOL HII",
+   "title": "Mgbough",
+   "date": "Sha hiihii",
+   "one": "Isholibo nyôr, man mzough u atô u ior man Aôndo paa.",
+   "people": "Adam man Eva; iyô (Satan)",
+   "events": "Myan u atam a i venda la, mlee ken Edhen, mva u ku man tom u nyoon",
+   "q": "Me ver ihom hen atô wou vea kwaseman … u ua cagh u ityough",
+   "cite": "Genese 3:15",
+   "christ": "Ityendezwa i hiihii i Loho u Dedoo, i i na zum u mgbough kar yô: “vor u kwase” una cagh ityough ki iyô — man ka Yesu je la (Genese 3:15; Mbaromanu 16:20; Mbagalatia 4:4).",
+   "detail": "<p>Sha mhendan a Aôndo u soon u “lun er Aôndo” la, isholibo nyôr ken tar. Mkure na ka mhendan a tindi tseegh ga, kpa ka <b>mpav u mzough</b>.</p><ul><li><b>Mzough u i paa</b> · a Aôndo (myeren), a ayol a ve (mwen), man a akaa a sha tar (uvaha man tom u nyoon).</li><li><b>Ku</b> · mwanger u “ú kpe je” hingir mimi.</li><li><b>Genese 3:15</b> · kpa ken atô u ijir, ityendezwa i myiman i hii van. Mbatimenkwagh yila i ér <b>“protoevangelium” (Loho u Dedoo u hii)</b>.</li></ul>",
+   "next": "Hegen Aôndo yila or môm sha u hiin a myiman…"
+  },
+  {
+   "tag": "ICIGHANRUAMABERA U TSE · ITYENDEZWA",
+   "title": "Mbatertamen",
+   "date": "ape 2000 cii Kristu",
+   "one": "Aôndo tôô ityendezwa hen Aberaham ér, “Ú hingir igbenda i averen.”",
+   "people": "Aberaham · Isaka · Yakob · Yosef",
+   "events": "Ikyua i Aberaham, mtôô u Isaka, ônov mba Yakob mba pue kar uhar, Yosef hingir hemen ken Igipiti",
+   "q": "Me er u, ú hingir ikurior i vesen … ka ken a we je akuraior a sha won cii aa zua a iveren ye.",
+   "cite": "Genese 12:2-3",
+   "christ": "Ityendezwa i ér “akuraior cii aa zua a iveren” la i kuma ken Yesu, vor u Aberaham (Mbagalatia 3:16).",
+   "detail": "<p>Aôndo hii u soron zayol u uumace cii sha u yilan or môm, <b>Aberaham</b>. Ishima i kwagh ne ka <b>ikyua (ityendezwa)</b> — ikurior i vesen, tar, man “iveren sha ci u akuraior cii.”</p><ul><li><b>Jighjigh u nan</b> · Aberaham na ityendezwa i i nengen a mi ga la jighjigh, man i ôron un perapera (Genese 15:6).</li><li><b>Isaka man Yakob</b> · ityendezwa kar za hemen; Yakob (Iserael) mar ikpinaior pue kar uhar.</li><li><b>Yosef</b> · anngôôv na tee un kpa A za un sha hemen — “Aôndo yô, lu a awashima u dedoo sha kwagh la” (Genese 50:20).</li></ul>",
+   "next": "Sha u dondon Yosef, tsombor la kar shin Igipiti — shi hingir ikpan…"
+  },
+  {
+   "tag": "ICIGHANRUAMABERA U TSE · MYIMAN",
+   "title": "Mdugh man Deserete",
+   "date": "ape 1446 cii Kristu",
+   "one": "Aôndo yima ior mba ve lu ikpan la A hingir ve mba Na.",
+   "people": "Mose, Aron, Faro",
+   "events": "Uange pue, Paseka, mper u Zegemngerem u Nyian, Atindi Pue ken Sinai, tempel u shate, anyom 40 ken deserete",
+   "q": "Me ngohol ne, né hingir Mo ikurior, Me lu Aôndo wen",
+   "cite": "Ekesodu 6:7",
+   "christ": "Paseka — ape awambe a waniyôngo a yima sha ku la — i tese Yesu, “waniyôngo wase u Paseka,” u i mande Un sha terankon sha ci wase (1 Mbakorinte 5:7).",
+   "detail": "<p>Myiman u hemban cii ken Icighanruamabera u Tse. Iserael, u u lu ikpan la, zua a myende sha agee a Aôndo shi hingir <b>ior</b> Na.</p><ul><li><b>Paseka</b> · ya u i nger awambe a waniyôngo sha hunda la ku kar a mi — ka ikyav i nagh cii a va dondon la.</li><li><b>Zegemngerem u Nyian</b> · myiman ape gbenda bee la; “mper za sha won” hingir ikyav i mhii u he.</li><li><b>Ikyua i Sinai</b> · sha Atindi Pue ve henen er vea lu uma er ior mba Aôndo nahan.</li><li><b>Tempel u shate</b> · icighanya u i fatyô u tôôn u u Aôndo A lu ken atô u ior Na — mtem-iyange u “Imanuel.”</li><li><b>Anyom 40</b> · mhendan na ikurior môm zende deserete, kpa Aôndo lu vea ikyô a mana man icôgh i ibiam man i usu.</li></ul>",
+   "next": "Ve tile sha azwa a tar u ityendezwa la, ve wa iyol sha u nyôron…"
+  },
+  {
+   "tag": "ICIGHANRUAMABERA U TSE · MTEM",
+   "title": "Mhembe man Mbaajiriv",
+   "date": "ape 1400–1050 cii Kristu",
+   "one": "Ve zua a tar, kpa er tor lu ga yô, hanmô gbaa eren kwagh u nan soo.",
+   "people": "Yosua; mbaajiriv er Gideon man Samson; Rutu",
+   "events": "Mgbough u Yeriko, mtem ken Kanaan, gbenda u isholibo–ijir–myiman u a kera ende ga",
+   "q": "Sha ayange la tor lu ken Iserael ga; nahan hanma or gbaa eren kwagh sha ishima i nan tsô.",
+   "cite": "Mbaajiriv 21:25",
+   "christ": "Hen ya u Rutu Davidi due ken mi, man hen ya u Davidi Yesu due ken mi (Mateu 1). Ken zayol kpaa, ikurior i Mesia ende u zenden ga.",
+   "detail": "<p>Hen ikyev i Yosua ve nyôr ken tar u ityendezwa, kpa er ve tem yô, shighe kese ve hungur Aôndo. Mbaajiriv ka gbenda u môm u a kera ende ga.</p><ul><li><b>Gbenda u shin inya</b> · isholibo → ican → mliam → orjir yima → isholibo shi. I za vihin seer.</li><li><b>Mbaajiriv</b> · Gideon, Samson, Debora — mbayiman mba sha shighe la tseegh, mbahembanagee kpa mba a asorabo kpishi.</li><li><b>Rutu</b> · kwaghôron u wang u jighjigh ken shighe u ime; kwasewanetar nyôr ken ikurior i Davidi (man i Yesu).</li></ul>",
+   "next": "Ior gbidye mliam ér, “Na se tor kpaa!”…"
+  },
+  {
+   "tag": "ICIGHANRUAMABERA U TSE · SHIGHE U DEDOO",
+   "title": "Tartor u i Zer la",
+   "date": "ape 1050–930 cii Kristu",
+   "one": "Aôndo tôô ityendezwa hen Davidi ér, “Ikônough kou kia tem gbem sha won.”",
+   "people": "Saul · Davidi · Solomon",
+   "events": "Tor u hii Saul, Davidi man Goliat, ikyua i Davidi, Solomon maa tempel",
+   "q": "Ya wou kua tartor wou vea tile dông sha ishigh you gbem; ikônough you ki torough kia lu her gbem sha won.",
+   "cite": "2 Samuel 7:16",
+   "christ": "“Ikônough ki gbem sha won” i kuma ken Yesu, wan u Davidi — sha nahan i yila Un “Wan u Davidi” (Luka 1:32-33; Mateu 1:1).",
+   "detail": "<p>Shighe u dedoo u Iserael, sha ikyev i utor utar.</p><ul><li><b>Saul</b> · tor u hii u ior soo la; mhii u dedoo kpa mhendan vihi un.</li><li><b>Davidi</b> · “or u sha ishima i Aôndo.” Nan hemba Goliat shi maa Yerusalem hingir ngerenya. Nan er isholibo i vesen (Batseba) kpa nan gem ishima sha ishima cii (Pasalmi 51).</li><li><b>Ikyua i Davidi (2 Samuel 7)</b> · Aôndo tôô ityendezwa u veren ikurior i Davidi gbem sha won — mzough u ishima i mkohol u mesianik.</li><li><b>Solomon</b> · sha hemen u kwaghfan man inyaregh nan maa <b>tempel</b>, kpa ken masetyô nan gema sha mciviraeev.</li></ul>",
+   "next": "Sha shighe u Solomon kar yô, tartor paa har…"
+  },
+  {
+   "tag": "ICIGHANRUAMABERA U TSE · MTUMBE",
+   "title": "Tartor u i Paa la",
+   "date": "930–586 cii Kristu",
+   "one": "I paa ken angahar (Yuda) man imbusu (Iserael), tartor za sha mtim.",
+   "people": "Utor mba sha hanma tartor; mbaprofeti er Eliya, Yesaia, Yeremia",
+   "events": "Tartor paa, mciviraeev samber, mbaprofeti pase mwanger",
+   "q": "Kape Iserael hendan a ya u Davidi la, zan zan nyian ne.",
+   "cite": "1 Utor 12:19",
+   "christ": "Ken shighe ne mbaprofeti pase Mesia u una va la wang seer (Yesaia 9:6; Yesaia 53).",
+   "detail": "<p>Sha ayange a wan u Solomon tartor paa: <b>tartor u imbusu u Iserael</b> (ikpinaior pue, ngerenya Samaria) man <b>tartor u angahar u Yuda</b> (ikpinaior ihar, ngerenya Yerusalem).</p><ul><li><b>Iserael (imbusu)</b> · hanma tor civir aeev; i gbough sha ikyev i Ashiria sha 722 cii Kristu.</li><li><b>Yuda (angahar)</b> · ikurior i Davidi za hemen, utor mba dedoo môm môm er Hesekia man Yosia, kpa cii i tumbe.</li><li><b>Mbaprofeti</b> · Eliya, Amoshi, Yesaia, Yeremia gbidye mliam ér “gema nen!” Mpase u mesianik kuma sha mtsue heen (“Ortom u ican” u Yesaia 53).</li></ul>",
+   "next": "Masetyô ijir i i vande pasen la va — i tee ve ken ikpan…"
+  },
+  {
+   "tag": "ICIGHANRUAMABERA U TSE · IJIR",
+   "title": "Mkohol",
+   "date": "722 / 586 cii Kristu",
+   "one": "Tartor gbough man i tee ior za ken ityar i ken won.",
+   "people": "Daniel, Esekiel, Nebukadnesar",
+   "events": "Iserael gbough sha ikyev i Ashiria (722); Yuda gbough sha ikyev i Babilon man i nyer tempel (586)",
+   "q": "Hen uifi mba Babilon la, se tema heregh, se lu vaan, zum u se lu umbur Shion yô.",
+   "cite": "Upasalmi 137:1",
+   "christ": "Ken atô u mkpeshima cii Yeremia tôô ityendezwa i “ikuryan i he” (Yeremia 31:31) — ikyua i môm i Yesu A wa sha kwaghyan u masetyô la.",
+   "detail": "<p>Mwanger kar hingir mimi. Tempel nyie man i tee ior za ken Babilon — ve hingir banzaôr u tar, tor, man tempel: ijiir i shin inya cii.</p><ul><li><b>Mgbough uhar</b> · Iserael (Ashiria, 722 cii Kristu) man Yuda (Babilon, 586 cii Kristu).</li><li><b>Daniel</b> · ikyav i jighjigh ken atô u ya u tor u civir aeev (ihime i ibua); nan nenge mpase u “tartor u gbem sha won” u una va la.</li><li><b>Icôgh i ishima</b> · mpase u akeke a kpiir a hingiren uma (Esekiel 37) man “ikuryan i he” u Yeremia i tese hemen ken ime la.</li></ul>",
+   "next": "Anyom akundu sha won, Aôndo bugh gbenda — ve hide hen ya…"
+  },
+  {
+   "tag": "ICIGHANRUAMABERA U TSE · MSORON",
+   "title": "Mhide hen Ya",
+   "date": "538–430 cii Kristu",
+   "one": "Ve hide ve maa tempel man azende.",
+   "people": "Esera, Nehemia, Eseter, Serubabel",
+   "events": "Mhide sha mtindi u Sairus, mmaa u tempel, msoron u azende a Yerusalem, mhide u Kwagh u Aôndo",
+   "q": "iember i ne ember TER la ka agee a en je",
+   "cite": "Nehemia 8:10",
+   "christ": "Malaki, takerada u masetyô u Icighanruamabera u Tse, kure sha u pasen ortyom u una sôr gbenda u Mesia la: “M ngu tindin ortyom Wam” (Malaki 3:1).",
+   "detail": "<p>Sha mtindi u tor u Persia Sairus (538 cii Kristu) mhide hii. Sha mpaver mzough utar ve hide ve maa akaa a vihi la.</p><ul><li><b>Serubabel</b> · maa tempel (i bee sha 516 cii Kristu).</li><li><b>Esera</b> · tese Kwagh u Aôndo shi man nan jighjigh hingir uma.</li><li><b>Nehemia</b> · maa azende a Yerusalem sha ayange 52.</li><li><b>Eseter</b> · yima Mbayuda mba ken Persia sha mtim — “sha shighe er u ne.”</li><li><b>Mzendenkeghen u her</b> · tempel tile, kpa tor er Davidi nahan lu ga. Ior kohol Mesia.</li></ul>",
+   "next": "Tsô… er Sha mem yô, anyom 400 kar."
+  },
+  {
+   "tag": "ATÔ U ICIGHANRUAMABERA U TSE MAN U HE · MWA U TSO",
+   "title": "Anyom a Mem",
+   "date": "ape 430–4 cii Kristu",
+   "one": "Anyom 400 a imo i profeti i lu ga — kpa i wa tso shami shami.",
+   "people": "Alesander Hemban, Mbamakabe, Roma",
+   "events": "Persia → Grika → mtaver-iyol u Mbamakabe → mtor u Roma",
+   "q": "Kpa er shighe va kuma vough yô, Aôndo tindi Wan Na, kwase va mar Un, i mar Un sha ikev i tindi,",
+   "cite": "Mbagalatia 4:4",
+   "christ": "“Mwa u tso” cii ne lu tom u Aôndo sha u Yesu Una va vough “zum u shighe kuma” la.",
+   "detail": "<p>Hii sha Malaki zan zan ken Icighanruamabera u He, anyom er 400 kar a kwaghôron u he u Bibilo ga. Kpa hen ijime i akaa a eren la, Aôndo lu wan gbenda sha u Loho u Dedoo una samber.</p><ul><li><b>Atartor a gema</b> · Persia → Grika (Alesander, 333 cii Kristu) → Mba Ptolemi man Mba Seleukid → mtaver-iyol u Mbamakabe (167 cii Kristu) → Roma (63 cii Kristu).</li><li><b>Zwa Grika</b> · mhembe u Alesander na zwa Grika hingir zwa u môm; i gema Icighanruamabera u Tse ken zwa Grika (Septuagint), i bugh gbenda u Loho u Dedoo una samber fefa.</li><li><b>Igbenda man bem u Roma</b> · igbenda i dedoo man “Pax Romana” hingir igbenda i mpase u Loho.</li><li><b>Usinagog man mbamzough</b> · mtesen u sinagog tser; Mbafarisi man Mbasaduki due; man <b>mkohol u Mesia</b> beenyô.</li></ul>",
+   "next": "Tsô mem mgba — masetyô, Un va."
+  },
+  {
+   "tag": "ICIGHANRUAMABERA U HE · MKUROM",
+   "title": "Yesu Va",
+   "date": "ape 4 cii Kristu–30 sha Kristu",
+   "one": "Mesia u i tôô ityendezwa la va, A kpe, shi A nder.",
+   "people": "Yesu, mbahenen mba pue kar uhar, Yohane Orbatisema",
+   "events": "Mva ken iyol (Krismse), tom Na u tesen man ivande, ku sha terankon, mnder sha iyange i tar",
+   "q": "Man Imo la hingir or je, va tema her a vese … mgbough a mrumun u sha mhôôn man mimi kpaa.",
+   "cite": "Yohane 1:14",
+   "christ": "Vor u kwase (kar 2), iveren i Aberaham (3), waniyôngo u Paseka (4), tor u Davidi u gbem sha won (6), ikuryan i he (8) — cii i kuma ken or môm, Yesu: Orprofeti, Orpristi, man Tor wase u mimi.",
+   "detail": "<p>Mem mgba; U i tôô ityendezwa la va. Avangeli anyiin pase kwagh u uma, ku, man mnder u Yesu sha ahembe anyiin.</p><ul><li><b>Mva ken iyol</b> · Aôndo hingir or (Imanuel, “Aôndo a vese”), ken ijiir i hôô i Betelehem.</li><li><b>Tom</b> · A tese tartor u Aôndo, A bee uangev, A yila mbaasorabo. “Or u nan nenge a Mo yô, nan nenge a Ter ye.”</li><li><b>Terankon</b> · A kimbi injar u isholibo man ku u mgbough va a mi la (kar 2). Waniyôngo u mimi u Paseka.</li><li><b>Mnder</b> · sha iyange i tar A nder, A cir agee a isholibo, ku, man Satan — sha terankon je A “A ngohol mbatarev man mbautahav mba sha kwavaôndo la ikav … A hemba ve” (Mbakolose 2:15).</li></ul><p>Sha nahan Yesu ka <b>Orprofeti wase u mimi</b> (u tesen gbenda u zan a Aôndo), <b>Orpristi wase u mimi</b> (u nan iyol Na sha u kimbin isholibo), man <b>Tor wase u mimi</b> (u hemban isholibo, ku, man Satan shi u tor gbem sha won).</p>",
+   "next": "Yesu u A nder la tindi mbahenen Na ken tar…"
+  },
+  {
+   "tag": "ICIGHANRUAMABERA U HE · MSAMBER",
+   "title": "Nyianegh ki Hii",
+   "date": "ape 30 sha Kristu–",
+   "one": "Jijingi va, man Loho u Dedoo samber zan zan ken ikighir i tar.",
+   "people": "Peteru, Paulu, nyianegh ki tsuaa",
+   "events": "Mtwer u Jijingi sha Pentekosti, mar u nyianegh, Loho samber hii sha Yerusalem zan zan Roma sha ikyev i mtev",
+   "q": "Kpa né va ngohol agee shighe u Icighan Jijingi Una va sha a ven yô, man né lu mbapasen kwagh Wam ken Yerusalem … zan zan á ar ken ikighir i tar je.",
+   "cite": "Aerenakaa A Mbaapostoli 1:8",
+   "christ": "Kwaghôron ne ngu zan hegen je. Bibilo kure sha u tôôn ityendezwa ér Yesu Una hide va shi Una gema akaa cii hingir a he (Mpase U Yohane 21).",
+   "detail": "<p>Yesu A kundu sha won kar yô, Jijingi u i tôô ityendezwa la va sha Pentekosti man i mar nyianegh. Loho u Dedoo samber fefa kpishi.</p><ul><li><b>Pentekosti</b> · Jijingi gema mbahenen mba ve lu cian mcie la hingir mbashiada mba taver asema.</li><li><b>Peteru</b> · pase Loho u Dedoo hen Mbayuda ken Yerusalem.</li><li><b>Paulu</b> · hii er ortev hingir apostoli, maa nyianegh ken tar u akuraior a sha won shi nger uwasike.</li><li><b>Zan zan ikighir i tar</b> · Yerusalem → Yudia → Samaria → Roma. Ityendezwa i Aberaham i “akuraior cii” la hingir mimi.</li><li><b>Man se kpaa</b> · kwaghôron bee ga; ka u zan hemen sha mhide u Yesu man Sha man tar u he.</li></ul>",
+   "next": "Kpa kwaghôron bee heen ga…"
+  },
+  {
+   "tag": "ICIGHANRUAMABERA U HE · MKURE",
+   "title": "Msoron (akaa cii a hingir a he)",
+   "date": "u una va",
+   "one": "Yesu hide va shi A gema akaa cii hingir a he.",
+   "people": "Yesu u Una hide va; akuraior cii",
+   "events": "Mhide u Yesu, ijir i masetyô, mbee u isholibo·ku·mliam, Sha man tar u he",
+   "q": "Una ese ve mliam sha ashe kera cii, ku ua kera lu ga, shin ijungwen shin mliam shin ican kpaa ia kera lu je ga.",
+   "cite": "Mpase U Yohane 21:4",
+   "christ": "Edhen u mgbe u hii la i sôr un masetyô er “Yerusalem u He.” Aôndo tema vea ior Na gbem sha won — mkure u Imanuel (Mpase U Yohane 21:3; Mateu 1:23).",
+   "detail": "<p>Bibilo i kure sha shighe u nyianegh ga. Takerada u masetyô na, Mpase, tese Yesu er <b>A hide van</b> sha u kuren akaa cii.</p><ul><li><b>Mhide</b> · Tor u i tôô ityendezwa la hide va sha icivir.</li><li><b>Mhembe u masetyô</b> · Satan man ku i tim ve gbem sha won, man Kristu tor er Tor u Utor (1 Mbakorinte 15:25-26; Mpase U Yohane 20:10).</li><li><b>Ijir man mnder</b> · i sôr hanma kwaghbo, man mbakpenev nder shin ku.</li><li><b>Sha man tar u he</b> · isholibo, ku, mliam, man ican kar gbem sha won (Mpase U Yohane 21:4).</li><li><b>Edhen u i sôr la</b> · ken “Yerusalem u He” u u hembe u hii la, Aôndo tema vea ior Na gbem sha won — ijiir i Bibilo cii i lu zan sha mi la.</li></ul><p>Sha nahan hegen ka shighe u <b>“i kar, kpa i bee ga”</b>: ken Yesu myiman <b>i kar</b> kuren, kpa mkure u mi <b>i kohol</b> her.</p>",
+   "next": "Nahan kwaghôron ne cii a lu sha ci u “mo” yô nena?"
+  }
+ ],
+ "love": [
+  "Kwaghôron i hii a ijir ga, kpa a mgbe u i gbe sha dooshima u shaaôn la.",
+  "Zum u ior er isholibo la, Aôndo tôô ityendezwa i myiman her je.",
+  "Aôndo va hii sha or u nan kuma a mi ga la, A yila nan a iti i nan, A hingir nan igbenda i averen.",
+  "A ungwa mhungun u ior mba ve lu ikpan la, A hide iyol Na A va yima ve.",
+  "I nyaman Un sha won sha won, kpa hanma shighe u ve gbidye mliam yô A tindi oryiman A nder ve shi.",
+  "A vende Davidi u A gbe la kpaa ga; sha ikyev i nan A tôô ityendezwa i tor u gbem sha won.",
+  "Hen ior mba ve gema un imbusu la A za tindin ve mbaprofeti, A zaan ér, “Hide nen va ya.”",
+  "A za vea ve zan zan ken tar u ime u mkohol kpaa, A tôô ityendezwa i msoron.",
+  "Hen ior mba ve gba kohol kohol kpaa A vande tôôn ityendezwa Na ga, kpa A nder ve shi.",
+  "Hen anyom a mem a 400 kpaa, sha ijime, A lu wan gbenda u myiman.",
+  "Zum u se lu mbaasorabo her la, A tindi Wan Na A na uma Na.",
+  "Dooshima u se ngohol la, hegen A tindi u u za sha tar cii.",
+  "Masetyô Una ese hanma mliam shi Una sôr akaa cii sha dooshima."
+ ],
+ "mis": [
+  {
+   "w": "“Er nyi Aôndo gbe or u nana fatyô u eren isholibo? Aluer A gbe nan ga yô, doo hemban ga he?”",
+   "t": "Aôndo gba tar man or sha ican u nan lu a mi ga, kpa sha dooshima u shaaôn. U gban or er <b>or u nana zua a mzough a Aôndo</b> ka dooshima je iyol na. Man mva u isholibo kpaa lu ken atô u gbenda u myiman u Aôndo (Mbaefese 1:4-5). Kar u hii u Bibilo ka ijir ga, kpa ka dooshima."
+  },
+  {
+   "w": "“U leen man u zuan a ku sha u yan atam a môm tseegh — Aôndo lu kahôn or hemban ga he?”",
+   "t": "Mlee ken Edhen lu ijir shi lu mhôôn imôngo. Aluer or, sha mpav a Aôndo shi mzough paa nahan la, nan ya sha kon u uma nan lu uma gbem sha won yô, nan lu ken ican gbem sha won (Genese 3:22). U den ku ka u bughun gbenda u mhiden; man her je Aôndo tôô ityendezwa i Oryiman (Genese 3:15). Dooshima vande lu ken atô u ijir."
+  },
+  {
+   "w": "“I tsough Aberaham sha jighjigh u nan u hemban — ior mba ken Bibilo cii ka mbahembanagee mba sha kwaghdedoo ga he?”",
+   "t": "Aberaham kpaa er aie shi nan tsam ishima, man Yakob lu orgenegh. Aôndo yila ior mba “ve kuma” la ga, kpa A yila mba ve kuma ga la sha mhôôn. Inja i mtsough lu mlu u ve u dedoo ga, kpa lu dooshima u jighjigh u Aôndo (Duteronomi 7:7-8)."
+  },
+  {
+   "w": "“Tindi (Atindi) ka mker shin gbendaakaa u or nana kar sha u zuan a myiman ga he?”",
+   "t": "Aôndo yima ve <b>cii</b> A na ve tindi la. Atindi Pue je a hii sha mpase u myiman: “Ka Mo TER, M lu Aôndo wou, u M dugh a we ken tar u Igipiti” (Ekesodu 20:2). Tindi ka “kuran u sha u zuan a myiman” ga, kpa ka mtwese u dooshima u tesen er ior mba i vande yiman ve sha mhôôn la vea lu uma yô (Duteronomi 7:7-9). Mhôôn ka u vande hii; mtindi ka mlumun u i ne."
+  },
+  {
+   "w": "“Mhembe u Kanaan lu mwuanior u mhôôn shio — Aôndo u Icighanruamabera u Tse lu kahôn je.”",
+   "t": "Ka kwagh u i fatyô u kuren sha kwaghôron môm ga shi u soon u veren ishima. Kpa Bibilo i tese un er ipila i shio shio ga, kpa er ijir u i er sha kwaghbo u tsung u anyom kpishi (kua mtôô u mbayev) la, sha mhom kpishi (Genese 15:16; Duteronomi 9:4-5; Levitiku 18:24-25). Aôndo i fer fer sha u eren ijir kpaa ga, man or u nan gema hen A yô A ngohol nan a iember, aluer ka orgenetar je kpaa er Rahab man Rutu nahan (Yosua 6:25; Rutu 4:13-17)."
+  },
+  {
+   "w": "“Davidi lu orhembanagee u asorabo lu ga — sha nahan i yila un ‘or u sha ishima i Aôndo.’”",
+   "t": "Davidi er idya shi nan wua or kpaa. “Or u sha ishima i Aôndo” inja na lu or u asorabo lu ga ga, kpa lu or u nan yer isholibo na ga — nan gem ishima cii shi nan hide hen Aôndo gbem (Pasalmi 51). Dooshima u Aôndo i vende or u nan gba kang kang kpaa ga."
+  },
+  {
+   "w": "“Profeti ka oryidiwer u pasen akaa a hemen / Aôndo u Icighanruamabera u Tse lu iyugh tseegh.”",
+   "t": "Ishima i profeti lu “mpase u akaa a hemen” ga, kpa lu mliam ma Aôndo ma ican ér: “Hide nen va.” Mwanger u ijir je kpaa i soon u timin ga, kpa i soon u geman ior u nan ve uma — “Ku u iferor doom ga” (Esekiel 33:11)."
+  },
+  {
+   "w": "“Mkohol tese er Aôndo undu Iserael cii.”",
+   "t": "Mkohol lu mundu ga, kpa lu mtsaha man msoron u Ter hen wan u nan soo (Mbaheberu 12:6). Aôndo yem ga; A lu vea Daniel ken atô u mkohol shi A tôô ityendezwa ér, “M fa mbamhen mba M lu henen sha a ven ne … ka mhen u bem … sha u nan ne ishimaverenkeghen i dedoo ken masetyô” (Yeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Aluer kwaghôron lu ga anyom 400 yô, alaghga Aôndo yem shin lu memen?”",
+   "t": "Mem ka mlu ga ga. A ôr kwagh tsô ga, kpa shighe la cii A lu geman atartor, ijô, man igbenda sha u wan tso u myiman. Ken shighe u mem hemban la, Aôndo lu eren tom hemban cii, sha dooshima (Mbagalatia 4:4)."
+  },
+  {
+   "w": "“Yesu lu ortesen u dedoo môm tseegh / terankon lu mhembe u i mande.”",
+   "t": "Yesu kaa ér Un iyol Na ka Aôndo (Yohane 8:58), man terankon lu aie shin mhembe u i mande ga, kpa lu dooshima u i wa tso na. I tee Un sha agee ga, kpa Nan iyol Na gbihi uma Na (Yohane 10:18). “Or ngu a dooshima u a hembe ngun ga, je u or nana gbihi uma u nan sha ci u akar a nan” (Yohane 15:13)."
+  },
+  {
+   "w": "“Nyianegh ki Aôndo ka mkohol u ior mba asorabo lu ga, shin ka iyou tseegh.”",
+   "t": "Nyianegh ki Aôndo ka mzough u “mbatseren mba ve kuma” ga, kpa ka u <b>mbaasorabo mba i dem ve la</b>. Apostoli Paulu iyol na kpaa yila iyol na ér “mo m hembe” mbaasorabo (1 Timoteu 1:15). Nyianegh ki tsuaa kpaa anyiman shi gba kohol kohol (Aerenakaa A Mbaapostoli 6:1; 1 Mbakorinte 1:11). Ka ijiir i wuese iyol ga, kpa ka ior mba ve karen dooshima u ve ngohol la (Yohane 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Isholibo i mar a mi — or u perapera ngu ga",
+   "body": "Zayol ka “aeren a bo kpuaa” ga, kpa ka mhii u ishima. Hii sha Adam, ior cii i mar ve ken isholibo man ve fatyô u zan sha Aôndo sha ayol a ve ga.",
+   "vref": "Mbaromanu 3:10-12, 23",
+   "vtext": "Or u perapera ngu ga, môm tsô kpaa ga … Gadia ior ca ca ve er isholibo nahan kera mba a iengem i Aôndo ga."
+  },
+  {
+   "title": "Tindi fatyô u yiman mo ga",
+   "body": "Tindi ka tswen u i tôô za sha won ga, kpa ka iyol-i-yol. Hanma er m nôngo u kuren un yô, ka u u tese er m gbe akaa kpishi. Inja na ka u zan a vese ken Kristu.",
+   "vref": "Mbaromanu 3:20 · Mbagalatia 3:24",
+   "vtext": "Nahan sha aeren a sha atindi yô, a na ma or u umace ishô sha ishigh Nagh ga, gadia ka sha atindi man i fe asorabo ye … Kape tindi a lu orkuran wase u zan a vese ken Kristu sha u i̱ na se ishô sha jighjigh u nan yô."
+  },
+  {
+   "title": "Sha mhôôn — iwua, lu sha nôngo ga",
+   "body": "Myiman ka injar u aeren a u kar la ga, kpa ka iwua i Aôndo hen or u nan kuma a mi ga la. Sha nahan or fatyô u wuese iyol na ga.",
+   "vref": "Mbaefese 2:8-9",
+   "vtext": "Gadia ka sha mrumun u sha mhôôn i yima ne ye, sha jighjigh u nan. Man kwagh ne yô, ka her a ven a dugh ga, ka iwua i Aôndo. Ka sha tom u eren ga, sha er ma or nana̱ de te ihagh ga."
+  },
+  {
+   "title": "I ôron se ishô sha jighjigh u nan",
+   "body": "Sha u kuren tindi ga, kpa sha jighjigh u nan ken Yesu Kristu i ôron se mbaperapera — i wuhe se a perapera wase ga, kpa a u Na.",
+   "vref": "Mbaromanu 5:1 · Mbagalatia 2:16",
+   "vtext": "Nahan yô, er i ne se ishô sha jighjigh u nan yô, se mba bem bem a Aôndo sha Ter wase Yesu Kristu … or gbe zuan a ishô sha aeren a sha tindi ga, kpa ka sha jighjigh u nan ken Kristu Yesu."
+  },
+  {
+   "title": "Bibilo i tese Yesu",
+   "body": "Bibilo ka kwaghôron u mbahembanagee shin takerada u wasen iyol ga. Hii sha Genese zan zan ken Mpase, hanma kar pase kwagh u or môm — Yesu Kristu.",
+   "vref": "Yohane 5:39 · Luka 24:27",
+   "vtext": "Ne mba timen ken icighanruamabera … ka ve je ve pasen kwaghwam ye … A gba pasen ve akaa a sha iyol Na ken Icighanruamabera cii."
+  },
+  {
+   "title": "Tartor u Aôndo — ishima i kwaghôron u Yesu",
+   "body": "Kwagh u Yesu A tese hemban cii. Tartor u Aôndo A lu Tor sha mi la nyôr ken tar a Yesu shi una kure zum u Una hide va. Sha terankon man mnder Na, Yesu ka Tor u mimi u A hemba isholibo, ku, man Satan la.",
+   "vref": "Marku 1:15",
+   "vtext": "Ayange kuma, tartor u Aôndo mgbôghom ve; gema nen asema, na nen Loho u Dedoo ne jighjigh."
+  },
+  {
+   "title": "Loho u Dedoo — Un kure akaa cii",
+   "body": "Injar u isholibo u mo m fatyô u kimbin ga la, Yesu kimbi sha ityough kam sha terankon, man sha mnder Na A hemba ku. M tile sha “er nahan” ga, kpa sha “bee ve.”",
+   "vref": "Yohane 19:30 · Mbaromanu 5:8",
+   "vtext": "Bee ve … Kpa Aôndo tese se dooshima Na sha ku u Kristu A kpe sha ci wase er se lu mbaasorabo her la."
+  }
+ ],
+ "books": {
+  "Genese": "GEN",
+  "Ekesodu": "EXO",
+  "Levitiku": "LEV",
+  "Numeri": "NUM",
+  "Duteronomi": "DEU",
+  "Yosua": "JOS",
+  "Mbaajiriv": "JDG",
+  "Rutu": "RUT",
+  "Esera": "EZR",
+  "Nehemia": "NEH",
+  "Eseter": "EST",
+  "Yobu": "JOB",
+  "Upasalmi": "PSA",
+  "Anzaakaa": "PRO",
+  "Orpasenkwagh": "ECC",
+  "I Solomon": "SNG",
+  "Yesaia": "ISA",
+  "Yeremia": "JER",
+  "Ukwelegh": "LAM",
+  "Esekiel": "EZK",
+  "Daniel": "DAN",
+  "Hosea": "HOS",
+  "Yoel": "JOL",
+  "Amoshi": "AMO",
+  "Obadia": "OBA",
+  "Yona": "JON",
+  "Mika": "MIC",
+  "Nahum": "NAM",
+  "Habaku": "HAB",
+  "Sefania": "ZEP",
+  "Hagai": "HAG",
+  "Sekaria": "ZEC",
+  "Malaki": "MAL",
+  "Mateu": "MAT",
+  "Marku": "MRK",
+  "Luka": "LUK",
+  "Yohane": "JHN",
+  "Aerenakaa A Mbaapostoli": "ACT",
+  "Mbaromanu": "ROM",
+  "Mbagalatia": "GAL",
+  "Mbaefese": "EPH",
+  "Mbafilipi": "PHP",
+  "Mbakolose": "COL",
+  "Titu": "TIT",
+  "Filemon": "PHM",
+  "Mbaheberu": "HEB",
+  "Yakobu": "JAS",
+  "Yuda": "JUD",
+  "Mpase U Yohane": "REV",
+  "1 Mbatesalonika": "1TH",
+  "2 Timoteu": "2TI",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Utor": "1KI",
+  "2 Utor": "2KI",
+  "1 Kroniku": "1CH",
+  "2 Kroniku": "2CH",
+  "1 Mbakorinte": "1CO",
+  "2 Mbakorinte": "2CO",
+  "1 Timoteu": "1TI",
+  "1 Peteru": "1PE",
+  "2 Peteru": "2PE",
+  "1 Yohane": "1JN",
+  "2 Yohane": "2JN",
+  "3 Yohane": "3JN"
+ },
+ "yv": 2575,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
