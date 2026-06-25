@@ -11,6 +11,14 @@ auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
 - **Deferred — failed the empirical quality gate** (removed from live, await a human/native translator): **knc** (Kanuri —
   prose heavily Hausa-code-mixed + grammatically broken prayer/FAQ on blind back-translation); **guq** (Aché — ultra-low-resource,
   AI prose unreliable; never deployed). Re-add only after a native speaker verifies the prose. kg/ks/mni were re-checked and PASSED.
+- **Deferred then re-deployed after grounding the flagged terms in the edition itself**: **ssw** (siSwati, SWT #604)
+  was held for native review over 4 suspect non-Scripture spellings (`lc`/`phc`/`tjh` aren't standard siSwati). Resolved by
+  attesting the fixes **inside #604** via fetch-verse, not by guessing: `liphcombi`→`buphingi` (adultery, EXO 20:14/MAT 5:27
+  "Ungaphingi"), `etwesibili imibuso`→`emibuso lemibili` ("two kingdoms" verbatim in EZK 37:22 "...babe ngimibuso lemibili"),
+  `balcibijolo`→`banesibindzi` ("brave", stem in 1SA 16:18 "indvodza lenesibindzi"). **One residual MODERATE item**: the UI
+  toast `ui.toast` "Link copied" → `Lilinki likhophiwe` — a modern loanword with no Bible attestation; if a real siSwati
+  speaker ever reviews, double-check this one string. (Pattern worth reusing: a held language's *non-Scripture* terms can
+  often be cleared by finding the same word in a real verse of its own edition.)
 - **Added despite a limited source** (non-obvious choices): bho (own edition audio-only → added as **bridge** from hi);
   yue (only the **1915 romanized** Cantonese edition #3026 — added full-mode but kept deliberately: romanized verses
   clash with the Traditional-Han prose & most Cantonese read zh-Hant, yet verses are verbatim and it gives a 廣東話 page);
