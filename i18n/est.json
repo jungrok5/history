@@ -1,0 +1,382 @@
+{
+ "menuName": "Eesti",
+ "htmlLang": "est",
+ "dir": "ltr",
+ "brand": "Piibel ühe keriga",
+ "docTitle": "Piibel ühe keriga · Loomisest koguduseni",
+ "share": {
+  "title": "Piibel ühe keriga",
+  "text": "Ühe keriga avasta Piibli suur lugu — ja miks Jeesus tuli."
+ },
+ "ui": {
+  "people": "Tegelased",
+  "events": "Tähtsamad sündmused",
+  "christLabel": "Osutab Jeesusele",
+  "loveLabel": "Armastus, mis ei loobu",
+  "mythWrong": "Levinud väärarusaam",
+  "mythRight": "Tegelikkuses",
+  "more": "Loe edasi",
+  "version": "(PKEK)"
+ },
+ "labels": {
+  "start": "Algus",
+  "thread": "Lugu",
+  "gospel": "Evangeelium",
+  "about": "Lehest"
+ },
+ "s": {
+  "ui.share": "↗ Jaga",
+  "ui.toast": "Link kopeeritud 📋",
+  "ui.footer": "Piibel ühe keriga · Piiblitsitaadid pärinevad väljaandest PKEK",
+  "hero.kicker": "LOOMISEST KOGUDUSENI",
+  "hero.title": "Piibel,<br><span class='em'>ühe keriga</span>",
+  "hero.sub": "Ühe keriga avasta Piibli suur lugu — ja miks Jeesus tuli.",
+  "hero.cue": "Keri alla<span>↓</span>",
+  "thread.eyebrow": "ÜKS LAUSE, MIS SEOB KÕIK KOKKU",
+  "thread.h2": "Lõpuks on Piibel üks ainus lugu",
+  "thread.flow": "<b>Tõotus</b><span class='arw'>→</span><b>Ootamine</b><span class='arw'>→</span><b>Täitumine</b>",
+  "thread.note": "Jumal <b>tõotab</b> (leping), rahvas <b>ootab</b> kaua, ja lõpuks saab kõik <b>täidetud</b> ja täielikuks Jeesuses. Järgi alljärgnevat 13 stseeni selles voos — puuduta igal kaardil <b>«Loe edasi»</b>, et näha sügavamat lugu.",
+  "gospel.eyebrow": "MIDA SEE LUGU TÄHENDAB «MINULE»",
+  "gospel.h2": "Piibli tõeline süda",
+  "gospel.lead": "Piibel <b>ei ole õpik teemal «ole hea inimene».</b>",
+  "gospel.sublead": "See on lugu sellest, kuidas Jumal <b>üksnes armust</b> päästis patuseid, kes ei suutnud iial ise end päästa. Selle keskmes seisab Jeesus Kristus.",
+  "gospel.mirror": "<h3>Iisraeli lõputu ring on tegelikult pilt «minust»</h3><div class='cycle'><b>Ebajumalateenistus</b><span class='a'>→</span><b>Kannatus</b><span class='a'>→</span><b>Appihüüd</b><span class='a'>→</span><b>Jumal päästab</b><span class='a'>→</span><b>Taas ebajumalateenistus…</b></div><p>Kohtumõistjatest pagulusse kordab Iisrael seda ringi lõputult. Piibel ei kirjutanud seda üles selleks, et me saaksime irvitada: «Kui haledad nad olid.»</p><p>See on <b>peegel</b>. Mõte ei ole «Iisrael tegi nii», vaid <b>«mina teen sedasama»</b> (1. Korintlastele 10:11).</p><p><b>Ebajumal</b> ei ole vaid nikerdatud kuju. See on <b>kõik, mida me armastame või millele loodame rohkem kui Jumalale</b> — raha, edu, heakskiit, inimesed, isegi mina ise. Ja Jumala kasutamine <b>vahendina, et saada seda, mida ma tahan</b>, on samuti ebajumalateenistus.</p><p class='punch'>Lõpuks on sügavaim ebajumal «mina ise, kes istun Jumala troonil».</p>",
+  "gospel.coreIntro": "Kuidas siis Jumal niisuguse patuse päästab? Siin on evangeeliumi süda, mida Piibel kuulutab.",
+  "gospel.crux": "<p class='crux-lead'>Kogu Piibel osutab ühele kohale.</p><p>Inimene ei suutnud ise patu ringi murda ja kedagi õiget ei olnud. Seepärast pidi keegi <b>maksma hinna nende asemel</b>.</p><p>Jeesus ei tulnud üksnes andma häid õpetusi. Kuna polnud muud teed mind päästa, <b>ei jäänud tal muud üle kui tulla.</b></p><p class='crux-punch'>See, kes oleks pidanud rippuma sel ristil, olin <b>mina</b>.<br>Jeesus kandis <b>minu pattu</b> ja löödi sinna minu asemel.</p><div class='crux-verse'>«Ta kandis ise meie patud üles ristipuule, et meie pattudele ära sureksime ja elaksime tema õigusele. Tema vermete tõttu te olete saanud terveks.» — 1. Peetruse 2:24</div>",
+  "faq.h": "Kas miski paneb ikka veel painama?",
+  "faq.q1": "<span class='arr'>▸</span> Kas siis mõrtsukal piisab vaid uskumisest, et taevasse pääseda, samal ajal kui eluaeg hea inimene, kes ei usu, läheb põrgusse?",
+  "faq.a1": "<p>See on õiglane küsimus. Kuid selle sees peitub kaks väärarusaama.</p><p><b>① Piibel ei jaga inimesi «headeks ja halbadeks».</b> Mõõdupuu ei ole «parem kui naabrimees», vaid «Jumala täiuslik pühadus». Tema ees ei ole keegi «piisavalt hea» (Roomlastele 3:23). Niisiis ei ole see «hea inimene vs mõrtsukas», vaid pigem nagu kaks sama surmahaigust põdevat inimest — üks võtab ravimi vastu, teine keeldub sellest, öeldes: «Mina olen tervem kui too.»</p><p><b>② Taevast ja põrgut lahutab vaid üks asi.</b> Mitte tegude punktiskoor, vaid <b>kas oled vastu võtnud Jeesuse Kristuse Issandana ja sinu patuprobleem on lahendatud.</b> See, kelle patt on Kristuse vere läbi lahendatud, läheb taevasse; see, kes teda iial vastu ei võta ja kelle patt jääb püsima, ei lähe. Ükski hulk häid tegusid ei suuda seda patuprobleemi ennast lahendada.</p><p>Niisiis ei ole taevas ja põrgu «auhind hea käitumise eest», vaid <b>suhte küsimus Kristusega</b>. Ja «uskumine» ei ole mõistuslik nõustumine, vaid muutus selles, kes su elu juhib — kes teda tõeliselt vastu võtab, ei muutu ülbeks, vaid kahetseb kõige sügavamalt. Tegelikult on enesega õigeksmõistmine («mina olen hea inimene») kõige raskem ebajumal, mida murda, just see, mis paneb meid arvama, et me ei vaja Kristust (Luuka 18:9-14).</p><p>Piibel ütleb seda selgelt: <b>«Kes iganes usub Pojasse, seda ei mõisteta süüdi, aga kes ei usu, on juba süüdi mõistetud»</b> (Johannese 3:18). Kohus ei ole «su elu hindamine pärast surma», vaid see on juba otsustatud selle põhjal, <b>kas sa võtsid Kristuse vastu</b>.</p><p class='faq-v'>Roomlastele 3:23 · Johannese 3:18 · Efeslastele 2:8-9 · Luuka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Kas ma ei või lihtsalt elada head elu, ilma Jeesusesse uskumata?",
+  "faq.a2": "<p>See on kõige levinum mõte, kuid see mõistab valesti, mis on tegelik probleem. Siin on üks pilt.</p><p><b>Oletame, et oled piraadilaeval.</b> Ükskõik kui puhtana sa tekki hoiad, kui lahke oled meeskonna vastu, kui eeskujulik on su elu — sa oled ikkagi <b>piraat</b>, sest laev viib sind kaasa sinna, kuhu ta suundub (kohtu sadamasse). Probleem ei ole «tegude punktiskoor», vaid <b>«millisesse laeva sa kuulud» (sinu identiteet)</b>.</p><p>Seepärast ei ütle evangeelium «pinguta rohkem, et olla hea», vaid <b>«vaheta laeva».</b> Astu maha patu laevalt ja mine üle Jeesuse juurde — uude identiteeti kui <b>Jumala laps</b>. See ei ole oma skoori tõstmine pingutusega, vaid usaldamine Tema vastu, kes sirutab oma käe, ja ülemineku tegemine tema laevale.</p><p>Tegelikult kirjeldab Piibel päästet just sellise üleviimisena: <b>«Sest tema on meid päästnud pimeduse meelevallast ning toonud meid oma armsa Poja Kuningriiki»</b> (Koloslastele 1:13).</p><p>Ära mõista valesti: <b>see ei tähenda, et hea elu oleks tähtsusetu.</b> Headus ei ole pääste «tingimus», vaid selle <b>vili</b>. Kes on laeva vahetanud, elab nüüd hästi mitte hirmust, vaid lapse armastusest.</p><p class='faq-v'>Koloslastele 1:13 · Johannese 1:12 · Johannese 3:3 · Efeslastele 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Kui kurjategija tunneb end rahulikuna, väites «Jumal on mulle andestanud», samal ajal kui ohver ikka kannatab — kas pole arm siis liiga odav?",
+  "faq.a3": "<p>Küsimus on õiglane ja valu on tõeline. Kuid niisugune väide ei ole «Piibli andestus» — see on selle <b>moonutus</b>.</p><p><b>① Jumala andestus ei ole kunagi odav.</b> Pattu ei pühita vaiba alla, nagu poleks seda kunagi juhtunud; Jumal ise maksis selle hinna oma Poja eluga. Rist ei ole tõend, et pattu võetakse kergelt, vaid et patt on nii raske — see on maailma kõige kallim andestus.</p><p><b>② Tõeline meeleparandus kannab vilja.</b> Kui kurjategija on ohvri ees ülbe — «Jumal andestas mulle, niisiis olen rahus» —, ei ole see meeleparandus, vaid selle järeleaimamine (Matteuse 3:8). Ja andestus inimese ja Jumala vahel ei kustuta ohvri haava ega sunni ohvrit andestama.</p><p><b>③ Pattu ei lasta kunagi lihtsalt «mööda».</b> Iga patt makstakse kinni ühes kahest kohast — <b>kas kannab seda Kristus ristil</b> (neile, kes teda usaldavad, ei ole enam hukkamõistu, Roomlastele 8:1), <b>või kannab seda see, kes teda lõpuks tagasi lükkab, ise.</b> Niisiis ei ole olemas «odavat armuandi». Kurjategija kannab ka selles maailmas õiguslikku vastutust (Roomlastele 13:1-4).</p><p><b>④ Ohvri pisarad ei ole Jumala ees kunagi väikesed.</b> Jumal nutab koos nutjatega, mäletab iga pisarat ja pühib need lõpuks ise ära (Ilmutuse 21:4). Niisiis ei pea ohver kättemaksu koormat üksinda kandma, vaid võib selle usaldada õiglasele Jumalale (Roomlastele 12:19 — «Mulle kuulub kättemaks, minu käest tuleb karistus, ütleb Issand»).</p><p class='faq-v'>Matteuse 3:8 · Roomlastele 8:1 · Roomlastele 13:1-4 · Ilmutuse 21:4</p>",
+  "faq.q4": "<span class='arr'>▸</span> Kas Piibel on tõesti tõestisündinud lugu? See tundub nagu vana müüt või romaan.",
+  "faq.a4": "<p>See on õiglane küsimus — ja hea koht alustamiseks. Kahtlus ei ole usu vastand, vaid soov asju ausalt kontrollida. Piibel ei ole ähmane müüt, mida «uskuda, kui tuju on», vaid kirjapandud ülestähendus <b>tegelikest paikadest, kuupäevadest ja inimestest</b>. Vaid mõned näited.</p><p><b>① See ei ole üks raamat, vaid «raamatukogu» — ometi kulgeb see ühel teemal.</b> Piibel on kogu <b>66 raamatust</b>, mis on kirjutatud umbes <b>1500 aasta jooksul ligi 40 autori poolt</b> — kuningad, karjased, kalurid, maksukoguja, arst, eri seisuste ja ajastute inimesed, kes kirjutasid eraldi ja teineteisest teadmata, kolmes keeles (heebrea, aramea, kreeka). Ometi koondub kõik korratuseta <b>ühele teemale: pääste Kristuse läbi</b>. Seda järjekindlust on raske seletada juhuse või inimliku kooskõlastamisega.</p><p><b>② Seda kinnitatakse üha maa seest (arheoloogia).</b> Paljud asjad, mis kunagi tunnistati väljamõelduiks, «leiduvat üksnes Piiblis», said hiljem väljakaevamistega kinnitatud. <b>Taaveti dünastia</b> kivist, millele on raiutud «Taaveti koda» (Tel Dani stele); <b>Pontius Pilatus</b>, Jeesuse hukanud maavalitseja, tema nime kandva raidkirja kaudu; kuningas Hiskija veetunnel — tunneli enda ja selle raidkirja kaudu. Isegi <b>hetiidid</b>, keda kunagi nimetati «väljamõeldud rahvaks», kerkisid varemete vahelt esile suure riigina.</p><p><b>③ See on parimini säilinud antiikne dokument (käsikirjad).</b> Säilinud käsikirjade arvult, nende omavaheliselt kokkulangevuselt ning kirjutamise ja ärakirja vahelise ajavahe poolest on Piibel <b>antiiksete dokumentide hulgas võrratu</b>. Kristuse-eelne Jesaja rull <b>Surnumere kirjarullide</b> seast (leitud 1947) langes ligi tähttäheliselt kokku umbes 1000 aastat hilisema standardtekstiga — tõend, et Piibel on läbi sajandite täpselt säilinud.</p><p><b>④ Mis oli ette kirjutatud, läks just nõnda täide (ettekuulutus).</b> Sajandeid enne Jeesust kirja pandud kirjad osutavad täpselt tema sünnile Petlemmas, kannatavale sulasele ja risti asjaoludele. Liiga täpne, et seda juhuseks pidada.</p><p><b>⑤ Ka Piibli-välised ajaloolased panid selle kirja.</b> Rooma ajaloolane <b>Tacitus</b> ja juudi ajaloolane <b>Josephus</b> — kumbki polnud kristlane — mainivad Jeesust, tema hukkamist ja algkogudust. Eelkõige aga seadsid jüngrid, kes olid hirmust laiali pudenenud, <b>oma elu kaalule</b>, tunnistades ülestõusmist — keegi ei sure selle eest, mida ta teab valeks olevat.</p><p>Ausalt öeldes näitavad need alused siiski, et Piiblisse uskumine <b>ei ole mõistusevastane, vaid mõistlik</b>; need ei ole «tõestus», mis sunnib nagu matemaatiline valem. Seepärast ei tulene kristlase kindlus üksnes tõenditest, vaid <b>veendumusest, mille Püha Vaim südamesse annab, kui inimene loeb Sõna</b>. Piibel ütleb: <b>«Niisiis, usk tuleb kuuldust, aga kuuldu Kristuse sõna kaudu»</b> (Roomlastele 10:17). Niisiis, ükskõik kui väga see ka väljamõeldisena tundub, on <b>selle endale lugemine</b> algus. Tõend avab ukse, ja kindlus kasvab selle sees, kes loeb.</p><p class='faq-v'>Roomlastele 10:17</p>",
+  "respond.h3": "Niisiis — mis saab minust?",
+  "respond.sub": "See armastus ei ole teave, vaid <b>kutse</b>. Kui armastus, mis naelutati sinu asemel, on puudutanud su südant, palveta seda aeglaselt, üks rida korraga.",
+  "respond.prayer": "<p>Jumal,</p><p>ma tunnistan, et olen patune, kes ei suuda end ise päästa.</p><p>Usun, et Jeesus suri minu eest ristil ja tõusis üles.</p><p>Anna andeks kõik mu patud ja ole tänasest peale minu elu Issand.</p><p>Võta mind vastu oma lapsena ja lase mul elada uut elu.</p><p class='amen'>Jeesuse nimel ma palun. Aamen.</p>",
+  "respond.after": "Kui sa palvetasid seda siiralt, ütleb Piibel, et oled <b>saanud Jumala lapseks</b>. Sa ei ole enam üksi — leia lähedalasuv kogudus ja käi koos teistega usu teed.",
+  "respond.read": "Loe Piiblit ise — alusta Johannesest",
+  "respond.verse": "«Aga kõigile, kes tema vastu võtsid, andis ta meelevalla saada Jumala lasteks, neile, kes usuvad tema nimesse.» — Johannese 1:12 · Roomlastele 10:9-10",
+  "closing.main": "Üks Jumal,<br>ühe loo kaudu,<br>tuleb meile järele <em>armastusega</em>,<br>mis kunagi alla ei anna.",
+  "closing.verse": "«Ei surm ega elu… ega miski muu loodu ei suuda lahutada meid Jumala armastusest, mis on Kristuses Jeesuses, meie Issandas.» — Roomlastele 8:38-39",
+  "closing.small": "Sellele loole lisavad Seadus, õpetusraamatud, prohvetid ja kirjad «liha».<br>Nüüdsest, ükskõik millise raamatu sa avad, näed, kus loos sa parajasti oled.",
+  "closing.share": "↗ Jaga seda lugu",
+  "about.line": "Põhineb lunastusloolisel vaatel, mida jagab enamik Korea protestantlikust kirikust (evangeelne · reformeeritud).",
+  "about.contact": "Küsimused · tagasiside — <a id='contact' class='mail'>Kirjuta meile</a>",
+  "partial.note": "Eesti keeles on siin tsiteeritud üksnes Uut Testamenti; loe täielikku lugu Uuest Testamendist."
+ },
+ "epochs": [
+  {
+   "tag": "VANA TESTAMENT · ALGUS",
+   "title": "Loomine",
+   "date": "Alguses",
+   "one": "Jumal lõi maailma, mis oli «väga hea».",
+   "people": "Jumal; Aadam ja Eeva",
+   "events": "Kuus loomispäeva, inimene loodud Jumala näo järgi, hingamispäeva puhkus",
+   "q": "Alguses lõi Jumal taeva ja maa.",
+   "cite": "",
+   "christ": "Maailm loodi «Sõna» läbi. Johannese evangeelium kuulutab, et see Sõna on Jeesus ise (Johannese 1:1-3).",
+   "detail": "<p>Piibel ei alga filosoofilise arutlusega, vaid kuulutusega: <b>«Alguses lõi Jumal…»</b> Maailm ei ole juhus, vaid isikulise Jumala töö.</p><ul><li><b>Jumala kuju</b> · kõigist loodutest on üksnes inimene tehtud Jumala sarnaseks — et teda tunda ja maailma eest hoolt kanda.</li><li><b>Puhkus</b> · seitsmenda päeva puhkus näitab kõike valmis ja rahus (šaloom): «see oli hea».</li><li><b>Eeden</b> · maailm enne, kui see purustati, kus Jumal ja inimesed käivad koos.</li></ul>",
+   "next": "Kuid see terviklikkus on murdumas…"
+  },
+  {
+   "tag": "VANA TESTAMENT · PROBLEEM ALGAB",
+   "title": "Pattulangemine",
+   "date": "Alguses",
+   "one": "Patt tuli sisse ja side inimese ning Jumala vahel katkes.",
+   "people": "Aadam ja Eeva; madu (Saatan)",
+   "events": "Keelatud vilja söömine, väljaajamine Eedenist, surma ja vaeva tulek",
+   "q": "Jumal seab vaenu mao ja naise vahele, ja naise sugu purustab mao pea.",
+   "cite": "",
+   "christ": "Esimene evangeeliumi tõotus, antud kohe pärast pattulangemist: «naise sugu» purustab mao pea — ja see on Jeesus (Roomlastele 16:20; Galaatlastele 4:4).",
+   "detail": "<p>Sõnakuulmatuse läbi, mis tahtis «olla nagu Jumal», tuleb patt maailma. Tagajärg ei ole pelgalt murtud reegel, vaid <b>murtud suhe</b>.</p><ul><li><b>Murtud sidemed</b> · Jumalaga (peitmine), üksteisega (süüdistamine), loodusega (ohakad ja vaev).</li><li><b>Surm</b> · hoiatus «sa pead surema» saab tõeks.</li><li>Ometi tuleb keset kohut kõigepealt pääste tõotus. Õpetlased nimetavad seda <b>protoevangeeliumiks (esimeseks evangeeliumiks)</b>.</li></ul>",
+   "next": "Nüüd kutsub Jumal ühe mehe, et alustada päästmist…"
+  },
+  {
+   "tag": "VANA TESTAMENT · TÕOTUS",
+   "title": "Esiisad",
+   "date": "u 2000 eKr",
+   "one": "Jumal tõotab Aabrahamile: «Sina saad õnnistuse kanaliks.»",
+   "people": "Aabraham · Iisak · Jaakob · Joosep",
+   "events": "Aabrahami leping, Iisaki ohverdamine, Jaakobi kaksteist poega, Joosep tõuseb Egiptuses võimule",
+   "q": "Jumal tõotab teha Aabrahamist suure rahva, ja temas õnnistatakse kõiki maa suguvõsasid.",
+   "cite": "",
+   "christ": "Tõotus, et «kõiki rahvaid õnnistatakse», täitub Jeesuses, Aabrahami soos (Galaatlastele 3:16).",
+   "detail": "<p>Jumal hakkab kogu inimkonna probleemi lahendama, kutsudes ühe mehe, <b>Aabrahami</b>. Selle süda on <b>leping (tõotus)</b> — suur rahvas, maa ja «õnnistus kõigile rahvastele».</p><ul><li><b>Usk</b> · Aabraham uskus nähtamatut tõotust, ja see arvati talle õiguseks.</li><li><b>Iisak ja Jaakob</b> · tõotus läheb edasi; Jaakob (Iisrael) sünnitab kaksteist suguharu.</li><li><b>Joosep</b> · vendade poolt maha müüdud, ometi võimule tõstetud — Jumal pööras selle heaks.</li></ul>",
+   "next": "Joosepile järgnedes läheb pere alla Egiptusesse — ja jääb orjusse…"
+  },
+  {
+   "tag": "VANA TESTAMENT · LUNASTUS",
+   "title": "Väljaränne ja kõrb",
+   "date": "u 1446 eKr",
+   "one": "Jumal päästis orjastatud rahva ja tegi nad enda omaks.",
+   "people": "Mooses, Aaron, vaarao",
+   "events": "Kümme nuhtlust, paasapüha, Punase mere läbimine, kümme käsku Siinail, kogudusetelk, 40 aastat kõrbes",
+   "q": "Jumal lubab võtta nad oma rahvaks ja olla nende Jumal.",
+   "cite": "",
+   "christ": "Paasapüha — mil talle veri pööras surma eemale — osutab Jeesusele, «meie paasatallele», kes löödi meie eest risti (1. Korintlastele 5:7).",
+   "detail": "<p>Vana Testamendi suurim pääste. Kunagi orjastatud Iisrael saab Jumala väega vabaks ja kujundatakse tema <b>rahvaks</b>.</p><ul><li><b>Paasapüha</b> · kodu, mis on märgitud talle verega, läheb surmast mööda — eeskuju iga hilisema ohvri taga.</li><li><b>Punane meri</b> · pääste seal, kus tee otsa saab; «läbiminek» saab uue alguse sümboliks.</li><li><b>Siinai leping</b> · käskude kaudu õpivad nad, kuidas elada Jumala rahvana.</li><li><b>Kogudusetelk</b> · liigutatav pühamu, kus Jumal elab oma rahva keskel — «Immaanueli» eelmaitse.</li><li><b>40 aastat</b> · sõnakuulmatus paneb ühe põlvkonna kõrbes ekslema, ometi püsib Jumal lähedal mannaga ning pilve- ja tulesambaga.</li></ul>",
+   "next": "Tõotatud maa serval seistes valmistuvad nad sisenema…"
+  },
+  {
+   "tag": "VANA TESTAMENT · ASUMINE",
+   "title": "Vallutus ja kohtumõistjad",
+   "date": "u 1400–1050 eKr",
+   "one": "Nad said maa, kuid ilma kuningata tegi igaüks, mis tahtis.",
+   "people": "Joosua; kohtumõistjad nagu Giideon ja Simson; Rutt",
+   "events": "Jeeriko langemine, asumine Kaananisse, korduv patu–kohtu–pääste ring",
+   "q": "Neil päevil ei olnud Iisraelis kuningat; igaüks tegi seda, mis oli õige tema enda silmis.",
+   "cite": "",
+   "christ": "Ruti soost tuleb Taavet, ja Taaveti soost tuleb Jeesus (Matteuse 1). Isegi kaoses kestab Messia sugupuu edasi.",
+   "detail": "<p>Joosua all sisenevad nad tõotatud maale, kuid pärast asumist unustavad peagi Jumala. Kohtumõistjate raamat on sama muster kordumas.</p><ul><li><b>Langev ring</b> · patt → rõhumine → appihüüd → kohtumõistja päästab → taas patt. See aina halveneb.</li><li><b>Kohtumõistjad</b> · Giideon, Simson, Deboora — ajutised päästjad, kangelaslikud, kuid sügavalt vigased.</li><li><b>Rutt</b> · helge lugu ustavusest pimedal ajastul; võõramaa naine astub Taaveti (ja Jeesuse) sugupuusse.</li></ul>",
+   "next": "Rahvas hüüab: «Anna ka meile kuningas!»…"
+  },
+  {
+   "tag": "VANA TESTAMENT · KULDAEG",
+   "title": "Ühendkuningriik",
+   "date": "u 1050–930 eKr",
+   "one": "Jumal tõotab Taavetile: «Sinu troon püsib igavesti.»",
+   "people": "Saul · Taavet · Saalomon",
+   "events": "Esimene kuningas Saul, Taavet ja Koljat, Taaveti leping, Saalomon ehitab templi",
+   "q": "Jumal tõotab Taavetile, et tema koda ja kuningriik püsivad igavesti, ja tema troon kinnitatakse igaveseks.",
+   "cite": "",
+   "christ": "«Igavene troon» täitub Jeesuses, Taaveti pojas — seepärast kutsutakse teda «Taaveti pojaks» (Luuka 1:32-33; Matteuse 1:1).",
+   "detail": "<p>Iisraeli haripunkt, mida valitsevad kolm kuningat.</p><ul><li><b>Saul</b> · kuningas, keda rahvas nõudis; hea algus, mille rikkus sõnakuulmatus.</li><li><b>Taavet</b> · «mees Jumala südame järgi». Ta võidab Koljati ja teeb Jeruusalemmast pealinna. Ta teeb suure patu (Batseba), ometi parandab südamest meelt.</li><li><b>Taaveti leping</b> · Jumal tõotab kinnitada Taaveti dünastia igavesti — Messia lootuse otsustav juur.</li><li><b>Saalomon</b> · tarkuse ja rikkuse tipul ehitab ta <b>templi</b>, kuid elu lõpul pöördub ebajumalate poole.</li></ul>",
+   "next": "Pärast Saalomoni jaguneb kuningriik kaheks…"
+  },
+  {
+   "tag": "VANA TESTAMENT · LANGUS",
+   "title": "Jagunenud kuningriik",
+   "date": "930–586 eKr",
+   "one": "Jagunenud lõunaks (Juuda) ja põhjaks (Iisrael), rahvas libiseb hukatusse.",
+   "people": "Mõlema kuningriigi kuningad; prohvetid nagu Eelija, Jesaja, Jeremija",
+   "events": "Kuningriik jaguneb, ebajumalateenistus levib, prohvetid hoiatavad",
+   "q": "Nõnda on Iisrael Taaveti koja vastu mässanud kuni tänase päevani.",
+   "cite": "",
+   "christ": "Sellel ajastul kuulutavad prohvetid tulevat Messiat üha selgemini ette.",
+   "detail": "<p>Saalomoni poja päevil jaguneb rahvas: <b>põhjapoolne Iisraeli kuningriik</b> (10 suguharu, pealinn Samaaria) ja <b>lõunapoolne Juuda kuningriik</b> (2 suguharu, pealinn Jeruusalemm).</p><ul><li><b>Iisrael (põhi)</b> · iga kuningas teenib ebajumalaid; see langeb Assüüria kätte aastal 722 eKr.</li><li><b>Juuda (lõuna)</b> · Taaveti sugu kestab, mõne hea kuningaga nagu Hiskija ja Joosija, kuid üldiselt taandub.</li><li><b>Prohvetid</b> · Eelija, Aamos, Jesaja, Jeremija hüüavad: «pöörduge tagasi!» Messia ettekuulutus jõuab siin oma rikkaima punktini (kannatav sulane).</li></ul>",
+   "next": "Lõpuks tuleb hoiatatud kohus — nad viiakse pagulusse…"
+  },
+  {
+   "tag": "VANA TESTAMENT · KOHUS",
+   "title": "Pagulus",
+   "date": "722 / 586 eKr",
+   "one": "Rahvas variseb kokku ja viiakse võõrastele maadele.",
+   "people": "Taaniel, Hesekiel, Nebukadnetsar",
+   "events": "Iisrael langeb Assüüria kätte (722), Juuda langeb Babüloonia kätte ja tempel hävitatakse (586)",
+   "q": "Paabeli jõgede ääres, seal me istusime ja nutsime, kui meenutasime Siionit.",
+   "cite": "",
+   "christ": "Meeleheite sügavuses tõotab Jeremija «uue lepingu» — selle sama lepingu, mille Jeesus pitseerib viimsel õhtusöömaajal.",
+   "detail": "<p>Hoiatused lähevad tõeks. Tempel põleb ja rahvas viiakse Babüloni — kaotades maa, kuninga ja templi: kõige madalam punkt.</p><ul><li><b>Kaks langemist</b> · Iisrael (Assüüria, 722 eKr) ja Juuda (Babüloonia, 586 eKr).</li><li><b>Taaniel</b> · usu eeskuju isegi paganlikus õukonnas (lõvide auk); ta näeb nägemusi tulevast «igavesest kuningriigist».</li><li><b>Lootuse säde</b> · Hesekieli nägemus ellu ärkavatest kuivanud luudest ja Jeremija «uus leping» osutavad tulevikule pimeduses.</li></ul>",
+   "next": "Seitsekümmend aastat hiljem avab Jumal tee — nad lähevad koju…"
+  },
+  {
+   "tag": "VANA TESTAMENT · TAASTAMINE",
+   "title": "Tagasitulek",
+   "date": "538–430 eKr",
+   "one": "Nad tulevad tagasi ja ehitavad templi ning müürid üles.",
+   "people": "Esra, Nehemja, Ester, Serubbaabel",
+   "events": "Tagasitulek Kyrose käsul, templi taastamine, Jeruusalemma müüride taastamine, Sõna taastamine",
+   "q": "Issanda rõõm on teie ramm.",
+   "cite": "",
+   "christ": "Malaki, Vana Testamendi viimane raamat, lõpeb ettekuulutusega käskjalast, kes valmistab Messia teed: «Ma läkitan oma käskjala».",
+   "detail": "<p>Pärsia kuninga Kyrose käsul (538 eKr) algab tagasitulek. Kolmes laines tulevad nad tagasi ja ehitavad üles selle, mis oli rusudes.</p><ul><li><b>Serubbaabel</b> · ehitab templi üles (valmis 516 eKr).</li><li><b>Esra</b> · õpetab taas Sõna ja äratab usu ellu.</li><li><b>Nehemja</b> · ehitab Jeruusalemma müürid üles 52 päevaga.</li><li><b>Ester</b> · päästab Pärsias juudid hävingust — «just selliseks ajaks».</li><li><b>Endiselt igatsedes</b> · tempel seisab, kuid ei ole kuningat nagu Taavet. Rahvas ootab Messiat.</li></ul>",
+   "next": "Ja siis… nagu oleks taevas vaikinud, möödub 400 aastat."
+  },
+  {
+   "tag": "TESTAMENTIDE VAHEL · LAVA VALMISTAMINE",
+   "title": "Vaikuse aastad",
+   "date": "u 430–4 eKr",
+   "one": "400 aastat ilma prohveti hääleta — ometi seati lava vaikselt valmis.",
+   "people": "Aleksander Suur, makkabid, Rooma",
+   "events": "Pärsia → Kreeka → makkabite iseseisvus → Rooma võim",
+   "q": "aga kui ettenähtud aeg sai täis, läkitas Jumal oma Poja, kes sündis naisest. Ta sündis Seaduse alla,",
+   "cite": "Galaatlastele 4:4",
+   "christ": "Kogu see «lava valmistamine» oli Jumala töö, et Jeesus tuleks just «ettenähtud ajal».",
+   "detail": "<p>Malakist Uue Testamendini möödub umbes 400 aastat ilma uue Pühakirjata. Ometi valmistas Jumal ajaloo taga evangeeliumile teed.</p><ul><li><b>Riigid vahetuvad</b> · Pärsia → Kreeka (Aleksander, 333 eKr) → Ptolemaiosed ja Seleukiidid → makkabite ülestõus (167 eKr) → Rooma (63 eKr).</li><li><b>Kreeka keel</b> · Aleksandri vallutused teevad kreeka keelest ühiskeele; Vana Testament tõlgitakse kreeka keelde (Septuaginta), sillutades teed evangeeliumi kiireks levikuks.</li><li><b>Rooma teed ja rahu</b> · hästi ehitatud teed ja «Pax Romana» saavad misjoni maanteedeks.</li><li><b>Sünagoogid ja rühmitused</b> · sünagoogiõpetus juurdub; tekivad variserid ja saduserid; ja <b>Messia igatsus</b> küpseb.</li></ul>",
+   "next": "Siis murdub vaikus — lõpuks ta tuleb."
+  },
+  {
+   "tag": "UUS TESTAMENT · TÄITUMINE",
+   "title": "Jeesus tuleb",
+   "date": "u 4 eKr–30 pKr",
+   "one": "Tõotatud Messia tuli, suri ja tõusis taas üles.",
+   "people": "Jeesus, kaksteist jüngrit, Ristija Johannes",
+   "events": "Lihakssaamine, tema teenistus ning õpetus ja imeteod, surm ristil, ülestõusmine kolmandal päeval",
+   "q": "Sõna sai lihaks ja elas meie keskel. Me oleme näinud tema au – ühe ja ainsa Poja au, kes tuli Isa juurest täis armu ja tõde.",
+   "cite": "Johannese 1:14",
+   "christ": "Naise sugu (stseen 2), Aabrahami õnnistus (3), paasatall (4), Taaveti igavene kuningas (6), uus leping (8) — kõik täitunud ühes mehes, Jeesuses: meie tõeline Prohvet, Preester ja Kuningas.",
+   "detail": "<p>Vaikus murdub; Tõotatu saabub. Neli evangeeliumi tunnistavad Jeesuse elust, surmast ja ülestõusmisest neljast nurgast.</p><ul><li><b>Lihakssaamine</b> · Jumal saab inimeseks (Immaanuel, «Jumal meiega»), Petlemma alandlikus paigas.</li><li><b>Teenistus</b> · ta õpetab Jumala riiki, tervendab haigeid, kutsub patuseid. «Kes on näinud mind, see on näinud Isa.»</li><li><b>Rist</b> · ta maksab pattulangemise (stseen 2) toodud patu ja surma hinna. Tõeline paasatall.</li><li><b>Ülestõusmine</b> · kolmandal päeval üles tõustes murrab ta patu, surma ja Saatana väe — juba ristil «riisus ta relvituks valitsused ja võimud … võidutsedes nende üle» (Koloslastele 2:15).</li></ul><p>Niisiis on Jeesus meie <b>tõeline Prohvet</b> (näitab teed Jumala juurde), meie <b>tõeline Preester</b> (lepitab patu oma ihuga) ja meie <b>tõeline Kuningas</b> (võidab patu, surma ja Saatana ning valitseb igavesti).</p>",
+   "next": "Ülestõusnud Jeesus läkitab oma jüngrid maailma…"
+  },
+  {
+   "tag": "UUS TESTAMENT · LEVIK",
+   "title": "Kogudus algab",
+   "date": "u 30 pKr–",
+   "one": "Vaim tuleb, ja evangeelium levib maailma otsani.",
+   "people": "Peetrus, Paulus, algkogudus",
+   "events": "Vaim valatakse välja nelipühal, kogudus sünnib, evangeelium levib Jeruusalemmast Roomani läbi tagakiusu",
+   "q": "Aga te saate Püha Vaimu väe, kes tuleb teie peale, ja peate olema minu tunnistajad Jeruusalemmas ja kõigel Juuda- ja Samaariamaal ja maailma otsani!“",
+   "cite": "Apostlite teod 1:8",
+   "christ": "See lugu kestab ikka veel. Piibel lõpeb tõotusega, et Jeesus tuleb taas ja teeb kõik uueks (Ilmutuse 21).",
+   "detail": "<p>Pärast Jeesuse taevasseminekut tuleb tõotatud Vaim nelipühal ja kogudus sünnib. Evangeelium levib plahvatuslikult.</p><ul><li><b>Nelipüha</b> · Vaim muudab kartlikud jüngrid julgeteks tunnistajateks.</li><li><b>Peetrus</b> · kuulutab evangeeliumi juutidele Jeruusalemmas.</li><li><b>Paulus</b> · tagakiusajast apostliks, rajab kogudusi üle paganamaailma ja kirjutab kirjad.</li><li><b>Maailma otsani</b> · Jeruusalemm → Juudamaa → Samaaria → Rooma. Aabrahamile antud tõotus «kõigist rahvastest» läheb täide.</li><li><b>Ja meie</b> · lugu ei lõpe; see surub edasi Jeesuse tagasituleku ning uue taeva ja uue maa poole.</li></ul>",
+   "next": "Kuid lugu ei lõpe siin…"
+  },
+  {
+   "tag": "UUS TESTAMENT · TÄIELIKKUS",
+   "title": "Taastamine",
+   "date": "Veel tulemas",
+   "one": "Jeesus tuleb taas ja teeb kõik uueks.",
+   "people": "Tagasitulev Jeesus; kõik rahvad",
+   "events": "Teine tulemine, viimne kohus, patu·surma·pisarate lõpp, uus taevas ja uus maa",
+   "q": "Ja tema pühib ära kõik pisarad nende silmist, ja surma ei ole enam ega leinamist ega nuttu ega valu, sest kõik endine on möödunud.“",
+   "cite": "Ilmutuse 21:4",
+   "christ": "Esimese loomise Eeden taastatakse lõpuks «uue Jeruusalemmana». Jumal elab oma rahvaga igavesti — Immaanueli täielikkus (Ilmutuse 21:3; Matteuse 1:23).",
+   "detail": "<p>Piibel ei lõpe koguduse ajastuga. Selle viimane raamat, Ilmutusraamat, näitab Jeesust <b>taas tulemas</b>, et kõik lõpule viia.</p><ul><li><b>Teine tulemine</b> · tõotatud Kuningas tuleb tagasi aus.</li><li><b>Lõplik võit</b> · Saatan ja surm võidetakse igaveseks, ja Kristus valitseb kuningate Kuningana (1. Korintlastele 15:25-26; Ilmutuse 20:10).</li><li><b>Kohus ja ülestõusmine</b> · iga ülekohus seatakse õigeks, ja surnud äratatakse üles.</li><li><b>Uus taevas ja uus maa</b> · patt, surm, pisarad ja valu kaovad igaveseks (Ilmutuse 21:4).</li><li><b>Taastatud Eeden</b> · «uues Jeruusalemmas», mis on parem kui algus, elab Jumal oma rahvaga igavesti — siht, mille poole kogu Piibel on liikunud.</li></ul><p>Niisiis on praegu <b>«juba, kuid mitte veel»</b> ajastu: Jeesuses on pääste <b>juba</b> saavutatud, kuid selle täielikkust <b>alles</b> oodatakse.</p>",
+   "next": "Mida see kogu lugu siis tähendab «minule»?"
+  }
+ ],
+ "love": [
+  "Lugu ei alga kohtuga, vaid armastusest valatud loominguga.",
+  "Hetkel, mil inimesed pattu tegid, tõotas Jumal sealsamas päästet.",
+  "Jumal tuli esimesena väärimatu mehe juurde, kutsus teda nimepidi ja tegi temast õnnistuse kanali.",
+  "Ta kuulis orjastatud rahva oigamist ja tuli ise alla neid päästma.",
+  "Reedetud ikka ja jälle, ometi saatis ta iga kord, kui nad hüüdsid, päästja ja tõstis nad üles.",
+  "Ta ei heitnud ära isegi langenud Taavetit ja tõotas tema kaudu igavest Kuningat.",
+  "Rahvale, kes pöördus selja, saatis ta ühtelugu prohveteid, anudes: «Palun tule koju.»",
+  "Ta läks nendega kaasa isegi paguluse kõige pimedamale maale ja tõotas taastamist.",
+  "Isegi rahvale, kes kukkus läbi ikka ja jälle, ei võtnud ta oma tõotust tagasi.",
+  "Isegi läbi 400 vaikse aasta valmistas ta nähtamatult pääste teed.",
+  "Kui me olime alles patused, saatis ta oma Poja, et see annaks ära oma elu.",
+  "Armastuse, mille me saime, läkitab ta nüüd voolama kogu maailma.",
+  "Lõpuks pühib ta ära iga pisara ja teeb armastuses kõik uueks."
+ ],
+ "mis": [
+  {
+   "w": "«Miks lõi Jumal inimesed, kes võisid pattu teha? Kas poleks olnud parem meid üldse mitte luua?»",
+   "t": "Jumal lõi maailma ja inimesed mitte mingist puudusest, vaid ülevoolavast armastusest. Inimeste loomine <b>isikuteks, kes suhtlevad Jumalaga</b>, on iseenesest armastus. Ja isegi patu sisenemine ei jäänud Jumala päästeplaanist välja (Efeslastele 1:4-5). Piibli avastseen ei ole kohus, vaid armastus."
+  },
+  {
+   "w": "«Pagendatud ja surmale antud vaid ühe vilja söömise pärast — kas pole Jumal liiga karm?»",
+   "t": "Eedenist väljasaatmine oli ühtaegu kohus ja halastus. Süüa elupuust ja elada igavesti selles murtud, Jumalast lahutatud seisundis tähendaks jääda igaveseks kannatusse lõksu. Surma lubamine avas tee tagasi, ja sealsamas tõotas Jumal Päästja. Armastus oli kohtu sees juba olemas."
+  },
+  {
+   "w": "«Aabraham valiti, sest tal oli suur usk — kas pole kõik Piibli tegelased kõlbelised kangelased?»",
+   "t": "Aabraham valetas ja kahtles; Jaakob oli petis. Jumal ei kutsunud «kõlblikke» inimesi, vaid vigaseid, armust. Põhjus ei olnud nende headus, vaid Jumala ustav armastus."
+  },
+  {
+   "w": "«Kas Seadus (käsud) ei ole eksam, mille pead pääsemiseks sooritama?»",
+   "t": "Jumal päästis nad <b>enne</b> Seaduse andmist. Isegi kümme käsku algavad pääste kuulutusega: «Mina olen Issand, sinu Jumal, kes tõi sind välja Egiptusest.» Seadus ei ole «pea seda, et pääseda», vaid armastav juhis selle kohta, kuidas juba päästetud rahvas peaks elama. Arm tuleb alati esimesena; kuulekus on vastus."
+  },
+  {
+   "w": "«Kaanani vallutus oli halastamatu tapatalgud — niisiis on Vana Testamendi Jumal tõesti julm.»",
+   "t": "See on raske teema, mida ei saa ühe lausega lahendada. Kuid Piibel ei esita seda mitte juhusliku vägivallana, vaid kohtuna pärast sajandeid kestnud kannatlikkust äärmusliku kurjuse vastu (sealhulgas lasteohverdamine). Jumal on aeglane isegi kohut mõistma ja võttis rõõmuga vastu need, kes tema poole pöördusid — isegi võõramaalased nagu Raahab ja Rutt."
+  },
+  {
+   "w": "«Taavet oli laitmatu kangelane — sellepärast nimetatigi teda «meheks Jumala südame järgi».»",
+   "t": "Taavet pani toime abielurikkumise ja koguni mõrva. «Mees Jumala südame järgi» ei tähenda laitmatut, vaid sellist, kes ei varjanud oma pattu — kes parandas põhjalikult meelt ja pöördus aina Jumala juurde tagasi. Jumala armastus ei heida ära isegi neid, kes rängalt langevad."
+  },
+  {
+   "w": "«Prohvetid on ennustajad, kes kuulutavad tulevikku / Vana Testamendi Jumal on üksnes viha.»",
+   "t": "Prohveti süda ei ole «tuleviku ennustamine», vaid Jumala valus anumine: «Palun tule tagasi.» Isegi kohtuhoiatused ei taotle hävitamist, vaid inimeste tagasipööramist ja päästmist — «mul pole hea meel õela surmast»."
+  },
+  {
+   "w": "«Pagulus tõestab, et Jumal hülgas Iisraeli täielikult.»",
+   "t": "Pagulus ei olnud hülgamine, vaid distsipliin ja puhastamine armastatud lapse suhtes (Heebrealastele 12:6). Jumal ei lahkunud; ta oli Taanieliga keset pagulust ja tõotas: «Ma tean mõtteid, mis mul teie pärast on — rahu, mitte õnnetuse mõtteid, et anda teile tulevikku ja lootust.»"
+  },
+  null,
+  {
+   "w": "«Kui 400 aastat ei olnud sõna, siis oli Jumal lahkunud või puhkas.»",
+   "t": "Vaikus ei ole äraolek. Ta lihtsalt ei rääkinud, samal ajal liigutades kogu aeg riike, keeli ja teid, et valmistada lava päästeks. Kõige vaiksemal hetkel töötas Jumal kõige kõvemini, armastuses (Galaatlastele 4:4)."
+  },
+  {
+   "w": "«Jeesus oli vaid üks hea kõlblusõpetaja / rist oli traagiline kaotus.»",
+   "t": "Jeesus väitis end olevat Jumal ise, ja rist ei olnud õnnetus ega kaotus, vaid kavandatud armastus. Teda ei lohistatud sinna jõuga; ta andis oma elu ise (Johannese 10:18). «Ei ole suuremat armastust kui see, et keegi loovutab elu oma sõprade eest» (Johannese 15:13)."
+  },
+  {
+   "w": "«Kogudus on täiuslike inimeste klubi või lihtsalt hoone.»",
+   "t": "Kogudus ei ole «valmissaanud pühakute» kogukond, vaid <b>andeks saanud patuste</b> oma. Isegi apostel Paulus nimetas end «patustest suurimaks» (1. Timoteosele 1:15). Algkogudus vaidles ja komistas samuti (Apostlite teod 6:1; 1. Korintlastele 1:11). See ei ole koht uhkustamiseks, vaid inimesed, kes annavad edasi saadud armastust (Johannese 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Pärispatt — ükski ei ole õige",
+   "body": "Probleem ei ole «mõned halvad teod», vaid südame juur. Aadamast peale sünnib igaüks patu alla ega suuda ise Jumalani jõuda.",
+   "vref": "Roomlastele 3:10-12, 23",
+   "vtext": "Ei ole ühtki õiget, ei ühtainustki… kõik on pattu teinud ja on Jumala aust ilma."
+  },
+  {
+   "title": "Seadus ei suuda mind päästa",
+   "body": "Seadus ei ole redel, vaid peegel. Mida rohkem pingutad, seda enam näitab see, kui kaugele alla jääd. Selle eesmärk on viia meid Kristuse juurde.",
+   "vref": "Roomlastele 3:20 · Galaatlastele 3:24",
+   "vtext": "Seaduse kaudu saame me teadlikuks patust… Seadus on olnud meie eestkostja Kristuse tulekuni, et me saaksime õigeks usust."
+  },
+  {
+   "title": "Armust — kingitus, mitte pingutus",
+   "body": "Pääste ei ole palk teenete eest, mille oled ära teeninud, vaid tasuta kingitus neile, kes seda ei vääri. Niisiis ei saa keegi kiidelda.",
+   "vref": "Efeslastele 2:8-9",
+   "vtext": "Teie olete armu läbi päästetud usu kaudu… mitte tegudest, et ükski ei saaks kiidelda."
+  },
+  {
+   "title": "Õigeks mõistetud usu läbi",
+   "body": "Mitte Seaduse pidamise, vaid usu läbi Jeesusesse Kristusesse mõistetakse sind õigeks — riietatud mitte omaenda õigusesse, vaid tema omasse.",
+   "vref": "Roomlastele 5:1 · Galaatlastele 2:16",
+   "vtext": "Kuna meid on õigeks mõistetud usu alusel, siis on meil rahu Jumalaga… inimene ei saa õigeks Seaduse tegude kaudu, vaid usu läbi Jeesusesse Kristusesse."
+  },
+  {
+   "title": "Piibel osutab Jeesusele",
+   "body": "Piibel ei ole suurmeeste raamat ega eneseabi. Esimesest Moosese raamatust Ilmutuseni tunnistab iga lehekülg ühest isikust — Jeesusest Kristusest.",
+   "vref": "Johannese 5:39 · Luuka 24:27",
+   "vtext": "Seesama Pühakiri tunnistab minust!… alustades Moosesest ja kõikidest prohvetitest, seletas Jeesus neile, mida Pühakiri tema kohta ütles."
+  },
+  {
+   "title": "Jumala riik — Jeesuse keskne sõnum",
+   "body": "Teema, mida Jeesus enim õpetas. Jumala valitsus Kuningana murdis siia maailma Jeesusega ja viiakse lõpule, kui ta tuleb tagasi. Oma risti ja ülestõusmise läbi on Jeesus tõeline Kuningas, kes võitis patu, surma ja Saatana.",
+   "vref": "Markuse 1:15",
+   "vtext": "Aeg on käes ja Jumala riik on lähedal, parandage meelt ja uskuge evangeeliumisse!"
+  },
+  {
+   "title": "Evangeelium — tema lõpetas kõik",
+   "body": "Patu hinna, mida ma iial ei suutnud maksta, maksis Jeesus minu asemel ristil, ja üles tõustes võitis ta surma. Ma ei tugine «tee seda» peale, vaid «see on lõpetatud» peale.",
+   "vref": "Johannese 19:30 · Roomlastele 5:8",
+   "vtext": "See on lõpetatud!… Jumal näitab oma armastust meie vastu sellega, et Kristus suri meie eest, kui me olime alles patused."
+  }
+ ],
+ "books": {
+  "Matteuse": "MAT",
+  "Markuse": "MRK",
+  "Luuka": "LUK",
+  "Johannese": "JHN",
+  "Apostlite teod": "ACT",
+  "Roomlastele": "ROM",
+  "1. Korintlastele": "1CO",
+  "2. Korintlastele": "2CO",
+  "Galaatlastele": "GAL",
+  "Efeslastele": "EPH",
+  "Filiplastele": "PHP",
+  "Koloslastele": "COL",
+  "1. Tessalooniklastele": "1TH",
+  "2. Tessalooniklastele": "2TH",
+  "1. Timoteosele": "1TI",
+  "2. Timoteosele": "2TI",
+  "Tiitusele": "TIT",
+  "Fileemonile": "PHM",
+  "Heebrealastele": "HEB",
+  "Jaakobuse": "JAS",
+  "1. Peetruse": "1PE",
+  "2. Peetruse": "2PE",
+  "1. Johannese": "1JN",
+  "2. Johannese": "2JN",
+  "3. Johannese": "3JN",
+  "Juuda": "JUD",
+  "Ilmutuse": "REV"
+ },
+ "yv": 3257,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

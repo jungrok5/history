@@ -18,7 +18,16 @@
 |------|------|------|------|-----------|
 | `knc` | Kanuri 카누리 | DEFERRED | 산문이 하우사(Hausa) 혼입 + 기도문/FAQ 문법 붕괴 — 블라인드 역번역 검증 실패 | 사람 원어민 번역가 |
 | `guq` | Aché 아체 | DEFERRED | 초저자원 — AI 산문 신뢰 불가, 한 번도 배포 안 됨 | 사람 원어민 번역가 |
-| `bm` | Bambara 밤바라 | HELD | YouVersion 언어페이지 없음 · eBible 미발견(재-probe 필요) | verbatim 판본 소스 확인 |
+| `bm` | Bambara 밤바라 | HELD | YouVersion·eBible 모두 미발견(이름 기반 재확인 완료) | fetchable 판본 소스 확인 |
+| `lij` | Ligurian 리구리아 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
+| `lim` | Limburgish 림뷔르흐 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
+| `lmo` | Lombard 롬바르드 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
+| `ltz` | Luxembourgish 룩셈부르크 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
+| `srd` | Sardinian 사르데냐 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
+| `szl` | Silesian 실레시아 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
+| `vec` | Venetian 베네토 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
+| `kea` | Kabuverdianu 카보베르데 크리올 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
+| `tzm` | Central Atlas Tamazight 타마지트 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
 | `acm` | Mesopotamian Arabic | COVERED-BY-PARENT | MSA(`ar`)로 커버 — 별도 성경 판본 사실상 없음 | — |
 | `acq` | Taʿizzi-Adeni Arabic | COVERED-BY-PARENT | 〃 | — |
 | `aeb` | Tunisian Arabic | COVERED-BY-PARENT | 〃 | — |
@@ -26,7 +35,16 @@
 | `apc` | North Levantine Arabic | COVERED-BY-PARENT | 〃 | — |
 | `ars` | Najdi Arabic | COVERED-BY-PARENT | 〃 | — |
 
-## 참고 (보류 아님 — 추적용)
-- **et (Estonian)**: full(구약포함) 완역이 YV·eBible 어디에도 없음 → **partial 모드로 추가**(ECV/YV 3257, 신약 27권 완역). 보류 아님.
-- FLORES-200 미커버 중 위에 없는 코드(ast·fur·lij·lim·lmo·ltg·ltz·oci·scn·srd·szl·vec·dik·dzo·kbp·kea·prs·san·taq·tzm·ydd 등)는
-  **아직 소스 probe 전**. probe 후 "추가 가능"이면 추가하고, "소스 없음/저자원"이면 위 표로 내려 사유와 함께 기록한다.
+## 추가 진행 대상 (소스 확인됨 — 보류 아님)
+> 소스 probe 결과 fetchable 판본이 있어 **추가 예정**. 각 언어 gate 0에서 full/partial 확정 후 드래프트→검증→배포.
+- **et (Estonian)** — partial(ECV/YV 3257, 신약 27권). full 완역 없음. **현재 진행 중.**
+- **prs (Dari)** — YV #341 (페르시아어 다리, full 가능성 높음).
+- **san (Sanskrit)** — YV #1875(v23) + eBible NT 다수.
+- **ast (Asturian)** YV · **oci (Occitan)** YV(v2) · **scn (Sicilian)** YV · **fur (Friulian)** YV · **ltg (Latgalian)** YV
+  · **dzo (Dzongkha)** YV · **kbp (Kabiyè)** YV — 각각 full/partial gate 0에서 확정.
+- **dik (Dinka)** — YV #242 + eBible dikNT(신약) → 최소 partial.
+- **taq (Tamasheq)** — eBible 신약(단 !redistributable — YV #1144 확인 필요).
+- **ydd (Yiddish)** — eBible 신약 + YV(라틴문자 ydd_latn). 히브리문자 판본 여부 확인 필요.
+
+> probe는 **YouVersion·eBible(우리가 fetch 가능한 소스)** 기준. HELD 언어도 다른 곳엔 성경이 있을 수 있으나,
+> verbatim으로 가져올 수 없으면 우리 규칙상 추가 불가다.
