@@ -1,0 +1,420 @@
+{
+ "menuName": "Euskara",
+ "htmlLang": "eu",
+ "dir": "ltr",
+ "brand": "Biblia begi-kolpe batez",
+ "docTitle": "Biblia begi-kolpe batez · Sorreratik Elizara",
+ "share": {
+  "title": "Biblia begi-kolpe batez",
+  "text": "Korritze bakar batean, ezagutu Bibliaren istorio handia eta zergatik etorri zen Jesus."
+ },
+ "ui": {
+  "people": "Pertsonaiak",
+  "events": "Gertaera nagusiak",
+  "christLabel": "Jesusengana seinalatzen du",
+  "loveLabel": "Etsitzen ez duen maitasuna",
+  "mythWrong": "Ohiko gaizki-ulertua",
+  "mythRight": "Egia",
+  "more": "Irakurri gehiago",
+  "version": "(EAB)"
+ },
+ "labels": {
+  "start": "Hasiera",
+  "thread": "Haria",
+  "gospel": "Berri Ona",
+  "about": "Honi buruz"
+ },
+ "s": {
+  "ui.share": "↗ Partekatu",
+  "ui.toast": "Esteka kopiatua 📋",
+  "ui.footer": "Biblia begi-kolpe batez · Bibliako aipuak EABtik",
+  "hero.kicker": "SORRERATIK ELIZARA",
+  "hero.title": "Biblia,<br><span class=\"em\">korritze bakar batean</span>",
+  "hero.sub": "Korritze bakar batean, ezagutu Bibliaren istorio handia eta zergatik etorri zen Jesus.",
+  "hero.cue": "Korritu behera<span>↓</span>",
+  "thread.eyebrow": "DENA LOTZEN DUEN ESALDI BAT",
+  "thread.h2": "Azken batean, Biblia istorio bakar bat da",
+  "thread.flow": "<b>Promesa</b><span class=\"arw\">→</span><b>Itxaronaldia</b><span class=\"arw\">→</span><b>Betetzea</b>",
+  "thread.note": "Jainkoak <b>agintzen</b> du (itun), jendeak luzaro <b>itxaroten</b> du, eta azkenean dena <b>betetzen</b> eta osatzen da Jesusengan. Jarraitu ondoko 13 eszenei hari horri jarraituz — sakatu <b>«Irakurri gehiago»</b> txartel bakoitzean istorio sakonagorako.",
+  "gospel.eyebrow": "ISTORIO HONEK «NIRETZAT» DUEN ESANAHIA",
+  "gospel.h2": "Bibliaren benetako bihotza",
+  "gospel.lead": "Biblia <b>ez da «pertsona ona izateari» buruzko eskuliburu bat.</b>",
+  "gospel.sublead": "Jainkoak, <b>graziaz bakarrik</b>, beren burua salbatu ezin zuten bekatariak nola salbatu zituen kontatzen duen istorioa da. Bere erdian Jesu Kristo dago.",
+  "gospel.mirror": "<h3>Israelen amaigabeko zikloa, egiaz, «niri» buruzko irudia da</h3><div class=\"cycle\"><b>Idolatria</b><span class=\"a\">→</span><b>Sufrimendua</b><span class=\"a\">→</span><b>Oihua</b><span class=\"a\">→</span><b>Jainkoak salbatzen du</b><span class=\"a\">→</span><b>Berriz idolatria…</b></div><p>Epaileetatik erbesteraino, Israelek amaierarik gabe errepikatzen du ziklo hau. Bibliak ez zuen hori jaso «hura bezain dohakabeak» zirela esanez burla egin genezan.</p><p><b>Ispilu</b> bat da. Kontua ez da «Israelek hala egin zuen», baizik eta <b>«nik gauza bera egiten dut»</b> (1 Korintoarrei 10:11).</p><p><b>Idolo</b> bat ez da zurezko irudi bat soilik. <b>Jainkoa baino gehiago maite edo fidatzen dugun edozer da</b> —dirua, arrakasta, onarpena, jendea, neure burua bera ere. Eta Jainkoa <b>nahi dudana lortzeko tresna</b> gisa erabiltzea ere idolatria da.</p><p class=\"punch\">Azken batean, idolorik sakonena «neure burua, Jainkoaren tronuan eseria» da.</p>",
+  "gospel.coreIntro": "Orduan, nola salbatzen du Jainkoak halako bekataria? Hau da Bibliak aldarrikatzen duen Berri Onaren bihotza.",
+  "gospel.crux": "<p class=\"crux-lead\">Biblia osoa toki bakar batera seinalatzen du.</p><p>Jendeak ezin zuen bekatuaren zikloa berez hautsi, eta inor ez zen zuzena. Beraz, norbaitek <b>ordaina haien ordez ordaindu</b> behar zuen.</p><p>Jesus ez zen etorri irakaspen on batzuk ematera soilik. Ni salbatzeko beste biderik ez zegoenez, <b>etortzea besterik ez zuen izan.</b></p><p class=\"crux-punch\">Gurutze hartan egon behar zuena <b>ni</b> nintzen.<br>Jesusek <b>nire bekatua</b> eraman zuen eta hantxe iltzatu zuten nire ordez.</p><div class=\"crux-verse\">«Baina gure errebeldiengatik zulatu zuten, gure erruengatik birrindu … haren zauriek sendatu gintuzten.» — Isaias 53:5</div>",
+  "faq.h": "Oraindik zerbaitekin borrokan?",
+  "faq.q1": "<span class=\"arr\">▸</span> Orduan hiltzaile batek sinetsi besterik ez du behar zerura joateko, eta bizitza osoan ondo bizi izan den baina sinesten ez duen batek infernura joaten da?",
+  "faq.a1": "<p>Galdera bidezkoa da. Baina barruan bi gaizki-ulertu ezkutatzen ditu.</p><p><b>① Bibliak ez ditu pertsonak «on eta gaizto» banatzen.</b> Neurria ez da «aldamenekoa baino hobea», baizik eta «Jainkoaren santutasun perfektua». Haren aurrean, inor ez da «behar bezain ona» (Erromatarrei 3:23). Beraz, hau ez da «pertsona on bat vs. hiltzaile bat», baizik eta heriotzeko gaixotasun bera duten bi pertsona bezalakoa da —batek sendabidea hartzen du, besteak baztertu egiten du, esanez «ni tipo hori baino osasuntsuagoa naiz».</p><p><b>② Gauza bakar batek banatzen ditu zerua eta infernua.</b> Ez jokabidearen puntuazioak, baizik eta <b>Jesu Kristo Jaun bezala onartu duzun eta zure bekatuaren arazoa konponduta dagoen</b>. Bere bekatua Kristoren odolak konpondu duena zerura joaten da; inoiz onartzen ez duena, bere bekatuarekin geratzen dena, ez. Ezein egintza onek ezin du bekatuaren arazoa berez konpondu.</p><p>Beraz, zerua eta infernua ez dira «jokabide onaren saria», baizik eta <b>Kristorekiko harremana</b>ren auzia. Eta «sinestea» ez da adimenezko onarpena, baizik eta zure bizitza gobernatzen duenaren aldaketa —benetan onartzen duena ez da harro bihurtzen, sakonkiago damutzen baizik. Egiazki, autozuzentasuna («pertsona ona naiz») da hausten zailena den idoloa, Kristoren beharrik ez dugula pentsarazten diguna (Lukas 18:9-14).</p><p>Bibliak argi dio: <b>«Harengan sinesten duena ez da kondenatua; sinesten ez duena, ordea, kondenatua dago jadanik»</b> (Joan 3:18). Epaiketa ez da «zure bizitza hil ondoren kalifikatzea», baizik eta dagoeneko erabakita dago <b>Kristo onartu duzun ala ez</b>.</p><p class=\"faq-v\">Erromatarrei 3:23 · Joan 3:18 · Efesoarrei 2:8-9 · Lukas 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Ezin al naiz besterik gabe ondo bizi, Jesusengan sinetsi gabe?",
+  "faq.a2": "<p>Hori da pentsamendurik ohikoena, baina benetako arazoa zein den gaizki ulertzen du. Hona irudi bat.</p><p><b>Demagun pirata-itsasontzi batean zaudela.</b> Bizkarra zenbat eta garbiago eduki, tripulazioarekin zenbat eta jatorrago izan, zure bizitza zenbat eta eredugarriago izan ere, <b>pirata</b> zara oraindik, itsasontziak berarekin daramazulako bere norakora (epaiketaren portua). Arazoa ez da «zure egintzen puntuazioa», baizik eta <b>«zein itsasontziri zaren» (zure nortasuna)</b>.</p><p>Horregatik Berri Onak ez du esaten «saiatu gehiago ona izaten», baizik eta <b>«aldatu itsasontzia».</b> Jaitsi bekatuaren itsasontzitik eta pasatu Jesusengana: <b>Jainkoaren seme-alaba</b> izatearen nortasun berrira. Hau ez da ahaleginez zure puntuazioa igotzea, baizik eta eskua luzatzen dizun Hari fidatzea eta haren itsasontzira igarotzea.</p><p>Izan ere, Bibliak salbamena horrela deskribatzen du, lekualdaketa hau bezala: <b>«Berak atera gaitu ilunpearen menpetik eta bere Seme maitearen erreinura aldatu»</b> (Kolosarrei 1:13).</p><p>Ez ulertu gaizki: <b>honek ez du esan nahi ondo bizitzeak baliorik ez duenik.</b> Baina ontasuna ez da salbamenaren «baldintza», bere <b>fruitua</b> baizik. Itsasontziz aldatu denak orain ondo bizi da, ez beldurrez, baizik eta seme-alaba baten maitasunez.</p><p class=\"faq-v\">Kolosarrei 1:13 · Joan 1:12 · Joan 3:3 · Efesoarrei 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Erasotzaileak «Jainkoak barkatu dit» esanez bakean badago, biktimak sufritzen jarraitzen duen bitartean —ez al da grazia hori merkeegia?",
+  "faq.a3": "<p>Galdera bidezkoa da, eta mina benetakoa. Baina halako baieztapen bat ez da «Bibliaren barkamena», bere <b>desitxuratzea</b> baizik.</p><p><b>① Jainkoaren barkamena ez da inoiz merkea.</b> Bekatua ez da estaltzen «gertatu ez balitz bezala»; Jainkoak berak ordaindu zuen bere ordaina bere Semearen biziaz. Gurutzea ez da bekatua arinki hartzen denaren froga, baizik eta zein astuna den —munduko barkamenik garestiena.</p><p><b>② Egiazko damuak fruitua ematen du.</b> Erasotzailea biktimaren aurrean axolagabe agertzen bada —«Jainkoak barkatu dit, bakean nago»—, hori ez da damua, bere imitazioa baizik (Mateo 3:8). Eta pertsona baten eta Jainkoaren arteko barkamenak ez du biktimaren zauria ezabatzen, ezta biktima barkatzera behartzen ere.</p><p><b>③ Bekatua ez da inoiz besterik gabe «alde batera uzten».</b> Bekatu oro bi tokitako batean ordaintzen da: <b>edo Kristok eramaten du gurutzean</b> (harengan sinesten dutenentzat ez dago kondenarik gehiago, Erromatarrei 8:1), <b>edo azkenean baztertzen duenak berak eramaten du.</b> Beraz, ez dago «barkamen merkerik». Erasotzaileak mundu honetako justiziaren aurrean ere erantzun behar du (Erromatarrei 13:1-4).</p><p><b>④ Biktimaren malkoak ez dira inoiz txikiak Jainkoarentzat.</b> Jainkoak negar egiten du negar egiten dutenekin, malko bakoitza gogoratzen du, eta azkenean berak xukatuko ditu (Apokalipsia 21:4). Beraz, biktimak ez du mendekuaren zama bakarrik eraman behar, Jainko zuzenari utzi diezaioke baizik (Erromatarrei 12:19 — «Neuri dagokit mendekua, neuk emango diot bakoitzari berak merezia. Hau dio Jaunak»).</p><p class=\"faq-v\">Mateo 3:8 · Erromatarrei 8:1 · Erromatarrei 13:1-4 · Apokalipsia 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Benetan al da Biblia istorio egiazkoa? Antzinako mito edo eleberri baten itxura du.",
+  "faq.a4": "<p>Galdera bidezkoa da —eta abiapuntu ona. Zalantza ez da sinesmenaren kontrakoa, gauzak zintzotasunez egiaztatzeko nahia baizik. Biblia ez da «gogoak ematen badizu sinesteko» mito lauso bat, baizik eta <b>toki, data eta pertsona errealen</b> gainean idatzitako erregistro bat. Adibide batzuk besterik ez.</p><p><b>① Ez da liburu bakar bat, «liburutegi» bat baizik —eta, hala ere, gai bakar batean isurtzen da.</b> Biblia <b>66 liburuk</b> osatzen dute, <b>1.500 urtetan zehar 40 egile inguruk</b> idatziak —erregeak, artzainak, arrantzaleak, zergabiltzaile bat, mediku bat, maila eta garai desberdinetako jendeak, bereiz eta elkarren berririk gabe idatziz, hiru hizkuntzatan (hebreera, arameera, greziera). Eta, hala ere, dena gai bakar batera biltzen da, nahasterik gabe: <b>salbamena Kristoren bidez</b>. Hori zailtasunez azaltzen den koherentzia da ausaz edo giza koordinazioz.</p><p><b>② Lurretik berresten jarraitzen da (arkeologia).</b> Garai batean asmatutzat baztertu ziren gauza asko, «Biblian bakarrik aurkitutakoak», geroago indusketek berretsi zituzten. <b>Daviden dinastia</b>, «Daviden etxea» idatzia zuen harri batengatik (Tel Daneko estela); <b>Pontzio Pilato</b>, Jesus exekutatu zuen gobernadorea, bere izena daraman idazkun batengatik; Ezekias erregearen ur-tunela (2 Erregeak 20:20), tunelagatik eta haren idazkunagatik. <b>Hititak</b> ere, garai batean «herri irudimenezkoa» deituak, inperio handi bat bezala azaldu ziren hondakinen artean.</p><p><b>③ Antzinako dokumenturik hobekien gordea da (eskuizkribuak).</b> Gordetako eskuizkribuen kopuruan, elkarren arteko adostasunean eta idazketaren eta kopiaren arteko denbora-tartean, Biblia <b>aparekorik gabea da antzinako dokumentuen artean</b>. <b>Itsaso Hileko Liburukietan</b> (1947an aurkituak) zegoen kristautasunaren aurreko Isaiasen liburukiak ia hizki-hizki bat zetorren mila urte geroagoko testu estandarrarekin —Biblia mendeetan zehar zehaztasunez gorde izanaren froga.</p><p><b>④ Aurrez idatzitakoa hala-halaxe gertatu zen (profezia).</b> Itun Zaharrak, Jesus baino mendeak lehenago jasoak, zehazki seinalatzen ditu haren jaiotza Belenen (Mikeas 5:2), zerbitzari sufritzailea (Isaias 53:5) eta gurutzearen inguruabarrak (Salmoak 22). Kasualitatetzat baztertzeko zehatzegia.</p><p><b>⑤ Bibliatik kanpoko historialariek ere jaso zuten.</b> <b>Tazito</b> historialari erromatarrak eta <b>Josefo</b> historialari juduak —ez bata ez bestea ez ziren kristau— Jesus, haren exekuzioa eta lehen Eliza aipatzen dituzte. Batez ere, beldurrez sakabanatu ziren ikasleek <b>beren bizia jokatu zuten</b> piztueraren testigantza emanez —inor ez da hiltzen gezurra dela dakienagatik.</p><p>Zintzoak izateko, hala ere, oinarri hauek erakusten dute Biblia sinestea <b>ez dela arrazoigabea, arrazoizkoa baizik</b>; ez dira formula matematiko batek bezala behartzen duen «froga» bat. Beraz, kristauaren ziurtasuna ez dator frogetatik bakarrik, baizik eta <b>Espiritu Santuak bihotzari Hitza irakurtzen den heinean ematen dion uste sendotik</b>. Bibliak dio: <b>«Beraz fedea ençutetic da: eta ençutea Iaincoaren hitzaz»</b> (Erromatarrei 10:17). Beraz, fikzioaren itxura zenbat eta handiagoa izan, <b>zeuk irakurtzea</b> da hasiera. Frogak atea irekitzen du, eta ziurtasuna irakurtzen duenaren barruan hazten da.</p><p class=\"faq-v\">2 Erregeak 20:20 · Isaias 53:5 · Mikeas 5:2 · Erromatarrei 10:17</p>",
+  "respond.h3": "Eta orduan —zer ni?",
+  "respond.sub": "Maitasun hau ez da informazioa, <b>gonbidapena</b> baizik. Zure ordez iltzatu zuten maitasun horrek zure bihotza ukitu badu, egin otoitz hau astiro, lerroz lerro.",
+  "respond.prayer": "<p>Jainko,</p><p>aitortzen dut neure burua salbatu ezin duen bekataria naizela.</p><p>Sinesten dut Jesus gurutzean nire alde hil zela eta berpiztu zela.</p><p>Barkatu nire bekatu guztiak, eta gaurtik aurrera izan zaitez nire bizitzaren Jauna.</p><p>Onar nazazu zure seme-alabatzat, eta utzidazu bizitza berri bat bizitzen.</p><p class=\"amen\">Jesusen izenean egiten dut otoitz. Amen.</p>",
+  "respond.after": "Otoitz hau bihotzez egin baduzu, Bibliak dio <b>Jainkoaren seme-alaba</b> bihurtu zarela. Jada ez zaude bakarrik —bilatu inguruko eliza bat eta ibili besteekin batera sinesmenaren bidean.",
+  "respond.read": "Irakurri Biblia zeuk — hasi Joanengandik",
+  "respond.verse": "«Onartu zuten guztiei, ordea, berarengan sinesten dutenei… Jainkoaren seme-alaba izateko ahalmena eman zien.» — Joan 1:12 · Erromatarrei 10:9-10",
+  "closing.main": "Jainko bakar bat,<br>istorio bakar baten bidez,<br>etsitzen ez duen <em>maitasun</em><br>batez gure bila dator.",
+  "closing.verse": "«Ez herio eta ez bizi … ez inolako beste izakik, ez gaituela aldenduko Jainkoak Jesu Kristo gure Jaunarengan agertu digun maitasunetik.» — Erromatarrei 8:38-39",
+  "closing.small": "Hari honen gainean, Legeak, liburu poetikoek, profetek eta gutunek «haragia» eransten dute.<br>Hemendik aurrera, edozein liburu irekita ere, «istorioaren zein puntutan zauden» jakingo duzu.",
+  "closing.share": "↗ Partekatu istorio hau",
+  "about.line": "Koreako protestantismoaren gehiengoak partekatzen duen ikuspegi <b>historiko-erredentore, ebanjeliko eta erreformatuan</b> oinarritua.",
+  "about.contact": "Galderak · iruzkinak — <a id=\"contact\" class=\"mail\">Idatzi mezua</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ITUN ZAHARRA · HASIERA",
+   "title": "Sorrera",
+   "date": "Hasieran",
+   "one": "Jainkoak «oso ona» zen mundu bat egin zuen.",
+   "people": "Jainkoa; Adan eta Eva",
+   "events": "Sorreraren sei egunak, gizakia Jainkoaren irudira eginik, larunbateko atsedena",
+   "q": "Hasieran, Jainkoak zeru-lurrak egin zituen.",
+   "cite": "Hasiera 1:1",
+   "christ": "Mundua «Hitzaren» bidez egin zen. Joanen Ebanjelioak aldarrikatzen du Hitz hori Jesus bera dela (Joan 1:1-3).",
+   "detail": "<p>Biblia ez da argudio filosofiko batez hasten, aitorpen batez baizik: <b>«Hasieran, Jainkoak…»</b>. Mundua ez da kasualitatea, Jainko pertsonal baten lana baizik.</p><ul><li><b>Jainkoaren irudia</b> · izaki guztietan, gizakia bakarrik egin da Jainkoaren antzeko —hura ezagutzeko eta mundua zaintzeko.</li><li><b>Atsedena</b> · zazpigarren eguneko atsedenak dena osatua eta bakean (shalom) dagoela erakusten du: «ona zen».</li><li><b>Edena</b> · hautsi aurreko mundua, non Jainkoa eta gizakia elkarrekin ibiltzen diren.</li></ul>",
+   "next": "Baina osotasun hau berehala hautsiko da…"
+  },
+  {
+   "tag": "ITUN ZAHARRA · ARAZOA HASTEN DA",
+   "title": "Erorketa",
+   "date": "Hasieran",
+   "one": "Bekatua sartu zen, eta gizakiaren eta Jainkoaren arteko lokarria eten zen.",
+   "people": "Adan eta Eva; sugea (Satan)",
+   "events": "Debekatutako fruitua jatea, Edenetik kanporatzea, heriotzaren eta nekearen etorrera",
+   "q": "Elkarren etsai egingo zaituztet hi eta emakumea … honek burua zapalduko dik.",
+   "cite": "Hasiera 3:15",
+   "christ": "Berri Onaren lehen promesa, Erorketaren ondoren-ondoren emana: «emakumearen ondorengoak» sugearen burua zapalduko du —eta hori Jesus da (Hasiera 3:15; Erromatarrei 16:20; Galaziarrei 4:4).",
+   "detail": "<p>«Jainkoa bezalakoa izan nahi» izatearen desobedientziaren bidez, bekatua munduan sartzen da. Emaitza ez da arau bat haustea soilik, <b>harreman baten haustea</b> baizik.</p><ul><li><b>Hautsitako lokarriak</b> · Jainkoarekin (ezkutatzea), elkarrekin (errua botatzea) eta naturarekin (sasiak eta nekea).</li><li><b>Heriotza</b> · «hilko zara nahitaez» abisua egia bihurtzen da.</li><li><b>Hasiera 3:15</b> · baina epaiketaren erdian, salbamen-promesa bat dator lehenik. Jakintsuek <b>«protoevangelioa» (lehen berri ona)</b> deitzen diote.</li></ul>",
+   "next": "Orain Jainkoak gizon bakar bati deitzen dio salbamena hasteko…"
+  },
+  {
+   "tag": "ITUN ZAHARRA · PROMESA",
+   "title": "Patriarkak",
+   "date": "K.a. 2000 inguruan",
+   "one": "Jainkoak Abrahami agintzen dio: «Bedeinkazio-iturri izango zara».",
+   "people": "Abraham · Isaak · Jakob · Jose",
+   "events": "Abrahamekiko itun, Isaaken eskaintza, Jakoben hamabi semeak, Jose Egipton boterera igotzen",
+   "q": "Nazio handi eginen zaitut … Zure bitartez bedeinkatuko ditut lurreko herri guztiak.",
+   "cite": "Hasiera 12:2-3",
+   "christ": "«Herri guztiak bedeinkatuak izango dira» promesa Jesusengan betetzen da, Abrahamen ondorengoa (Galaziarrei 3:16).",
+   "detail": "<p>Jainkoak gizadi osoaren arazoa ebazten hasten da gizon bakar bati, <b>Abrahami</b>, deituz. Bere bihotza <b>ituna (promesa)</b> da —nazio handi bat, lurralde bat, eta «bedeinkazioa herri guztientzat».</p><ul><li><b>Sinesmena</b> · Abrahamek ikusten ez zen promesa sinetsi zuen, eta zuzentasuntzat hartu zitzaion (Hasiera 15:6).</li><li><b>Isaak eta Jakob</b> · promesa hurrengo belaunaldira pasatzen da; Jakobek (Israel) hamabi leinuen aita da.</li><li><b>Jose</b> · anaiek saldua, baina boterera jasoa —«Jainkoak on bihurtu du» (Hasiera 50:20).</li></ul>",
+   "next": "Joseri jarraituz, familia Egiptora jaisten da —eta esklabo bihurtzen da…"
+  },
+  {
+   "tag": "ITUN ZAHARRA · ERREDENTZIOA",
+   "title": "Irteera eta basamortua",
+   "date": "K.a. 1446 inguruan",
+   "one": "Jainkoak herri esklabo bat salbatu zuen eta bere egin zuen.",
+   "people": "Moises, Aaron, faraoia",
+   "events": "Hamar izurriteak, Pazkoa, Itsaso Gorriaren igarotzea, Hamar Aginduak Sinain, tabernakulua, 40 urte basamortuan",
+   "q": "Neure herritzat hartuko zaituztet eta zeuen Jainko izango nauzue…",
+   "cite": "Irteera 6:7",
+   "christ": "Pazkoak —non bildots baten odolak heriotza aldendu zuen— Jesusengana seinalatzen du, «gure Pazko bildotsa», guregatik gurutziltzatua (1 Korintoarrei 5:7).",
+   "detail": "<p>Itun Zaharreko salbamen-ekintzarik handiena. Garai batean esklabo zen Israel Jainkoaren indarrez askatua da eta bere <b>herri</b> bezala moldatua.</p><ul><li><b>Pazkoa</b> · bildotsaren odolez markatutako etxea heriotzaren ondoan igarotzen da —geroko sakrifizio guztien eredua.</li><li><b>Itsaso Gorria</b> · salbamena bidea amaitzen den lekuan; «bestaldera igarotzea» hasiera berriaren ikur bihurtzen da.</li><li><b>Sinaiko ituna</b> · Aginduen bidez Jainkoaren herri bezala nola bizi ikasten dute.</li><li><b>Tabernakulua</b> · santutegi mugikorra non Jainkoa bere herriaren erdian bizi den —«Emanuelen» aurregustua.</li><li><b>40 urte</b> · desobedientziak belaunaldi bat basamortuan noraezean mantentzen du, baina Jainkoa gertu dago manarekin eta hodei- eta su-zutabeekin.</li></ul>",
+   "next": "Agindutako lurraren ertzean zutik, sartzeko prestatzen dira…"
+  },
+  {
+   "tag": "ITUN ZAHARRA · FINKATZEA",
+   "title": "Konkista eta epaileak",
+   "date": "K.a. 1400–1050 inguruan",
+   "one": "Lurraldea lortu zuten, baina erregerik gabe bakoitzak nahi zuena egiten zuen.",
+   "people": "Josue; epaileak, Gedeon eta Sanson bezalakoak; Rut",
+   "events": "Jerikoren erorketa, Kanaanen finkatzea, bekatu–epai–salbamen ziklo errepikatua",
+   "q": "Aldi haietan ez zen erregerik Israelen. Bakoitzak egoki iruditzen zitzaiona egin ohi zuen.",
+   "cite": "Epaileak 21:25",
+   "christ": "Ruten leinutik David dator, eta Daviden leinutik Jesus (Mateo 1). Kaosaren erdian ere, Mesiasen familia-zuhaitzak aurrera jarraitzen du.",
+   "detail": "<p>Josueren agindupean agindutako lurraldean sartzen dira, baina finkatu ondoren laster ahazten dute Jainkoa. Epaileak eredu beraren errepikapena da.</p><ul><li><b>Beherako zikloa</b> · bekatua → zapalkuntza → oihua → epaile batek salbatzen ditu → berriz bekatua. Gero eta okerrago.</li><li><b>Epaileak</b> · Gedeon, Sanson, Debora —behin-behineko askatzaileak, heroikoak baina akats sakonez beteak.</li><li><b>Rut</b> · leialtasunaren istorio argitsua aro ilun batean; emakume atzerritar bat Daviden (eta Jesusen) leinuan sartzen da.</li></ul>",
+   "next": "Herriak oihu egiten du: «Eman iezaguzu errege bat guri ere!»…"
+  },
+  {
+   "tag": "ITUN ZAHARRA · URRE-AROA",
+   "title": "Erreinu batua",
+   "date": "K.a. 1050–930 inguruan",
+   "one": "Jainkoak Davidi agintzen dio: «Zure errege-aulkiak betiko iraungo du».",
+   "people": "Saul · David · Salomon",
+   "events": "Lehen errege Saul, David eta Goliat, Davidekiko itun, Salomonek tenplua eraikitzen",
+   "q": "Zure etxeak eta zure erregetzak betierean iraungo dute zure ondoren, eta zeure errege-aulkia sendoa izanen duzu beti.",
+   "cite": "2 Samuel 7:16",
+   "christ": "«Betiko errege-aulkia» Jesusengan betetzen da, Daviden semea —horregatik deitzen zaio «Daviden Semea» (Lukas 1:32-33; Mateo 1:1).",
+   "detail": "<p>Israelen gailurra, hiru erregek gobernatua.</p><ul><li><b>Saul</b> · herriak eskatu zuen lehen erregea; hasiera ona desobedientziak hondatua.</li><li><b>David</b> · «Jainkoaren bihotzaren araberako gizona». Goliat garaitzen du eta Jerusalem hiriburu egiten du. Bekatu handia egiten du (Betsabe) baina bihotzez damutzen da (Salmoak 51).</li><li><b>Davidekiko ituna (2 Samuel 7)</b> · Jainkoak Daviden dinastia betiko finkatzea agintzen du —Mesias-itxaropenaren erro erabakigarria.</li><li><b>Salomon</b> · jakinduria eta aberastasunaren gailurrean <b>tenplua</b> eraikitzen du, baina bizitzaren amaieran idoloetara jotzen du.</li></ul>",
+   "next": "Salomonen ondoren, erreinua bitan zatitzen da…"
+  },
+  {
+   "tag": "ITUN ZAHARRA · GAINBEHERA",
+   "title": "Erreinu zatitua",
+   "date": "K.a. 930–586",
+   "one": "Hego (Juda) eta ipar (Israel) zatitzen da, eta pixkanaka hondatzen da.",
+   "people": "Bi erreinuetako erregeak; profetak, Elias, Isaias eta Jeremias bezalakoak",
+   "events": "Erreinua zatitzen da, idolatria zabaltzen da, profetek abisatzen dute",
+   "q": "Honela banandu zen Israel Daviden errege-etxetik gaurdaino.",
+   "cite": "1 Erregeak 12:19",
+   "christ": "Aro honetan profetek etortzear den Mesiasa gero eta argiago iragartzen dute (Isaias 9:6; Isaias 53).",
+   "detail": "<p>Salomonen semearen garaian nazioa zatitzen da: <b>Israelen iparraldeko erreinua</b> (10 leinu, Samaria hiriburu) eta <b>Judaren hegoaldeko erreinua</b> (2 leinu, Jerusalem hiriburu).</p><ul><li><b>Israel (iparra)</b> · errege guztiek idoloak zerbitzatzen dituzte; Asiriaren aurrean erortzen da K.a. 722an.</li><li><b>Juda (hegoa)</b> · Daviden leinuak aurrera jarraitzen du, Ezekias eta Josias bezalako errege on gutxi batzuekin, baina oro har gainbehera doa.</li><li><b>Profetak</b> · Elias, Amos, Isaias, Jeremiasek «itzul zaitezte!» oihukatzen dute. Mesias-profezia bere puntu aberatsenera iristen da hemen (Isaias 53ko «zerbitzari sufritzailea»).</li></ul>",
+   "next": "Azkenean iragarritako epaiketa dator —erbestera eramaten dituzte…"
+  },
+  {
+   "tag": "ITUN ZAHARRA · EPAIKETA",
+   "title": "Erbestea",
+   "date": "K.a. 722 / 586",
+   "one": "Nazioa erortzen da eta herria atzerriko lurretara eramaten dute.",
+   "people": "Daniel, Ezekiel, Nabukodonosor",
+   "events": "Israel Asiriaren aurrean erortzen da (722), Juda Babiloniaren aurrean erortzen da eta tenplua suntsitzen dute (586)",
+   "q": "Babiloniako ibai bazterretan eseriak geunden negarrez, oi Sion, zutaz oroituz.",
+   "cite": "Salmoak 137:1",
+   "christ": "Etsipenaren sakonenean Jeremiasek «itun berri» bat agintzen du (Jeremias 31:31) —Jesusek Azken Afarian zigilatzen duen itun bera.",
+   "detail": "<p>Abisuak egia bihurtzen dira. Tenplua erretzen da eta herria Babiloniara eramaten dute —lurraldea, erregea eta tenplua galduz: punturik baxuena.</p><ul><li><b>Bi erorketa</b> · Israel (Asiria, K.a. 722) eta Juda (Babilonia, K.a. 586).</li><li><b>Daniel</b> · sinesmenaren eredua jentilen gortean ere (lehoien zuloa); etortzear den «betiko erreinu» baten ikuspenak ikusten ditu.</li><li><b>Itxaropen-txinparta bat</b> · Ezekielen hezur lehorrak bizira itzultzeko ikuspena (Ezekiel 37) eta Jeremiasen «itun berria» etorkizun bat seinalatzen dute iluntasunean.</li></ul>",
+   "next": "Hirurogeita hamar urte geroago, Jainkoak bidea irekitzen du —etxera doaz…"
+  },
+  {
+   "tag": "ITUN ZAHARRA · ZAHARBERRITZEA",
+   "title": "Itzulera",
+   "date": "K.a. 538–430",
+   "one": "Itzuli eta tenplua eta harresiak berreraikitzen dituzte.",
+   "people": "Esdras, Nehemias, Ester, Zorobabel",
+   "events": "Ziroren dekretuz itzulera, tenplua berreraikitzea, Jerusalemgo harresiak konpontzea, Hitza berreskuratzea",
+   "q": "Jaunarengandiko pozak ematen baitizue indar!",
+   "cite": "Nehemias 8:10",
+   "christ": "Malakiasek, Itun Zaharreko azken liburuak, Mesiasaren bidea prestatuko duen mandatari bat iragarriz amaitzen du: «Hor bidaltzen dizuet neure mandataria» (Malakias 3:1).",
+   "detail": "<p>Pertsiako Ziro erregearen dekretuz (K.a. 538) hasten da itzulera. Hiru olatutan itzuli eta hondatua zegoena berreraikitzen dute.</p><ul><li><b>Zorobabel</b> · tenplua berreraikitzen du (K.a. 516an amaitua).</li><li><b>Esdras</b> · Hitza berriz irakasten du eta sinesmena pizten du.</li><li><b>Nehemias</b> · Jerusalemgo harresiak 52 egunetan berreraikitzen ditu.</li><li><b>Ester</b> · Pertsiako juduak suntsiketatik salbatzen ditu —«honelako ordu baterako».</li><li><b>Oraindik irrika</b> · tenplua zutik dago, baina ez dago David bezalako erregerik. Herriak Mesiasaren zain dago.</li></ul>",
+   "next": "Eta orduan… zerua isildu izan balitz bezala, 400 urte igarotzen dira."
+  },
+  {
+   "tag": "ITUNEN ARTEAN · AGERTOKIA PRESTATZEN",
+   "title": "Isiltasun-urteak",
+   "date": "K.a. 430–4 inguruan",
+   "one": "400 urte profeta-ahotsik gabe —baina agertokia isilean prestatzen ari zen.",
+   "people": "Alexandro Handia, Makabearrak, Erroma",
+   "events": "Pertsia → Grezia → Makabearren independentzia → Erromaren agintea",
+   "q": "Baina epea bete zenean, Jainkoak bere Semea bidali zuen, emakumeagandik jaioa.",
+   "cite": "Galaziarrei 4:4",
+   "christ": "«Agertokia prestatze» hau guztia Jainkoaren lana izan zen, Jesus «epea bete zenean» justu etor zedin.",
+   "detail": "<p>Malakiasetik Itun Berrira, 400 urte inguru igarotzen dira Eskritura berririk gabe. Baina historiaren atzean Jainkoa Berri Onaren bidea prestatzen ari zen.</p><ul><li><b>Inperioak aldatzen dira</b> · Pertsia → Grezia (Alexandro, K.a. 333) → tolomeotarrak eta seleuzidak → Makabearren matxinada (K.a. 167) → Erroma (K.a. 63).</li><li><b>Greziera</b> · Alexandroren konkistek greziera hizkuntza komun bihurtzen dute; Itun Zaharra grezierara itzultzen da (Septuaginta), Berri Ona azkar zabaltzeko bidea zabalduz.</li><li><b>Erromako bideak eta bakea</b> · ondo eraikitako bideak eta «Pax Romana» misiorako errepide bihurtzen dira.</li><li><b>Sinagogak eta alderdiak</b> · sinagogako irakaskuntza errotzen da; fariseuak eta saduzeoak sortzen dira; eta <b>Mesiasaren irrika</b> heltzen da.</li></ul>",
+   "next": "Orduan isiltasuna hausten da —azkenean, etortzen da."
+  },
+  {
+   "tag": "ITUN BERRIA · BETETZEA",
+   "title": "Jesus dator",
+   "date": "K.a. 4 – K.o. 30 inguruan",
+   "one": "Agindutako Mesiasa etorri, hil eta berpiztu zen.",
+   "people": "Jesus, hamabi ikasleak, Joan Bataiatzailea",
+   "events": "Haragiztatzea, bere ministerioa, irakaspena eta mirariak, heriotza gurutzean, piztuera hirugarren egunean",
+   "q": "Eta Hitza gizon egin zen eta gure artean jarri bizitzen … maitasun eta egiaz betea.",
+   "cite": "Joan 1:14",
+   "christ": "Emakumearen ondorengoa (2. eszena), Abrahamen bedeinkazioa (3.), Pazko bildotsa (4.), Daviden betiko erregea (6.), itun berria (8.) —denak gizon bakar batengan betetzen dira, Jesusengan: gure egiazko Profeta, Apaiza eta Errege.",
+   "detail": "<p>Isiltasuna hausten da; Agindutakoa iristen da. Lau ebanjelioek Jesusen bizitza, heriotza eta piztueraren testigantza ematen dute lau ikuspuntutatik.</p><ul><li><b>Haragiztatzea</b> · Jainkoa gizon egiten da (Emanuel, «Jainkoa gurekin»), Belengo apaltasunean.</li><li><b>Ministerioa</b> · Jainkoaren erreinua irakasten du, gaixoak sendatzen ditu, bekatariei deitzen die. «Ni ikusi nauenak Aita ikusi du.»</li><li><b>Gurutzea</b> · Erorketak (2. eszena) ekarritako bekatuaren eta heriotzaren ordaina ordaintzen du. Egiazko Pazko bildotsa.</li><li><b>Piztuera</b> · hirugarren egunean berpiztuz, bekatuaren, heriotzaren eta Satanen indarra hausten du —jada gurutzean «munduko aginte eta botereak indargabetu egin ditu … haien gain garaipena lortu ondoren» (Kolosarrei 2:15).</li></ul><p>Beraz, Jesus gure <b>egiazko Profeta</b> da (Jainkoarako bidea erakusten du), gure <b>egiazko Apaiza</b> (bere gorputzaz bekatua ordaintzen du) eta gure <b>egiazko Errege</b> (bekatua, heriotza eta Satan garaitzen ditu eta betiko erreinatzen du).</p>",
+   "next": "Jesus berpiztuak bere ikasleak mundura bidaltzen ditu…"
+  },
+  {
+   "tag": "ITUN BERRIA · HEDAPENA",
+   "title": "Eliza hasten da",
+   "date": "K.o. 30tik aurrera",
+   "one": "Espiritua dator, eta Berri Ona lurraren bazterreraino zabaltzen da.",
+   "people": "Pedro, Paulo, lehen Eliza",
+   "events": "Espiritua isuria Mendekoste egunean, Eliza jaiotzen da, Berri Ona Jerusalemdik Erromaraino jazarpenaren bidez zabaltzen da",
+   "q": "Baina zuen gain jaitsiko den Espiritu Santuaren indarra hartuko duzue, eta nire lekuko izango zarete Jerusalemen … eta lurraren bazterreraino.",
+   "cite": "Eginak 1:8",
+   "christ": "Istorio hau gaur ere aurrera doa. Biblia Jesus berriz etorriko delako eta gauza guztiak berri egingo dituelako promesarekin amaitzen da (Apokalipsia 21).",
+   "detail": "<p>Jesus zerura igo ondoren, agindutako Espiritua Mendekoste egunean dator eta Eliza jaiotzen da. Berri Ona leherketaz zabaltzen da.</p><ul><li><b>Mendekoste</b> · Espirituak ikasle beldurtiak lekuko ausart bihurtzen ditu.</li><li><b>Pedro</b> · Berri Ona juduei iragartzen die Jerusalemen.</li><li><b>Paulo</b> · jazarletik apostolu, elizak sortuz jentilen munduan zehar eta gutunak idatziz.</li><li><b>Lurraren bazterreraino</b> · Jerusalem → Judea → Samaria → Erroma. Abrahami egindako «herri guztien» promesa egia bihurtzen da.</li><li><b>Eta gu</b> · istorioa ez da amaitzen; aurrera doa Jesusen itzuleraren eta zeru eta lur berriaren bila.</li></ul>",
+   "next": "Baina istorioa ez da hemen amaitzen…"
+  },
+  {
+   "tag": "ITUN BERRIA · OSATZEA",
+   "title": "Zaharberritzea",
+   "date": "Etortzeko",
+   "one": "Jesus berriz dator eta gauza guztiak berri egiten ditu.",
+   "people": "Itzultzen den Jesus; herri guztiak",
+   "events": "Bigarren etorrera, azken epaiketa, bekatuaren·heriotzaren·malkoen amaiera, zeru eta lur berria",
+   "q": "Haien begietako malkoak xukatuko ditu … ez da gehiago heriotzarik izango, ez dolurik, ez negarrik, ez nekerik.",
+   "cite": "Apokalipsia 21:4",
+   "christ": "Lehen sorreraren Edena azkenean «Jerusalem berri» gisa zaharberritzen da. Jainkoak bere herriarekin betiko bizi da —Emanuelen osotasuna (Apokalipsia 21:3; Mateo 1:23).",
+   "detail": "<p>Biblia ez da Elizaren aroan amaitzen. Bere azken liburuak, Apokalipsiak, Jesus <b>berriz etortzen</b> erakusten du dena osatzeko.</p><ul><li><b>Bigarren etorrera</b> · agindutako Erregea aintzaz itzultzen da.</li><li><b>Azken garaipena</b> · Satan eta heriotza betiko garaituak dira, eta Kristok errege-erregeen Errege bezala erreinatzen du (1 Korintoarrei 15:25-26; Apokalipsia 20:10).</li><li><b>Epaiketa eta piztuera</b> · bidegabekeria oro zuzentzen da, eta hilak berpizten dira.</li><li><b>Zeru eta lur berria</b> · bekatua, heriotza, malkoak eta mina betiko desagertzen dira (Apokalipsia 21:4).</li><li><b>Edena zaharberritua</b> · hasieran baino hobea den «Jerusalem berri» batean, Jainkoa bere herriarekin betiko bizi da —Biblia osoa norantz zihoan helmuga.</li></ul><p>Beraz, orain <b>«jada, baina oraindik ez»</b> aroa da: Jesusengan salbamena <b>jada</b> beteta dago, baina bere osotasuna <b>oraindik</b> espero da.</p>",
+   "next": "Orduan, zer esan nahi du istorio honek guztiak «niretzat»?"
+  }
+ ],
+ "love": [
+  "Istorioa ez da epaiketaz hasten, maitasunez isuritako sorreraz baizik.",
+  "Jendeak bekatu egin zuen unean, Jainkoak hantxe agindu zuen salbamena.",
+  "Jainkoa merezi ez zuen gizon batengana etorri zen lehenik, izenez deitu zion eta bedeinkazio-iturri egin zuen.",
+  "Herri esklaboaren intziria entzun zuen eta berak jaitsi zen hura salbatzera.",
+  "Behin eta berriz traizionatu arren, oihu egiten zuten bakoitzean askatzaile bat bidali eta berriz altxatu zituen.",
+  "Eroritako David ere ez zuen baztertu; haren bidez betiko Errege bat agindu zuen.",
+  "Bizkarra ematen zion herriari profetak bidaltzen jarraitu zuen, otoika: «Itzul zaitez, mesedez».",
+  "Erbesteko lurralderik ilunenera ere haiekin jaitsi zen, eta zaharberritzea agindu zuen.",
+  "Behin eta berriz huts egin zuen herriari ere ez zion promesa kendu, berriz altxatu baizik.",
+  "400 urteko isiltasunean ere, ezkutuan, salbamenaren bidea prestatzen ari zen.",
+  "Oraindik bekatari ginela, bere Semea bidali zuen bere bizia ematera.",
+  "Jaso genuen maitasun hori, orain mundu osora isurtzera bidaltzen du.",
+  "Azkenean malko oro xukatuko du eta gauza guztiak berri egingo ditu maitasunez."
+ ],
+ "mis": [
+  {
+   "w": "«Zergatik egin zituen Jainkoak bekatu egin zezaketen pertsonak? Ez al zen hobe izango ez gaituela egin?»",
+   "t": "Jainkoak mundua eta jendea ez zituen ezeren faltagatik egin, maitasun gainezkatuagatik baizik. Gizakiak <b>Jainkoarekin harremana duten pertsona</b> egitea bera maitasuna da. Eta bekatuaren sarrera bera ere ez zen Jainkoaren salbamen-planetik kanpo geratu (Efesoarrei 1:4-5). Bibliaren hasierako eszena ez da epaiketa, maitasuna baizik."
+  },
+  {
+   "w": "«Fruitu bakar bat jateagatik kanporatua eta heriotza emana ere —ez al da Jainkoa gogorregia?»",
+   "t": "Edenetik kanporatua izatea epaiketa eta errukia izan zen aldi berean. Bizitzaren zuhaitzetik jan eta egoera hautsi, Jainkoagandik etenean betiko bizitzea sufrimenduan betiko harrapatuta egotea litzateke (Hasiera 3:22). Heriotza onartzeak itzulerako bidea ireki zuen, eta hantxe Jainkoak Salbatzaile bat agindu zuen (Hasiera 3:15). Maitasuna dagoeneko epaiketaren barruan zegoen."
+  },
+  {
+   "w": "«Abraham bere sinesmen handiagatik aukeratu zuten —ez al dira Bibliako pertsonaia guztiak moralaren heroiak?»",
+   "t": "Abrahamek ere gezurra esan zuen eta zalantza egin zuen; Jakob iruzurgilea zen. Jainkoak ez zituen «gai» zirenak deitu, akastunak baizik, graziaz. Arrazoia ez zen haien ontasuna, Jainkoaren maitasun leiala baizik (Deuteronomioa 7:7-8)."
+  },
+  {
+   "w": "«Ez al da Legea (Aginduak) salbatzeko gainditu beharreko azterketa edo baldintza bat?»",
+   "t": "Jainkoak salbatu zituen Legea eman <b>baino lehen</b>. Hamar Aginduek ere salbamen-aitorpen batez hasten dira: «Neu nauzu Jauna, zeure Jainkoa, Egiptotik … atera zintuena» (Irteera 20:2). Legea ez da «bete salbatzeko», baizik eta dagoeneko graziaz salbatu den herriak nola bizi behar duen erakusten dion maitasunezko gida (Deuteronomioa 7:7-9). Beti grazia lehenik; obedientzia erantzuna da."
+  },
+  {
+   "w": "«Kanaanen konkista sarraski errukigabea izan zen —Itun Zaharreko Jainkoa krudela da, azken batean.»",
+   "t": "Esaldi batean ebazten ez den gai zaila da eta arreta eskatzen du. Baina Bibliak ez du indarkeria arbitrario gisa aurkezten, baizik eta gaiztakeria muturreko mendeen ondorengo epaiketa gisa (haurren sakrifizioa barne), pazientzia handiaren ondoren (Hasiera 15:16; Deuteronomioa 9:4-5; Lebitarrena 18:24-25). Jainkoa geldoa da epaitzeko ere, eta beregana itzultzen zirenak pozik hartu zituen —Rahab eta Rut bezalako atzerritarrak ere (Josue 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "«David akatsik gabeko heroia izan zen —horregatik deitu zioten “Jainkoaren bihotzaren araberako gizona”.»",
+   "t": "Davidek adulterioa eta hilketa ere egin zituen. «Jainkoaren bihotzaren araberako gizona» izateak ez du esan nahi akatsik gabea, baizik eta bere bekatua ezkutatu ez zuena —sakonki damutu eta beti Jainkoarengana itzuli zena (Salmoak 51). Jainkoaren maitasunak ez ditu baztertzen gogor erortzen direnak ere."
+  },
+  {
+   "w": "«Profeta etorkizuna iragartzen duen aztia da / Itun Zaharreko Jainkoa haserrea besterik ez da.»",
+   "t": "Profetaren bihotza ez da «etorkizuna iragartzea», baizik eta Jainkoaren erregu samurra: «Itzul zaitez, mesedez». Epaiketaren abisuak ere ez du suntsitzea helburu, jendea bihurtu eta salbatzea baizik —«Nik ez dut atsegin gaiztoa hiltzea, jokabidez aldatu eta bizitzea baino» (Ezekiel 33:11)."
+  },
+  {
+   "w": "«Erbesteak frogatzen du Jainkoak Israel erabat abandonatu zuela.»",
+   "t": "Erbestea ez zen abandonua, seme-alaba maite baten aurreko diziplina eta garbiketa baizik (Hebrearrei 12:6). Jainkoa ez zen joan; Danielekin egon zen erbestearen bihotzean eta agindu zuen: «Gogoan dut zuen alde erabakia dudan egitasmoa, zuen zorionerakoa eta ez zuen zoritxarrerakoa, itxaropenez beteriko etorkizuna emango baitizuet» (Jeremias 29:11)."
+  },
+  null,
+  {
+   "w": "«400 urtez hitzik gabe, Jainkoa joan zen edo atseden hartzen ari zen.»",
+   "t": "Isiltasuna ez da ausentzia. Hitz egin ez zuen soilik, denbora horretan guztian inperioak, hizkuntzak eta bideak mugituz salbamenaren agertokia prestatzen zuen bitartean. Unerik isilenean, Jainkoa gogorren ari zen lanean, maitasunez (Galaziarrei 4:4)."
+  },
+  {
+   "w": "«Jesus moralaren irakasle on bat besterik ez zen / gurutzea porrot tragiko bat izan zen.»",
+   "t": "Jesusek Jainkoa zela aldarrikatu zuen (Joan 8:58), eta gurutzea ez zen istripua edo porrota, planifikatutako maitasuna baizik. Ez zuten indarrez eraman; bere bizia berez eman zuen (Joan 10:18). «Ez die inork maitasun handiagorik adiskideei, bere burua haien alde ematen duenak baino» (Joan 15:13)."
+  },
+  {
+   "w": "«Eliza jende perfektuaren klub erlijioso bat da, edo eraikin bat besterik ez.»",
+   "t": "Eliza ez da «santu osatuen» komunitatea, <b>barkatutako bekatarien</b> komunitatea baizik. Paulo apostoluak berak ere «bekatarien artean lehena» deitu zion bere buruari (1 Timoteori 1:15). Lehen Elizak ere eztabaidatu eta huts egin zuen (Eginak 6:1; 1 Korintoarrei 1:11). Ez da harrotzeko tokia, jaso duten maitasuna besteei pasatzen dieten jendea baizik (Joan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Jatorrizko bekatua —inor ez da zuzena",
+   "body": "Arazoa ez da «egintza txar batzuk», bihotzaren erroa baizik. Adanengandik, denak bekatupean jaiotzen dira eta ezin dute Jainkoarengana berez iritsi.",
+   "vref": "Erromatarrei 3:10-12, 23",
+   "vtext": "Ez da bat bera ere zuzenik … denek egin baitzuten bekatu eta denak aurkitzen dira geroztik Jainkoaren aintzarik gabe."
+  },
+  {
+   "title": "Legeak ezin nau salbatu",
+   "body": "Legea ez da eskailera bat, ispilu bat baizik. Zenbat eta gehiago saiatu, orduan eta gehiago erakusten du zenbat huts egiten dudan. Bere helburua Kristorengana eramatea da.",
+   "vref": "Erromatarrei 3:20 · Galaziarrei 3:24",
+   "vtext": "Legearen eginkizuna bekatua ezagutaraztea da … legea zaintzaile izan genuen, Kristorengana bideratzeko."
+  },
+  {
+   "title": "Graziaz —opari bat, ez ahalegina",
+   "body": "Salbamena ez da merezitako ordaina, baizik eta merezi ez dutenentzako Jainkoaren dohaintza. Horregatik inork ezin du harrotu.",
+   "vref": "Efesoarrei 2:8-9",
+   "vtext": "Dohain hutsez zarete salbatuak sinesmenaren bidez; eta hau ez dator zuengandik, baizik eta Jainkoaren emaitza da; ez dator egintzetatik, inor harro ez dadin."
+  },
+  {
+   "title": "Sinesmenez zuzendua",
+   "body": "Ez Legea betetzeagatik, baizik eta Jesu Kristogan sinesteagatik aitortzen zaitu zuzentzat —ez zara zeure zuzentasunaz janzten, harenaz baizik.",
+   "vref": "Erromatarrei 5:1 · Galaziarrei 2:16",
+   "vtext": "Beraz, Jainkoak sinesmenaren bidez onartu gaituelarik … Jainkoak ez duela inor onartzen legea betetzeagatik, Jesu Kristogan sinesteagatik baizik."
+  },
+  {
+   "title": "Bibliak Jesusengana seinalatzen du",
+   "body": "Biblia ez da gizon handien biografia bat, ezta autolaguntza-liburu bat ere. Hasieratik Apokalipsiraino, orrialde bakoitzak batengan ematen du testigantza: Jesu Kristorengan.",
+   "vref": "Joan 5:39 · Lukas 24:27",
+   "vtext": "Liburu Santuek ere nire alde egiten dute testigantza … Liburu Santuek berari buruz zioten guztia azaldu zien."
+  },
+  {
+   "title": "Jainkoaren erreinua —Jesusen mezuaren erdigunea",
+   "body": "Jesusek gehien irakatsi zuen gaia. Jainkoak Errege bezala agintzen duen erreinua mundu honetara sartu zen Jesusekin eta bere bigarren etorreran osatuko da. Bere gurutzeaz eta piztueraz, Jesus da bekatua, heriotza eta Satan garaitu zituen egiazko Erregea.",
+   "vref": "Markos 1:15",
+   "vtext": "Betea da garaia, eta gainean duzue Jainkoaren erregetza…"
+  },
+  {
+   "title": "Berri Ona —berak dena bete zuen",
+   "body": "Nik inoiz ordaindu ezin nuen bekatuaren zorra, Jesusek nire ordez ordaindu zuen gurutzean, eta berpiztuz heriotza garaitu zuen. Ez naiz «egin» honetan bermatzen, «betea da» honetan baizik.",
+   "vref": "Joan 19:30 · Erromatarrei 5:8",
+   "vtext": "Betea da dena … Kristo, gu oraindik bekatari ginela hil zen gure alde: honela erakusten du Jainkoak guri digun maitasuna."
+  }
+ ],
+ "books": {
+  "Hasiera": "GEN",
+  "Irteera": "EXO",
+  "Lebitarrena": "LEV",
+  "Zenbakiak": "NUM",
+  "Deuteronomioa": "DEU",
+  "Josue": "JOS",
+  "Epaileak": "JDG",
+  "Rut": "RUT",
+  "Esdras": "EZR",
+  "Nehemias": "NEH",
+  "Ester": "EST",
+  "Job": "JOB",
+  "Salmoak": "PSA",
+  "Esaera Zaharrak": "PRO",
+  "Kohelet": "ECC",
+  "Kantarik Ederrena": "SNG",
+  "Isaias": "ISA",
+  "Jeremias": "JER",
+  "Negar Kantak": "LAM",
+  "Ezekiel": "EZK",
+  "Daniel": "DAN",
+  "Oseas": "HOS",
+  "Joel": "JOL",
+  "Amos": "AMO",
+  "Abdias": "OBA",
+  "Jonas": "JON",
+  "Mikeas": "MIC",
+  "Nahum": "NAM",
+  "Habakuk": "HAB",
+  "Sofonias": "ZEP",
+  "Ageo": "HAG",
+  "Zakarias": "ZEC",
+  "Malakias": "MAL",
+  "Mateo": "MAT",
+  "Markos": "MRK",
+  "Lukas": "LUK",
+  "Joan": "JHN",
+  "Eginak": "ACT",
+  "Erromatarrei": "ROM",
+  "Galaziarrei": "GAL",
+  "Efesoarrei": "EPH",
+  "Filipoarrei": "PHP",
+  "Kolosarrei": "COL",
+  "Titori": "TIT",
+  "Filemoni": "PHM",
+  "Hebrearrei": "HEB",
+  "Santiago": "JAS",
+  "Judas": "JUD",
+  "Apokalipsia": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Erregeak": "1KI",
+  "2 Erregeak": "2KI",
+  "1 Kronikak": "1CH",
+  "2 Kronikak": "2CH",
+  "1 Korintoarrei": "1CO",
+  "2 Korintoarrei": "2CO",
+  "1 Tesalonikarrei": "1TH",
+  "2 Tesalonikarrei": "2TH",
+  "1 Timoteori": "1TI",
+  "2 Timoteori": "2TI",
+  "1 Pedro": "1PE",
+  "2 Pedro": "2PE",
+  "1 Joan": "1JN",
+  "2 Joan": "2JN",
+  "3 Joan": "3JN"
+ },
+ "yv": 56,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

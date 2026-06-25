@@ -1,0 +1,428 @@
+{
+ "menuName": "Gaeilge",
+ "htmlLang": "ga",
+ "dir": "ltr",
+ "brand": "An Bíobla in Aon Scrolla",
+ "docTitle": "An Bíobla in Aon Scrolla · Ón gCruthú go dtí an Eaglais",
+ "share": {
+  "title": "An Bíobla in Aon Scrolla",
+  "text": "In aon scrolla amháin, faigh amach scéal mór an Bhíobla — agus cén fáth ar tháinig Íosa."
+ },
+ "ui": {
+  "people": "Daoine",
+  "events": "Eachtraí tábhachtacha",
+  "christLabel": "Ag díriú ar Íosa",
+  "loveLabel": "Grá nach staonann",
+  "mythWrong": "Míthuiscint choitianta",
+  "mythRight": "An fhírinne",
+  "more": "Tuilleadh",
+  "version": "(ABN)"
+ },
+ "labels": {
+  "start": "Tús",
+  "thread": "An scéal",
+  "gospel": "An Soiscéal",
+  "about": "Eolas"
+ },
+ "s": {
+  "ui.share": "↗ Roinn",
+  "ui.toast": "Cóipeáladh an nasc 📋",
+  "ui.footer": "An Bíobla in Aon Scrolla · Sleachta scrioptúir as An Bíobla Naofa (ABN)",
+  "hero.kicker": "ÓN GCRUTHÚ GO DTÍ AN EAGLAIS",
+  "hero.title": "An Bíobla,<br><span class=\"em\">in aon scrolla</span>",
+  "hero.sub": "In aon scrolla amháin, faigh amach scéal mór an Bhíobla — agus cén fáth ar tháinig Íosa.",
+  "hero.cue": "Scrollaigh síos<span>↓</span>",
+  "thread.eyebrow": "AON ABAIRT A NASCANN AN T-IOMLÁN LE CHÉILE",
+  "thread.h2": "I ndeireadh na dála, is aon scéal amháin é an Bíobla",
+  "thread.flow": "<b>Gealltanas</b><span class=\"arw\">→</span><b>Fanacht</b><span class=\"arw\">→</span><b>Comhlíonadh</b>",
+  "thread.note": "Tugann Dia <b>gealltanas</b> (an cúnant), fanann an pobal <b>tamall fada</b>, agus faoi dheireadh <b>comhlíontar</b> agus cuirtear i gcrích gach rud in Íosa. Lean na 13 radharc thíos sa sruth sin — tapáil <b>“Tuilleadh”</b> ar gach cárta chun an scéal níos doimhne a léamh.",
+  "gospel.eyebrow": "CÉARD A CHIALLAÍONN AN SCÉAL SEO DOMHSA",
+  "gospel.h2": "Croílár fíor an Bhíobla",
+  "gospel.lead": "Ní <b>téacsleabhar faoi “dea-dhuine a bheith ionat”</b> é an Bíobla.",
+  "gospel.sublead": "Is é scéal é faoin gcaoi ar fhuascail Dia, <b>le grásta amháin</b>, peacaigh nach bhféadfadh iad féin a shlánú go deo. Ina lár seasann Íosa Críost.",
+  "gospel.mirror": "<h3>Is pictiúr “díomsa” é timthriall síoraí Iosrael i ndáiríre</h3><div class=\"cycle\"><b>Íoldhiailteacht</b><span class=\"a\">→</span><b>Fulaingt</b><span class=\"a\">→</span><b>Glaoch chun cabhrach</b><span class=\"a\">→</span><b>Fuasclaíonn Dia</b><span class=\"a\">→</span><b>Íoldhiailteacht arís…</b></div><p>Ó na Breithiúna go dtí an deoraíocht, athdhéanann Iosrael an timthriall seo gan stad. Níor thaifead an Bíobla é le go bhféadfaimis a rá go scigiúil, “Nach iad a bhí truamhéalach.”</p><p>Is <b>scáthán</b> é. Ní “Rinne Iosrael é sin” an pointe ach <b>“Déanaimse an rud céanna”</b> (1 Corantaigh 10:11).</p><p>Ní dealbh shnoite amháin é <b>íol</b>. Is é <b>aon rud a ngráimid nó a gcuirimid muinín ann níos mó ná Dia</b> — airgead, rath, moladh, daoine, fiú mé féin. Agus is íoldhiailteacht é freisin Dia a úsáid mar <b>uirlis chun an rud atá uaim a fháil</b>.</p><p class=\"punch\">I ndeireadh na dála, is é an t-íol is doimhne ná “mé féin i mo shuí ar ríchathaoir Dé.”</p>",
+  "gospel.coreIntro": "Mar sin, conas a shlánaíonn Dia a leithéid de pheacach? Seo croílár an tsoiscéil a fhógraíonn an Bíobla.",
+  "gospel.crux": "<p class=\"crux-lead\">Díríonn an Bíobla go léir ar aon áit amháin.</p><p>Ní raibh daoine in ann timthriall an pheaca a bhriseadh leo féin, agus ní raibh aon duine fíréan. Mar sin b'éigean do dhuine éigin <b>an praghas a íoc ina n-áit</b>.</p><p>Níor tháinig Íosa díreach chun dea-theagasc a thabhairt. Gan aon slí eile chun mé a shlánú, <b>ní raibh an dara rogha aige ach teacht.</b></p><p class=\"crux-punch\">Is mise an té ba chóir a bheith crochta ar an gcrois sin.<br>Iompair Íosa <b>mo pheaca</b> agus tairneadh é ann i m'áit.</p><div class=\"crux-verse\">“Goineadh é as ucht ár gcoireanna, bascadh é as ucht ár gcionta … agus trína fhearbacha tháinig cneasú orainne.” — Íseáia 53:5</div>",
+  "faq.h": "An bhfuil rud éigin ag déanamh imní duit fós?",
+  "faq.q1": "<span class=\"arr\">▸</span> Mar sin téann dúnmharfóir a chreideann go neamh, agus téann dea-dhuine a chaith a shaol go maith ach nach gcreideann go hifreann?",
+  "faq.a1": "<p>Is ceist chóir í. Ach tá dhá mhíthuiscint i bhfolach inti.</p><p><b>① Ní roinneann an Bíobla daoine ina “dhaoine maithe” agus “dhaoine olca.”</b> Ní hé an caighdeán “níos fearr ná an duine in aice leat” ach “naofacht fhoirfe Dé.” Os a chomhair, níl aon duine “maith go leor” (Rómhánaigh 3:23). Mar sin ní “dea-dhuine i gcoinne dúnmharfóra” é, ach níos cosúla le beirt a bhfuil an galar marfach céanna orthu — glacann duine amháin an leigheas, diúltaíonn an duine eile dó, ag rá, “Tá mé níos sláintiúla ná an fear sin.”</p><p><b>② Níl ach aon rud amháin a scarann neamh agus ifreann.</b> Ní scór iompair, ach <b>cé acu ar ghlac tú Íosa Críost mar Thiarna agus ar réitíodh fadhb do pheaca.</b> An té ar réitíodh a pheaca trí fhuil Chríost, téann sé ar neamh; an té nach nglacann é riamh, a bhfuil a pheaca fós air, ní théann. Ní féidir le haon mhéid dea-iompair an fhadhb pheaca féin a réiteach duit.</p><p>Mar sin ní “duais as dea-iompar” iad neamh agus ifreann ach ceist faoi <b>chaidreamh le Críost</b>. Agus ní comhaontú meabhrach é “creideamh” ach athrú ar an té a stiúrann do shaol — ní éiríonn an té a ghlacann é go fírinneach sotalach ach déanann sé aithrí níos doimhne. Go deimhin, is é an féinfhíréantacht (“is dea-dhuine mé”) an t-íol is deacra a bhriseadh, an ceann a chuireann orainn a cheapadh nach bhfuil Críost de dhíth orainn (Lúcás 18:9-14).</p><p>Deir an Bíobla go soiléir é: <b>“An té a chreideann ann ní thabharfar daorbhreith air, ach an té nach gcreideann ann, tá daorbhreith tugtha air cheana féin”</b> (Eoin 3:18). Ní hé an breithiúnas “do shaol a mharcáil tar éis duit bás a fháil” ach tá sé socraithe cheana de réir <b>ar ghlac tú Críost</b>.</p><p class=\"faq-v\">Rómhánaigh 3:23 · Eoin 3:18 · Eifisigh 2:8-9 · Lúcás 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Nach leor dea-dhuine a bheith ionam, fiú mura gcreidim in Íosa?",
+  "faq.a2": "<p>Sin an smaoineamh is coitianta, ach tuigeann sé go mícheart céard í an fhíorfhadhb. Seo pictiúr.</p><p><b>Cuir i gcás go bhfuil tú ar bord loinge bradaí.</b> Is cuma cé chomh glan a choinníonn tú an deic, cé chomh cineálta atá tú leis an gcriú, cé chomh heiseamláireach do shaol — is <b>bradach</b> tú fós, mar tugtar leis an long thú go dtí an áit a bhfuil sí ag dul (cuan an bhreithiúnais). Ní hé an fhadhb “scór iompair” ach <b>“cén long lena mbaineann tú” (do chéannacht)</b>.</p><p>Mar sin ní deir an soiscéal “déan iarracht níos déine a bheith maith”; deir sé <b>“athraigh long.”</b> Tar anuas de long an pheaca agus trasnaigh chuig Íosa — isteach i gcéannacht nua mar <b>leanbh Dé</b>. Ní do scór a ardú le hiarracht atá i gceist anseo, ach muinín a chur san Té a shíneann amach a lámh agus trasnú chuig a long.</p><p>Go deimhin, déanann an Bíobla cur síos ar an slánú díreach mar an t-aistriú seo — <b>“[Sé] a d'fhuascail sinn ó chumhacht an dorchadais agus d'aistrigh isteach sinn i ríocht a mhic mhuirnigh”</b> (Colosaigh 1:13).</p><p>Ná tuig go mícheart é: <b>ní chiallaíonn sé seo go bhfuil dea-shaol gan bhrí.</b> Ní hé an mhaitheas “coinníoll” an tslánaithe ach a <b>thoradh</b>. An té a d'athraigh long, maireann sé go maith anois ní as eagla ach as grá linbh.</p><p class=\"faq-v\">Colosaigh 1:13 · Eoin 1:12 · Eoin 3:3 · Eifisigh 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Má bhraitheann ciontóir suaimhneas, ag maíomh “Mhaith Dia dom,” agus an t-íospartach fós ag fulaingt — nach bhfuil an grásta i bhfad ró-shaor?",
+  "faq.a3": "<p>Is ceist chóir í, agus tá an phian fíor. Ach ní “maithiúnas an Bhíobla” a leithéid de mhaíomh — is <b>saobhadh</b> air é.</p><p><b>① Ní bhíonn maithiúnas Dé saor riamh.</b> Ní chuirtear an peaca i bhfolach faoi mar nár tharla sé riamh; d'íoc Dia féin a phraghas le beatha a Mhic féin. Ní cruthúnas é an chrois go nglactar an peaca go héadrom, ach go bhfuil an peaca chomh trom sin — an maithiúnas is costasaí ar domhan.</p><p><b>② Tugann fíoraithrí toradh.</b> Má bhíonn ciontóir sotalach os comhair an íospartaigh — “Mhaith Dia dom, mar sin táim ar mo shuaimhneas” — ní aithrí é sin ach aithris uirthi (Matha 3:8). Agus ní scriosann an maithiúnas idir duine agus Dia créacht an íospartaigh ná ní chuireann iallach ar an íospartach maithiúnas a thabhairt.</p><p><b>③ Ní “ligtear thar bord” an peaca riamh.</b> Íoctar gach peaca in aon cheann de dhá áit — <b>iompraíonn Críost ar an gcrois é</b> (don té a chreideann ann níl aon daorbhreith níos mó, Rómhánaigh 8:1), <b>nó iompraíonn an té a dhiúltaíonn dó faoi dheireadh é féin.</b> Mar sin níl aon “mhaithiúnas saor” ann. Tá freagracht dhlíthiúil ar an gciontóir sa saol seo freisin (Rómhánaigh 13:1-4).</p><p><b>④ Ní bhíonn deora an íospartaigh beag os comhair Dé riamh.</b> Goileann Dia leo siúd a ghoileann, cuimhníonn sé ar gach deoir, agus glanfaidh sé féin iad faoi dheireadh (Apacailipsis 21:4). Mar sin ní gá don íospartach ualach an díoltais a iompar ina aonar, ach is féidir é a chur faoi chúram an Dia chirt (Rómhánaigh 12:19 — “Fúmsa an díoltas, mise a chúiteoidh, a deir an Tiarna”).</p><p class=\"faq-v\">Matha 3:8 · Rómhánaigh 8:1 · Rómhánaigh 13:1-4 · Apacailipsis 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> An scéal fíor é an Bíobla i ndáiríre? Is cosúil le sean-mhiotas nó le húrscéal é.",
+  "faq.a4": "<p>Is ceist chóir í — agus áit mhaith le tosú. Ní é an t-amhras a mhalairt den chreideamh ach an mian rudaí a sheiceáil go macánta. Ní miotas doiléir é an Bíobla le “creidiúint má bhraitheann tú mar sin,” ach taifead scríofa anuas ar <b>fhíor-áiteanna, dátaí agus daoine</b>. Cúpla sampla amháin.</p><p><b>① Ní aon leabhar amháin é ach “leabharlann” — ach sníonn sé ar aon téama amháin.</b> Is bailiúchán de <b>66 leabhar</b> é an Bíobla a scríobhadh thar thart ar <b>1,500 bliain ag tuairim is 40 údar</b> — ríthe, aoirí, iascairí, bailitheoir cánach, lia, daoine ó chéimeanna agus ó ré éagsúla, ag scríobh ar leithligh agus gan eolas acu ar a chéile, i dtrí theanga (Eabhrais, Aramais, Gréigis). Ach mar sin féin, tagann sé go léir le chéile, gan mearbhall, ar <b>aon téama amháin: an slánú trí Chríost</b>. Sin comhsheasmhacht atá deacair a mhíniú le seans nó le comhordú daonna.</p><p><b>② Deimhnítear arís é ón talamh (an tseandálaíocht).</b> Bhí go leor rudaí a caitheadh i leataobh tráth mar chumadóireacht, “le fáil sa Bhíobla amháin,” a deimhníodh ina dhiaidh sin trí thochailt. <b>Ríshliocht Dháiví</b> trí chloch a raibh “teach Dháiví” greanta uirthi (Stéalla Tel Dan); <b>Pointias Píoláit</b>, an gobharnóir a chuir Íosa chun báis, trí inscríbhinn a iompraíonn a ainm; tollán uisce an Rí Heizicíá (2 Ríthe 20:20) trí thollán féin agus a inscríbhinn. Fiú na <b>Hitígh</b>, ar tugadh “pobal samhailteach” orthu tráth, tháinig siad chun cinn mar impireacht ollmhór san fhothrach.</p><p><b>③ Is é an doiciméad ársa is fearr a caomhnaíodh é (na lámhscríbhinní).</b> I líon na lámhscríbhinní marthanacha, ina réiteach lena chéile, agus sa bhearna ama idir an scríobh agus an cóip, tá an Bíobla <b>gan sárú i measc doiciméad ársa</b>. Bhí scrolla Íseáia réamhChríostaí i measc <b>Scrollaí na Mara Mairbhe</b> (a fuarthas i 1947) ag teacht leis an téacs caighdeánach thart ar 1,000 bliain ina dhiaidh sin litir ar litir geall leis — fianaise gur caomhnaíodh an Bíobla go cruinn thar na haoiseanna.</p><p><b>④ Tharla rudaí a scríobhadh roimh ré díreach mar a tuaradh (an fháistine).</b> An Sean-Tiomna, a taifeadadh na cianta roimh Íosa, díríonn sé go sonrach ar a bhreith i mBeithil (Míocá 5:2), ar an searbhónta fulaingteach (Íseáia 53:5), agus ar imthosca na croise (Salm 22). Ró-chruinn le caitheamh i leataobh mar chomhtharlú.</p><p><b>⑤ Thaifead staraithe lasmuigh den Bhíobla é freisin.</b> Luann an staraí Rómhánach <b>Tacitus</b> agus an staraí Giúdach <b>Iósaef</b> — agus ní Críostaí ceachtar acu — Íosa, a bhású, agus an eaglais luath. Thar aon ní eile, na deisceabail a scaip le heagla, <b>chuir siad a mbeatha i mbaol</b> ag tabhairt fianaise ar an aiséirí — ní fhaigheann aon duine bás ar son an rud a bhfuil a fhios aige gur bréag é.</p><p>Le bheith macánta, áfach, taispeánann na bunúis seo nach bhfuil sé <b>míréasúnach ach réasúnach</b> creidiúint sa Bhíobla; ní “cruthúnas” iad a chuireann iallach ort mar fhoirmle mhatamaiticiúil. Mar sin ní as fianaise amháin a thagann cinnteacht an Chríostaí, ach as <b>an chinnteacht a thugann an Spiorad Naomh don chroí agus an Briathar á léamh</b>. Deir an Bíobla — <b>“Is ó theagasc a thagann an creideamh, mar sin, agus is trí sheanmóireacht Chríost a thagann an teagasc féin”</b> (Rómhánaigh 10:17). Mar sin, is cuma cé chomh mór is cosúil le ficsean é, is é <b>é a léamh tú féin</b> an tús. Osclaíonn an fhianaise an doras, agus fásann an chinnteacht laistigh den té a léann.</p><p class=\"faq-v\">2 Ríthe 20:20 · Íseáia 53:5 · Míocá 5:2 · Rómhánaigh 10:17</p>",
+  "respond.h3": "Mar sin — céard fúmsa?",
+  "respond.sub": "Ní heolas é an grá seo ach <b>cuireadh</b>. Má bhain an grá a tairneadh i d'áit do chroí amach, guigh é seo go mall, líne ar líne.",
+  "respond.prayer": "<p>A Dhia,</p><p>admhaím gur peacach mé nach féidir liom mé féin a shlánú.</p><p>Creidim go bhfuair Íosa bás ar an gcrois ar mo shon agus gur aiséirigh sé.</p><p>Maith mo pheacaí go léir, le do thoil, agus bí i do Thiarna mo shaoil as seo amach.</p><p>Glac mé mar do leanbh, agus lig dom saol nua a chaitheamh.</p><p class=\"amen\">In ainm Íosa a ghuím. Áiméan.</p>",
+  "respond.after": "Má ghuigh tú é seo ó chroí, deir an Bíobla go bhfuil tú anois i do <b>leanbh Dé</b>. Níl tú i d'aonar a thuilleadh — aimsigh eaglais in aice láimhe agus siúil bóthar an chreidimh in éineacht le daoine eile.",
+  "respond.read": "Léigh an Bíobla tú féin — tosaigh le Eoin",
+  "respond.verse": "“Ach an uile dhuine a ghlac é, thug sé de cheart dóibh go ndéanfaí clann Dé díobh.” — Eoin 1:12 · Rómhánaigh 10:9-10",
+  "closing.main": "Aon Dia amháin,<br>trí aon scéal amháin,<br>ar ár dtóir le <em>grá</em><br>nach n-éiríonn as choíche.",
+  "closing.verse": "“Nach bhféadfaidh bás ná beatha … ná dúil chruthaithe ar bith eile sinn a scaradh ó ghrá Dé atá in Íosa Críost ár dTiarna.” — Rómhánaigh 8:38-39",
+  "closing.small": "Ar an scéal seo, cuireann an Dlí, na leabhair fhileata, na fáithe agus na litreacha an “fheoil” leis.<br>Anois, cibé leabhar a osclaíonn tú, feicfidh tú cén áit a bhfuil tú sa scéal.",
+  "closing.share": "↗ Roinn an scéal seo",
+  "about.line": "Bunaithe ar an dearcadh slánaithe-staire a roinneann formhór eaglais Phrotastúnach na Cóiré (soiscéalach · Leasaithe).",
+  "about.contact": "Ceisteanna · aiseolas — <a id=\"contact\" class=\"mail\">Seol ríomhphost</a>"
+ },
+ "epochs": [
+  {
+   "tag": "SEAN-TIOMNA · TÚS",
+   "title": "An Cruthú",
+   "date": "I dtús báire",
+   "one": "Chruthaigh Dia domhan a bhí “an-mhaith.”",
+   "people": "Dia; Ádhamh agus Éabha",
+   "events": "Sé lá an chruthaithe, an cine daonna cruthaithe ar íomhá Dé, sos na Sabóide",
+   "q": "I dtús báire chruthaigh Dia neamh agus talamh.",
+   "cite": "Geineasas 1:1",
+   "christ": "Rinneadh an domhan tríd an “mBriathar.” Dearbhaíonn Soiscéal Eoin gur Íosa féin é an Briathar sin (Eoin 1:1-3).",
+   "detail": "<p>Ní le hargóint fhealsúnach a osclaíonn an Bíobla ach le dearbhú: <b>“I dtús báire, Dia…”</b> Ní timpiste é an domhan ach saothar Dé phearsanta.</p><ul><li><b>Íomhá Dé</b> · De na créatúir go léir, ní dhéantar ach an cine daonna cosúil le Dia — chun aithne a chur air agus aire a thabhairt don domhan.</li><li><b>Sos</b> · Léiríonn sos an seachtú lá go raibh gach rud iomlán agus síochánta (shalom): “bhí sé go maith.”</li><li><b>Éidin</b> · An domhan sular briseadh é, áit a siúlann Dia agus an duine le chéile.</li></ul>",
+   "next": "Ach tá an iomláine seo ar tí a bhriste…"
+  },
+  {
+   "tag": "SEAN-TIOMNA · TOSAÍONN AN FHADHB",
+   "title": "An Titim",
+   "date": "I dtús báire",
+   "one": "Tháinig an peaca isteach, agus gearradh an nasc idir an duine agus Dia.",
+   "people": "Ádhamh agus Éabha; an nathair (Sátan)",
+   "events": "Ag ithe an toraidh thoirmiscthe, díbeartha as Éidin, teacht an bháis agus an tsaothair",
+   "q": "Cuirfidh mé naimhdeas idir tú agus an bhean … brúfaidh sé do cheann.",
+   "cite": "Geineasas 3:15",
+   "christ": "An chéad gealltanas den soiscéal, tugtha díreach tar éis na Titime: brúfaidh “síol na mná” ceann na nathrach — agus is é sin Íosa (Geineasas 3:15; Rómhánaigh 16:20; Galataigh 4:4).",
+   "detail": "<p>Trí easumhlaíocht na hiarrachta “a bheith cosúil le Dia,” tagann an peaca isteach sa domhan. Ní riail bhriste amháin an toradh ach <b>caidreamh briste</b>.</p><ul><li><b>Naisc bhriste</b> · le Dia (i bhfolach), le chéile (locht a chur), leis an nádúr (driseacha agus saothar).</li><li><b>Bás</b> · fíoraítear an rabhadh “gheobhaidh tú bás go cinnte.”</li><li><b>Geineasas 3:15</b> · ach i lár an bhreithiúnais, tagann gealltanas fuascailte ar dtús. Tugann scoláirí an <b>protoevangelium (an chéad soiscéal)</b> air.</li></ul>",
+   "next": "Anois glaonn Dia ar aon fhear amháin chun an fhuascailt a thosú…"
+  },
+  {
+   "tag": "SEAN-TIOMNA · AN GEALLTANAS",
+   "title": "Na Patrarcaí",
+   "date": "c. 2000 RC",
+   "one": "Geallann Dia d'Abrahám, “Beidh tú i do channa beannachta.”",
+   "people": "Abrahám · Íosác · Iacób · Iósaef",
+   "events": "Cúnant Abrahám, ceangal Íosáic, dáréag mac Iacóib, ardú Iósaeif chun cumhachta san Éigipt",
+   "q": "Déanfaidh mé cine mór díot … agus is tríotsa a dhéanfaidh ciníocha uile an domhain iad féin a bheannú.",
+   "cite": "Geineasas 12:2-3",
+   "christ": "Comhlíontar an gealltanas go “mbeannófar gach pobal” in Íosa, síol Abrahám (Galataigh 3:16).",
+   "detail": "<p>Tosaíonn Dia ag dul i ngleic le fadhb an chine dhaonna ar fad trí aon fhear amháin a ghairm, <b>Abrahám</b>. Is é croílár an scéil an <b>cúnant (gealltanas)</b> — cine mór, talamh, agus “beannacht do gach pobal.”</p><ul><li><b>Creideamh</b> · Chreid Abrahám gealltanas dofheicthe, agus áiríodh ina fhíréantacht dó é (Geineasas 15:6).</li><li><b>Íosác &amp; Iacób</b> · gabhann an gealltanas ar aghaidh; gineann Iacób (Iosrael) an dáréag treibh.</li><li><b>Iósaef</b> · díolta ag a dhearthaireacha ach ardaithe chun cumhachta — “dheonaigh Dia é a chur chun tairbhe” (Geineasas 50:20).</li></ul>",
+   "next": "Ag leanúint Iósaeif, téann an teaghlach síos go dtí an Éigipt — agus déantar daoir díobh…"
+  },
+  {
+   "tag": "SEAN-TIOMNA · FUASCAILT",
+   "title": "An Eaxodus agus an Fásach",
+   "date": "c. 1446 RC",
+   "one": "D'fhuascail Dia pobal daor agus rinne a phobal féin díobh.",
+   "people": "Maois, Árón, Forann",
+   "events": "Na deich bplá, an Cháisc, trasnú na Mara Rua, na Deich nAithne ag Sínáí, an taibearnacal, 40 bliain san fhásach",
+   "q": "Glacfaidh mé chugam féin sibh mar phobal liom agus beidh mise agaibh mar Dhia.",
+   "cite": "Eaxodus 6:7",
+   "christ": "An Cháisc — áit ar iompaigh fuil uain an bás ar shiúl — díríonn sí ar Íosa, “uan ár gCásca,” a céasadh ar ár son (1 Corantaigh 5:7).",
+   "detail": "<p>Fuascailt is mó an tSean-Tiomna. Saortar Iosrael, a bhí ina daoir, le cumhacht Dé agus múnlaítear ina <b>phobal</b> é.</p><ul><li><b>An Cháisc</b> · gabhtar an teach atá marcáilte le fuil an uain thar bráid ag an mbás — an patrún taobh thiar de gach íobairt ina dhiaidh sin.</li><li><b>An Mhuir Rua</b> · slánú nuair a thagann deireadh leis an mbóthar; éiríonn an “trasnú” ina shiombail de thús nua.</li><li><b>Cúnant Shínáí</b> · trí na hAithne foghlaimíonn siad conas maireachtáil mar phobal Dé.</li><li><b>An taibearnacal</b> · sanctóir gluaisteach ina gcónaíonn Dia i measc a phobail — réamhbhlaiseadh den “Eumánúéil.”</li><li><b>40 bliain</b> · coinníonn easumhlaíocht glúin ag fánaíocht, ach fanann Dia in aice leo le manna agus an colún néil agus tine.</li></ul>",
+   "next": "Ina seasamh ar imeall na talún tairgthe, ullmhaíonn siad chun dul isteach…"
+  },
+  {
+   "tag": "SEAN-TIOMNA · SOCRÚ",
+   "title": "An Concas agus na Breithiúna",
+   "date": "c. 1400–1050 RC",
+   "one": "Fuair siad an talamh, ach gan rí rinne gach duine mar ab áil leis.",
+   "people": "Iósua; breithiúna ar nós Gideón agus Samsón; Rút",
+   "events": "Titim Iairíceo, socrú i gCanán, timthriall athráiteach peaca–breithiúnas–fuascailt",
+   "q": "Sna laethanta úd ní raibh aon rí in Iosrael agus rinne gach fear mar ab áil leis féin.",
+   "cite": "Breithiúna 21:25",
+   "christ": "Ó shliocht Rút tagann Dáiví, agus ó shliocht Dháiví tagann Íosa (Matha 1). Fiú sa mhíréir, leanann crann ginealaigh an Mheasaí ar aghaidh.",
+   "detail": "<p>Faoi Iósua téann siad isteach sa talamh tairgthe, ach tar éis socraithe dearmadann siad Dia go luath. Is é Breithiúna an patrún céanna á athdhéanamh.</p><ul><li><b>An timthriall síos</b> · peaca → cos ar bolg → glaoch chun cabhrach → fuasclaíonn breithiúin → peaca arís. Ní éiríonn ach níos measa.</li><li><b>Na breithiúna</b> · Gideón, Samsón, Deabórá — fuascailteoirí sealadacha, gaisciúil ach lochtach go domhain.</li><li><b>Rút</b> · scéal geal dílseachta in aois dhorcha; téann bean choimhthíoch isteach i sliocht Dháiví (agus Íosa).</li></ul>",
+   "next": "Glaonn an pobal, “Tabhair rí dúinn freisin!”…"
+  },
+  {
+   "tag": "SEAN-TIOMNA · RÉ ÓIR",
+   "title": "An Ríocht Aontaithe",
+   "date": "c. 1050–930 RC",
+   "one": "Geallann Dia do Dháiví, “Mairfidh do ríchathaoir go deo.”",
+   "people": "Sól · Dáiví · Solamh",
+   "events": "An chéad rí Sól, Dáiví agus Goliat, cúnant Dháiví, tógann Solamh an teampall",
+   "q": "Seasfaidh do theaghlach agus do fhlaitheas i gcónaí go daingean romham agus daingneofar do ríchathaoir go deo.",
+   "cite": "2 Samúéil 7:16",
+   "christ": "Comhlíontar an “ríchathaoir shíoraí” in Íosa, mac Dháiví — agus sin an fáth a dtugtar “Mac Dháiví” air (Lúcás 1:32-33; Matha 1:1).",
+   "detail": "<p>Buaic Iosrael, faoi rialú trí ríthe.</p><ul><li><b>Sól</b> · an rí a d'éiligh an pobal; tús maith millte ag easumhlaíocht.</li><li><b>Dáiví</b> · “fear de réir chroí Dé.” Buann sé ar Gholiat agus déanann sé Iarúsailéim ina phríomhchathair. Déanann sé peaca mór (Baitseaba) ach déanann sé aithrí ó chroí (Salm 51).</li><li><b>Cúnant Dháiví (2 Samúéil 7)</b> · geallann Dia ríshliocht Dháiví a bhunú go deo — fréamh chinntitheach an dóchais Mheasáigh.</li><li><b>Solamh</b> · ag buaic na heagna agus an rachmais tógann sé an <b>teampall</b>, ach déanann sé íoldhiailteacht go déanach ina shaol.</li></ul>",
+   "next": "Tar éis Sholaimh, scoiltear an ríocht ina dhá leath…"
+  },
+  {
+   "tag": "SEAN-TIOMNA · MEATH",
+   "title": "An Ríocht Roinnte",
+   "date": "930–586 RC",
+   "one": "Scoilte ina deisceart (Iúdá) agus tuaisceart (Iosrael), sleamhnaíonn an náisiún chun fothraigh.",
+   "people": "Ríthe an dá ríocht; fáithe ar nós Éilias, Íseáia, Irimia",
+   "events": "Scoiltear an ríocht, scaipeann an íoldhiailteacht, tugann na fáithe rabhadh",
+   "q": "Agus ar an gcuma sin tá Iosrael scartha ó theaghlach Dháiví go dtí an lá inniu féin.",
+   "cite": "1 Ríthe 12:19",
+   "christ": "Sa ré seo tuarann na fáithe an Measaí atá ag teacht níos soiléire i gcónaí (Íseáia 9:6; Íseáia 53).",
+   "detail": "<p>I laethanta mhac Sholaimh scoiltear an náisiún: <b>ríocht thuaisceartach Iosrael</b> (10 dtreibh, príomhchathair Samáire) agus <b>ríocht dheisceartach Iúdá</b> (2 threibh, príomhchathair Iarúsailéim).</p><ul><li><b>Iosrael (tuaisceart)</b> · freastalaíonn gach rí ar íola; titeann sí chuig an Asaír i 722 RC.</li><li><b>Iúdá (deisceart)</b> · leanann sliocht Dháiví, le cúpla dea-rí ar nós Heizicíá agus Ióisíá, ach meathann sí ar an iomlán.</li><li><b>Na fáithe</b> · glaonn Éilias, Ámós, Íseáia, Irimia “fillígí!” Sroicheann an fháistine Mheasáigh a bpointe is saibhre anseo (an “searbhónta fulaingteach” in Íseáia 53).</li></ul>",
+   "next": "I ndeireadh na dála tagann an breithiúnas a tuaradh — tugtar chun deoraíochta iad…"
+  },
+  {
+   "tag": "SEAN-TIOMNA · BREITHIÚNAS",
+   "title": "An Deoraíocht",
+   "date": "722 / 586 RC",
+   "one": "Titeann an náisiún agus tarraingítear an pobal isteach i dtíortha coimhthíocha.",
+   "people": "Dainéil, Eizicéil, Nabúcadnazar",
+   "events": "Titeann Iosrael chuig an Asaír (722), titeann Iúdá chuig an mBablóin agus scriostar an teampall (586)",
+   "q": "Cois sruthanna na Bablóine a shuíomar ag sileadh deor, ag cuimhneamh dúinn ar Shíón.",
+   "cite": "Salm 137:1",
+   "christ": "I ndoimhneas an éadóchais geallann Irimia “conradh nua” (Irimia 31:31) — an cúnant céanna a shéalaíonn Íosa ag an Suipéar Deireanach.",
+   "detail": "<p>Fíoraítear na rabhaidh. Dóitear an teampall agus tugtar an pobal chuig an mBablóin — ag cailleadh na talún, an rí, agus an teampaill: an pointe is ísle ar fad.</p><ul><li><b>Dhá thitim</b> · Iosrael (an Asaír, 722 RC) agus Iúdá (an Bhablóin, 586 RC).</li><li><b>Dainéil</b> · samhail chreidimh fiú i gcúirt phágánach (poll na leon); feiceann sé físeanna de “ríocht shíoraí” atá ag teacht.</li><li><b>Splanc dóchais</b> · físt Eizicéil de chnámha tirime ag teacht chun beatha (Eizicéil 37) agus “conradh nua” Irimia ag díriú ar thodhchaí sa dorchadas.</li></ul>",
+   "next": "Seachtó bliain ina dhiaidh sin, osclaíonn Dia an bealach — téann siad abhaile…"
+  },
+  {
+   "tag": "SEAN-TIOMNA · ATHCHÓIRIÚ",
+   "title": "An Fhilleadh",
+   "date": "538–430 RC",
+   "one": "Filleann siad agus atógann siad an teampall agus na ballaí.",
+   "people": "Eazrá, Nihimiá, Eistir, Zarubábel",
+   "events": "Filleadh trí fhoraithne Chíoras, atógáil an teampaill, deisiú ballaí Iarúsailéim, athbheochan an Bhriathair",
+   "q": "Óir is é áthas an Tiarna bhur neart.",
+   "cite": "Nihimiá 8:10",
+   "christ": "Malaicí, leabhar deireanach an tSean-Tiomna, críochnaíonn sé ag tuar teachtaire chun bealach an Mheasaí a réiteach: “Tá mo theachtaire á chur amach agam” (Malaicí 3:1).",
+   "detail": "<p>Le foraithne rí na Peirse, Cíoras (538 RC), tosaíonn an filleadh. I dtrí thonn fillean siad agus atógan siad an méid a scriosadh.</p><ul><li><b>Zarubábel</b> · atógann sé an teampall (críochnaithe 516 RC).</li><li><b>Eazrá</b> · múineann sé an Briathar arís agus athbheonn sé an creideamh.</li><li><b>Nihimiá</b> · atógann sé ballaí Iarúsailéim i 52 lá.</li><li><b>Eistir</b> · sábhálann sí na Giúdaigh sa Pheirs ón díothú — “le haghaidh a leithéid d'am seo.”</li><li><b>Ag tnúth fós</b> · seasann an teampall, ach níl aon rí ann ar nós Dháiví. Fanann an pobal leis an Measaí.</li></ul>",
+   "next": "Agus ansin… amhail is dá dtitfeadh tost ar neamh, téann 400 bliain thart."
+  },
+  {
+   "tag": "IDIR NA TIOMNAÍ · AG SOCRÚ AN ARDÁIN",
+   "title": "Na Blianta Ciúine",
+   "date": "c. 430–4 RC",
+   "one": "400 bliain gan glór fáidh — ach bhí an t-ardán á shocrú go ciúin.",
+   "people": "Alastar Mór, na Macabaigh, an Róimh",
+   "events": "An Pheirs → an Ghréig → neamhspleáchas Macabach → riail Rómhánach",
+   "q": "Ach nuair a tháinig iomláine na haimsire, sheol Dia uaidh a mhac, a rugadh ó bhean.",
+   "cite": "Galataigh 4:4",
+   "christ": "Ba é Dia ag obair an “socrú ardáin” seo go léir ionas go dtiocfadh Íosa díreach ag “iomláine na haimsire.”",
+   "detail": "<p>Ó Mhalaicí go dtí an Tiomna Nua, téann thart ar 400 bliain thart gan aon scrioptúr nua. Ach taobh thiar den stair bhí Dia ag ullmhú an bhealaigh don soiscéal.</p><ul><li><b>Athraíonn impireachtaí lámha</b> · an Pheirs → an Ghréig (Alastar, 333 RC) → na Ptolamaigh agus na Seileucaigh → éirí amach Macabach (167 RC) → an Róimh (63 RC).</li><li><b>An Ghréigis</b> · déanann concais Alastair an Ghréigis ina teanga choiteann; aistrítear an Sean-Tiomna go Gréigis (an Septuagint), ag réiteach an bhealaigh don soiscéal scaipeadh go tapa.</li><li><b>Bóithre agus síocháin na Róimhe</b> · éiríonn bóithre dea-thógtha agus an “Pax Romana” ina mórbhealaí don mhisean.</li><li><b>Sionagóga agus páirtithe</b> · cuireann teagasc na sionagóige fréamh; éiríonn na Fairisínigh agus na Sadúisínigh; agus aibíonn an <b>tnúth leis an Measaí</b>.</li></ul>",
+   "next": "Ansin briseann an tost — faoi dheireadh, tagann sé."
+  },
+  {
+   "tag": "TIOMNA NUA · COMHLÍONADH",
+   "title": "Tagann Íosa",
+   "date": "c. 4 RC–AD 30",
+   "one": "Tháinig an Measaí geallta, fuair sé bás, agus aiséirigh sé.",
+   "people": "Íosa, an dáréag deisceabal, Eoin Baiste",
+   "events": "An ionchollú, a mhinistreacht agus a theagasc agus a mhíorúiltí, bás ar an gcrois, aiséirí ar an tríú lá",
+   "q": "Agus rinneadh feoil den Bhriathar agus chónaigh sé inár measc … lán de ghrásta agus d'fhírinne.",
+   "cite": "Eoin 1:14",
+   "christ": "Síol na mná (radharc 2), beannacht Abrahám (3), uan na Cásca (4), rí síoraí Dháiví (6), an conradh nua (8) — comhlíontar iad go léir in aon fhear amháin, Íosa: ár bhfíor-Fháidh, Sagart agus Rí.",
+   "detail": "<p>Briseann an tost; tagann an Té Geallta. Tugann na ceithre Soiscéal fianaise ar bheatha, bhás agus aiséirí Íosa ó cheithre uillinn.</p><ul><li><b>Ionchollú</b> · déantar Dia ina dhuine (Eumánúéil, “Dia inár dteannta”), in áit umhal Bheithil.</li><li><b>Ministreacht</b> · múineann sé ríocht Dé, leigheasann sé na heasláin, glaonn sé ar pheacaigh. “An té a chonaic mise, chonaic sé an tAthair.”</li><li><b>An chrois</b> · íocann sé praghas an pheaca agus an bháis a thug an Titim leo (radharc 2). An fíoruan Cásca.</li><li><b>Aiséirí</b> · ag aiséirí ar an tríú lá, briseann sé cumhacht an pheaca, an bháis agus Shátain — cheana féin ar an gcrois “lom sé na tiarnais agus na húdaráis … i gcaithréim na croise” (Colosaigh 2:15).</li></ul><p>Mar sin is é Íosa ár <b>bhfíor-Fháidh</b> (ag taispeáint an bhealaigh chuig Dia), ár <b>bhfíor-Shagart</b> (ag déanamh leorghnímh as an bpeaca lena chorp féin), agus ár <b>bhfíor-Rí</b> (ag cloí an pheaca, an bháis agus Shátain agus ag rialú go deo).</p>",
+   "next": "Seolann an tÍosa aiséirithe a dheisceabail amach sa domhan…"
+  },
+  {
+   "tag": "TIOMNA NUA · LEATHNÚ",
+   "title": "Tosaíonn an Eaglais",
+   "date": "c. AD 30–",
+   "one": "Tagann an Spiorad, agus scaipeann an soiscéal i dtreo imeall an domhain.",
+   "people": "Peadar, Pól, an eaglais luath",
+   "events": "Doirteadh an Spiorad ag Cincís, rugadh an eaglais, scaipeann an soiscéal ó Iarúsailéim go dtí an Róimh trí ghéarleanúint",
+   "q": "Ach gheobhaidh sibh neart an Spioraid Naoimh atá le tuirlingt oraibh agus beidh sibh in bhur bhfinnéithe ormsa … a fhad le himeall an domhain.",
+   "cite": "Gníomhartha 1:8",
+   "christ": "Tá an scéal seo fós ar siúl. Críochnaíonn an Bíobla ag gealladh go dtiocfaidh Íosa arís agus go ndéanfaidh sé gach rud nua (Apacailipsis 21).",
+   "detail": "<p>Tar éis d'Íosa dul suas, tagann an Spiorad geallta ag Cincís agus rugadh an eaglais. Scaipeann an soiscéal go pléascach.</p><ul><li><b>Cincís</b> · iompaíonn an Spiorad deisceabail eaglacha ina bhfinnéithe dána.</li><li><b>Peadar</b> · seanmóireacht ar an soiscéal do na Giúdaigh in Iarúsailéim.</li><li><b>Pól</b> · ó ghéarleantóir go haspal, ag plandáil eaglaisí ar fud an domhain Ghiúdaigh agus ag scríobh na litreacha.</li><li><b>Go himeall an domhain</b> · Iarúsailéim → Iúdáia → an tSamáir → an Róimh. Fíoraítear an gealltanas a tugadh d'Abrahám faoi “gach pobal.”</li><li><b>Agus sinne</b> · ní chríochnaíonn an scéal; brúnn sé ar aghaidh i dtreo fhilleadh Íosa agus na neimhe nua agus na talún nua.</li></ul>",
+   "next": "Ach ní chríochnaíonn an scéal anseo…"
+  },
+  {
+   "tag": "TIOMNA NUA · IOMLÁNÚ",
+   "title": "An tAthchóiriú",
+   "date": "Fós le teacht",
+   "one": "Tagann Íosa arís agus déanann sé gach rud nua.",
+   "people": "An tÍosa atá ag filleadh; na náisiúin go léir",
+   "events": "An dara teacht, an breithiúnas deiridh, deireadh an pheaca·an bháis·na ndeor, neamh nua agus talamh nua",
+   "q": "Glanfaidh sé gach deoir óna súile, agus ní bheidh an bás ann feasta, ná ní bheidh caoineadh ná olagón ná pian ann a thuilleadh.",
+   "cite": "Apacailipsis 21:4",
+   "christ": "Athchóirítear Éidin an chéad chruthaithe faoi dheireadh mar an “Iarúsailéim Nua.” Cónaíonn Dia lena phobal go deo — iomláine an Eumánúéil (Apacailipsis 21:3; Matha 1:23).",
+   "detail": "<p>Ní chríochnaíonn an Bíobla le haois na heaglaise. Taispeánann a leabhar deiridh, Apacailipsis, Íosa <b>ag teacht arís</b> chun gach rud a chur i gcrích.</p><ul><li><b>An dara teacht</b> · filleann an Rí geallta i nglóir.</li><li><b>Bua deiridh</b> · cloítear Sátan agus an bás go deo, agus rialaíonn Críost mar Rí na ríthe (1 Corantaigh 15:25-26; Apacailipsis 20:10).</li><li><b>Breithiúnas agus aiséirí</b> · cuirtear gach éagóir ina ceart, agus aiséirítear na mairbh.</li><li><b>Neamh nua agus talamh nua</b> · imíonn an peaca, an bás, na deora agus an phian go deo (Apacailipsis 21:4).</li><li><b>Éidin athchóirithe</b> · in “Iarúsailéim Nua” níos fearr ná an tús, cónaíonn Dia lena phobal go deo — an ceann scríbe a raibh an Bíobla go léir ag triall air.</li></ul><p>Mar sin is é anois aois an <b>“cheana, ach gan a bheith fós”</b>: in Íosa tá an slánú <b>cheana</b> curtha i gcrích, ach táthar ag fanacht <b>fós</b> lena iomláine.</p>",
+   "next": "Mar sin, céard a chiallaíonn an scéal seo ar fad domhsa?"
+  }
+ ],
+ "love": [
+  "Ní le breithiúnas a thosaíonn an scéal ach le cruthú doirte amach i ngrá.",
+  "An nóiméad a pheacaigh an duine, gheall Dia fuascailt ann féin ar an láthair.",
+  "Tháinig Dia ar dtús chuig fear neamhthuillteach, ghlaoigh sé air as a ainm, agus rinne sé canna beannachta de.",
+  "Chuala sé éagaoin pobail dhaoir agus tháinig sé anuas chun iad a fhuascailt é féin.",
+  "Cé gur feallaíodh air arís agus arís eile, gach uair a ghlaoigh siad sheol sé fuascailteoir agus thóg sé suas iad.",
+  "Ní chaithfeadh sé i leataobh fiú an Dáiví tite, agus tríd gheall sé Rí síoraí.",
+  "Chuig pobal a chas a ndroim leis, choinnigh sé ag seoladh fáithe, ag impí, “Fill abhaile, le do thoil.”",
+  "Chuaigh sé leo fiú isteach i dtír is dorcha na deoraíochta, agus gheall sé athchóiriú.",
+  "Fiú do phobal a chlis arís agus arís eile, ní tharraingeodh sé siar a ghealltanas.",
+  "Fiú trí 400 bliain chiúine, gan feiceáil, bhí sé ag ullmhú bhealach an tslánaithe.",
+  "Agus sinn fós inár bpeacaigh, sheol sé a Mhac chun a bheatha féin a leagan síos.",
+  "An grá a fuaireamar, seolann sé anois amach é ag sileadh chuig an domhan ar fad.",
+  "Faoi dheireadh glanfaidh sé gach deoir agus déanfaidh sé gach rud nua i ngrá."
+ ],
+ "mis": [
+  {
+   "w": "“Cén fáth ar chruthaigh Dia daoine a d'fhéadfadh peaca a dhéanamh? Nárbh fhearr gan sinn a dhéanamh ar chor ar bith?”",
+   "t": "Chruthaigh Dia an domhan agus daoine ní as aon easnamh ach as grá doirte amach. Is grá ann féin é daoine a dhéanamh mar <b>phearsana a bhfuil caidreamh acu le Dia</b>. Agus ní raibh fiú teacht isteach an pheaca lasmuigh de phlean slánaithe Dé (Eifisigh 1:4-5). Ní breithiúnas é radharc tosaigh an Bhíobla ach grá."
+  },
+  {
+   "w": "“Díbeartha agus bás tugtha díreach as toradh amháin a ithe — nach bhfuil Dia i bhfad ró-chrua?”",
+   "t": "Bhí an díbirt as Éidin ina breithiúnas agus ina trócaire araon. Dá n-íosfaí ó chrann na beatha agus maireachtáil go deo sa staid bhriste, scartha-ó-Dhia sin, bheadh duine i ngaiste fulaingthe go deo (Geineasas 3:22). D'oscail ligean an bháis an bóthar ar ais, agus ann díreach gheall Dia Fuascailteoir (Geineasas 3:15). Bhí an grá istigh sa bhreithiúnas cheana."
+  },
+  {
+   "w": "“Roghnaíodh Abrahám mar gheall ar a chreideamh mór — nach laochra morálta iad gach duine sa Bhíobla?”",
+   "t": "D'inis Abrahám bréaga agus bhí amhras air; bhí Iacób ina mhealltóir. Ghlaoigh Dia ní ar dhaoine “cáilithe” ach ar dhaoine lochtacha, le grásta. Ní hé an chúis a maitheas ach grá dílis Dé (Deotranaimí 7:7-8)."
+  },
+  {
+   "w": "“Nach scrúdú nó coinníoll é an Dlí (na hAithne) a chaithfidh tú a phasáil chun a bheith slánaithe?”",
+   "t": "Shlánaigh Dia iad <b>roimh</b> an Dlí a thabhairt. Tosaíonn fiú na Deich nAithne le dearbhú slánaithe: “Mise an Tiarna do Dhia a thug thú amach as tír na hÉigipte” (Eaxodus 20:2). Ní “coinnigh é chun a bheith slánaithe” é an Dlí, ach treoir ghrámhar ar an gcaoi ar chóir do phobal atá slánaithe cheana maireachtáil (Deotranaimí 7:7-9). Tagann an grásta i gcónaí ar dtús; is é an umhlaíocht an freagra."
+  },
+  {
+   "w": "“Áir gan trócaire a bhí i gconcas Chanán — mar sin tá Dia an tSean-Tiomna cruálach i ndáiríre.”",
+   "t": "Is ábhar deacair é seo nach féidir a réiteach in aon abairt amháin. Ach ní mar fhoréigean fánach a chuireann an Bíobla i láthair é ach mar bhreithiúnas tar éis na gcianta foighne i leith oilc fhoircneacha (íobairt leanaí san áireamh) (Geineasas 15:16; Deotranaimí 9:4-5; Léivític 18:24-25). Tá Dia mall fiú chun breithiúnais, agus chuir sé fáilte le háthas roimh iadsan a d'iompaigh chuige — fiú coimhthígh ar nós Ráchab agus Rút (Iósua 6:25; Rút 4:13-17)."
+  },
+  {
+   "w": "“Laoch gan locht a bhí i nDáiví — sin an fáth ar tugadh ‘fear de réir chroí Dé’ air.”",
+   "t": "Rinne Dáiví adhaltranas agus fiú dúnmharú. Ní chiallaíonn “fear de réir chroí Dé” gan locht, ach duine nár cheil a pheaca — a rinne aithrí go hiomlán agus a d'fhill ar Dhia i gcónaí (Salm 51). Ní chaitheann grá Dé i leataobh fiú iadsan a thiteann go crua."
+  },
+  {
+   "w": "“Fáidh-thuar é an fáidh a thuarann an todhchaí / níl i nDia an tSean-Tiomna ach fearg.”",
+   "t": "Ní “an todhchaí a thuar” croí an fháidh ach impí ghoilliúnach Dé: “Fill abhaile, le do thoil.” Fiú ní aidhmíonn rabhaidh an bhreithiúnais ar scriosadh ach ar dhaoine a iompú timpeall agus a shábháil — “ní mian liomsa bás an chiontaigh” (Eizicéil 33:11)."
+  },
+  {
+   "w": "“Cruthaíonn an deoraíocht gur thréig Dia Iosrael go hiomlán.”",
+   "t": "Ní tréigean a bhí sa deoraíocht ach smacht agus athleá i leith linbh ghrámhair (Eabhraigh 12:6). Níor imigh Dia; bhí sé le Dainéil i gcroílár na deoraíochta agus gheall sé, “tá fios mo smaointe agam in bhur dtaobh — smaointe síochána agus ní oilc, a thabhairt croí agus dóchais daoibh” (Irimia 29:11)."
+  },
+  null,
+  {
+   "w": "“Gan focal ar feadh 400 bliain, bhí Dia imithe nó ag scíth.”",
+   "t": "Ní easpa é an tost. Níor labhair sé amháin, agus an t-am ar fad ag bogadh impireachtaí, teangacha agus bóithre chun ardán an tslánaithe a ullmhú. Sa nóiméad is ciúine, bhí Dia ag obair is déine, i ngrá (Galataigh 4:4)."
+  },
+  {
+   "w": "“Ní raibh in Íosa ach dea-mhúinteoir morálta amháin / cliseadh tragóideach a bhí sa chrois.”",
+   "t": "Mhaígh Íosa gurbh é Dia féin é (Eoin 8:58), agus ní timpiste ná cliseadh a bhí sa chrois ach grá pleanáilte. Níor tarraingíodh ann le fórsa é; leag sé síos a bheatha féin (Eoin 10:18). “Níl grá ag aon duine níos mó ná seo go dtabharfaidh duine a anam ar son a chairde” (Eoin 15:13)."
+  },
+  {
+   "w": "“Club reiligiúnach de dhaoine foirfe, nó díreach foirgneamh, atá san eaglais.”",
+   "t": "Ní pobal de “naoimh chríochnaithe” í an eaglais ach de <b>pheacaigh a maitheadh dóibh</b>. Thug fiú an t-aspal Pól “an peacach is mó” air féin (1 Tiomóid 1:15). Rinne an eaglais luath argóint agus thuisligh sí freisin (Gníomhartha 6:1; 1 Corantaigh 1:11). Ní áit le bheith ag maíomh í, ach daoine ag cur ar aghaidh an ghrá a fuair siad (Eoin 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "An peaca bunaidh — níl aon fhíréan ann",
+   "body": "Ní “cúpla droch-ghníomh” an fhadhb ach fréamh an chroí. Ó Ádhamh, rugadh gach duine faoin bpeaca agus ní féidir leo Dia a bhaint amach leo féin.",
+   "vref": "Rómhánaigh 3:10-12, 23",
+   "vtext": "Níl oiread agus aon fhíréan amháin fágtha … mar tá an peaca déanta acu uile agus iad uile in uireasa ghlóire Dé."
+  },
+  {
+   "title": "Ní féidir leis an Dlí mé a shlánú",
+   "body": "Ní dréimire é an Dlí ach scáthán. Dá dhéine a dhéanann tú iarracht, is mó a thaispeánann sé cé chomh fada is a thiteann tú gearr. Is é a chuspóir sinn a threorú chuig Críost.",
+   "vref": "Rómhánaigh 3:20 · Galataigh 3:24",
+   "vtext": "Is aithne ar an bpeaca a thagann ón dlí … bhí an dlí mar a bheadh giolla againn nó go dtiocfadh Críost."
+  },
+  {
+   "title": "Le grásta — bronntanas, ní iarracht",
+   "body": "Ní pá as tuillteanas a thuill tú an slánú ach bronntanas saor in aisce dóibh siúd nach bhfuil sé tuillte acu. Mar sin ní féidir le haon duine maíomh.",
+   "vref": "Eifisigh 2:8-9",
+   "vtext": "Mar is le grásta a slánaíodh sibh, trí chreideamh … ní de bharr oibreacha i dtreo nach bhfuil cúis mhaíte ag duine ar bith."
+  },
+  {
+   "title": "Fíréanaithe ag an gcreideamh",
+   "body": "Ní le coimeád an Dlí ach trí chreideamh in Íosa Críost a áirítear fíréan thú — gléasta ní i d'fhíréantacht féin ach ina cheannsa.",
+   "vref": "Rómhánaigh 5:1 · Galataigh 2:16",
+   "vtext": "Ó táimid fíréanaithe ag an gcreideamh … nach ó chomhlíonadh an dlí a fhíréanaítear duine ach trí chreideamh in Íosa Críost."
+  },
+  {
+   "title": "Díríonn an Bíobla ar Íosa",
+   "body": "Ní leabhar faoi fhir mhóra ná leabhar féinchabhrach é an Bíobla. Ó Gheineasas go Apacailipsis, tugann gach leathanach fianaise ar aon duine amháin — Íosa Críost.",
+   "vref": "Eoin 5:39 · Lúcás 24:27",
+   "vtext": "Is iadsan atá ag tabhairt fianaise i mo thaobhsa … mhínigh sé dóibh na nithe a bhí sna scrioptúir uile mar gheall air féin."
+  },
+  {
+   "title": "Ríocht Dé — príomhtheachtaireacht Íosa",
+   "body": "An téama is mó a mhúin Íosa. Bhris riail Dé mar Rí isteach sa domhan seo le hÍosa agus cuirfear i gcrích í nuair a fhilleann sé. Trína chrois agus a aiséirí, is é Íosa an fíor-Rí a chloígh an peaca, an bás agus Sátan.",
+   "vref": "Marcas 1:15",
+   "vtext": "Tá an tréimhse caite agus tá ríocht Dé in achmaireacht. Déanaigí aithrí agus creidigí sa soiscéal."
+  },
+  {
+   "title": "An soiscéal — chuir sé an t-iomlán i gcrích",
+   "body": "An praghas peaca nach bhféadfainn a íoc go deo, d'íoc Íosa i m'áit é ar an gcrois, agus trí aiséirí chloígh sé an bás. Ní ar “déan é seo” a luím ach ar “tá sé curtha i gcrích.”",
+   "vref": "Eoin 19:30 · Rómhánaigh 5:8",
+   "vtext": "Tá sé curtha i gcrích … cruthaíonn Dia an grá atá aige dúinn trí Chríost a fháil bháis ar ár son agus sinn fós inár bpeacaigh."
+  }
+ ],
+ "books": {
+  "Geineasas": "GEN",
+  "Eaxodus": "EXO",
+  "Léivític": "LEV",
+  "Uimhreacha": "NUM",
+  "Deotranaimí": "DEU",
+  "Iósua": "JOS",
+  "Breithiúna": "JDG",
+  "Rút": "RUT",
+  "Eazrá": "EZR",
+  "Nihimiá": "NEH",
+  "Eistir (Gr)": "ESG",
+  "Tóibít": "TOB",
+  "Iúidit": "JDT",
+  "Iób": "JOB",
+  "Salm": "PSA",
+  "Seanfhocal": "PRO",
+  "Cóheilit": "ECC",
+  "Laoi na Laoithe": "SNG",
+  "Eagna": "WIS",
+  "Síorach": "SIR",
+  "Íseáia": "ISA",
+  "Irimia": "JER",
+  "Leabhar na n‑Olagón": "LAM",
+  "Barúch": "BAR",
+  "Eizicéil": "EZK",
+  "Dainéil (Gr)": "DAG",
+  "Hóisé": "HOS",
+  "Ióéil": "JOL",
+  "Amós": "AMO",
+  "Obaidiá": "OBA",
+  "Ióna": "JON",
+  "Míocá": "MIC",
+  "Nahúm": "NAM",
+  "Habacúc": "HAB",
+  "Zafainiá": "ZEP",
+  "Hag": "HAG",
+  "Zacairia": "ZEC",
+  "Malaicí": "MAL",
+  "1 Macabaech": "1MA",
+  "2 Macabaech": "2MA",
+  "Matha": "MAT",
+  "Marcas": "MRK",
+  "Lúcás": "LUK",
+  "Eoin": "JHN",
+  "Gníomhartha": "ACT",
+  "Rómhánaigh": "ROM",
+  "Galataigh": "GAL",
+  "Eifisigh": "EPH",
+  "Filipigh": "PHP",
+  "Colosaigh": "COL",
+  "Títeas": "TIT",
+  "Filéamón": "PHM",
+  "Eabhraigh": "HEB",
+  "Séamas": "JAS",
+  "Iúd": "JUD",
+  "Apacailipsis (Taispeántadh)": "REV",
+  "1 Samúéil": "1SA",
+  "2 Samúéil": "2SA",
+  "1 Ríthe": "1KI",
+  "2 Ríthe": "2KI",
+  "1 Croinicí": "1CH",
+  "2 Croinicí": "2CH",
+  "1 Corantaigh": "1CO",
+  "2 Corantaigh": "2CO",
+  "1 Teasalónaigh": "1TH",
+  "2 Teasalónaigh": "2TH",
+  "1 Tiomóid": "1TI",
+  "2 Tiomóid": "2TI",
+  "1 Peadar": "1PE",
+  "2 Peadar": "2PE",
+  "1 Eoin": "1JN",
+  "2 Eoin": "2JN",
+  "3 Eoin": "3JN",
+  "Apacailipsis": "REV"
+ },
+ "yv": 554,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

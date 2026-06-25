@@ -80,6 +80,8 @@ JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=speakers  --top=
     repeatedly paraphrase the ones in **bold**, so fetch them explicitly and slice the source contiguously:
     `s.gospel.crux`(ISA.53.5) · `s.respond.verse`(JHN.1.12) · `s.closing.verse`(ROM.8.38-39) ·
     `epoch[8].christ`(MAL.3.1) · **`epoch[2].detail`(GEN.50.20)** · **`epoch[10].detail`(COL.2.15)** ·
+    **`epoch[7].christ`(JER.31.31 — the quoted "new covenant" must use the edition's own words, not a synonym/
+    word-order variant; drafts repeatedly missed it — kln/tiv/ca/gl/ga all needed fixing. verify-inline catches it)** ·
     `mis[].t` (EXO.20.2 · EZK.33.11 · JER.29.11 · JHN.15.13 · 1TI.1.15) ·
     **`s.faq.a1`(JHN.3.18, span ends at "…condemned already")** · **`s.faq.a2`(COL.1.13)** · `s.faq.a3`(ROM.12.19) ·
     **`s.faq.a4`(ROM.10.17 — "faith comes from hearing … the word of Christ")**.
@@ -336,6 +338,10 @@ auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
 - **YouVersion code/version gotchas**: Malagasy = code `plt` (id 873, full Bible — the old `mg` exclusion was a code
   mismatch); kmr (id 251) is a full Bible despite its "Încîl" (NT) name; **azb** (South Azerbaijani) full Arabic-script
   Bible = YV **#4196 (SAB)** — distinct from the Latin-script eBible azb (which duplicates `az`); Hebrew Psalm numbering, Isa 9:6.
+  **eu (Basque)** = use **#56 (EAB, modern Elizen Arteko Biblia)**, NOT #25 (BHNT = archaic 1571 Leizarraga — wrong register for modern readers).
+  **Deuterocanon editions** (ca BCI, is, etc.): fetch-booknames can mis-map a protocanonical book to a deutero USFM —
+  hit on **ca** where "Jeremies" got **LJE** (Letter of Jeremiah) instead of **JER** (verify-inline catches it as `s: MISSING`). Check JER/DAN/EST/PSA after integrate.
+  **Icelandic numbered books** = spelled ordinals "Fyrri/Síðari/Fyrra/Síðara …" (not "1/2") → put each surface form in books_single.
 
 ## Recurring-trap digest (things actually hit — check these first on every new language)
 > A new trap usually appears with each new language. When you hit a new one, add it here so the next
