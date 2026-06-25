@@ -21,6 +21,7 @@
 | `taq` | Tamasheq 타마셰크 | DEFERRED | NT verbatim·구조 완성이나 드래프팅 에이전트가 저자원 산문 신뢰 불가 보고. 드래프트 보존: `deferred-drafts/taq.json` | 사람 원어민 검수 |
 | `dik` | Dinka 딩카 | DEFERRED | 동일 — 산문 신뢰 불가(동사형태·성조·명사부류). `deferred-drafts/dik.json` | 사람 원어민 검수 |
 | `kbp` | Kabiyè 카비예 | DEFERRED | 동일 — 산문 중간신뢰(FAQ 변증부 응축). `deferred-drafts/kbp.json` | 사람 원어민 검수 |
+| `dzo` | Dzongkha 종카 | DEFERRED | 드래프팅 중단(API 오류) + 저자원·티베트문자라 peers와 동일 산문 리스크 | 사람 원어민 검수(재드래프트 포함) |
 
 > 보류 드래프트(`deferred-drafts/`)는 `.claude/` 아래라 **배포 제외(vercelignore)** — 신뢰 못 하는 산문을 정적으로도
 > 공개하지 않으면서 verbatim 작업을 보존한다. 사람 원어민이 산문을 검수·교정하면 `i18n/<code>.json`으로 옮겨 integrate→배포.
