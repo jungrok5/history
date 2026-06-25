@@ -188,6 +188,10 @@ const LANGS = [
   { code:'gl',     dir:'ltr', locale:'gl_ES' },
   { code:'ga',     dir:'ltr', locale:'ga_IE' },
   { code:'is',     dir:'ltr', locale:'is_IS' },
+  { code:'nn',     dir:'ltr', locale:'nn_NO' },
+  { code:'fo',     dir:'ltr', locale:'fo_FO' },
+  { code:'gd',     dir:'ltr', locale:'gd_GB' },
+  { code:'mt',     dir:'ltr', locale:'mt_MT' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드

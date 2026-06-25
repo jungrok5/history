@@ -1,0 +1,420 @@
+{
+ "menuName": "Gàidhlig",
+ "htmlLang": "gd",
+ "dir": "ltr",
+ "brand": "Am Bìoball ann an aon scrolla",
+ "docTitle": "Am Bìoball ann an aon scrolla · Bhon Chruthachadh chun Eaglais",
+ "share": {
+  "title": "Am Bìoball ann an aon scrolla",
+  "text": "Ann an aon scrolla, faigh a-mach sgeul mhòr a' Bhìobaill — agus carson a thàinig Iosa."
+ },
+ "ui": {
+  "people": "Daoine",
+  "events": "Prìomh thachartasan",
+  "christLabel": "A' comharrachadh Iosa",
+  "loveLabel": "Gràdh nach gèill",
+  "mythWrong": "Mì-thuigse chumanta",
+  "mythRight": "An fhìrinn",
+  "more": "Leugh tuilleadh",
+  "version": "(1531)"
+ },
+ "labels": {
+  "start": "Toiseach",
+  "thread": "An sgeul",
+  "gospel": "An Soisgeul",
+  "about": "Mu dheidhinn"
+ },
+ "s": {
+  "ui.share": "↗ Co-roinn",
+  "ui.toast": "Chaidh an ceangal a chopaigeadh 📋",
+  "ui.footer": "Am Bìoball ann an aon scrolla · Luaidhean às a' Bhìoball Ghàidhlig (1531)",
+  "hero.kicker": "BHON CHRUTHACHADH CHUN EAGLAIS",
+  "hero.title": "Am Bìoball,<br><span class=\"em\">ann an aon scrolla</span>",
+  "hero.sub": "Ann an aon scrolla, faigh a-mach sgeul mhòr a' Bhìobaill — agus carson a thàinig Iosa.",
+  "hero.cue": "Sgrolaich sìos<span>↓</span>",
+  "thread.eyebrow": "AON SEANTANS A CHEANGLAS A H-UILE NÌ RI CHÈILE",
+  "thread.h2": "Aig a' cheann thall, is e aon sgeul a-mhàin a th' anns a' Bhìoball",
+  "thread.flow": "<b>Gealladh</b><span class=\"arw\">→</span><b>Feitheamh</b><span class=\"arw\">→</span><b>Coileanadh</b>",
+  "thread.note": "Tha Dia a' <b>gealltainn</b> (an coicheangal), tha an sluagh a' <b>feitheamh</b> ùine fhada, agus mu dheireadh tha a h-uile nì air a <b>choileanadh</b> agus air a chrìochnachadh ann an Iosa. Lean na 13 seallaidhean gu h-ìosal san t-sruth sin — thoir gnogadh air <b>“Leugh tuilleadh”</b> air gach cairt airson na sgeòil nas doimhne.",
+  "gospel.eyebrow": "DÈ A THA AN SGEUL SEO A' CIALLACHADH DHOMH-SA",
+  "gospel.h2": "Fìor chridhe a' Bhìobaill",
+  "gospel.lead": "Chan e <b>leabhar-teagaisg air “a bhith nad dhuine math”</b> a th' anns a' Bhìoball.",
+  "gospel.sublead": "Is e an sgeul air mar a shaor Dia, <b>tre ghràs a-mhàin</b>, peacaich nach b' urrainn iad fhèin a shàbhaladh. Aig a chridhe tha Iosa Crìosd na sheasamh.",
+  "gospel.mirror": "<h3>Is e cuairt gun chrìch Israeil, dha-rìribh, dealbh dhìom-sa</h3><div class=\"cycle\"><b>Ìodhal-aoradh</b><span class=\"a\">→</span><b>Fulangas</b><span class=\"a\">→</span><b>Èigheach</b><span class=\"a\">→</span><b>Saoraidh Dia</b><span class=\"a\">→</span><b>Ìodhal-aoradh a-rithist…</b></div><p>Bho na britheamhan chun an fhògraidh, tha Israel ag ath-aithris na cuairt seo gun chrìch. Cha do chlàraich am Bìoball seo gus an dèanamaid magadh, “Nach robh iad truagh.”</p><p>Is e <b>sgàthan</b> a th' ann. Chan e a' phuing “rinn Israel sin” ach <b>“tha mise a' dèanamh an aon nì”</b> (1 Corintianach 10:11).</p><p>Chan e dìreach ìomhaigh shnaighte a th' ann an <b>ìodhal</b>. Is e <b>rud sam bith air a bheil gràdh againn no anns an cuir sinn earbsa nas motha na ann an Dia</b> — airgead, soirbheachadh, aonta, daoine, eadhon mi fhìn. Agus tha cleachdadh Dhè mar <b>inneal gus na tha mi ag iarraidh fhaighinn</b> na ìodhal-aoradh cuideachd.</p><p class=\"punch\">Aig a' cheann thall, is e an ìodhal as doimhne “mi fhìn nam shuidhe air rìgh-chathair Dhè.”</p>",
+  "gospel.coreIntro": "Mar sin, ciamar a shàbhalas Dia an leithid de pheacach? Seo cridhe an t-soisgeil a tha am Bìoball ag èigheachd.",
+  "gospel.crux": "<p class=\"crux-lead\">Tha am Bìoball gu lèir a' comharrachadh aon àite.</p><p>Cha b' urrainn do dhaoine cuairt a' pheacaidh a bhriseadh leotha fhèin, agus cha robh duine ionraic ann. Mar sin b' fheudar do chuideigin <b>am prìs a phàigheadh nan àite</b>.</p><p>Cha tàinig Iosa a-mhàin gus deagh theagasg a thoirt seachad. Gun dòigh eile ann airson mo shàbhaladh, <b>cha robh roghainn aige ach tighinn.</b></p><p class=\"crux-punch\">Is e an tì a bu chòir a bhith air a' chrann ud <b>mise</b>.<br>Ghiùlain Iosa <b>mo pheacadh</b> agus chaidh a thàirngeadh an sin nam àite.</p><div class=\"crux-verse\">“Ach lotadh e airson ar peacadh-ne, bhruthadh e airson ar n‑aingidheachdan … agus le a chreuchdan-san shlànaicheadh sinne.” — Isaiah 53:5</div>",
+  "faq.h": "A bheil rud air choreigin fhathast gad bhuaireadh?",
+  "faq.q1": "<span class=\"arr\">▸</span> Mar sin chan eil aig murtair ach creidsinn agus thèid e gu nèamh, fhad 's a thèid duine math a chaitheas a bheatha gu lèir gun chreidsinn a dh'ifrinn?",
+  "faq.a1": "<p>Is e ceist cheart a th' ann. Ach tha dà mhì-thuigse am falach na broinn.</p><p><b>① Chan eil am Bìoball a' roinn dhaoine na “mhath an aghaidh olc.”</b> Chan e an tomhas “nas fheàrr na an ath dhuine” ach “naomhachd dhìreach Dhè.” Na fhianais-san, chan eil duine “math gu leòr” (Ròmanaich 3:23). Mar sin chan e seo “duine math an aghaidh murtair,” ach nas coltaiche ri dithis air a bheil an aon ghalar bàsmhor — gabhaidh fear an leigheas, diùltaidh am fear eile e, ag ràdh, “Tha mise nas fhallaine na am fear ud.”</p><p><b>② Chan eil ach aon nì a' dealachadh nèamh agus ifrinn.</b> Chan e sgòr giùlain, ach <b>am bheil thu air gabhail ri Iosa Crìosd mar Thighearna agus am bheil duilgheadas do pheacaidh air fhuasgladh.</b> Thèid an tì aig a bheil a pheacadh air a rèiteachadh le fuil Chrìosd gu nèamh; an tì nach gabh ris a-chaoidh, aig a bheil a pheacadh fhathast, cha tèid. Chan urrainn do dhuilgheadas-peacaidh fhuasgladh le uiread sam bith de dheagh ghiùlan.</p><p>Mar sin chan e “duais airson deagh ghiùlan” a th' ann an nèamh agus ifrinn ach cùis <b>dàimh ri Crìosd</b>. Agus chan e aonta inntinn a th' ann an “creidsinn” ach atharrachadh air cò a stiùireas do bheatha — chan fhàs neach sam bith a ghabhas ris dha-rìribh dàna ach nì e aithreachas nas doimhne. Gu dearbh, is e fèin-fhìreantachd (“tha mi nam dhuine math”) an ìodhal as duilghe a bhriseadh, am fear a bheir oirnn smaoineachadh nach eil feum againn air Crìosd (Lùcas 18:9-14).</p><p>Tha am Bìoball ga ràdh gu soilleir: <b>“An tì a chreideas ann, cha dìtear e: ach an tì nach creid, tha e air a dhìteadh cheana”</b> (Eòin 3:18). Chan e “a' toirt sgòr air do bheatha an dèidh bàis” a th' anns a' bhreitheanas, ach tha e mar-thà air a shocrachadh a rèir <b>am bheil thu air gabhail ri Crìosd</b>.</p><p class=\"faq-v\">Ròmanaich 3:23 · Eòin 3:18 · Ephèsianach 2:8-9 · Lùcas 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Nach eil e gu leòr a bhith nad dhuine math, ged nach creid mi ann an Iosa?",
+  "faq.a2": "<p>Is e an smuain as cumanta, ach tha e a' mì-thuigsinn dè an fhìor dhuilgheadas. Seo dealbh.</p><p><b>Smaoinich gu bheil thu air bòrd luinge spùinneadair.</b> Ge bith dè cho glan 's a chumas tu an deic, dè cho coibhneil 's a tha thu ris a' chriutha, dè cho eisimpleireil 's a tha do bheatha — is e <b>spùinneadair</b> a th' annad fhathast, oir tha thu air do ghiùlan leis an long gun àite gu bheil i a' dol (port a' bhreitheanais). Chan e an duilgheadas “sgòr giùlain” ach <b>“dè an long don buin thu” (do dhearbh-aithne)</b>.</p><p>Mar sin chan eil an soisgeul ag ràdh “feuch nas cruaidhe a bhith math”; tha e ag ràdh <b>“atharraich long.”</b> Thig far long a' pheacaidh agus rach a-null gu Iosa — a-steach do dhearbh-aithne ùr <b>leanaibh do Dhia</b>. Chan e àrdachadh do sgòir le oidhirp a tha seo, ach earbsa anns an Tì a shìneas a-mach a làmh agus a' dol a-null gu a long-san.</p><p>Gu dearbh tha am Bìoball a' toirt iomradh air an t-saoradh dìreach mar an gluasad seo — <b>“A shaor sinn o chumhachd an dorchadais, agus a dh’atharraich sinn a‑chum rìoghachd Mac a ghràidh-san”</b> (Colosianach 1:13).</p><p>Na dèan mì-thuigse: <b>chan eil seo a' ciallachadh nach eil deagh bheatha gun fhiù.</b> Chan e “cumha” na saoraidh a th' anns a' mhathas ach a <b>thoradh</b>. An tì a dh'atharraich long, tha e a-nis a' fuireach gu math chan ann le eagal, ach le gràdh leanaibh.</p><p class=\"faq-v\">Colosianach 1:13 · Eòin 1:12 · Eòin 3:3 · Ephèsianach 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Ma tha an t-eucoir-dhèanadair a' faireachdainn sìthe, ag ràdh “tha Dia air mathanas a thoirt dhomh,” fhad 's a tha am fulangaiche fhathast a' fulang — nach eil an gràs ud fada ro shaor?",
+  "faq.a3": "<p>Tha a' cheist cothromach, agus tha am pian fìor. Ach chan e “mathanas a' Bhìobaill” a th' anns an leithid sin de thagradh — is e <b>cur-às-a-riochd</b> air a th' ann.</p><p><b>① Chan eil mathanas Dhè a-chaoidh saor.</b> Chan eil am peacadh air a sguabadh fon bhrat mar nach do thachair e idir; phàigh Dia fhèin a phrìs le beatha a Mhic fhèin. Chan e dearbhadh a th' anns a' chrann gu bheil am peacadh air a ghabhail gu aotrom, ach gu bheil am peacadh cho trom sin — am mathanas as daoire san t-saoghal.</p><p><b>② Bheir fìor aithreachas toradh.</b> Ma tha an t-eucoir-dhèanadair dàna ron fhulangaiche — “thug Dia mathanas dhomh, mar sin tha mi aig sìth” — chan e aithreachas a tha sin ach mac-samhail dheth (Mata 3:8). Agus chan eil am mathanas eadar neach agus Dia a' dubhadh às lot an fhulangaiche no ga èigneachadh gu mathanas a thoirt.</p><p><b>③ Cha tèid am peacadh a-chaoidh dìreach a leigeil seachad.</b> Tha gach peacadh air a phàigheadh ann an aon de dhà àite — <b>an dàrna cuid tha Crìosd ga ghiùlan air a' chrann</b> (don fheadhainn a chuireas earbsa ann chan eil dìteadh ann tuilleadh, Ròmanaich 8:1), <b>no giùlainidh an tì a dhiùltas e aig a' cheann thall e fhèin.</b> Mar sin chan eil “mathanas saor” ann. Tha an t-eucoir-dhèanadair fhathast ri uallach laghail a ghiùlan san t-saoghal seo cuideachd (Ròmanaich 13:1-4).</p><p><b>④ Chan eil deòir an fhulangaiche a-chaoidh beag an làthair Dhè.</b> Tha Dia a' gul leis an fheadhainn a ghuileas, a' cuimhneachadh gach deur, agus tiormaichidh e iad fhèin aig a' cheann thall (Taisbeanadh 21:4). Mar sin chan fheum am fulangaiche cuideam an dìoghaltais a ghiùlan na aonar, ach faodaidh e earbsa a chur ann an Dia ceart (Ròmanaich 12:19 — “Is leamsa dìoghaltas; ìocaidh mi, tha an Tighearna ag ràdh”).</p><p class=\"faq-v\">Mata 3:8 · Ròmanaich 8:1 · Ròmanaich 13:1-4 · Taisbeanadh 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> A bheil am Bìoball dha-rìribh na fhìor sgeul? Tha e a' faireachdainn mar shean-fhianais no nobhail.",
+  "faq.a4": "<p>Is e ceist chothromach a th' ann — agus deagh àite tòiseachaidh. Chan e an aghaidh creideimh a th' anns an teagamh ach am miann nithean a sgrùdadh gu h-onarach. Chan e seann-fhianais neo-shoilleir a th' anns a' Bhìoball “airson creidsinn ma tha thu airson,” ach clàr sgrìobhte air mullach <b>àiteachan, cinn-latha agus daoine fìor</b>. Dìreach beagan eisimpleirean.</p><p><b>① Chan e aon leabhar a th' ann ach “leabharlann” — agus fhathast tha e a' sruthadh air aon chuspair.</b> Is e cruinneachadh de <b>66 leabhraichean</b> a th' anns a' Bhìoball, air an sgrìobhadh thar mu <b>1,500 bliadhna le mu 40 ùghdaran</b> — rìghrean, cìobairean, iasgairean, cìs-mhaor, lighiche, daoine de dhiofar inbhean agus linntean, a' sgrìobhadh fa leth gun fhios air a chèile, ann an trì cànanan (Eabhra, Aramais, Greugais). Agus fhathast tha e uile a' cruinneachadh, gun mhì-rian, air <b>aon chuspair: saoradh tre Chrìosd</b>. Is e sin co-leanailteachd a tha duilich a mhìneachadh le tuiteamas no le co-òrdanachadh daonna.</p><p><b>② Tha e fhathast ga dhearbhadh on talamh (àrsaidheachd).</b> Chaidh mòran nithean a chaidh aon uair a dhiùltadh mar rud a chaidh a chruthachadh, “air an lorg a-mhàin sa Bhìoball,” a dhearbhadh an dèidh sin le cladhach. <b>Sliochd Dhaibhidh</b> le clach air an robh sgrìobhte “taigh Dhaibhidh” (Clach Tel Dan); <b>Pontius Pìlat</b>, an riaghladair a chuir Iosa gu bàs, le sgrìobhadh air an robh ainm; tunail uisge an rìgh Heseciah (2 Rìgh 20:20) leis an tunail fhèin agus a sgrìobhadh. Eadhon na <b>Hitich</b>, ris an canadh aon uair “sluagh mac-meanmnach,” nochd iad mar ìmpireachd mhòr am measg nan tobhtaichean.</p><p><b>③ Is e an sgrìobhainn àrsaidh as fheàrr a ghlèidheadh (làmh-sgrìobhainnean).</b> Ann an àireamh nan làmh-sgrìobhainnean a mhaireas, an aonta a th' aca ri chèile, agus am beàrn-ùine eadar an sgrìobhadh agus an leth-bhreac, chan eil <b>seise aig a' Bhìoball am measg sgrìobhainnean àrsaidh</b>. Bha scrolla Isaiah ron Chrìosdaidheachd am measg <b>Scrollaichean a' Mhuir Mharbh</b> (a lorgadh ann an 1947) a' freagairt ris an teacsa àbhaisteach mu 1,000 bliadhna an dèidh sin cha mhòr litir air litir — fianais gun deach am Bìoball a ghlèidheadh gu mionaideach thar nan linntean.</p><p><b>④ Thachair nithean a chaidh a sgrìobhadh ro-làimh dìreach mar sin (fàidheadaireachd).</b> Tha an Seann Tiomnadh, a chaidh a chlàradh linntean ro Iosa, a' comharrachadh gu sònraichte a bhreith ann am Betlehem (Micah 5:2), an seirbhiseach fulangach (Isaiah 53:5), agus suidheachadh a' chroinn (Salm 22). Ro mhionaideach airson a leigeil seachad mar thuiteamas.</p><p><b>⑤ Chlàraich luchd-eachdraidh taobh a-muigh a' Bhìobaill e cuideachd.</b> Tha an neach-eachdraidh Ròmanach <b>Tacitus</b> agus an neach-eachdraidh Iùdhach <b>Iosephus</b> — gun fhear seach fear dhiubh na Chrìosdaidh — a' toirt iomradh air Iosa, a chur gu bàs, agus an eaglais thràth. Gu h-àraidh, chuir na deisciopail a sgapadh le eagal <b>am beatha an cunnart</b> a' fianais air an aiseirigh — chan eil duine a' bàsachadh airson rud air a bheil fios aige gur breug a th' ann.</p><p>Gus a bhith onarach, ge-tà, tha na bunaitean seo a' sealltainn nach eil creidsinn sa Bhìoball <b>mì-reusanta ach reusanta</b>; chan e “dearbhadh” a th' annta a chuireas èiginn mar fhoirmle matamataigeach. Mar sin chan eil cinnt a' Chrìosdaidh a' tighinn o fhianais a-mhàin, ach on <b>dearbh-bheachd a bheir an Spiorad Naomh don chridhe fhad 's a leughas neach am Facal</b>. Tha am Bìoball ag ràdh — <b>“Uime sin, is ann o èisdeachd a thig creideamh, agus èisdeachd tre fhacal Dhè”</b> (Ròmanaich 10:17). Mar sin ge bith dè cho mòr 's a tha e a' faireachdainn mar fhicsean, is e <b>a leughadh dhut fhèin</b> an toiseach. Tha an fhianais a' fosgladh an dorais, agus tha cinnt a' fàs am broinn an tì a leughas.</p><p class=\"faq-v\">2 Rìgh 20:20 · Isaiah 53:5 · Micah 5:2 · Ròmanaich 10:17</p>",
+  "respond.h3": "Mar sin — dè mu mo dheidhinn-sa?",
+  "respond.sub": "Chan e fiosrachadh a th' anns a' ghràdh seo ach <b>cuireadh</b>. Ma tha an gràdh a chaidh a thàirngeadh nad àite air do chridhe a bhuaireadh, dèan an ùrnaigh seo gu mall, aon loidhne aig an aon àm.",
+  "respond.prayer": "<p>A Dhia,</p><p>tha mi ag aideachadh gur peacach mi nach urrainn mi fhìn a shàbhaladh.</p><p>Tha mi a' creidsinn gun do bhàsaich Iosa air a' chrann air mo shon agus gun do dh'èirich e a-rithist.</p><p>Thoir mathanas dha mo pheacaidhean uile, agus bho seo a-mach bi nad Thighearna air mo bheatha.</p><p>Gabh rium mar do leanabh, agus leig leam beatha ùr a chaitheamh.</p><p class=\"amen\">Ann an ainm Iosa tha mi ag ùrnaigh. Amen.</p>",
+  "respond.after": "Ma rinn thu an ùrnaigh seo o chridhe, tha am Bìoball ag ràdh gu bheil thu air <b>fàs nad leanabh do Dhia</b>. Chan eil thu nad aonar tuilleadh — lorg eaglais faisg ort agus coisich rathad a' chreideimh còmhla ri càch.",
+  "respond.read": "Leugh am Bìoball dhut fhèin — tòisich le Eòin",
+  "respond.verse": "“Ach a mheud is a ghabh ris, thug e dhaibh cumhachd a bhith nan cloinn do Dhia.” — Eòin 1:12 · Ròmanaich 10:9-10",
+  "closing.main": "Aon Dia,<br>tre aon sgeul,<br>a' tighinn às ar dèidh le<br><em>gràdh</em> nach gèill a-chaoidh.",
+  "closing.verse": "“Nach bi bàs, no beatha … no creutair sam bith eile, comasach air sinne a sgaradh o ghràdh Dhè a tha ann an Iosa Crìosd ar Tighearna.” — Ròmanaich 8:38-39",
+  "closing.small": "Air an sgeul seo, tha an Lagh, am Bàrdachd, na Fàidhean agus na Litrichean a' cur an “fheòla” ris.<br>A-nis, ge bith dè an leabhar a dh'fhosglas tu, chì thu càite a bheil thu san sgeul.",
+  "closing.share": "↗ Co-roinn an sgeul seo",
+  "about.line": "Stèidhichte air an t-sealladh <b>eachdraidh-shaoraidh, soisgeulach · Ath-leasaichte</b> a tha mòr-chuid eaglais Phròstanach Choirèa a' co-roinn.",
+  "about.contact": "Ceistean · beachdan — <a id=\"contact\" class=\"mail\">Cuir post-d thugainn</a>"
+ },
+ "epochs": [
+  {
+   "tag": "SEANN TIOMNADH · TOISEACH",
+   "title": "An Cruthachadh",
+   "date": "Anns an toiseach",
+   "one": "Rinn Dia saoghal a bha “ro mhath.”",
+   "people": "Dia; Adhamh agus Eubha",
+   "events": "Sia làithean cruthachaidh, an cinne-daonna air a dhèanamh ann an ìomhaigh Dhè, fois na Sàbaid",
+   "q": "Anns an toiseach chruthaich Dia na nèamhan agus an talamh.",
+   "cite": "Genesis 1:1",
+   "christ": "Chaidh an saoghal a dhèanamh tron “Fhacal.” Tha Soisgeul Eòin ag ràdh gur e am Facal seo Iosa fhèin (Eòin 1:1-3).",
+   "detail": "<p>Cha tòisich am Bìoball le argamaid feallsanachail ach le dearbhadh: <b>“Anns an toiseach chruthaich Dia…”</b> Chan e tubaist a th' anns an t-saoghal ach obair Dhè phearsanta.</p><ul><li><b>Ìomhaigh Dhè</b> · de na creutairean uile, chan eil ach an cinne-daonna air an dèanamh coltach ri Dia — gus eòlas a chur air agus gus an saoghal a ghleidheadh.</li><li><b>Fois</b> · tha fois an t-seachdamh là a' sealltainn a h-uile nì coileanta agus aig sìth (shalom): “bha e math.”</li><li><b>Eden</b> · an saoghal mus deach a bhriseadh, far an coisich Dia agus daoine còmhla.</li></ul>",
+   "next": "Ach tha an iomlanachd seo gu bhith air a phronnadh…"
+  },
+  {
+   "tag": "SEANN TIOMNADH · TOISICHEADH AN DUILGHEADAIS",
+   "title": "An Tuiteam",
+   "date": "Anns an toiseach",
+   "one": "Thàinig am peacadh a-steach, agus chaidh an ceangal eadar daoine agus Dia a ghearradh.",
+   "people": "Adhamh agus Eubha; an nathair (Sàtan)",
+   "events": "Ag ithe a' mheas thoirmisgte, fògradh à Eden, teachd a' bhàis agus an t-saothrach",
+   "q": "Agus cuiridh mi naimhdeas eadar thusa agus a’ bhean … bruthaidh esan do cheann.",
+   "cite": "Genesis 3:15",
+   "christ": "A' chiad ghealladh den t-soisgeul, air a thoirt dìreach an dèidh an Tuiteim: bruthaidh “sìol na mnà” ceann na nathrach — agus is e sin Iosa (Genesis 3:15; Ròmanaich 16:20; Galàtianach 4:4).",
+   "detail": "<p>Tro eas-ùmhlachd a bhith ag iarraidh a bhith “coltach ri Dia,” tha am peacadh a' tighinn a-steach don t-saoghal. Chan e dìreach riaghailt bhriste a th' anns an toradh ach <b>dàimh bhriste</b>.</p><ul><li><b>Ceanglaichean briste</b> · ri Dia (a' falach), ri chèile (a' coireachadh), ri nàdar (droighinn agus saothair).</li><li><b>Bàs</b> · tha an rabhadh “gu cinnteach gheibh thu bàs” a' fàs fìor.</li><li><b>Genesis 3:15</b> · ach am meadhan a' bhreitheanais, tha gealladh saoraidh a' tighinn an toiseach. Canaidh sgoilearan ris seo am <b>protoevangelium (a' chiad soisgeul)</b>.</li></ul>",
+   "next": "A-nis tha Dia a' gairm aon duine gus an t-saoradh a thòiseachadh…"
+  },
+  {
+   "tag": "SEANN TIOMNADH · AN GEALLADH",
+   "title": "Na h-Athraichean",
+   "date": "mu 2000 RC",
+   "one": "Tha Dia a' gealltainn do Abrahàm, “Bidh tu nad shruth-beannachaidh.”",
+   "people": "Abrahàm · Isaac · Iàcob · Iòsaph",
+   "events": "Coicheangal Abrahàim, ceangal Isaaic, dà mhac dheug Iàcoib, Iòsaph ag èirigh gu cumhachd san Èiphit",
+   "q": "Agus nì mi thu ad chinneach mòr … agus annadsa beannaichear uile theaghlaichean na talmhainn.",
+   "cite": "Genesis 12:2-3",
+   "christ": "Tha an gealladh gun tèid “a h-uile teaghlach a bheannachadh” air a choileanadh ann an Iosa, sìol Abrahàim (Galàtianach 3:16).",
+   "detail": "<p>Tha Dia a' tòiseachadh air duilgheadas a' chinne-daonna gu lèir a rèiteachadh le bhith a' gairm aon duine, <b>Abrahàm</b>. Is e cridhe na cùise an <b>coicheangal (an gealladh)</b> — cinneach mòr, fearann, agus “beannachadh dha na h-uile.”</p><ul><li><b>Creideamh</b> · chreid Abrahàm gealladh neo-fhaicsinneach, agus chaidh a chunntadh dha mar fhìreantachd (Genesis 15:6).</li><li><b>Isaac agus Iàcob</b> · tha an gealladh a' dol air adhart; tha Iàcob (Israel) na athair air an dà threubh dheug.</li><li><b>Iòsaph</b> · air a reic le a bhràithrean ach air a thogail gu cumhachd — “shònraich Dia sin a‑chum maith” (Genesis 50:20).</li></ul>",
+   "next": "A' leantainn Iòsaph, tha an teaghlach a' dol sìos don Èiphit — agus a' fàs nan tràillean…"
+  },
+  {
+   "tag": "SEANN TIOMNADH · SAORADH",
+   "title": "An t-Eisreadh 's am Fàsach",
+   "date": "mu 1446 RC",
+   "one": "Shaor Dia sluagh tràillichte agus rinn e iad dha fhèin.",
+   "people": "Maois, Aaron, Phàraoh",
+   "events": "Na deich plàighean, a' Chàisg, dol thairis air a' Mhuir Ruadh, na Deich Àithntean aig Sinai, am pàilliun, 40 bliadhna san fhàsach",
+   "q": "Agus gabhaidh mi sibh dhomh fhèin mar shluagh, agus bidh mi dhuibh am Dhia.",
+   "cite": "Ecsodus 6:7",
+   "christ": "Tha a' Chàisg — far an do thionndaidh fuil uain am bàs air falbh — a' comharrachadh Iosa, “ar n-uan Càisge,” air a cheusadh air ar son (1 Corintianach 5:7).",
+   "detail": "<p>An saoradh as motha den t-Seann Tiomnadh. Tha Israel, a bha uair na tràillean, air an saoradh le cumhachd Dhè agus air an dealbhadh mar a <b>shluagh</b>.</p><ul><li><b>A' Chàisg</b> · tha am bàs a' dol thairis air an taigh a tha air a chomharrachadh le fuil an uain — am pàtran air cùl gach ìobairt nas anmoiche.</li><li><b>A' Mhuir Ruadh</b> · saoradh far a bheil an rathad a' ruith a-mach; tha “dol a-null” na shamhla air toiseach ùr.</li><li><b>Coicheangal Shinai</b> · tro na h-Àithntean tha iad ag ionnsachadh mar a bhios iad beò mar shluagh Dhè.</li><li><b>Am pàilliun</b> · ionad-naomh gluasadach far am fuirich Dia am measg a shluaigh — ro-bhlasad de “Emanuel.”</li><li><b>40 bliadhna</b> · tha eas-ùmhlachd a' cumail ginealach a' falbh air seachran, ach tha Dia a' fuireach faisg le mana agus colbh nan neul 's an teine.</li></ul>",
+   "next": "Nan seasamh aig oir an fhearainn ghealltanaich, tha iad ag ullachadh airson a dhol a-steach…"
+  },
+  {
+   "tag": "SEANN TIOMNADH · TUINEACHADH",
+   "title": "Ceannsachadh 's Britheamhan",
+   "date": "mu 1400–1050 RC",
+   "one": "Fhuair iad am fearann, ach gun rìgh rinn gach neach mar a thogradh e.",
+   "people": "Iosua; britheamhan mar Ghideon agus Samson; Rut",
+   "events": "Tuiteam Iericho, tuineachadh ann an Canàan, cuairt ath-aithriste de pheacadh–breitheanas–saoradh",
+   "q": "Anns na làithean sin cha robh rìgh air bith ann an Israel: rinn gach duine an nì sin a bha ceart na shùilean fhèin.",
+   "cite": "Britheamhan 21:25",
+   "christ": "À sliochd Rut thig Daibhidh, agus à sliochd Dhaibhidh thig Iosa (Mata 1). Eadhon san aimhreit, tha craobh-theaghlaich a' Mhesiah a' leantainn.",
+   "detail": "<p>Fo Iosua tha iad a' dol a-steach don fhearann ghealltanach, ach an dèidh tuineachadh tha iad a' dìochuimhneachadh Dhè a dh'aithghearr. Is e an aon phàtran ath-aithriste a th' ann am Britheamhan.</p><ul><li><b>A' chuairt a' dol sìos</b> · peacadh → fòirneart → èigheach → saoraidh britheamh → peacadh a-rithist. Chan eil e ach a' fàs nas miosa.</li><li><b>Na britheamhan</b> · Gideon, Samson, Deborah — luchd-saoraidh sealach, gaisgeil ach làn fhàilligidhean.</li><li><b>Rut</b> · sgeul shoilleir air dìlseachd ann an linn dhorcha; tha bean choimheach a' dol a-steach do shliochd Dhaibhidh (agus Iosa).</li></ul>",
+   "next": "Tha an sluagh ag èigheachd, “Thoir dhuinn rìgh cuideachd!”…"
+  },
+  {
+   "tag": "SEANN TIOMNADH · LINN ÒIR",
+   "title": "An Rìoghachd Aonaichte",
+   "date": "mu 1050–930 RC",
+   "one": "Tha Dia a' gealltainn do Dhaibhidh, “Mairidh do rìgh-chathair gu bràth.”",
+   "people": "Saul · Daibhidh · Solamh",
+   "events": "A' chiad rìgh Saul, Daibhidh agus Goliath, coicheangal Dhaibhidh, tha Solamh a' togail an teampaill",
+   "q": "Agus bidh do thaigh seasmhach, agus do rìoghachd gu bràth am fhianais-sa: bidh do rìgh-chathair daingeann gu bràth.",
+   "cite": "2 Samuel 7:16",
+   "christ": "Tha an “rìgh-chathair shìorraidh” air a choileanadh ann an Iosa, mac Dhaibhidh — agus is e sin as adhbhar gun canar ris “Mac Dhaibhidh” (Lùcas 1:32-33; Mata 1:1).",
+   "detail": "<p>Mullach Israeil, air a riaghladh le trì rìghrean.</p><ul><li><b>Saul</b> · an rìgh a dh'iarr an sluagh; deagh thoiseach air a mhilleadh le eas-ùmhlachd.</li><li><b>Daibhidh</b> · “duine a rèir cridhe Dhè.” Tha e a' faighinn buaidh air Goliath agus a' dèanamh Ierusalem na phrìomh-bhaile. Tha e a' dèanamh peacadh mòr (Bat-Seba) ach tha e a' dèanamh aithreachais o chridhe (Salm 51).</li><li><b>Coicheangal Dhaibhidh (2 Samuel 7)</b> · tha Dia a' gealltainn rìgh-shliochd Dhaibhidh a stèidheachadh gu bràth — freumh chinnteach dòchas a' Mhesiah.</li><li><b>Solamh</b> · aig àirde gliocais 's beairteis tha e a' togail an <b>teampaill</b>, ach anmoch na bheatha a' tionndadh gu ìodhalan.</li></ul>",
+   "next": "An dèidh Solamh, tha an rìoghachd a' sgaradh na dhà…"
+  },
+  {
+   "tag": "SEANN TIOMNADH · CRÌONADH",
+   "title": "An Rìoghachd Roinnte",
+   "date": "930–586 RC",
+   "one": "Air a roinn na deas (Iùdah) agus na tuath (Israel), tha an nàisean a' sleamhnachadh gu sgrios.",
+   "people": "Rìghrean an dà rìoghachd; fàidhean mar Eliah, Isaiah, Ieremiah",
+   "events": "Tha an rìoghachd a' sgaradh, tha ìodhal-aoradh a' sgaoileadh, tha na fàidhean a' rabhadh",
+   "q": "Agus rinn Israel ceannairc an aghaidh taigh Dhaibhidh gus an là‑an‑diugh.",
+   "cite": "1 Rìgh 12:19",
+   "christ": "San linn seo tha na fàidhean a' ro-innse a' Mhesiah a tha ri teachd nas soilleire na bha riamh (Isaiah 9:6; Isaiah 53).",
+   "detail": "<p>Ann an làithean mac Sholaimh tha an nàisean a' sgaradh: <b>rìoghachd thuathach Israeil</b> (10 treubhan, prìomh-bhaile Samaria) agus <b>rìoghachd dheasach Iùdah</b> (2 threubh, prìomh-bhaile Ierusalem).</p><ul><li><b>Israel (tuath)</b> · tha gach rìgh a' dèanamh seirbheis do ìodhalan; tha e a' tuiteam ron Asiria ann an 722 RC.</li><li><b>Iùdah (deas)</b> · tha sliochd Dhaibhidh a' leantainn, le beagan rìghrean math mar Heseciah agus Iosiah, ach gu h-iomlan a' crìonadh.</li><li><b>Na fàidhean</b> · tha Eliah, Amos, Isaiah, Ieremiah ag èigheachd “tillibh!” Tha fàidheadaireachd a' Mhesiah a' ruighinn an ìre as beairtiche an seo (an “seirbhiseach fulangach” aig Isaiah 53).</li></ul>",
+   "next": "Aig a' cheann thall tha am breitheanas a chaidh a rabhadh a' tighinn — tha iad air an giùlan a-steach don fhògradh…"
+  },
+  {
+   "tag": "SEANN TIOMNADH · BREITHEANAS",
+   "title": "Am Fògradh",
+   "date": "722 / 586 RC",
+   "one": "Tha an nàisean a' tuiteam agus tha an sluagh air an slaodadh gu tìrean coimheach.",
+   "people": "Daniel, Eseciel, Nebuchadnesar",
+   "events": "Tha Israel a' tuiteam ron Asiria (722), tha Iùdah a' tuiteam ro Bhàbilon agus tha an teampall air a sgrios (586)",
+   "q": "Làimh ri aibhnichean Bhàbiloin, an sin shuidh agus ghuil sinn, nuair a chuimhnich sinn air Sion.",
+   "cite": "Salm 137:1",
+   "christ": "Ann an doimhne an eu-dòchais tha Ieremiah a' gealltainn “coicheangal nuadh” (Ieremiah 31:31) — an dearbh choicheangal a sheulaicheas Iosa aig an t-Suipear Dheireannach.",
+   "detail": "<p>Tha na rabhaidhean a' tighinn gu buil. Tha an teampall a' losgadh agus tha an sluagh air an giùlan gu Bàbilon — a' call an fhearainn, an rìgh, agus an teampaill: an ìre as ìsle de na h-uile.</p><ul><li><b>Dà thuiteam</b> · Israel (Asiria, 722 RC) agus Iùdah (Bàbilon, 586 RC).</li><li><b>Daniel</b> · eisimpleir creideimh eadhon ann an cùirt phàganach (sloc nan leòmhann); tha e a' faicinn lèirsinn air “rìoghachd shìorraidh” a tha ri teachd.</li><li><b>Sradag dòchais</b> · tha lèirsinn Eseciel air na cnàmhan tioram a' tighinn beò (Eseciel 37) agus “coicheangal nuadh” Ieremiah a' comharrachadh ri teachd san dorchadas.</li></ul>",
+   "next": "Trì fichead 's a deich bliadhna an dèidh sin, tha Dia a' fosgladh an t-slighe — tha iad a' dol dhachaigh…"
+  },
+  {
+   "tag": "SEANN TIOMNADH · ATH-NUADHACHADH",
+   "title": "An Tilleadh",
+   "date": "538–430 RC",
+   "one": "Tha iad a' tilleadh agus ag ath-thogail an teampaill agus nam ballachan.",
+   "people": "Esra, Nehemiah, Esteir, Serubabel",
+   "events": "Tilleadh le òrdugh Chìruis, ag ath-thogail an teampaill, ag ath-thogail ballachan Ierusaleim, ag ath-nuadhachadh an Fhacail",
+   "q": "Oir is e gàirdeachas an Tighearna ur neart.",
+   "cite": "Nehemiah 8:10",
+   "christ": "Tha Malachi, leabhar mu dheireadh an t-Seann Tiomnaidh, a' crìochnachadh le bhith a' ro-innse teachdaire gus slighe a' Mhesiah ullachadh: “Cuiridh mise a‑mach mo theachdaire” (Malachi 3:1).",
+   "detail": "<p>Le òrdugh rìgh na Persia, Cìrus (538 RC), tha an tilleadh a' tòiseachadh. Ann an trì tonnan tha iad a' tilleadh agus ag ath-thogail na chaidh a sgrios.</p><ul><li><b>Serubabel</b> · ag ath-thogail an teampaill (crìochnaichte 516 RC).</li><li><b>Esra</b> · a' teagasg an Fhacail a-rithist agus ag ath-bheothachadh a' chreideimh.</li><li><b>Nehemiah</b> · ag ath-thogail ballachan Ierusaleim ann an 52 là.</li><li><b>Esteir</b> · a' sàbhaladh nan Iùdhach sa Persia o sgrios — “airson a leithid seo de àm.”</li><li><b>Fhathast ag iarraidh</b> · tha an teampall na sheasamh, ach chan eil rìgh ann mar Dhaibhidh. Tha an sluagh a' feitheamh ris a' Mhesiah.</li></ul>",
+   "next": "Agus an uair sin… mar gun do thuit nèamh sàmhach, tha 400 bliadhna a' dol seachad."
+  },
+  {
+   "tag": "EADAR NA TIOMNAIDHEAN · AG ULLACHADH AN ÀRD-ÙRLAIR",
+   "title": "Na Bliadhnaichean Sàmhach",
+   "date": "mu 430–4 RC",
+   "one": "400 bliadhna gun ghuth fàidh — ach bha an t-àrd-ùrlar ga ullachadh gu sàmhach.",
+   "people": "Alasdair Mòr, na Macabaich, an Ròimh",
+   "events": "Persia → A' Ghrèig → neo-eisimeileachd Mhacabach → riaghladh Ròmanach",
+   "q": "Ach nuair a thàinig coileanadh na h‑aimsir, chuir Dia a Mhac fhèin uaithe, a ghineadh o mhnaoi.",
+   "cite": "Galàtianach 4:4",
+   "christ": "Bha an “ullachadh àrd-ùrlair” seo gu lèir na obair Dhè gus an tigeadh Iosa dìreach aig “coileanadh na h-aimsir.”",
+   "detail": "<p>Bho Mhalachi chun an Tiomnaidh Nuaidh, tha mu 400 bliadhna a' dol seachad gun Sgriobtar ùr. Ach air cùl eachdraidh bha Dia ag ullachadh na slighe airson an t-soisgeil.</p><ul><li><b>Ìmpireachdan ag atharrachadh làmhan</b> · Persia → A' Ghrèig (Alasdair, 333 RC) → na Ptolemaich 's na Seleucaich → ar-a-mach nam Macabach (167 RC) → an Ròimh (63 RC).</li><li><b>Greugais</b> · tha ceannsachadh Alasdair a' dèanamh Greugais na cànan choitcheann; tha an Seann Tiomnadh air eadar-theangachadh gu Greugais (an Septuagint), ag ullachadh na slighe airson an soisgeul a sgaoileadh gu luath.</li><li><b>Rathaidean is sìth na Ròimhe</b> · tha rathaidean math-thogte agus an “Pax Romana” nan rathaidean-mòra airson miseanaraidheachd.</li><li><b>Sionagogan is buidhnean</b> · tha teagasg san t-sionagog a' gabhail freumh; tha na Pharasaich 's na Sadusaich ag èirigh; agus tha <b>iarrtas airson a' Mhesiah</b> a' fàs abaich.</li></ul>",
+   "next": "An uair sin tha an sàmhchair a' briseadh — mu dheireadh, tha e a' tighinn."
+  },
+  {
+   "tag": "TIOMNADH NUADH · COILEANADH",
+   "title": "Tha Iosa a' Tighinn",
+   "date": "mu 4 RC–AD 30",
+   "one": "Thàinig am Mesiah gealltanach, bhàsaich e, agus dh'èirich e a-rithist.",
+   "people": "Iosa, an dà dheisciopal dheug, Eòin Baist",
+   "events": "An teachd 'na fheòil, a mhinistrealachd 's a theagasg 's a mhìorbhailean, bàs air a' chrann, aiseirigh air an treas là",
+   "q": "Agus rinneadh am Facal na fheòil, agus ghabh e còmhnaidh nar measg-ne … làn gràis agus fìrinn.",
+   "cite": "Eòin 1:14",
+   "christ": "Sìol na mnà (sealladh 2), beannachadh Abrahàim (3), uan na Càisge (4), rìgh sìorraidh Dhaibhidh (6), an coicheangal nuadh (8) — uile air an coileanadh ann an aon duine, Iosa: ar fìor Fhàidh, Shagart agus Rìgh.",
+   "detail": "<p>Tha an sàmhchair a' briseadh; tha am Fear Gealltanach a' tighinn. Tha na ceithir soisgeulan a' fianais air beatha, bàs agus aiseirigh Iosa o cheithir caoban.</p><ul><li><b>An teachd 'na fheòil</b> · tha Dia a' fàs na dhuine (Emanuel, “Dia maille rinn”), ann an àite ìosal Bhetlehem.</li><li><b>Ministrealachd</b> · tha e a' teagasg rìoghachd Dhè, a' slànachadh nan tinn, a' gairm nam peacach. “An tì a chunnaic mise, chunnaic e an t-Athair.”</li><li><b>An crann</b> · tha e a' pàigheadh prìs a' pheacaidh 's a' bhàis a thug an Tuiteam (sealladh 2). Fìor uan na Càisge.</li><li><b>Aiseirigh</b> · ag èirigh air an treas là, tha e a' briseadh cumhachd a' pheacaidh, a' bhàis 's Shàtain — mar-thà air a' chrann “air dha uachdaranachdan agus cumhachdan a chreachadh … a’ dèanamh buaidh-chaithreim os an cionn” (Colosianach 2:15).</li></ul><p>Mar sin is e Iosa ar <b>fìor Fhàidh</b> (a' sealltainn na slighe gu Dia), ar <b>fìor Shagart</b> (a' dèanamh rèite airson peacaidh le a chorp fhèin), agus ar <b>fìor Rìgh</b> (a' faighinn buaidh air peacadh, bàs 's Sàtan agus a' riaghladh gu bràth).</p>",
+   "next": "Tha Iosa aiseirighte a' cur a dheisciopail a-mach don t-saoghal…"
+  },
+  {
+   "tag": "TIOMNADH NUADH · LEUDACHADH",
+   "title": "Tha an Eaglais a' Tòiseachadh",
+   "date": "mu AD 30–",
+   "one": "Tha an Spiorad a' tighinn, agus tha an soisgeul a' sgaoileadh gu iomall na talmhainn.",
+   "people": "Peadar, Pòl, an eaglais thràth",
+   "events": "An Spiorad air a dhòrtadh aig a' Chuingeis, tha an eaglais air a breith, tha an soisgeul a' sgaoileadh o Ierusalem don Ròimh tro gheur-leanmhainn",
+   "q": "Ach gheibh sibh cumhachd nuair a thig an Spiorad Naomh oirbh: agus bidh sibh nur fianaisean dhòmhsa … gu iomall na talmhainn.",
+   "cite": "Gnìomharan 1:8",
+   "christ": "Tha an sgeul seo fhathast a' dol air adhart. Tha am Bìoball a' crìochnachadh le bhith a' gealltainn gun tig Iosa a-rithist agus gun dèan e na h-uile nithean ùr (Taisbeanadh 21).",
+   "detail": "<p>An dèidh do Iosa dìreadh suas, tha an Spiorad gealltanach a' tighinn aig a' Chuingeis agus tha an eaglais air a breith. Tha an soisgeul a' sgaoileadh gu spreadhach.</p><ul><li><b>A' Chuingeis</b> · tha an Spiorad a' tionndadh dheisciopail eagalach gu fianaisean dàna.</li><li><b>Peadar</b> · a' searmonachadh an t-soisgeil dha na h-Iùdhaich ann an Ierusalem.</li><li><b>Pòl</b> · o gheur-leanmhainniche gu abstol, a' suidheachadh eaglaisean air feadh saoghal nan Cinneach agus a' sgrìobhadh nan litrichean.</li><li><b>Gu iomall na talmhainn</b> · Ierusalem → Iudèa → Samaria → an Ròimh. Tha an gealladh do Abrahàm air “na h-uile teaghlaichean” a' tighinn gu buil.</li><li><b>Agus sinne</b> · chan eil an sgeul a' crìochnachadh; tha e a' brùthadh air adhart gu tilleadh Iosa agus an nèamh ùr 's an talamh ùr.</li></ul>",
+   "next": "Ach chan eil an sgeul a' crìochnachadh an seo…"
+  },
+  {
+   "tag": "TIOMNADH NUADH · COILEANTACHD",
+   "title": "An t-Ath-nuadhachadh",
+   "date": "Fhathast ri teachd",
+   "one": "Tha Iosa a' tighinn a-rithist agus a' dèanamh na h-uile nithean ùr.",
+   "people": "Iosa a' tilleadh; na h-uile cinnich",
+   "events": "An dàrna teachd, am breitheanas deireannach, deireadh peacaidh·bàis·dheur, nèamh ùr agus talamh ùr",
+   "q": "Agus tiormaichidh Dia gach deur on sùilean; agus cha bhi bàs ann nas mò, no bròn, no èigheach, agus cha bhi pian ann nas mò.",
+   "cite": "Taisbeanadh 21:4",
+   "christ": "Tha Eden a' chiad chruthachaidh air ath-nuadhachadh mu dheireadh mar an “Ierusalem Nuadh.” Tha Dia a' fuireach còmhla ri a shluagh gu bràth — coileantachd Emanueil (Taisbeanadh 21:3; Mata 1:23).",
+   "detail": "<p>Chan eil am Bìoball a' crìochnachadh le linn na h-eaglais. Tha an leabhar mu dheireadh aige, Taisbeanadh, a' sealltainn Iosa <b>a' tighinn a-rithist</b> gus a h-uile nì a choileanadh.</p><ul><li><b>An dàrna teachd</b> · tha an rìgh gealltanach a' tilleadh ann an glòir.</li><li><b>Buaidh dheireannach</b> · tha Sàtan agus bàs air an sgrios gu bràth, agus tha Crìosd a' riaghladh mar Rìgh nan rìgh (1 Corintianach 15:25-26; Taisbeanadh 20:10).</li><li><b>Breitheanas is aiseirigh</b> · tha gach eucoir air a cheartachadh, agus tha na mairbh air an togail.</li><li><b>Nèamh ùr is talamh ùr</b> · tha peacadh, bàs, deòir, agus pian a' dol à sealladh gu bràth (Taisbeanadh 21:4).</li><li><b>Eden air ath-nuadhachadh</b> · ann an “Ierusalem Nuadh” nas fheàrr na an toiseach, tha Dia a' fuireach còmhla ri a shluagh gu bràth — an ceann-uidhe gu bheil am Bìoball gu lèir air a bhith a' dol.</li></ul><p>Mar sin is e a-nis linn an <b>“mar-thà, ach chan ann fhathast”</b>: ann an Iosa tha an saoradh <b>mar-thà</b> air a choileanadh, ach tha a choileantachd <b>fhathast</b> ga feitheamh.</p>",
+   "next": "Mar sin dè a tha an sgeul gu lèir seo a' ciallachadh dhomh-sa?"
+  }
+ ],
+ "love": [
+  "Cha tòisich an sgeul le breitheanas ach le cruthachadh air a dhòrtadh ann an gràdh.",
+  "An tiota a pheacaich daoine, gheall Dia saoradh an sin fhèin air an spot.",
+  "Thàinig Dia an toiseach gu duine neo-airidh, ghairm e air ainm e, agus rinn e na shruth-beannachaidh e.",
+  "Chuala e osnaich sluaigh thràillichte agus thàinig e fhèin a-nuas gus an saoradh.",
+  "Air a bhrath a-rithist 's a-rithist, gidheadh gach uair a dh'èigh iad chuir e fear-saoraidh agus thog e suas iad.",
+  "Cha tilgeadh e air falbh eadhon Daibhidh tuiteamach, agus troimhe gheall e Rìgh sìorraidh.",
+  "Do shluagh a thionndaidh an cùl ris, chùm e a' cur fhàidhean, ag aslachadh, “Thig dhachaigh, gun robh math agad.”",
+  "Chaidh e còmhla riutha eadhon don tìr as dorcha den fhògradh, agus gheall e ath-nuadhachadh.",
+  "Eadhon do shluagh a dh'fhàillig a-rithist 's a-rithist, cha toireadh e air ais a ghealladh.",
+  "Eadhon tro 400 bliadhna sàmhach, gun fhaicinn, bha e ag ullachadh slighe na saoraidh.",
+  "Fhad 's a bha sinn fhathast nar peacaich, chuir e a Mhac gus a bheatha fhèin a leigeil sìos.",
+  "An gràdh a fhuair sinn, tha e a-nis ga chur a' sruthadh a-mach don t-saoghal gu lèir.",
+  "Mu dheireadh tiormaichidh e gach deur agus nì e na h-uile nithean ùr ann an gràdh."
+ ],
+ "mis": [
+  {
+   "w": "“Carson a rinn Dia daoine a b' urrainn peacadh? Nach robh e na b' fheàrr gun a bhith gar dèanamh idir?”",
+   "t": "Chruthaich Dia an saoghal agus daoine chan ann o easbhaidh sam bith, ach o ghràdh a' cur thairis. Tha a bhith a' dèanamh dhaoine nan <b>pearsachan a tha a' dàimheadh ri Dia</b> na ghràdh ann fhèin. Agus cha robh fiù teachd a' pheacaidh taobh a-muigh plana saoraidh Dhè (Ephèsianach 1:4-5). Chan e breitheanas a th' anns a' chiad sealladh den Bhìoball ach gràdh."
+  },
+  {
+   "w": "“Air fhògradh agus air bàs fhaighinn dìreach airson aon mheas ithe — nach eil Dia fada ro chruaidh?”",
+   "t": "Bha a bhith air a chur a-mach à Eden an dà chuid na bhreitheanas agus na thròcair. A bhith ag ithe de chraobh na beatha agus a bhith beò gu bràth san staid bhriste, dhealaichte-o-Dhia sin, bhiodh sin na ribeadh ann am fulangas gu bràth (Genesis 3:22). Dh'fhosgail leigeil a' bhàis an rathad air ais, agus an sin fhèin gheall Dia Fear-saoraidh (Genesis 3:15). Bha gràdh mar-thà am broinn a' bhreitheanais."
+  },
+  {
+   "w": "“Chaidh Abrahàm a thaghadh airson 's gun robh creideamh mòr aige — nach e gaisgich mhoralta a th' anns a h-uile neach sa Bhìoball?”",
+   "t": "Rinn Abrahàm breug agus theagamh e; bha Iàcob na mhealltair. Cha do ghairm Dia daoine “iomchaidh” ach daoine fàilligeach, tre ghràs. Cha b' e am mathas an t-adhbhar ach gràdh dìleas Dhè (Deuteronomi 7:7-8)."
+  },
+  {
+   "w": "“Nach e deuchainn no cumha a th' anns an Lagh (na h-Àithntean) a dh'fheumas tu a chur seachad gus a bhith air do shàbhaladh?”",
+   "t": "Shaor Dia iad <b>mus</b> tug e dhaibh an Lagh. Tha eadhon na Deich Àithntean a' tòiseachadh le dearbhadh saoraidh: “Is mise an Tighearna do Dhia a thug a‑mach thu à tìr na h‑Eiphit” (Ecsodus 20:2). Chan e “glèidh e gus a bhith air do shàbhaladh” a th' anns an Lagh, ach treòrachadh gràdhach air mar a bu chòir do shluagh mar-thà-saorta a bhith beò (Deuteronomi 7:7-9). Tha gràs an-còmhnaidh a' tighinn an toiseach; is e an ùmhlachd am freagairt."
+  },
+  {
+   "w": "“Bha ceannsachadh Chanàain na chasgairt gun tròcair — mar sin tha Dia an t-Seann Tiomnaidh dha-rìribh cruaidh.”",
+   "t": "Is e cuspair duilich a tha seo nach gabh a rèiteachadh ann an aon sheantans agus a dh'iarras cùram. Ach chan eil am Bìoball ga thaisbeanadh mar fhòirneart air thuaiream ach mar bhreitheanas an dèidh linntean de fhoighidinn ri olc anabarrach (a' gabhail a-steach ìobairt chloinne) (Genesis 15:16; Deuteronomi 9:4-5; Lebhiticus 18:24-25). Tha Dia slaodach eadhon gu breitheanas, agus ghabh e gu toilichte ris an fheadhainn a thionndaidh thuige — eadhon coigrich mar Rahab agus Rut (Iosua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“Bha Daibhidh na ghaisgeach gun fhàillean — sin as adhbhar gun canadh iad ris ‘duine a rèir cridhe Dhè.’”",
+   "t": "Rinn Daibhidh adhaltranas agus eadhon murt. Chan eil “duine a rèir cridhe Dhè” a' ciallachadh gun fhàillean, ach neach nach do chleith a pheacadh — a rinn aithreachas gu tur agus a chùm a' tilleadh gu Dia (Salm 51). Cha tilg gràdh Dhè air falbh eadhon an fheadhainn a thuiteas gu cruaidh."
+  },
+  {
+   "w": "“Is e fiosaichean a dh'innseas an àm ri teachd a th' anns na fàidhean / chan eil ann an Dia an t-Seann Tiomnaidh ach fearg.”",
+   "t": "Chan e “a' ro-innse an àm ri teachd” cridhe an fhàidh ach aslachadh goirt Dhè: “Thig air ais, gun robh math agad.” Tha eadhon rabhaidhean breitheanais ag amas chan ann air sgrios ach air daoine a thionndadh agus an saoradh — “chan eil tlachd air bith agamsa ann am bàs an aingidh” (Eseciel 33:11)."
+  },
+  {
+   "w": "“Tha am fògradh a' dearbhadh gun do thrèig Dia Israel gu tur.”",
+   "t": "Cha b' e trèigsinn a bha san fhògradh ach smachd agus glanadh a dh'ionnsaigh leanaibh ghràidh (Eabhraidhich 12:6). Cha do dh'fhalbh Dia; bha e còmhla ri Daniel ann an cridhe an fhògraidh agus gheall e, “Is aithne dhomh na smuaintean a smaoinich mi dur taobh … smuaintean sìthe, agus chan e aimhleas, a thoirt dhuibh sliochd agus dòchais” (Ieremiah 29:11)."
+  },
+  null,
+  {
+   "w": "“Gun fhacal airson 400 bliadhna, bha Dia air falbh no na fhois.”",
+   "t": "Chan e neo-làthaireachd a th' anns an t-sàmhchair. Cha do labhair e a-mhàin, fhad 's a bha e fad na h-ùine a' gluasad ìmpireachdan, chànanan, agus rathaidean gus an t-àrd-ùrlar a dh'ullachadh airson saoraidh. Anns an tiota as sàmhaiche, bha Dia ag obair as cruaidhe, ann an gràdh (Galàtianach 4:4)."
+  },
+  {
+   "w": "“Cha robh ann an Iosa ach aon deagh thidsear moralta / bha an crann na chall brònach.”",
+   "t": "Thagair Iosa gum b' e Dia fhèin a bh' ann (Eòin 8:58), agus cha b' e tubaist no call a bha sa chrann ach gràdh dealbhte. Cha deach a shlaodadh ann le èigin; leig e a bheatha fhèin sìos (Eòin 10:18). “Gràdh as mò na seo chan eil aig neach air bith, gun leigeadh duine a anam sìos airson a chàirdean” (Eòin 15:13)."
+  },
+  {
+   "w": "“Is e cluba creideimh de dhaoine foirfe a th' anns an eaglais, no dìreach togalach.”",
+   "t": "Chan e coimhearsnachd de “naoimh chrìochnaichte” a th' anns an eaglais ach de <b>pheacaich a fhuair mathanas</b>. Thug fiù an t-abstol Pòl “an ciad-fhear” air fhèin am measg pheacach (1 Timòteus 1:15). Rinn an eaglais thràth connsachadh agus tuisleadh cuideachd (Gnìomharan 6:1; 1 Corintianach 1:11). Chan e àite airson bòst a th' ann, ach daoine a' toirt seachad a' ghràidh a fhuair iad (Eòin 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Peacadh-gin — chan eil duine ionraic",
+   "body": "Chan e an duilgheadas “beagan dhroch ghnìomhan” ach freumh a' chridhe. O Adhamh, tha a h-uile neach air a bhreith fo pheacadh agus chan urrainn dha ruighinn gu Dia leis fhèin.",
+   "vref": "Ròmanaich 3:10-12, 23",
+   "vtext": "Chan eil ionracan ann, chan eil fiù a h‑aon … Oir pheacaich na h‑uile, agus tha iad air teachd geàrr air glòir Dhè."
+  },
+  {
+   "title": "Chan urrainn don Lagh mo shàbhaladh",
+   "body": "Chan e fàradh a th' anns an Lagh ach sgàthan. Mar as cruaidhe a dh'fheuchas tu, 's ann as motha a sheallas e cho fada 's a tha thu a' tuiteam goirid. Is e an t-adhbhar aige ar treòrachadh gu Crìosd.",
+   "vref": "Ròmanaich 3:20 · Galàtianach 3:24",
+   "vtext": "Is ann tre an lagh a tha eòlas peacaidh … b’e an lagh ar n‑oide-fòghlaim gu ar treòrachadh gu Crìosd."
+  },
+  {
+   "title": "Tre ghràs — tìodhlac, chan e oidhirp",
+   "body": "Chan e an tuarastal airson airidheachd a choisinn thu a th' anns an t-saoradh, ach tìodhlac saor dhaibhsan nach eil airidh air. Mar sin chan urrainn do dhuine bòst a dhèanamh.",
+   "vref": "Ephèsianach 2:8-9",
+   "vtext": "Oir is ann le gràs a tha sibh air ur tèarnadh, tre chreideamh … Chan ann o obraichean, a‑chum nach dèanadh neach air bith uaill."
+  },
+  {
+   "title": "Air ar fìreanachadh tre chreideamh",
+   "body": "Chan ann le bhith a' gleidheadh an Lagha, ach le creideamh ann an Iosa Crìosd, tha thu air do chunntadh ionraic — air d' èideadh chan ann ann ad fhìreantachd fhèin ach na fhìreantachd-san.",
+   "vref": "Ròmanaich 5:1 · Galàtianach 2:16",
+   "vtext": "Air dhuinn a bhith air ar fìreanachadh tre chreideamh, tha sìth againn ri Dia … nach eil duine air fhìreanachadh o obraichean an lagha, ach tre chreideamh Iosa Crìosd."
+  },
+  {
+   "title": "Tha am Bìoball a' comharrachadh Iosa",
+   "body": "Chan e leabhar mu dhaoine mòra no fèin-chuideachaidh a th' anns a' Bhìoball. O Ghenesis gu Taisbeanadh, tha gach duilleag a' fianais air aon neach — Iosa Crìosd.",
+   "vref": "Eòin 5:39 · Lùcas 24:27",
+   "vtext": "Is iad sin a tha a’ toirt fianais mum thimcheall-sa … dh’eadar-mhìnich e dhaibh anns na sgriobtairean uile na nithean ma thimcheall fhèin."
+  },
+  {
+   "title": "Rìoghachd Dhè — teachdaireachd mheadhanach Iosa",
+   "body": "An cuspair a theagaisg Iosa as motha. Bhris riaghladh Dhè mar Rìgh a-steach don t-saoghal seo le Iosa agus thèid a choileanadh nuair a thilleas e. Tron chrann 's an aiseirigh, is e Iosa am fìor Rìgh a fhuair buaidh air peacadh, bàs 's Sàtan.",
+   "vref": "Marcus 1:15",
+   "vtext": "Choileanadh an aimsir, agus tha rìoghachd Dhè am fagas; dèanaibh-se aithreachas, agus creidibh an soisgeul."
+  },
+  {
+   "title": "An soisgeul — choilean e a h-uile nì",
+   "body": "Am fiach a' pheacaidh nach b' urrainn dhomh a phàigheadh gu bràth, phàigh Iosa e nam àite air a' chrann, agus le bhith ag èirigh fhuair e buaidh air bàs. Chan eil mi a' leigeil mo thaic air “dèan seo” ach air “tha e crìochnaichte.”",
+   "vref": "Eòin 19:30 · Ròmanaich 5:8",
+   "vtext": "Tha e crìochnaichte … tha Dia a’ moladh a ghràidh fhèin dhuinne, do bhrìgh nuair a bha sinn fhathast nar peacaich gun d’fhuiling Crìosd bàs air ar son."
+  }
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Ecsodus": "EXO",
+  "Lebhiticus": "LEV",
+  "Àireamh": "NUM",
+  "Deuteronomi": "DEU",
+  "Iosua": "JOS",
+  "Britheamhan": "JDG",
+  "Rut": "RUT",
+  "Esra": "EZR",
+  "Nehemiah": "NEH",
+  "Esteir": "EST",
+  "Iob": "JOB",
+  "Salm": "PSA",
+  "Gnàth-fhacal": "PRO",
+  "Eclesiastes": "ECC",
+  "Dàn Sholaimh": "SNG",
+  "Isaiah": "ISA",
+  "Ieremiah": "JER",
+  "Tuireadh Ieremiah": "LAM",
+  "Eseciel": "EZK",
+  "Daniel": "DAN",
+  "Hosèa": "HOS",
+  "Ioel": "JOL",
+  "Amos": "AMO",
+  "Obadiah": "OBA",
+  "Ionah": "JON",
+  "Micah": "MIC",
+  "Nahum": "NAM",
+  "Habacuc": "HAB",
+  "Sephaniah": "ZEP",
+  "Hagai": "HAG",
+  "Sechariah": "ZEC",
+  "Malachi": "MAL",
+  "Mata": "MAT",
+  "Marcus": "MRK",
+  "Lùcas": "LUK",
+  "Eòin": "JHN",
+  "Gnìomharan": "ACT",
+  "Ròmanaich": "ROM",
+  "Galàtianach": "GAL",
+  "Ephèsianach": "EPH",
+  "Philipianach": "PHP",
+  "Colosianach": "COL",
+  "Tìtus": "TIT",
+  "Philemoin": "PHM",
+  "Eabhraidhich": "HEB",
+  "Seumas": "JAS",
+  "Iùdas": "JUD",
+  "Taisbeanadh": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Rìgh": "1KI",
+  "2 Rìgh": "2KI",
+  "1 Eachdraidh": "1CH",
+  "2 Eachdraidh": "2CH",
+  "1 Corintianach": "1CO",
+  "2 Corintianach": "2CO",
+  "1 Tesalònianaich": "1TH",
+  "2 Tesalònianaich": "2TH",
+  "1 Timòteus": "1TI",
+  "2 Timòteus": "2TI",
+  "1 Peadar": "1PE",
+  "2 Peadar": "2PE",
+  "1 Eòin": "1JN",
+  "2 Eòin": "2JN",
+  "3 Eòin": "3JN"
+ },
+ "yv": 1531,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

@@ -1,0 +1,431 @@
+{
+ "menuName": "Føroyskt",
+ "htmlLang": "fo",
+ "dir": "ltr",
+ "brand": "Bíblian í einum skriði",
+ "docTitle": "Bíblian í einum skriði · Frá sköpan til kirkju",
+ "share": {
+  "title": "Bíblian í einum skriði",
+  "text": "Í einum einasta skriði kanst tú uppdaga hina stóru søgu Bíbliunnar — og hví Jesus kom."
+ },
+ "ui": {
+  "people": "Persónar",
+  "events": "Týdningarmiklar hendingar",
+  "christLabel": "Vísir á Jesus",
+  "loveLabel": "Kærleiki, sum ikki gevst",
+  "mythWrong": "Vanligur misskiljingur",
+  "mythRight": "Sannleikin",
+  "more": "Les meira",
+  "version": "(Bíblian 2019)"
+ },
+ "labels": {
+  "start": "Byrjan",
+  "thread": "Søgan",
+  "gospel": "Gleðiboðskapurin",
+  "about": "Um"
+ },
+ "s": {
+  "ui.share": "↗ Deil",
+  "ui.toast": "Slóðin er avritað 📋",
+  "ui.footer": "Bíblian í einum skriði · Bíbliutilvísingar úr Bíbliuni 2019",
+  "hero.kicker": "FRÁ SKÖPAN TIL KIRKJU",
+  "hero.title": "Bíblian,<br><span class=\"em\">í einum skriði</span>",
+  "hero.sub": "Í einum einasta skriði kanst tú uppdaga hina stóru søgu Bíbliunnar — og hví Jesus kom.",
+  "hero.cue": "Skrið niður<span>↓</span>",
+  "thread.eyebrow": "EIN SETNINGUR, IÐ BINDUR ALT SAMAN",
+  "thread.h2": "Tá ið alt kemur til alt, er Bíblian ein einasta søga",
+  "thread.flow": "<b>Lyfti</b><span class=\"arw\">→</span><b>Bíðan</b><span class=\"arw\">→</span><b>Uppfylling</b>",
+  "thread.note": "Guð <b>lovar</b> (sáttmálin), fólkið <b>bíðar</b> langa tíð, og at enda verður alt <b>uppfylt</b> og fullført í Jesusi. Fylg teimum 13 myndunum niðanfyri í hesum streymi — trýst á <b>«Les meira»</b> á hvørjum spjaldri fyri hina dýpri søguna.",
+  "gospel.eyebrow": "HVAT HENDAN SØGAN TÝÐIR FYRI «MEG»",
+  "gospel.h2": "Hjartað í Bíbliuni av sonnum",
+  "gospel.lead": "Bíblian er <b>ikki ein lærubók um at «vera ein góður maður».</b>",
+  "gospel.sublead": "Hon er søgan um, hvussu Guð, <b>eina av náði</b>, bjargaði syndarum, sum onga leið kundu frelsa seg sjálvar. Í miðjuni stendur Jesus Kristus.",
+  "gospel.mirror": "<h3>Hin endaleysi ringur Ísraels er av sonnum ein mynd av «mær»</h3><div class=\"cycle\"><b>Avgudadýrkan</b><span class=\"a\">→</span><b>Líðing</b><span class=\"a\">→</span><b>Rópan</b><span class=\"a\">→</span><b>Guð bjargar</b><span class=\"a\">→</span><b>Avgudadýrkan aftur…</b></div><p>Frá dómarunum til útlegdina endurtekur Ísrael henda ringin uttan enda. Bíblian skrásetti hetta ikki, fyri at vit kundu spotta: «So vesæl vóru tey.»</p><p>Tað er ein <b>spegil</b>. Pointið er ikki «Ísrael gjørdi tað», men <b>«eg geri tað sama»</b> (Fyrra Korintbrævið 10:11).</p><p>Ein <b>avgud</b> er ikki bert eitt útskorið standmynd. Tað er <b>alt, sum vit elska ella líta á meira enn Guð</b> — pengar, eydnu, vælvild, fólk, ja, sjálvur eg. Og at brúka Guð sum <b>amboð til at fáa tað, eg vil</b>, er eisini avgudadýrkan.</p><p class=\"punch\">Tá ið alt kemur til alt, er hin dýpsti avgudurin «eg sjálvur, sitandi í Guðs hásæti».</p>",
+  "gospel.coreIntro": "Hvussu frelsir Guð so ein slíkan syndara? Her er hjartað í gleðiboðskapinum, sum Bíblian boðar.",
+  "gospel.crux": "<p class=\"crux-lead\">Øll Bíblian vísir á ein einasta stað.</p><p>Fólk kundu ikki sjálvi bróta ringin av synd, og eingin var rættvísur. So mátti onkur <b>gjalda prísin í teirra stað</b>.</p><p>Jesus kom ikki bert til at geva góða lærdóm. Tá ið onki annað var til at frelsa meg, <b>varð hann noyddur at koma.</b></p><p class=\"crux-punch\">Tann, sum átti at hangt á tí krossi, var <b>eg</b>.<br>Jesus bar <b>synd mína</b> og varð negldur har í mínum stað.</p><div class=\"crux-verse\">«Men hann varð særdur vára synda vegna og sundurbrotin vára misgerða vegna … og av sárum hans fingu vit heilsubót.» — Jesaja 53:5</div>",
+  "faq.h": "Brýst tú enn við onkrum?",
+  "faq.q1": "<span class=\"arr\">▸</span> So ein morðari skal bert trúgva og kemur í himmilin, meðan ein, sum livdi gott alla ævina men ikki trúgvir, kemur í helviti?",
+  "faq.a1": "<p>Tað er ein rímiligur spurningur. Men tveir misskiljingar liggja fjaldir í honum.</p><p><b>① Bíblian býtir ikki fólk sundur í «góð» og «vond».</b> Mátið er ikki «betri enn grannin», men «hin fullkomni heilagleiki Guðs». Frammi fyri honum er eingin «góður nóg» (Rómverjabrævið 3:23). So er hetta ikki «ein góður maður móti einum morðara», men heldur tveir menn við sama banasjúkuni — annar tekur lækjuna, hin noktar henni og sigur: «Eg eri frískari enn hin har.»</p><p><b>② Bert eitt skilir himmil og helviti sundur.</b> Ikki eitt stig fyri atferð, men <b>um tú hevur tikið ímóti Jesusi Kristi sum Harra, og syndarvandamál títt er loyst.</b> Tann, hvørs synd er gjørd upp við blóð Krists, kemur í himmilin; tann, sum aldri tekur ímóti honum, og hvørs synd verður verandi, ger tað ikki. Eingin góð gerð kann loysa sjálvt syndarvandamálið fyri teg.</p><p>So eru himmil og helviti ikki ein «lón fyri góða atferð», men ein spurningur um <b>samband við Krist</b>. Og «at trúgva» er ikki ein hugburðarligur samtykkur, men ein broyting í, hvør stýrir lívi tínum — tann, sum av sonnum tekur ímóti honum, verður ikki sjálvtrúgvin, men angrar dýpst av øllum. Av sonnum er sjálvrættvísgerð («eg eri ein góður maður») hin torførasti avgudurin at bróta, tann, sum fær okkum at halda, at vit ikki tørva Krist (Lukas 18:9-14).</p><p>Bíblian sigur tað greitt: <b>«Tann, sum trýr á hann, verður ikki dømdur. Tann, sum ikki trýr, er longu dømdur»</b> (Jóhannes 3:18). Dómurin er ikki «at geva lívi tínum stig, eftir at tú deyrt», men er longu avgjørdur eftir <b>um tú tókt ímóti Kristi</b>.</p><p class=\"faq-v\">Rómverjabrævið 3:23 · Jóhannes 3:18 · Efesusbrævið 2:8-9 · Lukas 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Kann eg ikki bara liva gott, hóast eg ikki trúgvi á Jesus?",
+  "faq.a2": "<p>Tað er hin vanligasti tankin, men hann misskilir, hvat hitt veruliga vandamálið er. Her er ein mynd.</p><p><b>Set, at tú ert umborð á einum sjórænaraskipi.</b> Hvussu reint tú so heldur tiljuna, hvussu vinarligur tú ert við manningina, hvussu eftirdømisvert lív títt er — tú ert kortini ein <b>sjórænari</b>, tí at tú verður borin við skipinum hagar, ið tað er ætlað (havnin fyri dóm). Vandamálið er ikki «stig fyri atferð», men <b>«hvønn skip tú hoyrir til» (samleiki tín)</b>.</p><p>So sigur gleðiboðskapurin ikki «royn meira at vera góður»; hann sigur <b>«skift skip».</b> Far av skipi syndarinnar og far yvir til Jesus — inn í hin nýggja samleikan sum eitt <b>barn Guðs</b>. Hetta er ikki at hækka stig títt við strevi, men at líta á hann, ið rættir út hond sína, og fara yvir til skip hansara.</p><p>Av sonnum lýsir Bíblian frelsuna júst sum henda flutning — <b>«hann sum bjargaði okkum út úr valdi myrkursins og flutti okkum inn í ríki elskaða sonar síns»</b> (Kolossubrævið 1:13).</p><p>Misskilja tað ikki: <b>hetta týðir ikki, at eitt gott lív er einkisvert.</b> Góðskan er ikki «treytin» fyri frelsu, men <b>ávøkstur</b> hennara. Tann, sum hevur skift skip, livir nú gott ikki av ótta, men av kærleika eins barns.</p><p class=\"faq-v\">Kolossubrævið 1:13 · Jóhannes 1:12 · Jóhannes 3:3 · Efesusbrævið 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Um ein ógerningsmaður kennir frið og sigur «Guð hevur fyrigivið mær», meðan offurið enn líður — er náðin ikki alt ov bíleig?",
+  "faq.a3": "<p>Spurningurin er rættmætur, og pínan er veruleg. Men ein slík fráboðan er ikki «fyrigeving Bíbliunnar» — hon er ein <b>skeivlýsing</b> av henni.</p><p><b>① Fyrigeving Guðs er aldri bíleig.</b> Synd verður ikki sópað undir teppið, sum hevði hon ikki hent; Guð sjálvur galt prís hennara við lívi sonar síns. Krossurin er ikki prógv fyri, at synd verður tikin lætt, men fyri, at synd er so tung — hin dýrasta fyrigeving í heiminum.</p><p><b>② Veruligt angur ber ávøkst.</b> Um ógerningsmaðurin er sjálvtrúgvin frammi fyri offrinum — «Guð fyrigav mær, so eg eri í friði» — er tað ikki angur, men ein eftirgerð av tí (Matteus 3:8). Og fyrigeving millum mann og Guð strikar ikki sárið hjá offrinum, ei heldur noyðir tað offurið at fyrigeva.</p><p><b>③ Synd verður aldri bara «latin fara».</b> Hvør synd verður goldin á einum av tveimum støðum — <b>antin ber Kristus hana á krossinum</b> (fyri tey, sum líta á hann, er eingin fordøming meira, Rómverjabrævið 8:1), <b>ella ber tann, sum at enda noktar honum, hana sjálvur.</b> So er eingin «bíleig fyrigeving» til. Ógerningsmaðurin ber eisini lógarliga ábyrgd í hesum heimi (Rómverjabrævið 13:1-4).</p><p><b>④ Tár offursins eru aldri smá frammi fyri Guði.</b> Guð grætur saman við teimum, sum gráta, minnist hvørt tár og skal sjálvur turka tey av at enda (Jóhannesar opinbering 21:4). So tørvar offrinum ikki at bera byrðina av hevnd einsamalt, men kann fáa hana upp í hendurnar á hinum rættvísa Guði (Rómverjabrævið 12:19 — «Mær hoyrir hevndin til, eg skal endurgjalda, sigur Harrin»).</p><p class=\"faq-v\">Matteus 3:8 · Rómverjabrævið 8:1 · Rómverjabrævið 13:1-4 · Jóhannesar opinbering 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Er Bíblian av sonnum ein sonn søga? Hon kennist sum ein gomul siðsøga ella ein skaldsøga.",
+  "faq.a4": "<p>Tað er ein rímiligur spurningur — og ein góður staður at byrja. Iva er ikki hitt mótsetta av trúgv, men ynskið um at kanna hlutirnar ærliga. Bíblian er ikki ein óljós siðsøga at «trúgva, um tær lystir», men ein skrásetning, skrivað oman á <b>veruligar staðir, dagfestingar og fólk</b>. Bara fá dømi.</p><p><b>① Tað er ikki ein bók, men eitt «bókasavn» — og kortini rennur tað um eitt evni.</b> Bíblian er ein savn av <b>66 bókum</b>, skrivaðum yvir umleið <b>1.500 ár av okkurt um 40 høvundum</b> — kongar, hjúrðarmenn, fiskimenn, ein tollari, ein lækni, fólk av ymsum støðum og tíðum, sum skrivaðu hvør sær og kendu ikki hvønn annan, á trimum málum (hebraiskt, arameiskt, grikskt). Og kortini rennur alt saman, uttan ósemju, í <b>eitt evni: frelsa gjøgnum Krist</b>. Tað er ein samsvarni, sum torført er at greiða av tilvild ella mannligari samskipan.</p><p><b>② Tað verður framvegis vátt frá jørðini (fornfrøðin).</b> Nógv, sum eina ferð varð avvíst sum uppdiktað, «funnið bara í Bíbliuni», varð seinni vátt av uppgrevstri. <b>Ætt Dávids</b> við einum steini, ið ber áskriftina «hús Dávids» (Tel Dan-steinurin); <b>Pontius Pilatus</b>, landshøvdingin, ið livgaði Jesus av, við einari áskrift, ið ber navn hansara; vatngongin hjá Hizkia kongi (Seinna Kongabók 20:20) við sjálvari gongini og áskrift hennara. Sjálvt <b>hetitar</b>, eina ferð kallaðir eitt «hugsað fólk», komu fram sum eitt víðfevnt ríki millum rústirnar.</p><p><b>③ Tað er hitt best varðveitta forna skjalið (handritini).</b> Í tali av varðveittum handritum, í samsvari teirra millum og í tíðarbilinum millum skriving og avrit hevur Bíblian <b>ongan javnlíka millum forn skjøl</b>. Jesaja-bókrullan frá fyri kristna tíð, millum <b>Deyðahavsbókrullurnar</b> (funnar 1947), samsvaraði við hin vanliga tekstin okkurt um 1.000 ár seinni nærum bókstav fyri bókstav — prógv fyri, at Bíblian varð varðveitt rætt gjøgnum tíðirnar.</p><p><b>④ Tað, sum varð skrivað frammanundan, hendi júst so (spádómurin).</b> Gamli sáttmáli, skrásettur øldir fyri Jesus, vísir greitt á føðing hansara í Betlehem (Mika 5:2), hin líðandi tænaran (Jesaja 53:5) og umstøðurnar kring krossin (Sálmarnir 22). Ov nágreiniligt at avskriva sum tilvild.</p><p><b>⑤ Søgufrøðingar uttanfyri Bíbliuna skrásettu tað eisini.</b> Hin rómverski søgufrøðingurin <b>Tacitus</b> og hin jødski søgufrøðingurin <b>Jósefus</b> — hvørgin teirra kristin — nevna Jesus, livganina av honum og hina fyrstu kirkjuna. Mest av øllum lótu lærisveinarnir, sum høvdu spjatt seg av ótta, <b>lív sítt á váða</b> við at vitna um uppreisnina — eingin doyr fyri tað, hann veit er lygn.</p><p>At vera ærlig vísa hesar grundir kortini, at at trúgva Bíbliuni er <b>ikki óskilagott, men skilagott</b>; tær eru ikki eitt «prógv», sum noyðir sum ein støddfrøðilig formula. So kemur vissan hjá einum kristnum ikki bara av prógvum, men av <b>tí sannføring, sum heilagi andin gevur hjartanum, meðan ein lesur orðið</b>. Bíblian sigur — <b>«Trúgvin kemur av tí, sum hoyrt verður, men tað, sum hoyrt verður, kemur við orði Krists»</b> (Rómverjabrævið 10:17). So hvussu nógv tað so kennist sum skaldskapur, er <b>at lesa hana sjálvur</b> byrjanin. Prógvini lata upp hurðina, og vissan veksur innan í tí, sum lesur.</p><p class=\"faq-v\">Seinna Kongabók 20:20 · Jesaja 53:5 · Mika 5:2 · Rómverjabrævið 10:17</p>",
+  "respond.h3": "So — hvat um meg?",
+  "respond.sub": "Hesin kærleiki er ikki upplýsing, men ein <b>innbjóðing</b>. Um hesin kærleiki, sum varð negldur í tínum stað, hevur nart við hjarta títt, so bið hesa bøn spakuliga, eina reglu í senn.",
+  "respond.prayer": "<p>Guð,</p><p>eg viðganga, at eg eri ein syndari, sum ikki kann frelsa seg sjálvan.</p><p>Eg trúgvi, at Jesus doyði á krossinum fyri meg og reis upp aftur.</p><p>Fyrigev allar syndir mínar, og ver frá hesum degi Harri lívs míns.</p><p>Tak ímóti mær sum barni tínum, og lat meg liva eitt nýtt lív.</p><p class=\"amen\">Í navni Jesu biði eg. Amen.</p>",
+  "respond.after": "Um tú baðst hetta av einlættum hjarta, sigur Bíblian, at tú ert vorðin <b>eitt barn Guðs</b>. Tú ert ikki longur einsamallur — finn eina kirkju nær tær og gakk vegin í trúgv saman við øðrum.",
+  "respond.read": "Les Bíbliuna sjálvur — byrja við Jóhannesi",
+  "respond.verse": "«Men so mongum, sum tóku ímóti honum, teimum gav hann mátt til at verða Guðs børn.» — Jóhannes 1:12 · Rómverjabrævið 10:9-10",
+  "closing.main": "Ein Guð,<br>gjøgnum eina søgu,<br>kemur eftir okkum við einum<br><em>kærleika</em>, sum aldri gevst.",
+  "closing.verse": "«… hvørki deyði ella lív … ella nakar annar skapningur skal kunna skilja okkum frá kærleika Guðs í Kristi Jesusi, harra okkara.» — Rómverjabrævið 8:38-39",
+  "closing.small": "Oman á hesa søgu leggja Lógin, skaldskaparbøkurnar, profetarnir og brøvini «holdið».<br>Frá nú av, hvønn bók tú so letur upp, sært tú, hvar í søguni tú ert.",
+  "closing.share": "↗ Deil hesa søgu",
+  "about.line": "Grundað á hin endurloysingarsøguliga sjónarhornið, sum flestu av hinum protestantisku kirkjuni í Korea deila (evangeliskt · reformert).",
+  "about.contact": "Spurningar · afturmelding — <a id=\"contact\" class=\"mail\">Send okkum t-post</a>"
+ },
+ "epochs": [
+  {
+   "tag": "GAMLI SÁTTMÁLI · BYRJAN",
+   "title": "Sköpanin",
+   "date": "Í fyrstuni",
+   "one": "Guð gjørdi ein heim, sum var «sera góður».",
+   "people": "Guð; Ádam og Eva",
+   "events": "Seks dagar av sköpan, menniskjan gjørd í Guðs mynd, hvíldardagurin",
+   "q": "Í fyrstuni skapaði Guð himmalin og jørðina.",
+   "cite": "Genesis 1:1",
+   "christ": "Heimurin varð gjørdur gjøgnum «orðið». Evangeliið eftir Jóhannes lýsir, at hetta orðið er Jesus sjálvur (Jóhannes 1:1-3).",
+   "detail": "<p>Bíblian byrjar ikki við einum heimspekiligum røksli, men við einari fráboðan: <b>«Í fyrstuni skapaði Guð…»</b> Heimurin er ikki ein tilvild, men verkið hjá einum persónligum Guði.</p><ul><li><b>Guðs mynd</b> · av øllum skapningum er menniskjan eina gjørd at líkjast Guði — at kenna hann og røkja heimin.</li><li><b>Hvíld</b> · hvíldin á sjeynda degi vísir alt fullført og í friði (sjalom): «tað var gott».</li><li><b>Eden</b> · heimurin áðrenn hann brotnaði, har Guð og fólk ganga saman.</li></ul>",
+   "next": "Men henda heilskapur fer brádliga at brotna…"
+  },
+  {
+   "tag": "GAMLI SÁTTMÁLI · VANDAMÁLIÐ BYRJAR",
+   "title": "Fallið",
+   "date": "Í fyrstuni",
+   "one": "Synd kom inn, og bandið millum fólk og Guð varð skorið sundur.",
+   "people": "Ádam og Eva; ormurin (Satan)",
+   "events": "Tey eta hin forbodna ávøkst, verða rikin úr Eden, deyði og møði koma",
+   "q": "Og eg seti fjandskap millum teg og konuna … tað skal morla høvur títt.",
+   "cite": "Genesis 3:15",
+   "christ": "Hitt fyrsta lyfti gleðiboðskapsins, givið beint eftir fallið: «avkom konunnar» skal morla høvur ormsins — og tað er Jesus (Genesis 3:15; Rómverjabrævið 16:20; Galatabrævið 4:4).",
+   "detail": "<p>Gjøgnum óljóðnina at vilja «verða sum Guð» kemur synd inn í heimin. Úrslitið er ikki bara ein brotin regla, men eitt <b>brotið samband</b>.</p><ul><li><b>Brotin bond</b> · við Guð (at fjala seg), við hvønn annan (at leggja søkina), við náttúruna (tornir og møði).</li><li><b>Deyði</b> · ávaringin «tú skalt vissuliga doyggja» verður veruleiki.</li><li><b>Genesis 3:15</b> · men mitt í dóminum kemur lyfti um bjarging fyrst. Lærdir kalla hetta <b>protoevangelium (hitt fyrsta gleðiboðið)</b>.</li></ul>",
+   "next": "Nú kallar Guð ein einasta mann at byrja bjargingina…"
+  },
+  {
+   "tag": "GAMLI SÁTTMÁLI · LYFTIÐ",
+   "title": "Ættarfeðrarnir",
+   "date": "umleið 2000 f.Kr.",
+   "one": "Guð lovar Ábrahami: «Tú skalt verða ein rás av signing».",
+   "people": "Ábraham · Ísakur · Jákup · Jósef",
+   "events": "Ábrahamssáttmálin, bindingin av Ísaki, tólv synir Jákups, Jósef stígur til valds í Egyptalandi",
+   "q": "Eg skal gera teg til mikla tjóð … allar ættir jarðarinnar skulu fáa signing av tær.",
+   "cite": "Genesis 12:2-3",
+   "christ": "Lyftið um, at «allar ættir skulu fáa signing», verður uppfylt í Jesusi, avkomi Ábrahams (Galatabrævið 3:16).",
+   "detail": "<p>Guð byrjar at taka á vandamáli alrar menniskju við at kalla ein einasta mann, <b>Ábraham</b>. Hjartað er <b>sáttmálin (lyftið)</b> — ein mikil tjóð, eitt land og «signing fyri allar ættir».</p><ul><li><b>Trúgv</b> · Ábraham trúði einum ósæddum lyfti, og tað varð honum roknað til rættvísi (Genesis 15:6).</li><li><b>Ísakur & Jákup</b> · lyftið gongur víðari; Jákup (Ísrael) verður faðir at hinum tólv ættunum.</li><li><b>Jósef</b> · seldur av brøðrum sínum, men hækkaður til valds — «Guð vendi tí til góða» (Genesis 50:20).</li></ul>",
+   "next": "Eftir Jósefi fer ættin niður í Egyptaland — og verður trælabundin…"
+  },
+  {
+   "tag": "GAMLI SÁTTMÁLI · ENDURLOYSING",
+   "title": "Útgongdin & oyðimørkin",
+   "date": "umleið 1446 f.Kr.",
+   "one": "Guð bjargaði einum trælabundnum fólki og gjørdi tað til sítt egna.",
+   "people": "Móses, Áron, Fárao",
+   "events": "Tær tíggju plágurnar, páskan, gongdin gjøgnum Reyðahavið, hini tíggju boðini á Sínai, tjaldtempulið, 40 ár í oyðimørkini",
+   "q": "Og eg vil velja tykkum út til at vera fólk mítt, og eg vil vera Guð tykkara.",
+   "cite": "Annað Mósebók 6:7",
+   "christ": "Páskan — har blóð eins lambs vendi deyðanum burtur — vísir á Jesus, «páskalamb okkara», krossfestan fyri okkum (Fyrra Korintbrævið 5:7).",
+   "detail": "<p>Hin størsta bjarging Gamla sáttmála. Hitt einaferð trælabundna Ísrael verður gjørt frælst við kraft Guðs og mótað til <b>fólk</b> hansara.</p><ul><li><b>Páskan</b> · heimið, sum er merkt við blóði lambsins, verður sloppið um av deyðanum — fyrimyndin aftan fyri hvørja seinni ofring.</li><li><b>Reyðahavið</b> · frelsa, har vegurin trýtur; «at fara yvirum» verður tákn fyri eina nýggja byrjan.</li><li><b>Sínai-sáttmálin</b> · gjøgnum boðini læra tey at liva sum fólk Guðs.</li><li><b>Tjaldtempulið</b> · ein flytandi halgidómur, har Guð býr millum fólk sítt — ein forsmakkur av «Immanuel».</li><li><b>40 ár</b> · óljóðni heldur einum ættarliði reikandi, men Guð er nær við manna og súluna av skýggi og eldi.</li></ul>",
+   "next": "Standandi á markinum av lovaða landinum búgvast tey at fara inn…"
+  },
+  {
+   "tag": "GAMLI SÁTTMÁLI · LANDNÁM",
+   "title": "Vinningin & dómararnir",
+   "date": "umleið 1400–1050 f.Kr.",
+   "one": "Tey fingu landið, men uttan kong gjørdi hvør, sum honum líkaði.",
+   "people": "Jósva; dómarar sum Gideon og Samson; Rut",
+   "events": "Fallið av Jeriko, landnámið í Kánáan, ein endurtikin ringur av synd–dómi–bjarging",
+   "q": "Á teimum døgum var eingin kongur í Ísrael; hvør maður gjørdi, sum honum líkaði best.",
+   "cite": "Dómarabókin 21:25",
+   "christ": "Av ætt Rutar kemur Dávid, og av ætt Dávids kemur Jesus (Matteus 1). Sjálvt í ruðuleikanum heldur ættartræ Messiasar áfram.",
+   "detail": "<p>Undir Jósva fara tey inn í lovaða landið, men eftir at hava sett seg gloyma tey skjótt Guð. Dómarabókin er sama mynstrið aftur og aftur.</p><ul><li><b>Hin niðurgangandi ringur</b> · synd → kúgan → rópan → ein dómari bjargar → synd aftur. Tað verður bara verri.</li><li><b>Dómararnir</b> · Gideon, Samson, Debora — fyribils bjargarar, hetjuligir men sera lýtafullir.</li><li><b>Rut</b> · ein ljós søga um trúfesti í einari myrkari tíð; ein útlendsk kona fer inn í ætt Dávids (og Jesu).</li></ul>",
+   "next": "Fólkið rópar: «Gev okkum eisini ein kong!»…"
+  },
+  {
+   "tag": "GAMLI SÁTTMÁLI · GULLØLD",
+   "title": "Hitt sameinaða ríkið",
+   "date": "umleið 1050–930 f.Kr.",
+   "one": "Guð lovar Dávidi: «Hásæti títt skal standa um ævir».",
+   "people": "Saul · Dávid · Sálomon",
+   "events": "Hin fyrsti kongur Saul, Dávid og Goljat, Dávidssáttmálin, Sálomon byggir tempulið",
+   "q": "Ætt tín og kongsdømi títt skal ævinliga standa við fyri ásjón míni, og hásæti títt skal ikki vikast um ævir.",
+   "cite": "Seinna Sámuelsbók 7:16",
+   "christ": "Hitt «æviga hásætið» verður uppfylt í Jesusi, syni Dávids — tí verður hann kallaður «sonur Dávids» (Lukas 1:32-33; Matteus 1:1).",
+   "detail": "<p>Tindurin hjá Ísrael, stýrdur av trimum kongum.</p><ul><li><b>Saul</b> · kongurin, sum fólkið kravdi; ein góð byrjan, oydd av óljóðni.</li><li><b>Dávid</b> · «ein maður eftir Guðs egna hjarta». Hann vinnur á Goljati og ger Jerúsalem til høvuðsstað. Hann ger eina stóra synd (Batseba), men angrar av hjarta (Sálmarnir 51).</li><li><b>Dávidssáttmálin (Seinna Sámuelsbók 7)</b> · Guð lovar at festa ætt Dávids um ævir — hin avgerandi rótin at messiansku vónini.</li><li><b>Sálomon</b> · á tindi vísdóms og ríkidømis byggir hann <b>tempulið</b>, men seint á ævini vendir hann sær til avgudar.</li></ul>",
+   "next": "Eftir Sálomoni klovnar ríkið í tvey…"
+  },
+  {
+   "tag": "GAMLI SÁTTMÁLI · NIÐURGANGUR",
+   "title": "Hitt klovna ríkið",
+   "date": "930–586 f.Kr.",
+   "one": "Klovið í suður (Júda) og norður (Ísrael), niðurfellur tjóðin í oyðing.",
+   "people": "Kongarnir í báðum ríkjum; profetar sum Elia, Jesaja, Jeremia",
+   "events": "Ríkið klovnar, avgudadýrkan breiðist út, profetarnir vára",
+   "q": "Soleiðis sleit Ísrael trúnað við Dávids hús; og so er vorðið enn í dag.",
+   "cite": "Fyrra Kongabók 12:19",
+   "christ": "Í hesi øld boða profetarnir hin komandi Messias alsamt greiðari (Jesaja 9:6; Jesaja 53).",
+   "detail": "<p>Á døgum sonar Sálomons klovnar tjóðin: <b>hitt norðara ríkið Ísrael</b> (10 ættir, høvuðsstaður Sámaria) og <b>hitt suðara ríkið Júda</b> (2 ættir, høvuðsstaður Jerúsalem).</p><ul><li><b>Ísrael (norður)</b> · hvør kongur tænir avgudum; tað fellur fyri Assýriu í 722 f.Kr.</li><li><b>Júda (suður)</b> · ætt Dávids heldur áfram, við nøkrum góðum kongum sum Hizkia og Jósia, men niðurfellur í alt.</li><li><b>Profetarnir</b> · Elia, Ámos, Jesaja, Jeremia rópa «vendið um!». Messiansk spádómur náar her sítt ríkasta stig (hin «líðandi tænari» í Jesaja 53).</li></ul>",
+   "next": "At enda kemur hin várađi dómurin — tey verða flutt í útlegd…"
+  },
+  {
+   "tag": "GAMLI SÁTTMÁLI · DÓMUR",
+   "title": "Útlegdin",
+   "date": "722 / 586 f.Kr.",
+   "one": "Tjóðin fellur, og fólkið verður drigið inn í fremmand lond.",
+   "people": "Dánjal, Ezekiel, Nebukadnesar",
+   "events": "Ísrael fellur fyri Assýriu (722), Júda fellur fyri Bábel og tempulið verður oytt (586)",
+   "q": "Við áirnar í Bábel har sótu vit og grótu, tá ið vit mintust til Zion.",
+   "cite": "Sálmarnir 137:1",
+   "christ": "Í dýpi vónloysisins lovar Jeremia einum «nýggjan sáttmála» (Jeremia 31:31) — sjálvum tí sáttmála, sum Jesus innsiglar við nátturðin.",
+   "detail": "<p>Ávaringarnar verða sannar. Tempulið brennur, og fólkið verður flutt til Bábel — tey missa landið, kongin og tempulið: hitt lægsta punktið av øllum.</p><ul><li><b>Tvey føll</b> · Ísrael (Assýria, 722 f.Kr.) og Júda (Bábel, 586 f.Kr.).</li><li><b>Dánjal</b> · ein fyrimynd um trúgv sjálvt í einum heidnum hirðstovni (ljónsbølið); hann sær sjónir um eitt komandi «ævigt ríki».</li><li><b>Ein neisti av vón</b> · sjón Ezekiels um turru beinini, ið vakna til lívs (Ezekiel 37), og «nýggi sáttmáli» Jeremia vísa á eina framtíð í myrkrinum.</li></ul>",
+   "next": "Sjeyti ár seinni letur Guð upp vegin — tey fara heim…"
+  },
+  {
+   "tag": "GAMLI SÁTTMÁLI · ENDURREISING",
+   "title": "Afturkoman",
+   "date": "538–430 f.Kr.",
+   "one": "Tey koma aftur og endurbyggja tempulið og múrarnar.",
+   "people": "Ezra, Nehemia, Ester, Zerubbabel",
+   "events": "Afturkoma eftir boði Kýrusar, endurbygging av templinum, endurreising av múrum Jerúsalems, endurfinning av orðinum",
+   "q": "Gleðin í Harranum er styrki tykkara.",
+   "cite": "Nehemia 8:10",
+   "christ": "Málaki, hin seinasta bók Gamla sáttmála, endar við at boða ein ørindreka at greiða veg Messiasar: «Eg sendi ørindreka mín» (Málaki 3:1).",
+   "detail": "<p>Eftir boði Kýrusar persakongs (538 f.Kr.) byrjar afturkoman. Í trimum bylgjum koma tey aftur og endurbyggja tað oydda.</p><ul><li><b>Zerubbabel</b> · endurbyggir tempulið (fullført 516 f.Kr.).</li><li><b>Ezra</b> · lærir orðið aftur og vekur trúnna upp.</li><li><b>Nehemia</b> · endurbyggir múrar Jerúsalems á 52 døgum.</li><li><b>Ester</b> · bjargar jødunum í Persia frá útoyðing — «til eina tíð sum hesa».</li><li><b>Stundan heldur áfram</b> · tempulið stendur, men eingin kongur er sum Dávid. Fólkið bíðar eftir Messiasi.</li></ul>",
+   "next": "Og so… sum um himmilin tagnaði, ganga 400 ár."
+  },
+  {
+   "tag": "MILLUM SÁTTMÁLANAR · LEIKÁSETING",
+   "title": "Hini tigandi árini",
+   "date": "umleið 430–4 f.Kr.",
+   "one": "400 ár uttan rødd nakars profets — og kortini varð leikurin í kvirru ásettur.",
+   "people": "Aleksandur hin stóri, Makkabearnir, Róm",
+   "events": "Persia → Grikkaland → makkabeiskt sjálvstýri → rómversk vald",
+   "q": "Men tá ið fylling tíðarinnar kom, sendi Guð son sín, føddan av kvinnu.",
+   "cite": "Galatabrævið 4:4",
+   "christ": "Øll henda «leikáseting» var Guð í verki, fyri at Jesus skuldi koma júst í «fylling tíðarinnar».",
+   "detail": "<p>Frá Málaki til Nýggja sáttmála ganga umleið 400 ár uttan nýtt skrift. Men aftan fyri søguna búði Guð veg gleðiboðskapinum.</p><ul><li><b>Stórveldi skifta hendur</b> · Persia → Grikkaland (Aleksandur, 333 f.Kr.) → Ptolemearnir og Selevkidarnir → makkabeiska uppreisnin (167 f.Kr.) → Róm (63 f.Kr.).</li><li><b>Grikskt</b> · sigursferðir Aleksandurs gjørdu grikskt til felagsmál; Gamli sáttmáli varð týddur til grikskt (Septuaginta), sum búði veg fyri, at gleðiboðskapurin kundi breiða seg skjótt.</li><li><b>Rómverskir vegir og friður</b> · vælbygdir vegir og «Pax Romana» verða tjóðvegir fyri missiónina.</li><li><b>Sýnagogur og flokkar</b> · sýnagogulærdómurin festir rót; fariseararnir og saddukeararnir koma fram; og <b>stundan eftir Messiasi</b> mognar.</li></ul>",
+   "next": "So brotnar tøgnin — at enda kemur hann."
+  },
+  {
+   "tag": "NÝGGI SÁTTMÁLI · UPPFYLLING",
+   "title": "Jesus kemur",
+   "date": "umleið 4 f.Kr.–30 e.Kr.",
+   "one": "Hin lovaði Messias kom, doyði og reis upp aftur.",
+   "people": "Jesus, hinir tólv lærisveinarnir, Jóhannes doyparin",
+   "events": "Holdtøkan, tænasta hansara, lærdómur og undur, deyðin á krossinum, uppreisnin triðja dagin",
+   "q": "Og orðið varð hold og tók búgv okkara millum … fulla av náði og sannleika.",
+   "cite": "Jóhannes 1:14",
+   "christ": "Avkom konunnar (mynd 2), signing Ábrahams (3), páskalambið (4), hin ævigi kongur Dávids (6), hin nýggi sáttmáli (8) — alt uppfylt í einum manni, Jesusi: hin sanni profetur, prestur og kongur okkara.",
+   "detail": "<p>Tøgnin brotnar; hin lovaði kemur. Tey fýra evangeliini vitna um lív, deyða og uppreisn Jesu frá fýra sjónarhornum.</p><ul><li><b>Holdtøkan</b> · Guð verður maður (Immanuel, «Guð við okkum»), í hinum lága Betlehem.</li><li><b>Tænasta</b> · hann lærir Guðs ríki, grøðir sjúk, kallar syndarar. «Tann, sum hevur sæð meg, hevur sæð faðirin.»</li><li><b>Krossurin</b> · hann gjeldur prísin fyri synd og deyða, sum fallið førdi við sær (mynd 2). Hitt sanna páskalambið.</li><li><b>Uppreisnin</b> · reisandi triðja dagin brýtur hann mátt syndar, deyða og Satans — longu á krossinum «avvápnaði … valdini og harradømini … tá ið hann vann sigur yvir teimum» (Kolossubrævið 2:15).</li></ul><p>So er Jesus hin <b>sanni profetur</b> okkara (vísandi vegin til Guð), hin <b>sanni prestur</b> okkara (bøtandi fyri synd við sínum egna likami) og hin <b>sanni kongur</b> okkara (vinnandi á synd, deyða og Satani og ríkjandi um ævir).</p>",
+   "next": "Hin uppreisti Jesus sendir lærisveinar sínar út í heimin…"
+  },
+  {
+   "tag": "NÝGGI SÁTTMÁLI · ÚTBREIÐSLA",
+   "title": "Kirkjan byrjar",
+   "date": "umleið 30 e.Kr.–",
+   "one": "Andin kemur, og gleðiboðskapurin breiðir seg móti ytstu endamarkum jarðarinnar.",
+   "people": "Pætur, Paulus, hin fyrsta kirkjan",
+   "events": "Andin útheltur á hvítusunnu, kirkjan verður fødd, gleðiboðskapurin breiðist frá Jerúsalem til Róm gjøgnum atsóknir",
+   "q": "Men tit skulu fáa kraft, tá ið heilagur andi kemur yvir tykkum … líka til ytstu endamark á jørðini.",
+   "cite": "Ápostlasøgan 1:8",
+   "christ": "Henda søga gongur enn fram. Bíblian endar við at lova, at Jesus skal koma aftur og gera alt nýtt (Jóhannesar opinbering 21).",
+   "detail": "<p>Eftir at Jesus fer til himmals, kemur hin lovaði andin á hvítusunnu, og kirkjan verður fødd. Gleðiboðskapurin breiðir seg sprongiliga.</p><ul><li><b>Hvítusunna</b> · andin gjørdir óttafullar lærisveinar til djarvar vitni.</li><li><b>Pætur</b> · boðar gleðiboðskapin fyri jødunum í Jerúsalem.</li><li><b>Paulus</b> · frá atsóknarmanni til ápostul, plantandi kirkjur um allan heidninga heimin og skrivandi brøvini.</li><li><b>Til ytstu endamark</b> · Jerúsalem → Júdea → Sámaria → Róm. Lyftið til Ábrahams um «allar ættir» verður veruleiki.</li><li><b>Og vit</b> · søgan endar ikki; hon trýstir áfram móti afturkomu Jesu og hinum nýggja himli og nýggju jørð.</li></ul>",
+   "next": "Men søgan endar ikki her…"
+  },
+  {
+   "tag": "NÝGGI SÁTTMÁLI · FULLENDING",
+   "title": "Endurreisingin",
+   "date": "Skal enn koma",
+   "one": "Jesus kemur aftur og ger alt nýtt.",
+   "people": "Hin afturkomandi Jesus; allar tjóðir",
+   "events": "Afturkoman, hin endaligi dómur, endin á synd·deyða·tárum, ein nýggjur himmal og ný jørð",
+   "q": "Og hann skal turka hvørt tár av eygum teirra, og deyðin skal ikki longur vera til, ikki heldur sorg, ikki heldur skríggj, ikki heldur pínsla skal longur vera til.",
+   "cite": "Jóhannesar opinbering 21:4",
+   "christ": "Eden hinnar fyrstu sköpanar verður at enda endurreist sum hin «nýggja Jerúsalem». Guð býr við fólki sínum um ævir — fyllingin av Immanueli (Jóhannesar opinbering 21:3; Matteus 1:23).",
+   "detail": "<p>Bíblian endar ikki við kirkjuøldini. Hennara seinasta bók, Opinberingin, vísir Jesus <b>koma aftur</b> at fullføra alt.</p><ul><li><b>Afturkoman</b> · hin lovaði kongur kemur aftur í dýrd.</li><li><b>Hin endaligi sigur</b> · Satan og deyðin verða vunnir um ævir, og Kristus ríkir sum kongur konganna (Fyrra Korintbrævið 15:25-26; Jóhannesar opinbering 20:10).</li><li><b>Dómur og uppreisn</b> · hvør órættur verður rættaður, og hini deyðu verða reist upp.</li><li><b>Ein nýggjur himmal og ný jørð</b> · synd, deyði, tár og pína hvørva um ævir (Jóhannesar opinbering 21:4).</li><li><b>Eden endurreist</b> · í einari «nýggjari Jerúsalem», betri enn byrjanin, býr Guð við fólki sínum um ævir — málið, sum øll Bíblian hevur stevnt ímóti.</li></ul><p>So er nú øldin av <b>«longu, men ikki enn»</b>: í Jesusi er frelsan <b>longu</b> fullført, men fylling hennara verður <b>enn</b> bíðað.</p>",
+   "next": "So hvat týðir øll henda søgan fyri «meg»?"
+  }
+ ],
+ "love": [
+  "Søgan byrjar ikki við dómi, men við sköpan, úthelt í kærleika.",
+  "Í tí løtu fólkið syndaði, lovaði Guð beint har á staðnum eina bjarging.",
+  "Guð kom fyrst til ein óverdugan mann, kallaði hann við navni og gjørdi hann til eina rás av signing.",
+  "Hann hoyrdi stynjanina hjá einum trælabundnum fólki og kom sjálvur niður at bjarga teimum.",
+  "Sviknir aftur og aftur, men hvørja ferð tey rópaðu, sendi hann ein bjargara og reisti tey upp.",
+  "Hann vildi ikki blaka burtur sjálvt hin falna Dávid, og gjøgnum hann lovaði hann einum ævigum kongi.",
+  "Til eitt fólk, sum vendi honum bakið, sendi hann alsamt profetar, biðjandi: «Kom heim aftur, vinaliga.»",
+  "Hann fór við teimum sjálvt inn í hitt myrkasta land útlegdarinnar og lovaði endurreising.",
+  "Sjálvt til eitt fólk, sum brást aftur og aftur, vildi hann ikki taka lyfti sítt aftur.",
+  "Sjálvt gjøgnum 400 tigandi ár, ósæddur, búði hann veg frelsunnar.",
+  "Meðan vit enn vóru syndarar, sendi hann son sín at leggja lív sítt.",
+  "Hin kærleika, sum vit fingu, sendir hann nú at renna út til allan heimin.",
+  "At enda skal hann turka hvørt tár og endurreisa alt í kærleika."
+ ],
+ "mis": [
+  {
+   "w": "«Hví gjørdi Guð fólk, sum kundu synda? Hevði tað ikki verið betri ikki at gera okkum yvirhøvur?»",
+   "t": "Guð skapaði heimin og fólk ikki av nøkrum tørvi, men av yvirfljótandi kærleika. At gera menniskjur sum <b>persónar, ið hava samband við Guð</b>, er sjálvt kærleiki. Og sjálvt innkoma syndarinnar var ikki uttan fyri frelsuætlan Guðs (Efesusbrævið 1:4-5). Hin fyrsta mynd Bíbliunnar er ikki dómur, men kærleiki."
+  },
+  {
+   "w": "«Rikin út og givin deyða bara fyri at eta ein ávøkst — er Guð ikki alt ov harður?»",
+   "t": "At verða sendur út úr Eden var bæði dómur og miskunn. At eta av lívsins træi og liva um ævir í tí brotna, Guðs-skilda standi hevði verið at verða fangaður í líðing um ævir (Genesis 3:22). At loyva deyða læt upp vegin aftur, og beint har lovaði Guð einum bjargara (Genesis 3:15). Kærleiki var longu inni í dóminum."
+  },
+  {
+   "w": "«Ábraham varð valdur, tí hann hevði stóra trúgv — eru ikki allir persónar í Bíbliuni siðsligar hetjur?»",
+   "t": "Ábraham laug eisini og ivaðist; Jákup var ein sviksmaður. Guð kallaði ikki «hóskandi» fólk, men lýtafull, av náði. Orsøkin var ikki góðska teirra, men trúfasti kærleiki Guðs (Fimta Mósebók 7:7-8)."
+  },
+  {
+   "w": "«Er lógin (boðini) ikki ein roynd, sum tú mást standast fyri at verða frelstur?»",
+   "t": "Guð bjargaði teimum <b>áðrenn</b> hann gav lógina. Sjálvt hini tíggju boðini byrja við einari fráboðan um frelsu: «Eg eri Harrin, Guð tín, sum leiddi teg út úr Egyptalandi» (Annað Mósebók 20:2). Lógin er ikki «hald hana fyri at verða frelstur», men kærleiksrík vegleiðing um, hvussu eitt longu bjargað fólk skal liva (Fimta Mósebók 7:7-9). Náði kemur altíð fyrst; lýdni er svarið."
+  },
+  {
+   "w": "«Vinningin av Kánáan var ein miskunnarleys dráp — so er Guð Gamla sáttmála av sonnum grimmur.»",
+   "t": "Hetta er eitt torført evni, sum ikki kann avgreiðast í einum setningi. Men Bíblian framber tað ikki sum tilvildarligt valdsverk, men sum dóm eftir øldir av tolni móti ógvusligum illskapi (innroknað barnaofring) (Genesis 15:16; Fimta Mósebók 9:4-5; Triðja Mósebók 18:24-25). Guð er seinur sjálvt at døma, og hann tók fegin ímóti teimum, sum vendu sær til hansara — sjálvt útlendingum sum Rahab og Rut (Jósvabók 6:25; Rutarbók 4:13-17)."
+  },
+  {
+   "w": "«Dávid var ein lýtaleys hetja — tí varð hann kallaður «ein maður eftir Guðs egna hjarta».»",
+   "t": "Dávid drýgdi hor og sjálvt morð. «Ein maður eftir Guðs hjarta» týðir ikki lýtaleysur, men ein, sum ikki fjaldi synd sína — sum angraði til botns og altíð vendi aftur til Guðs (Sálmarnir 51). Kærleiki Guðs blakar ikki burtur sjálvt tey, sum falla hart."
+  },
+  {
+   "w": "«Profeturin er ein spásagnari, sum sigur framtíðina fyri / Guð Gamla sáttmála er bara vreiði.»",
+   "t": "Hjartað hjá einum profeti er ikki «at siga framtíðina fyri», men hin verkjandi bøn Guðs: «Kom aftur, vinaliga.» Sjálvt ávaringar um dóm ætla ikki at oyða, men at venda fólki og frelsa tað — «eg havi ongan tokka í deyða hins gudleysa» (Ezekiel 33:11)."
+  },
+  {
+   "w": "«Útlegdin sannar, at Guð fullkomiliga gav Ísrael upp.»",
+   "t": "Útlegdin var ikki uppgáva, men agi og reinsan móti einum elskaðum barni (Hebrearabrævið 12:6). Guð fór ikki; hann var við Dánjali mitt í útlegdini og lovaði: «eg veit, hvørjar ætlanir eg havi … um frið … til tess at veita tykkum vónríka framtíð» (Jeremia 29:11)."
+  },
+  null,
+  {
+   "w": "«Við ongum orði í 400 ár hevði Guð farið ella hvíld seg.»",
+   "t": "Tøgn er ikki fjarvera. Hann tosaði bara ikki, meðan hann alla tíðina flutti stórveldi, mál og vegir at búgva leikin til frelsu. Í hini kvirrastu løtu arbeiddi Guð harðast, í kærleika (Galatabrævið 4:4)."
+  },
+  {
+   "w": "«Jesus var bara ein góður siðslærari / krossurin var eitt sorgarsamt ósigur.»",
+   "t": "Jesus segði seg vera Guð sjálvur (Jóhannes 8:58), og krossurin var ikki ein vanlukka ella ósigur, men ætlaður kærleiki. Hann varð ikki drigin hagar við valdi; hann legði lív sítt sjálvur (Jóhannes 10:18). «Størri kærleika hevur eingin enn tann, at hann letur lív sítt fyri vinir sínar» (Jóhannes 15:13)."
+  },
+  {
+   "w": "«Kirkjan er ein felagsskapur av fullkomnum fólki, ella bara ein bygningur.»",
+   "t": "Kirkjan er ikki eitt samfelag av «fullførdum heilagum», men av <b>fyrigivnum syndarum</b>. Sjálvt Paulus ápostul kallaði seg «hin fremsta av syndarum» (Fyrra Timoteusarbrævið 1:15). Hin fyrsta kirkjan trættaðist og snávaði eisini (Ápostlasøgan 6:1; Fyrra Korintbrævið 1:11). Tað er ikki ein staður at rósa sær, men fólk, sum geva víðari hin kærleika, tey fingu (Jóhannes 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Arvasynd — eingin er rættvísur",
+   "body": "Vandamálið er ikki «nakrar vondar gerðir», men rótin í hjartanum. Síðan Ádam verður hvør borin undir synd og kann ikki sjálvur náa Guði.",
+   "vref": "Rómverjabrævið 3:10-12, 23",
+   "vtext": "Tann er eingin, sum rættvísur er, ikki ein … tí at øll hava syndað, og teimum vantar Guðs heiður."
+  },
+  {
+   "title": "Lógin kann ikki frelsa meg",
+   "body": "Lógin er ikki ein stigi, men ein spegil. Tess meira tú roynir, tess meira vísir hon, hvussu langt tú trýtur. Endamálið er at leiða okkum til Krists.",
+   "vref": "Rómverjabrævið 3:20 · Galatabrævið 3:24",
+   "vtext": "Við lóg kemur kunnugleiki um synd … lógin er vorðin agari okkara til Krists."
+  },
+  {
+   "title": "Av náði — ein gáva, ikki strev",
+   "body": "Frelsan er ikki lønin fyri verðleika, sum tú hevur vunnið, men ein fría gáva til tey, sum ikki eru hana verd. Tí kann eingin rósa sær.",
+   "vref": "Efesusbrævið 2:8-9",
+   "vtext": "Tí av náði eru tit frelstir, við trúgv … ikki av gerningum, fyri at eingin skal rósa sær."
+  },
+  {
+   "title": "Rættvísgjørd av trúgv",
+   "body": "Ikki við at halda lógina, men við trúgv á Jesus Krist, verður tú roknaður rættvísur — íklæddur ikki tíni egnu rættvísi, men hansara.",
+   "vref": "Rómverjabrævið 5:1 · Galatabrævið 2:16",
+   "vtext": "Rættvísgjørd av trúgv hava vit tí frið við Guð … maður ikki verður rættvísgjørdur av lógargerningum, men eina við trúgv á Jesus Krist."
+  },
+  {
+   "title": "Bíblian vísir á Jesus",
+   "body": "Bíblian er ikki ein bók um stórmenn ella sjálvshjálp. Frá Genesis til Opinberingina vitnar hvør síða um ein einasta — Jesus Krist.",
+   "vref": "Jóhannes 5:39 · Lukas 24:27",
+   "vtext": "tað eru tær, sum vitna um meg … legði út fyri teimum í øllum skriftunum tað, sum skrivað var viðvíkjandi honum."
+  },
+  {
+   "title": "Guðs ríki — miðboðskapur Jesu",
+   "body": "Evnið, sum Jesus lærdi mest. Guðs stýri sum kongur breyt inn í henda heim við Jesusi og verður fullført, tá ið hann kemur aftur. Við krossi og uppreisn sínum er Jesus hin sanni kongur, sum vann á synd, deyða og Satani.",
+   "vref": "Markus 1:15",
+   "vtext": "Tíðin er fullkomin, og Guðs ríki er í nánd! Vendið um og trúgvið gleðiboðskapinum!"
+  },
+  {
+   "title": "Gleðiboðskapurin — hann fullførdi alt",
+   "body": "Prísin fyri synd, sum eg aldri kundi goldið, galt Jesus í mínum stað á krossinum, og við at reisast vann hann á deyðanum. Eg hvíli ikki á «ger hetta», men á «tað er fullgjørt».",
+   "vref": "Jóhannes 19:30 · Rómverjabrævið 5:8",
+   "vtext": "Tað er fullgjørt … Guð sýnir kærleika sín til okkara av tí, at Kristus doyði fyri okkum, meðan vit enn vóru syndarar."
+  }
+ ],
+ "books": {
+  "Genesis": "GEN",
+  "Exodus": "EXO",
+  "Triðja Mósebók": "LEV",
+  "Fjórða Mósebók": "NUM",
+  "Fimta Mósebók": "DEU",
+  "Jósvabók": "JOS",
+  "Dómarabókin": "JDG",
+  "Rutarbók": "RUT",
+  "Ezra": "EZR",
+  "Nehemia": "NEH",
+  "Esterarbók": "EST",
+  "Jobsbók": "JOB",
+  "Sálmarnir": "PSA",
+  "Orðtøk Sálomons": "PRO",
+  "Prædikarin": "ECC",
+  "Hásongurin": "SNG",
+  "Jesaja": "ISA",
+  "Jeremia": "JER",
+  "Harmljóðini": "LAM",
+  "Ezekiel": "EZK",
+  "Dánjal": "DAN",
+  "Hósea": "HOS",
+  "Jóel": "JOL",
+  "Ámos": "AMO",
+  "Óbadia": "OBA",
+  "Jónas": "JON",
+  "Mika": "MIC",
+  "Náhum": "NAM",
+  "Hábakkuk": "HAB",
+  "Sefanja": "ZEP",
+  "Haggai": "HAG",
+  "Zakarja": "ZEC",
+  "Málaki": "MAL",
+  "Evangeliið eftir Matteus": "MAT",
+  "Evangeliið eftir Markus": "MRK",
+  "Evangeliið eftir Lukas": "LUK",
+  "Evangeliið eftir Jóhannes": "JHN",
+  "Ápostlasøgan": "ACT",
+  "Bræv Paulusar ápostuls til Rómverja": "ROM",
+  "Galatabrævið": "GAL",
+  "Efesusbrævið": "EPH",
+  "Filippibrævið": "PHP",
+  "Kolossubrævið": "COL",
+  "Titusarbrævið": "TIT",
+  "Filemonsbrævið": "PHM",
+  "Hebrearabrævið": "HEB",
+  "Hitt almenna bræv Jákups": "JAS",
+  "Hitt almenna bræv Judasar": "JUD",
+  "Jóhannesar opinbering": "REV",
+  "1 John": "1JN",
+  "Annað bræv Jóhannesar": "2JN",
+  "Triðja bræv Jóhannesar": "3JN",
+  "1 a Sámuelsbók": "1SA",
+  "2 a Sámuelsbók": "2SA",
+  "1 a Kongabók": "1KI",
+  "2 a Kongabók": "2KI",
+  "1 a Krýnikubók": "1CH",
+  "2 a Krýnikubók": "2CH",
+  "1 a Korintbrævið": "1CO",
+  "2 a Korintbrævið": "2CO",
+  "1 a Tessalónikubrævið": "1TH",
+  "2 a Tessalónikubrævið": "2TH",
+  "1 a Timoteusarbrævið": "1TI",
+  "2 a Timoteusarbrævið": "2TI",
+  "1 a almenna bræv Pæturs": "1PE",
+  "2 a almenna bræv Pæturs": "2PE",
+  "Annað Mósebók": "EXO",
+  "Fyrra Kongabók": "1KI",
+  "Fyrra Korintbrævið": "1CO",
+  "Fyrra Timoteusarbrævið": "1TI",
+  "Jóhannes": "JHN",
+  "Lukas": "LUK",
+  "Markus": "MRK",
+  "Matteus": "MAT",
+  "Rómverjabrævið": "ROM",
+  "Seinna Kongabók": "2KI",
+  "Seinna Sámuelsbók": "2SA"
+ },
+ "yv": 374,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

@@ -1,0 +1,420 @@
+{
+ "menuName": "Thok Nath",
+ "htmlLang": "nus",
+ "dir": "ltr",
+ "brand": "Wec Kuoth kɛ Nyin Kɛl",
+ "docTitle": "Wec Kuoth kɛ Nyin Kɛl · Kä Cak amäni Kanith",
+ "share": {
+  "title": "Wec Kuoth kɛ Nyin Kɛl",
+  "text": "Kɛ nyin kɛl, jëk wec mi di̱i̱t Ruac Kuɔth — kɛnɛ ɛŋu cu Yecu ben."
+ },
+ "ui": {
+  "people": "Nɛy",
+  "events": "Ŋɔaani ti dɔ̱ŋ",
+  "christLabel": "Cɔt Yecu",
+  "loveLabel": "Nhök mi /ci bɛ̈c",
+  "mythWrong": "Carä mi jiäk",
+  "mythRight": "Thuɔɔk",
+  "more": "Kɛ̈n nhiam",
+  "version": "(2155)"
+ },
+ "labels": {
+  "start": "Tukä",
+  "thread": "Wec",
+  "gospel": "Ruac Mi Gɔaa",
+  "about": "Kɛ kui̱c"
+ },
+ "s": {
+  "ui.share": "↗ Bɛ̈n",
+  "ui.toast": "Ca laar käp 📋",
+  "ui.footer": "Wec Kuoth kɛ Nyin Kɛl · Ruac Kuɔth kä Wec Kuoth (2155)",
+  "hero.kicker": "KÄ CAK AMÄNI KANITH",
+  "hero.title": "Wec Kuoth,<br><span class=\"em\">kɛ nyin kɛl</span>",
+  "hero.sub": "Kɛ nyin kɛl, jëk wec mi di̱i̱t Ruac Kuɔth — kɛnɛ ɛŋu cu Yecu ben.",
+  "hero.cue": "Jiɛ̈c piny<span>↓</span>",
+  "thread.eyebrow": "RUAC MI KƐL MI MAT KƐN DIAAL",
+  "thread.h2": "Kä thukdɛ, Ruac Kuɔth ɛ wec mi kɛl",
+  "thread.flow": "<b>Lëŋ</b><span class=\"arw\">→</span><b>Liep</b><span class=\"arw\">→</span><b>Thuɔ̱k</b>",
+  "thread.note": "Kuoth <b>lëŋ</b> (lëŋ Kuɔth), kä <b>liepkɛ</b> nɛy gua̱a̱th mi bär, kä kä thukdɛ ca ŋɔaani diaal <b>thuɔ̱k</b> kä cikɛ jɔc rɛy Yecu. Kuany ŋɔaani ti wäl-rɛw-kɛl- wä-ca̱b tin tɔ̱tɔ̱ piny rɛy wec ɛmɔ — bi̱t <b>“Kɛ̈n nhiam”</b> kä käth kärɔ kɛ kui̱ wec mi nuäär.",
+  "gospel.eyebrow": "ƐŊU ƐN WEC ƐMƐ KƐ KUI̱ “ƔÄN”",
+  "gospel.h2": "Lɔac thuɔ̱k Ruac Kuɔth",
+  "gospel.lead": "Ruac Kuoth <b>/ciɛ wäli ŋuɔ̱tä kɛ kui̱ “raan mi gɔaa.”</b>",
+  "gospel.sublead": "Ɛ wec ɛn ɣöö cu Kuoth, <b>kɛ puɔ̱th baaŋ kärɔa</b>, ji̱ dueeri tin /ki dee rɔ̱ luäk kuɛn. Kä lɔacdɛ tɔ̱ Yecu Kritho.",
+  "gospel.mirror": "<h3>Ɛn ciaŋ I-thɛ-rɛl mi /ci bɛ̈c ɛ caab “ɣän”</h3><div class=\"cycle\"><b>Lät dui̱rä</b><span class=\"a\">→</span><b>Bɛ̈c</b><span class=\"a\">→</span><b>Wee</b><span class=\"a\">→</span><b>Kuoth luäk</b><span class=\"a\">→</span><b>Lät dui̱rä bɛ̈ɛ̈…</b></div><p>Kä Ruëëc amäni walä, cu I-thɛ-rɛl ciaŋ ɛmɛ läät a /ci bɛ̈c. /Cu Ruac Kuɔth ɛ gɔ̱r kɛ ɣöö dee kɔn kɛ thɛt i̱, “Cikɛ rɔ̱ jiäk ɛlɔ̱ŋ.”</p><p>Ɛ <b>caab</b>. Carädɛ /ciɛ “cu I-thɛ-rɛl ɛmɔ lät” a ɛ <b>“ɣän bä mɔ läät”</b> (1 Kor 10:11).</p><p>Ɛn <b>kuɔth dui̱rä</b> /ciɛ ni mac mi ca caw kärɔa. Ɛ <b>min diaal nhɔakɛ kɔn kiɛ ŋä̱thnɛ jɛ a leny Kuoth</b> — yio̱w, jɔac, lëëŋ, nɛy, amäni ɣän rɔdä. Kä la̱t Kuɔth a <b>luäk kɛ ɣöö ba goaa lɔacdä jek</b> ɛ kuɔth dui̱rä bä.</p><p class=\"punch\">Kä thukdɛ, kuɔth dui̱rä mi tɔ̱ piny ɛlɔ̱ŋ ɛ “ɣän rɔdä, nyuur wi̱i̱ kɔm kuäärä Kuɔth.”</p>",
+  "gospel.coreIntro": "Kä, ŋu bi Kuoth ɛn raan dui̱rä ɛmɛ luäk? Ɛ jɛn lɔac ruac mi gɔaa mi laar Ruac Kuɔth ɛmɔ.",
+  "gospel.crux": "<p class=\"crux-lead\">Cɔt Ruac Kuɔth diaal guäth mi kɛl.</p><p>/Kɛn naath dee ciaŋ dui̱rä kuec kɛ buɔ̱mdiɛn kärɔ, kä thilɛ raan mi cuŋ. Kɛ kui̱c ɛmɔ go̱rɛ raan mɔ <b>cut duŋ dui̱rä kä guäthdan</b>.</p><p>/Cu Yecu ben ni kɛ ɣöö bɛ wäl ti gɔaa käm. Kɛ ɣöö thilɛ guäth dɔ̱ŋ mi dee ɣä luäk, <b>go̱rɛ jɛ ben.</b></p><p class=\"crux-punch\">Ɛn raan mëë do̱r te wi̱i̱ tim ɛmɔ ɛ <b>ɣän</b>.<br>Cu Yecu <b>dui̱rdä</b> ka̱n kä ca jɛ tɛ̈ŋ thi̱n kä guäthdä.</p><div class=\"crux-verse\">“Ca jɛ moc buɔ̱ɔ̱t kɛ kui̱dueerikɔn,ca jɛ riac kɛ kui̱ jiäknikɔn … kɛ buɔ̱ɔ̱tkɛ ca kɔn jak kä gɔw.” — I-ca-yaa 53:5</div>",
+  "faq.h": "Tɔ̱ kɛ mi käämi ŋotdu?",
+  "faq.q1": "<span class=\"arr\">▸</span> Kɛ ɣöö raan in nak naath ŋääth jɛ kä wä nhial, kä raan mi gɔaa mi /ci ŋäth wä mac?",
+  "faq.a1": "<p>Ɛ thiec mi gɔaa. Kä tɔ̱ kɛ ŋɔak ti rɛw ti kanɛ thi̱n.</p><p><b>① /Cu Ruac Kuɔth nɛy tɛkä rɛw i̱ “nɛy ti gɔaa” kɛnɛ “nɛy ti jiäk.”</b> Ɛn min thörɛ kɛ /ciɛ “gɔaa a leny raan mi tɔ̱ thiakdu” a ɛ “gɔɔy puɔnyä Kuɔth mi thuɔ̱k.” Nhiamdɛ, thilɛ raan mi “gɔaa amäni” (Röm 3:23). Kɛ ɣöö /ciɛ “raan mi gɔaa kɛnɛ raan in nak naath,” a ce̱tkɛ nɛy ti rɛw tin tëkkɛ jua̱i̱ mi kɛl mi nak — cu raan kɛl wal nhɔk, kä cu raan dɔ̱ŋ jɛ pa̱l a wee i̱, “Ɣän gɔaa a leny raan ɛmɔ.”</p><p><b>② Min tɛkä nhial kɛnɛ mac ɛ kɛl ni kärɔa.</b> /Ciɛ kuen lätni, a ɛ <b>mi̱ ci Yecu Kritho ka̱n a Kuäär kä ci dui̱rdu jɔc.</b> Ɛn raan mi ci dui̱rdɛ jɔc kɛ ri̱ɛm Kritho wä nhial; kä raan mi /ci jɛ ka̱n, mi ŋot dui̱rdɛ tɔ̱, /ci wä. Thilɛ lät mi gɔaa mi dee dui̱rdu jɔc kärɔa.</p><p>Kɛ kui̱c ɛmɔ nhial kɛnɛ mac /ciɛ “muc kɛ kui̱ lät mi gɔaa” a ɛ ŋɔaani <b>mat kɛ Kritho</b>. Kä “ŋa̱th” /ciɛ ŋa̱th kɛ wi̱c kärɔa, a ɛ lɔac mi locɛ rɔ̱ kä tëkdu: raan mi ka̱n jɛ ni thuɔ̱k /ci a gua̱n kak, a riet rɔdɛ a tɔ̱ piny ɛlɔ̱ŋ. Kä gɔɔy rɔdä (“ɣän raan mi gɔaa”) ɛ kuɔth dui̱rä mi tɛ̈t kueecä, mi jak kɔn i̱ /kuɔ̱nɛ kɛ Kritho (Luk 18:9-14).</p><p>Cu Ruac Kuɔth ɛ laar a tëp: <b>“/Ca nɛy tin ŋääth jɛ kuɛth, kä nɛy tin /ca jɛ ŋäth cakɛ ku thuŋ kuɛ̈th li̱th”</b> (Jɔ̱ɔ̱n 3:18). Lui̱c /ciɛ “kuen lätku mëë ci li̱w,” a ca jɛ guic kɛ <b>mi̱ ci Kritho ka̱n</b>.</p><p class=\"faq-v\">Röm 3:23 · Jɔ̱ɔ̱n 3:18 · Ɛpɛ 2:8-9 · Luk 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> /Cuɛ rɔ̱ ro̱ŋ ni ɣöö ba a raan mi gɔaa, a /ci Yecu ŋäth?",
+  "faq.a2": "<p>Ɛ min carɛ nɛy ti ŋuan, kä /ŋäckɛ min ɛ “lɔac dui̱rä mi thuɔ̱k.” Nɛ̈nɛ caab ɛmɛ.</p><p><b>Carɛ jɛ i̱ tɔ̱ɔ̱ rɛy ɣɔ̱ɔ̱ŋ kuɛ̈l.</b> Mi gɔaani ɣɔ̱ɔ̱ŋ ɛlɔ̱ŋ, kä gɔaani kɛ nɛy ti läät thi̱n, kä cieŋ kɛ tëk mi gɔaa — ŋot a ɛ <b>kuɛ̈l</b>, kɛ ɣöö ca naŋ kärɔ kɛ ɣɔ̱ɔ̱ŋ guäth mi wäänɛ thi̱n (guäth lui̱c). Min dui̱rä /ciɛ “kuen lätku” a ɛ <b>“ɣɔaŋ in tɔ̱ɔ̱di thi̱n” (raan in i̱di̱)</b>.</p><p>Kɛ kui̱c ɛmɔ /cu ruac mi gɔaa i̱ “gɔaa ɛlɔ̱ŋ”; a wee i̱ <b>“loc ɣɔaŋ.”</b> Bä̱r piny kä ɣɔaŋ dui̱rä, kä waa kä Yecu — kä raan in i̱di̱ mi pay, ɛn <b>gat Kuɔth</b>. /Ciɛ jak kuen lätku të̈ɛ̈ jek a ɛ ŋa̱th raan in luäk ji̱ kä cak waa kä ɣɔaŋdɛ.</p><p>Cu Ruac Kuɔth lui̱c laar a ce̱tkɛ loc ɛmɔ — <b>“Jɛn cɛ kɔn kän kä buɔ̱m muɔ̱th, kä cɛ kɔn naŋ rɛy kuäärä Gatädɛ min nhɔkɛ”</b> (Kol 1:13).</p><p>/Cu jɛ ŋäth a jiäk: <b>/ciɛ ɣöö thilɛ tëk mi gɔaa mi te kɛ luäk.</b> Tëk mi gɔaa /ciɛ “lëŋ” lui̱c a ɛ <b>mëdɛ</b>. Raan mi ci ɣɔaŋdɛ loc cieŋ a gɔaa, /ciɛ kɛ duɛ̈r, a kɛ nhök gat.</p><p class=\"faq-v\">Kol 1:13 · Jɔ̱ɔ̱n 1:12 · Jɔ̱ɔ̱n 3:3 · Ɛpɛ 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Mi wee raan in jiäk i̱ “Cu Kuoth ɣä pa̱l” kä cieŋ kɛ mal, kä ŋot raan in ca jɛ jiäk kɛ tëkdɛ a bɛ̈cɛ — /ci pa̱l ɛmɔ a buc?",
+  "faq.a3": "<p>Ɛ thiec mi cuŋ, kä bɛ̈c ɛmɔ ɛ thuɔ̱k. Kä riet ɛmɔ /ciɛ “pa̱l Ruac Kuɔth” a ɛ <b>loc</b> jɛ.</p><p><b>① /Cu pa̱l Kuɔth a buc nyin kɛl.</b> /Cu dui̱r kuan a ce̱tkɛ ɣöö “/ci rɔ̱ jiäk”; cu Kuoth rɔdɛ duŋdɛ cut kɛ tëk Gatdɛ. /Cu tim nyuɔth ɛn ɣöö ca dui̱r guic a kui̱c, a ɛ ɣöö ɛ dui̱r mi thiek ɛlɔ̱ŋ: ɛ pa̱l mi te kɛ duŋ mi di̱i̱t a leny ŋɔaani diaal wi̱i̱ muɔ̱ɔ̱n.</p><p><b>② Loc rɔ̱ mi thuɔ̱k te kɛ mɛ.</b> Mi cieŋ raan in jiäk a tɛ̈t nhiam raan in ca jiäk — “Cu Kuoth ɣä pa̱l, kɛ kui̱c ɛmɔ tä̱ä̱ kɛ mal” — /ciɛ loc rɔ̱ a ɛ caab loc rɔ̱ (Mɛ̈t 3:8). Kä pa̱l kä kam raan kɛnɛ Kuoth /ci buɔ̱ɔ̱t raan in ca jiäk loc kiɛ jɛ jiök i̱ palɛ raan.</p><p><b>③ /Cu dui̱r a pal ni kärɔa.</b> Ca dui̱r diaal cut guäth kɛl kä guäth ti rɛw — <b>kiɛ ca̱pɛ Kritho wi̱i̱ tim</b> (kä nɛy tin ŋääth jɛ thilɛ lui̱c bɛ̈ɛ̈, Röm 8:1), <b>kiɛ ca̱p ɛ raan in /ci jɛ ka̱n a kɔ̱n.</b> Kɛ kui̱c ɛmɔ thilɛ “pa̱l mi buc.” Ɛn raan in jiäk te bä kɛ duŋ ŋuɔ̱tä wi̱i̱ muɔ̱ɔ̱n ɛmɛ (Röm 13:1-4).</p><p><b>④ /Cu wieni raan in ca jiäk a tɔt nhiam Kuɔth.</b> Cu Kuoth wii kɛ nɛy tin wiekɛ, kä ŋäckɛ wee diaal, kä bɛ kɛ poc ɛ rɔdɛ kä thukdɛ (Nyuuth 21:4). Kɛ kui̱c ɛmɔ /cu raan in ca jiäk duŋ colä cut kärɔa, a dëë jɛ pa̱l kä Kuoth in cuŋ (Röm 12:19 — “Cut ɛ duŋdä, bä jɛ col”).</p><p class=\"faq-v\">Mɛ̈t 3:8 · Röm 8:1 · Röm 13:1-4 · Nyuuth 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Ruac Kuɔth ɛ wec mi thuɔ̱k? Ce̱tkɛ pa̱l mi ti̱i̱t kiɛ wec mi ca caar.",
+  "faq.a4": "<p>Ɛ thiec mi cuŋ — kä ɛ guäth tukä mi gɔaa. Riɛ /ciɛ buɔ̱th ŋa̱thä a ɛ go̱r mi go̱rɛ ŋɔaani guic a thuɔ̱k. /Ci Ruac Kuɔth a pa̱l mi ti̱i̱t mi “ŋääthi mi käämi” a ɛ gɔ̱r mi ca gɔ̱r wi̱i̱ <b>gua̱a̱th, nini, kɛnɛ nɛy ti thuɔ̱k</b>. Cap ti tɔt.</p><p><b>① /Ciɛ wec mi kɛl a ɛ “luaak wec” — kä ŋotkɛ mat kɛ wec mi kɛl.</b> Ɛ Ruac Kuɔth luaak <b>wec ti dhonok-wäldäŋ-rɛw</b> tin ca gɔ̱r rɛy <b>run a ce̱tkɛ thoaŋ-kä-dhi-mi-ji̱ɛ̈n kɛ nɛy ti ce̱tkɛ wäldäŋ</b> — kua̱r, nɛy ti ti̱i̱t thɔ̱k, nɛy ti gɔk rɛc, raan in ka̱n yio̱w, raan walä, nɛy ti pek, kä cikɛ kɛ gɔ̱r a tëkɛ rɔ̱ kä /ki ŋä̱c rɔ̱, rɛy thuɔ̱kni ti diɔ̱k (I-bru, A-ram, Gri̱k). Kä ŋotkɛ mat kɛ wec mi kɛl: <b>luäk rɛy Kritho</b>. Ɛn matä ɛmɛ ɛ ŋɔɔt mi jiäk lui̱c a ce̱tkɛ ŋɔaani ti ben kä /ki guic.</p><p><b>② Ca jɛ nyuɔth kä muɔ̱ɔ̱n (lät guicä).</b> Ŋɔaani ti ŋuan tin ci kɛ pal mëë ti̱i̱t a ce̱tkɛ ŋɔaani ti ca caar, ca kɛ guic kä muɔ̱ɔ̱n. Ɛn <b>dhɔr Dee-bid</b> kɛ pa̱l mi ca gɔ̱r i̱ “duëël Dee-bid”; <b>Pɔn-ti-ɔ Pi-laat</b>, ɛn kuäär in li̱w Yecu, kɛ pa̱l mi te kɛ ciötdɛ; cua amäni <b>nɛy Ɣi-tit</b>, tin mëë cɔlkɛ kɛ i̱ “nɛy ti /ci tɔ̱” cikɛ ben kä do̱r mi di̱i̱t.</p><p><b>③ Ɛ gɔ̱r mi nuäär kä gɔ̱r tin di̱n diaal.</b> Kä kuen gɔ̱r tin ŋot tɔ̱, kä matdiɛn kɛ rɔ̱, kɛnɛ guäath mi tɔ̱ kam gɔ̱r kɛnɛ cuat, Ruac Kuɔth <b>thilɛ mi caatkɛ kɛ jɛ kä gɔ̱r ti di̱n.</b> Ɛn gɔ̱r I-ca-yaa mi tɔ̱ nhiam Kritho, kam <b>Gɔ̱r ti tɔ̱ Wäär Lia̱a̱</b> (tin ca jek run dhonok-wäldäŋ-päärou-kä-dhi-apar-kä-bäkɛl), cɛ rɔ̱ ro̱ŋ kɛ gɔ̱r in tɔ̱ thi̱n run thoaŋ thukdɛ a ce̱tkɛ ŋä̱k kɛ ŋä̱k.</p><p><b>④ Ŋɔaani tin ca gɔ̱r nhiam cikɛ rɔ̱ ron a thuɔ̱k (lëŋ).</b> Ɛn Mut mi Tuk, mi ca gɔ̱r run ti ŋuan nhiam Yecu, cɔt dapdɛ Bɛth-li-ɣɛm (Mikaa 5:2), gua̱n bɛ̈c (I-ca-yaa 53:5), kɛnɛ ŋɔaani tim (Diit 22). Ɛ thiek ɛlɔ̱ŋ kɛ ɣöö ba pal i̱ ɛ ŋä̱k.</p><p><b>⑤ Cu nɛy göök tin /ci tɔ̱ rɛy Ruac Kuɔth ɛ gɔ̱r bä.</b> Ɛn gua̱n gɔ̱rä Rom <b>Tha-thi-tɔ</b> kɛnɛ gua̱n gɔ̱rä Ju <b>Jo-thi-pɔ</b> — /ki kɛ kɛ riak — latkɛ Yecu, lui̱cdɛ, kɛnɛ kanith in tuk. Ɛlɔ̱ŋä, cu nɛy gɔ̱rä tin ci dwääŋ kɛ riɔ̱c <b>tëkdiɛn ka̱m</b> kɛ ɣöö nyuɔthkɛ jiek mëë cieŋ Yecu — thilɛ raan mi li̱w kɛ kui̱ min ŋäcɛ jɛ i̱ ɛ ŋä̱k.</p><p>Kä thuɔɔk, ŋɔaani ti̱ti̱ nyuɔthkɛ i̱ ŋa̱th Ruac Kuɔth <b>/ciɛ wic-thil-carä a ɛ wi̱c mi te kɛ carä</b>; /ciɛ “nyuɔth” mi käm raan a buɔ̱m a ce̱tkɛ kuen. Kɛ kui̱c ɛmɔ buɔ̱m gat Kuɔth /ci kä nyuɔth kärɔa, a kä <b>buɔ̱m mi käm Yiëë in Gɔaa lɔac mi guicɛ raan Ruac Kuɔth</b>. Wee Ruac Kuɔth i̱ <b>“Kɛ ɣöö ŋa̱th bëë kä mi ca liŋ, kä mi ca liŋ bëë kɛ lat cio̱tdä Kritho”</b> (Röm 10:17). Kɛ kui̱c ɛmɔ, mi ce̱tkɛ ŋä̱k ɛlɔ̱ŋ, <b>guicdu rodu</b> ɛ tukä. Cu nyuɔth thok lëp, kä bɛ buɔ̱m dɔ̱p rɛy raan in guic.</p><p class=\"faq-v\">2 Kua̱r 20:20 · I-ca-yaa 53:5 · Mikaa 5:2 · Röm 10:17</p>",
+  "respond.h3": "Kä — ŋu bä läät ɣän?",
+  "respond.sub": "Ɛn nhök ɛmɛ /ciɛ ŋä̱k a ɛ <b>cɔ̱l</b>. Mi ci nhök mëë ca tɛ̈ŋ wi̱i̱ tim kä guäthdu lɔacdu mut, lamɛ lam ɛmɛ a buom, riet kärɔ kɛ riet kärɔ.",
+  "respond.prayer": "<p>Kuoth,</p><p>ŋa̱cä jɛ i̱ ɛ ɣän raan dui̱rä mi /ki dee rɔ̱ luäk.</p><p>Ŋa̱thä jɛ i̱ cu Yecu li̱w kɛ kui̱dä wi̱i̱ tim kä cuɛ rɔ̱ jɛk.</p><p>Pä̱l dui̱rdä diaal, kä waldɛ ɛmɛ ba Kuäär tëkdä.</p><p>Ka̱nä a gatdu, kä jak ɣä cieŋä tëk mi pay.</p><p class=\"amen\">Kɛ ciöt Yecu lamä lam. Amen.</p>",
+  "respond.after": "Mi ci lam ɛmɛ lam kɛ lɔacdu thuɔ̱k, wee Ruac Kuɔth i̱ ci a <b>gat Kuɔth</b>. /Ki di̱i̱t kärɔa — go̱r kanith mi tɔ̱ thiakdu kä waathdu ni kɛn kä kuɛ̈th ŋa̱thä.",
+  "respond.read": "Guic Ruac Kuɔth rodu — tuoki kɛ Jɔ̱ɔ̱n",
+  "respond.verse": "“Nɛy diaal tëë ca jɛ nhɔk kä ca ciötdɛ ŋäth, cuɛ kɛ moc cuɔ̱ɔ̱ŋ kɛ ɣöö bikɛ a gaat Kuɔth.” — Jɔ̱ɔ̱n 1:12 · Röm 10:9-10",
+  "closing.main": "Kuoth mi kɛl,<br>kɛ wec mi kɛl,<br>cɔtɛ kɔn kɛ <em>nhök</em><br>mi /ci bɛ̈c.",
+  "closing.verse": "“Cäŋɛ lia̱a̱, kiɛ tëk … kiɛ mi dɔ̱ŋ rɛy cäkä kɛɛliw, thilɛ duɔ̱ɔ̱r mi bi kɔn da̱a̱k kä nhök Kuɔth rɛy Kritho Yecu Kuääran!” — Röm 8:38-39",
+  "closing.small": "Wi̱i̱ wec ɛmɛ, cu Mut, gɔ̱r diit, gua̱a̱n laar, kɛnɛ gɔ̱r ti dɔ̱ŋ ka̱m “riŋ.”<br>Kä walɛ, mi ci wec mɔ lëp, bia jɛ ŋa̱c i̱ “tɔ̱ɔ̱di guäth in i̱di̱ rɛy wec.”",
+  "closing.share": "↗ Bɛ̈n wec ɛmɛ",
+  "about.line": "Cu wec ɛmɛ tetkɛ rɔ̱ kä <b>guic luäk-wecä, ŋa̱thä-thuɔ̱kä kɛnɛ Reformed</b> mi te kɛ kanith ti ŋuan Kori̱a.",
+  "about.contact": "Thiec · ruac — <a id=\"contact\" class=\"mail\">Gɔ̱r ɛn imeel</a>"
+ },
+ "epochs": [
+  {
+   "tag": "MUT IN TUK · TUKÄ",
+   "title": "Cak",
+   "date": "Ni tukädɛ",
+   "one": "Cu Kuoth muɔ̱ɔ̱n cak mi “gɔaa ɛlɔ̱ŋ.”",
+   "people": "Kuoth; A-dam kɛnɛ I-bä",
+   "events": "Cak kɛ ni̱ni baakɛl, raan mi ca cak a ce̱tkɛ Kuoth, lɔ̱ŋ cäŋ in nyu̱u̱r",
+   "q": "Ni tukädɛ Kuoth cɛ Nhial kɛnɛ piny cak.",
+   "cite": "Tuk 1:1",
+   "christ": "Ca muɔ̱ɔ̱n cak kɛ “Ruac.” Wee Ruac Mi Gɔaa Jɔ̱ɔ̱n i̱ ɛn Ruac ɛmɔ ɛ Yecu rodɛ (Jɔ̱ɔ̱n 1:1-3).",
+   "detail": "<p>/Cu Ruac Kuɔth tuok kɛ ruac carä a ɛ kɛ riet: <b>“Ni tukädɛ, Kuoth…”</b> Muɔ̱ɔ̱n /ciɛ ŋä̱k a ɛ lät Kuɔth in la raan.</p><ul><li><b>Caab Kuɔth</b> · kä cak diaal, ɛ raan kärɔa mi ca cak a ce̱tkɛ Kuoth — kɛ ɣöö bɛ jɛ ŋa̱c kä guic muɔ̱ɔ̱n.</li><li><b>Lɔ̱ŋ</b> · lɔ̱ŋ cäŋ in dhoröw nyuɔth ɛn ɣöö ci ŋɔaani diaal thuɔ̱k kä tä̱ä̱ kɛ mal: “Cɛ guic ɛn ɣöö gɔaa.”</li><li><b>I-dɛn</b> · muɔ̱ɔ̱n nhiam dui̱rä, kam waathkɛ ni Kuoth kɛnɛ raan kɛɛl.</li></ul>",
+   "next": "Kä ɛn thuɔ̱k ɛmɛ bɛ guɔ̱ rɔ̱ jiäk…"
+  },
+  {
+   "tag": "MUT IN TUK · TUOK DUI̱RÄ",
+   "title": "Buäŋ",
+   "date": "Ni tukädɛ",
+   "one": "Cu dui̱r ben thi̱n, kä ca matkä raan kɛnɛ Kuoth pä̱ä̱t.",
+   "people": "A-dam kɛnɛ I-bä; thɔ̱l (Catan)",
+   "events": "Cam mith in ci pen, jiɛɛn kä I-dɛn, ben lia̱a̱ kɛnɛ tääm",
+   "q": "Bä kamdun yɛnɛ ciek moc kɛ tɛr … Ba wi̱cdu kuɛm ɛ kɛn.",
+   "cite": "Tuk 3:15",
+   "christ": "Lëŋ in tuk ruacä mi gɔaa, mi ca käm thiak buäŋ: bɛ “gaat ciekä” wi̱c thɔ̱l kuem. Ɛn ɛ Yecu (Tuk 3:15; Röm 16:20; Gäl 4:4).",
+   "detail": "<p>Kɛ duɛɛr lokä mi go̱rɛ kɛn i̱ ba “a ce̱tkɛ Kuoth,” cu dui̱r ben wi̱i̱ muɔ̱ɔ̱n. Min ben /ciɛ ŋä̱k buäth ŋuɔ̱tä a ɛ <b>buäŋ matä</b>.</p><ul><li><b>Matä ti ca buäŋ</b> · kɛ Kuoth (thiäkä rɔ̱), kɛ nɛy ti dɔ̱ŋ (jiök käm), kɛ muɔ̱ɔ̱n (kuɔ̱th kɛnɛ tääm).</li><li><b>Lia̱a̱</b> · cu riet in wee i̱ “bi li̱w” rɔ̱ ja̱k.</li><li><b>Tuk 3:15</b> · kä rɛy lui̱c, ca lëŋ luäk käm nhiam. Cɔlkɛ jɛ nɛy göökni <b>“protoevangelium” (ruac mi gɔaa in tuk)</b>.</li></ul>",
+   "next": "Walɛ cu Kuoth raan kɛl cɔl kä cuɛ luäk tuok…"
+  },
+  {
+   "tag": "MUT IN TUK · LËŊ",
+   "title": "Gua̱n Tukni",
+   "date": "ca̱r 2000 nhiam Kritho",
+   "one": "Cu Kuoth Abraɣam lëŋ i̱, “Bia a guäth puɔ̱th.”",
+   "people": "Abraɣam · I-thak · Ja-kob · Jo-thep",
+   "events": "Lëŋ Abraɣam, käm I-thak, gaat Ja-kob ti wäl-rɛw, Jo-thep a kuäär I-jëp",
+   "q": "Bä do̱r mi di̱i̱t cak kɛ ji̱ … Kä döör diaal wi̱i̱ muɔ̱ɔ̱n baakɛ poth kɛ ciötdu.",
+   "cite": "Tuk 12:2-3",
+   "christ": "Ɛn lëŋ in wee i̱ “bä döör diaal poth” cɛ rɔ̱ thuɔk rɛy Yecu, gat Abraɣam (Gäl 3:16).",
+   "detail": "<p>Cu Kuoth lɔac dui̱rä nɛɛni diaal tuok kɛ cɔlɛ raan kɛl, <b>Abraɣam</b>. Lɔacdɛ ɛ <b>lëŋ</b> — do̱r mi di̱i̱t, muɔ̱ɔ̱n, kɛnɛ “puɔ̱th döör diaal.”</p><ul><li><b>Ŋa̱th</b> · cu Abraɣam lëŋ in /ci nɛn ŋäth, kä ca jɛ kuɛn a cuɔ̱ɔ̱ŋ (Tuk 15:6).</li><li><b>I-thak kɛnɛ Ja-kob</b> · cu lëŋ wä nhiam; Ja-kob (I-thɛ-rɛl) ɛ gua̱n döörni wäl-rɛw.</li><li><b>Jo-thep</b> · ca jɛ ŋɔ̱ɔ̱c kä dämärkɛ a ŋot ca jak a kuäär — “ci Kuoth ca̱pdun loc ni mi gɔaa” (Tuk 50:20).</li></ul>",
+   "next": "Cikɛ kuany Jo-thep wä I-jëp… kä cikɛ a lia̱."
+  },
+  {
+   "tag": "MUT IN TUK · LUÄK",
+   "title": "Bä̱r kä I-jëp kɛnɛ Wuɔ̱th",
+   "date": "ca̱r 1446 nhiam Kritho",
+   "one": "Cu Kuoth nɛy ti lia̱ luäk kä cuɛ kɛ jak a marädɛ.",
+   "people": "Mo-thith, A-rɔn, Pɛ-rɔ",
+   "events": "Lui̱c ti wäl-täu, Bä̱r kä I-jëp, kac wär in li̱th, Ŋuɔ̱t ti wäl-täu kä Thi-nai, luaak, run päärou-kä-aŋwän kä wuɔ̱th",
+   "q": "Ɣän bä yɛ ka̱n ala nɛɛkä, kä ba̱a̱ Kuothdun.",
+   "cite": "Ɣöth 6:7",
+   "christ": "Ɛn Bä̱r kä I-jëp, kam loc ri̱ɛm cieŋ lia̱a̱, cɔt Yecu, “cieŋ Bä̱rdan,” mi ca tɛ̈ŋ wi̱i̱ tim kɛ kui̱dan (1 Kor 5:7).",
+   "detail": "<p>Ɛ lät luäk mi di̱i̱t ɛlɔ̱ŋ kä Mut in Tuk. Cu I-thɛ-rɛl, in mëë lia̱, jek bä̱r kä buɔ̱m Kuɔth kä cikɛ jak a <b>nɛɛkɛ</b>.</p><ul><li><b>Bä̱r kä I-jëp</b> · ɛn duël mi ca cak kɛ ri̱ɛm cieŋ thɔ̱k, /ci lia̱a̱ jɛ käp — ɛ caab tɛ̈ɛ̈ diaal ti ben nhiam.</li><li><b>Wär in li̱th</b> · luäk guäth mi thuk wäth thi̱n; “bä̱r kä lɔ̱c” a caab tukä mi pay.</li><li><b>Lëŋ Thi-nai</b> · kɛ Ŋuɔ̱t ti wäl-täu nyɔ̱ɔ̱ckɛ cieŋ a ce̱tkɛ nɛy Kuɔth.</li><li><b>Luaak</b> · luaak mi naŋkɛ kam cieŋ Kuoth kam nɛy — caab in tuk “Kuoth-kɛ-Kɔn.”</li><li><b>Run päärou-kä-aŋwän</b> · kɛ duɛ̈r cieŋ jɔ̱ɔ̱k kɛl wuɔ̱th, kä ŋot Kuoth tä̱ä̱ kɛ kɛn kɛ mi̱th kɛnɛ kɔm boal kɛnɛ mac.</li></ul>",
+   "next": "Cuŋkɛ nhiam muɔ̱ɔ̱n in ca lëŋ, kä lätkɛ rɔ̱ kɛ bën…"
+  },
+  {
+   "tag": "MUT IN TUK · NYUUR MUƆ̱Ɔ̱NÄ",
+   "title": "Kac kɛnɛ Ruëëc",
+   "date": "ca̱r 1400–1050 nhiam Kritho",
+   "one": "Cikɛ muɔ̱ɔ̱n jek, kä thil kuäär, kä cu raan kärɔ min gɔaa waaŋdɛ läät.",
+   "people": "Jɔc; ruëc-ni ce̱tkɛ Gi-de-ɔn kɛnɛ Tham-thɔn; Ruth",
+   "events": "Bä̱r Jɛ-ri-kɔ, nyuur Ka-nan, ciaŋ dui̱rä-lui̱cä-luäkä mi /ci bɛ̈c",
+   "q": "Ɛn ni̱ni tɔ̱tɔ̱ thilɛ kuäär kä I-thɛ-rɛl. Lät ramɔ ni min gɔaa waaŋdɛ.",
+   "cite": "Ruëëc 21:25",
+   "christ": "Kä dhɔr Ruth ben Dee-bid, kä kä dhɔr Dee-bid ben Yecu (Mɛ̈t 1). Amäni rɛy ŋecä, cu dhɔr Mɛ-thaya kuec wä nhiam.",
+   "detail": "<p>Kä Jɔc cikɛ wä muɔ̱ɔ̱n in ca lëŋ, kä mëë cikɛ nyuur cikɛ Kuoth gua̱ a buɔ̱ɔ̱r. Ruëëc ɛ caab in kɛl mi /ci bɛ̈c.</p><ul><li><b>Ciaŋ dui̱rä</b> · dui̱r → bɛ̈c → wee → ruëc luäk → dui̱r bɛ̈ɛ̈, kä jak rɔ̱ a jiäk ɛlɔ̱ŋ.</li><li><b>Ruëc-ni</b> · Gi-de-ɔn, Tham-thɔn, De-bɔ-ra — nɛy luäk ti gua̱a̱th tin di̱n, ti te kɛ buɔ̱m kä te kɛ duɛɛr ɛlɔ̱ŋ.</li><li><b>Ruth</b> · wec ŋä̱th mi boal rɛy ni̱ni ti ŋec; cu ciek göök ben rɛy dhɔr Dee-bid (kɛnɛ Yecu).</li></ul>",
+   "next": "Cu nɛy wee i̱, “Käm kɔn kuäär bä!”…"
+  },
+  {
+   "tag": "MUT IN TUK · NHIAM",
+   "title": "Kuäär in Mat",
+   "date": "ca̱r 1050–930 nhiam Kritho",
+   "one": "Cu Kuoth Dee-bid lëŋ i̱, “Bi kɔm kuäärädu te thi̱n mäni cäŋ kɛl.”",
+   "people": "Ca-ul · Dee-bid · Tho-lo-mɔn",
+   "events": "Kuäär in tuk Ca-ul, Dee-bid kɛnɛ Go-li-at, lëŋ Dee-bid, luaak Tho-lo-mɔn",
+   "q": "Kä dhɔru kɛnɛ kuääru, bi ka ti te thi̱n mäni cäŋ kɛl nhiamdä, kä bi kɔm kuäärädu te thi̱n mäni cäŋ kɛl.",
+   "cite": "2 Tham 7:16",
+   "christ": "Cu “kɔm in te thi̱n mäni cäŋ kɛl” rɔ̱ thuɔk rɛy Yecu, gat Dee-bid; kɛ kui̱c ɛmɔ cɔlkɛ jɛ “Gat Dee-bid” (Luk 1:32-33; Mɛ̈t 1:1).",
+   "detail": "<p>Ɛ nhiam I-thɛ-rɛl, kä kuäär ti diɔ̱k.</p><ul><li><b>Ca-ul</b> · kuäär in tuk in ci nɛy thiec; tukä mi gɔaa, kä ca kuɛth kɛ duɛɛr lokä.</li><li><b>Dee-bid</b> · “raan mi tetkɛ rɔ̱ kɛ lɔac Kuɔth.” Cuɛ Go-li-at jɔk kä cuɛ Jɛ-ru-tha-lɛm jak a kɔaŋdɛ. Cuɛ dui̱r mi di̱i̱t läät (Bath-thɛ-ba), kä cuɛ rɔ̱ loc kɛ lɔacdɛ (Diit 51).</li><li><b>Lëŋ Dee-bid (2 Tham 7)</b> · cu Kuoth lëŋ i̱ bɛ dhɔrdɛ jak a te thi̱n mäni cäŋ kɛl — ɛ mɛ in di̱i̱t buɔ̱th ŋä̱th Mɛ-thaya.</li><li><b>Tho-lo-mɔn</b> · kä nhiam pɛlä kɛnɛ jɔac cuɛ <b>luaak</b> Jɛ-ru-tha-lɛm caw, kä cuɛ wä kuei̱ dui̱rä kä thukdɛ.</li></ul>",
+   "next": "Kä thuɔ̱k Tho-lo-mɔn, cu kuäär rɔ̱ pä̱ä̱t a rɛw…"
+  },
+  {
+   "tag": "MUT IN TUK · TUƆƆ̱P",
+   "title": "Kuäär in Pä̱ä̱t",
+   "date": "930–586 nhiam Kritho",
+   "one": "Ca pä̱ä̱t a wä thi̱i̱la (Juda) kɛnɛ pa̱m (I-thɛ-rɛl), kä cuɛ rɔ̱ jiäk thiŋ thiŋ.",
+   "people": "Kua̱r duëli rɛw; gua̱n göökni ce̱tkɛ I-li-ja, I-ca-yaa, kɛnɛ Yir",
+   "events": "Pä̱ä̱t kuäärä, lät dui̱rä, riet gua̱n göökni",
+   "q": "Inɔ cu thuk duëli kuec caam a ji̱ tɛ̈r thuɔk duëël Dee-bid amäni walɛ.",
+   "cite": "1 Kua̱r 12:19",
+   "christ": "Kä ni̱ni ti̱ti̱ cu gua̱n göökni Mɛ-thaya in bi ben laar a ce̱t a tɛp (I-ca-yaa 9:6; I-ca-yaa 53).",
+   "detail": "<p>Kä ni̱ni gat Tho-lo-mɔn cu kuäär rɔ̱ pä̱ä̱t: <b>I-thɛ-rɛl (pa̱m)</b>, döör wäldäŋ, kɔaŋ Tha-ma-ria; kɛnɛ <b>Juda (thi̱i̱la)</b>, döör rɛw, kɔaŋ Jɛ-ru-tha-lɛm.</p><ul><li><b>Pa̱m</b> · cu kua̱rdɛ diaal kui̱th la̱t; cuɛ kuɛth kä Ä-thi-ria run 722 nhiam Kritho.</li><li><b>Thi̱i̱la</b> · cu dhɔr Dee-bid kuec, kä tɔ̱ kɛ kua̱r ti gɔaa ce̱tkɛ Ɣɛth-ki-ya kɛnɛ Jo-thi-ya, kä thukdɛ cikɛ wä piny.</li><li><b>Gua̱n göökni</b> · cu I-li-ja, A-mɔth, I-ca-yaa, Yir wee i̱ “loc rɔ̱!” Kä ka̱n göök Mɛ-thaya nhiam (ɛn “gua̱n bɛ̈c” I-ca-yaa 53).</li></ul>",
+   "next": "Kä thuɔɔk cu lui̱c in ca laar ben: ca kɛ naŋ a lia̱…"
+  },
+  {
+   "tag": "MUT IN TUK · LUI̱C",
+   "title": "Naŋ Liai̱",
+   "date": "722 / 586 nhiam Kritho",
+   "one": "Cu kuäär kuec kä ca nɛy naŋ a lia̱ muɔ̱ɔ̱n göök.",
+   "people": "Dan, Yɛdh, Nɛ-bu-kad-nɛdh-dha",
+   "events": "Cu I-thɛ-rɛl kuec kä Ä-thi-ria (722); cu Juda kuec kä Bɛ̈-bi-lɔn kä ca luaak jiäk (586)",
+   "q": "Kɔn cua̱kɔ nyuur wuɔ̱thnikiɛri Bɛ̈-bi-lɔn,ɛn wi̱ni cua̱kɔ wiee thi̱n,mëë cakɔ Dha-yɔn tim.",
+   "cite": "Diit 137:1",
+   "christ": "Kä lɔac bɛ̈cä, cu Yir “ruac in thia̱k” lëŋ (Yir 31:31) — ɛn ruac ɛmɔ in ca Yecu jak a buöm kä mi̱th in thukä.",
+   "detail": "<p>Cu riet ti ca laar rɔ̱ thuɔk. Cu luaak wä mac kä ca nɛy naŋ Bɛ̈-bi-lɔn — pa̱lkɛ muɔ̱ɔ̱n, kuäär, kɛnɛ luaak: ɛ guäth mi jiäk ɛlɔ̱ŋ.</p><ul><li><b>Kuec ti rɛw</b> · I-thɛ-rɛl (Ä-thi-ria, 722 nhiam Kritho) kɛnɛ Juda (Bɛ̈-bi-lɔn, 586 nhiam Kritho).</li><li><b>Dan</b> · caab ŋä̱th amäni rɛy duël kuäär in /ci ŋäth Kuoth (kɔr ti̱i̱ŋni); cuɛ nyuth nɛn kuäär “mi te thi̱n mäni cäŋ kɛl” in bi ben.</li><li><b>Bɔ̱ä̱r ŋä̱th</b> · nɛn cuɔ̱pni ti ru̱u̱c tekä ti loc tëk (Yɛdh 37) kɛnɛ “lëŋ in pay” Yir cɔtkɛ nhiam rɛy mu̱u̱th.</li></ul>",
+   "next": "Kä run thi̱i̱r-dhoröw thukdiɛn, cu Kuoth wäth lëp: cikɛ wä ciɛɛŋ…"
+  },
+  {
+   "tag": "MUT IN TUK · NYUUR",
+   "title": "Loc kä Naŋ Liai̱",
+   "date": "538–430 nhiam Kritho",
+   "one": "Cikɛ loc kä cikɛ luaak kɛnɛ go̱r caw bɛ̈ɛ̈.",
+   "people": "Ɛdh, Nɛm, Ɛth, Dho-ro-ba-bel",
+   "events": "Loc kɛ riet Cai-rɔ, caw luaak, caw go̱r Jɛ-ru-tha-lɛm, loc Ruac Kuɔth",
+   "q": "Kɛ ɣöö tɛ̈th lɔaac Kuɔth Nhial ɛ jɛn la buɔ̱mdun ɔ.",
+   "cite": "Nɛm 8:10",
+   "christ": "Cu Mɛ̈l, gɔ̱r in thukä Mut in Tuk, thuk kɛ laar jääk mi pär wäth Mɛ-thaya: “Ɣän cä jääkdä ja̱k” (Mɛ̈l 3:1).",
+   "detail": "<p>Cu loc tuok kɛ riet kuäär Pɛr-thia Cai-rɔ (538 nhiam Kritho). Kä mut ti diɔ̱k cikɛ loc kä cikɛ ŋɔaani ti ca jiäk caw bɛ̈ɛ̈.</p><ul><li><b>Dho-ro-ba-bel</b> · cuɛ luaak caw (ca thuk run 516 nhiam Kritho).</li><li><b>Ɛdh</b> · cuɛ Ruac Kuɔth ŋic bɛ̈ɛ̈ kä cuɛ ŋä̱th loc.</li><li><b>Nɛm</b> · cuɛ go̱r Jɛ-ru-tha-lɛm caw rɛy ni̱ni thi̱i̱r-dhi̱ɛ̈c-kä-rɛw.</li><li><b>Ɛth</b> · cuɛ nɛy Ju ti tɔ̱ Pɛr-thia luäk kä li̱w — “ɛŋa ŋäc i̱ kɛ kui̱ gua̱a̱th ɛmɛ…?”</li><li><b>Riɛ mi ŋot tɔ̱</b> · cuŋ luaak nhiam, kä thilɛ kuäär ce̱tkɛ Dee-bid. Liep nɛy Mɛ-thaya.</li></ul>",
+   "next": "Kä walɛ… a ce̱tkɛ nhial mi ca gak, cu run buɔ̱ɔ̱t kä bär ben."
+  },
+  {
+   "tag": "KAM MUT TI REW · NYɔ̱Ɔ̱C GUÄTHÄ",
+   "title": "Run Mu̱u̱thni",
+   "date": "ca̱r 430–4 nhiam Kritho",
+   "one": "Run buɔ̱ɔ̱t kä bär thil rol gua̱n göökä; kä ca guäth nyɔ̱ɔ̱c kɛ mu̱u̱th.",
+   "people": "Ä-lɛk-than-dɛr in Di̱i̱t, nɛy Ma-ka-bi, Rom",
+   "events": "Pɛr-thia → Gri̱k → bä̱r Ma-ka-bi → buɔ̱m Rom",
+   "q": "Kä mëë ci gua̱a̱th in ro̱ŋ cop, cu Kuoth Gatdɛ ja̱k, cua jɛ dap ɛ ciek.",
+   "cite": "Gäl 4:4",
+   "christ": "Cu “nyɔ̱ɔ̱c guäthä” ɛmɛ diaal a lät Kuɔth kɛ ɣöö bɛ Yecu ben ni kä “gua̱a̱th in ro̱ŋ.”",
+   "detail": "<p>Kä Mɛ̈l amäni Mut in Pay, cu run ca̱r 400 buɔ̱ɔ̱t thil Ruac Kuɔth mi pay (gua̱n göökni). Kä thukdɛ, cu Kuoth wäth pär kɛ kui̱ bä̱r ruacä mi gɔaa.</p><ul><li><b>Loc kua̱r duurä</b> · Pɛr-thia → Gri̱k (Ä-lɛk-than-dɛr, 333 nhiam Kritho) → Tɔ-lɛ-mi kɛnɛ Thɛ-lɛ-ku → bä̱r Ma-ka-bi (167 nhiam Kritho) → Rom (63 nhiam Kritho).</li><li><b>Thok Gri̱k</b> · cu bä̱r Ä-lɛk-than-dɛr thok Gri̱k jak a thok kɛl; ca Mut in Tuk loc thok Gri̱k (Thɛp-tu-a-gint), kä wäth lëp kɛ ɣöö bɛ ruac mi gɔaa wä a tɛp.</li><li><b>Göök kɛnɛ mal Rom</b> · cu göök ti gɔaa kɛnɛ “mal Rom” a göök bä̱r ruacä.</li><li><b>Duël göökä kɛnɛ dueli</b> · cu ŋic duël göökä nyuur thi̱n; cu Pa-ri-thi kɛnɛ Ca-du-thi ben; kä cu <b>liep Mɛ-thaya</b> di̱t.</li></ul>",
+   "next": "Kä, mëë ci mu̱u̱th lëp, cuɛ ben kä thukdɛ."
+  },
+  {
+   "tag": "MUT IN PAY · THUƆ̱K",
+   "title": "Ben Yecu",
+   "date": "ca̱r 4 nhiam Kritho–30 walä Kritho",
+   "one": "Cu Mɛ-thaya in ca lëŋ ben, li̱w, kä cuɛ rɔ̱ jɛk.",
+   "people": "Yecu, nɛy ti puɔ̱ny-rɛw, Jɔ̱ɔ̱n in Mut Naath",
+   "events": "Ben a raan, lätdɛ kɛ ŋic kɛnɛ ŋɔaani ti di̱i̱t, lia̱a̱ wi̱i̱ tim, jɛk rɔ̱ kä cäŋ in däŋrɔw",
+   "q": "Cu Ruac ben ala Raan, kä cuɛ cieŋ rɛydan … nɛn cɛ thia̱ŋ kɛ nhök kɛnɛ thuɔ̱k.",
+   "cite": "Jɔ̱ɔ̱n 1:14",
+   "christ": "Gaat ciekä (wäl 2), puɔth Abraɣam (3), cieŋ Bä̱rä (4), kuäär Dee-bid in te thi̱n mäni cäŋ kɛl (6), kɛnɛ lëŋ in pay (8) — cikɛ diaal rɔ̱ thuɔk rɛy raan mi kɛl, Yecu: gua̱n göökdan in thuɔ̱k, gua̱n lamä in thuɔ̱k, kɛnɛ kuäärdan in thuɔ̱k.",
+   "detail": "<p>Mëë ci mu̱u̱th lëp, cuɛ ben, in ca lëŋ. Cu Ruac Mi Gɔaa ti aŋwän nyuɔth tëk, lia̱a̱, kɛnɛ jɛk rɔ̱ Yecu kä guäth ti aŋwän.</p><ul><li><b>Ben a raan</b> · cu Kuoth a raan (Kuoth-kɛ-Kɔn, “Kuoth tä̱ä̱ kɛ kɔn”), kä piny Bɛth-li-ɣɛm.</li><li><b>Lätdɛ</b> · cuɛ rui̱c Kuɔth ŋic, cuɛ ji̱-jua̱i̱ jak a gɔaa, cuɛ ji̱-dueeri cɔl. “Raan mi ci ɣä nɛn cɛ Gua̱a̱r nɛn.”</li><li><b>Tim</b> · cuɛ duŋ dui̱rä kɛnɛ lia̱a̱ tin ci buäŋ ben kɛ kɛ (wäl 2) cut kä guäthdan. Ɛ cieŋ Bä̱rä in thuɔ̱k.</li><li><b>Jɛk rɔ̱</b> · cäŋ in däŋrɔw cuɛ rɔ̱ jɛk kä cuɛ buɔ̱m dui̱rä, lia̱a̱, kɛnɛ Catan jɔk — amäni wi̱i̱ tim, <b>“Cuɛ buɔ̱m ruëëcni kɛnɛ kua̱r woc … cɛ kɛ puɔ̱t kɛ lia̱a̱dɛ jɔk jiaath”</b> (Kol 2:15).</li></ul><p>Kɛ kui̱c ɛmɔ Yecu ɛ <b>gua̱n göökdan in thuɔ̱k</b> (nyuɔth kɔn göl Kuɔth), <b>gua̱n lamä in thuɔ̱k</b> (cut dui̱r kɛ pua̱nydɛ rodɛ), kɛnɛ <b>kuäärdan in thuɔ̱k</b> (jɔk dui̱r, lia̱a̱, kɛnɛ Catan, kä bi cieŋ mäni cäŋ kɛl).</p>",
+   "next": "Cu Yecu in ci jɛk rɔ̱ nɛy puɔ̱nydɛ jak wä wi̱i̱ muɔ̱ɔ̱n…"
+  },
+  {
+   "tag": "MUT IN PAY · TƐP",
+   "title": "Tukä Kanith",
+   "date": "ca̱r 30 walä Kritho–",
+   "one": "Cu Yiëë ben, kä cu ruac mi gɔaa wä a tɛp amäni pek ɣɔaa.",
+   "people": "Pi-tɛr, Pɔl, kanith in tuk",
+   "events": "Ben Yiëë kä Pɛn-ti-kɔth, dap kanith, wä ruacä mi gɔaa kä Jɛ-ru-tha-lɛm wä Rom rɛy bɛ̈c",
+   "q": "Kä yɛn bia buɔ̱m jek mi wä Yiëë in Gɔaa in Rɛl Rɔ ben kä yɛ … kɛ Tha-mɛ-ria kɛnɛ pek ɣɔaa kɛɛliw.",
+   "cite": "Lät 1:8",
+   "christ": "Cu wec ɛmɛ ŋot wä nhiam amäni walɛ. Cu Ruac Kuɔth thuk kɛ lëŋ ɛn ɣöö bɛ Yecu loc ben kä bɛ ŋɔaani diaal jak a ti pay (Nyuuth 21).",
+   "detail": "<p>Kä thuɔ̱k wä nhial Yecu, cu Yiëë in ca lëŋ ben kä Pɛn-ti-kɔth kä ca kanith dap. Cu ruac mi gɔaa wä a tɛp ɛlɔ̱ŋ.</p><ul><li><b>Pɛn-ti-kɔth</b> · kɛ Yiëë, cu nɛy puɔ̱ny ti riɔ̱c rɔ̱ jak a nɛy nëën ti te kɛ buɔ̱m.</li><li><b>Pi-tɛr</b> · cuɛ ruac mi gɔaa nɛy Ju laar kä Jɛ-ru-tha-lɛm.</li><li><b>Pɔl</b> · kä gua̱n bɛ̈cä cuɛ a gat lät; cuɛ kanith caw rɛy döör göök kä cuɛ gɔ̱r gɔ̱r.</li><li><b>Amäni pek ɣɔaa</b> · Jɛ-ru-tha-lɛm → Ju-dia → Tha-mɛ-ria → Rom. Cu lëŋ Abraɣam kɛ “döör diaal” rɔ̱ thuɔk.</li><li><b>Kɛnɛ kɔn</b> · /cu wec a thuk; ŋotɛ wä nhiam wä loc ben Yecu kɛnɛ nhial in pay kɛnɛ muɔ̱ɔ̱n in pay.</li></ul>",
+   "next": "Kä /cu wec a thuk guäth ɛmɛ…"
+  },
+  {
+   "tag": "MUT IN PAY · THUƆ̱K",
+   "title": "Loc kä Ti Pay",
+   "date": "in bi ben",
+   "one": "Bɛ Yecu loc ben kä bɛ ŋɔaani diaal jak a ti pay.",
+   "people": "Yecu in bi loc ben; döör diaal",
+   "events": "Loc ben, lui̱c in thukä, thuɔ̱k dui̱rä·lia̱a̱·wieni, nhial in pay kɛnɛ muɔ̱ɔ̱n in pay",
+   "q": "Kä bɛ mer nyinkiɛndiaal poc.Kä bɛ cu thil lia̱a̱,kɛnɛ pa̱r, kɛ wiee,kɛnɛ bɛ̈c pua̱ny.",
+   "cite": "Nyuuth 21:4",
+   "christ": "Cu I-dɛn cak in tuk a thuk loc a “Jɛ-ru-tha-lɛm in pay.” Bɛ Kuoth cieŋ kɛ nɛɛdɛ mäni cäŋ kɛl — thuɔ̱k Kuoth-kɛ-Kɔn (Nyuuth 21:3; Mɛ̈t 1:23).",
+   "detail": "<p>/Cu Ruac Kuɔth a thuk kä ni̱ni kanith. Gɔ̱rdɛ in thukä, Nyuuth, nyuɔth Yecu mi <b>loc ben</b> kä bɛ ŋɔaani diaal thuɔ̱k.</p><ul><li><b>Loc ben</b> · bɛ kuäär in ca lëŋ loc ben kɛ buɔ̱m.</li><li><b>Buɔ̱m in thukä</b> · bɛ Catan kɛnɛ lia̱a̱ jɔk mäni cäŋ kɛl, kä bɛ Kritho cieŋ a Kuäär Kua̱rä (1 Kor 15:25-26; Nyuuth 20:10).</li><li><b>Lui̱c kɛnɛ jɛk rɔ̱</b> · bɛ ŋɔak diaal locɛ a cuŋ, kä bɛ nɛy lia̱ jɛk rɔ̱.</li><li><b>Nhial in pay kɛnɛ muɔ̱ɔ̱n in pay</b> · bɛ dui̱r, lia̱a̱, wieni, kɛnɛ bɛ̈c thil mäni cäŋ kɛl (Nyuuth 21:4).</li><li><b>I-dɛn in ca loc caw</b> · rɛy “Jɛ-ru-tha-lɛm in pay” mi gɔaa a leny tukä, bɛ Kuoth cieŋ kɛ nɛɛdɛ mäni cäŋ kɛl — ɛ guäth in cɔt Ruac Kuɔth diaal.</li></ul><p>Kɛ kui̱c ɛmɔ walɛ ɛ ni̱ni <b>“ci a thuk, kä ŋot /ci thuk”</b>: rɛy Yecu cu luäk <b>guɔ̱</b> thuk, kä ŋot thukdɛ <b>liepkɛ</b> jɛ.</p>",
+   "next": "Kä, ŋu wec ɛmɛ diaal läät kɛ kui̱ “ɣän”?"
+  }
+ ],
+ "love": [
+  "/Cu wec tukä rɔ̱ tuok kɛ lui̱c a ɛ kɛ muɔ̱ɔ̱n mi ca cak kɛ nhök mi di̱i̱t.",
+  "Mëë ci raan dui̱r läät, cu Kuoth luäk lëŋ thi̱n ni gua̱a̱th ɛmɔ.",
+  "Cu Kuoth raan in /ci jɛ ro̱ŋ go̱r nhiam, cuɛ jɛ cɔl kɛ ciötdɛ kä cuɛ jɛ jak a guäth puɔ̱th.",
+  "Cuɛ wee nɛy ti lia̱ liŋ kä cuɛ piny ben rodɛ kɛ ɣöö bɛ kɛ luäk.",
+  "Mi cikɛ jɛ jiök a /ci bɛ̈c, kä gua̱a̱th diaal wëëkɛ cuɛ raan luäk ja̱k kä cuɛ kɛ jak ti loc.",
+  "/Cu Dee-bid in ci buäŋ pal bä; kɛ kui̱dɛ cuɛ kuäär in te thi̱n mäni cäŋ kɛl lëŋ.",
+  "Cu nɛy ti thiäkkɛ rɔ̱ kä jɛ jak gua̱n göökni la̱r, läŋä kɛ i̱, “Locdu, kä̱c.”",
+  "Cuɛ piny ben kɛ kɛ amäni muɔ̱ɔ̱n in jiäk ɛlɔ̱ŋ liai̱, kä cuɛ loc lëŋ.",
+  "Cu nɛy ti jiäk a /ci bɛ̈c, /cu lëŋdɛ ka̱n kä kɛ, a cuɛ kɛ loc jak ti loc.",
+  "Amäni rɛy run 400 mu̱u̱thni, kä mu̱u̱th, cuɛ göök bä̱r luäkä pär.",
+  "Mëë ŋuɔtnɛ ala ji̱ dueer, cuɛ Gatdɛ ja̱k kä cuɛ tëkdɛ ka̱m.",
+  "Ɛn nhök ɛmɔ in ca kän, walɛ cuɛ jak a wä a tɛp wi̱i̱ muɔ̱ɔ̱n diaal.",
+  "Kä thuɔ̱k bɛ wieni diaal poc kä bɛ ŋɔaani diaal jak a ti pay kɛ nhök."
+ ],
+ "mis": [
+  {
+   "w": "“Ɛŋu cu Kuoth raan mi dee dui̱r läät cak? /Ciɛ gɔaa ni ɣöö /cuɛ rɔ̱ cak ɔ?”",
+   "t": "/Cu Kuoth muɔ̱ɔ̱n kɛnɛ raan cak kɛ wäldɛ a ɛ kɛ nhök mi di̱i̱t. Jak raan a <b>raan mi dee mat kɛ Kuoth</b> ɛ nhök rodɛ. Kä amäni ben dui̱rä /ci tɔ̱ rɛy lɔac luäkä Kuɔth (Ɛpɛ 1:4-5). Wec in tuk Ruac Kuɔth /ciɛ lui̱c a ɛ nhök."
+  },
+  {
+   "w": "“Ca jɛ ja̱k raar kä cuɛ lia̱a̱ jek kɛ kui̱ cam mith mi kɛl? /Ci Kuoth a buc ɛlɔ̱ŋ?”",
+   "t": "Ɛn jak raar kä I-dɛn ɛ lui̱c kɛnɛ kuäny lɔac kärɔa. Mi cieŋ raan mäni cäŋ kɛl kä jek tëk kä jiäth tëkä, a pä̱ä̱t kɛ Kuoth kä rɛy buäŋ ɛmɔ, bɛ tä̱ä̱ rɛy bɛ̈c mäni cäŋ kɛl (Tuk 3:22). Ɛn pal lia̱a̱ ɛ wäth göl loc; kä ni gua̱a̱th ɛmɔ cu Kuoth raan luäk lëŋ (Tuk 3:15). Kä rɛy lui̱c, cu nhök tɔ̱ guɔ̱."
+  },
+  {
+   "w": "“Ca Abraɣam kuany kɛ kui̱ ŋä̱thdɛ mi di̱i̱t; /cikɛ nɛy Ruac Kuɔth diaal a nɛy buɔ̱m ŋuɔ̱tä?”",
+   "t": "Cu Abraɣam göŋ bä kä cuɛ buɔ̱th ŋäth, kä cu Ja-kob a gua̱n göŋä. /Cu Kuoth “nɛy ti ro̱ŋ” cɔl a cuɛ nɛy ti te kɛ duɛɛr cɔl kɛ puɔ̱th. Mɛ kuanydiɛn /ciɛ gɔɔydiɛn a ɛ nhök Kuɔth mi cuŋ (Ŋuɔ̱t 7:7-8)."
+  },
+  {
+   "w": "“/Ci ŋut (Ŋuɔ̱t ti wäl-täu) a guic kiɛ ŋɔaani tin ba kɛ läät kɛ ɣöö ba kɔn luäk?”",
+   "t": "Cu Kuoth kɛ luäk <b>nhiam</b> käm ŋut. Cu Ŋuɔ̱t ti wäl-täu rodiɛn tuok kɛ riet luäkä: “Ɛ ɣän Kuoth Nhial Kuothdun ëë käm yɛ raar muun I-jëp” (Ɣöth 20:2). /Ci ŋut i̱ “lät kɛ ɣöö ba ji̱ luäk,” a ɛ nyuɔth nhökä kɛ ɣöö ba nɛy tin ci luäk kɛ puɔ̱th cieŋ ɛdi̱ (Ŋuɔ̱t 7:7-9). Cɔt puɔ̱th nhiam ni kärɔa; kä liŋ ɛ loc."
+  },
+  {
+   "w": "“Ɛ kac Ka-nan a nɛ̈k mi thil nhök; kɛ kui̱c ɛmɔ Kuoth Mut in Tuk ɛ buc.”",
+   "t": "Ɛ wec mi /ci dee thuk kɛ riet mi kɛl kä go̱rɛ guicä mi gɔaa. Kä /cu Ruac Kuɔth ɛ nyuɔth a riak in thil carä a ɛ lui̱c kä thuɔ̱k jiek mi di̱i̱t (a ce̱tkɛ käm gaat) kä liŋ mi bär (Tuk 15:16; Ŋuɔ̱t 9:4-5; Liib 18:24-25). /Cu Kuoth a riɛ̈p amäni rɛy luicä, kä cuɛ nɛy tin ci rɔ̱ loc kä jɛ ka̱n kɛ lɔac mi gɔaa, amäni nɛy göök ce̱tkɛ Ra-ɣab kɛnɛ Ruth (Jɔc 6:25; Ruth 4:13-17)."
+  },
+  {
+   "w": "“Ɛ Dee-bid raan mi thil duɛɛr; kɛ kui̱c ɛmɔ cɔlkɛ jɛ ‘raan mi tetkɛ rɔ̱ kɛ lɔac Kuɔth.’”",
+   "t": "Cu Dee-bid lät rɔ̱ ŋuɔ̱tä kɛnɛ amäni nɛ̈k. “Raan mi tetkɛ rɔ̱ kɛ lɔac Kuɔth” /ciɛ ɣöö thilɛ duɛɛr, a ɛ raan mi /ci dui̱rdɛ thiäk — mi ci rɔ̱ loc a thuk kä cuɛ loc kä Kuoth mäni cäŋ kɛl (Diit 51). /Cu nhök Kuɔth amäni raan in ci buäŋ a jiäk pal."
+  },
+  {
+   "w": "“Gua̱n göökni ɛ gua̱n caarä mi laar ŋɔaani ti bi ben; Kuoth Mut in Tuk ni a thuɔ̱k.”",
+   "t": "Lɔac gua̱n göökni /ciɛ “laar ŋɔaani ti bi ben” a ɛ läŋ Kuɔth mi tɔ̱ piny ɛlɔ̱ŋ: “Locdu, kä̱c.” Amäni laar lui̱cä /ciɛ go̱r jiäk a ɛ go̱r loc nɛy kä jak kɛ a ti tëk — “ɣän thilɛ mi nhɔakä kä lia̱a̱ ji̱ nyuɔɔni” (Yɛdh 33:11)."
+  },
+  {
+   "w": "“Cu naŋ liai̱ nyuɔth ɛn ɣöö cu Kuoth I-thɛ-rɛl pal a thuk.”",
+   "t": "/Cu naŋ liai̱ a pal a thuk a ɛ kuel kɛnɛ gɔɔy gat in nhɔakɛ (Ɣib 12:6). /Cu Kuoth wä; cuɛ tä̱ä̱ kɛ Dan lɔac naŋ liai̱ kä cuɛ lëŋ i̱, “Ŋa̱cä min cä car kɛ kui̱dun, ca̱r mi gɔaa … ca̱r mi bi jak ni yɛ kä tekɛ nhiam kɛnɛ ŋa̱th” (Yir 29:11)."
+  },
+  null,
+  {
+   "w": "“Mi thilɛ ruac run 400, cu Kuoth wä kiɛ tä̱ä̱ kɛ lɔ̱ŋ.”",
+   "t": "/Ci mu̱u̱th a ŋä̱k. /Cuɛ ruac ni kärɔa, kä ŋot a läät kua̱r duuri, thuɔ̱kni, kɛnɛ göök kɛ ɣöö bɛ guäth luäkä pär. Kä gua̱a̱th in mu̱u̱th ɛlɔ̱ŋ, ŋot Kuoth a lät ɛlɔ̱ŋ, kɛ nhök (Gäl 4:4)."
+  },
+  {
+   "w": "“Ɛ Yecu ni gua̱n ŋicä mi gɔaa mi kɛl; cu tim a lui̱c mi jiäk.”",
+   "t": "Cu Yecu rɔ̱ laar i̱ ɛ Kuoth rodɛ (Jɔ̱ɔ̱n 8:58), kä /cu tim a ŋɔɔt mi jiäk kiɛ lui̱c a ɛ nhök mi ca car. /Ca jɛ naŋ thi̱n kɛ buɔ̱m, a cuɛ tëkdɛ ka̱m kɛ lɔacdɛ rodɛ (Jɔ̱ɔ̱n 10:18). “Thilɛ ram mi tekɛ nhök mi leny nhök ɛmɛ, ɛn ɣöö tho̱p raan tëkdɛ kɛ kui̱ mäthnikɛ” (Jɔ̱ɔ̱n 15:13)."
+  },
+  {
+   "w": "“Ɛ kanith dueel nɛy ti gɔaa thuɔ̱k, kiɛ ni duël kärɔa.”",
+   "t": "/Ci kanith a maat nɛy ti “gɔaa thuɔ̱k” a ɛ maat <b>nɛy dueeri ti ca pal</b>. Amäni gat lät Pɔl latɛ rodɛ kɛ ji̱ dueeri “tin jiäk ni ɣän rɛydiɛn ɛlɔ̱ŋ” (1 Tim 1:15). Cu kanith in tuk a riet kä cuɛ buäŋ bä (Lät 6:1; 1 Kor 1:11). /Ciɛ guäth kakä a ɛ nɛy tin ka̱m nhök in ci kɛ kän (Jɔ̱ɔ̱n 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Dui̱r in tuk — thilɛ raan mi cuŋ",
+   "body": "Min jiäk /ciɛ “ŋɔak ti jiäk tin tot” a ɛ mɛ lɔacä. Kä A-dam, ca nɛy diaal dap piny dui̱rä kä /kɛ dee Kuoth jek kɛ rɔ̱diɛn.",
+   "vref": "Röm 3:10-12, 23",
+   "vtext": "Thilɛ gua̱n cuŋni, Ëëy,thilɛ raan … ci kɛn diaal duer, kä pɛnkɛ a ciɛk kä gɔɔy puɔnyä Kuɔth."
+  },
+  {
+   "title": "/Ci ŋut dee ɣä luäk",
+   "body": "/Ci ŋut a kɔ̱c a ɛ caab. Mi gua̱a̱nidu jɛ kɔ̱c ɛlɔ̱ŋ, ɛ nyoothdɛ ɛn ɣöö pɛni ɛdi̱. Lɔacdɛ ɛ noŋ kɔn kä Kritho.",
+   "vref": "Röm 3:20 · Gäl 3:24",
+   "vtext": "Rɛy ŋutdä bä ŋäc dui̱rä thi̱n … cu ŋut a lueekdan amäni mëë ci Kritho ben."
+  },
+  {
+   "title": "Kɛ puɔ̱th — ɛ ŋä̱k, /ciɛ lät",
+   "body": "/Ci luäk a cut lätni tin ci jek a ɛ ŋä̱k Kuɔth mi käm raan mi /ki dee rɔ̱ ro̱ŋ. Kɛ kui̱c ɛmɔ thilɛ raan mi dee rɔ̱ liak.",
+   "vref": "Ɛpɛ 2:8-9",
+   "vtext": "Kɛ puɔ̱th baaŋ Kuɔth ca yɛ kän kɛ ŋa̱th … /Ciɛ luɔt lätnikun, a thilɛ ram mi dee rɔ liak."
+  },
+  {
+   "title": "Ca moc cuɔ̱ɔ̱ŋ kɛ ŋa̱th",
+   "body": "/Ciɛ guuri ŋut a ɛ ŋa̱th Yecu Kritho min jakkɛ kɔn a nɛy cuŋ — /ci kɔn rɔ̱ ruak kɛ cuŋ rɔdan a kɛ cuŋ rodɛ.",
+   "vref": "Röm 5:1 · Gäl 2:16",
+   "vtext": "Ca kɔn moc cuɔ̱ɔ̱ŋ kɛ ŋa̱th … /ca raan moc cuɔ̱ɔ̱ŋ kɛɛl kɛ Kuoth kɛ guuri ŋuɔ̱tni Muthɛ, muɔckɛ raan cuɔ̱ɔ̱ŋ kɛ ŋa̱th kɛ Yecu Kritho."
+  },
+  {
+   "title": "Cɔt Ruac Kuɔth Yecu",
+   "body": "/Ci Ruac Kuɔth a gɔ̱r tëk nɛy ti di̱i̱t kiɛ gɔ̱r luäk rɔ̱. Kä Tuk amäni Nyuuth, cu kä̱th diaal lat ruac nenä kɛ kui̱ raan mi kɛl — Yecu Kritho.",
+   "vref": "Jɔ̱ɔ̱n 5:39 · Luk 24:27",
+   "vtext": "Jɛn min lat ruac nenä kɛ kui̱dä … cu Yecu kɛ la̱t min ca lat kɛ kui̱dɛ rɛy buɔkni diaal."
+  },
+  {
+   "title": "Rui̱c Kuɔth — lɔac riet Yecu",
+   "body": "Ɛn wec in laar Yecu ɛlɔ̱ŋ. Cu rui̱c Kuɔth kam Kuoth la kuäär ben wi̱i̱ muɔ̱ɔ̱n kɛ Yecu kä bɛ thuk kä loc bendɛ. Kɛ tim kɛnɛ jɛk rɔ̱, Yecu ɛ Kuäär in thuɔ̱k in ci dui̱r, lia̱a̱, kɛnɛ Catan jɔk.",
+   "vref": "Mak 1:15",
+   "vtext": "Ci gua̱a̱th cop, kä ci ciaŋ rui̱cä Kuɔth thia̱k. Rietdɛ rɔ̱ dueerikun, kä ŋa̱thɛ thuk Kuɔth ti gɔw."
+  },
+  {
+   "title": "Ruac mi gɔaa — cɛ kɛ thuɔk diaal",
+   "body": "Ɛn duŋ dui̱rä mi /ki dee jɛ cut, cu Yecu jɛ cut kä guäthdä wi̱i̱ tim, kä kɛ jɛk rɔ̱ cuɛ lia̱a̱ jɔk. /Ca rɔ̱ liɛ kä “lät” a kä “cɛ ku thuuk.”",
+   "vref": "Jɔ̱ɔ̱n 19:30 · Röm 5:8",
+   "vtext": "Cɛ ku thuuk! … mëë ŋuɔtnɛ ala ji̱ dueer cu Yecu li̱w kɛ kui̱dan."
+  }
+ ],
+ "books": {
+  "Tuk": "GEN",
+  "Ɣöth": "EXO",
+  "Liib": "LEV",
+  "Kuen": "NUM",
+  "Ŋuɔ̱t": "DEU",
+  "Jɔc": "JOS",
+  "Ruëëc": "JDG",
+  "Ruth": "RUT",
+  "Ɛdh": "EZR",
+  "Nɛm": "NEH",
+  "Ɛth": "EST",
+  "I-yob": "JOB",
+  "Diit": "PSA",
+  "Pɛl": "PRO",
+  "Ŋi̱i̱c": "ECC",
+  "Thɔl": "SNG",
+  "I-ca-yaa": "ISA",
+  "Yir": "JER",
+  "Jiɛth": "LAM",
+  "Yɛdh": "EZK",
+  "Dan": "DAN",
+  "Ɣocä": "HOS",
+  "Yo-el": "JOL",
+  "A-mɔth": "AMO",
+  "Obad": "OBA",
+  "Jona": "JON",
+  "Mikaa": "MIC",
+  "Nɛ̈m": "NAM",
+  "Ɣäb": "HAB",
+  "Dhɛp": "ZEP",
+  "Ɣag": "HAG",
+  "Dhɛk": "ZEC",
+  "Mɛ̈l": "MAL",
+  "Mɛ̈t": "MAT",
+  "Mak": "MRK",
+  "Luk": "LUK",
+  "Jɔ̱ɔ̱n": "JHN",
+  "Lät": "ACT",
+  "Röm": "ROM",
+  "Gäl": "GAL",
+  "Ɛpɛ": "EPH",
+  "Pil": "PHP",
+  "Kol": "COL",
+  "Tay": "TIT",
+  "Pay": "PHM",
+  "Ɣib": "HEB",
+  "Jem": "JAS",
+  "Juud": "JUD",
+  "Nyuuth": "REV",
+  "1 Tham": "1SA",
+  "2 Tham": "2SA",
+  "1 Kua̱r": "1KI",
+  "2 Kua̱r": "2KI",
+  "1 Kuɛ̈n": "1CH",
+  "2 Kuɛ̈n": "2CH",
+  "1 Kor": "1CO",
+  "2 Kor": "2CO",
+  "1 Thɛ": "1TH",
+  "2 Thɛ": "2TH",
+  "1 Tim": "1TI",
+  "2 Tim": "2TI",
+  "1 Pit": "1PE",
+  "2 Pit": "2PE",
+  "1 Jɔ̱ɔ̱n": "1JN",
+  "2 Jɔ̱ɔ̱n": "2JN",
+  "3 Jɔ̱ɔ̱n": "3JN"
+ },
+ "yv": 2155,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

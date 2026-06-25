@@ -1,0 +1,428 @@
+{
+ "menuName": "Malti",
+ "htmlLang": "mt",
+ "dir": "ltr",
+ "brand": "Il-Bibbja f’daqqa t’għajn",
+ "docTitle": "Il-Bibbja f’daqqa t’għajn · Mill-ħolqien sal-Knisja",
+ "share": {
+  "title": "Il-Bibbja f’daqqa t’għajn",
+  "text": "F’rumblata waħda, skopri l-istorja kbira tal-Bibbja — u għaliex ġie Ġesù."
+ },
+ "ui": {
+  "people": "Persunaġġi",
+  "events": "Ġrajjiet ewlenin",
+  "christLabel": "Jindika lejn Ġesù",
+  "loveLabel": "Imħabba li ma taqtax qalbha",
+  "mythWrong": "Suppożizzjoni komuni",
+  "mythRight": "Il-verità",
+  "more": "Aqra iżjed",
+  "version": "(MALTI)"
+ },
+ "labels": {
+  "start": "Bidu",
+  "thread": "Il-ħajt tal-istorja",
+  "gospel": "L-Evanġelju",
+  "about": "Dwar"
+ },
+ "s": {
+  "ui.share": "↗ Aqsam",
+  "ui.toast": "Il-link ġie kkupjat 📋",
+  "ui.footer": "Il-Bibbja f’daqqa t’għajn · Is-siltiet bibliċi mill-Bibbja bil-Malti",
+  "hero.kicker": "MILL-ĦOLQIEN SAL-KNISJA",
+  "hero.title": "Il-Bibbja,<br><span class=\"em\">f’rumblata waħda</span>",
+  "hero.sub": "F’rumblata waħda, skopri l-istorja kbira tal-Bibbja — u għaliex ġie Ġesù.",
+  "hero.cue": "Niżżel l-iskrin<span>↓</span>",
+  "thread.eyebrow": "SENTENZA WAĦDA LI TORBOT KOLLOX FLIMKIEN",
+  "thread.h2": "Fl-aħħar mill-aħħar, il-Bibbja hi storja waħda",
+  "thread.flow": "<b>Wegħda</b><span class=\"arw\">→</span><b>Stennija</b><span class=\"arw\">→</span><b>Twettiq</b>",
+  "thread.note": "Alla <b>iwiegħed</b> (il-patt), il-poplu <b>jistenna</b> għal żmien twil, u fl-aħħar kollox <b>jitwettaq</b> u jitlesta f’Ġesù. Segwi t-13-il xena t’hawn taħt b’dan il-ħajt — agħfas <b>“Aqra iżjed”</b> fuq kull karta għall-istorja iktar fil-fond.",
+  "gospel.eyebrow": "X’TFISSER DIN L-ISTORJA GĦAL “JIENA”",
+  "gospel.h2": "Il-qalba vera tal-Bibbja",
+  "gospel.lead": "Il-Bibbja <b>m’hijiex ktieb dwar “kif tkun persuna tajba.”</b>",
+  "gospel.sublead": "Hija l-istorja ta’ kif Alla, <b>bil-grazzja biss</b>, ħeles il-midinbin li qatt ma setgħu jsalvaw lilhom infushom. Fiċ-ċentru tagħha hemm Ġesù Kristu.",
+  "gospel.mirror": "<h3>Iċ-ċiklu bla tarf ta’ Iżrael huwa tassew xbieha ta’ “jiena”</h3><div class=\"cycle\"><b>Idolatrija</b><span class=\"a\">→</span><b>Tbatija</b><span class=\"a\">→</span><b>Għajat</b><span class=\"a\">→</span><b>Alla jeħles</b><span class=\"a\">→</span><b>Idolatrija mill-ġdid…</b></div><p>Mill-Imħallfin sal-eżilju, Iżrael itenni dan iċ-ċiklu bla tmiem. Il-Bibbja ma niżżlitux biex inżebilħu lill-poplu, “Kemm kienu miżerabbli.”</p><p>Huwa <b>mera</b>. Il-punt mhux “Iżrael għamel hekk” imma <b>“jien nagħmel l-istess”</b> (1 Korintin 10:11).</p><p><b>Idolu</b> mhuwiex biss statwa minquxa. Huwa <b>kull ma nħobbu jew nafdaw fih iktar minn Alla</b> — flus, suċċess, approvazzjoni, nies, saħansitra jien stess. U li tuża lil Alla bħala <b>għodda biex tikseb dak li trid</b> hija wkoll idolatrija.</p><p class=\"punch\">Fl-aħħar, l-iktar idolu fil-fond huwa “jien stess, bilqiegħda fuq it-tron ta’ Alla.”</p>",
+  "gospel.coreIntro": "Mela kif isalva Alla midneb bħal dan? Hawn hi l-qalba tal-Evanġelju li xxandar il-Bibbja.",
+  "gospel.crux": "<p class=\"crux-lead\">Il-Bibbja kollha tindika lejn post wieħed.</p><p>Il-bniedem ma setax ikisser iċ-ċiklu tad-dnub waħdu, u ħadd ma kien ġust. Għalhekk xi ħadd kellu <b>iħallas il-prezz minfloku</b>.</p><p>Ġesù ma ġiex biss biex jagħti tagħlim tajjeb. Billi ma kien hemm l-ebda triq oħra biex jsalvani, <b>kellu jiġi bilfors.</b></p><p class=\"crux-punch\">Dak li kellu jkun imsallab fuq dik is-salib kien <b>jiena</b>.<br>Ġesù ġarr <b>dnubi</b> u ġie msammar hemm minfloki.</p><div class=\"crux-verse\">“Iżda hu kien miġruħ minħabba fi dnubietna, misħuq minħabba fi ħżunitna … u bis-swat tiegħu sibna l-fejqan tagħna.” — Isaija 53:5</div>",
+  "faq.h": "Għad qed tħabbat rasek b’xi ħaġa?",
+  "faq.q1": "<span class=\"arr\">▸</span> Mela qattiel jeħtieġlu biss jemmen u jmur il-ġenna, waqt li persuna tajba ħajjitha kollha li ma temminx tmur l-infern?",
+  "faq.a1": "<p>Hija mistoqsija ġusta. Imma fiha moħbija żewġ suppożizzjonijiet żbaljati.</p><p><b>① Il-Bibbja ma taqsamx lin-nies f’“tajbin” u “ħżiena.”</b> Il-kejl mhuwiex “aħjar mill-proxxmu” imma “l-qdusija perfetta ta’ Alla.” Quddiemu, ħadd mhuwa “tajjeb biżżejjed” (Rumani 3:23). Mela dan mhuwiex “persuna tajba kontra qattiel,” imma iżjed bħal żewġ morda bl-istess marda mġiba: wieħed jieħu l-fejqan, l-ieħor jirrifjutah u jgħid, “Jien iżjed b’saħħti minn dak.”</p><p><b>② Ħaġa waħda biss tifred il-ġenna mill-infern.</b> Mhux il-punteġġ tal-għemejjel, imma <b>jekk irċivejtx lil Ġesù Kristu bħala Sid u l-problema tad-dnub tiegħek ġietx solvuta</b>. Min id-dnub tiegħu jkun imħallas bid-demm ta’ Kristu jmur il-ġenna; min qatt ma jilqgħu, u d-dnub tiegħu jibqa’, le. L-ebda għemil tajjeb ma jista’ jsolvi għalik il-problema tad-dnub fih innifsu.</p><p>Għalhekk il-ġenna u l-infern m’humiex “premju għall-imġiba tajba,” imma kwistjoni ta’ <b>relazzjoni ma’ Kristu</b>. U “temmen” mhuwiex qbil tal-moħħ, imma bidla ta’ min imexxi ħajtek: min tassew jilqgħu ma jsirx wiċċu tost, imma jindem iktar fil-fond. Anzi, l-<b>awtoġustifikazzjoni</b> ta’ “jien tajjeb” hija l-iktar idolu diffiċli biex tinkiser, dak li jġiegħelna naħsbu li m’għandniex bżonn lil Kristu (Luqa 18:9-14).</p><p>Il-Bibbja tgħidha ċar: <b>“Min jemmen fih ma jkunx ikkundannat; iżda min ma jemminx huwa ġa kkundannat”</b> (Ġwanni 3:18). Il-ġudizzju mhuwiex “tikklassifika ħajtek fl-aħħar,” imma huwa diġà deċiż skont <b>jekk irċivejtx lil Kristu</b>.</p><p class=\"faq-v\">Rumani 3:23 · Ġwanni 3:18 · Efesin 2:8-9 · Luqa 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Mhux biżżejjed li nkun persuna tajba, anke jekk ma nemminx f’Ġesù?",
+  "faq.a2": "<p>Huwa l-iktar ħsieb komuni, imma jifhem ħażin x’inhi “l-problema vera.” Ħa nużaw xbieha.</p><p><b>Immaġina li qiegħed fuq bastiment tal-piraterija.</b> Daqs kemm iżżomm il-gverta nadifa, tkun ġentili mal-ekwipaġġ, u tgħix ħajja eżemplari, xorta tibqa’ <b>pirata</b>, għax il-bastiment iġorrok miegħu lejn fejn sejjer (il-port tal-ġudizzju). Il-problema mhijiex “il-punteġġ tal-għemejjel” imma <b>“ta’ liema bastiment int” (l-identità tiegħek)</b>.</p><p>Għalhekk l-Evanġelju ma jgħidx “kun aħjar,” imma <b>“ibdel il-bastiment.”</b> Inżel mill-bastiment tad-dnub u aqbeż għal Ġesù: lejn l-identità ġdida ta’ <b>iben ta’ Alla</b>. Mhux li tgħolli l-punteġġ tiegħek bl-isforz, imma li tafda f’Dak li jmidd idu lejk u taqsam lejn il-bastiment tiegħu.</p><p>Fil-fatt il-Bibbja tiddeskrivi s-salvazzjoni eżatt bħal dan it-“trasferiment”: <b>“Ħelisna mill-ħakma tad-dlam, u daħħalna fis-saltna ta’ Ibnu l-maħbub”</b> (Kolossin 1:13).</p><p>La tifhimhiex ħażin: <b>dan ma jfissirx li li tgħix tajjeb m’għandux valur.</b> Imma t-tjieba mhijiex il-“kundizzjoni” tas-salvazzjoni, imma l-<b>frott</b> tagħha. Min biddel il-bastiment issa jgħix tajjeb mhux mill-biża’, imma <b>mill-imħabba ta’ iben</b>.</p><p class=\"faq-v\">Kolossin 1:13 · Ġwanni 1:12 · Ġwanni 3:3 · Efesin 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Jekk min jagħmel il-ħsara jħossu fil-paċi, billi jgħid “Alla ħafirli,” waqt li l-vittma għadha tbati — m’hijiex il-grazzja rħisa wisq?",
+  "faq.a3": "<p>Il-mistoqsija hija leġittima, u dik l-uġigħ hija reali. Imma stqarrija bħal din mhijiex “il-maħfra tal-Bibbja,” imma <b>tagħwiġ</b> tagħha.</p><p><b>① Il-maħfra ta’ Alla qatt mhi rħisa.</b> Id-dnub ma jinħbiex bħallikieku “qatt ma ġara”; Alla nnifsu ħallas il-prezz tiegħu b’ħajjet Ibnu stess. Is-salib mhuwiex prova li d-dnub jittieħed ħafif, imma kemm hu tqil: hija l-iktar maħfra għalja fid-dinja.</p><p><b>② L-indiema vera tagħti l-frott.</b> Jekk min jagħmel il-ħsara jibqa’ bla mistħija quddiem il-vittma billi jgħid “Alla ħafirli, jien fil-paċi,” dik mhijiex indiema, imma imitazzjoni tagħha (Mattew 3:8). U l-maħfra bejn il-bniedem u Alla ma tħassarx il-ferita tal-vittma u lanqas iġġiegħelha taħfer.</p><p><b>③ Id-dnub qatt ma jiġi sempliċement “injorat.”</b> Kull dnub jitħallas f’wieħed minn żewġ postijiet: <b>jew iġorru Kristu fuq is-salib</b> (għal min jemmen fih m’hemmx iżjed kundanna, Rumani 8:1), <b>jew iġorru min jirrifjutah sal-aħħar.</b> Mela ma teżistix “maħfra rħisa.” Min jagħmel il-ħsara jibqa’ wkoll responsabbli quddiem il-ġustizzja ta’ din id-dinja (Rumani 13:1-4).</p><p><b>④ Id-dmugħ tal-vittma qatt ma huma żgħar quddiem Alla.</b> Alla jibki ma’ min jibki, jiftakar kull demgħa u fl-aħħar hu stess jixxuttahom (Apokalissi 21:4). Għalhekk il-vittma lanqas iġġorr waħedha l-piż tal-vendetta, imma tista’ tafdaha f’idejn Alla ġust (Rumani 12:19: “Għalija l-vendetta, jiena nħallas, jgħid il-Mulej”).</p><p class=\"faq-v\">Mattew 3:8 · Rumani 8:1 · Rumani 13:1-4 · Apokalissi 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Il-Bibbja hija tassew storja vera? Tidher bħal miti antik jew rumanz.",
+  "faq.a4": "<p>Hija mistoqsija ġusta — u punt tajjeb minn fejn tibda. Id-dubju mhuwiex il-kuntrarju tal-fidi, imma x-xewqa li tivverifika l-affarijiet bl-onestà. Il-Bibbja mhijiex miti mċajpar biex “temmnu jekk trid,” imma reġistru miktub fuq <b>postijiet, dati u nies reali</b>. Ftit eżempji biss.</p><p><b>① M’hijiex ktieb wieħed imma “librerija,” u madankollu tnixxi madwar tema waħda.</b> Il-Bibbja hija ġabra ta’ <b>66 ktieb</b> miktuba matul madwar <b>1,500 sena minn xi 40 awtur</b> — slaten, rgħajja, sajjieda, kollettur tat-taxxi, tabib, nies minn kundizzjonijiet u żminijiet differenti, li kitbu separatament u bla ma kienu jafu lil xulxin, fi tliet ilsna (Ebrajk, Aramajk, Grieg). U madankollu kollox jikkonverġi, bla taħwid, fuq <b>tema waħda: is-salvazzjoni permezz ta’ Kristu</b>. Dik hija koerenza diffiċli biex tispjegaha bil-każ jew bil-koordinazzjoni umana.</p><p><b>② Tibqa’ tiġi kkonfermata mill-art (l-arkeoloġija).</b> Ħafna affarijiet li darba ġew imwarrba bħala maħluqa, “misjuba biss fil-Bibbja,” iktar tard ġew ikkonfermati bit-tħaffir. Id-<b>dinastija ta’ David</b>, b’ġebla minquxa “d-dar ta’ David” (l-Istele ta’ Tel Dan); lil <b>Ponzju Pilatu</b>, il-gvernatur li ġustizzja lil Ġesù, b’iskrizzjoni li ġġib ismu; il-mina tal-ilma tas-sultan Ħeżekija (2 Slaten 20:20), bil-mina nnifisha u l-iskrizzjoni tagħha. Saħansitra l-<b>Ħittin</b>, darba msejħa “poplu immaġinarju,” feġġew bħala imperu kbir fost il-fdalijiet.</p><p><b>③ Hija d-dokument antik l-aħjar ippreservat (il-manuskritti).</b> Fl-għadd ta’ manuskritti li baqgħu, fil-qbil tagħhom ma’ xulxin, u fid-distanza ta’ żmien bejn il-kitba u l-kopja, il-Bibbja <b>m’għandhiex rivali fost id-dokumenti antiki</b>. Ir-romblu ta’ Isaija ta’ qabel il-Kristjaneżmu, fost ir-<b>Romol tal-Baħar il-Mejjet</b> (misjuba fl-1947), qabel kważi ittra b’ittra mat-test standard ta’ madwar 1,000 sena wara: prova li l-Bibbja ġiet ippreservata b’eżattezza matul iż-żminijiet.</p><p><b>④ Dak li nkiteb minn qabel seħħ eżatt hekk (il-profezija).</b> It-Testment il-Qadim, miktub sekli qabel Ġesù, jindika b’mod konkret it-twelid tiegħu f’Betlehem (Mikea 5:2), il-qaddej li jbati (Isaija 53:5) u ċ-ċirkustanzi tas-salib (Salmi 22). Wisq preċiż biex twarrbu bħala koinċidenza.</p><p><b>⑤ Storiċi barra mill-Bibbja niżżluha wkoll.</b> L-istoriku Ruman <b>Taċitu</b> u l-istoriku Lhudi <b>Ġużeppi Flavju</b> — l-ebda wieħed minnhom Kristjan — isemmu lil Ġesù, il-ġustizzja tiegħu u l-Knisja bikrija. Fuq kollox, id-dixxipli li kienu xterdu bil-biża’ <b>issugraw ħajjithom</b> jixhdu għall-qawmien: ħadd ma jmut għal dak li jaf li hu gidba.</p><p>Biex inkunu onesti, madankollu, dawn il-pedamenti juru li temmen il-Bibbja <b>mhuwiex irrazzjonali imma raġonevoli</b>; m’humiex “prova” li ġġiegħlek bħal formula matematika. Għalhekk iċ-ċertezza tal-Kristjan ma tiġix mill-evidenza biss, imma mill-<b>konvinzjoni li l-Ispirtu s-Santu jagħti lill-qalb waqt li wieħed jaqra l-Kelma</b>. Il-Bibbja tgħid: <b>“Il-fidi, mela, tiġi mis-smigħ, u s-smigħ mix-xandir tal-kelma ta’ Kristu.”</b> (Rumani 10:17). Mela, daqs kemm tidher finzjoni, <b>li taqraha int stess</b> huwa l-bidu. L-evidenza tiftaħ il-bieb, u ċ-ċertezza tikber f’min jaqra.</p><p class=\"faq-v\">2 Slaten 20:20 · Isaija 53:5 · Mikea 5:2 · Rumani 10:17</p>",
+  "respond.h3": "Mela — x’nagħmel jien?",
+  "respond.sub": "Din l-imħabba mhijiex informazzjoni imma <b>stedina</b>. Jekk dik l-imħabba li ġiet imsammra minfloki messet qalbek, itlob din it-talba bil-mod, vers wara vers.",
+  "respond.prayer": "<p>Alla,</p><p>nistqarr li jien midneb li ma jistax isalva lilu nnifsu.</p><p>Nemmen li Ġesù miet għalija fuq is-salib u qam mill-ġdid.</p><p>Aħfirli dnubieti kollha, u minn issa ’l quddiem kun int is-Sid ta’ ħajti.</p><p>Ilqagħni bħala ibnek, u agħmel li ngħix ħajja ġdida.</p><p class=\"amen\">F’isem Ġesù nitlob. Amen.</p>",
+  "respond.after": "Jekk tlabt din bis-sinċerità, il-Bibbja tgħid li int sirt <b>iben ta’ Alla</b>. M’intix iżjed waħdek — sib knisja fil-qrib u imxi t-triq tal-fidi flimkien ma’ oħrajn.",
+  "respond.read": "Aqra l-Bibbja int stess — ibda minn Ġwanni",
+  "respond.verse": "“Imma lil dawk li laqgħuh … tahom is-setgħa li jsiru wlied Alla.” — Ġwanni 1:12 · Rumani 10:9-10",
+  "closing.main": "Alla wieħed,<br>permezz ta’ storja waħda,<br>iħabbat warajna b’<em>imħabba</em><br>li qatt ma taqta’ qalbha.",
+  "closing.verse": "“La l-mewt u la l-ħajja … u ebda ħliqa oħra ma jistgħu qatt jifirduna mill-imħabba ta’ Alla li dehret fi Kristu Ġesù Sidna.” — Rumani 8:38-39",
+  "closing.small": "Fuq dan il-ħajt tal-istorja, il-Liġi, il-kotba poetiċi, il-Profeti u l-Ittri jżidu l-“laħam.”<br>Minn issa, ikun liema ktieb tiftaħ, tkun taf “f’liema punt tal-istorja qiegħed.”",
+  "closing.share": "↗ Aqsam din l-istorja",
+  "about.line": "Kontenut ibbażat fuq il-perspettiva <b>storiku-redentiva, evanġelika u riformata</b> li taqsam il-biċċa l-kbira tal-knisja Protestanta Koreana.",
+  "about.contact": "Mistoqsijiet · kummenti — <a id=\"contact\" class=\"mail\">Ibgħat email</a>"
+ },
+ "epochs": [
+  {
+   "tag": "AT · BIDU",
+   "title": "Il-Ħolqien",
+   "date": "Fil-bidu",
+   "one": "Alla għamel dinja li kienet “tajba ħafna.”",
+   "people": "Alla; Adam u Eva",
+   "events": "Sitt ijiem ta’ ħolqien, il-bniedem maħluq fuq xbieha ta’ Alla, il-mistrieħ tas-Sibt",
+   "q": "Fil-bidu Alla ħalaq is-sema u l-art:",
+   "cite": "Ġenesi 1:1",
+   "christ": "Id-dinja saret permezz tal-“Verb.” L-Evanġelju ta’ Ġwanni jistqarr li dan il-Verb huwa Ġesù nnifsu (Ġwanni 1:1-3).",
+   "detail": "<p>Il-Bibbja ma tiftaħx b’argument filosofiku, imma bi stqarrija: <b>“Fil-bidu, Alla…”</b> Id-dinja mhijiex kumbinazzjoni, imma l-opra ta’ Alla personali.</p><ul><li><b>Ix-xbieha ta’ Alla</b> · mill-ħlejjaq kollha, il-bniedem biss huwa magħmul biex jixbah lil Alla — biex jagħrfu u jieħu ħsieb id-dinja.</li><li><b>Il-mistrieħ</b> · il-mistrieħ tas-seba’ jum juri kollox imlestiet u fil-paċi (shalom): “u Alla ra li dan kien tajjeb.”</li><li><b>L-Għeden</b> · id-dinja qabel ma nkisret, fejn Alla u l-bniedem jimxu flimkien.</li></ul>",
+   "next": "Imma din il-milja waslet biex tixxellef…"
+  },
+  {
+   "tag": "AT · IL-PROBLEMA TIBDA",
+   "title": "Il-Waqgħa",
+   "date": "Fil-bidu",
+   "one": "Daħal id-dnub, u r-rabta bejn il-bniedem u Alla nqatgħet.",
+   "people": "Adam u Eva; is-serp (ix-Xitan)",
+   "events": "Jieklu mill-frotta projbita, jitkeċċew mill-Għeden, jaslu l-mewt u t-taħbit",
+   "q": "U jien inqajjem mibegħdabejnek u bejn il-mara … u hu jagħmel għal raseku int tagħmel għal għarqubu.",
+   "cite": "Ġenesi 3:15",
+   "christ": "L-ewwel wegħda tal-Evanġelju, mogħtija eżatt wara l-Waqgħa: in-“nisel tal-mara” jisħaq ras is-serp — u dak huwa Ġesù (Ġenesi 3:15; Rumani 16:20; Galatin 4:4).",
+   "detail": "<p>Permezz tad-diżubbidjenza li wieħed irid “ikun bħal Alla,” id-dnub jidħol fid-dinja. Ir-riżultat mhuwiex biss ksur ta’ regola, imma <b>ksur ta’ relazzjoni</b>.</p><ul><li><b>Rabtiet miksura</b> · ma’ Alla (jistaħbew), ma’ xulxin (jixħtu l-ħtija), u man-natura (xewk u taħbit).</li><li><b>Il-mewt</b> · it-twissija “żgur tmut” issir realtà.</li><li><b>Ġenesi 3:15</b> · imma f’nofs il-ġudizzju, wegħda ta’ ħelsien tiġi l-ewwel. L-istudjużi jsejħulha l-<b>protoevanġelju (l-ewwel evanġelju)</b>.</li></ul>",
+   "next": "Issa Alla jsejjaħ bniedem wieħed biex jibda l-ħelsien…"
+  },
+  {
+   "tag": "AT · IL-WEGĦDA",
+   "title": "Il-Patrijarki",
+   "date": "madwar is-sena 2000 Q.K.",
+   "one": "Alla jwiegħed lil Abraham: “Int tkun mezz ta’ barka.”",
+   "people": "Abraham · Iżakk · Ġakobb · Ġużeppi",
+   "events": "Il-patt ma’ Abraham, ir-rabta ta’ Iżakk, it-tnax-il iben ta’ Ġakobb, Ġużeppi jitla’ fil-poter fl-Eġittu",
+   "q": "U jien nagħmlek ġens kbir … u int tkun barka. … Jien inbierek lil min ibierkek …",
+   "cite": "Ġenesi 12:2-3",
+   "christ": "Il-wegħda li “il-popli kollha jitbierku” titwettaq f’Ġesù, in-nisel ta’ Abraham (Galatin 3:16).",
+   "detail": "<p>Alla jibda jindirizza l-problema tal-bnedmin kollha billi jsejjaħ bniedem wieħed, <b>Abraham</b>. Il-qalba hija l-<b>patt (il-wegħda)</b> — ġens kbir, art, u “barka għall-popli kollha.”</p><ul><li><b>Il-fidi</b> · Abraham emmen f’wegħda li ma tidhirx, u dan ġie magħdud bħala ġustizzja (Ġenesi 15:6).</li><li><b>Iżakk u Ġakobb</b> · il-wegħda tgħaddi ’l quddiem; Ġakobb (Iżrael) jnissel it-tnax-il tribù.</li><li><b>Ġużeppi</b> · mibjugħ minn ħutu imma mtella’ fil-poter — “Alla bidlu fil-ġid” (Ġenesi 50:20).</li></ul>",
+   "next": "Wara Ġużeppi, il-familja tinżel fl-Eġittu — u ssir skjava…"
+  },
+  {
+   "tag": "AT · IL-FIDWA",
+   "title": "L-Eżodu u d-Deżert",
+   "date": "madwar is-sena 1446 Q.K.",
+   "one": "Alla ħeles poplu skjav u għamlu tiegħu.",
+   "people": "Mosè, Aron, il-Fargħun",
+   "events": "L-għaxar pjagi, l-Għid, il-qsim tal-Baħar l-Aħmar, l-Għaxar Kmandamenti fis-Sinaj, it-tabernaklu, 40 sena fid-deżert",
+   "q": "Jien naħtarkom u neħodkom biex tkunu l-poplu tiegħi, u jiena nkun Alla tagħkom …",
+   "cite": "Eżodu 6:7",
+   "christ": "L-Għid — fejn id-demm tal-ħaruf bagħad il-mewt — jindika lejn Ġesù, “il-Ħaruf tal-Għid tagħna,” imsallab għalina (1 Korintin 5:7).",
+   "detail": "<p>L-akbar att ta’ fidwa tat-Testment il-Qadim. Iżrael, li kien skjav, jirċievi l-ħelsien bil-qawwa ta’ Alla u jissawwar bħala <b>poplu</b> tiegħu.</p><ul><li><b>L-Għid</b> · id-dar immarkata bid-demm tal-ħaruf fuq il-bieb tinħeles mill-mewt; il-mudell wara kull sagrifiċċju iktar tard.</li><li><b>Il-Baħar l-Aħmar</b> · is-salvazzjoni fejn it-triq tintemm; il-“qsim” isir is-simbolu ta’ bidu ġdid.</li><li><b>Il-patt tas-Sinaj</b> · bil-Kmandamenti jitgħallmu kif jgħixu bħala poplu ta’ Alla.</li><li><b>It-tabernaklu</b> · santwarju mobbli fejn Alla jgħammar f’nofs il-poplu — togħma minn qabel ta’ “Għimmanu-El.”</li><li><b>40 sena</b> · id-diżubbidjenza żżomm ġenerazzjoni tiġġerra fid-deżert, imma Alla jibqa’ qrib bil-manna u bil-kolonna tas-sħab u tan-nar.</li></ul>",
+   "next": "Wieqfa fix-xifer tal-art imwiegħda, iħejju biex jidħlu…"
+  },
+  {
+   "tag": "AT · IT-TWAQQIF",
+   "title": "Il-Konkwista u l-Imħallfin",
+   "date": "madwar 1400–1050 Q.K.",
+   "one": "Jiksbu l-art, imma bla sultan kulħadd jagħmel li jogħġbu.",
+   "people": "Ġożwè; imħallfin bħal Gidgħon u Sansun; Rut",
+   "events": "Il-waqgħa ta’ Ġeriko, it-twaqqif f’Kangħan, iċ-ċiklu mtenni ta’ dnub–ġudizzju–ħelsien",
+   "q": "F’dak iż-żmien ma kienx hemm sultan f’Iżrael, u kulħadd kien jagħmel li jogħġbu.",
+   "cite": "Mħallfin 21:25",
+   "christ": "Min-nisel ta’ Rut jiġi David, u min-nisel ta’ David jiġi Ġesù (Mattew 1). Anke fil-kaos, is-siġra tal-familja tal-Messija tkompli.",
+   "detail": "<p>Taħt Ġożwè jidħlu fl-art imwiegħda, imma wara li jistabilixxu ruħhom malajr jinsew lil Alla. L-Imħallfin huma l-istess mudell mtenni.</p><ul><li><b>Iċ-ċiklu ’l isfel</b> · dnub → moħqrija → għajat → imħallef jeħles → dnub mill-ġdid, kull darba agħar.</li><li><b>L-imħallfin</b> · Gidgħon, Sansun, Debora … ħellsiena temporanji, eroċi imma mimlija difetti.</li><li><b>Rut</b> · dawl ta’ fedeltà fi żmien mudlam; mara barranija tidħol fin-nisel ta’ David (u ta’ Ġesù).</li></ul>",
+   "next": "Il-poplu jgħajjat: “Agħtina sultan ukoll!”…"
+  },
+  {
+   "tag": "AT · L-ERA TAD-DEHEB",
+   "title": "Is-Saltna Magħquda",
+   "date": "madwar 1050–930 Q.K.",
+   "one": "Alla jwiegħed lil David: “It-tron tiegħek jibqa’ għal dejjem.”",
+   "people": "Sawl · David · Salamun",
+   "events": "L-ewwel sultan Sawl, David u Gulija, il-patt ma’ David, Salamun jibni t-tempju",
+   "q": "Il-familja tiegħek u s-saltna tiegħek jibqgħu sħaħ għal dejjem quddiemi. It-tron tiegħek jibqa’ sħiħ għal dejjem.",
+   "cite": "2 Samwel 7:16",
+   "christ": "It-“tron etern” jitwettaq f’Ġesù, l-iben ta’ David — għalhekk jissejjaħ l-“Iben ta’ David” (Luqa 1:32-33; Mattew 1:1).",
+   "detail": "<p>Il-quċċata ta’ Iżrael, immexxija minn tliet slaten.</p><ul><li><b>Sawl</b> · l-ewwel sultan li talab il-poplu; bidu tajjeb imħassar bid-diżubbidjenza.</li><li><b>David</b> · “bniedem skont qalb Alla.” Jirbaħ lil Gulija u jagħmel Ġerusalemm il-belt kapitali. Jagħmel dnub kbir (Bat-Seba) imma jindem mill-qalb (Salmi 51).</li><li><b>Il-patt ma’ David (2 Samwel 7)</b> · Alla jwiegħed li jwaqqaf id-dinastija ta’ David għal dejjem — l-għerq deċiżiv tat-tama Messjanika.</li><li><b>Salamun</b> · fl-għoli tal-għerf u tal-għana jibni t-<b>tempju</b> f’Ġerusalemm, imma fl-aħħar ta’ ħajtu jaqa’ fl-idolatrija.</li></ul>",
+   "next": "Wara Salamun, is-saltna tinqasam fi tnejn…"
+  },
+  {
+   "tag": "AT · IT-TĦASSIR",
+   "title": "Is-Saltna Maqsuma",
+   "date": "930–586 Q.K.",
+   "one": "Tinqasam fin-nofsinhar (Ġuda) u t-tramuntana (Iżrael), u titħassar bil-mod.",
+   "people": "Is-slaten taż-żewġ saltniet; profeti bħal Elija, Isaija u Ġeremija",
+   "events": "Is-saltna tinqasam, l-idolatrija tinfirex, il-profeti jwissu",
+   "q": "U hekk Iżrael inqata’ minn dar David, u baqgħu mifruda minnha sal-lum.",
+   "cite": "1 Slaten 12:19",
+   "christ": "F’din l-era l-profeti jħabbru l-Messija li ġej dejjem b’iktar ċarezza (Isaija 9:6; Isaija 53).",
+   "detail": "<p>Fi żmien l-iben ta’ Salamun is-saltna tinqasam: <b>is-saltna tat-tramuntana ta’ Iżrael</b> (10 tribù, kapitali Samarija) u <b>s-saltna tan-nofsinhar ta’ Ġuda</b> (2 tribù, kapitali Ġerusalemm).</p><ul><li><b>Iżrael (tramuntana)</b> · is-slaten kollha jaqdu l-idoli; jaqa’ taħt l-Assirja fis-sena 722 Q.K.</li><li><b>Ġuda (nofsinhar)</b> · in-nisel ta’ David ikompli, b’ftit slaten tajbin bħal Ħeżekija u Ġożija, imma kollox imur lura.</li><li><b>Il-profeti</b> · Elija, Għamos, Isaija, Ġeremija jgħajtu “erġgħu lura!” Il-profezija Messjanika tilħaq l-iktar punt għani tagħha hawn (il-“qaddej li jbati” ta’ Isaija 53).</li></ul>",
+   "next": "Fl-aħħar jasal il-ġudizzju mwissi — jittieħdu fl-eżilju…"
+  },
+  {
+   "tag": "AT · IL-ĠUDIZZJU",
+   "title": "L-Eżilju",
+   "date": "722 / 586 Q.K.",
+   "one": "Is-saltna tikkrolla u l-poplu jittieħed f’artijiet barranin.",
+   "people": "Danjel, Eżekjel, Nabukodonosor",
+   "events": "Iżrael jaqa’ taħt l-Assirja (722); Ġuda jaqa’ taħt Babilonja u t-tempju jinqered (586)",
+   "q": "F’xatt ix-xmajjar ta’ Babilonja,hemm qgħadna bilqiegħda u bkejna,aħna u niftakru f’Sijon.",
+   "cite": "Salmi 137:1",
+   "christ": "Fil-fond tal-qtigħ il-qalb Ġeremija jwiegħed “patt ġdid” (Ġeremija 31:31) — l-istess patt li Ġesù jwaqqaf fl-Aħħar Ċena.",
+   "detail": "<p>It-twissijiet iseħħu. It-tempju jaqbad u l-poplu jittieħed Babilonja — jitilfu l-art, is-sultan u t-tempju: l-iktar punt baxx ta’ kollox.</p><ul><li><b>Żewġ waqgħat</b> · Iżrael (Assirja, 722 Q.K.) u Ġuda (Babilonja, 586 Q.K.).</li><li><b>Danjel</b> · mudell ta’ fidi anke f’qorti pagana (il-ħofra tal-iljuni); jara viżjonijiet ta’ “saltna eterna” li ġejja.</li><li><b>Xrara ta’ tama</b> · il-viżjoni ta’ Eżekjel tal-għadam niexef li jerġa’ jingħata l-ħajja (Eżekjel 37) u l-“patt ġdid” ta’ Ġeremija jindikaw ġejjieni fid-dlam.</li></ul>",
+   "next": "Sebgħin sena wara, Alla jiftaħ it-triq — jerġgħu lura d-dar…"
+  },
+  {
+   "tag": "AT · IR-RESTAWR",
+   "title": "Ir-Ritorn",
+   "date": "538–430 Q.K.",
+   "one": "Jerġgħu lura u jibnu mill-ġdid it-tempju u l-ħitan.",
+   "people": "Esdra, Neħemija, Ester, Żorobabel",
+   "events": "Ritorn bid-digriet ta’ Ċiru, il-bini mill-ġdid tat-tempju, it-tiswija tal-ħitan ta’ Ġerusalemm, ir-restawr tal-Kelma",
+   "q": "… għax il-ferħ tal-Mulej il-qawwa tagħkom.",
+   "cite": "Neħemija 8:10",
+   "christ": "Malakija, l-aħħar ktieb tat-Testment il-Qadim, jagħlaq billi jħabbar messaġġier li jħejji t-triq tal-Messija: “jiena se nibgħat il-messaġġier tiegħi” (Malakija 3:1).",
+   "detail": "<p>Bid-digriet tas-sultan Persjan Ċiru (538 Q.K.) jibda r-ritorn. Fi tliet mewġiet jerġgħu lura u jibnu mill-ġdid dak li nqered.</p><ul><li><b>Żorobabel</b> · jibni mill-ġdid it-tempju (lest fl-516 Q.K.).</li><li><b>Esdra</b> · jgħallem il-Kelma mill-ġdid u jqajjem il-fidi.</li><li><b>Neħemija</b> · jibni mill-ġdid il-ħitan ta’ Ġerusalemm fi 52 jum.</li><li><b>Ester</b> · issalva l-Lhud fil-Persja mill-qerda — “għal żmien bħal dan.”</li><li><b>Xewqa li tibqa’</b> · it-tempju jieqaf, imma m’hemmx sultan bħal David. Il-poplu jistenna l-Messija.</li></ul>",
+   "next": "U mbagħad… bħallikieku s-sema baqa’ sieket, jgħaddu 400 sena."
+  },
+  {
+   "tag": "BEJN IT-TESTMENTI · IT-TĦEJJIJA TAX-XENA",
+   "title": "Is-Snin tas-Skiet",
+   "date": "madwar 430–4 Q.K.",
+   "one": "400 sena bla leħen ta’ profeta — imma x-xena kienet qiegħda titħejja bil-kwiet.",
+   "people": "Alessandru l-Kbir, il-Makkabin, Ruma",
+   "events": "Persja → Greċja → indipendenza Makkabea → ħakma Rumana",
+   "q": "Iżda meta waslet il-milja taż-żmien, Alla bagħat lil Ibnu, imwieled minn mara …",
+   "cite": "Galatin 4:4",
+   "christ": "Din it-“tħejjija tax-xena” kollha kienet Alla jaħdem biex Ġesù jiġi eżatt fil-“milja taż-żmien.”",
+   "detail": "<p>Minn Malakija sat-Testment il-Ġdid, jgħaddu madwar 400 sena bla Skrittura ġdida. Imma wara l-istorja Alla kien iħejji t-triq għall-Evanġelju.</p><ul><li><b>L-imperi jinbidlu</b> · Persja → Greċja (Alessandru, 333 Q.K.) → il-Tolemej u s-Selewċidi → ir-rivolta Makkabea (167 Q.K.) → Ruma (63 Q.K.).</li><li><b>Il-Grieg</b> · il-konkwisti ta’ Alessandru jagħmlu l-Grieg l-ilsien komuni; it-Testment il-Qadim jiġi tradott bil-Grieg (is-Settanta), li jħejji t-triq biex l-Evanġelju jinfirex malajr.</li><li><b>It-toroq u l-paċi ta’ Ruma</b> · it-toroq mibnija sew u l-“Pax Romana” isiru awtostradi għall-missjoni.</li><li><b>Sinagogi u partiti</b> · it-tagħlim fis-sinagoga jeħel l-għeruq; iqumu l-Fariżej u s-Sadduċej; u <b>x-xewqa għall-Messija</b> timmatura.</li></ul>",
+   "next": "Imbagħad is-skiet jinkiser — fl-aħħar, hu jiġi."
+  },
+  {
+   "tag": "TT · IT-TWETTIQ",
+   "title": "Ġesù Jiġi",
+   "date": "madwar 4 Q.K.–30 W.K.",
+   "one": "Il-Messija mwiegħed ġie, miet u qam mill-ġdid.",
+   "people": "Ġesù, it-tnax-il dixxiplu, Ġwanni l-Battista",
+   "events": "L-inkarnazzjoni, il-ministeru u t-tagħlim u l-mirakli tiegħu, il-mewt fuq is-salib, il-qawmien fit-tielet jum",
+   "q": "U l-Verb sar bniedem u għammar fostna … mimli bil-grazzja u l-verità.",
+   "cite": "Ġwanni 1:14",
+   "christ": "In-nisel tal-mara (xena 2), il-barka ta’ Abraham (3), il-Ħaruf tal-Għid (4), is-sultan etern ta’ David (6), il-patt ġdid (8) — kollha mwettqa f’bniedem wieħed, Ġesù: il-Profeta, il-Qassis u s-Sultan veru tagħna.",
+   "detail": "<p>Is-skiet jinkiser; il-Mwiegħed jasal. L-erbat Evanġelji jixhdu għall-ħajja, il-mewt u l-qawmien ta’ Ġesù minn erba’ angoli.</p><ul><li><b>L-inkarnazzjoni</b> · Alla jsir bniedem (Għimmanu-El, “Alla magħna”), fil-baxx ta’ Betlehem.</li><li><b>Il-ministeru</b> · jgħallem is-Saltna ta’ Alla, ifejjaq il-morda, isejjaħ il-midinbin. “Min ra lili ra lill-Missier.”</li><li><b>Is-salib</b> · iħallas il-prezz tad-dnub u tal-mewt li ġabet il-Waqgħa (xena 2). Il-Ħaruf veru tal-Għid.</li><li><b>Il-qawmien</b> · ifiq fit-tielet jum, ikisser il-qawwa tad-dnub, tal-mewt u tax-Xitan — diġà fuq is-salib “neżża’ l-Prinċipati u s-Setgħat … u karkarhom warajh fit-trijonf tiegħu bi Kristu” (Kolossin 2:15).</li></ul><p>Għalhekk Ġesù huwa l-<b>Profeta veru</b> tagħna (jurina t-triq lejn Alla), il-<b>Qassis veru</b> (ipattu għad-dnub b’ġismu stess) u s-<b>Sultan veru</b> (jirbaħ id-dnub, il-mewt u x-Xitan, u jsaltan għal dejjem).</p>",
+   "next": "Ġesù rxoxt jibgħat lid-dixxipli tiegħu fid-dinja…"
+  },
+  {
+   "tag": "TT · L-ESPANSJONI",
+   "title": "Il-Bidu tal-Knisja",
+   "date": "mis-sena 30 W.K.",
+   "one": "L-Ispirtu jiġi, u l-Evanġelju jinfirex sa truf l-art.",
+   "people": "Pietru, Pawlu, il-Knisja bikrija",
+   "events": "L-Ispirtu mferra’ f’Pentekoste, titwieled il-Knisja, l-Evanġelju jinfirex minn Ġerusalemm sa Ruma permezz tal-persekuzzjoni",
+   "q": "Imma meta jiġi fuqkom l-Ispirtu s-Santu, intom tirċievu l-qawwa, u tkunu xhieda tiegħi f’Ġerusalemm … u sa truf l-art.",
+   "cite": "Atti 1:8",
+   "christ": "Din l-istorja għadha għaddejja sal-lum. Il-Bibbja tagħlaq billi twiegħed li Ġesù jerġa’ jiġi u jagħmel kollox ġdid (Apokalissi 21).",
+   "detail": "<p>Wara li Ġesù jitla’ s-sema, l-Ispirtu mwiegħed jiġi f’Pentekoste u titwieled il-Knisja. L-Evanġelju jinfirex b’mod splussiv.</p><ul><li><b>Pentekoste</b> · l-Ispirtu jibdel id-dixxipli mbeżżgħa fi xhieda kuraġġużi.</li><li><b>Pietru</b> · ixandar l-Evanġelju lill-Lhud f’Ġerusalemm.</li><li><b>Pawlu</b> · minn persekutur għal appostlu, iħawwel knejjes mad-dinja pagana u jikteb l-ittri.</li><li><b>Sa truf l-art</b> · Ġerusalemm → il-Lhudija → is-Samarija → Ruma. Il-wegħda lil Abraham ta’ “il-popli kollha” isseħħ.</li><li><b>U aħna</b> · l-istorja ma tieqafx; tibqa’ miexja lejn ir-ritorn ta’ Ġesù u s-sema ġdid u l-art ġdida.</li></ul>",
+   "next": "Imma l-istorja ma tintemmx hawn…"
+  },
+  {
+   "tag": "TT · IT-TKOMPLIJA",
+   "title": "Ir-Restawr",
+   "date": "għadu ġej",
+   "one": "Ġesù jerġa’ jiġi u jagħmel kollox ġdid.",
+   "people": "Ġesù li jerġa’ jiġi; il-ġnus kollha",
+   "events": "It-tieni miġja, il-ġudizzju aħħari, it-tmiem tad-dnub·mewt·dmugħ, sema ġdid u art ġdida",
+   "q": "Hu jixxuttalhom kull demgħa minn għajnejhom; ma jkunx hemm iżjed mewt, anqas biki jew għajjat jew tbatija ma jkun hemm iżjed …",
+   "cite": "Apokalissi 21:4",
+   "christ": "L-Għeden tal-ewwel ħolqien jiġi restawrat fl-aħħar bħala l-“Ġerusalemm il-Ġdida.” Alla jgħammar mal-poplu tiegħu għal dejjem — il-milja ta’ Għimmanu-El (Apokalissi 21:3; Mattew 1:23).",
+   "detail": "<p>Il-Bibbja ma tintemmx fl-era tal-Knisja. L-aħħar ktieb tagħha, l-Apokalissi, juri lil Ġesù <b>jerġa’ jiġi</b> biex ilesti kollox.</p><ul><li><b>It-tieni miġja</b> · is-Sultan imwiegħed jerġa’ jiġi fil-glorja.</li><li><b>Ir-rebħa aħħarija</b> · ix-Xitan u l-mewt jinqerdu għal dejjem, u Kristu jsaltan bħala Sultan tas-slaten (1 Korintin 15:25-26; Apokalissi 20:10).</li><li><b>Il-ġudizzju u l-qawmien</b> · kull inġustizzja tiġi mqaddma sewwa, u l-mejtin iqumu.</li><li><b>Sema ġdid u art ġdida</b> · id-dnub, il-mewt, id-dmugħ u l-uġigħ jgħibu għal dejjem (Apokalissi 21:4).</li><li><b>L-Għeden restawrat</b> · f’“Ġerusalemm il-Ġdida” aħjar mill-bidu, Alla jgħammar mal-poplu tiegħu għal dejjem — id-destinazzjoni li lejha kienet sejra l-Bibbja kollha.</li></ul><p>Għalhekk issa huwa ż-żmien tal-<b>“diġà, imma għadu mhux”</b>: f’Ġesù s-salvazzjoni hija <b>diġà</b> mwettqa, imma t-tkomplija tagħha <b>għadha</b> mistennija.</p>",
+   "next": "Mela x’tfisser din l-istorja kollha għal “jiena”?"
+  }
+ ],
+ "love": [
+  "L-istorja tibda mhux bil-ġudizzju imma bil-ħolqien imferra’ fl-imħabba.",
+  "Fil-mument li l-bniedem dineb, Alla wiegħed ħelsien hemm stess fuq il-post.",
+  "Alla ġie l-ewwel għand bniedem li ma kienx jistħoqqlu, sejjaħlu b’ismu, u għamlu mezz ta’ barka.",
+  "Sema l-krib ta’ poplu skjav u niżel hu stess biex jeħilsu.",
+  "Tradut darba wara oħra, imma kull darba li jgħajtu kien jibgħat ħellies u jerfagħhom mill-ġdid.",
+  "Lanqas lil David imwaqqa’ ma warrab; permezz tiegħu wiegħed Sultan etern.",
+  "Lil poplu li tah dahru baqa’ jibgħatlu profeti, jitolbu: “Jekk jogħġbok erġa’ lura d-dar.”",
+  "Saħansitra fl-iktar art mudlama tal-eżilju niżel magħhom, u wiegħed restawr.",
+  "Saħansitra lil poplu li falla darba wara oħra ma ħax lura l-wegħda tiegħu.",
+  "Saħansitra matul 400 sena ta’ skiet, bla ma deher, kien iħejji t-triq tas-salvazzjoni.",
+  "Meta konna għadna midinbin, bagħat lil Ibnu biex jagħti ħajtu stess.",
+  "L-imħabba li rċivejna, issa jibgħatha tnixxi fuq id-dinja kollha.",
+  "Fl-aħħar jixxotta kull demgħa u jġedded kollox fl-imħabba."
+ ],
+ "mis": [
+  {
+   "w": "“Għaliex għamel Alla bniedem li jista’ jidneb? Ma kienx aħjar li ma jagħmilniex xejn?”",
+   "t": "Alla ħalaq id-dinja u l-bniedem mhux minħabba xi nuqqas, imma mill-imħabba mferra’. Li jagħmel il-bniedem <b>persuna li tirrelata ma’ Alla</b> huwa fih innifsu mħabba. U lanqas id-dħul tad-dnub ma kien barra mill-pjan ta’ salvazzjoni ta’ Alla (Efesin 1:4-5). L-ewwel xena tal-Bibbja mhijiex ġudizzju imma mħabba."
+  },
+  {
+   "w": "“Imkeċċi u mogħti l-mewt biss talli kiel frotta waħda — Alla mhuwiex iebes wisq?”",
+   "t": "Li ntbagħat barra mill-Għeden kien kemm ġudizzju kif ukoll ħniena. Li tiekol mis-siġra tal-ħajja u tgħix għal dejjem f’dak l-istat miksur, mifrud minn Alla, ikun li tibqa’ maqbud fit-tbatija għal dejjem (Ġenesi 3:22). Li ppermetta l-mewt fetaħ it-triq lura; u hemm stess Alla wiegħed Ħellies (Ġenesi 3:15). L-imħabba kienet diġà ġewwa l-ġudizzju."
+  },
+  {
+   "w": "“Abraham intgħażel għax kellu fidi kbira — mhux il-persunaġġi kollha tal-Bibbja eroj morali?”",
+   "t": "Abraham ukoll gideb u ddubita; Ġakobb kien qarrieq. Alla ma sejjaħx nies “kwalifikati” imma nies bid-difetti, bil-grazzja. Ir-raġuni ma kinitx it-tjieba tagħhom imma l-imħabba fidila ta’ Alla (Dewteronomju 7:7-8)."
+  },
+  {
+   "w": "“Il-Liġi (il-Kmandamenti) mhijiex eżami jew kundizzjoni li trid tgħaddi biex tkun salvat?”",
+   "t": "Alla ħelishom <b>qabel</b> ma tahom il-Liġi. Saħansitra l-Għaxar Kmandamenti jibdew bi stqarrija ta’ salvazzjoni: “Jiena hu l-Mulej, Alla tiegħek, li ħriġtek mill-art tal-Eġittu” (Eżodu 20:2). Il-Liġi mhijiex “ħarisha biex tkun salvat,” imma gwida ta’ mħabba dwar kif poplu diġà salvat għandu jgħix (Dewteronomju 7:7-9). Il-grazzja dejjem tiġi l-ewwel; l-ubbidjenza hija t-tweġiba."
+  },
+  {
+   "w": "“Il-konkwista ta’ Kangħan kienet qatla bla ħniena — mela l-Alla tat-Testment il-Qadim huwa tassew krudili.”",
+   "t": "Dan huwa suġġett iebes li ma jissolviex f’sentenza waħda. Imma l-Bibbja ma tippreżentahx bħala vjolenza arbitrarja, imma bħala ġudizzju wara sekli ta’ paċenzja quddiem ħażen estrem (inkluż is-sagrifiċċju tat-tfal) (Ġenesi 15:16; Dewteronomju 9:4-5; Levitiku 18:24-25). Alla huwa bil-mod anke biex jiġġudika, u laqa’ bil-ferħ lil min reġa’ lura lejh — saħansitra barranin bħal Raħab u Rut (Ġożwè 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“David kien eroj bla difetti — għalhekk sejjħulu ‘bniedem skont qalb Alla.’”",
+   "t": "David għamel adulterju u saħansitra qtil. “Bniedem skont qalb Alla” ma jfissirx bla difetti, imma wieħed li ma ħebiex dnubu — li nidem bis-sħiħ u baqa’ jerġa’ lura lejn Alla (Salmi 51). L-imħabba ta’ Alla ma twarrabx lanqas lil min jaqa’ bl-ikrah."
+  },
+  {
+   "w": "“Il-profeta huwa indovin li jbassar il-futur; l-Alla tat-Testment il-Qadim biss jirrabja.”",
+   "t": "Il-qalb tal-profeta mhijiex “tbassir tal-futur” imma t-talba mqanqla ta’ Alla: “Jekk jogħġbok erġa’ lura.” Anke t-twissija tal-ġudizzju ma tfittixx li teqred imma li ddawwar lin-nies u ssalvahom — “ma nitgħaxxaqx b’mewt il-midneb” (Eżekjel 33:11)."
+  },
+  {
+   "w": "“L-eżilju jġib prova li Alla abbanduna għalkollox lil Iżrael.”",
+   "t": "L-eżilju ma kienx abbandun imma dixxiplina u tisfija ta’ Missier lejn iben maħbub (Lhud 12:6). Alla ma telaqx; kien ma’ Danjel f’nofs l-eżilju u wiegħed: “Jien naf il-pjanijiet li ħsibt għalikom … pjanijiet ta’ ġid … li nagħtikom ġejjieni mimli tama” (Ġeremija 29:11)."
+  },
+  null,
+  {
+   "w": "“Jekk għal 400 sena ma kien hemm l-ebda kelma, ma jkunx li Alla telaq jew kien jistrieħ?”",
+   "t": "Is-skiet mhuwiex assenza. Sempliċement ma tkellimx; matul dak iż-żmien kollu kien iħarrek imperi, ilsna u toroq biex iħejji x-xena tas-salvazzjoni. Fl-iktar mument kwiet, Alla kien jaħdem l-iktar bis-sħiħ, fl-imħabba (Galatin 4:4)."
+  },
+  {
+   "w": "“Ġesù huwa biss għalliem tajjeb ieħor tal-morali; is-salib kien telfa traġika.”",
+   "t": "Ġesù stqarr li hu Alla nnifsu (Ġwanni 8:58), u s-salib ma kienx inċident jew telfa imma mħabba ppjanata. Ma ttieħidx hemm bil-forza; ta ħajtu b’rieda tiegħu (Ġwanni 10:18). “Ħadd ma għandu mħabba akbar minn din: li wieħed jagħti ħajtu għal ħbiebu” (Ġwanni 15:13)."
+  },
+  {
+   "w": "“Il-Knisja hija klabb reliġjuż ta’ nies perfetti, jew biss bini.”",
+   "t": "Il-Knisja mhijiex komunità ta’ “qaddisin perfetti” imma ta’ <b>midinbin maħfura</b>. Saħansitra l-appostlu Pawlu sejjaħ lilu nnifsu “l-ewwel wieħed” fost il-midinbin (1 Timotju 1:15). Il-Knisja bikrija wkoll iddiskutiet u falliet (Atti 6:1; 1 Korintin 1:11). Mhijiex post biex tiftaħar, imma nies li jgħaddu l-imħabba li rċivew (Ġwanni 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Id-dnub oriġinali — ħadd mhu ġust",
+   "body": "Il-problema mhijiex “xi ftit għemejjel ħżiena” imma l-għerq tal-qalb. Mindu Adam, kulħadd jitwieled taħt id-dnub u ma jistax jasal għand Alla waħdu.",
+   "vref": "Rumani 3:10-12, 23",
+   "vtext": "Ħadd, ebda wieħed, ma hu ġust … Il-bnedmin kollha dinbu u ċċaħħdu mill-glorja ta’ Alla;"
+  },
+  {
+   "title": "Il-Liġi ma tistax issalvani",
+   "body": "Il-Liġi mhijiex sellum imma mera. Iktar ma tipprova, iktar turi kemm tiġi nieqes. L-iskop tagħha huwa li twassalna għand Kristu.",
+   "vref": "Rumani 3:20 · Galatin 3:24",
+   "vtext": "il-Liġi sservi biex tgħarrafna d-dnub … il-Liġi … kienet tmexxina qisna tfal lejn Kristu, biex inkunu ġġustifikati permezz tal-fidi."
+  },
+  {
+   "title": "Bil-grazzja — rigal, mhux sforz",
+   "body": "Is-salvazzjoni mhijiex il-ħlas għal merti li akkwistajt, imma rigal b’xejn lil min ma jistħoqqlux. Għalhekk ħadd ma jista’ jiftaħar.",
+   "vref": "Efesin 2:8-9",
+   "vtext": "Intom salvi bil-grazzja, permezz tal-fidi … mhux bl-opri, biex ħadd ma jiftaħar."
+  },
+  {
+   "title": "Ġustifikati bil-fidi",
+   "body": "Mhux billi nħarsu l-Liġi, imma billi nemmnu f’Ġesù Kristu ningħaddu ġusti — milbusin mhux fil-ġustizzja tagħna imma f’tiegħu.",
+   "vref": "Rumani 5:1 · Galatin 2:16",
+   "vtext": "Issa li aħna ġġustifikati bil-fidi … l-bniedem ma jkunx iġġustifikat bl-opri tal-Liġi imma bil-fidi f’Ġesù Kristu"
+  },
+  {
+   "title": "Il-Bibbja tindika lejn Ġesù",
+   "body": "Il-Bibbja mhijiex ktieb ta’ rġiel kbar jew ta’ awtogħajnuna. Minn Ġenesi sal-Apokalissi, kull paġna tixhed għal wieħed — Ġesù Kristu.",
+   "vref": "Ġwanni 5:39 · Luqa 24:27",
+   "vtext": "din tagħti xhieda għalija … beda minn Mosè u l-Profeti kollha jfissrilhom kulma kien hemm fl-Iskrittura fuqu."
+  },
+  {
+   "title": "Is-Saltna ta’ Alla — il-messaġġ ċentrali ta’ Ġesù",
+   "body": "It-tema li Ġesù għallem l-iktar. Il-ħakma ta’ Alla bħala Sultan daħlet f’din id-dinja ma’ Ġesù u titlesta meta jerġa’ jiġi. Bis-salib u l-qawmien tiegħu, Ġesù huwa s-Sultan veru li rebaħ id-dnub, il-mewt u x-Xitan.",
+   "vref": "Mark 1:15",
+   "vtext": "Iż-żmien huwa mitmum, u s-Saltna ta’ Alla waslet; indmu u emmnu fl-Evanġelju."
+  },
+  {
+   "title": "L-Evanġelju — hu temm kollox",
+   "body": "Id-dejn tad-dnub li jien qatt ma stajt inħallas, Ġesù ħallsu minfloki fuq is-salib, u bil-qawmien rebaħ il-mewt. Niserraħ mhux fuq “agħmel” imma fuq “kollox hu mitmum.”",
+   "vref": "Ġwanni 19:30 · Rumani 5:8",
+   "vtext": "Kollox hu mitmum! … Alla wriena l-imħabba tiegħu meta Kristu miet għalina, aħna li konna għadna midinbin."
+  }
+ ],
+ "books": {
+  "Ġenesi": "GEN",
+  "Eżodu": "EXO",
+  "Levitiku": "LEV",
+  "Numri": "NUM",
+  "Dewteronomju": "DEU",
+  "Ġożwè": "JOS",
+  "Mħallfin": "JDG",
+  "Rut": "RUT",
+  "Esdra": "EZR",
+  "Neħemija": "NEH",
+  "Tobit": "TOB",
+  "Ġuditta": "JDT",
+  "Ester Bil-grieg": "ESG",
+  "Ġob": "JOB",
+  "Salmi": "PSA",
+  "Proverbji": "PRO",
+  "Koħèlet": "ECC",
+  "L-għanja Tal-għanjiet": "SNG",
+  "Il-ktieb Tal-għerf": "WIS",
+  "Bin Sirak": "SIR",
+  "Isaija": "ISA",
+  "Ġeremija": "JER",
+  "Lamentazzjonijiet": "LAM",
+  "Bàruk": "BAR",
+  "Eżekjel": "EZK",
+  "Danjel Bil-grieg": "DAG",
+  "Hosegħa": "HOS",
+  "Ġoel": "JOL",
+  "Għamos": "AMO",
+  "Għabdija": "OBA",
+  "Ġona": "JON",
+  "Mikea": "MIC",
+  "Naħum": "NAM",
+  "Ħabakkuk": "HAB",
+  "Sofonija": "ZEP",
+  "Ħaggaj": "HAG",
+  "Żakkarija": "ZEC",
+  "Malakija": "MAL",
+  "1 Makkabin": "1MA",
+  "2 Makkabin": "2MA",
+  "Mattew": "MAT",
+  "Mark": "MRK",
+  "Luqa": "LUK",
+  "Ġwanni": "JHN",
+  "Atti Tal-appostli": "ACT",
+  "Rumani": "ROM",
+  "Galatin": "GAL",
+  "Efesin": "EPH",
+  "Filippin": "PHP",
+  "Kolossin": "COL",
+  "Titu": "TIT",
+  "Filemon": "PHM",
+  "Lhud": "HEB",
+  "Ġakbu": "JAS",
+  "Ġuda": "JUD",
+  "Apokalissi": "REV",
+  "1 Samwel": "1SA",
+  "2 Samwel": "2SA",
+  "1 Slaten": "1KI",
+  "2 Slaten": "2KI",
+  "1 Kronaki": "1CH",
+  "2 Kronaki": "2CH",
+  "1 Korintin": "1CO",
+  "2 Korintin": "2CO",
+  "1 Tessalonikin": "1TH",
+  "2 Tessalonikin": "2TH",
+  "1 Timotju": "1TI",
+  "2 Timotju": "2TI",
+  "1 Pietru": "1PE",
+  "2 Pietru": "2PE",
+  "1 Ġwanni": "1JN",
+  "2 Ġwanni": "2JN",
+  "3 Ġwanni": "3JN",
+  "Atti": "ACT"
+ },
+ "yv": 2505,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

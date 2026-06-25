@@ -1,0 +1,420 @@
+{
+ "menuName": "Jinghpaw",
+ "htmlLang": "kac",
+ "dir": "ltr",
+ "brand": "Chyum Laika langai sha hta",
+ "docTitle": "Chyum Laika langai sha hta · Hpan da ai kaw na Nawku Hpung du hkra",
+ "share": {
+  "title": "Chyum Laika langai sha hta",
+  "text": "Laika langai sha hta, Chyum Laika a maumwi kaba hte Yesu hpa majaw sa wa ai hpe mu la u."
+ },
+ "ui": {
+  "people": "Masha ni",
+  "events": "Ahkyak ai lam ni",
+  "christLabel": "Yesu hpe madun ai",
+  "loveLabel": "Galoi n jahkring ai tsaw ra myit",
+  "mythWrong": "Law law shut shadu ai lam",
+  "mythRight": "Teng man ai gaw",
+  "more": "Grau hti yu",
+  "version": "(JCLB)"
+ },
+ "labels": {
+  "start": "Ningpawt",
+  "thread": "Maumwi lam",
+  "gospel": "Kabu Gara Shiga",
+  "about": "Lam shadawn"
+ },
+ "s": {
+  "ui.share": "↗ Garan ya",
+  "ui.toast": "Lam matsun ka la sai 📋",
+  "ui.footer": "Chyum Laika langai sha hta · Chyum ga ni gaw JCLB kaw na",
+  "hero.kicker": "HPAN DA AI KAW NA NAWKU HPUNG DU HKRA",
+  "hero.title": "Chyum Laika,<br><span class=\"em\">laika langai sha hta</span>",
+  "hero.sub": "Laika langai sha hta, Chyum Laika a maumwi kaba hte Yesu hpa majaw sa wa ai hpe mu la u.",
+  "hero.cue": "Npu de gayau yu u<span>↓</span>",
+  "thread.eyebrow": "YAWNG HPE DUNG SHA SHANG AI GA KAGRIN LANGAI",
+  "thread.h2": "Hpang jahtum e, Chyum Laika gaw maumwi langai sha rai nga ai",
+  "thread.flow": "<b>Ga sadi</b><span class=\"arw\">→</span><b>La nga ai</b><span class=\"arw\">→</span><b>Hpring tsup ai</b>",
+  "thread.note": "Karai Kasang gaw <b>ga sadi jaw</b> ai (ga shaka), masha ni gaw na na <b>la nga</b> ai, hpang jahtum e Yesu hta yawng <b>hpring tsup</b> nna ngut sai. Npu na lam dut 13 hpe dai lam hku hkan yu u — laika hkang shagu hta <b>“Grau hti yu”</b> hpe hkindit nna grau sung ai maumwi hpe hti yu u.",
+  "gospel.eyebrow": "NDAI MAUMWI GAW “NGAI” A MATU HPA LACHYUM RAWNG AI",
+  "gospel.h2": "Chyum Laika a teng sha rai ai myit shawng",
+  "gospel.lead": "Chyum Laika gaw <b>“masha kaja tai u ga” ngu sharin ya ai laika n rai.</b>",
+  "gospel.sublead": "Ndai gaw Karai Kasang gaw <b>chyeju hku sha</b>, tinang hkum tinang n lu hkye la ai yubak kap ai ni hpe gara hku hkye la ai maumwi rai nga ai. A ningke kaw Yesu Hkristu tsap nga ai.",
+  "gospel.mirror": "<h3>Israela a galoi n htum ai garung gara gaw teng sha nga yang “ngai” a sumla rai nga ai</h3><div class=\"cycle\"><b>Sutrai nawku</b><span class=\"a\">→</span><b>Jamjau</b><span class=\"a\">→</span><b>Marawn ai</b><span class=\"a\">→</span><b>Karai Kasang hkye la</b><span class=\"a\">→</span><b>Bai sutrai nawku…</b></div><p>Tara Agyi kaw na mayam prat du hkra, Israela amyu ndai garung gara hpe galoi n htum hkra bai bai galaw ai. Chyum Laika ndai hpe “shanhte gade matsan shayen ai i” ngu mani roi na matu n ka da ai.</p><p>Ndai gaw <b>sumdaw</b> rai nga ai. Lachyum gaw “Israela ni dai hku galaw ai” ngu n rai, <b>“ngai mung dai hku raw galaw ai”</b> ngu hpe madun ai rai nga ai (1 Korinhtu 10:11).</p><p><b>Sutrai</b> ngu gaw hpun hte galaw da ai sumla hkrai n rai. <b>Karai Kasang hta grau tsaw ra ai, kam sham ai hpa mi mung</b> — gumhpraw, awng dang ai lam, masha ni a hkungga ai, masha ni, ngai nan pyi — rai mai ai. Karai Kasang hpe <b>tinang ra ai lam lu na matu jarit la</b> ai mung sutrai nawku ai rai nga ai.</p><p class=\"punch\">Hpang jahtum e, grau sung dik ai sutrai gaw “Karai Kasang a magam tingnyang ntsa e dung nga ai ngai nan” rai nga ai.</p>",
+  "gospel.coreIntro": "Dai hku nga yang, Karai Kasang gaw ndai zawn re yubak kap ai wa hpe gara hku hkye la ai kun? Ndai gaw Chyum Laika hkaw dan ai Kabu Gara Shiga a myit shawng rai nga ai.",
+  "gospel.crux": "<p class=\"crux-lead\">Chyum Laika ting gaw shara langai sha de madun ai.</p><p>Masha ni gaw tinang hkrai yubak garung gara hpe n lu kapye ai, ding hpring ai wa langai mi pyi n nga ai. Dai majaw kadai langai mi gaw <b>shanhte a malai akyu hpe jaw ra ai</b>.</p><p>Yesu gaw sharin ya ai kaja ai ga jaw na matu hkrai sa wa ai n rai. Ngai hpe hkye la na lam kaga n nga ai majaw, <b>shi sa wa ra ai sha rai nga ai.</b></p><p class=\"crux-punch\">Dai wudang ntsa e noi nga ra ai wa gaw <b>ngai</b> rai nga ai.<br>Yesu gaw <b>ngai a yubak</b> hpe hpai nna, ngai a malai dai kaw htwi hkrum ai.</p><div class=\"crux-verse\">“Rai ti mung, anhte a yubak mara ni a majaw shi gaw hkala nba hkrum nga sai,anhte galaw ai n hkru ai amu a majaw kayat hkrum nga nu ai … shi hkum ting htwi hkrum ai a majaw mung, shamai shatsai hkrum nga ga ai.” — Esaia 53:5</div>",
+  "faq.h": "Naw myit ru nga ai lam nga ai i?",
+  "faq.q1": "<span class=\"arr\">▸</span> Dai hku nga yang, masha sat ai wa kam sham yang sumsing sumhpa de lung nna, prat tup kaja ai hku nga timung n kam sham ai wa nan asak hka de hkrat na i?",
+  "faq.a1": "<p>Daw hkrak ai ga san rai nga ai. Rai ti mung kata kaw shut shadu ai lam lahkawng makoi nga ai.</p><p><b>① Chyum Laika gaw masha ni hpe “kaja ai hte n kaja ai” ngu n garan da ai.</b> Ahkyak ai gaw “makau na wa hta grau kaja ai” ngu n rai, “Karai Kasang a ding hpring ai chyoi pra ai lam” rai nga ai. Shi a man e, kadai mung “law law kaja ai” ngu n nga (Roma 3:23). Dai majaw ndai gaw “masha kaja hte masha sat ai wa” ngu n rai, machyi makaw maren sha si na zawn re masha lahkawng zawn re — langai gaw tsi hkam la ai, langai gaw “ngai dai wa hta grau hkam kaja ai” nga nna nra ai.</p><p><b>② Sumsing sumhpa hte asak hka hpe garan ai gaw lam langai sha rai nga ai.</b> Galaw ai a masat n rai, <b>nang Yesu Hkristu hpe Madu hku hkam la nna na a yubak lam hpe hparan kau sai kun ngu hpe madung ai</b> rai nga ai. Hkristu a sai hku yubak hparan kau ai wa gaw sumsing sumhpa de lung ai; shi hpe galoi n hkap la ai, yubak naw kap nga ai wa gaw n lung ai. Galaw ai amu kaja ai gaw yubak lam nan hpe nang a matu n lu hparan ya ai.</p><p>Dai majaw sumsing sumhpa hte asak hka gaw “galaw ai kaja ai a shatsun” n rai, <b>Hkristu hte seng ai matsun</b> rai nga ai. “Kam sham ai” ngu gaw bawnu hku hkraw ai hkrai n rai, asak prat hta kadai up sha ai hpe galai ai rai nga ai — teng sha hkap la ai wa gaw gumrawng wa ai n rai, grau sung ai hku myit malai ai. Teng nga yang “ngai kaja ai” ngu tinang hpe nan ding hpring shadu ai lam gaw kapye yak dik ai sutrai rai nga ai, dai gaw “ngai Hkristu n ra ai” ngu shadu shangun ai (Luka 18:9-14).</p><p>Chyum Laika gaw atsawm sha tsun da ai: <b>“Shi hpe kam sham ai wa kadai mung tara dara ai n hkrum lu ai, n kam n sham ai wa chyawm gaw … ya e pyi tara dara ai hkrum nga ai”</b> (Yawhan 3:18). Tara dara ai gaw “si mat ai hpang na a prat hpe masat ai” n rai, <b>nang Hkristu hpe hkap la sai kun</b> ngu hte sa nan masat da sai.</p><p class=\"faq-v\">Roma 3:23 · Yawhan 3:18 · Ehpesu 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Yesu hpe n kam sham timung, masha kaja sha tai yang n law ai i?",
+  "faq.a2": "<p>Ndai gaw law law myit ai lam rai nga ai, rai ti mung “teng sha rai ai jam jau gaw hpa kun” ngu hpe shut shadu ai. Sumla langai shadawn la ga.</p><p><b>Nang damya hka li ntsa e nga nga ai ngu shadu la u.</b> Hka li ntsa hpe gade san seng hkra gawt timung, hka li masha ni hpe gade myit kaja hkra galaw timung, prat hpe gade kaja hkra hkrung timung, nang gaw naw <b>damya</b> rai nga ai, hpa majaw nga yang hka li nang hpe shi sa na shara (tara dara ai sinpraw) de woi sa ai majaw rai nga ai. Jam jau gaw “galaw ai a masat” n rai, <b>“nang gara hka li hta lawm ai” (nang gara wa rai ai)</b> ngu rai nga ai.</p><p>Dai majaw Kabu Gara Shiga gaw “grau shakut nna kaja u” ngu n tsun ai; <b>“hka li galai u”</b> ngu tsun ai. Yubak a hka li kaw na yu nna Yesu de — <b>Karai Kasang a kasha</b> ngu nampan nampu de rap u. Ndai gaw shakut nna masat jahkraw ai n rai, ta jahtaw ya ai wa hpe kam sham nna shi a hka li de rap mat ai rai nga ai.</p><p>Teng nga yang Chyum Laika gaw hkye hkrang la ai lam hpe ndai zawn re “shashawn ai” ngu hku tsun da ai — <b>“Shi gaw anhte hpe n hkru n kaja ai nsin a n-gun atsam kata kaw na hkye mawai la nna shi a tsaw ra ai Kasha a mungdan hta shashawn mi ai”</b> (Kolose 1:13).</p><p>Hkum shut shadu u: <b>ndai gaw prat kaja hku hkrung ai gaw alaga ngu n re.</b> Rai ti mung kaja ai lam gaw hkye hkrang la ai a “shatsun” n rai, dai a <b>asi</b> rai nga ai. Hka li galai sai wa gaw hkrit ai myit hku n rai, <b>kasha a tsaw ra myit</b> hku kaja ai hku hkrung sai.</p><p class=\"faq-v\">Kolose 1:13 · Yawhan 1:12 · Yawhan 3:3 · Ehpesu 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Roi rip ai wa gaw “Karai Kasang ngai hpe mara raw kau sai” nga nna simsa hku nga nga yang, hkam sha ai wa gaw naw jamjau nga yang, dai mara raw ai gaw grau alaga n re i?",
+  "faq.a3": "<p>Ga san gaw daw hkrak rai nga ai, dai machyi makaw mung teng man ai. Rai ti mung dai zawn re tsun ai gaw “Chyum Laika a mara raw ai” n rai, dai a <b>shut shai shatai ai</b> rai nga ai.</p><p><b>① Karai Kasang a mara raw ai gaw galoi mung alaga n re.</b> Yubak hpe “n byin ai” zawn magap kau ai n rai; Karai Kasang nan shi a Kasha a asak hte dai a manu hpe jaw sai. Wudang gaw yubak hpe alaga shadu ai sakse n rai, yubak gade li ai hpe madun ai rai nga ai — mungkan ga ntsa e manu grau dik ai mara raw ai rai nga ai.</p><p><b>② Teng sha myit malai ai gaw asi nawng ai.</b> Roi rip ai wa gaw hkam sha ai wa a man e “Karai Kasang ngai hpe mara raw sai, dai majaw ngai simsa nga ai” nga nna gumrawng nga yang, dai gaw myit malai ai n rai, dai a sumla shatai ai sha rai nga ai (Mahte 3:8). Masha hte Karai Kasang lapran a mara raw ai gaw hkam sha ai wa a hkala hpe n kashut kau ya, hkam sha ai wa hpe mara raw shangun ai mung n rai.</p><p><b>③ Yubak hpe galoi mung “alaga dat kau” ai n re.</b> Yubak shagu gaw shara lahkawng kaw na langai mi hta htang jaw ra ai — <b>Hkristu wudang ntsa e hpai ai</b> (shi hpe kam sham ai ni a matu tara dara ai n nga sai, Roma 8:1), <b>n rai jang hpang jahtum du hkra shi hpe nra ai wa nan hpai ai.</b> Dai majaw “alaga mara raw ai” ngu n nga ai. Roi rip ai wa mung ndai mungkan ga a tara hku akyu hpe naw hpai ra ai (Roma 13:1-4).</p><p><b>④ Hkam sha ai wa a myi prwi gaw Karai Kasang a man e galoi mung kachyi sha n re.</b> Karai Kasang gaw hkrap ai ni hte rau hkrap ya, myi prwi shagu hpe matsing da nna, hpang jahtum e shi nan dai hpe katsut kau ya na ra ai (Shingran 21:4). Dai majaw hkam sha ai wa mung matai htang ai a li hpe shi hkrai n hpai ra ai, ding man ai Karai Kasang hpe ap nawng lu ai (Roma 12:19 — “Ngai matai htang na nngai, mara hte maren ngai htang jaw na nngai,” nga ai).</p><p class=\"faq-v\">Mahte 3:8 · Roma 8:1 · Roma 13:1-4 · Shingran 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Chyum Laika gaw teng sha byin lai wa ai maumwi rai ai kun? Moi na maumwi tsun mahkawn, n rai jang maumwi labau zawn nga ai.",
+  "faq.a4": "<p>Ndai gaw daw hkrak ai ga san rai nga ai — bai hpaw maw na shara kaja ai mung rai nga ai. Tsang ngshawp ai gaw makam masham a shingdu n re, hpa lam mi hpe ding man ai hku jep yu mayu ai myit rai nga ai. Chyum Laika gaw “myit hkraw jang sha kam u ga” ngu maumwi adaw ahko n re, <b>teng sha rai ai shara, ya na, masha ni</b> a ntsa e ka da ai labau rai nga ai. Kachyi mi shadawn sha tsun ga.</p><p><b>① Laika langai sha n re, “laika sumdup” rai nga ai — rai ti mung myit shawng langai sha hku yawng lwi nga ai.</b> Chyum Laika gaw <b>laika 66 buk</b>, <b>ning 1,500 daram, ka sara 40 jan</b> e ka da ai sumdup rai nga ai — hkawhkam ni, sagu rem ai ni, nga hkwi sha ai ni, kang gun ai wa, tsi sara langai, lahkawng ga (Hebre, Aramaik, Grik) hku, shada da n chye hkat ai sha, ginchyam shai prat shai ni e tinang hkrai ka da ai. Rai timung yawng gaw garung gara n nga ai sha, <b>myit shawng langai sha — Hkristu hku hkye hkrang la ai lam</b> de jawm lwi nga ai. Ndai gaw aprat hku n rai jang masha a bawng ban hku tsun maza yak ai dung pra ai lam rai nga ai.</p><p><b>② Ga npu kaw na bai bai shaman nga ai (ga htu hpaji).</b> Moi “Chyum Laika hta sha mu ai” ngu, adaw ahko ngu kau ai law law lam ni hpe hpang e ga htu yu ai hku shaman sai. <b>Dawi a hkawhkam dap</b> hpe “Dawi a nta” ngu ka da ai nlung (Tel Dan nlung) hku; Yesu hpe sat ai up hkang wa <b>Pontiu Pilatu</b> hpe shi a mying ka da ai lawk hku; Hesekia hkawhkam a hka hku (2 Hkawhkam 20:20) hpe hka hku nan hte dai a lawk hku. <b>Hitti</b> amyu ni pyi “madaw mada da ai amyu” ngu kau ai raitim, ga htu yang mungdan kaba langai hku pru wa sai.</p><p><b>③ Moi na laika ni hta na grau atsawm makawp maga da ai laika rai nga ai (laika manu).</b> Naw nga taw nga ai laika manu lawng manu hkam, shada da maren mara ai lam, ka da ai aten hte ka kya la ai aten lapran na hku, Chyum Laika gaw <b>moi na laika ni hta n shing teng ai</b> rai nga ai. 1947 ning e mu la ai <b>Si Si Lim Hka Nawng laika</b> kata na Hkristu n du shi yang na Esaia laika hpe hpang ning 1,000 daram na hpang e na masat laika hte ga lika hku maren mara ai — ndai gaw Chyum Laika hpe prat hkan e atsawm sha makawp maga da ai sakse rai nga ai.</p><p><b>④ Shawng e ka da ai lam ni teng sha byin wa ai (myihtoi ga).</b> Yesu n du shi yang ning law law na ka da ai Ga Sadi Makam gaw shi Behtelehem mare hta shangai na lam (Mihka 5:2), jam jau hkam ai mayam (Esaia 53:5), wudang a lam ni (Shakawn Kungdawn 22) hpe atsawm sha madun ai. Aprat ngu kau na matu grau atsawm rai nga ai.</p><p><b>⑤ Chyum Laika a shingdu na labau sara ni mung ka da ai.</b> Roma na labau sara <b>Tahkitu</b> hte Yuda na labau sara <b>Yawsehpu</b> — lahkawng yan Hkristu hpung n re — gaw Yesu, shi sat ai lam hte moi na nawku hpung hpe tsun ai. Grau ahkyak ai gaw, hkrit nna hprawng pra ai sape ni gaw <b>tinang a asak hpe ap nna</b> bai hkrung wa ai lam hpe sakse hkam ai — kadai mung tinang masu ai ngu chye nga ai lam a matu n si ai.</p><p>Raitim teng sha tsun yang, ndai lagaw ningchang ni gaw Chyum Laika hpe kam ai gaw <b>n myit n hpaji ai n re, hpaji rawng ai</b> ngu hpe madun ai sha rai nga ai; mahkrai hkrai zawn shadang ai “sakse” n re. Dai majaw Hkristu hpung a sadi dung ai gaw lagaw ningchang kaw na sha n re, <b>Mungga hti let Chyoi Pra ai Wenyi salum hta jaw ai sadi dung ai myit</b> kaw na pru ai. Chyum Laika gaw <b>“Dai rai nna masha ni gaw dai mungga hpe na la ai hte kam sham wa ma ai. Hkristu a lam hkaw tsun dan ai hte dai mungga hpe na la lu ma ai”</b> ngu sharin ya ai (Roma 10:17). Dai majaw aprat zawn gade hku mu na timung, <b>nang nan hti yu ai</b> gaw ningpawt rai nga ai. Lagaw ningchang gaw chyinghka hpe hpaw ya, sadi dung ai gaw hti ai wa a kata kaw galu kaba wa ai.</p><p class=\"faq-v\">2 Hkawhkam 20:20 · Esaia 53:5 · Mihka 5:2 · Roma 10:17</p>",
+  "respond.h3": "Dai hku nga yang — ngai gaw gara hku galaw na?",
+  "respond.sub": "Ndai tsaw ra myit gaw lam shana ai n rai, <b>shaga ai</b> rai nga ai. Na a malai htwi hkrum ai dai tsaw ra myit gaw na salum hpe masawp dat sai nga yang, ya ndai akyu hpe ga kagrin langai hpang langai, lanyan sha akyu hpyi yu u.",
+  "respond.prayer": "<p>Karai Kasang e,</p><p>ngai gaw tinang hkum tinang n lu hkye la ai yubak kap ai wa rai nga ai hpe hkap la nngai.</p><p>Yesu gaw ngai a matu wudang ntsa e si nna bai hkrung wa ai hpe kam sham nngai.</p><p>Ngai a yubak yawng hpe mara raw ya rit, ya kaw na ngai a asak prat a Madu tai ya rit.</p><p>Ngai hpe na a kasha hku hkap la nna, nampan nampu hkrung shangun rit.</p><p class=\"amen\">Yesu a mying hku akyu hpyi nngai. Amen.</p>",
+  "respond.after": "Ndai akyu hpe salum hku hpyi sai nga yang, nang gaw <b>Karai Kasang a kasha tai sai</b> ngu Chyum Laika tsun ai. Nang gaw hkrai sha n re sai — makau grupyin na nawku hpung tam la nna masha ni hte rau makam masham lam hkawm wa u.",
+  "respond.read": "Chyum Laika hpe nang nan hti yu u — Yawhan kaw na hpang u",
+  "respond.verse": "“Rai ti mung nkau mi shi hpe hkap la kam sham ma ai rai nna, shi gaw shanhte hpe Karai Kasang a kasha ni tai lu ai ahkang jaw mu ai.” — Yawhan 1:12 · Roma 10:9-10",
+  "closing.main": "Karai Kasang langai sha,<br>maumwi langai sha hku,<br>galoi n jahkring ai <em>tsaw ra myit</em><br>hte anhte hpe tam nga ai.",
+  "closing.verse": "“… si ti mung prawn ti mung … hpan da mada hpa rai ti mung anhte Madu Yesu Hkristu hta e Karai Kasang a tsaw ra ai hta na anhte hpe n jahka kau lu na ni ai.” — Roma 8:38-39",
+  "closing.small": "Ndai maumwi lam ntsa e, Tara, Mahkawn, Myihtoi hte Laika ni gaw “shan hkrang” hpe jat ya ai.<br>Ya kaw na, gara laika hpaw timung, “nang maumwi a gara shara hta nga ai” ngu mu na rai sai.",
+  "closing.share": "↗ Ndai maumwi hpe garan ya",
+  "about.line": "Korea Protestant Nawku Hpung law law jawm kam ai <b>hkye hkrang la ai labau lam, kabu gara shiga hte Reformed</b> mada yu lam hpe hpung sang da ai.",
+  "about.contact": "San ai lam · mahkrum madup — <a id=\"contact\" class=\"mail\">Email ka u</a>"
+ },
+ "epochs": [
+  {
+   "tag": "GA SADI MAKAM · NINGPAWT",
+   "title": "Hpan da ai",
+   "date": "Shawng ningpawt e",
+   "one": "Karai Kasang gaw “grai kaja ai” mungkan langai hpan da ai.",
+   "people": "Karai Kasang; Adam hte Ehwa",
+   "events": "Shani matsat hpan da ai lam, masha hpe Karai Kasang a sumla hku hpan da ai, Sabba hkring sa ai shani",
+   "q": "Shawng ningpawt e, Karai Kasang gaw ninggawn tawa hpe hpan da yang,",
+   "cite": "Ningpawt Ninghpang 1:1",
+   "christ": "Mungkan gaw “Mungga” hku hpan da ai. Yawhan a Kabu Gara Shiga gaw dai Mungga gaw Yesu nan rai nga ai hpe tsun dan ai (Yawhan 1:1-3).",
+   "detail": "<p>Chyum Laika gaw hpaji ga jahkrum ai hku n hpang ai, tsun shapraw ai hku hpang ai: <b>“Shawng ningpawt e, Karai Kasang gaw…”</b>. Mungkan gaw aprat n re, salum rawng ai Karai Kasang a magam rai nga ai.</p><ul><li><b>Karai Kasang a sumla</b> · hpan da ai yawng hta masha sha Karai Kasang zawn hku hpan da ai — shi hpe chye na nna mungkan hpe sin na matu.</li><li><b>Hkring sa ai</b> · shani sanit ya hkring sa ai gaw yawng hpring tsup nna simsa nga ai (shalom) hpe madun ai: “kaja ai.”</li><li><b>Eden</b> · ahten n du shi yang na mungkan, Karai Kasang hte masha rau hkawm ai shara.</li></ul>",
+   "next": "Rai ti mung ndai hpring tsup ai gaw kalang ta ahten wa na sai…"
+  },
+  {
+   "tag": "GA SADI MAKAM · JAMJAU HPANG WA AI",
+   "title": "Di hkrat ai",
+   "date": "Shawng ningpawt e",
+   "one": "Yubak shang wa nna masha hte Karai Kasang lapran a sumtsaw daw mat sai.",
+   "people": "Adam hte Ehwa; lapu (Satan)",
+   "events": "N mai sha ai namsi sha kau ai, Eden kaw na shapraw kau ai, si hkrung si htan hte ba shau ai shang wa ai",
+   "q": "Ngai gaw nang hte shinggyim numsha a lapran hta mung … Shi a amyu matu gaw na a baw hpe abrep nna",
+   "cite": "Ningpawt Ninghpang 3:15",
+   "christ": "Di hkrat ai hpang kalang ta jaw ai Kabu Gara Shiga a shawng nnan ga sadi: “numsha a amyu matu” gaw lapu a baw hpe abrep na — dai gaw Yesu rai nga ai (Ningpawt Ninghpang 3:15; Roma 16:20; Galati 4:4).",
+   "detail": "<p>“Karai Kasang zawn tai” mayu ai n madat ai a majaw, yubak gaw mungkan de shang wa ai. Asi gaw tara langai daw ai sha n re, <b>sumtsaw daw ai</b> rai nga ai.</p><ul><li><b>Daw mat ai sumtsaw</b> · Karai Kasang hte (makoi ai), shada da (matsa ai), hte ga shanu hte (ju hkindu hte ba shau ai).</li><li><b>Si hkrung si htan</b> · “teng sha si na” ngu sadi jaw ai gaw teng wa sai.</li><li><b>Ningpawt Ninghpang 3:15</b> · rai ti mung tara dara ai a ka-ang e hkye la na ga sadi shawng jaw ai. Hpaji rawng ai ni ndai hpe <b>“protoevangelium (shawng nnan na Kabu Gara Shiga)”</b> ngu shamying ai.</li></ul>",
+   "next": "Ya Karai Kasang gaw hkye la ai bungli hpang na matu masha langai hpe shaga ai…"
+  },
+  {
+   "tag": "GA SADI MAKAM · GA SADI",
+   "title": "Kawa salang ni",
+   "date": "BC 2000 daram",
+   "one": "Karai Kasang gaw Abraham hpe ga sadi jaw ai, “Nang chyeju daju tai na ra ai.”",
+   "people": "Abraham · Isak · Yakob · Yawsehpu",
+   "events": "Abraham hte ga shaka, Isak hpe jaw jau na lam, Yakob a kasha 12, Yawsehpu Egutu mung hta ahkang aya lu wa ai",
+   "q": "Ngai nang hpe law law mayat maya shangun nna amyu kaba shatai na nngai … Na a marang e, amyu baw yawng hte hpe ngai shaman ya na nngai,",
+   "cite": "Ningpawt Ninghpang 12:2-3",
+   "christ": "“Amyu baw yawng shaman hkrum na” ga sadi gaw Abraham a amyu matu Yesu hta hpring tsup ai (Galati 3:16).",
+   "detail": "<p>Karai Kasang gaw masha amyu yawng a jam jau hpe masha langai <b>Abraham</b> hpe shaga ai hku hpang hparan ai. A ningke gaw <b>ga shaka (ga sadi)</b> rai nga ai — amyu kaba, ga shara langai, hte “amyu baw yawng a matu shaman ai lam.”</p><ul><li><b>Makam masham</b> · Abraham gaw n mu lu ai ga sadi hpe kam sham ai, dai gaw shi a matu ding hpring ai lam hku masat ya ai (Ningpawt Ninghpang 15:6).</li><li><b>Isak hte Yakob</b> · ga sadi gaw kashu kasha de lai mat wa ai; Yakob (Israela) gaw amyu 12 a kawa rai nga ai.</li><li><b>Yawsehpu</b> · shi a kahpu kanau ni e dut kau ai raitim ahkang aya de du wa ai — “Karai Kasang dai hpe mai kaja ai lam hku galaw nu ai” (Ningpawt Ninghpang 50:20).</li></ul>",
+   "next": "Yawsehpu hpang hkan nna, dinghku gaw Egutu mung de yu wa ai — htawm e mayam tai mat ai…"
+  },
+  {
+   "tag": "GA SADI MAKAM · HKYE HKRANG LA AI",
+   "title": "Pru mat wa ai hte hkraw kawng",
+   "date": "BC 1446 daram",
+   "one": "Karai Kasang gaw mayam tai ai amyu hpe hkye la nna tinang a amyu shatai la ai.",
+   "people": "Mawshe, Aron, Hparao",
+   "events": "Mara jahkrat shi lam, La Lai Poi, Hkahkyeng Panglai rap ai, Sinai hta Tara Shi, Nawku Htingnu, hkraw kawng hta ning 40",
+   "q": "Ngai gaw nanhte hpe nye a amyu masha majing hku shatai la nna, nanhte a Karai Kasang tai na nngai.",
+   "cite": "Pru Mat Wa Ai 6:7",
+   "christ": "La Lai Poi — sagu a sai gaw si hkrung si htan hpe kayin kau ai — gaw Yesu, “anhte a La Lai Poi sagu,” anhte a matu htwi hkrum ai wa hpe madun ai (1 Korinhtu 5:7).",
+   "detail": "<p>Ga Sadi Makam a hkye la ai lam grau kaba dik. Mayam tai nga ai Israela gaw Karai Kasang a n-gun atsam hku shalawt hkrum nna shi a <b>amyu</b> hku galaw shapraw hkrum ai.</p><ul><li><b>La Lai Poi</b> · sagu a sai chyinghka e gat da ai nta gaw si hkrung si htan hku lai kau ai — hpang e na jaw jau yawng a sumla.</li><li><b>Hkahkyeng Panglai</b> · lam htum ai shara e panglai hpaw ai hku hkye la ai; “ohra hkran de rap ai” gaw nnan hpang ai a masat tai ai.</li><li><b>Sinai ga shaka</b> · Tara Shi hku Karai Kasang a amyu hku gara hku hkrung na hpe sharin la ai.</li><li><b>Nawku Htingnu</b> · Karai Kasang amyu a ka-ang e nga ai gun gawt mai ai chyoi pra ai shara — “Immanuela” a shawng masat.</li><li><b>Ning 40</b> · n madat ai a majaw amyu langai gaw hkraw kawng hta hkawm hkrai hkawm ai, raitim Karai Kasang gaw manna hte sumwum sumut hte wan shadaw hku shanhte hte rau nga ai.</li></ul>",
+   "next": "Ga sadi jaw ai ga shara a makau e tsap nna, shang na matu hkyen nga ai…"
+  },
+  {
+   "tag": "GA SADI MAKAM · GINGTING NGA AI",
+   "title": "La la ai hte Tara Agyi ni",
+   "date": "BC 1400–1050 daram",
+   "one": "Ga shara hpe lu la sai, raitim hkawhkam n nga ai majaw masha shagu tinang ra ai hku galaw ai.",
+   "people": "Yawshu; Tara Agyi Gideon hte Samson zawn re ni; Ruhta",
+   "events": "Yeriko hkrat ai, Kanan ga la la ai, yubak–tara dara–hkye la ai garung gara bai bai byin ai",
+   "q": "Dai aten hta Israela amyu hta hkawhkam n nga nga ai. Masha shagu hte gaw tinang ra sharawng ai hku galaw ma ai.",
+   "cite": "Tara Agyi 21:25",
+   "christ": "Ruhta a amyu kaw na Dawi pru wa ai, Dawi a amyu kaw na Yesu pru wa ai (Mahte 1). Garung gara ka-ang e pyi, Hkristu a amyu lakung naw matut nga ai.",
+   "detail": "<p>Yawshu a npu e ga sadi jaw ai ga shara de shang ai, raitim la la ngut ai hpang Karai Kasang hpe lawan malap kau ai. Tara Agyi gaw dai raw raw a garung gara bai bai byin ai rai nga ai.</p><ul><li><b>Npu de yu ai garung gara</b> · yubak → roi rip ai → marawn ai → tara agyi langai hkye la ai → bai yubak. Grau n kaja wa ai.</li><li><b>Tara Agyi ni</b> · Gideon, Samson, Debora — aten hkring hkye la ai ni, gawngban raitim sai shut law ai.</li><li><b>Ruhta</b> · nsin prat hta sadi dung ai a nhtoi htoi ai maumwi; maigan num langai gaw Dawi (hte Yesu) a amyu de shang wa ai.</li></ul>",
+   "next": "Amyu masha gaw marawn ai, “Anhte hpe mung hkawhkam langai jaw rit!”…"
+  },
+  {
+   "tag": "GA SADI MAKAM · AHTOI HTUM AI",
+   "title": "Hkrum sha ai mungdan",
+   "date": "BC 1050–930 daram",
+   "one": "Karai Kasang gaw Dawi hpe ga sadi jaw ai, “Na a magam tingnyang gaw galoi mung naw na ra ai.”",
+   "people": "Saula · Dawi · Shawlumon",
+   "events": "Shawng nnan hkawhkam Saula, Dawi hte Goliat, Dawi hte ga shaka, Shawlumon a Nawku Htingnu",
+   "q": "na a mungdan hpe htani htana agrin nga shangun na nngai. Na a magam tingnyang gaw galoi mung htum mat na ra ai n rai,",
+   "cite": "2 Samuela 7:16",
+   "christ": "“Htani htana magam” gaw Dawi a amyu matu Yesu hta hpring tsup ai — dai majaw shi hpe “Dawi a Kasha” ngu shamying ai (Luka 1:32-33; Mahte 1:1).",
+   "detail": "<p>Israela a ahtoi htum aten, hkawhkam masum a npu.</p><ul><li><b>Saula</b> · amyu masha hpyi ai shawng nnan hkawhkam; kaja ai hku hpang ai raitim n madat ai a majaw nra hkrum ai.</li><li><b>Dawi</b> · “Karai Kasang a salum hte maren re wa.” Goliat hpe dang nna Yerusalem hpe up shara shatai ai. Yubak kaba (Bahtaseba) galaw ai raitim salum kaw na myit malai ai (Shakawn Kungdawn 51).</li><li><b>Dawi hte ga shaka (2 Samuela 7)</b> · Karai Kasang gaw Dawi a magam hpe htani htana shadaw da na ga sadi jaw ai — Hkristu a myit mada ai lam a ahkyak dik ai labu rai nga ai.</li><li><b>Shawlumon</b> · hpaji hte sutgan a ahtoi htum aten e Yerusalem a <b>Nawku Htingnu</b> hpe gap shapraw ai, raitim prat htum maw e sutrai nawku ai de gayau mat ai.</li></ul>",
+   "next": "Shawlumon a hpang, mungdan gaw lahkawng daw mat sai…"
+  },
+  {
+   "tag": "GA SADI MAKAM · NPU DE YU AI",
+   "title": "Garan mat ai mungdan",
+   "date": "BC 930–586",
+   "one": "Sinpraw (Yuda) hte sinna (Israela) garan mat nna, lanyan lanyan hku ahten mat wa ai.",
+   "people": "Mungdan lahkawng yan na hkawhkam ni; Elia, Esaia, Yeremia zawn re myihtoi ni",
+   "events": "Mungdan garan ai, sutrai nawku ai, myihtoi ni a sadi jaw ai",
+   "q": "Dai aten kaw nna Dingdung mungdan de na Israela amyu masha ni gaw Dawi a hkawhkam dap matu ni hpe gumlau nga masai.",
+   "cite": "1 Hkawhkam 12:19",
+   "christ": "Ndai prat hta myihtoi ni gaw du na hkyen ai Hkristu hpe grau grau san seng hku tsun shawng ai (Esaia 9:6; Esaia 53).",
+   "detail": "<p>Shawlumon a kasha a prat e mungdan gaw garan mat ai: <b>sinna na Israela mungdan</b> (amyu 10, up shara Samari) hte <b>sinpraw na Yuda mungdan</b> (amyu 2, up shara Yerusalem).</p><ul><li><b>Israela (sinna)</b> · hkawhkam yawng sutrai hpe nawku ai; BC 722 e Asuria hku hkrat sum ai.</li><li><b>Yuda (sinpraw)</b> · Dawi a amyu lakung naw matut ai, Hesekia hte Yawsia zawn re hkawhkam kaja kachyi nga ai, raitim yawng hku npu de yu ai.</li><li><b>Myihtoi ni</b> · Elia, Amo, Esaia, Yeremia gaw “bai wa marit!” ngu marawn ai. Ndai shara e Hkristu a lam tsun shawng ai grau hpring tsup ai (Esaia 53 a “jam jau hkam ai mayam”).</li></ul>",
+   "next": "Hpang jahtum e sadi jaw da ai tara dara ai du wa ai — shanhte hpe maigan de woi sa kau ai…"
+  },
+  {
+   "tag": "GA SADI MAKAM · TARA DARA AI",
+   "title": "Maigan mayam",
+   "date": "BC 722 / 586",
+   "one": "Mungdan hkrat sum nna amyu masha hpe maigan ga de woi sa kau ai.",
+   "people": "Daniela, Ezekela, Nebukatneza",
+   "events": "Israela gaw Asuria hku hkrat ai (722); Yuda gaw Babelon hku hkrat nna Nawku Htingnu jahten ai (586)",
+   "q": "Ziun mare hpe anhte myit dum dat ga ai shaloi,anhte gaw Babelon mung na hka nu, hka shi ni a makau hkan dung nga let, hkrap nga ga ai.",
+   "cite": "Shakawn Kungdawn 137:1",
+   "christ": "Myit htum ai a kata kaw, Yeremia gaw “ga shaka nnan” langai hpe ga sadi jaw ai (Yeremia 31:31) — Yesu hpang jahtum shat sha ai hta jahpring ai dai raw raw na ga shaka rai nga ai.",
+   "detail": "<p>Sadi jaw da ai lam teng wa ai. Nawku Htingnu hkru nna amyu masha hpe Babelon de woi sa kau ai — ga shara, hkawhkam, hte Nawku Htingnu sum kau ai: grau npu htum ai aten.</p><ul><li><b>Hkrat sum lahkawng</b> · Israela (Asuria, BC 722) hte Yuda (Babelon, BC 586).</li><li><b>Daniela</b> · Karai Kasang n chye ai hkawhkam dap hta pyi makam masham a sumla (hkanghkyi hkup); du na hkyen ai “htani htana mungdan” a myihtoi mu mada ai.</li><li><b>Myit mada ai wan kang</b> · nra hkraw bai hkrung wa ai Ezekela a myihtoi mu mada (Ezekela 37) hte Yeremia a “ga shaka nnan” gaw nsin hta du na de madun ai.</li></ul>",
+   "next": "Ning 70 hpang, Karai Kasang gaw lam hpaw ya ai — shanhte nta de wa ai…"
+  },
+  {
+   "tag": "GA SADI MAKAM · BAI SHANU LA AI",
+   "title": "Maigan kaw na nhtang wa ai",
+   "date": "BC 538–430",
+   "one": "Shanhte nhtang wa nna Nawku Htingnu hte sha-um ni hpe bai gap ai.",
+   "people": "Ezra, Nehemia, Eshta, Zerubabela",
+   "events": "Kuru a ga shaka hku nhtang wa ai, Nawku Htingnu bai gap ai, Yerusalem sha-um ni bai gap ai, Mungga bai shanu la ai",
+   "q": "Dai Madu nanhte hpe jaw ai kabu gara lam gaw nanhte hpe n-gun ja shangun na ra ai,",
+   "cite": "Nehemia 8:10",
+   "christ": "Ga Sadi Makam a hpang jahtum buk Malahki gaw Hkristu a lam lajang ya na kasa langai hpe tsun shawng nna htum ai: “Nye a matu lam lajang ya na kasa hpe ngai shangun dat na nngai” (Malahki Laika 3:1).",
+   "detail": "<p>Peresia hkawhkam Kuru a ga shaka (BC 538) hku nhtang wa ai lam hpang ai. Lang masum hku nhtang wa nna ahten mat ai hpe bai gap ai.</p><ul><li><b>Zerubabela</b> · Nawku Htingnu bai gap ai (BC 516 e ngut ai).</li><li><b>Ezra</b> · Mungga hpe bai sharin nna makam masham hpe bai bran shangun ai.</li><li><b>Nehemia</b> · Yerusalem sha-um ni hpe ya 52 hta bai gap ai.</li><li><b>Eshta</b> · Peresia na Yuda ni hpe amyu ahkrai jahten kau na kaw na hkye la ai — “ndai zawn re aten a matu re kun.”</li><li><b>Naw kawsi nga ai</b> · Nawku Htingnu tsap nga ai, raitim Dawi zawn re hkawhkam n nga. Amyu masha gaw Hkristu hpe la nga ai.</li></ul>",
+   "next": "Dai hpang… sumsing lamu zim mat ai zawn, ning 400 zim nga ai aten du wa ai."
+  },
+  {
+   "tag": "GA SADI MAKAM LAPRAN · SHARA LAJANG AI",
+   "title": "Zim nga ai ning ni",
+   "date": "BC 430–4 daram",
+   "one": "Myihtoi nsen n nga ai ning 400 — raitim shara gaw zim zim sha lajang da ai.",
+   "people": "Aleksanda Kaba, Makabe ni, Roma",
+   "events": "Peresia → Grik → Makabe shalawt lawt ai → Roma up hkang ai",
+   "q": "Rai ti mung aten ladaw gu jang Karai Kasang gaw shi a kasha hpe shangun dat wu ai;",
+   "cite": "Galati 4:4",
+   "christ": "Ndai “shara lajang ai” yawng gaw Yesu “aten ladaw gu ai” shaloi sa wa na matu Karai Kasang a magam rai nga ai.",
+   "detail": "<p>Malahki kaw na Ga Sadi Nnan du hkra, ning 400 daram Chyum mungga nnan (myihtoi) n nga ai. Raitim labau a shingdu e Karai Kasang gaw Kabu Gara Shiga shabra na matu lam lajang nga ai.</p><ul><li><b>Mungdan ni galai ai</b> · Peresia → Grik (Aleksanda, BC 333) → Egutu hte Suria → Makabe rawt malan (BC 167) → Roma (BC 63).</li><li><b>Grik ga</b> · Aleksanda a dang la ai lam gaw Grik ga hpe yawng a ga shatai ai; Ga Sadi Makam hpe Grik ga hku gale ai (Septuagint), Kabu Gara Shiga lawan shabra na lam hpaw ya ai.</li><li><b>Roma lam hte simsa</b> · atsawm gap da ai lam ni hte “Roma simsa” gaw kabu gara shiga shabra na lam tai ai.</li><li><b>Nawku jawng hte hpung ni</b> · nawku jawng hta sharin ai lam dung wa ai; Hparishe hte Sadushe ni pru wa ai; <b>Hkristu hpe la nga ai myit</b> mung myin wa ai.</li></ul>",
+   "next": "Dai hpang zim nga ai gaw daw mat ai — hpang jahtum e, shi sa wa sai."
+  },
+  {
+   "tag": "GA SADI NNAN · HPRING TSUP AI",
+   "title": "Yesu sa wa ai",
+   "date": "BC 4–AD 30 daram",
+   "one": "Ga sadi jaw da ai Hkristu sa wa nna, si nna, bai hkrung wa ai.",
+   "people": "Yesu, sape 12, Yawhan Hkalup Jau",
+   "events": "Shinggyim hkrang la ai (Hkristhmat), shi a sharin ya ai hte mauhpa galaw ai magam, wudang ntsa e si ai, shani masum ya hku bai hkrung wa ai",
+   "q": "Mungga gaw shinggyim hkum hkrang dagraw la nna, chyeju hte teng man ai hpring let anhte hta nga nga yu sai.",
+   "cite": "Yawhan 1:14",
+   "christ": "Numsha a amyu matu (dut 2), Abraham a shaman (3), La Lai Poi sagu (4), Dawi a htani htana hkawhkam (6), ga shaka nnan (8) — yawng gaw masha langai Yesu hta hpring tsup ai: anhte a teng sha myihtoi, hkinjawng, hte hkawhkam.",
+   "detail": "<p>Zim nga ai daw mat ai; Ga Sadi Jaw da ai Wa du sa ai. Kabu Gara Shiga mali gaw Yesu a asak, si, hte bai hkrung wa ai lam hpe shara mali kaw na sakse hkam ai.</p><ul><li><b>Shinggyim hkrang la ai</b> · Karai Kasang gaw masha tai ai (Immanuela, “Karai Kasang anhte hte rau”), Behtelehem a kanu kang ai shara e.</li><li><b>Magam bungli</b> · Karai Kasang a mungdan hpe sharin ya, machyi makaw hpe shamai, yubak kap ai ni hpe shaga ai. “Ngai hpe mu sai wa gaw Kawa hpe mu sai.”</li><li><b>Wudang</b> · Di hkrat ai (dut 2) hku byin wa ai yubak hte si hkrung si htan a manu hpe anhte a malai jaw ai. Teng sha rai ai La Lai Poi sagu.</li><li><b>Bai hkrung wa ai</b> · shani masum ya hku bai hkrung nna yubak, si hkrung si htan, hte Satan a n-gun atsam hpe daw kau ai — wudang ntsa e nan “lamu hte aga ntsa na n-gun atsam rawng ai ni hte ahkang aya lu ai yawng hte hpe htawk jahkrat … padang dip yan hkawm ai” (Kolose 2:15).</li></ul><p>Dai majaw Yesu gaw anhte a <b>teng sha myihtoi</b> (Karai Kasang de na lam madun ya), <b>teng sha hkinjawng</b> (tinang a hkum hku yubak hpe hparan ya), hte <b>teng sha hkawhkam</b> (yubak, si hkrung si htan, hte Satan hpe dang nna htani htana up sha ai) rai nga ai.</p>",
+   "next": "Bai hkrung wa ai Yesu gaw shi a sape ni hpe mungkan de dat dat ai…"
+  },
+  {
+   "tag": "GA SADI NNAN · SHABRA AI",
+   "title": "Nawku Hpung hpang ai",
+   "date": "AD 30 kaw na",
+   "one": "Wenyi sa wa nna Kabu Gara Shiga gaw mungkan ga shingjut shingnaw du hkra shabra ai.",
+   "people": "Petru, Pawlu, shawng nnan na nawku hpung",
+   "events": "Pentekosta hta Wenyi sa wa ai, nawku hpung shangai ai, roi rip ai hku Kabu Gara Shiga Yerusalem kaw na Roma du hkra shabra ai",
+   "q": "Rai ti mung dai Chyoi Pra ai Wenyi nanhte a ntsa e du jang, nanhte n-gun atsam lu la na marin dai rai nna, nanhte gaw Yerusalem mare hte Yuda mung ting, Samari mung hte lamu ga shingjut shingnaw ni htum hkra nye a sakse ni tai na marin dai,",
+   "cite": "Kasa 1:8",
+   "christ": "Ndai maumwi gaw dai ni du hkra naw matut nga ai. Chyum Laika gaw Yesu bai sa wa nna lamhpa ni hpe yawng nnan shatai na ga sadi hku htum ai (Shingran 21).",
+   "detail": "<p>Yesu lung mat ai hpang, ga sadi jaw da ai Wenyi gaw Pentekosta hta sa wa nna nawku hpung shangai ai. Kabu Gara Shiga gaw kapaw ai zawn shabra ai.</p><ul><li><b>Pentekosta</b> · Wenyi gaw hkrit nga ai sape ni hpe gawngban ai sakse ni shatai kau ai.</li><li><b>Petru</b> · Yerusalem hta Yuda ni hpe Kabu Gara Shiga hkaw dan ai.</li><li><b>Pawlu</b> · roi rip ai wa kaw na kasa tai wa ai; maigan amyu mungkan hkan e nawku hpung gap nna laika ka ai.</li><li><b>Shingjut shingnaw du hkra</b> · Yerusalem → Yuda → Samari → Roma. Abraham hpe jaw ai “amyu baw yawng” a ga sadi teng wa ai.</li><li><b>Anhte mung</b> · maumwi gaw n htum ai; Yesu bai sa wa na hte sumsing lamu nnan hte ga nnan de matut nna sa wa ai.</li></ul>",
+   "next": "Rai ti mung maumwi gaw ndai kaw n htum ai…"
+  },
+  {
+   "tag": "GA SADI NNAN · HPRING TSUP NGUT AI",
+   "title": "Bai shanu la ai (yawng nnan)",
+   "date": "Du na hkyen ai",
+   "one": "Yesu bai sa wa nna lamhpa ni hpe yawng nnan shatai ai.",
+   "people": "Bai sa wa ai Yesu; amyu baw yawng",
+   "events": "Bai sa wa ai, hpang jahtum tara dara ai, yubak·si hkrung si htan·myi prwi htum ai, sumsing lamu nnan hte ga nnan",
+   "q": "Shi gaw shanhte a myi hta na myi prwi pru mapru yawng katsut kau ya na ra ai: htawm hpang de si hkrung si htan ngu ai n nga lu na sai; … hkrap ngu hkrap ngoi ai hte machyi makaw, hki si ba si ai mung n nga lu na sai.",
+   "cite": "Shingran 21:4",
+   "christ": "Shawng nnan hpan da ai Eden gaw hpang jahtum e “Yerusalem Nnan” hku bai shanu la ai. Karai Kasang gaw shi a amyu hte htani htana nga ai — Immanuela a hpring tsup ai lam (Shingran 21:3; Mahte 1:23).",
+   "detail": "<p>Chyum Laika gaw nawku hpung prat hta n htum ai. Hpang jahtum buk Shingran gaw Yesu <b>bai sa wa nna</b> yawng hpe hpring tsup shangun ai hpe madun ai.</p><ul><li><b>Bai sa wa ai</b> · ga sadi jaw da ai hkawhkam gaw hpung shingkang hte bai sa wa ai.</li><li><b>Hpang jahtum awng dang ai</b> · Satan hte si hkrung si htan gaw htani htana jahten hkrum ai, Hkristu gaw hkawhkam ni a Hkawhkam hku up sha ai (1 Korinhtu 15:25-26; Shingran 20:10).</li><li><b>Tara dara ai hte bai hkrung wa ai</b> · n teng ai lam yawng hpe ding shatai ai, si sai ni bai hkrung wa ai.</li><li><b>Sumsing lamu nnan hte ga nnan</b> · yubak, si hkrung si htan, myi prwi, hte machyi makaw gaw htani htana mat mat ai (Shingran 21:4).</li><li><b>Eden bai shanu la ai</b> · ningpawt hta grau kaja ai “Yerusalem Nnan” hta, Karai Kasang gaw shi a amyu hte htani htana nga ai — Chyum Laika ting madun ai ding sa shara.</li></ul><p>Dai majaw ya gaw <b>“du sai, raitim n du shi ai”</b> a aten rai nga ai: Yesu hta hkye hkrang la ai gaw <b>du sai</b>, raitim dai a hpring tsup ai lam gaw <b>naw</b> la nga ai.</p>",
+   "next": "Dai hku nga yang, ndai maumwi ting gaw “ngai” a matu hpa lachyum rawng ai kun?"
+  }
+ ],
+ "love": [
+  "Maumwi a ningpawt gaw tara dara ai n re, tsaw ra myit hku hpan da ai mungkan rai nga ai.",
+  "Masha yubak galaw ai dai shaloi nan, Karai Kasang gaw dai kaw nan hkye la na ga sadi jaw ai.",
+  "Karai Kasang gaw n daw hkrak ai wa hpe shawng tam, shi a mying hku shaga, chyeju daju shatai ai.",
+  "Mayam tai ai amyu a marawn ai hpe na nna shi nan hkye la na matu yu wa ai.",
+  "Kalang hte kalang kashun timung, marawn dat ai shagu hkye la ai wa dat ya nna bai shatsap ya ai.",
+  "Di hkrat ai Dawi hpe pyi n kabai kau ai; shi a marang e htani htana hkawhkam langai a ga sadi jaw ai.",
+  "Shingdu jahkrat kau ai amyu hpe myihtoi ni dat ya nna, “bai wa marit” ngu tawngban ai.",
+  "Maigan mayam a nsin htum ai ga de pyi shanhte hte rau yu wa nna bai shanu la na ga sadi jaw ai.",
+  "Kalang hte kalang shut ai amyu hpe pyi ga sadi n bai la kau ai sha, bai shatsap ya ai.",
+  "Zim nga ai ning 400 hku pyi, n mu shi yang, hkye hkrang la na lam hpe lajang nga ai.",
+  "Anhte naw yubak kap nga yang, shi a Kasha hpe dat nna shi a asak hpe ap nawng kau ai.",
+  "Anhte hkam la ai dai tsaw ra myit hpe, ya mungkan ting de lwi shapraw na matu dat ya ai.",
+  "Hpang jahtum e myi prwi shagu hpe katsut kau nna tsaw ra myit hku lamhpa ni hpe yawng nnan shatai na ra ai."
+ ],
+ "mis": [
+  {
+   "w": "“Karai Kasang gaw hpa majaw yubak galaw chye ai masha hpe hpan da ai? Hpan da ai gaw n kaja ai n re i?”",
+   "t": "Karai Kasang gaw mungkan hte masha hpe hpa n ra ai a majaw n re, tsaw ra myit a-um shapra ai a majaw hpan da ai. Masha hpe <b>Karai Kasang hte sumtsaw lu ai masha</b> hku hpan da ai gaw teng nga yang tsaw ra myit nan rai nga ai. Yubak shang wa ai pyi Karai Kasang a hkye hkrang la ai lam a shingdu kaw n re (Ehpesu 1:4-5). Chyum Laika a shawng nnan dut gaw tara dara ai n re, tsaw ra myit rai nga ai."
+  },
+  {
+   "w": "“Namsi langai sha kau ai a majaw shapraw kau nna si hkrung si htan pyi jaw ai — Karai Kasang gaw grai ja ai n re i?”",
+   "t": "Eden kaw na shapraw kau ai gaw tara dara ai mung re, chyeju mung re. Karai Kasang hte daw mat ai dai di hkrat ai prat hta, masha gaw asak hpun na namsi sha nna htani htana hkrung yang, jam jau hta htani htana hkrum nga na (Ningpawt Ninghpang 3:22). Si hkrung si htan hpe shangun ai gaw nhtang wa na lam hpaw ya ai; dai kaw nan Karai Kasang gaw Hkye La na Wa langai a ga sadi jaw ai (Ningpawt Ninghpang 3:15). Tara dara ai kata kaw tsaw ra myit nga sai."
+  },
+  {
+   "w": "“Abraham gaw makam masham kaba ai a majaw lata hkrum ai; Chyum Laika na masha yawng gaw masha ladat gawngban ni n re i?”",
+   "t": "Abraham mung masu ai hte tsang ai, Yakob gaw masu magaw ai wa rai nga ai. Karai Kasang gaw “daw hkrak ai” ni hpe n shaga ai, sai shut law ai ni hpe chyeju hku shaga ai. Lata ai lam gaw shanhte a kaja ai a majaw n re, Karai Kasang a sadi dung ai tsaw ra myit a majaw rai nga ai (Tara Jahprang 7:7-8)."
+  },
+  {
+   "w": "“Tara (Hkang da ai lam) gaw hkye hkrang la na matu lai ra ai lahkrang adip n re i?”",
+   "t": "Karai Kasang gaw Tara n jaw shi <b>ya</b> shanhte hpe hkye la sai. Tara Shi pyi hkye hkrang la ai shapraw ai hku hpang ai: “Ngai gaw nang … Egutu mung kaw na woi shapraw wa ai dai Madu na a Karai Kasang rai nga nngai” (Pru Mat Wa Ai 20:2). Tara gaw “hkye la hkrum na matu hkan sa u” ngu n re, chyeju hku hkye hkrang la sai ni gara hku hkrung na matu tsaw ra myit a matsun rai nga ai (Tara Jahprang 7:7-9). Galoi mung chyeju shawng; madat ai gaw bai htan ai rai nga ai."
+  },
+  {
+   "w": "“Kanan ga dang la ai gaw matsan dum n chye ai gasat ai re; Ga Sadi Makam a Karai Kasang gaw teng nga yang n hkrum shawp ai.”",
+   "t": "Ndai gaw ga kagrin langai hku n lu hparan ai yak ai lam rai nga ai, sadi ra ai. Rai ti mung Chyum Laika gaw ndai hpe tinang ra ai gasat ai n re, ning law law na n kaja n shawp ai lam (ma jaw jau ai mung lawm) a hpang, na na sharang ai a hpang na tara dara ai hku madun ai (Ningpawt Ninghpang 15:16; Tara Jahprang 9:4-5; Jaw Jau 18:24-25). Karai Kasang gaw tara dara ai hta pyi n gat ai, shi de bai gayin wa ai wa hpe maigan masha rai timung Rahab hte Ruhta zawn re kabu let hkap la ai (Yawshu 6:25; Ruhta 4:13-17)."
+  },
+  {
+   "w": "“Dawi gaw sai n nga ai gawngban re; dai majaw shi hpe ‘Karai Kasang a salum hte maren’ ngu shamying ai.”",
+   "t": "Dawi gaw nyan dum sai hte masha sat ai pyi galaw ai. “Karai Kasang a salum hte maren” ngu gaw daw hkrak ai ngu n re, tinang a yubak hpe n makoi ai — salum kaw na myit malai nna Karai Kasang de bai gayin wa ai wa hpe tsun ai (Shakawn Kungdawn 51). Karai Kasang a tsaw ra myit gaw grai di hkrat ai ni hpe pyi n kabai kau ai."
+  },
+  {
+   "w": "“Myihtoi gaw du na lam tsun shawng ai myimang sara re; Ga Sadi Makam a Karai Kasang gaw pawt ai sha chye ai.”",
+   "t": "Myihtoi a ahkyak gaw “du na lam tsun shawng ai” n re, Karai Kasang a salum kaw na tawngban ai: “bai wa marit” ngu rai nga ai. Tara dara ai sadi jaw ai pyi jahten kau na n re, bai gayin wa nna hkrung shangun na matu rai nga ai — “Yubak galaw ai hpe kau da nna hkrung nga na hpe ngai yu sharawng nga nngai” (Ezekela 33:11)."
+  },
+  {
+   "w": "“Maigan mayam gaw Karai Kasang Israela hpe tep tawng kau ai a sakse rai nga ai.”",
+   "t": "Maigan mayam gaw tawng kau ai n re, tsaw ra ai kasha hpe Kawa a sharin shaga ai hte san seng shangun ai rai nga ai (Hebre 12:6). Karai Kasang gaw n hkawm mat ai; maigan mayam a ka-ang e Daniela hte rau nga nna ga sadi jaw ai: “Nanhte a matu ngai hta rawng ai yaw shada lam ni hpe ngai chyu sha chye nngai … nanhte myit mada nga ai du na ra ai aten hte seng ai yaw shada lam ni rai nga ai” (Yeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Ning 400 mungga n nga ai a majaw, Karai Kasang gaw hkawm mat sai n rai jang hkring sa nga ai.”",
+   "t": "Zim nga ai gaw n nga ai ngu lachyum n re. Shi gaw n tsun ai sha re, dai aten ting hku hkye hkrang la na shara lajang na matu mungdan ni, ga ni, hte lam ni hpe galai shai nga ai. Grau zim ai aten hta, Karai Kasang gaw tsaw ra myit hte grau shakut nga ai (Galati 4:4)."
+  },
+  {
+   "w": "“Yesu gaw kaja ai sara langai sha re; wudang gaw matsan dum hkrum sum ai re.”",
+   "t": "Yesu gaw tinang Karai Kasang nan re ngu tsun ai (Yawhan 8:58), wudang gaw aprat n re, sum ai mung n re, lajang da ai tsaw ra myit rai nga ai. Shi gaw n-gun hku woi sa kau ai n re; tinang a asak hpe tinang ap nawng kau ai (Yawhan 10:18). “Jinghku ni a matu tinang a asak nawng kau hkra tsaw ra ai myit hta grau kaba ai tsaw ra myit ngu ai gaw n nga sai” (Yawhan 15:13)."
+  },
+  {
+   "w": "“Nawku hpung gaw daw hkrak ai masha ni a makam masham hpung sha re, n rai jang htingnu sha re.”",
+   "t": "Nawku hpung gaw “ngut tsup ai chyoi pra ai ni” a hpung n re, <b>mara raw hkrum ai yubak kap ai ni</b> a hpung rai nga ai. Kasa Pawlu pyi tinang hpe “yubak kap ai ni hta … kaba htum ai wa” ngu shamying ai (1 Timohti 1:15). Shawng nnan na nawku hpung mung ga law ai hte sai shut ai (Kasa 6:1; 1 Korinhtu 1:11). Nawku hpung gaw gumrawng na shara n re, hkam la ai tsaw ra myit hpe dat ya ai masha ni rai nga ai (Yawhan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Yubak ningpawt — ding hpring ai wa langai mi pyi n nga ai",
+   "body": "Jam jau gaw “n kaja ai amu kachyi” n re, salum a ningpawt rai nga ai. Adam kaw na, yawng gaw yubak npu e shangai ai, tinang hkrai Karai Kasang de n lu du ai.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Ding hpring ai wa langai mi pyi n nga ai. … Yawng mayawng gaw yubak galaw ma ai hte, Karai Kasang a mawai la ai lam hte tsan gang mat masai."
+  },
+  {
+   "title": "Tara gaw ngai hpe n lu hkye la ai",
+   "body": "Tara gaw lahkrang n re, sumdaw rai nga ai. Grau shakut yang, gade hkrat sum ai hpe grau madun ai. Dai a hkyen ai gaw anhte hpe Hkristu de woi sa na matu rai nga ai.",
+   "vref": "Roma 3:20 · Galati 3:24",
+   "vtext": "Dai jep ai Tara e galaw ai amu gaw, masha gaw yubak mara galaw nu ai ngu ai hpe chye shangun na matu rai nga ai. … jep ai tara gaw … Hkristu du sa ai aten du hkra anhte hpe sharin sara tai ya mani ai."
+  },
+  {
+   "title": "Chyeju hku — kumhpa, shakut ai n re",
+   "body": "Hkye hkrang la ai gaw bungli a manu n re, n daw hkrak ai ni a matu Karai Kasang a kumhpa rai nga ai. Dai majaw kadai mung n lu gumrawng ai.",
+   "vref": "Ehpesu 2:8-9",
+   "vtext": "nanhte gaw makam masham a marang e Karai Kasang a chyeju hte sha hkye hkrang la ai hkrum manit dai; … Nanhte galaw ai magam bungli a majaw byin wa ai n rai, dai majaw de a lam kadai mung gumrawng shara n nga ai."
+  },
+  {
+   "title": "Makam masham hku ding hpring ai",
+   "body": "Tara hkan sa ai hku n re, Yesu Hkristu hpe kam sham ai hku ding hpring ai ni hku masat hkrum ai — tinang a ding hpring ai hku n re, shi a ding hpring ai hku hpun ai.",
+   "vref": "Roma 5:1 · Galati 2:16",
+   "vtext": "Ya anhte gaw Karai Kasang hpe kam sham ai hte ding hpring wa lu ga ai majaw … masha gaw jep ai tara hpe hkan sa shadik ai magam bungli hte Karai Kasang a man e ding hpring wa lu ai n rai; Yesu Hkristu hpe kam sham ai hte sha ding hpring wa lu ga ai"
+  },
+  {
+   "title": "Chyum Laika gaw Yesu hpe madun ai",
+   "body": "Chyum Laika gaw masha kaba ni a labau n re, tinang hpe garum ai laika mung n re. Ningpawt Ninghpang kaw na Shingran du hkra, daw shagu gaw masha langai — Yesu Hkristu hpe sakse hkam ai.",
+   "vref": "Yawhan 5:39 · Luka 24:27",
+   "vtext": "dai laika ni nan nye a lam sakse hkam nga ai! … shi a lam ka da ai ga ni yawng shan hpe tsun hpaw dan mu ai."
+  },
+  {
+   "title": "Karai Kasang a mungdan — Yesu a mungga a ningke",
+   "body": "Yesu grau sharin ya ai myit shawng. Karai Kasang hkawhkam hku up sha ai mungdan gaw Yesu hte rau ndai mungkan de shang wa nna shi bai sa wa ai shaloi hpring tsup na ra ai. Wudang hte bai hkrung wa ai hku, Yesu gaw yubak, si hkrung si htan, hte Satan hpe dang ai teng sha hkawhkam rai nga ai.",
+   "vref": "Marku 1:15",
+   "vtext": "Dai aten ladaw dik wa ai hte, Karai Kasang a mungdan gaw ni wa magang ra ai! Nanhte a yubak mara ni kaw na kayin wa nna Karai Kasang a Kabu Gara Shiga hpe kam sham nga mu!"
+  },
+  {
+   "title": "Kabu Gara Shiga — shi yawng hpe hpring tsup shangun sai",
+   "body": "Ngai n lu htang ai yubak a li hpe, Yesu gaw wudang ntsa e ngai a malai htang sai, bai hkrung wa ai hku si hkrung si htan hpe dang sai. Ngai gaw “galaw u” ntsa e n tsap ai, “ngut sai” ntsa e tsap ai.",
+   "vref": "Yawhan 19:30 · Roma 5:8",
+   "vtext": "Ngut ma sali ai! … anhte yubak kap ai ni naw rai nga yang Hkristu gaw anhte a matu mara si hkam sai."
+  }
+ ],
+ "books": {
+  "Ningpawt Ninghpang": "GEN",
+  "Pru Mat Wa Ai": "EXO",
+  "Jaw Jau": "LEV",
+  "Bu Hkawm": "NUM",
+  "Tara Jahprang": "DEU",
+  "Yawshu": "JOS",
+  "Tara Agyi": "JDG",
+  "Ruhta": "RUT",
+  "Ezra": "EZR",
+  "Nehemia": "NEH",
+  "Eshta": "EST",
+  "Yoba": "JOB",
+  "Shakawn Kungdawn": "PSA",
+  "Ga Shagawp": "PRO",
+  "Hpaji Ningli": "ECC",
+  "Shawlumon A Mahkawn Ga": "SNG",
+  "Esaia": "ISA",
+  "Yeremia": "JER",
+  "Sharung Shayawt": "LAM",
+  "Ezekela": "EZK",
+  "Daniela": "DAN",
+  "Hosea": "HOS",
+  "Yoela": "JOL",
+  "Amo": "AMO",
+  "Obadia": "OBA",
+  "Yona": "JON",
+  "Mihka": "MIC",
+  "Nahum": "NAM",
+  "Habaku": "HAB",
+  "Zehpani": "ZEP",
+  "Hagi": "HAG",
+  "Zehkaria": "ZEC",
+  "Malahki Laika": "MAL",
+  "Mahte": "MAT",
+  "Marku": "MRK",
+  "Luka": "LUK",
+  "Yawhan": "JHN",
+  "Kasa": "ACT",
+  "Roma": "ROM",
+  "Galati": "GAL",
+  "Ehpesu": "EPH",
+  "Hpilipi": "PHP",
+  "Kolose": "COL",
+  "Titu": "TIT",
+  "Hpilemon": "PHM",
+  "Hebre": "HEB",
+  "Yaku": "JAS",
+  "Yuda": "JUD",
+  "Shingran": "REV",
+  "1 Samuela": "1SA",
+  "2 Samuela": "2SA",
+  "1 Hkawhkam": "1KI",
+  "2 Hkawhkam": "2KI",
+  "1 Hkawhkam Labau": "1CH",
+  "2 Hkawhkam Labau": "2CH",
+  "1 Korinhtu": "1CO",
+  "2 Korinhtu": "2CO",
+  "1 Htesaloni": "1TH",
+  "2 Htesaloni": "2TH",
+  "1 Timohti": "1TI",
+  "2 Timohti": "2TI",
+  "1 Petru": "1PE",
+  "2 Petru": "2PE",
+  "1 Yawhan": "1JN",
+  "2 Yawhan": "2JN",
+  "3 Yawhan": "3JN"
+ },
+ "yv": 348,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
