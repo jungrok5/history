@@ -19,7 +19,7 @@ fetch-verse · fetch-booknames · verify-verbatim · verify-inline · verify-pro
 ## ⛔ Deploy quality gate (한계점 — correctness > scale, read first)
 **A language ships only if its translated *prose* is verifiably faithful.** After drafting, it must pass BOTH:
 (1) **`verify-prose`** back-translation faithfully matches the English source, AND (2) **native review** has
-**no unresolved BLOCKER/MAJOR**. If either fails and can't be fixed → **DEFER** (record in the decisions log as
+**no unresolved BLOCKER/MAJOR**. If either fails and can't be fixed → **DEFER** (record in `DEFERRED.md` with the reason,
 "coming soon — needs a human/native translator"); do **not** deploy, however many speakers. Verbatim Scripture is
 always safe (copied) — this gate is only about the AI-generated prose (storyline/FAQ/prayer/UI). Resource proxies
 (FLORES-200 / Wikipedia size in `detect-mode`) are **advisory only** — a "scrutinize harder" flag, never an auto-exclude
@@ -61,7 +61,7 @@ JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=speakers  --top=
      `__NEXT_DATA__` content) and then the new format (chapter `chapterInfo.content` `data-usfm` parser),
      so both reader formats are covered. If it's still empty the edition is **audio-only** (e.g. bho3621 =
      "available in audio format") or otherwise has no text → **hold it**; use a text edition of the same language if one exists.
-   - **No language page / no full-OT edition at all → exclude** (record it in `NOTES.md`'s *Language decisions log*).
+   - **No language page / no verbatim source anywhere → hold/exclude** (record it in `DEFERRED.md` with the reason).
 3. **Script type** → font / digits:
    - Latin/Cyrillic (ru·mn type): default Noto, `font=null`, ASCII digits.
    - Devanagari (hi·ne) / Arabic (ar) / Thai / CJK / Khmer / Myanmar / Geʽez / Armenian / Georgian /

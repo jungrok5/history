@@ -7,10 +7,9 @@
 ## Language decisions log (update HERE, never in SKILL.md / AGENTS.md)
 So we don't re-investigate, and so adding a language never edits SKILL.md or AGENTS.md. The live language *list/count* is
 auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
-- **Held / not addable** (recorded so we don't retry): bm (no YV language page).
-- **Deferred — failed the empirical quality gate** (removed from live, await a human/native translator): **knc** (Kanuri —
-  prose heavily Hausa-code-mixed + grammatically broken prayer/FAQ on blind back-translation); **guq** (Aché — ultra-low-resource,
-  AI prose unreliable; never deployed). Re-add only after a native speaker verifies the prose. kg/ks/mni were re-checked and PASSED.
+- **Held / Deferred / Covered-by-parent languages → see `DEFERRED.md`** (the single source for deferred languages + reasons).
+  Currently: knc·guq (deferred, low-resource prose); bm (held, no source found); the 6 colloquial-Arabic variants (covered by `ar`).
+  (kg/ks/mni were re-checked and PASSED — they are live, not deferred.)
 - **Deferred then re-deployed after grounding the flagged terms in the edition itself**: **ssw** (siSwati, SWT #604)
   was held for native review over 4 suspect non-Scripture spellings (`lc`/`phc`/`tjh` aren't standard siSwati). Resolved by
   attesting the fixes **inside #604** via fetch-verse, not by guessing: `liphcombi`→`buphingi` (adultery, EXO 20:14/MAT 5:27
@@ -31,7 +30,8 @@ auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
   yue (only the **1915 romanized** Cantonese edition #3026 — added full-mode but kept deliberately: romanized verses
   clash with the Traditional-Han prose & most Cantonese read zh-Hant, yet verses are verbatim and it gives a 廣東話 page);
   arz (YV #2429 is **Genesis-only** → added as **bridge** from ar/Van Dyck); syl (#1917 = richer-partial, Isaiah etc. absent).
-- **Partial-mode**: done = ff, **ky** (NT+Genesis+Judges richer-partial). Remaining candidates = tet, et (NT-only on YV).
+- **Partial-mode**: done = ff, **ky** (NT+Genesis+Judges richer-partial), **et** (Estonian — ECV/YV 3257, NT 27 books; no OT
+  edition exists on YV or eBible). Remaining candidates = tet (NT-only on YV).
 - **OBS-mode** (no Bible + OBS): done = **bal** (Balochi, `fa_gl/Balochi_OBS`). Other no-Bible OBS langs in catalog: haz, shu, qxq, kaa, glk, lrc, mzn, tly, etc.
 - **YouVersion code/version gotchas**: Malagasy = code `plt` (id 873, full Bible — the old `mg` exclusion was a code
   mismatch); kmr (id 251) is a full Bible despite its "Încîl" (NT) name; **azb** (South Azerbaijani) full Arabic-script
