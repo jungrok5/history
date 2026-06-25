@@ -33,6 +33,11 @@ auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
 - **Partial-mode**: done = ff, **ky** (NT+Genesis+Judges richer-partial), **et** (Estonian — ECV/YV 3257, NT 27 books; no OT
   edition exists on YV or eBible). Remaining candidates = tet (NT-only on YV).
 - **OBS-mode** (no Bible + OBS): done = **bal** (Balochi, `fa_gl/Balochi_OBS`). Other no-Bible OBS langs in catalog: haz, shu, qxq, kaa, glk, lrc, mzn, tly, etc.
+- **YV language_tag resolution (macrolanguage mismatch)**: YV catalogs some languages under an *individual* tag, not the
+  639-1 macro, AND leaves `iso_639_1` null in the config — so `detect-mode <2-letter>` finds nothing even though it exists.
+  Real hit: **Estonian `et` → YV tag `ekk`** ("Estonian, Standard"). Fix is built in now: detect-mode has a `YV_TAG` alias
+  ({et:'ekk'}) + a `--name="English name"` fallback that searches the config by language name. If a code keeps missing,
+  run `detect-mode <code> --name="<name>"` (auto-resolves) or add the alias to `YV_TAG` in detect-mode.mjs.
 - **YouVersion code/version gotchas**: Malagasy = code `plt` (id 873, full Bible — the old `mg` exclusion was a code
   mismatch); kmr (id 251) is a full Bible despite its "Încîl" (NT) name; **azb** (South Azerbaijani) full Arabic-script
   Bible = YV **#4196 (SAB)** — distinct from the Latin-script eBible azb (which duplicates `az`); Hebrew Psalm numbering, Isa 9:6.

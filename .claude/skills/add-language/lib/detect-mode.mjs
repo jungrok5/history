@@ -12,8 +12,13 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const FV = path.join(__dirname, 'fetch-verse.mjs');
-const codes = process.argv.slice(2);
-if (!codes.length) { console.error('usage: node detect-mode.mjs <code> [code2 …]'); process.exit(2); }
+// 인자: 코드들 + 선택 플래그. --name="English/local name"(코드로 YV 태그를 못 찾을 때 이름으로 검색),
+//   --tag=<yv_language_tag>(태그 직접 지정, 해석 건너뜀). 이름에 공백이 있으면 따옴표로.
+const argv = process.argv.slice(2);
+const flags = {};
+const codes = [];
+for (const a of argv) { const m = a.match(/^--([^=]+)=(.*)$/); if (m) flags[m[1]] = m[2]; else codes.push(a); }
+if (!codes.length) { console.error('usage: node detect-mode.mjs <code> [code2 …] [--name="English name"] [--tag=<yv_language_tag>]'); process.exit(2); }
 
 function curlText(url, t = 25) {
   for (let i = 0; i < 3; i++) {
@@ -50,23 +55,39 @@ function translatability(code) {
 // ---- YouVersion 코드→language_tag 해석기 (configuration API, 1회 캐시) ----
 //  www.bible.com/languages/<code> 는 봇 차단(Client Challenge)되어 못 씀 → nodejs.bible.com JSON API 사용.
 //  config 의 default_versions[]가 iso_639_1(2글자)·iso_639_3(3글자)·language_tag 매핑을 줌.
-let _yvLangMap = null;
-function yvLangTag(code) {
-  if (_yvLangMap === null) {
-    _yvLangMap = new Map();
-    try {
-      const j = JSON.parse(curlText('https://nodejs.bible.com/api/bible/configuration/3.1', 30));
-      for (const L of (j.default_versions || [])) {
-        if (!L.language_tag) continue;
-        for (const k of [L.iso_639_1, L.iso_639_3, L.language_tag]) if (k) _yvLangMap.set(String(k).toLowerCase(), L.language_tag);
-      }
-    } catch {}
+// 우리 코드 → YV language_tag 별칭. YV config 가 그 언어의 iso_639_1 을 비워둬 자동매핑이 안 되는 경우
+//  (대개 macrolanguage 의 표준 변종을 별도 individual 코드로 카탈로그함: 에스토니아 et→ekk 등).
+//  새 미스를 만나면: config 에서 이름으로 실제 language_tag 를 찾아(아래 --name 폴백이 자동으로 함) 여기 한 줄 추가.
+const YV_TAG = { et: 'ekk' };
+let _yvLangMap = null, _yvNameMap = null;
+function _ensureYvMaps() {
+  if (_yvLangMap !== null) return;
+  _yvLangMap = new Map(); _yvNameMap = new Map();
+  try {
+    const j = JSON.parse(curlText('https://nodejs.bible.com/api/bible/configuration/3.1', 30));
+    for (const L of (j.default_versions || [])) {
+      if (!L.language_tag) continue;
+      for (const k of [L.iso_639_1, L.iso_639_3, L.language_tag]) if (k) _yvLangMap.set(String(k).toLowerCase(), L.language_tag);
+      for (const n of [L.name, L.local_name]) if (n) _yvNameMap.set(String(n).toLowerCase(), L.language_tag);
+    }
+  } catch {}
+}
+// 코드(또는 이름)로 YV language_tag 해석. 순서: 별칭 → config 직접매칭 → (이름 주어지면) 이름 검색.
+function yvLangTag(code, name) {
+  _ensureYvMaps();
+  if (YV_TAG[code]) return YV_TAG[code];
+  const direct = _yvLangMap.get(String(code).toLowerCase());
+  if (direct) return direct;
+  if (name) {                                   // 코드로 못 찾으면 이름으로(예: "Estonian" → "Estonian, Standard" = ekk)
+    const nl = String(name).toLowerCase();
+    if (_yvNameMap.get(nl)) return _yvNameMap.get(nl);
+    for (const [n, tag] of _yvNameMap) if (n === nl || n.startsWith(nl + ',') || n.startsWith(nl + ' ')) return tag;
   }
-  return _yvLangMap.get(String(code).toLowerCase()) || code;   // 못 찾으면 코드 그대로(이미 tag 일 수 있음)
+  return code;                                   // 못 찾으면 코드 그대로(이미 tag 일 수 있음)
 }
 // ---- YouVersion: 언어의 버전 목록 (versions API; language_tag 기준) ----
-function yvVersions(code) {
-  const tag = yvLangTag(code);
+function yvVersions(code, name) {
+  const tag = flags.tag || yvLangTag(code, name);
   let j = null;
   try { j = JSON.parse(curlText(`https://nodejs.bible.com/api/bible/versions/3.1?language_tag=${encodeURIComponent(tag)}&type=all`, 25)); } catch {}
   const vs = (j && j.versions) || [];
@@ -117,9 +138,9 @@ function obsInfo(code) {
 for (const code of codes) {
   console.log(`\n=== detect-mode: ${code} ===`);
   // YouVersion
-  const vs = yvVersions(code);
+  const vs = yvVersions(code, flags.name);
   let yvFull = null, yvNT = null;
-  if (!vs.length) console.log('YouVersion: (no versions / not on YV under this code)');
+  if (!vs.length) console.log(`YouVersion: (no versions under tag "${flags.tag || yvLangTag(code, flags.name)}") — if you believe it exists, find its real language_tag in the config and rerun with --name="<English name>" or --tag=<tag>`);
   else {
     console.log(`YouVersion: ${vs.length} version(s)`);
     for (const v of vs.slice(0, 6)) {

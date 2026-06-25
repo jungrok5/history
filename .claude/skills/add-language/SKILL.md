@@ -40,15 +40,22 @@ JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=speakers  --top=
 - This is **advisory** — it proposes targets only. Final go/defer is still the empirical gate (verify-prose + native review) in §0/§Quality.
 - Then take the chosen ROL3/code into §0 below (`detect-mode <code>`) to lock the mode and version ID.
 
-## 0. Decide + version-availability gate (auto-pick full vs partial mode)
-0. **Fastest path — run `detect-mode` first** (probes all sources, removes the "which mode?" guesswork):
+## 0. Decide + version-availability gate (auto-pick the mode via the source cascade)
+**The mode is decided by one fixed cascade — `detect-mode` runs it for you, so don't guess:**
+> **YouVersion full → YouVersion NT(partial) → eBible full → eBible NT(partial) → OBS → bridge → defer.**
+> (i.e. always prefer a full Bible; if none, a NT-only edition = partial mode; only if no Bible text anywhere
+> does it fall to OBS/bridge; if nothing usable + prose can't be trusted → defer to DEFERRED.md.)
+
+0. **Fastest path — run `detect-mode` first** (probes all sources and prints the cascade's verdict):
    ```
    node lib/detect-mode.mjs <code> [code2 …]
+   node lib/detect-mode.mjs <code> --name="<English name>"   # if a code returns "no versions" but you believe YV has it
    ```
-   It lists YouVersion versions (+full/NT-only probe), eBible editions (full/NT/redistributable), and OBS
-   (repo + .txt|markdown format), then prints a **RECOMMENDED mode** (full / eBible / partial / OBS / bridge).
-   YV is preferred over eBible for the same full Bible. If unsure of the code, pass both the 2-letter and the
-   ISO 639-3 form (sources differ, e.g. Malagasy is `plt` on YV). Then confirm the chosen `yv`/ID below.
+   It resolves the YV `language_tag` (handles macrolanguage mismatches like Estonian `et`→`ekk`; if the code
+   alone misses, `--name` searches the YV config by language name), lists each YouVersion version with a
+   **FULL / NT-only / OT-only** probe, eBible editions (full/NT/redistributable), OBS, then prints the
+   **RECOMMENDED MODE** + the verified `yv` id. **That output's mode/yv/script are the slot values you feed the
+   drafting template in §1.** (Edge case: if a known code keeps missing, add it to `YV_TAG` in detect-mode.mjs.)
 1. **Language to add** + **YouVersion version ID** (the verbatim baseline). If several candidates, ask
    the user (AskUserQuestion). Verified IDs already in use live in `YV` in `index.html` — read them there.
 2. **Confirm the OT/NT split** with fetch-verse (detect-mode already did this; re-check the chosen ID):
@@ -68,9 +75,13 @@ JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=speakers  --top=
      Sinhala etc.: a dedicated Noto font + letter-spacing 0. Convert reference digits to ASCII.
 
 ## 1. Write the i18n pack (drafting agent)
-- Spin up a native-speaker Christian-translator agent to write `i18n/<code>.json`. Prompt essentials:
-  - `i18n/es.json` is the **structure template** (same keys/shape). `EN_PACK`/EPOCHS/CORE in `index.html`
-    is the **meaning source**.
+- **Use the reusable brief: `lib/drafting-prompt.md`.** Subagents don't inherit this skill's context, so that
+  template is the **self-contained** drafting brief (verbatim rules · inline-quote slots · structure · film-free ·
+  terminology · per-mode handling · output format · self-check). Fill its `«…»` slots from §0's `detect-mode`
+  output (`«code» «yv» «mode» «dir» «menuName» «script/font» «판본약어»`) and hand it to a native-speaker
+  Christian-translator agent (Task/Agent tool). For several languages, run them in parallel. **Don't re-transcribe
+  the rules here** — edit the template if the rules change. The essentials below are a quick reference / index:
+  - `i18n/es.json` is the **structure template** (same keys/shape). `i18n/en.json` (= `EN_PACK`) is the **meaning source**.
   - Structure: epochs[13] · core[7] · love[13] · mis[13] (index **8 & 12 = null**); `s` keys = the same set as es.json.
   - **Every Bible quote is verbatim from that edition** — always extract with
     `node lib/fetch-verse.mjs <YV> <USFM[,USFM…]>` (bible.com `__NEXT_DATA__` raw text;
