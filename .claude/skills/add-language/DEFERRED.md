@@ -28,6 +28,10 @@
 | `vec` | Venetian 베네토 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
 | `kea` | Kabuverdianu 카보베르데 크리올 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
 | `tzm` | Central Atlas Tamazight 타마지트 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
+| `ast` | Asturian 아스투리아 | HELD | YV에 1861년 **1권 단편**뿐 — 템플릿(신약 다권 필요) 못 채움 | 다권/완역 판본 |
+| `oci` | Occitan 오크 | HELD | YV에 1866년 1권 + 잠언만 — 단편 | 다권/완역 판본 |
+| `scn` | Sicilian 시칠리아 | HELD | YV에 3권 단편만 | 다권/완역 판본 |
+| `fur` | Friulian 프리울리 | HELD | YV에 1860년 1권 단편만 | 다권/완역 판본 |
 | `acm` | Mesopotamian Arabic | COVERED-BY-PARENT | MSA(`ar`)로 커버 — 별도 성경 판본 사실상 없음 | — |
 | `acq` | Taʿizzi-Adeni Arabic | COVERED-BY-PARENT | 〃 | — |
 | `aeb` | Tunisian Arabic | COVERED-BY-PARENT | 〃 | — |
@@ -35,16 +39,13 @@
 | `apc` | North Levantine Arabic | COVERED-BY-PARENT | 〃 | — |
 | `ars` | Najdi Arabic | COVERED-BY-PARENT | 〃 | — |
 
-## 추가 진행 대상 (소스 확인됨 — 보류 아님)
-> 소스 probe 결과 fetchable 판본이 있어 **추가 예정**. 각 언어 gate 0에서 full/partial 확정 후 드래프트→검증→배포.
-- **et (Estonian)** — partial(ECV/YV 3257, 신약 27권). full 완역 없음. **현재 진행 중.**
-- **prs (Dari)** — YV #341 (페르시아어 다리, full 가능성 높음).
-- **san (Sanskrit)** — YV #1875(v23) + eBible NT 다수.
-- **ast (Asturian)** YV · **oci (Occitan)** YV(v2) · **scn (Sicilian)** YV · **fur (Friulian)** YV · **ltg (Latgalian)** YV
-  · **dzo (Dzongkha)** YV · **kbp (Kabiyè)** YV — 각각 full/partial gate 0에서 확정.
-- **dik (Dinka)** — YV #242 + eBible dikNT(신약) → 최소 partial.
-- **taq (Tamasheq)** — eBible 신약(단 !redistributable — YV #1144 확인 필요).
-- **ydd (Yiddish)** — eBible 신약 + YV(라틴문자 ydd_latn). 히브리문자 판본 여부 확인 필요.
+## 추가 진행 대상 (gate 0 확정 — 보류 아님)
+- **et (Estonian)** — partial(PKEK/YV 3257, 신약 27권). ✅ **배포 완료.**
+- **prs (Dari)** — **FULL**(TDV/YV 341, 66권). 진행 예정.
+- partial(신약 27권) 확정: **san**(산스크리트 #1875) · **ltg**(라트갈레 #3378) · **dzo**(종카 #3157) ·
+  **kbp**(카비예 #555) · **dik**(딩카 #242) · **taq**(타마셰크 #1144) · **ydd**(이디시 히브리문자 OYBC #3457).
+  → 이 중 dzo·kbp·dik·taq·san 은 **저자원**이라 verify-prose가 GT-FAIL 가능 → 원어민 검수 결과에 따라
+  BLOCKER/MAJOR면 위 표로 내려 보류한다(품질 게이트가 최종 결정).
 
 > probe는 **YouVersion·eBible(우리가 fetch 가능한 소스)** 기준. HELD 언어도 다른 곳엔 성경이 있을 수 있으나,
 > verbatim으로 가져올 수 없으면 우리 규칙상 추가 불가다.
