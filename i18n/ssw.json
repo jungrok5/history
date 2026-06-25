@@ -1,0 +1,420 @@
+{
+ "menuName": "siSwati",
+ "htmlLang": "ssw",
+ "dir": "ltr",
+ "brand": "IBhayibheli ngekubuka kanye",
+ "docTitle": "IBhayibheli ngekubuka kanye · Kusukela ekudalweni kuya ebandleni",
+ "share": {
+  "title": "IBhayibheli ngekubuka kanye",
+  "text": "Ngekubuka kanye, tfola indzaba lenkhulu yeBhayibheli — nekutsi kungani Jesu eta."
+ },
+ "ui": {
+  "people": "Bantfu",
+  "events": "Tehlakalo letibalulekile",
+  "christLabel": "Ikhomba kuJesu",
+  "loveLabel": "Lutsandvo lolungapheli",
+  "mythWrong": "Umbono lophambene",
+  "mythRight": "Liciniso",
+  "more": "Funda kabanti",
+  "version": "(SWT)"
+ },
+ "labels": {
+  "start": "Kucala",
+  "thread": "Indzaba",
+  "gospel": "LiVangeli",
+  "about": "Mayelana"
+ },
+ "s": {
+  "ui.share": "↗ Yabelana",
+  "ui.toast": "Lilinki likhutjhuliwe 📋",
+  "ui.footer": "IBhayibheli ngekubuka kanye · TiCaphuno teBhayibheli tivela ku-SWT",
+  "hero.kicker": "KUSUKELA EKUDALWENI KUYA EBANDLENI",
+  "hero.title": "IBhayibheli,<br><span class=\"em\">ngekubuka kanye</span>",
+  "hero.sub": "Ngekubuka kanye, tfola indzaba lenkhulu yeBhayibheli — nekutsi kungani Jesu eta.",
+  "hero.cue": "Yehlela phansi<span>↓</span>",
+  "thread.eyebrow": "MUSHO MUNYE LOHLanganisa KONKHE",
+  "thread.h2": "Ekugcineni, iBhayibheli yindzaba yinye",
+  "thread.flow": "<b>Setsembiso</b><span class=\"arw\">→</span><b>Kulindza</b><span class=\"arw\">→</span><b>Kugcwaliseka</b>",
+  "thread.note": "Nkulunkulu <b>uyetsembisa</b> (sivumelwane), bantfu <b>balindza</b> sikhatsi lesidze, ekugcineni konkhe <b>kuyagcwaliseka</b> kuphelele kuJesu. Landzela letigcamu letili-13 letilandzelako ngaleyo ndlela — tsintsa <b>“Funda kabanti”</b> kuleyo naleyo khadi utfole indzaba lejulile.",
+  "gospel.eyebrow": "LOKO LENDZABA IKUSHO “KIMI”",
+  "gospel.h2": "Inhlitiyo yangempela yeBhayibheli",
+  "gospel.lead": "IBhayibheli <b>akusiyo incwadzi yekufundzisa “kuba ngumuntfu lomuhle.”</b>",
+  "gospel.sublead": "Yindzaba yekutsi Nkulunkulu, <b>ngemusa kuphela</b>, wasindzisa kanjani toni letingeke titisindzise. Esikhungeni sayo kume Jesu Khristu.",
+  "gospel.mirror": "<h3>Umjikelezo lobutewuphela waka-Israyeli empeleni usitfombe sami</h3><div class=\"cycle\"><b>Kukhonta tithico</b><span class=\"a\">→</span><b>Kuhlupheka</b><span class=\"a\">→</span><b>Kukhala</b><span class=\"a\">→</span><b>Nkulunkulu uyasindzisa</b><span class=\"a\">→</span><b>Kukhonta tithico futsi…</b></div><p>Kusukela kuTikhulu kuya ekutfunjweni, ema-Israyeli ayawuphindza lomjikelezo angapheli. IBhayibheli ayikubhalanga kuze sigcona, “Babebabi kangakanani.”</p><p>Sibukiso. Liphuzu akusilo “ema-Israyeli enta loko” kodvwa <b>“nami ngenta loko”</b> (1 kubaseKorinthe 10:11).</p><p>Sithico akusiwo nje sitfombe lesibatjuliwe. <b>Yiko konkhe lesikutsandzako nome lesikettsembele kuko kunaNkulunkulu</b> — imali, kuphumelela, kwemukeleka, bantfu, ngisho nami matfupha. Nekusebentisa Nkulunkulu <b>njengelitfusi lekutfola loko lengikufunako</b> nako kukukhonta tithico.</p><p class=\"punch\">Ekugcineni, sithico lesijulile kakhulu “ngumine, lengihleti esihlalweni sebukhosi saNkulunkulu.”</p>",
+  "gospel.coreIntro": "Pho, Nkulunkulu umsindzisa kanjani lesoni? Nansi inhlitiyo yelivangeli lelishunyayelwa yiBhayibheli.",
+  "gospel.crux": "<p class=\"crux-lead\">Yonkhe iBhayibheli ikhomba endzaweni yinye.</p><p>Bantfu bebangeke bawephule umjikelezo wesono ngebanakwabo, futsi bekute namunye lolungile. Ngako lomunye bekufanele <b>akhokhe inkhokhelo esikhundleni sabo</b>.</p><p>Jesu akazange ete nje kutewufundzisa lokuhle. Njengobe kute lenye indlela yekungisindzisa, <b>bekungekho lenye indlela ngaphandle kwekutsi ete.</b></p><p class=\"crux-punch\">Lobekufanele alengiswe kuleso siphambano <b>bekungimi</b>.<br>Jesu watfwala <b>sono sami</b> wabetselwa lapho esikhundleni sami.</p><div class=\"crux-verse\">“Kodvwa yagwazwa ngenca yetiphambuko tetfu,yafihlitwa ngenca yekona kwetfu … ngemanceba emivimbo yayo siyaphiliswa tsine.” — Isaya 53:5</div>",
+  "faq.h": "Usacabangisisa ngalokutsite?",
+  "faq.q1": "<span class=\"arr\">▸</span> Pho umbulali kufanele nje akholwe abe sewuya ezulwini, kantsi umuntfu lobephila kahle impilo yakhe yonkhe kodvwa angakholwa uya esihogweni?",
+  "faq.a1": "<p>Ngumbuto lofanele. Kodvwa kunekungaciniseki lokubili lokufihlakele kuwo.</p><p><b>① IBhayibheli ayibahlukanisi bantfu kutsi “labahle nalababi.”</b> Sikali asisilo “ungcono kunalomunye” kodvwa “bungcwele lobuphelele baNkulunkulu.” Embikwakhe, kute lolungile ngalokwanele (KubaseRoma 3:23). Ngako loku akusiyo “muntfu lomuhle nembulali,” kodvwa kufanana nebantfu lababili labanesifo lesifananako lesibulalako — lomunye watsatsa umutsi, lomunye uyala atsi, “Ngiphile kunaloyo.”</p><p><b>② Yintfo yinye nje lehlukanisa lizulu nesihogo.</b> Akusiwo emaphuzu ekutiphatsa, kodvwa <b>kutsi ingabe ulemukele yini Jesu Khristu njengeNkhosi nekutsi inkinga yakho yesono icatjululwe.</b> Lowo sono sakhe lesicatjululwe ngengati yaKhristu uya ezulwini; lowo longakaze amemukele, losono sakhe lusasele, akayi. Kute kwenta lokuhle lokunganasindziso senkinga yesono.</p><p>Ngako lizulu nesihogo akusiwo “umvuzo wekutiphatsa kahle” kodvwa kungukubudlelwane <b>naKhristu</b>. Futsi “kukholwa” akusiyo nje imvumelwano yengcondvo, kodvwa kushintja kwalophetse imphilo yakho — lowo lomemukela ngempela akati kuphakama kodvwa uyaphendvuka kakhulu. Empeleni, kutilungisisa (“ngingumuntfu lomuhle”) sithico lesilukhuni kunato tonkhe kweliphula, lesenta sicabange kutsi asimdzingi Khristu (Lukha 18:9-14).</p><p>IBhayibheli ikusho ngalokucacile: <b>“Lokholwa kuyo akalahlwa ngelicala, kodvwa longakholwa vele sewulahliwe”</b> (Johane 3:18). Kwehlulela akusiko “kuhlola imisebenti yakho nawufa,” kodvwa sekunqunyiwe ngalokutsi <b>ingabe wamemukela yini Khristu</b>.</p><p class=\"faq-v\">KubaseRoma 3:23 · Johane 3:18 · Kubase-Efesu 2:8-9 · Lukha 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Akusanele yini nje kuphila impilo lenhle ngaphandle kwekukholwa kuJesu?",
+  "faq.a2": "<p>Ngumcondvo lochutjwa kakhulu, kodvwa awucondzisisi kutsi yini inkinga yangempela. Nasi sitfombe.</p><p><b>Ake utibone usemikhunjini yebaphangi.</b> Akukhatsaliseki kutsi ulihlanta kangakanani libala, ulungile kangakanani kubasebenti, imphilo yakho ilungile kangakanani — usengumphangi, ngobe utfwalwa nemkhumbi uya lapho uya khona (etandlalweni yekwehlulelwa). Inkinga akusiwo “emaphuzu ekutiphatsa” kodvwa <b>“ngumuphi umkhumbi lokuwo” (bunjalo bakho)</b>.</p><p>Ngako livangeli alitsi “tama kakhulu kuba muhle”; litsi <b>“shintja umkhumbi.”</b> Yehla emkhunjini wesono uwele kuJesu — kubunjalo lobusha <b>bekuba ngumntfwana waNkulunkulu</b>. Loku akusiko kukhuphula emaphuzu akho ngemzamo, kodvwa kwetsembela kuLowo lowelula sandla sakhe wewele emkhunjini wakhe.</p><p>Empeleni iBhayibheli isichaza sindziso kanye njengaloku kufuduka — <b>“Wasikhulula emandleni ebumnyama, wasibeka embusweni weNdvodzana yakhe letsandzekako”</b> (KubaseKholose 1:13).</p><p>Ungacondzisisi kabi: <b>loku akusho kutsi kuphila kahle akunamsebenti.</b> Kuhle akusiso “simo” sesindziso kodvwa <b>sitselo</b> saso. Lowo loshintje umkhumbi manje uphila kahle hhayi ngekwesaba, kodvwa <b>ngelutsandvo lwemntfwana</b>.</p><p class=\"faq-v\">KubaseKholose 1:13 · Johane 1:12 · Johane 3:3 · Kubase-Efesu 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Nangabe loweceyo enelisekile, atsi “Nkulunkulu sewungitsetselele,” kantsi loweceleke usahlupheka — angitsi lomusa ushibhile kakhulu?",
+  "faq.a3": "<p>Umbuto lofanele, futsi buhlungu bungebangempela. Kodvwa kusho njalo akusiko “kutsetselela kweBhayibheli” — <b>kusonakaliswa</b> kwako.</p><p><b>① Kutsetselela kwaNkulunkulu akushibhi nencane.</b> Sono asisulwa shangatsi asikenteki; Nkulunkulu matfupha wakhokha inkhokhelo yaso ngemphilo yeNdvodzana yakhe. Siphambano akusibo bufakazi bekutsi sono sitsatfwa kalula, kodvwa kutsi sono sisindza kangaka — kutsetselela lokudvulako kakhulu emhlabeni.</p><p><b>② Kuphendvuka kwangempela kutsela sitselo.</b> Nangabe loweceyo aphakeme embikweloweceleke — “Nkulunkulu ungitsetselele, ngako nginekuthula” — lokho akusiko kuphendvuka kodvwa kulingisa kwako (Matewu 3:8). Futsi kutsetselela emkhatsini wemuntfu naNkulunkulu akusuli inceba yaloweceleke noma akumphocheleli kutsi atsetselele.</p><p><b>③ Sono asikaze sikhululwe nje “kunjalo.”</b> Sono ngasinye sikhokhelwa endzaweni yinye yetimbili — <b>kungaba kutsi Khristu usitfwala esiphambanweni</b> (kulabetsembela kuye akusekho kulahlwa, KubaseRoma 8:1), <b>kumbe lowo lomlahla ekugcineni asitfwale yena matfupha.</b> Ngako kute “kutsetselelwa lokushibhile.” Loweceyo nguye losanesibopho semtsetfo kulomhlaba (KubaseRoma 13:1-4).</p><p><b>④ Tinyembeti taloweceleke atikaze tibe ncane kuNkulunkulu.</b> Nkulunkulu uyakhala nalabakhalako, ukhumbula tonkhe tinyembeti, futsi uyawutesula matfupha ekugcineni (Sembulo 21:4). Ngako loweceleke akudzingi atfwale buntima bekuphindzisela yedvwa, kodvwa angakwetsembela kuNkulunkulu lolungile (KubaseRoma 12:19 — “Kuphindzisela ngekwami,mine ngiyawubuyisela,kusho iNkhosi”).</p><p class=\"faq-v\">Matewu 3:8 · KubaseRoma 8:1 · KubaseRoma 13:1-4 · Sembulo 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Ingabe iBhayibheli yindzaba yeliciniso ngempela? Ibonakala shangatsi yinganekwane yakadzeni nome inoveli.",
+  "faq.a4": "<p>Ngumbuto lofanele — futsi yindzawo lenhle yekucala. Kungabata akusiyo lephikisako lekukholwa kodvwa sifiso sekuhlola tintfo ngekwetsembeka. IBhayibheli akusiyo nganekwane lengacondzakali “yekukholwa nawufuna,” kodvwa kubhalwa lokwakhiwe etukwetindzawo, emalanga nebantfu bangempela. Ngiletincenyana letimbalwa nje.</p><p><b>① Akusiyo incwadzi yinye kodvwa “ilabhulali” — kantsi igeleta endzabeni yinye.</b> IBhayibheli singcumo <b>setincwadzi letingema-66</b> letabhalwa esikhatsini lesicishe sibe <b>iminyaka leyi-1 500 babhali labacishe babe ngema-40</b> — emakhosi, belusi, batsephuli, umtseli wetsela, dokotela, bantfu betigaba netikhatsi letehlukene, lababhala ngakwehlukana bangatani, ngetilwimi letintsatfu (siHebheru, si-Aramu, siGriki). Kantsi konkhe kuhlangana, ngaphandle kweludvungo, endzabeni yinye: <b>sindziso ngaKhristu</b>. Lokwo kuvumelana lokulukhuni kuchaza ngenhlanhla nome ngekuhlela kwebantfu.</p><p><b>② Iyachubeka iciniseka ivela emhlabatsini (i-archaeology).</b> Tintfo letinyenti lebetancanyelwa shangatsi takhandziwe, “letatfolwa kuphela eBhayibhelini,” tachubeka ticiniseka ngekumbiwa. <b>Lusendvo lwakaDavide</b> ngelitje lelibhalwe kutsi “indlu yakaDavide” (i-Tel Dan Stele); <b>Phontiyu Philatu</b>, umbusi lowabulala Jesu, ngembhalo lonelibito lakhe; umnyenya wemanti weNkhosi Hezekiya (2 Emakhosi 20:20), ngalomnyenya kanye nembhalo wawo. Ngisho <b>nemaHithi</b>, lekwake kwatsiwa “bantfu labacatjangwako,” avela njengembuso lomkhulu etindzaleni.</p><p><b>③ Ngumbhalo wakadzeni logcineke kahle kunayo yonkhe (imibhalo yetandla).</b> Ngenani lemibhalo yetandla lesindzayo, kuvumelana kwayo, nesikhatsi lesisemkhatsini wekubhalwa nekukotjwa, iBhayibheli <b>ayinakuncintisana nayo emkhatsini wemibhalo yakadzeni</b>. Umculu wa-Isaya wangaphambi kwebuKhristu, emkhatsini <b>weMiculu yeLwandle Lelifile</b> (lefchwa nga-1947), wawuvumelana cishe ngeluhlamvu nomtsetfo lomisiwe weminyaka lecishe yi-1 000 ngemuva: bufakazi bekutsi iBhayibheli yagcineka kahle ngetikhatsi.</p><p><b>④ Lokwabhalwa ngembili kwenteka njengoba kunjalo (siphrofetho).</b> ITestamente leNdzala, lebhalwa emakhulwini eminyaka ngembi kwaJesu, ikhomba ngalokucondzile kutalwa kwakhe eBetlehema (Mikha 5:2), inceku lehluphekako (Isaya 53:5), kanye netimo tesiphambano (Tihlabelelo 22). Kucondze kakhulu kutsi singakubeka njengenhlanhla.</p><p><b>⑤ Bembali bangaphandle kweBhayibheli nabo bakubhala.</b> Sazi-mlandvo waseRoma <b>Tacitus</b> nesazi-mlandvo wemaJuda <b>Josephus</b> — bobabili bebangesibo bebuKhristu — bakhuluma ngaJesu, kubulawa kwakhe, kanye nelibandla lekucala. Ngetulu kwako konkhe, bafundzi lebebahlakatekile ngekwesaba <b>babeka imphilo yabo engotini</b> bafakaza ngekuvuka kwabafileko — kute lofela loko lakwatiko kutsi ngemanga.</p><p>Kepha kute liciniso, letisekelo tikhombisa kutsi kukholwa eBhayibhelini <b>akusiko kungahlakaniphi kodvwa kuhlakanipha</b>; akusibo “bufakazi” lobuphocelela njengelibalo letibalo. Ngako sicinisekiso semKhristu asiveli nje ebufakazini, kodvwa <b>ekucinisekisweni lokuniketwa yiMoya Longcwele enhlitiyweni ngesikhatsi umuntfu afundza liVi</b>. IBhayibheli itsi — <b>“Ngako-ke kukholwa kuvela ekuveni, kuva kuvela ngekutsi kushunyayelwe ngaKhristu”</b> (KubaseRoma 10:17). Ngako noma ngabe ibonakala kangakanani njengelinganekwane, <b>kuyifundza wena matfupha</b> kuyindlela yekucala. Bufakazi buvula umnyango, sicinisekiso sikhula ngekhatsi kwalofundzako.</p><p class=\"faq-v\">2 Emakhosi 20:20 · Isaya 53:5 · Mikha 5:2 · KubaseRoma 10:17</p>",
+  "respond.h3": "Pho — kuthiwani ngami?",
+  "respond.sub": "Lolutsandvo akusiwo lwati kodvwa <b>simemo</b>. Nangabe lolutsandvo lolwabetselwa esikhundleni sakho lutsindze inhlitiyo yakho, thandaza loku kancane, umugca ngemugca.",
+  "respond.prayer": "<p>Nkulunkulu,</p><p>ngiyavuma kutsi ngiyisoni lesingeke sitisindzise.</p><p>Ngiyakholwa kutsi Jesu wafela mine esiphambanweni futsi wavuka.</p><p>Ngicela ungitsetselele tono tami tonkhe, kusukela manje ube yiNkhosi yemphilo yami.</p><p>Ngemukele njengemntfwana wakho, ungiphilise imphilo lensha.</p><p class=\"amen\">Egameni laJesu ngiyathandaza. Amen.</p>",
+  "respond.after": "Nangabe uthandaze loku ngenhlitiyo yakho yonkhe, iBhayibheli itsi <b>sewube ngumntfwana waNkulunkulu</b>. Awusawedvwa — tfola libandla leliseduze uhambe nendlela yekukholwa nalabanye.",
+  "respond.read": "Fundza iBhayibheli wena matfupha — cala ngaJohane",
+  "respond.verse": "“Kepha bonkhe labamemukela, ngekukholwa egameni lakhe, wabapha emandla ekutsi babe bantfwana baNkulunkulu.” — Johane 1:12 · KubaseRoma 10:9-10",
+  "closing.main": "Nkulunkulu munye,<br>ngendzaba yinye,<br>usifuna ngeluhlobo<br><em>lolutsandvo</em> lolungapheli.",
+  "closing.verse": "“Nekufa, nekuphila … nome ngusiphi sidalwa, kungeke kube nemandla ekusehlukanisa nelutsandvo lwaNkulunkulu lolukuKhristu Jesu, iNkhosi yetfu.” — KubaseRoma 8:38-39",
+  "closing.small": "Etukwalendzaba, uMtsetfo, tinkondlo, baphrofethi, netincwadzi tengeta “inyama.”<br>Kusukela manje, nome ngabe uvula yiphi incwadzi, utawubona “kutsi ukuphi endzabeni.”",
+  "closing.share": "↗ Yabelana ngalendzaba",
+  "about.line": "Lokucuketfwe kususelwa embonweni <b>wemlandvo wensindziso, we-evangeli newe-Reformed</b> lowabiwa linyenti lelibandla lemaPhrothestani aseKorea.",
+  "about.contact": "Imibuto · imibono — <a id=\"contact\" class=\"mail\">Sitfumelele i-imeyili</a>"
+ },
+ "epochs": [
+  {
+   "tag": "TESTAMENTE LENDZALA · KUCALA",
+   "title": "Kudala",
+   "date": "Ekucaleni",
+   "one": "Nkulunkulu wadala umhlaba “lobekumuhle kakhulu.”",
+   "people": "Nkulunkulu; Adamu na-Eva",
+   "events": "Emalanga lasitfupha ekudala, umuntfu wentiwa ngemfanekiso waNkulunkulu, liSabatha lekuphumula",
+   "q": "Ekucaleni Nkulunkulu wadala lizulu nemhlaba.",
+   "cite": "Genesisi 1:1",
+   "christ": "Umhlaba wadalwa ngeliVi. LiVangeli laJohane lutimemetela kutsi leliVi nguJesu matfupha (Johane 1:1-3).",
+   "detail": "<p>IBhayibheli ayicali ngenkulumo-mpikiswano yefilosofi kodvwa ngesitatimende: <b>“Ekucaleni, Nkulunkulu…”</b> Umhlaba akusiyo inhlanhla kodvwa ngumsebenti waNkulunkulu lonebuntfu.</p><ul><li><b>Umfanekiso waNkulunkulu</b> · etidalweni tonkhe, ngumuntfu kuphela lowentiwe wafanana naNkulunkulu — kutsi amati nekutsi anakekele umhlaba.</li><li><b>Kuphumula</b> · kuphumula kwelilanga lesikhombisa kukhombisa konkhe kuphelele kunekuthula (shalom): “bekukuhle.”</li><li><b>I-Edeni</b> · umhlaba ngembi kwekwephuka, lapho Nkulunkulu nebantfu bahamba ndzawonye.</li></ul>",
+   "next": "Kodvwa lobu buphelele sebutabhidlika…"
+  },
+  {
+   "tag": "TESTAMENTE LENDZALA · INKINGA IYACALA",
+   "title": "Kuwa",
+   "date": "Ekucaleni",
+   "one": "Sono sangena, sintjingwa kwabudlelwane bemuntfu naNkulunkulu.",
+   "people": "Adamu na-Eva; inyoka (Sathane)",
+   "events": "Kudla titselo letencanyelwe, kukhishwa e-Edeni, kufika kwekufa nekudzinwa",
+   "q": "Ngitawubeka butsaemkhatsini wakho nemfati … Yona iyawufihlita inhloko yakho.",
+   "cite": "Genesisi 3:15",
+   "christ": "Setsembiso sekucala selivangeli, lesaniketwa khona kanye ngemuva kwekuwa: “intalo yemfati” iyawufihlita inhloko yenyoka — futsi loko nguJesu (Genesisi 3:15; KubaseRoma 16:20; KubaseGalathiya 4:4).",
+   "detail": "<p>Ngekungalaleli kwekufuna “kuba njengaNkulunkulu,” sono sangena emhlabeni. Umphumela akusiko nje kwephula umtsetfo kodvwa <b>kwephuka kwebudlelwane</b>.</p><ul><li><b>Budlelwane lobephukile</b> · naNkulunkulu (kucasha), nalabanye (kubeka licala), nemvelo (emadvolo nekudzinwa).</li><li><b>Kufa</b> · secwayiso lesitsi “uyawufa nakanjani” siba liciniso.</li><li><b>Genesisi 3:15</b> · kepha emkhatsini wekwehlulela, setsembiso sensindziso sita kucala. Tati tikubita ngekutsi <b>“protoevangelium” (livangeli lekucala)</b>.</li></ul>",
+   "next": "Manje Nkulunkulu ubita umuntfu munye kucala kusindzisa…"
+  },
+  {
+   "tag": "TESTAMENTE LENDZALA · SETSEMBISO",
+   "title": "Bobabemkhulu",
+   "date": "cishe nga-2000 BC",
+   "one": "Nkulunkulu wetsembisa Abrahama: “Uyawuba ngumgudvu wesibusiso.”",
+   "people": "Abrahama · Isaka · Jakobe · Josefa",
+   "events": "Sivumelwane na-Abrahama, kubotjwa kwa-Isaka, emadvodzana lalishumi nakubili akaJakobe, Josefa uphakanyiswa eGibhithe",
+   "q": "Ngitakwenta ube sive lesikhulu … Tive tonkhe temhlaba tiyawubusiswa ngawe.",
+   "cite": "Genesisi 12:2-3",
+   "christ": "Setsembiso sekutsi “tive tonkhe tiyawubusiswa” sigcwaliseka kuJesu, intalo ya-Abrahama (KubaseGalathiya 3:16).",
+   "detail": "<p>Nkulunkulu ucala kucatfulula inkinga yebantfu bonkhe ngekubita umuntfu munye, <b>Abrahama</b>. Inhlitiyo yako <b>sivumelwane (setsembiso)</b> — sive lesikhulu, live, kanye “nesibusiso setive tonkhe.”</p><ul><li><b>Kukholwa</b> · Abrahama wakholwa setsembiso lesingabonakali, kwabalelwa kuye njengekulunga (Genesisi 15:6).</li><li><b>Isaka naJakobe</b> · setsembiso sidlulela; Jakobe (Israyeli) utala titfwala letilishumi nakubili.</li><li><b>Josefa</b> · watsengiswa bomnakabo kepha waphakanyiswa — “Nkulunkulu loko wakugucula kwaba ngulokuhle” (Genesisi 50:20).</li></ul>",
+   "next": "Balandzela Josefa, umndeni wehlela eGibhithe — bagcine sebatigcili…"
+  },
+  {
+   "tag": "TESTAMENTE LENDZALA · KUHLENGWA",
+   "title": "Kuphuma nehlane",
+   "date": "cishe nga-1446 BC",
+   "one": "Nkulunkulu wasindzisa sive lebesigcilatiwe wasenta saba ngesakhe.",
+   "people": "Mosi, Aroni, Faro",
+   "events": "Tinhlupho letilishumi, iPhasika, kuwela Lwandle Lolubovu, iMitsetfo Lelishumi eSinayi, lithabanikeli, iminyaka lengema-40 ehlane",
+   "q": "Ngitanenta nibe sive sami, mine ngibe nguNkulunkulu wenu.",
+   "cite": "Eksodusi 6:7",
+   "christ": "IPhasika — lapho ingati yelizinyane yaphendvula kufa — ikhomba kuJesu, “lizinyane letfu lePhasika,” lelabetselwa tsine (1 kubaseKorinthe 5:7).",
+   "detail": "<p>Insindziso lenkhulu yeTestamente Lendzala. Ema-Israyeli labegcilatiwe akhululwa ngemandla aNkulunkulu enteke <b>sive</b> sakhe.</p><ul><li><b>IPhasika</b> · indlu lemakwe ngengati yelizinyane emnyango yendlulwa kufa — siboniso saseka tonkhe imihlatjelo leyalandzela.</li><li><b>Lwandle Lolubovu</b> · sindziso lapho indlela iphela; “kuwela” kuba luphawu lwekucala kabusha.</li><li><b>Sivumelwane saseSinayi</b> · ngeMitsetfo bafundza kuphila njengesive saNkulunkulu.</li><li><b>Lithabanikeli</b> · indlu lengcwele lehambako lapho Nkulunkulu ahlala khona emkhatsini wesive sakhe — kunambatsa kwa-“Emanuweli.”</li><li><b>Iminyaka lengema-40</b> · kungalaleli kugcina situkulwane sizulazula ehlane, kepha Nkulunkulu uba duze ngemana nensika yelifu nemlilo.</li></ul>",
+   "next": "Bame emngceleni welive lesetsembiso, balungisela kungena…"
+  },
+  {
+   "tag": "TESTAMENTE LENDZALA · KUHLALA",
+   "title": "Kunqoba neTikhulu",
+   "date": "cishe 1400–1050 BC",
+   "one": "Batfola live, kodvwa ngaphandle kwenkhosi ngulowo nalowo abenta lakutsandzako.",
+   "people": "Joshuwa; tikhulu letifana naGideoni naSamsoni; Ruthe",
+   "events": "Kuwa kweJeriko, kuhlala eKhanani, umjikelezo lophindzaphindzako wesono–kwehlulela–kusindzisa",
+   "q": "Ngaleto tikhatsi sive sema-Israyeli sasingenayo inkhosi, ngulowo nalowo abetentela loko lakubona kukuhle emehlweni akhe.",
+   "cite": "Tikhulu 21:25",
+   "christ": "Elusendvweni lwakaRuthe kuvela David, naselusendvweni lwakaDavide kuvela Jesu (Matewu 1). Ngisho nasendzungunyaneni, sihlahla semndeni weMesiya siyachubeka.",
+   "detail": "<p>Ngaphansi kwaJoshuwa bangena eliveni lesetsembiso, kodvwa ngemuva kwekuhlala basheshe bakhohlwe Nkulunkulu. Tikhulu kuphindzaphindzwa kwendlela leyodvwa.</p><ul><li><b>Umjikelezo lowehlako</b> · sono → kuncindzetelwa → kukhala → sikhulu siyasindzisa → sono futsi. Kuya kuba kubi.</li><li><b>Tikhulu</b> · Gideoni, Samsoni, Debora — bakhululi besikhashana, balcibijolo kodvwa banetiphene letikhulu.</li><li><b>Ruthe</b> · indzaba lekhanyako yekutsembeka esikhatsini lesimnyama; umfati wesihambi ungena elusendvweni lwakaDavide (nelwaJesu).</li></ul>",
+   "next": "Sive siyakhala, “Sinike nkhosi nine!”…"
+  },
+  {
+   "tag": "TESTAMENTE LENDZALA · SIKHATSI SEGOLIDE",
+   "title": "Umbuso Lohlangene",
+   "date": "cishe 1050–930 BC",
+   "one": "Nkulunkulu wetsembisa David: “Sihlalo sakho siyawuma phakadze.”",
+   "people": "Sawula · David · Solomoni",
+   "events": "Inkhosi yekucala Sawula, David naGoliyathi, sivumelwane naDavide, Solomoni wakha lithempeli",
+   "q": "Indlu yakho nembuso wakho kuyakuma embikwami kuze kube phakadze. Sihlalo sakho sebukhosi siyakuhlala sisimile phakadze naphakadze.",
+   "cite": "2 Samuweli 7:16",
+   "christ": "“Sihlalo saphakadze” sigcwaliseka kuJesu, indvodzana yaDavide — yingako abitwa ngekutsi “Indvodzana yaDavide” (Lukha 1:32-33; Matewu 1:1).",
+   "detail": "<p>Sicongo sema-Israyeli, lobesibuswa ngemakhosi lamatsatfu.</p><ul><li><b>Sawula</b> · inkhosi sive lesayicela; kucala lokuhle lokwabhidlitwa kungalaleli.</li><li><b>David</b> · “umuntfu lohambisana nenhlitiyo yaNkulunkulu.” Wehlula Goliyathi wenta iJerusalema inhlokodolobha. Wenta sono lesikhulu (Bhathisheba) kepha uyaphendvuka ngenhlitiyo (Tihlabelelo 51).</li><li><b>Sivumelwane naDavide (2 Samuweli 7)</b> · Nkulunkulu wetsembisa kumisa lusendvo lwakaDavide phakadze — imphandze lebalulekile yelitsemba leMesiya.</li><li><b>Solomoni</b> · esicongweni sekuhlakanipha nebunjinga wakha <b>lithempeli</b>, kodvwa ekugcineni kwemphilo yakhe uphendvukela etithicweni.</li></ul>",
+   "next": "Ngemuva kwaSolomoni, umbuso uhlukana kabili…"
+  },
+  {
+   "tag": "TESTAMENTE LENDZALA · KWEHLA",
+   "title": "Umbuso Lowehlukene",
+   "date": "930–586 BC",
+   "one": "Wehlukana waba seningizimu (Juda) nenyakatfo (Israyeli), sive sehlela ekubhujisweni.",
+   "people": "Emakhosi etwesibili imibuso; baphrofethi labafana na-Elija, Isaya, Jeremiya",
+   "events": "Umbuso uhlukana, kukhonta tithico kwendlula, baphrofethi bayecwayisa",
+   "q": "Ngako ema-Israyeli solomane yesuka ngalelo langa alwisana nendlu yakaDavide kuze kube ngulamuhla.",
+   "cite": "1 Emakhosi 12:19",
+   "christ": "Kulesikhatsi baphrofethi baphrofetha ngeMesiya lotako ngalokucaca kakhulu (Isaya 9:6; Isaya 53).",
+   "detail": "<p>Etikhatsini tendvodzana yaSolomoni umbuso uyahlukana: <b>umbuso wasenyakatfo wa-Israyeli</b> (titfwala letilishumi, inhlokodolobha iSamariya) <b>nembuso waseningizimu waJuda</b> (titfwala letimbili, inhlokodolobha iJerusalema).</p><ul><li><b>Israyeli (inyakatfo)</b> · onkhe emakhosi ako akhonta tithico; uyawa ku-Asiriya nga-722 BC.</li><li><b>Juda (iningizimu)</b> · lusendvo lwakaDavide luyachubeka, ngemakhosi lambalwa lamahle lafana naHezekiya naJosaya, kodvwa lokujikelele uyehla.</li><li><b>Baphrofethi</b> · Elija, Amose, Isaya, Jeremiya bakhala batsi “buyani!” Siphrofetho seMesiya sifika esicongweni saso lapha (“inceku lehluphekako” ya-Isaya 53).</li></ul>",
+   "next": "Ekugcineni kwehlulela lebekucwayisiwe ngako kuyefika — batfunjelwa ekutfunjweni…"
+  },
+  {
+   "tag": "TESTAMENTE LENDZALA · KWEHLULELA",
+   "title": "Kutfunjwa",
+   "date": "722 / 586 BC",
+   "one": "Umbuso uyabhidlika, bantfu badvonselwa emaveni angaphandle.",
+   "people": "Danyela, Hezekeli, Nebukhadnezari",
+   "events": "Israyeli iwa ku-Asiriya (722), Juda iwa eBhabhulona futsi lithempeli liyabhidlitwa (586)",
+   "q": "Sahlala ngasemifuneli yaseBhabhulona,sakhala khona nasikhumbula iSiyoni.",
+   "cite": "Tihlabelelo 137:1",
+   "christ": "Ekujuleni kwekuphelelwa litsemba Jeremiya wetsembisa “sivumelwane lesisha” (Jeremiya 31:31) — sona kanye lesivumelwane Jesu lasimisa eSidlweni sekugcina.",
+   "detail": "<p>Tecwayiso tiyagcwaliseka. Lithempeli liyasha bantfu badvonselwa eBhabhulona — balahlekelwa live, inkhosi, nelithempeli: liphuzu lelisetulu kunato tonkhe lelisansansi.</p><ul><li><b>Kuwa kabili</b> · Israyeli (Asiriya, 722 BC) naJuda (Bhabhulona, 586 BC).</li><li><b>Danyela</b> · sibonelo sekukholwa ngisho enkantolo yebahedeni (umgodzi wemabhubesi); ubona imibono “yembuso waphakadze” lotako.</li><li><b>Inhlansi yelitsemba</b> · umbono wematsambo lomile labuyela ekuphileni (Hezekeli 37) “nesivumelwane lesisha” saJeremiya sikhomba likusasa ebumnyameni.</li></ul>",
+   "next": "Ngemuva kweminyaka lengema-70, Nkulunkulu uvula indlela — babuyela ekhaya…"
+  },
+  {
+   "tag": "TESTAMENTE LENDZALA · KWENTIWA KABUSHA",
+   "title": "Kubuya",
+   "date": "538–430 BC",
+   "one": "Bayabuya bakhe kabusha lithempeli netibondza.",
+   "people": "Ezra, Nehemiya, Esta, Zerubhabheli",
+   "events": "Kubuya ngesimemetelo saKhoresi, kwakha kabusha lithempeli, kulungisa tibondza taseJerusalema, kubuyiselwa kweliVi",
+   "q": "Ningakhatsateki, ngobe injabulo yenu levela kuSimakadze ingemandla enu.",
+   "cite": "Nehemiya 8:10",
+   "christ": "Malakhi, incwadzi yekugcina yeTestamente Lendzala, igcina ngekuphrofetha sitfunywa lesilungisa indlela yeMesiya: “ngiyawutfumela sitfunywa sami” (Malakhi 3:1).",
+   "detail": "<p>Ngesimemetelo senkhosi yasePheresiya Khoresi (538 BC) kubuya kuyacala. Ngemagagasi lamatsatfu bayabuya bakhe kabusha lokwabhidlika.</p><ul><li><b>Zerubhabheli</b> · wakha kabusha lithempeli (laphela nga-516 BC).</li><li><b>Ezra</b> · ufundzisa liVi futsi avuselela kukholwa.</li><li><b>Nehemiya</b> · wakha kabusha tibondza taseJerusalema ngemalanga langema-52.</li><li><b>Esta</b> · wasindzisa emaJuda asePheresiya ekubhujisweni — “mhlawumbe wentelwe sikhatsi lesinjengalesi.”</li><li><b>Kulangatelela lokuchubekako</b> · lithempeli limile, kodvwa kute inkhosi lefana naDavide. Sive silindza iMesiya.</li></ul>",
+   "next": "Bese-ke… shangatsi lizulu litsule, kwedlula iminyaka lengema-400."
+  },
+  {
+   "tag": "EMKHATSINI WAMATESTAMENTE · KULUNGISELELA",
+   "title": "Iminyaka Yekuthula",
+   "date": "cishe 430–4 BC",
+   "one": "Iminyaka lengema-400 ingenalivi lemphrofethi — kepha sigcawu besilungiselelwa ngekuthula.",
+   "people": "Alekzandari Lomkhulu, emaMakhabhi, iRoma",
+   "events": "Pheresiya → Grisi → kutimela kwemaMakhabhi → kubusa kweRoma",
+   "q": "Kodvwa kwatsi sikhatsi sesifike ngalokuphelele Nkulunkulu watfumela iNdvodzana yakhe leyatalwa ngumfati …",
+   "cite": "KubaseGalathiya 4:4",
+   "christ": "Konkhe loku “kulungiselelwa kwesigcawu” bekunguNkulunkulu lasebenta khona kuze Jesu ete kanye “ngesikhatsi lesiphelele.”",
+   "detail": "<p>Kusukela kuMalakhi kuya eTestamenteni Lensha, kwedlula iminyaka lecishe ibe yi-400 ingenambhalo lomusha. Kepha ngemuva kwemlandvo Nkulunkulu bekalungisela indlela yelivangeli.</p><ul><li><b>Imibuso ishintja</b> · Pheresiya → Grisi (Alekzandari, 333 BC) → emaPhutholemi nemaSelukhide → kuvukela kwemaMakhabhi (167 BC) → Roma (63 BC).</li><li><b>SiGriki</b> · kunqoba kwa-Alekzandari kwenta siGriki sibe lulwimi lolwatiwako; iTestamente Lendzala yahunyushelwa esiGrikini (iSeptuagint), kwavula indlela yekutsi livangeli lisakateke ngekushesha.</li><li><b>Imigwaco nekuthula kweRoma</b> · imigwaco leyakhiwe kahle “nekuthula kweRoma” iba tindlela tekushumayela.</li><li><b>Emasinagoge nemacembu</b> · kufundzisa kwesinagoge kuyagxila; emaFarisi nemaSadusi avela; <b>nekulangatelela iMesiya</b> kuyavutfwa.</li></ul>",
+   "next": "Bese kuthula kuyaphuka — ekugcineni, uyeta."
+  },
+  {
+   "tag": "TESTAMENTE LENSHA · KUGCWALISEKA",
+   "title": "Kuta kwaJesu",
+   "date": "cishe 4 BC–AD 30",
+   "one": "IMesiya leyayetsenjiswe yeta, yafa, futsi yavuka.",
+   "people": "Jesu, baphostoli labalishumi nakubili, Johane uMbhabhatisi",
+   "events": "Kuba ngumuntfu, inkonzo yakhe nekufundzisa nemimangaliso, kufa esiphambanweni, kuvuka ngelilanga lesitsatfu",
+   "q": "Livi waba ngumuntfu, wahlala kanye natsi … agcwele umusa neliciniso.",
+   "cite": "Johane 1:14",
+   "christ": "Intalo yemfati (sigcamu 2), sibusiso sa-Abrahama (3), lizinyane lePhasika (4), inkhosi yaphakadze yaDavide (6), nesivumelwane lesisha (8) — konkhe kugcwaliseka kumuntfu munye, Jesu: umPhrofethi wetfu wangempela, umPhristi, neNkhosi.",
+   "detail": "<p>Kuthula kuyaphuka; Loyetsenjisiwe uyefika. EmaVangeli lamane afakaza ngemphilo yaJesu, kufa, nekuvuka kusukela etinhlangotsini letine.</p><ul><li><b>Kuba ngumuntfu</b> · Nkulunkulu waba ngumuntfu (Emanuweli, “Nkulunkulu unatsi”), endzaweni lephansi yaseBetlehema.</li><li><b>Inkonzo</b> · ufundzisa umbuso waNkulunkulu, welapha labagulako, ubita toni. “Lobone mine ubone Babe.”</li><li><b>Siphambano</b> · ukhokha inkhokhelo yesono nekufa lokwalethwa kukuwa (sigcamu 2). Lizinyane langempela lePhasika.</li><li><b>Kuvuka</b> · uvuka ngelilanga lesitsatfu, wephula emandla esono, kufa, naSathane — kakade esiphambanweni “Babusi, nalabanemandla wabemuka tikhali … abehlula ngaso siphambano” (KubaseKholose 2:15).</li></ul><p>Ngako Jesu <b>umPhrofethi wetfu wangempela</b> (ukhombisa indlela leya kuNkulunkulu), <b>umPhristi wetfu wangempela</b> (uhlawulela sono ngemtimba wakhe), <b>neNkhosi yetfu yangempela</b> (wehlula sono, kufa, naSathane abuse phakadze).</p>",
+   "next": "Jesu lovukile utfumela bafundzi bakhe emhlabeni…"
+  },
+  {
+   "tag": "TESTAMENTE LENSHA · KWANDZA",
+   "title": "Kucala kweliBandla",
+   "date": "cishe AD 30–",
+   "one": "Moya uyefika, livangeli lisakateke kuya emkhawulweni wemhlaba.",
+   "people": "Phetro, Pawula, libandla lekucala",
+   "events": "Moya utfululwa ngePhentekoste, libandla liyatalwa, livangeli lisakateka kusukela eJerusalema kuya eRoma ngekushushiswa",
+   "q": "Kodvwa nine nitawugcwaliswa ngemandla, nasefikile kini Moya Longcwele, niyawuba bofakazi bami eJerusalema … kuze kube ngusekugcineni kwemhlaba.",
+   "cite": "Imisebenti yebaPhostoli 1:8",
+   "christ": "Lendzaba isachubeka nalamuhla. IBhayibheli igcina ngekwetsembisa kutsi Jesu uyawubuya kabusha enta konkhe kube kusha (Sembulo 21).",
+   "detail": "<p>Ngemuva kwekwenyukela kwaJesu, Moya lowetsenjisiwe uyefika ngePhentekoste libandla liyatalwa. Livangeli lisakateka ngekushesha lokukhulu.</p><ul><li><b>IPhentekoste</b> · Moya wenta bafundzi labebesaba babe bofakazi labanesibindzi.</li><li><b>Phetro</b> · ushumayela livangeli kumaJuda eJerusalema.</li><li><b>Pawula</b> · kusukela kumshushisi kuya kumphostoli, atjala emabandla emhlabeni wabetive abhala tincwadzi.</li><li><b>Kuya emkhawulweni wemhlaba</b> · Jerusalema → Judiya → Samariya → Roma. Setsembiso sa-Abrahama “setive tonkhe” siba liciniso.</li><li><b>Natsi</b> · indzaba ayipheli; ichubekela ekubuyeni kwaJesu nelizulu lelisha nemhlaba lomusha.</li></ul>",
+   "next": "Kodvwa indzaba ayipheli lapha…"
+  },
+  {
+   "tag": "TESTAMENTE LENSHA · KUPHELELISWA",
+   "title": "Kwentiwa Kabusha",
+   "date": "Lokusetako",
+   "one": "Jesu uyabuya enta konkhe kube kusha.",
+   "people": "Jesu lobuyako; tive tonkhe",
+   "events": "Kubuya kwesibili, kwehlulela kwekugcina, kuphela kwesono·kufa·tinyembeti, lizulu lelisha nemhlaba lomusha",
+   "q": "Uyakwesula tonkhe tinyembeti emehlweni abo, sekuyawubate kufa, nekulila, nekukhala, nebuhlungu …",
+   "cite": "Sembulo 21:4",
+   "christ": "I-Edeni yekudala kwekucala iyabuyiselwa ekugcineni njenge “Jerusalema Lensha.” Nkulunkulu uhlala nesive sakhe phakadze — kuphelela kwa-Emanuweli (Sembulo 21:3; Matewu 1:23).",
+   "detail": "<p>IBhayibheli ayipheli ngesikhatsi seliBandla. Incwadzi yayo yekugcina, Sembulo, ikhombisa Jesu <b>abuya kabusha</b> aphelelise konkhe.</p><ul><li><b>Kubuya kwesibili</b> · iNkhosi leyetsenjisiwe ibuya ngenkhatimulo.</li><li><b>Kunqoba kwekugcina</b> · Sathane nekufa kuyabhujiswa phakadze, Khristu abuse njengeNkhosi yemakhosi (1 kubaseKorinthe 15:25-26; Sembulo 20:10).</li><li><b>Kwehlulela nekuvuka</b> · konkhe lokungalungile kuyalungiswa, labafileko bayavuswa.</li><li><b>Lizulu lelisha nemhlaba lomusha</b> · sono, kufa, tinyembeti, nebuhlungu kuyanyamalala phakadze (Sembulo 21:4).</li><li><b>I-Edeni lebuyiselwe</b> · “eJerusalema Lensha” lekuncono kunekucala, Nkulunkulu uhlala nesive sakhe phakadze — indzawo lapho yonkhe iBhayibheli ibilibhekise khona.</li></ul><p>Ngako manje sikhatsi sa-<b>“kakade, kodvwa kungakabi”</b>: kuJesu sindziso <b>sekale</b> saphelela, kodvwa kuphelela kwaso <b>kusalindzelwe</b>.</p>",
+   "next": "Pho yonkhe lendzaba isho kutsini “kimi”?"
+  }
+ ],
+ "love": [
+  "Indzaba ayicali ngekwehlulela kodvwa ngekudala lokutfululwe ngelutsandvo.",
+  "Lesikhashana umuntfu one, Nkulunkulu wetsembisa insindziso khona lapho.",
+  "Nkulunkulu weta kucala kumuntfu longakukufanele, wambita ngelibito lakhe, wamenta umgudvu wesibusiso.",
+  "Weva kububula kwesive lebesigcilatiwe, wehla matfupha kutawusisindzisa.",
+  "Naqalo bamkhaphela kaningi, kodvwa ngaso sonkhe sikhatsi bakhala watfumela umsindzisi wabaphakamisa.",
+  "Akazange amlahle ngisho naDavide lowawa, futsi ngaye wetsembisa iNkhosi yaphakadze.",
+  "Esiveni lesasimfulatsele, wachubeka utfumela baphrofethi, ancenga, “Ake ubuyele ekhaya.”",
+  "Wehla nabo ngisho naseveni lelimnyama kakhulu lekutfunjwa, wetsembisa kwentiwa kabusha.",
+  "Ngisho nesiveni lesehluleka kaningi, akazange asibuyisele setsembiso sakhe.",
+  "Ngisho nangeminyaka lengema-400 yekuthula, ngasese, bekalungisela indlela yensindziso.",
+  "Sasiseyitoni, watfumela iNdvodzana yakhe kutsi ibeke imphilo yayo.",
+  "Lolutsandvo lesalwemukela, manje uyalutfumela luphumele emhlabeni wonkhe.",
+  "Ekugcineni uyawesula tonkhe tinyembeti enta konkhe kube kusha ngelutsandvo."
+ ],
+ "mis": [
+  {
+   "w": "“Kungani Nkulunkulu enta bantfu labangona? Bekungeke kube ncono kutsi angasenti nje?”",
+   "t": "Nkulunkulu wadala umhlaba nebantfu hhayi ngekuswela lokutsite, kodvwa ngelutsandvo loluchichimako. Kwenta bantfu <b>babantfu labatibandzakanya naNkulunkulu</b> kona kucobo lwalo lutsandvo. Futsi ngisho nekungena kwesono akuphumanga ngaphandle kwecebo lensindziso laNkulunkulu (Kubase-Efesu 1:4-5). Sigcamu sekucala seBhayibheli akusiko kwehlulela kodvwa lutsandvo."
+  },
+  {
+   "w": "“Kukhishwa nekuniketwa kufa ngenca yekudla titselo letinye nje — angitsi Nkulunkulu ukhokho kakhulu?”",
+   "t": "Kukhishwa e-Edeni bekukwehlulela kanye nemusa. Kudla esihlahleni sekuphila uphile phakadze kuleso simo lesephukile, lesehlukene naNkulunkulu, bekutawukubopha ekuhluphekeni phakadze (Genesisi 3:22). Kuvumela kufa kwavula indlela yekubuyela, futsi khona lapho Nkulunkulu wetsembisa uMsindzisi (Genesisi 3:15). Lutsandvo selukale lukhona ekwehluleleni."
+  },
+  {
+   "w": "“Abrahama wakhetfwa ngenca yekukholwa kwakhe lokukhulu — angitsi bonkhe bantfu beBhayibheli bangemachawe ekutiphatsa?”",
+   "t": "Abrahama naye waca futsi wangabata; Jakobe abeyinkhohlisi. Nkulunkulu akazange abite bantfu “labafanele” kodvwa labanetiphene, ngemusa. Sizatfu sekukhetfwa asisiso bunhle babo kodvwa lutsandvo lwaNkulunkulu lolwetsembekile (Dutheronomi 7:7-8)."
+  },
+  {
+   "w": "“Angitsi uMtsetfo (iMitsetfo) sivivinyo lekufanele usiphase kuze usindziswe?”",
+   "t": "Nkulunkulu wabasindzisa <b>ngembi</b> kwekubanika uMtsetfo. Ngisho neMitsetfo Lelishumi icala ngesitatimende sensindziso: “NginguSimakadze Nkulunkulu wenu lowanikhipha eGibhithe” (Eksodusi 20:2). UMtsetfo akusiko “wugcine kuze usindziswe,” kodvwa siphakamiso selutsandvo sekutsi sive lesesisindzisiwe siphile kanjani (Dutheronomi 7:7-9). Umusa ngaso sonkhe sikhatsi uta kucala; kulalela kuyimphendvulo."
+  },
+  {
+   "w": "“Kunqoba kweKhanani bekukubulawa lokungenamusa — ngako Nkulunkulu weTestamente Lendzala unesihluku ngempela.”",
+   "t": "Lena yindzaba lelukhuni lengeke icatjululwe ngemusho munye, futsi idzinga kunakekela. Kodvwa iBhayibheli ayiyibeki njengeludlame lolungenasizatfu kodvwa njengekwehlulela ngemuva kwemakhulu eminyaka yebubele kububi lobukhulu (kufaka nekuhlatjwa kwebantfwana) (Genesisi 15:16; Dutheronomi 9:4-5; Levithikusi 18:24-25). Nkulunkulu uyephuta ngisho ekwehluleleni, futsi wabemukela ngenjabulo labamphendvukela — ngisho netihambi letifana naRahabi naRuthe (Joshuwa 6:25; Ruthe 4:13-17)."
+  },
+  {
+   "w": "“David abelichawe lelingenasici — yingako abitwa ‘umuntfu lohambisana nenhlitiyo yaNkulunkulu.’”",
+   "t": "David wenta liphcombi waze wabulala. “Umuntfu lohambisana nenhlitiyo yaNkulunkulu” akusho lokungenasici, kodvwa lowo longazange acashe sono sakhe — lowaphendvuka ngalokuphelele wabuyela njalo kuNkulunkulu (Tihlabelelo 51). Lutsandvo lwaNkulunkulu alulahli ngisho nalabawa kabuhlungu."
+  },
+  {
+   "w": "“Baphrofethi babhula labukela likusasa / Nkulunkulu weTestamente Lendzala ululaka lodvwa.”",
+   "t": "Inhlitiyo yemphrofethi akusiko “kubukela likusasa” kodvwa kuncenga lokubuhlungu kwaNkulunkulu: “Ake ubuyele.” Ngisho secwayiso sekwehlulela asihlosi kubhubisa kodvwa kuphendvula bantfu kubasindzisa — “angikujabuleli kufa kwalomubi” (Hezekeli 33:11)."
+  },
+  {
+   "w": "“Kutfunjwa kufakazela kutsi Nkulunkulu wayilahla yonkhe ema-Israyeli.”",
+   "t": "Kutfunjwa bekungesiko kushiya kodvwa kuyala nekuhlanta umntfwana lotsandzekako (KumaHebheru 12:6). Nkulunkulu akazange ahambe; wabanaDanyela ekhatsi kwekutfunjwa wetsembisa, “ngiyawati emasu lenginawo ngani … emasu ekuninika litsemba nelikusasa” (Jeremiya 29:11)."
+  },
+  null,
+  {
+   "w": "“Njengobe kungazange kube nelivi iminyaka lengema-400, Nkulunkulu wahamba nome bekaphumula.”",
+   "t": "Kuthula akusiko kungabikho. Wamane angakhulumi, kantsi sonkhe leso sikhatsi bekagucuca imibuso, tilwimi, nemigwaco kulungisela sigcawu sensindziso. Esikhatsini lesithulile kakhulu, Nkulunkulu bekasebenta kakhulu, ngelutsandvo (KubaseGalathiya 4:4)."
+  },
+  {
+   "w": "“Jesu bekanguye nje munye wabafundzisi labahle bekutiphatsa / siphambano bekukwehlulwa lokubuhlungu.”",
+   "t": "Jesu watimemetela kutsi unguNkulunkulu (Johane 8:58), futsi siphambano bekungesiko ingoti nome kwehlulwa kodvwa lutsandvo loluhleliwe. Akazange advonselwe lapho ngemandla; wabeka imphilo yakhe ngekutsandza kwakhe (Johane 10:18). “Kute umuntfu lonelutsandvo lolukhulu kunalolu kwekutsi adzele kuphila kwakhe ngenca yetihlobo takhe” (Johane 15:13)."
+  },
+  {
+   "w": "“Libandla licembu lebantfu labaphelele, nome nje sakhiwo.”",
+   "t": "Libandla akusiwo lichaza “labangcwele labaphelele” kodvwa <b>letoni letitsetselelwe</b>. Ngisho nemphostoli Pawula watibita ngekutsi “lesikhulu kunato tonkhe” (1 kuThimothi 1:15). Libandla lekucala nalo laphikisana lawa (Imisebenti yebaPhostoli 6:1; 1 kubaseKorinthe 1:11). Akusiyo indzawo yekutigabatisa, kodvwa bantfu labadlulisela lutsandvo labalwemukele (Johane 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Sono sekudala — kute lolungile",
+   "body": "Inkinga akusiko “imisebenti lemibi lembalwa” kodvwa imphandze yenhlitiyo. Kusukela ku-Adamu, bonkhe batalwa ngaphansi kwesono futsi ngekwabo bangeke bafinyelele kuNkulunkulu.",
+   "vref": "KubaseRoma 3:10-12, 23",
+   "vtext": "Kute namunye lolungile … Bonkhe bantfu bonile, bakhashane kakhulu nenkhatimulo yaNkulunkulu."
+  },
+  {
+   "title": "UMtsetfo ungeke ungisindzise",
+   "body": "UMtsetfo akusiwo ligciba kodvwa sibukiso. Nawutama kakhulu, ukhombisa kakhulu kutsi usilela kangakanani. Inhloso yawo kusiyisa kuKhristu.",
+   "vref": "KubaseRoma 3:20 · KubaseGalathiya 3:24",
+   "vtext": "Umtsetfo wenta bantfu basati sono … umtsetfo wasebenta njengemcondzisi wetfu wekusiyisa kuKhristu."
+  },
+  {
+   "title": "Ngemusa — sipho, hhayi umzamo",
+   "body": "Sindziso akusiyo inkhokhelo yemisebenti loyentile, kodvwa sipho semahhala kulabangakufaneli. Ngako kute longatigabatisa.",
+   "vref": "Kubase-Efesu 2:8-9",
+   "vtext": "Empeleni kusindziswa kwenu ngekukholwa kuya ngemusa, futsi loko akuveli kini, sipho nje saNkulunkulu. Loko akuveli ngemisebenti, funa kube khona lotibongako."
+  },
+  {
+   "title": "Kwentiwa kulunga ngekukholwa",
+   "body": "Hhayi ngekugcina uMtsetfo, kodvwa ngekukholwa kuJesu Khristu wentiwa lolungile — awembatsiswa ngekulunga kwakho kodvwa ngekwakhe.",
+   "vref": "KubaseRoma 5:1 · KubaseGalathiya 2:16",
+   "vtext": "Njengobe sesentiwe semukeleka kuNkulunkulu kutsi silungile ngekukholwa … umuntfu wemukeleka kuNkulunkulu kutsi ulungile ngekukholwa kwakhe nguKhristu Jesu."
+  },
+  {
+   "title": "IBhayibheli ikhomba kuJesu",
+   "body": "IBhayibheli akusiyo incwadzi yemadvodza lamakhulu nome yekutisita. Kusukela kuGenesisi kuya kuSembulo, lonkhe likhasi lifakaza ngemuntfu munye — Jesu Khristu.",
+   "vref": "Johane 5:39 · Lukha 24:27",
+   "vtext": "ngiyo lucobo lefakaza ngami … Jesu wase uyabachazela ngako konkhe lokwakuphatselene naye emiBhalweni."
+  },
+  {
+   "title": "Umbuso waNkulunkulu — umlayeto waJesu lobalulekile",
+   "body": "Yindzaba Jesu layifundzisa kakhulu. Umbuso lapho Nkulunkulu abusa khona njengeNkhosi wangena emhlabeni naJesu uyawuphelela ekubuyeni kwakhe. Ngesiphambano nekuvuka, Jesu yiNkhosi yangempela leyehlula sono, kufa, naSathane.",
+   "vref": "Makho 1:15",
+   "vtext": "Sikhatsi sesifikile, umbuso waNkulunkulu sewusondzele. Phendvukani nikholwe liVangeli."
+  },
+  {
+   "title": "LiVangeli — wakuphelelisa konkhe",
+   "body": "Sikweletu sesono lebengingeke ngisikhokhe, Jesu wasikhokha esikhundleni sami esiphambanweni, ngekuvuka wehlula kufa. Angetsembeli ku-“yenta loku” kodvwa ku-“kuphelele.”",
+   "vref": "Johane 19:30 · KubaseRoma 5:8",
+   "vtext": "Kuphelele … Nkulunkulu sewulukhombisile lutsandvo lwakhe kitsi ngekutsi sisetoni Khristu wafa esikhundleni setfu."
+  }
+ ],
+ "books": {
+  "Genesisi": "GEN",
+  "Eksodusi": "EXO",
+  "Levithikusi": "LEV",
+  "Numeri": "NUM",
+  "Dutheronomi": "DEU",
+  "Joshuwa": "JOS",
+  "Tikhulu": "JDG",
+  "Ruthe": "RUT",
+  "Ezra": "EZR",
+  "Nehemiya": "NEH",
+  "Esta": "EST",
+  "Jobe": "JOB",
+  "Tihlabelelo": "PSA",
+  "Taga": "PRO",
+  "Umshumayeli": "ECC",
+  "Ingoma Yetingoma": "SNG",
+  "Isaya": "ISA",
+  "Jeremiya": "JER",
+  "Sililo": "LAM",
+  "Hezekeli": "EZK",
+  "Danyela": "DAN",
+  "Hoseya": "HOS",
+  "Joweli": "JOL",
+  "Amose": "AMO",
+  "Obadiya": "OBA",
+  "Jona": "JON",
+  "Mikha": "MIC",
+  "Nahume": "NAM",
+  "Habakhuki": "HAB",
+  "Zefaniya": "ZEP",
+  "Hagayi": "HAG",
+  "Zakhariya": "ZEC",
+  "Malakhi": "MAL",
+  "Matewu": "MAT",
+  "Makho": "MRK",
+  "Lukha": "LUK",
+  "Johane": "JHN",
+  "Imisebenti yebaPhostoli": "ACT",
+  "KubaseRoma": "ROM",
+  "KubaseGalathiya": "GAL",
+  "Kubase-Efesu": "EPH",
+  "KubaseFiliphi": "PHP",
+  "KubaseKholose": "COL",
+  "kuThithusi": "TIT",
+  "kuFilemoni": "PHM",
+  "KumaHebheru": "HEB",
+  "YaJakobe": "JAS",
+  "YaJuda": "JUD",
+  "Sembulo": "REV",
+  "1 Samuweli": "1SA",
+  "2 Samuweli": "2SA",
+  "1 Emakhosi": "1KI",
+  "2 Emakhosi": "2KI",
+  "1 Tikhronike": "1CH",
+  "2 Tikhronike": "2CH",
+  "1 kubaseKorinthe": "1CO",
+  "2 kubaseKorinthe": "2CO",
+  "1 kubaseThesalonika": "1TH",
+  "2 kubaseThesalonika": "2TH",
+  "1 kuThimothi": "1TI",
+  "2 kuThimothi": "2TI",
+  "1 yaPhetro": "1PE",
+  "2 yaPhetro": "2PE",
+  "1 yaJohane": "1JN",
+  "2 yaJohane": "2JN",
+  "3 yaJohane": "3JN"
+ },
+ "yv": 604,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
