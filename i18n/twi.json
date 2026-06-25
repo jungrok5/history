@@ -1,0 +1,421 @@
+{
+ "menuName": "Twi",
+ "htmlLang": "twi",
+ "dir": "ltr",
+ "brand": "Bible no nyinaa wɔ krataa baako so",
+ "docTitle": "Bible no nyinaa wɔ krataa baako so · Efi abɔde mu kosi asɔre",
+ "share": {
+  "title": "Bible no nyinaa wɔ krataa baako so",
+  "text": "Wɔ krataa baako so, hu Bible no asɛm kɛse no, ne nea enti a Yesu bae."
+ },
+ "ui": {
+  "people": "Nnipa",
+  "events": "Nsɛm a ɛho hia",
+  "christLabel": "Ɛkyerɛ Yesu",
+  "loveLabel": "Ɔdɔ a ɛmpa",
+  "mythWrong": "Adwene a ɛnteɛ",
+  "mythRight": "Nokware no",
+  "more": "Kenkan pii",
+  "version": "(AKNA)"
+ },
+ "labels": {
+  "start": "Mfiase",
+  "thread": "Asɛm no",
+  "gospel": "Asɛmpa no",
+  "about": "Ɛho nsɛm"
+ },
+ "s": {
+  "ui.share": "↗ Kyɛ",
+  "ui.toast": "Wɔakɔpɛ link no 📋",
+  "ui.footer": "Bible no nyinaa wɔ krataa baako so · Bible mu nsɛm fi AKNA mu",
+  "hero.kicker": "EFI ABƆDE MU KOSI ASƆRE",
+  "hero.title": "Bible no,<br><span class=\"em\">wɔ krataa baako so</span>",
+  "hero.sub": "Wɔ krataa baako so, hu Bible no asɛm kɛse no, ne nea enti a Yesu bae.",
+  "hero.cue": "Twe fam<span>↓</span>",
+  "thread.eyebrow": "ASƐM BAAKO A ƐKYEKYERE NE NYINAA BOM",
+  "thread.h2": "Awiei no, Bible no yɛ asɛm baako pɛ",
+  "thread.flow": "<b>Bɔhyɛ</b><span class=\"arw\">→</span><b>Ɔtwɛn</b><span class=\"arw\">→</span><b>Mmamu</b>",
+  "thread.note": "Onyankopɔn <b>hyɛ bɔ</b> (apam), nnipa <b>twɛn</b> bere tenten, na awiei no biribiara <b>ba mu</b> na ewie wɔ Yesu mu. Di nsɛm 13 a edidi so wɔ asɛm no mu akyi — mia <b>“Kenkan pii”</b> wɔ krataa biara so na woahu asɛm no a emu dɔ.",
+  "gospel.eyebrow": "NEA SAA ASƐM YI KYERƐ MA “ME”",
+  "gospel.h2": "Bible no koma ankasa",
+  "gospel.lead": "Bible no <b>nyɛ nhomakwan a ɛka sɛ “yɛ onipa pa.”</b>",
+  "gospel.sublead": "Ɛyɛ asɛm a ɛfa sɛnea Onyankopɔn, <b>adom nko ara so</b>, gyee nnebɔneyɛfo a wontumi nnye wɔn ho nkwa no. Wɔ ne mfimfini na Yesu Kristo gyina.",
+  "gospel.mirror": "<h3>Israel mmeae a ɛnni awiei no yɛ “me” mfonini ankasa</h3><div class=\"cycle\"><b>Abosonsom</b><span class=\"a\">→</span><b>Amanehunu</b><span class=\"a\">→</span><b>Su frɛ</b><span class=\"a\">→</span><b>Onyankopɔn gye</b><span class=\"a\">→</span><b>Abosonsom bio…</b></div><p>Efi Atemmufo bere kosi nnommumfa no, Israel yɛ saa mmeae yi a enni awiei. Bible no ankyerɛw no sɛnea yɛbɛserew aka sɛ, “Na wɔyɛ mmɔbɔ.”</p><p>Ɛyɛ <b>ahwehwɛ</b>. Asɛm no nyɛ sɛ “Israel na ɔyɛɛ saa” na mmom <b>“me nso meyɛ saa ara”</b> (1 Korintofo 10:11).</p><p><b>Ohoni</b> nyɛ ohoni a wɔasen nko ara. Ɛyɛ <b>biribiara a yɛdɔ no anaa yɛde yɛn ho to so sen Onyankopɔn</b> — sika, nkonimdi, animuonyam, nnipa, me ankasa mpo. Na sɛ wode Onyankopɔn yɛ <b>ade a ɛma woanya nea wopɛ</b> a, ɛno nso yɛ abosonsom.</p><p class=\"punch\">Awiei no, ohoni a emu dɔ koraa ne “me ankasa a mete Onyankopɔn ahengua so.”</p>",
+  "gospel.coreIntro": "Ɛnde, ɔkwan bɛn so na Onyankopɔn gye saa ɔdebɔneyɛni yi? Eyi ne asɛmpa a Bible no ka no koma.",
+  "gospel.crux": "<p class=\"crux-lead\">Bible no nyinaa kyerɛ baabi koro pɛ.</p><p>Nnipa antumi ammu bɔne mmeae no mu wɔ wɔn ankasa so, na obiara nyɛ ɔtreneeni. Enti na ɛsɛ sɛ obi <b>tua ka no si wɔn anan mu</b>.</p><p>Yesu amma sɛ ɔbɛkyerɛkyerɛ pa nko ara. Esiane sɛ na ɔkwan foforo biara nni hɔ a wɔde begye me nkwa nti, <b>na ɛsɛ sɛ ɔba.</b></p><p class=\"crux-punch\">Nea anka ɛsɛ sɛ ɔsɛn saa asɛndua no so no ne <b>me</b>.<br>Yesu soaa <b>me bɔne</b> na wɔbɔɔ no asɛndua no so wɔ me anan mu.</p><div class=\"crux-verse\">“Nanso yɛn mmarato nti na wopiraa no, yɛn amumɔyɛ nti na wɔdwerɛw no … na nʼapirakuru mu na yenya ayaresa.” — Yesaia 53:5</div>",
+  "faq.h": "Wo ho akyere wo wɔ biribi ho ana?",
+  "faq.q1": "<span class=\"arr\">▸</span> Ɛnde owudifo bi a wagye adi kɔ ɔsoro, na onipa pa bi a watena ase yiye nanso onnye nni kɔ asaman ana?",
+  "faq.a1": "<p>Ɛyɛ asɛmmisa pa. Nanso ntease mmienu a ɛnteɛ ahintaw mu.</p><p><b>① Bible no nkyekyɛ nnipa mu sɛ “papa ne bɔne.”</b> Susudua no nyɛ “ɔyɛ sen nea ɔbɛn no” na mmom “Onyankopɔn kronkronyɛ a ɛyɛ pɛ.” Ɔno anim no, obiara nyɛ “onipa pa a ɛdɔɔso” (Romafo 3:23). Enti ɛnyɛ “onipa pa ne owudifo,” na mmom te sɛ ayarefo mmienu a yare baako kum wɔn — ɔbaako gye aduru no, ɔbaako po, ka sɛ, “Me ho yɛ den sen saa onipa no.”</p><p><b>② Ade baako pɛ na ɛkyekyɛ ɔsoro ne asaman ntam.</b> Ɛnyɛ nneyɛe ho nkontaabu, na mmom <b>sɛ woagye Yesu Kristo sɛ Awurade na wadi wo bɔne ho dwuma awie ana.</b> Nea ne bɔne nam Kristo mogya so adi ho dwuma awie no kɔ ɔsoro; nea onnye no da na ne bɔne da so wɔ hɔ no nkɔ. Adwuma pa biara ntumi nni saa bɔne no ankasa ho dwuma mma wo.</p><p>Enti ɔsoro ne asaman nyɛ “akatua a wɔde ma nneyɛe pa” na mmom ɛyɛ <b>wo ne Kristo ntam abusuabɔ</b> ho asɛm. Na “gyidi” nyɛ adwene mu pene na mmom onipa nkwa mu wura sesae: nea ogye no nokware no nyɛ ahomaso na mmom ɔsakra nʼadwene koma mu. Nokware ne sɛ, <b>ankasa treneeyɛ</b> (“meyɛ onipa pa”) ne ohoni a ɛyɛ den sen biara sɛ wobebubu, nea ɛma yɛsusuw sɛ yenhia Kristo no (Luka 18:9-14).</p><p>Bible no ka no pefee sɛ: <b>“Obiara a ogye ɔba no di no, wɔremmu no atɛn; na nea onnye no nni no, wɔabu no atɛn dedaw”</b> (Yohane 3:18). Atemmu no nyɛ “wo nkwa ho nkontaabu sɛ wuwu a,” na mmom wɔadi ho dwuma dedaw sɛnea <b>woagye Kristo ana</b>.</p><p class=\"faq-v\">Romafo 3:23 · Yohane 3:18 · Efesofo 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Sɛ menyɛ onipa pa kɛkɛ, a minnye Yesu nni mpo a, ɛnnɔɔso ana?",
+  "faq.a2": "<p>Ɛno ne adwene a wɔtaa wɔ, nanso ɛnte ɔhaw ankasa no ase. Yɛmfa mfonini bi.</p><p><b>Fa no sɛ wowɔ ɛpoma korɔmfo hyɛn mu.</b> Ɛmfa ho sɛnea woma hyɛn no mu yɛ kann, sɛnea woyɛ adwumayɛfo no adɔe, sɛnea wo bra yɛ fɛ — woda so ara yɛ <b>ɛpoma korɔmfo</b>, efisɛ hyɛn no soa wo kɔ baabi a ɔrekɔ (atemmu hyɛngyinabea). Ɔhaw no nyɛ “nneyɛe ho nkontaabu” na mmom <b>“hyɛn a wowɔ mu” (wo suban)</b>.</p><p>Enti asɛmpa no nka sɛ “bɔ mmɔden yɛ papa pii”; ɛka sɛ <b>“sesa hyɛn.”</b> Si fi bɔne hyɛn no mu na twa kɔ Yesu nkyɛn — kɔ suban foforo, <b>Onyankopɔn ba</b>, mu. Eyi nyɛ wo nkontaabu a wobɛma akɔ soro denam mmɔdenbɔ so, na mmom wode wo ho to Nea ɔteɛ ne nsa kyerɛ wo no so na wutwa kɔ ne hyɛn no mu.</p><p>Nokware ni, Bible no ka nkwagye no sɛnea saa sesa yi pɛpɛɛpɛ: <b>“Ogyee yɛn fii sum tumi ase de yɛn baa ne Dɔba no Ahenni mu dwoodwoo”</b> (Kolosefo 1:13).</p><p>Nte aseɛ bɔne: <b>eyi nkyerɛ sɛ bra pa nni mfaso.</b> Papayɛ nyɛ nkwagye “gyinabea” na mmom ɛyɛ ne <b>aba</b>. Nea wasesa hyɛn no de, ɔbɔ bra pa seesei nyɛ ehu nti, na mmom ɔba ɔdɔ nti.</p><p class=\"faq-v\">Kolosefo 1:13 · Yohane 1:12 · Yohane 3:3 · Efesofo 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Sɛ nea ɔyɛɛ bɔne no ho dwo no, na ɔka sɛ “Onyankopɔn de akyɛ me,” bere a nea wɔyɛɛ no bɔne no da so ara rehu amane a — ɛnyɛ adom no ne bo nyɛ den dodo ana?",
+  "faq.a3": "<p>Asɛmmisa no fata, na ɛyaw no nso yɛ nokware. Nanso saa asɛm no nyɛ “Bible mu bɔnefakyɛ” — ɛyɛ <b>nkontompo</b>.</p><p><b>① Onyankopɔn bɔnefakyɛ no bo nyɛ mmerɛw da.</b> Wɔnkata bɔne so te sɛ nea amma da; Onyankopɔn no ankasa de ne Ba no nkwa tuaa ho ka. Asɛndua no nkyerɛ sɛ wobu bɔne sɛ ade hunu, na mmom sɛ bɔne mu yɛ duru — ɛyɛ bɔnefakyɛ a ne bo yɛ den sen biara wɔ wiase.</p><p><b>② Ahonu ankasa sow aba.</b> Sɛ nea ɔyɛɛ bɔne no yɛ ahomaso wɔ nea wɔyɛɛ no bɔne no anim — “Onyankopɔn de akyɛ me, enti me ho dwo me” a — ɛno nyɛ ahonu na mmom ɛyɛ nsɛsoɔ (Mateo 3:8). Na bɔnefakyɛ a ɛda onipa ne Onyankopɔn ntam no mpepa nea wɔyɛɛ no bɔne no kuru, na ɛnhyɛ no sɛ ɔnkyɛ.</p><p><b>③ Wɔmmu bɔne mu sɛ ade hunu da.</b> Wotua bɔne biara ho ka wɔ baabi mmienu no baako: <b>anaasɛ Kristo soa wɔ asɛndua no so</b> (wɔn a wogye no di no, atemmu nni hɔ bio, Romafo 8:1), <b>anaasɛ nea ɔpo no kosi awiei no soa.</b> Enti “bɔnefakyɛ a ne bo yɛ mmerɛw” nni hɔ. Nea ɔyɛɛ bɔne no nso da so ara di asɛm wɔ wiase atemmu mu (Romafo 13:1-4).</p><p><b>④ Nea wɔyɛɛ no bɔne no nusu nyɛ ketewa wɔ Onyankopɔn anim da.</b> Onyankopɔn ne wɔn a wɔsu su, ɔkae nusu biara, na awiei no ɔno ankasa bɛpepa (Adiyisɛm 21:4). Enti nea wɔyɛɛ no bɔne no nsoa aweretɔ adesoa no nko, na mmom otumi de hyɛ Onyankopɔn treneeni no nsam (Romafo 12:19 — “Me na aweretɔ wɔ me, metua ka,” Awurade na ose).</p><p class=\"faq-v\">Mateo 3:8 · Romafo 8:1 · Romafo 13:1-4 · Adiyisɛm 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Bible no yɛ asɛm a ɛyɛ nokware ampa ana? Ɛte sɛ tete anansesɛm anaa anwensɛm.",
+  "faq.a4": "<p>Ɛyɛ asɛmmisa pa — na ɛyɛ mfiase pa nso. Akyinnye nyɛ gyidi ti, na mmom ɔpɛ a wopɛ sɛ wohwɛ nneɛma mu nokwareyɛ mu. Bible no nyɛ anansesɛm a wonnim na “gye di sɛ wopɛ a,” na mmom ɛyɛ kyerɛwtohɔ a ɛda <b>mmeae, mmere ne nnipa ankasa</b> so. Nhwɛso kakra bi nko ara.</p><p><b>① Ɛnyɛ nhoma baako na mmom “nhomakorabea” — nanso ɛsen wɔ asɛm baako so.</b> Bible no yɛ <b>nhoma 66</b> a wɔkyerɛw wɔ bɛyɛ <b>mfe 1,500 mu, akyerɛwfo bɛyɛ 40</b> — ahemfo, nguanhwɛfo, apopofo, towgyefo, oduruyɛfo, nnipa a wɔn gyinabea ne wɔn mmere gu ahorow, a wɔkyerɛw no kankan a wonnim wɔn ho wɔn ho, wɔ kasa ahorow abiɛsa (Hebri, Aramaic, Hela) mu. Nanso ne nyinaa bom, a basabasayɛ nni mu, wɔ <b>asɛm baako so: nkwagye a efi Kristo mu</b>. Ɛno yɛ ahobammɔ a ɛyɛ den sɛ wɔde nansabea anaa onipa nhyehyɛe bɛkyerɛkyerɛ mu.</p><p><b>② Wɔkɔ so si so dua fi asase mu (nneɛma a wotutu fi fam).</b> Nneɛma pii a kan no wɔbuu sɛ wɔayɛ atorosɛm, “Bible nko ara mu na ɛwɔ,” akyiri yi wotutuu fii fam de sii so dua. <b>Dawid abusua</b> denam ɔbo a wɔakrukyerɛw “Dawid fi” wɔ so (Tel Dan Ɔbo no); <b>Pontio Pilato</b>, amrado a okum Yesu no, denam nkyerɛwde a ne din wɔ so so; ɔhene Hesekia nsu tokuru (2 Ahemfo 20:20), denam tokuru no ankasa ne emu nkyerɛwde so. <b>Hetifo</b> mpo, a kan no wɔfrɛɛ wɔn “nnipa a wɔnam adwene mu,” pue daa sɛ ahemman kɛse wɔ amamfo no mu.</p><p><b>③ Ɛyɛ tete kyerɛwtohɔ a wɔakora so yiye sen biara (nsaano nkyerɛwde).</b> Wɔ nsaano nkyerɛwde a aka dodow, sɛnea wɔne wɔn ho hyia, ne bere a ɛda kyerɛw ne ne mfonini ntam mu, Bible no <b>nni ne sɛso wɔ tete nkyerɛwde mu</b>. Yesaia nhoma a edii Kristo anim, a ɛwɔ <b>Po Funu Nkyerɛwde</b> (a wohuu wɔ 1947) mu no, ne nkyerɛwsɛm a ɛyɛ pɛ a edii akyiri bɛyɛ mfe 1,000 no hyia kann — adansedi sɛ wɔakora Bible no so pɛpɛɛpɛ wɔ mmere nyinaa mu.</p><p><b>④ Nea wɔkyerɛw dii kan no baa mu pɛpɛɛpɛ (nkɔmhyɛ).</b> Apam Dedaw no, a wɔkyerɛw mfe pii ansa na Yesu reba no, kyerɛ pefee nʼawo wɔ Betlehem (Mika 5:2), ɔsomfo a ɔrehu amane no (Yesaia 53:5), ne asɛndua no ho tebea (Nnwom 22). Ɛyɛ pɛpɛɛpɛ dodo sɛ wɔbɛka sɛ ɛyɛ nsɛm a edii nsiansa.</p><p><b>⑤ Abakɔsɛm kyerɛwfo a wɔnni Bible no mu nso kyerɛw ho.</b> Roma abakɔsɛm kyerɛwfo <b>Tacitus</b> ne Yudafo abakɔsɛm kyerɛwfo <b>Yosefus</b> — a wɔn mu biara nyɛ Kristoni — bobɔ Yesu, ne kum, ne asɔre dedaw no din. Ne nyinaa akyi no, asuafo a ehu maa wɔbɔ ahwete no <b>de wɔn nkwa too hɔ</b> dii owusɔre no ho adanse — obiara nwu mma nea onim sɛ ɛyɛ atoro.</p><p>Sɛ yɛbɛka nokware de a, saa nnyinaso yi kyerɛ sɛ Bible no a wobegye adi <b>nyɛ nea ɛne nyansa bɔ abira na mmom ɛne nyansa hyia</b>; ɛnyɛ “adanse” a ɛhyɛ te sɛ akontaabu mu nsɛnne. Enti Kristoni ahotoso mfi adansedi nko ara mu, na mmom efi <b>gyidi a Honhom Kronkron de ma koma bere a obi rekenkan Asɛm no</b> mu. Bible no ka sɛ: <b>“Gyidi no fi asɛm no tie mu, nea yɛte fi Asɛmpa a ɛfa Kristo ho no mu”</b> (Romafo 10:17). Enti sɛ ɛte sɛ anansesɛm sɛnea ɛte biara a, <b>wo ankasa kenkan</b> no yɛ mfiase. Adansedi no bue ɔpon no, na ahotoso nyin wɔ nea ɔkenkan no mu.</p><p class=\"faq-v\">2 Ahemfo 20:20 · Yesaia 53:5 · Mika 5:2 · Romafo 10:17</p>",
+  "respond.h3": "Enti — me nso ɛdɛn?",
+  "respond.sub": "Saa ɔdɔ yi nyɛ nsɛm na mmom <b>nsato</b>. Sɛ ɔdɔ a wɔbɔɔ no asɛndua so wɔ wo anan mu no aka wo koma a, bɔ saa mpae yi brɛoo, nkyekyɛmu baako baako.",
+  "respond.prayer": "<p>Onyankopɔn,</p><p>migye to mu sɛ meyɛ ɔdebɔneyɛni a mintumi nnye me ho nkwa.</p><p>Migye di sɛ Yesu wu wɔ asɛndua so maa me na ɔsɔre fii awufo mu.</p><p>Mesrɛ wo fa me bɔne nyinaa kyɛ me, na efi nnɛ yɛ me nkwa Awurade.</p><p>Gye me sɛ wo ba, na ma mentena nkwa foforo mu.</p><p class=\"amen\">Yesu din mu na merebɔ mpae. Amen.</p>",
+  "respond.after": "Sɛ wofi wo koma mu bɔɔ saa mpae yi a, Bible no ka sɛ <b>woabɛyɛ Onyankopɔn ba</b>. Wo nko ara nni hɔ bio — hwehwɛ asɔre a ɛbɛn na wo ne afoforo nnantew gyidi kwan no so.",
+  "respond.read": "Wo ankasa kenkan Bible no — fi Yohane ase",
+  "respond.verse": "“Na wɔn a wogyee no, na wogyee ne din dii no, ɔmaa wɔn tumi ma wɔbɛyɛɛ Onyankopɔn mma.” — Yohane 1:12 · Romafo 10:9-10",
+  "closing.main": "Onyankopɔn baako,<br>denam asɛm baako so,<br>de <em>ɔdɔ</em> a ɛmpa da<br>hwehwɛ yɛn akyi.",
+  "closing.verse": "“Owu anaa nkwa … anaa abɔde foforo biara rentumi ntetew yɛn ne Onyankopɔn dɔ a ɛwɔ Kristo Yesu, yɛn Awurade, mu no mu da.” — Romafo 8:38-39",
+  "closing.small": "Saa asɛm yi so na Mmara, Anwensɛm, Adiyifo, ne Nkrataa de “honam” ka ho.<br>Efi nnɛ, nhoma biara a wubebue no, wubehu “baabi a wowɔ wɔ asɛm no mu.”",
+  "closing.share": "↗ Kyɛ saa asɛm yi",
+  "about.line": "Egyina <b>ogyefosɛm-abakɔsɛm, asɛmpa, ne Reformed</b> adwene a Korea Protestant asɔre dodow no ara kura no so.",
+  "about.contact": "Nsɛmmisa · adwene — <a id=\"contact\" class=\"mail\">Fa email brɛ yɛn</a>"
+ },
+ "epochs": [
+  {
+   "tag": "APAM DEDAW · MFIASE",
+   "title": "Abɔde",
+   "date": "Mfiase no",
+   "one": "Onyankopɔn bɔɔ wiase a na ɛyɛ “papa yiye.”",
+   "people": "Onyankopɔn; Adam ne Hawa",
+   "events": "Abɔde nna asia, nnipa a wɔbɔɔ no Onyankopɔn suban so, Homeda home",
+   "q": "Mfiase no Onyankopɔn bɔɔ ɔsoro ne asase.",
+   "cite": "1 Mose 1:1",
+   "christ": "Wɔnam “Asɛm no” so na ɛbɔɔ wiase. Yohane Asɛmpa no ka sɛ saa Asɛm no yɛ Yesu no ankasa (Yohane 1:1-3).",
+   "detail": "<p>Bible no mfi nyansapɛ akyinnye so na mmom ɛfi nkaeɛ so: <b>“Mfiase no, Onyankopɔn…”</b> Wiase nyɛ nsiansa na mmom ɛyɛ Onyankopɔn ankasa adwuma.</p><ul><li><b>Onyankopɔn suban</b> · abɔde nyinaa mu, nnipa nko ara na wɔbɔɔ wɔn sɛ Onyankopɔn — sɛ wobehu no na wɔahwɛ wiase.</li><li><b>Home</b> · nnaason home no kyerɛ sɛ biribiara wie na asomdwoe (shalom) wɔ mu: “na ɛyɛ papa.”</li><li><b>Eden</b> · wiase ansa na ɛresɛe, baabi a Onyankopɔn ne nnipa nantew bom.</li></ul>",
+   "next": "Nanso saa nea ɛyɛ pɛ yi rebɛsɛe…"
+  },
+  {
+   "tag": "APAM DEDAW · ƆHAW NO FI ASE",
+   "title": "Asehwe no",
+   "date": "Mfiase no",
+   "one": "Bɔne baa mu, na abusuabɔ a ɛda nnipa ne Onyankopɔn ntam no twae.",
+   "people": "Adam ne Hawa; ɔwɔ no (Satan)",
+   "events": "Wodi aduaba a wɔabra no, wopam wɔn fi Eden, owu ne ɔbrɛ ba mu",
+   "q": "Mede ɔtan bɛtowo ne ɔbea none … Ɔno na ɔbɛbɔ wo ti.",
+   "cite": "1 Mose 3:15",
+   "christ": "Asɛmpa bɔhyɛ a edi kan, a wɔde mae wɔ asehwe no akyi pɛɛ: “ɔbea no aseni” bɛbɔ ɔwɔ no ti — na ɛno ne Yesu (1 Mose 3:15; Romafo 16:20; Galatifo 4:4).",
+   "detail": "<p>Denam asoɔden a ɛyɛ pɛ sɛ wɔbɛyɛ “sɛ Onyankopɔn” no so, bɔne baa wiase. Aba a efi mu no nyɛ mmara baako bu nko, na mmom <b>abusuabɔ a abubu</b>.</p><ul><li><b>Abusuabɔ a abubu</b> · ne Onyankopɔn (kohintaw), ne afoforo (sobobɔ), ne abɔde (nsɔe ne ɔbrɛ).</li><li><b>Owu</b> · kɔkɔbɔ a ɛse “owu na wubewu” no ba mu.</li><li><b>1 Mose 3:15</b> · nanso atemmu mfimfini no, nkwagye bɔhyɛ ba kan. Nimdefo frɛ no <b>protoevangelium (asɛmpa a edi kan)</b>.</li></ul>",
+   "next": "Afei Onyankopɔn frɛ ɔbarima baako fi ogyefosɛm no ase…"
+  },
+  {
+   "tag": "APAM DEDAW · BƆHYƐ NO",
+   "title": "Agyanom no",
+   "date": "bɛyɛ AKB 2000",
+   "one": "Onyankopɔn hyɛ Abraham bɔ sɛ, “Wobɛyɛ nhyira kwan.”",
+   "people": "Abraham · Isak · Yakob · Yosef",
+   "events": "Abraham apam, Isak afɔrebɔ, Yakob mma dumien, Yosef sɔre di tumi wɔ Misraim",
+   "q": "Mɛma wo ayɛ ɔman kɛse … Ɛnam wo so na wobehyira nnipa a wɔwɔ asase so nyinaa.",
+   "cite": "1 Mose 12:2-3",
+   "christ": "Bɔhyɛ a ɛse “wobehyira nnipa nyinaa” no ba mu wɔ Yesu, Abraham aseni no mu (Galatifo 3:16).",
+   "detail": "<p>Onyankopɔn fi ase di nnipa nyinaa ɔhaw no ho dwuma denam ɔbarima baako, <b>Abraham</b>, frɛ so. Emu titiriw ne <b>apam (bɔhyɛ)</b> — ɔman kɛse, asase, ne “nhyira ma nnipa nyinaa.”</p><ul><li><b>Gyidi</b> · Abraham gyee bɔhyɛ a wonhu no dii, na wɔbuu no sɛ treneeyɛ maa no (1 Mose 15:6).</li><li><b>Isak ne Yakob</b> · bɔhyɛ no kɔ so; Yakob (Israel) wo mmusuakuw dumien.</li><li><b>Yosef</b> · ne nuanom tɔn no nanso ɔsɔre di tumi — “Onyankopɔn adwene ne sɛ, ɛbɛdan ade pa” (1 Mose 50:20).</li></ul>",
+   "next": "Wodi Yosef akyi kɔ Misraim — na wɔbɛyɛ nkoa…"
+  },
+  {
+   "tag": "APAM DEDAW · OGYE",
+   "title": "Misraimfi tu ne sare so",
+   "date": "bɛyɛ AKB 1446",
+   "one": "Onyankopɔn gyee nkoa man na ɔyɛɛ wɔn ɔno ankasa de.",
+   "people": "Mose, Aaron, Farao",
+   "events": "Ɔhaw du, Twam Afahyɛ, Po Kɔkɔɔ no twa, Mmara Du wɔ Sinai, Ahyiae Ntamadan, mfe 40 wɔ sare so",
+   "q": "Megye wɔn ato mu sɛ me nkurɔfo na mayɛ wɔn Nyankopɔn.",
+   "cite": "2 Mose 6:7",
+   "christ": "Twam Afahyɛ, baabi a oguamma mogya yii owu fii hɔ no, kyerɛ Yesu, “yɛn Twam Afahyɛ Oguamma,” a wɔbɔɔ no asɛndua so maa yɛn (1 Korintofo 5:7).",
+   "detail": "<p>Apam Dedaw mu nkwagye a ɛso sen biara. Israel a na wɔyɛ nkoa no nya ahofadi denam Onyankopɔn tumi so na wɔyɛ no ne <b>nkurɔfo</b>.</p><ul><li><b>Twam Afahyɛ</b> · ofi a oguamma mogya wɔ ɔpon ano no, owu twa ho hyia — afɔrebɔ nyinaa a edii akyi no nhwɛso.</li><li><b>Po Kɔkɔɔ</b> · nkwagye baabi a ɔkwan asa; “twa kɔ ne fa” bɛyɛ mfiase foforo nsɛnkyerɛnne.</li><li><b>Sinai apam</b> · denam Mmara no so wosua sɛnea wɔbɛtena ase sɛ Onyankopɔn nkurɔfo.</li><li><b>Ahyiae Ntamadan</b> · kronkronbea a wotumi soa a Onyankopɔn te nkurɔfo no mu — “Immanuel” no kan nhwɛso.</li><li><b>Mfe 40</b> · asoɔden ma awo ntoatoaso baako kyinkyin sare so, nanso Onyankopɔn ka wɔn ho denam mana ne omununkum ne ogya fadum so.</li></ul>",
+   "next": "Wogyina bɔhyɛ asase no ano resiesie wɔn ho sɛ wɔbɛkɔ mu…"
+  },
+  {
+   "tag": "APAM DEDAW · ATENAE",
+   "title": "Asasegye ne atemmufo",
+   "date": "bɛyɛ AKB 1400–1050",
+   "one": "Wonyaa asase no, nanso esiane sɛ na ɔhene nni hɔ nti obiara yɛɛ nea ɔpɛ.",
+   "people": "Yosua; atemmufo te sɛ Gideon ne Samson; Rut",
+   "events": "Yeriko asehwe, atenae wɔ Kanaan, bɔne–atemmu–ogye mmeae a ɛsan ba",
+   "q": "Saa bere no na Israel nni ɔhene, nti na nea nnipa no gye di sɛ eye wɔ wɔn ani so no na wɔyɛ.",
+   "cite": "Atemmufo 21:25",
+   "christ": "Rut aseni no mu na Dawid fi, na Dawid aseni no mu na Yesu fi (Mateo 1). Basabasayɛ no mu mpo, Mesia abusuadua no kɔ so.",
+   "detail": "<p>Yosua ase na wɔkɔ bɔhyɛ asase no mu, nanso wɔtena ase a ntɛm ara wɔn werɛ fi Onyankopɔn. Atemmufo nhoma yɛ saa nhwɛso koro no ara a ɛsan ba.</p><ul><li><b>Mmeae a esian</b> · bɔne → nhyɛso → su frɛ → ɔtemmufo gye → bɔne bio. Ɛkɔ kɔ bɔne mu.</li><li><b>Atemmufo</b> · Gideon, Samson, Debora — bere tiaa agyefo, akokodurufo nanso wɔn ho yɛ sintɔ.</li><li><b>Rut</b> · nokwaredi kanea wɔ bere a esum dɔɔ mu; ɔbea ɔnanani wura Dawid (ne Yesu) aseni mu.</li></ul>",
+   "next": "Nnipa no su frɛ sɛ, “Ma yɛn ɔhene nso!”…"
+  },
+  {
+   "tag": "APAM DEDAW · BERE A ƐSO",
+   "title": "Ahenni a ɛyɛ baako",
+   "date": "bɛyɛ AKB 1050–930",
+   "one": "Onyankopɔn hyɛ Dawid bɔ sɛ, “Wʼahengua betim daa.”",
+   "people": "Saul · Dawid · Salomo",
+   "events": "Ɔhene a odi kan Saul, Dawid ne Goliat, Dawid apam, Salomo si asɔredan",
+   "q": "Wo fi ne wʼahenni betim wɔ mʼanim afebɔɔ; na wʼahengua betim daa nyinaa.",
+   "cite": "2 Samuel 7:16",
+   "christ": "“Ahengua a etim daa” no ba mu wɔ Yesu, Dawid ba no mu — enti na wɔfrɛ no “Dawid Ba” no (Luka 1:32-33; Mateo 1:1).",
+   "detail": "<p>Israel bere a ɛso, a ahene baasa di so.</p><ul><li><b>Saul</b> · ɔhene a edi kan a nnipa no srɛe; mfiase pa a asoɔden sɛee.</li><li><b>Dawid</b> · “onipa a ɔne Onyankopɔn koma hyia.” Odi Goliat so na ɔyɛ Yerusalem ahenkurow. Ɔyɛ bɔne kɛse (Batseba) nanso ɔnu ne ho fi koma mu (Nnwom 51).</li><li><b>Dawid apam (2 Samuel 7)</b> · Onyankopɔn hyɛ bɔ sɛ ɔbɛma Dawid ahenni atim daa — Mesia anidaso ntin titiriw.</li><li><b>Salomo</b> · nyansa ne ahonya soro tɔ no, osi <b>asɔredan</b> wɔ Yerusalem, nanso awiei no ɔdan kɔ abosonsom mu.</li></ul>",
+   "next": "Salomo akyi no, ahenni no mu paapae abien…"
+  },
+  {
+   "tag": "APAM DEDAW · NKWANTABISA",
+   "title": "Ahenni a emu paee",
+   "date": "AKB 930–586",
+   "one": "Emu paee anafo (Yuda) ne atifi (Israel), na ɔman no sɛee nkakrankakra.",
+   "people": "Ahenni abien no ahene; adiyifo te sɛ Elia, Yesaia, Yeremia",
+   "events": "Ahenni no mu paapae, abosonsom, adiyifo kɔkɔbɔ",
+   "q": "Israel mmusuakuw a wɔwɔ atifi fam no ampene sɛ Dawid aseni biara bedi wɔn so, de besi nnɛ.",
+   "cite": "1 Ahemfo 12:19",
+   "christ": "Saa bere yi mu na adiyifo no hyɛ Mesia a ɔreba no ho nkɔm pefee kɔ so (Yesaia 9:6; Yesaia 53).",
+   "detail": "<p>Salomo ba bere so na ɔman no mu paee: <b>atifi fam Israel</b> (mmusuakuw 10, ahenkurow Samaria) ne <b>anafo fam Yuda</b> (mmusuakuw 2, ahenkurow Yerusalem).</p><ul><li><b>Israel (atifi)</b> · ne ahene nyinaa som ahoni; ɔhwe ase Asiria anim wɔ AKB 722.</li><li><b>Yuda (anafo)</b> · Dawid aseni no kɔ so, a ahene pa kakra te sɛ Hesekia ne Yosia wɔ mu, nanso ne nyinaa mu no esian.</li><li><b>Adiyifo no</b> · Elia, Amos, Yesaia, Yeremia su sɛ “monsan mmra!” Mesia ho nkɔm dɔɔso wɔ ha (Yesaia 53 “ɔsomfo a ɔrehu amane” no).</li></ul>",
+   "next": "Awiei no atemmu a wɔbɔ ho kɔkɔ no ba — wɔfa wɔn nnommum…"
+  },
+  {
+   "tag": "APAM DEDAW · ATEMMU",
+   "title": "Nnommumfa no",
+   "date": "AKB 722 / 586",
+   "one": "Ɔman no hwe ase na wɔde nnipa no kɔ amannɔne.",
+   "people": "Daniel, Hesekiel, Nebukadnessar",
+   "events": "Israel hwe ase Asiria anim (722); Yuda hwe ase Babilonia anim na wɔsɛe asɔredan no (586)",
+   "q": "Babilonia nsubɔnten ho, ɛhɔ na yɛtena suubere a yɛkaee Sion no.",
+   "cite": "Nnwom 137:1",
+   "christ": "Abawpa bun mu tɔnn no, Yeremia hyɛ “apam foforo” ho bɔ (Yeremia 31:31) — apam no ankasa a Yesu sii wɔ Anwummeduan a etwa to no ase.",
+   "detail": "<p>Kɔkɔbɔ no ba mu. Asɔredan no hyew na wɔde nnipa no kɔ Babilonia — wɔhwere asase, ɔhene, ne asɔredan: ahokyere a ɛso sen biara.</p><ul><li><b>Asehwe mmienu</b> · Israel (Asiria, AKB 722) ne Yuda (Babilonia, AKB 586).</li><li><b>Daniel</b> · gyidi nhwɛso wɔ abosonsom ahemfi mpo (agyata amoa no); ohu “ahenni a etim daa” a ɛreba no anisoadehu.</li><li><b>Anidaso srandaka</b> · nnompe a awo a ɛsan nya nkwa ho anisoadehu (Hesekiel 37) ne Yeremia “apam foforo” no kyerɛ daakye wɔ sum mu.</li></ul>",
+   "next": "Mfe aduɔson akyi, Onyankopɔn bue ɔkwan — wɔsan kɔ fie…"
+  },
+  {
+   "tag": "APAM DEDAW · NSIESIE",
+   "title": "Nnommum no san ba",
+   "date": "AKB 538–430",
+   "one": "Wɔsan ba na wosi asɔredan ne afasu no.",
+   "people": "Ɛsra, Nehemia, Ɛster, Serubabel",
+   "events": "Wɔsan ba denam Kores mmara so, asɔredan si, Yerusalem afasu siesie, Asɛm no nsisi",
+   "q": "Awurade mu anigye no yɛ ahoɔden.",
+   "cite": "Nehemia 8:10",
+   "christ": "Malaki, Apam Dedaw nhoma a etwa to no, wie wɔ ɔbɔfo a obesiesie Mesia kwan ho nkɔmhyɛ so: “Mɛsoma me bɔfo” (Malaki 3:1).",
+   "detail": "<p>Denam Persia hene Kores mmara so (AKB 538) na nsanba no fi ase. Wɔsan ba mmrane abiɛsa mu na wosi nea asɛe no.</p><ul><li><b>Serubabel</b> · si asɔredan no (ɛwiei AKB 516).</li><li><b>Ɛsra</b> · kyerɛkyerɛ Asɛm no bio na onyan gyidi no.</li><li><b>Nehemia</b> · si Yerusalem afasu wɔ nna 52 mu.</li><li><b>Ɛster</b> · gye Yudafo a wɔwɔ Persia fi ɔsɛe mu — “hena na onim sɛ saa bere yi nti…?”</li><li><b>Osukɔm a ɛkɔ so</b> · asɔredan no gyina hɔ, nanso ɔhene te sɛ Dawid nni hɔ. Nnipa no twɛn Mesia no.</li></ul>",
+   "next": "Na afei… te sɛ ɔsoro ayɛ dinn, mfe 400 twa mu."
+  },
+  {
+   "tag": "APAM AHORW NTAM · WƆSIESIE ASƐM NO",
+   "title": "Mfe a ɛyɛ dinn",
+   "date": "bɛyɛ AKB 430–4",
+   "one": "Mfe 400 a odiyifo nne nni hɔ — nanso wɔresiesie asɛm no komm.",
+   "people": "Aleksandro Kɛse, Makabefo, Roma",
+   "events": "Persia → Hela → Makabefo ahofadi → Roma nniyɛ",
+   "q": "Nanso bere pa no dui no, Onyankopɔn somaa ne Ba a ɔbea woo no wɔ Mmara ase.",
+   "cite": "Galatifo 4:4",
+   "christ": "Saa “asɛm no siesie” yi nyinaa yɛ Onyankopɔn adwuma sɛnea Yesu bɛba pɛpɛɛpɛ wɔ “bere pa” mu.",
+   "detail": "<p>Efi Malaki kosi Apam Foforo no, bɛyɛ mfe 400 twa mu a Bible asɛm foforo nni hɔ. Nanso abakɔsɛm akyi no, na Onyankopɔn resiesie asɛmpa no kwan.</p><ul><li><b>Ahemman sesa nsa</b> · Persia → Hela (Aleksandro, AKB 333) → Misraim ne Siria → Makabefo ɔtua (AKB 167) → Roma (AKB 63).</li><li><b>Hela kasa</b> · Aleksandro nkonimdi maa Hela kasa yɛɛ kasa a wɔn nyinaa ka; wɔkyerɛɛ Apam Dedaw no Hela kasa mu (Septuagint), bue kwan ma asɛmpa no trɛw ntɛm.</li><li><b>Roma akwan ne asomdwoe</b> · akwan pa ne “Pax Romana” no bɛyɛ asɛmpa kwan.</li><li><b>Hyiadan ne akuw</b> · hyiadan mu nkyerɛkyerɛ tim; Farisifo ne Sadukifo ba, na <b>Mesia ho ɔpɛ</b> nyin.</li></ul>",
+   "next": "Na sɛ dinn no twa mu a, awiei no ɔba."
+  },
+  {
+   "tag": "APAM FOFORO · MMAMU",
+   "title": "Yesu ba",
+   "date": "bɛyɛ AKB 4–AKA 30",
+   "one": "Mesia a wɔhyɛɛ ne bɔ no bae, wui, na ɔsɔre bio.",
+   "people": "Yesu, asuafo dumien, Osuboni Yohane",
+   "events": "Onipayɛ, ne som ne nkyerɛkyerɛ ne anwonwade, owu wɔ asɛndua so, owusɔre da a ɛto so abiɛsa",
+   "q": "Asɛm no bɛyɛɛ onipa ne yɛn bɛtena … a adom ne nokware ahyɛ no ma.",
+   "cite": "Yohane 1:14",
+   "christ": "Ɔbea no aseni (asɛm 2), Abraham nhyira (3), Twam Afahyɛ Oguamma (4), Dawid ɔhene a etim daa (6), apam foforo (8) — ne nyinaa ba mu wɔ onipa baako, Yesu, mu: yɛn nokware Odiyifo, Ɔsɔfo, ne Ɔhene.",
+   "detail": "<p>Dinn no twa mu; Nea wɔhyɛɛ ne bɔ no ba. Asɛmpa anan no di Yesu nkwa, owu, ne owusɔre ho adanse fi afaafa anan.</p><ul><li><b>Onipayɛ</b> · Onyankopɔn bɛyɛɛ onipa (Immanuel, “Onyankopɔn ne yɛn wɔ hɔ”), wɔ Betlehem mmerɛwyɛ mu.</li><li><b>Som</b> · ɔkyerɛkyerɛ Onyankopɔn ahenni, ɔsa nyarewa, ɔfrɛ nnebɔneyɛfo. “Nea wahu me no, wahu Agya no.”</li><li><b>Asɛndua no</b> · otua bɔne ne owu a asehwe no (asɛm 2) de baa no ho ka si yɛn anan mu. Twam Afahyɛ Oguamma ankasa.</li><li><b>Owusɔre</b> · ɔsɔre da a ɛto so abiɛsa na obubu bɔne, owu ne Satan tumi — asɛndua no so dedaw na “Kristo dii mpanyinni ne tumidi nyinaa so … bere a ɔhyɛɛ ne nkonimdi ho fa no” (Kolosefo 2:15).</li></ul><p>Enti Yesu yɛ yɛn <b>nokware Odiyifo</b> (ɔkyerɛ Onyankopɔn kwan), yɛn <b>nokware Ɔsɔfo</b> (ɔde ne nipadua ankasa pata bɔne), ne yɛn <b>nokware Ɔhene</b> (odi bɔne, owu ne Satan so na odi hene daa).</p>",
+   "next": "Yesu a wasɔre soma nʼasuafo kɔ wiase…"
+  },
+  {
+   "tag": "APAM FOFORO · ƆTRƐW",
+   "title": "Asɔre no fi ase",
+   "date": "bɛyɛ AKA 30–",
+   "one": "Honhom no ba, na asɛmpa no trɛw kosi asase ano.",
+   "people": "Petro, Paulo, asɔre dedaw no",
+   "events": "Honhom no ba Pentekoste, asɔre no wo, asɛmpa fi Yerusalem kosi Roma denam ɔtaa so",
+   "q": "Na sɛ Honhom Kronkron no ba mo so a, mubenya tumi na moayɛ me nnansefo wɔ Yerusalem … de kosi asase ano.",
+   "cite": "Asomafo 1:8",
+   "christ": "Saa asɛm yi da so kɔ so nnɛ. Bible no wie wɔ bɔhyɛ sɛ Yesu bɛsan aba na wayɛ biribiara foforo no so (Adiyisɛm 21).",
+   "detail": "<p>Yesu foro kɔ soro akyi no, Honhom a wɔhyɛɛ ne bɔ no ba Pentekoste na asɔre no wo. Asɛmpa no trɛw ntɛmntɛm.</p><ul><li><b>Pentekoste</b> · denam Honhom no so, asuafo a na wosuro no bɛyɛ adansefo a wɔn bo yɛ duru.</li><li><b>Petro</b> · ka asɛmpa kyerɛ Yudafo wɔ Yerusalem.</li><li><b>Paulo</b> · fi ɔtaafo bɛyɛ ɔsomafo; ɔbɔ asɔre wɔ amanaman wiase na ɔkyerɛw nkrataa.</li><li><b>Kosi asase ano</b> · Yerusalem → Yudea → Samaria → Roma. Bɔhyɛ a wɔhyɛɛ Abraham wɔ “nnipa nyinaa” ho no ba mu.</li><li><b>Na yɛn</b> · asɛm no nnwie; ɛkɔ so kɔ Yesu mmaeprenu ne ɔsoro ne asase foforo no so.</li></ul>",
+   "next": "Nanso asɛm no nnwie ha…"
+  },
+  {
+   "tag": "APAM FOFORO · MMAMU AWIE",
+   "title": "Nsiesie (biribiara foforo)",
+   "date": "ɛreba",
+   "one": "Yesu san ba na ɔyɛ biribiara foforo.",
+   "people": "Yesu a ɔresan aba; amanaman nyinaa",
+   "events": "Mmaeprenu, atemmu a etwa to, bɔne·owu·nusu awiei, ɔsoro ne asase foforo",
+   "q": "Na ɔbɛpepa wɔn aniwa mu nusu nyinaa. Na owu nni hɔ bio, na awerɛhow ne osu ne yaw nni hɔ bio.",
+   "cite": "Adiyisɛm 21:4",
+   "christ": "Abɔde a edi kan Eden no san ba awiei sɛ “Yerusalem Foforo.” Onyankopɔn ne ne nkurɔfo tena daa — Immanuel no mmamu (Adiyisɛm 21:3; Mateo 1:23).",
+   "detail": "<p>Bible no nnwie wɔ asɔre bere mu. Ne nhoma a etwa to, Adiyisɛm, kyerɛ Yesu sɛ <b>ɔresan aba</b> bɛwie biribiara.</p><ul><li><b>Mmaeprenu</b> · ɔhene a wɔhyɛɛ ne bɔ no san ba wɔ anuonyam mu.</li><li><b>Nkonimdi a etwa to</b> · wɔsɛe Satan ne owu daa, na Kristo di hene sɛ ahene mu Hene (1 Korintofo 15:25-26; Adiyisɛm 20:10).</li><li><b>Atemmu ne owusɔre</b> · wɔteɛ nea ɛnteɛ nyinaa, na wonyan awufo.</li><li><b>Ɔsoro ne asase foforo</b> · bɔne, owu, nusu ne yaw yera daa (Adiyisɛm 21:4).</li><li><b>Eden a wɔasan asi</b> · wɔ “Yerusalem Foforo” a eye sen mfiase no mu, Onyankopɔn ne ne nkurɔfo tena daa — baabi a Bible no nyinaa rekɔ.</li></ul><p>Enti seesei yɛ <b>“aba dedaw, nanso ennya mma”</b> bere: Yesu mu no nkwagye <b>aba dedaw</b>, nanso ne mmamu da so <b>retwɛn</b>.</p>",
+   "next": "Ɛnde saa asɛm yi nyinaa kyerɛ dɛn ma “me”?"
+  }
+ ],
+ "love": [
+  "Asɛm no mfi ase wɔ atemmu so na mmom wɔ abɔde a wɔde ɔdɔ hwiee gui so.",
+  "Bere a nnipa yɛɛ bɔne pɛ no, Onyankopɔn hyɛɛ nkwagye ho bɔ wɔ hɔ ara.",
+  "Onyankopɔn dii kan baa nea ɔmfata nkyɛn, frɛɛ no ne din, na ɔyɛɛ no nhyira kwan.",
+  "Ɔtee nkoa man no apinisi na ɔno ankasa sian baa fam bɛgyee wɔn.",
+  "Ɛmfa ho sɛ woyii no mu mpɛn pii a, bere biara a wɔsu frɛɛ no, ɔsomaa ogyefo na ɔmaa wɔn so.",
+  "Wammu Dawid a wahwe ase mpo gu; na ɔnam ne so hyɛɛ ɔhene a ɔbɛtena hɔ daa ho bɔ.",
+  "Nnipa a wɔdan wɔn akyi kyerɛɛ no no, ɔkɔɔ so somaa adiyifo srɛɛ sɛ, “Mesrɛ wo, san bra fie.”",
+  "Ɔne wɔn sian kɔɔ nnommumfa asase a esum dɔ mu mpo, na ɔhyɛɛ nsiesie ho bɔ.",
+  "Nnipa a wodii nkogu mpɛn pii mpo no, wammɛsan ne bɔhyɛ no, na mmom ɔsan maa wɔn so.",
+  "Mfe 400 a ɛyɛ dinn no mu mpo, a wonhu no, na ɔresiesie nkwagye kwan.",
+  "Bere a na yɛyɛ nnebɔneyɛfo no, ɔsomaa ne Ba na ɔde ne nkwa too hɔ.",
+  "Ɔdɔ a yenyae no, afei ɔde rehwie agu wiase nyinaa so.",
+  "Awiei no ɔbɛpepa nusu nyinaa na ɔde ɔdɔ ayɛ biribiara foforo."
+ ],
+ "mis": [
+  {
+   "w": "“Adɛn nti na Onyankopɔn bɔɔ onipa a obetumi ayɛ bɔne? Anka ɛnyɛ papa sɛ wammɔ yɛn koraa ana?”",
+   "t": "Onyankopɔn ammɔ wiase ne nnipa esiane sɛ biribi ho hia no na mmom esiane ɔdɔ a ɛhwie gui. Sɛ ɔbɔɔ nnipa sɛ <b>nnipa a wɔne Onyankopɔn wɔ abusuabɔ</b> no yɛ ɔdɔ ankasa. Na bɔne a ɛbaa mu mpo nni Onyankopɔn nkwagye nhyehyɛe akyi (Efesofo 1:4-5). Bible no asɛm a edi kan no nyɛ atemmu na mmom ɔdɔ."
+  },
+  {
+   "w": "“Wɔpam no na wɔma no owu esiane aduaba baako a odii nti — ɛnyɛ Onyankopɔn ano yɛ den dodo ana?”",
+   "t": "Sɛ wɔpaa no fii Eden no yɛ atemmu ne mmɔborohunu nso. Sɛ wɔatew no afi Onyankopɔn ho wɔ saa tebea a abubu no mu na odi nkwa dua no aba na ɔtena ase daa a, anka ɔbɛhyɛ amanehunu mu afebɔɔ (1 Mose 3:22). Sɛ ɔmaa owu kwan no, na obuee kwan a wɔde san ba, na wɔ hɔ ara na Onyankopɔn hyɛɛ Ogyefo ho bɔ (1 Mose 3:15). Ɔdɔ na na ɛwɔ atemmu no mu dedaw."
+  },
+  {
+   "w": "“Wɔyii Abraham esiane ne gyidi kɛse nti — ɛnyɛ Bible mu nnipa nyinaa yɛ abrabɔ pa akokurokofo ana?”",
+   "t": "Abraham nso dii atoro na ɔyɛɛ akyinnye, na Yakob yɛ ɔdaadaafo. Onyankopɔn amfrɛ “wɔn a wɔfata” na mmom ɔnam adom so frɛɛ wɔn a wɔnyɛ pɛ. Nea enti a oyii wɔn no nyɛ wɔn papayɛ na mmom Onyankopɔn ɔdɔ a ɛyɛ nokware (5 Mose 7:7-8)."
+  },
+  {
+   "w": "“Ɛnyɛ Mmara no (mmaransɛm no) yɛ sɔhwɛ anaa gyinabea a ɛsɛ sɛ wudi so na woanya nkwagye ana?”",
+   "t": "Onyankopɔn gyee wɔn <b>ansa</b> na ɔde Mmara no maa wɔn. Mmaransɛm Du no fi ase wɔ nkwagye nkaeɛ so: “Mene Awurade, mo Nyankopɔn, a miyii mo fii nkoasom mu wɔ Misraim no” (2 Mose 20:2). Mmara no nyɛ “di so na woanya nkwagye” na mmom ɛyɛ ɔdɔ akwankyerɛ a ɛfa sɛnea wɔn a adom agye wɔn dedaw no bɛtena ase (5 Mose 7:7-9). Bere biara adom na edi kan; osetie yɛ mmuae."
+  },
+  {
+   "w": "“Kanaan asasegye no yɛ atirimuɔden kunkum — enti Apam Dedaw mu Onyankopɔn no yɛ otirimuɔdenfo ankasa.”",
+   "t": "Eyi yɛ asɛm a wontumi nni ho dwuma wɔ kasasin baako mu na ɛhwehwɛ ahwɛyiyie. Nanso Bible no mfa no sɛ basabasa basabasayɛ na mmom sɛ atemmu wɔ amumɔyɛ a ano yɛ den (a mma afɔrebɔ ka ho) mfe pii akyi, abodwokyɛre pii akyi (1 Mose 15:16; 5 Mose 9:4-5; 3 Mose 18:24-25). Onyankopɔn nyɛ ntɛm wɔ atemmu mu mpo, na nea ɔdan ba ne nkyɛn no, ogye no fɛw so, ɔnanani mpo, te sɛ Rahab ne Rut (Yosua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“Dawid yɛ ɔkokurokoni a sintɔ nni ne ho — ɛno nti na wɔfrɛɛ no ‘onipa a ɔne Onyankopɔn koma hyia’ no.”",
+   "t": "Dawid bɔɔ aguaman na okum onipa mpo. “Onipa a ɔne Onyankopɔn koma hyia” nkyerɛ sɛ ɔyɛ pɛ, na mmom obi a wamfa ne bɔne ansie — ɔnuu ne ho fi koma mu na ɔsan baa Onyankopɔn nkyɛn bere biara (Nnwom 51). Onyankopɔn dɔ ntow wɔn a wɔhwe ase denneennen mpo nkyene."
+  },
+  {
+   "w": "“Odiyifo yɛ nkɔmhyɛni a ɔka daakye / Apam Dedaw mu Onyankopɔn no bo nko ara na ɛfuw.”",
+   "t": "Odiyifo koma titiriw nyɛ “daakye ho nkɔmhyɛ” na mmom Onyankopɔn su a efi koma mu sɛ: “Mesrɛ wo, san bra.” Atemmu ho kɔkɔbɔ mpo, ne botae nyɛ sɛ ɔbɛsɛe na mmom sɛ ɔbɛdan nnipa na wɔanya nkwa — “mʼani nnye amumɔyɛfo wu ho” (Hesekiel 33:11)."
+  },
+  {
+   "w": "“Nnommumfa no kyerɛ sɛ Onyankopɔn gyaa Israel koraa.”",
+   "t": "Nnommumfa no nyɛ gyaegyae na mmom Agya nteɛso ne ahodwira a ɛkɔ ɔba a ɔdɔ no so (Hebrifo 12:6). Onyankopɔn ankɔ; ɔne Daniel wɔ nnommumfa no mfimfini na ɔhyɛɛ bɔ sɛ: “Minim nhyehyɛe a mewɔ ma mo … nhyehyɛe a ɛbɛma mo anidaso ne awiei pa” (Yeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Sɛ mfe 400 mu na asɛm biara amma a, ɛnyɛ sɛ Onyankopɔn kɔe anaa na ɔrehome ana?”",
+   "t": "Dinn nyɛ sɛ obi nni hɔ. Wankasa nko ara; saa bere no nyinaa mu na ɔrekanyan ahemman, kasa ahorow, ne akwan de resiesie nkwagye no asɛm. Bere a ɛyɛ dinn koraa no mu, na Onyankopɔn reyɛ adwuma den sen biara, wɔ ɔdɔ mu (Galatifo 4:4)."
+  },
+  {
+   "w": "“Yesu yɛ abrabɔ pa kyerɛkyerɛfo baako pɛ / asɛndua no yɛ nkogu a ɛyɛ awerɛhow.”",
+   "t": "Yesu kaa sɛ ɔno ankasa yɛ Onyankopɔn (Yohane 8:58), na asɛndua no nyɛ asiane anaa nkogu na mmom ɔdɔ a wɔahyehyɛ. Wɔantwe no ankɔ hɔ wɔ ahooden mu; ɔno ara de ne nkwa too hɔ (Yohane 10:18). “Ɔdɔ biara nsen sɛ obi bewu ama ne nnamfonom” (Yohane 15:13)."
+  },
+  {
+   "w": "“Asɔre yɛ nyamesomfo a wɔyɛ pɛ kuw, anaa ɛyɛ dan kɛkɛ.”",
+   "t": "Asɔre nyɛ “ahotefo a wɔayɛ pɛ” kuw na mmom <b>nnebɔneyɛfo a wɔde wɔn bɔne akyɛ wɔn</b> kuw. Ɔsomafo Paulo mpo frɛɛ ne ho “ɔdebɔneyɛni a odi kan koraa” (1 Timoteo 1:15). Asɔre dedaw no nso gyee akyinnye na wohwehwee (Asomafo 6:1; 1 Korintofo 1:11). Ɛnyɛ baabi a wɔde hoahoa wɔn ho, na mmom nnipa a wɔde ɔdɔ a wɔanya no rekɔ so (Yohane 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Bɔne a wɔde wo no — obiara nyɛ ɔtreneeni",
+   "body": "Ɔhaw no nyɛ “nneyɛe bɔne kakra” na mmom koma no ntin. Efi Adam, wɔwo obiara wɔ bɔne ase na wontumi nnu Onyankopɔn nkyɛn wɔ wɔn ankasa so.",
+   "vref": "Romafo 3:10-12, 23",
+   "vtext": "Obiara nyɛ ɔtreneeni … Na nnipa nyinaa ayɛ bɔne ama Onyankopɔn anuonyam abɔ wɔn.",
+   "_vref_note": "Romafo 3:10-12, 23"
+  },
+  {
+   "title": "Mmara no ntumi nnye me nkwa",
+   "body": "Mmara no nyɛ atweri na mmom ahwehwɛ. Sɛ wobɔ mmɔden pii a, ɛno ara na ɛkyerɛ sɛnea wudi nkogu. Ne botae ne sɛ ɛde yɛn bɛkɔ Kristo nkyɛn.",
+   "vref": "Romafo 3:20 · Galatifo 3:24",
+   "vtext": "Nea mmara no yɛ ara ne sɛ, ɛma onipa hu sɛ wayɛ bɔne … Mmara no na ɛhyɛɛ yɛn so kosii sɛ Kristo bae."
+  },
+  {
+   "title": "Adom so — akyɛde, ɛnyɛ mmɔdenbɔ",
+   "body": "Nkwagye nyɛ akatua a wɔde tua adwuma a woayɛ ho ka na mmom ɛyɛ Onyankopɔn akyɛde ma wɔn a wɔmfata. Enti obiara ntumi nhoahoa ne ho.",
+   "vref": "Efesofo 2:8-9",
+   "vtext": "Ɛyɛ adom no nti na wɔnam gyidi so agye mo nkwa … Emfi nnwuma mu, na obi de ahoahoa ne ho."
+  },
+  {
+   "title": "Gyidi so na wobu yɛn bem",
+   "body": "Ɛnyɛ Mmara no dii so, na mmom gyidi a yɛwɔ wɔ Yesu Kristo mu so na wobu yɛn bem — yɛnnhyɛ yɛn ankasa treneeyɛ na mmom ne de.",
+   "vref": "Romafo 5:1 · Galatifo 2:16",
+   "vtext": "Afei a ɛnam gyidi so ama Onyankopɔn abu yɛn bem no … ɛnam gyidi so na wobebu yɛn bem, na ɛnyɛ mmara no apɛde a yɛyɛ no so."
+  },
+  {
+   "title": "Bible no kyerɛ Yesu",
+   "body": "Bible no nyɛ nnipa akɛse abrabɔ nhoma anaa ankasa boa nhoma. Efi 1 Mose kosi Adiyisɛm, krataa biara di onipa baako ho adanse — Yesu Kristo.",
+   "vref": "Yohane 5:39 · Luka 24:27",
+   "vtext": "Saa Kyerɛwsɛm koro no ara di me ho adanse … ofii Mose ne adiyifo no so kyerɛkyerɛɛ wɔn nsɛm a ɛfa ne ho wɔ Kyerɛwsɛm no mu no nyinaa ase."
+  },
+  {
+   "title": "Onyankopɔn ahenni — Yesu asɛm titiriw",
+   "body": "Asɛm a Yesu kyerɛkyerɛɛ ho kɛse. Onyankopɔn ahenni a odi hene no baa wiase yi mu wɔ Yesu mu na ɛbɛwie wɔ ne mmaeprenu mu. Denam nʼasɛndua ne owusɔre so, Yesu yɛ Ɔhene ankasa a odii bɔne, owu, ne Satan so.",
+   "vref": "Marko 1:15",
+   "vtext": "Bere no awie du! Onyankopɔn ahenni no abɛn. Monsakra mo adwene na munnye asɛmpa no nni!"
+  },
+  {
+   "title": "Asɛmpa no — ɔwiee ne nyinaa",
+   "body": "Bɔne ho ka a na mintumi ntua no, Yesu tuaa wɔ me anan mu wɔ asɛndua so, na denam owusɔre so odii owu so. Migyina “mawie” so, ɛnyɛ “yɛ eyi” so.",
+   "vref": "Yohane 19:30 · Romafo 5:8",
+   "vtext": "Mawie … bere a yɛyɛ nnebɔneyɛfo no, Kristo wu maa yɛn."
+  }
+ ],
+ "books": {
+  "1 Mose": "GEN",
+  "2 Mose": "EXO",
+  "3 Mose": "LEV",
+  "4 Mose": "NUM",
+  "5 Mose": "DEU",
+  "Yosua": "JOS",
+  "Atemmufo": "JDG",
+  "Rut": "RUT",
+  "Ɛsra": "EZR",
+  "Nehemia": "NEH",
+  "Ɛster": "EST",
+  "Hiob": "JOB",
+  "Nnwom": "PSA",
+  "Mmebusɛm": "PRO",
+  "Ɔsɛnkafo": "ECC",
+  "Nnwom Mu Dwom": "SNG",
+  "Yesaia": "ISA",
+  "Yeremia": "JER",
+  "Kwadwom": "LAM",
+  "Hesekiel": "EZK",
+  "Daniel": "DAN",
+  "Hosea": "HOS",
+  "Yoɛl": "JOL",
+  "Amos": "AMO",
+  "Obadia": "OBA",
+  "Yona": "JON",
+  "Mika": "MIC",
+  "Nahum": "NAM",
+  "Habakuk": "HAB",
+  "Sefania": "ZEP",
+  "Hagai": "HAG",
+  "Sakaria": "ZEC",
+  "Malaki": "MAL",
+  "Mateo": "MAT",
+  "Marko": "MRK",
+  "Luka": "LUK",
+  "Yohane": "JHN",
+  "Asomafo": "ACT",
+  "Romafo": "ROM",
+  "Galatifo": "GAL",
+  "Efesofo": "EPH",
+  "Filipifo": "PHP",
+  "Kolosefo": "COL",
+  "Tito": "TIT",
+  "Filemon": "PHM",
+  "Hebrifo": "HEB",
+  "Yakobo": "JAS",
+  "Yuda": "JUD",
+  "Adiyisɛm": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Ahemfo": "1KI",
+  "2 Ahemfo": "2KI",
+  "1 Beresosɛm": "1CH",
+  "2 Beresosɛm": "2CH",
+  "1 Korintofo": "1CO",
+  "2 Korintofo": "2CO",
+  "1 Tesalonikafo": "1TH",
+  "2 Tesalonikafo": "2TH",
+  "1 Timoteo": "1TI",
+  "2 Timoteo": "2TI",
+  "1 Petro": "1PE",
+  "2 Petro": "2PE",
+  "1 Yohane": "1JN",
+  "2 Yohane": "2JN",
+  "3 Yohane": "3JN"
+ },
+ "yv": 1631,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

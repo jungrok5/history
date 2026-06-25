@@ -1,0 +1,420 @@
+{
+ "menuName": "Chokwe",
+ "htmlLang": "cjk",
+ "dir": "ltr",
+ "brand": "Mukanda wa Zambi mu Chikombakomba Chimwe",
+ "docTitle": "Mukanda wa Zambi mu Chikombakomba Chimwe · Kufuma ku Ubutukilo ndoo ku Eklezia",
+ "share": {
+  "title": "Mukanda wa Zambi mu Chikombakomba Chimwe",
+  "text": "Mu chikombakomba chimwe, mona sango linene lia Mukanda wa Zambi — ni mumu Yesu eziile."
+ },
+ "ui": {
+  "people": "Atu",
+  "events": "Yuma yinene yalingiwile",
+  "christLabel": "Yinakushindakenya Yesu",
+  "loveLabel": "Zango lize keshi kukehiyana ko",
+  "mythWrong": "Kanyingiko ka kuvulumuna",
+  "mythRight": "Umwenemwene",
+  "more": "Tanga hihiya",
+  "version": "(CHK1970)"
+ },
+ "labels": {
+  "start": "Ubutukilo",
+  "thread": "Sango",
+  "gospel": "Sango Jibema",
+  "about": "Hali yetu"
+ },
+ "s": {
+  "ui.share": "↗ Yana",
+  "ui.toast": "Jila yinakopiwa 📋",
+  "ui.footer": "Mukanda wa Zambi mu Chikombakomba Chimwe · Mazu a Mukanda wa Zambi kufuma ku CHK1970",
+  "hero.kicker": "KUFUMA KU UBUTUKILO NDOO KU EKLEZIA",
+  "hero.title": "Mukanda wa Zambi,<br><span class=\"em\">mu chikombakomba chimwe</span>",
+  "hero.sub": "Mu chikombakomba chimwe, mona sango linene lia Mukanda wa Zambi — ni mumu Yesu eziile.",
+  "hero.cue": "Komba hashi<span>↓</span>",
+  "thread.eyebrow": "MUKANDA UMWE WAKULIKWASA SANGO LIESWE HAMWE",
+  "thread.h2": "Ku songo, Mukanda wa Zambi sango limuwika kaha",
+  "thread.flow": "<b>Chilakanyino</b><span class=\"arw\">→</span><b>Kutalatala</b><span class=\"arw\">→</span><b>Kuheta</b>",
+  "thread.note": "Zambi <b>analakanyisa</b> (usendo), atu <b>anatalatala</b> tangwa linji, mba ku songo yuma yeswe <b>yinakuheta</b> ni kumana mu Yesu. Landa yikombakomba 13 yili hashi mu jila yino — kwacha <b>“Tanga hihiya”</b> ha kadi keswe hanga wivwe sango lialihiana.",
+  "gospel.eyebrow": "YIZE SANGO LINO LINAKULUMBUNUNA KULI “YAMI”",
+  "gospel.h2": "Mbunge yamwenemwene ya Mukanda wa Zambi",
+  "gospel.lead": "Mukanda wa Zambi <b>keshi mukanda wa kunangula “kupwa mutu wamwenemwene” ko.</b>",
+  "gospel.sublead": "Sango lia mwe Zambi, <b>ku utu wenyi kaha</b>, hanalamwina akwa shili waze keshi kuhasa kulilamwina avene. Ha mbunge yenyi muili Yesu Kristu.",
+  "gospel.mirror": "<h3>Chiyululo cha Israele chize keshi kumana hi chimweso cha “yami”</h3><div class=\"cycle\"><b>Kufukama yitumbo</b><span class=\"a\">→</span><b>Lamba</b><span class=\"a\">→</span><b>Kutambika</b><span class=\"a\">→</span><b>Zambi analamwina</b><span class=\"a\">→</span><b>Kufukama yitumbo nawa…</b></div><p>Kufuma ku Akwa Kuyula ndoo ku undungo, Israele yinakwululula chiyululo chino kwehi songo. Mukanda wa Zambi keshi kuchisoneka hanga tutonyene ngwetu, “Ji pepeulu chinyi.”</p><p>Chili <b>chimweso</b>. Sango keshi “Israele yalingile chino” ko alioze <b>“yami nguakulinga chochene”</b> (1 Korintu 10:11).</p><p><b>Chitumbo</b> keshi yitwa yakuhonga kaha ko. Chili <b>yuma yeswe yize twazanga hanji twatachila kuhiana Zambi</b> — mbongo, kutwala usena, kumona uwahililo kuli atu, atu, hanji yami mwene. Ni kuzachisa Zambi ngwe <b>chuma cha kuwana yize nguazanga</b> nawa chili kufukama yitumbo.</p><p class=\"punch\">Ku songo, chitumbo chinene chili “yami mwene, nguatwama ku chitwamo cha Zambi.”</p>",
+  "gospel.coreIntro": "Chocho, kuli ngachilihi Zambi akulamwina mukwa shili wamwetu? Hano hi mbunge ya Sango Jibema jize Mukanda wa Zambi jinakwambujola.",
+  "gospel.crux": "<p class=\"crux-lead\">Mukanda wa Zambi weswe unakushindakenya hashi himwe kaha.</p><p>Atu kaahashile kukehesa chiyululo cha shili avene, ni mukwa ululi kashile niumwe ko. Chocho mutu umwe atele <b>kufweta lifuto ha chihela cha akwo</b>.</p><p>Yesu keshi keza kunangula yuma yibema kaha ko. Mumu jila yikwo ya kungulamwina kashile ko, <b>yatela kwiza.</b></p><p class=\"crux-punch\">Yoze atele kufwa ku lusu lize hi <b>yami</b>.<br>Yesu yambachile <b>shili yami</b> mba aamuhongele ku lusu ha chihela chami.</p><div class=\"crux-verse\">“Alioze Zambi yamulemeka mumu ha milonga yetu, yamulamba mumu ha ungulungulu wetu … kanatuhindwisa ku mijiji yenyi.” — Izaya 53:5</div>",
+  "faq.h": "Uchili nakulisheka ni chuma chimwe?",
+  "faq.q1": "<span class=\"arr\">▸</span> Chocho mukwa kushiha mutu hanga afuliele kaha, mba aye ku mwilu, mba mutu wamwetu yatwaminyine kanawa miaka yeswe alioze keshi kufuliela aye ku ulima?",
+  "faq.a1": "<p>Chili chihula chiwape. Alioze kunyingiko jali jivali jinaswamana mwenamo.</p><p><b>① Mukanda wa Zambi keshi kuhandununa atu mu “wamwetu ni wabi” ko.</b> Chizachiso keshi “kuhiana mukwo” ko, alioze “undundo wamwenemwene wa Zambi.” Ku meso jenyi, niumwe keshi “wamwetu chinji” ko (Roma 3:23). Chocho hi keshi “mutu wamwetu ni mukwa kushiha” ko, alioze ngwe atu avali ali ni kukola chimuwika cha kufwa — umwe yatambula uko, mukwo yauhona, ngwenyi, “Ngunakola kanawa kuhiana yoze.”</p><p><b>② Chuma chimuwika kaha chinakuhandununa mwilu ni ulima.</b> Hi keshi yizachiso ya yitanga ko, alioze <b>nyi wanatambula Yesu Kristu ngwe Mwene ni nyi shili yenyi hiyanamanunuka.</b> Yoze shili yenyi yinamanunuka ku manyinga a Kristu mukaya ku mwilu; yoze keshi kumutambula, shili yenyi yinakushala, keshi kuya ko. Yitanga yibema kechi yikuhasa kumanununa shili yenwene ko.</p><p>Chocho mwilu ni ulima hi keshi “lifuto lia yitanga yibema” ko, alioze chuma cha <b>ungunzo ni Kristu</b>. Ni “kufuliela” hi keshi kwitayiza ku manyonga kaha ko, alioze kwalumuka cha yoze akuyula mwono — yoze anamutambula chamwenemwene keshi kupwa wa lifunga ko, alioze analumuka ku mbunge chinene. Chamwenemwene, <b>kulipwisa mukwa ululi</b> (“yami nguli wamwetu”) hi chitumbo cha kukalakala kukehesa, chize chinakutulingisa kuhindumuna ngwetu katuasakile Kristu ko (Luka 18:9-14).</p><p>Mukanda wa Zambi unakwamba pundu ngwo: <b>“Yoze wakufuliela mwe Mwana kechi kahia, alioze yoze keshi kufuliela hahia kulu, mumu kafulielele ko mwe Mwana umuwika wa Zambi”</b> (Yoano 3:18). Chiyulo keshi “kuzachisa mwono we ku songo” ko, alioze hichinatongwela lyehi ngolo ku <b>nyi watambwile Kristu.</b></p><p class=\"faq-v\">Roma 3:23 · Yoano 3:18 · Efesu 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Kanyi nguatwama kanawa kaha, chibwe ku kufuliela Yesu, hi chinakuheta ko?",
+  "faq.a2": "<p>Hi manyonga akwaviumba atu eswe, alioze keshi kunyingika ulemu wamwenemwene. Tutale chimweso.</p><p><b>Tongola ngwe uli mu watu wa akwa kuyiba ku kalunga.</b> Chibwe ujihise kanawa hanze, ulingise akwa zuwo kanawa, utwame mwono wamwape — uchili <b>mukwa kuyiba ku kalunga</b>, mumu uli mu watu uze unakuya ku chihela chenyi (chibandwilo cha chiyulo). Ulemu keshi “yizachiso ya yitanga ye” ko, alioze <b>“watu uchi ulinawo” (uize uli).</b></p><p>Chocho Sango Jibema keshi kwamba “sa ngolo ja kupwa wamwetu” ko; jinakwamba <b>“alumuka watu.”</b> Tuhuka ku watu wa shili mba uye kuli Yesu — ku uize wahiya wa <b>mwana wa Zambi.</b> Hi keshi kusongesa yizachiso ye ku ngolo ko, alioze kufuliela Yoze akuolola woko wenyi mba uye ku watu wenyi.</p><p>Chamwenemwene Mukanda wa Zambi unakulumbununa ulamwino ngwe kutuhuka chocho — <b>“Mwenawo hanatupulula ku tachi ja milima, hanatututulwila mu Wanangana wa Mwanenyi wa zango”</b> (Kolosu 1:13).</p><p>Kanda nuvulumuna: <b>hi keshi ngwetu kutwama kanawa keshi ulemu ko.</b> Uwape hi keshi “chuma cha kuheta” ulamwino ko, alioze <b>chimano</b> chenyi. Yoze analumuka watu twamba unakutwama kanawa keshi mumu ha woma ko, alioze mumu ha <b>zango lia mwana.</b></p><p class=\"faq-v\">Kolosu 1:13 · Yoano 1:12 · Yoano 3:3 · Efesu 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Nyi mukwa kulinga chibi wivwa kuwaha, ngwenyi “Zambi hananguechela,” muze wakuvulumwiwa uchili nakuyanda — uko kuechela kanda kukehe chinene?",
+  "faq.a3": "<p>Chihula chili chiwape, ni lamba lize lili lamwenemwene. Alioze kwamba chocho hi keshi “kuechela cha Mukanda wa Zambi” ko — chili <b>kuluwaza</b> cha kuechela.</p><p><b>① Kuechela cha Zambi kandafwila kukehe ko.</b> Shili keshi kuyiswama ngwe yize kayalingiwilile ko; Zambi mwene yafwetele lifuto lienyi ni mwono wa Mwanenyi. Lusu hi keshi chinjikijilo cha ngwo shili keshi chuma ko, alioze cha ulemu wenyi: kuechela cha lifuto linene chinji ku hashi heswe.</p><p><b>② Kwalumuka cha mwenemwene chinasolola chimano.</b> Nyi mukwa kulinga chibi wivwa kuwaha ku meso ja yoze wakuvulumwiwa — “Zambi hananguechela, chocho nguinakuwaha” — uko hi keshi kwalumuka ko, alioze kufwanyisa kaha (Mateu 3:8). Ni kuechela kachi ka mutu ni Zambi keshi kusumuna mijiji ya yoze wakuvulumwiwa ko, chibwe kumukinda achechele ko.</p><p><b>③ Shili kanda yifumbu kwehi ko.</b> Shili yeswe yinakufwetewa ku vihela vivali: <b>hanji Kristu yakuyimbata ku lusu</b> (kuli waze akumufuliela kuchi chiyulo nawa, Roma 8:1), <b>hanji yoze akuuhona ku songo akuyimbata mwene.</b> Chocho “kuechela cha lifuto linaha” kachatwama ko. Mukwa kulinga chibi nawa akuhana ululi wa hashi hano (Roma 13:1-4).</p><p><b>④ Masoji a yoze wakuvulumwiwa kandakehe ku meso ja Zambi ko.</b> Zambi anakulila ni waze akulila, anavuluka soji jeswe, mba ku songo iye mwene akakusumuna jo (Usolwelo 21:4). Chocho yoze wakuvulumwiwa kechi kambata ulemu wa kukala milonga umuwika ko, alioze mahasa kuuhana kuli Zambi wa ululi (Roma 12:19 — “‘Yami mungukakala milonga, yami mungukafwetesa yibi,’ Chenacho anambe Mwene Zambi”).</p><p class=\"faq-v\">Mateu 3:8 · Roma 8:1 · Roma 13:1-4 · Usolwelo 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Mukanda wa Zambi chamwenemwene sango liamwenemwene? Linafwana ngwe vukulukulu wa kalukulu hanji mukanda wa kutongola.",
+  "faq.a4": "<p>Chili chihula chiwape — ni chihela chiwape cha kuputuka. Kuhindumuna keshi chize chakulihiana ni ufulielo ko alioze kuzanga kutala yuma ni kwoloka. Mukanda wa Zambi keshi vukulukulu wa kufuliela kaha nyi uzanga ko, alioze unakwambujola hali <b>vihela, matangwa, ni atu amwenemwene.</b> Tutale yimwe yikehe.</p><p><b>① Hi mukanda umwe kaha ko, alioze “kalukulu wa mikanda” — alioze unakwenda ha mbunge yimuwika.</b> Mukanda wa Zambi kalukulu wa <b>mikanda 66</b> yasonekele ku <b>miaka 1.500 kuli atu 40</b> — mianangana, alami a mihako, akwa kufula yishi, mukwa kusongesa milambu, mukwa wuka, atu a chibanda chize chize ni a matangwa ize ize, asonekele alihandununa nikulihona kulinyingika, mu malimi atatu (Hebreu, Aramaiku, Greki). Alioze yeswe yinakwenda hamwe, ku undundo, ha <b>mbunge yimuwika: ulamwino mu Kristu.</b> Wenawo wakuwanyina wakukala kulumbununa nyi unakufuma ha luheto hanji ha manyonga a atu kaha.</p><p><b>② Unakulityamijiwa kufuma ku hashi (yipa).</b> Yuma yinji yize kalukulu te akuyiviumba ngwe yatongwele, “yiwaniwa mu Mukanda wa Zambi kaha,” yinji yo yinaholokela mu kwimba mahashi. <b>Usendo wa David</b> mumu ha litadi liasonekele “zuwo lia David”; <b>Pontiu Pilatu,</b> mwanangana yashihishile Yesu, mumu ha lisoneka liasoneka jina lienyi; ngonga ya meya ya mwanangana Hezekia (2 Yitanga Ya Mianangana 20:20), mumu ha ngonga yenyene ni lisoneka lienyi. Chibwe <b>akwa Hiti,</b> waze te avuluka ngwe “vungu lia kutongola,” yaholokela ngwe wanangana unene mu mahashi.</p><p><b>③ Hi lisoneka lia kalukulu liakulamiwa kanawa chinji (yisoneka).</b> Mu chivulu cha yisoneka yili nayo, mu kulitala chacho kachi ko, ni mu tangwa kachi ka kusoneka ni kukopia, Mukanda wa Zambi <b>kachikahasa kulisamba ni yisoneka ya kalukulu ko.</b> Chikombakomba cha Izaya chize chasonekele kanda Kristu eze, mukachi ka <b>Yisoneka ya Kalunga ka Kufwa</b> (yawaniwile mu 1947), chalitachile ni lisoneka liakulamwa ku miaka 1.000 kunyima nyichi kachi — chinjikijilo cha ngwo Mukanda wa Zambi walamiwile kanawa ku matangwa eswe.</p><p><b>④ Yize yasonekele tete yalingiwile chocho (kwambujola).</b> Mukanda wa Tete, wasonekele miaka yinji kanda Yesu eze, unakushindakenya pundu kusemuka chenyi ku Beteleme (Mika 5:2), kalama wa lamba (Izaya 53:5), ni yuma ya lusu (Miaso 22). Chinatela chinji kuchitonena ngwe chuma cha kuyiyana kaha.</p><p><b>⑤ Akwa sango ja kalukulu waze keshi a mu Mukanda wa Zambi nawa asonekele chacho.</b> Mukwa sango ja kalukulu wa Roma <b>Tachitu</b> ni mukwa sango ja Ayuda <b>Yosefu</b> — niumwe wo mukwa Kristu ko — anavuluka Yesu, kushiha chenyi, ni eklezia ya tete. Hakachi ka yeswe, ambaji waze te ahandunukine ha woma <b>ahanyine mwono wo</b> ku kwambujola kuhinduka — niumwe akufwila yize anyingika ngwo yamakuli ko.</p><p>Alioze, mu umwenemwene, yino yili yinjikijilo ya ngwo kufuliela Mukanda wa Zambi <b>keshi cha kuhona mana ko alioze cha mana</b>; hi keshi “chinjikijilo” chize chinakukinda ngwe luheto lia kutanga ko. Chocho ukashiso wa mukwa Kristu kechi kafuma ku yinjikijilo kaha ko, alioze ku <b>uvwililo uze Mwiku wa Linanga ahana ku mbunge muze mutu akuhengula Liji.</b> Mukanda wa Zambi unakwamba — <b>“Chocho ufulielo kuwakwiza ha kwivwa sango, ni je sango jili kwambujola Kristu”</b> (Roma 10:17). Chocho chibwe linafwana ngwe sango lia kutongola, <b>kuhengula liwene</b> hi ubutukilo. Yinjikijilo yinakusahula chihiluko, mba ukashiso unakukula mukachi ka yoze akuhengula.</p><p class=\"faq-v\">2 Yitanga Ya Mianangana 20:20 · Izaya 53:5 · Mika 5:2 · Roma 10:17</p>",
+  "respond.h3": "Chocho — kuli yami ngachilihi?",
+  "respond.sub": "Zango lino keshi sango ko alioze <b>kwitavila.</b> Nyi zango lize liahongele ha chihela che linakwacha mbunge ye, lomba lino chinjikinjiki, liji limuwika ha tangwa.",
+  "respond.prayer": "<p>A Zambi,</p><p>nguinatayiza ngwami nguli mukwa shili wakuhona kulilamwina.</p><p>Nguinafuliela ngwami Yesu yangufwila ku lusu mba yahinduka.</p><p>Ngwechele shili yami yeswe, mba kufuma musono upwe Mwene wa mwono wami.</p><p>Ngutambule ngwe mwana we, mba ngutwame mwono wahiya.</p><p class=\"amen\">Mu jina lia Yesu nguinalomba. Amene.</p>",
+  "respond.after": "Nyi unalomba chino ni mbunge yeswe, Mukanda wa Zambi unakwamba ngwo <b>unapwa mwana wa Zambi.</b> Kuchi uli wenwene ho — wana eklezia ya kwakamwihi mba ulande jila ya ufulielo hamwe ni akwo.",
+  "respond.read": "Henga Mukanda wa Zambi liwene — putuka ni Yoano",
+  "respond.verse": "“Alioze akwo yaalitambula, yaalifuliela. Kashika yiliaaha chiyulo cha kubwa ana ja Zambi.” — Yoano 1:12 · Roma 10:9-10",
+  "closing.main": "Zambi umuwika,<br>ku sango limuwika,<br>analutuwana ni <em>zango</em><br>lize keshi kukehiyana ko.",
+  "closing.verse": "“Nichimwe muchihasa kutuhandununa ku zango lienyi, chibwe kufwa, hanji mwono … chibwe yuma ya haliabwila, hanji yize muyiza ho … kutuhandununa ku zango lize Zambi hanatulweze muli Kristu Yesu, Mwene wetu.” — Roma 8:38-39",
+  "closing.small": "Ha sango lino, Shimbi, mikanda ya miaso, akwa munanyi, ni mikanda yinakuhakaho “musunyi.”<br>Kufuma musono, mukanda weswe uunazahula, munanyingika “kuze uli mu sango.”",
+  "closing.share": "↗ Yana sango lino",
+  "about.line": "Yuma yinashindamena ha <b>chimweso cha ulamwino, cha evanjeliku · cha reformede</b> chize eklezia yinji ya Koreya yinalitayiza.",
+  "about.contact": "Mahula · manyonga — <a id=\"contact\" class=\"mail\">Tutumina email</a>"
+ },
+ "epochs": [
+  {
+   "tag": "MUKANDA WA TETE · UBUTUKILO",
+   "title": "Ubutukilo",
+   "date": "Ha ubutukilo",
+   "one": "Zambi yatangile hashi hize hapwile “hawenehene.”",
+   "people": "Zambi; Adama ni Eva",
+   "events": "Matangwa atanu na limwe a kutanga, mutu yatangiwile mu chifwanyiso cha Zambi, kuhwima cha Sabata",
+   "q": "Ha Ubutukilo Mukulu Zambi yatanga lilu ni hashi.",
+   "cite": "Ubutukilo 1:1",
+   "christ": "Hashi hatangiwile ku “Liji.” Sango Jibema ja Yoano jinakwamba ngwo Liji lino hi Yesu mwene (Yoano 1:1-3).",
+   "detail": "<p>Mukanda wa Zambi keshi kuputuka ni manyonga a chilumbununo ko, alioze ni kwambujola: <b>“Ha Ubutukilo, Zambi…”</b> Hashi keshi cha kuyiyana ko, alioze mulimo wa Zambi wa umwenemwene.</p><ul><li><b>Chifwanyiso cha Zambi</b> · ku yuma yeswe yatangiwile, atu kaha hi atangiwile ngwe Zambi — hanga amunyingike mba alame hashi.</li><li><b>Kuhwima</b> · kuhwima cha tangwa lia muchinda linakusolola yuma yeswe yamana ni kuwaha (shalom): “chapwile chiwape.”</li><li><b>Edene</b> · hashi kanda hafumbe, kuze Zambi ni atu te anenda hamwe.</li></ul>",
+   "next": "Alioze kuwaha kuno kuli ku chihela cha kuhumbuka…"
+  },
+  {
+   "tag": "MUKANDA WA TETE · ULEMU WAPUTUKA",
+   "title": "Kuhumbuka",
+   "date": "Ha ubutukilo",
+   "one": "Shili yengile, mba ungunzo kachi ka atu ni Zambi yatetokele.",
+   "people": "Adama ni Eva; pwo (Satana)",
+   "events": "Kulia mihako yakukinda, kutuhwiwa mu Edene, kwiza cha kufwa ni mulimo wakukala",
+   "q": "Mulikafupa mana akukushihila ku mutwe, ni yena muukafupa mana akumusumina ku kashi jino.",
+   "cite": "Ubutukilo 3:15",
+   "christ": "Chilakanyino cha tete cha Sango Jibema, chahaniwine kakehe kunyima cha Kuhumbuka: “vungu lia pwo” mulikabwa akwa kole ku mutwe — yenacho hi Yesu (Ubutukilo 3:15; Roma 16:20; Galashia 4:4).",
+   "detail": "<p>Ku kuhona kwivwilila cha kuzanga “kupwa nga Zambi,” shili yengile mu hashi. Chimano keshi kuhonena shimbi kaha ko, alioze <b>kutetoka cha ungunzo.</b></p><ul><li><b>Ungunzo wakutetoka</b> · ni Zambi (kuliswama), ni akwo (kuhana ula), ni hashi (miiva ni mulimo wakukala).</li><li><b>Kufwa</b> · chinjikijilo cha “mukafwa pundu” chinapwa chamwenemwene.</li><li><b>Ubutukilo 3:15</b> · alioze mukachi ka chiyulo, chilakanyino cha kulamwina chinakwiza tete. Akwa kunanga akuchivuluka ngwe <b>“protoevangelium” (Sango Jibema ja tete).</b></li></ul>",
+   "next": "Lelo Zambi anasanyika mutu umwe kaha hanga aputuke kulamwina…"
+  },
+  {
+   "tag": "MUKANDA WA TETE · CHILAKANYINO",
+   "title": "Akulu",
+   "date": "kakehe 2000 B.C.",
+   "one": "Zambi yalakanyisa Avalahama, “Muukapwa jila ya uwahililo.”",
+   "people": "Avalahama · Izaki · Yakova · Yosefu",
+   "events": "Usendo wa Avalahama, kuhana Izaki, ana 12 a Yakova, Yosefu yapwile mwanangana mu Egiptu",
+   "q": "Mungukakupwisa vungu lineneni kukuwahisa … mungukawahisa mavungu eswe a hashi mumu hali yena.",
+   "cite": "Ubutukilo 12:2-3",
+   "christ": "Chilakanyino cha ngwo “mavungu eswe makawahisiwa” chinaheta mu Yesu, vungu lia Avalahama (Galashia 3:16).",
+   "detail": "<p>Zambi yaputukile kukehesa ulemu wa atu eswe ha kusanyika mutu umwe, <b>Avalahama.</b> Mbunge yenyi hi <b>usendo (chilakanyino)</b> — vungu lineneni, hashi, ni “uwahililo wa mavungu eswe.”</p><ul><li><b>Ufulielo</b> · Avalahama yafulielele chilakanyino chize keshi kumona, mba aamupwisile mukwa ululi (Ubutukilo 15:6).</li><li><b>Izaki ni Yakova</b> · chilakanyino chinakuya kulutwe; Yakova (Israele) yasemene mavungu 12.</li><li><b>Yosefu</b> · yamulanjishile kuli akwo alioze yapwile mwanangana — “Zambi hanayipwisa yiwape ya kulamwina atu anji” (Ubutukilo 50:20).</li></ul>",
+   "next": "Ha kulanda Yosefu, chitatu chayile ku Egiptu — mba apwile andungo…"
+  },
+  {
+   "tag": "MUKANDA WA TETE · ULAMWINO",
+   "title": "Kutuhuka ni Kasendzi",
+   "date": "kakehe 1446 B.C.",
+   "one": "Zambi yalamwinine atu te andungo mba aapwisile a yenyi mwene.",
+   "people": "Mose, Aloni, mwanangana wa Egiptu",
+   "events": "Yikola 10, Paseka, kuhita mu Kalunga Kachili, Shimbi 10 ku Sinai, zuwo lia uchindami, miaka 40 mu kasendzi",
+   "q": "Mungunupwisa lume atu ja yami mwene, mungubwa Zambi yenu.",
+   "cite": "Kutuhuka 6:7",
+   "christ": "Paseka — kuze manyinga a mukoko alamwinine ku kufwa — yinakushindakenya Yesu, “Mukoko wetu wa Paseka,” yahongiwile ha chihela chetu (1 Korintu 5:7).",
+   "detail": "<p>Ulamwino unene chinji wa Mukanda wa Tete. Israele, waze te andungo, yatambwile usemununo ku ngolo ja Zambi mba yaapwisile <b>atu</b> jenyi.</p><ul><li><b>Paseka</b> · zuwo liakwacha manyinga a mukoko ku chizo lialamukile ku kufwa — chifwanyiso cha milambu yeswe ya kunyima.</li><li><b>Kalunga Kachili</b> · ulamwino kuze jila yamanunukile; “kuhita ku chikwo” chinapwa chinjikijilo cha ubutukilo wahiya.</li><li><b>Usendo wa Sinai</b> · ku Shimbi anyingikile kutwama ngwe atu ja Zambi.</li><li><b>Zuwo lia uchindami</b> · zuwo lia kutwala lize Zambi atwama mukachi ka atu jenyi — chimweso cha “Emanuele.”</li><li><b>Miaka 40</b> · kuhona kwivwilila kwalingisile vungu kwendaenda mu kasendzi, alioze Zambi yatwamine nawo ni mana ni nguzu ja livwi ni ja kahia.</li></ul>",
+   "next": "Aimene ku chihela cha hashi hialakanyiwile, alukulukile kwingila…"
+  },
+  {
+   "tag": "MUKANDA WA TETE · KUTWAMA",
+   "title": "Kuhiana Hashi ni Akwa Kuyula",
+   "date": "kakehe 1400–1050 B.C.",
+   "one": "Atambwile hashi, alioze ku kuhona mwanangana, mutu mweswe yalingile chize anazange.",
+   "people": "Yoshua; akwa kuyula ngwe Gideone ni Samusone; Rute",
+   "events": "Kuhumbuka cha Yeriko, kutwama mu Kanana, chiyululo cha shili–chiyulo–ulamwino",
+   "q": "Ha matangwa waze mu Israele te kumushi mwanangana. Mutu mweswe yalinga chize anazange.",
+   "cite": "Akwa Kuyula 21:25",
+   "christ": "Ku vungu lia Rute kunafuma David, ni ku vungu lia David kunafuma Yesu (Mateu 1). Chibwe mu yiyululo, vungu lia Mesia linakuya kulutwe.",
+   "detail": "<p>Ku Yoshua engile mu hashi hialakanyiwile, alioze ku kutwama avulile Zambi. Akwa Kuyula hi chiyululo chimuwika chize chinakwululula.</p><ul><li><b>Chiyululo cha shili</b> · shili → ungunzo → kutambika → mukwa kuyula analamwina → shili nawa. Chinakwiza chibi kuhiana.</li><li><b>Akwa kuyula</b> · Gideone, Samusone, Devola — alamwini a luhongo, a luheto alioze a yibi yinji.</li><li><b>Rute</b> · sango liahenya lia ululi mu matangwa amilima; pwo wa chize chikwo yengile mu vungu lia David (ni Yesu).</li></ul>",
+   "next": "Atu anatambika, “Tuhane mwanangana nawa!”…"
+  },
+  {
+   "tag": "MUKANDA WA TETE · TANGWA LIWAHA",
+   "title": "Wanangana Walikwasa",
+   "date": "kakehe 1050–930 B.C.",
+   "one": "Zambi yalakanyisa David, “Chitwamo che muchikatwama miaka yeswe.”",
+   "people": "Saulu · David · Solomone",
+   "events": "Mwanangana wa tete Saulu, David ni Goliate, usendo wa David, Solomone yatungile zuwo lia Zambi",
+   "q": "Matangwa eswe yena muukabwa ni vungu, ni wanangana we mungukaulindulula ku miaka yeswe.",
+   "cite": "2 Samuel 7:16",
+   "christ": "“Chitwamo cha miaka yeswe” chinaheta mu Yesu, vungu lia David — chocho amusanyika ngwe “Mwana wa David” (Luka 1:32-33; Mateu 1:1).",
+   "detail": "<p>Tangwa liwaha lia Israele, ku mianangana yitatu.</p><ul><li><b>Saulu</b> · mwanangana wa tete uze atu alombele; ubutukilo wamwetu alioze yatambukiwile ku kuhona kwivwilila.</li><li><b>David</b> · “mutu wa ku mbunge ya Zambi.” Yashindakenyene Goliate mba aapwisile Yerusaleme nganda yenyi. Yalingile shili yinene (Bateseba) alioze yalumukine ku mbunge yeswe (Miaso 51).</li><li><b>Usendo wa David (2 Samuel 7)</b> · Zambi yalakanyisile kulindulula usendo wa David miaka yeswe — muji wa chilakanyino cha Mesia.</li><li><b>Solomone</b> · ku luheto lia mana ni ufuko yatungile <b>zuwo lia Zambi</b> mu Yerusaleme, alioze ku songo yafukamene yitumbo.</li></ul>",
+   "next": "Kunyima cha Solomone, wanangana wahandununukine mu vivali…"
+  },
+  {
+   "tag": "MUKANDA WA TETE · KUHUMBUKA",
+   "title": "Wanangana Wahandununuka",
+   "date": "930–586 B.C.",
+   "one": "Yahandununukine mu sude (Yuda) ni norde (Israele), mba chifuchi chayanduka.",
+   "people": "Mianangana ya wanangana evali; akwa munanyi ngwe Eliya, Izaya, Jeremia",
+   "events": "Kuhandununuka cha wanangana, kufukama yitumbo, akwa munanyi anasanguluka",
+   "q": "Chize ku tangwa lize Aisraele a ku wanangana wa ku norde alitunyine chiyulo cha jiko lia mwanangana David.",
+   "cite": "1 Yitanga Ya Mianangana 12:19",
+   "christ": "Ku tangwa lino akwa munanyi anambujola Mesia akwiza pundu chinji (Izaya 9:6; Izaya 53).",
+   "detail": "<p>Ku matangwa a mwana wa Solomone wanangana wahandununukine: <b>wanangana wa norde wa Israele</b> (mavungu 10, nganda Samaria) ni <b>wanangana wa sude wa Yuda</b> (mavungu 2, nganda Yerusaleme).</p><ul><li><b>Israele (norde)</b> · mianangana yeswe yazachiline yitumbo; yahumbukine kuli Asiria mu 722 B.C.</li><li><b>Yuda (sude)</b> · vungu lia David linakuya kulutwe, ni mianangana yamwetu yikehe ngwe Hezekia ni Yosia, alioze chize chiyanduka.</li><li><b>Akwa munanyi</b> · Eliya, Amose, Izaya, Jeremia anatambika “alumukenu!” Kwambujola Mesia kunaheta luheto lienyi hano (“kalama wa lamba” wa Izaya 53).</li></ul>",
+   "next": "Ku songo chiyulo chialakanyiwile chinakwiza — amwambachila mu undungo…"
+  },
+  {
+   "tag": "MUKANDA WA TETE · CHIYULO",
+   "title": "Undungo",
+   "date": "722 / 586 B.C.",
+   "one": "Chifuchi chahumbukine mba amwambachila atu ku chifuchi cha kalunga.",
+   "people": "Daniel, Ezekiel, Nebukandeneza",
+   "events": "Israele yahumbukine kuli Asiria (722); Yuda yahumbukine kuli Babilone mba zuwo lia Zambi liahumbuka (586)",
+   "q": "Ku njiji ja Babilone, yitutwama nikulila muze te twakushinginyeka Zione.",
+   "cite": "Miaso (Masamu) 137:1",
+   "christ": "Ku unene wa lamba Jeremia yalakanyisa “Usendo Waha” (Jeremia 31:31) — usendo uze Yesu akolesa ku chilia cha Songo.",
+   "detail": "<p>Yinjikijilo yinapwa yamwenemwene. Zuwo lia Zambi lyahia mba amwambachila atu ku Babilone — ahonene hashi, mwanangana, ni zuwo lia Zambi: lamba linene chinji.</p><ul><li><b>Kuhumbuka kuvali</b> · Israele (Asiria, 722 B.C.) ni Yuda (Babilone, 586 B.C.).</li><li><b>Daniel</b> · chimweso cha ufulielo chibwe ku zuwo lia akwa yitumbo (chibalu cha jitumbwa); yamwene yimweso ya “wanangana wa miaka yeswe” akwiza.</li><li><b>Mwemwe wa chilakanyino</b> · chimweso cha mafupa amwumu akuhinduka ku mwono (Ezekiel 37) ni “Usendo Waha” wa Jeremia anakushindakenya kulutwe mu milima.</li></ul>",
+   "next": "Kunyima cha miaka 70, Zambi anasahula jila — anahiluka ku zuwo…"
+  },
+  {
+   "tag": "MUKANDA WA TETE · KUSANGULUKA",
+   "title": "Kuhiluka ku Undungo",
+   "date": "538–430 B.C.",
+   "one": "Anahiluka mba akatunga zuwo lia Zambi ni mahito.",
+   "people": "Ezra, Nehemia, Estere, Zerubabele",
+   "events": "Kuhiluka ku shimbi ya Sirusu, kutunga zuwo lia Zambi, kulonga mahito a Yerusaleme, kusanguluka cha Liji",
+   "q": "Uwahililo uze Mwene Zambi ananwehe muunutakamisa.",
+   "cite": "Nehemia 8:10",
+   "christ": "Malaki, mukanda wa kusongo wa Mukanda wa Tete, unasonga ni kwambujola kanganda wa kungululikila jila ya Mesia: “Mungukatuma kanganda kami” (Malaki 3:1).",
+   "detail": "<p>Ku shimbi ya mwanangana wa Peresia Sirusu (538 B.C.) kuhiluka kunaputuka. Mu yikombakomba yitatu anahiluka mba akatunga yize yahumbukine.</p><ul><li><b>Zerubabele</b> · anatunga zuwo lia Zambi (yamanunukine 516 B.C.).</li><li><b>Ezra</b> · anangula Liji nawa mba asanguluka ufulielo.</li><li><b>Nehemia</b> · anatunga mahito a Yerusaleme ku matangwa 52.</li><li><b>Estere</b> · analamwina Ayuda mu Peresia ku kufwisiwa — “mumu ha tangwa lino.”</li><li><b>Kutalatala kuchili</b> · zuwo lia Zambi lyaimana, alioze mwanangana ngwe David kachatwama ko. Atu anatalatala Mesia.</li></ul>",
+   "next": "Mba lelo… ngwe mwilu wanawumbila, miaka 400 ya umuumu yinahita."
+  },
+  {
+   "tag": "KACHI KA MIKANDA EVALI · KUNGULULIKA CHIHELA",
+   "title": "Miaka ya Umuumu",
+   "date": "kakehe 430–4 B.C.",
+   "one": "Miaka 400 ya kuhona liji lia mukwa munanyi — alioze chihela chinangululikiwa mu umuumu.",
+   "people": "Alesandre Munene, akwa Makabe, Roma",
+   "events": "Peresia → Greki → kulisokola cha Makabe → uyulo wa Roma",
+   "q": "Alioze muze tangwa lize atongwele hiliaheta, Zambi yatuma Mwanenyi. Yasemuka kuli umwe pwo.",
+   "cite": "Galashia 4:4",
+   "christ": "“Kungululika chihela” chino cheswe chapwile mulimo wa Zambi hanga Yesu eze pundu ku “tangwa lize atongwele hiliaheta.”",
+   "detail": "<p>Kufuma ku Malaki ndoo ku Mukanda Waha, kakehe miaka 400 ya kuhona Liji liahiya lia Mukanda wa Zambi (akwa munanyi). Alioze kunyima cha sango, Zambi yangululikile jila ya kwambukila Sango Jibema.</p><ul><li><b>Wanangana wakwalumuka</b> · Peresia → Greki (Alesandre, 333 B.C.) → akwa Egiptu ni Siria → kulisokola cha Makabe (167 B.C.) → Roma (63 B.C.).</li><li><b>Greki</b> · kuhiana hashi cha Alesandre chalingisile Greki limi lia eswe; Mukanda wa Tete waalumwine ku Greki (Septuajinta), hanga Sango Jibema jiambukile swatu.</li><li><b>Mahito ni kuwana cha Roma</b> · mahito amwape ni “Pax Romana” yapwile jila ya mulimo.</li><li><b>Masinagoga ni yitanga</b> · kunangula cha sinagoga kunashindama; akwa Falise ni Saduse anaholokela; mba <b>kutalatala Mesia</b> kunakula.</li></ul>",
+   "next": "Mba umuumu wanapuka — ku songo, eziile."
+  },
+  {
+   "tag": "MUKANDA WAHA · KUHETA",
+   "title": "Kwiza cha Yesu",
+   "date": "kakehe 4 B.C.–A.D. 30",
+   "one": "Mesia yalakanyiwile eziile, yafwile, mba yahindukile.",
+   "people": "Yesu, ambaji 12, Yoano Mukwa Kupapatesa",
+   "events": "Kusemuka (Krisimasi), mulimo wenyi wa kunangula ni yihuminyino, kufwa ku lusu, kuhinduka ha tangwa lia chitatu",
+   "q": "Lie Liji yilialumuka mutu, yatwama mukachi ketu … yitumona uhenya wenyi unji, uhenya uze mwe Mwana hanatambula kuli Tato.",
+   "cite": "Yoano 1:14",
+   "christ": "Vungu lia pwo (chikombakomba 2), uwahililo wa Avalahama (3), mukoko wa Paseka (4), mwanangana wa miaka yeswe wa David (6), Usendo Waha (8) — yeswe yinaheta mu mutu umwe, Yesu: mukwa munanyi wetu, mukwa kusongesa milambu, ni mwanangana wamwenemwene.",
+   "detail": "<p>Umuumu wanapuka; yalakanyiwile eziile. Sango Jibema jiwana jinashindakenya mwono, kufwa, ni kuhinduka cha Yesu ku vihela viwana.</p><ul><li><b>Kusemuka</b> · Zambi yalumukile mutu (Emanuele, “Zambi ni yetu”), mu chihela cha kulikehesa cha Beteleme.</li><li><b>Mulimo</b> · yanangwile wanangana wa Zambi, yahindwisile akwa yikola, yasanyikile akwa shili. “Yoze hanangumona, hanamona Tato.”</li><li><b>Lusu</b> · yafwetele lifuto lia shili ni kufwa kweziile ku Kuhumbuka (chikombakomba 2). Mukoko wamwenemwene wa Paseka.</li><li><b>Kuhinduka</b> · yahindukine ha tangwa lia chitatu, yakehesa ngolo ja shili, kufwa, ni Satana — kanda ku lusu “yakumba tachi ja akwa ndundo ni akwa yiyulo … muze aatwalile ngwe funge” (Kolosu 2:15).</li></ul><p>Chocho Yesu hi <b>mukwa munanyi wetu</b> (anatusolwela jila ya kuya kuli Zambi), <b>mukwa kusongesa milambu wetu</b> (anafwetela shili ni mujimba wenyi), ni <b>mwanangana wetu wamwenemwene</b> (anashindakenya shili, kufwa, ni Satana mba anayula miaka yeswe).</p>",
+   "next": "Yesu wahindukile anatuma ambaji jenyi ku hashi…"
+  },
+  {
+   "tag": "MUKANDA WAHA · KWAMBUKILA",
+   "title": "Eklezia Yinaputuka",
+   "date": "kakehe A.D. 30–",
+   "one": "Mwiku uneza, mba Sango Jibema jinambukila ndoo ku songo lia hashi.",
+   "people": "Petulu, Paulu, eklezia ya tete",
+   "events": "Mwiku waholokele ku Pentekoshite, eklezia yasemukine, Sango Jibema jiambukile kufuma ku Yerusaleme ndoo ku Roma ku lukila",
+   "q": "Munukatambula tachi muze Mwiku wa Linanga hiwanuhulumukina. Mba munukabwa yela jami mu Yerusaleme … ni ndoo ku songo lia hashi.",
+   "cite": "Yilinga 1:8",
+   "christ": "Sango lino lichili nakuya ndo lelo. Mukanda wa Zambi unasonga ni chilakanyino cha ngwo Yesu akahiluka mba akapwisa yuma yeswe yihiya (Usolwelo 21).",
+   "detail": "<p>Kunyima cha kukandama cha Yesu, Mwiku walakanyiwile waholokele ku Pentekoshite mba eklezia yasemukine. Sango Jibema jiambukile swatu chinji.</p><ul><li><b>Pentekoshite</b> · Mwiku waalumwine ambaji waze te ni woma kupwa yela ja luheto.</li><li><b>Petulu</b> · anambujola Sango Jibema kuli Ayuda mu Yerusaleme.</li><li><b>Paulu</b> · kufuma ku mukwa lukila kupwa mbaji, anatunga ya-eklezia mu hashi ha akwa kalunga mba anasoneka mikanda.</li><li><b>Ndoo ku songo lia hashi</b> · Yerusaleme → Yudea → Samaria → Roma. Chilakanyino cha Avalahama cha “mavungu eswe” chinapwa chamwenemwene.</li><li><b>Ni yetu</b> · sango kalisongo ko; linakuya kulutwe ndoo ku kuhiluka cha Yesu ni lilu liahiya ni hashi hahiya.</li></ul>",
+   "next": "Alioze sango kalisongo hano ko…"
+  },
+  {
+   "tag": "MUKANDA WAHA · KUMANA",
+   "title": "Kusanguluka",
+   "date": "Kuchili nakwiza",
+   "one": "Yesu anahiluka mba anapwisa yuma yeswe yihiya.",
+   "people": "Yesu akuhiluka; mavungu eswe",
+   "events": "Kuhiluka cha chivali, chiyulo cha songo, kusongo cha shili·kufwa·masoji, lilu liahiya ni hashi hahiya",
+   "q": "Makakusumuna masoji eswe ku meso jo. Kufwa kuchichi kabwa nawa, chibwe kunenganyana, chibwe mahio, chibwe yikola.",
+   "cite": "Usolwelo 21:4",
+   "christ": "Edene wa kutanga cha tete unasanguluka ku songo ngwe “Yerusaleme Yahiya.” Zambi anatwama ni atu jenyi miaka yeswe — kuheta cha Emanuele (Usolwelo 21:3; Mateu 1:23).",
+   "detail": "<p>Mukanda wa Zambi kalisongo ku tangwa lia eklezia ko. Mukanda wenyi wa kusongo, Usolwelo, unasolola Yesu <b>akuhiluka</b> hanga apwise yuma yeswe.</p><ul><li><b>Kuhiluka cha chivali</b> · mwanangana yalakanyiwile anahiluka mu uhenya.</li><li><b>Kushindakenya cha songo</b> · Satana ni kufwa makakehesiwa miaka yeswe, mba Kristu akayula ngwe Mwanangana wa Mianangana (1 Korintu 15:25-26; Usolwelo 20:10).</li><li><b>Chiyulo ni kuhinduka</b> · ululi weswe ukaololwa, mba akufwa makahinduka.</li><li><b>Lilu liahiya ni hashi hahiya</b> · shili, kufwa, masoji, ni yikola makasongo miaka yeswe (Usolwelo 21:4).</li><li><b>Edene wasangulukile</b> · mu “Yerusaleme Yahiya” yiwape kuhiana ya tete, Zambi anatwama ni atu jenyi miaka yeswe — chihela chize Mukanda wa Zambi weswe unakuya.</li></ul><p>Chocho lelo hi tangwa lia <b>“lyehi, alioze kanda”</b>: mu Yesu ulamwino unamana <b>lyehi</b>, alioze kumana chenyi <b>kuchili</b> nakutalatala.</p>",
+   "next": "Chocho sango lino lieswe linakulumbununa yika kuli “yami”?"
+  }
+ ],
+ "love": [
+  "Sango kalibutuka ni chiyulo ko, alioze ni hashi hatangiwile mu zango linji.",
+  "Ha tangwa lize atu avulumwine, Zambi yalakanyisa ulamwino pundu hano.",
+  "Zambi yamuwana tete yoze keshi kuhasa, yamusanyika ni jina lienyi, mba aamupwisile jila ya uwahililo.",
+  "Yivwile kulila cha atu te andungo mba yaholokele iye mwene kwiza kwaalamwina.",
+  "Chibwe amunyokele kapindi ni kapindi, tangwa lieswe ataminyikine yamutumine mukwa kulamwina mba yaazundwile nawa.",
+  "Chibwe David wahumbukine kamuechele ko; mumu hali yena yalakanyisile mwanangana wa miaka yeswe.",
+  "Kuli atu amukinyine, yatuminyine akwa munanyi, ni kuyilila ngwenyi, “Hilukenu, kakehe.”",
+  "Chibwe ndoo ku hashi hamilima chinji ha undungo yaholokele nawo mba yalakanyisile kusanguluka.",
+  "Chibwe ku atu te akuhona kapindi ni kapindi, kahindwisile chilakanyino chenyi ko, alioze yaazundwile nawa.",
+  "Chibwe mu miaka 400 ya umuumu, mu kuswama, yangululikile jila ya ulamwino.",
+  "Muze tuchili akwa shili, yatumine Mwanenyi hanga ahane mwono wenyi.",
+  "Zango lize twatambwile, lelo analituma kuya ku hashi heswe.",
+  "Ku songo akakusumuna masoji eswe mba akasanguluka yuma yeswe mu zango."
+ ],
+ "mis": [
+  {
+   "w": "“Mumu yika Zambi yatangiline mutu wakuhasa kuvulumuna? Kuchatela kuhona kumutanga ko?”",
+   "t": "Zambi yatangile hashi ni mutu hi keshi mumu ha kuhona chuma ko, alioze mu zango linji. Kutanga mutu ngwe <b>mutu wakulipanjika ni Zambi</b> chili zango chivene. Ni chibwe kwingila cha shili kachapwile kunze cha chilakanyino cha ulamwino cha Zambi ko (Efesu 1:4-5). Chikombakomba cha tete cha Mukanda wa Zambi keshi chiyulo ko alioze zango."
+  },
+  {
+   "w": "“Mumu ha kulia mukako umuwika kaha kutuhwiwa mba kutambula kufwa — Zambi keshi mukalu chinji?”",
+   "t": "Kutuhwiwa mu Edene kwapwile chiyulo ni keke. Nyi mutu, wahandununukine ni Zambi mu chihela chize chahumbukine, alie ku mukako wa mwono mba atwame miaka yeswe, mukakwama mu lamba miaka yeswe (Ubutukilo 3:22). Kwitavila kufwa kwasahwile jila ya kuhiluka; mba hano Zambi yalakanyisile Mukwa Kulamwina (Ubutukilo 3:15). Zango lyatwamine kanda mu chiyulo."
+  },
+  {
+   "w": "“Avalahama yamusakwile mumu ha ufulielo wenyi unene; akwa Mukanda wa Zambi eswe keshi alami a ululi?”",
+   "t": "Avalahama nawa yamenge mba yahindumunyine, ni Yakova yapwile mukwa kuvuluvunga. Zambi kasanyikile “akwa kuhasa” ko, alioze ku utu yasanyikile waze keshi a ululi. Chuma cha kusakula keshi uwahililo wo ko, alioze zango lia kukola lia Zambi (Shimbi 7:7-8)."
+  },
+  {
+   "w": "“Shimbi keshi luhuminyino hanji chilakanyino chize utela kuhita hanga ulamwiwe?”",
+   "t": "Zambi yaalamwinine <b>kanda</b> aahane Shimbi. Shimbi 10 japutuka ni kwambujola ulamwino: “Yami nguli Mwene Zambi ye, yoze wakutuhwishile mu chifuchi cha Egiptu” (Kutuhuka 20:2). Shimbi keshi “lama jo hanga ulamwiwe” ko, alioze kunangula cha zango hali kutwama cha atu hianalamwa lyehi ku utu (Shimbi 7:7-9). Utu utete; kwivwilila chili chikumbululo."
+  },
+  {
+   "w": "“Kuhiana Kanana kwapwile kushiha cha kuhona keke — Zambi wa Mukanda wa Tete mukalu chamwenemwene.”",
+   "t": "Hi ulemu wakukala kulumbununa ni liji limuwika mba unasakula keke. Alioze Mukanda wa Zambi keshi kuusolola ngwe ungozo wa kuyiyana ko, alioze ngwe chiyulo kunyima cha miaka yinji ya kutalatala kuli yibi yinene (kuhakaho kuhana ana ku milambu) (Ubutukilo 15:16; Shimbi 9:4-5; Alevi 18:24-25). Zambi keshi kwendaenda chibwe ku chiyulo ko, mba yoze ahiluka kuli iye yamutambula ni uwahililo chibwe mukwa kalunga, ngwe Rahava ni Rute (Yoshua 6:25; Rute 4:13-17)."
+  },
+  {
+   "w": "“David yapwile mulami wa kuhona yibi; chocho amusanyika ngwe ‘mutu wa ku mbunge ya Zambi.’”",
+   "t": "David yalingile uhembo ni kushiha nawa. “Mutu wa ku mbunge ya Zambi” keshi kulumbununa wa kuhona yibi ko, alioze yoze keshi kuswama shili yenyi — yalumukine ku mbunge yeswe mba yahilukile kuli Zambi kapindi ni kapindi (Miaso 51). Zango lia Zambi kalisula chibwe waze akuhumbuka chinene ko."
+  },
+  {
+   "w": "“Mukwa munanyi hi mukwa kutongola yize muyiza kulutwe; Zambi wa Mukanda wa Tete anatwala matoto kaha.”",
+   "t": "Mbunge ya mukwa munanyi keshi “kutongola yize muyiza” ko, alioze kuyilila cha mbunge cha Zambi: “Hilukenu, kakehe.” Chibwe chinjikijilo cha chiyulo keshi cha kufwisa ko, alioze cha kuhilukisa hanga ahane mwono — “Chishi kuwahilila nyi Chivulumunyi wafwa” (Ezekiel 33:11)."
+  },
+  {
+   "w": "“Undungo unasolola ngwo Zambi yasulile Israele pundu.”",
+   "t": "Undungo kawapwile kusula ko, alioze keke ni kukehesa cha Tato kuli mwana wa zango (Hebreu 12:6). Zambi kayile ko; yatwamine ni Daniel ha unene wa undungo mba yalakanyisile, “Yami mwene ngunanyingika yize ngunanunyongena, manyonga a kunuyukisa … akunuyukisa yuma yize nunase mbunge” (Jeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Nyi miaka 400 ya kuhona Liji, mwe Zambi yayile hanji yahwimine?”",
+   "t": "Umuumu keshi kuhona ko. Yakwene kuhona kuhanjika kaha, muze ku tangwa lieswe yashindjikijile wanangana, malimi, ni mahito hanga angululike chihela cha ulamwino. Ku tangwa lia umuumu chinene, Zambi yazachiline ngolo chinji, mu zango (Galashia 4:4)."
+  },
+  {
+   "w": "“Yesu hi mukwa kunangula wamwetu kaha; lusu lyapwile kushindakenya cha lamba.”",
+   "t": "Yesu yalitayizile ngwe Zambi (Yoano 8:58), ni lusu kalwapwile cha kuyiyana hanji kushindakenya ko, alioze zango lialakanyiwile. Kaamwambachilile ku ngolo ko, alioze yahanyine mwono wenyi ku kuzanga chenyi (Yoano 10:18). “Zango liahiana lili lino: mutu akunjike mwono wenyi hali masepa jenyi” (Yoano 15:13)."
+  },
+  {
+   "w": "“Eklezia hi chitanga cha atu a ululi, hanji zuwo kaha.”",
+   "t": "Eklezia keshi chitanga cha “alami amana” ko, alioze cha <b>akwa shili echeliwe.</b> Chibwe mbaji Paulu yalisanyikine ngwe “mubi wahiana” (1 Timoteu 1:15). Eklezia ya tete nawa yalipangwile mba yahumbukine (Yilinga 6:1; 1 Korintu 1:11). Eklezia keshi chihela cha kulisamba ko, alioze atu akwambukila zango lize atambwile (Yoano 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Shili ya tete — niumwe keshi mukwa ululi",
+   "body": "Ulemu keshi “yibi yikehe” ko, alioze muji wa mbunge. Kufuma ku Adama, eswe asemuka mu shili mba keshi kuhasa kuheta kuli Zambi avene.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Mukwa ululi niumwe, chibwe umuwika ka … eswe haanavulumuna, eswe kaanahono uhenya wa Zambi."
+  },
+  {
+   "title": "Shimbi kayikuhasa kungulamwina ko",
+   "body": "Shimbi keshi luhito lia kukandila ko, alioze chimweso. Nyi ngusa ngolo kuyilama, jinasolola chinji muze nguahona. Mbunge yajo hi kututwala kuli Kristu.",
+   "vref": "Roma 3:20 · Galashia 3:24",
+   "vtext": "Shimbi jakunyingikisa lume ngwo, mutu hanavulumuna … Shimbi jabwile ngwe ndeji yetu ndoo ku kwiza cha Kristu."
+  },
+  {
+   "title": "Ku utu — chawana, hi keshi ngolo ko",
+   "body": "Ulamwino keshi lifuto lia yitanga ye ko, alioze chawana cha Zambi kuli waze keshi kuchitela. Chocho niumwe mahasa kulisamba ko.",
+   "vref": "Efesu 2:8-9",
+   "vtext": "Zambi, ku utu wenyi, hananulamwina, mumu ha ufulielo … Niumwe mahasa kulisamba, mumu hi ku yitanga ya yenwene ko."
+  },
+  {
+   "title": "Kupwiswa mukwa ululi ku ufulielo",
+   "body": "Hi keshi ku kulama Shimbi ko, alioze ku kufuliela Yesu Kristu hianatupwisa akwa ululi — katunavwala ululi wetu ko, alioze ululi wenyi.",
+   "vref": "Roma 5:1 · Galashia 2:16",
+   "vtext": "Zambi hanatupwisa akwa ululi mumu ha ufulielo … Zambi kakupwisa mutu mukwa ululi shina ha kufuliela Yesu Kristu, hi ha kumanununa Shimbi ko."
+  },
+  {
+   "title": "Mukanda wa Zambi unakushindakenya Yesu",
+   "body": "Mukanda wa Zambi keshi mukanda wa atu anene hanji wa kulikwasa avene ko. Kufuma ku Ubutukilo ndoo ku Usolwelo, kadi keswe kanakushindakenya mutu umwe — Yesu Kristu.",
+   "vref": "Yoano 5:39 · Luka 24:27",
+   "vtext": "Nwakuhengula mu Mukanda wa Zambi … Wenawo wakungushindakenya … Yesu yaalumbunwina Mukanda wa Zambi weswe hakutwala kuli iye mwene."
+  },
+  {
+   "title": "Wanangana wa Zambi — mbunge ya sango ja Yesu",
+   "body": "Mbunge yize Yesu yanangwile chinji. Wanangana kuze Zambi akuyula ngwe mwanangana wengile mu hashi ni Yesu mba ukamana ku kuhiluka chenyi. Ku lusu ni kuhinduka chenyi, Yesu hi mwanangana wamwenemwene yashindakenyene shili, kufwa, ni Satana.",
+   "vref": "Marku 1:15",
+   "vtext": "Tangwa hiliaheta. Wanangana wa Zambi hiwakundama! Alumukenu ku mbunge! Fulielenu je Sango Jibema!"
+  },
+  {
+   "title": "Sango Jibema — yamanunwine yeswe",
+   "body": "Lifuto lia shili lize nguahonene kufweta, Yesu yalifwetele ha chihela chami ku lusu, mba ku kuhinduka yashindakenyene kufwa. Kanguatachila ku “linga chino” ko, alioze ku “yeswe hiyamanunuka.”",
+   "vref": "Yoano 19:30 · Roma 5:8",
+   "vtext": "Yeswe hiyamanunuka! … Zambi hanatusolwela zango lienyi linji, mumu Kristu yatufwila muze te tuchili akwa shili."
+  }
+ ],
+ "books": {
+  "Ubutukilo": "GEN",
+  "Kutuhuka": "EXO",
+  "Alevi": "LEV",
+  "Kwalula": "NUM",
+  "Shimbi": "DEU",
+  "Yoshua": "JOS",
+  "Akwa Kuyula": "JDG",
+  "Rute": "RUT",
+  "Ezra": "EZR",
+  "Nehemia": "NEH",
+  "Estere": "EST",
+  "Jobe": "JOB",
+  "Miaso (Masamu)": "PSA",
+  "Yishima": "PRO",
+  "Longeshi": "ECC",
+  "Mwaso Ubema Wahiana": "SNG",
+  "Izaya": "ISA",
+  "Jeremia": "JER",
+  "Lungungu": "LAM",
+  "Ezekiel": "EZK",
+  "Daniel": "DAN",
+  "Hosea": "HOS",
+  "Joele": "JOL",
+  "Amose": "AMO",
+  "Obadia": "OBA",
+  "Yona": "JON",
+  "Mika": "MIC",
+  "Nahume": "NAM",
+  "Habakuke": "HAB",
+  "Zefania": "ZEP",
+  "Hagai": "HAG",
+  "Zakaria": "ZEC",
+  "Malaki": "MAL",
+  "Mateu": "MAT",
+  "Marku": "MRK",
+  "Luka": "LUK",
+  "Yoano": "JHN",
+  "Yilinga": "ACT",
+  "Roma": "ROM",
+  "Galashia": "GAL",
+  "Efesu": "EPH",
+  "Filipu": "PHP",
+  "Kolosu": "COL",
+  "Titu": "TIT",
+  "Filemu": "PHM",
+  "Hebreu": "HEB",
+  "Tiangu (Jake)": "JAS",
+  "Yuda": "JUD",
+  "Usolwelo": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Yitanga Ya Mianangana": "1KI",
+  "2 Yitanga Ya Mianangana": "2KI",
+  "1 Sango Ja Mianangana": "1CH",
+  "2 Sango Ja Mianangana": "2CH",
+  "1 Korintu": "1CO",
+  "2 Korintu": "2CO",
+  "1 Tesalonika": "1TH",
+  "2 Tesalonika": "2TH",
+  "1 Timoteu": "1TI",
+  "2 Timoteu": "2TI",
+  "1 Petulu": "1PE",
+  "2 Petulu": "2PE",
+  "1 Yoano": "1JN",
+  "2 Yoano": "2JN",
+  "3 Yoano": "3JN"
+ },
+ "yv": 2546,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
