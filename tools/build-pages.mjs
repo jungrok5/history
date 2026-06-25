@@ -209,6 +209,9 @@ const LANGS = [
   { code:'nus',    dir:'ltr', locale:'nus_SS' },
   { code:'pap',    dir:'ltr', locale:'pap_AW' },
   { code:'et',     dir:'ltr', locale:'et_EE' },
+  { code:'prs',    dir:'rtl', locale:'prs_AF' },
+  { code:'sa',     dir:'ltr', locale:'sa_IN' },
+  { code:'yi',     dir:'rtl', locale:'yi_IL' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
@@ -235,6 +238,9 @@ const FONT_TITLE = {
   'zh-Hant':'Noto Serif CJK TC, serif',
   'ar':'Noto Naskh Arabic, serif',
   'hi':'Noto Serif Devanagari, Noto Sans Devanagari, serif',
+  'yi':'Noto Serif Hebrew, serif',
+  'sa':'Noto Serif Devanagari, serif',
+  'prs':'Noto Naskh Arabic, serif',
   'azb':'Noto Naskh Arabic, serif',
   'ctg':'Noto Serif Bengali, Noto Sans Bengali, serif',
   'bho':'Noto Serif Devanagari, Noto Sans Devanagari, serif',
@@ -289,6 +295,9 @@ const FONT_SUB = {
   'zh-Hant':'Noto Sans CJK TC, sans-serif',
   'ar':'Noto Sans Arabic, sans-serif',
   'hi':'Noto Sans Devanagari, sans-serif',
+  'yi':'Noto Sans Hebrew, sans-serif',
+  'sa':'Noto Sans Devanagari, sans-serif',
+  'prs':'Noto Sans Arabic, sans-serif',
   'azb':'Noto Sans Arabic, sans-serif',
   'ctg':'Noto Sans Bengali, sans-serif',
   'bho':'Noto Sans Devanagari, sans-serif',
