@@ -1,0 +1,385 @@
+{
+ "menuName": "Kĩkamba",
+ "htmlLang": "kam",
+ "dir": "ltr",
+ "brand": "Mbivlia ĩtonyeku o ĩmwe",
+ "docTitle": "Mbivlia ĩtonyeku o ĩmwe · Kuma ũũmbi nginya kanisa",
+ "share": {
+  "title": "Mbivlia ĩtonyeku o ĩmwe",
+  "text": "Vandũ va kũĩisya o ĩmwe, manya ũvoo mũnene wa Mbivlia — na kĩu kyaetie Yesũ."
+ },
+ "ui": {
+  "people": "Andũ",
+  "events": "Maũndũ manene",
+  "christLabel": "Ĩonanasya Yesũ",
+  "loveLabel": "Wendo ũtakomaa",
+  "mythWrong": "Ũelewasyo mũtumanu",
+  "mythRight": "Ũw’o nĩ ũũ",
+  "more": "Soma kwingĩ",
+  "version": "(Mbivlia)"
+ },
+ "labels": {
+  "start": "Kwambĩĩa",
+  "thread": "Ũvoo",
+  "gospel": "Ũvoo Mũseo",
+  "about": "Ĩũlũ wa ũũ"
+ },
+ "s": {
+  "ui.share": "↗ Aanĩa",
+  "ui.toast": "Link nĩyakopiwa 📋",
+  "ui.footer": "Mbivlia ĩtonyeku o ĩmwe · Maandĩko ma Mbivlia kuma Mbivlia ya Kĩkamba",
+  "hero.kicker": "KUMA ŨŨMBI NGINYA KANISA",
+  "hero.title": "Mbivlia,<br><span class='em'>ĩtonyeku o ĩmwe</span>",
+  "hero.sub": "Vandũ va kũĩisya o ĩmwe, manya ũvoo mũnene wa Mbivlia — na kĩu kyaetie Yesũ.",
+  "hero.cue": "Ĩisya nthĩnĩ<span>↓</span>",
+  "thread.eyebrow": "NDETO O ĨMWE ĨLA ĨSYĨĨ MBIVLIA YONTHE",
+  "thread.h2": "Mũminũkĩlyonĩ, Mbivlia nĩ ũvoo o ũmwe",
+  "thread.flow": "<b>Wĩanĩo</b><span class='arw'>→</span><b>Kweteela</b><span class='arw'>→</span><b>Wĩanĩu</b>",
+  "thread.note": "Ngai nĩwĩaaa (ũtiano), andũ nĩmeteelaa kwa ĩvinda ĩasa, na mũthya maũndũ onthe nĩ <b>maĩanĩaw’a</b> na kũminũkĩlw’a nthĩnĩ wa Yesũ. Atĩĩa maũndũ aa 13 maatĩaa ũvoo ũsu. Kũnda <b>“Soma kwingĩ”</b> ĩũlũ wa kĩla kandi nĩ kana woone ũvoo mũliku.",
+  "gospel.eyebrow": "ŨVOO ŨŨ ŨMENAA ATĨIA KWA “NYIE”",
+  "gospel.h2": "Ĩvinda nzaa ya Mbivlia",
+  "gospel.lead": "Mbivlia <b>ti ĩvuku ya kũmanyĩsya “ĩthĩwa mũndũ mũseo.”</b>",
+  "gospel.sublead": "Nĩ ũvoo wa ũndũ Ngai, <b>kwa mumo o weka</b>, watangĩĩe athe ala matatonya kwĩtangĩĩa ene. Ĩvinda nzaa nĩ Yesũ Klĩsto.",
+  "gospel.mirror": "<h3>Ũsyokeo ũtathela wa Isilaeli nĩ kĩoneki kĩa “nyie” mwene</h3><div class='cycle'><b>Ũthaithi wa mĩvw’anano</b><span class='a'>→</span><b>Woo</b><span class='a'>→</span><b>Kũkaya</b><span class='a'>→</span><b>Ngai atangĩĩa</b><span class='a'>→</span><b>Ũthaithi wa mĩvw’anano ĩngĩ…</b></div><p>Kuma asili nginya ũkombo, Isilaeli mayendeesya ũsyokeo ũũ ĩtina ya muthya. Mbivlia ndyaandĩkie ũũ nĩ kana tũtheke, “Maĩ andũ ate vata ki.”</p><p>Nĩ <b>kĩoo</b>. Ũndũ ũla mũnene ti “Isilaeli nĩmeekie ũu” ĩndĩ nĩ <b>“nyie ningĩ nĩneekaa o ũu”</b> (1 Akolintho 10:11).</p><p>Mũvw’anano wa kũthaithwa (ĩlũngu) ti mũvw’anano wa mũtĩ o weka. Nĩ <b>kĩndũ kĩonthe kĩla twĩendaa kana twĩĩkĩĩaa kũvĩta Ngai</b> — mbesa, ũtonyi, kũnengwa ndaĩa, andũ, o na nyie mwene. Na kũtũmĩa Ngai ta <b>kĩndũ kya kwĩanĩsya wendi witũ</b> o nako nĩ ũthaithi wa mĩvw’anano.</p><p class='punch'>Mũthya, mũvw’anano ũla mũliku nĩ “nyie mwene ngekala ĩkalũnĩ ya Ngai.”</p>",
+  "gospel.coreIntro": "Ĩndĩ, Ngai amũtangĩĩaa ata mũthe ũsu? Yĩĩ nĩyo ĩvinda nzaa ya ũvoo mũseo ũla Mbivlia yumĩasya.",
+  "gospel.crux": "<p class='crux-lead'>Mbivlia yonthe ĩonanasya vandũ o vamwe.</p><p>Andũ matatonyie kweveta ũsyokeo wa naĩ na vinya woo ene, na vai mũndũ o ũmwe waĩ mũlũngalu. Kwoou kwaĩle kwĩthĩwa na mũndũ <b>wa kũĩva ĩ vate vandũ vyao</b>.</p><p>Yesũ ndookie o nũndũ wa kũnenga mĩao mĩseo. Tondũ kwaĩ vate nzĩa ĩngĩ ya kũndangĩĩa, <b>nĩwaĩle kwĩthĩwa nĩ woka.</b></p><p class='crux-punch'>Ũla waĩle kũvambĩw’a ĩũlũ wa mũsalava ũsu nĩ <b>nyie</b>.<br>Yesũ nĩwakuie <b>naĩ syakwa</b> na avambĩw’a vau vandũ vyakwa.</p><div class='crux-verse'>“Ĩndĩ nĩwatonyiwe kwondũ wa mavĩtyo maitũ, auauĩkw’a kwondũ wa mothũku maitũ… naitũ nĩtũvoetw’e kwondũ wa makũnwa make.” — Isaia 53:5</div>",
+  "faq.h": "Nĩ wĩ na ũndũ ũkũkamananĩa?",
+  "faq.q1": "<span class='arr'>▸</span> Kwoou mũũi wa andũ aetĩkĩla o ũu athi ĩtunĩ, na mũndũ wĩkalile thayũ vate kwĩtĩkĩla athi vala kwĩ kĩlĩko?",
+  "faq.a1": "<p>Nĩ ĩkũlyo ĩseo. Ĩndĩ ĩithĩ, vyu, kwĩ ũelewasyo mũtumanu eli.</p><p><b>① Mbivlia ndĩaanaa andũ “aseo na ooi.”</b> Mũvw’anano ti “mũseo kũvĩta ũla ũngĩ” ĩndĩ nĩ “ũtheu ũtisu wa Ngai.” Mbee wake, vai mũndũ wĩ “mũseo mũkũ” (Alomi 3:23). Kwoou ũũ ti “mũndũ mũseo na mũũi,” ĩndĩ nĩ ta andũ eli me na ũwau ũmwe wa kĩkw’ũ — ũmwe nĩwosa ndawa, na ũla ũngĩ aũlea, akĩasya, “nyie nĩ ndĩ na ũima kũvĩta ũsu.”</p><p><b>② Kĩndũ kĩaanaa ĩtunĩ na kĩlĩko nĩ kĩndũ o kĩmwe.</b> Ti ũtalo wa meko, ĩndĩ nĩ <b>kana nĩwosie Yesũ Klĩsto ate Mwĩaĩi na naĩ yaku yamina kũseũvw’a</b>. Ũla naĩ yake yaseũvw’a nĩ nthakame ya Klĩsto nĩwe ũthi ĩtunĩ; ũla ũtamwosie, naĩ yake ĩkĩsyaa, ndathi. Vai meko maseo matonya kũseũvya naĩ ĩsu yo mwene.</p><p>Kwoou ĩtunĩ na kĩlĩko ti “ndaĩa ya meko maseo” ĩndĩ nĩ ũndũ wa <b>ngwatanĩo na Klĩsto</b>. Na “kwĩtĩkĩla” ti kwĩtĩkĩla na kĩlĩko o weka, ĩndĩ nĩ kũalyũla ũla wĩaĩlaa thayũ waku — ũla wamwosa kwa w’o ndatw’ĩkaa na mwĩnyumĩo, ĩndĩ nĩwalyũlaa ngoo mũno. Kwa w’o, kwĩtw’ĩkĩthya mũlũngalu (“nyie nĩ mũndũ mũseo”) nĩ mũvw’anano ũla ũtumĩte kũvunangwa, ũla ũtũtũmaa twĩsũanĩa kana tũtĩendaa Klĩsto (Luka 18:9-14).</p><p>Mbivlia yĩasya na w’o: <b>“Ũla ũmwĩtĩkĩlaa ti mũsilĩle: ĩndĩ ũla ũteũmwĩtĩkĩla nĩ mũsilĩle o na yu”</b> (Yoana 3:18). Ũsilĩlo ti “kũtalwa kwa meko maku ĩtina wa kĩkw’ũ,” ĩndĩ nĩwĩ ũamũĩte kwa <b>kana nĩwosie Klĩsto</b>.</p><p class='faq-v'>Alomi 3:23 · Yoana 3:18 · Aeveso 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Vate kwĩtĩkĩla Yesũ, ndaĩtonya o kwĩkala thayũ mũseo?",
+  "faq.a2": "<p>Yĩĩ nĩyo ĩsũanĩo ĩla ĩtumanu mũno, ĩndĩ ĩitelewa kĩu kĩthĩnĩo kĩseo. Ekai twolye na ngelekany’o.</p><p><b>Sũanĩa wĩ ĩũlũ wa ngalawa ya aii (apirate).</b> O na wasavya ngalawa, o na wĩthĩwa mũseo kwa andũ ala me ngalawanĩ, o na wĩthĩwa na thayũ mũseo, ũilyĩ wĩ <b>mũii</b>, nũndũ ũtwawa nĩ ngalawa nginya vala ĩthi (laini wa ũsilĩlo). Kĩthĩnĩo ti “ũtalo wa meko maku” ĩndĩ nĩ <b>“nĩ ngalawa yĩva wĩ vyo” (we wĩ mũndũ wa mũvaĩ ũva)</b>.</p><p>Kwoou ũvoo mũseo ndwĩasya “tata mũno ũthĩwe mũseo” ĩndĩ wĩasya <b>“alyũka ngalawa ĩngĩ.”</b> Ĩka kuma ngalawanĩ ya naĩ, ũũkĩle kwa Yesũ — vandũ va kũtw’ĩka <b>mwana wa Ngai</b>. Ũũ ti kwongela ũtalo waku na kwĩtata, ĩndĩ nĩ kũĩkĩĩa ũla ũkũtambĩaa kw’oko nake ũkalyũka ngalawanĩ yake.</p><p>Kwa w’o, Mbivlia yĩonanasya ũtangĩĩo o ta ũlyũkyo ũsu: <b>“ũla watũtangĩĩe kuma vinyanĩ wa kĩvindu na kũtũthamya na kũtũlikya ũsumbĩnĩ wa Mwana wake mwendwa”</b> (Akolosai 1:13).</p><p>Ndũkamanye nai: <b>ũũ ndwĩasya kwĩkala thayũ mũseo kũi vata.</b> Ĩndĩ ũseo ti “laini wa kũnenga” ũtangĩĩo, ĩndĩ nĩ <b>matunda</b> mayo. Ũla walyũkie ngalawa nĩwĩkalaa nesa, ti nũndũ wa woa, ĩndĩ nĩ kwondũ wa <b>wendo wa mwana</b>.</p><p class='faq-v'>Akolosai 1:13 · Yoana 1:12 · Yoana 3:3 · Aeveso 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Ethĩwa mũndũ wĩkie ũthũku akwasya “Ngai nĩwanekie” na ekala thayũ, na ũla weekiwe naĩ ailyĩ na woo, ĩ ũekeo ũsu ti wa thooa mũnini mũno?",
+  "faq.a3": "<p>Ĩkũlyo nĩ ĩseo, na woo ũsu nĩ wa w’o. Ĩndĩ ndeto ĩsu ti “ũekeo wa Mbivlia” ĩndĩ nĩ <b>kũũkũũnga</b> kwakyo.</p><p><b>① Ũekeo wa Ngai ndũĩthĩwaa wa thooa mũnini.</b> Naĩ ndĩvw’ĩkawa ta ndyekĩka; Ngai mwene nĩwaĩvie thooa wayo na thayũ wa Mwana wake. Mũsalava ti ũkũmaĩthani kana naĩ nĩ ĩndũ ya mũũ, ĩndĩ nĩwonanasya kana naĩ nĩ nzĩtu — nĩ ũekeo wa thooa mũnene mũno nthĩ.</p><p><b>② Ũalyũlo wa ngoo wa w’o nĩũsyaa matunda.</b> Ethĩwa mũndũ wĩkie ũthũku eelekana na ũla weekiwe na mwĩnyumĩo, akyasya “Ngai nĩwanekie, kwoou ndĩ thayũ,” ũsu ti ũalyũlo wa ngoo ĩndĩ nĩ kũvw’ana naw’o (Mathayo 3:8). Na ũekeo katĩ wa mũndũ na Ngai ndũvyataa ĩvanga ya ũla weekiwe kana kũmũthany’a aeke.</p><p><b>③ Naĩ ndĩthĩwaa “ĩitiwa o ũu.”</b> Kĩla naĩ nĩĩvawa thooa vandũ vala vamwe va eli: <b>kana Klĩsto akamĩkua ĩ ĩũlũ wa mũsalava</b> (kwa ala mamwĩkĩaa vai ũsilĩlo ĩngĩ, Alomi 8:1), <b>kana ũla ũmũlea mũthya akamĩkua we mwene.</b> Kwoou vai “ũekeo wa thooa mũnini.” Ũla weekie ũthũku ailyĩ na wĩa wa kũĩva mbee wa kĩsila kya nthĩ ĩno (Alomi 13:1-4).</p><p><b>④ Methoi ma ũla weekiwe matiĩ manini mbee wa Ngai.</b> Ngai nĩwĩaa vamwe na ala mailaa, alilikanaa kĩla ĩthoi, na mũthya we mwene nĩwakamavyaĩa (Ũvuan’yo 21:4). Kwoou ũla weekiwe ndakuaa ũito wa kwĩĩvanĩsya we weka, ĩndĩ atonya kũũnenga Ngai ũla mũlũngalu (Alomi 12:19: “Ũĩvanĩsyo nĩ wakwa; ngaĩvanĩsya, easya ũu Ngai”).</p><p class='faq-v'>Mathayo 3:8 · Alomi 8:1 · Alomi 13:1-4 · Ũvuan’yo 21:4</p>",
+  "faq.q4": "<span class='arr'>▸</span> Ĩ Mbivlia nĩ ũvoo wa w’o kwĩ w’o? Yĩonekaa ta ng’ano ya tene kana ĩnganano.",
+  "faq.a4": "<p>Nĩ ĩkũlyo ĩseo — na nĩ vandũ vaseo va kwambĩĩa. Nzika ti ũndũ ũtũngene na mũĩkĩĩo, ĩndĩ nĩ wendi wa kũtalũkany’a maũndũ na w’o. Mbivlia ti ng’ano ĩte ũw’o ya “kwĩtĩkĩla ethĩwa nĩwakwenda,” ĩndĩ nĩ ũandĩki ũandĩkĩtwe ĩũlũ wa <b>kũndũ kwa w’o, mĩthenya ya w’o, na andũ ma w’o</b>. Aa nĩ ngelekany’o nini.</p><p><b>① Ti ĩvuku yĩmwe ĩndĩ nĩ “nyũmba ya mavuku” — ĩndĩ ĩseũvaa ĩũlũ wa ũndũ ũmwe.</b> Mbivlia nĩ mwĩũngany’o wa <b>mavuku 66</b> maandĩkĩtwe ĩvindanĩ ya ta <b>myaka 1,500 nĩ andĩki ta 40</b> — asumbĩ, aĩthi ma ng’ondu, atavi ma makũyũ, mũkũngany’a wa mũtaalo, mũĩti, andũ ma vandũ na mavinda matokĩanĩte, maandĩkaa o mũndũ mwene atesĩ ũla ũngĩ, kwa ithyomo itatũ (Kĩevelania, Kĩalami, Kĩkiliki). Ĩndĩ syonthe nĩsyũmanĩaa, itena kĩvathũkany’o, ĩũlũ wa <b>ũndũ ũmwe: ũtangĩĩo kwĩsĩla kwa Klĩsto</b>. Ũsu nĩ ũlĩkany’o ũtatonyeka kwĩeleeka nĩ mũisyo kana ũtaĩo wa andũ.</p><p><b>② Yendeeaa na kũkũĩthw’a kuma nthĩ (kũtalũkany’a maũndũ ma tene).</b> Maũndũ maingĩ ala maĩ matuee ta motwawe, “makwoneka o Mbivlianĩ,” ĩteni nĩmakũĩthĩiw’e nĩ kwĩnza nthĩ. <b>Ũsyao wa Ndaviti</b> nĩ ĩvia yĩandĩkĩtwe “nyũmba ya Ndaviti” (Ĩvia ya Teli Ndani); <b>Pilato</b>, ũla mũsumbĩ waũaie Yesũ, nĩ ũandĩki wĩna ĩsyĩtwa yake; mũkele wa kĩw’ũ wa Mũsumbĩ Hesekia (2 Asumbĩ 20:20) nĩ mũkele mwene na ũandĩki wakyo. O na <b>Ahiti</b>, ala maĩ mawetawa ta “andũ ma kwĩtaĩa,” nĩmoonanie ta ũsumbĩ mũnene maĩnĩ ma ndũũa.</p><p><b>③ Nĩ ũandĩki wa tene ũla wĩkĩĩtwe nesa mũno (mauandĩki ma moko).</b> Ĩũlũ wa wingĩ wa mauandĩki ala maavw’ie, na ũlĩkany’o wamo o ũndũ, na ĩvinda katĩ wa ũandĩki na ũkũũni, Mbivlia <b>ndĩna ũĩ maũndũnĩ ma tene</b>. Ĩvuku ya Isaia ya mbee wa Klĩsto maĩnĩ ma <b>Mauandĩki ma Ũkanga wa Nzaĩ</b> (maoneetwe 1947) nĩyaĩlanĩte na ũandĩki wa ĩvinda ta myaka 1,000 ĩteni o ĩandĩko kwĩ ĩandĩko — ũkũ nĩ ũkũĩthany’a kana Mbivlia nĩyaĩwe nesa ĩvinda yonthe.</p><p><b>④ Maũndũ maandĩkĩtwe mbee nĩmekĩkie o ũu (ũathani).</b> Vatano ya Tene, yĩandĩkĩtwe myaka mingĩ mbee wa Yesũ, yĩonanasya nesa ũsyao wake Bethelehemu (Mika), ũla mũthũkũmi ũkwoo (Isaia 53:5), na ũndũ wa mũsalava (Savuli 22). Nĩ kĩndũ kĩlũngalu mũno kĩisĩoneka ta kya mũisyo.</p><p><b>⑤ Asyokoania nthĩnĩ ma Mbivlia o nao nĩmaũandĩkie.</b> Mũsyokoania wa Loma <b>Tasito</b> na mũsyokoania Mũyivulai <b>Yosefasi</b> — vai o ũmwe waĩ Mũklĩsto — nĩmawetete Yesũ, ũaĩ wake, na kanisa ka mbee. Mbee wa syonthe, amanyĩw’a ala maĩ matahaĩ nĩ kĩlĩ <b>nĩmaeanĩie thayũ wao</b> kwoonany’a ũthayũũku — vai mũndũ ũkw’aa kwondũ wa ũndũ ũ wĩsĩ kana nĩ wa ũvũngũ.</p><p>Ĩndĩ kwa w’o, mĩthemba ĩno yonanasya kana kwĩtĩkĩla Mbivlia ti <b>ũndũ ũte ũũ ĩndĩ nĩ ũndũ wĩ ũũ</b>; ti “ũkũĩthany’o” ũkũtũlũmany’a ta ĩsivu ya namba. Kwoou ũĩkĩĩsyo wa Mũklĩsto ndũmaa kuma mĩthemban’i oka, ĩndĩ nĩ kuma <b>ũkũĩthany’oni ũla Veva Mũtheu wĩ ĩaa ngoonĩ ya mũndũ ĩla ũkwĩsoma Ndeto</b>. Mbivlia yaĩtye — <b>“Kwa ũu mũĩkĩĩo wũkaa kwondũ wa kwĩw’a, na kwĩw’a kũkaa kwondũ wa ndeto ya Klĩsto.”</b> (Alomi 10:17). Kwoou o na yethĩwa yĩonekaa ta nganano, <b>kwĩsoma we mwene</b> nĩkyo kwambĩĩa. Mĩthemba nĩyĩvĩngũaa mũomo, na ũĩkĩĩsyo nĩwĩanĩaa thĩinĩ wa ũla ũkũsoma.</p><p class='faq-v'>2 Asumbĩ 20:20 · Isaia 53:5 · Alomi 10:17</p>",
+  "respond.h3": "Kwoou — nyie ndĩke ata?",
+  "respond.sub": "Wendo ũũ ti ũmanyĩsyo o weka, ĩndĩ nĩ <b>ũũmbano</b>. Ethĩwa wendo ũla wavambĩw’a vandũ vyaku nĩwĩkwatie ngoo yaku, voya ũvoyo ũũ o ndeto na ndeto, kavinda kanini.",
+  "respond.prayer": "<p>Ngai,</p><p>nĩnĩetĩkĩla kana ndĩ mũthe ũla ũtatonya kwĩtangĩĩa.</p><p>Nĩnĩĩkĩĩaa kana Yesũ nĩwakw’ie ĩũlũ wa mũsalava vandũ vyakwa na akĩthayũũka.</p><p>Ndekea naĩ syakwa syonthe, na kuma yu ĩthĩwa Mwĩaĩi wa thayũ wakwa.</p><p>Nyosa ndĩ mwana waku, na ũndũme nĩkale thayũ mweũ.</p><p class='amen'>Ngavoya kwa ĩsyĩtwa ya Yesũ. Ameni.</p>",
+  "respond.after": "Ethĩwa nĩwavoya ũũ na ngoo yonthe, Mbivlia yĩasya kana nĩwatw’ĩka <b>mwana wa Ngai</b>. Ndwĩ weka ĩngĩ — manthya kanisa ĩsu vakuvĩ, na ũthi vamwe na angĩ nzĩanĩ ya mũĩkĩĩo.",
+  "respond.read": "Soma Mbivlia we mwene — ambĩĩa na Yoana",
+  "respond.verse": "“Ĩndĩ onthe ala mamwosie, amanenga ũkũmũ wa ũtw’ĩka syana sya Ngai, o ala metĩkĩlaa syĩtwa yake.” — Yoana 1:12 · Alomi 10:9-10",
+  "closing.main": "Ngai o ũmwe,<br>kwĩsĩla ũvoo o ũmwe,<br>atũmanthaa na <em>wendo</em><br>ũla ũtakomaa.",
+  "closing.verse": "“kana kĩkw’ũ, o na thayũ… o na kĩla kyoombiwe kyonthe, kĩtitonya kũtũtaan’ya na wendo wa Ngai, ũla wĩ nthĩnĩ wa Klĩsto Yesũ Mwĩaĩi waitũ.” — Alomi 8:38-39",
+  "closing.small": "Ĩũlũ wa ũvoo ũũ, Mĩao, mavuku ma wathi, athani, na valũa nĩmaongelaa “mwĩĩ.”<br>Kuma yu, o ĩvuku ĩla ũũvingũa, nĩũkũmanya “wĩ va nthĩnĩ wa ũvoo.”",
+  "closing.share": "↗ Aanĩa ũvoo ũũ",
+  "about.line": "Kĩandĩko kĩseũvĩtwe kwĩsĩla <b>kĩoneki kĩa ũtangĩĩi (redemptive-historical), evangelical · Reformed</b> ĩla ĩaananasya kanisa nyingĩ ya Akolea Aprotestanti.",
+  "about.contact": "Makũlyo · ĩsũanĩo — <a id='contact' class='mail'>Tũtũmĩe email</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ŨTIANO ŨKŨŨ · KWAMBĨĨA",
+   "title": "Ũũmbi",
+   "date": "Mwambĩlĩlyonĩ",
+   "one": "Ngai nĩwombie nthĩ ĩla yaĩ “nzeo mũno.”",
+   "people": "Ngai; Adamu na Eva",
+   "events": "Ũũmbi wa mĩthenya thanthatũ, mũndũ ombiwe mũvw’anĩ wa Ngai, ũthũmũo wa Sabato",
+   "q": "Mwambĩlĩlyonĩ Ngai nĩwatw’ĩkĩthisye matu na nthĩ.",
+   "cite": "Mwambĩlĩlyo 1:1",
+   "christ": "Nthĩ yombiwe kwĩsĩla “Ndeto.” Ũvoo Mũseo wa Yoana wĩasya kana Ndeto ĩsu nĩ Yesũ mwene (Yoana 1:1-3).",
+   "detail": "<p>Mbivlia ndĩambĩaa na ũkũvĩthany’a wa ũũi ĩndĩ ĩambĩaa na kwasya: <b>“Mwambĩlĩlyonĩ Ngai…”</b> Nthĩ ti ya kwĩthĩwa o ũu ĩndĩ nĩ wĩa wa Ngai mwene.</p><ul><li><b>Mũvw’anĩ wa Ngai</b> · kati wa indu syonthe syombiwe, no mũndũ wombiwe avw’anĩte na Ngai — nĩ kana amũmanye na asũvĩe nthĩ.</li><li><b>Ũthũmũo</b> · ũthũmũo wa mũthenya wa mũonza nĩwonanasya kĩla kĩndũ kĩminũkĩlu na kĩ na thayũ (shalom): “Ngai akĩona nĩ nzeo.”</li><li><b>Edeni</b> · nthĩ mbee wa kũvunangwa, vala Ngai na mũndũ methiawa vamwe.</li></ul>",
+   "next": "Ĩndĩ ũminũkĩlu ũũ nĩũkũvunangwa ĩvinda nĩndũnĩ…"
+  },
+  {
+   "tag": "ŨTIANO ŨKŨŨ · KĨTHĨNĨO KYAMBĨĨA",
+   "title": "Ũkũũ",
+   "date": "Mwambĩlĩlyonĩ",
+   "one": "Naĩ nĩyatonya, na ngwatanĩo katĩ wa mũndũ na Ngai yatĩlwa.",
+   "people": "Adamu na Eva; nzoka (Satani)",
+   "events": "Maĩa matunda ala maĩ makaane, kũtwawa kuma Edeni, kĩkw’ũ na wĩa mũito mooka",
+   "q": "na ngeekĩa ũmaitha katĩ wenyu we na mũndũ mũka… akatumba mũtwe waku, naku ũkatumba kĩtiinyo kyake.",
+   "cite": "Mwambĩlĩlyo 3:15",
+   "christ": "Wĩanĩo wa mbee wa ũvoo mũseo, wanenganiwe ĩtina ya Ũkũũ: “ũsyao wa mũndũ mũka” akatumba mũtwe wa nzoka — na ũsu nĩ Yesũ (Mwambĩlĩlyo 3:15; Alomi 16:20; Akalatia 4:4).",
+   "detail": "<p>Kwĩsĩla ũtĩw’o wa kwenda “kwĩthĩwa ta Ngai,” naĩ ĩatonya nthĩ. Matunda mayo ti o kũtilĩsya mwĩao o weka ĩndĩ nĩ <b>kũtĩlwa kwa ngwatanĩo</b>.</p><ul><li><b>Ngwatanĩo syatĩwa</b> · na Ngai (kwĩvitha), na andũ angĩ (kũnengan’ya naĩ), na nthĩ (mĩvw’a na wĩa mũito).</li><li><b>Kĩkw’ũ</b> · ũkany’o “ũkakw’a o vyu” watw’ĩka wa w’o.</li><li><b>Mwambĩlĩlyo 3:15</b> · ĩndĩ kati wa ũsilĩlo, wĩanĩo wa ũtangĩĩo nĩwanenganiwe mbee. Asomi mamũtaa <b>protoevangelium (ũvoo mũseo wa mbee)</b>.</li></ul>",
+   "next": "Yu Ngai nĩwakũĩte mũndũ o ũmwe nĩ kana ambĩĩe ũtangĩĩo…"
+  },
+  {
+   "tag": "ŨTIANO ŨKŨŨ · WĨANĨO",
+   "title": "Aana ma Mbee",
+   "date": "ĩũlũ wa B.C. 2000",
+   "one": "Ngai nĩwĩaie Avalaamu: “Ũkethĩwa nzĩa ya kĩathĩmo.”",
+   "people": "Avalaamu · Isaaka · Yakovo · Yosevu",
+   "events": "Ũtiano wa Avalaamu, kũnengwa kwa Isaaka, syana ikũmi na ili sya Yakovo, Yosevu watw’ĩka mũsumbĩ Misili",
+   "q": "na ngakũtw’ĩkĩthya mbaĩ nene… na nthĩnĩ waku, we, mĩvĩa yonthe ya nthĩ ĩkaathimwa.",
+   "cite": "Mwambĩlĩlyo 12:2-3",
+   "christ": "Wĩanĩo wa kana “mĩvĩa yonthe ĩkaathimwa” nĩwĩanĩu nthĩnĩ wa Yesũ, ũsyao wa Avalaamu (Akalatia 3:16).",
+   "detail": "<p>Ngai nĩwambĩlĩlye kũseũvya kĩthĩnĩo kya andũ onthe kwĩsĩla kũkũĩa mũndũ o ũmwe, <b>Avalaamu</b>. Ĩvinda nzaa nĩ <b>ũtiano (wĩanĩo)</b> — mbaĩ nene, nthĩ, na “kĩathĩmo kwa mĩvĩa yonthe.”</p><ul><li><b>Mũĩkĩĩo</b> · Avalaamu nĩwetĩkĩlie wĩanĩo ũla ũtonekaa, na watalĩlwa nĩ ũlũngalu (Mwambĩlĩlyo 15:6).</li><li><b>Isaaka na Yakovo</b> · wĩanĩo wĩaĩa kwa ũsyao ũla ũũka; Yakovo (Isilaeli) nĩwe ĩthe wa mbaĩ ikũmi na ili.</li><li><b>Yosevu</b> · waiwe nĩ ana-a-asa make ĩndĩ watw’ĩka mũsumbĩ — “Ngai asũanĩa wĩthĩwe ũseo” (Mwambĩlĩlyo 50:20).</li></ul>",
+   "next": "Maatĩĩte Yosevu, mũsyĩ waatha Misili — na watw’ĩka wa ũkombo…"
+  },
+  {
+   "tag": "ŨTIANO ŨKŨŨ · ŨTANGĨĨO",
+   "title": "Kũuma Misili na Weũ",
+   "date": "ĩũlũ wa B.C. 1446",
+   "one": "Ngai nĩwatangĩĩe andũ a ũkombo na amatw’ĩkya ake mwene.",
+   "people": "Mose, Aloni, Falao",
+   "events": "Mawanga ikũmi, Vasaka, kũvulũka Ũkanga Mũtune, Mĩao Ikũmi vau Sinai, ĩsyokoo, myaka 40 weũnĩ",
+   "q": "na ngamwosa mwĩthĩwe andũ makwa, na ngeethĩwa nĩ Ngai wenyu…",
+   "cite": "Kuma 6:7",
+   "christ": "Vasaka — vala nthakame ya kondoo yavetie kĩkw’ũ — ĩonanasya Yesũ, “kondoo witũ wa Vasaka,” wavambĩw’a kwondũ witũ (1 Akolintho 5:7).",
+   "detail": "<p>Ũtangĩĩo mũnene mũno wa Ũtiano Ũkũũ. Isilaeli ala maĩ a ũkombo nĩmavetwa nĩ vinya wa Ngai na matw’ĩkw’a <b>andũ</b> make.</p><ul><li><b>Vasaka</b> · nyũmba ĩla yaĩ na nthakame ya kondoo mũomonĩ nĩyavĩtw’a nĩ kĩkw’ũ — mũvaĩ wa manyumya onthe maatĩĩe.</li><li><b>Ũkanga Mũtune</b> · ũtangĩĩo vala nzĩa yathela; “kũvulũka” watw’ĩka kĩonany’o kya kwambĩĩa kweũ.</li><li><b>Ũtiano wa Sinai</b> · kwĩsĩla Mĩao Ikũmi mamanya kwĩkala ta andũ ma Ngai.</li><li><b>Ĩsyokoo</b> · vandũ vatheu va kwĩeasya vala Ngai aĩkalaa kati wa andũ make — mũvw’anano wa “Imanueli.”</li><li><b>Myaka 40</b> · ũtĩw’o ũatũmie mbaĩ ĩmwe yendeesya weũ, ĩndĩ Ngai aĩkalaa vakuvĩ na mana na kĩndĩ kya ĩlĩu na wakĩ.</li></ul>",
+   "next": "Maĩunganĩte mũomonĩ wa nthĩ ĩla yaĩanĩiwe, meyumĩa kũtonya…"
+  },
+  {
+   "tag": "ŨTIANO ŨKŨŨ · KWĨKALA NTHĨ",
+   "title": "Kũtwaa Nthĩ na Asili",
+   "date": "ĩũlũ wa B.C. 1400–1050",
+   "one": "Nĩmoosie nthĩ, ĩndĩ vate mũsumbĩ kĩla mũndũ wĩkie ũndũ wonaa wĩ ũseo.",
+   "people": "Yosua; asili ta Ndeoni na Samusoni; Luthi",
+   "events": "Kũũa kwa Yeliko, kwĩkala Kanaani, ũsyokeo wa naĩ–ũsilĩlo–ũtangĩĩo",
+   "q": "Mĩthenyanĩ ĩsu kũtyaĩ mũsumbĩ nthĩnĩ wa Isilaeli: kĩla mũndũ eekaa ũndũ wonaa wĩ ũseo.",
+   "cite": "Asili 21:25",
+   "christ": "Kuma ũsyao wa Luthi nĩkuumĩle Ndaviti, na kuma ũsyao wa Ndaviti nĩkuumĩle Yesũ (Mathayo 1). O na kati wa ũvuko, mũsyĩ wa Mesia nĩwendeee.",
+   "detail": "<p>Ungu wa Yosua matonya nthĩ ĩla yaĩanĩiwe, ĩndĩ ĩtina ya kwĩkala mavĩaa kũlilikana Ngai. Asili nĩ ũsyokeo o ũsu o ũmwe.</p><ul><li><b>Ũsyokeo wa nthĩ</b> · naĩ → ũsiniĩsyo → kũkaya → mũsili atangĩĩa → naĩ ĩngĩ. Ũendaa kũthũka mũno.</li><li><b>Asili</b> · Ndeoni, Samusoni, Ndevola — atangĩĩi ma kavinda, me na ũkamba ĩndĩ me na maũndũ maingĩ matumanu.</li><li><b>Luthi</b> · ũvoo mũseo wa ngingĩo ĩvindanĩ ya kĩvindu; mũndũ mũka wa kĩeni atonya mũsyĩ wa Ndaviti (na Yesũ).</li></ul>",
+   "next": "Andũ makaya, “Tũnenge ningĩ mũsumbĩ!”…"
+  },
+  {
+   "tag": "ŨTIANO ŨKŨŨ · ĨVINDA NZEO",
+   "title": "Ũsumbĩ Mũnganĩ",
+   "date": "ĩũlũ wa B.C. 1050–930",
+   "one": "Ngai nĩwĩaie Ndaviti: “Kĩvĩla kyaku kya ũsumbĩ kĩkalũlũmĩla tene na tene.”",
+   "people": "Sauli · Ndaviti · Solomoni",
+   "events": "Mũsumbĩ wa mbee Sauli, Ndaviti na Goliathi, ũtiano wa Ndaviti, Solomoni waka ĩsyokoo",
+   "q": "Na nyũmba yaku na ũsumbĩ waku ĩkalũlũmĩlw’a kwaku tene na tene: kĩvĩla kyaku kya ũsumbĩ kĩkalũlũmĩlw’a tene na tene.",
+   "cite": "2 Samueli 7:16",
+   "christ": "“Kĩvĩla kya ũsumbĩ kĩa tene na tene” nĩkĩanĩu nthĩnĩ wa Yesũ, ũsyao wa Ndaviti — nĩkyo kĩtumi atawa “Mwana wa Ndaviti” (Luka 1:32-33; Mathayo 1:1).",
+   "detail": "<p>Ĩvinda nzeo ya Isilaeli, ungu wa asumbĩ atatũ.</p><ul><li><b>Sauli</b> · mũsumbĩ wa mbee ũla andũ maĩaie; wambĩlĩlya nesa, ĩndĩ aleawa nĩ ũtĩw’o wake.</li><li><b>Ndaviti</b> · “mũndũ ũvw’anĩte na ngoo ya Ngai.” Nĩwaĩ Goliathi na atw’ĩkya Yelusaleme ĩsumbĩ. Nĩwekie naĩ nene (Mbathisheva) ĩndĩ alyũla ngoo kuma ngoonĩ (Savuli 51).</li><li><b>Ũtiano wa Ndaviti (2 Samueli 7)</b> · Ngai nĩwĩaie kũkĩthya nyũmba ya Ndaviti tene na tene — mũi wa wĩkwatyo wa Mesia.</li><li><b>Solomoni</b> · ĩũlũ wa ũĩ na ũthwii nĩwaakie <b>ĩsyokoo</b> ya Yelusaleme, ĩndĩ mũthya wa thayũ wake watonya ũthaithi wa mĩvw’anano.</li></ul>",
+   "next": "Ĩtina ya Solomoni, ũsumbĩ waanĩa eli…"
+  },
+  {
+   "tag": "ŨTIANO ŨKŨŨ · KŨTHŨKA",
+   "title": "Ũsumbĩ Mũanĩe",
+   "date": "B.C. 930–586",
+   "one": "Waanĩka mũsemĩnĩ (Yuta) na ũtanĩ (Isilaeli), na kethũka kavinda kanini.",
+   "people": "Asumbĩ ma ũsumbĩ eli; athani ta Eliya, Isaia, Yelemai",
+   "events": "Ũsumbĩ waanĩa, ũthaithi wa mĩvw’anano waneneva, athani makanya",
+   "q": "Ũu nĩw’o Isilaeli mang’endee nyũmba ya Ndaviti kũvika ũmũnthĩ.",
+   "cite": "1 Asumbĩ 12:19",
+   "christ": "Ĩvindanĩ yĩĩ athani maũmbĩasya na w’o mũno ĩũlũ wa Mesia ũla ũũka (Isaia 9:6; Isaia 53).",
+   "detail": "<p>Mĩthenyanĩ ya mwana wa Solomoni ũsumbĩ waanĩa: <b>ũsumbĩ wa ũtanĩ wa Isilaeli</b> (mbaĩ 10, ĩsumbĩ Samalia) na <b>ũsumbĩ wa mũsemĩnĩ wa Yuta</b> (mbaĩ 2, ĩsumbĩ Yelusaleme).</p><ul><li><b>Isilaeli (ũtanĩ)</b> · asumbĩ ake onthe mathaithaa mĩvw’anano; waiwa nĩ Asuli mwakanĩ wa B.C. 722.</li><li><b>Yuta (mũsemĩnĩ)</b> · ũsyao wa Ndaviti wendeee, na asumbĩ aseo anini ta Esekia na Yosia, ĩndĩ kĩ kĩonthe wĩthũkie.</li><li><b>Athani</b> · Eliya, Amosi, Isaia, Yelemai makaya “syokeei!” Ũũmbĩ wa Mesia waneneva mũno vaa (“ngombo ĩla ĩthĩnaa” ya Isaia 53).</li></ul>",
+   "next": "Mũthya ũsilĩlo ũla wakanĩiwe nĩwooka — matwawa ũkombo…"
+  },
+  {
+   "tag": "ŨTIANO ŨKŨŨ · ŨSILĨLO",
+   "title": "Ũkombo",
+   "date": "B.C. 722 / 586",
+   "one": "Ũsumbĩ waanangwa na andũ matwawa nthĩ sya kĩeni.",
+   "people": "Ndanieli, Esekieli, Nebukandineza",
+   "events": "Isilaeli waiwa nĩ Asuli (722); Yuta waiwa nĩ Mbaviloni na ĩsyokoo yaanangwa (586)",
+   "q": "Ndee sya mbũsĩ sya Mbaviloni, Twekalile nthĩ ku, ĩĩ, twaĩa, Yĩla twalilikanile Saioni.",
+   "cite": "Savuli 137:1",
+   "christ": "Ndeenĩ ya ũ liku mũno Yelemai nĩwĩanĩaa “ũtianĩo mweũ” (Yelemai 31:31) — o ũtianĩo ũsu Yesũ ũla waseũvisye Kĩanĩ kya Mũminũkĩlyo.",
+   "detail": "<p>Ũkany’o wĩanĩa. Ĩsyokoo yaakana na andũ matwawa Mbaviloni — measya nthĩ, mũsumbĩ, na ĩsyokoo: kĩlĩko kĩa mũthya.</p><ul><li><b>Ũanangu eli</b> · Isilaeli (Asuli, B.C. 722) na Yuta (Mbaviloni, B.C. 586).</li><li><b>Ndanieli</b> · mũvw’anano wa mũĩkĩĩo o na kĩsumbĩnĩ kĩa amyethya (kĩmanĩ kya nzaũ); nĩwoona kĩoneki kĩa “ũsumbĩ wa tene na tene” ũla ũũka.</li><li><b>Mwaki wa wĩkwatyo</b> · kĩoneki kĩa mavĩndĩ momũ mathayũũka (Esekieli 37) na “ũtiano mweũ” wa Yelemai mokĩonanasya ĩvinda ĩũku kĩvindunĩ.</li></ul>",
+   "next": "Ĩtina ya myaka mĩongo mũonza, Ngai nĩwavingũa nzĩa — masyoka mũsyĩ…"
+  },
+  {
+   "tag": "ŨTIANO ŨKŨŨ · KŨSEŨVYA INGĨ",
+   "title": "Kũsyoka kuma Ũkombo",
+   "date": "B.C. 538–430",
+   "one": "Masyoka na maaka ĩsyokoo na mũthĩnga ĩngĩ.",
+   "people": "Esala, Neemia, Esita, Selubabeli",
+   "events": "Kũsyoka kwĩsĩla mwĩao wa Kuluso, kwaka ĩsyokoo ĩngĩ, kwaka mũthĩnga wa Yelusaleme, kũseũvya Ndeto ĩngĩ",
+   "q": "…nũndũ ũtanu wa Yeova nĩ vinya wenyu.",
+   "cite": "Neemia 8:10",
+   "christ": "Malaki, ĩvuku ya mũthya ya Ũtiano Ũkũũ, ĩminũkĩlasya kwa kũũmbĩa mũtũmwa wa kũseũvya nzĩa ya Mesia: “nĩngũtũma mũtũmwa wakwa” (Malaki 3:1).",
+   "detail": "<p>Kwĩsĩla mwĩao wa mũsumbĩ wa Velesia Kuluso (B.C. 538) kũsyoka kwambĩĩa. Kwa nzĩa itatũ masyoka na maaka kĩla kyaanangĩtwe.</p><ul><li><b>Selubabeli</b> · aaka ĩsyokoo ĩngĩ (yaminĩiwa B.C. 516).</li><li><b>Esala</b> · amanyĩsya Ndeto ĩngĩ na aseũvya mũĩkĩĩo.</li><li><b>Neemia</b> · aaka mũthĩnga wa Yelusaleme mĩthenyanĩ 52.</li><li><b>Esita</b> · atangĩĩa Ayuti ala maĩ Velesia kuma kũanangwa — “kana nĩ kwondũ wa ĩvinda ta yĩĩ.”</li><li><b>Nyivũ ĩilyĩ vo</b> · ĩsyokoo nĩyaakwa, ĩndĩ vate mũsumbĩ ta Ndaviti. Andũ meteela Mesia.</li></ul>",
+   "next": "Na ĩndĩ… ta ĩtu yaakwa, myaka 400 ya kĩw’ũ yooka."
+  },
+  {
+   "tag": "KATĨ WA ŨTIANO · KŨSEŨVYA VANDŨ",
+   "title": "Myaka ya Kĩw’ũ",
+   "date": "ĩũlũ wa B.C. 430–4",
+   "one": "Myaka 400 vate mũgambo wa mũthani — ĩndĩ vandũ vaseũvw’a na kĩw’ũ.",
+   "people": "Alekisanda Mũnene, Amakabayo, Loomi",
+   "events": "Velesia → Ngiliki → wĩyathi wa Amakabayo → ũsumbĩ wa Loomi",
+   "q": "ĩndĩ wianĩu wa ĩvinda wooka, Ngai atũma Mwana wake, wasyaiwe nĩ mũndũ mũka…",
+   "cite": "Akalatia 4:4",
+   "christ": "“Kũseũvya vandũ” ũũ wonthe waĩ wĩa wa Ngai nĩ kana Yesũ ooke o “ĩvindanĩ ya wĩanĩu wa ĩvinda.”",
+   "detail": "<p>Kuma Malaki nginya Ũtiano Mweũ, myaka ĩũlũ wa 400 yavĩta vate Maandĩko meũ. Ĩndĩ ĩthĩna wa ũvoo, Ngai aseũvasya nzĩa ya kũtheany’a ũvoo mũseo.</p><ul><li><b>Ũsumbĩ ũilyũa</b> · Velesia → Ngiliki (Alekisanda, B.C. 333) → Aptolemi na Aseleuki → ũũkĩlyo wa Amakabayo (B.C. 167) → Loomi (B.C. 63).</li><li><b>Kĩngiliki</b> · ũtwawi wa Alekisanda watw’ĩkya Kĩngiliki kĩthyomo kĩa onthe; Ũtiano Ũkũũ waalyũlilwe Kĩngiliki (Septuagint), kũvingũa nzĩa ya ũvoo mũseo kũthela mĩtũkĩ.</li><li><b>Nzĩa na thayũ wa Loomi</b> · nzĩa nzeo na “Pax Romana” syatw’ĩka nzĩa sya ũtũmwa.</li><li><b>Masinagogi na ikundi</b> · ũmanyĩsyo wa sinagogi waĩma mĩi; Avalisai na Asanduki mooka; na <b>kweteela Mesia</b> kwĩaĩma.</li></ul>",
+   "next": "Na, kĩw’ũ kyaanangwa, mũthya, nĩwooka."
+  },
+  {
+   "tag": "ŨTIANO MWEŨ · WĨANĨU",
+   "title": "Yesũ Wĩũka",
+   "date": "ĩũlũ wa B.C. 4–A.D. 30",
+   "one": "Mesia ũla waĩanĩiwe nĩwookie, akĩkw’a, na athayũũka.",
+   "people": "Yesũ, amanyĩwa ikũmi na eli, Yoana Mũvatithanĩa",
+   "events": "Kũsyawa (Kĩlismasi), ũtũmwa wa kũmanyĩsya na maũndũ ma kĩseo, kĩkw’ũ kĩa mũsalava, ũthayũũku mũthenya wa katatũ",
+   "q": "Na ĩla Ndeto yatw’ĩka mwĩĩ, na yatũa katĩ waitũ… ausũĩte mumo na w’o.",
+   "cite": "Yoana 1:14",
+   "christ": "Ũsyao wa mũndũ mũka (ũndũ wa 2), kĩathĩmo kya Avalaamu (3), kondoo wa Vasaka (4), mũsumbĩ wa tene na tene wa Ndaviti (6), ũtiano mweũ (8) — onthe maĩanĩu nthĩnĩ wa mũndũ o ũmwe, Yesũ: mũthani witũ wa w’o, mũthembi witũ wa w’o, na mũsumbĩ witũ wa w’o.",
+   "detail": "<p>Kĩw’ũ kyaanangwa; ũla Waĩanĩiwe nĩwĩũka. Ũvoo Mũseo wa ana wĩanĩasya thayũ wa Yesũ, kĩkw’ũ, na ũthayũũku kuma laini iana.</p><ul><li><b>Kũsyawa ta mũndũ</b> · Ngai watw’ĩka mũndũ (Imanueli, “Ngai ũ vamwe naitũ”), vandũ va kĩeni va Bethelehemu.</li><li><b>Ũtũmwa</b> · amanyĩsya ũsumbĩ wa Ngai, avosya awau, akũĩa athe. “Ũla wanyona, nĩwoona Asa.”</li><li><b>Mũsalava</b> · aĩva thooa wa naĩ na kĩkw’ũ syaetewe nĩ Ũkũũ (ũndũ wa 2). Kondoo wa w’o wa Vasaka.</li><li><b>Ũthayũũku</b> · athayũũka mũthenya wa katatũ, na avunanga vinya wa naĩ, kĩkw’ũ, na Satani — o ĩũlũ wa mũsalava nĩ “eevetea monene na mokũmũ amaumĩlya ũtheinĩ, akimakĩlya vinya” (Akolosai 2:15).</li></ul><p>Kwoou Yesũ nĩwe <b>mũthani witũ wa w’o</b> (atũonanasya nzĩa ya Ngai), <b>mũthembi witũ wa w’o</b> (aĩva naĩ na mwĩĩ wake mwene), na <b>mũsumbĩ witũ wa w’o</b> (avunanga naĩ, kĩkw’ũ, na Satani na asumbĩa tene na tene).</p>",
+   "next": "Yesũ ũthayũũku atũma amanyĩwa make nthĩnĩ…"
+  },
+  {
+   "tag": "ŨTIANO MWEŨ · KŨTHELANA",
+   "title": "Kanisa Kyambĩĩa",
+   "date": "ĩũlũ wa A.D. 30–",
+   "one": "Veva wĩũka, na ũvoo mũseo wathelana nginya itulu sya nthĩ.",
+   "people": "Vetelo, Paulo, kanisa ya tene",
+   "events": "Veva wanenganiwe Pentekoste, kanisa kyasyawa, ũvoo mũseo wathelana kuma Yelusaleme nginya Loomi kwĩsĩla maũndũ ma ũsiniĩsyo",
+   "q": "Ĩndĩ mũkoosa vinya, yĩla Veva Mũtheu wĩũka ĩũlũ wenyu: na mũkeethĩwa mwĩ ngũsĩ syakwa Yelusaleme… na kũvika itulu sya nthĩ.",
+   "cite": "Meko ma Atũmwa 1:8",
+   "christ": "Ũvoo ũũ ũilyĩ wendeee o na ũmũnthĩ. Mbivlia ĩminũkĩlasya na wĩanĩo wa kana Yesũ akooka ĩngĩ na atw’ĩkye maũndũ onthe meũ (Ũvuan’yo 21).",
+   "detail": "<p>Ĩtina ya Yesũ kũambata ĩtunĩ, Veva ũla waĩanĩiwe wĩũka Pentekoste na kanisa kyasyawa. Ũvoo mũseo wathelana mũtũkĩ mũno.</p><ul><li><b>Pentekoste</b> · kwĩsĩla Veva, amanyĩwa ala maĩ na woa matw’ĩkw’a ngũsĩ sya ũkamba.</li><li><b>Vetelo</b> · aumĩasya ũvoo mũseo kwa Ayuti Yelusaleme.</li><li><b>Paulo</b> · kuma mũsiniĩsya nginya mũtũmwa; aũnga makanisa nthĩnĩ yonthe ya Andũ-ma-Kĩeni na aandĩka valũa.</li><li><b>Nginya itulu sya nthĩ</b> · Yelusaleme → Yutia → Samalia → Loomi. Wĩanĩo wa “mĩvĩa yonthe” wa Avalaamu watw’ĩka wa w’o.</li><li><b>Na ithyĩ</b> · ũvoo ndũminũkĩlaa; ũendeeaa nginya kũsyoka kwa Yesũ na ĩtunĩ yeũ na nthĩ nzeũ.</li></ul>",
+   "next": "Ĩndĩ ũvoo ndũminũkĩlaa vaa…"
+  },
+  {
+   "tag": "ŨTIANO MWEŨ · ŨMINŨKĨLYO",
+   "title": "Kũseũvya Ĩngĩ (kĩndũ kyonthe kĩeũ)",
+   "date": "Kĩilyĩ kĩũka",
+   "one": "Yesũ akooka ĩngĩ na atw’ĩkya maũndũ onthe meũ.",
+   "people": "Yesũ ũla ũkũsyoka; mbaĩ syonthe",
+   "events": "Kũsyoka kwa keli, ũsilĩlo wa mũthya, mũthya wa naĩ·kĩkw’ũ·methoi, ĩtunĩ yeũ na nthĩ nzeũ",
+   "q": "na akavyaĩa methoi onthe methonĩ moo; na kĩkw’ũ kĩikethĩwa vo ĩngĩ; o na kũikethĩwa ĩngĩ kũmeta, kana kũĩa, kana woo.",
+   "cite": "Ũvuan’yo 21:4",
+   "christ": "Edeni ya ũũmbi wa mbee yaseũvw’a ĩngĩ ĩthĩwa “Yelusaleme Nzeũ.” Ngai aĩkala vamwe na andũ make tene na tene — ũminũkĩlyo wa Imanueli (Ũvuan’yo 21:3; Mathayo 1:23).",
+   "detail": "<p>Mbivlia ndĩminũkĩlaa ĩvindanĩ ya kanisa. Ĩvuku yayo ya mũthya, Ũvuan’yo, ĩonanasya Yesũ <b>akĩsyoka ĩngĩ</b> kũminũkĩlya kĩla kĩndũ.</p><ul><li><b>Kũsyoka kwa keli</b> · mũsumbĩ ũla waĩanĩiwe asyokaa na ũtisu.</li><li><b>Ũtonyi wa mũthya</b> · Satani na kĩkw’ũ mavunangwa tene na tene, na Klĩsto asumbĩa ta Mũsumbĩ wa asumbĩ (1 Akolintho 15:25-26; Ũvuan’yo 20:10).</li><li><b>Ũsilĩlo na ũthayũũku</b> · kĩla kĩtaĩle kĩseũvw’a, na akw’ũ mathayũũka.</li><li><b>Ĩtunĩ yeũ na nthĩ nzeũ</b> · naĩ, kĩkw’ũ, methoi, na woo mavĩta tene na tene (Ũvuan’yo 21:4).</li><li><b>Edeni yaseũvw’a ĩngĩ</b> · nthĩnĩ wa “Yelusaleme Nzeũ” ĩla nzeo kũvĩta ya mwambĩlĩlyo, Ngai aĩkala vamwe na andũ make tene na tene — nĩkyo kĩla Mbivlia yonthe yaĩonanasya.</li></ul><p>Kwoou yu nĩ ĩvinda ya <b>“nĩkwĩthĩwa, ĩndĩ ti kwa ũminũku”</b>: nthĩnĩ wa Yesũ ũtangĩĩo <b>nĩwĩu</b>, ĩndĩ ũminũkĩlyo wayo <b>ũilyĩ</b> wĩeteelwa.</p>",
+   "next": "Kwoou, ũvoo ũũ wonthe ũmenaa atĩĩa kwa “nyie”?"
+  }
+ ],
+ "love": [
+  "Ũvoo ndwambĩaa na ũsilĩlo ĩndĩ na nthĩ yombiwe nĩ wendo mũingĩ.",
+  "Ĩvinda ĩla andũ meekie naĩ, Ngai nĩwĩanĩie ũtangĩĩo vau o vau.",
+  "Ngai nĩwambĩlĩlye kũmantha mũndũ ũla ũtaĩle, amũkũĩa kwa ĩsyĩtwa, na amũtw’ĩkya nzĩa ya kĩathĩmo.",
+  "Nĩwĩw’ie kũkaya kwa andũ a ũkombo na we mwene aikĩũkĩa kũmatangĩĩa.",
+  "O na maamũnenga mongo kĩngĩ na kĩngĩ, o ĩvinda makaya nĩwatũmie mũtangĩĩi na amaũkĩlya ĩngĩ.",
+  "O na Ndaviti ũla wagwie ndaameekie; kwĩsĩla we nĩwĩanĩie mũsumbĩ wa tene na tene.",
+  "Andũ ala maamũelekeelaa mũongo nĩwendeesye kũmatũmĩa athani, akĩthaitha, “Syokei mũsyĩ.”",
+  "O na nthĩ ĩla ĩũku mũno ya ũkombo nĩwaĩkĩũkĩie vamwe namo, na akĩĩanĩa kũseũvya ĩngĩ.",
+  "O na kwa andũ ala maatĩaa kĩngĩ na kĩngĩ ndaaveewie wĩanĩo wake.",
+  "O na kwĩsĩla myaka 400 ya kĩw’ũ, ate kũoneka, aaseũvasya nzĩa ya ũtangĩĩo.",
+  "Yĩla twaĩ athe, nĩwatũmie Mwana wake aũmye thayũ wake mwene.",
+  "Wendo ũla twosie, yu aũtũma ũitĩke nthĩ yonthe.",
+  "Mũthya akavyaĩa methoi onthe na aseũvya maũndũ onthe meũ na wendo."
+ ],
+ "mis": [
+  {
+   "w": "“Nĩkĩ Ngai wombie mũndũ ũtonya kwĩka naĩ? Ndaĩle kũvĩta kũmwomba?”",
+   "t": "Ngai nĩwombie nthĩ na mũndũ ti kwa kwasũa ũndũ, ĩndĩ nĩ kwa wendo mũingĩ. Kũseũvya mũndũ ate <b>mũndũ ũtonya kũngwatana na Ngai</b> nĩ wendo o weka. Na o na kũtonya kwa naĩ ndwaĩ vate mũvango wa ũtangĩĩo wa Ngai (Aeveso 1:4-5). Ũndũ wa mbee wa Mbivlia ti ũsilĩlo ĩndĩ nĩ wendo."
+  },
+  {
+   "w": "“Kwondũ wa kũĩa ĩtunda o ĩmwe kũtwawa na kũkw’a — ĩ Ngai ndawĩ mũũ mũno?”",
+   "t": "Kũtwawa kuma Edeni kwaĩ ũsilĩlo na o ĩvinda yĩmwe ũtethyo. Kwĩa ĩtunda ya thayũ na kwĩkala tene na tene ĩvindanĩ ĩsu ĩvunangu, ĩseanĩ na Ngai, nĩ kũkwatwa wonĩ tene na tene (Mwambĩlĩlyo 3:22). Kwĩtĩkĩlya kĩkw’ũ kwaĩ kũvingũa nzĩa ya kũsyoka; na vau vau Ngai akĩĩanĩa Mũtangĩĩi (Mwambĩlĩlyo 3:15). Wendo waĩ vo nthĩnĩ wa ũsilĩlo."
+  },
+  {
+   "w": "“Avalaamu wathuawe kwondũ wa mũĩkĩĩo mũnene — ĩ andũ onthe ma Mbivlia ti agima ma tabia nzeo?”",
+   "t": "Avalaamu o nake nĩwaie na akĩnyiva, na Yakovo aĩ mũkengani. Ngai ndaakũĩe andũ “maĩle” ĩndĩ kwa mumo nĩwakũĩe ala matatonya. Kĩtumi kya ũthui ti ũseo woo ĩndĩ nĩ wendo mwĩkĩĩku wa Ngai (Kũtũngĩlĩlwa kwa Mĩao 7:7-8)."
+  },
+  {
+   "w": "“Mĩao (mawatho) ĩ ti kĩsesyo kana laini wa kũvitukya nĩ kana ũtangĩĩwe?”",
+   "t": "Ngai nĩwamatangĩĩie <b>mbee</b> wa kũmanenga Mĩao. O Mĩao Ikũmi yambĩaa na ndeto ya ũtangĩĩo: “Nyie ninyie Yeova Ngai waku, ũla wakumisye nthĩ ya Misili, kuma nyũmbanĩ ya ũkombo” (Kuma 20:2). Mĩao ti “mĩatĩĩe nĩ kana ũtangĩĩwe” ĩndĩ nĩ mũtongoi wa wendo wa ũndũ andũ ala matangĩĩw’e kwa mumo maĩle kwĩkala (Kũtũngĩlĩlwa kwa Mĩao 7:7-9). Mumo nĩyo ĩtongoasya o ĩvinda; ũĩw’o nĩ msungio."
+  },
+  {
+   "w": "“Kũtwaa Kanaani kwaĩ kũũa kwa woa — kwoou Ngai wa Ũtiano Ũkũũ nĩ mũũ.”",
+   "t": "Yĩĩ nĩ ndeto ĩito ĩtatonya kũminũkĩlw’a na ndeto o ĩmwe na yĩendaa kũsũanĩwa nesa. Ĩndĩ Mbivlia ndĩonanasya o ta ũkũ wa ũtũmanu ĩndĩ ta ũsilĩlo ĩtina ya myaka mĩingĩ ya wũmĩĩsyo kũelekana na ũthũku mũnene (vamwe na kũnenga syana sya nthembo) (Mwambĩlĩlyo 15:16; Kũtũngĩlĩlwa kwa Mĩao 9:4-5; Alivai 18:24-25). Ngai ndamĩthany’aa o na kũsila, na ũla wĩsyokeaa kwake amwosaa na ũtanu, o na ethĩwa nĩ mũndũ wa kĩeni ta Lahava na Luthi (Yosua 6:25; Luthi 4:13-17)."
+  },
+  {
+   "w": "“Ndaviti aĩ mũkamba ũtaĩ na ũtumanu — nĩkyo kĩtumi atawa ‘mũndũ ũvw’anĩte na ngoo ya Ngai.’”",
+   "t": "Ndaviti nĩwekie ũlaalai na o na ũũi. “Mũndũ ũvw’anĩte na ngoo ya Ngai” ndimena ũtaĩ na ũtumanu, ĩndĩ nĩ ũla ũtavĩthie naĩ yake — ũla walyũlile ngoo vyu na akethyũũa Ngainĩ ĩvinda yonthe (Savuli 51). Wendo wa Ngai ndaaveaa o na ala maagwaa mũno."
+  },
+  {
+   "w": "“Mũthani nĩ mũũĩ ũla ũũmbĩaa maũndũ ma ĩũku / Ngai wa Ũtiano Ũkũũ nĩ wa ũthatu o weka.”",
+   "t": "Ngoo ya mũthani ti “kũũmbĩa ĩũku” ĩndĩ nĩ kũkaya kwa Ngai kwa woo: “syokei.” O na ũkany’o wa ũsilĩlo nĩ kana mũndũ ethyũũe na athayũũke, ti kũanangwa — “ndititanĩthaw’a nĩ kĩkw’ũ kya mũthũku” (Esekieli 33:11)."
+  },
+  {
+   "w": "“Ũkombo wonanasya kana Ngai nĩwaivie Isilaeli o vyu.”",
+   "t": "Ũkombo ndwaĩ kũvewa ĩndĩ nĩ wĩu na ũtheany’o wa Asa kwa mwana mwendwa (Aevelania 12:6). Ngai ndaaumie; aĩ vamwe na Ndanieli kati wa ũkombo na akĩĩanĩa: “nĩnĩsĩ mosũanĩo ala nĩsũanĩaa kwondũ wenyu… mosũanĩo ma mũuo, na ti ma ũthũku, kũmũnenga wĩkwatyo mũminũkĩlyo wenyu” (Yelemai 29:11)."
+  },
+  null,
+  {
+   "w": "“Ethĩwa kwaĩ vate ndeto kwa myaka 400, Ngai nĩwaumie kana athũmaa.”",
+   "t": "Kĩw’ũ ti kwĩthĩwa vate. Aĩ o ndaambĩa, ĩndĩ ĩvinda ĩsu yonthe aĩlyũa masumbĩ, ithyomo, na nzĩa nĩ kana aseũvye vandũ va ũtangĩĩo. Ĩvindanĩ ĩla ya kĩw’ũ mũno, Ngai aĩwĩa wĩa mũno, kwa wendo (Akalatia 4:4)."
+  },
+  {
+   "w": "“Yesũ aĩ o mũmanyĩsya o ũmwe mũseo wa tabia / mũsalava waĩ kũũa kwa kĩeleelo.”",
+   "t": "Yesũ nĩwaĩasya nĩ Ngai mwene (Yoana 8:58), na mũsalava ti ũndũ wa kwĩthĩwa o ũu kana kũũa, ĩndĩ nĩ wendo waĩ ũvangĩtwe. Ndaatwawe kwa vinya; nĩwaũmisye thayũ wake mwene (Yoana 10:18). “Vai mũndũ wĩ wendo mwingĩ ũvĩtũkĩte ũũ, wa mũndũ kũwia thayũ wake nthĩ nũndũ wa anyanyae” (Yoana 15:13)."
+  },
+  {
+   "w": "“Kanisa nĩ kĩkundi kya andũ agima, kana nĩ nyũmba o weka.”",
+   "t": "Kanisa ti ngwatanĩo ya “atheu agima” ĩndĩ nĩ ya <b>athe maekewa</b>. O na mũtũmwa Paulo mwene nĩwetawe “wa mbee” wa athe (1 Timotheo 1:15). Kanisa ya tene o nayo nĩyanyiva na ĩkagwa (Meko ma Atũmwa 6:1; 1 Akolintho 1:11). Kanisa ti vandũ va kwĩnenia ĩndĩ nĩ andũ ala matwaaa wendo ũla maewie kwa angĩ (Yoana 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Naĩ ya kĩsyao — vai mũlũngalu",
+   "body": "Kĩthĩnĩo ti “meko manini mathũku” ĩndĩ nĩ mũi wa ngoo. Kuma Adamu, kĩla mũndũ asyawaa ungu wa naĩ na ndatonya kũvika kwa Ngai we weka.",
+   "vref": "Alomi 3:10-12, 23",
+   "vtext": "Kũi mũlũngalu, aiee, o na ũmwe… nũndũ onthe nĩmeekie naĩ, na maivikĩaa ũtaĩo wa Ngai."
+  },
+  {
+   "title": "Mĩao ĩtatonya kũndangĩĩa",
+   "body": "Mĩao ti kĩlatho ĩndĩ nĩ kĩoo. O ũndũ ũtataa kũmĩatĩĩa, nĩũonanasya ũndũ ũtaĩle. Kĩeleelo kyayo nĩ kũtũtwaa kwa Klĩsto.",
+   "vref": "Alomi 3:20 · Akalatia 3:24",
+   "vtext": "ũmanyi wa naĩ wũkaa kwondũ wa ĩla mĩao… ĩla mĩao yatw’ikie mũmanyĩsya waitũ kũtũete kwa Klĩsto."
+  },
+  {
+   "title": "Kwa mumo — kĩnengo, ti wĩa",
+   "body": "Ũtangĩĩo ti msungio wa meko ũla weekie, ĩndĩ nĩ kĩnengo kya mũthĩnzĩo kwa ala mataĩle. Kwoou vai mũndũ ũtonya kwĩkathĩĩa.",
+   "vref": "Aeveso 2:8-9",
+   "vtext": "nĩmũtangĩĩĩtwe na mumo kwondũ wa mũĩkĩĩo… ti ũndũ wa meko, kana kũikethĩwe mũndũ o na wĩva kwĩkathĩĩa."
+  },
+  {
+   "title": "Kũtalĩlwa ũlũngalu kwa mũĩkĩĩo",
+   "body": "Ti kwa kwĩka Mĩao, ĩndĩ nĩ kwa kũĩkĩĩa Yesũ Klĩsto, twĩ atalĩlwa ũlũngalu — ti kwĩvw’ĩka ũlũngalu witũ ene ĩndĩ nĩ wake.",
+   "vref": "Alomi 5:1 · Akalatia 2:16",
+   "vtext": "Twatalĩlwa ũlũngalu nũndũ wa mũĩkĩĩo… mũndũ ndatalĩlawa ũlũngalu kwondũ wa meko ma ĩla mĩao ĩndĩ nĩ kwondũ wa kũĩkĩĩa Yesũ Klĩsto."
+  },
+  {
+   "title": "Mbivlia ĩonanasya Yesũ",
+   "body": "Mbivlia ti ĩvuku ya andũ anene kana ya kwĩtethya. Kuma Mwambĩlĩlyo nginya Ũvuan’yo, kĩla ĩseevu kĩonanasya mũndũ o ũmwe — Yesũ Klĩsto.",
+   "vref": "Yoana 5:39 · Luka 24:27",
+   "vtext": "nĩmo mangũsĩĩaa… amavuanĩsya maandĩkonĩ onthe maũndũ ala maandĩkiwe ũndũ wake."
+  },
+  {
+   "title": "Ũsumbĩ wa Ngai — ndeto nzaa ya Yesũ",
+   "body": "Ndeto ĩla Yesũ amanyĩsisye mũno. Ũsumbĩ ũla Ngai asumbĩa ta Mũsumbĩ watonya nthĩ ĩno na Yesũ na ũkaminũkĩlw’a yĩla akasyoka. Kwĩsĩla mũsalava na ũthayũũku, Yesũ nĩwe Mũsumbĩ wa w’o ũla wavunangie naĩ, kĩkw’ũ, na Satani.",
+   "vref": "Maliko 1:15",
+   "vtext": "Ĩvinda nĩ ĩviku, na ũsumbĩ wa Ngai nũthengeee: alyũlai ngoo na mũkĩtĩkĩla ũvoo mũseo."
+  },
+  {
+   "title": "Ũvoo mũseo — nĩwaminũkĩlye kĩla kĩndũ",
+   "body": "Thooa wa naĩ ũla ndatonya kũĩva, Yesũ aũĩvie vandũ vyakwa ĩũlũ wa mũsalava, na kwĩsĩla kũthayũũka avunanga kĩkw’ũ. Ndĩĩĩkĩĩaa ĩũlũ wa “ĩka ũũ” ĩndĩ nĩ ĩũlũ wa “nĩwathela.”",
+   "vref": "Yoana 19:30 · Alomi 5:8",
+   "vtext": "Nĩwathela… yĩla twaĩ athe, Klĩsto akw’a kwondũ witũ."
+  }
+ ],
+ "books": {
+  "Mwambĩlĩlyo": "GEN",
+  "Kuma": "EXO",
+  "Alivai": "LEV",
+  "Motalo": "NUM",
+  "Kũtũngĩlĩlwa kwa Mĩao": "DEU",
+  "Yosua": "JOS",
+  "Asili": "JDG",
+  "Luthi": "RUT",
+  "1 Samueli": "1SA",
+  "2 Samueli": "2SA",
+  "1 Asumbĩ": "1KI",
+  "2 Asumbĩ": "2KI",
+  "Neemia": "NEH",
+  "Savuli": "PSA",
+  "Isaia": "ISA",
+  "Yelemai": "JER",
+  "Esekieli": "EZK",
+  "Malaki": "MAL",
+  "Mathayo": "MAT",
+  "Maliko": "MRK",
+  "Luka": "LUK",
+  "Yoana": "JHN",
+  "Meko ma Atũmwa": "ACT",
+  "Alomi": "ROM",
+  "1 Akolintho": "1CO",
+  "Akalatia": "GAL",
+  "Aeveso": "EPH",
+  "Akolosai": "COL",
+  "1 Timotheo": "1TI",
+  "Aevelania": "HEB",
+  "Ũvuan’yo": "REV"
+ },
+ "yv": 2772,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

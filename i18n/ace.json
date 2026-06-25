@@ -1,0 +1,422 @@
+{
+ "menuName": "Basa Acèh",
+ "htmlLang": "ace",
+ "dir": "ltr",
+ "brand": "Alkitab lam Saboh Scroll",
+ "docTitle": "Alkitab lam Saboh Scroll · Nibak Peuneujeuet trok bak Gereja",
+ "share": {
+  "title": "Alkitab lam Saboh Scroll",
+  "text": "Lam saboh scroll, taeu haba rayeuk Alkitab — dan pakon Isa geuteuka."
+ },
+ "ui": {
+  "people": "Ureuëng",
+  "events": "Hai-hai peunteng",
+  "christLabel": "Tunyok bak Isa",
+  "loveLabel": "Geunaséh nyang han putôh",
+  "mythWrong": "Saläh phom nyang ramé",
+  "mythRight": "Nyang sibeuna jih",
+  "more": "Baca lom",
+  "version": "(LAIACE)"
+ },
+ "labels": {
+  "start": "Phon",
+  "thread": "Haba",
+  "gospel": "Haba Gét",
+  "about": "Keuhai"
+ },
+ "s": {
+  "ui.share": "↗ Pubagi",
+  "ui.toast": "Tautan ka teuseuin 📋",
+  "ui.footer": "Alkitab lam Saboh Scroll · Ayat-ayat Alkitab nibak LAIACE",
+  "hero.kicker": "NIBAK PEUNEUJEUET TROK BAK GEREJA",
+  "hero.title": "Alkitab,<br><span class='em'>lam saboh scroll</span>",
+  "hero.sub": "Lam saboh scroll, taeu haba rayeuk Alkitab — dan pakon Isa geuteuka.",
+  "hero.cue": "Scroll u miyueb<span>↓</span>",
+  "thread.eyebrow": "SABOH KALIMAH NYANG MEUIKAT BANMANDUM",
+  "thread.h2": "Nibak akhé jih, Alkitab na kheueh saboh haba",
+  "thread.flow": "<b>Peujanjian</b><span class='arw'>→</span><b>Tapreh</b><span class='arw'>→</span><b>Teuteubiet</b>",
+  "thread.note": "Po teu Allah <b>geupeujanji</b> (peujanjian), umat <b>tapreh</b> treb that, dan akhé jih banmandum <b>teuteubiet</b> dan seuleusoe lam Isa. Eu kheueh 13 adegan di miyueb nyoe ngon alok nyan — teukan <b>“Baca lom”</b> bak tieb-tieb kartu keu haba nyang leubeh jeumba.",
+  "gospel.eyebrow": "PEUE MAKNA HABA NYOE KEU “ULÔN”",
+  "gospel.h2": "Até nyang sibeuna jih Alkitab",
+  "gospel.lead": "Alkitab <b>kon kitab pangajaran “jeuet keu ureuëng gét.”</b>",
+  "gospel.sublead": "Nyoe na kheueh haba pakriban Po teu Allah, <b>ngon geunaséh mantong</b>, geupeuseulamat ureuëng meudesya nyang hana hase jipeuseulamat droe jih keudroe. Bak teungoh-teungoh jih meudong Isa Almaseh.",
+  "gospel.mirror": "<h3>Pusingan Israel nyang han putôh nyan sibeuna jih na kheueh gamba “ulôn”</h3><div class='cycle'><b>Seumah beureuhala</b><span class='a'>→</span><b>Sangsara</b><span class='a'>→</span><b>Meu-e</b><span class='a'>→</span><b>Allah geupeuseulamat</b><span class='a'>→</span><b>Seumah beureuhala lom…</b></div><p>Nibak masa Hakém-hakém trok bak masa teubuang, Israel jiulang-ulang pusingan nyoe han putôh. Alkitab kon geupeututuléh nyan mangat geutanyoe jeuet teumeureuyom, “Pakri papa awaknyan.”</p><p>Nyan na kheueh <b>caya nyang</b>. Maksud jih kon “Israel nyang peubuet meunan” teuma <b>“ulôn pih meunan cit”</b> (1 Korintus 10:11).</p><p>Saboh <b>beureuhala</b> kon teumaweuëh kayée mantong. Nyan na kheueh <b>peue mantong nyang tagaséh atawa tapeucaya leubeh nibak Po teu Allah</b> — peng, hase, pujian, ureuëng, malah droe ulôn keudroe. Dan tapakék Allah sibagoe <b>alat keu meuteumé peue nyang ulôn keuneuk</b> nyan pih seumah beureuhala cit.</p><p class='punch'>Bak akhé jih, beureuhala nyang paleng jeumba na kheueh “droe ulôn keudroe, duek bak takhta Allah.”</p>",
+  "gospel.coreIntro": "Teuma, pakriban Po teu Allah geupeuseulamat ureuëng meudesya nyang lagée nyan? Nyoe na kheueh até Haba Gét nyang geupeumaklum lé Alkitab.",
+  "gospel.crux": "<p class='crux-lead'>Banmandum Alkitab tunyok bak saboh teumpat.</p><p>Manusia hana hase jiputôh pusingan desya droe jih keudroe, dan hana meusidroe ureuëng pi nyang beutôi. Sabab nyan na ureuëng nyang harôh <b>jibayeue yum nyan keu gantoe awaknyan</b>.</p><p>Isa kon geuteuka mantong keu geubri pangajaran nyang gét. Ngon hana jalan laén keu geupeuseulamat ulôn, <b>Gobnyan harôh geuteuka.</b></p><p class='crux-punch'>Ureuëng nyang seuharôh jih jiteugantông bak saleb nyan na kheueh <b>ulôn</b>.<br>Isa geuhék <b>desya ulôn</b> dan geupaku disinan keu gantoe ulôn.</p><div class='crux-verse'>“Teuma geuhnyan geupeuluka sabab desya-desya geutanyoe, geupeujra sabab buet jeuhet geutanyoe… geutanyoe teupeuseulamat sabab lé darah Gobnyan geutanyoe geupeupuléh.” — Yesaya 53:5</div>",
+  "faq.h": "Mantong na nyang teumeureuyom lam até?",
+  "faq.q1": "<span class='arr'>▸</span> Jadi ureuëng poh maté, asai jimeuiman, laju jiek u syeuruga, dan ureuëng nyang udeb gét siumu masa teuma hana jimeuiman jijak u nuraka?",
+  "faq.a1": "<p>Nyan saboh teumanyong nyang patot. Teuma na dua saläh phom nyang teusöm lam jih.</p><p><b>① Alkitab hana geupeucree manusia keu “gét ngon jeuhet.”</b> Ukoran jih kon “leubeh gét nibak ureuëng siseun” teuma “keukudusan Po teu Allah nyang seumpurna.” Di keue Gobnyan, hana meusidroe ureuëng pih nyang “cukop gét” (Roma 3:23). Jadi nyoe kon “ureuëng gét ngon ureuëng poh maté,” teuma leubeh lagée dua droe ureuëng nyang saban-saban na peunyakét nyang maot — sidroe jicok ubat, sidroe nyang laén jitulak ngon kheun, “Ulôn leubeh seuhat nibak ureuëng nyan.”</p><p><b>② Saboh hai mantong nyang peucree syeuruga ngon nuraka.</b> Kon nilai amai, teuma <b>peue ka tateurimong Isa Almaseh sibagoe Tuhan dan masalah desya gata ka seuleusoe</b>. Ureuëng nyang desya jih ka seuleusoe lé darah Almaseh jiek u syeuruga; ureuëng nyang hana sagai-sagai jiteurimong Gobnyan, desya jih mantong na, hana. Hana sapeue amai nyang gét nyang hase peuseuleusoe masalah desya nyan keudroe.</p><p>Sabab nyan syeuruga ngon nuraka kon “hadiah keu amai gét” teuma saboh hai keuhai <b>hubongan ngon Almaseh</b>. Dan “meuiman” kon seutuju lam akai mantong teuma ubahan keu soe nyang mat udeb gata — ureuëng nyang bit-bit jiteurimong Gobnyan hana jeuet sombong teuma jitobat leubeh jeumba. Sibeuna jih, peubeutôi droe (“ulôn ureuëng gét”) na kheueh beureuhala nyang paleng payah teuputôh, nyang peujeuet geutanyoe pike hana tapereulée Almaseh (Lukas 18:9-14).</p><p>Alkitab geupeugah trang that: <b>“Ureuëng nyang meuiman bak Gobnyan hana teuhuköm. Teuma ureuëng nyang hana meuiman ka geuhuköm lé Po teu Allah”</b> (Yahya 3:18). Huköm kon “tanilai udeb gata óh lheueh gata maté,” teuma ka geuteuntèe lé <b>peue gata ka tateurimong Almaseh</b>.</p><p class='faq-v'>Roma 3:23 · Yahya 3:18 · Efesus 2:8-9 · Lukas 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Peue hana cukop ulôn udeb gét mantong, bahle ulôn hana meuiman bak Isa?",
+  "faq.a2": "<p>Nyan pike nyang paleng ramé, teuma saläh phom peue “masalah nyang sibeuna jih.” Tabri saboh gamba.</p><p><b>Suanteh gata di ateueh kapai panyamon.</b> Bahkri pih gét gata peugleh deck, gét gata ngon awak kapai, jroh that udeb gata — gata mantong <b>panyamon</b>, sabab gata teuba sajan kapai u teumpat nyang jitujee (pelabuhan huköman). Masalah jih kon “nilai amai gata” teuma <b>“u kapai toh gata milék” (idéntitas gata)</b>.</p><p>Sabab nyan Haba Gét hana geupeugah “useuha leubeh kreueh keu jeuet gét”; geupeugah <b>“tugantoe kapai.”</b> Tron nibak kapai desya dan tameujak u Isa — u idéntitas barô sibagoe <b>aneuëk Allah</b>. Nyoe kon peunaék nilai gata ngon useuha, teuma tapeucaya bak Gobnyan nyang geu-ungkée jaroe Geuh dan tameujak u kapai Gobnyan.</p><p>Sibeuna jih Alkitab geupeugah keuseulamatan saban that lagée peupinah nyan — <b>“Gobnyan ka geupeuleueh geutanyoe nibak kuasa nyang seupôt dan geupinah geutanyoe u dalam keurajeuen Aneuëk Gobnyan nyang geugaséh”</b> (Kolose 1:13).</p><p>Bék saläh phom: <b>nyoe kon makna udeb gét hana guna.</b> Teuma keugétan kon “syarat” keuseulamatan teuma <b>boh</b> jih. Ureuëng nyang ka tugantoe kapai jinoe udeb gét kon sabab takot lé, teuma sabab <b>geunaséh sidroe aneuëk</b>.</p><p class='faq-v'>Kolose 1:13 · Yahya 1:12 · Yahya 3:3 · Efesus 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Meunyoe ureuëng nyang peubuet jeuhet jiaséng damé, jikheun “Po teu Allah ka geuampon ulôn,” bak watée ureuëng korban mantong sangsara — peue kon murah that ngat keuampon nyan?",
+  "faq.a3": "<p>Teumanyong nyan patot, dan saket nyan sibeuna na. Teuma keuneuk meunan kon “keuampon Alkitab” — nyan na kheueh <b>peunyaläh</b> jih.</p><p><b>① Keuampon Po teu Allah han tom murah.</b> Desya hana geusöm lagée jih hana tom teujadi; Po teu Allah keudroe geubayeue yum jih ngon udeb Aneuëk Gobnyan keudroe. Saleb kon bukti bahwa desya geucok beuhe, teuma bahwa desya nyan brat that — keuampon nyang paleng meuhai bansigom donya.</p><p><b>② Tobat nyang bit-bit jimeuboh.</b> Meunyoe ureuëng nyang peubuet jeuhet aman di keue korban — “Allah ka geuampon ulôn, jadi ulôn damé” — nyan kon tobat teuma tiruan jih (Matius 3:8). Dan keuampon antara saboh ureuëng ngon Po teu Allah hana geusampôh luka korban atawa geupaksa korban keu jeuet jiampon.</p><p><b>③ Desya han tom “teusangkot mantong.”</b> Tieb-tieb desya geubayeue bak saboh nibak dua teumpat — <b>atawa Almaseh nyang geuhék bak saleb</b> (keu ureuëng nyang jipeucaya Gobnyan hana le huköman, Roma 8:1), <b>atawa ureuëng nyang akhé jih jitulak Gobnyan nyang jihék jih keudroe.</b> Jadi hana “keuampon murah.” Ureuëng nyang peubuet jeuhet mantong na tanggong jaweueb lam huköm donya nyoe (Roma 13:1-4).</p><p><b>④ Ié mata korban han tom ubit di keue Po teu Allah.</b> Po teu Allah geumo sajan ureuëng nyang jimo, geuingat tieb-tieb ié mata, dan akhé jih geusampôh keudroe (Wahyu 21:4). Sabab nyan korban pih hana jihék beurat balaih dam keudroe, teuma jeuet jiseurah keu Po teu Allah nyang beutôi (Roma 12:19 — “Ulôn kheueh nyang balaih. Ulôn nyang huköm jihnyan, feureuman Tuhan”).</p><p class='faq-v'>Matius 3:8 · Roma 8:1 · Roma 13:1-4 · Wahyu 21:4</p>",
+  "faq.q4": "<span class='arr'>▸</span> Peue Alkitab nyan bit-bit haba nyang beutôi? Rasa lagée caritan ureuëng tuha atawa saboh novel.",
+  "faq.a4": "<p>Teumanyong nyan patot — dan nyan teumpat nyang gét keu pungo. Ragu-ragu kon lawan iman teuma na kheueh keuneuk pareksa bandum ngon jujur. Alkitab kon caritan nyang hana jeulah keu “tapeucaya meunyoe ate galak,” teuma na kheueh catatan nyang teutuléh ateueh <b>teumpat, tanggai, ngon ureuëng nyang bit-bit na</b>. Nyoe na kheueh ladôm contoh.</p><p><b>① Kon saboh kitab teuma “saboh peurpustakaan” — teuma jiyue ateueh saboh teuma.</b> Alkitab na kheueh kumpôlan <b>66 kitab</b> nyang teutuléh lam watée kira-kira <b>1,500 thôn lé kira-kira 40 ureuëng tuléh</b> — raja-raja, ureuëng meugumba, ureuëng meuncang eungkôt, ureuëng cok cukè, saboh doktô, ureuëng nyang meubacut deurajat ngon masa, jituléh sidroe-sidroe hana jituri sasama, lam lhèe basa (Ibrani, Aram, Yunani). Teuma bandum jimupat, hana kareu, ateueh <b>saboh teuma: keuseulamatan rot Almaseh</b>. Nyan na kheueh keucocokan nyang payah ta-peugah ngon ulah untông atawa ulah ureuëng peuriya.</p><p><b>② Jiteumeung peusabét teuma nibak tanoh (arkeulogi).</b> Le that hai nyang ka jihina lagée nyang teucipta, “na meusinan lam Alkitab mantong,” oh dudoe jipeusabét lé galé tanoh. <b>Keurajeuen Daud</b> rot saboh batèe nyang teutuléh “rumoh Daud” (Batèe Tel Dan); <b>Pontius Pilatus</b>, gubernur nyang poh maté Isa, rot saboh tuléhan nyang na nan jih; lurong ié Raja Hizkia (2 Raja-raja 20:20) rot lurong jih keudroe ngon tuléhan jih. Bahkan <b>ureuëng Het</b>, nyang ka jikheun “bansa nyang ka-eu-eu,” teubiet keu saboh keurajeuen raya lam reuntoh.</p><p><b>③ Nyan na kheueh dokumèn purba nyang paleng gét teusimpan (manuskrip).</b> Lam jeumeulah manuskrip nyang mantong na, keucocokan jih sabé droe, ngon jarak watée antara teutuléh ngon teusalén, Alkitab <b>hana lawan lam dokumèn purba</b>. Gulông Yesaya nyang pra-Almaseh lam <b>Gulông Laôt Maté</b> (jiteumeung 1947) cocok ngon teks standar kira-kira 1,000 thôn dudoe haméh hurôf ngon hurôf — bukti bahwa Alkitab teusimpan ngon beutôi rot bansa-bansa.</p><p><b>④ Hai nyang teutuléh leubeh awai teujadi saban that (nubuat).</b> Wasiet Lama, nyang teucatat abat-abat sigohlom Isa, jitunyok ngon mangat lahé Gobnyan di Betlehem (Mikha 5:2), hamba nyang sangsara (Yesaya 53:5), ngon hai-hai saleb (Zabur 22). Teukeudah that keu ta-tulak lagée untông.</p><p><b>⑤ Ureuëng sejarah di luwa Alkitab pih jicatat.</b> Ureuëng sejarah Rôm <b>Tacitus</b> ngon ureuëng sejarah Yahudi <b>Yosefus</b> — hana sidroe pih Kristen — jiseubôt Isa, geupoh maté Gobnyan, ngon greja awai. Leubeh nibak nyan, murit-murit nyang ka teutawö lé teumakôt <b>jimeubrôk-brôkan udeb jih</b> jeut keu saksi keu udép-jeumeurang — hana ureuëng nyang maté keu hai nyang jituri sulet.</p><p>Teuma ngon jujur, dasai-dasai nyoe jitunyok bahwa peucaya Alkitab <b>kon hana akai teuma na akai</b>; nyan kon “bukti” nyang peuksa lagée rumus matematika. Sabab nyan keuyakénan ureuëng Kristen kon teubiet nibak bukti mantong, teuma nibak <b>keuyakénan nyang Roh Allah geubri lam até watée tabaca Feureuman</b>. Alkitab geupeugah — <b>“Nyang kheueh sabab jih manusia jeuet jipatéh watée jideungoe haba, dan haba nyang jideungoe sabab na nyang peusampoe keuhai Almaseh.”</b> (Roma 10:17). Sabab nyan walaupeue rasa lagée caritan ka-cipta, <b>baca jih lé droe gata</b> na kheueh phon jih. Bukti peuhah pintô, dan keuyakénan timoh lam até ureuëng nyang baca.</p><p class='faq-v'>2 Raja-raja 20:20 · Yesaya 53:5 · Mikha 5:2 · Roma 10:17</p>",
+  "respond.h3": "Teuma — pakriban ngon ulôn?",
+  "respond.sub": "Geunaséh nyoe kon haba teuma saboh <b>jak-meujak</b>. Meunyoe geunaséh nyang teupaku keu gantoe gata ka jikab até gata, lakée kheueh doʼa nyoe ngon perlahan, sigareh-sigareh.",
+  "respond.prayer": "<p>Po teu Allah,</p><p>ulôn akui ulôn ureuëng meudesya nyang hana hase ulôn peuseulamat droe ulôn keudroe.</p><p>Ulôn meuiman Isa geumaté keu ulôn bak saleb dan geubeudôh udeb lom.</p><p>Neuampon kheueh banmandum desya ulôn, dan nibak uroe nyoe Droeneueh kheueh Tuhan udeb ulôn.</p><p>Neuteurimong kheueh ulôn sibagoe aneuëk Droeneueh, dan neubri ulôn udeb lam udeb nyang barô.</p><p class='amen'>Lam nan Isa ulôn lakée doʼa. Amin.</p>",
+  "respond.after": "Meunyoe gata ka lakée doʼa nyoe ngon ikhlah até, Alkitab geupeugah gata ka <b>jeuet keu aneuëk Allah</b>. Gata hana le sidroe-droe — mita kheueh gereja nyang toe dan tajak meusajan ureuëng laén bak jalan iman.",
+  "respond.read": "Baca Alkitab lé droe gata — phon nibak Yahya",
+  "respond.verse": "“Teuma na cit ureuëng nyang teurimong Gobnyan, dan jimeuiman bak Gobnyan; awaknyan geubri hak jeuet keu Aneuëk Allah.” — Yahya 1:12 · Roma 10:9-10",
+  "closing.main": "Saboh Allah,<br>rot saboh haba,<br>geumita geutanyoe ngon<br><em>geunaséh</em> nyang han putôh.",
+  "closing.verse": "“…bah kheueh maté meunan cit udeb… atawa peue mantong nyang laén, banmandum nyan hana hase jitam Po teu Allah geugaséh geutanyoe, lagée nyang ka geutunyok rot Isa, Tuhan geutanyoe.” — Roma 8:38-39",
+  "closing.small": "Di ateueh haba nyoe, Huköm, kitab-kitab seuni, Nabi-nabi, dan surat-surat geutamah “asoe.”<br>Nibak jinoe, kitab toh mantong nyang tahah, gata teuturi “bak pat gata na lam haba.”",
+  "closing.share": "↗ Pubagi haba nyoe",
+  "about.line": "Asoe geupeudong ateueh pandangan <b>seujarah-keuseulamatan (redemptive-historical), injili · Reformed</b> nyang geupeugot lé sigeuna gereja Protestan di Korea.",
+  "about.contact": "Teumanyong · saran — <a id='contact' class='mail'>Kirém email keu kamoe</a>"
+ },
+ "epochs": [
+  {
+   "tag": "PEUJANJIAN LAMA · PHON",
+   "title": "Peuneujeuet",
+   "date": "Nibak awaiphon",
+   "one": "Po teu Allah geucebta donya nyang “gét that.”",
+   "people": "Po teu Allah; Adam ngon Hawa",
+   "events": "Nam uroe peuneujeuet, manusia teucebta lagée gamba Allah, uroe rehat Sabat",
+   "q": "Nibak awaiphon, watée Po teu Allah geucebta álam seumeusta,",
+   "cite": "Keujadian 1:1",
+   "christ": "Donya teucebta rot “Feureuman.” Injil Yahya geupeumaklum bahwa Feureuman nyan na kheueh Isa keudroe (Yahya 1:1-3).",
+   "detail": "<p>Alkitab hana geupeuphon ngon dalil filsafat teuma ngon saboh peunyataan: <b>“Nibak awaiphon, Po teu Allah…”</b> Donya kon kabeutulan teuma buet sidroe Allah nyang peuribadi.</p><ul><li><b>Gamba Allah</b> · nibak banmandum makhluk, manusia mantong nyang teucebta meunyrupa ngon Allah — keu jiteupeue Gobnyan dan jeumeurawat donya.</li><li><b>Rehat</b> · rehat uroe keutujoh peuleumah banmandum ka seuleusoe dan damé (shalom): “gét.”</li><li><b>Eden</b> · donya yoh gohlom rusak, bak Allah ngon manusia jijak meusajan.</li></ul>",
+   "next": "Teuma keuseuleusoean nyoe rijang teuka mangrhok…"
+  },
+  {
+   "tag": "PEUJANJIAN LAMA · MASALAH PHON",
+   "title": "Reubah lam Desya",
+   "date": "Nibak awaiphon",
+   "one": "Desya jitamong, dan hubongan manusia ngon Allah putôh.",
+   "people": "Adam ngon Hawa; uleue (Iblih)",
+   "events": "Jipajôh boh kayée nyang teutham, jiusé nibak Eden, teuka maté ngon peunat",
+   "q": "Keuturonan inong nyan teuma jipeurumok ulée gata, dan gata teuma gata kab tumet awaknyan.",
+   "cite": "Keujadian 3:15",
+   "christ": "Peujanjian Haba Gét nyang phon, geubri lheueh that reubah lam desya: “keuturonan inong nyan” teuma jipeurumok ulée uleue — dan nyan na kheueh Isa (Keujadian 3:15; Roma 16:20; Galatia 4:4).",
+   "detail": "<p>Rot hana taʼat keu “keuneuk lagée Allah,” desya jitamong lam donya. Hase jih kon mantong peuneungkah peuneutôh teuma <b>putôh hubongan</b>.</p><ul><li><b>Hubongan nyang putôh</b> · ngon Allah (meusöm), ngon ureuëng laén (peusaläh ureuëng laén), dan ngon alam (duroe ngon peunat).</li><li><b>Maté</b> · peuingat “gata pasti maté” jeuet keu beuna.</li><li><b>Keujadian 3:15</b> · teuma di teungoh-teungoh huköm, peujanjian keuseulamatan teuka phon. Ureuëng pandé jikheun nyoe <b>protoevangelium (Haba Gét nyang phon)</b>.</li></ul>",
+   "next": "Jinoe Allah geukoh sidroe ureuëng keu geupeuphon keuseulamatan…"
+  },
+  {
+   "tag": "PEUJANJIAN LAMA · PEUJANJIAN",
+   "title": "Indatu",
+   "date": "lk. 2000 SM",
+   "one": "Po teu Allah geupeujanji keu Abraham: “Gata teuma jeuet keu saloran beureukat.”",
+   "people": "Abraham · Ishak · Yakub · Yusuf",
+   "events": "Peujanjian Abraham, peunsembahan Ishak, dua blah aneuëk Yakub, Yusuf jeuet keu peumimpén di Meusé",
+   "q": "Lôn peujeuet keuturonan gata nyan keu bansa-bansa nyang rayeuk… sabab gata Ulôn teuma Lôn bri beureukat ubak banmandum bansa nyang na di ateueh bumoe.",
+   "cite": "Keujadian 12:2-3",
+   "christ": "Peujanjian bahwa “banmandum bansa teuma jeuet keubeureukat” teuteubiet lam Isa, keuturonan Abraham (Galatia 3:16).",
+   "detail": "<p>Po teu Allah geupeuphon peuseuleusoe masalah banmandum manusia ngon geukoh sidroe ureuëng, <b>Abraham</b>. Até jih na kheueh <b>peujanjian</b> — bansa nyang rayeuk, saboh nanggroe, dan “beureukat keu banmandum bansa.”</p><ul><li><b>Iman</b> · Abraham jipeucaya peujanjian nyang hana deuh, dan nyan teukira keu beutôi (Keujadian 15:6).</li><li><b>Ishak ngon Yakub</b> · peujanjian jipinah u keuturonan; Yakub (Israel) na kheueh aduen dua blah suku.</li><li><b>Yusuf</b> · jipubloe lé syedara jih teuma jeuet keu peumimpén — “Po teu Allah geu-ubah buet nyang jeuhet nyan jeuet nyang keu jroh” (Keujadian 50:20).</li></ul>",
+   "next": "Seutot Yusuf, chuko jak u Meusé — dan jeuet keu namiet…"
+  },
+  {
+   "tag": "PEUJANJIAN LAMA · KEUSEULAMATAN",
+   "title": "Keuluaran ngon Padang Pasi",
+   "date": "lk. 1446 SM",
+   "one": "Po teu Allah geupeuseulamat umat nyang jeuet keunamiet dan geupeujeuet keu umat Gobnyan.",
+   "people": "Musa, Harun, Firʼaun",
+   "events": "Siploh balaʼ, Paskah, jiteupot laôt Mirah, Siploh Huköm bak Sinai, baét sembahyang, 40 thôn lam padang pasi",
+   "q": "Gata Lôn peujeuet keu umat Lôn, dan Ulôn jeuet keu Allah gata.",
+   "cite": "Keuluaran 6:7",
+   "christ": "Paskah — bak watée darah aneuëk bubiri jipeujiôh maté — tunyok bak Isa, “aneuëk bubiri Paskah geutanyoe,” geusaleb keu geutanyoe (1 Korintus 5:7).",
+   "detail": "<p>Keuseulamatan nyang paleng rayeuk lam Peujanjian Lama. Israel nyang ka jeuet keunamiet teupeubeubaih lé kuasa Allah dan teupeujeuet keu <b>umat</b> Gobnyan.</p><ul><li><b>Paskah</b> · rumoh nyang teutanda ngon darah aneuëk bubiri teupeujiôh nibak maté — pola banmandum peunsembahan dudoe.</li><li><b>Laôt Mirah</b> · keuseulamatan bak watée jalan ka habéh; “teupot u seubeulah” jeuet keu lambang phon nyang barô.</li><li><b>Peujanjian Sinai</b> · rot Siploh Huköm awaknyan jimeurunoe pakri udeb sibagoe umat Allah.</li><li><b>Baét sembahyang</b> · teumpat suci nyang jeuet teuusông bak Allah geudong di teungoh-teungoh umat Gobnyan — pratanda “Immanuel.”</li><li><b>40 thôn</b> · hana taʼat jipeujeuet saboh keuturonan jak meugisa-gisa lam padang pasi, teuma Allah mantong toe ngon mana dan tihông awan ngon apui.</li></ul>",
+   "next": "Meudong bak binéh nanggroe peujanjian, awaknyan jimeusiab keu jitamong…"
+  },
+  {
+   "tag": "PEUJANJIAN LAMA · TEUDONG",
+   "title": "Meunang ngon Hakém-hakém",
+   "date": "lk. 1400–1050 SM",
+   "one": "Awaknyan jiteumé nanggroe, teuma sabab hana raja tieb ureuëng jipeubuet peue nyang jianggab beutôi.",
+   "people": "Yosua; hakém-hakém lagée Gideon ngon Simson; Rut",
+   "events": "Reubah Yerikho, teudong di Kanaan, pusingan desya–huköm–keuseulamatan jiulang-ulang",
+   "q": "Bak watée jamén nyan gohlom na raja di nanggroe Israel. Tieb-tieb ureuëng jipeubuet peue nyang jianggab beutôi.",
+   "cite": "Hakém-hakém 21:25",
+   "christ": "Nibak keuturonan Rut teuka Daud, dan nibak keuturonan Daud teuka Isa (Matius 1). Bahle lam kacho, salaséelah Almaseh jijak teuma.",
+   "detail": "<p>Di miyueb Yosua awaknyan tamong u nanggroe peujanjian, teuma lheueh teudong rijang jituwo keu Allah. Hakém-hakém na kheueh pola nyang saban teuulang-ulang.</p><ul><li><b>Pusingan u miyueb</b> · desya → teutindeh → meu-e → sidroe hakém jipeuseulamat → desya lom. Makén jeuet makén jeuhet.</li><li><b>Hakém-hakém</b> · Gideon, Simson, Debora — peuseulamat seumantara, brani teuma le that cacat.</li><li><b>Rut</b> · saboh caya keusetiaan lam masa nyang seupôt; sidroe inong aséng tamong u salaséelah Daud (ngon Isa).</li></ul>",
+   "next": "Umat jimeu-e, “Bri keu kamoe sidroe raja cit!”…"
+  },
+  {
+   "tag": "PEUJANJIAN LAMA · MASA KEUMEGAHAN",
+   "title": "Keurajeuen nyang Saboh",
+   "date": "lk. 1050–930 SM",
+   "one": "Po teu Allah geupeujanji keu Daud: “Takhta gata teuma jimeuteun siumu masa.”",
+   "people": "Saul · Daud · Sulaiman",
+   "events": "Raja phon Saul, Daud ngon Goliat, peujanjian Daud, Sulaiman geupeudong Baét Allah",
+   "q": "Gata hana putôh sabe na keuturonan, dan Ulôn teuma Lôn peujeuet keurajeuen gata nyan jimeuteun siumu masa.",
+   "cite": "2 Samuel 7:16",
+   "christ": "“Takhta nyang siumu masa” teuteubiet lam Isa, keuturonan Daud — sabab nyan Gobnyan geukheun “Aneuëk Daud” (Lukas 1:32-33; Matius 1:1).",
+   "detail": "<p>Masa keumegahan Israel, di miyueb lhée droe raja.</p><ul><li><b>Saul</b> · raja phon nyang jilakée lé umat; jiphon gét, teuma teutulak sabab hana taʼat.</li><li><b>Daud</b> · “ureuëng nyang lagée até Allah.” Jimeunang ateueh Goliat dan jipeujeuet Yerusalem keu ibukota. Jipeubuet desya rayeuk (Batsyeba) teuma jitobat nibak até (Zabur 51).</li><li><b>Peujanjian Daud (2 Samuel 7)</b> · Po teu Allah geupeujanji keu geupeudong dinasti Daud siumu masa — akar nyang peunteng keu harapan Almaseh.</li><li><b>Sulaiman</b> · bak puncak hikeumah ngon kekayaan jipeudong <b>Baét Allah</b> di Yerusalem, teuma bak akhé udeb jipaleng u beureuhala.</li></ul>",
+   "next": "Lheueh Sulaiman, keurajeuen teubagi dua…"
+  },
+  {
+   "tag": "PEUJANJIAN LAMA · TRON",
+   "title": "Keurajeuen nyang Teubagi",
+   "date": "930–586 SM",
+   "one": "Teubagi keu seulatan (Yehuda) ngon utara (Israel), bansa nyan tron-tron u keubinasaan.",
+   "people": "Raja-raja dua keurajeuen; nabi-nabi lagée Elia, Yesaya, Yeremia",
+   "events": "Keurajeuen teubagi, seumah beureuhala meudarah, nabi-nabi geubri ingat",
+   "q": "Phon saát nyan rakyat dibagian utara keurajeuen Israel jibeurontak ubak raja keuturonan Nabi Daud.",
+   "cite": "1 Raja-raja 12:19",
+   "christ": "Lam masa nyoe nabi-nabi jihrilho Almaseh nyang teuka makén trang (Yesaya 9:6; Yesaya 53).",
+   "detail": "<p>Bak masa aneuëk Sulaiman keurajeuen teubagi: <b>keurajeuen utara Israel</b> (10 suku, ibukota Samaria) ngon <b>keurajeuen seulatan Yehuda</b> (2 suku, ibukota Yerusalem).</p><ul><li><b>Israel (utara)</b> · banmandum raja jih jiseumah beureuhala; reubah ubak Asyur thôn 722 SM.</li><li><b>Yehuda (seulatan)</b> · salaséelah Daud jijak teuma, na meunyaplek raja gét lagée Hizkia ngon Yosia, teuma bansigom tron.</li><li><b>Nabi-nabi</b> · Elia, Amos, Yesaya, Yeremia jimeu-e “tagisa kheueh!” Hrilho Almaseh paleng kaya disinoe (“namiet nyang sangsara” lam Yesaya 53).</li></ul>",
+   "next": "Bak akhé jih huköm nyang teuingat teuka — awaknyan teuba u teubuang…"
+  },
+  {
+   "tag": "PEUJANJIAN LAMA · HUKÖM",
+   "title": "Teubuang",
+   "date": "722 / 586 SM",
+   "one": "Keurajeuen reubah dan umat teuba u nanggroe ureuëng aséng.",
+   "people": "Daniel, Yehezkiel, Nebukadnezar",
+   "events": "Israel reubah ubak Asyur (722); Yehuda reubah ubak Babel dan Baét Allah teupeurusak (586)",
+   "q": "Nibak binéh-binéh krueng Babel kamoe duek-duek dan kamoe mo meuba-e watée teuingat keu Sion.",
+   "cite": "Zabur 137:1",
+   "christ": "Lam keujeumba putôh asa Yeremia geupeujanji saboh “peujanjian barô” (Yeremia 31:31) — peujanjian nyang ngon nyan Isa geupeudong bak Buka Puasa Tuhan nyang akhé.",
+   "detail": "<p>Peuingat jeuet keu beuna. Baét Allah teutot dan umat teuba u Babel — gadôh nanggroe, raja, ngon Baét Allah: titek nyang paleng miyueb.</p><ul><li><b>Dua reubah</b> · Israel (Asyur, 722 SM) ngon Yehuda (Babel, 586 SM).</li><li><b>Daniel</b> · conto iman bahle lam istana kafé (mön singa); jikalon peunglihatan saboh “keurajeuen siumu masa” nyang teuka.</li><li><b>Saboh apui harapan</b> · peunglihatan tuleueng tho nyang udeb lom (Yehezkiel 37) ngon “peujanjian barô” Yeremia tunyok bak masa ukeue lam keuseupôtan.</li></ul>",
+   "next": "Tujoh ploh thôn dudoe, Allah geupeuhah jalan — awaknyan jiwoe u rumoh…"
+  },
+  {
+   "tag": "PEUJANJIAN LAMA · PEUSEULAMAT BARÔ",
+   "title": "Woe nibak Teubuang",
+   "date": "538–430 SM",
+   "one": "Awaknyan jiwoe dan jipeudong lom Baét Allah ngon pageue.",
+   "people": "Ezra, Nehemia, Ester, Zerubabel",
+   "events": "Woe rot titah Kores, peudong lom Baét Allah, peudong lom pageue Yerusalem, peuseulamat lom Feureuman",
+   "q": "Geumbira nyang geujok lé Tuhan keu gata nyan na kheueh mangat teupeuteuga gata.",
+   "cite": "Nehemia 8:10",
+   "christ": "Maleakhi, kitab nyang akhé lam Peujanjian Lama, jitôp ngon jihrilho saboh utosan nyang peusiab jalan keu Almaseh: “Ulôn Lôn kirém utosan Ulôn” (Maleakhi 3:1).",
+   "detail": "<p>Rot titah raja Persia Kores (538 SM) woe nyan jiphon. Lam lhée galombang awaknyan jiwoe dan jipeudong lom peue nyang ka rusak.</p><ul><li><b>Zerubabel</b> · jipeudong lom Baét Allah (seuleusoe 516 SM).</li><li><b>Ezra</b> · jimeurunoe lom Feureuman dan jipeu-udep lom iman.</li><li><b>Nehemia</b> · jipeudong lom pageue Yerusalem lam 52 uroe.</li><li><b>Ester</b> · jipeuseulamat ureuëng Yahudi di Persia nibak teupeumaté habéh — “keu watée nyang lagée nyoe.”</li><li><b>Mantong meuharap</b> · Baét Allah ka meudong, teuma hana raja lagée Daud. Umat jipreh Almaseh.</li></ul>",
+   "next": "Dan teuma… lagée langét nyang tutôb, 400 thôn seungap lalu."
+  },
+  {
+   "tag": "ANTARA PEUJANJIAN · PEUSIAB PANGGONG",
+   "title": "Thôn-thôn nyang Seungap",
+   "date": "lk. 430–4 SM",
+   "one": "400 thôn hana su nabi — teuma panggong teupeusiab ngon seungap.",
+   "people": "Aleksander Agông, ureuëng Makabe, Roma",
+   "events": "Persia → Yunani → meurdéka Makabe → peurintah Roma",
+   "q": "Teuma nibak watée nyang paih, Allah geu-utus Aneuëk Gobnyan lam donya nyoe.",
+   "cite": "Galatia 4:4",
+   "christ": "Banmandum “peusiab panggong” nyoe na kheueh buet Allah mangat Isa jeuet geuteuka pas bak “watée nyang paih.”",
+   "detail": "<p>Nibak Maleakhi trok bak Peujanjian Barô, lk. 400 thôn lalu hana Feureuman barô. Teuma di likôt seujarah Allah geupeusiab jalan keu sibarô Haba Gét.</p><ul><li><b>Keurajeuen tukeue-meutukeue</b> · Persia → Yunani (Aleksander, 333 SM) → Ptolemus ngon Selukus → meurevolusi Makabe (167 SM) → Roma (63 SM).</li><li><b>Basa Yunani</b> · meunang Aleksander peujeuet basa Yunani basa nyang ramé; Peujanjian Lama teusalén u basa Yunani (Septuaginta), peuhah jalan keu Haba Gét sibarô bagaih.</li><li><b>Jalan ngon damé Roma</b> · jalan nyang gét teupeugot dan “Pax Romana” jeuet keu jalan rayeuk keu misi.</li><li><b>Sinagoge ngon pihak</b> · pangajaran lam sinagoge meuakar; ureuëng Farisi ngon Saduki teuka; dan <b>keurinduan keu Almaseh</b> meumasak.</li></ul>",
+   "next": "Teuma seungap teupreuk — bak akhé jih, Gobnyan geuteuka."
+  },
+  {
+   "tag": "PEUJANJIAN BARÔ · TEUTEUBIET",
+   "title": "Isa Geuteuka",
+   "date": "lk. 4 SM–30 M",
+   "one": "Almaseh nyang teupeujanji geuteuka, geumaté, dan geubeudôh lom.",
+   "people": "Isa, dua blah murid, Yahya Peumandi",
+   "events": "Jeuet keu manusia (Natai), rawngbri pangajaran ngon mukjizat, maté bak saleb, beudôh lom bak uroe keulhée",
+   "q": "Feureuman ka jeuet keu manusia, Gobnyan tinggai diteungoh-teungoh geutanyoe, dan tanyoe ka takalon keuagongan Gobnyan… dan geunaséh Gobnyan ateueh geutanyoe.",
+   "cite": "Yahya 1:14",
+   "christ": "Keuturonan inong (adegan 2), beureukat Abraham (3), aneuëk bubiri Paskah (4), raja Daud nyang siumu masa (6), peujanjian barô (8) — banmandum teuteubiet lam sidroe ureuëng, Isa: nabi geutanyoe nyang beuna, imeum geutanyoe nyang beuna, dan raja geutanyoe nyang beuna.",
+   "detail": "<p>Seungap teupreuk; Nyang Teupeujanji geuteuka. Peuet Injil jimeusaksi keu udeb, maté, dan beudôh lom Isa nibak peuet sudut.</p><ul><li><b>Jeuet keu manusia</b> · Allah jeuet keu manusia (Immanuel, “Allah na ngon geutanyoe”), bak teumpat nyang ubit di Betlehem.</li><li><b>Rawngbri</b> · geupeurunoe keurajeuen Allah, geupeu-puléh ureuëng saket, geukoh ureuëng meudesya. “Soe nyang ka jikalon Ulôn, ka jikalon Bapak.”</li><li><b>Saleb</b> · geubayeue keu gantoe geutanyoe yum desya ngon maté nyang teuka rot reubah lam desya (adegan 2). Aneuëk bubiri Paskah nyang beuna.</li><li><b>Beudôh lom</b> · beudôh bak uroe keulhée, geupeuhanco kuasa desya, maté, ngon Iblih — bak saleb cit “Almaseh geupeugöt banmandum roh-roh nyang mat peurintah dan nyang meukuasa ka jeuet hana meudaya lé… bak watée Almaseh geuiréng awaknyan sibagoe ureuëng teuteun lam pawai keumeunangan” (Kolose 2:15).</li></ul><p>Sabab nyan Isa na kheueh <b>nabi geutanyoe nyang beuna</b> (geutunyok jalan u Allah), <b>imeum geutanyoe nyang beuna</b> (geutebóh desya ngon tuboh Gobnyan keudroe), dan <b>raja geutanyoe nyang beuna</b> (geumeunang ateueh desya, maté, ngon Iblih dan geupeurintah siumu masa).</p>",
+   "next": "Isa nyang ka beudôh geu-utus murid Gobnyan u donya…"
+  },
+  {
+   "tag": "PEUJANJIAN BARÔ · MEUKEMBANG",
+   "title": "Phon Gereja",
+   "date": "lk. 30 M–",
+   "one": "Roh geuteuka, dan Haba Gét meukembang u ujong bumoe.",
+   "people": "Petrus, Paulus, gereja awai",
+   "events": "Roh tatron bak Pentakosta, gereja teupeujeuet, Haba Gét meukembang nibak Yerusalem u Roma rot teu-iénanya",
+   "q": "Teuma gata meuteumé kuasa, meunyoe Roh Allah ka teuka ubak gata. Dan gata jeuet keu saksi-saksi keu Ulôn di Yerusalem… sampoe u ujong bumoe.",
+   "cite": "Kisah Rasui-rasui 1:8",
+   "christ": "Haba nyoe mantong jijak trok uroe nyoe. Alkitab jitôp ngon peujanjian bahwa Isa teuma geuteuka lom dan geupeubarô banmandum (Wahyu 21).",
+   "detail": "<p>Lheueh Isa geu-ék u langét, Roh nyang teupeujanji geuteuka bak Pentakosta dan gereja teupeujeuet. Haba Gét meukembang ngon bagaih that.</p><ul><li><b>Pentakosta</b> · rot Roh, murid-murid nyang takot jeuet keu saksi nyang brani.</li><li><b>Petrus</b> · jihrilho Haba Gét keu ureuëng Yahudi di Yerusalem.</li><li><b>Paulus</b> · nibak ureuëng nyang iénanya jeuet keu rasui; jipeudong gereja lam donya kafé dan jituléh surat-surat.</li><li><b>Trok u ujong bumoe</b> · Yerusalem → Yudea → Samaria → Roma. Peujanjian keu Abraham keu “banmandum bansa” jeuet keu beuna.</li><li><b>Dan geutanyoe</b> · haba hana putôh; jijak teuma u teukaʼ keudua Isa dan langét barô ngon bumoe barô.</li></ul>",
+   "next": "Teuma haba kon putôh disinoe…"
+  },
+  {
+   "tag": "PEUJANJIAN BARÔ · PEUSEULEUSOE",
+   "title": "Peuseulamat Barô (banmandum barô)",
+   "date": "Mantong teuka",
+   "one": "Isa geuteuka lom dan geupeubarô banmandum.",
+   "people": "Isa nyang teuka lom; banmandum bansa",
+   "events": "Teukaʼ keudua, huköm akhé, akhé desya·maté·ié mata, langét barô ngon bumoe barô",
+   "q": "Gobnyan teuma geusampôh banmandum ié mata nibak mata awaknyan. Maté hana teuka na le; seudeh, mo ba-e, atawa sakét pih hana jiteuka lé.",
+   "cite": "Wahyu 21:4",
+   "christ": "Eden nibak peuneujeuet phon bak akhé jih teupeuseulamat barô sibagoe “Yerusalem Barô.” Po teu Allah geudong ngon umat Gobnyan siumu masa — keuseumpurnaan Immanuel (Wahyu 21:3; Matius 1:23).",
+   "detail": "<p>Alkitab hana jitôp bak masa gereja. Kitab nyang akhé jih, Wahyu, jipeuleumah Isa nyang <b>teuka lom</b> keu geupeuseuleusoe banmandum.</p><ul><li><b>Teukaʼ keudua</b> · raja nyang teupeujanji geuwoe ngon agông.</li><li><b>Meunang nyang akhé</b> · Iblih ngon maté teupeuhanco siumu masa, dan Almaseh geupeurintah sibagoe Raja banmandum raja (1 Korintus 15:25-26; Wahyu 20:10).</li><li><b>Huköm ngon beudôh lom</b> · banmandum nyang hana beutôi teupeubeutôi, dan ureuëng nyang ka maté teubeudôh lom.</li><li><b>Langét barô ngon bumoe barô</b> · desya, maté, ié mata, ngon saket gadôh siumu masa (Wahyu 21:4).</li><li><b>Eden teupeuseulamat barô</b> · lam “Yerusalem Barô” nyang leubeh gét nibak phon, Po teu Allah geudong ngon umat Gobnyan siumu masa — tujuan nyang u nyan banmandum Alkitab jijak.</li></ul><p>Sabab nyan jinoe na kheueh masa <b>“ka, teuma gohlom seuleusoe”</b>: lam Isa keuseulamatan <b>ka</b> teuteubiet, teuma keuseumpurnaan jih <b>mantong</b> teupreh.</p>",
+   "next": "Teuma, peue makna banmandum haba nyoe keu “ulôn”?"
+  }
+ ],
+ "love": [
+  "Phon haba kon huköm teuma saboh donya nyang teucebta ngon geunaséh nyang meulimpah.",
+  "Bak watée manusia jimeudesya, Po teu Allah geupeujanji keuseulamatan nyang nibak teumpat nyan keudroe.",
+  "Allah geuteuka phon keu sidroe ureuëng nyang hana patot, geukoh ngon nan jih, dan geupeujeuet keu saloran beureukat.",
+  "Geudeungo deuhka umat nyang jeuet keunamiet dan geutron keudroe keu geupeuseulamat awaknyan.",
+  "Bahle teukhianat lagée-lagée, tieb watée awaknyan jimeu-e Gobnyan geu-utus peuseulamat dan geupeubeudôh lom.",
+  "Bahkan Daud nyang ka reubah pih hana geutiek; rot jih geupeujanji saboh Raja nyang siumu masa.",
+  "Bak umat nyang jipaleng likôt, Gobnyan mantong geu-utus nabi-nabi, ngon lakée, “Tagisa kheueh u rumoh.”",
+  "Bahkan u nanggroe teubuang nyang paleng seupôt Gobnyan geutron sajan awaknyan, dan geupeujanji peuseulamat barô.",
+  "Bahkan keu umat nyang gagai lagée-lagée, Gobnyan hana geucok lom peujanjian Gobnyan.",
+  "Bahkan rot 400 thôn nyang seungap, ngon hana deuh, Gobnyan geupeusiab jalan keuseulamatan.",
+  "Bak watée geutanyoe mantong ureuëng meudesya, Gobnyan geu-utus Aneuëk Gobnyan keu geubri udeb Gobnyan keudroe.",
+  "Geunaséh nyang ka tateurimong, jinoe geu-utus mangat luah u bansigom donya.",
+  "Bak akhé jih Gobnyan teuma geusampôh banmandum ié mata dan geupeubarô banmandum lam geunaséh."
+ ],
+ "mis": [
+  {
+   "w": "“Pakon Po teu Allah geucebta makhluk nyang hase jimeudesya? Peue hana leubeh gét meunyoe hana geucebta sagai?”",
+   "t": "Po teu Allah geucebta donya ngon manusia kon sabab kureueng peue mantong, teuma sabab geunaséh nyang meulimpah. Geupeujeuet manusia sibagoe <b>ureuëng nyang jeuet meuhubongan ngon Allah</b> nyan keudroe na kheueh geunaséh. Dan bahkan jitamong desya pih kon di lua reuncana keuseulamatan Allah (Efesus 1:4-5). Adegan phon Alkitab kon huköm teuma geunaséh."
+  },
+  {
+   "w": "“Teuusé dan teubri maté sabab jipajôh saboh boh kayée mantong — peue Po teu Allah kon kreueh that?”",
+   "t": "Teuusé nibak Eden na kheueh huköm dan sit rahmat. Meunyoe, teupisah nibak Allah dan lam keuadaan nyang ka rusak nyan, manusia jipajôh boh kayée udeb dan udeb siumu masa, jih teuma teukurong lam sangsara siumu masa (Keujadian 3:22). Geubri idin keu maté na kheueh geupeuhah jalan woe, dan bak teumpat nyan keudroe Allah geupeujanji sidroe Peuseulamat (Keujadian 3:15). Geunaséh ka na lam huköm nyan."
+  },
+  {
+   "w": "“Abraham teupiléh sabab iman jih nyang rayeuk — peue kon banmandum ureuëng Alkitab na kheueh pahlawan moral?”",
+   "t": "Abraham pih jisulet dan jirinhlel, dan Yakub na kheueh sidroe tukang teupôh. Allah hana geukoh ureuëng nyang “layak” teuma ureuëng nyang le cacat, ngon geunaséh. Sabab piléh nyan kon keugétan awaknyan teuma geunaséh setia Allah (Kitab Teu-ulang 7:7-8)."
+  },
+  {
+   "w": "“Peue Huköm (huköm-huköm nyan) kon saboh ujian nyang harôh talulôh keu teupeuseulamat?”",
+   "t": "Po teu Allah geupeuseulamat awaknyan <b>sigohlom</b> geubri Huköm. Bahkan Siploh Huköm jiphon ngon peunyataan keuseulamatan: “Ulôn kheueh Tuhan Allah gata nyang ba gata teupeuteubiet nibak nanggroe Meusé” (Keuluaran 20:2). Huköm kon “zaʼat keu teupeuseulamat,” teuma kaihrayan ngon geunaséh keu pakri umat nyang ka teupeuseulamat seuharôh udeb (Kitab Teu-ulang 7:7-9). Geunaséh sabe phon; taʼat na kheueh jaweueb."
+  },
+  {
+   "w": "“Meunang Kanaan na kheueh teupoh maté nyang hana ate — jadi Allah Peujanjian Lama nyang sibeuna jih kreueh.”",
+   "t": "Nyoe na kheueh haba payah nyang hana hase teuseuleusoe lam saboh kalimah dan harôh ngon ate-ate. Teuma Alkitab hana geupeuleumah nyoe sibagoe keukeurahan nyang sukana teuma sibagoe huköm lheueh saboh abad sabar keu jeuhet nyang paleng raya (rasok peunsembahan aneuëk-aneuëk) (Keujadian 15:16; Kitab Teu-ulang 9:4-5; Imeum-imeum 18:24-25). Allah hana bagaih bahkan keu huköm, dan ngon galak that geuteurimong ureuëng nyang jigisa u Gobnyan — bahkan ureuëng aséng lagée Rahab ngon Rut (Yosua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“Daud na kheueh pahlawan nyang hana cacat — sabab nyan jih geukheun ‘ureuëng nyang lagée até Allah.’”",
+   "t": "Daud jipeubuet zina dan bahkan poh maté. “Ureuëng nyang lagée até Allah” kon makna hana cacat, teuma sidroe nyang hana jisöm desya jih — nyang jitobat ngon jeumba dan sabe jigisa u Allah (Zabur 51). Geunaséh Allah hana geutiek bahkan ureuëng nyang reubah brat."
+  },
+  {
+   "w": "“Nabi na kheueh tukang ramai nyang jihrilho masa ukeue / Allah Peujanjian Lama mantong beungéh.”",
+   "t": "Até sidroe nabi kon “jihrilho masa ukeue” teuma e Allah nyang saket até: “Tagisa kheueh.” Bahkan ingat huköm pih kon keu peuhanco teuma keu peugisa ureuëng dan peuseulamat awaknyan — “Ulôn hana galak meunyoe ureuëng jeuhet maté; seubalek jih Ulôn harök jitinggai desya-desya jih mangat jihnyan teutab udeb” (Yehezkiel 33:11)."
+  },
+  {
+   "w": "“Teubuang peubukti Allah ka geutiek habéh Israel.”",
+   "t": "Teubuang kon teutiek teuma didikan ngon peubeureuséh keu sidroe aneuëk nyang geugaséh (Ibrani 12:6). Allah hana geujak; Gobnyan na ngon Daniel di teungoh teubuang dan geupeujanji: “Reuncana-reuncana nyan kon Lôn peuceulaka gata, teuma keuseujahteuraan gata dan keu Lôn bri ubak gata masa ukeue nyang peunoh harapan” (Yeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Meunyoe 400 thôn hana Feureuman, peue kon Allah ka geujak atawa geurehat?”",
+   "t": "Seungap kon hana na. Gobnyan mantong hana geumarit, bak watée nyan banmandum Gobnyan geupeu-uba keurajeuen, basa, ngon jalan keu peusiab panggong keuseulamatan. Bak watée nyang paleng seungap, Allah geubuet paleng kreueh, lam geunaséh (Galatia 4:4)."
+  },
+  {
+   "w": "“Isa na kheueh sidroe guree moral nyang gét mantong / saleb na kheueh kekalahan nyang seudeh.”",
+   "t": "Isa geukheun Gobnyan na kheueh Allah keudroe (Yahya 8:58), dan saleb kon kabeutulan atawa kekalahan teuma geunaséh nyang teureuncana. Gobnyan hana teuba ngon paksa; Gobnyan geubri udeb Gobnyan keudroe ngon kheundak Gobnyan (Yahya 10:18). “Ureuëng nyang paleng jigaséh keu rakan-rakan jih na kheueh ureuëng nyang jibri udeb jih keu awaknyan” (Yahya 15:13)."
+  },
+  {
+   "w": "“Gereja na kheueh klub agama ureuëng seumpurna, atawa rumoh mantong.”",
+   "t": "Gereja kon meusapat “ureuëng suci nyang ka seuleusoe” teuma meusapat <b>ureuëng meudesya nyang teuampon</b>. Bahkan rasui Paulus geukheun droe jih “ureuëng meudesya nyang paleng jeuhet” (1 Timotius 1:15). Gereja awai pih jimeudawa dan jireubah cit (Kisah Rasui-rasui 6:1; 1 Korintus 1:11). Gereja kon teumpat keu meusombong, teuma ureuëng nyang jipinah geunaséh nyang ka jiteurimong (Yahya 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Desya asai — hana meusidroe nyang beutôi",
+   "body": "Masalah jih kon “meunyaplek amai jeuhet” teuma akar até. Nibak Adam, banmandum ureuëng lahé di miyueb desya dan hana hase jitrok u Allah droe jih keudroe.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Hana meusidroe ureuëng pi nyang beutôi… Mandum ureuëng ka meudesya dan jiôh nibak Po teu Allah nyang keuneuk peuseulamat awaknyan."
+  },
+  {
+   "title": "Huköm hana hase jipeuseulamat ulôn",
+   "body": "Huköm kon reunyeun teuma caya nyang. Makén kreueh tausaha, makén deuh padub ulôn gagai. Tujuan jih keu jiba geutanyoe u Almaseh.",
+   "vref": "Roma 3:20 · Galatia 3:24",
+   "vtext": "Nyang sibeuna jih huköm nyan sibagoe teutunyok ubak manusia bahwa manusia nyan meudesya… huköm agama teupeujeuet sibagoe nyang kawai tanyoe trok ubak Almaseh."
+  },
+  {
+   "title": "Ngon geunaséh — saboh ngat, kon useuha",
+   "body": "Keuseulamatan kon upah keu jasa nyang tapeukumpôi, teuma saboh ngat nibak Allah keu ureuëng nyang hana patot. Sabab nyan hana meusidroe pi jeuet meusombong.",
+   "vref": "Efesus 2:8-9",
+   "vtext": "Gobnyan geupeu seulamat gata sabab gata meuiman ubak Isa… Nyan na kheueh anugeurah Allah… hana meusidroe ureuëng pih jeuet jipeusombong droe jih keuhai nyan."
+  },
+  {
+   "title": "Teupeubeutôi rot iman",
+   "body": "Kon rot taʼamai Huköm, teuma rot meuiman bak Isa Almaseh geutanyoe teukira beutôi — kon tapakék peukayan beutôi geutanyoe keudroe, teuma peukayan beutôi Gobnyan.",
+   "vref": "Roma 5:1 · Galatia 2:16",
+   "vtext": "Jinoenyoe tanyoe ka tameugét lom ngon Po teu Allah, sabab tanyoe tameuiman… manusia jimeugét lom teuma ngon Po teu Allah sabab jimeuiman ubak Isa Almaseh, dan kon ngon sabab jiamai huköm agama."
+  },
+  {
+   "title": "Alkitab tunyok bak Isa",
+   "body": "Alkitab kon kitab keuhai ureuëng rayeuk atawa kitab tulông droe. Nibak Keujadian trok bak Wahyu, tieb-tieb on jimeusaksi keu sidroe ureuëng — Isa Almaseh.",
+   "vref": "Yahya 5:39 · Lukas 24:27",
+   "vtext": "Alkitab nyan keudroe jimeusaksi keuhai Ulôn… Isa laju geupeu trang ubak awaknyan peue nyang ka teutuléh lam mandum Alkitab keuhai droe gobnyan."
+  },
+  {
+   "title": "Keurajeuen Allah — haba inti Isa",
+   "body": "Tema nyang paleng le geupeurunoe lé Isa. Keurajeuen bak Allah geupeurintah sibagoe raja jitamong u donya nyoe ngon Isa dan teuma seuleusoe bak teukaʼ keudua Gobnyan. Rot saleb ngon beudôh lom, Isa na kheueh Raja nyang beuna nyang geumeunang ateueh desya, maté, ngon Iblih.",
+   "vref": "Markus 1:15",
+   "vtext": "Watée jih ka troh, Allah sigra geumat peurintah. Tobat kheueh nibak banmandum desya-desya gata, dan peucaya kheueh ubak Haba Gét nyang teuka nibak Po teu Allah!"
+  },
+  {
+   "title": "Haba Gét — Gobnyan ka geupeuseuleusoe banmandum",
+   "body": "Yum desya nyang ulôn hana hase ulôn bayeue, Isa geubayeue keu gantoe ulôn bak saleb, dan rot beudôh lom Gobnyan geumeunang ateueh maté. Ulôn hana meusandar bak “peubuet nyoe” teuma bak “ka seuleusoe.”",
+   "vref": "Yahya 19:30 · Roma 5:8",
+   "vtext": "Ka seuleusoe!… lé Allah geupeuleumah geunaséh Gobnyan ubak tanyoe watée Almaseh maté keugeutanyoe bak watée tanyoe mantong jeuet ureuëng meudesya."
+  }
+ ],
+ "books": {
+  "Keujadian": "GEN",
+  "Keuluaran": "EXO",
+  "Imeum-imeum": "LEV",
+  "Teubileueng": "NUM",
+  "Kitab Teu-ulang": "DEU",
+  "Yosua": "JOS",
+  "Hakém-hakém": "JDG",
+  "Rut": "RUT",
+  "Ezra": "EZR",
+  "Nehemia": "NEH",
+  "Ester": "EST",
+  "Ayub": "JOB",
+  "Zabur": "PSA",
+  "Amsal": "PRO",
+  "Peungkhotbah": "ECC",
+  "Seulaweut Agong": "SNG",
+  "Kitab Nabi Yesaya": "ISA",
+  "Yesaya": "ISA",
+  "Nabi Yeremia": "JER",
+  "Yeremia": "JER",
+  "Peumo Ba-e": "LAM",
+  "Yehezkiel": "EZK",
+  "Daniel": "DAN",
+  "Hosea": "HOS",
+  "Yoël": "JOL",
+  "Amos": "AMO",
+  "Obaja": "OBA",
+  "Yunus": "JON",
+  "Mikha": "MIC",
+  "Nahum": "NAM",
+  "Habakuk": "HAB",
+  "Zefanya": "ZEP",
+  "Hagai": "HAG",
+  "Zakharia": "ZEC",
+  "Maleakhi": "MAL",
+  "Matius": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Yahya": "JHN",
+  "Kisah Rasui-rasui": "ACT",
+  "Roma": "ROM",
+  "Galatia": "GAL",
+  "Efesus": "EPH",
+  "Filipi": "PHP",
+  "Kolose": "COL",
+  "Titus": "TIT",
+  "Filemon": "PHM",
+  "Ibrani": "HEB",
+  "Yakobus": "JAS",
+  "Yudas": "JUD",
+  "Wahyu": "REV",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Raja-raja": "1KI",
+  "2 Raja-raja": "2KI",
+  "1 Tawarikh": "1CH",
+  "2 Tawarikh": "2CH",
+  "1 Korintus": "1CO",
+  "2 Korintus": "2CO",
+  "1 Tesalonika": "1TH",
+  "2 Tesalonika": "2TH",
+  "1 Timotius": "1TI",
+  "2 Timotius": "2TI",
+  "1 Petrus": "1PE",
+  "2 Petrus": "2PE",
+  "1 Yahya": "1JN",
+  "2 Yahya": "2JN",
+  "3 Yahya": "3JN"
+ },
+ "yv": 2835,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

@@ -1,0 +1,373 @@
+{
+ "menuName": "Tašlḥiyt",
+ "htmlLang": "shi",
+ "dir": "ltr",
+ "brand": "Lkitab amzlu ġ‑yan‑warra",
+ "docTitle": "Lkitab amzlu ġ‑yan‑warra · zġ‑lh̬lq ar‑tamzgida",
+ "share": {
+  "title": "Lkitab amzlu ġ‑yan‑warra",
+  "text": "Ġ‑yan‑warra, af‑tamukrist tameqqrant n‑Lkitab amzlu — d‑mayad f‑d‑yuška yasuɛ."
+ },
+ "ui": {
+  "people": "Mddn",
+  "events": "Tigawin timeqqranin",
+  "christLabel": "Itmala s‑yasuɛ",
+  "loveLabel": "Lḥnant ur‑isfiḍn",
+  "mythWrong": "Lġalaṭ ittwassann",
+  "mythRight": "S‑tidt",
+  "more": "Sigg ugar",
+  "version": "(SHILNT10)"
+ },
+ "labels": {
+  "start": "Asnti",
+  "thread": "Tamukrist",
+  "gospel": "Lh̬bar ifulkin",
+  "about": "F‑warra"
+ },
+ "s": {
+  "ui.share": "↗ Bḍu",
+  "ui.toast": "Tuh̬ttart lwaṣla 📋",
+  "ui.footer": "Lkitab amzlu ġ‑yan‑warra · Tiɣawsiwin n‑Lkitab zġ‑Tašlḥiyt",
+  "hero.kicker": "zġ‑lh̬lq ar‑tamzgida",
+  "hero.title": "Lkitab amzlu,<br><span class=\"em\">ġ‑yan‑warra</span>",
+  "hero.sub": "Ġ‑yan‑warra, af‑tamukrist tameqqrant n‑Lkitab amzlu — d‑mayad f‑d‑yuška yasuɛ.",
+  "hero.cue": "Gguz s‑izddar<span>↓</span>",
+  "thread.eyebrow": "Yat‑twala ittzrayn ġ‑kullu Lkitab",
+  "thread.h2": "Lkitab, ġ‑umggaru, iga yat‑tamukrist ɣir yat",
+  "thread.flow": "<b>Lwaɛd</b><span class=\"arw\">→</span><b>Aṣbar</b><span class=\"arw\">→</span><b>Akmml</b>",
+  "thread.note": "Rbbi ar‑ittini <b>lwaɛd</b> (lɛahd), mddn ar‑<b>ṣbarn</b> bahra, ġ‑umggaru kullu ma‑illan ar‑<b>ikmmal</b> ġ‑yasuɛ. Zray timsirin‑ad 13 lli‑izddarn s‑twala‑yad. Ut <b>«Sigg ugar»</b> ġ‑kullu takart baš a‑tġrit tamukrist tugar tin.",
+  "gospel.eyebrow": "Ma‑tɛna‑tmukrist‑ad i‑«nkki»",
+  "gospel.h2": "Wul n‑tidt n‑Lkitab",
+  "gospel.lead": "Lkitab <b>urd lktab n‑lqaɛida n‑lah̬laq ar‑ittini «ig amdan ifulkin».</b>",
+  "gospel.sublead": "Iga tamukrist n‑mamnk a‑s‑Rbbi, <b>ɣir s‑lḥnant</b>, ijjnjm imddan ʷh̬šnnin lli‑ur‑iẓḍarn a‑jjnjmn ih̬f‑nsn. Ġ‑wul illa yasuɛ lmasiḥ.",
+  "gospel.mirror": "<h3>Tawala n‑Israyil tga, s‑tidt, awdam‑inu nkki</h3><div class=\"cycle\"><b>Aɛbad n‑lmɛbudat</b><span class=\"a\">→</span><b>Aṭṭan</b><span class=\"a\">→</span><b>Tiɣwiyya</b><span class=\"a\">→</span><b>Rbbi ijjnjm</b><span class=\"a\">→</span><b>Daɣ aɛbad n‑lmɛbudat…</b></div><p>Zġ‑lḥukkam ar‑tagʷmat, Israyil ar‑isnaɣad tawala‑yad ur‑tlli i‑tt‑isfiḍn. Lkitab ur‑t‑yara baš a‑nstihzi srsn «mnšk a‑gan imɣbal».</p><p>Iga <b>lmri</b>. Urd «ntni a‑igan ġmkad», walaynni baš a‑aɣ‑imala is‑<b>«ula nkki giġ ġmkad»</b> (1 Korintus 10:11).</p><p>Lmɛbud <b>urd ɣir tasut n‑uksum</b>. Iga <b>kullu ma‑nḥmml nġd nttiqa srs ugar n‑Rbbi</b> — idrimn, anjaḥ, lmamuniyat n‑mddn, mddn, ula nkki ih̬f‑inu. Asmras n‑Rbbi zund <b>yan‑ubrid baš a‑naf maylli‑nra</b> ula ntta iga aɛbad n‑lmɛbudat.</p><p class=\"punch\">Ġ‑umggaru, lmɛbud aɣzzaf iga «nkki ih̬f‑inu, ġiyyġ ġ‑lkursi n‑Rbbi».</p>",
+  "gospel.coreIntro": "Manik a‑s‑ra‑ijjnjm Rbbi yan‑umḍlum am‑wad? Hatan wul n‑lh̬bar ifulkin lli‑itbrraḥ Lkitab.",
+  "gospel.crux": "<p class=\"crux-lead\">Kullu Lkitab itmala s‑yan‑umkan.</p><p>Mddn ur‑zḍarn a‑rzn tawala n‑ddnub s‑ih̬f‑nsn, ur‑illi yan ifulkin. Mayad a‑f‑iqqan yan ad‑ifk <b>attmn s‑umkan‑nnġ</b>.</p><p>Yasuɛ ur‑d‑yuški ɣir baš a‑aɣ‑isslmd kra ifulkin. Acku ur‑illi yan‑ubrid yaḍni baš a‑aɣ‑ijjnjm, <b>iqqan‑t a‑d‑yaška.</b></p><p class=\"crux-punch\">Walli ittwassann a‑idl ġ‑uggjdi‑an iga <b>nkki</b>.<br>Yasuɛ yusi <b>ddnub‑inu</b>, ittwasmar ġin ġ‑umkan‑inu.</p><div class=\"crux-verse\">«nttan a‑yusin ddnub‑nnġ ġ‑ddat‑ns f‑uggjdi, baš a‑nmmt i‑ddnub nddr i‑ma‑irḍan rbbi. s‑tiggas‑ns a‑s‑tjjim.» — 1 Buṭrus 2:24</div>",
+  "faq.h": "Iqqan‑k sul kra ġ‑mayad?",
+  "faq.q1": "<span class=\"arr\">▸</span> Ižd anɣay, iġ‑yumn, ra‑ifta s‑ujnna, imma yan iddrn s‑tidt mac ur‑iumin ra‑ifta s‑jhnnam?",
+  "faq.a1": "<p>Tga taġawsa‑yad s‑lḥqq. Walaynni tffr sin n‑lġalaṭat.</p><p><b>① Lkitab ur‑ibḍḍa mddn s‑«ifulkin» d‑«iʷh̬šnnin».</b> Lmizan urd «ifulki zġ‑uɣawas‑nnk», walaynni «tizddigt tameqqrant n‑Rbbi». Ġ‑izri‑ns, ur‑illi yan «ifulkin bzzaf» (Rumi 3:23). Mayad urd «amdan ifulkin mgal anɣay», walaynni zund sin n‑imuḍan ġ‑uṭṭan n‑lmut: yan iṭṭaf addawa, yaḍ inkr‑t ar‑ittini «nkki saḥḥaġ ugar n‑wan».</p><p><b>② Yat‑taġawsa ɣir yat a‑ibḍḍan ajnna d‑jhnnam.</b> Urd nuqṭ n‑tigawin, walaynni <b>izd tumnt s‑yasuɛ lmasiḥ d‑uɣaras n‑ddnub‑nnk irza</b>. Walli irza ddnub‑ns s‑idammn n‑lmasiḥ ra‑ifta s‑ujnna; walli ur‑sar‑t‑yumin, isul ddnub‑ns, ur‑ra‑ifta. Ur‑illi kra n‑lh̬dmat ifulkin lli‑ra‑irza ddnub ih̬f‑ns.</p><p>Mayad a‑f‑ajnna d‑jhnnam urd «attmn n‑lh̬dmat ifulkin», walaynni taġawsa n‑<b>tmddukla d‑lmasiḥ</b>. «Liman» urd ifham n‑uẓmẓ ɣir, walaynni abddl n‑sidi ġ‑tudrt: walli t‑yumnn s‑tidt ur‑ittili d‑uzɣar, walaynni itubu ugar zġ‑wul. Lmɛbud aɣzzaf izwarn iga <b>aɣwlay n‑ih̬f</b> («nkki giġ ifulkin»), walli aɣ‑isuturn «ur‑ḥtajaġ lmasiḥ» (Luqa 18:9-14).</p><p>Lkitab inna‑t s‑tidt: <b>«wanna sri yumnn, ur‑ra‑fllas‑ittut lḥukm. imma wanna ur‑irin a‑yamn, lḥukm a‑fllas‑illan ašku ur‑yumin s‑wad igan yus n‑rbbi»</b> (Yuḥanna 3:18). Lḥukm urd «anuqḍ n‑tudrt‑nnk ġ‑umggaru», walaynni yura yad ġilad s‑<b>izd tumnt s‑lmasiḥ</b>.</p><p class=\"faq-v\">Rumi 3:23 · Yuḥanna 3:18 · Afsus 2:8-9 · Luqa 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Ižd ur‑iẓḍar yan a‑iddr s‑ufulki ɣir bla liman s‑yasuɛ?",
+  "faq.a2": "<p>Mayad a‑ittwaġaln bzzaf, walaynni ur‑ifhim «matta a‑igan lmuškil n‑tidt». Nkkis‑d yat‑lmɛna.</p><p><b>Ɣil is‑tllit ġ‑uɣrrabu n‑imkʷran n‑lbḥr.</b> Wah̬h̬a tssazdgt aɣrrabu, tgit aḥnin d‑imddukkʷal‑nnk, tddrt s‑ufulki — sul tgit <b>amkʷar n‑lbḥr</b>, acku aɣrrabu ar‑k‑isawal s‑mani iddu (lmrsa n‑lḥukm). Lmuškil urd «nuqṭ n‑tigawin‑nnk», walaynni <b>«matta aɣrrabu ġ‑tllit» (matta a‑tgit)</b>.</p><p>Mayad a‑f‑lh̬bar ifulkin ur‑ittini «ig ifulkin ugar», walaynni <b>«bddl aɣrrabu».</b> Gguz zġ‑uɣrrabu n‑ddnub tzrit s‑yasuɛ — s‑maylli tgit ġilad, <b>tarwa n‑Rbbi</b>. Urd asgnu n‑nuqṭ‑nnk s‑jjhd, walaynni attiqa s‑walli‑k‑izaydn afus‑ns a‑tzrit s‑uɣrrabu‑ns.</p><p>S‑tidt, Lkitab itmala anjjam zund ubddl‑an: <b>«ijjnjm‑aġ‑d kullu zġ‑tgldit n‑tillas, išškšm‑aġ‑d s‑tgldit n‑yus iɛzzan»</b> (Kulusi 1:13).</p><p>Ur‑t‑tfham s‑lġalaṭ: <b>urd lmɛna‑ns is‑tudrt ifulkin ur‑tla atig.</b> Afulki urd «ašraṭ» n‑unjjam, walaynni iga <b>amud</b>‑ns. Walli ibddln aɣrrabu ar‑iddar s‑ufulki urd s‑tiksaḍ, walaynni s‑<b>tayri n‑yan‑warraw</b>.</p><p class=\"faq-v\">Kulusi 1:13 · Yuḥanna 1:12 · Yuḥanna 3:3 · Afsus 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Iġ‑imddlm illa ġ‑lhna ar‑ittini «issmḥ‑iyi Rbbi», imma walli ittwaḍlmn sul ar‑isaḍu — ižd ssmḥ‑ad ur‑irh̬is bzzaf?",
+  "faq.a3": "<p>Taġawsa‑yad s‑lḥqq, d‑irh̬a‑an iga n‑tidt. Walaynni mayad ur‑iga «assmḥ n‑Lkitab» — iga <b>tabddilt</b>‑ns.</p><p><b>① Assmḥ n‑Rbbi ur‑sar‑irh̬is.</b> Ddnub ur‑ittwaffr zund maylli «ur‑sar‑imun»; Rbbi s‑ih̬f‑ns ifka attmn‑ns s‑tudrt n‑yus‑ns. Aggjdi ur‑imala is‑ddnub iga ah̬fif, walaynni mnšk a‑izzay — assmḥ aɣla ġ‑ddunit.</p><p><b>② Atubu n‑tidt itara amud.</b> Iġ‑imddlm iga aɣwlay ġ‑izri n‑walli ittwaḍlmn — «issmḥ‑iyi Rbbi, lliġ giġ ġ‑lhna» — mayad urd atubu, walaynni taḥkayt‑ns (Matta 3:8). Assmḥ ġ‑grat yan‑umdan d‑Rbbi ur‑isfiḍ irh̬a n‑walli ittwaḍlmn ur‑t‑iẓḍar a‑issmḥ.</p><p><b>③ Ddnub ur‑sar‑ittwattu ɣir.</b> Kullu ddnub ittwah̬llaṣ ġ‑yan zġ‑sin n‑imukan — <b>nġd a‑t‑yusi lmasiḥ ġ‑uggjdi</b> (i‑walli yumnn ur‑sul‑tlli lɛqubit, Rumi 8:1), <b>nġd a‑t‑yusi walli t‑inkrn ar‑umggaru s‑ih̬f‑ns.</b> Mayad a‑f‑ur‑illi «assmḥ irh̬a». Imddlm sul iṭṭaf lmasʷuliyt n‑ššrɛ ġ‑ddunit‑ad (Rumi 13:1-4).</p><p><b>④ Imṭṭawn n‑walli ittwaḍlmn ur‑sar‑gan imẓyann ġ‑izri n‑Rbbi.</b> Rbbi ar‑ittru d‑willi ittrun, itktti kullu imṭṭi, ġ‑umggaru ra‑tn‑isfiḍ s‑ih̬f‑ns (Tibrra 21:4). Mayad a‑f‑walli ittwaḍlmn ur‑iqqan a‑yusi azzal n‑intiqam ɣir ntta, walaynni iẓḍar a‑t‑ifk i‑Rbbi imḍann (Rumi 12:19 — «ġmkad a‑s‑inna sidi rbbi, nkki a‑ra‑irar i‑mddn f‑mad‑skrn, fkġ‑asn mad‑asn‑igan»).</p><p class=\"faq-v\">Matta 3:8 · Rumi 8:1 · Rumi 13:1-4 · Tibrra 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Ižd Lkitab iga tudt n‑tidt? Itttinmal zund yat‑tḥkayt n‑zik nġd zund yan‑urwas.",
+  "faq.a4": "<p>Taġawsa‑yad s‑lḥqq — d‑iga amukan ifulkin n‑umzwaru. Ašškuk urd amgrad n‑liman, walaynni iga turit n‑ufsas n‑tġawsiwin s‑tidt. Lkitab urd yat‑tḥkayt ur‑ittwasnn a‑s «tamnt iġ‑trit», walaynni iga yan‑warra ittyaran f‑<b>imukan n‑tidt, tiwriqin n‑tidt, d‑mddn n‑tidt</b>. Ġakwand kra n‑imdyatn.</p><p><b>① Urd yan‑udlis ɣir walaynni «tasdlist» — walaynni ar‑ittazzal f‑yan‑uswir.</b> Lkitab iga yan‑ukmmus n‑<b>66 n‑idlisn</b> ittwayaran ġ‑kra n‑<b>1500 n‑usggʷas s‑kra n‑40 n‑imyarn</b> — igldan, imksawn, igmmamn n‑islman, yan‑umkkas n‑lġaramt, yan‑umdyaz, mddn n‑idrjan d‑uzmz mgaddanin, ttaran yan‑s‑yan ur‑ssinn nġar, s‑kraḍ n‑tutlayin (taɛibranit, taɛaramit, tagrigit). Walaynni kullu ttmunun, bla amzawag, f‑<b>yan‑uswir: lh̬laṣ s‑lmasiḥ</b>. Ġakwann iga tamafaqt iɛzzan a‑tt‑nfssr s‑ssḍfar nġd s‑usmun n‑bnadm.</p><p><b>② Ar‑ttwaqqan zġ‑wakal (lḥafriyat).</b> Aṭṭas n‑tġawsiwin lli‑mi‑nnan zik a‑s gant tinmsasin, «ġir ġ‑Lkitab a‑llanin», awrin ttwaqqant s‑tgmmi ġ‑wakal. <b>Tagldit n‑Dawud</b> s‑yan‑uẓru lli‑f‑ityaran «tigmmi n‑Dawud» (Aẓru n‑Tel Dan); <b>Bilaṭus</b>, agabir lli‑inġan yasuɛ, s‑yan‑uyrar lli‑darn ism‑ns; aġbalu n‑waman n‑ugllid Ḥizqiya s‑uġbalu‑an d‑uyrar‑ns. Ula <b>id Hittit</b>, lli‑mi‑nnan zik a‑s gan «ayt‑ufrwd», fkkan‑d zund yat‑timgrawt imqqurn ġ‑ih̬rbn.</p><p><b>③ Iga awal aqdim lli‑ihḍan bahra (id‑lmh̬ṭuṭ).</b> Ġ‑umḍan n‑imh̬ṭaṭn lli‑sul‑llanin, ula tamafaqt‑nsn yan‑d‑yan, ula azmz lli‑izrin ġr‑umzwaru d‑unɣil, Lkitab <b>ur‑dars amnsḍal ġ‑iwaliwn iqdimn</b>. Aġbar n‑Ašaɛya n‑uzmz n‑dat‑lmasiḥ ġ‑<b>iġbarn n‑Ill Immutn</b> (lli‑ttwafkan ġ‑1947) imsasa d‑warra amzwaru n‑kra n‑1000 n‑usggʷas awrin, askkil s‑uskkil — tamatart a‑s Lkitab ittwaḥḍa s‑tidt ġ‑izmaz kullutn.</p><p><b>④ Tiġawsiwin lli‑ityaran dat msasant d‑mayd‑imun (lanbiyat).</b> Lɛahd Aqdim, lli‑ityaran iqrnn dat‑yasuɛ, immala s‑tirit talalit‑ns ġ‑Bayt Laḥm, anaflla lli‑isaḍun, d‑mayd‑imun d‑uggjdi. Iẓil bahra ad‑ittwankkr zund ssḍfar.</p><p><b>⑤ Imyaran n‑umzruy berra n‑Lkitab ula ntni aran‑t.</b> Amyari arrumi <b>Tasitus</b> d‑umyari ayhudi <b>Yusifus</b> — ula yan ur‑iga amasiḥi — bdarn yasuɛ, anɣ‑ns, d‑tajmaɛt tamzwarut. F‑ugjdar n‑mayad, imḥḍarn lli‑imzrayn s‑tiksaḍ <b>ssrsn tudrt‑nsn</b> ġ‑ufuk f‑tnkra zġ‑lmut — ur‑illi mi‑ittmttat f‑kra lli‑issn a‑s iga lkdb.</p><p>Walaynni s‑tidt, iẓuran‑ad immalan a‑s liman s‑Lkitab <b>urd war lɛql walaynni d‑lɛql</b>; urd «tamatart» itthkkamn zund yat‑tmsaltt n‑lḥisab. Ġ‑mayan, taflaḥt n‑umasiḥi ur‑ttddu ɣir zġ‑tmatarin, walaynni zġ‑<b>tafrkt lli‑ittakka rruḥ lqudus i‑wul ġ‑mayd‑itɣra Awal</b>. Lkitab inna — <b>«walaynni ġwilli sflidnin, ntni a‑ra‑yamn. ġwilli mi‑n‑ntawi lh̬bar l‑lmasiḥ, ntni a‑ra‑isfld.»</b> (Rumi 10:17). Ġ‑mayan, wah̬h̬a‑tt‑ittinmal zund yat‑tḥkayt ur‑igin tidt, <b>aġr‑tt s‑ih̬f‑nnk</b> a‑igan amzwaru. Timatarin ar‑rẓmnt tigmi, tafelḥt ar‑tmqqur ġ‑wul n‑walli‑tt‑iɣran.</p><p class=\"faq-v\">Rumi 10:17</p>",
+  "respond.h3": "Imma — matta f‑nkki?",
+  "respond.sub": "Tayri‑yad urd lh̬bar, walaynni <b>tiɣri</b>. Iġ‑tayri‑an lli‑ittwasmarn ġ‑umkan‑inu tsli i‑wul‑nnk, ẓẓall taġawsa‑yad s‑sshala, yat‑twala s‑yat.",
+  "respond.prayer": "<p>A‑Rbbi,</p><p>ar‑qiraġ is‑giġ amḍlum lli‑ur‑iẓḍarn a‑ijjnjm ih̬f‑ns.</p><p>umnġ is‑immut yasuɛ f‑nkki ġ‑uggjdi, idaɣ idr.</p><p>ssutrġ‑ak a‑iyi‑tssmḥt kullu ddnub‑inu, tgt zġ‑ġilad sidi n‑tudrt‑inu.</p><p>Qbl‑iyi zund warraw‑nnk, tjjt‑iyi a‑ddrġ tudrt tamaynut.</p><p class=\"amen\">S‑ism n‑yasuɛ ar‑ttẓallaġ. Amin.</p>",
+  "respond.after": "Iġ‑tẓẓallt mayad zġ‑wul, Lkitab inna is‑tgit ġilad <b>warraw n‑Rbbi</b>. Ur‑sul‑tgit waḥdutk — af yat‑tamzgida iqrbn, tddut s‑uɣaras n‑liman d‑wiyyaḍ.",
+  "respond.read": "Ġr Lkitab s‑ih̬f‑nnk — bdu zġ‑Yuḥanna",
+  "respond.verse": "«imma kullu winna‑t‑ranin amnn srs, ifka‑yasn lḥqq ad‑gn tarwa n‑rbbi.» — Yuḥanna 1:12 · Rumi 10:9-10",
+  "closing.main": "Yan‑Rbbi,<br>s‑yat‑tamukrist,<br>s‑yat‑<em>tayri</em> lli‑ur‑isfiḍn<br>ar‑aɣ‑isiggil.",
+  "closing.verse": "«urd lmut nġd tudrt … urd ma‑illan nġd ma‑ra‑yili … kullu ma‑ih̬lq rbbi, ur‑gis‑illi kra iẓḍarn ad‑aġ‑issngara d‑lḥnant n‑rbbi lli‑s‑ginnġ‑iḥnna f‑uwdm l‑lmasiḥ yasuɛ siditnnġ.» — Rumi 8:38-39",
+  "closing.small": "F‑tmukrist‑ad, ššrɛ, izlan, lanbiya, d‑tibratin ar‑rnunt «aksum».<br>Zġ‑ġilad, kraygatt warra lli‑tldit, ra‑tssant «mani a‑tllit ġ‑tmukrist».",
+  "closing.share": "↗ Bḍu tamukrist‑ad",
+  "about.line": "Anammak isnti f‑uẓri <b>n‑umzray n‑unjjam, awnjiliyy d‑aṣlaḥiyy</b> lli‑tbḍa aggu n‑tmzgidiwin n‑Kuriya.",
+  "about.contact": "Isqsitn · taɛrubin — <a id=\"contact\" class=\"mail\">Azn‑aɣ‑d brid</a>",
+  "partial.note": "Ġ‑Tašlḥiyt, ɣir Lɛahd Amaynu (Linjil) a‑illan; tiɣawsiwin n‑Lɛahd Aqdim ur‑llint ġ‑warra‑yad. Tiɣawsiwin n‑Lɛahd Aqdim ttwabddlnt s‑tin Lɛahd Amaynu. Ġr i‑ih̬f‑nnk Lɛahd Amaynu n‑Tašlḥiyt."
+ },
+ "epochs": [
+  {
+   "tag": "Lɛahd Aqdim · Asnti",
+   "title": "Lh̬lq",
+   "date": "Ġ‑isizwar",
+   "one": "Rbbi ih̬lq ddunit lli‑igan «tafulkit bahra».",
+   "people": "Rbbi; Adam d‑Ḥawwa",
+   "events": "Sḍiss n‑wussan n‑lh̬lq, bnadm ittwah̬llaq s‑ssura n‑Rbbi, asunfu n‑wass n‑ssbt",
+   "q": "Ġ‑isizwar, Rbbi ih̬lq ignwan d‑wakal.",
+   "cite": "",
+   "christ": "Ddunit tettwah̬llaq s‑«wawal». Linjil n‑Yuḥanna itbrraḥ is‑wawal‑an iga yasuɛ s‑ih̬f‑ns (Yuḥanna 1:1-3).",
+   "detail": "<p>Lkitab ur‑isnti s‑kra n‑lmunaqašt n‑lfalsafa, walaynni s‑tbraḥt: <b>«Ġ‑isizwar, Rbbi…»</b> Ddunit urd s‑lh̬aṭr, walaynni tigawt n‑yan‑Rbbi yumẓn.</p><ul><li><b>Ssura n‑Rbbi</b> · zġ‑kullu ma‑ittwah̬llaqn, ɣir bnadm a‑ittwah̬llaqn baš a‑imšaba d‑Rbbi — baš a‑t‑issn d‑a‑iḥḍu ddunit.</li><li><b>Asunfu</b> · asunfu n‑wass wis sa imala is‑kullu ma‑illan ikmml ġ‑lhna (šalum): «tafulkit ad‑tga».</li><li><b>ɛdn</b> · ddunit dat‑ma‑tterza, mani a‑ġ‑ar‑tggant Rbbi d‑mddn s‑umya.</li></ul>",
+   "next": "Walaynni lkmal‑ad ra‑irza…"
+  },
+  {
+   "tag": "Lɛahd Aqdim · Lmuškil iar‑isnti",
+   "title": "Aṭṭiy",
+   "date": "Ġ‑isizwar",
+   "one": "Ikšm‑d ddnub, ittabbi umya gr mddn d‑Rbbi.",
+   "people": "Adam d‑Ḥawwa; alḥnnaš (ibliss)",
+   "events": "Učči n‑waman ittwagdaln, agluy zġ‑ɛdn, akšam n‑lmut d‑urh̬a",
+   "q": "Rbbi iwaɛd is‑amud n‑tmġart ra‑irẓ aɣf n‑ulḥnnaš, s‑uɣaras‑an ibliss ra‑ittwanɣa.",
+   "cite": "",
+   "christ": "Lwaɛd amzwaru n‑lh̬bar ifulkin, lli‑ittwafkan illig ataṭṭiy: «amud n‑tmġart» ra‑irẓ aɣf n‑ulḥnnaš — d‑wanan iga yasuɛ (Rumi 16:20; Ġalaṭiya 4:4).",
+   "detail": "<p>S‑uɛṣiyan n‑walli iran a‑ig «zund Rbbi», ikšm‑d ddnub s‑ddunit. Ur‑iga ɣir ššrɛ irzan, walaynni <b>tamddukla irzan</b>.</p><ul><li><b>Tamddukliwin ittwabban</b> · d‑Rbbi (afar), d‑umya (alum), d‑umaḍal (asnnan d‑urh̬a).</li><li><b>Lmut</b> · «ra‑tmmtt s‑tidt» tga tidt.</li><li><b>Lwaɛd amzwaru</b> · walaynni ġ‑grat lḥukm, ikka‑d lwaɛd n‑unjjam amzwaru. Lɛulama ar‑t‑ttinin <b>amzwaru n‑lh̬bar ifulkin</b>.</li></ul>",
+   "next": "Ġilad Rbbi ar‑isawal yan‑urgaz baš a‑isnti anjjam…"
+  },
+  {
+   "tag": "Lɛahd Aqdim · Lwaɛd",
+   "title": "Imzwura",
+   "date": "ġar 2000 dat‑lmasiḥ",
+   "one": "Rbbi iwaɛd Ibrahim, «ra‑tgt anammar n‑lbaraka.»",
+   "people": "Ibrahim · Isḥaq · Yaɛqub · Yusf",
+   "events": "Lɛahd n‑Ibrahim, attigi n‑Isḥaq, mraw‑sin n‑warraw n‑Yaɛqub, attuy n‑Yusf s‑ssulṭa ġ‑Miṣr",
+   "q": "Rbbi iwaɛd Ibrahim is‑ra‑t‑ig tamazirt tameqqrant, s‑uɣaras‑ns ra‑ttwabarakn kullu tawjiwin n‑ddunit.",
+   "cite": "",
+   "christ": "Lwaɛd‑an n‑«kullu tamazirin ra‑ttwabarakn» ikmml ġ‑yasuɛ, amud n‑Ibrahim (Ġalaṭiya 3:16).",
+   "detail": "<p>Rbbi isnti a‑irz lmuškil n‑kullu bnadm s‑usawal n‑yan‑urgaz, <b>Ibrahim</b>. Ġ‑wul‑ns illa <b>lɛahd (lwaɛd)</b> — tamazirt tameqqrant, akal, d‑«lbaraka i‑kullu tamazirin».</p><ul><li><b>Liman</b> · Ibrahim yumn s‑lwaɛd ur‑ittwaẓra, ittwaḥsab‑as zund afulki.</li><li><b>Isḥaq d‑Yaɛqub</b> · lwaɛd ar‑itzray; Yaɛqub (Israyil) iga baba n‑mraw‑sin n‑lqbayl.</li><li><b>Yusf</b> · ittwasnz s‑aytmas walaynni yattuy s‑ssulṭa — Rbbi iqṣad‑t i‑ufulki.</li></ul>",
+   "next": " Awddi n‑Yusf, tawja tgguz s‑Miṣr — tg ismgan…"
+  },
+  {
+   "tag": "Lɛahd Aqdim · Anjjam",
+   "title": "Affuɣ d‑lh̬la",
+   "date": "ġar 1446 dat‑lmasiḥ",
+   "one": "Rbbi ijjnjm tamazirt n‑ismgan, ig‑tt tamazirt‑ns.",
+   "people": "Musa, Harun, Firɛun",
+   "events": "Mraw n‑lmaṣayb, lfiṣḥ, azray n‑llbḥr azggʷaɣ, mraw n‑luṣayat ġ‑Sina, ah̬yam n‑ulqa, rbɛin n‑usggʷas ġ‑lh̬la",
+   "q": "Rbbi iwaɛd is‑ra‑tn‑ig tamazirt‑ns, ig s‑ih̬f‑ns Rbbi‑nsn.",
+   "cite": "",
+   "christ": "Lfiṣḥ — mani a‑ġ‑idammn n‑yan‑izimr zaydn lmut — itmala s‑yasuɛ, «izimr‑nnġ n‑lfiṣḥ», lli‑ittwagdal f‑uggjdi f‑darnnġ (1 Korintus 5:7).",
+   "detail": "<p>Anjjam ameqqran n‑Lɛahd Aqdim. Israyil lli‑igan ismgan ittwajjnjm s‑ssulṭa n‑Rbbi, ig‑d <b>tamazirt</b>.</p><ul><li><b>Lfiṣḥ</b> · tigmmi lli‑ittwagn s‑idammn n‑izimr, lmut tzray fllas — almatal n‑kullu tigi izaydn.</li><li><b>Llbḥr azggʷaɣ</b> · anjjam mani a‑ibbi uɣaras; «azray» iga asnti amaynu.</li><li><b>Lɛahd n‑Sina</b> · s‑luṣayat ar‑lmmadn mamnk a‑rad‑ddrn zund tamazirt n‑Rbbi.</li><li><b>Ah̬yam n‑ulqa</b> · tamzgida ittmussun mani a‑ġ‑izdaɣ Rbbi ġ‑grat tmazirt‑ns — almazwar n‑«ɛimmanuwwil».</li><li><b>Rbɛin n‑usggʷas</b> · aɛṣiyan iṭṭaf yan‑ujil ġ‑lh̬la, walaynni Rbbi iqrb s‑lmann d‑uɣanim n‑usignu d‑tafat.</li></ul>",
+   "next": "Bdda ġ‑imi n‑tmazirt n‑lwaɛd, ttwajjuhadn baš a‑kšmn…"
+  },
+  {
+   "tag": "Lɛahd Aqdim · Azdaɣ",
+   "title": "Akšam d‑lḥukkam",
+   "date": "ġar 1400–1050 dat‑lmasiḥ",
+   "one": "Amẓn akal, walaynni acku ur‑illi ugllid, kraygatt yan ar‑iskar maylli iran wul‑ns.",
+   "people": "Yušaɛ; lḥukkam zund Jidɛun d‑Šimšun; Raɛut",
+   "events": "Aṭṭiy n‑Ariḥa, azdaɣ ġ‑Kanɛan, tawala ittmsnaɣadn n‑ddnub–lḥukm–anjjam",
+   "q": "Ġ‑wussan‑an ur‑illi ugllid ġ‑Israyil; kraygatt yan ar‑iskar maylli ifulki ġ‑walln‑ns.",
+   "cite": "",
+   "christ": "Zġ‑amud n‑Raɛut, ar‑d‑ittnkar Dawud, zġ‑amud n‑Dawud, ar‑d‑ittnkar yasuɛ (Matta 1). Ula ġ‑grat lfawḍa, asɣar n‑tawja n‑lmasiḥ isul ar‑izaydn.",
+   "detail": "<p>Ddu n‑uzwar n‑Yušaɛ kšmn s‑tmazirt n‑lwaɛd, walaynni awddi n‑uzdaɣ ttattun Rbbi. Lktab n‑lḥukkam iga almatal‑an ittmsnaɣadn.</p><ul><li><b>Tawala tggugzn</b> · ddnub ← aḍlam ← tiɣwiyya ← Rbbi ar‑d‑isaka aḥakm ijjnjm ← daɣ ddnub. Ɣir ar‑tʷh̬šin.</li><li><b>Lḥukkam</b> · Jidɛun, Šimšun, Dabura — imjjunja n‑uẓmẓ, igʷḍaḍ walaynni h̬ṣṣann bahra.</li><li><b>Raɛut</b> · tamukrist n‑tafat n‑lamana ġ‑uẓmẓ n‑tillas; tamġart taberraniyt ar‑d‑tkšm s‑amud n‑Dawud (d‑yasuɛ).</li></ul>",
+   "next": "Mddn ar‑ttɣwiyyan, «fk‑aɣ‑d ula nkkʷni agllid!»…"
+  },
+  {
+   "tag": "Lɛahd Aqdim · Uẓmẓ n‑urɣ",
+   "title": "Tagldit ittmunn",
+   "date": "ġar 1050–930 dat‑lmasiḥ",
+   "one": "Rbbi iwaɛd Dawud, «lɛrš‑nnk ra‑ibddu ar‑lebda.»",
+   "people": "Šawl · Dawud · Sulayman",
+   "events": "Agllid amzwaru Šawl, Dawud d‑Jaluṭ, lɛahd n‑Dawud, Sulayman ar‑ibnu tamzgida",
+   "q": "Rbbi iwaɛd Dawud is‑tawja d‑tgldit‑ns ra‑bddunt dat‑izri‑ns ar‑lebda, lɛrš‑ns ra‑ibddu ar‑lebda.",
+   "cite": "",
+   "christ": "Lɛrš‑an «ibddun ar‑lebda» ikmml ġ‑yasuɛ, yus n‑Dawud — mayad a‑f‑ar‑as‑ttinin «yus n‑Dawud» (Luqa 1:32-33; Matta 1:1).",
+   "detail": "<p>Aqdaḥ n‑Israyil, lli‑ittwaḥkam s‑kraḍ n‑igldan.</p><ul><li><b>Šawl</b> · agllid lli‑ran mddn; asnti ifulkin ittʷh̬šn s‑uɛṣiyan.</li><li><b>Dawud</b> · «argaz s‑wul n‑Rbbi». Inɣa Jaluṭ, ig Urušalim tamadint tameqqrant. Iskar ddnub ameqqran (Batšabaɛ) walaynni itubu zġ‑wul.</li><li><b>Lɛahd n‑Dawud</b> · Rbbi iwaɛd a‑ibddu tawja n‑Dawud ar‑lebda — aẓur n‑usitm n‑lmasiḥ.</li><li><b>Sulayman</b> · ġ‑uqdaḥ n‑lḥikma d‑rrzq ibnu <b>tamzgida</b> ġ‑Urušalim, walaynni ġ‑umggaru n‑tudrt‑ns iẓri s‑lmɛbudat.</li></ul>",
+   "next": "Awddi n‑Sulayman, tagldit ra‑tbḍu s‑sin…"
+  },
+  {
+   "tag": "Lɛahd Aqdim · Aḍr",
+   "title": "Tagldit ittwabḍan",
+   "date": "930–586 dat‑lmasiḥ",
+   "one": "Tbḍa s‑unzul (Yahuda) d‑ugafa (Israyil), tamazirt tgguz s‑lh̬rab.",
+   "people": "Igldan n‑snat n‑tgldatin; lanbiya zund Iliyas, Išaɛya, Irmiya",
+   "events": "Tagldit ar‑tbḍu, aɛbad n‑lmɛbudat ar‑izduy, lanbiya ar‑smḥssayn",
+   "q": "Israyil inkr i‑tawja n‑Dawud, aɛṣiyan‑ad isul ar‑ass‑ad.",
+   "cite": "",
+   "christ": "Ġ‑uẓmẓ‑ad lanbiya ar‑ttbrraḥn ugar d‑s‑lḥqq f‑lmasiḥ lli‑d‑ittasin.",
+   "detail": "<p>Ġ‑wussan n‑yus n‑Sulayman tbḍa tamazirt: <b>tagldit n‑ugafa n‑Israyil</b> (mraw n‑lqbayl, tamadint Samira) d‑<b>tagldit n‑unzul n‑Yahuda</b> (snat n‑lqbayl, tamadint Urušalim).</p><ul><li><b>Israyil (agafa)</b> · kraygatt agllid ar‑iɛbad lmɛbudat; ġ‑722 dat‑lmasiḥ taṭṭiy s‑Ašur.</li><li><b>Yahuda (anzul)</b> · amud n‑Dawud isul, s‑kra n‑igldan ifulkin zund Ḥizqiya d‑Yušiya, walaynni s‑umata aḍr.</li><li><b>Lanbiya</b> · Iliyas, ɛamus, Išaɛya, Irmiya ar‑ttinin «uɣalat‑d!» Tabraḥt n‑lmasiḥ ar‑tggugma ġ‑uẓmẓ‑ad.</li></ul>",
+   "next": "Ġ‑umggaru, lḥukm ittwasmḥssan ar‑d‑ittas — ttwaɣn s‑lḥabs…"
+  },
+  {
+   "tag": "Lɛahd Aqdim · Lḥukm",
+   "title": "Aḥbas",
+   "date": "722 / 586 dat‑lmasiḥ",
+   "one": "Tamazirt tffu, mddn ttwaɣn s‑timizar tiberraniyin.",
+   "people": "Daniyal, Ḥizqiyal, Nabukadnaṣṣar",
+   "events": "Israyil taṭṭiy s‑Ašur (722); Yahuda taṭṭiy s‑Babil, tamzgida terza (586)",
+   "q": "Ġ‑tama n‑isaffn n‑Babil, mddn gawrn rurn, acku kttin Ṣahyun.",
+   "cite": "",
+   "christ": "Ġ‑laɛmaq n‑uyas, Irmiya iwaɛd s‑«lɛahd amaynu» — lɛahd‑an a‑ig yasuɛ s‑umkli amggaru.",
+   "detail": "<p>Tibraḥin gnt tidt. Tamzgida treq, mddn ttwaɣn s‑Babil — sfldn akal, agllid, d‑tamzgida: anqar amggaru.</p><ul><li><b>Snat n‑tuṭṭiyin</b> · Israyil (Ašur, 722 dat‑lmasiḥ) d‑Yahuda (Babil, 586 dat‑lmasiḥ).</li><li><b>Daniyal</b> · almatal n‑liman ula ġ‑darat n‑aɛbad n‑lmɛbudat (anu n‑iyrzimn); ar‑iẓra tirja n‑«tagldit ittbddun ar‑lebda».</li><li><b>Tafiyt n‑usitm</b> · arja n‑iɣsan iqquran lli‑d‑idrn d‑«lɛahd amaynu» n‑Irmiya imala yan‑uzkka ġ‑tillas.</li></ul>",
+   "next": "Sbɛin n‑usggʷas awddi, Rbbi ar‑irẓm aɣaras — ar‑d‑uɣaln s‑tgmmi…"
+  },
+  {
+   "tag": "Lɛahd Aqdim · Asmsasa",
+   "title": "Tuɣalin zġ‑lḥabs",
+   "date": "538–430 dat‑lmasiḥ",
+   "one": "Uɣaln‑d, bnun daɣ tamzgida d‑iɣrman.",
+   "people": "ɛizra, Naḥamya, Astir, Zurubabil",
+   "events": "Tuɣalin s‑lamr n‑Kuruš, asmaynu n‑tmzgida, asmsasa n‑iɣrman n‑Urušalim, tirgalt n‑wawal",
+   "q": "Lfrḥ n‑sidi Rbbi a‑igan tudrt‑nnun.",
+   "cite": "",
+   "christ": "Lktab amggaru n‑Lɛahd Aqdim ar‑ikmmal s‑tbraḥt n‑yan‑umsktay lli‑ra‑isujjad aɣaras n‑lmasiḥ.",
+   "detail": "<p>S‑lamr n‑Kuruš agllid n‑Faris (538 dat‑lmasiḥ) tasnti tuɣalin. Ġ‑kraḍ n‑imura uɣaln‑d, bnun daɣ maylli irza.</p><ul><li><b>Zurubabil</b> · ibnu daɣ tamzgida (tkmml ġ‑516 dat‑lmasiḥ).</li><li><b>ɛizra</b> · isslmd daɣ awal, isdr liman.</li><li><b>Naḥamya</b> · ibnu daɣ iɣrman n‑Urušalim ġ‑52 n‑wussan.</li><li><b>Astir</b> · tjjnjm udayn n‑Faris zġ‑lhalak — «i‑yan‑uẓmẓ am‑wad».</li><li><b>Sul asitm</b> · tamzgida tbddu, walaynni ur‑tlli tagldit zund tin Dawud. Tamazirt ar‑tṣbar i‑lmasiḥ.</li></ul>",
+   "next": "Awddi n‑mayad… zund iġ‑ignna iẓẓuẓẓm, ar‑zrayn 400 n‑usggʷas."
+  },
+  {
+   "tag": "Gr‑sin‑lɛuhud · Asujjad n‑umkan",
+   "title": "Isggʷasn n‑uẓuẓm",
+   "date": "ġar 430–4 dat‑lmasiḥ",
+   "one": "400 n‑usggʷas bla taɣwsa n‑yan‑unbi — walaynni amkan ar‑ittwasujjad ġ‑uẓuẓm.",
+   "people": "Iskndar ameqqran, Imakabiyn, Ruma",
+   "events": "Faris ← Lyunan ← tilelli n‑Imakabiyn ← lḥukm n‑Ruma",
+   "q": "walaynni ġakud lliġ‑d‑iruḥ‑uzmz, rbbi yuzn‑d yus s‑ddunit. ilul‑d zġ‑waḥlig n‑yat‑tmġart, iwrri yili ula ntta ġ‑ddu ššrɛ,",
+   "cite": "Ġalaṭiya 4:4",
+   "christ": "Kullu «asujjad n‑umkan‑ad» iga tigawt n‑Rbbi baš a‑d‑yaška yasuɛ ġ‑«akmml n‑uzmz».",
+   "detail": "<p>Zġ‑lktab amggaru n‑Lɛahd Aqdim ar‑Lɛahd Amaynu, ar‑zrayn ġar 400 n‑usggʷas bla awal amaynu. Walaynni darat n‑umzruy Rbbi ar‑isujjad aɣaras n‑lh̬bar ifulkin.</p><ul><li><b>Tigldatin ar‑ttbddilnt</b> · Faris ← Lyunan (Iskndar, 333 dat‑lmasiḥ) ← Ibtulamiyn d‑Isalukiyn ← tinawt n‑Imakabiyn (167 dat‑lmasiḥ) ← Ruma (63 dat‑lmasiḥ).</li><li><b>Tayunanit</b> · tinawin n‑Iskndar gant tayunanit tutlayt ittwassann; Lɛahd Aqdim ittwasuɣl s‑tyunanit (Sabṭuwajinta), irẓm aɣaras i‑lh̬bar ifulkin a‑izduy s‑sshala.</li><li><b>Iɣarasn n‑Ruma d‑sslamt</b> · iɣarasn ttwabnan d‑«sslamt n‑Ruma» gant iberdan n‑tubratin.</li><li><b>Tinmlatin d‑tirubba</b> · aslmd ġ‑tinmlatin iẓur; ttnkarn‑d ifarisiyn d‑iṣaduqiyn; <b>asitm n‑lmasiḥ</b> ar‑igguma.</li></ul>",
+   "next": "Awddi n‑uẓuẓm ar‑irza — ġ‑umggaru, ar‑d‑ittas."
+  },
+  {
+   "tag": "Lɛahd Amaynu · Akmml",
+   "title": "Atwada n‑yasuɛ",
+   "date": "ġar 4 dat‑lmasiḥ–30 awddi",
+   "one": "Lmasiḥ ittwawaɛdn yuška‑d, immut, idaɣ idr.",
+   "people": "Yasuɛ, mraw‑sin n‑imḥḍarn, Yuḥanna amsddam",
+   "events": "Atwada s‑uksum (talalit), lh̬dmt d‑uslmd d‑lmuɛjizat, lmut f‑uggjdi, ankar ġ‑wass wis kraḍ",
+   "q": "awal‑an iwrri iga bnadm, izdġ ġ‑gratnnġ, nẓr lmjd‑ns. iga lmjd n‑walli igan yan dar babas, tigat gis lbaraka d‑lḥqq.",
+   "cite": "Yuḥanna 1:14",
+   "christ": "Amud n‑tmġart (timsirt 2), lbaraka n‑Ibrahim (3), izimr n‑lfiṣḥ (4), agllid ibddun n‑Dawud (6), lɛahd amaynu (8) — kullu ġ‑yan‑umdan, yasuɛ: anbi, lh̬aṭib, d‑agllid n‑tidt‑nnġ.",
+   "detail": "<p>Aẓuẓm ar‑irza; walli ittwawaɛdn ar‑d‑ittas. Kkuẓ n‑linjilat ar‑ttinin tugga f‑tudrt, lmut, d‑unkar n‑yasuɛ zġ‑kkuẓ n‑tama.</p><ul><li><b>Atwada s‑uksum</b> · Rbbi ig bnadm (ɛimmanuwwil, «Rbbi didnnġ»), ġ‑umkan amzyan n‑Bayt Laḥm.</li><li><b>Lh̬dmt</b> · isslmd tagldit n‑Rbbi, ijjuja imuḍan, isawal s‑imddan ʷh̬šnnin. «Walli‑iyi‑iẓran iẓra baba.»</li><li><b>Aggjdi</b> · ar‑ittih̬llaṣ attmn n‑ddnub d‑lmut lli‑d‑ikkan ataṭṭiy (timsirt 2). Izimr n‑lfiṣḥ n‑tidt.</li><li><b>Ankar</b> · idr ġ‑wass wis kraḍ, irza ssulṭa n‑ddnub, lmut, d‑ibliss — ula f‑uggjdi <b>«inra lmasiḥ ssulṭat d‑lquwwat n‑ignwan, ikkis‑asnt imqlad‑nsnt, iml i‑kullu mddn is‑tnt‑inra»</b> (Kulusi 2:15).</li></ul><p>Mayad a‑f‑yasuɛ iga <b>anbi</b> n‑tidt‑nnġ (imala aɣaras n‑Rbbi), <b>lh̬aṭib</b> n‑tidt‑nnġ (ittih̬llaṣ ddnub s‑ddat‑ns), d‑<b>agllid</b> n‑tidt‑nnġ (inra ddnub, lmut, d‑ibliss, iḥkam ar‑lebda).</p>",
+   "next": "Yasuɛ lli‑idrn ar‑isakka imḥḍarn‑ns s‑ddunit…"
+  },
+  {
+   "tag": "Lɛahd Amaynu · Azduy",
+   "title": "Tamzgida tasnti",
+   "date": "ġar 30 awddi–",
+   "one": "Rruḥ ar‑d‑ittas, lh̬bar ifulkin ar‑izduy s‑imura aggugnin n‑ddunit.",
+   "people": "Buṭrus, Bulus, tamzgida tamzwarut",
+   "events": "Tuska n‑Rruḥ ġ‑lɛnṣart, talalit n‑tmzgida, azduy n‑lh̬bar ifulkin zġ‑Urušalim ar‑Ruma ġ‑grat udabu",
+   "q": "walaynni ra‑tɛmmrm s‑tḥkimt itjhhdn ġakud nna‑d‑fllawn‑igguz rruḥ lqudus. ra‑flla‑takkam tugga ġ‑urušalim ula kullu tamazirt n‑yudaya ula samira ar timizar aggugnin n‑ddunit.",
+   "cite": "Lḥrakat n‑imazann 1:8",
+   "christ": "Tamukrist‑ad isul ar‑ass‑ad. Lkitab ar‑ikmmal s‑lwaɛd is‑ra‑d‑idaɣ yasuɛ, ismaynu kullu ma‑illan (Tibrra 21).",
+   "detail": "<p>Awddi n‑uɣulli n‑yasuɛ, Rruḥ ittwawaɛdn ar‑d‑ittas ġ‑lɛnṣart, talul tamzgida. Lh̬bar ifulkin ar‑izduy s‑uɛaḍil.</p><ul><li><b>Lɛnṣart</b> · Rruḥ ar‑ibddil imḥḍarn ttiksaḍn s‑imagan iḥuḍrn.</li><li><b>Buṭrus</b> · ar‑ibrraḥ lh̬bar ifulkin i‑udayn n‑Urušalim.</li><li><b>Bulus</b> · zġ‑umḍlum s‑amazan, ar‑isẓuẓur timzgidiwin ġ‑kullu ddunit n‑iberraniyn, ar‑iytara tibratin.</li><li><b>Ar‑timizar aggugnin n‑ddunit</b> · Urušalim ← Yahuda ← Samira ← Ruma. Lwaɛd n‑Ibrahim f‑«kullu tamazirin» ar‑igan tidt.</li><li><b>D‑nkkʷni</b> · tamukrist ur‑tkmmil; ar‑tzray s‑tuɣalin n‑yasuɛ d‑ignwan imaynutn d‑wakal amaynu.</li></ul>",
+   "next": "Walaynni tamukrist ur‑tkmmil ġid…"
+  },
+  {
+   "tag": "Lɛahd Amaynu · Akmml",
+   "title": "Asmsasa n‑kullu ma‑illan",
+   "date": "Sul ar‑d‑ittas",
+   "one": "Yasuɛ ar‑d‑idaɣ, ismaynu kullu ma‑illan.",
+   "people": "Yasuɛ lli‑d‑idaɣn; kullu tamazirin",
+   "events": "Tuɣalin tis snat, lḥukm amggaru, anqar n‑ddnub·lmut·imṭṭi, ignwan imaynutn d‑wakal amaynu",
+   "q": "ra‑isfiḍ kullu imṭṭawn‑nsn. ur‑sul‑ra‑tili lmut ula taguḍi ula tiġwiyya ula aṭṭan, ašku ddunit taqdimt ur‑sul‑tqama.",
+   "cite": "Tibrra 21:4",
+   "christ": "ɛdn n‑lh̬lq amzwaru ġ‑umggaru ittwasmsasa zund «Urušalim amaynu». Rbbi ar‑izdaɣ d‑tmazirt‑ns ar‑lebda — akmml n‑ɛimmanuwwil (Tibrra 21:3; Matta 1:23).",
+   "detail": "<p>Lkitab ur‑ikmmil s‑uẓmẓ n‑tmzgida. Lktab‑ns amggaru, Tibrra, imala yasuɛ lli‑<b>d‑idaɣn</b> baš a‑ikmml kullu ma‑illan.</p><ul><li><b>Tuɣalin tis snat</b> · agllid ittwawaɛdn ar‑d‑idaɣ s‑lmjd.</li><li><b>Anjaḥ amggaru</b> · ibliss d‑lmut ttwanɣan ar‑lebda, lmasiḥ ar‑iḥkam zund agllid n‑igldan (1 Korintus 15:25-26; Tibrra 20:10).</li><li><b>Lḥukm d‑unkar</b> · kraygatt lġalaṭ ittwaṣlaḥ, willi mmutnin ar‑d‑idrn.</li><li><b>Ignwan imaynutn d‑wakal amaynu</b> · ddnub, lmut, imṭṭi, d‑urh̬a ttwanqarn ar‑lebda (Tibrra 21:4).</li><li><b>ɛdn ittwasmsasan</b> · ġ‑«Urušalim amaynu» lli‑ifulkin ugar n‑umzwaru, Rbbi ar‑izdaɣ d‑tmazirt‑ns ar‑lebda — almazwar lli‑f‑ar‑izaydn kullu Lkitab.</li></ul><p>Mayad a‑f‑ġilad iga uẓmẓ n‑<b>«ġilad, walaynni urta»</b>: ġ‑yasuɛ anjjam <b>ġilad</b> ikmml, walaynni akmml‑ns <b>urta</b> ittwaṣbar.</p>",
+   "next": "Imma matta a‑tɛna‑tmukrist‑ad i‑«nkkʷni»?"
+  }
+ ],
+ "love": [
+  "Tamukrist ur‑tsnti s‑lḥukm, walaynni s‑lh̬lq ittwasmarn s‑tayri.",
+  "Tasaɛt lliġ skarn mddn ddnub, Rbbi iwaɛd anjjam ġinn ġ‑umkan.",
+  "Rbbi yuška d‑amzwaru s‑yan‑urgaz ur‑istahil, isawl‑t s‑ism‑ns, ig‑t anammar n‑lbaraka.",
+  "Isfld i‑urzun n‑tmazirt n‑ismgan, igguz s‑ih̬f‑ns baš a‑tn‑ijjnjm.",
+  "Ittwah̬tar bahra, walaynni kraygatt twala lliġ ttɣwiyyan, isaka‑d amjjunja, isduqqr‑tn.",
+  "Ula Dawud lli‑iṭṭan ur‑t‑iẓẓug, s‑uɣaras‑ns iwaɛd agllid ibddun ar‑lebda.",
+  "I‑tmazirt lli‑t‑inkrn, isul ar‑isakka lanbiya, ar‑isutur, «ssutrġ‑awn, uɣalat‑d s‑tgmmi.»",
+  "Iddu didsn ula s‑tamazirt n‑lḥabs ttillas, iwaɛd asmsasa.",
+  "Ula i‑tmazirt lli‑ih̬ṣṣan kraygatt twala, ur‑irur lwaɛd‑ns.",
+  "Ula ġ‑400 n‑usggʷas n‑uẓuẓm, ur‑ittwaẓra, ar‑isujjad aɣaras n‑unjjam.",
+  "Lliġ sul nga imddan ʷh̬šnnin, isaka‑d yus‑ns baš a‑ifk tudrt‑ns.",
+  "Tayri lli‑numẓ, ġilad ar‑tt‑isakka ar‑kullu ddunit.",
+  "Ġ‑umggaru ra‑isfiḍ kullu imṭṭi, ismsasa kullu ma‑illan s‑tayri."
+ ],
+ "mis": [
+  {
+   "w": "«Mayd‑f‑ih̬llaq Rbbi mddn lli‑iẓḍarn a‑skarn ddnub? Ižd ur‑ifulki kud ur‑aɣ‑ih̬llaq ɣas?»",
+   "t": "Rbbi ih̬llaq ddunit d‑mddn urd zġ‑kra n‑lh̬ṣaṣ, walaynni zġ‑tayri tameqqrant. Ah̬llaq n‑bnadm zund <b>mddn lli‑ittmsawaln d‑Rbbi</b> iga s‑ih̬f‑ns tayri. Ula akšam n‑ddnub ur‑iga berra n‑uɣawas n‑unjjam n‑Rbbi (Afsus 1:4-5). Timsirt tamzwarut n‑Lkitab urd lḥukm a‑tga, walaynni tayri."
+  },
+  {
+   "w": "«Agluy d‑lmut ɣir f‑učči n‑yat‑taɣawsa — ižd Rbbi ur‑igguza bahra?»",
+   "t": "Agluy zġ‑ɛdn iga lḥukm d‑rrḥmt s‑umya. A‑iyšš bnadm zġ‑usɣar n‑tudrt iddr ar‑lebda ġ‑lḥala‑an irzan ittwabban zġ‑Rbbi, mayad ra‑t‑iṭṭaf ġ‑uṭṭan ar‑lebda. Tisirit n‑lmut trẓm aɣaras n‑tuɣalin, ġinn Rbbi iwaɛd amjjunja. Tayri tlla yad ġ‑grat lḥukm."
+  },
+  {
+   "w": "«Ittwah̬tar Ibrahim acku iṭṭaf liman ameqqran — ižd kullu imddan n‑Lkitab gan igʷḍaḍ n‑lah̬laq?»",
+   "t": "Ibrahim isker tikrkas, iškk; Yaɛqub iga amh̬addaɛ. Rbbi ur‑isawal «willi istahln» walaynni willi h̬ṣṣann, s‑lḥnant. Ssibt urd afulki‑nsn, walaynni tayri n‑lamana n‑Rbbi."
+  },
+  {
+   "w": "«Ižd ššrɛ (luṣayat) urd asqsi lli‑iqqan a‑t‑tnjḥt baš a‑tjjnjmt?»",
+   "t": "Rbbi ijjnjm‑tn <b>dat</b> a‑sn‑ifka ššrɛ. Ula mraw n‑luṣayat ar‑snti s‑tbraḥt n‑unjjam: Rbbi iga sidi‑nsn, walli‑tn‑id‑issufɣn zġ‑Miṣr. Ššrɛ urd «ḥḍu‑t baš a‑tjjnjmt», walaynni asujju n‑tayri f‑mamnk a‑rad‑ddr tamazirt lli‑ittwajjnjmn yad. Lḥnant ar‑tzwar; aḍuɛ iga tijawabt."
+  },
+  {
+   "w": "«Akšam n‑Kanɛan iga anɣa bla rrḥmt — Rbbi n‑Lɛahd Aqdim iga s‑tidt aɣššan.»",
+   "t": "Mayad iga taɣawsa iqsḥn ur‑trẓm ġ‑yat‑twala. Walaynni Lkitab ur‑t‑imala zund tuɣẓna bla lmɛna, walaynni zund lḥukm awddi n‑lqurun n‑uṣbar i‑lh̬ʷšant tameqqrant (ula attigi n‑warraw). Rbbi ar‑igguza ula ġ‑lḥukm, irḍu s‑lfrḥ s‑willi srs‑d‑uɣaln — ula iberraniyn zund Raḥab d‑Raɛut."
+  },
+  {
+   "w": "«Dawud iga agʷḍiḍ bla lɛib — mayad a‑f‑as‑ttinin ‹argaz s‑wul n‑Rbbi›.»",
+   "t": "Dawud isker azzna ula tinɣa. «Argaz s‑wul n‑Rbbi» urd lmɛna‑ns bla lɛib, walaynni walli ur‑iffrn ddnub‑ns — walli itubun zġ‑laɛmaq, ar‑bdda‑d‑ittuɣal s‑Rbbi. Tayri n‑Rbbi ur‑tẓẓug ula willi iṭṭan bahra."
+  },
+  {
+   "w": "«Lanbiya gan imsktayn n‑uzkka / Rbbi n‑Lɛahd Aqdim kullu iga taʷwurriwt.»",
+   "t": "Wul n‑unbi urd «amskti n‑uzkka» walaynni asutur irh̬an n‑Rbbi: «ssutrġ‑awn, uɣalat‑d.» Ula tibraḥin n‑lḥukm ur‑gant i‑uhlak walaynni baš a‑d‑uɣaln mddn ttwajjnjmn — Rbbi ur‑ira a‑ihlak yan, walaynni ira kullu mddn a‑tubun."
+  },
+  {
+   "w": "«Aḥbas imala is‑Rbbi yujji Israyil s‑umata.»",
+   "t": "Aḥbas urd taʷjjit a‑tga, walaynni aɛqab d‑uṣaffu n‑warraw iɛzzan (ɛibraniyn 12:6). Rbbi ur‑iruḥ; illa d‑Daniyal ġ‑wul n‑lḥabs, iwaɛd is‑issn iɣawasn‑ns, iɣawasn n‑sslamt urd n‑lh̬ʷšant, baš a‑sn‑ifk uzkka d‑usitm."
+  },
+  null,
+  {
+   "w": "«S‑400 n‑usggʷas bla awal, Rbbi iruḥ nġd ar‑isunfu.»",
+   "t": "Aẓuẓm urd taʷjjit a‑iga. Ur‑isawal ɣir, walaynni ġ‑kullu uzmz‑an ar‑ismussu tigldatin, tutlayin, d‑iɣarasn baš a‑isujjad amkan n‑unjjam. Ġ‑tasaɛt iẓuẓẓmn, Rbbi ar‑iskar tigawt iqsḥn s‑tayri (Ġalaṭiya 4:4)."
+  },
+  {
+   "w": "«Yasuɛ iga ɣir yan‑umsslmd ifulkin n‑lah̬laq / aggjdi iga taʷwurit n‑uɣbal.»",
+   "t": "Yasuɛ iqra is‑iga Rbbi s‑ih̬f‑ns (Yuḥanna 8:58), aggjdi urd lh̬aṭr nġd taʷwurit a‑iga, walaynni tayri ittwasujjadn. Ur‑t‑awin s‑jjhd; ifka tudrt‑ns s‑ih̬f‑ns (Yuḥanna 10:18). «ur‑tlli lḥnant yugʷrn tin yan ifkan ih̬f‑ns immt f‑ssibt n‑imddukkʷal‑ns» (Yuḥanna 15:13)."
+  },
+  {
+   "w": "«Tamzgida tga tirubba n‑mddn ikmmln, nġd ɣir tigmmi.»",
+   "t": "Tamzgida urd tirubba n‑«imzdagn ikmmln» walaynni n‑<b>imddan ittwasmḥn</b>. Ula amazan Bulus iqra is‑iga «amzwaru n‑imddan ʷh̬šnnin» (1 Timutaus 1:15). Tamzgida tamzwarut ula nttat tmnaɣ tʷṭṭa (Lḥrakat n‑imazann 6:1; 1 Korintus 1:11). Urd umkan n‑uɣwlay a‑tga, walaynni mddn ar‑zaydn tayri lli‑numẓ."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Ddnub aqdim — ur‑illi yan ifulkin",
+   "body": "Lmuškil urd «kra n‑tigawin ʷh̬šnnin» walaynni aẓur n‑wul. Zġ‑Adam, kraygatt yan ar‑ittlal ġ‑ddu n‑ddnub, ur‑iẓḍar a‑iddu s‑Rbbi s‑ih̬f‑ns.",
+   "vref": "Rumi 3:10-12، 23",
+   "vtext": "«ur‑illi yan ifulkin, ur‑illi yan ifhmn, ur‑illi yan isiggiln rbbi. ffuġn aġaras kullutn, jlan. ur‑illi yan iskarn afulki, ur‑akkʷ‑illi yan. … kullu mddn skrn ddnub, aggugn f‑lmjd n‑rbbi.»"
+  },
+  {
+   "title": "Ššrɛ ur‑aɣ‑iẓḍar a‑ijjnjm",
+   "body": "Ššrɛ urd asurif a‑iga walaynni lmri. Ar‑tjhhd ugar, ar‑imala ugar mnšk a‑h̬ṣṣant. Lġaraḍ‑ns iga a‑aɣ‑yawi s‑lmasiḥ.",
+   "vref": "Rumi 3:20 · Ġalaṭiya 3:24",
+   "vtext": "ššrɛ ad‑aġ‑imalan ma‑igan ddnub … ikka‑ttin iga ššrɛ angabal fllannġ, ar‑aġ‑itrbba aylliġ‑d‑yuška lmasiḥ."
+  },
+  {
+   "title": "S‑lḥnant — tawafka, urd jjhd",
+   "body": "Anjjam urd attmn n‑kra tstahlt, walaynni tawafka ifka i‑willi ur‑t‑istahln. Mayad a‑f‑ur‑iẓḍar yan a‑yalġ ih̬f‑ns.",
+   "vref": "Afsus 2:8-9",
+   "vtext": "hati f‑lḥnant‑ns a‑f‑tnjmm lliġ srs tumnm. … urd f‑ssibt n‑kra tskarm kunni, … baš a‑ur‑yalġ yan ih̬f‑ns."
+  },
+  {
+   "title": "Ittwaḥsab afulki s‑liman",
+   "body": "Urd s‑uḥḍu n‑ššrɛ, walaynni s‑liman s‑yasuɛ lmasiḥ, a‑ittwaḥsabt afulki — urd s‑ufulki‑nnk, walaynni ttwaslst s‑win lmasiḥ.",
+   "vref": "Rumi 5:1 · Ġalaṭiya 2:16",
+   "vtext": "imma ġilad tlla‑yaġ sslamt ġ‑gratnnġ d‑rbbi f‑uwdm n‑siditnnġ yasuɛ lmasiḥ … ra‑irḍu rbbi f‑winna umnnin s‑yasuɛ lmasiḥ, urd f‑willi skarnin s‑ma‑ityaran ġ‑ššrɛ n‑musa."
+  },
+  {
+   "title": "Lkitab itmala s‑yasuɛ",
+   "body": "Lkitab urd lktab n‑imddan imeqqranin nġd n‑umɛawn n‑ih̬f. Zġ‑Lh̬lq ar‑Tibrra, kraygatt tasna ar‑takka tugga f‑yan‑umdan — yasuɛ lmasiḥ.",
+   "vref": "Yuḥanna 5:39 · Luqa 24:27",
+   "vtext": "kunni ar‑tsiggilm ġ‑warratn n‑rbbi … ntni a‑flla‑yakkan tugga … isawl‑asn ilmma f‑iwaliwn n‑musa ula win lanbiya kullutn, iml‑asn ma‑fllas‑ityaran."
+  },
+  {
+   "title": "Tagldit n‑Rbbi — tabraḥt tameqqrant n‑yasuɛ",
+   "body": "Tabraḥt lli‑isslmd yasuɛ ugar. Lḥukm n‑Rbbi zund agllid ikšm‑d s‑ddunit‑ad d‑yasuɛ, ra‑ikmml lliġ‑d‑idaɣ. S‑uggjdi d‑unkar‑ns, yasuɛ iga agllid n‑tidt lli‑inran ddnub, lmut, d‑ibliss.",
+   "vref": "Markus 1:15",
+   "vtext": "«ikmml zzman, takmur‑d‑tgldit n‑rbbi. flat kullu ma‑tskarm yʷh̬šn, tġwim ġ‑lh̬bar‑ad ifulkin.»"
+  },
+  {
+   "title": "Lh̬bar ifulkin — ikmml kullu",
+   "body": "Attmn n‑ddnub lli‑ur‑sar‑zḍarġ ad‑ih̬llṣaġ, yasuɛ a‑t‑ih̬llṣan ġ‑umkan‑inu f‑uggjdi, s‑unkar inra lmut. Ur‑ttiqaġ s‑«skar mayad» walaynni s‑«yuwfa».",
+   "vref": "Yuḥanna 19:30 · Rumi 5:8",
+   "vtext": "«yuwfa.» … walaynni rbbi imla‑yaġ mnšk a‑s‑ginnġ‑iḥnna, ašku immut fllannġ lmasiḥ lliġ sul a‑ntsala ddnub."
+  }
+ ],
+ "books": {
+  "Matta": "MAT",
+  "Markus": "MRK",
+  "Luqa": "LUK",
+  "Yuḥanna": "JHN",
+  "Lḥrakat n‑imazann": "ACT",
+  "Rumi": "ROM",
+  "1 Korintus": "1CO",
+  "2 Korintus": "2CO",
+  "Ġalaṭiya": "GAL",
+  "Afsus": "EPH",
+  "Filibbi": "PHP",
+  "Kulusi": "COL",
+  "1 Timutaus": "1TI",
+  "2 Timutaus": "2TI",
+  "ɛibraniyn": "HEB",
+  "1 Buṭrus": "1PE",
+  "2 Buṭrus": "2PE",
+  "Tibrra": "REV"
+ },
+ "yv": 3161,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

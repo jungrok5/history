@@ -1,0 +1,385 @@
+{
+ "menuName": "Basa Bali",
+ "htmlLang": "ban",
+ "dir": "ltr",
+ "brand": "Cakepan Suci sajeroning Asiki Gulungan",
+ "docTitle": "Cakepan Suci sajeroning Asiki Gulungan · Saking Pangwangun rauh ka Pasamuan",
+ "share": {
+  "title": "Cakepan Suci sajeroning Asiki Gulungan",
+  "text": "Sajeroning asiki gulungan, panggihinja satua ageng Cakepan Sucine — miwah napi awinanipun Ida Hyang Yesus rauh."
+ },
+ "ui": {
+  "people": "Paratokoh",
+  "events": "Paindikan utama",
+  "christLabel": "Nyihnayang Ida Hyang Yesus",
+  "loveLabel": "Sih sane tan rered",
+  "mythWrong": "Salah panampen sane lumrah",
+  "mythRight": "Sane sujati",
+  "more": "Wacen malih",
+  "version": "(BAN)"
+ },
+ "labels": {
+  "start": "Pangawit",
+  "thread": "Lakon",
+  "gospel": "Orti Rahayu",
+  "about": "Ngeniang"
+ },
+ "s": {
+  "ui.share": "↗ Dumang",
+  "ui.toast": "Link sampun kasalin 📋",
+  "ui.footer": "Cakepan Suci sajeroning Asiki Gulungan · Kutipan Cakepan Suci saking (BAN)",
+  "hero.kicker": "Saking pangwangun rauh ka pasamuan",
+  "hero.title": "Cakepan Suci,<br><span class='em'>sajeroning asiki gulungan</span>",
+  "hero.sub": "Sajeroning asiki gulungan, panggihinja satua ageng Cakepan Sucine — miwah napi awinanipun Ida Hyang Yesus rauh.",
+  "hero.cue": "Gulungang ka beten<span>↓</span>",
+  "thread.eyebrow": "Asiki lengkara sane nyambungang sami",
+  "thread.h2": "Ring pamuput, Cakepan Sucine wantah asiki satua",
+  "thread.flow": "<b>Janji</b><span class='arw'>→</span><b>Ngantos</b><span class='arw'>→</span><b>Kalaksanayang</b>",
+  "thread.note": "Ida Sang Hyang Widi Wasa <b>majanji</b> (prajanjian), kaulane <b>ngantos</b> sue pisan, tur ring pamuput sami <b>kalaksanayang</b> tur kagenepang ring Ida Hyang Yesus. Tutugja paindikan 13 ring sor manut lakon punika — pencetja <b>“Wacen malih”</b> ring soang-soang kartu buat satua sane luwiran.",
+  "gospel.eyebrow": "Napi tegesnyane satua puniki pabuat “tiang”",
+  "gospel.h2": "Pikahyun sujati Cakepan Sucine",
+  "gospel.lead": "Cakepan Sucine <b>boyaja buku pelajahan indik “dadi anak ane melah.”</b>",
+  "gospel.sublead": "Puniki satua indik sapunapi Ida Sang Hyang Widi Wasa, <b>wantah malantaran sih pasuecan Idane</b>, ngrahayuang anak dosa sane tan mrasidayang ngrahayuang dewekipune niri. Ring pusernyane majujuk Ida Hyang Yesus Kristus.",
+  "gospel.mirror": "<h3>Putaran bangsa Israele sane tan paputus punika sujatinipun gambaran “tiang”</h3><div class='cycle'><b>Nyungsung dewa palsu</b><span class='a'>→</span><b>Sangsara</b><span class='a'>→</span><b>Ngeling jerit</b><span class='a'>→</span><b>Ida Widi ngrahayuang</b><span class='a'>→</span><b>Nyungsung dewa palsu malih…</b></div><p>Saking masan paraprabu rauh ka masan kasangsara, bangsa Israele ngambil putaran puniki tan paputus. Cakepan Sucine boya nyuratang puniki mangda iraga prasida nyacad, “Pekak pisan ipun.”</p><p>Puniki <b>meka</b>. Pikahyunnyane boyaja “bangsa Israele sane malaksana asapunika,” nanging <b>“tiang taler malaksana asapunika”</b> (1 Korinti 10:11).</p><p>Sane kasambat <b>dewa palsu</b> boyaja arca kayu kewanten. Puniki <b>sakancan sane tresnain wiadin andelang iraga langkungan ring Ida Sang Hyang Widi Wasa</b> — jinah, kasidan, panampi, anak, yadiastun dewek tiange niri. Tur ngangge Ida Sang Hyang Widi Wasa dados <b>piranti buat ngamolihang dotan tiange</b> taler nyungsung dewa palsu.</p><p class='punch'>Ring pamuput, dewa palsu sane pinih dalem inggih punika “dewek tiange niri sane negak ring singasanan Ida Sang Hyang Widi Wasa.”</p>",
+  "gospel.coreIntro": "Sapunapi Ida Sang Hyang Widi Wasa ngrahayuang anak dosa sakadi punika? Puniki pikahyun Orti Rahayu sane kawarahang antuk Cakepan Sucine.",
+  "gospel.crux": "<p class='crux-lead'>Cakepan Sucine makasami nyihnayang asiki genah.</p><p>Imanusa tan mrasidayang megatang putaran dosane saking padewekanipune niri, tur tan wenten anak sane patut. Punika awinanipun wenten anak sane patut <b>maicang pangargan ring genah ipune</b>.</p><p>Ida Hyang Yesus boyaja rauh wantah buat maicang piwulang sane becik. Santukan tan wenten margi lianan buat ngrahayuang tiang, <b>Ida tan mrasidayang tan rauh.</b></p><p class='crux-punch'>Sane patutne kapentang ring salibe punika inggih punika <b>tiang</b>.<br>Ida Hyang Yesus negen <b>dosan tiange</b> tur kapaku irika ngentosin tiang.</p><div class='crux-verse'>“Nanging uli krana dosa-dosan iragane ipun sampun katatunin, tur ipun katigtig uli krana kajaatan sane kardi iraga… tur malantaran ipun katigtig iraga seger oger.” — Yesaya 53:5</div>",
+  "faq.h": "Wenten kantun sane karasayang abot?",
+  "faq.q1": "<span class='arr'>▸</span> Dadosne anak ngamademang manusa cukup pracaya raris ka suarga, nanging anak sane uripnyane becik nanging tan pracaya raris ka naraka?",
+  "faq.a1": "<p>Puniki patakon sane wajar. Nanging wenten kalih salah panampen sane masingid ring tengahnyane.</p><p><b>① Cakepan Sucine tan mantegang anake dados “becik miwah jaat.”</b> Ukurannyane boyaja “becikan ring anak ane lenan,” nanging “kasucian Ida Sang Hyang Widi Wasa sane sampurna.” Ring ayun Idane, tan wenten anak sane “cukup becik” (Roma 3:23). Dadosne puniki boyaja “anak becik nglawan anak ngamademang,” nanging luwiran kalih anak sane keni pinakit sane pateh dahat — sane adiri nampi tamba, sane lianan nulak sambilang mabaos, “Tiang segeran ring anake punika.”</p><p><b>② Wantah asiki paindikan sane mantegang suarga lan naraka.</b> Boyaja nilai laksana, nanging <b>punapike semeton sampun nampi Ida Hyang Yesus Kristus dados Panembahan tur pikobet dosan semetone sampun puput</b>. Anak sane dosannyane puput malantaran rah Ida Sang Kristus raris ka suarga; anak sane tan naenin nampi Ida, sane dosannyane kantun, tan rauh. Tan wenten laksana becik sane mrasidayang muputang pikobet dosa punika niri.</p><p>Dadosne suarga lan naraka boyaja “upah pabuat laksana becik,” nanging paindikan indik <b>pailetan ring Ida Sang Kristus</b>. Tur “pracaya” boyaja persetujuan ring pikayun kewanten, nanging gentos indik sapasira sane ngreh urip semetone — sapasira sane sujati nampi Ida tan dados sombong nanging mlajah ngesehin manah sane pinih dalem. Sujatinipun, panyumbung dewek (“tiang anak ane melah”) inggih punika dewa palsu sane pinih meweh kapegatang, sane ngawinang iraga mapikayun tan merluang Ida Sang Kristus (Lukas 18:9-14).</p><p>Cakepan Sucine maosang sane terang: <b>“Asing-asing anak sane pracaya ring Ida Sang Putra tan jagi kasisipang, nanging asing-asing anak sane tan pracaya sampun kasisipang”</b> (Yohanes 3:18). Pangadilan boyaja “ngitung laksanan semetone sasampun semeton padem,” nanging sampun kapastiang manut <b>punapike semeton nampi Ida Sang Kristus</b>.</p><p class='faq-v'>Roma 3:23 · Yohanes 3:18 · Epesus 2:8-9 · Lukas 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Punapi tan cukup wantah dados anak ane becik, yadiastun tan pracaya ring Ida Hyang Yesus?",
+  "faq.a2": "<p>Puniki sane pinih kerep kapikayun, nanging salah panampen indik napi pikobet sane sujati. Puniki gambaranipun.</p><p><b>Pradeyang semeton wenten ring kapal bajak laute.</b> Yadiastun semeton ngedasin gladak, becik ring krunya, tur urip sane patut conto, semeton kantun <b>bajak laut</b>, santukan semeton kabakta sareng kapale ka genah sane katuju (palabuhan pangadilan). Pikobetnyane boyaja “nilai laksana” nanging <b>“kapal sane encen genah semetone” (jati dirin semetone)</b>.</p><p>Dadosne Orti Rahayu boyaja maosang “mautsahaja becikan,” nanging maosang <b>“gentosja kapal.”</b> Tuunja saking kapal dosane raris nyabrang ka Ida Hyang Yesus — ka jati diri sane anyar dados <b>putran Ida Sang Hyang Widi Wasa</b>. Puniki boyaja ngundang nilai semetone antuk utsaha, nanging andelang Ida sane ngedengang tangan Idane raris nyabrang ka kapal Idane.</p><p>Sujatinipun Cakepan Sucine nyuratang karahayuan sakadi pamindahan punika — <b>“Ida sampun mebasang iraga saking kakuasan petenge tur saha rahayu nuntun iraga ngaula ring Putran Idane sane sayang”</b> (Kolose 1:13).</p><p>Sampunangja iwang panampen: <b>puniki boyaja maartos urip sane becik tan paguna.</b> Kabecikan boyaja “syarat” karahayuan nanging <b>woh</b>-nyane. Anak sane sampun ngentosin kapal mangkin urip becik boyaja malantaran ajerih, nanging malantaran sih putra.</p><p class='faq-v'>Kolose 1:13 · Yohanes 1:12 · Yohanes 3:3 · Epesus 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Yening anak sane ngardi pelih marasa tegteg, sambilang maosang “Ida Sang Hyang Widi Wasa sampun ngampurayang tiang,” sedek anak sane kena pelih kantun nandang sangsara — punapi pangampura punika boyaja murah lintang?",
+  "faq.a3": "<p>Patakon punika wajar, tur sakitnyane sujati. Nanging baos sakadi punika boyaja “pangampura Cakepan Sucine” — punika <b>pamiyutan</b>-nyane.</p><p><b>① Pangampuran Ida Sang Hyang Widi Wasa nenten naenin murah.</b> Dosa boyaja kasingidang sakadi tan naenin wenten; Ida Sang Hyang Widi Wasa ngraga sampun maicang pangarganipun antuk nyawan Putran Idane. Salibe boyaja bukti dosa kaanggep entengan, nanging dosa punika abot dahat — pangampura sane pinih maal ring jagate.</p><p><b>② Pangesehan manah sane sujati ngwetuang woh.</b> Yening anak sane ngardi pelih tegteg ring arepan anak sane kena pelih — “Ida Sang Hyang Widi Wasa sampun ngampurayang tiang, dadosne tiang tegteg” — punika boyaja pangesehan manah nanging tetironnyane (Matius 3:8). Tur pangampura ring pantaran anak miwah Ida Sang Hyang Widi Wasa tan ngicalang tatun anak sane kena pelih, tur tan maksa ipun ngampurayang.</p><p><b>③ Dosa nenten naenin “kabanggayang kewanten.”</b> Sakancan dosa kabayah ring asiki saking kalih genah — <b>wiadin Ida Sang Kristus negen ring salibe</b> (pabuat sane pracaya ring Ida tan wenten malih pangadilan, Roma 8:1), <b>wiadin anak sane nulak Ida rauh ka pamuput negen niri.</b> Dadosne tan wenten “pangampura murah.” Anak sane ngardi pelih taler kantun nyangga tanggung jawab manut hukum ring jagate puniki (Roma 13:1-4).</p><p><b>④ Yeh paningalan anak sane kena pelih tan naenin alit ring ayun Ida Sang Hyang Widi Wasa.</b> Ida Sang Hyang Widi Wasa ngeling sareng anak sane ngeling, eling ring soang-soang yeh paningalan, tur ring pamuput Ida ngraga jagi ngusap yeh paningalan punika (Sikemas 21:4). Dadosne anak sane kena pelih taler tan negen abot pangwales niri, nanging prasida nyerahang ring Ida Sang Hyang Widi Wasa sane adil (Roma 12:19 — “Ulun ane wenang ngwales. Ulun ane lakar ngwales, sapunika sabdan Ida Sang Panembahan”).</p><p class='faq-v'>Matius 3:8 · Roma 8:1 · Roma 13:1-4 · Sikemas 21:4</p>",
+  "faq.q4": "<span class='arr'>▸</span> Punapi Cakepan Sucine punika satua sane sujati? Marasa sakadi satua kuna wiadin novel.",
+  "faq.a4": "<p>Patakon punika wajar — tur genah sane becik kawitin. Bingung boyaja lawan kapracayan nanging meled mariksa indik antuk jujur. Cakepan Sucine boyaja satua sane tan terang sane “kapracaya yening manah seneng,” nanging cakepan sane kasurat ring duur <b>genah, tanggal, miwah anak sane sujati</b>. Puniki makudang conto.</p><p><b>① Boyaja asiki cakepan nanging “perpustakaan” — nanging mamargi ring asiki tetujon.</b> Cakepan Sucine punika pupulan <b>66 cakepan</b> sane kasurat sajeroning sawatara <b>1,500 warsa antuk sawatara 40 diri panyurat</b> — pararatu, pangangon, bendega, juru duduk pajeg, balian, anak sane mabinayan kawentenan miwah masa, nyurat soang-soang tan saling uning, ring tigang basa (Ibrani, Aram, Yunani). Nanging sami matemu, tan kisruh, ring <b>asiki tetujon: karahayuan malantaran Ida Sang Kristus</b>. Punika kapatutan sane méweh terangang antuk untung-untungan wiadin pangrencana manusa.</p><p><b>② Tansah kabukti saking pretiwine (arkeologi).</b> Akeh paindikan sane sampun kanistayang sakadi karya rekaan, “wenten ring Cakepan Suci kewanten,” nanging ring pungkur kabukti antuk panggalian. <b>Wangsa Daud</b> antuk batu sane masurat “umah Daud” (Prasasti Tel Dan); <b>Pontius Pilatus</b>, gubernur sane ngamademang Ida Hyang Yesus, antuk surat sane mawasta dane; terowongan toya Sang Prabu Hizkia (2 Pararaton 20:20) antuk terowongan punika ngraga miwah suratnyane. Taler <b>wong Het</b>, sane sampun kawastanin “bangsa khayalan,” medal dados karajaan ageng ring uug-uugan.</p><p><b>③ Punika dokumen kuna sane pinih becik kasimpen (manuskrip).</b> Sajeroning akehnyane manuskrip sane kantun wenten, kapatutannyane ring sikian-sikian, miwah selat masa antara panyuratan miwah panyalinan, Cakepan Sucine <b>tan wenten tandingnyane ring pantaran dokumen kuna</b>. Gulungan Yesaya sane pra-Kristus ring pantaran <b>Gulungan Segara Pati</b> (kapanggih warsa 1947) cocok ring teks standar sawatara 1,000 warsa ring pungkur meh aksara ring aksara — bukti mungguing Cakepan Sucine kasimpen antuk patut nglintangin masa.</p><p><b>④ Paindikan sane kasurat dumun mamargi pinaka sapunika (panujuman).</b> Prajanjian Lawas, sane kasurat abad-abad sadurung Ida Hyang Yesus, nyihnayang antuk terang kalairan Idane ring Betlehem (Mikha), parekan sane nandang sangsara (Yesaya 53:5), miwah indik salibe (Kidung 22). Banget cocok yening kabaos untung-untungan.</p><p><b>⑤ Para sejarawan ring jaba Cakepan Suci taler nyuratang.</b> Sejarawan Roma <b>Tacitus</b> miwah sejarawan Yahudi <b>Yosefus</b> — tan wenten sane Kristen — nyambat Ida Hyang Yesus, kasédayan Idane, miwah pasamuan sane pangawit. Langkungan ring punika, parasisia sane sampun pasambrag santukan ajerih <b>maperang nyawan</b> nyaksiang indik nangun urip Idane — tan wenten anak sane padem pabuat paindikan sane kauningin linyok.</p><p>Nanging antuk jujur, dasar-dasar puniki nyihnayang mungguing pracaya ring Cakepan Suci <b>boyaja tan masuk akal nanging masuk akal</b>; punika boyaja “bukti” sane maksa sakadi rumus matematika. Dadosne kapastian anak Kristen boyaja medal saking bukti kewanten, nanging saking <b>kapastian sane kapaicayang Roh Suci ring manah sedek anak ngwacen Sabda</b>. Cakepan Sucine maosang — <b>“Kenginan indik pracaya punika metu malantaran miragiang Orti Rahayu, tur Orti Rahayune punika metu malantaran pidarta indik Ida Sang Kristus.”</b> (Roma 10:17). Dadosne yadiastun marasa sakadi satua rekaan, <b>ngwacen ngraga</b> punika pangawitnyane. Bukti mukak jelanan, tur kapastian tumbuh ring manah anak sane ngwacen.</p><p class='faq-v'>2 Pararaton 20:20 · Yesaya 53:5 · Roma 10:17</p>",
+  "respond.h3": "Dadosne — sapunapi indik tiang?",
+  "respond.sub": "Sih puniki boyaja gatra nanging <b>undangan</b>. Yening sih sane kapaku ngentosin semeton sampun ngusud manah semetone, ngastawaja sane mangkin, alon-alon, lengkara saking lengkara.",
+  "respond.prayer": "<p>Duh Ratu Sang Hyang Widi Wasa,</p><p>titiang ngangken mungguing titiang anak dosa sane tan mrasidayang ngrahayuang dewek titiange niri.</p><p>Titiang pracaya mungguing Ida Hyang Yesus sampun seda ring salibe pabuat titiang tur sampun nangun urip malih.</p><p>Ampurayangja sakancan dosan titiange, tur saking mangkin dadosja Panembahan urip titiange.</p><p>Tampija titiang dados putran Palungguh IRatu, tur icenja titiang nglakonin urip sane anyar.</p><p class='amen'>Sajeroning parab Ida Hyang Yesus titiang ngastawa. Amin.</p>",
+  "respond.after": "Yening semeton ngastawa puniki saking ati, Cakepan Sucine maosang mungguing semeton sampun <b>dados putran Ida Sang Hyang Widi Wasa</b>. Semeton tan kantun newek — rerehja pasamuan sane nampek tur mamargija sareng-sareng ring margin kapracayan.",
+  "respond.read": "Wacenja Cakepan Sucine ngraga — kawitin saking Yohanes",
+  "respond.verse": "“Nanging akudaja sane nampi tur pracaya ring Ida, ipun sami kicen waranugraha dados paraputran Ida Sang Hyang Widi Wasa.” — Yohanes 1:12 · Roma 10:9-10",
+  "closing.main": "Asiki Ida Sang Hyang Widi Wasa,<br>malantaran asiki satua,<br>ngrereh iraga antuk <em>sih</em><br>sane tan naenin rered.",
+  "closing.verse": "“Tan wenten paindikan sane nyidayang malasang iraga saking sih pasuecan Idane; yadian padem wiadin urip… tan wenten sane jagi mrasidayang malasang iraga saking sih pasuecan Ida Sang Hyang Widi Wasa, sane… malantaran Ida Sang Kristus Yesus, Panembahan iragane.” — Roma 8:38-39",
+  "closing.small": "Ring lakon puniki, Pidabdab Torat, kakawian, paranabi, miwah surat-surate nambahin “daging.”<br>Saking mangkin, cakepan napija sane bukak semeton, semeton jagi uning “ring genah encen semeton ring satuane.”",
+  "closing.share": "↗ Dumang satua puniki",
+  "about.line": "Madasar antuk pandangan <b>sejarah panebusan, evangelis miwah Reformis</b> sane kaagem antuk akehan pasamuan Protestan Korea.",
+  "about.contact": "Patakon · panampen — <a id='contact' class='mail'>Kirim email ring tiang</a>"
+ },
+ "epochs": [
+  {
+   "tag": "PRAJANJIAN LAWAS · PANGAWIT",
+   "title": "Pangwangun",
+   "date": "Duking purwakala",
+   "one": "Ida Sang Hyang Widi Wasa ngwentenang jagat sane “becik pisan.”",
+   "people": "Ida Sang Hyang Widi Wasa; Dane Adam miwah Hawa",
+   "events": "Pangwangun sajeroning nem rahina, manusa kakardi manut sosohan Ida Sang Hyang Widi Wasa, rahina Sabat buat masandekan",
+   "q": "Duking purwakala Ida Sang Hyang Widi Wasa ngwentenang akasa miwah pretiwi.",
+   "cite": "Kawitan 1:1",
+   "christ": "Jagate kakardi malantaran “Sang Sabda.” Orti Rahayu Yohanes maosang mungguing Sang Sabda punika inggih Ida Hyang Yesus ngraga (Yohanes 1:1-3).",
+   "detail": "<p>Cakepan Sucine tan kawitin antuk dabdaban filsafat nanging antuk pidarta: <b>“Duking purwakala Ida Sang Hyang Widi Wasa…”</b> Jagate boyaja sangkala nanging pakaryan Ida Sang Hyang Widi Wasa sane maraga pribadi.</p><ul><li><b>Sosohan Ida Sang Hyang Widi Wasa</b> · saking sakancan titah, wantah manusa sane kakardi manut sosohan Ida Sang Hyang Widi Wasa — buat uning ring Ida miwah miara jagate.</li><li><b>Masandekan</b> · pasandekan rahina sane kaping pitu nyihnayang sami sampun jangkep tur sutrepti (shalom): “Ida ngaksi paindikane punika becik.”</li><li><b>Eden</b> · jagate sadurung benyah, genah Ida Sang Hyang Widi Wasa miwah manusane mamargi sareng-sareng.</li></ul>",
+   "next": "Nanging kajangkepan puniki digelis jagi benyah…"
+  },
+  {
+   "tag": "PRAJANJIAN LAWAS · PIKOBET NGAWIT",
+   "title": "Kapaceka",
+   "date": "Duking purwakala",
+   "one": "Dosa ngranjing, tur pailetan ring pantaran manusa miwah Ida Sang Hyang Widi Wasa pegat.",
+   "people": "Dane Adam miwah Hawa; lelipi (Setan)",
+   "events": "Ngajeng woh sane karang, kakaonang saking Eden, rauhnyane pati miwah katuyuhan",
+   "q": "Ulun lakar ngadakang pasatron di pantaran iba kalawan anake luh ene… Katurunan anake luh ene lakar ngencak tenggek ibane.",
+   "cite": "Kawitan 3:15",
+   "christ": "Janji Orti Rahayu sane pinih ngawit, kapaicayang tan asue sasampun kapaceka: “katurunan anake luh” jagi ngencak tenggek lelipine — tur punika Ida Hyang Yesus (Kawitan 3:15; Roma 16:20; Galatia 4:4).",
+   "detail": "<p>Malantaran pamada indik dot “dadi patuh teken Ida Sang Hyang Widi Wasa,” dosa ngranjing ka jagate. Pikolihnyane boyaja wantah pidabdab sane benyah nanging <b>pailetan sane benyah</b>.</p><ul><li><b>Pailetan sane pegat</b> · ring Ida Sang Hyang Widi Wasa (mengkeb), ring sasamen (saling pelihang), tur ring pakardi (ketket miwah katuyuhan).</li><li><b>Pati</b> · pakeling “kita lakar mati sajaan” dados kasujatian.</li><li><b>Kawitan 3:15</b> · nanging ring tengah pangadilan, janji panebusan rauh dumun. Paraahli ngwastanin puniki <b>protoevangelium (Orti Rahayu sane pinih ngawit)</b>.</li></ul>",
+   "next": "Sane mangkin Ida Sang Hyang Widi Wasa ngesengin anak adiri buat ngawitin panebusan…"
+  },
+  {
+   "tag": "PRAJANJIAN LAWAS · JANJI",
+   "title": "Paraleluhur",
+   "date": "Sawatara 2000 SM",
+   "one": "Ida Sang Hyang Widi Wasa majanji ring Dane Abram, “Kita lakar dadi merta pabuat anake liu.”",
+   "people": "Dane Abraham · Ishak · Yakub · Yusup",
+   "events": "Prajanjian Abram, pangaturan Ishak, paraokan Yakub sane roras, Yusup munggah dados pamrentah ring Mesir",
+   "q": "Ulun lakar nadiang kita bangsa ane gede… Uli krana kita, Ulun lakar ngamertanin sakancan bangsa-bangsane ane di gumine.",
+   "cite": "Kawitan 12:2-3",
+   "christ": "Janji mungguing “sakancan bangsane jagi kamertanin” kalaksanayang ring Ida Hyang Yesus, katurunan Dane Abraham (Galatia 3:16).",
+   "detail": "<p>Ida Sang Hyang Widi Wasa ngawitin muputang pikobet sakancan manusane malantaran ngesengin anak adiri, <b>Dane Abraham</b>. Pikahyunnyane inggih punika <b>prajanjian (janji)</b> — bangsa sane ageng, tanah, miwah “merta pabuat sakancan bangsane.”</p><ul><li><b>Kapracayan</b> · Dane Abraham pracaya ring janji sane tan kakatonang, tur punika kawilang dados kapatutan ring dane (Kawitan 15:6).</li><li><b>Ishak miwah Yakub</b> · janjine kalanturang ka katurunan sane salanturipun; Yakub (Israel) dados aji parawangsane sane roras.</li><li><b>Yusup</b> · kadol antuk parasemetonipune nanging munggah dados pamrentah — “Ida Sang Hyang Widi Wasa suba ngrencanayang apanga dadi paundukan ane melah” (Kawitan 50:20).</li></ul>",
+   "next": "Nututin Yusup, kulawargane tedun ka Mesir — tur dados panjak…"
+  },
+  {
+   "tag": "PRAJANJIAN LAWAS · PANEBUSAN",
+   "title": "Pamargi saking Mesir & Tegal Melakang",
+   "date": "Sawatara 1446 SM",
+   "one": "Ida Sang Hyang Widi Wasa ngrahayuang bangsa sane dados panjak tur nadosang ipun kaulan Idane.",
+   "people": "Dane Musa, Harun, Sang Prabu Mesir",
+   "events": "Grubug sane adasa, Paskah, nyabrang Segara Abang, Pidabdab Torat sane adasa ring Sinai, kemah linggih, 40 warsa ring tegal melakang",
+   "q": "Ulun bakal netepang kita dadi kaulan Ulune, tur Ulun dadi Widin kitane.",
+   "cite": "Pamargi 6:7",
+   "christ": "Paskah — irika rah panak biri-birine ngaonang pati — nyihnayang Ida Hyang Yesus, “Panak Biri-biri Paskah iragane,” sane kapentang pabuat iraga (1 Korinti 5:7).",
+   "detail": "<p>Panebusan sane pinih ageng ring Prajanjian Lawas. Bangsa Israele sane dados panjak kabebasang antuk kawisesan Ida Sang Hyang Widi Wasa tur kakardi dados <b>kaulan</b> Idane.</p><ul><li><b>Paskah</b> · umah sane katengeran antuk rah panak biri-birine ring jelananne kaliwatin antuk pati — conto sakancan aturan sane salanturipun.</li><li><b>Segara Abang</b> · karahayuan ring genah margine telas; “nyabrang” dados lambang pangawit sane anyar.</li><li><b>Prajanjian Sinai</b> · malantaran Pidabdab Torate ipun mlajah urip dados kaulan Ida Sang Hyang Widi Wasa.</li><li><b>Kemah linggih</b> · genah suci sane prasida kabakta ring dija Ida Sang Hyang Widi Wasa malinggih ring pantaran kaulan Idane — pratiwimba “Imanuel.”</li><li><b>40 warsa</b> · pamada ngawinang adiri turunan ngumbara ring tegal melakang, nanging Ida Sang Hyang Widi Wasa tetep nampek antuk manna miwah saka megane miwah genine.</li></ul>",
+   "next": "Majujuk ring tepin tanah sane kajanjiang, ipun nyawiang buat ngranjing…"
+  },
+  {
+   "tag": "PRAJANJIAN LAWAS · PUMAHAN",
+   "title": "Pangrebut & Paraprabu",
+   "date": "Sawatara 1400–1050 SM",
+   "one": "Ipun molih tanahe, nanging tan paraja, asing-asing anak malaksana manut pakitannyane.",
+   "people": "Dane Yosua; paraprabu sakadi Gideon miwah Simson; Rut",
+   "events": "Runtuhnyane Yeriko, pumahan ring Kanaan, putaran sane mawali-wali indik dosa–pangadilan–karahayuan",
+   "q": "Duk masane punika nenten wenten prabu madeg ring pantaran bangsa Israele. Asing-asing anake pada malaksana manut pakitannyane suang-suang.",
+   "cite": "Hakim-Hakim 21:25",
+   "christ": "Saking katurunan Rut rauh Dane Daud, tur saking katurunan Dane Daud rauh Ida Hyang Yesus (Matius 1). Yadiastun ring biota, palelintihan Sang Mesias kantun nglantur.",
+   "detail": "<p>Ring sor Dane Yosua ipun ngranjing ka tanah sane kajanjiang, nanging sasampun mumah ipun digelis lali ring Ida Sang Hyang Widi Wasa. Cakepan Hakim-Hakim wantah pola sane pateh mawali-wali.</p><ul><li><b>Putaran sane tedun</b> · dosa → kateteh → ngeling jerit → prabu ngrahayuang → dosa malih. Sayan kaon.</li><li><b>Paraprabu</b> · Gideon, Simson, Debora — pangrahayu sane tan langgeng, wanen nanging akeh kakirangannyane.</li><li><b>Rut</b> · satua sane galang indik kasatiaan ring masa peteng; anak istri saking dura negara ngranjing ring palelintihan Dane Daud (miwah Ida Hyang Yesus).</li></ul>",
+   "next": "Rakyate ngeling jerit, “Icenja tiang prabu taler!”…"
+  },
+  {
+   "tag": "PRAJANJIAN LAWAS · MASA KAJAYAAN",
+   "title": "Kaprabon sane Manunggal",
+   "date": "Sawatara 1050–930 SM",
+   "one": "Ida Sang Hyang Widi Wasa majanji ring Dane Daud, “Kaprabon kitane lakar langgeng.”",
+   "people": "Dane Saul · Daud · Salomo",
+   "events": "Prabu sane pinih ngawit Dane Saul, Daud miwah Goliat, prajanjian Daud, Dane Salomo ngwangun Perhyangan",
+   "q": "Kita lakar tansah ngelah katurunan, tur Ulun lakar ngamanggehang kaprabon kitane salawas-lawasne. Kaprabon katurunan kitane tusing lakar taen camput.",
+   "cite": "2 Samuel 7:16",
+   "christ": "“Kaprabon sane langgeng” kalaksanayang ring Ida Hyang Yesus, katurunan Dane Daud — punika awinanipun Ida kasambat “Putran Daud” (Lukas 1:32-33; Matius 1:1).",
+   "detail": "<p>Masa kajayaan Israele, ring sor tigang prabu.</p><ul><li><b>Saul</b> · prabu sane pinih ngawit sane katunas antuk rakyate; pangawit sane becik kaon malantaran pamada.</li><li><b>Daud</b> · “anak ane manut teken kayun Ida Sang Hyang Widi Wasa.” Ida ngaonang Goliat tur nadosang Yerusalem dados kota raja. Ida ngardi dosa sane ageng (Batsyeba) nanging ngesehin manah saking ati (Kidung 51).</li><li><b>Prajanjian Daud (2 Samuel 7)</b> · Ida Sang Hyang Widi Wasa majanji ngamanggehang palelintihan Daud salami-laminnyane — akah sane mutlak buat pangajap-ajap Mesias.</li><li><b>Salomo</b> · ring puncak kawicaksanan miwah kasugihan ida ngwangun <b>Perhyangan</b> ring Yerusalem, nanging ring pamuput uripnyane mabalik ka dewa palsu.</li></ul>",
+   "next": "Sasampun Salomo, kaprabone kabelah dados kalih…"
+  },
+  {
+   "tag": "PRAJANJIAN LAWAS · KAMUNDURAN",
+   "title": "Kaprabon sane Kabelah",
+   "date": "930–586 SM",
+   "one": "Kabelah dados kelod (Yuda) miwah kaler (Israel), bangsane nyansan benyah.",
+   "people": "Paraprabu kalih kaprabone; paranabi sakadi Elia, Yesaya, Yeremia",
+   "events": "Kaprabone kabelah, nyungsung dewa palsu nglimbak, paranabine maweweh",
+   "q": "Ngawit saking duk punika rakyat Israel sane bagian kaler, brontak nglawan kulawargan Ida Sang Prabu Daud.",
+   "cite": "1 Pararaton 12:19",
+   "christ": "Ring masa puniki paranabine ngramalang Sang Mesias sane jaga rauh sayan terang (Yesaya 9:6; Yesaya 53).",
+   "detail": "<p>Ring masan putran Salomo kaprabone kabelah: <b>kaprabon kaler Israel</b> (10 wangsa, kota Samaria) miwah <b>kaprabon kelod Yuda</b> (2 wangsa, kota Yerusalem).</p><ul><li><b>Israel (kaler)</b> · sakancan prabunnyane ngancangin dewa palsu; runtuh kalawan Asur ring warsa 722 SM.</li><li><b>Yuda (kelod)</b> · palelintihan Daud kantun nglantur, wenten makudang prabu becik sakadi Hiskia miwah Yosia, nanging sacara umum nyansan mudur.</li><li><b>Paranabi</b> · Elia, Amos, Yesaya, Yeremia ngeling jerit “maliha!” Ramalan indik Mesias rauh ring puncaknyane irika (“parekan sane nandang sangsara” ring Yesaya 53).</li></ul>",
+   "next": "Ring pamuput pangadilan sane karamalang rauh — ipun kabakta katawan…"
+  },
+  {
+   "tag": "PRAJANJIAN LAWAS · PANGADILAN",
+   "title": "Katawan",
+   "date": "722 / 586 SM",
+   "one": "Kaprabone runtuh tur rakyate kabakta ka dura negara.",
+   "people": "Dane Daniel, Yehezkiel, Nebukadnesar",
+   "events": "Israel runtuh kalawan Asur (722), Yuda runtuh kalawan Babel tur Perhyangane kabasmi (586)",
+   "q": "Titiang negak ring sisin-sisin tukade ring Babel. Irika titiang ngeling rikalaning titiang eling ring Sion.",
+   "cite": "Kidung 137:1",
+   "christ": "Ring dalemnyane kasangsaran, Dane Yeremia majanji indik “prajanjian sane anyar” (Yeremia 31:31) — prajanjian sane kapastiang antuk Ida Hyang Yesus ring Perjamuan sane Pamungkas.",
+   "detail": "<p>Pakelingane dados kasujatian. Perhyangane puun tur rakyate kabakta ka Babel — kicalan tanah, prabu, miwah Perhyangan: titik sane pinih sor.</p><ul><li><b>Kalih karuntuhan</b> · Israel (Asur, 722 SM) miwah Yuda (Babel, 586 SM).</li><li><b>Daniel</b> · conto kapracayan yadiastun ring kraton sane tan kurenan Widi (bangbang singa); ida ngaksi sipta indik “kaprabon sane langgeng” sane jaga rauh.</li><li><b>Sluluh pangajap-ajap</b> · sipta indik tulang tuh sane malih nguripang (Yehezkiel 37) miwah “prajanjian sane anyar” saking Yeremia nyihnayang masa sane jaga rauh ring petenge.</li></ul>",
+   "next": "Pitung dasa warsa sasampunipun, Ida Sang Hyang Widi Wasa mbukak margi — ipun budal ka jero…"
+  },
+  {
+   "tag": "PRAJANJIAN LAWAS · PEMULIHAN",
+   "title": "Pamargi Budal",
+   "date": "538–430 SM",
+   "one": "Ipun budal tur ngwangun malih Perhyangan miwah temboke.",
+   "people": "Dane Ezra, Nehemia, Ester, Serubabel",
+   "events": "Budal malantaran prentah Sang Prabu Kores, ngwangun malih Perhyangan, menahin tembok Yerusalem, ngwaliang Sabdane",
+   "q": "Kaliangan paican Ida Sang Hyang Widi Wasa, pacang ngawinang semeton kuat.",
+   "cite": "Nehemia 8:10",
+   "christ": "Maleakhi, cakepan sane pamungkas ring Prajanjian Lawas, muputang antuk ngramalang utusan sane nyediaang margin Sang Mesias: “Ulun lakar ngutus utusan Ulune” (Maleakhi 3:1).",
+   "detail": "<p>Malantaran prentah Sang Prabu Kores saking Persia (538 SM) pamargi budale ngawit. Sajeroning tigang gelombang ipun budal tur ngwangun malih sane sampun benyah.</p><ul><li><b>Serubabel</b> · ngwangun malih Perhyangan (puput warsa 516 SM).</li><li><b>Ezra</b> · ngurukang malih Sabdane tur nguripang malih kapracayan.</li><li><b>Nehemia</b> · ngwangun malih tembok Yerusalem ring 52 rahina.</li><li><b>Ester</b> · ngrahayuang bangsa Yahudine ring Persia saking karusakan — “buat masa sakadi puniki.”</li><li><b>Kantun ngajap-ajap</b> · Perhyangane majujuk, nanging tan wenten prabu sakadi Daud. Rakyate ngantosang Sang Mesias.</li></ul>",
+   "next": "Tur raris… sakadi suarga sane sepi, 400 warsa lintang."
+  },
+  {
+   "tag": "ANTARANNYA PRAJANJIAN · NYEDIAANG GENAH",
+   "title": "Warsa-Warsa sane Sepi",
+   "date": "Sawatara 430–4 SM",
+   "one": "400 warsa tan wenten suaran nabi — nanging genahe kasiagayang antuk sepi.",
+   "people": "Aleksander Agung, paraMakabe, Roma",
+   "events": "Persia → Yunani → kabebasan Makabe → pamrentahan Roma",
+   "q": "Nanging rikala sampun tutug masannya, Ida Sang Hyang Widi Wasa raris ngutus Putran Idane ngraga. Sang Putra embas saking satunggiling anak istri.",
+   "cite": "Galatia 4:4",
+   "christ": "Sakancan “nyediaang genah” puniki wantah pakaryan Ida Sang Hyang Widi Wasa mangda Ida Hyang Yesus rauh pas ring “masa sane sampun tutug.”",
+   "detail": "<p>Saking Maleakhi rauh ka Prajanjian Anyar, sawatara 400 warsa lintang tan wenten Sabda sane anyar. Nanging ring ungkur sejarahe Ida Sang Hyang Widi Wasa nyiagayang margin Orti Rahayune.</p><ul><li><b>Karajaan magentos</b> · Persia → Yunani (Aleksander, 333 SM) → Ptolemeus miwah Seleukus → pamberontakan Makabe (167 SM) → Roma (63 SM).</li><li><b>Basa Yunani</b> · pangrebut Aleksander ngranjang basa Yunani dados basa umum; Prajanjian Lawas kasalin ka basa Yunani (Septuaginta), mbukak margi mangda Orti Rahayu nglimbak digelis.</li><li><b>Margi miwah dame Roma</b> · margi sane becik tur “Pax Romana” dados margi buat misi.</li><li><b>Sinagoge miwah parapartai</b> · piwulang ring sinagoge nguat; paraParisi miwah Saduki rauh; tur <b>pangajap-ajap ring Sang Mesias</b> mateng.</li></ul>",
+   "next": "Raris sepine megat — ring pamuput, Ida rauh."
+  },
+  {
+   "tag": "PRAJANJIAN ANYAR · KALAKSANAYANG",
+   "title": "Ida Hyang Yesus Rauh",
+   "date": "Sawatara 4 SM–30 M",
+   "one": "Sang Mesias sane kajanjiang rauh, seda, tur nangun malih.",
+   "people": "Ida Hyang Yesus, sisia sane roras, Yohanes Panglukat",
+   "events": "Panjadma (Natal), ayah-ayahan piwulang miwah katawahan Idane, seda ring salibe, nangun malih ring rahina kaping tiga",
+   "q": "Sang Sabda punika sampun manjadma tur nyeneng ring pantaran iraga… santukan Ida maraga Putra Tunggal.",
+   "cite": "Yohanes 1:14",
+   "christ": "Katurunan anake luh (paindikan 2), merta Dane Abraham (3), Panak Biri-biri Paskah (4), prabu Daud sane langgeng (6), prajanjian sane anyar (8) — sami kalaksanayang ring anak adiri, Ida Hyang Yesus: nabin iragane sane sujati, pandita sane sujati, miwah prabun iragane sane sujati.",
+   "detail": "<p>Sepine megat; Sang sane kajanjiang rauh. Orti Rahayu sane petang likur nyaksiang urip, seda, miwah pangnangun Ida Hyang Yesus saking petang lampah.</p><ul><li><b>Panjadma</b> · Ida Sang Hyang Widi Wasa dados manusa (Imanuel, “Ida Sang Hyang Widi Wasa nyarengin iraga”), ring genah sane andap Betlehem.</li><li><b>Ayah-ayahan</b> · Ida ngurukang Pamrentahan Ida Sang Hyang Widi Wasa, nyegerang anak sakit, ngesengin anak dosa. “Anak ane suba ningalin Tiang, ia suba ningalin Sang Aji.”</li><li><b>Salibe</b> · Ida ngentosin maicang pangargan dosa miwah pati sane kabakta antuk kapaceka (paindikan 2). Panak Biri-biri Paskah sane sujati.</li><li><b>Nangun malih</b> · nangun ring rahina kaping tiga, Ida megatang kawisesan dosa, pati, miwah Setan — sampun ring salibe Ida “mebasang raga saking kawisesan kakuasan sane tan katon… santukan Ida sampun nyeneng” (Kolose 2:15).</li></ul><p>Punika awinanipun Ida Hyang Yesus dados <b>nabin iragane sane sujati</b> (nyihnayang margi ka Ida Sang Hyang Widi Wasa), <b>pandita sane sujati</b> (nebus dosa antuk ragan Idane niri), miwah <b>prabun iragane sane sujati</b> (ngaonang dosa, pati, miwah Setan tur mrentah salami-laminnyane).</p>",
+   "next": "Ida Hyang Yesus sane sampun nangun ngutus parasisian Idane ka jagate…"
+  },
+  {
+   "tag": "PRAJANJIAN ANYAR · PANGLIMBAK",
+   "title": "Pasamuane Ngawit",
+   "date": "Sawatara 30 M–",
+   "one": "Roh punika rauh, tur Orti Rahayune nglimbak ka tanggun gumine.",
+   "people": "Dane Petrus, Paulus, pasamuan ngawit",
+   "events": "Roh kabriokang ring Pentakosta, pasamuane embas, Orti Rahayune nglimbak saking Yerusalem ka Roma malantaran palunyahan",
+   "q": "Cening lakar kabekin baan kawisesan, tur cening lakar dadi saksin Gurune di kota Yerusalem, di sawewengkon Yudea muah Samaria, kanti nganteg ka tanggun gumine.",
+   "cite": "Pakaryan 1:8",
+   "christ": "Satua puniki kantun mamargi rauh mangkin. Cakepan Sucine muputang antuk janji mungguing Ida Hyang Yesus jaga rauh malih tur nadosang sami anyar (Sikemas 21).",
+   "detail": "<p>Sasampun Ida Hyang Yesus munggah, Roh sane kajanjiang rauh ring Pentakosta tur pasamuane embas. Orti Rahayune nglimbak nyebrag.</p><ul><li><b>Pentakosta</b> · Roh nadosang sisia sane ajerih dados saksi sane wanen.</li><li><b>Petrus</b> · midartayang Orti Rahayu ring bangsa Yahudine ring Yerusalem.</li><li><b>Paulus</b> · saking sang panyiksa dados utusan, ngwangun pasamuan ring jagat bangsa-bangsa sane tan kurenan Widi tur nyuratang surat-surate.</li><li><b>Rauh ka tanggun gumine</b> · Yerusalem → Yudea → Samaria → Roma. Janji ring Dane Abraham indik “sakancan bangsane” dados kasujatian.</li><li><b>Tur iraga</b> · satuane tan puput; nglantur nuju pangrauh Ida Hyang Yesus malih miwah suarga anyar miwah pretiwi anyar.</li></ul>",
+   "next": "Nanging satuane tan puput irika…"
+  },
+  {
+   "tag": "PRAJANJIAN ANYAR · KAJANGKEPAN",
+   "title": "Pemulihan (sami anyar)",
+   "date": "Sane jaga rauh",
+   "one": "Ida Hyang Yesus rauh malih tur nadosang sami anyar.",
+   "people": "Ida Hyang Yesus sane rauh malih; sakancan bangsa",
+   "events": "Pangrauh sane kaping kalih, pangadilan sane pamungkas, pamuput dosa·pati·yeh paningalan, suarga anyar miwah pretiwi anyar",
+   "q": "Ida lakar ngusap sakancan yeh paningalannyane. Sang pati suba tusingja enu. Tusing enu ada kaduhkitan, eling wiadin sakit.",
+   "cite": "Sikemas 21:4",
+   "christ": "Eden ring pangwangun sane pinih ngawit ring pamuput kapulihang dados “Yerusalem sane Anyar.” Ida Sang Hyang Widi Wasa malinggih sareng kaulan Idane salami-laminnyane — kajangkepan Imanuel (Sikemas 21:3; Matius 1:23).",
+   "detail": "<p>Cakepan Sucine tan puput ring masan pasamuan. Cakepannyane sane pamungkas, Sikemas, nyihnayang Ida Hyang Yesus <b>rauh malih</b> buat ngajangkepang sami.</p><ul><li><b>Pangrauh sane kaping kalih</b> · prabu sane kajanjiang rauh malih sajeroning kaluihan.</li><li><b>Kamenangan sane pamungkas</b> · Setan miwah pati kaaonang salami-laminnyane, tur Ida Sang Kristus mrentah dados Prabuning Pararatu (1 Korinti 15:25-26; Sikemas 20:10).</li><li><b>Pangadilan miwah pangnangun</b> · sakancan kaiwangan kabenahang, tur anak sane padem kanangunang.</li><li><b>Suarga anyar miwah pretiwi anyar</b> · dosa, pati, yeh paningalan, miwah sakit ical salami-laminnyane (Sikemas 21:4).</li><li><b>Eden kapulihang</b> · ring “Yerusalem sane Anyar” sane becikan ring pangawit, Ida Sang Hyang Widi Wasa malinggih sareng kaulan Idane salami-laminnyane — genah sane katuju antuk sami Cakepan Sucine.</li></ul><p>Punika awinanipun mangkin masan <b>“sampun, nanging durung”</b>: ring Ida Hyang Yesus karahayuane <b>sampun</b> kalaksanayang, nanging kajangkepannyane <b>kantun</b> kaajap-ajap.</p>",
+   "next": "Dadosne napi tegesnyane satua puniki makasami pabuat “tiang”?"
+  }
+ ],
+ "love": [
+  "Satuane ngawit boyaja antuk pangadilan nanging antuk pangwangun sane kabriokang antuk sih.",
+  "Risedek manusane madosa, Ida Sang Hyang Widi Wasa irika ngraga majanji indik karahayuan.",
+  "Ida Sang Hyang Widi Wasa rauh dumun ring anak sane tan mantes, ngesengin antuk parabnyane, tur nadosang ipun merta pabuat anake liu.",
+  "Ida mireng panyeselan kaulan sane dados panjak tur tedun ngraga ngrahayuang ipun.",
+  "Yadiastun kacaketin kaping ping, sabilang ipun ngeling jerit Ida ngutus pangrahayu tur nangunang ipun malih.",
+  "Yadiastun Dane Daud sane runtuh tan kabanggayang; malantaran ida Ida majanji indik prabu sane langgeng.",
+  "Ring kaulan sane mungkurin Ida, Ida tetep ngutus paranabi, mapinunas, “Maliha mantuk.”",
+  "Yadiastun rauh ka tanah sane pinih peteng ring katawane Ida tedun sareng ipun tur majanji indik pemulihan.",
+  "Yadiastun ring kaula sane tan mari madosa, Ida tan ngambil janji Idane.",
+  "Yadiastun malantaran 400 warsa sane sepi, tan kakatonang, Ida nyiagayang margin karahayuane.",
+  "Risedek iraga kantun madosa, Ida ngutus Putran Idane buat ngetohang uripnyane.",
+  "Sih sane sampun tampi iraga, mangkin kautus Ida nglimbak ka sajebag jagate.",
+  "Ring pamuput Ida jaga ngusap sakancan yeh paningalan tur nadosang sami anyar antuk sih."
+ ],
+ "mis": [
+  {
+   "w": "“Napi awinanipun Ida Sang Hyang Widi Wasa ngardi manusa sane mrasidayang madosa? Punapi tan becikan tan kakardi pisan?”",
+   "t": "Ida Sang Hyang Widi Wasa ngwentenang jagat miwah manusa boyaja malantaran kakirangan, nanging malantaran sih sane mabriok. Ngardi manusa dados <b>jadma sane mailetan ring Ida Sang Hyang Widi Wasa</b> punika sampun sih. Tur yadiastun rauhnyane dosa tan ring jaban rencana karahayuan Ida Sang Hyang Widi Wasa (Epesus 1:4-5). Paindikan sane pinih ngawit ring Cakepan Sucine boyaja pangadilan nanging sih."
+  },
+  {
+   "w": "“Kakaonang tur kapaicang pati wantah malantaran ngajeng asiki woh — punapi Ida Sang Hyang Widi Wasa tan keras lintang?”",
+   "t": "Kakaonang saking Eden punika pangadilan tur sinambi kasih sayang. Yening, palas saking Ida Sang Hyang Widi Wasa tur ring kawentenan sane benyah punika, manusa ngajeng saking taru kauripane tur urip salami-laminnyane, ipun jagi kabanda ring kasangsaran salami-laminnyane (Kawitan 3:22). Nglugrain pati mbukak margi pamargi budal, tur irika ngraga Ida Sang Hyang Widi Wasa majanji indik Pangrahayu (Kawitan 3:15). Sih sampun wenten ring tengah pangadilane."
+  },
+  {
+   "w": "“Dane Abraham kapilih malantaran kapracayanipune sane ageng — punapi sakancan tokoh Cakepan Sucine boyaja pahlawan moral?”",
+   "t": "Dane Abraham taler mabikas linyok tur bimbang, tur Yakub anak panangsek. Ida Sang Hyang Widi Wasa tan ngesengin anak sane “mantes” nanging anak sane akeh kakirangannyane, malantaran sih pasuecan. Awinan kapilih boyaja malantaran kabecikannyane nanging malantaran sih Ida Sang Hyang Widi Wasa sane satia (Ulangan 7:7-8)."
+  },
+  {
+   "w": "“Punapi Pidabdab Torate (parapituduh) boyaja ujian sane patut kalewatin mangda karahayuang?”",
+   "t": "Ida Sang Hyang Widi Wasa ngrahayuang ipun <b>sadurung</b> maicang Pidabdab Torate. Yadiastun Pidabdab Torat sane adasa kawitin antuk pidarta karahayuan: “Ulun ene Ida Sang Hyang Widi Wasa, Widin kitane, ane nuntun kita pesu uli di Mesir di tongos kitane dadi panjak” (Pamargi 20:2). Pidabdab Torate boyaja “laksanayang mangda karahayuang,” nanging tuntunan sih indik sapunapi kaula sane sampun karahayuang patut urip (Ulangan 7:7-9). Sih pasuecan tansah dumun; kapiambeng wantah panyaurnyane."
+  },
+  {
+   "w": "“Pangrebut Kanaane wantah patiwesi sane tan paswecana — dadosne Ida Sang Hyang Widi Wasa ring Prajanjian Lawas sujatinipun keras.”",
+   "t": "Puniki paindikan sane abot sane tan mrasidayang kapuputang antuk asiki lengkara tur merluang kasapsapan. Nanging Cakepan Sucine nyihnayang puniki boyaja kekerasan sane tan pamargi nanging pangadilan sasampun makudang abad kasabaran ring kajaatan sane ngliwat (rumasuk maturang anak alit) (Kawitan 15:16; Ulangan 9:4-5; Imamat 18:24-25). Ida Sang Hyang Widi Wasa alon yadiastun buat ngadilin, tur Ida ngresepang antuk lega anak sane maliha ka Ida — yadiastun anak saking dura negara sakadi Rahab miwah Rut (Yosua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“Dane Daud pahlawan sane tan pakaiwangan — punika awinanipun ida kasambat ‘anak ane manut teken kayun Ida Sang Hyang Widi Wasa.’”",
+   "t": "Dane Daud ngardi mamitra tur yadian ngamademang manusa. “Anak ane manut teken kayun Ida Sang Hyang Widi Wasa” boyaja maartos tan pakaiwangan, nanging anak sane tan nyingidang dosanipune — sane ngesehin manah sane dalem tur tansah maliha ka Ida Sang Hyang Widi Wasa (Kidung 51). Sih Ida Sang Hyang Widi Wasa tan ngentungang yadiastun anak sane runtuh dahat."
+  },
+  {
+   "w": "“Nabi punika tukang ramal sane ngramalang masa depan / Ida Sang Hyang Widi Wasa ring Prajanjian Lawas wantah bendu kewanten.”",
+   "t": "Pikahyun nabine boyaja “ngramalang masa depan” nanging pinunas Ida Sang Hyang Widi Wasa saking ati: “Maliha mantuk.” Yadiastun pakeling pangadilan tan matetujon ngrusak nanging mbalikang anak mangda karahayuang — “Ulun tusingja ledang nyingak anake dosa ento mati. Ulun demenan nyingak ia suud ngae dosa tur muponin idup” (Yehezkiel 33:11)."
+  },
+  {
+   "w": "“Katawane mabukti mungguing Ida Sang Hyang Widi Wasa sampun ngutang Israel pisan.”",
+   "t": "Katawane boyaja pangutangan nanging panigtig miwah panyuciang Sang Aji ring putra sane sayang (Ibrani 12:6). Ida Sang Hyang Widi Wasa tan kesah; Ida nyarengin Daniel ring tengah katawane tur majanji: “Ulun nawang rencana-rencanan Ulune marep teken kita, nah ento rencana-rencana lakar mapaica gemuh landuh teken kita tur tusingja bencana muah rencana-rencana ane ajap kita dimani wekas” (Yeremia 29:11)."
+  },
+  null,
+  {
+   "w": "“Yening malantaran 400 warsa tan wenten Sabda, punapi Ida Sang Hyang Widi Wasa sampun kesah wiadin masandekan?”",
+   "t": "Sepi boyaja katiadaan. Ida wantah tan ngandika, sedek sajeroning masa punika makasami ngentegang karajaan, basa, miwah margi buat nyiagayang genah karahayuan. Ring masa sane pinih sepi, Ida Sang Hyang Widi Wasa makarya sane pinih bantes, antuk sih (Galatia 4:4)."
+  },
+  {
+   "w": "“Ida Hyang Yesus wantah adiri saking paraguru moral sane becik / salibe wantah kakalahan sane nyedihang.”",
+   "t": "Ida Hyang Yesus maosang ragan Idane Ida Sang Hyang Widi Wasa (Yohanes 8:58), tur salibe boyaja sangkala wiadin kakalahan nanging sih sane karencanayang. Ida tan kapaksa kabakta mrika; Ida ngetohang uripnyane antuk pakitan Idane niri (Yohanes 10:18). “Tusing ada kapitresnan ane gedenan teken kapitresnan anake ane las ngetohang uripne pabuat sawitrannyane” (Yohanes 15:13)."
+  },
+  {
+   "w": "“Pasamuane wantah kumpulan anak sampurna, wiadin wantah gedong.”",
+   "t": "Pasamuane boyaja paguyuban “anak suci sane sampurna” nanging <b>anak dosa sane kaampurayang</b>. Yadiastun utusan Paulus ngwastanin ragan danene “jadma ane paling nistana di pantaran anake dosa” (1 Timotius 1:15). Pasamuan ngawit taler mauyutan tur runtuh (Pakaryan 6:1; 1 Korinti 1:11). Pasamuane boyaja genah buat nyumbungang raga, nanging anak sane nglanturang sih sane sampun tampi (Yohanes 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Dosa asli — tan wenten anak sane patut",
+   "body": "Pikobetnyane boyaja “makudang laksana jaat” nanging akah manahe. Ngawit saking Adam, sami embas ring sor dosa tur tan mrasidayang nampek ring Ida Sang Hyang Widi Wasa saking padewekanipune niri.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Tusing ada anak ane patut, tusing ada anak ane ngresep, tur tusing ada anak ane ngulati Ida Sang Hyang Widi Wasa… jadmane makasami sampun madosa, tur sampun doh palas saking ayun Ida Sang Hyang Widi Wasa sane ngrahayuang."
+  },
+  {
+   "title": "Pidabdab Torate tan mrasidayang ngrahayuang tiang",
+   "body": "Pidabdab Torate boyaja undagan nanging meka. Sayan tiang mautsaha, sayan kakatonang sapunapi tiang kuangan. Tetujonnyane buat nuntun iraga ka Ida Sang Kristus.",
+   "vref": "Roma 3:20 · Galatia 3:24",
+   "vtext": "Malantaran Pidabdab Torate punika anake wantah uning mungguing ipun sampun madosa… Pidabdab Torate punika nguasain iraga, kantos rauh ring masa pangrauh Ida Sang Kristus."
+  },
+  {
+   "title": "Malantaran sih pasuecan — pica, boyaja utsaha",
+   "body": "Karahayuane boyaja upah pikolih kapatutan sane kakaryanang, nanging pica sane tan paderih pabuat anak sane tan mantes. Punika awinanipun tan wenten anak sane prasida nyumbungang raga.",
+   "vref": "Epesus 2:8-9",
+   "vtext": "Malantaran sih pasuecan Idane, semeton prasida karahayuang, malantaran kapracayan semetone ring Ida… boyaja pikolih pakertin semetone niri… santukan punika boyaja pikolih pakertin semetone niri."
+  },
+  {
+   "title": "Kadameang malantaran kapracayan",
+   "body": "Boyaja malantaran ngamargiang Pidabdab Torate, nanging malantaran pracaya ring Ida Hyang Yesus Kristus iraga kawilang patut — kabusanain boyaja antuk kapatutan iragane niri nanging antuk kapatutan Idane.",
+   "vref": "Roma 5:1 · Galatia 2:16",
+   "vtext": "Malantaran pracaya ring Ida Sang Kristus iraga sampun kadameang pamantuka ring Ida Sang Hyang Widi Wasa… anake prasida kadameang pamantuka ring Ida Sang Hyang Widi Wasa, wantah malantaran pracaya ring Ida Hyang Yesus Kristus, boya malantaran nglakonin paindikan sane kapituduhang antuk Pidabdab Torate."
+  },
+  {
+   "title": "Cakepan Sucine nyihnayang Ida Hyang Yesus",
+   "body": "Cakepan Sucine boyaja cakepan indik anak agung wiadin buku pituduh dewek. Saking Kawitan rauh ka Sikemas, soang-soang lembar nyaksiang anak adiri — Ida Hyang Yesus Kristus.",
+   "vref": "Yohanes 5:39 · Lukas 24:27",
+   "vtext": "Cakepan Sucine punika taler nyaksiang indik Tiange… Ida Hyang Yesus tumuli nerangang ring ipun, saluiring paindikane sane nuek ring ragan Idane, sane kasurat ring Cakepan Sucine."
+  },
+  {
+   "title": "Pamrentahan Ida Sang Hyang Widi Wasa — pikahyun Ida Hyang Yesus",
+   "body": "Tema sane pinih kerep kaurukang antuk Ida Hyang Yesus. Pamrentahan ring dija Ida Sang Hyang Widi Wasa mrentah dados prabu ngranjing ka jagate sareng Ida Hyang Yesus tur jagi kajangkepang rikala Ida rauh malih. Malantaran salibe miwah pangnangun, Ida Hyang Yesus dados Prabu sane sujati sane ngaonang dosa, pati, miwah Setan.",
+   "vref": "Markus 1:15",
+   "vtext": "Suba teka masannya: Ida Sang Hyang Widi Wasa pacang ngrajegang Pamrentahan Idane. Kutangja dosa-dosan ragane tur pracayaja teken Orti Rahayune ene!"
+  },
+  {
+   "title": "Orti Rahayu — Ida sampun muputang sami",
+   "body": "Pangargan dosa sane tan mrasidayang bayah tiang, Ida Hyang Yesus mayah ngentosin tiang ring salibe, tur malantaran nangun Ida ngaonang pati. Tiang tan masandar ring “laksanayang puniki” nanging ring “suba pragat.”",
+   "vref": "Yohanes 19:30 · Roma 5:8",
+   "vtext": "Suba pragat!… daweg iraga kantun madosa Ida Sang Kristus sampun seda pabuat iraga."
+  }
+ ],
+ "books": {
+  "Kawitan": "GEN",
+  "Pamargi": "EXO",
+  "Imamat": "LEV",
+  "Wilangan": "NUM",
+  "Ulangan": "DEU",
+  "Yosua": "JOS",
+  "Hakim-Hakim": "JDG",
+  "Rut": "RUT",
+  "1 Samuel": "1SA",
+  "2 Samuel": "2SA",
+  "1 Pararaton": "1KI",
+  "2 Pararaton": "2KI",
+  "Nehemia": "NEH",
+  "Kidung": "PSA",
+  "Yesaya": "ISA",
+  "Yeremia": "JER",
+  "Yehezkiel": "EZK",
+  "Maleakhi": "MAL",
+  "Matius": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Yohanes": "JHN",
+  "Pakaryan": "ACT",
+  "Roma": "ROM",
+  "1 Korinti": "1CO",
+  "Galatia": "GAL",
+  "Epesus": "EPH",
+  "Kolose": "COL",
+  "1 Timotius": "1TI",
+  "Ibrani": "HEB",
+  "Sikemas": "REV"
+ },
+ "yv": 302,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
