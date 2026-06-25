@@ -1,0 +1,382 @@
+{
+ "menuName": "Thuɔŋjäŋ",
+ "htmlLang": "dik",
+ "dir": "ltr",
+ "brand": "Athör Nhialic ë gɔ̈t tök",
+ "docTitle": "Athör Nhialic ë gɔ̈t tök · Tɛ̈ɛ̈u piny agut kanithɔ",
+ "share": {
+  "title": "Athör Nhialic ë gɔ̈t tök",
+  "text": "Ë gɔ̈t tök, yök wɛ̈tdït Athör Nhialic — ku rin ë bɛ̈n Jethu."
+ },
+ "ui": {
+  "people": "Kɔc",
+  "events": "Käk cï rot looi",
+  "christLabel": "Anyooth Jethu",
+  "loveLabel": "Nhiër cïï thök",
+  "mythWrong": "Wɛ̈t rɛ̈ɛ̈c ye kɔc tak",
+  "mythRight": "Wɛ̈t yic",
+  "more": "Kuɛɛn awën",
+  "version": "(DIK)"
+ },
+ "labels": {
+  "start": "Gɔɔl",
+  "thread": "Wɛ̈t",
+  "gospel": "Wɛ̈t Puɔth Yam",
+  "about": "Riɛnke"
+ },
+ "s": {
+  "ui.share": "↗ Tëk kɔc",
+  "ui.toast": "Wɛ̈t acï kuany 📋",
+  "ui.footer": "Athör Nhialic ë gɔ̈t tök · Wël Nhialic aa bɔ̈ tënë DIK",
+  "hero.kicker": "TƐ̈ƐU PINY AGUT KANITHƆ",
+  "hero.title": "Athör Nhialic,<br><span class='em'>ë gɔ̈t tök</span>",
+  "hero.sub": "Ë gɔ̈t tök, yök wɛ̈tdït Athör Nhialic — ku rin ë bɛ̈n Jethu.",
+  "hero.cue": "Tɛ̈ɛ̈u piny<span>↓</span>",
+  "thread.eyebrow": "WƐ̈T TÖK YE KÄŊ MAT EBËN",
+  "thread.h2": "Ë thoŋ thɛɛr, Athör Nhialic ee wɛ̈t tök",
+  "thread.flow": "<b>Aleeny</b><span class='arw'>→</span><b>Tït</b><span class='arw'>→</span><b>Tɛ̈ɛ̈u yic</b>",
+  "thread.note": "Nhialic ee <b>lëk wɛ̈t</b> (aleeny), kɔc aa <b>tït</b> ë nïn juëc, ku ë thoŋ thɛɛr käŋ ëbën aa <b>tɛ̈ɛ̈u yic</b> ku thol ë Jethu. Buɔth käk 13 cï gɔ̈t piny yiic ë wɛ̈t kënë yic — thany <b>«Kuɛɛn awën»</b> tënë athör ëbën rin ba wɛ̈t ya yök apiɛth.",
+  "gospel.eyebrow": "KË YE WƐ̈T KËNË LUEEL TENË «ƔƐN»",
+  "gospel.h2": "Puɔu yic ë Athör Nhialic",
+  "gospel.lead": "Athör Nhialic <b>acie athör ye kɔc wɛ̈ɛ̈t «aa raan piɛth».</b>",
+  "gospel.sublead": "Ee wɛ̈t lɔn cï Nhialic, <b>rin ë piathde yetök</b>, kɔc kärɛc, kɔc cïï lëu bïk röt kony, kony. Tethɛɛr yic ë Jethu Krïtho aa kɔ̈ɔ̈c.",
+  "gospel.mirror": "<h3>Cök cïï thök ë Itharel ee këgam ë «ɣɛn»</h3><div class='cycle'><b>Luɔi yieth</b><span class='a'>→</span><b>Kerac</b><span class='a'>→</span><b>Cɔ̈ɔ̈t</b><span class='a'>→</span><b>Nhialic akony</b><span class='a'>→</span><b>Bɛ̈n luui yieth…</b></div><p>Tueŋ tënë kɔc käk Nhialic tïŋ agut ë jɔ̈ɔ̈t, Itharel aa cök kënë looi këë lɔ tueŋ. Athör Nhialic akëc kë gɔ̈t bïï ɣok lueel, «Ye kek kɔc rɛc cï rot looi nadë.»</p><p>Ee <b>maja</b>. Wɛ̈t acie «Itharel acï kë looi» ku ee <b>«ɣɛn aya aluɔi kënë»</b> (1 Korïntho 10:11).</p><p><b>Yieth</b> acie kecï cuëc yetök. Ee <b>kuat ke nhiɛɛrku tɛ̈dë ŋɔ̈thku tueŋ tënë Nhialic</b> — wëu, käk path, lec kɔc, kɔc, ayadaa ɣɛn yetök. Ku luɔi Nhialic kecït <b>kë ye raan dɔm bï kë wïc yök</b> ee aya luɔi yieth.</p><p class='punch'>Ë thoŋ thɛɛr, yieth dït aa «ɣɛn yetök, ye nyuc thoony Nhialic.»</p>",
+  "gospel.coreIntro": "Ke ye Nhialic raan kärɛc cït kënë kony adï? Tɛ̈n ë puɔu yic ë Wɛ̈t Puɔth Yam ye Athör Nhialic lueel.",
+  "gospel.crux": "<p class='crux-lead'>Athör Nhialic ëbën anyooth tɛ̈ tök.</p><p>Kɔc aacïï lëu bïk cök ë kärɛc bɛ̈ny röt, ku acïn raan töŋ la cök. Këya raan dɛ̈t abï <b>kepɛ̈ɛ̈c cuat ë kɔ̈uden</b>.</p><p>Jethu akëc bɛ̈n yen ë piɔ̈ɔ̈c path yetök. Tɛ̈ cïï kë dɛ̈t nu bï ɣɛn kony, <b>akëc kë dɛ̈t yök ee bɛ̈n.</b></p><p class='crux-punch'>Raan ye tɔ̈ɔ̈u ë tim cï rïïu kɔ̈u kënë, ë yen <b>ɣɛn</b>.<br>Jethu acï <b>kärɛc kiɛ̈</b> jɔt ku rëëm thïn kepɛ̈ɛ̈ckiɛ̈.</p><div class='crux-verse'>«Krïtho acä awuɔ̈c jɔt, awuɔ̈c kärɛc cuk ke looi, wäär reem ye tim cï rïïu kɔ̈k, rin bï ɣok luɔi adumuɔ̈ɔ̈m puɔ̈l ku pïïrku ë pïr la cök. Ku tɛ̈töök juëc cï yiëk ye aacï we waar ë thou yic.» — 1 Pïtɛr 2:24</div>",
+  "faq.h": "Ŋot ke kë dɔm yïpuɔu?",
+  "faq.q1": "<span class='arr'>▸</span> Ke ye raan cï kɔc nɔ̈k bï gam yetök ku le paannhial, ku raan path akölriëëc ye cïï gam le tɛ̈ rɛc?",
+  "faq.a1": "<p>Ee thiëëc la cök. Ku wël rɛ̈ɛ̈c kaarou aa kuɛ̈ɛ̈t thïn.</p><p><b>① Athör Nhialic acïï kɔc tɛ̈k ë «kɔc piɛth ku kɔc rɛc.»</b> Käc acie «piɛth tënë raan dɛ̈t» ku ee «cök ëbën ë Nhialic». Ë yenhom, acïn raan «la cök apath» (Romandï 3:23). Këya, acie «raan path ku raan cï kɔc nɔ̈k», ku akëdï kecït kɔc kaarou cï juai töŋ ril dɔm — töŋ ee wal lɔ̈k, dɛ̈t ee jai, ke ye lueel, «Ɣɛn la cök awën raan dɛ̈t.»</p><p><b>② Kë tök yen ë tɛ̈k paannhial ku tɛ̈ rɛc.</b> Acie käc ë luɔida, ku ee <b>na cï yïn Jethu Krïtho dɔm aa Bɛ̈ny ku na cï wɛ̈t ë kärɛcku thiɔ̈k.</b> Raan cï kärɛcke thiɔ̈k ë riɛm Krïtho ee le paannhial; raan cïï yen dɔm akölriëëc, ku ŋot ke kärɛcke nu, acïï le. Acïn luɔi path lëu bï wɛ̈t ë kärɛc kënë thiɔ̈k.</p><p>Këya paannhial ku tɛ̈ rɛc acie «ariɔ̈p ë luɔi path» ku ee wɛ̈t <b>mɛ̈t kek Krïtho</b>. Ku «gam» acie wɛ̈t ye nhom ŋic yetök ku ee waar ë raan muk pïrdu — raan cï yen dɔm apath acïï bï la nhom dït, ee pɔ̈k puɔu apath. Yic, cök ë röt («ɣɛn aa raan piɛth») ee yieth ril ya bɛ̈ny röt, ye ɣok cɔl atak lɔn cïï ɣok Krïtho wïc (Luk 18:9-14).</p><p>Athör Nhialic alueel apath: <b>«Raan gam wɛ̈tde acïï bï luɔ̈k wei, ku raan cï jai bï wɛ̈t cïï gam acï luɔ̈k wei»</b> (Jɔn 3:18). Luɔ̈k wei acie «käc ë luɔidu te cï yïn thou», ku acï guɔ thiɔ̈k ë <b>na cï yïn Krïtho dɔm</b>.</p><p class='faq-v'>Romandï 3:23 · Jɔn 3:18 · Epethɔ 2:8-9 · Luk 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Ke cïï ɣɛn lëu ba pïr la cök yetök, ke këc Jethu gam?",
+  "faq.a2": "<p>Ee wɛ̈t ye kɔc juëc tak, ku acïï wɛ̈t yic ŋic apath. Tɛ̈n ë këgam.</p><p><b>Tak lɔn nu yïn ë riäi cuɛ̈ɛ̈r yic.</b> Cɔk arïïëu riäi alic, cɔk apiɛth tënë kɔc, cɔk apath pïrdu — yïn ŋot ë <b>acuɛ̈ɛ̈r</b>, rin ye riäi yï jɔt tɛ̈ le yen (tɛ̈ ye kɔc luɔ̈k wei thïn). Wɛ̈t acie «käc ë luɔi» ku ee <b>«riäi nu yïn ë yeyic» (kuwen).</b></p><p>Këya Wɛ̈t Puɔth Yam acïï lueel «them apath ba la cök»; alueel <b>«waar riäi.»</b> Lɔ bei ë riäi ë kärɛc ku jal tënë Jethu — ë kuwen yam aa <b>mënh Nhialic</b>. Acie jɔt ë cökdu rin ë luɔidu, ee ŋɔ̈th ë Raan yïn rial yecin ku yï jal tënë riäide.</p><p>Yic, Athör Nhialic alueel kony kecït waar kënë — <b>«Acï ɣo luäk bei riɛl jɔŋrac yic, ku bïï ɣo ë bääny Wënden nhiɛɛr yic»</b> (Kolothai 1:13).</p><p>Du ye ŋic rɛ̈ɛ̈c: <b>kënë acie lueel lɔn cïn naŋ pïr la cök.</b> Path acie «käc» ë kony ku ee <b>mɛ̈th</b>de. Raan cï riäi waar ee pïr la cök ëmën acie rin riɔ̈ɔ̈c, ee rin nhiër ë mënh.</p><p class='faq-v'>Kolothai 1:13 · Jɔn 1:12 · Jɔn 3:3 · Epethɔ 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Te ŋic raan kärɛc looi dɔ̈ɔ̈r, ye lueel «Nhialic acï ɣa pɔ̈l», ku raan cï luɔi rɛ̈ɛ̈c yök ŋot ë kerac — ke piath acie kɔɔr piny ëmɛ̈n?",
+  "faq.a3": "<p>Thiëëc ë la cök, ku kerac ë yic. Ku wɛ̈t cït kënë acie «pɔ̈l Athör Nhialic» — ee <b>wac</b>de.</p><p><b>① Pɔ̈l Nhialic acïï kɔɔr piny akölriëëc.</b> Kärɛc acïï thiän kecït kë këc rot looi; Nhialic yetök acï kepɛ̈ɛ̈c cuat ë pïr ë Wënde. Tim cï rïïu acie nyuɔ̈th lɔn ye kärɛc tak ë lɔ̈k, ee nyuɔ̈th lɔn dït kärɛc apɛɛc — ee pɔ̈l ril apɛɛc pinynhom ëbën.</p><p><b>② Pɔ̈k puɔu yic ee mɛ̈th naŋ.</b> Te le raan kärɛc looi nhom dït ë raan cï luɔi rɛ̈ɛ̈c yök nhom — «Nhialic acï ɣa pɔ̈l, ke ɣɛn dɔ̈ɔ̈r» — ee kënë acie pɔ̈k puɔu ku ee guäk ë puɔu (Mathaai 3:8). Ku pɔ̈l raan kek Nhialic acïï arɛm raan cï luɔi rɛ̈ɛ̈c yök wëëc tɛ̈dë cɔl yen apɔl.</p><p><b>③ Kärɛc acïï pɛ̈l akölriëëc.</b> Kärɛc ëbën ee cuat tɛ̈ töŋ ë tɛ̈ kaarou yiic — <b>tɛ̈dë jɔt Krïtho ye ë tim cï rïïu kɔ̈u</b> (kɔc ŋoth ye acïn luɔ̈k wei dɛ̈t, Romandï 8:1), <b>tɛ̈dë jɔt raan cï yen jai akölriëëc ye yetök.</b> Këya acïn «pɔ̈l ye kɔɔr piny». Raan kärɛc looi ŋot ë kë mac ye yök pinynhom kënë aya (Romandï 13:1-4).</p><p><b>④ Pïu raan cï luɔi rɛ̈ɛ̈c yök acïï kɔɔr ë Nhialic nhom akölriëëc.</b> Nhialic ee dhiau kek kɔc dhiau, ee pïu ëbën tak, ku abï ke wɛɛc wei yetök thoŋ thɛɛr (Nyuɔ̈th 21:4). Këya raan cï luɔi rɛ̈ɛ̈c yök acïï kë guur jɔt yetök, ee lëu bï yen jɔt tënë Nhialic la cök (Romandï 12:19 — «Ɣɛn abï kërɛɛc cï kɔc kɔ̈k looi guɔ̈ɔ̈r, aye Bɛ̈ny lueel»).</p><p class='faq-v'>Mathaai 3:8 · Romandï 8:1 · Romandï 13:1-4 · Nyuɔ̈th 21:4</p>",
+  "faq.q4": "<span class='arr'>▸</span> Ye Athör Nhialic wɛ̈t yic? Acït guä thɛɛr tɛ̈dë athör cï kɔc cak.",
+  "faq.a4": "<p>Ee thiëëc la cök — ku ee tɛ̈ piɛth ë gɔɔl. Tʼur acie ater ë gam, ee kɔɔr ë kë them apath. Athör Nhialic acie guä rɛ̈ɛ̈c ye gam «te wic raan», ee wɛ̈t cï gɔ̈t ë <b>bɛ̈i, akölkö, ku kɔc yic</b>. Tɛ̈n ë käk thiin.</p><p><b>① Acie athör tök ku ee «pany athör» — ku ŋoot ke kɛɛt ë wɛ̈t tök.</b> Athör Nhialic ee kut <b>athör 66</b> cï gɔ̈t ë run kɔɔr <b>1,500 ë kɔc kɔɔr 40</b> — bäny, kɔc tiit thok, kɔc dëp rec, raan kut atholbo, akïm, kɔc kɔ̈k ku run kɔ̈k, ke gat röt kapac ke kuc röt, ë thook diäk (Hibru, Aram, Grik). Ku käŋ ëbën aa mat, ke cïn kërɛɛc, ë <b>wɛ̈t tök: kony ë Krïtho</b>. Ee kë ril bï lueel lɔn ë rot looi yetök tɛ̈dë cï kɔc looi.</p><p><b>② Aye guɔ ŋic ë pinynhom (luɔi wɛ̈ɛ̈r piny).</b> Käŋ juëc ye lueel thɛɛr lɔn ye käk cï cak, «käk nu Athör Nhialic yetök», aacï guɔ ŋic ë wɛ̈ɛ̈r piny. <b>Bäny ë Dɛ̈uɣid</b> ë kuur cï gɔ̈t «pan Dɛ̈uɣid» (kuur Tel Dan); <b>Pontio Pilato</b>, akuma cï Jethu nɔ̈k, ë gɔ̈t cï rinke nu thïn; ku acël ë pïu ë bɛ̈ny Hethekia. Ayadaa <b>kɔc Hith</b>, ye lueel thɛɛr lɔn ye «kɔc cï kɔc cak», aacï guɔ tïŋ aa pany dït ë pinyŋuan.</p><p><b>③ Ee athör thɛɛr ye muk apath (käk cï gɔ̈t).</b> Ë kuɛ̈ny ë käk cï gɔ̈t ŋoot ke nu, mɛt kek röt, ku run cï thiääk ë gɔ̈t ku kuany, Athör Nhialic <b>acïn ke cït ë käk thɛɛr ëbën</b>. Athör Itharaja cï gɔ̈t Krïtho ŋot këc bɛ̈n ë <b>athör ye yök Wäär ɣä</b> (cï yök 1947) acï mɛ̈t kek athör cï looi run kɔɔr 1,000 — nyuɔ̈th lɔn cï Athör Nhialic muk apath ë run juëc.</p><p><b>④ Käk cï gɔ̈t tueŋ aacï rot looi (käk cï lueel tueŋ).</b> Athör thɛɛr, cï gɔ̈t run juëc Jethu ŋot këc bɛ̈n, anyooth dhiëëthde Bethlehem, lim cï rɛ̈ɛ̈c yök, ku käk ë tim cï rïïu. Acï la cök apɛɛc bï lueel lɔn ye rot looi yetök.</p><p><b>⑤ Kɔc käk ŋic, kɔc cïï Athör Nhialic yic, aacï gɔ̈t aya.</b> Raan Roma <b>Tacitus</b> ku raan Itharel <b>Josephus</b> — kek kaarou acie kɔc Krïtho — aa Jethu lueel, nɔ̈kde, ku kanithɔ tueŋ. Ku awën dït ëbën, kɔc piööc cï thiei röt rin riɔ̈ɔ̈c aacï <b>pïrken yiëk</b> ke jam ë jɔt ë thou — acïn raan thou rin ë kë ŋic lɔn ye lueth.</p><p>Ku ë yic, käkkä aanyooth lɔn ye gam Athör Nhialic <b>acie wɛ̈t cïn nhom, ee wɛ̈t la nhom</b>; acie «nyuɔ̈th» cï cɔl ye nadë kecït käc ë namba. Këya, riɛl puɔu raan gam acie bɔ̈ tënë käk cï rot looi yetök, ee bɔ̈ tënë <b>riɛl puɔu ye Wëi Nhialic gäm puɔu te kuɛ̈n raan Wɛ̈t</b>. Athör Nhialic alueel: <b>«Keek aa wɛ̈t kaŋ piŋ tueŋ ku jɔlkë gam. Ku wɛ̈t kënë aye piŋ tɛ̈ piööc kɔc rin Raan cï lɔc ku dɔc»</b> (Romandï 10:17). Këya, cɔk acït guä apɛɛc, <b>kuany yetök</b> ee gɔɔl. Käk cï rot looi aa thok liep, ku riɛl puɔu ee dɔ̈t ë raan kuen yic.</p><p class='faq-v'>Romandï 10:17</p>",
+  "respond.h3": "Këya — ke ye lueel tënë ɣɛn?",
+  "respond.sub": "Nhiër kënë acie wɛ̈t ye ŋic ku ee <b>cɔ̈ɔ̈t</b>. Te cï nhiër ë rëëm kepɛ̈ɛ̈cdu yïpuɔu dɔm, lɔɔŋ kënë amääth, gɔ̈t tök ë akölakool.",
+  "respond.prayer": "<p>Nhialic,</p><p>ɣɛn aa lueel lɔn ɣɛn ë raan kärɛc looi, ku ɣɛn cïï lëu ba röt kony.</p><p>Ɣɛn ŋoth lɔn cï Jethu thou riɛnkiɛ̈ ë tim cï rïïu kɔ̈u ku acï jɔt.</p><p>Pɛl kärɛckiɛ̈ ëbën, ku gɔ̈l akölköni aa yïn Bɛ̈ny pïrdiɛ̈.</p><p>Döm ɣa aa mënhdu, ku cɔl ɣa pïr pïr yam.</p><p class='amen'>Ë rin Jethu yen lɔ̈ɔ̈ŋ ɣɛn. Amen.</p>",
+  "respond.after": "Te cï yïn lɔɔŋ kënë lɛ̈k apath, Athör Nhialic alueel lɔn cï yïn <b>aa mënh Nhialic</b>. Yïn cïï nu yïtök — kɔɔr kanithɔ thiɔ̈k ku cathkë kueer ë gam etök.",
+  "respond.read": "Kuɛɛn Athör Nhialic yetök — gɔ̈l ë Jɔn",
+  "respond.verse": "«Ku acï kɔc abɛ̈k bɛ̈n lor ku gamkë wɛ̈tde, goke gäm riɛl bïk aa mïth Nhialic.» — Jɔn 1:12 · Romandï 10:9-10",
+  "closing.main": "Nhialic tök,<br>ë wɛ̈t tök,<br>ee ɣo kɔɔr ë <em>nhiër</em><br>cïï thök akölriëëc.",
+  "closing.verse": "«Cɔk athou ayi pïr… ayï käkkɔ̈k ril… acïn kë lëu ye kuat käkkä yiic ëbën bï ɣo tɛ̈k bei nhiër Nhialic yic, yeen ë këda rin Raan cï lɔc ku dɔc, Jethu Bänyda.» — Romandï 8:38-39",
+  "closing.small": "Ë wɛ̈t kënë, Löŋ, athör ë diët, kɔc käk Nhialic tïŋ, ku awarɛ̈k aa yiëk «guɔ̈p».<br>Ëmën, athör cï yïn liep ëbën, yïn abï tïŋ tɛ̈ nu yïn ë wɛ̈t yic.",
+  "closing.share": "↗ Tëk kɔc wɛ̈t kënë",
+  "about.line": "Acï gɔ̈l ë wɛ̈t kony ye kanithɔ Korea juëc gam (kɔc Wɛ̈t Puɔth Yam · Reformed).",
+  "about.contact": "Thiëëc · wɛ̈t — <a id='contact' class='mail'>Gɛ̈t ɣo</a>",
+  "partial.note": "Ë thoŋ Dinka, wël cï gɔ̈t tɛ̈n aa Athör Yam yetök; kuɛɛn wɛ̈t ëbën ë Athör Yam yic."
+ },
+ "epochs": [
+  {
+   "tag": "ATHÖR THƐƐR · GƆ̈L",
+   "title": "Cak",
+   "date": "Tueŋ",
+   "one": "Nhialic acï pinynhom cak ku ë «path apɛɛc».",
+   "people": "Nhialic; Adam ku Aua",
+   "events": "Nïn ë cak kadhetem, raan cï cak kecït Nhialic, lɔŋ ë köl thabath",
+   "q": "Nhialic acï nhial ku piny cak tueŋ.",
+   "cite": "",
+   "christ": "Pinynhom acï cak ë «Wɛ̈t». Athör Jɔn alueel lɔn ye Wɛ̈t kënë ë Jethu yetök (Jɔn 1:1-3).",
+   "detail": "<p>Athör Nhialic acïï gɔ̈l ë wɛ̈t nhom, ee gɔ̈l ë lueel: <b>«Nhialic acï… cak tueŋ»</b> Pinynhom acie kë cï rot looi yetök, ee luɔi ë Nhialic la nhom.</p><ul><li><b>Käc ë Nhialic</b> · käk cï cak ëbën, raan yetök yen ë cak kecït Nhialic — bï yen ŋic ku muk pinynhom.</li><li><b>Lɔŋ</b> · lɔŋ ë köl kadhorou anyooth käŋ ëbën cï thok ku la dɔ̈ɔ̈r: «ë path».</li><li><b>Eden</b> · pinynhom ŋot këc dhuɔ̈ŋ, tɛ̈ ye Nhialic ku kɔc cath etök.</li></ul>",
+   "next": "Ku path kënë athiɔ̈k bï dhuɔ̈ŋ…"
+  },
+  {
+   "tag": "ATHÖR THƐƐR · KERAC AGƆ̈L",
+   "title": "Wäc",
+   "date": "Tueŋ",
+   "one": "Kärɛc acï bɛ̈n, ku mɛ̈t ë raan kek Nhialic acï dhuɔ̈ŋ.",
+   "people": "Adam ku Aua; kärac (Catan)",
+   "events": "Cam ë mïth cï pɛ̈n, ciɛɛc bei Eden, bɛ̈n ë thou ku kerac",
+   "q": "Nhialic acï ater tɛ̈ɛ̈u käm kärac ku tik, ku abï mënh tik kärac nhom dui.",
+   "cite": "",
+   "christ": "Aleeny tueŋ ë Wɛ̈t Puɔth Yam, cï gam te cï kärɛc bɛ̈n: «mënh tik» abï kärac nhom dui — ku ë Jethu (Romandï 16:20; Galatia 4:4).",
+   "detail": "<p>Ë rɛ̈ɛ̈c ë wɛ̈t ye kɔc wïc bïk «aa cït Nhialic», kärɛc acï bɛ̈n pinynhom. Mɛ̈th acie löŋ cï dhuɔ̈ŋ yetök, ee <b>mɛ̈t cï dhuɔ̈ŋ</b>.</p><ul><li><b>Mɛ̈t cï dhuɔ̈ŋ</b> · kek Nhialic (thiän), kek röt (gaak), kek pinynhom (kuɔ̈th ku kerac).</li><li><b>Thou</b> · wɛ̈t «yïn abï thou» acï rot looi.</li><li>Ku tethɛɛr yic ë luɔ̈k wei, aleeny ë kony abɔ̈ tueŋ. Kɔc kɔ̈ɔ̈c ye cɔl <b>protoevangelium (Wɛ̈t Puɔth Yam tueŋ)</b>.</li></ul>",
+   "next": "Ëmën Nhialic ee raan tök cɔɔl bï kony gɔ̈l…"
+  },
+  {
+   "tag": "ATHÖR THƐƐR · ALEENY",
+   "title": "Kuär",
+   "date": "c. 2000 BC",
+   "one": "Nhialic ee lɛ̈k Abaram: «Yïn abï aa kuɛ̈r ë athɛ̈k.»",
+   "people": "Abaram · Ithak · Jakop · Jothep",
+   "events": "Aleeny Abaram, gɛm ë Ithak, wäth Jakop kathiäär ku rou, Jothep ee jɔt riɛl Egypt",
+   "q": "Nhialic ee lɛ̈k Abaram lɔn bï yen cɔl aa pan dït, ku ë yen yen abï dhiën pinynhom ëbën athɛ̈k yök.",
+   "cite": "",
+   "christ": "Aleeny lɔn «bï dhiën ëbën athɛ̈k yök» acï tɛ̈ɛ̈u yic ë Jethu, mënh Abaram (Galatia 3:16).",
+   "detail": "<p>Nhialic ee wɛ̈t kɔc ëbën gɔ̈l ë cɔɔl ë raan tök, <b>Abaram</b>. Puɔu yic ë <b>aleeny</b> — pan dït, piny, ku «athɛ̈k tënë dhiën ëbën».</p><ul><li><b>Gam</b> · Abaram acï aleeny cïï tïŋ gam, ku acï cɔl la cök.</li><li><b>Ithak ku Jakop</b> · aleeny ee lɔ tueŋ; Jakop (Itharel) ee wäth kathiäär ku rou dhiëëth.</li><li><b>Jothep</b> · acï ɣaac ë mïthken, ku acï jɔt riɛl — Nhialic acï waar bï path.</li></ul>",
+   "next": "Buɔth Jothep, dhiën ee lɔ piny Egypt — ku jɔ aa him…"
+  },
+  {
+   "tag": "ATHÖR THƐƐR · KONY",
+   "title": "Bɛ̈n bei ku jɔ̈ɔ̈r",
+   "date": "c. 1446 BC",
+   "one": "Nhialic acï kɔc cï him kony ku cɔl keek aa kɔcke.",
+   "people": "Mothith, Aron, parao",
+   "events": "Kärɛc kathiäär, paktha, tëk wär thith, löŋ kathiäär Thinai, kɛɛt Nhialic, run 40 jɔ̈ɔ̈r",
+   "q": "Nhialic ee lɛ̈k keek lɔn bï kek dɔm aa kɔcke, ku bï yen aa Nhialicden.",
+   "cite": "",
+   "christ": "Paktha — tɛ̈ ye riɛm amɛ̈l thou waan wei — anyooth Jethu, «amɛ̈lda paktha», cï rëëm riɛnkua (1 Korïntho 5:7).",
+   "detail": "<p>Kony dït ë Athör Thɛɛr. Itharel cï him acï luäk bei ë riɛl Nhialic ku cɔl aa <b>kɔcke</b>.</p><ul><li><b>Paktha</b> · ɣön cï gɔ̈t ë riɛm amɛ̈l thou ee waan wei — këgam ë gɛm ëbën cï looi cök.</li><li><b>Wär thith</b> · kony tɛ̈ thol kueer thïn; «tëk» ee këgam ë gɔ̈l yam.</li><li><b>Aleeny Thinai</b> · ë löŋ aa kek piɔ̈ɔ̈c tɛ̈ bï kek pïr aa kɔc Nhialic.</li><li><b>Kɛɛt</b> · ɣön ye jat ye Nhialic ciɛɛŋ thïn kɔcke yiic — këgam ë «Immanuel».</li><li><b>Run 40</b> · rɛ̈ɛ̈c ë cɔl dhiën tök wɛ̈ɛ̈l jɔ̈ɔ̈r, ku Nhialic ŋot ë thiɔ̈k ë mana ku mɛ̈l ë amääu ku mac.</li></ul>",
+   "next": "Ke kɔ̈ɔ̈c thok ë piny cï lɛ̈k, ke guiir röt bïk lɔ thïn…"
+  },
+  {
+   "tag": "ATHÖR THƐƐR · TƐ̈ƐU PINY",
+   "title": "Dɔm piny ku akuut",
+   "date": "c. 1400–1050 BC",
+   "one": "Aacï piny yök, ku cïn bɛ̈ny ke raan ëbën ë kë wïc looi.",
+   "people": "Jothua; akuut cït Gideon ku Thamthon; Ruth",
+   "events": "Dhuɔ̈ŋ ë Jeriko, tɛ̈ɛ̈u piny Kanan, cök ë kärɛc–luɔ̈k–kony",
+   "q": "Ë akölkä cïn bɛ̈ny Itharel; raan ëbën ë kë la cök ë yenyin looi.",
+   "cite": "",
+   "christ": "Ë dhiën Ruth ye Dɛ̈uɣid bɛ̈n, ku ë dhiën Dɛ̈uɣid ye Jethu bɛ̈n (Mathaai 1). Ayadaa ë kerac yic, dhiën Mathia ee lɔ tueŋ.",
+   "detail": "<p>Ë Jothua cök ke lɔ piny cï lɛ̈k, ku te cï kek tɛ̈ɛ̈u piny ke maar Nhialic. Athör Akuut ee cök töŋ ye cök.</p><ul><li><b>Cök la piny</b> · kärɛc → cuät piny → cɔ̈ɔ̈t → akut akony → kärɛc bɛ̈n. Ee lɔ rɛ̈ɛ̈c.</li><li><b>Akuut</b> · Gideon, Thamthon, Debora — kɔc kony ë run thiin, ke ril ku ke naŋ wäc.</li><li><b>Ruth</b> · wɛ̈t path ë mɛ̈t puɔu ë akööl cï col; tik ë pan dɛ̈t ee lɔ dhiën Dɛ̈uɣid (ku Jethu) yic.</li></ul>",
+   "next": "Kɔc aa cɔ̈ɔ̈t: «Gäm ɣo bɛ̈ny aya!»…"
+  },
+  {
+   "tag": "ATHÖR THƐƐR · AKÖL PIATH",
+   "title": "Bääny cï mat",
+   "date": "c. 1050–930 BC",
+   "one": "Nhialic ee lɛ̈k Dɛ̈uɣid: «Thoonydu abï tɔ̈u akölriëëc.»",
+   "people": "Caul · Dɛ̈uɣid · Tholomon",
+   "events": "Bɛ̈ny tueŋ Caul, Dɛ̈uɣid ku Goliath, aleeny Dɛ̈uɣid, Tholomon ee ɣön Nhialic yik",
+   "q": "Nhialic ee lɛ̈k Dɛ̈uɣid lɔn bï pande ku bäänyde tɔ̈u akölriëëc, ku bï thoonyde cɔl arial akölriëëc.",
+   "cite": "",
+   "christ": "«Thoony akölriëëc» acï tɛ̈ɛ̈u yic ë Jethu, mënh Dɛ̈uɣid — yen aa cɔl «mënh Dɛ̈uɣid» (Luk 1:32-33; Mathaai 1:1).",
+   "detail": "<p>Tɛ̈ nhial ë Itharel, ye bäny kadiäk cieŋ.</p><ul><li><b>Caul</b> · bɛ̈ny cï kɔc wïc; gɔ̈l path cï dhuɔ̈ŋ ë rɛ̈ɛ̈c.</li><li><b>Dɛ̈uɣid</b> · «raan la cök ë puɔu Nhialic». Ee Goliath duny ku cɔl Jeruthalem aa pany dït. Ee kärɛc dït looi (Bathseba) ku ee pɔ̈k puɔu ë puɔu.</li><li><b>Aleeny Dɛ̈uɣid</b> · Nhialic ee lɛ̈k lɔn bï bääny Dɛ̈uɣid cɔl arial akölriëëc — kuɛ̈r ë ŋɔ̈th ë Mathia.</li><li><b>Tholomon</b> · tɛ̈ nhial ë pɛl nhom ku athɛ̈k ee <b>ɣön Nhialic</b> yik, ku te thiɔ̈k yen ë thou ke jal le tënë yieth.</li></ul>",
+   "next": "Te cï Tholomon thou ke bääny tek rou…"
+  },
+  {
+   "tag": "ATHÖR THƐƐR · LA PINY",
+   "title": "Bääny cï tek",
+   "date": "930–586 BC",
+   "one": "Cï tek aɣeet (Juda) ku tueŋ (Itharel), dhiën ee lɔ dhuɔ̈ŋ.",
+   "people": "Bäny ë bääny kaarou; kɔc käk Nhialic tïŋ cït Elija, Itharaja, Jeremaja",
+   "events": "Bääny ee tek, luɔi yieth ee lɔ tueŋ, kɔc käk Nhialic tïŋ aa kɔc wɛ̈ɛ̈t",
+   "q": "Këya Itharel acï pan Dɛ̈uɣid jɔ̈ɔ̈ny aɣeet ëmën.",
+   "cite": "",
+   "christ": "Ë aköldä, kɔc käk Nhialic tïŋ aa Mathia bï bɛ̈n lueel apath ë lɔ tueŋ.",
+   "detail": "<p>Ë akölkä mënh Tholomon, dhiën ee tek: <b>bääny tueŋ ë Itharel</b> (dhiën 10, pany Thamaria) ku <b>bääny aɣeet ë Juda</b> (dhiën 2, pany Jeruthalem).</p><ul><li><b>Itharel (tueŋ)</b> · bɛ̈ny ëbën ë yieth lui; ee dhuɔ̈ŋ tënë Athuria run 722 BC.</li><li><b>Juda (aɣeet)</b> · dhiën Dɛ̈uɣid ee lɔ tueŋ, ke naŋ bäny path kɔ̈k cït Hethekia ku Jothia, ku ee lɔ piny.</li><li><b>Kɔc käk Nhialic tïŋ</b> · Elija, Amoth, Itharaja, Jeremaja aa cɔ̈ɔ̈t: «dhukkë!» Wɛ̈t Mathia ee ɣet tɛ̈ nhial tɛ̈n (lim cï rɛ̈ɛ̈c yök).</li></ul>",
+   "next": "Tethɛɛr yic ë luɔ̈k cï lɛ̈k abɔ̈ — aacï jɔt aa him…"
+  },
+  {
+   "tag": "ATHÖR THƐƐR · LUƆ̈K",
+   "title": "Jɔ̈ɔ̈t",
+   "date": "722 / 586 BC",
+   "one": "Dhiën ee dhuɔ̈ŋ ku jɔt aa him paan kɔ̈k.",
+   "people": "Daniel, Ethekiel, Nebukadnethar",
+   "events": "Itharel ee dhuɔ̈ŋ tënë Athuria (722), Juda ee dhuɔ̈ŋ tënë Babilon ku ɣön Nhialic ee dhuɔ̈ŋ (586)",
+   "q": "Tɛ̈ ye war Babilon thïn, tɛ̈n yen ye ɣok nyuc thïn ku dhiau, te cï ɣok Zion tak.",
+   "cite": "",
+   "christ": "Tɛ̈ nu kerac dït, Jeremaja ee lɛ̈k «aleeny yam» — aleeny ye Jethu thany ë cam akäc.",
+   "detail": "<p>Wɛ̈ɛ̈t aacï rot looi. Ɣön Nhialic ee nyop ku dhiën ee jɔt aa him Babilon — ke maar piny, bɛ̈ny, ku ɣön Nhialic: tɛ̈ la piny apɛɛc.</p><ul><li><b>Dhuɔ̈ŋ kaarou</b> · Itharel (Athuria, 722 BC) ku Juda (Babilon, 586 BC).</li><li><b>Daniel</b> · këgam ë gam ayadaa pan bäny ë yieth (ɣön köör); ee käk tïŋ ë «bääny akölriëëc» bï bɛ̈n.</li><li><b>Riäl ë ŋɔ̈th</b> · käk cï Ethekiel tïŋ ë yum cï col bï bɛ̈n pïr ku «aleeny yam» Jeremaja aanyooth wɛ̈t bï bɛ̈n ë col yic.</li></ul>",
+   "next": "Run kadhorom-thiäär te cï thok ke Nhialic ee kueer liep — ke lɔ paanden…"
+  },
+  {
+   "tag": "ATHÖR THƐƐR · DHUK",
+   "title": "Dhuk",
+   "date": "538–430 BC",
+   "one": "Aacï dhuk ku yik ɣön Nhialic ku kal.",
+   "people": "Ethra, Nehemia, Ether, Therubabel",
+   "events": "Dhuk ë löŋ Kuruth, yik ɣön Nhialic, yik kal Jeruthalem, dhuk ë Wɛ̈t",
+   "q": "Miɛt puɔu ë Bɛ̈ny ë riɛldun.",
+   "cite": "",
+   "christ": "Malaki, athör cök piny ë Athör Thɛɛr, ee thok ë lueel ë lim bï kueer Mathia guiir: «Ɣɛn ee tuɔɔc limdiɛ̈».",
+   "detail": "<p>Ë löŋ bɛ̈ny Pertha Kuruth (538 BC) ke dhuk ee gɔ̈l. Ë gɛ̈k kadiäk ke dhuk aa yik kä cï dhuɔ̈ŋ.</p><ul><li><b>Therubabel</b> · ee ɣön Nhialic yik (cï thol 516 BC).</li><li><b>Ethra</b> · ee Wɛ̈t piɔ̈ɔ̈c bɛ̈n ku cɔl gam aa jɔt.</li><li><b>Nehemia</b> · ee kal Jeruthalem yik ë nïn 52.</li><li><b>Ether</b> · ee Judai Pertha kony tënë dhuɔ̈ŋ — «ë akööl cït kënë».</li><li><b>Ŋot ke kɔɔr</b> · ɣön Nhialic ee kɔ̈ɔ̈c, ku acïn bɛ̈ny cït Dɛ̈uɣid. Dhiën ee Mathia tït.</li></ul>",
+   "next": "Ku jɔ… kecït nhial cï mim, ke run 400 thok."
+  },
+  {
+   "tag": "KÄM ATHÖR KAAROU · GUIIR LƆ̈Ɔ̈M",
+   "title": "Run ë lɔ̈ɔ̈m",
+   "date": "c. 430–4 BC",
+   "one": "Run 400 ke cïn rɔl ë raan käk Nhialic tïŋ — ku lɔ̈ɔ̈m ee guiir ë lɔ̈ɔ̈m.",
+   "people": "Alekthandar Dït, Makabi, Roma",
+   "events": "Pertha → Grik → bääny Makabi → bääny Roma",
+   "q": "Na wäär la nïn thök, go Nhialic Wënde tuɔ̈ɔ̈c pinynhom. Acï bɛ̈n kecït raan bï dhiëëth tik ë path. Ku muk löŋ kɔc Itharel,",
+   "cite": "Galatia 4:4",
+   "christ": "Guiir lɔ̈ɔ̈m kënë ëbën ë luɔi Nhialic, bï Jethu bɛ̈n ë «akölde cï thok».",
+   "detail": "<p>Tueŋ tënë Malaki agut Athör Yam, run kɔɔr 400 aa thok ke cïn athör yam. Ku tethok ë käk cï rot looi, Nhialic ee kueer Wɛ̈t Puɔth Yam guiir.</p><ul><li><b>Bääny ee waar</b> · Pertha → Grik (Alekthandar, 333 BC) → Ptolemi ku Theleukith → bääny Makabi (167 BC) → Roma (63 BC).</li><li><b>Thoŋ Grik</b> · duny ë Alekथandar ee thoŋ Grik cɔl aa thoŋ ëbën; Athör Thɛɛr ee gɛ̈r thoŋ Grik (Septuagint), guiir kueer ë Wɛ̈t Puɔth Yam bï lɔ tueŋ.</li><li><b>Kueer ku dɔ̈ɔ̈r Roma</b> · kueer cï yik apath ku «dɔ̈ɔ̈r Roma» aa cɔl aa kueer ë jam Wɛ̈t.</li><li><b>Ɣaar ku akuut</b> · piɔ̈ɔ̈c ɣaar ee tɛ̈ɛ̈u; Pharithai ku Thaduthai aacï bɛ̈n; ku <b>kɔɔr ë Mathia</b> ee dït.</li></ul>",
+   "next": "Ke nhial dhuɔ̈ŋ — tethɛɛr yic ee bɛ̈n."
+  },
+  {
+   "tag": "ATHÖR YAM · TƐ̈ƐU YIC",
+   "title": "Jethu ee bɛ̈n",
+   "date": "c. 4 BC–AD 30",
+   "one": "Mathia cï lɛ̈k acï bɛ̈n, thou, ku jɔt.",
+   "people": "Jethu, kɔc piööc kathiäär ku rou, Jɔn Baptith",
+   "events": "Bɛ̈n a raan, luɔide ku piɔ̈ɔ̈cde ku käk gɛiyic, thou ë tim cï rïïu kɔ̈u, jɔt ë aköl diäk",
+   "q": "Wɛ̈t acï bɛ̈n a raan ku ciëŋ ke ɣo. Ku diɛɛkde acuk tïŋ, diik Wën töŋ Nhialic. Ku ë yen bïï yic, ku liɛr puɔ̈u Nhialic tënë ɣo.",
+   "cite": "Jɔn 1:14",
+   "christ": "Mënh tik (käc 2), athɛ̈k Abaram (3), amɛ̈l paktha (4), bɛ̈ny Dɛ̈uɣid akölriëëc (6), aleeny yam (8) — käŋ ëbën aa tɛ̈ɛ̈u yic ë raan tök, Jethu: raan käk Nhialic tïŋ yic, bɛ̈ny ë lɛ̈k Nhialic, ku Bɛ̈ny yic.",
+   "detail": "<p>Nhial ee dhuɔ̈ŋ; Raan cï lɛ̈k ee bɛ̈n. Athör Wɛ̈t Puɔth Yam kaŋuan aa pïr Jethu, thoude, ku jɔtde lueel ë cien kaŋuan.</p><ul><li><b>Bɛ̈n a raan</b> · Nhialic ee bɛ̈n a raan (Immanuel, «Nhialic kek ɣo»), pan thiɔ̈k Bethlehem.</li><li><b>Luɔi</b> · ee bääny Nhialic piɔ̈ɔ̈c, ee kɔc tuany kony, ee kɔc kärɛc cɔɔl. «Raan cï ɣa tïŋ acï Wä tïŋ.»</li><li><b>Tim cï rïïu</b> · ee kepɛ̈ɛ̈c ë kärɛc ku thou cï bɛ̈n ë wäc (käc 2) cuat. Amɛ̈l paktha yic.</li><li><b>Jɔt</b> · jɔt ë aköl diäk, ee riɛl ë kärɛc, thou, ku Catan dui — ayadaa ë tim cï rïïu kɔ̈u acï «raan cï lɔc ku dɔc lääu nhom yök tënë jak la riɛl … ke cɔl abuɔth yecök» (Kolothai 2:15).</li></ul><p>Këya Jethu ë <b>raan käk Nhialic tïŋ</b>yic (anyooth kueer tënë Nhialic), <b>bɛ̈ny ë lɛ̈k Nhialic</b> yic (akony ë kärɛc ë guɔ̈pde), ku <b>Bɛ̈nyda</b> yic (ee kärɛc, thou, ku Catan dui ku cieŋ akölriëëc).</p>",
+   "next": "Jethu cï jɔt ee kɔckepiööc tuɔ̈ɔ̈c pinynhom…"
+  },
+  {
+   "tag": "ATHÖR YAM · LƆ TUEŊ",
+   "title": "Kanithɔ ee gɔ̈l",
+   "date": "c. AD 30–",
+   "one": "Wëi acï bɛ̈n, ku Wɛ̈t Puɔth Yam ee lɔ tueŋ ɣet thok ë pinynhom.",
+   "people": "Pïtɛr, Paulo, kanithɔ tueŋ",
+   "events": "Wëi cï luaŋ ë Pentekoth, kanithɔ ee dhiëëth, Wɛ̈t Puɔth Yam ee lɔ tueŋ tënë Jeruthalem ɣet Roma ë yäk",
+   "q": "Ku na la Wëi Nhialic bɛ̈n, ka bï we yiëk riɛl, ku wek aabï jam riɛnkiɛ̈ Jeruthalem ku Judia, ku Thamaria, ku jɔl a pinynhom ëbën.”",
+   "cite": "Apostle 1:8",
+   "christ": "Wɛ̈t kënë ŋot ë lɔ tueŋ. Athör Nhialic ee thok ë aleeny lɔn bï Jethu bɛ̈n bɛ̈n ku cɔl käŋ ëbën aa yam (Nyuɔ̈th 21).",
+   "detail": "<p>Te cï Jethu lɔ nhial, ke Wëi cï lɛ̈k ee bɛ̈n ë Pentekoth ku kanithɔ ee dhiëëth. Wɛ̈t Puɔth Yam ee lɔ tueŋ apɛɛc.</p><ul><li><b>Pentekoth</b> · Wëi ee kɔc piööc riɔ̈ɔ̈c cɔl aa kɔc jam ke cïn riɔ̈ɔ̈c.</li><li><b>Pïtɛr</b> · ee Wɛ̈t Puɔth Yam lɛ̈k Judai Jeruthalem.</li><li><b>Paulo</b> · raan yäk cï cɔl aa apostle, ee kanithɔ yik pan dhiën kɔ̈k ku ee awarɛ̈k gɔ̈t.</li><li><b>Ɣet thok ë pinynhom</b> · Jeruthalem → Juda → Thamaria → Roma. Aleeny cï gam Abaram ë «dhiën ëbën» ee rot looi.</li><li><b>Ku ɣook</b> · wɛ̈t acïï thok; ee lɔ tueŋ ɣet dhuk Jethu ku nhial yam ku piny yam.</li></ul>",
+   "next": "Ku wɛ̈t acïï thok tɛ̈n…"
+  },
+  {
+   "tag": "ATHÖR YAM · THOK",
+   "title": "Dhuk käŋ",
+   "date": "Ŋot ë bɛ̈n",
+   "one": "Jethu abï dhuk ku cɔl käŋ ëbën aa yam.",
+   "people": "Jethu bï dhuk; dhiën ëbën",
+   "events": "Dhuk diäk rou, luɔ̈k cök piny, thok ë kärɛc·thou·pïu, nhial yam ku piny yam",
+   "q": "Abï pïu wɛɛc wei kenyïn. Ku acïn raan bï bɛn thou acïn. Acïn raan bï puɔ̈u bɛn riääk ku dhiɛɛu, tɛ̈dë ke ben tɛ̈rem yök yeguɔ̈p cïmën thɛɛr, rin käŋ aacï röt waar.”",
+   "cite": "Nyuɔ̈th 21:4",
+   "christ": "Eden ë cak tueŋ acï tɛ̈ɛ̈u dhuk kecït «Jeruthalem Yam». Nhialic ee ciɛɛŋ kek kɔcke akölriëëc — tɛ̈ɛ̈u yic ë Immanuel (Nyuɔ̈th 21:3; Mathaai 1:23).",
+   "detail": "<p>Athör Nhialic acïï thok ë akööl kanithɔ. Athör cök piny, Nyuɔ̈th, anyooth Jethu <b>ye dhuk</b> bï käŋ ëbën thol.</p><ul><li><b>Dhuk diäk rou</b> · Bɛ̈ny cï lɛ̈k abɔ̈ ë diik.</li><li><b>Duny ë cök piny</b> · Catan ku thou aa dui akölriëëc, ku Krïtho ee cieŋ kecït Bɛ̈ny ë bäny (1 Korïntho 15:25-26; Nyuɔ̈th 20:10).</li><li><b>Luɔ̈k ku jɔt</b> · kärɛc ëbën ee cɔl la cök, ku kɔc cï thou aa jɔt.</li><li><b>Nhial yam ku piny yam</b> · kärɛc, thou, pïu, ku kerac aa thok akölriëëc (Nyuɔ̈th 21:4).</li><li><b>Eden cï dhuk</b> · ë «Jeruthalem Yam» path awën gɔ̈l, Nhialic ee ciɛɛŋ kek kɔcke akölriëëc — tɛ̈ ye Athör Nhialic ëbën lɔ thïn.</li></ul><p>Këya ëmën ë akööl ë <b>«acï guɔ rot looi, ku ŋot këc thok»</b>: ë Jethu kony acï <b>guɔ</b> looi, ku tɛ̈ɛ̈u yic ŋot ë <b>tït</b>.</p>",
+   "next": "Ke ye wɛ̈t kënë ëbën lueel tënë «ɣɛn»?"
+  }
+ ],
+ "love": [
+  "Wɛ̈t acïï gɔ̈l ë luɔ̈k, ee gɔ̈l ë cak cï looi ë nhiër.",
+  "Ë akäc cï kɔc kärɛc looi, ke Nhialic ee kony lɛ̈k tethɛɛr yic.",
+  "Nhialic ee bɛ̈n tueŋ tënë raan cïï roŋ, ee cɔɔl ë rinke, ku ee cɔl aa kuɛ̈r ë athɛ̈k.",
+  "Acï rɔl ë dhiën cï him piŋ ku ee bɛ̈n piny yetök bï keek kony.",
+  "Cï jɔ̈ɔ̈ny këë lɔ tueŋ, ku akäc cï kek cɔ̈ɔ̈t ëbën ee raan kony tuɔɔc ku ee keek jɔt.",
+  "Acïï Dɛ̈uɣid cï wäc kɔ̈th, ku ë yen ee bɛ̈ny akölriëëc lɛ̈k.",
+  "Tënë dhiën cï yen jɔ̈ɔ̈ny, ee kɔc käk Nhialic tïŋ tuɔɔc këë lɔ tueŋ, ke lɛ̈k: «Dhukkë paanduon.»",
+  "Acï lɔ kek keek ayadaa piny ë jɔ̈ɔ̈t cï col apɛɛc, ku ee dhuk lɛ̈k.",
+  "Ayadaa tënë dhiën cï wäc këë lɔ tueŋ, akëc aleenyde nɔ̈ŋ wei.",
+  "Ayadaa ë run 400 cï lɔ̈ɔ̈m, ke cïï tïŋ, ke guiir kueer ë kony.",
+  "Tɛ̈wäär ŋot ye ɣok kɔc kärɛc, ke tuɔɔc Wënde bï pïrde yiëk.",
+  "Nhiër cuk yök, ee tuɔɔc ëmën bï kueŋ pinynhom ëbën.",
+  "Tethɛɛr yic ee pïu ëbën wɛɛc wei ku cɔl käŋ ëbën aa yam ë nhiër."
+ ],
+ "mis": [
+  {
+   "w": "«Eŋö cï Nhialic kɔc cak, kɔc lëu bïk kärɛc looi? Ye cïï path bï ɣok cïï cak?»",
+   "t": "Nhialic acï pinynhom ku kɔc cak acie ë kë cïï yen naŋ, ee ë nhiër la nhom. Cak ë kɔc kecït <b>kɔc ye Nhialic ŋic</b> ee nhiër yetök. Ku ayadaa bɛ̈n ë kärɛc akëc lɔ bei ë wɛ̈t kony Nhialic (Epethɔ 1:4-5). Käc tueŋ ë Athör Nhialic acie luɔ̈k, ee nhiër."
+  },
+  {
+   "w": "«Cï ciɛɛc bei ku gam thou rin ë cam ë mïth tök — ye cïï Nhialic ril apɛɛc?»",
+   "t": "Ciɛɛc bei Eden ë luɔ̈k ku liɛr puɔu etök. Cam ë tim ë pïr ku pïr akölriëëc ë tɛ̈ dhuɔ̈ŋ kënë, cï tek kek Nhialic, ë lëu bï raan tɔ̈u ë kerac akölriëëc. Gam ë thou ee kueer dhuk liep, ku tethɛɛr Nhialic ee Raan kony lɛ̈k. Nhiër ë guɔ nu luɔ̈k yic."
+  },
+  {
+   "w": "«Abaram acï lɔc rin naŋ yen gam dït — ye kɔc Athör Nhialic ëbën acie kɔc piɛth ril?»",
+   "t": "Abaram acï lueth ku tʼur; Jakop ë raan ë riäl. Nhialic akëc kɔc «cï roŋ» cɔɔl, ee cɔɔl kɔc naŋ wäc, ë piathde. Wɛ̈t acie pathden, ee nhiër la cök ë Nhialic."
+  },
+  {
+   "w": "«Ye cïï Löŋ (käk cï lɛ̈k) ee them ye yïn dhil cam ba kony?»",
+   "t": "Nhialic acï keek kony <b>tueŋ</b> tënë gam ë Löŋ. Ayadaa löŋ kathiäär aa gɔ̈l ë lueel ë kony: «Ɣɛn ë Bɛ̈nydun Nhialic, raan cï we bɛ̈ɛ̈i bei Egypt.» Löŋ acie «muk ba kony», ee piɔ̈ɔ̈c la nhiër ë tɛ̈ bï dhiën cï guɔ kony pïr thïn. Piath ee bɛ̈n tueŋ akölriëëc; theek ee dhuɔ̈k."
+  },
+  {
+   "w": "«Dɔm ë piny Kanan ë nɔ̈k cïn liɛr puɔu — këya Nhialic ë Athör Thɛɛr ë ril.»",
+   "t": "Ee wɛ̈t ril cïï lëu bï thiɔ̈k ë wɛ̈t tök. Ku Athör Nhialic acïï tɛ̈ɛ̈u kecït yäk cïn nhom, ee tɛ̈ɛ̈u kecït luɔ̈k tethok ë liɛr puɔu ë run juëc tënë kärɛc dït apɛɛc (ku gɛm ë mïth). Nhialic ee la nhom ayadaa ë luɔ̈k, ku ee kɔc cï dhuk tënë ye dɔm ë miɛt puɔu — ayadaa kɔc pan kɔ̈k cït Rahab ku Ruth."
+  },
+  {
+   "w": "«Dɛ̈uɣid ë raan path cïn wäc — yen aa cɔl «raan la cök ë puɔu Nhialic».»",
+   "t": "Dɛ̈uɣid acï kärɛc ë tik ku ayadaa nɔ̈k looi. «Raan la cök ë puɔu Nhialic» acie lueel lɔn cïn wäc, ee raan cïï kärɛcke thiän — raan cï pɔ̈k puɔu apath ku ee dhuk tënë Nhialic këë lɔ tueŋ. Nhiër Nhialic acïï kɔc cï wäc apɛɛc nɔ̈ŋ wei."
+  },
+  {
+   "w": "«Kɔc käk Nhialic tïŋ aa kɔc lueel käk bï rot looi / Nhialic ë Athör Thɛɛr ë agɔ̈th yetök.»",
+   "t": "Puɔu ë raan käk Nhialic tïŋ acie «lueel käk bï rot looi», ee cɔ̈ɔ̈t Nhialic ë puɔu rac: «Dhukkë.» Ayadaa wɛ̈ɛ̈t ë luɔ̈k acïï kɔɔr dhuɔ̈ŋ, aa kɔɔr ë dhuk ë kɔc ku konyden — «ɣɛn cïï miɛt yök ë thou raan kärɛc»."
+  },
+  {
+   "w": "«Jɔ̈ɔ̈t ee nyuɔ̈th lɔn cï Nhialic Itharel nɔ̈ŋ wei apɛɛc.»",
+   "t": "Jɔ̈ɔ̈t acie nɔ̈ŋ wei, ee wɛ̈ɛ̈t ku waar ë mënh nhiɛɛr (Hibru 12:6). Nhialic akëc jal; ee tɔ̈u kek Daniel ë puɔu yic ë jɔ̈ɔ̈t ku ee lɛ̈k: «Ɣɛn aŋic wɛ̈t cï ɣɛn tak riɛnkun — wɛ̈t ë dɔ̈ɔ̈r, acie ë rɛ̈ɛ̈c, bï yiëk we akölköni ku ŋɔ̈th.»"
+  },
+  null,
+  {
+   "w": "«Tɛ̈ cïn wɛ̈t ë run 400, ke Nhialic acï jal tɛ̈dë acï lɔ̈ɔ̈ŋ.»",
+   "t": "Lɔ̈ɔ̈m acie jal. Akëc jam yetök, ku ee bääny, thook, ku kueer waar akölriëëc bï lɔ̈ɔ̈m guiir ë kony. Ë akäc lɔ̈ɔ̈m apɛɛc, ke Nhialic ee luui apɛɛc, ë nhiër (Galatia 4:4)."
+  },
+  {
+   "w": "«Jethu ë raan piɔ̈ɔ̈c path yetök / tim cï rïïu ë dui rac.»",
+   "t": "Jethu ee lueel lɔn ye yen Nhialic yetök, ku tim cï rïïu acie wɛ̈t cï rot looi tɛ̈dë dui, ee nhiër cï guiir. Akëc nɔ̈ŋ thïn ë riɛl; ee pïrde yiëk yetök (Jɔn 10:18). «Nhiɛ̈rdït tet lëu raan bï yiëk mäthke, ee gɛm wɛ̈ike ë riɛnken» (Jɔn 15:13)."
+  },
+  {
+   "w": "«Kanithɔ ee akut ë kɔc path tɛ̈dë ee ɣön yetök.»",
+   "t": "Kanithɔ acie akut ë «kɔc cï thol», ee akut ë <b>kɔc kärɛc cï pɔ̈l</b>. Ayadaa apostle Paulo ee cɔɔl rot «raan wat kɔc rɛc nhïïm» (1 Timothï 1:15). Kanithɔ tueŋ aacï teer ku wuɔ̈c aya (Apostle 6:1; 1 Korïntho 1:11). Acie tɛ̈ ye raan röt leec thïn, ee kɔc gɛm nhiër cï kek yök (Jɔn 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Kärɛc cï dhiëëth — acïn raan la cök",
+   "body": "Wɛ̈t acie «luɔi kärɛc thiin», ee meei ë puɔu. Tueŋ tënë Adam, raan ëbën ee dhiëëth ë kärɛc yic ku acïï lëu bï ɣeet Nhialic yetök.",
+   "vref": "Romandï 3:10-12, 23",
+   "vtext": "cïmën ye athör thɛɛr wël Nhialic ye lueel ëlä,“Acïn raan töŋ la cök, acïn raan käŋ deet yiic, acïn raan wïc yeen bï Nhialic ŋic. Kɔc aacï kekɔ̈th wɛ̈l Nhialic, keek aacï rɛ̈ɛ̈c ëbën ka cï la bïth,acïn raan këpath looi, acïn mën raan tök.”… Ku rin cï kek ëbën kärɛc looi, ee keek cɔl amec tënë duaar Nhialic."
+  },
+  {
+   "title": "Löŋ acïï ɣa lëu bï kony",
+   "body": "Löŋ acie kueer la nhial, ee maja. Tɛ̈ them yïn apath, ke ye nyuɔ̈th lɔn la cök yïn piny. Wɛ̈tde ë cɔl ɣok aa muk tënë Krïtho.",
+   "vref": "Romandï 3:20 · Galatia 3:24",
+   "vtext": "Këya, acïn raan bï la cök Nhialic nhom tɛ̈ cɔk yen ye them bï kë wïc löŋ looi. Kë ye löŋ looi ë lɔn bï nyuɔ̈th raan lɔn cï yen kërac looi. Ku ë löŋ yen ë muk kɔc ɣet tɛ̈ bï Raan cï lɔc ku dɔc bɛ̈n bï ɣo bɛ̈n cɔ̈k piny Nhialic nhom, rin cï ɣok wɛ̈tde gam."
+  },
+  {
+   "title": "Ë piath — miɔ̈c, acie luɔi",
+   "body": "Kony acie ariɔ̈p ë luɔi cï yïn looi, ee miɔ̈c ë path tënë kɔc cïï roŋ. Këya acïn raan lëu bï röt leec.",
+   "vref": "Epethɔ 2:8-9",
+   "vtext": "Rin ë piath Nhialic yen acï we kony bäk pïr rin cï wek wɛ̈t Jethu gam. Ee miɔ̈c Nhialic yen acɔl we agam Jethu. Pïr cuk yök acie rin ë luɔida ë röt nadë ke ɣo nhiam ye."
+  },
+  {
+   "title": "Cɔl la cök ë gam",
+   "body": "Acie ë theek ë Löŋ, ee ë gam Jethu Krïtho, ke ye yïn cɔl la cök — cï ruak acie ë cökdu yetök, ee ë cök ë yen.",
+   "vref": "Romandï 5:1 · Galatia 2:16",
+   "vtext": "Këya rin gamda Nhialic acï ɣo cɔl ala cök tënë ye, ku ɣok aala dɔ̈ɔ̈r kek ye rin Bänyda Jethu raan cï lɔc ku dɔc. Ee këya, aŋicku lɔn ë ŋɔ̈th Jethu, yen ë raan cɔl ala cök Nhialic nhom… ku acie thɛ̈k löŋ thɛɛr yen kɔc cɔ̈k piny Nhialic nhom."
+  },
+  {
+   "title": "Athör Nhialic anyooth Jethu",
+   "body": "Athör Nhialic acie athör ë kɔc dït tɛ̈dë athör ye raan röt kony. Tueŋ tënë Genethith ɣet Nyuɔ̈th, athör ëbën anyooth raan tök — Jethu Krïtho.",
+   "vref": "Jɔn 5:39 · Luk 24:27",
+   "vtext": "“Athör Nhialic ayakë kueen, rin ye wek ye tak lɔn bäk pïr akölriëëc yök thïn. Ku keek aya aa jam ë riɛnkiɛ̈! Ku tët Jethu ke käk cï lueel riɛnke wël thɛɛr Nhialic yiic, jɔɔk athör Mothith agut käk cï kɔc käk Nhialic tïŋ gɔ̈t."
+  },
+  {
+   "title": "Bääny Nhialic — wɛ̈t puɔu yic ë Jethu",
+   "body": "Wɛ̈t ye Jethu piɔ̈ɔ̈c apɛɛc. Bääny Nhialic kecït Bɛ̈ny acï bɛ̈n pinynhom kënë ë Jethu ku abï thol te dhuk yen. Ë tim cï rïïu kɔ̈u ku jɔtde, Jethu ë Bɛ̈ny yic ë dui ë kärɛc, thou, ku Catan.",
+   "vref": "Mark 1:15",
+   "vtext": "Ke ye lueel, “Aköl la cök acï bɛ̈n, bääny Nhialic athiɔ̈k! Pälkë luɔi kärɛc ku gamkë Wɛ̈t Puɔth Yam.”"
+  },
+  {
+   "title": "Wɛ̈t Puɔth Yam — ee käŋ ëbën thol",
+   "body": "Kepɛ̈ɛ̈c ë kärɛc cïï ɣɛn lëu ba cuat, Jethu acï cuat kepɛ̈ɛ̈ckiɛ̈ ë tim cï rïïu kɔ̈u, ku ë jɔtde ee thou dui. Ɣɛn cïï tɔ̈u ë «loi kënë» nhom, ee tɔ̈u ë «acï thääp» nhom.",
+   "vref": "Jɔn 19:30 · Romandï 5:8",
+   "vtext": "Nawën cï Jethu muɔ̈n wac jooc ke lueel, “Wɛ̈t acï thääp.” Ku gut yenhom piny ku thou. Ku Nhialic acï nhiër nhiɛɛr yen ɣo nyuɔɔth ë kënë yic, rin tɛ̈wäär ŋot ye ɣok kɔc la gup adumuɔ̈ɔ̈m, Raan cï lɔc ku dɔc acï thou riɛnkua."
+  }
+ ],
+ "books": {
+  "Mathaai": "MAT",
+  "Mark": "MRK",
+  "Luk": "LUK",
+  "Jɔn": "JHN",
+  "Apostle": "ACT",
+  "Romandï": "ROM",
+  "1 Korïntho": "1CO",
+  "2 Korïntho": "2CO",
+  "Galatia": "GAL",
+  "Epethɔ": "EPH",
+  "Pilipi": "PHP",
+  "Kolothai": "COL",
+  "1 Thethalonika": "1TH",
+  "2 Thethalonika": "2TH",
+  "1 Timothï": "1TI",
+  "2 Timothï": "2TI",
+  "Tïto": "TIT",
+  "Pilemon": "PHM",
+  "Hibru": "HEB",
+  "Jakop": "JAS",
+  "1 Pïtɛr": "1PE",
+  "2 Pïtɛr": "2PE",
+  "1 Jɔn": "1JN",
+  "2 Jɔn": "2JN",
+  "3 Jɔn": "3JN",
+  "Juda": "JUD",
+  "Nyuɔ̈th": "REV"
+ },
+ "yv": 242,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

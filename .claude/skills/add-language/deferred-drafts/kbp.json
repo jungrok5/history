@@ -1,0 +1,382 @@
+{
+ "menuName": "Kabɩyɛ",
+ "htmlLang": "kbp",
+ "dir": "ltr",
+ "brand": "Ɛsɔtɔm Takayaɣ kɩbɩnzɩ kʋɖʋmzɩ taa",
+ "docTitle": "Ɛsɔtɔm Takayaɣ kʋɖʋmaɣ taa · Lɩzʋʋ nɛ piwolo Ɛsɔ sɛtʋ ɛgbɛyɛ yɔɔ",
+ "share": {
+  "title": "Ɛsɔtɔm Takayaɣ kʋɖʋmaɣ taa",
+  "text": "Kʋɖʋmaɣ taa, na Ɛsɔtɔm Takayaɣ tɔm sɔsɔtʋ — nɛ mbʋ pʋyɔɔ Yesu kɔma yɔ."
+ },
+ "ui": {
+  "people": "Ɛyaa",
+  "events": "Mbʋ pɩlaba pɩcɛyaa yɔ",
+  "christLabel": "Pɩwɩlɩɣ Yesu",
+  "loveLabel": "Sɔɔlɩm mbʋ pɩɩsɩŋ yɔ",
+  "mythWrong": "Maɣzɩm kɩdɛkɛdɩm mbʋ payaɣ yɔ",
+  "mythRight": "Toovenim taa",
+  "more": "Kalɩ nɛ pɩkɩlɩ",
+  "version": "(KABI)"
+ },
+ "labels": {
+  "start": "Ɖijɖiye",
+  "thread": "Tɔm",
+  "gospel": "Laŋhɛzɩyɛ Tɔm",
+  "about": "Takayaɣ kanɛ kɔ-yɔɔ"
+ },
+ "s": {
+  "ui.share": "↗ Tayɩ",
+  "ui.toast": "Pakpaɣ ɖama kpɛlɩ tɔm 📋",
+  "ui.footer": "Ɛsɔtɔm Takayaɣ kʋɖʋmaɣ taa · Ɛsɔtɔm Takayaɣ tɔm lɩnɩ KABI taa",
+  "hero.kicker": "LƖZƲƲ NƐ PIWOLO ƐSƆ SƐTƲ ƐGBƐYƐ YƆƆ",
+  "hero.title": "Ɛsɔtɔm Takayaɣ,<br><span class='em'>kʋɖʋmaɣ taa</span>",
+  "hero.sub": "Kʋɖʋmaɣ taa, na Ɛsɔtɔm Takayaɣ tɔm sɔsɔtʋ — nɛ mbʋ pʋyɔɔ Yesu kɔma yɔ.",
+  "hero.cue": "Tɩbɩ tɛɛ<span>↓</span>",
+  "thread.eyebrow": "TƆM PIYE KƲƊƲMTƲ NDƲ TƖKPƐNDƖ PƖTƖŊA YƆ",
+  "thread.h2": "Pɩtɛm lɛ, Ɛsɔtɔm Takayaɣ kɛ tɔm kʋɖʋmtʋ ɖeke",
+  "thread.flow": "<b>Tamaɣ</b><span class='arw'>→</span><b>Ɖaŋʋʋ</b><span class='arw'>→</span><b>Talʋʋ</b>",
+  "thread.note": "Ɛsɔ <b>haɣ tamaɣ</b> (ɛgbaɣdʋʋ), ɛyaa <b>ɖaŋɩɣ</b> alɩwaatʋ sakɩyɛ, nɛ pɩtɛm lɛ pɩtɩŋa <b>tala</b> nɛ pɩma ɖeɖe Yesu taa. Tɩŋ pee 13 wena awɛ tɛɛ yɔ a-wayɩ nʋmɔʋ ŋgʋ kɩ-taa — kpaɣ takayaɣ hɔɔlʋʋ kʋɖʋmʋʋ ŋgʋ kɩ-yɔɔ <b>«Kalɩ nɛ pɩkɩlɩ»</b> se ŋna tɔm ndʋ tɩwɛ pɩ-tɛɛ yɔ.",
+  "gospel.eyebrow": "TƆM TƲNƐ TƖ-TƆBƲƲ LƐ SUWE «MA» YƆƆ",
+  "gospel.h2": "Ɛsɔtɔm Takayaɣ laŋɩyɛ toovenim ñɩnɖɛ",
+  "gospel.lead": "Ɛsɔtɔm Takayaɣ <b>tɛkɛ takayaɣ ŋga kawɩlɩɣ se «la ɛyʋ kɩbanʋ» yɔ.</b>",
+  "gospel.sublead": "Kɛkɛ tɔm ndʋ tɩwɩlɩɣ ɛzɩma Ɛsɔ <b>lootiye ɖeke yɔɔ</b> ya kɩwɛɛkɩm laɖaa mba paapɩzɩɣ pa-tɩ yabʋ kpa yɔ pa-ñʋʋ yɔ. Pɩ-hɛkʋ taa lɛ, Yesu Krɩstʋ wɛna.",
+  "gospel.mirror": "<h3>Izrayɛɛlɩ piliŋa ŋga kɛfɛyɩnɩ tɛm yɔ, kɛkɛ «ma» kɩlɛmʋʋ siŋŋ</h3><div class='cycle'><b>Sɩɩnaa layʋʋ</b><span class='a'>→</span><b>Kʋñɔŋ</b><span class='a'>→</span><b>Kubuu</b><span class='a'>→</span><b>Ɛsɔ yaɣ ñʋʋ</b><span class='a'>→</span><b>Sɩɩnaa layʋʋ ɖɔɖɔ…</b></div><p>Kpaɣnɩ Tɔm hʋyaa alɩwaatʋ nɛ piwolo yom ñɩɣyʋʋ taa, Izrayɛɛlɩ tasɩ piliŋa kanɛ labʋ tam tam. Pataama tɔm tʋnɛ se ɖɩwoŋ-wɛ se: «Pɛkɛ kʋñɔndɩnaa siŋŋ.»</p><p>Kɛkɛ <b>kɩlɛmʋʋ</b>. Tɔbʋʋ tɛkɛ «Izrayɛɛlɩ labɩ mbʋ» ɛlɛ <b>«ma maɣmaɣ malakɩ mbʋ ɖɔɖɔ»</b> (1 Kɔrɛntɩ 10:11).</p><p><b>Sɩɩnʋ</b> tɛkɛ pɩlaŋ ŋgʋ palu yɔ kʋ-ɖeke. Kɛkɛ <b>pɩtɩŋa payɩ mbʋ ɖɩsɔɔlaa yaa ɖɩwɛnɩ lidaʋ pɩ-yɔɔ nɛ pɩkɩlɩ Ɛsɔ yɔ</b> — liidiye, ñʋʋ kuʋ, ɛyaa pa-laŋɩyɛ hɛzʋʋ, ɛyaa, halɩ ma maɣmaɣ. Nɛ Ɛsɔ tʋmɩyɛ labɩnʋʋ <b>ɛzɩ wɩlɩtʋ se ɖihiɣ mbʋ ɖɩsɔɔlaa yɔ</b>, mbʋ ɖɔɖɔ kɛ sɩɩnaa layʋʋ.</p><p class='punch'>Pɩtɛm lɛ, sɩɩnʋ sɔsɔ kɩlɩɣ ñɩnʋ lɛ «ma maɣmaɣ, ŋga macaɣ Ɛsɔ kewiyaɣ kpelaɣ yɔɔ yɔ».</p>",
+  "gospel.coreIntro": "Ɛzɩma Ɛsɔ kaɣ kɩwɛɛkɩm laɖʋ ɛnʋ ñʋʋ yabʋ? Cɔnɩ Laŋhɛzɩyɛ Tɔm laŋɩyɛ ndʋ Ɛsɔtɔm Takayaɣ susuu yɔ.",
+  "gospel.crux": "<p class='crux-lead'>Ɛsɔtɔm Takayaɣ kpeekpe wɩlɩɣ lone kʋɖʋmɖɩyɛ.</p><p>Ɛyʋ taapɩzɩ ɛ-maɣmaɣ se ɛsɛtɩ kɩwɛɛkɩm piliŋa nɛ kʋtʋʋzʋ nɔɔyʋ taawɛɛ. Pʋ-yɔɔ pɩwɛɛ se nɔɔyʋ <b>ɛhɛyɩ liidiye pa-lone taa</b>.</p><p>Yesu taakɔɔ se ɛwɩlɩ wɩlɩtʋ kɩbandʋ ɖeke. Ɛzɩma nʋmɔʋ lɛɛkʋ taawɛɛ se pɩya ma-ñʋʋ yɔ, <b>pɩtaakɛna se ɛkɔɔ.</b></p><p class='crux-punch'>Weyi pɩɩwɛɛ se ɛɖɩɣ kaamaŋkaɣ ŋga kɔ-yɔɔ yɔ, <b>maamaɣmaɣ</b>.<br>Yesu sʋ ma-kɩwɛɛkɩm nɛ pakam-ɩ peeɖe ma-lone taa.</p><div class='crux-verse'>«Pakam-ɩ kaamaŋkaɣ yɔɔ lɛ, ɛmʋ ɖa-kɩwɛɛkɩm nɛ pʋwɛɛ ɛ-yɔɔ. Ɛlabɩ ḿbʋ́ se ɖɩsɩ ɖa-kɩwɛɛkɩm labʋ taa nɛ ɖɩwɛɛ wezuu nɛ ɖɩla mbʋ́ pʋtʋʋzaa yɔ. Ɛ-kɩcɩkpɩŋ yɔɔ pɩtɩŋnaa nɛ mɩ-yɔɔ cɛ.» — 1 Pɩyɛɛrɩ 2:24</div>",
+  "faq.h": "Tɔm nakʋyʋ wɛɛ nɛ kɩcɛyɩɣ-ŋ?",
+  "faq.q1": "<span class='arr'>▸</span> Pʋ-tɔbʋʋ se ɛyʋ kʋyʋ pɩwɛɛ se etisi ɖeke lɛ ɛkpa ɛsɔdaa, ŋgʋ ɛyʋ kɩbanʋ weyi ɛtisiɣ yɔ ewolo miŋ taa?",
+  "faq.a1": "<p>Pɩkɛ tɔm pɔɔyʋʋ siŋŋ. Ɛlɛ maɣzɩm kɩdɛkɛdɩm naalɛ mɛsɩ pɩ-taa.</p><p><b>① Ɛsɔtɔm Takayaɣ taatayɩ ɛyaa se «kɩbama nɛ kɩdɛkɛdaa».</b> Maɖʋʋ tɛkɛ «ɛkɩlɩ ɛ-cɔlɔ tʋ» ɛlɛ «Ɛsɔ kele kele wɛtʋ ndʋ tɩtalɩ pilim yɔ». Ɛ-ɛsɩndaa lɛ, nɔɔyʋ fɛyɩ se «ɛtalɩ pilim» (Roma 3:23). Pʋ-tɔbʋʋ se tɛkɛ «ɛyʋ kɩbanʋ nɛ ɛyʋ kʋyʋ» ɛlɛ pɩwɛ ɛzɩ ɛyaa naalɛ mba kʋdɔŋ kɩdɛkɛdʋʋ kʋɖʋmʋʋ wɛnɩ-wɛ yɔ — kʋɖʋm mʋ kɔɔnaɣ, lɛlʋ kizaa nɛ ɛtɔ se: «Mɛwɛ ɖeu nɛ pɩkɩlɩ ɛnʋ.»</p><p><b>② Kʋɖʋmʋʋ ɖeke tayɩɣ ɛsɔdaa nɛ miŋ taa.</b> Tɛkɛ tʋma maɖʋʋ, ɛlɛ <b>se ŋmʋ Yesu Krɩstʋ ɛzɩ Kɩpaɣlʋ nɛ ña-kɩwɛɛkɩm kala kɛ ɖɔkʋʋ.</b> Weyi ɛ-kɩwɛɛkɩm tɛm ɖɔkʋʋ Krɩstʋ calɩm taa yɔ ewoki ɛsɔdaa; weyi ɛɛmʋ-ɩ kpa nɛ ɛ-kɩwɛɛkɩm caɣ yɔ, ewoki ɛsɔdaa. Tʋma kɩbana sakɩyɛ ɛɛpɩzɩɣ se aɖɔkɩ kɩwɛɛkɩm kala ańɩ.</p><p>Ɛsɔtɔm Takayaɣ yɔɔdɩ-tʋ kaɣlaa: <b>«Weyi ɛwɛnɩ lidaʋ Ɛsɔ Pɩyalʋ yɔɔ yɔ, Ɛsɔ ɛɛhʋʋnɩ-ɩ nɛ ɛkʋ ɛ-tɔm. Ɛlɛ́, weyi ɛ́lɛ́ fɛyɩnɩ lidaʋ ɛ-yɔɔ yɔ, Ɛsɔ tɛm-ɩ hʋnaʋ nɛ ɛkʋ ɛ-tɔm. Mbʋ́ pʋyɔɔ yɔ, ɛfɛyɩnɩ lidaʋ ɛ-yɔɔ, ŋgʋ́ ɛnʋ lɛ ɛ-Pɩyalʋ ɛgbamɩyɛ.»</b> (Yohanɛɛsɩ 3:18).</p><p class='faq-v'>Roma 3:23 · Yohanɛɛsɩ 3:18 · Efɛɛzɩ 2:8-9</p>",
+  "faq.q2": "<span class='arr'>▸</span> Mantɩpɩzɩ se mɛwɛɛ wezuu kɩbaŋʋ ɖeke nɛ mantisi Yesu yɔɔ?",
+  "faq.a2": "<p>Pɩkɛ maɣzɩm mbʋ ɛyaa sakɩyɛ wɛnaa yɔ, ɛlɛ pɩtɩnɩ kala wena awɛ toovenim taa yɔ a-tɔbʋʋ. Cɔnɩ kɩlɛmʋʋ kʋnɛ.</p><p><b>Yele ŋwɛ mɩlaa kpɩyɩŋ kʋyʋmʋʋ taa.</b> Paa ŋlakɩ ɛzɩma ŋñazɩɣ kpɩyʋʋ taa, ŋlakɩ kɩbandʋ tʋmlaɖaa, ña-wezuu wɛ ɖeu yɔ — ŋkɛ <b>mɩlʋ</b>, mbʋ pʋyɔɔ yɔ kpɩyʋʋ kpɛɣ-ŋ nɛ kiwoni-ŋ ɖenɖe kiɖiɣni wobu yɔ (tɔm hʋʋ lɔɔɖɛ). Kala tɛkɛ «tʋma maɖʋʋ» ɛlɛ <b>«kpɩyʋʋ ŋgʋ ŋkɛ kʋ-tʋ yɔ» (ñe-ɖoŋ)</b>.</p><p>Pʋ-yɔɔ Laŋhɛzɩyɛ Tɔm tɔŋ se <b>«lɛɣzɩ kpɩyʋʋ.»</b> Lɩɩ kɩwɛɛkɩm kpɩyʋʋ taa nɛ ŋwolo Yesu cɔlɔ — ɖoŋ kɩfalʋʋ ndʋ tɩkɛ <b>Ɛsɔ pɩyalʋ</b> yɔ tɩ-taa.</p><p>Toovenim taa, Ɛsɔtɔm Takayaɣ wɩlɩɣ ñʋʋ yabʋ ɛzɩ lɛɣzʋʋ mbʋ yɔ: <b>«Ɛlɩzɩ-ɖʋ cɩkpɛndʋʋ ɖoŋ taa nɛ ewoni-ɖʋ ɛ-Pɩyalʋ kʋsɔɔlʋ kewiyaɣ taa.»</b> (Kolosɩ 1:13).</p><p>Taamaɣzɩ kɩdɛkɛdɩm: <b>pʋ-tɔbʋʋ tɛkɛ se wezuu kɩbaŋʋ fɛyɩ wazaɣ.</b> Kɩbandʋ tɛkɛ ñʋʋ yabʋ «paɣtʋ» ɛlɛ kɩ-<b>pee</b>. Weyi ɛlɛɣzɩ kpɩyʋʋ yɔ, lɛɛlɛɛyɔ ɛwɛ wezuu kɩbaŋʋ pɩtɩnɩ sɔɔndʋ ɛlɛ pɩlɩnɩ pɩɣa sɔɔlɩm yɔɔ.</p><p class='faq-v'>Kolosɩ 1:13 · Yohanɛɛsɩ 1:12</p>",
+  "faq.q3": "<span class='arr'>▸</span> Ye kɩdɛkɛdʋʋ laɖʋ ɛwɛnɩ laŋɩyɛ hɛzʋʋ nɛ ɛtɔŋ se «Ɛsɔ kpɛlɩkɩ-m» ŋgʋ weyi pɔlɔ-ɩ kʋñɔŋ taa yɔ ɛwɛɛ nɛ ɛtɔɔ kʋñɔŋ yɔ, pɩwɩlɩɣ se lootiye liidiye fɛyɩ siŋŋ?",
+  "faq.a3": "<p>Tɔm tʋnɛ tɩkɛ siŋŋ nɛ kʋñɔŋ ɖɔɖɔ kɛ toovenim. Ɛlɛ tɔm ndʋ tɩ-taa tʋ yɔɔdʋʋ yɔ tɛkɛ «Ɛsɔtɔm Takayaɣ kpɛlɩkʋʋ» — pɛlɛɣzɩ-tʋ kɩlɛɣzɩtʋ.</p><p><b>① Ɛsɔ kpɛlɩkʋʋ tɛkɛ liidiye fɛyɩ wiɖiyi.</b> Pataamɛsɩ kɩwɛɛkɩm ɛzɩ tɩtaala yɔ; Ɛsɔ maɣmaɣ hɛyɩ kɩ-liidiye nɛ ɛ-Pɩyalʋ wezuu. Kaamaŋkaɣ tɛkɛ aseɣɖe se pakpaɣ kɩwɛɛkɩm fɛɛyɛ, ɛlɛ se kɩwɛɛkɩm yuŋ kɩlaa — kɛkɛ kpɛlɩkʋʋ mbʋ pɩ-liidiye kɩlɩ ɖoŋ kedeŋa kpeekpe yɔɔ yɔ.</p><p><b>② Wɛtʋ lɛɣzʋʋ toovenim ñɩŋtʋ lʋlʋʋ pee.</b> Ye kɩdɛkɛdʋʋ laɖʋ ɛkʋndʋʋ weyi pɔlɔ-ɩ kʋñɔŋ taa yɔ ɛ-ɛsɩndaa — «Ɛsɔ kpɛlɩkɩ-m, pʋ-yɔɔ laŋɩyɛ hɛzɩ-m» — pɩtɛkɛ wɛtʋ lɛɣzʋʋ ɛlɛ kɩ-maʋ. Nɛ kpɛlɩkʋʋ ɛyʋ nɛ Ɛsɔ pɛ-hɛkʋ taa ɛɛhɩzɩɣ weyi pɔlɔ-ɩ kʋñɔŋ taa yɔ ɛ-laŋɩyɛ wɩzasɩ.</p><p><b>③ Pataayeki kɩwɛɛkɩm ɛɖɛɛ falaa.</b> Pɛhɛyɩɣ kɩwɛɛkɩm kɩ-tɩŋa lone kʋɖʋmɖɩyɛ naalɛ taa — <b>yaa Krɩstʋ sʋ-kʋ kaamaŋkaɣ yɔɔ</b>, yaa <b>weyi ɛkizi-ɩ tam yɔ ɛ-maɣmaɣ ɛsʋ-kʋ.</b> Pʋ-yɔɔ «kpɛlɩkʋʋ liidiye fɛyɩ» ñɩŋ taawɛɛ.</p><p><b>④ Weyi pɔlɔ-ɩ kʋñɔŋ taa yɔ ɛ-aŋ ɛɛkɛ pʋyʋ Ɛsɔ ɛsɩndaa.</b> Ɛsɔ wiɣ nɛ mba pawiɣ yɔ, ɛtɔzʋʋ ɛsɩtɛɣlɩm tɩŋa yɔɔ nɛ ɛkaɣ-pɩ hɛzʋʋ pɩtɛm lɛ (Natʋ 21:4). Pʋ-yɔɔ pɩtɩpɔzɩ se weyi pɔlɔ-ɩ kʋñɔŋ taa yɔ ɛ-maɣmaɣ ɛhɛyɩ ɛyaa, ɛlɛ ɛpɩzɩɣ ɛkpaɣ-pɩ nɛ ɛɖʋ Ɛsɔ kʋtʋʋzʋ niŋ taa (Roma 12:19 — «Mɛhɛyɩɣnɩ ɛyáa mbʋ́ palabɩ pɩfɛyɩ ɖeu yɔ»).</p><p class='faq-v'>Natʋ 21:4 · Roma 12:19</p>",
+  "faq.q4": "<span class='arr'>▸</span> Ɛsɔtɔm Takayaɣ kɛ toovenim tɔm na? Pɩwɛ ɛzɩ tɔm kɩbɩndʋ yaa takayaɣ kɛlɛ.",
+  "faq.a4": "<p>Pɩkɛ tɔm pɔɔyʋʋ siŋŋ — nɛ ɖijɖiye kɩbanɖɛ. Sʋʋtʋ tɛkɛ tisuu kataɣ ɛlɛ kɛkɛ sɔɔlɩm se ŋtazɩ tɔm taa toovenim. Ɛsɔtɔm Takayaɣ tɛkɛ tɔm kɩbɩndʋ ndʋ «pitisiɣ ye ŋsɔɔlɩ yɔ», ɛlɛ kɛkɛ tɔm ndʋ pama <b>ageeta, kɩyakɩŋ nɛ ɛyaa mba paawɛ toovenim taa yɔ</b> pɔ-yɔɔ.</p><p><b>① Tɛkɛ takayaɣ kʋɖʋmaɣ ɛlɛ kɛkɛ «takayɩsɩ ɖɩsɩ» — ŋgʋ kɛɖɛɣ tɔm kʋɖʋmtʋ yɔɔ.</b> Ɛsɔtɔm Takayaɣ kɛ takayɩsɩ 66 kpeɣlʋʋ mbʋ pama-sɩ pɩnzɩ ɛzɩ 1500 taa, mayaa ɛzɩ 40 mba pama-sɩ yɔ — awiya, ninɖiɣyaa, kpaɣyaa, lambuu mʋyʋ, ɖɔkɔtɔ tʋ, ɛyaa ndɩ ndɩ mba pama tɛtɛ nɛ patɩsɩm ɖama yɔ, kʋnʋmɩŋ naadozo taa. Ŋgʋ pɩtɩŋa payɩ pɩkpɛndɩ tɔm kʋɖʋmtʋ yɔɔ: <b>ñʋʋ yabʋ Krɩstʋ taa</b>.</p><p><b>② Tɛtʋ taa wondu sɔsɔɔndɛ wɩlɩɣ se pɩkɛ toovenim.</b> Wondu sakɩyɛ ndʋ payaɣaɣ se «pɩma Ɛsɔtɔm Takayaɣ taa ɖeke» yɔ, pʋwayɩ pana-tʋ tɛtʋ taa.</p><p><b>③ Mbʋ pama nɛ pɩɖɛɛnɩ ɛzɩ paayɔɔdʋʋ yɔ (natʋ tɔm).</b> Pama tɔm ndʋ pɩnzɩ sakɩyɛ pʋcɔ Yesu kɔɔ yɔ, tɩwɩlɩ ɛ-lʋlʋʋ Bɛtɩlɛhɛm taa nɛ kaamaŋkaɣ tɔm. Tɩtʋʋzaa pɩdɩɩfɛyɩ se pɩkɛ liɖe.</p><p>Pɩtʋʋ fɛyɩ se tisuu Ɛsɔtɔm Takayaɣ taa <b>tɛkɛ kɩmɛlɛndʋ ɛlɛ pɩtɩnɩ lɛɣtʋ yɔɔ</b>. Pʋ-yɔɔ Krɩstʋ tʋ ɖɔŋ tisuu tɛkɛ aseɣɖe ɖeke yɔɔ, ɛlɛ pɩlɩnɩ <b>tisuu mbʋ Fezuu Kiɖeɖeu haɣ laŋɩyɛ taa alɩwaatʋ ndʋ ɛyʋ kalɩɣ Ɛsɔtɔm yɔ</b>. Ɛsɔtɔm Takayaɣ tɔŋ se: <b>«Pʋ-yɔɔ lɛ, lidaʋ lɩɣnɩ tɔm ndʋ́ ɛyʋ welesiɣ yɔ tɩ-cɔlɔ. Tɔm ndʋ́ ewelesiɣ yɔ lɛ Krɩstʋ tɔm ndʋ́ posusuu yɔ.»</b> (Roma 10:17). Pʋ-yɔɔ, paa pɩwɛ ɛzɩ liɖe ɛzɩma yɔ, <b>ŋ-maɣmaɣ ñɔ-kalʋʋ</b> kɛnɩ ɖijɖiye.</p><p class='faq-v'>Roma 10:17</p>",
+  "respond.h3": "Pʋ-yɔɔ — ɛbɛ pɩlakɩ ma yɔɔ?",
+  "respond.sub": "Sɔɔlɩm mbʋ tɛkɛ tɔm ɖeke ɛlɛ kɛkɛ <b>yaʋ</b>. Ye sɔɔlɩm mbʋ pakam ña-lone taa yɔ pɩtukuni ña-laŋɩyɛ yɔ, tɩmɩ tɔm tʋnɛ kazʋ, hɔɔlʋʋ kʋɖʋmʋʋ-kʋɖʋmʋʋ.",
+  "respond.prayer": "<p>Ɛsɔ,</p><p>mentisiɣ se mɛkɛ kɩwɛɛkɩm laɖʋ weyi ɛɛpɩzɩɣ ɛ-tɩ yabʋ yɔ.</p><p>Mentisiɣ se Yesu sɩ ma-yɔɔ kaamaŋkaɣ yɔɔ nɛ ɛfɛm.</p><p>Kpɛlɩkɩ-m ma-kɩwɛɛkɩm tɩŋa nɛ kpaɣ sɔnɔ ŋkɛ ma-wezuu Kɩpaɣlʋ.</p><p>Mʋ-m ɛzɩ ña-pɩɣa nɛ ha-m nʋmɔʋ se mɛwɛɛ wezuu kɩfalʋʋ.</p><p class='amen'>Yesu hɩɖɛ taa metendiɣ. Aamɛɛni.</p>",
+  "respond.after": "Ye ŋtɩmɩ tɔm tʋnɛ nɛ ña-laŋɩyɛ tɩŋa yɔ, Ɛsɔtɔm Takayaɣ tɔŋ se <b>ŋpɩsɩ Ɛsɔ pɩɣa</b>. Ŋtɩtasɩ wɛʋ ña-ɖeke — ñɩnɩ Ɛsɔ sɛtʋ ɛgbɛyɛ nɖɩ ɖɩñɔtaa yɔ nɛ ŋ nɛ lalaa ɩɖɔ tisuu nʋmɔʋ.",
+  "respond.read": "Kalɩ Ɛsɔtɔm Takayaɣ ña-maɣmaɣ — paɣzɩnɩ Yohanɛɛsɩ",
+  "respond.verse": "«Piyele mbá patɩŋa payɩ pamʋ-ɩ nɛ pɛwɛnɩ lidaʋ ɛ-yɔɔ yɔ, ɛha-wɛ ɖoŋ se papɩsɩ Ɛsɔ piya.» — Yohanɛɛsɩ 1:12",
+  "closing.main": "Ɛsɔ kʋɖʋm,<br>ɛtɩŋnɩ tɔm kʋɖʋmtʋ yɔɔ,<br>nɛ ɛkɔɔ ɖɔ-cɔlɔ nɛ <em>sɔɔlɩm</em><br>mbʋ pɩɩsɩŋ wiɖiyi yɔ.",
+  "closing.verse": "«Mbʋ́ pʋyɔɔ yɔ, manawa siŋŋ se: paa sɩm yaa wezuu yaa Ɛsɔ tiyiyaa yaa ɛsɔdaa awiya yaa ɛsɔdaa ɖoŋ yaa mbʋ́ pʋwɛ lɛɛlɛɛyɔ yaa pɩkaɣ kɔm yɔ yaa mbʋ́ pʋwɛ ɛsɔdaa yaa tɛtɛɛ yɔ yaa mbʋ́ Ɛsɔ laba yɔ, pɩ-taa nabʋyʋ ɛɛpɩzɩɣ pɩyasɩ-ɖʋ nɛ Ɛsɔ sɔɔlɩm mbʋ́ ɛtɩŋnɩ ɖa-Kɩpaɣlʋ Krɩstʋ Yesu yɔɔ nɛ ɛwɩlɩ-ɖʋ yɔ. Mbʋ́ pʋyɔɔ yɔ, manawa siŋŋ se: paa sɩm yaa wezuu yaa Ɛsɔ tiyiyaa yaa ɛsɔdaa awiya yaa ɛsɔdaa ɖoŋ yaa mbʋ́ pʋwɛ lɛɛlɛɛyɔ yaa pɩkaɣ kɔm yɔ yaa mbʋ́ pʋwɛ ɛsɔdaa yaa tɛtɛɛ yɔ yaa mbʋ́ Ɛsɔ laba yɔ, pɩ-taa nabʋyʋ ɛɛpɩzɩɣ pɩyasɩ-ɖʋ nɛ Ɛsɔ sɔɔlɩm mbʋ́ ɛtɩŋnɩ ɖa-Kɩpaɣlʋ Krɩstʋ Yesu yɔɔ nɛ ɛwɩlɩ-ɖʋ yɔ.» — Roma 8:38-39",
+  "closing.small": "Tɔm tʋnɛ tɩ-yɔɔ lɛ, Paɣtʋ, hendu takayɩsɩ, náyaa nɛ takayɩsɩ pɛsɔɔzʋʋ «tomnaɣ».<br>Lɛɛlɛɛyɔ, paa takayaɣ ŋga ŋkuli yɔ, ŋnaɣ ɖenɖe ŋwɛ tɔm taa yɔ.",
+  "closing.share": "↗ Tayɩ tɔm tʋnɛ",
+  "about.line": "Pɩtɩnɩ ñʋʋ yabʋ tɔm yɔɔ ndʋ Kooree Pʋrɔtɛstaŋ ɛgbɛyɛ sakɩyɛ ɖɔŋ tɩ-yɔɔ yɔ (laŋhɛzɩyɛ tɔm · refɔrme).",
+  "about.contact": "Tɔm pɔɔŋ · maɣzɩm — <a id='contact' class='mail'>Ma-ɖʋ takayaɣ</a>",
+  "partial.note": "Kabɩyɛ taa lɛ, pakpaɣ Ɛsɔtɔm Takayaɣ Tʋma Kɩfana ɖeke nɛ pɩma cɩnɛ; kalɩ tɔm kpeekpe Tʋma Kɩfana taa."
+ },
+ "epochs": [
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ KƖBƖNƲ · ƊIJƊIYE",
+   "title": "Lɩzʋʋ",
+   "date": "Ɖijɖiye taa",
+   "one": "Ɛsɔ lɩzɩ ɛjaɖɛ nɖɩ ɖɩɩwɛ «ɖeu siŋŋ» yɔ.",
+   "people": "Ɛsɔ; Aɖam nɛ Ɛva",
+   "events": "Lɩzʋʋ kɩyakɩŋ loɖo, palɩzɩ ɛyʋ ɛzɩ Ɛsɔ kɩlɛmʋʋ yɔ, hɛɛɛ kɩyakʋ hɛzʋʋ",
+   "q": "Ɖijɖiye taa lɛ, Ɛsɔ lɩzɩ ɛsɔdaa nɛ tataa.",
+   "cite": "",
+   "christ": "Palɩzɩ ɛjaɖɛ nɛ pɩtɩŋnɩ «Tɔm» yɔɔ. Yohanɛɛsɩ Laŋhɛzɩyɛ Tɔm tɔŋ se Tɔm ńdʋ lɛ Yesu maɣmaɣ (Yohanɛɛsɩ 1:1-3).",
+   "detail": "<p>Ɛsɔtɔm Takayaɣ ɛɛpaɣzɩnɩ lɛɣtʋ tɔm ɛlɛ kapaɣzɩnɩ yɔɔdaɣ se: <b>«Ɖijɖiye taa lɛ, Ɛsɔ lɩzɩ…»</b> Ɛjaɖɛ tɛkɛ liɖe ɛlɛ kɛkɛ Ɛsɔ weyi ɛwɛnɩ wezuu yɔ ɛ-tʋmɩyɛ.</p><ul><li><b>Ɛsɔ kɩlɛmʋʋ</b> · wondu ndʋ palɩzaa yɔ tɩ-tɩŋa taa lɛ, ɛyʋ ɖeke palɩzɩ ɛzɩ Ɛsɔ yɔ — se ɛtɩlɩ-ɩ nɛ ɛcɔnɩ ɛjaɖɛ yɔɔ.</li><li><b>Hɛzʋʋ</b> · kɩyakʋ lʋbɛ ñɩŋgʋ hɛzʋʋ wɩlɩɣ se pɩtɩŋa pɩtɛma nɛ pɩwɛ laŋhɛzɩyɛ taa: «pɩɩwɛ ɖeu».</li></ul>",
+   "next": "Ɛlɛ pilim wɛtʋ tʋnɛ paɣzɩɣ yɔkʋʋ…"
+  },
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ KƖBƖNƲ · KALA PAƔZƖƔ",
+   "title": "Tɔlʋʋ",
+   "date": "Ɖijɖiye taa",
+   "one": "Kɩwɛɛkɩm sʋwa nɛ ɛyʋ nɛ Ɛsɔ pɛ-hɛkʋ taa nɔɔ kʋɖʋmaɣ sɛtɩ.",
+   "people": "Aɖam nɛ Ɛva; ɖʋm (Sataŋ)",
+   "events": "Ɖaŋ pee tɔɔʋ, paɖɔɔnɩ-wɛ Edɛɛnɩ taa, sɩm nɛ kʋñɔŋ pɔkɔɔ",
+   "q": "Ɛsɔ ɖʋ you ɖʋm nɛ halʋ pɛ-hɛkʋ taa, nɛ halʋ liɖe yɔkɩ ɖʋm ñʋʋ.",
+   "cite": "",
+   "christ": "Laŋhɛzɩyɛ Tɔm tamaɣ kajalaɣ ñɩŋga ŋga paha tɔlʋʋ wayɩ kpaagbaa yɔ: «halʋ liɖe» yɔkɩ ɖʋm ñʋʋ — nɛ ńɖʋ́ lɛ Yesu (Roma 16:20; Galaatɩ 4:4).",
+   "detail": "<p>Pɩtɩŋnɩ kaañamtʋ mbʋ pɩsɔɔlaa se «ɛkɛ ɛzɩ Ɛsɔ yɔ» yɔ pɩ-yɔɔ, kɩwɛɛkɩm sʋ ɛjaɖɛ yɔɔ. Pee tɛkɛ paɣtʋ yɔkʋʋ ɖeke ɛlɛ kɛkɛ <b>nɔɔ kʋɖʋmaɣ yɔkʋʋ</b>.</p><ul><li><b>Nɔɔ kʋɖʋmaɣ sɛtɩ</b> · nɛ Ɛsɔ (mɛsɩ tɩ), nɛ ɖama (tɔm ɖʋʋ ɖama yɔɔ), nɛ ɛjaɖɛ (sɔŋ nɛ kʋñɔŋ).</li><li><b>Sɩm</b> · kparʋʋ tɔm se «ŋkaɣ sɩbʋ» pɩsɩ toovenim.</li><li>Ŋgʋ tɔm hʋʋ hɛkʋ taa lɛ, ñʋʋ yabʋ tamaɣ kɔŋ kajalaɣ. Lɛɣtʋ tɩnaa yaɣ-kɛ se <b>kajalaɣ Laŋhɛzɩyɛ Tɔm</b>.</li></ul>",
+   "next": "Lɛɛlɛɛyɔ Ɛsɔ yaɣ ɛyʋ kʋyʋ se ɛpaɣzɩ ñʋʋ yabʋ…"
+  },
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ KƖBƖNƲ · TAMAƔ",
+   "title": "Cɔzɔnaa",
+   "date": "Pɩnzɩ 2000 pʋcɔ Krɩstʋ",
+   "one": "Ɛsɔ haɣ Abraham tamaɣ se: «Ŋkaɣ pɩsʋʋ wazaɣ nʋmɔʋ.»",
+   "people": "Abraham · Izaakɩ · Yakɔɔbʋ · Yosɛɛfʋ",
+   "events": "Abraham ɛgbaɣdʋʋ, Izaakɩ kʋjɔʋ, Yakɔɔbʋ pɩyalaa hiu nɛ naalɛ, Yosɛɛfʋ kpaɣ ɖoŋ Eziptɩ",
+   "q": "Ɛsɔ haɣ Abraham tamaɣ se ɛkaɣ-ɩ labʋ samaɣ sɔsɔɔ, nɛ ɛ-taa lɛ pakaɣ wazʋʋ ɛjaɖɛ yɔɔ cejewe tɩŋa.",
+   "cite": "",
+   "christ": "Tamaɣ se «pakaɣ wazʋʋ ajɛɛ tɩŋa» yɔ, kɛtalɩ ɖeɖe Yesu taa, Abraham liɖe (Galaatɩ 3:16).",
+   "detail": "<p>Ɛsɔ paɣzɩ ɛyʋ kpeekpe kala ñʋʋ taʋ nɛ ɛyaɣ ɛyʋ kʋyʋ, <b>Abraham</b>. Pɩ-laŋɩyɛ lɛ <b>ɛgbaɣdʋʋ (tamaɣ)</b> — samaɣ sɔsɔɔ, tɛtʋ, nɛ «wazaɣ ajɛɛ tɩŋa».</p><ul><li><b>Tisuu</b> · Abraham tisi tamaɣ ŋga ɛɛnaɣ yɔ kɔ-yɔɔ, nɛ pakpaɣ-kɛ ɛzɩ kʋtʋʋzʋ wɛtʋ yɔ.</li><li><b>Izaakɩ nɛ Yakɔɔbʋ</b> · tamaɣ ɖɛɣ ɛzɩdaa; Yakɔɔbʋ (Izrayɛɛlɩ) lʋlɩ cejewe hiu nɛ naalɛ.</li><li><b>Yosɛɛfʋ</b> · ɛ-newaa pɛdɩ-ɩ, ŋgʋ pakpazɩ-ɩ ɖoŋ — Ɛsɔ pɩsɩ-pʋ kɩbandʋ.</li></ul>",
+   "next": "Yosɛɛfʋ wayɩ lɛ, hɔʋ tii Eziptɩ — nɛ pɩpɩsɩ yomaa…"
+  },
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ KƖBƖNƲ · ÑƲƲ YABƲ",
+   "title": "Lɩʋ nɛ kañɩmbusuu",
+   "date": "Pɩnzɩ 1446 pʋcɔ Krɩstʋ",
+   "one": "Ɛsɔ ya samaɣ ŋga kaakɛ yomaa yɔ kɛ-ñʋʋ nɛ ɛla-kɛ ɛ-ñɩnɖɛ.",
+   "people": "Moyiizi, Aarɔɔŋ, faraɔɔ",
+   "events": "Kʋñɔnzɩ hiu, Paska, Teŋgu Kɩsɛɛmʋʋ tɛzʋʋ, paɣtʋ hiu Sinayii, kpaaŋ, pɩnzɩ 40 kañɩmbusuu taa",
+   "q": "Ɛsɔ tɔ se ɛkaɣ-wɛ kpaɣʋ ɛzɩ ɛ-samaɣ yɔ nɛ ɛkɛ pa-Ɛsɔ.",
+   "cite": "",
+   "christ": "Paska — ɖenɖe heɣa calɩm pɩsɩnɩ sɩm wayɩ yɔ — wɩlɩɣ Yesu, «ɖa-Paska heɣa», weyi pakam-ɩ ɖɔ-yɔɔ yɔ (1 Kɔrɛntɩ 5:7).",
+   "detail": "<p>Ɛsɔtɔm Takayaɣ Kɩbɩnʋ ñʋʋ yabʋ sɔsɔ. Izrayɛɛlɩ weyi ɛɛkɛ yom yɔ, Ɛsɔ ɖoŋ ya-ɩ ñʋʋ nɛ ɛla-ɩ ɛ-<b>samaɣ</b>.</p><ul><li><b>Paska</b> · ɖɩɣa ŋga heɣa calɩm wɛ kɔ-yɔɔ yɔ, sɩm ɖɛɣnɩ-kɛ — kɩlɛmʋʋ mbʋ pɩwɛ kɩlaʋ tɩŋa wayɩ yɔ.</li><li><b>Teŋgu Kɩsɛɛmʋʋ</b> · ñʋʋ yabʋ ɖenɖe nʋmɔʋ tɛŋ yɔ.</li><li><b>Sinayii ɛgbaɣdʋʋ</b> · pɩtɩŋnɩ paɣtʋ yɔɔ, pɛkpɛlɩkɩ ɛzɩma pɛwɛɛ wezuu ɛzɩ Ɛsɔ samaɣ yɔ.</li><li><b>Kpaaŋ</b> · ɖɩɣa kiɖeɖeɣa ŋga pɛpɛ yɔ, ɖenɖe Ɛsɔ wɛ ɛ-samaɣ hɛkʋ taa yɔ.</li></ul>",
+   "next": "Pasɩŋ tɛtʋ ndʋ paahaɣ-wɛ tamaɣ yɔ tɩ-nɔɔ yɔɔ lɛ, pɔñɔɔzʋʋ pa-tɩ se pasʋʋ…"
+  },
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ KƖBƖNƲ · CAƔƲ",
+   "title": "Hɔŋʋʋ nɛ Tɔm hʋyaa",
+   "date": "Pɩnzɩ 1400–1050 pʋcɔ Krɩstʋ",
+   "one": "Pehiɣ tɛtʋ, ɛlɛ ɛzɩma wiyaʋ taawɛɛ yɔ, paa weyi ɛlakaɣ mbʋ ɛsɔɔlaa yɔ.",
+   "people": "Yozuwe; Tɔm hʋyaa ɛzɩ Gediyɔɔ nɛ Samsɔɔ; Ruti",
+   "events": "Yeriko tɔlʋʋ, caɣʋ Kanaaŋ, kɩwɛɛkɩm–tɔm hʋʋ–ñʋʋ yabʋ piliŋa",
+   "q": "Kɩyakɩŋ ɛnɩ ɩ-taa lɛ, wiyaʋ taawɛɛ Izrayɛɛlɩ taa; paa weyi ɛlakaɣ mbʋ pɩtʋʋzaa ɛ-ɛsɩndaa yɔ.",
+   "cite": "",
+   "christ": "Ruti liɖe taa lɛ Daviid lɩɣnaa, nɛ Daviid liɖe taa lɛ Yesu lɩɣnaa (Maatiyee 1). Halɩ kʋñɔŋ taa, Mesiya cejewe ɖɛɣ ɛzɩdaa.",
+   "detail": "<p>Yozuwe tɛɛ lɛ, pasʋ tɛtʋ ndʋ paahaɣ-wɛ tamaɣ yɔ tɩ-taa, ɛlɛ pacaɣ lɛ, lɔŋ pasɔɔ Ɛsɔ yɔɔ. Tɔm hʋyaa takayaɣ kɛ kɩlɛmʋʋ kʋɖʋmʋʋ ŋgʋ kɩtasɩ ɖama yɔ.</p><ul><li><b>Piliŋa</b> · kɩwɛɛkɩm → nazʋʋ → kubuu → tɔm hʋyʋ yaɣ ñʋʋ → kɩwɛɛkɩm ɖɔɖɔ. Pɩwolo pɩ-yɔɔ nɛ pɩwɛɛkɩ.</li><li><b>Tɔm hʋyaa</b> · Gediyɔɔ, Samsɔɔ, Debɔɔra — ñʋʋ yaɖaa mba pɛwɛ alɩwaatʋ pazɩ yɔ.</li><li><b>Ruti</b> · halʋ agɔʋ weyi ɛsʋʋ Daviid (nɛ Yesu) cejewe taa yɔ.</li></ul>",
+   "next": "Samaɣ kuu se: «Ha-ɖʋ ɖɔɖɔ wiyaʋ!»…"
+  },
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ KƖBƖNƲ · ALƖWAATƲ KƖBANDƲ",
+   "title": "Kewiyaɣ kʋɖʋmaɣ",
+   "date": "Pɩnzɩ 1050–930 pʋcɔ Krɩstʋ",
+   "one": "Ɛsɔ haɣ Daviid tamaɣ se: «Ñe-kewiyaɣ kpelaɣ kaɣ caɣʋ tam.»",
+   "people": "Sɔɔlɩ · Daviid · Salomɔɔ",
+   "events": "Kajalaɣ wiyaʋ Sɔɔlɩ, Daviid nɛ Goliyaatɩ, Daviid ɛgbaɣdʋʋ, Salomɔɔ ma templo",
+   "q": "Ɛsɔ haɣ Daviid tamaɣ se ɛ-ɖɩɣa nɛ ɛ-kewiyaɣ pakaɣ caɣʋ tam, nɛ ɛ-kewiyaɣ kpelaɣ kaɣ ɖʋʋ tam.",
+   "cite": "",
+   "christ": "«Kewiyaɣ kpelaɣ tam ñɩŋga» talɩ ɖeɖe Yesu taa, Daviid pɩyalʋ — pʋ-yɔɔ payaɣ-ɩ se «Daviid Pɩyalʋ» (Luka 1:32-33; Maatiyee 1:1).",
+   "detail": "<p>Izrayɛɛlɩ ñʋʋ taa, awiya naadozo tɔɔ kewiyaɣ.</p><ul><li><b>Sɔɔlɩ</b> · wiyaʋ weyi samaɣ pɔ-yɔɔdaa yɔ; ɛpaɣzɩ camɩyɛ ɛlɛ kaañamtʋ wɛɛkɩ-ɩ.</li><li><b>Daviid</b> · «ɛyʋ weyi ɛwɛ Ɛsɔ laŋɩyɛ taa yɔ». Ɛwabɩ Goliyaatɩ. Ɛlabɩ kɩwɛɛkɩm sɔsɔm (Batseba) ŋgʋ ɛlɛɣzɩ wɛtʋ nɛ ɛ-laŋɩyɛ tɩŋa.</li><li><b>Daviid ɛgbaɣdʋʋ</b> · Ɛsɔ haɣ tamaɣ se ɛkaɣ Daviid lʋlʋʋ ɖʋʋ tam — Mesiya lidaʋ liɖe.</li><li><b>Salomɔɔ</b> · ɛma <b>templo</b>, ŋgʋ ɛ-wezuu tɛm lɛ, ɛpɩsɩ sɩɩnaa cɔlɔ.</li></ul>",
+   "next": "Salomɔɔ wayɩ lɛ, kewiyaɣ tayɩ hɔɔlɩŋ naalɛ…"
+  },
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ KƖBƖNƲ · TƆLƲƲ",
+   "title": "Kewiyaɣ ŋga katayaa yɔ",
+   "date": "930–586 pʋcɔ Krɩstʋ",
+   "one": "Katayɩ hadɛ kiŋ (Yuda) nɛ hayo kiŋ (Izrayɛɛlɩ), nɛ samaɣ tii kʋñɔŋ taa.",
+   "people": "Kewiyisi naalɛ awiya; náyaa ɛzɩ Eliya, Izaayii, Yereemii",
+   "events": "Kewiyaɣ tayʋʋ, sɩɩnaa layʋʋ yɛlɩ, náyaa para",
+   "q": "Mbʋ lɛ, Izrayɛɛlɩ kaɖɩnɩ Daviid ɖɩɣa nɛ pɩkɔɔ pɩtalɩ sɔnɔ.",
+   "cite": "",
+   "christ": "Alɩwaatʋ tʋnɛ tɩ-taa lɛ, náyaa yɔɔdʋʋ Mesiya weyi ɛkaɣ kɔm yɔ ɛ-tɔm kaɣlaa nɛ pɩkɩlɩ.",
+   "detail": "<p>Salomɔɔ pɩyalʋ kɩyakɩŋ taa lɛ, samaɣ tayɩ: <b>hayo kiŋ Izrayɛɛlɩ kewiyaɣ</b> (cejewe 10, tɛtʋ sɔsɔtʋ Samaarɩɩ) nɛ <b>hadɛ kiŋ Yuda kewiyaɣ</b> (cejewe 2, tɛtʋ sɔsɔtʋ Yeruusalɛm).</p><ul><li><b>Izrayɛɛlɩ (hayo)</b> · wiyaʋ paa weyi ɛsɛɣ sɩɩnaa; kɛtɔlɩ Asiirii niŋ taa pɩnaɣ 722 pʋcɔ Krɩstʋ.</li><li><b>Yuda (hadɛ)</b> · Daviid liɖe wɛɛ, nɛ awiya kɩbama pazɩ ɛzɩ Ezekiyaasɩ nɛ Yoziyaasɩ, ŋgʋ pɩwolo pɩ-yɔɔ nɛ pɩtii.</li><li><b>Náyaa</b> · Eliya, Amɔɔsɩ, Izaayii, Yereemii kuu se: «pɩsɩ-ɩ!» Mesiya natʋ talɩ ñʋʋ taa cɩnɛ.</li></ul>",
+   "next": "Pɩtɛm lɛ, tɔm hʋʋ ndʋ paaparaa yɔ tɩkɔɔ — pakpɛ-wɛ yom ñɩɣyʋʋ taa…"
+  },
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ KƖBƖNƲ · TƆM HƲƲ",
+   "title": "Yom ñɩɣyʋʋ",
+   "date": "722 / 586 pʋcɔ Krɩstʋ",
+   "one": "Samaɣ tɔlaa nɛ pakpaɣ-kɛ nɛ powolonɩ ajɛɛ lɛɛna taa.",
+   "people": "Danɩyɛɛlɩ, Ezekiyɛɛlɩ, Nabukodonozɔɔrɩ",
+   "events": "Izrayɛɛlɩ tɔlɩ Asiirii niŋ taa (722), Yuda tɔlɩ Babilɔɔnɩ niŋ taa nɛ pɔyɔkɩ templo (586)",
+   "q": "Babilɔɔnɩ pɔɔŋ nɔsɩ yɔɔ lɛ, peeɖe ɖicaɣ nɛ ɖiwii alɩwaatʋ ndʋ ɖɩtɔzɩ Siyɔɔ yɔɔ yɔ.",
+   "cite": "",
+   "christ": "Lakasɩ kɩdɛkɛdɩsɩ taa lɛ, Yereemii haɣ «ɛgbaɣdʋʋ kɩfalʋʋ» tamaɣ — ɛgbaɣdʋʋ ŋgʋ Yesu ɖʋ-kʋ ɖoo ɖanaɣ tɔɔnaɣ tɔɔʋ taa yɔ.",
+   "detail": "<p>Kparʋʋ tɔm pɩsɩ toovenim. Templo nyaɣ miŋ nɛ pakpaɣ samaɣ nɛ powoni Babilɔɔnɩ — peɖiɣni tɛtʋ, wiyaʋ nɛ templo: lone ŋga katii pɩkɩlaa yɔ.</p><ul><li><b>Tɔlʋʋ naalɛ</b> · Izrayɛɛlɩ (Asiirii, 722) nɛ Yuda (Babilɔɔnɩ, 586).</li><li><b>Danɩyɛɛlɩ</b> · tisuu kɩlɛmʋʋ halɩ sɩɩnaa layaa kewiyaɣ taa (tɔɔyɩŋ pɔʋ taa).</li><li><b>Lidaʋ miŋ</b> · Ezekiyɛɛlɩ natʋ nɛ Yereemii «ɛgbaɣdʋʋ kɩfalʋʋ» wɩlɩɣ cee wayɩ cɩkpɛndʋʋ taa.</li></ul>",
+   "next": "Pɩnzɩ nɩɩnɩwa wayɩ lɛ, Ɛsɔ kuli nʋmɔʋ — powoki pa-tɛ…"
+  },
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ KƖBƖNƲ · ƊƆ-YƆƆ ƲƲ",
+   "title": "Pɩsʋʋ",
+   "date": "538–430 pʋcɔ Krɩstʋ",
+   "one": "Pɔkɔɔ pa-tɛ nɛ pɛma templo nɛ kolonzi.",
+   "people": "Ɛsɛɛrasɩ, Neemii, Ɛstɛɛrɩ, Zorobabɛɛlɩ",
+   "events": "Pɩsʋʋ pɩtɩŋnɩ Sirisi paɣtʋ yɔɔ, templo maʋ, Yeruusalɛm kolonzi maʋ, Ɛsɔtɔm pɩsʋʋ",
+   "q": "Kɩpaɣlʋ taa leleŋ kɛnɩ mɩ-ɖoŋ.",
+   "cite": "",
+   "christ": "Malakii, Ɛsɔtɔm Takayaɣ Kɩbɩnʋ takayaɣ kɛdɛzaɣ ñɩŋga, tɛŋnɩ natʋ tɔm yɔɔ se tiyiyu nɔɔyʋ kaɣ ñɔɔzʋʋ Mesiya nʋmɔʋ: «Mantiyiɣ man-tiyiyu».",
+   "detail": "<p>Pɛrɛsɩ wiyaʋ Sirisi paɣtʋ yɔɔ (538) lɛ, pɩsʋʋ paɣzaa. Tɔm taɣ naadozo taa lɛ, pɔkɔɔ pa-tɛ nɛ pɛma mbʋ pɩɩwɛ kataɣ taa yɔ.</p><ul><li><b>Zorobabɛɛlɩ</b> · ɛma templo (pɩtɛma 516).</li><li><b>Ɛsɛɛrasɩ</b> · ɛtasɩ wɩlʋʋ Ɛsɔtɔm nɛ ɛfɛzɩ tisuu.</li><li><b>Neemii</b> · ɛma Yeruusalɛm kolonzi kɩyakɩŋ 52 taa.</li><li><b>Ɛstɛɛrɩ</b> · ɛya Yuda ñɩma mba paawɛ Pɛrɛsɩ yɔ pa-ñʋʋ.</li><li><b>Pɛtɛzaɣ ɖaŋʋʋ</b> · templo wɛɛ, ŋgʋ wiyaʋ ɛzɩ Daviid yɔ ɛtaawɛɛ. Samaɣ ɖaŋ Mesiya.</li></ul>",
+   "next": "Pʋwayɩ lɛ… ɛzɩ ɛsɔdaa hɩzaa yɔ, pɩnzɩ 400 ɖɛwa."
+  },
+  {
+   "tag": "ƐGBƐYƐ NAALƐ HƐKƲ TAA · KƲƊƲMƲƲ ÑƆƆZƲƲ",
+   "title": "Hɩzɩyɛ pɩnzɩ",
+   "date": "Pɩnzɩ 430–4 pʋcɔ Krɩstʋ",
+   "one": "Pɩnzɩ 400 nɛ nayʋ nɔɔ taawɛɛ — ŋgʋ pɔñɔɔzɩ kʋɖʋmʋʋ hɩzaɣ taa.",
+   "people": "Alɛkɩsaŋdrɩ Sɔsɔ, Makabee mba, Roma",
+   "events": "Pɛrɛsɩ → Grɛɛkɩ → Makabee tɩ yɔɔ wɛʋ → Roma ɖoŋ",
+   "q": "Ɛlɛ́, alɩwaatʋ talaa lɛ, Ɛsɔ yele nɛ pɩtɩŋnɩ halʋ nɔɔyʋ yɔɔ nɛ palʋlɩ Ɛsɔ ɛnʋ ɛ-Pɩyalʋ nɛ Yuda ñɩma paɣtʋ wɛnɩ ɖoŋ ɛ́lɛ́ yɔɔ",
+   "cite": "Galaatɩ 4:4",
+   "christ": "«Kʋɖʋmʋʋ ñɔɔzʋʋ» mbʋ pɩtɩŋa kɛ Ɛsɔ tʋmɩyɛ se Yesu ɛkɔɔ «alɩwaatʋ ndʋ tɩtalaa» yɔ tɩ-taa.",
+   "detail": "<p>Kpaɣnɩ Malakii nɛ piwolo Ɛsɔtɔm Takayaɣ Tʋma Kɩfana lɛ, pɩnzɩ ɛzɩ 400 ɖɛwa nɛ Ɛsɔtɔm kɩfatʋ taawɛɛ. Ŋgʋ caa wayɩ lɛ, Ɛsɔ ñɔɔzaɣ Laŋhɛzɩyɛ Tɔm nʋmɔʋ.</p><ul><li><b>Ajɛɛ lɛɣzɩ ɖama</b> · Pɛrɛsɩ → Grɛɛkɩ (Alɛkɩsaŋdrɩ, 333) → Roma (63).</li><li><b>Grɛɛkɩ kʋnʋŋ</b> · pɩsɩ kʋnʋŋ ŋgʋ pɩtɩŋa kɔyɔɔdʋʋ yɔ; pɛɖɛzɩ Ɛsɔtɔm Takayaɣ Kɩbɩnʋ Grɛɛkɩ kʋnʋŋ taa.</li><li><b>Roma habɛɛ nɛ laŋhɛzɩyɛ</b> · habɛɛ kɩbana pɩsɩ Laŋhɛzɩyɛ Tɔm susuu nʋmɔɔ.</li><li><b>Mesiya ɖaŋʋʋ</b> · pɩpaɣlɩ.</li></ul>",
+   "next": "Pʋwayɩ lɛ hɩzɩyɛ yɔkɩ — pɩtɛm lɛ, ɛkɔŋ."
+  },
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ TƲMA KƖFANA · TALƲƲ",
+   "title": "Yesu kɔŋ",
+   "date": "Pɩnzɩ 4 pʋcɔ Krɩstʋ–30 Krɩstʋ wayɩ",
+   "one": "Mesiya weyi paahaɣ-ɩ tamaɣ yɔ ɛkɔma, ɛsɩba, nɛ ɛfɛma.",
+   "people": "Yesu, tɔmkpɛlɩkɩyaa hiu nɛ naalɛ, Yohanɛɛsɩ Lɩm Mɩyɩsɩyʋ",
+   "events": "Ɛpɩsɩ ɛyʋ, ɛ-tʋmɩyɛ nɛ ɛ-wɩlɩtʋ nɛ ɛ-maamaaci lakasɩ, sɩm kaamaŋkaɣ yɔɔ, femtu kɩyakʋ naadozo ñɩŋgʋ wiye",
+   "q": "Weyi payaɣ se Tɔm yɔ, ɛpɩsɩ ɛyʋ nɛ ɛkɔɔ ɛwɛɛ ɖɛ-hɛkʋ taa. Ɛkɛ lootiye tʋ siŋŋ nɛ ɛtɛ ɛkɛ toovenim tʋ siŋŋ. Đɩna e-koboyaɣ, kɛwɛ ɛzɩ Caa Pɩyalʋ ɛgbamɩyɛ ñɩŋga yɔ.",
+   "cite": "Yohanɛɛsɩ 1:14",
+   "christ": "Halʋ liɖe (pee 2), Abraham wazaɣ (3), Paska heɣa (4), Daviid wiyaʋ tam ñɩŋʋ (6), ɛgbaɣdʋʋ kɩfalʋʋ (8) — pɩtɩŋa talɩ ɖeɖe ɛyʋ kʋɖʋm taa, Yesu: ɖa-Nayʋ, ɖa-Cɔɔjɔ nɛ ɖa-Wiyaʋ toovenim ñɩnʋ.",
+   "detail": "<p>Hɩzɩyɛ yɔkɩ; weyi paahaɣ-ɩ tamaɣ yɔ ɛkɔ. Laŋhɛzɩyɛ Tɔm takayɩsɩ naanza lɩzɩ Yesu wezuu, ɛ-sɩm nɛ ɛ-femtu aseɣɖe.</p><ul><li><b>Ɛpɩsɩ ɛyʋ</b> · Ɛsɔ pɩsɩ ɛyʋ (Emaanuyɛɛlɩ, «Ɛsɔ wɛ ɖɔ-cɔlɔ»), Bɛtɩlɛhɛm lone kɩjɛɛyɛ taa.</li><li><b>Tʋmɩyɛ</b> · ɛwɩlɩ Ɛsɔ Kewiyaɣ, ɛwaɣ kʋdɔndɩnaa, ɛyaɣ kɩwɛɛkɩm laɖaa.</li><li><b>Kaamaŋkaɣ</b> · ɛhɛyɩ kɩwɛɛkɩm nɛ sɩm liidiye. Paska heɣa toovenim ñɩŋga.</li><li><b>Femtu</b> · ɛfɛm kɩyakʋ naadozo ñɩŋgʋ wiye, ɛyɔkɩ kɩwɛɛkɩm, sɩm nɛ Sataŋ ɖoŋ — halɩ kaamaŋkaɣ yɔɔ ɛɛlɩzɩ awiya nɛ ɖoŋ pa-ɖoŋ (Kolosɩ 2:15).</li></ul><p>Pʋ-yɔɔ Yesu kɛnɩ ɖa-<b>Nayʋ toovenim ñɩnʋ</b>, ɖa-<b>Cɔɔjɔ toovenim ñɩnʋ</b> nɛ ɖa-<b>Wiyaʋ toovenim ñɩnʋ</b>.</p>",
+   "next": "Yesu weyi ɛfɛma yɔ ɛtiyiɣ ɛ-tɔmkpɛlɩkɩyaa ɛjaɖɛ yɔɔ…"
+  },
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ TƲMA KƖFANA · YƐLƲƲ",
+   "title": "Ɛsɔ sɛtʋ ɛgbɛyɛ paɣzɩɣ",
+   "date": "Pɩnzɩ 30 Krɩstʋ wayɩ–",
+   "one": "Fezuu kɔŋ, nɛ Laŋhɛzɩyɛ Tɔm yɛlɩɣ nɛ piwolo ɛjaɖɛ kamaɣ yɔɔ.",
+   "people": "Pɩyɛɛrɩ, Pɔɔlɩ, kajalaɣ Ɛsɔ sɛtʋ ɛgbɛyɛ",
+   "events": "Pɛkpɛ Fezuu Pãntɛkɔɔtɩ wiye, Ɛsɔ sɛtʋ ɛgbɛyɛ lʋlaa, Laŋhɛzɩyɛ Tɔm yɛlɩ kpaɣnɩ Yeruusalɛm nɛ piwolo Roma",
+   "q": "Ɛlɛ́, alɩwaatʋ ndʋ́ Fezuu Kiɖeɖeu tiki mɩ-yɔɔ yɔ, ihikiɣ ɖoŋ nɛ ɩkɛ ma-aseɣɖe tɩnaa Yeruusalɛm tɛtʋ taa nɛ Yudee nɛ Samaarɩɩ pa-ageeta taa nɛ kedeŋa kpeekpe yɔɔ.»",
+   "cite": "Tʋma Labʋ 1:8",
+   "christ": "Tɔm tʋnɛ tɩwɛɛ nɛ tɩɖɛɣ. Ɛsɔtɔm Takayaɣ tɛŋnɩ tamaɣ yɔɔ se Yesu kaɣ pɩsʋʋ nɛ ɛla pɩtɩŋa kɩfam (Natʋ 21).",
+   "detail": "<p>Yesu kpaʋ ɛsɔdaa wayɩ lɛ, Fezuu weyi paahaɣ tamaɣ yɔ ɛkɔ Pãntɛkɔɔtɩ wiye nɛ Ɛsɔ sɛtʋ ɛgbɛyɛ lʋlaa. Laŋhɛzɩyɛ Tɔm yɛlɩ ɖoŋ ɖoŋ.</p><ul><li><b>Pãntɛkɔɔtɩ</b> · Fezuu pɩsɩ tɔmkpɛlɩkɩyaa mba sɔɔndʋ kpaɣaɣ yɔ aseɣɖe tɩnaa abalɩtʋ ñɩma.</li><li><b>Pɩyɛɛrɩ</b> · ɛsusi Laŋhɛzɩyɛ Tɔm Yuda ñɩma Yeruusalɛm.</li><li><b>Pɔɔlɩ</b> · kpaɣnɩ nazɩyʋ nɛ piwolo apostoolu, ɛsɩ Ɛsɔ sɛtʋ agbaa ajɛɛ taa nɛ ɛma takayɩsɩ.</li><li><b>Ɛjaɖɛ kamaɣ yɔɔ</b> · Yeruusalɛm → Yudee → Samaarɩɩ → Roma. Tamaɣ ŋga paaha Abraham se «ajɛɛ tɩŋa» yɔ kɛtalɩ ɖeɖe.</li></ul>",
+   "next": "Ɛlɛ tɔm ɛɛtɛŋ cɩnɛ…"
+  },
+  {
+   "tag": "ƐSƆTƆM TAKAYAƔ TƲMA KƖFANA · PƖTƐM",
+   "title": "Ɖɔ-yɔɔ ʋʋ",
+   "date": "Pɩkaɣ kɔm",
+   "one": "Yesu kaɣ pɩsʋʋ nɛ ɛla pɩtɩŋa kɩfam.",
+   "people": "Yesu weyi ɛkaɣ pɩsʋʋ yɔ; ajɛɛ tɩŋa",
+   "events": "Pɩsʋʋ naalɛ ñɩŋgʋ, kɛdɛzaɣ tɔm hʋʋ, kɩwɛɛkɩm·sɩm·ɛsɩtɛɣlɩm tɛm, ɛsɔdaa kɩfalʋʋ nɛ tataa kɩfalʋʋ",
+   "q": "Ɛhɛzɩɣ pɛ-ɛsɩtɛɣlɩm tɩŋa. Sɩm yaa leɣa caɣʋ yaa atɩma yaa wɩzasɩ pa-taa nabʋyʋ ɛɛtasɩɣ wɛʋ. Mbʋ́ pʋyɔɔ yɔ, kajalaɣ wondu mʋwaa.»",
+   "cite": "Natʋ 21:4",
+   "christ": "Kajalaɣ lɩzʋʋ Edɛɛnɩ kaɣ pɩsʋʋ ɖeɖe ɛzɩ «Yeruusalɛm kɩfalʋʋ» yɔ. Ɛsɔ kaɣ caɣʋ ɛ-samaɣ cɔlɔ tam — Emaanuyɛɛlɩ pilim (Natʋ 21:3; Maatiyee 1:23).",
+   "detail": "<p>Ɛsɔtɔm Takayaɣ ɛɛtɛŋnɩ Ɛsɔ sɛtʋ ɛgbɛyɛ alɩwaatʋ yɔɔ. Kɔ-takayaɣ kɛdɛzaɣ ñɩŋga, Natʋ, wɩlɩɣ Yesu <b>ɛkaɣ pɩsʋʋ</b> se ɛla pɩtɩŋa pɩ-tɛm.</p><ul><li><b>Pɩsʋʋ naalɛ ñɩŋgʋ</b> · Wiyaʋ weyi paahaɣ-ɩ tamaɣ yɔ ɛkaɣ pɩsʋʋ nɛ ɛ-tɛ teu.</li><li><b>Kɛdɛzaɣ wabɩtʋ</b> · pakaɣ wabʋ Sataŋ nɛ sɩm tam, nɛ Krɩstʋ tɔɔ kewiyaɣ ɛzɩ awiya Wiyaʋ yɔ.</li><li><b>Ɛsɔdaa kɩfalʋʋ nɛ tataa kɩfalʋʋ</b> · kɩwɛɛkɩm, sɩm, ɛsɩtɛɣlɩm nɛ kʋñɔŋ pɩsaŋ tam (Natʋ 21:4).</li></ul><p>Pʋ-yɔɔ lɛɛlɛɛyɔ kɛnɩ <b>«pɩtɛma, ɛlɛ pɩtɩtɛ»</b> alɩwaatʋ: Yesu taa lɛ, ñʋʋ yabʋ <b>tɛma</b>, ŋgʋ pɩ-tɛm <b>ɖaŋ</b>.</p>",
+   "next": "Ɛzɩ tɔm tʋnɛ tɩ-tɩŋa tɩ-tɔbʋʋ lɛ suwe «ma» yɔɔ?"
+  }
+ ],
+ "love": [
+  "Tɔm ɛɛpaɣzɩnɩ tɔm hʋʋ ɛlɛ kapaɣzɩnɩ lɩzʋʋ mbʋ palɩzɩ sɔɔlɩm taa yɔ.",
+  "Alɩwaatʋ ndʋ ɛyaa labɩ kɩwɛɛkɩm yɔ, Ɛsɔ ha ñʋʋ yabʋ tamaɣ peeɖe kpaagbaa.",
+  "Ɛsɔ kɔɔ kajalaɣ ɛyʋ weyi ɛtɩmʋna yɔ ɛ-cɔlɔ, ɛya-ɩ nɛ ɛ-hɩɖɛ, nɛ ɛla-ɩ wazaɣ nʋmɔʋ.",
+  "Ɛnɩ yomaa samaɣ kubuu nɛ ɛ-maɣmaɣ ɛtii se ɛya kɛ-ñʋʋ.",
+  "Pɛlɛɣ-ɩ tam tam, ŋgʋ paa ɛzɩmtaa pakuu yɔ, ɛtiyiɣ ñʋʋ yaɖʋ nɛ ɛkpazɩ-wɛ.",
+  "Ɛtaalɔ halɩ Daviid weyi ɛtɔlaa yɔ nɛ ɛtɩŋnɩ ɛ-yɔɔ nɛ ɛha tamaɣ se Wiyaʋ tam ñɩŋʋ ɛkɔŋ.",
+  "Samaɣ ŋga kapɛ-ɩ siŋ yɔ, ɛwɛɛ nɛ ɛtiyiɣ-kɛ náyaa nɛ ɛtɛndɩɣ se: «Pɩsɩ-ɩ ɖɩɣa.»",
+  "Ɛ nɛ wɛ pɔɖɔm halɩ yom ñɩɣyʋʋ tɛtʋ kɩjɛɛyɛ taa nɛ ɛha ɖɔ-yɔɔ ʋʋ tamaɣ.",
+  "Halɩ samaɣ ŋga kakaza tam tam yɔ, ɛtaakpaɣ ɛ-tamaɣ.",
+  "Halɩ pɩnzɩ 400 hɩzɩyɛ ñɩnzɩ taa lɛ, mɛsaɣ tɛɛ ɛñɔɔzaɣ ñʋʋ yabʋ nʋmɔʋ.",
+  "Alɩwaatʋ ndʋ ɖɩɩkɛ kɩwɛɛkɩm laɖaa yɔ, ɛtiyi ɛ-Pɩyalʋ se ɛha ɛ-wezuu.",
+  "Sɔɔlɩm mbʋ ɖihiɣaa yɔ, lɛɛlɛɛyɔ ɛyeki nɛ pɩɖɛɣ ɛjaɖɛ kpeekpe yɔɔ.",
+  "Pɩtɛm lɛ, ɛkaɣ hɛzʋʋ ɛsɩtɛɣlɩm tɩŋa nɛ ɛla pɩtɩŋa kɩfam sɔɔlɩm taa."
+ ],
+ "mis": [
+  {
+   "w": "«Ɛbɛ yɔɔ Ɛsɔ lɩzɩ ɛyaa mba papɩzɩɣ palabɩ kɩwɛɛkɩm yɔ? Pɩtaakɩlɩ ɖeu se ɛtaalɩzɩ-ɖʋ kpa?»",
+   "t": "Ɛsɔ lɩzɩ ɛjaɖɛ nɛ ɛyaa pɩtɩlɩɩnɩ wɛɛkʋʋ nakʋyʋ ɛlɛ pɩlɩnɩ sɔɔlɩm sɔsɔm yɔɔ. Ɛyaa lɩzʋʋ ɛzɩ <b>ɛyaa mba pa nɛ Ɛsɔ pɔyɔɔdʋʋ yɔ</b>, pɩ-maɣmaɣ kɛnɩ sɔɔlɩm. Nɛ halɩ kɩwɛɛkɩm sʋʋ ɛɛlɩ Ɛsɔ ñʋʋ yabʋ ɖʋtʋ taa. Ɛsɔtɔm Takayaɣ ɖijɖiye pee tɛkɛ tɔm hʋʋ ɛlɛ kɛkɛ sɔɔlɩm."
+  },
+  {
+   "w": "«Pɔɖɔɔnɩ ɛyʋ nɛ paha-ɩ sɩm pɩlɩɩnɩ pee kʋɖʋmʋʋ tɔɔʋ yɔɔ ɖeke — pɩwɩlɩɣ se Ɛsɔ kɩlɩ ɖoŋ na?»",
+   "t": "Edɛɛnɩ taa lɩʋ kaakɛ tɔm hʋʋ nɛ pʋtɔdɩyɛ naʋ. Se ɛyʋ ɛtɔɔ wezuu tʋʋ pee nɛ ɛcaɣ wezuu tam wɛtʋ kɩdɛkɛdɩtʋ ndʋ tɩsɛtɩ-ɩ nɛ Ɛsɔ yɔ tɩ-taa, pɩɩwɛ ɛzɩ ɛɖʋ kʋñɔŋ taa tam yɔ. Sɩm haʋ kuli nʋmɔʋ se ɛpɩsɩ, nɛ peeɖe Ɛsɔ ha ñʋʋ yaɖʋ tamaɣ. Sɔɔlɩm kaawɛ tɔm hʋʋ taa kɩbɩnʋ."
+  },
+  {
+   "w": "«Palɩzɩ Abraham mbʋ pʋyɔɔ yɔ ɛwɛnɩ tisuu sɔsɔʋ — pɩtɩwɩlɩ se Ɛsɔtɔm Takayaɣ ɛyaa tɩŋa kɛ wɛtʋ kɩbandʋ ñɩma na?»",
+   "t": "Abraham cɛtaa nɛ ɛsʋ sɩka; Yakɔɔbʋ kaakɛ cɛtɩyʋ. Ɛsɔ taaya ɛyaa «mba pɩmʋnaa yɔ» ɛlɛ mba pɛwɛnɩ kɩwɛɛkɩm yɔ, lootiye yɔɔ. Pɩtaalɩɩnɩ pa-kɩbandʋ yɔɔ ɛlɛ pɩlɩnɩ Ɛsɔ sɔɔlɩm toovenim ñɩmbʋ yɔɔ."
+  },
+  {
+   "w": "«Pɩtɩwɩlɩ se Paɣtʋ kɛ takɩlaɣ ŋga pɩwɛɛ se ŋwabɩ-kɛ se ŋhiɣ ñʋʋ yabʋ yɔ?»",
+   "t": "Ɛsɔ ya pa-ñʋʋ <b>pʋcɔ</b> nɛ ɛha-wɛ Paɣtʋ. Halɩ paɣtʋ hiu paɣzɩnɩ ñʋʋ yabʋ yɔɔdaɣ: «Ma kɛnɩ Kɩpaɣlʋ, mi-Ɛsɔ, weyi malɩzɩ-mɩ Eziptɩ.» Paɣtʋ tɛkɛ «ɖɔ tɩ-yɔɔ se ŋhiɣ ñʋʋ yabʋ» ɛlɛ kɛkɛ sɔɔlɩm nʋmɔʋ wɩlɩtʋ ɛzɩma samaɣ ŋga payaba kɛ-ñʋʋ yɔ kɛwɛɛ wezuu yɔ. Lootiye kɔŋ kajalaɣ; ñamtʋ kɛ cosuu."
+  },
+  {
+   "w": "«Kanaaŋ hɔŋʋʋ kaakɛ ɛyaa kʋʋ kɩdɛkɛdʋʋ — pʋ-yɔɔ Ɛsɔtɔm Takayaɣ Kɩbɩnʋ Ɛsɔ kɛ ñʋʋ taa ɖoŋ tʋ siŋŋ.»",
+   "t": "Pɩkɛ tɔm kaɖɛ ñɩndʋ ndʋ ɖɩɩpɩzɩɣ ɖɩcosi tɩ-yɔɔ tɔm piye kʋɖʋmtʋ taa yɔ. Ɛlɛ Ɛsɔtɔm Takayaɣ tɩwɩlɩ-tʋ ɛzɩ ñaŋ falaa ɛlɛ kɛkɛ tɔm hʋʋ pɩnzɩ sakɩyɛ suuɖu wayɩ kɩdɛkɛdɩm sɔsɔm yɔɔ (halɩ piya kɩlaʋ). Ɛsɔ wɛ leleŋ halɩ tɔm hʋʋ taa, nɛ ɛmʋ mba papɩsɩnɩ ɛ-cɔlɔ yɔ nɛ amɛya — halɩ agɔma ɛzɩ Rahaba nɛ Ruti yɔ."
+  },
+  {
+   "w": "«Daviid kaakɛ wɛtʋ kɩbandʋ tʋ siŋŋ — pʋ-yɔɔ payaɣaɣ-ɩ se ‹ɛyʋ weyi ɛwɛ Ɛsɔ laŋɩyɛ taa yɔ›.»",
+   "t": "Daviid labɩ acɛyɛ nɛ halɩ ɛyʋ kʋʋ. «Ɛyʋ weyi ɛwɛ Ɛsɔ laŋɩyɛ taa yɔ» pɩtɩwɩlɩ wɛtʋ kɩbandʋ tʋ ɛlɛ weyi ɛɛmɛsɩ ɛ-kɩwɛɛkɩm yɔ — weyi ɛlɛɣzɩ wɛtʋ siŋŋ nɛ ɛpɩsɩ Ɛsɔ cɔlɔ tam yɔ. Ɛsɔ sɔɔlɩm taalɔ halɩ mba patɔlʋʋ siŋŋ yɔ."
+  },
+  {
+   "w": "«Náyaa kɛ tɔm yɔɔdɩyaa mba poyooduu cee wayɩ tɔm / Ɛsɔtɔm Takayaɣ Kɩbɩnʋ Ɛsɔ kɛ pana ɖeke.»",
+   "t": "Nayʋ laŋɩyɛ tɛkɛ «cee wayɩ tɔm yɔɔdʋʋ» ɛlɛ kɛkɛ Ɛsɔ wɩzasɩ tɛndʋʋ: «Pɩsɩ-ɩ.» Halɩ tɔm hʋʋ kparʋʋ ɛɛñɩnɩ se kiɖezi ɛlɛ se kɩpɩsɩ ɛyaa nɛ kiya pa-ñʋʋ — «mantaasɔɔlɩ kɩwɛɛkɩm laɖʋ sɩm»."
+  },
+  {
+   "w": "«Yom ñɩɣyʋʋ wɩlɩɣ se Ɛsɔ lɔ Izrayɛɛlɩ pilim.»",
+   "t": "Yom ñɩɣyʋʋ tɛkɛ lɔʋ ɛlɛ kɛkɛ hɔm nɛ ñɔɔzʋʋ pɩɣa kʋsɔɔlaɣ yɔɔ. Ɛsɔ taaɖɛɛ; ɛ nɛ Danɩyɛɛlɩ paawɛ yom ñɩɣyʋʋ hɛkʋ taa nɛ ɛha tamaɣ se: «Manawa maɣzɩm mbʋ mɛwɛnɩ mɩ-yɔɔ yɔ — laŋhɛzɩyɛ maɣzɩm, pɩtɩkɛ kɩdɛkɛdɩm, se mɛha-mɩ cee wayɩ nɛ lidaʋ.»"
+  },
+  null,
+  {
+   "w": "«Ɛzɩma pɩnzɩ 400 taa tɔm taawɛɛ yɔ, Ɛsɔ ɖɛwa yaa ɛhɛzaɣ.»",
+   "t": "Hɩzɩyɛ tɛkɛ fɛyʋʋ. Ɛtaayɔɔdɩ ɖeke, ŋgʋ alɩwaatʋ kpeekpe ɛ́cɛlɩɣ ajɛɛ, kʋnʋmɩŋ nɛ habɛɛ se ɛñɔɔzɩ ñʋʋ yabʋ kʋɖʋmʋʋ. Alɩwaatʋ ndʋ tɩ-taa hɩzɩyɛ kɩlɩ yɔ, Ɛsɔ tʋmɩyɛ kɩlɩ-yɛ ɖoŋ, sɔɔlɩm taa (Galaatɩ 4:4)."
+  },
+  {
+   "w": "«Yesu kaakɛ wɩlɩyʋ kɩbanʋ kʋɖʋm ɖeke / kaamaŋkaɣ kaakɛ wabɩtʋ fɛyʋʋ.»",
+   "t": "Yesu yɔɔdaa se ɛkɛ Ɛsɔ maɣmaɣ, nɛ kaamaŋkaɣ taakɛ liɖe yaa wabɩtʋ fɛyʋʋ ɛlɛ kaakɛ sɔɔlɩm mbʋ pɔñɔɔzaa yɔ. Pataahɔ-ɩ ɖoŋ; ɛha ɛ-maɣmaɣ ɛ-wezuu (Yohanɛɛsɩ 10:18). «Weyi etisiɣ nɛ ɛsɩ ɛ-ɛgbaɣdɩnaa yɔɔ yɔ, ɛsɔɔlɩ-wɛ siŋŋ. Sɔɔlɩm nabʋyʋ fɛyɩ nɛ pɩkɩlɩ ḿbʋ́.» (Yohanɛɛsɩ 15:13)."
+  },
+  {
+   "w": "«Ɛsɔ sɛtʋ ɛgbɛyɛ kɛ ɛyaa mba patalɩ pilim yɔ pa-ɛgbɛyɛ, yaa kɛkɛ kuduyuu ɖeke.»",
+   "t": "Ɛsɔ sɛtʋ ɛgbɛyɛ tɛkɛ «kiɖeɖema mba patɛma pilim yɔ» pɛ-ɛgbɛyɛ ɛlɛ kɛkɛ <b>kɩwɛɛkɩm laɖaa mba pakpɛlɩkɩ-wɛ yɔ</b>. Halɩ apostoolu Pɔɔlɩ yaa ɛ-tɩ se «kɩwɛɛkɩm laɖaa taa kajalaɣ tʋ» (1 Timootee 1:15). Kɛtɛkɛ lone kʋndʋʋ ñɩnɖɛ, ɛlɛ kɛkɛ ɛyaa mba peyeki nɛ sɔɔlɩm mbʋ pehiɣaa yɔ pɩɖɛɣ yɔ."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Aɖam kɩwɛɛkɩm — nɔɔyʋ fɛyɩ kʋtʋʋzʋ",
+   "body": "Kala tɛkɛ «tʋma kɩdɛkɛda pazɩ» ɛlɛ kɛkɛ laŋɩyɛ liɖe. Kpaɣnɩ Aɖam lɛ, paa weyi palʋlɩ-ɩ kɩwɛɛkɩm tɛɛ nɛ ɛɛpɩzɩɣ se ɛ-maɣmaɣ ɛtalɩ Ɛsɔ.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Pʋwɛ ɛzɩ pamaʋ Ɛsɔtɔm Takayaɣ taa yɔ. Pamawa se:«Nɔɔyʋ fɛyɩ se ɛtʋʋzaa,paa kʋɖʋm maɣmaɣ! Nɔɔyʋ fɛyɩ se ɛwɛ lɛɣtʋ.Nɔɔyʋ fɛyɩ ɖɔɖɔ se ɛñɩnɩɣ Ɛsɔ. Patɩŋa payɩ pelebi nʋmɔʋ,patɩŋa payɩ pɛwɛɛkaa.Nɔɔyʋ fɛyɩ se ɛlakɩ kɩbandʋ,paa kʋɖʋm maɣmaɣ! … ɛyáa tɩŋa payɩ labɩ kɩwɛɛkɩm, paakaɣ naʋ Ɛsɔ koboyaɣ kaʋ."
+  },
+  {
+   "title": "Paɣtʋ ɛɛpɩzɩɣ se tɩya ma-ñʋʋ",
+   "body": "Paɣtʋ tɛkɛ kpaɣɖʋʋ ɛlɛ kɛkɛ kɩlɛmʋʋ naʋ kɩɖaʋ. Ɛzɩma ŋlakɩ ɖoŋ yɔ mbʋ tɩwɩlɩɣ ɛzɩma ŋtii yɔ. Kɩ-tʋmɩyɛ lɛ se kiwoni-ɖʋ Krɩstʋ cɔlɔ.",
+   "vref": "Roma 3:20 · Galaatɩ 3:24",
+   "vtext": "Mbʋ́ pʋyɔɔ yɔ, Ɛsɔ ɛɛpɩsɩɣ nɔɔyʋ kʋtʋʋzʋ se ɛɖɔm paɣtʋ yɔɔ camɩyɛ. Ɛlɛ́, paɣtʋ yekina nɛ ɛyʋ tɩlɩ se ɛlabɩ kɩwɛɛkɩm. … Ḿbʋ́ paɣtʋ kɔcɔnɩ ɖɔ-yɔɔ nɛ pʋkɔɔ pɩsɩɩnɩ alɩwaatʋ ndʋ́ Krɩstʋ kɔma yɔ. Ɛkɔm se pɩtɩŋnɩ ɖe-lidaʋ ŋgʋ́ ɖɩwɛnɩ ɛ-yɔɔ yɔ kʋ-yɔɔ nɛ ɖɩpɩsɩ kʋtʋʋzaa Ɛsɔ ɛsɩndaa."
+  },
+  {
+   "title": "Lootiye yɔɔ — kʋjɔʋ, pɩtɩkɛ tʋmɩyɛ",
+   "body": "Ñʋʋ yabʋ tɛkɛ tʋmɩyɛ liidiye nɖɩ ŋlabaa yɔ, ɛlɛ kɛkɛ kʋjɔʋ falaa ñɩŋʋ mba patɩmʋna yɔ. Pʋ-yɔɔ nɔɔyʋ ɛɛpɩzɩɣ ɛkʋndɩ.",
+   "vref": "Efɛɛzɩ 2:8-9",
+   "vtext": "E-lootiye ńɖɩ́ ɖɩ-yɔɔ ɛtɩŋnɩ lidaʋ ŋgʋ́ ɩwɛnɩ Krɩstʋ yɔɔ yɔ kʋ-yɔɔ nɛ ɛya mɩ-ñʋʋ. Pɩtɛkɛ mɩ-cɔlɔ pɩlɩnaa, Ɛsɔ kʋjɔʋ pɩkɛnaa. Pɩtɛkɛ mɩ-tʋma yɔɔ pɩyabɩ mɩ-ñʋʋ. Pɩlabɩ ḿbʋ́ se nɔɔyʋ ɛtaakʋndɩ."
+  },
+  {
+   "title": "Pɩsɩ kʋtʋʋzʋ tisuu yɔɔ",
+   "body": "Pɩtɩkɛ paɣtʋ ɖɔm yɔɔ ɛlɛ tisuu Yesu Krɩstʋ yɔɔ yɔ pɩsɩ-ŋ kʋtʋʋzʋ — pasuu-ŋ pɩtɩkɛ ña-maɣmaɣ ña-tʋtʋyaɣ ɛlɛ ɛ-ñɩnɖɛ.",
+   "vref": "Roma 5:1 · Galaatɩ 2:16",
+   "vtext": "Đe-lidaʋ yɔɔ pɩtɩŋnaa nɛ Ɛsɔ pɩsɩ-ɖʋ kʋtʋʋzaa. Pʋ-yɔɔ pɩtɩŋnɩ ɖa nɛ ɖa-Kɩpaɣlʋ Yesu Krɩstʋ ɖɛ-kpɛndʋʋ yɔɔ nɛ ɖa nɛ ɩ pʋwɛɛ leleŋ. … Đɩnawa se pɩtɛkɛ weyi ɛɖɔŋ paɣtʋ ńdʋ́ tɩ-yɔɔ yɔ lɛ kʋtʋʋzʋ Ɛsɔ ɛsɩndaa. Ɛlɛ́, weyi ɛwɛnɩ lidaʋ Krɩstʋ Yesu yɔɔ yɔ lɛ kʋtʋʋzʋ. Pʋ-yɔɔ ɖa ɖɔɖɔ ɖɩwɛnɩ lidaʋ ɛ-yɔɔ se pɩtɩŋnɩ kʋ-yɔɔ nɛ ɖɩkɛ kʋtʋʋzaa Ɛsɔ ɛsɩndaa. Ɛlɛ́, pɩtaakɛna se ɖɩɖɔŋ paɣtʋ yɔɔ yɔɔ. Mbʋ́ pʋyɔɔ yɔ, nɔɔyʋ ɛɛkɛɣ kʋtʋʋzʋ Ɛsɔ ɛsɩndaa se ɛɖɔŋ ɛ-paɣtʋ yɔɔ."
+  },
+  {
+   "title": "Ɛsɔtɔm Takayaɣ wɩlɩɣ Yesu",
+   "body": "Ɛsɔtɔm Takayaɣ tɛkɛ ɛyaa sɔsaa takayaɣ yaa tɩ-sɩnʋʋ ñɩŋga. Kpaɣnɩ Kiɖe Tɛɛ Tɔm nɛ piwolo Natʋ, hɔɔlʋʋ kʋɖʋmʋʋ-kʋɖʋmʋʋ lɩzɩ ɛyʋ kʋɖʋm aseɣɖe — Yesu Krɩstʋ.",
+   "vref": "Yohanɛɛsɩ 5:39 · Luka 24:27",
+   "vtext": "Ɩtazɩɣ tɔm ndʋ́ pama Ɛsɔtɔm Takayaɣ taa yɔ tɩ-taa, mbʋ́ pʋyɔɔ yɔ, ɩmaɣzɩɣ se tɩhaɣ-mɩ wezuu maatɛŋ. Meheyiɣ-mɩ se ńdʋ́ lɩzɩɣnɩ ma-aseɣɖe! … Pʋwayɩ lɛ, ɛkɛdɩ-wɛ ɖenɖe ɖenɖe paama ɛ-tɔm Ɛsɔtɔm Takayaɣ taa yɔ nɛ ɛlɩzɩ-wɛ tɩ-tɔbʋʋ. Ɛpazɩnɩ Mooyiizi takayɩsɩ nɛ ɛkɔɔ ɛtɛzɩnɩ náyaa ñɩnzɩ tɩŋa."
+  },
+  {
+   "title": "Ɛsɔ Kewiyaɣ — Yesu tɔm sɔsɔtʋ",
+   "body": "Tɔm ndʋ Yesu kɩlɩ wɩlʋʋ yɔ. Ɛsɔ kewiyitu ɛzɩ Wiyaʋ yɔ kɔm ɛjaɖɛ yɔɔ Yesu taa nɛ pɩkaɣ talʋʋ ɖeɖe alɩwaatʋ ndʋ ɛpɩsɩɣ yɔ. Pɩtɩŋnɩ ɛ-kaamaŋkaɣ nɛ ɛ-femtu yɔɔ, Yesu kɛnɩ Wiyaʋ toovenim ñɩnʋ weyi ɛwabɩ kɩwɛɛkɩm, sɩm nɛ Sataŋ yɔ.",
+   "vref": "Maarkɩ 1:15",
+   "vtext": "Ɛtɔŋaɣ se: «Lɛɛlɛɛyɔ, alɩwaatʋ talaa se Ɛsɔ Kewiyaɣ ɛkɔɔ. Pʋ-yɔɔ lɛ, ɩlɛɣzɩ wɛtʋ nɛ itisi ɛ-Laŋhɛzɩyɛ Tɔm.»"
+  },
+  {
+   "title": "Laŋhɛzɩyɛ Tɔm — ɛ́tɛzɩ pɩtɩŋa",
+   "body": "Kɩwɛɛkɩm liidiye nɖɩ mantaapɩzɩ se mɛhɛyɩ wiɖiyi yɔ, Yesu hɛyɩ-ɖɩ ma-lone taa kaamaŋkaɣ yɔɔ, nɛ ɛfɛm lɛ ɛwabɩ sɩm. Mantɩtɩnɩ «la mbʋ» yɔɔ ɛlɛ «pɩtɛma» yɔɔ.",
+   "vref": "Yohanɛɛsɩ 19:30 · Roma 5:8",
+   "vtext": "Ɛmʋzaa lɛ, ɛtɔ se: «Pɩtɩŋa payɩ pɩlaba!» Ɛlɛ́, ɛsɔ ñʋʋ nɛ ɛhɛɛ. … Ɛlɛ́, Ɛsɔ ñawɩlɩ-ɖʋ ɛzɩma mbʋ́ ɛsɔɔlɩ-ɖʋ yɔ. Mbʋ́ pʋyɔɔ yɔ, alɩwaatʋ ndʋ́ ɖɩɩkɛ kɩwɛɛkɩm laɖaa yɔ eyeba nɛ Krɩstʋ sɩ ɖɔ-yɔɔ."
+  }
+ ],
+ "books": {
+  "Maatiyee": "MAT",
+  "Maarkɩ": "MRK",
+  "Luka": "LUK",
+  "Yohanɛɛsɩ": "JHN",
+  "Tʋma Labʋ": "ACT",
+  "Roma": "ROM",
+  "1 Kɔrɛntɩ": "1CO",
+  "2 Kɔrɛntɩ": "2CO",
+  "Galaatɩ": "GAL",
+  "Efɛɛzɩ": "EPH",
+  "Filiipi": "PHP",
+  "Kolosɩ": "COL",
+  "1 Tesalooniki": "1TH",
+  "2 Tesalooniki": "2TH",
+  "1 Timootee": "1TI",
+  "2 Timootee": "2TI",
+  "Tiiti": "TIT",
+  "Filemɔɔ": "PHM",
+  "Ebree": "HEB",
+  "Yakubu": "JAS",
+  "1 Pɩyɛɛrɩ": "1PE",
+  "2 Pɩyɛɛrɩ": "2PE",
+  "1 Yohanɛɛsɩ": "1JN",
+  "2 Yohanɛɛsɩ": "2JN",
+  "3 Yohanɛɛsɩ": "3JN",
+  "Yuudi": "JUD",
+  "Natʋ": "REV"
+ },
+ "yv": 555,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
