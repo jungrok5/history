@@ -1,0 +1,382 @@
+{
+ "menuName": "Latgalīšu",
+ "htmlLang": "ltg",
+ "dir": "ltr",
+ "brand": "Bībele vīnā teišnī",
+ "docTitle": "Bībele vīnā teišnī · Nu radeišonas leidz Bazneicai",
+ "share": {
+  "title": "Bībele vīnā teišnī",
+  "text": "Vīnā teišnī atklōj Bībeles lelū stōstu — un kōpēc Jezus atgōja."
+ },
+ "ui": {
+  "people": "Cylvāki",
+  "events": "Svareigōkī nūtykumi",
+  "christLabel": "Nūruoda uz Jezu",
+  "loveLabel": "Mīlesteiba, kura napamat",
+  "mythWrong": "Izplateits maldeigs prīkšstots",
+  "mythRight": "Patīseiba",
+  "more": "Lasēt tōļōk",
+  "version": "(LGT)"
+ },
+ "labels": {
+  "start": "Sōkums",
+  "thread": "Stōsts",
+  "gospel": "Evangelijs",
+  "about": "Par lopu"
+ },
+ "s": {
+  "ui.share": "↗ Daleitīs",
+  "ui.toast": "Saite nūkopēta 📋",
+  "ui.footer": "Bībele vīnā teišnī · Svātū Rokstu citati nu izdavuma LGT",
+  "hero.kicker": "NU RADEIŠONAS LEIDZ BAZNEICAI",
+  "hero.title": "Bībele,<br><span class='em'>vīnā teišnī</span>",
+  "hero.sub": "Vīnā teišnī atklōj Bībeles lelū stōstu — un kōpēc Jezus atgōja.",
+  "hero.cue": "Tein zam<span>↓</span>",
+  "thread.eyebrow": "VĪNS TEIKUMS, KAS VYSU SAVĪN KUPŌ",
+  "thread.h2": "Gola golā Bībele ir vīns vīneigs stōsts",
+  "thread.flow": "<b>Apsūleišona</b><span class='arw'>→</span><b>Gaideišona</b><span class='arw'>→</span><b>Pīsapiļdejums</b>",
+  "thread.note": "Dīvs <b>apsūla</b> (dereiba), ļauds <b>ilgi gaida</b>, un gola golā vyss tūp <b>pīsapiļdeits</b> un pabeigts Jezū. Sekoj zamōk dūtajom 13 ainom šaidā plyusmā — pīspīd <b>«Lasēt tōļōk»</b> iz kotras kōrteņas, kab īraudzeitu dziļōku stōstu.",
+  "gospel.eyebrow": "KŪ ŠIS STŌSTS NŪZEIMĒ «MAN»",
+  "gospel.h2": "Bībeles eistō sirds",
+  "gospel.lead": "Bībele <b>nav mōceibu grōmota par tū, kai «byut lobam cylvākam».</b>",
+  "gospel.sublead": "Tys ir stōsts par tū, kai Dīvs, <b>tikai nu žēlesteibas</b>, izglōbe grēcinīkus, kuri poši sevi navarēja izglōbt. Jō centrā stōv Jezus Kristus.",
+  "gospel.mirror": "<h3>Izraēļa bezgaleigais riņķs eistinēji ir «mane» atspulgs</h3><div class='cycle'><b>Elku kalpōšona</b><span class='a'>→</span><b>Cīsšona</b><span class='a'>→</span><b>Saukšona pēc paleidzeibas</b><span class='a'>→</span><b>Dīvs izglōbj</b><span class='a'>→</span><b>Atkon elku kalpōšona…</b></div><p>Nu Tīsnešu laika leidz izsyutejumam Izraēļs šū riņķi atkōrtoj bez gola. Bībele tū napīraksteja tōpēc, lai mes varātu zūbōtīs: «Cik nūžālōjami jī beja.»</p><p>Tys ir <b>spīgeļs</b>. Dūma nav «Izraēļs tai dareja», bet gon <b>«es doru tū pošu»</b> (1. Korintīšim 10:11).</p><p><b>Elks</b> nav tikai izgrīzts tāls. Tys ir <b>vyss, kū mes mīļōjam voi uz kū paslaicōmīs vairōk kai uz Dīvu</b> — nauda, panōkumi, atzineiba, cylvāki, pat es pats. Un Dīva izmantōšona kai <b>leidzekli, kab dabuotu tū, kū es grybu</b>, ari ir elku kalpōšona.</p><p class='punch'>Gola golā dziļōkais elks ir «es pats, sēdūšs Dīva trūnī».</p>",
+  "gospel.coreIntro": "Kai tod Dīvs taidu grēcinīku izglōbj? Ze ir Evangelija sirds, kuru Bībele sludynoj.",
+  "gospel.crux": "<p class='crux-lead'>Vysa Bībele nūruoda uz vīnu vītu.</p><p>Cylvāks poša spākim navarēja pōrraut grāka riņķi, un nivīna taisneiga nabeja. Tōpēc kaidam beja jōsamoksoj cīna jū vītā.</p><p>Jezus naatgōja tikai dūt lobas mōceibas. Tōpēc ka cyta ceļa mani izglōbt nabeja, <b>Jam naatlyka nikas cyts, kai atīt.</b></p><p class='crux-punch'>Tys, kuram beja jōkareis iz tō krysta, beju <b>es</b>.<br>Jezus aiznese <b>muna grāka</b> nostu un tyka pīsysts tur muna vītā.</p><div class='crux-verse'>«Jys pats sovā mīsā myusu grākus aiznese uz kūka (krysta), lai mes, grākim nūmyruši, dzeivōtu taisneibai. Caur Jō cērtumim jyus asot atgyvuši veseleibu.» — 1. Pētera 2:24</div>",
+  "faq.h": "Voi vēļ kas nadūd mīra?",
+  "faq.q1": "<span class='arr'>▸</span> Tai tod slepkovam pītīk tikai tycēt, kab nūkļytu debesīs, kemād myužu lobs cylvāks, kurs natic, nūkļyust elnē?",
+  "faq.a1": "<p>Tys ir taisneigs jautōjums. Bet jō īškā slēpjas div maldeigi prīkšstoti.</p><p><b>① Bībele nadola cylvākus iz «lobim un slyktim».</b> Mērs nav «lobōks par kaimiņu», bet gon «Dīva pylneigais svātums». Jō prīškā nivīns nav «pītīkami lobs» (Romīšim 3:23). Tai šis nav «lobs cylvāks pret slepkovu», bet dreižōk līk div cylvāki ar tū pošu nōveigū saslimšonu — vīns pījem zōles, ūtrs nu jom atsoka, saceidams: «Es asu veseleigōks par tū.»</p><p><b>② Debesis un elni dola tikai vīna līta.</b> Na dorbu vērtejums, bet gon <b>voi tu esi pījēmis Jezu Kristu par Kungu un tova grāka problema ir atrisynōta.</b> Tys, kura grāks ir atrisynōts caur Kristus asni, nūkļyust debesīs; tys, kas Jū nikod napījem un kura grāks palīk, naīt. Nikaids lobu dorbu daudzums napōrrisynoj pošu grāka problemu.</p><p>Tai debesis un elne nav «atalgōjums par lobu uzvešonūs», bet gon <b>attīceibu jautōjums ar Kristu</b>. Un «ticeiba» nav prōta pīkrišona, bet gon pōrmaiņa tymā, kas vada tovu dzeivi — kas Jū patīsi pījem, natūp lepns, bet vyspatīsōk gondoj. Eistinēji pošattaisnōšona («es asu lobs cylvāks») ir vysgryutōkais elks, kū sasyst, tys pats, kas mums līk dūmōt, ka mums navajadzeigs Kristus (Lukasa 18:9-14).</p><p>Bībele tū soka skaidri: <b>«Kas Jam tic, tys tīsōts natiks; bet kas natic, tys ir jau nūtīsōts, ka natic vīnpīdzymušō Dīva Dāla vōrdam»</b> (Jōņa 3:18). Tīsa nav «tovas dzeives vērtejums pēc nōves», bet ir jau izškirta pēc tō, <b>voi tu pījēmi Kristu</b>.</p><p class='faq-v'>Romīšim 3:23 · Jōņa 3:18 · Efezīšim 2:8-9 · Lukasa 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Voi es navaru vīnkōrši dzeivōt lobu dzeivi, natycādams Jezum?",
+  "faq.a2": "<p>Tei ir vysizplateitōkō dūma, bet tei napareizi saprūt, kas ir eistō problema. Ze ir atspulgs.</p><p><b>Pīņemam, ka tu esi iz piratu kuģa.</b> Lai cik teiru tu turi klōju, cik lōben izaturi pret komandu, cik prīkšzeimeiga ir tova dzeive — tu vēļ jūprūjom esi <b>pirats</b>, tōpēc ka kuģs tevi nas leidza tur, iz kurīni jis dūdās (uz tīsas ūstu). Problema nav «dorbu vērtejums», bet gon <b>«kaidam kuģam tu pīdari» (tova identiteita)</b>.</p><p>Tōpēc Evangelijs nasoka «pīpyli vairōk, kab byut lobs», bet gon <b>«samaini kuģi».</b> Nūkōp nu grāka kuģa un pōrej iz Jezu — uz jaunu identiteitu kai <b>Dīva bārns</b>. Tys nav sova vērtejuma cylōšona ar pyili, bet gon paslaiceišonōs iz Tū, kurs izstīp sovu rūku, un pōrīšona iz Jō kuģi.</p><p>Eistinēji Bībele aproksta izglōbšonu tīši kai taidu pōrcēlumu: <b>«Jys myusus izrōve nu tymseibas varas un pōrnese uz sovas mīlesteibas Dāla vaļsteibu»</b> (Kolosīšim 1:13).</p><p>Nasaprūt napareizi: <b>tys nanūzeimē, ka loba dzeive byutu bezsvareiga.</b> Lobums nav izglōbšonas «nūsacejums», bet gon jō <b>augli</b>. Kas ir samaineijis kuģi, tagad dzeivoj lōben na nu boilem, bet nu bārna mīlesteibas.</p><p class='faq-v'>Kolosīšim 1:13 · Jōņa 1:12 · Jōņa 3:3 · Efezīšim 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Ja nūziedznīks jyutās mīrā, apgolvōdams «Dīvs man pīdevis», kemād cītušais vēļ cīš — voi tod žēlesteiba nav par lātu?",
+  "faq.a3": "<p>Jautōjums ir taisneigs, un sōpe ir eistō. Bet taids apgolvōjums nav «Bībeles pīdūšona» — tys ir jō <b>izkroplōjums</b>.</p><p><b>① Dīva pīdūšona nikod nav lāta.</b> Grāks natūp pasloucits zam paklōja, it kai tō nikod nabyutu bejis; Dīvs pats samoksōja jō cīnu ar sova Dāla dzeiveibu. Krysts nav pīrōdejums, ka grāks teik jimts vīgli, bet ka grāks ir tik smogs — tei ir vysdōrgōkō pīdūšona pasaulī.</p><p><b>② Eistō atsagrīzšona nas augli.</b> Ja nūziedznīks ir lepns cītušō prīškā — «Dīvs man pīdevis, tai es asu mīrā» — tei nav atsagrīzšona, bet gon jō atdarynōšona (Mateja 3:8). Un pīdūšona storp cylvāku un Dīvu nadzēš cītušō vōti un naspīž cītušajam pīdūt.</p><p><b>③ Grāks nikod natūp vīnkōrši «pasaists».</b> Kotrs grāks teik samoksōts vīnā nu div vītōm — <b>voi nu Kristus jū nas iz krysta</b> (tim, kas Jam tic, vairs nav nūsūdejuma, Romīšim 8:1), <b>voi nu tys, kas Jū gola golā nūraida, jū nas pats.</b> Tai nav «lātas pīdūšonas». Nūziedznīks ari šaidā pasaulī nas jureidisku atbiļdeibu (Romīšim 13:1-4).</p><p><b>④ Cītušō asoras Dīva prīškā nikod nav mozas.</b> Dīvs raud kūpā ar tim, kas raud, atguod kotru osoru un gola golā jōs pats nūslauceis (Atklōsmes 21:4). Tai cītušajam navajag atrībeibas nostu nest vīnam, bet jis var tū uztycēt taisneigajam Dīvam (Romīšim 12:19 — «Man pīdar atrībeiba, Es atmoksōšu, soka Kungs»).</p><p class='faq-v'>Mateja 3:8 · Romīšim 8:1 · Romīšim 13:1-4 · Atklōsmes 21:4</p>",
+  "faq.q4": "<span class='arr'>▸</span> Voi Bībele eistinēji ir patīss stōsts? Tys līkās kai vacs muits voi romans.",
+  "faq.a4": "<p>Tys ir taisneigs jautōjums — un loba vīta, kur sōkt. Šaubeiba nav ticeibas pretmets, bet gon vēlme pōrbaudeit lītas gūdeigi. Bībele nav nazkaida muits, kuram «tycēt, kod ir gora pacelšona», bet gon pīraksteits zaprūtejums par <b>eistom vītom, datumim un cylvākim</b>. Tikai poša naudaudzi pīmāri.</p><p><b>① Tei nav vīna grōmota, bet «bibliotēka» — un tūmār plyust iz vīnu tēmu.</b> Bībele ir <b>66 grōmotu</b> kūpa, raksteita apmārom <b>1500 godu garumā nu apmārom 40 autorim</b> — kēneņi, gonni, zvejnīki, mūtnis, ōrsts, dažōdu kōrtu un laiku cylvāki, kas raksteja atseviški un nazynōja vīns ūtru, treis volūdōs (ebreju, aramieju, grīku). Un tūmār vyss bez chaosa savīnojās iz <b>vīnu tēmu: izglōbšona caur Kristu</b>. Taidu sasaisteibu ir gryuts izskaidrōt ar gadeibu voi cylvāka saskaņōšonu.</p><p><b>② Tū vēļ atkon apstyprynoj nu zemes (archeologeja).</b> Daudz kas, kas reizē tyka uzskateits par izdūmōtu, «atrūnamu tikai Bībelē», vālōk tyka apstyprynōts ar izrokumim. <b>Doveida dinasteja</b> caur akmini ar īraksti «Doveida noms» (Tel Danas stēle); <b>Pontijs Pilots</b>, vaļdeitōjs, kas nūsūdeja Jezu uz nōvi, caur īraksti ar jō vōrdu; kēneņa Hizkijas yudiņa tuneļs — caur pošu tuneli un jō īraksti. Pat <b>hetī</b>, kas reizē tyka saukti par «izdūmōtu tautu», cēlās nu drupom kai lela vaļsteiba.</p><p><b>③ Tys ir vyslobōk saglobōtais sentōļu dokuments (rūkroksti).</b> Pēc saglobōtū rūkrokstu skaita, jū saskaņas vīnam ar ūtru un laika storpas storp raksteišonu un pōrraksteišonu Bībele ir <b>sentōļu dokumentu storpā nasaleidzynojama</b>. Pyrmskristus laika Izajas teišnis nu <b>Nōves jyuras rūkrokstim</b> (atrosts 1947) saskaņojās gondreiž burts pa burtam ar apmārom 1000 godu vālōku standarttekstu — pīrōdejums, ka Bībele caur godu symtim ir saglobōta precīzi.</p><p><b>④ Kas beja pīraksteits īprīkš, nūtyka tīši tai (pravīteišona).</b> Symtim godu pyrms Jezus pīraksteitī roksti precīzi nūruoda uz jō pīdzimšonu Bētlemē, cītūšū kolpu un krysta apstōkļim. Par precīzs, lai tū uzskateitu par gadeibu.</p><p><b>⑤ Ari ōrpus Bībeles vēsturnīki tū pīraksteja.</b> Romīšu vēsturnīks <b>Tacits</b> un žeidu vēsturnīks <b>Jozefs</b> — nivīns nabeja kristīts — pīminej Jezu, jō nūsūdejumu un pyrmū bazneicu. Pōrūš, mōceklis, kas boilēs beja izklīduši, <b>lyka iz spēles sovu dzeivi</b>, līcinōdami par augšōmceļšonu — nivīns namyrst par tū, kū zyna asam mels.</p><p>Gūdeigi sokūt, šī pamota tūmār ruoda, ka tycēt Bībelei <b>nav neprōteigi, bet saprateigi</b>; tī nav «pīrōdejums», kas spīž kai matematiskō formula. Tōpēc kristītō pōrlīceiba nōk na tikai nu pīrōdejumim, bet gon nu <b>pōrlīceibas, kuru Svātais Gors dūd sirdī, kod cylvāks lasa Vōrdu</b>. Bībele soka: <b>«Tai tad, ticeiba ir nu sludynōšonas, bet sludynōšona uz Kristus pavēles»</b> (Romīšim 10:17). Tai, lai cik ļūti tys līkās kai izdūmōjums, <b>jō lasaišona pošam</b> ir sōkums. Pīrōdejums atver durovas, un pōrlīceiba aug tymā, kas lasa.</p><p class='faq-v'>Romīšim 10:17</p>",
+  "respond.h3": "Tai — kas byus ar mani?",
+  "respond.sub": "Šei mīlesteiba nav informaceja, bet gon <b>aicynōjums</b>. Ja mīlesteiba, kura tyka pīsysta tova vītā, ir aizskōrusi tovu sirdi, lyudz šū lānōm, pa vīnai rindeņai.",
+  "respond.prayer": "<p>Dīvs,</p><p>es atzeistu, ka asu grēcinīks, kurs sevi pats navar izglōbt.</p><p>Es ticu, ka Jezus nūmyra par mani iz krysta un augšōmcēlēs.</p><p>Pīdūd vysus munus grākus un nu šudīnas byusi munas dzeives Kungs.</p><p>Pījem mani par sovu bārnu un ļaun man dzeivōt jaunu dzeivi.</p><p class='amen'>Jezus vōrdā es lyudzu. Amen.</p>",
+  "respond.after": "Ja tu šū lyudzi nu sirds, Bībele soka, ka tu esi <b>kļuvis par Dīva bārnu</b>. Tu vairs naesi vīns — atrūdi tyvōku bazneicu un ej ticeibas ceļu kūpā ar cytim.",
+  "respond.read": "Lasi Bībeli pats — sōc nu Jōņa",
+  "respond.verse": "«Ikvīnam, kas Jū pījēme, deve varu palikt par Dīva bārnu: tim, kas Jō vōrdam tic.» — Jōņa 1:12 · Romīšim 10:9-10",
+  "closing.main": "Vīns Dīvs,<br>caur vīnu stōstu,<br>nōk mums pakaļ ar <em>mīlesteibu</em>,<br>kura nikod napamat.",
+  "closing.verse": "«Ni nōve, ni dzeive… ni kaida cyta radeiba myusu naspēs atraut nu Dīva mīlesteibas, kura ir ikš myusu Kunga Jezus Kristus.» — Romīšim 8:38-39",
+  "closing.small": "Šim stōstam Lykums, dzejas grōmotas, pravīši un vēstules pīlīk «mīsu».<br>Nu šō laika, lai kuru grōmotu tu atvērtu, tu raudzīsi, kur stōstā tu pošlaik esi.",
+  "closing.share": "↗ Daleitīs ar šū stōstu",
+  "about.line": "Pamatōts iz pesteišonas-vēsturiskū skotejumu, kuru dola lelōkō daļa Korejas protestantu bazneicas (evangeliskō · reformeitō).",
+  "about.contact": "Jautōjumi · atsauksme — <a id='contact' class='mail'>Raksti mums</a>",
+  "partial.note": "Latgalīšu volūdā ze citēts tikai Jaunais Testaments; lasi pylnū stōstu Jaunajā Testamentā."
+ },
+ "epochs": [
+  {
+   "tag": "VACAIS TESTAMENTS · SŌKUMS",
+   "title": "Radeišona",
+   "date": "Sōkumā",
+   "one": "Dīvs radeja pasauli, kura beja «cīši loba».",
+   "people": "Dīvs; Ōdams un Īva",
+   "events": "Seši radeišonas dīnas, cylvāks radeits pēc Dīva tāla, sabata atpyusa",
+   "q": "Sōkumā Dīvs radeja debesi un zemi.",
+   "cite": "",
+   "christ": "Pasaule tyka radeita caur «Vōrdu». Jōņa evangelijs sludynoj, ka šis Vōrds ir pats Jezus (Jōņa 1:1-3).",
+   "detail": "<p>Bībele nasōkās ar filozofisku spreidumu, bet gon ar sludynōjumu: <b>«Sōkumā Dīvs radeja…»</b> Pasaule nav gadeiba, bet gon pesoneiga Dīva dorbs.</p><ul><li><b>Dīva tāls</b> · nu vysom radeibom tikai cylvāks ir radeits Dīvam leidzeigs — kab Jū pazeitu un par pasauli ryupātūs.</li><li><b>Atpyusa</b> · sevītōs dīnas atpyusa ruoda vysu pabeigtu un mīrā (šaloms): «tys beja lobs».</li><li><b>Edene</b> · pasaule pyrms tō, kad tei tyka sadrumstaluota, kur Dīvs un cylvāki staiga kūpā.</li></ul>",
+   "next": "Bet šei pylneiba ir iz sabryukšonas sliksnu…"
+  },
+  {
+   "tag": "VACAIS TESTAMENTS · PROBLEMA SŌKĀS",
+   "title": "Kreišona grākā",
+   "date": "Sōkumā",
+   "one": "Grāks īgōja, un saite storp cylvāku un Dīvu tyka pōrrauta.",
+   "people": "Ōdams un Īva; čyuska (Sātans)",
+   "events": "Aizlīgtō augļa ēšona, izdzeišona nu Edenes, nōves un grytuma atnōkšona",
+   "q": "Dīvs nūlīk naidu storp čyusku un sīvīti, un sīvītes pēctečs sadrups čyuskai golvu.",
+   "cite": "",
+   "christ": "Pyrmais evangelija apsūlejums, dūts tyuleņ pēc kreišonas grākā: «sīvītes pēctečs» sadrups čyuskai golvu — un tys ir Jezus (Romīšim 16:20; Galatīšim 4:4).",
+   "detail": "<p>Caur naklauseibu, kura grybēja «byut kai Dīvs», grāks īnōk pasaulī. Sekas nav tikai pōrrauts lykums, bet gon <b>pōrrautas attīceibas</b>.</p><ul><li><b>Pōrrautas saites</b> · ar Dīvu (slēpšonōs), vīns ar ūtru (apsyudzeišona), ar dabu (āŗkšķi un grytums).</li><li><b>Nōve</b> · breidynōjums «tev byus jōmyrst» kļyust par patīseibu.</li><li>Tūmār tīsas vydā vyspyrms atnōk izglōbšonas apsūlejums. Mōceitī tū sauc par <b>protoevangelium (pyrmū evangeliju)</b>.</li></ul>",
+   "next": "Tagad Dīvs aicynoj vīnu veiru, kab sōktu izglōbšonu…"
+  },
+  {
+   "tag": "VACAIS TESTAMENTS · APSŪLEJUMS",
+   "title": "Tāvutāvi",
+   "date": "ap 2000 p.m.ē.",
+   "one": "Dīvs apsūla Abraamam: «Tu byusi sveitejuma kanals.»",
+   "people": "Abraams · Izaaks · Jākobs · Jōzeps",
+   "events": "Abraama dereiba, Izaaka upurēšona, Jākoba div poča dāli, Jōzeps tūp pi varas Egiptā",
+   "q": "Dīvs apsūla padareit Abraamu par lelu tautu, un jymā tiks sveitetas vysas zemes dzymtas.",
+   "cite": "",
+   "christ": "Apsūlejums, ka «vysas tautas tiks sveitetas», pīsapiļda Jezū, Abraama pēctečī (Galatīšim 3:16).",
+   "detail": "<p>Dīvs sōk rūsynōt vysas cylvēceibas problemu, aicynōdams vīnu veiru, <b>Abraamu</b>. Jō sirds ir <b>dereiba (apsūlejums)</b> — lela tauta, zeme un «sveitejums vysom tautom».</p><ul><li><b>Ticeiba</b> · Abraams ticēja naredzamam apsūlejumam, un tys jam tyka pīskaiteits par taisneibu.</li><li><b>Izaaks un Jākobs</b> · apsūlejums īt tōļōk; Jākobs (Izraēļs) padzemdej div poča ciltis.</li><li><b>Jōzeps</b> · brōļu pōrdūts, tūmār pacelts pi varas — Dīvs tū pōrvērse par lobu.</li></ul>",
+   "next": "Sekōdama Jōzepam, dzymta nūīt zam Egiptā — un palīk verdzeibā…"
+  },
+  {
+   "tag": "VACAIS TESTAMENTS · ATPESTĪŠONA",
+   "title": "Izīšona un tukseša",
+   "date": "ap 1446 p.m.ē.",
+   "one": "Dīvs izglōbe paverdzynōtū tautu un padareja jūs par sovejim.",
+   "people": "Moizešs, Ārons, faraons",
+   "events": "Desmit sūdi, Pasha, Sorkonōs jyuras pōrīšona, desmit baušļu Sinajā, mōteņs telts, 40 godu tuksešā",
+   "q": "Dīvs apsūla pījimt jūs par sovu tautu un byut jū Dīvs.",
+   "cite": "",
+   "christ": "Pasha — kad jāreņa asnis nūgrīze nōvi nūst — nūruoda uz Jezu, «myusu Pashas jāru», kas tyka pīsysts pi krysta par mums (1. Korintīšim 5:7).",
+   "detail": "<p>Vacō Testamenta lelōkō izglōbšona. Reizē paverdzynōtais Izraēļs ar Dīva spāku tūp breivs un teik veiduots par jō <b>tautu</b>.</p><ul><li><b>Pasha</b> · noms, kas atzeimēts ar jāreņa asni, paīt nōvei garum — paraugs aiz kotra vālōka upura.</li><li><b>Sorkonō jyura</b> · izglōbšona tur, kur ceļs bēdzās; «pōrīšona» tūp jauna sōkuma simbols.</li><li><b>Sinaja dereiba</b> · caur baušļim jī mōcōs, kai dzeivōt kai Dīva tauta.</li><li><b>Mōteņs telts</b> · pōrvītojama svātnīca, kur Dīvs mōj sovas tautas vydā — «Emanuela» prīkšbaudejums.</li><li><b>40 godu</b> · naklauseiba līk vīnai paaudzei klaiņōt tuksešā, tūmār Dīvs palīk tyvu ar mannu un mōkūņa un guņs stobu.</li></ul>",
+   "next": "Stōvūt apsūlītōs zemes molā, jī gatovojās īīt…"
+  },
+  {
+   "tag": "VACAIS TESTAMENTS · APMETŠONA",
+   "title": "Īkaruošona un tīsneši",
+   "date": "ap 1400–1050 p.m.ē.",
+   "one": "Jī dabuoja zemi, bet bez kēneņa kotrs dareja, kū grybēja.",
+   "people": "Jozua; tīsneši kai Gideons un Samsons; Rute",
+   "events": "Jērikas kreišona, apmešonōs Kanaanā, atkōrtojūšs grāka–tīsas–izglōbšonas riņķs",
+   "q": "Tymūs laikūs Izraēlī nabeja kēneņa; kotrs dareja tū, kas beja pareizs jō poša acīs.",
+   "cite": "",
+   "christ": "Nu Rutes cilts nōk Doveids, un nu Doveida cilts nōk Jezus (Mateja 1). Pat chaosā Mesijas dzymtas kūks turpinōs.",
+   "detail": "<p>Jozua vadeibā jī īīt apsūlītōs zemē, bet pēc apmešonōs dreiž aizmierst Dīvu. Tīsnešu grōmota ir tys pats raksts, kas atkōrtojās.</p><ul><li><b>Kreišūs riņķs</b> · grāks → apspīšona → saukšona pēc paleidzeibas → tīsneša izglōbj → atkon grāks. Tys tikai poslīk slyktōks.</li><li><b>Tīsneši</b> · Gideons, Samsons, Debora — laiceigi izglōbeji, varūneigi, bet dziļi nūsaviņōti.</li><li><b>Rute</b> · gaišs stōsts par uztycameibu tymsajā laikmetā; svešzemnīce īstōj Doveida (un Jezus) dzymtā.</li></ul>",
+   "next": "Tauta sauc: «Dūd ari mums kēneņu!»…"
+  },
+  {
+   "tag": "VACAIS TESTAMENTS · ZALTA LAIKMETS",
+   "title": "Apvīnōtō kēneņvaļsteiba",
+   "date": "ap 1050–930 p.m.ē.",
+   "one": "Dīvs apsūla Doveidam: «Tovs trūns pastōvēs myužeigi.»",
+   "people": "Sauls · Doveids · Salamans",
+   "events": "Pyrmais kēneņš Sauls, Doveids un Goliats, Doveida dereiba, Salamans ceļ templi",
+   "q": "Dīvs apsūla Doveidam, ka jō noms un kēneņvaļsteiba pastōvēs myužeigi, un jō trūns tiks nūstyprynōts uz myužim.",
+   "cite": "",
+   "christ": "«Myužeigais trūns» pīsapiļda Jezū, Doveida dālā — tōpēc Jū sauc par «Doveida dālu» (Lukasa 1:32-33; Mateja 1:1).",
+   "detail": "<p>Izraēļa augstōkais punkts, kuru vada treis kēneņi.</p><ul><li><b>Sauls</b> · kēneņš, kuru tauta pīprasēja; lobs sōkums, kuru sabūjōja naklauseiba.</li><li><b>Doveids</b> · «veirs pēc Dīva sirds». Jis uzvar Goliatu un padora Jeruzalemu par golvaspilsātu. Jis īdora lelu grāku (Batšeba), tūmār nu sirds atsagrīž.</li><li><b>Doveida dereiba</b> · Dīvs apsūla nūstyprynōt Doveida dinasteju myužeigi — Mesijas cereibas izškirūšō sōkne.</li><li><b>Salamans</b> · gudreibas un bogōteibas augstumā jis ceļ <b>templi</b>, bet dzeives golā pīsagrīž elkim.</li></ul>",
+   "next": "Pēc Salamana kēneņvaļsteiba sadolās div daļōs…"
+  },
+  {
+   "tag": "VACAIS TESTAMENTS · KRYŠŪNA",
+   "title": "Sadaleitō kēneņvaļsteiba",
+   "date": "930–586 p.m.ē.",
+   "one": "Sadaleita iz dīnu (Jyuda) un zīmeļ (Izraēļs), tauta slīd uz būjeju.",
+   "people": "Obu kēneņvaļsteibu kēneņi; pravīši kai Eilijs, Izajs, Jeremijs",
+   "events": "Kēneņvaļsteiba sadolās, elku kalpōšona izplotās, pravīši breidynoj",
+   "q": "Tai Izraēļs ir sacēļīs pret Doveida nomu leidz pat šūdīnai.",
+   "cite": "",
+   "christ": "Šaidā laikmetā pravīši nōkamū Mesiju sludynoj orvīn skaidrōk.",
+   "detail": "<p>Salamana dāla dīnōs tauta sadolās: <b>zīmeļu Izraēļa kēneņvaļsteiba</b> (10 ciltis, golvaspilsāta Samareja) un <b>dīnu Jyuda kēneņvaļsteiba</b> (2 ciltis, golvaspilsāta Jeruzaleme).</p><ul><li><b>Izraēļs (zīmeļ)</b> · kotrs kēneņš kolpoj elkim; tys kreit Asirejai 722. godā p.m.ē.</li><li><b>Jyuda (dīnu)</b> · Doveida cilts turpinōs, ar dažim lobim kēneņim kai Hizkija un Joziju, bet kūpumā atkōpjās.</li><li><b>Pravīši</b> · Eilijs, Amoss, Izajs, Jeremijs sauc: «atsagrīzit!» Mesijas pravīteišona šeit sasnādz sovu bogōtōkū punktu (cītūšais kolps).</li></ul>",
+   "next": "Gola golā atnōk breidynōtō tīsa — jūs aizved izsyutejumā…"
+  },
+  {
+   "tag": "VACAIS TESTAMENTS · TĪSA",
+   "title": "Izsyutejums",
+   "date": "722 / 586 p.m.ē.",
+   "one": "Tauta sabryust un teik aizvasta uz svešom zemom.",
+   "people": "Daniels, Ezechiels, Nabukadnecars",
+   "events": "Izraēļs kreit Asirejai (722), Jyuda kreit Babilonijai un templs teik izdyldeits (586)",
+   "q": "Pi Babilonas yudiņim, tur mes sēdējom un raudōjom, kad atguodōjom Sionu.",
+   "cite": "",
+   "christ": "Izmiseibas dziļumā Jeremijs apsūla «jaunū dereibu» — tū pošu dereibu, kuru Jezus apzimūgoj pādejā vakariņu malteitē.",
+   "detail": "<p>Breidynōjumi pīsapiļda. Templs dag un tauta teik aizvasta uz Babilonu — pazaudejūt zemi, kēneņu un templi: vyszamōkais punkts.</p><ul><li><b>Div kreišonas</b> · Izraēļs (Asireja, 722 p.m.ē.) un Jyuda (Babilonija, 586 p.m.ē.).</li><li><b>Daniels</b> · ticeibas paraugs pat pogona galmā (lavu bedre); jis red parōdeibas par nōkamū «myužeigū kēneņvaļsteibu».</li><li><b>Cereibas dzierksts</b> · Ezechiela parōdeiba par augšōmceļūšimīs sausim kaulim un Jeremija «jaunō dereiba» nūruoda uz nōkutni tymsā.</li></ul>",
+   "next": "Sevtinīt godu vālōk Dīvs atver ceļu — jī īt iz sātu…"
+  },
+  {
+   "tag": "VACAIS TESTAMENTS · ATJAUNŪŠONA",
+   "title": "Atsagrīzšona",
+   "date": "538–430 p.m.ē.",
+   "one": "Jī atsagrīž un atjaun templi un myurus.",
+   "people": "Ezra, Nehemijs, Estere, Zerubabels",
+   "events": "Atsagrīzšona pēc Kira pavēles, templa atjaunūšona, Jeruzalemes myuru atjaunūšona, Vōrda atjaunūšona",
+   "q": "Kunga prīcs ir jyusu spāks.",
+   "cite": "",
+   "christ": "Malachijs, Vacō Testamenta pādejō grōmota, beidzās ar pravīteišonu par vēstvedi, kas sagatovoj Mesijas ceļu: «Es syutu sovu vēstvedi».",
+   "detail": "<p>Pēc pārsu kēneņa Kira pavēles (538 p.m.ē.) sōkās atsagrīzšona. Treis viļņūs jī atsagrīž un atjaun tū, kas beja drupōs.</p><ul><li><b>Zerubabels</b> · atjaun templi (pabeigts 516 p.m.ē.).</li><li><b>Ezra</b> · atkon mōca Vōrdu un atdzeivynoj ticeibu.</li><li><b>Nehemijs</b> · atjaun Jeruzalemes myurus 52 dīnōs.</li><li><b>Estere</b> · izglōbj žeidus Pārsejā nu izneiceišonas — «tīši taidam laikam».</li><li><b>Vēļ ilgūdamīs</b> · templs stōv, bet nav kēneņa kai Doveids. Tauta gaida Mesiju.</li></ul>",
+   "next": "Un tod… it kai debesis byutu apklusušas, paīt 400 godu."
+  },
+  {
+   "tag": "STORP TESTAMENTIM · SKATUVES GATAVŌŠONA",
+   "title": "Klusuma godi",
+   "date": "ap 430–4 p.m.ē.",
+   "one": "400 godu bez pravīša bolss — tūmār skatuve tyka klusi gatavota.",
+   "people": "Aleksandrs Lelais, makabī, Roma",
+   "events": "Pārseja → Grīkeja → makabīšu naatkareiba → Romas vara",
+   "q": "Bet kad nōce laika pīsapiļdejums, Dīvs atsyuteja sovu Dālu, kas pīdzimis nu sīvītes beja padūts lykumam,",
+   "cite": "Galatīšim 4:4",
+   "christ": "Vysa šei «skatuves gatavōšona» beja Dīva dorbs, kab Jezus atnōktu tīši «laika pīsapiļdejumā».",
+   "detail": "<p>Nu Malachija leidz Jaunajam Testamentam paīt apmārom 400 godu bez jaunim Svātim Rokstim. Tūmār aiz vēstures Dīvs gatovoja evangelija ceļu.</p><ul><li><b>Vaļsteibas mainās</b> · Pārseja → Grīkeja (Aleksandrs, 333 p.m.ē.) → Ptolemaiji un Seleukiji → makabīšu sacelšonōs (167 p.m.ē.) → Roma (63 p.m.ē.).</li><li><b>Grīku volūda</b> · Aleksandra īkaruojumi padora grīku volūdu par kūpeigū volūdu; Vacais Testaments teik pōrtulkōts grīku volūdā (Septuaginta), brucinōdams ceļu evangelija dreižajai izplateibai.</li><li><b>Romas ceļi un mīrs</b> · lobi izbyuvāti ceļi un «Pax Romana» tūp misijas šaseju.</li><li><b>Sinagogas un grupejumi</b> · sinagogu mōceiba īsakņojās; rūdās farizeji un saduceji; un <b>ilgūšonōs pēc Mesijas</b> nūbrīst.</li></ul>",
+   "next": "Tod klusums pōrrūnās — gola golā Jis atnōk."
+  },
+  {
+   "tag": "JAUNAIS TESTAMENTS · PĪSAPIĻDEJUMS",
+   "title": "Jezus atnōk",
+   "date": "ap 4 p.m.ē.–30 m.ē.",
+   "one": "Apsūlītais Mesija atgōja, nūmyra un augšōmcēlēs.",
+   "people": "Jezus, div poča mōceklis, Jōnis Kristeitōjs",
+   "events": "Tapšona par mīsu, jō kalpōšona un mōceiba un breinumi, nōve iz krysta, augšōmceļšona trešajā dīnā",
+   "q": "Un Vōrds kliva Mīsa un storp mums dzeivōja, un mes redzējom Jō gūdu. Vīnpīdzymušō nu Tāva gūdeibu, pylnu žēlesteibas un patīseibas.",
+   "cite": "Jōņa 1:14",
+   "christ": "Sīvītes pēctečs (aina 2), Abraama sveitejums (3), Pashas jārs (4), Doveida myužeigais kēneņš (6), jaunō dereiba (8) — vyss pīsapiļdejis vīnā veirā, Jezū: myusu eistais Pravīts, Pristers un Kēneņš.",
+   "detail": "<p>Klusums pōrrūnās; Apsūlītais atnōk. Četri evangeliji līcynoj par Jezus dzeivi, nōvi un augšōmceļšonu nu četru pusem.</p><ul><li><b>Tapšona par mīsu</b> · Dīvs tūp cylvāks (Emanuels, «Dīvs ar mums»), Bētlemes pazameigajā vītā.</li><li><b>Kalpōšona</b> · jis mōca Dīva vaļsteibu, dzeidynoj slimūs, aicynoj grēcinīkus. «Kas ir redzejis mani, ir redzejis Tāvu.»</li><li><b>Krysts</b> · jis samoksoj kreišonas grākā (aina 2) atnastō grāka un nōves cīnu. Eistais Pashas jārs.</li><li><b>Augšōmceļšona</b> · augšōmceļdamīs trešajā dīnā, jis pōrrauj grāka, nōves un Sātana spāku — jau iz krysta «vareibas un spākus atbrūņōja un atstōja atklōtam izsmīkļam … caur Jū par tim uzgavilēja» (Kolosīšim 2:15).</li></ul><p>Tai Jezus ir myusu <b>eistais Pravīts</b> (ruoda ceļu uz Dīvu), myusu <b>eistais Pristers</b> (sazīdoj grāku ar sovu mīsu) un myusu <b>eistais Kēneņš</b> (uzvar grāku, nōvi un Sātanu un vaļda myužeigi).</p>",
+   "next": "Augšōmceļušais Jezus syuta sovus mōceklis pasaulī…"
+  },
+  {
+   "tag": "JAUNAIS TESTAMENTS · IZPLATEIBA",
+   "title": "Bazneica sōkās",
+   "date": "ap 30 m.ē.–",
+   "one": "Gors atnōk, un evangelijs izplotās leidz zemes golam.",
+   "people": "Pīters, Pōvuls, pyrmō bazneica",
+   "events": "Gors izlīts Vasarsvātkūs, bazneica padzimst, evangelijs izplotās nu Jeruzalemes leidz Romai caur vajōšonu",
+   "q": "Bet gon jyus sajimsit atejūšō uz jums Svātō Gora varu un byusit muni līcinīki Jeruzalemā, vysā Judeā un Samarijā, leidz pat zemes golam.",
+   "cite": "Apuostuļu dorbi 1:8",
+   "christ": "Šis stōsts vēļ orvīn turpinōs. Bībele beidzās ar apsūlejumu, ka Jezus atnōks atkon un padareis vysu jaunu (Atklōsmes 21).",
+   "detail": "<p>Pēc Jezus debeskōpšonas apsūlītais Gors atnōk Vasarsvātkūs un bazneica padzimst. Evangelijs izplotās sprōdzīnveidi.</p><ul><li><b>Vasarsvātki</b> · Gors pōrvērš boileigus mōceklis par drūsim līcinīkim.</li><li><b>Pīters</b> · sludynoj evangeliju žeidim Jeruzalemā.</li><li><b>Pōvuls</b> · nu vajōtōja par apuostuli, dybynoj bazneicas pa vysu pogonu pasauli un raksta vēstules.</li><li><b>Leidz zemes golam</b> · Jeruzaleme → Judeja → Samareja → Roma. Abraamam dūtais apsūlejums par «vysom tautom» pīsapiļda.</li><li><b>Un mes</b> · stōsts nabeidzās; tys spīžās uz prīkšu uz Jezus atsagrīzšonu un jaunu debesi un jaunu zemi.</li></ul>",
+   "next": "Bet stōsts ze nabeidzās…"
+  },
+  {
+   "tag": "JAUNAIS TESTAMENTS · PYLNEIBA",
+   "title": "Atjaunūšona",
+   "date": "Vēļ nōkutnē",
+   "one": "Jezus atnōk atkon un padora vysu jaunu.",
+   "people": "Atsagrīztūšs Jezus; vysas tautas",
+   "events": "Ūtrō atnōkšona, pādejō tīsa, grāka·nōves·asoru gols, jauna debess un jauna zeme",
+   "q": "Un Jys nūslauceis nu jūs acim ikvīnu osoru, un nabyus vairs ni nōves, ni sōpu, ni žālōšonōs, ni cīsšonu, jo tys īprīkšejais jau ir pagōjis.",
+   "cite": "Atklōsmes 21:4",
+   "christ": "Pyrmōs radeišonas Edene gola golā teik atjaunōta kai «jaunō Jeruzaleme». Dīvs mōj ar sovu tautu myužeigi — Emanuela pylneiba (Atklōsmes 21:3; Mateja 1:23).",
+   "detail": "<p>Bībele nabeidzās ar bazneicas laikmetu. Jōs pādejō grōmota, Atklōsmes grōmota, ruoda Jezu <b>atsagrīztūt atkon</b>, kab vysu pabeigtu.</p><ul><li><b>Ūtrō atnōkšona</b> · apsūlītais Kēneņš atsagrīž gūdā.</li><li><b>Galeigō uzvara</b> · Sātans un nōve teik uzvarāti uz myužim, un Kristus vaļda kai kēneņu Kēneņš (1. Korintīšim 15:25-26; Atklōsmes 20:10).</li><li><b>Tīsa un augšōmceļšona</b> · kotrs nataisnums teik nūlykts pareizi, un myrūnī teik augšōmcelti.</li><li><b>Jauna debess un jauna zeme</b> · grāks, nōve, asoras un sōpe izgaist uz myužim (Atklōsmes 21:4).</li><li><b>Atjaunōtō Edene</b> · «jaunajā Jeruzalemē», kura ir lobōka par sōkumu, Dīvs mōj ar sovu tautu myužeigi — mērkis, uz kuru vysa Bībele ir gōjusi.</li></ul><p>Tai tagad ir <b>«jau, bet vēļ na»</b> laikmets: Jezū izglōbšona ir <b>jau</b> sasnāgta, bet jōs pylneiba <b>vēļ</b> teik gaideita.</p>",
+   "next": "Kū tod vyss šis stōsts nūzeimē «man»?"
+  }
+ ],
+ "love": [
+  "Stōsts nasōkās ar tīsu, bet ar radeišonu, izlītu mīlesteibā.",
+  "Tymā mērklī, kad cylvāki īdareja grāku, Dīvs tūpat nūsuleja izglōbšonu.",
+  "Dīvs vyspyrms atgōja pi nanūpelnejuša veira, aicynōja jū pa vōrdam un padareja jū par sveitejuma kanalu.",
+  "Jis dzērdēja paverdzynōtōs tautas vaidus un pats nūkōpe lejā, kab jūs izglōbtu.",
+  "Atkon un atkon nūdūts, tūmār kotru reizi, kad jī sauce, jis atsyuteja izglōbeju un pacēle jūs.",
+  "Jis napamete pat kritušū Doveidu un caur jū apsūleja myužeigu Kēneņu.",
+  "Tautai, kura nūsagrīze, jis nūsasnoji syuteja pravīšus, lyugdams: «Lyudzu, atsagrīz iz sātu.»",
+  "Jis īt jūs leidza pat uz izsyutejuma vystymsōkū zemi un apsūleja atjaunūšonu.",
+  "Pat tautai, kura izgōja cauri atkon un atkon, jis napajēme atpakaļ sovu apsūlejumu.",
+  "Pat caur 400 klusim godim, naredzami, jis gatovoja izglōbšonas ceļu.",
+  "Kad mes vēļ bejom grēcinīki, jis atsyuteja sovu Dālu, kab tys atdūtu sovu dzeivi.",
+  "Mīlesteibu, kuru mes sajēmom, jis tagad syuta plyust iz vysu pasauli.",
+  "Gola golā jis nūslaucēs kotru osoru un padareis vysu jaunu mīlesteibā."
+ ],
+ "mis": [
+  {
+   "w": "«Kōpēc Dīvs radeja cylvākus, kuri varēja grēkōt? Voi nabyutu bejis lobōk mums nikod naradeit?»",
+   "t": "Dīvs radeja pasauli un cylvākus na nu nazkaida trūkuma, bet nu pōrplyustūšas mīlesteibas. Radeit cylvākus par <b>pesonom, kas attīcās ar Dīvu</b>, ir pati par sevi mīlesteiba. Un pat grāka īnōkšona napalyka ōrpus Dīva izglōbšonas plōna (Efezīšim 1:4-5). Bībeles atklōjūšō aina nav tīsa, bet mīlesteiba."
+  },
+  {
+   "w": "«Izsyuteits un nōvei nūdūts tikai par vīna augļa apēšonu — voi Dīvs nav par bargs?»",
+   "t": "Izdzeišona nu Edenes beja vīnlaiceigi tīsa un žālsirdeiba. Ēst nu dzeiveibas kūka un dzeivōt myužeigi tymā sadrumstaluotajā, nu Dīva atškirtajā stōvūklī nūzeimātu palikt uz myužim īslāgtam cīsšonā. Nōves pīļaušona atvēre ceļu atpakaļ, un tūpat Dīvs apsūleja Izglōbeju. Mīlesteiba jau beja tīsas īškā."
+  },
+  {
+   "w": "«Abraams tyka izavālāts, jo jam beja lela ticeiba — voi vysi Bībeles cylvāki nav tikumiskī varūni?»",
+   "t": "Abraams meloja un šaubeijās; Jākobs beja kraplis. Dīvs aicynōja na «pīmārotus» cylvākus, bet nūsaviņōtus, nu žēlesteibas. Īmesls nabeja jū lobums, bet Dīva uztycamō mīlesteiba."
+  },
+  {
+   "w": "«Voi Lykums (baušļi) nav eksamins, kurs tev jōnūsadūd, kab tyktu izglōbtam?»",
+   "t": "Dīvs izglōbe jūs <b>pyrms</b> Lykuma dūšonas. Pat desmit baušļi sōkās ar izglōbšonas sludynōjumu: «Es asu Kungs, tovs Dīvs, kas tevi izvede nu Egiptas.» Lykums nav «tur jū, kab tyktu izglōbtam», bet gon mīlestpylna pamōceiba par tū, kai jau izglōbtai tautai byutu jōdzeivoj. Žēlesteiba vysod nōk pyrmō; paklauseiba ir atsauksme."
+  },
+  {
+   "w": "«Kanaana īkaruošona beja nažēleiga slepkaveiba — tai Vacō Testamenta Dīvs eistinēji ir nažēleigs.»",
+   "t": "Tei ir gryuta tēma, kuru navar atrisynōt vīnā teikumā. Bet Bībele tū napasnīdz kai gadeigu vardarbeibu, bet gon kai tīsu pēc godu symtim ilgas pacīteibas pret galaeju ļaunumu (taipat bārnu upurēšona). Dīvs ir lāns pat tīsōt un ar prīcu pījēme tūs, kas pī Jō pīsagrīze — pat svešzemnīkus kai Rahaba un Rute."
+  },
+  {
+   "w": "«Doveids beja nūsaviņōjumu napazeistūšs varūņs — tōpēc jau jū sauce par «veiru pēc Dīva sirds».»",
+   "t": "Doveids īdareja lauleibas pōrkōpšonu un pat slepkaveibu. «Veirs pēc Dīva sirds» nanūzeimē nūsaviņōjumu napazeistūšu, bet gon taidu, kurs naslēpe sovu grāku — kurs pamateigi atsagrīze un orvīn atsagrīze pi Dīva. Dīva mīlesteiba napamat pat tūs, kas smogi kreit."
+  },
+  {
+   "w": "«Pravīši ir zeilātōji, kas pravīto nōkutni / Vacō Testamenta Dīvs ir tikai dusme.»",
+   "t": "Pravīša sirds nav «nōkutnes pravīteišona», bet Dīva sōpeiga lyugšona: «Lyudzu, atsagrīz.» Pat tīsas breidynōjumi natīcās uz izdyldeišonu, bet uz cylvāku atpakaļatsagrīzšonu un izglōbšonu — «man nav prīca par ļaunō nōvi»."
+  },
+  {
+   "w": "«Izsyutejums pīrōda, ka Dīvs pylneigi pamete Izraēļu.»",
+   "t": "Izsyutejums nabeja pamēsšona, bet gon disciplina un teireišona pret mīļōtu bārnu (Ebrejim 12:6). Dīvs naaizgōja; jis beja ar Danielu izsyutejuma vydā un apsūleja: «Es zynu dūmas, kuras man ir par jums — mīra, na nalaimes dūmas, kab dūtu jums nōkutni un cereibu.»"
+  },
+  null,
+  {
+   "w": "«Ja 400 godu nabeja vōrda, tod Dīvs beja aizgōjis voi atpyutōs.»",
+   "t": "Klusums nav prūmebyušona. Jis vīnkōrši narunōja, tūpat vysu laiku vērzdams vaļsteibas, volūdas un ceļus, kab gatavotu skatuvi izglōbšonai. Vyskluseigōkajā mērklī Dīvs strōdōja vysspraucīgōk, mīlesteibā (Galatīšim 4:4)."
+  },
+  {
+   "w": "«Jezus beja tikai vīns lobs tikumu mōceitōjs / krysts beja traģisks zaudejums.»",
+   "t": "Jezus apgolvōja, ka ir pats Dīvs, un krysts nabeja nalaime voi zaudejums, bet gon īplōnōta mīlesteiba. Jū tur nanūvylka ar spāku; jis pats atdeve sovu dzeivi (Jōņa 10:18). «Lelōkas mīlesteibas navā, kai tam, kas par sovim draugim atdūd sovu dzeiveibu» (Jōņa 15:13)."
+  },
+  {
+   "w": "«Bazneica ir pylneigu cylvāku klubs voi tikai āka.»",
+   "t": "Bazneica nav «pabeigtu svātū» kūpīne, bet gon <b>pīdūtu grēcinīku</b>. Pat apuostuls Pōvuls sevi sauce par «pyrmū storp grēcinīkim» (1. Timoteja 1:15). Pyrmō bazneica taipat streidējās un klūpa (Apuostuļu dorbi 6:1; 1. Korintīšim 1:11). Tei nav vīta, kur lepōtīs, bet cylvāki, kas dūd tōļōk sajimtū mīlesteibu (Jōņa 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Iudzimtais grāks — nivīns nav taisneigs",
+   "body": "Problema nav «daži slykti dorbi», bet sirds sōkne. Nu Ōdama kotrs pīdzymst zam grāka un poša spākim navar sasnīgt Dīvu.",
+   "vref": "Romīšim 3:10-12, 23",
+   "vtext": "Taisneiga nav ni vīna, pat ni vīna vīneigō… Vysi ir sagrākōjuši un Dīva gūdeibu pazaudējuši."
+  },
+  {
+   "title": "Lykums mani navar izglōbt",
+   "body": "Lykums nav kōpnis, bet spīgeļs. Jū vairōk tu pyili, jū vairōk tys ruoda, cik tōli zam tu palīc. Jō mērkis ir vest mums pi Kristus.",
+   "vref": "Romīšim 3:20 · Galatīšim 3:24",
+   "vtext": "Caur lykumu nōk grāka pazeišona… Tai lykums beja myusu pamōceitōjs pyrms Kristus, lai mes jū vairōk caur ticeibu byutu attaisnōti."
+  },
+  {
+   "title": "Nu žēlesteibas — dōvona, na pyile",
+   "body": "Izglōbšona nav alga par nūpelnu, kuru esi izpelnejis, bet gon par bryivu dōvona tim, kas tō navērts. Tai nivīns navar dīžōtīs.",
+   "vref": "Efezīšim 2:8-9",
+   "vtext": "Jā, jyus asot caur žēlesteibu ticeibas dēļ izglōbti… Tys nav ari dorbu dēļ, lai nivīns navarātu dīžōtīs."
+  },
+  {
+   "title": "Attaisnōts caur ticeibu",
+   "body": "Na caur Lykuma turēšonu, bet caur ticeibu Jezum Kristum tu teic attaisnōts — apgōrbts na sovā taisneibā, bet Jō.",
+   "vref": "Romīšim 5:1 · Galatīšim 2:16",
+   "vtext": "Tai tad, mums, caur ticeibu attaisnōtim, ir mīrs pi Dīva… nivins cylvāks nateik attaisnōts caur lykuma dorbim, bet gon caur ticeibu Jezum Kristum."
+  },
+  {
+   "title": "Bībele nūruoda uz Jezu",
+   "body": "Bībele nav lelu veiru grōmota voi pošpaleidzeiba. Nu Pyrmōs Moizeša grōmotas leidz Atklōsmei kotra lopa līcynoj par vīnu pesonu — Jezu Kristu.",
+   "vref": "Jōņa 5:39 · Lukasa 24:27",
+   "vtext": "Jyus pētejat Rokstus, jo dūmojat, ka jamūs byus myužeiga dzeive… Tad īsōcis nu Moizeša un nu visim pravīšim, Jys izskaidrōja jim tū, kas vysūs Rokstūs par Jū ir raksteits."
+  },
+  {
+   "title": "Dīva vaļsteiba — Jezus centrolais vāstejums",
+   "body": "Tēma, kuru Jezus mōceja vysvairōk. Dīva vaļdeiba kai Kēneņa īlauzās šaidā pasaulī ar Jezu un teik pabeigta, kad jis atsagrīž. Caur sovu krystu un augšōmceļšonu Jezus ir eistais Kēneņš, kas uzvarēja grāku, nōvi un Sātanu.",
+   "vref": "Markusa 1:15",
+   "vtext": "Laiks jau ir izapiļdejis, un Dīva vaļsteiba ir tyvu. Atsagrīzit nu grākim un ticit Evangelijam."
+  },
+  {
+   "title": "Evangelijs — jis pabeidze vysu",
+   "body": "Grāka cīnu, kuru es nikod navarēju samoksōt, Jezus samoksōja muna vītā iz krysta, un augšōmceļdamīs jis uzvarēja nōvi. Es nasapaslaicu iz «dori tū», bet iz «tys ir pabeigts».",
+   "vref": "Jōņa 19:30 · Romīšim 5:8",
+   "vtext": "Jau izapiļdeja!… Dīvs sovu mīlesteibu uz mums parōda caur tū, ka Kristus par mums nūmyra tod, kod mes bejom vēļ grēcinīki."
+  }
+ ],
+ "books": {
+  "Mateja": "MAT",
+  "Markusa": "MRK",
+  "Lukasa": "LUK",
+  "Jōņa": "JHN",
+  "Apuostuļu dorbi": "ACT",
+  "Romīšim": "ROM",
+  "1. Korintīšim": "1CO",
+  "2. Korintīšim": "2CO",
+  "Galatīšim": "GAL",
+  "Efezīšim": "EPH",
+  "Filipīšim": "PHP",
+  "Kolosīšim": "COL",
+  "1. Tesalonīšim": "1TH",
+  "2. Tesalonīšim": "2TH",
+  "1. Timoteja": "1TI",
+  "2. Timoteja": "2TI",
+  "Titam": "TIT",
+  "Filemonam": "PHM",
+  "Ebrejim": "HEB",
+  "Jākoba": "JAS",
+  "1. Pētera": "1PE",
+  "2. Pētera": "2PE",
+  "1. Jōņa": "1JN",
+  "2. Jōņa": "2JN",
+  "3. Jōņa": "3JN",
+  "Jyudas": "JUD",
+  "Atklōsmes": "REV"
+ },
+ "yv": 3378,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
