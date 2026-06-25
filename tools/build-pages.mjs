@@ -195,7 +195,6 @@ const LANGS = [
   { code:'cjk',    dir:'ltr', locale:'cjk_AO' },
   { code:'kmb',    dir:'ltr', locale:'kmb_AO' },
   { code:'twi',    dir:'ltr', locale:'twi_GH' },
-  { code:'ssw',    dir:'ltr', locale:'ssw_SZ' },
   { code:'bak',    dir:'ltr', locale:'bak_RU' },
 ];
 
