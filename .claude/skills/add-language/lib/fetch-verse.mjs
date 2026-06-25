@@ -92,25 +92,35 @@ function parseChapterContent(contentHtml) {
   for (const k of Object.keys(verses)) {
     if (k.includes('+')) for (const part of k.split('+')) if (!verses[part]) verses[part] = verses[k];
   }
+  // 일부 판본(예: Dari TDV #341)은 data-usfm 챕터에 세그먼트 접미사를 붙인다(BOOK.C_1.V) →
+  //   표준키(BOOK.C.V)로도 매핑해 일반 ref 조회가 되게 한다.
+  for (const k of Object.keys(verses)) {
+    const norm = k.replace(/(\.\d+)_\d+(?=\.\d+)/, '$1');
+    if (norm !== k && !verses[norm]) verses[norm] = verses[k];
+  }
   return verses;
 }
 const chapCache = new Map();
 function chapterVerses(chap) {
   if (chapCache.has(chap)) return chapCache.get(chap);
-  // 1차: nodejs.bible.com JSON API (www.bible.com 은 봇 차단 "Client Challenge" 페이지를 반환하므로).
-  //      API 의 content 는 www 챕터 페이지와 동일한 data-usfm 스팬 HTML 이라 같은 파서로 처리.
-  let content = '';
-  try {
-    const api = JSON.parse(curlText(`https://nodejs.bible.com/api/bible/chapter/3.1?id=${yv}&reference=${chap}`) || '{}');
-    content = api && typeof api.content === 'string' ? api.content : '';
-  } catch (e) { content = ''; }
-  // 2차(폴백): 구 www.bible.com __NEXT_DATA__ 경로.
-  if (!content) {
-    const j = nextData(curlText(`https://www.bible.com/bible/${yv}/${chap}`));
-    content = j?.props?.pageProps?.chapterInfo?.content || '';
-  }
+  // 챕터 ref 후보: 표준 BOOK.C, 그리고 일부 판본(예: Dari TDV #341)이 쓰는 세그먼트형 BOOK.C_1.
+  const refForms = [chap, chap.replace(/\.(\d+)$/, '.$1_1')];
   let verses = {};
-  if (content && !/available in audio format/i.test(content)) verses = parseChapterContent(content);
+  for (const refForm of refForms) {
+    // 1차: nodejs.bible.com JSON API (www.bible.com 은 봇 차단 "Client Challenge" 페이지를 반환하므로).
+    //      API 의 content 는 www 챕터 페이지와 동일한 data-usfm 스팬 HTML 이라 같은 파서로 처리.
+    let content = '';
+    try {
+      const api = JSON.parse(curlText(`https://nodejs.bible.com/api/bible/chapter/3.1?id=${yv}&reference=${refForm}`) || '{}');
+      content = api && typeof api.content === 'string' ? api.content : '';
+    } catch (e) { content = ''; }
+    // 2차(폴백): 구 www.bible.com __NEXT_DATA__ 경로.
+    if (!content) {
+      const j = nextData(curlText(`https://www.bible.com/bible/${yv}/${refForm}`));
+      content = j?.props?.pageProps?.chapterInfo?.content || '';
+    }
+    if (content && !/available in audio format/i.test(content)) { verses = parseChapterContent(content); if (Object.keys(verses).length) break; }
+  }
   chapCache.set(chap, verses);
   return verses;
 }
