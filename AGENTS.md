@@ -69,8 +69,8 @@ The language list/codes live in **`index.html`** (`LANGS`) + `tools/build-pages.
 language's **verse-link data (`books`/`yv`/`bookopt`) lives in its `i18n/<code>.json` pack** (only ko/en
 inline in index.html, as `BOOKS`/`YV`/`BOOKOPT`). **Derive them from code; never keep a duplicate list here** —
 duplicating it is what caused a merge conflict on every language PR.
-- **When adding/changing a language, do NOT edit AGENTS.md.** New cross-cutting gotchas go in
-  `SKILL.md` (maintainer-owned, rarely touched), not here.
+- **When adding/changing a language, do NOT edit AGENTS.md.** New cross-cutting gotchas/decisions go in
+  the skill's `NOTES.md` (the file that grows), not here and not in `SKILL.md` (procedure, rarely touched).
 - Count languages: `node -e "console.log(require('fs').readdirSync('i18n').filter(f=>f.endsWith('.json')).length)"` (+ ko inline).
 
 ## Multilingual behavior
@@ -120,7 +120,7 @@ so "new format" alone no longer blocks a language.
 - zh-Hant uses **Taiwan standard glyphs** (為/裡/啟/吃/背); watch simplified→traditional miscoversions.
 - Versification differs by translation: Isa 9:6 (CUV/ESV/Синод.) vs 9:5 (TB/BTT/Luther/新共同訳);
   LXX/Slavonic Psalms (exile = Ps 136, MT 137) for ru/uz/uk/tg/kk/ka/tk/tt — write each `cite` in the
-  translation's own numbering (YouVersion does not remap). Per-language details are in SKILL.md's gotcha digest.
+  translation's own numbering (YouVersion does not remap). Per-language details are in the skill's `NOTES.md` digest.
 - Verse links: `verseUrl(usfm,code)` → ko → bskorea (개역개정); all others → YouVersion
   (`bible.com/bible/<YV>/<USFM>`). `linkifyRefs` is a tag-safe parser over `BOOKS[code]`/`BOOKOPT[code]`
   (registered at language-switch from the pack's `books`/`bookopt`; only ko/en inline);

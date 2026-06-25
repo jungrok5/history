@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // 버전의 현지어 책이름 66권을 YouVersion books API 에서 그대로 가져온다.
 // drafting 에이전트가 고른 변이형 대신 "판본이 실제로 쓰는 표기"를 BOOKS 의 근거로 삼기 위함.
-// (SKILL.md digest: "Authoritative localized book names = the version's books API, NOT the drafting agent.")
+// (NOTES.md digest: "Authoritative localized book names = the version's books API, NOT the drafting agent.")
 //
 // 사용법:
 //   node fetch-booknames.mjs <YV>            # USFM<TAB>현지어이름  66줄 + 요약
