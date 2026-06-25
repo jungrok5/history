@@ -201,6 +201,7 @@ const LANGS = [
   { code:'ace',    dir:'ltr', locale:'ace_ID' },
   { code:'ban',    dir:'ltr', locale:'ban_ID' },
   { code:'shi',    dir:'ltr', locale:'shi_MA' },
+  { code:'shn',    dir:'ltr', locale:'shn_MM' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
