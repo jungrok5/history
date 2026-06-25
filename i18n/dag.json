@@ -1,0 +1,427 @@
+{
+ "menuName": "Dagbanli",
+ "htmlLang": "dag",
+ "dir": "ltr",
+ "brand": "Baibol yim zuɣu",
+ "docTitle": "Baibol yim zuɣu · Namda hal ti paai chɛchi",
+ "share": {
+  "title": "Baibol yim zuɣu",
+  "text": "Baibol lana lahabali titali, ni dama din chɛ ka Yisa kana, di zaa be soli yini zuɣu."
+ },
+ "ui": {
+  "people": "Niriba",
+  "events": "Yɛltɔɣa kara",
+  "christLabel": "Wuhirila Yisa",
+  "loveLabel": "Yurilim din bi naara",
+  "mythWrong": "Tɛhibirili",
+  "mythRight": "Yɛlimaŋli",
+  "more": "Karim m-pahi",
+  "version": "(DBwDB)"
+ },
+ "labels": {
+  "start": "Piligu",
+  "thread": "Lahabali soli",
+  "gospel": "Lahibali Suŋ",
+  "about": "Di yɛla"
+ },
+ "s": {
+  "ui.share": "↗ Wuhi kpɛma",
+  "ui.toast": "Soli maa kpila 📋",
+  "ui.footer": "Baibol yim zuɣu · Baibol yɛtɔɣa yila DBwDB ni",
+  "hero.kicker": "NAMDA HAL TI PAAI CHƐCHI",
+  "hero.title": "Baibol,<br><span class=\"em\">yim zuɣu</span>",
+  "hero.sub": "Baibol lana lahabali titali, ni dama din chɛ ka Yisa kana, di zaa be soli yini zuɣu.",
+  "hero.cue": "Sheei tariga<span>↓</span>",
+  "thread.eyebrow": "YƐLTƆƔ' YINO ŊUN MALI BAIBOL ZAA LAƔIM",
+  "thread.h2": "Bahigu ni, Baibol nyɛla lahabali yini kɔŋko",
+  "thread.flow": "<b>Alikauli</b><span class=\"arw\">→</span><b>Gulibu</b><span class=\"arw\">→</span><b>Pahibu</b>",
+  "thread.note": "Naawuni <b>niŋdi alikauli</b> (alikauli zaligu), niriba <b>gulindila</b> saha waɣinli, ka bahigu ni di zaa <b>pali</b> ka naai Yisa puuni. Doli yɛltɔɣa pisi ni ata (13) ŋɔ tariga, n-doli soli ŋɔ — ŋmɛ <b>“Karim m-pahi”</b> kati kam zuɣu ni a nya lahabali din kpɛm.",
+  "gospel.eyebrow": "DIMBƆŊƆ LAHABALI ŊƆ GBƐRIMI “MANI” ZUƔU",
+  "gospel.h2": "Baibol suhu maŋmaŋa",
+  "gospel.lead": "Baibol <b>pala litaafi din wuhiri “niri viɛlim niŋbu” zaligu.</b>",
+  "gospel.sublead": "Di nyɛla lahabali din wuhiri Naawuni ni zaŋ <b>o anfaani kɔŋko</b> n-tiligi alahichinim’ bɛn ku tooi tiligi bɛ maŋmaŋ’ shɛm. Di sunsuuni ka Yisa Masia ʒe.",
+  "gospel.mirror": "<h3>Izraɛl chandi soli din bi naara nyɛla “mani” maŋmaŋ’ nahingbaŋ</h3><div class=\"cycle\"><b>Buɣa jɛmbu</b><span class=\"a\">→</span><b>Wahala</b><span class=\"a\">→</span><b>Kukolitabu</b><span class=\"a\">→</span><b>Naawuni tiligi</b><span class=\"a\">→</span><b>Buɣa jɛmbu yaha…</b></div><p>Zuɣulaannim’ saha hal ti paai zuliagu (exile) saha, Izraɛl daa kul mali soli ŋɔ n-labisira ka di bi naara. Baibol bi sabi li ni ti ŋmari ba ka yɛra, “Bɛ daa nyɛla yɛbiriti.”</p><p>Di nyɛla <b>nahingbaŋ</b>. Di pala “Izraɛl n-daa niŋ lala,” amaa di nyɛla ni ti baŋ ni <b>“mani gba niŋdimi lala”</b> (1 Kɔrintinima 10:11).</p><p><b>Buɣa</b> pala dakuɣu zaligu kɔŋko. Di nyɛla <b>binshɛɣukam ti ni yuri bee n-niŋ yɛda n-gari Naawuni</b> — liɣiri, alaafee, jilima, niriba, hal ti mani maŋmaŋa. Ka zaŋ Naawuni leei <b>binshɛli ni a paai a yubu</b> gba nyɛla buɣa jɛmbu.</p><p class=\"punch\">Bahigu ni, buɣ’ shɛli ŋun kpɛm zaa nyɛla “mani maŋmaŋa ʒini Naawuni nam zuɣu.”</p>",
+  "gospel.coreIntro": "Tɔ, wula ka Naawuni tiligiri alahichilana ŋɔ tatabo? Ŋɔ n-nyɛ Lahibali Suŋ din Baibol moɣisira suhu maŋmaŋa.",
+  "gospel.crux": "<p class=\"crux-lead\">Baibol zaa wuhirila luɣ’ yini zuɣu.</p><p>Niriba daa ku tooi ŋmaai alahichi chandi soli maa bɛ maŋmaŋ’ zuɣu, ka so mi daa pa wuntizɔra. Dinzuɣu di daa simdi ka so <b>yo samli ŋɔ bɛ zaani</b>.</p><p>Yisa daa bi kana ni o ti wuhi wuhibu suma kɔŋko. Soli shɛli din pahala din yɛn tiligi ma daa kani zuɣu, <b>di daa simdi ka o kana.</b></p><p class=\"crux-punch\">Ŋun’ daa simdi ka be daɣiʒirili maa zuɣu daa nyɛla <b>mani</b>.<br>Yisa daa ʒirila <b>n alahichi</b> ka bɛ kpaai o di zuɣu n zaani.</p><div class=\"crux-verse\">“Amaa ti tuumbiɛri mini tidaalahichi zuɣu ka o daanya dansi ni nahiŋgu maa … O fiɛbbu dansi zuɣu n-chɛka ti nyari tibbu.” — Aizaia 53:5</div>",
+  "faq.h": "A na malila yɛltɔɣ’ shɛli ka di muɣisiri a?",
+  "faq.q1": "<span class=\"arr\">▸</span> Tɔ, niŋmaarilana ŋun niŋ yɛda kul chanila alizanda, ka ŋun’ tum tuun’ suma o biɛhigu zaa amaa ka o bi niŋ yɛda chana buɣum ni?",
+  "faq.a1": "<p>Di nyɛla bɔhigu din tuhi. Amaa tɛhibirisi ayi n-sɔɣi di puuni.</p><p><b>① Baibol bi tɔɣisiri niriba “suma mini biɛri.”</b> Binnabu maa pala “n viɛlim n-gari ŋun be n sani,” amaa di nyɛla “Naawuni kasi din naai pɔ.” O tooni, so kani ŋun “viɛli n-saɣi” (Romnima 3:23). Dinzuɣu di pala “niri’ suŋ mini niŋmaarilana,” amaa di nyɛla kaman doro yini ʒini niriba ayi: yino deeri tibu, ka yino zaɣisi li ka yɛra, “N mali alaafee n-gari ŋun’ doli.”</p><p><b>② Binyini kɔŋko n-tɔɣisiri alizanda mini buɣum.</b> Pa tuma binnabu, amaa <b>a deebu Yisa Masia kaman a Duuma ka a alahichi yɛla naai.</b> Ŋun’ alahichi naai Masia ʒim zuɣu chanila alizanda; ŋun’ bi deei o, ka o alahichi kpalim, bi chana. Tuun’ suŋ shɛli kani ku tooi chɛ ka a alahichi yɛla naai.</p><p>Dinzuɣu alizanda mini buɣum pala “tuun’ suma sanyoo,” amaa di nyɛla <b>a mini Masia sunsuuni zɔbu</b> yɛla. Ka “yɛda niŋbu” pala tɛha kɔŋko, amaa nyɛla a biɛhigu duuma taɣibu: ŋun’ deei o maŋmaŋ’ bi leeri yikulana, amaa o niŋdila tuuba pam. Yɛlimaŋli ni, <b>maŋmaŋ’ wuntinsi tɛha</b> (“mani niri’ suŋ”) n-nyɛ buɣ’ shɛli din yiɣisibu tibsa, din chɛri ka ti tɛhi ni ti bi bɔri Masia (Luk 18:9-14).</p><p>Baibol yɛrila polo ni: <b>“Ŋunkam niŋ o yɛda lan ka saria karibu ni, amaa ŋunkam bi niŋ o yɛda, bɛ pun kar’ o saria”</b> (Jɔn 3:18). Saria karibu pala “a biɛhigu nabu a kpibu nyaaŋa,” amaa di pun nyɛla din naai a <b>Masia deebu</b> zuɣu.</p><p class=\"faq-v\">Romnima 3:23 · Jɔn 3:18 · Ɛfɛsusnima 2:8-9 · Luk 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Di bi saɣi ni n kul niŋ biɛhigu suŋ ka bi niŋ Yisa yɛda?",
+  "faq.a2": "<p>Di nyɛla tɛha din zooi, amaa di bi baŋ yɛltɔɣa maŋmaŋa din nyɛ shɛli. Tɔ, gbibi nahingbaŋ ŋɔ.</p><p><b>Tɛhim’ ni a be tobu ŋariŋ ni.</b> A yi niŋ ka ŋariŋ maa zaa kasi, ka mali yolisigu ni ŋarinsaandiba, ka a biɛhigu nyɛla din viɛla — a na nyɛla <b>tobu</b>, dama ŋariŋ maa ʒirila a chana o luɣ’ shɛli polo (saria karibu duli). Yɛltɔɣa maŋmaŋa pala “tuun’ suma sanyoo,” amaa di nyɛla <b>“ŋariŋ shɛli ni a be” (a maŋmaŋ’ baŋsim)</b>.</p><p>Dinzuɣu Lahibali Suŋ bi yɛli “niŋmi a maŋmaŋ’ suŋ pam”; di yɛrila <b>“taɣim’ ŋariŋ.”</b> Sheei alahichi ŋariŋ ni ka du Yisa dini — <b>Naawuni bia</b> baŋsim palli ni. Di pala a tuma kpaŋa zuɣu, amaa nyɛla a ti yɛda Ŋun’ teei o nuu ka ʒiɛm a du o ŋariŋ.</p><p>Yɛlimaŋli ni, Baibol wuhirila tiligibu kaman taɣibu ŋɔ kɔŋko — <b>“Ŋuna n-fa ti zibisim yiko ni bahi, ka zaŋ ti ni alaafee nti kpɛhi o Biyurigu la nam ni”</b> (Kolɔsainima 1:13).</p><p>Di bi baŋ giri: <b>di pala ni biɛhigu suŋ ka anfani.</b> Viɛlim pala tiligibu “zaligu,” amaa nyɛla di <b>wala</b>. Ŋun’ taɣi ŋariŋ niŋdila viɛlim, di pala dabiɛm zuɣu, amaa nyɛla bia yurilim zuɣu.</p><p class=\"faq-v\">Kolɔsainima 1:13 · Jɔn 1:12 · Jɔn 3:3 · Ɛfɛsusnima 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Tuumbiɛrilana yi mali suhudoo n-yɛra “Naawuni chɛ paŋ ma,” ka ŋun’ ka tuumbiɛri maa zuɣu na mali wahala — di pa ni Naawuni chɛ paŋbu maa nyɛla din bi mali nyaɣisim?",
+  "faq.a3": "<p>Bɔhigu maa tuhiya, ka yɛɣisigu maa nyɛla yɛlimaŋli. Amaa lala yɛtɔɣili pala “Baibol chɛ paŋbu” — di nyɛla <b>di taɣibu</b>.</p><p><b>① Naawuni chɛ paŋbu bi mali nyaɣisim koya.</b> Di ka kaman alahichi maa daa bi niŋ, ka bɛ sɔɣi li; Naawuni maŋmaŋa n-zaŋ o Bia nyɛvili yo di samli. Daɣiʒirili maa bi wuhi ni alahichi nyɛla din faako, amaa di wuhirila ni alahichi tibisa pam — di nyɛla chɛ paŋbu din mali daa zuɣusaa dunia ni.</p><p><b>② Tuuba maŋmaŋ’ wolila wala.</b> Tuumbiɛrilana yi yiɣisi tuumbiɛr’ deelana tooni n-yɛra “Naawuni chɛ paŋ ma, n mali suhudoo,” lala pala tuuba, amaa nyɛla di ŋmaŋ’ niŋbu (Matiu 3:8). Ka niri mini Naawuni sunsuuni chɛ paŋbu bi nyɛhiri tuumbiɛr’ deelana nahiŋgu bee n-niŋ talahi ni o chɛ paŋ.</p><p><b>③ Alahichi bi naan kul gari koya.</b> Alahichi kam yo samli luɣ’ ayi puuni din yini ni — <b>bee Masia n-ʒiri li daɣiʒirili zuɣu</b> (ŋun’ niŋ o yɛda ka saria kani, Romnima 8:1), <b>bee ŋun’ bahigu zaɣisi o n-ʒiri li o maŋa.</b> Dinzuɣu “chɛ paŋbu din mali nyaɣisim” kani. Tuumbiɛrilana gba na malila zaligu talahi dunia ŋɔ ni (Romnima 13:1-4).</p><p><b>④ Tuumbiɛr’ deelana nintam pala koya Naawuni sani.</b> Naawuni kumdila ni bɛn’ kumda, n-teeri nintam kam yɛla, ka bahigu ni o maŋmaŋ’ nyɛhi li bahi (Kahigibu 21:4). Dinzuɣu tuumbiɛr’ deelana mi bi ʒiri biɛri bɔhibu ʒili o ko, amaa o tooi zaŋ li tila Naawuni ŋun nyɛ wuntizɔra (Romnima 12:19 — “Mani n-su biɛri bɔhibu, m mi shiri ni bɔhi biɛri labisi”).</p><p class=\"faq-v\">Matiu 3:8 · Romnima 8:1 · Romnima 13:1-4 · Kahigibu 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Baibol nyɛla lahabali yɛlimaŋli? Di ŋmanila kurili silimin bee litaafi ŋun bi nyɛ yɛlimaŋli.",
+  "faq.a4": "<p>Di nyɛla bɔhigu din tuhi — ka di nyɛla piligibu suŋ. Zilsigu pala yɛda zaɣisibu, amaa nyɛla yubu ni a vihi yɛla polo ni. Baibol pala silimin koya din simdi “a yɛn niŋ yɛda yi a yubu,” amaa di nyɛla din be <b>tinsi, dabsa, mini niriba yɛlimaŋli</b> zuɣu. Nahingbaha bɛla kɔŋko.</p><p><b>① Di pala litaafi yini, amaa litaafi laɣingu — di zaa kul wuhirila yɛltɔɣ’ yini.</b> Baibol nyɛla litaafi pisaata (66) laɣingu din bɛ daa sabi yuun’ kɔbisaata mini pisinu (1,500) puuni, ŋmɛbuniba pisinahi (40) ni — nanima, piɛhigulaannima, zahimkpɛriba, lampo deera, dɔɣitra, niriba ban daa be biɛhigu ni saha kam, bɛ ni daa sabi gahindi ka bi mi taba, balli ata ni (Hibru, Aramaik, mini Griik). Amaa di zaa laɣimmi, ka bi gabi, yɛltɔɣ’ yini zuɣu: <b>tiligibu Masia zuɣu</b>. Lala laɣimbu bi balri ka di nyɛ chamba bee niriba laɣimbu.</p><p><b>② Bɛ na kul wuhirila di yɛlimaŋli tiŋgbani ni (tiŋkura yɛltɔɣa).</b> Binshɛŋ’ pam bɛ ni daa zaani ni di nyɛ ʒiri, “din be Baibol ni kɔŋko,” bahigu ni tiŋkura gɔbu wuhi di yɛlimaŋli. <b>Dauda nam</b>, kuɣ’ shɛli zuɣu bɛ ni daa sabi “Dauda yili” (Tel Dan kuɣili); <b>Pontius Pilate</b>, gɔmnanti ŋun’ daa ku Yisa, sabbu zuɣu din mali o yuli; Naa Ɛzɛkaia kom soli (2 Nanima 20:20), soli maa maŋmaŋa mini di sabbu zuɣu. Hal <b>Hitti niriba</b>, bɛ ni daa boli “niriba ban ka” la, yiɣisila kaman nam titali tiŋkura ni.</p><p><b>③ Di nyɛla kurili litaafi shɛli din gbibi viɛnyɛliŋga (sabbu).</b> Sabbu shɛŋa din kpalim zooi, di laɣimbu taba, mini saha din be sabbu mini di ŋmɛbu sunsuuni — Baibol <b>ka di tatabo kurili litaafinim’ ni</b>. Aizaia litaafi din daa be poi ni Masiabu, din be <b>Mɔɣa Kpibili Sabbu</b> ni (bɛ ni daa nya 1947 ni), daa ŋmani litaafi din nyɛ zaligu yuun’ tusa (1,000) nyaaŋa kaman gbaŋ’ yini — di wuhirila ni bɛ gbib’ Baibol viɛnyɛliŋga saha kam.</p><p><b>④ Din bɛ ni daa sabi pɔi niŋ ya kaman di ni yɛli shɛm (anabitali).</b> Alikauli Kura, bɛ ni daa sabi yuun’ pam poi ni Yisa dɔɣim, wuhirila o dɔɣibu Bɛtlɛhɛm ni (Maika 5:2), wahalalana tumo (Aizaia 53:5), mini daɣiʒirili yɛla (Yila 22). Di niŋ saɣinda pam ka di pala chimsim.</p><p><b>⑤ Lahabali sabriba ban’ pa Baibol gba sabi li.</b> Rom lahabali sabra <b>Tacitus</b> mini Yahuudunim’ lahabali sabra <b>Josephus</b> — bɛn’ zaa pa Kristabihi — yɛli Yisa yɛla, o kubu, mini chɛchi piligu. Pampam, naɣa nyaandoliba ban’ daa zo dabiɛm n-wuri <b>zaŋ bɛ nyɛvuya niŋ chaɣira</b> n-diri yiɣisibu maa shɛhira — so bi kpiri din o mi ni di nyɛ ʒiri zuɣu.</p><p>Amaa ni yɛlimaŋli, dimbɔŋɔ wuhirila ni Baibol yɛda niŋbu <b>pala jɛrigutali, amaa nyɛla baŋsim</b>; di pala “daliri” din ŋariti niri kaman kɔlinsi ŋarisigu. Dinzuɣu Kristabia suhupiɛlli bi yi daliri kɔŋko ni na, amaa yila <b>tahima shɛli Naawuni Shia Kasi ni tiri suhu saha shɛli a karindi Yɛligu maa</b>. Baibol yɛliya — <b>“Yɛda yila wumbu, ka wumbu yila Masia yɛtɔɣili ni”</b> (Romnima 10:17). Dinzuɣu di yi ŋmani chimsim shɛm zaa, <b>a maŋmaŋ’ karimbu</b> n-nyɛ piligu. Daliri yooi dunoli, ka suhupiɛlli zoori ŋun’ karinda puuni.</p><p class=\"faq-v\">2 Nanima 20:20 · Aizaia 53:5 · Maika 5:2 · Romnima 10:17</p>",
+  "respond.h3": "Tɔ — mani be wula?",
+  "respond.sub": "Yurilim ŋɔ pala baŋsim, amaa nyɛla <b>boligu</b>. Yurilim shɛli bɛ ni kpaai a zaani la yi gbaai a suhu, suhirim’ ŋɔ baalim, yɛltɔɣ’ yim zaŋ chaŋ yim.",
+  "respond.prayer": "<p>Naawuni,</p><p>n saɣiti ni m mani alahichilana ŋun ku tooi tiligi n maŋa.</p><p>N niŋ yɛda ni Yisa daa kpi daɣiʒirili zuɣu n zaani, ka yiɣisi.</p><p>Chɛ paŋ n alahichi zaa, ka pii din zuŋɔ leei n biɛhigu Duuma.</p><p>Deem’ ma kaman a bia, ka chɛ ka n niŋ biɛhigu palli.</p><p class=\"amen\">Yisa yuli ni ka n suhira. Ami.</p>",
+  "respond.after": "A yi suhi ŋɔ ni a suhu maŋmaŋa, Baibol yɛli ni a <b>leeya Naawuni bia</b>. A na bi be a ko — bo chɛchi din be a sani, ka yinim’ chaŋ yɛda soli pam.",
+  "respond.read": "Karim Baibol a maŋmaŋa — piligim Jɔn ni",
+  "respond.verse": "“amaa bɛnkam daa deeg’ o … bɛna ka o niŋ yiko ni bɛ leei Naawuni bidɔɣirisi.” — Jɔn 1:12 · Romnima 10:9-10",
+  "closing.main": "Naawuni yino,<br>lahabali yini zuɣu,<br>n-bɔrita ni <em>yurilim</em><br>din bi naara.",
+  "closing.verse": "“Dama m mi ka biɛhiŋ kani ni kum bee nyɛvili … bee binshɛŋa din be binnamda puuni zaa shɛli ku tooi yihi ti Naawuni yurilim din be ti Duuma Yisa Masia ni la ni.” — Romnima 8:38-39",
+  "closing.small": "Lahabali soli ŋɔ zuɣu, Zaligu, Yila litaafinima, Anabinima, mini Gbana pahirila “nimgbiŋ.”<br>Pumpɔŋɔ, litaafi shɛli zaa a ni yooi, a ni baŋ luɣ’ shɛli polo a ni be lahabali maa ni.",
+  "closing.share": "↗ Wuhi lahabali ŋɔ kpɛma",
+  "about.line": "Di mali tabili ni <b>tiligibu lahabali (redemptive-historical), ɛvanjɛlika, mini Reformed</b> nyaɣinli din Koria Protestant chɛchi pam mali.",
+  "about.contact": "Bɔhigu · yɛltɔɣa — <a id=\"contact\" class=\"mail\">Sabim email</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ALIKAULI KURA · PILIGU",
+   "title": "Namda",
+   "date": "Piligu ni",
+   "one": "Naawuni daa nam dunia din daa “viɛla pam.”",
+   "people": "Naawuni; Adam mini Hawa",
+   "events": "Namda dabsa ayobu, ninsala ŋun nam Naawuni nahingbaŋ ni, Vuhim Dali",
+   "q": "Piligu ni, Naawuni daa namla zuɣusaa mini dunia.",
+   "cite": "Piligu 1:1",
+   "christ": "Dunia daa nyɛla din nam “Yɛligu” maa zuɣu. Jɔn Lahibali Suŋ wuhirila ni Yɛligu maa nyɛla Yisa maŋmaŋa (Jɔn 1:1-3).",
+   "detail": "<p>Baibol bi pili ni filozofi yɛltɔɣa, amaa di pili ni yɛtɔɣ’ wuhibu: <b>“Piligu ni, Naawuni…”</b> Dunia pala din yina koya, amaa nyɛla Naawuni ŋun’ mali baŋsim tuma.</p><ul><li><b>Naawuni nahingbaŋa</b> · binnamda zaa puuni, ninsala kɔŋko n-nam ka o ŋmani Naawuni — ni o baŋ o, ka guli dunia.</li><li><b>Vuhim</b> · dabsili ayopɔinli vuhim wuhirila ni binshɛɣukam naaya ka be suhudoo (shalom) ni: “di daa viɛla.”</li><li><b>Edɛn</b> · dunia poi ka di pɔrigi, Naawuni mini ninsala ni daa chani taba.</li></ul>",
+   "next": "Amaa nasara ŋɔ mirini ni di pɔrigi…"
+  },
+  {
+   "tag": "ALIKAULI KURA · YƐLTƆƔA PILI",
+   "title": "Lubu",
+   "date": "Piligu ni",
+   "one": "Alahichi kpe na, ka ninsala mini Naawuni sunsuuni zɔbu ŋmaai.",
+   "people": "Adam mini Hawa; waɣili maa (Sintani)",
+   "events": "Binwol’ shɛli bɛ ni daa mɔŋ dibu, Edɛn ni yibu, kum mini wahala kabu",
+   "q": "Ka n ni zaŋ dimdi niŋ a mini paɣ’ sunsuuni … ka paɣ’ zuliya maa ni ti ŋme m-bɔr’ a zuɣu",
+   "cite": "Piligu 3:15",
+   "christ": "Lahibali Suŋ alikauli pilli, bɛ ni daa ti li lubu maa nyaaŋa: “paɣa zuliya” ni ŋme bɔri waɣili maa zuɣu — dina n-nyɛ Yisa (Piligu 3:15; Romnima 16:20; Galɛshianima 4:4).",
+   "detail": "<p>Kpaŋsizaɣisibu shɛli din yubu daa nyɛ “ka be kaman Naawuni” zuɣu, alahichi kpe dunia ni. Di wala pala zaligu yini ŋmaai koya, amaa nyɛla <b>zɔbu ŋmaabu</b>.</p><ul><li><b>Zɔbu shɛŋa din ŋmaai</b> · Naawuni sani (sɔɣibu), taba sani (taali zaŋbu), mini binnamda sani (gɔɣa mini wahala).</li><li><b>Kum</b> · kpaŋsibu maa “a ni kpi kpibu” leeya yɛlimaŋli.</li><li><b>Piligu 3:15</b> · amaa saria karibu sunsuuni, tiligibu alikauli pun’ kana. Baŋdiba boli li <b>protoevangelium (Lahibali Suŋ pilli)</b>.</li></ul>",
+   "next": "Pumpɔŋɔ Naawuni bola nin’ yino ka pili tiligibu…"
+  },
+  {
+   "tag": "ALIKAULI KURA · ALIKAULI",
+   "title": "Yaannima",
+   "date": "kaman 2000 ALK",
+   "one": "Naawuni niŋ Ibrahima alikauli, “A ni leei alibarika soli.”",
+   "people": "Ibrahima · Aisaku · Yaakubu · Yisifu",
+   "events": "Ibrahima alikauli, Aisaku lobu, Yaakubu bidibisi pinaayi, Yisifu duhibu Ijipti ni",
+   "q": "N ni chɛ ka a zuliya galisi pam … Ka dunia ŋɔ zuliya kam zaani ti nya alibarika a zuɣu.",
+   "cite": "Piligu 12:2-3",
+   "christ": "Alikauli ni “dunia zuliya kam ni nya alibarika” paligimi Yisa, Ibrahima zuliya ni (Galɛshianima 3:16).",
+   "detail": "<p>Naawuni pili ŋmaai ninsala zaa yɛla, ni o bo nin’ yino, <b>Ibrahima</b>. Di suhu nyɛla <b>alikauli</b> — zuliya titali, tiŋgbɔŋ, mini “alibarika dunia zuliya kam.”</p><ul><li><b>Yɛda</b> · Ibrahima niŋ alikauli shɛli o ni bi nya yɛda, ka bɛ kali li wuntizɔritali (Piligu 15:6).</li><li><b>Aisaku mini Yaakubu</b> · alikauli maa gariti chaŋ tooni; Yaakubu (Izraɛl) dɔɣila zuliya pinaayi.</li><li><b>Yisifu</b> · o mabihi daa kɔhi o, amaa Naawuni duhi o — “Naawuni daa zaŋ li leei zaɣ’ suŋ” (Piligu 50:20).</li></ul>",
+   "next": "Bɛ doli Yisifu n-sheei Ijipti — ka leei dabsa…"
+  },
+  {
+   "tag": "ALIKAULI KURA · TILIGIBU",
+   "title": "Yibu mini Mɔɣili",
+   "date": "kaman 1446 ALK",
+   "one": "Naawuni daa tiligi niriba ban’ daa nyɛ dabsa ka zaŋ ba leei o dini.",
+   "people": "Musa, Haruna, Firawuna",
+   "events": "Daɣiri pia, Garibu, Mɔɣ’ Ʒee ŋmaabu, Zaligu pia Sinai zoli zuɣu, jɛmbu duu, yuun’ pihinahi mɔɣili ni",
+   "q": "N ni zaŋ ya leei n niriba, ka leei yi Naawuni …",
+   "cite": "Yibu 6:7",
+   "christ": "Garibu — luɣ’ shɛli piɛɣu ʒim ni daa chɛ ka kum gari — wuhirila Yisa, “ti Gariba piɛɣu,” bɛ ni kpaai ti zuɣu (1 Kɔrintinima 5:7).",
+   "detail": "<p>Alikauli Kura tiligibu titali. Izraɛl ban’ daa nyɛ dabsa nya tiliginsim Naawuni yiko ni, ka leei o <b>niriba</b>.</p><ul><li><b>Garibu</b> · yili shɛli piɛɣu ʒim ni mɔŋ dunoli zuɣu, kum gari li — di nyɛla sara kam din na yɛn kana nahingbaŋa.</li><li><b>Mɔɣ’ Ʒee</b> · tiliginsim luɣ’ shɛli soli ni naai; “ŋmaabu chaŋ tariga” leei piligu palli nahingbaŋa.</li><li><b>Sinai alikauli</b> · Zaligu pia zuɣu bɛ baŋ bɛ ni yɛn niŋ bɛ biɛhigu kaman Naawuni niriba shɛm.</li><li><b>Jɛmbu duu</b> · jɛmbu shɛɣu din wumda Naawuni ni be o niriba sunsuuni — “Immanuɛl” saɣinli.</li><li><b>Yuun’ pihinahi</b> · kpaŋsizaɣisibu chɛ ka zuliya gilgindi mɔɣili ni, amaa Naawuni be bɛ sani manna mini sakuɣu ka buɣum kuɣa ni.</li></ul>",
+   "next": "Bɛ ʒe tiŋgbɔŋ alikauli maa noli, n-mali bɛ maŋa ni bɛ kpe…"
+  },
+  {
+   "tag": "ALIKAULI KURA · ƳIʔINI",
+   "title": "Deebu mini Zuɣulaannima",
+   "date": "kaman 1400–1050 ALK",
+   "one": "Bɛ nya tiŋgbɔŋ, amaa naa ni ka, sokam daa niŋdila din’ tuhi o nini ni.",
+   "people": "Jɔshua; zuɣulaannima kaman Gidiɔn mini Samson; Rut",
+   "events": "Jɛriko lubu, Kanana ʒiʔini, alahichi–saria–tiligibu chandi soli din labisira",
+   "q": "Di saha maa, naa daa ka Izraɛl tiŋgbɔŋ ni. Dinzuɣu sokam zaa daa kul tumdila o suhu ni yu shɛm.",
+   "cite": "Zuɣulaannima 21:25",
+   "christ": "Rut zuliya ni ka Dauda yi na, ka Dauda zuliya ni ka Yisa yi na (Matiu 1). Hal chimaasili ni, Masia zuliya doli na.",
+   "detail": "<p>Jɔshua sani ka bɛ kpe tiŋgbɔŋ alikauli maa, amaa bɛ ni ʒiʔini, di bi yuui ka bɛ tam Naawuni. Zuɣulaannima nyɛla soli yini maa din labisira.</p><ul><li><b>Chandi soli din sheeri tiŋa</b> · alahichi → namisibu → kukolitabu → zuɣulana tiligi → alahichi yaha. Di kul gariti biɛɣu.</li><li><b>Zuɣulaannima</b> · Gidiɔn, Samson, Dɛbora — tiligiriba saha bila, bɛn’ mali yaa amaa ka mali galimsi pam.</li><li><b>Rut</b> · yɛlimaŋli neesim chimaasili saha; paɣa sani ŋun kpe Dauda (mini Yisa) zuliya ni.</li></ul>",
+   "next": "Niriba kuli yɛra, “Tim ti naa gba!”…"
+  },
+  {
+   "tag": "ALIKAULI KURA · DUTALI SAHA",
+   "title": "Nam Laɣiŋgu",
+   "date": "kaman 1050–930 ALK",
+   "one": "Naawuni niŋ Dauda alikauli, “A nam kul ni ʒiɛya sahakam.”",
+   "people": "Sool · Dauda · Sulemaana",
+   "events": "Naa pilli Sool, Dauda mini Goliat, Dauda alikauli, Sulemaana mɛ jɛmbu duu",
+   "q": "Biɛhiŋ kani, a daŋ min’ a nam n-kul ni ʒiɛya, n sani ka a nam kul ni ʒiɛya sahakam.",
+   "cite": "2 Samuɛl 7:16",
+   "christ": "“Nam din ʒiɛya sahakam” paligimi Yisa, Dauda bia ni — dina n-chɛ ka bɛ booni o “Dauda Bia” (Luk 1:32-33; Matiu 1:1).",
+   "detail": "<p>Izraɛl dutali saha, nanima ata sani.</p><ul><li><b>Sool</b> · naa pilli niriba ni daa bo; piligu suŋ ka kpaŋsizaɣisibu saɣim li.</li><li><b>Dauda</b> · “nina ŋun be Naawuni suhu zuɣu.” O nyaŋ Goliat ka zaŋ Jɛrusalɛm leei tiŋ’ kpɛŋ. O niŋ alahichi titali (Batsiɛba), amaa o niŋ tuuba o suhu ni (Yila 51).</li><li><b>Dauda alikauli (2 Samuɛl 7)</b> · Naawuni niŋ alikauli ni o zaŋ Dauda yili nam ʒe sahakam — Masia tahima nyɔɣu maŋmaŋa.</li><li><b>Sulemaana</b> · yɛm mini buni dutali ni, o mɛ <b>jɛmbu duu</b> Jɛrusalɛm ni, amaa o biɛhigu bahigu ni o ŋmalgi buɣa polo.</li></ul>",
+   "next": "Sulemaana nyaaŋa, nam maa pɔrigi buyi…"
+  },
+  {
+   "tag": "ALIKAULI KURA · LUBU",
+   "title": "Nam Pɔrigibu",
+   "date": "930–586 ALK",
+   "one": "Di pɔrigi tuli (Juda) mini guli (Izraɛl), ka nam maa saɣim bila bila.",
+   "people": "Nama buyi maa zaa; anabinim’ kaman Ilaija, Aizaia, Jɛrimia",
+   "events": "Nam pɔrigibu, buɣa jɛmbu yɛɣibu, anabinim’ saɣisibu",
+   "q": "Dinzuɣu n-chɛ ka Izraɛlnim’ na kul mali duŋ ni Dauda yilinim’ hal ni zuŋɔ.",
+   "cite": "1 Nanima 12:19",
+   "christ": "Saha ŋɔ ni ka anabinim’ moɣisi Masia ŋun yɛn kana yɛla polo n-gari (Aizaia 9:6; Aizaia 53).",
+   "detail": "<p>Sulemaana bia saha, nam maa pɔrigi: <b>Izraɛl nam din be guli</b> (zuliya pia, tiŋ’ kpɛŋ Samaria) mini <b>Juda nam din be tuli</b> (zuliya ayi, tiŋ’ kpɛŋ Jɛrusalɛm).</p><ul><li><b>Izraɛl (guli)</b> · di nanima zaa jɛmdi buɣa; di lu Ashiria nuu ni 722 ALK.</li><li><b>Juda (tuli)</b> · Dauda zuliya doli na, ka nan’ suma kaman Ɛzɛkaia mini Jɔsaia beni, amaa di zaa saɣim.</li><li><b>Anabinima</b> · Ilaija, Amos, Aizaia, Jɛrimia kul mɔɣisira “labmiya na!” Masia anabitali kpiɔŋ luɣ’ shɛli zuɣu ŋɔ ni (Aizaia 53 “wahalalana tumo”).</li></ul>",
+   "next": "Bahigu ni saria karibu shɛli bɛ ni daa saɣisi maa kana — bɛ zaŋ ba chaŋ zuliagu…"
+  },
+  {
+   "tag": "ALIKAULI KURA · SARIA KARIBU",
+   "title": "Zuliagu",
+   "date": "722 / 586 ALK",
+   "one": "Nam maa lu ka bɛ zaŋ niriba maa chaŋ tinzɔɣunim’ tiŋgbɔna ni.",
+   "people": "Daniɛl, Ɛzɛkiɛl, Nɛbukadnɛza",
+   "events": "Izraɛl lu Ashiria nuu ni (722), Juda lu Babilɔn nuu ni ka bɛ saɣim jɛmbu duu (586)",
+   "q": "Ti daa ʒinila tiŋaBabilɔn mɔɣa duli.Nimaani ka ti daa ʒini kum,saha shɛli ti ni daateei Ziɔn yɛla.",
+   "cite": "Yila 137:1",
+   "christ": "Yolisigu nyɔɣu ni, Jɛrimia niŋ alikauli ni “alikauli palli” (Jɛrimia 31:31) — alikauli shɛli Yisa ni ʒe Saazuɣu Bindirigu Bahindi ni la.",
+   "detail": "<p>Saɣisigu maa palgi. Jɛmbu duu di buɣum, ka bɛ zaŋ niriba maa chaŋ Babilɔn — bɛ bɔrgi tiŋgbɔŋ, naa, mini jɛmbu duu: nyɔɣu sɔɣitili maa.</p><ul><li><b>Lubu buyi</b> · Izraɛl (Ashiria, 722 ALK) mini Juda (Babilɔn, 586 ALK).</li><li><b>Daniɛl</b> · yɛda nahingbaŋa hal buɣa jɛmbu nam ni (gbuɣinli boli ni); o nya “nam din ʒiɛya sahakam” ʒiʔima.</li><li><b>Tahima neesim</b> · kɔba kuma din lebgi nyɛvuya (Ɛzɛkiɛl 37) mini Jɛrimia “alikauli palli” wuhirila tooni chimaasili ni.</li></ul>",
+   "next": "Yuun’ pihiyopɔin nyaaŋa, Naawuni yooi soli — bɛ labi yiŋa…"
+  },
+  {
+   "tag": "ALIKAULI KURA · YIƔISIBU",
+   "title": "Labbu Na",
+   "date": "538–430 ALK",
+   "one": "Bɛ labi na n-lan mɛ jɛmbu duu mini gooni.",
+   "people": "Ɛzra, Nɛhimia, Ɛsta, Zɛrubabɛl",
+   "events": "Labbu na Sirus alikauli ni, jɛmbu duu mɛbu, Jɛrusalɛm gooni mɛbu, Yɛligu yiɣisibu",
+   "q": "dama Yawɛ ni tiri suhupiɛlli shɛli n-nyɛ yi kpiɔŋ.",
+   "cite": "Nɛhimia 8:10",
+   "christ": "Malaki, Alikauli Kura litaafi bahindili, naara ni anabitali ni tumo ŋun mali soli ti Masia: “n timla n tumo” (Malaki 3:1).",
+   "detail": "<p>Pɛrshia naa Sirus alikauli (538 ALK) ni ka labbu na pili. Saha buta puuni bɛ labi na n-mɛ din’ lu maa.</p><ul><li><b>Zɛrubabɛl</b> · mɛ jɛmbu duu (di naai 516 ALK).</li><li><b>Ɛzra</b> · lan wuhiri Yɛligu maa ka yiɣisi yɛda.</li><li><b>Nɛhimia</b> · mɛ Jɛrusalɛm gooni dabsa pisinu ni ayi (52) ni.</li><li><b>Ɛsta</b> · tiligi Yahuudunim’ ban’ be Pɛrshia ni bɛ saɣimbu ni — “di yi nyɛla saha ŋɔ zuɣu…”</li><li><b>Yubu na kpalim</b> · jɛmbu duu ʒe, amaa naa kaman Dauda ka. Niriba gulindila Masia.</li></ul>",
+   "next": "Ka din nyaaŋa… kaman zuɣusaa kuli ku, yuun’ kɔbinahi (400) gari."
+  },
+  {
+   "tag": "ALIKAULINIM’ SUNSUUNI · SHIƔILI MAALI",
+   "title": "Sʒim Yuma",
+   "date": "kaman 430–4 ALK",
+   "one": "Yuun’ kɔbinahi (400) ka anabi koligu ka — amaa shiɣili daa maani sɔɣisinli ni.",
+   "people": "Alɛkzanda Titali, Makabinima, Rom",
+   "events": "Pɛrshia → Griik → Makabi mahigu → Rom fukumsi",
+   "q": "Amaa saha ni daa ti paai, Naawuni daa tim o Bia na n-chɛ ka paɣ’ dɔɣ’ o fukumsi zaligu sulinsi ni",
+   "cite": "Galɛshianima 4:4",
+   "christ": "Lala “shiɣili maali” zaa daa nyɛla Naawuni tuma ni Yisa kana “saha ni daa ti paai” maŋmaŋa.",
+   "detail": "<p>Malaki hal ti paai Alikauli Palli, kaman yuun’ kɔbinahi (400) ka Baibol Yɛligu palli (anabinima) ka. Amaa lahabali nyaaŋa, Naawuni daa maani soli ti Lahibali Suŋ yɛɣibu.</p><ul><li><b>Nama taɣibu</b> · Pɛrshia → Griik (Alɛkzanda, 333 ALK) → Tɔlɛmi mini Sɛlɛukus → Makabi mahigu (167 ALK) → Rom (63 ALK).</li><li><b>Griik balli</b> · Alɛkzanda nyaŋ chɛ ka Griik balli leei balli kam balli; bɛ leei Alikauli Kura niŋ Griik (Sɛptuajint), n-yooi soli ti Lahibali Suŋ yɛɣi yom.</li><li><b>Rom soya mini suhudoo</b> · soya viɛla mini “Rom suhudoo” leei soya ti tuuntumda.</li><li><b>Jɛmbu duu mini lariba</b> · jɛmbu duu wuhibu kpaŋsi; Farisinim’ mini Sadukinim’ yiɣisi; ka <b>Masia gulibu</b> bili.</li></ul>",
+   "next": "Ka sʒim maa ŋmaai, bahigu ni, o kana."
+  },
+  {
+   "tag": "ALIKAULI PALLI · PAHIBU",
+   "title": "Yisa Kanna",
+   "date": "kaman 4 ALK–AD 30",
+   "one": "Masia bɛ ni daa niŋ alikauli kana, n-kpi, ka yiɣisi.",
+   "people": "Yisa, nyaandoliba pinaayi, Jɔn Baptisira",
+   "events": "Ninsalitali kpɛbu, o wuhibu mini alaama tuma, kubu daɣiʒirili zuɣu, yiɣisibu dabsili ata zuɣu",
+   "q": "Yɛligu maa daa lɛbila ninsala m-be ti sani … ka anfaani mini yɛlimaŋli pal’ o kɔbili ni.",
+   "cite": "Jɔn 1:14",
+   "christ": "Paɣa zuliya (yɛltɔɣa 2), Ibrahima alibarika (3), Gariba piɛɣu (4), Dauda naa din ʒiɛya sahakam (6), mini alikauli palli (8) — di zaa paligimi nin’ yino, Yisa: ti Anabi maŋmaŋa, Maligumaana maŋmaŋa, mini Naa maŋmaŋa.",
+   "detail": "<p>Sʒim maa ŋmaai; Ŋun’ bɛ ni daa niŋ alikauli kana. Lahibali Suŋ litaafi anahi diri Yisa biɛhigu, kubu, mini yiɣisibu shɛhira luɣa anahi polo.</p><ul><li><b>Ninsalitali kpɛbu</b> · Naawuni leei ninsala (Immanuɛl, “Naawuni be ti sani”), Bɛtlɛhɛm filiŋ ni.</li><li><b>Tuma</b> · o wuhi Naawuni nam, n-tibgi baranima, n-bo alahichinima. “Ŋun’ nya ma nya m Ba.”</li><li><b>Daɣiʒirili</b> · o yo alahichi mini kum samli, din lubu (yɛltɔɣa 2) na ti zaani. Gariba piɛɣu maŋmaŋa.</li><li><b>Yiɣisibu</b> · o yiɣisi dabsili ata zuɣu, n-ŋmaai alahichi, kum, mini Sintani yaa — daɣiʒirili zuɣu o pun “fa alizinnim’ bɛn nyɛ zuɣulaannim’ mini bɛn su fukumsi bidibbina … o nyaŋ ba Masia dapulli la zuɣu” (Kolɔsainima 2:15).</li></ul><p>Dinzuɣu Yisa nyɛla ti <b>Anabi maŋmaŋa</b> (wuhiri soli din chaŋ Naawuni sani), ti <b>Maligumaana maŋmaŋa</b> (zaŋ o maŋmaŋ’ nimgbiŋ yo alahichi), mini ti <b>Naa maŋmaŋa</b> (nyaŋ alahichi, kum, mini Sintani ka di nam ʒiɛya sahakam).</p>",
+   "next": "Yisa ŋun’ yiɣisi tim o nyaandoliba dunia ni…"
+  },
+  {
+   "tag": "ALIKAULI PALLI · YƐƔIBU",
+   "title": "Chɛchi Piligu",
+   "date": "kaman AD 30–",
+   "one": "Naawuni Shia kana, ka Lahibali Suŋ yɛɣi hal ti paai dunia tarisi.",
+   "people": "Pita, Pool, chɛchi pilli",
+   "events": "Naawuni Shia kabu Pɛntikɔst dali, chɛchi dɔɣibu, Lahibali Suŋ yɛɣibu Jɛrusalɛm zaŋ chaŋ Rom namisibu sunsuuni",
+   "q": "Amaa saha shɛli Naawuni Shia Kasi yi ti kpe yi ni, yi ni nya yiko ka leei n shɛhiranima Jɛrusalɛm zaŋ tabili Judia mini Samaria tiŋgbana ni hal ti kpa dunia tarisi zaa.",
+   "cite": "Tuumba Tuma 1:8",
+   "christ": "Lahabali ŋɔ na chana zuŋɔ. Baibol naara ni alikauli ni Yisa ni lan kana n-mali binshɛɣukam palli (Kahigibu 21).",
+   "detail": "<p>Yisa ni du saazuɣu nyaaŋa, Naawuni Shia bɛ ni daa niŋ alikauli kana Pɛntikɔst dali ka chɛchi dɔɣi. Lahibali Suŋ yɛɣi kpiɔŋ.</p><ul><li><b>Pɛntikɔst</b> · Naawuni Shia chɛ ka nyaandoliba ban’ daa zo dabiɛm leei shɛhiranima ban’ mali yaa.</li><li><b>Pita</b> · moɣisi Lahibali Suŋ Yahuudunim’ sani Jɛrusalɛm ni.</li><li><b>Pool</b> · daa nyɛ namisira ka leei tuun’ tumo, n-mɛ chɛchinim’ chamba tiŋgbɔna ni ka sabi gbana.</li><li><b>Hal ti paai dunia tarisi</b> · Jɛrusalɛm → Judia → Samaria → Rom. Alikauli ni “zuliya kam” bɛ ni daa niŋ Ibrahima leeya yɛlimaŋli.</li><li><b>Ka tinima</b> · lahabali maa bi naara; di chana tooni hal ti paai Yisa labbu na mini zuɣusaa palli ni tiŋgbani palli.</li></ul>",
+   "next": "Amaa lahabali maa bi naara kpe…"
+  },
+  {
+   "tag": "ALIKAULI PALLI · NAABU",
+   "title": "Yiɣisibu",
+   "date": "Din na yɛn kana",
+   "one": "Yisa lan kana na n-mali binshɛɣukam palli.",
+   "people": "Yisa ŋun’ labri na; zuliya kam",
+   "events": "Labbu na, saria karibu bahindili, alahichi·kum·nintam naabu, zuɣusaa palli mini tiŋgbani palli",
+   "q": "ka o ni nyɛhi bɛ nintam zaa bahi, ka kum ku lan beni bee fabila bee kumsi, ka biɛrim gba ku lan beni yaha",
+   "cite": "Kahigibu 21:4",
+   "christ": "Namda pilli Edɛn yiɣisila bahigu ni kaman “Jɛrusalɛm Palli.” Naawuni be o niriba sani sahakam — Immanuɛl pibu (Kahigibu 21:3; Matiu 1:23).",
+   "detail": "<p>Baibol bi naara chɛchi saha ni. Di litaafi bahindili, Kahigibu, wuhirila Yisa ŋun’ <b>labri na</b> n-mali binshɛɣukam naai.</p><ul><li><b>Labbu na</b> · naa bɛ ni daa niŋ alikauli labri na ni jilima.</li><li><b>Nyaŋbu bahindili</b> · Sintani mini kum saɣim sahakam, ka Masia nam kaman Nanima Naa (1 Kɔrintinima 15:25-26; Kahigibu 20:10).</li><li><b>Saria karibu mini yiɣisibu</b> · zaɣimaŋli kam mali viɛnyɛla, ka kpiimba yiɣisi.</li><li><b>Zuɣusaa palli mini tiŋgbani palli</b> · alahichi, kum, nintam, mini biɛrim naara sahakam (Kahigibu 21:4).</li><li><b>Edɛn yiɣisibu</b> · “Jɛrusalɛm Palli” din viɛla n-gari piligu ni, Naawuni be o niriba sani sahakam — luɣ’ shɛli Baibol zaa ni chani.</li></ul><p>Dinzuɣu pumpɔŋɔ nyɛla <b>“pun naaya, amaa di na bi naai”</b> saha: Yisa ni, tiligibu <b>pun</b> naaya, amaa di pibu <b>na</b> bɛ gulinda.</p>",
+   "next": "Tɔ, dimbɔŋɔ lahabali zaa gbɛrimi “mani” zuɣu wula?"
+  }
+ ],
+ "love": [
+  "Lahabali pala saria karibu ka pili, amaa dunia din nam yurilim din yɛɣi zuɣu.",
+  "Saha shɛli niriba ni niŋ alahichi, Naawuni niŋ tiligibu alikauli nimaani ni.",
+  "Naawuni daŋ bo nina ŋun’ daa bi tu, n-boli o yuli, ka zaŋ o leei alibarika soli.",
+  "O wum niriba ban’ daa nyɛ dabsa kumsi, ka sheei o maŋmaŋa n-ti tiligi ba.",
+  "Bɛ daa zaŋ o niŋ chaɣira yaha yaha, amaa saha kam bɛ ni kuhi, o tim tiligira ka yiɣisi ba.",
+  "O daa bi bahi Dauda ŋun’ lu, amaa o zuɣu o niŋ alikauli ni naa din ʒiɛya sahakam.",
+  "Niriba ban’ lebgi ba n-yaai o sani, o kul tim anabinima, n-suhira, “Labmiya na.”",
+  "Hal zuliagu tinzɔɣu sɔɣitili maa, o sheei bɛ sani na ka niŋ alikauli yiɣisibu.",
+  "Hal niriba ban’ daa labisi luna yaha yaha, o daa bi deei o alikauli, amaa o lan yiɣisi ba.",
+  "Hal yuun’ kɔbinahi (400) sʒim ni, sɔɣisinli ni, o daa maani tiligibu soli.",
+  "Saha shɛli ti na daa nyɛ alahichinima, o tim o Bia na ni o ti zaŋ o nyɛvili sara.",
+  "Yurilim ti ni deei, pumpɔŋɔ o tim li ka di yɛɣiri dunia zaa ni.",
+  "Bahigu ni o ni nyɛhi nintam kam bahi, ka mali binshɛɣukam palli yurilim ni."
+ ],
+ "mis": [
+  {
+   "w": "“Bɔzuɣu ka Naawuni nam niriba ban’ tooi niŋ alahichi? Di pa ni di yi viɛla ni o di nam ti?”",
+   "t": "Naawuni nam dunia mini niriba pala faako shɛli zuɣu, amaa nyɛla yurilim din yɛɣi zuɣu. Ka o nam ninsala kaman <b>nin’ shɛb’ ban’ tooi mali zɔbu mini Naawuni</b>, di kɔŋko nyɛla yurilim. Ka hal alahichi kpɛbu daa bi yi Naawuni tiligibu shiɣili ni (Ɛfɛsusnima 1:4-5). Baibol nahingbaŋ’ pilli pala saria karibu, amaa nyɛla yurilim."
+  },
+  {
+   "w": "“Binwol’ yini dibu zuɣu bɛ yihi nira ka ti o kum — di pa ni Naawuni mali yɛlim pam?”",
+   "t": "Edɛn ni yibu daa nyɛla saria karibu mini nambɔɣu. Naawuni mini niri yi ti woligi, ka ninsala di nyɛvili tia maa ka be nyɛvili sahakam o pɔrigiŋ’ shɛli maa ni, o ni kpalim wahala ni sahakam (Piligu 3:22). Kum chɛbu yooi soli labbu na; ka nimaani ni Naawuni niŋ Tiligira alikauli (Piligu 3:15). Saria karibu maa ni yurilim pun be."
+  },
+  {
+   "w": "“Bɛ pii Ibrahima o yɛda titali zuɣu — di pa ni Baibol niriba zaa nyɛla wuntizɔriba?”",
+   "t": "Ibrahima gba niŋ ʒiri ka zilsi, ka Yaakubu nyɛla yɔɣira. Naawuni bi bo “niriba ban’ tu,” amaa o zaŋ anfaani bo ban’ ka naai. Pibu daliri pala bɛ viɛlim, amaa nyɛla Naawuni yurilim din kul zaani (Zaligu Teebu 7:7-8)."
+  },
+  {
+   "w": "“Di pa ni zaligu (Zaligu pia) nyɛla daliri shɛli a ni yɛn deei ni a nya tiligibu?”",
+   "t": "Naawuni daa tiligi ba <b>poi</b> ka o ti ba zaligu. Hal Zaligu pia pili ni tiligibu yɛtɔɣili: “Man’ Yawɛ ŋun nyɛ yi Naawuni ŋɔ n-daa yihi ya Ijipti tiŋgbɔŋ ni na” (Yibu 20:2). Zaligu pala “gbibi li ni a nya tiligibu,” amaa nyɛla yurilim wuhibu kaman ban’ pun nya tiligibu anfaani ni yɛn niŋ bɛ biɛhigu shɛm (Zaligu Teebu 7:7-9). Anfaani daŋdi pɔi; yɛdda nyɛla labsigu."
+  },
+  {
+   "w": "“Kanana deebu daa nyɛla nimaani kubu din ka nambɔɣu — dinzuɣu Alikauli Kura Naawuni nyɛla zaɣimaŋlana.”",
+   "t": "Di nyɛla yɛltɔɣa muɣisira din ku tooi naai yɛtɔɣ’ yini ni, ka bɔri suhukpaŋsim. Amaa Baibol bi wuhi li kaman taɣimnasibu koya, amaa nyɛla saria karibu zaɣ’ biɛri din kpɛm (hal ti paai bihi kubu sara) nyaaŋa, suɣulo waɣinli nyaaŋa (Piligu 15:16; Zaligu Teebu 9:4-5; Lɛvinima 18:24-25). Naawuni bi yom hal saria karibu ni, ka ŋun’ ŋmalgi o sani, o deeri o ni suhupiɛlli, hal o yi nyɛ tinzɔɣulana, kaman Rahab mini Rut (Jɔshua 6:25; Rut 4:13-17)."
+  },
+  {
+   "w": "“Dauda daa nyɛla yaalana ŋun’ ka galimsi — dina n-chɛ ka bɛ booni o ‘nina ŋun be Naawuni suhu zuɣu.’”",
+   "t": "Dauda niŋ zina ka kuni gba. “Nina ŋun be Naawuni suhu zuɣu” bi wuhi ni o ka galimsi, amaa nyɛla ŋun’ daa bi sɔɣi o alahichi — ŋun’ niŋ tuuba viɛnyɛliŋga ka kul labri Naawuni sani (Yila 51). Naawuni yurilim bi bahiri hal bɛn’ lu pam."
+  },
+  {
+   "w": "“Anabi nyɛla baɣa ŋun’ yɛri din yɛn kana / Alikauli Kura Naawuni kul nyɛla suhuyiɣisilana.”",
+   "t": "Anabi suhu pala “din yɛn kana yɛrigu,” amaa nyɛla Naawuni suhu kuhigu: “Labmiya na.” Hal saria karibu saɣisigu yubu pala saɣimbu, amaa nyɛla niriba labbu na ni bɛ nya nyɛvili — “Mani ŋun be ŋɔ zuɣu, m bi yu ni ninvuɣ’ biɛri kpi” (Ɛzɛkiɛl 33:11)."
+  },
+  {
+   "w": "“Zuliagu wuhirila ni Naawuni bahi Izraɛl zaa.”",
+   "t": "Zuliagu pala bahibu, amaa nyɛla Ba ŋun’ yuri o bia darigibu mini niɛribu (Hiburunima 12:6). Naawuni daa bi chaŋ; o daa be Daniɛl sani zuliagu nyɔɣu ni ka niŋ alikauli: “Biɛhiŋ kani, m mi n ni lɔn ya nia shɛŋa. Di nyɛla nia shɛŋa n ni lo zaŋ chaŋ yi zaɣ’ viɛlli polo ka pa ni yi zaɣ’ biɛɣu polo. N ni chɛ ka yi kul mali dahin’ shɛli biɛhigu tahima” (Jɛrimia 29:11)."
+  },
+  null,
+  {
+   "w": "“Yuun’ kɔbinahi (400) ka yɛligu ka, di wuhirila ni Naawuni daa chaŋ bee o vuhindila.”",
+   "t": "Sʒim pala kabu. O daa bi yɛli koya, ka saha maa zaa o daa chɛrila nama, balli, mini soya gariti ni o mali tiligibu shiɣili. Saha shɛli din sʒim n-gari, Naawuni daa tumdila pam, yurilim ni (Galɛshianima 4:4)."
+  },
+  {
+   "w": "“Yisa kul nyɛla wuhira suŋ yini / daɣiʒirili daa nyɛla nyaŋbu sɔɣitili.”",
+   "t": "Yisa yɛli ni o maŋmaŋa nyɛla Naawuni (Jɔn 8:58), ka daɣiʒirili pala din yina koya bee nyaŋbu, amaa nyɛla yurilim din bɛ ni daa nia. Bɛ daa bi ʒiri o n-kpaai; o zaŋ o maŋmaŋ’ nyɛvili sara (Jɔn 10:18). “Nir’ yi zaŋ o nyɛvili taɣ’ o zɔnim’ dini, yurilim shɛl’ lan kani gari li” (Jɔn 15:13)."
+  },
+  {
+   "w": "“Chɛchi nyɛla niriba ban’ tu laɣingu, bee duu kɔŋko.”",
+   "t": "Chɛchi pala “niriba ban’ tu naai” laɣingu, amaa nyɛla <b>alahichinim’ bɛn’ nya chɛ paŋbu</b>. Hal tuun’ tumo Pool boli o maŋa “alahichilana n-gari sokam” (1 Timoti 1:15). Chɛchi pilli gba ŋmɛ namgban ka lu (Tuumba Tuma 6:1; 1 Kɔrintinima 1:11). Di pala luɣ’ shɛli a yɛn fuhi, amaa niriba ban’ zaŋdi yurilim bɛ ni deei (Jɔn 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Alahichi pilli — so pa wuntizɔra",
+   "body": "Yɛltɔɣa pala “tuumbiɛri bɛla” koya, amaa nyɛla suhu nyɔɣu. Hal Adam ni, sokam dɔɣiri alahichi gbinni ni ka ku tooi paai Naawuni bɛ maŋmaŋ’ zuɣu.",
+   "vref": "Romnima 3:10-12, 23",
+   "vtext": "So pa wuntizɔra, hal ninvuɣ’ yino gba kani … dama sokam tum alahichi ka kɔŋ soli din ni chɛ ka bɛ paai Naawuni sani."
+  },
+  {
+   "title": "Zaligu ku tooi tiligi ma",
+   "body": "Zaligu pala duli, amaa nyɛla nahingbaŋa. A ni niŋ kpaŋa shɛm zaa, di wuhirila a saɣibu shɛm. Di yubu nyɛla ti zaŋbu chaŋ Masia sani.",
+   "vref": "Romnima 3:20 · Galɛshianima 3:24",
+   "vtext": "Naawuni fukumsi zaligu maa kul nyɛla din wuhiri ti alahichi ni nyɛ shɛli … Naawuni fukumsi zaligu maa daa nyɛla ti gula hal ka Masia ti kana"
+  },
+  {
+   "title": "Anfaani ni — pini, pa kpaŋa",
+   "body": "Tiligibu pala sanyoo din yi tuun’ shɛŋa a ni laɣim ni, amaa nyɛla Naawuni pini ti ban’ ka tu. Dinzuɣu so ku tooi fuhi.",
+   "vref": "Ɛfɛsusnima 2:8-9",
+   "vtext": "Naawuni daanfaani maa zuɣu ka yi tiligi yi yɛda niŋbu puuni. Ka di bi yila yi kɔbili ni na, amaa di nyɛla Naawuni pini. Ka di mi pala yi ni tum shɛli zuɣu ka yi tiligi, dinzuɣu shɛli kani ka yi ni nyu bara di zuɣu."
+  },
+  {
+   "title": "Yɛda niŋbu zuɣu ka bɛ yi taali",
+   "body": "Pa zaligu gbibibu zuɣu, amaa Yisa Masia yɛda niŋbu zuɣu ka bɛ yi a taali — bɛ pa a a maŋmaŋ’ wuntizɔritali, amaa o dini.",
+   "vref": "Romnima 5:1 · Galɛshianima 2:16",
+   "vtext": "Dinzuɣu ti ni yi taali ni Naawuni sani ti yɛda niŋbu zuɣu la … Naawuni bi chɛ ka so yiri taali ni o sani fukumsi zaligu dolibu zuɣu, amaa Yisa Masia yɛda niŋbu zuɣu ka nir’ yiri taali ni ŋun’ Naawuni sani."
+  },
+  {
+   "title": "Baibol wuhirila Yisa",
+   "body": "Baibol pala niriba kara lahabali bee maŋmaŋ’ sɔŋsim litaafi. Piligu hal ti paai Kahigibu, gbaŋ’ kam diri nin’ yino shɛhira — Yisa Masia.",
+   "vref": "Jɔn 5:39 · Luk 24:27",
+   "vtext": "Naawuni Kundi maa maŋmaŋ’ gba diri ma shɛhira … o daa piligi wuhiri ba Anabi Musa min’ anabinim’ zaa ha litaafinim’ ni daa yɛli ŋun’ Yisa yɛla shɛm."
+  },
+  {
+   "title": "Naawuni nam — Yisa yɛtɔɣa suhua",
+   "body": "Yɛltɔɣ’ shɛli Yisa ni daa wuhi n-gari. Nam din Naawuni su kaman naa kpe dunia ŋɔ ni Yisa ni ka di ni naai o labbu na saha. O daɣiʒirili mini yiɣisibu zuɣu, Yisa nyɛla Naa maŋmaŋa ŋun’ nyaŋ alahichi, kum, mini Sintani.",
+   "vref": "Maak 1:15",
+   "vtext": "Saha paaya, ka Naawuni nam gba mirina; dinzuɣu niŋmiya tuuba ka niŋ lahibal’ suŋ ŋɔ yɛda."
+  },
+  {
+   "title": "Lahibali Suŋ — o naai li zaa",
+   "body": "Alahichi samli shɛli n ni daa ku tooi yo, Yisa yo li n zaani daɣiʒirili zuɣu, ka o yiɣisibu zuɣu o nyaŋ kum. N bi dalindi “niŋmi ŋɔ,” amaa “di naaya.”",
+   "vref": "Jɔn 19:30 · Romnima 5:8",
+   "vtext": "Di naaya! … Naawuni ni niŋ shɛm wuhi ni o yuri ti m-bɔŋɔ: Ti ni daa nyɛ alahichinim’ saha shɛl’ la ka Masia daa kpi ti zuɣu."
+  }
+ ],
+ "books": {
+  "Piligu": "GEN",
+  "Yibu": "EXO",
+  "Lɛvinima": "LEV",
+  "Kalinlinima": "NUM",
+  "Zaligu Teebu": "DEU",
+  "Jɔshua": "JOS",
+  "Zuɣulaannima": "JDG",
+  "Rut": "RUT",
+  "Ɛzra": "EZR",
+  "Nɛhimia": "NEH",
+  "Tɔbiti": "TOB",
+  "Judit": "JDT",
+  "Ɛsta Gk": "ESG",
+  "1 Makabiis": "1MA",
+  "2 Makabiis": "2MA",
+  "Ayuba": "JOB",
+  "Yila": "PSA",
+  "Ŋaha": "PRO",
+  "Waazuyihira": "ECC",
+  "Sulemaana Yila": "SNG",
+  "Sul Yɛm": "WIS",
+  "Siraki": "SIR",
+  "Aizaia": "ISA",
+  "Jɛrimia": "JER",
+  "Fabilanima": "LAM",
+  "Baruk": "BAR",
+  "Ɛzɛkiɛl": "EZK",
+  "Dan": "DAG",
+  "Hozia": "HOS",
+  "Joɛl": "JOL",
+  "Amɔs": "AMO",
+  "Obadia": "OBA",
+  "Jona": "JON",
+  "Maika": "MIC",
+  "Nahum": "NAM",
+  "Habakuk": "HAB",
+  "Zɛfania": "ZEP",
+  "Hagai": "HAG",
+  "Zakaria": "ZEC",
+  "Malaki": "MAL",
+  "Matiu": "MAT",
+  "Maak": "MRK",
+  "Luk": "LUK",
+  "Jɔn": "JHN",
+  "Tuumba Tuma": "ACT",
+  "Romnima": "ROM",
+  "Galɛshianima": "GAL",
+  "Ɛfɛsusnima": "EPH",
+  "Filipainima": "PHP",
+  "Kolɔsainima": "COL",
+  "Taitus": "TIT",
+  "Failimɔn": "PHM",
+  "Hiburunima": "HEB",
+  "Jeemsi": "JAS",
+  "Jud": "JUD",
+  "Kahigibu": "REV",
+  "1 Samuɛl": "1SA",
+  "2 Samuɛl": "2SA",
+  "1 Nanima": "1KI",
+  "2 Nanima": "2KI",
+  "1 Yɛlikura": "1CH",
+  "2 Yɛlikura": "2CH",
+  "1 Kɔrintinima": "1CO",
+  "2 Kɔrintinima": "2CO",
+  "1 Tɛsalɔnaikanima": "1TH",
+  "2 Tɛsalɔnaikanima": "2TH",
+  "1 Timoti": "1TI",
+  "2 Timoti": "2TI",
+  "1 Pita": "1PE",
+  "2 Pita": "2PE",
+  "1 Jɔn": "1JN",
+  "2 Jɔn": "2JN",
+  "3 Jɔn": "3JN"
+ },
+ "yv": 2264,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

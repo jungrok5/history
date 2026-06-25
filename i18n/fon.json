@@ -1,0 +1,420 @@
+{
+ "menuName": "Fɔngbè",
+ "htmlLang": "fon",
+ "dir": "ltr",
+ "brand": "Biblu ɔ́ ɖo nukún ɖokpó mɛ",
+ "docTitle": "Biblu ɔ́ ɖo nukún ɖokpó mɛ · Sín nǔɖiɖó káká wá agun ɔ́ jí",
+ "share": {
+  "title": "Biblu ɔ́ ɖo nukún ɖokpó mɛ",
+  "text": "Ðo nǔxixa ɖokpó géé mɛ ɔ́, mɔ tan ɖaxó Biblu ɔ́ tɔn — kpódó nǔ e wú Jezu wá é kpó."
+ },
+ "ui": {
+  "people": "Mɛ lɛ́ɛ",
+  "events": "Nǔ taji e jɛ lɛ́ɛ",
+  "christLabel": "É xlɛ́ Jezu",
+  "loveLabel": "Wǎn yíyí e ma nɔ jó dó ǎ é",
+  "mythWrong": "Nǔ e mɛ gěgé nɔ́ se nyi do é",
+  "mythRight": "Nǔgbó ɔ́",
+  "more": "Xa d'eji",
+  "version": "(Fon13)"
+ },
+ "labels": {
+  "start": "Bǐbɛ́mɛ",
+  "thread": "Tan ɔ́",
+  "gospel": "Wɛn Ɖagbe ɔ́",
+  "about": "Đo mǐ wú"
+ },
+ "s": {
+  "ui.share": "↗ Má xá mɛ ɖěvo",
+  "ui.toast": "È ko ɖyɔ́ kàn ɔ́ 📋",
+  "ui.footer": "Biblu ɔ́ ɖo nukún ɖokpó mɛ · Mawuxó e è yawu lɛ́ɛ gosín Fon13 mɛ",
+  "hero.kicker": "SÍN NǓĐIĐÓ KÁKÁ WÁ AGUN Ɔ́ JÍ",
+  "hero.title": "Biblu ɔ́,<br><span class=\"em\">ɖo nukún ɖokpó mɛ</span>",
+  "hero.sub": "Ðo nǔxixa ɖokpó géé mɛ ɔ́, mɔ tan ɖaxó Biblu ɔ́ tɔn — kpódó nǔ e wú Jezu wá é kpó.",
+  "hero.cue": "Xa wǎ do<span>↓</span>",
+  "thread.eyebrow": "XÓGBE ÐOKPÓ E BLA NǓ LƐ́Ɛ BǏ Đó KPƆ́ É",
+  "thread.h2": "Đo agǔn ɔ́ mɛ ɔ́, tan ɖokpó géé wɛ Biblu ɔ́ nyí",
+  "thread.flow": "<b>Akpá ɖiɖó</b><span class=\"arw\">→</span><b>Tɛ́ ali</b><span class=\"arw\">→</span><b>Akpá ɔ́ jijɛ</b>",
+  "thread.note": "Mawu nɔ <b>dó akpá</b> (akɔ ɔ́), togun ɔ́ nɔ́ <b>tɛ́ ali</b> hwenu gěgé, bɔ gǎ ɔ́ nǔ bǐ nɔ <b>jɛ</b> bó nɔ fó ɖo Jezu mɛ. Xwedó nǔjijɛ wěwe (13) e ɖo gudo lɛ́ɛ ɖo ali énɛ́ ɔ́ jí — ɖi alɔ dó <b>“Xa d'eji”</b> ɖo kátakáta ɖokpó ɖokpó jí, bó na mɔ tan ɔ́ d'eji.",
+  "gospel.eyebrow": "NǓ E TAN ÉLƆ́ XÓ ƉƆ NÚ “NYƐ” É",
+  "gospel.h2": "Ayixa nǔgbó Biblu ɔ́ tɔn",
+  "gospel.lead": "Biblu ɔ́ <b>nyí wěma e nɔ́ kplɔ́n mɛ “gbɛtɔ́ ɖagbe nyínyí” ǎ.</b>",
+  "gospel.sublead": "Tan e ɖɔ lě e Mawu, <b>gbɔn xomɛnyínyɔ́ tɔn kɛ́ɖɛ́ jí</b>, hwlɛ́n hwɛhutɔ́ e ma sixú hwlɛ́n yěɖée gán ǎ lɛ́ɛ gán gbɔn é wɛ. Đo tɛ́ntin tɔn ɔ́, Jezu Klísu wɛ ɖe te.",
+  "gospel.mirror": "<h3>Lě e Izlayɛ́li nɔ́ lɛ́ nǔ ɖokpó ɔ́ wa bǐ hwɛ̌hwɛ̌ é ɔ́, nyɛ ɖésúnɔ sín fotóo wɛ</h3><div class=\"cycle\"><b>Vodúnsinsɛ́n</b><span class=\"a\">→</span><b>Wǔvɛ́ mimɔ</b><span class=\"a\">→</span><b>Hǔn súsú</b><span class=\"a\">→</span><b>Mawu hwlɛ́n mɛ</b><span class=\"a\">→</span><b>Vodúnsinsɛ́n lɛ́vɔ̌…</b></div><p>Sín Hwɛɖɔtɔ́ lɛ́ɛ káká wá kannumɔgbenu ɔ́, Izlayɛ́li nɔ́ lɛ́ nǔ ɖokpó énɛ́ ɔ́ wa hwɛ̌hwɛ̌ bo ma nɔ ɖó nukɔn ǎ. Biblu ɔ́ wlán nǔ énɛ́ ɔ́ bónú mǐ na ko yěxó ɖɔ “lě e yě nyla sɔ́ é!” ǎ.</p><p><b>Gǎngbámɛ</b> wɛ. Xó ɔ́ nyí “Izlayɛ́li wa mɔ̌” ǎ, lo ɔ́ <b>“nyɛ lɔmɔ̌ nɔ́ wa mɔ̌”</b> (1 Kɔlɛ́ntinu 10:11).</p><p><b>Vodún</b> nyí nǔ e è kpa kpod́ atín kpó kɛ́ɖɛ́ ǎ. <b>Nǔ ɖěbǔ e mǐ yí wǎn ná hú Mawu abǐ ganjɛwú dó wú hú Mawu é</b> wɛ — akwɛ́, nǔ e mǐ wa bo kú dó é, mɛ ɖevo lɛ́ɛ sín yí gbe, mɛ lɛ́ɛ, abǐ nyɛ ɖésúnɔ. Bɔ Mawu zinzan dó é dó nyí <b>nǔ e na bló bɔ jlǒ ce na jɛ é</b> ɔ́ lɔmɔ̌ nyí vodúnsinsɛ́n.</p><p class=\"punch\">Đo gǎ ɔ́, vodún e dó zɔ hú bǐ ɔ́ wɛ nyí “nyɛ ɖésúnɔ jínjɔ́n axɔ́súzinkpo Mawu tɔn jí.”</p>",
+  "gospel.coreIntro": "Énɛ́ ɔ́, lě ka Mawu nɔ́ hwlɛ́n hwɛhutɔ́ mɔ̌hunkɔ́tɔn gán gbɔn? Ayixa Wɛn Ɖagbe e Biblu ɔ́ jla é ɖíe.",
+  "gospel.crux": "<p class=\"crux-lead\">Biblu ɔ́ bǐ xlɛ́ fí ɖokpó.</p><p>Gbɛtɔ́ ma sixú gbɔ́ nǔ e nɔ́ zɔ́n bɔ é nɔ́ lɛ́ hwɛ wa hwɛ̌hwɛ̌ é ɖésúnɔ ǎ, bɔ mɛ ɖokpó hwɛjijɔnɔ tíin ǎ. Énɛ́ ɔ́ wú ɔ́, mɛɖé ɖó na <b>sú axɔ́ ɔ́ ɖó tɛn yětɔn mɛ</b>.</p><p>Jezu wá bo na kplɔ́n nǔ ɖagbe lɛ́ɛ kɛ́ɖɛ́ gbɔn ǎ. Đó ali ɖevo tíin bɔ è na hwlɛ́n mì gán ná ǎ wú ɔ́, <b>é ɖó na wá kpowun.</b></p><p class=\"crux-punch\">Mɛ e ɖó na ku ɖo aklúzu énɛ́ ɔ́ jí ɔ́ <b>nyɛ</b> wɛ.<br>Jezu hɛn <b>hwɛ ce</b> bó dó jɛ aklúzu ɔ́ jí ɖó tɛn ce mɛ.</p><div class=\"crux-verse\">“Lo ɔ́, hwɛ mǐtɔn lɛ́ɛ wú wɛ è gblě wǔ i … bɔ wǔ e è gblě e ɔ́ gbɔ azɔn nú mǐ.” — Ezayíi 53:5</div>",
+  "faq.h": "A kpo ɖo nǔɖé hú dó wɛ wɛ a?",
+  "faq.q1": "<span class=\"arr\">▸</span> Énɛ́ ɔ́, mɛhutɔ́ ɖé na ɖi nǔ kpowun bo na yi jǐxwé, bɔ mɛ e nɔ gbɛ ɖagbe hwebǐnu bo ma ka ɖi nǔ ǎ é na yi zomɛ́ wɛ a?",
+  "faq.a1": "<p>Nǔkanbyɔ́ ɖagbe wɛ. Lo ɔ́, nǔ wěwe e mɛ è ma mɔ nukúnnú jɛ ǎ é cí d'é mɛ.</p><p><b>① Biblu ɔ́ má gbɛtɔ́ lɛ́ɛ ɖó “mɛ ɖagbe kpó mɛ nyanya kpó” ǎ.</b> Nǔjlɛ́jlɛ́ ɔ́ nyí “ɖagbe hú mɛ e ɖo akpá towe é” ǎ, lo ɔ́ “mɛ́ɖɛ́ɖɛ́ Mawu tɔn fífá ɔ́” wɛ. Đo nukún tɔn mɛ ɔ́, mɛɖé “ɖagbe bǐ mlɛ́mlɛ́” ǎ (Hlɔ̌manu 3:23). Énɛ́ ɔ́ wú ɔ́, é nyí “mɛ ɖagbe kpó mɛhutɔ́ kpó” ǎ, lo ɔ́ é cí azɔnnɔ wě e ɖó azɔn e nɔ hu mɛ ɖokpó ɔ́ é ɖɔhun: ɖokpó yí amasin ɔ́, bɔ ɖevo gbɛ́ ɛ bo ɖɔ “un ɖó lanmɛ ɖagbe hú mɛ énɛ́.”</p><p><b>② Nǔ ɖokpó géé wɛ má jǐxwé kpó zomɛ́ kpó.</b> É nyí nǔwiwa towe sín jlɛ̌ ǎ, lo ɔ́ <b>ényí a yí Jezu Klísu dó Aklúnɔ ná bɔ è ko ɖe hwɛ towe sín tagba ɔ́ síìn é</b> wɛ. Mɛ e sín hwɛ è ko bló bo ɖe síìn gbɔn hun Klísu tɔn gblamɛ é na yi jǐxwé; mɛ e ma yí i gbeɖé ǎ bɔ hwɛ tɔn kpo ɖè é ɔ́, mɔ̌ ǎ. Nǔ ɖagbe wiwa ɖěbǔ ma sixú ɖe hwɛ ɔ́ ɖésúnɔ sín tagba síìn nú we ǎ.</p><p>Énɛ́ ɔ́ wú ɔ́, jǐxwé kpó zomɛ́ kpó nyí “ajɔ ɖó nǔ ɖagbe wiwa wú” ǎ, lo ɔ́ <b>kancica e ɖo hwi kpó Klísu kpó tɛ́ntin é</b> sín xó wɛ. Bɔ “nǔɖiɖi” nyí xósɔɖóte tamɛ tɔn kpowun ǎ, lo ɔ́ Aklúnɔ e nɔ kpa acɛ nú gbɛ towe é sín huzuhuzu wɛ — mɛ e yí i nǔgbó é nɔ́ sɔ́ éɖée su ǎ, lo ɔ́ é nɔ́ lɛ́ kɔ sín hwɛ tɔn lɛ́ɛ gúdo d'eji. Đo nǔgbó mɛ ɔ́, hwɛjijɔnɔ-ɖéwa (“un nyí mɛ ɖagbe”) wɛ nyí vodún e syɛ́n bo na gbɔ́ hú bǐ é, ée nɔ́ bló bɔ mǐ nɔ lin ɖɔ mǐ ɖó hudó Klísu ǎ é (Luki 18:9-14).</p><p>Biblu ɔ́ ɖɔ ɛ kpɛɖɛ́: <b>“Mɛ e ɖi nǔ nú vǐ ɔ́, Mawu ná ɖó hwɛ n'i ǎ; mɛ e ma ka ɖi nǔ n'i ǎ ɔ́, Mawu ko ɖó hwɛ nú mɛ énɛ́ xóxó”</b> (Jǎan 3:18). Hwɛɖɔ ɔ́ nyí “jlɛ̌ ɖó nú gbɛ towe ée a kú gúdo é” ǎ, lo ɔ́ è ko ɖo do d'é gbɔn <b>ényí a yí Klísu é</b> jí.</p><p class=\"faq-v\">Hlɔ̌manu 3:23 · Jǎan 3:18 · Efɛ́zinu 2:8-9 · Luki 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Un ka má sixú nɔ gbɛ ɖagbe kpowun bo ma ɖi nǔ nú Jezu ǎ wɛ a?",
+  "faq.a2": "<p>Linlin e mɛ gěgé nɔ́ ɖó é wɛ, lo ɔ́ é ma mɔ nukúnnú jɛ nǔ e nyí tagba nǔgbó ɔ́ é mɛ ǎ. Nǔjlɛ́ ɖokpó ɖíe.</p><p><b>Lin ɖɔ a ɖo ajotɔ́ tɔjihun ɖé mɛ.</b> Lě e a na kɔ́n tɔjihun ɔ́ mɛ kpɛɖɛ́, bo na nɔ wa nǔ ɖagbe nú azɔ̌watɔ́ lɛ́ɛ, bo na nɔ gbɛ ɖagbe sɔ́ é ɔ́, a kpo ɖo <b>ajotɔ́</b> nyí wɛ, ɖó tɔjihun ɔ́ hɛn we yi fí e é xwe é (tɔjihun-nɔtefí hwɛɖɔ tɔn). Tagba ɔ́ nyí “nǔwiwa towe sín jlɛ̌” ǎ, lo ɔ́ <b>“tɔjihun e a sín é” (mɛ e a nyí é)</b> wɛ.</p><p>Énɛ́ ɔ́ wú ɔ́, Wɛn Ɖagbe ɔ́ má ɖɔ “tɛ́ alɔ kpɛɖɛ́ bo nyí mɛ ɖagbe” ǎ; é ɖɔ <b>“ɖyɔ́ tɔjihun.”</b> Jɛ te sín tɔjihun hwɛhuhu tɔn mɛ bo wá Jezu gɔ́n — mɛ e a na nyí ɖó yɔ̌yɔ̌ é wɛ nyí <b>Mawu ví</b>. É nyí jlɛ̌ towe yiyi jǐ gbɔn agbǎzazɔ́ wú wɛ ǎ, lo ɔ́ Mɛ e dlɛ́n alɔ tɔn nú we é ganjɛwú bo gbɔn yi tɔjihun tɔn mɛ wɛ.</p><p>Đo nǔgbó mɛ ɔ́, Biblu ɔ́ ɖe hwlɛngán ɔ́ xlɛ́ lě e gbɔngbɔn énɛ́ ɖɔhun: <b>“é yí mǐ sín zǐnflú sín hlɔ̌nhlɔ́n sí, bó sɔ́ mǐ ɖó Vǐ tɔn vívɛ́ná ɔ́ sín axɔ́súɖuto mɛ”</b> (Kolósinu 1:13).</p><p>Ma mɔ nukúnnú jɛ wǔ tɛnmɛ ó: <b>é nyí ɖɔ gbɛ ɖagbe ninɔ ɖó nu ǎ wɛ ǎ.</b> Lo ɔ́, ɖagbe wiwa nyí “nǔ e è byɔ́ cóbónú è na mɔ hwlɛngán” ǎ, lo ɔ́ <b>sínsɛ́n</b> tɔn wɛ. Mɛ e ɖyɔ́ tɔjihun é nɔ́ gbɛ ɖagbe sɔ́ gbɔn xɛsi gblamɛ ǎ, lo ɔ́ gbɔn <b>wǎn yíyí vǐ ɖé tɔn</b> gblamɛ.</p><p class=\"faq-v\">Kolósinu 1:13 · Jǎan 1:12 · Jǎan 3:3 · Efɛ́zinu 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Ényí mɛ e wa nǔ nyanya é ɖɔ “Mawu ko sɔ́ hwɛ ce kɛ mì” bo ɖo fífá mɛ, bɔ mɛ e wú è wa nǔ nyanya é kpo ɖo wǔvɛ́ mɔ wɛ ɔ́, hwɛsɔkɛ énɛ́ má vɛ̌ gbɛ́ dín ǎ wɛ a?",
+  "faq.a3": "<p>Nǔkanbyɔ́ ɔ́ sɔgbe, bɔ wǔvɛ́ énɛ́ nyí nǔgbó. Lo ɔ́, xó mɔ̌hunkɔ́ ɖiɖɔ nyí “hwɛsɔkɛ Biblu ɔ́ tɔn” ǎ, lo ɔ́ <b>nǔ e è ɖyɔ́ kpacɛ é</b> wɛ.</p><p><b>① Hwɛsɔkɛ Mawu tɔn vɛ̌ gbɔn hwebǐnu.</b> È nɔ́ ɖó hwɛ ɔ́ nyi do lě e “é ma jɛ ǎ ɖɔhun é ǎ”; Mawu ɖésú sú axɔ́ tɔn kpó gbɛ Vǐ tɔn tɔn kpó. Aklúzu ɔ́ ɖe xlɛ́ ɖɔ è nɔ kpɔ́n hwɛ kpataki ǎ, lo ɔ́ é ɖe lě e hwɛ kpɛn sɔ́ é xlɛ́: hwɛsɔkɛ e vɛ̌ axɔ́ hú bǐ ɖo gbɛ ɔ́ mɛ é wɛ.</p><p><b>② Hwɛlɛ́kɔ nǔgbó nɔ́ ná sínsɛ́n.</b> Ényí mɛ e wa nǔ nyanya é nɔ te kpɔ́n mɛ e wú è wa nǔ nyanya é bo ɖɔ “Mawu sɔ́ hwɛ ce kɛ mì, un ɖo fífá mɛ” ɔ́, énɛ́ nyí hwɛlɛ́kɔ ǎ, lo ɔ́ é cíví wɛ (Matíe 3:8). Bɔ hwɛsɔkɛ e ɖo mɛ ɖokpó kpó Mawu kpó tɛ́ntin é má nɔ ɖe wǔ e gblé mɛ e wú è wa nǔ nyanya é síìn ǎ, é ká nɔ dɔn ɛ bónú é ná sɔ́ hwɛ kɛ ǎ.</p><p><b>③ È nɔ́ jó hwɛ ɖó gbeji kpowun gbeɖé ǎ.</b> Hwɛ ɖokpó ɖokpó sín axɔ́, è nɔ́ sú ɖo fí wě lɛ́ɛ ɖokpó mɛ: <b>Klísu wɛ hɛn ɖo aklúzu jí</b> (nú mɛ e ɖi nǔ n'i lɛ́ɛ ɔ́, hwɛɖɔ sɔ́ tíin ǎ, Hlɔ̌manu 8:1), <b>abǐ mɛ e gbɛ́ ɛ káká é wɛ hɛn éɖésúnɔ.</b> Énɛ́ ɔ́ wú ɔ́, “hwɛsɔkɛ pacɛ” tíin ǎ. Mɛ e wa nǔ nyanya é lɔmɔ̌ na ɖó na yí agban ɖo sɛ́n gbɛ élɔ́ tɔn nukún mɛ (Hlɔ̌manu 13:1-4).</p><p><b>④ Đasin mɛ e wú è wa nǔ nyanya é tɔn nɔ́ kpɛ́n ɖo Mawu nukún mɛ gbeɖé ǎ.</b> Mawu nɔ́ ya avǐ xá mɛ e ɖo avǐ ya wɛ lɛ́ɛ, bo nɔ́ flín ɖasin ɖokpó ɖokpó, bo na sún yě bǐ síìn gǎ ɔ́ é ɖésú (Nǔɖexlɛ́mɛ 21:4). Énɛ́ ɔ́ wú ɔ́, mɛ e wú è wa nǔ nyanya é ɖésú má nɔ hɛn agban hlɔnbabá tɔn ɖó éɖokpó ǎ, lo ɔ́ é sixú jó dó Mawu hwɛjijɔnɔ ɔ́ (Hlɔ̌manu 12:19: “Nyɛ wɛ nɔ ba hlɔn; nyɛ wɛ nɔ sú nǔ e è wa ɔ́ sín axɔ́ mɛ; Aklúnɔ wɛ ɖɔ mɔ̌”).</p><p class=\"faq-v\">Matíe 3:8 · Hlɔ̌manu 8:1 · Hlɔ̌manu 13:1-4 · Nǔɖexlɛ́mɛ 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Biblu ɔ́ ka nyí tan nǔgbó ɖé wɛ nǔgbó a? É cí gbɛ̌xó hwexónu tɔn abǐ wǔlanwěma ɖɔhun.",
+  "faq.a4": "<p>Nǔkanbyɔ́ ɖagbe wɛ — bɔ é nyí bǐbɛ́mɛ ɖagbe. Hú dó nyí nǔɖiɖi sín gbɛadakaxó ǎ, lo ɔ́ jlǒ e mɛ ɖó bo na kpɔ́n nǔ lɛ́ɛ gbeji é wɛ. Biblu ɔ́ nyí gbɛ̌xó pacɛ e è na “ɖi nú jó dó nú jlǒ towe” é ǎ, lo ɔ́ wěma e è wlán dó <b>fí, azǎn, kpódó mɛ nǔgbó lɛ́ɛ jí</b> é wɛ. Kpɔ́ndéwú kpɛɖɛ́ géé ɖíe.</p><p><b>① É nyí wěma ɖokpó ǎ, lo ɔ́ “wěmaxɔ” wɛ — có é ká sa nǔ ɖokpó géé jí.</b> Biblu ɔ́ nyí wěma <b>kanɖé gban-nukún-ɛnɛ (66)</b> e è wlán nú xwe <b>afatɔ́n donu atɔn (1.500) mɔ̌, gbɔn mɛ kanɖé (40) mɔ̌ jí</b> é sín bǎ ɖé — axɔ́sú lɛ́ɛ, lɛ̌ngbɔnyitɔ́ lɛ́ɛ, hwetɔ́ lɛ́ɛ, takwɛyitɔ́ ɖokpó, dotóo ɖokpó, mɛ e ɖo gbɛ vovo mɛ bo ɖo hwe vovo mɛ lɛ́ɛ, bɔ yě wlán bǐ vo, bo ma tunwun yěɖée ǎ, ɖo gbe atɔn (Ebléegbe, Aalaamɛ́engbe, Glɛ́ɛkígbe) mɛ. Có nǔ ɔ́ bǐ wá kplé, bo ma ɖó wǔgan ǎ, ɖó nǔ ɖokpó géé jí: <b>hwlɛngán gbɔn Klísu gblamɛ</b>. Énɛ́ ɔ́ nyí nǔ ɖokpó e vɛwǔ bo na tín mɛ gbɔn nǔjɛ kpowun abǐ gbɛtɔ́ sín ali jí é.</p><p><b>② È kpo ɖo nǔ tɔn lɛ́ɛ ɖexlɛ́ wɛ sín ayǐkúngban jí (akɔnta-mɛɖiɖe).</b> Nǔ gěgé e è ko ɖɔ ɖɔ è dóhɛ́n nyi do, bɔ è “mɔ ɖo Biblu ɔ́ mɛ kɛ́ɖɛ́” é wá ɖe éɖée xlɛ́ gbɔn dòkunkun gblamɛ. <b>Davídi sín hɛ̌nnu ɔ́</b>, gbɔn awǐnnya e jí è wlán “xwédo Davídi tɔn” ɖó é (Tɛli Dani sín awǐnnya); <b>Pɔ́ntiyusi Pilátu</b>, tokpɔ́ngán e hu Jezu é, gbɔn nyǐkɔ tɔn wlɛ́nwlɛ́n ɖé jí; axɔ́sú Ezekiyási sín sin-dotonu (2 Axɔ́sú 20:20), gbɔn dotonu ɔ́ ɖésú kpó wlɛ́nwlɛ́n tɔn kpó jí. Káká jɛ <b>Hitíti lɛ́ɛ</b>, ée è nɔ ylɔ́ ɖ'ayǐ ɖɔ “togun nǔlinlin tɔn” é jí, è wá mɔ ɖɔ akɔ ɖaxó ɖé wɛ ɖo dotɛn lɛ́ɛ mɛ.</p><p><b>③ É nyí wěma hwexónu tɔn e è chɔ́n ganji hú bǐ é (alɔ-wěmawlándó lɛ́ɛ).</b> Đo alɔ-wěmawlándó e kpo lɛ́ɛ sín kɛ́nsísɔ́, yěɖée sín sɔgbe, kpódó hwenu e ɖo wlǎnwlán kpó wěmaxɔ́xɔ́ kpó tɛ́ntin é mɛ ɔ́, Biblu ɔ́ <b>ɖó mɛ e na jlɛ́ ná ɖo wěma hwexónu tɔn lɛ́ɛ mɛ ǎ</b>. Ezayíi sín wlanwlán e ɖ'ayǐ nú Klísusinsɛ́n bɔ è mɔ ɖo <b>Xu Kúkú sín alɔ-wěmawlándó lɛ́ɛ</b> mɛ (è mɔ ɖo 1947) é sɔgbe xá wěma e mɛ è zán xwe afatɔ́n (1.000) mɔ̌ gúdo é wěkwín ɖokpó ɖokpó: kúnnuɖe ɖɔ è hɛn Biblu ɔ́ sɔgbe gbɔn hwenu lɛ́ɛ bǐ mɛ.</p><p><b>④ Nǔ e è wlán ɖ'ayǐ é jɛ lě e è wlǎn gbɔn é pɛ́ɛ́ (gbeyíɖɔ-xó).</b> Akɔ Xóxó ɔ́, ée è wlán xwe kanwekogban mɔ̌ jɛ nukɔn nú Jezu é, xlɛ́ jiji tɔn ɖo Bɛteleyɛ́mu (Micée 5:2), mɛsɛntɔ́ wǔvɛ́mɔ́tɔ́ ɔ́ (Ezayíi 53:5), kpódó aklúzu ɔ́ sín ninɔmɛ lɛ́ɛ (Ɖɛhan 22) kpó kpataki. É sɔgbe dín bɔ è na ɖɔ nǔ jɛ kpowun wɛ ǎ.</p><p><b>⑤ Tanwlántɔ́ e ma ɖo Biblu ɔ́ mɛ ǎ lɛ́ɛ lɔmɔ̌ wlán xó tɔn.</b> Hlɔ́munu tanwlántɔ́ <b>Tasíti</b> kpódó Jwifu tanwlántɔ́ <b>Jozɛ́fu</b> kpó — yě mɛ wěvo nyí Klísusinsɛntɔ́ ǎ — ɖɔ Jezu, hu e è hu i é, kpódó agun nukɔntɔn ɔ́ kpó sín xó. Hú nǔ lɛ́ɛ bǐ wú ɔ́, ahwanvu e gbɔn xɛsi wú vúnvún gba lɛ́ɛ <b>sɔ́ gbɛ yětɔn ɖ'ahwan</b> bo ɖe kúnnu fínfɔ́n sín kú ɔ́ tɔn: mɛɖé nɔ kú dó nǔ e é tunwun ɖɔ adingban wɛ é tamɛ gbeɖé ǎ.</p><p>Đo nǔgbó mɛ ká ɔ́, nǔ énɛ́ lɛ́ɛ ɖe xlɛ́ ɖɔ Biblu ɔ́ ɖiɖi nú <b>nyí nǔ e ma jɛxa nǔnywɛ́ ǎ é ǎ, lo ɔ́ é jɛxa nǔnywɛ́</b>; yě nyí “kúnnuɖenú” e nɔ dɔn mɛ kpataki akɔnta sín xójlɛ́ ɖɔhun é ǎ. Énɛ́ ɔ́ wú ɔ́, Klísusinsɛntɔ́ ɖé sín kúnkplá má gosín kúnnuɖenú lɛ́ɛ kɛ́ɖɛ́ mɛ ǎ, lo ɔ́ é gosín <b>jǐ e Yɛsinsɛn nɔ́ ná ayixa hwenu e mɛ nɔ́ xa Mawuxó ɔ́ é</b> mɛ. Biblu ɔ́ ɖɔ: <b>“Nǔɖiɖi nɔ wá gbɔn sese gblamɛ, bɔ sese nɔ́ wá gbɔn Mawuxó ɔ́ gblamɛ”</b> (Hlɔ̌manu 10:17). Énɛ́ ɔ́ wú ɔ́, lě e é na cí gbɛ̌xó ɖɔhun gbɔn é ɔ́, <b>hwiɖésúnɔ xixa</b> wɛ nyí bǐbɛ́mɛ ɔ́. Kúnnuɖenú lɛ́ɛ hun hɔn ɔ́, bɔ kúnkplá nɔ́ vun ɖo mɛ e nɔ xa nǔ é mɛ.</p><p class=\"faq-v\">2 Axɔ́sú 20:20 · Ezayíi 53:5 · Micée 5:2 · Hlɔ̌manu 10:17</p>",
+  "respond.h3": "Énɛ́ ɔ́ — nyɛ ɔ́?",
+  "respond.sub": "Wǎn yíyí élɔ́ nyí xójlá ǎ, lo ɔ́ <b>mɛylɔ́</b> wɛ. Ényí wǎn yíyí e dó jɛ aklúzu jí ɖó tɛn towe mɛ é ɖ'alɔ ayixa towe wú ɔ́, xo ɖɛ élɔ́ dɛ̌dɛ̌, xógbe ɖokpó ɖokpó.",
+  "respond.prayer": "<p>Mawu,</p><p>un yí gbe ɖɔ hwɛhutɔ́ e ma sixú hwlɛ́n éɖée gán ǎ é wɛ un nyí.</p><p>Un ɖi nǔ ɖɔ Jezu kú ɖo aklúzu jí dó ta ce mɛ bo fɔ́n sín kú.</p><p>Kɛnklɛ́n sɔ́ hwɛ ce lɛ́ɛ bǐ kɛ mì, bó sín égbé yi nyí Aklúnɔ gbɛzán ce tɔn.</p><p>Yí mì dó vǐ towe ná, bó bló nú má nɔ gbɛ yɔ̌yɔ̌.</p><p class=\"amen\">Đo nyǐkɔ Jezu tɔn mɛ wɛ un xo ɖɛ ɔ́. Amɛ́n.</p>",
+  "respond.after": "Ényí a xo ɖɛ élɔ́ kpó ayixa towe bǐ kpó ɔ́, Biblu ɔ́ ɖɔ ɖɔ a ko <b>húzú Mawu ví</b>. A sɔ́ ɖokpónɔ ǎ — ba sinsɛnxɔ ɖé ɖo akpá towe, bó zɔn ali nǔɖiɖi tɔn ɔ́ xá mɛ ɖevo lɛ́ɛ.",
+  "respond.read": "Xa Biblu ɔ́ hwiɖésúnɔ — bɛ́ sín Jǎan jí",
+  "respond.verse": "“Nǔ ɖo mɔ̌ có mɛɖé lɛ́ɛ ka yí i, bó ɖi nǔ n'i. É ná acɛ mɛ énɛ́ lɛ́ɛ, nú yě ná húzú Mawu ví.” — Jǎan 1:12 · Hlɔ̌manu 10:9-10",
+  "closing.main": "Mawu ɖokpó,<br>gbɔn tan ɖokpó gblamɛ,<br>nɔ́ ba mǐ kpó <em>wǎn yíyí</em><br>e ma nɔ jó dó gbeɖé ǎ é kpó.",
+  "closing.verse": "“mǐ ɖo gbɛ oo, mǐ ɖo kú oo … nǔ ɖěvo e è blǒ é ɖěbǔ kpán sixú ɖe mǐ ɖó vo nú wǎn yíyí e Mawu ɖe xlɛ́ mǐ gbɔn Aklúnɔ mǐtɔn Klísu Jezu jí é ǎ.” — Hlɔ̌manu 8:38-39",
+  "closing.small": "Ðo tan élɔ́ jí ɔ́, Sɛ́n ɔ́, hanwěma lɛ́ɛ, gbeyíɖɔ lɛ́ɛ, kpódó wěxomɛ lɛ́ɛ kpó nɔ ɖó “agbaza” d'eji.<br>Sín dìn jɛ ɔ́, wěma ɖěbǔ a na hun ɔ́, a na tunwun “fí e a ɖè ɖo tan ɔ́ mɛ é.”",
+  "closing.share": "↗ Má tan élɔ́ xá mɛ ɖevo",
+  "about.line": "Đó nǔ e ɖo wěma élɔ́ mɛ é dó <b>nukún hwlɛngán-tan tɔn, Wɛn Ɖagbe tɔn kpó Sɛ́nflínmɛ tɔn (réformé) kpó</b> e Koleagun ɔ́ sín Plotɛstáwun gěgé ɖó kpɔ́ é jí.",
+  "about.contact": "Nǔkanbyɔ́ · nǔ ɖiɖɔ — <a id=\"contact\" class=\"mail\">Sɛ́ wěma dó mǐ</a>"
+ },
+ "epochs": [
+  {
+   "tag": "AKƆ XÓXÓ · BǏBƐ́MƐ",
+   "title": "Nǔɖiɖó",
+   "date": "Đo bǐbɛ́mɛ",
+   "one": "Mawu ɖó gbɛ̀ e “nyɔ́ ɖésú” é ɖé.",
+   "people": "Mawu; Adamu kpó Ɛvu kpó",
+   "events": "Azǎn ayizɛ́n sín nǔɖiɖó, gbɛtɔ́ ée è bló dó Mawu sín nɔ̌ ɖɔhun é, gbɔjɛzán ɔ́",
+   "q": "Đo bǐbɛ́mɛ ɔ́, hwenu e Mawu ɖó wɛ̌kɛ́ ɔ́,",
+   "cite": "Bǐbɛ́mɛ 1:1",
+   "christ": "È bló gbɛ̀ ɔ́ gbɔn “Xó” ɔ́ gblamɛ. Jǎan sín Wɛn Ɖagbe ɖe xlɛ́ ɖɔ Xó énɛ́ ɔ́ wɛ nyí Jezu ɖésú (Jǎan 1:1-3).",
+   "detail": "<p>Biblu ɔ́ má bɛ́ kpó nǔnywɛ́xó gbɛadakaxó kpó ǎ, lo ɔ́ é bɛ́ kpó xósɔɖóte ɖé kpó: <b>“Đo bǐbɛ́mɛ ɔ́, Mawu…”</b> Gbɛ̀ ɔ́ nyí nǔ e jɛ kpowun é ǎ, lo ɔ́ azɔ̌ Mawu mɛ ɖokpó tɔn wɛ.</p><ul><li><b>Mawu sín nɔ̌</b> · ɖo nǔɖiɖó lɛ́ɛ bǐ mɛ ɔ́, gbɛtɔ́ kɛ́ɖɛ́ wɛ è bló dó Mawu ɖɔhun — bónú é na tunwun ɛ bó na kpé nukún dó gbɛ̀ ɔ́ wú.</li><li><b>Gbɔjɛ</b> · azǎn tɛ́nwegɔ́ ɔ́ sín gbɔjɛ ɖe xlɛ́ ɖɔ nǔ bǐ ko fó bo ɖo fífá mɛ: “é nyɔ́.”</li><li><b>Edɛni</b> · gbɛ̀ ɔ́ cóbónú é gblé, fí e Mawu kpó gbɛtɔ́ kpó nɔ́ ɖi zɔnlin ɖó kpɔ́ é.</li></ul>",
+   "next": "Lo ɔ́, fífá énɛ́ ɔ́ ja gbigblé wɛ kpɛɖɛ́…"
+  },
+  {
+   "tag": "AKƆ XÓXÓ · TAGBA Ɔ́ BƐ́",
+   "title": "Gbigbǎ",
+   "date": "Đo bǐbɛ́mɛ",
+   "one": "Hwɛ byɔ́, bɔ kàn e ɖo gbɛtɔ́ kpó Mawu kpó tɛ́ntin é wɛ́n.",
+   "people": "Adamu kpó Ɛvu kpó; dan ɔ́ (Satáan)",
+   "events": "Atínsínsɛ́n e è gbɛ́ é ɖuɖu, gbigbɛ́ sín Edɛni, kú kpó azɔ̌ syɛ́nsyɛ́n kpó wíwá",
+   "q": "Un ná bló bɔ hwi kpó nyɔ̌nu ɔ́ kpó … Kúnkan tɔn ná nɔ́ nyínyɛ́ ta nú we,",
+   "cite": "Bǐbɛ́mɛ 3:15",
+   "christ": "Akpá nukɔntɔn Wɛn Ɖagbe ɔ́ tɔn, ée è dó tlóló ɖo gbigbǎ ɔ́ gúdo é: “kúnkan nyɔ̌nu ɔ́ tɔn” ná nyínyɛ́ ta nú dan ɔ́ — bɔ énɛ́ ɔ́ wɛ nyí Jezu (Bǐbɛ́mɛ 3:15; Hlɔ̌manu 16:20; Galatinu 4:4).",
+   "detail": "<p>Gbɔn tónúmasémasé e nyí “nyínyí Mawu ɖɔhun” sín jlǒ é gblamɛ ɔ́, hwɛ byɔ́ gbɛ̀ ɔ́ mɛ. Sínsɛ́n tɔn nyí sɛ́n ɖokpó gbigbá kpowun ǎ, lo ɔ́ <b>kancica gbigblé</b> wɛ.</p><ul><li><b>Kàn e wɛ́n lɛ́ɛ</b> · xá Mawu (hɔ̌nhɔn), xá yěɖée (hwɛ dó mɛ), xá nǔgbamɛ́nú lɛ́ɛ (wùn kpó azɔ̌ syɛ́nsyɛ́n kpó).</li><li><b>Kú</b> · gbɛ̌xó “a ná kú ɖésú” ɔ́ wá nyí nǔgbó.</li><li><b>Bǐbɛ́mɛ 3:15</b> · có ɖo hwɛɖɔ ɔ́ tɛ́ntin ɔ́, akpá hwlɛngán tɔn ɖé wá ɖ'ayǐ. Wěmaxixatɔ́ lɛ́ɛ nɔ ylɔ́ ɛ ɖɔ <b>“protoevangelium” (Wɛn Ɖagbe nukɔntɔn ɔ́)</b>.</li></ul>",
+   "next": "Dìn ɔ́, Mawu ylɔ́ sunnu ɖokpó bo na bɛ́ hwlɛngán ɔ́…"
+  },
+  {
+   "tag": "AKƆ XÓXÓ · AKPÁ Ɔ́",
+   "title": "Tɔ́gbó lɛ́ɛ",
+   "date": "xwe 2000 J.J.",
+   "one": "Mawu dó akpá nú Ablahámu: “A ná nyí nyɔ̌ná sín ali.”",
+   "people": "Ablahámu · Izáki · Jakɔ́bu · Jozɛ́fu",
+   "events": "Akɔ Ablahámu tɔn, Izáki bloblo nú vɔ̌, Jakɔ́bu sín vǐ wěwe (12), Jozɛ́fu húzú gǎn ɖo Ejípu",
+   "q": "Un ná zé we dó bló akɔta ɖaxó ɖokpó ná … Hwi jí wɛ un ná gbɔn bó ná xo ɖɛ dó hɛ̌nnu e ɖo gbɛ ɔ́ mɛ lɛ́ɛ bǐ jí.",
+   "cite": "Bǐbɛ́mɛ 12:2-3",
+   "christ": "Akpá ɖɔ “hɛ̌nnu lɛ́ɛ bǐ na mɔ nyɔ̌ná” é jɛ ɖo Jezu, kúnkan Ablahámu tɔn ɔ́ mɛ (Galatinu 3:16).",
+   "detail": "<p>Mawu bɛ́ gbɛtɔ́ lɛ́ɛ bǐ sín tagba ɖiɖe gbɔn sunnu ɖokpó, <b>Ablahámu</b>, ylɔ́ylɔ́ gblamɛ. Ayixa tɔn wɛ nyí <b>akɔ (akpá) ɔ́</b> — akɔta ɖaxó, ayǐkúngban, kpódó “nyɔ̌ná nú hɛ̌nnu lɛ́ɛ bǐ” kpó.</p><ul><li><b>Nǔɖiɖi</b> · Ablahámu ɖi nǔ nú akpá e è ma nɔ mɔ ǎ é, bɔ è sɔ́ ɛ dó húzú hwɛjijɔnɔ ná (Bǐbɛ́mɛ 15:6).</li><li><b>Izáki kpó Jakɔ́bu kpó</b> · akpá ɔ́ gbɔn yǐ; Jakɔ́bu (Izlayɛ́li) wɛ nyí tɔ́ nú akɔta wěwe (12) lɛ́ɛ.</li><li><b>Jozɛ́fu</b> · nɔví tɔn lɛ́ɛ sa è, có è sɔ́ ɛ ɖó gǎn ná — “Mawu ká zé dó húzú nǔ ɖagbe ná” (Bǐbɛ́mɛ 50:20).</li></ul>",
+   "next": "Gbɔn Jozɛ́fu gblamɛ ɔ́, xwédo ɔ́ yi Ejípu — bɔ é wá húzú kannumɔ…"
+  },
+  {
+   "tag": "AKƆ XÓXÓ · HWLƐNGÁN",
+   "title": "Tíntɔ́n kpó gbětótló kpó",
+   "date": "xwe 1446 J.J.",
+   "one": "Mawu hwlɛ́n togun kannumɔ ɖé gán bo sɔ́ ɛ ɖó étɔ́n ná.",
+   "people": "Mɔyízi, Aalɔ́ɔn, Falawɔ́ɔn",
+   "events": "Adǎn wǒ lɛ́ɛ, Dǐndínwáyixwe ɔ́, Xu Vɔ̌vɔ́ ɔ́ gbigbɔ́n, Sɛ́n Wǒ lɛ́ɛ ɖo Sinayíi, goxɔ ɔ́, xwe 40 ɖo gbětótló mɛ",
+   "q": "Un ná zé mi dó ɖó togun ce ná; un ná nyí Mawu mitɔn,",
+   "cite": "Tíntɔ́n 6:7",
+   "christ": "Dǐndínwáyixwe ɔ́ — fí e lɛ̌ngbɔví ɖé sín hun ɖe kú síìn é — xlɛ́ Jezu, “Dǐndínwáyixwe-lɛ̌ngbɔví mǐtɔn,” ée è hu i dó aklúzu jí dó ta mǐtɔn mɛ é (1 Kɔlɛ́ntinu 5:7).",
+   "detail": "<p>Hwlɛngán ɖaxó hú bǐ Akɔ Xóxó ɔ́ tɔn. Izlayɛ́li e nyí kannumɔ é mɔ mɛ́sisí gbɔn hlɔ̌nhlɔ́n Mawu tɔn gblamɛ bɔ è bló ɛ dó húzú <b>togun</b> tɔn.</p><ul><li><b>Dǐndínwáyixwe ɔ́</b> · xwé e jí è dó lɛ̌ngbɔví ɔ́ sín hun é, kú gbɔn d'é jí; kpɔ́ndéwú nú vɔ̌sisa e bɔ d'ewú lɛ́ɛ bǐ.</li><li><b>Xu Vɔ̌vɔ́ ɔ́</b> · hwlɛngán ɖo fí e ali fó ɖè é; “gbigbɔ́n yi awǎ ɖevo xwé” húzú dǒ nú bǐbɛ́mɛ yɔ̌yɔ̌ ɖé.</li><li><b>Akɔ Sinayíi tɔn</b> · gbɔn Sɛ́n Wǒ lɛ́ɛ gblamɛ ɔ́, yě kplɔ́n lě e è na nɔ gbɛ togun Mawu tɔn ɖɔhun gbɔn é.</li><li><b>Goxɔ ɔ́</b> · sinsɛnxɔ e è sixú hɛn yi fí ɖevo é, fí e Mawu nɔ́ nɔ togun ɔ́ tɛ́ntin é — “Emanuwɛ́li” sín kúnnuɖe.</li><li><b>Xwe 40</b> · tónúmasémasé hɛn jǐjɔ́nmɛ ɖokpó ɖi zɔnlin ɖo gbětótló mɛ, có Mawu kpo ɖo kpɔ́ xá yě kpó manu kpó kpódó akúdonú akpɔ́kpɔ́ tɔn kpó myɔ tɔn kpó.</li></ul>",
+   "next": "Yě nɔ te ɖo ayǐkúngban e è dó akpá tɔn é nukɔn, bo na byɔ́ mɛ…"
+  },
+  {
+   "tag": "AKƆ XÓXÓ · TÉNÍNƆ",
+   "title": "Tɛ̀nyíyí kpó Hwɛɖɔtɔ́ lɛ́ɛ kpó",
+   "date": "xwe 1400–1050 J.J.",
+   "one": "Yě yí ayǐkúngban ɔ́, có axɔ́sú ma ɖè ǎ wú ɔ́, mɛ ɖokpó ɖokpó nɔ́ wa nǔ e jló è é.",
+   "people": "Jozuwée; Hwɛɖɔtɔ́ lɛ́ɛ Jedéɔn kpó Samuwɛ́li kpó ɖɔhun; Hwliti",
+   "events": "Jeliko gbigba, tɛ̀nyíyí ɖo Kanáan, lě e hwɛhuhu–hwɛɖɔ–hwlɛngán nɔ́ lɛ́ wa hwɛ̌hwɛ̌ é",
+   "q": "Hwe énɛ́ ɔ́ nu ɔ́, axɔ́sú ɖě ɖo Izlayɛ́li ǎ, bɔ mɛ ɖokpó ɖokpó nɔ́ wa nǔ e jló e ɔ́.",
+   "cite": "Hwɛɖɔtɔ́ 21:25",
+   "christ": "Sín hɛ̌nnu Hwliti tɔn mɛ wɛ Davídi gosín, bɔ sín hɛ̌nnu Davídi tɔn mɛ wɛ Jezu gosín (Matíe 1). Káká ɖo gǔbl  mɛ ɔ́, hɛ̌nnu Mɛsiya ɔ́ tɔn nɔ́ kpó ali jí.",
+   "detail": "<p>Đo Jozuwée glɔ́ ɔ́, yě byɔ́ ayǐkúngban e è dó akpá tɔn é mɛ, có ée yě tɛ̀nyi gúdo é ɔ́, yě wánwhlɛ́n Mawu zaan. Hwɛɖɔtɔ́ lɛ́ɛ nyí lě e è lɛ́ nǔ ɖokpó ɔ́ wa hwɛ̌hwɛ̌ é.</p><ul><li><b>Hwɛhuhu sín lě</b> · hwɛhuhu → kɔgbidínú → hǔn súsú → Hwɛɖɔtɔ́ ɖé hwlɛn mɛ → hwɛhuhu lɛ́vɔ̌. É nɔ́ nyla d'eji.</li><li><b>Hwɛɖɔtɔ́ lɛ́ɛ</b> · Jedéɔn, Samuwɛ́li, Debola — hwlɛngántɔ́ hwenu kpɛɖɛ́ tɔn lɛ́ɛ, yě nyí jɔkɛ́n có yě ɖó wǔ gěgé.</li><li><b>Hwliti</b> · tan ɖagbe gbejíninɔ tɔn ɖé ɖo hwenu zǐnflú mɛ; nyɔ̌nu jǒnɔ ɖé byɔ́ hɛ̌nnu Davídi (kpó Jezu kpó) tɔn mɛ.</li></ul>",
+   "next": "Togun ɔ́ sú xó ɖɔ, “Ná mǐ axɔ́sú lɔmɔ̌!”…"
+  },
+  {
+   "tag": "AKƆ XÓXÓ · HWENU ƉAGBE Ɔ́",
+   "title": "Axɔ́súɖuto bǔninɔ ɔ́",
+   "date": "xwe 1050–930 J.J.",
+   "one": "Mawu dó akpá nú Davídi: “Axɔ́súzinkpo towe na nɔ ayǐ káká sɔ́yi.”",
+   "people": "Sawúli · Davídi · Salomɔ́ɔ",
+   "events": "Axɔ́sú nukɔntɔn Sawúli, Davídi kpó Goliyáti kpó, Akɔ Davídi tɔn, Salomɔ́ɔ blo sinsɛnxɔ ɔ́",
+   "q": "A gosín axɔ́súzinkpo jí ɔ́, vǐ towe lɛ́ɛ wɛ ná nɔ ɖu axɔ́sú ɖě jɛ ɖě gúdo káká sɔ́yi, ɖó nǔɖé ná yí axɔ́súɖuɖu ɔ́ sín xwédo towe mɛ ǎ.’ ”",
+   "cite": "2 Samuwɛ́li 7:16",
+   "christ": "“Axɔ́súzinkpo mavɔmavɔ ɔ́” jɛ ɖo Jezu, kúnkan Davídi tɔn ɔ́ mɛ — énɛ́ wú wɛ è nɔ ylɔ́ ɛ ɖɔ “Vǐ Davídi tɔn” é (Luki 1:32-33; Matíe 1:1).",
+   "detail": "<p>Hwenu ɖagbe hú bǐ Izlayɛ́li tɔn, axɔ́sú atɔn glɔ́.</p><ul><li><b>Sawúli</b> · axɔ́sú nukɔntɔn e togun ɔ́ byɔ́ é; bǐbɛ́mɛ ɖagbe, có tónúmasémasé gblé.</li><li><b>Davídi</b> · “sunnu e sɔgbe xá ayixa Mawu tɔn é.” É ɖu ɖo Goliyáti jí bo sɔ́ Jeluzalɛ́mu dó toxo-tɛ̀ ná. É hu hwɛ ɖaxó ɖé (Bɛtisabée), có é lɛ́ kɔ sín hwɛ tɔn gúdo kpó ayixa tɔn bǐ kpó (Ɖɛhan 51).</li><li><b>Akɔ Davídi tɔn (2 Samuwɛ́li 7)</b> · Mawu dó akpá ɖɔ émí na ɖó hɛ̌nnu Davídi tɔn ayǐ káká sɔ́yi — ɖǒ taji nukúnɖiɖó Mɛsiya tɔn tɔn.</li><li><b>Salomɔ́ɔ</b> · ɖo nǔnywɛ́ kpó dɔkun kpó sín ta jí ɔ́, é gbá <b>sinsɛnxɔ</b> Jeluzalɛ́mu tɔn ɔ́, có ɖo gǎ ɔ́ é jɛ vodúnsinsɛ́n mɛ.</li></ul>",
+   "next": "Salomɔ́ɔ gúdo ɔ́, axɔ́súɖuto ɔ́ má wè…"
+  },
+  {
+   "tag": "AKƆ XÓXÓ · GBIGBLÉ",
+   "title": "Axɔ́súɖuto má wè ɔ́",
+   "date": "930–586 J.J.",
+   "one": "É má dó totaligbé (Judáa) kpó toɖihɛn (Izlayɛ́li) kpó, bɔ é gblé kpɛɖɛ́kpɛɖɛ́.",
+   "people": "Axɔ́sú axɔ́súɖuto wè lɛ́ɛ tɔn; gbeyíɖɔ Elíi kpó Ezayíi kpó Jelemíi kpó ɖɔhun lɛ́ɛ",
+   "events": "Axɔ́súɖuto ɔ́ mámá, vodúnsinsɛ́n, gbeyíɖɔ lɛ́ɛ sín gbeɖiɖe",
+   "q": "Lě e Izlayɛ́li ví … gbɛ́ ɖɔ xwédo Davídi tɔn kún ná kpa acɛ nú émí ó gbɔn ɔ́ nɛ́, bɔ é kpo ɖo mɔ̌ káká wá jɛ égbé.",
+   "cite": "1 Axɔ́sú 12:19",
+   "christ": "Đo hwenu énɛ́ ɔ́ mɛ ɔ́, gbeyíɖɔ lɛ́ɛ ɖɔ Mɛsiya e ja é sín xó kpɛkpɛɖɛ́ d'eji (Ezayíi 9:6; Ezayíi 53).",
+   "detail": "<p>Đo Salomɔ́ɔ sín vǐ sín hwenu ɔ́, axɔ́súɖuto ɔ́ má: <b>Izlayɛ́li (toɖihɛn)</b>, akɔta wǒ, toxo-tɛ̀ Samalíi; kpó <b>Judáa (totaligbé)</b>, akɔta wè, toxo-tɛ̀ Jeluzalɛ́mu kpó.</p><ul><li><b>Toɖihɛn ɔ́</b> · axɔ́sú tɔn lɛ́ɛ bǐ sɛn vodún; é jɛ Asilíi sí ɖo 722 J.J.</li><li><b>Totaligbé ɔ́</b> · hɛ̌nnu Davídi tɔn kpó ali jí, bɔ axɔ́sú ɖagbe ɖé lɛ́ɛ Ezekiyási kpó Joziyási kpó ɖɔhun ɖè, có é gblé d'eji.</li><li><b>Gbeyíɖɔ lɛ́ɛ</b> · Elíi, Amɔ́si, Ezayíi, Jelemíi sú xó ɖɔ “mi lɛ́ kɔ wá!” Gbeyíɖɔ-xó Mɛsiya tɔn sukpɔ́ hú bǐ ɖ'afɔ (mɛsɛntɔ́ wǔvɛ́mɔ́tɔ́ Ezayíi 53 tɔn ɔ́).</li></ul>",
+   "next": "Đo gǎ ɔ́, hwɛɖɔ e è ɖɔ ɖ'ayǐ é wá — è kplá yě yi kannumɔgbenu…"
+  },
+  {
+   "tag": "AKƆ XÓXÓ · HWƐĐƆ",
+   "title": "Kannumɔgbenu ɔ́",
+   "date": "722 / 586 J.J.",
+   "one": "Axɔ́súɖuto ɔ́ flɛ́, bɔ è kplá togun ɔ́ yi to ɖevo mɛ.",
+   "people": "Daniyɛ́li, Ezekiyɛ́li, Nabukodonozɔ́ɔ",
+   "events": "Izlayɛ́li jɛ Asilíi sí (722); Judáa jɛ Babilɔ́nu sí bɔ è gba sinsɛnxɔ ɔ́ (586)",
+   "q": "Mǐ jínjɔ́n Babilɔ́nu tɔ lɛ́ɛ tó;bó ɖo Sinyɔ́ɔ flín sɛ́ dó wɛ, bó ɖo avǐ ya wɛ.",
+   "cite": "Ɖɛhan 137:1",
+   "christ": "Đo ayimajɛmɛ sín ado mɛ ɔ́, Jelemíi dó akpá “akɔ yɔ̌yɔ̌” ɖé (Jelemíi 31:31) — akɔ ɖokpó ɔ́ wɛ Jezu zé ɖó te ɖo Nǔɖuɖu Gǔdoananɔ ɔ́ hwenu.",
+   "detail": "<p>Gbeɖiɖe lɛ́ɛ wá nyí nǔgbó. Sinsɛnxɔ ɔ́ jǐ zo bɔ è kplá togun ɔ́ yi Babilɔ́nu — yě bú ayǐkúngban ɔ́, axɔ́sú ɔ́, kpódó sinsɛnxɔ ɔ́ kpó: ado syɛ́nsyɛ́n hú bǐ.</p><ul><li><b>Jijɛ wè</b> · Izlayɛ́li (Asilíi, 722 J.J.) kpó Judáa (Babilɔ́nu, 586 J.J.) kpó.</li><li><b>Daniyɛ́li</b> · kpɔ́ndéwú nǔɖiɖi tɔn káká ɖo hɔnmɛ vodúnsɛntɔ́ lɛ́ɛ tɔn mɛ (kinnikínní lɛ́ɛ sín dǒ); é mɔ nǔ dó “axɔ́súɖuto mavɔmavɔ” e ja é wú.</li><li><b>Nukúnɖiɖó myɔ kpɛví ɖé</b> · nǔ e Ezekiyɛ́li mɔ dó xú xúxú e lɛ́ wá ɖó gbɛ̀ é wú (Ezekiyɛ́li 37) kpódó “akɔ yɔ̌yɔ̌” Jelemíi tɔn kpó xlɛ́ sɔ ɖo zǐnflú mɛ.</li></ul>",
+   "next": "Xwe kanɖé (70) gúdo ɔ́, Mawu hun ali — yě lɛ́ kɔ yi xwé…"
+  },
+  {
+   "tag": "AKƆ XÓXÓ · NǓƉÓGBÉĐÓTE",
+   "title": "Kannumɔgbe sín lɛlɛ́kɔ ɔ́",
+   "date": "538–430 J.J.",
+   "one": "Yě lɛ́ kɔ wá bo gbá sinsɛnxɔ ɔ́ kpó ahohó lɛ́ɛ kpó.",
+   "people": "Ɛsidlási, Nɛɛmíi, Ɛsitɛ́ɛ, Zolobabɛ́li",
+   "events": "Lɛlɛ́kɔ gbɔn Silúsi sín gbeɖiɖe, sinsɛnxɔ ɔ́ gbigbá, Jeluzalɛ́mu ahohó lɛ́ɛ jijlaɖó, Mawuxó ɔ́ ninɔ́ɖóte",
+   "q": "Awǎjijɛ e nɔ gosín Mawu Mavɔmavɔ gɔ́n ɔ́ ná ná hlɔ̌nhlɔ́n mi.",
+   "cite": "Nɛɛmíi 8:10",
+   "christ": "Malacíi, wěma gǔdo tɔn Akɔ Xóxó ɔ́ tɔn, sú nu kpó gbeɖiɖe wɛnsagun e na bló ali nú Mɛsiya ɔ́ é kpó: “Un sɛ́ wɛnsagun ce dó” (Malacíi 3:1).",
+   "detail": "<p>Gbɔn Pɛɛsinu axɔ́sú Silúsi sín gbeɖiɖe (538 J.J.) gblamɛ ɔ́, lɛlɛ́kɔ ɔ́ bɛ́. Đo lɛlɛ́kɔ atɔn mɛ ɔ́, yě lɛ́ kɔ wá bo gbá nǔ e gblé lɛ́ɛ ɖó.</p><ul><li><b>Zolobabɛ́li</b> · gbá sinsɛnxɔ ɔ́ (è fó ɖo 516 J.J.).</li><li><b>Ɛsidlási</b> · kplɔ́n Mawuxó ɔ́ ɖó lɛ́vɔ̌ bo lɛ́ ɖó nǔɖiɖi ɔ́ ayǐ.</li><li><b>Nɛɛmíi</b> · gbá Jeluzalɛ́mu sín ahohó lɛ́ɛ ɖo azǎn kanɖé-wè (52) mɛ.</li><li><b>Ɛsitɛ́ɛ</b> · hwlɛ́n Jwifu e ɖo Pɛɛsi lɛ́ɛ gán sín vívínú mɛ — “bǎ tɛ́ ka tunwun ɖɔ é nyí nú hwenu mɔ̌hunkɔ́tɔn?”</li><li><b>Nukún kpo ɖo nǔ ba wɛ</b> · sinsɛnxɔ ɔ́ nɔ te, có axɔ́sú Davídi ɖɔhun ɖé tíin ǎ. Togun ɔ́ ɖo Mɛsiya ɔ́ nɔ te kpɔ́n wɛ.</li></ul>",
+   "next": "Bɔ ɖo énɛ́ gúdo… jǐxwé wlí xósúsú ɖɔhun, xwe kanwekogban (400) wá yi."
+  },
+  {
+   "tag": "AKƆ LƐ́ Ɔ́ TƐ́NTIN · TƐNMƐ ƉIƉÓ",
+   "title": "Abwǔninɔ sín xwe lɛ́ɛ",
+   "date": "xwe 430–4 J.J.",
+   "one": "Xwe 400 e mɛ gbeyíɖɔ ɖě sín gbe ma ɖè ǎ é — có tɛnmɛ ɔ́ ɖo ɖiɖó wɛ ɖo abwǔninɔ mɛ.",
+   "people": "Alɛkizándlu Ðaxó ɔ́, Makabée lɛ́ɛ, Hlɔ́mu",
+   "events": "Pɛɛsi → Glɛ́si → Makabée sín mɛ́sisí → Hlɔ́mu sín acɛkpikpa",
+   "q": "Lo ɔ́, ée hwe tɔn nu wá su ɔ́, é sɛ́ vǐ tɔn dó gbɔn nyɔ̌nu ɖé jí, bɔ vǐ énɛ́ lɔ nɔ sɛ́n ɔ́ glɔ́,",
+   "cite": "Galatinu 4:4",
+   "christ": "“Tɛnmɛ ɖiɖó” énɛ́ ɔ́ bǐ nyí Mawu sín azɔ̌ bónú Jezu na wá ɖo “hwenu e hwe ɔ́ nu su é” pɛ́ɛ́.",
+   "detail": "<p>Sín Malacíi káká wá Akɔ Yɔ̌yɔ̌ ɔ́, xwe 400 mɔ̌ wá yi bɔ Mawuxó yɔ̌yɔ̌ ɖé ma ɖè ǎ. Có ɖo tan ɔ́ gúdo ɔ́, Mawu ɖo ali ɖó nú Wɛn Ɖagbe ɔ́ wɛ.</p><ul><li><b>Acɛkpikpa lɛ́ɛ ɖyɔ́</b> · Pɛɛsi → Glɛ́si (Alɛkizándlu, 333 J.J.) → Tolomée lɛ́ɛ kpó Selukidi lɛ́ɛ kpó → Makabée sín ahwan (167 J.J.) → Hlɔ́mu (63 J.J.).</li><li><b>Glɛ́ɛkígbe</b> · ahwan e Alɛkizándlu ɖu lɛ́ɛ bló bɔ Glɛ́ɛkígbe húzú gbe e bǐ nɔ́ dó é; è lilɛ Akɔ Xóxó ɔ́ dó Glɛ́ɛkígbe mɛ (Sɛ́ptanti ɔ́), bo dó hun ali nú Wɛn Ɖagbe ɔ́ na gba zɔ̌nzɔ́n.</li><li><b>Hlɔ́mu sín ali kpó fífá kpó</b> · ali e è gbá ganji lɛ́ɛ kpódó “Pax Romana” kpó húzú alixɔ nú Wɛn Ɖagbe-jijlá.</li><li><b>Kplékpɔ́xɔ kpó hagbɛ̌ lɛ́ɛ kpó</b> · kplɔ́nkplɔ́n ɖo kplékpɔ́xɔ ɔ́ mɛ ɖó dǒ; Falizyɛ́n lɛ́ɛ kpó Sadusyɛ́n lɛ́ɛ kpó tɔ́n, bɔ <b>Mɛsiya ɔ́ banúnú</b> mɔ jɔ.</li></ul>",
+   "next": "Bɔ ée abwǔ ɔ́ wɛ́n é, é wá gǎ ɔ́."
+  },
+  {
+   "tag": "AKƆ YƆ̌YƆ̌ · AKPÁ JIJƐ",
+   "title": "Jezu wíwá",
+   "date": "xwe 4 J.J.–4 W.J. 30",
+   "one": "Mɛsiya e è dó akpá tɔn é wá, kú, bo fɔ́n sín kú.",
+   "people": "Jezu, ahwanvu wěwe (12) lɛ́ɛ, Jaan Baatísi",
+   "events": "Gbɛtɔ́húzú ɔ́, sinsɛnzɔ́, nǔkplɔnkplɔn kpó nǔ jǐwǔ lɛ́ɛ kpó, kú ɖo aklúzu jí, fínfɔ́n sín kú ɖo azǎn atɔngɔ́ ɔ́ gbe",
+   "q": "Xó ɔ́ húzú gbɛtɔ́, bó wá nɔ mǐ mɛ; é ɖe fɛ́nú kpódó nǔgbó kpó xlɛ́ mǐ,",
+   "cite": "Jǎan 1:14",
+   "christ": "Kúnkan nyɔ̌nu ɔ́ tɔn (nǔjijɛ 2), nyɔ̌ná Ablahámu tɔn (3), Dǐndínwáyixwe-lɛ̌ngbɔví ɔ́ (4), axɔ́sú mavɔmavɔ Davídi tɔn (6), akɔ yɔ̌yɔ̌ ɔ́ (8) — yě bǐ jɛ ɖo sunnu ɖokpó, Jezu, mɛ: gbeyíɖɔ nǔgbó, vɔ̌sánú-xɔ́súnɔ nǔgbó, kpódó axɔ́sú nǔgbó mǐtɔn kpó.",
+   "detail": "<p>Abwǔ ɔ́ wɛ́n; Mɛ e è dó akpá tɔn é wá. Wɛn Ɖagbe ɛnɛ lɛ́ɛ ɖe kúnnu nú gbɛzán, kú, kpó fínfɔ́n sín kú Jezu tɔn kpó sín alɔ ɛnɛ jí.</p><ul><li><b>Gbɛtɔ́húzú</b> · Mawu húzú gbɛtɔ́ (Emanuwɛ́li, “Mawu ɖo kpɔ́ xá mǐ”), ɖo Bɛteleyɛ́mu fí pacɛ ɔ́.</li><li><b>Sinsɛnzɔ́</b> · é kplɔ́n axɔ́súɖuto Mawu tɔn, gbɔ azɔn nú azɔnnɔ lɛ́ɛ, bo ylɔ́ hwɛhutɔ́ lɛ́ɛ. “Mɛ e mɔ mì ɔ́, é mɔ Tɔ́ ɔ́.”</li><li><b>Aklúzu ɔ́</b> · é sú axɔ́ hwɛ kpó kú e gbigbǎ ɔ́ wá ná é tɔn (nǔjijɛ 2). Dǐndínwáyixwe-lɛ̌ngbɔví nǔgbó ɔ́.</li><li><b>Fínfɔ́n sín kú</b> · é fɔ́n ɖo azǎn atɔngɔ́ ɔ́ gbe, bo gbɔ́ hlɔ̌nhlɔ́n hwɛ tɔn, kú tɔn, kpó Satáan tɔn kpó — káká ɖo aklúzu ɔ́ jí ɔ́ “Klísu yí hlɔ̌nhlɔ́n sín gǎn lɛ́ɛ kpódó acɛkpikpa lɛ́ɛ kpó sí … é ɖu ɖo yě jí” (Kolósinu 2:15).</li></ul><p>Énɛ́ ɔ́ wú wɛ Jezu nyí <b>gbeyíɖɔ nǔgbó</b> mǐtɔn (é xlɛ́ ali e yi Mawu gɔ́n é), <b>vɔ̌sánú-xɔ́súnɔ nǔgbó</b> mǐtɔn (é sú axɔ́ hwɛ kpó agbaza tɔn ɖésú kpó), kpódó <b>axɔ́sú nǔgbó</b> mǐtɔn kpó (é ɖu ɖo hwɛ, kú, kpó Satáan kpó jí bo ɖu axɔ́sú káká sɔ́yi).</p>",
+   "next": "Jezu e fɔ́n sín kú é sɛ́ ahwanvu tɔn lɛ́ɛ dó gbɛ̀ ɔ́ mɛ…"
+  },
+  {
+   "tag": "AKƆ YƆ̌YƆ̌ · GBIGBA ZƆ̌NZƆ́N",
+   "title": "Agun ɔ́ sín bǐbɛ́mɛ",
+   "date": "xwe W.J. 30 jɛ jǐ",
+   "one": "Yɛsinsɛn wá, bɔ Wɛn Ɖagbe ɔ́ gba káká yi fí e gbɛ̀ ɔ́ fó ɖó é.",
+   "people": "Piyɛ́ɛ, Pɔ́lu, agun nukɔntɔn ɔ́",
+   "events": "Yɛsinsɛn kɔn nyi dó ɖo Pantekótu hwenu, agun ɔ́ jiji, Wɛn Ɖagbe ɔ́ gba sín Jeluzalɛ́mu yi Hlɔ́mu gbɔn yadoyido gblamɛ",
+   "q": "Lo ɔ́, mi ná mɔ acɛ yí hwenu e Yɛsinsɛn ná jɛ te wá mi jí é, bɔ mi na nyí kúnnuɖetɔ́ ce, ɖo Jeluzalɛ́mu, gbɔn Judée gbé ɔ́ bǐ jí, kpódó Samalíi kpán, káká yi jɛ fí e gbɛ ɔ́ kponu ɖó é.”",
+   "cite": "Mɛsɛ́dó 1:8",
+   "christ": "Tan élɔ́ kpo ɖo yiyi wɛ káká jɛ égbé. Biblu ɔ́ sú nu kpó akpá ɖɔ Jezu na lɛ́ wá bo na bló bɔ nǔ bǐ na yɔ̀ é kpó (Nǔɖexlɛ́mɛ 21).",
+   "detail": "<p>Ée Jezu xá jǐxwé yi é gúdo ɔ́, Yɛsinsɛn e è dó akpá tɔn é wá ɖo Pantekótu hwenu bɔ agun ɔ́ ji. Wɛn Ɖagbe ɔ́ gba gégédé.</p><ul><li><b>Pantekótu</b> · Yɛsinsɛn ɔ́ bló ahwanvu e ɖo xɛsi mɛ lɛ́ɛ dó húzú kúnnuɖetɔ́ adɔgbɛ́nnɔ lɛ́ɛ.</li><li><b>Piyɛ́ɛ</b> · jla Wɛn Ɖagbe ɔ́ nú Jwifu lɛ́ɛ ɖo Jeluzalɛ́mu.</li><li><b>Pɔ́lu</b> · sín yadoyidótɔ́ wá húzú mɛsɛ́dó, bo dǒ agun lɛ́ɛ gbɔn akɔta lɛ́ɛ sín gbɛ̀ ɔ́ mɛ bo wlán wěma lɛ́ɛ.</li><li><b>Káká yi fí e gbɛ̀ ɔ́ fó ɖó é</b> · Jeluzalɛ́mu → Judée → Samalíi → Hlɔ́mu. Akpá e è dó nú Ablahámu ɖɔ “hɛ̌nnu lɛ́ɛ bǐ” é wá nyí nǔgbó.</li><li><b>Bɔ mǐ ɔ́</b> · tan ɔ́ má fó ǎ; é zɔn nukɔn káká wá Jezu lɛlɛ́kɔwá ɔ́ kpódó jǐxwé yɔ̌yɔ̌ ɔ́ kpó ayǐkúngban yɔ̌yɔ̌ ɔ́ kpó.</li></ul>",
+   "next": "Lo ɔ́, tan ɔ́ má fó ɖ'afí ǎ…"
+  },
+  {
+   "tag": "AKƆ YƆ̌YƆ̌ · GƆ́ FÍFÓ",
+   "title": "Nǔɖógbéɖóte (nǔ bǐ na yɔ̀)",
+   "date": "É kpo ɖo wǎ ja",
+   "one": "Jezu lɛ́ wá bo bló bɔ nǔ bǐ yɔ̀.",
+   "people": "Jezu e ja é; akɔta lɛ́ɛ bǐ",
+   "events": "Lɛlɛ́kɔwá ɔ́, hwɛɖɔ gǔdo tɔn ɔ́, hwɛ·kú·ɖasin sín fífó, jǐxwé yɔ̌yɔ̌ kpó ayǐkúngban yɔ̌yɔ̌ kpó",
+   "q": "È nǎ súnsún ɖasin bǐ sín nukún yětɔn mɛ; kú sɔ́ ná tíin ǎ, aluwɛ sɔ́ ná tíin ǎ, alěníná sɔ́ ná tíin ǎ, wǔvɛ́ mimɔ sɔ́ ná tíin ǎ;",
+   "cite": "Nǔɖexlɛ́mɛ 21:4",
+   "christ": "Edɛni nǔɖiɖó nukɔntɔn ɔ́ tɔn wá ɖó ɖó gǎ ɔ́ ná lě e “Jeluzalɛ́mu Yɔ̌yɔ̌” ɖɔhun é. Mawu nɔ́ nɔ togun tɔn tɛ́ntin káká sɔ́yi — Emanuwɛ́li sín gɔ́ jijɛ (Nǔɖexlɛ́mɛ 21:3; Matíe 1:23).",
+   "detail": "<p>Biblu ɔ́ má fó kpó agun-hwenu ɔ́ kpó ǎ. Wěma gǔdo tɔn tɔn, Nǔɖexlɛ́mɛ, ɖe Jezu e <b>lɛ́ wá</b> bo na fó nǔ bǐ ɖó é xlɛ́.</p><ul><li><b>Lɛlɛ́kɔwá ɔ́</b> · axɔ́sú e è dó akpá tɔn é lɛ́ wá kpó susu kpó.</li><li><b>Đuɖu gǔdo tɔn ɔ́</b> · è ɖe Satáan kpó kú kpó síìn káká sɔ́yi, bɔ Klísu ɖu axɔ́sú axɔ́sú lɛ́ɛ tɔn ɖɔhun (1 Kɔlɛ́ntinu 15:25-26; Nǔɖexlɛ́mɛ 20:10).</li><li><b>Hwɛɖɔ kpó fínfɔ́n sín kú kpó</b> · è jla nǔ agɔ lɛ́ɛ bǐ ɖó, bɔ mɛkúkú lɛ́ɛ fɔ́n.</li><li><b>Jǐxwé yɔ̌yɔ̌ kpó ayǐkúngban yɔ̌yɔ̌ kpó</b> · hwɛ, kú, ɖasin, kpó wǔvɛ́ kpó bú káká sɔ́yi (Nǔɖexlɛ́mɛ 21:4).</li><li><b>Edɛni e è jla ɖó ɔ́</b> · ɖo “Jeluzalɛ́mu Yɔ̌yɔ̌” e nyɔ́ hú bǐbɛ́mɛ ɔ́ é mɛ ɔ́, Mawu nɔ́ nɔ togun tɔn tɛ́ntin káká sɔ́yi — nɔtefí e Biblu ɔ́ bǐ ɖo xwíxwé wɛ é.</li></ul><p>Énɛ́ ɔ́ wú wɛ dìn nyí hwenu “é ko jɛ, có é kpo má fó ǎ”: ɖo Jezu mɛ ɔ́, hwlɛngán ɔ́ <b>ko</b> fó, có gɔ́ tɔn jijɛ ɔ́ <b>kpo</b> ɖo ali jí.</p>",
+   "next": "Énɛ́ ɔ́, tan énɛ́ ɔ́ bǐ ka xó ɖɔ nú “nyɛ” gbɔn?"
+  }
+ ],
+ "love": [
+  "Tan ɔ́ bɛ́ kpó hwɛɖɔ kpó ǎ, lo ɔ́ kpó gbɛ̀ e è ɖó kpó wǎn yíyí e kɔn nyi te é kpó.",
+  "Tlóló e gbɛtɔ́ hu hwɛ é ɔ́, Mawu dó akpá hwlɛngán tɔn ɖo finɛ́ pɛ́ɛ́.",
+  "Mawu jɛ nukɔn wá mɛ e ma jɛxa ǎ é gɔ́n, ylɔ́ ɛ kpó nyǐkɔ tɔn kpó, bo sɔ́ ɛ ɖó nyɔ̌ná sín ali ná.",
+  "É se hwɛhwɛ togun kannumɔ ɖé tɔn bo wá ayǐ bo na wá hwlɛ́n yě gán éɖésú.",
+  "È sa è hwɛ̌hwɛ̌ có, hwebǐnu e yě súxó é ɔ́, é sɛ́ hwlɛngántɔ́ ɖé dó bo lɛ́ fɔ́n yě.",
+  "É gbɛ́ Davídi e jɛ é ɖésú ǎ, bo gbɔn jǐ tɔn dó akpá axɔ́sú mavɔmavɔ ɖé.",
+  "Togun e lilɛ kɔ d'è é ɔ́, é nɔ́ kpó ɖo gbeyíɖɔ lɛ́ɛ sɛ́ dó wɛ, bo nɔ́ ɖɛ̀ ɛ ɖɔ, “Kɛnklɛ́n lɛ́ kɔ wá xwé.”",
+  "É xá kpó yě kpó káká byɔ́ to e zǐn hú bǐ ɖo kannumɔgbenu é mɛ, bo dó akpá nǔɖógbéɖóte tɔn.",
+  "Káká nú togun e gblé hwɛ̌hwɛ̌ é ɔ́, é gbɛ́ akpá tɔn yíyí gúdo ǎ.",
+  "Káká ɖo abwǔninɔ sín xwe 400 lɛ́ɛ mɛ ɔ́, ɖo glɔ́ ɔ́, é ɖo ali hwlɛngán tɔn ɖó wɛ.",
+  "Hwenu e mǐ kpo ɖo hwɛhutɔ́ nyí wɛ é ɔ́, é sɛ́ Vǐ tɔn dó bo sɔ́ gbɛ tɔn ɖésú jó.",
+  "Wǎn yíyí e mǐ yí é ɔ́, é nɔ́ sɛ́ dó dìn bónú é na sa kpé gbɛ̀ ɔ́ bǐ.",
+  "Đo gǎ ɔ́, é na súnsún ɖasin bǐ síìn bo na bló bɔ nǔ bǐ na yɔ̀ ɖo wǎn yíyí mɛ."
+ ],
+ "mis": [
+  {
+   "w": "“Étɛ́wú Mawu bló gbɛtɔ́ e sixú hu hwɛ é? É má na nyɔ́ ɖɔ é má bló mǐ kpɔ́n ǎ wɛ a?”",
+   "t": "Mawu bló gbɛ̀ ɔ́ kpó gbɛtɔ́ kpó gbɔn hudó ɖěbǔ wú ǎ, lo ɔ́ gbɔn wǎn yíyí e kɔn nyi te é wú. Gbɛtɔ́ bloblo dó <b>mɛ e na ɖó kancica xá Mawu é</b> nyí wǎn yíyí ɖésú. Bɔ káká hwɛ byɔ́byɔ́ ɖésú ma tɔ́n sín tito hwlɛngán Mawu tɔn mɛ ǎ (Efɛ́zinu 1:4-5). Nǔjijɛ nukɔntɔn Biblu ɔ́ tɔn nyí hwɛɖɔ ǎ, lo ɔ́ wǎn yíyí wɛ."
+  },
+  {
+   "w": "“È nya mɛ síìn bo lɛ́ ná kú ɖó atínsínsɛ́n ɖokpó ɖuɖu wú kpowun — Mawu ká syɛ́n dín ǎ wɛ a?”",
+   "t": "Sín Edɛni nyinya ɔ́ nyí hwɛɖɔ kpó nǔblawukúnúmɛ kpó. Ényí gbɛtɔ́ na ɖu atín gbɛ̀ ɔ́ tɔn bo na nɔ gbɛ̀ káká sɔ́yi ɖo ninɔmɛ gbigblé énɛ́ ɔ́, ée è klán xá Mawu é mɛ ɔ́, é na wlí byɔ́ wǔvɛ́ mɛ káká sɔ́yi (Bǐbɛ́mɛ 3:22). Kú jijó ɔ́ hun ali lɛlɛ́kɔ tɔn ɔ́, bɔ Mawu dó akpá Hwlɛngántɔ́ ɖé ɖo finɛ́ pɛ́ɛ́ (Bǐbɛ́mɛ 3:15). Wǎn yíyí ko ɖo hwɛɖɔ ɔ́ mɛ xóxó."
+  },
+  {
+   "w": "“È sɔ́ Ablahámu ɖó é ɖó nǔɖiɖi ɖaxó tɔn wú — mɛ Biblu ɔ́ tɔn lɛ́ɛ bǐ ma nyí gbɛtɔ́syɛ́nsyɛ́n walɔ ɖagbe tɔn lɛ́ɛ ǎ wɛ a?”",
+   "t": "Ablahámu lɔmɔ̌ ɖó adingban bo hú dó; Jakɔ́bu nyí blɛ́blɛ́tɔ́. Mawu má ylɔ́ mɛ e jɛxa lɛ́ɛ ǎ, lo ɔ́ é ylɔ́ mɛ e ɖó wǔ lɛ́ɛ gbɔn xomɛnyínyɔ́ jí. Hwɛ e wú é sɔ́ ɛ ɖó é nyí ɖagbe tɔn ǎ, lo ɔ́ wǎn yíyí gbejíninɔ Mawu tɔn wɛ (Sɛ́nflínmɛ 7:7-8)."
+  },
+  {
+   "w": "“Sɛ́n (Sɛ́n Wǒ lɛ́ɛ) ká má nyí dotɛ́n e a ɖó na ɖu cóbónú a na mɔ hwlɛngán é ǎ wɛ a?”",
+   "t": "Mawu hwlɛ́n yě gán <b>cóbónú</b> é na yě Sɛ́n ɔ́. Sɛ́n Wǒ lɛ́ɛ ɖésú bɛ́ kpó hwlɛngán sín xósɔɖóte kpó: “Nyɛ wɛ nyí Mawu Mavɔmavɔ, Mawu towe e ɖe we tɔ́n sín Ejípu” (Tíntɔ́n 20:2). Sɛ́n ɔ́ nyí “nyi i bo na mɔ hwlɛngán” ǎ, lo ɔ́ alixlɛ́mɛ wǎn yíyí tɔn dó lě e togun e è ko hwlɛ́n gán gbɔn xomɛnyínyɔ́ jí é na nɔ gbɛ̀ gbɔn é (Sɛ́nflínmɛ 7:7-9). Xomɛnyínyɔ́ wɛ nɔ jɛ nukɔn hwebǐnu; tónúséséxó wɛ nyí gbeyíyíxó ɔ́."
+  },
+  {
+   "w": "“Kanáan tɛ̀nyíyí ɔ́ nyí mɛhuhu nǔblawumakúnúmɛ tɔn — énɛ́ ɔ́, Mawu Akɔ Xóxó ɔ́ tɔn syɛ́n nǔgbó.”",
+   "t": "Xó syɛ́nsyɛ́n ɖé wɛ é nyí bɔ è ma sixú ɖe sín xógbe ɖokpó mɛ ǎ é, bɔ é byɔ́ ayixasɔ́nǔ. Lo ɔ́, Biblu ɔ́ ɖe è xlɛ́ syɛ́nsyɛ́n e ma ɖó hwɛjɔ ǎ é ɖɔhun ǎ, lo ɔ́ hwɛɖɔ ɖo xwe afatɔ́n gěgé sín suúlu gúdo dó nǔ nyanya zǎngbónúmɛ tɔn (vǐ kpɛví lɛ́ɛ vɔ̌sisa lɔ ɖ'emɛ) é ɖɔhun (Bǐbɛ́mɛ 15:16; Sɛ́nflínmɛ 9:4-5; Levíi ví 18:24-25). Mawu nɔ́ ya wǔ ɖo hwɛɖɔ mɛ ǎ, bɔ é nɔ́ yí mɛ e lilɛ kɔ wá é kpó xomɛhunhun kpó, jǒnɔ Laxábu kpó Hwliti kpó ɖɔhun (Jozuwée 6:25; Hwliti 4:13-17)."
+  },
+  {
+   "w": "“Davídi nyí gbɛtɔ́syɛ́nsyɛ́n e ma ɖó wǔ ǎ é — énɛ́ wú wɛ è ylɔ́ ɛ ɖɔ ‘sunnu e sɔgbe xá ayixa Mawu tɔn é.’”",
+   "t": "Davídi wa aga bo hu mɛ lɔ. “Sunnu e sɔgbe xá ayixa Mawu tɔn é” nyí ɖɔ é ma ɖó wǔ ǎ wɛ ǎ, lo ɔ́ mɛ e ma hwlá hwɛ tɔn ǎ é — ée lɛ́ kɔ sín hwɛ tɔn gúdo nǔgbó bo nɔ́ lɛ́ kɔ wá Mawu gɔ́n hwɛ̌hwɛ̌ é. Wǎn yíyí Mawu tɔn nɔ́ gbɛ́ káká nú mɛ e jɛ syɛ́nsyɛ́n é ǎ (Ɖɛhan 51)."
+  },
+  {
+   "w": "“Gbeyíɖɔ nyí bokɔ́nɔ e nɔ ɖɔ sɔ sín nǔ ɖ'ayǐ é / Mawu Akɔ Xóxó ɔ́ tɔn nɔ́ sin xomɛ kpowun.”",
+   "t": "Gbeyíɖɔ ɖé sín ayixa nyí “sɔ sín nǔ ɖiɖɔ ɖ'ayǐ” ǎ, lo ɔ́ Mawu sín hǔn-ɖɛ̀mɛ ɖɔ: “Kɛnklɛ́n lɛ́ kɔ wá.” Káká gbeɖiɖe hwɛɖɔ tɔn ɔ́ má ɖó na gba mɛ ǎ, lo ɔ́ é na lɛ́ kɔ nú mɛ bo na na yě gbɛ̀ — “Un ba gbeɖé kpɔ́n ɖɔ mɛ nyanya ní kú ǎ” (Ezekiyɛ́li 33:11)."
+  },
+  {
+   "w": "“Kannumɔgbenu ɔ́ ɖe xlɛ́ ɖɔ Mawu jó Izlayɛ́li dó mlɛ́mlɛ́.”",
+   "t": "Kannumɔgbenu ɔ́ nyí jijó dó ǎ, lo ɔ́ tóɖóɖó kpó slamɛ kpó nú vǐ vívɛ́ná ɖé wɛ (Eblée 12:6). Mawu má yi ǎ; é xá kpó Daniyɛ́li kpó ɖo kannumɔgbenu ɔ́ ayixa mɛ bo dó akpá ɖɔ, “un tunwun tito e un sɔ́ ɖó te nú mi é; fífá wɛ un sɔ́ ɖó te nú mì, ényí nǔ nyanya wɛ un sɔ́ ɖó te nú mi ǎ, bónú sɔ ná nyɔ́ nú mi” (Jelemíi 29:11)."
+  },
+  null,
+  {
+   "w": "“Đó Mawuxó ma ɖè ǎ nú xwe 400 wú ɔ́, Mawu yi abǐ é ɖo gbɔjɛ wɛ.”",
+   "t": "Abwǔninɔ nyí maɖè ǎ. É má ɖɔ xó kpowun ǎ, có ɖo hwenu énɛ́ ɔ́ bǐ mɛ ɔ́, é ɖo acɛkpikpa lɛ́ɛ, gbe lɛ́ɛ, kpódó ali lɛ́ɛ kpó ɖyɔ́ wɛ bo na ɖó tɛnmɛ nú hwlɛngán ɔ́. Đo hwenu e abwǔ ɖè hú bǐ é ɔ́, Mawu ɖo azɔ̌ wa wɛ syɛ́n hú bǐ, kpó wǎn yíyí kpó (Galatinu 4:4)."
+  },
+  {
+   "w": "“Jezu nyí nǔkplɔnmɛtɔ́ walɔ ɖagbe tɔn ɖokpó kpowun / aklúzu ɔ́ nyí ɖuɖǎ aluwɛmɛ tɔn ɖé.”",
+   "t": "Jezu ɖɔ ɖɔ émí nyí Mawu ɖésú (Jǎan 8:58), bɔ aklúzu ɔ́ nyí nǔjɛ kpowun abǐ ɖuɖǎ ǎ, lo ɔ́ wǎn yíyí e è ko ɖó tito tɔn é wɛ. È má dɔn ɛ yi finɛ́ kpó hlɔ̌nhlɔ́n kpó ǎ; é sɔ́ gbɛ tɔn ɖésú jó (Jǎan 10:18). “Wǎn yíyí nú mɛ ɖě sɔ́ hú è sɔ́ gbɛ mɛɖée tɔn dó sá vɔ̌ dó xɔ́ntɔn mɛtɔn lɛ́ɛ tamɛ ǎ” (Jǎan 15:13)."
+  },
+  {
+   "w": "“Agun ɔ́ nyí mɛ e ma ɖó wǔ ǎ lɛ́ɛ sín hagbɛ̌, abǐ xɔ kpowun.”",
+   "t": "Agun ɔ́ nyí “mɛ́ɖɛ́ɖɛ́ e fó ɖó é” lɛ́ɛ sín gbɛ̌ta ǎ, lo ɔ́ <b>hwɛhutɔ́ e sín hwɛ è sɔ́ kɛ é</b> lɛ́ɛ tɔn wɛ. Káká mɛsɛ́dó Pɔ́lu ɖésú ylɔ́ éɖée ɖɔ “nyɛ wɛ ka nyí hwɛhutɔ́ hú hwɛhutɔ́ lɛ́ɛ bǐ” (1 Timɔtée 1:15). Agun nukɔntɔn ɔ́ lɔmɔ̌ ɖó adǎn bo gblé (Mɛsɛ́dó 6:1; 1 Kɔlɛ́ntinu 1:11). É nyí tɛn e mɛ è na nɔ́ sɔ́ éɖée su ɖè é ǎ, lo ɔ́ mɛ e nɔ́ sɛ́ wǎn yíyí e yě yí é dó é wɛ (Jǎan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Hwɛ jɔhwɛ — mɛɖé hwɛjijɔnɔ ǎ",
+   "body": "Tagba ɔ́ nyí “nǔ nyanya kpɛɖɛ́ géé wiwa” ǎ, lo ɔ́ ayixa ɔ́ sín ɖǒ wɛ. Sín Adamu jɛ ɔ́, mɛ bǐ ji ɖo hwɛ glɔ́, bo ma sixú yi Mawu gɔ́n yěɖésú ǎ.",
+   "vref": "Hlɔ̌manu 3:10-12, 23",
+   "vtext": "Gbɛtɔ́ ɖěbǔ tíin, bó nyí hwɛjijɔnɔ ɖo Mawu nukún mɛ ǎ … Đó gbɛtɔ́ lɛ́ɛ bǐ wɛ hu hwɛ bɔ susu e Mawu nɔ́ ná mɛ ɔ́, yě ɖó ɖě ɖ'é mɛ ǎ."
+  },
+  {
+   "title": "Sɛ́n ɔ́ ma sixú hwlɛ́n mì gán ǎ",
+   "body": "Sɛ́n ɔ́ nyí tablamɛ ǎ, lo ɔ́ gǎngbámɛ wɛ. Lě e a tɛ́nkpɔ́n d'eji é ɔ́, é nɔ́ ɖe lě e a ma sɔgbe gbɔn é xlɛ́ d'eji. Linlin tɔn ɔ́ wɛ nyí ɖɔ é na kplá mǐ yi Klísu gɔ́n.",
+   "vref": "Hlɔ̌manu 3:20 · Galatinu 3:24",
+   "vtext": "nǔ e sɛ́n ɔ́ wa kpowun ɔ́ wɛ nyí ɖɔ é nɔ́ bló bɔ gbɛtɔ́ lɛ́ɛ nɔ tunwun ɖɔ émí hu hwɛ … sɛ́n ɔ́ ɖo mǐ kplɔ́n wɛ káká jɛ hwenu e Klísu wá dó é"
+  },
+  {
+   "title": "Gbɔn xomɛnyínyɔ́ jí — nǔníná, é nyí agbǎzazɔ́ ǎ",
+   "body": "Hwlɛngán ɔ́ nyí ajɔ ɖó nǔ ɖagbe e a wa é wú ǎ, lo ɔ́ nǔníná vɔ̌nu nú mɛ e ma jɛxa ǎ é wɛ. Énɛ́ ɔ́ wú wɛ mɛɖé sixú sɔ́ éɖée su ǎ.",
+   "vref": "Efɛ́zinu 2:8-9",
+   "vtext": "Đó xomɛnyínyɔ́ Mawu tɔn mɛ wɛ mi mɔ hwlɛngán ɖe, gbɔn nǔ e mi ɖi é gbla mɛ … É nyí nǔ e mi wa lɛ́ɛ sín ajɔ wɛ ǎ; énɛ́ ɔ́, mɛ ɖěbǔ sixú yí go ná ǎ."
+  },
+  {
+   "title": "È sɔ́ mǐ dó húzú hwɛjijɔnɔ gbɔn nǔɖiɖi gblamɛ",
+   "body": "É nyí gbɔn Sɛ́n ɔ́ nyinyi gblamɛ ǎ, lo ɔ́ gbɔn nǔɖiɖi nú Jezu Klísu gblamɛ wɛ è sɔ́ mǐ dó húzú hwɛjijɔnɔ — è má dó hwɛjijɔ mǐɖésúnɔ tɔn nú mǐ ǎ, lo ɔ́ étɔn wɛ.",
+   "vref": "Hlɔ̌manu 5:1 · Galatinu 2:16",
+   "vtext": "ée Mawu sɔ́ mǐ dó húzú hwɛjijɔnɔ gbɔn nǔɖiɖi gbla mɛ ɔ́ … nǔ ɖi nú Klísu Jezu wɛ nɔ zɔ́n bɔ Mawu nɔ mɔ mɛ dó mɔ hwɛjijɔnɔ ná."
+  },
+  {
+   "title": "Biblu ɔ́ xlɛ́ Jezu",
+   "body": "Biblu ɔ́ nyí gbɛtɔ́ ɖaxó lɛ́ɛ sín tan abǐ mɛ-alɔ-gɔ́-do-mɛ-na sín wěma ǎ. Sín Bǐbɛ́mɛ káká wá Nǔɖexlɛ́mɛ ɔ́, wěxwɛ ɖokpó ɖokpó ɖe kúnnu nú mɛ ɖokpó — Jezu Klísu.",
+   "vref": "Jǎan 5:39 · Luki 24:27",
+   "vtext": "Mawuxó e è wlán lɛ́ɛ ɔ́, nyɛ wɛ yě ɖe kúnnu ná … nǔ e è wlǎn dó wǔtu tɔn ɖo Mawuxówéma mɛ ɔ́, é tín bǐ mɛ nú yě."
+  },
+  {
+   "title": "Axɔ́súɖuɖu Mawu tɔn — Jezu sín wɛn taji ɔ́",
+   "body": "Xó e Jezu kplɔ́n hú bǐ é. Axɔ́súɖuɖu fí e Mawu nɔ́ kpa acɛ axɔ́sú ɖɔhun é byɔ́ gbɛ̀ ɔ́ mɛ kpó Jezu kpó, bɔ é na fó hwenu e é na lɛ́ wá é. Gbɔn aklúzu kpó fínfɔ́n sín kú kpó tɔn ɔ́, Jezu nyí axɔ́sú nǔgbó ɔ́ e ɖu ɖo hwɛ, kú, kpó Satáan kpó jí é.",
+   "vref": "Maki 1:15",
+   "vtext": "Hwe ɔ́ nu ɖíe su e. Axɔ́súɖuɖu Mawu tɔn kó sɛ yá. Mi lɛ́ kɔ sín hwɛ mitɔn lɛ́ɛ gúdo, bó ɖi nǔ nú Wɛn Ɖagbe Mawu tɔn."
+  },
+  {
+   "title": "Wɛn Ɖagbe ɔ́ — é fó nǔ bǐ",
+   "body": "Axɔ́ hwɛ tɔn e nyɛ ma sixú sú ǎ é ɔ́, Jezu sú ɖó tɛn ce mɛ ɖo aklúzu jí, bɔ gbɔn fínfɔ́n sín kú gblamɛ ɔ́, é ɖu ɖo kú jí. Un nɔ́ ganjɛ “wa nǔ élɔ́” wú ǎ, lo ɔ́ “nǔ bǐ fó” wú.",
+   "vref": "Jǎan 19:30 · Hlɔ̌manu 5:8",
+   "vtext": "Nǔ bǐ fó! … ɖó hwenu e mǐ kpo ɖo hwɛhutɔ́ nyí wɛ ɔ́ wɛ Klísu kú dó ta mǐtɔn mɛ."
+  }
+ ],
+ "books": {
+  "Bǐbɛ́mɛ": "GEN",
+  "Tíntɔ́n": "EXO",
+  "Levíi ví": "LEV",
+  "Kɛ́nsísɔ́": "NUM",
+  "Sɛ́nflínmɛ": "DEU",
+  "Jozuwée": "JOS",
+  "Hwɛɖɔtɔ́": "JDG",
+  "Hwliti": "RUT",
+  "Ɛsidlási": "EZR",
+  "Nɛɛmíi": "NEH",
+  "Ɛsitɛ́ɛ": "EST",
+  "Jɔ̌bu": "JOB",
+  "Ɖɛhan": "PSA",
+  "Nǔnywɛ́xó": "PRO",
+  "Nǔnywɛ́tɔ́xó": "ECC",
+  "Hanvíví": "SNG",
+  "Ezayíi": "ISA",
+  "Jelemíi": "JER",
+  "Gbɛvíhan": "LAM",
+  "Ezekiyɛ́li": "EZK",
+  "Daniyɛ́li": "DAN",
+  "Ozée": "HOS",
+  "Jowɛ́li": "JOL",
+  "Amɔ́si": "AMO",
+  "Abudiyási": "OBA",
+  "Jonási": "JON",
+  "Micée": "MIC",
+  "Naxúmu": "NAM",
+  "Xabakúku": "HAB",
+  "Sofoníi": "ZEP",
+  "Ajée": "HAG",
+  "Zakalíi": "ZEC",
+  "Malacíi": "MAL",
+  "Matíe": "MAT",
+  "Maki": "MRK",
+  "Luki": "LUK",
+  "Jǎan": "JHN",
+  "Mɛsɛ́dó": "ACT",
+  "Hlɔ̌manu": "ROM",
+  "Galatinu": "GAL",
+  "Efɛ́zinu": "EPH",
+  "Filípunu": "PHP",
+  "Kolósinu": "COL",
+  "Titu": "TIT",
+  "Filemɔ́ɔ": "PHM",
+  "Eblée": "HEB",
+  "Jaki": "JAS",
+  "Judi": "JUD",
+  "Nǔɖexlɛ́mɛ": "REV",
+  "1 Samuwɛ́li": "1SA",
+  "2 Samuwɛ́li": "2SA",
+  "1 Axɔ́sú": "1KI",
+  "2 Axɔ́sú": "2KI",
+  "1 Tan": "1CH",
+  "2 Tan": "2CH",
+  "1 Kɔlɛ́ntinu": "1CO",
+  "2 Kɔlɛ́ntinu": "2CO",
+  "1 Tɛsalonikinu": "1TH",
+  "2 Tɛsalonikinu": "2TH",
+  "1 Timɔtée": "1TI",
+  "2 Timɔtée": "2TI",
+  "1 Piyɛ́ɛ": "1PE",
+  "2 Piyɛ́ɛ": "2PE",
+  "1 Jǎan": "1JN",
+  "2 Jǎan": "2JN",
+  "3 Jǎan": "3JN"
+ },
+ "yv": 817,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
