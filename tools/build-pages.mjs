@@ -202,6 +202,12 @@ const LANGS = [
   { code:'ban',    dir:'ltr', locale:'ban_ID' },
   { code:'shi',    dir:'ltr', locale:'shi_MA' },
   { code:'shn',    dir:'ltr', locale:'shn_MM' },
+  { code:'bs',    dir:'ltr', locale:'bs_BA' },
+  { code:'crh',    dir:'ltr', locale:'crh_UA' },
+  { code:'eo',    dir:'ltr', locale:'eo_001' },
+  { code:'kac',    dir:'ltr', locale:'kac_MM' },
+  { code:'nus',    dir:'ltr', locale:'nus_SS' },
+  { code:'pap',    dir:'ltr', locale:'pap_AW' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
