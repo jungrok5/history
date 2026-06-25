@@ -1,58 +1,61 @@
-# 보류 언어 목록 (Deferred / Held languages) — 사유 포함
+# Deferred / Held languages — with reasons
 
-> **정책 (AGENTS.md 품질 게이트: correctness > scale).** 신뢰할 **verbatim 성경 판본이 YouVersion·eBible·기타
-> 어디든 존재**하고, 저자원이라 AI 산문 번역의 충실도를 보장 못 하는 언어가 **아니라면 → 추가한다**(완역=full,
-> 신약만=partial, 다리언어=bridge, OBS 등 가능한 모드로). 그렇지 못하면 **여기에 사유와 함께 보류**한다.
-> *"불확실한 AI 번역보다 정직한 '아직'이 낫다."* 사람 원어민 번역가/판본이 확보되면 재시도.
+> **Policy (AGENTS.md quality gate: correctness > scale).** If a trustworthy **verbatim Bible exists anywhere we can fetch it**
+> (YouVersion · eBible · OBS) **and** the language is not so low-resource that AI prose can't be trusted → **add it** (full / partial /
+> bridge / OBS, whichever the source allows). Otherwise **defer here with the reason.** *A faithful "not yet" beats an unreliable AI
+> translation.* Re-attempt once a human native translator or a usable edition appears.
 >
-> 이 문서가 **보류 언어의 단일 출처**다. NOTES.md 결정로그는 여기를 가리킨다. 후보를 probe할 때마다 갱신.
+> This file is the **single source of truth for deferred languages.** NOTES.md's decisions log points here. Update it whenever a
+> candidate is probed.
 
-## 분류
-- **HELD** — verbatim 성경 소스를 어디서도 못 찾음(언어페이지/판본 없음). 소스가 확인되면 즉시 추가 가능.
-- **DEFERRED** — 소스는 있으나 **저자원**이라 산문 번역의 정확도 보장 불가(품질 게이트 탈락). 사람 원어민 필요.
-- **COVERED-BY-PARENT** — 부모/표준 언어로 충분히 커버됨(별도 판본도 거의 없음). 별도 추가 불필요.
+## Categories
+- **HELD** — no verbatim Bible source found anywhere we can fetch (no language page / no edition). Addable the moment a source appears.
+- **DEFERRED** — a source exists, but the language is too **low-resource** to trust the AI prose (failed the quality gate). Needs a human.
+- **COVERED-BY-PARENT** — adequately covered by the parent/standard language (and barely has a separate edition). No separate add needed.
 
-## 목록
+## List
 
-| code | 언어 | 분류 | 사유 | 해소 조건 |
-|------|------|------|------|-----------|
-| `knc` | Kanuri 카누리 | DEFERRED | 산문이 하우사(Hausa) 혼입 + 기도문/FAQ 문법 붕괴 — 블라인드 역번역 검증 실패 | 사람 원어민 번역가 |
-| `guq` | Aché 아체 | DEFERRED | 초저자원 — AI 산문 신뢰 불가, 한 번도 배포 안 됨 | 사람 원어민 번역가 |
-| `taq` | Tamasheq 타마셰크 | DEFERRED | NT verbatim·구조 완성이나 드래프팅 에이전트가 저자원 산문 신뢰 불가 보고. 드래프트 보존: `deferred-drafts/taq.json` | 사람 원어민 검수 |
-| `dik` | Dinka 딩카 | DEFERRED | 동일 — 산문 신뢰 불가(동사형태·성조·명사부류). `deferred-drafts/dik.json` | 사람 원어민 검수 |
-| `kbp` | Kabiyè 카비예 | DEFERRED | 동일 — 산문 중간신뢰(FAQ 변증부 응축). `deferred-drafts/kbp.json` | 사람 원어민 검수 |
-| `dzo` | Dzongkha 종카 | DEFERRED | 드래프팅 중단(API 오류) + 저자원·티베트문자라 peers와 동일 산문 리스크 | 사람 원어민 검수(재드래프트 포함) |
+| code | language | category | reason | what unblocks it |
+|------|----------|----------|--------|------------------|
+| `knc` | Kanuri | DEFERRED | prose heavily Hausa-code-mixed + grammatically broken prayer/FAQ on blind back-translation | human native translator |
+| `guq` | Aché | DEFERRED | ultra-low-resource; AI prose unreliable; never deployed | human native translator |
+| `taq` | Tamasheq | DEFERRED | NT verbatim & structure complete, but the drafting agent reported it could not certify the low-resource prose. Draft preserved: `deferred-drafts/taq.json` | human native review |
+| `dik` | Dinka | DEFERRED | same — prose not trustworthy (verb morphology, tone, noun-class). `deferred-drafts/dik.json` | human native review |
+| `kbp` | Kabiyè | DEFERRED | same — only moderate prose confidence (FAQ apologetics condensed). `deferred-drafts/kbp.json` | human native review |
+| `dzo` | Dzongkha | DEFERRED | drafting aborted (API error) + low-resource Tibetan-script, same prose risk as peers | human native review (incl. re-draft) |
+| `ltg` | Latgalian | DEFERRED | NT verbatim/theology/structure clean, but native review found a cluster of broken/coined Latgalian in high-traffic prose (`apzimūgoj`, `Pōrūš`, `Sevtinīt`, name inconsistencies). Draft preserved: `deferred-drafts/ltg.json` | human native fixes + re-review |
+| `bm` | Bambara | HELD | not on YouVersion or eBible (name-based re-check done) | a fetchable edition |
+| `lij` | Ligurian | HELD | not on YV/eBible | a fetchable edition |
+| `lim` | Limburgish | HELD | not on YV/eBible | a fetchable edition |
+| `lmo` | Lombard | HELD | not on YV/eBible | a fetchable edition |
+| `ltz` | Luxembourgish | HELD | not on YV/eBible | a fetchable edition |
+| `srd` | Sardinian | HELD | not on YV/eBible | a fetchable edition |
+| `szl` | Silesian | HELD | not on YV/eBible | a fetchable edition |
+| `vec` | Venetian | HELD | not on YV/eBible | a fetchable edition |
+| `kea` | Kabuverdianu | HELD | not on YV/eBible | a fetchable edition |
+| `tzm` | Central Atlas Tamazight | HELD | not on YV/eBible | a fetchable edition |
+| `ast` | Asturian | HELD | YV has only an 1861 **single-book** fragment — too few NT books to fill the template | a multi-book / full edition |
+| `oci` | Occitan | HELD | YV has only an 1866 single book + Proverbs — fragment | a multi-book / full edition |
+| `scn` | Sicilian | HELD | YV has only a 3-book fragment | a multi-book / full edition |
+| `fur` | Friulian | HELD | YV has only an 1860 single-book fragment | a multi-book / full edition |
+| `acm` | Mesopotamian Arabic | COVERED-BY-PARENT | covered by MSA (`ar`); essentially no separate edition | — |
+| `acq` | Taʿizzi-Adeni Arabic | COVERED-BY-PARENT | same | — |
+| `aeb` | Tunisian Arabic | COVERED-BY-PARENT | same | — |
+| `ajp` | South Levantine Arabic | COVERED-BY-PARENT | same | — |
+| `apc` | North Levantine Arabic | COVERED-BY-PARENT | same | — |
+| `ars` | Najdi Arabic | COVERED-BY-PARENT | same | — |
 
-> 보류 드래프트(`deferred-drafts/`)는 `.claude/` 아래라 **배포 제외(vercelignore)** — 신뢰 못 하는 산문을 정적으로도
-> 공개하지 않으면서 verbatim 작업을 보존한다. 사람 원어민이 산문을 검수·교정하면 `i18n/<code>.json`으로 옮겨 integrate→배포.
-| `bm` | Bambara 밤바라 | HELD | YouVersion·eBible 모두 미발견(이름 기반 재확인 완료) | fetchable 판본 소스 확인 |
-| `lij` | Ligurian 리구리아 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
-| `lim` | Limburgish 림뷔르흐 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
-| `lmo` | Lombard 롬바르드 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
-| `ltz` | Luxembourgish 룩셈부르크 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
-| `srd` | Sardinian 사르데냐 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
-| `szl` | Silesian 실레시아 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
-| `vec` | Venetian 베네토 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
-| `kea` | Kabuverdianu 카보베르데 크리올 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
-| `tzm` | Central Atlas Tamazight 타마지트 | HELD | YV·eBible 미발견 | fetchable 판본 소스 |
-| `ast` | Asturian 아스투리아 | HELD | YV에 1861년 **1권 단편**뿐 — 템플릿(신약 다권 필요) 못 채움 | 다권/완역 판본 |
-| `oci` | Occitan 오크 | HELD | YV에 1866년 1권 + 잠언만 — 단편 | 다권/완역 판본 |
-| `scn` | Sicilian 시칠리아 | HELD | YV에 3권 단편만 | 다권/완역 판본 |
-| `fur` | Friulian 프리울리 | HELD | YV에 1860년 1권 단편만 | 다권/완역 판본 |
-| `acm` | Mesopotamian Arabic | COVERED-BY-PARENT | MSA(`ar`)로 커버 — 별도 성경 판본 사실상 없음 | — |
-| `acq` | Taʿizzi-Adeni Arabic | COVERED-BY-PARENT | 〃 | — |
-| `aeb` | Tunisian Arabic | COVERED-BY-PARENT | 〃 | — |
-| `ajp` | South Levantine Arabic | COVERED-BY-PARENT | 〃 | — |
-| `apc` | North Levantine Arabic | COVERED-BY-PARENT | 〃 | — |
-| `ars` | Najdi Arabic | COVERED-BY-PARENT | 〃 | — |
+> Deferred drafts live in `deferred-drafts/` (under `.claude/`, so **excluded from deploy** via .vercelignore) — this preserves the
+> verbatim work without statically publishing prose we can't trust. When a human native speaker reviews/fixes the prose, move the pack
+> to `i18n/<code>.json` and run integrate → deploy.
 
-## 추가 진행 대상 (gate 0 확정 — 보류 아님)
-- **et (Estonian)** — partial(PKEK/YV 3257, 신약 27권). ✅ **배포 완료.**
-- **prs (Dari)** — **FULL**(TDV/YV 341, 66권). 진행 예정.
-- partial(신약 27권) 확정: **san**(산스크리트 #1875) · **ltg**(라트갈레 #3378) · **dzo**(종카 #3157) ·
-  **kbp**(카비예 #555) · **dik**(딩카 #242) · **taq**(타마셰크 #1144) · **ydd**(이디시 히브리문자 OYBC #3457).
-  → 이 중 dzo·kbp·dik·taq·san 은 **저자원**이라 verify-prose가 GT-FAIL 가능 → 원어민 검수 결과에 따라
-  BLOCKER/MAJOR면 위 표로 내려 보류한다(품질 게이트가 최종 결정).
+## In progress / added (not deferred)
+- **et (Estonian)** — partial (PKEK / YV 3257, NT 27 books; no OT edition on YV or eBible). ✅ deployed.
+- **prs (Dari)** — FULL (TDV / YV 341, 66 books). Edition 341 uses segment chapter refs (`JHN.3_1`); fetch-verse was fixed to support
+  it, so verbatim is now verifiable. Prose/structure clean per native review → integrate + deploy.
+- **san (Sanskrit)** — partial (BSI / YV 1875, NT). Verbatim clean; native review flagged 2 MED (align prose terms to BSI येशु/मसीह/परमेश्‍वर;
+  fix one prayer relative-clause). Apply fixes → deploy.
+- **ydd (Yiddish)** — partial (OYBC / YV 3457, Hebrew script). Native review in progress.
 
-> probe는 **YouVersion·eBible(우리가 fetch 가능한 소스)** 기준. HELD 언어도 다른 곳엔 성경이 있을 수 있으나,
-> verbatim으로 가져올 수 없으면 우리 규칙상 추가 불가다.
+> The probe only covers **YouVersion · eBible** (sources we can fetch verbatim). A HELD language may have a Bible elsewhere, but if we
+> can't fetch it verbatim, our rules don't allow adding it.
