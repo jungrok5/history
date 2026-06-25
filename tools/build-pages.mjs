@@ -208,6 +208,7 @@ const LANGS = [
   { code:'kac',    dir:'ltr', locale:'kac_MM' },
   { code:'nus',    dir:'ltr', locale:'nus_SS' },
   { code:'pap',    dir:'ltr', locale:'pap_AW' },
+  { code:'et',     dir:'ltr', locale:'et_EE' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
