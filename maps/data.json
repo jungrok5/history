@@ -1,0 +1,111 @@
+{
+  "ot": {
+    "places": [
+      { "id":"ur",      "lat":30.96, "lon":46.10, "ko":"우르",        "en":"Ur",            "ref":"창세기 11:31",   "today_ko":"오늘날 이라크 남부", "today_en":"southern Iraq today",        "note_ko":"하나님이 아브라함을 부르신 출발지 — 갈대아 우르.", "note_en":"Where God called Abram out — Ur of the Chaldeans." },
+      { "id":"haran",   "lat":36.87, "lon":39.03, "ko":"하란",        "en":"Haran",         "ref":"창세기 12:4",    "today_ko":"오늘날 튀르키예 남부", "today_en":"southern Türkiye today",     "note_ko":"가는 길에 머문 곳. 여기서 75세에 약속의 땅으로 떠난다.", "note_en":"A stop on the way; from here Abram set out for the promised land at 75." },
+      { "id":"shechem", "lat":32.21, "lon":35.28, "ko":"세겜",        "en":"Shechem",       "ref":"창세기 12:6-7",  "today_ko":"오늘날 나블루스", "today_en":"Nablus today",                   "note_ko":"가나안에 들어와 처음 제단을 쌓은 곳. “이 땅을 네 자손에게 주리라.”", "note_en":"First altar in Canaan: “To your offspring I will give this land.”" },
+      { "id":"hebron",  "lat":31.53, "lon":35.10, "ko":"헤브론",      "en":"Hebron",        "ref":"창세기 13:18",   "today_ko":"오늘날 헤브론", "today_en":"Hebron today",                     "note_ko":"아브라함·이삭·야곱이 묻힌 막벨라 굴이 있는 정착지.", "note_en":"Abraham’s settlement; the cave of Machpelah, burial place of the patriarchs." },
+      { "id":"egypt",   "lat":30.80, "lon":31.50, "ko":"애굽 (고센)", "en":"Egypt (Goshen)","ref":"창세기 46–47",   "today_ko":"오늘날 이집트 나일 삼각주", "today_en":"Nile Delta, Egypt today",   "note_ko":"요셉을 따라 내려간 가족이 한 민족이 되고, 이내 종살이를 한다.", "note_en":"Jacob’s family follows Joseph here, grows into a nation, then is enslaved." },
+      { "id":"sinai",   "lat":28.54, "lon":33.97, "ko":"시내산",      "en":"Mt. Sinai",     "ref":"출애굽기 19–20", "today_ko":"오늘날 시나이 반도", "today_en":"Sinai Peninsula today",       "note_ko":"출애굽 후 율법(십계명)을 받은 곳. 하나님의 백성이 빚어진다.", "note_en":"After the Exodus, Israel receives the Law here and is formed into God’s people." },
+      { "id":"jericho", "lat":31.87, "lon":35.44, "ko":"여리고",      "en":"Jericho",       "ref":"여호수아 6",     "today_ko":"오늘날 여리고", "today_en":"Jericho today",                   "note_ko":"여호수아가 약속의 땅 정복을 시작한 첫 성.", "note_en":"The first city Joshua took as conquest of the promised land began." },
+      { "id":"jerusalem","lat":31.78,"lon":35.23, "ko":"예루살렘",    "en":"Jerusalem",     "ref":"사무엘하 5; 열왕기상 6", "today_ko":"오늘날 예루살렘", "today_en":"Jerusalem today",         "note_ko":"다윗의 수도이자 솔로몬 성전의 자리 — 왕국의 중심.", "note_en":"David’s capital and the site of Solomon’s temple — the heart of the kingdom." },
+      { "id":"samaria", "lat":32.28, "lon":35.19, "ko":"사마리아",    "en":"Samaria",       "ref":"열왕기상 16:24", "today_ko":"오늘날 세바스티아", "today_en":"Sebastia today",              "note_ko":"왕국 분열 후 북이스라엘의 수도.", "note_en":"Capital of the northern kingdom of Israel after the split." },
+      { "id":"nineveh", "lat":36.36, "lon":43.15, "ko":"니느웨",      "en":"Nineveh",       "ref":"열왕기하 17",    "today_ko":"오늘날 이라크 모술", "today_en":"Mosul, Iraq today",          "note_ko":"앗수르의 수도. 북이스라엘이 여기로 끌려가 멸망한다(BC 722).", "note_en":"Assyria’s capital; the northern kingdom is exiled here and falls (722 BC)." },
+      { "id":"babylon", "lat":32.54, "lon":44.42, "ko":"바벨론",      "en":"Babylon",       "ref":"열왕기하 25; 다니엘 1", "today_ko":"오늘날 이라크 힐라", "today_en":"Hillah, Iraq today",      "note_ko":"남유다가 끌려가고 성전이 불탄 포로의 땅(BC 586).", "note_en":"Judah is exiled here and the temple is burned — the land of captivity (586 BC)." },
+      { "id":"susa",    "lat":32.19, "lon":48.26, "ko":"수산 (수사)", "en":"Susa",          "ref":"에스더 1; 느헤미야 1", "today_ko":"오늘날 이란 슈시", "today_en":"Shush, Iran today",          "note_ko":"페르시아의 도성. 에스더와 느헤미야의 무대.", "note_en":"A Persian capital — the setting of Esther and Nehemiah." },
+      { "id":"return",  "lat":31.78, "lon":35.23, "ko":"예루살렘 귀환","en":"Return to Jerusalem","ref":"에스라 1; 느헤미야 2", "today_ko":"오늘날 예루살렘", "today_en":"Jerusalem today",       "note_ko":"고레스 칙령으로 돌아와 성전과 성벽을 다시 세운다 — 그러나 왕은 아직 없다.", "note_en":"Cyrus’ decree brings them back to rebuild temple and walls — yet no king has come." }
+    ],
+    "labels": [
+      { "lat":33.2, "lon":33.0, "ko":"지중해", "en":"Mediterranean Sea", "kind":"sea" },
+      { "lat":34.6, "lon":42.5, "ko":"메소포타미아", "en":"Mesopotamia", "kind":"region" },
+      { "lat":28.8, "lon":40.0, "ko":"아라비아 광야", "en":"Arabian Desert", "kind":"region" },
+      { "lat":27.5, "lon":30.8, "ko":"애굽", "en":"Egypt", "kind":"region" }
+    ],
+    "journeys": [
+      { "key":"flow", "ko":"구속사의 흐름", "en":"The redemptive story", "color":"#e9b949",
+        "stops":["ur","haran","shechem","hebron","egypt","sinai","jericho","jerusalem","samaria","nineveh","babylon","susa","return"] }
+    ]
+  },
+
+  "jesus": {
+    "places": [
+      { "id":"bethlehem","lat":31.70,"lon":35.20, "ko":"베들레헴",  "en":"Bethlehem",  "ref":"누가복음 2:4-7",   "today_ko":"오늘날 베들레헴", "today_en":"Bethlehem today",        "note_ko":"다윗의 동네에서 약속하신 메시아가 태어나신다.", "note_en":"In the town of David, the promised Messiah is born." },
+      { "id":"nazareth","lat":32.70,"lon":35.30, "ko":"나사렛",    "en":"Nazareth",   "ref":"누가복음 2:39-40", "today_ko":"오늘날 나사렛", "today_en":"Nazareth today",            "note_ko":"예수님이 자라신 갈릴리의 작은 마을.", "note_en":"The Galilean village where Jesus grew up." },
+      { "id":"jordan",  "lat":31.84,"lon":35.55, "ko":"요단강",    "en":"Jordan River","ref":"마태복음 3:13-17", "today_ko":"오늘날 요단강 하류", "today_en":"the lower Jordan today",  "note_ko":"세례 요한에게 세례를 받으심 — 공생애의 시작.", "note_en":"Baptized by John — the start of his public ministry." },
+      { "id":"cana",    "lat":32.75,"lon":35.34, "ko":"가나",      "en":"Cana",       "ref":"요한복음 2:1-11",  "today_ko":"오늘날 케페르 칸나", "today_en":"Kafr Kanna today",        "note_ko":"물을 포도주로 — 첫 번째 표적.", "note_en":"Water into wine — the first sign." },
+      { "id":"capernaum","lat":32.88,"lon":35.575,"ko":"가버나움", "en":"Capernaum",  "ref":"마태복음 4:13",    "today_ko":"오늘날 갈릴리 호숫가", "today_en":"the Galilee lakeshore today","note_ko":"갈릴리 사역의 본부. 많은 가르침과 기적이 여기서 일어난다.", "note_en":"Base of the Galilean ministry — much teaching and many miracles happen here." },
+      { "id":"galilee", "lat":32.80,"lon":35.59, "ko":"갈릴리 바다","en":"Sea of Galilee","ref":"마가복음 4:39",  "today_ko":"오늘날 긴네렛 호수", "today_en":"Lake Kinneret today",      "note_ko":"제자들을 부르시고, 풍랑을 잔잔케 하신 호수.", "note_en":"Where he called disciples and stilled the storm." },
+      { "id":"caesarea_p","lat":33.25,"lon":35.69,"ko":"가이사랴 빌립보","en":"Caesarea Philippi","ref":"마태복음 16:13-16","today_ko":"오늘날 바니아스", "today_en":"Banias today",        "note_ko":"“주는 그리스도시요” — 베드로의 고백.", "note_en":"“You are the Christ” — Peter’s confession." },
+      { "id":"sychar",  "lat":32.21,"lon":35.28, "ko":"수가 (사마리아)","en":"Sychar (Samaria)","ref":"요한복음 4",   "today_ko":"오늘날 나블루스 부근", "today_en":"near Nablus today",     "note_ko":"우물가에서 사마리아 여인에게 “생수”를 약속하심.", "note_en":"At the well he offers “living water” to a Samaritan woman." },
+      { "id":"jericho", "lat":31.87,"lon":35.44, "ko":"여리고",    "en":"Jericho",    "ref":"누가복음 19:1-10", "today_ko":"오늘날 여리고", "today_en":"Jericho today",             "note_ko":"삭개오를 부르심 — “잃어버린 자를 찾으러 왔다.”", "note_en":"He calls Zacchaeus — “to seek and save the lost.”" },
+      { "id":"bethany", "lat":31.77,"lon":35.27, "ko":"베다니",    "en":"Bethany",    "ref":"요한복음 11",      "today_ko":"오늘날 알에이자리야", "today_en":"al-Eizariya today",       "note_ko":"죽은 나사로를 살리심 — “나는 부활이요 생명이니.”", "note_en":"He raises Lazarus — “I am the resurrection and the life.”" },
+      { "id":"jerusalem","lat":31.78,"lon":35.23,"ko":"예루살렘",  "en":"Jerusalem",  "ref":"요한복음 19–20",   "today_ko":"오늘날 예루살렘", "today_en":"Jerusalem today",          "note_ko":"십자가에서 죽으시고 사흘 만에 부활하신 곳 — 성경 전체의 절정.", "note_en":"Crucified and risen on the third day — the climax of the whole Bible." }
+    ],
+    "labels": [
+      { "lat":32.45, "lon":34.5, "ko":"지중해", "en":"Mediterranean Sea", "kind":"sea" },
+      { "lat":33.15, "lon":35.25, "ko":"갈릴리", "en":"Galilee", "kind":"region" },
+      { "lat":32.25, "lon":35.0, "ko":"사마리아", "en":"Samaria", "kind":"region" },
+      { "lat":31.55, "lon":35.0, "ko":"유대", "en":"Judea", "kind":"region" },
+      { "lat":31.4, "lon":35.47, "ko":"사해", "en":"Dead Sea", "kind":"sea" }
+    ],
+    "journeys": [
+      { "key":"life", "ko":"예수님의 행적", "en":"The path of Jesus", "color":"#facc15",
+        "stops":["bethlehem","nazareth","jordan","cana","capernaum","galilee","caesarea_p","sychar","jericho","bethany","jerusalem"] }
+    ]
+  },
+
+  "paul": {
+    "places": [
+      { "id":"antioch",  "lat":36.20,"lon":36.16, "ko":"안디옥",        "en":"Antioch",        "today_ko":"오늘날 튀르키예 안타키아", "today_en":"Antakya, Türkiye today" },
+      { "id":"seleucia", "lat":36.12,"lon":35.93, "ko":"실루기아",      "en":"Seleucia",       "today_ko":"오늘날 튀르키예", "today_en":"Türkiye today" },
+      { "id":"salamis",  "lat":35.18,"lon":33.90, "ko":"살라미 (구브로)","en":"Salamis (Cyprus)","today_ko":"오늘날 키프로스", "today_en":"Cyprus today" },
+      { "id":"paphos",   "lat":34.77,"lon":32.42, "ko":"바보",          "en":"Paphos",         "today_ko":"오늘날 키프로스", "today_en":"Cyprus today" },
+      { "id":"perga",    "lat":36.96,"lon":30.85, "ko":"버가",          "en":"Perga",          "today_ko":"오늘날 튀르키예 안탈리아", "today_en":"Antalya, Türkiye today" },
+      { "id":"pantioch", "lat":38.30,"lon":31.19, "ko":"비시디아 안디옥","en":"Pisidian Antioch","today_ko":"오늘날 튀르키예 얄바치", "today_en":"Yalvaç, Türkiye today" },
+      { "id":"iconium",  "lat":37.87,"lon":32.49, "ko":"이고니온",      "en":"Iconium",        "today_ko":"오늘날 튀르키예 코니아", "today_en":"Konya, Türkiye today" },
+      { "id":"lystra",   "lat":37.58,"lon":32.45, "ko":"루스드라",      "en":"Lystra",         "today_ko":"오늘날 튀르키예", "today_en":"Türkiye today" },
+      { "id":"derbe",    "lat":37.35,"lon":33.27, "ko":"더베",          "en":"Derbe",          "today_ko":"오늘날 튀르키예", "today_en":"Türkiye today" },
+      { "id":"troas",    "lat":39.76,"lon":26.16, "ko":"드로아",        "en":"Troas",          "today_ko":"오늘날 튀르키예", "today_en":"Türkiye today" },
+      { "id":"philippi", "lat":41.01,"lon":24.29, "ko":"빌립보",        "en":"Philippi",       "today_ko":"오늘날 그리스 북부", "today_en":"northern Greece today" },
+      { "id":"thess",    "lat":40.64,"lon":22.94, "ko":"데살로니가",    "en":"Thessalonica",   "today_ko":"오늘날 그리스 테살로니키", "today_en":"Thessaloniki, Greece today" },
+      { "id":"berea",    "lat":40.52,"lon":22.20, "ko":"베뢰아",        "en":"Berea",          "today_ko":"오늘날 그리스 베리아", "today_en":"Veria, Greece today" },
+      { "id":"athens",   "lat":37.98,"lon":23.73, "ko":"아덴",          "en":"Athens",         "today_ko":"오늘날 그리스 아테네", "today_en":"Athens, Greece today" },
+      { "id":"corinth",  "lat":37.91,"lon":22.88, "ko":"고린도",        "en":"Corinth",        "today_ko":"오늘날 그리스", "today_en":"Greece today" },
+      { "id":"ephesus",  "lat":37.94,"lon":27.34, "ko":"에베소",        "en":"Ephesus",        "today_ko":"오늘날 튀르키예 셀추크", "today_en":"Selçuk, Türkiye today" },
+      { "id":"miletus",  "lat":37.53,"lon":27.28, "ko":"밀레도",        "en":"Miletus",        "today_ko":"오늘날 튀르키예", "today_en":"Türkiye today" },
+      { "id":"caesarea", "lat":32.50,"lon":34.89, "ko":"가이사랴",      "en":"Caesarea",       "today_ko":"오늘날 이스라엘 해안", "today_en":"Israel’s coast today" },
+      { "id":"jerusalem","lat":31.78,"lon":35.23, "ko":"예루살렘",      "en":"Jerusalem",      "today_ko":"오늘날 예루살렘", "today_en":"Jerusalem today" },
+      { "id":"myra",     "lat":36.26,"lon":29.98, "ko":"무라",          "en":"Myra",           "today_ko":"오늘날 튀르키예 데므레", "today_en":"Demre, Türkiye today" },
+      { "id":"fairhaven","lat":34.91,"lon":24.78, "ko":"미항 (그레데)", "en":"Fair Havens (Crete)","today_ko":"오늘날 크레타", "today_en":"Crete today" },
+      { "id":"malta",    "lat":35.90,"lon":14.40, "ko":"멜리데 (몰타)", "en":"Malta",          "today_ko":"오늘날 몰타", "today_en":"Malta today" },
+      { "id":"syracuse", "lat":37.07,"lon":15.29, "ko":"수라구사",      "en":"Syracuse",       "today_ko":"오늘날 이탈리아 시칠리아", "today_en":"Sicily, Italy today" },
+      { "id":"puteoli",  "lat":40.82,"lon":14.12, "ko":"보디올",        "en":"Puteoli",        "today_ko":"오늘날 이탈리아 포추올리", "today_en":"Pozzuoli, Italy today" },
+      { "id":"rome",     "lat":41.89,"lon":12.49, "ko":"로마",          "en":"Rome",           "today_ko":"오늘날 이탈리아 로마", "today_en":"Rome, Italy today" }
+    ],
+    "labels": [
+      { "lat":34.5, "lon":18.5, "ko":"지중해", "en":"Mediterranean Sea", "kind":"sea" },
+      { "lat":38.6, "lon":25.0, "ko":"에게해", "en":"Aegean Sea", "kind":"sea" },
+      { "lat":39.2, "lon":32.5, "ko":"소아시아", "en":"Asia Minor", "kind":"region" },
+      { "lat":41.3, "lon":23.2, "ko":"마케도니아", "en":"Macedonia", "kind":"region" },
+      { "lat":42.0, "lon":13.5, "ko":"이탈리아", "en":"Italy", "kind":"region" }
+    ],
+    "journeys": [
+      { "key":"j1", "ko":"1차 전도여행", "en":"First journey", "color":"#46a77a", "ref":"사도행전 13–14",
+        "note_ko":"안디옥에서 보냄받아 구브로와 소아시아 남부에 처음 복음을 전한다.",
+        "note_en":"Sent from Antioch, the gospel reaches Cyprus and southern Asia Minor for the first time.",
+        "stops":["antioch","salamis","paphos","perga","pantioch","iconium","lystra","derbe","antioch"] },
+      { "key":"j2", "ko":"2차 전도여행", "en":"Second journey", "color":"#4a90d9", "ref":"사도행전 15:36–18:22",
+        "note_ko":"환상의 부름을 따라 바다를 건너 유럽(마케도니아·그리스)에 처음 복음이 들어간다.",
+        "note_en":"Following a vision, Paul crosses into Europe — the gospel first enters Macedonia and Greece.",
+        "stops":["antioch","derbe","lystra","troas","philippi","thess","berea","athens","corinth","ephesus","caesarea","antioch"] },
+      { "key":"j3", "ko":"3차 전도여행", "en":"Third journey", "color":"#9b5de5", "ref":"사도행전 18:23–21:17",
+        "note_ko":"에베소에 오래 머물며 아시아 전역에 말씀이 퍼지고, 예루살렘으로 올라간다.",
+        "note_en":"A long stay in Ephesus spreads the word across Asia; then Paul goes up to Jerusalem.",
+        "stops":["antioch","pantioch","ephesus","philippi","corinth","troas","miletus","caesarea","jerusalem"] },
+      { "key":"rome", "ko":"로마 압송", "en":"To Rome", "color":"#e0795f", "ref":"사도행전 27–28",
+        "note_ko":"죄수가 되어, 풍랑과 난파를 지나 제국의 심장 로마까지 복음을 가지고 간다.",
+        "note_en":"As a prisoner, through storm and shipwreck, Paul carries the gospel to the heart of the empire — Rome.",
+        "stops":["caesarea","myra","fairhaven","malta","syracuse","puteoli","rome"] }
+    ]
+  }
+}

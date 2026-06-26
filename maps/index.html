@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0e1118">
+<meta name="color-scheme" content="dark light">
+<title>지도로 보는 성경 · Bible by Map</title>
+<meta name="robots" content="noindex">
+<meta name="description" content="구약의 시간 흐름, 예수님의 행적, 바울의 전도여행을 실제 지도 위에 따라가 봅니다 — 성경은 실제 땅에서 일어난 이야기입니다. / Trace the Old Testament timeline, the life of Jesus, and Paul’s journeys on a real map — the Bible happened in real places.">
+<style>
+  :root{
+    --bg:#0e1118; --bg2:#141925; --ink:#f4efe6; --muted:#9aa3b2;
+    --line:rgba(255,255,255,.12); --card:rgba(255,255,255,.045);
+    --accent:#e9b949; --maxw:980px; color-scheme:dark;
+    --sea:#0f1a28; --land:#26303f; --coast:rgba(255,255,255,.16); --water:#3b5a78;
+    --serif:"Nanum Myeongjo",Georgia,"Times New Roman",serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",Roboto,sans-serif;
+  }
+  :root.sepia{
+    --bg:#efe6d3; --bg2:#e7dcc4; --ink:#2b2519; --muted:#7a6f5a;
+    --line:rgba(0,0,0,.14); --card:rgba(0,0,0,.035); --accent:#b07d23; color-scheme:light;
+    --sea:#d7e0d4; --land:#e7dabb; --coast:rgba(80,60,30,.30); --water:#7fa0b0;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html{scroll-behavior:smooth;background:var(--bg)}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);
+    line-height:1.75;-webkit-font-smoothing:antialiased;overflow-x:hidden;transition:background .4s,color .4s}
+  a{color:var(--accent)}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 20px}
+  h1,h2,h3,h4{font-family:var(--serif);font-weight:700;letter-spacing:-.01em;line-height:1.25;margin:0}
+  h2{font-size:clamp(1.45rem,3.8vw,2.1rem);margin:0 0 .2em}
+  .kicker{font-size:.74rem;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:.6em}
+  .lead{max-width:720px;color:var(--muted);margin:.2em 0 1.4em}
+  #topbar{position:sticky;top:0;z-index:110;display:flex;align-items:center;gap:8px;
+    padding:11px 16px;font-size:.8125rem;color:var(--muted);
+    background:linear-gradient(180deg,var(--bg) 70%,transparent);backdrop-filter:blur(6px)}
+  #topbar .dot{width:8px;height:8px;border-radius:50%;background:var(--accent);box-shadow:0 0 12px var(--accent)}
+  #topbar a.brand{color:var(--ink);text-decoration:none;font-weight:700}
+  #topbar .spacer{flex:1}
+  .iconbtn{pointer-events:auto;cursor:pointer;border:1px solid var(--line);background:var(--card);
+    color:var(--ink);border-radius:9px;padding:5px 9px;font-size:.8125rem;line-height:1;font-family:var(--sans)}
+  #langBtn{display:inline-flex;align-items:center;gap:5px}
+  #langPanel{position:fixed;top:50px;right:10px;z-index:200;width:180px;max-width:calc(100vw - 20px);
+    background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:8px;
+    box-shadow:0 16px 40px -12px rgba(0,0,0,.6)}
+  #langPanel[hidden]{display:none}
+  #langPanel button{display:block;width:100%;text-align:left;border:0;background:transparent;color:var(--ink);
+    padding:9px 11px;border-radius:8px;cursor:pointer;font:inherit;font-size:.9rem}
+  #langPanel button:hover,#langPanel button.on{background:var(--card)}
+  .hero{padding:58px 0 34px;text-align:center}
+  .hero h1{font-size:clamp(2rem,6.4vw,3.3rem);margin:.1em 0 .35em}
+  .hero .verse{max-width:660px;margin:16px auto 0;font-style:italic;color:var(--accent)}
+  .hero .purpose{max-width:720px;margin:20px auto 0;color:var(--muted);font-size:.99rem}
+  section{padding:50px 0;border-top:1px solid var(--line)}
+  section.alt{background:var(--bg2)}
+  /* ---- map card ---- */
+  .mapcard{margin-top:18px;border:1px solid var(--line);border-radius:18px;background:var(--card);overflow:hidden}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;padding:14px 14px 0}
+  .chip{cursor:pointer;border:1px solid var(--line);background:transparent;color:var(--muted);
+    border-radius:999px;padding:6px 13px;font:inherit;font-size:.82rem;font-weight:600;display:inline-flex;align-items:center;gap:.45em;transition:.2s}
+  .chip .sw{width:10px;height:10px;border-radius:50%;display:inline-block;background:currentColor;opacity:.85}
+  .chip.on{color:var(--ink);border-color:var(--cclr);background:color-mix(in srgb,var(--cclr) 18%,transparent)}
+  .chip.on .sw{background:var(--cclr);opacity:1}
+  .stage{position:relative;background:var(--sea)}
+  .mapsvg{display:block;width:100%;height:auto;max-height:74vh;margin:0 auto;touch-action:pan-y}
+  .mapsvg text{font-family:var(--sans);paint-order:stroke;}
+  .lbl-region{fill:var(--muted);font-style:italic;opacity:.85;text-anchor:middle}
+  .lbl-sea{fill:var(--water);font-style:italic;opacity:.9;text-anchor:middle;letter-spacing:.08em}
+  .mk{cursor:pointer}
+  .mk .ring{fill:var(--sea);stroke-width:3}
+  .mk.future .ring{opacity:.55}
+  .mk.cur .ring{animation:pulse 1.6s ease-out infinite}
+  .mk-num{fill:var(--ink);text-anchor:middle;font-weight:700;dominant-baseline:central;pointer-events:none}
+  .mk-name{text-anchor:middle;font-weight:600;font-size:18px;paint-order:stroke;stroke:var(--sea);stroke-width:5px;stroke-linejoin:round;pointer-events:none;visibility:hidden}
+  .mk.cur .mk-name{visibility:visible;font-size:21px;font-weight:700}
+  .mk:hover .mk-name{visibility:visible}
+  @keyframes pulse{0%{stroke-opacity:.9}70%{stroke-opacity:0;r:26}100%{stroke-opacity:0}}
+  .ctrls{display:flex;align-items:center;gap:10px;padding:13px 15px;border-top:1px solid var(--line);flex-wrap:wrap}
+  .ctrls button{border:1px solid var(--line);background:var(--card);color:var(--ink);width:40px;height:40px;
+    border-radius:11px;cursor:pointer;font-size:1.15rem;line-height:1;display:inline-flex;align-items:center;justify-content:center}
+  .ctrls button.play{width:auto;padding:0 16px;gap:.4em;font-size:.92rem;font-weight:700}
+  .ctrls button:disabled{opacity:.35;cursor:default}
+  .stepc{font-size:.85rem;color:var(--muted);min-width:54px;text-align:center}
+  .jname{font-family:var(--serif);font-weight:700;font-size:1.02rem}
+  .scrub{flex:1 1 120px;min-width:120px}
+  .scrub input{width:100%;accent-color:var(--accent)}
+  .info{padding:4px 16px 18px;display:flex;gap:14px;align-items:flex-start}
+  .info .inum{flex:none;width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+    font-weight:700;color:#0e1118;font-family:var(--serif);margin-top:2px}
+  .info h4{font-size:1.12rem;display:inline}
+  .info .iref{font-size:.82rem;color:var(--accent);font-weight:600;margin-left:.5em}
+  .info .inote{margin:.35em 0 .3em;font-size:.96rem;color:var(--ink);opacity:.92}
+  .info .itoday{font-size:.84rem;color:var(--muted)}
+  .info .itoday b{color:var(--ink);font-weight:600}
+  .jnote{padding:0 16px 12px;color:var(--muted);font-size:.9rem}
+  footer{padding:46px 0 70px;color:var(--muted);font-size:.86rem;text-align:center}
+  footer .links{margin-top:10px;display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+  .loading{padding:60px 20px;text-align:center;color:var(--muted)}
+</style>
+</head>
+<body class="ko">
+<div id="topbar">
+  <span class="dot"></span><a class="brand" href="/">한눈에 보는 성경 이야기</a>
+  <span class="spacer"></span>
+  <button class="iconbtn" id="langBtn" title="Language / 언어">🌐 <span id="langCur">한국어</span></button>
+  <button class="iconbtn" id="themeBtn" title="테마 전환 / Theme">🌗</button>
+</div>
+<div id="langPanel" hidden>
+  <button data-l="ko">한국어</button>
+  <button data-l="en">English</button>
+</div>
+
+<header class="hero"><div class="wrap">
+  <div class="kicker" data-t="kicker"></div>
+  <h1 data-t="title"></h1>
+  <p class="verse" data-t="verse"></p>
+  <p class="purpose" data-t="purpose"></p>
+</div></header>
+
+<section id="ot"><div class="wrap">
+  <div class="kicker" data-t="ot_kick"></div>
+  <h2 data-t="ot_h"></h2>
+  <p class="lead" data-t="ot_lead"></p>
+  <div class="mapcard" data-map="ot"></div>
+</div></section>
+
+<section id="jesus" class="alt"><div class="wrap">
+  <div class="kicker" data-t="je_kick"></div>
+  <h2 data-t="je_h"></h2>
+  <p class="lead" data-t="je_lead"></p>
+  <div class="mapcard" data-map="jesus"></div>
+</div></section>
+
+<section id="paul"><div class="wrap">
+  <div class="kicker" data-t="pa_kick"></div>
+  <h2 data-t="pa_h"></h2>
+  <p class="lead" data-t="pa_lead"></p>
+  <div class="mapcard" data-map="paul"></div>
+</div></section>
+
+<footer><div class="wrap">
+  <p data-t="foot"></p>
+  <div class="links">
+    <a href="/">← <span data-t="back"></span></a>
+    <a href="/insights/" data-t="insights"></a>
+  </div>
+</div></footer>
+
+<script>
+const T = {
+  kicker:{ko:'한눈에 보는 성경 이야기 · 지도',en:'Bible in One Scroll · Maps'},
+  title:{ko:'지도로 보는 성경',en:'Bible by Map'},
+  verse:{ko:'“때가 차매 하나님이 그 아들을 보내사 …” (갈라디아서 4:4)',
+    en:'“But when the fullness of time had come, God sent forth his Son …” (Galatians 4:4)'},
+  purpose:{ko:'성경은 신화가 아니라 실제 땅에서 일어난 이야기입니다. 세 개의 흐름을 실제 지도 위에서 시간 순서대로 따라가 보세요 — 점을 누르거나 ▶ 재생을 눌러 한 걸음씩.',
+    en:'The Bible is not myth — it happened in real places. Follow three storylines across a real map, in time order. Tap a point, or press ▶ to walk through it step by step.'},
+
+  ot_kick:{ko:'① 구약 — 시간의 흐름',en:'① Old Testament — across time'},
+  ot_h:{ko:'우르에서 시작해, 다시 예루살렘으로',en:'From Ur, and back to Jerusalem'},
+  ot_lead:{ko:'한 번의 여행이 아니라, 약 2,000년에 걸친 구속사의 흐름입니다. 부르심(우르) → 약속의 땅 → 애굽 종살이와 출애굽 → 왕국 → 포로 → 귀환.',
+    en:'Not a single trip but the flow of redemptive history over ~2,000 years: a call (Ur) → the promised land → slavery and Exodus → kingdom → exile → return.'},
+
+  je_kick:{ko:'② 신약 — 예수님의 행적',en:'② New Testament — the life of Jesus'},
+  je_h:{ko:'베들레헴에서 예루살렘까지',en:'From Bethlehem to Jerusalem'},
+  je_lead:{ko:'탄생 → 갈릴리 사역 → 사마리아를 지나 → 예루살렘의 십자가와 부활. 복음서가 증언하는 길을 순서대로 따라갑니다.',
+    en:'Birth → Galilean ministry → through Samaria → the cross and resurrection in Jerusalem — the path the Gospels record, in order.'},
+
+  pa_kick:{ko:'③ 신약 — 바울의 전도여행',en:'③ New Testament — Paul’s journeys'},
+  pa_h:{ko:'안디옥에서 땅끝, 로마까지',en:'From Antioch to the ends of the earth — Rome'},
+  pa_lead:{ko:'복음이 어떻게 유대를 넘어 소아시아·유럽을 거쳐 제국의 심장까지 퍼졌는지. 네 개의 여정을 골라 시간 순서대로 따라가 보세요.',
+    en:'How the gospel spread beyond Judea — through Asia Minor and Europe to the heart of the empire. Pick one of four journeys and follow it in order.'},
+
+  foot:{ko:'지명과 위치는 성경 본문과 표준 성서지리(가능한 경우 현대 지명 병기)를 따랐습니다. 해안선·하천·호수는 공개 지리 데이터(Natural Earth)를 단순화해 그렸습니다.',
+    en:'Places follow the biblical text and standard Bible geography (with modern names where helpful). Coastlines, rivers and lakes are drawn from open geographic data (Natural Earth), simplified.'},
+  back:{ko:'성경 이야기로 돌아가기',en:'Back to the scroll'},
+  insights:{ko:'데이터로 보는 성경 →',en:'Bible by the numbers →'},
+
+  play:{ko:'재생',en:'Play'}, pause:{ko:'일시정지',en:'Pause'},
+  today:{ko:'지금은', en:'Today:'},
+};
+
+const $=(s,r=document)=>r.querySelector(s);
+const $$=(s,r=document)=>[...r.querySelectorAll(s)];
+let L = 'ko';
+let GEO=null, DATA=null;
+const SVGNS='http://www.w3.org/2000/svg';
+const el=(n,a={})=>{const e=document.createElementNS(SVGNS,n);for(const k in a)e.setAttribute(k,a[k]);return e;};
+
+function applyText(){
+  document.documentElement.lang = L;
+  document.body.className = L;
+  $('#langCur').textContent = L==='ko'?'한국어':'English';
+  $$('[data-t]').forEach(n=>{ const v=T[n.dataset.t]; if(v) n.innerHTML=v[L]; });
+}
+
+// projection identical to the bake step
+function projector(p){
+  const {lonMin,latMax,k,s,pad}=p;
+  return (lon,lat)=>[ pad+(lon-lonMin)*k*s, pad+(latMax-lat)*s ];
+}
+
+function MapCard(root, key){
+  const geo=GEO[key], md=DATA[key];
+  const proj=projector(geo.proj);
+  const byId={}; md.places.forEach(p=>byId[p.id]=p);
+  let ji=0, step=0, timer=null, playing=false;
+
+  // ----- static scaffold -----
+  root.innerHTML='';
+  const multi = md.journeys.length>1;
+  const chips=document.createElement('div'); chips.className='chips';
+  if(multi){
+    md.journeys.forEach((j,i)=>{
+      const b=document.createElement('button'); b.className='chip'; b.style.setProperty('--cclr',j.color);
+      b.innerHTML='<span class="sw"></span><span class="jl"></span>';
+      b.querySelector('.sw').style.color=j.color;
+      b.dataset.i=i; b.addEventListener('click',()=>setJourney(i));
+      chips.appendChild(b);
+    });
+    root.appendChild(chips);
+  }
+  const jnote=document.createElement('div'); jnote.className='jnote'; root.appendChild(jnote);
+
+  const stage=document.createElement('div'); stage.className='stage';
+  const svg=el('svg',{class:'mapsvg',viewBox:`0 0 ${geo.w} ${geo.h}`,preserveAspectRatio:'xMidYMid meet',role:'img'});
+  stage.appendChild(svg); root.appendChild(stage);
+
+  // base layers
+  svg.appendChild(el('rect',{x:0,y:0,width:geo.w,height:geo.h,fill:'var(--sea)'}));
+  const gLand=el('g'); geo.land.forEach(d=>gLand.appendChild(el('path',{d,fill:'var(--land)','fill-rule':'evenodd',stroke:'var(--coast)','stroke-width':1.2})));
+  svg.appendChild(gLand);
+  const gWater=el('g');
+  (geo.lakes||[]).forEach(d=>gWater.appendChild(el('path',{d,fill:'var(--sea)',stroke:'var(--coast)','stroke-width':1})));
+  (geo.rivers||[]).forEach(d=>gWater.appendChild(el('path',{d,fill:'none',stroke:'var(--water)','stroke-width':2.4,'stroke-linejoin':'round','stroke-linecap':'round',opacity:.8})));
+  svg.appendChild(gWater);
+  // region/sea labels
+  const gLab=el('g');
+  (md.labels||[]).forEach(l=>{ const [x,y]=proj(l.lon,l.lat);
+    const t=el('text',{x,y,class:l.kind==='sea'?'lbl-sea':'lbl-region','font-size':l.kind==='sea'?22:19});
+    t.textContent=l[L]; gLab.appendChild(t); l._t=t; });
+  svg.appendChild(gLab);
+
+  const gFull=el('g'); svg.appendChild(gFull);   // faint full route
+  const progPath=el('path',{fill:'none','stroke-width':5,'stroke-linecap':'round','stroke-linejoin':'round'});
+  svg.appendChild(progPath);
+  const gMk=el('g'); svg.appendChild(gMk);       // markers + labels
+
+  // ----- controls -----
+  const ctrls=document.createElement('div'); ctrls.className='ctrls';
+  ctrls.innerHTML=
+    '<button class="prev" aria-label="prev">‹</button>'+
+    '<button class="play" aria-label="play"><span class="pic">▶</span><span class="ptx"></span></button>'+
+    '<button class="next" aria-label="next">›</button>'+
+    '<span class="stepc"></span>'+
+    '<span class="scrub"><input type="range" min="0" value="0" step="1"></span>'+
+    (multi?'':'<span class="jname"></span>');
+  root.appendChild(ctrls);
+  const info=document.createElement('div'); info.className='info';
+  info.innerHTML='<div class="inum"></div><div class="ibody"><h4></h4><span class="iref"></span><p class="inote"></p><span class="itoday"></span></div>';
+  root.appendChild(info);
+
+  const $p=s=>ctrls.querySelector(s);
+  const range=$p('.scrub input');
+  $p('.prev').addEventListener('click',()=>{pause();setStep(step-1);});
+  $p('.next').addEventListener('click',()=>{pause();setStep(step+1);});
+  $p('.play').addEventListener('click',togglePlay);
+  range.addEventListener('input',()=>{pause();setStep(+range.value);});
+
+  function curJ(){ return md.journeys[ji]; }
+  function stops(){ return curJ().stops; }
+
+  function setJourney(i){
+    pause(); ji=i; step=0;
+    if(multi) $$('.chip',chips).forEach(c=>c.classList.toggle('on',+c.dataset.i===i));
+    drawRoute(); setStep(0);
+  }
+
+  function drawRoute(){
+    const j=curJ(), st=stops();
+    const pts=st.map(id=>proj(byId[id].lon,byId[id].lat));
+    progPath.setAttribute('stroke',j.color);
+    root.style.setProperty('--cclr',j.color);
+    // faint full route
+    gFull.innerHTML='';
+    let d=pts.map((p,i)=>(i?'L':'M')+p[0]+' '+p[1]).join('');
+    gFull.appendChild(el('path',{d,fill:'none',stroke:j.color,'stroke-width':3,'stroke-dasharray':'2 9','stroke-linecap':'round',opacity:.4}));
+    // markers
+    gMk.innerHTML='';
+    const seen={};
+    st.forEach((id,i)=>{
+      const [x,y]=pts[i]; const pl=byId[id];
+      const g=el('g',{class:'mk'}); g.dataset.i=i;
+      g.appendChild(el('circle',{class:'ring',cx:x,cy:y,r:13,stroke:j.color}));
+      const num=el('text',{class:'mk-num',x,y,'font-size':16}); num.textContent=i+1; g.appendChild(num);
+      // name label: offset to reduce overlap; alternate side
+      const dyTop = i%2===0;
+      const nm=el('text',{class:'mk-name',x,y:dyTop?y-20:y+32,fill:'var(--ink)'});
+      nm.textContent=pl[L]; g.appendChild(nm);
+      g.addEventListener('click',()=>{pause();setStep(i);});
+      gMk.appendChild(g); pl._g=g;
+    });
+    if(jnote){ jnote.textContent = j['note_'+L] || ''; jnote.style.display=j['note_'+L]?'block':'none'; }
+    range.max=st.length-1;
+  }
+
+  function setStep(i){
+    const st=stops();
+    step=Math.max(0,Math.min(i,st.length-1));
+    range.value=step;
+    // markers state (use real stop index from dataset — DOM order changes when we raise current)
+    let curG=null;
+    $$('.mk',gMk).forEach(g=>{
+      const idx=+g.dataset.i;
+      g.classList.toggle('future',idx>step);
+      g.classList.toggle('cur',idx===step);
+      const ring=g.querySelector('.ring');
+      ring.setAttribute('fill', idx<=step ? curJ().color : 'var(--sea)');
+      ring.setAttribute('r', idx===step?16:13);
+      g.querySelector('.mk-num').setAttribute('fill', idx<=step?'#0e1118':'var(--ink)');
+      if(idx===step) curG=g;
+    });
+    if(curG) gMk.appendChild(curG); // raise current marker + its label to top
+
+    // progress path up to current
+    const pts=st.slice(0,step+1).map(id=>proj(byId[id].lon,byId[id].lat));
+    const d=pts.map((p,k)=>(k?'L':'M')+p[0]+' '+p[1]).join('');
+    progPath.setAttribute('d',d);
+    try{ const len=progPath.getTotalLength();
+      progPath.style.transition='none'; progPath.style.strokeDasharray=len; progPath.style.strokeDashoffset=len;
+      progPath.getBoundingClientRect();
+      progPath.style.transition='stroke-dashoffset .55s ease'; progPath.style.strokeDashoffset=0;
+    }catch(e){}
+    // info card
+    const pl=byId[st[step]];
+    const j=curJ();
+    info.querySelector('.inum').textContent=step+1;
+    info.querySelector('.inum').style.background=j.color;
+    info.querySelector('h4').textContent=pl[L];
+    info.querySelector('.iref').textContent=pl.ref||'';
+    info.querySelector('.inote').textContent=pl['note_'+L]||'';
+    const td=pl['today_'+L];
+    info.querySelector('.itoday').innerHTML= td? ('📍 <b>'+td+'</b>') : '';
+    $p('.stepc').textContent=(step+1)+' / '+st.length;
+    $p('.prev').disabled=step===0;
+    $p('.next').disabled=step===st.length-1;
+    const jn=ctrls.querySelector('.jname'); if(jn) jn.textContent=j[L];
+  }
+
+  function togglePlay(){ playing?pause():play(); }
+  function play(){
+    if(step>=stops().length-1) step=-1;
+    playing=true; $p('.play .pic').textContent='❚❚'; $p('.play .ptx').textContent=T.pause[L];
+    clearInterval(timer);
+    timer=setInterval(()=>{
+      if(step>=stops().length-1){ pause(); return; }
+      setStep(step+1);
+    },1900);
+    setStep(step+1);
+  }
+  function pause(){ playing=false; clearInterval(timer); $p('.play .pic').textContent='▶'; $p('.play .ptx').textContent=T.play[L]; }
+
+  // relabel on language change
+  root._relabel=()=>{
+    (md.labels||[]).forEach(l=>{ if(l._t) l._t.textContent=l[L]; });
+    drawRoute(); setStep(step);
+    if(multi) $$('.chip .jl',chips).forEach((s,i)=>s.textContent=md.journeys[i][L]);
+  };
+
+  // init
+  if(multi) $$('.chip .jl',chips).forEach((s,i)=>s.textContent=md.journeys[i][L]);
+  setJourney(0);
+  return root;
+}
+
+const cards=[];
+function buildAll(){
+  cards.length=0;
+  $$('.mapcard').forEach(c=>cards.push(MapCard(c,c.dataset.map)));
+}
+function relabelAll(){ cards.forEach(c=>c._relabel&&c._relabel()); }
+
+// ---- theme (shared with main site) ----
+if(localStorage.getItem('bibleTheme')==='sepia') document.documentElement.classList.add('sepia');
+$('#themeBtn').addEventListener('click',()=>{
+  document.documentElement.classList.toggle('sepia');
+  const sp=document.documentElement.classList.contains('sepia');
+  localStorage.setItem('bibleTheme',sp?'sepia':'dark');
+  document.querySelector('meta[name=theme-color]').setAttribute('content',sp?'#efe6d3':'#0e1118');
+});
+// ---- language ----
+const lp=$('#langPanel');
+$('#langBtn').addEventListener('click',e=>{e.stopPropagation();lp.hidden=!lp.hidden;});
+document.addEventListener('click',()=>{lp.hidden=true;});
+lp.addEventListener('click',e=>e.stopPropagation());
+$$('#langPanel button').forEach(b=>b.addEventListener('click',()=>{
+  L=b.dataset.l; try{localStorage.setItem('lang',L);}catch(e){} lp.hidden=true;
+  applyText(); relabelAll();
+}));
+try{ const sv=localStorage.getItem('lang'); if(sv==='ko'||sv==='en') L=sv; else if((navigator.language||'').toLowerCase().startsWith('en')) L='en'; }catch(e){}
+
+applyText();
+Promise.all([
+  fetch('geo.json').then(r=>r.json()),
+  fetch('data.json').then(r=>r.json())
+]).then(([g,d])=>{ GEO=g; DATA=d; buildAll(); })
+  .catch(e=>{ $$('.mapcard').forEach(c=>c.innerHTML='<div class="loading">지도를 불러오지 못했습니다. / Could not load maps.</div>'); console.error(e); });
+</script>
+</body>
+</html>
