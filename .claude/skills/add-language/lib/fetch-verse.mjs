@@ -11,6 +11,7 @@
 //  - 오디오 전용 버전(본문에 "available in audio format")은 본문이 없으므로 MISSING.
 //  - 디버그: FORCE_CHAPTER=1 면 (2)만 사용(파서 검증용).
 import { execFileSync } from 'child_process';
+import fs from 'fs';
 
 const yv = process.argv[2];
 const refs = (process.argv[3] || '').split(',').map(s => s.trim()).filter(Boolean);
@@ -18,6 +19,8 @@ if (!yv || !refs.length) { console.error('usage: node fetch-verse.mjs <src> <USF
 const FORCE_CHAPTER = process.env.FORCE_CHAPTER === '1';
 const EBIBLE = yv.startsWith('ebible:') ? yv.slice(7) : null;   // 비-YouVersion 소스: eBible.org
 const OBS = yv.startsWith('obs:') ? yv.slice(4) : null;         // 무-성경 소스: Open Bible Stories(door43)
+const APIB = yv.startsWith('apibible:') ? yv.slice(9) : null;   // API.Bible(scripture.api.bible) bibleId. 키: env APIBIBLE_KEY 또는 /tmp/apibible_key (절대 커밋 금지)
+const APIB_KEY = process.env.APIBIBLE_KEY || (() => { try { return fs.readFileSync('/tmp/apibible_key', 'utf8').trim(); } catch { return ''; } })();
 //   OBS ref 포맷: "<스토리>/<프레임>" 예) 1/1, 12/9, 또는 "<스토리>/title", "<스토리>/reference"
 
 function curlText(url) {
@@ -225,10 +228,30 @@ function obsFrame(ref) {
   return '';
 }
 
+// ---- (4) API.Bible(scripture.api.bible) 소스: REST /v1/bibles/<id>/verses/<usfm> (text) ----
+//  헤더 api-key 필요. 없는 절은 404 → 건너뜀. 범위는 parseRef 가 단일 절 목록으로 펼친 뒤 절별로 조회.
+function apibibleVerse(usfm) {
+  const url = `https://rest.api.bible/v1/bibles/${APIB}/verses/${usfm}?content-type=text&include-notes=false&include-titles=false&include-verse-numbers=false&include-chapter-numbers=false&include-verse-spans=false`;
+  for (let i = 0; i < 3; i++) {
+    try {
+      const out = execFileSync('curl', ['-s', '-A', 'Mozilla/5.0', '--max-time', '30', '-H', `api-key: ${APIB_KEY}`, url], { maxBuffer: 64 * 1024 * 1024, encoding: 'utf8' });
+      const j = JSON.parse(out);
+      return (j.data && typeof j.data.content === 'string') ? j.data.content.replace(/\s+/g, ' ').trim() : '';
+    } catch (e) { if (i === 2) return ''; }
+  }
+  return '';
+}
+function apibibleMethod(ref) {
+  if (!APIB_KEY) { process.stderr.write('✗ APIBIBLE_KEY 없음 (env 또는 /tmp/apibible_key)\n'); return ''; }
+  const pr = parseRef(ref); if (!pr) return '';
+  return pr.list.map(u => apibibleVerse(u)).filter(Boolean).join(' ').replace(/\s+/g, ' ').trim();
+}
+
 for (const r of refs) {
   let text;
   if (OBS) text = obsFrame(r);
   else if (EBIBLE) text = ebibleMethod(r);
+  else if (APIB) text = apibibleMethod(r);
   else { text = newMethod(r); if (!text && !FORCE_CHAPTER) text = oldMethod(r); }
   console.log(`${r}\t${text || 'MISSING'}`);
 }

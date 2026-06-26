@@ -287,6 +287,17 @@ For a language with no usable YouVersion edition, check **eBible.org** (~1,500 r
   is in **Latin** (duplicates `az`, wrong for Arabic-script Iranian readers), not what the name implies. Fetch a verse and look.
 - First eBible language = **bo (Tibetan, `bodn`)**.
 
+## API.Bible source (scripture.api.bible — languages on neither YV nor eBible)
+American Bible Society's API.Bible. **Free key required** (env `APIBIBLE_KEY` or `/tmp/apibible_key` — **never commit the key**).
+- Free tier = ~240 bibles / ~140 languages accessible (mostly public-domain + a default set; you can add up to 3 more in the dashboard).
+  List what your key can see: `curl -s -H "api-key: $KEY" https://rest.api.bible/v1/bibles` → each entry has `id` (bibleId) + `language.id` (639-3).
+- Gate 0 / fetch / verify use the token **`apibible:<bibleId>`** wherever a YouVersion number would go:
+  `node lib/fetch-verse.mjs apibible:494329fa9b8f2892-01 JHN.3.16,GEN.1.1` (404 on a verse → that book absent → NT-only/partial).
+- **★ Verse-link caveat**: API.Bible has no clean public reader URL, so `verseUrl` can't link these (like OBS). Either add an
+  `apibible:` branch to `verseUrl` returning `null` (refs render as plain text) or only use it when link-less refs are acceptable.
+- Coverage note (probed): the free default set does **not** include the colloquial-Arabic dialects or Wu; its genuinely-new viable
+  languages are mainly **Romani** varieties (rmy Vlax `494329fa9b8f2892-01`, rmn Balkan, rmc Carpathian — all NT-only) + many ultra-low-resource langs (which usually fail the prose gate).
+
 ## Bridge mode (languages with NO Scripture in any text source)
 When a language has no Bible anywhere fetchable (not YouVersion, not eBible, not OBS) but its speakers read a nearby
 **bridge language** (national/regional) that we already support:
