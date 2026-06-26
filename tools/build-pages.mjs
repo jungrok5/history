@@ -657,7 +657,9 @@ const urls = LANGS.map(L => {
   const loc = L.code==='ko' ? `${ORIGIN}/` : `${ORIGIN}/${L.code}/`;
   return `  <url><loc>${loc}</loc><lastmod>${today}</lastmod><changefreq>monthly</changefreq><priority>${L.code==='ko'?'1.0':'0.8'}</priority></url>`;
 }).join('\n');
-fs.writeFileSync(`${root}/sitemap.xml`, `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`);
+// 부가 페이지(언어 페이지가 아닌 정적 하위 페이지) — insights
+const extra = `  <url><loc>${ORIGIN}/insights/</loc><lastmod>${today}</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>`;
+fs.writeFileSync(`${root}/sitemap.xml`, `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n${extra}\n</urlset>\n`);
 
 // ---- llms.txt (LLM/AI 엔진용 사이트 요약) ----
 const llms = `# Bible in One Scroll — 한눈에 보는 성경 이야기

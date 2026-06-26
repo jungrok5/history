@@ -6,7 +6,6 @@
 <meta name="theme-color" content="#0e1118">
 <meta name="color-scheme" content="dark light">
 <title>모든 민족과 방언에게 · To Every Tribe and Tongue</title>
-<meta name="robots" content="noindex">
 <meta name="description" content="한눈에 보는 성경 이야기를 여러 언어로 옮기며 마주한 진귀한 사실들 — 복음이 모든 방언에 닿는 길. / Rare facts gathered while carrying one gospel story into many tongues.">
 <style>
   :root{
@@ -14,6 +13,7 @@
     --line:rgba(255,255,255,.12); --card:rgba(255,255,255,.045);
     --accent:#e9b949; --maxw:980px; color-scheme:dark;
     --full:#46a77a; --partial:#e9b949; --bridge:#cf8350; --obs:#9b7ad6; --warn:#e0795f;
+    --ocean-a:#1a2f43; --ocean-b:#0a1018; --land:#2c4a40; --land-line:rgba(255,255,255,.15);
     --serif:"Nanum Myeongjo",Georgia,"Times New Roman",serif;
     --sans:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",Roboto,sans-serif;
   }
@@ -21,6 +21,7 @@
     --bg:#efe6d3; --bg2:#e7dcc4; --ink:#2b2519; --muted:#7a6f5a;
     --line:rgba(0,0,0,.14); --card:rgba(0,0,0,.035); --accent:#b07d23; color-scheme:light;
     --full:#3f7d5c; --partial:#b07d23; --bridge:#a8643a; --obs:#7a5db0; --warn:#b65b4a;
+    --ocean-a:#dccfb0; --ocean-b:#c6b78e; --land:#b3a279; --land-line:rgba(0,0,0,.18);
   }
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
   html{scroll-behavior:smooth;background:var(--bg)}
@@ -119,8 +120,11 @@
   .globe-wrap{display:flex;justify-content:center;margin:4px 0 6px}
   #globe{width:100%;max-width:520px;height:auto;display:block;touch-action:none;cursor:grab}
   #globe:active{cursor:grabbing}
-  #globe .pt{transition:none}
-  .globe-hint{text-align:center;font-size:.78rem;color:var(--muted);margin-top:2px}
+  .globe-info{display:flex;align-items:center;justify-content:center;gap:10px;max-width:520px;margin:10px auto 0;
+    background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-size:.9rem}
+  .globe-info[hidden]{display:none}
+  .globe-info button{border:0;background:transparent;color:var(--muted);font-size:1.05rem;cursor:pointer;line-height:1;padding:0 2px}
+  .globe-hint{text-align:center;font-size:.78rem;color:var(--muted);margin-top:8px}
   /* invitation */
   .invite{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px;margin-top:18px}
   .invite .c{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px}
@@ -216,6 +220,7 @@
     <span><i class="sw" style="background:var(--bridge)"></i><span data-t="m_bridge"></span></span>
     <span><i class="sw" style="background:var(--obs)"></i><span data-t="m_obs"></span></span>
   </div>
+  <div class="globe-info" id="globeInfo" hidden></div>
   <p class="globe-hint" data-t="e_hint"></p>
 </div></section>
 
@@ -260,6 +265,8 @@
   <div class="src" id="sources"></div>
 </div></footer>
 
+<script src="./d3-array.min.js"></script>
+<script src="./d3-geo.min.js"></script>
 <script>
 const T = {
   kicker:{ko:'한눈에 보는 성경 이야기 · 데이터',en:'Bible in One Scroll · Data'},
@@ -299,7 +306,7 @@ const T = {
   e_h:{ko:'한 점이 한 언어 — 지구 위에서',en:'One point, one language — on the earth'},
   e_lead:{ko:'옮겨진 언어를 화자가 가장 많이 사는 곳에 점으로 찍었습니다. 크기는 모어 화자 수, 색은 옮긴 방식입니다. 끌어서 돌려 보세요.',
     en:'Each carried language is a point where most of its speakers live. Size is mother-tongue speakers; color is how it was carried. Drag to spin.'},
-  e_hint:{ko:'자동으로 회전합니다 · 끌어서 돌리고, 점에 올리면 언어 이름이 보입니다',en:'Spins on its own · drag to rotate, hover a point for the language'},
+  e_hint:{ko:'자동으로 회전합니다 · 끌어서 돌리고, 점을 탭하면 언어가 보입니다',en:'Spins on its own · drag to rotate, tap a point to see the language'},
   g_kick:{ko:'⑤ 복음이 닿은 땅',en:'⑤ Where the gospel has reached'},
   g_h:{ko:'땅끝까지 — 대륙별로',en:'To the ends of the earth — by continent'},
   g_lead:{ko:'옮겨진 언어를 화자가 가장 많이 사는 대륙으로 묶어 봤습니다. 막대는 그 대륙에서 모어로 가 닿는 사람 수입니다.',
@@ -489,37 +496,58 @@ function renderMap(){
   }
   tm(data,0,0,W,H);
 }
-/* orthographic rotating globe — vanilla SVG, no dependencies (CSP-safe) */
-let gRot=0, gTilt=18, gDrag=null, gPaused=false, gTimer=null;
+/* orthographic globe with real continents — d3-geo (vendored, CSP-safe) */
+let gRot=0, gTilt=14, gPaused=false, gTimer=null, LAND=null, gPts=[], gSel=null;
+const REGIONPOS=[
+  {ll:[95,46],ko:'아시아',en:'Asia'}, {ll:[20,3],ko:'아프리카',en:'Africa'},
+  {ll:[16,52],ko:'유럽',en:'Europe'}, {ll:[-100,44],ko:'북아메리카',en:'N. America'},
+  {ll:[-60,-12],ko:'남아메리카',en:'S. America'}, {ll:[134,-25],ko:'오세아니아',en:'Oceania'},
+];
 function renderGlobe(){
-  const svg=$('#globe'); if(!svg||!D) return;
-  const R=250, cx=280, cy=280;
+  const svg=$('#globe'); if(!svg||!D||!window.d3||!d3.geoOrthographic) return;
+  const proj=d3.geoOrthographic().translate([280,280]).scale(250).rotate([gRot,-gTilt]).clipAngle(90);
+  const path=d3.geoPath(proj), center=proj.invert([280,280]);
   const col={full:'var(--full)',partial:'var(--partial)',bridge:'var(--bridge)',obs:'var(--obs)'};
-  const rad=gTilt*Math.PI/180, sinP0=Math.sin(rad), cosP0=Math.cos(rad);
-  const pr=(lat,lng)=>{ const f=lat*Math.PI/180, l=(lng+gRot)*Math.PI/180;
-    const cosc=sinP0*Math.sin(f)+cosP0*Math.cos(f)*Math.cos(l);
-    return {x:cx+R*Math.cos(f)*Math.sin(l), y:cy-R*(cosP0*Math.sin(f)-sinP0*Math.cos(f)*Math.cos(l)), c:cosc}; };
-  let s='<defs><radialGradient id="ocean" cx="38%" cy="32%" r="78%">'
-    +'<stop offset="0%" stop-color="var(--card)"/><stop offset="65%" stop-color="var(--bg2)"/><stop offset="100%" stop-color="var(--bg)"/></radialGradient></defs>';
-  s+=`<circle cx="${cx}" cy="${cy}" r="${R}" fill="url(#ocean)" stroke="var(--line)" stroke-width="1"/>`;
-  const grat=[];
-  for(let lng=-180;lng<180;lng+=30){let seg=[];for(let lat=-90;lat<=90;lat+=4){const p=pr(lat,lng);if(p.c>0)seg.push(p.x.toFixed(1)+','+p.y.toFixed(1));else{if(seg.length>1)grat.push(seg);seg=[];}}if(seg.length>1)grat.push(seg);}
-  for(let lat=-60;lat<=60;lat+=30){let seg=[];for(let lng=-180;lng<=180;lng+=4){const p=pr(lat,lng);if(p.c>0)seg.push(p.x.toFixed(1)+','+p.y.toFixed(1));else{if(seg.length>1)grat.push(seg);seg=[];}}if(seg.length>1)grat.push(seg);}
-  for(const seg of grat) s+=`<polyline points="${seg.join(' ')}" fill="none" stroke="var(--line)" stroke-width="0.6" opacity="0.5"/>`;
-  const maxpop=Math.max(...D.languages.map(l=>l.pop))||1;
-  const pts=D.languages.filter(l=>l.lat!=null&&l.pop>0).map(l=>({l,p:pr(l.lat,l.lng)})).filter(o=>o.p.c>0).sort((a,b)=>a.p.c-b.p.c);
-  for(const {l,p} of pts){ const r=Math.max(1.7,Math.min(9,Math.sqrt(l.pop)/Math.sqrt(maxpop)*9));
-    s+=`<circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="${r.toFixed(1)}" fill="${col[l.mode]||'var(--bridge)'}" fill-opacity="${(0.5+0.5*p.c).toFixed(2)}" stroke="rgba(0,0,0,.3)" stroke-width="0.5"><title>${esc(l.native)} (${esc(l.en)}) · ${human(l.pop)}</title></circle>`; }
+  let s='<defs><radialGradient id="ocean" cx="36%" cy="30%" r="82%">'
+    +'<stop offset="0%" stop-color="var(--ocean-a)"/><stop offset="100%" stop-color="var(--ocean-b)"/></radialGradient></defs>';
+  s+=`<path d="${path({type:'Sphere'})}" fill="url(#ocean)" stroke="var(--line)" stroke-width="1"/>`;
+  if(LAND) s+=`<path d="${path(LAND)}" fill="var(--land)" stroke="var(--land-line)" stroke-width="0.4"/>`;
+  s+=`<path d="${path(d3.geoGraticule10())}" fill="none" stroke="var(--line)" stroke-width="0.5" opacity="0.35"/>`;
+  for(const r of REGIONPOS){ if(d3.geoDistance(r.ll,center)<1.25){ const p=proj(r.ll);
+    s+=`<text x="${p[0].toFixed(1)}" y="${p[1].toFixed(1)}" text-anchor="middle" font-size="11.5" font-weight="700" fill="var(--ink)" opacity="0.62" style="paint-order:stroke;stroke:var(--ocean-b);stroke-width:3px;pointer-events:none">${r[L]}</text>`; } }
+  gPts=[]; const maxpop=Math.max(...D.languages.map(l=>l.pop))||1;
+  const arr=D.languages.filter(l=>l.lat!=null&&l.pop>0).map(l=>({l,d:d3.geoDistance([l.lng,l.lat],center)})).filter(o=>o.d<Math.PI/2).sort((a,b)=>b.d-a.d);
+  for(const {l,d} of arr){ const p=proj([l.lng,l.lat]); const r=Math.max(1.9,Math.min(9.5,Math.sqrt(l.pop)/Math.sqrt(maxpop)*9.5));
+    gPts.push({l,x:p[0],y:p[1],r}); const sel=gSel===l.code;
+    s+=`<circle cx="${p[0].toFixed(1)}" cy="${p[1].toFixed(1)}" r="${(sel?r+1.5:r).toFixed(1)}" fill="${col[l.mode]||'var(--bridge)'}" fill-opacity="${(0.62+0.38*(1-d/(Math.PI/2))).toFixed(2)}" stroke="${sel?'var(--ink)':'rgba(255,255,255,.6)'}" stroke-width="${sel?'2':'0.6'}"><title>${esc(l.native)} (${esc(l.en)}) · ${human(l.pop)}</title></circle>`; }
   svg.innerHTML=s;
+}
+function pickAt(cx,cy){
+  const svg=$('#globe'), rect=svg.getBoundingClientRect();
+  const sx=(cx-rect.left)/rect.width*560, sy=(cy-rect.top)/rect.height*560;
+  let best=null,bd=1e9; for(const pt of gPts){ const dd=(pt.x-sx)**2+(pt.y-sy)**2; if(dd<bd){bd=dd;best=pt;} }
+  return (best && bd < Math.pow(Math.max(24,best.r+12),2)) ? best.l : null;
+}
+function selectLang(l){
+  const info=$('#globeInfo');
+  if(l){ gSel=l.code; gPaused=true;
+    const ml={full:T.m_full,partial:T.m_partial,bridge:T.m_bridge,obs:T.m_obs}[l.mode];
+    info.innerHTML=`<span><b>${esc(l.native)}</b> · ${esc(l.en)} · ${human(l.pop)} · <span style="color:var(--accent)">${ml?ml[L]:l.mode}</span></span><button id="giClose" aria-label="close">✕</button>`;
+    info.hidden=false; $('#giClose').onclick=ev=>{ev.stopPropagation(); selectLang(null);};
+  } else { gSel=null; info.hidden=true; gPaused=false; }
+  renderGlobe();
 }
 function startGlobe(){
   const svg=$('#globe'); if(!svg) return;
-  clearInterval(gTimer); gTimer=setInterval(()=>{ if(!gPaused){ gRot=(gRot+0.32)%360; renderGlobe(); } },40);
-  svg.onpointerenter=()=>gPaused=true;
-  svg.onpointerleave=()=>{gPaused=false;gDrag=null;};
-  svg.onpointerdown=e=>{gDrag={x:e.clientX,y:e.clientY,rot:gRot,tilt:gTilt};};
-  svg.onpointermove=e=>{ if(!gDrag)return; gRot=gDrag.rot+(e.clientX-gDrag.x)*0.4; gTilt=Math.max(-55,Math.min(75,gDrag.tilt+(e.clientY-gDrag.y)*0.3)); renderGlobe(); };
-  svg.onpointerup=()=>{gDrag=null;};
+  clearInterval(gTimer); gTimer=setInterval(()=>{ if(!gPaused){ gRot=(gRot+0.3)%360; renderGlobe(); } },45);
+  const hover=window.matchMedia&&window.matchMedia('(hover:hover)').matches;
+  let st=null;
+  svg.onpointerdown=e=>{ st={x:e.clientX,y:e.clientY,rot:gRot,tilt:gTilt,moved:0}; try{svg.setPointerCapture(e.pointerId);}catch(_){} };
+  svg.onpointermove=e=>{ if(!st)return; const dx=e.clientX-st.x, dy=e.clientY-st.y; st.moved=Math.max(st.moved,Math.abs(dx)+Math.abs(dy));
+    if(st.moved>6){ gPaused=true; gRot=st.rot+dx*0.4; gTilt=Math.max(-80,Math.min(80,st.tilt-dy*0.3)); renderGlobe(); } };
+  svg.onpointerup=e=>{ if(!st)return; const tap=st.moved<=6; const mv=st.moved; st=null;
+    if(tap){ selectLang(pickAt(e.clientX,e.clientY)); } else if(!gSel){ gPaused=false; } };
+  if(hover){ svg.onpointerenter=()=>{ if(!gSel) gPaused=true; }; svg.onpointerleave=()=>{ if(!gSel) gPaused=false; st=null; }; }
   renderGlobe();
 }
 function renderSources(){
@@ -550,6 +578,7 @@ addEventListener('resize',()=>{ if(D) renderMap(); });
 
 /* initial language: saved → browser → ko */
 try{ const sv=localStorage.getItem('lang'); if(sv==='ko'||sv==='en') L=sv; else if((navigator.language||'').toLowerCase().startsWith('en')) L='en'; }catch(e){}
+fetch('./land-110m.json').then(r=>r.json()).then(g=>{ LAND=g; if(D) renderGlobe(); }).catch(()=>{});
 fetch('./data.json?v=2',{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d; renderAll(); buildFacts(); startGlobe();})
   .catch(()=>{ applyText(); $('#factStage').innerHTML='<p class="sub">data.json load failed.</p>'; });
 </script>
