@@ -1,0 +1,382 @@
+{
+ "menuName": "Kikongo ya Leta",
+ "htmlLang": "ktu",
+ "dir": "ltr",
+ "brand": "Biblia na luvunduku mosi",
+ "docTitle": "Biblia na luvunduku mosi · Tuka lugangu tii na dibundu",
+ "share": {
+  "title": "Biblia na luvunduku mosi",
+  "text": "Na luvunduku mosi kaka, zaba disolo ya nene ya Biblia — ye sambu na nki Yesu kwizaka."
+ },
+ "ui": {
+  "people": "Bantu",
+  "events": "Mambu ya mfunu",
+  "christLabel": "Yo ke songa Yesu",
+  "loveLabel": "Zola ya ke yambula ve",
+  "mythWrong": "Mabanzi ya mbi ya bantu mingi",
+  "mythRight": "Na kieleka",
+  "more": "Tanga diaka",
+  "version": "(NTK50)"
+ },
+ "labels": {
+  "start": "Lugangu",
+  "thread": "Disolo",
+  "gospel": "Nsamu mbote",
+  "about": "Sambu na yo"
+ },
+ "s": {
+  "ui.share": "↗ Kabula",
+  "ui.toast": "Sila bakidi 📋",
+  "ui.footer": "Biblia na luvunduku mosi · Bandinga ya Biblia katukidi na NTK50",
+  "hero.kicker": "TUKA LUGANGU TII NA DIBUNDU",
+  "hero.title": "Biblia,<br><span class='em'>na luvunduku mosi</span>",
+  "hero.sub": "Na luvunduku mosi kaka, zaba disolo ya nene ya Biblia — ye sambu na nki Yesu kwizaka.",
+  "hero.cue": "Kulumuka na nsi<span>↓</span>",
+  "thread.eyebrow": "DIAMBU MOSI YA KE KANGISA YO YONSO",
+  "thread.h2": "Na nsuka, Biblia ikele disolo mosi kaka",
+  "thread.flow": "<b>Lusilu</b><span class='arw'>→</span><b>Kuvingila</b><span class='arw'>→</span><b>Kulungana</b>",
+  "thread.note": "Nzambi <b>ke sila</b> (kuwakana), bantu <b>ke vingila</b> bilumbu mingi, ye na nsuka yonso <b>ke lungana</b> na Yesu. Landa bisolo 13 yai na nzila yai — bula <b>«Tanga diaka»</b> na konso karte sambu na kumona disolo ya nda.",
+  "gospel.eyebrow": "MAMBU YAI KE TENDULA NKI SAMBU NA «MONO»",
+  "gospel.h2": "Ntima ya kieleka ya Biblia",
+  "gospel.lead": "Biblia <b>ikele ve buku ya kulonga «vanda muntu ya mbote.»</b>",
+  "gospel.sublead": "Yo ikele disolo ya mutindu Nzambi, <b>na nlemvo mpamba</b>, gulusaka bankwa masumu ya vandaka kukuka ve na kuditangula bau mosi. Na ntima ya yo Yesu Klisto ke telama.",
+  "gospel.mirror": "<h3>Nzunga ya kukonda nsuka ya Isalele ikele kibeni kifwani ya «mono»</h3><div class='cycle'><b>Kusambila biteki</b><span class='a'>→</span><b>Mpasi</b><span class='a'>→</span><b>Kuboka sambu na lusadisu</b><span class='a'>→</span><b>Nzambi ke gulusa</b><span class='a'>→</span><b>Kusambila biteki diaka…</b></div><p>Tuka basambisi tii na kunata na nsi ya bampaka, Isalele ke vutukila nzunga yai mbala na mbala. Biblia sonikaka yo ve sambu beto seka, «Mawa na bau!»</p><p>Yo ikele <b>talatala</b>. Mabanzi ikele ve «Isalele salaka mpila yina,» kansi <b>«mono mpe ke sala mutindu mosi»</b> (1 Korinto 10:11).</p><p><b>Kiteki</b> ikele ve kaka kifwani ya kibakidi. Yo ikele <b>konso kima ya beto ke zola to ke tula ntima na yo kuluta Nzambi</b> — mbongo, lukumu, lutondo, bantu, ata mono kibeni. Ye kusadila Nzambi <b>bonso kisalulu sambu na kubaka mambu ya mono ke zola</b> kele mpe kusambila biteki.</p><p class='punch'>Na nsuka, kiteki ya nda kuluta ikele «mono kibeni, ya kuvanda na kiti ya kimfumu ya Nzambi.»</p>",
+  "gospel.coreIntro": "Ebuna, mutindu nki Nzambi ke gulusa nkwa masumu ya mpila yai? Yai ikele ntima ya nsamu mbote ya Biblia ke samuna.",
+  "gospel.crux": "<p class='crux-lead'>Biblia ya mvimba ke songa kisika mosi kaka.</p><p>Muntu vandaka kukuka ve na kubukuna nzunga ya masumu yandi mosi, ye muntu mosi ya lunungu vandaka ve. Yo yina muntu fwana <b>kufuta ntalu na kisika na bau</b>.</p><p>Yesu kwizaka kaka ve sambu na kupesa malongi ya mbote. Sambu nzila ya nkaka ya kugulusa mono vandaka ve, <b>yandi vandaka na nzila ya nkaka ve, kaka kukwiza.</b></p><p class='crux-punch'>Yina ya fwanaka kubandama na nti yina, vandaka <b>mono</b>.<br>Yesu nataka <b>masumu ya mono</b> ye bo bandaka yandi pana na kisika na mono.</p><div class='crux-verse'>«Yandi kibeni nataka masumu ya beto, mu nitu ya yandi va nti, buna bu beto imene kufwa kwa masumu ya beto, beto lenda kuvanda na moyo ku lunungu, sambu na kubula ya yandi beto imene kubelulwa.» — 1 Petelo 2:24</div>",
+  "faq.h": "Kima mosi ke yangisa nge ntima ntangu yai?",
+  "faq.q1": "<span class='arr'>▸</span> Ebuna, mubomi yina ke kwikila kaka ke kota na zulu, ntangu muntu ya mbote ya luzingu na yandi ya mvimba ya ke kwikila ve ke kwenda na bilungi?",
+  "faq.a1": "<p>Yai ikele kyuvu ya mbote. Kansi mabanzi mibale ya mbi ikele na kati na yo.</p><p><b>① Biblia ke kabula bantu ve na «bantu ya mbote ye bantu ya mbi.»</b> Lutangu ikele ve «mbote kuluta mfinangani na nge,» kansi «bunlongo ya kukuka ya Nzambi.» Na meso na yandi, muntu mosi ke «ya mbote ya kufwana» ve (Roma 3:23). Yo yina yo ikele ve «muntu ya mbote na mubomi,» kansi yo ikele bonso bantu zole ya kele na maladi mosi ya lufwa — mosi ke baka nkisi, mosi ke buya yo ye ke tuba, «mono kele na nitu ya mbote kuluta yandi.»</p><p><b>② Kima mosi kaka ke kabula zulu ye bilungi.</b> Yo ikele ve lutangu ya bisalu, kansi <b>kana nge bakaka Yesu Klisto bonso Mfumu ye kana diambu ya masumu na nge me silama.</b> Muntu ya masumu na yandi me silama na menga ya Klisto ke kwenda na zulu; muntu ya ke baka yandi ve ata fyoti, masumu na yandi ke vanda, yandi ke kwenda ve. Kima mosi ve ya bisalu ya mbote lenda silisa diambu ya masumu yango kibeni.</p><p>Yo yina zulu ye bilungi ikele ve «mvutudilu ya bikalulu ya mbote,» kansi yo ikele diambu ya <b>bangwisana na Klisto</b>. Ye «kukwikila» ikele ve kundima na mabanzi mpamba, kansi nsoba ya muntu ya ke yala luzingu na nge — muntu ya ke baka yandi na kieleka ke kuma lulendo ve, kansi yandi ke balula ntima na mpila ya nda. Na kieleka, kuditangisa nge mosi («mono kele muntu ya mbote») ikele kiteki ya nda kuluta na kubukuna, yo kibeni ke sala beto banza nde beto ke vanda na mfunu ya Klisto ve (Luka 18:9-14).</p><p>Biblia ke tuba yo pwelele: <b>«Yandi ya kwikila yandi, ikele kufundiswa ve; yandi ya konda kukwikila yandi imene kufundiswa, sambu na yandi kwikila ve, mu nkumbu ya Mwana mosi kaka ya Nzambi»</b> (Yoane 3:18). Kusambisa ikele ve «kutadila luzingu na nge na nima ya lufwa,» kansi yo me silama dezia na <b>kana nge bakaka Klisto</b>.</p><p class='faq-v'>Roma 3:23 · Yoane 3:18 · Efeso 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Mono lenda zinga kaka luzingu ya mbote, kukwikila Yesu ve?",
+  "faq.a2": "<p>Yai ikele dibanza ya bantu mingi kele na yo, kansi yo ke bakisa ve diambu ya kieleka. Tala kifwani.</p><p><b>Banza nde nge kele na masuwa ya miyibi.</b> Ata nge ke gulusa masuwa, ata nge ke vanda mbote na bantu ya kisalu, ata luzingu na nge ke vanda mbote — nge kele ntangu yonso <b>muyibi</b>, sambu masuwa ke nata nge na kisika ya yo ke kwenda (libungi ya kusambisama). Diambu ikele ve «lutangu ya bisalu,» kansi <b>«masuwa nki nge kele na yo» (kidimbu na nge)</b>.</p><p>Yo yina nsamu mbote ke tuba ve «sala ngolo diaka sambu na kuvanda mbote,» kansi <b>«soba masuwa.»</b> Katuka na masuwa ya masumu, kwenda na Yesu — na kidimbu ya mpa bonso <b>mwana ya Nzambi</b>. Yo ikele ve kukumisa lutangu na nge na ngolo, kansi kutula ntima na yandi ya ke sembudila diboko na yandi, ye kusoba na masuwa na yandi.</p><p>Na kieleka Biblia ke tendula luguluku na mpila ya kusoba yai: <b>«Yandi gulusaka beto na ngolo ya mpimpa ye katulaka beto na kimfumu ya Mwana ya yandi ya zola»</b> (Kolosai 1:13).</p><p>Kubakisa yo mbi ve: <b>yo ke tuba ve nde luzingu ya mbote kele mfunu ve.</b> Bumbote ikele ve «nsiku» ya luguluku, kansi <b>mbuma</b> na yo. Muntu ya sobaka masuwa ke zinga ntangu yai mbote, kansi ya katuka na boma ve, ya katuka na zola ya mwana.</p><p class='faq-v'>Kolosai 1:13 · Yoane 1:12 · Yoane 3:3 · Efeso 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Kana muntu ya mbi ke kudiwa na ngemba, ke tuba «Nzambi me lolula mono,» ntangu muntu ya bo salaka mbi ke mona mpasi ntangu yonso — keti nlemvo ikele ntalu ya fyoti mingi ve?",
+  "faq.a3": "<p>Kyuvu ikele ya mbote, ye mpasi ikele ya kieleka. Kansi diambu ya mpila yai ikele ve «nlemvo ya Biblia» — yo ikele <b>nsoba ya mbi</b> na yo.</p><p><b>① Nlemvo ya Nzambi ikele nleke ntalu ya fyoti ata fyoti ve.</b> Bo ke bumba masumu ve bonso nde yo salamaka ntangu mosi ve; Nzambi yandi mosi futaka ntalu na yo na luzingu ya Mwana na yandi. Nti ya kulwa ikele ve kidimbu nde masumu ke bakama mpamba, kansi nde masumu ikele kilo mingi — yo ikele nlemvo ya ntalu ya nene kuluta na nsi-ntoto.</p><p><b>② Kubalula ntima ya kieleka ke buta mbuma.</b> Kana muntu ya mbi ke kuma lulendo na meso ya muntu ya bo salaka mbi — «Nzambi me lolula mono, mono kele na ngemba» — yo ikele ve kubalula ntima, kansi kifwani na yo (Matayo 3:8). Ye nlemvo na kati ya muntu ye Nzambi ke katula mputa ya muntu ya bo salaka mbi ve, ye ke pusa yandi na kulolula ve.</p><p><b>③ Masumu ke luta mpamba ata fyoti ve.</b> Konso masumu ke futama na kisika mosi na kati ya zole — <b>to Klisto ke nata yo na nti</b> (sambu na bantu ya ke tula ntima na yandi, kufundisama ikele diaka ve, Roma 8:1), <b>to muntu ya ke buya yandi na nsuka ke nata yo yandi mosi.</b> Yo yina «nlemvo ya ntalu ya fyoti» ikele ve. Muntu ya mbi ke nata mpe mukumba na meso ya nsiku na nsi-ntoto yai (Roma 13:1-4).</p><p><b>④ Mansanga ya muntu ya bo salaka mbi ikele fyoti ata fyoti ve na meso ya Nzambi.</b> Nzambi ke dila ti bantu ya ke dila, ke yindula konso dinsanga, ye na nsuka yandi mosi ke kunguna yo (Kusonga 21:4). Yo yina muntu ya bo salaka mbi fwana ve kunata kilo ya kuvutula mbi yandi mosi, kansi yandi lenda yekula yo na Nzambi ya lunungu (Roma 12:19 — «Mfumu tubaka: Mvutulu ya ndinda ikele na mono, mono tavutula»).</p><p class='faq-v'>Matayo 3:8 · Roma 8:1 · Roma 13:1-4 · Kusonga 21:4</p>",
+  "faq.q4": "<span class='arr'>▸</span> Keti Biblia ikele kibeni disolo ya kieleka? Yo ke fwanana bonso lukinu ya ntama to buku ya kufwanisa.",
+  "faq.a4": "<p>Yai ikele kyuvu ya mbote — ye kisika ya mbote ya kuyantika. Kutula ntemo ve ikele ve mbeni ya lukwikilu, kansi luzolo ya kutala mambu na masonga. Biblia ikele ve lukinu ya nkaka ya «kukwikila kana ntima ke zola,» kansi yo ikele lusonu ya <b>bisika, bilumbu ye bantu ya kieleka</b>. Tala bifwani fyoti.</p><p><b>① Yo ikele ve buku mosi, kansi «bibuku mingi» — kansi yo ke landa diambu mosi.</b> Biblia ikele kuvukana ya <b>babuku 66</b>, ya bo sonikaka na nzila ya bamvula bonso <b>1.500</b>, na <b>basoniki bonso 40</b> — bamfumu, bangungudi, balobi-bambisi, mufutisi ya mpaku, munganga, bantu ya mitindu ye bantangu ya kufwanana ve, ya sonikaka bau na bau, ya zabanaka ve na kati na bau, na bandinga tatu (Ebreyo, Arami, Greki). Kansi yo yonso ke vukana, na mvindu ve, na <b>diambu mosi: luguluku na nzila ya Klisto</b>. Yo ikele mpasi na kutendula yo na nzila ya zabu mpamba to na kuwakana ya bantu.</p><p><b>② Yo ke landa kukumisama kibeni na ntoto (lufukunu ya bima ya ntama).</b> Bima mingi ya bo tubaka nde yo vandaka ya kuyindula, «yo ikele kaka na Biblia,» bo monaka yo na nima na kufukuna ntoto. <b>Dibuta ya Davidi</b> na ditadi ya bo sonikaka «nzo ya Davidi» (ditadi ya Tel Dan); <b>Pilato</b>, mfumu-leta ya bo bomaka Yesu, na masonu ya kele na zina na yandi; nzila ya masa ya mfumu Ezekiya, na nzila yango ye masonu na yo. Ata <b>bantu ya Hiti</b>, ya bo bingaka «dikanda ya kuyindula,» bo monaka bau bonso leta ya nene na kati ya bibuka ya ntama.</p><p><b>③ Yo ikele dikabu ya ntama ya bo tanaka mbote kuluta (masonu ya maboko).</b> Na ntalu ya masonu ya maboko ya bo tanaka, na kuwakana na kati na yo, ye na ntama-ntama na kati ya kusonika ye kukopia, Biblia ikele <b>ya kuluta na kati ya masonu yonso ya ntama</b>. Disonu ya Yesaya na kati ya <b>Masonu ya Nzazi ya Lufwa</b> (bo monaka yo na 1947), ya bo sonikaka na ntwala ya Klisto, kuwakanaka pene-pene mpila mosi na disonu ya bo sadilaka na nima ya bamvula bonso 1.000 — kidimbu nde Biblia bo bumbaka yo mbote na bamvula yonso.</p><p><b>④ Mambu ya bo sonikaka na ntwala salamaka mpenza mutindu yango (bambikudulu).</b> Masonu ya bo sonikaka bamvula nkama na ntwala ya Yesu, ke songa pwelele kubutuka na yandi na Beteleme, kisadi ya mpasi, ye mambu ya nti ya kulwa. Yo ke fwanana ve na kuvanda kaka zabu mpamba.</p><p><b>⑤ Bansoniki ya disolo ya kintwadi ya Biblia ve sonikaka yo mpe.</b> Munsoniki ya disolo ya Roma <b>Tasite</b> ye munsoniki ya disolo ya Bayuda <b>Yosefe</b> — mosi na kati na bau vandaka mukristu ve — ke tubila Yesu, lufwa na yandi, ye dibundu ya ntete. Kuluta yonso, balongoki ya boma vukisaka bau na kupasuka, <b>tulaka luzingu na bau na ntalu</b>, sambu na kuta kimbangi ya lufutumuku — muntu ke fwila ve sambu na kima ya yandi ke zaba nde yo ikele luvunu.</p><p>Na masonga, banzaki yai ke songa nde kukwikila Biblia <b>ikele mambu ya luswasukusu ve, kansi ya mayele</b>; yo ikele ve «kimbangi» ya ke pusa bonso nimero ya matematiki. Yo yina lukwikilu ya mukristu ke katuka kaka na banzaki ve, kansi na <b>ndimu ya Mpeve Yanlongo ke pesa na ntima ntangu muntu ke tanga Ndinga</b>. Biblia ke tuba: <b>«Mpila yai lukwikilu ke katuka na kuwa, ye kuwa ke katuka na ndinga ya Klisto»</b> (Roma 10:17). Yo yina, ata mutindu yo ke fwanana bonso disolo ya kuyindula, <b>kutanga yo nge mosi</b> ikele lugangu. Kimbangi ke kangula kielo, ye lukwikilu ke yela na kati ya muntu ya ke tanga.</p><p class='faq-v'>Roma 10:17</p>",
+  "respond.h3": "Ebuna — nki ke kumina mono?",
+  "respond.sub": "Zola yai ikele ve nsangu, kansi <b>mbila</b>. Kana zola ya bo bandaka na nti na kisika na nge me simba ntima na nge, samba yo malembe, mukanda na mukanda.",
+  "respond.prayer": "<p>Nzambi,</p><p>mono ke ndima nde mono ikele nkwa masumu ya ke kuka ve na kugulusa yandi mosi.</p><p>Mono ke kwikila nde Yesu fwilaka mono na nti ye futumukaka.</p><p>Lolula masumu na mono yonso, ye katuka bubu yai vanda Mfumu ya luzingu na mono.</p><p>Baka mono bonso mwana na nge, ye sala nde mono zinga luzingu ya mpa.</p><p class='amen'>Na zina ya Yesu mono ke samba. Amen.</p>",
+  "respond.after": "Kana nge sambaka yo na ntima na nge ya mvimba, Biblia ke tuba nde nge me <b>kuma mwana ya Nzambi</b>. Nge kele diaka mosi ve — sosa dibundu ya pene-pene ye landa nzila ya lukwikilu kumosi na bankaka.",
+  "respond.read": "Tanga Biblia nge mosi — yantika na Yoane",
+  "respond.verse": "«Kansi yonso ya bakaka yandi, yandi pesaka bau ngolo kuvanda bana ya Nzambi, ikele bau ya kwikila mu nkumbu ya yandi.» — Yoane 1:12 · Roma 10:9-10",
+  "closing.main": "Nzambi mosi,<br>na nzila ya disolo mosi,<br>ke sosa beto na <em>zola</em><br>ya ke yambula ve.",
+  "closing.verse": "«Kadi mono kwikidiswa na lufwa, keti moyo, keti banjo, keti bakimfumu, keti bima ya ikele, keti bima ya takwiza, keti ngolo, keti ya zulu, keti mudindu, keti konso nsemono lenda kukabisa beto ve tuka zola ya Nzambi, ya ikele mu Klisto Yesu, Mfumu ya beto.» — Roma 8:38-39",
+  "closing.small": "Na disolo yai, Nsiku, babuku ya mayele, bambikudi ye bankanda ke yika «nsuni.»<br>Tuka ntangu yai, konso buku ya nge ke kangula, nge ke mona kisika ya nge kele na kati ya disolo.",
+  "closing.share": "↗ Kabula disolo yai",
+  "about.line": "Yo ke katuka na mona ya luguluku ya disolo ya babundu mingi ya Baprotestanti ya Kore ke kabula (evanzile · reforme).",
+  "about.contact": "Bakyuvu · mabanza — <a id='contact' class='mail'>Sonikila beto imeyili</a>",
+  "partial.note": "Na Kikongo ya Leta, kaka Kuwakana ya Mpa (Nouveau Testament) bo me tanga awa; tanga disolo ya mvimba na Kuwakana ya Mpa."
+ },
+ "epochs": [
+  {
+   "tag": "KUWAKANA YA NTAMA · LUGANGU",
+   "title": "Lugangu",
+   "date": "Na lugangu",
+   "one": "Nzambi gangaka nsi-ntoto ya vandaka «ya mbote mingi.»",
+   "people": "Nzambi; Adami ye Eva",
+   "events": "Bilumbu sambanu ya lugangu, muntu ya bo gangaka na kifwani ya Nzambi, kupema ya kilumbu ya saba",
+   "q": "Nzambi gangaka zulu ye ntoto na lugangu.",
+   "cite": "",
+   "christ": "Nsi-ntoto bo gangaka yo na nzila ya «Ndinga.» Nsangu ya mbote ya Yoane ke samuna nde Ndinga yango ikele Yesu yandi mosi (Yoane 1:1-3).",
+   "detail": "<p>Biblia ke yantika ve na mabanza ya filozofi, kansi na nsamu: <b>«Na lugangu Nzambi gangaka…»</b> Nsi-ntoto ikele ve mambu ya kibakidi, kansi kisalu ya Nzambi ya kele muntu.</p><ul><li><b>Kifwani ya Nzambi</b> · na kati ya bima yonso ya bo gangaka, kaka muntu bo salaka yandi mutindu ya Nzambi — sambu na kuzaba yandi ye kutala nsi-ntoto.</li><li><b>Kupema</b> · kupema ya kilumbu ya nsambwadi ke songa nde yonso me yidika ye kele na ngemba (shalomi): «yo vandaka mbote.»</li><li><b>Edeni</b> · nsi-ntoto na ntwala ya kubukana, kisika Nzambi ye bantu ke tambula kumosi.</li></ul>",
+   "next": "Kansi bunkete yai ke yantika kubukana…"
+  },
+  {
+   "tag": "KUWAKANA YA NTAMA · DIAMBU KE YANTIKA",
+   "title": "Kubwa na masumu",
+   "date": "Na lugangu",
+   "one": "Masumu kotaka ye kangu na kati ya muntu ye Nzambi bukanaka.",
+   "people": "Adami ye Eva; nyoka (Satana)",
+   "events": "Kudia mbuma ya bo buyisaka, kukula na Edeni, kukwiza ya lufwa ye mpasi",
+   "q": "Nzambi ke tula mbeni na kati ya nyoka ye nkento, ye nkuna ya nkento ke pasula ntu ya nyoka.",
+   "cite": "",
+   "christ": "Lusilu ya ntete ya nsamu mbote, ya bo pesaka na nima ya kubwa na masumu: «nkuna ya nkento» ke pasula ntu ya nyoka — ye yango ikele Yesu (Roma 16:20; Galatia 4:4).",
+   "detail": "<p>Na nzila ya kukolama ya zolaka «kuvanda bonso Nzambi,» masumu ke kota na nsi-ntoto. Mbuma ikele ve kaka nsiku ya bo bukaka, kansi <b>bangwisana ya bo bukaka</b>.</p><ul><li><b>Bangwisana ya kubukana</b> · ti Nzambi (kubumbana), ti bankaka (kufundisana), ti nsi-ntoto (nsende ye mpasi).</li><li><b>Lufwa</b> · lukebisu «nge ke fwa» ke kuma kieleka.</li><li>Kansi na kati ya kusambisa, lusilu ya luguluku ke kwiza ntete. Banlongi ke binga yo <b>protoevanzile (nsamu mbote ya ntete)</b>.</li></ul>",
+   "next": "Ntangu yai Nzambi ke binga muntu mosi sambu na kuyantika luguluku…"
+  },
+  {
+   "tag": "KUWAKANA YA NTAMA · LUSILU",
+   "title": "Bankaka-batata",
+   "date": "kiteso 2000 N.K.",
+   "one": "Nzambi ke sila Abalahami: «Nge ke kuma nzila ya lusakumunu.»",
+   "people": "Abalahami · Izaki · Yakobi · Yozefi",
+   "events": "Kuwakana ya Abalahami, kupesa Izaki bonso kimenga, bana zole na kumi ya Yakobi, Yozefi ke tombuka na kimfumu na Ezipiti",
+   "q": "Nzambi ke sila na kukumisa Abalahami dikanda ya nene, ye na yandi makanda yonso ya ntoto ke baka lusakumunu.",
+   "cite": "",
+   "christ": "Lusilu nde «makanda yonso ke baka lusakumunu» ke lungana na Yesu, nkuna ya Abalahami (Galatia 3:16).",
+   "detail": "<p>Nzambi ke yantika kusilisa diambu ya bantu yonso na kubinga muntu mosi, <b>Abalahami</b>. Ntima na yo ikele <b>kuwakana (lusilu)</b> — dikanda ya nene, ntoto ye «lusakumunu sambu na makanda yonso.»</p><ul><li><b>Lukwikilu</b> · Abalahami kwikilaka lusilu ya bo monaka ve, ye bo tangaka yo na yandi bonso lunungu.</li><li><b>Izaki ye Yakobi</b> · lusilu ke landa; Yakobi (Isalele) ke buta makanda kumi na zole.</li><li><b>Yozefi</b> · bampangi na yandi tekaka yandi, kansi bo tombulaka yandi na kimfumu — Nzambi balulaka yo na mbote.</li></ul>",
+   "next": "Na kulanda Yozefi, dibuta ke kulumuka na Ezipiti — ye ke kuma bampika…"
+  },
+  {
+   "tag": "KUWAKANA YA NTAMA · LUGULUKU",
+   "title": "Kubasika ye ntoto ya zelo",
+   "date": "kiteso 1446 N.K.",
+   "one": "Nzambi gulusaka dikanda ya bampika ye kumisaka bau ya yandi.",
+   "people": "Moize, Aroni, Falao",
+   "events": "Bampasi kumi, Pasika, kuluta na nzazi ya Mbwaki, Bansiku Kumi na Sinai, tenta ya kuvukana, bamvula 40 na ntoto ya zelo",
+   "q": "Nzambi ke sila na kubaka bau bonso dikanda na yandi ye kuvanda Nzambi na bau.",
+   "cite": "",
+   "christ": "Pasika — kisika menga ya mwana-meme balulaka lufwa — ke songa Yesu, «mwana-meme na beto ya Pasika,» ya bo bandaka na nti sambu na beto (1 Korinto 5:7).",
+   "detail": "<p>Luguluku ya nene kuluta ya Kuwakana ya Ntama. Isalele ya vandaka bampika ke kuma na kimpwanza na ngolo ya Nzambi ye bo ke kumisa bau <b>dikanda</b> na yandi.</p><ul><li><b>Pasika</b> · nzo ya bo tulaka kidimbu ya menga ya mwana-meme, lufwa ke luta yo — kifwani ya bakimenga yonso ya ke landa.</li><li><b>Nzazi ya Mbwaki</b> · luguluku na kisika nzila ke sukila; «kuluta» ke kuma kidimbu ya lugangu ya mpa.</li><li><b>Kuwakana ya Sinai</b> · na nzila ya bansiku, bo ke longuka mutindu ya kuzinga bonso dikanda ya Nzambi.</li><li><b>Tenta ya kuvukana</b> · nzo-nlongo ya bo lenda nata, kisika Nzambi ke zinga na kati ya dikanda na yandi — kidimbu ya ntete ya «Emanuele.»</li><li><b>Bamvula 40</b> · kukolama ke sala mbandu mosi kuyengayenga na ntoto ya zelo, kansi Nzambi ke vanda pene-pene na mana ye na dikungu ya tuti ye ya tiya.</li></ul>",
+   "next": "Na kutelama na kingungudila ya ntoto ya lusilu, bo ke yidika sambu na kukota…"
+  },
+  {
+   "tag": "KUWAKANA YA NTAMA · KUVANDA",
+   "title": "Kubaka ntoto ye basambisi",
+   "date": "kiteso 1400–1050 N.K.",
+   "one": "Bo bakaka ntoto, kansi kukonda ntotila, konso muntu salaka mambu na yandi.",
+   "people": "Yozue; basambisi bonso Gideoni ye Samsoni; Rute",
+   "events": "Kubwa ya Yeliko, kuvanda na Kanana, nzunga ya masumu–kusambisa–luguluku ya ke vutukila",
+   "q": "Na bilumbu yina ntotila vandaka ve na Isalele; konso muntu salaka mambu ya vandaka mbote na meso na yandi mosi.",
+   "cite": "",
+   "christ": "Na nkuna ya Rute Davidi ke kwiza, ye na nkuna ya Davidi Yesu ke kwiza (Matayo 1). Ata na mvindu, nkuna ya Mesia ke landa.",
+   "detail": "<p>Na nsi ya Yozue, bo ke kota na ntoto ya lusilu, kansi na nima ya kuvanda, na nsualu bo ke vila Nzambi. Buku ya Basambisi ikele nzunga mosi kaka ke vutukila.</p><ul><li><b>Nzunga ya kukulumuka</b> · masumu → kuyala-na-ngolo → kuboka → musambisi ke gulusa → masumu diaka. Yo ke kuma mbi mingi-mingi.</li><li><b>Basambisi</b> · Gideoni, Samsoni, Debola — bagulusi ya ntangu fyoti, ya kikesa, kansi ya bifu mingi.</li><li><b>Rute</b> · disolo ya kiese ya kwikama na ntangu ya mpimpa; nkento ya nzenza ke kota na nkuna ya Davidi (ye ya Yesu).</li></ul>",
+   "next": "Dikanda ke boka: «Pesa beto mpe ntotila!»…"
+  },
+  {
+   "tag": "KUWAKANA YA NTAMA · NTANGU YA WOLO",
+   "title": "Kimfumu ya kuvukana",
+   "date": "kiteso 1050–930 N.K.",
+   "one": "Nzambi ke sila Davidi: «Kiti ya kimfumu na nge ke vanda mvu na mvu.»",
+   "people": "Saulu · Davidi · Salomo",
+   "events": "Ntotila ya ntete Saulu, Davidi ye Goliati, Kuwakana ya Davidi, Salomo ke tunga tempelo",
+   "q": "Nzambi ke sila Davidi nde nzo na yandi ye kimfumu na yandi ke vanda mvu na mvu, ye kiti na yandi ya kimfumu ke telama mvu na mvu.",
+   "cite": "",
+   "christ": "«Kiti ya kimfumu ya mvu na mvu» ke lungana na Yesu, mwana ya Davidi — yo yina bo ke binga yandi «Mwana ya Davidi» (Luka 1:32-33; Matayo 1:1).",
+   "detail": "<p>Kingungudila ya Isalele, ya bantotila tatu ke yala.</p><ul><li><b>Saulu</b> · ntotila ya dikanda lombaka; lugangu ya mbote ya kukolama bukaka.</li><li><b>Davidi</b> · «muntu ya ntima ya Nzambi.» Yandi nungaka Goliati ye kumisaka Yeluzalemi mbanza ya kimfumu. Yandi salaka masumu ya nene (Batiseba), kansi yandi balulaka ntima na ntima ya mvimba.</li><li><b>Kuwakana ya Davidi</b> · Nzambi ke sila na kutelamisa dibuta ya Davidi mvu na mvu — nkuna ya mfunu ya kivuvu ya Mesia.</li><li><b>Salomo</b> · na kingungudila ya mayele ye kimvwama, yandi ke tunga <b>tempelo</b>, kansi na nsuka ya luzingu yandi ke balula na biteki.</li></ul>",
+   "next": "Na nima ya Salomo, kimfumu ke kabwana na zole…"
+  },
+  {
+   "tag": "KUWAKANA YA NTAMA · KUKULUMUKA",
+   "title": "Kimfumu ya kukabwana",
+   "date": "930–586 N.K.",
+   "one": "Bo kabwanaka na sudi (Yuda) ye nordi (Isalele), dibanda ke kulumuka na mbebisu.",
+   "people": "Bantotila ya bimfumu zole; bambikudi bonso Eliya, Yesaya, Yelemia",
+   "events": "Kimfumu ke kabwana, kusambila biteki ke mwanga, bambikudi ke kebisa",
+   "q": "Mpila yai Isalele me kolamina nzo ya Davidi tii na kilumbu yai.",
+   "cite": "",
+   "christ": "Na ntangu yai, bambikudi ke samuna Mesia ya ke kwiza na mutindu ya pwelele mingi-mingi.",
+   "detail": "<p>Na bilumbu ya mwana ya Salomo, dikanda ke kabwana: <b>kimfumu ya Isalele ya nordi</b> (makanda 10, mbanza Samaria) ye <b>kimfumu ya Yuda ya sudi</b> (makanda 2, mbanza Yeluzalemi).</p><ul><li><b>Isalele (nordi)</b> · konso ntotila ke sadila biteki; yo ke bwa na maboko ya Asiria na mvula 722 N.K.</li><li><b>Yuda (sudi)</b> · nkuna ya Davidi ke landa, na bantotila ya mbote fyoti bonso Ezekiya ye Yoziya, kansi mingi-mingi yo ke kulumuka.</li><li><b>Bambikudi</b> · Eliya, Amosi, Yesaya, Yelemia ke boka: «vutuka!» Mbikudulu ya Mesia ke kuma na kingungudila na yo awa (kisadi ya mpasi).</li></ul>",
+   "next": "Na nsuka, kusambisa ya bo kebisaka ke kwiza — bo ke nata bau na bunkole…"
+  },
+  {
+   "tag": "KUWAKANA YA NTAMA · KUSAMBISA",
+   "title": "Bunkole",
+   "date": "722 / 586 N.K.",
+   "one": "Dibanda ke bwa ye bo ke nata yo na bansi ya bampaka.",
+   "people": "Daniele, Ezekiele, Nebukadinezari",
+   "events": "Isalele ke bwa na maboko ya Asiria (722), Yuda ke bwa na maboko ya Babiloni ye bo ke bebisa tempelo (586)",
+   "q": "Na nzadi-mungwa ya Babiloni, kuna beto vandaka, ye beto vandaka kudila ntangu beto vandaka kuyibuka Sioni.",
+   "cite": "",
+   "christ": "Na nsi ya mpasi ya nene, Yelemia ke sila «kuwakana ya mpa» — kuwakana yina kibeni Yesu ke siidika na madia ya nsuka.",
+   "detail": "<p>Bakebisu ke kuma kieleka. Tempelo ke yoka ye bo ke nata dibanda na Babiloni — bo ke vidisa ntoto, ntotila ye tempelo: kisika ya nsi mingi-mingi.</p><ul><li><b>Kubwa zole</b> · Isalele (Asiria, 722 N.K.) ye Yuda (Babiloni, 586 N.K.).</li><li><b>Daniele</b> · mbandu ya lukwikilu ata na lupangu ya bantu ya ke zaba Nzambi ve (dibulu ya bankosi); yandi ke mona bambonokono ya «kimfumu ya mvu na mvu» ya ke kwiza.</li><li><b>Mwinda ya kivuvu</b> · mbonokono ya Ezekiele ya mikwa ya yuma ya ke futumuka, ye «kuwakana ya mpa» ya Yelemia ke songa ntwala na kati ya mpimpa.</li></ul>",
+   "next": "Bamvula makumi nsambwadi na nima, Nzambi ke kangula nzila — bo ke vutuka na nzo…"
+  },
+  {
+   "tag": "KUWAKANA YA NTAMA · KUVUTUKILA NGEMBA",
+   "title": "Kuvutuka",
+   "date": "538–430 N.K.",
+   "one": "Bo ke vutuka ye ke tunga tempelo ye bibaka diaka.",
+   "people": "Esidalasi, Nehemia, Estere, Zerubabele",
+   "events": "Kuvutuka na nsiku ya Sirisi, kutunga diaka tempelo, kutunga diaka bibaka ya Yeluzalemi, kuvutula Ndinga",
+   "q": "Kiese ya Mfumu ikele ngolo na beno.",
+   "cite": "",
+   "christ": "Malaki, buku ya nsuka ya Kuwakana ya Ntama, ke sukisa na mbikudulu ya nntumwa ya ke yidika nzila ya Mesia: «Mono ke tinda nntumwa na mono.»",
+   "detail": "<p>Na nsiku ya Sirisi ntotila ya Persia (538 N.K.), kuvutuka ke yantika. Na mabundu tatu bo ke vutuka ye ke tunga diaka mambu ya vandaka na mbebisu.</p><ul><li><b>Zerubabele</b> · ke tunga diaka tempelo (yo silaka na 516 N.K.).</li><li><b>Esidalasi</b> · ke longa diaka Ndinga ye ke futumuna lukwikilu.</li><li><b>Nehemia</b> · ke tunga diaka bibaka ya Yeluzalemi na bilumbu 52.</li><li><b>Estere</b> · ke gulusa Bayuda na Persia na mbebisu — «sambu na ntangu ya mpila yai.»</li><li><b>Ke vingila kaka</b> · tempelo ke telama, kansi ntotila bonso Davidi ikele ve. Dibanda ke vingila Mesia.</li></ul>",
+   "next": "Ye ebuna… bonso zulu vandaka pi, bamvula 400 ke luta."
+  },
+  {
+   "tag": "NA KATI YA BAKUWAKANA · KUYIDIKA KISIKA",
+   "title": "Bamvula ya kupima",
+   "date": "kiteso 430–4 N.K.",
+   "one": "Bamvula 400 kukonda ndinga ya mbikudi — kansi bo yidikaka kisika na pima.",
+   "people": "Alesandere ya Nene, Bamakabe, Roma",
+   "events": "Persia → Greki → kimpwanza ya Bamakabe → kimfumu ya Roma",
+   "q": "Bu ntangu ya lunga kwizaka, Nzambi fidisaka Mwana ya yandi, ya butuka na nkento ya butuka nansi ya nsiku.",
+   "cite": "Galatia 4:4",
+   "christ": "«Kuyidika kisika» yai yonso vandaka kisalu ya Nzambi, sambu Yesu kwiza kaka «na ntangu ya lunga.»",
+   "detail": "<p>Tuka Malaki tii na Kuwakana ya Mpa, bamvula bonso 400 ke luta kukonda Masonu ya mpa. Kansi Nzambi yidikaka nzila ya nsamu mbote na nima ya disolo.</p><ul><li><b>Bimfumu ke soba</b> · Persia → Greki (Alesandere, 333 N.K.) → Baptolemayo ye Baselekide → kutombuka ya Bamakabe (167 N.K.) → Roma (63 N.K.).</li><li><b>Ndinga ya Greki</b> · kununga ya Alesandere ke kumisa Greki ndinga ya kuvukana; bo ke balula Kuwakana ya Ntama na Greki (Septante), ke yidika nzila sambu nsamu mbote mwanga nswalu.</li><li><b>Banzila ye ngemba ya Roma</b> · banzila ya bo tungaka mbote ye «Pax Romana» ke kuma banzila ya kisalu ya Nzambi.</li><li><b>Bansinagoga ye bibuka</b> · malongi ya sinagoga ke yantika; Bafalisi ye Basaduse ke basika; ye <b>kuvingila Mesia</b> ke yela.</li></ul>",
+   "next": "Ebuna pi ke bukana — na nsuka yandi ke kwiza."
+  },
+  {
+   "tag": "KUWAKANA YA MPA · KULUNGANA",
+   "title": "Yesu ke kwiza",
+   "date": "kiteso 4 N.K.–30 N.M.",
+   "one": "Mesia ya bo silaka kwizaka, fwaka ye futumukaka.",
+   "people": "Yesu, balongoki kumi na zole, Yoane Mbatisi",
+   "events": "Kukuma nsuni, kisalu na yandi ye malongi ye bidimbu, lufwa na nti, lufutumuku na kilumbu ya tatu",
+   "q": "Diambu kitukaka nsuni, yo vandaka nakati ya beto, beto monaka nkembo ya yandi, bonso nkembo ya Mwana mosi kaka ya Tata, fuluka na nlemvo ye kieleka.",
+   "cite": "Yoane 1:14",
+   "christ": "Nkuna ya nkento (disolo 2), lusakumunu ya Abalahami (3), mwana-meme ya Pasika (4), ntotila ya mvu na mvu ya Davidi (6), kuwakana ya mpa (8) — yonso lunganaka na muntu mosi, Yesu: Mbikudi, Nganga-Nzambi, ye Ntotila na beto ya kieleka.",
+   "detail": "<p>Pi ke bukana; Mosi ya bo silaka ke kwiza. Nsangu ya mbote iya ke ta kimbangi ya luzingu, lufwa ye lufutumuku ya Yesu na bingungudila iya.</p><ul><li><b>Kukuma nsuni</b> · Nzambi ke kuma muntu (Emanuele, «Nzambi ti beto»), na kisika ya kudikulumusa ya Beteleme.</li><li><b>Kisalu</b> · yandi ke longa kimfumu ya Nzambi, ke belula bambefo, ke binga bankwa masumu. «Muntu ya monaka mono, monaka Tata.»</li><li><b>Nti ya kulwa</b> · yandi ke futa ntalu ya masumu ye lufwa ya kubwa na masumu (disolo 2) nataka. Mwana-meme ya Pasika ya kieleka.</li><li><b>Lufutumuku</b> · na kufutumuka na kilumbu ya tatu, yandi ke bukuna ngolo ya masumu, lufwa ye Satana — dezia na nti yandi «katulaka bimfumu ye bangolo bibwambu na bau … ye nungaka bau na nzila ya Klisto» (Kolosai 2:15).</li></ul><p>Yo yina Yesu ikele <b>Mbikudi na beto ya kieleka</b> (ke songa nzila ya kukwenda na Nzambi), <b>Nganga-Nzambi na beto ya kieleka</b> (ke lolula masumu na nzila ya nitu na yandi), ye <b>Ntotila na beto ya kieleka</b> (ke nunga masumu, lufwa ye Satana ye ke yala mvu na mvu).</p>",
+   "next": "Yesu ya kufutumuka ke tinda balongoki na yandi na nsi-ntoto…"
+  },
+  {
+   "tag": "KUWAKANA YA MPA · KUMWANGANA",
+   "title": "Dibundu ke yantika",
+   "date": "kiteso 30 N.M.–",
+   "one": "Mpeve ke kwiza, ye nsamu mbote ke mwangana tii na nsuka ya ntoto.",
+   "people": "Petelo, Polo, dibundu ya ntete",
+   "events": "Mpeve ke kwiza na Pantekoti, dibundu ke butuka, nsamu mbote ke mwangana tuka Yeluzalemi tii na Roma na nzila ya mpasi",
+   "q": "Kansi beno tabaka ngolo bu Mpeve Yanlongo imene kwiza va beno, ye beno tavanda bantemo ya mono mu Yelusalemi ye mu Yuda yonso ye Samalia ti nsuka ya ntoto.",
+   "cite": "Bisalu 1:8",
+   "christ": "Disolo yai ke landa tii ntangu yai. Biblia ke sukisa na lusilu nde Yesu ke kwiza diaka ye ke sala mambu yonso mpa (Kusonga 21).",
+   "detail": "<p>Na nima ya Yesu kutombuka na zulu, Mpeve ya bo silaka ke kwiza na Pantekoti ye dibundu ke butuka. Nsamu mbote ke mwangana na ngolo mingi.</p><ul><li><b>Pantekoti</b> · Mpeve ke balula balongoki ya boma na bambangi ya kikesa.</li><li><b>Petelo</b> · ke samuna nsamu mbote na Bayuda na Yeluzalemi.</li><li><b>Polo</b> · tuka munyokudi tii na ntumwa, ke tunga mabundu na nsi-ntoto ya bantu ya makanda ye ke sonika bankanda.</li><li><b>Tii na nsuka ya ntoto</b> · Yeluzalemi → Yuda → Samaria → Roma. Lusilu ya bo pesaka Abalahami ya «makanda yonso» ke lungana.</li><li><b>Ye beto</b> · disolo ke suka ve; yo ke pusana na ntwala na kuvutuka ya Yesu ye na zulu ya mpa ye ntoto ya mpa.</li></ul>",
+   "next": "Kansi disolo ke suka awa ve…"
+  },
+  {
+   "tag": "KUWAKANA YA MPA · KULUNGANA YONSO",
+   "title": "Kuvutukila bunkete",
+   "date": "Ke kwiza ntangu yai ve",
+   "one": "Yesu ke kwiza diaka ye ke sala mambu yonso mpa.",
+   "people": "Yesu ya ke vutuka; makanda yonso",
+   "events": "Kuvutuka ya zole, kusambisa ya nsuka, nsuka ya masumu·lufwa·mansanga, zulu ya mpa ye ntoto ya mpa",
+   "q": "Yandi takunguna mansanga yonso na meso ya bau, lufwa tavanda diaka ve, ntantu tavanda diaka ve, ye kudila ye mpasi tavanda diaka ve, kadi yina ya ntete imene kuluta.",
+   "cite": "Kusonga 21:4",
+   "christ": "Edeni ya lugangu ya ntete ke vutukila yo na nsuka bonso «Yeluzalemi ya mpa.» Nzambi ke zinga ti dikanda na yandi mvu na mvu — kulungana ya Emanuele (Kusonga 21:3; Matayo 1:23).",
+   "detail": "<p>Biblia ke suka ve na ntangu ya dibundu. Buku na yo ya nsuka, Kusonga, ke songa Yesu <b>ke kwiza diaka</b> sambu na kulungisa mambu yonso.</p><ul><li><b>Kuvutuka ya zole</b> · Ntotila ya bo silaka ke vutuka na nkembo.</li><li><b>Kununga ya nsuka</b> · Satana ye lufwa bo ke nunga bau mvu na mvu, ye Klisto ke yala bonso Ntotila ya bantotila (1 Korinto 15:25-26; Kusonga 20:10).</li><li><b>Kusambisa ye lufutumuku</b> · konso mbi bo ke yidika yo, ye bantu ya kufwa bo ke futumuna bau.</li><li><b>Zulu ya mpa ye ntoto ya mpa</b> · masumu, lufwa, mansanga ye mpasi ke vila mvu na mvu (Kusonga 21:4).</li><li><b>Edeni ya bo vutukilaka</b> · na «Yeluzalemi ya mpa,» ya kuluta lugangu ya ntete, Nzambi ke zinga ti dikanda na yandi mvu na mvu — kingungudila ya Biblia ya mvimba vandaka kukwenda na yo.</li></ul><p>Yo yina ntangu yai ikele ntangu ya <b>«dezia, kansi ntangu yai ve»</b>: na Yesu luguluku me lungana <b>dezia</b>, kansi kulungana na yo ya mvimba <b>ke vingilama kaka</b>.</p>",
+   "next": "Ebuna disolo yai yonso ke tendula nki sambu na «mono»?"
+  }
+ ],
+ "love": [
+  "Disolo ke yantika ve na kusambisa, kansi na lugangu ya bo salaka na zola.",
+  "Na ntangu kibeni bantu salaka masumu, Nzambi silaka kuna kaka luguluku.",
+  "Nzambi kwizaka ntete na muntu ya kufwana ve, bingaka yandi na zina ye kumisaka yandi nzila ya lusakumunu.",
+  "Yandi waka kunyinguta ya dikanda ya bampika ye kulumukaka yandi mosi sambu na kugulusa bau.",
+  "Bo tekaka yandi mbala na mbala, kansi konso ntangu bo bokaka, yandi tindaka mugulusi ye tombulaka bau.",
+  "Yandi yambulaka ata Davidi ya kubwa ve ye silaka na nzila na yandi Ntotila ya mvu na mvu.",
+  "Na dikanda ya pesaka yandi mukongo, yandi tindaka bambikudi mbala na mbala, ke bondila: «Pardon vutuka na nzo.»",
+  "Yandi kwendaka ti bau ata na ntoto ya mpimpa mingi ya bunkole ye silaka kuvutukila ngemba.",
+  "Ata na dikanda ya bwaka mbala na mbala, yandi katulaka lusilu na yandi ve.",
+  "Ata na bamvula 400 ya pima, yandi yidikaka nzila ya luguluku na kinsweki.",
+  "Ntangu beto vandaka kaka bankwa masumu, yandi tindaka Mwana na yandi sambu na kupesa luzingu na yandi.",
+  "Zola ya beto bakaka, yandi ke tinda yo ntangu yai na kumwangana na nsi-ntoto ya mvimba.",
+  "Na nsuka, yandi ke kunguna konso dinsanga ye ke sala mambu yonso mpa na zola."
+ ],
+ "mis": [
+  {
+   "w": "«Sambu na nki Nzambi gangaka bantu ya lendaka kusala masumu? Yo vandaka mbote ve na kuganga beto ata fyoti ve?»",
+   "t": "Nzambi gangaka nsi-ntoto ye bantu na kukonda kima ve, kansi na zola ya ke fuluka. Kuganga bantu bonso <b>bantu ya ke solula ti Nzambi</b> ikele yo mosi zola. Ye ata kukota ya masumu, yo katukaka na lukanu ya luguluku ya Nzambi ve (Efeso 1:4-5). Disolo ya ntete ya Biblia ikele ve kusambisa, kansi zola."
+  },
+  {
+   "w": "«Bo kulaka ye bo pesaka na lufwa kaka sambu na kudia mbuma mosi — keti Nzambi ikele ngolo mingi ve?»",
+   "t": "Kukula na Edeni vandaka kumosi kusambisa ye nlemvo. Kudia na nti ya luzingu ye kuzinga mvu na mvu na kati ya nzietelo yai ya kubukana, ya bo kabwanaka ti Nzambi, zolaka kuvanda kukangama na mpasi mvu na mvu. Kupesa nzila na lufwa kangulaka nzila ya kuvutuka, ye kuna kaka Nzambi silaka Mugulusi. Zola vandaka dezia na kati ya kusambisa."
+  },
+  {
+   "w": "«Bo solaka Abalahami sambu yandi vandaka na lukwikilu ya nene — keti bantu yonso ya Biblia ikele bantu ya bunkete?»",
+   "t": "Abalahami kusaka luvunu ye tulaka ntemo; Yakobi vandaka mukosi. Nzambi bingaka bantu ya «bunkete» ve, kansi bantu ya bifu, na nlemvo. Kikuma ikele ve bumbote na bau, kansi zola ya kwikama ya Nzambi."
+  },
+  {
+   "w": "«Keti Nsiku (bansiku) ikele ve egzameni ya nge fwana kununga sambu na kuguluka?»",
+   "t": "Nzambi gulusaka bau <b>na ntwala</b> ya kupesa Nsiku. Ata Bansiku Kumi ke yantika na nsamu ya luguluku: «Mono ikele Mfumu Nzambi na nge, ya basisaka nge na Ezipiti.» Nsiku ikele ve «sala yo sambu na kuguluka,» kansi musongi ya zola ya mutindu dikanda ya bo gulusaka dezia fwana kuzinga. Nlemvo ke kwiza ntete ntangu yonso; bulemfu ikele mvutu."
+  },
+  {
+   "w": "«Kubaka Kanana vandaka kubomana kukonda mawa — yo yina Nzambi ya Kuwakana ya Ntama ikele kibeni nkali.»",
+   "t": "Yai ikele diambu ya mpasi ya bo lenda silisa na diambu mosi ve. Kansi Biblia ke songa yo bonso ngolo ya kibakidi ve, kansi bonso kusambisa na nima ya bamvula nkama ya kukanga-ntima na ntwala ya mbi ya nene (kumosi kupesa bana bonso bimenga). Nzambi ke kanga ntima ata na kusambisa, ye yandi yambaka na kiese bantu ya balukaka na yandi — ata banzenza bonso Rahabi ye Rute."
+  },
+  {
+   "w": "«Davidi vandaka nkesa ya kukonda bifu — yo yina bo bingaka yandi «muntu ya ntima ya Nzambi.»»",
+   "t": "Davidi salaka pite ye kubomana mpe. «Muntu ya ntima ya Nzambi» ke tendula ve kukonda bifu, kansi muntu ya bumbaka masumu na yandi ve — ya balulaka ntima na mvimba ye ya vutukaka ntangu yonso na Nzambi. Zola ya Nzambi ke yambula ve ata bantu ya ke bwa ngolo."
+  },
+  {
+   "w": "«Bambikudi ikele bantu ya ke zaba ye ke samuna mambu ya bilumbu ke kwiza / Nzambi ya Kuwakana ya Ntama ikele kaka makasi.»",
+   "t": "Ntima ya mbikudi ikele ve «kusamuna mambu ya ntwala,» kansi kubondila ya mpasi ya Nzambi: «Pardon vutuka.» Ata bakebisu ya kusambisa ke zola kubebisa ve, kansi kuvutula bantu ye kugulusa bau — «mono ke sepela na lufwa ya muntu ya mbi ve.»"
+  },
+  {
+   "w": "«Bunkole ke songa nde Nzambi yambulaka Isalele na mvimba.»",
+   "t": "Bunkole vandaka kuyambula ve, kansi malongi ye kukomisa bunkete ya mwana ya zola (Baebreo 12:6). Nzambi katukaka ve; yandi vandaka ti Daniele na kati ya bunkole ye silaka: «Mono ke zaba mabanza ya mono kele na yo sambu na beno — mabanza ya ngemba, kansi ya mbi ve, sambu na kupesa beno kivuvu ye bilumbu ya ke kwiza.»"
+  },
+  null,
+  {
+   "w": "«Kana ndinga vandaka ve na bamvula 400, ebuna Nzambi katukaka to vandaka kupema.»",
+   "t": "Pima ikele kukonda ve. Yandi tubaka kaka ve, ntangu yandi vandaka kunyengisa bimfumu, bandinga ye banzila, sambu na kuyidika kisika ya luguluku. Na ntangu ya pima mingi-mingi, Nzambi salaka kisalu mingi-mingi, na zola (Galatia 4:4)."
+  },
+  {
+   "w": "«Yesu vandaka kaka nlongi mosi ya mbote ya bikalulu / nti ya kulwa vandaka kususuka ya mpasi.»",
+   "t": "Yesu tubaka nde yandi ikele Nzambi yandi mosi, ye nti ya kulwa vandaka ve mbi to kususuka, kansi zola ya bo lukaka. Bo bendaka yandi kuna na ngolo ve; yandi pesaka luzingu na yandi yandi mosi (Yoane 10:18). «Zola ya nene kuluta yai ikele ve, nde muntu pesa luzingu na yandi sambu na banduku na yandi» (Yoane 15:13)."
+  },
+  {
+   "w": "«Dibundu ikele lupangu ya bantu ya kufwana to kaka nzo.»",
+   "t": "Dibundu ikele ve kuvukana ya «banlongo ya kufwana,» kansi ya <b>bankwa masumu ya bo lolulaka</b>. Ata ntumwa Polo bingaka yandi mosi «ya ntete na kati ya bankwa masumu» (1 Timoteo 1:15). Dibundu ya ntete tudisanaka ye bwaka mpe (Bisalu 6:1; 1 Korinto 1:11). Yo ikele ve kisika ya kudikumisa, kansi bantu ya ke pesa zola ya bo bakaka (Yoane 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Masumu ya kibutuku — muntu mosi ya lunungu ikele ve",
+   "body": "Diambu ikele ve «bisalu fyoti ya mbi,» kansi nkuna ya ntima. Tuka Adami, konso muntu ke butuka na nsi ya masumu ye ke kuka ve na kukwenda na Nzambi yandi mosi.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "bonso yo ikele kusonama: Nkwa lunungu ikele ve, tamosi ve. Mosi ikele ve ya ngangu, mosi ikele ve ya sosa Nzambi. Bau yonso imene kuvila nzila, bau yonso imene kwiza mpamba, mosi ikele ve ya sala mbote, tamosi ve… kadi yonso imene kusala masumu, ye konda nkembo ya Nzambi,"
+  },
+  {
+   "title": "Nsiku ke kuka ve na kugulusa mono",
+   "body": "Nsiku ikele ve eskalye, kansi talatala. Mutindu nge ke sala ngolo mingi, mutindu yo ke songa nde nge me kulumuka kingungudila. Lukanu na yo ikele kunata beto na Klisto.",
+   "vref": "Roma 3:20 · Galatia 3:24",
+   "vtext": "kadi muntu mosi tanungiswa ve mu bisalu ya nsiku nantwala na yandi; kadi mu nsiku ikele kubasika nzailu ya masumu… Mpilayai nsiku imene kwiza nlongi ya beto sambu na kutwala beto kwa Klisto, na beto lenda kunungiswa mu lukwikilu."
+  },
+  {
+   "title": "Na nlemvo — dikabu, kansi ngolo ve",
+   "body": "Luguluku ikele ve mfutu sambu na bisalu ya nge salaka, kansi dikabu ya mpamba na bantu ya fwana yo ve. Yo yina muntu mosi lenda kudikumisa ve.",
+   "vref": "Efeso 2:8-9",
+   "vtext": "Kadi, mu nlemvo, beno vuluswaka mu lukwikilu, yo ikele sambu na beno kibeni ve, ikele matabisi ya Nzambi, ikele ve sambu na bisalu, na muntu lenda ve kuyana."
+  },
+  {
+   "title": "Bo me kumisa mono lunungu na nzila ya lukwikilu",
+   "body": "Na kuzitisa Nsiku ve, kansi na nzila ya lukwikilu na Yesu Klisto, bo ke kumisa nge lunungu — bo lwatisa nge na lunungu na nge mosi ve, kansi na lunungu na yandi.",
+   "vref": "Roma 5:1 · Galatia 2:16",
+   "vtext": "Mpilayai, sambu na beto imene kunungiswa mu lukwikilu, Mfumu Yesu Klisto ya beto ya imene kupesa beto yenge kwa Nzambi… muntu ikele kunungiswa mu bisalu ya nsiku ve, kansi mu lukwikilu mu Klisto Yesu."
+  },
+  {
+   "title": "Biblia ke songa Yesu",
+   "body": "Biblia ikele ve buku ya bantu ya nene to ya kudisadisa. Tuka Kuyantika tii na Kusonga, konso lutiti ke ta kimbangi ya muntu mosi — Yesu Klisto.",
+   "vref": "Yoane 5:39 · Luka 24:27",
+   "vtext": "Sosa mu masonukwa, sambu na beno banza, mu yau beno ikele na moyo mvu ya mvu, yai ikele yau ya tuba kitemo sambu na mono… Yandi yantikaka tuka Mose ye bambikudi yonso, ye tendudilaka bau masonukwa yonso, mambu yai ikele sambu na yandi."
+  },
+  {
+   "title": "Kimfumu ya Nzambi — nsangu ya ntima ya Yesu",
+   "body": "Diambu ya Yesu longaka kuluta yonso. Luyalu ya Nzambi bonso Ntotila bukunaka na nsi-ntoto yai na Yesu ye yo ke lungana ntangu yandi ke vutuka. Na nzila ya nti na yandi ye lufutumuku, Yesu ikele Ntotila ya kieleka ya nungaka masumu, lufwa ye Satana.",
+   "vref": "Malako 1:15",
+   "vtext": "Ntangu imene kulunga, ye kimfumu ya Nzambi ikele mfinama, pindula mabanzi ya beno, ye kwikila nsamu mbote."
+  },
+  {
+   "title": "Nsamu mbote — yandi sukisaka mambu yonso",
+   "body": "Ntalu ya masumu ya mono lendaka kufuta ata fyoti ve, Yesu futaka yo na kisika na mono na nti, ye na kufutumuka yandi nungaka lufwa. Mono ke tula ntima na «sala yo» ve, kansi na «mambu me suka.»",
+   "vref": "Yoane 19:30 · Roma 5:8",
+   "vtext": "Mambu imene… Kansi Nzambi songaka zola ya yandi kwa beto, kadi bu beto vandaka bankwa masumu Klisto fwilaka beto."
+  }
+ ],
+ "books": {
+  "Matayo": "MAT",
+  "Malako": "MRK",
+  "Luka": "LUK",
+  "Yoane": "JHN",
+  "Bisalu": "ACT",
+  "Roma": "ROM",
+  "1 Korinto": "1CO",
+  "2 Korinto": "2CO",
+  "Galatia": "GAL",
+  "Efeso": "EPH",
+  "Filipi": "PHP",
+  "Kolosai": "COL",
+  "1 Tesalonika": "1TH",
+  "2 Tesalonika": "2TH",
+  "1 Timoteo": "1TI",
+  "2 Timoteo": "2TI",
+  "Tito": "TIT",
+  "Filemoni": "PHM",
+  "Baebreo": "HEB",
+  "Yakobi": "JAS",
+  "1 Petelo": "1PE",
+  "2 Petelo": "2PE",
+  "1 Yoane": "1JN",
+  "2 Yoane": "2JN",
+  "3 Yoane": "3JN",
+  "Yuda": "JUD",
+  "Kusonga": "REV"
+ },
+ "yv": 1491,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
