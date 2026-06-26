@@ -1,0 +1,421 @@
+{
+ "menuName": "Runyankore",
+ "htmlLang": "nyn",
+ "dir": "ltr",
+ "font": null,
+ "brand": "Baibuli omu Kuraza Kumwe",
+ "docTitle": "Baibuli omu Kuraza Kumwe · Kuruga aha Kutandika kuhitsya aha Kanisa",
+ "share": {
+  "title": "Baibuli omu Kuraza Kumwe",
+  "text": "Omu kuraza kumwe, manya ekitebyo kihango kya Baibuli — n'enki Yesu yaijiire."
+ },
+ "ui": {
+  "people": "Abantu",
+  "events": "Ebikuru ebyabaireho",
+  "christLabel": "Nikyoreka Yesu",
+  "loveLabel": "Rukundo etarekyera",
+  "mythWrong": "Okuhabuka okwa buriijo",
+  "mythRight": "Eky'amazima",
+  "more": "Shoma ebindi",
+  "version": "(RKK2008)"
+ },
+ "labels": {
+  "start": "Okutandika",
+  "thread": "Ekitebyo",
+  "gospel": "Amakuru Marungi",
+  "about": "Ebirikukwataho"
+ },
+ "s": {
+  "ui.share": "↗ Gabana",
+  "ui.toast": "Ekihondeko kikopwa 📋",
+  "ui.footer": "Baibuli omu Kuraza Kumwe · Ebyahandiikirwe bikuukirwe omu RKK2008",
+  "hero.kicker": "KURUGA AHA KUTANDIKA KUHITSYA AHA KANISA",
+  "hero.title": "Baibuli,<br><span class=\"em\">omu kuraza kumwe</span>",
+  "hero.sub": "Omu kuraza kumwe, manya ekitebyo kihango kya Baibuli — n'enki Yesu yaijiire.",
+  "hero.cue": "Raza ahansi<span>↓</span>",
+  "thread.eyebrow": "EKIGAMBO KIMWE EKIRIKUHONDA BYONA HAMWE",
+  "thread.h2": "Aha muheru, Baibuli n'ekitebyo kimwe kyonka",
+  "thread.flow": "<b>Endagaano</b><span class=\"arw\">→</span><b>Okutegyereza</b><span class=\"arw\">→</span><b>Okuhikiirizibwa</b>",
+  "thread.note": "Ruhanga <b>naaragaana</b> (endagaano), abantu <b>nibategyereza</b> obwiire buraingwa, haza aha muheru byona <b>nibihikiirizibwa</b> kandi bihikye omuri Yesu. Kuratira ebicweka 13 ebiri ahansi omu muringo ogwo — kuta aha <b>“Shoma ebindi”</b> aha buri kaadi kureeba ekitebyo ky'omunda.",
+  "gospel.eyebrow": "EKI EKITEBYO EKI NIKIMANYISA AHARI “NYOWE”",
+  "gospel.h2": "Omutima gw'amazima ogwa Baibuli",
+  "gospel.lead": "Baibuli <b>tikitabo ky'okwegyesa “okuba omuntu murungi.”</b>",
+  "gospel.sublead": "N'ekitebyo ky'oku Ruhanga, <b>ahabw'embabazi zonka</b>, yaajwiine abasiisi abataabaasize kwejuna. Aha mutima gwakyo nahaimirira Yesu Kristo.",
+  "gospel.mirror": "<h3>Enzira ya Isiraeli etarikuhwaho n'ekishushani ekya “nyowe”</h3><div class=\"cycle\"><b>Okuramya ebishushani</b><span class=\"a\">→</span><b>Okubonabona</b><span class=\"a\">→</span><b>Okuteera enduuru</b><span class=\"a\">→</span><b>Ruhanga naajuna</b><span class=\"a\">→</span><b>Bagaruka kuramya ebishushani…</b></div><p>Kuruga aha Baramuzi kuhitsya aha kunyagwa, Isiraeli baagaruka batyo aha nzira egi obutahwaho. Baibuli tikahandiika eki ngu tugye nitubasheka, “Ka baabaire bari baboneki.”</p><p>N'<b>endeebeezo</b>. Ekirikukuru tikiri ngu “Isiraeli nibo baakora batyo” kureka <b>“nainye ninkora ekimwe”</b> (1 Abakorinto 10:11).</p><p><b>Ekishushani</b> tikiri kishushani ky'omuti kyonka. N'<b>ekintu kyona eki turikukunda nari okwesiga okukira Ruhanga</b> — esente, okusingura, okuhwezibwa, abantu, nainga nyowe wenka. Kandi okukoresa Ruhanga nk'<b>eky'okuhikiiriza ebyo nyenda</b> nako n'okuramya ebishushani.</p><p class=\"punch\">Aha muheru, ekishushani eky'amaani munonga n'eki “nyowe wenka okushutamye aha kitebe kya Ruhanga.”</p>",
+  "gospel.coreIntro": "Mbwenu Ruhanga naajuna ota omusiisi nk'ogu? Ogu nigwo mutima gw'amakuru marungi ago Baibuli erikurangirira.",
+  "gospel.crux": "<p class=\"crux-lead\">Baibuli yoona neeyoreka ahantu hamwe.</p><p>Abantu tibaabaasize kucwaho enzira y'ekibi bonka, kandi tihariho n'omwe owaabaire ahikiriire. N'ahabw'ekyo hakaba haine owaabaire ashemereire <b>kushashura omuhendo omu mwanya gwaitu</b>.</p><p>Yesu taraaijire kwegyesa ebirungi bonka. Hatakaabaireho enzira endiijo y'okunjuna, <b>akaba ataine ekindi kureka kwija.</b></p><p class=\"crux-punch\">Owaabaire ashemereire kubambwa aha musharaba ogwo akaba ari <b>nyowe</b>.<br>Yesu akaheeka <b>ekibi kyangye</b> yaabambirwaho omu mwanya gwangye.</p><div class=\"crux-verse\">“Kwonka akahutaazibwa ahabw'ebicumuro byaitu, yaareebesibwa enaku ahabw'ebibi byaitu… emihiririzi ye niyo yaatukirize.” — Isaaya 53:5</div>",
+  "faq.h": "Hakihari ekirikukuteganisa?",
+  "faq.q1": "<span class=\"arr\">▸</span> Mbwenu omwitsi naayikiriza yaaza omu iguru, kandi omuntu owaabaire na'magara marungi obwomi bwe bwona kwonka atayikiriize naaza omu muriro?",
+  "faq.a1": "<p>N'ekibuuzo kirungi. Kwonka harimu okuhabuka kubiri okuserekirwemu.</p><p><b>① Baibuli tegabanisa abantu omu “barungi n'ababi.”</b> Ekipiimo tikiri “okukira owaaha rubaju lwawe” kureka “obwera obuhikiire bwa Ruhanga.” Omu maisho ge, tihariho n'omwe ori “murungi kihikire” (Abarooma 3:23). N'ahabw'ekyo eki tikiri “omuntu murungi vs. omwitsi,” kureka kiri nk'abantu babiri abaine endwara emwe erikwita — omwe naayakira omubazi, ondiijo naagugaana naagira ati, “nyowe ndi mugumire okukira ogwo.”</p><p><b>② Hariho ekintu kimwe kyonka ekirikutaanisa eiguru n'omuriro.</b> Tikiri ekipiimo ky'emirimo, kureka <b>oku waakiriize Yesu Kristo nk'Omukama haza ekibazo ky'ekibi kyaakyo kyamara.</b> Owaakijwa ekibi ahabw'eshagama ya Kristo naaza omu iguru; otarikumwakiira, owaagumana ekibi kye, taza. Tihariho mirimo mirungi erikubaasa kukira ekibazo ky'ekibi kyenyini.</p><p>N'ahabw'ekyo eiguru n'omuriro tibiri “ekiconco ahabw'omutwarize murungi” kureka n'ekibazo ky'<b>okukwatangana na Kristo</b>. Kandi “okwikiriza” tikiri okwikiriza kw'omu mutwe kwonka, kureka n'okuhindura ondi orikutwara obwomi bwawe: owaamwakira buzima taraaba muhonzi, kureka naagaruka naayegarukamu kukira. Nibwo <b>okwehimba kwawe wenka</b> ngu “nyowe ndi murungi” kuri ekishushani eky'amaani munonga okucwaho, eki ekirikututeekateekisa ngu titwetenga Kristo (Luka 18:9-14).</p><p>Baibuli neegamba kimwe: <b>“Weena orikwikiriza Mwana, tarikusingwa rubanja; kwonka weena otarikwikiriza, orubanja rwamusingire”</b> (Yohaana 3:18). Okucwa orubanja tikuri “okupiima obwomi bwawe ku oraafe,” kureka kwacwirwe dyaadyo kurugiirira aha <b>oku waakiriize Kristo</b>.</p><p class=\"faq-v\">Abarooma 3:23 · Yohaana 3:18 · Abeefeso 2:8-9 · Luka 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Tinkibaasa kutuura nki obwomi burungi nyime kwikiriza Yesu?",
+  "faq.a2": "<p>N'ekiteekateeko ekiine abantu baingi, kwonka nikihabuka aha ekibazo eky'amazima eki kiri. Reeba ekishushani.</p><p><b>Manya ngu ori omu meeri y'abasuma.</b> Nobu oraayonze obutsigye, oba murungi aha bakozi, kandi obwomi bwawe buri burungi munonga — okiri <b>omusuma</b>, ahabw'okuba neeku tweka hamwe n'emeeri ahu erikuza (aha kicweka ky'okucwa orubanja). Ekibazo tikiri “ekipiimo ky'ebi orikukora” kureka <b>“meeri ki ei oriho” (oku oeyeetegyereza)</b>.</p><p>N'ahabw'ekyo amakuru marungi tigarikugamba ngu “teeraho munonga okuba murungi”; nigagamba ngu <b>“hindukira aha meeri endiijo.”</b> Ruga aha meeri y'ekibi oze ahari Yesu: omu kweyetegyereza okusya nk'<b>omwana wa Ruhanga</b>. Tikiri kweongyera aha kipiimo kyawe ahabw'amaani gaawe, kureka n'okwesiga Ogwo orikukugorora omukono yaakuhindukya aha meeri ye.</p><p>Buzima Baibuli neeshoboorora okujunwa nk'okwo kuhindukya: <b>“Niwe yaatuzaahwire omu kutegyekwa omwirima, akatutaasya omu bukama bw'Omwana we omukundwa”</b> (Abakolosai 1:13).</p><p>Otahabuka: <b>tikiri ngu obwomi burungi tibwine maani.</b> Kureka oburungi tiburi “ekiragiro” ky'okujunwa kureka n'<b>ebijuma</b> byakwo. Owaahindukire aha meeri endiijo nibwo aturura gye, atari ahabw'okutiina kureka ahabwa <b>rukundo y'omwana</b>.</p><p class=\"faq-v\">Abakolosai 1:13 · Yohaana 1:12 · Yohaana 3:3 · Abeefeso 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Ku omuhutaazi araagambe ngu “Ruhanga yaanyaganiire” yaatuura n'obusingye, obwo owaahutaaziibwe akiri omu busaasi — okugaaniira oku tikuri okw'ohi munonga?",
+  "faq.a3": "<p>Ekibuuzo n'ekihikiire, kandi obusaasi obwo n'obw'amazima. Kwonka okugamba nk'oku tikuri “okugaaniira okwa Baibuli” — n'<b>okuhindura</b> kwakwo.</p><p><b>① Okugaaniira kwa Ruhanga tikuri okw'ohi.</b> Ekibi tikitwekirwa ngu kihwireho kimwe ku kitaakora; Ruhanga we wenka yaakishashwiriire n'amagara g'Omwana we. Omusharaba tigukworeka ngu ekibi nikifuruurwa, kureka oku ekibi kiri kizito — n'okugaaniira okw'omuhendo munonga omu nsi.</p><p><b>② Okwegarukamu okw'amazima nikwana ebijuma.</b> Ku omuhutaazi araagumane aha owaahutaaziibwe naagira ati, “Ruhanga yaanyaganiire, ndi omu busingye,” okwo tikuri kwegarukamu kureka n'okukushushanisa (Matayo 3:8). Kandi okugaaniira ahagati y'omuntu na Ruhanga tikuhweza ekironda ky'owaahutaaziibwe nari kumuhamiza kugaaniira.</p><p><b>③ Ekibi tikirekwa “butaberwaho.”</b> Buri kibi nikishashurwa omu bwanya bumwe aha bubiri: <b>nari Kristo akiheeka aha musharaba</b> (aha rikwikiriza tihakiriho kucwa rubanja, Abarooma 8:1), <b>nari ogwo orikukigaana okuhitsya aha muheru naakiheeka we wenka.</b> N'ahabw'ekyo tihariho “kugaaniira okw'ohi.” Omuhutaazi naacwa orubanja n'omu mateeka g'ensi egi (Abarooma 13:1-4).</p><p><b>④ Amarira g'owaahutaaziibwe tigaba magufu omu maisho ga Ruhanga.</b> Ruhanga naarira hamwe n'abarikurira, naijuka buri rira, haza aha muheru aryagaragaza we wenka (Okushuuruurirwa 21:4). N'ahabw'ekyo owaahutaaziibwe tateeka kuheeka obuzito bw'okuhoora enzigu wenka, kureka naabaasa kukubikira Ruhanga ohikiire (Abarooma 12:19 — “Okuhoora enzigu n'okwangye; niinye ndihoora, nikwo Mukama arikugamba”).</p><p class=\"faq-v\">Matayo 3:8 · Abarooma 8:1 · Abarooma 13:1-4 · Okushuuruurirwa 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Buzima Baibuli n'ekitebyo ky'amazima? Neereeba nk'omugani gwa ira nari nk'ekitabo ky'omugani.",
+  "faq.a4": "<p>N'ekibuuzo kihikiire — kandi n'okutandikira okurungi. Okugira okubanganisa tikuri ekishushane ky'okwikiriza kureka n'okwenda kucondooza ebintu omu mazima. Baibuli tikiri mugani gwa busha ogw'“okwikiriza ku waakwenda,” kureka n'ebyahandiikirwe aha <b>maani, ennaku n'abantu eby'amazima</b>. Reeba ebyokuhwera bikye.</p><p><b>① Tikitabo kimwe kureka “ekiteeko ky'ebitabo” — kwonka neegyenda aha kigambo kimwe.</b> Baibuli n'ekiteeko ky'<b>ebitabo 66</b> ebyahandiikirwe omu myaka nka <b>1,500 abahandiiki nka 40</b> — bagabe, abariisa, abajubi, omukuukuuza w'ezooro, omushaho, abantu b'emikago n'obwiire bw'embuza-mbuzane, abaahandiikire boona omu kwesha-shanira, batamanyana, omu ndimi ishatu (Oruheburaayo, Oruaramaiki, Oruyunaani). Kwonka byona nibihikira hamwe, butaina kuhuriganisa, aha <b>kigambo kimwe: okujunwa ahabwa Kristo</b>. Ogwo n'oguhwere oguzibu kushoboorora ahabw'okutyana nari okuteekanisa kw'abantu.</p><p><b>② Nibigumizamu kuhamisibwa kuruga omu nsi (okwecondooza eby'ira).</b> Ebintu bingi ebyabaire bihindwa ebigwirwe, “ebyabaire biri omu Baibuli yonka,” aha nyima byaahamiisibwa okwecondooza okutimbisa. <b>Omuryango gwa Daudi</b> ahabw'eibaare eririkugira “enju ya Daudi” (Eibaare rya Teli Dani); <b>Pontio Pilato</b>, omugabe owaayisize Yesu, ahabw'ebyahandiikirwe ebiine eiziina rye; omuringa gw'amaizi ogwa Hezekiya omugabe (2 Bagabe 20:20), ahabw'omuringa gwenyini n'ebyahandiikirwe byagwo. Nobu <b>Abahiiti</b>, abaayetsirwe “eihanga ery'omu kiteekateeko” bumwe, baazuukira nk'obukama buhango omu matongo.</p><p><b>③ N'ekyahandiikirwe ekya ira ekirindirwe gye munonga (ebyahandiikirwe byenyini).</b> Aha muhendo gw'ebyahandiikirwe ebishigaireho, aha kukirizana kwabyo, n'aha bwiire ahagati y'okuhandiika n'okukyooreka, Baibuli <b>tina kiyetagana omu byahandiikirwe bya ira</b>. Empapura za Isaaya ezaabaireho Kristo atakaijire, omuri <b>Empapura za Enganga ya Rufu</b> (ezaazuukirwe omu 1947), zikahwerana enyuguta-nyuguta n'ekyahandiikirwe ekihamu eky'emyaka nka 1,000 enyima — n'oguhwere ngu Baibuli ekarindwa kihikire omu bwiire bwona.</p><p><b>④ Ebyahandiikirwe kare nibwo byabaireho kimwe (okuranga).</b> Endagaano ya Ira, ehandiikirwe emyaka mingi Yesu atakaijire, neeyoreka kimwe okuzaarwa kwe omuri Beteleemu (Miika 5:2), omuheereza orikubonabona (Isaaya 53:5), n'embeera y'omusharaba (Zaaburi 22). Bihikiire munonga okuhindurwa eky'okutyana.</p><p><b>⑤ Abahandiiki b'ebya ira abari aheeru ya Baibuli nabo bakahandiika ahari yo.</b> Omuhandiiki w'Ekirooma <b>Tacito</b> n'omuhandiiki Omuyudaaya <b>Yosefo</b> — boombi bataari Bakristaayo — nibagamba ahari Yesu, okwitwa kwe, na kanisa ya ira. Okukira byona, abeegi abaabaire bakashaaganira ahabw'okutiina <b>baatamu amagara gaabo</b> nibahamya ahari okuzooka — tihariho ofeera eky'amanyire ngu n'eky'obushuba.</p><p>Ku tuza kugamba amazima, ebishingirwaho ebi nibyoreka ngu okwikiriza Baibuli <b>tikuri kw'obushuba kureka n'okw'omeisho</b>; tibiri “oguhwere” oguhamiza nk'okubara kw'ebibaro. N'ahabw'ekyo obuhame bw'Omukristaayo tiburuga aha bishingirwaho byonka, kureka aha <b>buhame obu Mutima Orikwera arikuha omutima omuntu obu arikushoma Ekigambo</b>. Baibuli neegamba — <b>“Okwikiriza kuruga omu byahurirwa, n'ebyahurirwa biruga omu kurangirira Kristo”</b> (Abarooma 10:17). N'ahabw'ekyo nobu yaakushushana eky'oguni, <b>okugishoma we wenka</b> nikwo kutandika. Ebishingirwaho nibikingura eiryango, kandi obuhame nibukura omunda y'orikushoma.</p><p class=\"faq-v\">2 Bagabe 20:20 · Isaaya 53:5 · Miika 5:2 · Abarooma 10:17</p>",
+  "respond.h3": "Mbwenu — nyowe naakora ki?",
+  "respond.sub": "Rukundo egi tikuri makuru kureka n'<b>okweetwa</b>. Ku rukundo eyaabambirwe omu mwanya gwawe yaakuza aha mutima, shaba okushaba oku ahonaaha mpora-mpora, omurongo aha mwe.",
+  "respond.prayer": "<p>Ruhanga,</p><p>nineikiriza ku ndi omusiisi otarikubaasa kwejuna.</p><p>Nineikiriza ku Yesu yaanfeera aha musharaba kandi yaazooka.</p><p>Nyaganira ebibi byangye byona, haza kuruga hati obe Mukama w'obwomi bwangye.</p><p>Nyakira nk'omwana waawe, ompe kutuura obwomi obusya.</p><p class=\"amen\">Omu eiziina rya Yesu nineshaba. Amiina.</p>",
+  "respond.after": "Ku waashaba oku omu mazima, Baibuli neegamba ku waahinduka <b>omwana wa Ruhanga</b>. Toakiri wenka — sherura kanisa eri haihi otambukire na bandi omu kwikiriza.",
+  "respond.read": "Shoma Baibuli we wenka — tandikira aha Yohaana",
+  "respond.verse": "“Kwonka abaamwakiire bakamwikiriza, akabaha obushoboorozi bw'okuba abaana ba Ruhanga.” — Yohaana 1:12 · Abarooma 10:9-10",
+  "closing.main": "Ruhanga omwe,<br>ahabw'ekitebyo kimwe,<br>naatusherura na <em>rukundo</em><br>etarekyera kimwe.",
+  "closing.verse": "“Yaaba rufu, yaaba magara… nainga ekintu kyona ekyahangirwe, ekiribaasa kututaanisa na rukundo ya Ruhanga, eri omuri Kristo Yesu Mukama waitu.” — Abarooma 8:38-39",
+  "closing.small": "Aha kitebyo eki, Eiteeka, ebitabo by'ekishongoro, abarangi n'ebbaruha nibyongyera “omubiri.”<br>Kuruga hati, ekitabo kyona eki oraashome, oryamanya “ohi ori omu kitebyo.”",
+  "closing.share": "↗ Gabana ekitebyo eki",
+  "about.line": "Ebirimu bishingiire aha kuteekateeka okw'<b>okujunwa omu byabaireho, okw'amakuru marungi · okwa Reformed</b> oku Abakristaayo baingi b'omu Korea barikugabana.",
+  "about.contact": "Ebibuuzo · ebiteekateeko — <a id=\"contact\" class=\"mail\">Tuhandiikire emeeri</a>"
+ },
+ "epochs": [
+  {
+   "tag": "ENDAGAANO YA IRA · OKUTANDIKA",
+   "title": "Okuhanga",
+   "date": "Omu kutandika",
+   "one": "Ruhanga akahanga ensi “erungi munonga.”",
+   "people": "Ruhanga; Adamu na Hawa",
+   "events": "Ennaku mukaaga ez'okuhanga, omuntu yaahangwa omu kishushani kya Ruhanga, okuhuumura kwa Sabato",
+   "q": "Omu kutandika kw'ebintu byona obu Ruhanga yaahanga eiguru n'ensi,",
+   "cite": "Okutandika 1:1",
+   "christ": "Ensi ekahangwa ahabwa “Kigambo.” Engiri ya Yohaana neegamba ku Kigambo ogu ari Yesu wenka (Yohaana 1:1-3).",
+   "detail": "<p>Baibuli tetandika n'empaka z'obwengye, kureka n'okugamba: <b>“Omu kutandika, Ruhanga…”</b> Ensi tiyaabaireho ahabw'okutyana kureka n'omurimo gwa Ruhanga ow'omuntu.</p><ul><li><b>Ekishushani kya Ruhanga</b> · omu byahangirwe byona, omuntu wenka niwe yaahangirwe kushushana Ruhanga — kumumanya n'okurinda ensi.</li><li><b>Okuhuumura</b> · okuhuumura kw'eizooba erya mukaaga nikworeka ngu byona bikahika kandi biri n'obusingye (shalomu): “byaba birungi.”</li><li><b>Edeni</b> · ensi etakasiisikara, omu Ruhanga n'omuntu barikutambura hamwe.</li></ul>",
+   "next": "Kwonka obuhikye obu nibwija kusiisikara…"
+  },
+  {
+   "tag": "ENDAGAANO YA IRA · EKIBAZO NIKITANDIKA",
+   "title": "Okugwa",
+   "date": "Omu kutandika",
+   "one": "Ekibi kikataaha, okukwatangana ahagati y'omuntu na Ruhanga kwacwekamu.",
+   "people": "Adamu na Hawa; enjoka (Sitaani)",
+   "events": "Okurya ekijuma ekyaabaire kihaniriziibwe, okubingwa omuri Edeni, okutaaha kwa rufu n'omurimo gw'amaani",
+   "q": "Ndyakwanganisa n'omukazi, oruzaaro rwawe n'orwe bibeerane abazigu. Orwo ruzaaro rukuhondahonde omutwe, naiwe orurume ekitsintsiino.",
+   "cite": "Okutandika 3:15",
+   "christ": "Endagaano y'amakuru marungi ey'okubanza, ehairwe ahanyima y'okugwa: “oruzaaro rw'omukazi” rukuhondahonde omutwe gw'enjoka. Ogwo niwe Yesu (Okutandika 3:15; Abarooma 16:20; Abagalatiya 4:4).",
+   "detail": "<p>Ahabw'okugaiha okw'okwenda “kuba nka Ruhanga,” ekibi kikataaha omu nsi. Ekyavaamu tikiri kucwa kiragiro kyonka, kureka n'<b>okucwekamu kw'okukwatangana</b>.</p><ul><li><b>Okukwatangana okwacwekamu</b> · na Ruhanga (okwesherekya), n'abandi (okushinja), n'obutonde (amahwa n'omurimo).</li><li><b>Rufu</b> · okuhanangirizibwa “oryafa buzima” kukahikiirira.</li><li><b>Okutandika 3:15</b> · kwonka omu kucwa orubanja, endagaano y'okujunwa neeija ebanza. Abeegi nibagyeta <b>“protoevangelium” (amakuru marungi g'okubanza)</b>.</li></ul>",
+   "next": "Hati Ruhanga naayeta omuntu omwe atandike okujuna…"
+  },
+  {
+   "tag": "ENDAGAANO YA IRA · ENDAGAANO",
+   "title": "Ba Sokuruza",
+   "date": "nka 2000 EBC",
+   "one": "Ruhanga naaragaana Iburahimu ati: “Oryaba muriro gw'omugisha.”",
+   "people": "Iburahimu · Isaaka · Yakobo · Yusufu",
+   "events": "Endagaano na Iburahimu, okwehayo kwa Isaaka, abaana ba Yakobo ikumi na babiri, Yusufu yaaba mutegyeki omu Misiri",
+   "q": "Ndyakwihamu eihanga rihango… Omuriiwe enganda zoona ez'omu nsi nimwo ziriheerwa emigisha.",
+   "cite": "Okutandika 12:2-3",
+   "christ": "Endagaano ngu “enganda zoona nizireeberwa omugisha” neehikiirira omuri Yesu, oruzaaro rwa Iburahimu (Abagalatiya 3:16).",
+   "detail": "<p>Ruhanga naatandika kucwaho ekibazo ky'abantu boona ahabw'okuyeta omuntu omwe, <b>Iburahimu</b>. Omutima gwakyo n'<b>endagaano</b> — eihanga rihango, ensi, n'“omugisha aha nganda zoona.”</p><ul><li><b>Okwikiriza</b> · Iburahimu akeikiriza endagaano etarikureebwa, yaabarwa kuba ohikiriire (Okutandika 15:6).</li><li><b>Isaaka na Yakobo</b> · endagaano neegyenda omu rusyo orurikukuratiraho; Yakobo (Isiraeli) niwe ishe w'emiryango ikumi na ibiri.</li><li><b>Yusufu</b> · yaaguzibwa ba nyina(e), yaaba mutegyeki omu Misiri — “Ruhanga akakiihamu ebirungi” (Okutandika 50:20).</li></ul>",
+   "next": "Omuryango gukaserengyetera Misiri nigukuratira Yusufu… gwaayaaba bahuuku."
+  },
+  {
+   "tag": "ENDAGAANO YA IRA · OKUJUNWA",
+   "title": "Okuruga n'Eihamba",
+   "date": "nka 1446 EBC",
+   "one": "Ruhanga naajuna abantu abaabaire bahuuku, yaababa abe.",
+   "people": "Musa, Aaroni, Faraawo",
+   "events": "Ebibonyo ikumi, Pasika, okurabamu Engyanja Etukuura, Ebiragiro Ikumi aha Sinai, eihema, emyaka 40 omu ihamba",
+   "q": "Kandi ndyabahindura abantu bangye, mbe Ruhanga waanyu…",
+   "cite": "Okuruga 6:7",
+   "christ": "Pasika, omu eshagama y'omwana gw'entaama yaajwiine rufu, neeyoreka Yesu, “Pasika yaitu,” owaabambirwe ahabwaitu (1 Abakorinto 5:7).",
+   "detail": "<p>Okujuna kuhango munonga okw'omu Ndagaano ya Ira. Isiraeli abaabaire bahuuku, baaheebwa obugabe ahabw'amaani ga Ruhanga, baahindurwa <b>abantu</b> be.</p><ul><li><b>Pasika</b> · enju eriine eshagama y'omwana gw'entaama aha ryango neejunwa rufu; ekitebeekanisa eky'ebitambo byona ebiijire enyima.</li><li><b>Engyanja Etukuura</b> · okujunwa obu engyanja eyaata omu nzira etaina muheru; “okurabira ahandiijo” nk'akamanyiso k'okutandika okusya.</li><li><b>Endagaano ya Sinai</b> · ahabw'Ebiragiro Ikumi nibega oku batuura nk'abantu ba Ruhanga.</li><li><b>Eihema</b> · ahatukuura harikutwaarwa omu Ruhanga atuura omu bantu be: okutanga kwa “Emanueli.”</li><li><b>Emyaka 40</b> · ahabw'okugaiha oruzaaro rumwe rukatambura omu ihamba, kwonka Ruhanga akaba nabo na maana n'enkondo y'ekicu n'omuriro.</li></ul>",
+   "next": "Bemereire omu maisho g'ensi y'endagaano, beeteekateekye kutaaha…"
+  },
+  {
+   "tag": "ENDAGAANO YA IRA · OKWIKARA",
+   "title": "Okwehambira n'Abaramuzi",
+   "date": "nka 1400–1050 EBC",
+   "one": "Bakatunga ensi, kwonka bataine mugabe, buri muntu naayekorera eki arikwenda.",
+   "people": "Yoshwa; abaramuzi nka Gideoni na Samusoni; Ruuti",
+   "events": "Okugwa kwa Yeriko, okwehambira omu Kanaani, enzira erikugaruka ey'ekibi–okucwa orubanja–okujunwa",
+   "q": "Omu biro ebyo Abaisiraeli bakaba bataine mugabe, buri muntu naayekorera eki arikwenda.",
+   "cite": "Abaramuzi 21:25",
+   "christ": "Aha ruzaaro rwa Ruuti haruga Daudi, kandi aha ruzaaro rwa Daudi haruga Yesu (Matayo 1). Nobu omu kuhuriganisa, oruzaaro rwa Masiya nirugumizamu.",
+   "detail": "<p>Omuri Yoshwa nibataaha omu nsi y'endagaano, kwonka baikara baahwera-hwera kwijuka Ruhanga. Abaramuzi n'okugaruka kw'enzira emwe.</p><ul><li><b>Enzira y'ekibi</b> · ekibi → okuhibwa → okuteera enduuru → omuramuzi naajuna → ekibi nigaruka, buriijo nikiongyera.</li><li><b>Abaramuzi</b> · Gideoni, Samusoni, Debora… abajuni b'okwakatebe, abazira kwonka abaine ebibi bingi.</li><li><b>Ruuti</b> · ekitebyo ky'okwesigwa omu biro by'omwirima; omukazi w'omunyamahanga naataaha omu ruzaaro rwa Daudi (na Yesu).</li></ul>",
+   "next": "Abantu nibateera enduuru bati: “Tuhe omugabe naitwe!”…"
+  },
+  {
+   "tag": "ENDAGAANO YA IRA · OBWIRE BURUNGI",
+   "title": "Obukama Bwemwe",
+   "date": "nka 1050–930 EBC",
+   "one": "Ruhanga naaragaana Daudi ati: “Ekitebe kyawe kiryaguma ebiro byona.”",
+   "people": "Saulo · Daudi · Solomooni",
+   "events": "Omugabe w'okubanza Saulo, Daudi na Goliyaati, endagaano na Daudi, ekereziya kya Solomooni",
+   "q": "Ndyagumyaho ab'omuryango gwawe n'obugabe bwawe, mpamye ekitebe kyawe ebiro byona.",
+   "cite": "2 Samueli 7:16",
+   "christ": "“Ekitebe ekitahwaho” nikihikiirira omuri Yesu, oruzaaro rwa Daudi; nikyo arikwetwa “Mwene Daudi” (Luka 1:32-33; Matayo 1:1).",
+   "detail": "<p>Obwiire burungi bwa Isiraeli, omu bagabe bashatu.</p><ul><li><b>Saulo</b> · omugabe w'okubanza ou abantu baashaba; akatandika gye, kwonka yaagaanwa ahabw'okugaiha.</li><li><b>Daudi</b> · “omuntu owaagyendeziganire n'omutima gwa Ruhanga.” Naasingura Goliyaati, yaaba Yerusalemu ekitebe ky'obukama. Naakora ekibi kihango (Baseba), kwonka yaayegarukamu n'omutima gwona (Zaaburi 51).</li><li><b>Endagaano na Daudi (2 Samueli 7)</b> · Ruhanga naaragaana kugumya omuryango gwa Daudi ebiro byona: omuzigo gw'amaani gw'amatsiko ga Masiya.</li><li><b>Solomooni</b> · omu busingye bw'obwengye n'eitungo naayombeka <b>ekereziya</b> omuri Yerusalemu, kwonka aha muheru yaagwa omu kuramya ebishushani.</li></ul>",
+   "next": "Ahanyima ya Solomooni, obukama bwaheebwamu kabiri…"
+  },
+  {
+   "tag": "ENDAGAANO YA IRA · OKUGWA AHANSI",
+   "title": "Obukama Obwaheebwemu",
+   "date": "930–586 EBC",
+   "one": "Bwaheebwamu omu mukama (Yuda) n'amwena (Isiraeli), bwaasiisikara mpora-mpora.",
+   "people": "Abagabe b'obukama bwombi; abarangi nka Eliya, Isaaya na Yeremiya",
+   "events": "Okuheebwamu kw'obukama, okuramya ebishushani, okuhanangiriza kw'abarangi",
+   "q": "Abaisiraeli nikwo baagomeire batyo ab'omuryango gwa Daudi, n'okuhitsya eri izooba.",
+   "cite": "1 Bagabe 12:19",
+   "christ": "Omu bwiire obu abarangi nibaranga Masiya orikwija kimwe okukira (Isaaya 9:6; Isaaya 53).",
+   "detail": "<p>Omu biro by'omwana wa Solomooni obukama nibuheebwamu: <b>Isiraeli (amwena)</b>, emiryango ikumi, ekitebe Samariya; na <b>Yuda (omukama)</b>, emiryango ebiri, ekitebe Yerusalemu.</p><ul><li><b>Amwena</b> · abagabe baayo boona nibaramya ebishushani; bwaagwa ahari Ashuru omu 722 EBC.</li><li><b>Omukama</b> · oruzaaro rwa Daudi nirugumizamu, hariho abagabe barungi nka Hezekiya na Yosiya, kwonka byona nibigwa ahansi.</li><li><b>Abarangi</b> · Eliya, Amosi, Isaaya, Yeremiya nibateera enduuru bati “mugaruke!” Aha niho okuranga Masiya kuri kwingi munonga (“omuheereza orikubonabona” owa Isaaya 53).</li></ul>",
+   "next": "Aha muheru okucwa orubanja okwahanangiriziibwe kukaija — bakatwarwa omu buhuuku…"
+  },
+  {
+   "tag": "ENDAGAANO YA IRA · OKUCWA ORUBANJA",
+   "title": "Okunyagwa",
+   "date": "722 / 586 EBC",
+   "one": "Obukama bwaagwa, abantu baatwarwa omu mahanga.",
+   "people": "Daniyeli, Ezekieli, Nebukadineza",
+   "events": "Isiraeli bwaagwa ahari Ashuru (722); Yuda bwaagwa ahari Babulooni, ekereziya kyaasiisikara (586)",
+   "q": "Tukashutama aha rubaju rw'emigyera ya Babulooni, twarira, ahabw'okwijuka Siyooni.",
+   "cite": "Zaaburi 137:1",
+   "christ": "Omu kushaaga kw'amaani, Yeremiya naaragaana “endagaano ensya” (Yeremiya 31:31): endagaano egyo Yesu yaahamya aha kyokurya ky'omuheru.",
+   "detail": "<p>Okuhanangiriza nikuhikiirira. Ekereziya nikishana, abantu baatwarwa Babulooni: bakafeerwa ensi, omugabe n'ekereziya, akabi munonga.</p><ul><li><b>Okugwa kubiri</b> · Isiraeli (Ashuru, 722 EBC) na Yuda (Babulooni, 586 EBC).</li><li><b>Daniyeli</b> · ekitebyo ky'okwikiriza nobu kiri omu rugo rw'abapagani (omu kina ky'entare); naareeba okworeka kw'“obukama obutahwaho” oburikwija.</li><li><b>Akamuriro k'amatsiko</b> · okworeka kw'amagufa amakaramukire agarikugaruka kuhuumura (Ezekieli 37) n'“endagaano ensya” ya Yeremiya nibyoreka obuhwere omu mwirima.</li></ul>",
+   "next": "Emyaka 70 enyima, Ruhanga naakingura enzira: nibagaruka omuka…"
+  },
+  {
+   "tag": "ENDAGAANO YA IRA · OKUGARURWA",
+   "title": "Okugaruka kuruga omu Buhuuku",
+   "date": "538–430 EBC",
+   "one": "Nibagaruka baayombeka ekereziya n'ebicwezo by'orurembo.",
+   "people": "Ezera, Nehemiya, Esiteeri, Zerubabeli",
+   "events": "Okugaruka ahabw'eiteeka rya Koresi, okwombeka ekereziya, okuhindura ebicwezo bya Yerusalemu, okugarurwa kw'Ekigambo",
+   "q": "Okushemererwa kwa Nyakubaho nigo maani gaitu.",
+   "cite": "Nehemiya 8:10",
+   "christ": "Malaki, ekitabo ky'omuheru ekya Ndagaano ya Ira, nikiraanga entumwa erikutebeekanisiza Masiya omuhanda: “Reeba, nintuma entumwa yangye” (Malaki 3:1).",
+   "detail": "<p>Okugaruka kukatandika n'eiteeka rya Koresi owa Perusiya (538 EBC). Omu mibatsyo eshatu nibagaruka baayombeka ebyaagwire.</p><ul><li><b>Zerubabeli</b> · naayombeka ekereziya (kyaahikya omu 516 EBC).</li><li><b>Ezera</b> · naayegyesa Ekigambo, yaagarura okwikiriza.</li><li><b>Nehemiya</b> · naayombeka ebicwezo bya Yerusalemu omu nnaku 52.</li><li><b>Esiteeri</b> · naajuna Abayudaaya b'omu Perusiya okwitwa kimwe: “ahabw'obwiire obu obundi.”</li><li><b>Eiriho ririkugumizamu</b> · ekereziya kiriho, kwonka tihariho omugabe nka Daudi. Abantu nibategyereza Masiya.</li></ul>",
+   "next": "Haza… nk'eiguru ririkucumbira, emyaka 400 ey'akasiriikiriro ikaija."
+  },
+  {
+   "tag": "AHAGATI Y'ENDAGAANO · OKUTEEKANISA OMUHANDA",
+   "title": "Emyaka y'Akasiriikiriro",
+   "date": "nka 430–4 EBC",
+   "one": "Emyaka 400 etaine ilaka ry'omurangi; kwonka omuhanda gwakaba nigutebeekanisibwa omu kasiriikiriro.",
+   "people": "Alegizanda Mukuru, Abamakabeeho, Rooma",
+   "events": "Perusiya → Buyunaani → obwesigwe bw'Abamakabeeho → okutegyekwa Rooma",
+   "q": "Kwonka obunaku ku bwahikiire kimwe, Ruhanga yaatuma Omwana we owaazairwe omukazi.",
+   "cite": "Abagalatiya 4:4",
+   "christ": "“Okuteekanisa omuhanda” oku kwona kukaba kuri murimo gwa Ruhanga ngu Yesu aije kimwe “obunaku ku bwahikiire.”",
+   "detail": "<p>Kuruga aha Malaki kuhitsya aha Ndagaano Ensya, hakaha emyaka nka 400 etaine kyahandiikirwe kisya. Kwonka enyima y'ebyabaireho, Ruhanga akaba nateekanisa omuhanda gw'okutimba kw'amakuru marungi.</p><ul><li><b>Obukama nibuhinduka</b> · Perusiya → Buyunaani (Alegizanda, 333 EBC) → Misiri na Siriya → obwesigwe bw'Abamakabeeho (167 EBC) → Rooma (63 EBC).</li><li><b>Oruyunaani</b> · okusingura kwa Alegizanda kukahindura Oruyunaani orurimi orw'omu mahanga goona; Endagaano ya Ira ekahindurwa omu Ruyunaani (Septuagiinti), kwaakingurira amakuru marungi okutimba kimwe.</li><li><b>Emihanda n'obusingye bwa Rooma</b> · emihanda eyombekirwe gye n'“obusingye bwa Rooma” bikaba enzira z'okurangirira.</li><li><b>Esinagoogi n'emikago</b> · okwegyesa omu sinagoogi nikuguma; Abafarisaayo n'Abasadukaayo nibazuukira, kandi <b>okutegyereza Masiya</b> nikuhika.</li></ul>",
+   "next": "Haza, akasiriikiriro obu kacwekamu, aha muheru niwe naaija."
+  },
+  {
+   "tag": "ENDAGAANO ENSYA · OKUHIKIIRIZIBWA",
+   "title": "Yesu Naaija",
+   "date": "nka 4 EBC–AD 30",
+   "one": "Masiya owaaragaaniisibwe akaija, yaafa, yaazooka.",
+   "people": "Yesu, abeegi ikumi na babiri, Yohaana Omubatizi",
+   "events": "Okuba omuntu (Noeli), omurimo gwe gw'okwegyesa n'eby'okutangaaza, okufa aha musharaba, okuzooka aha izooba rya kashatu",
+   "q": "Kigambo ogwo akaba omuntu, yaatuura omuriitwe aijwire embabazi n'amazima.",
+   "cite": "Yohaana 1:14",
+   "christ": "Oruzaaro rw'omukazi (kicweka 2), omugisha gwa Iburahimu (3), omwana gw'entaama gwa Pasika (4), omugabe otahwaho owa Daudi (6) n'endagaano ensya (8) byona nibihikiirira omuri Yesu omwe: omurangi waitu ow'amazima, omunyamurwa n'omugabe.",
+   "detail": "<p>Akasiriikiriro obu kacwekamu, owaaragaaniisibwe naaija. Engiri ina nizihamya amagara, okufa n'okuzooka kwa Yesu kuruga omu mienda eshguri.</p><ul><li><b>Okuba omuntu</b> · Ruhanga yaaba omuntu (Emanueli, “Ruhanga ari naitwe”), omu kweshashura kwa Beteleemu.</li><li><b>Omurimo</b> · naayegyesa obukama bwa Ruhanga, naakiza abarwaire, yaayeta abasiisi. “Owaareebire nyowe, areebire Ishe.”</li><li><b>Omusharaba</b> · naashashura omu mwanya gwaitu omuhendo gw'ekibi na rufu ebyaijire ahabw'okugwa (kicweka 2). Omwana gw'entaama gwa Pasika ogw'amazima.</li><li><b>Okuzooka</b> · naazooka aha izooba rya kashatu yaahenda amaani g'ekibi, rufu na Sitaani; nibwo aha musharaba “yaayakiire abategyeki n'ab'obushoboorozi ebikwato… naabeesingurira we wenka” (Abakolosai 2:15).</li></ul><p>N'ahabw'ekyo Yesu n'<b>omurangi waitu ow'amazima</b> (naatworeka omuhanda gwa Ruhanga), <b>omunyamurwa waitu ow'amazima</b> (naajwiisa ekibi n'omubiri gwe), na <b>omugabe waitu ow'amazima</b> (naasingura ekibi, rufu na Sitaani, naategyeka ebiro byona).</p>",
+   "next": "Yesu owaazoize naatuma abeegi be omu nsi…"
+  },
+  {
+   "tag": "ENDAGAANO ENSYA · OKUTIMBA",
+   "title": "Kanisa Nitandika",
+   "date": "nka AD 30–",
+   "one": "Mutima naaija, amakuru marungi gaatimba kuhitsya ahu ensi egarukira.",
+   "people": "Petero, Paulo, kanisa ya ira",
+   "events": "Okuija kwa Mutima omuri Pentekoseti, okuzaarwa kwa kanisa, amakuru marungi kuruga Yerusalemu kuhitsya Rooma ahabw'okuhiganisibwa",
+   "q": "Mutima Orikwera ku aribaijaho, muryaheebwa amaani, kandi muryaba baakareebi bangye omuri Yerusalemu… n'okuhitsya ahu ensi egarukira.",
+   "cite": "Ebyakozirwe Entumwa 1:8",
+   "christ": "Ekitebyo eki nikigumizamu n'eri izooba. Baibuli neecwa n'endagaano ngu Yesu aryagaruka aije kandi ahindure ebintu byona bisya (Okushuuruurirwa 21).",
+   "detail": "<p>Yesu obu yaayambuka omu iguru, Mutima owaaragaaniisibwe naaija omuri Pentekoseti, kanisa yaazaarwa. Amakuru marungi nigatimba munonga.</p><ul><li><b>Pentekoseti</b> · ahabwa Mutima, abeegi abaabaire batiine baahinduka abakareebi b'amaani.</li><li><b>Petero</b> · naarangirira amakuru marungi Abayudaaya omuri Yerusalemu.</li><li><b>Paulo</b> · kuruga aha muhiganisi yaaba ntumwa; naatandika kanisa omu nsi y'abanyamahanga, yaahandiika ebbaruha.</li><li><b>Kuhitsya ahu ensi egarukira</b> · Yerusalemu → Buyudaaya → Samariya → Rooma. Endagaano ya “enganda zoona” eyaahairwe Iburahimu neehikiirira.</li><li><b>Naitwe</b> · ekitebyo tikihwaho; nikigumira omu maisho ahari okugaruka kwa Yesu n'eiguru n'ensi ensya.</li></ul>",
+   "next": "Kwonka ekitebyo tikihwerera aha…"
+  },
+  {
+   "tag": "ENDAGAANO ENSYA · OKUHIKIIRIZIBWA KW'OMUHERU",
+   "title": "Okugarurwa (byona bisya)",
+   "date": "Bikiija",
+   "one": "Yesu naagaruka, ahindura ebintu byona bisya.",
+   "people": "Yesu orikugaruka; amahanga goona",
+   "events": "Okugaruka kwa Yesu, okucwa orubanja okw'omuheru, okuhwaho kw'ekibi·rufu·amarira, eiguru n'ensi ensya",
+   "q": "Aryabaragaza amarira goona aha maisho, Rufu eryaba etakiriho, nobu kwakuba okucura nari okurira nainga obusaasi.",
+   "cite": "Okushuuruurirwa 21:4",
+   "christ": "Edeni y'okuhanga okw'okubanza nibwo egarurwa aha muheru nka “Yerusalemu Ensya.” Ruhanga naatuura n'abantu be ebiro byona: okuhika kwa Emanueli (Okushuuruurirwa 21:3; Matayo 1:23).",
+   "detail": "<p>Baibuli tecwa omu bwiire bwa kanisa. Ekitabo kyayo ky'omuheru, Okushuuruurirwa, nikyoreka Yesu <b>naagaruka</b> ahindure byona.</p><ul><li><b>Okugaruka kwe</b> · omugabe owaaragaaniisibwe naagaruka n'ekitiinwa.</li><li><b>Okusingura okw'omuheru</b> · Sitaani na rufu nibahezibwa ebiro byona, kandi Kristo naategyeka nk'Omugabe w'abagabe (1 Abakorinto 15:25-26; Okushuuruurirwa 20:10).</li><li><b>Okucwa orubanja n'okuzooka</b> · obubi bwona nibugororwa, abafiire nibazooka.</li><li><b>Eiguru n'ensi ensya</b> · ekibi, rufu, amarira n'obusaasi nibihwaho ebiro byona (Okushuuruurirwa 21:4).</li><li><b>Edeni egarukire</b> · omu “Yerusalemu Ensya” erikukira ey'okutandika, Ruhanga naatuura n'abantu be ebiro byona: ahantu Baibuli yoona erikuziza.</li></ul><p>N'ahabw'ekyo hati n'obwiire bw'<b>“kwamare, kwonka kutakahika”</b>: omuri Yesu okujunwa <b>kwamare</b> kuhikye, kwonka okuhika kwakwo <b>kukiri</b> okutegyerezibwa.</p>",
+   "next": "Mbwenu ekitebyo eki kyona nikimanyisa ki ahari “nyowe”?"
+  }
+ ],
+ "love": [
+  "Ekitebyo tikitandika n'okucwa orubanja kureka n'ensi ehangirwe ahabwa rukundo erikutemba.",
+  "Obwiire omuntu obu yaasiisha, Ruhanga akaragaana okujunwa ahonaaho.",
+  "Ruhanga akasherura ebanza owaabaire atashemereire, yaamweta ahabw'eiziina, yaamuhindura omuriro gw'omugisha.",
+  "Akahurira okucura kw'abantu abaabaire bahuuku, yaaserengyeta we wenka kubajuna.",
+  "Nobu baamuguma nibamugomeka, buri obu baateera enduuru naabatumira omujuni yaabazoora.",
+  "Nobu Daudi owaagwire taramuhenze; ahariwe akaragaana omugabe otahwaho.",
+  "Aha bantu abaabaire bamuhiindwiire akagumizamu kubatumira abarangi, naabashaba ati: “Mugaruke murugye.”",
+  "Nobu aha nsi y'omwirima munonga ey'okunyagwa akaserengyeta nabo, yaaragaana okugarurwa.",
+  "Nobu aha bantu abaagwire emirundi mingi, taraihirweho endagaano ye, kureka yaabazoora.",
+  "Nobu omu myaka 400 ey'akasiriikiriro, omu kwesherekya, akaba nateekanisa omuhanda gw'okujunwa.",
+  "Obu twabaire tukiri abasiisi, akatuma Omwana we yaahayo amagara ge.",
+  "Rukundo egi twaakiriize, hati naagitumira etembe omu nsi yoona.",
+  "Aha muheru aryaragaza amarira goona, ahindure ebintu byona bisya omuri rukundo."
+ ],
+ "mis": [
+  {
+   "w": "“Enki Ruhanga yaahangiire omuntu orikubaasa kusiisha? Ka tikyabaire kirungi kutamuhanga?”",
+   "t": "Ruhanga akahanga ensi n'omuntu atari ahabw'okutaaba kwona, kureka ahabwa rukundo erikutemba. Okuhanga omuntu <b>nk'owaabaasa kukwatangana na Ruhanga</b> kwenyini n'rukundo. Kandi nobu okutaaha kw'ekibi tikwabaire heeru y'enaama ya Ruhanga ey'okujunwa (Abeefeso 1:4-5). Ekicweka ky'okubanza ekya Baibuli tikiri kucwa orubanja kureka n'rukundo."
+  },
+  {
+   "w": "“Kuza kubingwa kandi n'okuheebwa rufu ahabw'okurya ekijuma kimwe? Ka Ruhanga tarikutiinisa munonga?”",
+   "t": "Okubingwa omuri Edeni kukaba kuri kucwa orubanja kandi n'embabazi. Ku omuntu, ataanisiibwe na Ruhanga kandi ari omu mbeera esiisikaire, akuba aryariire omu muti gw'amagara naatuura ebiro byona, akaba naaba omu busaasi ebiro byona (Okutandika 3:22). Okwikiriza rufu kukaba kuri kukingura omuhanda gw'okugaruka; kandi ahonaaho Ruhanga akaragaana Omujuni (Okutandika 3:15). Omu kucwa orubanja hakaba haine rukundo."
+  },
+  {
+   "w": "“Iburahimu akatoorwa ahabw'okwikiriza kwe okuhango; ka abantu boona aba Baibuli tibari bazira b'emitwarize?”",
+   "t": "Iburahimu nawe akagamba ebishuba kandi yaaganya, na Yakobo akaba ari mubeihi. Ruhanga tayetsire “abasemiire” kureka ahabw'embabazi yaayeta abatahikiriire. Enshonga y'okutoora etari obugumu bwabo kureka rukundo ya Ruhanga eyesigwa (Ebiragiro 7:7-8)."
+  },
+  {
+   "w": "“Ka eiteeka (ebiragiro) tiriri kicwa nari kiragiro eki oine kuhikiiriza ngu ojunwe?”",
+   "t": "Ruhanga akabajuna <b>batakaaheebwa</b> eiteeka. Ebiragiro Ikumi nibitandika n'okugamba kw'okujunwa: “Niinye Mukama Ruhanga owaakwihire omu nsi ya Misiri” (Okuruga 20:2). Eiteeka tiriri “rihikiiriza ngu ojunwe,” kureka n'obuhabuzi bwa rukundo aha oku abaajuniirwe ahabw'embabazi bashemereire kutuura (Ebiragiro 7:7-9). Buriijo embabazi ebanza; okworobera n'okugarukamu."
+  },
+  {
+   "w": "“Okusingura Kanaani kwabaire kwitana ekitaine mbabazi; Ruhanga w'Endagaano ya Ira ari w'akabi.”",
+   "t": "N'ekintu ekitarikucwa omu kigambo kimwe kandi ekishemereire kufayo. Kwonka Baibuli teigamba nk'eihinda ery'obushuba kureka nk'okucwa orubanja enyima y'emyaka mingi y'obubi obuhango munonga (kuhitsya aha kwitamu abaana), enyima y'okugumiisiriza kwingi (Okutandika 15:16; Ebiragiro 9:4-5; Abaleevi 18:24-25). Ruhanga tarikuhwerera nobu n'omu kucwa orubanja, kandi ou yaagaruka ahariwe naamwakira n'omushemererwa, nobu yaakuba munyamahanga, nka Rahabu na Ruuti (Yoshwa 6:25; Ruuti 4:13-17)."
+  },
+  {
+   "w": "“Daudi akaba ari muzira otaine kamogo; nikyo baamweta ‘omuntu owaagyendeziganire n'omutima gwa Ruhanga.’”",
+   "t": "Daudi akakora obushambani kandi n'okwita. “Owaagyendeziganire n'omutima gwa Ruhanga” tikiri kukira kutuura ahikiire kimwe, kureka oku ataasherekire ekibi kye, yaayegarukamu n'omutima gwona, kandi yaaguma kugaruka ahari Ruhanga (Zaaburi 51). Rukundo ya Ruhanga teta kweihaho nobu n'ou yaagwire munonga."
+  },
+  {
+   "w": "“Omurangi n'omuragura orikuranga eby'omu maisho; Ruhanga w'Endagaano ya Ira naacumirwa enyime.”",
+   "t": "Enshonga y'omurangi etari “kuranga eby'omu maisho,” kureka enduuru y'omutima ya Ruhanga: “mugaruke murugye, mwemberereze.” Nobu okuhanangiriza okw'okucwa orubanja tikuri kw'okushwerekereza kureka kw'okuhindura abantu ngu bagumeho amagara: “Tinshemerererwa kufa kw'omubi” (Ezekieli 33:11)."
+  },
+  {
+   "w": "“Okunyagwa nikworeka ku Ruhanga yaarekireraho Isiraeli kimwe.”",
+   "t": "Okunyagwa tikwabaire kurekeraho kureka kuhanira n'okuhikya kw'Ishe ahari omwana omukundwa (Abaheburaayo 12:6). Ruhanga taraagiire; akaba ari na Daniyeli omu mutima gw'okunyagwa kandi yaaragaana: “Nimmanya enaama zi naabacumiire, ez'oburungi, zitari ez'obubi… kutunga omu biro byanyu ebiriija” (Yeremiya 29:11)."
+  },
+  null,
+  {
+   "w": "“Ku haabaire hataine kigambo emyaka 400, ka tikiri ngu Ruhanga akaba yaagiire nari naahuumura?”",
+   "t": "Akasiriikiriro tikari kubuura. Akaba yaareka kugamba kwonka; obwo bwona akaba nahindura obukama, endimi n'emihanda kuteekanisa omuhanda gw'okujunwa. Omu kasiriikiriro k'amaani munonga, Ruhanga akaba nakora munonga, omuri rukundo (Abagalatiya 4:4)."
+  },
+  {
+   "w": "“Yesu n'omwe aha bantu barungi b'okwegyesa emitwarize; omusharaba gukaba kuri kuhebwa okw'akabi.”",
+   "t": "Yesu akagamba ku ari Ruhanga (Yohaana 8:58), kandi omusharaba tigwabaire mpanga nari kuhebwa kureka rukundo eyaateekaniisiibwe. Taraatwaarwa n'amaani, kureka akahayo amagara ge ahabw'okwenda kwe (Yohaana 10:18). “Tihariho ogira rukundo erikukira ey'omuntu kuhayo amagara ge ahabwa banywani be” (Yohaana 15:13)."
+  },
+  {
+   "w": "“Kanisa n'ekiteeko ky'eddiini eky'abantu abahikiriire, nari n'eyombekirwe yonka.”",
+   "t": "Kanisa tikiri kiteeko ky'“abatukuura abahikiire” kureka n'eky'<b>abasiisi abaganiirwe</b>. Nobu entumwa Paulo akeyeta “omu basiisi niinye rurangaanwa” (1 Timoteeho 1:15). Kanisa ya ira nayo ekempaka kandi yaagwa (Ebyakozirwe Entumwa 6:1; 1 Abakorinto 1:11). Tikiri hantu h'okwehimba kureka n'abantu abarikutwarira abandi rukundo eyi baakiriize (Yohaana 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Ekibi ky'okubanza — tihariho ohikiriire",
+   "body": "Ekibazo tikiri “ebikorwa bibi bikye” kureka n'omuzigo gw'omutima. Kuruga aha Adamu, boona bazaarwa omu kibi, kandi tibarikubaasa kuhika ahari Ruhanga bonka.",
+   "vref": "Abarooma 3:10-12, 23",
+   "vtext": "Tihariho ohikiriire, nangwa n'omwe… ahabw'okuba boona bakashiisha, baafeerwa kuhika ahari Ruhanga ow'ekitiinwa."
+  },
+  {
+   "title": "Eiteeka tirikubaasa kunjuna",
+   "body": "Eiteeka tiriri kihingiro kureka n'endeebeezo. Ku noteeraho munonga kurihikiiriza, nikyo kikukyoreka oku otahikiire. Enshonga yaryo n'okutuhitsya ahari Kristo.",
+   "vref": "Abarooma 3:20 · Abagalatiya 3:24",
+   "vtext": "Ekibi kimanywa ahabw'eiteeka… eiteeka rikaba riri omworozi waitu okuhitsya obu Kristo yaizire."
+  },
+  {
+   "title": "Ahabw'embabazi — engabirano, etari maani",
+   "body": "Okujunwa tikuri mushaara gw'emirimo ei waakozire, kureka n'engabirano ya Ruhanga ahari abatakibaasize. Nikyo hatariho orikubaasa kwehimba.",
+   "vref": "Abeefeso 2:8-9",
+   "vtext": "Obu mwaikiriza, mukajunwa ahabw'embabazi za Ruhanga; kutari imwe kukyekorera, kureka kiri engabirano ya Ruhanga… ngu hatakaagira owaayehimbisa."
+  },
+  {
+   "title": "Kuhikiiririzibwa ahabw'okwikiriza",
+   "body": "Tikuri ahabw'okuhikiiriza eiteeka, kureka n'ahabw'okwikiriza Yesu Kristo nitubarwa kuba abahikiriire: titwehambisa okuhikiirira kwaitu kureka kwe.",
+   "vref": "Abarooma 5:1 · Abagalatiya 2:16",
+   "vtext": "Nk'oku tubarwa kuba abahikiriire ahabw'okwikiriza, twine obusingye ahari Ruhanga… omuntu ataheebwa kuhikiirira ahabw'okuhitsya emigyenzo y'eiteeka, kureka ahabw'okwikiriza Yesu Kristo."
+  },
+  {
+   "title": "Baibuli neeyoreka Yesu",
+   "body": "Baibuli tikiri kitabo ky'ebyabaireho by'abakuru nari ky'okweyamba. Kuruga aha Okutandika kuhitsya aha Okushuuruurirwa, buri rupapura niruhamya omwe: Yesu Kristo.",
+   "vref": "Yohaana 5:39 · Luka 24:27",
+   "vtext": "Mushoma munonga Ebyahandiikirwe… haza byo niinye bigambaho; naabashoboororera ebicweka ebiri omu Byahandiikirwe ebikwatiraine nawe."
+  },
+  {
+   "title": "Obukama bwa Ruhanga — omutima gw'amakuru ga Yesu",
+   "body": "Ekigambo Yesu ekyaayegyese munonga. Obukama omu Ruhanga arikutegyeka nk'omugabe bwakataaha omu nsi na Yesu, kandi buryahika obu aragaruka. Ahabw'omusharaba n'okuzooka, Yesu n'omugabe ow'amazima owaasinguriire ekibi, rufu na Sitaani.",
+   "vref": "Mariko 1:15",
+   "vtext": "Obunaku buhikire, obukama bwa Ruhanga bwiriire haihi; mwegarukyemu, mwikirize Amakuru Marungi."
+  },
+  {
+   "title": "Amakuru marungi — akahikiiriza byona",
+   "body": "Eibanja ry'ekibi eri ntaabaasize kushashura, Yesu akarishashura omu mwanya gwangye aha musharaba, kandi ahabw'okuzooka yaasingura rufu. Tinyehambisa aha “kora oku” kureka aha “kyahwa.”",
+   "vref": "Yohaana 19:30 · Abarooma 5:8",
+   "vtext": "Kyahwa… ku twabaire tukiri abasiisi, Kristo yaatufeera."
+  }
+ ],
+ "books": {
+  "Okutandika": "GEN",
+  "Okuruga": "EXO",
+  "Abaleevi": "LEV",
+  "Okubara": "NUM",
+  "Ebiragiro": "DEU",
+  "Yoshwa": "JOS",
+  "Abaramuzi": "JDG",
+  "Ruuti": "RUT",
+  "1 Samueli": "1SA",
+  "2 Samueli": "2SA",
+  "1 Bagabe": "1KI",
+  "2 Bagabe": "2KI",
+  "1 Busingye": "1CH",
+  "2 Busingye": "2CH",
+  "Ezera": "EZR",
+  "Nehemiya": "NEH",
+  "Esiteeri": "EST",
+  "Yobu": "JOB",
+  "Zaaburi": "PSA",
+  "Enfumu": "PRO",
+  "Murangirizi": "ECC",
+  "Ekyeshongoro Kya Solomooni": "SNG",
+  "Isaaya": "ISA",
+  "Yeremiya": "JER",
+  "Okutonzya": "LAM",
+  "Ezekieli": "EZK",
+  "Daniyeli": "DAN",
+  "Hosea": "HOS",
+  "Yoeli": "JOL",
+  "Amosi": "AMO",
+  "Obadiya": "OBA",
+  "Yona": "JON",
+  "Miika": "MIC",
+  "Nahumu": "NAM",
+  "Habakuuki": "HAB",
+  "Zefaniya": "ZEP",
+  "Hagai": "HAG",
+  "Zekariya": "ZEC",
+  "Malaki": "MAL",
+  "Matayo": "MAT",
+  "Mariko": "MRK",
+  "Luka": "LUK",
+  "Yohaana": "JHN",
+  "Ebyakozirwe Entumwa": "ACT",
+  "Abarooma": "ROM",
+  "1 Abakorinto": "1CO",
+  "2 Abakorinto": "2CO",
+  "Abagalatiya": "GAL",
+  "Abeefeso": "EPH",
+  "Abafilipi": "PHP",
+  "Abakolosai": "COL",
+  "1 Abatesalonika": "1TH",
+  "2 Abatesalonika": "2TH",
+  "1 Timoteeho": "1TI",
+  "2 Timoteeho": "2TI",
+  "Tito": "TIT",
+  "Filemooni": "PHM",
+  "Abaheburaayo": "HEB",
+  "Yakobo": "JAS",
+  "1 Petero": "1PE",
+  "2 Petero": "2PE",
+  "1 Yohaana": "1JN",
+  "2 Yohaana": "2JN",
+  "3 Yohaana": "3JN",
+  "Yuda": "JUD",
+  "Okushuuruurirwa": "REV"
+ },
+ "yv": 2996,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
