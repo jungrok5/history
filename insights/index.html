@@ -517,7 +517,7 @@ function renderGlobe(){
     s+=`<text x="${p[0].toFixed(1)}" y="${p[1].toFixed(1)}" text-anchor="middle" font-size="11.5" font-weight="700" fill="var(--ink)" opacity="0.62" style="paint-order:stroke;stroke:var(--ocean-b);stroke-width:3px;pointer-events:none">${r[L]}</text>`; } }
   gPts=[]; const maxpop=Math.max(...D.languages.map(l=>l.pop))||1;
   const arr=D.languages.filter(l=>l.lat!=null&&l.pop>0).map(l=>({l,d:d3.geoDistance([l.lng,l.lat],center)})).filter(o=>o.d<Math.PI/2).sort((a,b)=>b.d-a.d);
-  for(const {l,d} of arr){ const p=proj([l.lng,l.lat]); const r=Math.max(1.9,Math.min(9.5,Math.sqrt(l.pop)/Math.sqrt(maxpop)*9.5));
+  for(const {l,d} of arr){ const p=proj([l.lng,l.lat]); const r=Math.max(2.8,Math.min(14,Math.sqrt(l.pop)/Math.sqrt(maxpop)*14));
     gPts.push({l,x:p[0],y:p[1],r}); const sel=gSel===l.code;
     s+=`<circle cx="${p[0].toFixed(1)}" cy="${p[1].toFixed(1)}" r="${(sel?r+1.5:r).toFixed(1)}" fill="${col[l.mode]||'var(--bridge)'}" fill-opacity="${(0.62+0.38*(1-d/(Math.PI/2))).toFixed(2)}" stroke="${sel?'var(--ink)':'rgba(255,255,255,.6)'}" stroke-width="${sel?'2':'0.6'}"><title>${esc(l.native)} (${esc(l.en)}) · ${human(l.pop)}</title></circle>`; }
   svg.innerHTML=s;
