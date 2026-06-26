@@ -216,6 +216,9 @@ const LANGS = [
   { code:'arq',    dir:'rtl', locale:'arq_DZ' },
   { code:'aeb',    dir:'rtl', locale:'aeb_TN' },
   { code:'gax',    dir:'ltr', locale:'gax_ET' },
+  { code:'ibb',    dir:'ltr', locale:'ibb_NG' },
+  { code:'sid',    dir:'ltr', locale:'sid_ET' },
+  { code:'nyn',    dir:'ltr', locale:'nyn_UG' },
 ];
 
 // 한국어(루트) 메타는 직접 지정, 나머지는 i18n 팩에서 로드
