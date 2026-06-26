@@ -89,8 +89,12 @@
   .info .inum{flex:none;width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;
     font-weight:700;color:#0e1118;font-family:var(--serif);margin-top:2px}
   .info h4{font-size:1.12rem;display:inline}
-  .info .iref{font-size:.82rem;color:var(--accent);font-weight:600;margin-left:.5em}
-  .info .inote{margin:.35em 0 .3em;font-size:.96rem;color:var(--ink);opacity:.92}
+  .info .iref{display:inline-block;font-size:.72rem;color:var(--accent);font-weight:700;margin-left:.5em;
+    border:1px solid var(--line);border-radius:999px;padding:.08em .6em;vertical-align:middle}
+  .info .inote{margin:.4em 0 .35em;font-size:.96rem;color:var(--ink);opacity:.92}
+  .info .ievents{margin:.2em 0 .5em;padding:0;list-style:none}
+  .info .ievents li{position:relative;font-size:.88rem;line-height:1.55;color:var(--ink);opacity:.9;padding-left:.95em;margin:.18em 0}
+  .info .ievents li::before{content:'';position:absolute;left:0;top:.62em;width:5px;height:5px;border-radius:50%;background:var(--accent);opacity:.8}
   .info .itoday{font-size:.84rem;color:var(--muted)}
   .info .itoday b{color:var(--ink);font-weight:600}
   .jnote{padding:0 16px 12px;color:var(--muted);font-size:.9rem}
@@ -257,7 +261,7 @@ function MapCard(root, key){
     (multi?'':'<span class="jname"></span>');
   root.appendChild(ctrls);
   const info=document.createElement('div'); info.className='info';
-  info.innerHTML='<div class="inum"></div><div class="ibody"><h4></h4><span class="iref"></span><p class="inote"></p><span class="itoday"></span></div>';
+  info.innerHTML='<div class="inum"></div><div class="ibody"><h4></h4><span class="iref"></span><p class="inote"></p><ul class="ievents"></ul><span class="itoday"></span></div>';
   root.appendChild(info);
 
   const $p=s=>ctrls.querySelector(s);
@@ -351,8 +355,11 @@ function MapCard(root, key){
     info.querySelector('.inum').textContent=step+1;
     info.querySelector('.inum').style.background=j.color;
     info.querySelector('h4').textContent=pl[L];
-    info.querySelector('.iref').textContent=pl.ref||'';
+    info.querySelector('.iref').textContent=pl['book_'+L]||pl.ref||'';
     info.querySelector('.inote').textContent=pl['note_'+L]||'';
+    const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;');
+    const evs=pl['events_'+L]||[];
+    info.querySelector('.ievents').innerHTML=evs.map(e=>'<li>'+esc(e)+'</li>').join('');
     const td=pl['today_'+L];
     info.querySelector('.itoday').innerHTML= td? ('📍 <b>'+td+'</b>') : '';
     $p('.stepc').textContent=(step+1)+' / '+st.length;
