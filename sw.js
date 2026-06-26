@@ -4,7 +4,7 @@
    - 정적 자원(이미지/CSS/폰트/매니페스트): cache-first + 런타임 캐시
    - 동일 출처만 캐시(GA 등 외부는 통과)
    - CACHE 이름은 build-pages 가 index.html 해시로 스탬프 → 셸 변경 시 자동 무효화 */
-const CACHE = 'osb-38892d7d';
+const CACHE = 'osb-1e373b4b';
 const PRECACHE = ['/', '/manifest.webmanifest', '/og.png', '/icon-192.png', '/icon-512.png'];
 
 self.addEventListener('install', (e) => {
@@ -22,9 +22,9 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return; // 외부(GA 등)는 그대로 통과
 
-  // 콘텐츠(HTML 네비게이션 + i18n JSON + insights·maps 데이터): network-first (온라인이면 항상 최신)
-  // /insights/·/maps/ 의 data.json 은 배포마다 갱신되므로 cache-first 면 재방문자에게 옛 데이터(좌표 누락 등)가 남는다 → network-first 필수
-  const isContent = req.mode === 'navigate' || url.pathname.startsWith('/i18n/') || url.pathname.startsWith('/insights/') || url.pathname.startsWith('/maps/');
+  // 콘텐츠(HTML 네비게이션 + i18n JSON + about·maps 데이터): network-first (온라인이면 항상 최신)
+  // /about/·/maps/ 의 data.json 은 배포마다 갱신되므로 cache-first 면 재방문자에게 옛 데이터(좌표 누락 등)가 남는다 → network-first 필수
+  const isContent = req.mode === 'navigate' || url.pathname.startsWith('/i18n/') || url.pathname.startsWith('/about/') || url.pathname.startsWith('/maps/');
   if (isContent) {
     e.respondWith(
       fetch(req).then((res) => { const cp = res.clone(); caches.open(CACHE).then((c) => c.put(req, cp)); return res; })

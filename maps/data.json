@@ -1,266 +1,1514 @@
 {
-  "ot": {
-    "places": [
-      { "id":"eden",    "lat":37.50, "lon":42.00, "ko":"에덴 (창조·타락)", "en":"Eden (Creation · Fall)", "book_ko":"창세기 1–3", "book_en":"Genesis 1–3", "today_ko":"오늘날 티그리스·유프라테스 유역", "today_en":"the Tigris–Euphrates region today",
-        "note_ko":"완전하게 지어진 세상에 죄가 들어와, 하나님과 사람 사이가 끊어진다.", "note_en":"Into a world made very good, sin enters and breaks the bond between God and humanity.",
-        "events_ko":["엿새 동안의 창조 — “심히 좋았더라”","사람을 하나님의 형상대로 지으심","선악과를 먹은 타락, 에덴에서 쫓겨남","첫 복음의 약속 — “여자의 후손이 뱀의 머리를 상하게 하리라”"],
-        "events_en":["Creation in six days — “it was very good”","Humanity made in the image of God","The fall, and exile from Eden","The first gospel promise — “the offspring of the woman will crush the serpent’s head”"] },
-      { "id":"noah",    "lat":39.70, "lon":44.30, "ko":"아라랏 (홍수)", "en":"Ararat (the Flood)", "book_ko":"창세기 6–9", "book_en":"Genesis 6–9", "today_ko":"오늘날 아라랏산, 튀르키예 동부", "today_en":"Mt. Ararat, eastern Türkiye today",
-        "note_ko":"죄로 가득한 세상을 심판하시되, 한 가정을 통해 생명을 보존하신다.", "note_en":"God judges a world full of sin, yet preserves life through one family.",
-        "events_ko":["죄로 관영한 세상","홍수 심판과 노아의 방주","무지개 언약 — “다시는 홍수로 멸하지 않으리라”"],
-        "events_en":["A world filled with corruption","The flood, and Noah’s ark","The rainbow covenant — “never again a flood to destroy”"] },
-      { "id":"babel",   "lat":33.10, "lon":44.55, "ko":"바벨탑",        "en":"Tower of Babel", "book_ko":"창세기 11", "book_en":"Genesis 11", "today_ko":"오늘날 이라크 (시날 평지)", "today_en":"Iraq today (plain of Shinar)",
-        "note_ko":"하늘에 닿으려는 교만에, 언어를 흩으시고 사람들을 온 땅에 흩으신다.", "note_en":"Against the pride that reaches for heaven, God scatters their speech and the peoples over the earth.",
-        "events_ko":["“성과 대를 쌓아 우리 이름을 내자”","언어를 혼잡하게 하심","사람들이 온 땅으로 흩어짐 (훗날의 바벨론, 시날 평지)"],
-        "events_en":["“Let us build a city and a tower… and make a name for ourselves”","God confuses their language","The peoples scatter over the earth (Shinar — later Babylon)"] },
-      { "id":"ur",      "lat":30.96, "lon":46.10, "ko":"우르",        "en":"Ur",            "book_ko":"창세기 12", "book_en":"Genesis 12", "ref":"창세기 11–12", "today_ko":"오늘날 이라크 남부", "today_en":"southern Iraq today",
-        "note_ko":"성경의 구원 이야기가 한 사람의 부르심으로 시작된다.", "note_en":"The Bible’s story of redemption begins with the call of one man.",
-        "events_ko":["하나님이 아브라함을 갈대아 우르에서 부르심","“큰 민족을 이루고 땅의 모든 족속이 너로 복을 얻으리라”","믿음으로 본향을 떠남"],
-        "events_en":["God calls Abram out of Ur of the Chaldeans","“I will make of you a great nation… all peoples blessed through you”","By faith he leaves his homeland"] },
-      { "id":"haran",   "lat":36.87, "lon":39.03, "ko":"하란",        "en":"Haran",         "book_ko":"창세기 12", "book_en":"Genesis 12", "ref":"창세기 11:31–12:5", "today_ko":"오늘날 튀르키예 남부", "today_en":"southern Türkiye today",
-        "note_ko":"부르심에 응답해 약속의 땅을 향해 출발하는 길목.", "note_en":"On the way, answering the call toward the promised land.",
-        "events_ko":["데라의 가족이 하란에 정착","아버지 데라가 죽음","아브라함이 75세에 가나안으로 출발"],
-        "events_en":["Terah’s family settles in Haran","Terah dies","Abram sets out for Canaan at age 75"] },
-      { "id":"shechem", "lat":32.21, "lon":35.28, "ko":"세겜 · 가나안", "en":"Shechem · Canaan", "book_ko":"창세기 12–50", "book_en":"Genesis 12–50", "ref":"창세기 12–50", "today_ko":"오늘날 나블루스", "today_en":"Nablus today",
-        "note_ko":"약속의 땅에서 한 가족이 세워지고, 언약이 대를 잇는다.", "note_en":"In the promised land a family is founded and the covenant passes down the generations.",
-        "events_ko":["가나안 입성, 첫 제단 — “이 땅을 네 자손에게 주리라”","아브라함 언약(창 15)·이삭·야곱","야곱의 열두 아들 = 열두 지파의 뿌리"],
-        "events_en":["Entering Canaan, first altar — “to your offspring I give this land”","The covenant (Gen 15) · Isaac · Jacob","Jacob’s twelve sons — root of the twelve tribes"] },
-      { "id":"egypt",   "lat":30.80, "lon":31.50, "ko":"애굽 (고센)", "en":"Egypt (Goshen)", "book_ko":"창세기 37–50 · 출애굽기 1", "book_en":"Genesis 37–50 · Exodus 1", "ref":"창세기 37 – 출애굽기 1", "today_ko":"오늘날 이집트 나일 삼각주", "today_en":"Nile Delta, Egypt today",
-        "note_ko":"한 가족이 큰 민족이 되지만, 이내 노예가 된다.", "note_en":"A family becomes a great nation — then a nation of slaves.",
-        "events_ko":["요셉이 팔려가 애굽의 총리가 됨","기근을 피해 야곱의 온 가족이 내려옴","번성한 이스라엘이 종살이를 하게 됨"],
-        "events_en":["Joseph, sold away, rises to rule Egypt","Jacob’s whole family comes down to escape famine","The growing nation of Israel is enslaved"] },
-      { "id":"sinai",   "lat":28.54, "lon":33.97, "ko":"시내산",      "en":"Mt. Sinai",     "book_ko":"출애굽기 · 레위기", "book_en":"Exodus · Leviticus", "ref":"출애굽기 1–20 · 레위기", "today_ko":"오늘날 시나이 반도", "today_en":"Sinai Peninsula today",
-        "note_ko":"구약의 핵심 구원 사건 — 노예가 하나님의 백성이 되다.", "note_en":"The OT’s central rescue — slaves become God’s own people.",
-        "events_ko":["열 재앙과 유월절 어린 양의 피","홍해를 가르고 건넘","십계명·율법·성막, 제사 제도"],
-        "events_en":["The ten plagues and the Passover lamb","The Red Sea parts and they cross","Ten Commandments, the Law, the tabernacle and sacrifices"] },
-      { "id":"kadesh",  "lat":30.68, "lon":34.50, "ko":"가데스 (광야)", "en":"Kadesh (wilderness)", "book_ko":"민수기 · 신명기", "book_en":"Numbers · Deuteronomy", "ref":"민수기 13–14 · 신명기", "today_ko":"오늘날 시나이·네게브 광야", "today_en":"the Sinai–Negev wilderness today",
-        "note_ko":"불신으로 한 세대가 광야를 떠돌지만, 하나님은 함께하신다.", "note_en":"Unbelief costs a generation the land — yet God stays with them.",
-        "events_ko":["12 정탐꾼, 그러나 백성의 불신","광야 38년 — 만나와 구름·불기둥","모압 평지에서 모세의 마지막 설교(신명기)"],
-        "events_en":["Twelve spies — but the people refuse to trust","38 years in the desert — manna, cloud and fire","On the plains of Moab, Moses’ last sermon (Deuteronomy)"] },
-      { "id":"jericho", "lat":31.87, "lon":35.44, "ko":"여리고",      "en":"Jericho",       "book_ko":"여호수아", "book_en":"Joshua", "ref":"여호수아 1–12", "today_ko":"오늘날 여리고", "today_en":"Jericho today",
-        "note_ko":"마침내 약속의 땅에 들어가 정착한다.", "note_en":"At last they enter and take the promised land.",
-        "events_ko":["요단강이 갈라지고 백성이 건넘","여리고 성이 무너짐","가나안 정복과 열두 지파의 땅 분배"],
-        "events_en":["The Jordan parts and the people cross","The walls of Jericho fall","Conquest of Canaan and division of the land"] },
-      { "id":"shiloh",  "lat":32.05, "lon":35.29, "ko":"실로 (사사 시대)", "en":"Shiloh (Judges)", "book_ko":"사사기 · 룻기", "book_en":"Judges · Ruth", "ref":"사사기 · 룻기", "today_ko":"오늘날 키르베트 세일룬", "today_en":"Khirbet Seilun today",
-        "note_ko":"왕이 없어 제멋대로 행하던 시대 — 참된 왕이 필요하다.", "note_en":"With no king, everyone does as he pleases — a true king is needed.",
-        "events_ko":["성막이 실로에 세워짐","죄–압제–부르짖음–구원의 반복(드보라·기드온·삼손)","룻 — 어두운 시대의 신실함, 다윗의 족보"],
-        "events_en":["The tabernacle is set up at Shiloh","The cycle of sin–oppression–rescue (Deborah, Gideon, Samson)","Ruth — faithfulness in dark days, in David’s line"] },
-      { "id":"jerusalem","lat":31.78,"lon":35.23, "ko":"예루살렘 · 통일왕국", "en":"Jerusalem · United Kingdom", "book_ko":"사무엘상하 · 열왕기상", "book_en":"1–2 Samuel · 1 Kings", "ref":"사무엘상 – 열왕기상 11", "today_ko":"오늘날 예루살렘", "today_en":"Jerusalem today",
-        "note_ko":"이스라엘의 황금기, 그리고 영원한 왕에 대한 약속.", "note_en":"Israel’s golden age — and the promise of an everlasting king.",
-        "events_ko":["첫 왕 사울, 그리고 다윗과 골리앗","다윗 언약 — “네 왕위가 영원히 견고하리라”(삼하 7)","솔로몬이 예루살렘 성전을 건축"],
-        "events_en":["Saul the first king, then David and Goliath","The Davidic covenant — “your throne forever” (2 Sam 7)","Solomon builds the temple in Jerusalem"] },
-      { "id":"samaria", "lat":32.28, "lon":35.19, "ko":"사마리아 · 분열왕국", "en":"Samaria · Divided Kingdom", "book_ko":"열왕기 · 예언서", "book_en":"Kings · the Prophets", "ref":"열왕기상 12 – 열왕기하", "today_ko":"오늘날 세바스티아", "today_en":"Sebastia today",
-        "note_ko":"나라가 둘로 갈라져 점점 타락하고, 선지자들이 외친다.", "note_en":"The kingdom splits and declines as the prophets cry out.",
-        "events_ko":["솔로몬 이후 남유다·북이스라엘로 분열","거듭된 우상숭배","엘리야·이사야·예레미야의 “돌아오라” + 메시아 예언"],
-        "events_en":["After Solomon, the split into Judah and Israel","Repeated idolatry","Elijah, Isaiah, Jeremiah cry ‘return’ — and foretell the Messiah"] },
-      { "id":"nineveh", "lat":36.36, "lon":43.15, "ko":"니느웨 (앗수르)", "en":"Nineveh (Assyria)", "book_ko":"열왕기하 17 · 요나", "book_en":"2 Kings 17 · Jonah", "ref":"열왕기하 17", "today_ko":"오늘날 이라크 모술", "today_en":"Mosul, Iraq today",
-        "note_ko":"경고를 무시한 북이스라엘이 먼저 무너진다.", "note_en":"Ignoring every warning, the north falls first.",
-        "events_ko":["앗수르의 수도 니느웨","북이스라엘이 앗수르에 멸망(BC 722)","요나가 니느웨로 보냄받음"],
-        "events_en":["Nineveh, the capital of Assyria","The northern kingdom falls to Assyria (722 BC)","Jonah is sent to Nineveh"] },
-      { "id":"babylon", "lat":32.54, "lon":44.42, "ko":"바벨론", "en":"Babylon", "book_ko":"열왕기하 25 · 다니엘 · 에스겔", "book_en":"2 Kings 25 · Daniel · Ezekiel", "ref":"열왕기하 25 · 다니엘", "today_ko":"오늘날 이라크 힐라", "today_en":"Hillah, Iraq today",
-        "note_ko":"가장 어두운 밤 — 그러나 회복의 약속은 남는다.", "note_en":"The darkest night — yet the promise of restoration remains.",
-        "events_ko":["예루살렘 함락·성전 파괴(BC 586)","남유다가 바벨론으로 끌려감","다니엘·에스겔 — 포로 중에도 신앙과 환상"],
-        "events_en":["Jerusalem falls, the temple is burned (586 BC)","Judah is carried off to Babylon","Daniel and Ezekiel — faith and visions in exile"] },
-      { "id":"susa",    "lat":32.19, "lon":48.26, "ko":"수산 (페르시아)", "en":"Susa (Persia)", "book_ko":"에스더 · 느헤미야", "book_en":"Esther · Nehemiah", "ref":"에스더 · 느헤미야 1", "today_ko":"오늘날 이란 슈시", "today_en":"Shush, Iran today",
-        "note_ko":"이방 제국 한복판에서도 하나님이 백성을 지키신다.", "note_en":"Even at the heart of a pagan empire, God keeps his people.",
-        "events_ko":["페르시아가 바벨론을 무너뜨림","에스더가 멸절 위기의 유대인을 구함","느헤미야가 왕 앞에서 기도하고 보냄받음"],
-        "events_en":["Persia overthrows Babylon","Esther saves the Jews from destruction","Nehemiah prays before the king and is sent"] },
-      { "id":"return",  "lat":31.78, "lon":35.23, "ko":"예루살렘 귀환","en":"Return to Jerusalem", "book_ko":"에스라 · 느헤미야 · 말라기", "book_en":"Ezra · Nehemiah · Malachi", "ref":"에스라 · 느헤미야 · 말라기", "today_ko":"오늘날 예루살렘", "today_en":"Jerusalem today",
-        "note_ko":"돌아와 다시 세우지만 — 왕은 없다. 메시아를 기다린다.", "note_en":"They return and rebuild — but no king has come. They await Messiah.",
-        "events_ko":["고레스 칙령으로 3차에 걸친 귀환(스룹바벨 538·에스라 458·느헤미야 444)","성전 재건과 예루살렘 성벽 복구","말라기 — “내가 내 사자를 보내리라”로 구약이 닫힘"],
-        "events_en":["Three waves of return by Cyrus’ decree (Zerubbabel 538 · Ezra 458 · Nehemiah 444)","Temple rebuilt and Jerusalem’s walls restored","Malachi — the OT closes: “I will send my messenger”"] }
+ "ot": {
+  "places": [
+   {
+    "id": "eden",
+    "lat": 37.5,
+    "lon": 42,
+    "ko": "에덴 (창조·타락)",
+    "en": "Eden (Creation · Fall)",
+    "book_ko": "창세기 1–3",
+    "book_en": "Genesis 1–3",
+    "today_ko": "오늘날 티그리스·유프라테스 유역",
+    "today_en": "the Tigris–Euphrates region today",
+    "note_ko": "완전하게 지어진 세상에 죄가 들어와, 하나님과 사람 사이가 끊어진다.",
+    "note_en": "Into a world made very good, sin enters and breaks the bond between God and humanity.",
+    "events_ko": [
+     "엿새 동안의 창조 — “심히 좋았더라”",
+     "사람을 하나님의 형상대로 지으심",
+     "선악과를 먹은 타락, 에덴에서 쫓겨남",
+     "첫 복음의 약속 — “여자의 후손이 뱀의 머리를 상하게 하리라”"
     ],
-    "labels": [
-      { "lat":33.2, "lon":33.0, "ko":"지중해", "en":"Mediterranean Sea", "kind":"sea" },
-      { "lat":34.6, "lon":42.5, "ko":"메소포타미아", "en":"Mesopotamia", "kind":"region" },
-      { "lat":28.8, "lon":40.0, "ko":"아라비아 광야", "en":"Arabian Desert", "kind":"region" },
-      { "lat":27.5, "lon":30.8, "ko":"애굽", "en":"Egypt", "kind":"region" }
+    "events_en": [
+     "Creation in six days — “it was very good”",
+     "Humanity made in the image of God",
+     "The fall, and exile from Eden",
+     "The first gospel promise — “the offspring of the woman will crush the serpent’s head”"
     ],
-    "journeys": [
-      { "key":"flow", "ko":"구속사의 흐름", "en":"The redemptive story", "color":"#e9b949",
-        "stops":["eden","noah","babel","ur","haran","shechem","egypt","sinai","kadesh","jericho","shiloh","jerusalem","samaria","nineveh","babylon","susa","return"] }
+    "usfm": "GEN.1.1"
+   },
+   {
+    "id": "noah",
+    "lat": 39.7,
+    "lon": 44.3,
+    "ko": "아라랏 (홍수)",
+    "en": "Ararat (the Flood)",
+    "book_ko": "창세기 6–9",
+    "book_en": "Genesis 6–9",
+    "today_ko": "오늘날 아라랏산, 튀르키예 동부",
+    "today_en": "Mt. Ararat, eastern Türkiye today",
+    "note_ko": "죄로 가득한 세상을 심판하시되, 한 가정을 통해 생명을 보존하신다.",
+    "note_en": "God judges a world full of sin, yet preserves life through one family.",
+    "events_ko": [
+     "죄로 관영한 세상",
+     "홍수 심판과 노아의 방주",
+     "무지개 언약 — “다시는 홍수로 멸하지 않으리라”"
+    ],
+    "events_en": [
+     "A world filled with corruption",
+     "The flood, and Noah’s ark",
+     "The rainbow covenant — “never again a flood to destroy”"
+    ],
+    "usfm": "GEN.6.1"
+   },
+   {
+    "id": "babel",
+    "lat": 33.1,
+    "lon": 44.55,
+    "ko": "바벨탑",
+    "en": "Tower of Babel",
+    "book_ko": "창세기 11",
+    "book_en": "Genesis 11",
+    "today_ko": "오늘날 이라크 (시날 평지)",
+    "today_en": "Iraq today (plain of Shinar)",
+    "note_ko": "하늘에 닿으려는 교만에, 언어를 흩으시고 사람들을 온 땅에 흩으신다.",
+    "note_en": "Against the pride that reaches for heaven, God scatters their speech and the peoples over the earth.",
+    "events_ko": [
+     "“성과 대를 쌓아 우리 이름을 내자”",
+     "언어를 혼잡하게 하심",
+     "사람들이 온 땅으로 흩어짐 (훗날의 바벨론, 시날 평지)"
+    ],
+    "events_en": [
+     "“Let us build a city and a tower… and make a name for ourselves”",
+     "God confuses their language",
+     "The peoples scatter over the earth (Shinar — later Babylon)"
+    ],
+    "usfm": "GEN.11.1"
+   },
+   {
+    "id": "ur",
+    "lat": 30.96,
+    "lon": 46.1,
+    "ko": "우르",
+    "en": "Ur",
+    "book_ko": "창세기 12",
+    "book_en": "Genesis 12",
+    "ref": "창세기 11–12",
+    "today_ko": "오늘날 이라크 남부",
+    "today_en": "southern Iraq today",
+    "note_ko": "성경의 구원 이야기가 한 사람의 부르심으로 시작된다.",
+    "note_en": "The Bible’s story of redemption begins with the call of one man.",
+    "events_ko": [
+     "하나님이 아브라함을 갈대아 우르에서 부르심",
+     "“큰 민족을 이루고 땅의 모든 족속이 너로 복을 얻으리라”",
+     "믿음으로 본향을 떠남"
+    ],
+    "events_en": [
+     "God calls Abram out of Ur of the Chaldeans",
+     "“I will make of you a great nation… all peoples blessed through you”",
+     "By faith he leaves his homeland"
+    ],
+    "usfm": "GEN.12.1"
+   },
+   {
+    "id": "haran",
+    "lat": 36.87,
+    "lon": 39.03,
+    "ko": "하란",
+    "en": "Haran",
+    "book_ko": "창세기 12",
+    "book_en": "Genesis 12",
+    "ref": "창세기 11:31–12:5",
+    "today_ko": "오늘날 튀르키예 남부",
+    "today_en": "southern Türkiye today",
+    "note_ko": "부르심에 응답해 약속의 땅을 향해 출발하는 길목.",
+    "note_en": "On the way, answering the call toward the promised land.",
+    "events_ko": [
+     "데라의 가족이 하란에 정착",
+     "아버지 데라가 죽음",
+     "아브라함이 75세에 가나안으로 출발"
+    ],
+    "events_en": [
+     "Terah’s family settles in Haran",
+     "Terah dies",
+     "Abram sets out for Canaan at age 75"
+    ],
+    "usfm": "GEN.12.1"
+   },
+   {
+    "id": "shechem",
+    "lat": 32.21,
+    "lon": 35.28,
+    "ko": "세겜 · 가나안",
+    "en": "Shechem · Canaan",
+    "book_ko": "창세기 12–50",
+    "book_en": "Genesis 12–50",
+    "ref": "창세기 12–50",
+    "today_ko": "오늘날 나블루스",
+    "today_en": "Nablus today",
+    "note_ko": "약속의 땅에서 한 가족이 세워지고, 언약이 대를 잇는다.",
+    "note_en": "In the promised land a family is founded and the covenant passes down the generations.",
+    "events_ko": [
+     "가나안 입성, 첫 제단 — “이 땅을 네 자손에게 주리라”",
+     "아브라함 언약(창 15)·이삭·야곱",
+     "야곱의 열두 아들 = 열두 지파의 뿌리"
+    ],
+    "events_en": [
+     "Entering Canaan, first altar — “to your offspring I give this land”",
+     "The covenant (Gen 15) · Isaac · Jacob",
+     "Jacob’s twelve sons — root of the twelve tribes"
+    ],
+    "usfm": "GEN.12.1"
+   },
+   {
+    "id": "egypt",
+    "lat": 30.8,
+    "lon": 31.5,
+    "ko": "애굽 (고센)",
+    "en": "Egypt (Goshen)",
+    "book_ko": "창세기 37–50 · 출애굽기 1",
+    "book_en": "Genesis 37–50 · Exodus 1",
+    "ref": "창세기 37 – 출애굽기 1",
+    "today_ko": "오늘날 이집트 나일 삼각주",
+    "today_en": "Nile Delta, Egypt today",
+    "note_ko": "한 가족이 큰 민족이 되지만, 이내 노예가 된다.",
+    "note_en": "A family becomes a great nation — then a nation of slaves.",
+    "events_ko": [
+     "요셉이 팔려가 애굽의 총리가 됨",
+     "기근을 피해 야곱의 온 가족이 내려옴",
+     "번성한 이스라엘이 종살이를 하게 됨"
+    ],
+    "events_en": [
+     "Joseph, sold away, rises to rule Egypt",
+     "Jacob’s whole family comes down to escape famine",
+     "The growing nation of Israel is enslaved"
+    ],
+    "usfm": "GEN.37.1"
+   },
+   {
+    "id": "sinai",
+    "lat": 28.54,
+    "lon": 33.97,
+    "ko": "시내산",
+    "en": "Mt. Sinai",
+    "book_ko": "출애굽기 · 레위기",
+    "book_en": "Exodus · Leviticus",
+    "ref": "출애굽기 1–20 · 레위기",
+    "today_ko": "오늘날 시나이 반도",
+    "today_en": "Sinai Peninsula today",
+    "note_ko": "구약의 핵심 구원 사건 — 노예가 하나님의 백성이 되다.",
+    "note_en": "The OT’s central rescue — slaves become God’s own people.",
+    "events_ko": [
+     "열 재앙과 유월절 어린 양의 피",
+     "홍해를 가르고 건넘",
+     "십계명·율법·성막, 제사 제도"
+    ],
+    "events_en": [
+     "The ten plagues and the Passover lamb",
+     "The Red Sea parts and they cross",
+     "Ten Commandments, the Law, the tabernacle and sacrifices"
+    ],
+    "usfm": "EXO.1.1"
+   },
+   {
+    "id": "kadesh",
+    "lat": 30.68,
+    "lon": 34.5,
+    "ko": "가데스 (광야)",
+    "en": "Kadesh (wilderness)",
+    "book_ko": "민수기 · 신명기",
+    "book_en": "Numbers · Deuteronomy",
+    "ref": "민수기 13–14 · 신명기",
+    "today_ko": "오늘날 시나이·네게브 광야",
+    "today_en": "the Sinai–Negev wilderness today",
+    "note_ko": "불신으로 한 세대가 광야를 떠돌지만, 하나님은 함께하신다.",
+    "note_en": "Unbelief costs a generation the land — yet God stays with them.",
+    "events_ko": [
+     "12 정탐꾼, 그러나 백성의 불신",
+     "광야 38년 — 만나와 구름·불기둥",
+     "모압 평지에서 모세의 마지막 설교(신명기)"
+    ],
+    "events_en": [
+     "Twelve spies — but the people refuse to trust",
+     "38 years in the desert — manna, cloud and fire",
+     "On the plains of Moab, Moses’ last sermon (Deuteronomy)"
+    ],
+    "usfm": "NUM.1.1"
+   },
+   {
+    "id": "jericho",
+    "lat": 31.87,
+    "lon": 35.44,
+    "ko": "여리고",
+    "en": "Jericho",
+    "book_ko": "여호수아",
+    "book_en": "Joshua",
+    "ref": "여호수아 1–12",
+    "today_ko": "오늘날 여리고",
+    "today_en": "Jericho today",
+    "note_ko": "마침내 약속의 땅에 들어가 정착한다.",
+    "note_en": "At last they enter and take the promised land.",
+    "events_ko": [
+     "요단강이 갈라지고 백성이 건넘",
+     "여리고 성이 무너짐",
+     "가나안 정복과 열두 지파의 땅 분배"
+    ],
+    "events_en": [
+     "The Jordan parts and the people cross",
+     "The walls of Jericho fall",
+     "Conquest of Canaan and division of the land"
+    ],
+    "usfm": "JOS.1.1"
+   },
+   {
+    "id": "shiloh",
+    "lat": 32.05,
+    "lon": 35.29,
+    "ko": "실로 (사사 시대)",
+    "en": "Shiloh (Judges)",
+    "book_ko": "사사기 · 룻기",
+    "book_en": "Judges · Ruth",
+    "ref": "사사기 · 룻기",
+    "today_ko": "오늘날 키르베트 세일룬",
+    "today_en": "Khirbet Seilun today",
+    "note_ko": "왕이 없어 제멋대로 행하던 시대 — 참된 왕이 필요하다.",
+    "note_en": "With no king, everyone does as he pleases — a true king is needed.",
+    "events_ko": [
+     "성막이 실로에 세워짐",
+     "죄–압제–부르짖음–구원의 반복(드보라·기드온·삼손)",
+     "룻 — 어두운 시대의 신실함, 다윗의 족보"
+    ],
+    "events_en": [
+     "The tabernacle is set up at Shiloh",
+     "The cycle of sin–oppression–rescue (Deborah, Gideon, Samson)",
+     "Ruth — faithfulness in dark days, in David’s line"
+    ],
+    "usfm": "JDG.1.1"
+   },
+   {
+    "id": "jerusalem",
+    "lat": 31.78,
+    "lon": 35.23,
+    "ko": "예루살렘 · 통일왕국",
+    "en": "Jerusalem · United Kingdom",
+    "book_ko": "사무엘상하 · 열왕기상",
+    "book_en": "1–2 Samuel · 1 Kings",
+    "ref": "사무엘상 – 열왕기상 11",
+    "today_ko": "오늘날 예루살렘",
+    "today_en": "Jerusalem today",
+    "note_ko": "이스라엘의 황금기, 그리고 영원한 왕에 대한 약속.",
+    "note_en": "Israel’s golden age — and the promise of an everlasting king.",
+    "events_ko": [
+     "첫 왕 사울, 그리고 다윗과 골리앗",
+     "다윗 언약 — “네 왕위가 영원히 견고하리라”(삼하 7)",
+     "솔로몬이 예루살렘 성전을 건축"
+    ],
+    "events_en": [
+     "Saul the first king, then David and Goliath",
+     "The Davidic covenant — “your throne forever” (2 Sam 7)",
+     "Solomon builds the temple in Jerusalem"
+    ],
+    "usfm": "1SA.1.1"
+   },
+   {
+    "id": "samaria",
+    "lat": 32.28,
+    "lon": 35.19,
+    "ko": "사마리아 · 분열왕국",
+    "en": "Samaria · Divided Kingdom",
+    "book_ko": "열왕기 · 예언서",
+    "book_en": "Kings · the Prophets",
+    "ref": "열왕기상 12 – 열왕기하",
+    "today_ko": "오늘날 세바스티아",
+    "today_en": "Sebastia today",
+    "note_ko": "나라가 둘로 갈라져 점점 타락하고, 선지자들이 외친다.",
+    "note_en": "The kingdom splits and declines as the prophets cry out.",
+    "events_ko": [
+     "솔로몬 이후 남유다·북이스라엘로 분열",
+     "거듭된 우상숭배",
+     "엘리야·이사야·예레미야의 “돌아오라” + 메시아 예언"
+    ],
+    "events_en": [
+     "After Solomon, the split into Judah and Israel",
+     "Repeated idolatry",
+     "Elijah, Isaiah, Jeremiah cry ‘return’ — and foretell the Messiah"
+    ],
+    "usfm": "1KI.1.1"
+   },
+   {
+    "id": "nineveh",
+    "lat": 36.36,
+    "lon": 43.15,
+    "ko": "니느웨 (앗수르)",
+    "en": "Nineveh (Assyria)",
+    "book_ko": "열왕기하 17 · 요나",
+    "book_en": "2 Kings 17 · Jonah",
+    "ref": "열왕기하 17",
+    "today_ko": "오늘날 이라크 모술",
+    "today_en": "Mosul, Iraq today",
+    "note_ko": "경고를 무시한 북이스라엘이 먼저 무너진다.",
+    "note_en": "Ignoring every warning, the north falls first.",
+    "events_ko": [
+     "앗수르의 수도 니느웨",
+     "북이스라엘이 앗수르에 멸망(BC 722)",
+     "요나가 니느웨로 보냄받음"
+    ],
+    "events_en": [
+     "Nineveh, the capital of Assyria",
+     "The northern kingdom falls to Assyria (722 BC)",
+     "Jonah is sent to Nineveh"
+    ],
+    "usfm": "2KI.17.1"
+   },
+   {
+    "id": "babylon",
+    "lat": 32.54,
+    "lon": 44.42,
+    "ko": "바벨론",
+    "en": "Babylon",
+    "book_ko": "열왕기하 25 · 다니엘 · 에스겔",
+    "book_en": "2 Kings 25 · Daniel · Ezekiel",
+    "ref": "열왕기하 25 · 다니엘",
+    "today_ko": "오늘날 이라크 힐라",
+    "today_en": "Hillah, Iraq today",
+    "note_ko": "가장 어두운 밤 — 그러나 회복의 약속은 남는다.",
+    "note_en": "The darkest night — yet the promise of restoration remains.",
+    "events_ko": [
+     "예루살렘 함락·성전 파괴(BC 586)",
+     "남유다가 바벨론으로 끌려감",
+     "다니엘·에스겔 — 포로 중에도 신앙과 환상"
+    ],
+    "events_en": [
+     "Jerusalem falls, the temple is burned (586 BC)",
+     "Judah is carried off to Babylon",
+     "Daniel and Ezekiel — faith and visions in exile"
+    ],
+    "usfm": "2KI.25.1"
+   },
+   {
+    "id": "susa",
+    "lat": 32.19,
+    "lon": 48.26,
+    "ko": "수산 (페르시아)",
+    "en": "Susa (Persia)",
+    "book_ko": "에스더 · 느헤미야",
+    "book_en": "Esther · Nehemiah",
+    "ref": "에스더 · 느헤미야 1",
+    "today_ko": "오늘날 이란 슈시",
+    "today_en": "Shush, Iran today",
+    "note_ko": "이방 제국 한복판에서도 하나님이 백성을 지키신다.",
+    "note_en": "Even at the heart of a pagan empire, God keeps his people.",
+    "events_ko": [
+     "페르시아가 바벨론을 무너뜨림",
+     "에스더가 멸절 위기의 유대인을 구함",
+     "느헤미야가 왕 앞에서 기도하고 보냄받음"
+    ],
+    "events_en": [
+     "Persia overthrows Babylon",
+     "Esther saves the Jews from destruction",
+     "Nehemiah prays before the king and is sent"
+    ],
+    "usfm": "EST.1.1"
+   },
+   {
+    "id": "return",
+    "lat": 31.78,
+    "lon": 35.23,
+    "ko": "예루살렘 귀환",
+    "en": "Return to Jerusalem",
+    "book_ko": "에스라 · 느헤미야 · 말라기",
+    "book_en": "Ezra · Nehemiah · Malachi",
+    "ref": "에스라 · 느헤미야 · 말라기",
+    "today_ko": "오늘날 예루살렘",
+    "today_en": "Jerusalem today",
+    "note_ko": "돌아와 다시 세우지만 — 왕은 없다. 메시아를 기다린다.",
+    "note_en": "They return and rebuild — but no king has come. They await Messiah.",
+    "events_ko": [
+     "고레스 칙령으로 3차에 걸친 귀환(스룹바벨 538·에스라 458·느헤미야 444)",
+     "성전 재건과 예루살렘 성벽 복구",
+     "말라기 — “내가 내 사자를 보내리라”로 구약이 닫힘"
+    ],
+    "events_en": [
+     "Three waves of return by Cyrus’ decree (Zerubbabel 538 · Ezra 458 · Nehemiah 444)",
+     "Temple rebuilt and Jerusalem’s walls restored",
+     "Malachi — the OT closes: “I will send my messenger”"
+    ],
+    "usfm": "EZR.1.1"
+   }
+  ],
+  "labels": [
+   {
+    "lat": 33.2,
+    "lon": 33,
+    "ko": "지중해",
+    "en": "Mediterranean Sea",
+    "kind": "sea"
+   },
+   {
+    "lat": 34.6,
+    "lon": 42.5,
+    "ko": "메소포타미아",
+    "en": "Mesopotamia",
+    "kind": "region"
+   },
+   {
+    "lat": 28.8,
+    "lon": 40,
+    "ko": "아라비아 광야",
+    "en": "Arabian Desert",
+    "kind": "region"
+   },
+   {
+    "lat": 27.5,
+    "lon": 30.8,
+    "ko": "애굽",
+    "en": "Egypt",
+    "kind": "region"
+   }
+  ],
+  "journeys": [
+   {
+    "key": "flow",
+    "ko": "구속사의 흐름",
+    "en": "The redemptive story",
+    "color": "#e9b949",
+    "stops": [
+     "eden",
+     "noah",
+     "babel",
+     "ur",
+     "haran",
+     "shechem",
+     "egypt",
+     "sinai",
+     "kadesh",
+     "jericho",
+     "shiloh",
+     "jerusalem",
+     "samaria",
+     "nineveh",
+     "babylon",
+     "susa",
+     "return"
     ]
-  },
-
-  "jesus": {
-    "places": [
-      { "id":"bethlehem","lat":31.70,"lon":35.20, "ko":"베들레헴",  "en":"Bethlehem",  "book_ko":"마태 1–2 · 누가 2", "book_en":"Matthew 1–2 · Luke 2", "ref":"누가복음 2:4-7", "today_ko":"오늘날 베들레헴", "today_en":"Bethlehem today",
-        "note_ko":"약속하신 메시아가 다윗의 동네에 오신다 — 말씀이 육신이 되심.", "note_en":"The promised Messiah comes to the town of David — the Word made flesh.",
-        "events_ko":["다윗의 동네 베들레헴에서 탄생","목자들에게 전한 천사의 찬양","동방박사의 경배"],
-        "events_en":["Born in Bethlehem, the town of David","Angels announce the news to shepherds","The Magi come to worship"] },
-      { "id":"nazareth","lat":32.70,"lon":35.30, "ko":"나사렛",    "en":"Nazareth",   "book_ko":"누가 2 · 4", "book_en":"Luke 2 · 4", "ref":"누가복음 2:39-52 · 4:16-30", "today_ko":"오늘날 나사렛", "today_en":"Nazareth today",
-        "note_ko":"하나님이 평범한 마을에서 사람으로 자라신다.", "note_en":"God grows up as a man in an ordinary town.",
-        "events_ko":["목수의 가정에서 자라심","열두 살에 성전에서 묻고 답하심","훗날 고향 회당에서 배척받으심"],
-        "events_en":["Raised in a carpenter’s home","At twelve, asking and answering in the temple","Later rejected in his hometown synagogue"] },
-      { "id":"jordan",  "lat":31.84,"lon":35.55, "ko":"요단강",    "en":"Jordan River","book_ko":"마태 3–4", "book_en":"Matthew 3–4", "ref":"마태복음 3:13–4:11", "today_ko":"오늘날 요단강 하류", "today_en":"the lower Jordan today",
-        "note_ko":"공생애가 시작된다 — 하늘이 그를 아들로 인 치신다.", "note_en":"His public ministry begins — heaven seals him as the Son.",
-        "events_ko":["세례 요한에게 세례를 받으심","성령이 비둘기같이 임함 — “이는 내 사랑하는 아들”","광야에서 사탄의 세 시험을 이기심"],
-        "events_en":["Baptized by John","The Spirit descends like a dove — “This is my beloved Son”","Overcomes Satan’s three temptations in the wilderness"] },
-      { "id":"cana",    "lat":32.75,"lon":35.34, "ko":"가나",      "en":"Cana",       "book_ko":"요한 2", "book_en":"John 2", "ref":"요한복음 2:1-11", "today_ko":"오늘날 케페르 칸나", "today_en":"Kafr Kanna today",
-        "note_ko":"첫 표적으로 자기 영광을 나타내신다.", "note_en":"In his first sign he reveals his glory.",
-        "events_ko":["혼인 잔치에 손님으로 가심","물을 포도주로 — 예수님의 첫 번째 표적","제자들이 그를 믿음"],
-        "events_en":["A guest at a wedding","Water turned to wine — his first sign","His disciples believe in him"] },
-      { "id":"sychar",  "lat":32.21,"lon":35.28, "ko":"수가 (사마리아)","en":"Sychar (Samaria)","book_ko":"요한 2–4", "book_en":"John 2–4", "ref":"요한복음 2:13 – 4:42", "today_ko":"오늘날 나블루스 부근", "today_en":"near Nablus today",
-        "note_ko":"초기 사역의 길 — 예루살렘을 거쳐 사마리아에까지 복음이 닿는다.", "note_en":"The early ministry road — through Jerusalem and on to despised Samaria.",
-        "events_ko":["예루살렘 성전을 정결케 하심","니고데모와 밤의 대화 — “거듭나야 한다”","사마리아 여인에게 생수를 약속하심"],
-        "events_en":["He cleanses the temple in Jerusalem","By night, Nicodemus — “You must be born again”","Living water for a Samaritan woman"] },
-      { "id":"capernaum","lat":32.88,"lon":35.575,"ko":"가버나움", "en":"Capernaum",  "book_ko":"마태 4–13 · 마가 1–4", "book_en":"Matthew 4–13 · Mark 1–4", "ref":"마태복음 4:13 – 13", "today_ko":"오늘날 갈릴리 호숫가", "today_en":"the Galilee lakeshore today",
-        "note_ko":"갈릴리 사역의 본거지 — 부르심·가르침·반대가 한데 모인다.", "note_en":"Home base of the Galilean ministry — calling, teaching and opposition all meet here.",
-        "events_ko":["어부 제자들을 부르시고 본거지를 가버나움으로","산상수훈 — “심령이 가난한 자는 복이 있나니”","천국의 비유와, 커져 가는 바리새인의 반대"],
-        "events_en":["Calls the fishermen and bases himself here","The Sermon on the Mount — “Blessed are the poor in spirit”","Parables of the kingdom — and rising opposition"] },
-      { "id":"galilee", "lat":32.80,"lon":35.59, "ko":"갈릴리 바다","en":"Sea of Galilee","book_ko":"마가 4 · 6 · 요한 6", "book_en":"Mark 4 · 6 · John 6", "ref":"마가복음 4–6", "today_ko":"오늘날 긴네렛 호수", "today_en":"Lake Kinneret today",
-        "note_ko":"자연을 다스리는 권세로 자신이 누구신지 보이신다.", "note_en":"With power over nature he shows who he is.",
-        "events_ko":["“잠잠하라 고요하라” — 풍랑을 잔잔케 하심","오병이어로 오천 명을 먹이심","물 위를 걸어오심"],
-        "events_en":["“Peace, be still” — he calms the storm","Feeds 5,000 with five loaves and two fish","Walks on the water"] },
-      { "id":"caesarea_p","lat":33.25,"lon":35.69,"ko":"가이사랴 빌립보","en":"Caesarea Philippi","book_ko":"마태 16–17", "book_en":"Matthew 16–17", "ref":"마태복음 16:13–17", "today_ko":"오늘날 바니아스", "today_en":"Banias today",
-        "note_ko":"제자들이 그가 그리스도이심을 깨닫고, 십자가의 길이 드러난다.", "note_en":"The disciples grasp that he is the Christ, and the way of the cross opens.",
-        "events_ko":["베드로의 고백 — “주는 그리스도시요 살아 계신 하나님의 아들”","처음으로 자신의 죽음과 부활을 예고","변화산에서 영광을 보이심"],
-        "events_en":["Peter’s confession — “You are the Christ, the Son of the living God”","He first foretells his death and resurrection","Transfigured in glory on the mountain"] },
-      { "id":"jericho", "lat":31.87,"lon":35.44, "ko":"여리고",    "en":"Jericho",    "book_ko":"누가 18–19", "book_en":"Luke 18–19", "ref":"누가복음 18:35–19:10", "today_ko":"오늘날 여리고", "today_en":"Jericho today",
-        "note_ko":"예루살렘으로 올라가는 길, 잃은 자를 찾으신다.", "note_en":"On the road up to Jerusalem, he seeks the lost.",
-        "events_ko":["맹인 바디매오의 눈을 뜨게 하심","세리장 삭개오를 부르심","“인자가 온 것은 잃어버린 자를 찾아 구원하려 함이라”"],
-        "events_en":["He gives sight to blind Bartimaeus","He calls Zacchaeus the tax collector","“The Son of Man came to seek and save the lost”"] },
-      { "id":"bethany", "lat":31.77,"lon":35.27, "ko":"베다니",    "en":"Bethany",    "book_ko":"요한 11–12", "book_en":"John 11–12", "ref":"요한복음 11–12", "today_ko":"오늘날 알에이자리야", "today_en":"al-Eizariya today",
-        "note_ko":"죽음을 이기는 분임을 보이시며, 마지막 한 주를 앞두신다.", "note_en":"He shows mastery over death on the eve of his final week.",
-        "events_ko":["죽은 나사로를 무덤에서 살리심 — “나는 부활이요 생명이니”","마리아가 향유를 부어 장례를 예비함","이 표적으로 죽이려는 모의가 굳어짐"],
-        "events_en":["He raises Lazarus from the tomb — “I am the resurrection and the life”","Mary anoints him for burial","This sign hardens the plot to kill him"] },
-      { "id":"jerusalem","lat":31.78,"lon":35.23,"ko":"예루살렘",  "en":"Jerusalem",  "book_ko":"마태 21–28 · 누가 24 · 사도행전 1", "book_en":"Matthew 21–28 · Luke 24 · Acts 1", "ref":"마태복음 21–28", "today_ko":"오늘날 예루살렘", "today_en":"Jerusalem today",
-        "note_ko":"성경 전체가 향해 온 절정 — 십자가·부활·승천.", "note_en":"The climax the whole Bible points to — cross, resurrection, ascension.",
-        "events_ko":["종려주일 입성, 성전을 다시 뒤엎으심","최후의 만찬에서 제자들의 발을 씻기심","십자가에서 죽으심","사흘 만에 부활하시고, 승천하심"],
-        "events_en":["Triumphal entry; he overturns the temple tables again","At the Last Supper he washes the disciples’ feet","He dies on the cross","Risen on the third day, then ascended"] }
+   }
+  ]
+ },
+ "jesus": {
+  "places": [
+   {
+    "id": "bethlehem",
+    "lat": 31.7,
+    "lon": 35.2,
+    "ko": "베들레헴",
+    "en": "Bethlehem",
+    "book_ko": "마태 1–2 · 누가 2",
+    "book_en": "Matthew 1–2 · Luke 2",
+    "ref": "누가복음 2:4-7",
+    "today_ko": "오늘날 베들레헴",
+    "today_en": "Bethlehem today",
+    "note_ko": "약속하신 메시아가 다윗의 동네에 오신다 — 말씀이 육신이 되심.",
+    "note_en": "The promised Messiah comes to the town of David — the Word made flesh.",
+    "events_ko": [
+     "다윗의 동네 베들레헴에서 탄생",
+     "목자들에게 전한 천사의 찬양",
+     "동방박사의 경배"
     ],
-    "labels": [
-      { "lat":32.45, "lon":34.5, "ko":"지중해", "en":"Mediterranean Sea", "kind":"sea" },
-      { "lat":33.15, "lon":35.25, "ko":"갈릴리", "en":"Galilee", "kind":"region" },
-      { "lat":32.25, "lon":35.0, "ko":"사마리아", "en":"Samaria", "kind":"region" },
-      { "lat":31.55, "lon":35.0, "ko":"유대", "en":"Judea", "kind":"region" },
-      { "lat":32.55, "lon":35.95, "ko":"데가볼리", "en":"Decapolis", "kind":"region" },
-      { "lat":31.95, "lon":35.72, "ko":"베레아", "en":"Perea", "kind":"region" },
-      { "lat":31.4, "lon":35.47, "ko":"사해", "en":"Dead Sea", "kind":"sea" }
+    "events_en": [
+     "Born in Bethlehem, the town of David",
+     "Angels announce the news to shepherds",
+     "The Magi come to worship"
     ],
-    "journeys": [
-      { "key":"life", "ko":"예수님의 행적", "en":"The path of Jesus", "color":"#facc15",
-        "stops":["bethlehem","nazareth","jordan","cana","sychar","capernaum","galilee","caesarea_p","jericho","bethany","jerusalem"] }
+    "usfm": "MAT.1.1"
+   },
+   {
+    "id": "nazareth",
+    "lat": 32.7,
+    "lon": 35.3,
+    "ko": "나사렛",
+    "en": "Nazareth",
+    "book_ko": "누가 2 · 4",
+    "book_en": "Luke 2 · 4",
+    "ref": "누가복음 2:39-52 · 4:16-30",
+    "today_ko": "오늘날 나사렛",
+    "today_en": "Nazareth today",
+    "note_ko": "하나님이 평범한 마을에서 사람으로 자라신다.",
+    "note_en": "God grows up as a man in an ordinary town.",
+    "events_ko": [
+     "목수의 가정에서 자라심",
+     "열두 살에 성전에서 묻고 답하심",
+     "훗날 고향 회당에서 배척받으심"
+    ],
+    "events_en": [
+     "Raised in a carpenter’s home",
+     "At twelve, asking and answering in the temple",
+     "Later rejected in his hometown synagogue"
+    ],
+    "usfm": "LUK.2.1"
+   },
+   {
+    "id": "jordan",
+    "lat": 31.84,
+    "lon": 35.55,
+    "ko": "요단강",
+    "en": "Jordan River",
+    "book_ko": "마태 3–4",
+    "book_en": "Matthew 3–4",
+    "ref": "마태복음 3:13–4:11",
+    "today_ko": "오늘날 요단강 하류",
+    "today_en": "the lower Jordan today",
+    "note_ko": "공생애가 시작된다 — 하늘이 그를 아들로 인 치신다.",
+    "note_en": "His public ministry begins — heaven seals him as the Son.",
+    "events_ko": [
+     "세례 요한에게 세례를 받으심",
+     "성령이 비둘기같이 임함 — “이는 내 사랑하는 아들”",
+     "광야에서 사탄의 세 시험을 이기심"
+    ],
+    "events_en": [
+     "Baptized by John",
+     "The Spirit descends like a dove — “This is my beloved Son”",
+     "Overcomes Satan’s three temptations in the wilderness"
+    ],
+    "usfm": "MAT.3.1"
+   },
+   {
+    "id": "cana",
+    "lat": 32.75,
+    "lon": 35.34,
+    "ko": "가나",
+    "en": "Cana",
+    "book_ko": "요한 2",
+    "book_en": "John 2",
+    "ref": "요한복음 2:1-11",
+    "today_ko": "오늘날 케페르 칸나",
+    "today_en": "Kafr Kanna today",
+    "note_ko": "첫 표적으로 자기 영광을 나타내신다.",
+    "note_en": "In his first sign he reveals his glory.",
+    "events_ko": [
+     "혼인 잔치에 손님으로 가심",
+     "물을 포도주로 — 예수님의 첫 번째 표적",
+     "제자들이 그를 믿음"
+    ],
+    "events_en": [
+     "A guest at a wedding",
+     "Water turned to wine — his first sign",
+     "His disciples believe in him"
+    ],
+    "usfm": "JHN.2.1"
+   },
+   {
+    "id": "sychar",
+    "lat": 32.21,
+    "lon": 35.28,
+    "ko": "수가 (사마리아)",
+    "en": "Sychar (Samaria)",
+    "book_ko": "요한 2–4",
+    "book_en": "John 2–4",
+    "ref": "요한복음 2:13 – 4:42",
+    "today_ko": "오늘날 나블루스 부근",
+    "today_en": "near Nablus today",
+    "note_ko": "초기 사역의 길 — 예루살렘을 거쳐 사마리아에까지 복음이 닿는다.",
+    "note_en": "The early ministry road — through Jerusalem and on to despised Samaria.",
+    "events_ko": [
+     "예루살렘 성전을 정결케 하심",
+     "니고데모와 밤의 대화 — “거듭나야 한다”",
+     "사마리아 여인에게 생수를 약속하심"
+    ],
+    "events_en": [
+     "He cleanses the temple in Jerusalem",
+     "By night, Nicodemus — “You must be born again”",
+     "Living water for a Samaritan woman"
+    ],
+    "usfm": "JHN.2.1"
+   },
+   {
+    "id": "capernaum",
+    "lat": 32.88,
+    "lon": 35.575,
+    "ko": "가버나움",
+    "en": "Capernaum",
+    "book_ko": "마태 4–13 · 마가 1–4",
+    "book_en": "Matthew 4–13 · Mark 1–4",
+    "ref": "마태복음 4:13 – 13",
+    "today_ko": "오늘날 갈릴리 호숫가",
+    "today_en": "the Galilee lakeshore today",
+    "note_ko": "갈릴리 사역의 본거지 — 부르심·가르침·반대가 한데 모인다.",
+    "note_en": "Home base of the Galilean ministry — calling, teaching and opposition all meet here.",
+    "events_ko": [
+     "어부 제자들을 부르시고 본거지를 가버나움으로",
+     "산상수훈 — “심령이 가난한 자는 복이 있나니”",
+     "천국의 비유와, 커져 가는 바리새인의 반대"
+    ],
+    "events_en": [
+     "Calls the fishermen and bases himself here",
+     "The Sermon on the Mount — “Blessed are the poor in spirit”",
+     "Parables of the kingdom — and rising opposition"
+    ],
+    "usfm": "MAT.4.1"
+   },
+   {
+    "id": "galilee",
+    "lat": 32.8,
+    "lon": 35.59,
+    "ko": "갈릴리 바다",
+    "en": "Sea of Galilee",
+    "book_ko": "마가 4 · 6 · 요한 6",
+    "book_en": "Mark 4 · 6 · John 6",
+    "ref": "마가복음 4–6",
+    "today_ko": "오늘날 긴네렛 호수",
+    "today_en": "Lake Kinneret today",
+    "note_ko": "자연을 다스리는 권세로 자신이 누구신지 보이신다.",
+    "note_en": "With power over nature he shows who he is.",
+    "events_ko": [
+     "“잠잠하라 고요하라” — 풍랑을 잔잔케 하심",
+     "오병이어로 오천 명을 먹이심",
+     "물 위를 걸어오심"
+    ],
+    "events_en": [
+     "“Peace, be still” — he calms the storm",
+     "Feeds 5,000 with five loaves and two fish",
+     "Walks on the water"
+    ],
+    "usfm": "MRK.4.1"
+   },
+   {
+    "id": "caesarea_p",
+    "lat": 33.25,
+    "lon": 35.69,
+    "ko": "가이사랴 빌립보",
+    "en": "Caesarea Philippi",
+    "book_ko": "마태 16–17",
+    "book_en": "Matthew 16–17",
+    "ref": "마태복음 16:13–17",
+    "today_ko": "오늘날 바니아스",
+    "today_en": "Banias today",
+    "note_ko": "제자들이 그가 그리스도이심을 깨닫고, 십자가의 길이 드러난다.",
+    "note_en": "The disciples grasp that he is the Christ, and the way of the cross opens.",
+    "events_ko": [
+     "베드로의 고백 — “주는 그리스도시요 살아 계신 하나님의 아들”",
+     "처음으로 자신의 죽음과 부활을 예고",
+     "변화산에서 영광을 보이심"
+    ],
+    "events_en": [
+     "Peter’s confession — “You are the Christ, the Son of the living God”",
+     "He first foretells his death and resurrection",
+     "Transfigured in glory on the mountain"
+    ],
+    "usfm": "MAT.16.1"
+   },
+   {
+    "id": "jericho",
+    "lat": 31.87,
+    "lon": 35.44,
+    "ko": "여리고",
+    "en": "Jericho",
+    "book_ko": "누가 18–19",
+    "book_en": "Luke 18–19",
+    "ref": "누가복음 18:35–19:10",
+    "today_ko": "오늘날 여리고",
+    "today_en": "Jericho today",
+    "note_ko": "예루살렘으로 올라가는 길, 잃은 자를 찾으신다.",
+    "note_en": "On the road up to Jerusalem, he seeks the lost.",
+    "events_ko": [
+     "맹인 바디매오의 눈을 뜨게 하심",
+     "세리장 삭개오를 부르심",
+     "“인자가 온 것은 잃어버린 자를 찾아 구원하려 함이라”"
+    ],
+    "events_en": [
+     "He gives sight to blind Bartimaeus",
+     "He calls Zacchaeus the tax collector",
+     "“The Son of Man came to seek and save the lost”"
+    ],
+    "usfm": "LUK.18.1"
+   },
+   {
+    "id": "bethany",
+    "lat": 31.77,
+    "lon": 35.27,
+    "ko": "베다니",
+    "en": "Bethany",
+    "book_ko": "요한 11–12",
+    "book_en": "John 11–12",
+    "ref": "요한복음 11–12",
+    "today_ko": "오늘날 알에이자리야",
+    "today_en": "al-Eizariya today",
+    "note_ko": "죽음을 이기는 분임을 보이시며, 마지막 한 주를 앞두신다.",
+    "note_en": "He shows mastery over death on the eve of his final week.",
+    "events_ko": [
+     "죽은 나사로를 무덤에서 살리심 — “나는 부활이요 생명이니”",
+     "마리아가 향유를 부어 장례를 예비함",
+     "이 표적으로 죽이려는 모의가 굳어짐"
+    ],
+    "events_en": [
+     "He raises Lazarus from the tomb — “I am the resurrection and the life”",
+     "Mary anoints him for burial",
+     "This sign hardens the plot to kill him"
+    ],
+    "usfm": "JHN.11.1"
+   },
+   {
+    "id": "jerusalem",
+    "lat": 31.78,
+    "lon": 35.23,
+    "ko": "예루살렘",
+    "en": "Jerusalem",
+    "book_ko": "마태 21–28 · 누가 24 · 사도행전 1",
+    "book_en": "Matthew 21–28 · Luke 24 · Acts 1",
+    "ref": "마태복음 21–28",
+    "today_ko": "오늘날 예루살렘",
+    "today_en": "Jerusalem today",
+    "note_ko": "성경 전체가 향해 온 절정 — 십자가·부활·승천.",
+    "note_en": "The climax the whole Bible points to — cross, resurrection, ascension.",
+    "events_ko": [
+     "종려주일 입성, 성전을 다시 뒤엎으심",
+     "최후의 만찬에서 제자들의 발을 씻기심",
+     "십자가에서 죽으심",
+     "사흘 만에 부활하시고, 승천하심"
+    ],
+    "events_en": [
+     "Triumphal entry; he overturns the temple tables again",
+     "At the Last Supper he washes the disciples’ feet",
+     "He dies on the cross",
+     "Risen on the third day, then ascended"
+    ],
+    "usfm": "MAT.21.1"
+   }
+  ],
+  "labels": [
+   {
+    "lat": 32.45,
+    "lon": 34.5,
+    "ko": "지중해",
+    "en": "Mediterranean Sea",
+    "kind": "sea"
+   },
+   {
+    "lat": 33.15,
+    "lon": 35.25,
+    "ko": "갈릴리",
+    "en": "Galilee",
+    "kind": "region"
+   },
+   {
+    "lat": 32.25,
+    "lon": 35,
+    "ko": "사마리아",
+    "en": "Samaria",
+    "kind": "region"
+   },
+   {
+    "lat": 31.55,
+    "lon": 35,
+    "ko": "유대",
+    "en": "Judea",
+    "kind": "region"
+   },
+   {
+    "lat": 32.55,
+    "lon": 35.95,
+    "ko": "데가볼리",
+    "en": "Decapolis",
+    "kind": "region"
+   },
+   {
+    "lat": 31.95,
+    "lon": 35.72,
+    "ko": "베레아",
+    "en": "Perea",
+    "kind": "region"
+   },
+   {
+    "lat": 31.4,
+    "lon": 35.47,
+    "ko": "사해",
+    "en": "Dead Sea",
+    "kind": "sea"
+   }
+  ],
+  "journeys": [
+   {
+    "key": "life",
+    "ko": "예수님의 행적",
+    "en": "The path of Jesus",
+    "color": "#facc15",
+    "stops": [
+     "bethlehem",
+     "nazareth",
+     "jordan",
+     "cana",
+     "sychar",
+     "capernaum",
+     "galilee",
+     "caesarea_p",
+     "jericho",
+     "bethany",
+     "jerusalem"
     ]
-  },
-
-  "paul": {
-    "places": [
-      { "id":"antioch",  "lat":36.20,"lon":36.16, "ko":"안디옥",        "en":"Antioch",        "book_ko":"사도행전 13 · 15", "book_en":"Acts 13 · 15", "today_ko":"오늘날 튀르키예 안타키아", "today_en":"Antakya, Türkiye today",
-        "note_ko":"이방 선교가 시작되고 돌아오는 모(母) 교회.", "note_en":"The sending church where the Gentile mission begins and returns.",
-        "events_ko":["금식·기도 중 성령이 바나바와 바울을 따로 세움","‘그리스도인’이라 처음 불린 교회","1·2·3차 전도여행의 출발 기지"],
-        "events_en":["In prayer the Spirit sets apart Barnabas and Saul","The church where believers were first called ‘Christians’","Launch point of the 1st, 2nd and 3rd journeys"] },
-      { "id":"seleucia", "lat":36.12,"lon":35.93, "ko":"실루기아",      "en":"Seleucia",       "book_ko":"사도행전 13:4", "book_en":"Acts 13:4", "today_ko":"오늘날 튀르키예", "today_en":"Türkiye today",
-        "note_ko":"안디옥의 항구 — 배를 타고 구브로로 떠난다.", "note_en":"Antioch’s port — they set sail for Cyprus." },
-      { "id":"salamis",  "lat":35.18,"lon":33.90, "ko":"살라미 (구브로)","en":"Salamis (Cyprus)","book_ko":"사도행전 13:5", "book_en":"Acts 13:5", "today_ko":"오늘날 키프로스", "today_en":"Cyprus today",
-        "note_ko":"구브로 섬에 첫발 — 회당에서 말씀을 전한다.", "note_en":"First stop on Cyprus — preaching in the synagogues." },
-      { "id":"paphos",   "lat":34.77,"lon":32.42, "ko":"바보",          "en":"Paphos",         "book_ko":"사도행전 13:6-12", "book_en":"Acts 13:6-12", "today_ko":"오늘날 키프로스", "today_en":"Cyprus today",
-        "note_ko":"복음을 막는 세력 앞에서 권능이 나타난다.", "note_en":"Power is shown against those who oppose the gospel.",
-        "events_ko":["마술사 엘루마가 잠시 눈이 멂","총독 서기오 바울이 믿음","이때부터 ‘바울’이 앞장섬"],
-        "events_en":["Elymas the magician is struck blind","Sergius Paulus the proconsul believes","From here ‘Paul’ takes the lead"] },
-      { "id":"perga",    "lat":36.96,"lon":30.85, "ko":"버가",          "en":"Perga",          "book_ko":"사도행전 13:13", "book_en":"Acts 13:13", "today_ko":"오늘날 튀르키예 안탈리아", "today_en":"Antalya, Türkiye today",
-        "note_ko":"밤빌리아의 항구 — 여기서 마가 요한이 떠난다.", "note_en":"A port in Pamphylia — here John Mark turns back." },
-      { "id":"pantioch", "lat":38.30,"lon":31.19, "ko":"비시디아 안디옥","en":"Pisidian Antioch","book_ko":"사도행전 13:14-50", "book_en":"Acts 13:14-50", "today_ko":"오늘날 튀르키예 얄바치", "today_en":"Yalvaç, Türkiye today",
-        "note_ko":"이방인을 향한 복음이 본격적으로 터져 나온다.", "note_en":"The gospel breaks open toward the Gentiles.",
-        "events_ko":["회당에서 구원의 역사를 길게 선포","많은 이방인이 기뻐하며 말씀을 받음","유대인의 반대로 쫓겨남"],
-        "events_en":["A long sermon of salvation history in the synagogue","Many Gentiles rejoice and receive the word","Driven out by opposition"] },
-      { "id":"iconium",  "lat":37.87,"lon":32.49, "ko":"이고니온",      "en":"Iconium",        "book_ko":"사도행전 14:1-7", "book_en":"Acts 14:1-7", "today_ko":"오늘날 튀르키예 코니아", "today_en":"Konya, Türkiye today",
-        "note_ko":"큰 무리가 믿었으나 핍박을 피해 떠난다.", "note_en":"Many believe, but persecution forces them on." },
-      { "id":"lystra",   "lat":37.58,"lon":32.45, "ko":"루스드라",      "en":"Lystra",         "book_ko":"사도행전 14:8-20", "book_en":"Acts 14:8-20", "today_ko":"오늘날 튀르키예", "today_en":"Türkiye today",
-        "note_ko":"신으로 떠받들렸다가, 곧 돌에 맞는다.", "note_en":"Hailed as a god, then stoned.",
-        "events_ko":["나면서 걷지 못하던 사람을 고침","무리가 신으로 여겨 제사하려 함","돌에 맞아 죽은 줄 알았으나 다시 일어남"],
-        "events_en":["Heals a man lame from birth","The crowd tries to sacrifice to them as gods","Stoned and left for dead, he gets up"] },
-      { "id":"derbe",    "lat":37.35,"lon":33.27, "ko":"더베",          "en":"Derbe",          "book_ko":"사도행전 14:20-21", "book_en":"Acts 14:20-21", "today_ko":"오늘날 튀르키예", "today_en":"Türkiye today",
-        "note_ko":"많은 제자를 얻고, 왔던 길로 돌아가 교회를 굳게 한다.", "note_en":"Many disciples are made; they retrace their steps to strengthen the churches." },
-      { "id":"troas",    "lat":39.76,"lon":26.16, "ko":"드로아",        "en":"Troas",          "book_ko":"사도행전 16:8-10", "book_en":"Acts 16:8-10", "today_ko":"오늘날 튀르키예", "today_en":"Türkiye today",
-        "note_ko":"복음이 처음으로 유럽을 향하는 전환점.", "note_en":"The turning point where the gospel first heads for Europe.",
-        "events_ko":["마게도냐 사람의 환상","“건너와서 우리를 도우라”","곧 바다를 건너 유럽으로"],
-        "events_en":["A vision of a man of Macedonia","“Come over and help us”","They cross at once into Europe"] },
-      { "id":"philippi", "lat":41.01,"lon":24.29, "ko":"빌립보",        "en":"Philippi",       "book_ko":"사도행전 16 · 빌립보서", "book_en":"Acts 16 · Philippians", "today_ko":"오늘날 그리스 북부", "today_en":"northern Greece today",
-        "note_ko":"유럽의 첫 교회 — 감옥에서도 복음이 이긴다.", "note_en":"Europe’s first church — the gospel triumphs even in prison.",
-        "events_ko":["자색 옷감 장수 루디아의 회심","점치는 여종에게서 귀신을 쫓아냄","한밤 찬송 중 지진, 간수의 온 집이 믿음"],
-        "events_en":["Lydia, a dealer in purple, believes","A fortune-telling slave girl is freed","Midnight hymns, an earthquake, the jailer’s household saved"] },
-      { "id":"thess",    "lat":40.64,"lon":22.94, "ko":"데살로니가",    "en":"Thessalonica",   "book_ko":"사도행전 17 · 데살로니가전후서", "book_en":"Acts 17 · 1–2 Thessalonians", "today_ko":"오늘날 그리스 테살로니키", "today_en":"Thessaloniki, Greece today",
-        "note_ko":"말씀이 도시를 흔들고, 반대가 끓어오른다.", "note_en":"The word shakes the city and opposition boils over.",
-        "events_ko":["세 안식일 동안 회당에서 강론","“천하를 어지럽게 하던 이 사람들”","소동을 피해 밤에 떠남"],
-        "events_en":["Reasons in the synagogue three Sabbaths","“These who have turned the world upside down”","They slip away by night"] },
-      { "id":"berea",    "lat":40.52,"lon":22.20, "ko":"베뢰아",        "en":"Berea",          "book_ko":"사도행전 17:10-15", "book_en":"Acts 17:10-15", "today_ko":"오늘날 그리스 베리아", "today_en":"Veria, Greece today",
-        "note_ko":"말씀을 스스로 살펴 받은 ‘신사적인’ 사람들.", "note_en":"The ‘noble’ ones who examined the word for themselves.",
-        "events_ko":["간절한 마음으로 말씀을 받음","날마다 성경을 상고하여 사실인지 확인","많은 사람이 믿음"],
-        "events_en":["They receive the word eagerly","Daily they examine the Scriptures to check it","Many come to believe"] },
-      { "id":"athens",   "lat":37.98,"lon":23.73, "ko":"아덴",          "en":"Athens",         "book_ko":"사도행전 17:16-34", "book_en":"Acts 17:16-34", "today_ko":"오늘날 그리스 아테네", "today_en":"Athens, Greece today",
-        "note_ko":"철학의 도시에서 ‘알지 못하는 신’을 전한다.", "note_en":"In the city of philosophers he proclaims the ‘unknown god’.",
-        "events_ko":["우상으로 가득한 도시에 격분","아레오바고에서 창조주와 부활을 전함","조롱 속에서도 몇 사람이 믿음"],
-        "events_en":["Provoked by a city full of idols","On the Areopagus he preaches Creator and resurrection","Mocked, yet a few believe"] },
-      { "id":"corinth",  "lat":37.91,"lon":22.88, "ko":"고린도",        "en":"Corinth",        "book_ko":"사도행전 18 · 고린도전후서", "book_en":"Acts 18 · 1–2 Corinthians", "today_ko":"오늘날 그리스", "today_en":"Greece today",
-        "note_ko":"환락의 도시에 1년 반을 머물며 교회를 세운다.", "note_en":"He stays a year and a half, planting a church in a city of vice.",
-        "events_ko":["아굴라·브리스길라와 함께 천막을 만들며 머묾","“두려워하지 말라 내가 너와 함께 있으매”","많은 고린도 사람이 믿고 세례받음"],
-        "events_en":["Makes tents with Aquila and Priscilla","“Do not be afraid… for I am with you”","Many Corinthians believe and are baptized"] },
-      { "id":"ephesus",  "lat":37.94,"lon":27.34, "ko":"에베소",        "en":"Ephesus",        "book_ko":"사도행전 19 · 에베소서", "book_en":"Acts 19 · Ephesians", "today_ko":"오늘날 튀르키예 셀추크", "today_en":"Selçuk, Türkiye today",
-        "note_ko":"3차 여행의 중심 — 아시아 전역에 말씀이 퍼진다.", "note_en":"Heart of the third journey — the word spreads across Asia.",
-        "events_ko":["두란노 서원에서 2년간 날마다 강론","마술책을 불사르고 큰 능력의 역사","은장색 데메드리오가 일으킨 폭동"],
-        "events_en":["Daily teaching for two years in the hall of Tyrannus","Magic books burned; powerful works","The silversmith Demetrius starts a riot"] },
-      { "id":"miletus",  "lat":37.53,"lon":27.28, "ko":"밀레도",        "en":"Miletus",        "book_ko":"사도행전 20:17-38", "book_en":"Acts 20:17-38", "today_ko":"오늘날 튀르키예", "today_en":"Türkiye today",
-        "note_ko":"에베소 장로들과 눈물로 작별한다.", "note_en":"A tearful farewell to the Ephesian elders.",
-        "events_ko":["“하나님이 자기 피로 사신 교회를 치라”","다시는 못 볼 줄 알고 함께 우는 장로들"],
-        "events_en":["“Care for the church he bought with his own blood”","The elders weep, knowing they’ll not see him again"] },
-      { "id":"caesarea", "lat":32.50,"lon":34.89, "ko":"가이사랴",      "en":"Caesarea",       "book_ko":"사도행전 23–26", "book_en":"Acts 23–26", "today_ko":"오늘날 이스라엘 해안", "today_en":"Israel’s coast today",
-        "note_ko":"총독·왕 앞에서 2년간 복음을 변론한다.", "note_en":"For two years he defends the gospel before governors and a king.",
-        "events_ko":["벨릭스·베스도 총독 앞 재판","아그립바 왕 앞에서의 변론","“가이사에게 상소하노라” — 로마로"],
-        "events_en":["Trials before governors Felix and Festus","His defense before King Agrippa","“I appeal to Caesar” — on to Rome"] },
-      { "id":"jerusalem","lat":31.78,"lon":35.23, "ko":"예루살렘",      "en":"Jerusalem",      "book_ko":"사도행전 21–23", "book_en":"Acts 21–23", "today_ko":"오늘날 예루살렘", "today_en":"Jerusalem today",
-        "note_ko":"성전에서 붙잡혀 죄수의 길이 시작된다.", "note_en":"Seized in the temple, his road as a prisoner begins.",
-        "events_ko":["성전에서 무리에게 붙잡힘","공회 앞에서 변론","로마 시민권으로 가이사랴로 호송"],
-        "events_en":["Seized by the crowd in the temple","Defends himself before the council","As a Roman citizen, sent under guard to Caesarea"] },
-      { "id":"myra",     "lat":36.26,"lon":29.98, "ko":"무라",          "en":"Myra",           "book_ko":"사도행전 27:5-6", "book_en":"Acts 27:5-6", "today_ko":"오늘날 튀르키예 데므레", "today_en":"Demre, Türkiye today",
-        "note_ko":"로마로 가는 알렉산드리아 배로 갈아탄다.", "note_en":"They transfer to an Alexandrian ship bound for Rome." },
-      { "id":"fairhaven","lat":34.91,"lon":24.78, "ko":"미항 (그레데)", "en":"Fair Havens (Crete)","book_ko":"사도행전 27:8-12", "book_en":"Acts 27:8-12", "today_ko":"오늘날 크레타", "today_en":"Crete today",
-        "note_ko":"항해를 멈추라는 바울의 경고가 무시된다.", "note_en":"Paul’s warning to stop sailing goes unheeded." },
-      { "id":"crete",    "lat":35.30,"lon":24.80, "ko":"그레데",        "en":"Crete",          "book_ko":"디도서", "book_en":"Titus", "today_ko":"오늘날 크레타", "today_en":"Crete today",
-        "note_ko":"석방 후, 디도를 남겨 교회를 세우게 한 섬.", "note_en":"After his release, the island where he leaves Titus to set the churches in order.",
-        "events_ko":["디도를 남겨 각 성에 장로를 세우게 함","“책망할 것이 없는” 참된 지도자를 세우라","디도서를 써 보냄"],
-        "events_en":["Leaves Titus to appoint elders in every town","Calls for blameless, faithful leaders","Writes the letter to Titus"] },
-      { "id":"malta",    "lat":35.90,"lon":14.40, "ko":"멜리데 (몰타)", "en":"Malta",          "book_ko":"사도행전 27–28", "book_en":"Acts 27–28", "today_ko":"오늘날 몰타", "today_en":"Malta today",
-        "note_ko":"광풍과 난파 속에서도 하나님의 약속이 지켜진다.", "note_en":"Through storm and shipwreck, God’s promise holds.",
-        "events_ko":["유라굴로 광풍과 난파, 그러나 276명 전원 생존","독사에 물려도 상하지 않음","섬의 병자들을 고침"],
-        "events_en":["The ‘northeaster’ wrecks the ship, yet all 276 survive","Bitten by a viper, he is unharmed","He heals the sick of the island"] },
-      { "id":"syracuse", "lat":37.07,"lon":15.29, "ko":"수라구사",      "en":"Syracuse",       "book_ko":"사도행전 28:12", "book_en":"Acts 28:12", "today_ko":"오늘날 이탈리아 시칠리아", "today_en":"Sicily, Italy today",
-        "note_ko":"시칠리아에서 사흘을 머문다.", "note_en":"They stay three days in Sicily." },
-      { "id":"puteoli",  "lat":40.82,"lon":14.12, "ko":"보디올",        "en":"Puteoli",        "book_ko":"사도행전 28:13-14", "book_en":"Acts 28:13-14", "today_ko":"오늘날 이탈리아 포추올리", "today_en":"Pozzuoli, Italy today",
-        "note_ko":"이탈리아에 상륙해 형제들을 만난다.", "note_en":"They land in Italy and are met by fellow believers." },
-      { "id":"rome",     "lat":41.89,"lon":12.49, "ko":"로마",          "en":"Rome",           "book_ko":"사도행전 28 · 옥중서신 · 디모데후서", "book_en":"Acts 28 · Prison Letters · 2 Timothy", "today_ko":"오늘날 이탈리아 로마", "today_en":"Rome, Italy today",
-        "note_ko":"복음이 마침내 제국의 심장에 닿는다 — 끝이 아니라 시작.", "note_en":"The gospel reaches the heart of the empire at last — not an end but a beginning.",
-        "events_ko":["셋집에서 2년간 머물며 거침없이 하나님의 나라를 전파","여기서 옥중서신(엡·빌·골·몬)을 써 보냄","훗날 다시 갇혀 디모데후서를 쓰고 순교 — “내가 선한 싸움을 싸우고 나의 달려갈 길을 마치고”"],
-        "events_en":["Two years under house arrest, boldly proclaiming the kingdom","From here he writes the Prison Letters (Eph·Phil·Col·Phm)","Later imprisoned again, writes 2 Timothy and is martyred — “I have fought the good fight, I have finished the race”"] }
+   }
+  ]
+ },
+ "paul": {
+  "places": [
+   {
+    "id": "antioch",
+    "lat": 36.2,
+    "lon": 36.16,
+    "ko": "안디옥",
+    "en": "Antioch",
+    "book_ko": "사도행전 13 · 15",
+    "book_en": "Acts 13 · 15",
+    "today_ko": "오늘날 튀르키예 안타키아",
+    "today_en": "Antakya, Türkiye today",
+    "note_ko": "이방 선교가 시작되고 돌아오는 모(母) 교회.",
+    "note_en": "The sending church where the Gentile mission begins and returns.",
+    "events_ko": [
+     "금식·기도 중 성령이 바나바와 바울을 따로 세움",
+     "‘그리스도인’이라 처음 불린 교회",
+     "1·2·3차 전도여행의 출발 기지"
     ],
-    "labels": [
-      { "lat":34.5, "lon":18.5, "ko":"지중해", "en":"Mediterranean Sea", "kind":"sea" },
-      { "lat":38.6, "lon":25.0, "ko":"에게해", "en":"Aegean Sea", "kind":"sea" },
-      { "lat":39.2, "lon":32.5, "ko":"소아시아", "en":"Asia Minor", "kind":"region" },
-      { "lat":41.3, "lon":23.2, "ko":"마케도니아", "en":"Macedonia", "kind":"region" },
-      { "lat":42.0, "lon":13.5, "ko":"이탈리아", "en":"Italy", "kind":"region" }
+    "events_en": [
+     "In prayer the Spirit sets apart Barnabas and Saul",
+     "The church where believers were first called ‘Christians’",
+     "Launch point of the 1st, 2nd and 3rd journeys"
     ],
-    "journeys": [
-      { "key":"j1", "ko":"1차 전도여행", "en":"First journey", "color":"#46a77a", "ref":"사도행전 13–14",
-        "note_ko":"안디옥에서 보냄받아 구브로와 소아시아 남부에 처음 복음을 전한다.",
-        "note_en":"Sent from Antioch, the gospel reaches Cyprus and southern Asia Minor for the first time.",
-        "stops":["antioch","seleucia","salamis","paphos","perga","pantioch","iconium","lystra","derbe","antioch"] },
-      { "key":"j2", "ko":"2차 전도여행", "en":"Second journey", "color":"#4a90d9", "ref":"사도행전 15:36–18:22",
-        "note_ko":"환상의 부름을 따라 바다를 건너 유럽(마케도니아·그리스)에 처음 복음이 들어간다.",
-        "note_en":"Following a vision, Paul crosses into Europe — the gospel first enters Macedonia and Greece.",
-        "stops":["antioch","derbe","lystra","troas","philippi","thess","berea","athens","corinth","ephesus","caesarea","antioch"] },
-      { "key":"j3", "ko":"3차 전도여행", "en":"Third journey", "color":"#9b5de5", "ref":"사도행전 18:23–21:17",
-        "note_ko":"에베소에 오래 머물며 아시아 전역에 말씀이 퍼지고, 예루살렘으로 올라간다.",
-        "note_en":"A long stay in Ephesus spreads the word across Asia; then Paul goes up to Jerusalem.",
-        "stops":["antioch","pantioch","ephesus","philippi","corinth","troas","miletus","caesarea","jerusalem"] },
-      { "key":"rome", "ko":"4차 전도여행 · 로마행", "en":"Fourth journey · to Rome", "color":"#e0795f", "ref":"사도행전 27–28",
-        "note_ko":"죄수가 되어, 풍랑과 난파를 지나 제국의 심장 로마까지 복음을 가지고 간다. (전통적으로 이 로마 항해를 넷째 여정으로 본다.)",
-        "note_en":"As a prisoner, through storm and shipwreck, Paul carries the gospel to the heart of the empire — Rome. (This voyage is often counted as the fourth journey.)",
-        "stops":["caesarea","myra","fairhaven","malta","syracuse","puteoli","rome"] },
-      { "key":"j5", "ko":"5차 전도여행 · 석방 후", "en":"Fifth journey · after release", "color":"#2dd4bf", "ref":"목회서신 (디모데전후서·디도서)",
-        "note_ko":"로마에서 풀려난 뒤 서바나(스페인)와 동방(그레데·에베소·마게도냐)을 다시 돌며 교회를 굳히고, 디모데·디도에게 목회서신을 쓴다. 끝내 다시 갇혀 순교한다. (목회서신과 전승으로 재구성한 마지막 여정.)",
-        "note_en":"Released from Rome, Paul revisits the west (Spain) and the east (Crete, Ephesus, Macedonia), strengthening churches and writing the Pastoral Letters to Timothy and Titus — until a final arrest and martyrdom. (A last journey reconstructed from the Pastoral Letters and tradition.)",
-        "stops":["rome","crete","ephesus","philippi","corinth","rome"] }
+    "usfm": "ACT.13.1"
+   },
+   {
+    "id": "seleucia",
+    "lat": 36.12,
+    "lon": 35.93,
+    "ko": "실루기아",
+    "en": "Seleucia",
+    "book_ko": "사도행전 13:4",
+    "book_en": "Acts 13:4",
+    "today_ko": "오늘날 튀르키예",
+    "today_en": "Türkiye today",
+    "note_ko": "안디옥의 항구 — 배를 타고 구브로로 떠난다.",
+    "note_en": "Antioch’s port — they set sail for Cyprus.",
+    "usfm": "ACT.13.4"
+   },
+   {
+    "id": "salamis",
+    "lat": 35.18,
+    "lon": 33.9,
+    "ko": "살라미 (구브로)",
+    "en": "Salamis (Cyprus)",
+    "book_ko": "사도행전 13:5",
+    "book_en": "Acts 13:5",
+    "today_ko": "오늘날 키프로스",
+    "today_en": "Cyprus today",
+    "note_ko": "구브로 섬에 첫발 — 회당에서 말씀을 전한다.",
+    "note_en": "First stop on Cyprus — preaching in the synagogues.",
+    "usfm": "ACT.13.5"
+   },
+   {
+    "id": "paphos",
+    "lat": 34.77,
+    "lon": 32.42,
+    "ko": "바보",
+    "en": "Paphos",
+    "book_ko": "사도행전 13:6-12",
+    "book_en": "Acts 13:6-12",
+    "today_ko": "오늘날 키프로스",
+    "today_en": "Cyprus today",
+    "note_ko": "복음을 막는 세력 앞에서 권능이 나타난다.",
+    "note_en": "Power is shown against those who oppose the gospel.",
+    "events_ko": [
+     "마술사 엘루마가 잠시 눈이 멂",
+     "총독 서기오 바울이 믿음",
+     "이때부터 ‘바울’이 앞장섬"
+    ],
+    "events_en": [
+     "Elymas the magician is struck blind",
+     "Sergius Paulus the proconsul believes",
+     "From here ‘Paul’ takes the lead"
+    ],
+    "usfm": "ACT.13.6"
+   },
+   {
+    "id": "perga",
+    "lat": 36.96,
+    "lon": 30.85,
+    "ko": "버가",
+    "en": "Perga",
+    "book_ko": "사도행전 13:13",
+    "book_en": "Acts 13:13",
+    "today_ko": "오늘날 튀르키예 안탈리아",
+    "today_en": "Antalya, Türkiye today",
+    "note_ko": "밤빌리아의 항구 — 여기서 마가 요한이 떠난다.",
+    "note_en": "A port in Pamphylia — here John Mark turns back.",
+    "usfm": "ACT.13.13"
+   },
+   {
+    "id": "pantioch",
+    "lat": 38.3,
+    "lon": 31.19,
+    "ko": "비시디아 안디옥",
+    "en": "Pisidian Antioch",
+    "book_ko": "사도행전 13:14-50",
+    "book_en": "Acts 13:14-50",
+    "today_ko": "오늘날 튀르키예 얄바치",
+    "today_en": "Yalvaç, Türkiye today",
+    "note_ko": "이방인을 향한 복음이 본격적으로 터져 나온다.",
+    "note_en": "The gospel breaks open toward the Gentiles.",
+    "events_ko": [
+     "회당에서 구원의 역사를 길게 선포",
+     "많은 이방인이 기뻐하며 말씀을 받음",
+     "유대인의 반대로 쫓겨남"
+    ],
+    "events_en": [
+     "A long sermon of salvation history in the synagogue",
+     "Many Gentiles rejoice and receive the word",
+     "Driven out by opposition"
+    ],
+    "usfm": "ACT.13.14"
+   },
+   {
+    "id": "iconium",
+    "lat": 37.87,
+    "lon": 32.49,
+    "ko": "이고니온",
+    "en": "Iconium",
+    "book_ko": "사도행전 14:1-7",
+    "book_en": "Acts 14:1-7",
+    "today_ko": "오늘날 튀르키예 코니아",
+    "today_en": "Konya, Türkiye today",
+    "note_ko": "큰 무리가 믿었으나 핍박을 피해 떠난다.",
+    "note_en": "Many believe, but persecution forces them on.",
+    "usfm": "ACT.14.1"
+   },
+   {
+    "id": "lystra",
+    "lat": 37.58,
+    "lon": 32.45,
+    "ko": "루스드라",
+    "en": "Lystra",
+    "book_ko": "사도행전 14:8-20",
+    "book_en": "Acts 14:8-20",
+    "today_ko": "오늘날 튀르키예",
+    "today_en": "Türkiye today",
+    "note_ko": "신으로 떠받들렸다가, 곧 돌에 맞는다.",
+    "note_en": "Hailed as a god, then stoned.",
+    "events_ko": [
+     "나면서 걷지 못하던 사람을 고침",
+     "무리가 신으로 여겨 제사하려 함",
+     "돌에 맞아 죽은 줄 알았으나 다시 일어남"
+    ],
+    "events_en": [
+     "Heals a man lame from birth",
+     "The crowd tries to sacrifice to them as gods",
+     "Stoned and left for dead, he gets up"
+    ],
+    "usfm": "ACT.14.8"
+   },
+   {
+    "id": "derbe",
+    "lat": 37.35,
+    "lon": 33.27,
+    "ko": "더베",
+    "en": "Derbe",
+    "book_ko": "사도행전 14:20-21",
+    "book_en": "Acts 14:20-21",
+    "today_ko": "오늘날 튀르키예",
+    "today_en": "Türkiye today",
+    "note_ko": "많은 제자를 얻고, 왔던 길로 돌아가 교회를 굳게 한다.",
+    "note_en": "Many disciples are made; they retrace their steps to strengthen the churches.",
+    "usfm": "ACT.14.20"
+   },
+   {
+    "id": "troas",
+    "lat": 39.76,
+    "lon": 26.16,
+    "ko": "드로아",
+    "en": "Troas",
+    "book_ko": "사도행전 16:8-10",
+    "book_en": "Acts 16:8-10",
+    "today_ko": "오늘날 튀르키예",
+    "today_en": "Türkiye today",
+    "note_ko": "복음이 처음으로 유럽을 향하는 전환점.",
+    "note_en": "The turning point where the gospel first heads for Europe.",
+    "events_ko": [
+     "마게도냐 사람의 환상",
+     "“건너와서 우리를 도우라”",
+     "곧 바다를 건너 유럽으로"
+    ],
+    "events_en": [
+     "A vision of a man of Macedonia",
+     "“Come over and help us”",
+     "They cross at once into Europe"
+    ],
+    "usfm": "ACT.16.8"
+   },
+   {
+    "id": "philippi",
+    "lat": 41.01,
+    "lon": 24.29,
+    "ko": "빌립보",
+    "en": "Philippi",
+    "book_ko": "사도행전 16 · 빌립보서",
+    "book_en": "Acts 16 · Philippians",
+    "today_ko": "오늘날 그리스 북부",
+    "today_en": "northern Greece today",
+    "note_ko": "유럽의 첫 교회 — 감옥에서도 복음이 이긴다.",
+    "note_en": "Europe’s first church — the gospel triumphs even in prison.",
+    "events_ko": [
+     "자색 옷감 장수 루디아의 회심",
+     "점치는 여종에게서 귀신을 쫓아냄",
+     "한밤 찬송 중 지진, 간수의 온 집이 믿음"
+    ],
+    "events_en": [
+     "Lydia, a dealer in purple, believes",
+     "A fortune-telling slave girl is freed",
+     "Midnight hymns, an earthquake, the jailer’s household saved"
+    ],
+    "usfm": "ACT.16.1"
+   },
+   {
+    "id": "thess",
+    "lat": 40.64,
+    "lon": 22.94,
+    "ko": "데살로니가",
+    "en": "Thessalonica",
+    "book_ko": "사도행전 17 · 데살로니가전후서",
+    "book_en": "Acts 17 · 1–2 Thessalonians",
+    "today_ko": "오늘날 그리스 테살로니키",
+    "today_en": "Thessaloniki, Greece today",
+    "note_ko": "말씀이 도시를 흔들고, 반대가 끓어오른다.",
+    "note_en": "The word shakes the city and opposition boils over.",
+    "events_ko": [
+     "세 안식일 동안 회당에서 강론",
+     "“천하를 어지럽게 하던 이 사람들”",
+     "소동을 피해 밤에 떠남"
+    ],
+    "events_en": [
+     "Reasons in the synagogue three Sabbaths",
+     "“These who have turned the world upside down”",
+     "They slip away by night"
+    ],
+    "usfm": "ACT.17.1"
+   },
+   {
+    "id": "berea",
+    "lat": 40.52,
+    "lon": 22.2,
+    "ko": "베뢰아",
+    "en": "Berea",
+    "book_ko": "사도행전 17:10-15",
+    "book_en": "Acts 17:10-15",
+    "today_ko": "오늘날 그리스 베리아",
+    "today_en": "Veria, Greece today",
+    "note_ko": "말씀을 스스로 살펴 받은 ‘신사적인’ 사람들.",
+    "note_en": "The ‘noble’ ones who examined the word for themselves.",
+    "events_ko": [
+     "간절한 마음으로 말씀을 받음",
+     "날마다 성경을 상고하여 사실인지 확인",
+     "많은 사람이 믿음"
+    ],
+    "events_en": [
+     "They receive the word eagerly",
+     "Daily they examine the Scriptures to check it",
+     "Many come to believe"
+    ],
+    "usfm": "ACT.17.10"
+   },
+   {
+    "id": "athens",
+    "lat": 37.98,
+    "lon": 23.73,
+    "ko": "아덴",
+    "en": "Athens",
+    "book_ko": "사도행전 17:16-34",
+    "book_en": "Acts 17:16-34",
+    "today_ko": "오늘날 그리스 아테네",
+    "today_en": "Athens, Greece today",
+    "note_ko": "철학의 도시에서 ‘알지 못하는 신’을 전한다.",
+    "note_en": "In the city of philosophers he proclaims the ‘unknown god’.",
+    "events_ko": [
+     "우상으로 가득한 도시에 격분",
+     "아레오바고에서 창조주와 부활을 전함",
+     "조롱 속에서도 몇 사람이 믿음"
+    ],
+    "events_en": [
+     "Provoked by a city full of idols",
+     "On the Areopagus he preaches Creator and resurrection",
+     "Mocked, yet a few believe"
+    ],
+    "usfm": "ACT.17.16"
+   },
+   {
+    "id": "corinth",
+    "lat": 37.91,
+    "lon": 22.88,
+    "ko": "고린도",
+    "en": "Corinth",
+    "book_ko": "사도행전 18 · 고린도전후서",
+    "book_en": "Acts 18 · 1–2 Corinthians",
+    "today_ko": "오늘날 그리스",
+    "today_en": "Greece today",
+    "note_ko": "환락의 도시에 1년 반을 머물며 교회를 세운다.",
+    "note_en": "He stays a year and a half, planting a church in a city of vice.",
+    "events_ko": [
+     "아굴라·브리스길라와 함께 천막을 만들며 머묾",
+     "“두려워하지 말라 내가 너와 함께 있으매”",
+     "많은 고린도 사람이 믿고 세례받음"
+    ],
+    "events_en": [
+     "Makes tents with Aquila and Priscilla",
+     "“Do not be afraid… for I am with you”",
+     "Many Corinthians believe and are baptized"
+    ],
+    "usfm": "ACT.18.1"
+   },
+   {
+    "id": "ephesus",
+    "lat": 37.94,
+    "lon": 27.34,
+    "ko": "에베소",
+    "en": "Ephesus",
+    "book_ko": "사도행전 19 · 에베소서",
+    "book_en": "Acts 19 · Ephesians",
+    "today_ko": "오늘날 튀르키예 셀추크",
+    "today_en": "Selçuk, Türkiye today",
+    "note_ko": "3차 여행의 중심 — 아시아 전역에 말씀이 퍼진다.",
+    "note_en": "Heart of the third journey — the word spreads across Asia.",
+    "events_ko": [
+     "두란노 서원에서 2년간 날마다 강론",
+     "마술책을 불사르고 큰 능력의 역사",
+     "은장색 데메드리오가 일으킨 폭동"
+    ],
+    "events_en": [
+     "Daily teaching for two years in the hall of Tyrannus",
+     "Magic books burned; powerful works",
+     "The silversmith Demetrius starts a riot"
+    ],
+    "usfm": "ACT.19.1"
+   },
+   {
+    "id": "miletus",
+    "lat": 37.53,
+    "lon": 27.28,
+    "ko": "밀레도",
+    "en": "Miletus",
+    "book_ko": "사도행전 20:17-38",
+    "book_en": "Acts 20:17-38",
+    "today_ko": "오늘날 튀르키예",
+    "today_en": "Türkiye today",
+    "note_ko": "에베소 장로들과 눈물로 작별한다.",
+    "note_en": "A tearful farewell to the Ephesian elders.",
+    "events_ko": [
+     "“하나님이 자기 피로 사신 교회를 치라”",
+     "다시는 못 볼 줄 알고 함께 우는 장로들"
+    ],
+    "events_en": [
+     "“Care for the church he bought with his own blood”",
+     "The elders weep, knowing they’ll not see him again"
+    ],
+    "usfm": "ACT.20.17"
+   },
+   {
+    "id": "caesarea",
+    "lat": 32.5,
+    "lon": 34.89,
+    "ko": "가이사랴",
+    "en": "Caesarea",
+    "book_ko": "사도행전 23–26",
+    "book_en": "Acts 23–26",
+    "today_ko": "오늘날 이스라엘 해안",
+    "today_en": "Israel’s coast today",
+    "note_ko": "총독·왕 앞에서 2년간 복음을 변론한다.",
+    "note_en": "For two years he defends the gospel before governors and a king.",
+    "events_ko": [
+     "벨릭스·베스도 총독 앞 재판",
+     "아그립바 왕 앞에서의 변론",
+     "“가이사에게 상소하노라” — 로마로"
+    ],
+    "events_en": [
+     "Trials before governors Felix and Festus",
+     "His defense before King Agrippa",
+     "“I appeal to Caesar” — on to Rome"
+    ],
+    "usfm": "ACT.23.1"
+   },
+   {
+    "id": "jerusalem",
+    "lat": 31.78,
+    "lon": 35.23,
+    "ko": "예루살렘",
+    "en": "Jerusalem",
+    "book_ko": "사도행전 21–23",
+    "book_en": "Acts 21–23",
+    "today_ko": "오늘날 예루살렘",
+    "today_en": "Jerusalem today",
+    "note_ko": "성전에서 붙잡혀 죄수의 길이 시작된다.",
+    "note_en": "Seized in the temple, his road as a prisoner begins.",
+    "events_ko": [
+     "성전에서 무리에게 붙잡힘",
+     "공회 앞에서 변론",
+     "로마 시민권으로 가이사랴로 호송"
+    ],
+    "events_en": [
+     "Seized by the crowd in the temple",
+     "Defends himself before the council",
+     "As a Roman citizen, sent under guard to Caesarea"
+    ],
+    "usfm": "ACT.21.1"
+   },
+   {
+    "id": "myra",
+    "lat": 36.26,
+    "lon": 29.98,
+    "ko": "무라",
+    "en": "Myra",
+    "book_ko": "사도행전 27:5-6",
+    "book_en": "Acts 27:5-6",
+    "today_ko": "오늘날 튀르키예 데므레",
+    "today_en": "Demre, Türkiye today",
+    "note_ko": "로마로 가는 알렉산드리아 배로 갈아탄다.",
+    "note_en": "They transfer to an Alexandrian ship bound for Rome.",
+    "usfm": "ACT.27.5"
+   },
+   {
+    "id": "fairhaven",
+    "lat": 34.91,
+    "lon": 24.78,
+    "ko": "미항 (그레데)",
+    "en": "Fair Havens (Crete)",
+    "book_ko": "사도행전 27:8-12",
+    "book_en": "Acts 27:8-12",
+    "today_ko": "오늘날 크레타",
+    "today_en": "Crete today",
+    "note_ko": "항해를 멈추라는 바울의 경고가 무시된다.",
+    "note_en": "Paul’s warning to stop sailing goes unheeded.",
+    "usfm": "ACT.27.8"
+   },
+   {
+    "id": "crete",
+    "lat": 35.3,
+    "lon": 24.8,
+    "ko": "그레데",
+    "en": "Crete",
+    "book_ko": "디도서",
+    "book_en": "Titus",
+    "today_ko": "오늘날 크레타",
+    "today_en": "Crete today",
+    "note_ko": "석방 후, 디도를 남겨 교회를 세우게 한 섬.",
+    "note_en": "After his release, the island where he leaves Titus to set the churches in order.",
+    "events_ko": [
+     "디도를 남겨 각 성에 장로를 세우게 함",
+     "“책망할 것이 없는” 참된 지도자를 세우라",
+     "디도서를 써 보냄"
+    ],
+    "events_en": [
+     "Leaves Titus to appoint elders in every town",
+     "Calls for blameless, faithful leaders",
+     "Writes the letter to Titus"
+    ],
+    "usfm": "TIT.1.1"
+   },
+   {
+    "id": "malta",
+    "lat": 35.9,
+    "lon": 14.4,
+    "ko": "멜리데 (몰타)",
+    "en": "Malta",
+    "book_ko": "사도행전 27–28",
+    "book_en": "Acts 27–28",
+    "today_ko": "오늘날 몰타",
+    "today_en": "Malta today",
+    "note_ko": "광풍과 난파 속에서도 하나님의 약속이 지켜진다.",
+    "note_en": "Through storm and shipwreck, God’s promise holds.",
+    "events_ko": [
+     "유라굴로 광풍과 난파, 그러나 276명 전원 생존",
+     "독사에 물려도 상하지 않음",
+     "섬의 병자들을 고침"
+    ],
+    "events_en": [
+     "The ‘northeaster’ wrecks the ship, yet all 276 survive",
+     "Bitten by a viper, he is unharmed",
+     "He heals the sick of the island"
+    ],
+    "usfm": "ACT.27.1"
+   },
+   {
+    "id": "syracuse",
+    "lat": 37.07,
+    "lon": 15.29,
+    "ko": "수라구사",
+    "en": "Syracuse",
+    "book_ko": "사도행전 28:12",
+    "book_en": "Acts 28:12",
+    "today_ko": "오늘날 이탈리아 시칠리아",
+    "today_en": "Sicily, Italy today",
+    "note_ko": "시칠리아에서 사흘을 머문다.",
+    "note_en": "They stay three days in Sicily.",
+    "usfm": "ACT.28.12"
+   },
+   {
+    "id": "puteoli",
+    "lat": 40.82,
+    "lon": 14.12,
+    "ko": "보디올",
+    "en": "Puteoli",
+    "book_ko": "사도행전 28:13-14",
+    "book_en": "Acts 28:13-14",
+    "today_ko": "오늘날 이탈리아 포추올리",
+    "today_en": "Pozzuoli, Italy today",
+    "note_ko": "이탈리아에 상륙해 형제들을 만난다.",
+    "note_en": "They land in Italy and are met by fellow believers.",
+    "usfm": "ACT.28.13"
+   },
+   {
+    "id": "rome",
+    "lat": 41.89,
+    "lon": 12.49,
+    "ko": "로마",
+    "en": "Rome",
+    "book_ko": "사도행전 28 · 옥중서신 · 디모데후서",
+    "book_en": "Acts 28 · Prison Letters · 2 Timothy",
+    "today_ko": "오늘날 이탈리아 로마",
+    "today_en": "Rome, Italy today",
+    "note_ko": "복음이 마침내 제국의 심장에 닿는다 — 끝이 아니라 시작.",
+    "note_en": "The gospel reaches the heart of the empire at last — not an end but a beginning.",
+    "events_ko": [
+     "셋집에서 2년간 머물며 거침없이 하나님의 나라를 전파",
+     "여기서 옥중서신(엡·빌·골·몬)을 써 보냄",
+     "훗날 다시 갇혀 디모데후서를 쓰고 순교 — “내가 선한 싸움을 싸우고 나의 달려갈 길을 마치고”"
+    ],
+    "events_en": [
+     "Two years under house arrest, boldly proclaiming the kingdom",
+     "From here he writes the Prison Letters (Eph·Phil·Col·Phm)",
+     "Later imprisoned again, writes 2 Timothy and is martyred — “I have fought the good fight, I have finished the race”"
+    ],
+    "usfm": "ACT.28.1"
+   }
+  ],
+  "labels": [
+   {
+    "lat": 34.5,
+    "lon": 18.5,
+    "ko": "지중해",
+    "en": "Mediterranean Sea",
+    "kind": "sea"
+   },
+   {
+    "lat": 38.6,
+    "lon": 25,
+    "ko": "에게해",
+    "en": "Aegean Sea",
+    "kind": "sea"
+   },
+   {
+    "lat": 39.2,
+    "lon": 32.5,
+    "ko": "소아시아",
+    "en": "Asia Minor",
+    "kind": "region"
+   },
+   {
+    "lat": 41.3,
+    "lon": 23.2,
+    "ko": "마케도니아",
+    "en": "Macedonia",
+    "kind": "region"
+   },
+   {
+    "lat": 42,
+    "lon": 13.5,
+    "ko": "이탈리아",
+    "en": "Italy",
+    "kind": "region"
+   }
+  ],
+  "journeys": [
+   {
+    "key": "j1",
+    "ko": "1차 전도여행",
+    "en": "First journey",
+    "color": "#46a77a",
+    "ref": "사도행전 13–14",
+    "note_ko": "안디옥에서 보냄받아 구브로와 소아시아 남부에 처음 복음을 전한다.",
+    "note_en": "Sent from Antioch, the gospel reaches Cyprus and southern Asia Minor for the first time.",
+    "stops": [
+     "antioch",
+     "seleucia",
+     "salamis",
+     "paphos",
+     "perga",
+     "pantioch",
+     "iconium",
+     "lystra",
+     "derbe",
+     "antioch"
     ]
-  }
+   },
+   {
+    "key": "j2",
+    "ko": "2차 전도여행",
+    "en": "Second journey",
+    "color": "#4a90d9",
+    "ref": "사도행전 15:36–18:22",
+    "note_ko": "환상의 부름을 따라 바다를 건너 유럽(마케도니아·그리스)에 처음 복음이 들어간다.",
+    "note_en": "Following a vision, Paul crosses into Europe — the gospel first enters Macedonia and Greece.",
+    "stops": [
+     "antioch",
+     "derbe",
+     "lystra",
+     "troas",
+     "philippi",
+     "thess",
+     "berea",
+     "athens",
+     "corinth",
+     "ephesus",
+     "caesarea",
+     "antioch"
+    ]
+   },
+   {
+    "key": "j3",
+    "ko": "3차 전도여행",
+    "en": "Third journey",
+    "color": "#9b5de5",
+    "ref": "사도행전 18:23–21:17",
+    "note_ko": "에베소에 오래 머물며 아시아 전역에 말씀이 퍼지고, 예루살렘으로 올라간다.",
+    "note_en": "A long stay in Ephesus spreads the word across Asia; then Paul goes up to Jerusalem.",
+    "stops": [
+     "antioch",
+     "pantioch",
+     "ephesus",
+     "philippi",
+     "corinth",
+     "troas",
+     "miletus",
+     "caesarea",
+     "jerusalem"
+    ]
+   },
+   {
+    "key": "rome",
+    "ko": "4차 전도여행 · 로마행",
+    "en": "Fourth journey · to Rome",
+    "color": "#e0795f",
+    "ref": "사도행전 27–28",
+    "note_ko": "죄수가 되어, 풍랑과 난파를 지나 제국의 심장 로마까지 복음을 가지고 간다. (전통적으로 이 로마 항해를 넷째 여정으로 본다.)",
+    "note_en": "As a prisoner, through storm and shipwreck, Paul carries the gospel to the heart of the empire — Rome. (This voyage is often counted as the fourth journey.)",
+    "stops": [
+     "caesarea",
+     "myra",
+     "fairhaven",
+     "malta",
+     "syracuse",
+     "puteoli",
+     "rome"
+    ]
+   },
+   {
+    "key": "j5",
+    "ko": "5차 전도여행 · 석방 후",
+    "en": "Fifth journey · after release",
+    "color": "#2dd4bf",
+    "ref": "목회서신 (디모데전후서·디도서)",
+    "note_ko": "로마에서 풀려난 뒤 서바나(스페인)와 동방(그레데·에베소·마게도냐)을 다시 돌며 교회를 굳히고, 디모데·디도에게 목회서신을 쓴다. 끝내 다시 갇혀 순교한다. (목회서신과 전승으로 재구성한 마지막 여정.)",
+    "note_en": "Released from Rome, Paul revisits the west (Spain) and the east (Crete, Ephesus, Macedonia), strengthening churches and writing the Pastoral Letters to Timothy and Titus — until a final arrest and martyrdom. (A last journey reconstructed from the Pastoral Letters and tradition.)",
+    "stops": [
+     "rome",
+     "crete",
+     "ephesus",
+     "philippi",
+     "corinth",
+     "rome"
+    ]
+   }
+  ]
+ }
 }

@@ -6,7 +6,6 @@
 <meta name="theme-color" content="#0e1118">
 <meta name="color-scheme" content="dark light">
 <title>지도로 보는 성경 · Bible by Map</title>
-<meta name="robots" content="noindex">
 <meta name="description" content="구약의 시간 흐름, 예수님의 행적, 바울의 전도여행을 실제 지도 위에 따라가 봅니다 — 성경은 실제 땅에서 일어난 이야기입니다. / Trace the Old Testament timeline, the life of Jesus, and Paul’s journeys on a real map — the Bible happened in real places.">
 <style>
   :root{
@@ -91,6 +90,8 @@
   .info h4{font-size:1.12rem;display:inline}
   .info .iref{display:inline-block;font-size:.72rem;color:var(--accent);font-weight:700;margin-left:.5em;
     border:1px solid var(--line);border-radius:999px;padding:.08em .6em;vertical-align:middle}
+  .info .iref a{color:inherit;text-decoration:none}
+  .info .iref a:hover{text-decoration:underline;text-underline-offset:2px}
   .info .inote{margin:.4em 0 .35em;font-size:.96rem;color:var(--ink);opacity:.92}
   .info .ievents{margin:.2em 0 .5em;padding:0;list-style:none}
   .info .ievents li{position:relative;font-size:.88rem;line-height:1.55;color:var(--ink);opacity:.9;padding-left:.95em;margin:.18em 0}
@@ -147,7 +148,7 @@
   <p data-t="foot"></p>
   <div class="links">
     <a href="/">← <span data-t="back"></span></a>
-    <a href="/insights/" data-t="insights"></a>
+    <a href="/about/" data-t="insights"></a>
   </div>
 </div></footer>
 
@@ -155,10 +156,10 @@
 const T = {
   kicker:{ko:'한눈에 보는 성경 이야기 · 지도',en:'Bible in One Scroll · Maps'},
   title:{ko:'지도로 보는 성경',en:'Bible by Map'},
-  verse:{ko:'“때가 차매 하나님이 그 아들을 보내사 …” (갈라디아서 4:4)',
-    en:'“But when the fullness of time had come, God sent forth his Son …” (Galatians 4:4)'},
-  purpose:{ko:'성경은 신화가 아니라 실제 땅에서 일어난 이야기입니다. 세 개의 흐름을 실제 지도 위에서 시간 순서대로 따라가 보세요 — 점을 누르거나 ▶ 재생을 눌러 한 걸음씩.',
-    en:'The Bible is not myth — it happened in real places. Follow three storylines across a real map, in time order. Tap a point, or press ▶ to walk through it step by step.'},
+  verse:{ko:'“우리가 … 교묘히 만든 이야기를 따른 것이 아니요 …” (베드로후서 1:16)',
+    en:'“For we did not follow cleverly devised myths …” (2 Peter 1:16)'},
+  purpose:{ko:'성경은 신화가 아닙니다. 실제 사람들이 실제 땅에서 걸어간 이야기입니다. 그 길을 실제 지도 위에서 시간 순서대로 따라가 보세요 — 점을 누르거나 ▶ 재생을 눌러 한 걸음씩.',
+    en:'The Bible is not myth. It is the story of real people walking through real places. Trace those paths across a real map, in time order — tap a point, or press ▶ to walk through it step by step.'},
 
   ot_kick:{ko:'① 구약 — 시간의 흐름',en:'① Old Testament — across time'},
   ot_h:{ko:'창조에서 시작해, 예루살렘 귀환까지',en:'From creation to the return to Jerusalem'},
@@ -178,7 +179,7 @@ const T = {
   foot:{ko:'지명과 위치는 성경 본문과 표준 성서지리(가능한 경우 현대 지명 병기)를 따랐습니다. 해안선·하천·호수는 공개 지리 데이터(Natural Earth)를 단순화해 그렸습니다.',
     en:'Places follow the biblical text and standard Bible geography (with modern names where helpful). Coastlines, rivers and lakes are drawn from open geographic data (Natural Earth), simplified.'},
   back:{ko:'성경 이야기로 돌아가기',en:'Back to the scroll'},
-  insights:{ko:'데이터로 보는 성경 →',en:'Bible by the numbers →'},
+  insights:{ko:'이 프로젝트 소개 →',en:'About this project →'},
 
   play:{ko:'재생',en:'Play'}, pause:{ko:'일시정지',en:'Pause'},
   today:{ko:'지금은', en:'Today:'},
@@ -190,6 +191,16 @@ let L = 'ko';
 let GEO=null, DATA=null;
 const SVGNS='http://www.w3.org/2000/svg';
 const el=(n,a={})=>{const e=document.createElementNS(SVGNS,n);for(const k in a)e.setAttribute(k,a[k]);return e;};
+
+/* 성경 구절 링크 — 메인과 동일(ko=개역개정 bskorea / en=YouVersion ESV, USFM 통일) */
+const YV={en:59};
+function vmapUrl(usfm){ const p=String(usfm||'').split('.'); if(p.length<3)return null;
+  if(L==='ko') return 'https://www.bskorea.or.kr/bible/korbibReadpage.php?version=GAE&book='+p[0].toLowerCase()+'&chap='+p[1]+'&sec='+p[2].split('-')[0]+'#focus';
+  const id=YV[L]; if(!id)return null;
+  return 'https://www.bible.com/bible/'+id+'/'+usfm; }
+function bookRefHtml(pl){ const t=pl['book_'+L]||pl.ref||''; if(!t)return '';
+  const e=t.replace(/&/g,'&amp;').replace(/</g,'&lt;'); const u=vmapUrl(pl.usfm);
+  return u?('<a href="'+u+'" target="_blank" rel="noopener" data-ref="'+pl.usfm+'">'+e+'</a>'):e; }
 
 function applyText(){
   document.documentElement.lang = L;
@@ -355,7 +366,7 @@ function MapCard(root, key){
     info.querySelector('.inum').textContent=step+1;
     info.querySelector('.inum').style.background=j.color;
     info.querySelector('h4').textContent=pl[L];
-    info.querySelector('.iref').textContent=pl['book_'+L]||pl.ref||'';
+    info.querySelector('.iref').innerHTML=bookRefHtml(pl);
     info.querySelector('.inote').textContent=pl['note_'+L]||'';
     const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;');
     const evs=pl['events_'+L]||[];

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Builds insights/data.json — the static data snapshot for the /insights/ sub-page.
+// Builds about/data.json — the static data snapshot for the /about/ sub-page.
 // Sources: index.html LANGS + i18n packs (mode/version) + Joshua Project (speaker pop, env JP_API_KEY)
 //          + DEFERRED.md (prayer list) + a curated John 3:16 showcase fetched verbatim.
 // Output is a COMMITTED snapshot (the page is static; Vercel network policy may block JP/YV at build).
@@ -104,8 +104,8 @@ const defRows = [...def.matchAll(/^\|\s*`?([^|`]+?)`?\s*\|\s*([^|]+?)\s*\|\s*(DE
 
 // ---- 5) curated John 3:16 showcase (verbatim, diverse scripts) ----
 const SHOW = [
-  { code: 'ko', label: '한국어 · 개역개정', usfm: 'JHN.3.16', text: '하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 그를 믿는 자마다 멸망하지 않고 영생을 얻게 하려 하심이라' },
-  { code: 'en', label: 'English · ESV', usfm: 'JHN.3.16', text: 'For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.' },
+  { code: 'ko', yv: null, label: '한국어 · 개역개정', usfm: 'JHN.3.16', text: '하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 그를 믿는 자마다 멸망하지 않고 영생을 얻게 하려 하심이라' },
+  { code: 'en', yv: 59, label: 'English · ESV', usfm: 'JHN.3.16', text: 'For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.' },
 ];
 const FETCH = [
   ['el', 'Ελληνικά'], ['he', 'עברית'], ['ar', 'العربية'], ['hi', 'हिन्दी'], ['ta', 'தமிழ்'],
@@ -118,7 +118,7 @@ for (const [code, label] of FETCH) {
   try {
     const out = execSync(`node .claude/skills/add-language/lib/fetch-verse.mjs ${yv} JHN.3.16`, { encoding: 'utf8' }).trim();
     const text = out.split('\t').slice(1).join(' ').trim();
-    if (text && !/MISSING|FAIL/.test(text)) SHOW.push({ code, label: label + ' · ' + (meta[code].ver || 'YV' + yv), usfm: 'JHN.3.16', text });
+    if (text && !/MISSING|FAIL/.test(text)) SHOW.push({ code, yv, label: label + ' · ' + (meta[code].ver || 'YV' + yv), usfm: 'JHN.3.16', text });
     process.stderr.write(`showcase ${code} ✓\n`);
   } catch { process.stderr.write(`showcase ${code} ✗\n`); }
 }
@@ -127,7 +127,7 @@ for (const [code, label] of FETCH) {
 const counts = languages.reduce((a, l) => (a[l.mode] = (a[l.mode] || 0) + 1, a), {});
 const versions = new Set(languages.map(l => l.ver).filter(Boolean));
 const data = {
-  generatedNote: 'Committed static snapshot. Regenerate with: JP_API_KEY=… node tools/build-insights.mjs',
+  generatedNote: 'Committed static snapshot. Regenerate with: JP_API_KEY=… node tools/build-about.mjs',
   totals: {
     languages: languages.length,
     modeCounts: counts,
@@ -155,6 +155,6 @@ const data = {
   deferred: defRows,
   showcase: SHOW,
 };
-fs.mkdirSync(p('insights'), { recursive: true });
-fs.writeFileSync(p('insights/data.json'), JSON.stringify(data, null, 1));
-console.log(`insights/data.json written — ${languages.length} languages · ${versions.size} versions · ${data.totals.coveragePct}% · showcase ${SHOW.length} · deferred ${defRows.length}`);
+fs.mkdirSync(p('about'), { recursive: true });
+fs.writeFileSync(p('about/data.json'), JSON.stringify(data, null, 1));
+console.log(`about/data.json written — ${languages.length} languages · ${versions.size} versions · ${data.totals.coveragePct}% · showcase ${SHOW.length} · deferred ${defRows.length}`);

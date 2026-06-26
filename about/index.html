@@ -110,7 +110,8 @@
   .verses{columns:2;column-gap:18px}
   @media(max-width:640px){.verses{columns:1}}
   .vse{break-inside:avoid;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:15px 17px;margin:0 0 16px}
-  .vse .lab{font-size:.74rem;letter-spacing:.05em;color:var(--accent);font-weight:700;margin-bottom:.45em}
+  .vse .lab{display:block;font-size:.74rem;letter-spacing:.05em;color:var(--accent);font-weight:700;margin-bottom:.45em;text-decoration:none}
+  .vse a.lab:hover{text-decoration:underline;text-underline-offset:2px}
   .vse .tx{font-size:1.05rem;line-height:1.7;font-family:var(--serif)}
   /* treemap */
   #treemap{position:relative;width:100%;height:460px;border:1px solid var(--line);border-radius:14px;background:var(--card);overflow:hidden}
@@ -264,7 +265,8 @@
       </div>
     </div>
   </div>
-  <div class="ctas"><a class="cta" href="/" data-t="i_cta"></a></div>
+  <div class="ctas"><a class="cta" href="/" data-t="i_cta"></a>
+    <a class="cta ghost" href="/maps/" data-t="i_maps"></a></div>
 </div></section>
 
 <footer><div class="wrap">
@@ -276,7 +278,7 @@
 <script src="./d3-geo.min.js"></script>
 <script>
 const T = {
-  kicker:{ko:'한눈에 보는 성경 이야기 · 데이터',en:'Bible in One Scroll · Data'},
+  kicker:{ko:'한눈에 보는 성경 이야기 · 소개',en:'Bible in One Scroll · About'},
   title:{ko:'모든 민족과 방언에게',en:'To Every Tribe and Tongue'},
   verse:{ko:'“이 후에 내가 보니 각 나라와 족속과 백성과 방언에서 아무도 능히 셀 수 없는 큰 무리가 …” (요한계시록 7:9)',
     en:'“After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages …” (Revelation 7:9)'},
@@ -334,6 +336,7 @@ const T = {
   i_t_h:{ko:'번역·검수',en:'Translate'}, i_t_b:{ko:'당신이 어느 언어의 원어민이라면, 그 언어의 산문을 검수해 “아직”을 “이제”로 바꿔 주세요. 코딩은 필요 없습니다 — 텍스트만.',en:'If you are a native speaker of a language, review its prose and help turn a “not yet” into a “now.” No coding needed — just the text.'},
   i_share:{ko:'공유하기 →',en:'Share the page →'},
   i_cta:{ko:'한눈에 보는 성경 이야기 보러 가기 →',en:'See the Bible in One Scroll →'},
+  i_maps:{ko:'지도로 보는 성경 →',en:'Bible by Map →'},
   i_gh:{ko:'GitHub에서 기여하기 →',en:'Contribute on GitHub →'},
   i_contrib:{ko:'기여 가이드 보기 →',en:'Read the contributing guide →'},
 
@@ -466,15 +469,20 @@ function renderTask(){
     <span class="pill ${d.category}">${d.category==='DEFERRED'?(L==='ko'?'보류':'deferred'):(L==='ko'?'대기':'held')}</span>
     <span class="why">${(why[d.category]||{ko:'',en:''})[L]}.</span></div>`).join('');
 }
+function bibleUrl(usfm,code,yv){ const p=String(usfm||'').split('.'); if(p.length<3)return null;
+  if(code==='ko') return 'https://www.bskorea.or.kr/bible/korbibReadpage.php?version=GAE&book='+p[0].toLowerCase()+'&chap='+p[1]+'&sec='+p[2].split('-')[0]+'#focus';
+  if(!yv) return null; return 'https://www.bible.com/bible/'+yv+'/'+usfm; }
 function renderVerses(){
   $('#verseShow').innerHTML=D.showcase.map(s=>{
     const rtl=/^(ar|he|ckb|fa|ur|prs|sdh|yi)/.test(s.code);
-    return `<div class="vse"><div class="lab">${esc(s.label)}</div>
+    const u=bibleUrl(s.usfm,s.code,s.yv);
+    const lab=u?`<a class="lab" href="${u}" target="_blank" rel="noopener">${esc(s.label)} ↗</a>`:`<div class="lab">${esc(s.label)}</div>`;
+    return `<div class="vse">${lab}
       <div class="tx" dir="${rtl?'rtl':'ltr'}" lang="${s.code}">${esc(s.text)}</div></div>`;
   }).join('');
   $('[data-t="v_note"]').innerHTML=(L==='ko'
-    ? `요한복음 3:16 — ${D.showcase.length}개 문자로. 전부 각 언어 공식 역본에서 그대로 가져온 본문입니다.`
-    : `John 3:16 in ${D.showcase.length} scripts — every line taken verbatim from each language’s official edition.`);
+    ? `요한복음 3:16 — ${D.showcase.length}개 문자로. 전부 각 언어 공식 역본에서 그대로 가져온 본문입니다. 라벨 ↗ 을 누르면 그 성경이 열립니다.`
+    : `John 3:16 in ${D.showcase.length} scripts — every line verbatim from each language’s official edition. Tap a label ↗ to open that Bible.`);
 }
 function renderRegions(){
   const reg={};
