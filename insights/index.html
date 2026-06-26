@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>모든 민족과 방언에게 · To Every Tribe and Tongue</title>
+<meta name="robots" content="noindex">
+<meta name="description" content="한눈에 보는 성경 이야기를 여러 언어로 옮기며 마주한 진귀한 사실들 — 복음이 모든 방언에 닿는 길. / Rare facts gathered while carrying one gospel story into many tongues.">
+<style>
+  :root{
+    --bg:#fbf7ef; --ink:#2c2620; --muted:#7a7066; --line:#e6ddcf;
+    --accent:#9a6a3a; --accent2:#3f6b54; --gold:#c69a4c; --card:#fffdf8;
+    --full:#3f6b54; --partial:#c69a4c; --bridge:#9a6a3a; --empty:#e6ddcf;
+    --maxw:980px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:'Noto Serif KR','Noto Serif',Georgia,'Times New Roman',serif;
+    line-height:1.7;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 20px}
+  h1,h2,h3{font-weight:700;letter-spacing:-.01em;line-height:1.25}
+  h2{font-size:clamp(1.4rem,3.6vw,2rem);margin:0 0 .2em}
+  .kicker{font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:.5em}
+  a{color:var(--accent)}
+  .sub{color:var(--muted)}
+  /* top bar */
+  .top{position:sticky;top:0;z-index:30;background:rgba(251,247,239,.86);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  .top .wrap{display:flex;align-items:center;justify-content:space-between;height:56px}
+  .brandmini{font-size:.92rem;font-weight:700;color:var(--ink);text-decoration:none}
+  .lang{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--card)}
+  .lang button{border:0;background:transparent;padding:.34em .9em;font:inherit;font-size:.82rem;cursor:pointer;color:var(--muted)}
+  .lang button.on{background:var(--accent);color:#fff}
+  /* hero */
+  .hero{padding:64px 0 36px;text-align:center;border-bottom:1px solid var(--line)}
+  .hero h1{font-size:clamp(1.9rem,6vw,3.1rem);margin:.1em 0 .3em}
+  .hero .verse{max-width:640px;margin:18px auto 0;font-style:italic;color:var(--accent2)}
+  .hero .purpose{max-width:680px;margin:22px auto 0;color:var(--muted);font-size:.98rem}
+  section{padding:54px 0;border-bottom:1px solid var(--line)}
+  .lead{max-width:680px;color:var(--muted);margin:.2em 0 1.6em}
+  .big{font-family:inherit;font-size:clamp(2.4rem,9vw,4.2rem);font-weight:700;color:var(--accent);line-height:1}
+  .stat-row{display:flex;flex-wrap:wrap;gap:28px;margin:10px 0 0}
+  .stat .n{font-size:clamp(1.6rem,5vw,2.4rem);font-weight:700;color:var(--accent2);line-height:1}
+  .stat .l{font-size:.85rem;color:var(--muted)}
+  /* fact deck */
+  .deck{position:relative}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+  .fact{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 20px 18px;
+    box-shadow:0 1px 0 rgba(0,0,0,.02);display:flex;flex-direction:column;gap:.5em}
+  .fact .tag{font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);font-weight:700}
+  .fact h3{font-size:1.06rem;margin:0}
+  .fact p{margin:0;font-size:.93rem;color:#4a443c}
+  .fact .pop{margin-top:auto;font-size:.82rem;color:var(--muted);font-style:italic;border-top:1px dashed var(--line);padding-top:.6em}
+  /* dot grid */
+  .dots{display:grid;grid-template-columns:repeat(20,1fr);gap:6px;max-width:520px;margin:6px 0 18px}
+  .dots i{aspect-ratio:1;border-radius:50%;background:var(--empty)}
+  .dots i.f{background:var(--accent2)}
+  .legend{display:flex;gap:18px;flex-wrap:wrap;font-size:.84rem;color:var(--muted)}
+  .legend span{display:inline-flex;align-items:center;gap:.4em}
+  .sw{width:12px;height:12px;border-radius:3px;display:inline-block}
+  /* bars */
+  .bars{display:flex;flex-direction:column;gap:12px;max-width:680px}
+  .bar{display:grid;grid-template-columns:1fr;gap:4px}
+  .bar .t{display:flex;justify-content:space-between;font-size:.9rem}
+  .bar .track{height:14px;background:var(--empty);border-radius:8px;overflow:hidden}
+  .bar .fill{height:100%;border-radius:8px;background:var(--accent2)}
+  /* prayer list */
+  .pray{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin-top:18px}
+  .pray .it{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:13px 15px}
+  .pray .it b{font-size:.97rem}
+  .pray .it .why{font-size:.82rem;color:var(--muted);margin-top:.25em;display:block}
+  .pill{font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;font-weight:700;border-radius:999px;padding:.15em .6em;vertical-align:middle}
+  .pill.DEFERRED{background:#f4e7d4;color:#8a5a22}
+  .pill.HELD{background:#e7eef0;color:#3a5a66}
+  /* verse showcase */
+  .verses{columns:2;column-gap:18px}
+  @media(max-width:640px){.verses{columns:1}}
+  .vse{break-inside:avoid;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:15px 17px;margin:0 0 16px}
+  .vse .lab{font-size:.74rem;letter-spacing:.06em;color:var(--accent);font-weight:700;margin-bottom:.45em}
+  .vse .tx{font-size:1.02rem;line-height:1.6}
+  /* treemap */
+  #treemap{width:100%;height:440px;border:1px solid var(--line);border-radius:12px;background:var(--card);overflow:hidden}
+  #treemap .cell{position:absolute;overflow:hidden;border:1px solid rgba(255,255,255,.7);color:#fff;
+    font-size:.72rem;padding:3px 5px;line-height:1.15}
+  #treemap .cell small{opacity:.85;font-size:.66rem}
+  /* invitation */
+  .invite{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px;margin-top:18px}
+  .invite .c{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px}
+  .invite .c h3{margin:.1em 0 .3em;font-size:1.05rem}
+  .invite .c p{margin:0;font-size:.9rem;color:#4a443c}
+  .cta{display:inline-block;margin-top:8px;background:var(--accent);color:#fff;text-decoration:none;
+    padding:.7em 1.4em;border-radius:999px;font-weight:700}
+  footer{padding:40px 0 70px;color:var(--muted);font-size:.82rem}
+  footer a{color:var(--accent)}
+  .src{margin-top:10px;line-height:1.9}
+  .en .ko-only{display:none}
+  .ko .en-only{display:none}
+</style>
+</head>
+<body class="ko">
+<div class="top"><div class="wrap">
+  <a class="brandmini" href="/">한눈에 보는 성경 이야기</a>
+  <span class="lang"><button data-l="ko" class="on">한국어</button><button data-l="en">English</button></span>
+</div></div>
+
+<header class="hero"><div class="wrap">
+  <div class="kicker" data-t="kicker"></div>
+  <h1 data-t="title"></h1>
+  <p class="verse" data-t="verse"></p>
+  <p class="purpose" data-t="purpose"></p>
+</div></header>
+
+<!-- ④ RARE FACTS — the hook -->
+<section id="facts"><div class="wrap deck">
+  <div class="kicker" data-t="f_kick"></div>
+  <h2 data-t="f_h"></h2>
+  <p class="lead" data-t="f_lead"></p>
+  <div class="cards" id="factCards"></div>
+</div></section>
+
+<!-- ① REACH -->
+<section id="reach"><div class="wrap">
+  <div class="kicker" data-t="r_kick"></div>
+  <h2 data-t="r_h"></h2>
+  <p class="lead" data-t="r_lead"></p>
+  <div class="dots" id="dots"></div>
+  <div class="legend">
+    <span><i class="sw" style="background:var(--accent2)"></i><span data-t="r_lg1"></span></span>
+    <span><i class="sw" style="background:var(--empty)"></i><span data-t="r_lg2"></span></span>
+  </div>
+  <div class="stat-row" style="margin-top:24px">
+    <div class="stat"><div class="n" id="s_langs"></div><div class="l" data-t="r_s1"></div></div>
+    <div class="stat"><div class="n" id="s_cov"></div><div class="l" data-t="r_s2"></div></div>
+    <div class="stat"><div class="n" id="s_spk"></div><div class="l" data-t="r_s3"></div></div>
+  </div>
+</div></section>
+
+<!-- ② UNFINISHED TASK -->
+<section id="task"><div class="wrap">
+  <div class="kicker" data-t="t_kick"></div>
+  <h2 data-t="t_h"></h2>
+  <p class="lead" data-t="t_lead"></p>
+  <div class="bars" id="worldBars"></div>
+  <p class="lead" style="margin-top:28px" data-t="t_pray_lead"></p>
+  <div class="pray" id="prayList"></div>
+</div></section>
+
+<!-- ③ VERBATIM -->
+<section id="verbatim"><div class="wrap">
+  <div class="kicker" data-t="v_kick"></div>
+  <h2 data-t="v_h"></h2>
+  <p class="lead" data-t="v_lead"></p>
+  <div class="verses" id="verseShow"></div>
+  <p class="sub" style="font-size:.85rem;margin-top:6px" data-t="v_note"></p>
+</div></section>
+
+<!-- ⑤ MAP OF TONGUES -->
+<section id="map"><div class="wrap">
+  <div class="kicker" data-t="m_kick"></div>
+  <h2 data-t="m_h"></h2>
+  <p class="lead" data-t="m_lead"></p>
+  <div id="treemap"></div>
+  <div class="legend" style="margin-top:12px">
+    <span><i class="sw" style="background:var(--full)"></i><span data-t="m_full"></span></span>
+    <span><i class="sw" style="background:var(--partial)"></i><span data-t="m_partial"></span></span>
+    <span><i class="sw" style="background:var(--bridge)"></i><span data-t="m_bridge"></span></span>
+  </div>
+</div></section>
+
+<!-- ⑥ INVITATION -->
+<section id="invite" style="border-bottom:0"><div class="wrap">
+  <div class="kicker" data-t="i_kick"></div>
+  <h2 data-t="i_h"></h2>
+  <p class="lead" data-t="i_lead"></p>
+  <div class="invite">
+    <div class="c"><h3 data-t="i_p_h"></h3><p data-t="i_p_b"></p></div>
+    <div class="c"><h3 data-t="i_s_h"></h3><p data-t="i_s_b"></p></div>
+    <div class="c"><h3 data-t="i_g_h"></h3><p data-t="i_g_b"></p></div>
+    <div class="c"><h3 data-t="i_t_h"></h3><p data-t="i_t_b"></p></div>
+  </div>
+  <p style="margin-top:26px"><a class="cta" href="/" data-t="i_cta"></a></p>
+</div></section>
+
+<footer><div class="wrap">
+  <p data-t="foot"></p>
+  <div class="src" id="sources"></div>
+</div></footer>
+
+<script>
+const T = {
+  kicker:{ko:'한눈에 보는 성경 이야기 · 데이터',en:'Bible in One Scroll · Data'},
+  title:{ko:'모든 민족과 방언에게',en:'To Every Tribe and Tongue'},
+  verse:{ko:'“이 후에 내가 보니 각 나라와 족속과 백성과 방언에서 아무도 능히 셀 수 없는 큰 무리가 …” (요한계시록 7:9)',
+    en:'“After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages …” (Revelation 7:9)'},
+  purpose:{ko:'이 페이지는 자랑이 아니라 한 가지를 위해 있습니다 — 복음이 모든 방언에 닿게 하시는 하나님의 일을 보여 드리는 것. 아래의 모든 숫자는 “우리가 한 일”이 아니라 아직 남은 과업과 함께 드리는 기도이자, 말씀을 지켜 오신 교회를 향한 감사입니다.',
+    en:'This page exists not to boast but for one thing — to show God’s work of carrying the gospel into every tongue. Every number below is not “what we did,” but a prayer offered alongside the task that remains, and thanks for the church that has preserved the Word.'},
+
+  f_kick:{ko:'먼저, 진귀한 사실들',en:'First, some rare facts'},
+  f_h:{ko:'한 이야기를 여러 언어로 옮기다 마주친 것들',en:'What we met while carrying one story into many tongues'},
+  f_lead:{ko:'성경을 여러 언어로 인용하다 보면, 사람의 언어 속에 하나님이 심어 두신 놀라운 다양성과 — 그 모두를 관통하는 한 분 그리스도를 만나게 됩니다.',
+    en:'Quoting Scripture across languages reveals the astonishing diversity God planted in human speech — and the one Christ who runs through all of it.'},
+
+  r_kick:{ko:'① 지금까지의 도달',en:'① The reach so far'},
+  r_h:{ko:'약 80%, 그리고 남은 20%',en:'About 80% — and the remaining 20%'},
+  r_lead:{ko:'조슈아 프로젝트 기준, 지금 옮겨진 언어들은 세계 인구의 약 80%(모어 기준)에 가 닿습니다. 채워지지 않은 점들이 이 일의 이유입니다.',
+    en:'By Joshua Project data, the languages carried so far reach about 80% of the world’s people (by mother tongue). The dots not yet filled are the reason for this work.'},
+  r_lg1:{ko:'옮겨진 언어가 닿는 사람',en:'reached by a carried language'},
+  r_lg2:{ko:'아직',en:'not yet'},
+  r_s1:{ko:'언어',en:'languages'},
+  r_s2:{ko:'세계 인구 커버(모어)',en:'of world population (L1)'},
+  r_s3:{ko:'모어 화자',en:'mother-tongue speakers'},
+
+  t_kick:{ko:'② 아직 남은 과업',en:'② The unfinished task'},
+  t_h:{ko:'세계 성경 번역의 현실',en:'The reality of Bible translation'},
+  t_lead:{ko:'세상에는 약 7,400개의 언어가 있습니다. 그 중 전권 성경이 있는 언어는 일부일 뿐 — 번역은 역사상 가장 가까이 왔지만, 아직 끝나지 않았습니다.',
+    en:'There are about 7,400 living languages. Only a fraction have the whole Bible — translation is nearer than ever, yet not finished.'},
+  t_pray_lead:{ko:'우리도 옮기려다 멈춘 언어들이 있습니다. 믿을 만한 원어민 번역 없이 AI 산문을 게시하느니, 충실한 “아직”을 택했습니다. 이 언어들을 위해 기도해 주세요 — 사람 번역자가 필요합니다.',
+    en:'There are languages we began and then paused. Rather than publish AI prose without a trustworthy native rendering, we chose a faithful “not yet.” Please pray for these — they need human translators.'},
+
+  v_kick:{ko:'③ 말씀은 번역돼도 흔들리지 않는다',en:'③ The Word holds across tongues'},
+  v_h:{ko:'한 구절, 여러 문자 — 한 글자도 지어내지 않고',en:'One verse, many scripts — not a single word invented'},
+  v_lead:{ko:'모든 구절은 각 언어의 공식 성경 역본에서 그대로 옮겨 왔습니다. 줄거리는 다시 풀어 쓰되, 성경 본문은 절대 의역하지 않습니다. 아래는 요한복음 3:16입니다.',
+    en:'Every verse is quoted verbatim from each language’s official Bible translation. The storyline is retold, but the biblical text is never paraphrased. Below is John 3:16.'},
+  v_note:{ko:'',en:''},
+
+  m_kick:{ko:'⑤ 방언의 지도',en:'⑤ A map of tongues'},
+  m_h:{ko:'각 나라와 족속과 백성과 방언에서',en:'From every nation, tribe, people and language'},
+  m_lead:{ko:'네모 하나가 한 언어입니다. 크기는 모어 화자 수, 색은 옮긴 방식 — 전권 인용 · 신약 중심(부분) · 이웃 언어의 성경을 빌린 다리(bridge).',
+    en:'Each rectangle is one language. Size is mother-tongue speakers; color is how it was carried — full quotation · New-Testament-centered (partial) · bridged from a neighbor’s Bible.'},
+  m_full:{ko:'전권 인용',en:'full'},
+  m_partial:{ko:'부분(신약 중심)',en:'partial (NT-centered)'},
+  m_bridge:{ko:'다리(이웃 언어)',en:'bridge'},
+
+  i_kick:{ko:'⑥ 함께 하는 초대',en:'⑥ An invitation'},
+  i_h:{ko:'데이터가 기도와 사명으로',en:'Data becomes prayer and mission'},
+  i_lead:{ko:'이 일은 한 사람의 의가 아니라 그리스도의 몸이 함께 짊어지는 지상명령입니다. 네 가지로 함께해 주세요.',
+    en:'This is not one person’s righteousness but the Great Commission carried together by the body of Christ. Join in four ways.'},
+  i_p_h:{ko:'기도',en:'Pray'},
+  i_p_b:{ko:'아직 성경이 없는 언어와, 위 보류 목록의 언어들을 위해. 추수할 일꾼을 보내 주시도록.',
+    en:'For languages still without Scripture, and those on the list above — that the Lord would send workers into His harvest.'},
+  i_s_h:{ko:'전하기',en:'Share'},
+  i_s_b:{ko:'복음을 모어로 읽을 수 있는 사람에게 그의 언어 페이지를 보내 주세요. 한 링크가 한 영혼에게.',
+    en:'Send someone the page in their own tongue. One link can reach one soul in the language of the heart.'},
+  i_g_h:{ko:'후원',en:'Give'},
+  i_g_b:{ko:'성경 번역 단체(위클리프 등)를 통해, 아직 말씀이 없는 민족에게 번역이 시작되도록.',
+    en:'Through Bible-translation organizations (Wycliffe and others), so translation can begin for peoples still without the Word.'},
+  i_t_h:{ko:'번역·검수',en:'Translate'},
+  i_t_b:{ko:'당신이 어느 언어의 원어민이라면, 그 언어의 산문을 검수해 “아직”을 “이제”로 바꿔 주세요.',
+    en:'If you are a native speaker of a language, review its prose and help turn a “not yet” into a “now.”'},
+  i_cta:{ko:'한눈에 보는 성경 이야기 보러 가기 →',en:'See the Bible in One Scroll →'},
+
+  foot:{ko:'이 모든 일의 목적은 사람의 의가 아니라, 하나님의 지상 최대 명령인 복음의 전파입니다. 영광은 오직 하나님께.',
+    en:'The purpose of all this is not human righteousness but the proclamation of the gospel — God’s great command. Glory to God alone.'},
+};
+
+// bilingual fact deck (authored)
+const FACTS = [
+  {tag:{ko:'언어',en:'Language'},h:{ko:'모어 화자 0명의 언어가 세상을 묶는다',en:'A language with zero native speakers unites a world'},
+   p:{ko:'표준 아랍어(MSA)를 모어로 쓰는 사람은 사실상 0명입니다. 그런데도 모로코부터 이라크까지 글로 읽을 때는 이 하나의 표준으로 통합니다 — 그래서 이 사이트도 표준 아랍어와 여러 방언 페이지를 함께 둡니다.',
+      en:'Almost no one speaks Modern Standard Arabic as a mother tongue — yet from Morocco to Iraq it unites the Arab world in reading. So the site keeps both a standard-Arabic page and several spoken-dialect pages.'}},
+  {tag:{ko:'한 분 그리스도',en:'One Christ'},h:{ko:'모든 방언이 예수의 이름을 제각기 부른다',en:'Every tongue names Jesus differently'},
+   p:{ko:'예수 · 耶穌 · يسوع · Iisus · Yesu · యేసు … 문자도 소리도 다르지만, 가리키는 분은 한 분 그리스도이십니다.',
+      en:'예수 · 耶穌 · يسوع · Iisus · Yesu · యేసు … different letters, different sounds — but the one Christ they point to is the same.'}},
+  {tag:{ko:'번역의 신비',en:'Translation'},h:{ko:'시편의 번호가 역본마다 다르다',en:'The Psalms are numbered differently'},
+   p:{ko:'바벨론 포로의 슬픔을 노래한 시편이 어떤 번역에선 137편, 칠십인역·슬라브어 전통(러시아·조지아·우즈벡 등)에선 136편입니다. 그래서 각 언어는 “그 역본의 번호”로 인용해야 링크가 맞습니다.',
+      en:'The psalm of exile is 137 in many Bibles but 136 in the Septuagint/Slavonic tradition (Russian, Georgian, Uzbek…). Each language must be cited in its own Bible’s numbering for the link to land.'}},
+  {tag:{ko:'번역의 신비',en:'Translation'},h:{ko:'“한 아기가 우리에게 났고”가 9:6일 수도, 9:5일 수도',en:'“Unto us a child is born” — 9:6 or 9:5'},
+   p:{ko:'이사야의 그 유명한 메시아 예언이, 어떤 역본(개역개정·ESV·시노드역)에선 9장 6절, 다른 역본(루터·새공동역 등)에선 9장 5절입니다. 우리는 늘 그 역본 자신의 번호를 따릅니다.',
+      en:'Isaiah’s famous messianic prophecy is 9:6 in some Bibles (ESV, Synodal) and 9:5 in others (Luther, etc.). We always follow each edition’s own numbering.'}},
+  {tag:{ko:'번역의 최전선',en:'Frontier'},h:{ko:'어떤 성경은 신약 + 창세기 + 사사기뿐',en:'Some Bibles are just NT + Genesis + Judges'},
+   p:{ko:'완역이 없는 언어도 그냥 두지 않습니다 — 키르기스어판은 신약과 창세기·사사기만 있어, 있는 책은 그대로 인용하고 없는 구약은 신약 구절로 대신합니다. 살아 움직이는 번역의 최전선입니다.',
+      en:'Languages without a full Bible aren’t left out — the Kyrgyz edition has only the NT plus Genesis and Judges, so we quote what exists and substitute missing OT verses with NT ones. The living frontier of translation.'}},
+  {tag:{ko:'말씀이 말씀을 고친다',en:'Word corrects Word'},h:{ko:'의심스러운 단어를 그 언어 자신의 성경으로 검증',en:'A doubtful word, checked against its own Bible'},
+   p:{ko:'시스와티어에서 표준이 아닌 듯한 낱말 몇 개를, 같은 언어 성경의 실제 구절에서 같은 단어를 찾아 고쳤습니다. 추측이 아니라 그 언어의 말씀 자체가 기준이 됩니다.',
+      en:'In siSwati, a few non-standard-looking words were fixed by finding the same word in a real verse of that language’s own Bible. Not guesswork — the Word itself is the standard.'}},
+  {tag:{ko:'문자의 모험',en:'Scripts'},h:{ko:'브라질의 독일어, 텔루구 문자의 인도 언어',en:'German in Brazil, an Indian tongue in Telugu script'},
+   p:{ko:'훈스리크어(브라질에 정착한 독일어 방언), 텔루구 문자로 적히지만 표준 정서법이 아직 없는 람바디어 — 수백 개 문자와 표기 전통마다 고유한 도전이 있습니다.',
+      en:'Hunsrik (a German dialect settled in Brazil), and Lambadi — written in Telugu script though it has no standardized orthography yet. Hundreds of scripts, each with its own challenge.'}},
+  {tag:{ko:'신뢰성',en:'Fidelity'},h:{ko:'197개 공식 역본, AI가 지어낸 구절 0건',en:'197 official editions, 0 AI-invented verses'},
+   p:{ko:'구절은 197개+ 공식 성경 역본에서 그대로 인용됩니다. 줄거리 산문은 사람의 검수를 거치지만, 성경 본문만은 단 한 절도 의역하거나 지어내지 않습니다.',
+      en:'Verses are quoted verbatim from 197+ official Bible editions. The storyline prose is human-reviewed, but not a single verse of Scripture is ever paraphrased or invented.'}},
+];
+
+let D=null, L='ko';
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const nf=n=>n.toLocaleString(L==='ko'?'ko-KR':'en-US');
+function human(n){ if(L==='ko'){ if(n>=1e8)return (n/1e8).toFixed(n>=1e9?1:0)+'억'; if(n>=1e4)return Math.round(n/1e4)+'만'; return nf(n);} if(n>=1e9)return (n/1e9).toFixed(2)+'B'; if(n>=1e6)return (n/1e6).toFixed(0)+'M'; if(n>=1e3)return (n/1e3).toFixed(0)+'K'; return nf(n);}
+
+function applyText(){
+  document.documentElement.lang=L; document.body.className=L;
+  $$('[data-t]').forEach(el=>{const k=el.getAttribute('data-t'); if(T[k])el.innerHTML=T[k][L];});
+  $$('.lang button').forEach(b=>b.classList.toggle('on',b.dataset.l===L));
+}
+function renderFacts(){
+  $('#factCards').innerHTML=FACTS.map(f=>`<div class="fact">
+    <span class="tag">${f.tag[L]}</span><h3>${f.h[L]}</h3><p>${f.p[L]}</p></div>`).join('');
+}
+function renderReach(){
+  const pct=Math.round(D.totals.coveragePct);
+  $('#dots').innerHTML=Array.from({length:100},(_,i)=>`<i class="${i<pct?'f':''}"></i>`).join('');
+  $('#s_langs').textContent=nf(D.totals.languages);
+  $('#s_cov').textContent=D.totals.coveragePct+'%';
+  $('#s_spk').textContent=human(D.totals.coveredSpeakers);
+}
+function renderTask(){
+  const w=D.world, max=w.livingLanguages;
+  const rows=[
+    {k:{ko:'전권 성경',en:'Full Bible'},v:w.fullBible,c:'var(--full)'},
+    {k:{ko:'신약',en:'New Testament'},v:w.newTestament,c:'var(--partial)'},
+    {k:{ko:'일부분',en:'Portions'},v:w.portions,c:'var(--bridge)'},
+    {k:{ko:'번역 진행 중',en:'In progress'},v:w.inProgressLanguages,c:'var(--accent2)'},
+    {k:{ko:'아직 시작 못 함',en:'Still to begin'},v:w.stillNeedLanguages,c:'#b65b4a'},
+  ];
+  $('#worldBars').innerHTML=rows.map(r=>`<div class="bar">
+    <div class="t"><span>${r.k[L]}</span><span class="sub">${nf(r.v)} ${L==='ko'?'개 언어':'languages'}</span></div>
+    <div class="track"><div class="fill" style="width:${Math.max(3,r.v/max*100)}%;background:${r.c}"></div></div></div>`).join('')
+    +`<p class="sub" style="font-size:.84rem;margin:6px 0 0">${L==='ko'
+      ? `세상의 약 ${nf(w.livingLanguages)}개 언어 기준. 아직 번역이 시작되지 못한 ${nf(w.stillNeedLanguages)}개 언어 약 ${human(w.stillNeedPeople)} 명 — 역사상 가장 적지만, 0은 아닙니다.`
+      : `Of about ${nf(w.livingLanguages)} living languages. ${nf(w.stillNeedLanguages)} still await a translation to begin — about ${human(w.stillNeedPeople)} people. The fewest ever, but not zero.`}</p>`;
+  const order={DEFERRED:0,HELD:1,'COVERED-BY-PARENT':2};
+  const why={
+    DEFERRED:{ko:'성경 본문은 확보됐으나, 믿을 만한 원어민 산문이 필요',en:'Scripture is in hand, but it needs a trustworthy native rendering'},
+    HELD:{ko:'아직 가져올 수 있는 성경 역본을 찾지 못함',en:'No fetchable Bible edition found yet'},
+    'COVERED-BY-PARENT':{ko:'표준어 페이지로 충분히 닿음',en:'Adequately reached by the standard-language page'},
+  };
+  const items=D.deferred.slice().sort((a,b)=>(order[a.category]-order[b.category])).slice(0,12);
+  $('#prayList').innerHTML=items.map(d=>`<div class="it"><b>${d.language}</b>
+    <span class="pill ${d.category}">${d.category==='DEFERRED'?(L==='ko'?'보류':'deferred'):(L==='ko'?'대기':'held')}</span>
+    <span class="why">${(why[d.category]||{ko:'',en:''})[L]}.</span></div>`).join('');
+}
+function renderVerses(){
+  $('#verseShow').innerHTML=D.showcase.map(s=>{
+    const rtl=/^(ar|he|ckb|fa|ur|prs|sdh|yi)/.test(s.code);
+    return `<div class="vse"><div class="lab">${s.label}</div>
+      <div class="tx" dir="${rtl?'rtl':'ltr'}" lang="${s.code}">${s.text}</div></div>`;
+  }).join('');
+  $('[data-t="v_note"]').innerHTML=T.v_note[L]=(L==='ko'
+    ? `요한복음 3:16 — ${D.showcase.length}개 문자로. 전부 각 언어 공식 역본에서 그대로 가져온 본문입니다.`
+    : `John 3:16 in ${D.showcase.length} scripts — every line taken verbatim from each language’s official edition.`);
+}
+// recursive binary-split treemap (robust: always fills the rectangle)
+function renderMap(){
+  const el=$('#treemap'); el.innerHTML=''; el.style.position='relative';
+  const W=el.clientWidth, H=el.clientHeight||440;
+  const col={full:'var(--full)',partial:'var(--partial)',bridge:'var(--bridge)'};
+  const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');
+  const data=D.languages.filter(l=>l.pop>0).map(l=>({...l,v:Math.sqrt(l.pop)})) // sqrt tames the giants
+    .sort((a,b)=>b.v-a.v);
+  function place(d,x,y,w,h){
+    if(w<=0||h<=0) return;
+    const big=w>44&&h>24;
+    el.insertAdjacentHTML('beforeend',`<div class="cell" title="${esc(d.native)} (${esc(d.en)}) · ${human(d.pop)}"
+      style="left:${x}px;top:${y}px;width:${Math.max(0,w-1)}px;height:${Math.max(0,h-1)}px;background:${col[d.mode]||'var(--bridge)'}">${big?`${esc(d.native)}<br><small>${human(d.pop)}</small>`:''}</div>`);
+  }
+  function tm(items,x,y,w,h){
+    if(!items.length) return;
+    if(items.length===1){ place(items[0],x,y,w,h); return; }
+    const tot=items.reduce((s,d)=>s+d.v,0);
+    let leftSum=0,i=0;
+    while(i<items.length-1 && leftSum+items[i].v < tot/2){ leftSum+=items[i].v; i++; }
+    leftSum+=items[i].v;
+    const left=items.slice(0,i+1), right=items.slice(i+1), f=leftSum/tot;
+    if(w>=h){ tm(left,x,y,w*f,h); tm(right,x+w*f,y,w*(1-f),h); }
+    else    { tm(left,x,y,w,h*f); tm(right,x,y+h*f,w,h*(1-f)); }
+  }
+  tm(data,0,0,W,H);
+}
+function renderSources(){
+  const w=D.world;
+  $('#sources').innerHTML=(L==='ko'
+    ?`출처 · 세계 성경 번역 통계: <a href="${w.sourceUrl}" target="_blank" rel="noopener">${w.source}</a> (${w.asOf}). 언어별 화자 수: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. 성경 본문: 각 언어의 공식 역본(개역개정·ESV·和合本·시노드역·Van Dyck 외 197종).`
+    :`Sources · World Bible-translation figures: <a href="${w.sourceUrl}" target="_blank" rel="noopener">${w.source}</a> (${w.asOf}). Speaker populations: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. Biblical text: each language’s official edition (개역개정, ESV, 和合本, Synodal, Van Dyck, and 197 others).`);
+}
+function renderAll(){ applyText(); renderFacts(); renderReach(); renderTask(); renderVerses(); renderMap(); renderSources(); }
+
+$$('.lang button').forEach(b=>b.addEventListener('click',()=>{L=b.dataset.l; renderAll();}));
+addEventListener('resize',()=>{ if(D) renderMap(); });
+// browser language default
+if((navigator.language||'').toLowerCase().startsWith('en')) L='en';
+fetch('./data.json').then(r=>r.json()).then(d=>{D=d; renderAll();})
+  .catch(()=>{ $('#factCards').innerHTML='<p class="sub">data.json load failed.</p>'; applyText(); });
+</script>
+</body>
+</html>

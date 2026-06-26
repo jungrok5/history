@@ -1,0 +1,2028 @@
+{
+ "generatedNote": "Committed static snapshot. Regenerate with: JP_API_KEY=… node tools/build-insights.mjs",
+ "totals": {
+  "languages": 214,
+  "modeCounts": {
+   "full": 184,
+   "partial": 19,
+   "bridge": 11
+  },
+  "distinctVersions": 197,
+  "coveredSpeakers": 6553549790,
+  "jpWorld": 8169592920,
+  "coveragePct": 80.2
+ },
+ "world": {
+  "livingLanguages": 7396,
+  "fullBible": 776,
+  "newTestament": 1798,
+  "portions": 1433,
+  "inProgressLanguages": 3526,
+  "inProgressPeople": 1260000000,
+  "stillNeedLanguages": 544,
+  "stillNeedPeople": 36800000,
+  "asOf": "2024–2025",
+  "source": "Wycliffe Global Alliance — Global Scripture Access",
+  "sourceUrl": "https://www.wycliffe.net/global-scripture-access/"
+ },
+ "languages": [
+  {
+   "code": "zh-Hans",
+   "native": "中文（简体）",
+   "en": "Chinese (Simplified)",
+   "mode": "full",
+   "ver": "和合本",
+   "pop": 964553600
+  },
+  {
+   "code": "hi",
+   "native": "हिन्दी",
+   "en": "Hindi",
+   "mode": "full",
+   "ver": "हिन्दी बाइबल",
+   "pop": 729624800
+  },
+  {
+   "code": "es",
+   "native": "Español",
+   "en": "Spanish",
+   "mode": "full",
+   "ver": "RVR1960",
+   "pop": 457759910
+  },
+  {
+   "code": "en",
+   "native": "English",
+   "en": "English",
+   "mode": "full",
+   "ver": "ESV",
+   "pop": 373843240
+  },
+  {
+   "code": "bn",
+   "native": "বাংলা",
+   "en": "Bengali",
+   "mode": "full",
+   "ver": "O.V. বাইবেল",
+   "pop": 239114700
+  },
+  {
+   "code": "pt-BR",
+   "native": "Português (BR)",
+   "en": "Portuguese",
+   "mode": "full",
+   "ver": "Almeida",
+   "pop": 221491270
+  },
+  {
+   "code": "ur",
+   "native": "اردو",
+   "en": "Urdu",
+   "mode": "full",
+   "ver": "کِتابِ مُقادّس",
+   "pop": 155974200
+  },
+  {
+   "code": "ru",
+   "native": "Русский",
+   "en": "Russian",
+   "mode": "full",
+   "ver": "Синод.",
+   "pop": 136795020
+  },
+  {
+   "code": "ja",
+   "native": "日本語",
+   "en": "Japanese",
+   "mode": "full",
+   "ver": "新共同訳",
+   "pop": 120668000
+  },
+  {
+   "code": "jv",
+   "native": "Basa Jawa",
+   "en": "Javanese",
+   "mode": "full",
+   "ver": "Kitab Sutji",
+   "pop": 119317300
+  },
+  {
+   "code": "vi",
+   "native": "Tiếng Việt",
+   "en": "Vietnamese",
+   "mode": "full",
+   "ver": "Truyền Thống",
+   "pop": 89747100
+  },
+  {
+   "code": "pnb",
+   "native": "پنجابی",
+   "en": "Western Punjabi",
+   "mode": "partial",
+   "ver": "PAN2020",
+   "pop": 88203500
+  },
+  {
+   "code": "yue",
+   "native": "廣東話",
+   "en": "Cantonese",
+   "mode": "full",
+   "ver": "CAN",
+   "pop": 85585900
+  },
+  {
+   "code": "arz",
+   "native": "العربية المصرية",
+   "en": "Egyptian Arabic",
+   "mode": "bridge",
+   "ver": "فان دايك",
+   "pop": 82455000
+  },
+  {
+   "code": "gu",
+   "native": "ગુજરાતી",
+   "en": "Gujarati",
+   "mode": "full",
+   "ver": "O.V. BSI",
+   "pop": 80861500
+  },
+  {
+   "code": "ko",
+   "native": "한국어",
+   "en": "Korean",
+   "mode": "full",
+   "ver": "개역개정",
+   "pop": 80144200
+  },
+  {
+   "code": "ta",
+   "native": "தமிழ்",
+   "en": "Tamil",
+   "mode": "full",
+   "ver": "O.V. BSI",
+   "pop": 77549700
+  },
+  {
+   "code": "tr",
+   "native": "Türkçe",
+   "en": "Turkish",
+   "mode": "full",
+   "ver": "Kutsal Kitap",
+   "pop": 73885200
+  },
+  {
+   "code": "te",
+   "native": "తెలుగు",
+   "en": "Telugu",
+   "mode": "full",
+   "ver": "O.V. BSI",
+   "pop": 73194000
+  },
+  {
+   "code": "fr",
+   "native": "Français",
+   "en": "French",
+   "mode": "full",
+   "ver": "LSG",
+   "pop": 72790890
+  },
+  {
+   "code": "mr",
+   "native": "मराठी",
+   "en": "Marathi",
+   "mode": "full",
+   "ver": "RV BSI",
+   "pop": 68067600
+  },
+  {
+   "code": "de",
+   "native": "Deutsch",
+   "en": "German",
+   "mode": "full",
+   "ver": "Luther",
+   "pop": 66464000
+  },
+  {
+   "code": "ha",
+   "native": "Hausa",
+   "en": "Hausa",
+   "mode": "full",
+   "ver": "LMT",
+   "pop": 60281500
+  },
+  {
+   "code": "fa",
+   "native": "فارسی",
+   "en": "Persian",
+   "mode": "full",
+   "ver": "ترجمه قدیم",
+   "pop": 50138500
+  },
+  {
+   "code": "yo",
+   "native": "Yorùbá",
+   "en": "Yoruba",
+   "mode": "full",
+   "ver": "Bibeli Mimọ",
+   "pop": 48614600
+  },
+  {
+   "code": "skr",
+   "native": "سرائیکی",
+   "en": "Saraiki",
+   "mode": "partial",
+   "ver": "SKRV",
+   "pop": 47679100
+  },
+  {
+   "code": "apd",
+   "native": "عربي سوداني",
+   "en": "Sudanese Arabic",
+   "mode": "partial",
+   "ver": "APD2024",
+   "pop": 46019600
+  },
+  {
+   "code": "nan",
+   "native": "台語",
+   "en": "Taiwanese",
+   "mode": "full",
+   "ver": "TTVH",
+   "pop": 45285200
+  },
+  {
+   "code": "tl",
+   "native": "Tagalog",
+   "en": "Filipino",
+   "mode": "full",
+   "ver": "MBB",
+   "pop": 44141880
+  },
+  {
+   "code": "hak",
+   "native": "客家話",
+   "en": "Hakka",
+   "mode": "full",
+   "ver": "THV",
+   "pop": 43926200
+  },
+  {
+   "code": "pl",
+   "native": "Polski",
+   "en": "Polish",
+   "mode": "full",
+   "ver": "Biblia Gdańska",
+   "pop": 43314700
+  },
+  {
+   "code": "su",
+   "native": "Basa Sunda",
+   "en": "Sundanese",
+   "mode": "full",
+   "ver": "Kitab Suci",
+   "pop": 40578000
+  },
+  {
+   "code": "it",
+   "native": "Italiano",
+   "en": "Italian",
+   "mode": "full",
+   "ver": "Nuova Riveduta",
+   "pop": 39831800
+  },
+  {
+   "code": "ml",
+   "native": "മലയാളം",
+   "en": "Malayalam",
+   "mode": "full",
+   "ver": "O.V. BSI",
+   "pop": 38739500
+  },
+  {
+   "code": "arq",
+   "native": "الدارجة الجزائرية",
+   "en": "Algerian Arabic",
+   "mode": "partial",
+   "ver": "جزائري",
+   "pop": 38621400
+  },
+  {
+   "code": "kn",
+   "native": "ಕನ್ನಡ",
+   "en": "Kannada",
+   "mode": "full",
+   "ver": "J.V. BSI",
+   "pop": 38421800
+  },
+  {
+   "code": "ig",
+   "native": "Igbo",
+   "en": "Igbo",
+   "mode": "full",
+   "ver": "Bible Nsọ",
+   "pop": 37592100
+  },
+  {
+   "code": "am",
+   "native": "አማርኛ",
+   "en": "Amharic",
+   "mode": "full",
+   "ver": "NASV",
+   "pop": 35851800
+  },
+  {
+   "code": "uz",
+   "native": "Oʻzbekcha",
+   "en": "Uzbek",
+   "mode": "full",
+   "ver": "OʻzbMK",
+   "pop": 34547200
+  },
+  {
+   "code": "sd",
+   "native": "سنڌي",
+   "en": "Sindhi",
+   "mode": "full",
+   "ver": "Sindhi Bible",
+   "pop": 33578400
+  },
+  {
+   "code": "uk",
+   "native": "Українська",
+   "en": "Ukrainian",
+   "mode": "full",
+   "ver": "Огієнко",
+   "pop": 33428400
+  },
+  {
+   "code": "my",
+   "native": "မြန်မာ",
+   "en": "Myanmar",
+   "mode": "full",
+   "ver": "Judson",
+   "pop": 33210200
+  },
+  {
+   "code": "ary",
+   "native": "الدارجة المغربية",
+   "en": "Moroccan Arabic",
+   "mode": "partial",
+   "ver": "ary",
+   "pop": 32890000
+  },
+  {
+   "code": "pa",
+   "native": "ਪੰਜਾਬੀ",
+   "en": "Punjabi",
+   "mode": "full",
+   "ver": "O.V. BSI",
+   "pop": 31618100
+  },
+  {
+   "code": "th",
+   "native": "ไทย",
+   "en": "Thai",
+   "mode": "full",
+   "ver": "ฉบับไทย",
+   "pop": 29668800
+  },
+  {
+   "code": "so",
+   "native": "Soomaali",
+   "en": "Somali",
+   "mode": "full",
+   "ver": "SOM",
+   "pop": 29258700
+  },
+  {
+   "code": "zlm",
+   "native": "Bahasa Melayu",
+   "en": "Malay",
+   "mode": "full",
+   "ver": "BM",
+   "pop": 25165700
+  },
+  {
+   "code": "om",
+   "native": "Afaan Oromoo",
+   "en": "Oromo",
+   "mode": "full",
+   "ver": "HAH",
+   "pop": 24330700
+  },
+  {
+   "code": "ceb",
+   "native": "Cebuano",
+   "en": "Cebuano",
+   "mode": "full",
+   "ver": "Ang Biblia",
+   "pop": 24011800
+  },
+  {
+   "code": "or",
+   "native": "ଓଡ଼ିଆ",
+   "en": "Odia",
+   "mode": "full",
+   "ver": "O.V. BSI",
+   "pop": 23674900
+  },
+  {
+   "code": "ps",
+   "native": "پښتو",
+   "en": "Pashto",
+   "mode": "full",
+   "ver": "PYPB",
+   "pop": 23472600
+  },
+  {
+   "code": "ro",
+   "native": "Română",
+   "en": "Romanian",
+   "mode": "full",
+   "ver": "Cornilescu",
+   "pop": 23457600
+  },
+  {
+   "code": "azb",
+   "native": "آذربایجان تۆرکجه‌سی",
+   "en": "South Azerbaijani",
+   "mode": "full",
+   "ver": "SAB",
+   "pop": 21985100
+  },
+  {
+   "code": "ff",
+   "native": "Fulfulde",
+   "en": "Fula",
+   "mode": "partial",
+   "ver": "Linjiila",
+   "pop": 20805000
+  },
+  {
+   "code": "kmr",
+   "native": "Kurmancî",
+   "en": "Kurmanji (Northern Kurdish)",
+   "mode": "full",
+   "ver": "KURNT",
+   "pop": 20097300
+  },
+  {
+   "code": "ne",
+   "native": "नेपाली",
+   "en": "Nepali",
+   "mode": "full",
+   "ver": "NNRV",
+   "pop": 18494600
+  },
+  {
+   "code": "bal",
+   "native": "بلوچی",
+   "en": "Balochi",
+   "mode": "bridge",
+   "ver": "OBS",
+   "pop": 18316400
+  },
+  {
+   "code": "kk",
+   "native": "Қазақ",
+   "en": "Kazakh",
+   "mode": "full",
+   "ver": "Киелі кітап",
+   "pop": 17971200
+  },
+  {
+   "code": "km",
+   "native": "ភាសាខ្មែរ",
+   "en": "Khmer",
+   "mode": "full",
+   "ver": "គខប",
+   "pop": 17921600
+  },
+  {
+   "code": "si",
+   "native": "සිංහල",
+   "en": "Sinhala",
+   "mode": "full",
+   "ver": "පැරණි පරිවර්තනය",
+   "pop": 17823600
+  },
+  {
+   "code": "ny",
+   "native": "Chichewa",
+   "en": "Chichewa",
+   "mode": "full",
+   "ver": "Buku Lopatulika",
+   "pop": 17083200
+  },
+  {
+   "code": "rw",
+   "native": "Ikinyarwanda",
+   "en": "Kinyarwanda",
+   "mode": "full",
+   "ver": "Bibiliya Yera",
+   "pop": 16983600
+  },
+  {
+   "code": "id",
+   "native": "Bahasa Indonesia",
+   "en": "Indonesian",
+   "mode": "full",
+   "ver": "TB",
+   "pop": 16184390
+  },
+  {
+   "code": "rn",
+   "native": "Ikirundi",
+   "en": "Kirundi",
+   "mode": "full",
+   "ver": "Bibiliya Yera",
+   "pop": 15580000
+  },
+  {
+   "code": "zu",
+   "native": "isiZulu",
+   "en": "Zulu",
+   "mode": "full",
+   "ver": "1959",
+   "pop": 15500100
+  },
+  {
+   "code": "prs",
+   "native": "دری",
+   "en": "Dari",
+   "mode": "full",
+   "ver": "دری",
+   "pop": 15390000
+  },
+  {
+   "code": "gax",
+   "native": "Afaan Oromoo (Booranaa)",
+   "en": "Oromo (Borana)",
+   "mode": "full",
+   "ver": "BOR",
+   "pop": 14614000
+  },
+  {
+   "code": "nl",
+   "native": "Nederlands",
+   "en": "Dutch",
+   "mode": "full",
+   "ver": "HSV",
+   "pop": 14519000
+  },
+  {
+   "code": "mos",
+   "native": "Moore",
+   "en": "Mossi",
+   "mode": "full",
+   "ver": "Sebr Sõngo",
+   "pop": 14388000
+  },
+  {
+   "code": "mg",
+   "native": "Malagasy",
+   "en": "Malagasy",
+   "mode": "full",
+   "ver": "MBP",
+   "pop": 13764900
+  },
+  {
+   "code": "ht",
+   "native": "Kreyòl Ayisyen",
+   "en": "Haitian Creole",
+   "mode": "full",
+   "ver": "HAT98",
+   "pop": 13602700
+  },
+  {
+   "code": "syl",
+   "native": "ছিলটি",
+   "en": "Sylheti",
+   "mode": "full",
+   "ver": "sylB",
+   "pop": 13307600
+  },
+  {
+   "code": "ak",
+   "native": "Twi",
+   "en": "Akan",
+   "mode": "full",
+   "ver": "Asante Twi",
+   "pop": 13121000
+  },
+  {
+   "code": "ug",
+   "native": "ئۇيغۇرچە",
+   "en": "Uyghur",
+   "mode": "full",
+   "ver": "HZUT",
+   "pop": 12402300
+  },
+  {
+   "code": "lua",
+   "native": "Tshiluba",
+   "en": "Luba-Kasai",
+   "mode": "full",
+   "ver": "TSH",
+   "pop": 12163200
+  },
+  {
+   "code": "aeb",
+   "native": "التونسي",
+   "en": "Tunisian Arabic",
+   "mode": "partial",
+   "ver": "بالتونسي",
+   "pop": 11942700
+  },
+  {
+   "code": "suk",
+   "native": "Kɪsukuma",
+   "en": "Sukuma",
+   "mode": "full",
+   "ver": "SUKBI15",
+   "pop": 11888000
+  },
+  {
+   "code": "hu",
+   "native": "Magyar",
+   "en": "Hungarian",
+   "mode": "full",
+   "ver": "RÚF",
+   "pop": 11596200
+  },
+  {
+   "code": "ki",
+   "native": "Gĩkũyũ",
+   "en": "Kikuyu",
+   "mode": "full",
+   "ver": "Bibilia",
+   "pop": 11593400
+  },
+  {
+   "code": "tg",
+   "native": "Тоҷикӣ",
+   "en": "Tajik",
+   "mode": "full",
+   "ver": "Китоби Муқаддас",
+   "pop": 11498000
+  },
+  {
+   "code": "af",
+   "native": "Afrikaans",
+   "en": "Afrikaans",
+   "mode": "full",
+   "ver": "1933/1953",
+   "pop": 11202800
+  },
+  {
+   "code": "el",
+   "native": "Ελληνικά",
+   "en": "Greek",
+   "mode": "full",
+   "ver": "Φίλος Περγάμου",
+   "pop": 10944000
+  },
+  {
+   "code": "ilo",
+   "native": "Ilokano",
+   "en": "Ilocano",
+   "mode": "full",
+   "ver": "Ti Biblia",
+   "pop": 10654600
+  },
+  {
+   "code": "cs",
+   "native": "Čeština",
+   "en": "Czech",
+   "mode": "full",
+   "ver": "ČSP",
+   "pop": 10569300
+  },
+  {
+   "code": "az",
+   "native": "Azərbaycan",
+   "en": "Azerbaijani",
+   "mode": "full",
+   "ver": "Müqəddəs Kitab",
+   "pop": 10378800
+  },
+  {
+   "code": "xh",
+   "native": "isiXhosa",
+   "en": "Xhosa",
+   "mode": "full",
+   "ver": "IBHAYIBHILE",
+   "pop": 10303000
+  },
+  {
+   "code": "ti",
+   "native": "ትግርኛ",
+   "en": "Tigrinya",
+   "mode": "full",
+   "ver": "መጽሓፍ ቅዱስ",
+   "pop": 10272700
+  },
+  {
+   "code": "sn",
+   "native": "chiShona",
+   "en": "Shona",
+   "mode": "full",
+   "ver": "Bhaibheri 1949/2002",
+   "pop": 10028000
+  },
+  {
+   "code": "sv",
+   "native": "Svenska",
+   "en": "Swedish",
+   "mode": "full",
+   "ver": "Folkbibeln",
+   "pop": 9710800
+  },
+  {
+   "code": "kmb",
+   "native": "Kimbundu",
+   "en": "Kimbundu",
+   "mode": "full",
+   "ver": "KMB80",
+   "pop": 9600000
+  },
+  {
+   "code": "umb",
+   "native": "Umbundu",
+   "en": "Umbundu",
+   "mode": "full",
+   "ver": "Embimbiliya",
+   "pop": 8900300
+  },
+  {
+   "code": "ts",
+   "native": "Xitsonga",
+   "en": "Tsonga",
+   "mode": "full",
+   "ver": "Bibele",
+   "pop": 8806000
+  },
+  {
+   "code": "lg",
+   "native": "Luganda",
+   "en": "Luganda",
+   "mode": "full",
+   "ver": "Baibuli",
+   "pop": 8734700
+  },
+  {
+   "code": "hil",
+   "native": "Hiligaynon",
+   "en": "Hiligaynon",
+   "mode": "full",
+   "ver": "Ang Biblia",
+   "pop": 8719400
+  },
+  {
+   "code": "tk",
+   "native": "Türkmen",
+   "en": "Turkmen",
+   "mode": "full",
+   "ver": "Mukaddes Kitap",
+   "pop": 8688600
+  },
+  {
+   "code": "be",
+   "native": "Беларуская",
+   "en": "Belarusian",
+   "mode": "full",
+   "ver": "пераклад Бокуна",
+   "pop": 8537300
+  },
+  {
+   "code": "mad",
+   "native": "Basa Madhura",
+   "en": "Madurese",
+   "mode": "full",
+   "ver": "Alketab",
+   "pop": 8356000
+  },
+  {
+   "code": "sr",
+   "native": "Српски",
+   "en": "Serbian",
+   "mode": "full",
+   "ver": "Савремени превод",
+   "pop": 8098090
+  },
+  {
+   "code": "sat",
+   "native": "Santali",
+   "en": "Santali",
+   "mode": "full",
+   "ver": "SBT",
+   "pop": 7990500
+  },
+  {
+   "code": "ks",
+   "native": "کٲشُر",
+   "en": "Kashmiri",
+   "mode": "bridge",
+   "ver": "کِتابِ مُقادّس",
+   "pop": 7938600
+  },
+  {
+   "code": "nod",
+   "native": "คำเมือง",
+   "en": "Northern Thai",
+   "mode": "partial",
+   "ver": "พคม.",
+   "pop": 7798000
+  },
+  {
+   "code": "kab",
+   "native": "Taqbaylit",
+   "en": "Kabyle",
+   "mode": "full",
+   "ver": "Bible Kabyle",
+   "pop": 7564000
+  },
+  {
+   "code": "luo",
+   "native": "Dholuo",
+   "en": "Luo",
+   "mode": "full",
+   "ver": "Muma Maler",
+   "pop": 7312000
+  },
+  {
+   "code": "kam",
+   "native": "Kĩkamba",
+   "en": "Kamba",
+   "mode": "full",
+   "ver": "Mbivlia",
+   "pop": 7311000
+  },
+  {
+   "code": "ibb",
+   "native": "Ibibio",
+   "en": "Ibibio",
+   "mode": "full",
+   "ver": "ICB",
+   "pop": 7219700
+  },
+  {
+   "code": "bem",
+   "native": "Ichibemba",
+   "en": "Bemba",
+   "mode": "full",
+   "ver": "Baibolo",
+   "pop": 7173300
+  },
+  {
+   "code": "lmn",
+   "native": "లంబాడి",
+   "en": "Lambadi",
+   "mode": "full",
+   "ver": "బంజారా/లంబాడి",
+   "pop": 7151000
+  },
+  {
+   "code": "bg",
+   "native": "Български",
+   "en": "Bulgarian",
+   "mode": "full",
+   "ver": "Верен",
+   "pop": 7120500
+  },
+  {
+   "code": "wo",
+   "native": "Wolof",
+   "en": "Wolof",
+   "mode": "full",
+   "ver": "Kàddug Yàlla",
+   "pop": 6975300
+  },
+  {
+   "code": "ee",
+   "native": "Eʋegbe",
+   "en": "Ewe",
+   "mode": "full",
+   "ver": "EƲEGBE BIBLIA",
+   "pop": 6959000
+  },
+  {
+   "code": "gn",
+   "native": "Avañe’ẽ",
+   "en": "Guarani",
+   "mode": "full",
+   "ver": "Ñe’ẽ Porã",
+   "pop": 6834100
+  },
+  {
+   "code": "kg",
+   "native": "Kikongo",
+   "en": "Kikongo",
+   "mode": "bridge",
+   "ver": "MNB",
+   "pop": 6727800
+  },
+  {
+   "code": "st",
+   "native": "Sesotho",
+   "en": "Sesotho",
+   "mode": "full",
+   "ver": "BIBELE",
+   "pop": 6658900
+  },
+  {
+   "code": "nso",
+   "native": "Sepedi",
+   "en": "Northern Sotho",
+   "mode": "full",
+   "ver": "Taba yea Botse",
+   "pop": 6645000
+  },
+  {
+   "code": "min",
+   "native": "Minangkabau",
+   "en": "Minangkabau",
+   "mode": "bridge",
+   "ver": "TB",
+   "pop": 6607000
+  },
+  {
+   "code": "tn",
+   "native": "Setswana",
+   "en": "Tswana",
+   "mode": "full",
+   "ver": "Setswana 1970",
+   "pop": 6560140
+  },
+  {
+   "code": "sq",
+   "native": "Shqip",
+   "en": "Albanian",
+   "mode": "full",
+   "ver": "Së bashku 2020",
+   "pop": 6250000
+  },
+  {
+   "code": "he",
+   "native": "עברית",
+   "en": "Hebrew",
+   "mode": "full",
+   "ver": "תנ״ך ודליטש",
+   "pop": 6238190
+  },
+  {
+   "code": "ky",
+   "native": "Кыргызча",
+   "en": "Kyrgyz",
+   "mode": "full",
+   "ver": "Инжил ЛС",
+   "pop": 6089100
+  },
+  {
+   "code": "as",
+   "native": "অসমীয়া",
+   "en": "Assamese",
+   "mode": "full",
+   "ver": "IRV",
+   "pop": 6032300
+  },
+  {
+   "code": "sdh",
+   "native": "کوردی خوارین",
+   "en": "Southern Kurdish",
+   "mode": "partial",
+   "ver": "SKV",
+   "pop": 5952000
+  },
+  {
+   "code": "bug",
+   "native": "Basa Ugi",
+   "en": "Buginese",
+   "mode": "full",
+   "ver": "TML",
+   "pop": 5853000
+  },
+  {
+   "code": "mai",
+   "native": "मैथिली",
+   "en": "Maithili",
+   "mode": "partial",
+   "ver": "जीवन सन्देश",
+   "pop": 5789000
+  },
+  {
+   "code": "tt",
+   "native": "Татарча",
+   "en": "Tatar",
+   "mode": "full",
+   "ver": "Изге Язма",
+   "pop": 5775400
+  },
+  {
+   "code": "fuf",
+   "native": "Pular",
+   "en": "Pular",
+   "mode": "partial",
+   "ver": "VPFJ",
+   "pop": 5763900
+  },
+  {
+   "code": "sid",
+   "native": "Sidaamu Afoo",
+   "en": "Sidaama",
+   "mode": "full",
+   "ver": "QulMax",
+   "pop": 5702000
+  },
+  {
+   "code": "bho",
+   "native": "भोजपुरी",
+   "en": "Bhojpuri",
+   "mode": "bridge",
+   "ver": "हिन्दी बाइबल",
+   "pop": 5655800
+  },
+  {
+   "code": "ln",
+   "native": "Lingála",
+   "en": "Lingala",
+   "mode": "full",
+   "ver": "MNB",
+   "pop": 5519700
+  },
+  {
+   "code": "da",
+   "native": "Dansk",
+   "en": "Danish",
+   "mode": "full",
+   "ver": "1871",
+   "pop": 5359700
+  },
+  {
+   "code": "nyn",
+   "native": "Runyankore",
+   "en": "Nyankore",
+   "mode": "full",
+   "ver": "RKK2008",
+   "pop": 5280000
+  },
+  {
+   "code": "sk",
+   "native": "Slovenčina",
+   "en": "Slovak",
+   "mode": "full",
+   "ver": "SEB",
+   "pop": 5228200
+  },
+  {
+   "code": "tiv",
+   "native": "Tiv",
+   "en": "Tiv",
+   "mode": "full",
+   "ver": "TOBNR",
+   "pop": 5210000
+  },
+  {
+   "code": "fi",
+   "native": "Suomi",
+   "en": "Finnish",
+   "mode": "full",
+   "ver": "KR92",
+   "pop": 5130100
+  },
+  {
+   "code": "hr",
+   "native": "Hrvatski",
+   "en": "Croatian",
+   "mode": "full",
+   "ver": "SHP",
+   "pop": 5073700
+  },
+  {
+   "code": "kln",
+   "native": "Kalenjin",
+   "en": "Kalenjin",
+   "mode": "full",
+   "ver": "BUKUIT",
+   "pop": 5065000
+  },
+  {
+   "code": "shn",
+   "native": "လိၵ်ႈတႆး",
+   "en": "Shan",
+   "mode": "full",
+   "ver": "ၵျၢမ်းလိၵ်ႈၽြႃး",
+   "pop": 5034300
+  },
+  {
+   "code": "hrx",
+   "native": "Hunsrik",
+   "en": "Hunsrik",
+   "mode": "partial",
+   "ver": "NTHunsrik",
+   "pop": 5006000
+  },
+  {
+   "code": "dyu",
+   "native": "Julakan",
+   "en": "Dyula",
+   "mode": "full",
+   "ver": "AKKDC08",
+   "pop": 4937000
+  },
+  {
+   "code": "kru",
+   "native": "কুড়ুখ",
+   "en": "Kurukh",
+   "mode": "partial",
+   "ver": "Kurukh NT",
+   "pop": 4898000
+  },
+  {
+   "code": "bcl",
+   "native": "Bikol",
+   "en": "Central Bikol",
+   "mode": "full",
+   "ver": "Marahay na Bareta",
+   "pop": 4779200
+  },
+  {
+   "code": "no",
+   "native": "Norsk",
+   "en": "Norwegian",
+   "mode": "full",
+   "ver": "Bibel 2011",
+   "pop": 4770600
+  },
+  {
+   "code": "haz",
+   "native": "هزارگی",
+   "en": "Hazaragi",
+   "mode": "partial",
+   "ver": "HAZ",
+   "pop": 4735700
+  },
+  {
+   "code": "shi",
+   "native": "Tašlḥiyt",
+   "en": "Tashelhit",
+   "mode": "partial",
+   "ver": "SHILNT10",
+   "pop": 4592000
+  },
+  {
+   "code": "ca",
+   "native": "Català",
+   "en": "Catalan",
+   "mode": "full",
+   "ver": "BCI",
+   "pop": 4380500
+  },
+  {
+   "code": "sw",
+   "native": "Kiswahili",
+   "en": "Swahili",
+   "mode": "full",
+   "ver": "SRUV",
+   "pop": 4254500
+  },
+  {
+   "code": "cjk",
+   "native": "Chokwe",
+   "en": "Chokwe",
+   "mode": "full",
+   "ver": "CHK1970",
+   "pop": 4161700
+  },
+  {
+   "code": "lo",
+   "native": "ລາວ",
+   "en": "Lao",
+   "mode": "full",
+   "ver": "ພຣະຄຳພີ",
+   "pop": 4115900
+  },
+  {
+   "code": "ace",
+   "native": "Basa Acèh",
+   "en": "Acehnese",
+   "mode": "full",
+   "ver": "LAIACE",
+   "pop": 4100000
+  },
+  {
+   "code": "bjn",
+   "native": "Banjar",
+   "en": "Banjar",
+   "mode": "bridge",
+   "ver": "TB",
+   "pop": 4082000
+  },
+  {
+   "code": "tum",
+   "native": "Chitumbuka",
+   "en": "Tumbuka",
+   "mode": "full",
+   "ver": "Tumbuka",
+   "pop": 4035400
+  },
+  {
+   "code": "hy",
+   "native": "Հայերեն",
+   "en": "Armenian",
+   "mode": "full",
+   "ver": "Արարատ",
+   "pop": 3960000
+  },
+  {
+   "code": "war",
+   "native": "Winaray",
+   "en": "Waray",
+   "mode": "full",
+   "ver": "Samarenyo",
+   "pop": 3900000
+  },
+  {
+   "code": "ban",
+   "native": "Basa Bali",
+   "en": "Balinese",
+   "mode": "full",
+   "ver": "BAN",
+   "pop": 3894600
+  },
+  {
+   "code": "ckb",
+   "native": "کوردیی ناوەندی",
+   "en": "Central Kurdish",
+   "mode": "full",
+   "ver": "KSS",
+   "pop": 3785400
+  },
+  {
+   "code": "gl",
+   "native": "Galego",
+   "en": "Galician",
+   "mode": "full",
+   "ver": "SEPT",
+   "pop": 3298000
+  },
+  {
+   "code": "ka",
+   "native": "ქართული",
+   "en": "Georgian",
+   "mode": "full",
+   "ver": "ქართული ბიბლია",
+   "pop": 3248900
+  },
+  {
+   "code": "bs",
+   "native": "Bosanski",
+   "en": "Bosnian",
+   "mode": "full",
+   "ver": "Bba",
+   "pop": 3139000
+  },
+  {
+   "code": "mn",
+   "native": "Монгол",
+   "en": "Mongolian",
+   "mode": "full",
+   "ver": "АБ2004",
+   "pop": 2969500
+  },
+  {
+   "code": "lt",
+   "native": "Lietuvių",
+   "en": "Lithuanian",
+   "mode": "full",
+   "ver": "LBD",
+   "pop": 2866100
+  },
+  {
+   "code": "raj",
+   "native": "राजस्थानी",
+   "en": "Rajasthani",
+   "mode": "bridge",
+   "ver": "हिन्दी बाइबल",
+   "pop": 2821500
+  },
+  {
+   "code": "ssw",
+   "native": "siSwati",
+   "en": "Swati",
+   "mode": "full",
+   "ver": "SWT",
+   "pop": 2815000
+  },
+  {
+   "code": "mww",
+   "native": "Hmoob Dawb",
+   "en": "Hmong Daw",
+   "mode": "full",
+   "ver": "HMOWSV",
+   "pop": 2721000
+  },
+  {
+   "code": "pam",
+   "native": "Kapampangan",
+   "en": "Kapampangan",
+   "mode": "full",
+   "ver": "Ing Mayap a Balita",
+   "pop": 2594400
+  },
+  {
+   "code": "fon",
+   "native": "Fɔngbè",
+   "en": "Fon",
+   "mode": "full",
+   "ver": "Fon13",
+   "pop": 2523000
+  },
+  {
+   "code": "qu",
+   "native": "Runasimi",
+   "en": "Quechua",
+   "mode": "full",
+   "ver": "Diospa Simin Qelqa",
+   "pop": 2429000
+  },
+  {
+   "code": "eu",
+   "native": "Euskara",
+   "en": "Basque",
+   "mode": "full",
+   "ver": "EAB",
+   "pop": 2380600
+  },
+  {
+   "code": "mni",
+   "native": "Meiteilon",
+   "en": "Meitei",
+   "mode": "full",
+   "ver": "MBUR22",
+   "pop": 2138800
+  },
+  {
+   "code": "nd",
+   "native": "isiNdebele",
+   "en": "North Ndebele",
+   "mode": "full",
+   "ver": "iBhayibhili",
+   "pop": 2060000
+  },
+  {
+   "code": "tpi",
+   "native": "Tok Pisin",
+   "en": "Tok Pisin",
+   "mode": "full",
+   "ver": "Buk Baibel",
+   "pop": 2014870
+  },
+  {
+   "code": "sl",
+   "native": "Slovenščina",
+   "en": "Slovenian",
+   "mode": "full",
+   "ver": "SSP",
+   "pop": 1962900
+  },
+  {
+   "code": "bo",
+   "native": "བོད་སྐད་",
+   "en": "Tibetan",
+   "mode": "full",
+   "ver": "བོད་འགྱུར་གསར་མ",
+   "pop": 1919800
+  },
+  {
+   "code": "ay",
+   "native": "Aymar aru",
+   "en": "Aymara",
+   "mode": "full",
+   "ver": "Aymar Bibliia",
+   "pop": 1846000
+  },
+  {
+   "code": "mk",
+   "native": "Македонски",
+   "en": "Macedonian",
+   "mode": "full",
+   "ver": "Стандардна Библија",
+   "pop": 1763200
+  },
+  {
+   "code": "quc",
+   "native": "K'iche'",
+   "en": "K'iche'",
+   "mode": "full",
+   "ver": "Quiché",
+   "pop": 1758500
+  },
+  {
+   "code": "nus",
+   "native": "Thok Nath",
+   "en": "Nuer",
+   "mode": "full",
+   "ver": "2155",
+   "pop": 1758000
+  },
+  {
+   "code": "bak",
+   "native": "Башҡортса",
+   "en": "Bashkir",
+   "mode": "full",
+   "ver": "БашИЯ2023",
+   "pop": 1646000
+  },
+  {
+   "code": "dag",
+   "native": "Dagbanli",
+   "en": "Dagbani",
+   "mode": "full",
+   "ver": "DBwDB",
+   "pop": 1619000
+  },
+  {
+   "code": "pag",
+   "native": "Pangasinan",
+   "en": "Pangasinan",
+   "mode": "full",
+   "ver": "Maung a Balita",
+   "pop": 1587000
+  },
+  {
+   "code": "gom",
+   "native": "Konknni",
+   "en": "Konkani",
+   "mode": "partial",
+   "ver": "KONKABSI",
+   "pop": 1541200
+  },
+  {
+   "code": "lv",
+   "native": "Latviešu",
+   "en": "Latvian",
+   "mode": "full",
+   "ver": "Glika",
+   "pop": 1462000
+  },
+  {
+   "code": "hne",
+   "native": "छत्तीसगढ़ी",
+   "en": "Chhattisgarhi",
+   "mode": "full",
+   "ver": "SCA",
+   "pop": 1384500
+  },
+  {
+   "code": "dwr",
+   "native": "Dawuro",
+   "en": "Dawro",
+   "mode": "full",
+   "ver": "eBible",
+   "pop": 1205000
+  },
+  {
+   "code": "kac",
+   "native": "Jinghpaw",
+   "en": "Jinghpaw",
+   "mode": "full",
+   "ver": "JCLB",
+   "pop": 1121000
+  },
+  {
+   "code": "et",
+   "native": "Eesti",
+   "en": "Estonian",
+   "mode": "partial",
+   "ver": "PKEK",
+   "pop": 1119300
+  },
+  {
+   "code": "cv",
+   "native": "Чӑвашла",
+   "en": "Chuvash",
+   "mode": "full",
+   "ver": "CHB",
+   "pop": 1108700
+  },
+  {
+   "code": "lus",
+   "native": "Mizo ṭawng",
+   "en": "Mizo",
+   "mode": "full",
+   "ver": "MIZCLBSI",
+   "pop": 850300
+  },
+  {
+   "code": "sg",
+   "native": "Sängö",
+   "en": "Sango",
+   "mode": "full",
+   "ver": "Mbeti ti Nzapa",
+   "pop": 802700
+  },
+  {
+   "code": "cy",
+   "native": "Cymraeg",
+   "en": "Welsh",
+   "mode": "full",
+   "ver": "BCND",
+   "pop": 746700
+  },
+  {
+   "code": "mt",
+   "native": "Malti",
+   "en": "Maltese",
+   "mode": "full",
+   "ver": "MALTI",
+   "pop": 695200
+  },
+  {
+   "code": "mi",
+   "native": "Te Reo Māori",
+   "en": "Maori",
+   "mode": "full",
+   "ver": "Paipera Tapu",
+   "pop": 674000
+  },
+  {
+   "code": "crh",
+   "native": "Къырымтатарджа",
+   "en": "Crimean Tatar",
+   "mode": "full",
+   "ver": "CTB",
+   "pop": 636500
+  },
+  {
+   "code": "fj",
+   "native": "Vakaviti",
+   "en": "Fijian",
+   "mode": "full",
+   "ver": "FNV",
+   "pop": 502100
+  },
+  {
+   "code": "sm",
+   "native": "Gagana Sāmoa",
+   "en": "Samoan",
+   "mode": "full",
+   "ver": "O LE TUSI PAIA",
+   "pop": 466300
+  },
+  {
+   "code": "is",
+   "native": "Íslenska",
+   "en": "Icelandic",
+   "mode": "full",
+   "ver": "Biblían 2007",
+   "pop": 442600
+  },
+  {
+   "code": "pap",
+   "native": "Papiamentu",
+   "en": "Papiamento",
+   "mode": "full",
+   "ver": "BEIBEL-SANTU",
+   "pop": 309000
+  },
+  {
+   "code": "ga",
+   "native": "Gaeilge",
+   "en": "Irish",
+   "mode": "full",
+   "ver": "ABN",
+   "pop": 265400
+  },
+  {
+   "code": "yi",
+   "native": "ייִדיש",
+   "en": "Yiddish",
+   "mode": "partial",
+   "ver": "OYBC",
+   "pop": 208300
+  },
+  {
+   "code": "ctg",
+   "native": "চাটগাঁইয়া",
+   "en": "Chittagonian",
+   "mode": "bridge",
+   "ver": "O.V. বাইবেল",
+   "pop": 204500
+  },
+  {
+   "code": "to",
+   "native": "Lea fakatonga",
+   "en": "Tongan",
+   "mode": "full",
+   "ver": "TMB",
+   "pop": 197700
+  },
+  {
+   "code": "fo",
+   "native": "Føroyskt",
+   "en": "Faroese",
+   "mode": "full",
+   "ver": "Bíblian 2019",
+   "pop": 75000
+  },
+  {
+   "code": "gd",
+   "native": "Gàidhlig",
+   "en": "Scottish Gaelic",
+   "mode": "full",
+   "ver": "1531",
+   "pop": 69500
+  },
+  {
+   "code": "awa",
+   "native": "अवधी",
+   "en": "Awadhi",
+   "mode": "full",
+   "ver": "AERV",
+   "pop": 63100
+  },
+  {
+   "code": "chk",
+   "native": "Chuukese",
+   "en": "Chuukese",
+   "mode": "full",
+   "ver": "CHK",
+   "pop": 60600
+  },
+  {
+   "code": "bi",
+   "native": "Bislama",
+   "en": "Bislama",
+   "mode": "full",
+   "ver": "Baebol",
+   "pop": 35600
+  },
+  {
+   "code": "mag",
+   "native": "मगही",
+   "en": "Magahi",
+   "mode": "bridge",
+   "ver": "हिन्दी बाइबिल",
+   "pop": 4300
+  },
+  {
+   "code": "zh-Hant",
+   "native": "中文（繁體）",
+   "en": "Chinese (Traditional)",
+   "mode": "full",
+   "ver": "和合本",
+   "pop": 0
+  },
+  {
+   "code": "ar",
+   "native": "العربية",
+   "en": "Arabic",
+   "mode": "full",
+   "ver": "فان دايك",
+   "pop": 0
+  },
+  {
+   "code": "pcm",
+   "native": "Naijá",
+   "en": "Nigerian Pidgin",
+   "mode": "full",
+   "ver": "PCM",
+   "pop": 0
+  },
+  {
+   "code": "bgc",
+   "native": "हरियाणवी",
+   "en": "Haryanvi",
+   "mode": "full",
+   "ver": "BGC",
+   "pop": 0
+  },
+  {
+   "code": "dcc",
+   "native": "دکنی",
+   "en": "Deccani",
+   "mode": "bridge",
+   "ver": "کِتابِ مُقادّس",
+   "pop": 0
+  },
+  {
+   "code": "nn",
+   "native": "Norsk (nynorsk)",
+   "en": "Norwegian Nynorsk",
+   "mode": "full",
+   "ver": "N11NN",
+   "pop": 0
+  },
+  {
+   "code": "twi",
+   "native": "Twi",
+   "en": "Twi",
+   "mode": "full",
+   "ver": "AKNA",
+   "pop": 0
+  },
+  {
+   "code": "eo",
+   "native": "Esperanto",
+   "en": "Esperanto",
+   "mode": "full",
+   "ver": "Zamenhof",
+   "pop": 0
+  },
+  {
+   "code": "sa",
+   "native": "संस्कृतम्",
+   "en": "Sanskrit",
+   "mode": "partial",
+   "ver": "BSI",
+   "pop": 0
+  }
+ ],
+ "deferred": [
+  {
+   "code": "knc",
+   "language": "Kanuri",
+   "category": "DEFERRED",
+   "reason": "prose heavily Hausa-code-mixed + grammatically broken prayer/FAQ on blind back-translation"
+  },
+  {
+   "code": "guq",
+   "language": "Aché",
+   "category": "DEFERRED",
+   "reason": "ultra-low-resource; AI prose unreliable; never deployed"
+  },
+  {
+   "code": "taq",
+   "language": "Tamasheq",
+   "category": "DEFERRED",
+   "reason": "NT verbatim & structure complete, but the drafting agent reported it could not certify the low-resource prose. Draft preserved: deferred-drafts/taq.json"
+  },
+  {
+   "code": "dik",
+   "language": "Dinka",
+   "category": "DEFERRED",
+   "reason": "same — prose not trustworthy (verb morphology, tone, noun-class). deferred-drafts/dik.json"
+  },
+  {
+   "code": "kbp",
+   "language": "Kabiyè",
+   "category": "DEFERRED",
+   "reason": "same — only moderate prose confidence (FAQ apologetics condensed). deferred-drafts/kbp.json"
+  },
+  {
+   "code": "dzo",
+   "language": "Dzongkha",
+   "category": "DEFERRED",
+   "reason": "drafting aborted (API error) + low-resource Tibetan-script, same prose risk as peers"
+  },
+  {
+   "code": "bci",
+   "language": "Baoulé",
+   "category": "DEFERRED",
+   "reason": "FULL Bible exists (YV 3080 BB98) & all quotes verbatim, but ultra-low-resource (Wikipedia 0); drafting agent could not certify the prose as publication-ready. Draft: deferred-drafts/bci.json"
+  },
+  {
+   "code": "ktu",
+   "language": "Kituba",
+   "category": "DEFERRED",
+   "reason": "NT on YV 1491 (partial), quotes verbatim, but ultra-low-resource prose not trustworthy. Draft: deferred-drafts/ktu.json"
+  },
+  {
+   "code": "ltg",
+   "language": "Latgalian",
+   "category": "DEFERRED",
+   "reason": "NT verbatim/theology/structure clean, but native review found a cluster of broken/coined Latgalian in high-traffic prose (apzimūgoj, Pōrūš, Sevtinīt, name inconsistencies). Draft preserved: deferred-drafts/ltg.json"
+  },
+  {
+   "code": "wuu",
+   "language": "Wu Chinese (Shanghainese)",
+   "category": "HELD",
+   "reason": "81M speakers & a historical full Bible exists, but **not on YouVersion or eBible** (name + config re-check). Bridge-from-zh is possible but low value (speakers read Mandarin & share the Han script)"
+  },
+  {
+   "code": "bar",
+   "language": "Bavarian",
+   "category": "HELD",
+   "reason": "not on YouVersion or eBible; bridge-from-de low value (speakers read German)"
+  },
+  {
+   "code": "bm",
+   "language": "Bambara",
+   "category": "HELD",
+   "reason": "not on YouVersion or eBible (name-based re-check done)"
+  },
+  {
+   "code": "lij",
+   "language": "Ligurian",
+   "category": "HELD",
+   "reason": "not on YV/eBible"
+  },
+  {
+   "code": "lim",
+   "language": "Limburgish",
+   "category": "HELD",
+   "reason": "not on YV/eBible"
+  },
+  {
+   "code": "lmo",
+   "language": "Lombard",
+   "category": "HELD",
+   "reason": "not on YV/eBible"
+  },
+  {
+   "code": "ltz",
+   "language": "Luxembourgish",
+   "category": "HELD",
+   "reason": "not on YV/eBible"
+  },
+  {
+   "code": "srd",
+   "language": "Sardinian",
+   "category": "HELD",
+   "reason": "not on YV/eBible"
+  },
+  {
+   "code": "szl",
+   "language": "Silesian",
+   "category": "HELD",
+   "reason": "not on YV/eBible"
+  },
+  {
+   "code": "vec",
+   "language": "Venetian",
+   "category": "HELD",
+   "reason": "not on YV/eBible"
+  },
+  {
+   "code": "kea",
+   "language": "Kabuverdianu",
+   "category": "HELD",
+   "reason": "not on YV/eBible"
+  },
+  {
+   "code": "tzm",
+   "language": "Central Atlas Tamazight",
+   "category": "HELD",
+   "reason": "not on YV/eBible"
+  },
+  {
+   "code": "ast",
+   "language": "Asturian",
+   "category": "HELD",
+   "reason": "YV has only an 1861 **single-book** fragment — too few NT books to fill the template"
+  },
+  {
+   "code": "oci",
+   "language": "Occitan",
+   "category": "HELD",
+   "reason": "YV has only an 1866 single book + Proverbs — fragment"
+  },
+  {
+   "code": "scn",
+   "language": "Sicilian",
+   "category": "HELD",
+   "reason": "YV has only a 3-book fragment"
+  },
+  {
+   "code": "fur",
+   "language": "Friulian",
+   "category": "HELD",
+   "reason": "YV has only an 1860 single-book fragment"
+  },
+  {
+   "code": "apc",
+   "language": "Levantine Arabic (51M)",
+   "category": "HELD",
+   "reason": "on YV (#2810) but only an **18 selected-book** edition (missing Romans/Revelation/Colossians/1Peter/1Timothy) → can't fill the template"
+  },
+  {
+   "code": "acw",
+   "language": "Hijazi Arabic (11M)",
+   "category": "HELD",
+   "reason": "on YV (#3878) but only a **39 selected-book** edition (missing Acts/Romans/Revelation/Matthew)"
+  }
+ ],
+ "showcase": [
+  {
+   "code": "ko",
+   "label": "한국어 · 개역개정",
+   "usfm": "JHN.3.16",
+   "text": "하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 그를 믿는 자마다 멸망하지 않고 영생을 얻게 하려 하심이라"
+  },
+  {
+   "code": "en",
+   "label": "English · ESV",
+   "usfm": "JHN.3.16",
+   "text": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life."
+  },
+  {
+   "code": "el",
+   "label": "Ελληνικά · Φίλος Περγάμου",
+   "usfm": "JHN.3.16",
+   "text": "Eπειδή, με τέτοιον τρόπο3 αγάπησε ο Θεός τον κόσμο, ώστε έδωσε τον Yιό του τον μονογενή, για να μη χαθεί καθένας που πιστεύει σ’ αυτόν, αλλά να έχει αιώνια ζωή."
+  },
+  {
+   "code": "he",
+   "label": "עברית · תנ״ך ודליטש",
+   "usfm": "JHN.3.16",
+   "text": "‏ כִּי־אַהֲבָה רַבָּה אָהַב הָאֱלֹהִים אֶת־הָעוֹלָם עַד־אֲשֶׁר נָתַן אֶת־בְּנוֹ אֶת־יְחִידוֹ לְמַעַן אֲשֶׁר לֹא־יֹאבַד כָּל־הַמַּאֲמִין בּוֹ כִּי אִם־יִחְיֶה חַיֵּי עוֹלָם׃"
+  },
+  {
+   "code": "ar",
+   "label": "العربية · فان دايك",
+   "usfm": "JHN.3.16",
+   "text": "لِأَنَّهُ هَكَذَا أَحَبَّ ٱللهُ ٱلْعَالَمَ حَتَّى بَذَلَ ٱبْنَهُ ٱلْوَحِيدَ، لِكَيْ لَا يَهْلِكَ كُلُّ مَنْ يُؤْمِنُ بِهِ، بَلْ تَكُونُ لَهُ ٱلْحَيَاةُ ٱلْأَبَدِيَّةُ."
+  },
+  {
+   "code": "hi",
+   "label": "हिन्दी · हिन्दी बाइबल",
+   "usfm": "JHN.3.16",
+   "text": "“क्योंकि परमेश्‍वर ने जगत से ऐसा प्रेम रखा कि उसने अपना एकलौता पुत्र दे दिया, ताकि जो कोई उस पर विश्‍वास करे वह नष्‍ट न हो, परन्तु अनन्त जीवन पाए।"
+  },
+  {
+   "code": "ta",
+   "label": "தமிழ் · O.V. BSI",
+   "usfm": "JHN.3.16",
+   "text": "தேவன், தம்முடைய ஒரேபேறான குமாரனை விசுவாசிக்கிறவன் எவனோ அவன் கெட்டுப்போகாமல் நித்தியஜீவனை அடையும்படிக்கு, அவரைத் தந்தருளி, இவ்வளவாய் உலகத்தில் அன்பு கூர்ந்தார்."
+  },
+  {
+   "code": "th",
+   "label": "ไทย · ฉบับไทย",
+   "usfm": "JHN.3.16",
+   "text": "พระเจ้าทรงรักโลกดังนี้ คือได้ประทานพระบุตรองค์เดียวของพระองค์ เพื่อทุกคนที่วางใจในพระบุตรนั้นจะไม่พินาศ แต่มีชีวิตนิรันดร์"
+  },
+  {
+   "code": "my",
+   "label": "မြန်မာ · Judson",
+   "usfm": "JHN.3.16",
+   "text": "ဘု​ရား​သ​ခင်၏​သား​တော်​ကို ယုံ​ကြည်​သော​သူ​အ​ပေါင်း​တို့​သည်၊ ပျက်​စီး​ခြင်း​သို့​မ​ရောက်၊ ထာ​ဝ​ရ​အ​သက်​ကို ရ​စေ​ခြင်း​ငှာ၊ ဘု​ရား​သ​ခင်​သည် မိ​မိ၌ တစ်​ပါး​တည်း​သော သား​တော်​ကို စွန့်​တော်​မူ​သည်​တိုင်​အောင် လော​ကီ​သား​တို့​ကို ချစ်​တော်​မူ၏။-"
+  },
+  {
+   "code": "am",
+   "label": "አማርኛ · NASV",
+   "usfm": "JHN.3.16",
+   "text": "በርሱ የሚያምን ሁሉ የዘላለም ሕይወት እንዲኖረው እንጂ እንዳይጠፋ እግዚአብሔር አንድያ ልጁን እስከ መስጠት ድረስ ዓለምን እንዲሁ ወድዷልና።"
+  },
+  {
+   "code": "ka",
+   "label": "ქართული · ქართული ბიბლია",
+   "usfm": "JHN.3.16",
+   "text": "რადგან ისე შეიყვარა ღმერთმა ქვეყანა, რომ მისცა თავისი მხოლოდშობილი ძე, რათა ყოველი, ვინც მას ირწმუნებს, არ დაიღუპოს, არამედ საუკუნო სიცოცხლე ჰქონდეს."
+  },
+  {
+   "code": "hy",
+   "label": "Հայերեն · Արարատ",
+   "usfm": "JHN.3.16",
+   "text": "Աստված այնքան սիրեց աշխարհը, որ իր միածին Որդուն տվեց, որպեսզի ով նրան հավատում է, չկորչի, այլ հավիտենական կյանք ունենա։"
+  },
+  {
+   "code": "ru",
+   "label": "Русский · Синод.",
+   "usfm": "JHN.3.16",
+   "text": "Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий верующий в Него, не погиб, но имел жизнь вечную."
+  },
+  {
+   "code": "zh-Hant",
+   "label": "繁體中文 · 和合本",
+   "usfm": "JHN.3.16",
+   "text": "「神愛世人，甚至將他的獨生子賜給他們，叫一切信他的，不致滅亡，反得永生。"
+  },
+  {
+   "code": "ja",
+   "label": "日本語 · 新共同訳",
+   "usfm": "JHN.3.16",
+   "text": "神は、その独り子をお与えになったほどに、世を愛された。独り子を信じる者が一人も滅びないで、永遠の命を得るためである。"
+  },
+  {
+   "code": "bn",
+   "label": "বাংলা · O.V. বাইবেল",
+   "usfm": "JHN.3.16",
+   "text": "কারণ ঈশ্বর জগৎকে এমন প্রেম করিলেন যে, আপনার একজাত পুত্রকে দান করিলেন, যেন, যে কেহ তাঁহাতে বিশ্বাস করে, সে বিনষ্ট না হয়, কিন্তু অনন্ত জীবন পায়।"
+  },
+  {
+   "code": "si",
+   "label": "සිංහල · පැරණි පරිවර්තනය",
+   "usfm": "JHN.3.16",
+   "text": "මක්නිසාද දෙවියන්වහන්සේ ස්වකීය ඒකජාතක පුත්‍රයාණන් දෙන තරම් ලෝකයාට ප්‍රේමකළසේක. එසේ කළේ උන්වහන්සේ කෙරෙහි අදහාගන්න සෑමදෙනම විනාශ නොවී සදාකාල ජීවනය ලබන පිණිසය."
+  },
+  {
+   "code": "km",
+   "label": "ភាសាខ្មែរ · គខប",
+   "usfm": "JHN.3.16",
+   "text": "ព្រះ‌ជាម្ចាស់​ស្រឡាញ់​មនុស្ស​លោក​ខ្លាំង​ណាស់ ហេតុ​នេះ​ហើយ​បាន​ជា​ព្រះអង្គ​ប្រទាន​ព្រះ‌បុត្រា​តែ​មួយ​របស់​ព្រះអង្គ​មក ដើម្បី​ឲ្យ​អស់​អ្នក​ដែល​ជឿ​លើ​ព្រះ‌បុត្រា មាន​ជីវិត​អស់‌កល្ប​ជានិច្ច គឺ​មិន​ឲ្យ​គេ​វិនាស​ឡើយ។"
+  },
+  {
+   "code": "lo",
+   "label": "ລາວ · ພຣະຄຳພີ",
+   "usfm": "JHN.3.16",
+   "text": "ເພາະວ່າ ພຣະເຈົ້າ​ຊົງ​ຮັກ​ໂລກ​ຫລາຍ​ທີ່ສຸດ ຈົນ​ໄດ້​ປະທານ​ພຣະບຸດ​ອົງ​ດຽວ​ຂອງ​ພຣະອົງ ເພື່ອ​ທຸກຄົນ​ທີ່​ວາງໃຈເຊື່ອ​ໃນ​ພຣະບຸດ​ນັ້ນ​ຈະ​ບໍ່​ຈິບຫາຍ ແຕ່​ມີ​ຊີວິດ​ອັນ​ຕະຫລອດ​ໄປ​ເປັນນິດ."
+  },
+  {
+   "code": "or",
+   "label": "ଓଡ଼ିଆ · O.V. BSI",
+   "usfm": "JHN.3.16",
+   "text": "କାରଣ ଈଶ୍ଵର ଜଗତକୁ ଏଡ଼େ ପ୍ରେମ କଲେ ଯେ, ସେ ଆପଣା ଅଦ୍ଵିତୀୟ ପୁତ୍ରଙ୍କୁ ଦାନ କଲେ, ଯେପରି ଯେକେହି ତାହାଙ୍କଠାରେ ବିଶ୍ଵାସ କରେ, ସେ ବିନଷ୍ଟ ନ ହୋଇ ଅନ; ଜୀବନ ପ୍ରାପ୍ତ ହୁଏ।"
+  }
+ ]
+}
