@@ -32,7 +32,8 @@
    "en": "Chinese (Simplified)",
    "mode": "full",
    "ver": "和合本",
-   "pop": 964553600
+   "pop": 964553600,
+   "region": "Asia"
   },
   {
    "code": "hi",
@@ -40,7 +41,8 @@
    "en": "Hindi",
    "mode": "full",
    "ver": "हिन्दी बाइबल",
-   "pop": 729624800
+   "pop": 729624800,
+   "region": "Asia"
   },
   {
    "code": "es",
@@ -48,7 +50,8 @@
    "en": "Spanish",
    "mode": "full",
    "ver": "RVR1960",
-   "pop": 457759910
+   "pop": 457759910,
+   "region": "North America"
   },
   {
    "code": "en",
@@ -56,7 +59,8 @@
    "en": "English",
    "mode": "full",
    "ver": "ESV",
-   "pop": 373843240
+   "pop": 373843240,
+   "region": "North America"
   },
   {
    "code": "bn",
@@ -64,7 +68,8 @@
    "en": "Bengali",
    "mode": "full",
    "ver": "O.V. বাইবেল",
-   "pop": 239114700
+   "pop": 239114700,
+   "region": "Asia"
   },
   {
    "code": "pt-BR",
@@ -72,7 +77,8 @@
    "en": "Portuguese",
    "mode": "full",
    "ver": "Almeida",
-   "pop": 221491270
+   "pop": 221491270,
+   "region": "South America"
   },
   {
    "code": "ur",
@@ -80,7 +86,8 @@
    "en": "Urdu",
    "mode": "full",
    "ver": "کِتابِ مُقادّس",
-   "pop": 155974200
+   "pop": 155974200,
+   "region": "Asia"
   },
   {
    "code": "ru",
@@ -88,7 +95,8 @@
    "en": "Russian",
    "mode": "full",
    "ver": "Синод.",
-   "pop": 136795020
+   "pop": 136795020,
+   "region": "Asia"
   },
   {
    "code": "ja",
@@ -96,7 +104,8 @@
    "en": "Japanese",
    "mode": "full",
    "ver": "新共同訳",
-   "pop": 120668000
+   "pop": 120668000,
+   "region": "Asia"
   },
   {
    "code": "jv",
@@ -104,7 +113,8 @@
    "en": "Javanese",
    "mode": "full",
    "ver": "Kitab Sutji",
-   "pop": 119317300
+   "pop": 119317300,
+   "region": "Asia"
   },
   {
    "code": "vi",
@@ -112,7 +122,8 @@
    "en": "Vietnamese",
    "mode": "full",
    "ver": "Truyền Thống",
-   "pop": 89747100
+   "pop": 89747100,
+   "region": "Asia"
   },
   {
    "code": "pnb",
@@ -120,7 +131,8 @@
    "en": "Western Punjabi",
    "mode": "partial",
    "ver": "PAN2020",
-   "pop": 88203500
+   "pop": 88203500,
+   "region": "Asia"
   },
   {
    "code": "yue",
@@ -128,7 +140,8 @@
    "en": "Cantonese",
    "mode": "full",
    "ver": "CAN",
-   "pop": 85585900
+   "pop": 85585900,
+   "region": "Asia"
   },
   {
    "code": "arz",
@@ -136,7 +149,8 @@
    "en": "Egyptian Arabic",
    "mode": "bridge",
    "ver": "فان دايك",
-   "pop": 82455000
+   "pop": 82455000,
+   "region": "Africa"
   },
   {
    "code": "gu",
@@ -144,7 +158,8 @@
    "en": "Gujarati",
    "mode": "full",
    "ver": "O.V. BSI",
-   "pop": 80861500
+   "pop": 80861500,
+   "region": "Asia"
   },
   {
    "code": "ko",
@@ -152,7 +167,8 @@
    "en": "Korean",
    "mode": "full",
    "ver": "개역개정",
-   "pop": 80144200
+   "pop": 80144200,
+   "region": "Asia"
   },
   {
    "code": "ta",
@@ -160,7 +176,8 @@
    "en": "Tamil",
    "mode": "full",
    "ver": "O.V. BSI",
-   "pop": 77549700
+   "pop": 77549700,
+   "region": "Asia"
   },
   {
    "code": "tr",
@@ -168,7 +185,8 @@
    "en": "Turkish",
    "mode": "full",
    "ver": "Kutsal Kitap",
-   "pop": 73885200
+   "pop": 73885200,
+   "region": "Asia"
   },
   {
    "code": "te",
@@ -176,7 +194,8 @@
    "en": "Telugu",
    "mode": "full",
    "ver": "O.V. BSI",
-   "pop": 73194000
+   "pop": 73194000,
+   "region": "Asia"
   },
   {
    "code": "fr",
@@ -184,7 +203,8 @@
    "en": "French",
    "mode": "full",
    "ver": "LSG",
-   "pop": 72790890
+   "pop": 72790890,
+   "region": "Europe"
   },
   {
    "code": "mr",
@@ -192,7 +212,8 @@
    "en": "Marathi",
    "mode": "full",
    "ver": "RV BSI",
-   "pop": 68067600
+   "pop": 68067600,
+   "region": "Asia"
   },
   {
    "code": "de",
@@ -200,7 +221,8 @@
    "en": "German",
    "mode": "full",
    "ver": "Luther",
-   "pop": 66464000
+   "pop": 66464000,
+   "region": "Europe"
   },
   {
    "code": "ha",
@@ -208,7 +230,8 @@
    "en": "Hausa",
    "mode": "full",
    "ver": "LMT",
-   "pop": 60281500
+   "pop": 60281500,
+   "region": "Africa"
   },
   {
    "code": "fa",
@@ -216,7 +239,8 @@
    "en": "Persian",
    "mode": "full",
    "ver": "ترجمه قدیم",
-   "pop": 50138500
+   "pop": 50138500,
+   "region": "Asia"
   },
   {
    "code": "yo",
@@ -224,7 +248,8 @@
    "en": "Yoruba",
    "mode": "full",
    "ver": "Bibeli Mimọ",
-   "pop": 48614600
+   "pop": 48614600,
+   "region": "Africa"
   },
   {
    "code": "skr",
@@ -232,7 +257,8 @@
    "en": "Saraiki",
    "mode": "partial",
    "ver": "SKRV",
-   "pop": 47679100
+   "pop": 47679100,
+   "region": "Asia"
   },
   {
    "code": "apd",
@@ -240,7 +266,8 @@
    "en": "Sudanese Arabic",
    "mode": "partial",
    "ver": "APD2024",
-   "pop": 46019600
+   "pop": 46019600,
+   "region": "Africa"
   },
   {
    "code": "nan",
@@ -248,7 +275,8 @@
    "en": "Taiwanese",
    "mode": "full",
    "ver": "TTVH",
-   "pop": 45285200
+   "pop": 45285200,
+   "region": "Asia"
   },
   {
    "code": "tl",
@@ -256,7 +284,8 @@
    "en": "Filipino",
    "mode": "full",
    "ver": "MBB",
-   "pop": 44141880
+   "pop": 44141880,
+   "region": "Asia"
   },
   {
    "code": "hak",
@@ -264,7 +293,8 @@
    "en": "Hakka",
    "mode": "full",
    "ver": "THV",
-   "pop": 43926200
+   "pop": 43926200,
+   "region": "Asia"
   },
   {
    "code": "pl",
@@ -272,7 +302,8 @@
    "en": "Polish",
    "mode": "full",
    "ver": "Biblia Gdańska",
-   "pop": 43314700
+   "pop": 43314700,
+   "region": "Europe"
   },
   {
    "code": "su",
@@ -280,7 +311,8 @@
    "en": "Sundanese",
    "mode": "full",
    "ver": "Kitab Suci",
-   "pop": 40578000
+   "pop": 40578000,
+   "region": "Asia"
   },
   {
    "code": "it",
@@ -288,7 +320,8 @@
    "en": "Italian",
    "mode": "full",
    "ver": "Nuova Riveduta",
-   "pop": 39831800
+   "pop": 39831800,
+   "region": "Europe"
   },
   {
    "code": "ml",
@@ -296,7 +329,8 @@
    "en": "Malayalam",
    "mode": "full",
    "ver": "O.V. BSI",
-   "pop": 38739500
+   "pop": 38739500,
+   "region": "Asia"
   },
   {
    "code": "arq",
@@ -304,7 +338,8 @@
    "en": "Algerian Arabic",
    "mode": "partial",
    "ver": "جزائري",
-   "pop": 38621400
+   "pop": 38621400,
+   "region": "Africa"
   },
   {
    "code": "kn",
@@ -312,7 +347,8 @@
    "en": "Kannada",
    "mode": "full",
    "ver": "J.V. BSI",
-   "pop": 38421800
+   "pop": 38421800,
+   "region": "Asia"
   },
   {
    "code": "ig",
@@ -320,7 +356,8 @@
    "en": "Igbo",
    "mode": "full",
    "ver": "Bible Nsọ",
-   "pop": 37592100
+   "pop": 37592100,
+   "region": "Africa"
   },
   {
    "code": "am",
@@ -328,7 +365,8 @@
    "en": "Amharic",
    "mode": "full",
    "ver": "NASV",
-   "pop": 35851800
+   "pop": 35851800,
+   "region": "Africa"
   },
   {
    "code": "uz",
@@ -336,7 +374,8 @@
    "en": "Uzbek",
    "mode": "full",
    "ver": "OʻzbMK",
-   "pop": 34547200
+   "pop": 34547200,
+   "region": "Asia"
   },
   {
    "code": "sd",
@@ -344,7 +383,8 @@
    "en": "Sindhi",
    "mode": "full",
    "ver": "Sindhi Bible",
-   "pop": 33578400
+   "pop": 33578400,
+   "region": "Asia"
   },
   {
    "code": "uk",
@@ -352,7 +392,8 @@
    "en": "Ukrainian",
    "mode": "full",
    "ver": "Огієнко",
-   "pop": 33428400
+   "pop": 33428400,
+   "region": "Europe"
   },
   {
    "code": "my",
@@ -360,7 +401,8 @@
    "en": "Myanmar",
    "mode": "full",
    "ver": "Judson",
-   "pop": 33210200
+   "pop": 33210200,
+   "region": "Asia"
   },
   {
    "code": "ary",
@@ -368,7 +410,8 @@
    "en": "Moroccan Arabic",
    "mode": "partial",
    "ver": "ary",
-   "pop": 32890000
+   "pop": 32890000,
+   "region": "Africa"
   },
   {
    "code": "pa",
@@ -376,7 +419,8 @@
    "en": "Punjabi",
    "mode": "full",
    "ver": "O.V. BSI",
-   "pop": 31618100
+   "pop": 31618100,
+   "region": "Asia"
   },
   {
    "code": "th",
@@ -384,7 +428,8 @@
    "en": "Thai",
    "mode": "full",
    "ver": "ฉบับไทย",
-   "pop": 29668800
+   "pop": 29668800,
+   "region": "Asia"
   },
   {
    "code": "so",
@@ -392,7 +437,8 @@
    "en": "Somali",
    "mode": "full",
    "ver": "SOM",
-   "pop": 29258700
+   "pop": 29258700,
+   "region": "Africa"
   },
   {
    "code": "zlm",
@@ -400,7 +446,8 @@
    "en": "Malay",
    "mode": "full",
    "ver": "BM",
-   "pop": 25165700
+   "pop": 25165700,
+   "region": "Asia"
   },
   {
    "code": "om",
@@ -408,7 +455,8 @@
    "en": "Oromo",
    "mode": "full",
    "ver": "HAH",
-   "pop": 24330700
+   "pop": 24330700,
+   "region": "Africa"
   },
   {
    "code": "ceb",
@@ -416,7 +464,8 @@
    "en": "Cebuano",
    "mode": "full",
    "ver": "Ang Biblia",
-   "pop": 24011800
+   "pop": 24011800,
+   "region": "Asia"
   },
   {
    "code": "or",
@@ -424,7 +473,8 @@
    "en": "Odia",
    "mode": "full",
    "ver": "O.V. BSI",
-   "pop": 23674900
+   "pop": 23674900,
+   "region": "Asia"
   },
   {
    "code": "ps",
@@ -432,7 +482,8 @@
    "en": "Pashto",
    "mode": "full",
    "ver": "PYPB",
-   "pop": 23472600
+   "pop": 23472600,
+   "region": "Asia"
   },
   {
    "code": "ro",
@@ -440,7 +491,8 @@
    "en": "Romanian",
    "mode": "full",
    "ver": "Cornilescu",
-   "pop": 23457600
+   "pop": 23457600,
+   "region": "Europe"
   },
   {
    "code": "azb",
@@ -448,7 +500,8 @@
    "en": "South Azerbaijani",
    "mode": "full",
    "ver": "SAB",
-   "pop": 21985100
+   "pop": 21985100,
+   "region": "Asia"
   },
   {
    "code": "ff",
@@ -456,7 +509,8 @@
    "en": "Fula",
    "mode": "partial",
    "ver": "Linjiila",
-   "pop": 20805000
+   "pop": 20805000,
+   "region": "Africa"
   },
   {
    "code": "kmr",
@@ -464,7 +518,8 @@
    "en": "Kurmanji (Northern Kurdish)",
    "mode": "full",
    "ver": "KURNT",
-   "pop": 20097300
+   "pop": 20097300,
+   "region": "Asia"
   },
   {
    "code": "ne",
@@ -472,7 +527,8 @@
    "en": "Nepali",
    "mode": "full",
    "ver": "NNRV",
-   "pop": 18494600
+   "pop": 18494600,
+   "region": "Asia"
   },
   {
    "code": "bal",
@@ -480,7 +536,8 @@
    "en": "Balochi",
    "mode": "bridge",
    "ver": "OBS",
-   "pop": 18316400
+   "pop": 18316400,
+   "region": "Asia"
   },
   {
    "code": "kk",
@@ -488,7 +545,8 @@
    "en": "Kazakh",
    "mode": "full",
    "ver": "Киелі кітап",
-   "pop": 17971200
+   "pop": 17971200,
+   "region": "Asia"
   },
   {
    "code": "km",
@@ -496,7 +554,8 @@
    "en": "Khmer",
    "mode": "full",
    "ver": "គខប",
-   "pop": 17921600
+   "pop": 17921600,
+   "region": "Asia"
   },
   {
    "code": "si",
@@ -504,7 +563,8 @@
    "en": "Sinhala",
    "mode": "full",
    "ver": "පැරණි පරිවර්තනය",
-   "pop": 17823600
+   "pop": 17823600,
+   "region": "Asia"
   },
   {
    "code": "ny",
@@ -512,7 +572,8 @@
    "en": "Chichewa",
    "mode": "full",
    "ver": "Buku Lopatulika",
-   "pop": 17083200
+   "pop": 17083200,
+   "region": "Africa"
   },
   {
    "code": "rw",
@@ -520,7 +581,8 @@
    "en": "Kinyarwanda",
    "mode": "full",
    "ver": "Bibiliya Yera",
-   "pop": 16983600
+   "pop": 16983600,
+   "region": "Africa"
   },
   {
    "code": "id",
@@ -528,7 +590,8 @@
    "en": "Indonesian",
    "mode": "full",
    "ver": "TB",
-   "pop": 16184390
+   "pop": 16184390,
+   "region": "Asia"
   },
   {
    "code": "rn",
@@ -536,7 +599,8 @@
    "en": "Kirundi",
    "mode": "full",
    "ver": "Bibiliya Yera",
-   "pop": 15580000
+   "pop": 15580000,
+   "region": "Africa"
   },
   {
    "code": "zu",
@@ -544,7 +608,8 @@
    "en": "Zulu",
    "mode": "full",
    "ver": "1959",
-   "pop": 15500100
+   "pop": 15500100,
+   "region": "Africa"
   },
   {
    "code": "prs",
@@ -552,7 +617,8 @@
    "en": "Dari",
    "mode": "full",
    "ver": "دری",
-   "pop": 15390000
+   "pop": 15390000,
+   "region": "Asia"
   },
   {
    "code": "gax",
@@ -560,7 +626,8 @@
    "en": "Oromo (Borana)",
    "mode": "full",
    "ver": "BOR",
-   "pop": 14614000
+   "pop": 14614000,
+   "region": "Africa"
   },
   {
    "code": "nl",
@@ -568,7 +635,8 @@
    "en": "Dutch",
    "mode": "full",
    "ver": "HSV",
-   "pop": 14519000
+   "pop": 14519000,
+   "region": "Europe"
   },
   {
    "code": "mos",
@@ -576,7 +644,8 @@
    "en": "Mossi",
    "mode": "full",
    "ver": "Sebr Sõngo",
-   "pop": 14388000
+   "pop": 14388000,
+   "region": "Africa"
   },
   {
    "code": "mg",
@@ -584,7 +653,8 @@
    "en": "Malagasy",
    "mode": "full",
    "ver": "MBP",
-   "pop": 13764900
+   "pop": 13764900,
+   "region": "Africa"
   },
   {
    "code": "ht",
@@ -592,7 +662,8 @@
    "en": "Haitian Creole",
    "mode": "full",
    "ver": "HAT98",
-   "pop": 13602700
+   "pop": 13602700,
+   "region": "North America"
   },
   {
    "code": "syl",
@@ -600,7 +671,8 @@
    "en": "Sylheti",
    "mode": "full",
    "ver": "sylB",
-   "pop": 13307600
+   "pop": 13307600,
+   "region": "Asia"
   },
   {
    "code": "ak",
@@ -608,7 +680,8 @@
    "en": "Akan",
    "mode": "full",
    "ver": "Asante Twi",
-   "pop": 13121000
+   "pop": 13121000,
+   "region": "Africa"
   },
   {
    "code": "ug",
@@ -616,7 +689,8 @@
    "en": "Uyghur",
    "mode": "full",
    "ver": "HZUT",
-   "pop": 12402300
+   "pop": 12402300,
+   "region": "Asia"
   },
   {
    "code": "lua",
@@ -624,7 +698,8 @@
    "en": "Luba-Kasai",
    "mode": "full",
    "ver": "TSH",
-   "pop": 12163200
+   "pop": 12163200,
+   "region": "Africa"
   },
   {
    "code": "aeb",
@@ -632,7 +707,8 @@
    "en": "Tunisian Arabic",
    "mode": "partial",
    "ver": "بالتونسي",
-   "pop": 11942700
+   "pop": 11942700,
+   "region": "Africa"
   },
   {
    "code": "suk",
@@ -640,7 +716,8 @@
    "en": "Sukuma",
    "mode": "full",
    "ver": "SUKBI15",
-   "pop": 11888000
+   "pop": 11888000,
+   "region": "Africa"
   },
   {
    "code": "hu",
@@ -648,7 +725,8 @@
    "en": "Hungarian",
    "mode": "full",
    "ver": "RÚF",
-   "pop": 11596200
+   "pop": 11596200,
+   "region": "Europe"
   },
   {
    "code": "ki",
@@ -656,7 +734,8 @@
    "en": "Kikuyu",
    "mode": "full",
    "ver": "Bibilia",
-   "pop": 11593400
+   "pop": 11593400,
+   "region": "Africa"
   },
   {
    "code": "tg",
@@ -664,7 +743,8 @@
    "en": "Tajik",
    "mode": "full",
    "ver": "Китоби Муқаддас",
-   "pop": 11498000
+   "pop": 11498000,
+   "region": "Asia"
   },
   {
    "code": "af",
@@ -672,7 +752,8 @@
    "en": "Afrikaans",
    "mode": "full",
    "ver": "1933/1953",
-   "pop": 11202800
+   "pop": 11202800,
+   "region": "Africa"
   },
   {
    "code": "el",
@@ -680,7 +761,8 @@
    "en": "Greek",
    "mode": "full",
    "ver": "Φίλος Περγάμου",
-   "pop": 10944000
+   "pop": 10944000,
+   "region": "Europe"
   },
   {
    "code": "ilo",
@@ -688,7 +770,8 @@
    "en": "Ilocano",
    "mode": "full",
    "ver": "Ti Biblia",
-   "pop": 10654600
+   "pop": 10654600,
+   "region": "Asia"
   },
   {
    "code": "cs",
@@ -696,7 +779,8 @@
    "en": "Czech",
    "mode": "full",
    "ver": "ČSP",
-   "pop": 10569300
+   "pop": 10569300,
+   "region": "Europe"
   },
   {
    "code": "az",
@@ -704,7 +788,8 @@
    "en": "Azerbaijani",
    "mode": "full",
    "ver": "Müqəddəs Kitab",
-   "pop": 10378800
+   "pop": 10378800,
+   "region": "Asia"
   },
   {
    "code": "xh",
@@ -712,7 +797,8 @@
    "en": "Xhosa",
    "mode": "full",
    "ver": "IBHAYIBHILE",
-   "pop": 10303000
+   "pop": 10303000,
+   "region": "Africa"
   },
   {
    "code": "ti",
@@ -720,7 +806,8 @@
    "en": "Tigrinya",
    "mode": "full",
    "ver": "መጽሓፍ ቅዱስ",
-   "pop": 10272700
+   "pop": 10272700,
+   "region": "Africa"
   },
   {
    "code": "sn",
@@ -728,7 +815,8 @@
    "en": "Shona",
    "mode": "full",
    "ver": "Bhaibheri 1949/2002",
-   "pop": 10028000
+   "pop": 10028000,
+   "region": "Africa"
   },
   {
    "code": "sv",
@@ -736,7 +824,8 @@
    "en": "Swedish",
    "mode": "full",
    "ver": "Folkbibeln",
-   "pop": 9710800
+   "pop": 9710800,
+   "region": "Europe"
   },
   {
    "code": "kmb",
@@ -744,7 +833,8 @@
    "en": "Kimbundu",
    "mode": "full",
    "ver": "KMB80",
-   "pop": 9600000
+   "pop": 9600000,
+   "region": "Africa"
   },
   {
    "code": "umb",
@@ -752,7 +842,8 @@
    "en": "Umbundu",
    "mode": "full",
    "ver": "Embimbiliya",
-   "pop": 8900300
+   "pop": 8900300,
+   "region": "Africa"
   },
   {
    "code": "ts",
@@ -760,7 +851,8 @@
    "en": "Tsonga",
    "mode": "full",
    "ver": "Bibele",
-   "pop": 8806000
+   "pop": 8806000,
+   "region": "Africa"
   },
   {
    "code": "lg",
@@ -768,7 +860,8 @@
    "en": "Luganda",
    "mode": "full",
    "ver": "Baibuli",
-   "pop": 8734700
+   "pop": 8734700,
+   "region": "Africa"
   },
   {
    "code": "hil",
@@ -776,7 +869,8 @@
    "en": "Hiligaynon",
    "mode": "full",
    "ver": "Ang Biblia",
-   "pop": 8719400
+   "pop": 8719400,
+   "region": "Asia"
   },
   {
    "code": "tk",
@@ -784,7 +878,8 @@
    "en": "Turkmen",
    "mode": "full",
    "ver": "Mukaddes Kitap",
-   "pop": 8688600
+   "pop": 8688600,
+   "region": "Asia"
   },
   {
    "code": "be",
@@ -792,7 +887,8 @@
    "en": "Belarusian",
    "mode": "full",
    "ver": "пераклад Бокуна",
-   "pop": 8537300
+   "pop": 8537300,
+   "region": "Europe"
   },
   {
    "code": "mad",
@@ -800,7 +896,8 @@
    "en": "Madurese",
    "mode": "full",
    "ver": "Alketab",
-   "pop": 8356000
+   "pop": 8356000,
+   "region": "Asia"
   },
   {
    "code": "sr",
@@ -808,7 +905,8 @@
    "en": "Serbian",
    "mode": "full",
    "ver": "Савремени превод",
-   "pop": 8098090
+   "pop": 8098090,
+   "region": "Europe"
   },
   {
    "code": "sat",
@@ -816,7 +914,8 @@
    "en": "Santali",
    "mode": "full",
    "ver": "SBT",
-   "pop": 7990500
+   "pop": 7990500,
+   "region": "Asia"
   },
   {
    "code": "ks",
@@ -824,7 +923,8 @@
    "en": "Kashmiri",
    "mode": "bridge",
    "ver": "کِتابِ مُقادّس",
-   "pop": 7938600
+   "pop": 7938600,
+   "region": "Asia"
   },
   {
    "code": "nod",
@@ -832,7 +932,8 @@
    "en": "Northern Thai",
    "mode": "partial",
    "ver": "พคม.",
-   "pop": 7798000
+   "pop": 7798000,
+   "region": "Asia"
   },
   {
    "code": "kab",
@@ -840,7 +941,8 @@
    "en": "Kabyle",
    "mode": "full",
    "ver": "Bible Kabyle",
-   "pop": 7564000
+   "pop": 7564000,
+   "region": "Africa"
   },
   {
    "code": "luo",
@@ -848,7 +950,8 @@
    "en": "Luo",
    "mode": "full",
    "ver": "Muma Maler",
-   "pop": 7312000
+   "pop": 7312000,
+   "region": "Africa"
   },
   {
    "code": "kam",
@@ -856,7 +959,8 @@
    "en": "Kamba",
    "mode": "full",
    "ver": "Mbivlia",
-   "pop": 7311000
+   "pop": 7311000,
+   "region": "Africa"
   },
   {
    "code": "ibb",
@@ -864,7 +968,8 @@
    "en": "Ibibio",
    "mode": "full",
    "ver": "ICB",
-   "pop": 7219700
+   "pop": 7219700,
+   "region": "Africa"
   },
   {
    "code": "bem",
@@ -872,7 +977,8 @@
    "en": "Bemba",
    "mode": "full",
    "ver": "Baibolo",
-   "pop": 7173300
+   "pop": 7173300,
+   "region": "Africa"
   },
   {
    "code": "lmn",
@@ -880,7 +986,8 @@
    "en": "Lambadi",
    "mode": "full",
    "ver": "బంజారా/లంబాడి",
-   "pop": 7151000
+   "pop": 7151000,
+   "region": "Asia"
   },
   {
    "code": "bg",
@@ -888,7 +995,8 @@
    "en": "Bulgarian",
    "mode": "full",
    "ver": "Верен",
-   "pop": 7120500
+   "pop": 7120500,
+   "region": "Europe"
   },
   {
    "code": "wo",
@@ -896,7 +1004,8 @@
    "en": "Wolof",
    "mode": "full",
    "ver": "Kàddug Yàlla",
-   "pop": 6975300
+   "pop": 6975300,
+   "region": "Africa"
   },
   {
    "code": "ee",
@@ -904,7 +1013,8 @@
    "en": "Ewe",
    "mode": "full",
    "ver": "EƲEGBE BIBLIA",
-   "pop": 6959000
+   "pop": 6959000,
+   "region": "Africa"
   },
   {
    "code": "gn",
@@ -912,7 +1022,8 @@
    "en": "Guarani",
    "mode": "full",
    "ver": "Ñe’ẽ Porã",
-   "pop": 6834100
+   "pop": 6834100,
+   "region": "South America"
   },
   {
    "code": "kg",
@@ -920,7 +1031,8 @@
    "en": "Kikongo",
    "mode": "bridge",
    "ver": "MNB",
-   "pop": 6727800
+   "pop": 6727800,
+   "region": "Africa"
   },
   {
    "code": "st",
@@ -928,7 +1040,8 @@
    "en": "Sesotho",
    "mode": "full",
    "ver": "BIBELE",
-   "pop": 6658900
+   "pop": 6658900,
+   "region": "Africa"
   },
   {
    "code": "nso",
@@ -936,7 +1049,8 @@
    "en": "Northern Sotho",
    "mode": "full",
    "ver": "Taba yea Botse",
-   "pop": 6645000
+   "pop": 6645000,
+   "region": "Africa"
   },
   {
    "code": "min",
@@ -944,7 +1058,8 @@
    "en": "Minangkabau",
    "mode": "bridge",
    "ver": "TB",
-   "pop": 6607000
+   "pop": 6607000,
+   "region": "Asia"
   },
   {
    "code": "tn",
@@ -952,7 +1067,8 @@
    "en": "Tswana",
    "mode": "full",
    "ver": "Setswana 1970",
-   "pop": 6560140
+   "pop": 6560140,
+   "region": "Africa"
   },
   {
    "code": "sq",
@@ -960,7 +1076,8 @@
    "en": "Albanian",
    "mode": "full",
    "ver": "Së bashku 2020",
-   "pop": 6250000
+   "pop": 6250000,
+   "region": "Europe"
   },
   {
    "code": "he",
@@ -968,7 +1085,8 @@
    "en": "Hebrew",
    "mode": "full",
    "ver": "תנ״ך ודליטש",
-   "pop": 6238190
+   "pop": 6238190,
+   "region": "Asia"
   },
   {
    "code": "ky",
@@ -976,7 +1094,8 @@
    "en": "Kyrgyz",
    "mode": "full",
    "ver": "Инжил ЛС",
-   "pop": 6089100
+   "pop": 6089100,
+   "region": "Asia"
   },
   {
    "code": "as",
@@ -984,7 +1103,8 @@
    "en": "Assamese",
    "mode": "full",
    "ver": "IRV",
-   "pop": 6032300
+   "pop": 6032300,
+   "region": "Asia"
   },
   {
    "code": "sdh",
@@ -992,7 +1112,8 @@
    "en": "Southern Kurdish",
    "mode": "partial",
    "ver": "SKV",
-   "pop": 5952000
+   "pop": 5952000,
+   "region": "Asia"
   },
   {
    "code": "bug",
@@ -1000,7 +1121,8 @@
    "en": "Buginese",
    "mode": "full",
    "ver": "TML",
-   "pop": 5853000
+   "pop": 5853000,
+   "region": "Asia"
   },
   {
    "code": "mai",
@@ -1008,7 +1130,8 @@
    "en": "Maithili",
    "mode": "partial",
    "ver": "जीवन सन्देश",
-   "pop": 5789000
+   "pop": 5789000,
+   "region": "Asia"
   },
   {
    "code": "tt",
@@ -1016,7 +1139,8 @@
    "en": "Tatar",
    "mode": "full",
    "ver": "Изге Язма",
-   "pop": 5775400
+   "pop": 5775400,
+   "region": "Asia"
   },
   {
    "code": "fuf",
@@ -1024,7 +1148,8 @@
    "en": "Pular",
    "mode": "partial",
    "ver": "VPFJ",
-   "pop": 5763900
+   "pop": 5763900,
+   "region": "Africa"
   },
   {
    "code": "sid",
@@ -1032,7 +1157,8 @@
    "en": "Sidaama",
    "mode": "full",
    "ver": "QulMax",
-   "pop": 5702000
+   "pop": 5702000,
+   "region": "Africa"
   },
   {
    "code": "bho",
@@ -1040,7 +1166,8 @@
    "en": "Bhojpuri",
    "mode": "bridge",
    "ver": "हिन्दी बाइबल",
-   "pop": 5655800
+   "pop": 5655800,
+   "region": "Asia"
   },
   {
    "code": "ln",
@@ -1048,7 +1175,8 @@
    "en": "Lingala",
    "mode": "full",
    "ver": "MNB",
-   "pop": 5519700
+   "pop": 5519700,
+   "region": "Africa"
   },
   {
    "code": "da",
@@ -1056,7 +1184,8 @@
    "en": "Danish",
    "mode": "full",
    "ver": "1871",
-   "pop": 5359700
+   "pop": 5359700,
+   "region": "Europe"
   },
   {
    "code": "nyn",
@@ -1064,7 +1193,8 @@
    "en": "Nyankore",
    "mode": "full",
    "ver": "RKK2008",
-   "pop": 5280000
+   "pop": 5280000,
+   "region": "Africa"
   },
   {
    "code": "sk",
@@ -1072,7 +1202,8 @@
    "en": "Slovak",
    "mode": "full",
    "ver": "SEB",
-   "pop": 5228200
+   "pop": 5228200,
+   "region": "Europe"
   },
   {
    "code": "tiv",
@@ -1080,7 +1211,8 @@
    "en": "Tiv",
    "mode": "full",
    "ver": "TOBNR",
-   "pop": 5210000
+   "pop": 5210000,
+   "region": "Africa"
   },
   {
    "code": "fi",
@@ -1088,7 +1220,8 @@
    "en": "Finnish",
    "mode": "full",
    "ver": "KR92",
-   "pop": 5130100
+   "pop": 5130100,
+   "region": "Europe"
   },
   {
    "code": "hr",
@@ -1096,7 +1229,8 @@
    "en": "Croatian",
    "mode": "full",
    "ver": "SHP",
-   "pop": 5073700
+   "pop": 5073700,
+   "region": "Europe"
   },
   {
    "code": "kln",
@@ -1104,7 +1238,8 @@
    "en": "Kalenjin",
    "mode": "full",
    "ver": "BUKUIT",
-   "pop": 5065000
+   "pop": 5065000,
+   "region": "Africa"
   },
   {
    "code": "shn",
@@ -1112,7 +1247,8 @@
    "en": "Shan",
    "mode": "full",
    "ver": "ၵျၢမ်းလိၵ်ႈၽြႃး",
-   "pop": 5034300
+   "pop": 5034300,
+   "region": "Asia"
   },
   {
    "code": "hrx",
@@ -1120,7 +1256,8 @@
    "en": "Hunsrik",
    "mode": "partial",
    "ver": "NTHunsrik",
-   "pop": 5006000
+   "pop": 5006000,
+   "region": "South America"
   },
   {
    "code": "dyu",
@@ -1128,7 +1265,8 @@
    "en": "Dyula",
    "mode": "full",
    "ver": "AKKDC08",
-   "pop": 4937000
+   "pop": 4937000,
+   "region": "Africa"
   },
   {
    "code": "kru",
@@ -1136,7 +1274,8 @@
    "en": "Kurukh",
    "mode": "partial",
    "ver": "Kurukh NT",
-   "pop": 4898000
+   "pop": 4898000,
+   "region": "Asia"
   },
   {
    "code": "bcl",
@@ -1144,7 +1283,8 @@
    "en": "Central Bikol",
    "mode": "full",
    "ver": "Marahay na Bareta",
-   "pop": 4779200
+   "pop": 4779200,
+   "region": "Asia"
   },
   {
    "code": "no",
@@ -1152,7 +1292,8 @@
    "en": "Norwegian",
    "mode": "full",
    "ver": "Bibel 2011",
-   "pop": 4770600
+   "pop": 4770600,
+   "region": "Europe"
   },
   {
    "code": "haz",
@@ -1160,7 +1301,8 @@
    "en": "Hazaragi",
    "mode": "partial",
    "ver": "HAZ",
-   "pop": 4735700
+   "pop": 4735700,
+   "region": "Asia"
   },
   {
    "code": "shi",
@@ -1168,7 +1310,8 @@
    "en": "Tashelhit",
    "mode": "partial",
    "ver": "SHILNT10",
-   "pop": 4592000
+   "pop": 4592000,
+   "region": "Africa"
   },
   {
    "code": "ca",
@@ -1176,7 +1319,8 @@
    "en": "Catalan",
    "mode": "full",
    "ver": "BCI",
-   "pop": 4380500
+   "pop": 4380500,
+   "region": "Europe"
   },
   {
    "code": "sw",
@@ -1184,7 +1328,8 @@
    "en": "Swahili",
    "mode": "full",
    "ver": "SRUV",
-   "pop": 4254500
+   "pop": 4254500,
+   "region": "Africa"
   },
   {
    "code": "cjk",
@@ -1192,7 +1337,8 @@
    "en": "Chokwe",
    "mode": "full",
    "ver": "CHK1970",
-   "pop": 4161700
+   "pop": 4161700,
+   "region": "Africa"
   },
   {
    "code": "lo",
@@ -1200,7 +1346,8 @@
    "en": "Lao",
    "mode": "full",
    "ver": "ພຣະຄຳພີ",
-   "pop": 4115900
+   "pop": 4115900,
+   "region": "Asia"
   },
   {
    "code": "ace",
@@ -1208,7 +1355,8 @@
    "en": "Acehnese",
    "mode": "full",
    "ver": "LAIACE",
-   "pop": 4100000
+   "pop": 4100000,
+   "region": "Asia"
   },
   {
    "code": "bjn",
@@ -1216,7 +1364,8 @@
    "en": "Banjar",
    "mode": "bridge",
    "ver": "TB",
-   "pop": 4082000
+   "pop": 4082000,
+   "region": "Asia"
   },
   {
    "code": "tum",
@@ -1224,7 +1373,8 @@
    "en": "Tumbuka",
    "mode": "full",
    "ver": "Tumbuka",
-   "pop": 4035400
+   "pop": 4035400,
+   "region": "Africa"
   },
   {
    "code": "hy",
@@ -1232,7 +1382,8 @@
    "en": "Armenian",
    "mode": "full",
    "ver": "Արարատ",
-   "pop": 3960000
+   "pop": 3960000,
+   "region": "Europe"
   },
   {
    "code": "war",
@@ -1240,7 +1391,8 @@
    "en": "Waray",
    "mode": "full",
    "ver": "Samarenyo",
-   "pop": 3900000
+   "pop": 3900000,
+   "region": "Asia"
   },
   {
    "code": "ban",
@@ -1248,7 +1400,8 @@
    "en": "Balinese",
    "mode": "full",
    "ver": "BAN",
-   "pop": 3894600
+   "pop": 3894600,
+   "region": "Asia"
   },
   {
    "code": "ckb",
@@ -1256,7 +1409,8 @@
    "en": "Central Kurdish",
    "mode": "full",
    "ver": "KSS",
-   "pop": 3785400
+   "pop": 3785400,
+   "region": "Asia"
   },
   {
    "code": "gl",
@@ -1264,7 +1418,8 @@
    "en": "Galician",
    "mode": "full",
    "ver": "SEPT",
-   "pop": 3298000
+   "pop": 3298000,
+   "region": "Europe"
   },
   {
    "code": "ka",
@@ -1272,7 +1427,8 @@
    "en": "Georgian",
    "mode": "full",
    "ver": "ქართული ბიბლია",
-   "pop": 3248900
+   "pop": 3248900,
+   "region": "Europe"
   },
   {
    "code": "bs",
@@ -1280,7 +1436,8 @@
    "en": "Bosnian",
    "mode": "full",
    "ver": "Bba",
-   "pop": 3139000
+   "pop": 3139000,
+   "region": "Europe"
   },
   {
    "code": "mn",
@@ -1288,7 +1445,8 @@
    "en": "Mongolian",
    "mode": "full",
    "ver": "АБ2004",
-   "pop": 2969500
+   "pop": 2969500,
+   "region": "Asia"
   },
   {
    "code": "lt",
@@ -1296,7 +1454,8 @@
    "en": "Lithuanian",
    "mode": "full",
    "ver": "LBD",
-   "pop": 2866100
+   "pop": 2866100,
+   "region": "Europe"
   },
   {
    "code": "raj",
@@ -1304,7 +1463,8 @@
    "en": "Rajasthani",
    "mode": "bridge",
    "ver": "हिन्दी बाइबल",
-   "pop": 2821500
+   "pop": 2821500,
+   "region": "Asia"
   },
   {
    "code": "ssw",
@@ -1312,7 +1472,8 @@
    "en": "Swati",
    "mode": "full",
    "ver": "SWT",
-   "pop": 2815000
+   "pop": 2815000,
+   "region": "Africa"
   },
   {
    "code": "mww",
@@ -1320,7 +1481,8 @@
    "en": "Hmong Daw",
    "mode": "full",
    "ver": "HMOWSV",
-   "pop": 2721000
+   "pop": 2721000,
+   "region": "Asia"
   },
   {
    "code": "pam",
@@ -1328,7 +1490,8 @@
    "en": "Kapampangan",
    "mode": "full",
    "ver": "Ing Mayap a Balita",
-   "pop": 2594400
+   "pop": 2594400,
+   "region": "Asia"
   },
   {
    "code": "fon",
@@ -1336,7 +1499,8 @@
    "en": "Fon",
    "mode": "full",
    "ver": "Fon13",
-   "pop": 2523000
+   "pop": 2523000,
+   "region": "Africa"
   },
   {
    "code": "qu",
@@ -1344,7 +1508,8 @@
    "en": "Quechua",
    "mode": "full",
    "ver": "Diospa Simin Qelqa",
-   "pop": 2429000
+   "pop": 2429000,
+   "region": "South America"
   },
   {
    "code": "eu",
@@ -1352,7 +1517,8 @@
    "en": "Basque",
    "mode": "full",
    "ver": "EAB",
-   "pop": 2380600
+   "pop": 2380600,
+   "region": "Europe"
   },
   {
    "code": "mni",
@@ -1360,7 +1526,8 @@
    "en": "Meitei",
    "mode": "full",
    "ver": "MBUR22",
-   "pop": 2138800
+   "pop": 2138800,
+   "region": "Asia"
   },
   {
    "code": "nd",
@@ -1368,7 +1535,8 @@
    "en": "North Ndebele",
    "mode": "full",
    "ver": "iBhayibhili",
-   "pop": 2060000
+   "pop": 2060000,
+   "region": "Africa"
   },
   {
    "code": "tpi",
@@ -1376,7 +1544,8 @@
    "en": "Tok Pisin",
    "mode": "full",
    "ver": "Buk Baibel",
-   "pop": 2014870
+   "pop": 2014870,
+   "region": "Australia"
   },
   {
    "code": "sl",
@@ -1384,7 +1553,8 @@
    "en": "Slovenian",
    "mode": "full",
    "ver": "SSP",
-   "pop": 1962900
+   "pop": 1962900,
+   "region": "Europe"
   },
   {
    "code": "bo",
@@ -1392,7 +1562,8 @@
    "en": "Tibetan",
    "mode": "full",
    "ver": "བོད་འགྱུར་གསར་མ",
-   "pop": 1919800
+   "pop": 1919800,
+   "region": "Asia"
   },
   {
    "code": "ay",
@@ -1400,7 +1571,8 @@
    "en": "Aymara",
    "mode": "full",
    "ver": "Aymar Bibliia",
-   "pop": 1846000
+   "pop": 1846000,
+   "region": "South America"
   },
   {
    "code": "mk",
@@ -1408,7 +1580,8 @@
    "en": "Macedonian",
    "mode": "full",
    "ver": "Стандардна Библија",
-   "pop": 1763200
+   "pop": 1763200,
+   "region": "Europe"
   },
   {
    "code": "quc",
@@ -1416,7 +1589,8 @@
    "en": "K'iche'",
    "mode": "full",
    "ver": "Quiché",
-   "pop": 1758500
+   "pop": 1758500,
+   "region": "North America"
   },
   {
    "code": "nus",
@@ -1424,7 +1598,8 @@
    "en": "Nuer",
    "mode": "full",
    "ver": "2155",
-   "pop": 1758000
+   "pop": 1758000,
+   "region": "Africa"
   },
   {
    "code": "bak",
@@ -1432,7 +1607,8 @@
    "en": "Bashkir",
    "mode": "full",
    "ver": "БашИЯ2023",
-   "pop": 1646000
+   "pop": 1646000,
+   "region": "Asia"
   },
   {
    "code": "dag",
@@ -1440,7 +1616,8 @@
    "en": "Dagbani",
    "mode": "full",
    "ver": "DBwDB",
-   "pop": 1619000
+   "pop": 1619000,
+   "region": "Africa"
   },
   {
    "code": "pag",
@@ -1448,7 +1625,8 @@
    "en": "Pangasinan",
    "mode": "full",
    "ver": "Maung a Balita",
-   "pop": 1587000
+   "pop": 1587000,
+   "region": "Asia"
   },
   {
    "code": "gom",
@@ -1456,7 +1634,8 @@
    "en": "Konkani",
    "mode": "partial",
    "ver": "KONKABSI",
-   "pop": 1541200
+   "pop": 1541200,
+   "region": "Asia"
   },
   {
    "code": "lv",
@@ -1464,7 +1643,8 @@
    "en": "Latvian",
    "mode": "full",
    "ver": "Glika",
-   "pop": 1462000
+   "pop": 1462000,
+   "region": "Europe"
   },
   {
    "code": "hne",
@@ -1472,7 +1652,8 @@
    "en": "Chhattisgarhi",
    "mode": "full",
    "ver": "SCA",
-   "pop": 1384500
+   "pop": 1384500,
+   "region": "Asia"
   },
   {
    "code": "dwr",
@@ -1480,7 +1661,8 @@
    "en": "Dawro",
    "mode": "full",
    "ver": "eBible",
-   "pop": 1205000
+   "pop": 1205000,
+   "region": "Africa"
   },
   {
    "code": "kac",
@@ -1488,7 +1670,8 @@
    "en": "Jinghpaw",
    "mode": "full",
    "ver": "JCLB",
-   "pop": 1121000
+   "pop": 1121000,
+   "region": "Asia"
   },
   {
    "code": "et",
@@ -1496,7 +1679,8 @@
    "en": "Estonian",
    "mode": "partial",
    "ver": "PKEK",
-   "pop": 1119300
+   "pop": 1119300,
+   "region": "Europe"
   },
   {
    "code": "cv",
@@ -1504,7 +1688,8 @@
    "en": "Chuvash",
    "mode": "full",
    "ver": "CHB",
-   "pop": 1108700
+   "pop": 1108700,
+   "region": "Asia"
   },
   {
    "code": "lus",
@@ -1512,7 +1697,8 @@
    "en": "Mizo",
    "mode": "full",
    "ver": "MIZCLBSI",
-   "pop": 850300
+   "pop": 850300,
+   "region": "Asia"
   },
   {
    "code": "sg",
@@ -1520,7 +1706,8 @@
    "en": "Sango",
    "mode": "full",
    "ver": "Mbeti ti Nzapa",
-   "pop": 802700
+   "pop": 802700,
+   "region": "Africa"
   },
   {
    "code": "cy",
@@ -1528,7 +1715,8 @@
    "en": "Welsh",
    "mode": "full",
    "ver": "BCND",
-   "pop": 746700
+   "pop": 746700,
+   "region": "Europe"
   },
   {
    "code": "mt",
@@ -1536,7 +1724,8 @@
    "en": "Maltese",
    "mode": "full",
    "ver": "MALTI",
-   "pop": 695200
+   "pop": 695200,
+   "region": "Europe"
   },
   {
    "code": "mi",
@@ -1544,7 +1733,8 @@
    "en": "Maori",
    "mode": "full",
    "ver": "Paipera Tapu",
-   "pop": 674000
+   "pop": 674000,
+   "region": "Oceania"
   },
   {
    "code": "crh",
@@ -1552,7 +1742,8 @@
    "en": "Crimean Tatar",
    "mode": "full",
    "ver": "CTB",
-   "pop": 636500
+   "pop": 636500,
+   "region": "Asia"
   },
   {
    "code": "fj",
@@ -1560,7 +1751,8 @@
    "en": "Fijian",
    "mode": "full",
    "ver": "FNV",
-   "pop": 502100
+   "pop": 502100,
+   "region": "Oceania"
   },
   {
    "code": "sm",
@@ -1568,7 +1760,8 @@
    "en": "Samoan",
    "mode": "full",
    "ver": "O LE TUSI PAIA",
-   "pop": 466300
+   "pop": 466300,
+   "region": "Oceania"
   },
   {
    "code": "is",
@@ -1576,7 +1769,8 @@
    "en": "Icelandic",
    "mode": "full",
    "ver": "Biblían 2007",
-   "pop": 442600
+   "pop": 442600,
+   "region": "Europe"
   },
   {
    "code": "pap",
@@ -1584,7 +1778,8 @@
    "en": "Papiamento",
    "mode": "full",
    "ver": "BEIBEL-SANTU",
-   "pop": 309000
+   "pop": 309000,
+   "region": "North America"
   },
   {
    "code": "ga",
@@ -1592,7 +1787,8 @@
    "en": "Irish",
    "mode": "full",
    "ver": "ABN",
-   "pop": 265400
+   "pop": 265400,
+   "region": "Europe"
   },
   {
    "code": "yi",
@@ -1600,7 +1796,8 @@
    "en": "Yiddish",
    "mode": "partial",
    "ver": "OYBC",
-   "pop": 208300
+   "pop": 208300,
+   "region": "Europe"
   },
   {
    "code": "ctg",
@@ -1608,7 +1805,8 @@
    "en": "Chittagonian",
    "mode": "bridge",
    "ver": "O.V. বাইবেল",
-   "pop": 204500
+   "pop": 204500,
+   "region": "Asia"
   },
   {
    "code": "to",
@@ -1616,7 +1814,8 @@
    "en": "Tongan",
    "mode": "full",
    "ver": "TMB",
-   "pop": 197700
+   "pop": 197700,
+   "region": "Oceania"
   },
   {
    "code": "fo",
@@ -1624,7 +1823,8 @@
    "en": "Faroese",
    "mode": "full",
    "ver": "Bíblian 2019",
-   "pop": 75000
+   "pop": 75000,
+   "region": "Europe"
   },
   {
    "code": "gd",
@@ -1632,7 +1832,8 @@
    "en": "Scottish Gaelic",
    "mode": "full",
    "ver": "1531",
-   "pop": 69500
+   "pop": 69500,
+   "region": "Europe"
   },
   {
    "code": "awa",
@@ -1640,7 +1841,8 @@
    "en": "Awadhi",
    "mode": "full",
    "ver": "AERV",
-   "pop": 63100
+   "pop": 63100,
+   "region": "Asia"
   },
   {
    "code": "chk",
@@ -1648,7 +1850,8 @@
    "en": "Chuukese",
    "mode": "full",
    "ver": "CHK",
-   "pop": 60600
+   "pop": 60600,
+   "region": "Oceania"
   },
   {
    "code": "bi",
@@ -1656,7 +1859,8 @@
    "en": "Bislama",
    "mode": "full",
    "ver": "Baebol",
-   "pop": 35600
+   "pop": 35600,
+   "region": "Oceania"
   },
   {
    "code": "mag",
@@ -1664,7 +1868,8 @@
    "en": "Magahi",
    "mode": "bridge",
    "ver": "हिन्दी बाइबिल",
-   "pop": 4300
+   "pop": 4300,
+   "region": "Asia"
   },
   {
    "code": "zh-Hant",
@@ -1672,7 +1877,8 @@
    "en": "Chinese (Traditional)",
    "mode": "full",
    "ver": "和合本",
-   "pop": 0
+   "pop": 0,
+   "region": "Asia"
   },
   {
    "code": "ar",
@@ -1680,7 +1886,8 @@
    "en": "Arabic",
    "mode": "full",
    "ver": "فان دايك",
-   "pop": 0
+   "pop": 0,
+   "region": ""
   },
   {
    "code": "pcm",
@@ -1688,7 +1895,8 @@
    "en": "Nigerian Pidgin",
    "mode": "full",
    "ver": "PCM",
-   "pop": 0
+   "pop": 0,
+   "region": ""
   },
   {
    "code": "bgc",
@@ -1696,7 +1904,8 @@
    "en": "Haryanvi",
    "mode": "full",
    "ver": "BGC",
-   "pop": 0
+   "pop": 0,
+   "region": ""
   },
   {
    "code": "dcc",
@@ -1704,7 +1913,8 @@
    "en": "Deccani",
    "mode": "bridge",
    "ver": "کِتابِ مُقادّس",
-   "pop": 0
+   "pop": 0,
+   "region": ""
   },
   {
    "code": "nn",
@@ -1712,7 +1922,8 @@
    "en": "Norwegian Nynorsk",
    "mode": "full",
    "ver": "N11NN",
-   "pop": 0
+   "pop": 0,
+   "region": "Europe"
   },
   {
    "code": "twi",
@@ -1720,7 +1931,8 @@
    "en": "Twi",
    "mode": "full",
    "ver": "AKNA",
-   "pop": 0
+   "pop": 0,
+   "region": "Africa"
   },
   {
    "code": "eo",
@@ -1728,7 +1940,8 @@
    "en": "Esperanto",
    "mode": "full",
    "ver": "Zamenhof",
-   "pop": 0
+   "pop": 0,
+   "region": ""
   },
   {
    "code": "sa",
@@ -1736,9 +1949,44 @@
    "en": "Sanskrit",
    "mode": "partial",
    "ver": "BSI",
-   "pop": 0
+   "pop": 0,
+   "region": ""
   }
  ],
+ "regions": {
+  "Asia": {
+   "count": 91,
+   "pop": 4192840780
+  },
+  "North America": {
+   "count": 5,
+   "pop": 847273350
+  },
+  "South America": {
+   "count": 5,
+   "pop": 237606370
+  },
+  "Europe": {
+   "count": 39,
+   "pop": 424278080
+  },
+  "Other": {
+   "count": 6,
+   "pop": 0
+  },
+  "Africa": {
+   "count": 61,
+   "pop": 847600040
+  },
+  "Oceania": {
+   "count": 6,
+   "pop": 1936300
+  },
+  "Australia": {
+   "count": 1,
+   "pop": 2014870
+  }
+ },
  "deferred": [
   {
    "code": "knc",

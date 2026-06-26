@@ -36,11 +36,23 @@ for (const L of LANGS) {
 
 // ---- 3) Joshua Project speaker population by ROL3 (same logic as pick-candidates) ----
 const KEY = process.env.JP_API_KEY;
-let speakers = new Map(), jpWorld = 0;
+let speakers = new Map(), jpWorld = 0, byCont = new Map();
 if (KEY) {
   const pgs = curlJSON(`https://api.joshuaproject.net/v1/people_groups.json?api_key=${KEY}&limit=20000`);
-  for (const g of pgs) { const pop = +g.Population || 0; jpWorld += pop; if (g.ROL3) speakers.set(g.ROL3, (speakers.get(g.ROL3) || 0) + pop); }
+  for (const g of pgs) {
+    const pop = +g.Population || 0; jpWorld += pop;
+    if (g.ROL3) {
+      speakers.set(g.ROL3, (speakers.get(g.ROL3) || 0) + pop);
+      if (g.Continent) { const m = byCont.get(g.ROL3) || {}; m[g.Continent] = (m[g.Continent] || 0) + pop; byCont.set(g.ROL3, m); }
+    }
+  }
 }
+const regionOf = (rs) => {
+  const tot = {};
+  for (const r of rs) { const m = byCont.get(r); if (m) for (const k in m) tot[k] = (tot[k] || 0) + m[k]; }
+  let best = '', bv = -1; for (const k in tot) if (tot[k] > bv) { bv = tot[k]; best = k; }
+  return best || '';
+};
 const cfgMap = new Map();
 try {
   const cfg = curlJSON('https://nodejs.bible.com/api/bible/configuration/3.1', 30);
@@ -56,8 +68,11 @@ const languages = LANGS.map(L => {
   const rs = OVR[L.code.toLowerCase()] || toROL3(L.code) || [];
   let pop = 0; for (const r of rs) { if (seen.has(r)) continue; const s = speakers.get(r) || 0; if (s > 0) { seen.add(r); pop += s; } }
   covered += pop;
-  return { code: L.code, native: L.native, en: L.en, mode: meta[L.code].mode, ver: meta[L.code].ver, pop };
+  return { code: L.code, native: L.native, en: L.en, mode: meta[L.code].mode, ver: meta[L.code].ver, pop, region: regionOf(rs) };
 });
+// region aggregate (languages reached + their mother-tongue speakers, per continent)
+const regions = {};
+for (const l of languages) { const r = l.region || 'Other'; (regions[r] = regions[r] || { count: 0, pop: 0 }), regions[r].count++, regions[r].pop += l.pop; }
 
 // ---- 4) DEFERRED.md → prayer/held list ----
 const def = fs.readFileSync(p('.claude/skills/add-language/DEFERRED.md'), 'utf8');
@@ -114,6 +129,7 @@ const data = {
     sourceUrl: 'https://www.wycliffe.net/global-scripture-access/',
   },
   languages: languages.sort((a, b) => b.pop - a.pop),
+  regions,
   deferred: defRows,
   showcase: SHOW,
 };
