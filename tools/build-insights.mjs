@@ -35,16 +35,32 @@ for (const L of LANGS) {
 }
 
 // ---- 3) Joshua Project speaker population by ROL3 (same logic as pick-candidates) ----
+// Joshua Project people-group data. With a key we fetch live and write a slim cache
+// (only the fields we use) so rebuilds are reproducible WITHOUT a key — same idea as the
+// open dataset data-poems/joshua-project-data, but trimmed to exactly what this page needs.
 const KEY = process.env.JP_API_KEY;
-let speakers = new Map(), jpWorld = 0, byCont = new Map();
+const CACHE = p('tools/jp-cache.json');
+let groups = [];
 if (KEY) {
   const pgs = curlJSON(`https://api.joshuaproject.net/v1/people_groups.json?api_key=${KEY}&limit=20000`);
-  for (const g of pgs) {
-    const pop = +g.Population || 0; jpWorld += pop;
-    if (g.ROL3) {
-      speakers.set(g.ROL3, (speakers.get(g.ROL3) || 0) + pop);
-      if (g.Continent) { const m = byCont.get(g.ROL3) || {}; m[g.Continent] = (m[g.Continent] || 0) + pop; byCont.set(g.ROL3, m); }
-    }
+  groups = pgs.map(g => ({ r: g.ROL3, p: +g.Population || 0, c: g.Continent || '', la: +g.Latitude, lo: +g.Longitude }));
+  fs.writeFileSync(CACHE, JSON.stringify(groups));
+  process.stderr.write(`JP fetched ${groups.length} groups → cached tools/jp-cache.json\n`);
+} else if (fs.existsSync(CACHE)) {
+  groups = JSON.parse(fs.readFileSync(CACHE, 'utf8'));
+  process.stderr.write(`JP cache loaded ${groups.length} groups (no key — reproducible build)\n`);
+} else {
+  process.stderr.write('⚠ no JP_API_KEY and no cache — populations/coords will be 0\n');
+}
+let speakers = new Map(), jpWorld = 0, byCont = new Map(), geo = new Map();
+for (const g of groups) {
+  const pop = g.p || 0; jpWorld += pop;
+  if (!g.r) continue;
+  speakers.set(g.r, (speakers.get(g.r) || 0) + pop);
+  if (g.c) { const m = byCont.get(g.r) || {}; m[g.c] = (m[g.c] || 0) + pop; byCont.set(g.r, m); }
+  if (pop > 0 && isFinite(g.la) && isFinite(g.lo) && !(g.la === 0 && g.lo === 0)) {
+    const e = geo.get(g.r);        // keep the single LARGEST group's location (mean drifts global langs into the ocean)
+    if (!e || pop > e.p) geo.set(g.r, { p: pop, la: g.la, lo: g.lo });
   }
 }
 const regionOf = (rs) => {
@@ -52,6 +68,11 @@ const regionOf = (rs) => {
   for (const r of rs) { const m = byCont.get(r); if (m) for (const k in m) tot[k] = (tot[k] || 0) + m[k]; }
   let best = '', bv = -1; for (const k in tot) if (tot[k] > bv) { bv = tot[k]; best = k; }
   return best || '';
+};
+const geoOf = (rs) => {            // location of the largest people-group across the chosen ROL3 set
+  let best = null;
+  for (const r of rs) { const e = geo.get(r); if (e && (!best || e.p > best.p)) best = e; }
+  return best ? { lat: +best.la.toFixed(2), lng: +best.lo.toFixed(2) } : null;
 };
 const cfgMap = new Map();
 try {
@@ -68,7 +89,8 @@ const languages = LANGS.map(L => {
   const rs = OVR[L.code.toLowerCase()] || toROL3(L.code) || [];
   let pop = 0; for (const r of rs) { if (seen.has(r)) continue; const s = speakers.get(r) || 0; if (s > 0) { seen.add(r); pop += s; } }
   covered += pop;
-  return { code: L.code, native: L.native, en: L.en, mode: meta[L.code].mode, ver: meta[L.code].ver, pop, region: regionOf(rs) };
+  const g = geoOf(rs);
+  return { code: L.code, native: L.native, en: L.en, mode: meta[L.code].mode, ver: meta[L.code].ver, pop, region: regionOf(rs), lat: g ? g.lat : null, lng: g ? g.lng : null };
 });
 // region aggregate (languages reached + their mother-tongue speakers, per continent)
 const regions = {};

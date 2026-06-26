@@ -115,6 +115,12 @@
   #treemap .cell{position:absolute;overflow:hidden;border:1px solid rgba(0,0,0,.25);color:#fff;
     font-size:.72rem;padding:3px 5px;line-height:1.15;text-shadow:0 1px 2px rgba(0,0,0,.35)}
   #treemap .cell small{opacity:.9;font-size:.66rem}
+  /* globe */
+  .globe-wrap{display:flex;justify-content:center;margin:4px 0 6px}
+  #globe{width:100%;max-width:520px;height:auto;display:block;touch-action:none;cursor:grab}
+  #globe:active{cursor:grabbing}
+  #globe .pt{transition:none}
+  .globe-hint{text-align:center;font-size:.78rem;color:var(--muted);margin-top:2px}
   /* invitation */
   .invite{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px;margin-top:18px}
   .invite .c{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px}
@@ -198,6 +204,21 @@
   <p class="sub" style="font-size:.85rem;margin-top:6px" data-t="v_note"></p>
 </div></section>
 
+<!-- GLOBE -->
+<section id="earth"><div class="wrap">
+  <div class="kicker" data-t="e_kick"></div>
+  <h2 data-t="e_h"></h2>
+  <p class="lead" data-t="e_lead"></p>
+  <div class="globe-wrap"><svg id="globe" viewBox="0 0 560 560" role="img" aria-label="globe of carried languages"></svg></div>
+  <div class="legend" style="justify-content:center">
+    <span><i class="sw" style="background:var(--full)"></i><span data-t="m_full"></span></span>
+    <span><i class="sw" style="background:var(--partial)"></i><span data-t="m_partial"></span></span>
+    <span><i class="sw" style="background:var(--bridge)"></i><span data-t="m_bridge"></span></span>
+    <span><i class="sw" style="background:var(--obs)"></i><span data-t="m_obs"></span></span>
+  </div>
+  <p class="globe-hint" data-t="e_hint"></p>
+</div></section>
+
 <!-- BY REGION -->
 <section id="region" class="alt"><div class="wrap">
   <div class="kicker" data-t="g_kick"></div>
@@ -274,18 +295,23 @@ const T = {
     en:'Every verse is quoted verbatim from each language’s official Bible translation. The storyline is retold, but the biblical text is never paraphrased. Below is John 3:16.'},
   v_note:{ko:'',en:''},
 
-  g_kick:{ko:'④ 복음이 닿은 땅',en:'④ Where the gospel has reached'},
+  e_kick:{ko:'④ 땅끝까지',en:'④ To the ends of the earth'},
+  e_h:{ko:'한 점이 한 언어 — 지구 위에서',en:'One point, one language — on the earth'},
+  e_lead:{ko:'옮겨진 언어를 화자가 가장 많이 사는 곳에 점으로 찍었습니다. 크기는 모어 화자 수, 색은 옮긴 방식입니다. 끌어서 돌려 보세요.',
+    en:'Each carried language is a point where most of its speakers live. Size is mother-tongue speakers; color is how it was carried. Drag to spin.'},
+  e_hint:{ko:'자동으로 회전합니다 · 끌어서 돌리고, 점에 올리면 언어 이름이 보입니다',en:'Spins on its own · drag to rotate, hover a point for the language'},
+  g_kick:{ko:'⑤ 복음이 닿은 땅',en:'⑤ Where the gospel has reached'},
   g_h:{ko:'땅끝까지 — 대륙별로',en:'To the ends of the earth — by continent'},
   g_lead:{ko:'옮겨진 언어를 화자가 가장 많이 사는 대륙으로 묶어 봤습니다. 막대는 그 대륙에서 모어로 가 닿는 사람 수입니다.',
     en:'The carried languages, grouped by the continent where most of their speakers live. The bar is how many people they reach in their mother tongue there.'},
 
-  m_kick:{ko:'⑤ 방언의 지도',en:'⑤ A map of tongues'},
+  m_kick:{ko:'⑥ 방언의 지도',en:'⑥ A map of tongues'},
   m_h:{ko:'각 나라와 족속과 백성과 방언에서',en:'From every nation, tribe, people and language'},
   m_lead:{ko:'네모 하나가 한 언어입니다. 크기는 모어 화자 수, 색은 옮긴 방식 — 전권 인용 · 신약 중심(부분) · 이웃 언어의 성경을 빌린 다리(bridge) · 성경이 없어 그림 이야기 성경에서 가져온 OBS.',
     en:'Each rectangle is one language. Size is mother-tongue speakers; color is how it was carried — full quotation · New-Testament-centered (partial) · bridged from a neighbor’s Bible · or, where no Bible exists, drawn from an illustrated story-Bible (OBS).'},
   m_full:{ko:'전권 인용',en:'full'}, m_partial:{ko:'부분(신약 중심)',en:'partial (NT-centered)'}, m_bridge:{ko:'다리(이웃 언어)',en:'bridge'}, m_obs:{ko:'그림 성경(OBS)',en:'OBS (story Bible)'},
 
-  i_kick:{ko:'⑥ 함께 하는 초대',en:'⑥ An invitation'},
+  i_kick:{ko:'⑦ 함께 하는 초대',en:'⑦ An invitation'},
   i_h:{ko:'데이터가 기도와 사명으로',en:'Data becomes prayer and mission'},
   i_lead:{ko:'이 일은 한 사람의 의가 아니라 그리스도의 몸이 함께 짊어지는 지상명령입니다. 네 가지로 함께해 주세요.',
     en:'This is not one person’s righteousness but the Great Commission carried together by the body of Christ. Join in four ways.'},
@@ -463,13 +489,46 @@ function renderMap(){
   }
   tm(data,0,0,W,H);
 }
+/* orthographic rotating globe — vanilla SVG, no dependencies (CSP-safe) */
+let gRot=0, gTilt=18, gDrag=null, gPaused=false, gTimer=null;
+function renderGlobe(){
+  const svg=$('#globe'); if(!svg||!D) return;
+  const R=250, cx=280, cy=280;
+  const col={full:'var(--full)',partial:'var(--partial)',bridge:'var(--bridge)',obs:'var(--obs)'};
+  const rad=gTilt*Math.PI/180, sinP0=Math.sin(rad), cosP0=Math.cos(rad);
+  const pr=(lat,lng)=>{ const f=lat*Math.PI/180, l=(lng+gRot)*Math.PI/180;
+    const cosc=sinP0*Math.sin(f)+cosP0*Math.cos(f)*Math.cos(l);
+    return {x:cx+R*Math.cos(f)*Math.sin(l), y:cy-R*(cosP0*Math.sin(f)-sinP0*Math.cos(f)*Math.cos(l)), c:cosc}; };
+  let s='<defs><radialGradient id="ocean" cx="38%" cy="32%" r="78%">'
+    +'<stop offset="0%" stop-color="var(--card)"/><stop offset="65%" stop-color="var(--bg2)"/><stop offset="100%" stop-color="var(--bg)"/></radialGradient></defs>';
+  s+=`<circle cx="${cx}" cy="${cy}" r="${R}" fill="url(#ocean)" stroke="var(--line)" stroke-width="1"/>`;
+  const grat=[];
+  for(let lng=-180;lng<180;lng+=30){let seg=[];for(let lat=-90;lat<=90;lat+=4){const p=pr(lat,lng);if(p.c>0)seg.push(p.x.toFixed(1)+','+p.y.toFixed(1));else{if(seg.length>1)grat.push(seg);seg=[];}}if(seg.length>1)grat.push(seg);}
+  for(let lat=-60;lat<=60;lat+=30){let seg=[];for(let lng=-180;lng<=180;lng+=4){const p=pr(lat,lng);if(p.c>0)seg.push(p.x.toFixed(1)+','+p.y.toFixed(1));else{if(seg.length>1)grat.push(seg);seg=[];}}if(seg.length>1)grat.push(seg);}
+  for(const seg of grat) s+=`<polyline points="${seg.join(' ')}" fill="none" stroke="var(--line)" stroke-width="0.6" opacity="0.5"/>`;
+  const maxpop=Math.max(...D.languages.map(l=>l.pop))||1;
+  const pts=D.languages.filter(l=>l.lat!=null&&l.pop>0).map(l=>({l,p:pr(l.lat,l.lng)})).filter(o=>o.p.c>0).sort((a,b)=>a.p.c-b.p.c);
+  for(const {l,p} of pts){ const r=Math.max(1.7,Math.min(9,Math.sqrt(l.pop)/Math.sqrt(maxpop)*9));
+    s+=`<circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="${r.toFixed(1)}" fill="${col[l.mode]||'var(--bridge)'}" fill-opacity="${(0.5+0.5*p.c).toFixed(2)}" stroke="rgba(0,0,0,.3)" stroke-width="0.5"><title>${esc(l.native)} (${esc(l.en)}) · ${human(l.pop)}</title></circle>`; }
+  svg.innerHTML=s;
+}
+function startGlobe(){
+  const svg=$('#globe'); if(!svg) return;
+  clearInterval(gTimer); gTimer=setInterval(()=>{ if(!gPaused){ gRot=(gRot+0.32)%360; renderGlobe(); } },40);
+  svg.onpointerenter=()=>gPaused=true;
+  svg.onpointerleave=()=>{gPaused=false;gDrag=null;};
+  svg.onpointerdown=e=>{gDrag={x:e.clientX,y:e.clientY,rot:gRot,tilt:gTilt};};
+  svg.onpointermove=e=>{ if(!gDrag)return; gRot=gDrag.rot+(e.clientX-gDrag.x)*0.4; gTilt=Math.max(-55,Math.min(75,gDrag.tilt+(e.clientY-gDrag.y)*0.3)); renderGlobe(); };
+  svg.onpointerup=()=>{gDrag=null;};
+  renderGlobe();
+}
 function renderSources(){
   const w=D.world;
   $('#sources').innerHTML=(L==='ko'
     ?`출처 · 세계 성경 번역 통계: <a href="${w.sourceUrl}" target="_blank" rel="noopener">${w.source}</a> (${w.asOf}). 언어별 화자 수: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. 성경 본문: 각 언어의 공식 역본(개역개정·ESV·和合本·시노드역·Van Dyck 외 197종).`
     :`Sources · World Bible-translation figures: <a href="${w.sourceUrl}" target="_blank" rel="noopener">${w.source}</a> (${w.asOf}). Speaker populations: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. Biblical text: each language’s official edition (개역개정, ESV, 和合本, Synodal, Van Dyck, and 197 others).`);
 }
-function renderAll(){ applyText(); renderReach(); renderTask(); renderVerses(); renderRegions(); renderMap(); renderSources(); renderFact(); }
+function renderAll(){ applyText(); renderReach(); renderTask(); renderVerses(); renderGlobe(); renderRegions(); renderMap(); renderSources(); renderFact(); }
 
 /* theme — shared with the main site (localStorage 'bibleTheme', .sepia class) */
 if(localStorage.getItem('bibleTheme')==='sepia') document.documentElement.classList.add('sepia');
@@ -491,7 +550,7 @@ addEventListener('resize',()=>{ if(D) renderMap(); });
 
 /* initial language: saved → browser → ko */
 try{ const sv=localStorage.getItem('lang'); if(sv==='ko'||sv==='en') L=sv; else if((navigator.language||'').toLowerCase().startsWith('en')) L='en'; }catch(e){}
-fetch('./data.json').then(r=>r.json()).then(d=>{D=d; renderAll(); buildFacts();})
+fetch('./data.json').then(r=>r.json()).then(d=>{D=d; renderAll(); buildFacts(); startGlobe();})
   .catch(()=>{ applyText(); $('#factStage').innerHTML='<p class="sub">data.json load failed.</p>'; });
 </script>
 </body>

@@ -34,7 +34,9 @@
    "mode": "full",
    "ver": "和合本",
    "pop": 964553600,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 25.94,
+   "lng": 106.28
   },
   {
    "code": "hi",
@@ -43,7 +45,9 @@
    "mode": "full",
    "ver": "हिन्दी बाइबल",
    "pop": 729624800,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 25.82,
+   "lng": 86.06
   },
   {
    "code": "es",
@@ -52,7 +56,9 @@
    "mode": "full",
    "ver": "RVR1960",
    "pop": 457759910,
-   "region": "North America"
+   "region": "North America",
+   "lat": 19.41,
+   "lng": -99.13
   },
   {
    "code": "en",
@@ -61,7 +67,9 @@
    "mode": "full",
    "ver": "ESV",
    "pop": 373843240,
-   "region": "North America"
+   "region": "North America",
+   "lat": 37.84,
+   "lng": -92.08
   },
   {
    "code": "bn",
@@ -70,7 +78,9 @@
    "mode": "full",
    "ver": "O.V. বাইবেল",
    "pop": 239114700,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 24.01,
+   "lng": 90.81
   },
   {
    "code": "pt-BR",
@@ -79,7 +89,9 @@
    "mode": "full",
    "ver": "Almeida",
    "pop": 221491270,
-   "region": "South America"
+   "region": "South America",
+   "lat": -22.86,
+   "lng": -43.35
   },
   {
    "code": "ur",
@@ -88,7 +100,9 @@
    "mode": "full",
    "ver": "کِتابِ مُقادّس",
    "pop": 155974200,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 24.25,
+   "lng": 88.26
   },
   {
    "code": "ru",
@@ -97,7 +111,9 @@
    "mode": "full",
    "ver": "Синод.",
    "pop": 136795020,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 55.77,
+   "lng": 37.57
   },
   {
    "code": "ja",
@@ -106,7 +122,9 @@
    "mode": "full",
    "ver": "新共同訳",
    "pop": 120668000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 35.35,
+   "lng": 136.47
   },
   {
    "code": "jv",
@@ -115,7 +133,9 @@
    "mode": "full",
    "ver": "Kitab Sutji",
    "pop": 119317300,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": -6.96,
+   "lng": 109.11
   },
   {
    "code": "vi",
@@ -124,7 +144,9 @@
    "mode": "full",
    "ver": "Truyền Thống",
    "pop": 89747100,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 17.12,
+   "lng": 106.92
   },
   {
    "code": "pnb",
@@ -133,7 +155,9 @@
    "mode": "partial",
    "ver": "PAN2020",
    "pop": 88203500,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 33.43,
+   "lng": 73.23
   },
   {
    "code": "yue",
@@ -142,7 +166,9 @@
    "mode": "full",
    "ver": "CAN",
    "pop": 85585900,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 22.31,
+   "lng": 111.13
   },
   {
    "code": "arz",
@@ -151,7 +177,9 @@
    "mode": "bridge",
    "ver": "فان دايك",
    "pop": 82455000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 30.05,
+   "lng": 31.24
   },
   {
    "code": "gu",
@@ -160,7 +188,9 @@
    "mode": "full",
    "ver": "O.V. BSI",
    "pop": 80861500,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 19.64,
+   "lng": 73.47
   },
   {
    "code": "ko",
@@ -169,7 +199,9 @@
    "mode": "full",
    "ver": "개역개정",
    "pop": 80144200,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 36.35,
+   "lng": 127.81
   },
   {
    "code": "ta",
@@ -178,7 +210,9 @@
    "mode": "full",
    "ver": "O.V. BSI",
    "pop": 77549700,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 13.29,
+   "lng": 79.24
   },
   {
    "code": "tr",
@@ -187,7 +221,9 @@
    "mode": "full",
    "ver": "Kutsal Kitap",
    "pop": 73885200,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 39.97,
+   "lng": 32.83
   },
   {
    "code": "te",
@@ -196,7 +232,9 @@
    "mode": "full",
    "ver": "O.V. BSI",
    "pop": 73194000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 17.51,
+   "lng": 82.21
   },
   {
    "code": "fr",
@@ -205,7 +243,9 @@
    "mode": "full",
    "ver": "LSG",
    "pop": 72790890,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 48.85,
+   "lng": 2.32
   },
   {
    "code": "mr",
@@ -214,7 +254,9 @@
    "mode": "full",
    "ver": "RV BSI",
    "pop": 68067600,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 18.63,
+   "lng": 74.48
   },
   {
    "code": "de",
@@ -223,7 +265,9 @@
    "mode": "full",
    "ver": "Luther",
    "pop": 66464000,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 48.13,
+   "lng": 11.56
   },
   {
    "code": "ha",
@@ -232,7 +276,9 @@
    "mode": "full",
    "ver": "LMT",
    "pop": 60281500,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 11.99,
+   "lng": 8.51
   },
   {
    "code": "fa",
@@ -241,7 +287,9 @@
    "mode": "full",
    "ver": "ترجمه قدیم",
    "pop": 50138500,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 35.7,
+   "lng": 51.44
   },
   {
    "code": "yo",
@@ -250,7 +298,9 @@
    "mode": "full",
    "ver": "Bibeli Mimọ",
    "pop": 48614600,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 7.37,
+   "lng": 3.91
   },
   {
    "code": "skr",
@@ -259,7 +309,9 @@
    "mode": "partial",
    "ver": "SKRV",
    "pop": 47679100,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 31.01,
+   "lng": 74.13
   },
   {
    "code": "apd",
@@ -268,7 +320,9 @@
    "mode": "partial",
    "ver": "APD2024",
    "pop": 46019600,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 15.67,
+   "lng": 32.45
   },
   {
    "code": "nan",
@@ -277,7 +331,9 @@
    "mode": "full",
    "ver": "TTVH",
    "pop": 45285200,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 24.55,
+   "lng": 117.04
   },
   {
    "code": "tl",
@@ -286,7 +342,9 @@
    "mode": "full",
    "ver": "MBB",
    "pop": 44141880,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 14.06,
+   "lng": 121.75
   },
   {
    "code": "hak",
@@ -295,7 +353,9 @@
    "mode": "full",
    "ver": "THV",
    "pop": 43926200,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 24.33,
+   "lng": 116.12
   },
   {
    "code": "pl",
@@ -304,7 +364,9 @@
    "mode": "full",
    "ver": "Biblia Gdańska",
    "pop": 43314700,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 51.88,
+   "lng": 19.14
   },
   {
    "code": "su",
@@ -313,7 +375,9 @@
    "mode": "full",
    "ver": "Kitab Suci",
    "pop": 40578000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": -6.91,
+   "lng": 107.61
   },
   {
    "code": "it",
@@ -322,7 +386,9 @@
    "mode": "full",
    "ver": "Nuova Riveduta",
    "pop": 39831800,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 42.61,
+   "lng": 12.98
   },
   {
    "code": "ml",
@@ -331,7 +397,9 @@
    "mode": "full",
    "ver": "O.V. BSI",
    "pop": 38739500,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 11.26,
+   "lng": 76.79
   },
   {
    "code": "arq",
@@ -340,7 +408,9 @@
    "mode": "partial",
    "ver": "جزائري",
    "pop": 38621400,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 36,
+   "lng": 5.39
   },
   {
    "code": "kn",
@@ -349,7 +419,9 @@
    "mode": "full",
    "ver": "J.V. BSI",
    "pop": 38421800,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 13.93,
+   "lng": 76.41
   },
   {
    "code": "ig",
@@ -358,7 +430,9 @@
    "mode": "full",
    "ver": "Bible Nsọ",
    "pop": 37592100,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 4.63,
+   "lng": 7.23
   },
   {
    "code": "am",
@@ -367,7 +441,9 @@
    "mode": "full",
    "ver": "NASV",
    "pop": 35851800,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 9.03,
+   "lng": 38.75
   },
   {
    "code": "uz",
@@ -376,7 +452,9 @@
    "mode": "full",
    "ver": "OʻzbMK",
    "pop": 34547200,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 38.18,
+   "lng": 68.37
   },
   {
    "code": "sd",
@@ -385,7 +463,9 @@
    "mode": "full",
    "ver": "Sindhi Bible",
    "pop": 33578400,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 25.52,
+   "lng": 69.02
   },
   {
    "code": "uk",
@@ -394,7 +474,9 @@
    "mode": "full",
    "ver": "Огієнко",
    "pop": 33428400,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 49.01,
+   "lng": 31.41
   },
   {
    "code": "my",
@@ -403,7 +485,9 @@
    "mode": "full",
    "ver": "Judson",
    "pop": 33210200,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 20.3,
+   "lng": 95.79
   },
   {
    "code": "ary",
@@ -412,7 +496,9 @@
    "mode": "partial",
    "ver": "ary",
    "pop": 32890000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 33.57,
+   "lng": -7.59
   },
   {
    "code": "pa",
@@ -421,7 +507,9 @@
    "mode": "full",
    "ver": "O.V. BSI",
    "pop": 31618100,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 30.32,
+   "lng": 75.84
   },
   {
    "code": "th",
@@ -430,7 +518,9 @@
    "mode": "full",
    "ver": "ฉบับไทย",
    "pop": 29668800,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 13.82,
+   "lng": 100.56
   },
   {
    "code": "so",
@@ -439,7 +529,9 @@
    "mode": "full",
    "ver": "SOM",
    "pop": 29258700,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 5.26,
+   "lng": 47.05
   },
   {
    "code": "zlm",
@@ -448,7 +540,9 @@
    "mode": "full",
    "ver": "BM",
    "pop": 25165700,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 3.16,
+   "lng": 101.65
   },
   {
    "code": "om",
@@ -457,7 +551,9 @@
    "mode": "full",
    "ver": "HAH",
    "pop": 24330700,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 7.85,
+   "lng": 36.66
   },
   {
    "code": "ceb",
@@ -466,7 +562,9 @@
    "mode": "full",
    "ver": "Ang Biblia",
    "pop": 24011800,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 7.07,
+   "lng": 125.6
   },
   {
    "code": "or",
@@ -475,7 +573,9 @@
    "mode": "full",
    "ver": "O.V. BSI",
    "pop": 23674900,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 20.33,
+   "lng": 83.57
   },
   {
    "code": "ps",
@@ -484,7 +584,9 @@
    "mode": "full",
    "ver": "PYPB",
    "pop": 23472600,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 33.56,
+   "lng": 68.36
   },
   {
    "code": "ro",
@@ -493,7 +595,9 @@
    "mode": "full",
    "ver": "Cornilescu",
    "pop": 23457600,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 44.45,
+   "lng": 26.11
   },
   {
    "code": "azb",
@@ -502,7 +606,9 @@
    "mode": "full",
    "ver": "SAB",
    "pop": 21985100,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 37.27,
+   "lng": 49.58
   },
   {
    "code": "ff",
@@ -511,7 +617,9 @@
    "mode": "partial",
    "ver": "Linjiila",
    "pop": 20805000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 13.05,
+   "lng": 5.23
   },
   {
    "code": "kmr",
@@ -520,7 +628,9 @@
    "mode": "full",
    "ver": "KURNT",
    "pop": 20097300,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 37.55,
+   "lng": 44.3
   },
   {
    "code": "ne",
@@ -529,7 +639,9 @@
    "mode": "full",
    "ver": "NNRV",
    "pop": 18494600,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 27.59,
+   "lng": 85.54
   },
   {
    "code": "bal",
@@ -538,7 +650,9 @@
    "mode": "obs",
    "ver": "OBS",
    "pop": 18316400,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 28.8,
+   "lng": 68.8
   },
   {
    "code": "kk",
@@ -547,7 +661,9 @@
    "mode": "full",
    "ver": "Киелі кітап",
    "pop": 17971200,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 48.29,
+   "lng": 68.99
   },
   {
    "code": "km",
@@ -556,7 +672,9 @@
    "mode": "full",
    "ver": "គខប",
    "pop": 17921600,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 11.58,
+   "lng": 104.91
   },
   {
    "code": "si",
@@ -565,7 +683,9 @@
    "mode": "full",
    "ver": "පැරණි පරිවර්තනය",
    "pop": 17823600,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 7.13,
+   "lng": 80.01
   },
   {
    "code": "ny",
@@ -574,7 +694,9 @@
    "mode": "full",
    "ver": "Buku Lopatulika",
    "pop": 17083200,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -14.15,
+   "lng": 34.14
   },
   {
    "code": "rw",
@@ -583,7 +705,9 @@
    "mode": "full",
    "ver": "Bibiliya Yera",
    "pop": 16983600,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -2.06,
+   "lng": 29.88
   },
   {
    "code": "id",
@@ -592,7 +716,9 @@
    "mode": "full",
    "ver": "TB",
    "pop": 16184390,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": -7.33,
+   "lng": 109.72
   },
   {
    "code": "rn",
@@ -601,7 +727,9 @@
    "mode": "full",
    "ver": "Bibiliya Yera",
    "pop": 15580000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -3.51,
+   "lng": 29.92
   },
   {
    "code": "zu",
@@ -610,7 +738,9 @@
    "mode": "full",
    "ver": "1959",
    "pop": 15500100,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -28.02,
+   "lng": 30.33
   },
   {
    "code": "prs",
@@ -619,7 +749,9 @@
    "mode": "full",
    "ver": "دری",
    "pop": 15390000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 31.16,
+   "lng": 62.15
   },
   {
    "code": "gax",
@@ -628,7 +760,9 @@
    "mode": "full",
    "ver": "BOR",
    "pop": 14614000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 7.88,
+   "lng": 39.52
   },
   {
    "code": "nl",
@@ -637,7 +771,9 @@
    "mode": "full",
    "ver": "HSV",
    "pop": 14519000,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 51.77,
+   "lng": 5.33
   },
   {
    "code": "mos",
@@ -646,7 +782,9 @@
    "mode": "full",
    "ver": "Sebr Sõngo",
    "pop": 14388000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 12.73,
+   "lng": -1.29
   },
   {
    "code": "mg",
@@ -655,7 +793,9 @@
    "mode": "full",
    "ver": "MBP",
    "pop": 13764900,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -21.45,
+   "lng": 47.08
   },
   {
    "code": "ht",
@@ -664,7 +804,9 @@
    "mode": "full",
    "ver": "HAT98",
    "pop": 13602700,
-   "region": "North America"
+   "region": "North America",
+   "lat": 19.26,
+   "lng": -72.24
   },
   {
    "code": "syl",
@@ -673,7 +815,9 @@
    "mode": "full",
    "ver": "sylB",
    "pop": 13307600,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 24.91,
+   "lng": 92.03
   },
   {
    "code": "ak",
@@ -682,7 +826,9 @@
    "mode": "full",
    "ver": "Asante Twi",
    "pop": 13121000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 6.7,
+   "lng": -1.61
   },
   {
    "code": "ug",
@@ -691,7 +837,9 @@
    "mode": "full",
    "ver": "HZUT",
    "pop": 12402300,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 39.46,
+   "lng": 75.99
   },
   {
    "code": "lua",
@@ -700,7 +848,9 @@
    "mode": "full",
    "ver": "TSH",
    "pop": 12163200,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -6.02,
+   "lng": 22.26
   },
   {
    "code": "aeb",
@@ -709,7 +859,9 @@
    "mode": "partial",
    "ver": "بالتونسي",
    "pop": 11942700,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 33.8,
+   "lng": 9.56
   },
   {
    "code": "suk",
@@ -718,7 +870,9 @@
    "mode": "full",
    "ver": "SUKBI15",
    "pop": 11888000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -3.06,
+   "lng": 33.18
   },
   {
    "code": "hu",
@@ -727,7 +881,9 @@
    "mode": "full",
    "ver": "RÚF",
    "pop": 11596200,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 47.52,
+   "lng": 19.12
   },
   {
    "code": "ki",
@@ -736,7 +892,9 @@
    "mode": "full",
    "ver": "Bibilia",
    "pop": 11593400,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -0.29,
+   "lng": 36.72
   },
   {
    "code": "tg",
@@ -745,7 +903,9 @@
    "mode": "full",
    "ver": "Китоби Муқаддас",
    "pop": 11498000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 38.57,
+   "lng": 69.82
   },
   {
    "code": "af",
@@ -754,7 +914,9 @@
    "mode": "full",
    "ver": "1933/1953",
    "pop": 11202800,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -33.92,
+   "lng": 18.58
   },
   {
    "code": "el",
@@ -763,7 +925,9 @@
    "mode": "full",
    "ver": "Φίλος Περγάμου",
    "pop": 10944000,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 37.47,
+   "lng": 23.33
   },
   {
    "code": "ilo",
@@ -772,7 +936,9 @@
    "mode": "full",
    "ver": "Ti Biblia",
    "pop": 10654600,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 15.94,
+   "lng": 120.99
   },
   {
    "code": "cs",
@@ -781,7 +947,9 @@
    "mode": "full",
    "ver": "ČSP",
    "pop": 10569300,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 49.89,
+   "lng": 15.37
   },
   {
    "code": "az",
@@ -790,7 +958,9 @@
    "mode": "full",
    "ver": "Müqəddəs Kitab",
    "pop": 10378800,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 40.21,
+   "lng": 47.69
   },
   {
    "code": "xh",
@@ -799,7 +969,9 @@
    "mode": "full",
    "ver": "IBHAYIBHILE",
    "pop": 10303000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -32.98,
+   "lng": 27.88
   },
   {
    "code": "ti",
@@ -808,7 +980,9 @@
    "mode": "full",
    "ver": "መጽሓፍ ቅዱስ",
    "pop": 10272700,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 13.78,
+   "lng": 38.38
   },
   {
    "code": "sn",
@@ -817,7 +991,9 @@
    "mode": "full",
    "ver": "Bhaibheri 1949/2002",
    "pop": 10028000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -17.36,
+   "lng": 30.19
   },
   {
    "code": "sv",
@@ -826,7 +1002,9 @@
    "mode": "full",
    "ver": "Folkbibeln",
    "pop": 9710800,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 59.3,
+   "lng": 18.05
   },
   {
    "code": "kmb",
@@ -835,7 +1013,9 @@
    "mode": "full",
    "ver": "KMB80",
    "pop": 9600000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -8.1,
+   "lng": 15.06
   },
   {
    "code": "umb",
@@ -844,7 +1024,9 @@
    "mode": "full",
    "ver": "Embimbiliya",
    "pop": 8900300,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -12.93,
+   "lng": 14.52
   },
   {
    "code": "ts",
@@ -853,7 +1035,9 @@
    "mode": "full",
    "ver": "Bibele",
    "pop": 8806000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -23.5,
+   "lng": 32.88
   },
   {
    "code": "lg",
@@ -862,7 +1046,9 @@
    "mode": "full",
    "ver": "Baibuli",
    "pop": 8734700,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 0.27,
+   "lng": 32.54
   },
   {
    "code": "hil",
@@ -871,7 +1057,9 @@
    "mode": "full",
    "ver": "Ang Biblia",
    "pop": 8719400,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 10.4,
+   "lng": 122.97
   },
   {
    "code": "tk",
@@ -880,7 +1068,9 @@
    "mode": "full",
    "ver": "Mukaddes Kitap",
    "pop": 8688600,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 38.18,
+   "lng": 57.97
   },
   {
    "code": "be",
@@ -889,7 +1079,9 @@
    "mode": "full",
    "ver": "пераклад Бокуна",
    "pop": 8537300,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 53.54,
+   "lng": 28.05
   },
   {
    "code": "mad",
@@ -898,7 +1090,9 @@
    "mode": "full",
    "ver": "Alketab",
    "pop": 8356000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": -7.54,
+   "lng": 112.23
   },
   {
    "code": "sr",
@@ -907,7 +1101,9 @@
    "mode": "full",
    "ver": "Савремени превод",
    "pop": 8098090,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 44.8,
+   "lng": 20.47
   },
   {
    "code": "sat",
@@ -916,7 +1112,9 @@
    "mode": "full",
    "ver": "SBT",
    "pop": 7990500,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 24.79,
+   "lng": 87.6
   },
   {
    "code": "ks",
@@ -925,7 +1123,9 @@
    "mode": "bridge",
    "ver": "کِتابِ مُقادّس",
    "pop": 7938600,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 34.47,
+   "lng": 75.03
   },
   {
    "code": "nod",
@@ -934,7 +1134,9 @@
    "mode": "partial",
    "ver": "พคม.",
    "pop": 7798000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 17.7,
+   "lng": 99.73
   },
   {
    "code": "kab",
@@ -943,7 +1145,9 @@
    "mode": "full",
    "ver": "Bible Kabyle",
    "pop": 7564000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 36.39,
+   "lng": 4.56
   },
   {
    "code": "luo",
@@ -952,7 +1156,9 @@
    "mode": "full",
    "ver": "Muma Maler",
    "pop": 7312000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -0.52,
+   "lng": 34.67
   },
   {
    "code": "kam",
@@ -961,7 +1167,9 @@
    "mode": "full",
    "ver": "Mbivlia",
    "pop": 7311000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -1.44,
+   "lng": 38.03
   },
   {
    "code": "ibb",
@@ -970,7 +1178,9 @@
    "mode": "full",
    "ver": "ICB",
    "pop": 7219700,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 5.12,
+   "lng": 7.82
   },
   {
    "code": "bem",
@@ -979,7 +1189,9 @@
    "mode": "full",
    "ver": "Baibolo",
    "pop": 7173300,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -10.2,
+   "lng": 31.19
   },
   {
    "code": "lmn",
@@ -988,7 +1200,9 @@
    "mode": "full",
    "ver": "బంజారా/లంబాడి",
    "pop": 7151000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 18.11,
+   "lng": 80.4
   },
   {
    "code": "bg",
@@ -997,7 +1211,9 @@
    "mode": "full",
    "ver": "Верен",
    "pop": 7120500,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 42.7,
+   "lng": 23.29
   },
   {
    "code": "wo",
@@ -1006,7 +1222,9 @@
    "mode": "full",
    "ver": "Kàddug Yàlla",
    "pop": 6975300,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 14.73,
+   "lng": -17.47
   },
   {
    "code": "ee",
@@ -1015,7 +1233,9 @@
    "mode": "full",
    "ver": "EƲEGBE BIBLIA",
    "pop": 6959000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 6.36,
+   "lng": 0.56
   },
   {
    "code": "gn",
@@ -1024,7 +1244,9 @@
    "mode": "full",
    "ver": "Ñe’ẽ Porã",
    "pop": 6834100,
-   "region": "South America"
+   "region": "South America",
+   "lat": -25.61,
+   "lng": -57.09
   },
   {
    "code": "kg",
@@ -1033,7 +1255,9 @@
    "mode": "bridge",
    "ver": "MNB",
    "pop": 6727800,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -6.63,
+   "lng": 14.3
   },
   {
    "code": "st",
@@ -1042,7 +1266,9 @@
    "mode": "full",
    "ver": "BIBELE",
    "pop": 6658900,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -30.53,
+   "lng": 27.54
   },
   {
    "code": "nso",
@@ -1051,7 +1277,9 @@
    "mode": "full",
    "ver": "Taba yea Botse",
    "pop": 6645000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -24.8,
+   "lng": 29.47
   },
   {
    "code": "min",
@@ -1060,7 +1288,9 @@
    "mode": "bridge",
    "ver": "TB",
    "pop": 6607000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": -0.94,
+   "lng": 100.4
   },
   {
    "code": "tn",
@@ -1069,7 +1299,9 @@
    "mode": "full",
    "ver": "Setswana 1970",
    "pop": 6560140,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -27.56,
+   "lng": 25.31
   },
   {
    "code": "sq",
@@ -1078,7 +1310,9 @@
    "mode": "full",
    "ver": "Së bashku 2020",
    "pop": 6250000,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 41.11,
+   "lng": 20.08
   },
   {
    "code": "he",
@@ -1087,7 +1321,9 @@
    "mode": "full",
    "ver": "תנ״ך ודליטש",
    "pop": 6238190,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 31.75,
+   "lng": 34.98
   },
   {
    "code": "ky",
@@ -1096,7 +1332,9 @@
    "mode": "full",
    "ver": "Инжил ЛС",
    "pop": 6089100,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 41.73,
+   "lng": 74.29
   },
   {
    "code": "as",
@@ -1105,7 +1343,9 @@
    "mode": "full",
    "ver": "IRV",
    "pop": 6032300,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 26.46,
+   "lng": 93.11
   },
   {
    "code": "sdh",
@@ -1114,7 +1354,9 @@
    "mode": "partial",
    "ver": "SKV",
    "pop": 5952000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 33.86,
+   "lng": 47.23
   },
   {
    "code": "bug",
@@ -1123,7 +1365,9 @@
    "mode": "full",
    "ver": "TML",
    "pop": 5853000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": -4,
+   "lng": 120.21
   },
   {
    "code": "mai",
@@ -1132,7 +1376,9 @@
    "mode": "partial",
    "ver": "जीवन सन्देश",
    "pop": 5789000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 26.77,
+   "lng": 86.91
   },
   {
    "code": "tt",
@@ -1141,7 +1387,9 @@
    "mode": "full",
    "ver": "Изге Язма",
    "pop": 5775400,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 55.38,
+   "lng": 50.77
   },
   {
    "code": "fuf",
@@ -1150,7 +1398,9 @@
    "mode": "partial",
    "ver": "VPFJ",
    "pop": 5763900,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 11.32,
+   "lng": -12.43
   },
   {
    "code": "sid",
@@ -1159,7 +1409,9 @@
    "mode": "full",
    "ver": "QulMax",
    "pop": 5702000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 6.73,
+   "lng": 38.4
   },
   {
    "code": "bho",
@@ -1168,7 +1420,9 @@
    "mode": "bridge",
    "ver": "हिन्दी बाइबल",
    "pop": 5655800,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 25.91,
+   "lng": 84.44
   },
   {
    "code": "ln",
@@ -1177,7 +1431,9 @@
    "mode": "full",
    "ver": "MNB",
    "pop": 5519700,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 2.31,
+   "lng": 24.35
   },
   {
    "code": "da",
@@ -1186,7 +1442,9 @@
    "mode": "full",
    "ver": "1871",
    "pop": 5359700,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 54.95,
+   "lng": 9.52
   },
   {
    "code": "nyn",
@@ -1195,7 +1453,9 @@
    "mode": "full",
    "ver": "RKK2008",
    "pop": 5280000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -0.46,
+   "lng": 30.55
   },
   {
    "code": "sk",
@@ -1204,7 +1464,9 @@
    "mode": "full",
    "ver": "SEB",
    "pop": 5228200,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 48.82,
+   "lng": 19.66
   },
   {
    "code": "tiv",
@@ -1213,7 +1475,9 @@
    "mode": "full",
    "ver": "TOBNR",
    "pop": 5210000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 7.55,
+   "lng": 8.91
   },
   {
    "code": "fi",
@@ -1222,7 +1486,9 @@
    "mode": "full",
    "ver": "KR92",
    "pop": 5130100,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 64.22,
+   "lng": 26.33
   },
   {
    "code": "hr",
@@ -1231,7 +1497,9 @@
    "mode": "full",
    "ver": "SHP",
    "pop": 5073700,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 45.81,
+   "lng": 15.97
   },
   {
    "code": "kln",
@@ -1240,7 +1508,9 @@
    "mode": "full",
    "ver": "BUKUIT",
    "pop": 5065000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -0.55,
+   "lng": 35.38
   },
   {
    "code": "shn",
@@ -1249,7 +1519,9 @@
    "mode": "full",
    "ver": "ၵျၢမ်းလိၵ်ႈၽြႃး",
    "pop": 5034300,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 21.58,
+   "lng": 98.14
   },
   {
    "code": "hrx",
@@ -1258,7 +1530,9 @@
    "mode": "partial",
    "ver": "NTHunsrik",
    "pop": 5006000,
-   "region": "South America"
+   "region": "South America",
+   "lat": -29.17,
+   "lng": -51.19
   },
   {
    "code": "dyu",
@@ -1267,7 +1541,9 @@
    "mode": "full",
    "ver": "AKKDC08",
    "pop": 4937000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 10.77,
+   "lng": -4.09
   },
   {
    "code": "kru",
@@ -1276,7 +1552,9 @@
    "mode": "partial",
    "ver": "Kurukh NT",
    "pop": 4898000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 23.01,
+   "lng": 86.6
   },
   {
    "code": "bcl",
@@ -1285,7 +1563,9 @@
    "mode": "full",
    "ver": "Marahay na Bareta",
    "pop": 4779200,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 13.76,
+   "lng": 123.4
   },
   {
    "code": "no",
@@ -1294,7 +1574,9 @@
    "mode": "full",
    "ver": "Bibel 2011",
    "pop": 4770600,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 61.11,
+   "lng": 8.89
   },
   {
    "code": "haz",
@@ -1303,7 +1585,9 @@
    "mode": "partial",
    "ver": "HAZ",
    "pop": 4735700,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 34.35,
+   "lng": 66.94
   },
   {
    "code": "shi",
@@ -1312,7 +1596,9 @@
    "mode": "partial",
    "ver": "SHILNT10",
    "pop": 4592000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 30.28,
+   "lng": -8.19
   },
   {
    "code": "ca",
@@ -1321,7 +1607,9 @@
    "mode": "full",
    "ver": "BCI",
    "pop": 4380500,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 41.44,
+   "lng": 2.18
   },
   {
    "code": "sw",
@@ -1330,7 +1618,9 @@
    "mode": "full",
    "ver": "SRUV",
    "pop": 4254500,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -6.34,
+   "lng": 39.39
   },
   {
    "code": "cjk",
@@ -1339,7 +1629,9 @@
    "mode": "full",
    "ver": "CHK1970",
    "pop": 4161700,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -9.65,
+   "lng": 20.17
   },
   {
    "code": "lo",
@@ -1348,7 +1640,9 @@
    "mode": "full",
    "ver": "ພຣະຄຳພີ",
    "pop": 4115900,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 15.29,
+   "lng": 105.76
   },
   {
    "code": "ace",
@@ -1357,7 +1651,9 @@
    "mode": "full",
    "ver": "LAIACE",
    "pop": 4100000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 3.64,
+   "lng": 97.05
   },
   {
    "code": "bjn",
@@ -1366,7 +1662,9 @@
    "mode": "bridge",
    "ver": "TB",
    "pop": 4082000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": -2.76,
+   "lng": 114.35
   },
   {
    "code": "tum",
@@ -1375,7 +1673,9 @@
    "mode": "full",
    "ver": "Tumbuka",
    "pop": 4035400,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -11.46,
+   "lng": 33.75
   },
   {
    "code": "hy",
@@ -1384,7 +1684,9 @@
    "mode": "full",
    "ver": "Արարատ",
    "pop": 3960000,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 40.29,
+   "lng": 44.93
   },
   {
    "code": "war",
@@ -1393,7 +1695,9 @@
    "mode": "full",
    "ver": "Samarenyo",
    "pop": 3900000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 11.49,
+   "lng": 125.01
   },
   {
    "code": "ban",
@@ -1402,7 +1706,9 @@
    "mode": "full",
    "ver": "BAN",
    "pop": 3894600,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": -8.36,
+   "lng": 115.07
   },
   {
    "code": "ckb",
@@ -1411,7 +1717,9 @@
    "mode": "full",
    "ver": "KSS",
    "pop": 3785400,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 35.66,
+   "lng": 45.03
   },
   {
    "code": "gl",
@@ -1420,7 +1728,9 @@
    "mode": "full",
    "ver": "SEPT",
    "pop": 3298000,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 42.77,
+   "lng": -7.84
   },
   {
    "code": "ka",
@@ -1429,7 +1739,9 @@
    "mode": "full",
    "ver": "ქართული ბიბლია",
    "pop": 3248900,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 41.72,
+   "lng": 44.79
   },
   {
    "code": "bs",
@@ -1438,7 +1750,9 @@
    "mode": "full",
    "ver": "Bba",
    "pop": 3139000,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 44.17,
+   "lng": 17.78
   },
   {
    "code": "mn",
@@ -1447,7 +1761,9 @@
    "mode": "full",
    "ver": "АБ2004",
    "pop": 2969500,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 46.17,
+   "lng": 105.69
   },
   {
    "code": "lt",
@@ -1456,7 +1772,9 @@
    "mode": "full",
    "ver": "LBD",
    "pop": 2866100,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 55.34,
+   "lng": 23.9
   },
   {
    "code": "raj",
@@ -1465,7 +1783,9 @@
    "mode": "bridge",
    "ver": "हिन्दी बाइबल",
    "pop": 2821500,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 33.69,
+   "lng": 76.35
   },
   {
    "code": "ssw",
@@ -1474,7 +1794,9 @@
    "mode": "full",
    "ver": "SWT",
    "pop": 2815000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -25.78,
+   "lng": 30.83
   },
   {
    "code": "mww",
@@ -1483,7 +1805,9 @@
    "mode": "full",
    "ver": "HMOWSV",
    "pop": 2721000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 21.49,
+   "lng": 103.55
   },
   {
    "code": "pam",
@@ -1492,7 +1816,9 @@
    "mode": "full",
    "ver": "Ing Mayap a Balita",
    "pop": 2594400,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 14.96,
+   "lng": 120.5
   },
   {
    "code": "fon",
@@ -1501,7 +1827,9 @@
    "mode": "full",
    "ver": "Fon13",
    "pop": 2523000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 6.49,
+   "lng": 2.63
   },
   {
    "code": "qu",
@@ -1510,7 +1838,9 @@
    "mode": "full",
    "ver": "Diospa Simin Qelqa",
    "pop": 2429000,
-   "region": "South America"
+   "region": "South America",
+   "lat": -14.05,
+   "lng": -71.72
   },
   {
    "code": "eu",
@@ -1519,7 +1849,9 @@
    "mode": "full",
    "ver": "EAB",
    "pop": 2380600,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 42.99,
+   "lng": -2.13
   },
   {
    "code": "mni",
@@ -1528,7 +1860,9 @@
    "mode": "full",
    "ver": "MBUR22",
    "pop": 2138800,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 24.98,
+   "lng": 94.18
   },
   {
    "code": "nd",
@@ -1537,7 +1871,9 @@
    "mode": "full",
    "ver": "iBhayibhili",
    "pop": 2060000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": -19.71,
+   "lng": 28.68
   },
   {
    "code": "tpi",
@@ -1546,7 +1882,9 @@
    "mode": "full",
    "ver": "Buk Baibel",
    "pop": 2014870,
-   "region": "Australia"
+   "region": "Australia",
+   "lat": -9.43,
+   "lng": 147.19
   },
   {
    "code": "sl",
@@ -1555,7 +1893,9 @@
    "mode": "full",
    "ver": "SSP",
    "pop": 1962900,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 46.11,
+   "lng": 14.82
   },
   {
    "code": "bo",
@@ -1564,7 +1904,9 @@
    "mode": "full",
    "ver": "བོད་འགྱུར་གསར་མ",
    "pop": 1919800,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 29.65,
+   "lng": 91.13
   },
   {
    "code": "ay",
@@ -1573,7 +1915,9 @@
    "mode": "full",
    "ver": "Aymar Bibliia",
    "pop": 1846000,
-   "region": "South America"
+   "region": "South America",
+   "lat": -18.1,
+   "lng": -68.31
   },
   {
    "code": "mk",
@@ -1582,7 +1926,9 @@
    "mode": "full",
    "ver": "Стандардна Библија",
    "pop": 1763200,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 41.99,
+   "lng": 21.43
   },
   {
    "code": "quc",
@@ -1591,7 +1937,9 @@
    "mode": "full",
    "ver": "Quiché",
    "pop": 1758500,
-   "region": "North America"
+   "region": "North America",
+   "lat": 15.04,
+   "lng": -91.21
   },
   {
    "code": "nus",
@@ -1600,7 +1948,9 @@
    "mode": "full",
    "ver": "2155",
    "pop": 1758000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 9.35,
+   "lng": 28.77
   },
   {
    "code": "bak",
@@ -1609,7 +1959,9 @@
    "mode": "full",
    "ver": "БашИЯ2023",
    "pop": 1646000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 54.55,
+   "lng": 54.89
   },
   {
    "code": "dag",
@@ -1618,7 +1970,9 @@
    "mode": "full",
    "ver": "DBwDB",
    "pop": 1619000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 9.65,
+   "lng": -0.43
   },
   {
    "code": "pag",
@@ -1627,7 +1981,9 @@
    "mode": "full",
    "ver": "Maung a Balita",
    "pop": 1587000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 15.96,
+   "lng": 120.39
   },
   {
    "code": "gom",
@@ -1636,7 +1992,9 @@
    "mode": "partial",
    "ver": "KONKABSI",
    "pop": 1541200,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 17.27,
+   "lng": 73.48
   },
   {
    "code": "lv",
@@ -1645,7 +2003,9 @@
    "mode": "full",
    "ver": "Glika",
    "pop": 1462000,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 56.99,
+   "lng": 24.12
   },
   {
    "code": "hne",
@@ -1654,7 +2014,9 @@
    "mode": "full",
    "ver": "SCA",
    "pop": 1384500,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 23.58,
+   "lng": 83.64
   },
   {
    "code": "dwr",
@@ -1663,7 +2025,9 @@
    "mode": "full",
    "ver": "eBible",
    "pop": 1205000,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 6.92,
+   "lng": 37.07
   },
   {
    "code": "kac",
@@ -1672,7 +2036,9 @@
    "mode": "full",
    "ver": "JCLB",
    "pop": 1121000,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 26.2,
+   "lng": 96.92
   },
   {
    "code": "et",
@@ -1681,7 +2047,9 @@
    "mode": "partial",
    "ver": "PKEK",
    "pop": 1119300,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 58.67,
+   "lng": 25.55
   },
   {
    "code": "cv",
@@ -1690,7 +2058,9 @@
    "mode": "full",
    "ver": "CHB",
    "pop": 1108700,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 55.53,
+   "lng": 47.14
   },
   {
    "code": "lus",
@@ -1699,7 +2069,9 @@
    "mode": "full",
    "ver": "MIZCLBSI",
    "pop": 850300,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 23.84,
+   "lng": 92.87
   },
   {
    "code": "sg",
@@ -1708,7 +2080,9 @@
    "mode": "full",
    "ver": "Mbeti ti Nzapa",
    "pop": 802700,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 4.45,
+   "lng": 22.37
   },
   {
    "code": "cy",
@@ -1717,7 +2091,9 @@
    "mode": "full",
    "ver": "BCND",
    "pop": 746700,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 51.97,
+   "lng": -4.22
   },
   {
    "code": "mt",
@@ -1726,7 +2102,9 @@
    "mode": "full",
    "ver": "MALTI",
    "pop": 695200,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 35.89,
+   "lng": 14.45
   },
   {
    "code": "mi",
@@ -1735,7 +2113,9 @@
    "mode": "full",
    "ver": "Paipera Tapu",
    "pop": 674000,
-   "region": "Oceania"
+   "region": "Oceania",
+   "lat": -38.41,
+   "lng": 176.31
   },
   {
    "code": "crh",
@@ -1744,7 +2124,9 @@
    "mode": "full",
    "ver": "CTB",
    "pop": 636500,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 45.96,
+   "lng": 33.79
   },
   {
    "code": "fj",
@@ -1753,7 +2135,9 @@
    "mode": "full",
    "ver": "FNV",
    "pop": 502100,
-   "region": "Oceania"
+   "region": "Oceania",
+   "lat": -18.14,
+   "lng": 178.45
   },
   {
    "code": "sm",
@@ -1762,7 +2146,9 @@
    "mode": "full",
    "ver": "O LE TUSI PAIA",
    "pop": 466300,
-   "region": "Oceania"
+   "region": "Oceania",
+   "lat": -13.68,
+   "lng": -172.41
   },
   {
    "code": "is",
@@ -1771,7 +2157,9 @@
    "mode": "full",
    "ver": "Biblían 2007",
    "pop": 442600,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 65.09,
+   "lng": -18.77
   },
   {
    "code": "pap",
@@ -1780,7 +2168,9 @@
    "mode": "full",
    "ver": "BEIBEL-SANTU",
    "pop": 309000,
-   "region": "North America"
+   "region": "North America",
+   "lat": 12.14,
+   "lng": -68.95
   },
   {
    "code": "ga",
@@ -1789,7 +2179,9 @@
    "mode": "full",
    "ver": "ABN",
    "pop": 265400,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 53.86,
+   "lng": -9.95
   },
   {
    "code": "yi",
@@ -1798,7 +2190,9 @@
    "mode": "partial",
    "ver": "OYBC",
    "pop": 208300,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 50.45,
+   "lng": 30.61
   },
   {
    "code": "ctg",
@@ -1807,7 +2201,9 @@
    "mode": "bridge",
    "ver": "O.V. বাইবেল",
    "pop": 204500,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 23.23,
+   "lng": 92.01
   },
   {
    "code": "to",
@@ -1816,7 +2212,9 @@
    "mode": "full",
    "ver": "TMB",
    "pop": 197700,
-   "region": "Oceania"
+   "region": "Oceania",
+   "lat": -21.15,
+   "lng": -175.21
   },
   {
    "code": "fo",
@@ -1825,7 +2223,9 @@
    "mode": "full",
    "ver": "Bíblian 2019",
    "pop": 75000,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 62.12,
+   "lng": -6.99
   },
   {
    "code": "gd",
@@ -1834,7 +2234,9 @@
    "mode": "full",
    "ver": "1531",
    "pop": 69500,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 58.02,
+   "lng": -5.16
   },
   {
    "code": "awa",
@@ -1843,7 +2245,9 @@
    "mode": "full",
    "ver": "AERV",
    "pop": 63100,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 27.63,
+   "lng": 83.03
   },
   {
    "code": "chk",
@@ -1852,7 +2256,9 @@
    "mode": "full",
    "ver": "CHK",
    "pop": 60600,
-   "region": "Oceania"
+   "region": "Oceania",
+   "lat": 7.33,
+   "lng": 151.58
   },
   {
    "code": "bi",
@@ -1861,7 +2267,9 @@
    "mode": "full",
    "ver": "Baebol",
    "pop": 35600,
-   "region": "Oceania"
+   "region": "Oceania",
+   "lat": -10.28,
+   "lng": 161.75
   },
   {
    "code": "mag",
@@ -1870,7 +2278,9 @@
    "mode": "bridge",
    "ver": "हिन्दी बाइबिल",
    "pop": 4300,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 23.37,
+   "lng": 85.78
   },
   {
    "code": "zh-Hant",
@@ -1879,7 +2289,9 @@
    "mode": "full",
    "ver": "和合本",
    "pop": 0,
-   "region": "Asia"
+   "region": "Asia",
+   "lat": 25.94,
+   "lng": 106.28
   },
   {
    "code": "ar",
@@ -1888,7 +2300,9 @@
    "mode": "full",
    "ver": "فان دايك",
    "pop": 0,
-   "region": ""
+   "region": "",
+   "lat": null,
+   "lng": null
   },
   {
    "code": "pcm",
@@ -1897,7 +2311,9 @@
    "mode": "full",
    "ver": "PCM",
    "pop": 0,
-   "region": ""
+   "region": "",
+   "lat": null,
+   "lng": null
   },
   {
    "code": "bgc",
@@ -1906,7 +2322,9 @@
    "mode": "full",
    "ver": "BGC",
    "pop": 0,
-   "region": ""
+   "region": "",
+   "lat": null,
+   "lng": null
   },
   {
    "code": "dcc",
@@ -1915,7 +2333,9 @@
    "mode": "bridge",
    "ver": "کِتابِ مُقادّس",
    "pop": 0,
-   "region": ""
+   "region": "",
+   "lat": null,
+   "lng": null
   },
   {
    "code": "nn",
@@ -1924,7 +2344,9 @@
    "mode": "full",
    "ver": "N11NN",
    "pop": 0,
-   "region": "Europe"
+   "region": "Europe",
+   "lat": 61.11,
+   "lng": 8.89
   },
   {
    "code": "twi",
@@ -1933,7 +2355,9 @@
    "mode": "full",
    "ver": "AKNA",
    "pop": 0,
-   "region": "Africa"
+   "region": "Africa",
+   "lat": 6.7,
+   "lng": -1.61
   },
   {
    "code": "eo",
@@ -1942,7 +2366,9 @@
    "mode": "full",
    "ver": "Zamenhof",
    "pop": 0,
-   "region": ""
+   "region": "",
+   "lat": null,
+   "lng": null
   },
   {
    "code": "sa",
@@ -1951,7 +2377,9 @@
    "mode": "partial",
    "ver": "BSI",
    "pop": 0,
-   "region": ""
+   "region": "",
+   "lat": null,
+   "lng": null
   }
  ],
  "regions": {
