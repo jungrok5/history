@@ -131,6 +131,8 @@
   .invite .c{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px}
   .invite .c h3{margin:.1em 0 .35em;font-size:1.08rem}
   .invite .c p{margin:0;font-size:.9rem;color:var(--muted)}
+  .card-links{display:flex;flex-direction:column;gap:7px;margin-top:14px;padding-top:12px;border-top:1px solid var(--line)}
+  .card-links a{font-size:.86rem;font-weight:700;text-decoration:none}
   .cta{display:inline-block;background:var(--accent);color:#1a1206;text-decoration:none;
     padding:.7em 1.4em;border-radius:999px;font-weight:700}
   .cta.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
@@ -253,13 +255,14 @@
     <div class="c"><h3 data-t="i_p_h"></h3><p data-t="i_p_b"></p></div>
     <div class="c"><h3 data-t="i_s_h"></h3><p data-t="i_s_b"></p></div>
     <div class="c"><h3 data-t="i_g_h"></h3><p data-t="i_g_b"></p></div>
-    <div class="c"><h3 data-t="i_t_h"></h3><p data-t="i_t_b"></p></div>
+    <div class="c"><h3 data-t="i_t_h"></h3><p data-t="i_t_b"></p>
+      <div class="card-links">
+        <a href="https://github.com/jungrok5/one-scroll-bible" target="_blank" rel="noopener" data-t="i_gh"></a>
+        <a href="https://github.com/jungrok5/one-scroll-bible/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener" id="i_contrib" data-t="i_contrib"></a>
+      </div>
+    </div>
   </div>
-  <div class="ctas">
-    <a class="cta" href="/" data-t="i_cta"></a>
-    <a class="cta ghost" href="https://github.com/jungrok5/one-scroll-bible" target="_blank" rel="noopener" data-t="i_gh"></a>
-    <a href="https://github.com/jungrok5/one-scroll-bible/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener" id="i_contrib" data-t="i_contrib"></a>
-  </div>
+  <div class="ctas"><a class="cta" href="/" data-t="i_cta"></a></div>
 </div></section>
 
 <footer><div class="wrap">
@@ -328,8 +331,8 @@ const T = {
   i_g_h:{ko:'후원',en:'Give'}, i_g_b:{ko:'성경 번역 단체(위클리프 등)를 통해, 아직 말씀이 없는 민족에게 번역이 시작되도록.',en:'Through Bible-translation organizations (Wycliffe and others), so translation can begin for peoples still without the Word.'},
   i_t_h:{ko:'번역·검수',en:'Translate'}, i_t_b:{ko:'당신이 어느 언어의 원어민이라면, 그 언어의 산문을 검수해 “아직”을 “이제”로 바꿔 주세요. 코딩은 필요 없습니다 — 텍스트만.',en:'If you are a native speaker of a language, review its prose and help turn a “not yet” into a “now.” No coding needed — just the text.'},
   i_cta:{ko:'한눈에 보는 성경 이야기 보러 가기 →',en:'See the Bible in One Scroll →'},
-  i_gh:{ko:'GitHub에서 함께 만들기 →',en:'Build it on GitHub →'},
-  i_contrib:{ko:'기여 가이드(코딩 없이, 텍스트만) →',en:'Contributing guide (no code, just text) →'},
+  i_gh:{ko:'GitHub에서 기여하기 →',en:'Contribute on GitHub →'},
+  i_contrib:{ko:'기여 가이드 보기 →',en:'Read the contributing guide →'},
 
   foot:{ko:'이 모든 일의 목적은 사람의 의가 아니라, 하나님의 지상 최대 명령인 복음의 전파입니다. 영광은 오직 하나님께.',
     en:'The purpose of all this is not human righteousness but the proclamation of the gospel — God’s great command. Glory to God alone.'},
