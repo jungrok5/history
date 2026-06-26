@@ -130,8 +130,10 @@
   .invite .c{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px}
   .invite .c h3{margin:.1em 0 .35em;font-size:1.08rem}
   .invite .c p{margin:0;font-size:.9rem;color:var(--muted)}
-  .cta{display:inline-block;margin-top:8px;background:var(--accent);color:#1a1206;text-decoration:none;
+  .cta{display:inline-block;background:var(--accent);color:#1a1206;text-decoration:none;
     padding:.7em 1.4em;border-radius:999px;font-weight:700}
+  .cta.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+  .ctas{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:26px}
   footer{padding:42px 0 72px;color:var(--muted);font-size:.82rem;border-top:1px solid var(--line)}
   .src{margin-top:10px;line-height:1.9}
   .en .ko-only{display:none}.ko .en-only{display:none}
@@ -257,7 +259,11 @@
     <div class="c"><h3 data-t="i_g_h"></h3><p data-t="i_g_b"></p></div>
     <div class="c"><h3 data-t="i_t_h"></h3><p data-t="i_t_b"></p></div>
   </div>
-  <p style="margin-top:26px"><a class="cta" href="/" data-t="i_cta"></a></p>
+  <div class="ctas">
+    <a class="cta" href="/" data-t="i_cta"></a>
+    <a class="cta ghost" href="https://github.com/jungrok5/one-scroll-bible" target="_blank" rel="noopener" data-t="i_gh"></a>
+    <a href="https://github.com/jungrok5/one-scroll-bible/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener" id="i_contrib" data-t="i_contrib"></a>
+  </div>
 </div></section>
 
 <footer><div class="wrap">
@@ -325,8 +331,10 @@ const T = {
   i_p_h:{ko:'기도',en:'Pray'}, i_p_b:{ko:'아직 성경이 없는 언어와, 위 보류 목록의 언어들을 위해. 추수할 일꾼을 보내 주시도록.',en:'For languages still without Scripture, and those on the list above — that the Lord would send workers into His harvest.'},
   i_s_h:{ko:'전하기',en:'Share'}, i_s_b:{ko:'복음을 모어로 읽을 수 있는 사람에게 그의 언어 페이지를 보내 주세요. 한 링크가 한 영혼에게.',en:'Send someone the page in their own tongue. One link can reach one soul in the language of the heart.'},
   i_g_h:{ko:'후원',en:'Give'}, i_g_b:{ko:'성경 번역 단체(위클리프 등)를 통해, 아직 말씀이 없는 민족에게 번역이 시작되도록.',en:'Through Bible-translation organizations (Wycliffe and others), so translation can begin for peoples still without the Word.'},
-  i_t_h:{ko:'번역·검수',en:'Translate'}, i_t_b:{ko:'당신이 어느 언어의 원어민이라면, 그 언어의 산문을 검수해 “아직”을 “이제”로 바꿔 주세요.',en:'If you are a native speaker of a language, review its prose and help turn a “not yet” into a “now.”'},
+  i_t_h:{ko:'번역·검수',en:'Translate'}, i_t_b:{ko:'당신이 어느 언어의 원어민이라면, 그 언어의 산문을 검수해 “아직”을 “이제”로 바꿔 주세요. 코딩은 필요 없습니다 — 텍스트만.',en:'If you are a native speaker of a language, review its prose and help turn a “not yet” into a “now.” No coding needed — just the text.'},
   i_cta:{ko:'한눈에 보는 성경 이야기 보러 가기 →',en:'See the Bible in One Scroll →'},
+  i_gh:{ko:'GitHub에서 함께 만들기 →',en:'Build it on GitHub →'},
+  i_contrib:{ko:'기여 가이드(코딩 없이, 텍스트만) →',en:'Contributing guide (no code, just text) →'},
 
   foot:{ko:'이 모든 일의 목적은 사람의 의가 아니라, 하나님의 지상 최대 명령인 복음의 전파입니다. 영광은 오직 하나님께.',
     en:'The purpose of all this is not human righteousness but the proclamation of the gospel — God’s great command. Glory to God alone.'},
@@ -402,6 +410,7 @@ function applyText(){
   document.documentElement.lang=L; document.body.className=L;
   $$('[data-t]').forEach(el=>{const k=el.getAttribute('data-t'); if(T[k])el.innerHTML=T[k][L];});
   $('#langCur').textContent = L==='ko'?'한국어':'English';
+  const ci=$('#i_contrib'); if(ci) ci.href = 'https://github.com/jungrok5/one-scroll-bible/blob/main/'+(L==='ko'?'CONTRIBUTING.ko.md':'CONTRIBUTING.md');
   $$('#langPanel button').forEach(b=>b.classList.toggle('on',b.dataset.l===L));
 }
 
