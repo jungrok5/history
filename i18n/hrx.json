@@ -1,0 +1,382 @@
+{
+ "menuName": "Hunsrik",
+ "htmlLang": "hrx",
+ "dir": "ltr",
+ "brand": "Ti Piipel in eene Rol",
+ "docTitle": "Ti Piipel in eene Rol · Fon te Xëpfung pis an ti Kemeen",
+ "share": {
+  "title": "Ti Piipel in eene Rol",
+  "text": "In eene Rol finst tuu ti kroose Keschicht fon te Piipel — un fer was Yeesus khom is."
+ },
+ "ui": {
+  "people": "Layt",
+  "events": "Wichtiche Sache woo pasiirt sin",
+  "christLabel": "Tsaycht uf Yeesus",
+  "loveLabel": "Liipe woo nii uf kept",
+  "mythWrong": "Was fiil mayne",
+  "mythRight": "Ti Woerheet",
+  "more": "Mee leese",
+  "version": "(NTHunsrik)"
+ },
+ "labels": {
+  "start": "Aanfang",
+  "thread": "Ti Keschicht",
+  "gospel": "Es Ewankeelium",
+  "about": "Iwer ti Sayt"
+ },
+ "s": {
+  "ui.share": "↗ Teele",
+  "ui.toast": "Te Link is kopiirt 📋",
+  "ui.footer": "Ti Piipel in eene Rol · Ti Piipel-tsitate sin aus em NTHunsrik",
+  "hero.kicker": "FON TE XËPFUNG PIS AN TI KEMEEN",
+  "hero.title": "Ti Piipel,<br><span class=\"em\">in eene Rol</span>",
+  "hero.sub": "In eene Rol finst tuu ti kroose Keschicht fon te Piipel — un fer was Yeesus khom is.",
+  "hero.cue": "Runer rolle<span>↓</span>",
+  "thread.eyebrow": "EEN SATS WOO ALES TSAME PINT",
+  "thread.h2": "Am End is ti Piipel ee eensiche Keschicht",
+  "thread.flow": "<b>Ferxprechung</b><span class=\"arw\">→</span><b>Waarte</b><span class=\"arw\">→</span><b>Erfilung</b>",
+  "thread.note": "Hërkot <b>ferxpricht</b> (te Pund), ti Layt <b>waarte</b> en lange tsayt, un am End wërt ales <b>erfilt</b> un komplët in Yeesus. Foljer ti 13 Sëne tort une in tee Flus — khlick uf <b>«Mee leese»</b> uf yete Khaart fer ti tiifere Keschicht tsu sëhn.",
+  "gospel.eyebrow": "WAS TII KESCHICHT FER «MICH» peteyt",
+  "gospel.h2": "Es richtiche Hërts fon te Piipel",
+  "gospel.lead": "Ti Piipel is <b>khee lerpuch iwer «en kute mënx sin».</b>",
+  "gospel.sublead": "Es is ti Keschicht fon wii Hërkot, <b>ploos torich knaate</b>, sinter keret hot woo sich seler nii rete khënnte. In te mit fon ales xteet Yeesus Kristus.",
+  "gospel.mirror": "<h3>Israel sayn end-loose ring is wërklich en pilt fon «mich»</h3><div class=\"cycle\"><b>Apkëtterye</b><span class=\"a\">→</span><b>Layre</b><span class=\"a\">→</span><b>Um hëlf rufe</b><span class=\"a\">→</span><b>Hërkot rete</b><span class=\"a\">→</span><b>Wirer apkëtterye…</b></div><p>Fon te Richter pis an ti Ferxlepung macht Israel tee ring imer wirer. Ti Piipel hot es net uf kexrip tas meyer lache khënne: «Wii erm tii waare.»</p><p>Es is en <b>xpiichel</b>. Es keet net um «Israel hot tas kemach», awer um <b>«ich tuun tas selwiche»</b> (1Korintios 10:11).</p><p>En <b>apkot</b> is net ploos en kextnitse figuur. Es is <b>ales was meyer mee liip hon ore mee uf fertraue als uf Hërkot</b> — kelt, erfolch, lop, layt, sokaar ich seler. Un Hërkot praucha als en <b>werktsayk fer tas tsu kriin was ich wil</b>, is aach apkëtterye.</p><p class=\"punch\">Am End is te tiifste apkot «ich seler, woo uf Hërkot sayn troon sitse tuun».</p>",
+  "gospel.coreIntro": "Wii ret Hërkot tan so en sinter? Tuu is es Hërts fon te Ewankeelium woo ti Piipel ferkinnicht.",
+  "gospel.crux": "<p class=\"crux-lead\">Ti kanse Piipel tsaycht uf een plats.</p><p>Ti layt khënnte te ring fon sinte net seler preche, un nimant waar richtich. So muste yemant <b>te prays uf eyer plats tsaale</b>.</p><p>Yeesus is net ploos khom fer kute lëre tsu kewe. Wayl es khee aner weech kep hot fer mich tsu rete, <b>kep es fer iim khee aner weech als khome.</b></p><p class=\"crux-punch\">Tee woo uf tëm krayts hënge muste, waar <b>ich</b>.<br>Yeesus hot <b>mayn sinte</b> ketraan un is tort an kenoom kep uf mayn plats.</p><div class=\"crux-verse\">«Te aychne Kristus hot unsere sinte mit kenom an sayne khërwer uf em krayts tas meyer fer ti sinte xtërwe teere un en richtich leewe teere leewe. Torich tëm sayn weye sayt teyer kuriert kep.» — 1Pheeter 2:24</div>",
+  "faq.h": "Plaakt aych noch ëpes?",
+  "faq.q1": "<span class=\"arr\">▸</span> So muss en mërter ploos klaape un keet in te himel, awer en mënx woo sayn kans leewe kut waar awer net klaapt, keet in ti hël?",
+  "faq.a1": "<p>Es is en richtiche frooch. Awer tswee mis-ferxtëntnis sin tort un fersteckt.</p><p><b>① Ti Piipel teelt ti layt net in «kut un xlecht».</b> Es maas is net «pëser wii te nochper», awer «Hërkot sayn perfëkte hayl». Foer iim is nimant «kut kenuch» (Reemer 3:23). So is es net «en kute mënx kéheche en mërter», awer mee wii tswee layt mit te selwiche tëttliche khrankheet — eener nemt ti meditsiin, te aner saat nee un mayt: «Ich sin kesinter wii tee.»</p><p><b>② Ploos ee sach teelt himel un hël.</b> Net en xkoor fon te tate, awer <b>op tuu Yeesus Kristus als Hër uf kenom host un ob tayn sinte-prowleem keleest is.</b> Tee woo sayn sinte torich Kristus sayn pluut keleest is, keet in te himel; tee woo iim nii uf nemt, woo sayn sinte playpt, keet net. Khee menge fon kute tate khan tas sinte-prowleem seler leese.</p><p>So sin himel un hël net en «prays fer kute fiirung», awer en sach fon <b>te ferhëltnis mit Kristus</b>. Un «klaape» is net ferxtant mit em khop, awer en ënerung fon weyer tayn leewe fiert — tee woo iim wërklich uf nemt wërt net xtols, awer royert sich am tiifste. Wërklich, sich seler richtich saan («ich sin en kute mënx») is te xwerste apkot tsu preche, kraat tee woo uns mayne mayt tas meyer Kristus net praiche (Lukas 18:9-14).</p><p>Ti Piipel saat es kloor: <b>«Yeete ëne woo am Soon klaapt kept net konteneert; awer weyer net klaapt is xon konteneert»</b> (Yohan 3:18). Es uurteel is net «tayn leewe wëre nooch em toot», awer es is xon kextimt torich <b>op tuu Kristus uf kenom host</b>.</p><p class=\"faq-v\">Reemer 3:23 · Yohan 3:18 · Efësius 2:8-9 · Lukas 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Khan ich net ploos en kut leewe leewe, one an Yeesus tsu klaape?",
+  "faq.a2": "<p>Es is te miist kemeene tank, awer es ferxteet net richtich was es wërkliche prowleem is. Tuu is en pilt.</p><p><b>Saan meyer tuu pist uf en piraate-xif.</b> Eekaal wii sauwer tuu es tëk hëlst, wii lip tuu mit ti khruu pist, wii muster tayn leewe is — tuu pist noch en <b>piraat</b>, wayl es xif tich mit nemt tort woo es hin keet (te haafe fon es uurteel). Es prowleem is net en «xkoor fon te tate», awer <b>«tsu welich xif tuu kheerst» (tayn identiteet)</b>.</p><p>So saat es Ewankeelium net «xtrëng tich mee aan fer kut tsu sin», awer <b>«wëksel es xif».</b> Kee runer fon em sinte-xif un keh iwer tsu Yeesus — in ti naye identiteet fon en <b>khint fon Hërkot</b>. Tas is net tayn xkoor heecher mache mit aanxtrëngung, awer fertraue uf tee woo sayn hant aus xtrëkt un iwer keh uf sayn xif.</p><p>Wërklich pexraywt ti Piipel ti retung kraat als so en iwerkang — <b>«Eyer hot uns pefrayt fon te macht fon te tunkelheet un hot uns in sicherheet keprung pis an te Raych fon sayne peliipte Soon»</b> (Kolosenser 1:13).</p><p>Ferxteh es net falx: <b>tas peteyt net tas en kut leewe one wërt is.</b> Kuutheet is net ti «petingung» fon te retung, awer eyer <b>frucht</b>. Tee woo es xif kewekselt hot, leept yets kut net aus angst, awer aus en khint sayn liipe.</p><p class=\"faq-v\">Kolosenser 1:13 · Yohan 1:12 · Yohan 3:3 · Efësius 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Wën en tëter sich frillich fiilt un saat «Hërkot hot meyer fertsiit», awer es opfer noch layt — is ti knaate net tsu pillich?",
+  "faq.a3": "<p>Ti frooch is richtich, un te xmërts is woer. Awer so en saan is net «ti Piipel sayn fertsayung» — es is en <b>fertreyung</b> tafon.</p><p><b>① Hërkot sayn fertsayung is nii pillich.</b> Sinte wërt net unich te tëpich kefeecht als wën es nii pasiirt wëre; Hërkot seler hot te prays tsaalt mit sayn aychne Soon sayn leewe. Es krayts is net en peways tas sinte layxt kenom wërt, awer tas sinte so xwer is — ti tayerste fertsayung in te welt.</p><p><b>② Richtiche royung praycht frucht.</b> Wën en tëter xtols is foer es opfer — «Hërkot hot meyer fertsiit, so sin ich frillich» —, tas is net royung, awer en imitatsioon tafon (Mateus 3:8). Un fertsayung tswixich en mënx un Hërkot lëxt es opfer sayn wune net aus un tswingt es opfer net tsu fertsaye.</p><p><b>③ Sinte wërt nii ploos «foer pay kelos».</b> Yete sinte wërt tsaalt an een fon tswee plets — <b>ore Kristus tracht es uf em krayts</b> (fer tii woo iim fertraue is khee uurteel mee, Reemer 8:1), <b>ore tee woo iim am End ferweycht tracht es seler.</b> So kept es khee «pillich fertsayung». Te tëter tracht aach in tee welt en rechtliche feranthwortung (Reemer 13:1-4).</p><p><b>④ Es opfer sayn treene sin foer Hërkot nii khlee.</b> Hërkot wend mit tii woo wene, kept ti erinerung an yete treen, un wërt se am End seler trokne (Apokalipse 21:4). So muss es opfer ti last fon ti rache net allee tsaale, awer khan se em richtiche Hërkot ferthraue (Reemer 12:19 — «Ich tuun mich rache, ich tuun ti aprechung mache, saat te Hër»).</p><p class=\"faq-v\">Mateus 3:8 · Reemer 8:1 · Reemer 13:1-4 · Apokalipse 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Is ti Piipel wërklich en woere keschicht? Es fiilt sich aan wii en alte myte ore en romaan.",
+  "faq.a4": "<p>Es is en richtiche frooch — un en kute plats fer aanfange. Tswayfel is net es kéheche teel fon te klaawe, awer te wunx fer sache eerlich tsu khëkke. Ti Piipel is net en unkloore myte fer «klaape wën meer lust hat», awer en kexrifte rekort fon <b>woere plets, taate un layt</b>. Ploos en phaar payxpiil.</p><p><b>① Es is net een puch, awer en «pipliotheek» — un toch leeft es uf een tëma.</b> Ti Piipel is en samlung fon <b>66 piicher</b> kexrip iwer ungefeer <b>1500 yoer fon ungefeer 40 xraywer</b> — kheenich, xeefer, fixer, en xtayer-aynemer, en tokter, layt fon ferxiitne xtënt un tsayte, woo apaart un one fonenaner tsu wise kexrip hon, in tray xprooche (heepreyix, aramëyix, kriixix). Un toch khomt ales tsame, one tisorter, uf <b>een tëma: ti retung torich Kristus</b>. Tas is en konsistëns woo xwer is mit tsufal ore mënxliche koordinatsioon tsu erkleere.</p><p><b>② Es wërt imer wirer fon te poote pextëticht (archeoloyii).</b> Fiile sache woo eemool als erfine kenom waare, «ploos in te Piipel tsu fine», sin xpëter torich aus-kraawunge pextëticht kep. Ti <b>tinastii fon Tafit</b> torich en xteen mit «es hauss fon Tafit» tort uf kexrip (te Tel Dan xtee); te <b>Pontius Pilaatus</b>, te kufernoer woo Yeesus aan kenom hot, torich en inxrift mit sayn naame; te kheenich Hiskia sayn wasser-tunël torich te tunël seler un sayn inxrift. Sokaar ti <b>Hetiiter</b>, woo eemool als en «erfine folk» kenant waare, sin als en kroose imperium aus ti ruiine raus khom.</p><p><b>③ Es is es peste pewaarte alte tokumënt (manuxkripte).</b> In ti tsaal fon te pewaarte manuxkripte, eyer iiwereenxtimung mit fonenaner, un te tsayt- unerxiit tswixich es xrayve un ti kopii, is ti Piipel <b>unfersaylich unich te alte tokumënte</b>. Ti foer-khrixtliche Yexaaya-rol unich te <b>Tooter-Meer-rolle</b> (kefune 1947) hot fast puchxtaap fer puchxtaap mit em xtandart-thekst fon ungefeer 1000 yoer xpëter iwereen kep — en peways tas ti Piipel akuraat torich ti yoerhunerte pewaart kep is.</p><p><b>④ Was foer aus kexrip waar, is kraat so pasiirt (profetii).</b> Es Alt Tëstamënt, yoerhunerte foer Yeesus uf kexrip, tsaycht kraat uf sayn keport in Pëtleëm, te layret tiiner un ti umxtënt fon te krayts. Tsu kraat fer es als tsufal ap tsu xraywe.</p><p><b>⑤ Aach hixtooriker aussich te Piipel hon es uf kexrip.</b> Te reemixe hixtooriker <b>Tacitus</b> un te yuutixe hixtooriker <b>Josephus</b> — khee fon tëne en khrixt — peschraywe Yeesus, sayn aan kenome un ti aanfangs-kemeen. Foer ales hon ti yinger, woo aus angst auser-naner kelaaft sin, <b>eyer leewe uf es xpiil kesetst</b> wii se fon ti uf-erxtëhung tsayke kep hon — nimant xtërpt fer was eyer als en liige khent.</p><p>Um eerlich tsu sin, tsayke tii krunte toch tas an ti Piipel klaape <b>net unfernintich is, awer fernintich</b>; se sin net en «peways» woo tswingt wii en mata-formel. So khomt en khrixt sayn sicherheet net ploos fon pewayse, awer fon <b>ti iwertsayung woo te Hayliche Kayst em hërts kept wën meer es Wort leese tuut</b>. Ti Piipel saat: <b>«Te klaawe khomt torich ti mensaaj am aan heere, un ti mensaaj khomt torich tas aan saan iwer Yeesus Kristus»</b> (Reemer 10:17). So, eekaal wii fiil es sich wii fiktsioon aan fiilt, is <b>es seler leese</b> te aanfang. Te peways mayt ti tier uf, un ti sicherheet wëkst in tee woo es leese tuut.</p><p class=\"faq-v\">Reemer 10:17</p>",
+  "respond.h3": "So — was wërt aus mich?",
+  "respond.sub": "Tii liipe is net informatsioon, awer en <b>aynlaadung</b>. Wën ti liipe woo uf tayn plats aan kenoom kep is tayn hërts ketsuit hot, peet tas langsaam, eene linye uf eemool.",
+  "respond.prayer": "<p>Hërkot,</p><p>ich kewe tsu tas ich en sinter sin woo sich seler net rete khan.</p><p>Ich klaape tas Yeesus uf em krayts fer mich kextorep is un wirer uf erxtane is.</p><p>Fertsay mer ale mayne sinte, un fon yets aan say te Hër fon mayn leewe.</p><p>Nem mich uf als tayn khint, un los mich en nay leewe leewe.</p><p class=\"amen\">In Yeesus sayn naame peet ich. Aamen.</p>",
+  "respond.after": "Wën tuu tas eerlich kepeet host, saat ti Piipel tas tuu en <b>khint fon Hërkot</b> kep pist. Tuu pist net mee allee — finn en kemeen tort in te neye un keh te weech fon te klaawe tsame mit anere.",
+  "respond.read": "Leese ti Piipel seler — fang aan mit Yohan",
+  "respond.verse": "«Awer phaar hon an em keklaapt un hon em uf kenom, un fer tii hot eyer ti recht kep fer Kot sayn khiner sin.» — Yohan 1:12 · Reemer 10:9-10",
+  "closing.main": "Een Hërkot,<br>torich een keschicht,<br>khomt uns nooch mit en <em>liipe</em><br>woo nii uf kept.",
+  "closing.verse": "«Net te toot, net es leewe… net mool anere sache in es kanse Uniwërs khan uns ap teele fon Hërkot sayne liipe, woo unser is torich Yeesus Kristus, unser Hër.» — Reemer 8:38-39",
+  "closing.small": "An tii keschicht kewe es Kesets, ti tichtunge, ti Profëte un ti priife es «flayx».<br>Fon yets aan, eekaal welich puch tuu uf mayst, kuckst tuu woo in te keschicht tuu pist.",
+  "closing.share": "↗ Teel tii keschicht",
+  "about.line": "Pasiirt uf ti erleesungs-hixtoorixe uf-fasung woo ti meerste fon te khoreaanixe protestaantixe khërich teele (ewankeelix · reformiirt).",
+  "about.contact": "Frooche · feetpëk — <a id=\"contact\" class=\"mail\">Xrayp uns</a>",
+  "partial.note": "Uf Hunsrik wërt tuu ploos es Nay Tëstamënt tsitiirt; leese ti kanse keschicht aus em Nay Tëstamënt."
+ },
+ "epochs": [
+  {
+   "tag": "ALT TËSTAMËNT · AANFANG",
+   "title": "Ti Xëpfung",
+   "date": "Im aanfang",
+   "one": "Hërkot hot en welt kemach woo «seer kut» waar.",
+   "people": "Hërkot; Aatam un Eefa",
+   "events": "Sëks taae fon te xëpfung, te mënx kemach noo Hërkot sayn pilt, ti ru fon te ruhe-taach",
+   "q": "Im aanfang hot Hërkot te himel un ti ëert kemach.",
+   "cite": "",
+   "christ": "Ti welt is torich es «Wort» kemach. Es Ewankeelium fon Yohan ferkinnicht tas tas Wort Yeesus seler is (Yohan 1:1-3).",
+   "detail": "<p>Ti Piipel fangt net aan mit en filosoofixe arkumënt, awer mit en ferkinnichung: <b>«Im aanfang hot Hërkot…»</b> Ti welt is khee tsufal, awer es werk fon en persëenliche Hërkot.</p><ul><li><b>Es pilt fon Hërkot</b> · fon ale kexëpte is ploos te mënx kemach um Hërkot ëhnlich tsu sin — fer iim tsu khenne un ti welt tsu fersorche.</li><li><b>Ru</b> · ti ru fon te siwete taach tsaycht ales komplët un in friite (xaloom): «es waar kut».</li><li><b>Eete</b> · ti welt foer es kepreche kep is, woo Hërkot un ti layt tsame keehn.</li></ul>",
+   "next": "Awer tii kanseheet is am preche…"
+  },
+  {
+   "tag": "ALT TËSTAMËNT · ES PROWLEEM FANGT AAN",
+   "title": "Te Sintefal",
+   "date": "Im aanfang",
+   "one": "Sinte is rin khom, un ti ferpintung tswixich te mënx un Hërkot is fer prochen.",
+   "people": "Aatam un Eefa; ti xlang (Satan)",
+   "events": "Ti ferpoote frucht esse, ti ferxtoosung aus Eete, te aankong fon toot un layt",
+   "q": "Hërkot setst fayntxaft tswixich ti xlang un ti fraa, un te soome fon te fraa precht te xlang sayn khop.",
+   "cite": "",
+   "christ": "Ti eerste ferxprechung fon es Ewankeelium, kep kraat nooch em Sintefal: te «soome fon te fraa» precht te xlang sayn khop — un tas is Yeesus (Reemer 16:20; Kalatas 4:4).",
+   "detail": "<p>Torich ti unkehorsamkheet woo «wii Hërkot sin» wolt, khomt sinte in ti welt. Es resultaat is net ploos en kepreche reekel, awer en <b>kepreche ferhëltnis</b>.</p><ul><li><b>Kepreche ferpintunge</b> · mit Hërkot (fersteck), mit fonenaner (xult), mit ti natuur (tisle un layt).</li><li><b>Toot</b> · ti warnung «tuu must xtërwe» wërt woer.</li><li>Un toch khomt mite in es uurteel tsu eerxt ti ferxprechung fon ti retung. Kelërte nene tas <b>protoewankeelium (es eerste Ewankeelium)</b>.</li></ul>",
+   "next": "Yets ruft Hërkot een man fer ti retung aan tsu fange…"
+  },
+  {
+   "tag": "ALT TËSTAMËNT · TI FERXPRECHUNG",
+   "title": "Ti Foerfater",
+   "date": "ca. 2000 f.Chr.",
+   "one": "Hërkot ferxpricht Aapraham: «Tuu wërst en khanaal fon seeche.»",
+   "people": "Aapraham · Iisaak · Yaakop · Yoosef",
+   "events": "Es Aapraham-Pund, ti uf-opferung fon Iisaak, Yaakop sayn tswëlf seen, Yoosef xteycht uf an macht in Eyipte",
+   "q": "Hërkot ferxpricht aus Aapraham en kroose folk tsu mache, un in iim wëre ale famiilye fon ti ëert keseecht.",
+   "cite": "",
+   "christ": "Ti ferxprechung tas «ale fëlker keseecht wëre» wërt erfilt in Yeesus, te soome fon Aapraham (Kalatas 3:16).",
+   "detail": "<p>Hërkot fangt aan es prowleem fon ti kans mënxheet aan tsu kehn, in tëm eyer een man, <b>Aapraham</b>, ruft. Es hërts tafon is es <b>Pund (ti ferxprechung)</b> — en kroose folk, en lant, un «seeche fer ale fëlker».</p><ul><li><b>Klaawe</b> · Aapraham hot an ti unsiichtbaare ferxprechung keklaapt, un es waar iim als richtichkheet kerechent.</li><li><b>Iisaak un Yaakop</b> · ti ferxprechung keet wayter; Yaakop (Israel) tsuit ti tswëlf xtëme uf.</li><li><b>Yoosef</b> · fon sayne priiter ferkaaft, un toch an macht keprung — Hërkot hot es tsu kut kewent.</li></ul>",
+   "next": "Yoosef nooch keet ti famiilye runer noo Eyipte — un wërt fersklaaft…"
+  },
+  {
+   "tag": "ALT TËSTAMËNT · ERLEESUNG",
+   "title": "Aus-tsuch un Wiiste",
+   "date": "ca. 1446 f.Chr.",
+   "one": "Hërkot hot en fersklaafte folk keret un se als sayn aychne kemach.",
+   "people": "Mooses, Aharon, te Faraao",
+   "events": "Ti tsehn ploose, es Pësach, te iwer-kang torich es Root Meer, ti tsehn kepoote uf em Sinai, es tsëlt, 40 yoer in ti wiiste",
+   "q": "Hërkot ferxpricht se als sayn folk tsu neme un eyer Hërkot tsu sin.",
+   "cite": "",
+   "christ": "Es Pësach — woo en lam sayn pluut te toot wek kewent hot — tsaycht uf Yeesus, «unser Pësach-lam», woo fer uns aan kenoom kep is (1Korintios 5:7).",
+   "detail": "<p>Ti kreeste retung fon es Alt Tëstamënt. Es eemool fersklaafte Israel wërt fray kemach torich Hërkot sayn macht un kefoormt als sayn <b>folk</b>.</p><ul><li><b>Es Pësach</b> · es hauss kemarkiirt mit es lam sayn pluut wërt fom toot ferpay kelos — es pilt hiner yete xpëtere opferung.</li><li><b>Es Root Meer</b> · retung tort woo te weech aus keet; te «iwer-kang» wërt es simpool fon en naye aanfang.</li><li><b>Es Sinai-Pund</b> · torich ti kepoote lërne se wii als Hërkot sayn folk tsu leewe.</li><li><b>Es tsëlt</b> · en pewekliche hayliche plats woo Hërkot tswixich sayn folk wont — en foer-xmak fon «Imanuel».</li><li><b>40 yoer</b> · ti unkehorsamkheet lëxt en kenerasioon in ti wiiste rum-keehn, un toch playpt Hërkot ticht mit es mana un te wolke- un fayer-saykel.</li></ul>",
+   "next": "An te rant fom ferxproche lant xtehn se un mache sich fertich tsu kehn…"
+  },
+  {
+   "tag": "ALT TËSTAMËNT · ANSITLUNG",
+   "title": "Eerowerung un Richter",
+   "date": "ca. 1400–1050 f.Chr.",
+   "one": "Se hon es lant kriit, awer one kheenich hot yeter kemach was eyer wolt.",
+   "people": "Yosua; Richter wii Kition un Simson; Ruut",
+   "events": "Es fale fon Yericho, ti ansitlung in Khanaan, en wirer-kehnte ring fon sinte–uurteel–retung",
+   "q": "In tee taae kep es khee kheenich in Israel; yeter hot kemach was richtich waar in sayne aychne aue.",
+   "cite": "",
+   "christ": "Aus Ruut eyer linye khomt Tafit, un aus Tafit sayn linye khomt Yeesus (Mateus 1). Sokaar in te khaos keet te Messias sayn famiilye-poom wayter.",
+   "detail": "<p>Unich Yosua keehn se in es ferxproche lant, awer nooch ti ansitlung fergese se Hërkot pal. Es puch fon ti Richter is es selwiche muster woo sich wirerholt.</p><ul><li><b>Te runer-kehnte ring</b> · sinte → unertrickung → um hëlf rufe → en richter ret → wirer sinte. Es wërt ploos xlimer.</li><li><b>Ti Richter</b> · Kition, Simson, Tepoora — tsaytweyse reter, helttenhaft awer tiif feeleehrich.</li><li><b>Ruut</b> · en hele keschicht fon traye in en tunkle tsayt; en fremte fraa khomt in ti linye fon Tafit (un Yeesus).</li></ul>",
+   "next": "Es folk ruft: «Kep uns aach en kheenich!»…"
+  },
+  {
+   "tag": "ALT TËSTAMËNT · KOLTNE TSAYT",
+   "title": "Es Fereenichte Raych",
+   "date": "ca. 1050–930 f.Chr.",
+   "one": "Hërkot ferxpricht Tafit: «Tayn troon wërt fer imer playwe.»",
+   "people": "Saul · Tafit · Saalomo",
+   "events": "Te eerxte kheenich Saul, Tafit un Koliat, es Tafit-Pund, Saalomo paut te tëmpel",
+   "q": "Hërkot ferxpricht Tafit tas sayn hauss un sayn raych fer imer playwe wëre, un sayn troon fer imer fest kemach wërt.",
+   "cite": "",
+   "christ": "Te «eewiche troon» wërt erfilt in Yeesus, Tafit sayn soon — toohalp wërt eyer «Tafit sayn Soon» kenant (Lukas 1:32-33; Mateus 1:1).",
+   "detail": "<p>Israel sayn hee-punkt, kerechiirt fon tray kheenich.</p><ul><li><b>Saul</b> · te kheenich woo es folk ferlangt hot; en kute aanfang ferterep torich unkehorsamkheet.</li><li><b>Tafit</b> · «en man noo Hërkot sayn hërts». Eyer kewint Koliat un mayt Yeruusalëm ti haupt-xtat. Eyer macht en kroose sinte (Patxewa), un toch royert sich fon hërts.</li><li><b>Es Tafit-Pund</b> · Hërkot ferxpricht ti Tafit-tinastii fer imer fest tsu mache — ti entxaytene wurtsel fon ti Messias-hofnung.</li><li><b>Saalomo</b> · uf em hee-punkt fon waysheet un raychtum paut eyer te <b>tëmpel</b>, awer am End fon sayn leewe kheert sich tsu ti apket.</li></ul>",
+   "next": "Nooch Saalomo teelt sich es raych in tswee…"
+  },
+  {
+   "tag": "ALT TËSTAMËNT · APXTYK",
+   "title": "Es Keteelte Raych",
+   "date": "930–586 f.Chr.",
+   "one": "Keteelt in te siit (Yuuta) un te noort (Israel), te folk rutxt in ti ruiine.",
+   "people": "Ti kheenich fon paate raych; Profëte wii Eelia, Yexaaya, Yeremia",
+   "events": "Es raych teelt sich, apkëtterye xpreet sich, ti Profëte warne",
+   "q": "So is Israel keeche es hauss fon Tafit am uf-xtant pis an tee taach.",
+   "cite": "",
+   "christ": "In tii tsayt ferkinniche ti Profëte te khomente Messias imer kloorer foraus.",
+   "detail": "<p>In te taae fon Saalomo sayn soon teelt sich es folk: <b>es noort-raych Israel</b> (10 xtëme, haupt-xtat Samaria) un <b>es siit-raych Yuuta</b> (2 xtëme, haupt-xtat Yeruusalëm).</p><ul><li><b>Israel (noort)</b> · yeter kheenich tiint apket; es fait an ti Asiirer im yoer 722 f.Chr.</li><li><b>Yuuta (siit)</b> · Tafit sayn linye keet wayter, mit en phaar kute kheenich wii Hiskia un Yosia, awer iiwerhaupt keet es runer.</li><li><b>Ti Profëte</b> · Eelia, Aamos, Yexaaya, Yeremia rufe: «khomt tsurik!» Ti Messias-profetii kheet hii an eyer raychste punkt (te layret tiiner).</li></ul>",
+   "next": "Am End khomt es kewarnte uurteel — se wëre in ti ferxlepung kefiert…"
+  },
+  {
+   "tag": "ALT TËSTAMËNT · UURTEEL",
+   "title": "Ti Ferxlepung",
+   "date": "722 / 586 f.Chr.",
+   "one": "Es folk fait tsame un wërt in fremte lënter kefiert.",
+   "people": "Taniel, Heesekiel, Nepukatnetsar",
+   "events": "Israel fait an ti Asiirer (722), Yuuta fait an ti Papilonier un te tëmpel wërt tsextert (586)",
+   "q": "An te flise fon Papilon, tort hon meyer kesetst un kewent, wii meyer an Tsion ketenkt hon.",
+   "cite": "",
+   "christ": "In ti tiife fon te fertswaylung ferxpricht Yeremia en «nay Pund» — kraat tas Pund woo Yeesus am letste aap-esse pesiekelt.",
+   "detail": "<p>Ti warnunge wëre woer. Te tëmpel prent un es folk wërt noo Papilon kefiert — ferliire es lant, te kheenich un te tëmpel: te alerniitrichste punkt.</p><ul><li><b>Tswee fale</b> · Israel (Asiirer, 722 f.Chr.) un Yuuta (Papilonier, 586 f.Chr.).</li><li><b>Taniel</b> · en pilt fon klaawe sokaar in en haytnixe hof (ti leewe-kruup); eyer kuckt fisioone fon en khomtes «eewiches raych».</li><li><b>En funke fon hofnung</b> · Heesekiel sayn fisioon fon trokne pheener woo leewich wëre un Yeremia sayn «nay Pund» tsayche uf en tsukunft in ti tunkelheet.</li></ul>",
+   "next": "Siwetsich yoer xpëter mayt Hërkot te weech uf — se keehn hee…"
+  },
+  {
+   "tag": "ALT TËSTAMËNT · WIRER-HER-XTELUNG",
+   "title": "Ti Tsurik-khunft",
+   "date": "538–430 f.Chr.",
+   "one": "Se khome tsurik un paue te tëmpel un ti maue wirer uf.",
+   "people": "Estra, Nehemia, Eester, Serupaapel",
+   "events": "Ti tsurik-khunft uf Siires sayn pefeel, te wirer-uf-pau fon te tëmpel, ti wirer-her-xtelung fon Yeruusalëm sayn maue, ti wirer-her-xtelung fon es Wort",
+   "q": "Ti frayte fon te Hër is ayer xtërke.",
+   "cite": "",
+   "christ": "Malachii, es letste puch fon es Alt Tëstamënt, hërt uf mit en profetii fon en pootxafter woo te Messias sayn weech fertich macht: «Ich xikke mayn pootxafter».",
+   "detail": "<p>Uf te persixe kheenich Siires sayn pefeel (538 f.Chr.) fangt ti tsurik-khunft aan. In tray welle khome se tsurik un paue uf was in ruiine waar.</p><ul><li><b>Serupaapel</b> · paut te tëmpel wirer uf (fertich 516 f.Chr.).</li><li><b>Estra</b> · lërt wirer es Wort un weckt te klaawe uf.</li><li><b>Nehemia</b> · paut Yeruusalëm sayn maue wirer uf in 52 taach.</li><li><b>Eester</b> · ret ti yuute in Persia fon te unerkang — «kraat fer so en tsayt».</li><li><b>Noch am ferlange</b> · te tëmpel xteet, awer es kept khee kheenich wii Tafit. Es folk waart uf te Messias.</li></ul>",
+   "next": "Un too… als wën te himel xtil kep wëre, keehn 400 yoer ferpay."
+  },
+  {
+   "tag": "TSWIXICH TI TËSTAMËNTE · TI piine fertich mache",
+   "title": "Ti Xtile Yoer",
+   "date": "ca. 430–4 f.Chr.",
+   "one": "400 yoer one en profeet sayn xtim — un toch is ti piine xtil fertich kemach kep.",
+   "people": "Aleksander te Krooser, ti Makapëyer, Roma",
+   "events": "Persia → Kriechelant → ti makapëyixe unaphëngichkheet → ti reemixe hërxaft",
+   "q": "Awer, wan ti richtich tsayt khom waar, hot Hërkot sayne aychne Soon kexikt, woo khom is als soon fon en mënxlich moter un hot unich te kesets keleept",
+   "cite": "Kalatas 4:4",
+   "christ": "Tii kanse «piine fertich mache» waar Hërkot am werke tas Yeesus kraat an «ti richtich tsayt» khome teet.",
+   "detail": "<p>Fon Malachii pis an es Nay Tëstamënt keehn ungefeer 400 yoer ferpay one en naye Hayliche Xrifte. Un toch hot Hërkot hiner ti keschicht te weech fer es Ewankeelium fertich kemach.</p><ul><li><b>Ti raych wëksle ti hënt</b> · Persia → Kriechelant (Aleksander, 333 f.Chr.) → ti Ptoleméer un Seleukiter → ti makapëyixe uf-xtant (167 f.Chr.) → Roma (63 f.Chr.).</li><li><b>Kriixix</b> · Aleksander sayn eerowerunge mache aus Kriixix ti kemeenxprooch; es Alt Tëstamënt wërt uf Kriixix iwersetst (ti Septuaginta), un macht so te weech fer es Ewankeelium xnel tsu xpreete.</li><li><b>Reemixe xtroose un friite</b> · kut kepaute xtroose un ti «Pax Romana» wëre ti hauptxtroose fer ti misioon.</li><li><b>Sinagooge un kruppe</b> · ti sinagoog-lëre wurtselt sich; ti Farisëyer un Satusëyer xtehn uf; un es <b>ferlange noo te Messias</b> rayft.</li></ul>",
+   "next": "Too precht ti xtile — am End khomt eyer."
+  },
+  {
+   "tag": "NAY TËSTAMËNT · ERFILUNG",
+   "title": "Yeesus Khomt",
+   "date": "ca. 4 f.Chr.–30 n.Chr.",
+   "one": "Te ferxproche Messias is khom, kextorep un wirer uf erxtane.",
+   "people": "Yeesus, ti tswëlf yinger, Yohan te Tayfer",
+   "events": "Ti mënx-wertung, sayn tiinst un lëre un wuner, te toot uf em krayts, ti uf-erxtëhung am tritte taach",
+   "q": "Tas Wort hot sich mënx kemach un hot tswixich uns keleept, fol liipe un woerheet. Un sayn kloor is uns ketsaycht kep waar, kloor woo eyer kriit hot fom Fater als sayne eensichste Soon.",
+   "cite": "Yohan 1:14",
+   "christ": "Te soome fon te fraa (Sëne 2), ti seeche fon Aapraham (3), es Pësach-lam (4), Tafit sayn eewiche kheenich (6), es nay Pund (8) — ales erfilt in een man, Yeesus: unser woere Profeet, Priister un Kheenich.",
+   "detail": "<p>Ti xtile precht; te Ferxprochene khomt. Ti fiir Ewankeelye tsaycke fon Yeesus sayn leewe, toot un uf-erxtëhung aus fiir eke.</p><ul><li><b>Ti mënx-wertung</b> · Hërkot wërt mënx (Imanuel, «Hërkot mit uns»), in te niitriche plats fon Pëtleëm.</li><li><b>Tiinst</b> · eyer lërt es Raych fon Hërkot, heelt ti khranke, ruft ti sinter. «Weyer mich kesiit hot, hot te Fater kesiit.»</li><li><b>Es krayts</b> · eyer tsaalt te prays fon ti sinte un te toot woo te Sintefal (Sëne 2) ketraat hot. Es woere Pësach-lam.</li><li><b>Ti uf-erxtëhung</b> · am tritte taach uf erxtehnt, precht eyer ti macht fon sinte, toot un Satan — xon uf em krayts hot eyer «sich pefrayt fon te macht fon te rechiirunge un fon te kaystliche autoriteete … un hot iwer se triunfiirt» (Kolosenser 2:15).</li></ul><p>So is Yeesus unser <b>woere Profeet</b> (tsaycht te weech tsu Hërkot), unser <b>woere Priister</b> (lëst ti sinte aus mit sayne aychne khërwer) un unser <b>woere Kheenich</b> (kewint sinte, toot un Satan un rechiirt fer imer).</p>",
+   "next": "Te uf-erxtane Yeesus xikt sayne yinger in ti welt…"
+  },
+  {
+   "tag": "NAY TËSTAMËNT · AUS-PRAYTUNG",
+   "title": "Ti Kemeen Fangt aan",
+   "date": "ca. 30 n.Chr.–",
+   "one": "Te Kayst khomt, un es Ewankeelium xpreet sich pis an ti enter fon ti ëert.",
+   "people": "Pheeter, Paulus, ti aanfangs-kemeen",
+   "events": "Te Kayst aus-kexit am Pingxte, ti kemeen wërt keport, es Ewankeelium xpreet sich fon Yeruusalëm pis an Roma torich ferfolchung",
+   "q": "Awer, wën te Hayliche Kayst iwer aych runer khomt, kriit teyer macht un wërt mayn tsayer in Yeruusalëm, in te kans Yutëya un Samariia un sokaar uf te wayteste plets fon te welt.",
+   "cite": "Akte 1:8",
+   "christ": "Tii keschicht keet noch imer wayter. Ti Piipel hërt uf mit ti ferxprechung tas Yeesus wirer khomt un ales nay macht (Apokalipse 21).",
+   "detail": "<p>Nooch Yeesus uf em himel keet, khomt te ferxprochene Kayst am Pingxte un ti kemeen wërt keport. Es Ewankeelium xpreet sich eksplosiif.</p><ul><li><b>Pingxte</b> · te Kayst macht aus angsthafte yinger muutiche tsayer.</li><li><b>Pheeter</b> · ferkinnicht es Ewankeelium fer ti yuute in Yeruusalëm.</li><li><b>Paulus</b> · fon ferfolcher tsu apostel, paut kemeene iwer ti haytnixe welt un xrayft ti priife.</li><li><b>Pis an ti enter fon ti ëert</b> · Yeruusalëm → Yutëya → Samariia → Roma. Ti ferxprechung an Aapraham fon «ale fëlker» wërt woer.</li><li><b>Un meyer</b> · ti keschicht hërt net uf; se trickt wayter tsu Yeesus sayn tsurik-khunft un te nay himel un ti nay ëert.</li></ul>",
+   "next": "Awer ti keschicht hërt net hii uf…"
+  },
+  {
+   "tag": "NAY TËSTAMËNT · KOMPLËTHEET",
+   "title": "Ti Wirer-her-xtelung",
+   "date": "Noch tsu khome",
+   "one": "Yeesus khomt wirer un macht ales nay.",
+   "people": "Te tsurik-khomte Yeesus; ale fëlker",
+   "events": "Ti tswaayte khunft, es letste uurteel, es End fon sinte·toot·treene, en nay himel un en nay ëert",
+   "q": "Tee wërt fon sayn aue ale treene trokne. Wërt khee toot mee kewe, net mool traurichkheet, khee prile, net mool phayn. Tas alt tings is xon rom.",
+   "cite": "Apokalipse 21:4",
+   "christ": "Es Eete fon ti eerxte xëpfung wërt am End wirer her-kextelt als es «nay Yeruusalëm». Hërkot wont fer imer mit sayn folk — ti kompletheet fon Imanuel (Apokalipse 21:3; Mateus 1:23).",
+   "detail": "<p>Ti Piipel hërt net uf mit ti kemeen-tsayt. Eyer letste puch, ti Apokalipse, tsaycht Yeesus <b>wirer khome</b> um ales tsu komplete.</p><ul><li><b>Ti tswaayte khunft</b> · te ferxprochene Kheenich khomt tsurik in herlichkheet.</li><li><b>Te letste sik</b> · Satan un toot wëre fer imer kewunt, un Kristus rechiirt als Kheenich fon ti kheenich (1Korintios 15:25-26; Apokalipse 20:10).</li><li><b>Uurteel un uf-erxtëhung</b> · yete unrecht wërt richtich kemach, un ti toote wëre uf keweckt.</li><li><b>En nay himel un en nay ëert</b> · sinte, toot, treene un phayn ferxwine fer imer (Apokalipse 21:4).</li><li><b>Es wirer-her-kextelte Eete</b> · in en «nay Yeruusalëm» woo pëser is wii te aanfang, wont Hërkot fer imer mit sayn folk — es tsiil woo ti kanse Piipel hin keet.</li></ul><p>So is yets ti tsayt fon <b>«xon, awer noch net»</b>: in Yeesus is ti retung <b>xon</b> kemach, awer eyer kompletheet wërt <b>noch</b> kewaart.</p>",
+   "next": "Was peteyt tan tii kanse keschicht fer «mich»?"
+  }
+ ],
+ "love": [
+  "Ti keschicht fangt net mit uurteel aan, awer mit ti xëpfung aus liipe aus keros.",
+  "Te moment woo ti layt kesinticht hon, hot Hërkot kraat tort ti retung ferxproche.",
+  "Hërkot is tsu eerxt tsu en man khom woo es net ferdiint hot, hot iim am naame keruuft un aus iim en khanaal fon seeche kemach.",
+  "Eyer hot es xtëne fon en fersklaafte folk keheert un is seler runer khom fer se tsu rete.",
+  "Imer wirer feraate, un toch hot eyer yete mool woo se kerufe hon en reter kexikt un se uf keho.",
+  "Eyer hot sokaar te kefaalne Tafit net fer-xtoose un hot torich iim en eewiche Kheenich ferxproche.",
+  "Tsu en folk woo te ruke kekheert hot, hot eyer imer wirer Profëte kexikt un kepeet: «Khom toch hee.»",
+  "Eyer is mit se sokaar in es alerniitrichste lant fon ti ferxlepung kekang un hot ti wirer-her-xtelung ferxproche.",
+  "Sokaar tsu en folk woo imer wirer ferfeelt hot, hot eyer sayn ferxprechung net tsurik kenom.",
+  "Sokaar torich 400 xtile yoer, unsiichtbaar, hot eyer te weech fon ti retung fertich kemach.",
+  "Wii meyer noch sinter waare, hot eyer sayne Soon kexikt fer sayn aychne leewe aap tsu kewe.",
+  "Ti liipe woo meyer kriit hon, lëxt eyer yets fliise iwer ti kanse welt.",
+  "Am End wërt eyer yete treen aap-trokne un ales nay mache in liipe."
+ ],
+ "mis": [
+  {
+   "w": "«Fer was hot Hërkot layt kemach woo sintiche khënnte? Wëre es net pëser kewest uns kaar net tsu mache?»",
+   "t": "Hërkot hot ti welt un ti layt net aus en mangel kemach, awer aus iwer-fliisente liipe. Layt tsu mache als <b>persoone woo sich mit Hërkot ferpine</b>, is seler liipe. Un sokaar es rin-khome fon sinte waar net auser Hërkot sayn retungs-plaan (Efësius 1:4-5). Ti eerxte Sëne fon ti Piipel is net uurteel, awer liipe."
+  },
+  {
+   "w": "«Fer-xtoose un te toot kep ploos fer een frucht esse — is Hërkot net tsu hart?»",
+   "t": "Aus Eete kexikt tsu sin waar paates uurteel un parmhërtsichkheet. Fom poom fon es leewe esse un fer imer in tee kepreche, fon Hërkot keteelte tsuxtant tsu leewe, teet peteyte fer imer in es layre kefangen tsu sin. Te toot tsu lasse hot te weech tsurik uf kemach, un kraat tort hot Hërkot en Reter ferxproche. Liipe waar xon mite in es uurteel."
+  },
+  {
+   "w": "«Aapraham waar aus kewëlt wayl eyer kroose klaawe hat — sin net ale Piipel-figuure moraalixe helte?»",
+   "t": "Aapraham hot keloon un ketswayfelt; Yaakop waar en peetriicher. Hërkot hot net «kwalifitsiirte» layt kerufe, awer feeleehriche, aus knaate. Te krunt waar net eyer kuutheet, awer Hërkot sayn traye liipe."
+  },
+  {
+   "w": "«Is es Kesets (ti kepoote) net en eksaame woo meer pestehn muss um keret tsu wëre?»",
+   "t": "Hërkot hot se keret <b>foer</b> eyer es Kesets kep hot. Sokaar ti tsehn kepoote fange aan mit en ferkinnichung fon ti retung: «Ich sin te Hër, tayn Hërkot, woo tich aus Eyipte aus kefiert hot.» Es Kesets is net «hal es um keret tsu wëre», awer en liipe-fole aanwaysung wii en xon kerete folk leewe sol. Knaate khomt imer tsu eerxt; te kehorsam is ti antwort."
+  },
+  {
+   "w": "«Ti eerowerung fon Khanaan waar en parmhërtsich-loose mort — so is te Hërkot fon es Alt Tëstamënt wërklich kraussam.»",
+   "t": "Tas is en xwere tëma woo meer net in een sats leese khan. Awer ti Piipel xtelt es net als tsufëliche kewalt foer, awer als en uurteel nooch yoerhunerte fon ketult keeche ekstreeme peesheet (mit khiner-opferung tort tswixich). Hërkot is langsaam sokaar tsu uurteele, un eyer hot frillich tii uf kenom woo sich tsu iim kekheert hon — sokaar fremte wii Rahap un Ruut."
+  },
+  {
+   "w": "«Tafit waar en feeler-loose helt — toohalp waar eyer «en man noo Hërkot sayn hërts» kenant.»",
+   "t": "Tafit hot ti eehe keprochen un sokaar en mort kemach. «En man noo Hërkot sayn hërts» peteyt net feeler-loos, awer eener woo sayn sinte net fersteckt hot — woo sich kruntlich keroyert hot un imer wirer tsu Hërkot tsurik kekheert is. Hërkot sayn liipe fer-xtoost sokaar tii net woo hart fale."
+  },
+  {
+   "w": "«Profëte sin waar-saacher woo ti tsukunft foraus saan / te Hërkot fon es Alt Tëstamënt is ploos tsorn.»",
+   "t": "En profeet sayn hërts is net «ti tsukunft foraus saan», awer Hërkot sayn xmërtshaftes peete: «Khom toch tsurik.» Sokaar ti warnunge fon uurteel mayne net tsu tsextere, awer ti layt um tsu kheere un tsu rete — «ich hon khee frayte an te toot fon te peese»."
+  },
+  {
+   "w": "«Ti ferxlepung pewayst tas Hërkot Israel komplët ferlos hot.»",
+   "t": "Ti ferxlepung waar net en ferlasung, awer en tistsipliin un en raynichung keeche en peliipte khint (Hepreyer 12:6). Hërkot is net kekang; eyer waar mit Taniel mite in ti ferxlepung un hot ferxproche: «Ich khenne ti ketanke woo ich iwer aych hon — ketanke fon friite un net fon unkhlik, fer aych en tsukunft un en hofnung tsu kewe.»"
+  },
+  null,
+  {
+   "w": "«Wën 400 yoer khee Wort kep hot, tan waar Hërkot kekang ore hot keruht.»",
+   "t": "Ti xtile is net en aap-waysenheet. Eyer hot ploos net kexproch, un hot ti kanse tsayt raych, xprooche un xtroose kewekt fer ti piine fer ti retung fertich tsu mache. In te alerxtilste moment hot Hërkot am hërtste kewerkt, in liipe (Kalatas 4:4)."
+  },
+  {
+   "w": "«Yeesus waar ploos en kute moraal-lërer / es krayts waar en traayixe nirlaach.»",
+   "t": "Yeesus hot kesaat tas eyer Hërkot seler is, un es krayts waar khee tsufal ore nirlaach, awer keplaante liipe. Eyer is net mit kewalt tort hin kexlept; eyer hot sayn aychne leewe seler aap kekep (Yohan 10:18). «Es kept khee kreesere liipe als tii, tas eener sayn leewe fer sayne fraynt aap kept» (Yohan 15:13)."
+  },
+  {
+   "w": "«Ti kemeen is en khlup fon perfëkte layt, ore ploos en kepayte.»",
+   "t": "Ti kemeen is net en kemeenxaft fon «fertiche hayliche», awer fon <b>fertsiine sinter</b>. Sokaar te apostel Paulus hot sich seler «te kreeste fon te sinter» kenant (1Timoteus 1:15). Ti aanfangs-kemeen hot aach kextrit un sich kextroowelt (Akte 6:1; 1Korintios 1:11). Es is net en plats fer sich tsu xtolseere, awer layt woo ti liipe woo se kriit hon wayter kewe (Yohan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Erp-sinte — nimant is richtich",
+   "body": "Es prowleem is net «en phaar xlechte tate», awer ti wurtsel fon es hërts. Fon Aatam aan wërt yeter unich sinte keport un khan net seler pis an Hërkot khome.",
+   "vref": "Reemer 3:10-12, 23",
+   "vtext": "Is khee ëne mënx woo macht was richtich is; is nimant woo ferxtant hat… Al hon sinte kemach un mise wayt wech playwe fon Hërkot sayn kloor."
+  },
+  {
+   "title": "Es Kesets khan mich net rete",
+   "body": "Es Kesets is khee laaper, awer en xpiichel. Yee mee tuu tich aanxtrëngst, yee mee tsaycht es wii wayt tuu unich falst. Eyer tsweck is uns tsu Kristus tsu fiire.",
+   "vref": "Reemer 3:20 · Kalatas 3:24",
+   "vtext": "Ti kesets macht tas yeete ëne se wise kriit tas se sinter sin… meyer waare unich tee kesets pis Kristus khome teet tas meyer fon Hërkot aan kenom keepte torich em klaawe."
+  },
+  {
+   "title": "Torich knaate — en kexënk, net aanxtrëngung",
+   "body": "Ti retung is net te loon fer ferdiinst woo tuu ferdiint host, awer en kratis kexënk fer tii woo es net ferdiine. So khan sich nimant xtolseere.",
+   "vref": "Efësius 2:8-9",
+   "vtext": "Weche Hërkots knaate sayt teyer keret torich em klaawe… Ti retung is net en resultaat fon ayer aanxtrëngung; also, nimant khan sich xtolseere wayl eyer klaawe hot."
+  },
+  {
+   "title": "Richtich kemach torich em klaawe",
+   "body": "Net torich es Kesets tsu hale, awer torich em klaawe an Yeesus Kristus pist tuu als richtich kerechent — aan keton net in tayn aychne richtichkheet, awer in eyer.",
+   "vref": "Reemer 5:1 · Kalatas 2:16",
+   "vtext": "Yets woo meyer aan kenom kep sin fon Hërkot torich unsere klaawe an tëm, hon meyer friite mit tëm… meyer wise tas se al aan kenom kewe fon Hërkot ploos torich em klaawe an Yeesus Kristus un net wayl se ti kesets noo keen."
+  },
+  {
+   "title": "Ti Piipel tsaycht uf Yeesus",
+   "body": "Ti Piipel is khee puch fon kroose layt ore selpst-hëlf. Fon ti Xëpfung pis an ti Apokalipse tsaykt yete sayt fon eener persoon — Yeesus Kristus.",
+   "vref": "Yohan 5:39 · Lukas 24:27",
+   "vtext": "Teyer lërnt ti Hayliche Xrifte… un kraat tii Xrifte tsayche noo meyer hiin… un hot ti kanse thekste fon te Hayliche Xrifte woo fon iim kexproch hon auskeleet, am aanfange mit Mooses."
+  },
+  {
+   "title": "Es Raych fon Hërkot — Yeesus sayn tsentraale mensaaj",
+   "body": "Es tëma woo Yeesus am meerste kelërt hot. Hërkot sayn rechiirung als Kheenich is mit Yeesus in tii welt rin keprochen un wërt komplet wën eyer tsurik khomt. Torich sayn krayts un uf-erxtëhung is Yeesus te woere Kheenich woo sinte, toot un Satan kewunt hot.",
+   "vref": "Markus 1:15",
+   "vtext": "Ti tsayt is khom. Te Hërkots Raych is ticht. Royert aych un klaapt an te ewankeelium!"
+  },
+  {
+   "title": "Es Ewankeelium — eyer hot ales fertich kemach",
+   "body": "Te prays fon sinte woo ich nii tsaale khënnte, hot Yeesus uf mayn plats uf em krayts ketsaalt, un torich uf erxtehn hot eyer te toot kewunt. Ich xtitse mich net uf «mach tas», awer uf «es is komplët».",
+   "vref": "Yohan 19:30 · Reemer 5:8",
+   "vtext": "Ales is komplët!… Hërkot hot uns ketsaycht wii fiil eyer uns liipe tuut: Kristus is uf unser plats kextorep wan meyer noch in sinte keleept hon."
+  }
+ ],
+ "books": {
+  "Mateus": "MAT",
+  "Markus": "MRK",
+  "Lukas": "LUK",
+  "Yohan": "JHN",
+  "Akte": "ACT",
+  "Reemer": "ROM",
+  "1Korintios": "1CO",
+  "2Korintios": "2CO",
+  "Kalatas": "GAL",
+  "Efësius": "EPH",
+  "Filipenser": "PHP",
+  "Kolosenser": "COL",
+  "1Tesalooniker": "1TH",
+  "2Tesalooniker": "2TH",
+  "1Timoteus": "1TI",
+  "2Timoteus": "2TI",
+  "Titus": "TIT",
+  "Filemon": "PHM",
+  "Hepreyer": "HEB",
+  "Tiaako": "JAS",
+  "1Pheeter": "1PE",
+  "2Pheeter": "2PE",
+  "1Yohan": "1JN",
+  "2Yohan": "2JN",
+  "3Yohan": "3JN",
+  "Yuutas": "JUD",
+  "Apokalipse": "REV"
+ },
+ "yv": 3657,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}

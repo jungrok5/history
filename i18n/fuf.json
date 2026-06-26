@@ -1,0 +1,373 @@
+{
+ "menuName": "Pular",
+ "htmlLang": "fuf",
+ "dir": "ltr",
+ "brand": "Deftere Seniinde e gite goo",
+ "docTitle": "Deftere Seniinde e gite goo · Daga tagugol haa mawɓe diina",
+ "share": {
+  "title": "Deftere Seniinde e gite goo",
+  "text": "E gite goo tan, andu daari mawɗi Deftere Seniinde — e ko adii Iisaa ari."
+ },
+ "ui": {
+  "people": "Yimɓe",
+  "events": "Kuuɗe mawɗe",
+  "christLabel": "Hollay Iisaa",
+  "loveLabel": "Giggol ngol accataa",
+  "mythWrong": "Faamuyee bonɗo",
+  "mythRight": "Goonga on",
+  "more": "Janngu ko ɓuri",
+  "version": "(VPFJ)"
+ },
+ "labels": {
+  "start": "Fuɗɗoode",
+  "thread": "Daari",
+  "gospel": "Kibaaru Moƴƴo",
+  "about": "Fii lowre nde"
+ },
+ "s": {
+  "ui.share": "↗ Lillu",
+  "ui.toast": "Laawol nanngaama 📋",
+  "ui.footer": "Deftere Seniinde e gite goo · Aayaaje immorɗe e VPFJ",
+  "hero.kicker": "DAGA TAGUGOL HAA MAWƁE DIINA",
+  "hero.title": "Deftere Seniinde,<br><span class='em'>e gite goo</span>",
+  "hero.sub": "E gite goo tan, andu daari mawɗi Deftere Seniinde — e ko adii Iisaa ari.",
+  "hero.cue": "Joofto les<span>↓</span>",
+  "thread.eyebrow": "KONGOL GOOTOL HUMOOWOL ɗun FOW",
+  "thread.h2": "Ka lannoode, Deftere Seniinde ko daari gootol",
+  "thread.flow": "<b>Aadi</b><span class='arw'>→</span><b>Habbagol</b><span class='arw'>→</span><b>Timmugol</b>",
+  "thread.note": "Alla no <b>aada</b> (aadi on), yimɓe no <b>habba</b> juuteendi, ka lannoode fow <b>timmina</b> e Iisaa. Tokku daariiji 13 ɗii les e laawol ngol — ɗotta <b>«Janngu ko ɓuri»</b> e kala kart ngam daari ɓurngal luggude.",
+  "gospel.eyebrow": "KO DAARI NGOL FIRTI WONANDE «AM»",
+  "gospel.h2": "Ɓernde Deftere Seniinde tigi",
+  "gospel.lead": "Deftere Seniinde <b>wanaa deftere janngingol «wonugol neɗɗo moƴƴo.»</b>",
+  "gospel.sublead": "Ɗun ko daari no Alla, <b>sabu sulfu tun</b>, dandiri junuubankeeɓe ɓe mbaawaa dandude ko'e maɓɓe. E ɓernde maggol woni Iisaa Almasiihu.",
+  "gospel.mirror": "<h3>Yiilannde Isra'iila nde lannataa ko natal «am»</h3><div class='cycle'><b>Rewugol sanamuuji</b><span class='a'>→</span><b>Torra</b><span class='a'>→</span><b>Noddugol</b><span class='a'>→</span><b>Alla dandita</b><span class='a'>→</span><b>Rewugol sanamuuji fahin…</b></div><p>Daga Ɲaawooɓe haa horeede, Isra'iila no firtita yiilannde nde nde lannataa. Deftere Seniinde windaaki ɗun ngam min njala, «Hol no ɓe njottii.»</p><p>Ɗun ko <b>natal-yi'inirgal</b>. Maanaa wanaa «Isra'iila waɗi ɗun» kono <b>«am kadi miɗo waɗa non»</b> (1 Korintinaaɓe 10:11).</p><p>Sanamu <b>wanaa tun natal lekki sosaangal.</b> Ko <b>kala ko en njiɗi maa en koolii ɓuri Alla</b> — ceede, foolugol, teddungal, yimɓe, haa hoore am. E huutorgol Alla <b>wa jongirgal heɓirgol ko mi yiɗi</b> ko rewugol sanamu kadi.</p><p class='punch'>Ka lannoode, sanamu ɓurɗo luggude ko «hoore am, jooɗiiɗo ka jullere laamu Alla.»</p>",
+  "gospel.coreIntro": "Awa, no Alla dandirta junuubanke wano nii? Ɗoo ɗoo woni ɓernde Kibaaru Moƴƴo mo Deftere Seniinde habra.",
+  "gospel.crux": "<p class='crux-lead'>Deftere Seniinde fow hollay nokkuure gootiire.</p><p>Yimɓe mbaawaa firtude yiilannde junuubu nden ngam ko'e maɓɓe, hay gooto feewuɗo alaa. Ko ɗun waɗi, sey neɗɗo <b>yoɓa coggu on e lomto maɓɓe</b>.</p><p>Iisaa ari wanaa tun ngam hokkude janngingol moƴƴal. Ɓay laawol goɗngol alaa ngam dandugol am, <b>o waawaano ko wanaa o ara.</b></p><p class='crux-punch'>On haaniraaɗo yoweede ka leggal altindiraangal ko <b>am</b>.<br>Iisaa ronditii <b>junuubaaji am</b> o yoweede toon e lomto am.</p><div class='crux-verse'>«O ronditanike en junuubaaji men ɗin ka ɓandu makko, ɗun ko ka leggal altindiraangal, fii no maayiren e telen-ma junuubaaji ɗin, wuuren ngurndan feewuɗan, ko fii, ko sabu barmeeji makko ɗin selliniraɗon.» — 1 Piyer 2:24</div>",
+  "faq.h": "Hara hino huunde nde jaɓɓotoɗaa keewi?",
+  "faq.q1": "<span class='arr'>▸</span> Awa, baroowo neɗɗo si o gomɗinii tun o naatay Aljanna, kono neɗɗo moƴƴuɗo ngurndan mun fow mo gomɗinaali o naatay Jahannama?",
+  "faq.a1": "<p>Naamnal moƴƴal. Kono faamuyeeji bonɗi ɗiɗi no maraa nder maggal.</p><p><b>① Deftere Seniinde seerndaani yimɓe e «moƴƴuɓe e bonɓe.»</b> Eɓɓirgol ngol wanaa «ɓuri caggal makko» kono ko «laaɓal timmungal Alla.» Yeeso makko, hay gooto wanaa «moƴƴuɗo yonude» (Roomanaaɓe 3:23). Ɗun wanaa «moƴƴuɗo e baroowo,» kono ko wa yimɓe ɗiɗo nawnaaɓe ñawu maayre wootere — gooto ƴetti lekki, goɗɗo salii wi'i, «mi ɓuri on cellude.»</p><p><b>② Huunde wootere tan seerndi Aljanna e Jahannama.</b> Wanaa eɓɓirgol kuuɗe, kono <b>si a jaɓii Iisaa Almasiihu Joomiraaɗo e si caɗeele junuubu maaɗa ɗen feewnaama.</b> On mo junuubu mun feewnaa sabu ƴiiƴan Almasiihu o naatay Aljanna; on mo jaɓataa mo poomaa, on mo junuubu mun heddii, o naatataa. Hay kuugal moƴƴal feere waawataa firtude caɗeele junuubu ɗen tigi.</p><p>Awa Aljanna e Jahannama wanaa «njoɓdi kuuɗe moƴƴe» kono ko fii <b>jokkere e Almasiihu on</b>. E «gomɗingol» wanaa jaɓɓal hakkille, kono waylugol on ardiiɗo ngurndan maaɗa — kala jaɓɓiiɗo mo tigi mawnintinotaako kono o tuubay no feewi. Tigi, feewineede hoore mun («mi moƴƴuɗo») ko sanamu ɓurɗo saɗtude firteede, on baɗoowo en miijoo en mbaawaa wuurde ko aldaa e Almasiihu (Luuka 18:9-14).</p><p>Deftere Seniinde wi'ay ɗun laaɓɗum: <b>«On gomɗinɗo mo ɲaawetaake, kono on mo gomɗinaali mo ɲaawaama wuren, ɓayru o gomɗinaali innde Ɓiɗɗo Bajjo Alla on»</b> (Yuhanna 3:18). Ɲaawoore wanaa «eɓɓugol ngurndan maaɗa ɓaawo mayde,» kono ɗun feewnaama wonande <b>si a jaɓii Almasiihu on</b>.</p><p class='faq-v'>Roomanaaɓe 3:23 · Yuhanna 3:18 · Efesinaaɓe 2:8-9 · Luuka 18:9-14</p>",
+  "faq.q2": "<span class='arr'>▸</span> Mi waawaa wuurde ngurndan moƴƴan tun mi gomɗinaali Iisaa?",
+  "faq.a2": "<p>Ɗun ko miijo ɓurngo heewde, kono ngo faamaani ko woni caɗeele goonga ɗen. Yo'o natal.</p><p><b>Miijo a no ka laana wujjooɓe.</b> Hay si a laɓɓinii sancal ngal, a moƴƴinii e wujjooɓe ɓen, ngurndan maaɗa moƴƴi — a heddii <b>wujjoowo</b>, ko fii laana ngan no nawra maa haa ka ngan faandii (joofirde ɲaawoore). Caɗeele wanaa «eɓɓirgol kuuɗe maaɗa» kono <b>«hol laana ngo a jeyaa» (njiɗigol maaɗa)</b>.</p><p>Ko ɗun waɗi Kibaaru Moƴƴo wi'ataa «ɓeydu wonugol moƴƴo» kono <b>«waylu laana.»</b> Jippo daga laana junuubu ndan njaha ka Iisaa — e njiɗigol kesngol wa <b>ɓiɗɗo Alla</b>. Ɗun wanaa ɓeydirgol eɓɓirgol maaɗa tiiɗnaare, kono koolagol on tiɗɗoowo junngo mun fii a feƴƴa haa laana mun.</p><p>Tigi Deftere Seniinde sifoo dandeede non e «feƴƴugol» wano nii: <b>«on Jattinɗo en mbawdi niɓe ɗen, o addii en ka laamateeri Ɓiɗɗo makko yiɗaaɗo on»</b> (Kolosinaaɓe 1:13).</p><p>Wota faamu bonɗum: <b>wanaa wi'ugol wuurde moƴƴan walaa nafa.</b> Moƴƴugol wanaa «sharti» dandeede kono ko <b>ɓinngu</b> maggo. On baylinɗo laana o wuura moƴƴan wanaa ngam kulol, kono ngam <b>giggol ɓiɗɗo</b>.</p><p class='faq-v'>Kolosinaaɓe 1:13 · Yuhanna 1:12 · Yuhanna 3:3 · Efesinaaɓe 2:8-9</p>",
+  "faq.q3": "<span class='arr'>▸</span> Si gaɗoowo bone wi'ay «Alla haforanii am» o wuura e ɓuttu, kono torraaɗo on hino torra tabbii — ɗun wanaa haforaneede ɓurnde coyɗude?",
+  "faq.a3": "<p>Naamnal moƴƴal, e torra on ko goonga. Kono kongol wano nii wanaa «haforaneede Deftere Seniinde» kono ko <b>waylugol</b> maggo.</p><p><b>① Haforaneede Alla wonataa coyɗude poomaa.</b> Junuubu suuɗetaake wa «ɗun waɗaaki,» Alla tigi yoɓi coggu mun e yonki Ɓiɗɗo mun. Leggal altindiraangal wanaa seedee wonde junuubu ƴeɓetee e hoyfere kono ko junuubu teddi non: ko haforaneede ɓurnde tiiɗude coggu nder aduna.</p><p><b>② Tuubuubuya goonga rimay ɓinngu.</b> Si gaɗoowo bone mawnii yeeso torraaɗo on — «Alla haforanii am, mi no e ɓuttu» — ɗun wanaa tuubuubuya kono ko natal maggo (Matta 3:8). E haforaneede hakkunde neɗɗo e Alla momtataa nawnaare torraaɗo on walaa waɗɗina mo o hafora.</p><p><b>③ Junuubu ƴeɓetaake tun e hoyfere.</b> Junuubu fow yoɓetee e nokkuuje ɗiɗi — <b>maa Almasiihu on ronndoo ɗun ka leggal altindiraangal</b> (wonande gomɗinɓe mo donkinannde alanaa ɓe fahin, Roomanaaɓe 8:1), <b>maa on saliiɗo mo ka lannoode ronndoo ɗun hoore mun.</b> Awa «haforaneede coyɗunde» alaa. Gaɗoowo bone on no waɗɗii ɲaawoore aduna ngu kadi (Roomanaaɓe 13:1-4).</p><p><b>④ Gonɗi torraaɗo on tinotaako seeɗa yeeso Alla.</b> Alla no wulla wonndude e wullooɓe, no jogii kala gongol, ka lannoode o fitta ɗi hoore mun (Wahayu 21:4). Awa torraaɗo on waawaa ronndaade donngal yottagol hoore mun, kono o waawi hokkugol ɗun Alla feewuɗo on (Roomanaaɓe 12:19 — «Joomiraaɗo on wi'i: Ko min yottannde wonani, ko min woni Yoɓoowo»).</p><p class='faq-v'>Matta 3:8 · Roomanaaɓe 8:1 · Roomanaaɓe 13:1-4 · Wahayu 21:4</p>",
+  "faq.q4": "<span class='arr'>▸</span> Deftere Seniinde ko daari goonga tigi? Ngo no nanndi e taali kiɗɗi maa deftere fiymti.",
+  "faq.a4": "<p>Naamnal moƴƴal — e nokkuure moƴƴere fuɗɗoraade. Sikke wanaa luttitde goonga kono ko njiɗigol yi'de piiji e laaɓal. Deftere Seniinde wanaa taali jiiɓuɗi mbi'eteeɗi «gomɗin si a yiɗi» kono ko daari windaaɗi e <b>nokkuuje, balɗe, e yimɓe tigi tigi</b>. Yo'o natalon seeɗa.</p><p><b>① Wanaa deftere wootere kono «binndi» — kono ɗi no njokkondira e kongol gootol.</b> Deftere Seniinde ko mooɓtondiral <b>defte 66</b> windaaɗe e duuɓi tolniiɗi <b>1.500 e windooɓe ɓe tolnii 40</b> — laamɓe, aynaaɓe, awooɓe, mooɓtoowo lampo, cafroowo, yimɓe darnde e jamaanu seerɗi, mbinda ɓe ceeri ɓe annondiraa fow, e ɗemɗe tati (Ibraaniyankoore, Aramankoore, Gerekankoore). Kono fow ɗi no njottondira, walaa jiibru, e <b>kongol gootol: dandeede sabu Almasiihu</b>. Ɗun ko jottondiral saɗtungal firteede sabu tawtoraagol maa nanondiral yimɓe.</p><p><b>② Ngo no jokka tabbitineede daga leydi (anndugol kaaƴe wirniiɗe).</b> Piiji keewɗi gonnooɗi sikkitee tawtoraagol, «yi'eteeɗi e Deftere Seniinde tun,» njiyaa ɓaawo ɗun e asaki leydi. <b>Jamaanu Daawuuda</b> e haaƴere windaande «suudu Daawuuda» (haaƴere Tel Dan); <b>Bilaatus</b>, gomna baruɗo Iisaa, e binndi jogiiɗi innde makko; laawol ndiyam laamɗo Hisikiya, e laawol ngol tigi e binndi maggol. Hay <b>Hittinaaɓe</b>, noddanooɓe «leñol jiiɓaangol,» njalti wa laamu mawngu nder kaaƴe wirniiɗe.</p><p><b>③ Ngo ɓuri reeneede e binndi kiɗɗi (binndi juuɗe).</b> E limoore binndi juuɗe lutti, e jottondiral maɓɓe e koo gootal, e seekannde hakkunde windugol e taƴugol, Deftere Seniinde ko <b>ɓurnde nder binndi kiɗɗi fow</b>. Tagol Isaaya nder <b>Binndi Maayo Lamɗam</b> (yi'aaɗi 1947), windaangol ado Almasiihu, no jottondira e binndol jaaynungol duuɓi tolniiɗi 1.000 ɓaawo majji wa alkulal e alkulal — seedee wonde Deftere Seniinde reenaa goonga e jamaanuuji fow.</p><p><b>④ Piiji windaaɗi ado kewde non tigi (annabaaku).</b> Aayaaje windaaɗe teemedanɗe duuɓi ado Iisaa, no joopa laaɓɗum dow jibineede makko Baytalami, e maccuɗo torraaɗo on, e piiji leggal altindiraangal. Ɗun ɓuri laaɓde haa firtetaake wa tawtoraagol.</p><p><b>⑤ Anndooɓe daari woɓɓe caggal Deftere Seniinde mbindi ɗun kadi.</b> Anndoowo daari Romenaajo <b>Tasitus</b> e anndoowo daari Yahuudinaajo <b>Yosefus</b> — hay gooto maɓɓe wanaa gomɗinɗo — kollay Iisaa, baroreede makko, e mawɓe diina aranɓe. Ko ɓuri fow, taalibaaɓe ɓen carinooɓe e kulol <b>ɓilii ngurndan maɓɓe</b> seedaade ummital — hay gooto maayanta ko o anndi ko penaale.</p><p>E goonga kadi, ɗii ɗaɗi kollay gomɗingol Deftere Seniinde ko <b>geɗal hakkille wanaa ko luttungal hakkille</b>; ɗi wanaa «seedee» waɗɗinoowo wa kaawtal hiisa. Ko ɗun waɗi, tabbital gomɗinɗo wartataa e seedeeji tun, kono daga <b>tabbitinaango ngo Ruuhu Seniiɗo on hokkata ɓernde tuma janngeede Kongol on</b>. Deftere Seniinde wi'i — <b>«Ko ɗun waɗi, gomɗinal ko e nanugol iwata, ko nanetee kon kadi ko e kongol Almasiihu on iwi.»</b> (Roomanaaɓe 10:17). Ko ɗun waɗi, hay si ngo nanndi wa fiymti, <b>janngugol ngo hoore maaɗa</b> ko fuɗɗoode. Seedee uddita damal, e tabbital ɓeyda nder janngoowo on.</p><p class='faq-v'>Roomanaaɓe 10:17</p>",
+  "respond.h3": "Awa — ko fii am?",
+  "respond.sub": "Giggol ngol wanaa kabaaru kono ko <b>noddaango</b>. Si giggol ngol ɓilaangol e lomto maaɗa naɓɓii ɓernde maaɗa, du'ano ɗun ɗoo seese, simoore e simoore.",
+  "respond.prayer": "<p>Alla,</p><p>mi qirritike mi gaɗoowo junuubu mo waawaa dandude hoore mun.</p><p>Mi gomɗinii Iisaa maayanii am ka leggal altindiraangal o ummitii.</p><p>Hafanam junuubaaji am fow, gila hannde ngonaa Joomiraaɗo ngurndan am.</p><p>Jaɓam wa ɓiɗɗo maaɗa, waɗam mi wuura ngurndan kesan.</p><p class='amen'>E innde Iisaa mi du'oo. Aamiin.</p>",
+  "respond.after": "Si a du'anike ɗun e ɓernde maaɗa, Deftere Seniinde wi'i a <b>wontii ɓiɗɗo Alla</b>. A wonaa kanjaa fahin — ɗaɓɓu fedde diina ɓadiinde a yaha e laawol gomɗinal wonndude e woɓɓe.",
+  "respond.read": "Janngu Deftere Seniinde hoore maaɗa — fuɗɗoro e Yuhanna",
+  "respond.verse": "«Kono kala jaɓɓiiɓe mo, gomɗini innde makko nden, ko ɓen o newnani wonugol ɓiɓɓe Alla.» — Yuhanna 1:12 · Roomanaaɓe 10:9-10",
+  "closing.main": "Alla gooto,<br>e daari gootol,<br>no ɗaɓɓita en e <em>giggol</em><br>ngol accataa.",
+  "closing.verse": "«Ko fii miɗo felliti, hinaa mayde nden, hinaa ngurndan ɗan… hinaa tagu goo kadi woo waawata en sendude e giggol Alla wongol e Iisaa Almasiihu Joomi men on!» — Roomanaaɓe 8:38-39",
+  "closing.small": "Dow daari ngol, Sariya, defte yimre, Annabaaɓe e ɓataakuuji no ɓeyda «teewu.»<br>Gila jooni, kala deftere nde njuɓɓitotoɗaa, a andoyay «hol ka ngonɗaa nder daari.»",
+  "about.line": "Ɗun ko dow yi'annde <b>daari kisingol, injiilankaagal e renewuyankaagal</b> nde ɓuri heewɓe nder diina protestan Koore keɓondira.",
+  "about.contact": "Naamne · miijooji — <a id='contact' class='mail'>Windan min imeel</a>",
+  "partial.note": "E Pular, ko Linjiila (Aliyani Kesa) tun woni ɗoo; aayaaje Aliyani Hindi ɗen ngoni wano dungtinaaki. Janngu Aliyani Hindi ndi timmuɗi e laawol ngol.",
+  "closing.share": "↗ Lillu daari ngol"
+ },
+ "epochs": [
+  {
+   "tag": "ALIYANI HINDI · FUƊƊOODE",
+   "title": "Tagugol",
+   "date": "Ka fuɗɗoode",
+   "one": "Alla tagi aduna «moƴƴungu no feewi.»",
+   "people": "Alla; Aadama e Hawwaa'u",
+   "events": "Balɗe jeegoo tagugol, neɗɗo tagaaɗo e mbaadi Alla, fooftere ɲalaande sennde",
+   "q": "Ka fuɗɗoode, Alla tagi kammuuli ɗin e leydi ndin.",
+   "cite": "",
+   "christ": "Aduna tagiraa «Daaluyee on.» Linjiila Yuhanna wi'ay Daaluyee on ko Iisaa tigi (Yuhanna 1:1-3).",
+   "detail": "<p>Deftere Seniinde fuɗɗoraaki kongol falsafa kono kongol qirritaango: <b>«Ka fuɗɗoode, Alla…»</b> Aduna wanaa tawtoraagol kono ko golle Alla jogiiɗo njiɗigol.</p><ul><li><b>Mbaadi Alla</b> · e tageefooji fow, neɗɗo tun tagaa o nanndina Alla — fii o anda mo o reena aduna.</li><li><b>Fooftere</b> · fooftere ɲalaande jeeɗiɗiɓiri hollay fow timmii e ɓuttu (jam): «ɗun moƴƴi.»</li><li><b>Aljanna Eden</b> · aduna ado bonugol, ka Alla e yimɓe njaadi.</li></ul>",
+   "next": "Kono timmal ka'a haɗtinde firtude…"
+  },
+  {
+   "tag": "ALIYANI HINDI · CAƊEELE FUƊƊII",
+   "title": "Yanugol e junuubu",
+   "date": "Ka fuɗɗoode",
+   "one": "Junuubu naati, jokkere hakkunde yimɓe e Alla taƴii.",
+   "people": "Aadama e Hawwaa'u; mboddi (Seyɗaan)",
+   "events": "Ɲaamugol ɓiɗɗi haɗaaɗi, riiweede daga Eden, garal mayde e tampere",
+   "q": "Alla wi'i ngañgu wonay hakkunde mboddi e debbo, ɓiɗɗo debbo on helay hoore mboddi.",
+   "cite": "",
+   "christ": "Aadi adii Kibaaru Moƴƴo, hokkaaɗo ɓaawo yanugol e junuubu: «ɓiɗɗo debbo on» helay hoore mboddi — ɗun ko Iisaa (Roomanaaɓe 16:20; Galatinaaɓe 4:4).",
+   "detail": "<p>E ɗoftaaki haɗaaki ngam njiɗigol «wonugol wa Alla,» junuubu naati nder aduna. Joofol wanaa tun luttugol sariya kono ko <b>taƴugol jokkere</b>.</p><ul><li><b>Jokkere taƴaaɗe</b> · e Alla (suuɗagol), e yimɓe woɓɓe (faawugol), e tageefe (gi'e e tampere).</li><li><b>Mayde</b> · rentingol «a maayay tigi» wartii goonga.</li><li>Kono nder ɓernde ɲaawoore, aadi dandeede adii. Anndooɓe noddi ɗun <b>«kibaaru moƴƴo aranko»</b>.</li></ul>",
+   "next": "Jooni Alla noddoyay gorko gooto fuɗɗina dandugol…"
+  },
+  {
+   "tag": "ALIYANI HINDI · AADI",
+   "title": "Maamiraaɓe diina",
+   "date": "haa hitaande 2000 H.A.",
+   "one": "Alla aadi Ibraahiima: «A wonay laawol barki.»",
+   "people": "Ibraahiima · Isiyaaka · Yaaquuba · Yuusufu",
+   "events": "Aadi Ibraahiima, hibbugol Isiyaaka, ɓiɓɓe sappo e ɗiɗi Yaaquuba, Yuusufu naati laamu Misira",
+   "q": "Alla aadi Ibraahiima o wonay leñol mawngol, e barki makko leƴƴi aduna fow keɓay.",
+   "cite": "",
+   "christ": "Aadi «leƴƴi fow keɓay barki» timminaa e Iisaa, ɓiɗɗo Ibraahiima (Galatinaaɓe 3:16).",
+   "detail": "<p>Alla fuɗɗii firtude caɗeele yimɓe fow e noddugol gorko gooto, <b>Ibraahiima</b>. Ɓernde maggo ko <b>aadi on</b> — leñol mawngol, leydi, e barki leƴƴi fow.</p><ul><li><b>Gomɗinal</b> · Ibraahiima gomɗini aadi nde nde yi'aaka, ɗun limanaa mo feewugol.</li><li><b>Isiyaaka e Yaaquuba</b> · aadi nawtii jamaanu garowo; Yaaquuba (Isra'iila) ko baaba leƴƴi sappo e ɗiɗi.</li><li><b>Yuusufu</b> · jeeyaaɗo e siɗɗiraaɓe mun, kono naati laamu Misira — Alla waɗtini ɗun moƴƴere.</li></ul>",
+   "next": "Tokkugol Yuusufu, ɓeynguure ndee jippoyii Misira — wartii maccuɓe…"
+  },
+  {
+   "tag": "ALIYANI HINDI · DANDUGOL",
+   "title": "Yaltugol e ladde",
+   "date": "haa hitaande 1446 H.A.",
+   "one": "Alla dandi leñol maccuɗo o waɗi ngal leñol mun.",
+   "people": "Muusaa, Haaruuna, Firawna",
+   "events": "Bone sappo, Juldeere Yawtaneede, lummbugol Maayo Boɗeewo, Sariyaaji sappo Sinaa'i, suudu tukuru, duuɓi 40 e ladde",
+   "q": "Alla wi'i o waɗtay ɓe leñol mun, kanko kadi o wona Alla maɓɓe.",
+   "cite": "",
+   "christ": "Juldeere Yawtaneede — ka ƴiiƴan baalii haɗi mayde — hollay Iisaa, «baalii men layya,» ɓilaaɗo ngam men (1 Korintinaaɓe 5:7).",
+   "detail": "<p>Dandugol ɓurngol mawnude e Aliyani Hindi. Isra'iila on wonnooɗo maccuɗo, dandaa e bawgal Alla o waɗtaa <b>leñol</b> mun.</p><ul><li><b>Juldeere Yawtaneede</b> · suudu maɓɓo e ƴiiƴan baalii e damal haɗii mayde — natal sadaka ɗe garayɗe fow.</li><li><b>Maayo Boɗeewo</b> · dandeede ka laawol joofi; «lummbugol» wartii natal fuɗɗoode hesere.</li><li><b>Aadi Sinaa'i</b> · e Sariyaaji sappo ɓe njanga no nguurdeteengo leñol Alla.</li><li><b>Suudu tukuru</b> · suudu yiilotoondu ka Alla hoɗata nder leñol — natal «Imanu'iila.»</li><li><b>Duuɓi 40</b> · ɗoftaaki haɗtin jamaanu yiilaade ladde, kono Alla wonndi e maɓɓe e manna e bagumawal duule e yiite.</li></ul>",
+   "next": "Daraaɓe ka keerol leydi aadaandi, ɓe naatoyay…"
+  },
+  {
+   "tag": "ALIYANI HINDI · TAWUGOL LEYDI",
+   "title": "Foolugol e Ɲaawooɓe",
+   "date": "haa 1400–1050 H.A.",
+   "one": "Ɓe keɓi leydi, kono walaa laamɗo kala neɗɗo waɗay ko o yiɗi.",
+   "people": "Yuusha'u; Ɲaawooɓe wa Gideyuuna e Samsuuna; Ruutu",
+   "events": "Yanugol Yeriko, tawugol Kanaana, yiilannde firtitnoonde junuubu–ɲaawoore–dandeede",
+   "q": "E balɗe ɗen walaa laamɗo nder Isra'iila; kala neɗɗo waɗay ko feewi yeeso mun.",
+   "cite": "",
+   "christ": "E jamaanu Ruutu ƴiwi Daawuuda, e jamaanu Daawuuda ƴiwi Iisaa (Matta 1). Hay nder jiibru, jamaanu Almasiihu jokki.",
+   "detail": "<p>Les Yuusha'u ɓe naati leydi aadaandi, kono ɓaawo tawugol ɓe ɲifti Alla. Ɲaawooɓe ko firtitgol natal gootal.</p><ul><li><b>Yiilannde les</b> · junuubu → torra → noddugol → Ɲaawoowo dandita → junuubu fahin. Ɗun ɓeyday bonude.</li><li><b>Ɲaawooɓe</b> · Gideyuuna, Samsuuna, Debora — dandooɓe sa'a, gorɓe kono jogiiɓe ella mawngal.</li><li><b>Ruutu</b> · daari gomɗinal nder jamaanu niɓɓinngu; debbo gimɗo naati jamaanu Daawuuda (e Iisaa).</li></ul>",
+   "next": "Yimɓe ɓen noddi, «Hokku en laamɗo kadi!»…"
+  },
+  {
+   "tag": "ALIYANI HINDI · JAMAANU ƁURNGU",
+   "title": "Laamu woortungu",
+   "date": "haa 1050–930 H.A.",
+   "one": "Alla aadi Daawuuda: «Jullere laamu maaɗa heddoto poomaa.»",
+   "people": "Sawuula · Daawuuda · Sulaymaana",
+   "events": "Laamɗo aranɗo Sawuula, Daawuuda e Goliyaata, aadi Daawuuda, Sulaymaana mahi hekkalu",
+   "q": "Alla aadi Daawuuda suudu mun e laamu mun heddoto poomaa, jullere laamu mun tabbitoto haa abada.",
+   "cite": "",
+   "christ": "«Jullere laamu poomayankeere» timminaa e Iisaa, ɓiɗɗo Daawuuda — ko waɗi noddetee «Ɓiɗɗo Daawuuda» (Luuka 1:32-33; Matta 1:1).",
+   "detail": "<p>Ɓurngu Isra'iila, les laamɓe tati.</p><ul><li><b>Sawuula</b> · laamɗo aranɗo mo yimɓe naamni; fuɗɗoode moƴƴere bonnaande sabu ɗoftaaki.</li><li><b>Daawuuda</b> · «gorko jaɓaaɗo e ɓernde Alla.» O fooli Goliyaata o waɗi Urusaliima hekkalu. O waɗi junuubu mawngu (Batseba) kono o tuubi e ɓernde.</li><li><b>Aadi Daawuuda</b> · Alla aadi tabbitinde jamaanu Daawuuda haa abada — ɗaɗol mawngol tama'u Almasiihu.</li><li><b>Sulaymaana</b> · e ɓurngu hikima e jawdi o mahi <b>hekkalu</b> Urusaliima, kono joofnde ngurndan mun o yaha e sanamuuji.</li></ul>",
+   "next": "Ɓaawo Sulaymaana, laamu seeray ɗiɗi…"
+  },
+  {
+   "tag": "ALIYANI HINDI · USTAGOL",
+   "title": "Laamu seerngu",
+   "date": "930–586 H.A.",
+   "one": "Seeri worgo (Yahuuda) e rewo (Isra'iila), leñol on yahay bonude.",
+   "people": "Laamɓe laamuuji ɗiɗi; Annabaaɓe wa Iliyaasu, Isaaya, Irimiyaa",
+   "events": "Laamu seeri, rewugol sanamuuji saaktii, Annabaaɓe rentini",
+   "q": "Kala Isra'iila murtii e suudu Daawuuda haa hannde.",
+   "cite": "",
+   "christ": "E jamaanu nguu Annabaaɓe habri Almasiihu garoowo ɓeydude laaɓude.",
+   "detail": "<p>E balɗe ɓiɗɗo Sulaymaana laamu seeri: <b>laamu rewo Isra'iila</b> (leƴƴi 10, hekkalu Samariiya) e <b>laamu worgo Yahuuda</b> (leƴƴi 2, hekkalu Urusaliima).</p><ul><li><b>Isra'iila (rewo)</b> · laamɓe mun fow njokki sanamuuji; ngu yani e Asuuriya e 722 H.A.</li><li><b>Yahuuda (worgo)</b> · jamaanu Daawuuda jokki, e laamɓe moƴƴuɓe wa Hisikiya e Yoosiya, kono fow ngu yahay bonude.</li><li><b>Annabaaɓe</b> · Iliyaasu, Aamuusa, Isaaya, Irimiyaa noddi «ngartee!» Kibaaru Almasiihu ɓuri heewde ɗoo («maccuɗo torraaɗo»).</li></ul>",
+   "next": "Ka lannoode ɲaawoore habraangol warii — ɓe njaɓɓinaa hoɗanannde…"
+  },
+  {
+   "tag": "ALIYANI HINDI · ƝAAWOORE",
+   "title": "Horeede",
+   "date": "722 / 586 H.A.",
+   "one": "Laamu yanii e yimɓe njaɓɓinaa leydi caggal.",
+   "people": "Daani'eela, Hazaqiyeela, Nabukadnesar",
+   "events": "Isra'iila yanii e Asuuriya (722); Yahuuda yanii e Baabila e hekkalu bonnaa (586)",
+   "q": "E daande maaje Baabila, ɗoo min njoɗii min mboji, nde min ciftori Siyona.",
+   "cite": "",
+   "christ": "Nder luggidde sunaare, Irimiyaa aadi «aadi keso» — aadi nde Iisaa tabbitini e ɲaametee sakkitoowo.",
+   "detail": "<p>Rentingol wartii goonga. Hekkalu sumii e yimɓe njaɓɓinaa Baabila — ɓe ngustii leydi, laamɗo, e hekkalu: nokkuure ɓurnde les.</p><ul><li><b>Yanugol ɗiɗi</b> · Isra'iila (Asuuriya, 722 H.A.) e Yahuuda (Baabila, 586 H.A.).</li><li><b>Daani'eela</b> · natal gomɗinal hay nder galle kaafiri (ngaska mbaroodi); o yi'i wahayuuji «laamu poomayankeewu» garowu.</li><li><b>Yelo tama'u</b> · wahayu ƴi'e jooɗɗe ummitaaɗe e «aadi keso» Irimiyaa kollay jamaanu garowo nder niɓɓere.</li></ul>",
+   "next": "Ɓaawo duuɓi cappanɗe jeeɗiɗi, Alla udditi laawol — ɓe ngarti suudu…"
+  },
+  {
+   "tag": "ALIYANI HINDI · ARTUGOL",
+   "title": "Artugol daga horeede",
+   "date": "538–430 H.A.",
+   "one": "Ɓe ngarti ɓe mahti hekkalu e galɗe.",
+   "people": "Ezra, Nehemiya, Esteer, Zerubabel",
+   "events": "Artugol e kongol Sirus, mahtugol hekkalu, mahtugol galɗe Urusaliima, artugol Kongol on",
+   "q": "Welo-welo Joomiraaɗo on woni bawgal mooɗon.",
+   "cite": "",
+   "christ": "Malaaki, deftere sakkitiinde Aliyani Hindi, joofniri habrugol nelaaɗo cuɓɓitoowo laawol Almasiihu: «Mi lilay nelaaɗo an».",
+   "detail": "<p>E kongol laamɗo Persiya Sirus (538 H.A.) artugol fuɗɗii. E lummbe tati ɓe ngarti ɓe mahti ko bonnaa.</p><ul><li><b>Zerubabel</b> · mahti hekkalu (timmaa 516 H.A.).</li><li><b>Ezra</b> · janngini Kongol on fahin o ummitini gomɗinal.</li><li><b>Nehemiya</b> · mahti galɗe Urusaliima e balɗe 52.</li><li><b>Esteer</b> · dandi Yahuudinaaɓe Persiya e bonugol — «fii sa'a wa nii.»</li><li><b>Ɗomka jokkii</b> · hekkalu darii, kono walaa laamɗo wa Daawuuda. Yimɓe ɓen habbii Almasiihu.</li></ul>",
+   "next": "Awa jooni… wa kammu deƴƴi, duuɓi 400 ɓenni."
+  },
+  {
+   "tag": "HAKKUNDE ALIYANIIJI · HEƁILUGOL",
+   "title": "Duuɓi deƴƴal",
+   "date": "haa 430–4 H.A.",
+   "one": "Duuɓi 400 walaa daande Annabaaɓe — kono nokkuure heɓilaama e deƴƴal.",
+   "people": "Alesandere Mawɗo, Makabenaaɓe, Romenaaɓe",
+   "events": "Persiya → Gerekenaaɓe → ndimaagu Makabe → laamu Romenaaɓe",
+   "q": "Kono ɓay saa'i on hewtii, Allaahu on adduno Ɓiɗɗo makko on, on mo debbo jibini, jibinaaɗo e ley Sariya on,",
+   "cite": "Galatinaaɓe 4:4",
+   "christ": "«Heɓilugol» ka'a fow ko Alla huutorii ngam Iisaa ara tigi «ɓay saa'i on hewtii.»",
+   "detail": "<p>Daga Malaaki haa Aliyani Kesa, haa duuɓi 400 walaa Kongol keso. Kono ɓaawo daari Alla heɓiltinoo laawol Kibaaru Moƴƴo.</p><ul><li><b>Laamuuji mbaylitii</b> · Persiya → Gerekenaaɓe (Alesandere, 333 H.A.) → Misiranaaɓe e Siriyanaaɓe → murtere Makabe (167 H.A.) → Romenaaɓe (63 H.A.).</li><li><b>Gerekankoore</b> · foolugol Alesandere waɗi Gerekankoore ɗemngal jaaynungal; Aliyani Hindi firaa Gerekankoore (Septuagint), udditi laawol Kibaaru Moƴƴo saaktoo law.</li><li><b>Laabi e jam Romenaaɓe</b> · laabi mahaaɗi e «jam Roma» wartii laabi misiyon.</li><li><b>Sinagog e feddeeji</b> · janngingol sinagog ɗaɗii; Fariisinaaɓe e Sadukinaaɓe njibinii; e <b>habbagol Almasiihu</b> ɓenndi.</li></ul>",
+   "next": "Awa deƴƴal taƴii — ka lannoode, o warii."
+  },
+  {
+   "tag": "ALIYANI KESA · TIMMINAAKI",
+   "title": "Garal Iisaa",
+   "date": "haa 4 H.A.–30 B.A.",
+   "one": "Almasiihu aadaaɗo on warii, maayii, ummitii.",
+   "people": "Iisaa, taalibaaɓe sappo e ɗiɗo, Yuhanna Lootoowo",
+   "events": "Wonugol neɗɗo, kuugal janngingol e kaawisaaji, mayde ka leggal altindiraangal, ummital ɲalaande tataɓere",
+   "q": "Daaluyee on wonti neɗɗo, o hoɗi hakkunde men… o heewuɗo moƴƴere e goonga.",
+   "cite": "Yuhanna 1:14",
+   "christ": "Ɓiɗɗo debbo (daari 2), barki Ibraahiima (3), baalii layya (4), laamɗo poomayankeejo Daawuuda (6), aadi keso (8) — fow timminaa e neɗɗo gooto, Iisaa: Annabaajo, Limaamuujo, e Laamɗo men goonga.",
+   "detail": "<p>Deƴƴal taƴii; aadaaɗo on warii. Aliyaniiji nay seedi ngurndan Iisaa, mayde makko, e ummital makko daga nokkuuje nay.</p><ul><li><b>Wonugol neɗɗo</b> · Alla wonti neɗɗo (Imanu'iila, «Alla wondi e men»), e hoyfere Baytalami.</li><li><b>Kuugal</b> · o janngina laamu Alla, o sellina nawnaaɓe, o nodda gaɗooɓe junuubu. «Mo yi'i lan yi'ii Baaba.»</li><li><b>Leggal altindiraangal</b> · o yoɓi e nokkuure men coggu junuubu e mayde naɓii e yanugol e junuubu (daari 2). Baalii layya goonga.</li><li><b>Ummital</b> · ummitiingo ɲalaande tataɓere, o heli bawgal junuubu, mayde, e Seyɗaan — gila ka leggal o «ɓoorii laamuuji ɗin e bawɗe ɗen, o weeɓitii ɗe… o foolii ɗe» (Kolosinaaɓe 2:15).</li></ul><p>Awa Iisaa ko <b>Annabaajo</b> men goonga (hollay laawol Alla), <b>Limaamuujo</b> men goonga (yoɓi junuubu e ɓandu mun), e <b>Laamɗo</b> men goonga (fooli junuubu, mayde, e Seyɗaan o laamoo poomaa).</p>",
+   "next": "Iisaa ummitiiɗo on lilay taalibaaɓe makko nder aduna…"
+  },
+  {
+   "tag": "ALIYANI KESA · SAAKTUGOL",
+   "title": "Mawɓe diina fuɗɗii",
+   "date": "haa 30 B.A.–",
+   "one": "Ruuhu Alla warii, Kibaaru Moƴƴo saaktii haa keerol aduna.",
+   "people": "Piyer, Pool, mawɓe diina aranɓe",
+   "events": "Ruuhu Alla jippoyii e Pentekot, mawɓe diina njibinii, Kibaaru Moƴƴo saaktii daga Urusaliima haa Roma e torra",
+   "q": "Onon on heɓay bawgal nde Ruuhu Seniiɗo on ari e mon, wonon seedeeɓe an Yerusalaam… haa ka kattuɗe leyɗe.",
+   "cite": "Kuuɗe Nelaaɓe 1:8",
+   "christ": "Daari ngol jokkay haa hannde. Deftere Seniinde joofniri aadi Iisaa artoto o waɗtita ko fow kesum (Wahayu 21).",
+   "detail": "<p>Ɓaawo Iisaa ƴiwi, Ruuhu aadaaɗo on warii e Pentekot e mawɓe diina njibinii. Kibaaru Moƴƴo saaktii law no feewi.</p><ul><li><b>Pentekot</b> · Ruuhu waɗti taalibaaɓe hulɓe wonude seedeeɓe cuusɓe.</li><li><b>Piyer</b> · habri Kibaaru Moƴƴo Yahuudinaaɓe Urusaliima.</li><li><b>Pool</b> · daga torroowo wonude nelaaɗo, mahay mawɓe diina nder aduna gimɓe o winda ɓataakuuji.</li><li><b>Haa keerol aduna</b> · Urusaliima → Yahuudiya → Samariiya → Roma. Aadi Ibraahiima «leƴƴi fow» wartii goonga.</li><li><b>E enen</b> · daari joofataako; ngol yahay haa artugol Iisaa e kammuuli kesi e leydi keso.</li></ul>",
+   "next": "Kono daari joofataako ɗoo…"
+  },
+  {
+   "tag": "ALIYANI KESA · TIMMUGOL",
+   "title": "Artugol (ko fow kesum)",
+   "date": "Garowu",
+   "one": "Iisaa artoto o waɗtita ko fow kesum.",
+   "people": "Iisaa artoowo; leƴƴi fow",
+   "events": "Artugol, ɲaawoore sakkitiinde, joofol junuubu·mayde·gonɗi, kammuuli kesi e leydi keso",
+   "q": "O fitta kala gongol ka gite maɓɓe, hara hande kadi mayde waɗitataa, yoometaake, fesetaake, muuseendi waɗitataa…",
+   "cite": "Wahayu 21:4",
+   "christ": "Eden tagugol aranal artaa ka lannoode wa «Urusaliima Keso.» Alla hoɗoto e leñol mun poomaa — timmal Imanu'iila (Wahayu 21:3; Matta 1:23).",
+   "detail": "<p>Deftere Seniinde joofataako e jamaanu mawɓe diina. Deftere sakkitiinde maggo, Wahayu, hollay Iisaa <b>artoowo</b> timmina ko fow.</p><ul><li><b>Artugol</b> · laamɗo aadaaɗo on artoto e teddungal.</li><li><b>Jaalal sakkitiingal</b> · Seyɗaan e mayde mbonnaa poomaa, Almasiihu laamoo Laamɗo laamɓe (1 Korintinaaɓe 15:25-26; Wahayu 20:10).</li><li><b>Ɲaawoore e ummital</b> · ko fow ko ooñii feewnitaa, maayɓe ɓen ummitee.</li><li><b>Kammuuli kesi e leydi keso</b> · junuubu, mayde, gonɗi, e torra ƴaɓɓay poomaa (Wahayu 21:4).</li><li><b>Eden artaaɗo</b> · nder «Urusaliima Keso» ɓurnde fuɗɗoode, Alla hoɗoto e leñol mun poomaa — faandaare nde Deftere Seniinde fow yahata.</li></ul><p>Awa jooni ko jamaanu <b>«gila, kono tawi tabbii»</b>: e Iisaa dandeede <b>gila</b> timmii, kono timmugol maggo <b>tawi</b> habbaaka.</p>",
+   "next": "Awa, ko daari ngol fow firti wonande «am»?"
+  }
+ ],
+ "love": [
+  "Daari fuɗɗoraaki ɲaawoore kono aduna tagaandu e njiɗigol rufiindu.",
+  "Sa'a nde yimɓe ngaɗi junuubu, Alla aadi dandeede ɗoo e nokkuure.",
+  "Alla ari adii ka mo yonaaki, noddi mo e innde mun, waɗi mo laawol barki.",
+  "O nani ŋurŋurtugol leñol maccuɗo o jippii hoore mun dandita ngal.",
+  "Hay si ɓe njanfimo laabi keewɗi, kala sa'a nde ɓe noddi o lili dandoowo o ummitini ɓe.",
+  "O salaaki hay Daawuuda yanɗo, e makko o aadi laamɗo poomayankeejo.",
+  "Leñol huccaningol mo ɓaawo, o lili Annabaaɓe, o tora, «Ngartee, ɗaɓɓuɗen.»",
+  "Hay haa leydi ɓurndi niɓɓude horeede o jippodii e maɓɓe o aadi artugol.",
+  "Hay leñol luttungol laabi keewɗi, o ƴeɓtaaki aadi mun, kono o ummitini ngal fahin.",
+  "Hay nder duuɓi 400 deƴƴal, o suuɗii, o heɓiltinoo laawol dandeede.",
+  "Tuma ngonɗen e junuubu, o lili Ɓiɗɗo mun o hokki yonki mun.",
+  "Giggol ngol keɓɗen, jooni o lilay ngol rufa nder aduna fow.",
+  "Ka lannoode o fittay gonɗi fow o waɗtita ko fow kesum e njiɗigol."
+ ],
+ "mis": [
+  {
+   "w": "«Ko adii Alla tagi neɗɗo waawɗo waɗude junuubu? Wanaa ɓuri moƴƴude o tagaaka tigi?»",
+   "t": "Alla tagi aduna e yimɓe wanaa ngam ustaare woo, kono ngam njiɗigol rufiindu. Waɗude yimɓe <b>yimɓe jokkooɓe e Alla</b> ko njiɗigol tigi. E hay naatugol junuubu wonaano caggal eɓɓo dandeede Alla (Efesinaaɓe 1:4-5). Daari aranko Deftere Seniinde wanaa ɲaawoore kono ko njiɗigol."
+  },
+  {
+   "w": "«Ngam ɲaamugol ɓiɗɗo gootol tun, riiweede e hokkeede mayde — wanaa Alla ɓuri saɗtude?»",
+   "t": "Riiweede daga Eden ko ɲaawoore e hinnaare kadi. Si, ceeraaɗo e Alla o wonɗo e njiɗigol bonaangu, neɗɗo ɲaami daga lekki yonki o wuuri poomaa, o nanngirta torra poomaa. Yamirgol mayde ko udditugol laawol artugol; e ɗoo Alla aadi Dandoowo. Nder ɲaawoore njiɗigol wonnoo gila."
+  },
+  {
+   "w": "«Ibraahiima cuɓaa ngam o jogii gomɗinal mawngal — wanaa yimɓe Deftere Seniinde fow gorɓe moƴƴe?»",
+   "t": "Ibraahiima fewi o sikki, e Yaaquuba ko janfotooɗo. Alla noddaani «haaniɓe» kono noddi jogiiɓe ella, sabu sulfu. Sabaabu cuɓagol wanaa moƴƴere maɓɓe kono ko njiɗigol koolniingol Alla."
+  },
+  {
+   "w": "«Wanaa Sariya (yamirooje) ko jaarabi maa sharti mo a haani tokkude ngam dandeede?»",
+   "t": "Alla dandi ɓe <b>ado</b> hokkugol Sariya. Hay Sariyaaji sappo puɗɗoraa qirritaango dandeede: Alla woni Joomiraaɗo maɓɓe, yaltinɗo ɓe daga Misira. Sariya wanaa tokku ngam a dandee kono ko peewnirgol njiɗigol no leñol dandaangol e sulfu nguurdata. Sulfu adan; ɗoftaaki ko jaabawol."
+  },
+  {
+   "w": "«Foolugol Kanaana ko warhoore tampuki; Alla Aliyani Hindi ko hattaniiɗo.»",
+   "t": "Ɗun ko fii saɗtungo ngo firtataako e kongol gootol, ngo naamnii deennaaki. Kono Deftere Seniinde hollaani ɗun wa fitina mo jokkaani sariya kono ko ɲaawoore ɓaawo teemedanɗe duuɓi muɲal yeeso bone burtungo (firgol ɓikkon ko kadi). Alla yaawataa hay e ɲaawugol, e mo huccii e makko o jaɓay mo e weltaare, hay gimɗo wa Rahab e Ruutu."
+  },
+  {
+   "w": "«Daawuuda ko gorko walaa ella; ko waɗi noddetee “gorko jaɓaaɗo e ɓernde Alla.”»",
+   "t": "Daawuuda waɗi jeenaa e hay warhoore. «Gorko jaɓaaɗo e ɓernde Alla» wanaa firi walaa ella, kono mo suuɗaani junuubu mun — tuubɗo no feewi o artira ka Alla kala sa'a. Njiɗigol Alla salaani hay mo yani saɗtude."
+  },
+  {
+   "w": "«Annabo ko mbileejo habroowo garowu; Alla Aliyani Hindi ko tikkere tun.»",
+   "t": "Ɓernde Annabo wanaa habroowo garowu kono ko nodduki ɲaaƴungal Alla: ngartee, ɗaɓɓuɗen. Hay rentingol ɲaawoore ɗaɓɓataa bonude kono ko artirgol yimɓe ngam wuura — Alla wi'i o welaaka mayde gaɗoowo bone, kono o welanaa o tuuba o wuura."
+  },
+  {
+   "w": "«Horeede hollay Alla salii Isra'iila no feewi.»",
+   "t": "Horeede wanaa salaade kono ko kabaaki e laɓɓinaaki Baaba ngam ɓiɗɗo jiɗaaɗo (Ibraaniyankooɓe 12:6). Alla yahaani; o wonndi e Daani'eela nder ɓernde horeede, o aadi: o anday eɓɓooje mun, eɓɓooje jam wanaa bone, ngam hokkugol maɓɓe joofnde e tama'u."
+  },
+  null,
+  {
+   "w": "«Si duuɓi 400 walaa Kongol, wanaa Alla yahi maa himo fooftoo?»",
+   "t": "Deƴƴal wanaa woɗɗitagol. O haalaani tun, kono nder sa'a on fow o yiilatnoo laamuuji, ɗemɗe, e laabi heɓilana nokkuure dandeede. E sa'a ɓurɗo deƴƴude, Alla huwnoo no feewi, e njiɗigol (Galatinaaɓe 4:4)."
+  },
+  {
+   "w": "«Iisaa ko gooto jannginoowo moƴƴo tun; leggal altindiraangal ngal ko foolaaki suniingal.»",
+   "t": "Iisaa wi'i himo Alla (Yuhanna 8:58), e leggal altindiraangal wanaa tawtoraagol maa foolaaki kono ko njiɗigol eɓɓaangol. O naɓaaki toon e doole; o hokki yonki mun e njiɗigol mun (Yuhanna 10:18). «Hay gooto alaa giggol ɓurngol mawnude wa okkitirgol ngurndan mun ɗan fii yiɓɓe mu'un ɓen» (Yuhanna 15:13)."
+  },
+  {
+   "w": "«Mawɓe diina ko fedde diina yimɓe moƴƴuɓe timmuɓe, maa tun mahdi.»",
+   "t": "Mawɓe diina wanaa jamaa «gomɗinɓe timmuɓe» kono ko <b>gaɗooɓe junuubu haforaaɓe</b>. Hay nelaaɗo Pool noddi hoore mun «min non ko mi ɓurɗo bonde» (1 Timote 1:15). Mawɓe diina aranɓe kadi njedditii e ŋurŋurtii (Kuuɗe Nelaaɓe 6:1; 1 Korintinaaɓe 1:11). Mawɓe diina wanaa nokkuure mawnirde, kono ko yimɓe nawtooɓe njiɗigol ngol keɓi."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Junuubu aranko — hay gooto wanaa feewuɗo",
+   "body": "Caɗeele wanaa «kuuɗe bonɗe seeɗa» kono ko ɗaɗol ɓernde. Gila Aadama, kala neɗɗo jibinaa les junuubu, o waawaa hewtude Alla e hoore mun.",
+   "vref": "Roomanaaɓe 3:10-12, 23",
+   "vtext": "Feewuɗo alaa, hay e gooto non… hay gooto alaa faamu, hay gooto alaa ɗaɓɓude Alla… hay gooto alaa wonɗo waɗude ko moƴƴi, hinaa non hay e gooto! Fow waɗii junuubu, ɓe waawataa hewtude mangu Alla ngun."
+  },
+  {
+   "title": "Sariya waawaa dandude am",
+   "body": "Sariya wanaa ɓargal kono ko natal-yi'inirgal. Kala sa'a nde mi tiɗɗii nde, ɓuri hollude no mi luttitii. Faandaare maggo ko naɓde en ka Almasiihu.",
+   "vref": "Roomanaaɓe 3:20 · Galatinaaɓe 3:24",
+   "vtext": "Ko immorde e Sariya on junuubu andori… Hari Sariya on ko ngaynaako men fii ko ardoo en e Almasiihu on, fii no jogoreɗen feewuɓe sabu gomɗinal ngal."
+  },
+  {
+   "title": "Sabu sulfu — dokkal, wanaa tiiɗnaare",
+   "body": "Dandeede wanaa njoɓdi kuuɗe mooɗaa kono ko dokkal Alla ngam mo yonaaki. Ko waɗi walaa mo mawnintinoo.",
+   "vref": "Efesinaaɓe 2:8-9",
+   "vtext": "Ko sulfu on dandiraɗon sabu gomɗinal ngal, ɗun non hinaa e mon iwri, kono ko dokkal Alla. Hinaa sabu kuuɗe ɗen few fii wota gooto mawnintino."
+  },
+  {
+   "title": "Jogoreede feewuɗo sabu gomɗinal",
+   "body": "Wanaa ngam tokkugol Sariya, kono ngam gomɗingol Iisaa Almasiihu jogoreteɗen feewuɓe — min ɓoornaaka feewugol amen min kono ko makko.",
+   "vref": "Roomanaaɓe 5:1 · Galatinaaɓe 2:16",
+   "vtext": "Nde tawnoo en jogoraama feewuɓe sabu gomɗinal men ngal, hiɗen mari ɓuttu e Alla… goɗɗo jogortaake feewuɗo sabu ɗoftagol Sariya on, kono ko sabu gomɗingol Iisaa Almasiihu on."
+  },
+  {
+   "title": "Deftere Seniinde hollay Iisaa",
+   "body": "Deftere Seniinde wanaa daari mawɓe maa deftere wallitde hoore. Daga Aliyani Hindi haa Wahayu, kala hello seeday gooto — Iisaa Almasiihu.",
+   "vref": "Yuhanna 5:39 · Luuka 24:27",
+   "vtext": "Hiɗon taskoo bindi ɗin… e hin-le ko ɗin seeditii fii an… o nangi sifanagol ɓe ko windii fii makko kon fow ka defte, gila e Muusaa e ɓeya annabaaɓe fow."
+  },
+  {
+   "title": "Laamu Alla — ɓernde kabaaru Iisaa",
+   "body": "Konu ngu Iisaa ɓuri janngingol. Laamu ka Alla laamotoo wa laamɗo naati aduna e Iisaa o timmoo e artugol makko. Sabu leggal altindiraangal e ummital, Iisaa ko Laamɗo goonga fooluɗo junuubu, mayde, e Seyɗaan.",
+   "vref": "Markus 1:15",
+   "vtext": "Saa'i on hewtii, awa kadi laamu Alla ngun ɓadike! Tuubee, gomɗinon Kibaaru Moƴƴo on!"
+  },
+  {
+   "title": "Kibaaru Moƴƴo — o timmini ko fow",
+   "body": "Njoɓdi junuubu nde mi waawaano yoɓde, Iisaa yoɓi nde e nokkuure am ka leggal altindiraangal, e ummital o fooli mayde. Mi tuugortaako «waɗ ɗun» kono «fow laatike.»",
+   "vref": "Yuhanna 19:30 · Roomanaaɓe 5:8",
+   "vtext": "Fow laatike!… wa fewndo wonnoɗen junuubankeeɓe, Iisaa Almasiihu on mayno fii men."
+  }
+ ],
+ "books": {
+  "Matta": "MAT",
+  "Markus": "MRK",
+  "Luuka": "LUK",
+  "Yuhanna": "JHN",
+  "Kuuɗe Nelaaɓe": "ACT",
+  "Roomanaaɓe": "ROM",
+  "Galatinaaɓe": "GAL",
+  "Efesinaaɓe": "EPH",
+  "Filipinaaɓe": "PHP",
+  "Kolosinaaɓe": "COL",
+  "Ibraaniyankooɓe": "HEB",
+  "Wahayu": "REV",
+  "1 Korintinaaɓe": "1CO",
+  "2 Korintinaaɓe": "2CO",
+  "1 Timote": "1TI",
+  "2 Timote": "2TI",
+  "1 Piyer": "1PE",
+  "2 Piyer": "2PE"
+ },
+ "yv": 1798,
+ "bookopt": {
+  "sep": ":",
+  "suf": "",
+  "bare": false
+ }
+}
