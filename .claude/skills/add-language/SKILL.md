@@ -16,7 +16,7 @@ fetch-verse · fetch-booknames · verify-verbatim · verify-inline · verify-pro
 
 ---
 
-## ⛔ Deploy quality gate (한계점 — correctness > scale, read first)
+## ⛔ Deploy quality gate (the bar — correctness > scale, read first)
 **A language ships only if its translated *prose* is verifiably faithful.** After drafting, it must pass BOTH:
 (1) **`verify-prose`** back-translation faithfully matches the English source, AND (2) **native review** has
 **no unresolved BLOCKER/MAJOR**. If either fails and can't be fixed → **DEFER** (record in `DEFERRED.md` with the reason,
@@ -27,16 +27,16 @@ always safe (copied) — this gate is only about the AI-generated prose (storyli
 
 ## 0a. Pick the next language (which one?) — `pick-candidates`
 Don't guess from memory. Rank real candidates from **Joshua Project** data (the two axes we always use:
-**미전도(unreached)** and **화자수(speaker count)**), with repo-added languages already excluded:
+**unreached** and **speaker count**), with repo-added languages already excluded:
 ```
-JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=unreached --top=20   # 미전도 우선 (JPScale↑·화자수↓)
-JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=speakers  --top=20   # 화자 많은순
+JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=unreached --top=20   # unreached-first (JPScale↑ · fewer speakers)
+JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=speakers  --top=20   # most speakers first
 ```
-- Flags: `--min-speakers=N` · `--religion=Islam|Hindu|Buddhism|…` · `--no-bible` (성경 거의 없는 언어만, BibleStatus≤2)
-  · `--mode` (상위 후보마다 `detect-mode` 실행해 full/eBible/partial/bridge/OBS 주석 — 느림, 언어당 네트워크).
+- Flags: `--min-speakers=N` · `--religion=Islam|Hindu|Buddhism|…` · `--no-bible` (only languages with little/no Bible, BibleStatus≤2)
+  · `--mode` (annotate each top candidate with `detect-mode`'s full/eBible/partial/bridge/OBS verdict — slow, one network call per language).
 - **`JP_API_KEY` is env-only — never commit the key.** Free key: joshuaproject.net/api/keys (REST path `/v1/languages/<rol3>.json`).
   Speaker counts = JP `people_groups` Population summed by ROL3; macrolanguage codes exclude only the **standard member**
-  (so distinct varieties like `azb` 남부 아제리·각 Quechua/Fulfulde stay as valid candidates).
+  (so distinct varieties like `azb` (South Azeri) · each Quechua/Fulfulde stay as valid candidates).
 - This is **advisory** — it proposes targets only. Final go/defer is still the empirical gate (verify-prose + native review) in §0/§Quality.
 - Then take the chosen ROL3/code into §0 below (`detect-mode <code>`) to lock the mode and version ID.
 
@@ -78,7 +78,7 @@ JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=speakers  --top=
 - **Use the reusable brief: `lib/drafting-prompt.md`.** Subagents don't inherit this skill's context, so that
   template is the **self-contained** drafting brief (verbatim rules · inline-quote slots · structure · film-free ·
   terminology · per-mode handling · output format · self-check). Fill its `«…»` slots from §0's `detect-mode`
-  output (`«code» «yv» «mode» «dir» «menuName» «script/font» «판본약어»`) and hand it to a native-speaker
+  output (`«code» «yv» «mode» «dir» «menuName» «script/font» «edition-abbrev»`) and hand it to a native-speaker
   Christian-translator agent (Task/Agent tool). For several languages, run them in parallel. **Don't re-transcribe
   the rules here** — edit the template if the rules change. The essentials below are a quick reference / index:
   - `i18n/es.json` is the **structure template** (same keys/shape). `i18n/en.json` (= `EN_PACK`) is the **meaning source**.
@@ -157,7 +157,7 @@ node tools/build-pages.mjs                                # regenerates pages + 
 node .claude/skills/add-language/lib/make-qr.mjs <code>   # (optional) explicit single-language QR; build-pages already backfills missing ones
 ```
 - `qr-<code>.png` is **committed** (source of truth). **build-pages now auto-generates any missing QR** when
-  `qrcode` is loadable (repo `npm install`, or `/tmp/qrgen`); if qrcode isn't installed it prints a `⚠ 누락` warning
+  `qrcode` is loadable (repo `npm install`, or `/tmp/qrgen`); if qrcode isn't installed it prints a `⚠ 누락` (missing) warning
   and never fails the build — so install qrcode (`npm install` at repo root) before building, then commit the new PNG.
 - build-pages' page output (`<code>/index.html`, sitemap.xml, llms.txt) is **gitignored** — Vercel
   regenerates it on every deploy. Run it here to **verify it succeeds** and to inspect the generated
@@ -280,7 +280,7 @@ For a language with no usable YouVersion edition, check **eBible.org** (~1,500 r
   (e.g. Tibetan = `bodn`, NOT `bod`) and require Redistributable=True + the books you need.
 - Gate 0 / fetch / verify all use the token **`ebible:<translationId>`** wherever a YouVersion number would go:
   `node lib/fetch-verse.mjs ebible:bodn ISA.53.5,GEN.1.1,JHN.3.16` (OT present → full mode). fetch-verse parses
-  ebible.org chapter HTML (각주/notemark/popup 제외, 시편 등 100+장은 PSA023.htm 3자리, 챕터끝 tnav 컷).
+  ebible.org chapter HTML (excludes footnotes/notemark/popup; 100+ chapter books like Psalms use 3-digit PSA023.htm; cuts at the chapter-end tnav).
 - Config: set **`"yv": "ebible:<translationId>"`** (a **string**, not a number). integrate/gates/verseUrl all handle it
   automatically — `verseUrl` links to `https://ebible.org/<id>/<BOOK><CC>.htm#V<v>` (PSA → 3-digit chapter).
 - **★ Check the actual script before committing** — the catalog name can mislead: eBible `azb` ("South Azerbaijani")

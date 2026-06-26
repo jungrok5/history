@@ -64,7 +64,7 @@ auto-derived from `LANGS`; only these **non-derivable decisions** need a home:
 picks valid-but-divergent names that don't match the edition → unlinked refs. **Run `node lib/fetch-booknames.mjs <YV> --config`**
 (reads the version's books API `human` field, emits the books_single/books_numbered config + warnings) and build BOOKS from THAT;
 then reconcile any body ref the agent wrote to the edition's spelling. Real azb hits: agent wrote قانونون تکراری/لاویلیلر/عبرانیلر,
-edition = تثنئیه/لاوئلی‌لر/عئبرانئلره (integrate's "미해결 토큰" warning also surfaces them). For Arabic-script editions the API names carry
+edition = تثنئیه/لاوئلی‌لر/عئبرانئلره (integrate's "미해결 토큰" / unresolved-token warning also surfaces them). For Arabic-script editions the API names carry
 a **native-digit prefix + no space** (۱سمویئل) — fetch-booknames keeps the base stem in `books_numbered` so integrate emits the ASCII "1 …" form
 (refs stay ASCII; convert any stray Persian-digit ref like "۱ قورئنتلی‌لره" → "1 …"). fetch-booknames also auto-handles three API quirks
 hit on zlm/nan/hak: ① **CJK abbreviated Gospels** — `human` gives 約翰 (John) but the body uses 約翰福音, so it prefers `human_long`
