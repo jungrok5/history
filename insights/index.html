@@ -58,6 +58,7 @@
   .hero .purpose{max-width:700px;margin:22px auto 0;color:var(--muted);font-size:.99rem}
   section{padding:58px 0;border-top:1px solid var(--line)}
   section.alt{background:var(--bg2)}
+  .subhead{margin-top:44px;font-size:1.2rem;color:var(--ink)}
   .big{font-family:var(--serif);font-size:clamp(2.4rem,9vw,4.2rem);font-weight:700;color:var(--accent);line-height:1}
   .stat-row{display:flex;flex-wrap:wrap;gap:30px;margin:8px 0 0}
   .stat .n{font-family:var(--serif);font-size:clamp(1.7rem,5vw,2.5rem);font-weight:700;color:var(--full);line-height:1}
@@ -210,8 +211,8 @@
   <p class="sub" style="font-size:.85rem;margin-top:6px" data-t="v_note"></p>
 </div></section>
 
-<!-- GLOBE -->
-<section id="earth"><div class="wrap">
+<!-- GLOBE + REGION -->
+<section id="earth" class="alt"><div class="wrap">
   <div class="kicker" data-t="e_kick"></div>
   <h2 data-t="e_h"></h2>
   <p class="lead" data-t="e_lead"></p>
@@ -224,12 +225,7 @@
   </div>
   <div class="globe-info" id="globeInfo" hidden></div>
   <p class="globe-hint" data-t="e_hint"></p>
-</div></section>
-
-<!-- BY REGION -->
-<section id="region" class="alt"><div class="wrap">
-  <div class="kicker" data-t="g_kick"></div>
-  <h2 data-t="g_h"></h2>
+  <h3 class="subhead" data-t="g_h"></h3>
   <p class="lead" data-t="g_lead"></p>
   <div class="regions" id="regionCards"></div>
 </div></section>
@@ -249,7 +245,7 @@
 </div></section>
 
 <!-- INVITATION -->
-<section id="invite"><div class="wrap">
+<section id="invite" class="alt"><div class="wrap">
   <div class="kicker" data-t="i_kick"></div>
   <h2 data-t="i_h"></h2>
   <p class="lead" data-t="i_lead"></p>
@@ -313,18 +309,17 @@ const T = {
   e_lead:{ko:'옮겨진 언어를 화자가 가장 많이 사는 곳에 점으로 찍었습니다. 크기는 모어 화자 수, 색은 옮긴 방식입니다. 끌어서 돌려 보세요.',
     en:'Each carried language is a point where most of its speakers live. Size is mother-tongue speakers; color is how it was carried. Drag to spin.'},
   e_hint:{ko:'자동으로 회전합니다 · 끌어서 돌리고, 점을 탭하면 언어가 보입니다',en:'Spins on its own · drag to rotate, tap a point to see the language'},
-  g_kick:{ko:'⑤ 복음이 닿은 땅',en:'⑤ Where the gospel has reached'},
-  g_h:{ko:'땅끝까지 — 대륙별로',en:'To the ends of the earth — by continent'},
+  g_h:{ko:'대륙별로 — 복음이 닿은 땅',en:'By continent — where the gospel has reached'},
   g_lead:{ko:'옮겨진 언어를 화자가 가장 많이 사는 대륙으로 묶어 봤습니다. 막대는 그 대륙에서 모어로 가 닿는 사람 수입니다.',
     en:'The carried languages, grouped by the continent where most of their speakers live. The bar is how many people they reach in their mother tongue there.'},
 
-  m_kick:{ko:'⑥ 방언의 지도',en:'⑥ A map of tongues'},
+  m_kick:{ko:'⑤ 방언의 지도',en:'⑤ A map of tongues'},
   m_h:{ko:'각 나라와 족속과 백성과 방언에서',en:'From every nation, tribe, people and language'},
   m_lead:{ko:'네모 하나가 한 언어입니다. 크기는 모어 화자 수, 색은 옮긴 방식 — 전권 인용 · 신약 중심(부분) · 이웃 언어의 성경을 빌린 다리(bridge) · 성경이 없어 그림 이야기 성경에서 가져온 OBS.',
     en:'Each rectangle is one language. Size is mother-tongue speakers; color is how it was carried — full quotation · New-Testament-centered (partial) · bridged from a neighbor’s Bible · or, where no Bible exists, drawn from an illustrated story-Bible (OBS).'},
   m_full:{ko:'전권 인용',en:'full'}, m_partial:{ko:'부분(신약 중심)',en:'partial (NT-centered)'}, m_bridge:{ko:'다리(이웃 언어)',en:'bridge'}, m_obs:{ko:'그림 성경(OBS)',en:'OBS (story Bible)'},
 
-  i_kick:{ko:'⑦ 함께 하는 초대',en:'⑦ An invitation'},
+  i_kick:{ko:'⑥ 함께 하는 초대',en:'⑥ An invitation'},
   i_h:{ko:'데이터가 기도와 사명으로',en:'Data becomes prayer and mission'},
   i_lead:{ko:'이 일은 한 사람의 의가 아니라 그리스도의 몸이 함께 짊어지는 지상명령입니다. 네 가지로 함께해 주세요.',
     en:'This is not one person’s righteousness but the Great Commission carried together by the body of Christ. Join in four ways.'},
