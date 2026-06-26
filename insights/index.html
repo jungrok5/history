@@ -550,7 +550,7 @@ addEventListener('resize',()=>{ if(D) renderMap(); });
 
 /* initial language: saved → browser → ko */
 try{ const sv=localStorage.getItem('lang'); if(sv==='ko'||sv==='en') L=sv; else if((navigator.language||'').toLowerCase().startsWith('en')) L='en'; }catch(e){}
-fetch('./data.json').then(r=>r.json()).then(d=>{D=d; renderAll(); buildFacts(); startGlobe();})
+fetch('./data.json?v=2',{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d; renderAll(); buildFacts(); startGlobe();})
   .catch(()=>{ applyText(); $('#factStage').innerHTML='<p class="sub">data.json load failed.</p>'; });
 </script>
 </body>

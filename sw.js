@@ -22,8 +22,9 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return; // 외부(GA 등)는 그대로 통과
 
-  // 콘텐츠(HTML 네비게이션 + i18n JSON): network-first (온라인이면 항상 최신)
-  const isContent = req.mode === 'navigate' || url.pathname.startsWith('/i18n/');
+  // 콘텐츠(HTML 네비게이션 + i18n JSON + insights 데이터): network-first (온라인이면 항상 최신)
+  // /insights/ 의 data.json 은 배포마다 갱신되므로 cache-first 면 재방문자에게 옛 데이터(좌표 누락 등)가 남는다 → network-first 필수
+  const isContent = req.mode === 'navigate' || url.pathname.startsWith('/i18n/') || url.pathname.startsWith('/insights/');
   if (isContent) {
     e.respondWith(
       fetch(req).then((res) => { const cp = res.clone(); caches.open(CACHE).then((c) => c.put(req, cp)); return res; })
