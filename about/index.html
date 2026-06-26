@@ -138,8 +138,12 @@
     padding:.7em 1.4em;border-radius:999px;font-weight:700}
   .cta.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
   .ctas{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:26px}
-  footer{padding:42px 0 72px;color:var(--muted);font-size:.82rem;border-top:1px solid var(--line)}
-  .src{margin-top:10px;line-height:1.9}
+  footer{padding:42px 0 72px;color:var(--muted);font-size:.82rem;border-top:1px solid var(--line);text-align:center}
+  .footnav{margin-top:12px;display:flex;gap:4px 9px;justify-content:center;align-items:center;flex-wrap:wrap;font-size:.82rem}
+  .footnav a{color:var(--muted);text-decoration:none}
+  .footnav a:hover{color:var(--ink)}
+  .footnav .sep{opacity:.4}
+  .src{margin-top:14px;line-height:1.9;max-width:680px;margin-left:auto;margin-right:auto}
   .en .ko-only{display:none}.ko .en-only{display:none}
 </style>
 </head>
@@ -271,6 +275,11 @@
 
 <footer><div class="wrap">
   <p data-t="foot"></p>
+  <nav class="footnav">
+    <a href="/">← <span data-t="fn_home"></span></a><span class="sep">·</span>
+    <a href="/maps/" data-t="fn_maps"></a><span class="sep">·</span>
+    <a href="https://github.com/jungrok5/one-scroll-bible" target="_blank" rel="noopener">GitHub</a>
+  </nav>
   <div class="src" id="sources"></div>
 </div></footer>
 
@@ -328,8 +337,8 @@ const T = {
 
   i_kick:{ko:'⑥ 함께 하는 초대',en:'⑥ An invitation'},
   i_h:{ko:'데이터가 기도와 사명으로',en:'Data becomes prayer and mission'},
-  i_lead:{ko:'이 일은 한 사람의 의가 아니라 그리스도의 몸이 함께 짊어지는 지상명령입니다. 네 가지로 함께해 주세요.',
-    en:'This is not one person’s righteousness but the Great Commission carried together by the body of Christ. Join in four ways.'},
+  i_lead:{ko:'이 일은 그리스도의 몸이 함께 짊어지는 지상명령입니다. 네 가지로 함께해 주세요.',
+    en:'This is the Great Commission, carried together by the body of Christ. Join in four ways.'},
   i_p_h:{ko:'기도',en:'Pray'}, i_p_b:{ko:'아직 성경이 없는 언어와, 위 보류 목록의 언어들을 위해. 추수할 일꾼을 보내 주시도록.',en:'For languages still without Scripture, and those on the list above — that the Lord would send workers into His harvest.'},
   i_s_h:{ko:'전하기',en:'Share'}, i_s_b:{ko:'복음을 모어로 읽을 수 있는 사람에게 그의 언어 페이지를 보내 주세요. 한 링크가 한 영혼에게.',en:'Send someone the page in their own tongue. One link can reach one soul in the language of the heart.'},
   i_g_h:{ko:'후원',en:'Give'}, i_g_b:{ko:'성경 번역 단체(위클리프 등)를 통해, 아직 말씀이 없는 민족에게 번역이 시작되도록.',en:'Through Bible-translation organizations (Wycliffe and others), so translation can begin for peoples still without the Word.'},
@@ -337,11 +346,13 @@ const T = {
   i_share:{ko:'공유하기 →',en:'Share the page →'},
   i_cta:{ko:'한눈에 보는 성경 이야기 보러 가기 →',en:'See the Bible in One Scroll →'},
   i_maps:{ko:'지도로 보는 성경 →',en:'Bible by Map →'},
+  fn_home:{ko:'한눈에 보는 성경 이야기',en:'Bible in One Scroll'},
+  fn_maps:{ko:'지도로 보는 성경',en:'Bible by Map'},
   i_gh:{ko:'GitHub에서 기여하기 →',en:'Contribute on GitHub →'},
   i_contrib:{ko:'기여 가이드 보기 →',en:'Read the contributing guide →'},
 
-  foot:{ko:'이 모든 일의 목적은 사람의 의가 아니라, 하나님의 지상 최대 명령인 복음의 전파입니다. 영광은 오직 하나님께.',
-    en:'The purpose of all this is not human righteousness but the proclamation of the gospel — God’s great command. Glory to God alone.'},
+  foot:{ko:'이 모든 일의 목적은 하나님의 지상 최대 명령인 복음의 전파입니다. 영광은 오직 하나님께.',
+    en:'The purpose of all this is the proclamation of the gospel — God’s great command. Glory to God alone.'},
 };
 
 const FACTS = [

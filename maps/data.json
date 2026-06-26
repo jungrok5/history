@@ -25,7 +25,9 @@
      "The fall, and exile from Eden",
      "The first gospel promise — “the offspring of the woman will crush the serpent’s head”"
     ],
-    "usfm": "GEN.1.1"
+    "usfms": [
+     "GEN.1.1"
+    ]
    },
    {
     "id": "noah",
@@ -49,7 +51,9 @@
      "The flood, and Noah’s ark",
      "The rainbow covenant — “never again a flood to destroy”"
     ],
-    "usfm": "GEN.6.1"
+    "usfms": [
+     "GEN.6.1"
+    ]
    },
    {
     "id": "babel",
@@ -73,7 +77,9 @@
      "God confuses their language",
      "The peoples scatter over the earth (Shinar — later Babylon)"
     ],
-    "usfm": "GEN.11.1"
+    "usfms": [
+     "GEN.11.1"
+    ]
    },
    {
     "id": "ur",
@@ -98,7 +104,9 @@
      "“I will make of you a great nation… all peoples blessed through you”",
      "By faith he leaves his homeland"
     ],
-    "usfm": "GEN.12.1"
+    "usfms": [
+     "GEN.12.1"
+    ]
    },
    {
     "id": "haran",
@@ -123,7 +131,9 @@
      "Terah dies",
      "Abram sets out for Canaan at age 75"
     ],
-    "usfm": "GEN.12.1"
+    "usfms": [
+     "GEN.12.1"
+    ]
    },
    {
     "id": "shechem",
@@ -148,7 +158,9 @@
      "The covenant (Gen 15) · Isaac · Jacob",
      "Jacob’s twelve sons — root of the twelve tribes"
     ],
-    "usfm": "GEN.12.1"
+    "usfms": [
+     "GEN.12.1"
+    ]
    },
    {
     "id": "egypt",
@@ -173,7 +185,10 @@
      "Jacob’s whole family comes down to escape famine",
      "The growing nation of Israel is enslaved"
     ],
-    "usfm": "GEN.37.1"
+    "usfms": [
+     "GEN.37.1",
+     "EXO.1.1"
+    ]
    },
    {
     "id": "sinai",
@@ -198,7 +213,10 @@
      "The Red Sea parts and they cross",
      "Ten Commandments, the Law, the tabernacle and sacrifices"
     ],
-    "usfm": "EXO.1.1"
+    "usfms": [
+     "EXO.1.1",
+     "LEV.1.1"
+    ]
    },
    {
     "id": "kadesh",
@@ -223,7 +241,10 @@
      "38 years in the desert — manna, cloud and fire",
      "On the plains of Moab, Moses’ last sermon (Deuteronomy)"
     ],
-    "usfm": "NUM.1.1"
+    "usfms": [
+     "NUM.1.1",
+     "DEU.1.1"
+    ]
    },
    {
     "id": "jericho",
@@ -248,7 +269,9 @@
      "The walls of Jericho fall",
      "Conquest of Canaan and division of the land"
     ],
-    "usfm": "JOS.1.1"
+    "usfms": [
+     "JOS.1.1"
+    ]
    },
    {
     "id": "shiloh",
@@ -273,7 +296,10 @@
      "The cycle of sin–oppression–rescue (Deborah, Gideon, Samson)",
      "Ruth — faithfulness in dark days, in David’s line"
     ],
-    "usfm": "JDG.1.1"
+    "usfms": [
+     "JDG.1.1",
+     "RUT.1.1"
+    ]
    },
    {
     "id": "jerusalem",
@@ -298,7 +324,10 @@
      "The Davidic covenant — “your throne forever” (2 Sam 7)",
      "Solomon builds the temple in Jerusalem"
     ],
-    "usfm": "1SA.1.1"
+    "usfms": [
+     "1SA.1.1",
+     "1KI.1.1"
+    ]
    },
    {
     "id": "samaria",
@@ -323,7 +352,10 @@
      "Repeated idolatry",
      "Elijah, Isaiah, Jeremiah cry ‘return’ — and foretell the Messiah"
     ],
-    "usfm": "1KI.1.1"
+    "usfms": [
+     "1KI.1.1",
+     "1KI.1.1"
+    ]
    },
    {
     "id": "nineveh",
@@ -348,7 +380,10 @@
      "The northern kingdom falls to Assyria (722 BC)",
      "Jonah is sent to Nineveh"
     ],
-    "usfm": "2KI.17.1"
+    "usfms": [
+     "2KI.17.1",
+     "JON.1.1"
+    ]
    },
    {
     "id": "babylon",
@@ -373,7 +408,11 @@
      "Judah is carried off to Babylon",
      "Daniel and Ezekiel — faith and visions in exile"
     ],
-    "usfm": "2KI.25.1"
+    "usfms": [
+     "2KI.25.1",
+     "DAN.1.1",
+     "EZK.1.1"
+    ]
    },
    {
     "id": "susa",
@@ -398,7 +437,10 @@
      "Esther saves the Jews from destruction",
      "Nehemiah prays before the king and is sent"
     ],
-    "usfm": "EST.1.1"
+    "usfms": [
+     "EST.1.1",
+     "NEH.1.1"
+    ]
    },
    {
     "id": "return",
@@ -423,7 +465,11 @@
      "Temple rebuilt and Jerusalem’s walls restored",
      "Malachi — the OT closes: “I will send my messenger”"
     ],
-    "usfm": "EZR.1.1"
+    "usfms": [
+     "EZR.1.1",
+     "NEH.1.1",
+     "MAL.1.1"
+    ]
    }
   ],
   "labels": [
@@ -509,7 +555,10 @@
      "Angels announce the news to shepherds",
      "The Magi come to worship"
     ],
-    "usfm": "MAT.1.1"
+    "usfms": [
+     "MAT.1.1",
+     "LUK.2.1"
+    ]
    },
    {
     "id": "nazareth",
@@ -534,7 +583,10 @@
      "At twelve, asking and answering in the temple",
      "Later rejected in his hometown synagogue"
     ],
-    "usfm": "LUK.2.1"
+    "usfms": [
+     "LUK.2.1",
+     "LUK.4.1"
+    ]
    },
    {
     "id": "jordan",
@@ -559,7 +611,9 @@
      "The Spirit descends like a dove — “This is my beloved Son”",
      "Overcomes Satan’s three temptations in the wilderness"
     ],
-    "usfm": "MAT.3.1"
+    "usfms": [
+     "MAT.3.1"
+    ]
    },
    {
     "id": "cana",
@@ -584,7 +638,9 @@
      "Water turned to wine — his first sign",
      "His disciples believe in him"
     ],
-    "usfm": "JHN.2.1"
+    "usfms": [
+     "JHN.2.1"
+    ]
    },
    {
     "id": "sychar",
@@ -609,7 +665,9 @@
      "By night, Nicodemus — “You must be born again”",
      "Living water for a Samaritan woman"
     ],
-    "usfm": "JHN.2.1"
+    "usfms": [
+     "JHN.2.1"
+    ]
    },
    {
     "id": "capernaum",
@@ -634,7 +692,10 @@
      "The Sermon on the Mount — “Blessed are the poor in spirit”",
      "Parables of the kingdom — and rising opposition"
     ],
-    "usfm": "MAT.4.1"
+    "usfms": [
+     "MAT.4.1",
+     "MRK.1.1"
+    ]
    },
    {
     "id": "galilee",
@@ -659,7 +720,11 @@
      "Feeds 5,000 with five loaves and two fish",
      "Walks on the water"
     ],
-    "usfm": "MRK.4.1"
+    "usfms": [
+     "MRK.4.1",
+     "MRK.6.1",
+     "JHN.6.1"
+    ]
    },
    {
     "id": "caesarea_p",
@@ -684,7 +749,9 @@
      "He first foretells his death and resurrection",
      "Transfigured in glory on the mountain"
     ],
-    "usfm": "MAT.16.1"
+    "usfms": [
+     "MAT.16.1"
+    ]
    },
    {
     "id": "jericho",
@@ -709,7 +776,9 @@
      "He calls Zacchaeus the tax collector",
      "“The Son of Man came to seek and save the lost”"
     ],
-    "usfm": "LUK.18.1"
+    "usfms": [
+     "LUK.18.1"
+    ]
    },
    {
     "id": "bethany",
@@ -734,7 +803,9 @@
      "Mary anoints him for burial",
      "This sign hardens the plot to kill him"
     ],
-    "usfm": "JHN.11.1"
+    "usfms": [
+     "JHN.11.1"
+    ]
    },
    {
     "id": "jerusalem",
@@ -761,7 +832,11 @@
      "He dies on the cross",
      "Risen on the third day, then ascended"
     ],
-    "usfm": "MAT.21.1"
+    "usfms": [
+     "MAT.21.1",
+     "LUK.24.1",
+     "ACT.1.1"
+    ]
    }
   ],
   "labels": [
@@ -861,7 +936,10 @@
      "The church where believers were first called ‘Christians’",
      "Launch point of the 1st, 2nd and 3rd journeys"
     ],
-    "usfm": "ACT.13.1"
+    "usfms": [
+     "ACT.13.1",
+     "ACT.15.1"
+    ]
    },
    {
     "id": "seleucia",
@@ -875,7 +953,9 @@
     "today_en": "Türkiye today",
     "note_ko": "안디옥의 항구 — 배를 타고 구브로로 떠난다.",
     "note_en": "Antioch’s port — they set sail for Cyprus.",
-    "usfm": "ACT.13.4"
+    "usfms": [
+     "ACT.13.4"
+    ]
    },
    {
     "id": "salamis",
@@ -889,7 +969,9 @@
     "today_en": "Cyprus today",
     "note_ko": "구브로 섬에 첫발 — 회당에서 말씀을 전한다.",
     "note_en": "First stop on Cyprus — preaching in the synagogues.",
-    "usfm": "ACT.13.5"
+    "usfms": [
+     "ACT.13.5"
+    ]
    },
    {
     "id": "paphos",
@@ -913,7 +995,9 @@
      "Sergius Paulus the proconsul believes",
      "From here ‘Paul’ takes the lead"
     ],
-    "usfm": "ACT.13.6"
+    "usfms": [
+     "ACT.13.6"
+    ]
    },
    {
     "id": "perga",
@@ -927,7 +1011,9 @@
     "today_en": "Antalya, Türkiye today",
     "note_ko": "밤빌리아의 항구 — 여기서 마가 요한이 떠난다.",
     "note_en": "A port in Pamphylia — here John Mark turns back.",
-    "usfm": "ACT.13.13"
+    "usfms": [
+     "ACT.13.13"
+    ]
    },
    {
     "id": "pantioch",
@@ -951,7 +1037,9 @@
      "Many Gentiles rejoice and receive the word",
      "Driven out by opposition"
     ],
-    "usfm": "ACT.13.14"
+    "usfms": [
+     "ACT.13.14"
+    ]
    },
    {
     "id": "iconium",
@@ -965,7 +1053,9 @@
     "today_en": "Konya, Türkiye today",
     "note_ko": "큰 무리가 믿었으나 핍박을 피해 떠난다.",
     "note_en": "Many believe, but persecution forces them on.",
-    "usfm": "ACT.14.1"
+    "usfms": [
+     "ACT.14.1"
+    ]
    },
    {
     "id": "lystra",
@@ -989,7 +1079,9 @@
      "The crowd tries to sacrifice to them as gods",
      "Stoned and left for dead, he gets up"
     ],
-    "usfm": "ACT.14.8"
+    "usfms": [
+     "ACT.14.8"
+    ]
    },
    {
     "id": "derbe",
@@ -1003,7 +1095,9 @@
     "today_en": "Türkiye today",
     "note_ko": "많은 제자를 얻고, 왔던 길로 돌아가 교회를 굳게 한다.",
     "note_en": "Many disciples are made; they retrace their steps to strengthen the churches.",
-    "usfm": "ACT.14.20"
+    "usfms": [
+     "ACT.14.20"
+    ]
    },
    {
     "id": "troas",
@@ -1027,7 +1121,9 @@
      "“Come over and help us”",
      "They cross at once into Europe"
     ],
-    "usfm": "ACT.16.8"
+    "usfms": [
+     "ACT.16.8"
+    ]
    },
    {
     "id": "philippi",
@@ -1051,7 +1147,10 @@
      "A fortune-telling slave girl is freed",
      "Midnight hymns, an earthquake, the jailer’s household saved"
     ],
-    "usfm": "ACT.16.1"
+    "usfms": [
+     "ACT.16.1",
+     "PHP.1.1"
+    ]
    },
    {
     "id": "thess",
@@ -1075,7 +1174,10 @@
      "“These who have turned the world upside down”",
      "They slip away by night"
     ],
-    "usfm": "ACT.17.1"
+    "usfms": [
+     "ACT.17.1",
+     "1TH.1.1"
+    ]
    },
    {
     "id": "berea",
@@ -1099,7 +1201,9 @@
      "Daily they examine the Scriptures to check it",
      "Many come to believe"
     ],
-    "usfm": "ACT.17.10"
+    "usfms": [
+     "ACT.17.10"
+    ]
    },
    {
     "id": "athens",
@@ -1123,7 +1227,9 @@
      "On the Areopagus he preaches Creator and resurrection",
      "Mocked, yet a few believe"
     ],
-    "usfm": "ACT.17.16"
+    "usfms": [
+     "ACT.17.16"
+    ]
    },
    {
     "id": "corinth",
@@ -1147,7 +1253,10 @@
      "“Do not be afraid… for I am with you”",
      "Many Corinthians believe and are baptized"
     ],
-    "usfm": "ACT.18.1"
+    "usfms": [
+     "ACT.18.1",
+     "1CO.1.1"
+    ]
    },
    {
     "id": "ephesus",
@@ -1171,7 +1280,10 @@
      "Magic books burned; powerful works",
      "The silversmith Demetrius starts a riot"
     ],
-    "usfm": "ACT.19.1"
+    "usfms": [
+     "ACT.19.1",
+     "EPH.1.1"
+    ]
    },
    {
     "id": "miletus",
@@ -1193,7 +1305,9 @@
      "“Care for the church he bought with his own blood”",
      "The elders weep, knowing they’ll not see him again"
     ],
-    "usfm": "ACT.20.17"
+    "usfms": [
+     "ACT.20.17"
+    ]
    },
    {
     "id": "caesarea",
@@ -1217,7 +1331,9 @@
      "His defense before King Agrippa",
      "“I appeal to Caesar” — on to Rome"
     ],
-    "usfm": "ACT.23.1"
+    "usfms": [
+     "ACT.23.1"
+    ]
    },
    {
     "id": "jerusalem",
@@ -1241,7 +1357,9 @@
      "Defends himself before the council",
      "As a Roman citizen, sent under guard to Caesarea"
     ],
-    "usfm": "ACT.21.1"
+    "usfms": [
+     "ACT.21.1"
+    ]
    },
    {
     "id": "myra",
@@ -1255,7 +1373,9 @@
     "today_en": "Demre, Türkiye today",
     "note_ko": "로마로 가는 알렉산드리아 배로 갈아탄다.",
     "note_en": "They transfer to an Alexandrian ship bound for Rome.",
-    "usfm": "ACT.27.5"
+    "usfms": [
+     "ACT.27.5"
+    ]
    },
    {
     "id": "fairhaven",
@@ -1269,7 +1389,9 @@
     "today_en": "Crete today",
     "note_ko": "항해를 멈추라는 바울의 경고가 무시된다.",
     "note_en": "Paul’s warning to stop sailing goes unheeded.",
-    "usfm": "ACT.27.8"
+    "usfms": [
+     "ACT.27.8"
+    ]
    },
    {
     "id": "crete",
@@ -1293,7 +1415,9 @@
      "Calls for blameless, faithful leaders",
      "Writes the letter to Titus"
     ],
-    "usfm": "TIT.1.1"
+    "usfms": [
+     "TIT.1.1"
+    ]
    },
    {
     "id": "malta",
@@ -1317,7 +1441,9 @@
      "Bitten by a viper, he is unharmed",
      "He heals the sick of the island"
     ],
-    "usfm": "ACT.27.1"
+    "usfms": [
+     "ACT.27.1"
+    ]
    },
    {
     "id": "syracuse",
@@ -1331,7 +1457,9 @@
     "today_en": "Sicily, Italy today",
     "note_ko": "시칠리아에서 사흘을 머문다.",
     "note_en": "They stay three days in Sicily.",
-    "usfm": "ACT.28.12"
+    "usfms": [
+     "ACT.28.12"
+    ]
    },
    {
     "id": "puteoli",
@@ -1345,7 +1473,9 @@
     "today_en": "Pozzuoli, Italy today",
     "note_ko": "이탈리아에 상륙해 형제들을 만난다.",
     "note_en": "They land in Italy and are met by fellow believers.",
-    "usfm": "ACT.28.13"
+    "usfms": [
+     "ACT.28.13"
+    ]
    },
    {
     "id": "rome",
@@ -1369,7 +1499,11 @@
      "From here he writes the Prison Letters (Eph·Phil·Col·Phm)",
      "Later imprisoned again, writes 2 Timothy and is martyred — “I have fought the good fight, I have finished the race”"
     ],
-    "usfm": "ACT.28.1"
+    "usfms": [
+     "ACT.28.1",
+     "ACT.1.1",
+     "2TI.1.1"
+    ]
    }
   ],
   "labels": [

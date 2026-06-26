@@ -88,10 +88,11 @@
   .info .inum{flex:none;width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;
     font-weight:700;color:#0e1118;font-family:var(--serif);margin-top:2px}
   .info h4{font-size:1.12rem;display:inline}
-  .info .iref{display:inline-block;font-size:.72rem;color:var(--accent);font-weight:700;margin-left:.5em;
-    border:1px solid var(--line);border-radius:999px;padding:.08em .6em;vertical-align:middle}
-  .info .iref a{color:inherit;text-decoration:none}
-  .info .iref a:hover{text-decoration:underline;text-underline-offset:2px}
+  .info .iref{font-size:.8rem;font-weight:700;margin-left:.5em;vertical-align:middle;white-space:nowrap}
+  .info .iref .bk{opacity:.85}
+  .info .iref .sep{color:var(--muted);margin:0 .35em;font-weight:400}
+  .info .iref a{color:var(--accent);text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}
+  .info .iref a:hover{opacity:.8}
   .info .inote{margin:.4em 0 .35em;font-size:.96rem;color:var(--ink);opacity:.92}
   .info .ievents{margin:.2em 0 .5em;padding:0;list-style:none}
   .info .ievents li{position:relative;font-size:.88rem;line-height:1.55;color:var(--ink);opacity:.9;padding-left:.95em;margin:.18em 0}
@@ -99,8 +100,11 @@
   .info .itoday{font-size:.84rem;color:var(--muted)}
   .info .itoday b{color:var(--ink);font-weight:600}
   .jnote{padding:0 16px 12px;color:var(--muted);font-size:.9rem}
-  footer{padding:46px 0 70px;color:var(--muted);font-size:.86rem;text-align:center}
-  footer .links{margin-top:10px;display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+  footer{padding:46px 0 70px;color:var(--muted);font-size:.86rem;text-align:center;border-top:1px solid var(--line)}
+  .footnav{margin-top:12px;display:flex;gap:4px 9px;justify-content:center;align-items:center;flex-wrap:wrap;font-size:.82rem}
+  .footnav a{color:var(--muted);text-decoration:none}
+  .footnav a:hover{color:var(--ink)}
+  .footnav .sep{opacity:.4}
   .loading{padding:60px 20px;text-align:center;color:var(--muted)}
 </style>
 </head>
@@ -146,10 +150,11 @@
 
 <footer><div class="wrap">
   <p data-t="foot"></p>
-  <div class="links">
-    <a href="/">← <span data-t="back"></span></a>
-    <a href="/about/" data-t="insights"></a>
-  </div>
+  <nav class="footnav">
+    <a href="/">← <span data-t="back"></span></a><span class="sep">·</span>
+    <a href="/about/" data-t="insights"></a><span class="sep">·</span>
+    <a href="https://github.com/jungrok5/one-scroll-bible" target="_blank" rel="noopener">GitHub</a>
+  </nav>
 </div></footer>
 
 <script>
@@ -179,7 +184,7 @@ const T = {
   foot:{ko:'지명과 위치는 성경 본문과 표준 성서지리(가능한 경우 현대 지명 병기)를 따랐습니다. 해안선·하천·호수는 공개 지리 데이터(Natural Earth)를 단순화해 그렸습니다.',
     en:'Places follow the biblical text and standard Bible geography (with modern names where helpful). Coastlines, rivers and lakes are drawn from open geographic data (Natural Earth), simplified.'},
   back:{ko:'성경 이야기로 돌아가기',en:'Back to the scroll'},
-  insights:{ko:'이 프로젝트 소개 →',en:'About this project →'},
+  insights:{ko:'이 프로젝트 소개',en:'About this project'},
 
   play:{ko:'재생',en:'Play'}, pause:{ko:'일시정지',en:'Pause'},
   today:{ko:'지금은', en:'Today:'},
@@ -199,8 +204,10 @@ function vmapUrl(usfm){ const p=String(usfm||'').split('.'); if(p.length<3)retur
   const id=YV[L]; if(!id)return null;
   return 'https://www.bible.com/bible/'+id+'/'+usfm; }
 function bookRefHtml(pl){ const t=pl['book_'+L]||pl.ref||''; if(!t)return '';
-  const e=t.replace(/&/g,'&amp;').replace(/</g,'&lt;'); const u=vmapUrl(pl.usfm);
-  return u?('<a href="'+u+'" target="_blank" rel="noopener" data-ref="'+pl.usfm+'">'+e+'</a>'):e; }
+  const us=pl.usfms||[]; const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;');
+  const parts=t.split('·').map((seg,i)=>{ const e=esc(seg.trim()); const u=us[i]?vmapUrl(us[i]):null;
+    return u?('<a href="'+u+'" target="_blank" rel="noopener" data-ref="'+us[i]+'">'+e+'</a>'):e; });
+  return '<span class="bk">📖</span> '+parts.join('<span class="sep">·</span>'); }
 
 function applyText(){
   document.documentElement.lang = L;
