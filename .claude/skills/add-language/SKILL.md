@@ -45,6 +45,12 @@ JP_API_KEY=$(cat /tmp/jp_key) node lib/pick-candidates.mjs --by=speakers  --top=
 > **YouVersion full → YouVersion NT(partial) → eBible full → eBible NT(partial) → OBS → bridge → defer.**
 > (i.e. always prefer a full Bible; if none, a NT-only edition = partial mode; only if no Bible text anywhere
 > does it fall to OBS/bridge; if nothing usable + prose can't be trusted → defer to DEFERRED.md.)
+>
+> **Source must be fetch + reader, not fetch-only.** This site is a *gateway* — every cite is a clickable link into a real
+> reader. So prefer sources that give BOTH verbatim text AND a per-verse reader URL: **YouVersion** (bible.com), **eBible.org**,
+> **bskorea** (ko). **API.Bible (`apibible:`) is fetch-only — it has no public reader URL**, so it's a **last-resort fallback**
+> used only when (a) no linkable source exists AND (b) link-less plain-text refs are acceptable (like OBS, `verseUrl`→null), or
+> the same edition is independently readable. Don't reach for `apibible:` while a YV/eBible edition exists.
 
 0. **Fastest path — run `detect-mode` first** (probes all sources and prints the cascade's verdict):
    ```

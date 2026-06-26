@@ -42,12 +42,10 @@
 | `oci` | Occitan | HELD | YV has only an 1866 single book + Proverbs — fragment | a multi-book / full edition |
 | `scn` | Sicilian | HELD | YV has only a 3-book fragment | a multi-book / full edition |
 | `fur` | Friulian | HELD | YV has only an 1860 single-book fragment | a multi-book / full edition |
-| `acm` | Mesopotamian Arabic | COVERED-BY-PARENT | covered by MSA (`ar`); essentially no separate edition | — |
-| `acq` | Taʿizzi-Adeni Arabic | COVERED-BY-PARENT | same | — |
-| `aeb` | Tunisian Arabic | COVERED-BY-PARENT | same | — |
-| `ajp` | South Levantine Arabic | COVERED-BY-PARENT | same | — |
-| `apc` | North Levantine Arabic | COVERED-BY-PARENT | same | — |
-| `ars` | Najdi Arabic | COVERED-BY-PARENT | same | — |
+| `apc` | Levantine Arabic (51M) | HELD | on YV (#2810) but only an **18 selected-book** edition (missing Romans/Revelation/Colossians/1Peter/1Timothy) → can't fill the template | a fuller NT edition |
+| `acw` | Hijazi Arabic (11M) | HELD | on YV (#3878) but only a **39 selected-book** edition (missing Acts/Romans/Revelation/Matthew) | a fuller NT edition |
+| `acm` `acq` `ajp` `ars` `aec` `ayn` `ayp` `afb` | other colloquial Arabic | HELD | no YV/eBible **text** edition we can fetch+link (some audio-only); partly covered by MSA `ar` | a fetchable text edition |
+| (Chinese topolects) `hsn` `gan` `cdo` `mnp` `cjy` | Xiang/Gan/MinDong/MinBei/Jinyu | HELD | own editions exist per Joshua Project but **not on YV/eBible as fetchable text** (cjy = 1-book fragment); speakers read Mandarin | a fetchable edition |
 
 > Deferred drafts live in `deferred-drafts/` (under `.claude/`, so **excluded from deploy** via .vercelignore) — this preserves the
 > verbatim work without statically publishing prose we can't trust. When a human native speaker reviews/fixes the prose, move the pack
