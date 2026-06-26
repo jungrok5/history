@@ -608,6 +608,15 @@ function makePage(m){
       h = setInner(h, 'faq.a4', '');
       h = h.replace('<details class="faq-item" id="faqQ4">', '<details class="faq-item" id="faqQ4" hidden>');
     }
+    // 지도(maps) 링크 — 번역된 언어에만 노출(미번역은 본문 비우고 숨김)
+    if (!(pack.s && pack.s['thread.map'])) {
+      h = setInner(h, 'thread.map', '');
+      h = h.replace('<p class="thread-map" id="threadMap" data-i18n="thread.map">', '<p class="thread-map" id="threadMap" data-i18n="thread.map" hidden>');
+    }
+    if (!(pack.s && pack.s['faq.a4map'])) {
+      h = setInner(h, 'faq.a4map', '');
+      h = h.replace('<p class="faq-map" id="faqMap" data-i18n="faq.a4map">', '<p class="faq-map" id="faqMap" data-i18n="faq.a4map" hidden>');
+    }
     h = h.replace('<main id="epochs"></main>', `<main id="epochs">${epochsHtml(pack)}</main>`);
     h = h.replace('<div class="core-grid" id="core"></div>', `<div class="core-grid" id="core">${coreHtml(pack)}</div>`);
     const obsBanner = obsBannerHtml(pack);
