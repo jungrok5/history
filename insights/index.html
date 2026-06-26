@@ -244,8 +244,8 @@ const T = {
   title:{ko:'모든 민족과 방언에게',en:'To Every Tribe and Tongue'},
   verse:{ko:'“이 후에 내가 보니 각 나라와 족속과 백성과 방언에서 아무도 능히 셀 수 없는 큰 무리가 …” (요한계시록 7:9)',
     en:'“After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages …” (Revelation 7:9)'},
-  purpose:{ko:'이 페이지는 자랑이 아니라 한 가지를 위해 있습니다 — 복음이 모든 방언에 닿게 하시는 하나님의 일을 보여 드리는 것. 아래의 모든 숫자는 “우리가 한 일”이 아니라 아직 남은 과업과 함께 드리는 기도이자, 말씀을 지켜 오신 교회를 향한 감사입니다.',
-    en:'This page exists not to boast but for one thing — to show God’s work of carrying the gospel into every tongue. Every number below is not “what we did,” but a prayer offered alongside the task that remains, and thanks for the church that has preserved the Word.'},
+  purpose:{ko:'이 페이지는 한 가지를 위해 있습니다 — 복음이 모든 방언에 닿게 하시는 하나님의 일을 보여 드리는 것. 아래의 모든 숫자는 “우리가 한 일”이 아니라 아직 남은 과업과 함께 드리는 기도이자, 말씀을 지켜 오신 교회를 향한 감사입니다.',
+    en:'This page exists for one thing — to show God’s work of carrying the gospel into every tongue. Every number below is not “what we did,” but a prayer offered alongside the task that remains, and thanks for the church that has preserved the Word.'},
 
   f_kick:{ko:'먼저, 진귀한 사실들',en:'First, some rare facts'},
   f_h:{ko:'한 이야기를 여러 언어로 옮기다 마주친 것들',en:'What we met while carrying one story into many tongues'},
@@ -335,6 +335,21 @@ const FACTS = [
   {tag:{ko:'토착 숫자',en:'Native digits'},h:{ko:'장·절 번호가 그 언어의 숫자로 적힌다',en:'Chapter and verse, in the language’s own numerals'},
    p:{ko:'많은 언어가 본문에서 장·절을 자기 고유 숫자(페르시아어 ۱۲۳, 데바나가리 १२३ 등)로 적습니다. 링크가 정확히 연결되도록 이 숫자들을 표준화해 처리합니다.',
       en:'Many languages write chapter:verse in their own numerals (Persian ۱۲۳, Devanagari १२३, and more). We normalize these so every link still resolves correctly.'}},
+  {tag:{ko:'신뢰성',en:'Fidelity'},h:{ko:'AI는 성경 구절을 기억으로 쓰지 않는다',en:'AI never writes a verse from memory'},
+   p:{ko:'언어 모델은 성경 구절을 그럴듯하게 “지어내는” 경향이 있습니다. 그래서 모든 구절은 실제 출판된 성경 판본에서 직접 가져오고, AI는 줄거리 산문에만 — 그것도 검수를 거쳐 — 쓰입니다.',
+      en:'Language models tend to plausibly “invent” Bible verses. So every verse is pulled directly from the actual published edition; AI is trusted only for the storyline prose — and even that is reviewed.'}},
+  {tag:{ko:'한 언어, 두 문자',en:'One tongue, two scripts'},h:{ko:'같은 말, 다른 문자, 다른 성경',en:'Same speech, different script, different Bible'},
+   p:{ko:'아제르바이잔어는 라틴 문자와 아랍 문자로 각각 다른 성경이 있고, 펀자브어도 구르무키와 샤무키 문자로 나뉩니다. 같은 언어라도 문자 전통마다 별도의 성경과 별도의 페이지가 필요합니다.',
+      en:'Azerbaijani has separate Bibles in Latin and Arabic script; Punjabi splits into Gurmukhi and Shahmukhi. The same language can need a separate Bible — and a separate page — for each script tradition.'}},
+  {tag:{ko:'방향',en:'Direction'},h:{ko:'어떤 성경은 오른쪽에서 왼쪽으로 읽는다',en:'Some Bibles read right to left'},
+   p:{ko:'아랍어·히브리어·페르시아어·우르두어·이디시어는 오른쪽에서 왼쪽으로 흐릅니다. 이 언어 페이지는 글자뿐 아니라 화면 전체 방향이 뒤집힙니다.',
+      en:'Arabic, Hebrew, Persian, Urdu and Yiddish flow right to left. For these pages the entire layout — not just the letters — is mirrored.'}},
+  {tag:{ko:'책의 셈법',en:'Counting books'},h:{ko:'열왕기상이 “왕국기 3권”이 되기도',en:'1 Kings can be “3 Kingdoms”'},
+   p:{ko:'칠십인역 전통(아르메니아·조지아 등)에선 사무엘서·열왕기를 “왕국기 1–4권”으로 한데 셉니다. 그래서 우리가 “열왕기상”이라 부르는 책이 거기선 “3권”입니다 — 책 번호 자체가 전통마다 다릅니다.',
+      en:'In the Septuagint tradition (Armenian, Georgian…), Samuel and Kings are counted together as “1–4 Kingdoms.” So the book we call “1 Kings” is the “3rd” there — even book numbers differ by tradition.'}},
+  {tag:{ko:'그림 성경',en:'Picture Bible'},h:{ko:'아직 성경이 없으면, 그림 이야기 성경으로',en:'No Bible yet? An illustrated story-Bible'},
+   p:{ko:'완역도 신약도 없는 일부 민족에겐 “오픈 바이블 스토리스”라는 그림 이야기 성경이 있습니다(예: 발로치어). 그 장면 본문을 그대로 인용해, 말씀이 처음 닿는 통로로 삼습니다.',
+      en:'For some peoples with neither a full Bible nor a New Testament, there is an illustrated “Open Bible Stories” (e.g. Balochi). We quote its frames verbatim — a first doorway for the Word to arrive.'}},
 ];
 
 const REGION = {
