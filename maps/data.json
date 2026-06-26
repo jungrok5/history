@@ -46,11 +46,13 @@
       { "lat":33.15, "lon":35.25, "ko":"갈릴리", "en":"Galilee", "kind":"region" },
       { "lat":32.25, "lon":35.0, "ko":"사마리아", "en":"Samaria", "kind":"region" },
       { "lat":31.55, "lon":35.0, "ko":"유대", "en":"Judea", "kind":"region" },
+      { "lat":32.55, "lon":35.95, "ko":"데가볼리", "en":"Decapolis", "kind":"region" },
+      { "lat":31.95, "lon":35.72, "ko":"베레아", "en":"Perea", "kind":"region" },
       { "lat":31.4, "lon":35.47, "ko":"사해", "en":"Dead Sea", "kind":"sea" }
     ],
     "journeys": [
       { "key":"life", "ko":"예수님의 행적", "en":"The path of Jesus", "color":"#facc15",
-        "stops":["bethlehem","nazareth","jordan","cana","capernaum","galilee","caesarea_p","sychar","jericho","bethany","jerusalem"] }
+        "stops":["bethlehem","nazareth","jordan","cana","sychar","capernaum","galilee","caesarea_p","jericho","bethany","jerusalem"] }
     ]
   },
 
@@ -102,9 +104,9 @@
         "note_ko":"에베소에 오래 머물며 아시아 전역에 말씀이 퍼지고, 예루살렘으로 올라간다.",
         "note_en":"A long stay in Ephesus spreads the word across Asia; then Paul goes up to Jerusalem.",
         "stops":["antioch","pantioch","ephesus","philippi","corinth","troas","miletus","caesarea","jerusalem"] },
-      { "key":"rome", "ko":"로마 압송", "en":"To Rome", "color":"#e0795f", "ref":"사도행전 27–28",
-        "note_ko":"죄수가 되어, 풍랑과 난파를 지나 제국의 심장 로마까지 복음을 가지고 간다.",
-        "note_en":"As a prisoner, through storm and shipwreck, Paul carries the gospel to the heart of the empire — Rome.",
+      { "key":"rome", "ko":"4차 전도여행 · 로마행", "en":"Fourth journey · to Rome", "color":"#e0795f", "ref":"사도행전 27–28",
+        "note_ko":"죄수가 되어, 풍랑과 난파를 지나 제국의 심장 로마까지 복음을 가지고 간다. (성경 파노라마는 이 로마 항해를 ‘4차 전도여행’으로 부른다.)",
+        "note_en":"As a prisoner, through storm and shipwreck, Paul carries the gospel to the heart of the empire — Rome. (Bible Panorama counts this voyage as the ‘fourth journey.’)",
         "stops":["caesarea","myra","fairhaven","malta","syracuse","puteoli","rome"] }
     ]
   }

@@ -204,7 +204,7 @@ function MapCard(root, key){
   const geo=GEO[key], md=DATA[key];
   const proj=projector(geo.proj);
   const byId={}; md.places.forEach(p=>byId[p.id]=p);
-  let ji=0, step=0, timer=null, playing=false;
+  let ji=0, step=0, timer=null, playing=false, lastLen=0;
 
   // ----- static scaffold -----
   root.innerHTML='';
@@ -302,10 +302,12 @@ function MapCard(root, key){
     });
     if(jnote){ jnote.textContent = j['note_'+L] || ''; jnote.style.display=j['note_'+L]?'block':'none'; }
     range.max=st.length-1;
+    lastLen=0;
   }
 
   function setStep(i){
     const st=stops();
+    const from=step;
     step=Math.max(0,Math.min(i,st.length-1));
     range.value=step;
     // markers state (use real stop index from dataset — DOM order changes when we raise current)
@@ -322,15 +324,27 @@ function MapCard(root, key){
     });
     if(curG) gMk.appendChild(curG); // raise current marker + its label to top
 
-    // progress path up to current
+    // progress path up to current — only the NEW segment animates on a sequential step;
+    // jumps / backward / journey-switch snap instantly (no replay from the start)
     const pts=st.slice(0,step+1).map(id=>proj(byId[id].lon,byId[id].lat));
     const d=pts.map((p,k)=>(k?'L':'M')+p[0]+' '+p[1]).join('');
     progPath.setAttribute('d',d);
-    try{ const len=progPath.getTotalLength();
-      progPath.style.transition='none'; progPath.style.strokeDasharray=len; progPath.style.strokeDashoffset=len;
+    let len=0; try{ len=progPath.getTotalLength(); }catch(e){}
+    const sequential = step===from+1 && step>0;
+    if(sequential){
+      // keep the already-drawn part visible; animate just the latest leg (lastLen → len)
+      progPath.style.transition='none';
+      progPath.style.strokeDasharray=len;
+      progPath.style.strokeDashoffset=Math.max(0,len-lastLen);
       progPath.getBoundingClientRect();
-      progPath.style.transition='stroke-dashoffset .55s ease'; progPath.style.strokeDashoffset=0;
-    }catch(e){}
+      progPath.style.transition='stroke-dashoffset .55s ease';
+      progPath.style.strokeDashoffset=0;
+    }else{
+      progPath.style.transition='none';
+      progPath.style.strokeDasharray='none';
+      progPath.style.strokeDashoffset=0;
+    }
+    lastLen=len;
     // info card
     const pl=byId[st[step]];
     const j=curJ();
