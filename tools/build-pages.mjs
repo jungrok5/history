@@ -680,6 +680,10 @@ Home: ${ORIGIN}/
 ## Language pages
 ${LANGS.map(L=>`- ${L.code}: ${L.code==='ko'?ORIGIN+'/':ORIGIN+'/'+L.code+'/'}`).join('\n')}
 
+## Other pages
+- About / 소개: ${ORIGIN}/about/ — rare facts from translating one gospel story into 200+ languages; translation reach, speaker statistics, languages still waiting.
+- Bible by Map / 지도로 보는 성경: ${ORIGIN}/maps/ — the Old Testament timeline, the life of Jesus, and Paul's journeys traced on a real map, in time order.
+
 ## Resources
 - Sitemap: ${ORIGIN}/sitemap.xml
 
