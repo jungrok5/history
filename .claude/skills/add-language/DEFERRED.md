@@ -24,6 +24,8 @@
 | `kbp` | Kabiyè | DEFERRED | same — only moderate prose confidence (FAQ apologetics condensed). `deferred-drafts/kbp.json` | human native review |
 | `dzo` | Dzongkha | DEFERRED | drafting aborted (API error) + low-resource Tibetan-script, same prose risk as peers | human native review (incl. re-draft) |
 | `ltg` | Latgalian | DEFERRED | NT verbatim/theology/structure clean, but native review found a cluster of broken/coined Latgalian in high-traffic prose (`apzimūgoj`, `Pōrūš`, `Sevtinīt`, name inconsistencies). Draft preserved: `deferred-drafts/ltg.json` | human native fixes + re-review |
+| `wuu` | Wu Chinese (Shanghainese) | HELD | 81M speakers & a historical full Bible exists, but **not on YouVersion or eBible** (name + config re-check). Bridge-from-`zh` is possible but low value (speakers read Mandarin & share the Han script) | a fetchable edition |
+| `bar` | Bavarian | HELD | not on YouVersion or eBible; bridge-from-`de` low value (speakers read German) | a fetchable edition |
 | `bm` | Bambara | HELD | not on YouVersion or eBible (name-based re-check done) | a fetchable edition |
 | `lij` | Ligurian | HELD | not on YV/eBible | a fetchable edition |
 | `lim` | Limburgish | HELD | not on YV/eBible | a fetchable edition |
