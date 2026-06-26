@@ -19,8 +19,8 @@ const LANGS = [...langsBlock.matchAll(/\{code:'([^']+)',native:'((?:[^'\\]|\\.)*
 
 // ---- 2) per-language mode + version from i18n packs (ko/en are full, inline) ----
 function modeOf(pk) {
+  if (String(pk.yv || '').startsWith('obs:')) return 'obs';          // sourced from Open Bible Stories
   if (pk.s && pk.s['bridge.note']) return 'bridge';
-  if (pk.core && pk.core[0] && (!pk.core[0].vref) && pk.s && (pk.s['obs.note'] || pk.s['obs.attrib'])) return 'obs';
   if (pk.epochs && pk.epochs[0] && pk.epochs[0].cite === '') return 'partial';
   return 'full';
 }

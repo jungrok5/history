@@ -13,14 +13,14 @@
     --bg:#0e1118; --bg2:#141925; --ink:#f4efe6; --muted:#9aa3b2;
     --line:rgba(255,255,255,.12); --card:rgba(255,255,255,.045);
     --accent:#e9b949; --maxw:980px; color-scheme:dark;
-    --full:#46a77a; --partial:#e9b949; --bridge:#cf8350; --warn:#e0795f;
+    --full:#46a77a; --partial:#e9b949; --bridge:#cf8350; --obs:#9b7ad6; --warn:#e0795f;
     --serif:"Nanum Myeongjo",Georgia,"Times New Roman",serif;
     --sans:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",Roboto,sans-serif;
   }
   :root.sepia{
     --bg:#efe6d3; --bg2:#e7dcc4; --ink:#2b2519; --muted:#7a6f5a;
     --line:rgba(0,0,0,.14); --card:rgba(0,0,0,.035); --accent:#b07d23; color-scheme:light;
-    --full:#3f7d5c; --partial:#b07d23; --bridge:#a8643a; --warn:#b65b4a;
+    --full:#3f7d5c; --partial:#b07d23; --bridge:#a8643a; --obs:#7a5db0; --warn:#b65b4a;
   }
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
   html{scroll-behavior:smooth;background:var(--bg)}
@@ -216,6 +216,7 @@
     <span><i class="sw" style="background:var(--full)"></i><span data-t="m_full"></span></span>
     <span><i class="sw" style="background:var(--partial)"></i><span data-t="m_partial"></span></span>
     <span><i class="sw" style="background:var(--bridge)"></i><span data-t="m_bridge"></span></span>
+    <span><i class="sw" style="background:var(--obs)"></i><span data-t="m_obs"></span></span>
   </div>
 </div></section>
 
@@ -280,9 +281,9 @@ const T = {
 
   m_kick:{ko:'⑤ 방언의 지도',en:'⑤ A map of tongues'},
   m_h:{ko:'각 나라와 족속과 백성과 방언에서',en:'From every nation, tribe, people and language'},
-  m_lead:{ko:'네모 하나가 한 언어입니다. 크기는 모어 화자 수, 색은 옮긴 방식 — 전권 인용 · 신약 중심(부분) · 이웃 언어의 성경을 빌린 다리(bridge).',
-    en:'Each rectangle is one language. Size is mother-tongue speakers; color is how it was carried — full quotation · New-Testament-centered (partial) · bridged from a neighbor’s Bible.'},
-  m_full:{ko:'전권 인용',en:'full'}, m_partial:{ko:'부분(신약 중심)',en:'partial (NT-centered)'}, m_bridge:{ko:'다리(이웃 언어)',en:'bridge'},
+  m_lead:{ko:'네모 하나가 한 언어입니다. 크기는 모어 화자 수, 색은 옮긴 방식 — 전권 인용 · 신약 중심(부분) · 이웃 언어의 성경을 빌린 다리(bridge) · 성경이 없어 그림 이야기 성경에서 가져온 OBS.',
+    en:'Each rectangle is one language. Size is mother-tongue speakers; color is how it was carried — full quotation · New-Testament-centered (partial) · bridged from a neighbor’s Bible · or, where no Bible exists, drawn from an illustrated story-Bible (OBS).'},
+  m_full:{ko:'전권 인용',en:'full'}, m_partial:{ko:'부분(신약 중심)',en:'partial (NT-centered)'}, m_bridge:{ko:'다리(이웃 언어)',en:'bridge'}, m_obs:{ko:'그림 성경(OBS)',en:'OBS (story Bible)'},
 
   i_kick:{ko:'⑥ 함께 하는 초대',en:'⑥ An invitation'},
   i_h:{ko:'데이터가 기도와 사명으로',en:'Data becomes prayer and mission'},
@@ -448,7 +449,7 @@ function renderRegions(){
 }
 function renderMap(){
   const el=$('#treemap'); el.innerHTML=''; const W=el.clientWidth, H=el.clientHeight||460;
-  const col={full:'var(--full)',partial:'var(--partial)',bridge:'var(--bridge)'};
+  const col={full:'var(--full)',partial:'var(--partial)',bridge:'var(--bridge)',obs:'var(--obs)'};
   const data=D.languages.filter(l=>l.pop>0).map(l=>({...l,v:Math.sqrt(l.pop)})).sort((a,b)=>b.v-a.v);
   function place(d,x,y,w,h){ if(w<=0||h<=0)return; const big=w>44&&h>24;
     el.insertAdjacentHTML('beforeend',`<div class="cell" title="${esc(d.native)} (${esc(d.en)}) · ${human(d.pop)}"

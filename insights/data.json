@@ -5,7 +5,8 @@
   "modeCounts": {
    "full": 184,
    "partial": 19,
-   "bridge": 11
+   "bridge": 10,
+   "obs": 1
   },
   "distinctVersions": 197,
   "coveredSpeakers": 6553549790,
@@ -534,7 +535,7 @@
    "code": "bal",
    "native": "بلوچی",
    "en": "Balochi",
-   "mode": "bridge",
+   "mode": "obs",
    "ver": "OBS",
    "pop": 18316400,
    "region": "Asia"
