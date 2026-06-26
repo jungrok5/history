@@ -253,7 +253,9 @@
   <p class="lead" data-t="i_lead"></p>
   <div class="invite">
     <div class="c"><h3 data-t="i_p_h"></h3><p data-t="i_p_b"></p></div>
-    <div class="c"><h3 data-t="i_s_h"></h3><p data-t="i_s_b"></p></div>
+    <div class="c"><h3 data-t="i_s_h"></h3><p data-t="i_s_b"></p>
+      <div class="card-links"><a href="/" id="i_share" data-t="i_share"></a></div>
+    </div>
     <div class="c"><h3 data-t="i_g_h"></h3><p data-t="i_g_b"></p></div>
     <div class="c"><h3 data-t="i_t_h"></h3><p data-t="i_t_b"></p>
       <div class="card-links">
@@ -330,6 +332,7 @@ const T = {
   i_s_h:{ko:'전하기',en:'Share'}, i_s_b:{ko:'복음을 모어로 읽을 수 있는 사람에게 그의 언어 페이지를 보내 주세요. 한 링크가 한 영혼에게.',en:'Send someone the page in their own tongue. One link can reach one soul in the language of the heart.'},
   i_g_h:{ko:'후원',en:'Give'}, i_g_b:{ko:'성경 번역 단체(위클리프 등)를 통해, 아직 말씀이 없는 민족에게 번역이 시작되도록.',en:'Through Bible-translation organizations (Wycliffe and others), so translation can begin for peoples still without the Word.'},
   i_t_h:{ko:'번역·검수',en:'Translate'}, i_t_b:{ko:'당신이 어느 언어의 원어민이라면, 그 언어의 산문을 검수해 “아직”을 “이제”로 바꿔 주세요. 코딩은 필요 없습니다 — 텍스트만.',en:'If you are a native speaker of a language, review its prose and help turn a “not yet” into a “now.” No coding needed — just the text.'},
+  i_share:{ko:'공유하기 →',en:'Share the page →'},
   i_cta:{ko:'한눈에 보는 성경 이야기 보러 가기 →',en:'See the Bible in One Scroll →'},
   i_gh:{ko:'GitHub에서 기여하기 →',en:'Contribute on GitHub →'},
   i_contrib:{ko:'기여 가이드 보기 →',en:'Read the contributing guide →'},
@@ -581,6 +584,16 @@ lp.addEventListener('click',e=>e.stopPropagation());
 $$('#langPanel button').forEach(b=>b.addEventListener('click',()=>{
   L=b.dataset.l; try{localStorage.setItem('lang',L);}catch(e){} lp.hidden=true; if(D)renderAll(); else applyText();
 }));
+/* 전하기 — 메인과 동일: 모바일 네이티브 공유 시트 / 데스크톱 링크 복사 */
+const shareLink=$('#i_share');
+if(shareLink) shareLink.addEventListener('click',e=>{
+  e.preventDefault();
+  const url='https://one-scroll-bible.com/';
+  const data={title:L==='ko'?'한눈에 보는 성경 이야기':'Bible in One Scroll', url};
+  if(navigator.share){ navigator.share(data).catch(()=>{}); return; }
+  const flash=()=>{ shareLink.textContent=L==='ko'?'✓ 링크 복사됨':'✓ Link copied'; setTimeout(()=>{shareLink.textContent=T.i_share[L];},1800); };
+  if(navigator.clipboard){ navigator.clipboard.writeText(url).then(flash,flash); } else { flash(); }
+});
 addEventListener('resize',()=>{ if(D) renderMap(); });
 
 /* initial language: saved → browser → ko */
