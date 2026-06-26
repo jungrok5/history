@@ -1,0 +1,347 @@
+{
+ "menuName": "Afaan Oromoo (Booranaa)",
+ "htmlLang": "gax",
+ "dir": "ltr",
+ "font": null,
+ "brand": "Kitaaba Qulqulluu Marsaa Tokkoon",
+ "docTitle": "Kitaaba Qulqulluu Marsaa Tokkoon · Uumamaa hamma Waldaatti",
+ "share": {
+  "title": "Kitaaba Qulqulluu Marsaa Tokkoon",
+  "text": "Marsaa tokkochaani, sheekko guddo Kitaaba Qulqulluufi maafi Yesoni d'ufe baradi."
+ },
+ "ui": {
+  "people": "Namoota",
+  "events": "Waan guguddo tahe",
+  "christLabel": "Yeso agarsiisa",
+  "loveLabel": "Jaalala hin'lakisne",
+  "mythWrong": "Wollaala baratame",
+  "mythRight": "D'ugaani",
+  "more": "Heddu argi",
+  "version": "(BOR)"
+ },
+ "labels": {
+  "start": "Jalqaba",
+  "thread": "Sheekko",
+  "gospel": "Odu Dansa",
+  "about": "Waayee"
+ },
+ "s": {
+  "ui.share": "↗ Qoodi",
+  "ui.toast": "Liinki garagalfame 📋",
+  "ui.footer": "Kitaaba Qulqulluu Marsaa Tokkoon · Caqasi Kitaaba Qulqulluu BOR keesaa",
+  "hero.kicker": "UUMAMAA HAMMA WALDAATTI",
+  "hero.title": "Kitaaba Qulqulluu,<br><span class=\"em\">marsaa tokkoon</span>",
+  "hero.sub": "Marsaa tokkochaani, sheekko guddo Kitaaba Qulqulluufi maafi Yesoni d'ufe baradi.",
+  "hero.cue": "Gad d'ufi<span>↓</span>",
+  "thread.eyebrow": "JECHA TOKKO KA Kitaaba ch'ufa walitti hidhu",
+  "thread.h2": "D'umarra, Kitaabni Qulqulluu sheekko tokkocha",
+  "thread.flow": "<b>Waadaa</b><span class=\"arw\">→</span><b>Eegacha</b><span class=\"arw\">→</span><b>Guuttacha</b>",
+  "thread.note": "Waaqi <b>waadaa</b> gala (wold'aqisa), namooti yero d'eera <b>eegani</b>, d'umarra wonti ch'ufti Yesotiini <b>guutame</b> ya raawwate. Sheekko 13n gadi tana karaa kanaani hordofi — kaardi tokko tokko gubba <b>“Heddu argi”</b> tuqi sheekko gad d'eera argachuuf.",
+  "gospel.eyebrow": "SHEEKKO TUN MAQA “ANA”TIIFI MAALI",
+  "gospel.h2": "Onnee d'ugaa Kitaaba Qulqulluu",
+  "gospel.lead": "Kitaabni Qulqulluu <b>kitaaba barnoota “nama dansa taha” jed'u miti.</b>",
+  "gospel.sublead": "Inni sheekko akkamiti Waaqi, <b>eeba qofaani</b>, namoota daba ufi baasu hin'dandeenne baase. Jiddu isaa Yeso Kristoni d'aabate.",
+  "gospel.mirror": "<h3>Marsaani Israeli hin'd'umne d'ugaa suuraa “ana”ti</h3><div class=\"cycle\"><b>Wolii-galtee</b><span class=\"a\">→</span><b>Rakkoo</b><span class=\"a\">→</span><b>Iyyacha</b><span class=\"a\">→</span><b>Waaqi baasa</b><span class=\"a\">→</span><b>Amma wolii-galtee…</b></div><p>Hayyuu irraa hamma boojitti, Israeli marsaa kana yero ch'ufa hin'd'umne deddeebia. Kitaabni Qulqulluu, “kun maal moofa turan” jenne ittiin kofalluuf hin'qaberre.</p><p>Inni <b>masqala (mirror)</b>ti. Wonti barbaadame “Israeli akkasi godhe” miti, “<b>anileeni akkasuma</b>” jed'e nu agarsiisuuf (1 Qorontoosi 10:11).</p><p>Wolii-galteen (<b>waaqa daba</b>) ch'alla waan muka soofame miti. Inni <b>waan nu Waaqa caalaa jaalannu ykn amannu ch'ufa</b>ti — maallaqa, milkii, jaalala namaa, namoota, ana ufillee. Waaqa <b>waan fed'i kiyya guuttachuuf meeshaa</b> godhachuunileeni wolii-galtee daba.</p><p class=\"punch\">D'umarra, wolii-galteen jabeenni hunda “ana ufi-tii gulee teessuma Waaqaa gubba taa'e”ti.</p>",
+  "gospel.coreIntro": "Kanaafi, Waaqi akkamiti nama daba akkanaa baasa? Kun onnee Odu Dansa Kitaabni Qulqulluu lallabuti.",
+  "gospel.crux": "<p class=\"crux-lead\">Kitaabni Qulqulluu ch'ufti bakka tokkocha agarsiisa.</p><p>Namooti marsaa daba ufiini cabsu hin'dandeenne, nami d'uga qabu tokoleeni injiru. Tanaafi nami tokko <b>iddo isani gati baasu</b> qaba ture.</p><p>Yesoni barnoota dansa kennuuf ch'alla hin'd'ufne. Karaa biraa ana baasu hin'jirreefi, <b>d'ufu malee hin'taane.</b></p><p class=\"crux-punch\">Nami maskali suni gubba hidhamu maletu <b>ana</b>.<br>Yesoni <b>daba kiyya</b> baate, iddo kiyya maskali gubba hidhame.</p><div class=\"crux-verse\">“Ammo maro daba keennatifi isa woraanani, maro ch'ubbu teennatifi isaa d'aanani… maro d'aanicha isatifi nu fayyisani.” — Isaayaasi 53:5</div>",
+  "faq.h": "Amallee waan tokkoti rakkachaa jirtaa?",
+  "faq.q1": "<span class=\"arr\">▸</span> Nami nama ajjeese ch'alla d'ugefatee jennaata seenaa, nami umuri ufi dansa jiraate ammo hin'd'ugefanne si'oolitti gala?",
+  "faq.a1": "<p>Gaaffii sirriti. Ammo wollaala lama isi keesa d'okate.</p><p><b>① Kitaabni Qulqulluu namoota “dansafi hamaa” godhe hin'qoodu.</b> Madaalliin “nama ollaa caalaa” miti, “qulqullinna Waaqa guutuu”ti. Fula isaa duratti, nami tokoleeni “hagana dansa” miti (Roma 3:23). Tanaafi kun “nama dansafi nama ajjeese” miti, akka nama lama d'ukuba ajjeesu tokkochaani qabamani — tokko qoricha fud'ata, ka biraa “ani isa caalaa fayyaa” jed'ee dida.</p><p><b>② Si'oolifi seenaa wonti tokkocha gargari baasa.</b> Madaalli hojjaa miti, ammo <b>ati Yeso Kristo Aabbo godhattee fud'attee, rakkoon daba keeti furamuu isaa</b>ti. Nami daba isaa d'iiga Kristotiini furame seenaa gala; nami gonkuma hin'fud'anne, ka daba isaa hafe, hin'galu. Hojjaani dansa tokoleeni rakkoo daba suni ufiini furu hin'dandayu.</p><p>Tanaafi seenaafi si'ooli “badhaasa hojja dansaa” miti, ammo waan <b>Kristoo woliin firooma</b>ti. “D'ugefacha”lleeni walii-galtee sammuu miti, ammo geeddaramaa eenyuu jireenna keeti gulee ofu: nami d'ugaa isa fud'atu hin'koruu, ammo gad d'eesaani daba iraa deebia. D'ugaani, <b>ufi-d'ugeesacha</b> (“ana nama dansa”) wolii-galtee cabsuu hunda d'ib, ka “ana Kristo hin'barbaadu” nu seesisu (Luqaasi 18:9-14).</p><p>Kitaabni Qulqulluu ifaani jed'a: <b>“Nama isa d'ugefatu wollaala iti imurani; ka ind'ugefanne iti murani”</b> (Yohaannisi 3:18). Murtiin “eegi duutee jireenna keeti madaaluu” miti, ammo <b>ati Kristo fud'achuu keeti</b>ni d'ufaan murtaa'e.</p><p class=\"faq-v\">Roma 3:23 · Yohaannisi 3:18 · Efesoosi 2:8-9 · Luqaasi 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Yeso ind'ugefanne ch'alla, jireenna dansa jiraachu hin'gayuu?",
+  "faq.a2": "<p>Yaadi heddu yaadamu, ammo rakkoon d'ugaa maal tahuu isaa wollaala. Suuraa tokko ilaali.</p><p><b>Mee doonii saamtota gubba jirta jed'i.</b> Hamma sila bakka doonii qulqulleesite, miseensoota dansa godhatte, jireenna ufi mid'aaste — amallee <b>saamtu (pirate)</b>ti, waan doonichi bakka deemu (buufata murtii) si fud'ee deemuufi. Rakkoon “madaalli hojjaa” miti, ammo “<b>doonii kamiti tahuu keeti</b>” (eenyummaa keeti)ti.</p><p>Tanaafi Odu Dansaani “heddu dansa tahuuf yaali” hin'jed'u; “<b>doonii geeddaradi</b>” jed'a. Doonii daba irraa bu'i, gara Yeso ce'i — gara eenyummaa haaraa <b>ilma Waaqaa</b>ti. Kun yaaliin madaalli ufi ol kaasuu miti, ammo isa harka ufi siif d'eesu amanachaa gara doonii isaati ce'uti.</p><p>D'ugaani Kitaabni Qulqulluu baafama akkuma ce'umsa kanaa ibsa — <b>“Inni ya jabeenna dukana keesaa nu baase, nagayaani finna Ilma isaatiini nu gahe”</b> (Qolosaayisi 1:13).</p><p>Hin'wollaalin: <b>kun jireenna dansa faayidaa hin'qabu jechu miti.</b> Dansummaani “ulaagaa” baafamaa miti, ammo <b>iji</b> isaati. Nami doonii geeddarate amma sodaatiini miti, ammo <b>jaalala ilmaatiini</b> dansa jiraata.</p><p class=\"faq-v\">Qolosaayisi 1:13 · Yohaannisi 1:12 · Yohaannisi 3:3 · Efesoosi 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Nami balleese “Waaqi na dhiifame” jed'ee nagayaani jiraata, ammo nami miidhame amallee dhibaa jira yo ta'e — eebni guddo gati-d'iaa miti?",
+  "faq.a3": "<p>Gaaffiin sirriti, dhibni suni d'ugaati. Ammo himati akkanaa “dhiifama Kitaaba Qulqulluu” miti, ammo <b>jallinna</b> isaati.</p><p><b>① Dhiifamni Waaqaa gonkuma gati-d'iaa miti.</b> Dabni akka “hin'taane” jed'amee hin'haqamne; Waaqi mata isaa lubbuu Ilma isaatiini gati isaa baase. Maskali daba salphaa godhachuu hin'agarsiisu, ammo daba hagana ulfaate — eeba addunyaa gulee gatii hunda guddu.</p><p><b>② Deebii d'ugaa iji qaba.</b> Nami balleese fula nama miidhame duratti “Waaqi na dhiifame, ani nagayaan jira” jed'ee yo boonu, suni deebii miti ammo fakkii isaati (Maatoosi 3:8). Dhiifamni nama Waaqaa giddu jiru madaa nama miidhame hin'haqu, nama miidhame dhiifama godhu hin'dirqamsisu.</p><p><b>③ Dabni gonkuma “akkasumati hin'dabarfamne.”</b> Dabni ch'ufti bakka lamaa keesaa tokkoti gati baafama — <b>Kristoni maskali gubba baate</b> (ka isa amanu murtiin hin'jiru, Roma 8:1), ykn <b>nami d'umarra isa dide ufii baate.</b> Tanaafi “dhiifama gati-d'iaa” hin'jiru. Nami balleese seera addunyaa kanaa duratileeni itti gaafatama (Roma 13:1-4).</p><p><b>④ Imimaani nama miidhame fula Waaqaa duratti gonkuma xiqqaa miti.</b> Waaqi nama boa'u woliin booya, imimaan ch'ufa yaadata, d'umarra mata isaa haaqa (Mul'ata 21:4). Tanaafi nami miidhame ulfina haaloo ufi hin'baatu, ammo Waaqa qajeela suniti kenninna danda'a (Roma 12:19 — “Anati haalo baasa, Aabbooni akana jed'e jetti”).</p><p class=\"faq-v\">Maatoosi 3:8 · Roma 8:1 · Roma 13:1-4 · Mul'ata 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Kitaabni Qulqulluu d'ugaani sheekko d'ugaati? Akka oduu durii ykn asoosama natti fakkaata.",
+  "faq.a4": "<p>Gaaffii sirriti — bakka dansa jalqabuti. Shakkiin faallaa amantii miti, ammo waan d'ugaani qoratuuf fed'aati. Kitaabni Qulqulluu oduu wallaalaa “yo feete amani” jed'amu miti, ammo galmee <b>bakka, guyyaa, namoota d'ugaa</b> gubba barreefameti. Fakkeenya muraasa.</p><p><b>① Kitaaba tokko miti ammo “mana kitaabaa”ti — amallee mata-duree tokko gula deema.</b> Kitaabni Qulqulluu walitti qabama <b>kitaaba 66</b> waqtii <b>waggaa 1,500 gulee namoota 40</b>tiini barreefameti — mootota, tisootota, qurxummii qabdoota, walitti-qabaa gibira, dooqdara (hakima), namoota sad'aafi waqtii adda addaa, kophaa kophaa walii hin'beekani, afaan sad'aniini (Ibroota, Aramaayaa, Giriiki) barreesani. Amallee ch'ufti, hin'walifaalle, <b>mata-duree tokkoti: baafama Kristotiini</b> walitti d'ufa. Suni woliigaltee carraa ykn waliigaltee namaatiini ibsuu d'ib.</p><p><b>② Lafa gubbaa amallee mirkaneefama (qoranno qonqorsaa).</b> Wanti heddu duri “Kitaaba ch'alla keesa jira” jed'amee mormame, eegana qooracha lafaatiini mirkanaa'e. <b>D'aloota Daudi</b> dhagaa “mana Daudi” jed'u qoratameeni (Dhagaa Tel Dan); <b>Phonxoos Phiilaaxoos</b>, bulchaa Yeso ajjeese, barreefama maqaa isaa qabuuni; karra bisaani Hisqiyaas mooticha (2 Mootota 20:20), karruma sunifi barreefama isaatiini. <b>Hetota</b>illee, duri “uummata uumamaa” jed'aman, magaala guddo godhanii diigama keesaa bahan.</p><p><b>③ Galmee durii hunda dansa eegame (qabeenya harkaa).</b> Lakkoofsa qabeenya harkaa hafee, walitti d'ufeenya isaani, fageenya yero barreefamaafi garagalcha gidduu, Kitaabni Qulqulluu <b>galmee durii keesa qixxee hin'qabu</b>. Marsaani Isaayaasi Kiristaana duraa, <b>Qabeenya Galaana Du'aa</b> (bara 1947 argatame) keesaa, qubeen qubee, garagalcha waggaa 1,000 booda jiruuni walfakkaate — d'ugaa Kitaabni Qulqulluu waqtii ch'ufa sirriiti eegame.</p><p><b>④ Wanti duraan barreefame akkuma raawwate (raagi).</b> Kakuun Moofaani, waqtii Yeso dura barreefame, d'aloota isaa Beetlihem keesaa (Miikiyaas 5:2), garbicha d'aanamu (Isaayaasi 53:5), naanno maskali (Faarsa 22) ifaani agarsiisa. Carraa jed'anii dabarfachuuf sirrii d'aa.</p><p><b>⑤ Galmeesitota Kitaaba Qulqulluu alaa jiranileeni galmeesan.</b> Galmeesaani seenaa Roomaa <b>Taakitas</b>, galmeesaani seenaa Yahudaa <b>Yosefoos</b> — lameeni Kiristaana miti — Yeso, ajjeefama isaafi waldaa duraa caqasan. Hunduma caalaa, barattooti sodaani facaane <b>lubbuu ufi kenne</b> du'aa-ka'umsa d'ugeesuuf — nami waan kijiba ta'uu beeku hin'duuf.</p><p>D'ugaa jechuuf garuu, hundeen kun Kitaaba Qulqulluu d'ugefachuun <b>maraataa miti ammo qajeela</b> agarsiisa; “ragaa” akka heera herregaa dirqisiisu miti. Tanaafi mirkanni Kiristaana ragaa qofa irraa miti, ammo <b>amantaa Lubbuuni Qulqullooni onnee keesa kennu, ato nami Dubbi dubbisu</b> irraa d'ufa. Kitaabni Qulqulluu jed'a — <b>“D'ugefachaani yo dubbi d'agayani d'ufti, dubbi yo waan Kristo hasaani d'agayani”</b> (Roma 10:17). Tanaafi hamma asoosama fakkaate, <b>ufi-tii dubbisuu</b> jalqabati. Ragaan balbala bana, mirkanni nama dubbisu keesa guddata.</p><p class=\"faq-v\">2 Mootota 20:20 · Isaayaasi 53:5 · Miikiyaas 5:2 · Roma 10:17</p>",
+  "respond.h3": "Kanaafi — ani hoo?",
+  "respond.sub": "Jaalalli kuni odeefannoo miti ammo <b>afeerraa</b>ti. Jaalalli iddo keeti maskali gubba hidhame yo onnee keeti tuqe, jecha jechaani, suuta kad'adi.",
+  "respond.prayer": "<p>Waaqayyo,</p><p>ani nama daba ufi baasu hin'dandeenne tahuu kiyya beeka.</p><p>Yesoni iddo kiyya maskali gubba du'ee amma ka'uu isaa d'ugefad'a.</p><p>Daba kiyya ch'ufa naa dhiifadi, har'a irraa Aabbo jireenna kiyya tahi.</p><p>Ilma keeti godhadi na fud'i, jireenna haaraa na jiraachisi.</p><p class=\"amen\">Maqaa Yesotiini kad'ad'a. Aamiin.</p>",
+  "respond.after": "Yo kana onnee keetiini kad'atte, Kitaabni Qulqulluu ati <b>ilma Waaqaa taate</b> jed'a. Amma kophaa miti — waldaa dhiyoo argadi, namoota woliin karaa amantii d'eemi.",
+  "respond.read": "Kitaaba Qulqulluu ufi-tii dubbisi — Yohaannisiini jalqabi",
+  "respond.verse": "“Nama isa fud'ate maqa isaa d'ugefate ch'ufa inni jabeenna kenne, aka ijoolle Waaqaa tahani.” — Yohaannisi 1:12 · Roma 10:9-10",
+  "closing.main": "Waaqa tokko,<br>sheekko tokkoon,<br>jaalala gonkuma <em>hin'lakisne</em>ni<br>nu barbaada.",
+  "closing.verse": "“Anini imbeekha, aka wonti tokoleeni dandeete jaalala isaatiini gargari nu imbaamne… wonti tokoleeni ta jaalala Waaqaatiini gargari nu baaftu injirtu, ta maro Kristo Yeso Aabbo keennatiifi teenna taate.” — Roma 8:38-39",
+  "closing.small": "Sheekko tana gubba, Seerri, kitaaboti walaloo, raagoonifi xalayaan “foon” itti dabalan.<br>Amma irraa, kitaaba kam banatteenuu, “sheekko keesa eessa jirta” ni argita.",
+  "closing.share": "↗ Sheekko tana qoodi",
+  "about.line": "Ija ilaalcha <b>seenaa-baafamaa, evaanjelaawaafi Reformeed</b> waldaa Protestaantii Kooriyaa heddu qoodu gubba hundaa'e.",
+  "about.contact": "Gaaffii · yaada — <a id=\"contact\" class=\"mail\">Imeelii nuu ergi</a>"
+ },
+ "epochs": [
+  {
+   "tag": "KAKUU MOOFAA · JALQABA",
+   "title": "Uumama",
+   "date": "Jalqaba irra",
+   "one": "Waaqi addunyaa “guddo dansa” tahe uume.",
+   "people": "Waaqa; Addaamufi Hewaani",
+   "events": "Uumama guyyaa jaha, namni fakkii Waaqaa godhame, boqonna Sanbataa",
+   "q": "Gaafa qaraa fiit'e, Waaqi lafafi gubba uume.",
+   "cite": "Uumama 1:1",
+   "christ": "Addunyaani “Dubbii”tiini uumame. Wangeeli Yohaannisi Dubbiin suni Yeso mata isaa tahuu isaa labsa (Yohaannisi 1:1-3).",
+   "detail": "<p>Kitaabni Qulqulluu falaasama (philosophy) miti, ammo labsiini jalqaba: <b>“Gaafa qaraa fiit'e, Waaqi…”</b> Addunyaani carraa miti, ammo hojja Waaqa namaa (personal)ti.</p><ul><li><b>Fakkii Waaqaa</b> · uumama ch'ufa keesa, namni ch'alla Waaqa fakkaachuuf godhame — isa beekuufi addunyaa eeguuf.</li><li><b>Boqonna</b> · boqonni guyyaa torbaffaa wonti ch'ufti raawwatee nagayaani (shalom) jiraachu agarsiisa: “dansa ture.”</li><li><b>Edeni</b> · addunyaa osoo hin'cabin, Waaqafi namni woliin d'eemani.</li></ul>",
+   "next": "Ammo guutummaani kuni dafee cabuu gaye…"
+  },
+  {
+   "tag": "KAKUU MOOFAA · RAKKOON JALQABA",
+   "title": "Kufaatii",
+   "date": "Jalqaba irra",
+   "one": "Dabni gale, hidhaan namaafi Waaqa giddu cite.",
+   "people": "Addaamufi Hewaani; bofa (Seexana)",
+   "events": "Iji d'oowwame nyaatamuu, Edeni keesaa bahuu, du'aafi d'amaa d'ufuu",
+   "q": "Anini siifi niiti tana nyaapa wolti tolche, d'alooti keesanileeni woli jibba… D'alooti isii mata si ch'arase…",
+   "cite": "Uumama 3:15",
+   "christ": "Waadaa Odu Dansaa jalqaba, eegi kufaatii suniti kenname: “d'aloota niitii” mata bofaa ch'arasa — suni Yeso (Uumama 3:15; Roma 16:20; Galaatiyaa 4:4).",
+   "detail": "<p>Ajaja-d'iisa “akka Waaqa tahuu” barbaaduutiini, dabni addunyaa keesa gale. Iji isaa seera tokko cabsuu ch'alla miti, ammo <b>firoomaa cabuu</b>ti.</p><ul><li><b>Firoomaa cite</b> · Waaqa woliin (d'okachuu), woli woliin (woli irra qabuu), uumama woliin (qoraattiifi d'ama).</li><li><b>Du'aa</b> · akeekkachiisi “d'ugaani du'aa” d'ugaa taha.</li><li><b>Uumama 3:15</b> · ammo murtii jiddu, waadaani baafamaa duraan d'ufa. Barsiisoti kana <b>protoevangelium (Odu Dansa jalqaba)</b> jed'an.</li></ul>",
+   "next": "Amma Waaqi nama tokko waamee baafama jalqaba…"
+  },
+  {
+   "tag": "KAKUU MOOFAA · WAADAA",
+   "title": "Abbootii",
+   "date": "gara 2000 D.D.",
+   "one": "Waaqi Abrahaamiif waadaa gala: “Ati buufata eebaa taata.”",
+   "people": "Abrahaam · Yisihaaq · Yaaqoob · Yoseef",
+   "events": "Wold'aqisa Abrahaam, Yisihaaq aarsaa godhamuu, ilmaani Yaaqoob kud'a-lamaan, Yoseef Misiri keesa bulchaa tahuu",
+   "q": "Anini ilmaani guddo sii kenna, ta gosa guddo taatu… Si gula anini gosa ch'ufaa eeba kennaa.",
+   "cite": "Uumama 12:2-3",
+   "christ": "Waadaa “gosti ch'ufti eebifamani” jed'u Yeso, d'aloota Abrahaamitiini guutame (Galaatiyaa 3:16).",
+   "detail": "<p>Waaqi rakkoo namummaa ch'ufaa nama tokko, <b>Abrahaam</b>, waamuun furuu jalqaba. Onnee isaa <b>wold'aqisa (waadaa)</b>ti — gosa guddo, lafafi “gosa ch'ufaaf eeba.”</p><ul><li><b>D'ugefacha</b> · Abrahaam waadaa hin'mul'anne d'ugefate, d'ugaan herregameef (Uumama 15:6).</li><li><b>Yisihaaqfi Yaaqoob</b> · waadaani d'aloota itti'aanuti dabra; Yaaqoob (Israeli) abbaa gosa kud'a-lamaaniti.</li><li><b>Yoseef</b> · obboleeyaniini gurgurame ammo bulchaa tahe — “Waaqi dansaaf godhe” (Uumama 50:20).</li></ul>",
+   "next": "Yoseefin hordofee, maatiin Misiritti gad bu'e — gabra taate…"
+  },
+  {
+   "tag": "KAKUU MOOFAA · BAAFAMA",
+   "title": "Bahuufi Gammoojii",
+   "date": "gara 1446 D.D.",
+   "one": "Waaqi uummata gabra baasee mata isaa godhate.",
+   "people": "Muusa, Aroon, Faraoon",
+   "events": "D'ibee kud'an, Faasiika, Galaana Diimaa ce'uu, Seera Kud'an Siinaa gubba, dunkaana qulqulluu, gammoojii keesa waggaa 40",
+   "q": "Ammalle anini nama kiyya isani tolfad'e Waaqa keesani taha.",
+   "cite": "Bahuu 6:7",
+   "christ": "Faasiika — bakka d'iigi xobbolaa du'aa deebise — Yeso, “xobbolaa Faasiika keenna,” nuuf maskali gubba hidhame agarsiisa (1 Qorontoosi 5:7).",
+   "detail": "<p>Baafama guddaa Kakuu Moofaa. Israeli gabra ture humna Waaqaatiini bilisa bahee <b>uummata</b> isaa godhame.</p><ul><li><b>Faasiika</b> · mani d'iiga xobbolaatiini mallattaa'e du'aani dabarfame — fakkii aarsaa booda ch'ufaa.</li><li><b>Galaana Diimaa</b> · karaan bakka d'umateti baafama; “gama ce'uu” mallattoo jalqaba haaraa.</li><li><b>Wold'aqisa Siinaa</b> · Seera Kud'aniini akkamiti uummata Waaqaa tahanii jiraachu baratan.</li><li><b>Dunkaana qulqulluu</b> · iddo qulqulluu sosocho'u Waaqi uummata isaa giddu jiraatu — d'iyaa “Immaanu'eli.”</li><li><b>Waggaa 40</b> · ajaja-d'iisaani d'aloota tokko gammoojii keesa joora, ammo Waaqi mannaafi utubaa duumessaafi ibiddaani isa woliin jira.</li></ul>",
+   "next": "Lafa waadaa qarqara d'aabatani, seenuuf qophaa'an…"
+  },
+  {
+   "tag": "KAKUU MOOFAA · QUBACHA",
+   "title": "Mohaachafi Hayyuu",
+   "date": "gara 1400–1050 D.D.",
+   "one": "Lafa argatan, ammo hayyuu mooti maleeni nami ch'ufti waan ufi fed'i tolche.",
+   "people": "Iyyaasu; hayyuu akka Ged'oonifi Saamsoon; Ruti",
+   "events": "Kufaatii Yerikoo, Kanaani keesa qubachuu, marsaa daba–murtii–baafama deddeebia",
+   "q": "Gaafasi Israeli keesa hayyuuni injiru, nami ch'ufti woma fed'i ufi taha.",
+   "cite": "Hayyuu 21:25",
+   "christ": "D'aloota Rutitiini Daudi d'ufa, d'aloota Dauditiini Yeso d'ufa (Maatoosi 1). Burjaajee keesalleeni, muka d'aloota Masiihaa itti fufa.",
+   "detail": "<p>Iyyaasu jala lafa waadaa seenani, ammo eegi qubatani dafanii Waaqa irraanfatan. Hayyuu fakkii tokkocha deddeebiiti.</p><ul><li><b>Marsaa gad bu'aa</b> · daba → cunqursaa → iyyacha → hayyuu baasa → amma daba. Yero ch'ufa caalaa hammaata.</li><li><b>Hayyoota</b> · Ged'oon, Saamsoon, Debooraa — baasota yero-d'iaa, gootota ammo hir'inna guddo qaban.</li><li><b>Ruti</b> · sheekko ifaa amanamuu waqtii dukanaa keesa; niiti gosa biraa muka Daudi (Yeso) keesa seente.</li></ul>",
+   "next": "Uummati “nu woliifi mooti kenni!” jed'ee iyyate…"
+  },
+  {
+   "tag": "KAKUU MOOFAA · YERO GUDDINNAA",
+   "title": "Mootummaa Tokkoome",
+   "date": "gara 1050–930 D.D.",
+   "one": "Waaqi Dauditiifi waadaa gala: “Teessoo keeti haga jiru jira.”",
+   "people": "Saa'ol · Daudi · Solomoon",
+   "events": "Mooti jalqaba Saa'ol, Daudifi Gooliyaad, wold'aqisa Daudi, mana qulqullummaa Solomoon",
+   "q": "Atini haga jirtu d'aloota ind'abdu. Hayyumti teetileeni muumme inqabdu ta haga jiru jireenna.",
+   "cite": "2 Saamu'eli 7:16",
+   "christ": "“Teessoo hegeri” Yeso, d'aloota Daudi keesaa, ni guutame — tanaafi inni “Ilma Daudi” jed'ame (Luqaasi 1:32-33; Maatoosi 1:1).",
+   "detail": "<p>Yero guddinna Israeli, mooti sad'aani bulfame.</p><ul><li><b>Saa'ol</b> · mooti jalqaba uummati gaafate; jalqaba dansa ajaja-d'iisaani balleessame.</li><li><b>Daudi</b> · “nama akka onnee Waaqaa.” Gooliyaad moohe Yerusaalem magaala godhate. Daba guddo (Batsheeba) tolche ammo onnee isaatiini deebie (Faarsa 51).</li><li><b>Wold'aqisa Daudi (2 Saamu'eli 7)</b> · Waaqi d'aloota Daudi haga jiru d'aabu waadaa gala — hundee guddaa abdii Masiihaa.</li><li><b>Solomoon</b> · hayyummaafi qabeenya gubbaani <b>mana qulqullummaa</b> Yerusaalem ijaare, ammo d'umarra wolii-galteeti gore.</li></ul>",
+   "next": "Solomoon booda, mootummaani lamatti cite…"
+  },
+  {
+   "tag": "KAKUU MOOFAA · GAD BU'A",
+   "title": "Mootummaa Cite",
+   "date": "930–586 D.D.",
+   "one": "Kibba (Yuda)fi Kaaba (Israeli)ti citee, suuta badiiti gore.",
+   "people": "Mootota mootummaa lameenii; raagi akka Eliyaas, Isaayaasifi Ermiyaas",
+   "events": "Mootummaani citu, wolii-galteen babal'achu, raagoti akeekkachiisu",
+   "q": "Tanaafi arti asi worri Israeli nama d'aloota Daudi ch'ufa iti garagale dida.",
+   "cite": "1 Mootota 12:19",
+   "christ": "Waqtii kanaani raagoti Masiihaa d'ufu jiru caalaa ifaani raagan (Isaayaasi 9:6; Isaayaasi 53).",
+   "detail": "<p>Bara ilma Solomoon mootummaani cita: <b>mootummaa kaaba Israeli</b> (gosa 10, magaala Samaariyaa)fi <b>mootummaa kibba Yuda</b> (gosa 2, magaala Yerusaalem).</p><ul><li><b>Israeli (kaaba)</b> · mooti ch'ufti wolii-galtee tajaajila; bara 722 D.D. Asoorti jala kufe.</li><li><b>Yuda (kibba)</b> · muka Daudi itti fufa, mooti dansa muraasa akka Hisqiyaasifi Yosiyaas qaba, ammo guututti gad bu'a.</li><li><b>Raagoti</b> · Eliyaas, Aamos, Isaayaasi, Ermiyaas “deebia!” jed'an. Raagni Masiihaa asitti baay'ata (“garbicha d'aanamu” Isaayaasi 53).</li></ul>",
+   "next": "D'umarra murtiin akeekkame d'ufe — boojii fud'aman…"
+  },
+  {
+   "tag": "KAKUU MOOFAA · MURTII",
+   "title": "Boojii",
+   "date": "722 / 586 D.D.",
+   "one": "Mootummaani kufe, uummati lafa ormaati fud'aman.",
+   "people": "Daani'eel, Hisqi'eel, Nabukadanezeri",
+   "events": "Israeli Asoorti jala kufe (722); Yuda Baabilooni jala kufe, mani qulqullummaa diigame (586)",
+   "q": "Nu galaana Babiloni d'aatu teteenneSioni qaabanne boonne.",
+   "cite": "Faarsa 137:1",
+   "christ": "Jiddu abdi-kutannaa keesa, Ermiyaas “wold'aqisa haraa” waadaa gala (Ermiyaas 31:31) — wold'aqisa Yeso irbaata d'umaa gubba mirkaneesse.",
+   "detail": "<p>Akeekkachiisi d'ugaa taha. Mani qulqullummaa gube uummati Baabiloniti fud'aman — lafa, mootifi mana qulqullummaa d'aban: bakka hunda gad'aa.</p><ul><li><b>Kufaatii lama</b> · Israeli (Asoor, 722 D.D.)fi Yuda (Baabilooni, 586 D.D.).</li><li><b>Daani'eel</b> · fakkii amantii bakka mooti ormaa keesalleeni (boolla leencaa); mul'ata “mootummaa hegeri” d'ufu arge.</li><li><b>Qulaa abdii</b> · mul'ata lafee gogaa deebi'ee jiraatu (Hisqi'eel 37)fi “wold'aqisa haraa” Ermiyaas dukana keesa fuula durati agarsiisan.</li></ul>",
+   "next": "Waggaa torbaatama booda, Waaqi karaa bana — manatti deebia…"
+  },
+  {
+   "tag": "KAKUU MOOFAA · DEEBII",
+   "title": "Boojii irraa Deebii",
+   "date": "538–430 D.D.",
+   "one": "Deebi'ani mana qulqullummaafi dallaa deebisanii ijaaran.",
+   "people": "Izraa, Nahimiyaa, Asteer, Zarubaabel",
+   "events": "Labsii Qiiroositiini deebii, mana qulqullummaa deebisanii ijaaruu, dallaa Yerusaalem suphuu, Dubbii deebisuu",
+   "q": "Gammadi AABBO Waaqi isanii kennu isani jabeesa.",
+   "cite": "Nahimiyaa 8:10",
+   "christ": "Milkiyaas, kitaaba d'uma Kakuu Moofaa, ergamaa karaa Masiihaa mid'aasu raagee xumura: “Anini ergattu tiyya erga” (Milkiyaas 3:1).",
+   "detail": "<p>Labsii mooticha Pheersi Qiiroosiitiini (538 D.D.) deebiin jalqaba. D'aanno sad'aniini deebi'ani waan diigame deebisanii ijaaran.</p><ul><li><b>Zarubaabel</b> · mana qulqullummaa deebisee ijaare (bara 516 D.D. raawwate).</li><li><b>Izraa</b> · Dubbii amma barsiisee amantii deebise.</li><li><b>Nahimiyaa</b> · dallaa Yerusaalem guyyaa 52ni deebisee ijaare.</li><li><b>Asteer</b> · Yahuda Pheersi keesa jiran badii irraa baase — “yero akkanaatiifi.”</li><li><b>Dheebuu itti fufa</b> · mani qulqullummaa d'aabate, ammo mooti akka Daudi hin'jiru. Uummati Masiihaa eega.</li></ul>",
+   "next": "Eegasi… akka samiin ch'allame, waggaan 400 dabra."
+  },
+  {
+   "tag": "KAKUU GIDDU · OOLMAA QOPHEESA",
+   "title": "Waggaa Ch'allamaa",
+   "date": "gara 430–4 D.D.",
+   "one": "Waggaa 400 sagalee raagaa malee — amallee oolmaani ch'allinnaani qophaa'e.",
+   "people": "Iskindir Guddaa, Makaabotota, Roomaa",
+   "events": "Pheersi → Giriiki → bilisummaa Makaabaa → bulcha Roomaa",
+   "q": "Ammo hojjaani geennaani, Waaqi Ilma isaa erge. Haad'a namati isa d'ale, Seera Yahudi keesaa d'alate,",
+   "cite": "Galaatiyaa 4:4",
+   "christ": "“Oolmaa qopheesa” kuni ch'ufti hojja Waaqaa akka Yesoni d'ugumaan “yero geennaani” d'ufu turteefi.",
+   "detail": "<p>Milkiyaas irraa hamma Kakuu Haaraatti, waggaa 400 ol caqasi Kitaaba Qulqulluu haaraa malee dabra. Ammo seenaa d'uuba Waaqi karaa Odu Dansaa qophaa'aa ture.</p><ul><li><b>Mootummooti garagalu</b> · Pheersi → Giriiki (Iskindir, 333 D.D.) → Misirifi Sooriyaa → fincila Makaabaa (167 D.D.) → Roomaa (63 D.D.).</li><li><b>Giriiki</b> · mohaachi Iskindir Giriiki afaan woligala godhe; Kakuun Moofaa Giriikiti hiikame (Septuagint), karaa Odu Dansaani dafee babal'achuuf bane.</li><li><b>Karaafi nagaya Roomaa</b> · karaa dansa ijaarameefi “Pax Romana” karaa ergamaa tajaajilaa tahan.</li><li><b>Manneen sagadaafi gareewwan</b> · barnooti mana sagadaa hidda godhate; Fariisotaafi Saaduqotaa ka'an; <b>Masiihaa eegacha</b>ni bilchaate.</li></ul>",
+   "next": "Eegasi ch'allinni cite — d'umarra, inni d'ufa."
+  },
+  {
+   "tag": "KAKUU HAARAA · GUUTTACHA",
+   "title": "Yeso D'ufa",
+   "date": "gara 4 D.D.–30 A.D.",
+   "one": "Masiihaani waadaa galame d'ufe, du'e, amma ka'e.",
+   "people": "Yeso, barattoota kud'a-lamaan, Yohaannisi Cuuphaa",
+   "events": "Foon-uffacha, tajaajila barsiisaafi dinqii, du'aa maskali gubba, du'aa-ka'umsa guyyaa sad'affaa",
+   "q": "Dubbini nama taate, jiddu teenna teete… ka eebafi d'ugaani guutame.",
+   "cite": "Yohaannisi 1:14",
+   "christ": "D'aloota niitii (sheekko 2), eeba Abrahaam (3), xobbolaa Faasiika (4), mooti hegeri Daudi (6), wold'aqisa haaraa (8) — ch'ufti Yeso tokkochaani guutame: raagaa, lubaafi mooti keenna d'ugaa.",
+   "detail": "<p>Ch'allinni cite; ka waadaa galame d'ufe. Wangeeli afraani jireenna, du'aafi du'aa-ka'umsa Yeso gama afraniini d'ugeesan.</p><ul><li><b>Foon-uffacha</b> · Waaqi nama tahe (Immaanu'eli, “Waaqi nu woliin”), Beetlihem bakka gad'aa keesa.</li><li><b>Tajaajila</b> · mootummaa Waaqaa barsiise, d'ibamtoota fayyise, namoota daba waame. “Nami na arge Abbaa arge.”</li><li><b>Maskali</b> · gati daba du'aa kufaatii (sheekko 2)tiini d'ufe iddo keenna baase. Xobbolaa Faasiika d'ugaa.</li><li><b>Du'aa-ka'umsa</b> · guyyaa sad'affaa ka'ee jabeenna daba, du'aafi Seexanaa cabse — maskali gubbaa “waan suni ch'ufa aka waan duuli boojie galche diidati nama agarsiise” (Qolosaayisi 2:15).</li></ul><p>Tanaafi Yesoni <b>raagaa d'ugaa</b> keenna (karaa gara Waaqaa nu agarsiisa), <b>luba d'ugaa</b> (foon ufiini daba kafala)fi <b>mooti d'ugaa</b> (daba, du'aafi Seexanaa moohee haga jiru bulcha)ti.</p>",
+   "next": "Yesoni ka'e barattoota isaa addunyaati erge…"
+  },
+  {
+   "tag": "KAKUU HAARAA · BABAL'ACHA",
+   "title": "Waldaani Jalqaba",
+   "date": "gara 30 A.D.–",
+   "one": "Lubbuuni Qulqullooni d'ufa, Odu Dansaani hamma muumme lafaa babal'ata.",
+   "people": "Phexroos, Phaawulos, waldaa jalqaba",
+   "events": "Lubbuuni Phenxeqoosxeti d'angala'uu, waldaani d'alachuu, Odu Dansaani Yerusaalem irraa Roomaati ari'atama keesa babal'achu",
+   "q": "Eegi Lubbuuni Qulqullooni isani ira buute jabeenna argattani… haga muumme lafale ch'ufa na d'ugeesitani.",
+   "cite": "Hojii Ergamootaa 1:8",
+   "christ": "Sheekko tuni amallee har'a itti fufti. Kitaabni Qulqulluu waadaa Yesoni amma d'ufee wonta ch'ufa haaraa godhuutiini xumura (Mul'ata 21).",
+   "detail": "<p>Eegi Yesoni samiiti bahe, Lubbuun waadaa galame Phenxeqoosxeti d'ufa, waldaani d'alata. Odu Dansaani guddo babal'ata.</p><ul><li><b>Phenxeqoosxe</b> · Lubbuutiini barattoota sodaani d'ugeesota gootota godhe.</li><li><b>Phexroos</b> · Yahuda Yerusaalem keesa Odu Dansaani lallabe.</li><li><b>Phaawulos</b> · ari'ataa irraa ergamaati, addunyaa ormaa keesa waldaa d'aabe xalayaa barreesse.</li><li><b>Hamma muumme lafaa</b> · Yerusaalem → Yudeyaa → Samaariyaa → Roomaa. Waadaa “gosa ch'ufaa” Abrahaamiif galame d'ugaa taha.</li><li><b>Nuleeni</b> · sheekkoon hin'd'umtu; gara du'aa-ka'umsa Yesoofi samiifi lafa haaraati deema.</li></ul>",
+   "next": "Ammo sheekkoon asitti hin'd'umtu…"
+  },
+  {
+   "tag": "KAKUU HAARAA · RAAWWACHA",
+   "title": "Deebii (wonti ch'ufti haaraa)",
+   "date": "fuula durati d'ufa",
+   "one": "Yesoni amma d'ufee wonta ch'ufa haaraa godha.",
+   "people": "Yeso ka deebi'u; gosa ch'ufa",
+   "events": "D'ufaatii lammaffaa, murtii d'umaa, d'uma daba·du'aa·imimaanii, samiifi lafa haaraa",
+   "q": "Inni imimaani ch'ufa ila worraa iraa haaqa. Iti deebie nami induu, lalefachafi boafi d'ukubsachaani injirtu.",
+   "cite": "Mul'ata 21:4",
+   "christ": "Edeni uumama jalqaba d'umarra “Yerusaalem Haaraa” godhamee deebia. Waaqi uummata isaa woliin haga jiru jiraata — guutummaa Immaanu'eli (Mul'ata 21:3; Maatoosi 1:23).",
+   "detail": "<p>Kitaabni Qulqulluu bara waldaati hin'd'umu. Kitaabni isaa d'umaa, Mul'ata, Yeso <b>amma d'ufee</b> wonta ch'ufa raawwatu agarsiisa.</p><ul><li><b>D'ufaatii lammaffaa</b> · mooti waadaa galame ulfinaani deebia.</li><li><b>Moohaacha d'umaa</b> · Seexanaafi du'aani haga jiru barbadaa'an, Kristoni mooti mootota tahee bulcha (1 Qorontoosi 15:25-26; Mul'ata 20:10).</li><li><b>Murtiifi du'aa-ka'umsa</b> · daba ch'ufti sirreefama, ka du'an ka'an.</li><li><b>Samiifi lafa haaraa</b> · daba, du'aa, imimaaniifi d'ukubsachi haga jiru badan (Mul'ata 21:4).</li><li><b>Edeni deebi'e</b> · “Yerusaalem Haaraa” jalqaba caalaa dansa keesa, Waaqi uummata isaa woliin haga jiru jiraata — bakka Kitaabni Qulqulluu ch'ufti deemaa ture.</li></ul><p>Tanaafi amma yero <b>“amma, ammo amallee miti”</b>ti: Yeso keesa baafamni <b>amma</b> raawwate, ammo guutummaa isaa <b>amallee</b> eegama.</p>",
+   "next": "Kanaafi sheekkoon tuni ch'ufti maqa “ana”tiifi maali?"
+  }
+ ],
+ "love": [
+  "Jalqabni sheekkoo murtii miti, ammo addunyaa jaalalaani d'angala'eeni uumameti.",
+  "Yero namni daba tolche, Waaqi bakkuma suniti baafama waadaa gale.",
+  "Waaqi nama hin'malle duraan barbaade, maqa isaa waamee, buufata eebaa godhe.",
+  "Aada'a uummata gabraa d'agaye, mata isaa gad bu'ee baase.",
+  "Yero ch'ufa ganamuus, yero iyyatan ch'ufa baasaa ergee amma kaase.",
+  "Daudi kufeellee hin'gatne; isaani mooti hegeri waadaa gale.",
+  "Uummata dugda itti garagalcheef raagoota ergaa, “maaloo deebia,” jed'e.",
+  "Hamma lafa boojii dukana hundaalleeni isaani woliin gad bu'ee deebii waadaa gale.",
+  "Uummata yero ch'ufa kufeellee waadaa irraa hin'fud'anne, ammo amma kaase.",
+  "Waggaa 400 ch'allinnaa keesalleeni, ch'allinnaani karaa baafamaa qophaa'aa ture.",
+  "Ato nu amallee daba keesa jirru, Ilma isaa ergee lubbuu ufi kenne.",
+  "Jaalala nu argannee, amma addunyaa ch'ufati d'angala'u erga.",
+  "D'umarra imimaani ch'ufa haaqee wonta ch'ufa jaalalaani haaraa godha."
+ ],
+ "mis": [
+  {
+   "w": "“Maafi Waaqi nama daba tolchu danda'u uume? Osoo nu hin'uumin wayyaa hin'turree?”",
+   "t": "Waaqi addunyaafi nama hir'inna tokoleeni miti, ammo jaalala d'angala'eeni uume. Nama <b>nama Waaqa woliin firooma qabu</b> godhuu mataani jaalalaati. Daba galuunileeni karoora baafama Waaqaa alaa hin'turre (Efesoosi 1:4-5). Sheekkoon Kitaaba Qulqulluu jalqaba murtii miti, ammo jaalalaati."
+  },
+  {
+   "w": "“Iji tokko nyaachuu ch'alla baafamee hamma du'aa argachuu? Waaqi guddo hammaataa miti?”",
+   "t": "Edeni keesaa bahuun murtiifi rahmataati. Waaqa irraa addaa, haala cabe suni keesa, osoo namni muka jireennaa nyaatee haga jiru jiraate, dhibaa keesa haga jiru qabamuu (Uumama 3:22). Du'aa hayyamuun karaa deebii bane; bakkuma suniti Waaqi Baasaa waadaa gale (Uumama 3:15). Murtii keesa jaalalatu ture."
+  },
+  {
+   "w": "“Abrahaam d'ugefacha guddoofi filatame; namooti Kitaaba Qulqulluu ch'ufti gootota dansummaa miti?”",
+   "t": "Abrahaamilleeni soobe, shakke; Yaaqoob gowwomsaa ture. Waaqi “namoota malan” miti, ammo eebaani namoota hir'inna qaban waame. Sababni filannaa dansummaa isaani miti, ammo jaalala amanamaa Waaqaa (Keessa Deebii 7:7-8)."
+  },
+  {
+   "w": "“Seerri (ajaja) qormaata ykn ulaagaa baafamuuf darbu malu miti?”",
+   "t": "Waaqi Seera kennuu <b>dura</b> isaani baase. Seerri Kud'aanileeni labsii baafamaatiini jalqaba: “Anini AABBO Waaqa kanketi, ka lafa Misiri keesaa si baase” (Bahuu 20:2). Seerri “baafamuuf eegi” miti, ammo namoota duraan eebaani baafamaniif akkamiti jiraachu jed'u qajeelfama jaalalaa (Keessa Deebii 7:7-9). Yero ch'ufa eeba dura; ajaja-dhageeffacha deebiiti."
+  },
+  {
+   "w": "“Mohaachi Kanaani ajjeecha rahmata maleeti; Waaqi Kakuu Moofaa d'ugaa hammaataa.”",
+   "t": "Kun mata-duree jecha tokkoon hin'furamne, of-eeggannoo barbaada. Ammo Kitaabni Qulqulluu akka humna sababa malee miti, ammo akka murtii waqtii d'eera hamenya caalaa (ijoollee aarsaa godhuus dabalatee) booda, obsa heddu booda (Uumama 15:16; Keessa Deebii 9:4-5; Lewwota 18:24-25). Waaqi murtiitti illee hin'ariifatu, nama gara isaa deebi'eef, nama ormaa Raahaabifi Rutillee, gammachuun simata (Iyyaasu 6:25; Ruti 4:13-17)."
+  },
+  {
+   "w": "“Daudi goota hir'inna hin'qabne; tanaafi ‘nama akka onnee Waaqaa’ jed'ame.”",
+   "t": "Daudi sagaagalee namas ajjeese. “Nama akka onnee Waaqaa” hir'inna hin'qabu jechu miti, ammo nama daba ufi hin'd'oksin — gad d'eesaani deebi'ee yero ch'ufa Waaqaati deebi'e (Faarsa 51). Jaalalli Waaqaa nama guddo kufeeleeni hin'gatu."
+  },
+  {
+   "w": "“Raagaani nama dubbii fuula durati himu; Waaqi Kakuu Moofaa aaru ch'alla.”",
+   "t": "Onneen raagaa “fuula durati himuu” miti, ammo iyya jaalalaa Waaqaa: “maaloo deebia.” Akeekkachiisi murtii illee balleessuuf miti, ammo namoota deebisanii baasuuf: “du'aa nama daba inhin'fed'u” (Hisqi'eel 33:11)."
+  },
+  {
+   "w": "“Boojiin Waaqi Israeli guututti gate jed'ee mirkaneesa.”",
+   "t": "Boojiin gachuu miti, ammo Abbaani ilma jaalatuuf qajeelfamaafi qulqulleesaa (Ibroota 12:6). Waaqi hin'baane; boojii jiddu Daani'eel woliin ture, “anumati herega anini isanii qabu beekha, aka hormaatani isanii d'ufe… aka waan dansa isani abdatani ch'ufa isanii kennu” waadaa gale (Ermiyaas 29:11)."
+  },
+  null,
+  {
+   "w": "“Waggaa 400 dubbii malee, Waaqi bahe ykn boqachaa ture.”",
+   "t": "Ch'allinni gachuu miti. Inni dubbachuu ch'alla dhise, yero suni ch'ufa mootummoota, afaanifi karaa oolmaa baafamaa qopheesuuf sosoche. Yero ch'allaa hunda keesa, Waaqi jaalalaani hunda caalaa hojjataa ture (Galaatiyaa 4:4)."
+  },
+  {
+   "w": "“Yesoni barsiisaa dansa tokko ch'alla; maskali kufaatii gad'aati.”",
+   "t": "Yesoni Waaqa tahuu ufi labse (Yohaannisi 8:58), maskali balaa ykn kufaatii miti ammo jaalala karoorfameti. Humnaani hin'fud'amne; lubbuu ufi fed'i ufiini kenne (Yohaannisi 10:18). “Nami tokoleeni jaalala hagana ira inqabu, ta nami maro jaalaani ufitiifi duu” (Yohaannisi 15:13)."
+  },
+  {
+   "w": "“Waldaani kilabii namoota guutuu, ykn mana ch'alla.”",
+   "t": "Waldaani waldaa “qulqulloota raawwatamani” miti, ammo <b>namoota daba dhiifamani</b>ti. Ergamaa Phaawulosilleeni “guddaani worra suni ana” (1 Ximootewos 1:15) jed'e ufiin jed'e. Waldaani jalqabilleeni mormee kufe (Hojii Ergamootaa 6:1; 1 Qorontoosi 1:11). Bakka itti boonu miti, ammo namoota jaalala argatan dabarsani (Yohaannisi 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Daba jalqaba — nami d'uga qabu hin'jiru",
+   "body": "Rakkoon “hojja hamaa muraasa” miti, ammo hidda onneeti. Addaam irraa, nami ch'ufti daba jala d'alate, ufiini Waaqa bira gahu hin'danda'u.",
+   "vref": "Roma 3:10-12, 23",
+   "vtext": "Nami d'uga qabu tokoleeni injiru, nami hubacha qabu injiru… nami ch'ufti ya daba tolche guddinna Waaqa hanqate."
+  },
+  {
+   "title": "Seerri na baasu hin'danda'u",
+   "body": "Seerri ladder miti ammo masqala. Hamma caalaa yaalte, hagana caalaa hir'achuu keeti agarsiisa. Kaayyoo isaa Kristoti nu geesuuti.",
+   "vref": "Roma 3:20 · Galaatiyaa 3:24",
+   "vtext": "Seeri aka nami daba tolchu ch'alla nama agarsiisa… Seerri suniti nu qorqorate, aka haga Kristoni d'ufuuti nu barsiisu."
+  },
+  {
+   "title": "Eebaani — kennaa, miti yaaliin",
+   "body": "Baafamni gati hojja walitti qabattee miti, ammo nama hin'malleef kennaa Waaqaa toluuti. Tanaafi nami tokoleeni hin'boonu.",
+   "vref": "Efesoosi 2:8-9",
+   "vtext": "Maro eeba Waaqaatiifi isani baafama argattani, kara d'ugefacha gula… ammo tola Waaqi isanii kenne. Wonti isani ufi guddiftaniifi injirtu."
+  },
+  {
+   "title": "D'ugefachaani d'uga heregame",
+   "body": "Seera eeguutiini miti, ammo Yeso Kristo d'ugefachaani d'uga herregamta — d'uga ufi miti ammo d'uga isaa uffatta.",
+   "vref": "Roma 5:1 · Galaatiyaa 2:16",
+   "vtext": "Waan maro d'ugefachatifi d'uga nu hereganiifi nu amma Waaqaani wolti nagaya qamna… aka d'ugefacha Yeso Kristotiini d'uga namaa heregani."
+  },
+  {
+   "title": "Kitaabni Qulqulluu Yeso agarsiisa",
+   "body": "Kitaabni Qulqulluu sheekko namoota guguddoo ykn kitaaba ufi-gargaaru miti. Uumama irraa hamma Mul'atati, fuulli ch'ufti nama tokko d'ugeesa — Yeso Kristo.",
+   "vref": "Yohaannisi 5:39 · Luqaasi 24:27",
+   "vtext": "T'aafinu naa d'ugeesiti!… Haga Musafi raagi ch'ufati iti keyate, waan isaa ka t'aafi keesati t'aafani ch'ufa worraa diige."
+  },
+  {
+   "title": "Mootummaa Waaqaa — dhaamsa Yeso jiddu",
+   "body": "Mata-duree Yesoni hunda caalaa barsiise. Bulchaa Waaqaa akka mooti addunyaa kanati Yesotiini gale, yero inni deebi'u raawwata. Maskalifi du'aa-ka'umsaani, Yesoni mooti d'ugaa daba, du'aafi Seexanaa moohe.",
+   "vref": "Maarqos 1:15",
+   "vtext": "Hojjaani yayu geete, Finni Waaqa la d'iaate, daba iraa deebia, Odu Dansa d'ugefad'a jed'e."
+  },
+  {
+   "title": "Odu Dansa — inni wonta ch'ufa raawwate",
+   "body": "Gati daba ani kafalu hin'dandeenne, Yesoni iddo kiyya maskali gubba kafale, ka'uunileeni du'aa moohe. “Godhi” miti ammo “la hobaate” irra d'aabad'a.",
+   "vref": "Yohaannisi 19:30 · Roma 5:8",
+   "vtext": "La hobaate!… Ato nu daba keesa jirru Kristoni nuu jed'e due!"
+  }
+ ]
+}
