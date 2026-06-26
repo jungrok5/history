@@ -1,0 +1,347 @@
+{
+ "menuName": "Wawle",
+ "htmlLang": "bci",
+ "dir": "ltr",
+ "font": null,
+ "brand": "Biblu'n i kwlaa nun ngunmin",
+ "docTitle": "Biblu'n i kwlaa nun ngunmin · Mɛn yilɛ'n lele asɔnun'n",
+ "share": {
+  "title": "Biblu'n i kwlaa nun ngunmin",
+  "text": "Lika kunngba nun, wun Biblu'n i ndɛ dan'n — yɛ like nga ti yɛ Jésus bali'n."
+ },
+ "ui": {
+  "people": "Sran mun",
+  "events": "Ninnge cinnjin mun",
+  "christLabel": "Ɔ kle Jésus",
+  "loveLabel": "Klolɛ b'ɔ wie-man le'n",
+  "mythWrong": "Ndɛ b'ɔ ti-man su'n",
+  "mythRight": "Nanwlɛ'n yɛ",
+  "more": "Nian i kpa ekun",
+  "version": "(BB98)"
+ },
+ "labels": {
+  "start": "Bo i bo",
+  "thread": "Ndɛ'n i sin",
+  "gospel": "Jasin fɛ'n",
+  "about": "I su ndɛ"
+ },
+ "s": {
+  "ui.share": "↗ Fa man ɔ wiengu",
+  "ui.toast": "Be fali atin'n be sieli 📋",
+  "ui.footer": "Biblu'n i kwlaa nun ngunmin · Biblu nun ndɛ'n fin BB98",
+  "hero.kicker": "MƐN YILƐ'N LELE ASƆNUN'N",
+  "hero.title": "Biblu'n,<br><span class=\"em\">i kwlaa nun ngunmin</span>",
+  "hero.sub": "Lika kunngba nun, wun Biblu'n i ndɛ dan'n — yɛ like nga ti yɛ Jésus bali'n.",
+  "hero.cue": "Jra ase<span>↓</span>",
+  "thread.eyebrow": "NDƐ KUNNGBA B'Ɔ TRƐ BIBLU'N KWLAA NUN'N",
+  "thread.h2": "I awieliɛ su'n, Biblu'n ti ndɛ kunngba cɛ",
+  "thread.flow": "<b>Ndɛ talɛ</b><span class=\"arw\">→</span><b>Minndɛ</b><span class=\"arw\">→</span><b>Su falɛ</b>",
+  "thread.note": "Nyanmiɛn <b>tɛ i nuan</b> (aenguɛ'n), sran mun <b>minndɛ</b> cɛn kpanngban, kpɛkuun i awieliɛ su'n like'n kwlaa <b>kpɛnnin su</b> yɛ ɔ wieli Jésus nun. Su ninnge 13 nga be o ase lɛ'n be su nan <b>“Nian i kpa ekun”</b> b'ɔ o kaati'n kun nin kun be su naan a wun ndɛ'n i kpa.",
+  "gospel.eyebrow": "LIKE NGA NDƐ NGA KLE “MIN”'N",
+  "gospel.h2": "Biblu'n i bo bo'n sakpa",
+  "gospel.lead": "Biblu'n <b>nɛ́n fluwa b'ɔ kle e kɛ “yo sran kpa” cɛ-ɔ.</b>",
+  "gospel.sublead": "Ɔ ti ndɛ b'ɔ kan wafa nga Nyanmiɛn, <b>i ye'n ngunmin ti'n</b>, deli sa tɛ yofuɛ mɔ be kwlá de-man be wun'n. I bo bo'n yɛlɛ Jésus-Krist.",
+  "gospel.mirror": "<h3>Izraɛl i sa nga ɔ yo titi'n, ɔ ti “min” bɔbɔ min nzɔliɛ</h3><div class=\"cycle\"><b>Amuin sɔlɛ</b><span class=\"a\">→</span><b>Afɛ</b><span class=\"a\">→</span><b>Kpan</b><span class=\"a\">→</span><b>Nyanmiɛn de be</b><span class=\"a\">→</span><b>Amuin sɔlɛ ekun…</b></div><p>Jɔlɛ difuɛ'm be blɛ'n nun lele fa ju kanga yialɛ'n nun'n, Izraɛl yo sa kunngba sɔ'n cɛn kwlaa. Biblu'n w'a klɛ-mɛn i sɔ'n naan e kpe be nuan e se kɛ “be ti aɲanbeunfuɛ.”</p><p>Ɔ ti <b>nzɔliɛ</b>. Nɛ́n “be yo sɔ”, sanngɛ ɔ kle e kɛ <b>“min kusu n yo sɔ wie”</b> (1 Korɛntfuɛ 10:11).</p><p><b>Amuin</b> nɛ́n waka b'ɔ ti ngunmin-ɔn. Ɔ ti <b>like kwlaa nga e klo i annzɛ e fa e wla guɛ i su tra Nyanmiɛn'n</b> — sika, ɲrun, sran nuan, sran mun, e bɔbɔ kpɛkuun. Yɛ kɛ é fá Nyanmiɛn é yó e klunklo like'n, i sɔ'n kusu ti amuin sɔlɛ.</p><p class=\"punch\">I awieliɛ su'n, amuin b'ɔ ti dan'n yɛlɛ “min bɔbɔ b'ɔ ti Nyanmiɛn i bia'n su.”</p>",
+  "gospel.coreIntro": "Ɔ maan, wafa sɛ yɛ Nyanmiɛn de sa tɛ yofuɛ sɔ-ɔ? Yɛ ɔ o jasin fɛ nga Biblu'n bo'n i bo bo lɛ.",
+  "gospel.crux": "<p class=\"crux-lead\">Biblu'n kwlaa kle lika kunngba.</p><p>Sran w'a kwlá kpɛ-man sa tɛ'n i atin nga ɔ yo titi'n i bɔbɔ i wun, yɛ sran kpa kun sa nun-man lɛ. I sɔ'n ti, ɔ fata kɛ sran kun <b>tua e kalɛ'n e osu</b>.</p><p>Jésus w'a ba-man kɛ ɔ ´kle e like kpa cɛ-ɔ. Atin uflɛ b'ɔ ´fa de min'n w'a nun-man lɛ ti'n, <b>ɔ fata kɛ ɔ ba.</b></p><p class=\"crux-punch\">Sran b'ɔ fata kɛ ɔ tran waka sɔ'n su lɛ'n, yɛlɛ <b>min</b>.<br>Jésus fali <b>min sa tɛ'n</b> ɔ kpɛli i ja ngo lɛ min osu.</p><div class=\"crux-verse\">«Sanngɛ é sa tɛ'm bɔ e yo be'n be ti yɛɔ nyannin kannin mɔnnɛn-mɔnnɛn i wunnɛn'n su-ɔ… Yɛ i wunnɛn'n susuwa'n nin i kannin'mbe ti yɛ man e yo juejue-ɔ.» — Ezai 53:5</div>",
+  "faq.h": "Ndɛ wie te kun ɔ akunndan?",
+  "faq.q1": "<span class=\"arr\">▸</span> Ɔ maan sran kunfuɛ kun b'ɔ lafi Nyanmiɛn su'n ɔ ´kɔ nglo lɔ, kpɛkuun sran b'ɔ yoli sa kpa i nguan'n nun kwlaa b'ɔ́ lafi-man'n ɔ ´kɔ sin'n nun?",
+  "faq.a1": "<p>Kosan kpa-ɔ. Sanngɛ ndɛ nɲɔn b'ɔ ti-man su'n be o nun.</p><p><b>① Biblu'n bu-man sran “kpa” nin “tɛ.”</b> Sunnzun ase'n nɛ́n “a flɛn ɔ wiengu tra'n”, sanngɛ ɔ ti <b>Nyanmiɛn i sanwun yolɛ b'ɔ ti seiin'n</b>. I ɲrun lɛ, sran fi “a yo-man kpa lele”' (Rɔmfuɛ 3:23). Ɔ maan nɛ́n “sran kpa nin sran kunfuɛ”, sanngɛ ɔ ti kɛ tukpaciɲanfuɛ nɲɔn b'ɔ ti kpoyo kunngba'n sa: kun sɔ ayre'n nun, kun kpɛkuun yi i blo, ɔ se kɛ “n ti juejue tra sran sɔ.”</p><p><b>② Like kunngba cɛ yɛ ɔ kpɛ nglo lɔ nin sin'n nun-ɔn.</b> Nɛ́n sa kpa yolɛ'n i nzuɛn, sanngɛ <b>sɛ a sɔ Jésus-Krist nun kɛ ɔ ti ɔ Min'n yɛ ɔ́ wie ɔ sa tɛ ndɛ'n</b>. Sran b'ɔ Krist i mmoja'n wieli i sa tɛ ndɛ'n ɔ ´kɔ nglo lɔ; sran b'ɔ́ sɔ-mɛn i nun le bɔ i sa tɛ'n ka lɛ'n, ɔ kɔ-man. Sa kpa fi kwlá wie-man sa tɛ ndɛ'n bɔbɔ ɔ osu.</p><p>Ɔ maan nglo lɔ nin sin'n nɛ́n “sa kpa yolɛ'n i akatua”, sanngɛ ɔ ti <b>ɔ nin Krist amun afiɛn'n</b> i ndɛ. Yɛ “lafilɛ'n” nɛ́n akunndan nun ndɛ kunngba falɛ cɛ-ɔ, sanngɛ ɔ ti sran b'ɔ sie ɔ nguan'n i kacilɛ: sran b'ɔ sɔ i nun sakpa'n ɔ yo-man wun tutufuɛ, sanngɛ ɔ kaci i nzuɛn'n kpa ekun. Sanngɛ <b>e bɔbɔ e wun bulɛ kɛ “n ti sran kpa”'n</b> yɛ ɔ ti amuin b'ɔ ti kekle kpɛ'n, b'ɔ man e bu i kɛ “Krist a mian-man min nun”'n (Lik 18:9-14).</p><p>Biblu'n kan i weiin: <b>«Sran ng'ɔ lafi i su'n, be bu-mɛn i fɔ, sanngɛ sran nga ɔ'a lafi-mɛn i su'n, Nyanmiɛn a dun mmua bu i fɔ»</b> (Zan 3:18). Jɔlɛ'n nɛ́n “ɔ nguan'n i bulɛ i awieliɛ su'n”, sanngɛ <b>sɛ a sɔ Krist nun annzɛ-ɔ</b>, i su yɛ ɔ ta su laa-ɔ.</p><p class=\"faq-v\">Rɔmfuɛ 3:23 · Zan 3:18 · Efɛzfuɛ 2:8-9 · Lik 18:9-14</p>",
+  "faq.q2": "<span class=\"arr\">▸</span> Sɛ n ´lafi-man Jésus su sa naan n ´yo sran kpa cɛ'n, ɔ ti-man su?",
+  "faq.a2": "<p>I sɔ yɛ sran sunman be bu-ɔ, sanngɛ be wun-man “ndɛ'n i bo bo b'ɔ ti'n.” E fa sunnzun ase kun.</p><p><b>Sunnzun kɛ a o awloto fuɛ mun be alie'n nun.</b> Kɛ ɔ ko yo sɛ a sasa alie'n nun kpa, a yo sran'm be klun ufue, a yo sran kpa o, a te ti <b>awloto fuɛ</b>, afin alie'n fɛ ɔ kɔ lika nga ɔ́ kɔ́'n nun (jɔlɛ'n i jranlɛ lika'n). Ndɛ'n nɛ́n “sa kpa nga a yo'n i nzuɛn”, sanngɛ ɔ ti <b>“alie benin nun yɛ a o-ɔ” (wan yɛ a ti-ɔ)</b>.</p><p>Ɔ maan jasin fɛ'n se-man kɛ “mian ɔ ɲin yo sran kpa kpa”; ɔ se kɛ <b>“jaso alie kun su kɔ kun su.”</b> Jaso sa tɛ'n i alie'n su naan kɔ Jésus liɛ'n su — <b>Nyanmiɛn wa</b> i wafa uflɛ'n nun. Nɛ́n ɔ nzuɛn'n i mantanlɛ ɔ bɔbɔ ɔ wunmiɛn nun, sanngɛ ɔ ti sran b'ɔ tɛ i sa'n man wɔ'n i su lafilɛ naan a kɔ i alie'n su.</p><p>Nanwlɛ, Biblu'n kan delɛ'n kɛ jaso lika kun su kɔ kun su sɔ wie: <b>«Ɔ deli ye aosin tuun'n i min'n sa nun, yɛ ɔ yoli man i anwlɛn su Ba'n yɛ ɔ sie ye siɛn nin-ɔn»</b> (Kolɔsfuɛ 1:13).</p><p>Nán bu i sa: <b>nɛ́n kɛ sran kpa yolɛ'n ti like fi-ɔ.</b> Sanngɛ sa kpa yolɛ'n nɛ́n delɛ'n i “atin”, sanngɛ ɔ ti i <b>mma</b>. Sran b'ɔ jasoli alie kun su b'ɔ kɔ kun su'n, ɔ yo kpa nɛ́n srɛ ti kun, sanngɛ <b>ba kun i klolɛ</b> ti.</p><p class=\"faq-v\">Kolɔsfuɛ 1:13 · Zan 1:12 · Zan 3:3 · Efɛzfuɛ 2:8-9</p>",
+  "faq.q3": "<span class=\"arr\">▸</span> Sɛ sran b'ɔ yo sa tɛ'n ɔ se kɛ “Nyanmiɛn yaci cɛli min”' naan ɔ tran fɔuun, kpɛkuun sran nga be yoli i tɛ'n ɔ te wun ɲrɛnnɛn'n, sa tɛ yaci cɛlɛ sɔ'n ɔ ti-man finfin?",
+  "faq.a3": "<p>Kosan'n ti su, yɛ afɛ sɔ'n ti nanwlɛ. Sanngɛ ndɛ sɔ'n nɛ́n “Biblu'n i sa tɛ yaci cɛlɛ'n”, sanngɛ ɔ ti i <b>saci</b>.</p><p><b>① Nyanmiɛn i sa tɛ yaci cɛlɛ'n ti-man finfin le.</b> Be fia-man sa tɛ'n su kɛ “ɔ w'a ju-man le” sa; Nyanmiɛn bɔbɔ tuali i kalɛ'n fa i Wa'n i nguan'n. Waka'n kle-man kɛ sa tɛ'n ti aɔwi like, sanngɛ ɔ kle kɛ ɔ ti tɛ kpa: ɔ ti sa tɛ yaci cɛlɛ b'ɔ ti kpli tra like kwlaa mɛn'n nun.</p><p><b>② Nzuɛn kpa kaci sakpa'n i mma o lɛ.</b> Sɛ sran b'ɔ yoli sa tɛ'n ɔ tran fɔuun sran nga be yoli i tɛ'n be ɲrun, ɔ se kɛ “Nyanmiɛn yacili cɛli min, ɔ maan min klun jɔ”', i sɔ'n nɛ́n nzuɛn kaci, sanngɛ ɔ ti i kacilɛ ngunmin (Matie 3:8). Yɛ sa tɛ yaci cɛlɛ b'ɔ o min nin Nyanmiɛn e afiɛn'n, ɔ nunnun-man sran nga be yoli i tɛ'n i nyrɛnnɛn'n, yɛ ɔ mian-mɛn i kɛ ɔ yaci cɛ.</p><p><b>③ Sa tɛ'n ɔ sin-man “ngbɛn” le.</b> Sa tɛ'n kwlaa be tua i kalɛ lika nɲɔn nun kun: <b>annzɛ Krist sua i waka'n su</b> (sran b'ɔ lafi i su'n be bu-mɛn i fɔ kun, Rɔmfuɛ 8:1), <b>annzɛ sran b'ɔ kpɔ i lele i awieliɛ'n ɔ bɔbɔ sua i.</b> Ɔ maan “sa tɛ yaci cɛlɛ b'ɔ ti finfin” nun-man lɛ. Sran b'ɔ yoli sa tɛ'n ɔ tu i kalɛ mɛn'n nun jɔlɛ'n i ɲrun wie (Rɔmfuɛ 13:1-4).</p><p><b>④ Sran nga be yoli i tɛ'n be nyinmuɛn'n ti-man kaan Nyanmiɛn i ɲrun.</b> Nyanmiɛn nin sran nga be sun'n be sun likawlɛ, ɔ wla kpɛn nyinmuɛn'n kwlaa su, yɛ i awieliɛ su'n ɔ bɔbɔ ´nunnun be (Sa Nglo Yilɛ 21:4). Ɔ maan sran nga be yoli i tɛ'n be ngunmin be su-man klunngbɔ tulɛ'n i trɔ'n, sanngɛ be kwla fa wla Nyanmiɛn b'ɔ ti seiin'n i sa nun (Rɔmfuɛ 12:19: «Min yɛ n tu klunngbɔ nin-ɔn, min yɛ n ´tua be kalɛ-ɔ»).</p><p class=\"faq-v\">Matie 3:8 · Rɔmfuɛ 8:1 · Rɔmfuɛ 13:1-4 · Sa Nglo Yilɛ 21:4</p>",
+  "faq.q4": "<span class=\"arr\">▸</span> Biblu'n ti ndɛ b'ɔ ɔli su sakpa? Ɔ ti kɛ laa anasi annzɛ ngbɛci sa.",
+  "faq.a4": "<p>Kosan kpa-ɔ, yɛ ɔ ti bo bolɛ kpa. Akunndan nɲɔn bulɛ'n nɛ́n lafilɛ'n i wun kpɔfuɛ, sanngɛ ɔ ti kunndɛlɛ kɛ é nían ninnge mun e wun seiin. Biblu'n nɛ́n anasi b'ɔ ti weiin-man b'ɔ fata kɛ “a lafi i su sɛ ɔ klo ɔ'n” cɛ-ɔ, sanngɛ ɔ ti ndɛ b'ɔ klɛli <b>lika, cɛn, nin sran sakpa</b> be su. E fa wie nga be o lɛ kan be ngunmin.</p><p><b>① Nɛ́n fluwa kunngba-ɔ, sanngɛ ɔ ti “fluwa kpanngban”' — sanngɛ ɔ fɛ i wun mantan ndɛ kunngba.</b> Biblu'n ti <b>fluwa 66</b> b'ɔ flata likawlɛ, be klɛli be <b>afuɛ akpi nin nnun (1.500) nun, sran kɔe 40</b> be sa nun — famiɛn mun, bua sunianfuɛ mun, jue trafuɛ mun, lapo defuɛ kun, ayre yofuɛ kun, sran wafawafa nin be blɛ wafawafa, be klɛli be ngunmin yɛ be si-man be wiengu, aniɛn nsan (Ebre, Aramɛ, Glɛki) nun. Sanngɛ ɔ kwlaa wieli ndɛ kunngba nun, kpasakpasa, yɛlɛ <b>delɛ b'ɔ fin Krist'n</b>. Ɔ ti ndɛ kunngba falɛ b'ɔ ti kekle kɛ é sé kɛ ɔ ɔli su ngbɛn annzɛ sran'm be yiali yoli-ɔ.</p><p><b>② Be te wun i nun ndɛ'n i su nanwlɛ asiɛ'n su lɛ (lika nuan kunndɛlɛ'n).</b> Ninnge kpanngban nga laa be seli kɛ ɔ ti ato, be wunnin be sakpa kɛ be kpɛ asiɛ'n be sa nun lɛ'n. <b>David i awlobo'n</b>, yɔbuɛ b'ɔ klɛ kɛ “David i awlo” ti (Tɛl Dan yɔbuɛ'n); <b>Pɔnsu Pilat</b>, mɛn sunianfuɛ b'ɔ kunnin Jésus'n, ndɛ b'ɔ klɛ i dunman'n ti; famiɛn Ezekias i nzue lika'n (2 Famiɛn mun 20:20) lika sɔ'n bɔbɔ nin ndɛ b'ɔ klɛ i su'n ti. <b>Itfuɛ mun</b> bɔbɔ, laa be seli kɛ “be ti sran ngbɛci”', be wunnin be kɛ be ti famiɛn dan kpa sua nga be saci'n be nun lɛ.</p><p><b>③ Ɔ ti fluwa laa b'ɔ ti kpa b'ɔ tran lɛ tra'n (fluwa nga be klɛli'n).</b> Fluwa nga be klɛli b'ɔ ka lɛ'n be nuan'n, be nin be wiengu be sɛ'n, nin blɛ b'ɔ o klɛlɛ'n nin i kpɛlɛ'n be afiɛn'n, like fi nun-man fluwa laa'm be nun b'ɔ kwla <b>fɛ i wun mantan Biblu'n</b>. Ezai fluwa b'ɔ dun mmua kɛ Krist nun nin'n, <b>Jeli Wie Ba'n i fluwa</b> (be wunnin be afuɛ 1947 nun) be nun'n, ɔ nin be nga be klɛli be afuɛ akpi (1.000) i sin'n be sɛ kɛ fluwa kun nin kun sa — ɔ kle kɛ be sasali Biblu'n kpa lele.</p><p><b>④ Ndɛ nga be dun mmua kɛnnin'n be juli su sɛsɛsɛ (ndɛ b'ɔ dun mmua kɛn'n).</b> Ndɛ Laa'n, b'ɔ klɛli i Krist nun afuɛ kpanngban'n, ɔ kan Jésus i wulɛ Bɛtleɛm (Mise 5:2), ɲrɛnnɛn wunfuɛ'n (Ezai 53:5), nin waka'n su sa'm be ndɛ weiin (Jue Mun 22). Ɔ ti su kpa lele kɛ é sé kɛ ɔ yoli ngbɛn-ɔn.</p><p><b>⑤ Sran nga be klɛ ninnge laa mɔ be ti-man Biblu nun'n, be klɛ Jésus i ndɛ wie.</b> Rɔmfuɛ'm be ndɛ klɛfuɛ <b>Tacite</b> nin Zuif ndɛ klɛfuɛ <b>Josèphe</b> — be nun wie fi ti-man Krist sɔnnzɔnfuɛ — be kan Jésus, i kunlɛ'n, nin asɔnun klikli'n be ndɛ. Likawlɛ'n, Jésus i sɔnnzɔnfuɛ mɔ srɛ ti be sanndili'n, <b>be fali be nguan'n be sieli i nun</b> be kan i cɛnlɛ'n i ndɛ — sran fi wu-man ndɛ b'ɔ si kɛ ɔ ti ato'n ti.</p><p>Sanngɛ nanwlɛ su'n, ninnge sɔ'm be kle kɛ Biblu nun lafilɛ'n <b>nɛ́n sinnzin like, sanngɛ ɔ ti akunndan nun ndɛ</b>; be nɛ́n “like b'ɔ kle ndɛ'n weiin kɛ ese nun ndɛ sa-ɔ.” Ɔ maan Krist sɔnnzɔnfuɛ'n i wla gualɛ'n nɛ́n ninnge nga be kle weiin'n be ngunmin be su yɛ ɔ fin-ɔn, sanngɛ ɔ fin <b>akunndan nga Nyanmiɛn Wawɛ'n fa wla sran i awlɛn nun kɛ ɔ su kanngan Ndɛ'n nun'n</b>. Biblu'n se kɛ: <b>«Ndɛ nga sran ti'n yɛ man ɔ lafi Nyanmiɛn su-ɔ, yɛ ndɛ nga be ti'n yɛlɛ Krist ndɛ bɔ be kan'n»</b> (Rɔmfuɛ 10:17). Ɔ maan kannzɛ ɔ ti kɛ ngbɛci sa o, <b>ɔ bɔbɔ ɔ kanngan i nun'n</b> yɛ ɔ ti bo bolɛ'n niɔn. Ninnge nga be kle weiin'n be tike anuan'n, yɛ wla gualɛ'n ɲin sran b'ɔ kanngan'n i klun.</p><p class=\"faq-v\">2 Famiɛn mun 20:20 · Ezai 53:5 · Mise 5:2 · Rɔmfuɛ 10:17</p>",
+  "respond.h3": "Ɔ maan — n ´yo sɛ?",
+  "respond.sub": "Klolɛ nga nɛ́n ndɛ b'ɔ kle like cɛ-ɔ, sanngɛ ɔ ti <b>flɛlɛ</b>. Sɛ klolɛ b'ɔ kpɛli i ja waka'n su ɔ osu'n ɔ kan ɔ awlɛn'n, srɛ Nyanmiɛn siɛn'n, ndɛ'n kun nin kun, blɛblɛ.",
+  "respond.prayer": "<p>Nyanmiɛn,</p><p>n yia kɛ n ti sa tɛ yofuɛ b'ɔ kwlá de-man i bɔbɔ i wun.</p><p>N lafi kɛ Jésus wuli waka'n su min ti yɛ ɔ cɛnnin.</p><p>Yaci min sa tɛ'n kwlaa cɛ min, yɛ andɛ nun kɔ min ɲrun yo min nguan'n i Min.</p><p>Sɔ min nun kɛ ɔ wa, yɛ man n ɲan nguan uflɛ.</p><p class=\"amen\">Jésus i dunman nun yɛ n srɛ-ɔ. Amɛn.</p>",
+  "respond.after": "Sɛ a srɛli sɔ aklunja su'n, Biblu'n se kɛ a <b>kacili Nyanmiɛn wa</b>. A nun-man ɔ ngunmin kun: kunndɛ asɔnun b'ɔ mantan wɔ'n naan e nin sran uflɛ amun nanti likawlɛ lafilɛ'n nun.",
+  "respond.read": "Kanngan Biblu'n nun ɔ bɔbɔ — bo i bo Zan su",
+  "respond.verse": "«Sanngɛ be kwlaa nga be sɔli i nun bɔ be lafi i su'n, ɔ man be kaci Nyanmiɛn wa.» — Zan 1:12 · Rɔmfuɛ 10:9-10",
+  "closing.main": "Nyanmiɛn kunngba,<br>ɔ fa ndɛ kunngba,<br>ɔ fa <em>klolɛ</em> b'ɔ wie-man le'n<br>ɔ kunndɛ ye.",
+  "closing.verse": "«Sɛ wie o, sɛ nguan o… sɛ nglo lɔ nin asiɛ'n su wa ninnge mun o, like fi nun-man lɛ b'ɔ man i nyin kwla tu e su-ɔ.» — Rɔmfuɛ 8:38-39",
+  "closing.small": "Ndɛ'n i sin nga su'n, Mmla'n, jue fluwa mun, Nyanmiɛn nuan ijɔfuɛ mun, nin fluwa mun be uka wunnɛn'n su.<br>Andɛ nun kɔ ɔ ɲrun, fluwa kwlaa nga á tíke'n, á sí lika nga a o ndɛ'n nun'n.",
+  "closing.share": "↗ Fa ndɛ nga man ɔ wiengu",
+  "about.line": "Ndɛ nga be taka <b>delɛ ndɛ'n i sin nun nianlɛ</b> b'ɔ ti Kore Prɔtɛstanfuɛ sunman be liɛ'n (evanzilifuɛ · refɔrmefuɛ) su.",
+  "about.contact": "Kosan · amanniɛn — <a id=\"contact\" class=\"mail\">Klɛ e fluwa</a>"
+ },
+ "epochs": [
+  {
+   "tag": "NDƐ LAA'N · BO BOLƐ'N",
+   "title": "Mɛn yilɛ'n",
+   "date": "I bo bolɛ'n nun",
+   "one": "Nyanmiɛn yili mɛn b'ɔ ti “kpa dan.”",
+   "people": "Nyanmiɛn; Adam nin Ɛvu",
+   "events": "Cɛn nsiɛn nun mɛn yilɛ'n, sran b'ɔ fa Nyanmiɛn'n, lofuɛ cɛn'n",
+   "q": "Kɛ mɛn'n bo i bo'n, Nyanmiɛn yili nglo nin asiɛ'n.",
+   "cite": "Bo Bolɛ 1:1",
+   "christ": "Be fali “Ndɛ'n” yili mɛn'n. Zan i jasin fɛ'n kan kɛ Ndɛ sɔ'n yɛlɛ Jésus bɔbɔ (Zan 1:1-3).",
+   "detail": "<p>Biblu'n bo-man i bo akunndan ndɛ kun su, sanngɛ ɔ bo i bo ndɛ kanlɛ kun su: <b>“Kɛ mɛn'n bo i bo'n, Nyanmiɛn…”</b>. Mɛn'n nɛ́n sa b'ɔ tɔ ngbɛn-ɔn, sanngɛ ɔ ti Nyanmiɛn b'ɔ ti sran'n i junman.</p><ul><li><b>Nyanmiɛn i wafa'n</b> · ninnge nga be o nun'n, sran ngunmin yɛ be yili i kɛ Nyanmiɛn sa — kɛ ɔ ´si i naan ɔ ´nian mɛn'n su.</li><li><b>Lofuɛ</b> · cɛn b'ɔ ti nso su lofuɛ'n kle kɛ like'n kwlaa wieli yɛ ɔ ti fɔuun: “Nyanmiɛn wunnin kɛ ɔ ti kpa.”</li><li><b>Edɛn</b> · mɛn'n b'ɔ nin-a saci-man, lika nga Nyanmiɛn nin sran be nanti likawlɛ'n.</li></ul>",
+   "next": "Sanngɛ fɔuun yolɛ nga ɔ́ wá sáci…"
+  },
+  {
+   "tag": "NDƐ LAA'N · NDƐ'N BO I BO'N",
+   "title": "Tɔlɛ'n",
+   "date": "I bo bolɛ'n nun",
+   "one": "Sa tɛ'n wluli nun, yɛ sran nin Nyanmiɛn be afiɛn'n kpɛli.",
+   "people": "Adam nin Ɛvu; wuo'n (Satan)",
+   "events": "Mma b'ɔ ti ndɛ'n i dilɛ, Edɛn nun fualɛ'n, wie nin afɛ'n be balɛ",
+   "q": "N ´fa kpɔlɛ n wla a nin bla'n be afiɛn… yɛ ɔ kusu a ´ka bé ja sin.",
+   "cite": "Bo Bolɛ 3:15",
+   "christ": "Jasin fɛ'n i ndɛ talɛ klikli'n, be mɛnnin i tɔlɛ'n i sin trele: “bla'n i osufuɛ'n” ´ka wuo'n i ti. I sɔ'n yɛlɛ Jésus (Bo Bolɛ 3:15; Rɔmfuɛ 16:20; Galatfuɛ 4:4).",
+   "detail": "<p>Kɛ be kunndɛli kɛ bé “yó kɛ Nyanmiɛn sa” mɔ be wa-man Nyanmiɛn ndɛ'n ti'n, sa tɛ'n wluli mɛn'n nun. I bo gualɛ'n nɛ́n mmla kun bukabualɛ cɛ-ɔ, sanngɛ ɔ ti <b>afiɛn'n i kpɛlɛ</b>.</p><ul><li><b>Afiɛn b'ɔ kpɛ'n</b> · Nyanmiɛn (be fia), be wiengu (be se kɛ ɔ ti i wiengu i fɔn), nin asiɛ'n (owie nin afɛ).</li><li><b>Wie</b> · ndɛ b'ɔ se kɛ “á wú sakpa'n” kpɛnnin su.</li><li><b>Bo Bolɛ 3:15</b> · sanngɛ jɔlɛ'n i afiɛn nun'n, delɛ'n i ndɛ talɛ'n dun mmua. Fluwa sifuɛ'm be flɛ i kɛ <b>jasin fɛ klikli'n</b>.</li></ul>",
+   "next": "Siɛn'n Nyanmiɛn flɛ sran kunngba naan ɔ bo delɛ'n i bo…"
+  },
+  {
+   "tag": "NDƐ LAA'N · NDƐ TALƐ'N",
+   "title": "Nannan mun",
+   "date": "kɔe afuɛ akpi nɲɔn (2000) Krist nin",
+   "one": "Nyanmiɛn tɛ Abraam i nuan kɛ: “Á yó ye nyanlɛ atin.”",
+   "people": "Abraam · Izaak · Zakɔb · Zozɛf",
+   "events": "Abraam i aenguɛ'n, Izaak i fa manlɛ'n, Zakɔb i mma blu-nin-nɲɔn'n, Zozɛf b'ɔ kacili sran dan Ezipt lɔ'n",
+   "q": "N ´yo man ɔ osu'n wa yo nvle dan kun… Ɔ dunman nun yɛ n ´yo nvle-nvle'm be kwlaa be ye-ɔ.",
+   "cite": "Bo Bolɛ 12:2-3",
+   "christ": "Ndɛ talɛ kɛ “nvle'n kwlaa bé nyán ye” kpɛnnin su Jésus, b'ɔ ti Abraam i osufuɛ'n i nun (Galatfuɛ 3:16).",
+   "detail": "<p>Nyanmiɛn bo sran kwlaa be ndɛ'n i wielɛ'n i bo kɛ ɔ flɛ sran kunngba, <b>Abraam</b>. I bo bo'n yɛlɛ <b>aenguɛ'n (ndɛ talɛ'n)</b>: nvle dan kun, mɛn kun, nin “ye man nvle'n kwlaa.”</p><ul><li><b>Lafilɛ</b> · Abraam lafili ndɛ talɛ b'ɔ wun-mɛn i'n su, yɛ Nyanmiɛn buli i sran kpa (Bo Bolɛ 15:6).</li><li><b>Izaak nin Zakɔb</b> · ndɛ talɛ'n ɔli osu uflɛ'n nun; Zakɔb (Izraɛl) ti akpasua blu-nin-nɲɔn'n be si.</li><li><b>Zozɛf</b> · i niaan mun be yoli i atɛ, sanngɛ ɔ kacili sran dan Ezipt lɔ: “Nyanmiɛn fali tɛ sɔ'n kacili ye” (Bo Bolɛ 50:20).</li></ul>",
+   "next": "Awlobo'n suli Zozɛf ɔli Ezipt lɔ… kpɛkuun be kacili kanga."
+  },
+  {
+   "tag": "NDƐ LAA'N · DELƐ'N",
+   "title": "Ezipt lɔ jasolɛ'n nin aawlɛ flɛnnɛn'n",
+   "date": "kɔe afuɛ akpi-kun-ya-nnan-nin-ablanan-nin-nsiɛn (1446) Krist nin",
+   "one": "Nyanmiɛn deli kanga nga be o'n, yɛ ɔ fali be yoli i bɔbɔ i liɛ.",
+   "people": "Moiz, Aarɔn, Farawɔn",
+   "events": "Ɲrɛnnɛn blu mun, Delɛ Cɛn'n, jenvie ɔkwlɛ'n i sannginlɛ'n, mmla blu'n Sinai su, Nyanmiɛn i tannin sua'n, afuɛ ablanan aawlɛ flɛnnɛn nun",
+   "q": "N ´fa amun nvle'n n ´yo min nvle, n ´yo amun Nyanmiɛn.",
+   "cite": "Ezipt Lɔ Jasolɛ 6:7",
+   "christ": "Delɛ Cɛn'n, lɛ bua mma'n i mmoja'n deli be wie'n i sa nun'n, ɔ kle Jésus, “e Delɛ Cɛn bua mma'n”, b'ɔ kpɛli i ja waka'n su e ti (1 Korɛntfuɛ 5:7).",
+   "detail": "<p>Ndɛ Laa'n nun delɛ b'ɔ ti dan'n. Izraɛl, b'ɔ ti kanga'n, ɔ ɲan i ti Nyanmiɛn i kwlalɛ'n ti yɛ ɔ kaci i <b>nvle</b>.</p><ul><li><b>Delɛ Cɛn'n</b> · awlo b'ɔ fa bua mma'n i mmoja'n yia anuan'n su'n, wie'n sin i su; ɔ ti tɛ nga bé wá yí be'n be kwlaa be wafa.</li><li><b>Jenvie ɔkwlɛ'n</b> · delɛ b'ɔ o lika nga atin'n wieli'n nun; “sin sanginlɛ'n” ti bo bolɛ uflɛ'n i nzɔliɛ.</li><li><b>Sinai aenguɛ'n</b> · mmla blu'n ti, be si wafa nga bé trán kɛ Nyanmiɛn i nvle sa'n.</li><li><b>Tannin sua'n</b> · Nyanmiɛn i sua b'ɔ tran be afiɛn'n: “Nyanmiɛn nin e o” i nzɔliɛ.</li><li><b>Afuɛ ablanan</b> · Nyanmiɛn ndɛ wa-manlɛ'n ti, osu kun sanndi aawlɛ flɛnnɛn nun, sanngɛ Nyanmiɛn nin be o lɛ, ɔ man be mana nin nzue ba'n nin sin'n.</li></ul>",
+   "next": "Be jin mɛn b'ɔ tali i nuan'n i nuan lɛ, be siesie be wun kɛ bé wlú…"
+  },
+  {
+   "tag": "NDƐ LAA'N · TRANLƐ'N",
+   "title": "Mɛn'n i defelɛ nin jɔlɛ difuɛ mun",
+   "date": "kɔe afuɛ 1400–1050 Krist nin",
+   "one": "Be ɲannin mɛn'n, sanngɛ famiɛn nun-man ti'n, sran kun yo i klunklo like.",
+   "people": "Zozie; jɔlɛ difuɛ kɛ Zedeɔn nin Samsɔn sa; Rit",
+   "events": "Zeriko i tɔlɛ'n, Kanaan tranlɛ'n, sa tɛ–jɔlɛ–delɛ nga ɔ yo titi'n",
+   "q": "I blɛ sɔ nun'n, wuun famiɛn nun-man Izraɛl mɛn'n nun mlɔnmlɔn. Sran kun i klunklo like nga i waan ɔ ´yo'n yɛ ɔ yo-ɔ.",
+   "cite": "Jɔlɛ Difuɛ Mun 21:25",
+   "christ": "Rit i osu'n nun yɛ David fin-ɔn, yɛ David i osu'n nun yɛ Jésus fin-ɔn (Matie 1). Sa kekle'n nun bɔbɔ, Mesi'n i osu'n te kɔ i ɲrun.",
+   "detail": "<p>Zozie i bo lɛ be wlu mɛn b'ɔ tali i nuan'n nun, sanngɛ kɛ be wa tran lɛ'n, be wla fi Nyanmiɛn. Jɔlɛ Difuɛ Mun fluwa'n ti sa kunngba sɔ'n i yolɛ titi.</p><ul><li><b>Sa tɛ'n i sin'n</b> · sa tɛ → ɲrɛnnɛn → kpan → jɔlɛ difuɛ kun de be → sa tɛ ekun, ɔ tɛ kɔ i ɲrun.</li><li><b>Jɔlɛ difuɛ mun</b> · Zedeɔn, Samsɔn, Debora… defuɛ b'ɔ ka kan be wun mun, be ti jasofuɛ sanngɛ be sa tɛ'n sɔn.</li><li><b>Rit</b> · nanwlɛ b'ɔ kpaja blɛ tuun nun; bla b'ɔ ti aofuɛ'n ɔ wlu David (nin Jésus) i osu'n nun.</li></ul>",
+   "next": "Be kpan kɛ: “Man e famiɛn wie!”…"
+  },
+  {
+   "tag": "NDƐ LAA'N · I ƝRUN BLƐ'N",
+   "title": "Famiɛn dilɛ kunngba'n",
+   "date": "kɔe afuɛ 1050–930 Krist nin",
+   "one": "Nyanmiɛn tɛ David i nuan kɛ: “Ɔ bia'n ´taka tititi.”",
+   "people": "Saul · David · Salomɔn",
+   "events": "Famiɛn klikli Saul, David nin Goliat, David i aenguɛ'n, Salomɔn i sua'n",
+   "q": "Wɔ awlo'n nin ɔ sielɛ'n be ´taka a nin wɔ osufuɛ mun amun sa nun tititi, a ´tran famiɛn bia'n su.",
+   "cite": "2 Samiɛl 7:16",
+   "christ": "“Famiɛn bia b'ɔ ka lɛ tititi'n” kpɛnnin su Jésus, b'ɔ ti David i osufuɛ'n i nun; i ti yɛ be flɛ i “David i Wa” (Lik 1:32-33; Matie 1:1).",
+   "detail": "<p>Izraɛl i ɲrun blɛ'n, famiɛn nsan be sa nun.</p><ul><li><b>Saul</b> · famiɛn klikli nga sran'm be srɛli'n; ɔ boli i bo kpa, sanngɛ Nyanmiɛn ndɛ wa-manlɛ'n ti, Nyanmiɛn yili i blo.</li><li><b>David</b> · “sran b'ɔ Nyanmiɛn i awlɛn su'n.” Ɔ kwlali Goliat yɛ ɔ fa Zerizalɛm yoli i klɔ dan'n. Ɔ yoli sa tɛ dan (Bɛtsabe), sanngɛ ɔ kacili i nzuɛn'n i awlɛn kwlaa nun (Jue Mun 51).</li><li><b>David i aenguɛ'n (2 Samiɛl 7)</b> · Nyanmiɛn tali nda kɛ ɔ́ síesíe i awlobo'n tititi: Mesi'n i ɲanlɛ wla'n i bo bo cinnjin'n.</li><li><b>Salomɔn</b> · ngwlɛlɛ nin aɲanbeun'n i nuan'n nun ɔ kplan Zerizalɛm <b>sua'n</b>, sanngɛ i awieliɛ su'n ɔ sɔ amuin.</li></ul>",
+   "next": "Salomɔn i sin'n, famiɛn dilɛ'n kpɛli nɲɔn…"
+  },
+  {
+   "tag": "NDƐ LAA'N · I JRALƐ'N",
+   "title": "Famiɛn dilɛ b'ɔ kpɛli nɲɔn'n",
+   "date": "930–586 Krist nin",
+   "one": "Ɔ kpɛli nglo (Zida) nin nyanmiɛn lika (Izraɛl), yɛ ɔ saci blɛblɛ.",
+   "people": "Famiɛn nɲɔn'n be liɛ; Nyanmiɛn nuan ijɔfuɛ kɛ Eli, Ezai, nin Zeremi sa",
+   "events": "Famiɛn dilɛ'n i kpɛlɛ nɲɔn, amuin sɔlɛ'n, Nyanmiɛn nuan ijɔfuɛ'm be afɔtuɛ'n",
+   "q": "Kɛ Izraɛlfuɛ nga be o mɛn'n nglo lɔ lika nun'n be yili David osu'n i blo… Lele ndɛ be tɛ jaso osu sɔ'n wun.",
+   "cite": "1 Famiɛn Mun 12:19",
+   "christ": "Blɛ nga nun'n, Nyanmiɛn nuan ijɔfuɛ'm be kan Mesi b'ɔ́ wá bá'n i ndɛ weiin kpa ekun (Ezai 9:6; Ezai 53).",
+   "detail": "<p>Salomɔn i wa'n i blɛ su'n, famiɛn dilɛ'n kpɛli nɲɔn: <b>Izraɛl (nyanmiɛn lika)</b>, akpasua blu, i klɔ dan'n Samari; nin <b>Zida (nglo lika)</b>, akpasua nɲɔn, i klɔ dan'n Zerizalɛm.</p><ul><li><b>Nyanmiɛn lika'n</b> · i famiɛn'm be kwlaa be sɔ amuin; ɔ tɔ Asiri sa nun afuɛ 722 Krist nin.</li><li><b>Nglo lika'n</b> · David i osu'n te kɔ i ɲrun yɛ famiɛn kpa wie mun kɛ Ezekias nin Zozias sa be o lɛ, sanngɛ likawlɛ'n, ɔ saci.</li><li><b>Nyanmiɛn nuan ijɔfuɛ mun</b> · Eli, Amɔs, Ezai, Zeremi be kpan kɛ “amun sa amun sin!”. Mesi'n i su ndɛ'n sɔn lɛ kpa (Ezai 53 “ɲrɛnnɛn wunfuɛ'n”).</li></ul>",
+   "next": "I awieliɛ su'n, jɔlɛ nga be dun mmua kɛnnin'n ɔ ba: be fa be ɔ kanga…"
+  },
+  {
+   "tag": "NDƐ LAA'N · JƆLƐ'N",
+   "title": "Kanga yialɛ'n",
+   "date": "722 / 586 Krist nin",
+   "one": "Famiɛn dilɛ'n tɔ, yɛ be fa nvle'n be ɔ aofuɛ mɛn nun.",
+   "people": "Daniɛl, Ezekiɛl, Nabikodonozɔr",
+   "events": "Izraɛl tɔ Asiri sa nun (722); Zida tɔ Babilɔni sa nun yɛ be saci sua'n (586)",
+   "q": "Kɛ e titi Babilɔni nzue ba'm bé nuan lɔ'n, bɔ e nyin kpɛnkpɛn Siɔn su'n, e sunnin.",
+   "cite": "Jue Mun 137:1",
+   "christ": "Awlabɔɛ'n i bo lɔ kpa'n, Zeremi tɛ i nuan kɛ “aenguɛ uflɛ” (Zeremi 31:31): aenguɛ kunngba nga Jésus trali i aliɛ kasiɛn'n nun'n.",
+   "detail": "<p>Afɔtuɛ'n kpɛnnin su. Sin di sua'n yɛ be fa nvle'n be ɔ Babilɔni: be wieli mɛn'n, famiɛn'n, nin sua'n, ɲrɛnnɛn b'ɔ ti dan'n.</p><ul><li><b>Tɔlɛ nɲɔn</b> · Izraɛl (Asiri, 722 Krist nin) nin Zida (Babilɔni, 586 Krist nin).</li><li><b>Daniɛl</b> · lafilɛ i wafa kpa, kannzɛ ɔ o amuin sɔfuɛ'm be klɔ dan'n nun (asɔmɔli kunman'n); ɔ wun famiɛn dilɛ b'ɔ ka lɛ tititi'n b'ɔ́ wá bá'n i aolia nun.</li><li><b>Wla'n i wunsu kaan</b> · owie wie b'ɔ cɛnnin'n i aolia nun (Ezekiɛl 37) nin Zeremi i “aenguɛ uflɛ”'n be kle ɲrun blɛ'n aosin'n nun.</li></ul>",
+   "next": "Afuɛ ablamɔcuɛ i sin'n, Nyanmiɛn tike atin: be sa be sin be awlo…"
+  },
+  {
+   "tag": "NDƐ LAA'N · I SIN BALƐ'N",
+   "title": "Kanga yialɛ'n nun sin balɛ'n",
+   "date": "538–430 Krist nin",
+   "one": "Be sa be sin yɛ be kplan sua'n nin talɛ'n ekun.",
+   "people": "Ɛsdras, Neemi, Ɛstɛr, Zorobabɛl",
+   "events": "Be sin balɛ Sirisi i ndɛ ti, sua'n i kplanlɛ ekun, Zerizalɛm talɛ'n i siesielɛ, Ndɛ'n i sin balɛ",
+   "q": "Aklunjuɛ ng'ɔ fin Anannganman'n, ɔ ´man amun fanngan.",
+   "cite": "Neemi 8:10",
+   "christ": "Malasi, Ndɛ Laa'n i fluwa kasiɛn'n, ɔ wie i bo kɛ ɔ kan ndolo bofuɛ b'ɔ siesie Mesi'n i atin'n i ndɛ: “N su sunman min ndolo bofuɛ'n” (Malasi 3:1).",
+   "detail": "<p>Sin balɛ'n bo i bo Pɛrɛsi famiɛn Sirisi i ndɛ'n (538 Krist nin) ti. Be ba kpɔlɛ nsan nun yɛ be kplan like nga ɔ saci'n ekun.</p><ul><li><b>Zorobabɛl</b> · ɔ kplan sua'n ekun (be wieli i afuɛ 516 Krist nin).</li><li><b>Ɛsdras</b> · ɔ kle Mmla'n (Ndɛ'n) ekun yɛ ɔ siesie lafilɛ'n.</li><li><b>Neemi</b> · ɔ kplan Zerizalɛm talɛ'n cɛn ablenɲɔn-nin-nɲɔn (52) nun.</li><li><b>Ɛstɛr</b> · ɔ de Zuif nga be o Pɛrɛsi lɔ'n be wie'n i sa nun: “wan yɛ ɔ si kɛ blɛ kɛ nga sa nun ti…?”.</li><li><b>Aɲanbeun b'ɔ te o lɛ'n</b> · sua'n jin lɛ, sanngɛ famiɛn kɛ David sa nun-man lɛ. Sran'm be minndɛ Mesi'n.</li></ul>",
+   "next": "Yɛ siɛn'n… kɛ nglo'n w'a tɔ sin sa, afuɛ ya nnan (400) be sin fɔuun nun."
+  },
+  {
+   "tag": "NDƐ LAA'N NIN NDƐ UFLƐ'N BE AFIƐN · BE SIESIE LIKA'N",
+   "title": "Fɔuun blɛ'n",
+   "date": "kɔe 430–4 Krist nin",
+   "one": "Afuɛ ya nnan b'ɔ Nyanmiɛn nuan ijɔfuɛ nun-man, sanngɛ be siesie lika'n fɔuun.",
+   "people": "Alɛksandrɛ Dan, Makabe mun, Rɔm",
+   "events": "Pɛrɛsi → Glɛki → Makabe i tilɛ wun fanlɛ → Rɔm i sielɛ",
+   "q": "Sanngɛ kɛ blɛ nga Nyanmiɛn sieli'n juli'n, ɔ sunmɛnnin i Wa'n, bla kun wuli i.",
+   "cite": "Galatfuɛ 4:4",
+   "christ": "Lika siesielɛ nga kwlaa ti Nyanmiɛn i junman naan Jésus ´bá “kɛ blɛ nga Nyanmiɛn sieli'n juli'n.”",
+   "detail": "<p>Malasi lele fa ju Ndɛ Uflɛ'n nun'n, afuɛ kɔe ya nnan b'ɔ Biblu nun ndɛ uflɛ (Nyanmiɛn nuan ijɔfuɛ) nun-man. Sanngɛ ndɛ'n i sin lɔ'n, Nyanmiɛn siesie jasin fɛ'n i trɛlɛ'n i atin.</p><ul><li><b>Famiɛn dilɛ'n i kacilɛ</b> · Pɛrɛsi → Glɛki (Alɛksandrɛ, 333 Krist nin) → Ezipt nin Siri → Makabe i tilɛ wun fanlɛ (167 Krist nin) → Rɔm (63 Krist nin).</li><li><b>Glɛki aniɛn'n</b> · Alɛksandrɛ i defelɛ'n ti, Glɛki kacili aniɛn b'ɔ ti likawlɛ liɛ'n; be kacili Ndɛ Laa'n Glɛki nun (Sɛptant), ɔ tike atin man jasin fɛ'n i trɛlɛ ndɛndɛ.</li><li><b>Rɔm i atin mun nin i fɔuun tranlɛ'n</b> · atin nga be siesie kpa'n nin “Rɔm i fɔuun tranlɛ'n” kacili jasin bolɛ'n i atin.</li><li><b>Aɲia sua mun nin akpasua mun</b> · aɲia sua nun klelɛ'n taka ase; Farizifuɛ nin Sadisefuɛ mun be wuli, yɛ <b>Mesi'n i minndɛlɛ'n</b> ɲinnin.</li></ul>",
+   "next": "Yɛ kɛ fɔuun'n wieli'n, i awieliɛ su'n ɔ ba."
+  },
+  {
+   "tag": "NDƐ UFLƐ'N · SU FALƐ'N",
+   "title": "Jésus i balɛ'n",
+   "date": "kɔe 4 Krist nin–30 Krist sin",
+   "one": "Mesi nga be tali i nda'n ɔ bali, ɔ wuli, yɛ ɔ cɛnnin.",
+   "people": "Jésus, sɔnnzɔnfuɛ blu-nin-nɲɔn'n, Zan Batɛmun yofuɛ'n",
+   "events": "I sran kaclɛ'n, i klelɛ junman nin abonuan sa mun, i wie'n waka'n su, i cɛnlɛ'n cɛn nsan su",
+   "q": "Ndɛ sɔ'n kacili i wun sran, ɔ nin ye wa trannin, ɔ ti aklunyefuɛ nin nanwlɛfuɛ.",
+   "cite": "Zan 1:14",
+   "christ": "Bla'n i osufuɛ'n (ndɛ 2), Abraam i ye'n (3), Delɛ Cɛn bua mma'n (4), David i famiɛn b'ɔ ka lɛ tititi'n (6), nin aenguɛ uflɛ'n (8) be kwlaa be kpɛnnin su Jésus kunngba nun: e Nyanmiɛn nuan ijɔfuɛ, Nyanmiɛn ɲrun jranfuɛ, nin famiɛn sakpa'n.",
+   "detail": "<p>Fɔuun'n wieli; sran nga be tali i nda'n ɔ ba. Jasin fɛ nnan'n be kan Jésus i nguan'n, i wie'n, nin i cɛnlɛ'n be ndɛ.</p><ul><li><b>Sran kaclɛ'n</b> · Nyanmiɛn kacili sran (“Nyanmiɛn nin e o”), Bɛtleɛm i kan'n nun.</li><li><b>Junman'n</b> · ɔ kle Nyanmiɛn i sielɛ'n, ɔ yo tukpacifuɛ mun be juejue, ɔ flɛ sa tɛ yofuɛ mun. “Sran ng'ɔ wun min'n, ɔ wun min Si'n.”</li><li><b>Waka'n</b> · ɔ tua sa tɛ nin wie nga tɔlɛ'n (ndɛ 2) fa bali'n be kalɛ e osu. Delɛ Cɛn bua mma sakpa'n.</li><li><b>Cɛnlɛ'n</b> · cɛn nsan su ɔ cɛnnin yɛ ɔ buli sa tɛ, wie, nin Satan be kwlalɛ'n i bue: waka'n su bɔbɔ ɔ “buli mmusu mun nin kpɛnngbɛn'm be kwlalɛ'n i bue… kɛ ɔ fa be yili i kwlalɛ'n nglo'n” (Kolɔsfuɛ 2:15).</li></ul><p>Ɔ maan Jésus ti e <b>Nyanmiɛn nuan ijɔfuɛ sakpa</b> (ɔ kle e Nyanmiɛn i atin'n), e <b>Nyanmiɛn ɲrun jranfuɛ sakpa</b> (ɔ fa i bɔbɔ i wunnɛn'n tua sa tɛ'n i kalɛ), nin e <b>famiɛn sakpa</b> (ɔ kwla sa tɛ, wie, nin Satan, yɛ ɔ sie tititi).</p>",
+   "next": "Jésus b'ɔ cɛnnin'n ɔ sunman i sɔnnzɔnfuɛ mun mɛn'n nun…"
+  },
+  {
+   "tag": "NDƐ UFLƐ'N · I TRƐLƐ'N",
+   "title": "Asɔnun'n i bo bolɛ'n",
+   "date": "kɔe 30 Krist sin–",
+   "one": "Nyanmiɛn Wawɛ'n ba yɛ jasin fɛ'n trɛ lele fa ju asiɛ'n i awieliɛ.",
+   "people": "Piɛr, Pɔl, asɔnun klikli'n",
+   "events": "Nyanmiɛn Wawɛ'n i balɛ Pantkɔt cɛn'n nun, asɔnun'n i wulɛ, jasin fɛ'n i fin Zerizalɛm lele fa ju Rɔm klolɛ kekleekle'n i afiɛn",
+   "q": "Sanngɛ kɛ Nyanmiɛn Wawɛ'n ko ba amun wun'n, ɔ ´tin amun, an wa kan min ndɛ Zerizalɛm wa… ɔ nin Samari lɔ lele fa ju asiɛ'n i awieliɛ.",
+   "cite": "Sa Nga Be Yoli'n 1:8",
+   "christ": "Ndɛ nga te kɔ i ɲrun andɛ bɔbɔ. Biblu'n wie i bo nda nga be tɛli kɛ Jésus ´sa i sin yɛ ɔ ´yo like'n kwlaa uflɛ'n (Sa Nglo Yilɛ 21).",
+   "detail": "<p>Kɛ Jésus fu nglo'n, Nyanmiɛn Wawɛ nga be tali i nda'n ɔ ba Pantkɔt cɛn'n nun yɛ asɔnun'n wu. Jasin fɛ'n trɛ kpa.</p><ul><li><b>Pantkɔt</b> · Nyanmiɛn Wawɛ'n ti, sɔnnzɔnfuɛ mɔ srɛ kun be'n be kacili lalofuɛ b'ɔ srɛ kun-man be'n.</li><li><b>Piɛr</b> · ɔ bo jasin fɛ'n kle Zuif mun Zerizalɛm lɔ.</li><li><b>Pɔl</b> · ɔ fin klofuɛ kacili akoto; ɔ tinngɛ asɔnun mun mɛn'n nun yɛ ɔ klɛ fluwa mun.</li><li><b>Lele fa ju asiɛ'n i awieliɛ</b> · Zerizalɛm → Zide → Samari → Rɔm. Nda nga be tali Abraam kɛ “nvle'n kwlaa”'n ɔ kpɛn su.</li><li><b>Yɛ e kusu</b> · ndɛ'n wie-man; ɔ kɔ Jésus i sin balɛ'n nin nglo nin asiɛ uflɛ'n be lɛ.</li></ul>",
+   "next": "Sanngɛ ndɛ'n wie-man wa…"
+  },
+  {
+   "tag": "NDƐ UFLƐ'N · I WIELƐ'N",
+   "title": "Sin siesielɛ'n (like'n kwlaa uflɛ)",
+   "date": "ɔ te ba",
+   "one": "Jésus sa i sin yɛ ɔ yo like'n kwlaa uflɛ.",
+   "people": "Jésus b'ɔ sa i sin'n; nvle'n kwlaa",
+   "events": "I sin balɛ'n, jɔlɛ kasiɛn'n, sa tɛ·wie·nyinmuɛn'n be wielɛ, nglo nin asiɛ uflɛ'n",
+   "q": "Ɔ ´nunnun be nyinmuɛn'n kwlaa, wie'n su tran-man lɛ kun. Be su yo-man sɛ kun, be su sun-man kun, be su wun-man nyrɛnnɛn kun.",
+   "cite": "Sa Nglo Yilɛ 21:4",
+   "christ": "Mɛn klikli'n nun Edɛn'n ɔ kaci “Zerizalɛm uflɛ'n” i awieliɛ su'n. Nyanmiɛn nin i nvle'n be tran tititi: “Nyanmiɛn nin e o”'n i wielɛ (Sa Nglo Yilɛ 21:3; Matie 1:23).",
+   "detail": "<p>Biblu'n wie-man asɔnun'n i blɛ'n nun. I fluwa kasiɛn'n, Sa Nglo Yilɛ'n, ɔ kle Jésus b'ɔ <b>sa i sin'n</b> yɛ ɔ wie like'n kwlaa.</p><ul><li><b>I sin balɛ'n</b> · famiɛn nga be tali i nda'n ɔ sa i sin anyrunnyan nun.</li><li><b>Kwlalɛ kasiɛn'n</b> · Satan nin wie be saci tititi, yɛ Krist sie kɛ famiɛn'm be Famiɛn (1 Korɛntfuɛ 15:25-26; Sa Nglo Yilɛ 20:10).</li><li><b>Jɔlɛ nin cɛnlɛ'n</b> · sa tɛtɛ'n kwlaa be siesie be, yɛ be nga be wuli'n be cɛn.</li><li><b>Nglo nin asiɛ uflɛ'n</b> · sa tɛ, wie, nyinmuɛn, nin ɲrɛnnɛn be wie tititi (Sa Nglo Yilɛ 21:4).</li><li><b>Edɛn b'ɔ sin siesie'n</b> · “Zerizalɛm uflɛ” b'ɔ ti kpa tra i bo bolɛ'n nun'n, Nyanmiɛn nin i nvle'n be tran tititi: lika nga Biblu'n kwlaa kɔ'n.</li></ul><p>Ɔ maan andɛ ti <b>“w'a ju, sanngɛ ɔ nin-a ju-man”</b> i blɛ: Jésus nun, delɛ'n <b>w'a ju</b>, sanngɛ i wielɛ'n <b>ɔ te o lɛ</b>.</p>",
+   "next": "Ɔ maan ndɛ nga kwlaa kle “min” like sɛ?"
+  }
+ ],
+ "love": [
+  "Ndɛ'n i bo bolɛ'n nɛ́n jɔlɛ-ɔ, sanngɛ ɔ ti mɛn b'ɔ fin klolɛ dan'n nun.",
+  "Kɛ sran yoli sa tɛ cɛ'n, Nyanmiɛn tɛli delɛ'n i nuan lɛ kpɛkuun.",
+  "Nyanmiɛn dun mmua kunndɛ sran b'ɔ fata-mɛn i'n, ɔ flɛ i dunman, yɛ ɔ fa i yo ye nyanlɛ atin.",
+  "Ɔ tili kanga'm be anuannzɛ'n yɛ ɔ bɔbɔ ɔ jra ase wa de be.",
+  "Kannzɛ be yo i atɛ kpɛ sunman'n, kɛ be kpan'n kwlaa ɔ sunman defuɛ yɛ ɔ tɛ be jran ekun.",
+  "David b'ɔ tɔli'n bɔbɔ w'a yi-mɛn i blo; ɔ fa i tali nda kɛ ɔ ´man famiɛn b'ɔ ka lɛ tititi'n.",
+  "Sran nga be kpɛ be sin be man i'n, ɔ sunman Nyanmiɛn nuan ijɔfuɛ kɛ: “sa ɔ sin, n srɛ ɔ.”",
+  "Lele kanga yialɛ'n i lika tuun'n nun bɔbɔ ɔ jra ase ɔli nin be, yɛ ɔ tali sin siesielɛ'n i nda.",
+  "Nvle b'ɔ kpɛ-mɛn i sa kpɛ sunman'n bɔbɔ, w'a yaci-mɛn i nda talɛ'n, sanngɛ ɔ jran be ekun.",
+  "Afuɛ ya nnan fɔuun blɛ'n nun bɔbɔ, ɔ siesie delɛ'n i atin fia nun.",
+  "Kɛ e te ti sa tɛ yofuɛ'n, ɔ sunman i Wa'n yɛ ɔ fɛ i nguan'n mannin.",
+  "Klolɛ nga e nyannin'n, siɛn'n ɔ sunman i man ɔ kɔ mɛn'n kwlaa nun.",
+  "I awieliɛ su'n ɔ ´nunnun nyinmuɛn'n kwlaa yɛ ɔ ´yo like'n kwlaa uflɛ klolɛ nun."
+ ],
+ "mis": [
+  {
+   "w": "«Ngue ti yɛ Nyanmiɛn yili sran b'ɔ kwla yo sa tɛ-ɔ? Sɛ ɔ́ yí-mɛn i bɔbɔ'n nɛ́n i kpa-ɔ?»",
+   "t": "Nyanmiɛn yili mɛn'n nin sran'n nɛ́n like b'ɔ mian i'n ti-ɔ, sanngɛ klolɛ dan'n ti. Sran yolɛ <b>kɛ ɔ nin Nyanmiɛn be kwla tran likawlɛ'n</b>, i sɔ'n bɔbɔ ti klolɛ. Yɛ sa tɛ'n i wlulɛ nun bɔbɔ ɔ fite-man Nyanmiɛn i delɛ akunndan'n nun (Efɛzfuɛ 1:4-5). Biblu'n i ndɛ klikli'n nɛ́n jɔlɛ-ɔ, sanngɛ ɔ ti klolɛ."
+  },
+  {
+   "w": "«Mma kunngba dilɛ ti, be fuan sran naan be man wie bɔbɔ? Nyanmiɛn i wun yo-man ya dan-ɔn?»",
+   "t": "Edɛn nun fualɛ'n ti jɔlɛ nin aunnvuɛ wie. Sɛ sran ng'ɔ nin Nyanmiɛn b'a kpɛ be afiɛn'n ɔ di nguan waka'n i mma'n naan ɔ tran nguan nun tititi'n, ɔ́ trán ɲrɛnnɛn nun tititi (Bo Bolɛ 3:22). Wie b'ɔ mannin atin'n ti sin sanginlɛ atin tikelɛ; yɛ lika kunngba sɔ'n nun Nyanmiɛn tali Defuɛ'n i nda (Bo Bolɛ 3:15). Jɔlɛ'n nun bɔbɔ klolɛ o lɛ."
+  },
+  {
+   "w": "«Be fali Abraam i lafilɛ dan'n ti; Biblu nun sran'm be kwlaa be ti-man nzuɛn kpa yofuɛ-ɔ?»",
+   "t": "Abraam buali ato yɛ ɔ buali akunndan nɲɔn, yɛ Zakɔb ti gblɛfuɛ. Nyanmiɛn flɛ-man “sran nga be fata'n”, sanngɛ i ye'n ti, ɔ flɛ sran nga be ti-man kpa'n. Ɔ kpa be ti'n nɛ́n be kpa yolɛ'n ti-ɔ, sanngɛ ɔ ti Nyanmiɛn i klolɛ b'ɔ ti nanwlɛ'n ti (Mmla'n 7:7-8)."
+  },
+  {
+   "w": "«Mmla'n (afɔtuɛ mun) nɛ́n sa nga ɔ fata kɛ a yo i kpa naan be de wɔ'n?»",
+   "t": "Nyanmiɛn deli be <b>ka naan</b> ɔ́ mán be Mmla'n. Mmla blu'n bo i bo delɛ ndɛ kanlɛ kun su: «N ti Anannganman ɔ Nyanmiɛn, min yɛ man a tuli Ezipt lɔ blɛ bɔ a tɛ o kanga nun nin-ɔn» (Ezipt Lɔ Jasolɛ 20:2). Mmla'n nɛ́n “yo i kpa naan be de wɔ”, sanngɛ ɔ ti klolɛ atin'n b'ɔ kle wafa nga be nga be ye'n ti be deli be'n bé trán'n (Mmla'n 7:7-9). Ye'n dun mmua titi; ndɛ su falɛ'n ti i sɔlɛ."
+  },
+  {
+   "w": "«Kanaan defelɛ'n ti sran kunlɛ b'ɔ ti aunnvuɛ'n; Ndɛ Laa'n nun Nyanmiɛn'n ti sran tɛ sakpa.»",
+   "t": "Ɔ ti ndɛ b'ɔ wie-man ndɛ kanlɛ kunngba nun, b'ɔ fata kɛ be nian i kpa. Sanngɛ Biblu'n kle-mɛn i kɛ klunwi yolɛ ngbɛn sa, sanngɛ ɔ ti jɔlɛ b'ɔ tɔ klunwi b'ɔ ti dan'n (kɛ ba kanngan'm be kunlɛ tɛ Nyanmiɛn'n sa) i su, kɛ ɔ trɛli i awlɛn cɛn kpanngban'n (Bo Bolɛ 15:16; Mmla'n 9:4-5; Saun yolɛ 18:24-25). Nyanmiɛn yaci-man jɔlɛ'n i ndɛndɛ, yɛ sran ng'ɔ sa i sin ba i wun'n ɔ sɔ i nun klanman, kannzɛ ɔ ti aofuɛ kɛ Raab nin Rit sa (Zozie 6:25; Rit 4:13-17)."
+  },
+  {
+   "w": "«David ti jasofuɛ b'ɔ leman ɲin keklɛ; i ti yɛ be flɛli i “sran b'ɔ Nyanmiɛn i awlɛn su.”»",
+   "t": "David yoli bla nin bian sa yɛ ɔ kunnin sran bɔbɔ. “Sran b'ɔ Nyanmiɛn i awlɛn su” i bo'n nɛ́n kɛ ɔ leman ɲin keklɛ-ɔ, sanngɛ ɔ fia-mɛn i sa tɛ'n su, ɔ kacili i nzuɛn'n i awlɛn kwlaa nun, yɛ ɔ sa i sin Nyanmiɛn wun titi (Jue Mun 51). Nyanmiɛn i klolɛ'n yi-man sran b'ɔ tɔ kekle'n bɔbɔ i blo."
+  },
+  {
+   "w": "«Nyanmiɛn nuan ijɔfuɛ'n ti sran b'ɔ kan ɲrun lɔ ninnge'n; Ndɛ Laa'n nun Nyanmiɛn'n ti ya falɛ cɛ.»",
+   "t": "Nyanmiɛn nuan ijɔfuɛ'n i ndɛ cinnjin'n nɛ́n “ɲrun lɔ ndɛ kanlɛ”'n niɔn, sanngɛ ɔ ti Nyanmiɛn i awlɛn nun kpanlɛ kɛ: “sa ɔ sin, n srɛ ɔ.” Jɔlɛ'n i afɔtuɛ'n bɔbɔ, ɔ kunndɛ-man kɛ ɔ saci sran, sanngɛ ɔ kunndɛ kɛ ɔ sa i sin naan ɔ nyan nguan: “like nga n kunndɛ'n, nɛ́n i yɛlɛ kɛ klunwifuɛ'n ɔ wu” (Ezekiɛl 33:11)."
+  },
+  {
+   "w": "«Kanga yialɛ'n kle weiin kɛ Nyanmiɛn yacili Izraɛl mlɔnmlɔn.»",
+   "t": "Kanga yialɛ'n nɛ́n yacilɛ-ɔ, sanngɛ ɔ ti Siɛ kun b'ɔ tu i wa b'ɔ klo i'n i fɔ naan ɔ saun i'n (Eblu 12:6). Nyanmiɛn w'a kɔ-man; ɔ nin Daniɛl be o kanga yialɛ'n i afiɛn nun lɛ, yɛ ɔ tali nda kɛ: “amún wun akunndan nga m bu'n, m bɔbɔ min yɛ n si i-ɔ. Akunndan kpa yɛ m bu i amun wun-ɔn” (Zeremi 29:11)."
+  },
+  null,
+  {
+   "w": "«Sɛ afuɛ ya nnan be Nyanmiɛn ijɔ-man'n, nɛ́n kɛ ɔ kɔli annzɛ ɔ lo wunmiɛn-ɔn?»",
+   "t": "Fɔuun'n nɛ́n nun-manlɛ-ɔ. Ɔ ijɔ-man cɛ-ɔ; blɛ sɔ'n kwlaa nun ɔ kpukpu famiɛn dilɛ mun, aniɛn mun, nin atin mun naan ɔ siesie delɛ'n i lika. Blɛ b'ɔ ti fɔuun kpa'n nun, Nyanmiɛn di junman klolɛ nun tra laa (Galatfuɛ 4:4)."
+  },
+  {
+   "w": "«Jésus ti nzuɛn kpa klefuɛ kpa wie ngunmin; waka'n ti kwlalɛ.»",
+   "t": "Jésus kɛnnin i kɛ ɔ ti Nyanmiɛn (Zan 8:58), yɛ waka'n nɛ́n sa b'ɔ tɔ ngbɛn annzɛ kwlalɛ-ɔ, sanngɛ ɔ ti klolɛ b'ɔ siesieli i ka'n. Be fa-mɛn i kekle, sanngɛ i klunklo su yɛ ɔ fɛ i nguan'n mannin (Zan 10:18). “Sran klolɛ ng'ɔ ti dan trɛ i ngba'n yɛlɛ sran bɔ i janvuɛ ti ɔ fɛ i wun man'n” (Zan 15:13)."
+  },
+  {
+   "w": "«Asɔnun'n ti sran nga be ti kpa mlɔnmlɔn'n be anuannzɛ, annzɛ ɔ ti sua ngunmin.»",
+   "t": "Asɔnun'n nɛ́n “sran kpa mlɔnmlɔn”' be anuannzɛ-ɔ, sanngɛ ɔ ti <b>sa tɛ yofuɛ nga be yacili be sa tɛ'n be cɛli be'n</b> be liɛ. Akoto Pɔl bɔbɔ flɛli i wun kɛ “sa tɛ yofuɛ'm be nun klikli'n” (1 Timote 1:15). Asɔnun klikli'n bɔbɔ be sili akplowa yɛ be tɔli (Sa Nga Be Yoli'n 6:1; 1 Korɛntfuɛ 1:11). Asɔnun'n nɛ́n tutulɛ lika-ɔ, sanngɛ ɔ ti sran nga be fa klolɛ nga be nyannin'n be man sran uflɛ'n (Zan 13:34-35)."
+  },
+  null
+ ],
+ "core": [
+  {
+   "title": "Sa tɛ b'ɔ fin bo bolɛ'n — sran kpa kun sa nun-man lɛ",
+   "body": "Ndɛ'n nɛ́n “sa tɛ wie mun”' niɔn, sanngɛ ɔ ti awlɛn'n i bo bo'n. Adam i blɛ'n nun lele andɛ'n, sran'm be kwlaa be wu sa tɛ'n i bo, yɛ be bɔbɔ be kwlá ju-man Nyanmiɛn wun.",
+   "vref": "Rɔmfuɛ 3:10-12, 23",
+   "vtext": "Sran kpa bɔ kun sa nun-man lɛ, ɔ lɛ-man be nun bɔ kun… Afin sran'm be kwlaa be yoli sa tɛ, ɔ man anyrunnyan nga Nyanmiɛn waan ɔ ´man be'n, ɔ to fuannin be."
+  },
+  {
+   "title": "Mmla'n kwlá de-man min",
+   "body": "Mmla'n nɛ́n waka b'ɔ fa fu nglo-ɔ, sanngɛ ɔ ti nyanmiɛn. Kɛ ɔ ´mian ɔ ɲin ɔ ´su i'n, i sin ɔ kle wafa nga a fa-mɛn i su'n. I bo bo'n yɛlɛ kɛ ɔ fa e ɔ Krist wun.",
+   "vref": "Rɔmfuɛ 3:20 · Galatfuɛ 3:24",
+   "vtext": "Mmla'n ti yɛ man be si like nga be flɛ i kɛ sa tɛ nin-ɔn… mmla'n ti kɛ sran kun b'ɔ kleli ye atin nga e fa su'n, lele Krist bali."
+  },
+  {
+   "title": "Ye'n ti — like manlɛ, nɛ́n ɲin mianlɛ",
+   "body": "Delɛ'n nɛ́n akatua nga be yiyili'n i kalɛ-ɔ, sanngɛ ɔ ti Nyanmiɛn i like manlɛ b'ɔ man sran b'ɔ fata-mɛn i'n. I sɔ'n ti, sran fi kwlá tu i wun-man.",
+   "vref": "Efɛzfuɛ 2:8-9",
+   "vtext": "Nyanmiɛn i ye b'ɔ yoli amun'n ti ɔ man amu'an nyan amún ti i su bɔ an lafi'n ti… Nán sa kpa nga an yoli'n ti-ɔ, i sɔ'n ti, sran fi kwla fa di-mɛn i nuan."
+  },
+  {
+   "title": "Lafilɛ'n ti yɛ Nyanmiɛn bu sran kpa-ɔ",
+   "body": "Nɛ́n Mmla'n i nialɛ ti-ɔ, sanngɛ Jésus-Krist su lafilɛ'n ti yɛ Nyanmiɛn bu e sran kpa-ɔ: nɛ́n e bɔbɔ e sran kpa yolɛ'n yɛ e wla-ɔ, sanngɛ ɔ liɛ'n.",
+   "vref": "Rɔmfuɛ 5:1 · Galatfuɛ 2:16",
+   "vtext": "Nyanmiɛn a bu ye sran kpa i su bɔ e lafi'n ti, ɔ man siɛn'n e Min Jésus-Krist ti e nin i e afiɛn a sɛ… Nyanmiɛn bu-man sran fi sran kpa mmla'n b'ɔ fa su'n ti, san Krist-Jésus su bɔ sran lafi'n ti."
+  },
+  {
+   "title": "Biblu'n kle Jésus",
+   "body": "Biblu'n nɛ́n sran dandan'm be ndɛ fluwa annzɛ e bɔbɔ e ukalɛ fluwa-ɔ. Bo Bolɛ lele fa ju Sa Nglo Yilɛ'n, i bue kwlaa kan sran kunngba i ndɛ: Jésus-Krist.",
+   "vref": "Zan 5:39 · Lik 24:27",
+   "vtext": "An suan Nyanmiɛn Ndɛ nga be klɛli'n… yɛ ndɛ sɔ'm be kan min ndɛ… Yɛ ɔ yiyi i bɔbɔ wun ndɛ bɔ be klɛli i Nyanmiɛn Ndɛ'n kwlaa nun'n i nun kleli be-ɔ."
+  },
+  {
+   "title": "Nyanmiɛn i sielɛ'n — Jésus i ndɛ b'ɔ ti cinnjin'n",
+   "body": "Ndɛ nga Jésus kannin i kpa'n. Nyanmiɛn i sielɛ b'ɔ sie kɛ famiɛn sa'n ɔ bali mɛn'n nun Jésus nun yɛ ɔ ´wie i sin balɛ'n nun. Waka'n nin cɛnlɛ'n ti, Jésus ti famiɛn sakpa b'ɔ kwlali sa tɛ, wie, nin Satan'n.",
+   "vref": "Mark 1:15",
+   "vtext": "Blɛ'n i nuan ɔ'a yia, yɛ Nyanmiɛn i sielɛ blɛ'n ɔ'a mantan. An `kaci amun nzuɛn'n yɛ an `lafi Nyanmiɛn i jasin fɛ'n su."
+  },
+  {
+   "title": "Jasin fɛ'n — ɔ wieli like'n kwlaa",
+   "body": "Sa tɛ kalɛ nga min bɔbɔ n kwlá tua-mɛn i'n, Jésus tuali min osu waka'n su, yɛ i cɛnlɛ'n ti ɔ kwlali wie'n. Min wla nɛ́n “yo sɔ”' su yɛ ɔ o-ɔ, sanngɛ ɔ o “i kwlaa w'a wie” su.",
+   "vref": "Zan 19:30 · Rɔmfuɛ 5:8",
+   "vtext": "I kwlaa ɔ'a wie… kɛ e ti sa tɛ yofuɛ'n, e ti ɔ man Krist wuli."
+  }
+ ]
+}

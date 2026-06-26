@@ -23,6 +23,8 @@
 | `dik` | Dinka | DEFERRED | same — prose not trustworthy (verb morphology, tone, noun-class). `deferred-drafts/dik.json` | human native review |
 | `kbp` | Kabiyè | DEFERRED | same — only moderate prose confidence (FAQ apologetics condensed). `deferred-drafts/kbp.json` | human native review |
 | `dzo` | Dzongkha | DEFERRED | drafting aborted (API error) + low-resource Tibetan-script, same prose risk as peers | human native review (incl. re-draft) |
+| `bci` | Baoulé | DEFERRED | FULL Bible exists (YV 3080 BB98) & all quotes verbatim, but ultra-low-resource (Wikipedia 0); drafting agent could not certify the prose as publication-ready. Draft: `deferred-drafts/bci.json` | human native review |
+| `ktu` | Kituba | DEFERRED | NT on YV 1491 (partial), quotes verbatim, but ultra-low-resource prose not trustworthy. Draft: `deferred-drafts/ktu.json` | human native review |
 | `ltg` | Latgalian | DEFERRED | NT verbatim/theology/structure clean, but native review found a cluster of broken/coined Latgalian in high-traffic prose (`apzimūgoj`, `Pōrūš`, `Sevtinīt`, name inconsistencies). Draft preserved: `deferred-drafts/ltg.json` | human native fixes + re-review |
 | `wuu` | Wu Chinese (Shanghainese) | HELD | 81M speakers & a historical full Bible exists, but **not on YouVersion or eBible** (name + config re-check). Bridge-from-`zh` is possible but low value (speakers read Mandarin & share the Han script) | a fetchable edition |
 | `bar` | Bavarian | HELD | not on YouVersion or eBible; bridge-from-`de` low value (speakers read German) | a fetchable edition |
