@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import { execSync } from 'node:child_process';
 import crypto from 'node:crypto';
 import { createRequire } from 'node:module';
+import { bake as subBake, generate as subGenerate, subpageUrls as subUrls } from './build-subpages.mjs';
 const require = createRequire(import.meta.url);
 
 const ORIGIN = 'https://one-scroll-bible.com';
@@ -656,15 +657,18 @@ rootHtml = rootHtml.replace(/(<meta name="twitter:image" content=")[^"]*(")/, `$
 rootHtml = rootHtml.replace(/\d+개 언어 지원/, `${LANGS.length}개 언어 지원`);
 if (rootHtml !== src) fs.writeFileSync(`${root}/index.html`, rootHtml);
 
+// ---- 하위 페이지(/about/·/maps/) 언어별 프리렌더 생성 ----
+subBake();          // ko 루트 프리렌더 + hreflang 갱신(멱등)
+subGenerate();      // 비-ko 언어 페이지 생성 → /about/<code>/·/maps/<code>/
+
 // ---- sitemap.xml ----
 const today = new Date().toISOString().slice(0,10);
 const urls = LANGS.map(L => {
   const loc = L.code==='ko' ? `${ORIGIN}/` : `${ORIGIN}/${L.code}/`;
   return `  <url><loc>${loc}</loc><lastmod>${today}</lastmod><changefreq>monthly</changefreq><priority>${L.code==='ko'?'1.0':'0.8'}</priority></url>`;
 }).join('\n');
-// 부가 페이지(언어 페이지가 아닌 정적 하위 페이지) — about · maps
-const extraPages = ['about', 'maps'];
-const extra = extraPages.map(s => `  <url><loc>${ORIGIN}/${s}/</loc><lastmod>${today}</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>`).join('\n');
+// 부가 페이지(언어 페이지가 아닌 정적 하위 페이지) — about·maps 의 모든 언어 URL
+const extra = subUrls().map(loc => `  <url><loc>${loc}</loc><lastmod>${today}</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>`).join('\n');
 fs.writeFileSync(`${root}/sitemap.xml`, `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n${extra}\n</urlset>\n`);
 
 // ---- llms.txt (LLM/AI 엔진용 사이트 요약) ----

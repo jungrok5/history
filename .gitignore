@@ -15,6 +15,11 @@
 !/about/
 !/maps/
 
+# /about/ and /maps/ are committed SOURCE (ko root + assets), but their
+# per-language sub-pages (/about/<code>/, /maps/<code>/) are generated → ignore.
+/about/*/
+/maps/*/
+
 # Generated site files (root-level)
 /sitemap.xml
 /llms.txt
