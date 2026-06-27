@@ -189,8 +189,8 @@
 
 <noscript>
   <h1>모든 민족과 방언에게 — 한눈에 보는 성경 이야기 소개 / To Every Tribe and Tongue — About Bible in One Scroll</h1>
-  <p>한눈에 보는 성경 이야기(<a href="/">one-scroll-bible.com</a>)를 200개가 넘는 언어로 옮기며 마주한 진귀한 사실들과, 복음이 모든 방언에 닿아 가는 길을 소개합니다. 화자 수 통계·번역 현황·아직 번역이 없는 언어들을 한눈에 봅니다.</p>
-  <p>This page introduces the rare facts gathered while carrying one gospel story into 200+ languages, and how the gospel reaches every tongue — translation reach, speaker statistics, and the languages still waiting. <a href="/">Read the Bible in One Scroll</a> · <a href="/maps/">Bible by Map</a>.</p>
+  <p>한눈에 보는 성경 이야기(<a href="/">one-scroll-bible.com</a>)를 <!--LC-->214<!--/LC-->개 언어로 옮기며 마주한 진귀한 사실들과, 복음이 모든 방언에 닿아 가는 길을 소개합니다. 화자 수 통계·번역 현황·아직 번역이 없는 언어들을 한눈에 봅니다.</p>
+  <p>This page introduces the rare facts gathered while carrying one gospel story into <!--LC-->214<!--/LC--> languages, and how the gospel reaches every tongue — translation reach, speaker statistics, and the languages still waiting. <a href="/">Read the Bible in One Scroll</a> · <a href="/maps/">Bible by Map</a>.</p>
 </noscript>
 
 <header class="hero"><div class="wrap">
@@ -413,9 +413,9 @@ const FACTS = [
   {tag:{ko:'문자의 모험',en:'Scripts'},h:{ko:'브라질의 독일어, 텔루구 문자의 인도 언어',en:'German in Brazil, an Indian tongue in Telugu script'},
    p:{ko:'훈스리크어(브라질에 정착한 독일어 방언), 텔루구 문자로 적히지만 표준 정서법이 아직 없는 람바디어 — 수백 개 문자와 표기 전통마다 고유한 도전이 있습니다.',
       en:'Hunsrik (a German dialect settled in Brazil), and Lambadi — written in Telugu script though it has no standardized orthography yet. Hundreds of scripts, each with its own challenge.'}},
-  {tag:{ko:'신뢰성',en:'Fidelity'},h:{ko:'197개 공식 역본, AI가 지어낸 구절 0건',en:'197 official editions, 0 AI-invented verses'},
-   p:{ko:'구절은 197개+ 공식 성경 역본에서 그대로 인용됩니다. 줄거리 산문은 사람의 검수를 거치지만, 성경 본문만은 단 한 절도 의역하거나 지어내지 않습니다.',
-      en:'Verses are quoted verbatim from 197+ official Bible editions. The storyline prose is human-reviewed, but not a single verse of Scripture is ever paraphrased or invented.'}},
+  {tag:{ko:'신뢰성',en:'Fidelity'},h:{ko:'{VER}개 공식 역본, AI가 지어낸 구절 0건',en:'{VER} official editions, 0 AI-invented verses'},
+   p:{ko:'구절은 {VER}개 공식 성경 역본에서 그대로 인용됩니다. 줄거리 산문은 사람의 검수를 거치지만, 성경 본문만은 단 한 절도 의역하거나 지어내지 않습니다.',
+      en:'Verses are quoted verbatim from {VER} official Bible editions. The storyline prose is human-reviewed, but not a single verse of Scripture is ever paraphrased or invented.'}},
   {tag:{ko:'다리를 놓다',en:'Bridges'},h:{ko:'아직 성경이 없으면, 이웃의 말씀을 빌린다',en:'No Bible yet? Borrow a neighbor’s Word'},
    p:{ko:'자기 언어 성경이 없는 일부 언어는, 줄거리는 모어로 쓰되 구절은 이웃 언어의 공식 성경에서 그대로 가져옵니다(“다리” 방식). 그 언어 사용자들이 실제로 읽는 성경이기 때문입니다.',
       en:'Some languages without their own Bible keep the storyline in the mother tongue but quote verses verbatim from a neighboring language’s official Bible (“bridge” mode) — the very Bible those readers actually use.'}},
@@ -474,10 +474,17 @@ function bindContact(){
 
 /* facts carousel */
 let fi=0, ftimer=null;
+function subTok(s){
+  if(!D||!D.totals) return String(s).replace(/\{VER\}|\{VERX\}|\{LANG\}/g,'');
+  return String(s)
+    .replace(/\{VER\}/g, nf(D.totals.distinctVersions))
+    .replace(/\{VERX\}/g, nf(D.totals.distinctVersions-5))
+    .replace(/\{LANG\}/g, nf(D.totals.languages));
+}
 function renderFact(){
   const f=FACTS[fi];
-  $('#factStage').innerHTML=`<span class="tag">${f.tag[L]}</span><h3>${f.h[L]}</h3>
-    ${f.multi?`<div class="multi">${esc(f.multi)}</div>`:''}<p>${f.p[L]}</p>`;
+  $('#factStage').innerHTML=`<span class="tag">${f.tag[L]}</span><h3>${subTok(f.h[L])}</h3>
+    ${f.multi?`<div class="multi">${esc(f.multi)}</div>`:''}<p>${subTok(f.p[L])}</p>`;
   $('#fCount').textContent=`${fi+1} / ${FACTS.length}`;
   $$('#fDots i').forEach((d,i)=>d.classList.toggle('on',i===fi));
 }
@@ -625,8 +632,8 @@ function startGlobe(){
 function renderSources(){
   const w=D.world;
   $('#sources').innerHTML=(L==='ko'
-    ?`출처 · 세계 성경 번역 통계: <a href="${w.sourceUrl}" target="_blank" rel="noopener">${w.source}</a> (${w.asOf}). 언어별 화자 수: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. 성경 본문: 각 언어의 공식 역본(개역개정·ESV·和合本·시노드역·Van Dyck 외 197종).`
-    :`Sources · World Bible-translation figures: <a href="${w.sourceUrl}" target="_blank" rel="noopener">${w.source}</a> (${w.asOf}). Speaker populations: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. Biblical text: each language’s official edition (개역개정, ESV, 和合本, Synodal, Van Dyck, and 197 others).`);
+    ?`출처 · 세계 성경 번역 통계: <a href="${w.sourceUrl}" target="_blank" rel="noopener">${w.source}</a> (${w.asOf}). 언어별 화자 수: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. 성경 본문: 각 언어의 공식 역본(개역개정·ESV·和合本·시노드역·Van Dyck 외 ${nf(D.totals.distinctVersions-5)}종).`
+    :`Sources · World Bible-translation figures: <a href="${w.sourceUrl}" target="_blank" rel="noopener">${w.source}</a> (${w.asOf}). Speaker populations: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. Biblical text: each language’s official edition (개역개정, ESV, 和合本, Synodal, Van Dyck, and ${nf(D.totals.distinctVersions-5)} others).`);
 }
 function renderAll(){ applyText(); renderReach(); renderTask(); renderVerses(); renderGlobe(); renderRegions(); renderMap(); renderSources(); renderFact(); }
 

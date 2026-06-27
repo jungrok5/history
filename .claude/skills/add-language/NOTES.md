@@ -116,3 +116,15 @@ John 3:18 · Gal 2:16. Mark a mid-sentence skip with `…`.
 **Tool idempotency**: integrate is non-idempotent (aborts if already integrated) → re-edits go directly into
 the pack's `books`/`yv`/`bookopt` (verse data) and index.html `LANGS`, then build-pages. OG/sitemap show no
 git change when bytes are identical (normal). Editing index.html inline JS re-derives all sub-pages (normal; gitignored anyway).
+
+**/about/ counts auto-update from about/data.json**: the /about/ page's language count (#s_langs),
+"N개 공식 역본 / N official editions" fidelity fact, "Van Dyck 외 N종 / and N others" sources line, and the
+`<noscript>` language count are all derived — no hardcoded numbers. They read `about/data.json`
+`totals` (`languages` = total langs, `distinctVersions` = distinct Bible editions; fewer than langs because
+bridge-mode langs share a neighbor's edition). So after adding/removing a language **regenerate the snapshot**:
+`JP_API_KEY=… node tools/build-about.mjs` (keyless works too — `totals` are reproducible from the committed
+jp-cache; only the network-fetched `showcase` verse sample varies, so don't wire build-about into the deploy
+build). Runtime numbers come from `{VER}`/`{VERX}`/`{LANG}` tokens (about/index.html `subTok`, from `D.totals`)
++ build-time comment markers `<!--LC-->N<!--/LC-->` (languages) / `<!--VC-->N<!--/VC-->` (editions) in the
+`<noscript>`, updated in place by build-subpages `replaceTokens` (idempotent — markers persist across rebuilds,
+unlike a one-shot `{{token}}`).

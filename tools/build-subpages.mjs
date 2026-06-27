@@ -67,6 +67,24 @@ function makeGet(slug, lang, T) {
     : (T[k] && T[k].en != null ? T[k].en : null)); // fall back to en for any missing key
 }
 
+// Build-time counts from a page's data.json totals (auto-updating, idempotent).
+// Numbers live inside comment markers so they persist across rebuilds and update
+// in place: <!--LC-->214<!--/LC--> = total languages, <!--VC-->197<!--/VC--> = editions.
+function pageTotals(slug) {
+  const f = p(slug, 'data.json');
+  if (!fs.existsSync(f)) return null;
+  try { return (JSON.parse(fs.readFileSync(f, 'utf8')).totals) || null; } catch { return null; }
+}
+function replaceTokens(html, totals) {
+  if (!totals) return html;
+  let h = html;
+  if (totals.languages != null)
+    h = h.replace(/<!--LC-->[\s\S]*?<!--\/LC-->/g, `<!--LC-->${totals.languages}<!--/LC-->`);
+  if (totals.distinctVersions != null)
+    h = h.replace(/<!--VC-->[\s\S]*?<!--\/VC-->/g, `<!--VC-->${totals.distinctVersions}<!--/VC-->`);
+  return h;
+}
+
 // Fill every <tag data-t="key">…</tag> with the language's string.
 function prerenderBody(html, get) {
   return html.replace(/(<(\w+)\b[^>]*\bdata-t="([^"]+)"[^>]*>)([\s\S]*?)(<\/\2>)/g,
@@ -129,6 +147,7 @@ export function bake() {
     const langs = langsFor(page.slug);
     const get = makeGet(page.slug, 'ko', T);
     let h = prerenderBody(tpl, get);
+    h = replaceTokens(h, pageTotals(page.slug));
     h = h.replace(/[ \t]*<link rel="alternate" hreflang="[^"]*" href="[^"]*" \/>\n?/g, '');
     h = h.replace(/(<link rel="canonical" href="[^"]*" \/>\n)/, `$1${hreflangBlock(page.slug, langs)}\n`);
     fs.writeFileSync(tplPath, h);
@@ -143,10 +162,12 @@ export function generate() {
     const tpl = fs.readFileSync(p(page.file), 'utf8');
     const T = parseT(tpl);
     const langs = langsFor(page.slug);
+    const totals = pageTotals(page.slug);
     for (const lang of langs) {
       if (lang === 'ko') continue;
       const get = makeGet(page.slug, lang, T);
       let h = prerenderBody(tpl, get);
+      h = replaceTokens(h, totals);
       h = setLangAttrs(h, lang);
       h = bakeHead(h, page, lang, langs, get);
       h = pinLang(h, lang);
