@@ -1,0 +1,635 @@
+{
+ "menuName": "Tiếng Việt",
+ "htmlLang": "vi",
+ "dir": "ltr",
+ "locale": "vi",
+ "brand": "Kinh Thánh Trong Một Cuộn",
+ "docTitle": "Kinh Thánh qua Bản Đồ · Kinh Thánh Trong Một Cuộn",
+ "metaDesc": "Lần theo dòng thời gian Cựu Ước, cuộc đời Chúa Giê-xu và các hành trình của Phao-lô trên bản đồ thật — Kinh Thánh đã xảy ra tại những nơi có thật.",
+ "s": {
+  "kicker": "Kinh Thánh Trong Một Cuộn · Bản Đồ",
+  "title": "Kinh Thánh qua Bản Đồ",
+  "verse": "“For we did not follow cleverly devised myths …” (2 Peter 1:16)",
+  "purpose": "Kinh Thánh không phải là chuyện thần thoại. Đó là câu chuyện về những con người có thật bước đi qua những nơi có thật. Hãy lần theo các lối đi ấy trên một bản đồ thật, theo thứ tự thời gian — chạm vào một điểm, hoặc nhấn ▶ để bước qua từng bước một.",
+  "ot_kick": "① Cựu Ước — xuyên suốt thời gian",
+  "ot_h": "Từ buổi sáng thế đến ngày trở về Giê-ru-sa-lem",
+  "ot_lead": "Không phải một chuyến đi đơn lẻ mà là dòng chảy của lịch sử cứu chuộc từ buổi sáng thế trở đi: sáng thế và sa ngã → đại hồng thủy và Ba-bên → sự kêu gọi (Áp-ra-ham) → đất hứa → cuộc Xuất Ê-díp-tô → đồng vắng → cuộc chinh phục → vương quốc → chia rẽ → lưu đày → hồi hương.",
+  "je_kick": "② Tân Ước — cuộc đời Chúa Giê-xu",
+  "je_h": "Từ Bết-lê-hem đến Giê-ru-sa-lem",
+  "je_lead": "Hãy theo dõi cuộc đời Chúa Giê-xu như các sách Phúc Âm thuật lại, theo thứ tự — từ khi Ngài sinh ra tại Bết-lê-hem, qua phép báp-têm và chức vụ ở Ga-li-lê, băng qua Sa-ma-ri, đến thập tự giá, sự phục sinh và sự thăng thiên tại Giê-ru-sa-lem.",
+  "pa_kick": "③ Tân Ước — các hành trình của Phao-lô",
+  "pa_h": "Từ An-ti-ốt đến tận cùng trái đất — La-mã",
+  "pa_lead": "Từ Lễ Ngũ Tuần tại Giê-ru-sa-lem, Phúc Âm đã lan ra ngoài xứ Giu-đê như thế nào — qua Tiểu Á và châu Âu đến trung tâm của đế quốc. Hãy chọn một trong năm hành trình (lần 1·2·3 + chuyến đi đến La-mã + sau khi được thả) và theo dõi các sự kiện trong sách Công Vụ cùng những lá thư được viết dọc đường.",
+  "foot": "Nguồn · Các địa danh theo bản văn Kinh Thánh và địa lý Kinh Thánh tiêu chuẩn (kèm tên hiện đại khi hữu ích). Bờ biển, sông và hồ được vẽ từ dữ liệu địa lý mở (Natural Earth), đã đơn giản hóa.",
+  "contact": "Câu hỏi · góp ý — <a id=\"contact\" class=\"mail\">Gửi email cho chúng tôi</a>",
+  "play": "Phát",
+  "pause": "Tạm dừng",
+  "today": "Ngày nay:"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Ê-đen (Sáng thế · Sa ngã)",
+    "book": "Sáng-thế Ký 1–3",
+    "today": "vùng Ti-gơ-rơ–Ơ-phơ-rát ngày nay",
+    "note": "Vào một thế giới được dựng nên rất tốt lành, tội lỗi xâm nhập và cắt đứt mối liên hệ giữa Đức Chúa Trời và loài người.",
+    "events": [
+     "Sự sáng thế trong sáu ngày — “thật rất tốt lành”",
+     "Loài người được dựng nên theo hình ảnh Đức Chúa Trời",
+     "Sự sa ngã, và bị đuổi khỏi Ê-đen",
+     "Lời hứa Phúc Âm đầu tiên — “dòng dõi của người nữ sẽ giày đạp đầu con rắn”"
+    ]
+   },
+   "noah": {
+    "name": "A-ra-rát (Đại hồng thủy)",
+    "book": "Sáng-thế Ký 6–9",
+    "today": "núi A-ra-rát, miền đông Thổ Nhĩ Kỳ ngày nay",
+    "note": "Đức Chúa Trời đoán phạt một thế giới đầy tội lỗi, nhưng vẫn bảo tồn sự sống qua một gia đình.",
+    "events": [
+     "Một thế giới đầy dẫy sự bại hoại",
+     "Cơn đại hồng thủy, và chiếc tàu của Nô-ê",
+     "Giao ước cầu vồng — “chẳng còn nước lụt để hủy diệt nữa”"
+    ]
+   },
+   "babel": {
+    "name": "Tháp Ba-bên",
+    "book": "Sáng-thế Ký 11",
+    "today": "I-rắc ngày nay (đồng bằng Si-nê-a)",
+    "note": "Trước sự kiêu ngạo muốn vươn tới trời, Đức Chúa Trời làm lộn xộn tiếng nói của họ và làm tan lạc các dân trên đất.",
+    "events": [
+     "“Hãy xây một thành và một cái tháp… để làm rạng danh chúng ta”",
+     "Đức Chúa Trời làm lộn xộn tiếng nói của họ",
+     "Các dân tan lạc khắp đất (Si-nê-a — về sau là Ba-by-lôn)"
+    ]
+   },
+   "ur": {
+    "name": "U-rơ",
+    "book": "Sáng-thế Ký 12",
+    "today": "miền nam I-rắc ngày nay",
+    "note": "Câu chuyện cứu chuộc của Kinh Thánh khởi đầu bằng sự kêu gọi một người.",
+    "events": [
+     "Đức Chúa Trời kêu gọi Áp-ram ra khỏi U-rơ của người Canh-đê",
+     "“Ta sẽ làm cho ngươi nên một dân lớn… nhờ ngươi mà muôn dân được phước”",
+     "Bởi đức tin, ông rời quê hương"
+    ]
+   },
+   "haran": {
+    "name": "Cha-ran",
+    "book": "Sáng-thế Ký 12",
+    "today": "miền nam Thổ Nhĩ Kỳ ngày nay",
+    "note": "Trên đường đi, đáp lại sự kêu gọi hướng về đất hứa.",
+    "events": [
+     "Gia đình Tha-rê định cư tại Cha-ran",
+     "Tha-rê qua đời",
+     "Áp-ram lên đường đến Ca-na-an lúc 75 tuổi"
+    ]
+   },
+   "shechem": {
+    "name": "Si-chem · Ca-na-an",
+    "book": "Sáng-thế Ký 12–50",
+    "today": "Nablus ngày nay",
+    "note": "Trong đất hứa, một gia đình được lập nên và giao ước được truyền qua các thế hệ.",
+    "events": [
+     "Vào Ca-na-an, lập bàn thờ đầu tiên — “ta sẽ ban đất này cho dòng dõi ngươi”",
+     "Giao ước (Sáng 15) · Y-sác · Gia-cốp",
+     "Mười hai con trai Gia-cốp — cội nguồn của mười hai chi phái"
+    ]
+   },
+   "egypt": {
+    "name": "Ê-díp-tô (Gô-sen)",
+    "book": "Sáng-thế Ký 37–50 · Xuất Ê-díp-tô Ký 1",
+    "today": "vùng châu thổ sông Nin, Ê-díp-tô ngày nay",
+    "note": "Một gia đình trở nên một dân lớn — rồi thành một dân nô lệ.",
+    "events": [
+     "Giô-sép, bị bán đi, trở nên người cai trị Ê-díp-tô",
+     "Cả gia đình Gia-cốp xuống đó để tránh nạn đói",
+     "Dân Y-sơ-ra-ên ngày càng đông bị bắt làm nô lệ"
+    ]
+   },
+   "sinai": {
+    "name": "Núi Si-na-i",
+    "book": "Xuất Ê-díp-tô Ký · Lê-vi Ký",
+    "today": "bán đảo Si-na-i ngày nay",
+    "note": "Sự giải cứu trọng tâm của Cựu Ước — những nô lệ trở nên dân riêng của Đức Chúa Trời.",
+    "events": [
+     "Mười tai vạ và chiên con Lễ Vượt Qua",
+     "Biển Đỏ rẽ ra và họ băng qua",
+     "Mười Điều Răn, luật pháp, đền tạm và của lễ"
+    ]
+   },
+   "kadesh": {
+    "name": "Ca-đe (đồng vắng)",
+    "book": "Dân-số Ký · Phục-truyền Luật-lệ Ký",
+    "today": "đồng vắng Si-na-i–Nê-ghép ngày nay",
+    "note": "Sự chẳng tin khiến cả một thế hệ mất đất — nhưng Đức Chúa Trời vẫn ở cùng họ.",
+    "events": [
+     "Mười hai thám tử — nhưng dân sự không chịu tin cậy",
+     "38 năm trong đồng vắng — ma-na, trụ mây và trụ lửa",
+     "Tại đồng bằng Mô-áp, bài giảng cuối của Môi-se (Phục-truyền)"
+    ]
+   },
+   "jericho": {
+    "name": "Giê-ri-cô",
+    "book": "Giô-suê",
+    "today": "Giê-ri-cô ngày nay",
+    "note": "Cuối cùng họ vào và chiếm lấy đất hứa.",
+    "events": [
+     "Sông Giô-đanh rẽ ra và dân sự băng qua",
+     "Tường thành Giê-ri-cô sụp đổ",
+     "Chinh phục Ca-na-an và phân chia đất"
+    ]
+   },
+   "shiloh": {
+    "name": "Si-lô (Các Quan Xét)",
+    "book": "Các Quan Xét · Ru-tơ",
+    "today": "Khirbet Seilun ngày nay",
+    "note": "Khi không có vua, ai nấy làm theo ý mình — cần có một vị vua thật.",
+    "events": [
+     "Đền tạm được dựng tại Si-lô",
+     "Vòng lặp tội lỗi–áp bức–giải cứu (Đê-bô-ra, Ghê-đê-ôn, Sam-sôn)",
+     "Ru-tơ — sự trung tín trong những ngày tăm tối, thuộc dòng dõi Đa-vít"
+    ]
+   },
+   "jerusalem": {
+    "name": "Giê-ru-sa-lem · Vương Quốc Thống Nhất",
+    "book": "1–2 Sa-mu-ên · 1 Các Vua",
+    "today": "Giê-ru-sa-lem ngày nay",
+    "note": "Thời hoàng kim của Y-sơ-ra-ên — và lời hứa về một vị vua đời đời.",
+    "events": [
+     "Sau-lơ vị vua đầu tiên, rồi Đa-vít và Gô-li-át",
+     "Giao ước Đa-vít — “ngôi nước ngươi sẽ vững bền đời đời” (2 Sa 7)",
+     "Sa-lô-môn xây đền thờ tại Giê-ru-sa-lem"
+    ]
+   },
+   "samaria": {
+    "name": "Sa-ma-ri · Vương Quốc Phân Chia",
+    "book": "Các Vua · các Tiên Tri",
+    "today": "Sebastia ngày nay",
+    "note": "Vương quốc chia đôi và suy tàn khi các tiên tri kêu gọi.",
+    "events": [
+     "Sau Sa-lô-môn, chia thành Giu-đa và Y-sơ-ra-ên",
+     "Sự thờ hình tượng lặp đi lặp lại",
+     "Ê-li, Ê-sai, Giê-rê-mi kêu gọi ‘hãy trở lại’ — và báo trước Đấng Mê-si"
+    ]
+   },
+   "nineveh": {
+    "name": "Ni-ni-ve (A-si-ri)",
+    "book": "2 Các Vua 17 · Giô-na",
+    "today": "Mosul, I-rắc ngày nay",
+    "note": "Bỏ qua mọi lời cảnh cáo, vương quốc phía bắc sụp đổ trước.",
+    "events": [
+     "Ni-ni-ve, thủ đô của A-si-ri",
+     "Vương quốc phía bắc sụp đổ trước A-si-ri (722 TCN)",
+     "Giô-na được sai đến Ni-ni-ve"
+    ]
+   },
+   "babylon": {
+    "name": "Ba-by-lôn",
+    "book": "2 Các Vua 25 · Đa-ni-ên · Ê-xê-chi-ên",
+    "today": "Hillah, I-rắc ngày nay",
+    "note": "Đêm tối tăm nhất — nhưng lời hứa phục hồi vẫn còn.",
+    "events": [
+     "Giê-ru-sa-lem sụp đổ, đền thờ bị thiêu đốt (586 TCN)",
+     "Giu-đa bị bắt lưu đày sang Ba-by-lôn",
+     "Đa-ni-ên và Ê-xê-chi-ên — đức tin và khải tượng giữa cảnh lưu đày"
+    ]
+   },
+   "susa": {
+    "name": "Su-sơ (Ba-tư)",
+    "book": "Ê-xơ-tê · Nê-hê-mi",
+    "today": "Shush, I-ran ngày nay",
+    "note": "Ngay giữa lòng một đế quốc ngoại bang, Đức Chúa Trời vẫn gìn giữ dân Ngài.",
+    "events": [
+     "Ba-tư lật đổ Ba-by-lôn",
+     "Ê-xơ-tê cứu dân Do Thái khỏi bị tận diệt",
+     "Nê-hê-mi cầu nguyện trước vua và được sai đi"
+    ]
+   },
+   "return": {
+    "name": "Hồi hương Giê-ru-sa-lem",
+    "book": "E-xơ-ra · Nê-hê-mi · Ma-la-chi",
+    "today": "Giê-ru-sa-lem ngày nay",
+    "note": "Họ trở về và xây dựng lại — nhưng chưa có vua nào đến. Họ trông đợi Đấng Mê-si.",
+    "events": [
+     "Ba đợt hồi hương theo chiếu chỉ của Si-ru (Xô-rô-ba-bên 538 · E-xơ-ra 458 · Nê-hê-mi 444)",
+     "Đền thờ được xây lại và tường thành Giê-ru-sa-lem được phục hồi",
+     "Ma-la-chi — Cựu Ước khép lại: “ta sẽ sai sứ giả ta đến”"
+    ]
+   }
+  },
+  "labels": [
+   "Biển Địa Trung Hải",
+   "Mê-sô-pô-ta-mi",
+   "Sa mạc Ả Rập",
+   "Ê-díp-tô"
+  ],
+  "journeys": {
+   "flow": "Câu chuyện cứu chuộc"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bết-lê-hem",
+    "book": "Ma-thi-ơ 1–2 · Lu-ca 2",
+    "today": "Bết-lê-hem ngày nay",
+    "note": "Đấng Mê-si đã hứa đến thành của Đa-vít — Ngôi Lời trở nên xác thịt.",
+    "events": [
+     "Sinh ra tại Bết-lê-hem, thành của Đa-vít",
+     "Thiên sứ báo tin cho những người chăn chiên",
+     "Các nhà thông thái đến thờ lạy"
+    ]
+   },
+   "nazareth": {
+    "name": "Na-xa-rét",
+    "book": "Lu-ca 2 · 4",
+    "today": "Na-xa-rét ngày nay",
+    "note": "Đức Chúa Trời lớn lên làm người trong một thị trấn bình thường.",
+    "events": [
+     "Lớn lên trong gia đình một người thợ mộc",
+     "Lúc mười hai tuổi, hỏi và đáp trong đền thờ",
+     "Về sau bị chối bỏ tại nhà hội quê hương mình"
+    ]
+   },
+   "jordan": {
+    "name": "Sông Giô-đanh",
+    "book": "Ma-thi-ơ 3–4",
+    "today": "hạ lưu sông Giô-đanh ngày nay",
+    "note": "Chức vụ công khai của Ngài bắt đầu — trời ấn chứng Ngài là Con.",
+    "events": [
+     "Chịu báp-têm bởi Giăng",
+     "Thánh Linh giáng xuống như chim bồ câu — “Đây là Con yêu dấu của ta”",
+     "Thắng ba cám dỗ của Sa-tan trong đồng vắng"
+    ]
+   },
+   "cana": {
+    "name": "Ca-na",
+    "book": "Giăng 2",
+    "today": "Kafr Kanna ngày nay",
+    "note": "Trong dấu lạ đầu tiên Ngài bày tỏ vinh quang mình.",
+    "events": [
+     "Làm khách dự một tiệc cưới",
+     "Hóa nước thành rượu — dấu lạ đầu tiên của Ngài",
+     "Các môn đồ tin Ngài"
+    ]
+   },
+   "sychar": {
+    "name": "Si-kha (Sa-ma-ri)",
+    "book": "Giăng 2–4",
+    "today": "gần Nablus ngày nay",
+    "note": "Con đường chức vụ ban đầu — qua Giê-ru-sa-lem rồi đến xứ Sa-ma-ri bị khinh dể.",
+    "events": [
+     "Ngài thanh tẩy đền thờ tại Giê-ru-sa-lem",
+     "Ban đêm, Ni-cô-đem — “ngươi phải được sinh lại”",
+     "Nước sống cho một phụ nữ Sa-ma-ri"
+    ]
+   },
+   "capernaum": {
+    "name": "Ca-bê-na-um",
+    "book": "Ma-thi-ơ 4–13 · Mác 1–4",
+    "today": "bờ hồ Ga-li-lê ngày nay",
+    "note": "Căn cứ của chức vụ tại Ga-li-lê — sự kêu gọi, giảng dạy và chống đối đều gặp nhau tại đây.",
+    "events": [
+     "Gọi các người đánh cá và lập căn cứ tại đây",
+     "Bài Giảng Trên Núi — “Phước cho những kẻ có lòng khó khăn”",
+     "Các thí dụ về nước trời — và sự chống đối dấy lên"
+    ]
+   },
+   "galilee": {
+    "name": "Biển Ga-li-lê",
+    "book": "Mác 4 · 6 · Giăng 6",
+    "today": "hồ Kinneret ngày nay",
+    "note": "Với quyền năng trên thiên nhiên, Ngài tỏ mình là ai.",
+    "events": [
+     "“Hãy êm đi, lặng đi” — Ngài dẹp yên cơn bão",
+     "Cho 5.000 người ăn với năm cái bánh và hai con cá",
+     "Đi bộ trên mặt nước"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sê-sa-rê Phi-líp",
+    "book": "Ma-thi-ơ 16–17",
+    "today": "Banias ngày nay",
+    "note": "Các môn đồ nhận biết Ngài là Đấng Christ, và con đường thập tự giá mở ra.",
+    "events": [
+     "Lời xưng nhận của Phi-e-rơ — “Thầy là Đấng Christ, Con Đức Chúa Trời hằng sống”",
+     "Lần đầu Ngài báo trước sự chết và sự sống lại của mình",
+     "Hóa hình trong vinh quang trên núi"
+    ]
+   },
+   "jericho": {
+    "name": "Giê-ri-cô",
+    "book": "Lu-ca 18–19",
+    "today": "Giê-ri-cô ngày nay",
+    "note": "Trên đường lên Giê-ru-sa-lem, Ngài tìm kiếm kẻ bị mất.",
+    "events": [
+     "Ngài làm cho người mù Ba-ti-mê được sáng mắt",
+     "Ngài gọi Xa-chê người thu thuế",
+     "“Con Người đã đến để tìm và cứu kẻ bị mất”"
+    ]
+   },
+   "bethany": {
+    "name": "Bê-tha-ni",
+    "book": "Giăng 11–12",
+    "today": "al-Eizariya ngày nay",
+    "note": "Ngài tỏ quyền trên sự chết trước thềm tuần lễ cuối cùng.",
+    "events": [
+     "Ngài kêu La-xa-rơ ra khỏi mộ — “ta là sự sống lại và sự sống”",
+     "Ma-ri xức dầu cho Ngài để chuẩn bị an táng",
+     "Dấu lạ này khiến âm mưu giết Ngài thêm cứng cỏi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Giê-ru-sa-lem",
+    "book": "Ma-thi-ơ 21–28 · Lu-ca 24 · Công Vụ 1",
+    "today": "Giê-ru-sa-lem ngày nay",
+    "note": "Đỉnh điểm mà cả Kinh Thánh hướng tới — thập tự giá, phục sinh, thăng thiên.",
+    "events": [
+     "Vào thành cách khải hoàn; Ngài lại lật đổ bàn trong đền thờ",
+     "Trong Tiệc Thánh cuối cùng Ngài rửa chân cho các môn đồ",
+     "Ngài chết trên thập tự giá",
+     "Sống lại vào ngày thứ ba, rồi thăng thiên"
+    ]
+   }
+  },
+  "labels": [
+   "Biển Địa Trung Hải",
+   "Ga-li-lê",
+   "Sa-ma-ri",
+   "Giu-đê",
+   "Đê-ca-bô-lơ",
+   "Bê-rê",
+   "Biển Chết"
+  ],
+  "journeys": {
+   "life": "Con đường của Chúa Giê-xu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "An-ti-ốt",
+    "book": "Công Vụ 13 · 15",
+    "today": "Antakya, Thổ Nhĩ Kỳ ngày nay",
+    "note": "Hội thánh sai phái, nơi công cuộc truyền giáo cho dân ngoại bắt đầu và quay về.",
+    "events": [
+     "Trong khi cầu nguyện, Thánh Linh biệt riêng Ba-na-ba và Sau-lơ",
+     "Hội thánh nơi các tín hữu đầu tiên được gọi là ‘Cơ-đốc-nhân’",
+     "Điểm khởi hành của các hành trình lần 1, lần 2 và lần 3"
+    ]
+   },
+   "seleucia": {
+    "name": "Sê-lơ-xi",
+    "book": "Công Vụ 13:4",
+    "today": "Thổ Nhĩ Kỳ ngày nay",
+    "note": "Cảng của An-ti-ốt — họ giương buồm đi đảo Chíp-rơ.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Sa-la-min (Chíp-rơ)",
+    "book": "Công Vụ 13:5",
+    "today": "Síp ngày nay",
+    "note": "Chặng dừng đầu tiên trên đảo Chíp-rơ — giảng đạo trong các nhà hội.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Ba-phô",
+    "book": "Công Vụ 13:6-12",
+    "today": "Síp ngày nay",
+    "note": "Quyền năng được tỏ ra trước những kẻ chống đối Phúc Âm.",
+    "events": [
+     "Thuật sĩ Ê-ly-ma bị mù mắt",
+     "Quan trấn thủ Sê-giút Phau-lút tin theo",
+     "Từ đây ‘Phao-lô’ đứng đầu dẫn dắt"
+    ]
+   },
+   "perga": {
+    "name": "Bẹt-giê",
+    "book": "Công Vụ 13:13",
+    "today": "Antalya, Thổ Nhĩ Kỳ ngày nay",
+    "note": "Một cảng ở xứ Bam-phi-ly — tại đây Giăng Mác quay về.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "An-ti-ốt xứ Bi-si-đi",
+    "book": "Công Vụ 13:14-50",
+    "today": "Yalvaç, Thổ Nhĩ Kỳ ngày nay",
+    "note": "Phúc Âm mở ra hướng về dân ngoại.",
+    "events": [
+     "Một bài giảng dài về lịch sử cứu rỗi trong nhà hội",
+     "Nhiều người ngoại vui mừng và tiếp nhận lời",
+     "Bị đuổi đi vì sự chống đối"
+    ]
+   },
+   "iconium": {
+    "name": "Y-cô-ni",
+    "book": "Công Vụ 14:1-7",
+    "today": "Konya, Thổ Nhĩ Kỳ ngày nay",
+    "note": "Nhiều người tin, nhưng sự bắt bớ buộc họ phải đi tiếp.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lít-trơ",
+    "book": "Công Vụ 14:8-20",
+    "today": "Thổ Nhĩ Kỳ ngày nay",
+    "note": "Được tôn làm thần, rồi bị ném đá.",
+    "events": [
+     "Chữa lành một người què từ lúc mới sinh",
+     "Đám đông toan dâng tế lễ cho họ như cho các thần",
+     "Bị ném đá và bỏ tưởng đã chết, ông đứng dậy"
+    ]
+   },
+   "derbe": {
+    "name": "Đẹt-bơ",
+    "book": "Công Vụ 14:20-21",
+    "today": "Thổ Nhĩ Kỳ ngày nay",
+    "note": "Nhiều môn đồ được lập nên; họ trở lại lối cũ để làm vững các hội thánh.",
+    "events": []
+   },
+   "troas": {
+    "name": "Trô-ách",
+    "book": "Công Vụ 16:8-10",
+    "today": "Thổ Nhĩ Kỳ ngày nay",
+    "note": "Bước ngoặt nơi Phúc Âm lần đầu hướng về châu Âu.",
+    "events": [
+     "Một khải tượng về một người Ma-xê-đoan",
+     "“Hãy qua giúp chúng tôi”",
+     "Họ liền vượt biển sang châu Âu"
+    ]
+   },
+   "philippi": {
+    "name": "Phi-líp",
+    "book": "Công Vụ 16 · Phi-líp",
+    "today": "miền bắc Hy Lạp ngày nay",
+    "note": "Hội thánh đầu tiên của châu Âu — Phúc Âm đắc thắng ngay cả trong tù.",
+    "events": [
+     "Ly-đi, người buôn vải tía, tin theo",
+     "Một tớ gái bói toán được giải cứu",
+     "Hát thánh ca lúc nửa đêm, một trận động đất, cả nhà người đề lao được cứu"
+    ]
+   },
+   "thess": {
+    "name": "Tê-sa-lô-ni-ca",
+    "book": "Công Vụ 17 · 1–2 Tê-sa-lô-ni-ca",
+    "today": "Thessaloniki, Hy Lạp ngày nay",
+    "note": "Lời Chúa làm rúng động thành phố và sự chống đối bùng lên.",
+    "events": [
+     "Biện luận trong nhà hội suốt ba ngày Sa-bát",
+     "“Những kẻ làm loạn cả thiên hạ”",
+     "Họ lén ra đi trong đêm"
+    ]
+   },
+   "berea": {
+    "name": "Bê-rê",
+    "book": "Công Vụ 17:10-15",
+    "today": "Veria, Hy Lạp ngày nay",
+    "note": "Những người ‘cao thượng’ tự mình tra xét lời Chúa.",
+    "events": [
+     "Họ sốt sắng tiếp nhận lời",
+     "Hằng ngày tra xem Kinh Thánh để kiểm chứng",
+     "Nhiều người đến tin"
+    ]
+   },
+   "athens": {
+    "name": "A-thên",
+    "book": "Công Vụ 17:16-34",
+    "today": "Athens, Hy Lạp ngày nay",
+    "note": "Trong thành của các triết gia, ông rao giảng ‘vị thần không biết’.",
+    "events": [
+     "Tức giận vì cả thành đầy hình tượng",
+     "Tại A-rê-ô-ba ông giảng về Đấng Tạo Hóa và sự sống lại",
+     "Bị chế nhạo, nhưng vài người tin theo"
+    ]
+   },
+   "corinth": {
+    "name": "Cô-rinh-tô",
+    "book": "Công Vụ 18 · 1–2 Cô-rinh-tô",
+    "today": "Hy Lạp ngày nay",
+    "note": "Ông ở lại một năm rưỡi, lập một hội thánh trong thành đầy tội lỗi.",
+    "events": [
+     "Làm trại với A-qui-la và Bê-rít-sin",
+     "“Đừng sợ… vì ta ở cùng ngươi”",
+     "Nhiều người Cô-rinh-tô tin và chịu báp-têm"
+    ]
+   },
+   "ephesus": {
+    "name": "Ê-phê-sô",
+    "book": "Công Vụ 19 · Ê-phê-sô",
+    "today": "Selçuk, Thổ Nhĩ Kỳ ngày nay",
+    "note": "Trọng tâm của hành trình lần thứ ba — lời Chúa lan khắp xứ A-si.",
+    "events": [
+     "Giảng dạy hằng ngày trong hai năm tại trường học Ti-ra-nu",
+     "Sách phù phép bị thiêu đốt; những việc quyền năng",
+     "Thợ bạc Đê-mê-triu khởi xướng một cuộc bạo loạn"
+    ]
+   },
+   "miletus": {
+    "name": "Mi-lê",
+    "book": "Công Vụ 20:17-38",
+    "today": "Thổ Nhĩ Kỳ ngày nay",
+    "note": "Một lời từ biệt đẫm lệ với các trưởng lão Ê-phê-sô.",
+    "events": [
+     "“Hãy chăm sóc hội thánh mà Ngài đã mua bằng chính huyết mình”",
+     "Các trưởng lão khóc, biết sẽ chẳng còn gặp lại ông"
+    ]
+   },
+   "caesarea": {
+    "name": "Sê-sa-rê",
+    "book": "Công Vụ 23–26",
+    "today": "bờ biển Y-sơ-ra-ên ngày nay",
+    "note": "Trong hai năm ông biện hộ cho Phúc Âm trước các quan tổng đốc và một vị vua.",
+    "events": [
+     "Bị xét xử trước các tổng đốc Phê-lít và Phê-tu",
+     "Lời biện hộ trước vua Ạc-ríp-ba",
+     "“Tôi kêu nài đến Sê-sa” — lên đường đi La-mã"
+    ]
+   },
+   "jerusalem": {
+    "name": "Giê-ru-sa-lem",
+    "book": "Công Vụ 21–23",
+    "today": "Giê-ru-sa-lem ngày nay",
+    "note": "Bị bắt trong đền thờ, con đường làm tù nhân của ông bắt đầu.",
+    "events": [
+     "Bị đám đông bắt giữ trong đền thờ",
+     "Tự biện hộ trước tòa công luận",
+     "Là công dân La-mã, được áp giải đến Sê-sa-rê"
+    ]
+   },
+   "myra": {
+    "name": "Mi-ra",
+    "book": "Công Vụ 27:5-6",
+    "today": "Demre, Thổ Nhĩ Kỳ ngày nay",
+    "note": "Họ chuyển sang một chiếc tàu thành A-léc-xan-tri đi La-mã.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Mỹ Cảng (Cơ-rết)",
+    "book": "Công Vụ 27:8-12",
+    "today": "Crete ngày nay",
+    "note": "Lời cảnh báo của Phao-lô về việc ngừng giương buồm bị bỏ ngoài tai.",
+    "events": []
+   },
+   "crete": {
+    "name": "Cơ-rết",
+    "book": "Tít",
+    "today": "Crete ngày nay",
+    "note": "Sau khi được thả, hòn đảo nơi ông để Tít ở lại sắp đặt các hội thánh cho ngay ngắn.",
+    "events": [
+     "Để Tít ở lại lập các trưởng lão trong mỗi thành",
+     "Kêu gọi những người lãnh đạo không chỗ trách được, trung tín",
+     "Viết thư cho Tít"
+    ]
+   },
+   "malta": {
+    "name": "Man-tơ (Malta)",
+    "book": "Công Vụ 27–28",
+    "today": "Malta ngày nay",
+    "note": "Qua cơn bão và đắm tàu, lời hứa của Đức Chúa Trời vẫn vững.",
+    "events": [
+     "Gió ‘đông bắc’ làm đắm tàu, nhưng cả 276 người đều sống sót",
+     "Bị rắn độc cắn, nhưng không hề hấn gì",
+     "Ông chữa lành những người đau ốm trên đảo"
+    ]
+   },
+   "syracuse": {
+    "name": "Sy-ra-cu-sơ",
+    "book": "Công Vụ 28:12",
+    "today": "Sicily, Ý ngày nay",
+    "note": "Họ ở lại ba ngày tại Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Bu-tê-ô-li",
+    "book": "Công Vụ 28:13-14",
+    "today": "Pozzuoli, Ý ngày nay",
+    "note": "Họ cập bến nước Ý và được các anh em tín hữu đón tiếp.",
+    "events": []
+   },
+   "rome": {
+    "name": "La-mã",
+    "book": "Công Vụ 28 · các Thư trong Tù · 2 Ti-mô-thê",
+    "today": "Rome, Ý ngày nay",
+    "note": "Phúc Âm cuối cùng đã đến trung tâm của đế quốc — không phải một kết thúc mà là một khởi đầu.",
+    "events": [
+     "Hai năm bị quản thúc tại gia, dạn dĩ rao giảng nước Đức Chúa Trời",
+     "Từ đây ông viết các Thư trong Tù (Ê-phê-sô·Phi-líp·Cô-lô-se·Phi-lê-môn)",
+     "Về sau lại bị tù, viết 2 Ti-mô-thê và chịu tử đạo — “ta đã đánh trận tốt lành, đã chạy xong cuộc đua”"
+    ]
+   }
+  },
+  "labels": [
+   "Biển Địa Trung Hải",
+   "Biển Ê-giê",
+   "Tiểu Á",
+   "Ma-xê-đoan",
+   "Ý"
+  ],
+  "journeys": {
+   "j1": "Hành trình thứ nhất",
+   "j2": "Hành trình thứ hai",
+   "j3": "Hành trình thứ ba",
+   "rome": "Hành trình thứ tư · đến La-mã",
+   "j5": "Hành trình thứ năm · sau khi được thả"
+  }
+ }
+}

@@ -1,0 +1,635 @@
+{
+ "menuName": "Deutsch",
+ "htmlLang": "de",
+ "dir": "ltr",
+ "locale": "de",
+ "brand": "Die Bibel auf einer Schriftrolle",
+ "docTitle": "Die Bibel auf der Landkarte · Die Bibel auf einer Schriftrolle",
+ "metaDesc": "Verfolge den zeitlichen Verlauf des Alten Testaments, das Leben Jesu und die Reisen des Paulus auf einer echten Landkarte — die Bibel geschah an wirklichen Orten.",
+ "s": {
+  "kicker": "Die Bibel auf einer Schriftrolle · Karten",
+  "title": "Die Bibel auf der Landkarte",
+  "verse": "“For we did not follow cleverly devised myths …” (2 Peter 1:16)",
+  "purpose": "Die Bibel ist kein Mythos. Sie ist die Geschichte wirklicher Menschen, die durch wirkliche Orte gingen. Verfolge diese Wege auf einer echten Landkarte, in zeitlicher Reihenfolge — tippe auf einen Punkt oder drücke ▶, um Schritt für Schritt hindurchzugehen.",
+  "ot_kick": "① Altes Testament — durch die Zeit",
+  "ot_h": "Von der Schöpfung bis zur Rückkehr nach Jerusalem",
+  "ot_lead": "Keine einzelne Reise, sondern der Verlauf der Heilsgeschichte von der Schöpfung an: Schöpfung und Sündenfall → Sintflut und Babel → eine Berufung (Abraham) → das verheißene Land → Auszug → Wüste → Eroberung → Königreich → Teilung → Verbannung → Rückkehr.",
+  "je_kick": "② Neues Testament — das Leben Jesu",
+  "je_h": "Von Bethlehem nach Jerusalem",
+  "je_lead": "Folge dem Leben Jesu, wie es die Evangelien erzählen, der Reihe nach — von seiner Geburt in Bethlehem über seine Taufe und das Wirken in Galiläa, durch Samarien, bis zu Kreuz, Auferstehung und Himmelfahrt in Jerusalem.",
+  "pa_kick": "③ Neues Testament — die Reisen des Paulus",
+  "pa_h": "Von Antiochia bis ans Ende der Erde — Rom",
+  "pa_lead": "Von Pfingsten in Jerusalem an, wie sich das Evangelium über Judäa hinaus verbreitete — durch Kleinasien und Europa bis ins Herz des Reiches. Wähle eine der fünf Reisen (1. · 2. · 3. + die Seefahrt nach Rom + nach der Freilassung) und folge den Ereignissen der Apostelgeschichte zusammen mit den unterwegs geschriebenen Briefen.",
+  "foot": "Quellen · Orte folgen dem biblischen Text und der gängigen biblischen Geografie (mit modernen Namen, wo hilfreich). Küstenlinien, Flüsse und Seen sind aus offenen geografischen Daten (Natural Earth) gezeichnet, vereinfacht.",
+  "contact": "Fragen · Rückmeldungen — <a id=\"contact\" class=\"mail\">Schreib uns</a>",
+  "play": "Abspielen",
+  "pause": "Pause",
+  "today": "Heute:"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Schöpfung · Sündenfall)",
+    "book": "1. Mose 1–3",
+    "today": "die Region von Tigris und Euphrat heute",
+    "note": "In eine sehr gut geschaffene Welt tritt die Sünde ein und zerbricht die Verbindung zwischen Gott und den Menschen.",
+    "events": [
+     "Schöpfung in sechs Tagen — “es war sehr gut”",
+     "Der Mensch nach dem Bild Gottes geschaffen",
+     "Der Sündenfall und die Vertreibung aus Eden",
+     "Die erste Verheißung des Evangeliums — “der Same der Frau wird der Schlange den Kopf zertreten”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (die Sintflut)",
+    "book": "1. Mose 6–9",
+    "today": "Berg Ararat, Ostanatolien (Türkei) heute",
+    "note": "Gott richtet eine von Sünde erfüllte Welt und bewahrt doch durch eine Familie das Leben.",
+    "events": [
+     "Eine von Verderben erfüllte Welt",
+     "Die Sintflut und die Arche Noah",
+     "Der Regenbogenbund — “nie wieder eine Flut, die alles vernichtet”"
+    ]
+   },
+   "babel": {
+    "name": "Turmbau zu Babel",
+    "book": "1. Mose 11",
+    "today": "Irak heute (Ebene Sinear)",
+    "note": "Gegen den Hochmut, der bis zum Himmel reichen will, verwirrt Gott ihre Sprache und zerstreut die Völker über die Erde.",
+    "events": [
+     "“Lasst uns eine Stadt und einen Turm bauen… und uns einen Namen machen”",
+     "Gott verwirrt ihre Sprache",
+     "Die Völker zerstreuen sich über die Erde (Sinear — später Babylon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "1. Mose 12",
+    "today": "Südirak heute",
+    "note": "Die Erlösungsgeschichte der Bibel beginnt mit der Berufung eines einzigen Mannes.",
+    "events": [
+     "Gott ruft Abram aus Ur in Chaldäa heraus",
+     "“Ich will dich zu einem großen Volk machen… alle Völker durch dich gesegnet”",
+     "Im Glauben verlässt er seine Heimat"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "1. Mose 12",
+    "today": "Südtürkei heute",
+    "note": "Unterwegs, der Berufung folgend, hin zum verheißenen Land.",
+    "events": [
+     "Terachs Familie lässt sich in Haran nieder",
+     "Terach stirbt",
+     "Abram bricht mit 75 Jahren nach Kanaan auf"
+    ]
+   },
+   "shechem": {
+    "name": "Sichem · Kanaan",
+    "book": "1. Mose 12–50",
+    "today": "Nablus heute",
+    "note": "Im verheißenen Land wird eine Familie gegründet, und der Bund wird über die Generationen weitergegeben.",
+    "events": [
+     "Einzug in Kanaan, erster Altar — “deinen Nachkommen gebe ich dieses Land”",
+     "Der Bund (1. Mose 15) · Isaak · Jakob",
+     "Jakobs zwölf Söhne — Wurzel der zwölf Stämme"
+    ]
+   },
+   "egypt": {
+    "name": "Ägypten (Goschen)",
+    "book": "1. Mose 37–50 · 2. Mose 1",
+    "today": "Nildelta, Ägypten heute",
+    "note": "Eine Familie wird zu einem großen Volk — und dann zu einem Volk von Sklaven.",
+    "events": [
+     "Josef, verkauft, steigt zum Herrscher Ägyptens auf",
+     "Jakobs ganze Familie zieht hinab, um der Hungersnot zu entkommen",
+     "Das wachsende Volk Israel wird versklavt"
+    ]
+   },
+   "sinai": {
+    "name": "Berg Sinai",
+    "book": "2. Mose · 3. Mose",
+    "today": "Sinai-Halbinsel heute",
+    "note": "Die zentrale Rettung des Alten Testaments — Sklaven werden zu Gottes eigenem Volk.",
+    "events": [
+     "Die zehn Plagen und das Passalamm",
+     "Das Rote Meer teilt sich, und sie ziehen hindurch",
+     "Die Zehn Gebote, das Gesetz, die Stiftshütte und die Opfer"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesch (Wüste)",
+    "book": "4. Mose · 5. Mose",
+    "today": "die Wüste von Sinai und Negev heute",
+    "note": "Der Unglaube kostet eine Generation das Land — doch Gott bleibt bei ihnen.",
+    "events": [
+     "Zwölf Kundschafter — aber das Volk weigert sich zu vertrauen",
+     "38 Jahre in der Wüste — Manna, Wolke und Feuer",
+     "In den Ebenen Moabs Moses letzte Predigt (5. Mose)"
+    ]
+   },
+   "jericho": {
+    "name": "Jericho",
+    "book": "Josua",
+    "today": "Jericho heute",
+    "note": "Endlich ziehen sie ein und nehmen das verheißene Land in Besitz.",
+    "events": [
+     "Der Jordan teilt sich, und das Volk zieht hindurch",
+     "Die Mauern Jerichos fallen",
+     "Eroberung Kanaans und Verteilung des Landes"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Richterzeit)",
+    "book": "Richter · Rut",
+    "today": "Chirbet Seilun heute",
+    "note": "Ohne König tut jeder, was ihm gefällt — ein wahrer König wird gebraucht.",
+    "events": [
+     "Die Stiftshütte wird in Silo aufgestellt",
+     "Der Kreislauf von Sünde – Bedrückung – Rettung (Debora, Gideon, Simson)",
+     "Rut — Treue in dunklen Tagen, in der Linie Davids"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Vereintes Königreich",
+    "book": "1.–2. Samuel · 1. Könige",
+    "today": "Jerusalem heute",
+    "note": "Israels goldenes Zeitalter — und die Verheißung eines ewigen Königs.",
+    "events": [
+     "Saul, der erste König, dann David und Goliat",
+     "Der Bund mit David — “dein Thron für ewig” (2. Samuel 7)",
+     "Salomo baut den Tempel in Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Geteiltes Königreich",
+    "book": "Könige · die Propheten",
+    "today": "Sebastia heute",
+    "note": "Das Königreich spaltet sich und verfällt, während die Propheten rufen.",
+    "events": [
+     "Nach Salomo die Teilung in Juda und Israel",
+     "Wiederholter Götzendienst",
+     "Elia, Jesaja, Jeremia rufen ‚kehrt um‘ — und weissagen den Messias"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Assyrien)",
+    "book": "2. Könige 17 · Jona",
+    "today": "Mossul, Irak heute",
+    "note": "Jede Warnung missachtend, fällt der Norden zuerst.",
+    "events": [
+     "Ninive, die Hauptstadt Assyriens",
+     "Das Nordreich fällt an Assyrien (722 v. Chr.)",
+     "Jona wird nach Ninive gesandt"
+    ]
+   },
+   "babylon": {
+    "name": "Babylon",
+    "book": "2. Könige 25 · Daniel · Hesekiel",
+    "today": "Hilla, Irak heute",
+    "note": "Die dunkelste Nacht — und doch bleibt die Verheißung der Wiederherstellung.",
+    "events": [
+     "Jerusalem fällt, der Tempel wird verbrannt (586 v. Chr.)",
+     "Juda wird nach Babylon weggeführt",
+     "Daniel und Hesekiel — Glaube und Visionen in der Verbannung"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persien)",
+    "book": "Ester · Nehemia",
+    "today": "Schusch, Iran heute",
+    "note": "Selbst im Herzen eines heidnischen Reiches bewahrt Gott sein Volk.",
+    "events": [
+     "Persien stürzt Babylon",
+     "Ester rettet die Juden vor der Vernichtung",
+     "Nehemia betet vor dem König und wird gesandt"
+    ]
+   },
+   "return": {
+    "name": "Rückkehr nach Jerusalem",
+    "book": "Esra · Nehemia · Maleachi",
+    "today": "Jerusalem heute",
+    "note": "Sie kehren zurück und bauen wieder auf — doch kein König ist gekommen. Sie warten auf den Messias.",
+    "events": [
+     "Drei Wellen der Rückkehr nach dem Erlass des Kyrus (Serubbabel 538 · Esra 458 · Nehemia 444)",
+     "Der Tempel wird wieder aufgebaut und Jerusalems Mauern wiederhergestellt",
+     "Maleachi — das Alte Testament schließt: “Ich sende meinen Boten”"
+    ]
+   }
+  },
+  "labels": [
+   "Mittelmeer",
+   "Mesopotamien",
+   "Arabische Wüste",
+   "Ägypten"
+  ],
+  "journeys": {
+   "flow": "Die Heilsgeschichte"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bethlehem",
+    "book": "Matthäus 1–2 · Lukas 2",
+    "today": "Bethlehem heute",
+    "note": "Der verheißene Messias kommt in die Stadt Davids — das Wort ward Fleisch.",
+    "events": [
+     "Geboren in Bethlehem, der Stadt Davids",
+     "Engel verkünden den Hirten die Botschaft",
+     "Die Weisen kommen, um anzubeten"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareth",
+    "book": "Lukas 2 · 4",
+    "today": "Nazareth heute",
+    "note": "Gott wächst als Mensch in einer gewöhnlichen Stadt auf.",
+    "events": [
+     "Aufgewachsen im Haus eines Zimmermanns",
+     "Mit zwölf Jahren fragt und antwortet er im Tempel",
+     "Später verworfen in der Synagoge seiner Heimatstadt"
+    ]
+   },
+   "jordan": {
+    "name": "Jordan",
+    "book": "Matthäus 3–4",
+    "today": "der untere Jordan heute",
+    "note": "Sein öffentliches Wirken beginnt — der Himmel besiegelt ihn als den Sohn.",
+    "events": [
+     "Getauft von Johannes",
+     "Der Geist kommt herab wie eine Taube — “Dies ist mein lieber Sohn”",
+     "Er überwindet die drei Versuchungen Satans in der Wüste"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Johannes 2",
+    "today": "Kafr Kanna heute",
+    "note": "In seinem ersten Zeichen offenbart er seine Herrlichkeit.",
+    "events": [
+     "Ein Gast bei einer Hochzeit",
+     "Wasser zu Wein verwandelt — sein erstes Zeichen",
+     "Seine Jünger glauben an ihn"
+    ]
+   },
+   "sychar": {
+    "name": "Sychar (Samaria)",
+    "book": "Johannes 2–4",
+    "today": "nahe Nablus heute",
+    "note": "Der Weg des frühen Wirkens — durch Jerusalem und weiter ins verachtete Samaria.",
+    "events": [
+     "Er reinigt den Tempel in Jerusalem",
+     "Bei Nacht, Nikodemus — “Du musst von neuem geboren werden”",
+     "Lebendiges Wasser für eine Samariterin"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Matthäus 4–13 · Markus 1–4",
+    "today": "das Ufer des Sees Genezareth heute",
+    "note": "Stützpunkt des Wirkens in Galiläa — Berufung, Lehre und Widerstand treffen hier zusammen.",
+    "events": [
+     "Er ruft die Fischer und macht hier seinen Stützpunkt",
+     "Die Bergpredigt — “Selig sind, die da geistlich arm sind”",
+     "Gleichnisse vom Reich Gottes — und wachsender Widerstand"
+    ]
+   },
+   "galilee": {
+    "name": "See Genezareth",
+    "book": "Markus 4 · 6 · Johannes 6",
+    "today": "der See Kinneret heute",
+    "note": "Mit Macht über die Natur zeigt er, wer er ist.",
+    "events": [
+     "“Schweig und verstumme” — er stillt den Sturm",
+     "Speist 5.000 mit fünf Broten und zwei Fischen",
+     "Geht über das Wasser"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cäsarea Philippi",
+    "book": "Matthäus 16–17",
+    "today": "Banias heute",
+    "note": "Die Jünger begreifen, dass er der Christus ist, und der Weg des Kreuzes tut sich auf.",
+    "events": [
+     "Das Bekenntnis des Petrus — “Du bist der Christus, der Sohn des lebendigen Gottes”",
+     "Er kündigt zum ersten Mal seinen Tod und seine Auferstehung an",
+     "Verklärt in Herrlichkeit auf dem Berg"
+    ]
+   },
+   "jericho": {
+    "name": "Jericho",
+    "book": "Lukas 18–19",
+    "today": "Jericho heute",
+    "note": "Auf dem Weg hinauf nach Jerusalem sucht er die Verlorenen.",
+    "events": [
+     "Er gibt dem blinden Bartimäus das Augenlicht",
+     "Er ruft den Zöllner Zachäus",
+     "“Der Menschensohn ist gekommen, zu suchen und selig zu machen, was verloren ist”"
+    ]
+   },
+   "bethany": {
+    "name": "Betanien",
+    "book": "Johannes 11–12",
+    "today": "al-Eizariya heute",
+    "note": "Am Vorabend seiner letzten Woche zeigt er seine Macht über den Tod.",
+    "events": [
+     "Er erweckt Lazarus aus dem Grab — “Ich bin die Auferstehung und das Leben”",
+     "Maria salbt ihn zum Begräbnis",
+     "Dieses Zeichen verhärtet den Plan, ihn zu töten"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Matthäus 21–28 · Lukas 24 · Apostelgeschichte 1",
+    "today": "Jerusalem heute",
+    "note": "Der Höhepunkt, auf den die ganze Bibel hinweist — Kreuz, Auferstehung, Himmelfahrt.",
+    "events": [
+     "Einzug in Jerusalem; er stößt erneut die Tische im Tempel um",
+     "Beim letzten Abendmahl wäscht er den Jüngern die Füße",
+     "Er stirbt am Kreuz",
+     "Am dritten Tag auferstanden, dann aufgefahren"
+    ]
+   }
+  },
+  "labels": [
+   "Mittelmeer",
+   "Galiläa",
+   "Samaria",
+   "Judäa",
+   "Dekapolis",
+   "Peräa",
+   "Totes Meer"
+  ],
+  "journeys": {
+   "life": "Der Weg Jesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiochia",
+    "book": "Apostelgeschichte 13 · 15",
+    "today": "Antakya, Türkei heute",
+    "note": "Die aussendende Gemeinde, von der die Heidenmission ausgeht und zu der sie zurückkehrt.",
+    "events": [
+     "Im Gebet sondert der Geist Barnabas und Saulus aus",
+     "Die Gemeinde, in der die Gläubigen zuerst ‚Christen‘ genannt wurden",
+     "Ausgangspunkt der 1., 2. und 3. Reise"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Apostelgeschichte 13,4",
+    "today": "Türkei heute",
+    "note": "Der Hafen von Antiochia — sie segeln nach Zypern.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Zypern)",
+    "book": "Apostelgeschichte 13,5",
+    "today": "Zypern heute",
+    "note": "Erste Station auf Zypern — sie predigen in den Synagogen.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Paphos",
+    "book": "Apostelgeschichte 13,6-12",
+    "today": "Zypern heute",
+    "note": "Macht erweist sich gegen die, die sich dem Evangelium widersetzen.",
+    "events": [
+     "Der Zauberer Elymas wird mit Blindheit geschlagen",
+     "Der Statthalter Sergius Paulus glaubt",
+     "Von hier an übernimmt ‚Paulus‘ die Führung"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Apostelgeschichte 13,13",
+    "today": "Antalya, Türkei heute",
+    "note": "Ein Hafen in Pamphylien — hier kehrt Johannes Markus um.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiochia in Pisidien",
+    "book": "Apostelgeschichte 13,14-50",
+    "today": "Yalvaç, Türkei heute",
+    "note": "Das Evangelium bricht sich Bahn hin zu den Heiden.",
+    "events": [
+     "Eine lange Predigt der Heilsgeschichte in der Synagoge",
+     "Viele Heiden freuen sich und nehmen das Wort an",
+     "Durch Widerstand vertrieben"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonion",
+    "book": "Apostelgeschichte 14,1-7",
+    "today": "Konya, Türkei heute",
+    "note": "Viele glauben, doch Verfolgung treibt sie weiter.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lystra",
+    "book": "Apostelgeschichte 14,8-20",
+    "today": "Türkei heute",
+    "note": "Als Gott gefeiert, dann gesteinigt.",
+    "events": [
+     "Heilt einen von Geburt an Gelähmten",
+     "Die Menge will ihnen als Göttern opfern",
+     "Gesteinigt und für tot gehalten, steht er auf"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Apostelgeschichte 14,20-21",
+    "today": "Türkei heute",
+    "note": "Viele Jünger werden gewonnen; sie kehren zurück, um die Gemeinden zu stärken.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Apostelgeschichte 16,8-10",
+    "today": "Türkei heute",
+    "note": "Der Wendepunkt, an dem das Evangelium zum ersten Mal nach Europa zieht.",
+    "events": [
+     "Eine Vision von einem Mann aus Mazedonien",
+     "“Komm herüber und hilf uns”",
+     "Sie setzen sogleich nach Europa über"
+    ]
+   },
+   "philippi": {
+    "name": "Philippi",
+    "book": "Apostelgeschichte 16 · Philipper",
+    "today": "Nordgriechenland heute",
+    "note": "Europas erste Gemeinde — das Evangelium siegt selbst im Gefängnis.",
+    "events": [
+     "Lydia, eine Purpurhändlerin, glaubt",
+     "Eine wahrsagende Sklavin wird befreit",
+     "Mitternächtliche Lieder, ein Erdbeben, das Haus des Kerkermeisters wird gerettet"
+    ]
+   },
+   "thess": {
+    "name": "Thessalonich",
+    "book": "Apostelgeschichte 17 · 1.–2. Thessalonicher",
+    "today": "Thessaloniki, Griechenland heute",
+    "note": "Das Wort erschüttert die Stadt, und der Widerstand kocht über.",
+    "events": [
+     "Spricht an drei Sabbaten in der Synagoge",
+     "“Diese, die den ganzen Erdkreis erregen”",
+     "Sie entkommen bei Nacht"
+    ]
+   },
+   "berea": {
+    "name": "Beröa",
+    "book": "Apostelgeschichte 17,10-15",
+    "today": "Veria, Griechenland heute",
+    "note": "Die ‚edlen‘ Menschen, die das Wort selbst prüften.",
+    "events": [
+     "Sie nehmen das Wort bereitwillig auf",
+     "Täglich erforschen sie die Schrift, um es zu prüfen",
+     "Viele kommen zum Glauben"
+    ]
+   },
+   "athens": {
+    "name": "Athen",
+    "book": "Apostelgeschichte 17,16-34",
+    "today": "Athen, Griechenland heute",
+    "note": "In der Stadt der Philosophen verkündet er den ‚unbekannten Gott‘.",
+    "events": [
+     "Erregt durch eine Stadt voller Götzen",
+     "Auf dem Areopag predigt er Schöpfer und Auferstehung",
+     "Verspottet, und doch glauben einige"
+    ]
+   },
+   "corinth": {
+    "name": "Korinth",
+    "book": "Apostelgeschichte 18 · 1.–2. Korinther",
+    "today": "Griechenland heute",
+    "note": "Er bleibt anderthalb Jahre und pflanzt eine Gemeinde in einer lasterhaften Stadt.",
+    "events": [
+     "Fertigt Zelte mit Aquila und Priszilla",
+     "“Fürchte dich nicht… denn ich bin mit dir”",
+     "Viele Korinther glauben und werden getauft"
+    ]
+   },
+   "ephesus": {
+    "name": "Ephesus",
+    "book": "Apostelgeschichte 19 · Epheser",
+    "today": "Selçuk, Türkei heute",
+    "note": "Herzstück der dritten Reise — das Wort breitet sich über Asien aus.",
+    "events": [
+     "Tägliche Lehre über zwei Jahre im Saal des Tyrannus",
+     "Zauberbücher verbrannt; machtvolle Taten",
+     "Der Silberschmied Demetrius zettelt einen Aufruhr an"
+    ]
+   },
+   "miletus": {
+    "name": "Milet",
+    "book": "Apostelgeschichte 20,17-38",
+    "today": "Türkei heute",
+    "note": "Ein tränenreicher Abschied von den Ältesten aus Ephesus.",
+    "events": [
+     "“Sorgt für die Gemeinde, die er mit seinem eigenen Blut erworben hat”",
+     "Die Ältesten weinen, da sie wissen, dass sie ihn nicht wiedersehen werden"
+    ]
+   },
+   "caesarea": {
+    "name": "Cäsarea",
+    "book": "Apostelgeschichte 23–26",
+    "today": "die Küste Israels heute",
+    "note": "Zwei Jahre lang verteidigt er das Evangelium vor Statthaltern und einem König.",
+    "events": [
+     "Verhöre vor den Statthaltern Felix und Festus",
+     "Seine Verteidigung vor König Agrippa",
+     "“Ich berufe mich auf den Kaiser” — weiter nach Rom"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Apostelgeschichte 21–23",
+    "today": "Jerusalem heute",
+    "note": "Im Tempel ergriffen, beginnt sein Weg als Gefangener.",
+    "events": [
+     "Von der Menge im Tempel ergriffen",
+     "Verteidigt sich vor dem Hohen Rat",
+     "Als römischer Bürger unter Bewachung nach Cäsarea gebracht"
+    ]
+   },
+   "myra": {
+    "name": "Myra",
+    "book": "Apostelgeschichte 27,5-6",
+    "today": "Demre, Türkei heute",
+    "note": "Sie steigen um auf ein alexandrinisches Schiff nach Rom.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Guthafen (Kreta)",
+    "book": "Apostelgeschichte 27,8-12",
+    "today": "Kreta heute",
+    "note": "Die Warnung des Paulus, die Fahrt zu unterbrechen, wird missachtet.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Titus",
+    "today": "Kreta heute",
+    "note": "Nach seiner Freilassung die Insel, auf der er Titus zurücklässt, um die Gemeinden zu ordnen.",
+    "events": [
+     "Lässt Titus zurück, um in jeder Stadt Älteste einzusetzen",
+     "Fordert untadelige, treue Leiter",
+     "Schreibt den Brief an Titus"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Apostelgeschichte 27–28",
+    "today": "Malta heute",
+    "note": "Durch Sturm und Schiffbruch hindurch hält Gottes Verheißung stand.",
+    "events": [
+     "Der ‚Nordost‘ zerstört das Schiff, doch alle 276 überleben",
+     "Von einer Schlange gebissen, bleibt er unversehrt",
+     "Er heilt die Kranken der Insel"
+    ]
+   },
+   "syracuse": {
+    "name": "Syrakus",
+    "book": "Apostelgeschichte 28,12",
+    "today": "Sizilien, Italien heute",
+    "note": "Sie bleiben drei Tage auf Sizilien.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Apostelgeschichte 28,13-14",
+    "today": "Pozzuoli, Italien heute",
+    "note": "Sie landen in Italien und werden von Glaubensgeschwistern empfangen.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rom",
+    "book": "Apostelgeschichte 28 · Gefangenschaftsbriefe · 2. Timotheus",
+    "today": "Rom, Italien heute",
+    "note": "Das Evangelium erreicht endlich das Herz des Reiches — kein Ende, sondern ein Anfang.",
+    "events": [
+     "Zwei Jahre unter Hausarrest, freimütig das Reich Gottes verkündend",
+     "Von hier schreibt er die Gefangenschaftsbriefe (Eph · Phil · Kol · Phlm)",
+     "Später erneut gefangen, schreibt er 2. Timotheus und wird zum Märtyrer — “Ich habe den guten Kampf gekämpft, ich habe den Lauf vollendet”"
+    ]
+   }
+  },
+  "labels": [
+   "Mittelmeer",
+   "Ägäisches Meer",
+   "Kleinasien",
+   "Mazedonien",
+   "Italien"
+  ],
+  "journeys": {
+   "j1": "Erste Reise",
+   "j2": "Zweite Reise",
+   "j3": "Dritte Reise",
+   "rome": "Vierte Reise · nach Rom",
+   "j5": "Fünfte Reise · nach der Freilassung"
+  }
+ }
+}
