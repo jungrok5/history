@@ -1,0 +1,175 @@
+{
+ "menuName": "Tiếng Việt",
+ "htmlLang": "vi",
+ "dir": "ltr",
+ "locale": "vi",
+ "docTitle": "Cho Mọi Chi Phái Và Tiếng Nói · Kinh Thánh Trong Một Cuộn",
+ "metaDesc": "Phúc Âm đến với mọi tiếng nói như thế nào — những sự thật hiếm có và hiện trạng dịch thuật được thu thập khi mang một câu chuyện vào nhiều ngôn ngữ.",
+ "s": {
+  "kicker": "Kinh Thánh Trong Một Cuộn · Giới thiệu",
+  "title": "Cho Mọi Chi Phái Và Tiếng Nói",
+  "verse": "“Sự ấy đoạn, tôi nhìn xem, thấy vô số người, không ai đếm được, bởi mọi nước, mọi chi phái, mọi dân tộc, mọi tiếng mà ra …” (Khải Huyền 7:9)",
+  "purpose": "Trang này hiện hữu vì một điều — để cho thấy công việc của Đức Chúa Trời đem Phúc Âm đến với mọi tiếng nói. Mỗi con số dưới đây không phải là “điều chúng tôi đã làm,” mà là lời cầu nguyện dâng lên cùng với công việc còn dang dở, và lòng biết ơn dành cho Hội Thánh đã gìn giữ Lời Chúa.",
+  "f_kick": "Trước hết, vài sự thật hiếm có",
+  "f_h": "Những điều chúng tôi gặp khi mang một câu chuyện vào nhiều tiếng nói",
+  "f_lead": "Trích dẫn Kinh Thánh qua nhiều ngôn ngữ làm hiện rõ sự đa dạng kỳ diệu mà Đức Chúa Trời đã gieo trồng trong tiếng nói loài người — và một Đấng Christ duy nhất xuyên suốt tất cả.",
+  "r_kick": "① Tầm với cho đến nay",
+  "r_h": "Khoảng 80% — và 20% còn lại",
+  "r_lead": "Theo dữ liệu của Joshua Project, các ngôn ngữ đã được chuyển ngữ cho đến nay vươn tới khoảng 80% dân số thế giới (theo tiếng mẹ đẻ). Những chấm chưa được lấp đầy chính là lý do cho công việc này.",
+  "r_lg1": "được một ngôn ngữ đã chuyển ngữ vươn tới",
+  "r_lg2": "chưa tới",
+  "r_s1": "ngôn ngữ",
+  "r_s2": "dân số thế giới (L1)",
+  "r_s3": "người nói tiếng mẹ đẻ",
+  "t_kick": "② Công việc chưa hoàn tất",
+  "t_h": "Thực trạng của việc dịch Kinh Thánh",
+  "t_lead": "Có khoảng 7.400 ngôn ngữ đang sống. Chỉ một phần nhỏ có trọn bộ Kinh Thánh — việc dịch thuật đang gần hơn bao giờ hết, nhưng vẫn chưa hoàn tất.",
+  "t_pray_lead": "Có những ngôn ngữ chúng tôi đã bắt đầu rồi tạm dừng. Thay vì đăng văn xuôi do AI tạo ra mà không có bản dịch bản ngữ đáng tin cậy, chúng tôi chọn một chữ “chưa” trung tín. Xin cầu nguyện cho những ngôn ngữ này — chúng cần những người dịch là con người.",
+  "v_kick": "③ Lời Chúa vững bền qua mọi tiếng nói",
+  "v_h": "Một câu, nhiều văn tự — không bịa ra một chữ nào",
+  "v_lead": "Mỗi câu được trích nguyên văn từ bản dịch Kinh Thánh chính thức của mỗi ngôn ngữ. Cốt truyện được kể lại, nhưng văn bản Kinh Thánh thì không bao giờ được diễn ý. Dưới đây là Giăng 3:16.",
+  "v_note": "Giăng 3:16 trong {n} văn tự — mỗi dòng đều nguyên văn từ ấn bản chính thức của mỗi ngôn ngữ. Chạm vào nhãn ↗ để mở bản Kinh Thánh đó.",
+  "e_kick": "④ Cho đến cùng trái đất",
+  "e_h": "Một điểm, một ngôn ngữ — trên trái đất",
+  "e_lead": "Mỗi ngôn ngữ đã chuyển ngữ là một điểm nơi phần lớn người nói nó sinh sống. Kích thước là số người nói tiếng mẹ đẻ; màu sắc là cách thức chuyển ngữ. Kéo để xoay.",
+  "e_hint": "Tự xoay · kéo để xoay, chạm vào một điểm để xem ngôn ngữ",
+  "g_h": "Theo châu lục — nơi Phúc Âm đã vươn tới",
+  "g_lead": "Các ngôn ngữ đã chuyển ngữ, nhóm theo châu lục nơi phần lớn người nói chúng sinh sống. Thanh biểu thị số người mà chúng vươn tới bằng tiếng mẹ đẻ tại đó.",
+  "m_kick": "⑤ Bản đồ các tiếng nói",
+  "m_h": "Từ mọi nước, chi phái, dân tộc và tiếng nói",
+  "m_lead": "Mỗi hình chữ nhật là một ngôn ngữ. Kích thước là số người nói tiếng mẹ đẻ; màu sắc là cách thức chuyển ngữ — trích trọn vẹn · lấy Tân Ước làm trọng tâm (một phần) · bắc cầu từ Kinh Thánh của một ngôn ngữ láng giềng · hoặc, nơi chưa có Kinh Thánh, lấy từ một bộ Kinh Thánh kể chuyện bằng tranh (OBS).",
+  "m_full": "trọn vẹn",
+  "m_partial": "một phần (trọng tâm Tân Ước)",
+  "m_bridge": "bắc cầu",
+  "m_obs": "OBS (Kinh Thánh kể chuyện)",
+  "i_kick": "⑥ Một lời mời",
+  "i_h": "Dữ liệu trở thành lời cầu nguyện và sứ mạng",
+  "i_lead": "Đây là Đại Mạng Lệnh, được thân thể Đấng Christ cùng nhau gánh vác. Hãy tham gia theo bốn cách.",
+  "i_p_h": "Cầu nguyện",
+  "i_p_b": "Cho những ngôn ngữ vẫn chưa có Kinh Thánh, và những ngôn ngữ trong danh sách trên — xin Chúa sai đầy tớ vào mùa gặt của Ngài.",
+  "i_s_h": "Chia sẻ",
+  "i_s_b": "Gửi cho ai đó trang này bằng chính tiếng nói của họ. Một liên kết có thể chạm đến một linh hồn bằng ngôn ngữ của tấm lòng.",
+  "i_g_h": "Dâng hiến",
+  "i_g_b": "Qua các tổ chức dịch Kinh Thánh (Wycliffe và những tổ chức khác), để việc dịch thuật có thể bắt đầu cho các dân tộc vẫn chưa có Lời Chúa.",
+  "i_t_h": "Dịch thuật",
+  "i_t_b": "Nếu bạn là người bản ngữ của một ngôn ngữ, hãy duyệt lại văn xuôi của nó và giúp biến một chữ “chưa” thành “bây giờ.” Không cần lập trình — chỉ cần văn bản.",
+  "i_share": "Chia sẻ trang này →",
+  "i_cta": "Xem Kinh Thánh Trong Một Cuộn →",
+  "i_maps": "Kinh Thánh Theo Bản Đồ →",
+  "i_gh": "Đóng góp trên GitHub →",
+  "i_contrib": "Đọc hướng dẫn đóng góp →",
+  "foot": "Mục đích của tất cả những điều này là sự rao truyền Phúc Âm — mạng lệnh trọng đại của Đức Chúa Trời. Vinh hiển chỉ thuộc về một mình Đức Chúa Trời.",
+  "contact": "Thắc mắc · góp ý — <a id=\"contact\" class=\"mail\">Gửi email cho chúng tôi</a>",
+  "selfname": "Tiếng Việt",
+  "unit_langs": "ngôn ngữ",
+  "unit_people": "người",
+  "pill_deferred": "tạm hoãn",
+  "pill_held": "chờ",
+  "w_full": "Trọn bộ Kinh Thánh",
+  "w_nt": "Tân Ước",
+  "w_port": "Một số phần",
+  "w_prog": "Đang tiến hành",
+  "w_begin": "Chưa bắt đầu",
+  "world_note": "Trên tổng số khoảng {living} ngôn ngữ đang sống. {need} ngôn ngữ vẫn đang chờ việc dịch thuật bắt đầu — khoảng {needp} người. Ít nhất từ trước đến nay, nhưng không phải là con số không.",
+  "why_DEFERRED": "Đã có sẵn văn bản Kinh Thánh, nhưng cần một bản dịch bản ngữ đáng tin cậy",
+  "why_HELD": "Chưa tìm được ấn bản Kinh Thánh có thể truy xuất",
+  "why_COVERED-BY-PARENT": "Đã được trang ngôn ngữ chuẩn vươn tới đầy đủ",
+  "sources": "Nguồn · Số liệu dịch Kinh Thánh thế giới: <a href=\"{url}\" target=\"_blank\" rel=\"noopener\">{source}</a> ({asof}). Số người nói: <a href=\"https://joshuaproject.net\" target=\"_blank\" rel=\"noopener\">Joshua Project</a>. Văn bản Kinh Thánh: ấn bản chính thức của mỗi ngôn ngữ (개역개정·ESV·和合本·시노드역·Van Dyck và {verx} ấn bản khác).",
+  "toast_copied": "✓ Đã sao chép liên kết",
+  "share_title": "Kinh Thánh Trong Một Cuộn",
+  "region.Asia": "Châu Á",
+  "region.Africa": "Châu Phi",
+  "region.Europe": "Châu Âu",
+  "region.North America": "Bắc Mỹ",
+  "region.South America": "Nam Mỹ",
+  "region.Oceania": "Châu Đại Dương"
+ },
+ "facts": [
+  {
+   "tag": "Ngôn ngữ",
+   "h": "Một ngôn ngữ không có người bản ngữ lại hiệp nhất cả một thế giới",
+   "p": "Hầu như không ai nói tiếng Ả Rập Chuẩn Hiện Đại như tiếng mẹ đẻ — thế nhưng từ Ma-rốc đến I-rắc, nó hiệp nhất thế giới Ả Rập trong việc đọc. Vì vậy, trang web giữ cả một trang tiếng Ả Rập chuẩn lẫn vài trang theo các phương ngữ nói."
+  },
+  {
+   "tag": "Một Đấng Christ",
+   "h": "Mỗi tiếng nói gọi tên Chúa Giê-xu một cách khác nhau",
+   "p": "Chữ viết khác, âm thanh khác — nhưng một Đấng Christ mà chúng hướng về thì vẫn là một.",
+   "multi": "예수 · 耶穌 · يسوع · Iisus · Yesu · యేసు · Jesu · Иисус"
+  },
+  {
+   "tag": "Dịch thuật",
+   "h": "Các Thi Thiên được đánh số khác nhau",
+   "p": "Thi Thiên về cảnh lưu đày là 137 trong nhiều bản Kinh Thánh nhưng lại là 136 trong truyền thống Bản Bảy Mươi/Slavơ (tiếng Nga, Gruzia, Uzbek…). Mỗi ngôn ngữ phải được trích dẫn theo cách đánh số của chính bản Kinh Thánh của nó thì liên kết mới đúng."
+  },
+  {
+   "tag": "Dịch thuật",
+   "h": "“Có một con trẻ sanh cho chúng ta” — 9:6 hay 9:5",
+   "p": "Lời tiên tri nổi tiếng về Đấng Mê-si của Ê-sai là 9:6 trong một số bản Kinh Thánh (ESV, Synodal) và là 9:5 trong các bản khác (Luther, v.v.). Chúng tôi luôn theo cách đánh số của chính mỗi ấn bản."
+  },
+  {
+   "tag": "Tiền tuyến",
+   "h": "Có những bản Kinh Thánh chỉ gồm Tân Ước + Sáng Thế Ký + Các Quan Xét",
+   "p": "Những ngôn ngữ chưa có trọn bộ Kinh Thánh không bị bỏ ngoài — ấn bản tiếng Kyrgyz chỉ có Tân Ước cùng với Sáng Thế Ký và Các Quan Xét, nên chúng tôi trích những gì đang có và thay các câu Cựu Ước còn thiếu bằng các câu Tân Ước. Tiền tuyến sống động của việc dịch thuật."
+  },
+  {
+   "tag": "Lời Chúa sửa Lời Chúa",
+   "h": "Một từ ngờ vực, được đối chiếu với chính bản Kinh Thánh của nó",
+   "p": "Trong tiếng siSwati, vài từ trông có vẻ không chuẩn đã được sửa lại bằng cách tìm chính từ đó trong một câu Kinh Thánh thật của ngôn ngữ ấy. Không phải phỏng đoán — chính Lời Chúa là tiêu chuẩn."
+  },
+  {
+   "tag": "Văn tự",
+   "h": "Tiếng Đức ở Brazil, một ngôn ngữ Ấn Độ viết bằng văn tự Telugu",
+   "p": "Tiếng Hunsrik (một phương ngữ Đức định cư ở Brazil), và tiếng Lambadi — được viết bằng văn tự Telugu dù chưa có chính tả chuẩn hóa. Hàng trăm văn tự, mỗi văn tự có thách thức riêng."
+  },
+  {
+   "tag": "Trung tín",
+   "h": "{VER} ấn bản chính thức, 0 câu do AI bịa ra",
+   "p": "Các câu Kinh Thánh được trích nguyên văn từ {VER} ấn bản Kinh Thánh chính thức. Văn xuôi cốt truyện được con người duyệt lại, nhưng không một câu Kinh Thánh nào từng bị diễn ý hay bịa ra."
+  },
+  {
+   "tag": "Bắc cầu",
+   "h": "Chưa có Kinh Thánh? Mượn Lời của người láng giềng",
+   "p": "Một số ngôn ngữ chưa có Kinh Thánh riêng vẫn giữ cốt truyện bằng tiếng mẹ đẻ nhưng trích các câu nguyên văn từ bản Kinh Thánh chính thức của một ngôn ngữ láng giềng (chế độ “bắc cầu”) — chính bản Kinh Thánh mà những độc giả ấy thật sự dùng."
+  },
+  {
+   "tag": "Ấn bản cũ",
+   "h": "Bản Kinh Thánh tiếng Quảng Đông duy nhất có thể truy xuất là bản La-tinh hóa năm 1915",
+   "p": "Đa số độc giả tiếng Quảng Đông dùng chữ Hán phồn thể, nhưng ấn bản duy nhất chúng tôi có thể trích nguyên văn lại là một bản Kinh Thánh La-tinh hóa năm 1915 — vẫn nguyên văn, nên chúng tôi giữ lại để có một trang tiếng Quảng Đông."
+  },
+  {
+   "tag": "Kiểm tra tự động",
+   "h": "Phân biệt “Thư của Giê-rê-mi” với “Giê-rê-mi”",
+   "p": "Trong một số ấn bản có sách ngụy kinh, những tên gần giống nhau có thể khiến liên kết dẫn đến sai sách. Một công cụ kiểm tra tự động bắt được những liên kết sai như vậy (ví dụ Ca Thương và Thư của Giê-rê-mi)."
+  },
+  {
+   "tag": "Chữ số bản địa",
+   "h": "Chương và câu, viết bằng chữ số của chính ngôn ngữ ấy",
+   "p": "Nhiều ngôn ngữ viết chương:câu bằng chữ số riêng của mình (chữ số Ba Tư ۱۲۳, Devanagari १२३, và nhiều nữa). Chúng tôi chuẩn hóa những chữ số này để mọi liên kết vẫn dẫn đúng."
+  },
+  {
+   "tag": "Trung tín",
+   "h": "AI không bao giờ viết một câu Kinh Thánh từ trí nhớ",
+   "p": "Các mô hình ngôn ngữ có khuynh hướng “bịa” ra các câu Kinh Thánh một cách nghe có vẻ hợp lý. Vì vậy mỗi câu đều được lấy trực tiếp từ ấn bản đã xuất bản thật; AI chỉ được tin dùng cho văn xuôi cốt truyện — và ngay cả phần đó cũng được duyệt lại."
+  },
+  {
+   "tag": "Một tiếng nói, hai văn tự",
+   "h": "Cùng một lời, văn tự khác, Kinh Thánh khác",
+   "p": "Tiếng Azerbaijan có những bản Kinh Thánh riêng bằng văn tự La-tinh và văn tự Ả Rập; tiếng Punjabi tách thành Gurmukhi và Shahmukhi. Cùng một ngôn ngữ có thể cần một bản Kinh Thánh riêng — và một trang riêng — cho mỗi truyền thống văn tự."
+  },
+  {
+   "tag": "Hướng đọc",
+   "h": "Có những bản Kinh Thánh đọc từ phải sang trái",
+   "p": "Tiếng Ả Rập, Hê-bơ-rơ, Ba Tư, Urdu và Yiddish chảy từ phải sang trái. Với những trang này, toàn bộ bố cục — không chỉ các chữ cái — đều được phản chiếu lại."
+  },
+  {
+   "tag": "Cách đếm sách",
+   "h": "1 Các Vua có thể là “3 Vương Quốc”",
+   "p": "Trong truyền thống Bản Bảy Mươi (Armenia, Gruzia…), Sa-mu-ên và Các Vua được đếm gộp thành “1–4 Vương Quốc.” Vì vậy sách mà chúng ta gọi là “1 Các Vua” lại là sách “thứ 3” ở đó — ngay cả số thứ tự của sách cũng khác nhau tùy truyền thống."
+  },
+  {
+   "tag": "Kinh Thánh bằng tranh",
+   "h": "Chưa có Kinh Thánh? Một bộ Kinh Thánh kể chuyện bằng tranh",
+   "p": "Với một số dân tộc không có cả trọn bộ Kinh Thánh lẫn Tân Ước, có một bộ “Open Bible Stories” bằng tranh (ví dụ tiếng Balochi). Chúng tôi trích nguyên văn các khung tranh của nó — cánh cửa đầu tiên để Lời Chúa đến."
+  }
+ ]
+}

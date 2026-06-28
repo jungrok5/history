@@ -128,3 +128,10 @@ build). Runtime numbers come from `{VER}`/`{VERX}`/`{LANG}` tokens (about/index.
 + build-time comment markers `<!--LC-->N<!--/LC-->` (languages) / `<!--VC-->N<!--/VC-->` (editions) in the
 `<noscript>`, updated in place by build-subpages `replaceTokens` (idempotent — markers persist across rebuilds,
 unlike a one-shot `{{token}}`).
+
+**Adding an about-page language**: drop `i18n/about/<code>.json` (translate `i18n/about/en.json` —
+keep keys/`{placeholders}`/HTML, follow that language's standard Bible terms; `facts[].multi` stays as-is)
+→ build-subpages auto-generates `/about/<code>/` + sitemap + hreflang. Also add the `[code,'endonym']`
+pair to **`ABOUT_LANGS`** in about/index.html (the 🌐 switcher list) — that's the only manual sync.
+The 13-lang set so far: ko en zh-Hans zh-Hant ja es pt-BR fr de ru hi bn vi. RTL (ar/fa/ur) still needs
+`<html dir>` + RTL CSS in the standalone template before adding.

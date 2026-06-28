@@ -10,6 +10,17 @@
 <link rel="canonical" href="https://one-scroll-bible.com/about/" />
 <link rel="alternate" hreflang="ko" href="https://one-scroll-bible.com/about/" />
 <link rel="alternate" hreflang="en" href="https://one-scroll-bible.com/about/en/" />
+<link rel="alternate" hreflang="bn" href="https://one-scroll-bible.com/about/bn/" />
+<link rel="alternate" hreflang="de" href="https://one-scroll-bible.com/about/de/" />
+<link rel="alternate" hreflang="es" href="https://one-scroll-bible.com/about/es/" />
+<link rel="alternate" hreflang="fr" href="https://one-scroll-bible.com/about/fr/" />
+<link rel="alternate" hreflang="hi" href="https://one-scroll-bible.com/about/hi/" />
+<link rel="alternate" hreflang="ja" href="https://one-scroll-bible.com/about/ja/" />
+<link rel="alternate" hreflang="pt-BR" href="https://one-scroll-bible.com/about/pt-BR/" />
+<link rel="alternate" hreflang="ru" href="https://one-scroll-bible.com/about/ru/" />
+<link rel="alternate" hreflang="vi" href="https://one-scroll-bible.com/about/vi/" />
+<link rel="alternate" hreflang="zh-Hans" href="https://one-scroll-bible.com/about/zh-Hans/" />
+<link rel="alternate" hreflang="zh-Hant" href="https://one-scroll-bible.com/about/zh-Hant/" />
 <link rel="alternate" hreflang="x-default" href="https://one-scroll-bible.com/about/" />
 <link rel="manifest" href="/manifest.webmanifest" />
 <link rel="icon" href="/icon-192.png" />
@@ -182,10 +193,7 @@
   <button class="iconbtn" id="langBtn" title="Language / 언어">🌐 <span id="langCur">한국어</span></button>
   <button class="iconbtn" id="themeBtn" title="테마 전환 / Theme">🌗</button>
 </div>
-<div id="langPanel" hidden>
-  <button data-l="ko">한국어</button>
-  <button data-l="en">English</button>
-</div>
+<div id="langPanel" hidden></div>
 
 <noscript>
   <h1>모든 민족과 방언에게 — 한눈에 보는 성경 이야기 소개 / To Every Tribe and Tongue — About Bible in One Scroll</h1>
@@ -667,13 +675,17 @@ $('#themeBtn').addEventListener('click',()=>{
   localStorage.setItem('bibleTheme',sp?'sepia':'dark');
   document.querySelector('meta[name=theme-color]').setAttribute('content',sp?'#efe6d3':'#0e1118');
 });
-/* language — 🌐 button + small panel (ko/en for now), shared 'lang' key */
+/* language — 🌐 switcher: each language is its own prerendered page (/about/<code>/).
+   Keep this list in sync when adding an about language (also add i18n/about/<code>.json). */
+const ABOUT_LANGS=[['ko','한국어'],['en','English'],['zh-Hans','简体中文'],['zh-Hant','繁體中文'],['ja','日本語'],['es','Español'],['pt-BR','Português'],['fr','Français'],['de','Deutsch'],['ru','Русский'],['hi','हिन्दी'],['bn','বাংলা'],['vi','Tiếng Việt']];
 const lp=$('#langPanel');
+lp.innerHTML=ABOUT_LANGS.map(([c,n])=>`<button data-l="${c}"${c===L?' class="on"':''}>${n}</button>`).join('');
 $('#langBtn').addEventListener('click',e=>{e.stopPropagation();lp.hidden=!lp.hidden;});
 document.addEventListener('click',()=>{lp.hidden=true;});
 lp.addEventListener('click',e=>e.stopPropagation());
-$$('#langPanel button').forEach(b=>b.addEventListener('click',()=>{
-  L=b.dataset.l; try{localStorage.setItem('lang',L);}catch(e){} lp.hidden=true; if(D)renderAll(); else applyText();
+lp.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{
+  const c=b.dataset.l; try{localStorage.setItem('lang',c);}catch(e){}
+  location.href=(c==='ko')?'/about/':'/about/'+c+'/';
 }));
 /* 전하기 — 메인과 동일: 모바일 네이티브 공유 시트 / 데스크톱 링크 복사 */
 const shareLink=$('#i_share');
