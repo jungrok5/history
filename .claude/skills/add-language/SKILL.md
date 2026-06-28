@@ -252,6 +252,47 @@ git checkout claude/bible-timeline-mobile-site-cb8u6x
   `curl -s -o /dev/null -w '%{http_code}' https://one-scroll-bible.com/i18n/<code>.json` → 200 + key fields
   (verify live body against the **JSON**, since non-ko/en bodies are fetched at runtime).
 
+## 9. Sub-pages: about + maps packs (1:1 with main — add all three together)
+The site has **three** prerendered surfaces: main (`index.html` + `i18n/<code>.json`), **about**
+(`i18n/about/<code>.json`), **maps** (`i18n/maps/<code>.json`). about & maps are translated **1:1 with main**
+(goal = all 214), so **"add a language" = main *and* about *and* maps**. Do this right after the main language
+passes (steps 1–7); the main pack must already exist (its `yv`/`books` feed the verbatim verse + citation helpers).
+Both sub-page switchers are **dynamic** (`window.__SUBLANGS__`, injected by build-subpages from each pack's
+`menuName`) and `build-subpages.langsFor()` auto-detects any pack present in `i18n/about|maps/` — so there is
+**no manual list to edit** (no `ABOUT_LANGS`/`MAPS_LANGS`, no LANGS): drop the two packs, build, done.
+
+**about** — translate `i18n/about/en.json` → `i18n/about/<code>.json` (drafting agent):
+- Keep every key, `{placeholder}`, and inline HTML; `facts[].multi` stays as-is; translate `menuName`/`docTitle`/
+  `metaDesc`/`s.*`/`facts[].{tag,h,p}`. Follow the language's **standard Bible terms** (read the main pack). Set
+  `htmlLang`/`locale`/`dir` (`"rtl"` for ar/fa/ur/he…; the standalone template + RTL CSS already support it).
+- **Hero verse `s.verse` = a PARTIAL verbatim quote of Rev 7:9** (the "every nation/tribe/people/language" clause).
+  The agent must **slice it verbatim from `node lib/fetch-verse.mjs <yv> REV.7.9`** — never paraphrase — and keep
+  the localized citation convention (e.g. de `7,9`). Gate it: **`node tools/make-about-verse.mjs <code>`** fetches
+  Rev 7:9 and asserts the stored slice is a verbatim substring (exit 1 + prints the full verse if not). Match the
+  cited edition's orthography exactly (e.g. Arabic SVD uses alef-wasla `ٱ`, not plain `ا`).
+- After adding/removing a language, refresh the about counts snapshot: `node tools/build-about.mjs` (keyless ok —
+  `totals` reproduce from the committed jp-cache; see NOTES "/about/ counts auto-update").
+
+**maps** — translate `i18n/maps/en.json` → `i18n/maps/<code>.json` (drafting agent):
+- Keep structure `s` + `ot/jesus/paul → places{id}/labels[]/journeys{key}`; **preserve ids/keys and every
+  `events[]` length**; set `dir`. Translate place `name`/`book`/`today`/`note`/`events`, `labels`, `journeys`,
+  `s.*`, and **`s.verseCite`** (localized "2 Peter 1:16"). Use the edition's place/book names (read the main pack).
+- **Leave `s.verse` (the verse TEXT) for the helper** — agents paraphrase Scripture. Then inject it verbatim:
+  **`node tools/make-maps-verse.mjs <code>`** (fetches 2 Pet 1:16, writes full verbatim verse + `s.verseCite`).
+
+**Validate the two packs** (structure + verbatim) before native review:
+```
+node tools/check-i18n.mjs                 # about: s-keys + facts len · maps: s-keys + place ids/labels/journeys · main parity
+node tools/make-about-verse.mjs <code>    # about hero = verbatim slice of Rev 7:9
+node tools/make-maps-verse.mjs <code>     # maps hero = verbatim 2 Pet 1:16 (injects)
+```
+**Native review (required, same bar as main)** — run a per-language reviewer agent over both packs (book/place
+names match the edition, terminology, prose faithful to en.json); fix BLOCKER/MAJOR, **defer** what you can't clear.
+
+**Build & commit**: `node tools/build-pages.mjs` calls build-subpages → auto-generates `/about/<code>/` +
+`/maps/<code>/` + sitemap + hreflang (all gitignored). Commit only the two source packs `i18n/about/<code>.json`
++ `i18n/maps/<code>.json` (+ refreshed `about/data.json` if `build-about` changed totals). Deploy = step 8.
+
 ## Partial mode — NT-only / partially translated languages
 Even without a full OT (decided at gate 0), "the Bible is this story" + a link into YouVersion is worth
 shipping → add it.
@@ -369,5 +410,7 @@ SKILL.md or AGENTS.md for that.
 - [ ] validate ✓ · audit-links missed 0 · anchors OK · **verify-verbatim CLEAN** · **verify-inline flags
       triaged** (inline quotes, EN baseline) · **verify-prose flags triaged** (POLARITY first; fix only real reversals/omissions)
 - [ ] native review (run a per-language agent via `lib/native-review-prompt.md`, report only) → apply real fixes yourself (0 divergences)
+- [ ] **sub-pages (§9) — about**: `i18n/about/<code>.json` translated (keys/HTML/`{ph}`/`facts[].multi` kept, `dir` set) · **`make-about-verse <code>` ✓** (Rev 7:9 verbatim slice) · counts refreshed (`build-about`)
+- [ ] **sub-pages (§9) — maps**: `i18n/maps/<code>.json` translated (ids/keys/`events[]` lens kept, `s.verseCite` localized) · **`make-maps-verse <code>`** injected (2 Pet 1:16 verbatim) · `check-i18n` ✓ · native review done
 - [ ] **Do NOT edit AGENTS.md or SKILL.md** — append any genuinely new gotcha/decision to `NOTES.md`
-- [ ] commit & push (work branch) → (with permission) deploy to main → live check
+- [ ] commit & push (work branch — main pack + about pack + maps pack) → (with permission) deploy to main → live check (main + /about/<code>/ + /maps/<code>/)

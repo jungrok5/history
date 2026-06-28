@@ -129,25 +129,22 @@ build). Runtime numbers come from `{VER}`/`{VERX}`/`{LANG}` tokens (about/index.
 `<noscript>`, updated in place by build-subpages `replaceTokens` (idempotent — markers persist across rebuilds,
 unlike a one-shot `{{token}}`).
 
-**Adding an about-page language**: drop `i18n/about/<code>.json` (translate `i18n/about/en.json` —
-keep keys/`{placeholders}`/HTML, follow that language's standard Bible terms; `facts[].multi` stays as-is)
-→ build-subpages auto-generates `/about/<code>/` + sitemap + hreflang. Also add the `[code,'endonym']`
-pair to **`ABOUT_LANGS`** in about/index.html (the 🌐 switcher list) — that's the only manual sync.
-The 13-lang set so far: ko en zh-Hans zh-Hant ja es pt-BR fr de ru hi bn vi. RTL (ar/fa/ur) still needs
-`<html dir>` + RTL CSS in the standalone template before adding.
+## Sub-pages (about + maps) — full procedure now lives in SKILL.md §9
+"Add a language" = main **+ about + maps** (1:1, goal = all 214). The step-by-step is **SKILL.md §9**; only the
+non-derivable gotchas live here:
+- **Switchers are dynamic** — both about & maps read `window.__SUBLANGS__` (injected by build-subpages from each
+  pack's `menuName`), and `langsFor()` auto-detects any pack in `i18n/about|maps/`. So there is **no manual list to
+  edit** anymore (the old `ABOUT_LANGS` hand-sync is obsolete; same for maps). Drop the packs, build, done.
+- **about RTL is supported** — the standalone template + RTL CSS handle `dir:"rtl"` (ar/fa/ur live). The old
+  "RTL needs template work first" caveat is resolved.
+- **about hero `s.verse` is a PARTIAL verbatim quote** of Rev 7:9 (not a full verse like maps). Slice it verbatim
+  from `fetch-verse <yv> REV.7.9`; gate with `node tools/make-about-verse.mjs <code>` (verbatim-substring check,
+  exit 1 if not). This is exactly the spot that got AI-paraphrased before — the helper now blocks it.
+- **Match the edition's orthography exactly.** Arabic SVD on YouVersion uses **alef-wasla `ٱ`** (e.g. `ٱلْأُمَمِ`),
+  not plain alef `ا` — a plain-alef copy fails make-about-verse. Re-slice from fetch-verse so it's byte-verbatim.
 
-## Adding a maps language (maps ↔ main 1:1 — same process as a main language)
-maps is translated 1:1 with main (goal = all 214). When adding/back-filling a language for maps:
-1. **Translate** `i18n/maps/en.json` → `i18n/maps/<code>.json` with a maps-translation agent. It must read the
-   language's **main pack `i18n/<code>.json`** for book names + the established Christian terminology, and use the
-   edition's place names. Keep structure (s + ot/jesus/paul → places{id}/labels[]/journeys{key}); preserve ids/keys,
-   events array lengths, `dir` (rtl for ar/fa/ur…). Translate `s.verseCite` (= localized "2 Peter 1:16").
-   **Leave `s.verse` (the verse TEXT) for the helper — agents paraphrase Scripture.**
-2. **Verse (verbatim, never AI)**: `node tools/make-maps-verse.mjs <code>` — reads `yv` from the main pack, fetches
-   2 Pet 1:16 from fetch-verse, writes `s.verse` = full verbatim verse + localized citation (from `s.verseCite`).
-3. **Validate**: structure vs en.json (places ids / labels len / journeys keys / events len), `dir`, and verify
-   `s.verse` is a verbatim substring of `fetch-verse <yv> 2PE.1.16`.
-4. **Native review** (required, like main): per-language reviewer agent — book/place names match the edition,
-   terminology, prose faithfulness vs en.json; fix BLOCKER/MAJOR, **defer** if not clearable.
-5. build-subpages auto-generates `/maps/<code>/` + sitemap + hreflang; the 🌐 switcher list (`window.__SUBLANGS__`,
-   injected by build-subpages from each pack's `menuName`) updates **automatically** — no hardcoded list to edit.
+- **maps `s.verse` is full** — leave it for `node tools/make-maps-verse.mjs <code>` (agents paraphrase Scripture);
+  the agent only translates `s.verseCite`. Structure parity (place ids / labels len / journeys keys / events len)
+  is enforced by `node tools/check-i18n.mjs`.
+- **maps place names use `name_<lang>` fields** (not bare `[lang]`) because language code `id` (Indonesian)
+  collided with each place's `.id` key — hydrate writes `name_/book_/today_/note_/events_` + `<lang>`.
