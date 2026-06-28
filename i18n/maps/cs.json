@@ -1,0 +1,636 @@
+{
+ "menuName": "Čeština",
+ "htmlLang": "cs",
+ "dir": "ltr",
+ "locale": "cs-CZ",
+ "brand": "Bible v jednom svitku",
+ "docTitle": "Bible na mapě · Bible v jednom svitku",
+ "metaDesc": "Sleduj na skutečné mapě časovou osu Starého zákona, život Ježíše a Pavlovy cesty — Bible se odehrála na skutečných místech.",
+ "s": {
+  "kicker": "Bible v jednom svitku · Mapy",
+  "title": "Bible na mapě",
+  "verse": "“For we did not follow cleverly devised myths …” (2 Peter 1:16)",
+  "purpose": "Bible není mýtus. Je to záznam o lidech, kteří kráčeli po skutečných místech, v konkrétních datech a se skutečnými jmény. Sleduj tyto cesty po mapě v pořadí podle času — klepni na bod nebo stiskni ▶ a projdi je krok za krokem.",
+  "ot_kick": "① Starý zákon — napříč časem",
+  "ot_h": "Od stvoření po návrat do Jeruzaléma",
+  "ot_lead": "Ne jedna cesta, ale tok dějin spásy od stvoření dál: stvoření a pád → potopa a Bábel → povolání (Abraham) → zaslíbená země → exodus → poušť → dobytí → království → rozdělení → vyhnanství → návrat.",
+  "je_kick": "② Nový zákon — život Ježíše",
+  "je_h": "Z Betléma do Jeruzaléma",
+  "je_lead": "Sleduj život Ježíše tak, jak jej vyprávějí evangelia, v pořadí — od jeho narození v Betlémě přes křest a galilejskou službu, přes Samaří, až ke kříži, vzkříšení a nanebevstoupení v Jeruzalémě.",
+  "pa_kick": "③ Nový zákon — Pavlovy cesty",
+  "pa_h": "Z Antiochie až do nejzazších končin země — do Říma",
+  "pa_lead": "Od Letnic v Jeruzalémě — jak se evangelium šířilo za hranice Judska — přes Malou Asii a Evropu až do srdce říše. Vyber si jednu z pěti cest (1. · 2. · 3. + plavba do Říma + po propuštění) a sleduj události Skutků spolu s listy, které vznikaly cestou.",
+  "foot": "Zdroje · Místa vycházejí z biblického textu a běžné biblické zeměpisné tradice (s moderními názvy tam, kde to pomáhá). Pobřeží, řeky a jezera jsou vykresleny z otevřených geografických dat (Natural Earth), zjednodušeně.",
+  "contact": "Dotazy · připomínky — <a id=\"contact\" class=\"mail\">Napiš nám e-mail</a>",
+  "play": "Přehrát",
+  "pause": "Pozastavit",
+  "today": "Dnes:",
+  "verseCite": "2. Petrův 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Stvoření · Pád)",
+    "book": "Genesis 1–3",
+    "today": "dnešní oblast Tigridu a Eufratu",
+    "note": "Do světa stvořeného jako „velmi dobrý“ vstupuje hřích a tříští pouto mezi Bohem a člověkem.",
+    "events": [
+     "Stvoření v šesti dnech — „bylo to velmi dobré“",
+     "Člověk stvořený k Božímu obrazu",
+     "Pád a vyhnání z Edenu",
+     "První zaslíbení evangelia — „símě ženy rozdrtí hadovi hlavu“"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Potopa)",
+    "book": "Genesis 6–9",
+    "today": "hora Ararat, dnešní východní Turecko",
+    "note": "Bůh soudí svět plný hříchu, a přece zachovává život skrze jedinou rodinu.",
+    "events": [
+     "Svět naplněný zkažeností",
+     "Potopa a Noemova archa",
+     "Smlouva duhy — „už nikdy potopa, která by zničila zemi“"
+    ]
+   },
+   "babel": {
+    "name": "Babylonská věž",
+    "book": "Genesis 11",
+    "today": "dnešní Irák (pláň Šineár)",
+    "note": "Proti pýše, která sahá až k nebi, Bůh zmate jejich řeč a rozptýlí národy po zemi.",
+    "events": [
+     "„Vystavme si město a věž… a učiňme si jméno“",
+     "Bůh zmate jejich jazyk",
+     "Národy se rozptýlí po zemi (Šineár — pozdější Babylon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesis 12",
+    "today": "dnešní jižní Irák",
+    "note": "Biblický příběh vykoupení začíná povoláním jediného muže.",
+    "events": [
+     "Bůh povolává Abrama z Uru Chaldejců",
+     "„Učiním tě velkým národem… v tobě budou požehnány všechny čeledi země“",
+     "Vírou opouští svou rodnou zemi"
+    ]
+   },
+   "haran": {
+    "name": "Cháran",
+    "book": "Genesis 12",
+    "today": "dnešní jižní Turecko",
+    "note": "Cestou, v odpovědi na povolání směrem k zaslíbené zemi.",
+    "events": [
+     "Terachova rodina se usazuje v Cháranu",
+     "Terach umírá",
+     "Abram se v sedmdesáti pěti letech vydává do Kanaánu"
+    ]
+   },
+   "shechem": {
+    "name": "Šekem · Kanaán",
+    "book": "Genesis 12–50",
+    "today": "dnešní Nábulus",
+    "note": "V zaslíbené zemi je založena rodina a smlouva přechází z pokolení na pokolení.",
+    "events": [
+     "Vstup do Kanaánu, první oltář — „tvému potomstvu dám tuto zemi“",
+     "Smlouva (Genesis 15) · Izák · Jákob",
+     "Jákobových dvanáct synů — kořen dvanácti kmenů"
+    ]
+   },
+   "egypt": {
+    "name": "Egypt (Gošen)",
+    "book": "Genesis 37–50 · Exodus 1",
+    "today": "dnešní nilská delta v Egyptě",
+    "note": "Z rodiny se stává velký národ — a pak národ otroků.",
+    "events": [
+     "Josef, prodaný do otroctví, se stává vládcem Egypta",
+     "Celá Jákobova rodina sestupuje, aby unikla hladu",
+     "Rostoucí izraelský národ je zotročen"
+    ]
+   },
+   "sinai": {
+    "name": "Hora Sinaj",
+    "book": "Exodus · Leviticus",
+    "today": "dnešní Sinajský poloostrov",
+    "note": "Ústřední záchrana SZ — z otroků se stává Boží vlastní lid.",
+    "events": [
+     "Deset ran a velikonoční beránek",
+     "Rudé moře se rozestoupí a oni přejdou",
+     "Desatero, Zákon, stánek a oběti"
+    ]
+   },
+   "kadesh": {
+    "name": "Kádeš (poušť)",
+    "book": "Numeri · Deuteronomium",
+    "today": "dnešní poušť Sinaj–Negev",
+    "note": "Nevěra stojí jedno pokolení zaslíbenou zemi — a přece Bůh s nimi zůstává.",
+    "events": [
+     "Dvanáct zvědů — ale lid odmítá důvěřovat",
+     "38 let na poušti — mana, oblak a oheň",
+     "Na Moábských pláních Mojžíšova poslední řeč (Deuteronomium)"
+    ]
+   },
+   "jericho": {
+    "name": "Jericho",
+    "book": "Jozue",
+    "today": "dnešní Jericho",
+    "note": "Konečně vcházejí a dobývají zaslíbenou zemi.",
+    "events": [
+     "Jordán se rozestoupí a lid přejde",
+     "Hradby Jericha padají",
+     "Dobytí Kanaánu a rozdělení země"
+    ]
+   },
+   "shiloh": {
+    "name": "Šílo (Soudcové)",
+    "book": "Soudců · Rút",
+    "today": "dnešní Chirbet Sejlún",
+    "note": "Bez krále si každý dělá, co se mu zlíbí — je potřeba pravý král.",
+    "events": [
+     "V Šílu je postaven stánek",
+     "Koloběh hřích–útlak–záchrana (Debora, Gedeon, Samson)",
+     "Rút — věrnost v temných dnech, v Davidově rodové linii"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalém · Sjednocené království",
+    "book": "1.–2. Samuelova · 1. Královská",
+    "today": "dnešní Jeruzalém",
+    "note": "Zlatý věk Izraele — a zaslíbení věčného krále.",
+    "events": [
+     "Saul, první král, pak David a Goliáš",
+     "Smlouva s Davidem — „tvůj trůn navěky“ (2. Samuelova 7)",
+     "Šalomoun staví v Jeruzalémě chrám"
+    ]
+   },
+   "samaria": {
+    "name": "Samaří · Rozdělené království",
+    "book": "Královská · Proroci",
+    "today": "dnešní Sebastia",
+    "note": "Království se rozpadá a upadá, zatímco proroci volají.",
+    "events": [
+     "Po Šalomounovi rozdělení na Judu a Izrael",
+     "Opakované modlářství",
+     "Eliáš, Izaiáš, Jeremiáš volají „navraťte se“ — a ohlašují Mesiáše"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asýrie)",
+    "book": "2. Královská 17 · Jonáš",
+    "today": "dnešní Mosul v Iráku",
+    "note": "Severní království, hluché ke každému varování, padá jako první.",
+    "events": [
+     "Ninive, hlavní město Asýrie",
+     "Severní království padá před Asýrií (722 př. Kr.)",
+     "Jonáš je poslán do Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babylon",
+    "book": "2. Královská 25 · Daniel · Ezechiel",
+    "today": "dnešní Hilla v Iráku",
+    "note": "Nejtemnější noc — a přece zaslíbení obnovy zůstává.",
+    "events": [
+     "Jeruzalém padá, chrám je spálen (586 př. Kr.)",
+     "Juda je odvlečena do Babylona",
+     "Daniel a Ezechiel — víra a vidění ve vyhnanství"
+    ]
+   },
+   "susa": {
+    "name": "Súsy (Persie)",
+    "book": "Ester · Nehemiáš",
+    "today": "dnešní Šúš v Íránu",
+    "note": "I v srdci pohanské říše Bůh zachovává svůj lid.",
+    "events": [
+     "Persie svrhne Babylon",
+     "Ester zachraňuje Židy před vyhubením",
+     "Nehemiáš se modlí před králem a je vyslán"
+    ]
+   },
+   "return": {
+    "name": "Návrat do Jeruzaléma",
+    "book": "Ezdráš · Nehemiáš · Malachiáš",
+    "today": "dnešní Jeruzalém",
+    "note": "Vracejí se a znovu staví — ale žádný král nepřišel. Čekají na Mesiáše.",
+    "events": [
+     "Tři vlny návratu na Kýrův výnos (Zerubábel 538 · Ezdráš 458 · Nehemiáš 444)",
+     "Obnovený chrám a opravené jeruzalémské hradby",
+     "Malachiáš — SZ se uzavírá: „Hle, posílám svého posla“"
+    ]
+   }
+  },
+  "labels": [
+   "Středozemní moře",
+   "Mezopotámie",
+   "Arabská poušť",
+   "Egypt"
+  ],
+  "journeys": {
+   "flow": "Příběh vykoupení"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlém",
+    "book": "Matouš 1–2 · Lukáš 2",
+    "today": "dnešní Betlém",
+    "note": "Zaslíbený Mesiáš přichází do Davidova města — Slovo, které se stalo tělem.",
+    "events": [
+     "Narozen v Betlémě, Davidově městě",
+     "Andělé zvěstují tu novinu pastýřům",
+     "Mudrci přicházejí, aby se mu poklonili"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lukáš 2 · 4",
+    "today": "dnešní Nazaret",
+    "note": "Bůh vyrůstá jako člověk v obyčejném městě.",
+    "events": [
+     "Vychován v tesařově domě",
+     "Ve dvanácti se v chrámu ptá a odpovídá",
+     "Později odmítnut v synagoze svého rodného města"
+    ]
+   },
+   "jordan": {
+    "name": "Řeka Jordán",
+    "book": "Matouš 3–4",
+    "today": "dnešní dolní Jordán",
+    "note": "Začíná jeho veřejná služba — nebe jej stvrzuje jako Syna.",
+    "events": [
+     "Pokřtěn Janem",
+     "Duch sestupuje jako holubice — „Toto je můj milovaný Syn“",
+     "Na poušti přemáhá satanovo trojí pokušení"
+    ]
+   },
+   "cana": {
+    "name": "Kána",
+    "book": "Jan 2",
+    "today": "dnešní Kafr Kanna",
+    "note": "Svým prvním znamením zjevuje svou slávu.",
+    "events": [
+     "Host na svatbě",
+     "Voda proměněná ve víno — jeho první znamení",
+     "Jeho učedníci v něho uvěřili"
+    ]
+   },
+   "sychar": {
+    "name": "Sychar (Samaří)",
+    "book": "Jan 2–4",
+    "today": "dnešní okolí Nábulusu",
+    "note": "Cesta rané služby — přes Jeruzalém a dál do opovrhovaného Samaří.",
+    "events": [
+     "Očišťuje chrám v Jeruzalémě",
+     "V noci Nikodém — „Musíte se znovu narodit“",
+     "Živá voda pro Samařanku"
+    ]
+   },
+   "capernaum": {
+    "name": "Kafarnaum",
+    "book": "Matouš 4–13 · Marek 1–4",
+    "today": "dnešní břeh Galilejského jezera",
+    "note": "Domovská základna galilejské služby — povolání, vyučování i odpor se zde setkávají.",
+    "events": [
+     "Povolává rybáře a usazuje se zde",
+     "Kázání na hoře — „Blahoslavení chudí v duchu“",
+     "Podobenství o království — a sílící odpor"
+    ]
+   },
+   "galilee": {
+    "name": "Galilejské jezero",
+    "book": "Marek 4 · 6 · Jan 6",
+    "today": "dnešní jezero Kineret",
+    "note": "Mocí nad přírodou ukazuje, kdo je.",
+    "events": [
+     "„Mlč, utiš se“ — utišuje bouři",
+     "Sytí pět tisíc pěti chleby a dvěma rybami",
+     "Kráčí po vodě"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea Filipova",
+    "book": "Matouš 16–17",
+    "today": "dnešní Bánjás",
+    "note": "Učedníci pochopí, že je Kristus, a otevírá se cesta kříže.",
+    "events": [
+     "Petrovo vyznání — „Ty jsi Kristus, Syn živého Boha“",
+     "Poprvé předpovídá svou smrt a vzkříšení",
+     "Proměněn ve slávě na hoře"
+    ]
+   },
+   "jericho": {
+    "name": "Jericho",
+    "book": "Lukáš 18–19",
+    "today": "dnešní Jericho",
+    "note": "Na cestě vzhůru do Jeruzaléma hledá ztracené.",
+    "events": [
+     "Vrací zrak slepému Bartimaiovi",
+     "Povolává celníka Zachea",
+     "„Syn člověka přišel hledat a zachránit, co zahynulo“"
+    ]
+   },
+   "bethany": {
+    "name": "Betanie",
+    "book": "Jan 11–12",
+    "today": "dnešní al-Ízaríja",
+    "note": "V předvečer posledního týdne ukazuje moc nad smrtí.",
+    "events": [
+     "Křísí Lazara z hrobu — „Já jsem vzkříšení i život“",
+     "Marie ho pomazává k pohřbu",
+     "Toto znamení utvrzuje plán, jak ho zabít"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalém",
+    "book": "Matouš 21–28 · Lukáš 24 · Skutky 1",
+    "today": "dnešní Jeruzalém",
+    "note": "Vyvrcholení, k němuž celá Bible směřuje — kříž, vzkříšení, nanebevstoupení.",
+    "events": [
+     "Vjezd v slávě; znovu převrací stoly v chrámu",
+     "Při poslední večeři umývá učedníkům nohy",
+     "Umírá na kříži",
+     "Třetího dne vstává a poté vystupuje do nebe"
+    ]
+   }
+  },
+  "labels": [
+   "Středozemní moře",
+   "Galilea",
+   "Samaří",
+   "Judsko",
+   "Dekapolis",
+   "Perea",
+   "Mrtvé moře"
+  ],
+  "journeys": {
+   "life": "Cesta Ježíše"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiochie",
+    "book": "Skutky 13 · 15",
+    "today": "dnešní Antakya v Turecku",
+    "note": "Vysílající církev, odkud začíná i kam se vrací misie mezi pohany.",
+    "events": [
+     "V modlitbě Duch odděluje Barnabáše a Saula",
+     "Církev, kde byli věřící poprvé nazváni „křesťané“",
+     "Výchozí bod 1., 2. i 3. cesty"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukie",
+    "book": "Skutky 13:4",
+    "today": "dnešní Turecko",
+    "note": "Přístav Antiochie — odplouvají na Kypr.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Kypr)",
+    "book": "Skutky 13:5",
+    "today": "dnešní Kypr",
+    "note": "První zastávka na Kypru — kázání v synagogách.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Páfos",
+    "book": "Skutky 13:6-12",
+    "today": "dnešní Kypr",
+    "note": "Moc se projevuje proti těm, kdo se staví proti evangeliu.",
+    "events": [
+     "Kouzelník Elymas je raněn slepotou",
+     "Místodržitel Sergius Paulus uvěří",
+     "Odtud se ujímá vedení „Pavel“"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Skutky 13:13",
+    "today": "dnešní Antalya v Turecku",
+    "note": "Přístav v Pamfylii — zde se Jan Marek vrací zpět.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidská Antiochie",
+    "book": "Skutky 13:14-50",
+    "today": "dnešní Yalvaç v Turecku",
+    "note": "Evangelium se otevírá směrem k pohanům.",
+    "events": [
+     "Dlouhé kázání o dějinách spásy v synagoze",
+     "Mnozí pohané se radují a přijímají slovo",
+     "Vyhnáni odporem"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonion",
+    "book": "Skutky 14:1-7",
+    "today": "dnešní Konya v Turecku",
+    "note": "Mnozí uvěří, ale pronásledování je nutí jít dál.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lystra",
+    "book": "Skutky 14:8-20",
+    "today": "dnešní Turecko",
+    "note": "Nejprve oslavováni jako bohové, pak ukamenováni.",
+    "events": [
+     "Uzdravuje muže chromého od narození",
+     "Zástup je chce jako bohům přinést oběť",
+     "Ukamenován a ponechán jako mrtvý, vstává"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Skutky 14:20-21",
+    "today": "dnešní Turecko",
+    "note": "Mnozí se stávají učedníky; vracejí se touž cestou, aby posílili církve.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troada",
+    "book": "Skutky 16:8-10",
+    "today": "dnešní Turecko",
+    "note": "Bod obratu, kde evangelium poprvé míří do Evropy.",
+    "events": [
+     "Vidění makedonského muže",
+     "„Přijď a pomoz nám“",
+     "Hned přeplouvají do Evropy"
+    ]
+   },
+   "philippi": {
+    "name": "Filipy",
+    "book": "Skutky 16 · Filipským",
+    "today": "dnešní severní Řecko",
+    "note": "První církev v Evropě — evangelium vítězí i ve vězení.",
+    "events": [
+     "Lydie, prodavačka purpuru, uvěří",
+     "Věštící otrokyně je vysvobozena",
+     "Půlnoční chvály, zemětřesení, záchrana žalářníkova domu"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Skutky 17 · 1.–2. Tesalonickým",
+    "today": "dnešní Soluň v Řecku",
+    "note": "Slovo otřásá městem a odpor se vzedme.",
+    "events": [
+     "Tři soboty rozmlouvá v synagoze",
+     "„Tito, kdo obrátili svět vzhůru nohama“",
+     "Za noci se vytrácejí"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Skutky 17:10-15",
+    "today": "dnešní Veria v Řecku",
+    "note": "„Ušlechtilejší“ lidé, kteří si slovo sami ověřovali.",
+    "events": [
+     "Přijímají slovo s veškerou dychtivostí",
+     "Denně zkoumají Písma, zda je to tak",
+     "Mnozí uvěří"
+    ]
+   },
+   "athens": {
+    "name": "Atény",
+    "book": "Skutky 17:16-34",
+    "today": "dnešní Atény v Řecku",
+    "note": "Ve městě filozofů hlásá „neznámého boha“.",
+    "events": [
+     "Roznícen městem plným model",
+     "Na Areopagu káže Stvořitele a vzkříšení",
+     "Vysmáli se mu, přece však několik uvěří"
+    ]
+   },
+   "corinth": {
+    "name": "Korint",
+    "book": "Skutky 18 · 1.–2. Korintským",
+    "today": "dnešní Řecko",
+    "note": "Zůstává rok a půl a zakládá církev ve městě neřesti.",
+    "events": [
+     "Vyrábí stany s Akvilou a Priscilou",
+     "„Neboj se… neboť já jsem s tebou“",
+     "Mnozí Korinťané uvěří a dají se pokřtít"
+    ]
+   },
+   "ephesus": {
+    "name": "Efez",
+    "book": "Skutky 19 · Efeským",
+    "today": "dnešní Selçuk v Turecku",
+    "note": "Srdce třetí cesty — slovo se šíří po celé Asii.",
+    "events": [
+     "Dva roky denně vyučuje v Tyrannově škole",
+     "Spáleny knihy o magii; mocné skutky",
+     "Stříbrotepec Demetrios vyvolá bouři"
+    ]
+   },
+   "miletus": {
+    "name": "Milét",
+    "book": "Skutky 20:17-38",
+    "today": "dnešní Turecko",
+    "note": "Slzavé loučení s efezskými staršími.",
+    "events": [
+     "„Pečujte o církev, kterou si získal vlastní krví“",
+     "Starší pláčou, vědouce, že ho už neuvidí"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Skutky 23–26",
+    "today": "dnešní izraelské pobřeží",
+    "note": "Dva roky obhajuje evangelium před místodržiteli a králem.",
+    "events": [
+     "Soudy před místodržiteli Felixem a Festem",
+     "Jeho obhajoba před králem Agrippou",
+     "„Odvolávám se k císaři“ — dál do Říma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalém",
+    "book": "Skutky 21–23",
+    "today": "dnešní Jeruzalém",
+    "note": "Zadržen v chrámu, začíná jeho cesta vězně.",
+    "events": [
+     "Zadržen zástupem v chrámu",
+     "Obhajuje se před veleradou",
+     "Jako římský občan poslán pod stráží do Cesareje"
+    ]
+   },
+   "myra": {
+    "name": "Myra",
+    "book": "Skutky 27:5-6",
+    "today": "dnešní Demre v Turecku",
+    "note": "Přestupují na alexandrijskou loď směřující do Říma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Dobré přístavy (Kréta)",
+    "book": "Skutky 27:8-12",
+    "today": "dnešní Kréta",
+    "note": "Pavlovo varování, aby dál nepluli, zůstane nevyslyšeno.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kréta",
+    "book": "Titovi",
+    "today": "dnešní Kréta",
+    "note": "Ostrov, kde po svém propuštění zanechává Tita, aby uvedl církve do pořádku.",
+    "events": [
+     "Zanechává Tita, aby v každém městě ustanovil starší",
+     "Žádá bezúhonné, věrné vedoucí",
+     "Píše list Titovi"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Skutky 27–28",
+    "today": "dnešní Malta",
+    "note": "Skrze bouři a ztroskotání Boží zaslíbení obstojí.",
+    "events": [
+     "„Severovýchodní vichr“ rozbije loď, přece se všech 276 zachrání",
+     "Uštknut zmijí, zůstává bez úhony",
+     "Uzdravuje nemocné na ostrově"
+    ]
+   },
+   "syracuse": {
+    "name": "Syrakusy",
+    "book": "Skutky 28:12",
+    "today": "dnešní Sicílie v Itálii",
+    "note": "Tři dny zůstávají na Sicílii.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Skutky 28:13-14",
+    "today": "dnešní Pozzuoli v Itálii",
+    "note": "Přistávají v Itálii a vítají je spolubratři.",
+    "events": []
+   },
+   "rome": {
+    "name": "Řím",
+    "book": "Skutky 28 · Listy z vězení · 2. Timoteovi",
+    "today": "dnešní Řím v Itálii",
+    "note": "Evangelium konečně dosahuje srdce říše — ne konec, ale začátek.",
+    "events": [
+     "Dva roky v domácím vězení směle hlásá království",
+     "Odtud píše Listy z vězení (Ef · Fp · Ko · Fm)",
+     "Později opět uvězněn, píše 2. Timoteovi a podstupuje mučednictví — „dobrý boj jsem bojoval, běh jsem dokončil“"
+    ]
+   }
+  },
+  "labels": [
+   "Středozemní moře",
+   "Egejské moře",
+   "Malá Asie",
+   "Makedonie",
+   "Itálie"
+  ],
+  "journeys": {
+   "j1": "První cesta",
+   "j2": "Druhá cesta",
+   "j3": "Třetí cesta",
+   "rome": "Čtvrtá cesta · do Říma",
+   "j5": "Pátá cesta · po propuštění"
+  }
+ }
+}
