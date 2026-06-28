@@ -10,14 +10,17 @@
 <link rel="canonical" href="https://one-scroll-bible.com/about/" />
 <link rel="alternate" hreflang="ko" href="https://one-scroll-bible.com/about/" />
 <link rel="alternate" hreflang="en" href="https://one-scroll-bible.com/about/en/" />
+<link rel="alternate" hreflang="ar" href="https://one-scroll-bible.com/about/ar/" />
 <link rel="alternate" hreflang="bn" href="https://one-scroll-bible.com/about/bn/" />
 <link rel="alternate" hreflang="de" href="https://one-scroll-bible.com/about/de/" />
 <link rel="alternate" hreflang="es" href="https://one-scroll-bible.com/about/es/" />
+<link rel="alternate" hreflang="fa" href="https://one-scroll-bible.com/about/fa/" />
 <link rel="alternate" hreflang="fr" href="https://one-scroll-bible.com/about/fr/" />
 <link rel="alternate" hreflang="hi" href="https://one-scroll-bible.com/about/hi/" />
 <link rel="alternate" hreflang="ja" href="https://one-scroll-bible.com/about/ja/" />
 <link rel="alternate" hreflang="pt-BR" href="https://one-scroll-bible.com/about/pt-BR/" />
 <link rel="alternate" hreflang="ru" href="https://one-scroll-bible.com/about/ru/" />
+<link rel="alternate" hreflang="ur" href="https://one-scroll-bible.com/about/ur/" />
 <link rel="alternate" hreflang="vi" href="https://one-scroll-bible.com/about/vi/" />
 <link rel="alternate" hreflang="zh-Hans" href="https://one-scroll-bible.com/about/zh-Hans/" />
 <link rel="alternate" hreflang="zh-Hant" href="https://one-scroll-bible.com/about/zh-Hant/" />
@@ -80,6 +83,8 @@
     background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:8px;
     box-shadow:0 16px 40px -12px rgba(0,0,0,.6)}
   #langPanel[hidden]{display:none}
+  [dir=rtl] #langPanel{right:auto;left:10px}
+  [dir=rtl] .bar .track,[dir=rtl] .rg .track{transform:scaleX(-1)}
   #langPanel button{display:block;width:100%;text-align:left;border:0;background:transparent;color:var(--ink);
     padding:9px 11px;border-radius:8px;cursor:pointer;font:inherit;font-size:.9rem}
   #langPanel button:hover,#langPanel button.on{background:var(--card)}
@@ -498,6 +503,7 @@ const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'
 
 function applyText(){
   document.documentElement.lang=L; document.body.className=L;
+  document.documentElement.dir=(PACK&&PACK.dir)||'ltr';
   $$('[data-t]').forEach(el=>{const k=el.getAttribute('data-t'); if(T[k])el.innerHTML=T[k][L];});
   $('#langCur').textContent = lx('selfname');
   const ci=$('#i_contrib'); if(ci) ci.href = 'https://github.com/jungrok5/one-scroll-bible/blob/main/'+(L==='ko'?'CONTRIBUTING.ko.md':'CONTRIBUTING.md');
@@ -677,7 +683,7 @@ $('#themeBtn').addEventListener('click',()=>{
 });
 /* language — 🌐 switcher: each language is its own prerendered page (/about/<code>/).
    Keep this list in sync when adding an about language (also add i18n/about/<code>.json). */
-const ABOUT_LANGS=[['ko','한국어'],['en','English'],['zh-Hans','简体中文'],['zh-Hant','繁體中文'],['ja','日本語'],['es','Español'],['pt-BR','Português'],['fr','Français'],['de','Deutsch'],['ru','Русский'],['hi','हिन्दी'],['bn','বাংলা'],['vi','Tiếng Việt']];
+const ABOUT_LANGS=[['ko','한국어'],['en','English'],['zh-Hans','简体中文'],['zh-Hant','繁體中文'],['ja','日本語'],['es','Español'],['pt-BR','Português'],['fr','Français'],['de','Deutsch'],['ru','Русский'],['hi','हिन्दी'],['bn','বাংলা'],['vi','Tiếng Việt'],['ar','العربية'],['fa','فارسی'],['ur','اردو']];
 const lp=$('#langPanel');
 lp.innerHTML=ABOUT_LANGS.map(([c,n])=>`<button data-l="${c}"${c===L?' class="on"':''}>${n}</button>`).join('');
 $('#langBtn').addEventListener('click',e=>{e.stopPropagation();lp.hidden=!lp.hidden;});
