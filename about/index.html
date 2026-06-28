@@ -450,17 +450,48 @@ const REGION = {
   Europe:{ko:'유럽',en:'Europe',em:'🌍'}, 'North America':{ko:'북아메리카',en:'North America',em:'🌎'},
   'South America':{ko:'남아메리카',en:'South America',em:'🌎'}, Oceania:{ko:'오세아니아',en:'Oceania',em:'🌏'},
 };
+// Strings embedded in render logic (beyond data-t/T). ko/en inline; other languages
+// get their value injected into [L] by hydrate(pack). Templates use {placeholders}.
+const LX = {
+  selfname:{ko:'한국어',en:'English'},
+  unit_langs:{ko:'개 언어',en:'languages'}, unit_people:{ko:'명',en:'people'},
+  pill_deferred:{ko:'보류',en:'deferred'}, pill_held:{ko:'대기',en:'held'},
+  w_full:{ko:'전권 성경',en:'Full Bible'}, w_nt:{ko:'신약',en:'New Testament'},
+  w_port:{ko:'일부분',en:'Portions'}, w_prog:{ko:'번역 진행 중',en:'In progress'},
+  w_begin:{ko:'아직 시작 못 함',en:'Still to begin'},
+  world_note:{ko:'세상의 약 {living}개 언어 기준. 아직 번역이 시작되지 못한 {need}개 언어 약 {needp} 명 — 역사상 가장 적지만, 0은 아닙니다.',
+    en:'Of about {living} living languages. {need} still await a translation to begin — about {needp} people. The fewest ever, but not zero.'},
+  why_DEFERRED:{ko:'성경 본문은 확보됐으나, 믿을 만한 원어민 산문이 필요',en:'Scripture is in hand, but it needs a trustworthy native rendering'},
+  why_HELD:{ko:'아직 가져올 수 있는 성경 역본을 찾지 못함',en:'No fetchable Bible edition found yet'},
+  'why_COVERED-BY-PARENT':{ko:'표준어 페이지로 충분히 닿음',en:'Adequately reached by the standard-language page'},
+  v_note:{ko:'요한복음 3:16 — {n}개 문자로. 전부 각 언어 공식 역본에서 그대로 가져온 본문입니다. 라벨 ↗ 을 누르면 그 성경이 열립니다.',
+    en:'John 3:16 in {n} scripts — every line verbatim from each language’s official edition. Tap a label ↗ to open that Bible.'},
+  sources:{ko:'출처 · 세계 성경 번역 통계: <a href="{url}" target="_blank" rel="noopener">{source}</a> ({asof}). 언어별 화자 수: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. 성경 본문: 각 언어의 공식 역본(개역개정·ESV·和合本·시노드역·Van Dyck 외 {verx}종).',
+    en:'Sources · World Bible-translation figures: <a href="{url}" target="_blank" rel="noopener">{source}</a> ({asof}). Speaker populations: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. Biblical text: each language’s official edition (개역개정, ESV, 和合本, Synodal, Van Dyck, and {verx} others).'},
+  toast_copied:{ko:'✓ 링크 복사됨',en:'✓ Link copied'},
+  share_title:{ko:'한눈에 보는 성경 이야기',en:'Bible in One Scroll'},
+};
+const lx=(k)=>{const o=LX[k];return o?(o[L]!=null?o[L]:o.en):'';};
+const fmt=(s,m)=>String(s).replace(/\{(\w+)\}/g,(_,k)=>m[k]!=null?m[k]:'');
 
-let D=null, L='ko';
+let D=null, L='ko', PACK=null;
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
-const nf=n=>n.toLocaleString(L==='ko'?'ko-KR':'en-US');
+const nf=n=>n.toLocaleString(PACK&&PACK.locale?PACK.locale:(L==='ko'?'ko-KR':'en-US'));
+function hydrate(p){ // inject a non-ko/en pack as the active language into the inline data
+  PACK=p; const s=p.s||{};
+  for(const k in T){ if(s[k]!=null) T[k][L]=s[k]; }
+  for(const k in LX){ if(s[k]!=null) LX[k][L]=s[k]; }
+  for(const r in REGION){ if(s['region.'+r]!=null) REGION[r][L]=s['region.'+r]; }
+  REGIONPOS.forEach(r=>{ if(r.key && s['region.'+r.key]!=null) r[L]=s['region.'+r.key]; });
+  (p.facts||[]).forEach((pf,i)=>{ const f=FACTS[i]; if(f&&pf){ f.tag[L]=pf.tag; f.h[L]=pf.h; f.p[L]=pf.p; if(pf.multi!=null)f.multi=pf.multi; } });
+}
 function human(n){ if(L==='ko'){ if(n>=1e8)return (n/1e8).toFixed(n>=1e9?1:0)+'억'; if(n>=1e4)return Math.round(n/1e4)+'만'; return nf(n);} if(n>=1e9)return (n/1e9).toFixed(2)+'B'; if(n>=1e6)return (n/1e6).toFixed(0)+'M'; if(n>=1e3)return (n/1e3).toFixed(0)+'K'; return nf(n);}
 const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');
 
 function applyText(){
   document.documentElement.lang=L; document.body.className=L;
   $$('[data-t]').forEach(el=>{const k=el.getAttribute('data-t'); if(T[k])el.innerHTML=T[k][L];});
-  $('#langCur').textContent = L==='ko'?'한국어':'English';
+  $('#langCur').textContent = lx('selfname');
   const ci=$('#i_contrib'); if(ci) ci.href = 'https://github.com/jungrok5/one-scroll-bible/blob/main/'+(L==='ko'?'CONTRIBUTING.ko.md':'CONTRIBUTING.md');
   $$('#langPanel button').forEach(b=>b.classList.toggle('on',b.dataset.l===L));
   bindContact();
@@ -509,26 +540,21 @@ function renderReach(){
 function renderTask(){
   const w=D.world, max=w.livingLanguages;
   const rows=[
-    {k:{ko:'전권 성경',en:'Full Bible'},v:w.fullBible,c:'var(--full)'},
-    {k:{ko:'신약',en:'New Testament'},v:w.newTestament,c:'var(--partial)'},
-    {k:{ko:'일부분',en:'Portions'},v:w.portions,c:'var(--bridge)'},
-    {k:{ko:'번역 진행 중',en:'In progress'},v:w.inProgressLanguages,c:'var(--accent)'},
-    {k:{ko:'아직 시작 못 함',en:'Still to begin'},v:w.stillNeedLanguages,c:'var(--warn)'},
+    {lk:'w_full',v:w.fullBible,c:'var(--full)'},
+    {lk:'w_nt',v:w.newTestament,c:'var(--partial)'},
+    {lk:'w_port',v:w.portions,c:'var(--bridge)'},
+    {lk:'w_prog',v:w.inProgressLanguages,c:'var(--accent)'},
+    {lk:'w_begin',v:w.stillNeedLanguages,c:'var(--warn)'},
   ];
   $('#worldBars').innerHTML=rows.map(r=>`<div class="bar">
-    <div class="t"><span>${r.k[L]}</span><span class="sub">${nf(r.v)} ${L==='ko'?'개 언어':'languages'}</span></div>
+    <div class="t"><span>${lx(r.lk)}</span><span class="sub">${nf(r.v)} ${lx('unit_langs')}</span></div>
     <div class="track"><div class="fill" style="width:${Math.max(3,r.v/max*100)}%;background:${r.c}"></div></div></div>`).join('')
-    +`<p class="sub" style="font-size:.84rem;margin:6px 0 0">${L==='ko'
-      ? `세상의 약 ${nf(w.livingLanguages)}개 언어 기준. 아직 번역이 시작되지 못한 ${nf(w.stillNeedLanguages)}개 언어 약 ${human(w.stillNeedPeople)} 명 — 역사상 가장 적지만, 0은 아닙니다.`
-      : `Of about ${nf(w.livingLanguages)} living languages. ${nf(w.stillNeedLanguages)} still await a translation to begin — about ${human(w.stillNeedPeople)} people. The fewest ever, but not zero.`}</p>`;
+    +`<p class="sub" style="font-size:.84rem;margin:6px 0 0">${fmt(lx('world_note'),{living:nf(w.livingLanguages),need:nf(w.stillNeedLanguages),needp:human(w.stillNeedPeople)})}</p>`;
   const order={DEFERRED:0,HELD:1,'COVERED-BY-PARENT':2};
-  const why={DEFERRED:{ko:'성경 본문은 확보됐으나, 믿을 만한 원어민 산문이 필요',en:'Scripture is in hand, but it needs a trustworthy native rendering'},
-    HELD:{ko:'아직 가져올 수 있는 성경 역본을 찾지 못함',en:'No fetchable Bible edition found yet'},
-    'COVERED-BY-PARENT':{ko:'표준어 페이지로 충분히 닿음',en:'Adequately reached by the standard-language page'}};
   const items=D.deferred.slice().sort((a,b)=>(order[a.category]-order[b.category])).slice(0,12);
   $('#prayList').innerHTML=items.map(d=>`<div class="it"><b>${esc(d.language)}</b>
-    <span class="pill ${d.category}">${d.category==='DEFERRED'?(L==='ko'?'보류':'deferred'):(L==='ko'?'대기':'held')}</span>
-    <span class="why">${(why[d.category]||{ko:'',en:''})[L]}.</span></div>`).join('');
+    <span class="pill ${d.category}">${d.category==='DEFERRED'?lx('pill_deferred'):lx('pill_held')}</span>
+    <span class="why">${lx('why_'+d.category)}.</span></div>`).join('');
 }
 function bibleUrl(usfm,code,yv){ const p=String(usfm||'').split('.'); if(p.length<3)return null;
   if(code==='ko') return 'https://www.bskorea.or.kr/bible/korbibReadpage.php?version=GAE&book='+p[0].toLowerCase()+'&chap='+p[1]+'&sec='+p[2].split('-')[0]+'#focus';
@@ -541,9 +567,7 @@ function renderVerses(){
     return `<div class="vse">${lab}
       <div class="tx" dir="${rtl?'rtl':'ltr'}" lang="${s.code}">${esc(s.text)}</div></div>`;
   }).join('');
-  $('[data-t="v_note"]').innerHTML=(L==='ko'
-    ? `요한복음 3:16 — ${D.showcase.length}개 문자로. 전부 각 언어 공식 역본에서 그대로 가져온 본문입니다. 라벨 ↗ 을 누르면 그 성경이 열립니다.`
-    : `John 3:16 in ${D.showcase.length} scripts — every line verbatim from each language’s official edition. Tap a label ↗ to open that Bible.`);
+  $('[data-t="v_note"]').innerHTML=fmt(lx('v_note'),{n:D.showcase.length});
 }
 function renderRegions(){
   const reg={};
@@ -556,7 +580,7 @@ function renderRegions(){
   const max=Math.max(...arr.map(([,v])=>v.pop),1);
   $('#regionCards').innerHTML=arr.map(([k,v])=>`<div class="rg">
     <div class="top"><span class="em">${REGION[k].em}</span>${REGION[k][L]}</div>
-    <div class="m">${v.count} ${L==='ko'?'개 언어':'languages'} · ${human(v.pop)} ${L==='ko'?'명':'people'}</div>
+    <div class="m">${v.count} ${lx('unit_langs')} · ${human(v.pop)} ${lx('unit_people')}</div>
     <div class="track"><div class="fill" style="width:${Math.max(4,v.pop/max*100)}%"></div></div></div>`).join('');
 }
 function renderMap(){
@@ -578,9 +602,9 @@ function renderMap(){
 /* orthographic globe with real continents — d3-geo (vendored, CSP-safe) */
 let gRot=0, gTilt=14, gPaused=false, gTimer=null, LAND=null, gPts=[], gSel=null;
 const REGIONPOS=[
-  {ll:[95,46],ko:'아시아',en:'Asia'}, {ll:[20,3],ko:'아프리카',en:'Africa'},
-  {ll:[16,52],ko:'유럽',en:'Europe'}, {ll:[-100,44],ko:'북아메리카',en:'N. America'},
-  {ll:[-60,-12],ko:'남아메리카',en:'S. America'}, {ll:[134,-25],ko:'오세아니아',en:'Oceania'},
+  {key:'Asia',ll:[95,46],ko:'아시아',en:'Asia'}, {key:'Africa',ll:[20,3],ko:'아프리카',en:'Africa'},
+  {key:'Europe',ll:[16,52],ko:'유럽',en:'Europe'}, {key:'North America',ll:[-100,44],ko:'북아메리카',en:'N. America'},
+  {key:'South America',ll:[-60,-12],ko:'남아메리카',en:'S. America'}, {key:'Oceania',ll:[134,-25],ko:'오세아니아',en:'Oceania'},
 ];
 function renderGlobe(){
   const svg=$('#globe'); if(!svg||!D||!window.d3||!d3.geoOrthographic) return;
@@ -631,9 +655,7 @@ function startGlobe(){
 }
 function renderSources(){
   const w=D.world;
-  $('#sources').innerHTML=(L==='ko'
-    ?`출처 · 세계 성경 번역 통계: <a href="${w.sourceUrl}" target="_blank" rel="noopener">${w.source}</a> (${w.asOf}). 언어별 화자 수: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. 성경 본문: 각 언어의 공식 역본(개역개정·ESV·和合本·시노드역·Van Dyck 외 ${nf(D.totals.distinctVersions-5)}종).`
-    :`Sources · World Bible-translation figures: <a href="${w.sourceUrl}" target="_blank" rel="noopener">${w.source}</a> (${w.asOf}). Speaker populations: <a href="https://joshuaproject.net" target="_blank" rel="noopener">Joshua Project</a>. Biblical text: each language’s official edition (개역개정, ESV, 和合本, Synodal, Van Dyck, and ${nf(D.totals.distinctVersions-5)} others).`);
+  $('#sources').innerHTML=fmt(lx('sources'),{url:w.sourceUrl,source:w.source,asof:w.asOf,verx:nf(D.totals.distinctVersions-5)});
 }
 function renderAll(){ applyText(); renderReach(); renderTask(); renderVerses(); renderGlobe(); renderRegions(); renderMap(); renderSources(); renderFact(); }
 
@@ -658,15 +680,16 @@ const shareLink=$('#i_share');
 if(shareLink) shareLink.addEventListener('click',e=>{
   e.preventDefault();
   const url='https://one-scroll-bible.com/';
-  const data={title:L==='ko'?'한눈에 보는 성경 이야기':'Bible in One Scroll', url};
+  const data={title:lx('share_title'), url};
   if(navigator.share){ navigator.share(data).catch(()=>{}); return; }
-  const flash=()=>{ shareLink.textContent=L==='ko'?'✓ 링크 복사됨':'✓ Link copied'; setTimeout(()=>{shareLink.textContent=T.i_share[L];},1800); };
+  const flash=()=>{ shareLink.textContent=lx('toast_copied'); setTimeout(()=>{shareLink.textContent=T.i_share[L];},1800); };
   if(navigator.clipboard){ navigator.clipboard.writeText(url).then(flash,flash); } else { flash(); }
 });
 addEventListener('resize',()=>{ if(D) renderMap(); });
 
 /* initial language: saved → browser → ko */
 if(window.__SUBLANG__){ L=window.__SUBLANG__; } else { try{ const sv=localStorage.getItem('lang'); if(sv==='ko'||sv==='en') L=sv; else if((navigator.language||'').toLowerCase().startsWith('en')) L='en'; }catch(e){} }
+if(window.__PACK__){ try{ hydrate(window.__PACK__); }catch(e){} }
 fetch('/about/land-110m.json').then(r=>r.json()).then(g=>{ LAND=g; if(D) renderGlobe(); }).catch(()=>{});
 fetch('/about/data.json?v=2',{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d; renderAll(); buildFacts(); startGlobe();})
   .catch(()=>{ applyText(); $('#factStage').innerHTML='<p class="sub">data.json load failed.</p>'; });

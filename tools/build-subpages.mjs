@@ -59,12 +59,16 @@ function langsFor(slug) {
   return ['ko', 'en', ...extra.filter(c => c !== 'ko' && c !== 'en')];
 }
 
-// String getter for a language: inline T for ko/en, else the i18n pack.
-function makeGet(slug, lang, T) {
+// Load a language pack (i18n/<slug>/<code>.json); null for ko/en (inline T).
+function loadPack(slug, lang) {
+  if (lang === 'ko' || lang === 'en') return null;
+  return JSON.parse(fs.readFileSync(p('i18n', slug, lang + '.json'), 'utf8'));
+}
+// data-t string getter: inline T for ko/en, else pack.s (falling back to en).
+function makeGet(lang, T, pack) {
   if (lang === 'ko' || lang === 'en') return (k) => (T[k] && T[k][lang] != null ? T[k][lang] : null);
-  const pack = JSON.parse(fs.readFileSync(p('i18n', slug, lang + '.json'), 'utf8'));
-  return (k) => (pack[k] != null ? pack[k]
-    : (T[k] && T[k].en != null ? T[k].en : null)); // fall back to en for any missing key
+  const s = (pack && pack.s) || {};
+  return (k) => (s[k] != null ? s[k] : (T[k] && T[k].en != null ? T[k].en : null));
 }
 
 // Build-time counts from a page's data.json totals (auto-updating, idempotent).
@@ -102,11 +106,12 @@ function hreflangBlock(slug, langs) {
 }
 
 // Replace/insert the <head> SEO for a given language.
-function bakeHead(html, page, lang, langs, get) {
+function bakeHead(html, page, lang, langs, get, pack) {
   const slug = page.slug;
   const url = lang === 'ko' ? `${ORIGIN}/${slug}/` : `${ORIGIN}/${slug}/${lang}/`;
-  const title = page.title[lang] || (stripTags(get('title')) + ' · ' + (BRAND[lang] || BRAND.en));
-  const desc = stripTags(get('purpose')) || stripTags(get('verse'));
+  const title = (pack && pack.docTitle) || page.title[lang]
+    || (stripTags(get('title')) + ' · ' + (BRAND[lang] || BRAND.en));
+  const desc = (pack && pack.metaDesc) || stripTags(get('purpose')) || stripTags(get('verse'));
   const locMain = lang === 'ko' ? 'ko_KR' : (lang === 'en' ? 'en_US' : lang);
 
   let h = html;
@@ -128,14 +133,20 @@ function bakeHead(html, page, lang, langs, get) {
   return h;
 }
 
-function setLangAttrs(html, lang) {
+function setLangAttrs(html, lang, pack) {
+  const dir = (pack && pack.dir) || 'ltr';
   return html
-    .replace(/<html lang="[^"]*">/, `<html lang="${lang}">`)
+    .replace(/<html lang="[^"]*"(?: dir="[^"]*")?>/, `<html lang="${lang}"${dir === 'rtl' ? ' dir="rtl"' : ''}>`)
     .replace(/<body class="[^"]*">/, `<body class="${lang}">`);
 }
 
-function pinLang(html, lang) {
-  return html.replace(/(<body[^>]*>)/, `$1\n<script>window.__SUBLANG__=${JSON.stringify(lang)};</script>`);
+// Pin the page's language; inject the full pack for non-ko/en so the runtime
+// hydrates the inline data (T/FACTS/LX/REGION) into the active language.
+function pinLang(html, lang, pack) {
+  let inject = `<script>window.__SUBLANG__=${JSON.stringify(lang)};`;
+  if (pack) inject += `window.__PACK__=${JSON.stringify(pack)};`;
+  inject += `</script>`;
+  return html.replace(/(<body[^>]*>)/, `$1\n${inject}`);
 }
 
 // Prerender ko into the committed root pages + inject hreflang (idempotent).
@@ -145,7 +156,7 @@ export function bake() {
     const tpl = fs.readFileSync(tplPath, 'utf8');
     const T = parseT(tpl);
     const langs = langsFor(page.slug);
-    const get = makeGet(page.slug, 'ko', T);
+    const get = makeGet('ko', T, null);
     let h = prerenderBody(tpl, get);
     h = replaceTokens(h, pageTotals(page.slug));
     h = h.replace(/[ \t]*<link rel="alternate" hreflang="[^"]*" href="[^"]*" \/>\n?/g, '');
@@ -165,12 +176,13 @@ export function generate() {
     const totals = pageTotals(page.slug);
     for (const lang of langs) {
       if (lang === 'ko') continue;
-      const get = makeGet(page.slug, lang, T);
+      const pack = loadPack(page.slug, lang);
+      const get = makeGet(lang, T, pack);
       let h = prerenderBody(tpl, get);
       h = replaceTokens(h, totals);
-      h = setLangAttrs(h, lang);
-      h = bakeHead(h, page, lang, langs, get);
-      h = pinLang(h, lang);
+      h = setLangAttrs(h, lang, pack);
+      h = bakeHead(h, page, lang, langs, get, pack);
+      h = pinLang(h, lang, pack);
       const outDir = p(page.slug, lang);
       fs.mkdirSync(outDir, { recursive: true });
       fs.writeFileSync(path.join(outDir, 'index.html'), h);

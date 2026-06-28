@@ -1,0 +1,175 @@
+{
+ "menuName": "English",
+ "htmlLang": "en",
+ "dir": "ltr",
+ "locale": "en-US",
+ "docTitle": "To Every Tribe and Tongue · Bible in One Scroll",
+ "metaDesc": "How the gospel reaches every tongue — rare facts and translation reach gathered while carrying one story into many languages.",
+ "s": {
+  "kicker": "Bible in One Scroll · About",
+  "title": "To Every Tribe and Tongue",
+  "verse": "“After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages …” (Revelation 7:9)",
+  "purpose": "This page exists for one thing — to show God’s work of carrying the gospel into every tongue. Every number below is not “what we did,” but a prayer offered alongside the task that remains, and thanks for the church that has preserved the Word.",
+  "f_kick": "First, some rare facts",
+  "f_h": "What we met while carrying one story into many tongues",
+  "f_lead": "Quoting Scripture across languages reveals the astonishing diversity God planted in human speech — and the one Christ who runs through all of it.",
+  "r_kick": "① The reach so far",
+  "r_h": "About 80% — and the remaining 20%",
+  "r_lead": "By Joshua Project data, the languages carried so far reach about 80% of the world’s people (by mother tongue). The dots not yet filled are the reason for this work.",
+  "r_lg1": "reached by a carried language",
+  "r_lg2": "not yet",
+  "r_s1": "languages",
+  "r_s2": "of world population (L1)",
+  "r_s3": "mother-tongue speakers",
+  "t_kick": "② The unfinished task",
+  "t_h": "The reality of Bible translation",
+  "t_lead": "There are about 7,400 living languages. Only a fraction have the whole Bible — translation is nearer than ever, yet not finished.",
+  "t_pray_lead": "There are languages we began and then paused. Rather than publish AI prose without a trustworthy native rendering, we chose a faithful “not yet.” Please pray for these — they need human translators.",
+  "v_kick": "③ The Word holds across tongues",
+  "v_h": "One verse, many scripts — not a single word invented",
+  "v_lead": "Every verse is quoted verbatim from each language’s official Bible translation. The storyline is retold, but the biblical text is never paraphrased. Below is John 3:16.",
+  "v_note": "John 3:16 in {n} scripts — every line verbatim from each language’s official edition. Tap a label ↗ to open that Bible.",
+  "e_kick": "④ To the ends of the earth",
+  "e_h": "One point, one language — on the earth",
+  "e_lead": "Each carried language is a point where most of its speakers live. Size is mother-tongue speakers; color is how it was carried. Drag to spin.",
+  "e_hint": "Spins on its own · drag to rotate, tap a point to see the language",
+  "g_h": "By continent — where the gospel has reached",
+  "g_lead": "The carried languages, grouped by the continent where most of their speakers live. The bar is how many people they reach in their mother tongue there.",
+  "m_kick": "⑤ A map of tongues",
+  "m_h": "From every nation, tribe, people and language",
+  "m_lead": "Each rectangle is one language. Size is mother-tongue speakers; color is how it was carried — full quotation · New-Testament-centered (partial) · bridged from a neighbor’s Bible · or, where no Bible exists, drawn from an illustrated story-Bible (OBS).",
+  "m_full": "full",
+  "m_partial": "partial (NT-centered)",
+  "m_bridge": "bridge",
+  "m_obs": "OBS (story Bible)",
+  "i_kick": "⑥ An invitation",
+  "i_h": "Data becomes prayer and mission",
+  "i_lead": "This is the Great Commission, carried together by the body of Christ. Join in four ways.",
+  "i_p_h": "Pray",
+  "i_p_b": "For languages still without Scripture, and those on the list above — that the Lord would send workers into His harvest.",
+  "i_s_h": "Share",
+  "i_s_b": "Send someone the page in their own tongue. One link can reach one soul in the language of the heart.",
+  "i_g_h": "Give",
+  "i_g_b": "Through Bible-translation organizations (Wycliffe and others), so translation can begin for peoples still without the Word.",
+  "i_t_h": "Translate",
+  "i_t_b": "If you are a native speaker of a language, review its prose and help turn a “not yet” into a “now.” No coding needed — just the text.",
+  "i_share": "Share the page →",
+  "i_cta": "See the Bible in One Scroll →",
+  "i_maps": "Bible by Map →",
+  "i_gh": "Contribute on GitHub →",
+  "i_contrib": "Read the contributing guide →",
+  "foot": "The purpose of all this is the proclamation of the gospel — God’s great command. Glory to God alone.",
+  "contact": "Questions · feedback — <a id=\"contact\" class=\"mail\">Email us</a>",
+  "selfname": "English",
+  "unit_langs": "languages",
+  "unit_people": "people",
+  "pill_deferred": "deferred",
+  "pill_held": "held",
+  "w_full": "Full Bible",
+  "w_nt": "New Testament",
+  "w_port": "Portions",
+  "w_prog": "In progress",
+  "w_begin": "Still to begin",
+  "world_note": "Of about {living} living languages. {need} still await a translation to begin — about {needp} people. The fewest ever, but not zero.",
+  "why_DEFERRED": "Scripture is in hand, but it needs a trustworthy native rendering",
+  "why_HELD": "No fetchable Bible edition found yet",
+  "why_COVERED-BY-PARENT": "Adequately reached by the standard-language page",
+  "sources": "Sources · World Bible-translation figures: <a href=\"{url}\" target=\"_blank\" rel=\"noopener\">{source}</a> ({asof}). Speaker populations: <a href=\"https://joshuaproject.net\" target=\"_blank\" rel=\"noopener\">Joshua Project</a>. Biblical text: each language’s official edition (개역개정, ESV, 和合本, Synodal, Van Dyck, and {verx} others).",
+  "toast_copied": "✓ Link copied",
+  "share_title": "Bible in One Scroll",
+  "region.Asia": "Asia",
+  "region.Africa": "Africa",
+  "region.Europe": "Europe",
+  "region.North America": "North America",
+  "region.South America": "South America",
+  "region.Oceania": "Oceania"
+ },
+ "facts": [
+  {
+   "tag": "Language",
+   "h": "A language with zero native speakers unites a world",
+   "p": "Almost no one speaks Modern Standard Arabic as a mother tongue — yet from Morocco to Iraq it unites the Arab world in reading. So the site keeps both a standard-Arabic page and several spoken-dialect pages."
+  },
+  {
+   "tag": "One Christ",
+   "h": "Every tongue names Jesus differently",
+   "p": "Different letters, different sounds — but the one Christ they point to is the same.",
+   "multi": "예수 · 耶穌 · يسوع · Iisus · Yesu · యేసు · Jesu · Иисус"
+  },
+  {
+   "tag": "Translation",
+   "h": "The Psalms are numbered differently",
+   "p": "The psalm of exile is 137 in many Bibles but 136 in the Septuagint/Slavonic tradition (Russian, Georgian, Uzbek…). Each language must be cited in its own Bible’s numbering for the link to land."
+  },
+  {
+   "tag": "Translation",
+   "h": "“Unto us a child is born” — 9:6 or 9:5",
+   "p": "Isaiah’s famous messianic prophecy is 9:6 in some Bibles (ESV, Synodal) and 9:5 in others (Luther, etc.). We always follow each edition’s own numbering."
+  },
+  {
+   "tag": "Frontier",
+   "h": "Some Bibles are just NT + Genesis + Judges",
+   "p": "Languages without a full Bible aren’t left out — the Kyrgyz edition has only the NT plus Genesis and Judges, so we quote what exists and substitute missing OT verses with NT ones. The living frontier of translation."
+  },
+  {
+   "tag": "Word corrects Word",
+   "h": "A doubtful word, checked against its own Bible",
+   "p": "In siSwati, a few non-standard-looking words were fixed by finding the same word in a real verse of that language’s own Bible. Not guesswork — the Word itself is the standard."
+  },
+  {
+   "tag": "Scripts",
+   "h": "German in Brazil, an Indian tongue in Telugu script",
+   "p": "Hunsrik (a German dialect settled in Brazil), and Lambadi — written in Telugu script though it has no standardized orthography yet. Hundreds of scripts, each with its own challenge."
+  },
+  {
+   "tag": "Fidelity",
+   "h": "{VER} official editions, 0 AI-invented verses",
+   "p": "Verses are quoted verbatim from {VER} official Bible editions. The storyline prose is human-reviewed, but not a single verse of Scripture is ever paraphrased or invented."
+  },
+  {
+   "tag": "Bridges",
+   "h": "No Bible yet? Borrow a neighbor’s Word",
+   "p": "Some languages without their own Bible keep the storyline in the mother tongue but quote verses verbatim from a neighboring language’s official Bible (“bridge” mode) — the very Bible those readers actually use."
+  },
+  {
+   "tag": "Old editions",
+   "h": "The only fetchable Cantonese Bible is a 1915 romanized one",
+   "p": "Most Cantonese readers use Traditional Chinese, yet the only edition we could quote verbatim was a 1915 romanized Bible — still verbatim, so we kept it to give Cantonese a page."
+  },
+  {
+   "tag": "Auto-checks",
+   "h": "Telling “the Letter of Jeremiah” from “Jeremiah”",
+   "p": "In some editions with deuterocanonical books, similar names can send a link to the wrong book. An automated checker catches such mis-links (e.g. Lamentations vs the Letter of Jeremiah)."
+  },
+  {
+   "tag": "Native digits",
+   "h": "Chapter and verse, in the language’s own numerals",
+   "p": "Many languages write chapter:verse in their own numerals (Persian ۱۲۳, Devanagari १२३, and more). We normalize these so every link still resolves correctly."
+  },
+  {
+   "tag": "Fidelity",
+   "h": "AI never writes a verse from memory",
+   "p": "Language models tend to plausibly “invent” Bible verses. So every verse is pulled directly from the actual published edition; AI is trusted only for the storyline prose — and even that is reviewed."
+  },
+  {
+   "tag": "One tongue, two scripts",
+   "h": "Same speech, different script, different Bible",
+   "p": "Azerbaijani has separate Bibles in Latin and Arabic script; Punjabi splits into Gurmukhi and Shahmukhi. The same language can need a separate Bible — and a separate page — for each script tradition."
+  },
+  {
+   "tag": "Direction",
+   "h": "Some Bibles read right to left",
+   "p": "Arabic, Hebrew, Persian, Urdu and Yiddish flow right to left. For these pages the entire layout — not just the letters — is mirrored."
+  },
+  {
+   "tag": "Counting books",
+   "h": "1 Kings can be “3 Kingdoms”",
+   "p": "In the Septuagint tradition (Armenian, Georgian…), Samuel and Kings are counted together as “1–4 Kingdoms.” So the book we call “1 Kings” is the “3rd” there — even book numbers differ by tradition."
+  },
+  {
+   "tag": "Picture Bible",
+   "h": "No Bible yet? An illustrated story-Bible",
+   "p": "For some peoples with neither a full Bible nor a New Testament, there is an illustrated “Open Bible Stories” (e.g. Balochi). We quote its frames verbatim — a first doorway for the Word to arrive."
+  }
+ ]
+}
