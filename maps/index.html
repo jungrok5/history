@@ -250,6 +250,7 @@ function applyText(){
   document.body.className = L;
   $('#langCur').textContent = L==='ko'?'한국어':'English';
   $$('[data-t]').forEach(n=>{ const v=T[n.dataset.t]; if(v) n.innerHTML=v[L]; });
+  const _b=$('.brand'); if(_b){ _b.textContent=(L==='ko'?'한눈에 보는 성경 이야기':'Bible in One Scroll'); _b.href=(L==='ko'?'/':'/'+L+'/'); }
   bindContact();
 }
 function bindContact(){
