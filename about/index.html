@@ -196,6 +196,14 @@
   .foot-name a:hover{color:var(--ink)}
   .i-foot{margin:34px auto 0;max-width:640px;text-align:center;color:var(--muted);font-size:.92rem;line-height:1.8}
   .en .ko-only{display:none}.ko .en-only{display:none}
+  /* 인쇄/PDF 전용 — 밝은 배경 + 흑백 + 화면 전용 UI 숨김 (화면엔 영향 없음) */
+  @media print{
+    html,body{background:#fff!important}
+    body{filter:grayscale(100%)!important;font-size:11pt;line-height:1.5}
+    @page{margin:14mm}
+    #topbar,#langPanel,#fPrev,#fNext,#fDots,#globeInfo,.ctas,#i_share{display:none!important}
+    .reveal{opacity:1!important;transform:none!important}
+  }
 </style>
 </head>
 <body class="ko">

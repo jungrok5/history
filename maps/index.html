@@ -159,6 +159,13 @@
   .foot-name a{color:var(--muted);text-decoration:none}
   .foot-name a:hover{color:var(--ink)}
   .loading{padding:60px 20px;text-align:center;color:var(--muted)}
+  /* 인쇄/PDF 전용 — 밝은 배경 + 흑백 + 화면 전용 UI 숨김 (지도는 흑백으로 인쇄) */
+  @media print{
+    html,body{background:#fff!important}
+    body{filter:grayscale(100%)!important;font-size:11pt;line-height:1.5}
+    @page{margin:12mm}
+    #topbar,#langPanel,.ctrls{display:none!important}
+  }
 </style>
 </head>
 <body class="ko">

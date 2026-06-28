@@ -718,4 +718,13 @@ try {
 console.log('생성된 언어 페이지:', generated.join(', '));
 console.log('QR 코드: 생성', qrMade, '· 보유', qrHave, qrMissing.length?`· ⚠ 누락(qrcode 미설치로 생성불가): ${qrMissing.join(', ')} → repo 루트에서 'npm install' 후 재빌드`:'· 누락 없음');
 console.log('OG 이미지: 생성', imgOK, '· 건너뜀', imgSkip, imgSkip?'(rsvg/폰트 없음 → 커밋된 이미지 사용)':'');
+// i18n 완전성 게이트 — 레퍼런스(en)에 추가됐는데 일부 언어 팩에 안 들어간 키/배열 탐지
+try {
+  const { checkI18n } = await import('./check-i18n.mjs');
+  const { errors, warnings } = checkI18n();
+  if (warnings.length) { console.log('\n⚠ i18n 누락 키:'); warnings.forEach(w => console.log('  ' + w)); }
+  if (errors.length) { console.log('\n✗ i18n 구조 오류:'); errors.forEach(e => console.log('  ' + e)); }
+  if (!warnings.length && !errors.length) console.log('i18n 완전성: ✓ 모든 팩에 모든 레퍼런스 키 존재');
+} catch (e) { console.log('i18n 체크 건너뜀:', e.message); }
+
 console.log('완료. 총', LANGS.length, '개 언어 (루트=ko + 하위', generated.length, '개) · 본문 프리렌더 + JSON-LD + llms.txt');
