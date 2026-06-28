@@ -140,13 +140,21 @@ function setLangAttrs(html, lang, pack) {
     .replace(/<body class="[^"]*">/, `<body class="${lang}">`);
 }
 
-// Pin the page's language; inject the full pack for non-ko/en so the runtime
-// hydrates the inline data (T/FACTS/LX/REGION) into the active language.
-function pinLang(html, lang, pack) {
-  let inject = `<script>window.__SUBLANG__=${JSON.stringify(lang)};`;
-  if (pack) inject += `window.__PACK__=${JSON.stringify(pack)};`;
-  inject += `</script>`;
-  return html.replace(/(<body[^>]*>)/, `$1\n${inject}`);
+// [ [code, endonym], … ] for every language a page is available in — drives the
+// 🌐 switcher dynamically (no hardcoded list, so it scales to the full language set).
+function subLangList(slug) {
+  return langsFor(slug).map(c => {
+    if (c === 'ko') return ['ko', '한국어'];
+    if (c === 'en') return ['en', 'English'];
+    try { return [c, JSON.parse(fs.readFileSync(p('i18n', slug, c + '.json'), 'utf8')).menuName || c]; }
+    catch { return [c, c]; }
+  });
+}
+// Inject page globals after <body>, idempotently (strip any prior injection first):
+//   __SUBLANG__ (pinned language) · __PACK__ (non-ko/en hydration) · __SUBLANGS__ (switcher list)
+function injectGlobals(html, parts) {
+  html = html.replace(/\n?<script>window\.__(?:SUBLANG|PACK|SUBLANGS)__[\s\S]*?<\/script>/g, '');
+  return html.replace(/(<body[^>]*>)/, `$1\n<script>${parts.join('')}</script>`);
 }
 
 // Prerender ko into the committed root pages + inject hreflang (idempotent).
@@ -161,6 +169,7 @@ export function bake() {
     h = replaceTokens(h, pageTotals(page.slug));
     h = h.replace(/[ \t]*<link rel="alternate" hreflang="[^"]*" href="[^"]*" \/>\n?/g, '');
     h = h.replace(/(<link rel="canonical" href="[^"]*" \/>\n)/, `$1${hreflangBlock(page.slug, langs)}\n`);
+    h = injectGlobals(h, [`window.__SUBLANGS__=${JSON.stringify(subLangList(page.slug))};`]);
     fs.writeFileSync(tplPath, h);
     console.log(`baked ko + hreflang → ${page.file}`);
   }
@@ -174,6 +183,7 @@ export function generate() {
     const T = parseT(tpl);
     const langs = langsFor(page.slug);
     const totals = pageTotals(page.slug);
+    const sublangs = subLangList(page.slug);
     for (const lang of langs) {
       if (lang === 'ko') continue;
       const pack = loadPack(page.slug, lang);
@@ -182,7 +192,11 @@ export function generate() {
       h = replaceTokens(h, totals);
       h = setLangAttrs(h, lang, pack);
       h = bakeHead(h, page, lang, langs, get, pack);
-      h = pinLang(h, lang, pack);
+      h = injectGlobals(h, [
+        `window.__SUBLANG__=${JSON.stringify(lang)};`,
+        pack ? `window.__PACK__=${JSON.stringify(pack)};` : '',
+        `window.__SUBLANGS__=${JSON.stringify(sublangs)};`,
+      ]);
       const outDir = p(page.slug, lang);
       fs.mkdirSync(outDir, { recursive: true });
       fs.writeFileSync(path.join(outDir, 'index.html'), h);

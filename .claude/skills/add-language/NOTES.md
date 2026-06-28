@@ -135,3 +135,19 @@ keep keys/`{placeholders}`/HTML, follow that language's standard Bible terms; `f
 pair to **`ABOUT_LANGS`** in about/index.html (the 🌐 switcher list) — that's the only manual sync.
 The 13-lang set so far: ko en zh-Hans zh-Hant ja es pt-BR fr de ru hi bn vi. RTL (ar/fa/ur) still needs
 `<html dir>` + RTL CSS in the standalone template before adding.
+
+## Adding a maps language (maps ↔ main 1:1 — same process as a main language)
+maps is translated 1:1 with main (goal = all 214). When adding/back-filling a language for maps:
+1. **Translate** `i18n/maps/en.json` → `i18n/maps/<code>.json` with a maps-translation agent. It must read the
+   language's **main pack `i18n/<code>.json`** for book names + the established Christian terminology, and use the
+   edition's place names. Keep structure (s + ot/jesus/paul → places{id}/labels[]/journeys{key}); preserve ids/keys,
+   events array lengths, `dir` (rtl for ar/fa/ur…). Translate `s.verseCite` (= localized "2 Peter 1:16").
+   **Leave `s.verse` (the verse TEXT) for the helper — agents paraphrase Scripture.**
+2. **Verse (verbatim, never AI)**: `node tools/make-maps-verse.mjs <code>` — reads `yv` from the main pack, fetches
+   2 Pet 1:16 from fetch-verse, writes `s.verse` = full verbatim verse + localized citation (from `s.verseCite`).
+3. **Validate**: structure vs en.json (places ids / labels len / journeys keys / events len), `dir`, and verify
+   `s.verse` is a verbatim substring of `fetch-verse <yv> 2PE.1.16`.
+4. **Native review** (required, like main): per-language reviewer agent — book/place names match the edition,
+   terminology, prose faithfulness vs en.json; fix BLOCKER/MAJOR, **defer** if not clearable.
+5. build-subpages auto-generates `/maps/<code>/` + sitemap + hreflang; the 🌐 switcher list (`window.__SUBLANGS__`,
+   injected by build-subpages from each pack's `menuName`) updates **automatically** — no hardcoded list to edit.

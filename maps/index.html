@@ -151,6 +151,7 @@
 </style>
 </head>
 <body class="ko">
+<script>window.__SUBLANGS__=[["ko","한국어"],["en","English"],["ar","العربية"],["bn","বাংলা"],["de","Deutsch"],["es","Español"],["fa","فارسی"],["fr","Français"],["hi","हिन्दी"],["ja","日本語"],["pt-BR","Português"],["ru","Русский"],["ur","اردو"],["vi","Tiếng Việt"],["zh-Hans","简体中文"],["zh-Hant","繁體中文"]];</script>
 <div id="topbar">
   <span class="dot"></span><a class="brand" href="/">한눈에 보는 성경 이야기</a>
   <span class="spacer"></span>
@@ -495,7 +496,7 @@ $('#themeBtn').addEventListener('click',()=>{
 });
 // ---- language — each language is its own prerendered page (/maps/<code>/).
 //   Keep in sync when adding a maps language (also add i18n/maps/<code>.json). ----
-const MAPS_LANGS=[['ko','한국어'],['en','English'],['zh-Hans','简体中文'],['zh-Hant','繁體中文'],['ja','日本語'],['es','Español'],['pt-BR','Português'],['fr','Français'],['de','Deutsch'],['ru','Русский'],['hi','हिन्दी'],['bn','বাংলা'],['vi','Tiếng Việt'],['ar','العربية'],['fa','فارسی'],['ur','اردو']];
+const MAPS_LANGS=window.__SUBLANGS__||[['ko','한국어'],['en','English']];
 if(window.__SUBLANG__){ L=window.__SUBLANG__; } else { try{ const sv=localStorage.getItem('lang'); if(sv==='ko'||sv==='en') L=sv; else if((navigator.language||'').toLowerCase().startsWith('en')) L='en'; }catch(e){} }
 if(window.__PACK__){ try{ hydrateUI(window.__PACK__); }catch(e){} }
 const lp=$('#langPanel');
