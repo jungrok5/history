@@ -78,13 +78,21 @@
   .iconbtn{pointer-events:auto;cursor:pointer;border:1px solid var(--line);background:var(--card);
     color:var(--ink);border-radius:9px;padding:5px 9px;font-size:.8125rem;line-height:1;font-family:var(--sans)}
   #langBtn{display:inline-flex;align-items:center;gap:5px}
-  #langPanel{position:fixed;top:50px;right:10px;z-index:200;width:180px;max-width:calc(100vw - 20px);
-    background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:8px;
+  #langPanel{position:fixed;top:50px;right:10px;z-index:200;width:250px;max-width:calc(100vw - 20px);
+    background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:10px;
     box-shadow:0 16px 40px -12px rgba(0,0,0,.6)}
   #langPanel[hidden]{display:none}
-  #langPanel button{display:block;width:100%;text-align:left;border:0;background:transparent;color:var(--ink);
-    padding:9px 11px;border-radius:8px;cursor:pointer;font:inherit;font-size:.9rem}
-  #langPanel button:hover,#langPanel button.on{background:var(--card)}
+  [dir=rtl] #langPanel{right:auto;left:10px}
+  #langSearch{width:100%;box-sizing:border-box;padding:9px 11px;border-radius:9px;
+    border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:.875rem;outline:none}
+  #langSearch:focus{border-color:var(--accent)}
+  #langList{list-style:none;margin:8px 0 0;padding:0;max-height:52vh;overflow:auto}
+  #langList li{padding:9px 11px;border-radius:8px;cursor:pointer;font-size:.875rem;
+    display:flex;justify-content:space-between;align-items:center;gap:8px}
+  #langList li:hover{background:var(--card)}
+  #langList li .en{color:var(--muted);font-size:.75rem}
+  #langList li[aria-selected="true"]{color:var(--accent)}
+  #langList .none{color:var(--muted);font-size:.8125rem;padding:9px 11px}
   .hero{padding:58px 0 34px;text-align:center}
   .hero h1{font-size:clamp(2rem,6.4vw,3.3rem);margin:.1em 0 .35em}
   .hero .verse{max-width:660px;margin:16px auto 0;font-style:italic;color:var(--accent)}
@@ -154,7 +162,7 @@
 </style>
 </head>
 <body class="ko">
-<script>window.__SUBLANGS__=[["ko","한국어"],["en","English"],["ar","العربية"],["bn","বাংলা"],["de","Deutsch"],["es","Español"],["fa","فارسی"],["fr","Français"],["hi","हिन्दी"],["id","Bahasa Indonesia"],["ja","日本語"],["pt-BR","Português"],["ru","Русский"],["th","ไทย"],["tr","Türkçe"],["ur","اردو"],["vi","Tiếng Việt"],["zh-Hans","简体中文"],["zh-Hant","繁體中文"]];</script>
+<script>window.__SUBLANGS__=[["ko","한국어","Korean"],["en","English","English"],["ar","العربية","Arabic"],["bn","বাংলা","Bengali"],["de","Deutsch","German"],["es","Español","Spanish"],["fa","فارسی","Persian"],["fr","Français","French"],["hi","हिन्दी","Hindi"],["id","Bahasa Indonesia","Indonesian"],["ja","日本語","Japanese"],["pt-BR","Português (BR)","Portuguese"],["ru","Русский","Russian"],["th","ไทย","Thai"],["tr","Türkçe","Turkish"],["ur","اردو","Urdu"],["vi","Tiếng Việt","Vietnamese"],["zh-Hans","中文（简体）","Chinese (Simplified)"],["zh-Hant","中文（繁體）","Chinese (Traditional)"]];</script>
 <div id="topbar">
   <span class="dot"></span><a class="brand" href="/">한눈에 보는 성경 이야기</a>
   <span class="spacer"></span>
@@ -499,18 +507,29 @@ $('#themeBtn').addEventListener('click',()=>{
 });
 // ---- language — each language is its own prerendered page (/maps/<code>/).
 //   Keep in sync when adding a maps language (also add i18n/maps/<code>.json). ----
-const MAPS_LANGS=window.__SUBLANGS__||[['ko','한국어'],['en','English']];
+const MAPS_LANGS=window.__SUBLANGS__||[['ko','한국어','Korean'],['en','English','English']];
 if(window.__SUBLANG__){ L=window.__SUBLANG__; } else { try{ const sv=localStorage.getItem('lang'); if(sv==='ko'||sv==='en') L=sv; else if((navigator.language||'').toLowerCase().startsWith('en')) L='en'; }catch(e){} }
 if(window.__PACK__){ try{ hydrateUI(window.__PACK__); }catch(e){} }
 const lp=$('#langPanel');
-lp.innerHTML=MAPS_LANGS.map(([c,n])=>`<button data-l="${c}"${c===L?' class="on"':''}>${n}</button>`).join('');
-$('#langBtn').addEventListener('click',e=>{e.stopPropagation();lp.hidden=!lp.hidden;});
-document.addEventListener('click',()=>{lp.hidden=true;});
+lp.innerHTML='<input id="langSearch" type="text" autocomplete="off" placeholder="언어 검색 / Search language…" /><ul id="langList"></ul>';
+const langList=$('#langList'), langSearch=$('#langSearch');
+const esc2=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');
+function buildLangList(filter){
+  const f=(filter||'').trim().toLowerCase();
+  const items=MAPS_LANGS.filter(([c,n,e])=>!f||String(c).toLowerCase().includes(f)||String(n||'').toLowerCase().includes(f)||String(e||'').toLowerCase().includes(f));
+  langList.innerHTML = items.length
+    ? items.map(([c,n,e])=>`<li data-l="${c}" aria-selected="${c===L}"><span>${esc2(n)}</span><span class="en">${esc2(e||'')}</span></li>`).join('')
+    : '<li class="none">준비 중 / coming soon</li>';
+  langList.querySelectorAll('li[data-l]').forEach(li=>li.addEventListener('click',()=>{
+    const c=li.dataset.l; try{localStorage.setItem('lang',c);}catch(e){}
+    location.href=(c==='ko')?'/maps/':'/maps/'+c+'/';
+  }));
+}
+$('#langBtn').addEventListener('click',e=>{e.stopPropagation();const wasHidden=lp.hidden;lp.hidden=!wasHidden;if(wasHidden){langSearch.value='';buildLangList('');setTimeout(()=>langSearch.focus(),0);}});
+document.addEventListener('click',e=>{if(!lp.hidden&&!lp.contains(e.target)&&!$('#langBtn').contains(e.target))lp.hidden=true;});
 lp.addEventListener('click',e=>e.stopPropagation());
-lp.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{
-  const c=b.dataset.l; try{localStorage.setItem('lang',c);}catch(e){}
-  location.href=(c==='ko')?'/maps/':'/maps/'+c+'/';
-}));
+langSearch.addEventListener('input',()=>buildLangList(langSearch.value));
+langSearch.addEventListener('keydown',e=>{if(e.key==='Escape')lp.hidden=true;});
 
 applyText();
 Promise.all([

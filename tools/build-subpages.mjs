@@ -140,14 +140,28 @@ function setLangAttrs(html, lang, pack) {
     .replace(/<body class="[^"]*">/, `<body class="${lang}">`);
 }
 
-// [ [code, endonym], … ] for every language a page is available in — drives the
-// 🌐 switcher dynamically (no hardcoded list, so it scales to the full language set).
+// code → {native, en} from index.html LANGS (for the switcher's English-name search).
+let _LANGMETA = null;
+function langMeta() {
+  if (_LANGMETA) return _LANGMETA;
+  _LANGMETA = { ko: { native: '한국어', en: 'Korean' }, en: { native: 'English', en: 'English' } };
+  try {
+    const html = fs.readFileSync(p('index.html'), 'utf8');
+    const blk = html.slice(html.indexOf('const LANGS=['), html.indexOf('];', html.indexOf('const LANGS=[')));
+    for (const m of blk.matchAll(/\{code:'([^']+)',native:'((?:[^'\\]|\\.)*)',en:'((?:[^'\\]|\\.)*)'\}/g))
+      _LANGMETA[m[1]] = { native: m[2].replace(/\\'/g, "'"), en: m[3].replace(/\\'/g, "'") };
+  } catch {}
+  return _LANGMETA;
+}
+// [ [code, native, en], … ] for every language a page is available in — drives the
+// 🌐 search switcher dynamically (no hardcoded list, so it scales to the full set).
 function subLangList(slug) {
+  const meta = langMeta();
   return langsFor(slug).map(c => {
-    if (c === 'ko') return ['ko', '한국어'];
-    if (c === 'en') return ['en', 'English'];
-    try { return [c, JSON.parse(fs.readFileSync(p('i18n', slug, c + '.json'), 'utf8')).menuName || c]; }
-    catch { return [c, c]; }
+    const m = meta[c];
+    if (m) return [c, m.native, m.en];
+    try { return [c, JSON.parse(fs.readFileSync(p('i18n', slug, c + '.json'), 'utf8')).menuName || c, c]; }
+    catch { return [c, c, c]; }
   });
 }
 // Inject page globals after <body>, idempotently (strip any prior injection first):
