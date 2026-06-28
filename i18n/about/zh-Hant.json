@@ -74,7 +74,7 @@
   "why_DEFERRED": "聖經本文已備妥，但需要可信的母語譯文",
   "why_HELD": "尚未找到可取用的聖經譯本",
   "why_COVERED-BY-PARENT": "已由標準語頁面充分觸及",
-  "sources": "來源 · 世界聖經翻譯數據：<a href=\"{url}\" target=\"_blank\" rel=\"noopener\">{source}</a>（{asof}）。語言使用者人口：<a href=\"https://joshuaproject.net\" target=\"_blank\" rel=\"noopener\">Joshua Project</a>。聖經本文：各語言的官方譯本（개역개정·ESV·和合本·시노드역·Van Dyck，及其他{verx}種）。",
+  "sources": "來源 · 世界聖經翻譯數據：<a href=\"{url}\" target=\"_blank\" rel=\"noopener\">{source}</a>（{asof}）。語言使用者人口：<a href=\"https://joshuaproject.net\" target=\"_blank\" rel=\"noopener\">Joshua Project</a>。聖經本文：各語言的官方譯本（개역개정·ESV·和合本·Synodal·Van Dyck，及其他{verx}種）。",
   "toast_copied": "✓ 連結已複製",
   "share_title": "一覽聖經故事",
   "region.Asia": "亞洲",
@@ -104,7 +104,7 @@
   {
    "tag": "翻譯",
    "h": "「因有一嬰孩為我們而生」——9:6還是9:5",
-   "p": "以賽亞那著名的彌賽亞預言，在某些聖經（ESV、시노드역）中是9:6，在另一些（路德譯本等）中則是9:5。我們始終遵循各譯本自身的編號。"
+   "p": "以賽亞那著名的彌賽亞預言，在某些聖經（ESV、Synodal）中是9:6，在另一些（路德譯本等）中則是9:5。我們始終遵循各譯本自身的編號。"
   },
   {
    "tag": "前線",
@@ -163,8 +163,8 @@
   },
   {
    "tag": "書卷的算法",
-   "h": "列王紀上可能是「列王記三」",
-   "p": "在七十士譯本傳統（亞美尼亞語、喬治亞語……）中，撒母耳記與列王紀合在一起算為「列王記一至四」。所以我們稱為「列王紀上」的那卷書，在那裡是「第三卷」——連書卷編號都因傳統而異。"
+   "h": "列王紀上可能是「列王紀三」",
+   "p": "在七十士譯本傳統（亞美尼亞語、喬治亞語……）中，撒母耳記與列王紀合在一起算為「列王紀一至四」。所以我們稱為「列王紀上」的那卷書，在那裡是「第三卷」——連書卷編號都因傳統而異。"
   },
   {
    "tag": "繪本聖經",
