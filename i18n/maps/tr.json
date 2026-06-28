@@ -1,0 +1,636 @@
+{
+ "menuName": "Türkçe",
+ "htmlLang": "tr",
+ "dir": "ltr",
+ "locale": "tr",
+ "brand": "Tek Bakışta Kutsal Kitap",
+ "docTitle": "Haritayla Kutsal Kitap · Tek Bakışta Kutsal Kitap",
+ "metaDesc": "Eski Antlaşma'nın zaman çizgisini, İsa'nın yaşamını ve Pavlus'un yolculuklarını gerçek bir harita üzerinde izleyin — Kutsal Kitap gerçek yerlerde yaşandı.",
+ "s": {
+  "kicker": "Tek Bakışta Kutsal Kitap · Haritalar",
+  "title": "Haritayla Kutsal Kitap",
+  "verse": "“Rabbimiz İsa Mesih'in kudretini ve gelişini size bildirirken uydurma masallara başvurmadık. O'nun görkemini gözlerimizle gördük.” (2. Petrus 1:16)",
+  "purpose": "Kutsal Kitap bir efsane değildir. Gerçek insanların gerçek yerlerde yürüdüğü öyküdür. O yolları gerçek bir harita üzerinde, zaman sırasına göre izleyin — bir noktaya dokunun ya da adım adım yürümek için ▶ tuşuna basın.",
+  "ot_kick": "① Eski Antlaşma — zaman boyunca",
+  "ot_h": "Yaratılıştan Yeruşalim'e dönüşe",
+  "ot_lead": "Tek bir yolculuk değil, yaratılıştan başlayan kurtuluş tarihinin akışı: yaratılış ve düşüş → tufan ve Babil → bir çağrı (İbrahim) → vaat edilen ülke → Mısır'dan Çıkış → çöl → fetih → krallık → bölünme → sürgün → dönüş.",
+  "je_kick": "② Yeni Antlaşma — İsa'nın yaşamı",
+  "je_h": "Beytlehem'den Yeruşalim'e",
+  "je_lead": "İsa'nın yaşamını, Müjdeler'in anlattığı gibi, sırayla izleyin — Beytlehem'deki doğuşundan vaftizine ve Celile'deki hizmetine, Samiriye'den geçerek, Yeruşalim'deki çarmıha, dirilişe ve göğe alınışına.",
+  "pa_kick": "③ Yeni Antlaşma — Pavlus'un yolculukları",
+  "pa_h": "Antakya'dan dünyanın dört bucağına — Roma'ya",
+  "pa_lead": "Yeruşalim'deki Pentikost'tan başlayarak, müjdenin Yahudiye'nin ötesine nasıl yayıldığını — Anadolu ve Avrupa üzerinden imparatorluğun kalbine. Beş yolculuktan birini seçin (1.·2.·3. + Roma'ya deniz yolculuğu + salıverildikten sonra) ve Elçilerin İşleri'ndeki olayları, yol boyunca yazılan mektuplarla birlikte izleyin.",
+  "foot": "Kaynaklar · Yerler Kutsal Kitap metnini ve standart Kutsal Kitap coğrafyasını izler (yararlı olduğunda modern adlarla). Kıyı şeritleri, ırmaklar ve göller açık coğrafi verilerden (Natural Earth) sadeleştirilerek çizilmiştir.",
+  "contact": "Sorular · görüşler — <a id=\"contact\" class=\"mail\">Bize e-posta gönderin</a>",
+  "play": "Oynat",
+  "pause": "Duraklat",
+  "today": "Bugün:",
+  "verseCite": "2. Petrus 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Aden (Yaratılış · Düşüş)",
+    "book": "Yaratılış 1–3",
+    "today": "bugün Dicle–Fırat bölgesi",
+    "note": "Çok güzel yaratılmış bir dünyaya günah girer ve Tanrı'yla insan arasındaki bağı koparır.",
+    "events": [
+     "Altı günde yaratılış — “çok güzel” oldu",
+     "İnsanın Tanrı'nın suretinde yaratılması",
+     "Düşüş ve Aden'den kovulma",
+     "İlk müjde vaadi — “kadının soyu yılanın başını ezecek”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Tufan)",
+    "book": "Yaratılış 6–9",
+    "today": "bugün Ağrı Dağı, Doğu Türkiye",
+    "note": "Tanrı günahla dolu bir dünyayı yargılar, ama tek bir aile aracılığıyla yaşamı korur.",
+    "events": [
+     "Bozulmayla dolu bir dünya",
+     "Tufan ve Nuh'un gemisi",
+     "Gökkuşağı antlaşması — “bir daha tufanla yok etmeyeceğim”"
+    ]
+   },
+   "babel": {
+    "name": "Babil Kulesi",
+    "book": "Yaratılış 11",
+    "today": "bugün Irak (Şinar Ovası)",
+    "note": "Göğe ulaşmaya çalışan kibre karşı Tanrı dillerini ve halkları yeryüzüne dağıtır.",
+    "events": [
+     "“Kendimize bir kent ve bir kule kuralım… ün salalım”",
+     "Tanrı dillerini karıştırır",
+     "Halklar yeryüzüne dağılır (Şinar — sonradan Babil)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Yaratılış 12",
+    "today": "bugün güney Irak",
+    "note": "Kutsal Kitap'ın kurtuluş öyküsü tek bir adamın çağrılmasıyla başlar.",
+    "events": [
+     "Tanrı, Avram'ı Kildaniler'in Ur Kenti'nden çağırır",
+     "“Seni büyük bir ulus yapacağım… bütün halklar senin aracılığınla kutsanacak”",
+     "İmanla yurdundan ayrılır"
+    ]
+   },
+   "haran": {
+    "name": "Harran",
+    "book": "Yaratılış 12",
+    "today": "bugün güney Türkiye",
+    "note": "Yolda, çağrıya yanıt vererek vaat edilen ülkeye doğru.",
+    "events": [
+     "Terah'ın ailesi Harran'a yerleşir",
+     "Terah ölür",
+     "Avram 75 yaşında Kenan'a doğru yola çıkar"
+    ]
+   },
+   "shechem": {
+    "name": "Şekem · Kenan",
+    "book": "Yaratılış 12–50",
+    "today": "bugün Nablus",
+    "note": "Vaat edilen ülkede bir aile kurulur ve antlaşma kuşaktan kuşağa geçer.",
+    "events": [
+     "Kenan'a giriş, ilk sunak — “bu ülkeyi senin soyuna vereceğim”",
+     "Antlaşma (Yar. 15) · İshak · Yakup",
+     "Yakup'un on iki oğlu — on iki oymağın kökü"
+    ]
+   },
+   "egypt": {
+    "name": "Mısır (Goşen)",
+    "book": "Yaratılış 37–50 · Mısır'dan Çıkış 1",
+    "today": "bugün Nil Deltası, Mısır",
+    "note": "Bir aile büyük bir ulus olur — sonra köle bir ulus.",
+    "events": [
+     "Satılan Yusuf, Mısır'ı yönetecek konuma yükselir",
+     "Yakup'un bütün ailesi kıtlıktan kaçmak için iner",
+     "Büyüyen İsrail ulusu köleleştirilir"
+    ]
+   },
+   "sinai": {
+    "name": "Sina Dağı",
+    "book": "Mısır'dan Çıkış · Levililer",
+    "today": "bugün Sina Yarımadası",
+    "note": "Eski Antlaşma'nın merkezî kurtarışı — köleler Tanrı'nın halkı olur.",
+    "events": [
+     "On bela ve Fısıh kuzusu",
+     "Kızıldeniz yarılır ve karşıya geçerler",
+     "On Buyruk, Yasa, çadır tapınak ve kurbanlar"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeş (çöl)",
+    "book": "Çölde Sayım · Yasa'nın Tekrarı",
+    "today": "bugün Sina–Negev çölü",
+    "note": "İmansızlık bir kuşağa ülkeyi kaybettirir — yine de Tanrı onlarla kalır.",
+    "events": [
+     "On iki casus — ama halk güvenmeyi reddeder",
+     "Çölde 38 yıl — man, bulut ve ateş",
+     "Moav ovalarında Musa'nın son vaazı (Yasa'nın Tekrarı)"
+    ]
+   },
+   "jericho": {
+    "name": "Eriha",
+    "book": "Yeşu",
+    "today": "bugün Eriha",
+    "note": "Sonunda girip vaat edilen ülkeyi alırlar.",
+    "events": [
+     "Şeria Irmağı yarılır ve halk karşıya geçer",
+     "Eriha'nın surları yıkılır",
+     "Kenan'ın fethi ve ülkenin paylaşılması"
+    ]
+   },
+   "shiloh": {
+    "name": "Şilo (Hâkimler)",
+    "book": "Hâkimler · Rut",
+    "today": "bugün Hirbet Seylun",
+    "note": "Kral yokken herkes kendince doğru olanı yapar — gerçek bir kral gerekir.",
+    "events": [
+     "Çadır tapınak Şilo'da kurulur",
+     "Günah–baskı–kurtarış döngüsü (Debora, Gidyon, Şimşon)",
+     "Rut — karanlık günlerde sadakat, Davut'un soyunda"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yeruşalim · Birleşik Krallık",
+    "book": "1–2. Samuel · 1. Krallar",
+    "today": "bugün Yeruşalim",
+    "note": "İsrail'in altın çağı — ve sonsuz bir kral vaadi.",
+    "events": [
+     "İlk kral Saul, sonra Davut ve Golyat",
+     "Davut'la yapılan antlaşma — “tahtın sonsuza dek” (2. Sam. 7)",
+     "Süleyman Yeruşalim'de tapınağı kurar"
+    ]
+   },
+   "samaria": {
+    "name": "Samiriye · Bölünmüş Krallık",
+    "book": "Krallar · Peygamberler",
+    "today": "bugün Sebastiya",
+    "note": "Krallık bölünür ve peygamberler haykırırken çöker.",
+    "events": [
+     "Süleyman'dan sonra Yahuda ve İsrail diye bölünme",
+     "Tekrarlanan putperestlik",
+     "İlyas, Yeşaya, Yeremya ‘geri dönün’ diye haykırır — ve Mesih'i bildirir"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninova (Asur)",
+    "book": "2. Krallar 17 · Yunus",
+    "today": "bugün Musul, Irak",
+    "note": "Her uyarıyı görmezden gelen kuzey önce düşer.",
+    "events": [
+     "Asur'un başkenti Ninova",
+     "Kuzey krallığı Asur'a düşer (MÖ 722)",
+     "Yunus Ninova'ya gönderilir"
+    ]
+   },
+   "babylon": {
+    "name": "Babil",
+    "book": "2. Krallar 25 · Daniel · Hezekiel",
+    "today": "bugün Hilla, Irak",
+    "note": "En karanlık gece — yine de yeniden yapılanma vaadi kalır.",
+    "events": [
+     "Yeruşalim düşer, tapınak yakılır (MÖ 586)",
+     "Yahuda Babil'e sürülür",
+     "Daniel ve Hezekiel — sürgünde iman ve görümler"
+    ]
+   },
+   "susa": {
+    "name": "Sus (Pers)",
+    "book": "Ester · Nehemya",
+    "today": "bugün Şuş, İran",
+    "note": "Putperest bir imparatorluğun kalbinde bile Tanrı halkını korur.",
+    "events": [
+     "Pers, Babil'i devirir",
+     "Ester, Yahudileri yok olmaktan kurtarır",
+     "Nehemya kralın önünde dua eder ve gönderilir"
+    ]
+   },
+   "return": {
+    "name": "Yeruşalim'e Dönüş",
+    "book": "Ezra · Nehemya · Malaki",
+    "today": "bugün Yeruşalim",
+    "note": "Dönüp yeniden inşa ederler — ama bir kral gelmedi. Mesih'i beklerler.",
+    "events": [
+     "Koreş'in fermanıyla üç dalga halinde dönüş (Zerubbabil 538 · Ezra 458 · Nehemya 444)",
+     "Tapınak yeniden inşa edilir ve Yeruşalim surları onarılır",
+     "Malaki — Eski Antlaşma kapanır: “habercimi göndereceğim”"
+    ]
+   }
+  },
+  "labels": [
+   "Akdeniz",
+   "Mezopotamya",
+   "Arabistan Çölü",
+   "Mısır"
+  ],
+  "journeys": {
+   "flow": "Kurtuluş öyküsü"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Beytlehem",
+    "book": "Matta 1–2 · Luka 2",
+    "today": "bugün Beytlehem",
+    "note": "Vaat edilen Mesih, Davut'un kentine gelir — Söz insan olur.",
+    "events": [
+     "Davut'un kenti Beytlehem'de doğar",
+     "Melekler haberi çobanlara duyurur",
+     "Müneccimler tapınmaya gelir"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasıra",
+    "book": "Luka 2 · 4",
+    "today": "bugün Nasıra",
+    "note": "Tanrı sıradan bir kasabada bir insan olarak büyür.",
+    "events": [
+     "Bir marangoz evinde büyütülür",
+     "On iki yaşında tapınakta sorup yanıtlar",
+     "Sonradan kendi kasabasının havrasında reddedilir"
+    ]
+   },
+   "jordan": {
+    "name": "Şeria Irmağı",
+    "book": "Matta 3–4",
+    "today": "bugün aşağı Şeria",
+    "note": "Açık hizmeti başlar — gök O'nu Oğul olarak mühürler.",
+    "events": [
+     "Yahya tarafından vaftiz edilir",
+     "Ruh güvercin gibi iner — “Sevgili Oğlum budur”",
+     "Çölde Şeytan'ın üç ayartısını yener"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yuhanna 2",
+    "today": "bugün Kefr Kenna",
+    "note": "İlk belirtisinde yüceliğini açıklar.",
+    "events": [
+     "Bir düğünde konuk olur",
+     "Su şaraba çevrilir — ilk belirtisi",
+     "Öğrencileri O'na iman eder"
+    ]
+   },
+   "sychar": {
+    "name": "Sihar (Samiriye)",
+    "book": "Yuhanna 2–4",
+    "today": "bugün Nablus yakınında",
+    "note": "İlk hizmet yolu — Yeruşalim'den geçerek hor görülen Samiriye'ye.",
+    "events": [
+     "Yeruşalim'de tapınağı temizler",
+     "Geceleyin Nikodim — “Yeniden doğmalısın”",
+     "Bir Samiriyeli kadına yaşam suyu"
+    ]
+   },
+   "capernaum": {
+    "name": "Kefarnahum",
+    "book": "Matta 4–13 · Markos 1–4",
+    "today": "bugün Celile göl kıyısı",
+    "note": "Celile hizmetinin üssü — çağrı, öğretiş ve karşı çıkış burada buluşur.",
+    "events": [
+     "Balıkçıları çağırır ve üssünü buraya kurar",
+     "Dağdaki Vaaz — “Ne mutlu ruhta yoksul olanlara”",
+     "Egemenlik benzetmeleri — ve artan karşı çıkış"
+    ]
+   },
+   "galilee": {
+    "name": "Celile Gölü",
+    "book": "Markos 4 · 6 · Yuhanna 6",
+    "today": "bugün Kineret Gölü",
+    "note": "Doğa üzerindeki gücüyle kim olduğunu gösterir.",
+    "events": [
+     "“Sus, sakin ol” — fırtınayı dindirir",
+     "Beş ekmek ve iki balıkla 5.000 kişiyi doyurur",
+     "Su üstünde yürür"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Filipus Sezariyesi",
+    "book": "Matta 16–17",
+    "today": "bugün Banyas",
+    "note": "Öğrenciler O'nun Mesih olduğunu kavrar ve çarmıhın yolu açılır.",
+    "events": [
+     "Petrus'un açıklaması — “Sen yaşayan Tanrı'nın Oğlu Mesih'sin”",
+     "Ölümünü ve dirilişini ilk kez önceden bildirir",
+     "Dağda yücelikle değişir"
+    ]
+   },
+   "jericho": {
+    "name": "Eriha",
+    "book": "Luka 18–19",
+    "today": "bugün Eriha",
+    "note": "Yeruşalim'e çıkan yolda kaybolanı arar.",
+    "events": [
+     "Kör Bartimay'ın gözlerini açar",
+     "Vergi görevlisi Zakkay'ı çağırır",
+     "“İnsanoğlu, kaybolanı arayıp kurtarmaya geldi”"
+    ]
+   },
+   "bethany": {
+    "name": "Beytanya",
+    "book": "Yuhanna 11–12",
+    "today": "bugün el-Ayzariye",
+    "note": "Son haftasının arifesinde ölüme egemenliğini gösterir.",
+    "events": [
+     "Lazar'ı mezardan diriltir — “Diriliş ve yaşam Ben'im”",
+     "Meryem O'nu gömülmesi için yağlar",
+     "Bu belirti, O'nu öldürme planını sertleştirir"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yeruşalim",
+    "book": "Matta 21–28 · Luka 24 · Elçilerin İşleri 1",
+    "today": "bugün Yeruşalim",
+    "note": "Bütün Kutsal Kitap'ın işaret ettiği doruk — çarmıh, diriliş, göğe alınış.",
+    "events": [
+     "Zafer alayıyla giriş; tapınaktaki masaları yine devirir",
+     "Son Akşam Yemeği'nde öğrencilerinin ayaklarını yıkar",
+     "Çarmıhta ölür",
+     "Üçüncü gün dirilir, sonra göğe alınır"
+    ]
+   }
+  },
+  "labels": [
+   "Akdeniz",
+   "Celile",
+   "Samiriye",
+   "Yahudiye",
+   "Dekapolis",
+   "Perea",
+   "Lut Gölü"
+  ],
+  "journeys": {
+   "life": "İsa'nın yolu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antakya",
+    "book": "Elçilerin İşleri 13 · 15",
+    "today": "bugün Antakya, Türkiye",
+    "note": "Uluslara yönelik misyonun başladığı ve geri döndüğü gönderen kilise.",
+    "events": [
+     "Dua sırasında Ruh, Barnaba ile Saul'u ayırır",
+     "İmanlıların ilk kez ‘Hristiyan’ diye anıldığı kilise",
+     "1., 2. ve 3. yolculukların çıkış noktası"
+    ]
+   },
+   "seleucia": {
+    "name": "Selevkiya",
+    "book": "Elçilerin İşleri 13:4",
+    "today": "bugün Türkiye",
+    "note": "Antakya'nın limanı — Kıbrıs'a yelken açarlar.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Kıbrıs)",
+    "book": "Elçilerin İşleri 13:5",
+    "today": "bugün Kıbrıs",
+    "note": "Kıbrıs'taki ilk durak — havralarda müjdeyi duyururlar.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Baf",
+    "book": "Elçilerin İşleri 13:6-12",
+    "today": "bugün Kıbrıs",
+    "note": "Müjdeye karşı çıkanlara karşı güç gösterilir.",
+    "events": [
+     "Büyücü Elimas kör olur",
+     "Vali Sergius Pavlus iman eder",
+     "Buradan itibaren ‘Pavlus’ öne geçer"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Elçilerin İşleri 13:13",
+    "today": "bugün Antalya, Türkiye",
+    "note": "Pamfilya'da bir liman — burada Markos diye anılan Yuhanna geri döner.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidya Antakyası",
+    "book": "Elçilerin İşleri 13:14-50",
+    "today": "bugün Yalvaç, Türkiye",
+    "note": "Müjde uluslara doğru açılır.",
+    "events": [
+     "Havrada kurtuluş tarihinden uzun bir vaaz",
+     "Birçok uluslardan kişi sevinir ve sözü kabul eder",
+     "Karşı çıkışla kovulurlar"
+    ]
+   },
+   "iconium": {
+    "name": "Konya",
+    "book": "Elçilerin İşleri 14:1-7",
+    "today": "bugün Konya, Türkiye",
+    "note": "Birçoğu iman eder, ama zulüm onları yola sürer.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Elçilerin İşleri 14:8-20",
+    "today": "bugün Türkiye",
+    "note": "Bir tanrı diye yüceltilir, sonra taşlanır.",
+    "events": [
+     "Doğuştan kötürüm bir adamı iyileştirir",
+     "Kalabalık onlara tanrı diye kurban sunmaya çalışır",
+     "Taşlanıp ölü sanılarak bırakılır, ama ayağa kalkar"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Elçilerin İşleri 14:20-21",
+    "today": "bugün Türkiye",
+    "note": "Birçok öğrenci kazanılır; kiliseleri güçlendirmek için yollarını geri izlerler.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Elçilerin İşleri 16:8-10",
+    "today": "bugün Türkiye",
+    "note": "Müjdenin ilk kez Avrupa'ya yöneldiği dönüm noktası.",
+    "events": [
+     "Bir Makedonyalı görümü",
+     "“Gel, bize yardım et”",
+     "Hemen Avrupa'ya geçerler"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Elçilerin İşleri 16 · Filipililer",
+    "today": "bugün kuzey Yunanistan",
+    "note": "Avrupa'nın ilk kilisesi — müjde hapiste bile zafer kazanır.",
+    "events": [
+     "Erguvani kumaş satan Lidya iman eder",
+     "Falcı bir köle kız özgür kılınır",
+     "Gece yarısı ilahiler, deprem, zindancının ev halkı kurtulur"
+    ]
+   },
+   "thess": {
+    "name": "Selanik",
+    "book": "Elçilerin İşleri 17 · 1–2. Selanikliler",
+    "today": "bugün Selanik, Yunanistan",
+    "note": "Söz kenti sarsar ve karşı çıkış taşar.",
+    "events": [
+     "Havrada üç Şabat boyunca tartışır",
+     "“Dünyayı altüst eden bu kişiler”",
+     "Geceleyin oradan uzaklaşırlar"
+    ]
+   },
+   "berea": {
+    "name": "Veriya",
+    "book": "Elçilerin İşleri 17:10-15",
+    "today": "bugün Veriya, Yunanistan",
+    "note": "Sözü kendileri için araştıran ‘soylu’ kişiler.",
+    "events": [
+     "Sözü büyük istekle kabul ederler",
+     "Doğru olup olmadığını anlamak için her gün Kutsal Yazılar'ı incelerler",
+     "Birçoğu iman eder"
+    ]
+   },
+   "athens": {
+    "name": "Atina",
+    "book": "Elçilerin İşleri 17:16-34",
+    "today": "bugün Atina, Yunanistan",
+    "note": "Filozoflar kentinde ‘bilinmeyen tanrı’yı duyurur.",
+    "events": [
+     "Putlarla dolu bir kentten dolayı yüreği sızlar",
+     "Areopagus'ta Yaratıcı'yı ve dirilişi duyurur",
+     "Alaya alınır, yine de birkaç kişi iman eder"
+    ]
+   },
+   "corinth": {
+    "name": "Korint",
+    "book": "Elçilerin İşleri 18 · 1–2. Korintliler",
+    "today": "bugün Yunanistan",
+    "note": "Bir buçuk yıl kalır, ahlaksızlık dolu bir kentte bir kilise kurar.",
+    "events": [
+     "Akvila ve Priskilla ile çadır yapar",
+     "“Korkma… çünkü ben seninleyim”",
+     "Birçok Korintli iman eder ve vaftiz olur"
+    ]
+   },
+   "ephesus": {
+    "name": "Efes",
+    "book": "Elçilerin İşleri 19 · Efesliler",
+    "today": "bugün Selçuk, Türkiye",
+    "note": "Üçüncü yolculuğun kalbi — söz Asya'ya yayılır.",
+    "events": [
+     "Tiranus'un dershanesinde iki yıl boyunca her gün öğretir",
+     "Büyü kitapları yakılır; güçlü işler",
+     "Gümüşçü Dimitrios bir ayaklanma başlatır"
+    ]
+   },
+   "miletus": {
+    "name": "Milet",
+    "book": "Elçilerin İşleri 20:17-38",
+    "today": "bugün Türkiye",
+    "note": "Efes ihtiyarlarıyla gözyaşları içinde veda.",
+    "events": [
+     "“Tanrı'nın kendi kanıyla satın aldığı kiliseye göz kulak olun”",
+     "Onu bir daha göremeyeceklerini bilen ihtiyarlar ağlar"
+    ]
+   },
+   "caesarea": {
+    "name": "Sezariye",
+    "book": "Elçilerin İşleri 23–26",
+    "today": "bugün İsrail kıyısı",
+    "note": "İki yıl boyunca valilerin ve bir kralın önünde müjdeyi savunur.",
+    "events": [
+     "Vali Feliks ve Festus önündeki duruşmalar",
+     "Kral Agrippa önünde savunması",
+     "“Davamın Sezar'a iletilmesini istiyorum” — Roma'ya doğru"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yeruşalim",
+    "book": "Elçilerin İşleri 21–23",
+    "today": "bugün Yeruşalim",
+    "note": "Tapınakta yakalanır, bir tutuklu olarak yolu başlar.",
+    "events": [
+     "Tapınakta kalabalık tarafından yakalanır",
+     "Yüksek Kurul'un önünde kendini savunur",
+     "Bir Roma yurttaşı olarak gözetim altında Sezariye'ye gönderilir"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Elçilerin İşleri 27:5-6",
+    "today": "bugün Demre, Türkiye",
+    "note": "Roma'ya giden bir İskenderiye gemisine geçerler.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Güzel Limanlar (Girit)",
+    "book": "Elçilerin İşleri 27:8-12",
+    "today": "bugün Girit",
+    "note": "Pavlus'un yelken açmayı durdurma uyarısı dinlenmez.",
+    "events": []
+   },
+   "crete": {
+    "name": "Girit",
+    "book": "Titus",
+    "today": "bugün Girit",
+    "note": "Salıverildikten sonra, kiliseleri düzene koymak için Titus'u bıraktığı ada.",
+    "events": [
+     "Her kentte ihtiyarlar ataması için Titus'u bırakır",
+     "Kusursuz, güvenilir önderler ister",
+     "Titus'a mektubu yazar"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Elçilerin İşleri 27–28",
+    "today": "bugün Malta",
+    "note": "Fırtına ve gemi kazasının içinden, Tanrı'nın vaadi tutar.",
+    "events": [
+     "‘Kuzeydoğu’ fırtınası gemiyi parçalar, ama 276 kişinin hepsi sağ kalır",
+     "Bir engereğin ısırığından zarar görmez",
+     "Adanın hastalarını iyileştirir"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuza",
+    "book": "Elçilerin İşleri 28:12",
+    "today": "bugün Sicilya, İtalya",
+    "note": "Sicilya'da üç gün kalırlar.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Elçilerin İşleri 28:13-14",
+    "today": "bugün Pozzuoli, İtalya",
+    "note": "İtalya'ya çıkarlar ve kardeşlerce karşılanırlar.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Elçilerin İşleri 28 · Tutukluluk Mektupları · 2. Timoteos",
+    "today": "bugün Roma, İtalya",
+    "note": "Müjde sonunda imparatorluğun kalbine ulaşır — bir son değil, bir başlangıç.",
+    "events": [
+     "İki yıl ev hapsinde, Tanrı'nın egemenliğini cesaretle duyurur",
+     "Buradan Tutukluluk Mektupları'nı (Ef.·Flp.·Kol.·Flm.) yazar",
+     "Sonradan yeniden hapsedilir, 2. Timoteos'u yazar ve şehit olur — “Yüce mücadeleyi sürdürdüm, yarışı bitirdim”"
+    ]
+   }
+  },
+  "labels": [
+   "Akdeniz",
+   "Ege Denizi",
+   "Anadolu",
+   "Makedonya",
+   "İtalya"
+  ],
+  "journeys": {
+   "j1": "Birinci yolculuk",
+   "j2": "İkinci yolculuk",
+   "j3": "Üçüncü yolculuk",
+   "rome": "Dördüncü yolculuk · Roma'ya",
+   "j5": "Beşinci yolculuk · salıverildikten sonra"
+  }
+ }
+}
