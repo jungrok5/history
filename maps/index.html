@@ -17,9 +17,12 @@
 <link rel="alternate" hreflang="fa" href="https://one-scroll-bible.com/maps/fa/" />
 <link rel="alternate" hreflang="fr" href="https://one-scroll-bible.com/maps/fr/" />
 <link rel="alternate" hreflang="hi" href="https://one-scroll-bible.com/maps/hi/" />
+<link rel="alternate" hreflang="id" href="https://one-scroll-bible.com/maps/id/" />
 <link rel="alternate" hreflang="ja" href="https://one-scroll-bible.com/maps/ja/" />
 <link rel="alternate" hreflang="pt-BR" href="https://one-scroll-bible.com/maps/pt-BR/" />
 <link rel="alternate" hreflang="ru" href="https://one-scroll-bible.com/maps/ru/" />
+<link rel="alternate" hreflang="th" href="https://one-scroll-bible.com/maps/th/" />
+<link rel="alternate" hreflang="tr" href="https://one-scroll-bible.com/maps/tr/" />
 <link rel="alternate" hreflang="ur" href="https://one-scroll-bible.com/maps/ur/" />
 <link rel="alternate" hreflang="vi" href="https://one-scroll-bible.com/maps/vi/" />
 <link rel="alternate" hreflang="zh-Hans" href="https://one-scroll-bible.com/maps/zh-Hans/" />
@@ -151,7 +154,7 @@
 </style>
 </head>
 <body class="ko">
-<script>window.__SUBLANGS__=[["ko","한국어"],["en","English"],["ar","العربية"],["bn","বাংলা"],["de","Deutsch"],["es","Español"],["fa","فارسی"],["fr","Français"],["hi","हिन्दी"],["ja","日本語"],["pt-BR","Português"],["ru","Русский"],["ur","اردو"],["vi","Tiếng Việt"],["zh-Hans","简体中文"],["zh-Hant","繁體中文"]];</script>
+<script>window.__SUBLANGS__=[["ko","한국어"],["en","English"],["ar","العربية"],["bn","বাংলা"],["de","Deutsch"],["es","Español"],["fa","فارسی"],["fr","Français"],["hi","हिन्दी"],["id","Bahasa Indonesia"],["ja","日本語"],["pt-BR","Português"],["ru","Русский"],["th","ไทย"],["tr","Türkçe"],["ur","اردو"],["vi","Tiếng Việt"],["zh-Hans","简体中文"],["zh-Hant","繁體中文"]];</script>
 <div id="topbar">
   <span class="dot"></span><a class="brand" href="/">한눈에 보는 성경 이야기</a>
   <span class="spacer"></span>
@@ -247,9 +250,9 @@ let GEO=null, DATA=null;
 function hydrateUI(p){ PACK=p; const s=p.s||{}; for(const k in T){ if(s[k]!=null) T[k][L]=s[k]; } }
 function hydratePlaces(d){ if(!PACK||!d) return; const P=PACK;
   for(const seg of ['ot','jesus','paul']){ const sg=d[seg], ps=P[seg]; if(!sg||!ps) continue;
-    (sg.places||[]).forEach(pl=>{ const t=ps.places&&ps.places[pl.id]; if(t){ pl[L]=t.name; pl['book_'+L]=t.book; pl['today_'+L]=t.today; pl['note_'+L]=t.note; pl['events_'+L]=t.events||[]; } });
-    (sg.labels||[]).forEach((lb,i)=>{ const t=ps.labels&&ps.labels[i]; if(t!=null) lb[L]=t; });
-    (sg.journeys||[]).forEach(j=>{ const t=ps.journeys&&ps.journeys[j.key]; if(t!=null) j[L]=t; });
+    (sg.places||[]).forEach(pl=>{ const t=ps.places&&ps.places[pl.id]; if(t){ pl['name_'+L]=t.name; pl['book_'+L]=t.book; pl['today_'+L]=t.today; pl['note_'+L]=t.note; pl['events_'+L]=t.events||[]; } });
+    (sg.labels||[]).forEach((lb,i)=>{ const t=ps.labels&&ps.labels[i]; if(t!=null) lb['name_'+L]=t; });
+    (sg.journeys||[]).forEach(j=>{ const t=ps.journeys&&ps.journeys[j.key]; if(t!=null) j['name_'+L]=t; });
   }
 }
 const SVGNS='http://www.w3.org/2000/svg';
@@ -327,7 +330,7 @@ function MapCard(root, key){
   const gLab=el('g');
   (md.labels||[]).forEach(l=>{ const [x,y]=proj(l.lon,l.lat);
     const t=el('text',{x,y,class:l.kind==='sea'?'lbl-sea':'lbl-region','font-size':l.kind==='sea'?22:19});
-    t.textContent=l[L]; gLab.appendChild(t); l._t=t; });
+    t.textContent=l['name_'+L]; gLab.appendChild(t); l._t=t; });
   svg.appendChild(gLab);
 
   const gFull=el('g'); svg.appendChild(gFull);   // faint full route
@@ -385,7 +388,7 @@ function MapCard(root, key){
       // name label: offset to reduce overlap; alternate side
       const dyTop = i%2===0;
       const nm=el('text',{class:'mk-name',x,y:dyTop?y-20:y+32,fill:'var(--ink)'});
-      nm.textContent=pl[L]; g.appendChild(nm);
+      nm.textContent=pl['name_'+L]; g.appendChild(nm);
       g.addEventListener('click',()=>{pause();setStep(i);});
       gMk.appendChild(g); pl._g=g;
     });
@@ -439,7 +442,7 @@ function MapCard(root, key){
     const j=curJ();
     info.querySelector('.inum').textContent=step+1;
     info.querySelector('.inum').style.background=j.color;
-    info.querySelector('h4').textContent=pl[L];
+    info.querySelector('h4').textContent=pl['name_'+L];
     info.querySelector('.iref').innerHTML=bookRefHtml(pl);
     info.querySelector('.inote').textContent=pl['note_'+L]||'';
     const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;');
@@ -450,7 +453,7 @@ function MapCard(root, key){
     $p('.stepc').textContent=(step+1)+' / '+st.length;
     $p('.prev').disabled=step===0;
     $p('.next').disabled=step===st.length-1;
-    const jn=ctrls.querySelector('.jname'); if(jn) jn.textContent=j[L];
+    const jn=ctrls.querySelector('.jname'); if(jn) jn.textContent=j['name_'+L];
   }
 
   function togglePlay(){ playing?pause():play(); }
@@ -468,13 +471,13 @@ function MapCard(root, key){
 
   // relabel on language change
   root._relabel=()=>{
-    (md.labels||[]).forEach(l=>{ if(l._t) l._t.textContent=l[L]; });
+    (md.labels||[]).forEach(l=>{ if(l._t) l._t.textContent=l['name_'+L]; });
     drawRoute(); setStep(step);
-    if(multi) $$('.chip .jl',chips).forEach((s,i)=>s.textContent=md.journeys[i][L]);
+    if(multi) $$('.chip .jl',chips).forEach((s,i)=>s.textContent=md.journeys[i]['name_'+L]);
   };
 
   // init
-  if(multi) $$('.chip .jl',chips).forEach((s,i)=>s.textContent=md.journeys[i][L]);
+  if(multi) $$('.chip .jl',chips).forEach((s,i)=>s.textContent=md.journeys[i]['name_'+L]);
   setJourney(0);
   return root;
 }

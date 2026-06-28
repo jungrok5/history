@@ -36,13 +36,13 @@ for (const lang of ['ko', 'en']) {
     const places = {};
     for (const pl of sg.places || []) {
       places[pl.id] = {
-        name: pl[lang], book: pl['book_' + lang], today: pl['today_' + lang],
+        name: pl['name_'+lang], book: pl['book_' + lang], today: pl['today_' + lang],
         note: pl['note_' + lang], events: pl['events_' + lang] || [],
       };
     }
-    const labels = (sg.labels || []).map(lb => lb[lang]);
+    const labels = (sg.labels || []).map(lb => lb['name_'+lang]);
     const journeys = {};
-    for (const j of sg.journeys || []) journeys[j.key] = j[lang];
+    for (const j of sg.journeys || []) journeys[j.key] = j['name_'+lang];
     pack[seg] = { places, labels, journeys };
   }
   fs.writeFileSync(path.join(root, 'i18n/maps', lang + '.json'), JSON.stringify(pack, null, 1) + '\n');
