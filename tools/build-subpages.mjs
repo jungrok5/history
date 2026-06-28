@@ -16,10 +16,14 @@
 
 import fs from 'fs';
 import path from 'path';
+import crypto from 'crypto';
 import { fileURLToPath } from 'url';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const ORIGIN = 'https://one-scroll-bible.com';
+// short hash of og.png → ?v= cache-bust so social platforms re-fetch when the image changes
+function ogVer() { try { return crypto.createHash('sha256').update(fs.readFileSync(path.join(root, 'og.png'))).digest('hex').slice(0, 8); } catch { return ''; } }
+function bustOg(html) { const v = ogVer(); return v ? html.replace(/(og:image" content="[^"]*\/og\.png)(\?v=[^"]*)?"/g, `$1?v=${v}"`).replace(/(twitter:image" content="[^"]*\/og\.png)(\?v=[^"]*)?"/g, `$1?v=${v}"`) : html; }
 const BRAND = { ko: '한눈에 보는 성경 이야기', en: 'Bible in One Scroll' };
 
 const PAGES = [
@@ -130,7 +134,7 @@ function bakeHead(html, page, lang, langs, get, pack) {
   // hreflang cluster (remove any existing, then inject once after canonical)
   h = h.replace(/[ \t]*<link rel="alternate" hreflang="[^"]*" href="[^"]*" \/>\n?/g, '');
   h = h.replace(/(<link rel="canonical" href="[^"]*" \/>\n)/, `$1${hreflangBlock(slug, langs)}\n`);
-  return h;
+  return bustOg(h);
 }
 
 function setLangAttrs(html, lang, pack) {
@@ -184,6 +188,7 @@ export function bake() {
     h = h.replace(/[ \t]*<link rel="alternate" hreflang="[^"]*" href="[^"]*" \/>\n?/g, '');
     h = h.replace(/(<link rel="canonical" href="[^"]*" \/>\n)/, `$1${hreflangBlock(page.slug, langs)}\n`);
     h = injectGlobals(h, [`window.__SUBLANGS__=${JSON.stringify(subLangList(page.slug))};`]);
+    h = bustOg(h);
     fs.writeFileSync(tplPath, h);
     console.log(`baked ko + hreflang → ${page.file}`);
   }
