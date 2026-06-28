@@ -1,0 +1,636 @@
+{
+ "menuName": "Română",
+ "htmlLang": "ro",
+ "dir": "ltr",
+ "locale": "ro-RO",
+ "brand": "Biblia dintr-o privire",
+ "docTitle": "Biblia pe hartă · Biblia dintr-o privire",
+ "metaDesc": "Urmărește pe o hartă reală cronologia Vechiului Testament, viața lui Isus și călătoriile lui Pavel — Biblia s-a petrecut în locuri reale.",
+ "s": {
+  "kicker": "Biblia dintr-o privire · Hărți",
+  "title": "Biblia pe hartă",
+  "verse": "“For we did not follow cleverly devised myths …” (2 Peter 1:16)",
+  "purpose": "Biblia nu este un mit. Este o consemnare a unor oameni care au umblat în locuri, date și nume reale. Urmărește acele drumuri pe hartă, în ordine cronologică — atinge un punct sau apasă ▶ ca să-l parcurgi pas cu pas.",
+  "ot_kick": "① Vechiul Testament — de-a lungul timpului",
+  "ot_h": "De la creație până la întoarcerea la Ierusalim",
+  "ot_lead": "Nu o singură călătorie, ci curgerea istoriei răscumpărării de la creație înainte: creația și căderea → potopul și Babelul → o chemare (Avraam) → țara promisă → Exodul → pustia → cucerirea → regatul → dezbinarea → exilul → întoarcerea.",
+  "je_kick": "② Noul Testament — viața lui Isus",
+  "je_h": "De la Betleem la Ierusalim",
+  "je_lead": "Urmărește viața lui Isus așa cum o istorisesc evangheliile, în ordine — de la nașterea Sa în Betleem, prin botezul și slujirea din Galileea, peste Samaria, până la cruce, înviere și înălțare la Ierusalim.",
+  "pa_kick": "③ Noul Testament — călătoriile lui Pavel",
+  "pa_h": "De la Antiohia până la marginile pământului — Roma",
+  "pa_lead": "De la Cincizecimea din Ierusalim, cum s-a răspândit evanghelia dincolo de Iudeea — prin Asia Mică și Europa până în inima imperiului. Alege una dintre cele cinci călătorii (1·2·3 + drumul spre Roma + după eliberare) și urmărește evenimentele din Faptele Apostolilor împreună cu epistolele scrise pe parcurs.",
+  "foot": "Surse · Locurile urmează textul biblic și geografia biblică standard (cu nume moderne acolo unde ajută). Țărmurile, râurile și lacurile sunt desenate din date geografice deschise (Natural Earth), simplificate.",
+  "contact": "Întrebări · sugestii — <a id=\"contact\" class=\"mail\">Scrie-ne un e-mail</a>",
+  "play": "Redă",
+  "pause": "Pauză",
+  "today": "Azi:",
+  "verseCite": "2 Petru 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edenul (Creație · Cădere)",
+    "book": "Geneza 1–3",
+    "today": "regiunea Tigru–Eufrat de azi",
+    "note": "Într-o lume făcută „foarte bună”, păcatul intră și rupe legătura dintre Dumnezeu și om.",
+    "events": [
+     "Creația în șase zile — „era foarte bine”",
+     "Omul făcut după chipul lui Dumnezeu",
+     "Căderea și izgonirea din Eden",
+     "Prima promisiune a evangheliei — „sămânța femeii îi va zdrobi capul șarpelui”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Potopul)",
+    "book": "Geneza 6–9",
+    "today": "Muntele Ararat, estul Turciei de azi",
+    "note": "Dumnezeu judecă o lume plină de păcat, dar păstrează viața printr-o singură familie.",
+    "events": [
+     "O lume umplută de stricăciune",
+     "Potopul și corabia lui Noe",
+     "Legământul curcubeului — „nu va mai fi un potop ca să nimicească”"
+    ]
+   },
+   "babel": {
+    "name": "Turnul Babel",
+    "book": "Geneza 11",
+    "today": "Irakul de azi (câmpia Șinear)",
+    "note": "Împotriva mândriei care vrea să ajungă la cer, Dumnezeu le încurcă limba și împrăștie popoarele peste tot pământul.",
+    "events": [
+     "„Să ne zidim o cetate și un turn… și să ne facem un nume”",
+     "Dumnezeu le încurcă limba",
+     "Popoarele se împrăștie peste pământ (Șinear — mai târziu Babilon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Geneza 12",
+    "today": "sudul Irakului de azi",
+    "note": "Povestea răscumpărării din Biblie începe cu chemarea unui singur om.",
+    "events": [
+     "Dumnezeu îl cheamă pe Avram din Ur, din Caldeea",
+     "„Voi face din tine un neam mare… toate familiile binecuvântate în tine”",
+     "Prin credință își părăsește țara"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Geneza 12",
+    "today": "sudul Turciei de azi",
+    "note": "Pe drum, răspunzând chemării către țara promisă.",
+    "events": [
+     "Familia lui Terah se așază în Haran",
+     "Terah moare",
+     "Avram pornește spre Canaan la 75 de ani"
+    ]
+   },
+   "shechem": {
+    "name": "Sihem · Canaan",
+    "book": "Geneza 12–50",
+    "today": "Nablus de azi",
+    "note": "În țara promisă se întemeiază o familie, iar legământul trece din neam în neam.",
+    "events": [
+     "Intrarea în Canaan, primul altar — „seminței tale îi voi da țara aceasta”",
+     "Legământul (Geneza 15) · Isaac · Iacov",
+     "Cei doisprezece fii ai lui Iacov — rădăcina celor douăsprezece seminții"
+    ]
+   },
+   "egypt": {
+    "name": "Egipt (Gosen)",
+    "book": "Geneza 37–50 · Exodul 1",
+    "today": "Delta Nilului, Egiptul de azi",
+    "note": "O familie devine un neam mare — apoi un neam de robi.",
+    "events": [
+     "Iosif, vândut, ajunge să conducă Egiptul",
+     "Toată familia lui Iacov coboară ca să scape de foamete",
+     "Neamul lui Israel, tot mai mare, este robit"
+    ]
+   },
+   "sinai": {
+    "name": "Muntele Sinai",
+    "book": "Exodul · Leviticul",
+    "today": "Peninsula Sinai de azi",
+    "note": "Cea mai mare răscumpărare a VT — robii devin poporul lui Dumnezeu.",
+    "events": [
+     "Cele zece urgii și mielul de Paște",
+     "Marea Roșie se desparte și trec prin ea",
+     "Cele Zece Porunci, Legea, cortul și jertfele"
+    ]
+   },
+   "kadesh": {
+    "name": "Cades (pustia)",
+    "book": "Numeri · Deuteronomul",
+    "today": "pustia Sinai–Neghev de azi",
+    "note": "Necredința costă o generație țara — dar Dumnezeu rămâne cu ei.",
+    "events": [
+     "Cei doisprezece iscoade — dar poporul refuză să se încreadă",
+     "38 de ani în pustie — mana, norul și focul",
+     "În câmpiile Moabului, ultima predică a lui Moise (Deuteronomul)"
+    ]
+   },
+   "jericho": {
+    "name": "Ierihon",
+    "book": "Iosua",
+    "today": "Ierihonul de azi",
+    "note": "În sfârșit intră și iau în stăpânire țara promisă.",
+    "events": [
+     "Iordanul se desparte și poporul trece",
+     "Zidurile Ierihonului se prăbușesc",
+     "Cucerirea Canaanului și împărțirea țării"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Judecătorii)",
+    "book": "Judecătorii · Rut",
+    "today": "Khirbet Seilun de azi",
+    "note": "Fără împărat, fiecare face ce-i place — e nevoie de un adevărat împărat.",
+    "events": [
+     "Cortul este așezat la Silo",
+     "Ciclul de păcat–asuprire–salvare (Debora, Ghedeon, Samson)",
+     "Rut — credincioșie în zile întunecate, în linia lui David"
+    ]
+   },
+   "jerusalem": {
+    "name": "Ierusalim · Regatul unit",
+    "book": "1–2 Samuel · 1 Împărați",
+    "today": "Ierusalimul de azi",
+    "note": "Epoca de aur a lui Israel — și promisiunea unui împărat veșnic.",
+    "events": [
+     "Saul, primul împărat, apoi David și Goliat",
+     "Legământul cu David — „tronul tău pe vecie” (2 Samuel 7)",
+     "Solomon zidește templul din Ierusalim"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Regatul divizat",
+    "book": "Împărați · Profeții",
+    "today": "Sebastia de azi",
+    "note": "Regatul se rupe și decade, în timp ce profeții strigă.",
+    "events": [
+     "După Solomon, ruperea în Iuda și Israel",
+     "Idolatrie repetată",
+     "Ilie, Isaia, Ieremia strigă „întoarceți-vă” — și Îl vestesc pe Mesia"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "2 Împărați 17 · Iona",
+    "today": "Mosul, Irakul de azi",
+    "note": "Nesocotind orice avertisment, nordul cade cel dintâi.",
+    "events": [
+     "Ninive, capitala Asiriei",
+     "Regatul de nord cade înaintea Asiriei (722 î.Hr.)",
+     "Iona este trimis la Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilon",
+    "book": "2 Împărați 25 · Daniel · Ezechiel",
+    "today": "Hilla, Irakul de azi",
+    "note": "Noaptea cea mai întunecată — totuși promisiunea restaurării rămâne.",
+    "events": [
+     "Ierusalimul cade, templul este ars (586 î.Hr.)",
+     "Iuda este dus în robie la Babilon",
+     "Daniel și Ezechiel — credință și viziuni în exil"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Estera · Neemia",
+    "today": "Shush, Iranul de azi",
+    "note": "Chiar și în inima unui imperiu păgân, Dumnezeu Își păstrează poporul.",
+    "events": [
+     "Persia răstoarnă Babilonul",
+     "Estera salvează pe iudei de la nimicire",
+     "Neemia se roagă înaintea împăratului și este trimis"
+    ]
+   },
+   "return": {
+    "name": "Întoarcerea la Ierusalim",
+    "book": "Ezra · Neemia · Maleahi",
+    "today": "Ierusalimul de azi",
+    "note": "Se întorc și reconstruiesc — dar niciun împărat nu a venit. Îl așteaptă pe Mesia.",
+    "events": [
+     "Trei valuri de întoarcere prin decretul lui Cirus (Zorobabel 538 · Ezra 458 · Neemia 444)",
+     "Templul rezidit și zidurile Ierusalimului refăcute",
+     "Maleahi — VT se încheie: „Iată, voi trimite pe solul Meu”"
+    ]
+   }
+  },
+  "labels": [
+   "Marea Mediterană",
+   "Mesopotamia",
+   "Deșertul Arabiei",
+   "Egipt"
+  ],
+  "journeys": {
+   "flow": "Povestea răscumpărării"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betleem",
+    "book": "Matei 1–2 · Luca 2",
+    "today": "Betleemul de azi",
+    "note": "Mesia cel promis vine în cetatea lui David — Cuvântul făcut trup.",
+    "events": [
+     "Născut în Betleem, cetatea lui David",
+     "Îngerii vestesc păstorilor",
+     "Magii vin să I se închine"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Luca 2 · 4",
+    "today": "Nazaretul de azi",
+    "note": "Dumnezeu crește ca om într-un oraș obișnuit.",
+    "events": [
+     "Crescut în casa unui tâmplar",
+     "La doisprezece ani, întrebând și răspunzând în templu",
+     "Mai târziu, respins în sinagoga din orașul Său"
+    ]
+   },
+   "jordan": {
+    "name": "Râul Iordan",
+    "book": "Matei 3–4",
+    "today": "Iordanul inferior de azi",
+    "note": "Slujirea Sa publică începe — cerul Îl pecetluiește ca Fiu.",
+    "events": [
+     "Botezat de Ioan",
+     "Duhul Se coboară ca un porumbel — „Acesta este Fiul Meu preaiubit”",
+     "Biruie cele trei ispite ale Satanei în pustie"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "Ioan 2",
+    "today": "Kafr Kanna de azi",
+    "note": "În primul Său semn Își descoperă slava.",
+    "events": [
+     "Oaspete la o nuntă",
+     "Apa prefăcută în vin — primul Său semn",
+     "Ucenicii Lui cred în El"
+    ]
+   },
+   "sychar": {
+    "name": "Sihar (Samaria)",
+    "book": "Ioan 2–4",
+    "today": "lângă Nablus de azi",
+    "note": "Drumul slujirii dintâi — prin Ierusalim și apoi spre Samaria cea disprețuită.",
+    "events": [
+     "Curăță templul din Ierusalim",
+     "Noaptea, Nicodim — „Trebuie să te naști din nou”",
+     "Apă vie pentru o femeie samariteancă"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Matei 4–13 · Marcu 1–4",
+    "today": "țărmul Galileii de azi",
+    "note": "Baza slujirii din Galileea — chemarea, învățătura și împotrivirea se întâlnesc aici.",
+    "events": [
+     "Cheamă pescarii și își face aici baza",
+     "Predica de pe munte — „Ferice de cei săraci în duh”",
+     "Pildele Împărăției — și împotrivirea care crește"
+    ]
+   },
+   "galilee": {
+    "name": "Marea Galileii",
+    "book": "Marcu 4 · 6 · Ioan 6",
+    "today": "Lacul Kineret de azi",
+    "note": "Cu putere asupra firii, arată cine este.",
+    "events": [
+     "„Taci! Fără gură!” — potolește furtuna",
+     "Hrănește 5.000 cu cinci pâini și doi pești",
+     "Umblă pe apă"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cezareea lui Filip",
+    "book": "Matei 16–17",
+    "today": "Banias de azi",
+    "note": "Ucenicii înțeleg că El este Hristosul, și se deschide calea crucii.",
+    "events": [
+     "Mărturisirea lui Petru — „Tu ești Hristosul, Fiul Dumnezeului celui viu”",
+     "Vestește întâia oară moartea și învierea Sa",
+     "Schimbat la față în slavă pe munte"
+    ]
+   },
+   "jericho": {
+    "name": "Ierihon",
+    "book": "Luca 18–19",
+    "today": "Ierihonul de azi",
+    "note": "Pe drumul în sus spre Ierusalim, caută pe cel pierdut.",
+    "events": [
+     "Dă vedere orbului Bartimeu",
+     "Îl cheamă pe Zacheu, vameșul",
+     "„Fiul omului a venit să caute și să mântuiască ce era pierdut”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Ioan 11–12",
+    "today": "al-Eizariya de azi",
+    "note": "Își arată stăpânirea asupra morții în ajunul ultimei Sale săptămâni.",
+    "events": [
+     "Îl învie pe Lazăr din mormânt — „Eu sunt învierea și viața”",
+     "Maria Îl unge pentru îngropare",
+     "Acest semn întărește uneltirea de a-L ucide"
+    ]
+   },
+   "jerusalem": {
+    "name": "Ierusalim",
+    "book": "Matei 21–28 · Luca 24 · Faptele Apostolilor 1",
+    "today": "Ierusalimul de azi",
+    "note": "Punctul culminant spre care arată toată Biblia — crucea, învierea, înălțarea.",
+    "events": [
+     "Intrarea triumfală; răstoarnă din nou mesele din templu",
+     "La cina cea de taină spală picioarele ucenicilor",
+     "Moare pe cruce",
+     "Înviat a treia zi, apoi înălțat"
+    ]
+   }
+  },
+  "labels": [
+   "Marea Mediterană",
+   "Galileea",
+   "Samaria",
+   "Iudeea",
+   "Decapole",
+   "Pereea",
+   "Marea Moartă"
+  ],
+  "journeys": {
+   "life": "Drumul lui Isus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiohia",
+    "book": "Faptele Apostolilor 13 · 15",
+    "today": "Antakya, Turcia de azi",
+    "note": "Biserica trimițătoare de unde începe și se întoarce misiunea către neamuri.",
+    "events": [
+     "În rugăciune, Duhul îi pune deoparte pe Barnaba și Saul",
+     "Biserica unde ucenicii au fost numiți întâi „creștini”",
+     "Punctul de plecare al primei, celei de-a doua și celei de-a treia călătorii"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Faptele Apostolilor 13:4",
+    "today": "Turcia de azi",
+    "note": "Portul Antiohiei — pornesc pe mare spre Cipru.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamina (Cipru)",
+    "book": "Faptele Apostolilor 13:5",
+    "today": "Ciprul de azi",
+    "note": "Primul popas în Cipru — vestind în sinagogi.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Faptele Apostolilor 13:6-12",
+    "today": "Ciprul de azi",
+    "note": "Se arată putere împotriva celor ce se împotrivesc evangheliei.",
+    "events": [
+     "Vrăjitorul Elima este lovit cu orbire",
+     "Proconsulul Sergius Paulus crede",
+     "De aici „Pavel” preia conducerea"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Faptele Apostolilor 13:13",
+    "today": "Antalya, Turcia de azi",
+    "note": "Un port în Pamfilia — aici Ioan Marcu se întoarce înapoi.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiohia Pisidiei",
+    "book": "Faptele Apostolilor 13:14-50",
+    "today": "Yalvaç, Turcia de azi",
+    "note": "Evanghelia se deschide larg către neamuri.",
+    "events": [
+     "O predică lungă despre istoria mântuirii în sinagogă",
+     "Mulți dintre neamuri se bucură și primesc cuvântul",
+     "Izgoniți de împotrivire"
+    ]
+   },
+   "iconium": {
+    "name": "Iconia",
+    "book": "Faptele Apostolilor 14:1-7",
+    "today": "Konya, Turcia de azi",
+    "note": "Mulți cred, dar prigoana îi silește să meargă mai departe.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Faptele Apostolilor 14:8-20",
+    "today": "Turcia de azi",
+    "note": "Cinstit ca un zeu, apoi împroșcat cu pietre.",
+    "events": [
+     "Vindecă un om olog din naștere",
+     "Mulțimea încearcă să le aducă jertfe ca unor zei",
+     "Împroșcat cu pietre și lăsat ca mort, se ridică"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Faptele Apostolilor 14:20-21",
+    "today": "Turcia de azi",
+    "note": "Mulți sunt făcuți ucenici; se întorc pe urmele lor ca să întărească bisericile.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troa",
+    "book": "Faptele Apostolilor 16:8-10",
+    "today": "Turcia de azi",
+    "note": "Cotitura în care evanghelia se îndreaptă întâi spre Europa.",
+    "events": [
+     "O vedenie cu un om din Macedonia",
+     "„Treci în Macedonia și ajută-ne”",
+     "Trec îndată în Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Faptele Apostolilor 16 · Filipeni",
+    "today": "nordul Greciei de azi",
+    "note": "Prima biserică din Europa — evanghelia biruie chiar și în temniță.",
+    "events": [
+     "Lidia, vânzătoare de purpură, crede",
+     "O roabă cu duh de ghicire este eliberată",
+     "Cântări la miezul nopții, un cutremur, casa temnicerului mântuită"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonic",
+    "book": "Faptele Apostolilor 17 · 1–2 Tesaloniceni",
+    "today": "Salonic, Grecia de azi",
+    "note": "Cuvântul zguduie cetatea și împotrivirea dă în clocot.",
+    "events": [
+     "Vorbește în sinagogă trei sâmbete",
+     "„Aceștia care au răscolit lumea”",
+     "Se strecoară afară noaptea"
+    ]
+   },
+   "berea": {
+    "name": "Bereea",
+    "book": "Faptele Apostolilor 17:10-15",
+    "today": "Veria, Grecia de azi",
+    "note": "Cei „cu inimă aleasă” care au cercetat ei înșiși cuvântul.",
+    "events": [
+     "Primesc cuvântul cu toată râvna",
+     "Cercetează zilnic Scripturile ca să verifice",
+     "Mulți ajung să creadă"
+    ]
+   },
+   "athens": {
+    "name": "Atena",
+    "book": "Faptele Apostolilor 17:16-34",
+    "today": "Atena, Grecia de azi",
+    "note": "În cetatea filozofilor vestește „dumnezeul necunoscut”.",
+    "events": [
+     "Mâhnit de o cetate plină de idoli",
+     "În Areopag predică pe Creatorul și învierea",
+     "Batjocorit, totuși câțiva cred"
+    ]
+   },
+   "corinth": {
+    "name": "Corint",
+    "book": "Faptele Apostolilor 18 · 1–2 Corinteni",
+    "today": "Grecia de azi",
+    "note": "Rămâne un an și jumătate, întemeind o biserică într-o cetate a desfrâului.",
+    "events": [
+     "Face corturi împreună cu Acuila și Priscila",
+     "„Nu te teme… căci Eu sunt cu tine”",
+     "Mulți corinteni cred și sunt botezați"
+    ]
+   },
+   "ephesus": {
+    "name": "Efes",
+    "book": "Faptele Apostolilor 19 · Efeseni",
+    "today": "Selçuk, Turcia de azi",
+    "note": "Inima celei de-a treia călătorii — cuvântul se răspândește prin toată Asia.",
+    "events": [
+     "Învață zilnic, doi ani, în școala lui Tiran",
+     "Cărți de vrăjitorie arse; lucrări puternice",
+     "Argintarul Dimitrie stârnește o răzmeriță"
+    ]
+   },
+   "miletus": {
+    "name": "Milet",
+    "book": "Faptele Apostolilor 20:17-38",
+    "today": "Turcia de azi",
+    "note": "Un rămas-bun cu lacrimi de la prezbiterii din Efes.",
+    "events": [
+     "„Păstoriți biserica pe care a câștigat-o cu însuși sângele Său”",
+     "Prezbiterii plâng, știind că nu-l vor mai vedea"
+    ]
+   },
+   "caesarea": {
+    "name": "Cezareea",
+    "book": "Faptele Apostolilor 23–26",
+    "today": "coasta Israelului de azi",
+    "note": "Doi ani apără evanghelia înaintea unor dregători și a unui împărat.",
+    "events": [
+     "Judecăți înaintea dregătorilor Felix și Festus",
+     "Apărarea sa înaintea împăratului Agripa",
+     "„Cer să fiu judecat de Cezar” — spre Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Ierusalim",
+    "book": "Faptele Apostolilor 21–23",
+    "today": "Ierusalimul de azi",
+    "note": "Prins în templu, începe drumul său de întemnițat.",
+    "events": [
+     "Prins de mulțime în templu",
+     "Se apără înaintea soborului",
+     "Ca cetățean roman, trimis sub pază la Cezareea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Faptele Apostolilor 27:5-6",
+    "today": "Demre, Turcia de azi",
+    "note": "Trec pe o corabie din Alexandria care merge spre Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Limanuri-Bune (Creta)",
+    "book": "Faptele Apostolilor 27:8-12",
+    "today": "Creta de azi",
+    "note": "Avertismentul lui Pavel de a nu mai pleca pe mare nu este ascultat.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tit",
+    "today": "Creta de azi",
+    "note": "După eliberare, insula unde îl lasă pe Tit ca să pună în rânduială bisericile.",
+    "events": [
+     "Îl lasă pe Tit ca să așeze prezbiteri în fiecare cetate",
+     "Cere conducători fără prihană și credincioși",
+     "Scrie epistola către Tit"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Faptele Apostolilor 27–28",
+    "today": "Malta de azi",
+    "note": "Prin furtună și naufragiu, promisiunea lui Dumnezeu ține.",
+    "events": [
+     "Vântul „de miazănoapte-răsărit” sfărâmă corabia, totuși toți cei 276 scapă",
+     "Mușcat de o viperă, rămâne nevătămat",
+     "Vindecă pe bolnavii insulei"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracuza",
+    "book": "Faptele Apostolilor 28:12",
+    "today": "Sicilia, Italia de azi",
+    "note": "Rămân trei zile în Sicilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Faptele Apostolilor 28:13-14",
+    "today": "Pozzuoli, Italia de azi",
+    "note": "Debarcă în Italia și sunt întâmpinați de frați credincioși.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Faptele Apostolilor 28 · Epistolele din temniță · 2 Timotei",
+    "today": "Roma, Italia de azi",
+    "note": "Evanghelia ajunge în sfârșit în inima imperiului — nu un sfârșit, ci un început.",
+    "events": [
+     "Doi ani în arest la domiciliu, vestind cu îndrăzneală Împărăția",
+     "De aici scrie Epistolele din temniță (Efeseni·Filipeni·Coloseni·Filimon)",
+     "Mai târziu întemnițat din nou, scrie 2 Timotei și este martirizat — „M-am luptat lupta cea bună, mi-am isprăvit alergarea”"
+    ]
+   }
+  },
+  "labels": [
+   "Marea Mediterană",
+   "Marea Egee",
+   "Asia Mică",
+   "Macedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Prima călătorie",
+   "j2": "A doua călătorie",
+   "j3": "A treia călătorie",
+   "rome": "A patra călătorie · spre Roma",
+   "j5": "A cincea călătorie · după eliberare"
+  }
+ }
+}

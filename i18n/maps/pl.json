@@ -1,0 +1,636 @@
+{
+ "menuName": "Polski",
+ "htmlLang": "pl",
+ "dir": "ltr",
+ "locale": "pl-PL",
+ "brand": "Biblia w jednym przewinięciu",
+ "docTitle": "Biblia na mapie · Biblia w jednym przewinięciu",
+ "metaDesc": "Prześledź na prawdziwej mapie linię czasu Starego Testamentu, życie Jezusa i podróże Pawła — Biblia działa się w rzeczywistych miejscach.",
+ "s": {
+  "kicker": "Biblia w jednym przewinięciu · Mapy",
+  "title": "Biblia na mapie",
+  "verse": "“Albowiem nie baśni jakich misternie wymyślonych naśladując, uczyniliśmy wam znajomą Pana naszego, Jezusa Chrystusa moc i przyjście, ale jako ci, którzyśmy oczami naszemi widzieli wielmożność jego.” (2 Piotra 1:16)",
+  "purpose": "Biblia nie jest mitem. Jest zapisem ludzi, którzy chodzili po prawdziwych miejscach, w prawdziwych datach i pod prawdziwymi imionami. Prześledź te ścieżki na mapie, w porządku czasu — dotknij punktu lub naciśnij ▶, by przejść przez nie krok po kroku.",
+  "ot_kick": "① Stary Testament — przez czas",
+  "ot_h": "Od stworzenia do powrotu do Jeruzalem",
+  "ot_lead": "Nie jedna podróż, lecz bieg historii zbawienia od stworzenia: stworzenie i upadek → potop i Babel → powołanie (Abraham) → ziemia obiecana → wyjście → pustynia → podbój → królestwo → podział → wygnanie → powrót.",
+  "je_kick": "② Nowy Testament — życie Jezusa",
+  "je_h": "Od Betlejem do Jeruzalem",
+  "je_lead": "Idź za życiem Jezusa, tak jak opowiadają je ewangelie, po kolei — od narodzin w Betlejem przez chrzest i służbę w Galilei, przez Samarię, aż po krzyż, zmartwychwstanie i wniebowstąpienie w Jeruzalem.",
+  "pa_kick": "③ Nowy Testament — podróże Pawła",
+  "pa_h": "Z Antiochii aż po krańce ziemi — do Rzymu",
+  "pa_lead": "Od Pięćdziesiątnicy w Jeruzalem — jak ewangelia rozszerzyła się poza Judeę, przez Azję Mniejszą i Europę aż po serce imperium. Wybierz jedną z pięciu podróży (1·2·3 + rejs do Rzymu + po uwolnieniu) i śledź wydarzenia z Dziejów Apostolskich wraz z listami pisanymi po drodze.",
+  "foot": "Źródła · Miejsca podążają za tekstem biblijnym i standardową geografią biblijną (z nowoczesnymi nazwami tam, gdzie to pomocne). Linie brzegowe, rzeki i jeziora narysowano na podstawie otwartych danych geograficznych (Natural Earth), uproszczonych.",
+  "contact": "Pytania · uwagi — <a id=\"contact\" class=\"mail\">Napisz e-mail</a>",
+  "play": "Odtwórz",
+  "pause": "Pauza",
+  "today": "Dziś:",
+  "verseCite": "2 Piotra 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (stworzenie · upadek)",
+    "book": "I Mojżeszowa 1–3",
+    "today": "dziś okolice Tygrysu i Eufratu",
+    "note": "W świat uczyniony bardzo dobrym wchodzi grzech i zrywa więź między Bogiem a człowiekiem.",
+    "events": [
+     "Stworzenie w sześć dni — „było bardzo dobre”",
+     "Człowiek uczyniony na obraz Boży",
+     "Upadek i wygnanie z Edenu",
+     "Pierwsza obietnica ewangelii — „nasienie niewiasty zetrze głowę węża”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (potop)",
+    "book": "I Mojżeszowa 6–9",
+    "today": "dziś góra Ararat, wschodnia Turcja",
+    "note": "Bóg sądzi świat pełen grzechu, a jednak zachowuje życie przez jedną rodzinę.",
+    "events": [
+     "Świat napełniony zepsuciem",
+     "Potop i arka Noego",
+     "Przymierze tęczy — „nie będzie więcej potopu na zgubę”"
+    ]
+   },
+   "babel": {
+    "name": "Wieża Babel",
+    "book": "I Mojżeszowa 11",
+    "today": "dziś Irak (równina Synear)",
+    "note": "Wobec pychy sięgającej nieba Bóg miesza ich mowę i rozprasza ludy po ziemi.",
+    "events": [
+     "„Zbudujmy sobie miasto i wieżę… a uczyńmy sobie imię”",
+     "Bóg miesza ich język",
+     "Ludy rozpraszają się po ziemi (Synear — później Babilon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "I Mojżeszowa 12",
+    "today": "dziś południowy Irak",
+    "note": "Biblijna historia odkupienia zaczyna się od powołania jednego człowieka.",
+    "events": [
+     "Bóg powołuje Abrama z Ur Chaldejskiego",
+     "„Uczynię cię w naród wielki… w tobie będą błogosławione wszystkie narody”",
+     "Z wiary opuszcza swą ojczyznę"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "I Mojżeszowa 12",
+    "today": "dziś południowa Turcja",
+    "note": "W drodze, odpowiadając na powołanie ku ziemi obiecanej.",
+    "events": [
+     "Rodzina Tarego osiedla się w Haranie",
+     "Tare umiera",
+     "Abram w wieku 75 lat wyrusza do Kanaanu"
+    ]
+   },
+   "shechem": {
+    "name": "Sychem · Kanaan",
+    "book": "I Mojżeszowa 12–50",
+    "today": "dziś Nablus",
+    "note": "W ziemi obiecanej rodzi się rodzina, a przymierze przechodzi z pokolenia na pokolenie.",
+    "events": [
+     "Wejście do Kanaanu, pierwszy ołtarz — „nasieniu twemu dam tę ziemię”",
+     "Przymierze (I Mojż. 15) · Izaak · Jakub",
+     "Dwunastu synów Jakuba — korzeń dwunastu plemion"
+    ]
+   },
+   "egypt": {
+    "name": "Egipt (Goszen)",
+    "book": "I Mojżeszowa 37–50 · II Mojżeszowa 1",
+    "today": "dziś delta Nilu, Egipt",
+    "note": "Rodzina staje się wielkim narodem — a potem narodem niewolników.",
+    "events": [
+     "Józef, sprzedany, wynosi się do władzy w Egipcie",
+     "Cała rodzina Jakuba schodzi tam, by ujść głodowi",
+     "Rosnący naród Izraela zostaje wzięty w niewolę"
+    ]
+   },
+   "sinai": {
+    "name": "Góra Synaj",
+    "book": "II Mojżeszowa · III Mojżeszowa",
+    "today": "dziś Półwysep Synaj",
+    "note": "Centralny ratunek Starego Testamentu — niewolnicy stają się własnym ludem Boga.",
+    "events": [
+     "Dziesięć plag i baranek paschalny",
+     "Morze Czerwone rozstępuje się i przechodzą na drugą stronę",
+     "Dziesięć Przykazań, prawo, przybytek i ofiary"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (pustynia)",
+    "book": "IV Mojżeszowa · V Mojżeszowa",
+    "today": "dziś pustynia Synaj–Negew",
+    "note": "Niewiara kosztuje całe pokolenie utratę ziemi — a jednak Bóg z nimi zostaje.",
+    "events": [
+     "Dwunastu szpiegów — ale lud odmawia zaufania",
+     "38 lat na pustyni — manna, obłok i ogień",
+     "Na równinach Moabu ostatnie kazanie Mojżesza (V Mojżeszowa)"
+    ]
+   },
+   "jericho": {
+    "name": "Jerycho",
+    "book": "Jozuego",
+    "today": "dziś Jerycho",
+    "note": "Nareszcie wchodzą i zdobywają ziemię obiecaną.",
+    "events": [
+     "Jordan rozstępuje się i lud przechodzi",
+     "Mury Jerycha padają",
+     "Podbój Kanaanu i podział ziemi"
+    ]
+   },
+   "shiloh": {
+    "name": "Sylo (sędziowie)",
+    "book": "Sędziów · Rut",
+    "today": "dziś Khirbet Seilun",
+    "note": "Bez króla każdy czyni, co mu się podoba — potrzeba prawdziwego króla.",
+    "events": [
+     "Przybytek zostaje ustawiony w Sylo",
+     "Cykl grzech–ucisk–ratunek (Debora, Gedeon, Samson)",
+     "Rut — wierność w mrocznych dniach, w linii Dawida"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalem · zjednoczone królestwo",
+    "book": "1–2 Samuelowa · 1 Królewska",
+    "today": "dziś Jerozolima",
+    "note": "Złoty wiek Izraela — i obietnica wiecznego króla.",
+    "events": [
+     "Saul pierwszym królem, potem Dawid i Goliat",
+     "Przymierze z Dawidem — „tron twój na wieki” (2 Sam. 7)",
+     "Salomon buduje świątynię w Jeruzalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · podzielone królestwo",
+    "book": "Królewska · prorocy",
+    "today": "dziś Sebastia",
+    "note": "Królestwo rozpada się i podupada, gdy wołają prorocy.",
+    "events": [
+     "Po Salomonie podział na Judę i Izrael",
+     "Powtarzające się bałwochwalstwo",
+     "Eliasz, Izajasz, Jeremiasz wołają „nawróćcie się” — i zapowiadają Mesjasza"
+    ]
+   },
+   "nineveh": {
+    "name": "Niniwa (Asyria)",
+    "book": "2 Królewska 17 · Jonasz",
+    "today": "dziś Mosul, Irak",
+    "note": "Lekceważąc wszelkie ostrzeżenia, północ pada pierwsza.",
+    "events": [
+     "Niniwa, stolica Asyrii",
+     "Królestwo północne pada przed Asyrią (722 p.n.e.)",
+     "Jonasz zostaje posłany do Niniwy"
+    ]
+   },
+   "babylon": {
+    "name": "Babilon",
+    "book": "2 Królewska 25 · Daniel · Ezechiel",
+    "today": "dziś Al-Hilla, Irak",
+    "note": "Najciemniejsza noc — a jednak obietnica odnowienia trwa.",
+    "events": [
+     "Jeruzalem pada, świątynia zostaje spalona (586 p.n.e.)",
+     "Juda zostaje uprowadzona do Babilonu",
+     "Daniel i Ezechiel — wiara i wizje na wygnaniu"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persja)",
+    "book": "Estery · Nehemiasza",
+    "today": "dziś Szusz, Iran",
+    "note": "Nawet w sercu pogańskiego imperium Bóg zachowuje swój lud.",
+    "events": [
+     "Persja obala Babilon",
+     "Estera ratuje Żydów od zagłady",
+     "Nehemiasz modli się przed królem i zostaje posłany"
+    ]
+   },
+   "return": {
+    "name": "Powrót do Jeruzalem",
+    "book": "Ezdrasza · Nehemiasza · Malachiasza",
+    "today": "dziś Jerozolima",
+    "note": "Wracają i odbudowują — lecz żaden król nie przyszedł. Oczekują Mesjasza.",
+    "events": [
+     "Trzy fale powrotu na mocy dekretu Cyrusa (Zorobabel 538 · Ezdrasz 458 · Nehemiasz 444)",
+     "Świątynia odbudowana i mury Jeruzalem naprawione",
+     "Malachiasz — Stary Testament się zamyka: „Oto Ja posyłam Anioła mego”"
+    ]
+   }
+  },
+  "labels": [
+   "Morze Śródziemne",
+   "Mezopotamia",
+   "Pustynia Arabska",
+   "Egipt"
+  ],
+  "journeys": {
+   "flow": "Historia odkupienia"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlejem",
+    "book": "Ewangelia Mateusza 1–2 · Ewangelia Łukasza 2",
+    "today": "dziś Betlejem",
+    "note": "Obiecany Mesjasz przychodzi do miasta Dawidowego — Słowo, które stało się ciałem.",
+    "events": [
+     "Narodzony w Betlejem, mieście Dawidowym",
+     "Aniołowie ogłaszają nowinę pasterzom",
+     "Mędrcy przychodzą oddać pokłon"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Ewangelia Łukasza 2 · 4",
+    "today": "dziś Nazaret",
+    "note": "Bóg dorasta jako człowiek w zwyczajnym miasteczku.",
+    "events": [
+     "Wychowany w domu cieśli",
+     "W wieku dwunastu lat pyta i odpowiada w świątyni",
+     "Później odrzucony w synagodze swego rodzinnego miasta"
+    ]
+   },
+   "jordan": {
+    "name": "Rzeka Jordan",
+    "book": "Ewangelia Mateusza 3–4",
+    "today": "dziś dolny bieg Jordanu",
+    "note": "Zaczyna się Jego publiczna służba — niebo potwierdza Go jako Syna.",
+    "events": [
+     "Ochrzczony przez Jana",
+     "Duch zstępuje jak gołębica — „Ten jest Syn mój miły”",
+     "Pokonuje trzy pokusy szatana na pustyni"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Ewangelia Jana 2",
+    "today": "dziś Kafr Kanna",
+    "note": "W swym pierwszym znaku objawia swoją chwałę.",
+    "events": [
+     "Gość na weselu",
+     "Woda przemieniona w wino — Jego pierwszy znak",
+     "Jego uczniowie weń uwierzyli"
+    ]
+   },
+   "sychar": {
+    "name": "Sychar (Samaria)",
+    "book": "Ewangelia Jana 2–4",
+    "today": "dziś blisko Nablus",
+    "note": "Droga wczesnej służby — przez Jeruzalem aż do wzgardzonej Samarii.",
+    "events": [
+     "Oczyszcza świątynię w Jeruzalem",
+     "Nocą Nikodem — „musicie się znowu narodzić”",
+     "Woda żywa dla Samarytanki"
+    ]
+   },
+   "capernaum": {
+    "name": "Kafarnaum",
+    "book": "Ewangelia Mateusza 4–13 · Ewangelia Marka 1–4",
+    "today": "dziś brzeg Jeziora Galilejskiego",
+    "note": "Baza służby w Galilei — powołanie, nauczanie i sprzeciw spotykają się tutaj.",
+    "events": [
+     "Powołuje rybaków i czyni tu swą bazę",
+     "Kazanie na górze — „Błogosławieni ubodzy w duchu”",
+     "Przypowieści o królestwie — i narastający sprzeciw"
+    ]
+   },
+   "galilee": {
+    "name": "Jezioro Galilejskie",
+    "book": "Ewangelia Marka 4 · 6 · Ewangelia Jana 6",
+    "today": "dziś jezioro Kinneret",
+    "note": "Mocą nad naturą pokazuje, kim jest.",
+    "events": [
+     "„Umilknij, a uśmierz się” — ucisza burzę",
+     "Karmi 5000 pięcioma chlebami i dwiema rybami",
+     "Chodzi po wodzie"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cezarea Filipowa",
+    "book": "Ewangelia Mateusza 16–17",
+    "today": "dziś Banias",
+    "note": "Uczniowie pojmują, że jest Chrystusem, i otwiera się droga krzyża.",
+    "events": [
+     "Wyznanie Piotra — „Tyś jest Chrystus, Syn Boga żywego”",
+     "Po raz pierwszy zapowiada swą śmierć i zmartwychwstanie",
+     "Przemieniony w chwale na górze"
+    ]
+   },
+   "jericho": {
+    "name": "Jerycho",
+    "book": "Ewangelia Łukasza 18–19",
+    "today": "dziś Jerycho",
+    "note": "W drodze w górę do Jeruzalem szuka tego, co zginęło.",
+    "events": [
+     "Przywraca wzrok ślepemu Bartymeuszowi",
+     "Powołuje celnika Zacheusza",
+     "„Syn człowieczy przyszedł, aby szukał i zachował, co było zginęło”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Ewangelia Jana 11–12",
+    "today": "dziś Al-Eizariya",
+    "note": "Ukazuje władzę nad śmiercią w przededniu swego ostatniego tygodnia.",
+    "events": [
+     "Wskrzesza Łazarza z grobu — „Jam jest zmartwychwstanie i żywot”",
+     "Maria namaszcza Go na pogrzeb",
+     "Ten znak utwierdza spisek, by Go zabić"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalem",
+    "book": "Ewangelia Mateusza 21–28 · Ewangelia Łukasza 24 · Dzieje Apostolskie 1",
+    "today": "dziś Jerozolima",
+    "note": "Punkt szczytowy, ku któremu wskazuje cała Biblia — krzyż, zmartwychwstanie, wniebowstąpienie.",
+    "events": [
+     "Wjazd triumfalny; znów wywraca stoły w świątyni",
+     "Przy ostatniej wieczerzy umywa uczniom nogi",
+     "Umiera na krzyżu",
+     "Wzbudzony trzeciego dnia, potem wniebowzięty"
+    ]
+   }
+  },
+  "labels": [
+   "Morze Śródziemne",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Dekapol",
+   "Perea",
+   "Morze Martwe"
+  ],
+  "journeys": {
+   "life": "Droga Jezusa"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiochia",
+    "book": "Dzieje Apostolskie 13 · 15",
+    "today": "dziś Antakya, Turcja",
+    "note": "Kościół posyłający, z którego rozpoczyna się i do którego wraca misja do pogan.",
+    "events": [
+     "W modlitwie Duch oddziela Barnabasza i Saula",
+     "Kościół, gdzie uczniów najpierw nazwano „chrześcijanami”",
+     "Punkt startowy 1., 2. i 3. podróży"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucja",
+    "book": "Dzieje Apostolskie 13:4",
+    "today": "dziś Turcja",
+    "note": "Port Antiochii — wypływają na Cypr.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamina (Cypr)",
+    "book": "Dzieje Apostolskie 13:5",
+    "today": "dziś Cypr",
+    "note": "Pierwszy przystanek na Cyprze — głoszą w synagogach.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Dzieje Apostolskie 13:6-12",
+    "today": "dziś Cypr",
+    "note": "Moc okazana wobec tych, którzy sprzeciwiają się ewangelii.",
+    "events": [
+     "Czarnoksiężnik Elimas zostaje rażony ślepotą",
+     "Prokonsul Sergiusz Paweł wierzy",
+     "Stąd „Paweł” obejmuje przewodnictwo"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Dzieje Apostolskie 13:13",
+    "today": "dziś Antalya, Turcja",
+    "note": "Port w Pamfilii — tu Jan Marek zawraca.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiochia Pizydyjska",
+    "book": "Dzieje Apostolskie 13:14-50",
+    "today": "dziś Yalvaç, Turcja",
+    "note": "Ewangelia otwiera się ku poganom.",
+    "events": [
+     "Długie kazanie o historii zbawienia w synagodze",
+     "Wielu pogan raduje się i przyjmuje słowo",
+     "Wypędzeni przez sprzeciw"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonium",
+    "book": "Dzieje Apostolskie 14:1-7",
+    "today": "dziś Konya, Turcja",
+    "note": "Wielu wierzy, lecz prześladowanie zmusza ich do dalszej drogi.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Dzieje Apostolskie 14:8-20",
+    "today": "dziś Turcja",
+    "note": "Najpierw wzięty za boga, potem ukamienowany.",
+    "events": [
+     "Uzdrawia człowieka chromego od urodzenia",
+     "Tłum próbuje złożyć im ofiarę jak bogom",
+     "Ukamienowany i zostawiony jak martwy, wstaje"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Dzieje Apostolskie 14:20-21",
+    "today": "dziś Turcja",
+    "note": "Czynią wielu uczniów; zawracają, by umocnić kościoły.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troada",
+    "book": "Dzieje Apostolskie 16:8-10",
+    "today": "dziś Turcja",
+    "note": "Punkt zwrotny, gdzie ewangelia po raz pierwszy kieruje się do Europy.",
+    "events": [
+     "Widzenie Macedończyka",
+     "„Przepraw się do Macedonii, a ratuj nas”",
+     "Natychmiast przeprawiają się do Europy"
+    ]
+   },
+   "philippi": {
+    "name": "Filippi",
+    "book": "Dzieje Apostolskie 16 · Filipensów",
+    "today": "dziś północna Grecja",
+    "note": "Pierwszy kościół Europy — ewangelia zwycięża nawet w więzieniu.",
+    "events": [
+     "Lidia, sprzedająca purpurę, wierzy",
+     "Niewolnica wieszcząca z ducha zostaje uwolniona",
+     "Pieśni o północy, trzęsienie ziemi, zbawiony dom stróża więzienia"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Dzieje Apostolskie 17 · 1–2 Tesalonicensów",
+    "today": "dziś Saloniki, Grecja",
+    "note": "Słowo wstrząsa miastem, a sprzeciw wzbiera.",
+    "events": [
+     "Rozprawia w synagodze przez trzy sabaty",
+     "„Ci, co wszystek świat wzruszyli”",
+     "Wymykają się nocą"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Dzieje Apostolskie 17:10-15",
+    "today": "dziś Weria, Grecja",
+    "note": "„Szlachetniejsi”, którzy sami badali słowo.",
+    "events": [
+     "Przyjmują słowo z całą ochotą",
+     "Codziennie badają Pisma, czy tak się rzeczy mają",
+     "Wielu przychodzi do wiary"
+    ]
+   },
+   "athens": {
+    "name": "Ateny",
+    "book": "Dzieje Apostolskie 17:16-34",
+    "today": "dziś Ateny, Grecja",
+    "note": "W mieście filozofów głosi „nieznanego Boga”.",
+    "events": [
+     "Poruszony miastem pełnym bałwanów",
+     "Na Areopagu głosi Stwórcę i zmartwychwstanie",
+     "Wyśmiany, a jednak kilku uwierzyło"
+    ]
+   },
+   "corinth": {
+    "name": "Korynt",
+    "book": "Dzieje Apostolskie 18 · 1–2 Koryntów",
+    "today": "dziś Grecja",
+    "note": "Zostaje półtora roku, zakładając kościół w mieście rozpusty.",
+    "events": [
+     "Wyrabia namioty z Akwilą i Pryscyllą",
+     "„Nie bój się… bom Ja jest z tobą”",
+     "Wielu Koryntian wierzy i przyjmuje chrzest"
+    ]
+   },
+   "ephesus": {
+    "name": "Efez",
+    "book": "Dzieje Apostolskie 19 · Efezów",
+    "today": "dziś Selçuk, Turcja",
+    "note": "Serce trzeciej podróży — słowo rozszerza się po całej Azji.",
+    "events": [
+     "Codzienne nauczanie przez dwa lata w szkole Tyranna",
+     "Spalone księgi czarnoksięskie; potężne cuda",
+     "Złotnik Demetriusz wszczyna rozruch"
+    ]
+   },
+   "miletus": {
+    "name": "Milet",
+    "book": "Dzieje Apostolskie 20:17-38",
+    "today": "dziś Turcja",
+    "note": "Pełne łez pożegnanie ze starszymi z Efezu.",
+    "events": [
+     "„Paście kościół, który nabył krwią swoją”",
+     "Starsi płaczą, wiedząc, że już go nie ujrzą"
+    ]
+   },
+   "caesarea": {
+    "name": "Cezarea",
+    "book": "Dzieje Apostolskie 23–26",
+    "today": "dziś wybrzeże Izraela",
+    "note": "Przez dwa lata broni ewangelii przed namiestnikami i królem.",
+    "events": [
+     "Procesy przed namiestnikami Feliksem i Festusem",
+     "Jego obrona przed królem Agryppą",
+     "„Odwołuję się do cesarza” — w drogę do Rzymu"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalem",
+    "book": "Dzieje Apostolskie 21–23",
+    "today": "dziś Jerozolima",
+    "note": "Pojmany w świątyni, zaczyna swą drogę jako więzień.",
+    "events": [
+     "Pojmany przez tłum w świątyni",
+     "Broni się przed radą",
+     "Jako obywatel rzymski, odesłany pod strażą do Cezarei"
+    ]
+   },
+   "myra": {
+    "name": "Myra",
+    "book": "Dzieje Apostolskie 27:5-6",
+    "today": "dziś Demre, Turcja",
+    "note": "Przesiadają się na aleksandryjski okręt płynący do Rzymu.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Piękne Porty (Kreta)",
+    "book": "Dzieje Apostolskie 27:8-12",
+    "today": "dziś Kreta",
+    "note": "Ostrzeżenie Pawła, by zaprzestać żeglugi, zostaje zlekceważone.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Tytusa",
+    "today": "dziś Kreta",
+    "note": "Po uwolnieniu wyspa, na której zostawia Tytusa, by uporządkował kościoły.",
+    "events": [
+     "Zostawia Tytusa, by ustanowił starszych w każdym mieście",
+     "Wzywa do nienagannych, wiernych przełożonych",
+     "Pisze list do Tytusa"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Dzieje Apostolskie 27–28",
+    "today": "dziś Malta",
+    "note": "Przez burzę i rozbicie okrętu obietnica Boża się ostaje.",
+    "events": [
+     "Wicher „eurokliton” rozbija okręt, lecz ocala wszystkich 276",
+     "Ukąszony przez żmiję, pozostaje nietknięty",
+     "Uzdrawia chorych wyspy"
+    ]
+   },
+   "syracuse": {
+    "name": "Syrakuzy",
+    "book": "Dzieje Apostolskie 28:12",
+    "today": "dziś Sycylia, Włochy",
+    "note": "Zostają trzy dni na Sycylii.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Dzieje Apostolskie 28:13-14",
+    "today": "dziś Pozzuoli, Włochy",
+    "note": "Lądują we Włoszech i spotykają współwierzących.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rzym",
+    "book": "Dzieje Apostolskie 28 · listy więzienne · 2 Tymoteusza",
+    "today": "dziś Rzym, Włochy",
+    "note": "Ewangelia dociera wreszcie do serca imperium — nie koniec, lecz początek.",
+    "events": [
+     "Dwa lata w areszcie domowym, śmiało głosząc królestwo",
+     "Stąd pisze listy więzienne (Ef·Flp·Kol·Flm)",
+     "Później znów uwięziony, pisze 2 Tymoteusza i ponosi męczeństwo — „Dobrym bojem bojowałem, biegem wykonał”"
+    ]
+   }
+  },
+  "labels": [
+   "Morze Śródziemne",
+   "Morze Egejskie",
+   "Azja Mniejsza",
+   "Macedonia",
+   "Włochy"
+  ],
+  "journeys": {
+   "j1": "Pierwsza podróż",
+   "j2": "Druga podróż",
+   "j3": "Trzecia podróż",
+   "rome": "Czwarta podróż · do Rzymu",
+   "j5": "Piąta podróż · po uwolnieniu"
+  }
+ }
+}

@@ -1,0 +1,636 @@
+{
+ "menuName": "Italiano",
+ "htmlLang": "it",
+ "dir": "ltr",
+ "locale": "it-IT",
+ "brand": "La Bibbia in un solo scorrimento",
+ "docTitle": "La Bibbia sulla mappa · La Bibbia in un solo scorrimento",
+ "metaDesc": "Segui su una mappa reale la cronologia dell'Antico Testamento, la vita di Gesù e i viaggi di Paolo: la Bibbia è avvenuta in luoghi reali.",
+ "s": {
+  "kicker": "La Bibbia in un solo scorrimento · Mappe",
+  "title": "La Bibbia sulla mappa",
+  "verse": "“Infatti vi abbiamo fatto conoscere la potenza e la venuta del nostro Signore Gesù Cristo, non perché siamo andati dietro a favole abilmente inventate, ma perché siamo stati testimoni oculari della sua maestà.” (2 Pietro 1:16)",
+  "purpose": "La Bibbia non è un mito. È il resoconto di persone che camminarono in luoghi, date e nomi reali. Segui quei percorsi su una mappa, in ordine di tempo: tocca un punto, oppure premi ▶ per ripercorrerlo passo dopo passo.",
+  "ot_kick": "① Antico Testamento — attraverso il tempo",
+  "ot_h": "Dalla creazione al ritorno a Gerusalemme",
+  "ot_lead": "Non un solo viaggio, ma il fluire della storia della salvezza fin dalla creazione: creazione e caduta → diluvio e Babele → una chiamata (Abraamo) → la terra promessa → l'Esodo → il deserto → la conquista → il regno → la divisione → l'esilio → il ritorno.",
+  "je_kick": "② Nuovo Testamento — la vita di Gesù",
+  "je_h": "Da Betlemme a Gerusalemme",
+  "je_lead": "Segui la vita di Gesù come la raccontano i vangeli, in ordine: dalla nascita a Betlemme attraverso il battesimo e il ministero in Galilea, passando per la Samaria, fino alla croce, alla risurrezione e all'ascensione a Gerusalemme.",
+  "pa_kick": "③ Nuovo Testamento — i viaggi di Paolo",
+  "pa_h": "Da Antiochia fino ai confini della terra — Roma",
+  "pa_lead": "Dalla Pentecoste a Gerusalemme, come il vangelo si diffuse oltre la Giudea: attraverso l'Asia Minore e l'Europa fino al cuore dell'impero. Scegli uno dei cinque viaggi (1º·2º·3º + la traversata verso Roma + dopo la liberazione) e segui i fatti degli Atti con le lettere scritte lungo il cammino.",
+  "foot": "Fonti · I luoghi seguono il testo biblico e la geografia biblica consueta (con i nomi moderni dove utile). Coste, fiumi e laghi sono tratti da dati geografici aperti (Natural Earth), semplificati.",
+  "contact": "Domande · commenti — <a id=\"contact\" class=\"mail\">Scrivici un'email</a>",
+  "play": "Avvia",
+  "pause": "Pausa",
+  "today": "Oggi:",
+  "verseCite": "2 Pietro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Creazione · Caduta)",
+    "book": "Genesi 1–3",
+    "today": "oggi la regione del Tigri-Eufrate",
+    "note": "In un mondo creato molto buono entra il peccato e si spezza il legame tra Dio e l'uomo.",
+    "events": [
+     "Creazione in sei giorni — «era molto buono»",
+     "L'uomo fatto a immagine di Dio",
+     "La caduta e la cacciata dall'Eden",
+     "La prima promessa del vangelo — «la progenie della donna ti schiaccerà il capo»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (il Diluvio)",
+    "book": "Genesi 6–9",
+    "today": "oggi il monte Ararat, Turchia orientale",
+    "note": "Dio giudica un mondo pieno di peccato, eppure preserva la vita per mezzo di una sola famiglia.",
+    "events": [
+     "Un mondo pieno di corruzione",
+     "Il diluvio e l'arca di Noè",
+     "Il patto dell'arcobaleno — «mai più un diluvio che distrugga»"
+    ]
+   },
+   "babel": {
+    "name": "La torre di Babele",
+    "book": "Genesi 11",
+    "today": "oggi l'Iraq (la pianura di Scinar)",
+    "note": "Contro l'orgoglio che vuole arrivare al cielo, Dio confonde le lingue e disperde i popoli sulla terra.",
+    "events": [
+     "«Costruiamoci una città e una torre… e facciamoci un nome»",
+     "Dio confonde la loro lingua",
+     "I popoli si disperdono sulla terra (Scinar — poi Babilonia)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesi 12",
+    "today": "oggi l'Iraq meridionale",
+    "note": "La storia di redenzione della Bibbia comincia con la chiamata di un solo uomo.",
+    "events": [
+     "Dio chiama Abramo fuori da Ur dei Caldei",
+     "«Io farò di te una grande nazione… in te saranno benedette tutte le famiglie»",
+     "Per fede lascia la sua terra"
+    ]
+   },
+   "haran": {
+    "name": "Caran",
+    "book": "Genesi 12",
+    "today": "oggi la Turchia meridionale",
+    "note": "Lungo il cammino, rispondendo alla chiamata verso la terra promessa.",
+    "events": [
+     "La famiglia di Tera si stabilisce a Caran",
+     "Tera muore",
+     "Abramo parte per Canaan all'età di 75 anni"
+    ]
+   },
+   "shechem": {
+    "name": "Sichem · Canaan",
+    "book": "Genesi 12–50",
+    "today": "oggi Nablus",
+    "note": "Nella terra promessa si fonda una famiglia e il patto passa di generazione in generazione.",
+    "events": [
+     "Entrando in Canaan, il primo altare — «alla tua progenie darò questo paese»",
+     "Il patto (Genesi 15) · Isacco · Giacobbe",
+     "I dodici figli di Giacobbe — radice delle dodici tribù"
+    ]
+   },
+   "egypt": {
+    "name": "Egitto (Gosen)",
+    "book": "Genesi 37–50 · Esodo 1",
+    "today": "oggi il delta del Nilo, Egitto",
+    "note": "Una famiglia diventa una grande nazione — poi una nazione di schiavi.",
+    "events": [
+     "Giuseppe, venduto, sale a governare l'Egitto",
+     "Tutta la famiglia di Giacobbe scende per sfuggire alla carestia",
+     "La nazione crescente d'Israele è resa schiava"
+    ]
+   },
+   "sinai": {
+    "name": "Monte Sinai",
+    "book": "Esodo · Levitico",
+    "today": "oggi la penisola del Sinai",
+    "note": "Il salvataggio centrale dell'AT — gli schiavi diventano il popolo di Dio.",
+    "events": [
+     "Le dieci piaghe e l'agnello della Pasqua",
+     "Il Mar Rosso si apre e lo attraversano",
+     "I Dieci Comandamenti, la legge, il tabernacolo e i sacrifici"
+    ]
+   },
+   "kadesh": {
+    "name": "Cades (deserto)",
+    "book": "Numeri · Deuteronomio",
+    "today": "oggi il deserto del Sinai-Neghev",
+    "note": "L'incredulità costa una generazione la terra — eppure Dio resta con loro.",
+    "events": [
+     "Dodici esploratori — ma il popolo rifiuta di credere",
+     "38 anni nel deserto — manna, nuvola e fuoco",
+     "Nelle pianure di Moab, l'ultimo discorso di Mosè (Deuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Gerico",
+    "book": "Giosuè",
+    "today": "oggi Gerico",
+    "note": "Finalmente entrano e prendono la terra promessa.",
+    "events": [
+     "Il Giordano si apre e il popolo lo attraversa",
+     "Le mura di Gerico cadono",
+     "Conquista di Canaan e divisione della terra"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Giudici)",
+    "book": "Giudici · Rut",
+    "today": "oggi Khirbet Seilun",
+    "note": "Senza re, ognuno fa quello che gli pare — serve un vero re.",
+    "events": [
+     "Il tabernacolo è eretto a Silo",
+     "Il ciclo di peccato–oppressione–salvezza (Debora, Gedeone, Sansone)",
+     "Rut — fedeltà in tempi oscuri, nella discendenza di Davide"
+    ]
+   },
+   "jerusalem": {
+    "name": "Gerusalemme · Regno unito",
+    "book": "1–2 Samuele · 1 Re",
+    "today": "oggi Gerusalemme",
+    "note": "L'età dell'oro d'Israele — e la promessa di un re eterno.",
+    "events": [
+     "Saul il primo re, poi Davide e Golia",
+     "Il patto con Davide — «il tuo trono per sempre» (2 Samuele 7)",
+     "Salomone costruisce il tempio a Gerusalemme"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Regno diviso",
+    "book": "Re · i Profeti",
+    "today": "oggi Sebastia",
+    "note": "Il regno si divide e decade mentre i profeti gridano.",
+    "events": [
+     "Dopo Salomone, la divisione in Giuda e Israele",
+     "Idolatria ripetuta",
+     "Elia, Isaia, Geremia gridano «tornate» — e annunciano il Messia"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Assiria)",
+    "book": "2 Re 17 · Giona",
+    "today": "oggi Mosul, Iraq",
+    "note": "Ignorando ogni avvertimento, il nord cade per primo.",
+    "events": [
+     "Ninive, la capitale dell'Assiria",
+     "Il regno del nord cade davanti all'Assiria (722 a.C.)",
+     "Giona è mandato a Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilonia",
+    "book": "2 Re 25 · Daniele · Ezechiele",
+    "today": "oggi Hilla, Iraq",
+    "note": "La notte più oscura — eppure resta la promessa di restaurazione.",
+    "events": [
+     "Gerusalemme cade, il tempio è bruciato (586 a.C.)",
+     "Giuda è deportato a Babilonia",
+     "Daniele ed Ezechiele — fede e visioni nell'esilio"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Ester · Neemia",
+    "today": "oggi Shush, Iran",
+    "note": "Persino nel cuore di un impero pagano, Dio custodisce il suo popolo.",
+    "events": [
+     "La Persia rovescia Babilonia",
+     "Ester salva gli ebrei dallo sterminio",
+     "Neemia prega davanti al re ed è mandato"
+    ]
+   },
+   "return": {
+    "name": "Ritorno a Gerusalemme",
+    "book": "Esdra · Neemia · Malachia",
+    "today": "oggi Gerusalemme",
+    "note": "Tornano e ricostruiscono — ma nessun re è venuto. Attendono il Messia.",
+    "events": [
+     "Tre ondate di ritorno per il decreto di Ciro (Zorobabele 538 · Esdra 458 · Neemia 444)",
+     "Il tempio ricostruito e le mura di Gerusalemme riparate",
+     "Malachia — l'AT si chiude: «Io mando il mio messaggero»"
+    ]
+   }
+  },
+  "labels": [
+   "Mar Mediterraneo",
+   "Mesopotamia",
+   "Deserto Arabico",
+   "Egitto"
+  ],
+  "journeys": {
+   "flow": "La storia della redenzione"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlemme",
+    "book": "Matteo 1–2 · Luca 2",
+    "today": "oggi Betlemme",
+    "note": "Il Messia promesso viene alla città di Davide — la Parola fatta carne.",
+    "events": [
+     "Nato a Betlemme, la città di Davide",
+     "Gli angeli annunciano la notizia ai pastori",
+     "I magi vengono ad adorare"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Luca 2 · 4",
+    "today": "oggi Nazaret",
+    "note": "Dio cresce come uomo in una città qualunque.",
+    "events": [
+     "Cresciuto nella casa di un falegname",
+     "A dodici anni, domanda e risponde nel tempio",
+     "Poi rifiutato nella sinagoga della sua città"
+    ]
+   },
+   "jordan": {
+    "name": "Fiume Giordano",
+    "book": "Matteo 3–4",
+    "today": "oggi il basso Giordano",
+    "note": "Comincia il suo ministero pubblico — il cielo lo conferma come Figlio.",
+    "events": [
+     "Battezzato da Giovanni",
+     "Lo Spirito scende come una colomba — «Questo è il mio Figlio diletto»",
+     "Vince le tre tentazioni di Satana nel deserto"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "Giovanni 2",
+    "today": "oggi Kafr Kanna",
+    "note": "Nel suo primo segno manifesta la sua gloria.",
+    "events": [
+     "Ospite a un matrimonio",
+     "L'acqua mutata in vino — il suo primo segno",
+     "I suoi discepoli credono in lui"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Giovanni 2–4",
+    "today": "oggi vicino a Nablus",
+    "note": "La strada del primo ministero — attraverso Gerusalemme e fino alla disprezzata Samaria.",
+    "events": [
+     "Purifica il tempio a Gerusalemme",
+     "Di notte, Nicodemo — «Bisogna nascere di nuovo»",
+     "Acqua viva per una donna samaritana"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Matteo 4–13 · Marco 1–4",
+    "today": "oggi la riva del lago di Galilea",
+    "note": "Base del ministero in Galilea — chiamata, insegnamento e opposizione si incontrano qui.",
+    "events": [
+     "Chiama i pescatori e vi stabilisce la sua base",
+     "Il sermone sul monte — «Beati i poveri in spirito»",
+     "Le parabole del regno — e l'opposizione che cresce"
+    ]
+   },
+   "galilee": {
+    "name": "Mare di Galilea",
+    "book": "Marco 4 · 6 · Giovanni 6",
+    "today": "oggi il lago di Tiberiade",
+    "note": "Con il potere sulla natura mostra chi è.",
+    "events": [
+     "«Taci, calmati» — placa la tempesta",
+     "Sfama 5.000 persone con cinque pani e due pesci",
+     "Cammina sulle acque"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea di Filippo",
+    "book": "Matteo 16–17",
+    "today": "oggi Banias",
+    "note": "I discepoli comprendono che è il Cristo, e si apre la via della croce.",
+    "events": [
+     "La confessione di Pietro — «Tu sei il Cristo, il Figlio del Dio vivente»",
+     "Annuncia per la prima volta la sua morte e risurrezione",
+     "Trasfigurato in gloria sul monte"
+    ]
+   },
+   "jericho": {
+    "name": "Gerico",
+    "book": "Luca 18–19",
+    "today": "oggi Gerico",
+    "note": "Sulla strada verso Gerusalemme, cerca i perduti.",
+    "events": [
+     "Ridà la vista al cieco Bartimeo",
+     "Chiama Zaccheo l'esattore delle tasse",
+     "«Il Figlio dell'uomo è venuto per cercare e salvare ciò che era perduto»"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Giovanni 11–12",
+    "today": "oggi al-Eizariya",
+    "note": "Mostra il suo dominio sulla morte alla vigilia dell'ultima settimana.",
+    "events": [
+     "Risuscita Lazzaro dal sepolcro — «Io sono la risurrezione e la vita»",
+     "Maria lo unge per la sepoltura",
+     "Questo segno indurisce il complotto per ucciderlo"
+    ]
+   },
+   "jerusalem": {
+    "name": "Gerusalemme",
+    "book": "Matteo 21–28 · Luca 24 · Atti 1",
+    "today": "oggi Gerusalemme",
+    "note": "Il culmine verso cui punta tutta la Bibbia — croce, risurrezione, ascensione.",
+    "events": [
+     "Ingresso trionfale; rovescia di nuovo i banchi del tempio",
+     "All'ultima cena lava i piedi ai discepoli",
+     "Muore sulla croce",
+     "Risorto il terzo giorno, poi salito al cielo"
+    ]
+   }
+  },
+  "labels": [
+   "Mar Mediterraneo",
+   "Galilea",
+   "Samaria",
+   "Giudea",
+   "Decapoli",
+   "Perea",
+   "Mar Morto"
+  ],
+  "journeys": {
+   "life": "Il cammino di Gesù"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiochia",
+    "book": "Atti 13 · 15",
+    "today": "oggi Antakya, Turchia",
+    "note": "La chiesa che invia, da cui parte e a cui torna la missione tra i gentili.",
+    "events": [
+     "Nella preghiera lo Spirito mette a parte Barnaba e Saulo",
+     "La chiesa dove i credenti furono chiamati per la prima volta «cristiani»",
+     "Punto di partenza del 1º, 2º e 3º viaggio"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Atti 13:4",
+    "today": "oggi la Turchia",
+    "note": "Il porto di Antiochia — salpano verso Cipro.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamina (Cipro)",
+    "book": "Atti 13:5",
+    "today": "oggi Cipro",
+    "note": "Prima tappa a Cipro — predicano nelle sinagoghe.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Atti 13:6-12",
+    "today": "oggi Cipro",
+    "note": "Si manifesta la potenza contro chi si oppone al vangelo.",
+    "events": [
+     "Il mago Elima è colpito da cecità",
+     "Il proconsole Sergio Paolo crede",
+     "Da qui «Paolo» prende la guida"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Atti 13:13",
+    "today": "oggi Antalya, Turchia",
+    "note": "Un porto in Panfilia — qui Giovanni Marco torna indietro.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiochia di Pisidia",
+    "book": "Atti 13:14-50",
+    "today": "oggi Yalvaç, Turchia",
+    "note": "Il vangelo si apre verso i gentili.",
+    "events": [
+     "Un lungo sermone sulla storia della salvezza nella sinagoga",
+     "Molti gentili si rallegrano e accolgono la parola",
+     "Cacciati dall'opposizione"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Atti 14:1-7",
+    "today": "oggi Konya, Turchia",
+    "note": "Molti credono, ma la persecuzione li costringe ad andare oltre.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Atti 14:8-20",
+    "today": "oggi la Turchia",
+    "note": "Acclamato come un dio, poi lapidato.",
+    "events": [
+     "Guarisce un uomo zoppo dalla nascita",
+     "La folla cerca di offrire loro sacrifici come a dèi",
+     "Lapidato e lasciato per morto, si rialza"
+    ]
+   },
+   "derbe": {
+    "name": "Derba",
+    "book": "Atti 14:20-21",
+    "today": "oggi la Turchia",
+    "note": "Si fanno molti discepoli; ripercorrono i loro passi per fortificare le chiese.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Atti 16:8-10",
+    "today": "oggi la Turchia",
+    "note": "La svolta in cui il vangelo si dirige per la prima volta verso l'Europa.",
+    "events": [
+     "La visione di un uomo della Macedonia",
+     "«Vieni in Macedonia e aiutaci»",
+     "Passano subito in Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filippi",
+    "book": "Atti 16 · Filippesi",
+    "today": "oggi la Grecia settentrionale",
+    "note": "La prima chiesa d'Europa — il vangelo trionfa persino in prigione.",
+    "events": [
+     "Lidia, commerciante di porpora, crede",
+     "Una serva indovina è liberata",
+     "Inni a mezzanotte, un terremoto, la casa del carceriere salvata"
+    ]
+   },
+   "thess": {
+    "name": "Tessalonica",
+    "book": "Atti 17 · 1–2 Tessalonicesi",
+    "today": "oggi Salonicco, Grecia",
+    "note": "La parola scuote la città e l'opposizione esplode.",
+    "events": [
+     "Ragiona nella sinagoga per tre sabati",
+     "«Questi che hanno messo sottosopra il mondo»",
+     "Se ne vanno di notte"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Atti 17:10-15",
+    "today": "oggi Veria, Grecia",
+    "note": "I «nobili» che esaminarono da sé la parola.",
+    "events": [
+     "Accolgono la parola con entusiasmo",
+     "Ogni giorno esaminano le Scritture per verificare",
+     "Molti giungono a credere"
+    ]
+   },
+   "athens": {
+    "name": "Atene",
+    "book": "Atti 17:16-34",
+    "today": "oggi Atene, Grecia",
+    "note": "Nella città dei filosofi annuncia il «dio sconosciuto».",
+    "events": [
+     "Indignato da una città piena di idoli",
+     "Sull'Areopago predica il Creatore e la risurrezione",
+     "Deriso, eppure alcuni credono"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Atti 18 · 1–2 Corinzi",
+    "today": "oggi la Grecia",
+    "note": "Resta un anno e mezzo, fondando una chiesa in una città di vizio.",
+    "events": [
+     "Fabbrica tende con Aquila e Priscilla",
+     "«Non temere… perché io sono con te»",
+     "Molti corinzi credono e sono battezzati"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Atti 19 · Efesini",
+    "today": "oggi Selçuk, Turchia",
+    "note": "Cuore del terzo viaggio — la parola si diffonde in tutta l'Asia.",
+    "events": [
+     "Insegnamento quotidiano per due anni nella scuola di Tiranno",
+     "Libri di magia bruciati; opere potenti",
+     "L'argentiere Demetrio scatena un tumulto"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Atti 20:17-38",
+    "today": "oggi la Turchia",
+    "note": "Un addio in lacrime agli anziani di Efeso.",
+    "events": [
+     "«Pascete la chiesa che egli ha acquistata con il proprio sangue»",
+     "Gli anziani piangono, sapendo che non lo rivedranno più"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Atti 23–26",
+    "today": "oggi la costa d'Israele",
+    "note": "Per due anni difende il vangelo davanti a governatori e a un re.",
+    "events": [
+     "Processi davanti ai governatori Felice e Festo",
+     "La sua difesa davanti al re Agrippa",
+     "«Mi appello a Cesare» — verso Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Gerusalemme",
+    "book": "Atti 21–23",
+    "today": "oggi Gerusalemme",
+    "note": "Catturato nel tempio, comincia il suo cammino da prigioniero.",
+    "events": [
+     "Catturato dalla folla nel tempio",
+     "Si difende davanti al sinedrio",
+     "Come cittadino romano, mandato sotto scorta a Cesarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Atti 27:5-6",
+    "today": "oggi Demre, Turchia",
+    "note": "Passano su una nave di Alessandria diretta a Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Beiporti (Creta)",
+    "book": "Atti 27:8-12",
+    "today": "oggi Creta",
+    "note": "L'avvertimento di Paolo di non salpare resta inascoltato.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tito",
+    "today": "oggi Creta",
+    "note": "Dopo la liberazione, l'isola dove lascia Tito a mettere in ordine le chiese.",
+    "events": [
+     "Lascia Tito a costituire anziani in ogni città",
+     "Chiede guide irreprensibili e fedeli",
+     "Scrive la lettera a Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Atti 27–28",
+    "today": "oggi Malta",
+    "note": "Attraverso tempesta e naufragio, la promessa di Dio tiene saldo.",
+    "events": [
+     "Il vento «Euraquilone» distrugge la nave, eppure tutti i 276 si salvano",
+     "Morso da una vipera, resta illeso",
+     "Guarisce i malati dell'isola"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Atti 28:12",
+    "today": "oggi la Sicilia, Italia",
+    "note": "Restano tre giorni in Sicilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Pozzuoli",
+    "book": "Atti 28:13-14",
+    "today": "oggi Pozzuoli, Italia",
+    "note": "Sbarcano in Italia e sono accolti da fratelli nella fede.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Atti 28 · Lettere della prigionia · 2 Timoteo",
+    "today": "oggi Roma, Italia",
+    "note": "Il vangelo raggiunge finalmente il cuore dell'impero — non una fine, ma un inizio.",
+    "events": [
+     "Due anni agli arresti domiciliari, annunciando con franchezza il regno",
+     "Da qui scrive le lettere della prigionia (Efesini·Filippesi·Colossesi·Filemone)",
+     "Poi imprigionato di nuovo, scrive 2 Timoteo ed è martirizzato — «Ho combattuto il buon combattimento, ho finito la corsa»"
+    ]
+   }
+  },
+  "labels": [
+   "Mar Mediterraneo",
+   "Mar Egeo",
+   "Asia Minore",
+   "Macedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Primo viaggio",
+   "j2": "Secondo viaggio",
+   "j3": "Terzo viaggio",
+   "rome": "Quarto viaggio · verso Roma",
+   "j5": "Quinto viaggio · dopo la liberazione"
+  }
+ }
+}
