@@ -1,0 +1,635 @@
+{
+ "menuName": "English",
+ "htmlLang": "en",
+ "dir": "ltr",
+ "locale": "en-US",
+ "brand": "Bible in One Scroll",
+ "docTitle": "Bible by Map · Bible in One Scroll",
+ "metaDesc": "Trace the Old Testament timeline, the life of Jesus, and Paul’s journeys on a real map — the Bible happened in real places.",
+ "s": {
+  "kicker": "Bible in One Scroll · Maps",
+  "title": "Bible by Map",
+  "verse": "“For we did not follow cleverly devised myths …” (2 Peter 1:16)",
+  "purpose": "The Bible is not myth. It is the story of real people walking through real places. Trace those paths across a real map, in time order — tap a point, or press ▶ to walk through it step by step.",
+  "ot_kick": "① Old Testament — across time",
+  "ot_h": "From creation to the return to Jerusalem",
+  "ot_lead": "Not a single trip but the flow of redemptive history from creation onward: creation and fall → flood and Babel → a call (Abraham) → the promised land → Exodus → wilderness → conquest → kingdom → division → exile → return.",
+  "je_kick": "② New Testament — the life of Jesus",
+  "je_h": "From Bethlehem to Jerusalem",
+  "je_lead": "Follow the life of Jesus as the Gospels tell it, in order — from his birth in Bethlehem through his baptism and Galilean ministry, across Samaria, to the cross, resurrection and ascension in Jerusalem.",
+  "pa_kick": "③ New Testament — Paul’s journeys",
+  "pa_h": "From Antioch to the ends of the earth — Rome",
+  "pa_lead": "From Pentecost in Jerusalem, how the gospel spread beyond Judea — through Asia Minor and Europe to the heart of the empire. Pick one of the five journeys (1st·2nd·3rd + the voyage to Rome + after release) and follow the events of Acts with the letters written along the way.",
+  "foot": "Sources · Places follow the biblical text and standard Bible geography (with modern names where helpful). Coastlines, rivers and lakes are drawn from open geographic data (Natural Earth), simplified.",
+  "contact": "Questions · feedback — <a id=\"contact\" class=\"mail\">Email us</a>",
+  "play": "Play",
+  "pause": "Pause",
+  "today": "Today:"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Creation · Fall)",
+    "book": "Genesis 1–3",
+    "today": "the Tigris–Euphrates region today",
+    "note": "Into a world made very good, sin enters and breaks the bond between God and humanity.",
+    "events": [
+     "Creation in six days — “it was very good”",
+     "Humanity made in the image of God",
+     "The fall, and exile from Eden",
+     "The first gospel promise — “the offspring of the woman will crush the serpent’s head”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (the Flood)",
+    "book": "Genesis 6–9",
+    "today": "Mt. Ararat, eastern Türkiye today",
+    "note": "God judges a world full of sin, yet preserves life through one family.",
+    "events": [
+     "A world filled with corruption",
+     "The flood, and Noah’s ark",
+     "The rainbow covenant — “never again a flood to destroy”"
+    ]
+   },
+   "babel": {
+    "name": "Tower of Babel",
+    "book": "Genesis 11",
+    "today": "Iraq today (plain of Shinar)",
+    "note": "Against the pride that reaches for heaven, God scatters their speech and the peoples over the earth.",
+    "events": [
+     "“Let us build a city and a tower… and make a name for ourselves”",
+     "God confuses their language",
+     "The peoples scatter over the earth (Shinar — later Babylon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesis 12",
+    "today": "southern Iraq today",
+    "note": "The Bible’s story of redemption begins with the call of one man.",
+    "events": [
+     "God calls Abram out of Ur of the Chaldeans",
+     "“I will make of you a great nation… all peoples blessed through you”",
+     "By faith he leaves his homeland"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Genesis 12",
+    "today": "southern Türkiye today",
+    "note": "On the way, answering the call toward the promised land.",
+    "events": [
+     "Terah’s family settles in Haran",
+     "Terah dies",
+     "Abram sets out for Canaan at age 75"
+    ]
+   },
+   "shechem": {
+    "name": "Shechem · Canaan",
+    "book": "Genesis 12–50",
+    "today": "Nablus today",
+    "note": "In the promised land a family is founded and the covenant passes down the generations.",
+    "events": [
+     "Entering Canaan, first altar — “to your offspring I give this land”",
+     "The covenant (Gen 15) · Isaac · Jacob",
+     "Jacob’s twelve sons — root of the twelve tribes"
+    ]
+   },
+   "egypt": {
+    "name": "Egypt (Goshen)",
+    "book": "Genesis 37–50 · Exodus 1",
+    "today": "Nile Delta, Egypt today",
+    "note": "A family becomes a great nation — then a nation of slaves.",
+    "events": [
+     "Joseph, sold away, rises to rule Egypt",
+     "Jacob’s whole family comes down to escape famine",
+     "The growing nation of Israel is enslaved"
+    ]
+   },
+   "sinai": {
+    "name": "Mt. Sinai",
+    "book": "Exodus · Leviticus",
+    "today": "Sinai Peninsula today",
+    "note": "The OT’s central rescue — slaves become God’s own people.",
+    "events": [
+     "The ten plagues and the Passover lamb",
+     "The Red Sea parts and they cross",
+     "Ten Commandments, the Law, the tabernacle and sacrifices"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesh (wilderness)",
+    "book": "Numbers · Deuteronomy",
+    "today": "the Sinai–Negev wilderness today",
+    "note": "Unbelief costs a generation the land — yet God stays with them.",
+    "events": [
+     "Twelve spies — but the people refuse to trust",
+     "38 years in the desert — manna, cloud and fire",
+     "On the plains of Moab, Moses’ last sermon (Deuteronomy)"
+    ]
+   },
+   "jericho": {
+    "name": "Jericho",
+    "book": "Joshua",
+    "today": "Jericho today",
+    "note": "At last they enter and take the promised land.",
+    "events": [
+     "The Jordan parts and the people cross",
+     "The walls of Jericho fall",
+     "Conquest of Canaan and division of the land"
+    ]
+   },
+   "shiloh": {
+    "name": "Shiloh (Judges)",
+    "book": "Judges · Ruth",
+    "today": "Khirbet Seilun today",
+    "note": "With no king, everyone does as he pleases — a true king is needed.",
+    "events": [
+     "The tabernacle is set up at Shiloh",
+     "The cycle of sin–oppression–rescue (Deborah, Gideon, Samson)",
+     "Ruth — faithfulness in dark days, in David’s line"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · United Kingdom",
+    "book": "1–2 Samuel · 1 Kings",
+    "today": "Jerusalem today",
+    "note": "Israel’s golden age — and the promise of an everlasting king.",
+    "events": [
+     "Saul the first king, then David and Goliath",
+     "The Davidic covenant — “your throne forever” (2 Sam 7)",
+     "Solomon builds the temple in Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Divided Kingdom",
+    "book": "Kings · the Prophets",
+    "today": "Sebastia today",
+    "note": "The kingdom splits and declines as the prophets cry out.",
+    "events": [
+     "After Solomon, the split into Judah and Israel",
+     "Repeated idolatry",
+     "Elijah, Isaiah, Jeremiah cry ‘return’ — and foretell the Messiah"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineveh (Assyria)",
+    "book": "2 Kings 17 · Jonah",
+    "today": "Mosul, Iraq today",
+    "note": "Ignoring every warning, the north falls first.",
+    "events": [
+     "Nineveh, the capital of Assyria",
+     "The northern kingdom falls to Assyria (722 BC)",
+     "Jonah is sent to Nineveh"
+    ]
+   },
+   "babylon": {
+    "name": "Babylon",
+    "book": "2 Kings 25 · Daniel · Ezekiel",
+    "today": "Hillah, Iraq today",
+    "note": "The darkest night — yet the promise of restoration remains.",
+    "events": [
+     "Jerusalem falls, the temple is burned (586 BC)",
+     "Judah is carried off to Babylon",
+     "Daniel and Ezekiel — faith and visions in exile"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Esther · Nehemiah",
+    "today": "Shush, Iran today",
+    "note": "Even at the heart of a pagan empire, God keeps his people.",
+    "events": [
+     "Persia overthrows Babylon",
+     "Esther saves the Jews from destruction",
+     "Nehemiah prays before the king and is sent"
+    ]
+   },
+   "return": {
+    "name": "Return to Jerusalem",
+    "book": "Ezra · Nehemiah · Malachi",
+    "today": "Jerusalem today",
+    "note": "They return and rebuild — but no king has come. They await Messiah.",
+    "events": [
+     "Three waves of return by Cyrus’ decree (Zerubbabel 538 · Ezra 458 · Nehemiah 444)",
+     "Temple rebuilt and Jerusalem’s walls restored",
+     "Malachi — the OT closes: “I will send my messenger”"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterranean Sea",
+   "Mesopotamia",
+   "Arabian Desert",
+   "Egypt"
+  ],
+  "journeys": {
+   "flow": "The redemptive story"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bethlehem",
+    "book": "Matthew 1–2 · Luke 2",
+    "today": "Bethlehem today",
+    "note": "The promised Messiah comes to the town of David — the Word made flesh.",
+    "events": [
+     "Born in Bethlehem, the town of David",
+     "Angels announce the news to shepherds",
+     "The Magi come to worship"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareth",
+    "book": "Luke 2 · 4",
+    "today": "Nazareth today",
+    "note": "God grows up as a man in an ordinary town.",
+    "events": [
+     "Raised in a carpenter’s home",
+     "At twelve, asking and answering in the temple",
+     "Later rejected in his hometown synagogue"
+    ]
+   },
+   "jordan": {
+    "name": "Jordan River",
+    "book": "Matthew 3–4",
+    "today": "the lower Jordan today",
+    "note": "His public ministry begins — heaven seals him as the Son.",
+    "events": [
+     "Baptized by John",
+     "The Spirit descends like a dove — “This is my beloved Son”",
+     "Overcomes Satan’s three temptations in the wilderness"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "John 2",
+    "today": "Kafr Kanna today",
+    "note": "In his first sign he reveals his glory.",
+    "events": [
+     "A guest at a wedding",
+     "Water turned to wine — his first sign",
+     "His disciples believe in him"
+    ]
+   },
+   "sychar": {
+    "name": "Sychar (Samaria)",
+    "book": "John 2–4",
+    "today": "near Nablus today",
+    "note": "The early ministry road — through Jerusalem and on to despised Samaria.",
+    "events": [
+     "He cleanses the temple in Jerusalem",
+     "By night, Nicodemus — “You must be born again”",
+     "Living water for a Samaritan woman"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Matthew 4–13 · Mark 1–4",
+    "today": "the Galilee lakeshore today",
+    "note": "Home base of the Galilean ministry — calling, teaching and opposition all meet here.",
+    "events": [
+     "Calls the fishermen and bases himself here",
+     "The Sermon on the Mount — “Blessed are the poor in spirit”",
+     "Parables of the kingdom — and rising opposition"
+    ]
+   },
+   "galilee": {
+    "name": "Sea of Galilee",
+    "book": "Mark 4 · 6 · John 6",
+    "today": "Lake Kinneret today",
+    "note": "With power over nature he shows who he is.",
+    "events": [
+     "“Peace, be still” — he calms the storm",
+     "Feeds 5,000 with five loaves and two fish",
+     "Walks on the water"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Caesarea Philippi",
+    "book": "Matthew 16–17",
+    "today": "Banias today",
+    "note": "The disciples grasp that he is the Christ, and the way of the cross opens.",
+    "events": [
+     "Peter’s confession — “You are the Christ, the Son of the living God”",
+     "He first foretells his death and resurrection",
+     "Transfigured in glory on the mountain"
+    ]
+   },
+   "jericho": {
+    "name": "Jericho",
+    "book": "Luke 18–19",
+    "today": "Jericho today",
+    "note": "On the road up to Jerusalem, he seeks the lost.",
+    "events": [
+     "He gives sight to blind Bartimaeus",
+     "He calls Zacchaeus the tax collector",
+     "“The Son of Man came to seek and save the lost”"
+    ]
+   },
+   "bethany": {
+    "name": "Bethany",
+    "book": "John 11–12",
+    "today": "al-Eizariya today",
+    "note": "He shows mastery over death on the eve of his final week.",
+    "events": [
+     "He raises Lazarus from the tomb — “I am the resurrection and the life”",
+     "Mary anoints him for burial",
+     "This sign hardens the plot to kill him"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Matthew 21–28 · Luke 24 · Acts 1",
+    "today": "Jerusalem today",
+    "note": "The climax the whole Bible points to — cross, resurrection, ascension.",
+    "events": [
+     "Triumphal entry; he overturns the temple tables again",
+     "At the Last Supper he washes the disciples’ feet",
+     "He dies on the cross",
+     "Risen on the third day, then ascended"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterranean Sea",
+   "Galilee",
+   "Samaria",
+   "Judea",
+   "Decapolis",
+   "Perea",
+   "Dead Sea"
+  ],
+  "journeys": {
+   "life": "The path of Jesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioch",
+    "book": "Acts 13 · 15",
+    "today": "Antakya, Türkiye today",
+    "note": "The sending church where the Gentile mission begins and returns.",
+    "events": [
+     "In prayer the Spirit sets apart Barnabas and Saul",
+     "The church where believers were first called ‘Christians’",
+     "Launch point of the 1st, 2nd and 3rd journeys"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Acts 13:4",
+    "today": "Türkiye today",
+    "note": "Antioch’s port — they set sail for Cyprus.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Cyprus)",
+    "book": "Acts 13:5",
+    "today": "Cyprus today",
+    "note": "First stop on Cyprus — preaching in the synagogues.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Paphos",
+    "book": "Acts 13:6-12",
+    "today": "Cyprus today",
+    "note": "Power is shown against those who oppose the gospel.",
+    "events": [
+     "Elymas the magician is struck blind",
+     "Sergius Paulus the proconsul believes",
+     "From here ‘Paul’ takes the lead"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Acts 13:13",
+    "today": "Antalya, Türkiye today",
+    "note": "A port in Pamphylia — here John Mark turns back.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidian Antioch",
+    "book": "Acts 13:14-50",
+    "today": "Yalvaç, Türkiye today",
+    "note": "The gospel breaks open toward the Gentiles.",
+    "events": [
+     "A long sermon of salvation history in the synagogue",
+     "Many Gentiles rejoice and receive the word",
+     "Driven out by opposition"
+    ]
+   },
+   "iconium": {
+    "name": "Iconium",
+    "book": "Acts 14:1-7",
+    "today": "Konya, Türkiye today",
+    "note": "Many believe, but persecution forces them on.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lystra",
+    "book": "Acts 14:8-20",
+    "today": "Türkiye today",
+    "note": "Hailed as a god, then stoned.",
+    "events": [
+     "Heals a man lame from birth",
+     "The crowd tries to sacrifice to them as gods",
+     "Stoned and left for dead, he gets up"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Acts 14:20-21",
+    "today": "Türkiye today",
+    "note": "Many disciples are made; they retrace their steps to strengthen the churches.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Acts 16:8-10",
+    "today": "Türkiye today",
+    "note": "The turning point where the gospel first heads for Europe.",
+    "events": [
+     "A vision of a man of Macedonia",
+     "“Come over and help us”",
+     "They cross at once into Europe"
+    ]
+   },
+   "philippi": {
+    "name": "Philippi",
+    "book": "Acts 16 · Philippians",
+    "today": "northern Greece today",
+    "note": "Europe’s first church — the gospel triumphs even in prison.",
+    "events": [
+     "Lydia, a dealer in purple, believes",
+     "A fortune-telling slave girl is freed",
+     "Midnight hymns, an earthquake, the jailer’s household saved"
+    ]
+   },
+   "thess": {
+    "name": "Thessalonica",
+    "book": "Acts 17 · 1–2 Thessalonians",
+    "today": "Thessaloniki, Greece today",
+    "note": "The word shakes the city and opposition boils over.",
+    "events": [
+     "Reasons in the synagogue three Sabbaths",
+     "“These who have turned the world upside down”",
+     "They slip away by night"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Acts 17:10-15",
+    "today": "Veria, Greece today",
+    "note": "The ‘noble’ ones who examined the word for themselves.",
+    "events": [
+     "They receive the word eagerly",
+     "Daily they examine the Scriptures to check it",
+     "Many come to believe"
+    ]
+   },
+   "athens": {
+    "name": "Athens",
+    "book": "Acts 17:16-34",
+    "today": "Athens, Greece today",
+    "note": "In the city of philosophers he proclaims the ‘unknown god’.",
+    "events": [
+     "Provoked by a city full of idols",
+     "On the Areopagus he preaches Creator and resurrection",
+     "Mocked, yet a few believe"
+    ]
+   },
+   "corinth": {
+    "name": "Corinth",
+    "book": "Acts 18 · 1–2 Corinthians",
+    "today": "Greece today",
+    "note": "He stays a year and a half, planting a church in a city of vice.",
+    "events": [
+     "Makes tents with Aquila and Priscilla",
+     "“Do not be afraid… for I am with you”",
+     "Many Corinthians believe and are baptized"
+    ]
+   },
+   "ephesus": {
+    "name": "Ephesus",
+    "book": "Acts 19 · Ephesians",
+    "today": "Selçuk, Türkiye today",
+    "note": "Heart of the third journey — the word spreads across Asia.",
+    "events": [
+     "Daily teaching for two years in the hall of Tyrannus",
+     "Magic books burned; powerful works",
+     "The silversmith Demetrius starts a riot"
+    ]
+   },
+   "miletus": {
+    "name": "Miletus",
+    "book": "Acts 20:17-38",
+    "today": "Türkiye today",
+    "note": "A tearful farewell to the Ephesian elders.",
+    "events": [
+     "“Care for the church he bought with his own blood”",
+     "The elders weep, knowing they’ll not see him again"
+    ]
+   },
+   "caesarea": {
+    "name": "Caesarea",
+    "book": "Acts 23–26",
+    "today": "Israel’s coast today",
+    "note": "For two years he defends the gospel before governors and a king.",
+    "events": [
+     "Trials before governors Felix and Festus",
+     "His defense before King Agrippa",
+     "“I appeal to Caesar” — on to Rome"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Acts 21–23",
+    "today": "Jerusalem today",
+    "note": "Seized in the temple, his road as a prisoner begins.",
+    "events": [
+     "Seized by the crowd in the temple",
+     "Defends himself before the council",
+     "As a Roman citizen, sent under guard to Caesarea"
+    ]
+   },
+   "myra": {
+    "name": "Myra",
+    "book": "Acts 27:5-6",
+    "today": "Demre, Türkiye today",
+    "note": "They transfer to an Alexandrian ship bound for Rome.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Fair Havens (Crete)",
+    "book": "Acts 27:8-12",
+    "today": "Crete today",
+    "note": "Paul’s warning to stop sailing goes unheeded.",
+    "events": []
+   },
+   "crete": {
+    "name": "Crete",
+    "book": "Titus",
+    "today": "Crete today",
+    "note": "After his release, the island where he leaves Titus to set the churches in order.",
+    "events": [
+     "Leaves Titus to appoint elders in every town",
+     "Calls for blameless, faithful leaders",
+     "Writes the letter to Titus"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Acts 27–28",
+    "today": "Malta today",
+    "note": "Through storm and shipwreck, God’s promise holds.",
+    "events": [
+     "The ‘northeaster’ wrecks the ship, yet all 276 survive",
+     "Bitten by a viper, he is unharmed",
+     "He heals the sick of the island"
+    ]
+   },
+   "syracuse": {
+    "name": "Syracuse",
+    "book": "Acts 28:12",
+    "today": "Sicily, Italy today",
+    "note": "They stay three days in Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Acts 28:13-14",
+    "today": "Pozzuoli, Italy today",
+    "note": "They land in Italy and are met by fellow believers.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rome",
+    "book": "Acts 28 · Prison Letters · 2 Timothy",
+    "today": "Rome, Italy today",
+    "note": "The gospel reaches the heart of the empire at last — not an end but a beginning.",
+    "events": [
+     "Two years under house arrest, boldly proclaiming the kingdom",
+     "From here he writes the Prison Letters (Eph·Phil·Col·Phm)",
+     "Later imprisoned again, writes 2 Timothy and is martyred — “I have fought the good fight, I have finished the race”"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterranean Sea",
+   "Aegean Sea",
+   "Asia Minor",
+   "Macedonia",
+   "Italy"
+  ],
+  "journeys": {
+   "j1": "First journey",
+   "j2": "Second journey",
+   "j3": "Third journey",
+   "rome": "Fourth journey · to Rome",
+   "j5": "Fifth journey · after release"
+  }
+ }
+}

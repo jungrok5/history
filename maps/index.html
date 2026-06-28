@@ -143,10 +143,7 @@
   <button class="iconbtn" id="langBtn" title="Language / 언어">🌐 <span id="langCur">한국어</span></button>
   <button class="iconbtn" id="themeBtn" title="테마 전환 / Theme">🌗</button>
 </div>
-<div id="langPanel" hidden>
-  <button data-l="ko">한국어</button>
-  <button data-l="en">English</button>
-</div>
+<div id="langPanel" hidden></div>
 
 <noscript>
   <h1>지도로 보는 성경 / Bible by Map</h1>
@@ -228,8 +225,18 @@ const T = {
 
 const $=(s,r=document)=>r.querySelector(s);
 const $$=(s,r=document)=>[...r.querySelectorAll(s)];
-let L = 'ko';
+let L = 'ko', PACK=null;
 let GEO=null, DATA=null;
+// inject a non-ko/en pack as the active language: UI strings into T[k][L], and
+// place/label/journey text into the data.json objects (per segment) at [L]/['x_'+L].
+function hydrateUI(p){ PACK=p; const s=p.s||{}; for(const k in T){ if(s[k]!=null) T[k][L]=s[k]; } }
+function hydratePlaces(d){ if(!PACK||!d) return; const P=PACK;
+  for(const seg of ['ot','jesus','paul']){ const sg=d[seg], ps=P[seg]; if(!sg||!ps) continue;
+    (sg.places||[]).forEach(pl=>{ const t=ps.places&&ps.places[pl.id]; if(t){ pl[L]=t.name; pl['book_'+L]=t.book; pl['today_'+L]=t.today; pl['note_'+L]=t.note; pl['events_'+L]=t.events||[]; } });
+    (sg.labels||[]).forEach((lb,i)=>{ const t=ps.labels&&ps.labels[i]; if(t!=null) lb[L]=t; });
+    (sg.journeys||[]).forEach(j=>{ const t=ps.journeys&&ps.journeys[j.key]; if(t!=null) j[L]=t; });
+  }
+}
 const SVGNS='http://www.w3.org/2000/svg';
 const el=(n,a={})=>{const e=document.createElementNS(SVGNS,n);for(const k in a)e.setAttribute(k,a[k]);return e;};
 
@@ -247,10 +254,11 @@ function bookRefHtml(pl){ const t=pl['book_'+L]||pl.ref||''; if(!t)return '';
 
 function applyText(){
   document.documentElement.lang = L;
+  document.documentElement.dir = (PACK&&PACK.dir)||'ltr';
   document.body.className = L;
-  $('#langCur').textContent = L==='ko'?'한국어':'English';
+  $('#langCur').textContent = PACK?PACK.menuName:(L==='ko'?'한국어':'English');
   $$('[data-t]').forEach(n=>{ const v=T[n.dataset.t]; if(v) n.innerHTML=v[L]; });
-  const _b=$('.brand'); if(_b){ _b.textContent=(L==='ko'?'한눈에 보는 성경 이야기':'Bible in One Scroll'); _b.href=(L==='ko'?'/':'/'+L+'/'); }
+  const _b=$('.brand'); if(_b){ _b.textContent=PACK?(PACK.brand||'Bible in One Scroll'):(L==='ko'?'한눈에 보는 성경 이야기':'Bible in One Scroll'); _b.href=(L==='ko'?'/':'/'+L+'/'); }
   bindContact();
 }
 function bindContact(){
@@ -471,22 +479,26 @@ $('#themeBtn').addEventListener('click',()=>{
   localStorage.setItem('bibleTheme',sp?'sepia':'dark');
   document.querySelector('meta[name=theme-color]').setAttribute('content',sp?'#efe6d3':'#0e1118');
 });
-// ---- language ----
+// ---- language — each language is its own prerendered page (/maps/<code>/).
+//   Keep in sync when adding a maps language (also add i18n/maps/<code>.json). ----
+const MAPS_LANGS=[['ko','한국어'],['en','English'],['zh-Hans','简体中文'],['zh-Hant','繁體中文'],['ja','日本語'],['es','Español'],['pt-BR','Português'],['fr','Français'],['de','Deutsch'],['ru','Русский'],['hi','हिन्दी'],['bn','বাংলা'],['vi','Tiếng Việt'],['ar','العربية'],['fa','فارسی'],['ur','اردو']];
+if(window.__SUBLANG__){ L=window.__SUBLANG__; } else { try{ const sv=localStorage.getItem('lang'); if(sv==='ko'||sv==='en') L=sv; else if((navigator.language||'').toLowerCase().startsWith('en')) L='en'; }catch(e){} }
+if(window.__PACK__){ try{ hydrateUI(window.__PACK__); }catch(e){} }
 const lp=$('#langPanel');
+lp.innerHTML=MAPS_LANGS.map(([c,n])=>`<button data-l="${c}"${c===L?' class="on"':''}>${n}</button>`).join('');
 $('#langBtn').addEventListener('click',e=>{e.stopPropagation();lp.hidden=!lp.hidden;});
 document.addEventListener('click',()=>{lp.hidden=true;});
 lp.addEventListener('click',e=>e.stopPropagation());
-$$('#langPanel button').forEach(b=>b.addEventListener('click',()=>{
-  L=b.dataset.l; try{localStorage.setItem('lang',L);}catch(e){} lp.hidden=true;
-  applyText(); relabelAll();
+lp.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{
+  const c=b.dataset.l; try{localStorage.setItem('lang',c);}catch(e){}
+  location.href=(c==='ko')?'/maps/':'/maps/'+c+'/';
 }));
-if(window.__SUBLANG__){ L=window.__SUBLANG__; } else { try{ const sv=localStorage.getItem('lang'); if(sv==='ko'||sv==='en') L=sv; else if((navigator.language||'').toLowerCase().startsWith('en')) L='en'; }catch(e){} }
 
 applyText();
 Promise.all([
   fetch('/maps/geo.json').then(r=>r.json()),
   fetch('/maps/data.json').then(r=>r.json())
-]).then(([g,d])=>{ GEO=g; DATA=d; buildAll(); })
+]).then(([g,d])=>{ GEO=g; DATA=d; hydratePlaces(d); buildAll(); })
   .catch(e=>{ $$('.mapcard').forEach(c=>c.innerHTML='<div class="loading">지도를 불러오지 못했습니다. / Could not load maps.</div>'); console.error(e); });
 </script>
 </body>
