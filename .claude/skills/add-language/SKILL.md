@@ -288,8 +288,9 @@ node tools/check-i18n.mjs                 # about: s-keys + facts len · maps: s
 node tools/make-about-verse.mjs <code>    # about hero = verbatim slice of Rev 7:9
 node tools/make-maps-verse.mjs <code>     # maps hero = verbatim 2 Pet 1:16 (injects)
 ```
-**Native review (required, same bar as main)** — run a per-language reviewer agent over both packs (book/place
-names match the edition, terminology, prose faithful to en.json); fix BLOCKER/MAJOR, **defer** what you can't clear.
+**Native review (required, same bar as main)** — run a per-language **report-only** reviewer agent over both packs
+using **`lib/native-review-maps-prompt.md`** (maps variant of `native-review-prompt.md`: hero verse verbatim vs
+fetch-verse, book/place names match the edition, prose faithful to en.json); fix BLOCKER/MAJOR yourself, **defer** what you can't clear.
 
 **Build & commit**: `node tools/build-pages.mjs` calls build-subpages → auto-generates `/about/<code>/` +
 `/maps/<code>/` + sitemap + hreflang (all gitignored). Commit only the two source packs `i18n/about/<code>.json`
