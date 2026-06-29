@@ -1495,7 +1495,12 @@ function buildLangList(filter){
   langList.innerHTML='';
   const items=LANGS.filter(l=>!f||l.native.toLowerCase().includes(f)||l.en.toLowerCase().includes(f)||l.code.includes(f));
   if(!items.length){const li=document.createElement('li');li.className='none';li.textContent='준비 중 / coming soon';langList.appendChild(li);return;}
-  items.forEach(l=>{const li=document.createElement('li');li.dataset.code=l.code;li.setAttribute('aria-selected',l.code===curCode?'true':'false');li.innerHTML='<span>'+l.native+'</span><span class="en">'+l.en+'</span>';li.addEventListener('click',()=>{applyLang(l.code);closeLang();});langList.appendChild(li);});
+  items.forEach(l=>{const li=document.createElement('li');li.dataset.code=l.code;li.setAttribute('aria-selected',l.code===curCode?'true':'false');li.innerHTML='<span>'+l.native+'</span><span class="en">'+l.en+'</span>';li.addEventListener('click',()=>{
+    if(l.code===curCode){ closeLang(); return; }
+    try{localStorage.setItem('lang',l.code);}catch(e){}
+    // 프리렌더된 해당 언어 URL로 이동(about/maps 스위처와 동일) — in-place 전환 시 ko 폴백(ORIG) 깨짐 + URL/내용 불일치를 방지하고 공유 URL을 정확히 함. #해시(섹션) 유지.
+    location.href=(l.code==='ko'?'/':'/'+l.code+'/')+location.hash;
+  });langList.appendChild(li);});
 }
 function openLang(){langPanel.hidden=false;langSearch.value='';buildLangList('');setTimeout(()=>langSearch.focus(),0);}
 function closeLang(){langPanel.hidden=true;}
@@ -1516,6 +1521,9 @@ document.addEventListener('click',(e)=>{if(!langPanel.hidden&&!langPanel.contain
     else if(sv&&hasLang(sv))code=sv;
     else { const r=resolveNav(nav); if(r)code=r; else if(nav&&!nav.toLowerCase().startsWith('ko'))code='en'; }
   }catch(e){}
+  // ko 는 인라인(KO_PACK.s=null, ORIG 폴백)에 의존하는데, 프리렌더된 비-ko 페이지에선 ORIG가 그 언어로 캡처됨.
+  // 그런 페이지에서 ko 가 선택되면(예: /ja/?lang=ko) in-place 폴백이 깨지므로 ko 루트(/)로 이동.
+  if(code==='ko' && window.__BOOTLANG__ && window.__BOOTLANG__!=='ko'){ try{localStorage.setItem('lang','ko');}catch(e){} location.replace('/'+location.hash); return; }
   applyLang(code);
 })();
 
