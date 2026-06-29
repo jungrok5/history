@@ -65,10 +65,13 @@ Protestant church; Korean Revised Version (개역개정) as the Korean baseline.
   integrate · make-qr · convert-digits · fetch-verse · verify-verbatim · verify-inline · verify-prose · native-review-prompt.
 
 ## Single source of truth — do NOT track per-language state in this file
-The language list/codes live in **`index.html`** (`LANGS`) + `tools/build-pages.mjs` (`LANGS`); each
-language's **verse-link data (`books`/`yv`/`bookopt`) lives in its `i18n/<code>.json` pack** (only ko/en
-inline in index.html, as `BOOKS`/`YV`/`BOOKOPT`). **Derive them from code; never keep a duplicate list here** —
-duplicating it is what caused a merge conflict on every language PR.
+The language list/codes live in **`index.html`** (`LANGS`) — the **single source**. Each entry carries
+`code`/`native`/`en` + `locale` (+ `dir:'rtl'` for RTL); `tools/build-pages.mjs` **parses LANGS from
+index.html** (`parseLangs()`) instead of keeping its own copy, and `tools/build-subpages.mjs` reads the same
+list for switcher order + `__XLANGS__`. Each language's **verse-link data (`books`/`yv`/`bookopt`) lives in its
+`i18n/<code>.json` pack** (only ko/en inline in index.html, as `BOOKS`/`YV`/`BOOKOPT`). **Derive from code;
+never keep a duplicate list here** — duplicating the list across files is what caused a merge conflict on every
+language PR (now removed: build-pages no longer has its own LANGS array).
 - **When adding/changing a language, do NOT edit AGENTS.md.** New cross-cutting gotchas/decisions go in
   the skill's `NOTES.md` (the file that grows), not here and not in `SKILL.md` (procedure, rarely touched).
 - Count languages: `node -e "console.log(require('fs').readdirSync('i18n').filter(f=>f.endsWith('.json')).length)"` (+ ko inline).

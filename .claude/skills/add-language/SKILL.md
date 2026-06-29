@@ -152,7 +152,8 @@ node .claude/skills/add-language/lib/validate.mjs <code>
 node .claude/skills/add-language/lib/integrate.mjs /tmp/lang-<code>.json
 ```
 - Auto-handles: **writes `books`(full+byte-exact)/`yv`/`bookopt` into `i18n/<code>.json`**; patches index.html
-  hreflang · LANGS, and build-pages LANGS · (if font) FONT_TITLE/SUB + letter-spacing 0.
+  hreflang · **LANGS (the single source — entry now carries `locale`, +`dir:'rtl'` for RTL)**; build-pages no
+  longer has a LANGS array (it parses index.html via `parseLangs()`) so integrate only patches its FONT maps · (if font) FONT_TITLE/SUB + letter-spacing 0.
   (Per-language verse-link data lives in the **pack**, not index.html — only ko/en are inline there.)
 - "Unresolved token" warnings are usually a false positive on a preceding number ("3 Ром" etc.) — ignore.
   If a real book is missing, fix the config and re-run.
@@ -233,8 +234,9 @@ node .claude/skills/add-language/lib/verify-inline.mjs <code>     # inline quote
   per-language verse data (`books`/`yv`/`bookopt`) lives in the `i18n/<code>.json` pack. Duplicating any of
   it in AGENTS.md caused a merge conflict on every PR. Only put a genuinely new cross-cutting gotcha into `NOTES.md`.
 - A language addition commits: `i18n/<code>.json` (content **+ its `books`/`yv`/`bookopt`**), the `index.html`
-  edits (**hreflang/LANGS only**), `tools/build-pages.mjs` LANGS, `qr-<code>.png`, and any refreshed `i18n/en.json` / `sw.js` stamp /
-  `og.png`. It does **not** commit `<code>/index.html`, `sitemap.xml`, or `llms.txt` (gitignored — Vercel
+  edits (**hreflang + LANGS entry with `locale`/`dir`** — the single source), `tools/build-pages.mjs` **only if
+  font** (FONT maps; LANGS is parsed from index.html, not stored here), `qr-<code>.png`, and any refreshed
+  `i18n/en.json` / `sw.js` stamp / `og.png`. It does **not** commit `<code>/index.html`, `sitemap.xml`, or `llms.txt` (gitignored — Vercel
   regenerates them).
 - Branch `claude/bible-timeline-mobile-site-cb8u6x`. Korean commit message + footer:
   `Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>` / `Claude-Session: …`.
@@ -405,7 +407,7 @@ SKILL.md or AGENTS.md for that.
 - [ ] (if partial) OT cite empty · OT inline refs removed (NT refs kept) · partial.note · respond.read
 - [ ] (native digits) references converted to ASCII, verse-text untouched
 - [ ] i18n/<code>.json: `books`/`yv`/`bookopt` written (by integrate) | index.html: hreflang · LANGS
-- [ ] build-pages: LANGS (+ FONT · letter-spacing 0 if needed)
+- [ ] index.html LANGS entry has `locale` (+`dir:'rtl'` if RTL) — single source · build-pages: only FONT maps if non-Latin script (no LANGS array)
 - [ ] qr-<code>.png · build runs clean (pages regenerated locally; en.json/sw.js refreshed)
 - [ ] validate ✓ · audit-links missed 0 · anchors OK · **verify-verbatim CLEAN** · **verify-inline flags
       triaged** (inline quotes, EN baseline) · **verify-prose flags triaged** (POLARITY first; fix only real reversals/omissions)

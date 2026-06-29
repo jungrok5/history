@@ -50,7 +50,9 @@ pack.bookopt = bookopt;
 fs.writeFileSync(p(`i18n/${code}.json`), JSON.stringify(pack, null, 1));
 
 const esc = (s) => String(s).replace(/\\/g, '\\\\').replace(/'/g, "\\'");
-const langEntry = `{code:'${code}',native:'${esc(native)}',en:'${esc(en)}'}`;
+// index.html LANGS is the SINGLE SOURCE for the language list — incl. locale (+ dir for rtl),
+// which build-pages now parses from here (no separate build-pages LANGS array).
+const langEntry = `{code:'${code}',native:'${esc(native)}',en:'${esc(en)}',locale:'${locale}'${dir === 'rtl' ? ",dir:'rtl'" : ''}}`;
 
 // ---- index.html 패치 ----
 let h = fs.readFileSync(p('index.html'), 'utf8');
@@ -72,12 +74,8 @@ h = h.replace(afterEntryRe, `$1,\n ${langEntry}`);
 fs.writeFileSync(p('index.html'), h);
 
 // ---- tools/build-pages.mjs 패치 ----
+// LANGS 는 더 이상 build-pages 에 없다(index.html 단일 출처에서 파싱). 여기선 폰트 맵만 패치.
 let b = fs.readFileSync(p('tools/build-pages.mjs'), 'utf8');
-// LANGS 표 — after 행 뒤
-const bAfterRe = new RegExp(`( *\\{ code:'${after}',[^\\n]*\\},)`);
-must(bAfterRe.test(b), `build-pages LANGS에서 after='${after}' 행 못 찾음`);
-const pad = `  { code:'${code}',`.padEnd(18) + ` dir:'${dir}', locale:'${locale}' },`;
-b = b.replace(bAfterRe, `$1\n${pad}`);
 
 // 폰트(비-라틴/키릴 스크립트만) — FONT_TITLE / FONT_SUB / letter-spacing
 if (font && font.title) {
@@ -98,6 +96,6 @@ fs.writeFileSync(p('tools/build-pages.mjs'), b);
 
 console.log(`OK: ${code} 통합 완료`);
 console.log(`  i18n/${code}.json: books(${Object.keys(dict).length})/yv/bookopt 동봉 | 콘텐츠 토큰 해결 ${used.size - unresolved.length}/${used.size}`);
-console.log(`  index.html: hreflang/LANGS ✓`);
-console.log(`  build-pages: LANGS${font ? ' + FONT' : ''} ✓`);
+console.log(`  index.html: hreflang/LANGS(+locale${dir === 'rtl' ? '+dir' : ''}) ✓ — 단일 출처`);
+console.log(`  build-pages: ${font ? 'FONT ✓ (LANGS는 index.html에서 파싱)' : 'LANGS는 index.html에서 파싱 — 패치 불필요'}`);
 console.log(`  다음: make-qr → build-pages 실행 → validate → audit-links`);

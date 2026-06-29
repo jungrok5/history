@@ -152,7 +152,7 @@ function langMeta() {
   try {
     const html = fs.readFileSync(p('index.html'), 'utf8');
     const blk = html.slice(html.indexOf('const LANGS=['), html.indexOf('];', html.indexOf('const LANGS=[')));
-    for (const m of blk.matchAll(/\{code:'([^']+)',native:'((?:[^'\\]|\\.)*)',en:'((?:[^'\\]|\\.)*)'\}/g))
+    for (const m of blk.matchAll(/\{code:'([^']+)',native:'((?:[^'\\]|\\.)*)',en:'((?:[^'\\]|\\.)*)'[^}]*\}/g))
       _LANGMETA[m[1]] = { native: m[2].replace(/\\'/g, "'"), en: m[3].replace(/\\'/g, "'") };
   } catch {}
   return _LANGMETA;
