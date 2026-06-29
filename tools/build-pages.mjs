@@ -570,6 +570,11 @@ function hreflangBlock(){
 const HREF = hreflangBlock();
 
 // ---- 페이지 생성 ----
+// Which langs the cross-linked surfaces have (for the relink() helper on every main page).
+// main = every language; about/maps = only langs with a pack in i18n/<slug>/.
+const subLangsFor = (slug) => { try { return ['ko', 'en', ...fs.readdirSync(`${root}/i18n/${slug}`).filter(f => f.endsWith('.json')).map(f => f.slice(0, -5)).filter(c => c !== 'ko' && c !== 'en')]; } catch { return ['ko', 'en']; } };
+const XLANGS_SCRIPT = `<script>window.__XLANGS__=${JSON.stringify({ about: subLangsFor('about'), maps: subLangsFor('maps') })};</script>`;
+
 function makePage(m){
   const url = `${ORIGIN}/${m.code}/`;
   const img = OG_URL; // 단일 공용 OG(언어 무관) + ?v=해시 캐시버스팅. 언어별 제목/설명은 meta 태그로 처리.
@@ -585,7 +590,7 @@ function makePage(m){
   }
   // base + hreflang + boot 언어를 charset 뒤에 삽입
   h = h.replace('<meta charset="UTF-8" />',
-    `<meta charset="UTF-8" />\n<base href="${ORIGIN}/" />\n<script>window.__BOOTLANG__=${JSON.stringify(m.code)}</script>\n${HREF}`);
+    `<meta charset="UTF-8" />\n<base href="${ORIGIN}/" />\n<script>window.__BOOTLANG__=${JSON.stringify(m.code)}</script>\n${XLANGS_SCRIPT}\n${HREF}`);
   h = h.replace(/<title>[\s\S]*?<\/title>/, `<title>${xml(m.docTitle)}</title>`);
   h = h.replace(/(<meta name="description" content=")[^"]*(")/, `$1${xml(m.desc)}$2`);
   h = h.replace('<link rel="canonical" href="https://one-scroll-bible.com/" />', `<link rel="canonical" href="${url}" />`);
@@ -643,6 +648,9 @@ for (const L of LANGS) {
 
 // ---- 루트(index.html): hreflang(없을 때만) + JSON-LD(WebSite+FAQPage, 결정적 치환) ----
 let rootHtml = src;
+// __XLANGS__ (relink 헬퍼용 about/maps 언어 보유표) — charset 뒤에 idempotent 주입
+rootHtml = rootHtml.replace(/\n?<script>window\.__XLANGS__[\s\S]*?<\/script>/g, '')
+  .replace('<meta charset="UTF-8" />', `<meta charset="UTF-8" />\n${XLANGS_SCRIPT}`);
 if (!rootHtml.includes('hreflang=')) {
   rootHtml = rootHtml.replace('<link rel="canonical" href="https://one-scroll-bible.com/" />',
     `<link rel="canonical" href="${ORIGIN}/" />\n${HREF}`);

@@ -207,11 +207,12 @@
 </style>
 </head>
 <body class="ko">
-<script>window.__SUBLANGS__=[["ko","한국어","Korean"],["en","English","English"],["ar","العربية","Arabic"],["bn","বাংলা","Bengali"],["de","Deutsch","German"],["es","Español","Spanish"],["fa","فارسی","Persian"],["fr","Français","French"],["hi","हिन्दी","Hindi"],["ja","日本語","Japanese"],["pt-BR","Português (BR)","Portuguese"],["ru","Русский","Russian"],["ur","اردو","Urdu"],["vi","Tiếng Việt","Vietnamese"],["zh-Hans","中文（简体）","Chinese (Simplified)"],["zh-Hant","中文（繁體）","Chinese (Traditional)"]];</script>
+<script>window.__SUBLANGS__=[["ko","한국어","Korean"],["en","English","English"],["zh-Hans","中文（简体）","Chinese (Simplified)"],["zh-Hant","中文（繁體）","Chinese (Traditional)"],["ja","日本語","Japanese"],["es","Español","Spanish"],["pt-BR","Português (BR)","Portuguese"],["fr","Français","French"],["de","Deutsch","German"],["ru","Русский","Russian"],["ar","العربية","Arabic"],["hi","हिन्दी","Hindi"],["vi","Tiếng Việt","Vietnamese"],["ur","اردو","Urdu"],["bn","বাংলা","Bengali"],["fa","فارسی","Persian"]];window.__XLANGS__={"about":["ko","en","ar","bn","de","es","fa","fr","hi","ja","pt-BR","ru","ur","vi","zh-Hans","zh-Hant"],"maps":["ko","en","ar","bn","cs","de","el","es","fa","fr","hi","id","it","ja","nl","pl","pt-BR","ro","ru","ta","th","tr","uk","ur","vi","zh-Hans","zh-Hant"]};</script>
 <div id="topbar">
   <span class="dot"></span><a class="brand" href="/">한눈에 보는 성경 이야기</a>
   <span class="spacer"></span>
   <button class="iconbtn" id="langBtn" title="Language / 언어">🌐 <span id="langCur">한국어</span></button>
+  <button class="iconbtn" id="shareBtn" title="Share / 공유">↗</button>
   <button class="iconbtn" id="themeBtn" title="테마 전환 / Theme">🌗</button>
 </div>
 <div id="langPanel" hidden></div>
@@ -332,19 +333,19 @@
       </div>
     </div>
   </div>
-  <div class="ctas"><a class="cta" href="/" data-t="i_cta">한눈에 보는 성경 이야기 보러 가기 →</a>
-    <a class="cta ghost" href="/maps/" data-t="i_maps">지도로 보는 성경 →</a></div>
+  <div class="ctas"><a class="cta" href="/" data-rel="home" data-t="i_cta">한눈에 보는 성경 이야기 보러 가기 →</a>
+    <a class="cta ghost" href="/maps/" data-rel="maps" data-t="i_maps">지도로 보는 성경 →</a></div>
   <p class="i-foot" data-t="foot">이 모든 일의 목적은 하나님의 지상 최대 명령인 복음의 전파입니다. 영광은 오직 하나님께.</p>
 </div></section>
 
 <footer><div class="wrap">
   <div class="src" id="sources"></div>
   <p class="foot-contact" data-t="contact">문의 · 피드백 — <a id="contact" class="mail">메일 보기</a></p>
-  <p class="foot-name"><a href="/">Bible in One Scroll</a></p>
+  <p class="foot-name"><a href="/" data-rel="home">Bible in One Scroll</a></p>
   <nav class="site-meta">
     <a href="https://github.com/jungrok5/one-scroll-bible" target="_blank" rel="noopener"><svg viewBox="0 0 16 16" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>GitHub</a><span class="sep">·</span>
     <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a><span class="sep">·</span>
-    <a href="/maps/"><svg viewBox="0 0 16 16" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M8 1C5.2 1 3 3.2 3 6c0 3.6 4.3 8.4 4.5 8.6a.7.7 0 0 0 1 0C8.7 14.4 13 9.6 13 6c0-2.8-2.2-5-5-5zm0 6.8A1.8 1.8 0 1 1 8 4.2a1.8 1.8 0 0 1 0 3.6z"/></svg>Maps</a>
+    <a href="/maps/" data-rel="maps"><svg viewBox="0 0 16 16" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M8 1C5.2 1 3 3.2 3 6c0 3.6 4.3 8.4 4.5 8.6a.7.7 0 0 0 1 0C8.7 14.4 13 9.6 13 6c0-2.8-2.2-5-5-5zm0 6.8A1.8 1.8 0 1 1 8 4.2a1.8 1.8 0 0 1 0 3.6z"/></svg>Maps</a>
   </nav>
 </div></footer>
 
@@ -525,7 +526,16 @@ function applyText(){
   const _b=$('.brand'); if(_b){ _b.textContent=lx('share_title'); _b.href=(L==='ko'?'/':'/'+L+'/'); }
   const ci=$('#i_contrib'); if(ci) ci.href = 'https://github.com/jungrok5/one-scroll-bible/blob/main/'+(L==='ko'?'CONTRIBUTING.ko.md':'CONTRIBUTING.md');
   $$('#langPanel button').forEach(b=>b.classList.toggle('on',b.dataset.l===L));
-  bindContact();
+  bindContact(); relink(L);
+}
+/* Cross-page links carry the active language; fall back to the neutral (ko) page when a
+   surface lacks that language (e.g. about is not yet 1:1 with main/maps). One source of truth:
+   data-rel="home|about|maps" + window.__XLANGS__ (which langs each surface has). */
+function relink(lang){
+  const X=window.__XLANGS__||{about:['ko','en'],maps:['ko','en']};
+  const path=(base,set)=>lang==='ko'?base:(base==='/'?('/'+lang+'/'):((set&&set.indexOf(lang)>=0)?(base+lang+'/'):base));
+  $$('a[data-rel]').forEach(a=>{const r=a.getAttribute('data-rel');
+    a.setAttribute('href', r==='home'?path('/'):r==='about'?path('/about/',X.about):r==='maps'?path('/maps/',X.maps):a.getAttribute('href'));});
 }
 function bindContact(){
   var a=$('#contact'); if(!a) return;
@@ -730,6 +740,14 @@ if(shareLink) shareLink.addEventListener('click',e=>{
   if(navigator.share){ navigator.share(data).catch(()=>{}); return; }
   const flash=()=>{ shareLink.textContent=lx('toast_copied'); setTimeout(()=>{shareLink.textContent=T.i_share[L];},1800); };
   if(navigator.clipboard){ navigator.clipboard.writeText(url).then(flash,flash); } else { flash(); }
+});
+/* topbar share — like the main site: native share sheet on mobile, copy link on desktop. Shares THIS page. */
+const shareBtn=$('#shareBtn');
+if(shareBtn) shareBtn.addEventListener('click',()=>{
+  const url='https://one-scroll-bible.com/about/'+(L==='ko'?'':L+'/');
+  if(navigator.share){ navigator.share({title:lx('share_title'), url}).catch(()=>{}); return; }
+  const ok=()=>{ const o=shareBtn.textContent; shareBtn.textContent='✓'; setTimeout(()=>shareBtn.textContent=o,1500); };
+  if(navigator.clipboard){ navigator.clipboard.writeText(url).then(ok,ok); } else ok();
 });
 addEventListener('resize',()=>{ if(D) renderMap(); });
 

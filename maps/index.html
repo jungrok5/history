@@ -177,11 +177,12 @@
 </style>
 </head>
 <body class="ko">
-<script>window.__SUBLANGS__=[["ko","한국어","Korean"],["en","English","English"],["ar","العربية","Arabic"],["bn","বাংলা","Bengali"],["cs","Čeština","Czech"],["de","Deutsch","German"],["el","Ελληνικά","Greek"],["es","Español","Spanish"],["fa","فارسی","Persian"],["fr","Français","French"],["hi","हिन्दी","Hindi"],["id","Bahasa Indonesia","Indonesian"],["it","Italiano","Italian"],["ja","日本語","Japanese"],["nl","Nederlands","Dutch"],["pl","Polski","Polish"],["pt-BR","Português (BR)","Portuguese"],["ro","Română","Romanian"],["ru","Русский","Russian"],["ta","தமிழ்","Tamil"],["th","ไทย","Thai"],["tr","Türkçe","Turkish"],["uk","Українська","Ukrainian"],["ur","اردو","Urdu"],["vi","Tiếng Việt","Vietnamese"],["zh-Hans","中文（简体）","Chinese (Simplified)"],["zh-Hant","中文（繁體）","Chinese (Traditional)"]];</script>
+<script>window.__SUBLANGS__=[["ko","한국어","Korean"],["en","English","English"],["zh-Hans","中文（简体）","Chinese (Simplified)"],["zh-Hant","中文（繁體）","Chinese (Traditional)"],["ja","日本語","Japanese"],["es","Español","Spanish"],["pt-BR","Português (BR)","Portuguese"],["fr","Français","French"],["de","Deutsch","German"],["ru","Русский","Russian"],["ar","العربية","Arabic"],["hi","हिन्दी","Hindi"],["id","Bahasa Indonesia","Indonesian"],["vi","Tiếng Việt","Vietnamese"],["th","ไทย","Thai"],["ur","اردو","Urdu"],["bn","বাংলা","Bengali"],["tr","Türkçe","Turkish"],["fa","فارسی","Persian"],["ta","தமிழ்","Tamil"],["it","Italiano","Italian"],["pl","Polski","Polish"],["uk","Українська","Ukrainian"],["ro","Română","Romanian"],["nl","Nederlands","Dutch"],["el","Ελληνικά","Greek"],["cs","Čeština","Czech"]];window.__XLANGS__={"about":["ko","en","ar","bn","de","es","fa","fr","hi","ja","pt-BR","ru","ur","vi","zh-Hans","zh-Hant"],"maps":["ko","en","ar","bn","cs","de","el","es","fa","fr","hi","id","it","ja","nl","pl","pt-BR","ro","ru","ta","th","tr","uk","ur","vi","zh-Hans","zh-Hant"]};</script>
 <div id="topbar">
   <span class="dot"></span><a class="brand" href="/">한눈에 보는 성경 이야기</a>
   <span class="spacer"></span>
   <button class="iconbtn" id="langBtn" title="Language / 언어">🌐 <span id="langCur">한국어</span></button>
+  <button class="iconbtn" id="shareBtn" title="Share / 공유">↗</button>
   <button class="iconbtn" id="themeBtn" title="테마 전환 / Theme">🌗</button>
 </div>
 <div id="langPanel" hidden></div>
@@ -223,11 +224,11 @@
 <footer><div class="wrap">
   <p class="src" data-t="foot">출처 · 지명과 위치는 성경 본문과 표준 성서지리(가능한 경우 현대 지명 병기)를 따랐습니다. 해안선·하천·호수는 공개 지리 데이터(Natural Earth)를 단순화해 그렸습니다.</p>
   <p class="foot-contact" data-t="contact">문의 · 피드백 — <a id="contact" class="mail">메일 보기</a></p>
-  <p class="foot-name"><a href="/">Bible in One Scroll</a></p>
+  <p class="foot-name"><a href="/" data-rel="home">Bible in One Scroll</a></p>
   <nav class="site-meta">
     <a href="https://github.com/jungrok5/one-scroll-bible" target="_blank" rel="noopener"><svg viewBox="0 0 16 16" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>GitHub</a><span class="sep">·</span>
     <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a><span class="sep">·</span>
-    <a href="/about/"><svg viewBox="0 0 16 16" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M8 1.5A6.5 6.5 0 1 0 8 14.5 6.5 6.5 0 0 0 8 1.5zM8 4.4a1 1 0 1 1 0 2 1 1 0 0 1 0-2zM9.1 11.6H6.9v-.9h.6V8.2h-.6v-.9h2v3.4h.6z"/></svg>About</a>
+    <a href="/about/" data-rel="about"><svg viewBox="0 0 16 16" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M8 1.5A6.5 6.5 0 1 0 8 14.5 6.5 6.5 0 0 0 8 1.5zM8 4.4a1 1 0 1 1 0 2 1 1 0 0 1 0-2zM9.1 11.6H6.9v-.9h.6V8.2h-.6v-.9h2v3.4h.6z"/></svg>About</a>
   </nav>
 </div></footer>
 
@@ -300,7 +301,15 @@ function applyText(){
   $('#langCur').textContent = PACK?PACK.menuName:(L==='ko'?'한국어':'English');
   $$('[data-t]').forEach(n=>{ const v=T[n.dataset.t]; if(v) n.innerHTML=v[L]; });
   const _b=$('.brand'); if(_b){ _b.textContent=PACK?(PACK.brand||'Bible in One Scroll'):(L==='ko'?'한눈에 보는 성경 이야기':'Bible in One Scroll'); _b.href=(L==='ko'?'/':'/'+L+'/'); }
-  bindContact();
+  bindContact(); relink(L);
+}
+/* Cross-page links carry the active language; fall back to neutral (ko) when a surface lacks
+   that language (about is not yet 1:1). One source of truth: data-rel + window.__XLANGS__. */
+function relink(lang){
+  const X=window.__XLANGS__||{about:['ko','en'],maps:['ko','en']};
+  const path=(base,set)=>lang==='ko'?base:(base==='/'?('/'+lang+'/'):((set&&set.indexOf(lang)>=0)?(base+lang+'/'):base));
+  $$('a[data-rel]').forEach(a=>{const r=a.getAttribute('data-rel');
+    a.setAttribute('href', r==='home'?path('/'):r==='about'?path('/about/',X.about):r==='maps'?path('/maps/',X.maps):a.getAttribute('href'));});
 }
 function bindContact(){
   var a=$('#contact'); if(!a) return;
@@ -519,6 +528,15 @@ $('#themeBtn').addEventListener('click',()=>{
   const sp=document.documentElement.classList.contains('sepia');
   localStorage.setItem('bibleTheme',sp?'sepia':'dark');
   document.querySelector('meta[name=theme-color]').setAttribute('content',sp?'#efe6d3':'#0e1118');
+});
+/* topbar share — like the main site: native share sheet on mobile, copy link on desktop. Shares THIS page. */
+const shareBtn=$('#shareBtn');
+if(shareBtn) shareBtn.addEventListener('click',()=>{
+  const url='https://one-scroll-bible.com/maps/'+(L==='ko'?'':L+'/');
+  const title=PACK?(PACK.brand||'Bible in One Scroll'):'한눈에 보는 성경 이야기';
+  if(navigator.share){ navigator.share({title, url}).catch(()=>{}); return; }
+  const ok=()=>{ const o=shareBtn.textContent; shareBtn.textContent='✓'; setTimeout(()=>shareBtn.textContent=o,1500); };
+  if(navigator.clipboard){ navigator.clipboard.writeText(url).then(ok,ok); } else ok();
 });
 // ---- language — each language is its own prerendered page (/maps/<code>/).
 //   Keep in sync when adding a maps language (also add i18n/maps/<code>.json). ----
