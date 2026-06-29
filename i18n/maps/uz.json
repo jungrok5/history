@@ -1,0 +1,636 @@
+{
+ "menuName": "Oʻzbekcha",
+ "htmlLang": "uz",
+ "dir": "ltr",
+ "locale": "uz",
+ "brand": "Bir qarashda Muqaddas Kitob",
+ "docTitle": "Xaritada Muqaddas Kitob · Bir qarashda Muqaddas Kitob",
+ "metaDesc": "Eski Ahd tarixini, Isoning hayotini va Pavlusning safarlarini haqiqiy xaritada kuzating — Muqaddas Kitob haqiqiy joylarda sodir boʻlgan.",
+ "s": {
+  "kicker": "Bir qarashda Muqaddas Kitob · Xaritalar",
+  "title": "Xaritada Muqaddas Kitob",
+  "verse": "“Rabbimiz Iso Masihning kuch–qudrat bilan kelishi afsona emas. Biz sizlarga oʻrgatgan bu taʼlimotni oʻzimiz toʻqib chiqarmadik. Axir, Masihning ulugʻvorligini oʻz koʻzimiz bilan koʻrgan edik.” (2 Butrus 1:16)",
+  "purpose": "Muqaddas Kitob afsona emas. U haqiqiy joylar, sanalar va odamlar ustida yurgan kishilar haqidagi yozuvdir. Oʻsha yoʻllarni xaritada, vaqt tartibida kuzating — nuqtaga bosing yoki ▶ tugmasini bosib, qadam-baqadam kezing.",
+  "ot_kick": "① Eski Ahd — vaqt boʻylab",
+  "ot_h": "Yaratilishdan Quddusga qaytishgacha",
+  "ot_lead": "Bu bitta safar emas, balki yaratilishdan boshlangan najot tarixining oqimidir: yaratilish va inson tubanlashuvi → toʻfon va Bobil → chaqiriq (Ibrohim) → vaʼda qilingan yurt → Misrdan chiqish → sahro → yurtni egallash → shohlik → boʻlinish → surgun → qaytish.",
+  "je_kick": "② Yangi Ahd — Isoning hayoti",
+  "je_h": "Baytlahmdan Quddusgacha",
+  "je_lead": "Isoning hayotini Xushxabarlar hikoya qilganidek, tartib bilan kuzating — Baytlahmdagi tugʻilishidan choʻmdirilishi va Jaliladagi xizmati orqali, Samariya boʻylab, Quddusdagi xoch, tirilish va osmonga koʻtarilishga qadar.",
+  "pa_kick": "③ Yangi Ahd — Pavlusning safarlari",
+  "pa_h": "Antioxiyadan yer yuzining chekkalarigacha — Rimga",
+  "pa_lead": "Quddusdagi Hosil bayramidan boshlab, xushxabar Yahudiyadan tashqariga qanday tarqalgani — Kichik Osiyo va Yevropa orqali imperiyaning yuragiga qadar. Besh safardan birini tanlang (1·2·3 + Rimga sayohat + ozod boʻlgandan keyin) va yoʻlda yozilgan maktublar bilan Havoriylar voqealarini kuzating.",
+  "foot": "Manbalar · Joylar Muqaddas Kitob matni va standart Bibliya geografiyasiga (kerakli oʻrinlarda zamonaviy nomlar bilan) asoslanadi. Qirgʻoqlar, daryolar va koʻllar ochiq geografik maʼlumotlar (Natural Earth) asosida soddalashtirib chizilgan.",
+  "contact": "Savollar · fikr-mulohaza — <a id=\"contact\" class=\"mail\">Xat yozish</a>",
+  "play": "Ijro etish",
+  "pause": "Toʻxtatish",
+  "today": "Bugun:",
+  "verseCite": "2 Butrus 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Adan (Yaratilish · Tubanlashish)",
+    "book": "Ibtido 1–3",
+    "today": "bugungi Dajla–Furot mintaqasi",
+    "note": "«Juda yaxshi» yaratilgan olamga gunoh kirib, Xudo bilan inson oʻrtasidagi rishtani uzadi.",
+    "events": [
+     "Olti kunlik yaratilish — «juda yaxshi edi»",
+     "Inson Xudoning suratida yaratiladi",
+     "Tubanlashish va Adandan quvilish",
+     "Birinchi xushxabar vaʼdasi — «xotinning zoti ilonning boshini ezib tashlaydi»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Toʻfon)",
+    "book": "Ibtido 6–9",
+    "today": "bugungi sharqiy Turkiyadagi Ararat togʻi",
+    "note": "Xudo gunohga toʻlgan olamni hukm qiladi, ammo yagona bir oila orqali hayotni saqlab qoladi.",
+    "events": [
+     "Buzuqlikka toʻlgan olam",
+     "Toʻfon va Nuhning kemasi",
+     "Kamalak ahdi — «boshqa toʻfon yer yuzini yoʻq qilmaydi»"
+    ]
+   },
+   "babel": {
+    "name": "Bobil minorasi",
+    "book": "Ibtido 11",
+    "today": "bugungi Iroq (Shinar tekisligi)",
+    "note": "Osmonga intilgan takabburlikka qarshi Xudo ularning tilini va xalqlarni yer yuziga tarqatib yuboradi.",
+    "events": [
+     "«Keling, oʻzimizga shahar va minora quraylik… oʻzimizga nom chiqaraylik»",
+     "Xudo ularning tilini chalkashtiradi",
+     "Xalqlar yer yuziga tarqaladi (Shinar — keyinchalik Bobil)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Ibtido 12",
+    "today": "bugungi janubiy Iroq",
+    "note": "Muqaddas Kitobning najot hikoyasi yagona bir insonning chaqirilishi bilan boshlanadi.",
+    "events": [
+     "Xudo Ibromni xaldeylar yurti Urdan chaqiradi",
+     "«Seni buyuk xalq qilaman… sen orqali jamiki xalqlar baraka topadi»",
+     "U imon bilan oʻz yurtini tark etadi"
+    ]
+   },
+   "haran": {
+    "name": "Xoron",
+    "book": "Ibtido 12",
+    "today": "bugungi janubiy Turkiya",
+    "note": "Yoʻlda, vaʼda qilingan yurt sari chaqiriqqa javob berib.",
+    "events": [
+     "Toraxning oilasi Xoronda joylashadi",
+     "Torax vafot etadi",
+     "Ibrom 75 yoshida Kanʼonga yoʻl oladi"
+    ]
+   },
+   "shechem": {
+    "name": "Shakam · Kanʼon",
+    "book": "Ibtido 12–50",
+    "today": "bugungi Nablus",
+    "note": "Vaʼda qilingan yurtda bir oila tashkil topadi va ahd avloddan avlodga oʻtadi.",
+    "events": [
+     "Kanʼonga kirish, birinchi qurbongoh — «bu yurtni sening zotingga beraman»",
+     "Ahd (Ibtido 15) · Isʼhoq · Yoqub",
+     "Yoqubning oʻn ikki oʻgʻli — oʻn ikki qabilaning ildizi"
+    ]
+   },
+   "egypt": {
+    "name": "Misr (Goshen)",
+    "book": "Ibtido 37–50 · Chiqish 1",
+    "today": "bugungi Misr, Nil deltasi",
+    "note": "Bir oila buyuk xalqqa aylanadi — soʻngra qullar xalqiga.",
+    "events": [
+     "Sotib yuborilgan Yusuf Misr hokimi boʻlib koʻtariladi",
+     "Yoqubning butun oilasi ocharchilikdan qochib keladi",
+     "Oʻsib borayotgan Isroil xalqi qul qilinadi"
+    ]
+   },
+   "sinai": {
+    "name": "Sinay togʻi",
+    "book": "Chiqish · Levilar",
+    "today": "bugungi Sinay yarimoroli",
+    "note": "Eski Ahdning markaziy najoti — qullar Xudoning Oʻz xalqiga aylanadi.",
+    "events": [
+     "Oʻnta ofat va Pasxa qoʻzisi",
+     "Qizil dengiz ochilib, ular oʻtadi",
+     "Oʻn amr, Qonun, chodir-ibodatxona va qurbonliklar"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesh (sahro)",
+    "book": "Sahroda · Qonunlar",
+    "today": "bugungi Sinay–Negev sahrosi",
+    "note": "Ishonchsizlik bir avlodni yurtdan mahrum qiladi — ammo Xudo ular bilan qoladi.",
+    "events": [
+     "Oʻn ikki josus — ammo xalq ishonishdan bosh tortadi",
+     "Sahroda 38 yil — manna, bulut va olov",
+     "Moab tekisliklarida Musoning soʻnggi vaʼzi (Qonunlar)"
+    ]
+   },
+   "jericho": {
+    "name": "Yerixo",
+    "book": "Yoshua",
+    "today": "bugungi Yerixo",
+    "note": "Nihoyat kirib, vaʼda qilingan yurtni egallaydilar.",
+    "events": [
+     "Iordan ochilib, xalq oʻtadi",
+     "Yerixoning devorlari quladi",
+     "Kanʼonni egallash va yurtning boʻlinishi"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Hakamlar)",
+    "book": "Hakamlar · Rut",
+    "today": "bugungi Xirbat Saylun",
+    "note": "Shoh boʻlmagani uchun har kim bilganini qiladi — haqiqiy shoh kerak.",
+    "events": [
+     "Chodir-ibodatxona Shiloda oʻrnatiladi",
+     "Gunoh–zulm–najot davriyligi (Debora, Gideon, Shimsoʻn)",
+     "Rut — qorongʻu kunlardagi sadoqat, Dovud naslida"
+    ]
+   },
+   "jerusalem": {
+    "name": "Quddus · Yagona shohlik",
+    "book": "1–2 Shohlar · 3 Shohlar",
+    "today": "bugungi Quddus",
+    "note": "Isroilning oltin davri — va abadiy shoh vaʼdasi.",
+    "events": [
+     "Birinchi shoh Shoul, soʻngra Dovud va Goʻliyot",
+     "Dovud bilan ahd — «taxting to abad» (2 Shohlar 7)",
+     "Sulaymon Quddusda maʼbadni quradi"
+    ]
+   },
+   "samaria": {
+    "name": "Samariya · Boʻlingan shohlik",
+    "book": "Shohlar · Paygʻambarlar",
+    "today": "bugungi Sebastiya",
+    "note": "Paygʻambarlar faryod qilarkan, shohlik boʻlinib tanazzulga uchraydi.",
+    "events": [
+     "Sulaymondan keyin Yahudo va Isroilga boʻlinish",
+     "Takror-takror butparastlik",
+     "Ilyos, Ishayo, Yeremiyo «qaytinglar» deb faryod qiladi — va Masihni bashorat qiladi"
+    ]
+   },
+   "nineveh": {
+    "name": "Naynavo (Ossuriya)",
+    "book": "4 Shohlar 17 · Yunus",
+    "today": "bugungi Mosul, Iroq",
+    "note": "Har bir ogohlantirishga eʼtibor bermay, shimol birinchi boʻlib quladi.",
+    "events": [
+     "Naynavo, Ossuriyaning poytaxti",
+     "Shimoliy shohlik Ossuriya oldida quladi (mil. av. 722)",
+     "Yunus Naynavoga yuboriladi"
+    ]
+   },
+   "babylon": {
+    "name": "Bobil",
+    "book": "4 Shohlar 25 · Doniyor · Hizqiyo",
+    "today": "bugungi Xilla, Iroq",
+    "note": "Eng qorongʻu tun — ammo tiklanish vaʼdasi qoladi.",
+    "events": [
+     "Quddus quladi, maʼbad yondi (mil. av. 586)",
+     "Yahudo Bobilga olib ketildi",
+     "Doniyor va Hizqiyo — surgundagi imon va vahiylar"
+    ]
+   },
+   "susa": {
+    "name": "Shushan (Fors)",
+    "book": "Ester · Naximiyo",
+    "today": "bugungi Shush, Eron",
+    "note": "Butparast imperiyaning yuragida ham Xudo Oʻz xalqini saqlaydi.",
+    "events": [
+     "Fors Bobilni agʻdaradi",
+     "Ester yahudiylarni qirilishdan qutqaradi",
+     "Naximiyo shoh oldida ibodat qilib, yuboriladi"
+    ]
+   },
+   "return": {
+    "name": "Quddusga qaytish",
+    "book": "Ezra · Naximiyo · Malaki",
+    "today": "bugungi Quddus",
+    "note": "Qaytib kelib qayta quradilar — ammo shoh kelmadi. Ular Masihni kutadilar.",
+    "events": [
+     "Kir farmoni bilan uch toʻlqinli qaytish (Zarubbabel 538 · Ezra 458 · Naximiyo 444)",
+     "Maʼbad qayta qurildi va Quddus devorlari tiklandi",
+     "Malaki — Eski Ahd yopiladi: «Men Oʻz elchimni yuboryapman»"
+    ]
+   }
+  },
+  "labels": [
+   "Oʻrta dengiz",
+   "Mesopotamiya",
+   "Arabiston sahrosi",
+   "Misr"
+  ],
+  "journeys": {
+   "flow": "Najot hikoyasi"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Baytlahm",
+    "book": "Matto 1–2 · Luqo 2",
+    "today": "bugungi Baytlahm",
+    "note": "Vaʼda qilingan Masih Dovud shahriga keladi — Kalom inson boʻldi.",
+    "events": [
+     "Dovud shahri Baytlahmda tugʻiladi",
+     "Farishtalar choʻponlarga xabar beradi",
+     "Sehrgar donishmandlar sajda qilgani keladi"
+    ]
+   },
+   "nazareth": {
+    "name": "Nosira",
+    "book": "Luqo 2 · 4",
+    "today": "bugungi Nosira",
+    "note": "Xudo oddiy bir shaharchada inson boʻlib voyaga yetadi.",
+    "events": [
+     "Duradgor uyida tarbiyalanadi",
+     "Oʻn ikki yoshida maʼbadda savol berib, javob qaytaradi",
+     "Keyinroq oʻz yurtidagi sinagogada rad etiladi"
+    ]
+   },
+   "jordan": {
+    "name": "Iordan daryosi",
+    "book": "Matto 3–4",
+    "today": "bugungi quyi Iordan",
+    "note": "Uning ochiq xizmati boshlanadi — osmon Uni Oʻgʻil deb tasdiqlaydi.",
+    "events": [
+     "Yahyo tomonidan choʻmdiriladi",
+     "Ruh kaptardek tushadi — «Bu Mening sevikli Oʻgʻlim»",
+     "Sahroda Shaytonning uchta vasvasasini yengadi"
+    ]
+   },
+   "cana": {
+    "name": "Qano",
+    "book": "Yuhanno 2",
+    "today": "bugungi Kafr Kanna",
+    "note": "Oʻzining birinchi alomatida ulugʻvorligini namoyon qiladi.",
+    "events": [
+     "Toʻyda mehmon boʻladi",
+     "Suvni sharobga aylantiradi — birinchi alomati",
+     "Shogirdlari Unga ishonadi"
+    ]
+   },
+   "sychar": {
+    "name": "Sixar (Samariya)",
+    "book": "Yuhanno 2–4",
+    "today": "bugungi Nablus yaqinida",
+    "note": "Ilk xizmat yoʻli — Quddus orqali, mensilmagan Samariyaga.",
+    "events": [
+     "Quddusda maʼbadni poklaydi",
+     "Tunda Nikodim — «Qaytadan tugʻilishing kerak»",
+     "Samariyalik ayolga tiriklik suvi"
+    ]
+   },
+   "capernaum": {
+    "name": "Kafarnahum",
+    "book": "Matto 4–13 · Mark 1–4",
+    "today": "bugungi Jalila koʻli sohili",
+    "note": "Jalila xizmatining markazi — chaqiriq, taʼlim va qarshilik shu yerda uchrashadi.",
+    "events": [
+     "Baliqchilarni chaqirib, shu yerni markaz qiladi",
+     "Togʻdagi vaʼz — «Ruhan kambagʻallar baxtlidir»",
+     "Shohlik masallari — va kuchayib borayotgan qarshilik"
+    ]
+   },
+   "galilee": {
+    "name": "Jalila koʻli",
+    "book": "Mark 4 · 6 · Yuhanno 6",
+    "today": "bugungi Kinneret koʻli",
+    "note": "Tabiat ustidan qudrati bilan kimligini koʻrsatadi.",
+    "events": [
+     "«Tinchlan, jim boʻl» — boʻronni tinchitadi",
+     "Besh non va ikki baliq bilan 5000 kishini toʻydiradi",
+     "Suv ustida yuradi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Filip Qaysariyasi",
+    "book": "Matto 16–17",
+    "today": "bugungi Baniyos",
+    "note": "Shogirdlar Uning Masih ekanini anglaydi va xoch yoʻli ochiladi.",
+    "events": [
+     "Butrusning iqrori — «Sen tirik Xudoning Oʻgʻli Masihsan»",
+     "Oʻz oʻlimi va tirilishini birinchi bor oldindan aytadi",
+     "Togʻda ulugʻvorlikda nurlanadi"
+    ]
+   },
+   "jericho": {
+    "name": "Yerixo",
+    "book": "Luqo 18–19",
+    "today": "bugungi Yerixo",
+    "note": "Quddusga koʻtarilayotgan yoʻlda yoʻqolganni izlaydi.",
+    "events": [
+     "Koʻr Bartimoʻyga koʻzini ochib beradi",
+     "Soliqchi Zakkayni chaqiradi",
+     "«Inson Oʻgʻli yoʻqolganni izlab qutqargani keldi»"
+    ]
+   },
+   "bethany": {
+    "name": "Baytaniya",
+    "book": "Yuhanno 11–12",
+    "today": "bugungi al-Eziriya",
+    "note": "Soʻnggi haftasining arafasida oʻlim ustidan hokimligini koʻrsatadi.",
+    "events": [
+     "Lazarni qabrdan tiriltiradi — «Tirilish va hayot Menman»",
+     "Maryam Uni dafnga moylaydi",
+     "Bu alomat Uni oʻldirish fitnasini kuchaytiradi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Quddus",
+    "book": "Matto 21–28 · Luqo 24 · Havoriylar 1",
+    "today": "bugungi Quddus",
+    "note": "Butun Muqaddas Kitob ishora qilgan choʻqqi — xoch, tirilish, osmonga koʻtarilish.",
+    "events": [
+     "Tantanali kirish; maʼbad stollarini yana agʻdaradi",
+     "Soʻnggi taomda shogirdlarining oyogʻini yuvadi",
+     "Xochda jon beradi",
+     "Uchinchi kuni tiriladi, soʻngra osmonga koʻtariladi"
+    ]
+   }
+  },
+  "labels": [
+   "Oʻrta dengiz",
+   "Jalila",
+   "Samariya",
+   "Yahudiya",
+   "Dekapolis",
+   "Pereya",
+   "Oʻlik dengiz"
+  ],
+  "journeys": {
+   "life": "Isoning yoʻli"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioxiya",
+    "book": "Havoriylar 13 · 15",
+    "today": "bugungi Antakya, Turkiya",
+    "note": "Gʻayriyahudiy missiyasi boshlanib qaytadigan, yuboruvchi jamoat.",
+    "events": [
+     "Ibodatda Ruh Barnabo va Shoulni ajratib oladi",
+     "Imonlilar birinchi marta «masihiy» deb atalgan jamoat",
+     "1, 2 va 3-safarlarning boshlanish nuqtasi"
+    ]
+   },
+   "seleucia": {
+    "name": "Salavkiya",
+    "book": "Havoriylar 13:4",
+    "today": "bugungi Turkiya",
+    "note": "Antioxiyaning porti — Kiprga yelkan koʻtaradilar.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamin (Kipr)",
+    "book": "Havoriylar 13:5",
+    "today": "bugungi Kipr",
+    "note": "Kiprdagi birinchi toʻxtash — sinagogalarda vaʼz qiladilar.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Havoriylar 13:6-12",
+    "today": "bugungi Kipr",
+    "note": "Xushxabarga qarshi chiqqanlarga qarshi qudrat namoyon boʻladi.",
+    "events": [
+     "Sehrgar Baryesho koʻr boʻlib qoladi",
+     "Hokim Sergiy Pavlus ishonadi",
+     "Shu yerdan «Pavlus» yetakchilikni oladi"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Havoriylar 13:13",
+    "today": "bugungi Antalya, Turkiya",
+    "note": "Pamfiliyadagi port — shu yerda Yuhanno Mark qaytib ketadi.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidiya Antioxiyasi",
+    "book": "Havoriylar 13:14-50",
+    "today": "bugungi Yalvach, Turkiya",
+    "note": "Xushxabar gʻayriyahudiylar sari yoriladi.",
+    "events": [
+     "Sinagogada najot tarixi haqidagi uzun vaʼz",
+     "Koʻplab gʻayriyahudiylar quvonib, kalomni qabul qiladi",
+     "Qarshilik tufayli quvib chiqariladilar"
+    ]
+   },
+   "iconium": {
+    "name": "Konya",
+    "book": "Havoriylar 14:1-7",
+    "today": "bugungi Konya, Turkiya",
+    "note": "Koʻpchilik ishonadi, ammo taʼqib ularni oldinga undaydi.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Havoriylar 14:8-20",
+    "today": "bugungi Turkiya",
+    "note": "Avval xudo deb maqtaladi, soʻngra toshboʻron qilinadi.",
+    "events": [
+     "Tugʻma choloq odamni sogʻaytiradi",
+     "Olomon ularga xudolardek qurbonlik qilmoqchi boʻladi",
+     "Toshboʻron qilinib oʻlik deb tashlangach, oʻrnidan turadi"
+    ]
+   },
+   "derbe": {
+    "name": "Derba",
+    "book": "Havoriylar 14:20-21",
+    "today": "bugungi Turkiya",
+    "note": "Koʻp shogird orttirilib, jamoatlarni mustahkamlash uchun ortga qaytadilar.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Havoriylar 16:8-10",
+    "today": "bugungi Turkiya",
+    "note": "Xushxabar birinchi marta Yevropaga yoʻl oladigan burilish nuqtasi.",
+    "events": [
+     "Makedoniyalik bir kishi haqida vahiy",
+     "«Yevropaga oʻtib, bizga yordam ber»",
+     "Darhol Yevropaga oʻtadilar"
+    ]
+   },
+   "philippi": {
+    "name": "Filippi",
+    "book": "Havoriylar 16 · Filippiliklarga",
+    "today": "bugungi shimoliy Gretsiya",
+    "note": "Yevropadagi birinchi jamoat — xushxabar hatto zindonda ham gʻalaba qozonadi.",
+    "events": [
+     "Qirmizi mato sotuvchi Lidiya ishonadi",
+     "Folbinlik ruhidagi cho‘ri ozod qilinadi",
+     "Yarim tundagi madhiyalar, zilzila, zindonbonning oilasi najot topadi"
+    ]
+   },
+   "thess": {
+    "name": "Salonika",
+    "book": "Havoriylar 17 · 1–2 Salonikaliklarga",
+    "today": "bugungi Saloniki, Gretsiya",
+    "note": "Kalom shaharni larzaga soladi va qarshilik avjiga chiqadi.",
+    "events": [
+     "Sinagogada uch shanba kuni dalil keltiradi",
+     "«Dunyoni ostin-ustun qilganlar»",
+     "Tunda yashirincha joʻnab ketadilar"
+    ]
+   },
+   "berea": {
+    "name": "Bereya",
+    "book": "Havoriylar 17:10-15",
+    "today": "bugungi Veriya, Gretsiya",
+    "note": "Kalomni oʻzlari tekshirib koʻrgan «olijanob» kishilar.",
+    "events": [
+     "Kalomni katta ishtiyoq bilan qabul qiladilar",
+     "Toʻgʻriligini tekshirib, har kuni Yozuvlarni oʻrganadilar",
+     "Koʻpchilik ishonadi"
+    ]
+   },
+   "athens": {
+    "name": "Afina",
+    "book": "Havoriylar 17:16-34",
+    "today": "bugungi Afina, Gretsiya",
+    "note": "Faylasuflar shahrida «notanish xudo»ni eʼlon qiladi.",
+    "events": [
+     "Butlarga toʻla shahardan ruhi qoʻzgʻaladi",
+     "Areopagda Yaratuvchi va tirilishni vaʼz qiladi",
+     "Masxara qilinadi, ammo bir nechtasi ishonadi"
+    ]
+   },
+   "corinth": {
+    "name": "Korinf",
+    "book": "Havoriylar 18 · 1–2 Korinfliklarga",
+    "today": "bugungi Gretsiya",
+    "note": "Bir yarim yil qolib, buzuq shaharda jamoat tashkil etadi.",
+    "events": [
+     "Akila va Priskilla bilan chodir tikadi",
+     "«Qoʻrqma… Men sen bilanman»",
+     "Koʻp korinfliklar ishonib, choʻmdiriladi"
+    ]
+   },
+   "ephesus": {
+    "name": "Efes",
+    "book": "Havoriylar 19 · Efesliklarga",
+    "today": "bugungi Selchuk, Turkiya",
+    "note": "Uchinchi safarning yuragi — kalom butun Osiyo boʻylab tarqaladi.",
+    "events": [
+     "Tiran maktabida ikki yil har kuni taʼlim beradi",
+     "Sehr kitoblari yondiriladi; qudratli ishlar",
+     "Kumushchi Dimitriy gʻalayon koʻtaradi"
+    ]
+   },
+   "miletus": {
+    "name": "Milet",
+    "book": "Havoriylar 20:17-38",
+    "today": "bugungi Turkiya",
+    "note": "Efes oqsoqollari bilan koʻz yoshli vidolashuv.",
+    "events": [
+     "«Oʻz qoni bilan sotib olgan jamoatga gʻamxoʻrlik qilinglar»",
+     "Oqsoqollar Uni boshqa koʻrmasliklarini bilib yigʻlaydi"
+    ]
+   },
+   "caesarea": {
+    "name": "Qaysariya",
+    "book": "Havoriylar 23–26",
+    "today": "bugungi Isroil sohili",
+    "note": "Ikki yil davomida hokimlar va shoh oldida xushxabarni himoya qiladi.",
+    "events": [
+     "Hokimlar Feliks va Fest oldida sud",
+     "Shoh Agrippa oldidagi himoyasi",
+     "«Qaysarga shikoyat qilaman» — Rim sari"
+    ]
+   },
+   "jerusalem": {
+    "name": "Quddus",
+    "book": "Havoriylar 21–23",
+    "today": "bugungi Quddus",
+    "note": "Maʼbadda qoʻlga olinib, mahbus sifatidagi yoʻli boshlanadi.",
+    "events": [
+     "Maʼbadda olomon tomonidan qoʻlga olinadi",
+     "Kengash oldida oʻzini himoya qiladi",
+     "Rim fuqarosi sifatida qoʻriqlanib Qaysariyaga yuboriladi"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Havoriylar 27:5-6",
+    "today": "bugungi Demre, Turkiya",
+    "note": "Rimga yoʻl olgan Iskandariya kemasiga koʻchadilar.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Yaxshi bandargohlar (Krit)",
+    "book": "Havoriylar 27:8-12",
+    "today": "bugungi Krit",
+    "note": "Pavlusning suzishni toʻxtatish ogohlantirishi eʼtiborsiz qoldiriladi.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krit",
+    "book": "Titusga",
+    "today": "bugungi Krit",
+    "note": "Ozod boʻlgach, jamoatlarni tartibga solish uchun Titusni qoldirgan orol.",
+    "events": [
+     "Har shaharda oqsoqol tayinlash uchun Titusni qoldiradi",
+     "Beayb va sadoqatli yetakchilarni talab qiladi",
+     "Titusga maktub yozadi"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Havoriylar 27–28",
+    "today": "bugungi Malta",
+    "note": "Boʻron va kema halokati orqali Xudoning vaʼdasi mahkam turadi.",
+    "events": [
+     "«Shimoli-sharqiy» boʻron kemani sindiradi, ammo 276 kishi omon qoladi",
+     "Ilon chaqsa-da, unga ziyon yetmaydi",
+     "Orolning kasallarini sogʻaytiradi"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuza",
+    "book": "Havoriylar 28:12",
+    "today": "bugungi Sitsiliya, Italiya",
+    "note": "Sitsiliyada uch kun qoladilar.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Havoriylar 28:13-14",
+    "today": "bugungi Potstsuoli, Italiya",
+    "note": "Italiyaga qoʻnib, imondosh birodarlar tomonidan kutib olinadilar.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rim",
+    "book": "Havoriylar 28 · Zindon maktublari · 2 Timoʻtiyga",
+    "today": "bugungi Rim, Italiya",
+    "note": "Xushxabar nihoyat imperiyaning yuragiga yetadi — bu tugash emas, balki boshlanish.",
+    "events": [
+     "Ikki yil uy qamogʻida dadillik bilan Shohlikni eʼlon qiladi",
+     "Shu yerdan zindon maktublarini yozadi (Efes·Filippi·Kolosa·Filimon)",
+     "Keyinroq yana qamalib, 2 Timoʻtiyni yozadi va shahid boʻladi — «Yaxshi kurashni kurashdim, poygani tugatdim»"
+    ]
+   }
+  },
+  "labels": [
+   "Oʻrta dengiz",
+   "Egey dengizi",
+   "Kichik Osiyo",
+   "Makedoniya",
+   "Italiya"
+  ],
+  "journeys": {
+   "j1": "Birinchi safar",
+   "j2": "Ikkinchi safar",
+   "j3": "Uchinchi safar",
+   "rome": "Toʻrtinchi safar · Rimga",
+   "j5": "Beshinchi safar · ozod boʻlgandan keyin"
+  }
+ }
+}

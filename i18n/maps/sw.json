@@ -1,0 +1,636 @@
+{
+ "menuName": "Kiswahili",
+ "htmlLang": "sw",
+ "dir": "ltr",
+ "locale": "sw",
+ "brand": "Biblia kwa Mkunjo Mmoja",
+ "docTitle": "Biblia kwa Ramani · Biblia kwa Mkunjo Mmoja",
+ "metaDesc": "Fuata mtiririko wa Agano la Kale, maisha ya Yesu, na safari za Paulo kwenye ramani halisi — Biblia ilitokea katika maeneo halisi.",
+ "s": {
+  "kicker": "Biblia kwa Mkunjo Mmoja · Ramani",
+  "title": "Biblia kwa Ramani",
+  "verse": "“For we did not follow cleverly devised myths …” (2 Peter 1:16)",
+  "purpose": "Biblia si ngano. Ni kumbukumbu ya watu waliotembea katika maeneo, tarehe, na majina halisi. Fuata njia hizo kwenye ramani, kwa mtiririko wa wakati — gusa kituo, au bonyeza ▶ ili kupita ndani yake hatua kwa hatua.",
+  "ot_kick": "① Agano la Kale — kupitia wakati",
+  "ot_h": "Kutoka uumbaji hadi kurudi Yerusalemu",
+  "ot_lead": "Si safari moja bali ni mtiririko wa historia ya ukombozi tangu uumbaji: uumbaji na anguko → gharika na Babeli → wito (Abrahamu) → nchi ya ahadi → Kutoka → jangwani → ushindi → ufalme → mgawanyiko → uhamisho → kurudi.",
+  "je_kick": "② Agano Jipya — maisha ya Yesu",
+  "je_h": "Kutoka Bethlehemu hadi Yerusalemu",
+  "je_lead": "Fuata maisha ya Yesu kama Injili zinavyoyasimulia, kwa mtiririko — kuanzia kuzaliwa kwake Bethlehemu kupitia ubatizo wake na huduma ya Galilaya, kuvuka Samaria, hadi msalaba, ufufuo na kupaa kule Yerusalemu.",
+  "pa_kick": "③ Agano Jipya — safari za Paulo",
+  "pa_h": "Kutoka Antiokia hadi miisho ya dunia — Roma",
+  "pa_lead": "Kuanzia Pentekoste kule Yerusalemu, jinsi Injili ilivyoenea nje ya Uyahudi — kupitia Asia Ndogo na Ulaya hadi moyoni mwa milki. Chagua mojawapo ya safari tano (ya 1·ya 2·ya 3 + safari ya kwenda Roma + baada ya kufunguliwa) na ufuate matukio ya Matendo pamoja na nyaraka zilizoandikwa njiani.",
+  "foot": "Vyanzo · Maeneo yanafuata maandiko ya Biblia na jiografia ya kawaida ya Biblia (pamoja na majina ya kisasa pale yanaposaidia). Mwambao, mito na maziwa vimechorwa kutoka data za kijiografia za wazi (Natural Earth), zilizorahisishwa.",
+  "contact": "Maswali · maoni — <a id=\"contact\" class=\"mail\">Tutumie barua pepe</a>",
+  "play": "Cheza",
+  "pause": "Simamisha",
+  "today": "Leo:",
+  "verseCite": "2 Petro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edeni (Uumbaji · Anguko)",
+    "book": "Mwanzo 1–3",
+    "today": "eneo la Tigri–Frati leo",
+    "note": "Katika ulimwengu ulioumbwa ukiwa “mzuri sana,” dhambi inaingia na kuvunja uhusiano kati ya Mungu na wanadamu.",
+    "events": [
+     "Uumbaji katika siku sita — “ilikuwa njema sana”",
+     "Mwanadamu aliumbwa kwa mfano wa Mungu",
+     "Anguko, na kufukuzwa Edeni",
+     "Ahadi ya kwanza ya Injili — “uzao wa mwanamke utakiponda kichwa cha nyoka”"
+    ]
+   },
+   "noah": {
+    "name": "Ararati (Gharika)",
+    "book": "Mwanzo 6–9",
+    "today": "Mlima Ararati, mashariki mwa Uturuki leo",
+    "note": "Mungu anauhukumu ulimwengu uliojaa dhambi, lakini anauhifadhi uhai kupitia familia moja.",
+    "events": [
+     "Ulimwengu uliojaa uharibifu",
+     "Gharika, na safina ya Nuhu",
+     "Agano la upinde wa mvua — “gharika haitakuwapo tena kuangamiza”"
+    ]
+   },
+   "babel": {
+    "name": "Mnara wa Babeli",
+    "book": "Mwanzo 11",
+    "today": "Iraki leo (tambarare ya Shinari)",
+    "note": "Dhidi ya kiburi kinachofikia mbinguni, Mungu anachafua lugha yao na kuwatawanya watu juu ya nchi.",
+    "events": [
+     "“Tujenge mji na mnara… tukajifanyie jina”",
+     "Mungu anachafua lugha yao",
+     "Watu wanatawanyika juu ya nchi (Shinari — baadaye Babeli)"
+    ]
+   },
+   "ur": {
+    "name": "Uru",
+    "book": "Mwanzo 12",
+    "today": "kusini mwa Iraki leo",
+    "note": "Hadithi ya Biblia ya ukombozi inaanza na wito wa mtu mmoja.",
+    "events": [
+     "Mungu anamwita Abramu atoke Uru wa Wakaldayo",
+     "“Nitakufanya kuwa taifa kubwa… jamaa zote zitabarikiwa kupitia wewe”",
+     "Kwa imani anaiacha nchi yake"
+    ]
+   },
+   "haran": {
+    "name": "Harani",
+    "book": "Mwanzo 12",
+    "today": "kusini mwa Uturuki leo",
+    "note": "Njiani, akiitikia wito kuelekea nchi ya ahadi.",
+    "events": [
+     "Familia ya Tera inakaa Harani",
+     "Tera anafariki",
+     "Abramu anaondoka kwenda Kanaani akiwa na umri wa miaka 75"
+    ]
+   },
+   "shechem": {
+    "name": "Shekemu · Kanaani",
+    "book": "Mwanzo 12–50",
+    "today": "Nablus leo",
+    "note": "Katika nchi ya ahadi familia inaanzishwa na agano linapita vizazi kwa vizazi.",
+    "events": [
+     "Kuingia Kanaani, madhabahu ya kwanza — “nitakupa uzao wako nchi hii”",
+     "Agano (Mwanzo 15) · Isaka · Yakobo",
+     "Wana kumi na wawili wa Yakobo — mzizi wa kabila kumi na mbili"
+    ]
+   },
+   "egypt": {
+    "name": "Misri (Gosheni)",
+    "book": "Mwanzo 37–50 · Kutoka 1",
+    "today": "Delta ya Nile, Misri leo",
+    "note": "Familia inakuwa taifa kubwa — kisha taifa la watumwa.",
+    "events": [
+     "Yusufu, aliyeuzwa, anapanda kutawala Misri",
+     "Familia yote ya Yakobo inashuka kuepuka njaa",
+     "Taifa la Israeli linalokua linafanywa watumwa"
+    ]
+   },
+   "sinai": {
+    "name": "Mlima Sinai",
+    "book": "Kutoka · Mambo ya Walawi",
+    "today": "Rasi ya Sinai leo",
+    "note": "Ukombozi mkuu wa Agano la Kale — watumwa wanakuwa watu wa Mungu mwenyewe.",
+    "events": [
+     "Mapigo kumi na mwana-kondoo wa Pasaka",
+     "Bahari ya Shamu inagawanyika nao wanavuka",
+     "Amri Kumi, Sheria, hema ya kukutania na dhabihu"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeshi (jangwani)",
+    "book": "Hesabu · Kumbukumbu la Torati",
+    "today": "jangwa la Sinai–Negebu leo",
+    "note": "Kutoamini kunakigharimu kizazi kimoja nchi — lakini Mungu anabaki nao.",
+    "events": [
+     "Wapelelezi kumi na wawili — lakini watu wanakataa kuamini",
+     "Miaka 38 jangwani — mana, wingu na moto",
+     "Katika nyanda za Moabu, hubiri ya mwisho ya Musa (Kumbukumbu la Torati)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Yoshua",
+    "today": "Yeriko leo",
+    "note": "Hatimaye wanaingia na kuiteka nchi ya ahadi.",
+    "events": [
+     "Yordani inagawanyika na watu wanavuka",
+     "Kuta za Yeriko zinaanguka",
+     "Ushindi wa Kanaani na mgawanyo wa nchi"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Waamuzi)",
+    "book": "Waamuzi · Ruthu",
+    "today": "Khirbet Seilun leo",
+    "note": "Bila mfalme, kila mtu anafanya apendavyo — mfalme wa kweli anahitajika.",
+    "events": [
+     "Hema ya kukutania inasimikwa Shilo",
+     "Mzunguko wa dhambi–dhuluma–ukombozi (Debora, Gideoni, Samsoni)",
+     "Ruthu — uaminifu katika siku za giza, katika ukoo wa Daudi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu · Ufalme Ulioungana",
+    "book": "1–2 Samweli · 1 Wafalme",
+    "today": "Yerusalemu leo",
+    "note": "Zama za dhahabu za Israeli — na ahadi ya mfalme wa milele.",
+    "events": [
+     "Sauli mfalme wa kwanza, kisha Daudi na Goliathi",
+     "Agano la Daudi — “kiti chako cha enzi milele” (2 Samweli 7)",
+     "Sulemani anajenga hekalu Yerusalemu"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Ufalme Uliogawanyika",
+    "book": "Wafalme · Manabii",
+    "today": "Sebastia leo",
+    "note": "Ufalme unagawanyika na kushuka huku manabii wakilia.",
+    "events": [
+     "Baada ya Sulemani, mgawanyiko kuwa Yuda na Israeli",
+     "Ibada ya sanamu inayorudia",
+     "Eliya, Isaya, Yeremia wanalia ‘rudini’ — na kutabiri Masihi"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninawi (Ashuru)",
+    "book": "2 Wafalme 17 · Yona",
+    "today": "Mosul, Iraki leo",
+    "note": "Wakipuuza kila onyo, kaskazini unaanguka kwanza.",
+    "events": [
+     "Ninawi, mji mkuu wa Ashuru",
+     "Ufalme wa kaskazini unaanguka mbele ya Ashuru (722 KK)",
+     "Yona anatumwa Ninawi"
+    ]
+   },
+   "babylon": {
+    "name": "Babeli",
+    "book": "2 Wafalme 25 · Danieli · Ezekieli",
+    "today": "Hillah, Iraki leo",
+    "note": "Usiku wa giza zaidi — lakini ahadi ya urejesho inabaki.",
+    "events": [
+     "Yerusalemu inaanguka, hekalu linateketezwa (586 KK)",
+     "Yuda inachukuliwa hadi Babeli",
+     "Danieli na Ezekieli — imani na maono katika uhamisho"
+    ]
+   },
+   "susa": {
+    "name": "Shushani (Uajemi)",
+    "book": "Esta · Nehemia",
+    "today": "Shush, Iran leo",
+    "note": "Hata moyoni mwa milki ya kipagani, Mungu anawalinda watu wake.",
+    "events": [
+     "Uajemi unaipindua Babeli",
+     "Esta anawaokoa Wayahudi kutoka kuangamizwa",
+     "Nehemia anaomba mbele ya mfalme na anatumwa"
+    ]
+   },
+   "return": {
+    "name": "Kurudi Yerusalemu",
+    "book": "Ezra · Nehemia · Malaki",
+    "today": "Yerusalemu leo",
+    "note": "Wanarudi na kujenga upya — lakini hakuna mfalme aliyekuja. Wanamngojea Masihi.",
+    "events": [
+     "Mawimbi matatu ya kurudi kwa amri ya Koreshi (Zerubabeli 538 · Ezra 458 · Nehemia 444)",
+     "Hekalu lajengwa upya na kuta za Yerusalemu zarejeshwa",
+     "Malaki — Agano la Kale linafungwa: “Nitamtuma mjumbe wangu”"
+    ]
+   }
+  },
+  "labels": [
+   "Bahari ya Mediterania",
+   "Mesopotamia",
+   "Jangwa la Uarabuni",
+   "Misri"
+  ],
+  "journeys": {
+   "flow": "Hadithi ya ukombozi"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bethlehemu",
+    "book": "Mathayo 1–2 · Luka 2",
+    "today": "Bethlehemu leo",
+    "note": "Masihi aliyeahidiwa anakuja mji wa Daudi — Neno limefanyika mwili.",
+    "events": [
+     "Anazaliwa Bethlehemu, mji wa Daudi",
+     "Malaika wanawatangazia wachungaji habari",
+     "Mamajusi wanakuja kumwabudu"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareti",
+    "book": "Luka 2 · 4",
+    "today": "Nazareti leo",
+    "note": "Mungu anakua kama mwanadamu katika mji wa kawaida.",
+    "events": [
+     "Analelewa katika nyumba ya seremala",
+     "Akiwa na umri wa miaka kumi na miwili, anauliza na kujibu hekaluni",
+     "Baadaye anakataliwa katika sinagogi la mji wake"
+    ]
+   },
+   "jordan": {
+    "name": "Mto Yordani",
+    "book": "Mathayo 3–4",
+    "today": "Yordani ya chini leo",
+    "note": "Huduma yake ya hadhara inaanza — mbingu inamhakikisha kuwa Mwana.",
+    "events": [
+     "Anabatizwa na Yohana",
+     "Roho anashuka kama njiwa — “Huyu ni Mwanangu mpendwa”",
+     "Anashinda majaribu matatu ya Shetani jangwani"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yohana 2",
+    "today": "Kafr Kanna leo",
+    "note": "Katika ishara yake ya kwanza anadhihirisha utukufu wake.",
+    "events": [
+     "Mgeni katika harusi",
+     "Maji yanageuzwa kuwa divai — ishara yake ya kwanza",
+     "Wanafunzi wake wanamwamini"
+    ]
+   },
+   "sychar": {
+    "name": "Sikari (Samaria)",
+    "book": "Yohana 2–4",
+    "today": "karibu na Nablus leo",
+    "note": "Njia ya huduma ya mwanzo — kupitia Yerusalemu na hadi Samaria iliyodharauliwa.",
+    "events": [
+     "Anatakasa hekalu Yerusalemu",
+     "Usiku, Nikodemo — “Hana budi kuzaliwa mara ya pili”",
+     "Maji ya uzima kwa mwanamke Msamaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaumu",
+    "book": "Mathayo 4–13 · Marko 1–4",
+    "today": "ufuko wa ziwa la Galilaya leo",
+    "note": "Kituo cha huduma ya Galilaya — wito, mafundisho na upinzani vyote vinakutana hapa.",
+    "events": [
+     "Anawaita wavuvi na kujifanya kituo hapa",
+     "Mahubiri ya Mlimani — “Heri walio maskini wa roho”",
+     "Mifano ya ufalme — na upinzani unaoinuka"
+    ]
+   },
+   "galilee": {
+    "name": "Bahari ya Galilaya",
+    "book": "Marko 4 · 6 · Yohana 6",
+    "today": "Ziwa Kinneret leo",
+    "note": "Kwa nguvu juu ya asili anaonyesha yeye ni nani.",
+    "events": [
+     "“Nyamaza, utulie” — anatuliza dhoruba",
+     "Analisha 5,000 kwa mikate mitano na samaki wawili",
+     "Anatembea juu ya maji"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisaria Filipi",
+    "book": "Mathayo 16–17",
+    "today": "Banias leo",
+    "note": "Wanafunzi wanatambua kuwa yeye ni Kristo, na njia ya msalaba inafunguka.",
+    "events": [
+     "Ungamo la Petro — “Wewe ndiwe Kristo, Mwana wa Mungu aliye hai”",
+     "Anatabiri kwa mara ya kwanza kifo chake na ufufuo",
+     "Anageuka sura kwa utukufu mlimani"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Luka 18–19",
+    "today": "Yeriko leo",
+    "note": "Akiwa njiani kupanda Yerusalemu, anawatafuta waliopotea.",
+    "events": [
+     "Anampa kipofu Bartimayo kuona",
+     "Anamwita Zakayo mtoza ushuru",
+     "“Mwana wa Adamu alikuja kutafuta na kuokoa kilichopotea”"
+    ]
+   },
+   "bethany": {
+    "name": "Bethania",
+    "book": "Yohana 11–12",
+    "today": "al-Eizariya leo",
+    "note": "Anaonyesha mamlaka juu ya mauti usiku wa juma lake la mwisho.",
+    "events": [
+     "Anamfufua Lazaro kaburini — “Mimi ndimi huo ufufuo, na uzima”",
+     "Mariamu anampaka mafuta kwa maziko yake",
+     "Ishara hii inaimarisha njama ya kumuua"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu",
+    "book": "Mathayo 21–28 · Luka 24 · Matendo 1",
+    "today": "Yerusalemu leo",
+    "note": "Kilele ambacho Biblia nzima inakielekeza — msalaba, ufufuo, kupaa.",
+    "events": [
+     "Kuingia kwa ushindi; anapindua tena meza za hekaluni",
+     "Katika Karamu ya Mwisho anawaosha wanafunzi miguu",
+     "Anakufa msalabani",
+     "Amefufuka siku ya tatu, kisha amepaa"
+    ]
+   }
+  },
+  "labels": [
+   "Bahari ya Mediterania",
+   "Galilaya",
+   "Samaria",
+   "Uyahudi",
+   "Dekapoli",
+   "Perea",
+   "Bahari ya Chumvi"
+  ],
+  "journeys": {
+   "life": "Njia ya Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Matendo 13 · 15",
+    "today": "Antakya, Uturuki leo",
+    "note": "Kanisa litumalo ambapo umisheni kwa Mataifa unaanza na kurudi.",
+    "events": [
+     "Katika maombi Roho anawatenga Barnaba na Sauli",
+     "Kanisa ambapo waumini waliitwa kwa mara ya kwanza ‘Wakristo’",
+     "Mahali pa kuanzia safari ya 1, ya 2 na ya 3"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Matendo 13:4",
+    "today": "Uturuki leo",
+    "note": "Bandari ya Antiokia — wanasafiri kwa meli kwenda Kipro.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salami (Kipro)",
+    "book": "Matendo 13:5",
+    "today": "Kipro leo",
+    "note": "Kituo cha kwanza Kipro — wakihubiri katika masinagogi.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Matendo 13:6-12",
+    "today": "Kipro leo",
+    "note": "Nguvu inadhihirishwa dhidi ya wale wanaoipinga Injili.",
+    "events": [
+     "Elima mchawi anapigwa upofu",
+     "Sergio Paulo, liwali, anaamini",
+     "Tangu hapa ‘Paulo’ anashika uongozi"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Matendo 13:13",
+    "today": "Antalya, Uturuki leo",
+    "note": "Bandari katika Pamfilia — hapa Yohana Marko anarudi nyuma.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia ya Pisidia",
+    "book": "Matendo 13:14-50",
+    "today": "Yalvaç, Uturuki leo",
+    "note": "Injili inafunguka kuelekea kwa Mataifa.",
+    "events": [
+     "Hubiri ndefu ya historia ya wokovu katika sinagogi",
+     "Mataifa wengi wanafurahi na kulipokea Neno",
+     "Wanafukuzwa kwa upinzani"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonio",
+    "book": "Matendo 14:1-7",
+    "today": "Konya, Uturuki leo",
+    "note": "Wengi wanaamini, lakini mateso yanawalazimisha kuendelea.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Matendo 14:8-20",
+    "today": "Uturuki leo",
+    "note": "Anasifiwa kama mungu, kisha anapigwa mawe.",
+    "events": [
+     "Anamponya mtu kiwete tangu kuzaliwa",
+     "Umati unajaribu kuwatolea dhabihu kama miungu",
+     "Anapigwa mawe na kuachwa kama amekufa, lakini anasimama"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Matendo 14:20-21",
+    "today": "Uturuki leo",
+    "note": "Wanafunzi wengi wanapatikana; wanarudi njia yao kuyaimarisha makanisa.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troa",
+    "book": "Matendo 16:8-10",
+    "today": "Uturuki leo",
+    "note": "Mahali pa mageuko ambapo Injili kwa mara ya kwanza inaelekea Ulaya.",
+    "events": [
+     "Maono ya mtu wa Makedonia",
+     "“Vuka uje utusaidie”",
+     "Mara wanavuka kwenda Ulaya"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Matendo 16 · Wafilipi",
+    "today": "kaskazini mwa Ugiriki leo",
+    "note": "Kanisa la kwanza la Ulaya — Injili inashinda hata gerezani.",
+    "events": [
+     "Lidia, muuzaji wa nguo za rangi ya zambarau, anaamini",
+     "Kijakazi mwenye pepo wa uaguzi anawekwa huru",
+     "Nyimbo za usiku, tetemeko la nchi, nyumba ya mlinzi wa gereza inaokolewa"
+    ]
+   },
+   "thess": {
+    "name": "Thesalonike",
+    "book": "Matendo 17 · 1–2 Wathesalonike",
+    "today": "Thessaloniki, Ugiriki leo",
+    "note": "Neno linautikisa mji na upinzani unafurika.",
+    "events": [
+     "Anahojiana katika sinagogi Sabato tatu",
+     "“Hawa walioupindua ulimwengu”",
+     "Wanaondoka kwa siri usiku"
+    ]
+   },
+   "berea": {
+    "name": "Beroya",
+    "book": "Matendo 17:10-15",
+    "today": "Veria, Ugiriki leo",
+    "note": "Wale ‘watukufu’ waliolichunguza Neno wenyewe.",
+    "events": [
+     "Wanalipokea Neno kwa moyo wa hamu",
+     "Kila siku wanachunguza Maandiko ili kulithibitisha",
+     "Wengi wanaamini"
+    ]
+   },
+   "athens": {
+    "name": "Athene",
+    "book": "Matendo 17:16-34",
+    "today": "Athene, Ugiriki leo",
+    "note": "Katika mji wa wanafalsafa anatangaza ‘mungu asiyejulikana’.",
+    "events": [
+     "Anachochewa na mji uliojaa sanamu",
+     "Katika Areopago anahubiri Muumba na ufufuo",
+     "Anadhihakiwa, lakini wachache wanaamini"
+    ]
+   },
+   "corinth": {
+    "name": "Korintho",
+    "book": "Matendo 18 · 1–2 Wakorintho",
+    "today": "Ugiriki leo",
+    "note": "Anakaa mwaka mmoja na nusu, akipanda kanisa katika mji wa uovu.",
+    "events": [
+     "Anatengeneza mahema na Akila na Prisila",
+     "“Usiogope… kwa kuwa mimi nipo pamoja nawe”",
+     "Wakorintho wengi wanaamini na kubatizwa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Matendo 19 · Waefeso",
+    "today": "Selçuk, Uturuki leo",
+    "note": "Kitovu cha safari ya tatu — Neno linaenea kote Asia.",
+    "events": [
+     "Mafundisho ya kila siku kwa miaka miwili katika jumba la Tirano",
+     "Vitabu vya uchawi vinachomwa; matendo yenye nguvu",
+     "Mfua-fedha Demetrio anaanzisha ghasia"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Matendo 20:17-38",
+    "today": "Uturuki leo",
+    "note": "Kuaga kwa machozi kwa wazee wa Efeso.",
+    "events": [
+     "“Lichungeni kanisa alilolinunua kwa damu yake mwenyewe”",
+     "Wazee wanalia, wakijua hawatamwona tena"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisaria",
+    "book": "Matendo 23–26",
+    "today": "ufuko wa Israeli leo",
+    "note": "Kwa miaka miwili anaitetea Injili mbele ya maliwali na mfalme.",
+    "events": [
+     "Kesi mbele ya maliwali Feliki na Festo",
+     "Utetezi wake mbele ya Mfalme Agripa",
+     "“Naomba rufaa kwa Kaisari” — kuelekea Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu",
+    "book": "Matendo 21–23",
+    "today": "Yerusalemu leo",
+    "note": "Akikamatwa hekaluni, njia yake kama mfungwa inaanza.",
+    "events": [
+     "Anakamatwa na umati hekaluni",
+     "Anajitetea mbele ya baraza",
+     "Akiwa raia wa Kirumi, anapelekwa chini ya ulinzi hadi Kaisaria"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Matendo 27:5-6",
+    "today": "Demre, Uturuki leo",
+    "note": "Wanahamia meli ya Aleksandria iendayo Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Bandari Nzuri (Krete)",
+    "book": "Matendo 27:8-12",
+    "today": "Krete leo",
+    "note": "Onyo la Paulo la kusimamisha safari halisikilizwi.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krete",
+    "book": "Tito",
+    "today": "Krete leo",
+    "note": "Baada ya kufunguliwa, kisiwa ambapo anamwacha Tito kuyatengeneza makanisa.",
+    "events": [
+     "Anamwacha Tito aweke wazee katika kila mji",
+     "Anaagiza viongozi wasio na lawama na waaminifu",
+     "Anaandika barua kwa Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Matendo 27–28",
+    "today": "Malta leo",
+    "note": "Kupitia dhoruba na ajali ya meli, ahadi ya Mungu inadumu.",
+    "events": [
+     "Upepo wa ‘kaskazini-mashariki’ unaivunja meli, lakini wote 276 wanaokoka",
+     "Anaumwa na nyoka, lakini hadhuriki",
+     "Anawaponya wagonjwa wa kisiwa"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusa",
+    "book": "Matendo 28:12",
+    "today": "Sisili, Italia leo",
+    "note": "Wanakaa siku tatu katika Sisili.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Matendo 28:13-14",
+    "today": "Pozzuoli, Italia leo",
+    "note": "Wanafika Italia na kukutana na waumini wenzao.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Matendo 28 · Nyaraka za Gerezani · 2 Timotheo",
+    "today": "Roma, Italia leo",
+    "note": "Injili inafika hatimaye moyoni mwa milki — si mwisho bali mwanzo.",
+    "events": [
+     "Miaka miwili kifungoni nyumbani, akiuhubiri ufalme kwa ujasiri",
+     "Tangu hapa anaandika Nyaraka za Gerezani (Efe·Flp·Kol·Flm)",
+     "Baadaye anafungwa tena, anaandika 2 Timotheo na anauawa kwa imani — “Nimevipiga vita vilivyo vizuri, mwendo nimeumaliza”"
+    ]
+   }
+  },
+  "labels": [
+   "Bahari ya Mediterania",
+   "Bahari ya Aegea",
+   "Asia Ndogo",
+   "Makedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Safari ya kwanza",
+   "j2": "Safari ya pili",
+   "j3": "Safari ya tatu",
+   "rome": "Safari ya nne · kwenda Roma",
+   "j5": "Safari ya tano · baada ya kufunguliwa"
+  }
+ }
+}
