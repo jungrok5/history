@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import { execSync } from 'node:child_process';
 import crypto from 'node:crypto';
 import { createRequire } from 'node:module';
-import { bake as subBake, generate as subGenerate, subpageUrls as subUrls } from './build-subpages.mjs';
+import { bake as subBake, generate as subGenerate, subpageUrls as subUrls, langsFor as subLangsFor } from './build-subpages.mjs';
 const require = createRequire(import.meta.url);
 
 const ORIGIN = 'https://one-scroll-bible.com';
@@ -16,12 +16,16 @@ function parseLangs(){
   const html = fs.readFileSync(`${root}/index.html`, 'utf8');
   const blk = html.slice(html.indexOf('const LANGS=['), html.indexOf('];', html.indexOf('const LANGS=[')));
   const out = [];
-  for (const m of blk.matchAll(/\{code:'(?:[^'\\]|\\.)*'[^}]*\}/g)) {
+  // brace-safe entry match: after code, consume either whole single-quoted strings (which may
+  // contain a literal '}') or any non-'}' non-quote char — so a '}' inside native/en can't truncate.
+  for (const m of blk.matchAll(/\{code:'(?:[^'\\]|\\.)*'(?:'(?:[^'\\]|\\.)*'|[^}'])*\}/g)) {
     const e = m[0];
     const f = (k, d) => { const r = e.match(new RegExp(k + ":'((?:[^'\\\\]|\\\\.)*)'")); return r ? r[1].replace(/\\'/g, "'") : d; };
     out.push({ code: f('code'), native: f('native', ''), en: f('en', ''), dir: f('dir', 'ltr'), locale: f('locale', '') });
   }
-  if (!out.length) throw new Error('build-pages: index.html 에서 LANGS 를 파싱하지 못함');
+  // fail loudly if any entry was dropped/garbled (reordered fields, parse miss) rather than silently shipping fewer langs
+  const declared = (blk.match(/\bcode:'/g) || []).length; // count code fields anywhere → catches reordered/garbled entries the {code:'-anchored matcher would skip
+  if (!out.length || out.length !== declared) throw new Error(`build-pages: LANGS 파싱 불일치 — 선언 ${declared} ≠ 파싱 ${out.length} (index.html LANGS 형식 확인: {code:'..',native:'..',en:'..',locale:'..'[,dir:'rtl']})`);
   return out;
 }
 const LANGS = parseLangs();
@@ -370,7 +374,7 @@ const HREF = hreflangBlock();
 // ---- 페이지 생성 ----
 // Which langs the cross-linked surfaces have (for the relink() helper on every main page).
 // main = every language; about/maps = only langs with a pack in i18n/<slug>/.
-const subLangsFor = (slug) => { try { return ['ko', 'en', ...fs.readdirSync(`${root}/i18n/${slug}`).filter(f => f.endsWith('.json')).map(f => f.slice(0, -5)).filter(c => c !== 'ko' && c !== 'en')]; } catch { return ['ko', 'en']; } };
+// about/maps language availability for the relink() helper — reuse build-subpages' langsFor (single impl).
 const XLANGS_SCRIPT = `<script>window.__XLANGS__=${JSON.stringify({ about: subLangsFor('about'), maps: subLangsFor('maps') })};</script>`;
 
 function makePage(m){

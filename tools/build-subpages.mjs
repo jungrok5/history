@@ -56,7 +56,7 @@ function parseT(html) {
 }
 
 // Languages available for a page: ko + en (inline) + any i18n/<slug>/<code>.json.
-function langsFor(slug) {
+export function langsFor(slug) {
   const dir = p('i18n', slug);
   let extra = [];
   if (fs.existsSync(dir)) extra = fs.readdirSync(dir).filter(f => f.endsWith('.json')).map(f => f.slice(0, -5));
