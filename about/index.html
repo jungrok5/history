@@ -565,7 +565,7 @@ function applyText(){
   document.documentElement.dir=(PACK&&PACK.dir)||'ltr';
   $$('[data-t]').forEach(el=>{const k=el.getAttribute('data-t'); if(T[k])el.innerHTML=T[k][L];});
   $('#langCur').textContent = lx('selfname');
-  const _sb=$('#shareBtn'); if(_sb){ _sb.innerHTML = SVG.share + ' <span>' + (shareT().apps||'Share') + '</span>'; }
+  const _sb=$('#shareBtn'); if(_sb){ _sb.innerHTML = SVG.share; }
   const _b=$('.brand'); if(_b){ _b.textContent=lx('share_title'); _b.href=(L==='ko'?'/':'/'+L+'/'); }
   const ci=$('#i_contrib'); if(ci) ci.href = 'https://github.com/jungrok5/one-scroll-bible/blob/main/'+(L==='ko'?'CONTRIBUTING.ko.md':'CONTRIBUTING.md');
   $$('#langPanel button').forEach(b=>b.classList.toggle('on',b.dataset.l===L));

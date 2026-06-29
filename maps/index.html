@@ -342,7 +342,7 @@ function applyText(){
   $('#langCur').textContent = PACK?PACK.menuName:(L==='ko'?'한국어':'English');
   $$('[data-t]').forEach(n=>{ const v=T[n.dataset.t]; if(v) n.innerHTML=v[L]; });
   const _b=$('.brand'); if(_b){ _b.textContent=PACK?(PACK.brand||'Bible in One Scroll'):(L==='ko'?'한눈에 보는 성경 이야기':'Bible in One Scroll'); _b.href=(L==='ko'?'/':'/'+L+'/'); }
-  const _sb=$('#shareBtn'); if(_sb) _sb.innerHTML=SVG.share+' <span>'+(shareT().apps||'Share')+'</span>';
+  const _sb=$('#shareBtn'); if(_sb) _sb.innerHTML=SVG.share;
   bindContact(); relink(L);
 }
 /* Cross-page links carry the active language; fall back to neutral (ko) when a surface lacks
