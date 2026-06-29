@@ -45,6 +45,9 @@ If you use [Claude](https://claude.ai) / [Claude Code](https://www.claude.com/pr
 
 ⭐ **Best of all:** Claude drafts + verifies, and a native speaker checks that it reads naturally.
 
+## The two companion pages (`/about/`, `/maps/`)
+Besides the main scroll, the site has two smaller pages with their **own** packs — `i18n/about/<code>.json` and `i18n/maps/<code>.json`. They follow the **same two rules** (verbatim Scripture; keep keys/HTML/structure). They're usually extended by the maintainer (via the `/add-language` skill's §9), so for a new language just do the main `i18n/<code>.json` first — but PRs that translate `i18n/about` / `i18n/maps` from their `en.json` templates are welcome too. Leave each pack's hero verse text (`s.verse`) for the maintainer's verbatim tool; translate everything else.
+
 ## Please follow (principles)
 - **Perspective**: the evangelical · Reformed redemptive-historical view shared by most of the Korean Protestant church.
 - **Verbatim Scripture** — we never paraphrase the Bible.

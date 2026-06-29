@@ -44,15 +44,23 @@
 ## 기술 / 배포
 - 의존성 없는 **단일 `index.html`**(HTML·CSS·바닐라 JS) + 언어 팩 `i18n/<code>.json`(필요 시 로드).
 - **언어별 정적 페이지**(`/en/`, `/ja/`, `/ar/` …): 각 페이지에 그 언어의 `title`·OG(제목·설명·이미지·locale)·canonical·**hreflang** + **현지어 본문 프리렌더** + JSON-LD + llms.txt가 박혀 있어, 공유 시 해당 언어 미리보기(이미지 포함)가 뜨고 검색·AI 크롤러가 언어별로 색인합니다.
-- **생성기** `node tools/build-pages.mjs` 가 이 페이지들과 `sitemap.xml`·`llms.txt`를 만듭니다. **Vercel이 매 배포마다 실행**하므로 생성 페이지는 git에 커밋하지 않습니다(커밋되는 바이너리는 공용 OG 이미지·PWA 아이콘·언어별 QR).
-- 새 언어 추가는 `/add-language` 스킬을 따릅니다(모드 판정·검증·구절링크 감사·verbatim/산문 검수).
+- **두 자매 페이지**도 같은 방식으로 생성됩니다(각자 언어 팩 + 현지어 본문 프리렌더 + 언어별 head/OG/JSON-LD/hreflang):
+  - **`/about/`** — *모든 민족과 방언에게*: 번역 도달 통계·진귀한 사실·아직 기다리는 언어들. 팩: `i18n/about/<code>.json`.
+  - **`/maps/`** — *지도로 보는 성경*: 구약 시간 흐름·예수님의 생애·바울의 여정을 실제 지도 위에. 팩: `i18n/maps/<code>.json`.
+  - 두 페이지는 스위처 순서(메인 `LANGS` 순서)를 공유하고, 크로스링크를 현재 언어로 연결합니다(그 면에 해당 언어가 없으면 중립 페이지로 폴백).
+- **생성기** `node tools/build-pages.mjs` 가 위 모두(`/about/`·`/maps/`는 `tools/build-subpages.mjs` 호출)와 `sitemap.xml`·`llms.txt`를 만듭니다. **Vercel이 매 배포마다 실행**하므로 생성 페이지는 git에 커밋하지 않습니다(커밋되는 바이너리는 공용 OG 이미지·PWA 아이콘·언어별 QR).
+- 새 언어 추가는 `/add-language` 스킬을 따릅니다(모드 판정·검증·구절링크 감사·verbatim/산문 검수) — 스킬 §9가 같은 언어를 `/about/`·`/maps/`까지 확장.
 - **Vercel** 자동 배포(`main` 푸시 시 갱신). `robots.txt`·sitemap·OG/JSON-LD·오프라인 PWA 포함.
 
 ### 도구 & 스킬
 사이트 빌드와 다국어 추가는 저장소에 포함된 스크립트 도구와 Claude Code 스킬로 자동화돼 있습니다. (모든 명령은 저장소 루트에서 실행)
 
 **빌드/배포**
-- `tools/build-pages.mjs` — 정적 페이지 생성기. `index.html`을 템플릿으로 언어별 페이지 + `sitemap.xml`·`llms.txt`를 만들고, 누락된 QR을 자동 생성하며 `sw.js` 캐시 스탬프와 `i18n/en.json`을 갱신합니다(생성 페이지는 git에 커밋하지 않고 Vercel이 매 배포마다 재생성).
+- `tools/build-pages.mjs` — 정적 페이지 생성기. `index.html`을 템플릿으로 언어별 페이지 + `sitemap.xml`·`llms.txt`를 만들고, 누락된 QR을 자동 생성하며 `sw.js` 캐시 스탬프와 `i18n/en.json`을 갱신하고, i18n 완전성 검사를 실행합니다(생성 페이지는 git에 커밋하지 않고 Vercel이 매 배포마다 재생성).
+- `tools/build-subpages.mjs` — `i18n/about|maps/<code>.json`에서 `/about/`·`/maps/` 페이지 생성(build-pages가 호출, `--bake`는 커밋된 ko 루트 갱신). 동적 스위처 목록 + 크로스링크 보유표 주입.
+- `tools/check-i18n.mjs` — 완전성 게이트: 모든 팩(메인·about·maps)에 모든 레퍼런스 키/배열이 있는지. 단독 또는 build-pages 안에서 실행.
+- `tools/make-maps-verse.mjs <code>` / `tools/make-about-verse.mjs <code>` — 자매 페이지 히어로 절을 **verbatim** 주입/검증(maps=벧후 1:16 전체, about=계 7:9 구절), AI 번역 금지.
+- `tools/build-about.mjs` — `/about/`의 번역 도달 숫자 스냅샷(`about/data.json`) 갱신.
 
 **`/add-language` 스킬** (`.claude/skills/add-language/`) — 새 언어를 "빠짐없이" 추가하는 절차. 헬퍼(`lib/`)는 단계별로:
 - **후보·모드**: `pick-candidates`(Joshua Project의 미전도·화자수 기준 후보 랭킹) · `detect-mode`(YouVersion·eBible·OBS 소스를 탐지해 full/partial/bridge/OBS 모드 추천)

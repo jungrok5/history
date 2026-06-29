@@ -44,15 +44,23 @@ Based on the **evangelical · Reformed redemptive-historical** view shared by mo
 ## Tech / deploy
 - A dependency-free **single `index.html`** (HTML / CSS / vanilla JS) plus per-language packs `i18n/<code>.json` (loaded on demand).
 - **Per-language static pages** (`/en/`, `/ja/`, `/ar/` …): each carries its own `title` / OG (title · description · image · locale) / canonical / **hreflang** and a **prerendered localized body** + JSON-LD + llms.txt, so social shares preview correctly (image included) and search/AI crawlers index each language.
-- **Generator** `node tools/build-pages.mjs` produces those pages plus `sitemap.xml` and `llms.txt`. **Vercel runs it on every deploy**, so generated pages are *not* committed to git; the committed binaries are the shared OG image, the PWA icons and the per-language QR codes.
-- Adding a language follows the `/add-language` skill (mode detection · validation · verse-link audit · verbatim + prose checks).
+- **Two companion pages**, built the same way (own per-language packs + prerendered localized body + per-language head/OG/JSON-LD/hreflang, so crawlers index every language):
+  - **`/about/`** — *To Every Tribe and Tongue*: translation-reach stats, rare facts, the languages still waiting. Packs: `i18n/about/<code>.json`.
+  - **`/maps/`** — *Bible by Map*: the OT timeline, Jesus' life and Paul's journeys on a real map. Packs: `i18n/maps/<code>.json`.
+  - Both share one switcher order (the main `LANGS` order) and localize cross-page links to the active language (falling back to the neutral page when a surface lacks that language).
+- **Generator** `node tools/build-pages.mjs` produces all of the above (it calls `tools/build-subpages.mjs` for `/about/` + `/maps/`) plus `sitemap.xml` and `llms.txt`. **Vercel runs it on every deploy**, so generated pages are *not* committed to git; the committed binaries are the shared OG image, the PWA icons and the per-language QR codes.
+- Adding a language follows the `/add-language` skill (mode detection · validation · verse-link audit · verbatim + prose checks) — and its §9 extends the same language to `/about/` and `/maps/`.
 - Deployed on **Vercel** (updates on push to `main`). Includes `robots.txt`, sitemap, OG / JSON-LD and an offline PWA.
 
 ### Tools & skills
 Site builds and language additions are automated by in-repo scripts and a Claude Code skill. (Run every command from the repo root.)
 
 **Build / deploy**
-- `tools/build-pages.mjs` — the static-page generator. Using `index.html` as the template, it produces the per-language pages plus `sitemap.xml` / `llms.txt`, auto-backfills any missing QR, and refreshes the `sw.js` cache stamp and `i18n/en.json` (generated pages aren't committed — Vercel regenerates them on every deploy).
+- `tools/build-pages.mjs` — the static-page generator. Using `index.html` as the template, it produces the per-language pages plus `sitemap.xml` / `llms.txt`, auto-backfills any missing QR, refreshes the `sw.js` cache stamp and `i18n/en.json`, and runs the i18n-completeness check (generated pages aren't committed — Vercel regenerates them on every deploy).
+- `tools/build-subpages.mjs` — generates the `/about/` and `/maps/` pages from `i18n/about|maps/<code>.json` (called by build-pages; `--bake` refreshes the committed ko roots). Injects the dynamic switcher list + cross-page-link availability map.
+- `tools/check-i18n.mjs` — completeness gate: every pack (main · about · maps) has every reference key/array; run standalone or via build-pages.
+- `tools/make-maps-verse.mjs <code>` / `tools/make-about-verse.mjs <code>` — inject/verify the sub-page hero verses **verbatim** (maps = 2 Peter 1:16 full; about = the Rev 7:9 clause), never AI-translated.
+- `tools/build-about.mjs` — refreshes the `/about/` translation-reach numbers snapshot (`about/data.json`).
 
 **`/add-language` skill** (`.claude/skills/add-language/`) — the procedure to add a language **with nothing missed**. Its `lib/` helpers, by phase:
 - **Pick / mode**: `pick-candidates` (rank candidates from Joshua Project by unreached-ness · speaker count) · `detect-mode` (probe YouVersion · eBible · OBS sources → recommend full / partial / bridge / OBS mode)
