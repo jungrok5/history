@@ -148,3 +148,12 @@ non-derivable gotchas live here:
   is enforced by `node tools/check-i18n.mjs`.
 - **maps place names use `name_<lang>` fields** (not bare `[lang]`) because language code `id` (Indonesian)
   collided with each place's `.id` key — hydrate writes `name_/book_/today_/note_/events_` + `<lang>`.
+- **Batch backfill is turnkey (don't hand-improvise):** `tools/next-langs.mjs <maps|about> N` picks the next N
+  missing codes in reach order; spawn the drafter with `lib/maps-drafting-prompt.md`; inject verse with
+  `make-maps-verse`; **gate with `check-i18n` (now also checks per-place `events` lengths + that `s.verse` was
+  actually injected, i.e. ≠ English)**; review with `lib/native-review-maps-prompt.md`. Same quality every batch.
+- **Drafting agents can leave junk — guard it:** they may (a) write a scratch file to the repo root
+  (`scratchpad_*.mjs`) and (b) slip a stray wrong-script char (CJK/Thai/Latin) into a name via autocomplete.
+  So when committing a batch, **stage only `i18n/maps/<code>.json` explicitly** (avoid blanket `git add -A`,
+  which once committed a stray `scratchpad_build_my.mjs`), and trust `check-i18n` + native review to catch the rest.
+  The drafting prompt now tells agents to write only the pack file and self-scan for stray chars.

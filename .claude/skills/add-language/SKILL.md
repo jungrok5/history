@@ -275,16 +275,19 @@ Both sub-page switchers are **dynamic** (`window.__SUBLANGS__`, injected by buil
 - After adding/removing a language, refresh the about counts snapshot: `node tools/build-about.mjs` (keyless ok —
   `totals` reproduce from the committed jp-cache; see NOTES "/about/ counts auto-update").
 
+**Batch loop (turnkey — same result for any session/contributor):** pick next codes → draft → inject verse → gate → review → build → commit → deploy.
+- **Pick the next batch** (reach order, deterministic): `node tools/next-langs.mjs maps 10` (or `about 10`). Prints codes + each one's `menuName`/`yv`/`dir`.
+
 **maps** — translate `i18n/maps/en.json` → `i18n/maps/<code>.json` (drafting agent):
-- Keep structure `s` + `ot/jesus/paul → places{id}/labels[]/journeys{key}`; **preserve ids/keys and every
-  `events[]` length**; set `dir`. Translate place `name`/`book`/`today`/`note`/`events`, `labels`, `journeys`,
-  `s.*`, and **`s.verseCite`** (localized "2 Peter 1:16"). Use the edition's place/book names (read the main pack).
+- **Spawn the drafter with `lib/maps-drafting-prompt.md`** (canonical prompt — fill `«language»`/`«code»`/`«edition»`). It
+  keeps structure `s` + `ot/jesus/paul → places{id}/labels[]/journeys{key}`; **preserves ids/keys and every
+  `events[]` length**; sets `dir`; translates `name`/`book`/`today`/`note`/`events`, `labels`, `journeys`, `s.*`, `s.verseCite`.
 - **Leave `s.verse` (the verse TEXT) for the helper** — agents paraphrase Scripture. Then inject it verbatim:
   **`node tools/make-maps-verse.mjs <code>`** (fetches 2 Pet 1:16, writes full verbatim verse + `s.verseCite`).
 
 **Validate the two packs** (structure + verbatim) before native review:
 ```
-node tools/check-i18n.mjs                 # about: s-keys + facts len · maps: s-keys + place ids/labels/journeys · main parity
+node tools/check-i18n.mjs                 # main parity · about: s-keys + facts len · maps: s-keys + place ids/labels/journeys + EVENTS LENGTHS + s.verse-injected(≠EN) — a hard gate that catches a forgotten verse-inject or dropped bullet
 node tools/make-about-verse.mjs <code>    # about hero = verbatim slice of Rev 7:9
 node tools/make-maps-verse.mjs <code>     # maps hero = verbatim 2 Pet 1:16 (injects)
 ```

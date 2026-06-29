@@ -44,12 +44,22 @@ export function checkI18n() {
       for (const k of refKeys) if (!ps.has(k)) tally[`${slug} s.${k}`] = (tally[`${slug} s.${k}`] || 0) + 1;
       if (slug === 'about' && (p.facts || []).length !== (ref.facts || []).length)
         errors.push(`about/${code}: facts ${(p.facts || []).length} ≠ ${(ref.facts || []).length}`);
-      if (slug === 'maps') for (const seg of ['ot', 'jesus', 'paul']) {
-        if (!p[seg]) { errors.push(`maps/${code}: segment ${seg} missing`); continue; }
-        const a = Object.keys(ref[seg].places).sort().join(), b = Object.keys(p[seg].places).sort().join();
-        if (a !== b) errors.push(`maps/${code}: ${seg} place ids differ`);
-        if ((ref[seg].labels || []).length !== (p[seg].labels || []).length) errors.push(`maps/${code}: ${seg} labels length`);
-        if (Object.keys(ref[seg].journeys).sort().join() !== Object.keys(p[seg].journeys).sort().join()) errors.push(`maps/${code}: ${seg} journey keys differ`);
+      if (slug === 'maps') {
+        for (const seg of ['ot', 'jesus', 'paul']) {
+          if (!p[seg]) { errors.push(`maps/${code}: segment ${seg} missing`); continue; }
+          const a = Object.keys(ref[seg].places).sort().join(), b = Object.keys(p[seg].places).sort().join();
+          if (a !== b) { errors.push(`maps/${code}: ${seg} place ids differ`); continue; }
+          if ((ref[seg].labels || []).length !== (p[seg].labels || []).length) errors.push(`maps/${code}: ${seg} labels length`);
+          if (Object.keys(ref[seg].journeys).sort().join() !== Object.keys(p[seg].journeys).sort().join()) errors.push(`maps/${code}: ${seg} journey keys differ`);
+          // per-place events array length parity (catches dropped/added bullets a translator might introduce)
+          for (const id of Object.keys(ref[seg].places)) {
+            const re = (ref[seg].places[id].events || []).length, pe = (p[seg].places[id] && p[seg].places[id].events || []).length;
+            if (re !== pe) errors.push(`maps/${code}: ${seg}.${id}.events length ${pe} ≠ ${re}`);
+          }
+        }
+        // hero verse must be INJECTED verbatim (make-maps-verse), not the English placeholder still equal to en.json
+        if (p.s && ref.s && p.s.verse && p.s.verse === ref.s.verse)
+          errors.push(`maps/${code}: s.verse still equals English — run make-maps-verse ${code}`);
       }
     }
   }
