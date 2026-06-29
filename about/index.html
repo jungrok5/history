@@ -79,6 +79,8 @@
   .iconbtn{pointer-events:auto;cursor:pointer;border:1px solid var(--line);background:var(--card);
     color:var(--ink);border-radius:9px;padding:5px 9px;font-size:.8125rem;line-height:1;font-family:var(--sans)}
   #langBtn{display:inline-flex;align-items:center;gap:5px}
+  #shareBtn{display:inline-flex;align-items:center;gap:5px}
+  #shareBtn svg{width:14px;height:14px;display:block}
   #langPanel{position:fixed;top:50px;right:10px;z-index:200;width:250px;max-width:calc(100vw - 20px);
     background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:10px;
     box-shadow:0 16px 40px -12px rgba(0,0,0,.6)}
@@ -196,12 +198,48 @@
   .foot-name a:hover{color:var(--ink)}
   .i-foot{margin:34px auto 0;max-width:640px;text-align:center;color:var(--muted);font-size:.92rem;line-height:1.8}
   .en .ko-only{display:none}.ko .en-only{display:none}
+  /* share sheet + QR modal — mirrors the main site */
+  #shareSheet{position:fixed;inset:0;z-index:300;display:flex;align-items:flex-end;justify-content:center;
+    background:rgba(0,0,0,.55);backdrop-filter:blur(2px)}
+  #shareSheet[hidden]{display:none}
+  .ss-card{background:var(--bg2);border:1px solid var(--line);border-radius:18px 18px 0 0;width:100%;
+    max-width:480px;padding:18px 16px 28px;position:relative;box-shadow:0 -16px 40px -12px rgba(0,0,0,.6)}
+  @media(min-width:520px){#shareSheet{align-items:center}.ss-card{border-radius:18px}}
+  .ss-title{font-family:var(--serif);font-size:1rem;margin:2px 40px 16px 4px;color:var(--ink)}
+  .ss-grid{display:flex;flex-direction:column;gap:10px}
+  .ss-util{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+  .ss-soc{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+  .ss-btn{display:flex;flex-direction:column;align-items:center;gap:7px;cursor:pointer;
+    border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:13px;padding:14px 6px;font-size:0.75rem;transition:border-color .2s}
+  .ss-btn:hover{border-color:var(--accent)}
+  .ss-btn .ic{color:var(--accent);display:inline-flex}
+  .ss-btn .ic svg{width:22px;height:22px;display:block}
+  .ss-primary{flex-direction:row;justify-content:center;gap:10px;padding:16px;font-size:0.9375rem;font-weight:600;
+    background:linear-gradient(160deg,rgba(233,185,73,.18),var(--card));border-color:rgba(233,185,73,.42)}
+  .soc-btn{display:flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;
+    border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:11px;padding:12px;font-size:0.8125rem;transition:border-color .2s}
+  .soc-btn:hover{border-color:var(--accent)}
+  .soc-btn .dot{width:11px;height:11px;border-radius:50%;flex:none}
+  .ss-close{position:absolute;top:12px;right:14px;border:0;background:transparent;color:var(--muted);font-size:1.125rem;cursor:pointer}
+  [dir=rtl] .ss-title{margin:2px 4px 16px 40px}
+  [dir=rtl] .ss-close{right:auto;left:14px}
+  #qrModal{position:fixed;inset:0;z-index:310;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,.6);backdrop-filter:blur(2px)}
+  #qrModal[hidden]{display:none}
+  .qr-card{background:#fff;border-radius:18px;padding:24px 22px 18px;text-align:center;position:relative;max-width:300px;box-shadow:0 16px 40px -12px rgba(0,0,0,.6)}
+  .qr-card img{display:block;width:240px;height:240px;border-radius:8px;margin:6px auto 0}
+  .qr-url{color:#444;font-size:0.75rem;margin:12px 0 8px;word-break:break-all}
+  .qr-dl{display:inline-block;color:#0e1118;font-size:0.8125rem;font-weight:600;text-decoration:underline;cursor:pointer}
+  .qr-card .ss-close{color:#999}
+  #toast{position:fixed;left:50%;bottom:26px;transform:translateX(-50%) translateY(20px);z-index:320;
+    background:var(--bg2);border:1px solid var(--line);color:var(--ink);border-radius:10px;padding:10px 16px;font-size:.85rem;
+    box-shadow:0 12px 30px -10px rgba(0,0,0,.6);opacity:0;pointer-events:none;transition:opacity .25s,transform .25s}
+  #toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
   /* 인쇄/PDF 전용 — 밝은 배경 + 흑백 + 화면 전용 UI 숨김 (화면엔 영향 없음) */
   @media print{
     html,body{background:#fff!important}
     body{filter:grayscale(100%)!important;font-size:11pt;line-height:1.5}
     @page{margin:14mm}
-    #topbar,#langPanel,#fPrev,#fNext,#fDots,#globeInfo,.ctas,#i_share{display:none!important}
+    #topbar,#langPanel,#fPrev,#fNext,#fDots,#globeInfo,.ctas,#i_share,#shareSheet,#qrModal,#toast{display:none!important}
     .reveal{opacity:1!important;transform:none!important}
   }
 </style>
@@ -348,6 +386,10 @@
     <a href="/maps/" data-rel="maps"><svg viewBox="0 0 16 16" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M8 1C5.2 1 3 3.2 3 6c0 3.6 4.3 8.4 4.5 8.6a.7.7 0 0 0 1 0C8.7 14.4 13 9.6 13 6c0-2.8-2.2-5-5-5zm0 6.8A1.8 1.8 0 1 1 8 4.2a1.8 1.8 0 0 1 0 3.6z"/></svg>Maps</a>
   </nav>
 </div></footer>
+
+<div id="toast">✓ Link copied</div>
+<div id="shareSheet" hidden><div class="ss-card"><button class="ss-close" id="ssClose" aria-label="Close">✕</button><div class="ss-title" id="ssTitle">Share</div><div class="ss-grid" id="ssGrid"></div></div></div>
+<div id="qrModal" hidden><div class="qr-card"><button class="ss-close" id="qrClose" aria-label="Close">✕</button><img id="qrImg" alt="QR code" width="240" height="240" /><div class="qr-url" id="qrUrl"></div><a class="qr-dl" id="qrDl" download>⤓ Save QR</a></div></div>
 
 <script src="/about/d3-array.min.js"></script>
 <script src="/about/d3-geo.min.js"></script>
@@ -523,6 +565,7 @@ function applyText(){
   document.documentElement.dir=(PACK&&PACK.dir)||'ltr';
   $$('[data-t]').forEach(el=>{const k=el.getAttribute('data-t'); if(T[k])el.innerHTML=T[k][L];});
   $('#langCur').textContent = lx('selfname');
+  const _sb=$('#shareBtn'); if(_sb){ _sb.innerHTML = SVG.share + ' <span>' + (shareT().apps||'Share') + '</span>'; }
   const _b=$('.brand'); if(_b){ _b.textContent=lx('share_title'); _b.href=(L==='ko'?'/':'/'+L+'/'); }
   const ci=$('#i_contrib'); if(ci) ci.href = 'https://github.com/jungrok5/one-scroll-bible/blob/main/'+(L==='ko'?'CONTRIBUTING.ko.md':'CONTRIBUTING.md');
   $$('#langPanel button').forEach(b=>b.classList.toggle('on',b.dataset.l===L));
@@ -741,14 +784,71 @@ if(shareLink) shareLink.addEventListener('click',e=>{
   const flash=()=>{ shareLink.textContent=lx('toast_copied'); setTimeout(()=>{shareLink.textContent=T.i_share[L];},1800); };
   if(navigator.clipboard){ navigator.clipboard.writeText(url).then(flash,flash); } else { flash(); }
 });
-/* topbar share — like the main site: native share sheet on mobile, copy link on desktop. Shares THIS page. */
+/* ===== share popup — ported verbatim from the main site (index.html), about-adapted ===== */
+function gevent(){} /* about has no GA4 — no-op */
+let _toastTimer=null;
+function showToast(){ var t=document.getElementById('toast'); if(!t)return; t.textContent=lx('toast_copied'); t.classList.add('show'); clearTimeout(_toastTimer); _toastTimer=setTimeout(function(){t.classList.remove('show');},1800); }
+/* share context = the CURRENT about page */
+function shareUrl(){ return 'https://one-scroll-bible.com/about/'+(L==='ko'?'':L+'/'); }
+var _shctx=null;
+var SHARE_L={
+ ko:{apps:'앱으로 공유',copy:'링크 복사',image:'이미지',qr:'QR 코드'},
+ en:{apps:'Share',copy:'Copy link',image:'Image',qr:'QR code'},
+ 'zh-Hans':{apps:'分享',copy:'复制链接',image:'图片',qr:'二维码'},
+ 'zh-Hant':{apps:'分享',copy:'複製連結',image:'圖片',qr:'QR 碼'},
+ ja:{apps:'共有',copy:'リンクをコピー',image:'画像',qr:'QRコード'},
+ es:{apps:'Compartir',copy:'Copiar enlace',image:'Imagen',qr:'Código QR'},
+ 'pt-BR':{apps:'Compartilhar',copy:'Copiar link',image:'Imagem',qr:'QR code'},
+ fr:{apps:'Partager',copy:'Copier le lien',image:'Image',qr:'QR code'},
+ de:{apps:'Teilen',copy:'Link kopieren',image:'Bild',qr:'QR-Code'},
+ ru:{apps:'Поделиться',copy:'Копировать ссылку',image:'Картинка',qr:'QR-код'},
+ ar:{apps:'مشاركة',copy:'نسخ الرابط',image:'صورة',qr:'رمز QR'},
+ hi:{apps:'साझा करें',copy:'लिंक कॉपी करें',image:'छवि',qr:'QR कोड'},
+ id:{apps:'Bagikan',copy:'Salin tautan',image:'Gambar',qr:'Kode QR'},
+ vi:{apps:'Chia sẻ',copy:'Sao chép liên kết',image:'Hình ảnh',qr:'Mã QR'},
+ th:{apps:'แชร์',copy:'คัดลอกลิงก์',image:'รูปภาพ',qr:'คิวอาร์โค้ด'}
+};
+var SVG={
+ share:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3m0 0L8 7m4-4 4 4"/><path d="M5 12v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>',
+ copy:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 13a4.5 4.5 0 0 0 6.4.4l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4L10.4 5.9"/><path d="M14.5 11a4.5 4.5 0 0 0-6.4-.4L5.5 13.2a4.5 4.5 0 0 0 6.4 6.4l1.6-1.5"/></svg>',
+ qr:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><path d="M14 14h3M21 14v3M17 17v4M21 21h-4"/></svg>'
+};
+function shareT(){ return SHARE_L[L]||SHARE_L.en; }
+function _ssBtn(ch,icon,label){ return '<button class="ss-btn" data-ch="'+ch+'"><span class="ic">'+icon+'</span><span>'+label+'</span></button>'; }
+function _soc(ch,color,name){ return '<button class="soc-btn" data-ch="'+ch+'"><span class="dot" style="background:'+color+'"></span>'+name+'</button>'; }
+function buildShareGrid(){
+  var T2=shareT(), g=document.getElementById('ssGrid'); if(!g)return; var html='';
+  if(navigator.share){
+    html+='<button class="ss-btn ss-primary" data-ch="native"><span class="ic">'+SVG.share+'</span><span>'+T2.apps+'</span></button>';
+  } else {
+    html+='<div class="ss-soc">'+_soc('whatsapp','#25D366','WhatsApp')+_soc('telegram','#2AABEE','Telegram')+_soc('x','#111','X')+_soc('facebook','#1877F2','Facebook')+_soc('line','#06C755','LINE')+'</div>';
+  }
+  html+='<div class="ss-util">'+_ssBtn('copy',SVG.copy,T2.copy)+_ssBtn('qr',SVG.qr,T2.qr)+'</div>';
+  g.innerHTML=html;
+}
+function openShare(ctx){ _shctx=ctx; var t=document.getElementById('ssTitle'); if(t)t.textContent=ctx.title||lx('share_title'); buildShareGrid(); shareSheet.hidden=false; }
+function closeShare(){ shareSheet.hidden=true; }
+function copyLink(u){ if(navigator.clipboard){ navigator.clipboard.writeText(u).then(showToast,showToast); } else { showToast(); } }
+function doChannel(ch){
+  if(!_shctx) return; var s=_shctx, text=s.text||'', url=s.url||shareUrl();
+  var u=encodeURIComponent(url), t=encodeURIComponent(text), both=encodeURIComponent(text?(text+'\n'+url):url);
+  if(ch==='native'){ if(navigator.share){ navigator.share({title:s.title,text:text,url:url}).then(function(){gevent('share',{method:'native'});}).catch(function(){}); } else { copyLink(url); } closeShare(); return; }
+  if(ch==='copy'){ copyLink(url); gevent('share',{method:'copy'}); closeShare(); return; }
+  if(ch==='qr'){ openQR(); closeShare(); return; }
+  var LL={whatsapp:'https://wa.me/?text='+both,telegram:'https://t.me/share/url?url='+u+'&text='+t,line:'https://line.me/R/msg/text/?'+both,x:'https://twitter.com/intent/tweet?text='+t+'&url='+u,facebook:'https://www.facebook.com/sharer/sharer.php?u='+u}[ch];
+  if(LL){ window.open(LL,'_blank','noopener'); gevent('share',{method:ch}); }
+  closeShare();
+}
+var shareSheet=document.getElementById('shareSheet');
+shareSheet.addEventListener('click',function(e){ if(e.target===shareSheet){closeShare();return;} var b=e.target.closest('[data-ch]'); if(b)doChannel(b.dataset.ch); });
+document.getElementById('ssClose').addEventListener('click',closeShare);
+document.addEventListener('keydown',function(e){ if(e.key==='Escape'){ if(!shareSheet.hidden)closeShare(); var qm=document.getElementById('qrModal'); if(qm&&!qm.hidden)qm.hidden=true; } });
+/* topbar share — opens the share SHEET (same UX as main). Shares THIS about page. */
 const shareBtn=$('#shareBtn');
-if(shareBtn) shareBtn.addEventListener('click',()=>{
-  const url='https://one-scroll-bible.com/about/'+(L==='ko'?'':L+'/');
-  if(navigator.share){ navigator.share({title:lx('share_title'), url}).catch(()=>{}); return; }
-  const ok=()=>{ const o=shareBtn.textContent; shareBtn.textContent='✓'; setTimeout(()=>shareBtn.textContent=o,1500); };
-  if(navigator.clipboard){ navigator.clipboard.writeText(url).then(ok,ok); } else ok();
-});
+if(shareBtn) shareBtn.addEventListener('click',function(){ openShare({title:lx('share_title'), text:'', url:shareUrl()}); });
+/* QR — reuses the MAIN per-language QR file; encodes the main page URL (intended). */
+function openQR(){ var img=document.getElementById('qrImg'); if(!img)return; img.src='/qr-'+L+'.png'; document.getElementById('qrUrl').textContent='https://one-scroll-bible.com/'+(L==='ko'?'':L+'/'); var dl=document.getElementById('qrDl'); dl.href='/qr-'+L+'.png'; dl.setAttribute('download','qr-one-scroll-bible-'+L+'.png'); document.getElementById('qrModal').hidden=false; gevent('share',{method:'qr'}); }
+(function(){ var qm=document.getElementById('qrModal'); if(!qm)return; var cl=document.getElementById('qrClose'); if(cl)cl.addEventListener('click',function(){qm.hidden=true;}); qm.addEventListener('click',function(e){ if(e.target===qm)qm.hidden=true; }); })();
 addEventListener('resize',()=>{ if(D) renderMap(); });
 
 /* initial language: saved → browser → ko */

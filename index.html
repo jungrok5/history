@@ -1363,7 +1363,7 @@ function renderEpochs(pack){
     <div class="wrap"><div class="ep-inner">
       <div class="txt">
         <div class="ep-icon">${v.emoji}</div>
-        <div class="badge"><span class="num">${i+1}</span><span class="tag">${e.tag}</span><span class="date">${e.date}</span><button class="ep-share" data-sc="${i+1}" aria-label="Share" title="Share">↗</button></div>
+        <div class="badge"><span class="num">${i+1}</span><span class="tag">${e.tag}</span><span class="date">${e.date}</span><button class="ep-share" data-sc="${i+1}" aria-label="Share" title="Share">${SVG.share}</button></div>
         <h2>${e.title}</h2>
         <div class="oneline">${e.one}</div>
         <div class="meta">
@@ -1429,6 +1429,12 @@ function applyLang(code){
     .then(p=>{ PACKS[code]=p; doApply(p,code); })
     .catch(()=>{ /* 실패 시 현재 언어 유지 */ });
 }
+/* share/copy/qr icons — defined before doApply()/boot so the share-icon swap can use them on first render */
+var SVG={
+ share:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3m0 0L8 7m4-4 4 4"/><path d="M5 12v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>',
+ copy:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 13a4.5 4.5 0 0 0 6.4.4l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4L10.4 5.9"/><path d="M14.5 11a4.5 4.5 0 0 0-6.4-.4L5.5 13.2a4.5 4.5 0 0 0 6.4 6.4l1.6-1.5"/></svg>',
+ qr:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><path d="M14 14h3M21 14v3M17 17v4M21 21h-4"/></svg>'
+};
 function doApply(pack,code){
   curPack=pack; curCode=code;
   // 구절-링크 데이터는 각 팩에 동봉(index.html 에는 ko/en 만 인라인). 언어 전환 시 등록.
@@ -1438,6 +1444,8 @@ function doApply(pack,code){
   html.setAttribute('lang',pack.htmlLang||code);
   html.setAttribute('dir',pack.dir||'ltr');
   I18N_NODES.forEach(n=>{const k=n.getAttribute('data-i18n');const v=pack.s?pack.s[k]:null;n.innerHTML=linkifyRefs(v!=null?v:ORIG[k], code);});
+  // 공유 트리거의 선두 ↗(외부링크 글리프)를 표준 공유 아이콘(SVG.share)으로 치환 — i18n 텍스트(214개 언어)는 유지
+  document.querySelectorAll('#shareBtn,[data-share]').forEach(el=>{ el.innerHTML = el.innerHTML.replace(/^\s*↗\s*/, SVG.share+' '); });
   // 번역이 준비된 언어(ko 인라인 + 팩에 faq.q4 있는 언어)에서만 q4 표시 — 미번역 언어엔 노출 금지
   (function(){var q4=document.getElementById('faqQ4');if(q4)q4.hidden=!(code==='ko'||(pack.s&&pack.s['faq.q4']!=null));})();
   // 지도(maps) 링크 — 번역된 언어에만(미번역 언어엔 한국어 노출 금지)
@@ -1551,11 +1559,7 @@ var SHARE_L={
  vi:{apps:'Chia sẻ',copy:'Sao chép liên kết',image:'Hình ảnh',qr:'Mã QR'},
  th:{apps:'แชร์',copy:'คัดลอกลิงก์',image:'รูปภาพ',qr:'คิวอาร์โค้ด'}
 };
-var SVG={
- share:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3m0 0L8 7m4-4 4 4"/><path d="M5 12v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>',
- copy:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 13a4.5 4.5 0 0 0 6.4.4l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4L10.4 5.9"/><path d="M14.5 11a4.5 4.5 0 0 0-6.4-.4L5.5 13.2a4.5 4.5 0 0 0 6.4 6.4l1.6-1.5"/></svg>',
- qr:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><path d="M14 14h3M21 14v3M17 17v4M21 21h-4"/></svg>'
-};
+/* SVG icons defined earlier (before doApply/boot) — see above. */
 function shareT(){ return SHARE_L[curCode]||SHARE_L.en; }
 function _ssBtn(ch,icon,label){ return '<button class="ss-btn" data-ch="'+ch+'"><span class="ic">'+icon+'</span><span>'+label+'</span></button>'; }
 function _soc(ch,color,name){ return '<button class="soc-btn" data-ch="'+ch+'"><span class="dot" style="background:'+color+'"></span>'+name+'</button>'; }
