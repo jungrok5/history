@@ -259,6 +259,9 @@
   .iconbtn{pointer-events:auto;cursor:pointer;border:1px solid var(--line);background:var(--card);
     color:var(--ink);border-radius:9px;padding:5px 9px;font-size:0.8125rem;line-height:1}
   #langBtn{display:inline-flex;align-items:center;gap:5px}
+  #shareBtn{display:inline-flex;align-items:center;gap:5px}
+  /* 주입된 공유 SVG(width/height 없음)를 버튼 글자 크기에 맞춰 인라인으로 — 거대 렌더/줄바꿈 방지 */
+  #shareBtn svg,.share-cta svg,.ep-share svg{width:1.05em;height:1.05em;flex:none}
   #langPanel{position:fixed;top:52px;right:10px;z-index:200;width:250px;max-width:calc(100vw - 20px);
     background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:10px;
     box-shadow:0 16px 40px -12px rgba(0,0,0,.6)}
