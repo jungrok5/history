@@ -1,0 +1,636 @@
+{
+ "menuName": "Yorùbá",
+ "htmlLang": "yo",
+ "dir": "ltr",
+ "locale": "yo",
+ "brand": "Bibeli ní àkájọ kan",
+ "docTitle": "Bibeli nípa Àwòrán Ilẹ̀ · Bibeli ní àkájọ kan",
+ "metaDesc": "Tọ̀ ìlà ìtàn Májẹ̀mú Láàé, ìgbésí-ayé Jesu, àti àwọn ìrìnàjò Paulu lórí àwòrán ilẹ̀ gidi — Bibeli ṣẹlẹ̀ ní àwọn ibi gidi.",
+ "s": {
+  "kicker": "Bibeli ní àkájọ kan · Àwọn Àwòrán Ilẹ̀",
+  "title": "Bibeli nípa Àwòrán Ilẹ̀",
+  "verse": "“Nitori ki iṣe bi ẹniti ntọ ìtan asan lẹhin ti a fi ọgbọ́n-kọgbọn là silẹ, li awa fi agbara ati wíwá Jesu Kristi Oluwa wa hàn nyin, ṣugbọn ẹlẹri ọlá nla rẹ̀ li awa iṣe.” (2 Peteru 1:16)",
+  "purpose": "Bibeli kì iṣe ìtàn àròsọ. Ó jẹ́ àkọsílẹ̀ àwọn ènìyàn tí ó rìn lórí àwọn ibi gidi, ọjọ́, àti orúkọ. Tọ̀ àwọn ọ̀nà wọ̀nyẹn lórí àwòrán ilẹ̀, ní ètò àkókò — tẹ ojú-àmì kan, tàbí tẹ ▶ láti rìn nínú rẹ̀ ní ìṣísẹ̀ kọọkan.",
+  "ot_kick": "① Májẹ̀mú Láàé — kọjá àkókò",
+  "ot_h": "Láti ìṣẹ̀dá títí dé ìpadàbọ̀ sí Jerusalemu",
+  "ot_lead": "Kì iṣe ìrìnàjò kanṣoṣo bíkòṣe ìṣàn ìtàn-ìràpadà láti ìṣẹ̀dá síwájú: ìṣẹ̀dá àti ìṣubú → ìkún-omi àti Babeli → ìpè (Abrahamu) → ilẹ̀ ìlérí → Ìjáde → aṣálẹ̀ → ìṣẹ́gun → ìjọba → ìpín → ìgbèkùn → ìpadàbọ̀.",
+  "je_kick": "② Májẹ̀mú Tuntun — ìgbésí-ayé Jesu",
+  "je_h": "Láti Betlehemu sí Jerusalemu",
+  "je_lead": "Tẹ̀le ìgbésí-ayé Jesu gẹ́gẹ́ bí àwọn ìhìnrere ti sọ ọ́, ní ètò — láti ìbí rẹ̀ ní Betlehemu, kọjá ìtẹ̀bọmi rẹ̀ àti iṣẹ́-ìránṣẹ́ Galili, kọjá Samaria, títí dé àgbélébùú, àjíǹde àti ìgoke ní Jerusalemu.",
+  "pa_kick": "③ Májẹ̀mú Tuntun — àwọn ìrìnàjò Paulu",
+  "pa_h": "Láti Antioku títí dé òpin ilẹ̀-ayé — Romu",
+  "pa_lead": "Láti Pentekosti ní Jerusalemu, bí ìhìnrere ṣe tàn kọjá Judea — kọjá Esia Kékeré àti Europe títí dé ọkàn ilẹ̀-ọba. Yan ọ̀kan nínú àwọn ìrìnàjò márùn-ún (1·2·3 + ìrìnàjò sí Romu + lẹ́yìn ìdásílẹ̀) kí o sì tẹ̀le àwọn ìṣẹ̀lẹ̀ Iṣe pẹ̀lú àwọn lẹ́tà tí a kọ ní ọ̀nà.",
+  "foot": "Àwọn orísun · Àwọn ibi tẹ̀le ọ̀rọ̀ Bibeli àti ilẹ̀-ìṣàpẹẹrẹ Bibeli àjùmọ̀lò (pẹ̀lú àwọn orúkọ òde-òní níbi tí ó bá wúlò). A fa àwọn etí-òkun, odò àti adágún láti inú ìmọ̀-ilẹ̀ ṣíṣí (Natural Earth), tí a rọrùn.",
+  "contact": "Ìbéèrè · èsì — <a id=\"contact\" class=\"mail\">Fi ìmẹ́lì ránṣẹ́ sí wa</a>",
+  "play": "Mu ṣiṣẹ́",
+  "pause": "Dúró",
+  "today": "Lónìí:",
+  "verseCite": "2 Peteru 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edeni (Ìṣẹ̀dá · Ìṣubú)",
+    "book": "Genesisi 1–3",
+    "today": "agbègbè Tigris–Eufrate lónìí",
+    "note": "Sí inú ayé tí a dá tí ó dára gidigidi, ẹ̀ṣẹ̀ wọlé ó sì fọ́ ìdè láàrin Ọlọrun àti aráyé.",
+    "events": [
+     "Ìṣẹ̀dá ní ọjọ́ mẹ́fà — “ó dára gidigidi”",
+     "A dá aráyé ní àwòrán Ọlọrun",
+     "Ìṣubú, àti ìlé jáde kúrò ní Edeni",
+     "Ìlérí ìhìnrere àkọ́kọ́ — “irú-ọmọ obìnrin yóò fọ́ orí ejò”"
+    ]
+   },
+   "noah": {
+    "name": "Ararati (Ìkún-omi)",
+    "book": "Genesisi 6–9",
+    "today": "Òkè Ararati, ìlà-oòrùn Tọ́kì lónìí",
+    "note": "Ọlọrun ṣèdájọ́ ayé kan tí ó kún fún ẹ̀ṣẹ̀, síbẹ̀ ó tọ́jú ìyè nípa ìdílé kan.",
+    "events": [
+     "Ayé kan tí ó kún fún ìbàjẹ́",
+     "Ìkún-omi, àti ọkọ̀ Noa",
+     "Májẹ̀mú òṣùmàrè — “kì yóò sí ìkún-omi mọ́ láti pa run”"
+    ]
+   },
+   "babel": {
+    "name": "Ilé-ìṣọ́ Babeli",
+    "book": "Genesisi 11",
+    "today": "Iraki lónìí (pẹ̀tẹ́lẹ̀ Ṣinari)",
+    "note": "Lòdì sí ìgbéraga tí ó nayọ̀ sí ọ̀run, Ọlọrun túká èdè wọn àti àwọn ènìyàn lórí ilẹ̀-ayé.",
+    "events": [
+     "“Ẹ jẹ́ kí a kọ́ ìlú àti ilé-ìṣọ́… kí a sì sọ orúkọ fún ara wa”",
+     "Ọlọrun da èdè wọn rú",
+     "Àwọn ènìyàn túká lórí ilẹ̀-ayé (Ṣinari — Babeli lẹ́yìn náà)"
+    ]
+   },
+   "ur": {
+    "name": "Uri",
+    "book": "Genesisi 12",
+    "today": "gúúsù Iraki lónìí",
+    "note": "Ìtàn ìràpadà Bibeli bẹ̀rẹ̀ pẹ̀lú ìpè ọkùnrin kan.",
+    "events": [
+     "Ọlọrun pe Abramu jáde kúrò ní Uri ti àwọn ará Kaldea",
+     "“Emi o sọ ọ di orilẹ-ède nla… gbogbo idile aiye li a o bukun fun ninu rẹ”",
+     "Nípa ìgbàgbọ́ ó fi ilẹ̀ ìbí rẹ̀ sílẹ̀"
+    ]
+   },
+   "haran": {
+    "name": "Harani",
+    "book": "Genesisi 12",
+    "today": "gúúsù Tọ́kì lónìí",
+    "note": "Ní ọ̀nà, ó ndáhùn ìpè náà síhà ilẹ̀ ìlérí.",
+    "events": [
+     "Ìdílé Tera tẹ̀dó sí Harani",
+     "Tera kú",
+     "Abramu jáde lọ sí Kenaani ní ẹni ọdún 75"
+    ]
+   },
+   "shechem": {
+    "name": "Ṣekemu · Kenaani",
+    "book": "Genesisi 12–50",
+    "today": "Nablusi lónìí",
+    "note": "Ní ilẹ̀ ìlérí a fìdí ìdílé kan múlẹ̀ àti májẹ̀mú náà kọjá lọ láti ìran dé ìran.",
+    "events": [
+     "Wíwọ Kenaani, pẹpẹ àkọ́kọ́ — “fun irú-ọmọ rẹ ni emi o fi ilẹ yi”",
+     "Májẹ̀mú náà (Gen 15) · Isaaki · Jakobu",
+     "Àwọn ọmọkùnrin Jakobu méjìlá — gbòǹgbò àwọn ẹ̀yà méjìlá"
+    ]
+   },
+   "egypt": {
+    "name": "Egipti (Goṣeni)",
+    "book": "Genesisi 37–50 · Eksodu 1",
+    "today": "Delta Naili, Egipti lónìí",
+    "note": "Ìdílé kan di orílẹ̀-èdè ńlá — lẹ́yìn náà orílẹ̀-èdè àwọn ẹrú.",
+    "events": [
+     "Josefu, tí a tà síhà, dìde sí ìṣàkóso Egipti",
+     "Gbogbo ìdílé Jakobu sọ̀ kalẹ̀ wá láti sá fún ìyàn",
+     "A sọ orílẹ̀-èdè Israeli tí ó ndàgbà di ẹrú"
+    ]
+   },
+   "sinai": {
+    "name": "Òkè Sinai",
+    "book": "Eksodu · Lefitiku",
+    "today": "Ile-Erékùṣù Sinai lónìí",
+    "note": "Ìgbàlà àárín-gbùngbùn Májẹ̀mú Láàé — àwọn ẹrú di ènìyàn Ọlọrun fúnra rẹ̀.",
+    "events": [
+     "Àjàkálẹ̀-àrùn mẹ́wàá àti ọ̀dọ́-àgùntàn Ìrékọjá",
+     "Òkun Pupa pínyà wọ́n sì rékọjá",
+     "Òfin Mẹ́wàá, Òfin náà, àgọ́ àti àwọn ẹbọ"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeṣi (aṣálẹ̀)",
+    "book": "Numeri · Deuteronomi",
+    "today": "aṣálẹ̀ Sinai–Negebu lónìí",
+    "note": "Àìgbàgbọ́ ná ìran kan ní ilẹ̀ náà — síbẹ̀ Ọlọrun dúró pẹ̀lú wọn.",
+    "events": [
+     "Amí méjìlá — ṣùgbọ́n àwọn ènìyàn kọ̀ láti gbẹ́kẹ̀lé",
+     "Ọdún 38 ní aṣálẹ̀ — manna, àwọsánmà àti iná",
+     "Ní pẹ̀tẹ́lẹ̀ Moabu, ìwàásù ìkẹyìn Mose (Deuteronomi)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Joṣua",
+    "today": "Jeriko lónìí",
+    "note": "Níkẹyìn wọ́n wọlé wọ́n sì gba ilẹ̀ ìlérí.",
+    "events": [
+     "Jordani pínyà àwọn ènìyàn sì rékọjá",
+     "Odi Jeriko wó",
+     "Ìṣẹ́gun Kenaani àti ìpín ilẹ̀ náà"
+    ]
+   },
+   "shiloh": {
+    "name": "Ṣilo (Àwọn Onídàájọ́)",
+    "book": "Onidajọ · Rutu",
+    "today": "Khirbet Seilun lónìí",
+    "note": "Láìní ọba, olúkúlùkù nṣe bí ó ti wù ú — ọba gidi nílò.",
+    "events": [
+     "A gbé àgọ́ kalẹ̀ ní Ṣilo",
+     "Àyíká ẹ̀ṣẹ̀–ìnilára–ìgbàlà (Debora, Gideoni, Samsoni)",
+     "Rutu — ìṣòtítọ́ ní àwọn ọjọ́ òkùnkùn, nínú ìlà Dafidi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalemu · Ìjọba Aṣọ̀kan",
+    "book": "1–2 Samueli · 1 Ọba",
+    "today": "Jerusalemu lónìí",
+    "note": "Àkókò wúrà Israeli — àti ìlérí ọba ayérayé.",
+    "events": [
+     "Saulu ọba àkọ́kọ́, lẹ́yìn náà Dafidi àti Goliati",
+     "Májẹ̀mú Dafidi — “itẹ rẹ titi lai” (2 Sam 7)",
+     "Solomoni kọ́ tẹmpili ní Jerusalemu"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Ìjọba Pípín",
+    "book": "Àwọn Ọba · Àwọn Wòlíì",
+    "today": "Sebastia lónìí",
+    "note": "Ìjọba náà pín ó sì rẹ̀sílẹ̀ bí àwọn wòlíì ti nkígbe.",
+    "events": [
+     "Lẹ́yìn Solomoni, ìpín sí Juda àti Israeli",
+     "Ìbọ̀rìṣà léraléra",
+     "Elijah, Isaiah, Jeremiah kígbe ‘ẹ padà’ — wọ́n sì sọ àsọtẹ́lẹ̀ Mèsáyà"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninefe (Asiria)",
+    "book": "2 Ọba 17 · Jona",
+    "today": "Mosulu, Iraki lónìí",
+    "note": "Láìka gbogbo ìkìlọ̀ sí, àríwá ṣubú ní àkọ́kọ́.",
+    "events": [
+     "Ninefe, olú-ìlú Asiria",
+     "Ìjọba àríwá ṣubú lọ́wọ́ Asiria (722 ṣ.K.)",
+     "A rán Jona sí Ninefe"
+    ]
+   },
+   "babylon": {
+    "name": "Babeli",
+    "book": "2 Ọba 25 · Danieli · Esekieli",
+    "today": "Hilla, Iraki lónìí",
+    "note": "Òru tí ó ṣókùnkùn jùlọ — síbẹ̀ ìlérí ìmúpadàbọ̀sípò ṣì wà.",
+    "events": [
+     "Jerusalemu ṣubú, a jó tẹmpili (586 ṣ.K.)",
+     "A kó Juda lọ sí Babeli",
+     "Danieli àti Esekieli — ìgbàgbọ́ àti ìran nínú ìgbèkùn"
+    ]
+   },
+   "susa": {
+    "name": "Ṣuṣani (Persia)",
+    "book": "Esteri · Nehemiah",
+    "today": "Shush, Iran lónìí",
+    "note": "Àní ní ọkàn ilẹ̀-ọba abọ̀rìṣà, Ọlọrun tọ́jú àwọn ènìyàn rẹ̀.",
+    "events": [
+     "Persia bì Babeli ṣubú",
+     "Esteri gba àwọn Júù là kúrò lọ́wọ́ ìparun",
+     "Nehemiah gbàdúrà níwájú ọba a sì rán an"
+    ]
+   },
+   "return": {
+    "name": "Ìpadàbọ̀ sí Jerusalemu",
+    "book": "Esra · Nehemiah · Malaki",
+    "today": "Jerusalemu lónìí",
+    "note": "Wọ́n padà wá wọ́n sì tún kọ́ — ṣùgbọ́n kò sí ọba tí ó dé. Wọ́n ndúró de Mèsáyà.",
+    "events": [
+     "Ìṣàn ìpadàbọ̀ mẹ́ta nípa àṣẹ Kirusi (Serubbabeli 538 · Esra 458 · Nehemiah 444)",
+     "A tún tẹmpili kọ́ a sì mú odi Jerusalemu padàbọ̀sípò",
+     "Malaki — Májẹ̀mú Láàé parí: “Emi o rán onṣẹ mi”"
+    ]
+   }
+  },
+  "labels": [
+   "Òkun Mẹditerenia",
+   "Mesopotamia",
+   "Aṣálẹ̀ Arabia",
+   "Egipti"
+  ],
+  "journeys": {
+   "flow": "Ìtàn ìràpadà náà"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehemu",
+    "book": "Matteu 1–2 · Luku 2",
+    "today": "Betlehemu lónìí",
+    "note": "Mèsáyà tí a ṣèlérí dé sí ìlú Dafidi — Ọ̀rọ̀ tí ó di ara.",
+    "events": [
+     "A bí i ní Betlehemu, ìlú Dafidi",
+     "Àwọn áńgẹ́lì kéde ìròyìn náà fún àwọn olùṣọ́-àgùntàn",
+     "Àwọn amòye dé láti sìn ín"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasareti",
+    "book": "Luku 2 · 4",
+    "today": "Nasareti lónìí",
+    "note": "Ọlọrun dàgbà bí ọkùnrin ní ìlú lásán.",
+    "events": [
+     "A tọ́ ọ dàgbà ní ilé gbẹ́nàgbẹ́nà",
+     "Ní ẹni ọdún méjìlá, ó nbéèrè ó sì ndáhùn nínú tẹmpili",
+     "Lẹ́yìn náà a kọ̀ ọ́ ní sinagọgu ìlú rẹ̀"
+    ]
+   },
+   "jordan": {
+    "name": "Odò Jordani",
+    "book": "Matteu 3–4",
+    "today": "Jordani ìsàlẹ̀ lónìí",
+    "note": "Iṣẹ́-ìránṣẹ́ gbangba rẹ̀ bẹ̀rẹ̀ — ọ̀run fi èdìdì dì í bí Ọmọ.",
+    "events": [
+     "Johannu tẹ̀ ẹ́ bọmi",
+     "Ẹ̀mí sọ̀ kalẹ̀ bí àdàbà — “Eyi ni Ọmọ mi olufẹ”",
+     "Ó ṣẹ́gun ìdánwò mẹ́ta Satani nínú aṣálẹ̀"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Johannu 2",
+    "today": "Kafr Kanna lónìí",
+    "note": "Nínú àmì àkọ́kọ́ rẹ̀ ó fi ògo rẹ̀ hàn.",
+    "events": [
+     "Àlejò ní ibi ìgbéyàwó",
+     "A sọ omi di wáìnì — àmì àkọ́kọ́ rẹ̀",
+     "Àwọn ọmọ-ẹ̀yìn rẹ̀ gbà á gbọ́"
+    ]
+   },
+   "sychar": {
+    "name": "Sikari (Samaria)",
+    "book": "Johannu 2–4",
+    "today": "nítòsí Nablusi lónìí",
+    "note": "Ọ̀nà iṣẹ́-ìránṣẹ́ àkọ́kọ́ — kọjá Jerusalemu títí dé Samaria tí a gàn.",
+    "events": [
+     "Ó wẹ tẹmpili mọ́ ní Jerusalemu",
+     "Ní òru, Nikodemu — “a kò lè rí ijọba Ọlọrun bikoṣe bi a ba bí ni lẹ́ẹ̀kejì”",
+     "Omi ìyè fún obìnrin ará Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaumu",
+    "book": "Matteu 4–13 · Marku 1–4",
+    "today": "etí adágún Galili lónìí",
+    "note": "Ibùdó iṣẹ́-ìránṣẹ́ Galili — ìpè, ẹ̀kọ́ àti àtakò gbogbo péjọ síbí.",
+    "events": [
+     "Ó pe àwọn apẹja ó sì gbé ibùdó síbí",
+     "Ìwàásù lórí Òkè — “Ibukun ni fun awọn talaka ni ẹmí”",
+     "Àwọn òwe ìjọba — àti àtakò tí ndìde"
+    ]
+   },
+   "galilee": {
+    "name": "Òkun Galili",
+    "book": "Marku 4 · 6 · Johannu 6",
+    "today": "Adágún Kinneret lónìí",
+    "note": "Pẹ̀lú agbára lórí ẹ̀dá ó fihàn ẹni tí ó jẹ́.",
+    "events": [
+     "“Parọ́rọ́, dákẹ́” — ó pa ìjì lọ́lọ́",
+     "Ó bọ́ 5,000 pẹ̀lú ìṣù àkàrà márùn-ún àti ẹja méjì",
+     "Ó rìn lórí omi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kesarea Filipi",
+    "book": "Matteu 16–17",
+    "today": "Banias lónìí",
+    "note": "Àwọn ọmọ-ẹ̀yìn rí i pé òun ni Kristi, ọ̀nà àgbélébùú sì ṣílẹ̀.",
+    "events": [
+     "Ìjẹ́wọ́ Peteru — “Iwọ li Kristi, Ọmọ Ọlọrun alãye”",
+     "Ó kọ́kọ́ sọ àsọtẹ́lẹ̀ ikú àti àjíǹde rẹ̀",
+     "A pa á dà ní ògo lórí òkè"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Luku 18–19",
+    "today": "Jeriko lónìí",
+    "note": "Ní ọ̀nà gòkè sí Jerusalemu, ó nwá àwọn tí ó nù.",
+    "events": [
+     "Ó la ojú Bartimeu afọ́jú",
+     "Ó pe Sakeu agbowó-orí",
+     "“Ọmọ enia wá lati wá ati lati gbà ohun ti o nù là”"
+    ]
+   },
+   "bethany": {
+    "name": "Betani",
+    "book": "Johannu 11–12",
+    "today": "al-Eizariya lónìí",
+    "note": "Ó fi agbára lórí ikú hàn ní alẹ́ ọ̀sẹ̀ ìkẹyìn rẹ̀.",
+    "events": [
+     "Ó jí Lasaru dìde kúrò nínú ibojì — “Emi ni ajinde ati ìye”",
+     "Maria fi òróró kùn ún fún ìsìnkú",
+     "Àmì yìí sọ ọ̀tẹ̀ láti pa á di líle"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalemu",
+    "book": "Matteu 21–28 · Luku 24 · Iṣe 1",
+    "today": "Jerusalemu lónìí",
+    "note": "Ibi tí gbogbo Bibeli ti ntọ̀ sí — àgbélébùú, àjíǹde, ìgoke.",
+    "events": [
+     "Ìwọlé ìṣẹ́gun; ó tún bì àwọn tábìlì tẹmpili ṣubú",
+     "Ní Oúnjẹ Alẹ́ Ìkẹyìn ó wẹ ẹsẹ̀ àwọn ọmọ-ẹ̀yìn",
+     "Ó kú lórí àgbélébùú",
+     "Ó jíǹde ní ọjọ́ kẹta, ó sì gòkè"
+    ]
+   }
+  },
+  "labels": [
+   "Òkun Mẹditerenia",
+   "Galili",
+   "Samaria",
+   "Judea",
+   "Dekapolisi",
+   "Perea",
+   "Òkun Òkú"
+  ],
+  "journeys": {
+   "life": "Ọ̀nà Jesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioku",
+    "book": "Iṣe 13 · 15",
+    "today": "Antakya, Tọ́kì lónìí",
+    "note": "Ìjọ tí ó rán níbi tí iṣẹ́-míṣọ̀nnárì àwọn Kèfèrí ti bẹ̀rẹ̀ tí ó sì npadà sí.",
+    "events": [
+     "Nínú àdúrà Ẹ̀mí ya Barnaba àti Saulu sọ́tọ̀",
+     "Ìjọ níbi tí a ti kọ́kọ́ pe àwọn onígbàgbọ́ ní ‘Kristian’",
+     "Ibi ìpilẹ̀ṣẹ̀ ìrìnàjò 1, 2 àti 3"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Iṣe 13:4",
+    "today": "Tọ́kì lónìí",
+    "note": "Èbúté Antioku — wọ́n ṣíkọ̀ lọ sí Kipru.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salami (Kipru)",
+    "book": "Iṣe 13:5",
+    "today": "Kipru lónìí",
+    "note": "Ibùdó àkọ́kọ́ ní Kipru — wíwàásù nínú àwọn sinagọgu.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafosi",
+    "book": "Iṣe 13:6-12",
+    "today": "Kipru lónìí",
+    "note": "A fi agbára hàn lòdì sí àwọn tí ó takò ìhìnrere.",
+    "events": [
+     "Elima oṣó di afọ́jú",
+     "Sergiu Paulu, baálẹ̀, gbàgbọ́",
+     "Láti ibí ‘Paulu’ gba olórí"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Iṣe 13:13",
+    "today": "Antalya, Tọ́kì lónìí",
+    "note": "Èbúté kan ní Pamfilia — níbí Johannu Marku padà sẹ́yìn.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioku ti Pisidia",
+    "book": "Iṣe 13:14-50",
+    "today": "Yalvaç, Tọ́kì lónìí",
+    "note": "Ìhìnrere ṣílẹ̀kùn síhà àwọn Kèfèrí.",
+    "events": [
+     "Ìwàásù gígùn ti ìtàn ìgbàlà nínú sinagọgu",
+     "Ọ̀pọ̀ àwọn Kèfèrí yọ̀ wọ́n sì gba ọ̀rọ̀ náà",
+     "A lé wọn jáde nípa àtakò"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniumu",
+    "book": "Iṣe 14:1-7",
+    "today": "Konya, Tọ́kì lónìí",
+    "note": "Ọ̀pọ̀ gbàgbọ́, ṣùgbọ́n inúnibíni lé wọn lọ síwájú.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Iṣe 14:8-20",
+    "today": "Tọ́kì lónìí",
+    "note": "A pè é ní ọlọ́run, lẹ́yìn náà a sọ ọ́ ní òkúta.",
+    "events": [
+     "Ó wo ọkùnrin tí ó yarọ láti ìbí sàn",
+     "Ìjọ ènìyàn gbìyànjú láti rúbọ sí wọn bí ọlọ́run",
+     "A sọ ọ́ ní òkúta a sì fi sílẹ̀ bí òkú, ó dìde"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Iṣe 14:20-21",
+    "today": "Tọ́kì lónìí",
+    "note": "A sọ ọ̀pọ̀ di ọmọ-ẹ̀yìn; wọ́n padà ọ̀nà wọn láti fún àwọn ìjọ lókun.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troa",
+    "book": "Iṣe 16:8-10",
+    "today": "Tọ́kì lónìí",
+    "note": "Ibi ìyípadà níbi tí ìhìnrere ti kọ́kọ́ tọ́ka sí Europe.",
+    "events": [
+     "Ìran ọkùnrin kan ti Makedonia",
+     "“Rékọjá wá sí Makedonia, ki o sì rànwá lọ́wọ́”",
+     "Lẹ́sẹ̀kẹsẹ̀ wọ́n rékọjá sí Europe"
+    ]
+   },
+   "philippi": {
+    "name": "Filippi",
+    "book": "Iṣe 16 · Filippi",
+    "today": "àríwá Greece lónìí",
+    "note": "Ìjọ àkọ́kọ́ ti Europe — ìhìnrere ṣẹ́gun àní nínú ọgbà-ẹ̀wọ̀n.",
+    "events": [
+     "Lidia, oníṣòwò aṣọ àlùkò, gbàgbọ́",
+     "A tú ọmọbìnrin ẹrú aláfọ̀ṣẹ kan sílẹ̀",
+     "Orin ọ̀gànjọ́, ìmìtìtì-ilẹ̀, a gba ìdílé olùṣọ́-ẹ̀wọ̀n là"
+    ]
+   },
+   "thess": {
+    "name": "Tessalonika",
+    "book": "Iṣe 17 · 1–2 Tessalonika",
+    "today": "Thessaloniki, Greece lónìí",
+    "note": "Ọ̀rọ̀ náà mì ìlú náà, àtakò sì rú jáde.",
+    "events": [
+     "Ó bá wọn jiyàn nínú sinagọgu ní Sabbati mẹ́ta",
+     "“Awọn wọnyi ti yi aiye po loke-loke”",
+     "Wọ́n yọ́ lọ ní òru"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Iṣe 17:10-15",
+    "today": "Veria, Greece lónìí",
+    "note": "Àwọn ‘ọlọ́lá’ tí ó ṣàyẹ̀wò ọ̀rọ̀ náà fúnra wọn.",
+    "events": [
+     "Wọ́n gba ọ̀rọ̀ náà tọkàntọkàn",
+     "Lójoojúmọ́ wọ́n ṣàyẹ̀wò Ìwé-mímọ́ láti dán an wò",
+     "Ọ̀pọ̀ wá gbàgbọ́"
+    ]
+   },
+   "athens": {
+    "name": "Ateni",
+    "book": "Iṣe 17:16-34",
+    "today": "Athens, Greece lónìí",
+    "note": "Ní ìlú àwọn onímọ̀-ọgbọ́n ó kéde ‘ọlọ́run àìmọ̀’.",
+    "events": [
+     "Ìlú tí ó kún fún òrìṣà bí i nínú",
+     "Lórí Areopagu ó wàásù Ẹlẹ́dàá àti àjíǹde",
+     "A fi í ṣe ẹlẹ́yà, síbẹ̀ àwọn díẹ̀ gbàgbọ́"
+    ]
+   },
+   "corinth": {
+    "name": "Korinti",
+    "book": "Iṣe 18 · 1–2 Korinti",
+    "today": "Greece lónìí",
+    "note": "Ó dúró ọdún kan àti ààbọ̀, ó ngbin ìjọ ní ìlú ìwà-pálapàla.",
+    "events": [
+     "Ó nṣe àgọ́ pẹ̀lú Akula àti Priskila",
+     "“Má bẹ̀ru… nitori emi mba ọ wà”",
+     "Ọ̀pọ̀ ará Korinti gbàgbọ́ a sì tẹ̀ wọ́n bọmi"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesu",
+    "book": "Iṣe 19 · Efesu",
+    "today": "Selçuk, Tọ́kì lónìí",
+    "note": "Ọkàn ìrìnàjò kẹta — ọ̀rọ̀ náà tàn kọjá Esia.",
+    "events": [
+     "Ẹ̀kọ́ lójoojúmọ́ fún ọdún méjì ní gbọ̀ngàn Tiranu",
+     "A jó àwọn ìwé idán; iṣẹ́ agbára",
+     "Demetriu alágbẹ̀dẹ-fàdákà rú ìrúkèrúdò"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Iṣe 20:17-38",
+    "today": "Tọ́kì lónìí",
+    "note": "Ìdágbére ẹkún sí àwọn alàgbà Efesu.",
+    "events": [
+     "“Ẹ tọ́jú ijọ ti o fi ẹjẹ ara rẹ̀ rà”",
+     "Àwọn alàgbà sọkún, nítorí wọ́n mọ̀ pé wọn kì yóò tún rí i mọ́"
+    ]
+   },
+   "caesarea": {
+    "name": "Kesarea",
+    "book": "Iṣe 23–26",
+    "today": "etí-òkun Israeli lónìí",
+    "note": "Fún ọdún méjì ó dáàbò bo ìhìnrere níwájú àwọn baálẹ̀ àti ọba.",
+    "events": [
+     "Ìdájọ́ níwájú àwọn baálẹ̀ Feliki àti Festu",
+     "Ìgbèjà rẹ̀ níwájú Ọba Agripa",
+     "“Mo bẹ̀bẹ̀ sí Kesari” — lọ sí Romu"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalemu",
+    "book": "Iṣe 21–23",
+    "today": "Jerusalemu lónìí",
+    "note": "A mú un nínú tẹmpili, ọ̀nà rẹ̀ bí ẹlẹ́wọ̀n sì bẹ̀rẹ̀.",
+    "events": [
+     "Ìjọ ènìyàn mú un nínú tẹmpili",
+     "Ó gbèjà ara rẹ̀ níwájú ìgbìmọ̀",
+     "Bí ọmọ ìlú Romu, a rán an lábẹ́ ìṣọ́ lọ sí Kesarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Iṣe 27:5-6",
+    "today": "Demre, Tọ́kì lónìí",
+    "note": "Wọ́n yí sí ọkọ̀ ará Aleksandria tí ó nlọ sí Romu.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Èbúté Rere (Kreti)",
+    "book": "Iṣe 27:8-12",
+    "today": "Kreti lónìí",
+    "note": "A kọ etí ìkìlọ̀ Paulu láti dáwọ́ ìrìnàjò.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreti",
+    "book": "Titu",
+    "today": "Kreti lónìí",
+    "note": "Lẹ́yìn ìdásílẹ̀ rẹ̀, erékùṣù tí ó fi Titu sílẹ̀ láti to àwọn ìjọ ṣe.",
+    "events": [
+     "Ó fi Titu sílẹ̀ láti yan àwọn alàgbà ní ìlú kọọkan",
+     "Ó pe àwọn olórí aláìlẹ́gàn, olóòótọ́",
+     "Ó kọ lẹ́tà sí Titu"
+    ]
+   },
+   "malta": {
+    "name": "Melita",
+    "book": "Iṣe 27–28",
+    "today": "Melita lónìí",
+    "note": "Nínú ìjì àti ìrì-ọkọ̀, ìlérí Ọlọrun dúró.",
+    "events": [
+     "‘Aféfé àríwá-ìlà-oòrùn’ bà ọkọ̀ jẹ́, síbẹ̀ gbogbo 276 yè",
+     "Paramọ́lẹ̀ bù ú jẹ, kò ṣe é léṣe",
+     "Ó wo àwọn aláìsàn erékùṣù náà sàn"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusa",
+    "book": "Iṣe 28:12",
+    "today": "Sicily, Italy lónìí",
+    "note": "Wọ́n dúró ọjọ́ mẹ́ta ní Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Iṣe 28:13-14",
+    "today": "Pozzuoli, Italy lónìí",
+    "note": "Wọ́n gúnlẹ̀ sí Italy, àwọn onígbàgbọ́ ẹlẹgbẹ́ wọn sì pàdé wọn.",
+    "events": []
+   },
+   "rome": {
+    "name": "Romu",
+    "book": "Iṣe 28 · Àwọn Lẹ́tà Ọgbà-ẹ̀wọ̀n · 2 Timoteu",
+    "today": "Rome, Italy lónìí",
+    "note": "Ìhìnrere dé ọkàn ilẹ̀-ọba níkẹyìn — kì iṣe òpin bíkòṣe ìbẹ̀rẹ̀.",
+    "events": [
+     "Ọdún méjì lábẹ́ àtìmọ́lé ilé, ó nkéde ìjọba lọ́gbọdẹ̀",
+     "Láti ibí ó kọ àwọn Lẹ́tà Ọgbà-ẹ̀wọ̀n (Efe·Fil·Kol·Filemoni)",
+     "Lẹ́yìn náà a tún fi í sẹ́wọ̀n, ó kọ 2 Timoteu a sì pa á ní ajẹ́rìíkú — “mo ti jà ìjà rere, mo ti pari iré-ije na”"
+    ]
+   }
+  },
+  "labels": [
+   "Òkun Mẹditerenia",
+   "Òkun Aegea",
+   "Esia Kékeré",
+   "Makedonia",
+   "Italy"
+  ],
+  "journeys": {
+   "j1": "Ìrìnàjò àkọ́kọ́",
+   "j2": "Ìrìnàjò kejì",
+   "j3": "Ìrìnàjò kẹta",
+   "rome": "Ìrìnàjò kẹrin · sí Romu",
+   "j5": "Ìrìnàjò karùn-ún · lẹ́yìn ìdásílẹ̀"
+  }
+ }
+}

@@ -1,0 +1,636 @@
+{
+ "menuName": "Igbo",
+ "htmlLang": "ig",
+ "dir": "ltr",
+ "locale": "ig",
+ "brand": "Akwụkwọ Nsọ n'otu Mpịpịakwụkwọ",
+ "docTitle": "Akwụkwọ Nsọ site na Maapụ · Akwụkwọ Nsọ n'otu Mpịpịakwụkwọ",
+ "metaDesc": "Soro usoro oge nke Agba Ochie, ndụ Jisus, na njem Pọl n'elu ezigbo maapụ — Akwụkwọ Nsọ mere n'ebe ndị dị adị.",
+ "s": {
+  "kicker": "Akwụkwọ Nsọ n'otu Mpịpịakwụkwọ · Maapụ",
+  "title": "Akwụkwọ Nsọ site na Maapụ",
+  "verse": "“N'ihi na ayi esoghi akukọ-irò nke eji amam-ihe kọ, mb͕e ayi mere ka unu mara ike na ọbibia nke Onye-nwe-ayi Jisus Kraist, ma emere ayi ka ayi buru ndi huru idi-uku nke Onye ahu.” (2 Pita 1:16)",
+  "purpose": "Akwụkwọ Nsọ abụghị akụkọ ifo. Ọ bụ ihe ndekọ banyere ndị mmadụ jere ije n'ebe ndị dị adị, ụbọchị ndị dị adị, na aha ndị dị adị. Soro ụzọ ndị ahụ n'elu maapụ, n'usoro oge — pịa otu ebe, ma ọ bụ pịa ▶ ka i jee ije n'ime ya nzọ n'otu nzọ.",
+  "ot_kick": "① Agba Ochie — n'ime oge",
+  "ot_h": "Site n'okike ruo na mlọghachi na Jerusalem",
+  "ot_lead": "Ọ bụghị otu njem kama mmụba nke akụkọ mgbapụta site n'okike gawa: okike na ọdịda → uju mmiri na Babel → ọkpọ oku (Ebraham) → ala nkwa ahụ → Ọpụpụ → ọzara → imeri ala → alaeze → nkewa → ije mba ọzọ → mlọghachi.",
+  "je_kick": "② Agba Ọhụrụ — ndụ Jisus",
+  "je_h": "Site na Betlehem ruo na Jerusalem",
+  "je_lead": "Soro ndụ Jisus dị ka Oziọma anọ na-akọ ya, n'usoro — site n'ọmụmụ ya na Betlehem gafee baptism ya na ozi Galili ya, gabiga Sameria, ruo n'obe, mbilite n'ọnwụ na ịrịgo n'eluigwe na Jerusalem.",
+  "pa_kick": "③ Agba Ọhụrụ — njem Pọl",
+  "pa_h": "Site na Antiọk ruo na nsọtụ ụwa — Rom",
+  "pa_lead": "Site na Pentikọst na Jerusalem, otú oziọma si gbasaa karịa Judia — gabiga Eshia Nta na Yurop ruo n'obi alaeze ukwu ahụ. Họrọ otu n'ime njem ise (nke mbụ·nke abụọ·nke atọ + njem ụgbọ mmiri gaa Rom + mgbe a tọhapụrụ ya) ma soro ihe omume nke Ọrụ na akwụkwọ ozi e dere n'ụzọ.",
+  "foot": "Isi mmalite · Ebe ndị dị na-eso ederede Akwụkwọ Nsọ na ọdịdị ala Akwụkwọ Nsọ a na-anabata (ya na aha ọgbara ọhụrụ ebe ọ baara uru). E sere ọnụ mmiri, osimiri na ọdọ mmiri site na data ọdịdị ala mepere emepe (Natural Earth), bụ nke e mere ka ọ dị mfe.",
+  "contact": "Ajụjụ · nzaghachi — <a id=\"contact\" class=\"mail\">Zitere anyị ozi</a>",
+  "play": "Kpọọ",
+  "pause": "Kwụsị",
+  "today": "Taa:",
+  "verseCite": "2 Pita 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Iden (Okike · Ọdịda)",
+    "book": "Jenesis 1–3",
+    "today": "mpaghara Taịgris–Yufretis taa",
+    "note": "N'ime ụwa e kere “mara mma nke ukwuu,” mmehie batara ma bee njikọ dị n'etiti Chineke na mmadụ.",
+    "events": [
+     "Okike n'ụbọchị isii — “ọ dị mma nke ukwuu”",
+     "E kere mmadụ n'oyiyi Chineke",
+     "Ọdịda ahụ, na ịchụpụ ha n'Iden",
+     "Nkwa oziọma mbụ — “nkpuru nke nwanyị ga-agwepịa isi agwọ ahụ”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Uju Mmiri ahụ)",
+    "book": "Jenesis 6–9",
+    "today": "Ugwu Ararat, ọwụwa anyanwụ Tọki taa",
+    "note": "Chineke na-ekpe ụwa jupụtara na mmehie ikpe, ma na-echekwa ndụ site n'otu ezinụlọ.",
+    "events": [
+     "Ụwa jupụtara na mmebi",
+     "Uju mmiri ahụ, na ụgbọ mmiri Noa",
+     "Ọgbụgba ndụ eke na egwurugwu — “ọ dịghịkwa uju mmiri ga-ala ụwa n'iyi ọzọ”"
+    ]
+   },
+   "babel": {
+    "name": "Ụlọ Elu Babel",
+    "book": "Jenesis 11",
+    "today": "Iraq taa (mbara ala Shaịna)",
+    "note": "Megide mpako nke na-aga ịrute eluigwe, Chineke gbasasịrị okwu ha na ndị mmadụ n'elu ụwa.",
+    "events": [
+     "“Ka anyị wuo obodo na ụlọ elu… ka anyị meere onwe anyị aha”",
+     "Chineke gbagwojuru asụsụ ha",
+     "Ndị mmadụ gbasasịrị n'elu ụwa (Shaịna — Babilọn n'oge ikpeazụ)"
+    ]
+   },
+   "ur": {
+    "name": "Ọ",
+    "book": "Jenesis 12",
+    "today": "ndịda Iraq taa",
+    "note": "Akụkọ mgbapụta nke Akwụkwọ Nsọ na-amalite site n'ọkpọ oku otu nwoke.",
+    "events": [
+     "Chineke kpọpụtara Ebram n'Ọ nke ndị Kaldea",
+     "“M ga-eme gị ka ị ghọọ mba ukwu… a ga-agọzi mmadụ niile site na gị”",
+     "Site n'okwukwe ọ hapụrụ ala nna ya"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Jenesis 12",
+    "today": "ndịda Tọki taa",
+    "note": "N'ụzọ, na-aza ọkpọ oku ahụ na-eche ihu n'ala nkwa ahụ.",
+    "events": [
+     "Ezinụlọ Tera biri na Haran",
+     "Tera nwụrụ",
+     "Ebram pụrụ gaa Kenan mgbe ọ dị afọ iri asaa na ise"
+    ]
+   },
+   "shechem": {
+    "name": "Shekem · Kenan",
+    "book": "Jenesis 12–50",
+    "today": "Nablus taa",
+    "note": "N'ala nkwa ahụ ka e hiwere ezinụlọ ma ọgbụgba ndụ na-agbada n'ọgbọ ruo n'ọgbọ.",
+    "events": [
+     "Ịbanye Kenan, ebe ịchụ àjà mbụ — “Mkpụrụ gị ka m ga-enye ala a”",
+     "Ọgbụgba ndụ ahụ (Jen 15) · Aịzik · Jekọb",
+     "Ụmụ nwoke Jekọb iri na abụọ — mgbọrọgwụ ebo iri na abụọ"
+    ]
+   },
+   "egypt": {
+    "name": "Ijipt (Goshen)",
+    "book": "Jenesis 37–50 · Ọpụpụ 1",
+    "today": "Delta Naịl, Ijipt taa",
+    "note": "Otu ezinụlọ ghọrọ mba ukwu — mgbe ahụ mba ndị ohu.",
+    "events": [
+     "Josef, onye e rere, rịgoro n'ọchịchị Ijipt",
+     "Ezinụlọ Jekọb niile gbadara ịgbanahụ ụnwụ",
+     "Mba Izrel na-eto eto ghọrọ ndị ohu"
+    ]
+   },
+   "sinai": {
+    "name": "Ugwu Sainai",
+    "book": "Ọpụpụ · Levitikọs",
+    "today": "Ọwa Ala Sainai taa",
+    "note": "Mgbapụta kachasị ukwuu nke Agba Ochie — ndị ohu ghọrọ ndị nke Chineke.",
+    "events": [
+     "Ihe otiti iri na nwa atụrụ Ememe Ngabịga",
+     "Oké Osimiri Uhie kewara ha gafee",
+     "Iwu Iri, Iwu ahụ, ụlọ ikwuu na àjà"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesh (ọzara)",
+    "book": "Ọnụ Ọgụgụ · Diuterọnọmi",
+    "today": "ọzara Sainai–Negev taa",
+    "note": "Ekweghị ekwe mere ka otu ọgbọ tụfuo ala ahụ — ma Chineke nọnyeere ha.",
+    "events": [
+     "Ndị nledo iri na abụọ — ma ndị mmadụ jụrụ ịtụkwasị obi",
+     "Afọ iri atọ na asatọ n'ọzara — mánà, ígwé ojii na ọkụ",
+     "N'elu mbara ala Moab, ozi ikpeazụ Mosis (Diuterọnọmi)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Joshua",
+    "today": "Jeriko taa",
+    "note": "N'ikpeazụ ha banyere ma weghara ala nkwa ahụ.",
+    "events": [
+     "Jọdan kewara ma ndị mmadụ gafee",
+     "Mgbidi Jeriko dara ada",
+     "Imeri Kenan na nkewa ala ahụ"
+    ]
+   },
+   "shiloh": {
+    "name": "Shaịlo (Ndị Ikpe)",
+    "book": "Ndị Ikpe · Rut",
+    "today": "Khirbet Seilun taa",
+    "note": "Mgbe enweghị eze, onye ọ bụla na-eme ihe masịrị ya — a chọrọ ezigbo eze.",
+    "events": [
+     "E mara ụlọ ikwuu na Shaịlo",
+     "Usoro nke mmehie–mmegbu–mgbapụta (Debọra, Gịdiọn, Samsọn)",
+     "Rut — ikwesị ntụkwasị obi n'ụbọchị ọchịchịrị, n'agbụrụ Devid"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Alaeze Dị n'Otu",
+    "book": "1–2 Samuel · 1 Ndị Eze",
+    "today": "Jerusalem taa",
+    "note": "Oge ọlaedo Izrel — na nkwa nke eze ga-adịgide ruo mgbe ebighị ebi.",
+    "events": [
+     "Sọl bụ eze mbụ, mgbe ahụ Devid na Golaịat",
+     "Ọgbụgba ndụ Devid — “ocheeze gị ruo mgbe ebighị ebi” (2 Sam 7)",
+     "Solomọn wuru ụlọnsọ ukwu na Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Sameria · Alaeze Kewara Ekewa",
+    "book": "Ndị Eze · Ndị Amụma",
+    "today": "Sebastia taa",
+    "note": "Alaeze ahụ kewara ma na-arịda ka ndị amụma na-eti mkpu.",
+    "events": [
+     "Mgbe Solomọn gasịrị, nkewa n'ụzọ Juda na Izrel",
+     "Ofufe arụsị na-emeghachi",
+     "Ịlaija, Aịzaịa, Jeremaịa na-eti ‘lọtanu’ — ma na-ebu amụma Mesaịa"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "2 Ndị Eze 17 · Jona",
+    "today": "Mosul, Iraq taa",
+    "note": "N'ileghara ịdọ aka ná ntị ọ bụla anya, alaeze ugwu daara n'ụzọ mbụ.",
+    "events": [
+     "Ninive, isiobodo Asiria",
+     "Alaeze ugwu daara n'aka Asiria (722 TK)",
+     "E zigara Jona na Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilọn",
+    "book": "2 Ndị Eze 25 · Daniel · Ezikiel",
+    "today": "Hillah, Iraq taa",
+    "note": "Abalị kachasị gbaa ọchịchịrị — ma nkwa mweghachi ka dịgide.",
+    "events": [
+     "Jerusalem daara, e rechapụ ụlọnsọ ukwu (586 TK)",
+     "A dọkpụrụ Juda gaa Babilọn",
+     "Daniel na Ezikiel — okwukwe na ọhụụ n'ije mba ọzọ"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Pẹịsia)",
+    "book": "Esta · Nehemaịa",
+    "today": "Shush, Iran taa",
+    "note": "Ọbụna n'obi alaeze ndị na-ekpere arụsị, Chineke na-echekwa ndị ya.",
+    "events": [
+     "Pẹịsia kwaturu Babilọn",
+     "Esta zọpụtara ndị Juu site na mkpochapụ",
+     "Nehemaịa kpere ekpere n'ihu eze ma e zipụ ya"
+    ]
+   },
+   "return": {
+    "name": "Mlọghachi na Jerusalem",
+    "book": "Ezra · Nehemaịa · Malakaị",
+    "today": "Jerusalem taa",
+    "note": "Ha laghachiri ma wugharịa — ma ọ dịghị eze bịara. Ha na-echere Mesaịa.",
+    "events": [
+     "Mlọghachi ugboro atọ site n'iwu Saịrọs (Zerubabel 538 · Ezra 458 · Nehemaịa 444)",
+     "E wugharịrị ụlọnsọ ukwu ma weghachi mgbidi Jerusalem",
+     "Malakaị — Agba Ochie mechiri: “M ga-eziga onye ozi m”"
+    ]
+   }
+  },
+  "labels": [
+   "Oké Osimiri Mediterenian",
+   "Mesopotemia",
+   "Ọzara Arabia",
+   "Ijipt"
+  ],
+  "journeys": {
+   "flow": "Akụkọ mgbapụta ahụ"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Matiu 1–2 · Luk 2",
+    "today": "Betlehem taa",
+    "note": "Mesaịa a kwere na nkwa bịara n'obodo Devid — Okwu ahụ ghọrọ anụ ahụ.",
+    "events": [
+     "A mụrụ ya na Betlehem, obodo Devid",
+     "Ndị mmụọ ozi gwara ndị ọzụzụ atụrụ ozi ahụ",
+     "Ndị amamihe bịara ife ya"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Luk 2 · 4",
+    "today": "Nazaret taa",
+    "note": "Chineke toro dị ka mmadụ n'obodo nkịtị.",
+    "events": [
+     "A zụlitere ya n'ụlọ ọkwa nkà",
+     "Mgbe ọ dị afọ iri na abụọ, na-ajụ na-azakwa ajụjụ n'ụlọnsọ ukwu",
+     "E mesịrị jụ ya n'ụlọ nzukọ obodo ya"
+    ]
+   },
+   "jordan": {
+    "name": "Osimiri Jọdan",
+    "book": "Matiu 3–4",
+    "today": "ndịda Jọdan taa",
+    "note": "Ozi ọha ya na-amalite — eluigwe na-akara ya akara dị ka Ọkpara ahụ.",
+    "events": [
+     "Jọn mere ya baptism",
+     "Mmụọ Nsọ rịdatara dị ka nduru — “Nke a bụ Ọkpara m m hụrụ n'anya”",
+     "Meriri ọnwụnwa atọ nke Setan n'ọzara"
+    ]
+   },
+   "cana": {
+    "name": "Kena",
+    "book": "Jọn 2",
+    "today": "Kafr Kanna taa",
+    "note": "N'ihe ịrịbama mbụ ya, ọ na-egosipụta ebube ya.",
+    "events": [
+     "Onye ọbịa n'agbamakwụkwọ",
+     "E mere ka mmiri ghọọ mmanya — ihe ịrịbama mbụ ya",
+     "Ndị na-eso ụzọ ya kwere na ya"
+    ]
+   },
+   "sychar": {
+    "name": "Saịka (Sameria)",
+    "book": "Jọn 2–4",
+    "today": "nso Nablus taa",
+    "note": "Ụzọ ozi mbụ — gabiga Jerusalem ruo na Sameria a na-eleda anya.",
+    "events": [
+     "Ọ na-asachapụ ụlọnsọ ukwu na Jerusalem",
+     "N'abalị, Nikodimọs — “a ghaghị ịmụ gị ọzọ”",
+     "Mmiri ndụ nye otu nwanyị Sameria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapanaum",
+    "book": "Matiu 4–13 · Mak 1–4",
+    "today": "ọnụ ọdọ mmiri Galili taa",
+    "note": "Ebe ozi Galili — ọkpọ oku, nkuzi na mmegide niile na-ezukọ ebe a.",
+    "events": [
+     "Ọ na-akpọ ndị ọkụ azụ ma mee ebe a ebe obibi ya",
+     "Ozizi n'Ugwu — “Ngọzi na-adịrị ndị dara ogbenye n'ime mmụọ”",
+     "Ilu nke alaeze — na mmegide na-arịwanye elu"
+    ]
+   },
+   "galilee": {
+    "name": "Oké Osimiri Galili",
+    "book": "Mak 4 · 6 · Jọn 6",
+    "today": "Ọdọ Mmiri Kineret taa",
+    "note": "Site n'ike n'ebe okike, ọ na-egosi onye ọ bụ.",
+    "events": [
+     "“Dere jii, kwụsị” — ọ na-eme ka oké ifufe dajụọ",
+     "O ji ogbe achịcha ise na azụ abụọ zụọ puku mmadụ ise",
+     "Ọ na-aga ije n'elu mmiri"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sizaria Filipaị",
+    "book": "Matiu 16–17",
+    "today": "Banias taa",
+    "note": "Ndị na-eso ụzọ ya ghọtara na ọ bụ Kraịst, ụzọ obe na-emeghe.",
+    "events": [
+     "Nkwupụta Pita — “Ị bụ Kraịst, Ọkpara Chineke dị ndụ”",
+     "Ọ na-ebu ụzọ buo amụma ọnwụ ya na mbilite n'ọnwụ",
+     "E gbanwere ọdịdị ya n'ebube n'elu ugwu"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Luk 18–19",
+    "today": "Jeriko taa",
+    "note": "N'ụzọ na-arịgo na Jerusalem, ọ na-achọ ndị furu efu.",
+    "events": [
+     "Ọ na-eme ka Batimeọs onye ìsì hụ ụzọ",
+     "Ọ na-akpọ Zakias onye ọna ụtụ",
+     "“Nwa nke Mmadụ bịara ịchọ na ịzọpụta ndị furu efu”"
+    ]
+   },
+   "bethany": {
+    "name": "Betani",
+    "book": "Jọn 11–12",
+    "today": "al-Eizariya taa",
+    "note": "Ọ na-egosi ọchịchị n'elu ọnwụ n'ọnụ ọnụ izu ikpeazụ ya.",
+    "events": [
+     "Ọ na-akpọlite Lazarọs n'ili — “Mụ onwe m bụ mbilite n'ọnwụ na ndụ”",
+     "Meri tere ya mmanụ maka olili ya",
+     "Ihe ịrịbama a na-eme ka atụmatụ igbu ya sie ike"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Matiu 21–28 · Luk 24 · Ọrụ 1",
+    "today": "Jerusalem taa",
+    "note": "Mmezu kachasị elu nke Akwụkwọ Nsọ niile na-atụ aka na ya — obe, mbilite n'ọnwụ, ịrịgo n'eluigwe.",
+    "events": [
+     "Ịbanye n'ọṅụ; ọ na-akwatugharị tebụl ụlọnsọ ukwu ọzọ",
+     "N'Oriri Ikpeazụ ọ na-asapụ ụkwụ ndị na-eso ụzọ ya",
+     "Ọ nwụrụ n'elu obe",
+     "Ọ bilitere n'ọnwụ n'ụbọchị nke atọ, mgbe ahụ rịgoro n'eluigwe"
+    ]
+   }
+  },
+  "labels": [
+   "Oké Osimiri Mediterenian",
+   "Galili",
+   "Sameria",
+   "Judia",
+   "Dekapolis",
+   "Perea",
+   "Oké Osimiri Nwụrụ Anwụ"
+  ],
+  "journeys": {
+   "life": "Ụzọ Jisus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiọk",
+    "book": "Ọrụ 13 · 15",
+    "today": "Antakya, Tọki taa",
+    "note": "Nzukọ na-eziga ebe ozi ndị Jentaịl na-amalite ma na-alọghachi.",
+    "events": [
+     "N'ekpere Mmụọ Nsọ na-ekewapụ Banabas na Sọl",
+     "Nzukọ ebe a kpọrọ ndị kwere ekwe ‘ndị Kraịst’ na mbụ",
+     "Ebe mmalite nke njem nke mbụ, nke abụọ na nke atọ"
+    ]
+   },
+   "seleucia": {
+    "name": "Selusia",
+    "book": "Ọrụ 13:4",
+    "today": "Tọki taa",
+    "note": "Ọdụ ụgbọ mmiri Antiọk — ha banyere ụgbọ gaa Saịprọs.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Saịprọs)",
+    "book": "Ọrụ 13:5",
+    "today": "Saịprọs taa",
+    "note": "Ebe mbụ ha kwụsịrị na Saịprọs — na-ekwusa n'ụlọ nzukọ.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafọs",
+    "book": "Ọrụ 13:6-12",
+    "today": "Saịprọs taa",
+    "note": "E gosiri ike megide ndị na-emegide oziọma.",
+    "events": [
+     "Elimas onye mgba afa kpụrụ ìsì",
+     "Sajiọs Pọlọs onye ọchịchị kwere ekwe",
+     "Site ebe a ‘Pọl’ na-eduga"
+    ]
+   },
+   "perga": {
+    "name": "Pega",
+    "book": "Ọrụ 13:13",
+    "today": "Antalya, Tọki taa",
+    "note": "Ọdụ ụgbọ na Pamfilia — ebe a Jọn Mak laghachiri azụ.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiọk nke Pisidia",
+    "book": "Ọrụ 13:14-50",
+    "today": "Yalvaç, Tọki taa",
+    "note": "Oziọma na-emeghe gawa n'ebe ndị Jentaịl nọ.",
+    "events": [
+     "Ozi ogologo nke akụkọ nzọpụta n'ụlọ nzukọ",
+     "Ọtụtụ ndị Jentaịl na-aṅụrị ma nabata okwu ahụ",
+     "A chụpụrụ ha site na mmegide"
+    ]
+   },
+   "iconium": {
+    "name": "Aịkọniọm",
+    "book": "Ọrụ 14:1-7",
+    "today": "Konya, Tọki taa",
+    "note": "Ọtụtụ kwere ekwe, ma mkpagbu chụpụrụ ha n'ihu.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Ọrụ 14:8-20",
+    "today": "Tọki taa",
+    "note": "A na-akpọ ya chi, mgbe ahụ tụgburu ya nkume.",
+    "events": [
+     "Ọ na-agwọ nwoke ngwụrọ site n'ọmụmụ",
+     "Igwe mmadụ na-achọ ịchụrụ ha àjà dị ka chi",
+     "A tụgburu ya nkume hapụ ya ka ọ nwụọ, ma o biliri"
+    ]
+   },
+   "derbe": {
+    "name": "Debe",
+    "book": "Ọrụ 14:20-21",
+    "today": "Tọki taa",
+    "note": "A na-eme ọtụtụ ndị na-eso ụzọ; ha na-alaghachi ime ka nzukọ sie ike.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Ọrụ 16:8-10",
+    "today": "Tọki taa",
+    "note": "Ebe ntụgharị ebe oziọma na-ebu ụzọ chee ihu na Yurop.",
+    "events": [
+     "Ọhụụ nke otu nwoke Masedonia",
+     "“Bịa na Masedonia nyere anyị aka”",
+     "Ha gafere ozugbo banye na Yurop"
+    ]
+   },
+   "philippi": {
+    "name": "Filipaị",
+    "book": "Ọrụ 16 · Ndị Filipai",
+    "today": "ugwu Gris taa",
+    "note": "Nzukọ mbụ Yurop — oziọma na-emeri ọbụna n'ụlọ mkpọrọ.",
+    "events": [
+     "Lidia, onye na-ere akwa odo odo, kwere ekwe",
+     "A tọhapụrụ otu nwa agbọghọ ohu na-agba afa",
+     "Abụ etiti abalị, ala ọma jijiji, ezinụlọ onye nche mkpọrọ zọpụtara"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonaịka",
+    "book": "Ọrụ 17 · 1–2 Ndị Tesalonaịka",
+    "today": "Thessaloniki, Gris taa",
+    "note": "Okwu ahụ na-ama obodo jijiji ma mmegide na-agbawapụ.",
+    "events": [
+     "Ọ na-arụrịta ụka n'ụlọ nzukọ ụbọchị izu ike atọ",
+     "“Ndị a kpaliri ụwa niile”",
+     "Ha si n'abalị pụọ nwayọọ"
+    ]
+   },
+   "berea": {
+    "name": "Beria",
+    "book": "Ọrụ 17:10-15",
+    "today": "Veria, Gris taa",
+    "note": "Ndị ‘mara mma’ ndị nyochara okwu ahụ n'onwe ha.",
+    "events": [
+     "Ha ji obi ụtọ nabata okwu ahụ",
+     "Kwa ụbọchị ha na-enyocha Akwụkwọ Nsọ ịlele ya",
+     "Ọtụtụ na-abịa kwere ekwe"
+    ]
+   },
+   "athens": {
+    "name": "Atens",
+    "book": "Ọrụ 17:16-34",
+    "today": "Atens, Gris taa",
+    "note": "N'obodo ndị ọkà ihe ọmụma ọ na-ekwusa ‘chi a na-amaghị’.",
+    "events": [
+     "Obodo jupụtara n'arụsị kpasuru ya iwe",
+     "N'Areopagọs ọ na-ekwusa Onye Okike na mbilite n'ọnwụ",
+     "A na-akwa ya emo, ma ụfọdụ kwere ekwe"
+    ]
+   },
+   "corinth": {
+    "name": "Kọrint",
+    "book": "Ọrụ 18 · 1–2 Ndị Kọrint",
+    "today": "Gris taa",
+    "note": "Ọ nọrọ otu afọ na ọkara, na-akụ nzukọ n'obodo omume rụrụ arụ.",
+    "events": [
+     "Ya na Akwila na Prisila na-akpa ụlọ ikwuu",
+     "“Atụla egwu… n'ihi na mụ na gị nọ”",
+     "Ọtụtụ ndị Kọrint kwere ekwe ma e mee ha baptism"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesọs",
+    "book": "Ọrụ 19 · Ndị Efesọs",
+    "today": "Selçuk, Tọki taa",
+    "note": "Obi njem nke atọ — okwu ahụ na-agbasa n'Eshia niile.",
+    "events": [
+     "Nkuzi kwa ụbọchị afọ abụọ n'ụlọ ọgbakọ Tiranọs",
+     "A na-akpọ akwụkwọ anwansi ọkụ; ọrụ dị ike",
+     "Demetriọs onye ọkpụ ọlaọcha na-ebute ọgba aghara"
+    ]
+   },
+   "miletus": {
+    "name": "Miletọs",
+    "book": "Ọrụ 20:17-38",
+    "today": "Tọki taa",
+    "note": "Nkenda site n'anya mmiri nye ndị okenye Efesọs.",
+    "events": [
+     "“Lekọtanụ nzukọ ọ jiri ọbara nke aka ya zụta”",
+     "Ndị okenye na-ebe akwa, ebe ha maara na ha agaghị ahụ ya ọzọ"
+    ]
+   },
+   "caesarea": {
+    "name": "Sizaria",
+    "book": "Ọrụ 23–26",
+    "today": "ọnụ mmiri Izrel taa",
+    "note": "Afọ abụọ ọ na-agbachitere oziọma n'ihu ndị gọvanọ na otu eze.",
+    "events": [
+     "Ikpe n'ihu ndị gọvanọ Filiks na Festọs",
+     "Nkwuchitara ya n'ihu Eze Agripa",
+     "“Ana m arịọ Siza” — gawa Rom"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Ọrụ 21–23",
+    "today": "Jerusalem taa",
+    "note": "A jidere ya n'ụlọnsọ ukwu, ụzọ ya dị ka onye mkpọrọ na-amalite.",
+    "events": [
+     "Igwe mmadụ jidere ya n'ụlọnsọ ukwu",
+     "Ọ na-agbachitere onwe ya n'ihu kansụl ahụ",
+     "Dị ka nwa amaala Rom, e zigara ya n'okpuru nche na Sizaria"
+    ]
+   },
+   "myra": {
+    "name": "Maịra",
+    "book": "Ọrụ 27:5-6",
+    "today": "Demre, Tọki taa",
+    "note": "Ha banyere ụgbọ mmiri Aleksandria na-aga Rom.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Ọdụ Mara Mma (Krit)",
+    "book": "Ọrụ 27:8-12",
+    "today": "Krit taa",
+    "note": "A jụrụ ịdọ aka ná ntị Pọl ka a kwụsị ịgba ụgbọ mmiri.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krit",
+    "book": "Taịtọs",
+    "today": "Krit taa",
+    "note": "Mgbe a tọhapụrụ ya, agwaetiti ebe ọ hapụrụ Taịtọs idozi nzukọ.",
+    "events": [
+     "Ọ hapụrụ Taịtọs ka ọ họpụta ndị okenye n'obodo ọ bụla",
+     "Ọ na-akpọ maka ndị ndu na-enweghị ịta ụta, ndị kwesị ntụkwasị obi",
+     "Ọ na-ede akwụkwọ ozi nye Taịtọs"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Ọrụ 27–28",
+    "today": "Malta taa",
+    "note": "Site n'oké ifufe na ịla ụgbọ mmiri n'iyi, nkwa Chineke na-edigide.",
+    "events": [
+     "Ifufe ‘ugwu ọwụwa anyanwụ’ mebiri ụgbọ, ma mmadụ 276 niile lanarịrị",
+     "Agwọ tara ya, ma ọ dịghị emerụ ya ahụ",
+     "Ọ na-agwọ ndị ọrịa nke agwaetiti ahụ"
+    ]
+   },
+   "syracuse": {
+    "name": "Saịrakus",
+    "book": "Ọrụ 28:12",
+    "today": "Sicily, Itali taa",
+    "note": "Ha nọrọ ụbọchị atọ na Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Ọrụ 28:13-14",
+    "today": "Pozzuoli, Itali taa",
+    "note": "Ha rutere n'Itali ma ụmụnna kwere ekwe zutere ha.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rom",
+    "book": "Ọrụ 28 · Akwụkwọ Ozi Mkpọrọ · 2 Timoti",
+    "today": "Rom, Itali taa",
+    "note": "Oziọma rutere n'obi alaeze ukwu ahụ n'ikpeazụ — ọ bụghị njedebe kama ọ bụ mmalite.",
+    "events": [
+     "Afọ abụọ n'ụlọ mkpọrọ, na-ekwusa alaeze na-atụghị egwu",
+     "Site ebe a ọ na-ede Akwụkwọ Ozi Mkpọrọ (Efe·Fil·Kọl·Filemọn)",
+     "E mesịa tụọ ya mkpọrọ ọzọ, ọ na-ede 2 Timoti ma e gburu ya — “Alụwo m ezigbo agha, agbachaala m ọsọ ahụ”"
+    ]
+   }
+  },
+  "labels": [
+   "Oké Osimiri Mediterenian",
+   "Oké Osimiri Aegean",
+   "Eshia Nta",
+   "Masedonia",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Njem nke mbụ",
+   "j2": "Njem nke abụọ",
+   "j3": "Njem nke atọ",
+   "rome": "Njem nke anọ · gaa Rom",
+   "j5": "Njem nke ise · mgbe a tọhapụrụ ya"
+  }
+ }
+}

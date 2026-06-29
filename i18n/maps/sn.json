@@ -1,0 +1,636 @@
+{
+ "menuName": "chiShona",
+ "htmlLang": "sn",
+ "dir": "ltr",
+ "locale": "sn",
+ "brand": "Bhaibheri muKupeta Kumwe",
+ "docTitle": "Bhaibheri neMepu · Bhaibheri muKupeta Kumwe",
+ "metaDesc": "Tevedzera nguva yeTestamende Yekare, upenyu hwaJesu, uye nzendo dzaPauro pamepu chaiyo — Bhaibheri rakaitika munzvimbo chaidzo.",
+ "s": {
+  "kicker": "Bhaibheri muKupeta Kumwe · Mepu",
+  "title": "Bhaibheri neMepu",
+  "verse": "“Nokuti hatina kutevera ngano dzokufungwa nenjere, nguva yatakakuzivisai simba nokuuya kwaIshe wedu Jesu Kristu, asi takanga tiri vanhu vakaona humambo hwake.” (2 Petro 1:16)",
+  "purpose": "Bhaibheri harisi ngano. Chinyorwa chevanhu vakafamba munzvimbo chaidzo, pamazuva chaiwo, uye pamazita chaiwo. Tevedzera nzira idzodzo pamepu, nokulandanana kwenguva — tinya nzvimbo, kana udzvanye ▶ kuti ufambe nayo danho nedanho.",
+  "ot_kick": "① Testamende Yekare — pakati penguva",
+  "ot_h": "Kubva pakusika kusvika pakudzokera kuJerusarema",
+  "ot_lead": "Kwete rwendo rumwe asi kuyerera kwenhoroondo yoruponeso kubva pakusika zvichienda mberi: kusika nokuwa → mafashamo neBhabheri → kudanwa (Abhurahamu) → nyika yakavimbiswa → Kubuda kweIjipiti → renje → kukunda → ushe → kupatsanurwa → utapwa → kudzoka.",
+  "je_kick": "② Testamende Itsva — upenyu hwaJesu",
+  "je_h": "Kubva kuBhetirehema kusvika kuJerusarema",
+  "je_lead": "Tevera upenyu hwaJesu sokunyorwa kwahunoitwa neMavhangeri, nokulandanana — kubva pakuzvarwa kwake muBhetirehema, kubudikidza norubhabhatidzo rwake noushumiri hwake muGarirea, kupfuura Samaria, kusvika pamuchinjikwa, kumuka, nokukwira kudenga muJerusarema.",
+  "pa_kick": "③ Testamende Itsva — nzendo dzaPauro",
+  "pa_h": "Kubva kuAndiyokiya kusvika kumigumo yenyika — Roma",
+  "pa_lead": "Kubva paPendekosti muJerusarema, vhangeri rakapararira sei kupfuura Judhea — kubudikidza neAsia Diki neYuropu kusvika pamwoyo woumambo. Sarudza rumwe rwenzendo shanu (1·2·3 + rwendo rwokuenda kuRoma + mushure mokusunungurwa) uye utevedzere zviitiko zveMabasa netsamba dzakanyorwa munzira.",
+  "foot": "Mavambo · Nzvimbo dzinotevedzera chinyorwa cheBhaibheri nejogirafi yeBhaibheri yakajairwa (nemazita amazuva ano panobatsira). Mahombekombe, nzizi, namadziva zvakaveziswa kubva padata rejogirafi yakavhurika (Natural Earth), zvakareruswa.",
+  "contact": "Mibvunzo · mhinduro — <a id=\"contact\" class=\"mail\">Tinyorere tsamba</a>",
+  "play": "Tamba",
+  "pause": "Mira",
+  "today": "Nhasi:",
+  "verseCite": "2 Petro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edheni (Kusika · Kuwa)",
+    "book": "Genesi 1–3",
+    "today": "dunhu reTigirisi–Yufuratesi nhasi",
+    "note": "Munyika yakaitwa “yakanaka kwazvo,” chivi chinopinda chichityora ukama pakati paMwari navanhu.",
+    "events": [
+     "Kusika mumazuva matanhatu — “zvakanga zvakanaka kwazvo”",
+     "Vanhu vakaitwa nomufananidzo waMwari",
+     "Kuwa, nokudzingwa muEdheni",
+     "Chivimbiso chokutanga chevhangeri — “rudzi rwomukadzi ruchapwanya musoro wenyoka”"
+    ]
+   },
+   "noah": {
+    "name": "Ararati (Mafashamo)",
+    "book": "Genesi 6–9",
+    "today": "Gomo reArarati, kumabvazuva kweTurkey nhasi",
+    "note": "Mwari anotonga nyika yakazara nechivi, asi anochengetedza upenyu kubudikidza nemhuri imwe chete.",
+    "events": [
+     "Nyika yakazara nokuora",
+     "Mafashamo, neareka yaNoa",
+     "Sungano yomuraravungu — “handichazoparadzizve nyika nemafashamo”"
+    ]
+   },
+   "babel": {
+    "name": "Shongwe yeBhabheri",
+    "book": "Genesi 11",
+    "today": "Iraq nhasi (bani reShinari)",
+    "note": "Pakuzvikudza kunosvika kudenga, Mwari anovhiringidza mutauro wavo nokuparadzira vanhu pasi rose.",
+    "events": [
+     "“Ngativakei guta neshongwe… tizviitire mukurumbira”",
+     "Mwari anovhiringidza mutauro wavo",
+     "Vanhu vanopararira pasi rose (Shinari — gare gare Bhabhironi)"
+    ]
+   },
+   "ur": {
+    "name": "Uri",
+    "book": "Genesi 12",
+    "today": "kuchamhembe kweIraq nhasi",
+    "note": "Nyaya yeBhaibheri yoruponeso inotanga nokudanwa kwomurume mumwe.",
+    "events": [
+     "Mwari anodana Abhuramu kuti abve muUri yavaKaradhia",
+     "“Ndichakuita rudzi rukuru… marudzi ose acharopafadzwa mauri”",
+     "Nokutenda anosiya nyika yake yokuberekerwa"
+    ]
+   },
+   "haran": {
+    "name": "Harani",
+    "book": "Genesi 12",
+    "today": "kuchamhembe kweTurkey nhasi",
+    "note": "Munzira, achipindura kudanwa achienda kunyika yakavimbiswa.",
+    "events": [
+     "Mhuri yaTera inogara muHarani",
+     "Tera anofa",
+     "Abhuramu anosimuka achienda kuKenani ava namakore makumi manomwe namashanu"
+    ]
+   },
+   "shechem": {
+    "name": "Shekemu · Kenani",
+    "book": "Genesi 12–50",
+    "today": "Nablus nhasi",
+    "note": "Munyika yakavimbiswa mhuri inotangwa uye sungano inopfuurira kuzvizvarwa.",
+    "events": [
+     "Kupinda muKenani, atari yokutanga — “ndichapa nyika iyi rudzi rwako”",
+     "Sungano (Gen 15) · Isaka · Jakobho",
+     "Vanakomana gumi navaviri vaJakobho — mudzi wamarudzi gumi namaviri"
+    ]
+   },
+   "egypt": {
+    "name": "Ijipiti (Gosheni)",
+    "book": "Genesi 37–50 · Eksodho 1",
+    "today": "Deruka reNairi, Egypt nhasi",
+    "note": "Mhuri inova rudzi rukuru — ipapo inova rudzi rwavaranda.",
+    "events": [
+     "Josefa, akatengeswa, anokwirira kuva mubati muIjipiti",
+     "Mhuri yose yaJakobho inoburuka kuzotiza nzara",
+     "Rudzi rweIsiraeri rinokura rinoitwa varanda"
+    ]
+   },
+   "sinai": {
+    "name": "Gomo reSinai",
+    "book": "Eksodho · Revhitiko",
+    "today": "Chigotsi cheSinai nhasi",
+    "note": "Ruponeso rukuru rweTestamende Yekare — varanda vanova vanhu vaMwari pachavo.",
+    "events": [
+     "Matambudziko gumi negwayana rePasika",
+     "Gungwa Dzvuku rinopatsanuka uye vanoyambuka",
+     "Mirairo Gumi, murayiro, tabhenakeri, nezvibayiro"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadheshi (renje)",
+    "book": "Numeri · Dheuteronomio",
+    "today": "renje reSinai–Negebhi nhasi",
+    "note": "Kusatenda kunotorera chizvarwa nyika — asi Mwari anogara navo.",
+    "events": [
+     "Vasori gumi navaviri — asi vanhu vanoramba kutenda",
+     "Makore makumi matatu namasere murenje — mana, gore, nomoto",
+     "Pamapani eMoabhi, mharidzo yokupedzisira yaMosesi (Dheuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Joshua",
+    "today": "Jeriko nhasi",
+    "note": "Pakupedzisira vanopinda vachitora nyika yakavimbiswa.",
+    "events": [
+     "Jorodhani inopatsanuka uye vanhu vanoyambuka",
+     "Masvingo eJeriko anowa",
+     "Kukunda Kenani nokugovaniswa kwenyika"
+    ]
+   },
+   "shiloh": {
+    "name": "Shiro (Vatongi)",
+    "book": "Vatongi · Rute",
+    "today": "Khirbet Seilun nhasi",
+    "note": "Pasina mambo, munhu wose anoita zvaanoda — mambo wechokwadi anodikanwa.",
+    "events": [
+     "Tabhenakeri inomiswa paShiro",
+     "Denderedzwa rechivi–kudzvinyirirwa–kununurwa (Dhebhora, Gidhiyoni, Samusoni)",
+     "Rute — kutendeka mumazuva erima, mumutsara waDhavhidhi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusarema · Ushe Hwakabatana",
+    "book": "1–2 Samueri · 1 Madzimambo",
+    "today": "Jerusarema nhasi",
+    "note": "Nguva yepamusoro yeIsiraeri — nechivimbiso chamambo asingaperi.",
+    "events": [
+     "Sauro mambo wokutanga, ipapo Dhavhidhi naGoriati",
+     "Sungano yaDhavhidhi — “chigaro chako choushe nokusingaperi” (2 Sam 7)",
+     "Soromoni anovaka temberi muJerusarema"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Ushe Hwakapatsanurwa",
+    "book": "Madzimambo · Vaporofita",
+    "today": "Sebastia nhasi",
+    "note": "Ushe hunopatsanuka uye hunoderera vaporofita vachichema.",
+    "events": [
+     "Mushure maSoromoni, kupatsanurwa kuva Judha neIsiraeri",
+     "Kunamata zvifananidzo kunodzokororwa",
+     "Eria, Isaya, Jeremia vanochema ‘dzokai’ — uye vanoprofita Mesiya"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninevhe (Asiria)",
+    "book": "2 Madzimambo 17 · Jona",
+    "today": "Mosul, Iraq nhasi",
+    "note": "Vachifuratira yambiro yose, ushe hwokumusoro hunowira hwokutanga.",
+    "events": [
+     "Ninevhe, guta guru reAsiria",
+     "Ushe hwokumusoro hunowira kuAsiria (722 BC)",
+     "Jona anotumwa kuNinevhe"
+    ]
+   },
+   "babylon": {
+    "name": "Bhabhironi",
+    "book": "2 Madzimambo 25 · Dhanyeri · Ezekieri",
+    "today": "Hillah, Iraq nhasi",
+    "note": "Usiku hwakasviba pane hwose — asi chivimbiso chokudzoreredzwa chinosara.",
+    "events": [
+     "Jerusarema rinowa, temberi inopiswa (586 BC)",
+     "Judha inotapwa ichiendeswa kuBhabhironi",
+     "Dhanyeri naEzekieri — kutenda nezviratidzo muutapwa"
+    ]
+   },
+   "susa": {
+    "name": "Shushani (Persia)",
+    "book": "Esteri · Nehemia",
+    "today": "Shush, Iran nhasi",
+    "note": "Kunyange pamwoyo woumambo hwavahedheni, Mwari anochengeta vanhu vake.",
+    "events": [
+     "Persia inokunda Bhabhironi",
+     "Esteri anoponesa vaJudha pakuparadzwa",
+     "Nehemia anonyengetera pamberi pamambo uye anotumwa"
+    ]
+   },
+   "return": {
+    "name": "Kudzoka kuJerusarema",
+    "book": "Ezira · Nehemia · Maraki",
+    "today": "Jerusarema nhasi",
+    "note": "Vanodzoka vovakazve — asi hapana mambo akauya. Vanomirira Mesiya.",
+    "events": [
+     "Mapoka matatu okudzoka nechirevo chaKoreshi (Zerubhabheri 538 · Ezira 458 · Nehemia 444)",
+     "Temberi inovakwazve namasvingo eJerusarema anodzoreredzwa",
+     "Maraki — Testamende Yekare inopera: “Ndinotuma nhume yangu”"
+    ]
+   }
+  },
+  "labels": [
+   "Gungwa reMediterenian",
+   "Mesopotamia",
+   "Renje reArabia",
+   "Ijipiti"
+  ],
+  "journeys": {
+   "flow": "Nyaya yoruponeso"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bhetirehema",
+    "book": "Mateo 1–2 · Ruka 2",
+    "today": "Bhetirehema nhasi",
+    "note": "Mesiya akavimbiswa anouya kuguta raDhavhidhi — Izwi rakazova nyama.",
+    "events": [
+     "Akazvarwa muBhetirehema, guta raDhavhidhi",
+     "Vatumwa vanozivisa nhau kuvafudzi",
+     "Vachenjeri vanouya kuzonamata"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareta",
+    "book": "Ruka 2 · 4",
+    "today": "Nazareta nhasi",
+    "note": "Mwari anokurira somunhu muguta rinongovapo.",
+    "events": [
+     "Akarerwa mumba momuvezi",
+     "Ava namakore gumi namaviri, achibvunza nokupindura mutemberi",
+     "Gare gare anorambwa musinagoge reguta rake"
+    ]
+   },
+   "jordan": {
+    "name": "Rwizi rweJorodhani",
+    "book": "Mateo 3–4",
+    "today": "Jorodhani yepasi nhasi",
+    "note": "Ushumiri hwake hwapachena hunotanga — denga rinomusimbisa soMwanakomana.",
+    "events": [
+     "Akabhabhatidzwa naJohani",
+     "Mweya unoburuka senjiva — “Uyu ndiye Mwanakomana wangu anodikanwa”",
+     "Anokunda miedzo mitatu yaSatani murenje"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Johani 2",
+    "today": "Kafr Kanna nhasi",
+    "note": "Pachiratidzo chake chokutanga anoratidza kubwinya kwake.",
+    "events": [
+     "Mueni pamuchato",
+     "Mvura inoshandurwa kuva waini — chiratidzo chake chokutanga",
+     "Vadzidzi vake vanotenda kwaari"
+    ]
+   },
+   "sychar": {
+    "name": "Sikari (Samaria)",
+    "book": "Johani 2–4",
+    "today": "pedyo neNablus nhasi",
+    "note": "Nzira youshumiri hwokutanga — kubudikidza neJerusarema kusvika kuSamaria yaizvidzwa.",
+    "events": [
+     "Anochenesa temberi muJerusarema",
+     "Usiku, Nikodhimo — “Unofanira kuberekwa patsva”",
+     "Mvura mhenyu kumukadzi muSamaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapenaume",
+    "book": "Mateo 4–13 · Mako 1–4",
+    "today": "mhenderekedzo yegungwa reGarirea nhasi",
+    "note": "Nzvimbo huru youshumiri hweGarirea — kudana, kudzidzisa, nokupikiswa zvinosangana pano.",
+    "events": [
+     "Anodana varedzi vehove uye anozvigarisa pano",
+     "Mharidzo yepaGomo — “Vakaropafadzwa varombo pamweya”",
+     "Mifananidzo youshe — uye kupikiswa kunokwira"
+    ]
+   },
+   "galilee": {
+    "name": "Gungwa reGarirea",
+    "book": "Mako 4 · 6 · Johani 6",
+    "today": "Dziva reKinneret nhasi",
+    "note": "Nesimba pamusoro pezvakasikwa anoratidza kuti ndiani.",
+    "events": [
+     "“Nyarara, gadzikana” — anonyaradza dutu",
+     "Anodyisa zviuru zvishanu nezvingwa zvishanu nehove mbiri",
+     "Anofamba pamusoro pemvura"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kesaria Firipi",
+    "book": "Mateo 16–17",
+    "today": "Banias nhasi",
+    "note": "Vadzidzi vanonzwisisa kuti ndiye Kristu, uye nzira yomuchinjikwa inovhurika.",
+    "events": [
+     "Kupupura kwaPetro — “Ndimi Kristu, Mwanakomana waMwari mupenyu”",
+     "Anotanga kuprofita rufu rwake nokumuka kwake",
+     "Anoshandurwa muchimiro mukubwinya pagomo"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Ruka 18–19",
+    "today": "Jeriko nhasi",
+    "note": "Munzira inokwira kuJerusarema, anotsvaka vakarasika.",
+    "events": [
+     "Anopa kuona kuna Bhatimeo bofu",
+     "Anodana Zakeo muteresi",
+     "“Mwanakomana womunhu akauya kuzotsvaka nokuponesa vakarasika”"
+    ]
+   },
+   "bethany": {
+    "name": "Bhetani",
+    "book": "Johani 11–12",
+    "today": "al-Eizariya nhasi",
+    "note": "Anoratidza simba pamusoro porufu pava pedyo nevhiki yake yokupedzisira.",
+    "events": [
+     "Anomutsa Razaro kubva muguva — “Ndini kumuka noupenyu”",
+     "Maria anomuzodza kuti agadzirirwe kuvigwa",
+     "Chiratidzo ichi chinosimbisa rangano rokumuuraya"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusarema",
+    "book": "Mateo 21–28 · Ruka 24 · Mabasa 1",
+    "today": "Jerusarema nhasi",
+    "note": "Pamusoro penyaya pose iyo Bhaibheri rinonongedzera — muchinjikwa, kumuka, kukwira kudenga.",
+    "events": [
+     "Kupinda nokukunda; anopidigura matafura etemberi zvakare",
+     "PaChirairo Chokupedzisira anoshambidza tsoka dzavadzidzi",
+     "Anofa pamuchinjikwa",
+     "Akamuka nezuva retatu, ipapo akakwira kudenga"
+    ]
+   }
+  },
+  "labels": [
+   "Gungwa reMediterenian",
+   "Garirea",
+   "Samaria",
+   "Judhea",
+   "Dhekapori",
+   "Perea",
+   "Gungwa Rakafa"
+  ],
+  "journeys": {
+   "life": "Nzira yaJesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Andiyokiya",
+    "book": "Mabasa 13 · 15",
+    "today": "Antakya, Turkey nhasi",
+    "note": "Kereke inotuma uko ushumiri kuvahedheni hunotanga uye hunodzokera.",
+    "events": [
+     "Mukunyengetera Mweya anotsaura Bhanabhasi naSauro",
+     "Kereke uko vatendi vakatanga kunzi ‘vaKristu’",
+     "Nzvimbo yokutangira rwendo rwokutanga, rwechipiri, norwechitatu"
+    ]
+   },
+   "seleucia": {
+    "name": "Sereukia",
+    "book": "Mabasa 13:4",
+    "today": "Turkey nhasi",
+    "note": "Chiteshi cheAndiyokiya — vanokwira chikepe kuenda kuSaipirosi.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Sarami (Saipirosi)",
+    "book": "Mabasa 13:5",
+    "today": "Cyprus nhasi",
+    "note": "Chimiro chokutanga muSaipirosi — vachiparidza mumasinagoge.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafosi",
+    "book": "Mabasa 13:6-12",
+    "today": "Cyprus nhasi",
+    "note": "Simba rinoratidzwa kune avo vanopikisa vhangeri.",
+    "events": [
+     "Erimasi muroyi anorohwa noupofu",
+     "Sejio Pauro mubati anotenda",
+     "Kubva pano ‘Pauro’ anotungamira"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Mabasa 13:13",
+    "today": "Antalya, Turkey nhasi",
+    "note": "Chiteshi muPamufiria — pano Johani Mako anodzokera.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Andiyokiya yePisidhia",
+    "book": "Mabasa 13:14-50",
+    "today": "Yalvaç, Turkey nhasi",
+    "note": "Vhangeri rinozaruka kuenda kuvahedheni.",
+    "events": [
+     "Mharidzo refu yenhoroondo yoruponeso musinagoge",
+     "Vahedheni vazhinji vanofara vachigamuchira shoko",
+     "Vanodzingwa nokupikiswa"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniamu",
+    "book": "Mabasa 14:1-7",
+    "today": "Konya, Turkey nhasi",
+    "note": "Vazhinji vanotenda, asi kutambudzwa kunovaita kuti vaenderere.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Ristra",
+    "book": "Mabasa 14:8-20",
+    "today": "Turkey nhasi",
+    "note": "Anorumbidzwa samwari, ipapo anotakwa namabwe.",
+    "events": [
+     "Anoporesa murume akaremara kubva pakuberekwa",
+     "Vanhu vanoda kuvabayira savamwari",
+     "Akatakwa namabwe akasiyiwa sowafa, anosimuka"
+    ]
+   },
+   "derbe": {
+    "name": "Dhebhe",
+    "book": "Mabasa 14:20-21",
+    "today": "Turkey nhasi",
+    "note": "Vadzidzi vazhinji vanoitwa; vanodzokera nenzira yavo kuzosimbisa makereke.",
+    "events": []
+   },
+   "troas": {
+    "name": "Tro'asi",
+    "book": "Mabasa 16:8-10",
+    "today": "Turkey nhasi",
+    "note": "Nzvimbo yokushanduka uko vhangeri rinotanga kunanga kuYuropu.",
+    "events": [
+     "Chiratidzo chomurume weMakedhonia",
+     "“Yambukirai kuno mutibatsire”",
+     "Vanoyambukira pakarepo kuYuropu"
+    ]
+   },
+   "philippi": {
+    "name": "Firipi",
+    "book": "Mabasa 16 · VaFiripi",
+    "today": "kuchamhembe kweGreece nhasi",
+    "note": "Kereke yokutanga muYuropu — vhangeri rinokunda kunyange mutorongo.",
+    "events": [
+     "Ridhia, mutengesi wemicheka mishava, anotenda",
+     "Musikana muranda aiuka anosunungurwa",
+     "Nziyo dzapakati pousiku, kudengenyeka kwenyika, mhuri yomuchengeti wetorongo inoponeswa"
+    ]
+   },
+   "thess": {
+    "name": "Tesaronika",
+    "book": "Mabasa 17 · 1–2 VaTesaronika",
+    "today": "Thessaloniki, Greece nhasi",
+    "note": "Shoko rinozunungutsa guta uye kupikiswa kunopfachuka.",
+    "events": [
+     "Anotaurirana musinagoge maSabata matatu",
+     "“Ava vakapidigura nyika”",
+     "Vanonyahwaira vachienda usiku"
+    ]
+   },
+   "berea": {
+    "name": "Bheriya",
+    "book": "Mabasa 17:10-15",
+    "today": "Veria, Greece nhasi",
+    "note": "‘Vakakudzwa’ avo vakanzvera shoko ivo pachavo.",
+    "events": [
+     "Vanogamuchira shoko nomwoyo wose",
+     "Mazuva ose vanonzvera Magwaro kuti vatarise",
+     "Vazhinji vanotenda"
+    ]
+   },
+   "athens": {
+    "name": "Atene",
+    "book": "Mabasa 17:16-34",
+    "today": "Athens, Greece nhasi",
+    "note": "Muguta ravazivi anoparidza ‘mwari asingazivikanwi’.",
+    "events": [
+     "Anotsamwiswa neguta rakazara nezvifananidzo",
+     "PaAreopago anoparidza Musiki nokumuka",
+     "Anosekwa, asi vashoma vanotenda"
+    ]
+   },
+   "corinth": {
+    "name": "Korinde",
+    "book": "Mabasa 18 · 1–2 VaKorinte",
+    "today": "Greece nhasi",
+    "note": "Anogara gore nehafu, achisima kereke muguta rezvakaipa.",
+    "events": [
+     "Anoita matende naAkwira naPirisira",
+     "“Usatya… nokuti ndinewe”",
+     "VaKorinde vazhinji vanotenda vobhabhatidzwa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Mabasa 19 · VaEfeso",
+    "today": "Selçuk, Turkey nhasi",
+    "note": "Mwoyo worwendo rwechitatu — shoko rinopararira muAsia.",
+    "events": [
+     "Kudzidzisa mazuva ose kwemakore maviri muimba yaTiranosi",
+     "Mabhuku oun'anga anopiswa; mabasa esimba",
+     "Dhemetrio mupfuri wesirivha anomutsa bope"
+    ]
+   },
+   "miletus": {
+    "name": "Mireto",
+    "book": "Mabasa 20:17-38",
+    "today": "Turkey nhasi",
+    "note": "Kuonekana kunorwadza navakuru veEfeso.",
+    "events": [
+     "“Chengetai kereke yaakatenga neropa rake”",
+     "Vakuru vanochema, vachiziva kuti havachazomuonizve"
+    ]
+   },
+   "caesarea": {
+    "name": "Kesaria",
+    "book": "Mabasa 23–26",
+    "today": "mhenderekedzo yeIsraeri nhasi",
+    "note": "Kwamakore maviri anodzivirira vhangeri pamberi pavabati namambo.",
+    "events": [
+     "Kutongwa pamberi pavabati Ferikisi naFesto",
+     "Kuzvidzivirira kwake pamberi paMambo Agiripa",
+     "“Ndinokwidza nyaya kuna Kesari” — kuenda kuRoma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusarema",
+    "book": "Mabasa 21–23",
+    "today": "Jerusarema nhasi",
+    "note": "Akabatwa mutemberi, nzira yake somusungwa inotanga.",
+    "events": [
+     "Akabatwa nevanhu vazhinji mutemberi",
+     "Anozvidzivirira pamberi pedare",
+     "Sezvo ari muvati weRoma, anotumirwa pasi pavarindi kuKesaria"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Mabasa 27:5-6",
+    "today": "Demre, Turkey nhasi",
+    "note": "Vanotamira muchikepe cheArekizandiriya chakananga kuRoma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Mateteo Akanaka (Krete)",
+    "book": "Mabasa 27:8-12",
+    "today": "Crete nhasi",
+    "note": "Yambiro yaPauro yokumira kufamba haiteererwi.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krete",
+    "book": "Tito",
+    "today": "Crete nhasi",
+    "note": "Mushure mokusunungurwa kwake, chitsuwa kwaanosiya Tito kuti agadzirise makereke.",
+    "events": [
+     "Anosiya Tito kuti agadze vakuru muguta rimwe nerimwe",
+     "Anodaidzira vatungamiri vasina chavanopomerwa, vakatendeka",
+     "Anonyora tsamba kuna Tito"
+    ]
+   },
+   "malta": {
+    "name": "Marita",
+    "book": "Mabasa 27–28",
+    "today": "Malta nhasi",
+    "note": "Kuburikidza nedutu nokuparara kwechikepe, chivimbiso chaMwari chinomira.",
+    "events": [
+     "‘Mhepo yokuchamhembe-mabvazuva’ inoparadza chikepe, asi vose mazana maviri namakumi manomwe nevatanhatu vanopona",
+     "Akarumwa nenyoka, haana kukuvadzwa",
+     "Anoporesa varwere vechitsuwa"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuse",
+    "book": "Mabasa 28:12",
+    "today": "Sicily, Italy nhasi",
+    "note": "Vanogara mazuva matatu muSicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteori",
+    "book": "Mabasa 28:13-14",
+    "today": "Pozzuoli, Italy nhasi",
+    "note": "Vanosvika muItaly uye vanochingamidzwa nehama dzavanotenda.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Mabasa 28 · Tsamba dzeMutorongo · 2 Timoti",
+    "today": "Rome, Italy nhasi",
+    "note": "Vhangeri rinosvika pamwoyo woumambo pakupedzisira — kwete magumo asi mavambo.",
+    "events": [
+     "Makore maviri ari pasi pomurindo mumba, achiparidza ushe akashinga",
+     "Kubva pano anonyora Tsamba dzeMutorongo (VaEf·VaFiri·VaKor·Firi)",
+     "Gare gare akasungwa zvakare, anonyora 2 Timoti uye anourayiwa — “Ndarwa kurwa kwakanaka, ndapedza nhangemutange”"
+    ]
+   }
+  },
+  "labels": [
+   "Gungwa reMediterenian",
+   "Gungwa reAegean",
+   "Asia Diki",
+   "Makedhonia",
+   "Italy"
+  ],
+  "journeys": {
+   "j1": "Rwendo rwokutanga",
+   "j2": "Rwendo rwechipiri",
+   "j3": "Rwendo rwechitatu",
+   "rome": "Rwendo rwechina · kuenda kuRoma",
+   "j5": "Rwendo rwechishanu · mushure mokusunungurwa"
+  }
+ }
+}

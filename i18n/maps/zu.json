@@ -1,0 +1,636 @@
+{
+ "menuName": "isiZulu",
+ "htmlLang": "zu",
+ "dir": "ltr",
+ "locale": "zu",
+ "brand": "IBhayibheli Ngokubuka Okukodwa",
+ "docTitle": "IBhayibheli Ngebalazwe · IBhayibheli Ngokubuka Okukodwa",
+ "metaDesc": "Landela uhlelo lweThestamente Elidala, ukuphila kukaJesu, nezohambo zikaPawulu ebalazweni langempela — iBhayibheli lenzeka ezindaweni zangempela.",
+ "s": {
+  "kicker": "IBhayibheli Ngokubuka Okukodwa · Amabalazwe",
+  "title": "IBhayibheli Ngebalazwe",
+  "verse": "“Ngokuba sasingalandeli izinganekwane zobuqili, lapho sanazisa amandla nokufika kweNkosi yethu uJesu Kristu, kodwa sasingababonayo amandla obukhosi bakhe.” (2 Petru 1:16)",
+  "purpose": "IBhayibheli akusiyo inganekwane. Liwumlando wabantu abahamba ezindaweni, ezinsukwini, nasemagameni angempela. Landela leyo migwaqo ebalazweni, ngokulandelana kwesikhathi — cindezela iphuzu, noma ucindezele ▶ ukuze uhambe kulo kancane kancane.",
+  "ot_kick": "① IThestamente Elidala — kudlula isikhathi",
+  "ot_h": "Kusukela ekudalweni kuya ekubuyeleni eJerusalema",
+  "ot_lead": "Akusilo uhambo olulodwa kodwa ukugeleza komlando wensindiso kusukela ekudalweni: ukudala nokuwa → uzamcolo neBabele → ukubizwa (u-Abrahama) → izwe lesithembiso → ukuPhuma → ehlane → ukunqoba → umbuso → ukuhlukana → ukuthunjwa → ukubuya.",
+  "je_kick": "② IThestamente Elisha — ukuphila kukaJesu",
+  "je_h": "Kusukela eBhetlehema kuya eJerusalema",
+  "je_lead": "Landela ukuphila kukaJesu njengoba amaVangeli ekulandisa, ngokulandelana — kusukela ekuzalweni kwakhe eBhetlehema kudlula ukubhapathizwa kwakhe nenkonzo yaseGalile, kuwele iSamariya, kuye esiphambanweni, ukuvuka nokwenyukela eJerusalema.",
+  "pa_kick": "③ IThestamente Elisha — izohambo zikaPawulu",
+  "pa_h": "Kusukela e-Antiyokiya kuya emikhawulweni yomhlaba — iRoma",
+  "pa_lead": "Kusukela ePhentekoste eJerusalema, indlela ivangeli elasabalala ngayo ngaphandle kweJudiya — kudlula i-Asia Encane neYurophu kuya enhliziyweni yombuso. Khetha olunye lwezohambo ezinhlanu (olwoku-1·olwesi-2·olwesi-3 + uhambo oluya eRoma + ngemva kokukhululwa) ulandele izehlakalo zezEnzo nezincwadi ezabhalwa endleleni.",
+  "foot": "Imithombo · Izindawo zilandela umbhalo weBhayibheli nejografi evamile yeBhayibheli (namagama anamuhla lapho esiza). Imincele yolwandle, imifula namachibi kudwetshwa ngedatha yejografi evulekile (Natural Earth), yenziwa lula.",
+  "contact": "Imibuzo · ukuphawula — <a id=\"contact\" class=\"mail\">Sithumelele i-imeyili</a>",
+  "play": "Dlala",
+  "pause": "Misa",
+  "today": "Namuhla:",
+  "verseCite": "2 Petru 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "I-Edene (Ukudala · Ukuwa)",
+    "book": "Genesise 1–3",
+    "today": "indawo yaseTigris–Yufrathe namuhla",
+    "note": "Ezweni elalenziwe “lihle kakhulu,” isono siyangena siphule isibopho phakathi kukaNkulunkulu nabantu.",
+    "events": [
+     "Ukudala ezinsukwini eziyisithupha — “kwakukuhle”",
+     "Umuntu owenziwe ngomfanekiso kaNkulunkulu",
+     "Ukuwa, nokuxoshwa e-Edene",
+     "Isithembiso sokuqala sevangeli — “inzalo yowesifazane iyochoboza ikhanda lenyoka”"
+    ]
+   },
+   "noah": {
+    "name": "I-Ararati (uZamcolo)",
+    "book": "Genesise 6–9",
+    "today": "iNtaba i-Ararati, empumalanga yeTurkey namuhla",
+    "note": "UNkulunkulu wahlulela izwe eligcwele isono, kodwa wagcina ukuphila ngomndeni owodwa.",
+    "events": [
+     "Izwe eligcwele ukonakala",
+     "Uzamcolo, nomkhumbi kaNowa",
+     "Isivumelwano sothingo — “ngeke kuphinde kube nozamcolo wokuchitha”"
+    ]
+   },
+   "babel": {
+    "name": "Umbhoshongo waseBabele",
+    "book": "Genesise 11",
+    "today": "i-Iraq namuhla (ithafa laseShineyari)",
+    "note": "Maqondana nokuziphakamisa okufinyelela ezulwini, uNkulunkulu uxuba ulimi lwabo abahlakaze abantu emhlabeni.",
+    "events": [
+     "“Asakheni umuzi nombhoshongo… sizenzele igama”",
+     "UNkulunkulu uxuba ulimi lwabo",
+     "Abantu bayahlakazeka emhlabeni (iShineyari — kamuva iBabele)"
+    ]
+   },
+   "ur": {
+    "name": "I-Uri",
+    "book": "Genesise 12",
+    "today": "eningizimu ye-Iraq namuhla",
+    "note": "Indaba yeBhayibheli yensindiso iqala ngokubizwa komuntu oyedwa.",
+    "events": [
+     "UNkulunkulu ubiza u-Abrama aphume e-Uri lamaKhaledi",
+     "“Ngiyakukwenza isizwe esikhulu… imindeni yonke ibusiswe ngawe”",
+     "Ngokukholwa ushiya izwe lakubo"
+    ]
+   },
+   "haran": {
+    "name": "IHarana",
+    "book": "Genesise 12",
+    "today": "eningizimu yeTurkey namuhla",
+    "note": "Endleleni, ephendula ukubizwa ngakwizwe lesithembiso.",
+    "events": [
+     "Umndeni kaThera uhlala eHarana",
+     "UThera uyafa",
+     "U-Abrama usuka eya eKhanani eneminyaka engama-75"
+    ]
+   },
+   "shechem": {
+    "name": "IShekemu · iKhanani",
+    "book": "Genesise 12–50",
+    "today": "iNablus namuhla",
+    "note": "Ezweni lesithembiso kusungulwa umndeni, isivumelwano sidlulele ezizukulwaneni.",
+    "events": [
+     "Ukungena eKhanani, i-altare lokuqala — “lo mhlaba ngiyawunika inzalo yakho”",
+     "Isivumelwano (Genesise 15) · u-Isaka · uJakobe",
+     "Amadodana ayishumi nambili kaJakobe — impande yezizwe eziyishumi nambili"
+    ]
+   },
+   "egypt": {
+    "name": "IGibithe (iGosheni)",
+    "book": "Genesise 37–50 · Eksodusi 1",
+    "today": "i-Nile Delta, eGibithe namuhla",
+    "note": "Umndeni uba yisizwe esikhulu — bese uba yisizwe sezigqila.",
+    "events": [
+     "UJosefa, owathengiswa, uphakanyiselwa ekubuseni eGibithe",
+     "Umndeni wonke kaJakobe wehlela phansi ukubalekela indlala",
+     "Isizwe sika-Israyeli esikhulayo senziwa izigqila"
+    ]
+   },
+   "sinai": {
+    "name": "INtaba iSinayi",
+    "book": "Eksodusi · Levitikusi",
+    "today": "iNhlonhlo iSinayi namuhla",
+    "note": "Insindiso enkulu kakhulu yeThestamente Elidala — izigqila ziba ngabantu bakaNkulunkulu uqobo.",
+    "events": [
+     "Izinhlupho eziyishumi newundlu lePhasika",
+     "ULwandle Olubomvu luyahlukana baluwele",
+     "IMiyalo Eyishumi, uMthetho, itabernakele neminikelo"
+    ]
+   },
+   "kadesh": {
+    "name": "IKadeshi (ihlane)",
+    "book": "AmaNani · Duteronomi",
+    "today": "ihlane laseSinayi–Negevi namuhla",
+    "note": "Ukungakholwa kubiza isizukulwane izwe — kepha uNkulunkulu uhlala nabo.",
+    "events": [
+     "Izinhloli eziyishumi nambili — kepha abantu benqaba ukwethemba",
+     "Iminyaka engu-38 ehlane — imana, ifu nomlilo",
+     "Emathafeni akwaMowabi, intshumayelo yokugcina kaMose (Duteronomi)"
+    ]
+   },
+   "jericho": {
+    "name": "IJeriko",
+    "book": "Joshuwa",
+    "today": "iJeriko namuhla",
+    "note": "Ekugcineni bayangena bathathe izwe lesithembiso.",
+    "events": [
+     "IJordani liyahlukana abantu baliwele",
+     "Izindonga zaseJeriko ziyawa",
+     "Ukunqoba iKhanani nokwabiwa kwezwe"
+    ]
+   },
+   "shiloh": {
+    "name": "IShilo (abaHluleli)",
+    "book": "AbaHluleli · Ruthe",
+    "today": "iKhirbet Seilun namuhla",
+    "note": "Kungekho nkosi, yilowo nalowo wenza okumthokozisayo — kudingeka inkosi yangempela.",
+    "events": [
+     "Itabernakele limiswa eShilo",
+     "Umjikelezo wesono–ukucindezelwa–ukusindiswa (uDebora, uGideyoni, uSamsoni)",
+     "URuthe — ukwethembeka ezinsukwini ezimnyama, ohlangothini lukaDavide"
+    ]
+   },
+   "jerusalem": {
+    "name": "IJerusalema · Umbuso Ohlangene",
+    "book": "1–2 Samuweli · 1 AmaKhosi",
+    "today": "iJerusalema namuhla",
+    "note": "Isikhathi segolide sika-Israyeli — nesithembiso senkosi yaphakade.",
+    "events": [
+     "USawule inkosi yokuqala, bese uDavide noGoliyati",
+     "Isivumelwano sikaDavide — “isihlalo sakho sobukhosi kuze kube phakade” (2 Samuweli 7)",
+     "USolomoni wakha ithempeli eJerusalema"
+    ]
+   },
+   "samaria": {
+    "name": "ISamariya · Umbuso Ohlukene",
+    "book": "AmaKhosi · abaProfethi",
+    "today": "iSebastia namuhla",
+    "note": "Umbuso uyahlukana wehle njengoba abaprofethi bekhala.",
+    "events": [
+     "Ngemva kukaSolomoni, ukuhlukana kube nguJuda no-Israyeli",
+     "Ukukhonza izithombe okuphindwayo",
+     "U-Eliya, u-Isaya, uJeremiya bekhala bethi ‘buyani’ — babikezele uMesiya"
+    ]
+   },
+   "nineveh": {
+    "name": "INineve (i-Asiriya)",
+    "book": "2 AmaKhosi 17 · UJona",
+    "today": "iMosul, e-Iraq namuhla",
+    "note": "Ngokunganaki zonke izexwayiso, inyakatho iwa kuqala.",
+    "events": [
+     "INineve, inhloko-dolobha ye-Asiriya",
+     "Umbuso wasenyakatho uwela ku-Asiriya (722 BC)",
+     "UJona uthunyelwa eNineve"
+    ]
+   },
+   "babylon": {
+    "name": "IBabele",
+    "book": "2 AmaKhosi 25 · Daniyeli · Hezekeli",
+    "today": "iHillah, e-Iraq namuhla",
+    "note": "Ubusuku obumnyama kunabo bonke — kepha isithembiso sokubuyiselwa sisekhona.",
+    "events": [
+     "IJerusalema liyawa, ithempeli liyashiswa (586 BC)",
+     "UJuda udonselwa eBabele",
+     "UDaniyeli noHezekeli — ukukholwa nemibono ekuthunjweni"
+    ]
+   },
+   "susa": {
+    "name": "ISusa (iPheresiya)",
+    "book": "Esteri · Nehemiya",
+    "today": "iShush, e-Iran namuhla",
+    "note": "Ngisho nasenhliziyweni yombuso wabezizwe, uNkulunkulu uyabagcina abantu bakhe.",
+    "events": [
+     "IPheresiya iyawisa iBabele",
+     "U-Esteri usindisa amaJuda ekubhujisweni",
+     "UNehemiya uthandaza phambi kwenkosi futhi uyathunywa"
+    ]
+   },
+   "return": {
+    "name": "Ukubuyela eJerusalema",
+    "book": "Ezra · Nehemiya · Malaki",
+    "today": "iJerusalema namuhla",
+    "note": "Bayabuya bakhe kabusha — kodwa ayikho inkosi efikile. Balindela uMesiya.",
+    "events": [
+     "Amagagasi amathathu okubuya ngomthetho kaKoresi (uZerubabeli 538 · u-Ezra 458 · uNehemiya 444)",
+     "Ithempeli liyakhiwa kabusha nezindonga zaseJerusalema ziyabuyiselwa",
+     "UMalaki — iThestamente Elidala liyavalwa: “Bhekani, ngiyathuma isithunywa sami”"
+    ]
+   }
+  },
+  "labels": [
+   "ULwandle iMedithera",
+   "IMesophothamiya",
+   "Ihlane lase-Arabhiya",
+   "IGibithe"
+  ],
+  "journeys": {
+   "flow": "Indaba yensindiso"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "IBhetlehema",
+    "book": "Mathewu 1–2 · Luka 2",
+    "today": "iBhetlehema namuhla",
+    "note": "UMesiya owathenjiswa uza emzini kaDavide — uLizwi waba yinyama.",
+    "events": [
+     "Uzalelwe eBhetlehema, umuzi kaDavide",
+     "Izingelosi zimemezela izindaba kubelusi",
+     "Izazi ziza ukuzomkhonza"
+    ]
+   },
+   "nazareth": {
+    "name": "INazaretha",
+    "book": "Luka 2 · 4",
+    "today": "iNazaretha namuhla",
+    "note": "UNkulunkulu ukhulela njengomuntu emzini ojwayelekile.",
+    "events": [
+     "Ukhuliswa ekhaya lombazi",
+     "Eneminyaka eyishumi nambili, ebuza ephendula ethempelini",
+     "Kamuva ulahlwa esinagogeni lakubo"
+    ]
+   },
+   "jordan": {
+    "name": "Umfula iJordani",
+    "book": "Mathewu 3–4",
+    "today": "iJordani elingezansi namuhla",
+    "note": "Inkonzo yakhe yasobala iyaqala — izulu liyambeka njengeNdodana.",
+    "events": [
+     "Ubhapathizwa nguJohane",
+     "UMoya wehla njengejuba — “Lo uyiNdodana yami ethandekayo”",
+     "Unqoba izilingo ezintathu zikaSathane ehlane"
+    ]
+   },
+   "cana": {
+    "name": "IKana",
+    "book": "Johane 2",
+    "today": "iKafr Kanna namuhla",
+    "note": "Esimangalisweni sakhe sokuqala wembula inkazimulo yakhe.",
+    "events": [
+     "Uyisivakashi emshadweni",
+     "Amanzi enziwa iwayini — isimangaliso sakhe sokuqala",
+     "Abafundi bakhe bayakholwa kuye"
+    ]
+   },
+   "sychar": {
+    "name": "ISikari (iSamariya)",
+    "book": "Johane 2–4",
+    "today": "eduze neNablus namuhla",
+    "note": "Umgwaqo wenkonzo yokuqala — kudlula eJerusalema kuye eSamariya eyedelelwayo.",
+    "events": [
+     "Uhlanza ithempeli eJerusalema",
+     "Ebusuku, uNikodemu — “Umelwe ukuzalwa kabusha”",
+     "Amanzi okuphila kowesifazane waseSamariya"
+    ]
+   },
+   "capernaum": {
+    "name": "IKapernawume",
+    "book": "Mathewu 4–13 · Marku 1–4",
+    "today": "ogwini lwechibi laseGalile namuhla",
+    "note": "Isizinda senkonzo yaseGalile — ukubiza, ukufundisa nokuphikiswa konke kuhlangana lapha.",
+    "events": [
+     "Ubiza abadobi azinze lapha",
+     "INtshumayelo yaseNtabeni — “Babusisiwe abampofu emoyeni”",
+     "Imifanekiso yombuso — nokuphikiswa okukhulayo"
+    ]
+   },
+   "galilee": {
+    "name": "ULwandle lwaseGalile",
+    "book": "Marku 4 · 6 · Johane 6",
+    "today": "iChibi iKinneret namuhla",
+    "note": "Ngamandla phezu kwemvelo ubonisa ukuthi ungubani.",
+    "events": [
+     "“Thula, uthi du” — uthulisa isiphepho",
+     "Usuthisa abangu-5 000 ngezinkwa ezinhlanu nezinhlanzi ezimbili",
+     "Uhamba phezu kwamanzi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "IKesariya Filipi",
+    "book": "Mathewu 16–17",
+    "today": "iBanias namuhla",
+    "note": "Abafundi bayaqonda ukuthi unguKristu, indlela yesiphambano ivuleke.",
+    "events": [
+     "Ukuvuma kukaPetru — “UnguKristu, iNdodana kaNkulunkulu ophilayo”",
+     "Ubikezela okokuqala ukufa nokuvuka kwakhe",
+     "Uyaguqulwa enkazimulweni entabeni"
+    ]
+   },
+   "jericho": {
+    "name": "IJeriko",
+    "book": "Luka 18–19",
+    "today": "iJeriko namuhla",
+    "note": "Endleleni eya eJerusalema, ufuna abalahlekile.",
+    "events": [
+     "Uvula amehlo kaBartimewu oyimpumputhe",
+     "Ubiza uZakewu umthelisi",
+     "“INdodana yomuntu ize ukufuna nokusindisa okulahlekile”"
+    ]
+   },
+   "bethany": {
+    "name": "IBethaniya",
+    "book": "Johane 11–12",
+    "today": "i-al-Eizariya namuhla",
+    "note": "Ubonisa amandla phezu kokufa ngosuku olwandulela isonto lakhe lokugcina.",
+    "events": [
+     "Uvusa uLazaru ethuneni — “Mina ngiyikuvuka nokuphila”",
+     "UMariya umgcoba ukuze amngcwabe",
+     "Lesi simangaliso siqinisa icebo lokumbulala"
+    ]
+   },
+   "jerusalem": {
+    "name": "IJerusalema",
+    "book": "Mathewu 21–28 · Luka 24 · IzEnzo 1",
+    "today": "iJerusalema namuhla",
+    "note": "Isicongo lonke iBhayibheli elikhomba kuso — isiphambano, ukuvuka, ukwenyukela.",
+    "events": [
+     "Ukungena ngokunqoba; uphinde agumbuqele amatafula ethempeli",
+     "ESidlweni Sokugcina ugeza izinyawo zabafundi",
+     "Ufela esiphambanweni",
+     "Uvuka ngosuku lwesithathu, bese wenyukela ezulwini"
+    ]
+   }
+  },
+  "labels": [
+   "ULwandle iMedithera",
+   "IGalile",
+   "ISamariya",
+   "IJudiya",
+   "IDekapholi",
+   "IPhereya",
+   "ULwandle Olufile"
+  ],
+  "journeys": {
+   "life": "Indlela kaJesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "I-Antiyokiya",
+    "book": "IzEnzo 13 · 15",
+    "today": "i-Antakya, eTurkey namuhla",
+    "note": "Ibandla elithumayo lapho inkonzo yabezizwe iqala futhi ibuyele khona.",
+    "events": [
+     "Emkhulekweni uMoya wahlukanisa uBarnaba noSawule",
+     "Ibandla lapho amakholwa aqala ukubizwa ngokuthi ‘amaKristu’",
+     "Indawo yokuphuma kohambo lokuqala, olwesibili nolwesithathu"
+    ]
+   },
+   "seleucia": {
+    "name": "ISelukiya",
+    "book": "IzEnzo 13:4",
+    "today": "iTurkey namuhla",
+    "note": "Itheku lase-Antiyokiya — bagwedlela eKhupro.",
+    "events": []
+   },
+   "salamis": {
+    "name": "ISalami (iKhupro)",
+    "book": "IzEnzo 13:5",
+    "today": "iKhupro namuhla",
+    "note": "Isitobhi sokuqala eKhupro — beshumayela emasinagogeni.",
+    "events": []
+   },
+   "paphos": {
+    "name": "IPafosi",
+    "book": "IzEnzo 13:6-12",
+    "today": "iKhupro namuhla",
+    "note": "Amandla abonakaliswa kulabo abaphikisa ivangeli.",
+    "events": [
+     "U-Elima umlumbi ushaywa abe yimpumputhe",
+     "USergiyu Pawulu umbusi uyakholwa",
+     "Kusukela lapha ‘uPawulu’ uthatha ubuholi"
+    ]
+   },
+   "perga": {
+    "name": "IPega",
+    "book": "IzEnzo 13:13",
+    "today": "i-Antalya, eTurkey namuhla",
+    "note": "Itheku lasePhamfiliya — lapha uJohane Marku ubuyela emuva.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "I-Antiyokiya yasePhisidiya",
+    "book": "IzEnzo 13:14-50",
+    "today": "iYalvaç, eTurkey namuhla",
+    "note": "Ivangeli liyavuleka ngakubezizwe.",
+    "events": [
+     "Intshumayelo ende yomlando wensindiso esinagogeni",
+     "Abezizwe abaningi bayajabula bamukele izwi",
+     "Baxoshwa ngokuphikiswa"
+    ]
+   },
+   "iconium": {
+    "name": "I-Ikoniyu",
+    "book": "IzEnzo 14:1-7",
+    "today": "iKonya, eTurkey namuhla",
+    "note": "Abaningi bayakholwa, kodwa ushushiso lubaphoqa ukuqhubeka.",
+    "events": []
+   },
+   "lystra": {
+    "name": "IListra",
+    "book": "IzEnzo 14:8-20",
+    "today": "iTurkey namuhla",
+    "note": "Babizwa njengonkulunkulu, base bekhandwa ngamatshe.",
+    "events": [
+     "Uphilisa indoda eyayiyisilima kwasekuzalweni",
+     "Isixuku sizama ukubanikela njengonkulunkulu",
+     "Ekhandwe ngamatshe washiywa kungathi ufile, uyavuka"
+    ]
+   },
+   "derbe": {
+    "name": "IDerbe",
+    "book": "IzEnzo 14:20-21",
+    "today": "iTurkey namuhla",
+    "note": "Kwenziwa abafundi abaningi; baphinda izinyathelo zabo ukuqinisa amabandla.",
+    "events": []
+   },
+   "troas": {
+    "name": "ITrowa",
+    "book": "IzEnzo 16:8-10",
+    "today": "iTurkey namuhla",
+    "note": "Iphuzu lokuphenduka lapho ivangeli liqala ukubheka eYurophu.",
+    "events": [
+     "Umbono wendoda yaseMakedoniya",
+     "“Welela ngapha usisize”",
+     "Bawela ngokushesha eYurophu"
+    ]
+   },
+   "philippi": {
+    "name": "IFilipi",
+    "book": "IzEnzo 16 · Filipi",
+    "today": "enyakatho yeGrisi namuhla",
+    "note": "Ibandla lokuqala laseYurophu — ivangeli linqoba ngisho nasetilongweni.",
+    "events": [
+     "ULidiya, umthengisi wendwangu ebomvu, uyakholwa",
+     "Intombazane eyisigqila ebhula uyakhululwa",
+     "Amahubo phakathi kwamabili, ukuzamazama komhlaba, umndeni wonogada usindisiwe"
+    ]
+   },
+   "thess": {
+    "name": "IThesalonika",
+    "book": "IzEnzo 17 · 1–2 Thesalonika",
+    "today": "iThessaloniki, eGrisi namuhla",
+    "note": "Izwi linyakazisa idolobha, ukuphikiswa kuyavutha.",
+    "events": [
+     "Ubonisana esinagogeni amaSabatha amathathu",
+     "“Laba abawugumbuqele umhlaba”",
+     "Bayanyonyoba ebusuku"
+    ]
+   },
+   "berea": {
+    "name": "IBhereya",
+    "book": "IzEnzo 17:10-15",
+    "today": "iVeria, eGrisi namuhla",
+    "note": "Abahloniphekayo ababehlola izwi ngokwabo.",
+    "events": [
+     "Bamukela izwi ngentshiseko",
+     "Nsuku zonke bahlola imibhalo ukuqinisekisa",
+     "Abaningi bayakholwa"
+    ]
+   },
+   "athens": {
+    "name": "I-Athene",
+    "book": "IzEnzo 17:16-34",
+    "today": "i-Athene, eGrisi namuhla",
+    "note": "Edolobheni lefilosofi umemezela ‘unkulunkulu ongaziwa’.",
+    "events": [
+     "Ukhathazwa idolobha eligcwele izithombe",
+     "E-Areyophagu ushumayela uMdali nokuvuka",
+     "Uyahlekwa, kodwa abambalwa bayakholwa"
+    ]
+   },
+   "corinth": {
+    "name": "IKorinte",
+    "book": "IzEnzo 18 · 1–2 Korinte",
+    "today": "iGrisi namuhla",
+    "note": "Uhlala unyaka nesigamu, etshala ibandla edolobheni elinobubi.",
+    "events": [
+     "Wenza amatende no-Akwila noPrisila",
+     "“Ungesabi… ngokuba ngikanye nawe”",
+     "AbaseKorinte abaningi bayakholwa bayabhapathizwa"
+    ]
+   },
+   "ephesus": {
+    "name": "I-Efesu",
+    "book": "IzEnzo 19 · Efesu",
+    "today": "iSelçuk, eTurkey namuhla",
+    "note": "Inhliziyo yohambo lwesithathu — izwi lisabalala kulo lonke i-Asia.",
+    "events": [
+     "Ukufundisa nsuku zonke iminyaka emibili ehholo likaThiranu",
+     "Izincwadi zemilingo ziyashiswa; imisebenzi enamandla",
+     "USomesisimbi uDemetriyu uqala isiyaluyalu"
+    ]
+   },
+   "miletus": {
+    "name": "IMiletu",
+    "book": "IzEnzo 20:17-38",
+    "today": "iTurkey namuhla",
+    "note": "Ukuvalelisa ngezinyembezi kumalunga e-Efesu.",
+    "events": [
+     "“Nakekelani ibandla alithenga ngegazi lakhe”",
+     "Amalunga ayakhala, azi ukuthi ngeke aphinde ambone"
+    ]
+   },
+   "caesarea": {
+    "name": "IKesariya",
+    "book": "IzEnzo 23–26",
+    "today": "ogwini lwakwa-Israyeli namuhla",
+    "note": "Iminyaka emibili uvikela ivangeli phambi kwababusi nenkosi.",
+    "events": [
+     "Amacala phambi kwababusi uFeliki noFestu",
+     "Ukuzivikela kwakhe phambi kwenkosi u-Agripha",
+     "“Ngidlulisela kuKhesari” — uya eRoma"
+    ]
+   },
+   "jerusalem": {
+    "name": "IJerusalema",
+    "book": "IzEnzo 21–23",
+    "today": "iJerusalema namuhla",
+    "note": "Ubanjwa ethempelini, indlela yakhe njengesiboshwa iyaqala.",
+    "events": [
+     "Ubanjwa isixuku ethempelini",
+     "Uzivikela phambi kwomkhandlu",
+     "Njengesakhamuzi saseRoma, uthunyelwa ngaphansi kohlonzwana eKesariya"
+    ]
+   },
+   "myra": {
+    "name": "IMira",
+    "book": "IzEnzo 27:5-6",
+    "today": "iDemre, eTurkey namuhla",
+    "note": "Bedlulela emkhunjini wase-Aleksandriya oya eRoma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "AmaTheku Amahle (iKrethe)",
+    "book": "IzEnzo 27:8-12",
+    "today": "iKrethe namuhla",
+    "note": "Isexwayiso sikaPawulu sokuyeka ukuhamba asinakwa.",
+    "events": []
+   },
+   "crete": {
+    "name": "IKrethe",
+    "book": "KuThithu",
+    "today": "iKrethe namuhla",
+    "note": "Ngemva kokukhululwa kwakhe, isiqhingi lapho ashiya khona uThithu ukuze ahlele amabandla.",
+    "events": [
+     "Ushiya uThithu ukuze amise amalunga kuwo wonke amadolobha",
+     "Ubiza abaholi abangenasici, abathembekile",
+     "Ubhala incwadi kuThithu"
+    ]
+   },
+   "malta": {
+    "name": "IMelitha",
+    "book": "IzEnzo 27–28",
+    "today": "iMalta namuhla",
+    "note": "Kudlula isiphepho nokuphahlazeka komkhumbi, isithembiso sikaNkulunkulu siyema.",
+    "events": [
+     "Umoya ‘onyakatho-mpumalanga’ uphahlaza umkhumbi, kodwa bonke abangu-276 bayasinda",
+     "Elunywe yinyoka, akalimali",
+     "Uphilisa abagulayo besiqhingi"
+    ]
+   },
+   "syracuse": {
+    "name": "ISirakuse",
+    "book": "IzEnzo 28:12",
+    "today": "iSicily, e-Italy namuhla",
+    "note": "Bahlala izinsuku ezintathu eSicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "IPhuteyoli",
+    "book": "IzEnzo 28:13-14",
+    "today": "iPozzuoli, e-Italy namuhla",
+    "note": "Bafika e-Italy bahlangatshezwe ngamakholwa.",
+    "events": []
+   },
+   "rome": {
+    "name": "IRoma",
+    "book": "IzEnzo 28 · Izincwadi Zasetilongweni · 2 Thimothewu",
+    "today": "iRoma, e-Italy namuhla",
+    "note": "Ekugcineni ivangeli lifinyelela enhliziyweni yombuso — akusiyo isiphetho kodwa isiqalo.",
+    "events": [
+     "Iminyaka emibili egadiwe endlini, ememezela umbuso ngesibindi",
+     "Kusukela lapha ubhala Izincwadi Zasetilongweni (Efesu·Filipi·Kolose·Filemoni)",
+     "Kamuva uphinde aboshwe, ubhala u-2 Thimothewu abulawelwe ukukholwa — “Ngiyilwile ukulwa okuhle, ngiqedile ukugijima”"
+    ]
+   }
+  },
+  "labels": [
+   "ULwandle iMedithera",
+   "ULwandle i-Aegean",
+   "I-Asia Encane",
+   "IMakedoniya",
+   "I-Italy"
+  ],
+  "journeys": {
+   "j1": "Uhambo lokuqala",
+   "j2": "Uhambo lwesibili",
+   "j3": "Uhambo lwesithathu",
+   "rome": "Uhambo lwesine · oluya eRoma",
+   "j5": "Uhambo lwesihlanu · ngemva kokukhululwa"
+  }
+ }
+}

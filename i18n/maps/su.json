@@ -1,0 +1,636 @@
+{
+ "menuName": "Basa Sunda",
+ "htmlLang": "su",
+ "dir": "ltr",
+ "locale": "su",
+ "brand": "Kitab Suci dina Sagulung",
+ "docTitle": "Kitab Suci ku Peta · Kitab Suci dina Sagulung",
+ "metaDesc": "Tuturkeun galur waktu Perjangjian Lama, hirup Yesus, jeung lalampahan Paulus dina peta nu nyata — Kitab Suci kajadian di tempat-tempat anu enya aya.",
+ "s": {
+  "kicker": "Kitab Suci dina Sagulung · Peta",
+  "title": "Kitab Suci ku Peta",
+  "verse": "“Kamulyaan Gusti urang Yesus Kristus anu dicaritakeun ku sim kuring teh lain asal tina carita-carita beunang nganggit, sabab kasaksian pisan ku sorangan kamulyaana-Na teh.” (2 Petrus 1:16)",
+  "purpose": "Kitab Suci téh lain dongéng. Ieu téh catetan ngeunaan jalma-jalma anu leumpang di tempat, tanggal, jeung ngaran anu nyata. Tuturkeun tapakna dina peta, dumasar kana urutan waktu — pencét hiji titik, atawa pencét ▶ pikeun ngalengkah hiji-hiji.",
+  "ot_kick": "① Perjangjian Lama — sapanjang waktu",
+  "ot_h": "Ti pangwitan nepi ka mulang ka Yerusalem",
+  "ot_lead": "Lain hiji lalampahan tunggal, tapi galur sajarah panebusan ti pangwitan: pangwitan jeung tikoro → caah jeung Babel → panyaur (Ibrahim) → Tanah Perjangjian → Budalan → gurun keusik → ngarebut tanah → karajaan → pisah → pangbuangan → mulang.",
+  "je_kick": "② Perjangjian Anyar — hirup Yesus",
+  "je_h": "Ti Betlehem nepi ka Yerusalem",
+  "je_lead": "Tuturkeun hirup Yesus sakumaha anu dicaritakeun ku Injil, dumasar kana urutan — ti kalahiran-Na di Betlehem ngaliwatan baptisan jeung palayanan di Galiléa, meuntas Samaria, nepi ka salib, gugah, jeung mido-Na di Yerusalem.",
+  "pa_kick": "③ Perjangjian Anyar — lalampahan Paulus",
+  "pa_h": "Ti Antiokia nepi ka tungtung bumi — Roma",
+  "pa_lead": "Ti Pentakosta di Yerusalem, kumaha Injil sumebar ngaleuwihan Yudéa — ngaliwatan Asia Leutik jeung Éropa nepi ka jantung karajaan. Pilih salah sahiji tina lima lalampahan (1·2·3 + palayaran ka Roma + sanggeus dibébaskeun) sarta tuturkeun kajadian dina Rasul bareng jeung surat-surat anu ditulis sapanjang jalan.",
+  "foot": "Sumber · Tempat-tempat nuturkeun téks Kitab Suci jeung géografi Kitab Suci baku (jeung ngaran modéren upama mantuan). Garis basisir, walungan, jeung talaga digambar tina data géografi terbuka (Natural Earth), disederhanakeun.",
+  "contact": "Tatanya · saran — <a id=\"contact\" class=\"mail\">Kintunkeun surélék</a>",
+  "play": "Puter",
+  "pause": "Reureuh",
+  "today": "Kiwari:",
+  "verseCite": "2 Petrus 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Éden (Pangwitan · Tikoro)",
+    "book": "Kajadian 1–3",
+    "today": "wewengkon Tigris–Éfrat kiwari",
+    "note": "Ka dunya anu dijieun “alus pisan,” dosa asup sarta megatkeun tali nu ngahubungkeun Allah jeung manusa.",
+    "events": [
+     "Pangwitan dina genep poé — “alus pisan”",
+     "Manusa dijieun sarupa jeung Allah",
+     "Tikoro, sarta diusir ti Éden",
+     "Jangji injil anu munggaran — “turunan awéwé baris ngaremukkeun hulu oray”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Caah Gedé)",
+    "book": "Kajadian 6–9",
+    "today": "Gunung Ararat, Turki wétan kiwari",
+    "note": "Allah ngahukum dunya anu pinuh ku dosa, tapi ngajaga kahirupan ngaliwatan hiji kulawarga.",
+    "events": [
+     "Dunya anu pinuh ku karuksakan",
+     "Caah gedé, sarta parahu Enoh",
+     "Perjangjian katumbiri — “moal aya deui caah pikeun numpes”"
+    ]
+   },
+   "babel": {
+    "name": "Munara Babel",
+    "book": "Kajadian 11",
+    "today": "Irak kiwari (tanah Sinéar)",
+    "note": "Ka hareupeun kaadigungan anu hayang ngahontal langit, Allah ngacowkeun basana sarta nyebarkeun bangsa-bangsa ka sakuliah bumi.",
+    "events": [
+     "“Hayu urang ngadegkeun kota jeung munara… sangkan urang kawéntar”",
+     "Allah ngacowkeun basa maranéhna",
+     "Bangsa-bangsa sumebar ka sakuliah bumi (Sinéar — engké Babel)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Kajadian 12",
+    "today": "Irak kidul kiwari",
+    "note": "Carita panebusan Kitab Suci ngawitan ku panyaur hiji jalma.",
+    "events": [
+     "Allah nyaur Abram kaluar ti Ur-Kasdim",
+     "“Maneh rek dibere turunan loba, anu pijadieun bangsa gede… kabeh bangsa diberkahan ku jalan maneh”",
+     "Ku iman anjeunna ninggalkeun lemah caina"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Kajadian 12",
+    "today": "Turki kidul kiwari",
+    "note": "Dina perjalanan, ngajawab panyaur anu nuju ka Tanah Perjangjian.",
+    "events": [
+     "Kulawarga Térah netep di Haran",
+     "Térah pupus",
+     "Abram angkat ka Kanaan dina yuswa 75 taun"
+    ]
+   },
+   "shechem": {
+    "name": "Sikem · Kanaan",
+    "book": "Kajadian 12–50",
+    "today": "Nablus kiwari",
+    "note": "Di Tanah Perjangjian hiji kulawarga diadegkeun sarta perjangjian dituluykeun ti turunan ka turunan.",
+    "events": [
+     "Asup ka Kanaan, altar munggaran — “ka turunan maneh ieu tanah ku Kami dibikeun”",
+     "Perjangjian (Kaj 15) · Isak · Yakub",
+     "Dua belas anak Yakub — akar dua belas kaom"
+    ]
+   },
+   "egypt": {
+    "name": "Mesir (Gosén)",
+    "book": "Kajadian 37–50 · Budalan 1",
+    "today": "Délta Nil, Mesir kiwari",
+    "note": "Hiji kulawarga jadi bangsa anu gedé — tuluy jadi bangsa budak.",
+    "events": [
+     "Yusup, anu dijual, ngarénggényék jadi gegedén di Mesir",
+     "Sakabéh kulawarga Yakub turun pikeun nyingkahan kalaparan",
+     "Bangsa Israil anu beuki réa dijadikeun budak"
+    ]
+   },
+   "sinai": {
+    "name": "Gunung Sinai",
+    "book": "Budalan · Imamat",
+    "today": "Semenanjung Sinai kiwari",
+    "note": "Panyalametan anu pangagungna di PL — budak jadi umat milik Allah.",
+    "events": [
+     "Sapuluh balahi jeung anak domba Paska",
+     "Laut Beureum nyingray sarta maranéhna meuntas",
+     "Sapuluh Timbalan, Hukum Toret, kémah suci, jeung kurban-kurban"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadés (gurun keusik)",
+    "book": "Bilangan · Pamindo",
+    "today": "gurun keusik Sinai–Négeb kiwari",
+    "note": "Kabasangkalan ngalantarankeun hiji generasi leungiteun tanah éta — tapi Allah tetep nyarengan maranéhna.",
+    "events": [
+     "Dua belas anu ngintip — tapi umat nampik percaya",
+     "38 taun di gurun keusik — manna, tihang méga jeung seuneu",
+     "Di dataran Moab, khotbah pamungkas Musa (Pamindo)"
+    ]
+   },
+   "jericho": {
+    "name": "Yériho",
+    "book": "Yosua",
+    "today": "Yériho kiwari",
+    "note": "Ahirna maranéhna asup sarta ngarebut Tanah Perjangjian.",
+    "events": [
+     "Walungan Yordan nyingray sarta umat meuntas",
+     "Tembok Yériho runtag",
+     "Ngarebut Kanaan sarta ngabagi tanah"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Hakim-hakim)",
+    "book": "Hakim-hakim · Rut",
+    "today": "Khirbet Seilun kiwari",
+    "note": "Tanpa raja, unggal jalma migawé sakahayang — hiji raja anu saestu diperlukeun.",
+    "events": [
+     "Kémah suci diadegkeun di Silo",
+     "Daur dosa–katindes–panyalametan (Débora, Gidion, Simson)",
+     "Rut — kasatiaan dina jaman poék, dina galur turunan Daud"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem · Karajaan Ngahiji",
+    "book": "1–2 Samuel · 1 Raja-raja",
+    "today": "Yerusalem kiwari",
+    "note": "Jaman emas Israil — sarta jangji hiji raja anu langgeng.",
+    "events": [
+     "Saul raja munggaran, tuluy Daud jeung Goliat",
+     "Perjangjian Daud — “tahta maneh bakal langgeng” (2 Sam 7)",
+     "Suléman ngadegkeun Bait Allah di Yerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Karajaan Pisah",
+    "book": "Raja-raja · para Nabi",
+    "today": "Sebastia kiwari",
+    "note": "Karajaan pisah sarta mundur sajeroning para nabi sasambat.",
+    "events": [
+     "Sanggeus Suléman, pisah jadi Yuda jeung Israil",
+     "Nyembah brahala anu diulang-ulang",
+     "Élias, Yesaya, Yermia sasambat ‘balik deui’ — sarta ngaramalkeun Mésias"
+    ]
+   },
+   "nineveh": {
+    "name": "Niniwe (Asur)",
+    "book": "2 Raja-raja 17 · Yunus",
+    "today": "Mosul, Irak kiwari",
+    "note": "Ngantepkeun unggal pépéling, karajaan kaler runtag heula.",
+    "events": [
+     "Niniwe, ibukota Asur",
+     "Karajaan kaler runtag ka Asur (722 SM)",
+     "Yunus diutus ka Niniwe"
+    ]
+   },
+   "babylon": {
+    "name": "Babel",
+    "book": "2 Raja-raja 25 · Daniel · Yeheskiel",
+    "today": "Hillah, Irak kiwari",
+    "note": "Peuting anu pangpoékna — tapi jangji pamulihan tetep aya.",
+    "events": [
+     "Yerusalem runtag, Bait Allah kahuruan (586 SM)",
+     "Yuda dibawa ka Babel",
+     "Daniel jeung Yeheskiel — iman jeung tetenjoan dina pangbuangan"
+    ]
+   },
+   "susa": {
+    "name": "Susan (Pérsia)",
+    "book": "Ester · Nehemia",
+    "today": "Shush, Iran kiwari",
+    "note": "Sanajan di jantung karajaan kapir, Allah ngajaga umat-Na.",
+    "events": [
+     "Pérsia ngagulingkeun Babel",
+     "Éster nyalametkeun urang Yahudi tina pamupusan",
+     "Nehemia neneda di payuneun raja sarta diutus"
+    ]
+   },
+   "return": {
+    "name": "Mulang ka Yerusalem",
+    "book": "Esra · Nehemia · Maléakhi",
+    "today": "Yerusalem kiwari",
+    "note": "Maranéhna mulang sarta ngadegkeun deui — tapi euweuh raja anu sumping. Maranéhna ngadagoan Mésias.",
+    "events": [
+     "Tilu gelombang pamulangan ku katetepan Koris (Serubabel 538 · Esra 458 · Nehemia 444)",
+     "Bait Allah diadegkeun deui sarta kuta Yerusalem dipulihkeun",
+     "Maléakhi — PL ditutup: “Kami rek ngirim utusan”"
+    ]
+   }
+  },
+  "labels": [
+   "Laut Tengah",
+   "Mésopotamia",
+   "Gurun Keusik Arab",
+   "Mesir"
+  ],
+  "journeys": {
+   "flow": "Carita panebusan"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mateus 1–2 · Lukas 2",
+    "today": "Betlehem kiwari",
+    "note": "Mésias anu dijangjikeun sumping ka kota Daud — Pangandika anu mijalma.",
+    "events": [
+     "Mijalma di Betlehem, kota Daud",
+     "Para malaikat ngembarkeun warta éta ka para pangangon",
+     "Para Majus sumping nyembah"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasarét",
+    "book": "Lukas 2 · 4",
+    "today": "Nasarét kiwari",
+    "note": "Allah ageung jadi manusa di hiji kota biasa.",
+    "events": [
+     "Digedékeun di imah tukang kayu",
+     "Dina yuswa dua belas, tumaros sarta ngawaler di Bait Allah",
+     "Engkéna ditampik di sinagoge lemah caina sorangan"
+    ]
+   },
+   "jordan": {
+    "name": "Walungan Yordan",
+    "book": "Mateus 3–4",
+    "today": "Yordan hilir kiwari",
+    "note": "Palayanan-Na di hareupeun umum ngawitan — sawarga ngecapkeun Anjeunna jadi Putra.",
+    "events": [
+     "Dibaptis ku Yahya",
+     "Roh lungsur saperti japati — “Ieu Putra Kami nu kaasih”",
+     "Ngéléhkeun tilu panggoda Iblis di gurun keusik"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yahya 2",
+    "today": "Kafr Kanna kiwari",
+    "note": "Dina mujijat-Na anu munggaran Anjeunna nembongkeun kamulyaan-Na.",
+    "events": [
+     "Jadi sémah dina hiji pésta kawinan",
+     "Cai dirobah jadi anggur — mujijat-Na anu munggaran",
+     "Murid-murid-Na palercaya ka Anjeunna"
+    ]
+   },
+   "sychar": {
+    "name": "Sikar (Samaria)",
+    "book": "Yahya 2–4",
+    "today": "deukeut Nablus kiwari",
+    "note": "Jalan palayanan mimiti — ngaliwatan Yerusalem terus ka Samaria anu dipikahina.",
+    "events": [
+     "Anjeunna nyucikeun Bait Allah di Yerusalem",
+     "Peuting-peuting, Nikodemus — “Maneh kudu dijurukeun deui”",
+     "Cai hirup pikeun hiji awéwé Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Mateus 4–13 · Markus 1–4",
+    "today": "sisi talaga Galiléa kiwari",
+    "note": "Puseur palayanan di Galiléa — panyaur, pangajaran, jeung panentang sakabéhna patepung di dieu.",
+    "events": [
+     "Nyaur para tukang ngala lauk sarta ngajadikeun ieu puseurna",
+     "Khutbah di Pasir — “Bagja jelema nu rarendah hate”",
+     "Siloka-siloka Karajaan — sarta panentang anu beuki kuat"
+    ]
+   },
+   "galilee": {
+    "name": "Talaga Galiléa",
+    "book": "Markus 4 · 6 · Yahya 6",
+    "today": "Talaga Kineret kiwari",
+    "note": "Ku kawasa kana alam Anjeunna nuduhkeun saha salira-Na.",
+    "events": [
+     "“Repeh, jadi tiis deui” — Anjeunna nineuhkeun angin ribut",
+     "Méré dahar 5.000 jalma ku lima roti jeung dua lauk",
+     "Leumpang dina luhureun cai"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisaréa Pilipi",
+    "book": "Mateus 16–17",
+    "today": "Banias kiwari",
+    "note": "Murid-murid ngarti yén Anjeunna téh Kristus, sarta jalan salib muka.",
+    "events": [
+     "Pangakuan Petrus — “Gusti teh Kristus, Putra Allah nu jumeneng”",
+     "Pikeun munggaran kalina Anjeunna ngaramalkeun pupus jeung gugah-Na",
+     "Robah rupa dina kamulyaan di luhureun gunung"
+    ]
+   },
+   "jericho": {
+    "name": "Yériho",
+    "book": "Lukas 18–19",
+    "today": "Yériho kiwari",
+    "note": "Dina perjalanan naék ka Yerusalem, Anjeunna néangan anu leungit.",
+    "events": [
+     "Anjeunna nyageurkeun Bartiméus anu lolong",
+     "Anjeunna nyaur Sakéus tukang mulung pajeg",
+     "“Putra Manusa sumping pikeun néangan jeung nyalametkeun anu leungit”"
+    ]
+   },
+   "bethany": {
+    "name": "Bétania",
+    "book": "Yahya 11–12",
+    "today": "al-Eizariya kiwari",
+    "note": "Anjeunna nuduhkeun kawasa kana pati saméméh minggu pamungkas-Na.",
+    "events": [
+     "Anjeunna ngahudangkeun Lasarus tina kubur — “Kami teh nu jadi sabab gugah jeung sabab hirup”",
+     "Maria ngaminyakan Anjeunna pikeun panguburan",
+     "Mujijat ieu ngagedékeun rancangan jahat pikeun maéhan Anjeunna"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem",
+    "book": "Mateus 21–28 · Lukas 24 · Rasul 1",
+    "today": "Yerusalem kiwari",
+    "note": "Puncak anu dituduhkeun ku sakumna Kitab Suci — salib, gugah, mido.",
+    "events": [
+     "Asup kalawan kaunggulan; Anjeunna ngabalik-balikkeun méja-méja di Bait Allah deui",
+     "Dina Tuang Pamungkas Anjeunna ngumbah suku murid-murid",
+     "Anjeunna pupus dina salib",
+     "Gugah dina poé katilu, tuluy mido ka sawarga"
+    ]
+   }
+  },
+  "labels": [
+   "Laut Tengah",
+   "Galiléa",
+   "Samaria",
+   "Yudéa",
+   "Dékapolis",
+   "Péréa",
+   "Laut Pati"
+  ],
+  "journeys": {
+   "life": "Tapak Yesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Rasul 13 · 15",
+    "today": "Antakya, Turki kiwari",
+    "note": "Garéja pangutus tempat misi ka bangsa-bangsa séjén ngawitan sarta mulang.",
+    "events": [
+     "Dina paneneda Roh misahkeun Barnabas jeung Saulus",
+     "Garéja tempat murid-murid munggaran disebut ‘Kristen’",
+     "Titik tolak lalampahan ka-1, ka-2, jeung ka-3"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Rasul 13:4",
+    "today": "Turki kiwari",
+    "note": "Palabuan Antiokia — maranéhna balayar ka Siprus.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Siprus)",
+    "book": "Rasul 13:5",
+    "today": "Siprus kiwari",
+    "note": "Eureun munggaran di Siprus — ngembarkeun pangandika di tempat-tempat ibadah.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Rasul 13:6-12",
+    "today": "Siprus kiwari",
+    "note": "Kawasa dinyatakeun ka jalma-jalma anu nentang Injil.",
+    "events": [
+     "Elimas tukang sihir jadi lolong",
+     "Sérgius Paulus, gubernur éta, jadi percaya",
+     "Ti dieu ‘Paulus’ mingpin"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Rasul 13:13",
+    "today": "Antalya, Turki kiwari",
+    "note": "Hiji palabuan di Pampilia — di dieu Yahya Markus malik balik.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia di Pisidia",
+    "book": "Rasul 13:14-50",
+    "today": "Yalvaç, Turki kiwari",
+    "note": "Injil muka lebar nuju ka bangsa-bangsa séjén.",
+    "events": [
+     "Khutbah panjang ngeunaan sajarah kasalametan di tempat ibadah",
+     "Loba jalma ti bangsa séjén bungah sarta narima pangandika",
+     "Diusir ku panentang"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonium",
+    "book": "Rasul 14:1-7",
+    "today": "Konya, Turki kiwari",
+    "note": "Loba anu percaya, tapi panganiayaan maksa maranéhna indit.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Rasul 14:8-20",
+    "today": "Turki kiwari",
+    "note": "Diabakti siga déwa, tuluy dibalédogan ku batu.",
+    "events": [
+     "Nyageurkeun hiji jalma anu lumpuh ti barang lahir",
+     "Jalma loba hayang ngabakti ka maranéhna salaku déwa",
+     "Dibalédogan ku batu sarta ditinggalkeun siga maot, tapi anjeunna nangtung"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Rasul 14:20-21",
+    "today": "Turki kiwari",
+    "note": "Loba murid dijadikeun; maranéhna malik nyusud tapak pikeun nguatkeun garéja.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Rasul 16:8-10",
+    "today": "Turki kiwari",
+    "note": "Titik balik tempat Injil munggaran nuju ka Éropa.",
+    "events": [
+     "Tetenjoan ngeunaan hiji jalma Makédonia",
+     "“Meuntas ka dieu sarta tulungan abdi-abdi”",
+     "Maranéhna geuwat meuntas ka Éropa"
+    ]
+   },
+   "philippi": {
+    "name": "Pilipi",
+    "book": "Rasul 16 · Pilipi",
+    "today": "Yunani kaler kiwari",
+    "note": "Garéja munggaran di Éropa — Injil unggul sanajan di panjara.",
+    "events": [
+     "Lidia, tukang dagang lawon wungu, jadi percaya",
+     "Hiji budak awéwé tukang ramal dibébaskeun",
+     "Kawih tengah peuting, lini, sarta saimah kapala panjara disalametkeun"
+    ]
+   },
+   "thess": {
+    "name": "Tésalonika",
+    "book": "Rasul 17 · 1–2 Tésalonika",
+    "today": "Thessaloniki, Yunani kiwari",
+    "note": "Pangandika ngageterkeun kota sarta panentang ngagolak.",
+    "events": [
+     "Sawala di tempat ibadah salila tilu poé Sabat",
+     "“Jalma-jalma anu ngabalik-balikkeun saalam dunya”",
+     "Maranéhna indit sidik-sidik peuting-peuting"
+    ]
+   },
+   "berea": {
+    "name": "Beréa",
+    "book": "Rasul 17:10-15",
+    "today": "Veria, Yunani kiwari",
+    "note": "Jalma-jalma ‘anu mulus haté’ anu mariksa pangandika sorangan.",
+    "events": [
+     "Maranéhna narima pangandika kalawan suka",
+     "Unggal poé maranéhna nalungtik Kitab Suci pikeun mariksana",
+     "Loba anu jadi percaya"
+    ]
+   },
+   "athens": {
+    "name": "Aténa",
+    "book": "Rasul 17:16-34",
+    "today": "Athena, Yunani kiwari",
+    "note": "Di kota para ahli pikir anjeunna ngembarkeun ‘allah anu teu kanyahoan’.",
+    "events": [
+     "Kagerakkeun ku kota anu pinuh ku brahala",
+     "Di Aréopagus anjeunna ngembarkeun Nu Nyiptakeun sarta gugah",
+     "Diseungseurikeun, tapi sababaraha jalma percaya"
+    ]
+   },
+   "corinth": {
+    "name": "Korinta",
+    "book": "Rasul 18 · 1–2 Korinta",
+    "today": "Yunani kiwari",
+    "note": "Anjeunna cicing sataun satengah, ngadegkeun garéja di kota anu pinuh ku kacabulan.",
+    "events": [
+     "Nyieun kémah bareng Akwila jeung Priskila",
+     "“Ulah sieun… sabab Kami nyarengan maneh”",
+     "Loba urang Korinta percaya sarta dibaptis"
+    ]
+   },
+   "ephesus": {
+    "name": "Epesus",
+    "book": "Rasul 19 · Epesus",
+    "today": "Selçuk, Turki kiwari",
+    "note": "Inti lalampahan katilu — pangandika sumebar ka sakuliah Asia.",
+    "events": [
+     "Ngajar unggal poé salila dua taun di rohangan Tiranus",
+     "Buku-buku sihir diduruk; pagawéan anu pinuh kawasa",
+     "Démétrius tukang pérak ngahudangkeun rusuh"
+    ]
+   },
+   "miletus": {
+    "name": "Miletus",
+    "book": "Rasul 20:17-38",
+    "today": "Turki kiwari",
+    "note": "Papisah kalawan cipanon bareng para kokolot Epesus.",
+    "events": [
+     "“Urus garéja anu ku Anjeunna ditebus ku getih-Na sorangan”",
+     "Para kokolot careurik, nyaho moal ningali deui anjeunna"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisaréa",
+    "book": "Rasul 23–26",
+    "today": "basisir Israil kiwari",
+    "note": "Salila dua taun anjeunna ngabéla Injil di payuneun para gubernur jeung hiji raja.",
+    "events": [
+     "Disidang di payuneun gubernur Pélix jeung Péstus",
+     "Pangbélaanana di payuneun Raja Agripa",
+     "“Abdi naék banding ka Kaisar” — nuju ka Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem",
+    "book": "Rasul 21–23",
+    "today": "Yerusalem kiwari",
+    "note": "Ditangkep di Bait Allah, jalanna salaku tawanan ngawitan.",
+    "events": [
+     "Ditangkep ku jalma loba di Bait Allah",
+     "Ngabéla diri di payuneun Mahkamah Agama",
+     "Salaku warga Roma, dikirim kalawan dijaga ka Kaisaréa"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Rasul 27:5-6",
+    "today": "Demre, Turki kiwari",
+    "note": "Maranéhna pindah ka kapal Aléksandria anu nuju ka Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Palabuan Éndah (Kréta)",
+    "book": "Rasul 27:8-12",
+    "today": "Kréta kiwari",
+    "note": "Pépéling Paulus pikeun eureun balayar henteu diéstokeun.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kréta",
+    "book": "Titus",
+    "today": "Kréta kiwari",
+    "note": "Sanggeus dibébaskeun, pulo tempat anjeunna ninggalkeun Titus pikeun nata garéja.",
+    "events": [
+     "Ninggalkeun Titus pikeun ngangkat kokolot di unggal kota",
+     "Nyambat pamingpin anu teu aya cawadeun sarta satia",
+     "Nulis surat ka Titus"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Rasul 27–28",
+    "today": "Malta kiwari",
+    "note": "Ngaliwatan angin ribut jeung kapal karam, jangji Allah tetep tumeka.",
+    "events": [
+     "Angin ‘kaler wétan’ ngancurkeun kapal, tapi 276 jalma salamet",
+     "Dipacok ku oray meurih, anjeunna teu raheut",
+     "Anjeunna nyageurkeun jalma-jalma gering di pulo éta"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusa",
+    "book": "Rasul 28:12",
+    "today": "Sisilia, Italia kiwari",
+    "note": "Maranéhna cicing tilu poé di Sisilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Putioli",
+    "book": "Rasul 28:13-14",
+    "today": "Pozzuoli, Italia kiwari",
+    "note": "Maranéhna eunteup di Italia sarta ditampi ku batur saiman.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Rasul 28 · Surat-surat Panjara · 2 Timoteus",
+    "today": "Roma, Italia kiwari",
+    "note": "Injil ahirna nepi ka jantung karajaan — lain ahir tapi awal.",
+    "events": [
+     "Dua taun dina tahanan imah, kalawan wani ngembarkeun Karajaan Allah",
+     "Ti dieu anjeunna nulis Surat-surat Panjara (Epe·Pil·Kol·Plm)",
+     "Engkéna dipanjara deui, nulis 2 Timoteus sarta jadi martir — “Kami geus tarung dina tarung anu hade, geus anggeus dina lumpat”"
+    ]
+   }
+  },
+  "labels": [
+   "Laut Tengah",
+   "Laut Aégéa",
+   "Asia Leutik",
+   "Makédonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Lalampahan munggaran",
+   "j2": "Lalampahan kadua",
+   "j3": "Lalampahan katilu",
+   "rome": "Lalampahan kaopat · ka Roma",
+   "j5": "Lalampahan kalima · sanggeus dibébaskeun"
+  }
+ }
+}

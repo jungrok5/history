@@ -1,0 +1,636 @@
+{
+ "menuName": "Hausa",
+ "htmlLang": "ha",
+ "dir": "ltr",
+ "locale": "ha",
+ "brand": "Littafi Mai Tsarki a Gungumi Ɗaya",
+ "docTitle": "Littafi Mai Tsarki a Taswira · Littafi Mai Tsarki a Gungumi Ɗaya",
+ "metaDesc": "Bi tarihin Tsohon Alkawari, rayuwar Yesu, da tafiye-tafiyen Bulus a kan taswira ta gaske — Littafi Mai Tsarki ya faru ne a wuraren gaske.",
+ "s": {
+  "kicker": "Littafi Mai Tsarki a Gungumi Ɗaya · Taswira",
+  "title": "Littafi Mai Tsarki a Taswira",
+  "verse": "“Ai, ba tatsuniyoyi da aka ƙaga da wayo muka bi ba, sa'ad da muka sanar da ku ikon Ubangijinmu Yesu Almasihu, da kuma bayyanarsa, ɗaukakarsa ce muka gani muraran.” (2 Bitrus 1:16)",
+  "purpose": "Littafi Mai Tsarki ba tatsuniya ba ne. Tarihi ne na mutanen da suka yi tafiya a wuraren gaske, kwanaki, da sunaye na gaske. Bi waɗannan hanyoyi a kan taswira, bisa tsarin lokaci — danna wuri, ko ka latsa ▶ don bi shi mataki-mataki.",
+  "ot_kick": "① Tsohon Alkawari — cikin lokaci",
+  "ot_h": "Daga halitta zuwa komawa Urushalima",
+  "ot_lead": "Ba tafiya guda ba ce sai dai gudanar da tarihin fansa tun daga halitta: halitta da faɗuwa → ruwan tsufana da Babel → kira (Ibrahim) → ƙasar alkawari → Fitowa → jeji → cin ƙasa → mulki → rabuwa → bauta → komawa.",
+  "je_kick": "② Sabon Alkawari — rayuwar Yesu",
+  "je_h": "Daga Baitalami zuwa Urushalima",
+  "je_lead": "Bi rayuwar Yesu kamar yadda Linjila suke ba da labari, bisa tsari — daga haihuwarsa a Baitalami har baftismarsa da hidimarsa a Galili, ta Samariya, zuwa gicciye, tashin matattu, da hawa sama a Urushalima.",
+  "pa_kick": "③ Sabon Alkawari — tafiye-tafiyen Bulus",
+  "pa_h": "Daga Antakiya zuwa iyakar duniya — Roma",
+  "pa_lead": "Daga Fentikos a Urushalima, yadda bishara ta yaɗu ya wuce Yahudiya — ta Asiya Ƙarama da Turai zuwa zuciyar daular. Zaɓi ɗaya daga cikin tafiye-tafiye biyar (1·2·3 + tafiya zuwa Roma + bayan an saki) ka kuma bi al'amuran Ayyukan Manzanni tare da wasiƙun da aka rubuta a hanya.",
+  "foot": "Tushe · Wuraren sun bi rubutun Littafi Mai Tsarki da daidaitacciyar yanayin ƙasa na Littafi Mai Tsarki (da sunayen zamani inda ya dace). An zana bakin teku, koguna, da tafkuna daga buɗaɗɗun bayanan yanayin ƙasa (Natural Earth), an sauƙaƙe su.",
+  "contact": "Tambayoyi · ra'ayi — <a id=\"contact\" class=\"mail\">Aiko mana imel</a>",
+  "play": "Kunna",
+  "pause": "Dakata",
+  "today": "Yau:",
+  "verseCite": "2 Bitrus 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Adan (Halitta · Faɗuwa)",
+    "book": "Farawa 1–3",
+    "today": "yankin Tigris–Yufiretis a yau",
+    "note": "Cikin duniyar da aka yi “mai kyau ƙwarai,” zunubi ya shigo ya kuma yanke alaƙa tsakanin Allah da mutane.",
+    "events": [
+     "Halitta cikin kwana shida — “mai kyau ƙwarai”",
+     "An yi mutum cikin kamannin Allah",
+     "Faɗuwa, da korar daga Adan",
+     "Alkawarin farko na bishara — “zuriyar mace za ta ƙuje kan maciji”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Ruwan Tsufana)",
+    "book": "Farawa 6–9",
+    "today": "Dutsen Ararat, gabashin Turkiya a yau",
+    "note": "Allah ya hukunta duniyar da ta cika da zunubi, duk da haka ya tsare rai ta wurin iyali guda.",
+    "events": [
+     "Duniyar da ta cika da lalata",
+     "Ruwan tsufana, da jirgin Nuhu",
+     "Alkawarin bakan gizo — “ba za a ƙara hallaka duniya da ruwa ba”"
+    ]
+   },
+   "babel": {
+    "name": "Hasumiyar Babel",
+    "book": "Farawa 11",
+    "today": "Iraki a yau (filin Shinar)",
+    "note": "A kan girman kai da yake nema ya kai sama, Allah ya rikitar da harshensu ya kuma watsar da mutane a duniya.",
+    "events": [
+     "“Mu gina birni da hasumiya… mu yi wa kanmu suna”",
+     "Allah ya rikitar da harshensu",
+     "Mutane suka watse a duniya (Shinar — daga baya Babila)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Farawa 12",
+    "today": "kudancin Iraki a yau",
+    "note": "Labarin fansa na Littafi Mai Tsarki ya fara da kiran mutum guda.",
+    "events": [
+     "Allah ya kira Abram daga Ur ta Kaldiyawa",
+     "“Zan maishe ka al'umma mai girma… dukan al'ummai za su sami albarka ta wurinka”",
+     "Ta wurin bangaskiya ya bar ƙasarsa"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Farawa 12",
+    "today": "kudancin Turkiya a yau",
+    "note": "A kan hanya, yana amsa kiran zuwa ƙasar alkawari.",
+    "events": [
+     "Iyalin Tera suka zauna a Haran",
+     "Tera ya mutu",
+     "Abram ya kama hanya zuwa Kan'ana yana da shekara 75"
+    ]
+   },
+   "shechem": {
+    "name": "Shekem · Kan'ana",
+    "book": "Farawa 12–50",
+    "today": "Nablus a yau",
+    "note": "A ƙasar alkawari aka kafa iyali, alkawarin kuwa ya gangaro daga tsara zuwa tsara.",
+    "events": [
+     "Shiga Kan'ana, bagade na farko — “zan ba zuriyarka wannan ƙasa”",
+     "Alkawari (Farawa 15) · Ishaku · Yakubu",
+     "'Ya'yan Yakubu goma sha biyu — tushen kabilu goma sha biyu"
+    ]
+   },
+   "egypt": {
+    "name": "Masar (Goshen)",
+    "book": "Farawa 37–50 · Fitowa 1",
+    "today": "Kwarin Nilu, Masar a yau",
+    "note": "Iyali ya zama al'umma mai girma — sa'an nan al'ummar bayi.",
+    "events": [
+     "Yusufu, da aka sayar, ya tashi ya yi mulki a Masar",
+     "Dukan iyalin Yakubu suka gangaro don su tsere wa yunwa",
+     "Al'ummar Isra'ila mai girma an mai da ita bayi"
+    ]
+   },
+   "sinai": {
+    "name": "Dutsen Sinai",
+    "book": "Fitowa · Litafin Firistoci",
+    "today": "Tsibirin Sinai a yau",
+    "note": "Babbar fansa ta Tsohon Alkawari — bayi sun zama jama'ar Allah.",
+    "events": [
+     "Annoba goma da ɗan ragon Idin Ƙetarewa",
+     "Bahar Maliya ya rabu suka kuma ƙetare",
+     "Dokoki Goma, Shari'a, Alfarwa da hadayu"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesh (jeji)",
+    "book": "Ƙidaya · Kubawar Shari'a",
+    "today": "jejin Sinai–Negeb a yau",
+    "note": "Rashin bangaskiya ya hana wani zamani ƙasar — duk da haka Allah ya kasance tare da su.",
+    "events": [
+     "'Yan leƙen asiri goma sha biyu — amma jama'a suka ƙi su gaskata",
+     "Shekara 38 a jeji — manna, girgije da wuta",
+     "A filin Mowab, wa'azin ƙarshe na Musa (Kubawar Shari'a)"
+    ]
+   },
+   "jericho": {
+    "name": "Yariko",
+    "book": "Yoshuwa",
+    "today": "Yariko a yau",
+    "note": "A ƙarshe suka shiga suka kuma ci ƙasar alkawari.",
+    "events": [
+     "Kogin Urdun ya rabu jama'a kuwa suka ƙetare",
+     "Garun Yariko suka faɗi",
+     "Cin Kan'ana da rabon ƙasar"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Alƙalai)",
+    "book": "Alƙalai · Rut",
+    "today": "Khirbet Seilun a yau",
+    "note": "Babu sarki, kowa yana yin abin da ya ga dama — ana bukatar sarki na gaskiya.",
+    "events": [
+     "An kafa Alfarwa a Shilo",
+     "Da'irar zunubi–danniya–ceto (Debora, Gidiyon, Samson)",
+     "Rut — aminci a kwanaki masu duhu, cikin zuriyar Dawuda"
+    ]
+   },
+   "jerusalem": {
+    "name": "Urushalima · Mulki Haɗaɗɗe",
+    "book": "1–2 Sama'ila · 1 Sarakuna",
+    "today": "Urushalima a yau",
+    "note": "Zamanin ɗaukakar Isra'ila — da alkawarin sarki na har abada.",
+    "events": [
+     "Shawulu sarki na farko, sa'an nan Dawuda da Goliyat",
+     "Alkawari da Dawuda — “gadon sarautarka har abada” (2 Sama'ila 7)",
+     "Sulemanu ya gina haikali a Urushalima"
+    ]
+   },
+   "samaria": {
+    "name": "Samariya · Mulki Rabe-rabe",
+    "book": "Sarakuna · Annabawa",
+    "today": "Sebastia a yau",
+    "note": "Mulkin ya rabu ya kuma gangara yayin da annabawa suke kuka.",
+    "events": [
+     "Bayan Sulemanu, rabuwa zuwa Yahuda da Isra'ila",
+     "Bautar gumaka da aka maimaita",
+     "Iliya, Ishaya, Irmiya suna kira ‘ku komo’ — suna kuma annabta Almasihu"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninawa (Assuriya)",
+    "book": "2 Sarakuna 17 · Yunusa",
+    "today": "Mosul, Iraki a yau",
+    "note": "Da suka ƙyale kowane gargaɗi, arewa ya fara faɗuwa.",
+    "events": [
+     "Ninawa, babban birnin Assuriya",
+     "Mulkin arewa ya faɗi ga Assuriya (722 K.H.)",
+     "An aiki Yunusa zuwa Ninawa"
+    ]
+   },
+   "babylon": {
+    "name": "Babila",
+    "book": "2 Sarakuna 25 · Daniyel · Ezekiyel",
+    "today": "Hillah, Iraki a yau",
+    "note": "Dare mafi duhu — duk da haka alkawarin mayarwa ya rage.",
+    "events": [
+     "Urushalima ta faɗi, haikali ya ƙone (586 K.H.)",
+     "An kwashe Yahuda zuwa Babila",
+     "Daniyel da Ezekiyel — bangaskiya da wahayoyi cikin bauta"
+    ]
+   },
+   "susa": {
+    "name": "Shushan (Farisa)",
+    "book": "Esta · Nehemiya",
+    "today": "Shush, Iran a yau",
+    "note": "Har a zuciyar daular arna, Allah yana tsare jama'arsa.",
+    "events": [
+     "Farisa ta kayar da Babila",
+     "Esta ta ceci Yahudawa daga halaka",
+     "Nehemiya ya yi addu'a a gaban sarki aka kuma aike shi"
+    ]
+   },
+   "return": {
+    "name": "Komawa Urushalima",
+    "book": "Ezra · Nehemiya · Malaki",
+    "today": "Urushalima a yau",
+    "note": "Suka dawo suka kuma sāke gina — amma babu sarkin da ya zo. Suna jiran Almasihu.",
+    "events": [
+     "Igiyoyi uku na komawa ta dokar Sairus (Zarubabel 538 · Ezra 458 · Nehemiya 444)",
+     "An sāke gina haikali da garun Urushalima",
+     "Malaki — Tsohon Alkawari ya rufe: “Zan aiki manzona”"
+    ]
+   }
+  },
+  "labels": [
+   "Bahar Rum",
+   "Mesofotamiya",
+   "Hamadar Larabawa",
+   "Masar"
+  ],
+  "journeys": {
+   "flow": "Labarin fansa"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Baitalami",
+    "book": "Mattiyu 1–2 · Luka 2",
+    "today": "Baitalami a yau",
+    "note": "Almasihu da aka yi alkawari ya zo birnin Dawuda — Kalma ya zama mutum.",
+    "events": [
+     "An haife shi a Baitalami, birnin Dawuda",
+     "Mala'iku suka sanar wa makiyaya labarin",
+     "Masu hikima suka zo su yi sujada"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazarat",
+    "book": "Luka 2 · 4",
+    "today": "Nazarat a yau",
+    "note": "Allah ya yi girma a matsayin mutum a wani gari na yau da kullum.",
+    "events": [
+     "An rene shi a gidan masassaƙi",
+     "Yana da shekara goma sha biyu, yana tambaya da amsawa a haikali",
+     "Daga baya aka ƙi shi a majami'ar garinsa"
+    ]
+   },
+   "jordan": {
+    "name": "Kogin Urdun",
+    "book": "Mattiyu 3–4",
+    "today": "ƙananan Urdun a yau",
+    "note": "Hidimarsa ta jama'a ta fara — sama ya tabbatar da shi a matsayin Ɗa.",
+    "events": [
+     "Yahaya ya yi masa baftisma",
+     "Ruhu ya sauko kamar kurciya — “Wannan ƙaunataccen Ɗana ne”",
+     "Ya ci nasara a kan jarrabai uku na Shaiɗan a jeji"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yohanna 2",
+    "today": "Kafr Kanna a yau",
+    "note": "A mu'ujizarsa ta farko ya bayyana ɗaukakarsa.",
+    "events": [
+     "Baƙo a wajen biki",
+     "Ruwa ya juya ya zama ruwan inabi — mu'ujizarsa ta farko",
+     "Almajiransa suka gaskata da shi"
+    ]
+   },
+   "sychar": {
+    "name": "Saichar (Samariya)",
+    "book": "Yohanna 2–4",
+    "today": "kusa da Nablus a yau",
+    "note": "Hanyar hidimar farko — ta Urushalima zuwa Samariya da aka raina.",
+    "events": [
+     "Ya tsabtace haikali a Urushalima",
+     "Da dare, Nikodimu — “Dole ne a sāke haifuwarka”",
+     "Ruwan rai ga mace Basamariya"
+    ]
+   },
+   "capernaum": {
+    "name": "Kafarnahum",
+    "book": "Mattiyu 4–13 · Markus 1–4",
+    "today": "bakin tafkin Galili a yau",
+    "note": "Cibiyar hidimar Galili — kira, koyarwa, da hamayya duk suka haɗu a nan.",
+    "events": [
+     "Ya kira masunta ya kuma maishe nan cibiyarsa",
+     "Hudubar bisa Dutse — “Masu albarka ne matalauta a ruhu”",
+     "Misalan mulki — da hamayya mai tasowa"
+    ]
+   },
+   "galilee": {
+    "name": "Tafkin Galili",
+    "book": "Markus 4 · 6 · Yohanna 6",
+    "today": "Tafkin Kinneret a yau",
+    "note": "Da iko a kan halitta ya nuna ko wane ne shi.",
+    "events": [
+     "“Yi shiru, ka natsu” — ya kwantar da hadari",
+     "Ya ciyar da dubu biyar da gurasa biyar da kifi biyu",
+     "Ya yi tafiya a kan ruwa"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisariya Filibi",
+    "book": "Mattiyu 16–17",
+    "today": "Banias a yau",
+    "note": "Almajirai suka fahimci shi ne Almasihu, hanyar gicciye kuwa ta buɗe.",
+    "events": [
+     "Furucin Bitrus — “Kai ne Almasihu, Ɗan Allah mai rai”",
+     "Ya fara annabta mutuwarsa da tashinsa",
+     "An sake kamanninsa cikin ɗaukaka a kan dutse"
+    ]
+   },
+   "jericho": {
+    "name": "Yariko",
+    "book": "Luka 18–19",
+    "today": "Yariko a yau",
+    "note": "A kan hanyar haurawa zuwa Urushalima, yana neman ɓatattu.",
+    "events": [
+     "Ya ba makaho Bartimawus gani",
+     "Ya kira Zakka mai karɓar haraji",
+     "“Ɗan Mutum ya zo ne domin ya nemo ya kuma ceci ɓatattu”"
+    ]
+   },
+   "bethany": {
+    "name": "Baitanya",
+    "book": "Yohanna 11–12",
+    "today": "al-Eizariya a yau",
+    "note": "Ya nuna iko a kan mutuwa jajiɓirin makonsa na ƙarshe.",
+    "events": [
+     "Ya tā da Li'azaru daga kabari — “Ni ne tashin matattu da rai”",
+     "Maryamu ta shafa masa man jana'iza",
+     "Wannan mu'ujiza ta ƙarfafa makircin kashe shi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Urushalima",
+    "book": "Mattiyu 21–28 · Luka 24 · Ayyukan Manzanni 1",
+    "today": "Urushalima a yau",
+    "note": "Ƙololuwar da dukan Littafi Mai Tsarki yake nuni gare ta — gicciye, tashin matattu, hawa sama.",
+    "events": [
+     "Shigowa cikin nasara; ya sāke kifar da tebura na haikali",
+     "A Jibin Ƙarshe ya wanke ƙafafun almajirai",
+     "Ya mutu a kan gicciye",
+     "Ya tashi a rana ta uku, sa'an nan ya hau sama"
+    ]
+   }
+  },
+  "labels": [
+   "Bahar Rum",
+   "Galili",
+   "Samariya",
+   "Yahudiya",
+   "Dekafolis",
+   "Bireya",
+   "Tekun Gishiri"
+  ],
+  "journeys": {
+   "life": "Hanyar Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antakiya",
+    "book": "Ayyukan Manzanni 13 · 15",
+    "today": "Antakya, Turkiya a yau",
+    "note": "Ikkilisiyar da take aikawa, inda hidimar Al'ummai ta fara take kuma komawa.",
+    "events": [
+     "Cikin addu'a Ruhu ya keɓe Barnaba da Shawulu",
+     "Ikkilisiyar da aka fara kiran masu bi ‘Kiristoci’",
+     "Wurin farawa na tafiye-tafiye na 1, 2 da 3"
+    ]
+   },
+   "seleucia": {
+    "name": "Selukiya",
+    "book": "Ayyukan Manzanni 13:4",
+    "today": "Turkiya a yau",
+    "note": "Tashar Antakiya — suka tashi zuwa Kubrus.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Kubrus)",
+    "book": "Ayyukan Manzanni 13:5",
+    "today": "Kubrus a yau",
+    "note": "Tasha ta farko a Kubrus — suna wa'azi a majami'u.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Bafusa",
+    "book": "Ayyukan Manzanni 13:6-12",
+    "today": "Kubrus a yau",
+    "note": "An nuna iko a kan masu hamayya da bishara.",
+    "events": [
+     "Elimas matsafi ya zama makaho",
+     "Sergiyus Bulus mai mulki ya gaskata",
+     "Daga nan ‘Bulus’ ya ɗauki jagoranci"
+    ]
+   },
+   "perga": {
+    "name": "Farga",
+    "book": "Ayyukan Manzanni 13:13",
+    "today": "Antalya, Turkiya a yau",
+    "note": "Tasha a Bamfiliya — a nan Yahaya Markus ya juya baya.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antakiyar Bisidiya",
+    "book": "Ayyukan Manzanni 13:14-50",
+    "today": "Yalvaç, Turkiya a yau",
+    "note": "Bishara ta buɗe wa Al'ummai.",
+    "events": [
+     "Doguwar hudubar tarihin ceto a majami'a",
+     "Al'ummai da yawa suka yi farin ciki suka karɓi maganar",
+     "An kore shi saboda hamayya"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniyum",
+    "book": "Ayyukan Manzanni 14:1-7",
+    "today": "Konya, Turkiya a yau",
+    "note": "Mutane da yawa suka gaskata, amma tsanani ya kore su gaba.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listira",
+    "book": "Ayyukan Manzanni 14:8-20",
+    "today": "Turkiya a yau",
+    "note": "An ɗauke shi a matsayin allah, sa'an nan aka jajjefe shi.",
+    "events": [
+     "Ya warkar da gurgu tun haihuwa",
+     "Taron mutane sun yi ƙoƙarin yi musu hadaya kamar alloli",
+     "An jajjefe shi aka bar shi kamar matacce, ya tashi"
+    ]
+   },
+   "derbe": {
+    "name": "Darbe",
+    "book": "Ayyukan Manzanni 14:20-21",
+    "today": "Turkiya a yau",
+    "note": "Almajirai da yawa aka samu; suka koma kan sawunsu don ƙarfafa ikkilisiyoyi.",
+    "events": []
+   },
+   "troas": {
+    "name": "Taruwasa",
+    "book": "Ayyukan Manzanni 16:8-10",
+    "today": "Turkiya a yau",
+    "note": "Mahawarar da bishara ta fara nufa Turai.",
+    "events": [
+     "Wahayin wani mutumin Makidoniya",
+     "“Ka ƙetaro zuwa nan ka taimake mu”",
+     "Nan da nan suka ƙetare zuwa Turai"
+    ]
+   },
+   "philippi": {
+    "name": "Filibi",
+    "book": "Ayyukan Manzanni 16 · Filibiyawa",
+    "today": "arewacin Girka a yau",
+    "note": "Ikkilisiya ta farko a Turai — bishara ta yi nasara har cikin kurkuku.",
+    "events": [
+     "Lidiya, mai sayar da shunayya, ta gaskata",
+     "An 'yantar da yarinya mai ruhun duba",
+     "Waƙoƙin tsakar dare, girgizar ƙasa, iyalin mai gadi suka sami ceto"
+    ]
+   },
+   "thess": {
+    "name": "Tasalonika",
+    "book": "Ayyukan Manzanni 17 · 1–2 Tasalonikawa",
+    "today": "Thessaloniki, Girka a yau",
+    "note": "Maganar ta girgiza birnin hamayya kuwa ta tashi.",
+    "events": [
+     "Ya yi muhawara a majami'a Asabar uku",
+     "“Waɗannan da suka juya duniya ƙasa-ƙasa”",
+     "Suka tsere da dare"
+    ]
+   },
+   "berea": {
+    "name": "Biriya",
+    "book": "Ayyukan Manzanni 17:10-15",
+    "today": "Veria, Girka a yau",
+    "note": "‘Masu hankali’ waɗanda suka bincika maganar da kansu.",
+    "events": [
+     "Suka karɓi maganar da marmari",
+     "Kowace rana suna binciken Littattafai don tabbatarwa",
+     "Da yawa suka gaskata"
+    ]
+   },
+   "athens": {
+    "name": "Atina",
+    "book": "Ayyukan Manzanni 17:16-34",
+    "today": "Athens, Girka a yau",
+    "note": "A birnin masu falsafa ya yi shelar ‘allah da ba a sani ba’.",
+    "events": [
+     "Birni cike da gumaka ya tunzura shi",
+     "A kan Areyofagus ya yi wa'azin Mahalicci da tashin matattu",
+     "An yi masa ba'a, duk da haka kaɗan suka gaskata"
+    ]
+   },
+   "corinth": {
+    "name": "Korinti",
+    "book": "Ayyukan Manzanni 18 · 1–2 Korintiyawa",
+    "today": "Girka a yau",
+    "note": "Ya zauna shekara ɗaya da rabi, yana kafa ikkilisiya a birni mai fasadi.",
+    "events": [
+     "Yana yin tanti tare da Akila da Birsila",
+     "“Kada ka ji tsoro… gama ina tare da kai”",
+     "Korintiyawa da yawa suka gaskata aka kuma yi musu baftisma"
+    ]
+   },
+   "ephesus": {
+    "name": "Afisa",
+    "book": "Ayyukan Manzanni 19 · Afisawa",
+    "today": "Selçuk, Turkiya a yau",
+    "note": "Zuciyar tafiya ta uku — maganar ta yaɗu cikin Asiya.",
+    "events": [
+     "Koyarwa kowace rana shekara biyu a zaurin Tiranus",
+     "An ƙone littattafan sihiri; ayyuka masu iko",
+     "Dimitiriyus maƙerin azurfa ya tā da hargitsi"
+    ]
+   },
+   "miletus": {
+    "name": "Militus",
+    "book": "Ayyukan Manzanni 20:17-38",
+    "today": "Turkiya a yau",
+    "note": "Bankwana mai hawaye da dattawan Afisa.",
+    "events": [
+     "“Ku lura da ikkilisiyar da ya saya da jininsa”",
+     "Dattawan suka yi kuka, da suka san ba za su ƙara ganinsa ba"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisariya",
+    "book": "Ayyukan Manzanni 23–26",
+    "today": "bakin tekun Isra'ila a yau",
+    "note": "Shekara biyu ya kāre bishara a gaban gwamnoni da sarki.",
+    "events": [
+     "Shari'u a gaban gwamnoni Felikus da Festus",
+     "Kāriyarsa a gaban Sarki Agaribas",
+     "“Ina ɗaukaka ƙara ga Kaisar” — zuwa Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Urushalima",
+    "book": "Ayyukan Manzanni 21–23",
+    "today": "Urushalima a yau",
+    "note": "An kama shi a haikali, hanyarsa a matsayin ɗan kurkuku ta fara.",
+    "events": [
+     "Taron mutane suka kama shi a haikali",
+     "Ya kāre kansa a gaban majalisa",
+     "A matsayin ɗan ƙasar Roma, an aike shi a tsare zuwa Kaisariya"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Ayyukan Manzanni 27:5-6",
+    "today": "Demre, Turkiya a yau",
+    "note": "Suka koma jirgin Iskandariya mai zuwa Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Tashoshi Masu Kyau (Karita)",
+    "book": "Ayyukan Manzanni 27:8-12",
+    "today": "Karita a yau",
+    "note": "Gargaɗin Bulus na a daina tafiya bai sami kunne ba.",
+    "events": []
+   },
+   "crete": {
+    "name": "Karita",
+    "book": "Titus",
+    "today": "Karita a yau",
+    "note": "Bayan an saki shi, tsibirin da ya bar Titus don ya gyara ikkilisiyoyi.",
+    "events": [
+     "Ya bar Titus ya naɗa dattawa a kowane gari",
+     "Ya nemi shugabanni marasa aibu, amintattu",
+     "Ya rubuta wasiƙa zuwa ga Titus"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Ayyukan Manzanni 27–28",
+    "today": "Malta a yau",
+    "note": "Cikin hadari da nutsewar jirgi, alkawarin Allah ya tabbata.",
+    "events": [
+     "‘Iskar arewa-maso-gabas’ ta farfasa jirgin, duk da haka dukan 276 suka tsira",
+     "Maciji ya sare shi, bai ji ciwo ba",
+     "Ya warkar da marasa lafiya na tsibirin"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakus",
+    "book": "Ayyukan Manzanni 28:12",
+    "today": "Sicily, Italiya a yau",
+    "note": "Suka zauna kwana uku a Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Futiyoli",
+    "book": "Ayyukan Manzanni 28:13-14",
+    "today": "Pozzuoli, Italiya a yau",
+    "note": "Suka sauka a Italiya 'yan'uwa masu bi suka kuwa tarbe su.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Ayyukan Manzanni 28 · Wasiƙun Kurkuku · 2 Timoti",
+    "today": "Roma, Italiya a yau",
+    "note": "A ƙarshe bishara ta isa zuciyar daular — ba ƙarshe ba ne sai dai farawa.",
+    "events": [
+     "Shekara biyu a tsare a gida, yana shelar mulki gabagaɗi",
+     "Daga nan ya rubuta Wasiƙun Kurkuku (Afisawa·Filibiyawa·Kolosiyawa·Filimon)",
+     "Daga baya an sāke ɗaure shi, ya rubuta 2 Timoti aka kuma kashe shi — “Na yi fama mai kyau, na gama tseren”"
+    ]
+   }
+  },
+  "labels": [
+   "Bahar Rum",
+   "Tekun Aegean",
+   "Asiya Ƙarama",
+   "Makidoniya",
+   "Italiya"
+  ],
+  "journeys": {
+   "j1": "Tafiya ta farko",
+   "j2": "Tafiya ta biyu",
+   "j3": "Tafiya ta uku",
+   "rome": "Tafiya ta huɗu · zuwa Roma",
+   "j5": "Tafiya ta biyar · bayan an saki"
+  }
+ }
+}

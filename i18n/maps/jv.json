@@ -1,0 +1,636 @@
+{
+ "menuName": "Basa Jawa",
+ "htmlLang": "jv",
+ "dir": "ltr",
+ "locale": "jv",
+ "brand": "Kitab Suci sajroning saklayar",
+ "docTitle": "Kitab Suci sarana Peta · Kitab Suci sajroning saklayar",
+ "metaDesc": "Tlusurana lakuning wektu Prajanjian Lawas, gesange Gusti Yesus, lan lelananane Paulus ing peta kang nyata — Kitab Suci kelakon ing papan-papan kang temenan ana.",
+ "s": {
+  "kicker": "Kitab Suci sajroning saklayar · Peta",
+  "title": "Kitab Suci sarana Peta",
+  "verse": "“Jalaran anggonku padha nyumurupake kowe bab panguwaos lan bakal rawuhe Gusti kita, Gusti Yesus Kristus kang jumeneng ratu, iku ora marga ngandel marang dongenge wong kang ora nyata, nanging aku kabeh iki padha dadi seksi ing bab kaluhurane.” (2 Petrus 1:16)",
+  "purpose": "Kitab Suci iku dudu dongeng. Iki cathetan bab para wong kang lumaku ing papan, tanggal, lan jeneng kang nyata. Tlusurana laku iku ing peta, manut urutaning wektu — tlapaken sawijining titik, utawa pencet ▶ kanggo mlaku saukara mbaka saukara.",
+  "ot_kick": "① Prajanjian Lawas — sadawaning wektu",
+  "ot_h": "Saka pandhapuk tekan bali menyang Yerusalem",
+  "ot_lead": "Dudu sawijining laku bae, nanging lakuning karahayon-sajarah wiwit pandhapuk: pandhapuk lan tibaning dosa → banjir lan Babel → timbalan (Abraham) → tanah prasetya → metu saka Mesir → ara-ara samun → ngrebut tanah → karajan → kapérang → pambuwangan → bali.",
+  "je_kick": "② Prajanjian Anyar — gesange Gusti Yesus",
+  "je_h": "Saka Betlehem tekan Yerusalem",
+  "je_lead": "Tutna gesange Gusti Yesus kaya kang dikandhakake Injil, manut urutane — saka miyose ing Betlehem lumantar baptis lan pakaryan ing Galilea, nyabrang Samaria, tumeka salib, patangen, sarta sumengkane ing Yerusalem.",
+  "pa_kick": "③ Prajanjian Anyar — lelananane Paulus",
+  "pa_h": "Saka Antiokhia tekan pungkasaning bumi — Roma",
+  "pa_lead": "Saka Pentakosta ing Yerusalem, kepriye Injil sumebar ngluwihi Yudea — lumantar Asia Cilik lan Eropah tumeka pusering karajan. Pilihen siji saka limang laku (1·2·3 + laku menyang Roma + sawise dibebasake) lan tutna kedadeyan ing Lelakone Para Rasul bareng karo layang-layang kang katulis ing dalan.",
+  "foot": "Sumber · Papan-papan manut teks Kitab Suci lan geografi Kitab Suci kang baku (kanthi jeneng modern yen mbiyantu). Pesisir, kali, lan tlaga digambar saka data geografi kang kabuka (Natural Earth), kasederhanakake.",
+  "contact": "Pitakon · panyaruwe — <a id=\"contact\" class=\"mail\">Kintun email</a>",
+  "play": "Puter",
+  "pause": "Lèrèn",
+  "today": "Saiki:",
+  "verseCite": "2 Petrus 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Pandhapuk · Tibaning dosa)",
+    "book": "Purwaning Dumadi 1–3",
+    "today": "wewengkon Tigris–Efrat ing wektu iki",
+    "note": "Ing jagad kang katitahake “becik banget”, dosa lumebu lan medhotake sesambungan antarane Gusti Allah karo manungsa.",
+    "events": [
+     "Pandhapuk nem dina — “becik banget”",
+     "Manungsa katitahake manut citrane Gusti Allah",
+     "Tibaning dosa, lan katundhung saka Eden",
+     "Prasetya Injil kang kapisan — “turune wong wadon bakal ngremuk endhase ula”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Banjir)",
+    "book": "Purwaning Dumadi 6–9",
+    "today": "Gunung Ararat, Türkiye sisih wetan ing wektu iki",
+    "note": "Gusti Allah ngadili jagad kang kebak dosa, nanging ngreksa panguripan lumantar sawijining kulawarga.",
+    "events": [
+     "Jagad kang kebak karusakan",
+     "Banjir, lan prau Nuh",
+     "Prajanjian kuwung — “ora bakal ana banjir maneh kang ngrusak”"
+    ]
+   },
+   "babel": {
+    "name": "Menara Babel",
+    "book": "Purwaning Dumadi 11",
+    "today": "Irak ing wektu iki (tanah Sinear)",
+    "note": "Marang kumalungkung kang kepengin gayuh langit, Gusti Allah ngisruhi basane lan nyebar para bangsa ing salumahing bumi.",
+    "events": [
+     "“Payo padha ngedegake kutha lan menara… supaya kita kondhang”",
+     "Gusti Allah ngisruhi basane",
+     "Para bangsa kasebar ing salumahing bumi (Sinear — ing tembe Babel)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Purwaning Dumadi 12",
+    "today": "Irak kidul ing wektu iki",
+    "note": "Crita karahayon ing Kitab Suci kawiwitan kanthi timbalane wong siji.",
+    "events": [
+     "Gusti Allah nimbali Abram metu saka Ur-Kasdim",
+     "“Sira bakal Sundadekake bangsa kang gedhe… kabeh bangsa binerkahan lumantar sira”",
+     "Marga iman dheweke ninggalake nagarane"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Purwaning Dumadi 12",
+    "today": "Türkiye kidul ing wektu iki",
+    "note": "Ing dalan, nyembadani timbalan tumuju tanah prasetya.",
+    "events": [
+     "Kulawargane Terah manggon ing Haran",
+     "Terah seda",
+     "Abram budhal menyang Kanaan nalika yuswa 75 taun"
+    ]
+   },
+   "shechem": {
+    "name": "Sikhem · Kanaan",
+    "book": "Purwaning Dumadi 12–50",
+    "today": "Nablus ing wektu iki",
+    "note": "Ing tanah prasetya sawijining kulawarga kadhapuk lan prajanjian katerusake turun-tumurun.",
+    "events": [
+     "Lumebu ing Kanaan, misbyah kapisan — “tanah iki bakal Sunparingake marang turunira”",
+     "Prajanjian (Pd 15) · Iskak · Yakub",
+     "Putrane Yakub rolas — oyoding taler rolas"
+    ]
+   },
+   "egypt": {
+    "name": "Mesir (Gosèn)",
+    "book": "Purwaning Dumadi 37–50 · Pangentasan 1",
+    "today": "Delta Nil, Mesir ing wektu iki",
+    "note": "Sawijining kulawarga dadi bangsa kang gedhe — banjur dadi bangsa batur tukon.",
+    "events": [
+     "Yusuf, kang diedol, munggah ngratoni Mesir",
+     "Sakabehing kulawargane Yakub mudhun supaya luput saka pailan",
+     "Bangsa Israel kang saya akeh kadadekake batur tukon"
+    ]
+   },
+   "sinai": {
+    "name": "Gunung Sinai",
+    "book": "Pangentasan · Kaimaman",
+    "today": "Tanjung Sinai ing wektu iki",
+    "note": "Pitulungan kang baku ing PL — batur tukon dadi umate Gusti Allah piyambak.",
+    "events": [
+     "Wewelak sepuluh lan cempe Paskah",
+     "Sagara Abang piyak lan padha nyabrang",
+     "Pepakon Sepuluh, Toret, tarub suci, lan korban-korban"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesh (ara-ara samun)",
+    "book": "Wilangan · Pangandharing Toret",
+    "today": "ara-ara samun Sinai–Negeb ing wektu iki",
+    "note": "Pambangkang njalari saturunan kelangan tanah iku — nanging Gusti Allah tetep nunggil karo wong-wong mau.",
+    "events": [
+     "Telik rolas — nanging bangsane emoh pracaya",
+     "38 taun ing ara-ara samun — manna, tugu mega lan geni",
+     "Ing ara-ara Moab, kotbah pungkasane Musa (Pangandharing Toret)"
+    ]
+   },
+   "jericho": {
+    "name": "Yerikho",
+    "book": "Yusak",
+    "today": "Yerikho ing wektu iki",
+    "note": "Wekasane padha lumebu lan ngrebut tanah prasetya.",
+    "events": [
+     "Bengawan Yarden piyak lan bangsane nyabrang",
+     "Tembok Yerikho rubuh",
+     "Ngrebut Kanaan lan ngedum tanahe"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Para Hakim)",
+    "book": "Para Hakim · Rut",
+    "today": "Khirbet Seilun ing wektu iki",
+    "note": "Tanpa ratu, saben wong nindakake sakarepe dhewe — butuh ratu kang sajati.",
+    "events": [
+     "Tarub suci kapasang ing Silo",
+     "Bunderan dosa–panindhes–pitulungan (Dhebora, Gidheon, Simson)",
+     "Rut — kasetyan ing jaman peteng, ing sarasilahe Dawud"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem · Karajan Manunggal",
+    "book": "1–2 Samuel · 1 Para Raja",
+    "today": "Yerusalem ing wektu iki",
+    "note": "Jaman kencanane Israel — lan prasetyaning ratu kang langgeng.",
+    "events": [
+     "Saul ratu kapisan, banjur Dawud lan Goliat",
+     "Prajanjian karo Dawud — “dhamparira ing salawas-lawase” (2 Sam 7)",
+     "Suleman ngedegake Padaleman Suci ing Yerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Karajan Kapérang",
+    "book": "Para Raja · para Nabi",
+    "today": "Sebastia ing wektu iki",
+    "note": "Karajane kapérang lan mundur nalika para nabi nguwuh-uwuh.",
+    "events": [
+     "Sawise Suleman, kapérang dadi Yehuda lan Israel",
+     "Panyembahing brahala kang dibaleni",
+     "Elia, Yesaya, Yeremia nguwuh ‘muliha’ — lan medharake Sang Mesih"
+    ]
+   },
+   "nineveh": {
+    "name": "Niniwe (Asyur)",
+    "book": "2 Para Raja 17 · Yunus",
+    "today": "Mosul, Irak ing wektu iki",
+    "note": "Ngabaikake saben pepeling, karajan lor rubuh luwih dhisik.",
+    "events": [
+     "Niniwe, ibukuthane Asyur",
+     "Karajan lor rubuh dening Asyur (722 SM)",
+     "Yunus kautus menyang Niniwe"
+    ]
+   },
+   "babylon": {
+    "name": "Babel",
+    "book": "2 Para Raja 25 · Daniel · Yeheskiel",
+    "today": "Hillah, Irak ing wektu iki",
+    "note": "Bengi kang paling peteng — nanging prasetya pamulihan tetep ana.",
+    "events": [
+     "Yerusalem rubuh, Padaleman Suci kobong (586 SM)",
+     "Yehuda kabuwang menyang Babel",
+     "Dhaniel lan Yeheskiel — iman lan wahyu ing pambuwangan"
+    ]
+   },
+   "susa": {
+    "name": "Susan (Persia)",
+    "book": "Ester · Nehemya",
+    "today": "Shush, Iran ing wektu iki",
+    "note": "Malah ing pusering karajan kapir, Gusti Allah ngreksa umate.",
+    "events": [
+     "Persia ngrebut Babel",
+     "Ester nylametake wong Yahudi saka karusakan",
+     "Nehemya ndedonga ing ngarsane ratu lan banjur kautus"
+    ]
+   },
+   "return": {
+    "name": "Bali menyang Yerusalem",
+    "book": "Ezra · Nehemya · Maleakhi",
+    "today": "Yerusalem ing wektu iki",
+    "note": "Padha bali lan mbangun maneh — nanging ora ana ratu kang teka. Padha nganti-anti Sang Mesih.",
+    "events": [
+     "Telung gelombang pamulihan marga dhawuhe Korèsy (Zerubabel 538 · Ezra 458 · Nehemya 444)",
+     "Padaleman Suci dibangun maneh lan tembok Yerusalem dipulihake",
+     "Maleakhi — PL ditutup: “Ingsun nglampahake utusaningSun”"
+    ]
+   }
+  },
+  "labels": [
+   "Sagara Tengah",
+   "Mesopotamia",
+   "Ara-ara Samun Arab",
+   "Mesir"
+  ],
+  "journeys": {
+   "flow": "Crita karahayon"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mateus 1–2 · Lukas 2",
+    "today": "Betlehem ing wektu iki",
+    "note": "Sang Mesih kang kaprasetyakake rawuh ing kuthane Dawud — Sang Sabda kang dadi daging.",
+    "events": [
+     "Miyos ing Betlehem, kuthane Dawud",
+     "Para malaekat martakake pawarta iku marang para pangon",
+     "Para Majus rawuh ngabekti"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lukas 2 · 4",
+    "today": "Nazaret ing wektu iki",
+    "note": "Gusti Allah tuwuh dadi manungsa ing sawijining kutha kang lumrah.",
+    "events": [
+     "Diopeni ing omahe sawijining tukang kayu",
+     "Nalika yuswa rolas, takon lan mangsuli ing Padaleman Suci",
+     "Sabanjure katampik ing sinagoge ing kutha asale"
+    ]
+   },
+   "jordan": {
+    "name": "Bengawan Yarden",
+    "book": "Mateus 3–4",
+    "today": "Yarden ngisor ing wektu iki",
+    "note": "Pakaryane ing ngarsaning akeh diwiwiti — swarga ngecap Panjenengane minangka Sang Putra.",
+    "events": [
+     "Kabaptis dening Yokanan",
+     "Sang Roh tumedhak kaya manuk dara — “Iki PutraningSun kang Sunkasihi”",
+     "Ngalahake telung panggodhane Iblis ing ara-ara samun"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yokanan 2",
+    "today": "Kafr Kanna ing wektu iki",
+    "note": "Ing mukjijate kang kapisan Panjenengane nedahake kamulyane.",
+    "events": [
+     "Dadi tamu ing sawijining pista mantenan",
+     "Banyu kasalin dadi anggur — mukjijate kang kapisan",
+     "Para sakabate padha pracaya marang Panjenengane"
+    ]
+   },
+   "sychar": {
+    "name": "Sikhar (Samaria)",
+    "book": "Yokanan 2–4",
+    "today": "cedhak Nablus ing wektu iki",
+    "note": "Dalan pakaryan wiwitan — lumantar Yerusalem lan terus menyang Samaria kang disepelekake.",
+    "events": [
+     "Panjenengane nyucekake Padaleman Suci ing Yerusalem",
+     "Ing wayah bengi, Nikodhemus — “Kowe kudu kalairake maneh”",
+     "Banyu panguripan kanggo sawijining wong wadon Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapèrnaum",
+    "book": "Mateus 4–13 · Markus 1–4",
+    "today": "pinggir tlaga Galilea ing wektu iki",
+    "note": "Pangkalaning pakaryan ing Galilea — timbalan, piwulang, lan panentang kabeh ketemu ing kene.",
+    "events": [
+     "Nimbali para juru amek iwak lan ndadekake kene pangkalane",
+     "Kotbah ing Gunung — “Rahayu wong kang mlarat ing budi”",
+     "Pasemon-pasemon bab Kraton — lan panentang kang saya rosa"
+    ]
+   },
+   "galilee": {
+    "name": "Tlaga Galilea",
+    "book": "Markus 4 · 6 · Yokanan 6",
+    "today": "Tlaga Kineret ing wektu iki",
+    "note": "Kanthi pangwasa marang alam Panjenengane nedahake sapa sajatine.",
+    "events": [
+     "“Menenga, sidhema!” — Panjenengane nyerepake prahara",
+     "Maringi mangan wong 5.000 nganggo roti lima lan iwak loro",
+     "Tindak ing sandhuwure banyu"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisarea Filipi",
+    "book": "Mateus 16–17",
+    "today": "Banias ing wektu iki",
+    "note": "Para sakabat ngrumangsani yen Panjenengane Sang Kristus, lan dalaning salib mbukak.",
+    "events": [
+     "Pangakune Petrus — “Paduka punika Sang Mesih, Putranipun Allah ingkang gesang”",
+     "Sapisanan Panjenengane medharake sedane lan patangene",
+     "Salin rupa kanthi kamulyan ana ing gunung"
+    ]
+   },
+   "jericho": {
+    "name": "Yerikho",
+    "book": "Lukas 18–19",
+    "today": "Yerikho ing wektu iki",
+    "note": "Ing dalan munggah menyang Yerusalem, Panjenengane nggoleki kang ilang.",
+    "events": [
+     "Panjenengane ndadekake Bartimeus kang wuta bisa ndeleng",
+     "Panjenengane nimbali Zakheus si juru mupu beya",
+     "“Putraning Manungsa rawuh nggoleki lan nylametake kang ilang”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Yokanan 11–12",
+    "today": "al-Eizariya ing wektu iki",
+    "note": "Panjenengane nedahake pangwasa marang pati ngarepake minggu pungkasane.",
+    "events": [
+     "Panjenengane nangekake Lazarus saka kubur — “Aku iki patangen lan urip”",
+     "Maria njebadi Panjenengane kanggo panguburane",
+     "Mukjijat iki saya ngrosakake rancangan arep mateni Panjenengane"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem",
+    "book": "Mateus 21–28 · Lukas 24 · Lelakone Para Rasul 1",
+    "today": "Yerusalem ing wektu iki",
+    "note": "Puncak kang dituding dening sakabehing Kitab Suci — salib, patangen, sumengka.",
+    "events": [
+     "Lumebu kanthi kamenangan; Panjenengane mbalikake meja-meja ing Padaleman Suci maneh",
+     "Ing Bujana Pungkasan Panjenengane ngwijiki sikile para sakabat",
+     "Panjenengane seda ana ing salib",
+     "Wungu ing dina katelu, banjur sumengka"
+    ]
+   }
+  },
+  "labels": [
+   "Sagara Tengah",
+   "Galilea",
+   "Samaria",
+   "Yudea",
+   "Dekapolis",
+   "Perea",
+   "Sagara Pati"
+  ],
+  "journeys": {
+   "life": "Lakune Gusti Yesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokhia",
+    "book": "Lelakone Para Rasul 13 · 15",
+    "today": "Antakya, Türkiye ing wektu iki",
+    "note": "Pasamuwan pangutus, papan misi marang bangsa-bangsa liya diwiwiti lan dibaleni.",
+    "events": [
+     "Ing pandonga Sang Roh misahake Barnabas lan Saulus",
+     "Pasamuwan papan para murid sapisanan kasebut ‘Kristen’",
+     "Titik wiwitaning laku kapisan, kapindho, lan katelu"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Lelakone Para Rasul 13:4",
+    "today": "Türkiye ing wektu iki",
+    "note": "Plabuhane Antiokhia — padha layar menyang Siprus.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Siprus)",
+    "book": "Lelakone Para Rasul 13:5",
+    "today": "Siprus ing wektu iki",
+    "note": "Mandheg kapisan ing Siprus — martakake pangandika ing papan-papan pangibadah.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Lelakone Para Rasul 13:6-12",
+    "today": "Siprus ing wektu iki",
+    "note": "Pangwasa kanyatakake marang wong kang nentang Injil.",
+    "events": [
+     "Elimas si tukang sihir dadi wuta",
+     "Sergius Paulus, sang gubernur, dadi pracaya",
+     "Wiwit ing kene ‘Paulus’ kang mimpin"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Lelakone Para Rasul 13:13",
+    "today": "Antalya, Türkiye ing wektu iki",
+    "note": "Plabuhan ing Pamfilia — ing kene Yokanan Markus mulih bali.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokhia ing Pisidia",
+    "book": "Lelakone Para Rasul 13:14-50",
+    "today": "Yalvaç, Türkiye ing wektu iki",
+    "note": "Injil mbukak amba tumuju marang bangsa-bangsa liya.",
+    "events": [
+     "Kotbah dawa bab sajarah karahayon ing papan pangibadah",
+     "Akeh wong bangsa liya bungah lan nampani pangandika",
+     "Katundhung dening panentang"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonium",
+    "book": "Lelakone Para Rasul 14:1-7",
+    "today": "Konya, Türkiye ing wektu iki",
+    "note": "Akeh kang pracaya, nanging panganiaya meksa padha lunga.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Lelakone Para Rasul 14:8-20",
+    "today": "Türkiye ing wektu iki",
+    "note": "Diluhurake kaya dewa, banjur dibandhemi watu.",
+    "events": [
+     "Marasake wong kang lumpuh wiwit lair",
+     "Wong akeh arep saos korban marang dheweke kaya marang dewa",
+     "Dibandhemi watu lan ditinggal kaya wis mati, nanging tangi"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Lelakone Para Rasul 14:20-21",
+    "today": "Türkiye ing wektu iki",
+    "note": "Akeh murid kadadekake; padha bali nlusuri laku kanggo nyantosakake pasamuwan.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Lelakone Para Rasul 16:8-10",
+    "today": "Türkiye ing wektu iki",
+    "note": "Titik owahan, papan Injil kang sapisanan tumuju Eropah.",
+    "events": [
+     "Wahyu bab sawijining wong Makedonia",
+     "“Nyabranga mrene lan tulungana aku”",
+     "Padha sanalika nyabrang menyang Eropah"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Lelakone Para Rasul 16 · Filipi",
+    "today": "Yunani lor ing wektu iki",
+    "note": "Pasamuwan kapisan ing Eropah — Injil menang malah ing pakunjaran.",
+    "events": [
+     "Lidia, bakul kain wungu, dadi pracaya",
+     "Sawijining batur wadon tukang ramal dimerdikakake",
+     "Kidung tengah wengi, lindhu, lan saisining omahe juru kunci kapitulungan"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Lelakone Para Rasul 17 · 1–2 Tesalonika",
+    "today": "Thessaloniki, Yunani ing wektu iki",
+    "note": "Pangandika ngoregake kutha lan panentang nggodhog.",
+    "events": [
+     "Ngandhakake ing papan pangibadah telung dina Sabat",
+     "“Wong-wong kang njungkir-balikake sajagad”",
+     "Padha lunga meneng-meneng ing wayah bengi"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Lelakone Para Rasul 17:10-15",
+    "today": "Veria, Yunani ing wektu iki",
+    "note": "Wong-wong kang ‘luhur bebudène’ kang nitipriksa pangandika dhewe.",
+    "events": [
+     "Padha nampani pangandika kanthi legawa",
+     "Saben dina padha nitipriksa Kitab Suci kanggo ngyakinake",
+     "Akeh kang dadi pracaya"
+    ]
+   },
+   "athens": {
+    "name": "Atena",
+    "book": "Lelakone Para Rasul 17:16-34",
+    "today": "Athena, Yunani ing wektu iki",
+    "note": "Ing kuthane para filsuf dheweke martakake ‘allah kang ora kasumurupan’.",
+    "events": [
+     "Trenyuh dening kutha kang kebak brahala",
+     "Ing Areopagus dheweke martakake Sang Pancipta lan patangen",
+     "Diece, nanging ana sawetara kang pracaya"
+    ]
+   },
+   "corinth": {
+    "name": "Korinta",
+    "book": "Lelakone Para Rasul 18 · 1–2 Korinta",
+    "today": "Yunani ing wektu iki",
+    "note": "Dheweke manggon setaun setengah, ngedegake pasamuwan ing kutha kang kebak duraka.",
+    "events": [
+     "Gawe tarub bareng Akwila lan Priskila",
+     "“Aja wedi… amarga Aku nunggil karo kowe”",
+     "Akeh wong Korinta pracaya lan kabaptis"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesus",
+    "book": "Lelakone Para Rasul 19 · Efesus",
+    "today": "Selçuk, Türkiye ing wektu iki",
+    "note": "Pusering laku katelu — pangandika sumebar tumeka saindenging Asia.",
+    "events": [
+     "Mulang saben dina rong taun ing balene Tiranus",
+     "Buku-buku sihir kaobong; pakaryan kang kebak pangwasa",
+     "Demetrius si tukang slaka njalari rusuh"
+    ]
+   },
+   "miletus": {
+    "name": "Miletus",
+    "book": "Lelakone Para Rasul 20:17-38",
+    "today": "Türkiye ing wektu iki",
+    "note": "Pamitan kanthi luh karo para pinituwane Efesus.",
+    "events": [
+     "“Ngengonana pasamuwan kang katuku kalawan rahe piyambak”",
+     "Para pinituwa padha nangis, ngerti yen ora bakal weruh dheweke maneh"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisarea",
+    "book": "Lelakone Para Rasul 23–26",
+    "today": "pesisir Israel ing wektu iki",
+    "note": "Sajrone rong taun dheweke mbelani Injil ing ngarsane para gubernur lan sawijining ratu.",
+    "events": [
+     "Diadili ing ngarsane gubernur Feliks lan Festus",
+     "Pambelane ing ngarsane Raja Agripa",
+     "“Aku njaluk dipriksa ing ngarsane Kaisar” — tumuju Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem",
+    "book": "Lelakone Para Rasul 21–23",
+    "today": "Yerusalem ing wektu iki",
+    "note": "Kacekel ing Padaleman Suci, dalane minangka wong tahanan diwiwiti.",
+    "events": [
+     "Kacekel dening wong akeh ing Padaleman Suci",
+     "Mbelani awake ing ngarsane Pradata Agama",
+     "Minangka warga Roma, kakirim kanthi pangawal menyang Kaisarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Lelakone Para Rasul 27:5-6",
+    "today": "Demre, Türkiye ing wektu iki",
+    "note": "Padha pindhah menyang kapal Aleksandria kang tumuju Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Plabuhan Becik (Kreta)",
+    "book": "Lelakone Para Rasul 27:8-12",
+    "today": "Kreta ing wektu iki",
+    "note": "Pepelinge Paulus supaya mandheg layar ora digugu.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Titus",
+    "today": "Kreta ing wektu iki",
+    "note": "Sawise dibebasake, pulo papan dheweke ninggal Titus kanggo nata pasamuwan.",
+    "events": [
+     "Ninggal Titus kanggo netepake para pinituwa ing saben kutha",
+     "Nguwuh para pamimpin kang tanpa cacad lan setya",
+     "Nulis layang marang Titus"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Lelakone Para Rasul 27–28",
+    "today": "Malta ing wektu iki",
+    "note": "Lumantar prahara lan karame kapal, prasetyane Gusti Allah tetep ditetepi.",
+    "events": [
+     "Angin ‘lor-wetan’ ngrusak kapal, nanging wong 276 kabeh slamet",
+     "Dicokot ula mandi, dheweke ora ana apa-apa",
+     "Dheweke marasake wong-wong kang lara ing pulo iku"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusa",
+    "book": "Lelakone Para Rasul 28:12",
+    "today": "Sisilia, Itali ing wektu iki",
+    "note": "Padha manggon telung dina ing Sisilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Putioli",
+    "book": "Lelakone Para Rasul 28:13-14",
+    "today": "Pozzuoli, Itali ing wektu iki",
+    "note": "Padha tekan ing Itali lan ditampani dening sapadha wong pracaya.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Lelakone Para Rasul 28 · Layang-layang Pakunjaran · 2 Timoteus",
+    "today": "Roma, Itali ing wektu iki",
+    "note": "Injil wekasane tumeka pusering karajan — dudu pungkasan nanging wiwitan.",
+    "events": [
+     "Rong taun ing tahanan omah, kanthi kendel martakake Kratoning Allah",
+     "Saka kene dheweke nulis Layang-layang Pakunjaran (Ef·Flp·Kol·Flm)",
+     "Sabanjure kakunjara maneh, nulis 2 Timoteus lan dadi martir — “Aku wis ngrampungake yudane kang becik, wis tutug enggonku lumayu”"
+    ]
+   }
+  },
+  "labels": [
+   "Sagara Tengah",
+   "Sagara Aegea",
+   "Asia Cilik",
+   "Makedonia",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Laku kapisan",
+   "j2": "Laku kapindho",
+   "j3": "Laku katelu",
+   "rome": "Laku kaping pat · menyang Roma",
+   "j5": "Laku kaping lima · sawise dibebasake"
+  }
+ }
+}

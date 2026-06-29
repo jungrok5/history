@@ -1,0 +1,636 @@
+{
+ "menuName": "Ikinyarwanda",
+ "htmlLang": "rw",
+ "dir": "ltr",
+ "locale": "rw",
+ "brand": "Bibiliya muri rumwe",
+ "docTitle": "Bibiliya ku ikarita · Bibiliya muri rumwe",
+ "metaDesc": "Kurikira urutonde rw'ibihe by'Isezerano rya Kera, ubugingo bwa Yesu, n'ingendo za Pawulo ku ikarita nyayo — Bibiliya yabereye mu hantu nyakuri.",
+ "s": {
+  "kicker": "Bibiliya muri rumwe · Amakarita",
+  "title": "Bibiliya ku ikarita",
+  "verse": "“Burya ntitwakurikije imigani yahimbwe n'ubwenge, ubwo twabamenyeshaga imbaraga z'Umwami wacu Yesu Kristo no kuzaza kwe, ahubwo twiboneye n'amaso yacu icyubahiro cye gikomeye,” (2 Petero 1:16)",
+  "purpose": "Bibiliya si umugani. Ni inyandiko y'abantu bagendeye mu hantu, ku matariki, n'amazina nyabyo. Kurikira izo nzira ku ikarita, mu rutonde rw'ibihe — kanda ku kadomo, cyangwa ukande ▶ kugira ngo ubinyuremo intambwe ku yindi.",
+  "ot_kick": "① Isezerano rya Kera — mu rugendo rw'ibihe",
+  "ot_h": "Kuva ku iremwa kugeza ku kugaruka i Yerusalemu",
+  "ot_lead": "Si urugendo rumwe ahubwo ni umuyoboro w'amateka y'agakiza uhereye ku iremwa: iremwa no kugwa → umwuzure na Babeli → guhamagara (Aburahamu) → igihugu cy'isezerano → Kuva muri Egiputa → ubutayu → kwigarurira igihugu → ubwami → kugabanuka → ubunyage → kugaruka.",
+  "je_kick": "② Isezerano Rishya — ubugingo bwa Yesu",
+  "je_h": "Kuva i Betelehemu kugeza i Yerusalemu",
+  "je_lead": "Kurikira ubugingo bwa Yesu nk'uko Amavanjiri abuvuga, mu rutonde — uhereye ku kuvuka kwe i Betelehemu, unyuze ku kubatizwa kwe n'umurimo wo i Galilaya, wambuka Samariya, ugeze ku musaraba, ku kuzuka no ku kuzamuka i Yerusalemu.",
+  "pa_kick": "③ Isezerano Rishya — ingendo za Pawulo",
+  "pa_h": "Kuva i Antiyokiya kugeza ku mpera y'isi — i Roma",
+  "pa_lead": "Uhereye kuri Pentekote i Yerusalemu, uko ubutumwa bwiza bwakwiriye butarengeje Yudaya gusa — bunyura muri Aziya Ntoya n'i Burayi bugera mu mutima w'ingoma. Toranya rumwe mu ngendo eshanu (iya 1·iya 2·iya 3 + urugendo rwo i Roma + nyuma yo gufungurwa) maze ukurikire ibyabaye mu Byakozwe hamwe n'amabaruwa yanditswe mu nzira.",
+  "foot": "Inkomoko · Ahantu hakurikiza umwandiko wa Bibiliya na geografiya isanzwe ya Bibiliya (hamwe n'amazina ya none aho bifasha). Inkombe z'inyanja, imigezi n'ibiyaga byashushanyijwe bishingiye ku makuru ya geografiya afunguye (Natural Earth), yoroheje.",
+  "contact": "Ibibazo · ibitekerezo — <a id=\"contact\" class=\"mail\">Twandikire</a>",
+  "play": "Kina",
+  "pause": "Hagarika",
+  "today": "Uyu munsi:",
+  "verseCite": "2 Petero 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edeni (Iremwa · Kugwa)",
+    "book": "Itangiriro 1–3",
+    "today": "akarere ka Tigirisi–Ufurate uyu munsi",
+    "note": "Mu isi yaremwe iri “nziza cyane,” icyaha cyinjira gicika isano hagati y'Imana n'umuntu.",
+    "events": [
+     "Iremwa mu minsi itandatu — “biraba byiza”",
+     "Umuntu waremwe mu ishusho y'Imana",
+     "Kugwa, no kwirukanwa muri Edeni",
+     "Isezerano rya mbere ry'ubutumwa bwiza — “urubyaro rw'umugore ruzakomeretsa umutwe w'inzoka”"
+    ]
+   },
+   "noah": {
+    "name": "Ararati (Umwuzure)",
+    "book": "Itangiriro 6–9",
+    "today": "Umusozi Ararati, mu burasirazuba bwa Turukiya uyu munsi",
+    "note": "Imana ica urubanza isi yuzuyemo icyaha, nyamara igakiza ubugingo binyuze ku muryango umwe.",
+    "events": [
+     "Isi yuzuyemo ubwononnyi",
+     "Umwuzure, n'inkuge ya Nowa",
+     "Isezerano ry'umukororombya — “nta mwuzure uzongera kurimbura”"
+    ]
+   },
+   "babel": {
+    "name": "Umunara wa Babeli",
+    "book": "Itangiriro 11",
+    "today": "Iraki uyu munsi (ikibaya cya Shinari)",
+    "note": "Imbere y'ubwibone bushaka kugera mu ijuru, Imana ivanga ururimi rwabo igatataniriza abantu mu isi.",
+    "events": [
+     "“Nimuze twubake umugi n'umunara… twihangire izina”",
+     "Imana ivanga ururimi rwabo",
+     "Abantu batatanira mu isi (Shinari — waje kuba Babuloni)"
+    ]
+   },
+   "ur": {
+    "name": "Uri",
+    "book": "Itangiriro 12",
+    "today": "amajyepfo ya Iraki uyu munsi",
+    "note": "Inkuru y'agakiza ya Bibiliya itangirira ku guhamagara umuntu umwe.",
+    "events": [
+     "Imana ihamagara Aburamu imukura i Uri rw'Abakaludaya",
+     "“Nzaguhindura ubwoko bukomeye… imiryango yose izaherwa umugisha muri wowe”",
+     "Ku bwo kwizera ava mu gihugu cye"
+    ]
+   },
+   "haran": {
+    "name": "Harani",
+    "book": "Itangiriro 12",
+    "today": "amajyepfo ya Turukiya uyu munsi",
+    "note": "Mu nzira, asubiza ku ihamagara yerekeza ku gihugu cy'isezerano.",
+    "events": [
+     "Umuryango wa Tera utura i Harani",
+     "Tera arapfa",
+     "Aburamu yerekeza i Kanani afite imyaka 75"
+    ]
+   },
+   "shechem": {
+    "name": "Shekemu · Kanani",
+    "book": "Itangiriro 12–50",
+    "today": "Nabulusi uyu munsi",
+    "note": "Mu gihugu cy'isezerano hashingwa umuryango maze isezerano rikomeza ku bisekuruza.",
+    "events": [
+     "Kwinjira i Kanani, igicaniro cya mbere — “iki gihugu nzagiha urubyaro rwawe”",
+     "Isezerano (Itangiriro 15) · Isaka · Yakobo",
+     "Abahungu cumi na babiri ba Yakobo — umuzi w'imiryango cumi n'ibiri"
+    ]
+   },
+   "egypt": {
+    "name": "Egiputa (Gosheni)",
+    "book": "Itangiriro 37–50 · Kuva 1",
+    "today": "Delta ya Nili, Egiputa uyu munsi",
+    "note": "Umuryango uba ubwoko bukomeye — hanyuma ubwoko bw'imbohe.",
+    "events": [
+     "Yozefu, wagurishijwe, aba umutware muri Egiputa",
+     "Umuryango wose wa Yakobo umanuka uhunga inzara",
+     "Ubwoko bwa Isirayeli bwiyongera bugirwa imbohe"
+    ]
+   },
+   "sinai": {
+    "name": "Umusozi Sinayi",
+    "book": "Kuva · Abalewi",
+    "today": "Igice cy'igihugu cya Sinayi uyu munsi",
+    "note": "Agakiza gakomeye cyane mu Isezerano rya Kera — imbohe ziba ubwoko bw'Imana.",
+    "events": [
+     "Ibyago cumi n'umwana w'intama wa Pasika",
+     "Inyanja Itukura iratandukana baranyura",
+     "Amategeko Icumi, Amategeko, ihema ry'ibonaniro n'ibitambo"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeshi (ubutayu)",
+    "book": "Kubara · Gutegeka kwa Kabiri",
+    "today": "ubutayu bwa Sinayi–Negebu uyu munsi",
+    "note": "Kutizera gutuma igisekuru gitakaza igihugu — nyamara Imana ikomeza kuba kumwe na bo.",
+    "events": [
+     "Abatasi cumi na babiri — ariko ubwoko bwanga kwizera",
+     "Imyaka 38 mu butayu — umugati wo mu ijuru, igicu n'umuriro",
+     "Ku ikibaya cya Mowabu, ijambo rya nyuma rya Mose (Gutegeka kwa Kabiri)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Yosuwa",
+    "today": "Yeriko uyu munsi",
+    "note": "Amaherezo binjira bakigarurira igihugu cy'isezerano.",
+    "events": [
+     "Uruzi rwa Yorodani rutandukana ubwoko buranyura",
+     "Inkike za Yeriko zirahirima",
+     "Kwigarurira Kanani no kugabana igihugu"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Abacamanza)",
+    "book": "Abacamanza · Rusi",
+    "today": "Khirbet Seilun uyu munsi",
+    "note": "Nta mwami, umuntu wese akora uko ashaka — umwami nyakuri arakenewe.",
+    "events": [
+     "Ihema ry'ibonaniro rishyirwa i Shilo",
+     "Uruziga rw'icyaha–igitugu–agakiza (Debora, Gidewoni, Samusoni)",
+     "Rusi — gukiranuka mu minsi y'umwijima, mu rubyaro rwa Dawidi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu · Ubwami bumwe",
+    "book": "1–2 Samweli · 1 Abami",
+    "today": "Yerusalemu uyu munsi",
+    "note": "Igihe cy'ubusugire bwa Isirayeli — n'isezerano ry'umwami w'iteka.",
+    "events": [
+     "Sawuli umwami wa mbere, hanyuma Dawidi na Goliyati",
+     "Isezerano rya Dawidi — “intebe yawe izahoraho iteka” (2 Samweli 7)",
+     "Salomo yubaka urusengero i Yerusalemu"
+    ]
+   },
+   "samaria": {
+    "name": "Samariya · Ubwami bwagabanyijwe",
+    "book": "Abami · Abahanuzi",
+    "today": "Sebastia uyu munsi",
+    "note": "Ubwami buragabanuka kandi bukajya bibora mu gihe abahanuzi bataka.",
+    "events": [
+     "Nyuma ya Salomo, ubwami bugabanyamo Yuda na Isirayeli",
+     "Gusenga ibigirwamana bisubiramo",
+     "Eliya, Yesaya, Yeremiya bataka bati ‘nimugaruke’ — kandi bahanura Mesiya"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineve (Ashuri)",
+    "book": "2 Abami 17 · Yona",
+    "today": "Mosuli, Iraki uyu munsi",
+    "note": "Bwirengagije imiburo yose, ubwami bw'amajyaruguru bugwa mbere.",
+    "events": [
+     "Nineve, umurwa mukuru wa Ashuri",
+     "Ubwami bw'amajyaruguru bugwa imbere ya Ashuri (722 MIC)",
+     "Yona yoherezwa i Nineve"
+    ]
+   },
+   "babylon": {
+    "name": "Babuloni",
+    "book": "2 Abami 25 · Daniyeli · Ezekiyeli",
+    "today": "Hila, Iraki uyu munsi",
+    "note": "Ijoro ririndushije cyane — nyamara isezerano ryo kuvugururwa rikomeza kubaho.",
+    "events": [
+     "Yerusalemu iragwa, urusengero ruratwikwa (586 MIC)",
+     "Yuda ijyanwa mu bunyage i Babuloni",
+     "Daniyeli na Ezekiyeli — ukwizera n'amayerekwa mu bunyage"
+    ]
+   },
+   "susa": {
+    "name": "Shushani (Ubuperesi)",
+    "book": "Esiteri · Nehemiya",
+    "today": "Shush, Irani uyu munsi",
+    "note": "Ndetse no mu mutima w'ingoma y'abapagani, Imana irinda ubwoko bwayo.",
+    "events": [
+     "Ubuperesi butsinda Babuloni",
+     "Esiteri akiza Abayuda kurimbuka",
+     "Nehemiya asengera imbere y'umwami maze yoherezwa"
+    ]
+   },
+   "return": {
+    "name": "Kugaruka i Yerusalemu",
+    "book": "Ezira · Nehemiya · Malaki",
+    "today": "Yerusalemu uyu munsi",
+    "note": "Baragaruka basubira kubaka — ariko nta mwami uje. Bategereza Mesiya.",
+    "events": [
+     "Imihango itatu yo kugaruka ku itegeko rya Kuro (Zerubabeli 538 · Ezira 458 · Nehemiya 444)",
+     "Urusengero rwongeye kubakwa n'inkike za Yerusalemu zisanwa",
+     "Malaki — Isezerano rya Kera rirasozwa: “nzatuma integuza yanjye”"
+    ]
+   }
+  },
+  "labels": [
+   "Inyanja ya Mediterane",
+   "Mezopotamiya",
+   "Ubutayu bwa Arabiya",
+   "Egiputa"
+  ],
+  "journeys": {
+   "flow": "Inkuru y'agakiza"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betelehemu",
+    "book": "Matayo 1–2 · Luka 2",
+    "today": "Betelehemu uyu munsi",
+    "note": "Mesiya wasezeranijwe aza mu mudugudu wa Dawidi — Jambo yabaye umuntu.",
+    "events": [
+     "Yavukiye i Betelehemu, mu mudugudu wa Dawidi",
+     "Abamarayika babwira abashumba inkuru nziza",
+     "Abanyabwenge baza kumusenga"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareti",
+    "book": "Luka 2 · 4",
+    "today": "Nazareti uyu munsi",
+    "note": "Imana ikurira nk'umuntu mu mudugudu usanzwe.",
+    "events": [
+     "Yakuriye mu rugo rw'umubaji",
+     "Afite imyaka cumi n'ibiri, abaza akanasubiza mu rusengero",
+     "Nyuma yangirwa mu isinagogi yo mu mudugudu we"
+    ]
+   },
+   "jordan": {
+    "name": "Uruzi rwa Yorodani",
+    "book": "Matayo 3–4",
+    "today": "Yorodani yo hasi uyu munsi",
+    "note": "Umurimo we rusange uratangira — ijuru rimuhamya nk'Umwana.",
+    "events": [
+     "Abatizwa na Yohana",
+     "Umwuka amanuka nk'inuma — “Uyu ni Umwana wanjye nkunda”",
+     "Atsinda ibishuko bitatu bya Satani mu butayu"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yohana 2",
+    "today": "Kafr Kanna uyu munsi",
+    "note": "Mu gitangaza cye cya mbere ahishura ikuzo rye.",
+    "events": [
+     "Yari umushyitsi mu bukwe",
+     "Amazi ahindurwa divayi — igitangaza cye cya mbere",
+     "Abigishwa be baramwizera"
+    ]
+   },
+   "sychar": {
+    "name": "Sukari (Samariya)",
+    "book": "Yohana 2–4",
+    "today": "hafi ya Nabulusi uyu munsi",
+    "note": "Inzira y'umurimo wa mbere — inyura i Yerusalemu igera no muri Samariya isuzuguritse.",
+    "events": [
+     "Yeza urusengero i Yerusalemu",
+     "Mu ijoro, Nikodemu — “ugomba kongera kuvuka”",
+     "Amazi y'ubugingo ku mugore w'Umusamariyakazi"
+    ]
+   },
+   "capernaum": {
+    "name": "Kaperinawumu",
+    "book": "Matayo 4–13 · Mariko 1–4",
+    "today": "ku nkombe y'ikiyaga cya Galilaya uyu munsi",
+    "note": "Ihuriro ry'umurimo wo i Galilaya — guhamagara, kwigisha no kurwanywa byose bihurira hano.",
+    "events": [
+     "Ahamagara abarobyi maze ahagira ihuriro",
+     "Inyigisho yo ku musozi — “hahirwa abakene mu mutima”",
+     "Imigani y'ubwami — n'ukurwanywa kwiyongera"
+    ]
+   },
+   "galilee": {
+    "name": "Inyanja ya Galilaya",
+    "book": "Mariko 4 · 6 · Yohana 6",
+    "today": "Ikiyaga cya Kinereti uyu munsi",
+    "note": "Afite ubushobozi ku biremwa yerekana uwo ari we.",
+    "events": [
+     "“Cecekera, tuza” — atuza umuyaga",
+     "Agaburira abantu 5.000 ku migati itanu n'amafi abiri",
+     "Agendera ku mazi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kayisariya Filipi",
+    "book": "Matayo 16–17",
+    "today": "Banias uyu munsi",
+    "note": "Abigishwa basobanukirwa ko ari Kristo, maze inzira y'umusaraba ikingurwa.",
+    "events": [
+     "Kwemera kwa Petero — “Uri Kristo, Umwana w'Imana nzima”",
+     "Abanza guhanura urupfu n'ukuzuka kwe",
+     "Ahindurwa mu ikuzo ku musozi"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Luka 18–19",
+    "today": "Yeriko uyu munsi",
+    "note": "Mu nzira azamukana i Yerusalemu, ashaka abazimiye.",
+    "events": [
+     "Aha amaso Baritimayo w'impumyi",
+     "Ahamagara Zakayo umusoresha",
+     "“Umwana w'umuntu yazanywe no gushaka no gukiza abazimiye”"
+    ]
+   },
+   "bethany": {
+    "name": "Betaniya",
+    "book": "Yohana 11–12",
+    "today": "al-Eizariya uyu munsi",
+    "note": "Yerekana ubushobozi ku rupfu mu mugoroba w'icyumweru cye cya nyuma.",
+    "events": [
+     "Azura Lazaro mu mva — “Ni jye kuzuka n'ubugingo”",
+     "Mariya amusiga amavuta yo gushyingura",
+     "Iki gitangaza cyongera umugambi wo kumwica"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu",
+    "book": "Matayo 21–28 · Luka 24 · Ibyakozwe 1",
+    "today": "Yerusalemu uyu munsi",
+    "note": "Indunduro Bibiliya yose yerekezaga — umusaraba, ukuzuka, ukuzamuka.",
+    "events": [
+     "Kwinjira mu ikuzo; ahirika imeza z'urusengero nanone",
+     "Ku Ifunguro rya Nyuma akarabira abigishwa ibirenge",
+     "Apfira ku musaraba",
+     "Azuka ku munsi wa gatatu, hanyuma arazamuka"
+    ]
+   }
+  },
+  "labels": [
+   "Inyanja ya Mediterane",
+   "Galilaya",
+   "Samariya",
+   "Yudaya",
+   "Dekapoli",
+   "Pereya",
+   "Inyanja y'Umunyu"
+  ],
+  "journeys": {
+   "life": "Inzira ya Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiyokiya",
+    "book": "Ibyakozwe 13 · 15",
+    "today": "Antakya, Turukiya uyu munsi",
+    "note": "Itorero ryohereza aho ubutumwa ku banyamahanga butangirira kandi bugarukira.",
+    "events": [
+     "Mu isengesho Umwuka atoranya Barinaba na Sawuli",
+     "Itorero aho abizera babanje kwitwa ‘Abakristo’",
+     "Aho ingendo ya 1, iya 2 n'iya 3 zitangirira"
+    ]
+   },
+   "seleucia": {
+    "name": "Selukiya",
+    "book": "Ibyakozwe 13:4",
+    "today": "Turukiya uyu munsi",
+    "note": "Icyambu cya Antiyokiya — berekeza i Kupuro mu nyanja.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salami (Kupuro)",
+    "book": "Ibyakozwe 13:5",
+    "today": "Kupuro uyu munsi",
+    "note": "Igihagararo cya mbere i Kupuro — kwigisha mu masinagogi.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Ibyakozwe 13:6-12",
+    "today": "Kupuro uyu munsi",
+    "note": "Ubushobozi bwerekanwa ku barwanya ubutumwa bwiza.",
+    "events": [
+     "Elimasi umurozi ahindurwa impumyi",
+     "Serugiyo Pawulo guverineri aremera",
+     "Uhereye hano ‘Pawulo’ ayobora"
+    ]
+   },
+   "perga": {
+    "name": "Peruge",
+    "book": "Ibyakozwe 13:13",
+    "today": "Antalya, Turukiya uyu munsi",
+    "note": "Icyambu cya Pamfiliya — hano Yohana Mariko agaruka inyuma.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiyokiya ya Pisidiya",
+    "book": "Ibyakozwe 13:14-50",
+    "today": "Yalvaç, Turukiya uyu munsi",
+    "note": "Ubutumwa bwiza bukingurirwa abanyamahanga.",
+    "events": [
+     "Ijambo rirerire ry'amateka y'agakiza mu isinagogi",
+     "Abanyamahanga benshi banezerwa bemera ijambo",
+     "Birukanwa n'abarwanya"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniyumu",
+    "book": "Ibyakozwe 14:1-7",
+    "today": "Konya, Turukiya uyu munsi",
+    "note": "Benshi baremera, ariko itotezwa ribasunika imbere.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lusitira",
+    "book": "Ibyakozwe 14:8-20",
+    "today": "Turukiya uyu munsi",
+    "note": "Aitwa imana, hanyuma agatabwa amabuye.",
+    "events": [
+     "Akiza umuntu wari ikimuga kuva avuka",
+     "Imbaga igerageza kubatambira nk'imana",
+     "Atewe amabuye atabwa hanze nk'upfuye, ararahuka"
+    ]
+   },
+   "derbe": {
+    "name": "Derube",
+    "book": "Ibyakozwe 14:20-21",
+    "today": "Turukiya uyu munsi",
+    "note": "Abigishwa benshi barakorwa; basubira mu nzira gukomeza amatorero.",
+    "events": []
+   },
+   "troas": {
+    "name": "Tirowa",
+    "book": "Ibyakozwe 16:8-10",
+    "today": "Turukiya uyu munsi",
+    "note": "Ahantu h'impinduka aho ubutumwa bwiza bubanza kwerekeza i Burayi.",
+    "events": [
+     "Iyerekwa ry'umuntu w'i Makedoniya",
+     "“Zana hano udufashe”",
+     "Bahita bambuka bajya i Burayi"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Ibyakozwe 16 · Abafilipi",
+    "today": "amajyaruguru ya Gerisi uyu munsi",
+    "note": "Itorero rya mbere ry'i Burayi — ubutumwa bwiza butsinda ndetse no muri gereza.",
+    "events": [
+     "Lidiya, ucuruza imyenda y'umuhondo, aremera",
+     "Umuja w'umukobwa uragura arabohorwa",
+     "Indirimbo z'ijoro, umutingito, umuryango w'umurinzi wa gereza urakizwa"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonike",
+    "book": "Ibyakozwe 17 · 1–2 Abatesalonike",
+    "today": "Tesaloniki, Gerisi uyu munsi",
+    "note": "Ijambo rihindisha umugi, ukurwanya gusandara.",
+    "events": [
+     "Aganira mu isinagogi mu masabato atatu",
+     "“Aba bahindukije isi”",
+     "Bigendera mu ijoro"
+    ]
+   },
+   "berea": {
+    "name": "Beroya",
+    "book": "Ibyakozwe 17:10-15",
+    "today": "Veria, Gerisi uyu munsi",
+    "note": "‘Abubaha’ basuzumye ijambo ubwabo.",
+    "events": [
+     "Bakira ijambo bafite umwete",
+     "Buri munsi basuzuma Ibyanditswe bagenzura",
+     "Benshi baremera"
+    ]
+   },
+   "athens": {
+    "name": "Atene",
+    "book": "Ibyakozwe 17:16-34",
+    "today": "Atene, Gerisi uyu munsi",
+    "note": "Mu mugi w'abafilozofe atangaza ‘imana itazwi’.",
+    "events": [
+     "Arakazwa n'umugi wuzuye ibigirwamana",
+     "Ku Areyopago abwiriza Umuremyi n'ukuzuka",
+     "Aragawa, nyamara bake baremera"
+    ]
+   },
+   "corinth": {
+    "name": "Korinto",
+    "book": "Ibyakozwe 18 · 1–2 Abakorinto",
+    "today": "Gerisi uyu munsi",
+    "note": "Amara umwaka n'igice ashinga itorero mu mugi w'ubwiyandarike.",
+    "events": [
+     "Akorana amahema na Akwila na Pirisila",
+     "“Witinya… kuko ndi kumwe nawe”",
+     "Abakorinto benshi baremera barabatizwa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Ibyakozwe 19 · Abefeso",
+    "today": "Selçuk, Turukiya uyu munsi",
+    "note": "Umutima w'urugendo rwa gatatu — ijambo rikwira muri Aziya.",
+    "events": [
+     "Kwigisha buri munsi mu myaka ibiri mu ishuri rya Tirano",
+     "Ibitabo by'uburozi biratwikwa; imirimo ikomeye",
+     "Demetiriyo umucuzi w'ifeza atangiza akavuyo"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Ibyakozwe 20:17-38",
+    "today": "Turukiya uyu munsi",
+    "note": "Gusezera kw'amarira ku basaza b'i Efeso.",
+    "events": [
+     "“Mwiyitondere kandi murinde itorero yaguze amaraso ye”",
+     "Abasaza bararira, bazi ko batazongera kumubona"
+    ]
+   },
+   "caesarea": {
+    "name": "Kayisariya",
+    "book": "Ibyakozwe 23–26",
+    "today": "ku nkombe ya Isirayeli uyu munsi",
+    "note": "Mu myaka ibiri arengera ubutumwa bwiza imbere y'aba guverineri n'umwami.",
+    "events": [
+     "Imanza imbere ya guverineri Felike na Fesito",
+     "Kwiregura kwe imbere y'umwami Agiripa",
+     "“Njuririra Sezari” — yerekeza i Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu",
+    "book": "Ibyakozwe 21–23",
+    "today": "Yerusalemu uyu munsi",
+    "note": "Afatirwa mu rusengero, inzira ye nk'imbohe iratangira.",
+    "events": [
+     "Afatwa n'imbaga mu rusengero",
+     "Yiregura imbere y'inteko",
+     "Nk'umuturage w'Umuroma, yoherezwa arinzwe i Kayisariya"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Ibyakozwe 27:5-6",
+    "today": "Demre, Turukiya uyu munsi",
+    "note": "Bimukira mu bwato bw'i Alegizandiriya bwerekeza i Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Ibyambu Byiza (Kireta)",
+    "book": "Ibyakozwe 27:8-12",
+    "today": "Kireta uyu munsi",
+    "note": "Umuburo wa Pawulo wo guhagarika urugendo ntiwumvirwa.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kireta",
+    "book": "Tito",
+    "today": "Kireta uyu munsi",
+    "note": "Nyuma yo gufungurwa, izinga aho asiga Tito gutunganya amatorero.",
+    "events": [
+     "Asiga Tito gushyiraho abasaza muri buri mugi",
+     "Asaba abayobozi badafite inenge, bizerwa",
+     "Yandika urwandiko rwa Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malita",
+    "book": "Ibyakozwe 27–28",
+    "today": "Malita uyu munsi",
+    "note": "Binyuze mu muyaga no kumeneka kw'ubwato, isezerano ry'Imana rirakomera.",
+    "events": [
+     "Umuyaga ukomeye umeneza ubwato, nyamara bose 276 barakira",
+     "Arumwa n'inzoka, ariko ntiyangirika",
+     "Akiza abarwayi bo ku izinga"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusi",
+    "book": "Ibyakozwe 28:12",
+    "today": "Sicily, Ubutaliyani uyu munsi",
+    "note": "Bamara iminsi itatu muri Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteyoli",
+    "book": "Ibyakozwe 28:13-14",
+    "today": "Pozzuoli, Ubutaliyani uyu munsi",
+    "note": "Bagera mu Butaliyani maze abizera bagenzi babo babasanganira.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Ibyakozwe 28 · Amabaruwa yo muri gereza · 2 Timoteyo",
+    "today": "Roma, Ubutaliyani uyu munsi",
+    "note": "Ubutumwa bwiza bugera mu mutima w'ingoma amaherezo — si iherezo ahubwo ni intangiriro.",
+    "events": [
+     "Imyaka ibiri afungiwe mu rugo, atangaza ubwami ashize amanga",
+     "Uhereye hano yandika Amabaruwa yo muri gereza (Abefeso·Abafilipi·Abakolosayi·Filemoni)",
+     "Nyuma yongera gufungwa, yandika 2 Timoteyo akicwa — “narwanye intambara nziza, narangije iruhando”"
+    ]
+   }
+  },
+  "labels": [
+   "Inyanja ya Mediterane",
+   "Inyanja ya Ege",
+   "Aziya Ntoya",
+   "Makedoniya",
+   "Ubutaliyani"
+  ],
+  "journeys": {
+   "j1": "Urugendo rwa mbere",
+   "j2": "Urugendo rwa kabiri",
+   "j3": "Urugendo rwa gatatu",
+   "rome": "Urugendo rwa kane · rwo i Roma",
+   "j5": "Urugendo rwa gatanu · nyuma yo gufungurwa"
+  }
+ }
+}

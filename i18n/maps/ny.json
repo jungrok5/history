@@ -1,0 +1,636 @@
+{
+ "menuName": "Chichewa",
+ "htmlLang": "ny",
+ "dir": "ltr",
+ "locale": "ny",
+ "brand": "Baibulo mu Kukulungutsa Kumodzi",
+ "docTitle": "Baibulo pa Mapu · Baibulo mu Kukulungutsa Kumodzi",
+ "metaDesc": "Tsatirani nthawi ya Chipangano Chakale, moyo wa Yesu, ndi maulendo a Paulo pa mapu enieni — Baibulo linachitikadi m'malo enieni.",
+ "s": {
+  "kicker": "Baibulo mu Kukulungutsa Kumodzi · Mapu",
+  "title": "Baibulo pa Mapu",
+  "verse": "“Pakuti sitinatsate miyambi yachabe, pamene tinakudziwitsani mphamvu ndi maonekedwe a Ambuye wathu Yesu Khristu, koma tinapenya m'maso ukulu wake.” (2 Petro 1:16)",
+  "purpose": "Baibulo si nthano. Ndi mbiri ya anthu amene anayenda m'malo, masiku, ndi maina enieni. Tsatirani njira zimenezo pa mapu, motsatira nthawi — tinthani malo, kapena dinani ▶ kuti muziyenda mmenemo pang'onopang'ono.",
+  "ot_kick": "① Chipangano Chakale — kupyola nthawi",
+  "ot_h": "Kuyambira chilengedwe mpaka kubwerera ku Yerusalemu",
+  "ot_lead": "Si ulendo umodzi koma kuyenda kwa mbiri ya chiwombolo kuyambira chilengedwe: chilengedwe ndi kugwa → chigumula ndi Babele → kuitana (Abrahamu) → dziko lolonjezedwa → Eksodo → m'chipululu → kugonjetsa → ufumu → kugawanika → ukapolo → kubwerera.",
+  "je_kick": "② Chipangano Chatsopano — moyo wa Yesu",
+  "je_h": "Kuyambira Betelehemu mpaka Yerusalemu",
+  "je_lead": "Tsatirani moyo wa Yesu monga Mauthenga akunenera, motsatira — kuyambira kubadwa kwake ku Betelehemu kupyola ubatizo wake ndi utumiki wa ku Galileya, kuwoloka Samariya, mpaka mtanda, kuuka ndi kukwera kumwamba ku Yerusalemu.",
+  "pa_kick": "③ Chipangano Chatsopano — maulendo a Paulo",
+  "pa_h": "Kuyambira Antiokeya mpaka malekezero a dziko — Roma",
+  "pa_lead": "Kuyambira Pentekoste ku Yerusalemu, mmene Uthenga Wabwino unafalikira kupyola Yudeya — kudzera mu Asia Wamng'ono ndi Ulaya mpaka pakatikati pa ufumu. Sankhani umodzi wa maulendo asanu (woyamba·wachiwiri·wachitatu + ulendo wopita ku Roma + atamasulidwa) ndipo tsatirani zochitika za Machitidwe pamodzi ndi makalata olembedwa panjira.",
+  "foot": "Magwero · Malo amatsatira mawu a Baibulo ndi nthawi zonse jiogalafi ya Baibulo (ndi maina amakono pamene zithandiza). Magombe, mitsinje ndi nyanja zinajambulidwa kuchokera ku deta yotseguka ya jiogalafi (Natural Earth), zomwe zinaproshedwa.",
+  "contact": "Mafunso · ndemanga — <a id=\"contact\" class=\"mail\">Tilembereni imelo</a>",
+  "play": "Sewerani",
+  "pause": "Imitsani",
+  "today": "Lero:",
+  "verseCite": "2 Petro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edeni (Chilengedwe · Kugwa)",
+    "book": "Genesis 1–3",
+    "today": "dera la Tigirisi–Firate lero",
+    "note": "M'dziko lopangidwa labwino kwambiri, uchimo ukulowa ndi kuthyola ubale pakati pa Mulungu ndi anthu.",
+    "events": [
+     "Chilengedwe mu masiku asanu ndi limodzi — “linali labwino kwambiri”",
+     "Munthu wopangidwa mu chifaniziro cha Mulungu",
+     "Kugwa, ndi kuthamangitsidwa ku Edeni",
+     "Lonjezo loyamba la Uthenga Wabwino — “mbeu ya mkazi idzalalira mutu wa njoka”"
+    ]
+   },
+   "noah": {
+    "name": "Ararati (Chigumula)",
+    "book": "Genesis 6–9",
+    "today": "Phiri la Ararati, kum'mawa kwa Turkey lero",
+    "note": "Mulungu akuweruza dziko lodzaza ndi uchimo, komabe akusunga moyo kudzera mu banja limodzi.",
+    "events": [
+     "Dziko lodzaza ndi kuwonongeka",
+     "Chigumula, ndi chombo cha Nowa",
+     "Pangano la utawaleza — “sipadzakhalanso chigumula chowononga”"
+    ]
+   },
+   "babel": {
+    "name": "Nsanja ya Babele",
+    "book": "Genesis 11",
+    "today": "Iraq lero (chigwa cha Sinara)",
+    "note": "Potsutsana ndi kudzitukumula kofuna kufika kumwamba, Mulungu akusokoneza chinenero chawo ndi kubalalitsa anthu pa dziko.",
+    "events": [
+     "“Tiyeni timange mzinda ndi nsanja… ndi kudzipangira dzina”",
+     "Mulungu akusokoneza chinenero chawo",
+     "Anthu akubalalika pa dziko (Sinara — pambuyo pake Babiloni)"
+    ]
+   },
+   "ur": {
+    "name": "Uri",
+    "book": "Genesis 12",
+    "today": "kum'mwera kwa Iraq lero",
+    "note": "Nkhani ya chiwombolo ya Baibulo ikuyamba ndi kuitana kwa munthu mmodzi.",
+    "events": [
+     "Mulungu akuitana Abramu kuchoka ku Uri wa Akaldeya",
+     "“Ndidzakuyesa iwe mtundu waukulu… mabanja onse adzadalitsidwa mwa iwe”",
+     "Mwa chikhulupiriro akusiya dziko lakwawo"
+    ]
+   },
+   "haran": {
+    "name": "Harani",
+    "book": "Genesis 12",
+    "today": "kum'mwera kwa Turkey lero",
+    "note": "Panjira, akuyankha kuitanaku kuloza ku dziko lolonjezedwa.",
+    "events": [
+     "Banja la Tera likukhazikika ku Harani",
+     "Tera akumwalira",
+     "Abramu akunyamuka kupita ku Kanani ali ndi zaka 75"
+    ]
+   },
+   "shechem": {
+    "name": "Sekemu · Kanani",
+    "book": "Genesis 12–50",
+    "today": "Nablus lero",
+    "note": "M'dziko lolonjezedwa banja likukhazikitsidwa ndipo pangano likupitirira ku mibadwo.",
+    "events": [
+     "Kulowa ku Kanani, guwa loyamba — “mbeu yako ndidzaipatsa dziko ili”",
+     "Pangano (Gen 15) · Isake · Yakobo",
+     "Ana khumi ndi awiri a Yakobo — muzu wa mafuko khumi ndi awiri"
+    ]
+   },
+   "egypt": {
+    "name": "Ejipito (Goseni)",
+    "book": "Genesis 37–50 · Eksodo 1",
+    "today": "Delta ya Nailo, Ejipito lero",
+    "note": "Banja likusanduka mtundu waukulu — kenako mtundu wa akapolo.",
+    "events": [
+     "Yosefe, wogulitsidwa, akukwera kukhala wolamulira Ejipito",
+     "Banja lonse la Yakobo likutsika kuti lipulumuke njala",
+     "Mtundu wa Israele wokula ukusandutsidwa akapolo"
+    ]
+   },
+   "sinai": {
+    "name": "Phiri la Sinai",
+    "book": "Eksodo · Levitiko",
+    "today": "Chilumba cha Sinai lero",
+    "note": "Chiwombolo chachikulu cha Chipangano Chakale — akapolo akusanduka anthu a Mulungu.",
+    "events": [
+     "Miliri khumi ndi mwana wankhosa wa Paska",
+     "Nyanja Yofiira ikugawanika ndipo akuwoloka",
+     "Malamulo Khumi, Chilamulo, chihema ndi nsembe"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesi (chipululu)",
+    "book": "Numeri · Deuteronomo",
+    "today": "chipululu cha Sinai–Negevi lero",
+    "note": "Kusakhulupirira kukulanda mbadwo dziko — komabe Mulungu akukhalabe nawo.",
+    "events": [
+     "Akazitape khumi ndi awiri — koma anthu akukana kukhulupirira",
+     "Zaka 38 m'chipululu — mana, mtambo ndi moto",
+     "Pa zigwa za Mowabu, ulaliki wotsiriza wa Mose (Deuteronomo)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Yoswa",
+    "today": "Yeriko lero",
+    "note": "Potsiriza akulowa ndi kulanda dziko lolonjezedwa.",
+    "events": [
+     "Yorodano ikugawanika ndipo anthu akuwoloka",
+     "Malinga a Yeriko akugwa",
+     "Kugonjetsa Kanani ndi kugawana dziko"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Oweruza)",
+    "book": "Oweruza · Rute",
+    "today": "Khirbet Seilun lero",
+    "note": "Popanda mfumu, aliyense akuchita chomkomera — mfumu yeniyeni ikufunika.",
+    "events": [
+     "Chihema chikuyimikidwa ku Silo",
+     "Kuzungulira kwa uchimo–kuponderezedwa–chiwombolo (Debora, Gidiyoni, Samsoni)",
+     "Rute — kukhulupirika m'masiku a mdima, mu mzere wa Davide"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu · Ufumu Wogwirizana",
+    "book": "1–2 Samueli · 1 Mafumu",
+    "today": "Yerusalemu lero",
+    "note": "Nthawi ya uremu ya Israele — ndi lonjezo la mfumu yosatha.",
+    "events": [
+     "Sauli mfumu yoyamba, kenako Davide ndi Goliyati",
+     "Pangano la Davide — “mpando wako wachifumu ku nthawi zonse” (2 Sam 7)",
+     "Solomoni akumanga Kachisi ku Yerusalemu"
+    ]
+   },
+   "samaria": {
+    "name": "Samariya · Ufumu Wogawanika",
+    "book": "Mafumu · Aneneri",
+    "today": "Sebastia lero",
+    "note": "Ufumu ukugawanika ndi kuchepa pamene aneneri akulira.",
+    "events": [
+     "Solomoni atamwalira, kugawanika kukhala Yuda ndi Israele",
+     "Kupembedza mafano kobwerezabwereza",
+     "Eliya, Yesaya, Yeremiya akulira ‘bwererani’ — ndi kulosera za Mesiya"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asuri)",
+    "book": "2 Mafumu 17 · Yona",
+    "today": "Mosul, Iraq lero",
+    "note": "Ponyalanyaza chenjezo lililonse, kumpoto kukugwa poyamba.",
+    "events": [
+     "Ninive, likulu la Asuri",
+     "Ufumu wakumpoto ukugwa kwa Asuri (722 B.C.)",
+     "Yona akutumidwa ku Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babiloni",
+    "book": "2 Mafumu 25 · Danieli · Ezekieli",
+    "today": "Hillah, Iraq lero",
+    "note": "Usiku wamdima koposa — komabe lonjezo la kubwezeretsedwa likukhalabe.",
+    "events": [
+     "Yerusalemu likugwa, Kachisi akutenthedwa (586 B.C.)",
+     "Yuda akutengedwa ku Babiloni",
+     "Danieli ndi Ezekieli — chikhulupiriro ndi masomphenya mu ukapolo"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Perisiya)",
+    "book": "Estere · Nehemiya",
+    "today": "Shush, Iran lero",
+    "note": "Ngakhale pakatikati pa ufumu wachikunja, Mulungu akusunga anthu ake.",
+    "events": [
+     "Perisiya akugonjetsa Babiloni",
+     "Estere akupulumutsa Ayuda ku chiwonongeko",
+     "Nehemiya akupemphera pamaso pa mfumu ndipo akutumidwa"
+    ]
+   },
+   "return": {
+    "name": "Kubwerera ku Yerusalemu",
+    "book": "Ezara · Nehemiya · Malaki",
+    "today": "Yerusalemu lero",
+    "note": "Akubwerera ndi kumanganso — koma palibe mfumu yobwera. Akudikira Mesiya.",
+    "events": [
+     "Magulu atatu obwerera mwa lamulo la Koresi (Zerubabeli 538 · Ezara 458 · Nehemiya 444)",
+     "Kachisi womangidwanso ndi malinga a Yerusalemu obwezeretsedwa",
+     "Malaki — Chipangano Chakale chikutha: “ndidzatuma mthenga wanga”"
+    ]
+   }
+  },
+  "labels": [
+   "Nyanja ya Mediterania",
+   "Mesopotamiya",
+   "Chipululu cha Arabiya",
+   "Ejipito"
+  ],
+  "journeys": {
+   "flow": "Nkhani ya chiwombolo"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betelehemu",
+    "book": "Mateyu 1–2 · Luka 2",
+    "today": "Betelehemu lero",
+    "note": "Mesiya wolonjezedwa akufika ku mzinda wa Davide — Mau wosandulika thupi.",
+    "events": [
+     "Anabadwira ku Betelehemu, mzinda wa Davide",
+     "Angelo akulengeza nkhaniyi kwa abusa",
+     "Anzeru akudza kudzapembedza"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareti",
+    "book": "Luka 2 · 4",
+    "today": "Nazareti lero",
+    "note": "Mulungu akukulira ngati munthu mu mzinda wofala.",
+    "events": [
+     "Analeredwa m'nyumba ya mmisiri wa matabwa",
+     "Ali ndi zaka khumi ndi ziwiri, akufunsa ndi kuyankha m'Kachisi",
+     "Pambuyo pake anakanidwa mu sunagoge wa kwawo"
+    ]
+   },
+   "jordan": {
+    "name": "Mtsinje wa Yorodano",
+    "book": "Mateyu 3–4",
+    "today": "Yorodano wakumunsi lero",
+    "note": "Utumiki wake wapoyera ukuyamba — kumwamba kukumtsimikiza ngati Mwana.",
+    "events": [
+     "Anabatizidwa ndi Yohane",
+     "Mzimu akutsika ngati nkhunda — “Uyu ndiye Mwana wanga wokondedwa”",
+     "Akugonjetsa mayesero atatu a Satana m'chipululu"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yohane 2",
+    "today": "Kafr Kanna lero",
+    "note": "Mu chizindikiro chake choyamba akuwonetsa ulemerero wake.",
+    "events": [
+     "Mlendo pa ukwati",
+     "Madzi anasandulika vinyo — chizindikiro chake choyamba",
+     "Ophunzira ake akukhulupirira mwa Iye"
+    ]
+   },
+   "sychar": {
+    "name": "Sukari (Samariya)",
+    "book": "Yohane 2–4",
+    "today": "pafupi ndi Nablus lero",
+    "note": "Njira ya utumiki woyambirira — kupyola Yerusalemu ndi kupita ku Samariya wonyozeka.",
+    "events": [
+     "Akuyeretsa Kachisi ku Yerusalemu",
+     "Usiku, Nikodemo — “Uyenera kubadwanso”",
+     "Madzi a moyo kwa mkazi wa ku Samariya"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernao",
+    "book": "Mateyu 4–13 · Marko 1–4",
+    "today": "m'mphepete mwa nyanja ya Galileya lero",
+    "note": "Likulu la utumiki wa ku Galileya — kuitana, kuphunzitsa ndi kutsutsa zonse zikukumana apa.",
+    "events": [
+     "Akuitana asodzi ndipo akukhazikika apa",
+     "Ulaliki wa pa Phiri — “Odala ndi osauka mu mzimu”",
+     "Mafanizo a ufumu — ndi kutsutsa kukukula"
+    ]
+   },
+   "galilee": {
+    "name": "Nyanja ya Galileya",
+    "book": "Marko 4 · 6 · Yohane 6",
+    "today": "Nyanja ya Kinereti lero",
+    "note": "Ndi mphamvu pa chilengedwe akuwonetsa kuti ndi ndani.",
+    "events": [
+     "“Khala chete” — akuletsa namondwe",
+     "Akudyetsa 5,000 ndi mikate isanu ndi nsomba ziwiri",
+     "Akuyenda pa madzi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisareya wa Filipo",
+    "book": "Mateyu 16–17",
+    "today": "Banias lero",
+    "note": "Ophunzira akuzindikira kuti Iye ndi Khristu, ndipo njira ya mtanda ikutsegulika.",
+    "events": [
+     "Chivomerezo cha Petro — “Inu ndinu Khristu, Mwana wa Mulungu wamoyo”",
+     "Akulosera koyamba za imfa ndi kuuka kwake",
+     "Akusandulika mu ulemerero pa phiri"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Luka 18–19",
+    "today": "Yeriko lero",
+    "note": "Panjira yokwera ku Yerusalemu, akufunafuna otayika.",
+    "events": [
+     "Akupatsa maso Batimeyo wakhungu",
+     "Akuitana Zakeyu wokhometsa msonkho",
+     "“Mwana wa munthu anadza kufunafuna ndi kupulumutsa otayika”"
+    ]
+   },
+   "bethany": {
+    "name": "Betaniya",
+    "book": "Yohane 11–12",
+    "today": "al-Eizariya lero",
+    "note": "Akuwonetsa ulamuliro pa imfa pa tsiku loyandikira sabata yake yotsiriza.",
+    "events": [
+     "Akuukitsa Lazaro ku manda — “Ine ndine kuuka ndi moyo”",
+     "Mariya akumdzoza chifukwa cha kuyikidwa kwake",
+     "Chizindikiro ichi chikulimbitsa chiwembu chofuna kumpha"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu",
+    "book": "Mateyu 21–28 · Luka 24 · Machitidwe 1",
+    "today": "Yerusalemu lero",
+    "note": "Nsonga imene Baibulo lonse likuloza — mtanda, kuuka, kukwera kumwamba.",
+    "events": [
+     "Kulowa mwaulemu; akugubuduza matebulo a Kachisi kachiwiri",
+     "Pa Mgonero Wotsiriza akusambitsa mapazi a ophunzira",
+     "Akufa pa mtanda",
+     "Anauka tsiku lachitatu, kenako anakwera kumwamba"
+    ]
+   }
+  },
+  "labels": [
+   "Nyanja ya Mediterania",
+   "Galileya",
+   "Samariya",
+   "Yudeya",
+   "Dekapoli",
+   "Pereya",
+   "Nyanja Yakufa"
+  ],
+  "journeys": {
+   "life": "Njira ya Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokeya",
+    "book": "Machitidwe 13 · 15",
+    "today": "Antakya, Turkey lero",
+    "note": "Mpingo wotumiza kumene umishonale wa amitundu ukuyamba ndi kubwerera.",
+    "events": [
+     "Mu pemphero Mzimu akupatula Barnaba ndi Saulo",
+     "Mpingo umene okhulupirira anayamba kutchedwa ‘Akhristu’",
+     "Poyambira maulendo woyamba, wachiwiri ndi wachitatu"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukiya",
+    "book": "Machitidwe 13:4",
+    "today": "Turkey lero",
+    "note": "Doko la Antiokeya — akukwera sitima kupita ku Kupro.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salami (Kupro)",
+    "book": "Machitidwe 13:5",
+    "today": "Kupro lero",
+    "note": "Malo oyamba pa Kupro — kulalikira m'masunagoge.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Machitidwe 13:6-12",
+    "today": "Kupro lero",
+    "note": "Mphamvu ikuwonetsedwa kwa amene akutsutsa Uthenga Wabwino.",
+    "events": [
+     "Elima wamatsenga akuchititsidwa khungu",
+     "Sergio Paulo bwanamkubwa akukhulupirira",
+     "Kuyambira apa ‘Paulo’ akutsogolera"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Machitidwe 13:13",
+    "today": "Antalya, Turkey lero",
+    "note": "Doko la ku Pamfiliya — apa Yohane Marko akubwerera.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokeya wa Pisidiya",
+    "book": "Machitidwe 13:14-50",
+    "today": "Yalvaç, Turkey lero",
+    "note": "Uthenga Wabwino ukutsegukira kwa amitundu.",
+    "events": [
+     "Ulaliki wautali wa mbiri ya chipulumutso mu sunagoge",
+     "Amitundu ambiri akukondwera ndi kulandira mawu",
+     "Akuthamangitsidwa ndi otsutsa"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniya",
+    "book": "Machitidwe 14:1-7",
+    "today": "Konya, Turkey lero",
+    "note": "Ambiri akukhulupirira, koma chizunzo chikuwakakamiza kupita.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lusitra",
+    "book": "Machitidwe 14:8-20",
+    "today": "Turkey lero",
+    "note": "Akutchedwa mulungu, kenako akuponyedwa miyala.",
+    "events": [
+     "Akuchiritsa munthu wolumala kuyambira kubadwa",
+     "Khamu likufuna kuwapereka nsembe ngati milungu",
+     "Atamponya miyala namusiya ngati wakufa, akudzuka"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Machitidwe 14:20-21",
+    "today": "Turkey lero",
+    "note": "Ophunzira ambiri akupangidwa; akubwereranso kukalimbitsa mipingo.",
+    "events": []
+   },
+   "troas": {
+    "name": "Trowa",
+    "book": "Machitidwe 16:8-10",
+    "today": "Turkey lero",
+    "note": "Malo otembenukira kumene Uthenga Wabwino ukuloza ku Ulaya koyamba.",
+    "events": [
+     "Masomphenya a munthu wa ku Makedoniya",
+     "“Wolokerani kuno mudzatithandize”",
+     "Akuwolokera ku Ulaya pomwepo"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Machitidwe 16 · Afilipi",
+    "today": "kumpoto kwa Girisi lero",
+    "note": "Mpingo woyamba wa Ulaya — Uthenga Wabwino ukupambana ngakhale m'ndende.",
+    "events": [
+     "Lidiya, wamalonda a nsalu zofiira, akukhulupirira",
+     "Kapolo wamkazi wolosera akumasulidwa",
+     "Nyimbo za pakati pa usiku, chivomezi, banja la woyang'anira ndende likupulumuka"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Machitidwe 17 · 1–2 Atesalonika",
+    "today": "Thessaloniki, Girisi lero",
+    "note": "Mawu akugwedeza mzinda ndipo kutsutsa kukuchuluka.",
+    "events": [
+     "Akukambirana mu sunagoge masabata atatu",
+     "“Awa amene anasokoneza dziko”",
+     "Akuthawa usiku"
+    ]
+   },
+   "berea": {
+    "name": "Bereya",
+    "book": "Machitidwe 17:10-15",
+    "today": "Veria, Girisi lero",
+    "note": "Anthu ‘aulemu’ amene anasanthula mawu okha.",
+    "events": [
+     "Akulandira mawu mwachidwi",
+     "Tsiku ndi tsiku akusanthula Malemba kuti atsimikize",
+     "Ambiri akukhulupirira"
+    ]
+   },
+   "athens": {
+    "name": "Atene",
+    "book": "Machitidwe 17:16-34",
+    "today": "Athens, Girisi lero",
+    "note": "Mu mzinda wa anzeru akulalikira za ‘mulungu wosadziwika’.",
+    "events": [
+     "Akukwiyitsidwa ndi mzinda wodzaza mafano",
+     "Pa Areopago akulalikira za Mlengi ndi kuuka",
+     "Akunyozedwa, komabe ochepa akukhulupirira"
+    ]
+   },
+   "corinth": {
+    "name": "Korinto",
+    "book": "Machitidwe 18 · 1–2 Akorinto",
+    "today": "Girisi lero",
+    "note": "Akukhala chaka ndi theka, akukhazikitsa mpingo mu mzinda wa zoipa.",
+    "events": [
+     "Akupanga matenti ndi Akula ndi Prisila",
+     "“Usaope… pakuti ndili nawe”",
+     "Akorinto ambiri akukhulupirira ndi kubatizidwa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Machitidwe 19 · Aefeso",
+    "today": "Selçuk, Turkey lero",
+    "note": "Mtima wa ulendo wachitatu — mawu akufalikira ku Asia.",
+    "events": [
+     "Kuphunzitsa tsiku ndi tsiku zaka ziwiri mu nyumba ya Turano",
+     "Mabuku a matsenga akutenthedwa; ntchito zamphamvu",
+     "Demetrio wopanga siliva akuyambitsa chipolowe"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Machitidwe 20:17-38",
+    "today": "Turkey lero",
+    "note": "Kutsanzikana kwamisozi ndi akulu a mpingo wa ku Efeso.",
+    "events": [
+     "“Wetani mpingo umene anaugula ndi mwazi wake”",
+     "Akulu akulira, podziwa kuti sadzamuonanso"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisareya",
+    "book": "Machitidwe 23–26",
+    "today": "m'mphepete mwa nyanja ya Israele lero",
+    "note": "Kwa zaka ziwiri akuteteza Uthenga Wabwino pamaso pa abwanamkubwa ndi mfumu.",
+    "events": [
+     "Maweruzo pamaso pa abwanamkubwa Felike ndi Festo",
+     "Kudziteteza kwake pamaso pa Mfumu Agripa",
+     "“Ndapempha kwa Kaisara” — kupita ku Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu",
+    "book": "Machitidwe 21–23",
+    "today": "Yerusalemu lero",
+    "note": "Atagwidwa m'Kachisi, njira yake ngati mkaidi ikuyamba.",
+    "events": [
+     "Akugwidwa ndi khamu m'Kachisi",
+     "Akudziteteza pamaso pa bwalo",
+     "Monga nzika ya Roma, akutumizidwa moyang'aniridwa ku Kaisareya"
+    ]
+   },
+   "myra": {
+    "name": "Mura",
+    "book": "Machitidwe 27:5-6",
+    "today": "Demre, Turkey lero",
+    "note": "Akusamukira ku sitima ya ku Alesandriya yopita ku Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Madoko Abwino (Krete)",
+    "book": "Machitidwe 27:8-12",
+    "today": "Krete lero",
+    "note": "Chenjezo la Paulo loletsa kuyenda likunyalanyazidwa.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krete",
+    "book": "Tito",
+    "today": "Krete lero",
+    "note": "Atamasulidwa, chilumba kumene akusiya Tito kuti akonze mipingo.",
+    "events": [
+     "Akusiya Tito kuti aike akulu m'mzinda uliwonse",
+     "Akufuna atsogoleri opanda chilema, okhulupirika",
+     "Akulemba kalata kwa Tito"
+    ]
+   },
+   "malta": {
+    "name": "Melita",
+    "book": "Machitidwe 27–28",
+    "today": "Malta lero",
+    "note": "Kupyola namondwe ndi kusweka kwa sitima, lonjezo la Mulungu likukhalabe.",
+    "events": [
+     "Mphepo ya ‘kumpoto-chakum'mawa’ ikusweka sitima, komabe onse 276 akupulumuka",
+     "Atalumidwa ndi njoka, sakuvulazidwa",
+     "Akuchiritsa odwala a chilumbacho"
+    ]
+   },
+   "syracuse": {
+    "name": "Surakusa",
+    "book": "Machitidwe 28:12",
+    "today": "Sicily, Italy lero",
+    "note": "Akukhala masiku atatu ku Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Machitidwe 28:13-14",
+    "today": "Pozzuoli, Italy lero",
+    "note": "Akufika ku Italy ndipo akukomeredwa ndi okhulupirira anzawo.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Machitidwe 28 · Makalata a M'ndende · 2 Timoteo",
+    "today": "Roma, Italy lero",
+    "note": "Uthenga Wabwino ukufika pakatikati pa ufumu potsiriza — osati mapeto koma chiyambi.",
+    "events": [
+     "Zaka ziwiri ali mu ndende ya panyumba, akulalikira ufumu molimba mtima",
+     "Kuchokera apa akulemba Makalata a M'ndende (Aefeso·Afilipi·Akolose·Filemoni)",
+     "Pambuyo pake akutsekedwanso, akulemba 2 Timoteo ndipo akuphedwa — “Ndamenya nkhondo yabwino, ndamaliza mpikisano”"
+    ]
+   }
+  },
+  "labels": [
+   "Nyanja ya Mediterania",
+   "Nyanja ya Aegean",
+   "Asia Wamng'ono",
+   "Makedoniya",
+   "Italy"
+  ],
+  "journeys": {
+   "j1": "Ulendo woyamba",
+   "j2": "Ulendo wachiwiri",
+   "j3": "Ulendo wachitatu",
+   "rome": "Ulendo wachinayi · kupita ku Roma",
+   "j5": "Ulendo wachisanu · atamasulidwa"
+  }
+ }
+}

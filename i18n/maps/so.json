@@ -1,0 +1,636 @@
+{
+ "menuName": "Soomaali",
+ "htmlLang": "so",
+ "dir": "ltr",
+ "locale": "so",
+ "brand": "Kitaabka Quduuska Ah hal goor",
+ "docTitle": "Kitaabka khariidad ahaan · Kitaabka Quduuska Ah hal goor",
+ "metaDesc": "Ku raac jadwalka waqtiga ee Axdiga Hore, nolosha Ciise, iyo safarradii Bawlos khariidad dhab ah — Kitaabka Quduuska Ah wuxuu ka dhacay meelo dhab ah.",
+ "s": {
+  "kicker": "Kitaabka Quduuska Ah hal goor · Khariidadaha",
+  "title": "Kitaabka khariidad ahaan",
+  "verse": "“Annagu ma aannu raacin sheekooyin khiyaano lagu hindisay, markii aannu idin ogeysiinnay xoogga iyo imaatinka Rabbigeenna Ciise Masiix, laakiinse waxaannu ahayn markhaatiyaal indhaha ku arkay weynaantiisa.” (2 Butros 1:16)",
+  "purpose": "Kitaabka Quduuska Ah maaha khuraafaad. Waa diiwaan dad ku socday meelo, taariikhdo, iyo magacyo dhab ah. Ku raac jidadkaas khariidad korkeeda, si waqti ah — taabo barti, ama riix ▸ si aad tallaabo tallaabo ugu socoto.",
+  "ot_kick": "① Axdiga Hore — waqti ahaan",
+  "ot_h": "Laga bilaabo abuurka ilaa soo noqoshada Yeruusaalem",
+  "ot_lead": "Maaha hal safar laakiinse waa socodka taariikhda madaxfurashada laga bilaabo abuurka iyo wixii ka dambeeyey: abuur iyo dhicitaan → daad iyo Baabel → yeedhid (Ibraahim) → dhulkii la ballanqaaday → Baxniin → cidlada → qabsasho → boqortooyo → kala qaybsanaan → maxaabiisnimo → soo noqosho.",
+  "je_kick": "② Axdiga Cusub — nolosha Ciise",
+  "je_h": "Laga bilaabo Beytlaxam ilaa Yeruusaalem",
+  "je_lead": "Ku raac nolosha Ciise sidii Injiillada ay sheegaan, si kala dambaysa — laga bilaabo dhalashadiisii Beytlaxam, baabtiiskiisii iyo adeeggiisii Galili, oo dhex maray Samaariya, ilaa iskutallaabta, soo sarakicidda, iyo korka loo qaaday ee Yeruusaalem.",
+  "pa_kick": "③ Axdiga Cusub — safarradii Bawlos",
+  "pa_h": "Laga bilaabo Antiyokiya ilaa darafyada dhulka — Roomaan",
+  "pa_lead": "Laga bilaabo Bentakostadii Yeruusaalem, sida injiilku ugu faafay meel ka baxsan Yahuudiya — isagoo dhex maray Aasiya Yar iyo Yurub ilaa wadnaha boqortooyada. Dooro mid ka mid ah shanta safar (1aad·2aad·3aad + safarka Roomaan + ka dib sii-deynta) oo raac dhacdooyinka Falimaha Rasuullada iyo waraaqaha jidka lagu qoray.",
+  "foot": "Ilaha · Meelaha waxay raacaan qoraalka Kitaabka Quduuska Ah iyo juqraafiga caadiga ah ee Kitaabka (iyo magacyada casriga ah halka ay faa'iido leeyihiin). Xeebaha, webiyada iyo harooyinka waxaa laga sawiray xog juqraafi furan (Natural Earth), oo la fududeeyey.",
+  "contact": "Su'aalo · jawaab celin — <a id=\"contact\" class=\"mail\">Noo soo qor</a>",
+  "play": "Ciyaar",
+  "pause": "Jooji",
+  "today": "Maanta:",
+  "verseCite": "2 Butros 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Ceeden (Abuur · Dhicitaan)",
+    "book": "Bilowgii 1–3",
+    "today": "gobolka Tigris–Yufraad maanta",
+    "note": "Adduunkii loo sameeyey “aad u wanaagsan,” dembigu wuu galaa wuxuuna gooyaa xidhiidhkii dadka iyo Ilaah.",
+    "events": [
+     "Abuur lix maalmood gudahood — “way wanaagsanayd”",
+     "Dadka oo loo sameeyey sida suuradda Ilaah",
+     "Dhicitaanka, iyo ka eryidda Ceeden",
+     "Ballantii ugu horraysay ee injiilka — “farcanka naagta ayaa burburin doona madaxa abeesada”"
+    ]
+   },
+   "noah": {
+    "name": "Araarad (Daadkii)",
+    "book": "Bilowgii 6–9",
+    "today": "Buur Araarad, bariga Turkiga maanta",
+    "note": "Ilaah wuxuu xukumaa adduun dembi ka buuxo, weliba qoys keliya ayuu nolosha ku badbaadiyaa.",
+    "events": [
+     "Adduun xumaan ka buuxsamay",
+     "Daadkii, iyo doontii Nuux",
+     "Axdigii qaansoroobaadka — “mar dambe daad ma jiri doono oo wax baabbi'iya”"
+    ]
+   },
+   "babel": {
+    "name": "Munaaraddii Baabel",
+    "book": "Bilowgii 11",
+    "today": "Ciraaq maanta (bannaanka Shincaar)",
+    "note": "Kibirka samada gaadhaya, Ilaah wuxuu kala firdhiyaa hadalkooda iyo dadka dhulka korkiisa.",
+    "events": [
+     "“Ina keena, magaalo iyo munaarad aynu dhisanno… oo aynu magac samaysanno”",
+     "Ilaah wuxuu wareeriyaa afkooda",
+     "Dadku waxay ku kala firdhaan dhulka korkiisa (Shincaar — gadaal Baabuloon)"
+    ]
+   },
+   "ur": {
+    "name": "Uur",
+    "book": "Bilowgii 12",
+    "today": "koonfurta Ciraaq maanta",
+    "note": "Sheekada madaxfurashada ee Kitaabka Quduuska Ah waxay ku bilaabataa yeedhidda hal nin.",
+    "events": [
+     "Ilaah wuxuu Aabraam uga yeeraa Uur tii reer Kaldayiin",
+     "“Quruun weyn baan kaa dhigi doonaa… oo qabiilooyinka oo dhammu adigay kugu barakoobi doonaan”",
+     "Iimaan buu dhulkiisii hooyo kaga tagaa"
+    ]
+   },
+   "haran": {
+    "name": "Haaraan",
+    "book": "Bilowgii 12",
+    "today": "koonfurta Turkiga maanta",
+    "note": "Jidka korkiisa, isagoo ka jawaabaya yeedhidda xagga dhulkii la ballanqaaday.",
+    "events": [
+     "Reerkii Terax waxay degaan Haaraan",
+     "Terax wuu dhintaa",
+     "Aabraam wuxuu u kacaa Kancaan isagoo 75 jir ah"
+    ]
+   },
+   "shechem": {
+    "name": "Shekem · Kancaan",
+    "book": "Bilowgii 12–50",
+    "today": "Naabulus maanta",
+    "note": "Dhulkii la ballanqaaday dhexdiisa qoys baa la aasaasaa axdiguna wuu ku sii gudbaa farcammada.",
+    "events": [
+     "Galitaanka Kancaan, meeshii allabariga ugu horraysay — “farcankaaga ayaan dhulkan siin doonaa”",
+     "Axdigii (Bilowgii 15) · Isxaaq · Yacquub",
+     "Laba iyo tobankii wiil ee Yacquub — xididka laba iyo tobanka qabiil"
+    ]
+   },
+   "egypt": {
+    "name": "Masar (Goshen)",
+    "book": "Bilowgii 37–50 · Baxniintii 1",
+    "today": "Dooxada Niil, Masar maanta",
+    "note": "Qoys baa noqda quruun weyn — markaasna noqda quruun la addoonsaday.",
+    "events": [
+     "Yuusuf, oo la iibiyey, wuxuu kor ugu kacaa inuu Masar xukumo",
+     "Reerkii Yacquub oo dhammu way u soo dhaadhacaan inay abaarta ka baxsadaan",
+     "Quruuntii Israa'iil ee korraysa waa la addoonsadaa"
+    ]
+   },
+   "sinai": {
+    "name": "Buur Siinay",
+    "book": "Baxniintii · Laawiyiintii",
+    "today": "Jasiiradda Siinay maanta",
+    "note": "Madaxfurashada ugu weyn ee Axdiga Hore — addoommo waxay noqdaan dadka Ilaah.",
+    "events": [
+     "Tobankii belaayo iyo wankii Iidda Kormaridda",
+     "Badda Cas way kala dillaacdaa wayna ka gudbaan",
+     "Tobankii Amar, Sharciga, Taambuugga iyo allabaryada"
+    ]
+   },
+   "kadesh": {
+    "name": "Qaadeesh (cidlada)",
+    "book": "Tirintii · Sharciga Kunoqoshadiisa",
+    "today": "cidlada Siinay–Negeb maanta",
+    "note": "Rumaysaddarru waxay qarni ka qaaddaa dhulkii — weliba Ilaah wuu la jiraa.",
+    "events": [
+     "Laba iyo tobankii basaas — laakiin dadku way diidaan inay aaminaan",
+     "38 sannadood oo cidlada ah — maanna, daruur iyo dab",
+     "Bannaanka Moo'aab, wacdigii ugu dambeeyey ee Muuse (Sharciga Kunoqoshadiisa)"
+    ]
+   },
+   "jericho": {
+    "name": "Yerixoo",
+    "book": "Yashuuca",
+    "today": "Yerixoo maanta",
+    "note": "Ugu dambeyntii way galaan oo qabsadaan dhulkii la ballanqaaday.",
+    "events": [
+     "Webi Urdun wuu kala dillaacaa dadkuna way ka gudbaan",
+     "Derbiyadii Yerixoo way dumaan",
+     "Qabsashada Kancaan iyo qaybsashada dhulka"
+    ]
+   },
+   "shiloh": {
+    "name": "Shiiloh (Xaakinnada)",
+    "book": "Xaakinnada · Ruud",
+    "today": "Khirbet Seilun maanta",
+    "note": "Iyadoo boqor la'aan, qof kastaa wuxuu sameeyaa wixii la qumman — boqor dhab ah ayaa loo baahan yahay.",
+    "events": [
+     "Taambuugga waxaa la dhigaa Shiiloh",
+     "Wareegga dembi–cadaadis–badbaadin (Debooraah, Gidcoon, Samsoon)",
+     "Ruud — aaminnimo maalmo madow, abtirsiinyada Daa'uud dhexdooda"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yeruusaalem · Boqortooyadii Midaysnayd",
+    "book": "1–2 Samuu'eel · 1 Boqorradii",
+    "today": "Yeruusaalem maanta",
+    "note": "Waagii dahabka ahaa ee Israa'iil — iyo ballanta boqor weligiis ah.",
+    "events": [
+     "Saa'uul boqorkii ugu horreeyey, kadibna Daa'uud iyo Goolyad",
+     "Axdigii Daa'uud — “carshigaagu weligiis wuu dhisnaan doonaa” (2 Samuu'eel 7)",
+     "Sulaymaan wuxuu macbudka ka dhisaa Yeruusaalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaariya · Boqortooyadii Kala Qaybsantay",
+    "book": "Boqorradii · Nebiyada",
+    "today": "Sebastia maanta",
+    "note": "Boqortooyadu way kala qaybsantaa wayna hoos u dhacdaa iyadoo nebiyadu qaylinayaan.",
+    "events": [
+     "Sulaymaan dabadiis, kala qaybsanaanta Yahuudah iyo Israa'iil",
+     "Sanam-caabudid celis ah",
+     "Eliyaas, Ishacyaah, Yeremyaah waxay qayliyaan ‘soo noqda’ — wayna sii sheegaan Masiixa"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineweh (Ashuur)",
+    "book": "2 Boqorradii 17 · Yoonis",
+    "today": "Mosul, Ciraaq maanta",
+    "note": "Iyadoo digniin kasta la iska indhatiraya, waqooyiga ayaa marka hore dhaca.",
+    "events": [
+     "Nineweh, caasimaddii Ashuur",
+     "Boqortooyada waqooyi waxay ku dhacdaa Ashuur (722 ka hor C.)",
+     "Yoonis waxaa loo diraa Nineweh"
+    ]
+   },
+   "babylon": {
+    "name": "Baabuloon",
+    "book": "2 Boqorradii 25 · Daanyeel · Yexesqeel",
+    "today": "Xilla, Ciraaq maanta",
+    "note": "Habeenkii ugu madmadnaa — weliba ballantii soo celinta way hadhaa.",
+    "events": [
+     "Yeruusaalem way dhacdaa, macbudkuna waa la gubaa (586 ka hor C.)",
+     "Yahuudah waxaa loo kaxeeyaa Baabuloon",
+     "Daanyeel iyo Yexesqeel — iimaan iyo muuqaallo maxaabiisnimada dhexdeeda"
+    ]
+   },
+   "susa": {
+    "name": "Shuushan (Faaris)",
+    "book": "Esteer · Nexemyaah",
+    "today": "Shush, Iiraan maanta",
+    "note": "Xataa wadnaha boqortooyo jaahil ah, Ilaah wuu ilaaliyaa dadkiisa.",
+    "events": [
+     "Faaris waxay afgembidaa Baabuloon",
+     "Esteer waxay Yuhuudda ka badbaadisaa baabbi'in",
+     "Nexemyaah wuxuu boqorka hortiisa ku tukadaa, waana la diraa"
+    ]
+   },
+   "return": {
+    "name": "Soo noqoshada Yeruusaalem",
+    "book": "Cesraa · Nexemyaah · Malaakii",
+    "today": "Yeruusaalem maanta",
+    "note": "Way soo noqdaan oo dhisaan — laakiin boqor ma iman. Waxay sugaan Masiixa.",
+    "events": [
+     "Saddex hir oo soo noqosho ah amarka Kuuros (Serubaabel 538 · Cesraa 458 · Nexemyaah 444)",
+     "Macbudka oo dib loo dhisay iyo derbiyadii Yeruusaalem oo la soo celiyey",
+     "Malaakii — Axdiga Hore wuu xidhmaa: “waxaan soo dirayaa wargeeyahayga”"
+    ]
+   }
+  },
+  "labels": [
+   "Badda Dhexe",
+   "Mesobotamiya",
+   "Cidlada Carabta",
+   "Masar"
+  ],
+  "journeys": {
+   "flow": "Sheekada madaxfurashada"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Beytlaxam",
+    "book": "Matayos 1–2 · Luukos 2",
+    "today": "Beytlaxam maanta",
+    "note": "Masiixii la ballanqaaday wuxuu yimaadaa magaaladii Daa'uud — Ereyga oo jidh noqday.",
+    "events": [
+     "Wuxuu ku dhashaa Beytlaxam, magaaladii Daa'uud",
+     "Malaa'igtu waxay warka u sheegaan adhijirrada",
+     "Nimankii xigmadda lahaa way yimaadaan inay caabudaan"
+    ]
+   },
+   "nazareth": {
+    "name": "Naasared",
+    "book": "Luukos 2 · 4",
+    "today": "Naasared maanta",
+    "note": "Ilaah wuxuu nin ahaan ku koraa magaalo caadi ah.",
+    "events": [
+     "Wuxuu ku koray guri nijaar ah",
+     "Isagoo laba iyo toban jir ah, wuxuu macbudka su'aalo ku weydiiyaa kana jawaabaa",
+     "Gadaal waa lagu diidaa sunagoggii magaaladiisii hooyo"
+    ]
+   },
+   "jordan": {
+    "name": "Webi Urdun",
+    "book": "Matayos 3–4",
+    "today": "Urdunka hoose maanta",
+    "note": "Adeeggiisii dadweynaha wuu bilaabmaa — samadu waxay isaga ku astaysaa Wiilka.",
+    "events": [
+     "Wuxuu Yooxanaa baabtiisaa",
+     "Ruuxa ayaa sida qoolley ku soo dega — “Kanu waa Wiilkayga aan jeclahay”",
+     "Wuxuu cidlada kaga adkaadaa saddexdii jirrabaad ee Shayddaan"
+    ]
+   },
+   "cana": {
+    "name": "Kaana",
+    "book": "Yooxanaa 2",
+    "today": "Kafr Kanna maanta",
+    "note": "Calaamaddiisii ugu horraysay ayuu ammaantiisa ku muujiyaa.",
+    "events": [
+     "Marti aroos ah",
+     "Biyo loo beddelay khamri — calaamaddiisii ugu horraysay",
+     "Xertiisu way isaga rumaystaan"
+    ]
+   },
+   "sychar": {
+    "name": "Sukhar (Samaariya)",
+    "book": "Yooxanaa 2–4",
+    "today": "Naabulus agteeda maanta",
+    "note": "Jidkii adeegga hore — Yeruusaalem dhex maraya ilaa Samaariyada la quudhsado.",
+    "events": [
+     "Wuxuu macbudka ka nadiifiyaa Yeruusaalem",
+     "Habeenkii, Nikodemos — “waa inaad mar kale dhalataa”",
+     "Biyo nool oo naag Samaariyad ah"
+    ]
+   },
+   "capernaum": {
+    "name": "Kafarna'um",
+    "book": "Matayos 4–13 · Markos 1–4",
+    "today": "xeebta Galili maanta",
+    "note": "Saldhigga adeeggii Galili — yeedhid, waxbaridd iyo mucaaradad halkan ayay isugu yimaadaan.",
+    "events": [
+     "Wuxuu u yeeraa kalluumaystayaasha wuxuuna halkan saldhig ka dhigtaa",
+     "Wacdigii Buurta — “Waxaa barakaysan kuwa xagga ruuxa ka miskiin ah”",
+     "Masaallada boqortooyada — iyo mucaaradad korraysa"
+    ]
+   },
+   "galilee": {
+    "name": "Badda Galili",
+    "book": "Markos 4 · 6 · Yooxanaa 6",
+    "today": "Haradda Kinneret maanta",
+    "note": "Isagoo dabeecadda xukuma ayuu muujiyaa cidda uu yahay.",
+    "events": [
+     "“Aamus oo xasilloow” — wuxuu dejiyaa duufaanta",
+     "Wuxuu 5,000 ku quudiyaa shan kibsood iyo laba kalluun",
+     "Wuxuu biyaha ku dul socdaa"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaysariya Filibos",
+    "book": "Matayos 16–17",
+    "today": "Banias maanta",
+    "note": "Xertu way gartaan inuu yahay Masiixa, jidka iskutallaabtana wuu furmaa.",
+    "events": [
+     "Qiraalkii Butros — “Waxaad tahay Masiixa, Wiilka Ilaaha nool”",
+     "Markii ugu horraysay wuxuu sii sheegaa dhimashadiisa iyo soo sarakicidiisa",
+     "Wuu isbeddelaa ammaan buurta korkeeda"
+    ]
+   },
+   "jericho": {
+    "name": "Yerixoo",
+    "book": "Luukos 18–19",
+    "today": "Yerixoo maanta",
+    "note": "Jidka kor loogu socdo Yeruusaalem, wuxuu raadiyaa kuwa lumay.",
+    "events": [
+     "Wuxuu wax tusaa Bartimayos oo indha la' ah",
+     "Wuxuu u yeeraa Sakhayos oo cashuurqaade ah",
+     "“Wiilka Aadanahu wuxuu u yimid inuu kuwii lumay doondoono oo badbaadiyo”"
+    ]
+   },
+   "bethany": {
+    "name": "Beytaniya",
+    "book": "Yooxanaa 11–12",
+    "today": "al-Eizariya maanta",
+    "note": "Wuxuu dhimashada ka adkaanshahiisa muujiyaa habeenkii ka horreeyey toddobaadkiisii ugu dambeeyey.",
+    "events": [
+     "Wuxuu Laasaros qabriga ka soo sara kiciyaa — “Anigu waxaan ahay sarakicidda iyo nolosha”",
+     "Maryan ayaa aaskiisa u subagta",
+     "Calaamaddanu waxay sii adkaysaa shirqoolka lagu dilayo"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yeruusaalem",
+    "book": "Matayos 21–28 · Luukos 24 · Falimaha Rasuullada 1",
+    "today": "Yeruusaalem maanta",
+    "note": "Heerka ugu sarreeya ee Kitaabku oo dhammu u tilmaamayo — iskutallaab, soo sarakicid, kor u qaadid.",
+    "events": [
+     "Galitaankii guusha; mar kale wuxuu rogaa miisaskii macbudka",
+     "Cashadii u Dambaysay wuxuu xertii cagaha u dhaqaa",
+     "Wuxuu ku dhintaa iskutallaabta",
+     "Wuu soo sara kacaa maalintii saddexaad, markaasna kor loo qaadaa"
+    ]
+   }
+  },
+  "labels": [
+   "Badda Dhexe",
+   "Galili",
+   "Samaariya",
+   "Yahuudiya",
+   "Dekabolis",
+   "Bere'a",
+   "Badda Dhimatay"
+  ],
+  "journeys": {
+   "life": "Jidka Ciise"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiyokiya",
+    "book": "Falimaha Rasuullada 13 · 15",
+    "today": "Antakya, Turki maanta",
+    "note": "Kaniisaddii dirta halkaas oo adeegga dadka aan Yuhuudda ahayn ka bilowdo kuna soo noqdo.",
+    "events": [
+     "Tukasho dhexdeed Ruuxu wuxuu gooni u soocaa Barnabas iyo Sawlos",
+     "Kaniisaddii halkii markii ugu horraysay rumaystayaal loogu yeeray ‘Masiixiyiin’",
+     "Goobta laga bilaabo safarkii 1aad, 2aad iyo 3aad"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukiya",
+    "book": "Falimaha Rasuullada 13:4",
+    "today": "Turki maanta",
+    "note": "Dekedda Antiyokiya — waxay u dhoofaan Qubrus.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Qubrus)",
+    "book": "Falimaha Rasuullada 13:5",
+    "today": "Qubrus maanta",
+    "note": "Joogsiga ugu horreeya ee Qubrus — wacdiga sunagogyada.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Bafos",
+    "book": "Falimaha Rasuullada 13:6-12",
+    "today": "Qubrus maanta",
+    "note": "Awood baa la muujiyaa kuwa injiilka ka soo horjeeda.",
+    "events": [
+     "Elumas saaxirka ayaa indhaha la' noqda",
+     "Sergiyos Bawlos oo taliye ah wuu rumaystaa",
+     "Halkan ‘Bawlos’ ayaa hoggaanka qaata"
+    ]
+   },
+   "perga": {
+    "name": "Berga",
+    "book": "Falimaha Rasuullada 13:13",
+    "today": "Antalya, Turki maanta",
+    "note": "Dekedda Bamfuliya — halkan Yooxanaa Markos wuu dib u noqdaa.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiyokiya tii Bisidiya",
+    "book": "Falimaha Rasuullada 13:14-50",
+    "today": "Yalvaç, Turki maanta",
+    "note": "Injiilku wuxuu u furmaa xagga dadka aan Yuhuudda ahayn.",
+    "events": [
+     "Wacdi dheer oo taariikh badbaadin ah oo sunagogga la dhex sheegay",
+     "Dad badan oo aan Yuhuud ahayn way reyreeyaan oo aqbalaan ereyga",
+     "Mucaaradad dartood waa la eryaa"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniyon",
+    "book": "Falimaha Rasuullada 14:1-7",
+    "today": "Konya, Turki maanta",
+    "note": "Dad badan way rumaystaan, laakiin silec baa hor u kaxeeya.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lustara",
+    "book": "Falimaha Rasuullada 14:8-20",
+    "today": "Turki maanta",
+    "note": "Sida ilaah loogu yeeray, kadibna waa la dhagxiyaa.",
+    "events": [
+     "Wuxuu bogsiiyaa nin curyaan ku dhashay",
+     "Dadku waxay isku dayaan inay sida ilaahyo allabari u bixiyaan",
+     "Waa la dhagxiyaa oo loo daayaa sidii mid dhintay, weliba wuu kacaa"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Falimaha Rasuullada 14:20-21",
+    "today": "Turki maanta",
+    "note": "Xer badan baa la sameeyaa; way dib u maraan jidkoodii si ay kaniisadaha u xoojiyaan.",
+    "events": []
+   },
+   "troas": {
+    "name": "Taroo'as",
+    "book": "Falimaha Rasuullada 16:8-10",
+    "today": "Turki maanta",
+    "note": "Goobta isbeddelka oo injiilku markii ugu horraysay Yurub u jeesto.",
+    "events": [
+     "Muuqaal nin reer Makedoniya ah",
+     "“Soo gudub oo na caawi”",
+     "Isla markiiba way u gudbaan Yurub"
+    ]
+   },
+   "philippi": {
+    "name": "Filiboy",
+    "book": "Falimaha Rasuullada 16 · Filiboy",
+    "today": "waqooyiga Giriig maanta",
+    "note": "Kaniisaddii ugu horraysay ee Yurub — injiilku wuu ku guulaystaa xataa xabsiga.",
+    "events": [
+     "Lidiya, oo dhar guduudan iibisa, way rumaysataa",
+     "Gabadh addoon ah oo faalisa ayaa la xoreeyaa",
+     "Heeso habeenkii, dhulgariir, oo reerkii xabsihayaha waa la badbaadiyaa"
+    ]
+   },
+   "thess": {
+    "name": "Tesaloniika",
+    "book": "Falimaha Rasuullada 17 · 1–2 Tesaloniika",
+    "today": "Thessaloniki, Giriig maanta",
+    "note": "Ereygu wuxuu gilgilaa magaalada mucaaradduna way kacdaa.",
+    "events": [
+     "Saddex Sabti ayuu sunagogga ku dood dhigaa",
+     "“Kuwii adduunka rogay”",
+     "Habeenkii ayay si qarsoodi ah u baxaan"
+    ]
+   },
+   "berea": {
+    "name": "Beroya",
+    "book": "Falimaha Rasuullada 17:10-15",
+    "today": "Veria, Giriig maanta",
+    "note": "Kuwii ‘sharafta lahaa’ oo ereyga naftooda u baadhay.",
+    "events": [
+     "Ereyga way si diiran u aqbalaan",
+     "Maalin walba Qorniinka way baadhaan inay hubsadaan",
+     "Dad badan baa rumaysta"
+    ]
+   },
+   "athens": {
+    "name": "Ateenay",
+    "book": "Falimaha Rasuullada 17:16-34",
+    "today": "Ateenay, Giriig maanta",
+    "note": "Magaaladii faylasuufyada wuxuu ku dhawaaqaa ‘ilaaha aan la aqoon’.",
+    "events": [
+     "Wuxuu ka xanaaqaa magaalo sanamyo ka buuxaan",
+     "Areyobago korkiisa wuxuu ku wacdiyaa Abuuraha iyo soo sarakicidda",
+     "Waa lagu majaajiloodaa, weliba qaar baa rumaysta"
+    ]
+   },
+   "corinth": {
+    "name": "Korintos",
+    "book": "Falimaha Rasuullada 18 · 1–2 Korintos",
+    "today": "Giriig maanta",
+    "note": "Sannad iyo badh ayuu joogaa, isagoo kaniisad ka aasaasaya magaalo xumaan badan.",
+    "events": [
+     "Wuxuu teendhooyin la sameeyaa Akula iyo Bariskilla",
+     "“Ha cabsan… waayo, waan kula joogaa”",
+     "Dad badan oo reer Korintos ah way rumaystaan oo la baabtiisaa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesos",
+    "book": "Falimaha Rasuullada 19 · Efesos",
+    "today": "Selçuk, Turki maanta",
+    "note": "Wadnaha safarka saddexaad — ereygu wuxuu ku faafaa Aasiya oo dhan.",
+    "events": [
+     "Maalin walba waxbarid laba sannadood ah oo hoolka Turannos ah",
+     "Buugag sixir ah waa la gubaa; shuqullo xoog leh",
+     "Demeteriyos oo qalinle ah ayaa rabshad bilaaba"
+    ]
+   },
+   "miletus": {
+    "name": "Mileetos",
+    "book": "Falimaha Rasuullada 20:17-38",
+    "today": "Turki maanta",
+    "note": "Sagootin ilmo leh oo waayeellada Efesos.",
+    "events": [
+     "“U xannaaneeya kaniisadda uu dhiiggiisa ku soo iibsaday”",
+     "Waayeelladu way ooyaan, iyagoo og inaanay mar dambe arki doonin"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaysariya",
+    "book": "Falimaha Rasuullada 23–26",
+    "today": "xeebta Israa'iil maanta",
+    "note": "Laba sannadood ayuu injiilka ku difaacaa taliyayaal iyo boqor hortooda.",
+    "events": [
+     "Maxkamado taliyayaashii Feeliks iyo Feestos hortooda",
+     "Difaaciisii Boqor Agribba hortiisa",
+     "“Waxaan u ashtakoonayaa Kaysar” — sii xagga Roomaan"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yeruusaalem",
+    "book": "Falimaha Rasuullada 21–23",
+    "today": "Yeruusaalem maanta",
+    "note": "Macbudka ayaa lagu qabtaa, jidkiisii maxbuusnimaduna wuu bilaabmaa.",
+    "events": [
+     "Dadkii badnaa ayaa macbudka ku qabta",
+     "Wuxuu naftiisa ku difaacaa shirka hortiisa",
+     "Isagoo muwaadin Roomaan ah, ilaalo hoosteed loo diraa Kaysariya"
+    ]
+   },
+   "myra": {
+    "name": "Mura",
+    "book": "Falimaha Rasuullada 27:5-6",
+    "today": "Demre, Turki maanta",
+    "note": "Waxay u guuraan markab reer Aleksanderiya ah oo Roomaan ku socda.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Marsada Wanaagsan (Kereetee)",
+    "book": "Falimaha Rasuullada 27:8-12",
+    "today": "Kereetee maanta",
+    "note": "Digniintii Bawlos ee ah in la joojiyo dhoofka waa la maqli waayaa.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kereetee",
+    "book": "Tiitos",
+    "today": "Kereetee maanta",
+    "note": "Sii-deyntiisa ka dib, jasiiraddii uu Tiitos kaga tagay inuu kaniisadaha hagaajiyo.",
+    "events": [
+     "Wuxuu Tiitos uga tagaa inuu magaalo walba waayeello ka doorto",
+     "Wuxuu u yeeraa hoggaamiyayaal eedla'aan iyo aamin ah",
+     "Wuxuu qoraa warqaddii Tiitos"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Falimaha Rasuullada 27–28",
+    "today": "Malta maanta",
+    "note": "Duufaan iyo markab-burbur dhexdood, ballantii Ilaah way taagan tahay.",
+    "events": [
+     "‘Waqooyi-bari’ ayaa markabka jebiya, weliba dhammaan 276 way badbaadaan",
+     "Mas baa qaniinya, isagana waxba kuma noqonaan",
+     "Wuxuu bogsiiyaa kuwa buka ee jasiiradda"
+    ]
+   },
+   "syracuse": {
+    "name": "Surakuus",
+    "book": "Falimaha Rasuullada 28:12",
+    "today": "Sisili, Talyaani maanta",
+    "note": "Saddex maalmood ayay Sisili joogaan.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Botiyoli",
+    "book": "Falimaha Rasuullada 28:13-14",
+    "today": "Pozzuoli, Talyaani maanta",
+    "note": "Waxay ku soo degaan Talyaani waxaana soo dhoweeya walaalo rumaystayaal ah.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roomaan",
+    "book": "Falimaha Rasuullada 28 · Waraaqaha Xabsiga · 2 Timoteyos",
+    "today": "Roomaan, Talyaani maanta",
+    "note": "Injiilku ugu dambeyntii wuxuu gaadhaa wadnaha boqortooyada — maaha dhammaad laakiinse bilow.",
+    "events": [
+     "Laba sannadood oo guri-xidhmo ah, isagoo geesinimo boqortooyada ku dhawaaqaya",
+     "Halkan wuxuu ka qoraa Waraaqaha Xabsiga (Efesos·Filiboy·Kolosay·Filemon)",
+     "Gadaal mar kale waa la xidhaa, wuxuu qoraa 2 Timoteyos waana la dilaa — “Dagaalkii wanaagsan waan dagaallamay, tartankiina waan dhammeeyey”"
+    ]
+   }
+  },
+  "labels": [
+   "Badda Dhexe",
+   "Badda Ejiyaan",
+   "Aasiya Yar",
+   "Makedoniya",
+   "Talyaani"
+  ],
+  "journeys": {
+   "j1": "Safarkii kowaad",
+   "j2": "Safarkii labaad",
+   "j3": "Safarkii saddexaad",
+   "rome": "Safarkii afaraad · xagga Roomaan",
+   "j5": "Safarkii shanaad · sii-deynta ka dib"
+  }
+ }
+}
