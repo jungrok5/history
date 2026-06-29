@@ -1,0 +1,636 @@
+{
+ "menuName": "Tagalog",
+ "htmlLang": "tl",
+ "dir": "ltr",
+ "locale": "tl-PH",
+ "brand": "Ang Bibliya sa Isang Pag-scroll",
+ "docTitle": "Ang Bibliya ayon sa Mapa · Ang Bibliya sa Isang Pag-scroll",
+ "metaDesc": "Subaybayan ang takbo ng panahon ng Matandang Tipan, ang buhay ni Jesus, at ang mga paglalakbay ni Pablo sa isang tunay na mapa — naganap ang Bibliya sa tunay na mga lugar.",
+ "s": {
+  "kicker": "Ang Bibliya sa Isang Pag-scroll · Mga Mapa",
+  "title": "Ang Bibliya ayon sa Mapa",
+  "verse": "“Ang ipinahayag namin sa inyo tungkol sa kapangyarihan at muling pagparito ng ating Panginoong Jesu-Cristo ay hindi mga alamat na katha lamang ng tao. Nasaksihan namin ang kanyang kadakilaan” (2 Pedro 1:16)",
+  "purpose": "Ang Bibliya ay hindi mito. Ito ay talaan ng mga taong lumakad sa tunay na mga lugar, petsa, at pangalan. Subaybayan ang mga landas na iyon sa mapa, ayon sa pagkakasunod-sunod ng panahon — pindutin ang isang punto, o pindutin ang ▶ upang lakbayin ito hakbang-hakbang.",
+  "ot_kick": "① Matandang Tipan — sa paglipas ng panahon",
+  "ot_h": "Mula sa paglikha hanggang sa pagbabalik sa Jerusalem",
+  "ot_lead": "Hindi iisang paglalakbay kundi ang takbo ng kasaysayan ng pagtubos mula sa paglikha: paglikha at pagkahulog → baha at Babel → isang pagtawag (Abraham) → ang lupang pangako → Exodo → ilang → pananakop → kaharian → paghahati → pagkatapon → pagbabalik.",
+  "je_kick": "② Bagong Tipan — ang buhay ni Jesus",
+  "je_h": "Mula sa Betlehem hanggang sa Jerusalem",
+  "je_lead": "Sundan ang buhay ni Jesus ayon sa salaysay ng mga Ebanghelyo, sa pagkakasunod-sunod — mula sa kanyang kapanganakan sa Betlehem, sa kanyang bautismo at ministeryo sa Galilea, patawid sa Samaria, hanggang sa krus, muling pagkabuhay, at pag-akyat sa langit sa Jerusalem.",
+  "pa_kick": "③ Bagong Tipan — ang mga paglalakbay ni Pablo",
+  "pa_h": "Mula sa Antioquia hanggang sa mga dulo ng daigdig — Roma",
+  "pa_lead": "Mula sa Pentecostes sa Jerusalem, kung paano lumaganap ang ebanghelyo lampas sa Judea — sa Asia Menor at Europa hanggang sa puso ng imperyo. Pumili ng isa sa limang paglalakbay (1·2·3 + ang paglalayag patungong Roma + matapos palayain) at sundan ang mga pangyayari sa Mga Gawa kasama ang mga liham na isinulat sa daan.",
+  "foot": "Mga sanggunian · Ang mga lugar ay sumusunod sa teksto ng Bibliya at sa karaniwang heograpiya ng Bibliya (na may mga makabagong pangalan kung makakatulong). Ang mga baybayin, ilog, at lawa ay iginuhit mula sa bukás na datos heograpiko (Natural Earth), pinasimple.",
+  "contact": "Mga katanungan · puna — <a id=\"contact\" class=\"mail\">Mag-email sa amin</a>",
+  "play": "Patugtugin",
+  "pause": "Itigil",
+  "today": "Ngayon:",
+  "verseCite": "2 Pedro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Paglikha · Pagkahulog)",
+    "book": "Genesis 1–3",
+    "today": "ang rehiyon ng Tigris–Eufrates ngayon",
+    "note": "Sa isang mundong ginawang napakabuti, pumasok ang kasalanan at naputol ang ugnayan ng Diyos at ng tao.",
+    "events": [
+     "Paglikha sa loob ng anim na araw — “napakabuti”",
+     "Ang tao na nilikha ayon sa larawan ng Diyos",
+     "Ang pagkahulog, at ang pagpapaalis sa Eden",
+     "Ang unang pangako ng ebanghelyo — “ang binhi ng babae ang dudurog sa ulo ng ahas”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (ang Baha)",
+    "book": "Genesis 6–9",
+    "today": "Bundok Ararat, silangang Turkiya ngayon",
+    "note": "Hinatulan ng Diyos ang mundong puno ng kasalanan, ngunit iningatan ang buhay sa pamamagitan ng isang pamilya.",
+    "events": [
+     "Isang mundong puno ng kasamaan",
+     "Ang baha, at ang arka ni Noe",
+     "Ang tipan ng bahaghari — “hindi na lilipulin sa baha”"
+    ]
+   },
+   "babel": {
+    "name": "Tore ng Babel",
+    "book": "Genesis 11",
+    "today": "Iraq ngayon (kapatagan ng Shinar)",
+    "note": "Laban sa kapalaluang umaabot sa langit, kinalat ng Diyos ang kanilang wika at ang mga tao sa buong daigdig.",
+    "events": [
+     "“Magtayo tayo ng lunsod at tore… upang maging tanyag tayo”",
+     "Niloko ng Diyos ang kanilang wika",
+     "Nagkalat ang mga tao sa buong daigdig (Shinar — kalaunay Babilonia)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesis 12",
+    "today": "katimugang Iraq ngayon",
+    "note": "Nagsisimula ang kuwento ng pagtubos ng Bibliya sa pagtawag sa isang tao.",
+    "events": [
+     "Tinawag ng Diyos si Abram palabas ng Ur ng mga Caldeo",
+     "“Gagawin kitang isang malaking bansa… mapagpapala ang lahat ng bansa sa pamamagitan mo”",
+     "Sa pananampalataya ay iniwan niya ang kanyang lupang tinubuan"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Genesis 12",
+    "today": "katimugang Turkiya ngayon",
+    "note": "Sa daan, tumutugon sa pagtawag patungo sa lupang pangako.",
+    "events": [
+     "Nanirahan sa Haran ang sambahayan ni Tera",
+     "Namatay si Tera",
+     "Naglakbay si Abram patungong Canaan sa edad na 75"
+    ]
+   },
+   "shechem": {
+    "name": "Siquem · Canaan",
+    "book": "Genesis 12–50",
+    "today": "Nablus ngayon",
+    "note": "Sa lupang pangako ay naitatag ang isang pamilya at naipasa ang tipan sa mga sumunod na salinlahi.",
+    "events": [
+     "Pagpasok sa Canaan, unang altar — “sa iyong binhi ibibigay ko ang lupaing ito”",
+     "Ang tipan (Gen 15) · Isaac · Jacob",
+     "Ang labindalawang anak ni Jacob — ugat ng labindalawang lipi"
+    ]
+   },
+   "egypt": {
+    "name": "Egipto (Gosen)",
+    "book": "Genesis 37–50 · Exodo 1",
+    "today": "Delta ng Nilo, Egipto ngayon",
+    "note": "Naging isang malaking bansa ang isang pamilya — pagkatapos ay naging bansa ng mga alipin.",
+    "events": [
+     "Si Jose, na ipinagbili, ay naitaas upang mamahala sa Egipto",
+     "Bumaba sa Egipto ang buong pamilya ni Jacob upang takasan ang taggutom",
+     "Inalipin ang lumalagong bansa ng Israel"
+    ]
+   },
+   "sinai": {
+    "name": "Bundok Sinai",
+    "book": "Exodo · Levitico",
+    "today": "Tangway ng Sinai ngayon",
+    "note": "Ang pangunahing pagliligtas ng Matandang Tipan — naging bayan ng Diyos ang mga alipin.",
+    "events": [
+     "Ang sampung salot at ang korderong Paskua",
+     "Nahati ang Dagat na Pula at sila'y tumawid",
+     "Ang Sampung Utos, ang Kautusan, ang tabernakulo at mga handog"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (ilang)",
+    "book": "Mga Bilang · Deuteronomio",
+    "today": "ang ilang ng Sinai–Negev ngayon",
+    "note": "Ang kawalan ng pananampalataya ang nagkait sa isang salinlahi ng lupain — gayunpaman, nanatili ang Diyos sa kanila.",
+    "events": [
+     "Labindalawang tiktik — ngunit tumangging magtiwala ang bayan",
+     "38 taon sa ilang — manna, ulap, at apoy",
+     "Sa kapatagan ng Moab, ang huling pangaral ni Moises (Deuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Josue",
+    "today": "Jerico ngayon",
+    "note": "Sa wakas ay pumasok sila at sinakop ang lupang pangako.",
+    "events": [
+     "Nahati ang Jordan at tumawid ang bayan",
+     "Bumagsak ang mga pader ng Jerico",
+     "Ang pananakop sa Canaan at ang paghahati ng lupain"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Mga Hukom)",
+    "book": "Mga Hukom · Ruth",
+    "today": "Khirbet Seilun ngayon",
+    "note": "Walang hari, kaya ginagawa ng bawat isa ang nais niya — kailangan ng tunay na hari.",
+    "events": [
+     "Itinayo ang tabernakulo sa Shilo",
+     "Ang siklo ng kasalanan–pang-aapi–pagliligtas (Debora, Gideon, Samson)",
+     "Ruth — katapatan sa madilim na panahon, sa angkan ni David"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Nagkakaisang Kaharian",
+    "book": "1–2 Samuel · 1 Mga Hari",
+    "today": "Jerusalem ngayon",
+    "note": "Ang gintong panahon ng Israel — at ang pangako ng isang walang-hanggang hari.",
+    "events": [
+     "Si Saul ang unang hari, pagkatapos si David at si Goliat",
+     "Ang tipan kay David — “ang iyong trono magpakailanman” (2 Sam 7)",
+     "Itinayo ni Solomon ang templo sa Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Hating Kaharian",
+    "book": "Mga Hari · ang mga Propeta",
+    "today": "Sebastia ngayon",
+    "note": "Nahati at unti-unting bumaba ang kaharian habang sumisigaw ang mga propeta.",
+    "events": [
+     "Pagkatapos ni Solomon, ang paghahati sa Juda at Israel",
+     "Paulit-ulit na pagsamba sa diyus-diyosan",
+     "Sina Elias, Isaias, Jeremias ay sumigaw ng ‘magbalik’ — at nanghula tungkol sa Mesiyas"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "2 Mga Hari 17 · Jonas",
+    "today": "Mosul, Iraq ngayon",
+    "note": "Sa pagwawalang-bahala sa bawat babala, ang hilaga ang unang bumagsak.",
+    "events": [
+     "Ninive, ang kabisera ng Asiria",
+     "Bumagsak ang hilagang kaharian sa Asiria (722 B.C.)",
+     "Isinugo si Jonas sa Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilonia",
+    "book": "2 Mga Hari 25 · Daniel · Ezekiel",
+    "today": "Hillah, Iraq ngayon",
+    "note": "Ang pinakamadilim na gabi — ngunit nanatili ang pangako ng pagpapanumbalik.",
+    "events": [
+     "Bumagsak ang Jerusalem, sinunog ang templo (586 B.C.)",
+     "Dinala sa Babilonia ang Juda",
+     "Daniel at Ezekiel — pananampalataya at mga pangitain sa pagkatapon"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Ester · Nehemias",
+    "today": "Shush, Iran ngayon",
+    "note": "Kahit sa puso ng isang paganong imperyo, iniingatan ng Diyos ang kanyang bayan.",
+    "events": [
+     "Nilupig ng Persia ang Babilonia",
+     "Iniligtas ni Ester ang mga Judio mula sa pagkalipol",
+     "Nanalangin si Nehemias sa harap ng hari at isinugo"
+    ]
+   },
+   "return": {
+    "name": "Pagbabalik sa Jerusalem",
+    "book": "Ezra · Nehemias · Malakias",
+    "today": "Jerusalem ngayon",
+    "note": "Bumalik sila at muling nagtayo — ngunit walang haring dumating. Hinihintay nila ang Mesiyas.",
+    "events": [
+     "Tatlong alon ng pagbabalik sa pamamagitan ng utos ni Ciro (Zerubabel 538 · Ezra 458 · Nehemias 444)",
+     "Muling itinayo ang templo at naipanumbalik ang mga pader ng Jerusalem",
+     "Malakias — nagtapos ang Matandang Tipan: “Ipadadala ko ang aking sugo”"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Mesopotamia",
+   "Disyerto ng Arabia",
+   "Egipto"
+  ],
+  "journeys": {
+   "flow": "Ang kuwento ng pagtubos"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mateo 1–2 · Lucas 2",
+    "today": "Betlehem ngayon",
+    "note": "Dumating ang ipinangakong Mesiyas sa bayan ni David — ang Salita na naging tao.",
+    "events": [
+     "Isinilang sa Betlehem, ang bayan ni David",
+     "Ipinahayag ng mga anghel ang balita sa mga pastol",
+     "Dumating ang mga pantas upang sumamba"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lucas 2 · 4",
+    "today": "Nazaret ngayon",
+    "note": "Lumaki ang Diyos bilang tao sa isang karaniwang bayan.",
+    "events": [
+     "Lumaki sa tahanan ng isang karpintero",
+     "Sa edad na labindalawa, nagtatanong at sumasagot sa templo",
+     "Kalaunay tinanggihan sa sinagoga ng sariling bayan"
+    ]
+   },
+   "jordan": {
+    "name": "Ilog Jordan",
+    "book": "Mateo 3–4",
+    "today": "ang ibabang Jordan ngayon",
+    "note": "Nagsimula ang kanyang pangmadlang ministeryo — tinatakan siya ng langit bilang Anak.",
+    "events": [
+     "Binautismuhan ni Juan",
+     "Bumaba ang Espiritu na parang kalapati — “Ito ang minamahal kong Anak”",
+     "Nilupig ang tatlong tukso ni Satanas sa ilang"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "Juan 2",
+    "today": "Kafr Kanna ngayon",
+    "note": "Sa kanyang unang himala ay inihayag niya ang kanyang kaluwalhatian.",
+    "events": [
+     "Isang panauhin sa isang kasalan",
+     "Tubig na ginawang alak — ang kanyang unang himala",
+     "Sumampalataya sa kanya ang kanyang mga alagad"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Juan 2–4",
+    "today": "malapit sa Nablus ngayon",
+    "note": "Ang daan ng unang ministeryo — sa Jerusalem at patungo sa hinamak na Samaria.",
+    "events": [
+     "Nilinis niya ang templo sa Jerusalem",
+     "Kinagabihan, si Nicodemo — “Kailangan mong isilang na muli”",
+     "Tubig na buhay para sa isang babaeng Samaritana"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Mateo 4–13 · Marcos 1–4",
+    "today": "ang baybayin ng lawa ng Galilea ngayon",
+    "note": "Sentro ng ministeryo sa Galilea — dito nagtatagpo ang pagtawag, pagtuturo, at pagtutol.",
+    "events": [
+     "Tinawag ang mga mangingisda at dito nanirahan",
+     "Ang Sermon sa Bundok — “Mapalad ang mga nagpapakababa”",
+     "Mga talinghaga ng kaharian — at lumalaking pagtutol"
+    ]
+   },
+   "galilee": {
+    "name": "Lawa ng Galilea",
+    "book": "Marcos 4 · 6 · Juan 6",
+    "today": "Lawa ng Kinneret ngayon",
+    "note": "Sa kapangyarihan niya sa kalikasan, ipinapakita niya kung sino siya.",
+    "events": [
+     "“Tumahimik ka” — pinatahimik niya ang unos",
+     "Pinakain ang 5,000 sa limang tinapay at dalawang isda",
+     "Lumakad sa ibabaw ng tubig"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea Filipos",
+    "book": "Mateo 16–17",
+    "today": "Banias ngayon",
+    "note": "Naunawaan ng mga alagad na siya ang Cristo, at nabuksan ang landas ng krus.",
+    "events": [
+     "Ang pagpapahayag ni Pedro — “Ikaw ang Cristo, ang Anak ng Diyos na buhay”",
+     "Unang inihula niya ang kanyang kamatayan at muling pagkabuhay",
+     "Nagbagong-anyo sa kaluwalhatian sa bundok"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Lucas 18–19",
+    "today": "Jerico ngayon",
+    "note": "Sa daang paahon sa Jerusalem, hinahanap niya ang mga naliligaw.",
+    "events": [
+     "Pinagaling ang bulag na si Bartimeo",
+     "Tinawag si Zaqueo ang maniningil ng buwis",
+     "“Naparito ang Anak ng Tao upang hanapin at iligtas ang naliligaw”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Juan 11–12",
+    "today": "al-Eizariya ngayon",
+    "note": "Ipinakita niya ang kapangyarihan sa kamatayan sa bisperas ng kanyang huling linggo.",
+    "events": [
+     "Binuhay si Lazaro mula sa libingan — “Ako ang muling pagkabuhay at ang buhay”",
+     "Pinahiran siya ni Maria para sa paglilibing",
+     "Pinatindi ng himalang ito ang balak na patayin siya"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mateo 21–28 · Lucas 24 · Mga Gawa 1",
+    "today": "Jerusalem ngayon",
+    "note": "Ang rurok na tinutumbok ng buong Bibliya — krus, muling pagkabuhay, pag-akyat sa langit.",
+    "events": [
+     "Matagumpay na pagpasok; muling itinaob ang mga mesa sa templo",
+     "Sa Huling Hapunan ay hinugasan niya ang mga paa ng mga alagad",
+     "Namatay siya sa krus",
+     "Muling nabuhay sa ikatlong araw, pagkatapos ay umakyat sa langit"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Decapolis",
+   "Perea",
+   "Dagat na Patay"
+  ],
+  "journeys": {
+   "life": "Ang landas ni Jesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioquia",
+    "book": "Mga Gawa 13 · 15",
+    "today": "Antakya, Turkiya ngayon",
+    "note": "Ang nagsusugong iglesya kung saan nagsisimula at bumabalik ang misyon sa mga Hentil.",
+    "events": [
+     "Sa panalangin ay ibinukod ng Espiritu sina Bernabe at Saulo",
+     "Ang iglesyang unang tinawag na ‘Kristiyano’ ang mga mananampalataya",
+     "Pasimula ng una, ika-2, at ika-3 paglalakbay"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Mga Gawa 13:4",
+    "today": "Turkiya ngayon",
+    "note": "Ang daungan ng Antioquia — naglayag sila patungong Cipre.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Cipre)",
+    "book": "Mga Gawa 13:5",
+    "today": "Cipre ngayon",
+    "note": "Unang himpilan sa Cipre — nangaral sa mga sinagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Mga Gawa 13:6-12",
+    "today": "Cipre ngayon",
+    "note": "Ipinakita ang kapangyarihan laban sa mga sumasalungat sa ebanghelyo.",
+    "events": [
+     "Nabulag si Elimas na mangkukulam",
+     "Sumampalataya si Sergio Paulo na gobernador",
+     "Mula rito ay si ‘Pablo’ na ang nanguna"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Mga Gawa 13:13",
+    "today": "Antalya, Turkiya ngayon",
+    "note": "Isang daungan sa Pamfilia — dito tumalikod si Juan Marcos.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioquia ng Pisidia",
+    "book": "Mga Gawa 13:14-50",
+    "today": "Yalvaç, Turkiya ngayon",
+    "note": "Nabuksan ang ebanghelyo tungo sa mga Hentil.",
+    "events": [
+     "Mahabang pangaral ng kasaysayan ng kaligtasan sa sinagoga",
+     "Maraming Hentil ang nagalak at tumanggap ng salita",
+     "Pinalayas dahil sa pagtutol"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Mga Gawa 14:1-7",
+    "today": "Konya, Turkiya ngayon",
+    "note": "Marami ang sumampalataya, ngunit pinilit silang umalis ng pag-uusig.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Mga Gawa 14:8-20",
+    "today": "Turkiya ngayon",
+    "note": "Pinuri bilang diyos, pagkatapos ay binato.",
+    "events": [
+     "Pinagaling ang isang lalaking pilay mula pagkasilang",
+     "Tinangka ng mga tao na maghandog sa kanila bilang mga diyos",
+     "Binato at iniwang akala'y patay, ngunit bumangon siya"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Mga Gawa 14:20-21",
+    "today": "Turkiya ngayon",
+    "note": "Maraming alagad ang nahikayat; binalikan nila ang daan upang palakasin ang mga iglesya.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Mga Gawa 16:8-10",
+    "today": "Turkiya ngayon",
+    "note": "Ang punto ng pagbabago kung saan unang pumatungo ang ebanghelyo sa Europa.",
+    "events": [
+     "Isang pangitain ng isang taong taga-Macedonia",
+     "“Pumunta kayo rito at tulungan ninyo kami”",
+     "Agad silang tumawid patungong Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipos",
+    "book": "Mga Gawa 16 · Mga Taga-Filipos",
+    "today": "hilagang Gresya ngayon",
+    "note": "Ang unang iglesya ng Europa — nagtagumpay ang ebanghelyo kahit sa bilangguan.",
+    "events": [
+     "Sumampalataya si Lidia, isang mangangalakal ng telang purpura",
+     "Pinalaya ang isang aliping babaeng manghuhula",
+     "Mga awit sa hatinggabi, isang lindol, naligtas ang sambahayan ng tagapagbantay"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonica",
+    "book": "Mga Gawa 17 · 1–2 Tesalonica",
+    "today": "Tesalonica, Gresya ngayon",
+    "note": "Niyanig ng salita ang lunsod at sumiklab ang pagtutol.",
+    "events": [
+     "Nangatwiran sa sinagoga sa loob ng tatlong Araw ng Pamamahinga",
+     "“Ang mga taong ito na bumabaligtad sa daigdig”",
+     "Lihim silang umalis sa gabi"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Mga Gawa 17:10-15",
+    "today": "Veria, Gresya ngayon",
+    "note": "Ang ‘marangal’ na mga nagsuri mismo sa salita.",
+    "events": [
+     "Tinanggap nila ang salita nang buong pananabik",
+     "Araw-araw nilang sinusuri ang Kasulatan upang patunayan ito",
+     "Marami ang sumampalataya"
+    ]
+   },
+   "athens": {
+    "name": "Atenas",
+    "book": "Mga Gawa 17:16-34",
+    "today": "Atenas, Gresya ngayon",
+    "note": "Sa lunsod ng mga pilosopo ay inihayag niya ang ‘di-kilalang diyos’.",
+    "events": [
+     "Nayanig sa isang lunsod na puno ng diyus-diyosan",
+     "Sa Areopago ay ipinangaral niya ang Maylikha at ang muling pagkabuhay",
+     "Kinutya, ngunit may ilang sumampalataya"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Mga Gawa 18 · 1–2 Corinto",
+    "today": "Gresya ngayon",
+    "note": "Nanatili siya nang isang taon at kalahati, nagtatag ng iglesya sa isang lunsod ng kasamaan.",
+    "events": [
+     "Gumawa ng tolda kasama sina Aquila at Priscila",
+     "“Huwag kang matakot… sapagkat kasama mo ako”",
+     "Maraming taga-Corinto ang sumampalataya at nabautismuhan"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Mga Gawa 19 · Mga Taga-Efeso",
+    "today": "Selçuk, Turkiya ngayon",
+    "note": "Sentro ng ika-3 paglalakbay — lumaganap ang salita sa buong Asia.",
+    "events": [
+     "Araw-araw na pagtuturo sa loob ng dalawang taon sa bulwagan ni Tirano",
+     "Sinunog ang mga aklat ng mahika; makapangyarihang mga gawa",
+     "Si Demetrio na platero ang nagpasimula ng kaguluhan"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Mga Gawa 20:17-38",
+    "today": "Turkiya ngayon",
+    "note": "Isang paalam na may luha sa mga matatanda ng Efeso.",
+    "events": [
+     "“Pangalagaan ang iglesyang binili niya ng sarili niyang dugo”",
+     "Tumangis ang mga matatanda, alam na hindi na nila siya makikita"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Mga Gawa 23–26",
+    "today": "baybayin ng Israel ngayon",
+    "note": "Sa loob ng dalawang taon ay ipinagtanggol niya ang ebanghelyo sa harap ng mga gobernador at ng isang hari.",
+    "events": [
+     "Mga paglilitis sa harap ng mga gobernador na sina Felix at Festo",
+     "Ang kanyang pagtatanggol sa harap ni Haring Agripa",
+     "“Inaapela ko ang aking usapin kay Cesar” — patungong Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mga Gawa 21–23",
+    "today": "Jerusalem ngayon",
+    "note": "Dinakip sa templo, nagsimula ang kanyang landas bilang bilanggo.",
+    "events": [
+     "Dinakip ng mga tao sa templo",
+     "Ipinagtanggol ang sarili sa harap ng Sanedrin",
+     "Bilang mamamayang Romano, isinugong may bantay sa Cesarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Mga Gawa 27:5-6",
+    "today": "Demre, Turkiya ngayon",
+    "note": "Lumipat sila sa isang barkong taga-Alejandria na patungong Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Magagandang Daungan (Creta)",
+    "book": "Mga Gawa 27:8-12",
+    "today": "Creta ngayon",
+    "note": "Hindi pinakinggan ang babala ni Pablo na huwag nang maglayag.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tito",
+    "today": "Creta ngayon",
+    "note": "Matapos palayain, ang pulo kung saan iniwan niya si Tito upang ayusin ang mga iglesya.",
+    "events": [
+     "Iniwan si Tito upang magtalaga ng mga matatanda sa bawat bayan",
+     "Naghahanap ng walang kapintasan at tapat na mga pinuno",
+     "Sumulat ng liham kay Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Mga Gawa 27–28",
+    "today": "Malta ngayon",
+    "note": "Sa bagyo at pagkawasak ng barko, nanatili ang pangako ng Diyos.",
+    "events": [
+     "Winasak ng ‘hilagang-silangang hangin’ ang barko, ngunit nakaligtas ang lahat ng 276",
+     "Tinuklaw ng ulupong, ngunit hindi siya napinsala",
+     "Pinagaling niya ang mga maysakit sa pulo"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Mga Gawa 28:12",
+    "today": "Sicilia, Italya ngayon",
+    "note": "Tumigil sila nang tatlong araw sa Sicilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Mga Gawa 28:13-14",
+    "today": "Pozzuoli, Italya ngayon",
+    "note": "Dumaong sila sa Italya at sinalubong ng kapwa mananampalataya.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Mga Gawa 28 · Mga Liham sa Bilangguan · 2 Timoteo",
+    "today": "Roma, Italya ngayon",
+    "note": "Sa wakas ay narating ng ebanghelyo ang puso ng imperyo — hindi isang wakas kundi isang simula.",
+    "events": [
+     "Dalawang taon sa ilalim ng pagkabilanggo sa bahay, buong tapang na ipinangaral ang kaharian",
+     "Mula rito ay isinulat niya ang mga Liham sa Bilangguan (Efe·Fil·Col·Filemon)",
+     "Kalaunay muling ibinilanggo, isinulat ang 2 Timoteo at namatay bilang martir — “Pinaglaban ko ang mabuting pakikipaglaban, natapos ko ang takbuhin”"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Dagat Egeo",
+   "Asia Menor",
+   "Macedonia",
+   "Italya"
+  ],
+  "journeys": {
+   "j1": "Unang paglalakbay",
+   "j2": "Ikalawang paglalakbay",
+   "j3": "Ikatlong paglalakbay",
+   "rome": "Ikaapat na paglalakbay · patungong Roma",
+   "j5": "Ikalimang paglalakbay · matapos palayain"
+  }
+ }
+}
