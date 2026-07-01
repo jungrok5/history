@@ -1,0 +1,636 @@
+{
+ "menuName": "Winaray",
+ "htmlLang": "war",
+ "dir": "ltr",
+ "locale": "war",
+ "brand": "An Biblia ha Usa nga Pag-iskrol",
+ "docTitle": "An Biblia Pinaagi han Mapa · An Biblia ha Usa nga Pag-iskrol",
+ "metaDesc": "Sundon ha tinuod nga mapa an linya han panahon han Daan nga Tugon, an kinabuhi ni Jesus, ngan an mga panaw ni Pablo — an Biblia nahitabo ha tinuod nga mga lugar.",
+ "s": {
+  "kicker": "An Biblia ha Usa nga Pag-iskrol · Mga Mapa",
+  "title": "An Biblia Pinaagi han Mapa",
+  "verse": "“Waray kami tumapod hin mga hinimohimo nga mga susumaton, han amon pagpahibaro ha iyo mahitungod han gamhanan nga pag-abot han aton Ginoo Jesu-Cristo.” (2 Pedro 1:16)",
+  "purpose": "An Biblia diri mito. Usa ini nga rekord han mga tawo nga naglakat ha tinuod nga mga lugar, petsa, ngan mga ngaran. Sundon ito nga mga dalan ha mapa, ha sunod-sunod nga panahon — pitika an usa nga punto, o pidla an ▶ basi lakton ito tagsa-tagsa nga lakang.",
+  "ot_kick": "① Daan nga Tugon — ha kahilabihan han panahon",
+  "ot_h": "Tikang ha pagtuha tubtob ha pagbalik ha Jerusalem",
+  "ot_lead": "Diri usa la nga biyahe kundi an agos han kasaysayan-katubsanan tikang ha pagtuha: pagtuha ngan pagkahulog → an baha ngan an Babel → usa nga pagtawag (Abraham) → an tuna nga iginsaad → Eksodo → kamingawan → pagsakop → ginhadian → pagkabahin → pagkabihag → pagbalik.",
+  "je_kick": "② Bag-o nga Tugon — an kinabuhi ni Jesus",
+  "je_h": "Tikang ha Betlehem tubtob ha Jerusalem",
+  "je_lead": "Sundon an kinabuhi ni Jesus sumala han pagsumat han mga Ebanghelyo, ha sunod-sunod — tikang ha iya katawo ha Betlehem pinaagi han iya bawtismo ngan ministeryo ha Galilea, ha Samaria, tubtob ha kros, pagkabanhaw ngan pagkayab ha Jerusalem.",
+  "pa_kick": "③ Bag-o nga Tugon — an mga panaw ni Pablo",
+  "pa_h": "Tikang ha Antioquia tubtob ha mga sidsid han kalibutan — Roma",
+  "pa_lead": "Tikang ha Pentecostes ha Jerusalem, kon paonan-o nagsarang an Maupay nga Sumat ha luwas han Judea — pinaagi han Asia Minor ngan Europa tubtob ha kasingkasing han emperyo. Pilia an usa han lima nga mga panaw (siyahan·ikaduha·ikatulo + an biyahe ngadto ha Roma + human han pagpagawas) ngan sundon an mga panhitabo han Mga Buhat kaupod han mga surat nga iginsurat ha dalan.",
+  "foot": "Mga basaran · An mga lugar nasunod ha teksto han Biblia ngan ha estandard nga heograpiya han Biblia (may moderno nga mga ngaran kon nakakabulig). An mga baybayon, salog, ngan lanaw iginkuha tikang ha bukas nga heograpikanhon nga datos (Natural Earth), ginpasayon.",
+  "contact": "Mga pakiana · komento — <a id=\"contact\" class=\"mail\">Mag-email ha amon</a>",
+  "play": "Patukara",
+  "pause": "Pahunonga",
+  "today": "Yana:",
+  "verseCite": "2 Pedro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Pagtuha · Pagkahulog)",
+    "book": "Genesis 1–3",
+    "today": "an rehiyon han Tigris–Eufrates yana",
+    "note": "Ngadto ha usa nga kalibutan nga “maupay gud” ginhimo, sinmulod an sala ngan ginputol an kasumpay butnga han Dyos ngan han katawhan.",
+    "events": [
+     "Pagtuha ha unom ka adlaw — “maupay gud”",
+     "An tawo ginhimo sugad han ladawan han Dyos",
+     "An pagkahulog, ngan an pagpaiwas tikang ha Eden",
+     "An siyahan nga saad han Maupay nga Sumat — “an tulin han babaye amo an madugmok han ulo han halas”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (an Baha)",
+    "book": "Genesis 6–9",
+    "today": "Bukid Ararat, sinirangan nga Turkiya yana",
+    "note": "Ginhukman han Dyos an usa nga kalibutan nga puno han sala, kundi gintipigan niya an kinabuhi pinaagi han usa nga pamilya.",
+    "events": [
+     "Usa nga kalibutan nga puno han karat-an",
+     "An baha, ngan an arka ni Noe",
+     "An kasabotan han balangaw — “diri na gud may baha nga maglalaglag”"
+    ]
+   },
+   "babel": {
+    "name": "Torre han Babel",
+    "book": "Genesis 11",
+    "today": "Iraq yana (kapatagan han Sinar)",
+    "note": "Kontra han pagpahitas-on nga naabot ha langit, ginsamok han Dyos an ira yinaknan ngan iginsabwag an mga katawhan ha bug-os nga tuna.",
+    "events": [
+     "“Magtukod kita hin syudad ngan usa nga torre… ngan maghimo hin ngaran para ha aton”",
+     "Ginsamok han Dyos an ira yinaknan",
+     "Nagsarang an mga katawhan ha bug-os nga tuna (Sinar — an urhi nga Babilonia)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesis 12",
+    "today": "salatan nga Iraq yana",
+    "note": "An istorya han katubsanan han Biblia natikang ha pagtawag hin usa la nga tawo.",
+    "events": [
+     "Gintawag han Dyos hi Abram tikang ha Ur han mga Caldeo",
+     "“Mahihimo ko ikaw nga usa nga dako nga nasod… an ngatanan nga mga katawhan pagbebendisyonan pinaagi ha imo”",
+     "Pinaagi han pagtoo ginbayaan niya an iya tuna nga tinikangan"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Genesis 12",
+    "today": "salatan nga Turkiya yana",
+    "note": "Ha dalan, ginbaton an pagtawag tipakadto ha tuna nga iginsaad.",
+    "events": [
+     "An pamilya ni Tera nag-istar ha Haran",
+     "Namatay hi Tera",
+     "Linmakat hi Abram tipakadto ha Canaan ha edad nga 75"
+    ]
+   },
+   "shechem": {
+    "name": "Sequem · Canaan",
+    "book": "Genesis 12–50",
+    "today": "Nablus yana",
+    "note": "Ha tuna nga iginsaad gintukod an usa nga pamilya ngan iginpasa an kasabotan ha mga kahenerasyon.",
+    "events": [
+     "Pagsulod ha Canaan, siyahan nga halaran — “ha imo mga tulin ihahatag ko ini nga tuna”",
+     "An kasabotan (Gen 15) · Isaac · Jacob",
+     "An napulo'g duha nga anak ni Jacob — gamot han napulo'g duha nga tribu"
+    ]
+   },
+   "egypt": {
+    "name": "Ehipto (Gosen)",
+    "book": "Genesis 37–50 · Exodo 1",
+    "today": "Delta han Nilo, Ehipto yana",
+    "note": "Usa nga pamilya nahimo nga usa nga dako nga nasod — niyan usa nga nasod han mga oripon.",
+    "events": [
+     "Hi Jose, iginbaligya, ginbayaw ngadto ha paghadi ha Ehipto",
+     "An bug-os nga pamilya ni Jacob naglusad basi makaiwas ha gutom",
+     "An nagtitikadako nga nasod han Israel ginhimo nga oripon"
+    ]
+   },
+   "sinai": {
+    "name": "Bukid Sinai",
+    "book": "Exodo · Levitico",
+    "today": "Peninsula han Sinai yana",
+    "note": "An sentro nga pagtalwas han Daan nga Tugon — an mga oripon nahimo nga kalugaringon nga katawhan han Dyos.",
+    "events": [
+     "An napulo nga mga kalamidad ngan an kordero han Paskua",
+     "Nabahin an Pula nga Dagat ngan nagtabok hira",
+     "Napulo nga Sugo, an Balaod, an tabernakulo ngan mga halad"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (kamingawan)",
+    "book": "Numero · Deuteronomio",
+    "today": "an kamingawan han Sinai–Negev yana",
+    "note": "An kawaray pagtoo nagpalaag hin usa nga kahenerasyon han tuna — kundi nagpabilin nga kaupod nira an Dyos.",
+    "events": [
+     "Napulo'g duha nga espiya — kundi nagdumili an mga tawo nga tumoo",
+     "38 ka tuig ha desyerto — manna, dampog ngan kalayo",
+     "Ha kapatagan han Moab, an kataposan nga wali ni Moises (Deuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Josue",
+    "today": "Jerico yana",
+    "note": "Ha kataposan sinmulod hira ngan ginsakop an tuna nga iginsaad.",
+    "events": [
+     "Nabahin an Jordan ngan nagtabok an mga tawo",
+     "Nahulog an mga kuta han Jerico",
+     "Pagsakop han Canaan ngan pagbahin han tuna"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Mga Maghuhukom)",
+    "book": "Mga Maghurukom · Ruth",
+    "today": "Khirbet Seilun yana",
+    "note": "Tungod kay waray hadi, nagbuhat an kada tawo han iya karuyag — kinahanglan an usa nga tinuod nga hadi.",
+    "events": [
+     "Igintukod an tabernakulo ha Silo",
+     "An siklo han sala–pagpig-ot–pagtalwas (Debora, Gideon, Samson)",
+     "Ruth — pagkamatinumanon ha madulom nga mga adlaw, ha katulinan ni David"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · An Naghiusa nga Ginhadian",
+    "book": "1–2 Samuel · 1 Hadi",
+    "today": "Jerusalem yana",
+    "note": "An bulawanon nga panahon han Israel — ngan an saad han usa nga waray kataposan nga hadi.",
+    "events": [
+     "Hi Saul an siyahan nga hadi, niyan hi David ngan hi Goliat",
+     "An kasabotan kan David — “an imo trono ha kadayonan” (2 Sam 7)",
+     "Gintukod ni Salomon an Templo ha Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · An Nabahin nga Ginhadian",
+    "book": "Mga Hadi · an mga Manaragna",
+    "today": "Sebastia yana",
+    "note": "Nabahin an ginhadian ngan nagluya samtang nagtuaw an mga manaragna.",
+    "events": [
+     "Human kan Salomon, an pagkabahin ngadto ha Juda ngan Israel",
+     "Gin-uutro nga pagsingba hin diosdios",
+     "Elias, Isaias, Jeremias nagtuaw ‘bumalik kamo’ — ngan nagtagna han Mesias"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "2 Hadi 17 · Jonas",
+    "today": "Mosul, Iraq yana",
+    "note": "Tungod han pagbalewara han tagsa nga pahamangno, an amihanan nahulog siyahan.",
+    "events": [
+     "Ninive, an kapital han Asiria",
+     "An amihanan nga ginhadian nahulog ha Asiria (722 A.K.)",
+     "Ginsugo hi Jonas ngadto ha Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilonia",
+    "book": "2 Hadi 25 · Daniel · Ezequiel",
+    "today": "Hillah, Iraq yana",
+    "note": "An pinakamadulom nga gab-i — kundi nagpabilin an saad han pagpahiuli.",
+    "events": [
+     "Nahulog an Jerusalem, nasunog an Templo (586 A.K.)",
+     "Gindara an Juda ngadto ha Babilonia",
+     "Daniel ngan Ezequiel — pagtoo ngan mga bisyon ha pagkabihag"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persya)",
+    "book": "Ester · Nehemias",
+    "today": "Shush, Iran yana",
+    "note": "Bisan ha kasingkasing han usa nga pagano nga emperyo, gintipigan han Dyos an iya katawhan.",
+    "events": [
+     "Ginpukan han Persya an Babilonia",
+     "Gintalwas ni Ester an mga Judiyo tikang ha kalaglagan",
+     "Nag-ampo hi Nehemias ha atubangan han hadi ngan ginsugo"
+    ]
+   },
+   "return": {
+    "name": "Pagbalik ha Jerusalem",
+    "book": "Esdras · Nehemias · Malaquias",
+    "today": "Jerusalem yana",
+    "note": "Pinmauli hira ngan gintukod liwat — kundi waray hadi nga inmabot. Naghuhulat hira han Mesias.",
+    "events": [
+     "Tulo nga balod han pagbalik pinaagi han mando ni Ciro (Zorobabel 538 · Esdras 458 · Nehemias 444)",
+     "Gintukod liwat an Templo ngan an mga kuta han Jerusalem",
+     "Malaquias — natapos an Daan nga Tugon: “Susugoon ko an akon magsarangyaw”"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Mesopotamia",
+   "Disyerto han Arabia",
+   "Ehipto"
+  ],
+  "journeys": {
+   "flow": "An istorya han katubsanan"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mateo 1–2 · Lucas 2",
+    "today": "Betlehem yana",
+    "note": "An iginsaad nga Mesias kinmanhi ha syudad ni David — an Pulong nga nahimo nga tawo.",
+    "events": [
+     "Natawo ha Betlehem, an syudad ni David",
+     "Iginpasamwak han mga anghel an sumat ngadto han mga magbarantay hin karnero",
+     "Kinmanhi an mga Mago basi sumingba"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lucas 2 · 4",
+    "today": "Nazaret yana",
+    "note": "An Dyos kinmadako sugad nga tawo ha usa nga ordinaryo nga bungto.",
+    "events": [
+     "Gintipigan ha balay han usa nga panday",
+     "Ha edad nga napulo'g duha, nagpapakiana ngan nagbabaton ha Templo",
+     "Ha urhi iginsalikway ha sinagoga han iya kalugaringon nga bungto"
+    ]
+   },
+   "jordan": {
+    "name": "Salog Jordan",
+    "book": "Mateo 3–4",
+    "today": "an ubos nga Jordan yana",
+    "note": "Natikang an iya publiko nga ministeryo — ginselyohan hiya han langit sugad nga an Anak.",
+    "events": [
+     "Ginbawtismohan ni Juan",
+     "Kinmunsad an Espiritu sugad hin sarapati — “Ini an akon hinigugma nga Anak”",
+     "Ginpilde an tulo nga sulay ni Satanas ha kamingawan"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "Juan 2",
+    "today": "Kafr Kanna yana",
+    "note": "Ha iya siyahan nga tigaman ginpakita niya an iya himaya.",
+    "events": [
+     "Usa nga bisita ha usa nga kasal",
+     "An tubig nahimo nga bino — an iya siyahan nga tigaman",
+     "Tinmoo ha iya an iya mga disipulo"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Juan 2–4",
+    "today": "harani ha Nablus yana",
+    "note": "An dalan han iya syahan nga ministeryo — pinaagi han Jerusalem ngan tipakadto han tinatamay nga Samaria.",
+    "events": [
+     "Ginlinis niya an Templo ha Jerusalem",
+     "Ha gab-i, hi Nicodemo — “Kinahanglan ka matawo hin liwat”",
+     "Buhi nga tubig para han usa nga babaye nga Samaritana"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Mateo 4–13 · Marcos 1–4",
+    "today": "an baybayon han Galilea yana",
+    "note": "An sentro han ministeryo ha Galilea — pagtawag, pagtutdo ngan pagsupak nagkikita ngatanan dinhe.",
+    "events": [
+     "Gintawag niya an mga mangirisda ngan dinhe nagpundo",
+     "An Wali ha Bukid — “Bulahan an mga kablas ha espiritu”",
+     "Mga panaragsaring han ginhadian — ngan nagtitikadako nga pagsupak"
+    ]
+   },
+   "galilee": {
+    "name": "Dagat han Galilea",
+    "book": "Marcos 4 · 6 · Juan 6",
+    "today": "Lanaw Kinneret yana",
+    "note": "Pinaagi han gahom ha kinaiyahan ginpakita niya kon hin-o hiya.",
+    "events": [
+     "“Kalma, humilom ka” — ginpakalma niya an unos",
+     "Ginpakaon an 5,000 pinaagi hin lima nga tinapay ngan duha nga isda",
+     "Naglakat ha bawbaw han tubig"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea Filipo",
+    "book": "Mateo 16–17",
+    "today": "Banias yana",
+    "note": "Nasabtan han mga disipulo nga hiya an Cristo, ngan nabuksan an dalan han kros.",
+    "events": [
+     "An pagsugid ni Pedro — “Ikaw an Cristo, an Anak han buhi nga Dyos”",
+     "Siyahan niya nga igintagna an iya kamatayon ngan pagkabanhaw",
+     "Nagbag-o an iya panagway ha bukid ha himaya"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Lucas 18–19",
+    "today": "Jerico yana",
+    "note": "Ha dalan pasaka ha Jerusalem, ginpamiling niya an nawara.",
+    "events": [
+     "Ginpakita niya an buta nga hi Bartimeo",
+     "Gintawag niya hi Saqueo nga maniningil hin buhis",
+     "“An Anak han Tawo kinmanhi basi pamilngon ngan talwason an nawara”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Juan 11–12",
+    "today": "al-Eizariya yana",
+    "note": "Ginpakita niya an kagamhanan ha kamatayon ha bisperas han iya kataposan nga semana.",
+    "events": [
+     "Ginbanhaw niya hi Lazaro tikang ha lubnganan — “Ako an pagkabanhaw ngan an kinabuhi”",
+     "Ginlanahan hiya ni Maria para han iya lubong",
+     "Ini nga tigaman nagpatig-a han plano nga patayon hiya"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mateo 21–28 · Lucas 24 · Mga Buhat 1",
+    "today": "Jerusalem yana",
+    "note": "An kataposan nga gintutudlok han bug-os nga Biblia — kros, pagkabanhaw, pagkayab.",
+    "events": [
+     "Madinaugon nga pagsulod; ginpukan niya liwat an mga lamesa ha Templo",
+     "Ha Kataposan nga Panihapon ginhugasan niya an mga tiil han mga disipulo",
+     "Namatay hiya ha kros",
+     "Nabanhaw ha ikatulo nga adlaw, niyan kinmayab"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Decapolis",
+   "Perea",
+   "Dagat nga Patay"
+  ],
+  "journeys": {
+   "life": "An dalan ni Jesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioquia",
+    "book": "Mga Buhat 13 · 15",
+    "today": "Antakya, Turkiya yana",
+    "note": "An nagsusugo nga singbahan diin natikang ngan nabalik an misyon ngadto han mga Hentil.",
+    "events": [
+     "Ha pag-ampo iginlain han Espiritu hira Bernabe ngan Saulo",
+     "An singbahan diin siyahan gintawag nga ‘mga Cristiano’ an mga tumoroo",
+     "An tinikangan han siyahan, ikaduha ngan ikatulo nga panaw"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Mga Buhat 13:4",
+    "today": "Turkiya yana",
+    "note": "An pantalan han Antioquia — nagpalawod hira tipakadto ha Cipre.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Cipre)",
+    "book": "Mga Buhat 13:5",
+    "today": "Cipre yana",
+    "note": "An siyahan nga hunong ha Cipre — nagwawali ha mga sinagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Mga Buhat 13:6-12",
+    "today": "Cipre yana",
+    "note": "Ginpakita an gahom kontra han mga nasupak ha Maupay nga Sumat.",
+    "events": [
+     "An salamangkero nga hi Elimas ginbuta",
+     "Tinmoo an gobernador nga hi Sergio Paulo",
+     "Tikang dinhe ginpanguna na ni ‘Pablo’"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Mga Buhat 13:13",
+    "today": "Antalya, Turkiya yana",
+    "note": "Usa nga pantalan ha Pamfilia — dinhe binmalik hi Juan Marcos.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioquia ha Pisidia",
+    "book": "Mga Buhat 13:14-50",
+    "today": "Yalvaç, Turkiya yana",
+    "note": "Nabuksan an Maupay nga Sumat tipakadto han mga Hentil.",
+    "events": [
+     "Usa nga hilaba nga wali han kasaysayan han katubsanan ha sinagoga",
+     "Damo nga Hentil an nalipay ngan nakarawat han pulong",
+     "Ginpaiwas tungod han pagsupak"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Mga Buhat 14:1-7",
+    "today": "Konya, Turkiya yana",
+    "note": "Damo an tinmoo, kundi an pagtimaraot nagpirit ha ira nga lumakat.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Mga Buhat 14:8-20",
+    "today": "Turkiya yana",
+    "note": "Gindayaw sugad nga usa nga dios, niyan ginbato.",
+    "events": [
+     "Ginpaupay an usa nga tawo nga lupog tikang ha katawo",
+     "Nagsari an mga tawo paghalad ha ira sugad nga mga dios",
+     "Ginbato ngan ginbayaan nga baga hin patay, kundi binmuhat hiya"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Mga Buhat 14:20-21",
+    "today": "Turkiya yana",
+    "note": "Damo nga disipulo an nahimo; binmalik hira basi pakusgon an mga singbahan.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Mga Buhat 16:8-10",
+    "today": "Turkiya yana",
+    "note": "An tikang-balhin diin an Maupay nga Sumat siyahan tinmipakadto ha Europa.",
+    "events": [
+     "Usa nga bisyon han usa nga tawo nga taga-Macedonia",
+     "“Tabok ngadi ngan buligi kami”",
+     "Tinmabok dayon hira ngadto ha Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipos",
+    "book": "Mga Buhat 16 · Mga Taga-Filipos",
+    "today": "amihanan nga Gresya yana",
+    "note": "An siyahan nga singbahan ha Europa — nagdaog an Maupay nga Sumat bisan ha prisohan.",
+    "events": [
+     "Tinmoo hi Lidia, usa nga negosyante hin tela nga purpura",
+     "Ginpagawas an usa nga uripon nga babaye nga partatagna",
+     "Mga awit ha katutnga han gab-i, usa nga linog, naltalwas an panimalay han magbarantay han prisohan"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonica",
+    "book": "Mga Buhat 17 · 1–2 Mga Taga-Tesalonica",
+    "today": "Thessaloniki, Gresya yana",
+    "note": "Ginpalinog han pulong an syudad ngan nag-awas an pagsupak.",
+    "events": [
+     "Nangatadong ha sinagoga ha tulo nga Sabbath",
+     "“Ini nga mga tawo nga nagbalintok han kalibutan”",
+     "Hilom hira nga linmakat ha gab-i"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Mga Buhat 17:10-15",
+    "today": "Veria, Gresya yana",
+    "note": "An ‘mga halangdon’ nga nag-usisa han pulong para ha ira kalugaringon.",
+    "events": [
+     "Ginkarawat nira an pulong hin malipayon",
+     "Adlaw-adlaw nira gin-usisa an Kasuratan basi susihon ito",
+     "Damo an tinmoo"
+    ]
+   },
+   "athens": {
+    "name": "Atenas",
+    "book": "Mga Buhat 17:16-34",
+    "today": "Atenas, Gresya yana",
+    "note": "Ha syudad han mga pilosopo iginpasamwak niya an ‘diri kilala nga dios’.",
+    "events": [
+     "Nasamok tungod han syudad nga puno hin mga diosdios",
+     "Ha Areopago iginwali niya an Magburuhat ngan an pagkabanhaw",
+     "Ginyaakan-yaakan, kundi pipira an tinmoo"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Mga Buhat 18 · 1–2 Mga Taga-Corinto",
+    "today": "Gresya yana",
+    "note": "Nag-istar hiya hin usa ka tuig ngan katunga, nagtanom hin singbahan ha usa nga syudad han karat-an.",
+    "events": [
+     "Naghimo hin mga tolda kaupod nira Aquila ngan Priscila",
+     "“Ayaw kahadlok… kay kaupod mo ako”",
+     "Damo nga taga-Corinto an tinmoo ngan ginbawtismohan"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Mga Buhat 19 · Mga Taga-Efeso",
+    "today": "Selçuk, Turkiya yana",
+    "note": "An kasingkasing han ikatulo nga panaw — nagsarang an pulong ha bug-os nga Asia.",
+    "events": [
+     "Adlaw-adlaw nga pagtutdo ha duha ka tuig ha hawan ni Tirano",
+     "Nasunog an mga libro han salamangka; gamhanan nga mga buhat",
+     "An platero nga hi Demetrio nagtikang hin kasamok"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Mga Buhat 20:17-38",
+    "today": "Turkiya yana",
+    "note": "Usa nga matang-isan nga pamamaalam ngadto han mga tigurang han Efeso.",
+    "events": [
+     "“Atamana an singbahan nga ginpalit niya pinaagi han iya kalugaringon nga dugo”",
+     "Nagtangis an mga tigurang, kay maaram hira nga diri na hira makikita liwat"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Mga Buhat 23–26",
+    "today": "an baybayon han Israel yana",
+    "note": "Ha sulod hin duha ka tuig gin-depensa niya an Maupay nga Sumat ha atubangan han mga gobernador ngan usa nga hadi.",
+    "events": [
+     "Mga paghusay ha atubangan han mga gobernador nga hira Felix ngan Festo",
+     "An iya depensa ha atubangan ni Hadi Agripa",
+     "“Nag-aapelar ako kan Cesar” — tipakadto ha Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mga Buhat 21–23",
+    "today": "Jerusalem yana",
+    "note": "Gindakop ha Templo, natikang an iya dalan sugad nga usa nga priso.",
+    "events": [
+     "Gindakop han mga tawo ha Templo",
+     "Nagdepensa hiya ha atubangan han konseho",
+     "Sugad nga usa nga Romano nga lungsoranon, ginpadara nga ginbantayan ngadto ha Cesarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Mga Buhat 27:5-6",
+    "today": "Demre, Turkiya yana",
+    "note": "Binmalhin hira ngadto ha usa nga barko nga taga-Alejandria nga tipakadto ha Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Mag-opay nga mga Dunggoanan (Creta)",
+    "book": "Mga Buhat 27:8-12",
+    "today": "Creta yana",
+    "note": "An pahamangno ni Pablo nga pahunongon an paglawod waray pagtumana.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tito",
+    "today": "Creta yana",
+    "note": "Human han iya pagpagawas, an isla diin ginbilin niya hi Tito basi husayon an mga singbahan.",
+    "events": [
+     "Ginbilin niya hi Tito basi magpili hin mga tigurang ha kada bungto",
+     "Nag-aaro hin waray sayop, matinumanon nga mga lider",
+     "Iginsurat an surat ngadto kan Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Mga Buhat 27–28",
+    "today": "Malta yana",
+    "note": "Pinaagi han unos ngan pagkawasak han barko, nagpadayon an saad han Dyos.",
+    "events": [
+     "Ginwasak han ‘amihanan-sinirangan’ nga hangin an barko, kundi ngatanan nga 276 nakatalwas",
+     "Ginkagat hin usa nga halas, kundi waray hiya maano",
+     "Ginpaupay niya an mga masakit ha isla"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Mga Buhat 28:12",
+    "today": "Sisilia, Italya yana",
+    "note": "Nagpabilin hira hin tulo ka adlaw ha Sisilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Mga Buhat 28:13-14",
+    "today": "Pozzuoli, Italya yana",
+    "note": "Nakadunggo hira ha Italya ngan ginsugat hira han mga igkasi-tumoroo.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Mga Buhat 28 · Mga Surat ha Prisohan · 2 Timoteo",
+    "today": "Roma, Italya yana",
+    "note": "Naabot ha kataposan han Maupay nga Sumat an kasingkasing han emperyo — diri usa nga kataposan kundi usa nga tinikangan.",
+    "events": [
+     "Duha ka tuig nga nakapriso ha balay, maisog nga iginsasangyaw an ginhadian",
+     "Tikang dinhe iginsurat niya an mga Surat ha Prisohan (Efe·Fil·Col·Flm)",
+     "Ha urhi ginpriso liwat, iginsurat an 2 Timoteo ngan ginmartir — “Ginlampusan ko an mag-opay nga away, gintapos ko an dalagan”"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Dagat Egeo",
+   "Asia Minor",
+   "Macedonia",
+   "Italya"
+  ],
+  "journeys": {
+   "j1": "Siyahan nga panaw",
+   "j2": "Ikaduha nga panaw",
+   "j3": "Ikatulo nga panaw",
+   "rome": "Ikaupat nga panaw · ngadto ha Roma",
+   "j5": "Ikalima nga panaw · human han pagpagawas"
+  }
+ }
+}

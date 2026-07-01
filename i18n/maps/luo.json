@@ -1,0 +1,636 @@
+{
+ "menuName": "Dholuo",
+ "htmlLang": "luo",
+ "dir": "ltr",
+ "locale": "luo",
+ "brand": "Muma e Ndiko Achiel",
+ "docTitle": "Muma kuom Ramani · Muma e Ndiko Achiel",
+ "metaDesc": "Luw kit ndalo mag Muma Machon, ngima Yesu, kod wuodhe mag Paulo e ramani madier — Muma notimore e kuonde madiera.",
+ "s": {
+  "kicker": "Muma e Ndiko Achiel · Ramani",
+  "title": "Muma kuom Ramani",
+  "verse": "“Kane wanyisou kaka Ruodhwa Yesu Kristo biro gi duong’ maler, to ne ok wakonyore gi sigendini ma dhano ochuogo, to wan wawegi ne wanene gi wang’wa, ka en gi duong’ne maler duto.” (2 Petro 1:16)",
+  "purpose": "Muma ok en sigana mar miriambo. En ndiko mar ji mane owuotho e kuonde, ndalo, kod nying madiera. Luw yorni e ramani, kaluwore gi kit ndalo — mul kanyo, kata di ▶ mondo iwuoth e iye line ka line.",
+  "ot_kick": "① Muma Machon — kaluwore gi ndalo",
+  "ot_h": "Chakre chuech nyaka dwogo Jerusalem",
+  "ot_lead": "Ok en wuoth achiel kende to en mol mar sigana mar warruok chakre chuech kadhi nyime: chuech kod podho → ataro kod Babel → luong (Ibrahim) → piny mosingi → Wuok → thim → loyo → pinyruoth → pogruok → twech → dwogo.",
+  "je_kick": "② Muma Manyien — ngima Yesu",
+  "je_h": "Chakre Bethlehem nyaka Jerusalem",
+  "je_lead": "Luw ngima Yesu kaka Injili nyiso, kaluwore gi kit ndalo — chakre nywolne e Bethlehem kalo e batiso kod tich e Galili, kakalo Samaria, nyaka msalaba, chier kod idh polo e Jerusalem.",
+  "pa_kick": "③ Muma Manyien — wuodhe mag Paulo",
+  "pa_h": "Chakre Antiokia nyaka tung’ piny — Rumi",
+  "pa_lead": "Chakre Pentekost e Jerusalem, kaka Wach Maber nolandore kakalo Judea — kakalo Asia Matin kod Yurop nyaka chuny pinyruoth. Yier achiel kuom wuodhe abich (mokwongo·mar ariyo·mar adek + wuoth mar dhi Rumi + bang’ gony) kendo luw gik motimore e Tich Joote gi baruwa mane ondiki e yo.",
+  "foot": "Sokni · Kuonde luwore gi ndiko mar Muma kod kido mar piny mar Muma (gi nying machon ka konyo). Dho nam, aore kod ataro ogol e weche mag piny mayawore (Natural Earth), modwoko mayot.",
+  "contact": "Penjo · paro — <a id=\"contact\" class=\"mail\">Or barua</a>",
+  "play": "Chak",
+  "pause": "Chung",
+  "today": "Kawuono:",
+  "verseCite": "2 Petro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Chuech · Podho)",
+    "book": "Chakruok 1–3",
+    "today": "kar Tigris–Eufrate kawuono",
+    "note": "E piny mane ochwe «ber ahinya,» richo donjo mi oketho winjruok e kind Nyasaye gi dhano.",
+    "events": [
+     "Chuech e ndalo auchiel — «ne ber ahinya»",
+     "Dhano ochwe e kit Nyasaye",
+     "Podho, kod gol e Eden",
+     "Singruok mokwongo mar Wach Maber — «koth dhako nonyon wi thuol»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Ataro)",
+    "book": "Chakruok 6–9",
+    "today": "Got Ararat, milambo wuok chieng’ mar Turkey kawuono",
+    "note": "Nyasaye ng’ado bura ne piny mopong’ gi richo, to orito ngima kuom anywola achiel.",
+    "events": [
+     "Piny mopong’ gi timbe maricho",
+     "Ataro, kod yie mar Nuh",
+     "Singruok mar lihudu — «ataro ok nochak otiek piny kendo»"
+    ]
+   },
+   "babel": {
+    "name": "Kar Gedo mar Babel",
+    "book": "Chakruok 11",
+    "today": "Irak kawuono (paw Shinar)",
+    "note": "Kuom sunga mochomo polo, Nyasaye keyo dhokgi kod ji e wang’ piny duto.",
+    "events": [
+     "«Wager dala kod ot maboro… mondo wami nyingwa duong’»",
+     "Nyasaye nuko dhokgi",
+     "Ji okere e wang’ piny (Shinar — bang’e Babulon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Chakruok 12",
+    "today": "milambo mar Irak kawuono",
+    "note": "Sigana mar warruok mar Muma chakore gi luong mar ng’at achiel.",
+    "events": [
+     "Nyasaye luongo Abram oa Ur mar jo-Kaldea",
+     "«Analoki oganda maduong’… ogendini duto noyud gueth kuomi»",
+     "Kuom yie owuok oweyo pinygi"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Chakruok 12",
+    "today": "milambo mar Turkey kawuono",
+    "note": "E yo, kodwoko luong mochomo piny mosingi.",
+    "events": [
+     "Anywola Tera dak Haran",
+     "Tera tho",
+     "Abram chako wuoth mochomo Kanaan ka en gi higni 75"
+    ]
+   },
+   "shechem": {
+    "name": "Shekem · Kanaan",
+    "book": "Chakruok 12–50",
+    "today": "Nablus kawuono",
+    "note": "E piny mosingi anywola ochakore kendo singruok kalore e tienge.",
+    "events": [
+     "Donjo Kanaan, kendo mar misango mokwongo — «koth ema namiye pinyni»",
+     "Singruok (Chak 15) · Isaka · Jakobo",
+     "Yawuot Jakobo apar gariyo — tiend dhoudi apar gariyo"
+    ]
+   },
+   "egypt": {
+    "name": "Misri (Goshen)",
+    "book": "Chakruok 37–50 · Wuok 1",
+    "today": "Paw aora Nael, Misri kawuono",
+    "note": "Anywola doko oganda maduong’ — bang’e oganda mar wasumbni.",
+    "events": [
+     "Josef, mane oloki, oidho nyaka obedo jaloch e Misri",
+     "Anywola Jakobo duto olor mondo otony e kech",
+     "Oganda mar Israel mamedore odoko wasumbni"
+    ]
+   },
+   "sinai": {
+    "name": "Got Sinai",
+    "book": "Wuok · Tim jo-Lawi",
+    "today": "Lanjieth mar Sinai kawuono",
+    "note": "Warruok maduong’ mar Muma Machon — wasumbni doko jo-Nyasaye owuon.",
+    "events": [
+     "Masiche apar kod nyaromb Pasaka",
+     "Nam Makwar opogore mi ging’ado",
+     "Chike Apar, Chik, Hema mar Lemo kod misengini"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesh (thim)",
+    "book": "Kwan · Rapar mar Chik",
+    "today": "thim mar Sinai–Negeb kawuono",
+    "note": "Tamruok yie omiyo tieng’ achiel bayo piny — to Nyasaye osiko kodgi.",
+    "events": [
+     "Jonon piny apar gariyo — to ji odagi yie",
+     "Higni 38 e thim — manna, bor polo kod mach",
+     "E paw Moab, twak mogik mar Musa (Rapar mar Chik)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Joshua",
+    "today": "Jeriko kawuono",
+    "note": "Giko gidonjo mi gikawo piny mosingi.",
+    "events": [
+     "Jordan opogore mi ji ong’ado",
+     "Ohinga mag Jeriko opodho",
+     "Loyo Kanaan kod pogo piny"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Jong’ad Bura)",
+    "book": "Jong’ad Bura · Ruth",
+    "today": "Khirbet Seilun kawuono",
+    "note": "Ka onge ruoth, ng’ato ka ng’ato timo gima ohero — dwarore ruoth madier.",
+    "events": [
+     "Hema mar Lemo ochung’ Shilo",
+     "Lwet richo–sand–warruok (Debora, Gideon, Samson)",
+     "Ruth — bedo ja-adiera e ndalo mag mudho, e koth Daudi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Pinyruoth Moriw",
+    "book": "1–2 Samuel · 1 Ruodhi",
+    "today": "Jerusalem kawuono",
+    "note": "Kinde maber mar Israel — kod singruok mar ruoth ma ok rum.",
+    "events": [
+     "Saulo ruoth mokwongo, eka Daudi gi Goliath",
+     "Singruok gi Daudi — «lochni nosik nyaka chieng’» (2 Sam 7)",
+     "Solomon gero Hekalu e Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Pinyruoth Mopogore",
+    "book": "Ruodhi · Jonabi",
+    "today": "Sebastia kawuono",
+    "note": "Pinyruoth opogore kendo odok chien ka jonabi ywak.",
+    "events": [
+     "Bang’ Solomon, pogruok e Juda gi Israel",
+     "Lamo nyiseche manono mosiko",
+     "Elija, Isaya, Jeremia ywak ‘dwoguru’ — kendo hulo Mesia"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineveh (Asuria)",
+    "book": "2 Ruodhi 17 · Jona",
+    "today": "Mosul, Irak kawuono",
+    "note": "Kokwedo siem duto, nyandwat ema opodho mokwongo.",
+    "events": [
+     "Nineveh, dala maduong’ mar Asuria",
+     "Pinyruoth nyandwat opodho e lwet Asuria (722 K.K.)",
+     "Jona iore Nineveh"
+    ]
+   },
+   "babylon": {
+    "name": "Babulon",
+    "book": "2 Ruodhi 25 · Daniel · Ezekiel",
+    "today": "Hillah, Irak kawuono",
+    "note": "Otieno mar mudho moloyo — to singruok mar warruok pod nitie.",
+    "events": [
+     "Jerusalem opodho, Hekalu owang’ (586 K.K.)",
+     "Juda otero Babulon",
+     "Daniel gi Ezekiel — yie kod fweny e twech"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Esta · Nehemia",
+    "today": "Shush, Iran kawuono",
+    "note": "Kata e chuny pinyruoth mapagano, Nyasaye rito joge.",
+    "events": [
+     "Persia loyo Babulon",
+     "Esta reso jo-Yahudi e tho",
+     "Nehemia lemo e nyim ruoth mi iore"
+    ]
+   },
+   "return": {
+    "name": "Dwogo Jerusalem",
+    "book": "Ezra · Nehemia · Malaki",
+    "today": "Jerusalem kawuono",
+    "note": "Gidwogo mi gigero — to onge ruoth mosebiro. Girito Mesia.",
+    "events": [
+     "Mbaka adek mag dwogo kuom chik Sairas (Zerubabel 538 · Ezra 458 · Nehemia 444)",
+     "Hekalu ogedi kendo ohinga mag Jerusalem oloki",
+     "Malaki — Muma Machon tieko: «Abiro oro jaotena»"
+    ]
+   }
+  },
+  "labels": [
+   "Nam Mediterania",
+   "Mesopotamia",
+   "Thim mar Arabia",
+   "Misri"
+  ],
+  "journeys": {
+   "flow": "Sigana mar warruok"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bethlehem",
+    "book": "Mathayo 1–2 · Luka 2",
+    "today": "Bethlehem kawuono",
+    "note": "Mesia mosingi obiro e dala mar Daudi — Wach modoko dhano.",
+    "events": [
+     "Onywole Bethlehem, dala mar Daudi",
+     "Malaike land wachno ne jokwath",
+     "Jorieko biro mondo olame"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareth",
+    "book": "Luka 2 · 4",
+    "today": "Nazareth kawuono",
+    "note": "Nyasaye dongo kaka dhano e dala mapile.",
+    "events": [
+     "Opidhe e od japecho",
+     "Ka en gi higni apar gariyo, openjo kendo odwoko e Hekalu",
+     "Bang’e odage e sunagogi mar dalagi owuon"
+    ]
+   },
+   "jordan": {
+    "name": "Aora Jordan",
+    "book": "Mathayo 3–4",
+    "today": "Jordan mamwalo kawuono",
+    "note": "Tichne lela chakore — polo nyiso ni en Wuowi.",
+    "events": [
+     "Johana batise",
+     "Roho lor ka akuru — «Ma e Wuoda mahero»",
+     "Oloyo tembe adek mag Setan e thim"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Johana 2",
+    "today": "Kafr Kanna kawuono",
+    "note": "E hono mare mokwongo onyiso duong’ne.",
+    "events": [
+     "Welo e arus",
+     "Pi olok divai — honone mokwongo",
+     "Jopuonjrene oyie kuome"
+    ]
+   },
+   "sychar": {
+    "name": "Sukar (Samaria)",
+    "book": "Johana 2–4",
+    "today": "machiegni gi Nablus kawuono",
+    "note": "Yor tich mokwongo — kakalo Jerusalem nyaka Samaria mochaki.",
+    "events": [
+     "Opwodho Hekalu e Jerusalem",
+     "Gotieno, Nikodemo — «Nyaka nyuoli kendo»",
+     "Pi ngima ne dhako ma ja-Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Mathayo 4–13 · Mariko 1–4",
+    "today": "dho nam mar Galili kawuono",
+    "note": "Kar tich mar Galili — luong, puonj kod akwed duto romoe ka.",
+    "events": [
+     "Oluongo jolupo kendo oketo kae kar tich",
+     "Twak mawuok e got — «Ogwedh joma odhier e chuny»",
+     "Ngeche mag pinyruoth — kod akwed mamedore"
+    ]
+   },
+   "galilee": {
+    "name": "Nam Galili",
+    "book": "Mariko 4 · 6 · Johana 6",
+    "today": "Nam Kinneret kawuono",
+    "note": "Gi teko ewi chuech onyiso ng’a ma en.",
+    "events": [
+     "«Ling’ thi» — okweyo ahiti",
+     "Opidho ji 5,000 gi makate abich kod rech ariyo",
+     "Owuotho ewi pi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisaria Filipi",
+    "book": "Mathayo 16–17",
+    "today": "Banias kawuono",
+    "note": "Jopuonjre fwenyo ni en Kristo, kendo yor msalaba yawore.",
+    "events": [
+     "Hulo mar Petro — «In e Kristo, Wuod Nyasaye mangima»",
+     "Okor tho gi chierne mokwongo",
+     "Olokore e duong’ ewi got"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Luka 18–19",
+    "today": "Jeriko kawuono",
+    "note": "E yo modhi malo Jerusalem, omanyo ji molal.",
+    "events": [
+     "Omiyo Bartimayo muofu neno",
+     "Oluongo Zakayo jasol osuru",
+     "«Wuod Dhano nobiro mondo omany kendo ores joma olal»"
+    ]
+   },
+   "bethany": {
+    "name": "Bethania",
+    "book": "Johana 11–12",
+    "today": "al-Eizariya kawuono",
+    "note": "Onyiso loch ewi tho machiegni gi juma mare mogik.",
+    "events": [
+     "Ochiero Lazaro koa e bur — «An e chier kod ngima»",
+     "Maria olwoko bende ne iko mar yiko",
+     "Hononi miyo chenro mar nege medore"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mathayo 21–28 · Luka 24 · Tich Joote 1",
+    "today": "Jerusalem kawuono",
+    "note": "Giko ma Muma duto ochomo — msalaba, chier, idh polo.",
+    "events": [
+     "Donjo gi duong’; oloko mesni mag Hekalu kendo",
+     "E Sap Ngima Mogik olwoko tiende jopuonjre",
+     "Otho e msalaba",
+     "Ochier e odiechieng’ mar adek, eka oidho polo"
+    ]
+   }
+  },
+  "labels": [
+   "Nam Mediterania",
+   "Galili",
+   "Samaria",
+   "Judea",
+   "Dekapoli",
+   "Perea",
+   "Nam Motho"
+  ],
+  "journeys": {
+   "life": "Yor Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Tich Joote 13 · 15",
+    "today": "Antakya, Turkey kawuono",
+    "note": "Kanisa moro mochako kendo mochopo tich mar joma ok jo-Yahudi.",
+    "events": [
+     "E lamo Roho opogo Barnaba gi Saulo",
+     "Kanisa kama joyie nokuong luongoe ni ‘jo-Kristo’",
+     "Kar chakruok mar wuoth mokwongo, mar ariyo kod mar adek"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Tich Joote 13:4",
+    "today": "Turkey kawuono",
+    "note": "Wath mar Antiokia — gikwang’ gidhi Saipras.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salami (Saipras)",
+    "book": "Tich Joote 13:5",
+    "today": "Saipras kawuono",
+    "note": "Kar chungruok mokwongo e Saipras — kalando e sunagogi.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Tich Joote 13:6-12",
+    "today": "Saipras kawuono",
+    "note": "Teko onyisore ne joma kwedo Wach Maber.",
+    "events": [
+     "Elima jajuok ogo muofu",
+     "Sergio Paulo, ruoth mar gweng’, oyie",
+     "Chakre ka ‘Paulo’ ema otelo"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Tich Joote 13:13",
+    "today": "Antalya, Turkey kawuono",
+    "note": "Wath e Pamfilia — ka ema Johana Mariko odok chien.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia mar Pisidia",
+    "book": "Tich Joote 13:14-50",
+    "today": "Yalvaç, Turkey kawuono",
+    "note": "Wach Maber yawore mochomo joma ok jo-Yahudi.",
+    "events": [
+     "Twak maboro mar sigana mar warruok e sunagogi",
+     "Joma ok jo-Yahudi mang’eny mor mi orwako wachno",
+     "Iriembe oko kuom akwed"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonio",
+    "book": "Tich Joote 14:1-7",
+    "today": "Konya, Turkey kawuono",
+    "note": "Ji mang’eny oyie, to sand chunogi mondo gidhi nyime.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lustra",
+    "book": "Tich Joote 14:8-20",
+    "today": "Turkey kawuono",
+    "note": "Iluonge ni nyasaye, eka ochiele gi kite.",
+    "events": [
+     "Ochango ng’at mane rang’ol nyaka nywolne",
+     "Oganda temo timonigi misango ka gima gin nyiseche",
+     "Ochiele gi kite mi owe ka gima otho, to ochung’ malo"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Tich Joote 14:20-21",
+    "today": "Turkey kawuono",
+    "note": "Jopuonjre mang’eny olos; gidok ka giteko kanise.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troa",
+    "book": "Tich Joote 16:8-10",
+    "today": "Turkey kawuono",
+    "note": "Kar lokruok kama Wach Maber okuong chomoe Yurop.",
+    "events": [
+     "Fweny mar ng’at ma ja-Makedonia",
+     "«Bi Makedonia ikonywa»",
+     "Gikalo piyo gidhi Yurop"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Tich Joote 16 · Jo-Filipi",
+    "today": "milambo mar Greece kawuono",
+    "note": "Kanisa mokwongo mar Yurop — Wach Maber loyo kata e od twech.",
+    "events": [
+     "Lidia, ja-ohala mar law makwar, oyie",
+     "Nyako misumba ma ja-koro ogony",
+     "Wende mag otieno, yiengni mar piny, anywola mar jarit od twech owar"
+    ]
+   },
+   "thess": {
+    "name": "Thesalonika",
+    "book": "Tich Joote 17 · 1–2 Jo-Thesalonika",
+    "today": "Thessaloniki, Greece kawuono",
+    "note": "Wach yiengo dala kendo akwed wuok matek.",
+    "events": [
+     "Owuoyo e sunagogi sabato adek",
+     "«Jogi maseloko piny duto»",
+     "Gia gotieno ling’-ling’"
+    ]
+   },
+   "berea": {
+    "name": "Beroya",
+    "book": "Tich Joote 17:10-15",
+    "today": "Veria, Greece kawuono",
+    "note": "Joma ‘oluor’ mane onono Wach kendgi giwegi.",
+    "events": [
+     "Girwako Wach gi mor",
+     "Pile ka pile ginono Ndiko mondo gine ka en kamano",
+     "Ji mang’eny oyie"
+    ]
+   },
+   "athens": {
+    "name": "Athene",
+    "book": "Tich Joote 17:16-34",
+    "today": "Athens, Greece kawuono",
+    "note": "E dala mar jorieko olando ‘nyasaye ma ok ong’ere’.",
+    "events": [
+     "Iye chandore koneno dala mopong’ gi nyiseche manono",
+     "Ewi Areopago olando Jachuech kod chier",
+     "Ijare, to ji manok oyie"
+    ]
+   },
+   "corinth": {
+    "name": "Korintho",
+    "book": "Tich Joote 18 · 1–2 Jo-Korintho",
+    "today": "Greece kawuono",
+    "note": "Odak higa achiel gi nus, kogero kanisa e dala mar timbe maricho.",
+    "events": [
+     "Otimo hembe gi Akwila kod Priskila",
+     "«Kik iluor… nikech an kodi»",
+     "Jo-Korintho mang’eny oyie kendo obatisi"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Tich Joote 19 · Jo-Efeso",
+    "today": "Selçuk, Turkey kawuono",
+    "note": "Chuny wuoth mar adek — Wach landore e Asia duto.",
+    "events": [
+     "Puonj pile kuom higni ariyo e od Turano",
+     "Buge mag juok owang’; tije madongo",
+     "Demetrio ja-theth fedha chako koko"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Tich Joote 20:17-38",
+    "today": "Turkey kawuono",
+    "note": "Goyo oriti gi pi wang’ ne jodongo mag Efeso.",
+    "events": [
+     "«Riteuru kanisa mane ong’iewo gi rembe owuon»",
+     "Jodongo ywak, kang’eyo ni ok gibi nene kendo"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisaria",
+    "book": "Tich Joote 23–26",
+    "today": "dho nam mar Israel kawuono",
+    "note": "Kuom higni ariyo orito Wach Maber e nyim jotelo kod ruoth.",
+    "events": [
+     "Bura e nyim jotelo Feliks kod Festo",
+     "Chwakne e nyim Ruoth Agripa",
+     "«Aywak ne Kaisar» — odhi Rumi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Tich Joote 21–23",
+    "today": "Jerusalem kawuono",
+    "note": "Imake e Hekalu, kendo yorne kaka ng’at motwe chakore.",
+    "events": [
+     "Oganda make e Hekalu",
+     "Ochwakore e nyim buch jodongo",
+     "Kaka ja-Rumi, iore e bwo jarit nyaka Kaisaria"
+    ]
+   },
+   "myra": {
+    "name": "Mura",
+    "book": "Tich Joote 27:5-6",
+    "today": "Demre, Turkey kawuono",
+    "note": "Gilokore e yie mar Aleksandria modhi Rumi.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Wath Mabeyo (Krete)",
+    "book": "Tich Joote 27:8-12",
+    "today": "Krete kawuono",
+    "note": "Siem mar Paulo mar weyo kwang’ ok owinj.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krete",
+    "book": "Tito",
+    "today": "Krete kawuono",
+    "note": "Bang’ gonye, chula kama oweyo Tito mondo olos kanise.",
+    "events": [
+     "Oweyo Tito mondo oyier jodongo e dala ka dala",
+     "Oluongo jotelo ma onge ketho kendo jo-adiera",
+     "Ondiko barua ne Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Tich Joote 27–28",
+    "today": "Malta kawuono",
+    "note": "Kuom ahiti kod kethruok mar yie, singruok mar Nyasaye ochung’.",
+    "events": [
+     "Yamb ‘nyandwat-wuok chieng’’ oketho yie, to ji 276 duto otony",
+     "Thuol okaye, to ok ohinyore",
+     "Ochango joma tuo e chula"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusa",
+    "book": "Tich Joote 28:12",
+    "today": "Sicily, Italy kawuono",
+    "note": "Gibet ndalo adek e Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Tich Joote 28:13-14",
+    "today": "Pozzuoli, Italy kawuono",
+    "note": "Gichopo Italia kendo joyie wetegi orwakogi.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rumi",
+    "book": "Tich Joote 28 · Baruwa mag Twech · 2 Timotheo",
+    "today": "Rome, Italy kawuono",
+    "note": "Wach Maber ochopo chuny pinyruoth giko — ok en giko to en chakruok.",
+    "events": [
+     "Higni ariyo e twech mar ot, kolando pinyruoth gi chir",
+     "Ka ema ondikoe Baruwa mag Twech (Efe·Fil·Kol·Flm)",
+     "Bang’e otwe kendo, ondiko 2 Timotheo mi onege — «Asekedo lweny maber, asetieko ng’wech»"
+    ]
+   }
+  },
+  "labels": [
+   "Nam Mediterania",
+   "Nam Aegea",
+   "Asia Matin",
+   "Makedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Wuoth mokwongo",
+   "j2": "Wuoth mar ariyo",
+   "j3": "Wuoth mar adek",
+   "rome": "Wuoth mar ang’wen · dhi Rumi",
+   "j5": "Wuoth mar abich · bang’ gony"
+  }
+ }
+}

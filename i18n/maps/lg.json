@@ -1,0 +1,636 @@
+{
+ "menuName": "Luganda",
+ "htmlLang": "lg",
+ "dir": "ltr",
+ "locale": "lg",
+ "brand": "Baibuli mu Kuzingulula Kumu",
+ "docTitle": "Baibuli mu Maapu · Baibuli mu Kuzingulula Kumu",
+ "metaDesc": "Goberera ennyiriri y'ebiro by'Endagaano Enkadde, obulamu bwa Yesu, n'olugendo lwa Pawulo ku maapu entuufu — Baibuli yabaawo mu bifo eby'amazima.",
+ "s": {
+  "kicker": "Baibuli mu Kuzingulula Kumu · Maapu",
+  "title": "Baibuli mu Maapu",
+  "verse": "“Kubanga tetwagoberera ngero ezaagunjibwa n'amagezi bwe twabategeeza obuyinza n'okujja kwa Mukama waffe Yesu Kristo, naye twalaba n'amaaso gaffe obukulu bwe.” (2 Peetero 1:16)",
+  "purpose": "Baibuli si nfumo. Kye kiwandiiko ky'abantu abaatambulira mu bifo, ennaku, n'amannya eby'amazima. Goberera amakubo ago ku maapu, mu ntegeka y'ebiro — koona ku kifo, oba nyiga ▶ otambule mu kyo emitendera n'emitendera.",
+  "ot_kick": "① Endagaano Enkadde — okuyita mu biro",
+  "ot_h": "Okuva ku kutonda okutuuka ku kudda e Yerusaalemi",
+  "ot_lead": "Si lugendo lumu naye kukulukuta kw'ebyafaayo eby'okununula okuva ku kutonda: okutonda n'okugwa → amataba ne Babulooni → okuyitibwa (Ibulayimu) → ensi eyasuubizibwa → Okuva mu Misiri → eddungu → okuwangula → obwakabaka → okwawukana → obusibe → okudda.",
+  "je_kick": "② Endagaano Empya — obulamu bwa Yesu",
+  "je_h": "Okuva e Besirekemu okutuuka e Yerusaalemi",
+  "je_lead": "Goberera obulamu bwa Yesu nga Enjiri bwe ziboogerako, mu ntegeka — okuva ku kuzaalibwa kwe e Besirekemu ng'oyita mu kubatizibwa kwe n'obuweereza obwa Ggaliraaya, ng'osomoka Samaliya, okutuuka ku musaalaba, okuzuukira n'okulinnya mu ggulu e Yerusaalemi.",
+  "pa_kick": "③ Endagaano Empya — olugendo lwa Pawulo",
+  "pa_h": "Okuva e Antiyokiya okutuuka ku nkomerero z'ensi — Ruumi",
+  "pa_lead": "Okuva ku Pentekooti mu Yerusaalemi, enjiri bwe yasaasaana ebweru wa Buyudaaya — ng'eyita mu Asiya Entono n'Bulaaya okutuuka ku mutima gw'obwakabaka. Londa olumu ku ngendo ettaano (olw'1·olw'2·olw'3 + olugendo olw'okugenda e Ruumi + oluvannyuma lw'okuteebwa) era ogoberere ebintu eby'Ebikolwa wamu n'ebbaluwa ezaawandiikibwa mu kkubo.",
+  "foot": "Ensonda · Ebifo bigoberera ebyawandiikibwa mu Baibuli ne jiyogulafiya eya bulijjo eya Baibuli (n'amannya ag'omu biro bino we gayamba). Olubalama lw'ennyanja, emigga, n'ennyanja byakubibwa okuva mu data ya jiyogulafiya enzigule (Natural Earth), nga zoorobyezeddwa.",
+  "contact": "Ebibuuzo · ebirowoozo — <a id=\"contact\" class=\"mail\">Tuwandiikire ebbaluwa</a>",
+  "play": "Zannya",
+  "pause": "Yimirizaawo",
+  "today": "Leero:",
+  "verseCite": "2 Peetero 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edeni (Okutonda · Okugwa)",
+    "book": "Olubereberye 1–3",
+    "today": "ekitundu kya Tigiri–Fulaati leero",
+    "note": "Mu nsi eyakolebwa ng'ennungi nnyo, ekibi kiyingira ne kimenya enkolagana wakati wa Katonda n'abantu.",
+    "events": [
+     "Okutonda mu nnaku omukaaga — “kyali kirungi nnyo”",
+     "Omuntu eyakolebwa mu kifaananyi kya Katonda",
+     "Okugwa, n'okugobebwa mu Edeni",
+     "Endagaano ey'enjiri esooka — “ezzadde ly'omukazi liribetenta omutwe gw'omusota”"
+    ]
+   },
+   "noah": {
+    "name": "Alalaati (Amataba)",
+    "book": "Olubereberye 6–9",
+    "today": "Olusozi Alalaati, ebuvanjuba bwa Bulaaya leero",
+    "note": "Katonda asalira omusango ensi ejjudde ekibi, naye n'awonya obulamu ng'ayita mu maka gamu.",
+    "events": [
+     "Ensi eyajjula obwonoonefu",
+     "Amataba, n'eryato lya Nuuwa",
+     "Endagaano ey'omukolomula — “sirikomyawo nate mataba kuzikiriza nsi”"
+    ]
+   },
+   "babel": {
+    "name": "Omunaala gwa Babeeri",
+    "book": "Olubereberye 11",
+    "today": "Iraaka leero (olusenyi lwa Sinaali)",
+    "note": "Eri amalala agatuuka ku ggulu, Katonda asaasaanya olulimi lwabwe n'amawanga ku nsi.",
+    "events": [
+     "“Tuzimbe ekibuga n'omunaala… twekolere erinnya”",
+     "Katonda atabula olulimi lwabwe",
+     "Amawanga gasaasaana ku nsi (Sinaali — oluvannyuma Babulooni)"
+    ]
+   },
+   "ur": {
+    "name": "Uli",
+    "book": "Olubereberye 12",
+    "today": "Iraaka ey'obukiika ddyo leero",
+    "note": "Olugero lwa Baibuli olw'okununula lutandika n'okuyitibwa kw'omuntu omu.",
+    "events": [
+     "Katonda ayita Ibulaamu okuva e Uli ekya Abakaludaaya",
+     "“Ndikufuula eggwanga eddene… ebika byonna mwe biriweerwa omukisa”",
+     "Olw'okukkiriza ava mu nsi y'ewaabwe"
+    ]
+   },
+   "haran": {
+    "name": "Kalani",
+    "book": "Olubereberye 12",
+    "today": "Bulaaya ey'obukiika ddyo leero",
+    "note": "Mu kkubo, ng'addamu okuyitibwa okwolekera ensi eyasuubizibwa.",
+    "events": [
+     "Ennyumba ya Teera ebeera e Kalani",
+     "Teera afa",
+     "Ibulaamu agenda e Kanani ng'alina emyaka 75"
+    ]
+   },
+   "shechem": {
+    "name": "Sekemu · Kanani",
+    "book": "Olubereberye 12–50",
+    "today": "Nabulusi leero",
+    "note": "Mu nsi eyasuubizibwa amaka gateekebwawo n'endagaano eyita mu mirembe.",
+    "events": [
+     "Okuyingira Kanani, ekyoto ekisooka — “ezzadde lyo ndiriwa ensi eno”",
+     "Endagaano (Lub 15) · Isaaka · Yakobo",
+     "Abaana kkumi na babiri aba Yakobo — omulandira gw'ebika ekkumi n'ebibiri"
+    ]
+   },
+   "egypt": {
+    "name": "Misiri (Goseni)",
+    "book": "Olubereberye 37–50 · Okuva 1",
+    "today": "Olukugiro lwa Kiyira, Misiri leero",
+    "note": "Amaka gafuuka eggwanga eddene — oluvannyuma eggwanga ery'abaddu.",
+    "events": [
+     "Yusufu, eyatundibwa, atuuka ku buyinza mu Misiri",
+     "Ennyumba ya Yakobo yonna eserengeta okudduka enjala",
+     "Eggwanga lya Isiraeri eryeyongera obungi lifuulibwa abaddu"
+    ]
+   },
+   "sinai": {
+    "name": "Olusozi Sinaayi",
+    "book": "Okuva · EByabaleevi",
+    "today": "Olukokola lwa Sinaayi leero",
+    "note": "Okununula okusinga obukulu mu Ndagaano Enkadde — abaddu bafuuka eggwanga lya Katonda.",
+    "events": [
+     "Ebibonyoobonyo ekkumi n'omwana gw'endiga ogw'Okuyitako",
+     "Ennyanja Emyufu yawukana ne basomoka",
+     "Amateeka Ekkumi, Amateeka, Eweema ne ssaddaaka"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesi (eddungu)",
+    "book": "Okubala · Ekyamateeka",
+    "today": "eddungu lya Sinaayi–Negebu leero",
+    "note": "Obutakkiriza buggya omulembe gumu ensi — naye Katonda asigala nabo.",
+    "events": [
+     "Abakessi ekkumi na babiri — naye abantu bagaana okwesiga",
+     "Emyaka 38 mu ddungu — emaanu, ekire n'omuliro",
+     "Ku lusenyi lwa Mowaabu, okubuulira kwa Musa okw'enkomerero (Ekyamateeka)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Yoswa",
+    "today": "Yeriko leero",
+    "note": "Ku nkomerero bayingira ne batwala ensi eyasuubizibwa.",
+    "events": [
+     "Yoludaani yawukana ne batambuka",
+     "Bbugwe wa Yeriko agwa",
+     "Okuwangula Kanani n'okugaba ensi"
+    ]
+   },
+   "shiloh": {
+    "name": "Siiro (Abalamuzi)",
+    "book": "Abalamuzi · Luusi",
+    "today": "Kiriibeti Seyiruni leero",
+    "note": "Awatali kabaka, buli muntu akola nga bw'ayagala — kabaka ow'amazima yeetaagisa.",
+    "events": [
+     "Eweema esimbibwa e Siiro",
+     "Empewuke ey'ekibi–okujooga–okununula (Debola, Gideoni, Samusooni)",
+     "Luusi — obwesigwa mu nnaku ez'ekizikiza, mu lulyo lwa Dawudi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusaalemi · Obwakabaka Obwagatta",
+    "book": "1–2 Samwiri · 1 Bassekabaka",
+    "today": "Yerusaalemi leero",
+    "note": "Omulembe gwa zaabu ogwa Isiraeri — n'endagaano ya kabaka ow'olubeerera.",
+    "events": [
+     "Sawulo kabaka eyasooka, oluvannyuma Dawudi ne Goliyaasi",
+     "Endagaano ne Dawudi — “entebe yo erinywezebwa ennaku zonna” (2 Sam 7)",
+     "Sulemaani azimba yeekaalu mu Yerusaalemi"
+    ]
+   },
+   "samaria": {
+    "name": "Samaliya · Obwakabaka Obwawukana",
+    "book": "Bassekabaka · Bannabbi",
+    "today": "Sebasitiya leero",
+    "note": "Obwakabaka bwawukanamu ne bugwa nga bannabbi bakaaba.",
+    "events": [
+     "Oluvannyuma lwa Sulemaani, okwawukanamu mu Yuda ne Isiraeri",
+     "Okusinza ebifaananyi okweddiŋŋanwa",
+     "Eriya, Isaaya, Yeremiya bakaaba nti ‘mudde’ — era balagula Masiya"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineeve (Bwasuli)",
+    "book": "2 Bassekabaka 17 · Yona",
+    "today": "Mosuli, Iraaka leero",
+    "note": "Nga banyooma buli kulabula, obwakabaka obwa bukiika kkono bugwa busooka.",
+    "events": [
+     "Nineeve, ekibuga ekikulu ekya Bwasuli",
+     "Obwakabaka obwa bukiika kkono bugwa eri Bwasuli (722 BC)",
+     "Yona atumibwa e Nineeve"
+    ]
+   },
+   "babylon": {
+    "name": "Babulooni",
+    "book": "2 Bassekabaka 25 · Danyeri · Ezeekyeri",
+    "today": "Kira, Iraaka leero",
+    "note": "Ekiro ekisinga ekizikiza — naye endagaano ey'okuzza obuggya esigala.",
+    "events": [
+     "Yerusaalemi agwa, yeekaalu eyokebwa (586 BC)",
+     "Yuda atwalibwa e Babulooni",
+     "Danyeri ne Ezeekyeri — okukkiriza n'okwolesebwa mu busibe"
+    ]
+   },
+   "susa": {
+    "name": "Susani (Buperusi)",
+    "book": "Eseza · Nekkemiya",
+    "today": "Susi, Iraani leero",
+    "note": "Ne mu mutima gw'obwakabaka obw'abakaafiiri, Katonda akuuma abantu be.",
+    "events": [
+     "Buperusi buwangula Babulooni",
+     "Eseza alokola Abayudaaya obutazikirizibwa",
+     "Nekkemiya asaba mu maaso ga kabaka n'atumibwa"
+    ]
+   },
+   "return": {
+    "name": "Okudda e Yerusaalemi",
+    "book": "Ezera · Nekkemiya · Malaki",
+    "today": "Yerusaalemi leero",
+    "note": "Badda ne baddaabiriza — naye tewali kabaka azze. Balindirira Masiya.",
+    "events": [
+     "Amabunga asatu ag'okudda olw'ekiragiro kya Kuulo (Zerubbaberi 538 · Ezera 458 · Nekkemiya 444)",
+     "Yeekaalu eddaabirizibwa ne bbugwe wa Yerusaalemi azzibwawo",
+     "Malaki — Endagaano Enkadde ekomekkerezebwa: “ntuma omubaka wange”"
+    ]
+   }
+  },
+  "labels": [
+   "Ennyanja ya Wakati",
+   "Mesopotamiya",
+   "Eddungu lya Buwalabu",
+   "Misiri"
+  ],
+  "journeys": {
+   "flow": "Olugero olw'okununula"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Besirekemu",
+    "book": "Matayo 1–2 · Lukka 2",
+    "today": "Besirekemu leero",
+    "note": "Masiya eyasuubizibwa ajja mu kibuga kya Dawudi — Kigambo eyafuuka omubiri.",
+    "events": [
+     "Yazaalibwa e Besirekemu, ekibuga kya Dawudi",
+     "Bamalayika balangirira amawulire eri abasumba",
+     "Abagezi bajja okumusinza"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaaleesi",
+    "book": "Lukka 2 · 4",
+    "today": "Nazaaleesi leero",
+    "note": "Katonda akulira ng'omuntu mu kibuga ekya bulijjo.",
+    "events": [
+     "Yakulira mu maka g'omubazzi",
+     "Mu myaka kkumi n'ebiri, abuuza n'addamu mu yeekaalu",
+     "Oluvannyuma yagaanibwa mu kkuŋŋaaniro ery'ewaabwe"
+    ]
+   },
+   "jordan": {
+    "name": "Omugga Yoludaani",
+    "book": "Matayo 3–4",
+    "today": "Yoludaani ow'emmanga leero",
+    "note": "Obuweereza bwe obw'olukale butandika — eggulu limukakasa nga Omwana.",
+    "events": [
+     "Yabatizibwa Yokaana",
+     "Omwoyo akka ng'ejjuba — “Ono ye Mwana wange omwagalwa”",
+     "Awangula okukemebwa kwa Sitaani okusatu mu ddungu"
+    ]
+   },
+   "cana": {
+    "name": "Kaana",
+    "book": "Yokaana 2",
+    "today": "Kafuli Kana leero",
+    "note": "Mu kabonero ke akasooka alaga ekitiibwa kye.",
+    "events": [
+     "Omugenyi ku mbaga ey'obugole",
+     "Amazzi gafuulibwa wayini — akabonero ke akasooka",
+     "Abayigirizwa be bamukkiriza"
+    ]
+   },
+   "sychar": {
+    "name": "Sukali (Samaliya)",
+    "book": "Yokaana 2–4",
+    "today": "okumpi ne Nabulusi leero",
+    "note": "Ekkubo ery'obuweereza obw'oluberyeberye — okuyita mu Yerusaalemi okutuuka ku Samaliya enyoomeddwa.",
+    "events": [
+     "Atukuza yeekaalu mu Yerusaalemi",
+     "Mu kiro, Nikodemo — “oteekwa okuzaalibwa omulundi ogwokubiri”",
+     "Amazzi amalamu eri omukazi Omusamaliya"
+    ]
+   },
+   "capernaum": {
+    "name": "Kaperunawumu",
+    "book": "Matayo 4–13 · Makko 1–4",
+    "today": "olubalama lw'ennyanja Ggaliraaya leero",
+    "note": "Ekikolerwamu eky'obuweereza obwa Ggaliraaya — okuyita, okuyigiriza, n'okuwakanya byonna bisisinkanira wano.",
+    "events": [
+     "Ayita abavubi era ne yeesimba wano",
+     "Okubuulira ku lusozi — “Balina omukisa abaavu mu mwoyo”",
+     "Engero ez'obwakabaka — n'okuwakanya okweyongera"
+    ]
+   },
+   "galilee": {
+    "name": "Ennyanja Ggaliraaya",
+    "book": "Makko 4 · 6 · Yokaana 6",
+    "today": "Ennyanja Kineret leero",
+    "note": "N'obuyinza ku butonde alaga gw'ali.",
+    "events": [
+     "“Sirika, tteeka” — asirisa omuyaga",
+     "Aliisa 5,000 n'emigaati etaano n'ebyennyanja bibiri",
+     "Atambulira ku mazzi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kayisaliya Firipi",
+    "book": "Matayo 16–17",
+    "today": "Baniyasi leero",
+    "note": "Abayigirizwa bategeera nti ye Kristo, n'ekkubo ery'omusaalaba liggulawo.",
+    "events": [
+     "Okwatula kwa Peetero — “Ggwe Kristo, Omwana wa Katonda omulamu”",
+     "Alagula okusooka okufa kwe n'okuzuukira kwe",
+     "Yakyusibwa endabika mu kitiibwa ku lusozi"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Lukka 18–19",
+    "today": "Yeriko leero",
+    "note": "Ku kkubo erambuka okugenda e Yerusaalemi, anoonya ababuze.",
+    "events": [
+     "Awa amaaso Balutimaayo omuzibe w'amaaso",
+     "Ayita Zaakaayo omusolooza w'omusolo",
+     "“Omwana w'Omuntu yajja okunoonya n'okulokola ababuze”"
+    ]
+   },
+   "bethany": {
+    "name": "Besaniya",
+    "book": "Yokaana 11–12",
+    "today": "al-Eizariya leero",
+    "note": "Alaga obuyinza ku kufa nga wessabwaako wiiki ye ey'enkomerero.",
+    "events": [
+     "Azuukiza Laazaalo okuva mu ntaana — “Nze kuzuukira n'obulamu”",
+     "Maliyamu amusiiga amafuta ag'okuziikibwa",
+     "Akabonero kano kakaza enkwe ez'okumutta"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusaalemi",
+    "book": "Matayo 21–28 · Lukka 24 · Ebikolwa 1",
+    "today": "Yerusaalemi leero",
+    "note": "Entikko Baibuli yonna gye yali eraga — omusaalaba, okuzuukira, okulinnya mu ggulu.",
+    "events": [
+     "Okuyingira mu kitiibwa; awanula emmeeza za yeekaalu nate",
+     "Ku Kyekiro eky'Enkomerero anaaza abayigirizwa ebigere",
+     "Afiira ku musaalaba",
+     "Yazuukira ku lunaku olw'okusatu, oluvannyuma n'alinnya mu ggulu"
+    ]
+   }
+  },
+  "labels": [
+   "Ennyanja ya Wakati",
+   "Ggaliraaya",
+   "Samaliya",
+   "Buyudaaya",
+   "Dekapoli",
+   "Pereya",
+   "Ennyanja ey'Omunnyo"
+  ],
+  "journeys": {
+   "life": "Ekkubo lya Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiyokiya",
+    "book": "Ebikolwa 13 · 15",
+    "today": "Antakya, Bulaaya leero",
+    "note": "Ekkanisa etuma, obuweereza eri Abamawanga we butandikira era we budda.",
+    "events": [
+     "Mu kusaba Omwoyo ayawula Balunabba ne Sawulo",
+     "Ekkanisa abakkiriza gye baasooka okuyitibwa ‘Abakristaayo’",
+     "Awava olugendo olw'1, olw'2 n'olw'3"
+    ]
+   },
+   "seleucia": {
+    "name": "Sereukiya",
+    "book": "Ebikolwa 13:4",
+    "today": "Bulaaya leero",
+    "note": "Omwalo gwa Antiyokiya — basaabala okugenda e Kupulo.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamisi (Kupulo)",
+    "book": "Ebikolwa 13:5",
+    "today": "Kupulo leero",
+    "note": "Ekifo ekisooka ku Kupulo — okubuulira mu makkuŋŋaaniro.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Ebikolwa 13:6-12",
+    "today": "Kupulo leero",
+    "note": "Amaanyi galagibwa eri abo abaziyiza enjiri.",
+    "events": [
+     "Erima omulogo akubibwa obuzibe bw'amaaso",
+     "Serugiyo Pawulo ow'essaza akkiriza",
+     "Okuva wano ‘Pawulo’ akulembera"
+    ]
+   },
+   "perga": {
+    "name": "Peruge",
+    "book": "Ebikolwa 13:13",
+    "today": "Antalya, Bulaaya leero",
+    "note": "Omwalo mu Panfuliya — wano Yokaana Makko akyukira emabega.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiyokiya ow'omu Pisidiya",
+    "book": "Ebikolwa 13:14-50",
+    "today": "Yalvaç, Bulaaya leero",
+    "note": "Enjiri eggulukira eri Abamawanga.",
+    "events": [
+     "Okubuulira okuwanvu okw'ebyafaayo eby'obulokozi mu kkuŋŋaaniro",
+     "Abamawanga bangi basanyuka ne bakkiriza ekigambo",
+     "Bagobebwa olw'okuwakanya"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniya",
+    "book": "Ebikolwa 14:1-7",
+    "today": "Konya, Bulaaya leero",
+    "note": "Bangi bakkiriza, naye okuyigganyizibwa kubawaliriza okweyongerayo.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lusitera",
+    "book": "Ebikolwa 14:8-20",
+    "today": "Bulaaya leero",
+    "note": "Bamutenda nga katonda, oluvannyuma ne bamukuba amayinja.",
+    "events": [
+     "Awonya omusajja eyali mulema okuva mu lubuto",
+     "Ekibiina kigezaako okubawaayo ssaddaaka nga bakatonda",
+     "Yakubibwa amayinja n'alekebwa ng'afudde, naye n'agolokoka"
+    ]
+   },
+   "derbe": {
+    "name": "Derube",
+    "book": "Ebikolwa 14:20-21",
+    "today": "Bulaaya leero",
+    "note": "Abayigirizwa bangi bakolebwa; baddayo mu makubo gaabwe okunyweza amakanisa.",
+    "events": []
+   },
+   "troas": {
+    "name": "Tirowa",
+    "book": "Ebikolwa 16:8-10",
+    "today": "Bulaaya leero",
+    "note": "Ekifo eky'enkyukakyuka enjiri we yasooka okwolekera Bulaaya.",
+    "events": [
+     "Okwolesebwa kw'omusajja Omumakedoniya",
+     "“Jjangu osomoke otuyambe”",
+     "Amangu basomoka okuyingira Bulaaya"
+    ]
+   },
+   "philippi": {
+    "name": "Firipi",
+    "book": "Ebikolwa 16 · Abafiripi",
+    "today": "Buyonaani ey'obukiika kkono leero",
+    "note": "Ekkanisa esooka eya Bulaaya — enjiri ewangula ne mu kkomera.",
+    "events": [
+     "Ludiya, omuguzi w'engoye eza ffulungu, akkiriza",
+     "Omuwala omuddu omulaguzi asumululwa",
+     "Ennyimba mu ttumbi, musisi, ennyumba y'omukuumi ekkomera elokolebwa"
+    ]
+   },
+   "thess": {
+    "name": "Sessaloniika",
+    "book": "Ebikolwa 17 · 1–2 Abasessaloniika",
+    "today": "Sessaloniiki, Buyonaani leero",
+    "note": "Ekigambo kinyeenya ekibuga era okuwakanya kweyongera.",
+    "events": [
+     "Akubaganya ebirowoozo mu kkuŋŋaaniro Bassabbiiti basatu",
+     "“Bano abakyusizza ensi waggulu wansi”",
+     "Bava mu kiro"
+    ]
+   },
+   "berea": {
+    "name": "Beroya",
+    "book": "Ebikolwa 17:10-15",
+    "today": "Veriya, Buyonaani leero",
+    "note": "Abo ‘ab'ekitiibwa’ abaakebera ekigambo bo bennyini.",
+    "events": [
+     "Basembeza ekigambo n'obumalirivu",
+     "Bulijjo bakebera Ebyawandiikibwa okukikakasa",
+     "Bangi bakkiriza"
+    ]
+   },
+   "athens": {
+    "name": "Asene",
+    "book": "Ebikolwa 17:16-34",
+    "today": "Asene, Buyonaani leero",
+    "note": "Mu kibuga ky'abafirosoofa alangirira ‘katonda atamanyiddwa’.",
+    "events": [
+     "Akwatibwa ennaku olw'ekibuga ekijjudde ebifaananyi",
+     "Ku Aleyopaago abuulira ku Mutonzi n'okuzuukira",
+     "Banyooma, naye abatono bakkiriza"
+    ]
+   },
+   "corinth": {
+    "name": "Kkolinso",
+    "book": "Ebikolwa 18 · 1–2 Abakkolinso",
+    "today": "Buyonaani leero",
+    "note": "Abeerawo omwaka n'ekitundu, ng'asimba ekkanisa mu kibuga eky'obwonoonefu.",
+    "events": [
+     "Akola eweema ne Akula ne Pulisikira",
+     "“Totya… kubanga ndi naawe”",
+     "Abakkolinso bangi bakkiriza ne babatizibwa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Ebikolwa 19 · Abaefeso",
+    "today": "Selçuk, Bulaaya leero",
+    "note": "Omutima gw'olugendo olw'okusatu — ekigambo kisaasaana okuyita mu Asiya.",
+    "events": [
+     "Okuyigiriza buli lunaku okumala emyaka ebiri mu kisenge kya Tulano",
+     "Ebitabo by'eddogo byokebwa; ebikolwa eby'amaanyi",
+     "Demeteriyo omuweesi wa ffeeza atandika akeegugungo"
+    ]
+   },
+   "miletus": {
+    "name": "Mireeto",
+    "book": "Ebikolwa 20:17-38",
+    "today": "Bulaaya leero",
+    "note": "Okusiibula okw'amaziga eri abakadde b'e Efeso.",
+    "events": [
+     "“Mulabirire ekkanisa gye yagula n'omusaayi gwe ye”",
+     "Abakadde bakaaba, nga bamanyi nti tebaliddamu kumulaba"
+    ]
+   },
+   "caesarea": {
+    "name": "Kayisaliya",
+    "book": "Ebikolwa 23–26",
+    "today": "olubalama lwa Isiraeri leero",
+    "note": "Okumala emyaka ebiri awoza enjiri mu maaso g'abafuzi ne kabaka.",
+    "events": [
+     "Emisango mu maaso g'abafuzi Felikisi ne Fesuto",
+     "Okwerwanirira kwe mu maaso wa Kabaka Agulipa",
+     "“Njulira eri Kayisaali” — okugenda e Ruumi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusaalemi",
+    "book": "Ebikolwa 21–23",
+    "today": "Yerusaalemi leero",
+    "note": "Akwatibwa mu yeekaalu, ekkubo lye ng'omusibe litandika.",
+    "events": [
+     "Akwatibwa ekibiina mu yeekaalu",
+     "Yeerwanirira mu maaso g'olukiiko",
+     "Nga munnansi Omuruumi, atumibwa ng'akuumiddwa okugenda e Kayisaliya"
+    ]
+   },
+   "myra": {
+    "name": "Mura",
+    "book": "Ebikolwa 27:5-6",
+    "today": "Demre, Bulaaya leero",
+    "note": "Bakyusiza mu kyombo eky'e Alegezandiriya ekigenda e Ruumi.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Emyalo Emirungi (Kuleete)",
+    "book": "Ebikolwa 27:8-12",
+    "today": "Kuleete leero",
+    "note": "Okulabula kwa Pawulo okuyimiriza okusaabala tekuwulirwa.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kuleete",
+    "book": "Tito",
+    "today": "Kuleete leero",
+    "note": "Oluvannyuma lw'okuteebwa, ekizinga gye yaleka Tito okutereeza amakanisa.",
+    "events": [
+     "Aleka Tito okulonda abakadde mu buli kibuga",
+     "Akoowoola abakulembeze abataliiko kya kunenyezebwa, abeesigwa",
+     "Awandiika ebbaluwa eri Tito"
+    ]
+   },
+   "malta": {
+    "name": "Merita",
+    "book": "Ebikolwa 27–28",
+    "today": "Merita leero",
+    "note": "Ng'ayita mu muyaga n'okwabika kw'ekyombo, endagaano ya Katonda enyweera.",
+    "events": [
+     "‘Omuyaga ogw'obukiika kkono ebuvanjuba’ gwabika ekyombo, naye bonna 276 bawona",
+     "Yalumwa omusota, naye n'atalumizibwa",
+     "Awonya abalwadde b'ekizinga"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusi",
+    "book": "Ebikolwa 28:12",
+    "today": "Sisiliya, Buyitale leero",
+    "note": "Bamala ennaku ssatu mu Sisiliya.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Ebikolwa 28:13-14",
+    "today": "Pozzuoli, Buyitale leero",
+    "note": "Bagwa mu Buyitale era ne basisinkanibwa abooluganda.",
+    "events": []
+   },
+   "rome": {
+    "name": "Ruumi",
+    "book": "Ebikolwa 28 · Ebbaluwa z'ekkomera · 2 Timoseewo",
+    "today": "Ruumi, Buyitale leero",
+    "note": "Enjiri ekomawo ku mutima gw'obwakabaka — si nkomerero naye ntandikwa.",
+    "events": [
+     "Emyaka ebiri ng'asibiddwa mu nnyumba, ng'alangirira obwakabaka n'obuvumu",
+     "Okuva wano awandiika Ebbaluwa z'ekkomera (Bef·Baf·Bak·Fil)",
+     "Oluvannyuma yasibibwa nate, awandiika 2 Timoseewo n'attibwa — “nnwanye okulwana okulungi, nnamazze olugendo”"
+    ]
+   }
+  },
+  "labels": [
+   "Ennyanja ya Wakati",
+   "Ennyanja Egea",
+   "Asiya Entono",
+   "Makedoniya",
+   "Buyitale"
+  ],
+  "journeys": {
+   "j1": "Olugendo olusooka",
+   "j2": "Olugendo olwokubiri",
+   "j3": "Olugendo olwokusatu",
+   "rome": "Olugendo olwokuna · okugenda e Ruumi",
+   "j5": "Olugendo olwokutaano · oluvannyuma lw'okuteebwa"
+  }
+ }
+}

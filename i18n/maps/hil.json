@@ -1,0 +1,636 @@
+{
+ "menuName": "Hiligaynon",
+ "htmlLang": "hil",
+ "dir": "ltr",
+ "locale": "hil-PH",
+ "brand": "Ang Biblia sa Isa ka Pag-iling",
+ "docTitle": "Ang Biblia paagi sa Mapa · Ang Biblia sa Isa ka Pag-iling",
+ "metaDesc": "Sundon ang dalanon sang panahon sang Daan nga Katipan, ang kabuhi ni Jesus, kag ang mga paglakbay ni Pablo sa isa ka matuod nga mapa — ang Biblia natabo sa matuod nga mga lugar.",
+ "s": {
+  "kicker": "Ang Biblia sa Isa ka Pag-iling · Mga Mapa",
+  "title": "Ang Biblia paagi sa Mapa",
+  "verse": "“Kay wala kami magsonod sang mga sugilanon nga pinatopato sing malalangon sang pagpakilala namon sa inyo sang gahum kag pag-abut sang aton Ginoong Jesu-Cristo, kondi mga saksi kami nga nakakita sang iya pagkaharianon.” (2 Pedro 1:16)",
+  "purpose": "Ang Biblia indi sugilanon nga himo-himo. Isa ini ka talaan sang mga tawo nga naglakat sa matuod nga mga lugar, mga petsa, kag mga ngalan. Sundon ina nga mga dalanon sa mapa, suno sa pagkasunod-sunod sang panahon — pisliton ang isa ka punto, ukon pisliton ang ▶ agud lakbayon ini sa kada lakang.",
+  "ot_kick": "① Daan nga Katipan — sa paglatas sang panahon",
+  "ot_h": "Halin sa pagtuga tubtub sa pagbalik sa Jerusalem",
+  "ot_lead": "Indi isa lamang ka paglakbay kondi ang ilig sang kasaysayan sang pagtubos halin sa pagtuga: pagtuga kag pagkahulog → anaw kag Babel → isa ka pagtawag (Abraham) → ang ginsaad nga duta → Pagguwa → kamingawan → pag-agaw → ginharian → pagkabahin → pagkabihag → pagbalik.",
+  "je_kick": "② Bag-ong Katipan — ang kabuhi ni Jesus",
+  "je_h": "Halin sa Betlehem tubtub sa Jerusalem",
+  "je_lead": "Sundon ang kabuhi ni Jesus suno sa pagsugid sang mga Ebanghelyo, sa pagkasunod-sunod — halin sa iya pagkatawo sa Betlehem paagi sa iya pagbautismo kag pag-alagad sa Galilea, latas sa Samaria, tubtub sa krus, pagkabanhaw kag pagkayab sa Jerusalem.",
+  "pa_kick": "③ Bag-ong Katipan — ang mga paglakbay ni Pablo",
+  "pa_h": "Halin sa Antioquia tubtub sa mga ukbung sang duta — Roma",
+  "pa_lead": "Halin sa Pentecostes sa Jerusalem, kon paano naglapnag ang maayong balita sa unhan sang Judea — paagi sa Asia Menor kag Europa tubtub sa kasingkasing sang emperyo. Magpili sang isa sa lima ka paglakbay (1·2·3 + ang paglayag pakadto sa Roma + sa tapos sang pagpaguwa) kag sundon ang mga hitabo sa Mga Binuhatan upod ang mga sulat nga ginsulat sa dalanon.",
+  "foot": "Mga ginhalinan · Ang mga lugar nagasunod sa teksto sang Biblia kag sa kinaandan nga heograpiya sang Biblia (may mga moderno nga ngalan kon makabulig). Ang mga baybayon, mga suba, kag mga linaw gindrowing halin sa bukas nga datos heograpiko (Natural Earth), ginpasimple.",
+  "contact": "Mga pamangkot · komento — <a id=\"contact\" class=\"mail\">Magpadala sing email</a>",
+  "play": "Patukara",
+  "pause": "Pahuway",
+  "today": "Subong:",
+  "verseCite": "2 Pedro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Pagtuga · Pagkahulog)",
+    "book": "Genesis 1–3",
+    "today": "ang rehiyon sang Tigris–Eufrates subong",
+    "note": "Sa isa ka kalibutan nga «maayo gid» ang pagkahimo, nagsulud ang sala kag nautud ang higot sa ulot sang Dios kag sang tawo.",
+    "events": [
+     "Pagtuga sa anum ka adlaw — «maayo gid»",
+     "Ang tawo nahimo sa larawan sang Dios",
+     "Ang pagkahulog, kag pagtabog sa Eden",
+     "Ang nahauna nga saad sang maayong balita — «ang kaliwat sang babae magadugmok sang olo sang man-ug»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (ang Anaw)",
+    "book": "Genesis 6–9",
+    "today": "Bukid Ararat, sidlangan sang Türkiye subong",
+    "note": "Ginhukman sang Dios ang isa ka kalibutan nga puno sang sala, apang gintipigan ang kabuhi paagi sa isa ka panimalay.",
+    "events": [
+     "Isa ka kalibutan nga puno sang kalautan",
+     "Ang anaw, kag ang arka ni Noe",
+     "Ang katipan sang balangaw — «indi na gid liwat ang anaw sa paglaglag»"
+    ]
+   },
+   "babel": {
+    "name": "Tore sang Babel",
+    "book": "Genesis 11",
+    "today": "Iraq subong (kapatagan sang Sinar)",
+    "note": "Batok sa bugal nga nagatinguha makalab-ot sa langit, ginpagumon sang Dios ang ila hambal kag ginpaaplaag ang mga katawhan sa bug-os nga duta.",
+    "events": [
+     "«Magtukod kita sing siyudad kag isa ka tore… kag magpabantog kita sang aton ngalan»",
+     "Ginlibog sang Dios ang ila hambal",
+     "Ang mga katawhan naglapta sa bug-os nga duta (Sinar — sang ulihi Babilonia)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesis 12",
+    "today": "bagatnan nga Iraq subong",
+    "note": "Ang sugilanon sang pagtubos sang Biblia nagasugod sa pagtawag sa isa ka tawo.",
+    "events": [
+     "Gintawag sang Dios si Abram paguwa sa Ur sang mga Caldeo",
+     "«Himoon ko gikan sa imo ang isa ka pungsud nga daku… sa imo pakamaayohon ang tanan nga katawhan»",
+     "Paagi sa pagtuo ginbayaan niya ang iya duta"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Genesis 12",
+    "today": "bagatnan nga Türkiye subong",
+    "note": "Sa dalanon, ginasabat ang pagtawag pakadto sa ginsaad nga duta.",
+    "events": [
+     "Ang panimalay ni Tera nagpuyo sa Haran",
+     "Napatay si Tera",
+     "Naglakat si Abram pakadto sa Canaan sa edad nga 75"
+    ]
+   },
+   "shechem": {
+    "name": "Siquem · Canaan",
+    "book": "Genesis 12–50",
+    "today": "Nablus subong",
+    "note": "Sa ginsaad nga duta ginpasad ang isa ka panimalay kag ang katipan ginpasa sa mga kaliwatan.",
+    "events": [
+     "Pagsulud sa Canaan, nahauna nga halaran — «sa imo kaliwat ihatag ko ini nga duta»",
+     "Ang katipan (Gen 15) · Isaac · Jacob",
+     "Ang dose ka anak ni Jacob — gamut sang dose ka tribu"
+    ]
+   },
+   "egypt": {
+    "name": "Egipto (Gosen)",
+    "book": "Genesis 37–50 · Exodo 1",
+    "today": "Delta sang Nilo, Egipto subong",
+    "note": "Ang isa ka panimalay nangin isa ka pungsud nga daku — dayon isa ka pungsud sang mga ulipon.",
+    "events": [
+     "Si Jose, ginbaligya, nagsaka sa paggahum sa Egipto",
+     "Ang bug-os nga panimalay ni Jacob nagdulhog agud maglikaw sa gutom",
+     "Ang nagatubo nga pungsud sang Israel gin-ulipon"
+    ]
+   },
+   "sinai": {
+    "name": "Bukid Sinai",
+    "book": "Exodo · Levitico",
+    "today": "Tangway sang Sinai subong",
+    "note": "Ang sentro nga pagluwas sang Daan nga Katipan — ang mga ulipon nangin katawhan sang Dios.",
+    "events": [
+     "Ang napulo ka kalalat-an kag ang kordero sa Paskua",
+     "Nabuka ang Pula nga Dagat kag nagtabok sila",
+     "Ang Napulo ka Sugo, ang Kasuguan, ang tabernakulo kag mga halad"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (kamingawan)",
+    "book": "Numeros · Deuteronomio",
+    "today": "ang kamingawan sang Sinai–Negev subong",
+    "note": "Ang pagkawalay pagtuo nagdulot sa isa ka kaliwatan sang duta — apang ang Dios nagpabilin upod sa ila.",
+    "events": [
+     "Dose ka espiya — apang ang katawhan nagdumili sa pagsalig",
+     "38 ka tuig sa desyerto — manna, panganod kag kalayo",
+     "Sa kapatagan sang Moab, ang katapusan nga wali ni Moises (Deuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Josue",
+    "today": "Jerico subong",
+    "note": "Sa katapusan nagsulud sila kag gin-agaw ang ginsaad nga duta.",
+    "events": [
+     "Nabuka ang Jordan kag nagtabok ang katawhan",
+     "Napukan ang mga pader sang Jerico",
+     "Ang pag-agaw sa Canaan kag pagbahinbahin sang duta"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Mga Hukom)",
+    "book": "Mga Hukom · Ruth",
+    "today": "Khirbet Seilun subong",
+    "note": "Sa wala sing hari, ang tagsatagsa naghimo sang naluyagan niya — kinahanglan ang matuod nga hari.",
+    "events": [
+     "Ang tabernakulo gintukod sa Silo",
+     "Ang siklo sang sala–pagpiguson–pagluwas (Debora, Gideon, Samson)",
+     "Ruth — katutom sa madulom nga mga adlaw, sa kaliwat ni David"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Nahiusa nga Ginharian",
+    "book": "1–2 Samuel · 1 Mga Hari",
+    "today": "Jerusalem subong",
+    "note": "Ang bulawanon nga panahon sang Israel — kag ang saad sang isa ka wala katubtuban nga hari.",
+    "events": [
+     "Si Saul ang nahauna nga hari, dayon si David kag si Goliath",
+     "Ang katipan kay David — «ang imo trono sa wala katubtuban» (2 Sam 7)",
+     "Gintukod ni Solomon ang templo sa Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Nabahin nga Ginharian",
+    "book": "Mga Hari · ang mga Manalagna",
+    "today": "Sebastia subong",
+    "note": "Nabahin ang ginharian kag nagdulhog samtang nagatuaw ang mga manalagna.",
+    "events": [
+     "Sa tapos ni Solomon, ang pagkabahin sa Juda kag Israel",
+     "Ginsulit nga pagsimba sa diosdios",
+     "Si Elias, Isaias, Jeremias nagatuaw ‘magbalik’ — kag nagatagna sang Mesias"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "2 Mga Hari 17 · Jonas",
+    "today": "Mosul, Iraq subong",
+    "note": "Sa pagsikway sang tagsa ka paandam, ang aminhan napukan anay.",
+    "events": [
+     "Ninive, ang kapital sang Asiria",
+     "Ang aminhan nga ginharian napukan sa Asiria (722 B.C.)",
+     "Si Jonas ginpadala sa Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilonia",
+    "book": "2 Mga Hari 25 · Daniel · Ezequiel",
+    "today": "Hillah, Iraq subong",
+    "note": "Ang pinakamadulom nga gab-i — apang ang saad sang pagpasag-uli nagpabilin.",
+    "events": [
+     "Napukan ang Jerusalem, nasunog ang templo (586 B.C.)",
+     "Ang Juda gin-guyod sa Babilonia",
+     "Si Daniel kag Ezequiel — pagtuo kag mga palanan-awon sa pagkabihag"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Ester · Nehemias",
+    "today": "Shush, Iran subong",
+    "note": "Bisan sa kasingkasing sang isa ka pagano nga emperyo, ginatipigan sang Dios ang iya katawhan.",
+    "events": [
+     "Gindaug sang Persia ang Babilonia",
+     "Ginluwas ni Ester ang mga Judio gikan sa kalaglagan",
+     "Si Nehemias nagpangamuyo sa atubang sang hari kag ginpadala"
+    ]
+   },
+   "return": {
+    "name": "Pagbalik sa Jerusalem",
+    "book": "Esdras · Nehemias · Malaquias",
+    "today": "Jerusalem subong",
+    "note": "Nagbalik sila kag nagtukod liwat — apang wala sing hari nga nag-abot. Nagahulat sila sa Mesias.",
+    "events": [
+     "Tatlo ka balud sang pagbalik paagi sa sugo ni Ciro (Zorobabel 538 · Esdras 458 · Nehemias 444)",
+     "Gintukod liwat ang templo kag ang mga pader sang Jerusalem",
+     "Malaquias — ang Daan nga Katipan nagatapos: «Ako magapadala sang akon manugbalita»"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Mesopotamia",
+   "Desyerto sang Arabia",
+   "Egipto"
+  ],
+  "journeys": {
+   "flow": "Ang sugilanon sang pagtubos"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mateo 1–2 · Lucas 2",
+    "today": "Betlehem subong",
+    "note": "Ang ginsaad nga Mesias nag-abot sa banwa ni David — ang Pulong nangin-unud.",
+    "events": [
+     "Natawo sa Betlehem, ang banwa ni David",
+     "Ginbalita sang mga anghel sa mga manugbantay sang karnero",
+     "Ang mga Mago nag-abot sa pagsimba"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lucas 2 · 4",
+    "today": "Nazaret subong",
+    "note": "Ang Dios nagdaku subong tawo sa isa ka kinaandan nga banwa.",
+    "events": [
+     "Ginpadaku sa balay sang isa ka panday",
+     "Sa dose ka tuig, nagapamangkot kag nagasabat sa templo",
+     "Sang ulihi ginsikway sa sinagoga sang iya banwa"
+    ]
+   },
+   "jordan": {
+    "name": "Suba sang Jordan",
+    "book": "Mateo 3–4",
+    "today": "ang ubos nga Jordan subong",
+    "note": "Nagsugod ang iya hayag nga pag-alagad — ginpat-in sia sang langit subong Anak.",
+    "events": [
+     "Ginbautismohan ni Juan",
+     "Nagkunsad ang Espiritu subong salampati — «Ini amo ang akon hinigugma nga Anak»",
+     "Gindaug ang tatlo ka pagsulay ni Satanas sa kamingawan"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "Juan 2",
+    "today": "Kafr Kanna subong",
+    "note": "Sa iya nahauna nga tanda ginpahayag niya ang iya himaya.",
+    "events": [
+     "Isa ka dinapit sa isa ka kasal",
+     "Tubig nga ginhimo nga alak — ang iya nahauna nga tanda",
+     "Nagtuo sa iya ang iya mga gintinun-an"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Juan 2–4",
+    "today": "malapit sa Nablus subong",
+    "note": "Ang temprano nga dalanon sang pag-alagad — paagi sa Jerusalem kag padayon sa ginayaguta nga Samaria.",
+    "events": [
+     "Ginhinluan niya ang templo sa Jerusalem",
+     "Sa kagab-ihon, si Nicodemo — «Kinahanglan ka matawo liwat»",
+     "Buhi nga tubig para sa isa ka babae nga taga-Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Mateo 4–13 · Marcos 1–4",
+    "today": "ang baybayon sang linaw sang Galilea subong",
+    "note": "Ang sentro sang pag-alagad sa Galilea — ang pagtawag, pagtudlo kag pagpamatok nagatipon diri.",
+    "events": [
+     "Gintawag niya ang mga mangingisda kag ginhimo diri ang iya sentro",
+     "Ang Wali sa Bukid — «Bulahan ang mga imol sa espiritu»",
+     "Mga paanggid sang ginharian — kag nagatubo nga pagpamatok"
+    ]
+   },
+   "galilee": {
+    "name": "Dagat sang Galilea",
+    "book": "Marcos 4 · 6 · Juan 6",
+    "today": "Linaw Kinneret subong",
+    "note": "Paagi sa gahum sa kinaiya ginpakita niya kon sin-o sia.",
+    "events": [
+     "«Maghipos ka, magkalma ka» — ginpalinong niya ang bagyo",
+     "Ginpakaon ang 5,000 sa lima ka tinapay kag duha ka isda",
+     "Naglakat sa ibabaw sang tubig"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea Filipos",
+    "book": "Mateo 16–17",
+    "today": "Banias subong",
+    "note": "Nahangpan sang mga gintinun-an nga sia amo ang Cristo, kag nag-abri ang dalan sang krus.",
+    "events": [
+     "Ang pagtu-ad ni Pedro — «Ikaw ang Cristo, ang Anak sang Dios nga buhi»",
+     "Ginpamulong niya anay ang iya kamatayon kag pagkabanhaw",
+     "Nagbalhin ang iya dagway sa himaya sa bukid"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Lucas 18–19",
+    "today": "Jerico subong",
+    "note": "Sa dalan pasaka sa Jerusalem, ginapangita niya ang nadula.",
+    "events": [
+     "Ginhatagan niya sing panan-aw si Bartimeo nga bulag",
+     "Gintawag niya si Zaqueo nga manugsokot sang buhis",
+     "«Ang Anak sang Tawo nagkari sa pagpangita kag pagluwas sang nadula»"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Juan 11–12",
+    "today": "al-Eizariya subong",
+    "note": "Ginpakita niya ang gahum sa kamatayon sa balay sang iya katapusan nga semana.",
+    "events": [
+     "Ginbanhaw niya si Lazaro gikan sa lulubngan — «Ako ang pagkabanhaw kag ang kabuhi»",
+     "Ginhaplasan sia ni Maria para sa iya paglubong",
+     "Ini nga tanda nagpatig-a sang plano sa pagpatay sa iya"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mateo 21–28 · Lucas 24 · Mga Binuhatan 1",
+    "today": "Jerusalem subong",
+    "note": "Ang kinataason nga ginatudlo sang bug-os nga Biblia — krus, pagkabanhaw, pagkayab.",
+    "events": [
+     "Madaugon nga pagsulud; ginbaliskad niya liwat ang mga lamesa sa templo",
+     "Sa Katapusan nga Panihapon ginhugasan niya ang mga tiil sang mga gintinun-an",
+     "Napatay sia sa krus",
+     "Nabanhaw sa ikatlo nga adlaw, dayon nagkayab"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Decapolis",
+   "Perea",
+   "Patay nga Dagat"
+  ],
+  "journeys": {
+   "life": "Ang dalanon ni Jesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioquia",
+    "book": "Mga Binuhatan 13 · 15",
+    "today": "Antakya, Türkiye subong",
+    "note": "Ang nagapadala nga iglesya diin nagasugod kag nagabalik ang misyon sa mga Gentil.",
+    "events": [
+     "Sa pagpangamuyo ginpain sang Espiritu si Bernabe kag si Saulo",
+     "Ang iglesya diin una gintawag nga ‘mga Cristiano’ ang mga tumuluo",
+     "Ginhalinan sang nahauna, ikaduha kag ikatlo nga paglakbay"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Mga Binuhatan 13:4",
+    "today": "Türkiye subong",
+    "note": "Ang dungganan sang Antioquia — naglayag sila pakadto sa Cipre.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Cipre)",
+    "book": "Mga Binuhatan 13:5",
+    "today": "Cipre subong",
+    "note": "Nahauna nga hulunungdan sa Cipre — nagbantala sa mga sinagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Mga Binuhatan 13:6-12",
+    "today": "Cipre subong",
+    "note": "Ginpakita ang gahum batok sa mga nagapamatok sa maayong balita.",
+    "events": [
+     "Si Elimas nga madyikero ginbutaan",
+     "Si Sergio Paulo nga gobernador nagtuo",
+     "Halin diri si ‘Pablo’ ang nagpanguna"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Mga Binuhatan 13:13",
+    "today": "Antalya, Türkiye subong",
+    "note": "Isa ka dungganan sa Pamfilia — diri nagbalik si Juan Marcos.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioquia sang Pisidia",
+    "book": "Mga Binuhatan 13:14-50",
+    "today": "Yalvaç, Türkiye subong",
+    "note": "Nagbukas ang maayong balita pakadto sa mga Gentil.",
+    "events": [
+     "Isa ka malawig nga wali sang kasaysayan sang kaluwasan sa sinagoga",
+     "Madamo nga mga Gentil ang nagkalipay kag nagbaton sang pulong",
+     "Gintabog tungud sa pagpamatok"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Mga Binuhatan 14:1-7",
+    "today": "Konya, Türkiye subong",
+    "note": "Madamo ang nagtuo, apang ang paghingabot nagtulod sa ila pa sa unhan.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Mga Binuhatan 14:8-20",
+    "today": "Türkiye subong",
+    "note": "Ginbantog subong isa ka dios, dayon ginbato.",
+    "events": [
+     "Gin-ayo ang isa ka tawo nga piang halin sa pagkatawo",
+     "Gintinguhaan sang kadam-an nga halaran sila subong mga dios",
+     "Ginbato kag ginbayaan nga daw patay, nagbangon sia"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Mga Binuhatan 14:20-21",
+    "today": "Türkiye subong",
+    "note": "Madamo nga mga gintinun-an ang nahimo; nagbalik sila sa ila gin-agyan agud palig-unon ang mga iglesya.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Mga Binuhatan 16:8-10",
+    "today": "Türkiye subong",
+    "note": "Ang puntos sang pagbalhin diin nahauna nga nagpakadto ang maayong balita sa Europa.",
+    "events": [
+     "Isa ka palanan-awon sang isa ka tawo nga taga-Macedonia",
+     "«Tabok ka diri kag buligi kami»",
+     "Nagtabok sila gilayon pakadto sa Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipos",
+    "book": "Mga Binuhatan 16 · Filipos",
+    "today": "aminhan nga Gresya subong",
+    "note": "Ang nahauna nga iglesya sa Europa — nagdaug ang maayong balita bisan sa bilangguan.",
+    "events": [
+     "Si Lidia, isa ka manugbaligya sang granate nga panapton, nagtuo",
+     "Isa ka ulipon nga babae nga manugpakot ginhilway",
+     "Mga ambahanon sa tungang gab-i, isa ka linog, naluwas ang panimalay sang manugbantay sang bilangguan"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonica",
+    "book": "Mga Binuhatan 17 · 1–2 Tesalonica",
+    "today": "Thessaloniki, Gresya subong",
+    "note": "Gintay-og sang pulong ang siyudad kag nag-init ang pagpamatok.",
+    "events": [
+     "Nagpangatarungan sa sinagoga sa tatlo ka Adlaw nga Inugpahuway",
+     "«Ini sila nga nagpaalimbukad sang kalibutan»",
+     "Naglikaw sila sa kagab-ihon"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Mga Binuhatan 17:10-15",
+    "today": "Veria, Gresya subong",
+    "note": "Ang ‘dungganon’ nga mga tawo nga nag-usisa sang pulong sa ila kaugalingon.",
+    "events": [
+     "Ginbaton nila ang pulong sing hugot",
+     "Adlaw-adlaw gin-usisa nila ang mga Kasulatan agud tan-awon ini",
+     "Madamo ang nagtuo"
+    ]
+   },
+   "athens": {
+    "name": "Atenas",
+    "book": "Mga Binuhatan 17:16-34",
+    "today": "Atenas, Gresya subong",
+    "note": "Sa siyudad sang mga pilosopo ginbantala niya ang ‘wala makilal-i nga dios’.",
+    "events": [
+     "Ginpaakig sia sang isa ka siyudad nga puno sang diosdios",
+     "Sa Areopago ginwali niya ang Manunuga kag ang pagkabanhaw",
+     "Ginyaguta, apang pila ang nagtuo"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Mga Binuhatan 18 · 1–2 Corinto",
+    "today": "Gresya subong",
+    "note": "Nagpabilin sia isa ka tuig kag tunga, nga nagtanum sang iglesya sa isa ka siyudad sang kalautan.",
+    "events": [
+     "Naghimo sing mga tolda upod kanday Aquila kag Priscila",
+     "«Indi ka magkahadluk… kay kaupod mo ako»",
+     "Madamo nga taga-Corinto ang nagtuo kag ginbautismohan"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Mga Binuhatan 19 · Efeso",
+    "today": "Selçuk, Türkiye subong",
+    "note": "Ang sentro sang ikatlo nga paglakbay — naglapnag ang pulong sa bug-os nga Asia.",
+    "events": [
+     "Adlaw-adlaw nga pagtudlo sa sulod sang duha ka tuig sa hulot ni Tirano",
+     "Mga libro sang madyik ginsunog; gamhanan nga mga binuhatan",
+     "Ginsugdan ni Demetrio nga platero ang isa ka kinagamo"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Mga Binuhatan 20:17-38",
+    "today": "Türkiye subong",
+    "note": "Isa ka paalam nga puno sang luha sa mga gulang sang Efeso.",
+    "events": [
+     "«Atipana ang iglesya nga ginbakal niya paagi sa iya kaugalingon nga dugo»",
+     "Naghibi ang mga gulang, kay nahibal-an nila nga indi na nila sia makita"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Mga Binuhatan 23–26",
+    "today": "ang baybayon sang Israel subong",
+    "note": "Sa duha ka tuig gin-apinan niya ang maayong balita sa atubang sang mga gobernador kag isa ka hari.",
+    "events": [
+     "Mga bista sa atubang sang mga gobernador nga si Felix kag Festo",
+     "Ang iya pag-apin sa atubang ni Hari Agripa",
+     "«Nagapangayo ako sing bista kay Cesar» — pakadto sa Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mga Binuhatan 21–23",
+    "today": "Jerusalem subong",
+    "note": "Gindakup sa templo, nagsugod ang iya dalanon subong isa ka bilanggo.",
+    "events": [
+     "Gindakup sang kadam-an sa templo",
+     "Gin-apinan niya ang iya kaugalingon sa atubang sang konseho",
+     "Subong isa ka pumuluyo sang Roma, ginpadala nga ginbantayan pakadto sa Cesarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Mga Binuhatan 27:5-6",
+    "today": "Demre, Türkiye subong",
+    "note": "Nagsaylo sila sa isa ka barko nga taga-Alejandria nga pakadto sa Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Maayo nga mga Dunggoanan (Creta)",
+    "book": "Mga Binuhatan 27:8-12",
+    "today": "Creta subong",
+    "note": "Ang paandam ni Pablo nga mag-untat sa paglayag wala ginsapak.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tito",
+    "today": "Creta subong",
+    "note": "Sa tapos sang iya pagpaguwa, ang isla diin ginbilin niya si Tito agud ipahimusay ang mga iglesya.",
+    "events": [
+     "Ginbilin si Tito agud magtangdo sang mga gulang sa tagsa ka banwa",
+     "Nagpangabay sang mga pangulo nga wala sing kasawayan kag matutom",
+     "Ginsulat ang sulat kay Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Mga Binuhatan 27–28",
+    "today": "Malta subong",
+    "note": "Paagi sa bagyo kag pagkalunod sang barko, ang saad sang Dios nagpabilin.",
+    "events": [
+     "Ginguba sang ‘amihan nga hangin’ ang barko, apang ang tanan nga 276 naluwas",
+     "Ginkagat sang isa ka man-ug, apang wala sia maano",
+     "Gin-ayo niya ang mga masakiton sa isla"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Mga Binuhatan 28:12",
+    "today": "Sicilia, Italia subong",
+    "note": "Nagpabilin sila tatlo ka adlaw sa Sicilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Mga Binuhatan 28:13-14",
+    "today": "Pozzuoli, Italia subong",
+    "note": "Nakadungka sila sa Italia kag ginsugata sang mga masig-katumuluo.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Mga Binuhatan 28 · Mga Sulat sa Bilangguan · 2 Timoteo",
+    "today": "Roma, Italia subong",
+    "note": "Sa katapusan naglab-ot ang maayong balita sa kasingkasing sang emperyo — indi katapusan kondi isa ka sugod.",
+    "events": [
+     "Duha ka tuig sa pagkabilanggo sa balay, maisog nga nagbantala sang ginharian",
+     "Halin diri ginsulat niya ang Mga Sulat sa Bilangguan (Efe·Fil·Col·Filemon)",
+     "Sang ulihi ginbilanggo liwat, ginsulat ang 2 Timoteo kag ginpatay — «Ginpakig-away ko ang maayo nga pagpakig-away, gintapos ko ang lumba»"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Dagat Egeo",
+   "Asia Menor",
+   "Macedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Nahauna nga paglakbay",
+   "j2": "Ikaduha nga paglakbay",
+   "j3": "Ikatlo nga paglakbay",
+   "rome": "Ikap-at nga paglakbay · pakadto sa Roma",
+   "j5": "Ikalima nga paglakbay · sa tapos sang pagpaguwa"
+  }
+ }
+}

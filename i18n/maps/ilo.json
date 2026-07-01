@@ -1,0 +1,636 @@
+{
+ "menuName": "Ilokano",
+ "htmlLang": "ilo",
+ "dir": "ltr",
+ "locale": "ilo-PH",
+ "brand": "Ti Biblia iti Maysa a Pannakaiyunnat",
+ "docTitle": "Ti Biblia babaen ti Mapa · Ti Biblia iti Maysa a Pannakaiyunnat",
+ "metaDesc": "Surotem ti baddek ti petsa ti Daan a Tulag, ti biag ni Jesus, ken dagiti panagdaliasat ni Pablo iti pudno a mapa — napasamak ti Biblia kadagiti pudno a lugar.",
+ "s": {
+  "kicker": "Ti Biblia iti Maysa a Pannakaiyunnat · Dagiti Mapa",
+  "title": "Ti Biblia babaen ti Mapa",
+  "verse": "“Ta saanmi a sinursurot dagiti nainsicapan a palpaltuad idi impacaammomi cadacayo ti pannacabalin ken ti iyaay ni Apotayo a Jesu-Cristo, no di ket nasacsian dagiti matami ti dayagna.” (II Pedro 1:16)",
+  "purpose": "Saan a mito ti Biblia. Daytoy ket maysa a kasuratan dagiti tattao a nagna kadagiti pudno a lugar, petsa, ken nagan. Surotem dagitoy a dalan iti mapa, a sinusurot ti petsa — pindutem ti maysa a punto, wenno pindutem ti ▶ tapno magnaan a tunggal addang.",
+  "ot_kick": "① Daan a Tulag — iti panaglabas ti panawen",
+  "ot_h": "Manipud iti panagparsua agingga iti panagsubli idiay Jerusalem",
+  "ot_lead": "Saan a maymaysa a panagdaliasat no di ket ti ayus ti histo-pannubbot manipud iti panagparsua: panagparsua ken pannakatnag → layus ken Babel → maysa nga ayab (Abraham) → ti naikari a daga → Exodo → let-ang → panangabak → pagarian → pannakabingay → pannakaibalud → panagsubli.",
+  "je_kick": "② Baro a Tulag — ti biag ni Jesus",
+  "je_h": "Manipud Betlehem agingga Jerusalem",
+  "je_lead": "Surotem ti biag ni Jesus a kas isalsalaysay dagiti Ebanghelio, a sinusurot — manipud iti pannakayanakna idiay Betlehem, ti pannakabautisarna ken ti ministeriona idiay Galilea, a bummallasiw iti Samaria, agingga iti krus, panagungar, ken panagpangato idiay Jerusalem.",
+  "pa_kick": "③ Baro a Tulag — dagiti panagdaliasat ni Pablo",
+  "pa_h": "Manipud Antioquia agingga iti ungto ti daga — Roma",
+  "pa_lead": "Manipud iti Pentecostes idiay Jerusalem, no kasano a nagwaras ti ebanghelio iti ruar ti Judea — babaen ti Asia Menor ken Europa agingga iti puso ti imperio. Mangpilika iti maysa kadagiti lima a panagdaliasat (umuna·maikadua·maikatlo + ti panaglayag a mapan Roma + kalpasan ti pannakawayawaya) ket surotem dagiti pasamak iti Dagiti Aramid agraman dagiti surat a naisurat iti dalan.",
+  "foot": "Dagiti gubuayan · Dagiti lugar surotenda ti teksto ti Biblia ken ti gagangay a heograpia ti Biblia (agraman dagiti agdama a nagan no makatulong). Dagiti igid ti baybay, karayan, ken danaw ket naala manipud iti nakalukat a datos ti heograpia (Natural Earth), pinasimple.",
+  "contact": "Saludsod · komento — <a id=\"contact\" class=\"mail\">Mangipatulodka iti email</a>",
+  "play": "Patokar",
+  "pause": "Isardeng",
+  "today": "Ita:",
+  "verseCite": "II Pedro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Panagparsua · Pannakatnag)",
+    "book": "Genesis 1–3",
+    "today": "ti rehion ti Tigris–Eufrates ita",
+    "note": "Iti lubong a naaramid a “naimbag unay,” simrek ti basol ket binurakna ti silpo ti Dios ken ti sangkataoan.",
+    "events": [
+     "Panagparsua iti innem nga aldaw — “naimbag unay”",
+     "Ti tao a naaramid iti ladawan ti Dios",
+     "Ti pannakatnag, ken pannakapatalaw iti Eden",
+     "Ti immuna a kari ti ebanghelio — “ti caputotan ti babai rumekennanto ti ulo ti uleg”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (ti Layus)",
+    "book": "Genesis 6–9",
+    "today": "Bantay Ararat, daya ti Turkia ita",
+    "note": "Inukom ti Dios ti maysa a lubong a napno iti basol, ngem inaywananna ti biag babaen ti maysa a pamilia.",
+    "events": [
+     "Maysa a lubong a napno iti kinadangkok",
+     "Ti layus, ken ti daong ni Noe",
+     "Ti tulag ti bullalayaw — “awanto ti layus a mangdadael manen”"
+    ]
+   },
+   "babel": {
+    "name": "Torre ti Babel",
+    "book": "Genesis 11",
+    "today": "Iraq ita (tanap ti Sinar)",
+    "note": "Maibusor iti kinatangsit a dumanon iti langit, inwarawara ti Dios dagiti pagsasaoda ken dagiti tattao iti rabaw ti daga.",
+    "events": [
+     "“Mangbangontayo iti maysa a siudad ken maysa a torre… ket mangaramidtayo iti nagan para iti bagbagitayo”",
+     "Inriribuk ti Dios ti pagsasaoda",
+     "Nagwaras dagiti tattao iti rabaw ti daga (Sinar — idi agangay Babilonia)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesis 12",
+    "today": "abagatan ti Iraq ita",
+    "note": "Ti sarita ti pannakaisalakan iti Biblia mangrugi iti ayab ti maysa a lalaki.",
+    "events": [
+     "Inayaban ti Dios ni Abram manipud iti Ur dagiti Caldeo",
+     "“Aramidencanto a dackel a pagarian… benditodanto kenca amin dagiti caputotan iti daga”",
+     "Babaen ti pammati pinanawanna ti dagana"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Genesis 12",
+    "today": "abagatan ti Turkia ita",
+    "note": "Iti dalan, simmungbat iti ayab nga agturong iti naikari a daga.",
+    "events": [
+     "Ti pamilia ni Tare nagnaed idiay Haran",
+     "Natay ni Tare",
+     "Pimmanaw ni Abram nga agturong iti Canaan iti tawenna a 75"
+    ]
+   },
+   "shechem": {
+    "name": "Sikem · Canaan",
+    "book": "Genesis 12–50",
+    "today": "Nablus ita",
+    "note": "Iti naikari a daga naipasdek ti maysa a pamilia ket naipasa ti tulag iti sumarsaruno a kaputotan.",
+    "events": [
+     "Sumrek iti Canaan, umuna nga altar — “itedconto daytoy a daga iti caputotam”",
+     "Ti tulag (Gen 15) · Isaac · Jacob",
+     "Dagiti sangapulo ket dua nga annak ni Jacob — ramut dagiti sangapulo ket dua a tribu"
+    ]
+   },
+   "egypt": {
+    "name": "Egipto (Gosen)",
+    "book": "Genesis 37–50 · Exodo 1",
+    "today": "Delta ti Nilo, Egipto ita",
+    "note": "Maysa a pamilia nagbalin a dackel a pagarian — kalpasanna maysa a pagarian dagiti tagabu.",
+    "events": [
+     "Ni Jose, nailaco, immangato iti turay idiay Egipto",
+     "Ti intero a pamilia ni Jacob bimmaba tapno makalibasda iti bisin",
+     "Ti dumakdakkel a nasion ti Israel naitagabu"
+    ]
+   },
+   "sinai": {
+    "name": "Bantay Sinai",
+    "book": "Exodo · Levitico",
+    "today": "Peninsula ti Sinai ita",
+    "note": "Ti kangrunaan a panangispal iti Daan a Tulag — dagiti tagabu nagbalin nga ili ti Dios.",
+    "events": [
+     "Dagiti sangapulo a didigra ken ti karnero ti Paskua",
+     "Nagngudo ti Nalabaga a Baybay ket nagballasiwda",
+     "Sangapulo a Bilin, ti Linteg, ti tabernakulo ken dagiti daton"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (let-ang)",
+    "book": "Numeros · Deuteronomio",
+    "today": "ti let-ang ti Sinai–Negev ita",
+    "note": "Ti di panamati nagdagsen iti maysa a kaputotan ti daga — ngem nagtalinaed kaduada ti Dios.",
+    "events": [
+     "Sangapulo ket dua nga espia — ngem nagkedked dagiti tattao nga agtalek",
+     "38 a tawen iti let-ang — mana, ulep ken apuy",
+     "Iti tanap ti Moab, ti maudi a sermon ni Moises (Deuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Josue",
+    "today": "Jerico ita",
+    "note": "Iti kamaudiananna simrekda ken inalada ti naikari a daga.",
+    "events": [
+     "Nagngudo ti Jordan ket nagballasiw dagiti tattao",
+     "Narba dagiti pader ti Jerico",
+     "Panangabak iti Canaan ken pannakabingay ti daga"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Oc-ocom)",
+    "book": "Oc-ocom · Ruth",
+    "today": "Khirbet Seilun ita",
+    "note": "Awan ari, tunggal maysa aramidenna ti naimbag iti panagkitana — kasapulan ti pudpudno nga ari.",
+    "events": [
+     "Naipasdek ti tabernakulo idiay Silo",
+     "Ti wagas ti basol–panangirurumen–pannakaispal (Debora, Gideon, Samson)",
+     "Ruth — kinamatalek kadagiti nasipnget nga aldaw, iti kaputotan ni David"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Nagkaykaysa a Pagarian",
+    "book": "I–II Samuel · I Ar-ari",
+    "today": "Jerusalem ita",
+    "note": "Ti balitok nga edad ti Israel — ken ti kari ti agnanayon nga ari.",
+    "events": [
+     "Saul ti immuna nga ari, kalpasanna ni David ken ni Goliat",
+     "Ti tulag ken David — “ti tronom iti agnanayon” (II Sam 7)",
+     "Imbangon ni Solomon ti templo idiay Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Nabingay a Pagarian",
+    "book": "Ar-ari · Dagiti Mammadto",
+    "today": "Sebastia ita",
+    "note": "Nabingay ti pagarian ket nagpababa bayat nga agasug dagiti mammadto.",
+    "events": [
+     "Kalpasan ni Solomon, ti pannakabingay iti Juda ken Israel",
+     "Maul-ulit a panagrukbab iti didiosen",
+     "Elias, Isaias, Jeremias agasug ‘agsublikayo’ — ket ipadtoda ti Mesias"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "II Ar-ari 17 · Jonas",
+    "today": "Mosul, Iraq ita",
+    "note": "Linaksid ti tunggal pakdaar, ti amianan ti immuna a natnag.",
+    "events": [
+     "Ninive, ti kabesera ti Asiria",
+     "Ti amianan a pagarian natnag iti Asiria (722 B.C.)",
+     "Naibaon ni Jonas idiay Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilonia",
+    "book": "II Ar-ari 25 · Daniel · Ezekiel",
+    "today": "Hillah, Iraq ita",
+    "note": "Ti kasipngetan a rabii — ngem nagtalinaed ti kari ti pannakaisubli.",
+    "events": [
+     "Natnag ti Jerusalem, napuoran ti templo (586 B.C.)",
+     "Naiyalis ti Juda idiay Babilonia",
+     "Daniel ken Ezekiel — pammati ken sirmata iti pannakaibalud"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Ester · Nehemias",
+    "today": "Shush, Iran ita",
+    "note": "Uray iti puso ti pagano nga imperio, inaywanan ti Dios dagiti tattaona.",
+    "events": [
+     "Inabak ti Persia ti Babilonia",
+     "Insalakan ni Ester dagiti Judio manipud iti pannakadadael",
+     "Nagkararag ni Nehemias iti sangoanan ti ari ket naibaon"
+    ]
+   },
+   "return": {
+    "name": "Panagsubli idiay Jerusalem",
+    "book": "Esdras · Nehemias · Malakias",
+    "today": "Jerusalem ita",
+    "note": "Nagsublida ket binangonda manen — ngem awan ari nga immay. Aguray dagiti tattao iti Mesias.",
+    "events": [
+     "Tallo a daras ti panagsubli babaen ti bilin ni Ciro (Zorobabel 538 · Esdras 458 · Nehemias 444)",
+     "Naibangon manen ti templo ken naisubli dagiti pader ti Jerusalem",
+     "Malakias — agngudo ti Daan a Tulag: “ibaonco ti babaonec”"
+    ]
+   }
+  },
+  "labels": [
+   "Baybay Mediteraneo",
+   "Mesopotamia",
+   "Disierto ti Arabia",
+   "Egipto"
+  ],
+  "journeys": {
+   "flow": "Ti sarita ti pannubbot"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mateo 1–2 · Lucas 2",
+    "today": "Betlehem ita",
+    "note": "Ti naikari a Mesias immay iti ili ni David — ti Verbo a nagbalin a lasag.",
+    "events": [
+     "Nayanak idiay Betlehem, ti ili ni David",
+     "Impakaammo dagiti anghel ti damag kadagiti agpaspastor",
+     "Immay dagiti Sirib tapno agrukbabda"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lucas 2 · 4",
+    "today": "Nazaret ita",
+    "note": "Ti Dios dimmakkel a kas tao iti maysa a gagangay nga ili.",
+    "events": [
+     "Pinadakkel iti balay ti maysa nga allawagi",
+     "Iti tawenna a sangapulo ket dua, agsalsaludsod ken sumungsungbat iti templo",
+     "Idi agangay nilaksid iti sinagoga ti bukodna nga ili"
+    ]
+   },
+   "jordan": {
+    "name": "Karayan Jordan",
+    "book": "Mateo 3–4",
+    "today": "ti akinbaba a Jordan ita",
+    "note": "Mangrugi ti publiko a ministeriona — sinelyoan isuna ti langit a kas ti Anak.",
+    "events": [
+     "Binautisaran ni Juan",
+     "Bimmaba ti Espiritu a kas kalapati — “Daytoy ti dungdungoek nga Anakko”",
+     "Inabakna dagiti tallo a sulisog ni Satanas iti let-ang"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "Juan 2",
+    "today": "Kafr Kanna ita",
+    "note": "Iti immuna a tandana impakitana ti dayagna.",
+    "events": [
+     "Maysa a sangaili iti maysa a boda",
+     "Ti danum nagbalin nga arak — ti immuna a tandana",
+     "Namati kenkuana dagiti adalanna"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Juan 2–4",
+    "today": "asideg ti Nablus ita",
+    "note": "Ti dalan ti nasapa a ministerio — babaen ti Jerusalem ket agturong iti naumsi a Samaria.",
+    "events": [
+     "Dinalusanna ti templo idiay Jerusalem",
+     "Iti rabii, ni Nicodemo — “masapul a mayanakka manen”",
+     "Sibibiag a danum para iti maysa a babai a Samaritana"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Mateo 4–13 · Marcos 1–4",
+    "today": "ti igid ti danaw ti Galilea ita",
+    "note": "Ti sentro ti ministerio iti Galilea — ti panangayab, panangisuro, ken panangsuppiat agsasarakda ditoy.",
+    "events": [
+     "Inayabanna dagiti mangngalap ket pagbalinenna ditoy a sentrona",
+     "Ti Sermon iti Bantay — “Nagasat dagiti napanglaw iti espiritu”",
+     "Dagiti pangngarig ti pagarian — ken ti dumakkel a panangsuppiat"
+    ]
+   },
+   "galilee": {
+    "name": "Baybay ti Galilea",
+    "book": "Marcos 4 · 6 · Juan 6",
+    "today": "Danaw Kinneret ita",
+    "note": "Babaen ti pannakabalin iti naturalesa impakitana no asino isuna.",
+    "events": [
+     "“Talna, agulimekka” — pinatalnana ti bagyo",
+     "Pinakanna ti 5,000 babaen ti lima a tinapay ken dua a lames",
+     "Nagna iti rabaw ti danum"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea Filipos",
+    "book": "Mateo 16–17",
+    "today": "Banias ita",
+    "note": "Naawatan dagiti adalan nga isu ti Cristo, ket nalukatan ti dalan ti krus.",
+    "events": [
+     "Ti panangbigbig ni Pedro — “Sica ti Cristo, ti Anac ti Dios a sibibiag”",
+     "Immuna nga impadtona ti ipapatay ken panagungarna",
+     "Nagbalbaliw ti langana iti dayag iti bantay"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Lucas 18–19",
+    "today": "Jerico ita",
+    "note": "Iti dalan a sumang-at idiay Jerusalem, birbirokenna dagiti napukaw.",
+    "events": [
+     "Inikkanna iti panagkita ni Bartimeo a bulsek",
+     "Inayabanna ni Zaqueo a managsingir iti buis",
+     "“Ti Anak ti tao immay tapno birokenna ken isalakanna ti napukaw”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Juan 11–12",
+    "today": "al-Eizariya ita",
+    "note": "Impakitana ti pannakabalinna iti patay iti rabii ti maudi a lawasna.",
+    "events": [
+     "Pinagungarna ni Lazaro manipud iti tanem — “Siac ti panagungar ken ti biag”",
+     "Pinulotan ni Maria a maipaay iti pannakaitanemna",
+     "Pinatibker daytoy a tanda ti panggep a mangpapatay kenkuana"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mateo 21–28 · Lucas 24 · Dagiti Aramid 1",
+    "today": "Jerusalem ita",
+    "note": "Ti tuktok nga itudo ti intero a Biblia — krus, panagungar, panagpangato.",
+    "events": [
+     "Naballigi a pannakastrek; binalintuagna manen dagiti lamisaan iti templo",
+     "Iti Maudi a Pangrabii binugguanna dagiti saka dagiti adalan",
+     "Natay iti krus",
+     "Nagungar iti maikatlo nga aldaw, kalpasanna nagpangato"
+    ]
+   }
+  },
+  "labels": [
+   "Baybay Mediteraneo",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Decapolis",
+   "Perea",
+   "Natay a Baybay"
+  ],
+  "journeys": {
+   "life": "Ti dalan ni Jesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioquia",
+    "book": "Dagiti Aramid 13 · 15",
+    "today": "Antakya, Turkia ita",
+    "note": "Ti iglesia a mangibaon a sadiay mangrugi ken agsubli ti mision kadagiti Hentil.",
+    "events": [
+     "Iti kararag insina ti Espiritu da Bernabe ken Saulo",
+     "Ti iglesia a sadiay immuna a naawagan dagiti namati a ‘Cristiano’",
+     "Pangrugian ti umuna, maikadua, ken maikatlo a panagdaliasat"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Dagiti Aramid 13:4",
+    "today": "Turkia ita",
+    "note": "Ti puerto ti Antioquia — naglayagda nga agturong iti Cipre.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Cipre)",
+    "book": "Dagiti Aramid 13:5",
+    "today": "Cipre ita",
+    "note": "Immuna a disso iti Cipre — nangaskasaba kadagiti sinagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Dagiti Aramid 13:6-12",
+    "today": "Cipre ita",
+    "note": "Naipakita ti pannakabalin maibusor kadagiti mangsuppiat iti ebanghelio.",
+    "events": [
+     "Ni Elimas a salamangkero napagbulsek",
+     "Namati ni Sergio Paulo a prokonsul",
+     "Manipud ditoy ni ‘Pablo’ ti nangidaulo"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Dagiti Aramid 13:13",
+    "today": "Antalya, Turkia ita",
+    "note": "Maysa a puerto iti Pamfilia — ditoy nagsubli ni Juan Marcos.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioquia ti Pisidia",
+    "book": "Dagiti Aramid 13:14-50",
+    "today": "Yalvaç, Turkia ita",
+    "note": "Naglukat ti ebanghelio nga agturong kadagiti Hentil.",
+    "events": [
+     "Maysa a natiddog a sermon ti histo-pannubbot iti sinagoga",
+     "Adu a Hentil ti naragsakan ket inawatda ti sao",
+     "Napapanaw babaen ti panangsuppiat"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Dagiti Aramid 14:1-7",
+    "today": "Konya, Turkia ita",
+    "note": "Adu ti namati, ngem ti pannakaidadanes pinilitna ida nga agtuloy.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Dagiti Aramid 14:8-20",
+    "today": "Turkia ita",
+    "note": "Indaydayaw a kas dios, kalpasanna binatoda.",
+    "events": [
+     "Inagasanna ti maysa a tao a pilay sipud pannakayanakna",
+     "Pinanggep ti adu a tao nga agidaton kadakuada a kas dios",
+     "Binato ken imbati a kasla natay, ngem bimmangon"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Dagiti Aramid 14:20-21",
+    "today": "Turkia ita",
+    "note": "Adu nga adalan ti naaramid; nagsublida iti dalanda tapno papigsaenda dagiti iglesia.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Dagiti Aramid 16:8-10",
+    "today": "Turkia ita",
+    "note": "Ti pakabaliwan a sadiay immuna nga agturong ti ebanghelio iti Europa.",
+    "events": [
+     "Maysa a sirmata ti maysa a lalaki ti Macedonia",
+     "“Umayka ditoy ket tulongannakami”",
+     "Dagus a bimmallasiwda iti Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipos",
+    "book": "Dagiti Aramid 16 · Taga Filipos",
+    "today": "amianan ti Grecia ita",
+    "note": "Ti immuna nga iglesia ti Europa — nagballigi ti ebanghelio uray iti pagbaludan.",
+    "events": [
+     "Ni Lidia, maysa nga aglaklako iti purpura, namati",
+     "Naluk-atan ti maysa a tagabu a babai a managpadto",
+     "Dagiti kanta iti tengnga ti rabii, ginggined, naisalakan ti sangkabalayan ti guardia"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonica",
+    "book": "Dagiti Aramid 17 · I–II Taga Tesalonica",
+    "today": "Thessaloniki, Grecia ita",
+    "note": "Ginunggon ti sao ti siudad ket limmabes ti panangsuppiat.",
+    "events": [
+     "Nakirinnason iti sinagoga iti tallo a Sabado",
+     "“Dagitoy a nangbalintuag iti lubong”",
+     "Limmibasda iti rabii"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Dagiti Aramid 17:10-15",
+    "today": "Veria, Grecia ita",
+    "note": "Dagiti ‘natan-ok’ a nangsukimat iti sao para iti bagbagida.",
+    "events": [
+     "Inawatda ti sao a sigagagar",
+     "Inaldaw a sinukimatda dagiti Sursurat tapno paneknekanda",
+     "Adu ti namati"
+    ]
+   },
+   "athens": {
+    "name": "Atenas",
+    "book": "Dagiti Aramid 17:16-34",
+    "today": "Atenas, Grecia ita",
+    "note": "Iti siudad dagiti pilosopo iwaragawagna ti ‘di am-ammo a dios’.",
+    "events": [
+     "Nariribuk gapu iti siudad a napno kadagiti didiosen",
+     "Iti Areopago inkasabana ti Namarsua ken ti panagungar",
+     "Naumsi, ngem sumagmamano ti namati"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Dagiti Aramid 18 · I–II Taga Corinto",
+    "today": "Grecia ita",
+    "note": "Nagtalinaed iti maysa a tawen ken kagudua, a nangimula iti iglesia iti siudad ti kinadakes.",
+    "events": [
+     "Nangaramid kadagiti tolda a kadua da Aquila ken Priscila",
+     "“Dica agbuteng… ta addaak kenca”",
+     "Adu a taga Corinto ti namati ken nabautisaran"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Dagiti Aramid 19 · Taga Efeso",
+    "today": "Selçuk, Turkia ita",
+    "note": "Puso ti maikatlo a panagdaliasat — nagwaras ti sao iti intero nga Asia.",
+    "events": [
+     "Inaldaw a panangisuro iti dua a tawen iti pasdek ni Tirano",
+     "Napuoran dagiti libro ti salamangka; nabileg nga ar-aramid",
+     "Ti platero a ni Demetrio nangrugi iti riribuk"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Dagiti Aramid 20:17-38",
+    "today": "Turkia ita",
+    "note": "Maysa a panagpakada a napno iti lua kadagiti panglakayen ti Efeso.",
+    "events": [
+     "“Aywananyo ti iglesia a ginatangna iti bukodna a dara”",
+     "Nagsangit dagiti panglakayen, nga ammoda a saandanton a makita isuna"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Dagiti Aramid 23–26",
+    "today": "ti igid ti baybay ti Israel ita",
+    "note": "Iti dua a tawen indepensana ti ebanghelio iti sangoanan dagiti gobernador ken maysa nga ari.",
+    "events": [
+     "Dagiti pannakaukom iti sangoanan da gobernador Felix ken Festo",
+     "Ti depensana iti sangoanan ni Ari Agripa",
+     "“Umapelarak ken Cesar” — agturong iti Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Dagiti Aramid 21–23",
+    "today": "Jerusalem ita",
+    "note": "Tiniliw iti templo, nangrugi ti dalanna a kas balud.",
+    "events": [
+     "Tiniliw dagiti tao iti templo",
+     "Indepensana ti bagina iti sangoanan ti konseho",
+     "Kas umili a Romano, naibaon a sibabantay idiay Cesarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Dagiti Aramid 27:5-6",
+    "today": "Demre, Turkia ita",
+    "note": "Nagballiwda iti maysa a barko ti Alejandria nga agturong iti Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Napintas a Pagsangladan (Creta)",
+    "book": "Dagiti Aramid 27:8-12",
+    "today": "Creta ita",
+    "note": "Ti pakdaar ni Pablo nga isardeng ti panaglayag saan a nadengngeg.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tito",
+    "today": "Creta ita",
+    "note": "Kalpasan ti pannakawayawayana, ti isla a sadiay imbatina ni Tito tapno urnosenna dagiti iglesia.",
+    "events": [
+     "Imbatina ni Tito tapno mangdutok kadagiti panglakayen iti tunggal ili",
+     "Nangayab kadagiti awan pakapilawanna, matalek a mangidaulo",
+     "Insuratna ti surat para ken Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Dagiti Aramid 27–28",
+    "today": "Malta ita",
+    "note": "Babaen ti bagyo ken pannakarba ti barko, nagtalinaed ti kari ti Dios.",
+    "events": [
+     "Ti ‘amianan-daya nga angin’ rinba ti barko, ngem nakalasat amin a 276",
+     "Kinagat ti maysa nga uleg, ngem saan a nadangran",
+     "Inagasanna dagiti masaksakit iti isla"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Dagiti Aramid 28:12",
+    "today": "Sicilia, Italia ita",
+    "note": "Nagtalinaedda iti tallo nga aldaw idiay Sicilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Dagiti Aramid 28:13-14",
+    "today": "Pozzuoli, Italia ita",
+    "note": "Simmangladda iti Italia ket sinabat ida dagiti padada a namati.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Dagiti Aramid 28 · Dagiti Surat iti Pagbaludan · II Timoteo",
+    "today": "Roma, Italia ita",
+    "note": "Nadanon ti ebanghelio ti puso ti imperio iti kamaudiananna — saan a panagngudo no di ket panagrugi.",
+    "events": [
+     "Dua a tawen iti pannakaarestona iti balay, situtured nga iwarwaragawag ti pagarian",
+     "Manipud ditoy insuratna dagiti Surat iti Pagbaludan (Efe·Fil·Col·Filemon)",
+     "Idi agangay nabalud manen, insuratna ti II Timoteo ket napapatay — “Inakemco ti naimbag a gubat, intungpalco ti lumba”"
+    ]
+   }
+  },
+  "labels": [
+   "Baybay Mediteraneo",
+   "Baybay Egeo",
+   "Asia Menor",
+   "Macedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Umuna a panagdaliasat",
+   "j2": "Maikadua a panagdaliasat",
+   "j3": "Maikatlo a panagdaliasat",
+   "rome": "Maikapat a panagdaliasat · agturong iti Roma",
+   "j5": "Maikalima a panagdaliasat · kalpasan ti pannakawayawaya"
+  }
+ }
+}

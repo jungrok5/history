@@ -1,0 +1,636 @@
+{
+ "menuName": "Gĩkũyũ",
+ "htmlLang": "ki",
+ "dir": "ltr",
+ "locale": "ki",
+ "brand": "Bibilia thĩinĩ wa Gũikũrũkia O Rĩmwe",
+ "docTitle": "Bibilia kũgerera Rũgĩrĩra · Bibilia thĩinĩ wa Gũikũrũkia O Rĩmwe",
+ "metaDesc": "Rũmĩrĩra mũtaratara wa Kĩrĩkanĩro-Gĩkũrũ, muoyo wa Jesu, na mĩthiĩre ya Paulo rũgĩrĩra-inĩ rwa ma — Bibilia nĩyekĩkĩire kũndũ kũrĩ kũna.",
+ "s": {
+  "kicker": "Bibilia thĩinĩ wa Gũikũrũkia O Rĩmwe · Rũgĩrĩra",
+  "title": "Bibilia kũgerera Rũgĩrĩra",
+  "verse": "“Nĩ ũndũ hĩndĩ ĩrĩa twamũmenyithirie ũhoro wa ũhoti ũrĩa Mwathani Jesu Kristo e naguo, na wa ũrĩa agoka rĩngĩ-rĩ, tũtiarũmanĩrĩire na ng’ano iria cietuĩrĩirio na wara, no kuona tweoneire na maitho maitũ ũkaru wake.” (2 Petero 1:16)",
+  "purpose": "Bibilia ti rũgano rwa gwĩtungĩra. Nĩ maandĩko ma andũ arĩa maathiagĩra kũndũ kũrĩ kũna, mĩthenya, na marĩĩtwa ma ma. Rũmĩrĩra njĩra icio rũgĩrĩra-inĩ, na mũtaratara wa hĩndĩ — hutia handũ, kana ũhũre ▶ nĩguo ũthiĩ na mbere mũhari kwa mũhari.",
+  "ot_kick": "① Kĩrĩkanĩro-Gĩkũrũ — kũgerera hĩndĩ",
+  "ot_h": "Kuuma kĩũmbe nginya gũcoka Jerusalemu",
+  "ot_lead": "Ti rũgendo rũmwe no nĩ ũtherũ wa thoo wa ũhonokio kuuma kĩũmbe-inĩ: kĩũmbe na kũgwa → mũiyũro na Babeli → kwĩtwo (Iburahimu) → bũrũri ũrĩa weeranĩirwo → Ũrutani → werũ → gũtaha → ũthamaki → kũgayũkana → gũtahwo → gũcoka.",
+  "je_kick": "② Kĩrĩkanĩro-Kĩerũ — muoyo wa Jesu",
+  "je_h": "Kuuma Bethi-lehemu nginya Jerusalemu",
+  "je_lead": "Rũmĩrĩra muoyo wa Jesu o ta ũrĩa mabuku ma Ũhoro-Ũrĩa-Mwega maũtaaraga, na mũtaratara — kuuma gũciarũo gwake Bethi-lehemu kũgerera kũbatithio gwake na ũtungata wa Galili, kũgerera Samaria, nginya mũtharaba, kũriũka na kwambata gwake kũu Jerusalemu.",
+  "pa_kick": "③ Kĩrĩkanĩro-Kĩerũ — mĩthiĩre ya Paulo",
+  "pa_h": "Kuuma Antiokia nginya ituri cia thĩ — Roma",
+  "pa_lead": "Kuuma Pentekoste kũu Jerusalemu, ũrĩa Ũhoro-Ũrĩa-Mwega watheremire ũkĩhĩtũka Judea — kũgerera Asia Nini na Uropa nginya ngoro-inĩ ya ũthamaki. Thuura ĩmwe ya mĩthiĩre ĩtano (ya 1·ya 2·ya 3 + rũgendo rwa Roma + thutha wa kuohorũo) na ũrũmĩrĩre maũndũ ma Atũmwo hamwe na marũa marĩa maandĩkirũo njĩra-inĩ.",
+  "foot": "Itimi · Kũndũ kũrũmagĩrĩra maandĩko ma Bibilia na rũgĩrĩra rũrĩa rũmenyekete rwa Bibilia (hamwe na marĩĩtwa ma rĩu kũrĩa kũrĩ na bata). Hũgũrũrũ cia iria, njũĩ na maria cithondeketwo kuumana na ũmenyo wa rũgĩrĩra ũrĩa mũhũthagĩrũo nĩ andũ othe (Natural Earth), igĩthethio.",
+  "contact": "Ciũria · maciaro — <a id=\"contact\" class=\"mail\">Tũtũmĩre marũa</a>",
+  "play": "Hũra",
+  "pause": "Rũgama",
+  "today": "Ũmũthĩ:",
+  "verseCite": "2 Petero 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edeni (Kĩũmbe · Kũgwa)",
+    "book": "Kĩambĩrĩria 1–3",
+    "today": "rũgongo rwa Tigirisi–Eufirate ũmũthĩ",
+    "note": "Thĩinĩ wa thĩ ĩrĩa yaombirũo ĩrĩ “njega mũno,” mehia nĩmatonyire makĩaria ũkũrũhanu wa mũndũ na Ngai.",
+    "events": [
+     "Kĩũmbe matukũ matandatũ — “nĩ wega mũno”",
+     "Mũndũ kũũmbwo na mũhianĩre wa Ngai",
+     "Kũgwa, na kũrutũrũo Edeni",
+     "Kĩĩranĩro kĩa mbere kĩa Ũhoro-Ũrĩa-Mwega — “mbeũ ya mũndũ-wa-nja nĩĩgakũgũtha nyoka mũtwe”"
+    ]
+   },
+   "noah": {
+    "name": "Ararati (Mũiyũro)",
+    "book": "Kĩambĩrĩria 6–9",
+    "today": "Kĩrĩma kĩa Ararati, Turukĩ ya irathĩro ũmũthĩ",
+    "note": "Ngai aatuĩra thĩ ĩrĩa yaiyũrĩte mehia ũtuĩro, no agĩtũũria muoyo kũgerera nyũmba ĩmwe.",
+    "events": [
+     "Thĩ yaiyũrĩte ũũru",
+     "Mũiyũro, na thabina ya Nuhu",
+     "Kĩrĩkanĩro kĩa mũkũnga-mbura — “gũtirĩ hingo gũgaacoka kũgĩa na mũiyũro wa kũniina”"
+    ]
+   },
+   "babel": {
+    "name": "Mũthiringo wa Babeli",
+    "book": "Kĩambĩrĩria 11",
+    "today": "Iraki ũmũthĩ (werũ wa Shinaru)",
+    "note": "Mbere ya mwĩtĩĩo ũrĩa wakinyaga igũrũ, Ngai akĩhĩngĩca rũthiomi rwao na akĩhurunja andũ thĩ yothe.",
+    "events": [
+     "“Rekei twĩakĩre itũũra inene na mũthiringo… nĩguo twĩgĩĩre rĩĩtwa”",
+     "Ngai akĩhĩngĩcanga rũthiomi rwao",
+     "Andũ makĩhurunjũka thĩ yothe (Shinaru — thutha-inĩ Babuloni)"
+    ]
+   },
+   "ur": {
+    "name": "Uru",
+    "book": "Kĩambĩrĩria 12",
+    "today": "Iraki ya gũthini ũmũthĩ",
+    "note": "Rũgano rwa Bibilia rwa ũhonokio rũambagĩrĩria na gwĩtwo kwa mũndũ ũmwe.",
+    "events": [
+     "Ngai eeta Aburamu oime Uru-gwa-Akalidei",
+     "“Ũgaatuĩka rũrĩrĩ rũnene… mĩhĩrĩga yothe ĩkarathimwo nĩ ũndũ waku”",
+     "Na wĩtĩkio aatiga bũrũri wao"
+    ]
+   },
+   "haran": {
+    "name": "Harani",
+    "book": "Kĩambĩrĩria 12",
+    "today": "Turukĩ ya gũthini ũmũthĩ",
+    "note": "Njĩra-inĩ, agĩĩtĩka kwĩtwo agĩthiĩ bũrũri ũrĩa weeranĩirwo.",
+    "events": [
+     "Nyũmba ya Tera ĩgĩtũũra Harani",
+     "Tera agĩkua",
+     "Aburamu akiumagara athiĩ Kanaani arĩ na mĩaka 75"
+    ]
+   },
+   "shechem": {
+    "name": "Shekemu · Kanaani",
+    "book": "Kĩambĩrĩria 12–50",
+    "today": "Nabulusi ũmũthĩ",
+    "note": "Bũrũri-inĩ ũrĩa weeranĩirwo, nyũmba ĩkĩambĩrĩrio naguo kĩrĩkanĩro gĩgĩtwarũo rũciaro nginya rũciaro.",
+    "events": [
+     "Gũtonya Kanaani, kĩgongona kĩa mbere — “rũciaro rwaku nĩngaruhe bũrũri ũyũ”",
+     "Kĩrĩkanĩro (Kĩa. 15) · Isaaka · Jakubu",
+     "Ariũ ikũmi na eerĩ a Jakubu — mũri wa mĩhĩrĩga ikũmi na ĩĩrĩ"
+    ]
+   },
+   "egypt": {
+    "name": "Misiri (Gosheni)",
+    "book": "Kĩambĩrĩria 37–50 · Thama 1",
+    "today": "Werũ wa Nili, Misiri ũmũthĩ",
+    "note": "Nyũmba ĩgĩtuĩka rũrĩrĩ rũnene — magĩcooka magĩtuĩka rũrĩrĩ rwa ngombo.",
+    "events": [
+     "Jusufu, ũrĩa wendetwo, akĩambata ũthamaki-inĩ wa Misiri",
+     "Nyũmba yothe ya Jakubu ĩgĩikũrũka kũũrĩra ngʼaragu",
+     "Rũrĩrĩ rwa Isiraeli rũrĩa rwakũraga rũgĩtuĩka ngombo"
+    ]
+   },
+   "sinai": {
+    "name": "Kĩrĩma kĩa Sinai",
+    "book": "Thama · Maũndũ ma Alawii",
+    "today": "Rũgongo rwa Sinai ũmũthĩ",
+    "note": "Ũhonokio wa gatagatĩ wa Kĩrĩkanĩro-Gĩkũrũ — ngombo igĩtuĩka andũ a Ngai mwene.",
+    "events": [
+     "Mĩthiro ikũmi na gatũrũme ka Bathaka",
+     "Iria-Itune rĩkĩgayũkana nao makĩringa",
+     "Maathani Ikũmi, Watho, hema-ya-gũtũnganwo na magongona"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeshi (werũ)",
+    "book": "Mũigana · Gũcokerithia Maathani",
+    "today": "werũ wa Sinai–Negebu ũmũthĩ",
+    "note": "Kwaga wĩtĩkio gũgĩtũma rũciaro rũmwe rwage bũrũri — no Ngai agĩikara hamwe nao.",
+    "events": [
+     "Athigaani ikũmi na eerĩ — no andũ makĩrega gwĩtĩkia",
+     "Mĩaka 38 werũ-inĩ — mana, itu na mwaki",
+     "Werũ-inĩ wa Moabi, mũkaana wa mũthia wa Musa (Gũcokerithia Maathani)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Joshua",
+    "today": "Jeriko ũmũthĩ",
+    "note": "Mũthia-inĩ magĩtonya na makĩgĩa bũrũri ũrĩa weeranĩirwo.",
+    "events": [
+     "Jorodani rĩkĩgayũkana nao andũ makĩringa",
+     "Thingo cia Jeriko ikĩgũa",
+     "Gũtaha Kanaani na kũgayania bũrũri"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Atiirĩrĩri)",
+    "book": "Atiirĩrĩri Bũrũri · Ruthu",
+    "today": "Khirbet Seilun ũmũthĩ",
+    "note": "Tũtarĩ mũthamaki, o mũndũ eekire o ũrĩa onaga kwagĩrĩire we — mũthamaki wa ma nĩ abataire.",
+    "events": [
+     "Hema-ya-gũtũnganwo ĩkĩhaandwo Shilo",
+     "Mũtĩrĩmũko wa mehia–kũhinyĩrĩrio–ũhonokio (Debora, Gideoni, Samusoni)",
+     "Ruthu — wĩhokeku matukũ-inĩ ma nduma, rũciaro-inĩ rwa Daudi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalemu · Ũthamaki-Mũnyitithanie",
+    "book": "1–2 Samueli · 1 Athamaki",
+    "today": "Jerusalemu ũmũthĩ",
+    "note": "Riri wa Isiraeli — na kĩĩranĩro kĩa mũthamaki wa tene na tene.",
+    "events": [
+     "Saũli mũthamaki wa mbere, ningĩ Daudi na Goliathu",
+     "Kĩrĩkanĩro na Daudi — “gĩtĩ gĩaku gĩa ũthamaki nginya tene” (2 Sam. 7)",
+     "Suleimani aaka hekarũ kũu Jerusalemu"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Ũthamaki-Mũgayũkanu",
+    "book": "Athamaki · Anabii",
+    "today": "Sebastia ũmũthĩ",
+    "note": "Ũthamaki ũkĩgayũkana naguo ũgĩthegea o anabii makĩaya.",
+    "events": [
+     "Thutha wa Suleimani, kũgayũkana harĩ Juda na Isiraeli",
+     "Ũhooi-mĩhianano ũcokaga na ũcokaga",
+     "Elija, Isaia, Jeremia makĩaya ‘cookai’ — na makĩratha ũhoro wa Mesia"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineve (Ashuri)",
+    "book": "2 Athamaki 17 · Jona",
+    "today": "Mosuli, Iraki ũmũthĩ",
+    "note": "Magĩte kũrũmbũiya mĩkaana yothe, mwena wa gathigathini ũkĩgũa wa mbere.",
+    "events": [
+     "Nineve, itũũra inene rĩa Ashuri",
+     "Ũthamaki wa gathigathini ũkĩgũa harĩ Ashuri (722 M.K.)",
+     "Jona agĩtũmwo Nineve"
+    ]
+   },
+   "babylon": {
+    "name": "Babuloni",
+    "book": "2 Athamaki 25 · Danieli · Ezekieli",
+    "today": "Hillah, Iraki ũmũthĩ",
+    "note": "Ũtukũ ũrĩa mũnene mũno — no kĩĩranĩro kĩa gũcokerio gĩgĩtigara.",
+    "events": [
+     "Jerusalemu yagũa, hekarũ ĩgĩcina (586 M.K.)",
+     "Juda ĩgĩtwarũo Babuloni",
+     "Danieli na Ezekieli — wĩtĩkio na cioneki thĩinĩ wa gũtahwo"
+    ]
+   },
+   "susa": {
+    "name": "Shushani (Perisia)",
+    "book": "Esiteri · Nehemia",
+    "today": "Shush, Irani ũmũthĩ",
+    "note": "O na ngoro-inĩ ya ũthamaki wa ahooi-mĩhianano, Ngai aamenyagĩrĩra andũ ake.",
+    "events": [
+     "Perisia ĩgĩtooria Babuloni",
+     "Esiteri ahonokia Ayahudi kuuma kũniinwo",
+     "Nehemia ahooya mbere ya mũthamaki na agĩtũmwo"
+    ]
+   },
+   "return": {
+    "name": "Gũcoka Jerusalemu",
+    "book": "Ezara · Nehemia · Malaki",
+    "today": "Jerusalemu ũmũthĩ",
+    "note": "Macooka makĩaka rĩngĩ — no gũtirĩ mũthamaki ũkĩnyokire. Meeterera Mesia.",
+    "events": [
+     "Ndũrĩ ithatũ macooka nĩ ũndũ wa watho wa Kuro (Zerubabeli 538 · Ezara 458 · Nehemia 444)",
+     "Hekarũ yaakwo rĩngĩ na thingo cia Jerusalemu igĩcookererio",
+     "Malaki — Kĩrĩkanĩro-Gĩkũrũ kĩrĩkagia: “Nĩngũtũma mũrekio wakwa”"
+    ]
+   }
+  },
+  "labels": [
+   "Iria rĩa Mediterania",
+   "Mesopotamia",
+   "Werũ wa Arabia",
+   "Misiri"
+  ],
+  "journeys": {
+   "flow": "Rũgano rwa ũhonokio"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bethi-lehemu",
+    "book": "Mathayo 1–2 · Luka 2",
+    "today": "Bethi-lehemu ũmũthĩ",
+    "note": "Mesia ũrĩa weeranĩirwo nĩ ooka itũũra-inĩ rĩa Daudi — Ũhoro agĩtuĩka mũndũ.",
+    "events": [
+     "Aaciarĩirũo Bethi-lehemu, itũũra rĩa Daudi",
+     "Araika makĩanĩrĩra ũhoro kũrĩ arĩithi",
+     "Andũ ogĩ a njata magĩũka kũmũinamĩrĩra"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazarethi",
+    "book": "Luka 2 · 4",
+    "today": "Nazarethi ũmũthĩ",
+    "note": "Ngai agĩkũrĩra ta mũndũ itũũra-inĩ rĩa o ũguo.",
+    "events": [
+     "Aarererio nyũmba ya mũbũndi wa mbaũ",
+     "Arĩ na mĩaka ikũmi na ĩĩrĩ, akĩũria na agĩcookia hekarũ-inĩ",
+     "Thutha-inĩ akĩregwo thunagogi-inĩ ya itũũra rĩake"
+    ]
+   },
+   "jordan": {
+    "name": "Rũũĩ rwa Jorodani",
+    "book": "Mathayo 3–4",
+    "today": "Jorodani wa mũhuro ũmũthĩ",
+    "note": "Ũtungata wake wa kĩguũ ũkĩambĩrĩria — igũrũ rĩkĩmũimbũra arĩ Mũriũ.",
+    "events": [
+     "Aabatithio nĩ Johana",
+     "Roho agĩikũrũka ta ndutura — “Ũyũ nĩ Mũrũ wakwa ũrĩa nyendete”",
+     "Aatooria magerio matatũ ma Shaitani werũ-inĩ"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Johana 2",
+    "today": "Kafr Kanna ũmũthĩ",
+    "note": "Kĩama gĩake kĩa mbere kĩonanagia riri wake.",
+    "events": [
+     "Mũgeni kĩhikanio-inĩ",
+     "Maaĩ magĩtuĩka ndibei — kĩama gĩake kĩa mbere",
+     "Arutwo ake makĩmwĩtĩkia"
+    ]
+   },
+   "sychar": {
+    "name": "Sukaru (Samaria)",
+    "book": "Johana 2–4",
+    "today": "hakuhĩ na Nabulusi ũmũthĩ",
+    "note": "Njĩra ya ũtungata wa mbere — kũgerera Jerusalemu nginya Samaria ĩrĩa yamenagwo.",
+    "events": [
+     "Aatheria hekarũ kũu Jerusalemu",
+     "Ũtukũ, Nikodemo — “No nginya ũciarũo rĩngĩ”",
+     "Maaĩ ma muoyo kũrĩ mũtumia wa Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kaperinaumu",
+    "book": "Mathayo 4–13 · Mariko 1–4",
+    "today": "hũgũrũrũ-inĩ cia iria rĩa Galili ũmũthĩ",
+    "note": "Gĩtũ-inĩ kĩa ũtungata wa Galili — gwĩta, ũrutani na ũtharĩkanĩri ciothe icomanagĩra haha.",
+    "events": [
+     "Eeta ategi a thamaki na agĩtua haha gĩtũ gĩake",
+     "Mũhunjia wa Kĩrĩma — “Kũrathimwo nĩ arĩa athĩĩni a roho”",
+     "Ngerekano cia ũthamaki — na ũtharĩkanĩri ũkĩaria"
+    ]
+   },
+   "galilee": {
+    "name": "Iria rĩa Galili",
+    "book": "Mariko 4 · 6 · Johana 6",
+    "today": "Iria rĩa Kinereti ũmũthĩ",
+    "note": "Na hinya igũrũ rĩa ciũmbe nĩonanagia ũrĩa we arĩ.",
+    "events": [
+     "“Kira, hoorera” — akĩhooreria kĩhuhũkanio",
+     "Aahũũnia andũ 5,000 na mĩgate ĩtano na thamaki igĩrĩ",
+     "Aathiĩra igũrũ rĩa maaĩ"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisarea-kwa-Filipu",
+    "book": "Mathayo 16–17",
+    "today": "Banias ũmũthĩ",
+    "note": "Arutwo makĩmenya atĩ nĩ Kristo, naguo njĩra ya mũtharaba ĩkĩhingũka.",
+    "events": [
+     "Kuumbũra kwa Petero — “Wee nĩwe Kristo, Mũrũ wa Ngai ũrĩa wĩ muoyo”",
+     "Akĩratha ũhoro wa gĩkuũ na kũriũka gwake rĩa mbere",
+     "Akĩgarũrwo riri-inĩ kĩrĩma-inĩ"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Luka 18–19",
+    "today": "Jeriko ũmũthĩ",
+    "note": "Njĩra-inĩ ya kwambata Jerusalemu, acaragia arĩa morĩte.",
+    "events": [
+     "Aahe Baritimayo mũtumumu kũona",
+     "Eeta Zakayo mũtia wa mbeeca",
+     "“Mũrũ wa Mũndũ ookire gũcaria na kũhonokia arĩa morĩte”"
+    ]
+   },
+   "bethany": {
+    "name": "Bethania",
+    "book": "Johana 11–12",
+    "today": "al-Eizariya ũmũthĩ",
+    "note": "Nĩonanagia ũhoti igũrũ rĩa gĩkuũ kiumia kĩa mũthia kĩtanakinya.",
+    "events": [
+     "Ariũkia Lazaro kuuma mbĩrĩra-inĩ — “Niĩ nĩ niĩ kũriũka na muoyo”",
+     "Mariamu amũitĩrĩria maguta ma gũthikwo",
+     "Kĩama gĩkĩ kĩoomia mũbango wa kũmũũraga"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalemu",
+    "book": "Mathayo 21–28 · Luka 24 · Atũmwo 1",
+    "today": "Jerusalemu ũmũthĩ",
+    "note": "Gĩcukĩro kĩrĩa Bibilia yothe ĩrorete — mũtharaba, kũriũka, kwambata.",
+    "events": [
+     "Gũtonya na riri; aagarũra metha cia hekarũ rĩngĩ",
+     "Iruga-inĩ rĩa mũthia aathambia arutwo nyarĩrĩ",
+     "Aakua mũtharaba-inĩ",
+     "Aariũka mũthenya wa gatatũ, agĩcooka akĩambata"
+    ]
+   }
+  },
+  "labels": [
+   "Iria rĩa Mediterania",
+   "Galili",
+   "Samaria",
+   "Judea",
+   "Dekapoli",
+   "Perea",
+   "Iria rĩa Gĩkuũ"
+  ],
+  "journeys": {
+   "life": "Njĩra ya Jesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Atũmwo 13 · 15",
+    "today": "Antakya, Turukĩ ũmũthĩ",
+    "note": "Kanitha ũrĩa watũmaga, kũrĩa ũtũmwo wa Andũ-a-Ndũrĩrĩ wambĩrĩirie na ũgacokaga.",
+    "events": [
+     "Thĩinĩ wa kũhooya Roho akĩamũra Baranaba na Saulu",
+     "Kanitha kũrĩa arĩa metĩkĩtie metirwo ‘Akristiano’ mbere",
+     "Handũ ha kwambĩrĩria mĩthiĩre ya 1, ya 2 na ya 3"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Atũmwo 13:4",
+    "today": "Turukĩ ũmũthĩ",
+    "note": "Gĩthukĩ kĩa Antiokia — makĩhaica marikabu merekeire Kuporo.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamisi (Kuporo)",
+    "book": "Atũmwo 13:5",
+    "today": "Kuporo ũmũthĩ",
+    "note": "Rũgendo rwa mbere Kuporo — makĩhunjia thunagogi-inĩ.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Atũmwo 13:6-12",
+    "today": "Kuporo ũmũthĩ",
+    "note": "Hinya wonanagio harĩ arĩa marareganaga na Ũhoro-Ũrĩa-Mwega.",
+    "events": [
+     "Elima mũrogi agĩthĩĩnio gũtua mũtumumu",
+     "Serugio Paulo barũthi agĩĩtĩkia",
+     "Kuuma haha ‘Paulo’ atongoria"
+    ]
+   },
+   "perga": {
+    "name": "Periga",
+    "book": "Atũmwo 13:13",
+    "today": "Antalya, Turukĩ ũmũthĩ",
+    "note": "Gĩthukĩ kĩa Pamfulia — haha Johana Mariko agĩcoka na thutha.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia ya Pisidia",
+    "book": "Atũmwo 13:14-50",
+    "today": "Yalvaç, Turukĩ ũmũthĩ",
+    "note": "Ũhoro-Ũrĩa-Mwega ũkĩhingũka kũrĩ Andũ-a-Ndũrĩrĩ.",
+    "events": [
+     "Mũhunjia mũraihu wa thoo wa ũhonokio thunagogi-inĩ",
+     "Andũ-a-Ndũrĩrĩ aingĩ magĩkena na makĩamũkĩra ũhoro",
+     "Maaingatwo nĩ ũtharĩkanĩri"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonio",
+    "book": "Atũmwo 14:1-7",
+    "today": "Konya, Turukĩ ũmũthĩ",
+    "note": "Aingĩ magĩĩtĩkia, no kũnyariirwo gũkĩmaringĩrĩria mathiĩ na mbere.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lusitera",
+    "book": "Atũmwo 14:8-20",
+    "today": "Turukĩ ũmũthĩ",
+    "note": "Maagathĩrĩrio ta ngai, magĩcooka makĩhũũrwo na mahiga.",
+    "events": [
+     "Ahonia mũndũ wonjete kuuma gũciarũo",
+     "Kĩrĩndĩ kĩgeria kũmarutĩra magongona ta ngai",
+     "Aahũũrwo na mahiga agĩtigwo ta mũkuũ, no agĩũkĩra"
+    ]
+   },
+   "derbe": {
+    "name": "Deribe",
+    "book": "Atũmwo 14:20-21",
+    "today": "Turukĩ ũmũthĩ",
+    "note": "Arutwo aingĩ matuĩkĩte; magĩcookera njĩra ya gwĩkĩra makanitha hinya.",
+    "events": []
+   },
+   "troas": {
+    "name": "Teroa",
+    "book": "Atũmwo 16:8-10",
+    "today": "Turukĩ ũmũthĩ",
+    "note": "Handũ ha kũgarũrũka kũrĩa Ũhoro-Ũrĩa-Mwega werekeire Uropa rĩa mbere.",
+    "events": [
+     "Kĩoneki kĩa mũndũ wa Makedonia",
+     "“Ũka mũrĩmo ũyũ ũtũteithie”",
+     "Makĩringa o rĩmwe magĩthiĩ Uropa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Atũmwo 16 · Afilipi",
+    "today": "Ngiriki ya gathigathini ũmũthĩ",
+    "note": "Kanitha wa mbere wa Uropa — Ũhoro-Ũrĩa-Mwega ũgĩtooria o na njeera-inĩ.",
+    "events": [
+     "Lidia, mwonjorithia wa nguo cia rangi wa ndathi, agĩĩtĩkia",
+     "Mũirĩtu ngombo mũragũri akĩohorũo",
+     "Nyĩmbo cia ũtukũ gatagatĩ, gĩthingithia, nyũmba ya mũrangĩri wa njeera ĩkĩhonokio"
+    ]
+   },
+   "thess": {
+    "name": "Thesalonike",
+    "book": "Atũmwo 17 · 1–2 Athesalonike",
+    "today": "Thessaloniki, Ngiriki ũmũthĩ",
+    "note": "Ũhoro ũgĩthingithia itũũra naguo ũtharĩkanĩri ũkĩiyũra.",
+    "events": [
+     "Aaria thunagogi-inĩ thabatũ ithatũ",
+     "“Aya nĩo magarũranĩte thĩ”",
+     "Makĩũra ũtukũ"
+    ]
+   },
+   "berea": {
+    "name": "Beroia",
+    "book": "Atũmwo 17:10-15",
+    "today": "Veria, Ngiriki ũmũthĩ",
+    "note": "Arĩa ‘a gĩtĩĩo’ arĩa maatuĩririe ũhoro o ene.",
+    "events": [
+     "Maamũkĩra ũhoro na kĩyo",
+     "O mũthenya matuĩragia Maandĩko kũrora kana nĩ ma",
+     "Aingĩ magĩĩtĩkia"
+    ]
+   },
+   "athens": {
+    "name": "Athene",
+    "book": "Atũmwo 17:16-34",
+    "today": "Athene, Ngiriki ũmũthĩ",
+    "note": "Itũũra-inĩ rĩa a-ũũgĩ ahunjagia ‘ngai ũrĩa ũtoĩkaine’.",
+    "events": [
+     "Aathĩĩnĩka nĩ itũũra rĩiyũrĩte mĩhianano",
+     "Areopago-inĩ ahunjia Mũũmbi na kũriũka",
+     "Aanyararwo, no andũ anini magĩĩtĩkia"
+    ]
+   },
+   "corinth": {
+    "name": "Korintho",
+    "book": "Atũmwo 18 · 1–2 Akorintho",
+    "today": "Ngiriki ũmũthĩ",
+    "note": "Aikara mwaka na nuthu, akĩhaanda kanitha itũũra-inĩ rĩa waganu.",
+    "events": [
+     "Aathondeka hema na Akula na Pirisila",
+     "“Ndũgetigĩre… nĩ ũndũ ndĩ hamwe nawe”",
+     "Akorintho aingĩ magĩĩtĩkia na makĩbatithio"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Atũmwo 19 · Aefeso",
+    "today": "Selçuk, Turukĩ ũmũthĩ",
+    "note": "Ngoro ya mũthiĩre wa gatatũ — ũhoro ũgĩtherema Asia yothe.",
+    "events": [
+     "Ũrutani wa o mũthenya mĩaka ĩĩrĩ nyũmba-inĩ ya Turano",
+     "Mabuku ma ũrogi magĩcinwo; mawĩra ma hinya",
+     "Demeterio mũturi wa betha akĩarahũra ngũĩ"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Atũmwo 20:17-38",
+    "today": "Turukĩ ũmũthĩ",
+    "note": "Kĩagano kĩa maithori na athuri a Efeso.",
+    "events": [
+     "“Mũrĩithagie kanitha ũrĩa aagũrire na thakame yake mwene”",
+     "Athuri makĩrĩra, makĩmenya matikamuona rĩngĩ"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisarea",
+    "book": "Atũmwo 23–26",
+    "today": "hũgũrũrũ-inĩ cia Isiraeli ũmũthĩ",
+    "note": "Mĩaka ĩĩrĩ aciirĩrĩra Ũhoro-Ũrĩa-Mwega mbere ya abarũthi na mũthamaki.",
+    "events": [
+     "Ciira mbere ya abarũthi Felike na Fesito",
+     "Wĩciirĩri wake mbere ya Mũthamaki Agiripa",
+     "“Ndaciirio nĩ Kaisari” — agĩthiĩ Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalemu",
+    "book": "Atũmwo 21–23",
+    "today": "Jerusalemu ũmũthĩ",
+    "note": "Aanyitwo hekarũ-inĩ, naguo rũgendo rwake arĩ mũohwo rũkĩambĩrĩria.",
+    "events": [
+     "Aanyitwo nĩ kĩrĩndĩ hekarũ-inĩ",
+     "Eeciirĩrĩra mbere ya kĩama",
+     "Arĩ mũtũũri wa Roma, agĩtũmwo arangĩirwo nginya Kaisarea"
+    ]
+   },
+   "myra": {
+    "name": "Mura",
+    "book": "Atũmwo 27:5-6",
+    "today": "Demre, Turukĩ ũmũthĩ",
+    "note": "Makĩhaicio marikabu ya Alekisanderia ĩrĩa yathiaga Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Bandari Nzuri (Kirete)",
+    "book": "Atũmwo 27:8-12",
+    "today": "Kirete ũmũthĩ",
+    "note": "Mũkaana wa Paulo wa kũrũgama gũtwarũo nĩ marikabu ndwarũmbũirwo.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kirete",
+    "book": "Tito",
+    "today": "Kirete ũmũthĩ",
+    "note": "Thutha wa kuohorũo, gĩcuthĩ kũrĩa aatigire Tito atabarĩre makanitha.",
+    "events": [
+     "Aatiga Tito athurage athuri o itũũra-inĩ",
+     "Eeta atongoria atarĩ na ũcuuke, ehokeku",
+     "Aaandĩka marũa kũrĩ Tito"
+    ]
+   },
+   "malta": {
+    "name": "Melita",
+    "book": "Atũmwo 27–28",
+    "today": "Malta ũmũthĩ",
+    "note": "Kũgerera kĩhuhũkanio na kũũrwo nĩ marikabu, kĩĩranĩro kĩa Ngai gĩkĩrũgama.",
+    "events": [
+     "Rũhuho rwa ‘gathigathini-irathĩro’ rũkiunanga marikabu, no andũ othe 276 makĩhonoka",
+     "Arũmwo nĩ nyoka, no ndaiguire ũũru",
+     "Aahonia arũaru a gĩcuthĩ kĩu"
+    ]
+   },
+   "syracuse": {
+    "name": "Surakusa",
+    "book": "Atũmwo 28:12",
+    "today": "Sisilia, Itali ũmũthĩ",
+    "note": "Maikara mĩthenya ĩtatũ Sisilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Atũmwo 28:13-14",
+    "today": "Pozzuoli, Itali ũmũthĩ",
+    "note": "Makinya Itali na magĩtũnganwo nĩ ariũ a Ithe witũ.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Atũmwo 28 · Marũa ma Njeera · 2 Timotheo",
+    "today": "Roma, Itali ũmũthĩ",
+    "note": "Ũhoro-Ũrĩa-Mwega ũgĩkinya ngoro ya ũthamaki mũthia-inĩ — ti mũthia no nĩ kĩambĩrĩria.",
+    "events": [
+     "Mĩaka ĩĩrĩ aikarĩte mũciĩ arĩ mũrangĩre, akĩhunjia ũthamaki na ũcamba",
+     "Kuuma haha aandĩka Marũa ma Njeera (Aef·Afil·Akol·Filemoni)",
+     "Thutha-inĩ aanyitwo rĩngĩ, akĩandĩka 2 Timotheo na akĩũragwo — “Nĩndahũũranĩte mbaara ĩrĩa njega, nĩndarĩkĩtie ihenya”"
+    ]
+   }
+  },
+  "labels": [
+   "Iria rĩa Mediterania",
+   "Iria rĩa Aegean",
+   "Asia Nini",
+   "Makedonia",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Mũthiĩre wa mbere",
+   "j2": "Mũthiĩre wa keerĩ",
+   "j3": "Mũthiĩre wa gatatũ",
+   "rome": "Mũthiĩre wa kana · gũthiĩ Roma",
+   "j5": "Mũthiĩre wa gatano · thutha wa kuohorũo"
+  }
+ }
+}

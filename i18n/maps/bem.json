@@ -1,0 +1,636 @@
+{
+ "menuName": "Ichibemba",
+ "htmlLang": "bem",
+ "dir": "ltr",
+ "locale": "bem",
+ "brand": "Baibolo mu Kupituluka Kumo",
+ "docTitle": "Baibolo mu Mapu · Baibolo mu Kupituluka Kumo",
+ "metaDesc": "Konkani inshila ya Cipangano ca Kale, ubumi bwakwa Yesu, ne myendo ya kwa Paulo pa mapu ya cine — Baibolo lyacitikile mu ncende sha cine cine.",
+ "s": {
+  "kicker": "Baibolo mu Kupituluka Kumo · Mapu",
+  "title": "Baibolo mu Mapu",
+  "verse": "“Ifwe ilyo twamushimikile pa kwisa ukwamaka ukwa Mfumu yesu Yesu Kristu tatwabomfeshe imilumbe iyakwelenganyafye iyoo. Ifwe twaliimwenene na menso yesu ubucindami bwakwe.” (2 Petro 1:16)",
+  "purpose": "Baibolo te lyashi lya kunenako. Ni cilembelo ca bantu abaendele pa ncende sha cine, inshiku, na mashina ya cine. Konkani inshila ishi pa mapu, mu kukonkana kwa nshita — kanda pa ncende, nelyo kanda ▶ pakuti upituluke mu fyonse akashiwi ku kashiwi.",
+  "ot_kick": "① Icipangano ca Kale — ukupitulukila mu nshita",
+  "ot_h": "Ukufuma ku kupanga ukufika ku kubwela ku Yerusalemu",
+  "ot_lead": "Te lwendo lumo lweka iyo lelo ni kupita kwa lyashi lya lubembu ne pusukilo ukufuma ku kupanga: ukupanga no kuwa → ilyeshi na Babeli → ukwita (Abrahamu) → icalo cabulayo → Ukufuma → matololo → ukucimfya → ubufumu → ukukanyanwa → ubunkole → ukubwela.",
+  "je_kick": "② Icipangano Cipya — ubumi bwakwa Yesu",
+  "je_h": "Ukufuma ku Betelehemu ukufika ku Yerusalemu",
+  "je_lead": "Konkani ubumi bwakwa Yesu ifyo Imbila Nsuma shisosa, mu kukonkana — ukufuma ku kufyalwa kwakwe mu Betelehemu ukupita mu lubatisho lwakwe no mulimo mu Galileya, ukupita mu Samaria, ukufika ku cifulebente, ukubuka, no kunina mu Yerusalemu.",
+  "pa_kick": "③ Icipangano Cipya — imyendo ya kwa Paulo",
+  "pa_h": "Ukufuma ku Antiokia ukufika ku mpela sha calo — Roma",
+  "pa_lead": "Ukufuma ku Pentekoste mu Yerusalemu, ifyo imbila nsuma yananwike ukupita Yudeya — ukupita mu Asia Minor na Europe ukufika ku mutima wa bufumu. Saleni umwendo umo ku myendo isano (1·2·3 + ulwendo lwa ku Roma + pa numa ya kufutuluka) kabili konkani ifyacitike mu Imilimo na makalata ayalembwa mu nshila.",
+  "foot": "Ifyebo fyafuma · Incende shikonka icebo ca mu Baibolo ne mapu ya Baibolo aya bonse (na mashina ya nomba uko yaafwa). Inkulwa sha bemba, imimana, na mabemba fyalembwa ukufuma ku fyebo fya calo ifya bonse (Natural Earth), fyangushiwe.",
+  "contact": "Amepusho · amashiwi — <a id=\"contact\" class=\"mail\">Tutumineni email</a>",
+  "play": "Kanda",
+  "pause": "Imya",
+  "today": "Lelo:",
+  "verseCite": "2 Petro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edeni (Ukupanga · Ukuwa)",
+    "book": "Icitendekelo 1–3",
+    "today": "incende ya Tigris–Eufrate ya lelo",
+    "note": "Mu calo icapangilwe “icisuma nganshi,” ulubembu lwaingila no kuputula ubumo bwa muntu na Lesa.",
+    "events": [
+     "Ukupanga mu nshiku 6 — “cali cisuma nganshi”",
+     "Umuntu uwapangilwe mu cifwani cakwa Lesa",
+     "Ukuwa, no kutamfiwa mu Edeni",
+     "Ubulayo bwa ntanshi ubwa mbila nsuma — “ubufyashi bwa mwanakashi bukashonaula umutwe wa nsoka”"
+    ]
+   },
+   "noah": {
+    "name": "Ararati (Ilyeshi)",
+    "book": "Icitendekelo 6–9",
+    "today": "Ulupili lwa Ararati, ku kabanga ka Türkiye ya lelo",
+    "note": "Lesa apingula icalo icaisula ulubembu, lelo asunga ubumi ku lupwa lumo.",
+    "events": [
+     "Icalo icaisula ububi",
+     "Ilyeshi, ne cisabo cakwa Noa",
+     "Icipangano ca nkongolo — “tapakatale paaba ilyeshi lya konaula nakabili”"
+    ]
+   },
+   "babel": {
+    "name": "Ulupungu lwa Babeli",
+    "book": "Icitendekelo 11",
+    "today": "Iraq ya lelo (icabanda ca Shinari)",
+    "note": "Pa kuipakasha ukufwaya ukufika ku muulu, Lesa avulunganya ululimi lwabo no kusalanganya abantu pa calo.",
+    "events": [
+     "“Natukule umusumba ne lupungu… no kuipangila ishina”",
+     "Lesa avulunganya ululimi lwabo",
+     "Abantu basalangana pa calo (Shinari — kabili Babiloni)"
+    ]
+   },
+   "ur": {
+    "name": "Uri",
+    "book": "Icitendekelo 12",
+    "today": "kapinda ka kuso aka Iraq ya lelo",
+    "note": "Ilyashi lya pusukilo mu Baibolo lyatampa no kwita kwa muntu umo.",
+    "events": [
+     "Lesa aita Abramu ukufuma ku Uri wa baKaldi",
+     "“Nkalenga ukuti ukabe umushobo uukalamba… abantu bonse bakapaalwa muli iwe”",
+     "Ku cisumino afuma mu calo cakwabo"
+    ]
+   },
+   "haran": {
+    "name": "Harani",
+    "book": "Icitendekelo 12",
+    "today": "kapinda ka kuso aka Türkiye ya lelo",
+    "note": "Mu nshila, asuka ukwitwa ukulola ku calo cabulayo.",
+    "events": [
+     "Ulupwa lwakwa Tera lwaikala mu Harani",
+     "Tera afwa",
+     "Abramu afuma ukuya ku Kanani na myaka 75"
+    ]
+   },
+   "shechem": {
+    "name": "Shekemu · Kanani",
+    "book": "Icitendekelo 12–50",
+    "today": "Nablus ya lelo",
+    "note": "Mu calo cabulayo ulupwa lwatendekwa kabili icipangano cipita ku nkulo iikonkapo.",
+    "events": [
+     "Ukwingila mu Kanani, iciipailo ca ntanshi — “ku bufyashi bobe nkapeela ici calo”",
+     "Icipangano (Icitendekelo 15) · Isaki · Yakobo",
+     "Abana 12 abakwa Yakobo — umushi wa mikowa 12"
+    ]
+   },
+   "egypt": {
+    "name": "Egupto (Gosheni)",
+    "book": "Icitendekelo 37–50 · Ukufuma 1",
+    "today": "Icabanda ca Naile, Egupto ya lelo",
+    "note": "Ulupwa lwaluka umushobo uukalamba — kabili uluko lwa basha.",
+    "events": [
+     "Yosefe, uwashitiswe, aluka kateka mu Egupto",
+     "Ulupwa lonse lwakwa Yakobo lwaisa pakuti lufume mu nsala",
+     "Uluko ulwakulile ulwa Israeli lwacitwa abasha"
+    ]
+   },
+   "sinai": {
+    "name": "Ulupili lwa Sinai",
+    "book": "Ukufuma · Abena Levi",
+    "today": "Icimpapa ca Sinai ca lelo",
+    "note": "Ipusukilo likalamba ilya Cipangano ca Kale — basha baluka abantu bakwa Lesa.",
+    "events": [
+     "Ifikansa 10 no mwana wa mpaanga wa Pasaka",
+     "Bemba Wakashika waputuka kabili baabuka",
+     "Amafunde 10, Amalango, Itempele lya nsalu na milambo"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeshi (matololo)",
+    "book": "Impendwa · Amafunde",
+    "today": "Imatololo ya Sinai–Negebu ya lelo",
+    "note": "Ukukana ukusumina kwasenda inkulo icalo — lelo Lesa aikala nabo.",
+    "events": [
+     "Abalondo 12 — lelo abantu bakaana ukucetekela",
+     "Imyaka 38 mu matololo — mana, ciluli ne mulilo",
+     "Pa fyabu fya Moabu, ilyashi lya kupelako ilyakwa Mose (Amafunde)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Yoshua",
+    "today": "Yeriko ya lelo",
+    "note": "Pa kupelako baingila no kupoka icalo cabulayo.",
+    "events": [
+     "Yordani aputuka kabili abantu baabuka",
+     "Amalinga ya Yeriko yawa",
+     "Ukucimfya kwa Kanani no kuyana icalo"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Abapingushi)",
+    "book": "Abapingushi · Ruti",
+    "today": "Khirbet Seilun ya lelo",
+    "note": "Ukwabula imfumu, onse alecita ifyo amwene — imfumu ya cine yalefwaikwa.",
+    "events": [
+     "Itempele lya nsalu lyaiminikwa mu Shilo",
+     "Ukupilibuka kwa lubembu–kucushiwa–kulubulwa (Debora, Gideoni, Samsoni)",
+     "Ruti — ukucetekela mu nshiku ishafiita, mu lupwa lwakwa Davidi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu · Ubufumu Bwaikatene",
+    "book": "1–2 Samwele · 1 Ishamfumu",
+    "today": "Yerusalemu ya lelo",
+    "note": "Inshita yasumine iya Israeli — ne bulayo bwa mfumu ya pe na pe.",
+    "events": [
+     "Saulo imfumu ya ntanshi, lyena Davidi na Goliati",
+     "Icipangano na Davidi — “icipuna cobe pe na pe” (2 Samwele 7)",
+     "Solomone akula Itempele mu Yerusalemu"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Ubufumu Bwakanyene",
+    "book": "Ishamfumu · Bakasesema",
+    "today": "Sebastia ya lelo",
+    "note": "Ubufumu bwakanyanwa no kuonaika ilyo bakasesema balelila.",
+    "events": [
+     "Pa numa ya kwa Solomone, ukukanyanwa kwa Yuda na Israeli",
+     "Ukupepa tulubi ukubwekeshapo",
+     "Eliya, Esaya, Yeremia balila ‘bweleleni’ — kabili basesema Mesia"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninebe (Asiria)",
+    "book": "2 Ishamfumu 17 · Yona",
+    "today": "Mosul, Iraq ya lelo",
+    "note": "Ku kusuula ukucenjesha konse, ubufumu bwa kuso bwawa intanshi.",
+    "events": [
+     "Ninebe, umusumba mukalamba wa Asiria",
+     "Ubufumu bwa kuso bwawa ku Asiria (722 BC)",
+     "Yona atumwa ku Ninebe"
+    ]
+   },
+   "babylon": {
+    "name": "Babiloni",
+    "book": "2 Ishamfumu 25 · Danieli · Esekieli",
+    "today": "Hillah, Iraq ya lelo",
+    "note": "Ubushiku bwafiita nganshi — lelo ubulayo bwa kubwesha bucili.",
+    "events": [
+     "Yerusalemu yawa, Itempele lyapya (586 BC)",
+     "Yuda basendwa ku Babiloni",
+     "Danieli na Esekieli — icisumino ne fimonwa mu bunkole"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Esta · Nehemia",
+    "today": "Shush, Iran ya lelo",
+    "note": "Nangu pa mutima wa bufumu bwa bashipepa, Lesa asunga abantu bakwe.",
+    "events": [
+     "Persia bacimfya Babiloni",
+     "Esta apususha abaYuda ku kuonaulwa",
+     "Nehemia apepa ku cinso ca mfumu kabili atumwa"
+    ]
+   },
+   "return": {
+    "name": "Ukubwela ku Yerusalemu",
+    "book": "Esra · Nehemia · Malaki",
+    "today": "Yerusalemu ya lelo",
+    "note": "Babwela no kukula cipya — lelo takuli imfumu iyaisa. Balolela Mesia.",
+    "events": [
+     "Amabunga yatatu yabwela ku cisongo cakwa Sirusi (Serubabele 538 · Esra 458 · Nehemia 444)",
+     "Itempele lyakulwa cipya na malinga ya Yerusalemu yabweshiwa",
+     "Malaki — Icipangano ca Kale capelela: “nkatuma inkombe yandi”"
+    ]
+   }
+  },
+  "labels": [
+   "Bemba wa Mediterranean",
+   "Mesopotamia",
+   "Imatololo ya Arabia",
+   "Egupto"
+  ],
+  "journeys": {
+   "flow": "Ilyashi lya pusukilo"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betelehemu",
+    "book": "Mateo 1–2 · Luka 2",
+    "today": "Betelehemu ya lelo",
+    "note": "Mesia uwalailwe aisa ku musumba wakwa Davidi — Lishiwi lyaluka umuntu.",
+    "events": [
+     "Afyalwa mu Betelehemu, umusumba wakwa Davidi",
+     "Bamalaika bashimika ilyashi ku bacemi",
+     "Abamano baisa ukupepa"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasareti",
+    "book": "Luka 2 · 4",
+    "today": "Nasareti ya lelo",
+    "note": "Lesa akulila nge muntu mu musumba uwa cabe.",
+    "events": [
+     "Akulila mu ng'anda ya kapula wa fimuti",
+     "Pa myaka 12, alepusha no kwasuka mu Itempele",
+     "Pa numa akaanwa mu sunagoge wa ku mwabo"
+    ]
+   },
+   "jordan": {
+    "name": "Umumana wa Yordani",
+    "book": "Mateo 3–4",
+    "today": "Yordani wa panshi wa lelo",
+    "note": "Umulimo wakwe wa pa lwalala watampa — umuulu wamushininkisha nge Mwana.",
+    "events": [
+     "Abatishiwa kuli Yoani",
+     "Umupashi watentemuka kwati nkunda — “Uyu e Mwana wandi uo ntemwa”",
+     "Acimfya amatunko yatatu yakwa Satana mu matololo"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yoani 2",
+    "today": "Kafr Kanna ya lelo",
+    "note": "Mu cipesha amano cakwe ca ntanshi alanga ubukata bwakwe.",
+    "events": [
+     "Umweni pa bwinga",
+     "Amenshi yaaluka waini — icipesha amano cakwe ca ntanshi",
+     "Abasambi bakwe bamusumina"
+    ]
+   },
+   "sychar": {
+    "name": "Sukari (Samaria)",
+    "book": "Yoani 2–4",
+    "today": "mupepi na Nablus ya lelo",
+    "note": "Inshila ya mulimo wa kutampa — ukupita Yerusalemu ukufika ku Samaria uwasuulwa.",
+    "events": [
+     "Asangulula Itempele mu Yerusalemu",
+     "Ubushiku, Nikodemo — “mufwile ukufyalwa cipya”",
+     "Amenshi ya bumi ku mwanakashi wa Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaumu",
+    "book": "Mateo 4–13 · Mako 1–4",
+    "today": "kumbali ya bemba wa Galileya ya lelo",
+    "note": "Incende ya mulimo mu Galileya — ukwita, ukusambilisha no kukaanwa fyonse fyasangwa kuno.",
+    "events": [
+     "Aita abalondo ba sabi kabili aikala kuno",
+     "Ilyashi lya pa lupili — “Balipaalwa abapina mu mupashi”",
+     "Imisango ya Bufumu — no kukaanwa ukulekula"
+    ]
+   },
+   "galilee": {
+    "name": "Bemba wa Galileya",
+    "book": "Mako 4 · 6 · Yoani 6",
+    "today": "Bemba wa Kinneret wa lelo",
+    "note": "Ku maka pa fyabumbwa alanga uyo abe.",
+    "events": [
+     "“Talala, ikala tondolo” — atalalika icikuku",
+     "Aliisha 5,000 ku mikate isano ne sabi fibili",
+     "Aenda pa menshi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisarea Filipi",
+    "book": "Mateo 16–17",
+    "today": "Banias ya lelo",
+    "note": "Abasambi baishiba ukuti ni Kristu, kabili inshila ya cifulebente yaisuka.",
+    "events": [
+     "Ukusumina kwakwa Petelo — “Imwe muli Kristu, Mwana wakwa Lesa wa mweo”",
+     "Asesema intanshi imfwa yakwe no kubuka",
+     "Aaluka mu bukata pa lupili"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Luka 18–19",
+    "today": "Yeriko ya lelo",
+    "note": "Pa nshila ya kunina ku Yerusalemu, afwaya abaluba.",
+    "events": [
+     "Apeela amenso ku impofu Bartimeo",
+     "Aita Sakeo kapokela wa misonko",
+     "“Mwana wa muntu aishile ukufwaya no kupususha abaluba”"
+    ]
+   },
+   "bethany": {
+    "name": "Betani",
+    "book": "Yoani 11–12",
+    "today": "al-Eizariya ya lelo",
+    "note": "Alanga amaka pa mfwa pa cinso ca mulungu wakwe uwa kupelako.",
+    "events": [
+     "Abusha Lasaro ku nshiishi — “Nine kubuka no bumi”",
+     "Maria amusuba mafuta ku kushiika",
+     "Ici cipesha amano cikosha ukupanga ukumwipaya"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu",
+    "book": "Mateo 21–28 · Luka 24 · Imilimo 1",
+    "today": "Yerusalemu ya lelo",
+    "note": "Icapwililika ico Baibolo lyonse lilola — cifulebente, kubuka, kunina.",
+    "events": [
+     "Ukwingila kwa bukata; awisha amatebulo ya mu Itempele nakabili",
+     "Pa Cakulya ca pa Numa asamba abasambi amakasa",
+     "Afwa pa cifulebente",
+     "Abuka pa bushiku bwacitatu, lyena anina"
+    ]
+   }
+  },
+  "labels": [
+   "Bemba wa Mediterranean",
+   "Galileya",
+   "Samaria",
+   "Yudeya",
+   "Dekapoli",
+   "Perea",
+   "Bemba Wafwa"
+  ],
+  "journeys": {
+   "life": "Inshila yakwa Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Imilimo 13 · 15",
+    "today": "Antakya, Türkiye ya lelo",
+    "note": "Icilonganino ca kutuma uko ubutumwa ku bena fyalo butampila kabili babwelelapo.",
+    "events": [
+     "Mu kupepa Umupashi apaatula Barnaba na Saulo",
+     "Icilonganino uko abasumina baitilwe intanshi ‘Bena Kristu’",
+     "Incende ya kutampila umwendo wa 1, 2 na 3"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Imilimo 13:4",
+    "today": "Türkiye ya lelo",
+    "note": "Icabu ca Antiokia — baabuka ukuya ku Kupro.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salami (Kupro)",
+    "book": "Imilimo 13:5",
+    "today": "Kupro ya lelo",
+    "note": "Incende ya ntanshi pa Kupro — bashimika mu masunagoge.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Imilimo 13:6-12",
+    "today": "Kupro ya lelo",
+    "note": "Amaka yalangwa ku abakaana imbila nsuma.",
+    "events": [
+     "Elima kalozi apuminwa impofu",
+     "Sergio Paulo katwalo asumina",
+     "Ukufuma kuno ‘Paulo’ atampa ukutangilila"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Imilimo 13:13",
+    "today": "Antalya, Türkiye ya lelo",
+    "note": "Icabu ca mu Pamfilia — kuno Yoani Mako abwelela.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia wa Pisidia",
+    "book": "Imilimo 13:14-50",
+    "today": "Yalvaç, Türkiye ya lelo",
+    "note": "Imbila nsuma yaisula ukulola ku bena fyalo.",
+    "events": [
+     "Ilyashi litali lya lyashi lya pusukilo mu sunagoge",
+     "Abena fyalo abengi basekelela no kupokelela icebo",
+     "Batamfiwa ku kupanga"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonio",
+    "book": "Imilimo 14:1-7",
+    "today": "Konya, Türkiye ya lelo",
+    "note": "Abengi basumina, lelo ukupakaswa kwabacindikisha ukuya.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Imilimo 14:8-20",
+    "today": "Türkiye ya lelo",
+    "note": "Baitwa lesa, lyena bapelwa amabwe.",
+    "events": [
+     "Aposha umuntu uwalemana ukufuma ku kufyalwa",
+     "Ibumba lyaesha ukutuula milambo kuli bo kwati balesa",
+     "Apelwa amabwe no kushiwa kwati nafwa, lelo aima"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Imilimo 14:20-21",
+    "today": "Türkiye ya lelo",
+    "note": "Abasambi abengi bacitwa; babwelela ku kukosha amacilonganino.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troa",
+    "book": "Imilimo 16:8-10",
+    "today": "Türkiye ya lelo",
+    "note": "Apo imbila nsuma yatampa ukulola ku Europe.",
+    "events": [
+     "Icimonwa ca muntu wa ku Makedonia",
+     "“Iseni muno mutwafwe”",
+     "Baabuka bwangu ukuya ku Europe"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Imilimo 16 · Filipi",
+    "today": "kapinda ka kuso aka Greece ya lelo",
+    "note": "Icilonganino ca ntanshi ca Europe — imbila nsuma yacimfya nangu mu cifungo.",
+    "events": [
+     "Lidia, kashitisha wa nsalu sha lwafifita, asumina",
+     "Umusha mukashana uwalebuka alubulwa",
+     "Inyimbo sha pakati ka bushiku, icinkukuma, ulupwa lwa kalinda fingo lwapususha"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Imilimo 17 · 1–2 Tesalonika",
+    "today": "Thessaloniki, Greece ya lelo",
+    "note": "Icebo cisensha umusumba kabili ukupakaswa kwatutuma.",
+    "events": [
+     "Alanshanya mu sunagoge amasabato yatatu",
+     "“Aba abapilibula icalo conse”",
+     "Banyenekela ubushiku"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Imilimo 17:10-15",
+    "today": "Veria, Greece ya lelo",
+    "note": "Aba ‘bacindama’ abaceeya icebo bene.",
+    "events": [
+     "Bapokelela icebo no kufwaisha",
+     "Cila bushiku baceeya Amalembo pakuti bashininkishe",
+     "Abengi baisa mu kusumina"
+    ]
+   },
+   "athens": {
+    "name": "Atene",
+    "book": "Imilimo 17:16-34",
+    "today": "Athens, Greece ya lelo",
+    "note": "Mu musumba wa baceenjela alabila ‘lesa uushaishibikwa’.",
+    "events": [
+     "Akalipwa ku musumba uwaisula utulubi",
+     "Pa Areopago abila Kabumba no kubuka",
+     "Bamuseka, lelo banono basumina"
+    ]
+   },
+   "corinth": {
+    "name": "Korinti",
+    "book": "Imilimo 18 · 1–2 Kolinti",
+    "today": "Greece ya lelo",
+    "note": "Aikala umwaka no hafu, akula icilonganino mu musumba wa bubifi.",
+    "events": [
+     "Apanga matenti na Akwila na Prisila",
+     "“Witiina… pantu ndi nobe”",
+     "Abena Korinti abengi basumina kabili babatishiwa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Imilimo 19 · Efeso",
+    "today": "Selçuk, Türkiye ya lelo",
+    "note": "Umutima wa mwendo wa citatu — icebo casalangana mu Asia.",
+    "events": [
+     "Ukusambilisha cila bushiku imyaka ibili mu ng'anda yakwa Turano",
+     "Amabuku ya bulozi yaocwa; imilimo ya maka",
+     "Demetrio kapanga wa silfa atampa icikatakata"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Imilimo 20:17-38",
+    "today": "Türkiye ya lelo",
+    "note": "Ukulaya kwa filamba ku bakalamba ba cilonganino ca Efeso.",
+    "events": [
+     "“Cingilileni icilonganino ico ashitile ku mulopa wakwe mwine”",
+     "Abakalamba balila, baishiba ukuti tabakamumona nakabili"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisarea",
+    "book": "Imilimo 23–26",
+    "today": "kumbali ya bemba ya Israeli ya lelo",
+    "note": "Pa myaka ibili acingilila imbila nsuma ku bateka na mfumu.",
+    "events": [
+     "Amilandu ku bateka Felike na Festo",
+     "Ukucingilila kwakwe ku Mfumu Agripa",
+     "“Ndalomba ukupingulwa kuli Kaisare” — ukuya ku Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu",
+    "book": "Imilimo 21–23",
+    "today": "Yerusalemu ya lelo",
+    "note": "Aikatwa mu Itempele, inshila yakwe nge nkole yatampa.",
+    "events": [
+     "Aikatwa ku bumba mu Itempele",
+     "Aicingilila ku cilye",
+     "Nge muntu wa ku Roma, atumwa na balinda ku Kaisarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Imilimo 27:5-6",
+    "today": "Demre, Türkiye ya lelo",
+    "note": "Bapaluka ku bwato bwa ku Alesandria ubwaleya ku Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Ifyabu Fisuma (Kreta)",
+    "book": "Imilimo 27:8-12",
+    "today": "Kreta ya lelo",
+    "note": "Ukucenjesha kwakwa Paulo ukuti baleke ukwabuka takwaumfwilwe.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Tito",
+    "today": "Kreta ya lelo",
+    "note": "Pa numa ya kufutuluka, icishi uko ashiile Tito ukutantika amacilonganino.",
+    "events": [
+     "Ashiila Tito ukubika abakalamba mu musumba onse",
+     "Alomba abatungulushi abashabula umulandu, abacetekwa",
+     "Alemba ikalata kuli Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malita",
+    "book": "Imilimo 27–28",
+    "today": "Malta ya lelo",
+    "note": "Mu cinkukuma no kuonaika kwa bwato, ubulayo bwakwa Lesa bwaiminina.",
+    "events": [
+     "Umwela uwa ‘ku kabanga ka kuso’ wakonaula ubwato, lelo bonse 276 bapususha",
+     "Asumwa ne nsoka, lelo tacishiwe",
+     "Aposha abalwele ba pa cishi"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusa",
+    "book": "Imilimo 28:12",
+    "today": "Sicily, Italy ya lelo",
+    "note": "Baikala inshiku shitatu mu Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Imilimo 28:13-14",
+    "today": "Pozzuoli, Italy ya lelo",
+    "note": "Bafika mu Italy kabili banonkwa na basumina banankwe.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Imilimo 28 · Makalata ya mu Cifungo · 2 Timote",
+    "today": "Roma, Italy ya lelo",
+    "note": "Imbila nsuma yafika ku mutima wa bufumu pa kupelako — te mpela lelo ni ntendekelo.",
+    "events": [
+     "Imyaka ibili mu cifungo ca pa ng'anda, abila Ubufumu mu kushipa",
+     "Ukufuma kuno alemba Makalata ya mu Cifungo (Efeso·Filipi·Kolose·Filemoni)",
+     "Pa numa akakwa nakabili, alemba 2 Timote kabili epaiwa — “Nalilwa ubulwi busuma, nalipwisha ulubilo”"
+    ]
+   }
+  },
+  "labels": [
+   "Bemba wa Mediterranean",
+   "Bemba wa Aegea",
+   "Asia Minor",
+   "Makedonia",
+   "Italy"
+  ],
+  "journeys": {
+   "j1": "Umwendo wa ntanshi",
+   "j2": "Umwendo wa cibili",
+   "j3": "Umwendo wa citatu",
+   "rome": "Umwendo wa cine · ku Roma",
+   "j5": "Umwendo wa cisano · pa numa ya kufutuluka"
+  }
+ }
+}

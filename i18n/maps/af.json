@@ -1,0 +1,636 @@
+{
+ "menuName": "Afrikaans",
+ "htmlLang": "af",
+ "dir": "ltr",
+ "locale": "af-ZA",
+ "brand": "Die Bybel in een blik",
+ "docTitle": "Die Bybel per kaart · Die Bybel in een blik",
+ "metaDesc": "Volg die tydlyn van die Ou Testament, die lewe van Jesus en Paulus se reise op ’n werklike kaart — die Bybel het op werklike plekke gebeur.",
+ "s": {
+  "kicker": "Die Bybel in een blik · Kaarte",
+  "title": "Die Bybel per kaart",
+  "verse": "“Want ons het nie kunstig verdigte fabels nagevolg toe ons julle die krag en koms van onse Here Jesus Christus bekend gemaak het nie, maar ons was aanskouers van sy majesteit;” (2 Petrus 1:16)",
+  "purpose": "Die Bybel is nie ’n mite nie. Dit is ’n verslag van mense wat op werklike plekke, datums en name geleef het. Volg daardie weë oor ’n kaart, in tydsorde — tik op ’n punt, of druk op ▶ om dit stap vir stap deur te loop.",
+  "ot_kick": "① Ou Testament — deur die tyd heen",
+  "ot_h": "Van die skepping tot die terugkeer na Jerusalem",
+  "ot_lead": "Nie een enkele reis nie, maar die loop van die verlossingsgeskiedenis vanaf die skepping: skepping en sondeval → vloed en Babel → ’n roeping (Abraham) → die beloofde land → uittog → woestyn → verowering → koninkryk → verdeling → ballingskap → terugkeer.",
+  "je_kick": "② Nuwe Testament — die lewe van Jesus",
+  "je_h": "Van Betlehem na Jerusalem",
+  "je_lead": "Volg die lewe van Jesus soos die evangelies dit vertel, in volgorde — van sy geboorte in Betlehem deur sy doop en bediening in Galiléa, dwarsdeur Samaría, tot die kruis, die opstanding en die hemelvaart in Jerusalem.",
+  "pa_kick": "③ Nuwe Testament — Paulus se reise",
+  "pa_h": "Van Antiochíë tot aan die uiterste van die aarde — Rome",
+  "pa_lead": "Vanaf Pinkster in Jerusalem: hoe die evangelie versprei het buite Judéa — deur Klein-Asië en Europa tot in die hart van die ryk. Kies een van die vyf reise (1e·2e·3e + die seereis na Rome + ná die vrylating) en volg die gebeurtenisse van Handelinge saam met die briewe wat onderweg geskryf is.",
+  "foot": "Bronne · Plekke volg die Bybelteks en die gangbare Bybelse geografie (met moderne name waar dit help). Kuslyne, riviere en mere is geteken op grond van oop geografiese data (Natural Earth), vereenvoudig.",
+  "contact": "Navrae · terugvoer — <a id=\"contact\" class=\"mail\">Stuur e-pos</a>",
+  "play": "Speel",
+  "pause": "Wag",
+  "today": "Vandag:",
+  "verseCite": "2 Petrus 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Skepping · Sondeval)",
+    "book": "Génesis 1–3",
+    "today": "die Tigris–Eufraat-streek vandag",
+    "note": "In ’n wêreld wat baie goed gemaak is, kom die sonde in en verbreek die band tussen God en die mens.",
+    "events": [
+     "Skepping in ses dae — “dit was baie goed”",
+     "Die mens gemaak na die beeld van God",
+     "Die sondeval, en die verdrywing uit Eden",
+     "Die eerste belofte van die evangelie — “Hý sal jou die kop vermorsel”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (die Vloed)",
+    "book": "Génesis 6–9",
+    "today": "die berg Ararat, oostelike Turkye vandag",
+    "note": "God oordeel ’n wêreld vol sonde, maar bewaar tog die lewe deur een gesin.",
+    "events": [
+     "’n Wêreld vol verdorwenheid",
+     "Die vloed, en Noag se ark",
+     "Die reënboogverbond — “geen vloed meer om te verwoes nie”"
+    ]
+   },
+   "babel": {
+    "name": "Toring van Babel",
+    "book": "Génesis 11",
+    "today": "Irak vandag (die vlakte van Sínear)",
+    "note": "Teen die hoogmoed wat na die hemel reik, verwar God hulle spraak en verstrooi die volke oor die aarde.",
+    "events": [
+     "“Kom, laat ons vir ons ’n stad en ’n toring bou… en vir ons ’n naam maak”",
+     "God verwar hulle taal",
+     "Die volke versprei oor die aarde (Sínear — later Babel)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Génesis 12",
+    "today": "suidelike Irak vandag",
+    "note": "Die Bybel se verhaal van verlossing begin met die roeping van een man.",
+    "events": [
+     "God roep Abram uit Ur van die Chaldeërs",
+     "“Ek sal jou ’n groot nasie maak… in jou sal al die geslagte geseën word”",
+     "Deur die geloof verlaat hy sy vaderland"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Génesis 12",
+    "today": "suidelike Turkye vandag",
+    "note": "Op pad, terwyl hy die roeping na die beloofde land beantwoord.",
+    "events": [
+     "Tera se familie gaan in Haran woon",
+     "Tera sterf",
+     "Abram trek op 75-jarige ouderdom na Kanaän"
+    ]
+   },
+   "shechem": {
+    "name": "Sigem · Kanaän",
+    "book": "Génesis 12–50",
+    "today": "Nablus vandag",
+    "note": "In die beloofde land word ’n familie gevestig en die verbond gaan oor van geslag tot geslag.",
+    "events": [
+     "Die intog in Kanaän, die eerste altaar — “aan jou nageslag gee Ek hierdie land”",
+     "Die verbond (Gén. 15) · Isak · Jakob",
+     "Jakob se twaalf seuns — die wortel van die twaalf stamme"
+    ]
+   },
+   "egypt": {
+    "name": "Egipte (Gosen)",
+    "book": "Génesis 37–50 · Exodus 1",
+    "today": "die Nyldelta, Egipte vandag",
+    "note": "’n Familie word ’n groot nasie — en dan ’n volk van slawe.",
+    "events": [
+     "Josef, verkoop, word heerser in Egipte",
+     "Jakob se hele familie kom af om die hongersnood te ontvlug",
+     "Die groeiende nasie Israel word slawe gemaak"
+    ]
+   },
+   "sinai": {
+    "name": "Berg Sinai",
+    "book": "Exodus · Levítikus",
+    "today": "die Sinai-skiereiland vandag",
+    "note": "Die OT se sentrale reddingsdaad — slawe word God se eie volk.",
+    "events": [
+     "Die tien plae en die Paaslam",
+     "Die Rooisee gaan oop en hulle trek deur",
+     "Die Tien Gebooie, die wet, die tabernakel en die offers"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (woestyn)",
+    "book": "Númeri · Deuteronómium",
+    "today": "die Sinai–Negev-woestyn vandag",
+    "note": "Ongeloof kos ’n geslag die land — tog bly God by hulle.",
+    "events": [
+     "Twaalf verkenners — maar die volk weier om te vertrou",
+     "38 jaar in die woestyn — manna, wolk en vuur",
+     "Op die vlaktes van Moab, Moses se laaste prediking (Deuteronómium)"
+    ]
+   },
+   "jericho": {
+    "name": "Jérigo",
+    "book": "Josua",
+    "today": "Jérigo vandag",
+    "note": "Op die ou end gaan hulle in en neem die beloofde land in besit.",
+    "events": [
+     "Die Jordaan gaan oop en die volk trek deur",
+     "Die mure van Jérigo val",
+     "Die verowering van Kanaän en die verdeling van die land"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Rigters)",
+    "book": "Rigters · Rut",
+    "today": "Khirbet Seilun vandag",
+    "note": "Sonder ’n koning doen elkeen wat reg is in sy eie oë — ’n ware koning is nodig.",
+    "events": [
+     "Die tabernakel word in Silo opgerig",
+     "Die siklus van sonde–verdrukking–redding (Debóra, Gídeon, Simson)",
+     "Rut — trou in donker dae, in die geslag van Dawid"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Verenigde koninkryk",
+    "book": "1–2 Samuel · 1 Konings",
+    "today": "Jerusalem vandag",
+    "note": "Israel se goue eeu — en die belofte van ’n ewige koning.",
+    "events": [
+     "Saul die eerste koning, daarna Dawid en Góliat",
+     "Die verbond met Dawid — “jou troon tot in ewigheid” (2 Sam. 7)",
+     "Salomo bou die tempel in Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaría · Verdeelde koninkryk",
+    "book": "Konings · die Profete",
+    "today": "Sebastia vandag",
+    "note": "Die koninkryk verdeel en verval terwyl die profete uitroep.",
+    "events": [
+     "Ná Salomo, die verdeling in Juda en Israel",
+     "Herhaalde afgodery",
+     "Elía, Jesaja, Jeremia roep ‘kom terug’ — en kondig die Messias aan"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninevé (Assirië)",
+    "book": "2 Konings 17 · Jona",
+    "today": "Mosul, Irak vandag",
+    "note": "Deur elke waarskuwing te verontagsaam, val die noorde eerste.",
+    "events": [
+     "Ninevé, die hoofstad van Assirië",
+     "Die noordelike koninkryk val voor Assirië (722 v.C.)",
+     "Jona word na Ninevé gestuur"
+    ]
+   },
+   "babylon": {
+    "name": "Babel",
+    "book": "2 Konings 25 · Daniël · Eségiël",
+    "today": "Hillah, Irak vandag",
+    "note": "Die donkerste nag — tog bly die belofte van herstel.",
+    "events": [
+     "Jerusalem val, die tempel word verbrand (586 v.C.)",
+     "Juda word na Babel weggevoer",
+     "Daniël en Eségiël — geloof en visioene in ballingskap"
+    ]
+   },
+   "susa": {
+    "name": "Susan (Persië)",
+    "book": "Ester · Nehemía",
+    "today": "Shush, Iran vandag",
+    "note": "Selfs in die hart van ’n heidense ryk bewaar God sy volk.",
+    "events": [
+     "Persië verower Babel",
+     "Ester red die Jode van uitwissing",
+     "Nehemía bid voor die koning en word gestuur"
+    ]
+   },
+   "return": {
+    "name": "Terugkeer na Jerusalem",
+    "book": "Esra · Nehemía · Maleági",
+    "today": "Jerusalem vandag",
+    "note": "Hulle keer terug en herbou — maar geen koning het gekom nie. Hulle wag op die Messias.",
+    "events": [
+     "Drie golwe van terugkeer deur die bevel van Kores (Serubbábel 538 · Esra 458 · Nehemía 444)",
+     "Die tempel word herbou en Jerusalem se mure herstel",
+     "Maleági — die OT sluit af: “Kyk, Ek stuur my boodskapper”"
+    ]
+   }
+  },
+  "labels": [
+   "Middellandse See",
+   "Mesopotámië",
+   "Arabiese Woestyn",
+   "Egipte"
+  ],
+  "journeys": {
+   "flow": "Die verlossingsverhaal"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Matthéüs 1–2 · Lukas 2",
+    "today": "Betlehem vandag",
+    "note": "Die beloofde Messias kom na die stad van Dawid — die Woord wat vlees geword het.",
+    "events": [
+     "Gebore in Betlehem, die stad van Dawid",
+     "Engele kondig die nuus aan die herders aan",
+     "Die wyse manne kom om Hom te aanbid"
+    ]
+   },
+   "nazareth": {
+    "name": "Násaret",
+    "book": "Lukas 2 · 4",
+    "today": "Násaret vandag",
+    "note": "God groei as mens op in ’n gewone dorp.",
+    "events": [
+     "Grootgemaak in ’n timmerman se huis",
+     "Op twaalf, terwyl Hy in die tempel vra en antwoord",
+     "Later verwerp in sy tuisdorp se sinagoge"
+    ]
+   },
+   "jordan": {
+    "name": "Jordaanrivier",
+    "book": "Matthéüs 3–4",
+    "today": "die laer Jordaan vandag",
+    "note": "Sy openbare bediening begin — die hemel beseël Hom as die Seun.",
+    "events": [
+     "Gedoop deur Johannes",
+     "Die Gees daal neer soos ’n duif — “Dit is my geliefde Seun”",
+     "Hy oorwin Satan se drie versoekings in die woestyn"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Johannes 2",
+    "today": "Kafr Kanna vandag",
+    "note": "In sy eerste teken openbaar Hy sy heerlikheid.",
+    "events": [
+     "’n Gas by ’n bruilof",
+     "Water in wyn verander — sy eerste teken",
+     "Sy dissipels glo in Hom"
+    ]
+   },
+   "sychar": {
+    "name": "Sigar (Samaría)",
+    "book": "Johannes 2–4",
+    "today": "naby Nablus vandag",
+    "note": "Die pad van die vroeë bediening — deur Jerusalem en verder na die verafte Samaría.",
+    "events": [
+     "Hy reinig die tempel in Jerusalem",
+     "Snags, Nikodémus — “julle moet weergebore word”",
+     "Lewende water vir ’n Samaritaanse vrou"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapérnaüm",
+    "book": "Matthéüs 4–13 · Markus 1–4",
+    "today": "die Galiléa-oewer vandag",
+    "note": "Die tuisbasis van die Galilése bediening — roeping, onderrig en teenstand kom hier saam.",
+    "events": [
+     "Hy roep die vissers en vestig Hom hier",
+     "Die Bergpredikasie — “Salig is die wat arm van gees is”",
+     "Gelykenisse van die koninkryk — en groeiende teenstand"
+    ]
+   },
+   "galilee": {
+    "name": "See van Galiléa",
+    "book": "Markus 4 · 6 · Johannes 6",
+    "today": "die Kinneretmeer vandag",
+    "note": "Met mag oor die natuur wys Hy wie Hy is.",
+    "events": [
+     "“Swyg, wees stil” — Hy stil die storm",
+     "Voed 5 000 met vyf brode en twee visse",
+     "Loop op die water"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesaréa-Filippi",
+    "book": "Matthéüs 16–17",
+    "today": "Banias vandag",
+    "note": "Die dissipels begryp dat Hy die Christus is, en die weg van die kruis gaan oop.",
+    "events": [
+     "Petrus se belydenis — “U is die Christus, die Seun van die lewende God”",
+     "Hy kondig sy dood en opstanding vir die eerste keer aan",
+     "Verheerlik in heerlikheid op die berg"
+    ]
+   },
+   "jericho": {
+    "name": "Jérigo",
+    "book": "Lukas 18–19",
+    "today": "Jérigo vandag",
+    "note": "Op die pad op na Jerusalem, soek Hy die verlorenes.",
+    "events": [
+     "Hy gee die blinde Bartiméüs sy gesig",
+     "Hy roep Saggéüs die tollenaar",
+     "“Die Seun van die mens het gekom om te soek en te red wat verlore is”"
+    ]
+   },
+   "bethany": {
+    "name": "Betánië",
+    "book": "Johannes 11–12",
+    "today": "al-Eizariya vandag",
+    "note": "Hy wys sy mag oor die dood aan die vooraand van sy laaste week.",
+    "events": [
+     "Hy wek Lasarus op uit die graf — “Ek is die opstanding en die lewe”",
+     "Maria salf Hom vir sy begrafnis",
+     "Hierdie teken verhard die sameswering om Hom dood te maak"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Matthéüs 21–28 · Lukas 24 · Handelinge 1",
+    "today": "Jerusalem vandag",
+    "note": "Die hoogtepunt waarheen die hele Bybel wys — kruis, opstanding, hemelvaart.",
+    "events": [
+     "Die intog in triomf; Hy keer weer die tafels in die tempel om",
+     "By die laaste maaltyd was Hy die dissipels se voete",
+     "Hy sterf aan die kruis",
+     "Op die derde dag opgewek, daarna opgevaar"
+    ]
+   }
+  },
+  "labels": [
+   "Middellandse See",
+   "Galiléa",
+   "Samaría",
+   "Judéa",
+   "Dekápolis",
+   "Peréa",
+   "Dooie See"
+  ],
+  "journeys": {
+   "life": "Die pad van Jesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiochíë",
+    "book": "Handelinge 13 · 15",
+    "today": "Antakya, Turkye vandag",
+    "note": "Die uitstuurkerk waar die heidensending begin en waarheen dit terugkeer.",
+    "events": [
+     "In gebed sonder die Gees Bárnabas en Saulus af",
+     "Die kerk waar gelowiges vir die eerste keer ‘Christene’ genoem is",
+     "Die vertrekpunt van die 1e, 2e en 3e reis"
+    ]
+   },
+   "seleucia": {
+    "name": "Seléucië",
+    "book": "Handelinge 13:4",
+    "today": "Turkye vandag",
+    "note": "Antiochíë se hawe — hulle vaar uit na Ciprus.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Sálamis (Ciprus)",
+    "book": "Handelinge 13:5",
+    "today": "Ciprus vandag",
+    "note": "Die eerste halte op Ciprus — prediking in die sinagoges.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Handelinge 13:6-12",
+    "today": "Ciprus vandag",
+    "note": "Mag word getoon teen dié wat die evangelie teëstaan.",
+    "events": [
+     "Élimas die towenaar word met blindheid geslaan",
+     "Sérgius Paulus die goewerneur kom tot geloof",
+     "Van hier af neem ‘Paulus’ die leiding"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Handelinge 13:13",
+    "today": "Antalya, Turkye vandag",
+    "note": "’n Hawe in Pamfílië — hier draai Johannes Markus om.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiochíë in Pisídië",
+    "book": "Handelinge 13:14-50",
+    "today": "Yalvaç, Turkye vandag",
+    "note": "Die evangelie breek oop na die heidene toe.",
+    "events": [
+     "’n Lang prediking van die verlossingsgeskiedenis in die sinagoge",
+     "Baie heidene verbly hulle en ontvang die woord",
+     "Uitgedryf deur teenstand"
+    ]
+   },
+   "iconium": {
+    "name": "Ikónium",
+    "book": "Handelinge 14:1-7",
+    "today": "Konya, Turkye vandag",
+    "note": "Baie kom tot geloof, maar vervolging dryf hulle verder.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listre",
+    "book": "Handelinge 14:8-20",
+    "today": "Turkye vandag",
+    "note": "As ’n god begroet, daarna gestenig.",
+    "events": [
+     "Genees ’n man wat van sy geboorte af kreupel was",
+     "Die skare probeer aan hulle as gode offer",
+     "Gestenig en vir dood gelaat, staan hy op"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Handelinge 14:20-21",
+    "today": "Turkye vandag",
+    "note": "Baie dissipels word gemaak; hulle keer op hul spoor terug om die kerke te versterk.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Handelinge 16:8-10",
+    "today": "Turkye vandag",
+    "note": "Die keerpunt waar die evangelie vir die eerste keer na Europa op pad is.",
+    "events": [
+     "’n Visioen van ’n man van Macedónië",
+     "“Kom oor na Macedónië en help ons”",
+     "Hulle steek dadelik oor na Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filíppi",
+    "book": "Handelinge 16 · Filippense",
+    "today": "noordelike Griekeland vandag",
+    "note": "Europa se eerste kerk — die evangelie triomfeer selfs in die tronk.",
+    "events": [
+     "Lídia, ’n handelaar in purper, kom tot geloof",
+     "’n Waarsêende slavin word bevry",
+     "Middernag-lofsange, ’n aardbewing, die tronkbewaarder se huis gered"
+    ]
+   },
+   "thess": {
+    "name": "Thessaloníka",
+    "book": "Handelinge 17 · 1–2 Thessalonicense",
+    "today": "Thessaloniki, Griekeland vandag",
+    "note": "Die woord skud die stad en die teenstand kook oor.",
+    "events": [
+     "Redeneer drie sabbatte lank in die sinagoge",
+     "“Hierdie mense wat die wêreld in opskudding bring”",
+     "Hulle glip snags weg"
+    ]
+   },
+   "berea": {
+    "name": "Beréa",
+    "book": "Handelinge 17:10-15",
+    "today": "Veria, Griekeland vandag",
+    "note": "Die ‘edeles’ wat die woord vir hulleself ondersoek het.",
+    "events": [
+     "Hulle ontvang die woord met gretigheid",
+     "Daagliks ondersoek hulle die Skrifte om dit te toets",
+     "Baie kom tot geloof"
+    ]
+   },
+   "athens": {
+    "name": "Athéne",
+    "book": "Handelinge 17:16-34",
+    "today": "Athene, Griekeland vandag",
+    "note": "In die stad van die filosowe verkondig hy die ‘onbekende God’.",
+    "events": [
+     "Geprikkel deur ’n stad vol afgode",
+     "Op die Areópagus verkondig hy die Skepper en die opstanding",
+     "Bespot, tog kom ’n paar tot geloof"
+    ]
+   },
+   "corinth": {
+    "name": "Korinthe",
+    "book": "Handelinge 18 · 1–2 Korinthiërs",
+    "today": "Griekeland vandag",
+    "note": "Hy bly ’n jaar en ses maande en plant ’n kerk in ’n stad vol losbandigheid.",
+    "events": [
+     "Maak tente saam met Aquila en Priscilla",
+     "“Wees nie bevrees nie… want Ek is met jou”",
+     "Baie Korinthiërs kom tot geloof en word gedoop"
+    ]
+   },
+   "ephesus": {
+    "name": "Éfese",
+    "book": "Handelinge 19 · Efésiërs",
+    "today": "Selçuk, Turkye vandag",
+    "note": "Die hart van die derde reis — die woord versprei oor Asië.",
+    "events": [
+     "Daaglikse onderrig vir twee jaar in die saal van Tiránnus",
+     "Towerboeke verbrand; kragtige dade",
+     "Die silwersmid Demétrius begin ’n oproer"
+    ]
+   },
+   "miletus": {
+    "name": "Miléte",
+    "book": "Handelinge 20:17-38",
+    "today": "Turkye vandag",
+    "note": "’n Afskeid vol trane van die ouderlinge van Éfese.",
+    "events": [
+     "“Sorg vir die kerk wat Hy met sy eie bloed verkry het”",
+     "Die ouderlinge ween, omdat hulle weet hulle sal hom nie weer sien nie"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesaréa",
+    "book": "Handelinge 23–26",
+    "today": "Israel se kus vandag",
+    "note": "Twee jaar lank verdedig hy die evangelie voor goewerneurs en ’n koning.",
+    "events": [
+     "Verhore voor die goewerneurs Felix en Festus",
+     "Sy verdediging voor koning Agríppa",
+     "“Ek beroep my op die keiser” — voort na Rome"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Handelinge 21–23",
+    "today": "Jerusalem vandag",
+    "note": "In die tempel gegryp, begin sy pad as ’n gevangene.",
+    "events": [
+     "Deur die skare in die tempel gegryp",
+     "Verdedig homself voor die Raad",
+     "As Romeinse burger onder bewaking na Cesaréa gestuur"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Handelinge 27:5-6",
+    "today": "Demre, Turkye vandag",
+    "note": "Hulle gaan oor na ’n Alexandrynse skip op pad na Rome.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Goeie Hawens (Kreta)",
+    "book": "Handelinge 27:8-12",
+    "today": "Kreta vandag",
+    "note": "Paulus se waarskuwing om op te hou vaar word nie gehoor nie.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Titus",
+    "today": "Kreta vandag",
+    "note": "Ná sy vrylating, die eiland waar hy Titus laat om die kerke in orde te bring.",
+    "events": [
+     "Laat Titus om in elke stad ouderlinge aan te stel",
+     "Roep om onberispelike, getroue leiers",
+     "Skryf die brief aan Titus"
+    ]
+   },
+   "malta": {
+    "name": "Melíte",
+    "book": "Handelinge 27–28",
+    "today": "Malta vandag",
+    "note": "Deur storm en skipbreuk hou God se belofte stand.",
+    "events": [
+     "Die ‘noordooster’ vergaan die skip, tog oorleef al 276",
+     "Gebyt deur ’n adder, bly hy ongedeerd",
+     "Hy genees die siekes van die eiland"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakúse",
+    "book": "Handelinge 28:12",
+    "today": "Sisilië, Italië vandag",
+    "note": "Hulle bly drie dae op Sisilië.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Putéoli",
+    "book": "Handelinge 28:13-14",
+    "today": "Pozzuoli, Italië vandag",
+    "note": "Hulle land in Italië en word deur medegelowiges verwelkom.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rome",
+    "book": "Handelinge 28 · Gevangenskapsbriewe · 2 Timótheüs",
+    "today": "Rome, Italië vandag",
+    "note": "Die evangelie bereik op die ou end die hart van die ryk — nie ’n einde nie maar ’n begin.",
+    "events": [
+     "Twee jaar onder huisarres, terwyl hy die koninkryk vrymoedig verkondig",
+     "Van hier skryf hy die Gevangenskapsbriewe (Ef·Filip·Kol·Filém)",
+     "Later weer gevange, skryf hy 2 Timótheüs en word hy as martelaar gedood — “Ek het die goeie stryd gestry, ek het die wedloop voleindig”"
+    ]
+   }
+  },
+  "labels": [
+   "Middellandse See",
+   "Egeïese See",
+   "Klein-Asië",
+   "Macedónië",
+   "Italië"
+  ],
+  "journeys": {
+   "j1": "Eerste reis",
+   "j2": "Tweede reis",
+   "j3": "Derde reis",
+   "rome": "Vierde reis · na Rome",
+   "j5": "Vyfde reis · ná die vrylating"
+  }
+ }
+}

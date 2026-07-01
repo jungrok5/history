@@ -1,0 +1,636 @@
+{
+ "menuName": "Azərbaycan",
+ "htmlLang": "az",
+ "dir": "ltr",
+ "locale": "az-AZ",
+ "brand": "Müqəddəs Kitab bir baxışda",
+ "docTitle": "Müqəddəs Kitab xəritə ilə · Müqəddəs Kitab bir baxışda",
+ "metaDesc": "Əhdi-Ətiqin tarix xəttini, İsanın həyatını və Paulun səfərlərini real xəritədə izlə — Müqəddəs Kitab real yerlərdə baş verdi.",
+ "s": {
+  "kicker": "Müqəddəs Kitab bir baxışda · Xəritələr",
+  "title": "Müqəddəs Kitab xəritə ilə",
+  "verse": "“Rəbbimiz İsa Məsihin qüdrətini və zühurunu sizə bildirərkən uydurma əfsanələrə əsaslanmadıq. Amma öz gözümüzlə Onun ululuğunun şahidləri olduq.” (2 Peter 1:16)",
+  "purpose": "Müqəddəs Kitab əfsanə deyil. Bu, real yerlərdə, tarixlərdə və adların üzərində yeriyən insanların qeydidir. O yolları xəritədə, zaman ardıcıllığı ilə izlə — bir nöqtəyə toxun, yaxud onu addım-addım keçmək üçün ▶ düyməsinə bas.",
+  "ot_kick": "① Əhdi-Ətiq — zaman boyu",
+  "ot_h": "Yaradılışdan Yerusəlimə qayıdışa qədər",
+  "ot_lead": "Tək bir səfər deyil, yaradılışdan başlayan qurtuluş-tarixinin axını: yaradılış və süqut → daşqın və Babil → çağırış (İbrahim) → vəd edilən torpaq → Çıxış → səhra → fəth → padşahlıq → parçalanma → sürgün → qayıdış.",
+  "je_kick": "② Əhdi-Cədid — İsanın həyatı",
+  "je_h": "Bet-Lexemdən Yerusəlimə qədər",
+  "je_lead": "İsanın həyatını Müjdələrin danışdığı kimi, ardıcıllıqla izlə — Bet-Lexemdə doğulmasından vəftizinə və Qalileya xidmətinə, Samariyadan keçərək Yerusəlimdə çarmıxa, dirilməyə və göyə qalxmaya qədər.",
+  "pa_kick": "③ Əhdi-Cədid — Paulun səfərləri",
+  "pa_h": "Antakyadan yer üzünün qurtaracağınadək — Romaya",
+  "pa_lead": "Yerusəlimdə Əllinci gündən başlayaraq Müjdənin Yəhudeyadan kənara necə yayıldığı — Kiçik Asiya və Avropadan imperiyanın ürəyinədək. Beş səfərdən birini seç (1-ci · 2-ci · 3-cü + Romaya səyahət + azad edildikdən sonra) və yolda yazılan məktublarla birlikdə Həvarilərin İşlərindəki hadisələri izlə.",
+  "foot": "Mənbələr · Yerlər Müqəddəs Kitab mətninə və standart Müqəddəs Kitab coğrafiyasına əsaslanır (lazım olan yerdə müasir adlarla). Sahil xətləri, çaylar və göllər açıq coğrafi məlumatlardan (Natural Earth) götürülüb və sadələşdirilib.",
+  "contact": "Suallar · rəylər — <a id=\"contact\" class=\"mail\">Bizə yaz</a>",
+  "play": "Oynat",
+  "pause": "Dayandır",
+  "today": "Bu gün:",
+  "verseCite": "2 Peter 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Yaradılış · Süqut)",
+    "book": "Yaradılış 1–3",
+    "today": "bu gün Dəclə–Fərat bölgəsi",
+    "note": "«Çox yaxşı» yaradılan bir dünyaya günah girir və Allahla insan arasındakı bağ qırılır.",
+    "events": [
+     "Altı günlük yaradılış — «çox yaxşı idi»",
+     "Allahın surətində yaradılan insan",
+     "Süqut və Edendən qovulma",
+     "İlk Müjdə vədi — «qadının övladı ilanın başından vuracaq»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Daşqın)",
+    "book": "Yaradılış 6–9",
+    "today": "bu gün şərqi Türkiyədə Ararat dağı",
+    "note": "Allah günahla dolu bir dünyanı mühakimə edir, lakin tək bir ailə vasitəsilə həyatı qoruyur.",
+    "events": [
+     "Pozğunluqla dolan bir dünya",
+     "Daşqın və Nuhun gəmisi",
+     "Göy qurşağı əhdi — «bir daha daşqınla məhv olmayacaq»"
+    ]
+   },
+   "babel": {
+    "name": "Babil qülləsi",
+    "book": "Yaradılış 11",
+    "today": "bu gün İraq (Şinar düzənliyi)",
+    "note": "Göyə uzanan qürura qarşı Allah onların dilini və xalqları yer üzünə səpələyir.",
+    "events": [
+     "«Gəlin özümüzə bir şəhər və qüllə… tikək, özümüzə ad çıxaraq»",
+     "Allah onların dilini qarışdırır",
+     "Xalqlar yer üzünə səpələnir (Şinar — sonralar Babil)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Yaradılış 12",
+    "today": "bu gün cənubi İraq",
+    "note": "Müqəddəs Kitabın qurtuluş hekayəsi tək bir adamın çağırışı ilə başlayır.",
+    "events": [
+     "Allah İbramı Xaldeylilərin Ur şəhərindən çağırır",
+     "«Səndən böyük bir millət törədəcəyəm… bütün tayfalar sənin vasitənlə xeyir-dua alacaq»",
+     "İmanla öz vətənini tərk edir"
+    ]
+   },
+   "haran": {
+    "name": "Xaran",
+    "book": "Yaradılış 12",
+    "today": "bu gün cənubi Türkiyə",
+    "note": "Yolda, vəd edilən torpağa doğru çağırışa cavab verərək.",
+    "events": [
+     "Terahın ailəsi Xaranda məskunlaşır",
+     "Terah ölür",
+     "İbram 75 yaşında Kənana yola düşür"
+    ]
+   },
+   "shechem": {
+    "name": "Şekem · Kənan",
+    "book": "Yaradılış 12–50",
+    "today": "bu gün Nablus",
+    "note": "Vəd edilən torpaqda bir ailə qurulur və əhd nəsillər boyu ötürülür.",
+    "events": [
+     "Kənana giriş, ilk qurbangah — «bu torpağı sənin nəslinə verirəm»",
+     "Əhd (Yaradılış 15) · İshaq · Yaqub",
+     "Yaqubun on iki oğlu — on iki qəbilənin kökü"
+    ]
+   },
+   "egypt": {
+    "name": "Misir (Qoşen)",
+    "book": "Yaradılış 37–50 · Çıxış 1",
+    "today": "bu gün Misirdə Nil deltası",
+    "note": "Bir ailə böyük bir millətə — sonra isə qul millətə çevrilir.",
+    "events": [
+     "Satılan Yusif Misirdə hakimiyyətə yüksəlir",
+     "Yaqubun bütün ailəsi aclıqdan qaçaraq enir",
+     "Böyüyən İsrail milləti qul edilir"
+    ]
+   },
+   "sinai": {
+    "name": "Sina dağı",
+    "book": "Çıxış · Levililər",
+    "today": "bu gün Sina yarımadası",
+    "note": "Əhdi-Ətiqin əsas qurtuluşu — qullar Allahın Öz xalqı olur.",
+    "events": [
+     "On bəla və Pasxa quzusu",
+     "Qırmızı dəniz yarılır və onlar keçir",
+     "On Əmr, Qanun, ibadət çadırı və qurbanlar"
+    ]
+   },
+   "kadesh": {
+    "name": "Qadeş (səhra)",
+    "book": "Saylar · Qanunun təkrarı",
+    "today": "bu gün Sina–Negev səhrası",
+    "note": "İmansızlıq bir nəslə torpağa baha başa gəlir — lakin Allah onlarla qalır.",
+    "events": [
+     "On iki casus — lakin xalq güvənməkdən imtina edir",
+     "Səhrada 38 il — manna, bulud və od",
+     "Moav düzənliyində Musanın son moizəsi (Qanunun təkrarı)"
+    ]
+   },
+   "jericho": {
+    "name": "Yerixo",
+    "book": "Yeşua",
+    "today": "bu gün Yerixo",
+    "note": "Nəhayət vəd edilən torpağa girib onu alırlar.",
+    "events": [
+     "İordan çayı yarılır və xalq keçir",
+     "Yerixonun divarları yıxılır",
+     "Kənanın fəthi və torpağın bölünməsi"
+    ]
+   },
+   "shiloh": {
+    "name": "Şilo (Hakimlər)",
+    "book": "Hakimlər · Rut",
+    "today": "bu gün Xirbet Seylun",
+    "note": "Padşah olmadığından hərə öz istədiyini edir — əsl padşah lazımdır.",
+    "events": [
+     "İbadət çadırı Şiloda qurulur",
+     "Günah–zülm–qurtuluş dövranı (Devora, Gideon, Şimşon)",
+     "Rut — qaranlıq günlərdə sədaqət, Davudun nəslində"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusəlim · Birləşmiş padşahlıq",
+    "book": "1–2 Şamuel · 1 Padşahlar",
+    "today": "bu gün Yerusəlim",
+    "note": "İsrailin qızıl dövrü — və əbədi bir padşahın vədi.",
+    "events": [
+     "İlk padşah Şaul, sonra Davud və Qolyat",
+     "Davudla əhd — «taxtın əbədi» (2 Şamuel 7)",
+     "Süleyman Yerusəlimdə məbədi tikir"
+    ]
+   },
+   "samaria": {
+    "name": "Samariya · Parçalanmış padşahlıq",
+    "book": "Padşahlar · Peyğəmbərlər",
+    "today": "bu gün Sebastiya",
+    "note": "Peyğəmbərlər fəryad edərkən padşahlıq parçalanır və tənəzzül edir.",
+    "events": [
+     "Süleymandan sonra Yəhuda və İsrailə bölünmə",
+     "Təkrarlanan bütpərəstlik",
+     "İlyas, Yeşaya, Yeremya «geri qayıdın» deyir — və Məsihi xəbər verir"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineva (Aşşur)",
+    "book": "2 Padşahlar 17 · Yunus",
+    "today": "bu gün İraqda Mosul",
+    "note": "Hər xəbərdarlığa məhəl qoymayan şimal əvvəl yıxılır.",
+    "events": [
+     "Nineva, Aşşurun paytaxtı",
+     "Şimal padşahlığı Aşşura təslim olur (e.ə. 722)",
+     "Yunus Ninevaya göndərilir"
+    ]
+   },
+   "babylon": {
+    "name": "Babil",
+    "book": "2 Padşahlar 25 · Daniel · Yezekel",
+    "today": "bu gün İraqda Hillə",
+    "note": "Ən qaranlıq gecə — lakin bərpa vədi qalır.",
+    "events": [
+     "Yerusəlim yıxılır, məbəd yandırılır (e.ə. 586)",
+     "Yəhuda Babilə sürülür",
+     "Daniel və Yezekel — sürgündə iman və görüntülər"
+    ]
+   },
+   "susa": {
+    "name": "Şuşan (Fars)",
+    "book": "Ester · Nehemya",
+    "today": "bu gün İranda Şuş",
+    "note": "Bütpərəst imperiyanın ürəyində belə Allah Öz xalqını qoruyur.",
+    "events": [
+     "Fars Babili devirir",
+     "Ester yəhudiləri məhv olmaqdan xilas edir",
+     "Nehemya padşahın önündə dua edir və göndərilir"
+    ]
+   },
+   "return": {
+    "name": "Yerusəlimə qayıdış",
+    "book": "Üzeyir · Nehemya · Malaki",
+    "today": "bu gün Yerusəlim",
+    "note": "Qayıdıb yenidən tikirlər — lakin hələ padşah gəlməyib. Onlar Məsihi gözləyir.",
+    "events": [
+     "Kirin fərmanı ilə üç dalğada qayıdış (Zerubbabil e.ə. 538 · Üzeyir 458 · Nehemya 444)",
+     "Məbəd yenidən tikilir və Yerusəlimin divarları bərpa olunur",
+     "Malaki — Əhdi-Ətiq bitir: «Mən Öz elçimi göndərirəm»"
+    ]
+   }
+  },
+  "labels": [
+   "Aralıq dənizi",
+   "Mesopotamiya",
+   "Ərəbistan səhrası",
+   "Misir"
+  ],
+  "journeys": {
+   "flow": "Qurtuluş hekayəsi"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bet-Lexem",
+    "book": "Matta 1–2 · Luka 2",
+    "today": "bu gün Bet-Lexem",
+    "note": "Vəd edilən Məsih Davudun şəhərinə gəlir — bəşər olan Kəlam.",
+    "events": [
+     "Davudun şəhəri Bet-Lexemdə doğulur",
+     "Mələklər çobanlara müjdə verir",
+     "Müdriklər səcdə etməyə gəlir"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Luka 2 · 4",
+    "today": "bu gün Nazaret",
+    "note": "Allah adi bir şəhərdə bir insan kimi böyüyür.",
+    "events": [
+     "Bir dülgərin evində böyüyür",
+     "On iki yaşında məbəddə soruşur və cavab verir",
+     "Sonralar öz şəhərinin sinaqoqunda rədd edilir"
+    ]
+   },
+   "jordan": {
+    "name": "İordan çayı",
+    "book": "Matta 3–4",
+    "today": "bu gün aşağı İordan",
+    "note": "Onun açıq xidməti başlayır — göy Onu Oğul olaraq möhürləyir.",
+    "events": [
+     "Yəhya tərəfindən vəftiz olunur",
+     "Ruh göyərçin kimi enir — «Bu Mənim sevimli Oğlumdur»",
+     "Səhrada Şeytanın üç sınağına qalib gəlir"
+    ]
+   },
+   "cana": {
+    "name": "Qana",
+    "book": "Yəhya 2",
+    "today": "bu gün Kəfər Kanna",
+    "note": "İlk əlamətində izzətini açır.",
+    "events": [
+     "Bir toyda qonaq",
+     "Su şəraba çevrilir — Onun ilk əlaməti",
+     "Şagirdləri Ona iman edir"
+    ]
+   },
+   "sychar": {
+    "name": "Sixar (Samariya)",
+    "book": "Yəhya 2–4",
+    "today": "bu gün Nablus yaxınlığı",
+    "note": "İlk xidmət yolu — Yerusəlimdən keçərək həqir görülən Samariyaya.",
+    "events": [
+     "Yerusəlimdə məbədi təmizləyir",
+     "Gecə vaxtı Nikodim — «yenidən doğulmalısan»",
+     "Samariyalı qadına dirilik suyu"
+    ]
+   },
+   "capernaum": {
+    "name": "Kefernahum",
+    "book": "Matta 4–13 · Mark 1–4",
+    "today": "bu gün Qalileya göl sahili",
+    "note": "Qalileya xidmətinin əsas mərkəzi — çağırış, təlim və müxalifət hamısı burada birləşir.",
+    "events": [
+     "Balıqçıları çağırır və burada məskən salır",
+     "Dağdakı Vəz — «Nə bəxtiyardır ruhən yoxsullar»",
+     "Padşahlıq məsəlləri — və artan müxalifət"
+    ]
+   },
+   "galilee": {
+    "name": "Qalileya gölü",
+    "book": "Mark 4 · 6 · Yəhya 6",
+    "today": "bu gün Kinneret gölü",
+    "note": "Təbiət üzərində qüdrəti ilə kim olduğunu göstərir.",
+    "events": [
+     "«Sakit ol, dincəl» — fırtınanı sakitləşdirir",
+     "Beş çörək və iki balıqla 5000 nəfəri doyuzdurur",
+     "Su üstündə yeriyir"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Filip Qeysəriyyəsi",
+    "book": "Matta 16–17",
+    "today": "bu gün Banias",
+    "note": "Şagirdlər Onun Məsih olduğunu dərk edir və çarmıx yolu açılır.",
+    "events": [
+     "Peterin etirafı — «Sən var olan Allahın Oğlu Məsihsən»",
+     "İlk dəfə ölümünü və dirilməsini xəbər verir",
+     "Dağda izzətdə dəyişikliyə uğrayır"
+    ]
+   },
+   "jericho": {
+    "name": "Yerixo",
+    "book": "Luka 18–19",
+    "today": "bu gün Yerixo",
+    "note": "Yerusəlimə qalxan yolda itkini axtarır.",
+    "events": [
+     "Kor Bartimaya gözlərini açır",
+     "Vergiyığan Zakkayı çağırır",
+     "«Bəşər Oğlu itkini axtarıb xilas etmək üçün gəldi»"
+    ]
+   },
+   "bethany": {
+    "name": "Bet-Anya",
+    "book": "Yəhya 11–12",
+    "today": "bu gün əl-Eyzəriyyə",
+    "note": "Son həftəsinin ərəfəsində ölüm üzərində hakimiyyətini göstərir.",
+    "events": [
+     "Lazarı qəbirdən dirildir — «dirilmə və həyat Mənəm»",
+     "Məryəm Onu dəfn üçün məsh edir",
+     "Bu əlamət Onu öldürmək sui-qəsdini gücləndirir"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusəlim",
+    "book": "Matta 21–28 · Luka 24 · Həvarilərin İşləri 1",
+    "today": "bu gün Yerusəlim",
+    "note": "Bütün Müqəddəs Kitabın işarə etdiyi zirvə — çarmıx, dirilmə, göyə qalxma.",
+    "events": [
+     "Təntənəli giriş; məbəd masalarını yenidən çevirir",
+     "Son Şam yeməyində şagirdlərin ayaqlarını yuyur",
+     "Çarmıxda ölür",
+     "Üçüncü gün dirilir, sonra göyə qalxır"
+    ]
+   }
+  },
+  "labels": [
+   "Aralıq dənizi",
+   "Qalileya",
+   "Samariya",
+   "Yəhudeya",
+   "Dekapolis",
+   "Pereya",
+   "Ölü dəniz"
+  ],
+  "journeys": {
+   "life": "İsanın yolu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antakya",
+    "book": "Həvarilərin İşləri 13 · 15",
+    "today": "bu gün Türkiyədə Antakya",
+    "note": "Bütpərəstlərə missiyanın başladığı və qayıtdığı göndərən kilsə.",
+    "events": [
+     "Dua zamanı Ruh Barnaba ilə Şaulu ayırır",
+     "İmanlıların ilk dəfə «xristian» adlandırıldığı kilsə",
+     "1-ci, 2-ci və 3-cü səfərlərin başlanğıc nöqtəsi"
+    ]
+   },
+   "seleucia": {
+    "name": "Selevkiya",
+    "book": "Həvarilərin İşləri 13:4",
+    "today": "bu gün Türkiyə",
+    "note": "Antakyanın limanı — Kiprə yelkən açırlar.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Kipr)",
+    "book": "Həvarilərin İşləri 13:5",
+    "today": "bu gün Kipr",
+    "note": "Kiprdə ilk dayanacaq — sinaqoqlarda təbliğ.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Həvarilərin İşləri 13:6-12",
+    "today": "bu gün Kipr",
+    "note": "Müjdəyə qarşı çıxanlara qarşı qüdrət göstərilir.",
+    "events": [
+     "Sehrbaz Elima kor olur",
+     "Vali Sergi Paul iman edir",
+     "Buradan «Paul» öncülük edir"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Həvarilərin İşləri 13:13",
+    "today": "bu gün Türkiyədə Antalya",
+    "note": "Pamfiliyada bir liman — burada Yəhya Mark geri qayıdır.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidiya Antakyası",
+    "book": "Həvarilərin İşləri 13:14-50",
+    "today": "bu gün Türkiyədə Yalvaç",
+    "note": "Müjdə bütpərəstlərə doğru açılır.",
+    "events": [
+     "Sinaqoqda qurtuluş tarixi haqqında uzun moizə",
+     "Bir çox bütpərəst sevinib kəlamı qəbul edir",
+     "Müxalifət tərəfindən qovulur"
+    ]
+   },
+   "iconium": {
+    "name": "Konya",
+    "book": "Həvarilərin İşləri 14:1-7",
+    "today": "bu gün Türkiyədə Konya",
+    "note": "Çoxu iman edir, lakin təqib onları irəli getməyə məcbur edir.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Həvarilərin İşləri 14:8-20",
+    "today": "bu gün Türkiyə",
+    "note": "Allah kimi alqışlanır, sonra daşqalaq edilir.",
+    "events": [
+     "Anadangəlmə şikəst bir adamı sağaldır",
+     "Camaat onlara allah kimi qurban kəsmək istəyir",
+     "Daşqalaq edilib ölü sayılır, lakin qalxır"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Həvarilərin İşləri 14:20-21",
+    "today": "bu gün Türkiyə",
+    "note": "Çoxlu şagird yetişir; kilsələri möhkəmləndirmək üçün geri qayıdırlar.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Həvarilərin İşləri 16:8-10",
+    "today": "bu gün Türkiyə",
+    "note": "Müjdənin ilk dəfə Avropaya yönəldiyi dönüş nöqtəsi.",
+    "events": [
+     "Makedoniyalı bir adamın görüntüsü",
+     "«Bizə kömək etməyə gəl»",
+     "Dərhal Avropaya keçirlər"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Həvarilərin İşləri 16 · Filipililərə",
+    "today": "bu gün şimali Yunanıstan",
+    "note": "Avropanın ilk kilsəsi — Müjdə həbsxanada belə qələbə çalır.",
+    "events": [
+     "Tünd qırmızı parça satan Lidiya iman edir",
+     "Falçı bir kəniz azad olur",
+     "Gecə yarısı ilahilər, zəlzələ, zindanbanın evi xilas olur"
+    ]
+   },
+   "thess": {
+    "name": "Saloniki",
+    "book": "Həvarilərin İşləri 17 · 1–2 Saloniklilərə",
+    "today": "bu gün Yunanıstanda Saloniki",
+    "note": "Kəlam şəhəri silkələyir və müxalifət qaynayır.",
+    "events": [
+     "Sinaqoqda üç Şənbə mübahisə edir",
+     "«Dünyanı alt-üst edənlər»",
+     "Gecə ikən gizlicə gedirlər"
+    ]
+   },
+   "berea": {
+    "name": "Veriya",
+    "book": "Həvarilərin İşləri 17:10-15",
+    "today": "bu gün Yunanıstanda Veriya",
+    "note": "Kəlamı özləri yoxlayan «nəcib» insanlar.",
+    "events": [
+     "Kəlamı böyük həvəslə qəbul edirlər",
+     "Doğruluğunu yoxlamaq üçün hər gün Müqəddəs Yazıları araşdırırlar",
+     "Çoxları iman edir"
+    ]
+   },
+   "athens": {
+    "name": "Afina",
+    "book": "Həvarilərin İşləri 17:16-34",
+    "today": "bu gün Yunanıstanda Afina",
+    "note": "Filosofların şəhərində «naməlum allah»ı elan edir.",
+    "events": [
+     "Bütlərlə dolu şəhər ürəyini sarsıdır",
+     "Areopaqda Yaradan və dirilmə barədə təbliğ edir",
+     "Lağa qoyulur, lakin bir neçəsi iman edir"
+    ]
+   },
+   "corinth": {
+    "name": "Korinf",
+    "book": "Həvarilərin İşləri 18 · 1–2 Korinflilərə",
+    "today": "bu gün Yunanıstan",
+    "note": "Pozğun bir şəhərdə kilsə quraraq bir il yarım qalır.",
+    "events": [
+     "Akila və Priskilla ilə çadır tikir",
+     "«Qorxma… çünki Mən səninləyəm»",
+     "Bir çox korinfli iman edib vəftiz olur"
+    ]
+   },
+   "ephesus": {
+    "name": "Efes",
+    "book": "Həvarilərin İşləri 19 · Efeslilərə",
+    "today": "bu gün Türkiyədə Selçuk",
+    "note": "Üçüncü səfərin ürəyi — kəlam bütün Asiyaya yayılır.",
+    "events": [
+     "Tiran adlı zalda iki il hər gün təlim verir",
+     "Sehr kitabları yandırılır; qüdrətli işlər",
+     "Gümüşçü Dimitri iğtişaş qaldırır"
+    ]
+   },
+   "miletus": {
+    "name": "Milet",
+    "book": "Həvarilərin İşləri 20:17-38",
+    "today": "bu gün Türkiyə",
+    "note": "Efesli ağsaqqallarla göz yaşları içində vidalaşma.",
+    "events": [
+     "«Öz qanı bahasına satın aldığı kilsəyə qayğı göstərin»",
+     "Ağsaqqallar Onu bir daha görməyəcəklərini bilib ağlayır"
+    ]
+   },
+   "caesarea": {
+    "name": "Qeysəriyyə",
+    "book": "Həvarilərin İşləri 23–26",
+    "today": "bu gün İsrail sahili",
+    "note": "İki il valilərin və bir padşahın önündə Müjdəni müdafiə edir.",
+    "events": [
+     "Vali Feliks və Festin önündə mühakimələr",
+     "Padşah Aqrippanın önündə müdafiəsi",
+     "«Qeysərə müraciət edirəm» — Romaya doğru"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusəlim",
+    "book": "Həvarilərin İşləri 21–23",
+    "today": "bu gün Yerusəlim",
+    "note": "Məbəddə tutulur və məhbus kimi yolu başlayır.",
+    "events": [
+     "Məbəddə camaat tərəfindən tutulur",
+     "Ali Şuranın önündə özünü müdafiə edir",
+     "Roma vətəndaşı olduğundan mühafizə altında Qeysəriyyəyə göndərilir"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Həvarilərin İşləri 27:5-6",
+    "today": "bu gün Türkiyədə Demre",
+    "note": "Romaya gedən İsgəndəriyyə gəmisinə keçirlər.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Gözəl Limanlar (Krit)",
+    "book": "Həvarilərin İşləri 27:8-12",
+    "today": "bu gün Krit",
+    "note": "Paulun üzməyi dayandırmaq xəbərdarlığına məhəl qoyulmur.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krit",
+    "book": "Titə",
+    "today": "bu gün Krit",
+    "note": "Azad edildikdən sonra, kilsələri qaydaya salmaq üçün Titusu qoyduğu ada.",
+    "events": [
+     "Hər şəhərdə ağsaqqal təyin etmək üçün Titusu qoyur",
+     "Nöqsansız, sadiq rəhbərlər çağırır",
+     "Titusa məktubu yazır"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Həvarilərin İşləri 27–28",
+    "today": "bu gün Malta",
+    "note": "Fırtına və gəmi qəzasından keçərək, Allahın vədi möhkəm qalır.",
+    "events": [
+     "«Şimal-şərq» küləyi gəmini parçalayır, lakin 276 nəfərin hamısı sağ qalır",
+     "Gürzə vurur, lakin O, sağlam qalır",
+     "Adanın xəstələrini sağaldır"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuza",
+    "book": "Həvarilərin İşləri 28:12",
+    "today": "bu gün İtaliyada Siciliya",
+    "note": "Siciliyada üç gün qalırlar.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Həvarilərin İşləri 28:13-14",
+    "today": "bu gün İtaliyada Pozzuoli",
+    "note": "İtaliyaya çıxırlar və imanlı qardaşlar tərəfindən qarşılanırlar.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Həvarilərin İşləri 28 · Həbsxana məktubları · 2 Timoteyə",
+    "today": "bu gün İtaliyada Roma",
+    "note": "Müjdə nəhayət imperiyanın ürəyinə çatır — son deyil, başlanğıc.",
+    "events": [
+     "İki il ev dustaqlığında, Padşahlığı cəsarətlə elan edir",
+     "Buradan Həbsxana məktublarını yazır (Efes·Filipi·Kolos·Filimon)",
+     "Sonra yenidən həbs olunur, 2 Timoteyə yazır və şəhid olur — «yaxşı mübarizəni apardım, yolu sona çatdırdım»"
+    ]
+   }
+  },
+  "labels": [
+   "Aralıq dənizi",
+   "Egey dənizi",
+   "Kiçik Asiya",
+   "Makedoniya",
+   "İtaliya"
+  ],
+  "journeys": {
+   "j1": "Birinci səfər",
+   "j2": "İkinci səfər",
+   "j3": "Üçüncü səfər",
+   "rome": "Dördüncü səfər · Romaya",
+   "j5": "Beşinci səfər · azad edildikdən sonra"
+  }
+ }
+}

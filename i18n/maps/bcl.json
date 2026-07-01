@@ -1,0 +1,636 @@
+{
+ "menuName": "Bikol",
+ "htmlLang": "bcl",
+ "dir": "ltr",
+ "locale": "bcl-PH",
+ "brand": "An Biblia sa Sarong Pagbukad",
+ "docTitle": "An Biblia Sigun sa Mapa · An Biblia sa Sarong Pagbukad",
+ "metaDesc": "Sundan an daloy nin panahon kan Daan na Tipan, an buhay ni Jesus, asin an mga paglakbay ni Pablo sa sarong tunay na mapa — an Biblia nangyari sa tunay na mga lugar.",
+ "s": {
+  "kicker": "An Biblia sa Sarong Pagbukad · Mga Mapa",
+  "title": "An Biblia Sigun sa Mapa",
+  "verse": "“An ipinahayag mi saindo dapit sa kapangyarihan asin pagdatong ni Jesu-Cristo na satong Kagurangnan bakong gikan sa mga osipon na inimbento sana, huli ta mga saksi kami kan saiyang kamahalan!” (2 Pedro 1:16)",
+  "purpose": "An Biblia bakong mito. Ini sarong rekord nin mga tawo na naglakaw sa tunay na mga lugar, petsa, asin ngaran. Sundan an mga dalan na iyan sa sarong mapa, sa pagkasunod-sunod kan panahon — pindota an sarong punto, o pindota an ▶ tanganing lakawon ini lakdang-lakdang.",
+  "ot_kick": "① Daan na Tipan — sa paglihis kan panahon",
+  "ot_h": "Poon sa paglalang sagkod sa pagpuli sa Jerusalem",
+  "ot_lead": "Bakong sarong byahe sana kundi an daloy kan kasaysayan-kaligtasan poon sa paglalang: paglalang asin pagkahulog → baha asin Babel → sarong pag-apod (Abraham) → an dagang panuga → Eksodo → kaawagan → pananakop → kahadean → pagkabanga → pagkatapok → pagpuli.",
+  "je_kick": "② Bagong Tipan — an buhay ni Jesus",
+  "je_h": "Poon sa Bethlehem sagkod sa Jerusalem",
+  "je_lead": "Sundan an buhay ni Jesus sigun sa pagsaysay kan mga Ebanghelyo, sa pagkasunod-sunod — poon sa saiyang pagkamundag sa Bethlehem paagi sa saiyang pagbunyag asin ministeryo sa Galilea, patabok sa Samaria, sagkod sa krus, pagkabuhay liwat, asin pagsakat sa langit sa Jerusalem.",
+  "pa_kick": "③ Bagong Tipan — an mga paglakbay ni Pablo",
+  "pa_h": "Poon sa Antioquia sagkod sa mga poro kan kinaban — Roma",
+  "pa_lead": "Poon sa Pentecostes sa Jerusalem, kun paano naglakop an marahay na bareta luwas sa Judea — paagi sa Asia Menor asin Europa sagkod sa puso kan imperyo. Magpili nin saro sa limang paglakbay (1·2·3 + an paglayag pasiring sa Roma + pagkatapos pakatalingkasi) asin sundan an mga pangyayari sa Mga Gibo kaiba an mga surat na isinurat sa dalan.",
+  "foot": "Mga ginikanan · An mga lugar nagsusunod sa teksto kan Biblia asin sa komun na heograpiya kan Biblia (na may mga modernong ngaran kun nakakatabang). An mga baybayon, salog, asin danaw iginuhit hale sa bukas na datos heograpiko (Natural Earth), pinasimple.",
+  "contact": "Mga hapot · komento — <a id=\"contact\" class=\"mail\">Mag-email samo</a>",
+  "play": "Patugtugon",
+  "pause": "Pondoha",
+  "today": "Ngunyan:",
+  "verseCite": "2 Pedro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Paglalang · Pagkahulog)",
+    "book": "Genesis 1–3",
+    "today": "an rehiyon kan Tigris–Eufrates ngunyan",
+    "note": "Sa sarong kinaban na ginibong marahay na marahay, naglaog an kasalan asin napugtot an bogkos sa pag-oltanan kan Dios asin nin tawo.",
+    "events": [
+     "Paglalang sa laog nin anom na aldaw — “marahay na marahay”",
+     "An tawo na linalang sigun sa ladawan nin Dios",
+     "An pagkahulog, asin an pagpalayas sa Eden",
+     "An enot na panuga kan ebanghelyo — “an banhi kan babae an maronot kan payo kan halas”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (an Baha)",
+    "book": "Genesis 6–9",
+    "today": "Bukid Ararat, sirangan na Turkiya ngunyan",
+    "note": "Hinukoman nin Dios an sarong kinaban na pano nin kasalan, alagad iningatan an buhay paagi sa sarong pamilya.",
+    "events": [
+     "Sarong kinaban na pano nin karatan",
+     "An baha, asin an arka ni Noe",
+     "An tipan kan balangaw — “dai na lalaglagon paagi sa baha”"
+    ]
+   },
+   "babel": {
+    "name": "Tore nin Babel",
+    "book": "Genesis 11",
+    "today": "Iraq ngunyan (kapatagan nin Shinar)",
+    "note": "Tumang sa kapalangkawan na nag-aabot sa langit, kinalat nin Dios an saindang tataramon asin an mga banwaan sa bilog na daga.",
+    "events": [
+     "“Magtindog kita nin sarong siyudad asin sarong tore… tanganing magin bantog kita”",
+     "Ginulo nin Dios an saindang tataramon",
+     "Nagkawararak an mga banwaan sa bilog na daga (Shinar — kan huri Babilonia)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesis 12",
+    "today": "timog na Iraq ngunyan",
+    "note": "Nagpopoon an istorya nin pagligtas kan Biblia sa pag-apod sa sarong tawo.",
+    "events": [
+     "Inapod nin Dios si Abram paluwas sa Ur kan mga Caldeo",
+     "“Gigibohon takang sarong dakulang nasyon… bebendisyonan an gabos na nasyon paagi saimo”",
+     "Sa pagtubod ibinaya niya an saiyang dagang namundagan"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Genesis 12",
+    "today": "timog na Turkiya ngunyan",
+    "note": "Sa dalan, nagsisimbag sa pag-apod pasiring sa dagang panuga.",
+    "events": [
+     "Nag-erok sa Haran an pamilya ni Tera",
+     "Nagadan si Tera",
+     "Naglakbay si Abram pasiring sa Canaan sa edad na 75"
+    ]
+   },
+   "shechem": {
+    "name": "Shechem · Canaan",
+    "book": "Genesis 12–50",
+    "today": "Nablus ngunyan",
+    "note": "Sa dagang panuga naitindog an sarong pamilya asin ipinapasa an tipan sa nagsurunod na henerasyon.",
+    "events": [
+     "Paglaog sa Canaan, enot na altar — “sa saimong banhi itatao ko an dagang ini”",
+     "An tipan (Gen 15) · Isaac · Jacob",
+     "An doseng aki ni Jacob — gamot kan doseng tribo"
+    ]
+   },
+   "egypt": {
+    "name": "Egipto (Gosen)",
+    "book": "Genesis 37–50 · Exodo 1",
+    "today": "Delta kan Nilo, Egipto ngunyan",
+    "note": "Sarong pamilya nagin dakulang nasyon — dangan nagin nasyon nin mga oripon.",
+    "events": [
+     "Si Jose, na ipinabakal, ipinaitaas tanganing maghade sa Egipto",
+     "Naghilig sa Egipto an bilog na pamilya ni Jacob tanganing dumulag sa tiggutom",
+     "Inoripon an nagdadakulang nasyon kan Israel"
+    ]
+   },
+   "sinai": {
+    "name": "Bukid Sinai",
+    "book": "Exodo · Levitico",
+    "today": "Tangway nin Sinai ngunyan",
+    "note": "An pinakadakulang pagligtas kan Daan na Tipan — an mga oripon nagin banwaan nin Dios.",
+    "events": [
+     "An sampulong damat asin an korderong Paskua",
+     "Nabanga an Pulang Dagat asin sinda nagbalyo",
+     "An Sampulong Togon, an Katogonan, an tabernakulo asin mga atang"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesh (kaawagan)",
+    "book": "Numeros · Deuteronomio",
+    "today": "an kaawagan nin Sinai–Negev ngunyan",
+    "note": "An pagdai-pagtubod nagbawi nin sarong henerasyon kan daga — alagad nagdanay an Dios kaiba ninda.",
+    "events": [
+     "Doseng espiya — alagad nagsayuma an banwaan na magtiwala",
+     "38 taon sa kaawagan — manna, panganoron asin kalayo",
+     "Sa kapatagan nin Moab, an huring sermon ni Moises (Deuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Josue",
+    "today": "Jerico ngunyan",
+    "note": "Sa katapusan naglaog asin nakua ninda an dagang panuga.",
+    "events": [
+     "Nabanga an Jordan asin nagbalyo an banwaan",
+     "Narumpag an mga lanob nin Jerico",
+     "Pananakop kan Canaan asin pagbanga kan daga"
+    ]
+   },
+   "shiloh": {
+    "name": "Shiloh (mga Hukom)",
+    "book": "Hukom · Rut",
+    "today": "Khirbet Seilun ngunyan",
+    "note": "Mayong hade, an lambang saro naggigibo kan gusto niya — kaipuhan an sarong tunay na hade.",
+    "events": [
+     "Itinindog an tabernakulo sa Shiloh",
+     "An siklo nin kasalan–pagsakit–pagligtas (Debora, Gideon, Samson)",
+     "Rut — kaimbodan sa madiklom na panahon, sa linya ni David"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Nagkasararong Kahadean",
+    "book": "1–2 Samuel · 1 Mga Hade",
+    "today": "Jerusalem ngunyan",
+    "note": "An bulawanon na panahon nin Israel — asin an panuga nin sarong daing kataposan na hade.",
+    "events": [
+     "Si Saul an enot na hade, dangan si David asin si Goliat",
+     "An tipan ki David — “an saimong trono sagkod lamang” (2 Sam 7)",
+     "Itinindog ni Solomon an templo sa Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Bangang Kahadean",
+    "book": "Mga Hade · an mga Propeta",
+    "today": "Sebastia ngunyan",
+    "note": "Nabanga asin naghina an kahadean mantang nag-aagrangay an mga propeta.",
+    "events": [
+     "Pagkatapos ni Solomon, nabanga sa Juda asin Israel",
+     "Inuulit na pagsamba sa diosdiosan",
+     "Si Elias, Isaias, Jeremias nag-agrangay ‘magbalik’ — asin naghula kan Mesiyas"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "2 Mga Hade 17 · Jonas",
+    "today": "Mosul, Iraq ngunyan",
+    "note": "Sa pagbalewala kan lambang patanid, an amihanan an enot na napukan.",
+    "events": [
+     "Ninive, an kabisera kan Asiria",
+     "Napukan an amihanang kahadean sa Asiria (722 B.C.)",
+     "Isinugo si Jonas sa Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilonia",
+    "book": "2 Mga Hade 25 · Daniel · Ezekiel",
+    "today": "Hillah, Iraq ngunyan",
+    "note": "An pinakamadiklom na banggi — alagad nagdadanay an panuga nin pagbawi.",
+    "events": [
+     "Napukan an Jerusalem, sinolo an templo (586 B.C.)",
+     "Dinara an Juda sa Babilonia",
+     "Daniel asin Ezekiel — pagtubod asin mga pangitaen sa pagkatapok"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Ester · Nehemias",
+    "today": "Shush, Iran ngunyan",
+    "note": "Maski sa puso kan sarong paganong imperyo, ginigiyahan nin Dios an saiyang banwaan.",
+    "events": [
+     "Pinukan kan Persia an Babilonia",
+     "Ilinigtas ni Ester an mga Judio sa pagkalaglag",
+     "Namibi si Nehemias sa atubangan kan hade asin isinugo"
+    ]
+   },
+   "return": {
+    "name": "Pagpuli sa Jerusalem",
+    "book": "Esdras · Nehemias · Malakias",
+    "today": "Jerusalem ngunyan",
+    "note": "Nagpuli sinda asin nagtindog liwat — alagad mayong hade na nag-abot. Naghahalat sinda sa Mesiyas.",
+    "events": [
+     "Tolong agi nin pagpuli sa kasugoan ni Ciro (Zorobabel 538 · Esdras 458 · Nehemias 444)",
+     "Tinindog liwat an templo asin an mga lanob nin Jerusalem",
+     "Malakias — nagsasarado an Daan na Tipan: “Ipapadara ko an sakong sugo”"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Mesopotamia",
+   "Disyerto kan Arabia",
+   "Egipto"
+  ],
+  "journeys": {
+   "flow": "An istorya nin pagtubos"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bethlehem",
+    "book": "Mateo 1–2 · Lukas 2",
+    "today": "Bethlehem ngunyan",
+    "note": "An ipinanugang Mesiyas nag-abot sa banwaan ni David — an Tataramon na nagin tawo.",
+    "events": [
+     "Namundag sa Bethlehem, an banwaan ni David",
+     "Ibinareta kan mga anghel an bareta sa mga pastor",
+     "Nag-abot an mga Mago tanganing magsamba"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lukas 2 · 4",
+    "today": "Nazaret ngunyan",
+    "note": "An Dios nagdakula bilang tawo sa sarong ordinaryong banwaan.",
+    "events": [
+     "Pinadakula sa harong nin sarong panday",
+     "Sa edad na dose, naghahapot asin nagsisimbag sa templo",
+     "Kan huri isinikwal sa sinagoga kan saiyang sadiring banwaan"
+    ]
+   },
+   "jordan": {
+    "name": "Salog nin Jordan",
+    "book": "Mateo 3–4",
+    "today": "an ibabang Jordan ngunyan",
+    "note": "Nagpopoon an saiyang publikong ministeryo — pinatotoohan siya kan langit bilang an Aki.",
+    "events": [
+     "Binunyagan ni Juan",
+     "Naghilig an Espiritu na garo salampati — “Ini an sakong namomotan na Aki”",
+     "Dinaog an tolong sugot ni Satanas sa kaawagan"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "Juan 2",
+    "today": "Kafr Kanna ngunyan",
+    "note": "Sa saiyang enot na tanda ihinayag niya an saiyang kamurawayan.",
+    "events": [
+     "Sarong bisita sa sarong kasal",
+     "Tubig na ginibong arak — an saiyang enot na tanda",
+     "Nagtubod saiya an saiyang mga disipulo"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Juan 2–4",
+    "today": "harani sa Nablus ngunyan",
+    "note": "An dalan kan enot na ministeryo — paagi sa Jerusalem asin pasiring sa minemenuspreyong Samaria.",
+    "events": [
+     "Lininig niya an templo sa Jerusalem",
+     "Sa banggi, si Nicodemo — “Kaipuhan kang mamundag liwat”",
+     "Buhay na tubig para sa sarong babaeng Samaritana"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Mateo 4–13 · Markos 1–4",
+    "today": "an baybayon nin Galilea ngunyan",
+    "note": "An sentro kan ministeryo sa Galilea — an pag-apod, pagtukdo asin pagtumang nagsasararo digdi.",
+    "events": [
+     "Inapod an mga parasira asin nagsentro digdi",
+     "An Sermon sa Bukid — “Paladan an mga pobre sa espiritu”",
+     "Mga talinhaga kan kahadean — asin nagtataas na pagtumang"
+    ]
+   },
+   "galilee": {
+    "name": "Danaw nin Galilea",
+    "book": "Markos 4 · 6 · Juan 6",
+    "today": "Danaw Kinneret ngunyan",
+    "note": "Sa kapangyarihan sa naturalesa ipinahiling niya kun siya kiisay.",
+    "events": [
+     "“Tumoninong ka, magpondo ka” — pinatoninong niya an bagyo",
+     "Pinakakan an 5,000 sa limang tinapay asin duwang sira",
+     "Naglakaw sa ibabaw kan tubig"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea Filipos",
+    "book": "Mateo 16–17",
+    "today": "Banias ngunyan",
+    "note": "Nasabotan kan mga disipulo na siya an Cristo, asin nagbukas an dalan kan krus.",
+    "events": [
+     "An pagpahayag ni Pedro — “Ika an Cristo, an Aki kan buhay na Dios”",
+     "Enot niyang ihinula an saiyang kagadanan asin pagkabuhay liwat",
+     "Nagbagong-itsura sa kamurawayan sa bukid"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Lukas 18–19",
+    "today": "Jerico ngunyan",
+    "note": "Sa dalan pasakat sa Jerusalem, hinahanap niya an mga nawara.",
+    "events": [
+     "Tinawan niya nin pagheling si butang Bartimeo",
+     "Inapod niya si Zaqueo na parasingil nin buhis",
+     "“An Aki nin Tawo nag-abot tanganing hanapon asin iligtas an nawara”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Juan 11–12",
+    "today": "al-Eizariya ngunyan",
+    "note": "Ipinahiling niya an pagkakapangyarihan sa kagadanan sa kabanggihan kan saiyang huring semana.",
+    "events": [
+     "Binuhay niya liwat si Lazaro hale sa lubngan — “Ako an pagkabuhay liwat asin an buhay”",
+     "Linahidan siya ni Maria para sa lubong",
+     "An tandang ini nagpatigbak kan plano na gadanon siya"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mateo 21–28 · Lukas 24 · Mga Gibo 1",
+    "today": "Jerusalem ngunyan",
+    "note": "An kasukdolan na pinapatukdoan kan bilog na Biblia — krus, pagkabuhay liwat, pagsakat sa langit.",
+    "events": [
+     "Madaog na paglaog; ipinagbabaliktad giraray niya an mga lamesa sa templo",
+     "Sa Huring Pamanggihan hinugasan niya an mga bitis kan mga disipulo",
+     "Nagadan siya sa krus",
+     "Nabuhay liwat sa ikatolong aldaw, dangan suminakat sa langit"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Decapolis",
+   "Perea",
+   "Gadan na Dagat"
+  ],
+  "journeys": {
+   "life": "An dalan ni Jesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioquia",
+    "book": "Mga Gibo 13 · 15",
+    "today": "Antakya, Turkiya ngunyan",
+    "note": "An simbahan na nagsusugo kun saen nagpopoon asin nagbabalik an misyon sa mga Hentil.",
+    "events": [
+     "Sa pamibi ibinugtak nin Espiritu si Bernabe asin si Saulo",
+     "An simbahan kun saen enot na inapod na ‘mga Cristiano’ an mga nagtutubod",
+     "Pinunan kan enot, ikaduwa asin ikatolong paglakbay"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Mga Gibo 13:4",
+    "today": "Turkiya ngunyan",
+    "note": "An pantalan kan Antioquia — naglayag sinda pasiring sa Chipre.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Chipre)",
+    "book": "Mga Gibo 13:5",
+    "today": "Chipre ngunyan",
+    "note": "Enot na pondohan sa Chipre — naghulit sa mga sinagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Mga Gibo 13:6-12",
+    "today": "Chipre ngunyan",
+    "note": "Ipinahiling an kapangyarihan tumang sa mga nagkokontra sa marahay na bareta.",
+    "events": [
+     "Binuta si Elimas na salamangkero",
+     "Nagtubod si Sergio Paulo na prokonsul",
+     "Poon digdi si ‘Pablo’ na an nanginginot"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Mga Gibo 13:13",
+    "today": "Antalya, Turkiya ngunyan",
+    "note": "Sarong pantalan sa Panfilia — digdi nagbalik si Juan Marcos.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioquia sa Pisidia",
+    "book": "Mga Gibo 13:14-50",
+    "today": "Yalvaç, Turkiya ngunyan",
+    "note": "Nagbukas an marahay na bareta pasiring sa mga Hentil.",
+    "events": [
+     "Sarong haloy na sermon manungod sa kasaysayan-kaligtasan sa sinagoga",
+     "Dakul na Hentil an naggayagaya asin nag-ako kan tataramon",
+     "Pinalayas huli sa pagtumang"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Mga Gibo 14:1-7",
+    "today": "Konya, Turkiya ngunyan",
+    "note": "Dakul an nagtubod, alagad pinapirit sinda kan paglamag na maghali.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Mga Gibo 14:8-20",
+    "today": "Turkiya ngunyan",
+    "note": "Inumaw bilang dios, dangan ginapo.",
+    "events": [
+     "Pinaomayan an sarong tawong pilay poon sa pagkamundag",
+     "Hininguwa kan kadaklan na atangan sinda bilang mga dios",
+     "Ginapo asin binayaan na garo gadan, alagad nagbangon siya"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Mga Gibo 14:20-21",
+    "today": "Turkiya ngunyan",
+    "note": "Dakul na disipulo an nagibo; nagbalik sinda tanganing pakosogon an mga simbahan.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Mga Gibo 16:8-10",
+    "today": "Turkiya ngunyan",
+    "note": "An puntong panglihok kun saen enot na nagpasiring sa Europa an marahay na bareta.",
+    "events": [
+     "Sarong pangitaen nin sarong tawo nin Macedonia",
+     "“Dumigdi ka asin tabangi kami”",
+     "Tolos sindang nagbalyo pasiring sa Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipos",
+    "book": "Mga Gibo 16 · Filipos",
+    "today": "amihanan na Grecia ngunyan",
+    "note": "An enot na simbahan sa Europa — nagdaog an marahay na bareta maski sa bilanggoan.",
+    "events": [
+     "Si Lidia, paratinda nin purpura, nagtubod",
+     "Pinatalingkas an sarong oripon na babae na naghuhula",
+     "Mga awit sa kabanggihan, sarong linog, naligtas an pamilya kan bantay sa bilanggoan"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonica",
+    "book": "Mga Gibo 17 · 1–2 Tesalonica",
+    "today": "Tesalonica, Grecia ngunyan",
+    "note": "Pinatanyog kan tataramon an siyudad asin sumolok an pagtumang.",
+    "events": [
+     "Nagrasonan sa sinagoga sa tolong Sabbath",
+     "“An mga ini na nagbaliktad kan kinaban”",
+     "Nagdulag sinda sa banggi"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Mga Gibo 17:10-15",
+    "today": "Veria, Grecia ngunyan",
+    "note": "An mga ‘mahal na boot’ na naghapot kan tataramon para sa sadiri ninda.",
+    "events": [
+     "Inako ninda an tataramon na may kaigotan",
+     "Aroaldaw sinasaliksik ninda an Kasuratan tanganing siyasaton ini",
+     "Dakul an nagtubod"
+    ]
+   },
+   "athens": {
+    "name": "Atenas",
+    "book": "Mga Gibo 17:16-34",
+    "today": "Atenas, Grecia ngunyan",
+    "note": "Sa siyudad kan mga pilosopo ipinahayag niya an ‘dios na dai midbid’.",
+    "events": [
+     "Napurisaw sa sarong siyudad na pano nin diosdiosan",
+     "Sa Areopago ihinulit niya an Kaglalang asin an pagkabuhay liwat",
+     "Tinuya-tuya, alagad nagtubod an pira"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Mga Gibo 18 · 1–2 Corinto",
+    "today": "Grecia ngunyan",
+    "note": "Nag-erok siya nin sarong taon may kabanga, nagtanom nin simbahan sa siyudad nin karatan.",
+    "events": [
+     "Naggibo nin tolda kaiba ni Aquila asin Priscila",
+     "“Dai ka matakot… ta yaon ako saimo”",
+     "Dakul na taga-Corinto an nagtubod asin binunyagan"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Mga Gibo 19 · Efeso",
+    "today": "Selçuk, Turkiya ngunyan",
+    "note": "An puso kan ikatolong paglakbay — naglakop an tataramon sa bilog na Asia.",
+    "events": [
+     "Aroaldaw na pagtukdo sa laog nin duwang taon sa hawan ni Tirano",
+     "Sinolo an mga libro nin salamangka; mga makusugon na gibo",
+     "Pinunan kan platero na si Demetrio an sarong ribok"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Mga Gibo 20:17-38",
+    "today": "Turkiya ngunyan",
+    "note": "Sarong mabunyog na pamamaaram sa mga kamagurangan kan Efeso.",
+    "events": [
+     "“Atamanon nindo an simbahan na binakal niya kan saiyang sadiring dugo”",
+     "Nagtarangis an mga kamagurangan, na aram na dai na ninda siya mahiling giraray"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Mga Gibo 23–26",
+    "today": "an baybayon kan Israel ngunyan",
+    "note": "Sa laog nin duwang taon idinepensa niya an marahay na bareta sa atubangan kan mga gobernador asin sarong hade.",
+    "events": [
+     "Mga paglilis sa atubangan kan mga gobernador na si Felix asin Festo",
+     "An saiyang depensa sa atubangan ni Hadeng Agripa",
+     "“Inaapelar ko ki Cesar” — pasiring sa Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mga Gibo 21–23",
+    "today": "Jerusalem ngunyan",
+    "note": "Dinakop sa templo, nagpoon an saiyang dalan bilang bilanggo.",
+    "events": [
+     "Dinakop kan kadaklan sa templo",
+     "Idinepensa niya an saiyang sadiri sa atubangan kan konseho",
+     "Bilang sarong Romano, isinugo na binabantayan pasiring sa Cesarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Mga Gibo 27:5-6",
+    "today": "Demre, Turkiya ngunyan",
+    "note": "Nagbalyo sinda sa sarong sakayan nin Alejandria pasiring sa Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Magagayon na Dongoan (Creta)",
+    "book": "Mga Gibo 27:8-12",
+    "today": "Creta ngunyan",
+    "note": "Dai dinangog an patanid ni Pablo na magpondo na sa paglayag.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tito",
+    "today": "Creta ngunyan",
+    "note": "Pagkatapos pakatalingkasi, an isla kun saen binayaan niya si Tito tanganing iayos an mga simbahan.",
+    "events": [
+     "Binayaan si Tito tanganing magtugdas nin mga kamagurangan sa lambang banwaan",
+     "Naghagad nin mayong digta asin maimbod na mga lider",
+     "Isinurat an surat ki Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Mga Gibo 27–28",
+    "today": "Malta ngunyan",
+    "note": "Paagi sa bagyo asin pagkalunod nin sakayan, nagdanay an panuga nin Dios.",
+    "events": [
+     "An ‘amihan-sirangan’ na bagyo nakaraot kan sakayan, alagad gabos na 276 nakaligtas",
+     "Kinagat nin sarong halas na dalit, alagad dai naano",
+     "Pinaomayan niya an mga may helang sa isla"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Mga Gibo 28:12",
+    "today": "Sicilia, Italia ngunyan",
+    "note": "Nag-erok sinda nin tolong aldaw sa Sicilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Mga Gibo 28:13-14",
+    "today": "Pozzuoli, Italia ngunyan",
+    "note": "Suminadsad sinda sa Italia asin sinabat sinda kan mga kapwa nagtutubod.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Mga Gibo 28 · Mga Surat sa Bilanggoan · 2 Timoteo",
+    "today": "Roma, Italia ngunyan",
+    "note": "Sa katapusan nakaabot an marahay na bareta sa puso kan imperyo — bakong sarong katapusan kundi sarong kapinunan.",
+    "events": [
+     "Duwang taon sa irarom nin pagkabilanggo sa harong, maisog na ipinapahayag an kahadean",
+     "Poon digdi isinurat niya an Mga Surat sa Bilanggoan (Efeso·Filipos·Colosas·Filemon)",
+     "Kan huri ibinilanggo giraray, isinurat an 2 Timoteo asin ginadan bilang martir — “Nakipaglaban ako kan marahay na pakikilaban, natapos ko an dalagan”"
+    ]
+   }
+  },
+  "labels": [
+   "Dagat Mediteraneo",
+   "Dagat Egeo",
+   "Asia Menor",
+   "Macedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Enot na paglakbay",
+   "j2": "Ikaduwang paglakbay",
+   "j3": "Ikatolong paglakbay",
+   "rome": "Ikaapat na paglakbay · pasiring sa Roma",
+   "j5": "Ikalimang paglakbay · pagkatapos pakatalingkasi"
+  }
+ }
+}

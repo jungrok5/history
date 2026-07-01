@@ -1,0 +1,636 @@
+{
+ "menuName": "Lingála",
+ "htmlLang": "ln",
+ "dir": "ltr",
+ "locale": "ln",
+ "brand": "Biblia na molongo moko",
+ "docTitle": "Biblia na karte · Biblia na molongo moko",
+ "metaDesc": "Landa molongo ya Kondimana ya Kala, bomoi ya Yesu, mpe mibembo ya Polo na karte ya solo — Biblia esalemaki na bisika ya solo.",
+ "s": {
+  "kicker": "Biblia na molongo moko · Karte",
+  "title": "Biblia na karte",
+  "verse": "“Solo, tango toyebisaki bino makambo oyo etali koya ya Yesu-Klisto, Nkolo na biso, kati na nguya na yango nyonso, tolandaki te basambole oyo bato basalaka na mayele na bango, kasi na miso na biso moko, tomonaki Ye kati na kongenga nyonso ya nkembo na Ye.” (2 Petelo 1:16)",
+  "purpose": "Biblia ezali lisapo te. Ezali bokomi ya bato oyo batambolaki na bisika, mikolo, mpe bankombo ya solo. Landa banzela wana na karte, na molongo ya tango — finá esika moko, to finá ▶ mpo na koleka kati na yango litambe na litambe.",
+  "ot_kick": "① Kondimana ya Kala — na boumeli ya tango",
+  "ot_h": "Kobanda na bokeli kino na kozonga na Yelusalemi",
+  "ot_lead": "Mobembo se moko te kasi molongo ya histoire ya lobiko kobanda na bokeli: bokeli na kokweya → mpela na Babele → libyangi (Abalayama) → mokili ya elaka → Kobima → esobe → kozwa mokili → bokonzi → bokabwani → boombo → kozonga.",
+  "je_kick": "② Kondimana ya Sika — bomoi ya Yesu",
+  "je_h": "Kobanda na Beteleme kino na Yelusalemi",
+  "je_lead": "Landa bomoi ya Yesu ndenge Sango Malamu esakoli yango, na molongo — kobanda na mbotama na ye na Beteleme na nzela ya batisimo na ye mpe mosala na Galileya, kokatisa Samari, kino na ekulusu, lisekwa mpe komata na likolo na Yelusalemi.",
+  "pa_kick": "③ Kondimana ya Sika — mibembo ya Polo",
+  "pa_h": "Kobanda na Antioka kino na basuka ya mokili — Roma",
+  "pa_lead": "Kobanda na Pantekoti na Yelusalemi, ndenge Sango Malamu epalanganaki libanda ya Yuda — na nzela ya Azia Moke mpe Erópa kino na motema ya bokonzi. Poná moko ya mibembo mitano (ya 1·ya 2·ya 3 + mobembo ya kokende na Roma + nsima ya kofungolama) mpe landa makambo ya Misala elongo na mikanda oyo ekomamaki na nzela.",
+  "foot": "Bisika oyo euti · Bisika elandi makomi ya Biblia mpe jeografi ya momeseno ya Biblia (na bankombo ya lelo esika esalisaka). Bandelo ya mbu, bibale mpe bitima bisalemaki na nzela ya makambo ya jeografi ya polele (Natural Earth), oyo elongwami mwa moke.",
+  "contact": "Mituna · maloba — <a id=\"contact\" class=\"mail\">Tindela biso e-mail</a>",
+  "play": "Bandisa",
+  "pause": "Telemisa",
+  "today": "Lelo:",
+  "verseCite": "2 Petelo 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edeni (Bokeli · Kokweya)",
+    "book": "Ebandeli 1–3",
+    "today": "etúká ya Tigre–Efrate lelo",
+    "note": "Kati na mokili oyo ekelamaki «malamu mingi penza», lisumu ekoti mpe ebuki boyokani kati na Nzambe na bato.",
+    "events": [
+     "Bokeli na mikolo motoba — «ezalaki malamu mingi»",
+     "Moto akelami na elilingi ya Nzambe",
+     "Kokweya, mpe kobenganama na Edeni",
+     "Elaka ya liboso ya Sango Malamu — «bakitani ya mwasi bakonyata moto ya nyoka»"
+    ]
+   },
+   "noah": {
+    "name": "Ararati (Mpela)",
+    "book": "Ebandeli 6–9",
+    "today": "Ngomba Ararati, esti ya Turkiya lelo",
+    "note": "Nzambe asambisi mokili oyo etondi na lisumu, kasi abateli bomoi na nzela ya libota se moko.",
+    "events": [
+     "Mokili etondi na mbeba",
+     "Mpela, mpe masuwa ya Noa",
+     "Boyokani ya monama — «mpela ekobebisa mokili lisusu te»"
+    ]
+   },
+   "babel": {
+    "name": "Linongi ya Babele",
+    "book": "Ebandeli 11",
+    "today": "Iraki lelo (esobe ya Shineari)",
+    "note": "Liboso ya lolendo oyo elingi komata na likolo, Nzambe abulungani monoko na bango mpe apalanganisi bato na mokili.",
+    "events": [
+     "«Totonga engumba mpe linongi… mpe tópesa nkombo na biso lokumu»",
+     "Nzambe abulungani monoko na bango",
+     "Bato bapalangani na mokili (Shineari — na nsima Babiloni)"
+    ]
+   },
+   "ur": {
+    "name": "Uri",
+    "book": "Ebandeli 12",
+    "today": "sudi ya Iraki lelo",
+    "note": "Lisolo ya lobiko ya Biblia ebandi na libyangi ya moto se moko.",
+    "events": [
+     "Nzambe abengi Abalama na Uri ya Bakaludeo",
+     "«Nakokomisa yo ekolo monene… bato nyonso bakopambolama mpo na yo»",
+     "Na kondima atiki mboka na ye"
+    ]
+   },
+   "haran": {
+    "name": "Harana",
+    "book": "Ebandeli 12",
+    "today": "sudi ya Turkiya lelo",
+    "note": "Na nzela, koyanola na libyangi epai ya mokili ya elaka.",
+    "events": [
+     "Libota ya Tera evandi na Harana",
+     "Tera akufi",
+     "Abalama akei na Kanana na mibu 75"
+    ]
+   },
+   "shechem": {
+    "name": "Sikemi · Kanana",
+    "book": "Ebandeli 12–50",
+    "today": "Nablus lelo",
+    "note": "Kati na mokili ya elaka libota ebandami mpe boyokani eleki na milongo.",
+    "events": [
+     "Kokota na Kanana, etumbelo ya liboso — «nakopesa bakitani na yo mokili oyo»",
+     "Boyokani (Eba 15) · Izaki · Yakobo",
+     "Bana zomi na mibale ya Yakobo — mosisa ya mabota zomi na mibale"
+    ]
+   },
+   "egypt": {
+    "name": "Ejipito (Gosheni)",
+    "book": "Ebandeli 37–50 · Kobima 1",
+    "today": "Delta ya Nili, Ejipito lelo",
+    "note": "Libota ekómi ekolo monene — na nsima ekolo ya baombo.",
+    "events": [
+     "Yozefe, batekaki ye, akómi mokonzi na Ejipito",
+     "Libota mobimba ya Yakobo ekiti mpo na kokima nzala",
+     "Ekolo ya Isalaele oyo ezalaki kokola ekómi na boombo"
+    ]
+   },
+   "sinai": {
+    "name": "Ngomba Sinai",
+    "book": "Kobima · Levitike",
+    "today": "Etando ya Sinai lelo",
+    "note": "Lobiko ya monene koleka ya Kondimana ya Kala — baombo bakómi bato ya Nzambe.",
+    "events": [
+     "Bitumbu zomi mpe mwana meme ya Pasika",
+     "Mbu ya Motane ekabwani mpe bakatisi",
+     "Mibeko zomi, Mobeko, Ndako ya kapo mpe bambeka"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeshi (esobe)",
+    "book": "Mitango · Deteronome",
+    "today": "esobe ya Sinai–Negebe lelo",
+    "note": "Bozangi kondima ebótoli libota mokili — atako bongo Nzambe atikali na bango.",
+    "events": [
+     "Banongi zomi na mibale — kasi bato baboyi kotia motema",
+     "Mibu 38 na esobe — mana, lipata na moto",
+     "Na bitando ya Moabe, lisolo ya nsuka ya Moize (Deteronome)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Yozue",
+    "today": "Yeriko lelo",
+    "note": "Na suka bakoti mpe bazwi mokili ya elaka.",
+    "events": [
+     "Yordani ekabwani mpe bato bakatisi",
+     "Bamir ya Yeriko ekweyi",
+     "Kozwa Kanana mpe kokabola mokili"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Basambisi)",
+    "book": "Basambisi · Ruti",
+    "today": "Khirbet Seilun lelo",
+    "note": "Mokonzi azalaki te, moto na moto asalaki oyo alingi — mokonzi ya solo asengelaki.",
+    "events": [
+     "Ndako ya kapo etelemi na Silo",
+     "Mbongwana ya lisumu–konyokolama–lobiko (Debora, Gedeon, Samison)",
+     "Ruti — bosembo na mikolo ya molili, na libota ya Davidi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yelusalemi · Bokonzi ya lisanga",
+    "book": "1–2 Samuele · 1 Bakonzi",
+    "today": "Yelusalemi lelo",
+    "note": "Tango ya nkembo ya Isalaele — mpe elaka ya mokonzi ya seko.",
+    "events": [
+     "Saulo mokonzi ya liboso, na nsima Davidi na Goliyati",
+     "Boyokani na Davidi — «kiti na yo ya bokonzi mpo na libela» (2 Sam 7)",
+     "Salomo atongi Tempelo na Yelusalemi"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Bokonzi ekabwani",
+    "book": "Bakonzi · Basakoli",
+    "today": "Sebastia lelo",
+    "note": "Bokonzi ekabwani mpe ekiti wana basakoli bagangi.",
+    "events": [
+     "Nsima ya Salomo, bokabwani na Yuda na Isalaele",
+     "Kosambela bikeko oyo ezongelaki",
+     "Eliya, Ezaya, Yirimia bagangi «bozonga» — mpe basakoli Masiya"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiri)",
+    "book": "2 Bakonzi 17 · Yona",
+    "today": "Mosul, Iraki lelo",
+    "note": "Na koboya likebisi nyonso, bokonzi ya nordi ekweyi liboso.",
+    "events": [
+     "Ninive, mboka mokonzi ya Asiri",
+     "Bokonzi ya nordi ekweyi liboso ya Asiri (722 L.K.)",
+     "Yona atindami na Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babiloni",
+    "book": "2 Bakonzi 25 · Daniele · Ezekiele",
+    "today": "Hillah, Iraki lelo",
+    "note": "Butu ya molili koleka — atako bongo elaka ya bozongisama etikali.",
+    "events": [
+     "Yelusalemi ekweyi, Tempelo ezikaki (586 L.K.)",
+     "Yuda amemami na Babiloni",
+     "Daniele na Ezekiele — kondima mpe bimoniseli na boombo"
+    ]
+   },
+   "susa": {
+    "name": "Suza (Persi)",
+    "book": "Esitere · Neyemi",
+    "today": "Shush, Iran lelo",
+    "note": "Ata na motema ya bokonzi ya bapaya, Nzambe abateli bato na Ye.",
+    "events": [
+     "Persi alongi Babiloni",
+     "Esitere abikisi Bayuda na kobebisama",
+     "Neyemi abondeli liboso ya mokonzi mpe atindami"
+    ]
+   },
+   "return": {
+    "name": "Kozonga na Yelusalemi",
+    "book": "Esidrasi · Neyemi · Malaki",
+    "today": "Yelusalemi lelo",
+    "note": "Bazongi mpe batongi lisusu — kasi mokonzi ayei te. Bazeli Masiya.",
+    "events": [
+     "Mabaluka misato ya kozonga na mobeko ya Sirisi (Zorobabele 538 · Esidrasi 458 · Neyemi 444)",
+     "Tempelo etongami lisusu mpe bamir ya Yelusalemi ebongisami",
+     "Malaki — Kondimana ya Kala esuki: «Nakotinda ntoma na Ngai»"
+    ]
+   }
+  },
+  "labels": [
+   "Mbu Monene",
+   "Mezopotami",
+   "Esobe ya Arabia",
+   "Ejipito"
+  ],
+  "journeys": {
+   "flow": "Lisolo ya lobiko"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Beteleme",
+    "book": "Matayo 1–2 · Luka 2",
+    "today": "Beteleme lelo",
+    "note": "Masiya oyo alakamaki ayei na mboka ya Davidi — Liloba ekómi moto.",
+    "events": [
+     "Abotami na Beteleme, mboka ya Davidi",
+     "Baanzelu basakoli sango epai ya babateli ya bibwele",
+     "Bato ya bwanya bayei kogumbamela ye"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareti",
+    "book": "Luka 2 · 4",
+    "today": "Nazareti lelo",
+    "note": "Nzambe akoli lokola moto na mboka ya momeseno.",
+    "events": [
+     "Akoli na ndako ya mosali ya mabaya",
+     "Na mibu zomi na mibale, atuni mpe ayanoli na Tempelo",
+     "Na nsima baboyi ye na ndako ya mayangani ya mboka na ye"
+    ]
+   },
+   "jordan": {
+    "name": "Ebale Yordani",
+    "book": "Matayo 3–4",
+    "today": "se ya Yordani lelo",
+    "note": "Mosala na ye ya polele ebandi — likolo ekomi elembo ete azali Mwana.",
+    "events": [
+     "Abatisami na Yoane",
+     "Molimo akiti lokola ebenga — «Oyo azali Mwana na Ngai ya bolingo»",
+     "Alongi komekama misato ya Satana na esobe"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yoane 2",
+    "today": "Kafr Kanna lelo",
+    "note": "Na elembo na ye ya liboso amonisi nkembo na ye.",
+    "events": [
+     "Mopaya na libala",
+     "Mai ebongolami vinyo — elembo na ye ya liboso",
+     "Bayekoli na ye bandimi ye"
+    ]
+   },
+   "sychar": {
+    "name": "Sikari (Samari)",
+    "book": "Yoane 2–4",
+    "today": "pene na Nablus lelo",
+    "note": "Nzela ya mosala ya ebandeli — na nzela ya Yelusalemi kino na Samari oyo batiolaki.",
+    "events": [
+     "Apetoli Tempelo na Yelusalemi",
+     "Na butu, Nikodemo — «osengeli kobotama lisusu»",
+     "Mai ya bomoi mpo na mwasi mo-Samari"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaumi",
+    "book": "Matayo 4–13 · Marko 1–4",
+    "today": "libongo ya Galileya lelo",
+    "note": "Esika ya mosala na Galileya — kobenga, koteya mpe kotelemela nyonso ekutani awa.",
+    "events": [
+     "Abengi baluki ya mbisi mpe atie esika na ye awa",
+     "Lisolo na ngomba — «Esengo na babola na molimo»",
+     "Masese ya Bokonzi — mpe botelemeli ezali komata"
+    ]
+   },
+   "galilee": {
+    "name": "Mbu ya Galileya",
+    "book": "Marko 4 · 6 · Yoane 6",
+    "today": "Mbu Kinereti lelo",
+    "note": "Na nguya likolo ya bozalisi alakisi nani azali.",
+    "events": [
+     "«Vanda kimia» — akitisi mopepe makasi",
+     "Aleisi bato 5.000 na mampa mitano mpe mbisi mibale",
+     "Atamboli likolo ya mai"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sezarea Filipi",
+    "book": "Matayo 16–17",
+    "today": "Banias lelo",
+    "note": "Bayekoli basosoli ete ye azali Klisto, mpe nzela ya ekulusu efungwami.",
+    "events": [
+     "Botatoli ya Petelo — «Yo ozali Klisto, Mwana ya Nzambe ya bomoi»",
+     "Asakoli mbala ya liboso liwa mpe lisekwa na ye",
+     "Abongwani na nkembo likolo ya ngomba"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Luka 18–19",
+    "today": "Yeriko lelo",
+    "note": "Na nzela ya komata na Yelusalemi, aluki bato babunga.",
+    "events": [
+     "Apesi miso na mokufi-miso Baritimayo",
+     "Abengi Zashe mofutisi ya mpako",
+     "«Mwana ya moto ayei koluka mpe kobikisa baoyo babunga»"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Yoane 11–12",
+    "today": "al-Eizariya lelo",
+    "note": "Alakisi bokonzi likolo ya liwa na pokwa ya poso na ye ya nsuka.",
+    "events": [
+     "Asekwisi Lazaro na lilita — «Ngai nazali lisekwa mpe bomoi»",
+     "Maria atie ye mafuta mpo na kokunda",
+     "Elembo oyo elendisi likanisi ya koboma ye"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yelusalemi",
+    "book": "Matayo 21–28 · Luka 24 · Misala 1",
+    "today": "Yelusalemi lelo",
+    "note": "Nsonge oyo Biblia mobimba elakisaki — ekulusu, lisekwa, komata na likolo.",
+    "events": [
+     "Kokota na nkembo; abongoli lisusu bamesa ya Tempelo",
+     "Na Bilei ya Nsuka asukoli makolo ya bayekoli",
+     "Akufi na ekulusu",
+     "Asekwi na mokolo ya misato, na nsima amati na likolo"
+    ]
+   }
+  },
+  "labels": [
+   "Mbu Monene",
+   "Galileya",
+   "Samari",
+   "Yudea",
+   "Dekapole",
+   "Perea",
+   "Mbu ya Liwa"
+  ],
+  "journeys": {
+   "life": "Nzela ya Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioka",
+    "book": "Misala 13 · 15",
+    "today": "Antakya, Turkiya lelo",
+    "note": "Lingomba oyo etindaki, esika misio epai ya Bapaya ebandi mpe ezongaka.",
+    "events": [
+     "Na losambo Molimo apongoli Barnabasi na Saulo",
+     "Lingomba esika bayekoli babengamaki mbala ya liboso «Baklisto»",
+     "Esika ya kobanda mibembo ya 1, ya 2 mpe ya 3"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Misala 13:4",
+    "today": "Turkiya lelo",
+    "note": "Libongo ya Antioka — bakei na masuwa epai ya Sipele.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salami (Sipele)",
+    "book": "Misala 13:5",
+    "today": "Sipele lelo",
+    "note": "Esika ya liboso na Sipele — kosakola na bandako ya mayangani.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Misala 13:6-12",
+    "today": "Sipele lelo",
+    "note": "Nguya emonani liboso ya baoyo batelemeli Sango Malamu.",
+    "events": [
+     "Elima nganga-kisi akómi mokufi-miso",
+     "Sergiusi Paulusi guvernere andimi",
+     "Banda awa «Polo» azwi liboso"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Misala 13:13",
+    "today": "Antalya, Turkiya lelo",
+    "note": "Libongo na Pamfilia — awa Yoane Marko azongi.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioka ya Pisidia",
+    "book": "Misala 13:14-50",
+    "today": "Yalvaç, Turkiya lelo",
+    "note": "Sango Malamu efungwami epai ya Bapaya.",
+    "events": [
+     "Lisolo ya molai ya histoire ya lobiko na ndako ya mayangani",
+     "Bapaya mingi basepeli mpe bayambi liloba",
+     "Babengani ye na botelemeli"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniumi",
+    "book": "Misala 14:1-7",
+    "today": "Konya, Turkiya lelo",
+    "note": "Bato mingi bandimi, kasi minyoko etindi bango kokoba.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Misala 14:8-20",
+    "today": "Turkiya lelo",
+    "note": "Babengi ye nzambe, na nsima babambi ye mabanga.",
+    "events": [
+     "Abikisi moto oyo azalaki tengu-tengu kobanda na mbotama",
+     "Ebele balingi kobonzela bango lokola banzambe",
+     "Babambi ye mabanga mpe batiki ye lokola akufi, kasi atelemi"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Misala 14:20-21",
+    "today": "Turkiya lelo",
+    "note": "Bayekoli mingi bakómi; bazongi na nzela mpo na kolendisa mangomba.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troasi",
+    "book": "Misala 16:8-10",
+    "today": "Turkiya lelo",
+    "note": "Esika ya mbongwana esika Sango Malamu ekei mbala ya liboso na Erópa.",
+    "events": [
+     "Emoniseli ya moto ya Masedwane",
+     "«Yaka kosalisa biso»",
+     "Bakatisi mbala moko na Erópa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Misala 16 · Bafilipi",
+    "today": "nordi ya Grèce lelo",
+    "note": "Lingomba ya liboso ya Erópa — Sango Malamu elongi ata na boloko.",
+    "events": [
+     "Lidia, motekisi ya bilamba ya motane, andimi",
+     "Mwana mwasi moombo oyo azalaki kosakola makambo akangolami",
+     "Banzembo na butu, koningana ya mabele, libota ya mokengeli-boloko ebiki"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Misala 17 · 1–2 Batesalonika",
+    "today": "Thessaloniki, Grèce lelo",
+    "note": "Liloba eningisi engumba mpe botelemeli ebimi makasi.",
+    "events": [
+     "Asololi na ndako ya mayangani basaba misato",
+     "«Baoyo babaluli mokili likolo na nse»",
+     "Bakei na nkuku na butu"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Misala 17:10-15",
+    "today": "Veria, Grèce lelo",
+    "note": "Baoyo «ya lokumu» oyo batalaki liloba bango moko.",
+    "events": [
+     "Bayambi liloba na mposa makasi",
+     "Mokolo na mokolo batali Makomi mpo na kotala soki ezali bongo",
+     "Bato mingi bandimi"
+    ]
+   },
+   "athens": {
+    "name": "Atene",
+    "book": "Misala 17:16-34",
+    "today": "Atene, Grèce lelo",
+    "note": "Na engumba ya bato ya filozofi asakoli «nzambe oyo bayebi te».",
+    "events": [
+     "Atomboki na motema komona engumba etondi na bikeko",
+     "Na Areopaga asakoli Mokeli mpe lisekwa",
+     "Baseki ye, atako bongo ndambo bandimi"
+    ]
+   },
+   "corinth": {
+    "name": "Kolinto",
+    "book": "Misala 18 · 1–2 Bakorinti",
+    "today": "Grèce lelo",
+    "note": "Avandi mbula moko na ndambo, alóni lingomba na engumba ya mbindo.",
+    "events": [
+     "Asali bahema na Akilasi na Pirisila",
+     "«Kobanga te… mpo nazali elongo na yo»",
+     "Bato mingi ya Kolinto bandimi mpe babatisami"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Misala 19 · Baefeso",
+    "today": "Selçuk, Turkiya lelo",
+    "note": "Motema ya mobembo ya misato — liloba epalangani na Azia mobimba.",
+    "events": [
+     "Koteya mokolo na mokolo mibu mibale na ndako ya Tirano",
+     "Babuku ya bonganga-kisi ezikaki; misala ya nguya",
+     "Demetrio motuli ya palata abandisi mobulu"
+    ]
+   },
+   "miletus": {
+    "name": "Mileti",
+    "book": "Misala 20:17-38",
+    "today": "Turkiya lelo",
+    "note": "Botiki ya mpinzoli epai ya bampaka ya Efeso.",
+    "events": [
+     "«Bóbatela lingomba oyo asombaki na makila na Ye moko»",
+     "Bampaka balei na koyeba ete bakomona ye lisusu te"
+    ]
+   },
+   "caesarea": {
+    "name": "Sezarea",
+    "book": "Misala 23–26",
+    "today": "libongo ya Isalaele lelo",
+    "note": "Mibu mibale alobeli Sango Malamu liboso ya baguvernere mpe mokonzi.",
+    "events": [
+     "Kosamba liboso ya baguvernere Felikisi na Festusi",
+     "Ekateli na ye liboso ya mokonzi Agripa",
+     "«Nasengi kosamba liboso ya Sezare» — bakei na Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yelusalemi",
+    "book": "Misala 21–23",
+    "today": "Yelusalemi lelo",
+    "note": "Bakangi ye na Tempelo, nzela na ye lokola moto ya boloko ebandi.",
+    "events": [
+     "Ebele bakangi ye na Tempelo",
+     "Amibateli liboso ya likita",
+     "Lokola moto ya Roma, batindi ye na bakengeli na Sezarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Misala 27:5-6",
+    "today": "Demre, Turkiya lelo",
+    "note": "Bamati na masuwa ya Alesandria oyo ekei na Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Mabongo Kitoko (Krete)",
+    "book": "Misala 27:8-12",
+    "today": "Krete lelo",
+    "note": "Likebisi ya Polo ya kotika kotambola na masuwa eyokami te.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krete",
+    "book": "Tito",
+    "today": "Krete lelo",
+    "note": "Nsima ya kofungolama na ye, esanga esika atiki Tito mpo na kobongisa mangomba.",
+    "events": [
+     "Atiki Tito mpo na kotia bampaka na engumba nyonso",
+     "Asengi bakambi ya kozanga mabe, ya sembo",
+     "Akomi mokanda epai ya Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Misala 27–28",
+    "today": "Malta lelo",
+    "note": "Na mopepe makasi mpe kobukana ya masuwa, elaka ya Nzambe etikali ngwi.",
+    "events": [
+     "Mopepe ya «nordeste» ebuki masuwa, atako bongo bango nyonso 276 babiki",
+     "Nyoka eswi ye, kasi azoki te",
+     "Abikisi bato ya bokono ya esanga"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuse",
+    "book": "Misala 28:12",
+    "today": "Sisile, Itali lelo",
+    "note": "Bavandi mikolo misato na Sisile.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Misala 28:13-14",
+    "today": "Pozzuoli, Itali lelo",
+    "note": "Bakiti na Itali mpe bandeko bayambi bango.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Misala 28 · Mikanda ya Boloko · 2 Timote",
+    "today": "Roma, Itali lelo",
+    "note": "Sango Malamu ekómi na suka na motema ya bokonzi — suka te kasi ebandeli.",
+    "events": [
+     "Mibu mibale na boloko ya ndako, asakoli Bokonzi na mpiko",
+     "Banda awa akomi Mikanda ya Boloko (Efe·Fil·Kol·Filemo)",
+     "Na nsima bakangi ye lisusu, akomi 2 Timote mpe akufi mpo na kondima — «Nabundi etumba malamu, nasilisi mbangu»"
+    ]
+   }
+  },
+  "labels": [
+   "Mbu Monene",
+   "Mbu Egée",
+   "Azia Moke",
+   "Masedwane",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Mobembo ya liboso",
+   "j2": "Mobembo ya mibale",
+   "j3": "Mobembo ya misato",
+   "rome": "Mobembo ya minei · epai ya Roma",
+   "j5": "Mobembo ya mitano · nsima ya kofungolama"
+  }
+ }
+}

@@ -1,0 +1,636 @@
+{
+ "menuName": "Setswana",
+ "htmlLang": "tn",
+ "dir": "ltr",
+ "locale": "tn",
+ "brand": "Baebele mo go Phuthololweng go le Gangwe",
+ "docTitle": "Baebele ka Mmapa · Baebele mo go Phuthololweng go le Gangwe",
+ "metaDesc": "Sala morago tatelano ya nako ya Testamente e Kgologolo, botshelo jwa ga Jesu, le maeto a ga Paulo mo mmapeng wa nnete — Baebele e diragetse mo mafelong a mmatota.",
+ "s": {
+  "kicker": "Baebele mo go Phuthololweng go le Gangwe · Mmapa",
+  "title": "Baebele ka Mmapa",
+  "verse": "“Gonne e rile re lo itsise thata ya Morena wa rona Jesu Keresete le go tla gape ga gagwe, ra bo re sa latele dinaane tse di rulagantsweng ka botlhale, mme re ne re le basupi ba ba bonyeng borena jwa gagwe.” (2 Petoro 1:16)",
+  "purpose": "Baebele ga se tlhamane. Ke pego ya batho ba ba neng ba tsamaya mo mafelong, malatsing le maineng a mmatota. Sala morago ditsela tseo mo mmapeng, ka tatelano ya nako — tobetsa ntlha, kgotsa o gatelele ▶ go tsamaya ka yona kgato ka kgato.",
+  "ot_kick": "① Testamente e Kgologolo — go ralala nako",
+  "ot_h": "Go tswa tlholong go ya poelong kwa Jerusalema",
+  "ot_lead": "E seng loeto lo le longwe mme go elela ga histori ya kgololo go tloga tlholong go ya pele: tlholo le go wa → morwalela le Babele → pitso (Aborahame) → lefatshe le le solofeditsweng → Ekesodo → sekaka → phenyo → bogosi → kgaogano → botshwarwa → poelo.",
+  "je_kick": "② Testamente e Ntšhwa — botshelo jwa ga Jesu",
+  "je_h": "Go tswa Bethelehema go ya Jerusalema",
+  "je_lead": "Sala morago botshelo jwa ga Jesu jaaka Diefangele di bo bolela, ka tatelano — go tswa go tsalwa ga gagwe kwa Bethelehema, ka kolobetso ya gagwe le tirelo kwa Galilea, go ralala Samaria, go ya sefapaanong, tsogo le go tlhatlogela legodimong kwa Jerusalema.",
+  "pa_kick": "③ Testamente e Ntšhwa — maeto a ga Paulo",
+  "pa_h": "Go tswa Antiokia go ya dikhutlong tsa lefatshe — Roma",
+  "pa_lead": "Go tswa Pentekoste kwa Jerusalema, ka fa Efangele e neng ya anama ka teng kwa ntle ga Jutea — go ralala Asia e Nnye le Yuropa go ya pelong ya mmuso. Tlhopha lengwe la maeto a matlhano (la 1·la 2·la 3 + loeto lwa go ya Roma + morago ga go gololwa) mme o sale morago ditiragalo tsa Ditiro le dikwalo tse di kwadilweng mo tseleng.",
+  "foot": "Metswedi · Mafelo a latela mokwalo wa Baebele le jokerafi e e tlwaelegileng ya Baebele (ka maina a sešwa fa go thusa). Matshele a lewatle, dinoka le madiba di gatisitswe go tswa mo datheng e e bulegileng ya jokerafi (Natural Earth), tse di nolofaditsweng.",
+  "contact": "Dipotso · dikakgelo — <a id=\"contact\" class=\"mail\">Re romelele imeile</a>",
+  "play": "Tshameka",
+  "pause": "Ema",
+  "today": "Gompieno:",
+  "verseCite": "2 Petoro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edene (Tlholo · Go Wa)",
+    "book": "Genesise 1–3",
+    "today": "kgaolo ya Tigrise–Eufurate gompieno",
+    "note": "Mo lefatsheng le le neng le dirilwe le le “molemo thata,” boleo bo a tsena bo kgaola kgolagano fa gare ga Modimo le batho.",
+    "events": [
+     "Tlholo mo malatsing a marataro — “go ne go le molemo thata”",
+     "Motho o dirilwe ka setshwano sa Modimo",
+     "Go wa, le go lelekwa mo Edeneng",
+     "Tsholofetso ya ntlha ya Efangele — “losika lwa mosadi lo tla tšhwetla tlhogo ya noga”"
+    ]
+   },
+   "noah": {
+    "name": "Ararate (Morwalela)",
+    "book": "Genesise 6–9",
+    "today": "Thaba ya Ararate, botlhaba jwa Turkey gompieno",
+    "note": "Modimo o atlhola lefatshe le le tletseng boleo, le fa go ntse jalo o boloka botshelo ka lelapa le le lengwe.",
+    "events": [
+     "Lefatshe le le tletseng tshenyego",
+     "Morwalela, le araka ya ga Noa",
+     "Kgolagano ya motshe wa godimo — “ga nkitla ke tlhola ke senya lefatshe ka morwalela”"
+    ]
+   },
+   "babel": {
+    "name": "Tora ya Babele",
+    "book": "Genesise 11",
+    "today": "Iraka gompieno (lebala la Shinare)",
+    "note": "Kgatlhanong le boikgodiso jo bo batlang go fitlha legodimong, Modimo o tlhakatlhakanya puo ya bone mme a phatlalatsa merafe mo lefatsheng.",
+    "events": [
+     "“A re ageng motse le tora… mme re itireleng leina”",
+     "Modimo o tlhakatlhakanya puo ya bone",
+     "Merafe e a phatlalala mo lefatsheng (Shinare — moragonyana Babele)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesise 12",
+    "today": "borwa jwa Iraka gompieno",
+    "note": "Kgang ya Baebele ya kgololo e simolola ka pitso ya monna a le mongwe.",
+    "events": [
+     "Modimo o bitsa Aborame go tswa Ur wa Bakaladia",
+     "“Ke tla go dira setšhaba se segolo… ditshika tsotlhe di tshegofadiwe ka wena”",
+     "Ka tumelo o tswa mo lefatsheng la gabo"
+    ]
+   },
+   "haran": {
+    "name": "Harane",
+    "book": "Genesise 12",
+    "today": "borwa jwa Turkey gompieno",
+    "note": "Mo tseleng, a araba pitso go ya lefatsheng le le solofeditsweng.",
+    "events": [
+     "Lelapa la ga Tera le aga kwa Harane",
+     "Tera o a swa",
+     "Aborame o tswela kwa Kanana a le dingwaga di le 75"
+    ]
+   },
+   "shechem": {
+    "name": "Sikeme · Kanana",
+    "book": "Genesise 12–50",
+    "today": "Nablus gompieno",
+    "note": "Mo lefatsheng le le solofeditsweng go thaiwa lelapa mme kgolagano e fetela kwa ditshikeng.",
+    "events": [
+     "Go tsena Kanana, sebeso sa ntlha — “ke tla naya losika lwa gago lefatshe le”",
+     "Kgolagano (Genesise 15) · Isake · Jakobe",
+     "Barwa ba ba lesome le bobedi ba ga Jakobe — modi wa ditso tse di lesome le bobedi"
+    ]
+   },
+   "egypt": {
+    "name": "Egepeto (Goshene)",
+    "book": "Genesise 37–50 · Ekesodo 1",
+    "today": "Delta ya Nile, Egepeto gompieno",
+    "note": "Lelapa le nna setšhaba se segolo — mme morago setšhaba sa makgoba.",
+    "events": [
+     "Josefa, yo o rekisitsweng, o tlhatlogela mo taolong ya Egepeto",
+     "Lelapa lotlhe la ga Jakobe le fologela kwa tlase go tshaba leuba",
+     "Setšhaba sa Iseraele se se golang se a tshwarwa go nna makgoba"
+    ]
+   },
+   "sinai": {
+    "name": "Thaba ya Sinai",
+    "book": "Ekesodo · Lefitiko",
+    "today": "Hloagana ya Sinai gompieno",
+    "note": "Pholoso e kgolo go gaisa ya Testamente e Kgologolo — makgoba a nna morafe wa Modimo ka boene.",
+    "events": [
+     "Dipetso tse di lesome le kwana ya Tlolaganyo",
+     "Lewatle le Lehibidu le a kgaogana mme ba a kgabaganya",
+     "Melao e e Lesome, Molao, motlaagana le ditlhabelo"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadese (sekaka)",
+    "book": "Dipalo · Doiteronomio",
+    "today": "sekaka sa Sinai–Negebe gompieno",
+    "note": "Go tlhoka tumelo go felela tshika lefatshe — le fa go ntse jalo Modimo o nna nabo.",
+    "events": [
+     "Ditlhodi di le lesome le bobedi — mme batho ba gana go ikanya",
+     "Dingwaga di le 38 mo sekakeng — mana, leru le molelo",
+     "Mo mabaleng a Moabe, thero ya bofelo ya ga Moše (Doiteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Joshua",
+    "today": "Jeriko gompieno",
+    "note": "Kwa bofelong ba tsena ba bo ba tsaya lefatshe le le solofeditsweng.",
+    "events": [
+     "Noka ya Jorodane e a kgaogana mme batho ba a kgabaganya",
+     "Marako a Jeriko a a wa",
+     "Phenyo ya Kanana le kabo ya lefatshe"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Baatlhodi)",
+    "book": "Baatlhodi · Ruthe",
+    "today": "Khirbet Seilun gompieno",
+    "note": "Go se na kgosi, mongwe le mongwe o dira jaaka a rata — kgosi ya nnete e a tlhokega.",
+    "events": [
+     "Motlaagana o tlhomiwa kwa Shilo",
+     "Sediko sa boleo–kgatelelo–pholoso (Debora, Gideone, Samesone)",
+     "Ruthe — boikanyego mo malatsing a lefifi, mo losikeng lwa ga Dafita"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalema · Bogosi jo bo Kopaneng",
+    "book": "1–2 Samuele · 1 Dikgosi",
+    "today": "Jerusalema gompieno",
+    "note": "Setlhoa sa Iseraele — le tsholofetso ya kgosi e e sa khutleng.",
+    "events": [
+     "Saulo kgosi ya ntlha, go bo go latela Dafita le Goliathe",
+     "Kgolagano le Dafita — “sedulo sa gago sa bogosi se tla nna ka bosakhutleng” (2 Samuele 7)",
+     "Solomone o aga Tempele kwa Jerusalema"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Bogosi jo bo Kgaoganeng",
+    "book": "Dikgosi · Baporofeti",
+    "today": "Sebastia gompieno",
+    "note": "Bogosi jwa kgaogana mme jwa wela tlase fa baporofeti ba lela.",
+    "events": [
+     "Morago ga Solomone, kgaogano go nna Juta le Iseraele",
+     "Borapela-medingwana jo bo boeletsang",
+     "Elia, Isaia, Jeremia ba lela ‘boang’ — ba bo ba bolela ka Mesia"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninefe (Asiria)",
+    "book": "2 Dikgosi 17 · Jona",
+    "today": "Mosul, Iraka gompieno",
+    "note": "Ka go itlhokomolosa ditlhagiso tsotlhe, bokone bo wela pele.",
+    "events": [
+     "Ninefe, motsemogolo wa Asiria",
+     "Bogosi jwa bokone bo wela Asiria (722 PB)",
+     "Jona o romelwa kwa Ninefe"
+    ]
+   },
+   "babylon": {
+    "name": "Babele",
+    "book": "2 Dikgosi 25 · Daniele · Esekiele",
+    "today": "Hillah, Iraka gompieno",
+    "note": "Bosigo jo bo lefifi go gaisa — le fa go ntse jalo tsholofetso ya tsosoloso e a sala.",
+    "events": [
+     "Jerusalema e a wa, Tempele e a fisiwa (586 PB)",
+     "Juta o isiwa kwa Babele",
+     "Daniele le Esekiele — tumelo le diponatshegelo mo botshwarwa"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Peresia)",
+    "book": "Esetere · Nehemia",
+    "today": "Shush, Irane gompieno",
+    "note": "Le mo pelong ya mmuso wa baheitane, Modimo o boloka batho ba gagwe.",
+    "events": [
+     "Peresia o wisa Babele",
+     "Esetere o golola Bajuta mo phedisong",
+     "Nehemia o rapela fa pele ga kgosi mme a romelwa"
+    ]
+   },
+   "return": {
+    "name": "Poelo kwa Jerusalema",
+    "book": "Esera · Nehemia · Malaki",
+    "today": "Jerusalema gompieno",
+    "note": "Ba a boa ba bo ba aga gape — mme ga go na kgosi e e tsileng. Ba letela Mesia.",
+    "events": [
+     "Makgaolakgang a mararo a poelo ka taolo ya ga Kuruse (Serubabele 538 · Esera 458 · Nehemia 444)",
+     "Tempele e agiwa gape le marako a Jerusalema a busolosiwa",
+     "Malaki — Testamente e Kgologolo e a konela: “ke tla roma morongwi wa me”"
+    ]
+   }
+  },
+  "labels": [
+   "Lewatle la Mediteraniane",
+   "Mesopotamia",
+   "Sekaka sa Arabia",
+   "Egepeto"
+  ],
+  "journeys": {
+   "flow": "Kgang ya kgololo"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bethelehema",
+    "book": "Mathaio 1–2 · Luka 2",
+    "today": "Bethelehema gompieno",
+    "note": "Mesia yo o solofeditsweng o tla kwa motseng wa ga Dafita — Lefoko le le fetogileng nama.",
+    "events": [
+     "O tsholwa kwa Bethelehema, motse wa ga Dafita",
+     "Baengele ba itsise badisa molaetsa",
+     "Banna ba botlhale ba tla go obamela"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasaretha",
+    "book": "Luka 2 · 4",
+    "today": "Nasaretha gompieno",
+    "note": "Modimo o gola jaaka motho mo motseng o o tlwaelegileng.",
+    "events": [
+     "O godisitswe mo ntlong ya mmetli wa logong",
+     "A le dingwaga di le lesome le bobedi, a botsa a bo a araba mo Tempeleng",
+     "Moragonyana o ganwa mo sinagogeng ya gabo"
+    ]
+   },
+   "jordan": {
+    "name": "Noka ya Jorodane",
+    "book": "Mathaio 3–4",
+    "today": "Jorodane wa kwa tlase gompieno",
+    "note": "Tirelo ya gagwe ya phatlalatsa e a simologa — legodimo le mo tshwaya jaaka Morwa.",
+    "events": [
+     "O kolobediwa ke Johane",
+     "Mowa o fologa jaaka leeba — “Yo ke Morwaake yo o rategang”",
+     "O fenya diraelo tse tharo tsa ga Satane mo sekakeng"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Johane 2",
+    "today": "Kafr Kanna gompieno",
+    "note": "Mo sesupong sa gagwe sa ntlha o senola kgalalelo ya gagwe.",
+    "events": [
+     "Moeng kwa lenyalong",
+     "Metsi a fetolwa beine — sesupo sa gagwe sa ntlha",
+     "Barutwa ba gagwe ba dumela mo go ene"
+    ]
+   },
+   "sychar": {
+    "name": "Sukare (Samaria)",
+    "book": "Johane 2–4",
+    "today": "gaufi le Nablus gompieno",
+    "note": "Tsela ya tirelo ya ntlha — go ralala Jerusalema go ya Samaria yo o nyadiwang.",
+    "events": [
+     "O phepafatsa Tempele kwa Jerusalema",
+     "Bosigo, Nikodemo — “o tshwanetse go tsholwa sešwa”",
+     "Metsi a a tshelang go mosadi wa Mosamaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kaperenauma",
+    "book": "Mathaio 4–13 · Mareko 1–4",
+    "today": "lotshitshi lwa letsha la Galilea gompieno",
+    "note": "Lefelo la motheo la tirelo ya Galilea — pitso, go ruta le kganetso tsotlhe di kopanela fano.",
+    "events": [
+     "O bitsa batshwari ba ditlhapi mme a ithaya fano",
+     "Thero ya kwa Thabeng — “Go sego ba ba humanegileng mo moweng”",
+     "Ditshwantsho tsa bogosi — le kganetso e e golang"
+    ]
+   },
+   "galilee": {
+    "name": "Letsha la Galilea",
+    "book": "Mareko 4 · 6 · Johane 6",
+    "today": "Letsha la Kinneret gompieno",
+    "note": "Ka nonofo mo godimo ga tlholego o supa gore ke mang.",
+    "events": [
+     "“Didimala, ritibala” — o ritibatsa setsuatsue",
+     "O fepa ba le 5,000 ka dinkgwe di le tlhano le ditlhapi di le pedi",
+     "O tsamaya mo godimo ga metsi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisarea Filipi",
+    "book": "Mathaio 16–17",
+    "today": "Banias gompieno",
+    "note": "Barutwa ba lemoga gore ke Keresete, mme tsela ya sefapaano e a bulega.",
+    "events": [
+     "Boipolelo jwa ga Petoro — “O Keresete, Morwa Modimo o o tshelang”",
+     "O bolela ka loso le tsogo ya gagwe lwa ntlha",
+     "O fetoga ponalo mo kgalalelong kwa thabeng"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Luka 18–19",
+    "today": "Jeriko gompieno",
+    "note": "Mo tseleng e e tlhatlogelang Jerusalema, o batla ba ba latlhegileng.",
+    "events": [
+     "O foufolola Baratimeo yo o foufetseng",
+     "O bitsa Sakeo mokgethisi",
+     "“Morwa Motho o tletse go batla le go boloka se se latlhegileng”"
+    ]
+   },
+   "bethany": {
+    "name": "Bethania",
+    "book": "Johane 11–12",
+    "today": "al-Eizariya gompieno",
+    "note": "O supa taolo mo godimo ga loso pele ga beke ya gagwe ya bofelo.",
+    "events": [
+     "O tsosa Lasaro mo lebitleng — “Ke nna tsogo le botshelo”",
+     "Maria o mo tlotsa kgakologelo ya phitlho",
+     "Sesupo se se thatafatsa maano a go mo bolaya"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalema",
+    "book": "Mathaio 21–28 · Luka 24 · Ditiro 1",
+    "today": "Jerusalema gompieno",
+    "note": "Setlhoa se Baebele yotlhe e se supang — sefapaano, tsogo, go tlhatlogela legodimong.",
+    "events": [
+     "Go tsena ka phenyo; o pitikolola ditafole tsa Tempele gape",
+     "Mo Selalelong se se Bofelo o tlhapisa barutwa dinao",
+     "O swa mo sefapaanong",
+     "O tsoga ka letsatsi la boraro, go bo go latela go tlhatlogela legodimong"
+    ]
+   }
+  },
+  "labels": [
+   "Lewatle la Mediteraniane",
+   "Galilea",
+   "Samaria",
+   "Jutea",
+   "Dekapolise",
+   "Perea",
+   "Lewatle le le Suleng"
+  ],
+  "journeys": {
+   "life": "Tsela ya ga Jesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Ditiro 13 · 15",
+    "today": "Antakya, Turkey gompieno",
+    "note": "Phuthego e e romang kwa tirelo ya Baditšhaba e simologang mme e boela teng.",
+    "events": [
+     "Mo thapelong Mowa o tlhaola Baranabase le Saulo",
+     "Phuthego e badumedi ba neng ba bidiwa ‘Bakeresete’ teng lwa ntlha",
+     "Lefelo la go simolola maeto a 1, a 2 le a 3"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Ditiro 13:4",
+    "today": "Turkey gompieno",
+    "note": "Boemakepe jwa Antiokia — ba tsamaela kwa Kupero.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamise (Kupero)",
+    "book": "Ditiro 13:5",
+    "today": "Kupero gompieno",
+    "note": "Boemo jwa ntlha kwa Kupero — go rera mo disinagogeng.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafose",
+    "book": "Ditiro 13:6-12",
+    "today": "Kupero gompieno",
+    "note": "Nonofo e supiwa kgatlhanong le ba ba ganetsang Efangele.",
+    "events": [
+     "Elima moloi o itewa ka bofofu",
+     "Sergio Paulo molaodi o a dumela",
+     "Go tswa fano ‘Paulo’ o tsaya pele"
+    ]
+   },
+   "perga": {
+    "name": "Perega",
+    "book": "Ditiro 13:13",
+    "today": "Antalya, Turkey gompieno",
+    "note": "Boemakepe kwa Pamfilia — fano Johane Mareko o a boela morago.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia ya Pisidia",
+    "book": "Ditiro 13:14-50",
+    "today": "Yalvaç, Turkey gompieno",
+    "note": "Efangele e a phatloga go ya kwa Baditšhabeng.",
+    "events": [
+     "Thero e telele ya histori ya kgololo mo sinagogeng",
+     "Baditšhaba ba bantsi ba a itumela mme ba amogela lefoko",
+     "O lelekwa ke kganetso"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonio",
+    "book": "Ditiro 14:1-7",
+    "today": "Konya, Turkey gompieno",
+    "note": "Ba bantsi ba a dumela, mme pogiso e ba pateletsa go tswela pele.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lisetera",
+    "book": "Ditiro 14:8-20",
+    "today": "Turkey gompieno",
+    "note": "O bidiwa modimo, go bo go latela go kgobotlediwa ka maje.",
+    "events": [
+     "O fodisa monna yo o neng a tlhotsa go tswa botsalong",
+     "Boidiidi bo leka go ba direla ditlhabelo jaaka medimo",
+     "O kgobotlediwa ka maje a bo a tlogelwa a kete o sule, mme o a tsoga"
+    ]
+   },
+   "derbe": {
+    "name": "Derebe",
+    "book": "Ditiro 14:20-21",
+    "today": "Turkey gompieno",
+    "note": "Barutwa ba bantsi ba a dirwa; ba boela morago go nonotsha diphuthego.",
+    "events": []
+   },
+   "troas": {
+    "name": "Teroase",
+    "book": "Ditiro 16:8-10",
+    "today": "Turkey gompieno",
+    "note": "Lefelo la phetogo kwa Efangele e lebang Yuropa lwa ntlha.",
+    "events": [
+     "Ponatshegelo ya monna wa Makedonia",
+     "“Tlaya kwano o re thuse”",
+     "Ka bonako ba kgabaganyetsa kwa Yuropa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Ditiro 16 · Bafilipi",
+    "today": "bokone jwa Gerika gompieno",
+    "note": "Phuthego ya ntlha ya Yuropa — Efangele e fenya le mo kgolegelong.",
+    "events": [
+     "Lidia, morekisi wa masela a bohibidu, o a dumela",
+     "Lelata la mosetsana yo o nang le mowa wa go laola o a gololwa",
+     "Difela tsa bosigogare, thoromo ya lefatshe, lelapa la molebeledi wa kgolegelo le a bolokwa"
+    ]
+   },
+   "thess": {
+    "name": "Thesalonika",
+    "book": "Ditiro 17 · 1–2 Bathesalonika",
+    "today": "Thessaloniki, Gerika gompieno",
+    "note": "Lefoko le tshikinya motse mme kganetso e a tuka.",
+    "events": [
+     "O buisana le bone mo sinagogeng ka Disabata di le tharo",
+     "“Ba ba pitikolotseng lefatshe”",
+     "Ba a itlhokomolosa bosigo"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Ditiro 17:10-15",
+    "today": "Veria, Gerika gompieno",
+    "note": "Ba ba ‘tlotlegang’ ba ba neng ba sekaseka lefoko ka bobone.",
+    "events": [
+     "Ba amogela lefoko ka tlhwaafalo",
+     "Letsatsi le letsatsi ba sekaseka Dikwalo go le tlhomamisa",
+     "Ba bantsi ba a dumela"
+    ]
+   },
+   "athens": {
+    "name": "Athene",
+    "book": "Ditiro 17:16-34",
+    "today": "Athene, Gerika gompieno",
+    "note": "Mo motseng wa borafilosofi o bolela ka ‘modimo o o sa itsiweng’.",
+    "events": [
+     "O tlhotlhelediwa ke motse o o tletseng medingwana",
+     "Mo Areopago o rera Mmopi le tsogo",
+     "O sotlwa, mme ba sekae ba a dumela"
+    ]
+   },
+   "corinth": {
+    "name": "Korinthe",
+    "book": "Ditiro 18 · 1–2 Bakorinthe",
+    "today": "Gerika gompieno",
+    "note": "O nna ngwaga le sephatlo, a tlhoma phuthego mo motseng wa boitshwaro jo bo bosula.",
+    "events": [
+     "O dira megope le Akwila le Perisila",
+     "“O se ka wa boifa… gonne ke na le wena”",
+     "Bantsi ba Korinthe ba a dumela mme ba a kolobediwa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Ditiro 19 · Baefese",
+    "today": "Selçuk, Turkey gompieno",
+    "note": "Pelo ya loeto lwa boraro — lefoko le anama go ralala Asia.",
+    "events": [
+     "Go ruta letsatsi le letsatsi ka dingwaga di le pedi mo holong ya ga Turano",
+     "Dibuka tsa boloi di a fisiwa; ditiro tsa nonofo",
+     "Demeterio mothudi wa selefera o tsosa khuduego"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Ditiro 20:17-38",
+    "today": "Turkey gompieno",
+    "note": "Tsalano e e nang le dikeledi le bagolwane ba Efeso.",
+    "events": [
+     "“Disang phuthego e o e rekileng ka madi a gagwe”",
+     "Bagolwane ba a lela, ba itse gore ga ba na go mo bona gape"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisarea",
+    "book": "Ditiro 23–26",
+    "today": "lotshitshi lwa Iseraele gompieno",
+    "note": "Ka dingwaga di le pedi o emelela Efangele fa pele ga balaodi le kgosi.",
+    "events": [
+     "Ditsheko fa pele ga balaodi Felikse le Festo",
+     "Iphemelo ya gagwe fa pele ga Kgosi Ageripa",
+     "“Ke ikuela go Kaisara” — go ya Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalema",
+    "book": "Ditiro 21–23",
+    "today": "Jerusalema gompieno",
+    "note": "O tshwarwa mo Tempeleng, tsela ya gagwe jaaka legolegwa e a simologa.",
+    "events": [
+     "O tshwarwa ke boidiidi mo Tempeleng",
+     "O iphemela fa pele ga lekgotla",
+     "Jaaka moagi wa Roma, o romelwa ka batlhokomedi go ya Kaisarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Ditiro 27:5-6",
+    "today": "Demre, Turkey gompieno",
+    "note": "Ba fetela mo sekepeng sa Alekesanderia se se yang Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Makgora a Mantle (Kereta)",
+    "book": "Ditiro 27:8-12",
+    "today": "Kereta gompieno",
+    "note": "Tlhagiso ya ga Paulo ya go emisa go tsamaya ga e a reediwa.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kereta",
+    "book": "Tito",
+    "today": "Kereta gompieno",
+    "note": "Morago ga go gololwa, setlhaketlhake se a tlogelang Tito teng go baakanya diphuthego.",
+    "events": [
+     "O tlogela Tito go tlhoma bagolwane mo motseng mongwe le mongwe",
+     "O batla baeteledipele ba ba se nang molato, ba ba ikanyegang",
+     "O kwala lokwalo go Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malета",
+    "book": "Ditiro 27–28",
+    "today": "Maleta gompieno",
+    "note": "Ka setsuatsue le go robega ga sekepe, tsholofetso ya Modimo e a ema.",
+    "events": [
+     "‘Phefo ya bokonebotlhaba’ e robaganya sekepe, mme botlhe ba le 276 ba a phologa",
+     "O lomiwa ke noga, mme ga a utlwe botlhoko",
+     "O fodisa balwetse ba setlhaketlhake"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuse",
+    "book": "Ditiro 28:12",
+    "today": "Sisili, Italia gompieno",
+    "note": "Ba nna malatsi a mararo kwa Sisili.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Ditiro 28:13-14",
+    "today": "Pozzuoli, Italia gompieno",
+    "note": "Ba fitlha kwa Italia mme ba kgatlhantshiwa ke badumedi ka bone.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Ditiro 28 · Dikwalo tsa Kgolegelo · 2 Timotheo",
+    "today": "Roma, Italia gompieno",
+    "note": "Efangele e fitlha kwa pelong ya mmuso kwa bofelong — e seng bokhutlo mme tshimologo.",
+    "events": [
+     "Dingwaga di le pedi mo go disiwa mo ntlong, a rera bogosi ka bopelokgale",
+     "Go tswa fano o kwala Dikwalo tsa Kgolegelo (Baefese·Bafilipi·Bakolosa·Filemone)",
+     "Moragonyana o tshwarwa gape, o kwala 2 Timotheo mme a bolawa — “Ke lolile ntwa e e molemo, ke weditse tsela ya go siana”"
+    ]
+   }
+  },
+  "labels": [
+   "Lewatle la Mediteraniane",
+   "Lewatle la Egeo",
+   "Asia e Nnye",
+   "Makedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Loeto lwa ntlha",
+   "j2": "Loeto lwa bobedi",
+   "j3": "Loeto lwa boraro",
+   "rome": "Loeto lwa bone · go ya Roma",
+   "j5": "Loeto lwa botlhano · morago ga go gololwa"
+  }
+ }
+}
