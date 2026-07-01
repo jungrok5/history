@@ -64,6 +64,51 @@ export function checkI18n() {
     }
   }
 
+  // ---- homoglyph / cross-script contamination scan (sub-page packs) ----
+  // Drafting-agent autocomplete can inject stray characters that a same-Unicode-block scan
+  // misses. Two real batch-4 defects the native reviewers caught but the earlier scan did not:
+  //   (a) tn "Malета" — Latin place name with a Cyrillic "ета" tail (homoglyph),
+  //   (b) as maps — one Bengali RA U+09B0 "র" where Assamese uses ৰ U+09F0.
+  // Scoped to about/maps packs (low-HTML surfaces) and made false-positive-free:
+  //   • rule A fires only on Latin-majority packs, flagging any Cyrillic/Greek letter — so a
+  //     Greek pack (el) or Cyrillic pack is skipped, and a Latin Bible pack never legitimately
+  //     carries Cyrillic/Greek, so tn's "ета" is caught with zero false positives.
+  //   • rule B is Assamese-specific (as never uses র). (The main as pack has 8 pre-existing
+  //     stray র — surfaced separately; this gate guards new about/maps work.)
+  const scriptOf = (cp) => {
+    if ((cp >= 0x41 && cp <= 0x5A) || (cp >= 0x61 && cp <= 0x7A) || (cp >= 0xC0 && cp <= 0x24F)) return 'Latin';
+    if (cp >= 0x400 && cp <= 0x4FF) return 'Cyrillic';
+    if (cp >= 0x370 && cp <= 0x3FF) return 'Greek';
+    return null;
+  };
+  const scanValues = (obj, cb) => {
+    if (typeof obj === 'string') cb(obj.replace(/<[^>]*>/g, ' ')); // strip HTML tags first
+    else if (Array.isArray(obj)) obj.forEach(v => scanValues(v, cb));
+    else if (obj && typeof obj === 'object') Object.values(obj).forEach(v => scanValues(v, cb));
+  };
+  for (const slug of ['about', 'maps']) {
+    const dir = path.join(root, 'i18n', slug);
+    for (const f of list(dir)) {
+      const code = f.slice(0, -5), pack = J(path.join(dir, f));
+      const count = { Latin: 0, Cyrillic: 0, Greek: 0 };
+      const foreign = new Set();
+      scanValues(pack, (s) => {
+        for (const ch of s) { const sc = scriptOf(ch.codePointAt(0)); if (sc) count[sc]++; }
+        if (code === 'as' && s.includes('র')) errors.push(`maps/${code}: Bengali RA U+09B0 "র" — Assamese uses ৰ U+09F0 (in "${s.trim().slice(0, 30)}…")`);
+      });
+      const base = Object.entries(count).sort((a, b) => b[1] - a[1])[0][0];
+      if (base === 'Latin' && (count.Cyrillic || count.Greek)) {
+        scanValues(pack, (s) => {
+          for (const tok of s.split(/\s+/)) {
+            if ([...tok].some(ch => { const sc = scriptOf(ch.codePointAt(0)); return sc === 'Cyrillic' || sc === 'Greek'; }) &&
+                [...tok].some(ch => scriptOf(ch.codePointAt(0)) === 'Latin'))
+              errors.push(`${slug}/${code}: Latin token with Cyrillic/Greek homoglyph "${tok}"`);
+          }
+        });
+      }
+    }
+  }
+
   // ---- every LANGS code has a main pack? ----
   try {
     const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8');

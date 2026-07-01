@@ -157,3 +157,17 @@ non-derivable gotchas live here:
   So when committing a batch, **stage only `i18n/maps/<code>.json` explicitly** (avoid blanket `git add -A`,
   which once committed a stray `scratchpad_build_my.mjs`), and trust `check-i18n` + native review to catch the rest.
   The drafting prompt now tells agents to write only the pack file and self-scan for stray chars.
+- **Homoglyph/cross-script contamination is a real recurring defect — `check-i18n` now gates it.** Same-Unicode-block
+  stray chars slip past a naive CJK/Thai scan. Batch-4 hit two: **tn** `paul.malta.name` "Mal**ета**" (Latin place name
+  with a Cyrillic "ета" tail) and **as** maps had one **Bengali RA র U+09B0** where Assamese uses **ৰ U+09F0** (as ≈
+  2310 ৰ : 0 র when clean; the deployed *main* as pack still has ~8 stray র — separate pre-existing cleanup). The gate
+  (about/maps only, HTML stripped, false-positive-free): **rule A** flags Cyrillic/Greek letters in a Latin-majority
+  pack (skips el/Cyrillic packs); **rule B** flags র in `as`. Native review still catches the rest — the gate just makes
+  the two seen classes non-regressable.
+- **Verify place *facts*, not just spelling — a "today:" field can be geographically wrong.** Batch-4 **lg** rendered
+  "Türkiye" as **"Bulaaya" (=Europe)** in all 13 Anatolian `today` fields (Antioch/Perga/Ephesus… are Asia Minor, not
+  Europe) — a factual reversal on a page whose whole premise is real geography. Fixed to **"Buttuluki"** (Turkey;
+  Luganda country names take the **Bu- class prefix**: Bulaaya=Europe, Bufaransa=France, Bungereza=England — so
+  Bu+tuluki fits the pattern), while **preserving** the genuinely-Europe uses (pa_lead / troas / philippi "first church
+  of Europe"). Lesson: when a `today` field names a country, cross-check it against the EN source per-place (EN
+  `paul.*.today` = "…Türkiye today"); a blanket find/replace would have corrupted the correct Europe mentions.
