@@ -1,0 +1,636 @@
+{
+ "menuName": "Lietuvių",
+ "htmlLang": "lt",
+ "dir": "ltr",
+ "locale": "lt-LT",
+ "brand": "Biblija viename slinkties žvilgsnyje",
+ "docTitle": "Biblija žemėlapyje · Biblija viename slinkties žvilgsnyje",
+ "metaDesc": "Sek Senojo Testamento laiko juostą, Jėzaus gyvenimą ir Pauliaus keliones tikrame žemėlapyje – Biblija vyko tikrose vietose.",
+ "s": {
+  "kicker": "Biblija viename slinkties žvilgsnyje · Žemėlapiai",
+  "title": "Biblija žemėlapyje",
+  "verse": "“Mat mes skelbėme jums mūsų Viešpaties Jėzaus Kristaus galybę ir atėjimą ne mėgdžiodami gudriai išgalvotas pasakas, bet kaip savo akimis matę jo didybę.” (2 Petro 1:16)",
+  "purpose": "Biblija nėra mitas. Tai pasakojimas apie žmones, vaikščiojusius tikrose vietose, tikru laiku ir tikrais vardais. Sek tuos kelius žemėlapyje laiko tvarka – spustelėk tašką arba paspausk ▶ ir eik per juos žingsnis po žingsnio.",
+  "ot_kick": "① Senasis Testamentas – per laiką",
+  "ot_h": "Nuo sukūrimo iki sugrįžimo į Jeruzalę",
+  "ot_lead": "Ne viena kelionė, o išganymo istorijos tėkmė nuo pat sukūrimo: sukūrimas ir nuopuolis → tvanas ir Babelis → pašaukimas (Abraomas) → pažadėtoji žemė → išėjimas → dykuma → užkariavimas → karalystė → padalijimas → tremtis → sugrįžimas.",
+  "je_kick": "② Naujasis Testamentas – Jėzaus gyvenimas",
+  "je_h": "Nuo Betliejaus iki Jeruzalės",
+  "je_lead": "Sek Jėzaus gyvenimą taip, kaip jį pasakoja evangelijos, iš eilės – nuo gimimo Betliejuje per krikštą ir tarnystę Galilėjoje, per Samariją iki kryžiaus, prisikėlimo ir žengimo į dangų Jeruzalėje.",
+  "pa_kick": "③ Naujasis Testamentas – Pauliaus kelionės",
+  "pa_h": "Nuo Antiochijos iki žemės pakraščių – Romos",
+  "pa_lead": "Nuo Sekminių Jeruzalėje – kaip evangelija pasklido už Judėjos ribų, per Mažąją Aziją ir Europą iki imperijos širdies. Pasirink vieną iš penkių kelionių (1-oji · 2-oji · 3-ioji + kelionė į Romą + po paleidimo) ir sek Apaštalų darbų įvykius kartu su pakeliui parašytais laiškais.",
+  "foot": "Šaltiniai · Vietos atitinka Biblijos tekstą ir įprastinę Biblijos geografiją (kur naudinga, pridėti šiuolaikiniai pavadinimai). Pakrantės, upės ir ežerai nubraižyti pagal atvirus geografinius duomenis (Natural Earth), supaprastintai.",
+  "contact": "Klausimai · atsiliepimai — <a id=\"contact\" class=\"mail\">Rašyk laišką</a>",
+  "play": "Leisti",
+  "pause": "Pristabdyti",
+  "today": "Šiandien:",
+  "verseCite": "2 Petro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edenas (sukūrimas · nuopuolis)",
+    "book": "Pradžios 1–3",
+    "today": "dabartinis Tigro–Eufrato regionas",
+    "note": "Į pasaulį, sukurtą labai gerą, įeina nuodėmė ir nutraukia ryšį tarp Dievo ir žmogaus.",
+    "events": [
+     "Sukūrimas per šešias dienas – „buvo labai gera“",
+     "Žmogus, sukurtas pagal Dievo paveikslą",
+     "Nuopuolis ir išvarymas iš Edeno",
+     "Pirmasis evangelijos pažadas – „moters ainija sutrupins žalčiui galvą“"
+    ]
+   },
+   "noah": {
+    "name": "Araratas (tvanas)",
+    "book": "Pradžios 6–9",
+    "today": "Ararato kalnas, dabartinės rytų Turkijos",
+    "note": "Dievas teisia nuodėmės pilną pasaulį, bet per vieną šeimą išsaugo gyvybę.",
+    "events": [
+     "Pasaulis, pilnas sugedimo",
+     "Tvanas ir Nojaus arka",
+     "Vaivorykštės sandora – „daugiau niekada tvanas nesunaikins“"
+    ]
+   },
+   "babel": {
+    "name": "Babelio bokštas",
+    "book": "Pradžios 11",
+    "today": "dabartinis Irakas (Šinaro lyguma)",
+    "note": "Prieš išdidumą, siekiantį dangaus, Dievas sumaišo jų kalbą ir išsklaido tautas po žemę.",
+    "events": [
+     "„Pasistatykime miestą ir bokštą… ir pasidarykime sau vardą“",
+     "Dievas sumaišo jų kalbą",
+     "Tautos išsisklaido po žemę (Šinaras – vėliau Babilonas)"
+    ]
+   },
+   "ur": {
+    "name": "Ūras",
+    "book": "Pradžios 12",
+    "today": "dabartinis pietų Irakas",
+    "note": "Biblijos išganymo istorija prasideda vieno žmogaus pašaukimu.",
+    "events": [
+     "Dievas pašaukia Abromą iš chaldėjų Ūro",
+     "„Padarysiu iš tavęs didelę tautą… visos gentys ras tavyje palaiminimą“",
+     "Tikėjimu jis palieka savo gimtinę"
+    ]
+   },
+   "haran": {
+    "name": "Haranas",
+    "book": "Pradžios 12",
+    "today": "dabartinė pietų Turkija",
+    "note": "Pakeliui, atsiliepdamas į pašaukimą, link pažadėtosios žemės.",
+    "events": [
+     "Teros šeima apsistoja Harane",
+     "Tera miršta",
+     "Abromas, būdamas 75 metų, iškeliauja į Kanaaną"
+    ]
+   },
+   "shechem": {
+    "name": "Sichemas · Kanaanas",
+    "book": "Pradžios 12–50",
+    "today": "dabartinis Nablusas",
+    "note": "Pažadėtojoje žemėje įkuriama šeima, ir sandora perduodama iš kartos į kartą.",
+    "events": [
+     "Įžengdamas į Kanaaną, pirmasis aukuras – „tavo palikuonims duosiu šitą kraštą“",
+     "Sandora (Pr 15) · Izaokas · Jokūbas",
+     "Dvylika Jokūbo sūnų – dvylikos giminių šaknis"
+    ]
+   },
+   "egypt": {
+    "name": "Egiptas (Gošenas)",
+    "book": "Pradžios 37–50 · Išėjimo 1",
+    "today": "dabartinė Nilo delta, Egiptas",
+    "note": "Šeima tampa didele tauta – paskui vergų tauta.",
+    "events": [
+     "Juozapas, parduotas, iškyla į Egipto valdovus",
+     "Visa Jokūbo šeima nusileidžia, bėgdama nuo bado",
+     "Auganti Izraelio tauta paverčiama vergais"
+    ]
+   },
+   "sinai": {
+    "name": "Sinajaus kalnas",
+    "book": "Išėjimo · Kunigų",
+    "today": "dabartinis Sinajaus pusiasalis",
+    "note": "Svarbiausias Senojo Testamento išgelbėjimas – vergai tampa Dievo tauta.",
+    "events": [
+     "Dešimt negandų ir Paschos avinėlis",
+     "Raudonoji jūra prasiskiria, ir jie pereina",
+     "Dešimt įsakymų, Įstatymas, Padangtė ir aukos"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadešas (dykuma)",
+    "book": "Skaičių · Pakartoto Įstatymo",
+    "today": "dabartinė Sinajaus–Negevo dykuma",
+    "note": "Dėl netikėjimo karta praranda žemę – bet Dievas lieka su jais.",
+    "events": [
+     "Dvylika žvalgų – bet tauta atsisako pasitikėti",
+     "38 metai dykumoje – mana, debesis ir ugnis",
+     "Moabo lygumose paskutinis Mozės pamokslas (Pakartotas Įstatymas)"
+    ]
+   },
+   "jericho": {
+    "name": "Jerichas",
+    "book": "Jozuės",
+    "today": "dabartinis Jerichas",
+    "note": "Pagaliau jie įžengia ir užima pažadėtąją žemę.",
+    "events": [
+     "Jordanas prasiskiria, ir tauta pereina",
+     "Jericho sienos griūva",
+     "Kanaano užkariavimas ir žemės padalijimas"
+    ]
+   },
+   "shiloh": {
+    "name": "Šilojas (Teisėjai)",
+    "book": "Teisėjų · Rūtos",
+    "today": "dabartinis Chirbet Seilūnas",
+    "note": "Be karaliaus kiekvienas elgiasi kaip jam patinka – reikia tikro karaliaus.",
+    "events": [
+     "Padangtė pastatoma Šilojuje",
+     "Nuodėmės–priespaudos–išgelbėjimo ratas (Debora, Gideonas, Samsonas)",
+     "Rūta – ištikimybė tamsiu metu, Dovydo giminėje"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalė · Suvienyta karalystė",
+    "book": "1–2 Samuelio · 1 Karalių",
+    "today": "dabartinė Jeruzalė",
+    "note": "Izraelio aukso amžius – ir amžinojo karaliaus pažadas.",
+    "events": [
+     "Pirmasis karalius Saulius, paskui Dovydas ir Galijotas",
+     "Sandora su Dovydu – „tavo sostas bus amžinai“ (2 Sam 7)",
+     "Saliamonas Jeruzalėje pastato šventyklą"
+    ]
+   },
+   "samaria": {
+    "name": "Samarija · Padalyta karalystė",
+    "book": "Karalių knygos · pranašai",
+    "today": "dabartinė Sebastija",
+    "note": "Karalystė skyla ir smunka, o pranašai šaukia.",
+    "events": [
+     "Po Saliamono skilimas į Judą ir Izraelį",
+     "Kartojama stabmeldystė",
+     "Elijas, Izaijas, Jeremijas šaukia „sugrįžkite“ – ir skelbia Mesiją"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninevė (Asirija)",
+    "book": "2 Karalių 17 · Jonos",
+    "today": "dabartinis Mosulas, Irakas",
+    "note": "Nepaisydama jokio įspėjimo, pirmoji krenta šiaurė.",
+    "events": [
+     "Ninevė, Asirijos sostinė",
+     "Šiaurinė karalystė krenta nuo Asirijos (722 m. pr. Kr.)",
+     "Jona siunčiamas į Ninevę"
+    ]
+   },
+   "babylon": {
+    "name": "Babilonas",
+    "book": "2 Karalių 25 · Danielio · Ezechielio",
+    "today": "dabartinė Hila, Irakas",
+    "note": "Tamsiausia naktis – bet lieka atstatymo pažadas.",
+    "events": [
+     "Jeruzalė krenta, šventykla sudeginama (586 m. pr. Kr.)",
+     "Judas nuvedamas į Babiloną",
+     "Danielius ir Ezechielis – tikėjimas ir regėjimai tremtyje"
+    ]
+   },
+   "susa": {
+    "name": "Sūzai (Persija)",
+    "book": "Esteros · Nehemijo",
+    "today": "dabartinis Šušas, Iranas",
+    "note": "Net pagonių imperijos širdyje Dievas saugo savo tautą.",
+    "events": [
+     "Persija nuverčia Babiloną",
+     "Estera išgelbsti žydus nuo sunaikinimo",
+     "Nehemijas meldžiasi prieš karalių ir yra siunčiamas"
+    ]
+   },
+   "return": {
+    "name": "Sugrįžimas į Jeruzalę",
+    "book": "Ezros · Nehemijo · Malachijo",
+    "today": "dabartinė Jeruzalė",
+    "note": "Jie grįžta ir atstato – bet karalius neatėjo. Jie laukia Mesijo.",
+    "events": [
+     "Trys sugrįžimo bangos pagal Kyro įsaką (Zerubabelis 538 · Ezra 458 · Nehemijas 444)",
+     "Šventykla atstatyta ir Jeruzalės sienos atkurtos",
+     "Malachijas – Senasis Testamentas užsibaigia: „Siunčiu savo pasiuntinį“"
+    ]
+   }
+  },
+  "labels": [
+   "Viduržemio jūra",
+   "Mesopotamija",
+   "Arabijos dykuma",
+   "Egiptas"
+  ],
+  "journeys": {
+   "flow": "Išganymo istorija"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betliejus",
+    "book": "Mato 1–2 · Luko 2",
+    "today": "dabartinis Betliejus",
+    "note": "Pažadėtasis Mesijas ateina į Dovydo miestą – Žodis, tapęs kūnu.",
+    "events": [
+     "Gimsta Betliejuje, Dovydo mieste",
+     "Angelai paskelbia žinią piemenims",
+     "Išminčiai ateina pagarbinti"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaretas",
+    "book": "Luko 2 · 4",
+    "today": "dabartinis Nazaretas",
+    "note": "Dievas užauga kaip žmogus paprastame miestelyje.",
+    "events": [
+     "Užaugintas dailidės namuose",
+     "Dvylikos metų klausinėja ir atsako šventykloje",
+     "Vėliau atmestas savo gimtojo miesto sinagogoje"
+    ]
+   },
+   "jordan": {
+    "name": "Jordano upė",
+    "book": "Mato 3–4",
+    "today": "dabartinis žemutinis Jordanas",
+    "note": "Prasideda jo viešoji tarnystė – dangus paliudija jį esant Sūnų.",
+    "events": [
+     "Jono pakrikštytas",
+     "Dvasia nusileidžia lyg balandis – „Šitas yra mano mylimasis Sūnus“",
+     "Dykumoje nugali tris Šėtono gundymus"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Jono 2",
+    "today": "dabartinė Kafr Kana",
+    "note": "Pirmuoju ženklu jis apreiškia savo šlovę.",
+    "events": [
+     "Svečias vestuvėse",
+     "Vanduo paverstas vynu – pirmasis jo ženklas",
+     "Jo mokiniai įtiki jį"
+    ]
+   },
+   "sychar": {
+    "name": "Sicharas (Samarija)",
+    "book": "Jono 2–4",
+    "today": "netoli dabartinio Nabluso",
+    "note": "Ankstyvosios tarnystės kelias – per Jeruzalę ir toliau į niekinamą Samariją.",
+    "events": [
+     "Jis apvalo šventyklą Jeruzalėje",
+     "Nakčia Nikodemas – „Jums reikia gimti iš aukštybės“",
+     "Gyvasis vanduo samarietei"
+    ]
+   },
+   "capernaum": {
+    "name": "Kafarnaumas",
+    "book": "Mato 4–13 · Morkaus 1–4",
+    "today": "dabartinė Galilėjos ežero pakrantė",
+    "note": "Galilėjos tarnystės būstinė – čia susitinka pašaukimas, mokymas ir pasipriešinimas.",
+    "events": [
+     "Pašaukia žvejus ir čia įsikuria",
+     "Kalno pamokslas – „Palaiminti dvasingieji vargdieniai“",
+     "Karalystės palyginimai – ir augantis pasipriešinimas"
+    ]
+   },
+   "galilee": {
+    "name": "Galilėjos ežeras",
+    "book": "Morkaus 4 · 6 · Jono 6",
+    "today": "dabartinis Kinereto ežeras",
+    "note": "Galia gamtai jis parodo, kas yra.",
+    "events": [
+     "„Nutilk, nusiramink!“ – jis nutildo audrą",
+     "Penkiais kepalais ir dviem žuvimis pamaitina 5000",
+     "Vaikšto vandeniu"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Pilypo Cezarėja",
+    "book": "Mato 16–17",
+    "today": "dabartinis Baniasas",
+    "note": "Mokiniai suvokia, kad jis yra Kristus, ir atsiveria kryžiaus kelias.",
+    "events": [
+     "Petro išpažinimas – „Tu esi Mesijas, gyvojo Dievo Sūnus“",
+     "Jis pirmą kartą praneša apie savo mirtį ir prisikėlimą",
+     "Ant kalno atsimaino šlovėje"
+    ]
+   },
+   "jericho": {
+    "name": "Jerichas",
+    "book": "Luko 18–19",
+    "today": "dabartinis Jerichas",
+    "note": "Kelyje į Jeruzalę jis ieško pražuvusių.",
+    "events": [
+     "Jis grąžina regėjimą aklajam Bartimiejui",
+     "Jis pašaukia muitininką Zachiejų",
+     "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo pražuvę“"
+    ]
+   },
+   "bethany": {
+    "name": "Betanija",
+    "book": "Jono 11–12",
+    "today": "dabartinė al Eizarija",
+    "note": "Savo paskutinės savaitės išvakarėse jis parodo valdžią mirčiai.",
+    "events": [
+     "Jis prikelia Lozorių iš kapo – „Aš esu prisikėlimas ir gyvenimas“",
+     "Marija patepa jį laidotuvėms",
+     "Šis ženklas dar labiau sutvirtina sąmokslą jį nužudyti"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalė",
+    "book": "Mato 21–28 · Luko 24 · Apaštalų darbai 1",
+    "today": "dabartinė Jeruzalė",
+    "note": "Kulminacija, į kurią rodo visa Biblija – kryžius, prisikėlimas, žengimas į dangų.",
+    "events": [
+     "Iškilmingas įžengimas; jis vėl apverčia šventyklos stalus",
+     "Per Paskutinę vakarienę jis nuplauna mokiniams kojas",
+     "Jis miršta ant kryžiaus",
+     "Prisikelia trečią dieną, paskui žengia į dangų"
+    ]
+   }
+  },
+  "labels": [
+   "Viduržemio jūra",
+   "Galilėja",
+   "Samarija",
+   "Judėja",
+   "Dekapolis",
+   "Perėja",
+   "Negyvoji jūra"
+  ],
+  "journeys": {
+   "life": "Jėzaus kelias"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiochija",
+    "book": "Apaštalų darbai 13 · 15",
+    "today": "dabartinė Antakija, Turkija",
+    "note": "Siunčianti bažnyčia, iš kurios prasideda ir į kurią sugrįžta misija pagonims.",
+    "events": [
+     "Maldoje Dvasia atskiria Barnabą ir Saulių",
+     "Bažnyčia, kur tikinčiuosius pirmą kartą pavadino „krikščionimis“",
+     "1-osios, 2-osios ir 3-iosios kelionių pradžios taškas"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukija",
+    "book": "Apaštalų darbai 13:4",
+    "today": "dabartinė Turkija",
+    "note": "Antiochijos uostas – iš čia jie išplaukia į Kiprą.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salaminas (Kipras)",
+    "book": "Apaštalų darbai 13:5",
+    "today": "dabartinis Kipras",
+    "note": "Pirmoji stotelė Kipre – jie skelbia sinagogose.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafas",
+    "book": "Apaštalų darbai 13:6-12",
+    "today": "dabartinis Kipras",
+    "note": "Prieš tuos, kurie priešinasi evangelijai, parodoma galia.",
+    "events": [
+     "Burtininkas Elimas apakinamas",
+     "Prokonsulas Sergijus Paulas įtiki",
+     "Nuo čia vadovavimą perima „Paulius“"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Apaštalų darbai 13:13",
+    "today": "dabartinė Antalija, Turkija",
+    "note": "Uostas Pamfilijoje – čia Jonas Morkus sugrįžta atgal.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidijos Antiochija",
+    "book": "Apaštalų darbai 13:14-50",
+    "today": "dabartinis Jalvačas, Turkija",
+    "note": "Evangelija plačiai atsiveria pagonims.",
+    "events": [
+     "Ilgas išganymo istorijos pamokslas sinagogoje",
+     "Daug pagonių džiaugiasi ir priima žodį",
+     "Pasipriešinimo išvaryti"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonija",
+    "book": "Apaštalų darbai 14:1-7",
+    "today": "dabartinė Konija, Turkija",
+    "note": "Daugelis įtiki, bet persekiojimas verčia keliauti toliau.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Apaštalų darbai 14:8-20",
+    "today": "dabartinė Turkija",
+    "note": "Pasveikintas kaip dievas, paskui užmėtytas akmenimis.",
+    "events": [
+     "Išgydo nuo gimimo raišą vyrą",
+     "Minia bando aukoti jiems kaip dievams",
+     "Užmėtytas akmenimis ir paliktas kaip negyvas, jis atsikelia"
+    ]
+   },
+   "derbe": {
+    "name": "Derbė",
+    "book": "Apaštalų darbai 14:20-21",
+    "today": "dabartinė Turkija",
+    "note": "Padaroma daug mokinių; jie grįžta tuo pačiu keliu sustiprinti bažnyčių.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troadė",
+    "book": "Apaštalų darbai 16:8-10",
+    "today": "dabartinė Turkija",
+    "note": "Lūžio taškas, kur evangelija pirmą kartą pasuka į Europą.",
+    "events": [
+     "Regėjimas apie makedonietį",
+     "„Ateik ir mums padėk“",
+     "Jie tuojau pat perplaukia į Europą"
+    ]
+   },
+   "philippi": {
+    "name": "Filipai",
+    "book": "Apaštalų darbai 16 · Filipiečiams",
+    "today": "dabartinė šiaurės Graikija",
+    "note": "Pirmoji Europos bažnyčia – evangelija nugali net kalėjime.",
+    "events": [
+     "Prekiautoja purpuru Lidija įtiki",
+     "Išlaisvinama būrėja vergė",
+     "Vidurnakčio giesmės, žemės drebėjimas, išgelbėti kalėjimo prižiūrėtojo namai"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Apaštalų darbai 17 · 1–2 Tesalonikiečiams",
+    "today": "dabartiniai Salonikai, Graikija",
+    "note": "Žodis sudrebina miestą, ir pasipriešinimas užverda.",
+    "events": [
+     "Tris šabus aiškina sinagogoje",
+     "„Tie, kurie apvertė visą pasaulį aukštyn kojomis“",
+     "Jie naktį pasišalina"
+    ]
+   },
+   "berea": {
+    "name": "Berėja",
+    "book": "Apaštalų darbai 17:10-15",
+    "today": "dabartinė Verija, Graikija",
+    "note": "„Kilnieji“, kurie patys tyrinėjo žodį.",
+    "events": [
+     "Jie noriai priima žodį",
+     "Kasdien tyrinėja Raštus, kad tai patikrintų",
+     "Daugelis įtiki"
+    ]
+   },
+   "athens": {
+    "name": "Atėnai",
+    "book": "Apaštalų darbai 17:16-34",
+    "today": "dabartiniai Atėnai, Graikija",
+    "note": "Filosofų mieste jis skelbia „nežinomąjį dievą“.",
+    "events": [
+     "Sujaudintas stabų pilno miesto",
+     "Areopage jis skelbia Kūrėją ir prisikėlimą",
+     "Išjuoktas, bet keletas įtiki"
+    ]
+   },
+   "corinth": {
+    "name": "Korintas",
+    "book": "Apaštalų darbai 18 · 1–2 Korintiečiams",
+    "today": "dabartinė Graikija",
+    "note": "Jis pusantrų metų pasilieka, ydų mieste įkurdamas bažnyčią.",
+    "events": [
+     "Su Akvilu ir Priscile gamina palapines",
+     "„Nebijok… nes aš esu su tavimi“",
+     "Daug korintiečių įtiki ir pasikrikštija"
+    ]
+   },
+   "ephesus": {
+    "name": "Efezas",
+    "book": "Apaštalų darbai 19 · Efeziečiams",
+    "today": "dabartinis Selčukas, Turkija",
+    "note": "Trečiosios kelionės širdis – žodis plinta po visą Aziją.",
+    "events": [
+     "Dvejus metus kasdien moko Tirano mokykloje",
+     "Sudeginamos burtų knygos; galingi darbai",
+     "Sidabrakalys Demetrijas sukelia maištą"
+    ]
+   },
+   "miletus": {
+    "name": "Miletas",
+    "book": "Apaštalų darbai 20:17-38",
+    "today": "dabartinė Turkija",
+    "note": "Ašaringas atsisveikinimas su Efezo vyresniaisiais.",
+    "events": [
+     "„Rūpinkitės bažnyčia, kurią jis įsigijo savo krauju“",
+     "Vyresnieji verkia, žinodami daugiau jo nebematysią"
+    ]
+   },
+   "caesarea": {
+    "name": "Cezarėja",
+    "book": "Apaštalų darbai 23–26",
+    "today": "dabartinė Izraelio pakrantė",
+    "note": "Dvejus metus jis gina evangeliją prieš valdytojus ir karalių.",
+    "events": [
+     "Teismai prieš valdytojus Feliksą ir Festą",
+     "Jo gynyba prieš karalių Agripą",
+     "„Šaukiuosi ciesoriaus“ – toliau į Romą"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalė",
+    "book": "Apaštalų darbai 21–23",
+    "today": "dabartinė Jeruzalė",
+    "note": "Sugautas šventykloje, jis pradeda kelią kaip kalinys.",
+    "events": [
+     "Minios sugautas šventykloje",
+     "Ginasi prieš tarybą",
+     "Kaip Romos pilietis, su sargyba nusiunčiamas į Cezarėją"
+    ]
+   },
+   "myra": {
+    "name": "Myra",
+    "book": "Apaštalų darbai 27:5-6",
+    "today": "dabartinis Demrė, Turkija",
+    "note": "Jie persėda į Aleksandrijos laivą, plaukiantį į Romą.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Gerieji Uostai (Kreta)",
+    "book": "Apaštalų darbai 27:8-12",
+    "today": "dabartinė Kreta",
+    "note": "Pauliaus įspėjimas nutraukti plaukimą lieka neišgirstas.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Titui",
+    "today": "dabartinė Kreta",
+    "note": "Po paleidimo – sala, kur jis palieka Titą sutvarkyti bažnyčių.",
+    "events": [
+     "Palieka Titą kiekviename mieste paskirti vyresniųjų",
+     "Ragina rinktis nepeiktinus, ištikimus vadovus",
+     "Parašo laišką Titui"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Apaštalų darbai 27–28",
+    "today": "dabartinė Malta",
+    "note": "Per audrą ir laivo sudužimą Dievo pažadas išsilaiko.",
+    "events": [
+     "„Šiaurės rytys“ sudaužo laivą, bet visi 276 išsigelbsti",
+     "Įkąstas angies, jis lieka nesužalotas",
+     "Jis išgydo salos ligonius"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakūzai",
+    "book": "Apaštalų darbai 28:12",
+    "today": "dabartinė Sicilija, Italija",
+    "note": "Sicilijoje jie pasilieka tris dienas.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteolai",
+    "book": "Apaštalų darbai 28:13-14",
+    "today": "dabartinis Pocuolis, Italija",
+    "note": "Jie išlipa Italijoje ir sutinkami bendratikių.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Apaštalų darbai 28 · kalėjimo laiškai · 2 Timotiejui",
+    "today": "dabartinė Roma, Italija",
+    "note": "Evangelija pagaliau pasiekia imperijos širdį – ne pabaiga, o pradžia.",
+    "events": [
+     "Dvejus metus namų arešte drąsiai skelbia karalystę",
+     "Iš čia parašo kalėjimo laiškus (Ef · Fil · Kol · Fm)",
+     "Vėliau vėl įkalintas, parašo 2 Timotiejui ir žūva kankinio mirtimi – „Iškovojau gerą kovą, baigiau bėgimą“"
+    ]
+   }
+  },
+  "labels": [
+   "Viduržemio jūra",
+   "Egėjo jūra",
+   "Mažoji Azija",
+   "Makedonija",
+   "Italija"
+  ],
+  "journeys": {
+   "j1": "Pirmoji kelionė",
+   "j2": "Antroji kelionė",
+   "j3": "Trečioji kelionė",
+   "rome": "Ketvirtoji kelionė · į Romą",
+   "j5": "Penktoji kelionė · po paleidimo"
+  }
+ }
+}

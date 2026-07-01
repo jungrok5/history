@@ -1,0 +1,636 @@
+{
+ "menuName": "Latviešu",
+ "htmlLang": "lv",
+ "dir": "ltr",
+ "locale": "lv-LV",
+ "brand": "Bībele vienā ritinājumā",
+ "docTitle": "Bībele kartē · Bībele vienā ritinājumā",
+ "metaDesc": "Izseko Vecās Derības laika līnijai, Jēzus dzīvei un Pāvila ceļojumiem uz īstas kartes — Bībele notika reālās vietās.",
+ "s": {
+  "kicker": "Bībele vienā ritinājumā · Kartes",
+  "title": "Bībele kartē",
+  "verse": "“Jo mēs nesekojām izgudrotām pasakām, kad mēs jums esam sludinājuši mūsu Kunga Jēzus Kristus spēku un atnākšanu, bet mēs paši Viņa augsto godību ar acīm esam redzējuši.” (2. Pētera 1:16)",
+  "purpose": "Bībele nav mīts. Tā ir pieraksts par cilvēkiem, kas staigāja pa īstām vietām, ar īstiem datumiem un vārdiem. Izseko šos ceļus pa karti, laika secībā — pieskaries punktam vai nospied ▶, lai soli pa solim izietu tam cauri.",
+  "ot_kick": "① Vecā Derība — cauri laikam",
+  "ot_h": "No radīšanas līdz atgriešanās Jeruzālemē",
+  "ot_lead": "Nevis viens ceļojums, bet pestīšanas vēstures plūdums no radīšanas: radīšana un grēkā krišana → plūdi un Bābele → aicinājums (Ābrahāms) → apsolītā zeme → izceļošana → tuksnesis → iekarošana → valstība → sašķelšanās → trimda → atgriešanās.",
+  "je_kick": "② Jaunā Derība — Jēzus dzīve",
+  "je_h": "No Betlemes līdz Jeruzālemei",
+  "je_lead": "Seko Jēzus dzīvei tā, kā to stāsta evaņģēliji, secībā — no Viņa dzimšanas Betlemē caur kristīšanu un Galilejas kalpošanu, cauri Samarijai, līdz krustam, augšāmcelšanās un debeskāpšanai Jeruzālemē.",
+  "pa_kick": "③ Jaunā Derība — Pāvila ceļojumi",
+  "pa_h": "No Antiohijas līdz pasaules galam — Romai",
+  "pa_lead": "No Vasarsvētkiem Jeruzālemē — kā evaņģēlijs izplatījās ārpus Jūdejas — caur Mazāziju un Eiropu līdz impērijas sirdij. Izvēlies vienu no pieciem ceļojumiem (1.·2.·3. + brauciens uz Romu + pēc atbrīvošanas) un seko Apustuļu darbu notikumiem kopā ar vēstulēm, kas rakstītas ceļā.",
+  "foot": "Avoti · Vietas seko Bībeles tekstam un standarta Bībeles ģeogrāfijai (ar mūsdienu nosaukumiem, kur tas palīdz). Krasti, upes un ezeri zīmēti pēc atklātiem ģeogrāfiskiem datiem (Natural Earth), vienkāršoti.",
+  "contact": "Jautājumi · atsauksmes — <a id=\"contact\" class=\"mail\">Rakstīt e-pastu</a>",
+  "play": "Atskaņot",
+  "pause": "Apturēt",
+  "today": "Mūsdienās:",
+  "verseCite": "2. Pētera 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Ēdene (Radīšana · Grēkā krišana)",
+    "book": "1. Mozus 1–3",
+    "today": "mūsdienu Tigras–Eifratas apgabals",
+    "note": "Pasaulē, kas radīta ļoti laba, ienāk grēks un pārcērt saiti starp Dievu un cilvēci.",
+    "events": [
+     "Radīšana sešās dienās — “tas bija ļoti labs”",
+     "Cilvēks radīts pēc Dieva tēla",
+     "Grēkā krišana un izraidīšana no Ēdenes",
+     "Pirmais evaņģēlija apsolījums — “sievas sēkla samīs čūskas galvu”"
+    ]
+   },
+   "noah": {
+    "name": "Ararats (plūdi)",
+    "book": "1. Mozus 6–9",
+    "today": "Ararata kalns mūsdienu Turcijas austrumos",
+    "note": "Dievs tiesā pasauli, kas pilna grēka, tomēr saglabā dzīvību caur vienu ģimeni.",
+    "events": [
+     "Pasaule, pilna samaitātības",
+     "Plūdi un Noas šķirsts",
+     "Varavīksnes derība — “vairs nekad plūdi neizpostīs zemi”"
+    ]
+   },
+   "babel": {
+    "name": "Bābeles tornis",
+    "book": "1. Mozus 11",
+    "today": "mūsdienu Irāka (Sineāras līdzenums)",
+    "note": "Pret lepnību, kas sniedzas pēc debesīm, Dievs sajauc viņu valodu un izklaidē tautas pa visu zemi.",
+    "events": [
+     "“Uzcelsim sev pilsētu un torni… un celsim sev vārdu”",
+     "Dievs sajauc viņu valodu",
+     "Tautas izklīst pa visu zemi (Sineāra — vēlāk Bābele)"
+    ]
+   },
+   "ur": {
+    "name": "Ūra",
+    "book": "1. Mozus 12",
+    "today": "mūsdienu Irākas dienvidi",
+    "note": "Bībeles pestīšanas stāsts sākas ar viena cilvēka aicināšanu.",
+    "events": [
+     "Dievs aicina Ābramu no kaldeju Ūras",
+     "“Es tevi darīšu par lielu tautu… visas ciltis tevī taps svētītas”",
+     "Ticībā viņš atstāj savu dzimteni"
+    ]
+   },
+   "haran": {
+    "name": "Hārana",
+    "book": "1. Mozus 12",
+    "today": "mūsdienu Turcijas dienvidi",
+    "note": "Ceļā, atsaucoties aicinājumam uz apsolīto zemi.",
+    "events": [
+     "Teras ģimene apmetas Hāranā",
+     "Tera nomirst",
+     "Ābrams 75 gadu vecumā dodas uz Kānaānu"
+    ]
+   },
+   "shechem": {
+    "name": "Sihema · Kānaāna",
+    "book": "1. Mozus 12–50",
+    "today": "mūsdienu Nablusa",
+    "note": "Apsolītajā zemē tiek dibināta ģimene, un derība pāriet no paaudzes uz paaudzi.",
+    "events": [
+     "Ieeja Kānaānā, pirmais altāris — “Es došu šo zemi taviem pēcnācējiem”",
+     "Derība (1. Moz 15) · Īzāks · Jēkabs",
+     "Jēkaba divpadsmit dēli — divpadsmit cilšu sakne"
+    ]
+   },
+   "egypt": {
+    "name": "Ēģipte (Gošene)",
+    "book": "1. Mozus 37–50 · 2. Mozus 1",
+    "today": "mūsdienu Nīlas delta, Ēģipte",
+    "note": "Ģimene kļūst par lielu tautu — un tad par vergu tautu.",
+    "events": [
+     "Jāzeps, pārdots svešumā, kļūst par valdnieku Ēģiptē",
+     "Visa Jēkaba ģimene nokāpj, lai izbēgtu no bada",
+     "Augošā Israēla tauta tiek paverdzināta"
+    ]
+   },
+   "sinai": {
+    "name": "Sīnāja kalns",
+    "book": "2. Mozus · 3. Mozus",
+    "today": "mūsdienu Sīnāja pussala",
+    "note": "Vecās Derības galvenā glābšana — vergi kļūst par Dieva paša tautu.",
+    "events": [
+     "Desmit mocības un Pasā jērs",
+     "Sarkanā jūra pāršķeļas, un viņi to šķērso",
+     "Desmit baušļi, bauslība, telts un upuri"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeša (tuksnesis)",
+    "book": "4. Mozus · 5. Mozus",
+    "today": "mūsdienu Sīnāja–Negevas tuksnesis",
+    "note": "Neticība maksā vienai paaudzei zemi — tomēr Dievs paliek ar tiem.",
+    "events": [
+     "Divpadsmit izlūki — bet tauta atsakās uzticēties",
+     "38 gadi tuksnesī — manna, mākonis un uguns",
+     "Moāba klajumos Mozus pēdējā sludināšana (5. Mozus)"
+    ]
+   },
+   "jericho": {
+    "name": "Jērika",
+    "book": "Jozuas",
+    "today": "mūsdienu Jērika",
+    "note": "Beidzot viņi ieiet apsolītajā zemē un to iegūst.",
+    "events": [
+     "Jordāna pāršķeļas, un tauta to šķērso",
+     "Jērikas mūri sabrūk",
+     "Kānaānas iekarošana un zemes sadalīšana"
+    ]
+   },
+   "shiloh": {
+    "name": "Šīlo (Soģi)",
+    "book": "Soģu · Rutes",
+    "today": "mūsdienu Hirbet Seiluna",
+    "note": "Bez ķēniņa katrs dara, kā tam patīk — vajadzīgs īsts ķēniņš.",
+    "events": [
+     "Telts tiek uzcelta Šīlo",
+     "Grēka–apspiešanas–glābšanas loks (Debora, Gideons, Simsons)",
+     "Rute — uzticība tumšās dienās, Dāvida ciltī"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzāleme · Vienotā valstība",
+    "book": "1.–2. Samuēla · 1. Ķēniņu",
+    "today": "mūsdienu Jeruzāleme",
+    "note": "Israēla zelta laikmets — un apsolījums par mūžīgu ķēniņu.",
+    "events": [
+     "Sauls, pirmais ķēniņš, tad Dāvids un Goliāts",
+     "Dāvida derība — “tavs tronis pastāvēs mūžīgi” (2. Sam 7)",
+     "Salamans uzceļ templi Jeruzālemē"
+    ]
+   },
+   "samaria": {
+    "name": "Samarija · Sašķeltā valstība",
+    "book": "Ķēniņu · pravieši",
+    "today": "mūsdienu Sebaste",
+    "note": "Valstība sašķeļas un pagrimst, kamēr pravieši brēc.",
+    "events": [
+     "Pēc Salamana — sašķelšanās Jūdā un Israēlā",
+     "Atkārtota elkdievība",
+     "Elija, Jesaja, Jeremija sauc ‘atgriezieties’ — un pareģo Mesiju"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asīrija)",
+    "book": "2. Ķēniņu 17 · Jonas",
+    "today": "mūsdienu Mosula, Irāka",
+    "note": "Neievērojot nevienu brīdinājumu, ziemeļi krīt pirmie.",
+    "events": [
+     "Ninive, Asīrijas galvaspilsēta",
+     "Ziemeļu valstība krīt Asīrijai (722. g. pr. Kr.)",
+     "Jona tiek sūtīts uz Ninivi"
+    ]
+   },
+   "babylon": {
+    "name": "Bābele",
+    "book": "2. Ķēniņu 25 · Daniēla · Ecehiēla",
+    "today": "mūsdienu Hilla, Irāka",
+    "note": "Vistumšākā nakts — tomēr apsolījums par atjaunošanu paliek.",
+    "events": [
+     "Jeruzāleme krīt, templis tiek sadedzināts (586. g. pr. Kr.)",
+     "Jūda tiek aizvesta uz Bābeli",
+     "Daniēls un Ecehiēls — ticība un vīzijas trimdā"
+    ]
+   },
+   "susa": {
+    "name": "Sūsa (Persija)",
+    "book": "Esteres · Nehemijas",
+    "today": "mūsdienu Šuša, Irāna",
+    "note": "Pat pagānu impērijas sirdī Dievs sargā Savu tautu.",
+    "events": [
+     "Persija gāž Bābeli",
+     "Estere izglābj jūdus no iznīcināšanas",
+     "Nehemija lūdz ķēniņa priekšā un tiek sūtīts"
+    ]
+   },
+   "return": {
+    "name": "Atgriešanās Jeruzālemē",
+    "book": "Ezras · Nehemijas · Maleahijas",
+    "today": "mūsdienu Jeruzāleme",
+    "note": "Viņi atgriežas un atjauno — bet ķēniņš nav nācis. Viņi gaida Mesiju.",
+    "events": [
+     "Trīs atgriešanās viļņi pēc Kīra pavēles (Zerubābels 538 · Ezra 458 · Nehemija 444)",
+     "Templis atjaunots un Jeruzālemes mūri atjaunoti",
+     "Maleahija — Vecā Derība noslēdzas: “Redzi, Es sūtu Savu eņģeli”"
+    ]
+   }
+  },
+  "labels": [
+   "Vidusjūra",
+   "Mezopotāmija",
+   "Arābijas tuksnesis",
+   "Ēģipte"
+  ],
+  "journeys": {
+   "flow": "Pestīšanas stāsts"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betleme",
+    "book": "Mateja ev. 1–2 · Lūkas ev. 2",
+    "today": "mūsdienu Betleme",
+    "note": "Apsolītais Mesija nāk uz Dāvida pilsētu — Vārds tapa miesa.",
+    "events": [
+     "Dzimis Betlemē, Dāvida pilsētā",
+     "Eņģeļi pasludina vēsti ganiem",
+     "Gudrie nāk Viņu pielūgt"
+    ]
+   },
+   "nazareth": {
+    "name": "Nācarete",
+    "book": "Lūkas ev. 2 · 4",
+    "today": "mūsdienu Nācarete",
+    "note": "Dievs uzaug kā cilvēks parastā pilsētiņā.",
+    "events": [
+     "Audzināts galdnieka namā",
+     "Divpadsmit gadu vecumā jautā un atbild templī",
+     "Vēlāk atraidīts savas dzimtās pilsētas sinagogā"
+    ]
+   },
+   "jordan": {
+    "name": "Jordānas upe",
+    "book": "Mateja ev. 3–4",
+    "today": "mūsdienu Jordānas lejtece",
+    "note": "Sākas Viņa publiskā kalpošana — debesis Viņu apzīmogo par Dēlu.",
+    "events": [
+     "Jāņa kristīts",
+     "Gars nolaižas kā balodis — “Šis ir Mans mīļais Dēls”",
+     "Tuksnesī pārvar Sātana trīs kārdinājumus"
+    ]
+   },
+   "cana": {
+    "name": "Kāna",
+    "book": "Jāņa ev. 2",
+    "today": "mūsdienu Kafr Kanna",
+    "note": "Ar Savu pirmo zīmi Viņš atklāj Savu godību.",
+    "events": [
+     "Viesis kāzās",
+     "Ūdens pārvērsts vīnā — Viņa pirmā zīme",
+     "Viņa mācekļi tic Viņam"
+    ]
+   },
+   "sychar": {
+    "name": "Sihara (Samarija)",
+    "book": "Jāņa ev. 2–4",
+    "today": "mūsdienās pie Nablusas",
+    "note": "Agrīnās kalpošanas ceļš — caur Jeruzālemi tālāk uz nicināto Samariju.",
+    "events": [
+     "Viņš šķīsta templi Jeruzālemē",
+     "Naktī Nikodēms — “Tev jāpiedzimst no augšienes”",
+     "Dzīvais ūdens samarietei"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernauma",
+    "book": "Mateja ev. 4–13 · Marka ev. 1–4",
+    "today": "mūsdienu Galilejas ezera krasts",
+    "note": "Galilejas kalpošanas bāze — aicināšana, mācība un pretestība sanāk šeit.",
+    "events": [
+     "Aicina zvejniekus un apmetas šeit",
+     "Kalna sprediķis — “Svētīgi garā nabagi”",
+     "Valstības līdzības — un pieaugoša pretestība"
+    ]
+   },
+   "galilee": {
+    "name": "Galilejas jūra",
+    "book": "Marka ev. 4 · 6 · Jāņa ev. 6",
+    "today": "mūsdienu Kinnereta ezers",
+    "note": "Ar varu pār dabu Viņš parāda, kas Viņš ir.",
+    "events": [
+     "“Klusu, esi mierā” — Viņš klusina vētru",
+     "Paēdina 5000 ar piecām maizēm un divām zivīm",
+     "Staigā pa ūdeni"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Filipa Cēzareja",
+    "book": "Mateja ev. 16–17",
+    "today": "mūsdienu Baniasa",
+    "note": "Mācekļi aptver, ka Viņš ir Kristus, un atveras krusta ceļš.",
+    "events": [
+     "Pētera apliecinājums — “Tu esi Kristus, dzīvā Dieva Dēls”",
+     "Viņš pirmo reizi pareģo Savu nāvi un augšāmcelšanos",
+     "Apskaidrots godībā kalnā"
+    ]
+   },
+   "jericho": {
+    "name": "Jērika",
+    "book": "Lūkas ev. 18–19",
+    "today": "mūsdienu Jērika",
+    "note": "Ceļā augšup uz Jeruzālemi Viņš meklē pazudušos.",
+    "events": [
+     "Viņš dod redzi aklajam Bartimejam",
+     "Viņš aicina muitnieku Caķeju",
+     "“Cilvēka Dēls ir nācis meklēt un glābt pazudušo”"
+    ]
+   },
+   "bethany": {
+    "name": "Betānija",
+    "book": "Jāņa ev. 11–12",
+    "today": "mūsdienu al-Eizārija",
+    "note": "Pēdējās nedēļas priekšvakarā Viņš parāda varu pār nāvi.",
+    "events": [
+     "Viņš uzceļ Lācaru no kapa — “Es esmu augšāmcelšanās un dzīvība”",
+     "Marija svaida Viņu apbedīšanai",
+     "Šī zīme sacietina sazvērestību Viņu nogalināt"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzāleme",
+    "book": "Mateja ev. 21–28 · Lūkas ev. 24 · Apustuļu darbi 1",
+    "today": "mūsdienu Jeruzāleme",
+    "note": "Virsotne, uz kuru norāda visa Bībele — krusts, augšāmcelšanās, debeskāpšana.",
+    "events": [
+     "Uzvaras ieeja; Viņš atkal apgāž tempļa galdus",
+     "Pēdējā vakarēdienā Viņš mazgā mācekļu kājas",
+     "Viņš mirst pie krusta",
+     "Augšāmcēlies trešajā dienā, tad uzkāpj debesīs"
+    ]
+   }
+  },
+  "labels": [
+   "Vidusjūra",
+   "Galileja",
+   "Samarija",
+   "Jūdeja",
+   "Dekapole",
+   "Pereja",
+   "Nāves jūra"
+  ],
+  "journeys": {
+   "life": "Jēzus ceļš"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiohija",
+    "book": "Apustuļu darbi 13 · 15",
+    "today": "mūsdienu Antākija, Turcija",
+    "note": "Sūtītāja draudze, kur sākas un noslēdzas misija pagāniem.",
+    "events": [
+     "Lūgšanā Gars atšķir Barnabu un Saulu",
+     "Draudze, kur ticīgos pirmoreiz sauca par ‘kristiešiem’",
+     "1., 2. un 3. ceļojuma sākumpunkts"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleikija",
+    "book": "Apustuļu darbi 13:4",
+    "today": "mūsdienu Turcija",
+    "note": "Antiohijas osta — viņi kuģo uz Kipru.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamīna (Kipra)",
+    "book": "Apustuļu darbi 13:5",
+    "today": "mūsdienu Kipra",
+    "note": "Pirmā pietura Kiprā — sludināšana sinagogās.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafa",
+    "book": "Apustuļu darbi 13:6-12",
+    "today": "mūsdienu Kipra",
+    "note": "Vara tiek parādīta pret tiem, kas pretojas evaņģēlijam.",
+    "events": [
+     "Burvis Elima top akls",
+     "Zemes pārvaldnieks Sergijs Pauls tic",
+     "No šejienes ‘Pāvils’ pārņem vadību"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Apustuļu darbi 13:13",
+    "today": "mūsdienu Antālija, Turcija",
+    "note": "Pamfīlijas osta — šeit Jānis Marks pagriežas atpakaļ.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidijas Antiohija",
+    "book": "Apustuļu darbi 13:14-50",
+    "today": "mūsdienu Jalvača, Turcija",
+    "note": "Evaņģēlijs izlaužas pretī pagāniem.",
+    "events": [
+     "Garš pestīšanas vēstures sprediķis sinagogā",
+     "Daudzi pagāni priecājas un uzņem vārdu",
+     "Pretestība viņus izdzen"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonija",
+    "book": "Apustuļu darbi 14:1-7",
+    "today": "mūsdienu Konja, Turcija",
+    "note": "Daudzi tic, bet vajāšanas viņus dzen tālāk.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Apustuļu darbi 14:8-20",
+    "today": "mūsdienu Turcija",
+    "note": "Vispirms sveikti kā dievi, tad nomētāti akmeņiem.",
+    "events": [
+     "Dziedina no dzimšanas tizlu vīru",
+     "Pūlis grib viņiem upurēt kā dieviem",
+     "Nomētāts ar akmeņiem un atstāts kā miris, viņš pieceļas"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Apustuļu darbi 14:20-21",
+    "today": "mūsdienu Turcija",
+    "note": "Daudzi kļūst par mācekļiem; viņi iet atpakaļ, lai stiprinātu draudzes.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troāda",
+    "book": "Apustuļu darbi 16:8-10",
+    "today": "mūsdienu Turcija",
+    "note": "Pagrieziena punkts, kur evaņģēlijs pirmoreiz dodas uz Eiropu.",
+    "events": [
+     "Vīzija par Maķedonijas vīru",
+     "“Nāc un palīdzi mums”",
+     "Viņi tūlīt pāriet uz Eiropu"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Apustuļu darbi 16 · Filipiešiem",
+    "today": "mūsdienu Ziemeļgrieķija",
+    "note": "Eiropas pirmā draudze — evaņģēlijs uzvar pat cietumā.",
+    "events": [
+     "Lidija, purpura tirgotāja, tic",
+     "Zīlnieciska verdzene tiek atbrīvota",
+     "Pusnakts dziesmas, zemestrīce, cietumsarga nams izglābts"
+    ]
+   },
+   "thess": {
+    "name": "Tesaloniķe",
+    "book": "Apustuļu darbi 17 · 1.–2. Tesaloniķiešiem",
+    "today": "mūsdienu Saloniki, Grieķija",
+    "note": "Vārds sakustina pilsētu, un pretestība uzvārās.",
+    "events": [
+     "Trīs sabatus sarunājas sinagogā",
+     "“Šie, kas visu pasauli darījuši nemierīgu”",
+     "Viņi naktī aizslīd prom"
+    ]
+   },
+   "berea": {
+    "name": "Beroja",
+    "book": "Apustuļu darbi 17:10-15",
+    "today": "mūsdienu Verija, Grieķija",
+    "note": "‘Cēlie’, kas paši pārbaudīja vārdu.",
+    "events": [
+     "Viņi uzņem vārdu ar dedzību",
+     "Ik dienas pārbauda Rakstus, lai to pārliecinātos",
+     "Daudzi nāk pie ticības"
+    ]
+   },
+   "athens": {
+    "name": "Atēnas",
+    "book": "Apustuļu darbi 17:16-34",
+    "today": "mūsdienu Atēnas, Grieķija",
+    "note": "Filozofu pilsētā Viņš pasludina ‘nepazīstamo dievu’.",
+    "events": [
+     "Satraukts par elkiem pilnu pilsētu",
+     "Areopagā sludina Radītāju un augšāmcelšanos",
+     "Izsmiets, tomēr daži tic"
+    ]
+   },
+   "corinth": {
+    "name": "Korinta",
+    "book": "Apustuļu darbi 18 · 1.–2. Korintiešiem",
+    "today": "mūsdienu Grieķija",
+    "note": "Viņš paliek pusotra gada, dibinādams draudzi netikumu pilnā pilsētā.",
+    "events": [
+     "Taisa teltis ar Akvilu un Priskillu",
+     "“Nebīsties… jo Es esmu ar tevi”",
+     "Daudzi korintieši tic un top kristīti"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesa",
+    "book": "Apustuļu darbi 19 · Efesiešiem",
+    "today": "mūsdienu Selčuka, Turcija",
+    "note": "Trešā ceļojuma sirds — vārds izplatās pa visu Āziju.",
+    "events": [
+     "Divus gadus ik dienas māca Tirana zālē",
+     "Burvju grāmatas sadedzinātas; vareni darbi",
+     "Sudrabkalis Dēmetrijs saceļ dumpi"
+    ]
+   },
+   "miletus": {
+    "name": "Milēta",
+    "book": "Apustuļu darbi 20:17-38",
+    "today": "mūsdienu Turcija",
+    "note": "Asaru pilna atvadīšanās no Efesas vecajiem.",
+    "events": [
+     "“Gani Dieva draudzi, ko Viņš ar Savām asinīm ir ieguvis”",
+     "Vecaji raud, zinādami, ka vairs Viņu neredzēs"
+    ]
+   },
+   "caesarea": {
+    "name": "Cēzareja",
+    "book": "Apustuļu darbi 23–26",
+    "today": "mūsdienu Izraēlas piekraste",
+    "note": "Divus gadus viņš aizstāv evaņģēliju zemes pārvaldnieku un ķēniņa priekšā.",
+    "events": [
+     "Tiesas pārvaldnieku Fēliksa un Fēsta priekšā",
+     "Viņa aizstāvība ķēniņa Agripas priekšā",
+     "“Es piesaucu ķeizaru” — tālāk uz Romu"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzāleme",
+    "book": "Apustuļu darbi 21–23",
+    "today": "mūsdienu Jeruzāleme",
+    "note": "Sagrābts templī, sākas viņa ceļš kā gūsteknim.",
+    "events": [
+     "Pūlis viņu sagrābj templī",
+     "Aizstāvas augstās tiesas priekšā",
+     "Kā romiešu pilsonis, apsardzē sūtīts uz Cēzareju"
+    ]
+   },
+   "myra": {
+    "name": "Mīra",
+    "book": "Apustuļu darbi 27:5-6",
+    "today": "mūsdienu Demre, Turcija",
+    "note": "Viņi pārsēžas Aleksandrijas kuģī, kas dodas uz Romu.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Labās ostas (Krēta)",
+    "book": "Apustuļu darbi 27:8-12",
+    "today": "mūsdienu Krēta",
+    "note": "Pāvila brīdinājumu pārtraukt kuģošanu neieklausās.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krēta",
+    "book": "Titam",
+    "today": "mūsdienu Krēta",
+    "note": "Pēc atbrīvošanas sala, kur viņš atstāj Titu, lai sakārtotu draudzes.",
+    "events": [
+     "Atstāj Titu, lai ieceltu vecajus katrā pilsētā",
+     "Aicina uz nevainojamiem, uzticamiem vadītājiem",
+     "Uzraksta vēstuli Titam"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Apustuļu darbi 27–28",
+    "today": "mūsdienu Malta",
+    "note": "Caur vētru un kuģa avāriju Dieva apsolījums pastāv.",
+    "events": [
+     "‘Eiroklidons’ salauž kuģi, tomēr visi 276 izglābjas",
+     "Odzes sakosts, viņš paliek neskarts",
+     "Viņš dziedina salas slimos"
+    ]
+   },
+   "syracuse": {
+    "name": "Sīrakūzas",
+    "book": "Apustuļu darbi 28:12",
+    "today": "mūsdienu Sicīlija, Itālija",
+    "note": "Viņi uzturas trīs dienas Sicīlijā.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Apustuļu darbi 28:13-14",
+    "today": "mūsdienu Pocuoli, Itālija",
+    "note": "Viņi izkāpj Itālijā, un tos sagaida ticības brāļi.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Apustuļu darbi 28 · cietuma vēstules · 2. Timotejam",
+    "today": "mūsdienu Roma, Itālija",
+    "note": "Evaņģēlijs beidzot sasniedz impērijas sirdi — nevis gals, bet sākums.",
+    "events": [
+     "Divus gadus mājas arestā, drosmīgi sludinādams valstību",
+     "No šejienes viņš raksta cietuma vēstules (Ef·Fil·Kol·Filem)",
+     "Vēlāk atkal ieslodzīts, raksta 2. Timotejam un top mocekļa nāvē — “Labo cīņu es esmu izcīnījis, skrējienu esmu pabeidzis”"
+    ]
+   }
+  },
+  "labels": [
+   "Vidusjūra",
+   "Egejas jūra",
+   "Mazāzija",
+   "Maķedonija",
+   "Itālija"
+  ],
+  "journeys": {
+   "j1": "Pirmais ceļojums",
+   "j2": "Otrais ceļojums",
+   "j3": "Trešais ceļojums",
+   "rome": "Ceturtais ceļojums · uz Romu",
+   "j5": "Piektais ceļojums · pēc atbrīvošanas"
+  }
+ }
+}

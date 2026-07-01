@@ -1,0 +1,636 @@
+{
+ "menuName": "Te Reo Māori",
+ "htmlLang": "mi",
+ "dir": "ltr",
+ "locale": "mi-NZ",
+ "brand": "Te Paipera i te Panui Kotahi",
+ "docTitle": "Te Paipera mā te Mahere · Te Paipera i te Panui Kotahi",
+ "metaDesc": "Whāia te wā o te Kawenata Tawhito, te oranga o Īhu, me ngā haerenga o Paora i runga i te mahere tūturu — i tū tūturu te Paipera ki ngā wāhi pono.",
+ "s": {
+  "kicker": "Te Paipera i te Panui Kotahi · Ngā Mahere",
+  "title": "Te Paipera mā te Mahere",
+  "verse": "“Ehara hoki i te mea he whai tā mātou i ngā kupu i titoa e te whakaaro tinihanga, i te whakapuakanga o te kaha, o te haerenga mai o tō tātou Ariki, o Īhu Karaiti ki a koutou; engari he kaititiro anō mātou ki tōna nui.” (2 Pita 1:16)",
+  "purpose": "Ehara te Paipera i te pakiwaitara. He tuhinga tēnei mō ngā tāngata i haere i runga i ngā wāhi tūturu, ngā rā, me ngā ingoa. Whāia aua ara mā te mahere, i te raupapa o te wā — pāwhiritia tētahi tohu, pēhia rānei a ▶ hei haere māramara i ia hikoinga.",
+  "ot_kick": "① Kawenata Tawhito — puta noa i te wā",
+  "ot_h": "Mai i te hanganga ki te hokinga ki Hiruhārama",
+  "ot_lead": "Ehara i te haerenga kotahi engari ko te rerenga o te hītori whakaoranga mai i te hanganga: te hanganga me te hinganga → te waipuke me Papera → he karanga (Āperahama) → te whenua i oatitia → te Putanga → te koraha → te riringa → te kīngitanga → te wehenga → te whakaraunga → te hokinga mai.",
+  "je_kick": "② Kawenata Hou — te oranga o Īhu",
+  "je_h": "Mai i Petereheme ki Hiruhārama",
+  "je_lead": "Whāia te oranga o Īhu e ai ki ngā Rongopai, i te raupapa — mai i tōna whānautanga i Petereheme, mā tōna iriiringa me tāna minitatanga i Kariri, puta i Hamaria, ki te rīpeka, te aranga, me te kakenga i Hiruhārama.",
+  "pa_kick": "③ Kawenata Hou — ngā haerenga o Paora",
+  "pa_h": "Mai i Anatioka ki ngā pito o te whenua — Roma",
+  "pa_lead": "Mai i te Petekoha i Hiruhārama, me pēhea i hora ai te rongopai ki tua o Hūria — mā Āhia Iti me Ūropi ki te puku o te emepaea. Kōwhiria tētahi o ngā haerenga e rima (tuatahi·tuarua·tuatoru + te terenga ki Roma + i muri i te tukunga), ā, whāia ngā takahanga o Ngā Mahi me ngā pukapuka i tuhia i te ara.",
+  "foot": "Ngā puna · E whai ana ngā wāhi i te kupu o te Paipera me te matawhenua Paipera auau (me ngā ingoa o ēnei rā ina āwhina). Ko ngā tahatika, ngā awa, me ngā roto i tuhia mai i ngā raraunga matawhenua tuwhera (Natural Earth), kua whakamāmātia.",
+  "contact": "He pātai · whakahoki kōrero — <a id=\"contact\" class=\"mail\">Īmēra mai</a>",
+  "play": "Haere",
+  "pause": "Tū",
+  "today": "Ināianei:",
+  "verseCite": "2 Pita 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Erene (Te Hanganga · Te Hinganga)",
+    "book": "Kenehi 1–3",
+    "today": "te rohe o Tikiri–Uparaite ināianei",
+    "note": "Ki tētahi ao i hangaia kia tino pai rawa, ka uru mai te hara, ā, ka motuhia te here i waenga i te Atua me te tangata.",
+    "events": [
+     "Te hanganga i ngā rā e ono — “he pai rawa”",
+     "Te tangata i hangaia kia rite ki te āhua o te Atua",
+     "Te hinganga, me te peinga atu i Erene",
+     "Te oati tuatahi o te rongopai — “ka kuru te uri o te wahine i te māhunga o te nākahi”"
+    ]
+   },
+   "noah": {
+    "name": "Ararata (Te Waipuke)",
+    "book": "Kenehi 6–9",
+    "today": "Maunga Ararata, te rāwhiti o Tākei ināianei",
+    "note": "Ka whakawā te Atua i tētahi ao kī tonu i te hara, heoi ka tiaki ia i te ora mā tētahi whānau kotahi.",
+    "events": [
+     "He ao kī tonu i te kino",
+     "Te waipuke, me te aaka a Noa",
+     "Te kawenata o te āniwaniwa — “e kore anō he waipuke hei whakangaro”"
+    ]
+   },
+   "babel": {
+    "name": "Te Pourewa o Papera",
+    "book": "Kenehi 11",
+    "today": "Irāki ināianei (te mania o Hinara)",
+    "note": "Ki te whakapehapeha e whai ana ki te rangi, ka whakamararahia e te Atua tō rātou reo me ngā iwi puta noa i te whenua.",
+    "events": [
+     "“Tātou ka hanga i tētahi pā me tētahi pourewa… kia whai ingoa ai tātou”",
+     "Ka whakapoauau te Atua i tō rātou reo",
+     "Ka marara ngā iwi puta noa i te whenua (Hinara — muri iho ko Papurona)"
+    ]
+   },
+   "ur": {
+    "name": "Uru",
+    "book": "Kenehi 12",
+    "today": "te tonga o Irāki ināianei",
+    "note": "Ka tīmata te kōrero whakaoranga o te Paipera ki te karanga i tētahi tangata kotahi.",
+    "events": [
+     "Ka karangahia e te Atua a Aperama i Uru o ngā Karari",
+     "“Ka meinga koe e ahau hei iwi nui… mā koe ka manaakitia ngā iwi katoa”",
+     "Mā te whakapono ka wehe ia i tōna whenua"
+    ]
+   },
+   "haran": {
+    "name": "Harana",
+    "book": "Kenehi 12",
+    "today": "te tonga o Tākei ināianei",
+    "note": "I te ara, e whakautu ana i te karanga ki te whenua i oatitia.",
+    "events": [
+     "Ka noho te whānau o Teraha ki Harana",
+     "Ka mate a Teraha",
+     "Ka anga a Aperama ki Kanaana i te 75 o ōna tau"
+    ]
+   },
+   "shechem": {
+    "name": "Hekeme · Kanaana",
+    "book": "Kenehi 12–50",
+    "today": "Nablus ināianei",
+    "note": "I te whenua i oatitia ka whakatūria tētahi whānau, ā, ka tukua te kawenata ki ngā whakatupuranga.",
+    "events": [
+     "Te urunga ki Kanaana, te aata tuatahi — “ka hoatu e ahau tēnei whenua ki tōu uri”",
+     "Te kawenata (Kenehi 15) · Ihaka · Hākopa",
+     "Ngā tama tekau mā rua a Hākopa — te pakiaka o ngā iwi tekau mā rua"
+    ]
+   },
+   "egypt": {
+    "name": "Īhipa (Kohena)",
+    "book": "Kenehi 37–50 · Ekoruhe 1",
+    "today": "te ngutuawa o Naera, Īhipa ināianei",
+    "note": "Ka meinga tētahi whānau hei iwi nui — kātahi hei iwi pononga.",
+    "events": [
+     "A Hōhepa, i hokona atu, ka piki ki te rangatiratanga o Īhipa",
+     "Ka heke te whānau katoa o Hākopa ki te oma i te matekai",
+     "Ka meinga te iwi tipu o Īharaira hei pononga"
+    ]
+   },
+   "sinai": {
+    "name": "Maunga Hinai",
+    "book": "Ekoruhe · Rewitikuha",
+    "today": "Te Kūrae o Hinai ināianei",
+    "note": "Te whakaoranga matua o te Kawenata Tawhito — ka meinga ngā pononga hei iwi ake mā te Atua.",
+    "events": [
+     "Ngā whiu tekau me te reme o te Kapenga",
+     "Ka wehea te Moana Whero, ā, ka whiti rātou",
+     "Ngā Ture Tekau, te Ture, te tāpenakara, me ngā patunga tapu"
+    ]
+   },
+   "kadesh": {
+    "name": "Karehe (te koraha)",
+    "book": "Tauanga · Tiuteronomi",
+    "today": "te koraha o Hinai–Negev ināianei",
+    "note": "Nā te whakaponokore ka ngaro i tētahi whakatupuranga te whenua — heoi ka noho tonu te Atua ki a rātou.",
+    "events": [
+     "Ngā tūtei tekau mā rua — engari ka kāhore te iwi e whakawhirinaki",
+     "38 tau i te koraha — te mana, te kapua, me te ahi",
+     "I ngā mania o Moapa, te kauwhau whakamutunga a Mohi (Tiuteronomi)"
+    ]
+   },
+   "jericho": {
+    "name": "Heriko",
+    "book": "Hohua",
+    "today": "Heriko ināianei",
+    "note": "I te mutunga ka uru rātou, ā, ka riro i a rātou te whenua i oatitia.",
+    "events": [
+     "Ka wehea a Horano, ā, ka whiti te iwi",
+     "Ka hinga ngā taiepa o Heriko",
+     "Te riringa o Kanaana me te wehenga o te whenua"
+    ]
+   },
+   "shiloh": {
+    "name": "Hiro (Ngā Kaiwhakawā)",
+    "book": "Kaiwhakariterite · Rutu",
+    "today": "Khirbet Seilun ināianei",
+    "note": "Kāhore he kīngi, ka mahi te katoa i tāna i pai ai — e hiahiatia ana he kīngi pono.",
+    "events": [
+     "Ka whakatūria te tāpenakara ki Hiro",
+     "Te huringa o te hara–tūkinotanga–whakaoranga (Tepora, Kiriona, Hamahona)",
+     "Rutu — te pono i ngā rā pōuri, i te whakapaparanga o Rāwiri"
+    ]
+   },
+   "jerusalem": {
+    "name": "Hiruhārama · Te Kīngitanga Kotahi",
+    "book": "1–2 Hamuera · 1 Kīngi",
+    "today": "Hiruhārama ināianei",
+    "note": "Te wā korōria o Īharaira — me te oati mō tētahi kīngi mau tonu.",
+    "events": [
+     "A Hāora te kīngi tuatahi, kātahi ko Rāwiri rāua ko Koriata",
+     "Te kawenata o Rāwiri — “tōu torōna ake ake” (2 Hamuera 7)",
+     "Ka hangaia e Horomona te temepara i Hiruhārama"
+    ]
+   },
+   "samaria": {
+    "name": "Hamaria · Te Kīngitanga Wehe",
+    "book": "Kīngi · ngā Poropiti",
+    "today": "Sebastia ināianei",
+    "note": "Ka wehe, ka heke te kīngitanga i te wā e karanga ana ngā poropiti.",
+    "events": [
+     "I muri i a Horomona, te wehenga ki a Hura me Īharaira",
+     "Te karakia whakapakoko tukurua",
+     "Ka karanga a Iraia, Ihāia, Heremaia ‘hoki mai’ — ā, ka poropiti i te Mīhaia"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninewe (Ahiria)",
+    "book": "2 Kīngi 17 · Hona",
+    "today": "Mosul, Irāki ināianei",
+    "note": "I te whakakāhoretanga i ngā whakatūpato katoa, ka hinga tuatahi te raki.",
+    "events": [
+     "Ninewe, te tāone matua o Ahiria",
+     "Ka hinga te kīngitanga raki ki a Ahiria (722 i mua i a te Karaiti)",
+     "Ka tonoa a Hona ki Ninewe"
+    ]
+   },
+   "babylon": {
+    "name": "Papurona",
+    "book": "2 Kīngi 25 · Raniera · Ehekiera",
+    "today": "Hillah, Irāki ināianei",
+    "note": "Te pō pōuri rawa — heoi ka mau tonu te oati o te whakahōnga.",
+    "events": [
+     "Ka hinga a Hiruhārama, ka tahuna te temepara (586 i mua i a te Karaiti)",
+     "Ka whakaraua a Hura ki Papurona",
+     "Raniera rāua ko Ehekiera — te whakapono me ngā kitenga i te whakaraunga"
+    ]
+   },
+   "susa": {
+    "name": "Huhana (Pāhia)",
+    "book": "Ehetere · Nehemia",
+    "today": "Shush, Irāna ināianei",
+    "note": "Ahakoa i te puku o tētahi emepaea etene, ka tiaki te Atua i tōna iwi.",
+    "events": [
+     "Ka hinga a Papurona i a Pāhia",
+     "Ka whakaora a Ehetere i ngā Hūrai i te whakangaromanga",
+     "Ka īnoi a Nehemia i te aroaro o te kīngi, ā, ka tonoa"
+    ]
+   },
+   "return": {
+    "name": "Te Hokinga ki Hiruhārama",
+    "book": "Etera · Nehemia · Maraki",
+    "today": "Hiruhārama ināianei",
+    "note": "Ka hoki mai rātou, ka hanga anō — engari kāhore he kīngi kua tae mai. Kei te tatari rātou ki te Mīhaia.",
+    "events": [
+     "E toru ngā ngaru hokinga mā te ture a Hairuha (Herupapera 538 · Etera 458 · Nehemia 444)",
+     "Ka hanga anō te temepara, ka whakahoutia ngā taiepa o Hiruhārama",
+     "Maraki — ka mutu te Kawenata Tawhito: “Ka ungā atu e ahau tāku karere”"
+    ]
+   }
+  },
+  "labels": [
+   "Te Moana Nui",
+   "Mehopotamia",
+   "Te Koraha o Arapia",
+   "Īhipa"
+  ],
+  "journeys": {
+   "flow": "Te kōrero o te whakaoranga"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Petereheme",
+    "book": "Matiu 1–2 · Ruka 2",
+    "today": "Petereheme ināianei",
+    "note": "Ka tae mai te Mīhaia i oatitia ki te pā o Rāwiri — te Kupu i whakakikokikotia.",
+    "events": [
+     "I whānau ki Petereheme, te pā o Rāwiri",
+     "Ka kauwhau ngā anahera i te rongo ki ngā hēpara",
+     "Ka haere mai ngā Māki ki te koropiko"
+    ]
+   },
+   "nazareth": {
+    "name": "Nahareta",
+    "book": "Ruka 2 · 4",
+    "today": "Nahareta ināianei",
+    "note": "Ka tipu ake te Atua hei tangata i tētahi pā noa.",
+    "events": [
+     "I whakatipuria i te whare o tētahi kāmura",
+     "I te tekau mā rua, e pātai ana, e whakautu ana i te temepara",
+     "Muri iho ka whakakāhoretia i te whare karakia o tōna pā"
+    ]
+   },
+   "jordan": {
+    "name": "Te Awa o Horano",
+    "book": "Matiu 3–4",
+    "today": "te wāhi raro o Horano ināianei",
+    "note": "Ka tīmata tāna minitatanga ki te iwi — ka hīri te rangi i a ia hei Tama.",
+    "events": [
+     "Ka iriiria e Hoani",
+     "Ka heke iho te Wairua ānō he kūkupa — “Ko taku Tama tēnei e aroha nei”",
+     "Ka hinga i a ia ngā whakamatautau e toru a Hātana i te koraha"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Hoani 2",
+    "today": "Kafr Kanna ināianei",
+    "note": "I tāna tohu tuatahi ka whakaatu ia i tōna korōria.",
+    "events": [
+     "He manuhiri i tētahi mārena",
+     "Ka meinga te wai hei wāina — tāna tohu tuatahi",
+     "Ka whakapono ana ākonga ki a ia"
+    ]
+   },
+   "sychar": {
+    "name": "Haika (Hamaria)",
+    "book": "Hoani 2–4",
+    "today": "tata ki Nablus ināianei",
+    "note": "Te ara o te minitatanga moata — mā Hiruhārama, ā, ki Hamaria whakahāwea.",
+    "events": [
+     "Ka horoia e ia te temepara i Hiruhārama",
+     "I te pō, ko Nikorima — “Me whānau hou koe”",
+     "He wai ora mō tētahi wahine Hamaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kaperenauma",
+    "book": "Matiu 4–13 · Māka 1–4",
+    "today": "te tahataha o te roto o Kariri ināianei",
+    "note": "Te tūrangawaewae o te minitatanga i Kariri — ka tūtaki ki konei te karanga, te whakaako, me te whakahē.",
+    "events": [
+     "Ka karanga i ngā kaihao ika, ā, ka noho ki konei",
+     "Te Kauwhau i te Maunga — “Ka koa te hunga rawakore i te wairua”",
+     "Ngā kupu whakarite o te rangatiratanga — me te pikinga o te whakahē"
+    ]
+   },
+   "galilee": {
+    "name": "Te Moana o Kariri",
+    "book": "Māka 4 · 6 · Hoani 6",
+    "today": "Te Roto Kinneret ināianei",
+    "note": "Mā tōna mana ki runga i te taiao ka whakaatu ia ko wai ia.",
+    "events": [
+     "“Kia mārie, whakamutua” — ka whakamārie ia i te tūpuhi",
+     "Ka whāngai i te 5,000 mā ngā taro e rima me ngā ika e rua",
+     "Ka haere ia i runga i te wai"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Hiharia Piripai",
+    "book": "Matiu 16–17",
+    "today": "Banias ināianei",
+    "note": "Ka mārama ngā ākonga ko ia te Karaiti, ā, ka tuwhera te ara o te rīpeka.",
+    "events": [
+     "Te whakaaetanga a Pita — “Ko te Karaiti koe, ko te Tama a te Atua ora”",
+     "Ka poropiti tuatahi ia i tōna matenga me tōna aranga",
+     "Ka puta kē tōna āhua i te korōria i runga i te maunga"
+    ]
+   },
+   "jericho": {
+    "name": "Heriko",
+    "book": "Ruka 18–19",
+    "today": "Heriko ināianei",
+    "note": "I te ara ki runga ki Hiruhārama, ka rapua e ia te hunga ngaro.",
+    "events": [
+     "Ka homai e ia te titiro ki a Paratimiuha matapō",
+     "Ka karanga ia i a Hakiaha te kaikohi takoha",
+     "“I haere mai te Tama a te tangata ki te rapu, ki te whakaora i te mea i ngaro”"
+    ]
+   },
+   "bethany": {
+    "name": "Petani",
+    "book": "Hoani 11–12",
+    "today": "al-Eizariya ināianei",
+    "note": "Ka whakaatu ia i tōna mana ki runga i te mate i te ata o tōna wiki whakamutunga.",
+    "events": [
+     "Ka whakaarahia e ia a Raharuha i te urupā — “Ko ahau te aranga, te ora”",
+     "Ka whakawahia ia e Meri mō te tanumanga",
+     "Nā tēnei tohu ka pakeke ake te whakaaro ki te patu i a ia"
+    ]
+   },
+   "jerusalem": {
+    "name": "Hiruhārama",
+    "book": "Matiu 21–28 · Ruka 24 · Ngā Mahi 1",
+    "today": "Hiruhārama ināianei",
+    "note": "Te tihi e tohu ana te Paipera katoa — te rīpeka, te aranga, te kakenga.",
+    "events": [
+     "Te urunga wikitōria; ka hurihia anō e ia ngā tēpu o te temepara",
+     "I te Hapa Whakamutunga ka horoia e ia ngā waewae o ngā ākonga",
+     "Ka mate ia i te rīpeka",
+     "Ka ara i te rā tuatoru, kātahi ka kake ki runga"
+    ]
+   }
+  },
+  "labels": [
+   "Te Moana Nui",
+   "Kariri",
+   "Hamaria",
+   "Hūria",
+   "Rekaporihi",
+   "Perea",
+   "Te Moana Mate"
+  ],
+  "journeys": {
+   "life": "Te ara o Īhu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Anatioka",
+    "book": "Ngā Mahi 13 · 15",
+    "today": "Antakya, Tākei ināianei",
+    "note": "Te hāhi tono i tīmata ai, i hoki ai hoki te mihana ki ngā Tauiwi.",
+    "events": [
+     "I te īnoi ka wehea e te Wairua a Panapa rāua ko Haora",
+     "Te hāhi i huaina tuatahi ai ngā whakapono ko ngā ‘Karaitiana’",
+     "Te tīmatanga o ngā haerenga tuatahi, tuarua, tuatoru"
+    ]
+   },
+   "seleucia": {
+    "name": "Herukia",
+    "book": "Ngā Mahi 13:4",
+    "today": "Tākei ināianei",
+    "note": "Te tauranga o Anatioka — ka rere rātou ki Kaiperu.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Harami (Kaiperu)",
+    "book": "Ngā Mahi 13:5",
+    "today": "Kaiperu ināianei",
+    "note": "Te tū tuatahi ki Kaiperu — te kauwhau i ngā whare karakia.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Papaho",
+    "book": "Ngā Mahi 13:6-12",
+    "today": "Kaiperu ināianei",
+    "note": "Ka whakaaturia te mana ki te hunga e whakahē ana i te rongopai.",
+    "events": [
+     "Ka whiua a Erima te kaimākutu ki te matapō",
+     "Ka whakapono a Herekiu Pauruha te tino rangatira",
+     "Mai i konei ka arahi ‘Paora’"
+    ]
+   },
+   "perga": {
+    "name": "Pereka",
+    "book": "Ngā Mahi 13:13",
+    "today": "Antalya, Tākei ināianei",
+    "note": "He tauranga i Pamapuria — ka hoki a Hoani Māka i konei.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Anatioka o Pihiria",
+    "book": "Ngā Mahi 13:14-50",
+    "today": "Yalvaç, Tākei ināianei",
+    "note": "Ka tuwhera te rongopai ki ngā Tauiwi.",
+    "events": [
+     "He kauwhau roa mō te hītori whakaoranga i te whare karakia",
+     "Ka koa te tini o ngā Tauiwi, ā, ka tango i te kupu",
+     "Ka peia ki waho e te whakahē"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniuma",
+    "book": "Ngā Mahi 14:1-7",
+    "today": "Konya, Tākei ināianei",
+    "note": "He tokomaha ka whakapono, engari nā te whakatoinga ka anga atu rātou.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Raihitara",
+    "book": "Ngā Mahi 14:8-20",
+    "today": "Tākei ināianei",
+    "note": "I whakanuia hei atua, kātahi ka akina ki te kōhatu.",
+    "events": [
+     "Ka whakaora i tētahi tangata kōpā mai i te whānautanga",
+     "Ka whai te mano ki te patu whakahere ki a rāua hei atua",
+     "I akina ki te kōhatu, ka mahue hei tūpāpaku, heoi ka whakatika ia"
+    ]
+   },
+   "derbe": {
+    "name": "Rerepe",
+    "book": "Ngā Mahi 14:20-21",
+    "today": "Tākei ināianei",
+    "note": "He tokomaha ngā ākonga ka meinga; ka hoki rātou i ō rātou takahanga ki te whakakaha i ngā hāhi.",
+    "events": []
+   },
+   "troas": {
+    "name": "Toroa",
+    "book": "Ngā Mahi 16:8-10",
+    "today": "Tākei ināianei",
+    "note": "Te wāhi hurihanga i anga tuatahi ai te rongopai ki Ūropi.",
+    "events": [
+     "He kitenga o tētahi tangata o Makeronia",
+     "“Whiti mai, āwhinatia mātou”",
+     "Ka whiti tonu rātou ki Ūropi"
+    ]
+   },
+   "philippi": {
+    "name": "Piripai",
+    "book": "Ngā Mahi 16 · Piripai",
+    "today": "te raki o Kariki ināianei",
+    "note": "Te hāhi tuatahi o Ūropi — ka wikitōria te rongopai ahakoa i te whare herehere.",
+    "events": [
+     "Ka whakapono a Riria, te kaihoko papura",
+     "Ka wetekina tētahi kōtiro pononga matakite",
+     "Ngā waiata i waenganui pō, he rū whenua, ka whakaorangia te whare o te kaitiaki herehere"
+    ]
+   },
+   "thess": {
+    "name": "Teharonika",
+    "book": "Ngā Mahi 17 · 1–2 Teharonika",
+    "today": "Thessaloniki, Kariki ināianei",
+    "note": "Ka rūrū te kupu i te pā, ā, ka pupū ake te whakahē.",
+    "events": [
+     "Ka whakawānanga i te whare karakia i ngā hāpati e toru",
+     "“Ko ēnei nāna nei i whakatakahuri te ao”",
+     "Ka wehe puku rātou i te pō"
+    ]
+   },
+   "berea": {
+    "name": "Peria",
+    "book": "Ngā Mahi 17:10-15",
+    "today": "Veria, Kariki ināianei",
+    "note": "Ko te hunga ‘rangatira’ i āta rangahau i te kupu mā rātou anō.",
+    "events": [
+     "Ka tango rātou i te kupu me te hihiko",
+     "Ia rā ka rapu rātou i ngā karaipiture hei whakamātau",
+     "He tokomaha ka whakapono"
+    ]
+   },
+   "athens": {
+    "name": "Atene",
+    "book": "Ngā Mahi 17:16-34",
+    "today": "Atene, Kariki ināianei",
+    "note": "I te pā o ngā mātanga whakaaro ka kauwhautia e ia te ‘atua kāhore i mōhiotia’.",
+    "events": [
+     "Ka pōuri ia i te pā kī tonu i ngā whakapakoko",
+     "I runga i te Areopaka ka kauwhau ia mō te Kaihanga me te aranga",
+     "I tāwaia, heoi ka whakapono ētahi torutoru"
+    ]
+   },
+   "corinth": {
+    "name": "Koriniti",
+    "book": "Ngā Mahi 18 · 1–2 Koriniti",
+    "today": "Kariki ināianei",
+    "note": "Ka noho ia mō te tau me te haurua, e whakatō hāhi ana i tētahi pā kino.",
+    "events": [
+     "Ka hanga tēneti me Akuira rāua ko Pirihira",
+     "“Kaua e wehi… kei a koe hoki ahau”",
+     "He tokomaha o Koriniti ka whakapono, ka iriiria"
+    ]
+   },
+   "ephesus": {
+    "name": "Epeha",
+    "book": "Ngā Mahi 19 · Epeha",
+    "today": "Selçuk, Tākei ināianei",
+    "note": "Te puku o te haerenga tuatoru — ka hora te kupu puta noa i Āhia.",
+    "events": [
+     "Te whakaako ia rā mō ngā tau e rua i te whare o Tairanu",
+     "Ka tahuna ngā pukapuka mākutu; ngā mahi kaha",
+     "Ka whakaohohia e Rimitiriu te kaimahi hiriwa te ngangau"
+    ]
+   },
+   "miletus": {
+    "name": "Miretu",
+    "book": "Ngā Mahi 20:17-38",
+    "today": "Tākei ināianei",
+    "note": "He poroporoaki roimata ki ngā kaumātua o Epeha.",
+    "events": [
+     "“Tiakina te hāhi i hokona e ia ki ōna toto ake”",
+     "Ka tangi ngā kaumātua, i te mōhio e kore rātou e kite anō i a ia"
+    ]
+   },
+   "caesarea": {
+    "name": "Hiharia",
+    "book": "Ngā Mahi 23–26",
+    "today": "te takutai o Īharaira ināianei",
+    "note": "Mō ngā tau e rua ka whakamārama ia i te rongopai i te aroaro o ngā kāwana me tētahi kīngi.",
+    "events": [
+     "Ngā whakawākanga i te aroaro o ngā kāwana, o Pirika rāua ko Petuha",
+     "Tāna whakamārie i te aroaro o Kīngi Akaripa",
+     "“Ka karanga ahau ki a Hīha” — ka anga ki Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Hiruhārama",
+    "book": "Ngā Mahi 21–23",
+    "today": "Hiruhārama ināianei",
+    "note": "I hopukina i te temepara, ka tīmata tōna ara hei mauhere.",
+    "events": [
+     "Ka hopukina e te mano i te temepara",
+     "Ka whakamārie ia i te aroaro o te rūnanga",
+     "Hei tangata nō Roma, ka tonoa ki Hiharia i raro i te tiaki"
+    ]
+   },
+   "myra": {
+    "name": "Maira",
+    "book": "Ngā Mahi 27:5-6",
+    "today": "Demre, Tākei ināianei",
+    "note": "Ka whakawhiti rātou ki tētahi kaipuke nō Arehanaria e anga ana ki Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Ngā Kokoru Ataahua (Kariti)",
+    "book": "Ngā Mahi 27:8-12",
+    "today": "Kariti ināianei",
+    "note": "Kāhore i whakarangona te whakatūpato a Paora kia mutu te rere.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kariti",
+    "book": "Taituha",
+    "today": "Kariti ināianei",
+    "note": "I muri i tōna tukunga, te motu i waiho ai e ia a Taituha hei whakatika i ngā hāhi.",
+    "events": [
+     "Ka waiho a Taituha hei whakarite kaumātua i ia pā",
+     "Ka tono kia tū ngā kaiārahi kāhore he kupu, e pono ana",
+     "Ka tuhia te pukapuka ki a Taituha"
+    ]
+   },
+   "malta": {
+    "name": "Merita",
+    "book": "Ngā Mahi 27–28",
+    "today": "Merita ināianei",
+    "note": "Mā roto i te tūpuhi me te pakarutanga o te kaipuke, ka mau tonu te oati a te Atua.",
+    "events": [
+     "Ka pakaru te kaipuke i te ‘hau raki-mārangai’, heoi ka ora katoa ngā 276",
+     "I ngaua e te neke, kāhore ia i mate",
+     "Ka whakaora ia i te hunga māuiui o te motu"
+    ]
+   },
+   "syracuse": {
+    "name": "Hairakuha",
+    "book": "Ngā Mahi 28:12",
+    "today": "Hihiri, Itari ināianei",
+    "note": "Ka noho rātou mō ngā rā e toru ki Hihiri.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteori",
+    "book": "Ngā Mahi 28:13-14",
+    "today": "Pozzuoli, Itari ināianei",
+    "note": "Ka ū rātou ki Itari, ā, ka tūtakina e ngā hoa whakapono.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Ngā Mahi 28 · Ngā Pukapuka Herehere · 2 Timoti",
+    "today": "Roma, Itari ināianei",
+    "note": "Ka tae te rongopai ki te puku o te emepaea i te mutunga — ehara i te mutunga engari he tīmatanga.",
+    "events": [
+     "E rua ngā tau i raro i te mauhere ā-whare, e kauwhau māia ana i te rangatiratanga",
+     "Mai i konei ka tuhia e ia ngā Pukapuka Herehere (Epeha·Piripai·Korohe·Pirimona)",
+     "Muri iho ka mauheretia anō, ka tuhia e ia a 2 Timoti, ā, ka mate hei kaiwhakaatu — “Kua whawhaitia e ahau te whawhai pai, kua omakia e ahau taku omanga”"
+    ]
+   }
+  },
+  "labels": [
+   "Te Moana Nui",
+   "Te Moana Aekeana",
+   "Āhia Iti",
+   "Makeronia",
+   "Itari"
+  ],
+  "journeys": {
+   "j1": "Te haerenga tuatahi",
+   "j2": "Te haerenga tuarua",
+   "j3": "Te haerenga tuatoru",
+   "rome": "Te haerenga tuawhā · ki Roma",
+   "j5": "Te haerenga tuarima · i muri i te tukunga"
+  }
+ }
+}
