@@ -1,0 +1,636 @@
+{
+ "menuName": "Shqip",
+ "htmlLang": "sq",
+ "dir": "ltr",
+ "locale": "sq-AL",
+ "brand": "Bibla me një shikim",
+ "docTitle": "Bibla në hartë · Bibla me një shikim",
+ "metaDesc": "Ndiq në një hartë të vërtetë kronologjinë e Dhiatës së Vjetër, jetën e Jezuit dhe udhëtimet e Palit — Bibla ndodhi në vende të vërteta.",
+ "s": {
+  "kicker": "Bibla me një shikim · Harta",
+  "title": "Bibla në hartë",
+  "verse": "“Ne nuk përdorëm përralla të thurura me mjeshtëri për t'ju shpallur fuqinë dhe ardhjen e Zotit tonë Jezu Krisht. Ne e kemi parë me sytë tanë madhështinë e tij.” (2 Pjetrit 1:16)",
+  "purpose": "Bibla nuk është mit. Është një rrëfim njerëzish që ecën në vende, data dhe emra të vërtetë. Ndiqi ato udhë në një hartë, sipas radhës kohore — prek një pikë, ose shtyp ▶ për ta përshkuar hap pas hapi.",
+  "ot_kick": "① Dhiata e Vjetër — përgjatë kohës",
+  "ot_h": "Nga krijimi te kthimi në Jerusalem",
+  "ot_lead": "Jo një udhëtim i vetëm, por rrjedha e historisë së shpengimit që nga krijimi: krijimi dhe rënia → përmbytja dhe Babeli → një thirrje (Abrahami) → toka e premtuar → Eksodi → shkretëtira → pushtimi → mbretëria → ndarja → mërgimi → kthimi.",
+  "je_kick": "② Dhiata e Re — jeta e Jezuit",
+  "je_h": "Nga Betlehemi te Jerusalemi",
+  "je_lead": "Ndiq jetën e Jezuit ashtu si e tregojnë ungjijtë, sipas radhës — nga lindja e tij në Betlehem përmes pagëzimit dhe shërbesës në Galile, nëpër Samari, deri te kryqi, ngjallja dhe ngjitja në Jerusalem.",
+  "pa_kick": "③ Dhiata e Re — udhëtimet e Palit",
+  "pa_h": "Nga Antioku te skajet e dheut — Roma",
+  "pa_lead": "Nga Rrëshaja në Jerusalem, si u përhap ungjilli përtej Judesë — nëpër Azinë e Vogël dhe Evropën deri në zemrën e perandorisë. Zgjidh një nga pesë udhëtimet (i 1-ri·i 2-ti·i 3-ti + udhëtimi për në Romë + pas lirimit) dhe ndiq ngjarjet e Veprave me letrat e shkruara gjatë udhës.",
+  "foot": "Burimet · Vendet ndjekin tekstin biblik dhe gjeografinë e zakonshme biblike (me emra modernë ku ndihmon). Bregdetet, lumenjtë dhe liqenet janë vizatuar nga të dhëna gjeografike të hapura (Natural Earth), të thjeshtuara.",
+  "contact": "Pyetje · komente — <a id=\"contact\" class=\"mail\">Na shkruani email</a>",
+  "play": "Luaj",
+  "pause": "Ndalo",
+  "today": "Sot:",
+  "verseCite": "2 Pjetrit 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edeni (Krijimi · Rënia)",
+    "book": "Zanafilla 1–3",
+    "today": "rajoni i Tigrit dhe Eufratit sot",
+    "note": "Në një botë të bërë shumë të mirë, mëkati hyn dhe këput lidhjen mes Perëndisë dhe njerëzimit.",
+    "events": [
+     "Krijimi në gjashtë ditë — «ishte shumë e mirë»",
+     "Njeriu i bërë sipas shëmbëlltyrës së Perëndisë",
+     "Rënia dhe dëbimi nga Edeni",
+     "Premtimi i parë i ungjillit — «fara e gruas do t'ia shtypë kokën gjarprit»"
+    ]
+   },
+   "noah": {
+    "name": "Ararati (Përmbytja)",
+    "book": "Zanafilla 6–9",
+    "today": "Mali Ararat, në Turqinë lindore sot",
+    "note": "Perëndia gjykon një botë plot mëkat, por ruan jetën përmes një familjeje të vetme.",
+    "events": [
+     "Një botë e mbushur me prishje",
+     "Përmbytja dhe arka e Noeut",
+     "Besëlidhja e ylberit — «kurrë më një përmbytje për të shkatërruar»"
+    ]
+   },
+   "babel": {
+    "name": "Kulla e Babelit",
+    "book": "Zanafilla 11",
+    "today": "Iraku sot (fusha e Shinarit)",
+    "note": "Kundër krenarisë që synon qiellin, Perëndia ua ngatërron gjuhën dhe i shpërndan popujt mbi tokë.",
+    "events": [
+     "«Të ndërtojmë një qytet dhe një kullë… e të bëjmë një emër për vete»",
+     "Perëndia ua ngatërron gjuhën",
+     "Popujt shpërndahen mbi tokë (Shinari — më vonë Babiloni)"
+    ]
+   },
+   "ur": {
+    "name": "Uri",
+    "book": "Zanafilla 12",
+    "today": "Iraku jugor sot",
+    "note": "Historia e shpengimit e Biblës nis me thirrjen e një njeriu të vetëm.",
+    "events": [
+     "Perëndia e thërret Abramin nga Uri i Kaldeasve",
+     "«Do të të bëj një komb të madh… të gjithë popujt do të bekohen në ty»",
+     "Me besim ai lë atdheun e tij"
+    ]
+   },
+   "haran": {
+    "name": "Harani",
+    "book": "Zanafilla 12",
+    "today": "Turqia jugore sot",
+    "note": "Rrugës, duke iu përgjigjur thirrjes drejt tokës së premtuar.",
+    "events": [
+     "Familja e Terahut vendoset në Haran",
+     "Terahu vdes",
+     "Abrami niset për në Kanaan në moshën 75-vjeçare"
+    ]
+   },
+   "shechem": {
+    "name": "Sikemi · Kanaani",
+    "book": "Zanafilla 12–50",
+    "today": "Nabllusi sot",
+    "note": "Në tokën e premtuar themelohet një familje dhe besëlidhja kalon brez pas brezi.",
+    "events": [
+     "Hyrja në Kanaan, altari i parë — «pasardhësve të tu do t'ia jap këtë tokë»",
+     "Besëlidhja (Zan 15) · Isaku · Jakobi",
+     "Dymbëdhjetë bijtë e Jakobit — rrënja e dymbëdhjetë fiseve"
+    ]
+   },
+   "egypt": {
+    "name": "Egjipti (Goshen)",
+    "book": "Zanafilla 37–50 · Eksodi 1",
+    "today": "Delta e Nilit, Egjipt sot",
+    "note": "Një familje bëhet një komb i madh — pastaj një komb skllevërsh.",
+    "events": [
+     "Jozefi, i shitur larg, ngrihet të sundojë Egjiptin",
+     "Gjithë familja e Jakobit zbret për t'i shpëtuar zisë së bukës",
+     "Kombi në rritje i Izraelit skllavërohet"
+    ]
+   },
+   "sinai": {
+    "name": "Mali Sinai",
+    "book": "Eksodi · Levitiku",
+    "today": "Gadishulli i Sinait sot",
+    "note": "Shpëtimi qendror i Dhiatës së Vjetër — skllevërit bëhen populli i vetë Perëndisë.",
+    "events": [
+     "Dhjetë plagët dhe qengji i Pashkës",
+     "Deti i Kuq ndahet dhe ata kalojnë",
+     "Dhjetë Urdhërimet, Ligji, tabernakulli dhe flijimet"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeshi (shkretëtira)",
+    "book": "Numrat · Ligji i përtërirë",
+    "today": "shkretëtira e Sinait dhe e Negevit sot",
+    "note": "Mosbesimi i kushton një brezi tokën — por Perëndia mbetet me ta.",
+    "events": [
+     "Dymbëdhjetë zbulues — por populli nuk pranon të besojë",
+     "38 vjet në shkretëtirë — mana, reja dhe zjarri",
+     "Në fushat e Moabit, predikimi i fundit i Moisiut (Ligji i përtërirë)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Jozueu",
+    "today": "Jeriko sot",
+    "note": "Më në fund hyjnë dhe marrin tokën e premtuar.",
+    "events": [
+     "Jordani ndahet dhe populli kalon",
+     "Muret e Jerikos bien",
+     "Pushtimi i Kanaanit dhe ndarja e tokës"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Gjyqtarët)",
+    "book": "Gjyqtarët · Ruta",
+    "today": "Khirbet Seilun sot",
+    "note": "Pa mbret, secili bën si t'i duket — nevojitet një mbret i vërtetë.",
+    "events": [
+     "Tabernakulli ngrihet në Shilo",
+     "Cikli mëkat–shtypje–shpëtim (Debora, Gedeoni, Sansoni)",
+     "Ruta — besnikëri në ditë të errëta, në linjën e Davidit"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Mbretëria e bashkuar",
+    "book": "1–2 Samuelit · 1 Mbretërve",
+    "today": "Jerusalem sot",
+    "note": "Epoka e artë e Izraelit — dhe premtimi i një mbreti të përjetshëm.",
+    "events": [
+     "Sauli mbreti i parë, pastaj Davidi dhe Goliati",
+     "Besëlidhja me Davidin — «froni yt përgjithmonë» (2 Sam 7)",
+     "Salomoni ndërton tempullin në Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Mbretëria e ndarë",
+    "book": "Mbretërit · Profetët",
+    "today": "Sebastia sot",
+    "note": "Mbretëria ndahet dhe bie ndërsa profetët thërrasin.",
+    "events": [
+     "Pas Salomonit, ndarja në Judë dhe Izrael",
+     "Idhujtari e përsëritur",
+     "Elia, Isaia, Jeremia thërrasin «kthehuni» — dhe paralajmërojnë Mesinë"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "2 Mbretërve 17 · Jona",
+    "today": "Mosuli, Irak sot",
+    "note": "Duke shpërfillur çdo paralajmërim, veriu bie i pari.",
+    "events": [
+     "Ninive, kryeqyteti i Asirisë",
+     "Mbretëria veriore bie para Asirisë (722 p.K.)",
+     "Jona dërgohet në Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babiloni",
+    "book": "2 Mbretërve 25 · Danieli · Ezekieli",
+    "today": "Hilla, Irak sot",
+    "note": "Nata më e errët — por premtimi i rivendosjes mbetet.",
+    "events": [
+     "Jerusalemi bie, tempulli digjet (586 p.K.)",
+     "Juda çohet rob në Babiloni",
+     "Danieli dhe Ezekieli — besim dhe vegime në mërgim"
+    ]
+   },
+   "susa": {
+    "name": "Suza (Persia)",
+    "book": "Estera · Nehemia",
+    "today": "Shushi, Iran sot",
+    "note": "Edhe në zemrën e një perandorie pagane, Perëndia e ruan popullin e tij.",
+    "events": [
+     "Persia rrëzon Babiloninë",
+     "Estera i shpëton judenjtë nga shfarosja",
+     "Nehemia lutet para mbretit dhe dërgohet"
+    ]
+   },
+   "return": {
+    "name": "Kthimi në Jerusalem",
+    "book": "Ezdra · Nehemia · Malakia",
+    "today": "Jerusalem sot",
+    "note": "Kthehen dhe rindërtojnë — por asnjë mbret nuk ka ardhur. Presin Mesinë.",
+    "events": [
+     "Tri valë kthimi me dekretin e Kirit (Zorobabeli 538 · Ezdra 458 · Nehemia 444)",
+     "Tempulli i rindërtuar dhe muret e Jerusalemit të riparuara",
+     "Malakia — Dhiata e Vjetër mbyllet: «Po dërgoj lajmëtarin tim»"
+    ]
+   }
+  },
+  "labels": [
+   "Deti Mesdhe",
+   "Mesopotamia",
+   "Shkretëtira e Arabisë",
+   "Egjipti"
+  ],
+  "journeys": {
+   "flow": "Historia e shpengimit"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mateu 1–2 · Luka 2",
+    "today": "Betlehem sot",
+    "note": "Mesia i premtuar vjen në qytetin e Davidit — Fjala u bë mish.",
+    "events": [
+     "I lindur në Betlehem, qytetin e Davidit",
+     "Engjëjt ua shpallin lajmin barinjve",
+     "Dijetarët vijnë për ta adhuruar"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareti",
+    "book": "Luka 2 · 4",
+    "today": "Nazaret sot",
+    "note": "Perëndia rritet si njeri në një qytet të zakonshëm.",
+    "events": [
+     "I rritur në shtëpinë e një zdrukthëtari",
+     "Dymbëdhjetë vjeç, pyet e përgjigjet në tempull",
+     "Më vonë i refuzuar në sinagogën e vendlindjes"
+    ]
+   },
+   "jordan": {
+    "name": "Lumi Jordan",
+    "book": "Mateu 3–4",
+    "today": "Jordani i poshtëm sot",
+    "note": "Shërbesa e tij publike nis — qielli e vulos si Birin.",
+    "events": [
+     "I pagëzuar nga Gjoni",
+     "Shpirti zbret si pëllumb — «Ky është Biri im i dashur»",
+     "Mund tri tundimet e Satanit në shkretëtirë"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Gjoni 2",
+    "today": "Kafr Kanna sot",
+    "note": "Në shenjën e tij të parë zbulon lavdinë e vet.",
+    "events": [
+     "Mysafir në një dasmë",
+     "Uji kthehet në verë — shenja e tij e parë",
+     "Dishepujt e tij besojnë në të"
+    ]
+   },
+   "sychar": {
+    "name": "Sikar (Samaria)",
+    "book": "Gjoni 2–4",
+    "today": "afër Nabllusit sot",
+    "note": "Udha e shërbesës së hershme — përmes Jerusalemit e drejt Samarisë së përbuzur.",
+    "events": [
+     "Pastron tempullin në Jerusalem",
+     "Natën, Nikodemi — «Duhet të lindësh përsëri»",
+     "Ujë i gjallë për një grua samaritane"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Mateu 4–13 · Marku 1–4",
+    "today": "bregu i liqenit të Galilesë sot",
+    "note": "Baza e shërbesës në Galile — thirrja, mësimi dhe kundërshtimi takohen të gjitha këtu.",
+    "events": [
+     "Thërret peshkatarët dhe bazohet këtu",
+     "Predikimi në mal — «Lum të varfrit në frymë»",
+     "Shëmbëlltyrat e mbretërisë — dhe kundërshtimi në rritje"
+    ]
+   },
+   "galilee": {
+    "name": "Deti i Galilesë",
+    "book": "Marku 4 · 6 · Gjoni 6",
+    "today": "Liqeni Kinneret sot",
+    "note": "Me fuqi mbi natyrën tregon kush është.",
+    "events": [
+     "«Pusho, hesht» — qetëson stuhinë",
+     "Ushqen 5000 veta me pesë bukë e dy peshq",
+     "Ecën mbi ujë"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea e Filipit",
+    "book": "Mateu 16–17",
+    "today": "Banias sot",
+    "note": "Dishepujt kuptojnë se ai është Krishti, dhe hapet udha e kryqit.",
+    "events": [
+     "Rrëfimi i Pjetrit — «Ti je Krishti, Biri i Perëndisë së gjallë»",
+     "Për herë të parë paralajmëron vdekjen dhe ngjalljen e tij",
+     "Shpërfytyrohet në lavdi mbi mal"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Luka 18–19",
+    "today": "Jeriko sot",
+    "note": "Rrugës për në Jerusalem, kërkon të humburin.",
+    "events": [
+     "I jep shikimin Bartimeut të verbër",
+     "Thërret Zakeun tagrambledhësin",
+     "«Biri i njeriut erdhi të kërkojë dhe të shpëtojë të humburin»"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Gjoni 11–12",
+    "today": "el-Ejzarija sot",
+    "note": "Tregon pushtet mbi vdekjen në prag të javës së tij të fundit.",
+    "events": [
+     "Ngjall Lazarin nga varri — «Unë jam ngjallja dhe jeta»",
+     "Maria e vajos për varrim",
+     "Kjo shenjë ashpërson kurthin për ta vrarë"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mateu 21–28 · Luka 24 · Veprat 1",
+    "today": "Jerusalem sot",
+    "note": "Kulmi ku tregon gjithë Bibla — kryqi, ngjallja, ngjitja.",
+    "events": [
+     "Hyrja triumfale; përsëri përmbys tavolinat në tempull",
+     "Në Darkën e fundit u lan këmbët dishepujve",
+     "Vdes në kryq",
+     "I ngjallur ditën e tretë, pastaj i ngjitur"
+    ]
+   }
+  },
+  "labels": [
+   "Deti Mesdhe",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Dekapoli",
+   "Perea",
+   "Deti i Vdekur"
+  ],
+  "journeys": {
+   "life": "Udha e Jezuit"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioku",
+    "book": "Veprat 13 · 15",
+    "today": "Antakia, Turqi sot",
+    "note": "Kisha dërguese ku nis dhe kthehet misioni te johebrenjtë.",
+    "events": [
+     "Në lutje Shpirti veçon Barnabën dhe Saulin",
+     "Kisha ku besimtarët u quajtën për herë të parë «të krishterë»",
+     "Pikënisja e udhëtimit të parë, të dytë dhe të tretë"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Veprat 13:4",
+    "today": "Turqia sot",
+    "note": "Porti i Antiokut — lundrojnë për në Qipro.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamina (Qipro)",
+    "book": "Veprat 13:5",
+    "today": "Qipro sot",
+    "note": "Ndalesa e parë në Qipro — predikim në sinagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafosi",
+    "book": "Veprat 13:6-12",
+    "today": "Qipro sot",
+    "note": "Tregohet fuqia kundër atyre që kundërshtojnë ungjillin.",
+    "events": [
+     "Elima magjistari verbohet",
+     "Prokonsulli Sergj Pal beson",
+     "Që këtu «Pali» merr udhëheqjen"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Veprat 13:13",
+    "today": "Antalia, Turqi sot",
+    "note": "Një port në Pamfili — këtu Gjon Marku kthehet prapa.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia e Pisidisë",
+    "book": "Veprat 13:14-50",
+    "today": "Jallvaç, Turqi sot",
+    "note": "Ungjilli çelet drejt johebrenjve.",
+    "events": [
+     "Një predikim i gjatë i historisë së shpëtimit në sinagogë",
+     "Shumë johebrenj gëzohen dhe e marrin fjalën",
+     "I dëbuar nga kundërshtimi"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoni",
+    "book": "Veprat 14:1-7",
+    "today": "Konia, Turqi sot",
+    "note": "Shumë besojnë, por përndjekja i shtyn tutje.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Veprat 14:8-20",
+    "today": "Turqia sot",
+    "note": "I brohoritur si perëndi, pastaj i qëlluar me gurë.",
+    "events": [
+     "Shëron një burrë të çalë që nga lindja",
+     "Turma përpiqet t'u bëjë flijime si perëndive",
+     "I qëlluar me gurë dhe lënë për të vdekur, ai ngrihet"
+    ]
+   },
+   "derbe": {
+    "name": "Derbë",
+    "book": "Veprat 14:20-21",
+    "today": "Turqia sot",
+    "note": "Bëhen shumë dishepuj; kthehen udhës për të forcuar kishat.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troada",
+    "book": "Veprat 16:8-10",
+    "today": "Turqia sot",
+    "note": "Pika kthese ku ungjilli niset për herë të parë drejt Evropës.",
+    "events": [
+     "Një vegim i një burri maqedonas",
+     "«Kalo në Maqedoni dhe na ndihmo»",
+     "Menjëherë kalojnë në Evropë"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Veprat 16 · Filipianëve",
+    "today": "Greqia veriore sot",
+    "note": "Kisha e parë e Evropës — ungjilli triumfon edhe në burg.",
+    "events": [
+     "Lidia, tregtare purpuri, beson",
+     "Një skllave fatthënëse çlirohet",
+     "Himne në mesnatë, një tërmet, shpëton familja e rojtarit të burgut"
+    ]
+   },
+   "thess": {
+    "name": "Selaniku",
+    "book": "Veprat 17 · 1–2 Selanikasve",
+    "today": "Selaniku, Greqi sot",
+    "note": "Fjala tund qytetin dhe kundërshtimi vlon.",
+    "events": [
+     "Arsyeton në sinagogë tri të shtuna",
+     "«Ata që e kanë vënë përmbys botën»",
+     "Largohen fshehtas natën"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Veprat 17:10-15",
+    "today": "Veria, Greqi sot",
+    "note": "Ata «fisnikët» që e shqyrtuan vetë fjalën.",
+    "events": [
+     "E marrin fjalën me zell",
+     "Çdo ditë shqyrtojnë Shkrimet për ta verifikuar",
+     "Shumë vetë vijnë në besim"
+    ]
+   },
+   "athens": {
+    "name": "Athina",
+    "book": "Veprat 17:16-34",
+    "today": "Athina, Greqi sot",
+    "note": "Në qytetin e filozofëve shpall «perëndinë e panjohur».",
+    "events": [
+     "I nxitur nga një qytet plot idhuj",
+     "Në Areopag predikon Krijuesin dhe ngjalljen",
+     "I përqeshur, por pak vetë besojnë"
+    ]
+   },
+   "corinth": {
+    "name": "Korinti",
+    "book": "Veprat 18 · 1–2 Korintasve",
+    "today": "Greqia sot",
+    "note": "Qëndron një vit e gjysmë, duke mbjellë një kishë në një qytet vesesh.",
+    "events": [
+     "Bën çadra me Akuilën dhe Priskilën",
+     "«Mos ki frikë… sepse unë jam me ty»",
+     "Shumë korintas besojnë dhe pagëzohen"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesi",
+    "book": "Veprat 19 · Efesianëve",
+    "today": "Selçuk, Turqi sot",
+    "note": "Zemra e udhëtimit të tretë — fjala përhapet në mbarë Azinë.",
+    "events": [
+     "Mësim i përditshëm për dy vjet në sallën e Tiranit",
+     "Libra magjie digjen; vepra të fuqishme",
+     "Argjendari Demetri nxit një trazirë"
+    ]
+   },
+   "miletus": {
+    "name": "Mileti",
+    "book": "Veprat 20:17-38",
+    "today": "Turqia sot",
+    "note": "Një lamtumirë me lot pleqve të Efesit.",
+    "events": [
+     "«Kujdesuni për kishën që e bleu me gjakun e vet»",
+     "Pleqtë qajnë, duke ditur se nuk do ta shohin më"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Veprat 23–26",
+    "today": "bregdeti i Izraelit sot",
+    "note": "Për dy vjet mbron ungjillin para guvernatorëve dhe një mbreti.",
+    "events": [
+     "Gjyqe para guvernatorëve Feliks dhe Fest",
+     "Mbrojtja e tij para mbretit Agripa",
+     "«I bëj thirrje Cezarit» — drejt Romës"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Veprat 21–23",
+    "today": "Jerusalem sot",
+    "note": "I kapur në tempull, nis udha e tij si i burgosur.",
+    "events": [
+     "I kapur nga turma në tempull",
+     "Mbrohet para këshillit",
+     "Si qytetar romak, dërgohet nën roje në Cesarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Veprat 27:5-6",
+    "today": "Demre, Turqi sot",
+    "note": "Kalojnë në një anije aleksandrine për në Romë.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Limanet e Bukur (Kreta)",
+    "book": "Veprat 27:8-12",
+    "today": "Kreta sot",
+    "note": "Paralajmërimi i Palit për të mos lundruar nuk dëgjohet.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Titi",
+    "today": "Kreta sot",
+    "note": "Pas lirimit, ishulli ku lë Titin për të vënë në rregull kishat.",
+    "events": [
+     "Lë Titin që të caktojë pleq në çdo qytet",
+     "Kërkon udhëheqës të patëmetë e besnikë",
+     "Shkruan letrën drejtuar Titit"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Veprat 27–28",
+    "today": "Malta sot",
+    "note": "Përmes stuhisë dhe mbytjes së anijes, premtimi i Perëndisë qëndron.",
+    "events": [
+     "«Verilindorja» e mbyt anijen, por të gjithë 276 vetat shpëtojnë",
+     "I kafshuar nga një nepërkë, mbetet i padëmtuar",
+     "Shëron të sëmurët e ishullit"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuza",
+    "book": "Veprat 28:12",
+    "today": "Sicilia, Itali sot",
+    "note": "Qëndrojnë tri ditë në Sicili.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Veprat 28:13-14",
+    "today": "Pocuoli, Itali sot",
+    "note": "Zbresin në Itali dhe priten nga vëllezër besimtarë.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Veprat 28 · Letrat e burgut · 2 Timoteut",
+    "today": "Roma, Itali sot",
+    "note": "Ungjilli arrin më në fund në zemrën e perandorisë — jo një fund, por një fillim.",
+    "events": [
+     "Dy vjet në arrest shtëpiak, duke shpallur me guxim mbretërinë",
+     "Që këtu shkruan Letrat e burgut (Efes·Filip·Kolos·Filem)",
+     "Më vonë i burgosur sërish, shkruan 2 Timoteut dhe martirizohet — «E luftova luftën e mirë, e mbarova vrapin»"
+    ]
+   }
+  },
+  "labels": [
+   "Deti Mesdhe",
+   "Deti Egje",
+   "Azia e Vogël",
+   "Maqedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Udhëtimi i parë",
+   "j2": "Udhëtimi i dytë",
+   "j3": "Udhëtimi i tretë",
+   "rome": "Udhëtimi i katërt · drejt Romës",
+   "j5": "Udhëtimi i pestë · pas lirimit"
+  }
+ }
+}
