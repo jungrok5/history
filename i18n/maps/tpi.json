@@ -1,0 +1,636 @@
+{
+ "menuName": "Tok Pisin",
+ "htmlLang": "tpi",
+ "dir": "ltr",
+ "locale": "tpi-PG",
+ "brand": "Baibel long Wanpela Skrol",
+ "docTitle": "Baibel long Map · Baibel long Wanpela Skrol",
+ "metaDesc": "Bihainim taimlain bilong Olpela Testamen, laip bilong Jisas, na ol wokabaut bilong Pol long wanpela trupela map — Baibel i bin kamap long ol trupela ples.",
+ "s": {
+  "kicker": "Baibel long Wanpela Skrol · Ol Map",
+  "title": "Baibel long Map",
+  "verse": "“Mipela i tokim yupela pinis long strong bilong Bikpela bilong yumi Jisas Krais, na long em bai i kam bek gen. Tasol taim mipela i tokim yupela long dispela tok bilong Krais, mipela i no bihainim ol stori nating i bin kamap long tingting bilong ol man. Nogat. Long ai bilong mipela yet, mipela i bin lukim lait na strong bilong God i kamap long em, olsem na mipela i tok.” (2 Pita 1:16)",
+  "purpose": "Baibel i no wanpela stori giaman nating. Em wanpela rekot bilong ol manmeri i bin wokabaut long ol trupela ples, ol trupela de, na ol trupela nem. Bihainim ol dispela rot long map, long stret taim — paitim wanpela poin, o paitim ▶ bilong wokabaut long en wanpela step long wanpela taim.",
+  "ot_kick": "① Olpela Testamen — i go long taim",
+  "ot_h": "Stat long wokim i go inap long kam bek long Jerusalem",
+  "ot_lead": "I no wanpela wokabaut tasol, em i ran bilong stori bilong kisim bek stat long wokim i kam: wokim na pundaun → bikpela tait na Babel → wanpela singaut (Abraham) → graun God i promis → lusim Isip → ples wesan → kisim graun → kingdom → bruk → kalabus → kam bek.",
+  "je_kick": "② Nupela Testamen — laip bilong Jisas",
+  "je_h": "Stat long Betlehem i go long Jerusalem",
+  "je_lead": "Bihainim laip bilong Jisas olsem ol Gutnius i tokaut, long stret rot — stat long em i kamap long Betlehem, i go long baptais na wok long Galili, i krosim Samaria, i go long diwai kros, kirap bek na go antap long Jerusalem.",
+  "pa_kick": "③ Nupela Testamen — ol wokabaut bilong Pol",
+  "pa_h": "Stat long Antiok i go inap long ol arere bilong graun — Rom",
+  "pa_lead": "Stat long Pentikos long Jerusalem, olsem wanem gutnius i go ausait long Judia — long Liklik Esia na Yurop i go long namel bilong bikpela kingdom. Makim wanpela bilong faivpela wokabaut (namba wan·tu·tri + wokabaut long sip i go long Rom + bihain long lusim kalabus) na bihainim ol samting bilong Aposel wantaim ol pas ol i raitim long rot.",
+  "foot": "Ol as bilong save · Ol ples i bihainim tok bilong Baibel na stretpela save bilong graun bilong Baibel (wantaim ol nem bilong nau we em i helpim). Ol arere bilong solwara, ol wara na ol raunwara i kam long open data bilong graun (Natural Earth), na ol i mekim isi.",
+  "contact": "Ol askim · tok bek — <a id=\"contact\" class=\"mail\">Salim imel</a>",
+  "play": "Ron",
+  "pause": "Malolo",
+  "today": "Nau:",
+  "verseCite": "2 Pita 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Iden (Wokim · Pundaun)",
+    "book": "Stat 1–3",
+    "today": "long nau, hap bilong ol wara Taigris na Yufretis",
+    "note": "Long wanpela graun God i wokim i gutpela tru, sin i kam insait na i brukim rot namel long God na ol manmeri.",
+    "events": [
+     "Sikispela de bilong wokim — “em i gutpela tru”",
+     "Manmeri i kamap olsem piksa bilong God",
+     "Pundaun, na ranim long Iden",
+     "Namba wan promis bilong gutnius — “lain bilong meri bai krungutim het bilong snek”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Bikpela Tait)",
+    "book": "Stat 6–9",
+    "today": "Maunten Ararat, long hap is bilong Turki nau",
+    "note": "God i kotim wanpela graun i pulap long sin, tasol em i lukautim laip long rot bilong wanpela famili.",
+    "events": [
+     "Wanpela graun i pulap long pasin nogut",
+     "Bikpela tait, na sip bilong Noa",
+     "Kontrak bilong renbo — “bai i no gat bikpela tait gen bilong bagarapim graun”"
+    ]
+   },
+   "babel": {
+    "name": "Taua bilong Babel",
+    "book": "Stat 11",
+    "today": "Irak nau (ples stret bilong Sinar)",
+    "note": "Bilong daunim pasin hambak i laik go antap long heven, God i mekim tok ples bilong ol i paul na i mekim ol manmeri i go nabaut long graun.",
+    "events": [
+     "“Yumi wokim wanpela taun na wanpela taua … na kisim biknem bilong yumi yet”",
+     "God i paulim tok ples bilong ol",
+     "Ol manmeri i go nabaut long graun (Sinar — bihain Babilon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Stat 12",
+    "today": "hap saut bilong Irak nau",
+    "note": "Stori bilong Baibel bilong kisim bek i stat long singaut bilong wanpela man.",
+    "events": [
+     "God i singautim Abram long lusim Ur bilong ol Kaldia",
+     "“Bai mi mekim yu i kamap bikpela lain tru … olgeta lain manmeri bai kisim blesing long yu”",
+     "Long bilip em i lusim as ples bilong em"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Stat 12",
+    "today": "hap saut bilong Turki nau",
+    "note": "Long rot, i bihainim singaut i go long graun God i promis.",
+    "events": [
+     "Famili bilong Tera i sindaun long Haran",
+     "Tera i dai",
+     "Long 75 krismas, Abram i lusim ples i go long Kenan"
+    ]
+   },
+   "shechem": {
+    "name": "Sekem · Kenan",
+    "book": "Stat 12–50",
+    "today": "Nablus nau",
+    "note": "Long graun God i promis, wanpela famili i kamap na kontrak i go daun long ol lain bihain.",
+    "events": [
+     "Go insait long Kenan, namba wan alta — “bai mi givim dispela graun long lain bilong yu”",
+     "Kontrak (Stat 15) · Aisak · Jekop",
+     "Twelpela pikinini man bilong Jekop — as bilong twelpela lain"
+    ]
+   },
+   "egypt": {
+    "name": "Isip (Gosen)",
+    "book": "Stat 37–50 · Kisim Bek 1",
+    "today": "Delta bilong wara Nail, Isip nau",
+    "note": "Wanpela famili i kamap bikpela lain — na bihain i kamap lain wokboi nating.",
+    "events": [
+     "Ol i salim Josep i go, tasol em i kamap bikman bilong bosim Isip",
+     "Olgeta famili bilong Jekop i kam daun bilong abrusim bikpela hangre",
+     "Lain Israel i kamap bikpela, na ol i mekim ol i kamap wokboi nating"
+    ]
+   },
+   "sinai": {
+    "name": "Maunten Sainai",
+    "book": "Kisim Bek · Wok Pris",
+    "today": "graun Sainai nau",
+    "note": "Bikpela wok bilong kisim bek long Olpela Testamen — ol wokboi nating i kamap ol manmeri bilong God yet.",
+    "events": [
+     "Tenpela bikpela hevi na pikinini sipsip bilong Pasova",
+     "Retsi i bruk na ol i wokabaut i go hapsait",
+     "Tenpela Lo, ol Lo, haus sel holi na ol ofa"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (ples wesan)",
+    "book": "Namba · Lo",
+    "today": "ples wesan bilong Sainai–Negev nau",
+    "note": "Pasin bilong no bilip i mekim wanpela lain i lusim graun — tasol God i stap wantaim ol yet.",
+    "events": [
+     "Twelpela man bilong lukstil long graun — tasol ol manmeri i no laik bilip",
+     "38 krismas long ples wesan — mana, klaut na paia",
+     "Long ples stret bilong Moap, las autim tok bilong Moses (Lo)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Josua",
+    "today": "Jeriko nau",
+    "note": "Long pinis ol i go insait na kisim graun God i promis.",
+    "events": [
+     "Wara Jordan i bruk na ol manmeri i wokabaut i go hapsait",
+     "Ol banis bilong Jeriko i pundaun",
+     "Kisim graun Kenan na tilim graun long ol lain"
+    ]
+   },
+   "shiloh": {
+    "name": "Sailo (ol Hetman)",
+    "book": "Hetman · Rut",
+    "today": "Kirbet Seilun nau",
+    "note": "I no gat king, na olgeta man i mekim long laik bilong ol yet — ol i nidim wanpela trupela king.",
+    "events": [
+     "Ol i sanapim haus sel holi long Sailo",
+     "Wil bilong sin–hevi–kisim bek (Debora, Gideon, Samson)",
+     "Rut — pasin bilong stap gut long taim nogut, insait long lain bilong Devit"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Kingdom Wanbel",
+    "book": "1–2 Samuel · 1 King",
+    "today": "Jerusalem nau",
+    "note": "Gutpela taim tru bilong Israel — na promis bilong wanpela king i stap oltaim.",
+    "events": [
+     "Sol namba wan king, na bihain Devit na Goliat",
+     "Kontrak bilong Devit — “sia king bilong yu bai i stap oltaim” (2 Samuel 7)",
+     "Solomon i wokim tempel long Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Kingdom i Bruk",
+    "book": "Ol King · Ol Profet",
+    "today": "Sebastia nau",
+    "note": "Kingdom i bruk na i go daun taim ol profet i singaut.",
+    "events": [
+     "Bihain long Solomon, i bruk long Juda na Israel",
+     "Lotu long giaman god i kamap gen na gen",
+     "Ilaija, Aisaia, Jeremaia i singaut “kam bek” — na autim tok long Mesaia bai i kam"
+    ]
+   },
+   "nineveh": {
+    "name": "Niniva (Asiria)",
+    "book": "2 King 17 · Jona",
+    "today": "Mosul, Irak nau",
+    "note": "Long sakim olgeta tok lukaut, hap not i pundaun pastaim.",
+    "events": [
+     "Niniva, biktaun bilong Asiria",
+     "Kingdom bilong hap not i pundaun long Asiria (722 BC)",
+     "Ol i salim Jona i go long Niniva"
+    ]
+   },
+   "babylon": {
+    "name": "Babilon",
+    "book": "2 King 25 · Daniel · Esekiel",
+    "today": "Hila, Irak nau",
+    "note": "Tudak tru bilong olgeta — tasol promis bilong stretim gen i stap yet.",
+    "events": [
+     "Jerusalem i pundaun, tempel i kuk (586 BC)",
+     "Ol i kisim Juda i go kalabus long Babilon",
+     "Daniel na Esekiel — bilip na ol driman long kalabus"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Esta · Nehemia",
+    "today": "Sus, Iran nau",
+    "note": "Maski long namel bilong wanpela bikpela kingdom bilong giaman lotu, God i lukautim ol manmeri bilong em.",
+    "events": [
+     "Persia i daunim Babilon",
+     "Esta i kisim bek ol Juda long bagarap",
+     "Nehemia i beten long ai bilong king na ol i salim em i go"
+    ]
+   },
+   "return": {
+    "name": "Kam Bek long Jerusalem",
+    "book": "Esra · Nehemia · Malakai",
+    "today": "Jerusalem nau",
+    "note": "Ol i kam bek na wokim gen — tasol i no gat king i kam. Ol i wetim Mesaia.",
+    "events": [
+     "Tripela hap lain i kam bek long tok bilong Sairus (Serubabel 538 · Esra 458 · Nehemia 444)",
+     "Wokim gen tempel na stretim gen banis bilong Jerusalem",
+     "Malakai — Olpela Testamen i pinis: “Bai mi salim wanpela man bilong autim tok bilong mi”"
+    ]
+   }
+  },
+  "labels": [
+   "Solwara Mediterenian",
+   "Mesopotemia",
+   "Ples Wesan bilong Arebia",
+   "Isip"
+  ],
+  "journeys": {
+   "flow": "Stori bilong kisim bek"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Matyu 1–2 · Luk 2",
+    "today": "Betlehem nau",
+    "note": "Mesaia God i promis i kam long taun bilong Devit — Tok i kamap man.",
+    "events": [
+     "Ol i karim em long Betlehem, taun bilong Devit",
+     "Ol ensel i autim tok long ol wasman bilong sipsip",
+     "Ol saveman i kam bilong lotu long em"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasaret",
+    "book": "Luk 2 · 4",
+    "today": "Nasaret nau",
+    "note": "God i kamap bikpela olsem wanpela man long wanpela taun nating.",
+    "events": [
+     "Ol i lukautim em long haus bilong wanpela kapenta",
+     "Long 12 krismas, em i askim na bekim tok long tempel",
+     "Bihain ol i rausim em long haus lotu bilong as ples bilong em"
+    ]
+   },
+   "jordan": {
+    "name": "Wara Jordan",
+    "book": "Matyu 3–4",
+    "today": "hap daun bilong Jordan nau",
+    "note": "Wok bilong em long ai bilong ol manmeri i stat — heven i makim em olsem Pikinini.",
+    "events": [
+     "Jon i baptaisim em",
+     "Spirit i kam daun olsem balus — “Dispela em Pikinini bilong mi, mi laikim em tumas”",
+     "Em i daunim tripela traim bilong Satan long ples wesan"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Jon 2",
+    "today": "Kafr Kana nau",
+    "note": "Long namba wan mirakel bilong em, em i soim glori bilong em.",
+    "events": [
+     "Em i wanpela man ol i singautim long wanpela marit",
+     "Wara i tanim i kamap wain — namba wan mirakel bilong em",
+     "Ol disaipel bilong em i bilip long em"
+    ]
+   },
+   "sychar": {
+    "name": "Saikar (Samaria)",
+    "book": "Jon 2–4",
+    "today": "klostu long Nablus nau",
+    "note": "Rot bilong wok long stat — i go long Jerusalem na i go long Samaria ol i lukim daun long en.",
+    "events": [
+     "Em i klinim tempel long Jerusalem",
+     "Long nait, Nikodemus — “Yu mas kamap nupela gen”",
+     "Wara bilong laip long wanpela meri bilong Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kaperneam",
+    "book": "Matyu 4–13 · Mak 1–4",
+    "today": "arere bilong raunwara Galili nau",
+    "note": "As ples bilong wok long Galili — singautim, skulim na birua i bung long hia.",
+    "events": [
+     "Em i singautim ol man bilong painim pis na i mekim hia as ples bilong em",
+     "Autim tok long maunten — “Ol manmeri i save olsem ol i sot long God, ol i ken amamas”",
+     "Ol tok piksa bilong kingdom — na birua i kirap i go bikpela"
+    ]
+   },
+   "galilee": {
+    "name": "Raunwara Galili",
+    "book": "Mak 4 · 6 · Jon 6",
+    "today": "Raunwara Kineret nau",
+    "note": "Long strong antap long ol samting bilong graun, em i soim yumi long husat em i stap.",
+    "events": [
+     "“Isi! Yu stap isi” — em i mekim bikpela win na si i dai",
+     "Em i givim kaikai long 5,000 man long faivpela bret na tupela pis",
+     "Em i wokabaut antap long wara"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sesaria Filipai",
+    "book": "Matyu 16–17",
+    "today": "Banias nau",
+    "note": "Ol disaipel i kliagut olsem em i Krais, na rot bilong diwai kros i op.",
+    "events": [
+     "Tokaut bilong Pita — “Yu dispela Krais, Pikinini bilong God i gat laip”",
+     "Em i tokaut pastaim long dai na kirap bek bilong em",
+     "Em i senis na kamap lait long glori long maunten"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Luk 18–19",
+    "today": "Jeriko nau",
+    "note": "Long rot i go antap long Jerusalem, em i painim ol man i lus.",
+    "events": [
+     "Em i opim ai bilong aipas Batimeus",
+     "Em i singautim Sakius, man bilong kisim takis",
+     "“Pikinini bilong Man i kam bilong painim na kisim bek ol man i lus”"
+    ]
+   },
+   "bethany": {
+    "name": "Betani",
+    "book": "Jon 11–12",
+    "today": "al-Eisaria nau",
+    "note": "Klostu long las wik bilong em, em i soim strong antap long dai.",
+    "events": [
+     "Em i kirapim Lasarus long matmat — “Mi mi save kirapim ol daiman na givim laip long ol”",
+     "Maria i welim em bilong redim planim bilong em",
+     "Dispela mirakel i strongim tingting bilong ol bilong kilim em i dai"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Matyu 21–28 · Luk 24 · Aposel 1",
+    "today": "Jerusalem nau",
+    "note": "Antap tru olgeta Baibel i soim rot i go long en — diwai kros, kirap bek, na go antap.",
+    "events": [
+     "Em i go insait wantaim biknem; em i kapsaitim ol tebol long tempel gen",
+     "Long Las Kaikai em i wasim lek bilong ol disaipel",
+     "Em i dai long diwai kros",
+     "Em i kirap bek long de namba tri, na bihain i go antap long heven"
+    ]
+   }
+  },
+  "labels": [
+   "Solwara Mediterenian",
+   "Galili",
+   "Samaria",
+   "Judia",
+   "Dekapolis",
+   "Perea",
+   "Solwara Dai"
+  ],
+  "journeys": {
+   "life": "Rot bilong Jisas"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiok",
+    "book": "Aposel 13 · 15",
+    "today": "Antakia, Turki nau",
+    "note": "Sios bilong salim, we wok long ol arapela lain i stat na i kam bek long en.",
+    "events": [
+     "Long beten, Spirit i makim Banabas na Sol",
+     "Sios we ol i statim kolim ol bilipman “ol Kristen”",
+     "Ples bilong stat bilong namba wan, namba tu na namba tri wokabaut"
+    ]
+   },
+   "seleucia": {
+    "name": "Selusia",
+    "book": "Aposel 13:4",
+    "today": "Turki nau",
+    "note": "Ples sip bilong Antiok — ol i kalap long sip i go long Saiprus.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Saiprus)",
+    "book": "Aposel 13:5",
+    "today": "Saiprus nau",
+    "note": "Namba wan ples long Saiprus — ol i autim tok long ol haus lotu.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Aposel 13:6-12",
+    "today": "Saiprus nau",
+    "note": "Ol i soim strong bilong God long ol man i birua long gutnius.",
+    "events": [
+     "Elimas, man bilong posin, i kamap aipas",
+     "Sergius Paulus, gavman, i bilip",
+     "Stat long hia, “Pol” i go pas"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Aposel 13:13",
+    "today": "Antalia, Turki nau",
+    "note": "Wanpela ples sip long Pamfilia — long hia Jon Mak i tanim i go bek.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiok bilong Pisidia",
+    "book": "Aposel 13:14-50",
+    "today": "Yalvak, Turki nau",
+    "note": "Gutnius i op i go long ol arapela lain.",
+    "events": [
+     "Wanpela longpela tok bilong stori bilong kisim bek long haus lotu",
+     "Planti bilong ol arapela lain i amamas na kisim tok",
+     "Birua i rausim ol i go"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniam",
+    "book": "Aposel 14:1-7",
+    "today": "Konia, Turki nau",
+    "note": "Planti i bilip, tasol birua na pait i mekim ol i go het.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Aposel 14:8-20",
+    "today": "Turki nau",
+    "note": "Ol i tingim em olsem wanpela god, na bihain ol i tromoi ston long em.",
+    "events": [
+     "Em i oraitim wanpela man i gat lek nogut stat long taim mama i karim em",
+     "Ol manmeri i traim mekim ofa long tupela olsem ol i god",
+     "Ol i tromoi ston na larim em olsem em i dai, tasol em i kirap"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Aposel 14:20-21",
+    "today": "Turki nau",
+    "note": "Planti i kamap disaipel; ol i wokabaut i go bek long strongim ol sios.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Aposel 16:8-10",
+    "today": "Turki nau",
+    "note": "Ples bilong senis, we gutnius i go pastaim long Yurop.",
+    "events": [
+     "Wanpela driman long wanpela man bilong Masedonia",
+     "“Kam hapsait long Masedonia na helpim mipela”",
+     "Wantu ol i brukim solwara i go long Yurop"
+    ]
+   },
+   "philippi": {
+    "name": "Filipai",
+    "book": "Aposel 16 · Filipai",
+    "today": "hap not bilong Gris nau",
+    "note": "Namba wan sios long Yurop — gutnius i win maski long kalabus.",
+    "events": [
+     "Lidia, meri bilong salim laplap kala purpel, i bilip",
+     "Wanpela wokmeri nating i gat spirit bilong tok profet i kisim fri",
+     "Ol song long biknait, guria, na famili bilong wasman kalabus i kisim bek"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonaika",
+    "book": "Aposel 17 · 1–2 Tesalonaika",
+    "today": "Tesalonaiki, Gris nau",
+    "note": "Tok i seksekim biktaun na birua i kamap strong.",
+    "events": [
+     "Em i toktok long haus lotu long tripela Sabat",
+     "“Ol dispela manmeri i tanim graun i go antap i kam daun”",
+     "Long nait ol i lusim ples hait"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Aposel 17:10-15",
+    "today": "Veria, Gris nau",
+    "note": "Ol “gutpela tingting” manmeri i skelim tok long ol yet.",
+    "events": [
+     "Ol i kisim tok wantaim amamas",
+     "Olgeta de ol i skelim Buk bilong God bilong sekim en",
+     "Planti i kamap bilipman"
+    ]
+   },
+   "athens": {
+    "name": "Atens",
+    "book": "Aposel 17:16-34",
+    "today": "Atens, Gris nau",
+    "note": "Long biktaun bilong ol saveman, em i autim tok long “god ol i no save long en”.",
+    "events": [
+     "Bel bilong em i kirap long lukim wanpela biktaun i pulap long ol giaman god",
+     "Long Areopagus em i autim tok long God bilong wokim na long kirap bek",
+     "Ol i tok bilas long em, tasol sampela i bilip"
+    ]
+   },
+   "corinth": {
+    "name": "Korin",
+    "book": "Aposel 18 · 1–2 Korin",
+    "today": "Gris nau",
+    "note": "Em i stap wanpela yia na hap, na planim wanpela sios long wanpela biktaun i pulap long pasin nogut.",
+    "events": [
+     "Em i wokim ol haus sel wantaim Akwila na Prisila",
+     "“No ken pret … long wanem mi stap wantaim yu”",
+     "Planti manmeri bilong Korin i bilip na kisim baptais"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesus",
+    "book": "Aposel 19 · Efesus",
+    "today": "Selsuk, Turki nau",
+    "note": "Namel bilong namba tri wokabaut — tok i go nabaut long olgeta Esia.",
+    "events": [
+     "Skulim ol manmeri olgeta de long tupela yia long haus bilong Tiranus",
+     "Ol i kukim ol buk bilong posin; ol strongpela wok i kamap",
+     "Dimitrius, man bilong wokim silva, i kirapim wanpela bikpela paul"
+    ]
+   },
+   "miletus": {
+    "name": "Miletus",
+    "book": "Aposel 20:17-38",
+    "today": "Turki nau",
+    "note": "Wanpela tok gudbai wantaim aiwara long ol hetman bilong sios long Efesus.",
+    "events": [
+     "“Lukautim sios em i baim long blut bilong em yet”",
+     "Ol hetman i krai, long ol i save bai ol i no lukim em gen"
+    ]
+   },
+   "caesarea": {
+    "name": "Sesaria",
+    "book": "Aposel 23–26",
+    "today": "arere solwara bilong Israel nau",
+    "note": "Inap tupela yia em i sanap strong long gutnius long ai bilong ol gavman na wanpela king.",
+    "events": [
+     "Ol kot long ai bilong tupela gavman, Filiks na Festus",
+     "Tok bilong lukautim em yet long ai bilong King Agripa",
+     "“Mi laik kot i go long Sisa” — na i go long Rom"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Aposel 21–23",
+    "today": "Jerusalem nau",
+    "note": "Ol i holimpasim em long tempel, na rot bilong em olsem kalabusman i stat.",
+    "events": [
+     "Ol bikpela lain manmeri i holimpasim em long tempel",
+     "Em i sanap strong long em yet long ai bilong kaunsil bilong ol Juda",
+     "Olsem wanpela sitisen bilong Rom, ol i salim em wantaim ol soldia i go long Sesaria"
+    ]
+   },
+   "myra": {
+    "name": "Maira",
+    "book": "Aposel 27:5-6",
+    "today": "Demre, Turki nau",
+    "note": "Ol i go long narapela sip bilong Aleksandria i laik go long Rom.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Ol Naispela Wap (Krit)",
+    "book": "Aposel 27:8-12",
+    "today": "Krit nau",
+    "note": "Ol i no harim tok lukaut bilong Pol long pasim wokabaut long sip.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krit",
+    "book": "Taitus",
+    "today": "Krit nau",
+    "note": "Bihain long ol i lusim em long kalabus, dispela ailan we em i lusim Taitus long stretim ol sios.",
+    "events": [
+     "Em i lusim Taitus long makim ol hetman bilong sios long olgeta taun",
+     "Em i tok ol hetman i mas i stap klin na gat gutpela pasin",
+     "Em i raitim pas i go long Taitus"
+    ]
+   },
+   "malta": {
+    "name": "Molta",
+    "book": "Aposel 27–28",
+    "today": "Molta nau",
+    "note": "Namel long bikpela win na bagarap bilong sip, promis bilong God i stap strong.",
+    "events": [
+     "Bikpela win “not-is” i bagarapim sip, tasol olgeta 276 man i abrus long dai",
+     "Wanpela snek i gat posin i kaikaim em, tasol em i no kisim bagarap",
+     "Em i oraitim ol sikman bilong ailan"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakius",
+    "book": "Aposel 28:12",
+    "today": "Sisili, Itali nau",
+    "note": "Ol i stap tripela de long Sisili.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Aposel 28:13-14",
+    "today": "Posuoli, Itali nau",
+    "note": "Ol i kamap long Itali na ol wanbilip i bungim ol.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rom",
+    "book": "Aposel 28 · Ol Pas long Kalabus · 2 Timoti",
+    "today": "Rom, Itali nau",
+    "note": "Gutnius i kamap long namel bilong bikpela kingdom long pinis — i no wanpela pinis, em wanpela nupela stat.",
+    "events": [
+     "Tupela yia em i stap kalabus long haus, na em i autim tok long kingdom wantaim strong",
+     "Long hia em i raitim Ol Pas long Kalabus (Efesus · Filipai · Kolosi · Filemon)",
+     "Bihain ol i kalabusim em gen, em i raitim 2 Timoti na ol i kilim em i dai bilong bilip — “Mi pait gut long gutpela pait, mi pinisim resis”"
+    ]
+   }
+  },
+  "labels": [
+   "Solwara Mediterenian",
+   "Solwara Igian",
+   "Liklik Esia",
+   "Masedonia",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Namba wan wokabaut",
+   "j2": "Namba tu wokabaut",
+   "j3": "Namba tri wokabaut",
+   "rome": "Namba foa wokabaut · i go long Rom",
+   "j5": "Namba faiv wokabaut · bihain long lusim kalabus"
+  }
+ }
+}

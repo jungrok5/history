@@ -1,0 +1,636 @@
+{
+ "menuName": "Eʋegbe",
+ "htmlLang": "ee",
+ "dir": "ltr",
+ "locale": "ee-GH",
+ "brand": "Biblia le Agbalẽ Mlɔ Ɖeka me",
+ "docTitle": "Biblia le Anyigbatata Dzi · Biblia le Agbalẽ Mlɔ Ɖeka me",
+ "metaDesc": "Dze Nubabla Xoxo ƒe ɣeyiɣiɖoɖo, Yesu ƒe agbe, kple Paulo ƒe mɔzɔzɔwo yome le anyigbatata vavã dzi — Biblia dzɔ le teƒe vavãwo.",
+ "s": {
+  "kicker": "Biblia le Agbalẽ Mlɔ Ɖeka me · Anyigbatatawo",
+  "title": "Biblia le Anyigbatata Dzi",
+  "verse": "“Nya si míegblɔ na mi le ale si mía Aƒetɔ Yesu Kristo le vava ge ŋusẽtɔe ŋu la, menye ŋutinya kpakpa si wokpa aɖaŋutɔe la mee míeɖee le gblɔ na mi o. Míawo ŋutɔe kpɔ eƒe bubu, atsyɔ̃ kple ŋusẽ la tututu kple ŋku hafi gblɔe na mi.” (Petro II 1:16)",
+  "purpose": "Biblia menye nukpɔsusu masɔmasɔ o. Enye nuŋlɔɖi tso amewo siwo zɔ le teƒe, ŋkeke, kple ŋkɔ vavãwo dzi ŋu. Dze mɔ mawo yome le anyigbatata dzi, le ɣeyiɣi ƒe ɖoɖo nu — tɔ asi teƒe aɖe dzi, alo zi ▶ dzi ne nàzɔ to eme afɔɖeɖe ɖe sia ɖe.",
+  "ot_kick": "① Nubabla Xoxo — le ɣeyiɣiwo me",
+  "ot_h": "Tso nuwɔwɔ va se ɖe tɔtrɔ yi Yerusalem",
+  "ot_lead": "Menye mɔzɔzɔ ɖeka o, ke boŋ ɖeɖeŋutinya ƒe sisi tso nuwɔwɔ dzi: nuwɔwɔ kple anyidzedze → tsiɖɔɖɔ kple Babel → yɔyɔ (Abraham) → ŋugbedodonyigba la → Gododo → gbedzi → anyigbaxɔxɔ → fiaɖuƒe → mama → aboyomenɔnɔ → tɔtrɔgbɔ.",
+  "je_kick": "② Nubabla Yeye — Yesu ƒe agbe",
+  "je_h": "Tso Betlehem va se ɖe Yerusalem",
+  "je_lead": "Dze Yesu ƒe agbe yome abe ale si Nyanyuiwo gblɔe ene, le ɖoɖo nu — tso eƒe dzidzi le Betlehem, to eƒe mawutsideta kple Galilea subɔsubɔdɔ me, to Samaria, va se ɖe ati la, tsitretsitsi kple ɖoɖomedzi le Yerusalem.",
+  "pa_kick": "③ Nubabla Yeye — Paulo ƒe mɔzɔzɔwo",
+  "pa_h": "Tso Antioxia va se ɖe anyigba ƒe seƒewo — Roma",
+  "pa_lead": "Tso Pentekoste le Yerusalem, ale si nyanyui la keke ta wu Yudea — to Asia Sue kple Europa va ɖo fiaɖuƒe gã la ƒe dzime. Tia mɔzɔzɔ atɔ̃awo dometɔ ɖeka (gbãtɔ·evelia·etɔ̃lia + ʋuɖoɖo yi Roma + le ablɔɖexɔxɔ megbe) eye nàdze Amedɔdɔawo ƒe Dɔwɔwɔwo ƒe nudzɔdzɔwo yome kple agbalẽ siwo woŋlɔ le mɔa dzi.",
+  "foot": "Dzɔtsoƒewo · Teƒeawo dze Biblia ƒe nyawo kple Biblia ƒe anyigbaŋunya si bɔ (kple egbegbe ŋkɔwo afi si wòkpena ɖe ame ŋu). Woɖe ƒutawo, tɔsisiwo kple ƒuwo tso anyigbaŋunya ƒe nyatakaka ʋuʋu (Natural Earth) me, hebɔbɔe.",
+  "contact": "Biabiawo · nuƒoƒo — <a id=\"contact\" class=\"mail\">Ðo email ɖe mí</a>",
+  "play": "Ƙo",
+  "pause": "Tɔ",
+  "today": "Egbea:",
+  "verseCite": "Petro II 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Nuwɔwɔ · Anyidzedze)",
+    "book": "Mose I 1–3",
+    "today": "Tigris–Frat ƒe nutome, egbea",
+    "note": "Ðe xexe si wowɔ be wònyo ŋutɔ me la, nuvɔ̃ ge ɖe eme eye wòŋe ka si le Mawu kple amegbetɔ dome.",
+    "events": [
+     "Nuwɔwɔ le ŋkeke ade me — “enyo ŋutɔ”",
+     "Amegbetɔ wɔwɔ ɖe Mawu ƒe nɔnɔme nu",
+     "Anyidzedze la, kple nyanya tso Eden",
+     "Nyanyui ƒe ŋugbedodo gbãtɔ — “nyɔnu la ƒe dzidzimevi agbã da la ƒe ta”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Tsiɖɔɖɔ la)",
+    "book": "Mose I 6–9",
+    "today": "Ararat To, Turkiye ƒe ɣedzeƒe lɔƒo, egbea",
+    "note": "Mawu drɔ̃ ʋɔnu xexe si yɔ fũu kple nuvɔ̃, gake wòdzra agbe ɖo to ƒome ɖeka dzi.",
+    "events": [
+     "Xexe si gbegblẽ yɔ fũu",
+     "Tsiɖɔɖɔ la, kple Noa ƒe aɖaka la",
+     "Anyieʋɔ ƒe nubabla — “tsiɖɔɖɔ magava agblẽ anyigba akpɔ o”"
+    ]
+   },
+   "babel": {
+    "name": "Babel ƒe Mɔ",
+    "book": "Mose I 11",
+    "today": "Irak, egbea (Sinar ƒe balime)",
+    "note": "Ðe dada si didi be yeaɖo dziƒo ŋu la, Mawu kaka woƒe gbe kple dukɔwo ɖe anyigba katã dzi.",
+    "events": [
+     "“Mina míatu du kple mɔ… ne míaɖe ŋkɔ na mía ɖokui”",
+     "Mawu tɔtɔ woƒe gbegbɔgblɔ",
+     "Dukɔwo kaka ɖe anyigba katã dzi (Sinar — si va zu Babilon emegbe)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Mose I 12",
+    "today": "Irak dziehe lɔƒo, egbea",
+    "note": "Biblia ƒe ɖeɖeŋutinya dze egɔme kple ŋutsu ɖeka yɔyɔ.",
+    "events": [
+     "Mawu yɔ Abram do goe le Kaldeatɔwo ƒe Ur",
+     "“Mana dukɔ gã aɖe nado tso mewò… ƒomeawo katã ato dziwò axɔ yayra”",
+     "To xɔse me la, edzo le eƒe denyigba"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Mose I 12",
+    "today": "Turkiye dziehe lɔƒo, egbea",
+    "note": "Le mɔa dzi, wòtɔ na yɔyɔ la henɔ mɔ zɔm ɖo ta ŋugbedodonyigba la.",
+    "events": [
+     "Tera ƒe ƒomea va nɔ Haran",
+     "Tera ku",
+     "Abram dze mɔ ɖo ta Kanaan esi wòxɔ ƒe 75"
+    ]
+   },
+   "shechem": {
+    "name": "Sikem · Kanaan",
+    "book": "Mose I 12–50",
+    "today": "Nablus, egbea",
+    "note": "Le ŋugbedodonyigba la dzi la, woɖo ƒome aɖe anyi eye nubabla la va dzidzimewo dome.",
+    "events": [
+     "Kanaan gegeɖeme, vɔsamlekpui gbãtɔ — “wò dzidzimeviwo matsɔ anyigba sia na”",
+     "Nubabla la (Mose I 15) · Isak · Yakob",
+     "Yakob ƒe viŋutsu wuieveawo — to wuieveawo ƒe ke"
+    ]
+   },
+   "egypt": {
+    "name": "Egipte (Gosen)",
+    "book": "Mose I 37–50 · Mose II 1",
+    "today": "Nil ƒe nugbɔnutome, Egipte, egbea",
+    "note": "Ƒome ɖeka va zu dukɔ gã — emegbe wòzu kluviwo ƒe dukɔ.",
+    "events": [
+     "Wodzra Yosef ɖa, gake wòva kpɔ Egipte dzi",
+     "Yakob ƒe ƒome bliboa ɖi va be woasi le dɔwuame nu",
+     "Wotsɔ Israel-dukɔ si le dzidzim ɖe edzi la wɔ kluviwoe"
+    ]
+   },
+   "sinai": {
+    "name": "Sinai To",
+    "book": "Mose II · Mose III",
+    "today": "Sinai ƒe nutome, egbea",
+    "note": "Nubabla Xoxo ƒe ɖeɖe titina la — kluviwo va zu Mawu ŋutɔ ƒe dukɔ.",
+    "events": [
+     "Dɔvɔ̃ ewoawo kple Ŋutitotoŋkekenyui ƒe alẽvi la",
+     "Ƒu Dzẽ la ma me eye wotso",
+     "Se Ewoawo, Sea, agbadɔ la kple vɔsawo"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (Gbedzi)",
+    "book": "Mose IV · Mose V",
+    "today": "Sinai–Negev gbedzi, egbea",
+    "note": "Dzimaxɔse na dzidzime ɖeka bu anyigba la — gake Mawu ganɔ wo gbɔ kokoko.",
+    "events": [
+     "Ŋkutsala wuieveawo — gake dukɔ la gbe xɔse",
+     "Ƒe 38 le gbedzi — mana, lilikpo kple dzo",
+     "Le Moab gbadzaƒe, Mose ƒe mawunyagbɔgblɔ mamlɛtɔ (Mose V)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Yosua",
+    "today": "Yeriko, egbea",
+    "note": "Mlɔeba la, woge ɖe ŋugbedodonyigba la me eye woxɔe.",
+    "events": [
+     "Yɔdan-tɔsisi la ma me eye dukɔ la tso",
+     "Yeriko ƒe gliawo mu dze anyi",
+     "Kanaan xɔxɔ kple anyigba la mama"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Ɖelawo)",
+    "book": "Ɖelawo · Rut",
+    "today": "Khirbet Seilun, egbea",
+    "note": "Esi fia aɖeke menɔ anyi o ta la, ame sia ame wɔ nu si dze eŋu — fia vavã aɖe hiã.",
+    "events": [
+     "Woɖo agbadɔ la anyi ɖe Silo",
+     "Nuvɔ̃–teteɖeanyi–ɖeɖe ƒe tsatsalia (Debora, Gideon, Samson)",
+     "Rut — nuteƒewɔwɔ le ŋkeke viviti me, le David ƒe dzidzime me"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem · Fiaɖuƒe Ðekawɔwɔ la",
+    "book": "Samuel I–II · Fiawo I",
+    "today": "Yerusalem, egbea",
+    "note": "Israel ƒe kɔkɔƒe ɣeyiɣi — kple fia mavɔ aɖe ƒe ŋugbedodo.",
+    "events": [
+     "Fia gbãtɔ Saul, emegbe David kple Goliat",
+     "David ƒe nubabla — “wò fiazikpui anɔ anyi tegbee” (Samuel II 7)",
+     "Salomo tu gbedoxɔ la ɖe Yerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Fiaɖuƒe Mama la",
+    "book": "Fiawo · Nyagblɔɖilawo",
+    "today": "Sebastia, egbea",
+    "note": "Fiaɖuƒea ma eye wòdze anyi esime nyagblɔɖilawo nɔ ɣli dom.",
+    "events": [
+     "Le Salomo megbe, dukɔ la ma ɖe Yuda kple Israel",
+     "Trɔ̃subɔsubɔ edziedzi",
+     "Eliya, Yesaya, Yeremya do ɣli be ‘mitrɔ gbɔ’ — eye wogblɔ Mesia la ŋu nya ɖi"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "Fiawo II 17 · Yona",
+    "today": "Mosul, Irak, egbea",
+    "note": "Esi wometsɔ ɖeke le nuxlɔ̃ame ɖe sia ɖe me o ta la, anyiehe lɔƒoa dze gbã.",
+    "events": [
+     "Ninive, Asiria ƒe fiadu",
+     "Anyiehe fiaɖuƒea dze le Asiria ƒe asi me (722 D.Y.)",
+     "Woɖo Yona ɖe Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilon",
+    "book": "Fiawo II 25 · Daniel · Hesekiel",
+    "today": "Hillah, Irak, egbea",
+    "note": "Zã si do blukɔ wu — gake gbugbɔɖoɖoanyi ƒe ŋugbedodo gakpɔtɔ li.",
+    "events": [
+     "Yerusalem dze, wotɔ dzo gbedoxɔ la (586 D.Y.)",
+     "Wokplɔ Yuda yi Babilon",
+     "Daniel kple Hesekiel — xɔse kple ŋutegawo le aboyome"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Ester · Nexemya",
+    "today": "Shush, Iran, egbea",
+    "note": "Le trɔ̃subɔla ƒe fiaɖuƒe gã ƒe titina gɔ̃ hã la, Mawu kpɔ eƒe dukɔ ta.",
+    "events": [
+     "Persia ɖu Babilon dzi",
+     "Ester ɖe Yudatɔwo tso tsɔtsrɔ̃ me",
+     "Nexemya do gbe ɖa le fia la ŋkume eye woɖoe ɖa"
+    ]
+   },
+   "return": {
+    "name": "Tɔtrɔ yi Yerusalem",
+    "book": "Ezra · Nexemya · Maleaxi",
+    "today": "Yerusalem, egbea",
+    "note": "Wotrɔ gbɔ eye wogbugbɔ tu nu — gake fia aɖeke meva o. Wole Mesia lalam.",
+    "events": [
+     "Tɔtrɔgbɔ ʋuʋu etɔ̃ to Sirus ƒe sededea me (Zerubabel 538 · Ezra 458 · Nexemya 444)",
+     "Wogbugbɔ tu gbedoxɔ la eye wogaɖo Yerusalem gliawo te",
+     "Maleaxi — Nubabla Xoxo wu nu: “Kpɔ ɖa, mele nye dɔla dɔm ɖa”"
+    ]
+   }
+  },
+  "labels": [
+   "Domeƒu la",
+   "Mesopotamia",
+   "Arabia ƒe Gbedzi",
+   "Egipte"
+  ],
+  "journeys": {
+   "flow": "Ðeɖe ƒe ŋutinya la"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mateo 1–2 · Luka 2",
+    "today": "Betlehem, egbea",
+    "note": "Mesia si ŋugbe wodo la va David ƒe du me — Nya la va zu amegbetɔ.",
+    "events": [
+     "Wodzii le Betlehem, David ƒe du la me",
+     "Mawudɔlawo ɖe gbeƒã nya la na alẽkplɔlawo",
+     "Ɣletivimenunyalawo va be yeasubɔe"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Luka 2 · 4",
+    "today": "Nazaret, egbea",
+    "note": "Mawu tsi abe amegbetɔ ene le du tsɛ aɖe me.",
+    "events": [
+     "Wonyii le atikpala ƒe aƒe me",
+     "Le ƒe wuievelia me, ebia nya heɖo eŋu le gbedoxɔ la me",
+     "Emegbe, wogbe nu le esi le eƒe dedu ƒe ƒuƒoƒe"
+    ]
+   },
+   "jordan": {
+    "name": "Yɔdan Tɔsisi la",
+    "book": "Mateo 3–4",
+    "today": "Yɔdan ƒe ete lɔƒo, egbea",
+    "note": "Eƒe dutoƒo subɔsubɔdɔ dze egɔme — dziƒo ɖo kpe edzi be eyae nye Vi la.",
+    "events": [
+     "Yohanes de mawutsi ta nɛ",
+     "Gbɔgbɔ la ɖi abe akpakpa ene — “Ame siae nye Vinye lɔlɔ̃a”",
+     "Eɖu Satan ƒe tetekpɔ etɔ̃awo dzi le gbedzi"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yohanes 2",
+    "today": "Kafr Kanna, egbea",
+    "note": "Le eƒe dzesi gbãtɔ me la, eɖe eƒe ŋutikɔkɔe fia.",
+    "events": [
+     "Amekpekpe aɖe le srɔ̃ɖeƒe",
+     "Tsi trɔ zu wein — eƒe dzesi gbãtɔ",
+     "Eƒe nusrɔ̃lawo xɔ edzi se"
+    ]
+   },
+   "sychar": {
+    "name": "Sikar (Samaria)",
+    "book": "Yohanes 2–4",
+    "today": "Nablus gbɔ, egbea",
+    "note": "Subɔsubɔdɔ ƒe gɔmedzedze ƒe mɔ — to Yerusalem me heyi Samaria si wodo vlo la.",
+    "events": [
+     "Ekɔ gbedoxɔ la ŋu le Yerusalem",
+     "Le zã me, Nikodemo — “Ele be woagadzi wò”",
+     "Agbetsi na Samaria nyɔnu aɖe"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Mateo 4–13 · Marko 1–4",
+    "today": "Galilea ƒuta, egbea",
+    "note": "Galilea subɔsubɔdɔ ƒe nɔƒe gãtɔ — yɔyɔ, nufiafia kple tsitretsiɖeŋu ƒo ƒu ɖe afi sia.",
+    "events": [
+     "Eyɔ ƒumeɖelawo eye wòtu nɔƒe ɖe afi sia",
+     "Toa dzi ƒe nufiafia — “Dzidzɔtɔwoe nye hiãtɔwo le gbɔgbɔ me”",
+     "Fiaɖuƒe la ŋuti lododowo — kple tsitretsiɖeŋu si le dzidzim ɖe edzi"
+    ]
+   },
+   "galilee": {
+    "name": "Galilea Ƒu la",
+    "book": "Marko 4 · 6 · Yohanes 6",
+    "today": "Kineret ƒu la, egbea",
+    "note": "To ŋusẽ si le esi ɖe dzɔdzɔme dzi me la, eɖe ame si wònye la fia.",
+    "events": [
+     "“Zi ɖoɖoe, nɔ kpoo” — eɖe gbe na ahom la",
+     "Etsɔ abolo atɔ̃ kple akpa eve na ame akpe atɔ̃ ɖu nu",
+     "Ezɔ ƒu la dzi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisarea Filipi",
+    "book": "Mateo 16–17",
+    "today": "Banias, egbea",
+    "note": "Nusrɔ̃lawo se egɔme be eyae nye Kristo, eye ati la ƒe mɔ ʋu.",
+    "events": [
+     "Petro ƒe xɔseʋuɖeɖe — “Wòe nye Kristo, Mawu gbagbe la ƒe Vi”",
+     "Egblɔ eƒe ku kple tsitretsitsi ŋu nya zi gbãtɔ",
+     "Wotrɔ eƒe nɔnɔme le ŋutikɔkɔe me le toa dzi"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Luka 18–19",
+    "today": "Yeriko, egbea",
+    "note": "Le mɔ si yi Yerusalem dzi la, edi ame siwo bu.",
+    "events": [
+     "Ena ŋku ʋu na ŋkuagbãtɔ Bartimeo",
+     "Eyɔ dugadzɔla Zakeo",
+     "“Amegbetɔ ƒe Vi la va be yeadi ame siwo bu, ahaɖe wo”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Yohanes 11–12",
+    "today": "al-Eizariya, egbea",
+    "note": "Eɖe eƒe ŋusẽ ɖe ku dzi fia hafi eƒe kwasiɖa mamlɛtɔ nadze egɔme.",
+    "events": [
+     "Efɔ Lazaro ɖe tsitre tso yɔdo me — “Nyee nye tsitretsitsi kple agbe la”",
+     "Maria si ami nɛ ɖe eƒe ɖiɖi ŋu",
+     "Dzesi sia na woɖo tame kokoko be yewoawui"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem",
+    "book": "Mateo 21–28 · Luka 24 · Amedɔdɔawo ƒe Dɔwɔwɔwo 1",
+    "today": "Yerusalem, egbea",
+    "note": "Kɔkɔƒe si Biblia bliboa le asi fiam — ati la, tsitretsitsi, kple ɖoɖomedzi.",
+    "events": [
+     "Ŋutikɔkɔe ƒe gegeɖeme; egatrɔ gbedoxɔ la me kplɔ̃wo bu",
+     "Le Fiẽnuɖuɖu Mamlɛtɔ la me, eklɔ nusrɔ̃lawo ƒe afɔwo",
+     "Eku ɖe ati la ŋu",
+     "Egbɔ agbe le ŋkeke etɔ̃lia gbe, emegbe wòlia yi dziƒo"
+    ]
+   }
+  },
+  "labels": [
+   "Domeƒu la",
+   "Galilea",
+   "Samaria",
+   "Yudea",
+   "Dekapoli",
+   "Perea",
+   "Ƒu Kuku la"
+  ],
+  "journeys": {
+   "life": "Yesu ƒe mɔ la"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioxia",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 13 · 15",
+    "today": "Antakya, Turkiye, egbea",
+    "note": "Hame si dɔa amewo ɖa, afi si dɔ na ame siwo menye Yudatɔwo o dze egɔme le hetrɔ gbɔna.",
+    "events": [
+     "Le gbedodoɖa me la, Gbɔgbɔ la ɖe Barnaba kple Saul ɖe aga",
+     "Hame si me woyɔ xɔsetɔwo be ‘Kristotɔwo’ zi gbãtɔ le",
+     "Mɔzɔzɔ gbãtɔ, evelia kple etɔ̃lia ƒe gɔmedzeƒe"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 13:4",
+    "today": "Turkiye, egbea",
+    "note": "Antioxia ƒe melidzeƒe — woɖo ʋu ɖo ta Kipro.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Kipro)",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 13:5",
+    "today": "Kipro, egbea",
+    "note": "Tɔteƒe gbãtɔ le Kipro — mawunyagbɔgblɔ le ƒuƒoƒewo.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 13:6-12",
+    "today": "Kipro, egbea",
+    "note": "Woɖe ŋusẽ fia ɖe ame siwo tsi tsitre ɖe nyanyui la ŋu ŋu.",
+    "events": [
+     "Elima afakala la ƒe ŋku gbã",
+     "Mɔmefia Sergio Paulo xɔ edzi se",
+     "Tso afi sia dzi la, ‘Paulo’ va zu kplɔla"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 13:13",
+    "today": "Antalya, Turkiye, egbea",
+    "note": "Melidzeƒe aɖe le Pamfilia — afi sia Yohanes Marko trɔ dzo le.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidia ƒe Antioxia",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 13:14-50",
+    "today": "Yalvaç, Turkiye, egbea",
+    "note": "Nyanyui la ʋu ɖe ame siwo menye Yudatɔwo o gbɔ.",
+    "events": [
+     "Ðeɖeŋutinya ƒe mawunyagbɔgblɔ legbe aɖe le ƒuƒoƒe la",
+     "Ame siwo menye Yudatɔwo o gbogbo aɖe kpɔ dzidzɔ hexɔ nya la",
+     "Wonya wo do goe le tsitretsiɖeŋu ta"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonio",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 14:1-7",
+    "today": "Konya, Turkiye, egbea",
+    "note": "Ame geɖe xɔ edzi se, gake yometiti na wòyi ŋgɔ.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 14:8-20",
+    "today": "Turkiye, egbea",
+    "note": "Wobui be enye mawu, emegbe woƒu kpee.",
+    "events": [
+     "Eda ŋutsu aɖe si nye tekunɔ tso dzɔdzɔ me gbɔ",
+     "Ameha la dze agbagba be yeasa vɔ na wo abe mawuwo ene",
+     "Woƒu kpee hegblẽe ɖi be eku, gake wòtsi tsitre"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 14:20-21",
+    "today": "Turkiye, egbea",
+    "note": "Wowɔ nusrɔ̃la geɖe; wotrɔ ɖe wo megbe be yewoado ŋusẽ hameawo.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troa",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 16:8-10",
+    "today": "Turkiye, egbea",
+    "note": "Afɔɖoƒe si trɔ nu, afi si nyanyui la ɖo ta Europa zi gbãtɔ le.",
+    "events": [
+     "Makedonia ŋutsu aɖe ƒe ŋutega",
+     "“Tso va kpe ɖe mía ŋu”",
+     "Wotso yi Europa enumake"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 16 · Filipitɔwo",
+    "today": "Hela ƒe anyiehe lɔƒo, egbea",
+    "note": "Europa ƒe hame gbãtɔ — nyanyui la ɖu dzi le gaxɔ me gɔ̃ hã.",
+    "events": [
+     "Lidia, avɔ dzĩ dzrala, xɔ edzi se",
+     "Woɖe kluvinyɔnuvi bokɔdela aɖe",
+     "Zãtitina hadzidzi, anyigbaʋuʋu, gaxɔdzikpɔla ƒe aƒekɔ xɔ ɖe"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 17 · Tesalonikatɔwo I–II",
+    "today": "Thessaloniki, Hela, egbea",
+    "note": "Nya la ʋuʋu dua eye tsitretsiɖeŋu dzo.",
+    "events": [
+     "Eƒo nu kple wo le ƒuƒoƒe la me Sabat etɔ̃",
+     "“Ame siwo trɔ xexea me bu”",
+     "Wodo go dzaa le zã me"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 17:10-15",
+    "today": "Veria, Hela, egbea",
+    "note": "Ame ‘dɔmenyotɔwo’ siwo dzro nya la me na wo ɖokui.",
+    "events": [
+     "Woxɔ nya la kple dzidzɔ blibo",
+     "Gbe sia gbe wodzroa mawunyawo me be yewoakpɔe ɖa",
+     "Ame geɖe va xɔ edzi se"
+    ]
+   },
+   "athens": {
+    "name": "Atene",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 17:16-34",
+    "today": "Atene, Hela, egbea",
+    "note": "Le nunyalawo ƒe du la me la, eɖe gbeƒã ‘mawu manyamanya’ la.",
+    "events": [
+     "Trɔ̃wo yɔ du la me fũu, eye esia ʋã eƒe gbɔgbɔ",
+     "Le Areopago la dzi, wògblɔ Nuwɔla kple tsitretsitsi ŋuti nya",
+     "Woɖu fewu, gake ame ʋɛ aɖewo xɔ edzi se"
+    ]
+   },
+   "corinth": {
+    "name": "Korinto",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 18 · Korintotɔwo I–II",
+    "today": "Hela, egbea",
+    "note": "Enɔ afi ma ƒe ɖeka kple afã, hetu hame ɖe du si me nu vlowɔwɔ bɔ ɖo.",
+    "events": [
+     "Etu agbadɔwo kple Akwila kple Priskila",
+     "“Mègavɔ̃ o… elabe meli kpli wò”",
+     "Korintotɔ geɖe xɔ edzi se eye wode mawutsi ta na wo"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 19 · Efesotɔwo",
+    "today": "Selçuk, Turkiye, egbea",
+    "note": "Mɔzɔzɔ etɔ̃lia ƒe dzime — nya la keke ta le Asia.",
+    "events": [
+     "Nufiafia gbe sia gbe ƒe eve le Tirano ƒe nufiaƒe",
+     "Wotɔ dzo dzowɔgbalẽwo; ŋusẽdɔ gãwo",
+     "Klosalonutula Demetrio he ʋunyaʋunya"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 20:17-38",
+    "today": "Turkiye, egbea",
+    "note": "Gbedodo si me aɖatsi le na Efeso hamemetsitsiwo.",
+    "events": [
+     "“Mikpɔ hame si wòtsɔ eya ŋutɔ ƒe ʋu ƒlee la dzi”",
+     "Hamemetsitsiwo fa avi, elabe wonya be yewomagakpɔe akpɔ o"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisarea",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 23–26",
+    "today": "Israel ƒe ƒuta, egbea",
+    "note": "Ƒe eve wòʋli nyanyui la ta le mɔmefiawo kple fia aɖe ŋkume.",
+    "events": [
+     "Ʋɔnudɔdrɔ̃wo le mɔmefia Felike kple Festo ŋkume",
+     "Eƒe taʋiʋli le Fia Agripa ŋkume",
+     "“Metsɔ nye nya de Kaisaro si” — heyi Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 21–23",
+    "today": "Yerusalem, egbea",
+    "note": "Wolée le gbedoxɔ la me, eye eƒe mɔzɔzɔ abe gamenɔla ene dze egɔme.",
+    "events": [
+     "Ameha la lée le gbedoxɔ la me",
+     "Eʋli eɖokui ta le takpekpe gã la ŋkume",
+     "Abe Roma-dukɔmevi ene la, woɖoe kple asrafowo ɖe Kaisarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 27:5-6",
+    "today": "Demre, Turkiye, egbea",
+    "note": "Woge ɖe Aleksandria-ʋu si ɖo ta Roma me.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Melidzeƒe Nyuiwo (Kreta)",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 27:8-12",
+    "today": "Kreta, egbea",
+    "note": "Womeɖo to Paulo ƒe nuxlɔ̃ame be woadzudzɔ ʋuɖoɖo o.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Tito",
+    "today": "Kreta, egbea",
+    "note": "Le eƒe ablɔɖexɔxɔ megbe, ƒukpo si dzi wògblẽ Tito ɖi be wòaɖɔ hameawo ɖo.",
+    "events": [
+     "Egblẽ Tito ɖi be wòaɖo hamemetsitsiwo ɖe du sia du me",
+     "Ebia kplɔla siwo ŋu mokaka mele o, nuteƒewɔlawo",
+     "Eŋlɔ agbalẽ ɖo ɖe Tito"
+    ]
+   },
+   "malta": {
+    "name": "Melita",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 27–28",
+    "today": "Malta, egbea",
+    "note": "To ahom kple ʋugbagbã me la, Mawu ƒe ŋugbedodo li ke.",
+    "events": [
+     "Ahom sesẽ la gbã ʋu la, gake ame 276 katã tsi agbe",
+     "Da aɖe ɖui, gake naneke mewɔe o",
+     "Eda ƒukpoa dzi dɔnɔwo gbɔ"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusa",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 28:12",
+    "today": "Sisilia, Italia, egbea",
+    "note": "Wonɔ Sisilia ŋkeke etɔ̃.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 28:13-14",
+    "today": "Pozzuoli, Italia, egbea",
+    "note": "Woɖi go ɖe Italia eye nɔvi xɔsetɔwo va kpe wo.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Amedɔdɔawo ƒe Dɔwɔwɔwo 28 · Gaxɔmegbalẽawo · Timoteo II",
+    "today": "Roma, Italia, egbea",
+    "note": "Mlɔeba la, nyanyui la ɖo fiaɖuƒe gã la ƒe dzime — menye nuwuwu o, ke boŋ gɔmedzedze.",
+    "events": [
+     "Ƒe eve le aƒemenɔɖoɖo te, wòɖe gbeƒã fiaɖuƒe la dzideƒotɔe",
+     "Tso afi sia wòŋlɔ Gaxɔmegbalẽawo (Efeso·Filipi·Kolose·Filemon)",
+     "Emegbe wogalée de gaxɔ me, wòŋlɔ Timoteo II eye wòku ɖe xɔse ta — “Meʋli ʋiʋli nyui la, mewu duƒuƒu la nu”"
+    ]
+   }
+  },
+  "labels": [
+   "Domeƒu la",
+   "Egeo Ƒu la",
+   "Asia Sue",
+   "Makedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Mɔzɔzɔ gbãtɔ",
+   "j2": "Mɔzɔzɔ evelia",
+   "j3": "Mɔzɔzɔ etɔ̃lia",
+   "rome": "Mɔzɔzɔ enelia · yi Roma",
+   "j5": "Mɔzɔzɔ atɔ̃lia · le ablɔɖexɔxɔ megbe"
+  }
+ }
+}

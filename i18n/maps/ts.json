@@ -1,0 +1,636 @@
+{
+ "menuName": "Xitsonga",
+ "htmlLang": "ts",
+ "dir": "ltr",
+ "locale": "ts-ZA",
+ "brand": "Bibele hi xivono xin'we",
+ "docTitle": "Bibele hi Mepe · Bibele hi xivono xin'we",
+ "metaDesc": "Landzelela nkarhi wa Testamente ya Khale, vutomi bya Yesu, ni maendzo ya Pawulo emepeni ya xiviri — Bibele yi humelele etindhawini ta xiviri.",
+ "s": {
+  "kicker": "Bibele hi xivono xin'we · Timepe",
+  "title": "Bibele hi Mepe",
+  "verse": "“A hi landzanga mintsheketo yo endliwa hi vutlhari, loko hi mi tivisile ta ku humelela hi matimba ka Hosi ya hina Yesu Kriste; hina hi timbhoni ta vukulukumba bya yena, lebyi hi nga byi vona hi mahlo.” (II Petro 1:16)",
+  "purpose": "Bibele a hi ntsheketo wa mavunwa. I rungula ra vanhu lava fambeke etindhawini ta xiviri, hi masiku ni mavito ya xiviri. Landzelela tindlela teto emepeni, hi ku landzelelana ka nkarhi — tinya ndhawu, kumbe u tshova ▶ leswaku u famba ha yona xiyenge hi xiyenge.",
+  "ot_kick": "① Testamente ya Khale — ku tsemakanya nkarhi",
+  "ot_h": "Ku suka eku Tumbuluxeni ku ya eku tlheleni eYerusalema",
+  "ot_lead": "A hi riendzo rin'we ntsena kambe i ku khuluka ka matimu ya ku ponisa ku sukela eku tumbuluxeni: ku tumbuluxa ni ku wa → ndhambi ni Babele → xirhambo (Abrahama) → tiko leri tshembisiweke → Eksoda → mananga → ku hlula → mfumo → ku avana → vukhumbi → ku tlhela.",
+  "je_kick": "② Testamente Leyintshwa — vutomi bya Yesu",
+  "je_h": "Ku suka eBetlehema ku ya eYerusalema",
+  "je_lead": "Landzela vutomi bya Yesu hilaha Tievhangeli ti byi hlamuselaka hakona, hi ku landzelelana — ku sukela eku velekiweni ka yena eBetlehema, ku hundza eku khuvuriweni ni vutirheli bya le Galeliya, ku tsemakanya Samariya, ku ya exihambanweni, ku pfuka ni ku tlhandlukela etilweni eYerusalema.",
+  "pa_kick": "③ Testamente Leyintshwa — maendzo ya Pawulo",
+  "pa_h": "Ku suka eAntiyoka ku ya emakun'wini ya misava — Roma",
+  "pa_lead": "Ku sukela eka Pentekosta eYerusalema, ndlela leyi evhangeli yi hangalakeke ha yona ku tlula Yudiya — hi le Asia Minor ni Yuropa ku ya embilwini ya mfumo lowukulu. Hlawula rin'wana ra maendzo ya ntlhanu (wo sungula · wa vumbirhi · wa vunharhu + riendzo ro ya eRoma + endzhaku ka ku ntshunxiwa) kutani u landzela swiendlakalo swa Mintirho ni mapapila lama tsariweke endleleni.",
+  "foot": "Swihlovo · Tindhawu ti landzela matsalwa ya Bibele ni jeyografi leyi tolovelekeke ya Bibele (ni mavito ya manguva lawa laha swi pfunaka). Makumu ya matlhelo ya lwandle, milambu ni mativa swi tsariwe ku suka eka datha ya jeyografi leyi pfulekeke (Natural Earth), swi olovisiwile.",
+  "contact": "Swivutiso · mavonelo — <a id=\"contact\" class=\"mail\">Hi tsalele imeyili</a>",
+  "play": "Tlanga",
+  "pause": "Yima",
+  "today": "Namuntlha:",
+  "verseCite": "II Petro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edeni (Ku Tumbuluxa · Ku Wa)",
+    "book": "Genesa 1–3",
+    "today": "ndhawu ya Tigris–Efrata namuntlha",
+    "note": "Emisaveni leyi a yi endliwe yi ri “leyinene swinene,” xidyoho xi nghena kutani xi tshova vuxaka exikarhi ka Xikwembu ni vanhu.",
+    "events": [
+     "Ku tumbuluxa hi masiku ya tsevu — “a swi ri swinene”",
+     "Vanhu va vumbiwa hi xifaniso xa Xikwembu",
+     "Ku Wa, ni ku hlongoriwa eEdeni",
+     "Xitshembiso xa evhangeli xo sungula — “mutukulu wa wansati u ta faya nhloko ya nyoka”"
+    ]
+   },
+   "noah": {
+    "name": "Ararata (Ndhambi)",
+    "book": "Genesa 6–9",
+    "today": "Ntshava ya Ararata, eTurkiye ya le vuxa namuntlha",
+    "note": "Xikwembu xi avanyisa misava leyi teleke xidyoho, kambe xi hlayisa vutomi hi ndyangu wun'we.",
+    "events": [
+     "Misava leyi teleke vubihi",
+     "Ndhambi, ni ngalava ya Nowa",
+     "Ntwanano wa nkwangulatilo — “a ku nga ha vi na ndhambi yo lovisa”"
+    ]
+   },
+   "babel": {
+    "name": "Xihondzo xa Babele",
+    "book": "Genesa 11",
+    "today": "Iraq namuntlha (rivala ra Xinari)",
+    "note": "Ku lwisana ni ku titlakusa loku fikelelaka etilweni, Xikwembu xi hangalasa ririmi ra vona ni vanhu emisaveni hinkwayo.",
+    "events": [
+     "“A hi akeni muti ni xihondzo… hi tivangela vito”",
+     "Xikwembu xi pfilunganya ririmi ra vona",
+     "Vanhu va hangalaka emisaveni (Xinari — endzhaku Babilona)"
+    ]
+   },
+   "ur": {
+    "name": "Uri",
+    "book": "Genesa 12",
+    "today": "Iraq ya le dzongeni namuntlha",
+    "note": "Ntsheketo wa Bibele wa ku ponisa wu sungula hi ku vitaniwa ka wanuna un'we.",
+    "events": [
+     "Xikwembu xi vitana Abrama a huma eUri wa Vakalidiya",
+     "“Ndzi ta ku endla tiko lerikulu… vanhu hinkwavo va katekisiwa ha wena”",
+     "Hi ku pfumela u siya tiko ra ka vona"
+    ]
+   },
+   "haran": {
+    "name": "Harani",
+    "book": "Genesa 12",
+    "today": "Turkiye ya le dzongeni namuntlha",
+    "note": "Endleleni, a hlamula xirhambo a kongoma etikweni leri tshembisiweke.",
+    "events": [
+     "Ndyangu wa Tera wu tshama eHarani",
+     "Tera wa fa",
+     "Abrama u suka a kongoma eKanana hi malembe ya 75"
+    ]
+   },
+   "shechem": {
+    "name": "Xekeme · Kanana",
+    "book": "Genesa 12–50",
+    "today": "Nablus namuntlha",
+    "note": "Etikweni leri tshembisiweke ku simekiwa ndyangu naswona ntwanano wu hundzela eka switukulwana.",
+    "events": [
+     "Ku nghena eKanana, alitari yo sungula — “tiko leri ndzi ri nyika mutukulu wa wena”",
+     "Ntwanano (Gen 15) · Isaka · Yakobo",
+     "Vana va Yakobo va khume mbirhi — rimitsu ra tinyimba ta khume mbirhi"
+    ]
+   },
+   "egypt": {
+    "name": "Egipta (Goxeni)",
+    "book": "Genesa 37–50 · Eksoda 1",
+    "today": "Delta ya Nayili, Egipta namuntlha",
+    "note": "Ndyangu wu hundzuka tiko lerikulu — kutani tiko ra mahlonga.",
+    "events": [
+     "Yosefa, loyi a xavisiweke, u tlakuka a fuma Egipta",
+     "Ndyangu hinkwawo wa Yakobo wu xika ku balekela ndlala",
+     "Tiko ra Israele leri kulaka ri endliwa mahlonga"
+    ]
+   },
+   "sinai": {
+    "name": "Ntshava ya Sinayi",
+    "book": "Eksoda · Levhitika",
+    "today": "Peninsula ya Sinayi namuntlha",
+    "note": "Ku ponisa lokukulu ka Testamente ya Khale — mahlonga ma hundzuka vanhu va Xikwembu.",
+    "events": [
+     "Timhangu ta khume ni xinyimpfana xa Paseka",
+     "Lwandle ro Tshwuka ri avuka kutani va tsemakanya",
+     "Milawu ya Khume, Nawu, ntsonga ni magandzelo"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadexi (mananga)",
+    "book": "Tinhlayo · Deteronoma",
+    "today": "mananga ya Sinayi–Negev namuntlha",
+    "note": "Ku pfumala ku pfumela ku tsonisa xitukulwana tiko — kambe Xikwembu xi tshama na vona.",
+    "events": [
+     "Tinhloli ta khume mbirhi — kambe vanhu va ala ku tshemba",
+     "Malembe ya 38 emananga — mana, phlari ni ndzilo",
+     "Etimbaleni ta Mowabi, dyondzo yo hetelela ya Muxe (Deteronoma)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Yoxuwa",
+    "today": "Yeriko namuntlha",
+    "note": "Ekuheteleleni va nghena kutani va teka tiko leri tshembisiweke.",
+    "events": [
+     "Yordani wa avuka kutani vanhu va tsemakanya",
+     "Marhangu ya Yeriko ma wa",
+     "Ku hlula Kanana ni ku avanyisa tiko"
+    ]
+   },
+   "shiloh": {
+    "name": "Xilo (Vaavanyisi)",
+    "book": "Vaavanyisi · Rhuti",
+    "today": "Khirbet Seilun namuntlha",
+    "note": "Handle ka hosi, un'wana ni un'wana u endla hi ku rhandza ka yena — ku laveka hosi ya ntiyiso.",
+    "events": [
+     "Ntsonga wu yimisiwa eXilo",
+     "Xirhendzevutani xa xidyoho–ku xanisiwa–ku ponisa (Debora, Gidiyoni, Samsoni)",
+     "Rhuti — ku tshembeka emasikwini ya munyama, enyimbeni ya Davhida"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalema · Mfumo lowu Hlanganeke",
+    "book": "I–II Samiele · I Tihosi",
+    "today": "Yerusalema namuntlha",
+    "note": "Nkarhi wa nsuku wa Israele — ni xitshembiso xa hosi leyi nga heriki.",
+    "events": [
+     "Sawulo hosi yo sungula, kutani Davhida na Goliyadi",
+     "Ntwanano wa Davhida — “xiluvelo xa wena hilaha ku nga heriki” (II Sam 7)",
+     "Solomoni u aka tempele eYerusalema"
+    ]
+   },
+   "samaria": {
+    "name": "Samariya · Mfumo lowu Avaneke",
+    "book": "Tihosi · Vaprofeta",
+    "today": "Sebastia namuntlha",
+    "note": "Mfumo wu avana wu tlhela wu tsana loko vaprofeta va huwelela.",
+    "events": [
+     "Endzhaku ka Solomoni, ku avana ka Yuda na Israele",
+     "Ku gandzela swikwembu swa hava ko phindzaphindza",
+     "Eliya, Esaya, Yeremiya va huwelela va ku ‘tlhelelani’ — va tlhela va profeta hi Mesiya"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiriya)",
+    "book": "II Tihosi 17 · Yonasi",
+    "today": "Mosul, Iraq namuntlha",
+    "note": "Hi ku honisa xilemukiso xin'wana ni xin'wana, n'walungwu wu wa wu rhanga.",
+    "events": [
+     "Ninive, ntsindza wa Asiriya",
+     "Mfumo wa n'walungwu wu wela eka Asiriya (722 BC)",
+     "Yonasi u rhumiwa eNinive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilona",
+    "book": "II Tihosi 25 · Daniele · Ezekiele",
+    "today": "Hillah, Iraq namuntlha",
+    "note": "Vusiku byo dima swinene — kambe xitshembiso xa ku pfuxetiwa xi sala.",
+    "events": [
+     "Yerusalema wa wa, tempele yi hisiwa (586 BC)",
+     "Yuda ri yisiwa eBabilona",
+     "Daniele na Ezekiele — ku pfumela ni swivono evukhumbini"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Peresiya)",
+    "book": "Estere · Nehemiya",
+    "today": "Shush, Iran namuntlha",
+    "note": "Hambi ku ri embilwini ya mfumo wa vahedeni, Xikwembu xi hlayisa vanhu va xona.",
+    "events": [
+     "Peresiya ri wisa Babilona",
+     "Estere u ponisa Vayuda eka ku loviswa",
+     "Nehemiya u khongela emahlweni ka hosi kutani a rhumiwa"
+    ]
+   },
+   "return": {
+    "name": "Ku Tlhela eYerusalema",
+    "book": "Ezra · Nehemiya · Malakiya",
+    "today": "Yerusalema namuntlha",
+    "note": "Va tlhela va aka nakambe — kambe a ku si va na hosi. Va rindzela Mesiya.",
+    "events": [
+     "Mintlawa minharhu yo tlhela hi xileriso xa Korexe (Zerubabele 538 · Ezra 458 · Nehemiya 444)",
+     "Tempele yi akiwa nakambe ni marhangu ya Yerusalema ma pfuxetiwa",
+     "Malakiya — Testamente ya Khale yi gimeta: “Ndzi ta rhuma nandza wa mina”"
+    ]
+   }
+  },
+  "labels": [
+   "Lwandle ra Mediteraniya",
+   "Mesopotamiya",
+   "Mananga ya Arabiya",
+   "Egipta"
+  ],
+  "journeys": {
+   "flow": "Ntsheketo wa ku ponisa"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehema",
+    "book": "Matewu 1–2 · Luka 2",
+    "today": "Betlehema namuntlha",
+    "note": "Mesiya la tshembisiweke u ta emutini wa Davhida — Rito ri hundzuka munhu.",
+    "events": [
+     "U velekiwa eBetlehema, muti wa Davhida",
+     "Tintsumi ti tivisa varisi mahungu",
+     "Vatlhari va le Vuxa va ta ku gandzela"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareta",
+    "book": "Luka 2 · 4",
+    "today": "Nazareta namuntlha",
+    "note": "Xikwembu xi kula xi ri munhu emutini wo tolovela.",
+    "events": [
+     "U kuriswa endlwini ya muvatli",
+     "Hi malembe ya khume mbirhi, a vutisa a tlhela a hlamula etempeleni",
+     "Endzhaku u aliwa esinagogeni ya muti wa ka vona"
+    ]
+   },
+   "jordan": {
+    "name": "Nambu wa Yordani",
+    "book": "Matewu 3–4",
+    "today": "Yordani wa le hansi namuntlha",
+    "note": "Vutirheli byakwe bya le rivaleni byi sungula — tilo ri n'wi funga tanihi N'wana.",
+    "events": [
+     "U khuvuriwa hi Yohane",
+     "Moya wu xika kukota tuva — “Loyi i N'wananga la rhandzekaka”",
+     "U hlula miringo minharhu ya Sathana emananga"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yohane 2",
+    "today": "Kafr Kanna namuntlha",
+    "note": "Eka xikombiso xakwe xo sungula u paluxa ku vangama kakwe.",
+    "events": [
+     "Muendzi enkhuvweni wa vukati",
+     "Mati ma hundzuka vhinyo — xikombiso xakwe xo sungula",
+     "Vadyondzisiwa vakwe va pfumela eka yena"
+    ]
+   },
+   "sychar": {
+    "name": "Sikari (Samariya)",
+    "book": "Yohane 2–4",
+    "today": "ekusuhi na Nablus namuntlha",
+    "note": "Ndlela ya vutirheli byo sungula — hi le Yerusalema ku ya eSamariya leyi sandziweke.",
+    "events": [
+     "U basisa tempele eYerusalema",
+     "Nivusiku, Nikodema — “U fanele u velekiwa nakambe”",
+     "Mati ya vutomi eka wansati wa Musamariya"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernawume",
+    "book": "Matewu 4–13 · Marka 1–4",
+    "today": "eribuweni ra tiva ra Galeliya namuntlha",
+    "note": "Ntsindza wa vutirheli bya le Galeliya — ku vitana, ku dyondzisa ni ku kaneta hinkwaswo swi hlangana laha.",
+    "events": [
+     "U vitana vaphasi va tinhlampfi kutani a tiendla laha ntsindza",
+     "Dyondzo ya le Ntshaveni — “Va katekile lava nga swisiwana emoyeni”",
+     "Swifaniso swa mfumo — ni ku kaneta loku kulaka"
+    ]
+   },
+   "galilee": {
+    "name": "Lwandle ra Galeliya",
+    "book": "Marka 4 · 6 · Yohane 6",
+    "today": "Tiva ra Kinneret namuntlha",
+    "note": "Hi matimba ehenhla ka ntumbuluko u kombisa leswaku i mani.",
+    "events": [
+     "“Miyela, u rhula” — u miyeta xihuhuri",
+     "U phamela 5 000 hi swinkwa swa ntlhanu ni tinhlampfi timbirhi",
+     "U famba ehenhla ka mati"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kesariya Filipi",
+    "book": "Matewu 16–17",
+    "today": "Banias namuntlha",
+    "note": "Vadyondzisiwa va twisisa leswaku i Kriste, kutani ndlela ya xihambano yi pfuleka.",
+    "events": [
+     "Ku vula ka Petro — “U Kriste, N'wana wa Xikwembu lexi hanyaka”",
+     "U profeta ro sungula rifu ni ku pfuka kakwe",
+     "U hundzuluxiwa hi ku vangama entshaveni"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Luka 18–19",
+    "today": "Yeriko namuntlha",
+    "note": "Endleleni yo tlhandluka eYerusalema, u lava lava lahlekeke.",
+    "events": [
+     "U vulula mahlo ya Bartimewu la feke mahlo",
+     "U vitana Zakiya muluvisi wa swibalo",
+     "“N'wana wa Munhu u tele ku lava ni ku ponisa lava lahlekeke”"
+    ]
+   },
+   "bethany": {
+    "name": "Betaniya",
+    "book": "Yohane 11–12",
+    "today": "al-Eizariya namuntlha",
+    "note": "U kombisa vulawuri ehenhla ka rifu emahlweni ka vhiki rakwe ro hetelela.",
+    "events": [
+     "U pfuxa Lazaro esirheni — “Hi mina ku pfuka ni vutomi”",
+     "Mariya u n'wi tota mafurha ku lunghisela ku lahliwa",
+     "Xikombiso lexi xi tiyisa makungu yo n'wi dlaya"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalema",
+    "book": "Matewu 21–28 · Luka 24 · Mintirho 1",
+    "today": "Yerusalema namuntlha",
+    "note": "Ku fikelela ka nkoka loku Bibele hinkwayo yi ku kongomaka — xihambano, ku pfuka, ni ku tlhandlukela etilweni.",
+    "events": [
+     "Ku nghena hi ku hlula; u wisela mitafula ya tempele nakambe",
+     "EXilalelweni xo Hetelela u hlantswa milenge ya vadyondzisiwa",
+     "U fela exihambanweni",
+     "U pfuka hi siku ra vunharhu, kutani a tlhandlukela etilweni"
+    ]
+   }
+  },
+  "labels": [
+   "Lwandle ra Mediteraniya",
+   "Galeliya",
+   "Samariya",
+   "Yudiya",
+   "Dekapolisi",
+   "Pereya",
+   "Lwandle ra Munyu"
+  ],
+  "journeys": {
+   "life": "Ndlela ya Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiyoka",
+    "book": "Mintirho 13 · 15",
+    "today": "Antakya, Turkiye namuntlha",
+    "note": "Kereke leyi rhumaka laha vurhumiwa eka vamatiko byi sungulaka byi tlhela byi vuya kona.",
+    "events": [
+     "Exikhongelweni Moya wu hlawula Barnaba na Sawulo",
+     "Kereke laya vapfumeri va sunguleke ku vuriwa ‘Vakriste’",
+     "Ndhawu yo suka ya maendzo yo sungula, ya vumbirhi ni ya vunharhu"
+    ]
+   },
+   "seleucia": {
+    "name": "Selukiya",
+    "book": "Mintirho 13:4",
+    "today": "Turkiye namuntlha",
+    "note": "Poto ya Antiyoka — va khwela ngalava va kongoma eSipra.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamisi (Sipra)",
+    "book": "Mintirho 13:5",
+    "today": "Sipra namuntlha",
+    "note": "Xiyimo xo sungula eSipra — ku chumayela etisinagogeni.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafosi",
+    "book": "Mintirho 13:6-12",
+    "today": "Sipra namuntlha",
+    "note": "Matimba ma kombisiwa eka lava kanetaka evhangeli.",
+    "events": [
+     "Elimasi wa n'anga u va bofu",
+     "Mufumi Sergiyo Pawulo wa pfumela",
+     "Ku sukela laha ‘Pawulo’ u teka vurhangeri"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Mintirho 13:13",
+    "today": "Antalya, Turkiye namuntlha",
+    "note": "Poto le Pamfiliya — laha Yohane Marka a tlhelaka endzhaku.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiyoka wa Pisidiya",
+    "book": "Mintirho 13:14-50",
+    "today": "Yalvaç, Turkiye namuntlha",
+    "note": "Evhangeli yi pfuleka yi kongoma eka vamatiko.",
+    "events": [
+     "Dyondzo yo leha ya matimu ya ku ponisa esinagogeni",
+     "Vamatiko vo tala va tsaka va tlhela va amukela rito",
+     "Va hlongoriwa hi valala"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniya",
+    "book": "Mintirho 14:1-7",
+    "today": "Konya, Turkiye namuntlha",
+    "note": "Vo tala va pfumela, kambe ku xanisiwa ku va sindzisa ku ya emahlweni.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Mintirho 14:8-20",
+    "today": "Turkiye namuntlha",
+    "note": "U dzunisiwa tanihi xikwembu, kutani a khandliwa hi maribye.",
+    "events": [
+     "U hanyisa wanuna la nga khwitsi ku sukela ku velekiwa",
+     "Ntshungu wu ringeta ku va gandzela tanihi swikwembu",
+     "U khandliwa hi maribye a siyiwa onge u file, kambe a pfuka"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Mintirho 14:20-21",
+    "today": "Turkiye namuntlha",
+    "note": "Ku endliwa vadyondzisiwa vo tala; va tlhelela hi ndlela leyi va teke ha yona ku tiyisa tikereke.",
+    "events": []
+   },
+   "troas": {
+    "name": "Trowasi",
+    "book": "Mintirho 16:8-10",
+    "today": "Turkiye namuntlha",
+    "note": "Ndhawu yo hundzuka laha evhangeli yi rhangaka yi kongoma eYuropa.",
+    "events": [
+     "Xivono xa wanuna wa le Makedoniya",
+     "“Tanani laha mi ta hi pfuna”",
+     "Va tsemakanya hi ku hatlisa va nghena eYuropa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Mintirho 16 · Vafilipiya",
+    "today": "Grisi ya le n'walungwini namuntlha",
+    "note": "Kereke yo sungula ya Yuropa — evhangeli yi hlula hambi ku ri ekhotsweni.",
+    "events": [
+     "Lidiya, muxavisi wa nguvu ta ribungu, wa pfumela",
+     "Nhwana wa hlonga loyi a vhumbhaka u ntshunxiwa",
+     "Tinsimu nivusiku, ku tsekatseka ka misava, ndyangu wa murindzi wa khotso wu ponisiwa"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Mintirho 17 · I–II Vatesalonika",
+    "today": "Thessaloniki, Grisi namuntlha",
+    "note": "Rito ri tsekatsekisa muti kutani ku kaneta ku pfurha.",
+    "events": [
+     "U kanela esinagogeni masiku ya Savata manharhu",
+     "“Lava va pfuxaka mpfilumpfilu emisaveni hinkwayo”",
+     "Va nyamalala nivusiku"
+    ]
+   },
+   "berea": {
+    "name": "Bereya",
+    "book": "Mintirho 17:10-15",
+    "today": "Veria, Grisi namuntlha",
+    "note": "Lava ‘xiximekaka’ lava kambisiseke rito hi voxe.",
+    "events": [
+     "Va amukela rito hi ku hisa",
+     "Siku ni siku va kambisisa Matsalwa ku kambela",
+     "Vo tala va fikela ku pfumela"
+    ]
+   },
+   "athens": {
+    "name": "Atene",
+    "book": "Mintirho 17:16-34",
+    "today": "Atene, Grisi namuntlha",
+    "note": "Emutini wa vativi va vutlharhi u chumayela hi ‘xikwembu lexi nga tiviwiki’.",
+    "events": [
+     "U hlundzukisiwa hi muti lowu teleke swifaniso swa hava",
+     "EAreyopago u chumayela hi Mutumbuluxi ni ku pfuka",
+     "U hlekuriwa, kambe van'wana vatsongo va pfumela"
+    ]
+   },
+   "corinth": {
+    "name": "Korinto",
+    "book": "Mintirho 18 · I–II Vakorinto",
+    "today": "Grisi namuntlha",
+    "note": "U tshama lembe ni hafu, a sima kereke emutini wa vubihi.",
+    "events": [
+     "U endla mintsonga na Akwila na Prisila",
+     "“U nga chavi… hikuva ndzi na wena”",
+     "Vakorinto vo tala va pfumela va tlhela va khuvuriwa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesa",
+    "book": "Mintirho 19 · Vaefesa",
+    "today": "Selçuk, Turkiye namuntlha",
+    "note": "Mbilu ya riendzo ra vunharhu — rito ri hangalaka eAsia hinkwayo.",
+    "events": [
+     "Ku dyondzisa siku ni siku malembe mambirhi eholweni ya Tirano",
+     "Tibuku ta vungoma ti hisiwa; mintirho ya matimba",
+     "Demetriya muvatli wa silivhere u pfuxa mpfilumpfilu"
+    ]
+   },
+   "miletus": {
+    "name": "Mileta",
+    "book": "Mintirho 20:17-38",
+    "today": "Turkiye namuntlha",
+    "note": "Ku avelana ni mihloti ni vakulukumba va le Efesa.",
+    "events": [
+     "“Rindzani kereke leyi a yi xaveke hi ngati ya yena”",
+     "Vakulukumba va rila, va ri karhi va tiva leswaku a va nge he n'wi voni"
+    ]
+   },
+   "caesarea": {
+    "name": "Kesariya",
+    "book": "Mintirho 23–26",
+    "today": "eribuweni ra Israele namuntlha",
+    "note": "Malembe mambirhi u sirhelela evhangeli emahlweni ka valawuri ni hosi.",
+    "events": [
+     "Ku tengiwa emahlweni ka valawuri Felikisi na Festo",
+     "Ku tisirhelela kakwe emahlweni ka Hosi Agripa",
+     "“Ndzi rhambela eka Khesari” — ku ya eRoma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalema",
+    "book": "Mintirho 21–23",
+    "today": "Yerusalema namuntlha",
+    "note": "U khomiwa etempeleni, kutani ndlela yakwe tanihi mukhotsiwa yi sungula.",
+    "events": [
+     "U khomiwa hi ntshungu etempeleni",
+     "U tisirhelela emahlweni ka huvo",
+     "Tanihi muaki wa Roma, u rhumiwa a rindziwa ku ya eKesariya"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Mintirho 27:5-6",
+    "today": "Demre, Turkiye namuntlha",
+    "note": "Va hundzukela engalaveni ya Alesandriya leyi yaka eRoma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Tiboka to Saseka (Kreta)",
+    "book": "Mintirho 27:8-12",
+    "today": "Kreta namuntlha",
+    "note": "Xilemukiso xa Pawulo xa ku yima ku famba hi ngalava a xi yingisiwi.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Tito",
+    "today": "Kreta namuntlha",
+    "note": "Endzhaku ka ku ntshunxiwa kakwe, xihlala laha a siyeke Tito ku lulamisa tikereke.",
+    "events": [
+     "U siya Tito ku veka vakulukumba emutini wun'wana ni wun'wana",
+     "U lava varhangeri lava nga soriwiki, vo tshembeka",
+     "U tsala papila eka Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Mintirho 27–28",
+    "today": "Malta namuntlha",
+    "note": "Hi ku hundza xihuhuri ni ku fayeka ka ngalava, xitshembiso xa Xikwembu xi tiyile.",
+    "events": [
+     "Xihuhuri xi faya ngalava, kambe hinkwavo va 276 va pona",
+     "U lumiwa hi nyoka, kambe a nga vavisiwi",
+     "U hanyisa vavabyi va xihlala"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusa",
+    "book": "Mintirho 28:12",
+    "today": "Sicily, Itali namuntlha",
+    "note": "Va tshama masiku manharhu eSicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Mintirho 28:13-14",
+    "today": "Pozzuoli, Itali namuntlha",
+    "note": "Va fika eItali kutani va hlanganisiwa hi vapfumeri-kulobye.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Mintirho 28 · Mapapila ya Vukhumbini · II Timotiya",
+    "today": "Roma, Itali namuntlha",
+    "note": "Evhangeli ekuheteleleni yi fika embilwini ya mfumo lowukulu — a hi makumu kambe i masungulo.",
+    "events": [
+     "Malembe mambirhi a pfaleriwe endlwini, a chumayela mfumo hi vurhena",
+     "Ku sukela laha u tsala Mapapila ya Vukhumbini (Vaefesa·Vafilipiya·Vakolosa·Filimoni)",
+     "Endzhaku u pfaleriwa nakambe, a tsala II Timotiya kutani a dlayeriwa ku pfumela — “Ndzi lwile nyimpi leyinene, ndzi hetile ku tsutsuma”"
+    ]
+   }
+  },
+  "labels": [
+   "Lwandle ra Mediteraniya",
+   "Lwandle ra Aegean",
+   "Asia Minor",
+   "Makedoniya",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Riendzo ro sungula",
+   "j2": "Riendzo ra vumbirhi",
+   "j3": "Riendzo ra vunharhu",
+   "rome": "Riendzo ra vumune · ku ya eRoma",
+   "j5": "Riendzo ra vuntlhanu · endzhaku ka ku ntshunxiwa"
+  }
+ }
+}
