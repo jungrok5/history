@@ -1,0 +1,636 @@
+{
+ "menuName": "Kreyòl Ayisyen",
+ "htmlLang": "ht",
+ "dir": "ltr",
+ "locale": "ht",
+ "brand": "Bib la nan yon sèl woulo",
+ "docTitle": "Bib la sou kat · Bib la nan yon sèl woulo",
+ "metaDesc": "Swiv liy tan Ansyen Testaman an, lavi Jezi, ak vwayaj Pòl yo sou yon vrè kat — Bib la te pase nan kote ki reyèl.",
+ "s": {
+  "kicker": "Bib la nan yon sèl woulo · Kat",
+  "title": "Bib la sou kat",
+  "verse": "“Paske, lè m t'ap fè nou konnen jan Jezikri, Senyè nou an, te vini avèk pouvwa li, se pat istwa moun envante nan tèt yo mwen t'ap rakonte nou. Men, se paske mwen menm, mwen te wè Senyè a nan tout pouvwa li ak je pa mwen.” (2 Pyè 1:16)",
+  "purpose": "Bib la se pa yon istwa envante. Se yon dosye sou moun ki te mache nan kote, dat, ak non ki egziste toutbon. Swiv chemen sa yo sou yon kat, nan lòd tan an — peze sou yon pwen, oswa peze ▶ pou mache l pa pa.",
+  "ot_kick": "① Ansyen Testaman — atravè tan an",
+  "ot_h": "Depi kreyasyon an rive nan retounen Jerizalèm",
+  "ot_lead": "Se pa yon sèl vwayaj men koule istwa delivrans lan depi kreyasyon an: kreyasyon ak chit → delij ak Babèl → yon apèl (Abraram) → peyi pwomès la → Egzòd → dezè a → konkèt → wayòm → divizyon → egzil → retounen.",
+  "je_kick": "② Nouvo Testaman — lavi Jezi",
+  "je_h": "Depi Betleyèm rive Jerizalèm",
+  "je_lead": "Swiv lavi Jezi jan levanjil yo rakonte l, nan lòd — depi nesans li nan Betleyèm, atravè batèm li ak ministè li nan Galile, travèse Samari, rive nan kwa a, rezirèksyon an, ak monte nan syèl la nan Jerizalèm.",
+  "pa_kick": "③ Nouvo Testaman — vwayaj Pòl yo",
+  "pa_h": "Depi Antiòch rive nan dènye bout latè — Wòm",
+  "pa_lead": "Depi Pannkòt nan Jerizalèm, kijan Bòn Nouvèl la gaye pi lwen pase Jide — atravè Azi Minè ak Ewòp rive nan kè anpi a. Chwazi youn nan senk vwayaj yo (1e·2yèm·3yèm + vwayaj pou Wòm nan + apre yo lage l) epi swiv evènman Travay yo ansanm ak lèt li te ekri sou wout la.",
+  "foot": "Sous · Kote yo swiv tèks biblik la ak jeyografi biblik estanda (ak non modèn kote sa itil). Kòt lanmè, rivyè ak lak yo trase soti nan done jeyografik lib (Natural Earth), senplifye.",
+  "contact": "Kesyon · kòmantè — <a id=\"contact\" class=\"mail\">Voye yon imèl</a>",
+  "play": "Jwe",
+  "pause": "Kanpe",
+  "today": "Jodi a:",
+  "verseCite": "2 Pyè 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edenn (Kreyasyon · Chit)",
+    "book": "Jenèz 1–3",
+    "today": "rejyon Tig–Efrat la jodi a",
+    "note": "Nan yon mond ki te fèt bon nèt, peche antre epi li kraze lyen ki te ant Bondye ak lèzòm.",
+    "events": [
+     "Kreyasyon nan sis jou — “li te bon nèt”",
+     "Lèzòm fèt nan imaj Bondye",
+     "Chit la, epi mete deyò Edenn",
+     "Premye pwomès Bòn Nouvèl la — “pitit pitit fanm lan ap kraze tèt sèpan an”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Delij la)",
+    "book": "Jenèz 6–9",
+    "today": "Mòn Ararat, lès Latiki jodi a",
+    "note": "Bondye jije yon mond ki plen peche, men li konsève lavi atravè yon sèl fanmi.",
+    "events": [
+     "Yon mond ki te plen mechanste",
+     "Delij la, ak batiman Noe a",
+     "Kontra lakansyèl la — “p'ap gen delij ankò pou detwi latè”"
+    ]
+   },
+   "babel": {
+    "name": "Gwo Kay Wo Babèl la",
+    "book": "Jenèz 11",
+    "today": "Irak jodi a (plèn Chineya a)",
+    "note": "Kont ògèy ki vle rive nan syèl la, Bondye gaye lang yo ak pèp yo sou tout latè.",
+    "events": [
+     "“Ann bati yon vil ak yon gwo kay wo… pou nou fè yon non pou tèt nou”",
+     "Bondye mele lang yo",
+     "Pèp yo gaye sou tout latè (Chineya — pita Babilòn)"
+    ]
+   },
+   "ur": {
+    "name": "Our",
+    "book": "Jenèz 12",
+    "today": "sid Irak jodi a",
+    "note": "Istwa delivrans Bib la konmanse ak apèl yon sèl moun.",
+    "events": [
+     "Bondye rele Abram soti Our nan peyi Kalde",
+     "“M'a fè ou tounen yon gwo nasyon… tout pèp va jwenn benediksyon nan ou”",
+     "Pa lafwa li kite peyi kote li te fèt la"
+    ]
+   },
+   "haran": {
+    "name": "Karan",
+    "book": "Jenèz 12",
+    "today": "sid Latiki jodi a",
+    "note": "Sou wout la, li reponn apèl la pou al nan peyi pwomès la.",
+    "events": [
+     "Fanmi Terak la vin rete Karan",
+     "Terak mouri",
+     "Abram pati pou Kanaran a 75 an"
+    ]
+   },
+   "shechem": {
+    "name": "Sichèm · Kanaran",
+    "book": "Jenèz 12–50",
+    "today": "Nablous jodi a",
+    "note": "Nan peyi pwomès la yon fanmi fonde epi kontra a pase jenerasyon an jenerasyon.",
+    "events": [
+     "Antre Kanaran, premye lotèl la — “m'ap bay pitit pitit ou peyi sa a”",
+     "Kontra a (Jenèz 15) · Izarak · Jakòb",
+     "Douz pitit gason Jakòb yo — rasin douz tribi yo"
+    ]
+   },
+   "egypt": {
+    "name": "Peyi Lejip (Gochenn)",
+    "book": "Jenèz 37–50 · Egzòd 1",
+    "today": "Delta Nil la, peyi Lejip jodi a",
+    "note": "Yon fanmi vin yon gwo nasyon — apre sa yon nasyon esklav.",
+    "events": [
+     "Jozèf, yo te vann li, monte pou gouvènen peyi Lejip",
+     "Tout fanmi Jakòb la desann pou chape anba grangou",
+     "Nasyon Izrayèl la k ap grandi vin esklav"
+    ]
+   },
+   "sinai": {
+    "name": "Mòn Sinayi",
+    "book": "Egzòd · Levitik",
+    "today": "Penensil Sinayi a jodi a",
+    "note": "Pi gwo delivrans Ansyen Testaman an — esklav yo vin pèp pa Bondye.",
+    "events": [
+     "Dis flewo yo ak ti mouton Pak la",
+     "Lanmè Wouj la louvri epi yo travèse",
+     "Dis Kòmandman yo, Lalwa, tant lan ak sakrifis yo"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadès (dezè a)",
+    "book": "Resansman · Detewonòm",
+    "today": "dezè Sinayi–Negèv la jodi a",
+    "note": "Mank lafwa koute yon jenerasyon peyi a — men Bondye rete ak yo.",
+    "events": [
+     "Douz espyon — men pèp la refize fè konfyans",
+     "38 ane nan dezè a — laman, nyaj ak dife",
+     "Nan plèn Moab yo, dènye mesaj Moyiz (Detewonòm)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Jozye",
+    "today": "Jeriko jodi a",
+    "note": "Anfen yo antre epi yo pran peyi pwomès la.",
+    "events": [
+     "Larivyè Jouden an louvri epi pèp la travèse",
+     "Miray Jeriko yo tonbe",
+     "Konkèt Kanaran ak divizyon peyi a"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Jij yo)",
+    "book": "Jij · Rit",
+    "today": "Khirbet Seilun jodi a",
+    "note": "San wa, chak moun fè sa l pito — yon vrè wa nesesè.",
+    "events": [
+     "Yo monte tant lan nan Silo",
+     "Sik peche–opresyon–delivrans lan (Debora, Jedeyon, Samson)",
+     "Rit — fidelite nan jou fènwa, nan liy David la"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerizalèm · Wayòm ini a",
+    "book": "1–2 Samyèl · 1 Wa",
+    "today": "Jerizalèm jodi a",
+    "note": "Laj dò Izrayèl la — ak pwomès yon wa ki dire pou tout tan.",
+    "events": [
+     "Sayil premye wa a, apre sa David ak Golyat",
+     "Kontra ak David la — “fòtèy ou pou tout tan” (2 Samyèl 7)",
+     "Salomon bati tanp lan nan Jerizalèm"
+    ]
+   },
+   "samaria": {
+    "name": "Samari · Wayòm divize a",
+    "book": "Wa · Pwofèt yo",
+    "today": "Sebastia jodi a",
+    "note": "Wayòm nan separe epi li deklere pandan pwofèt yo ap rele.",
+    "events": [
+     "Apre Salomon, separasyon an Jida ak Izrayèl",
+     "Zidolatri repete",
+     "Eli, Ezayi, Jeremi rele ‘tounen’ — epi anonse Mesi a"
+    ]
+   },
+   "nineveh": {
+    "name": "Neniv (Asiri)",
+    "book": "2 Wa 17 · Jonas",
+    "today": "Moussoul, Irak jodi a",
+    "note": "Lè li inyore chak avètisman, nò a tonbe anvan.",
+    "events": [
+     "Neniv, kapital Asiri a",
+     "Wayòm nò a tonbe anba Asiri (722 ANVAN J.K.)",
+     "Yo voye Jonas nan Neniv"
+    ]
+   },
+   "babylon": {
+    "name": "Babilòn",
+    "book": "2 Wa 25 · Danyèl · Ezekyèl",
+    "today": "Hillah, Irak jodi a",
+    "note": "Nwit ki pi fènwa a — men pwomès restorasyon an rete.",
+    "events": [
+     "Jerizalèm tonbe, tanp lan boule (586 ANVAN J.K.)",
+     "Yo trennen Jida ale nan Babilòn",
+     "Danyèl ak Ezekyèl — lafwa ak vizyon nan egzil la"
+    ]
+   },
+   "susa": {
+    "name": "Souz (Pès)",
+    "book": "Estè · Neyemi",
+    "today": "Shush, Iran jodi a",
+    "note": "Menm nan kè yon anpi payen, Bondye kenbe pèp li.",
+    "events": [
+     "Pès kraze Babilòn",
+     "Estè sove Jwif yo anba ekstèminasyon",
+     "Neyemi priye devan wa a epi yo voye l"
+    ]
+   },
+   "return": {
+    "name": "Retounen Jerizalèm",
+    "book": "Esdras · Neyemi · Malachi",
+    "today": "Jerizalèm jodi a",
+    "note": "Yo retounen epi yo rebati — men pa gen wa ki vini. Y ap tann Mesi a.",
+    "events": [
+     "Twa vag retounen pa dekrè Siris (Zowobabèl 538 · Esdras 458 · Neyemi 444)",
+     "Tanp lan rebati epi miray Jerizalèm yo restore",
+     "Malachi — Ansyen Testaman an fèmen: “M'ap voye mesaje mwen”"
+    ]
+   }
+  },
+  "labels": [
+   "Lanmè Mediterane a",
+   "Mezopotami",
+   "Dezè Arabi a",
+   "Peyi Lejip"
+  ],
+  "journeys": {
+   "flow": "Istwa delivrans lan"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betleyèm",
+    "book": "Matye 1–2 · Lik 2",
+    "today": "Betleyèm jodi a",
+    "note": "Mesi yo te pwomèt la vini nan vil David la — Pawòl la tounen moun.",
+    "events": [
+     "Fèt nan Betleyèm, vil David la",
+     "Zanj yo anonse nouvèl la bay gadò mouton yo",
+     "Nèg save yo vini adore l"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazarèt",
+    "book": "Lik 2 · 4",
+    "today": "Nazarèt jodi a",
+    "note": "Bondye grandi kòm yon moun nan yon vil òdinè.",
+    "events": [
+     "Leve nan kay yon bòs chapant",
+     "A douzan, l ap poze ak reponn kesyon nan tanp lan",
+     "Pita yo rejte l nan sinagòg lakay li"
+    ]
+   },
+   "jordan": {
+    "name": "Larivyè Jouden",
+    "book": "Matye 3–4",
+    "today": "ba Jouden an jodi a",
+    "note": "Ministè piblik li konmanse — syèl la make l kòm Pitit la.",
+    "events": [
+     "Jan batize l",
+     "Lespri a desann tankou yon pijon — “Sa se Pitit mwen renmen anpil la”",
+     "Li venk twa tantasyon Satan yo nan dezè a"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Jan 2",
+    "today": "Kafr Kanna jodi a",
+    "note": "Nan premye mirak li, li fè wè glwa li.",
+    "events": [
+     "Envite nan yon maryaj",
+     "Dlo tounen diven — premye mirak li",
+     "Disip li yo kwè nan li"
+    ]
+   },
+   "sychar": {
+    "name": "Sika (Samari)",
+    "book": "Jan 2–4",
+    "today": "toupre Nablous jodi a",
+    "note": "Wout premye ministè a — atravè Jerizalèm epi rive nan Samari yo te meprize a.",
+    "events": [
+     "Li netwaye tanp lan nan Jerizalèm",
+     "Nan nwit, Nikodèm — “fòk ou fèt yon dezyèm fwa”",
+     "Dlo lavi pou yon fanm Samari"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapènawòm",
+    "book": "Matye 4–13 · Mak 1–4",
+    "today": "bò lak Galile a jodi a",
+    "note": "Baz ministè Galile a — apèl, ansèyman ak opozisyon tout rankontre isit.",
+    "events": [
+     "Li rele pechè pwason yo epi li fè baz li isit",
+     "Sèmon sou Mòn nan — “Benediksyon pou moun ki konnen yo pòv nan lespri”",
+     "Parabòl wayòm nan — epi opozisyon k ap monte"
+    ]
+   },
+   "galilee": {
+    "name": "Lak Galile a",
+    "book": "Mak 4 · 6 · Jan 6",
+    "today": "Lak Kinneret jodi a",
+    "note": "Ak pouvwa sou lanati, li montre kilès li ye.",
+    "events": [
+     "“Rete trankil, pe la” — li fè tanpèt la sispann",
+     "Li bay 5.000 moun manje ak senk pen ak de pwason",
+     "Li mache sou dlo a"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sezare Filip",
+    "book": "Matye 16–17",
+    "today": "Banias jodi a",
+    "note": "Disip yo konprann li se Kris la, epi chemen kwa a louvri.",
+    "events": [
+     "Konfesyon Pyè a — “Ou se Kris la, Pitit Bondye vivan an”",
+     "Li anonse lanmò ak rezirèksyon li pou premye fwa",
+     "Li transfòme nan glwa sou mòn nan"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Lik 18–19",
+    "today": "Jeriko jodi a",
+    "note": "Sou wout k ap monte Jerizalèm, li chèche moun ki pèdi.",
+    "events": [
+     "Li bay avèg Batime a je",
+     "Li rele Zache, pèseptè kontribisyon an",
+     "“Pitit Lòm nan vini pou chèche epi sove sa ki pèdi”"
+    ]
+   },
+   "bethany": {
+    "name": "Betani",
+    "book": "Jan 11–12",
+    "today": "al-Eizariya jodi a",
+    "note": "Li montre pouvwa li sou lanmò nan vèy dènye semèn li a.",
+    "events": [
+     "Li fè Laza leve soti nan tonm nan — “Se mwen menm ki leve moun mouri, se mwen menm ki bay lavi”",
+     "Mari vide odè sou li pou lantèman li",
+     "Mirak sa a fè yo pran desizyon pou touye l"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerizalèm",
+    "book": "Matye 21–28 · Lik 24 · Travay 1",
+    "today": "Jerizalèm jodi a",
+    "note": "Somè tout Bib la vize a — kwa, rezirèksyon, monte nan syèl.",
+    "events": [
+     "Antre triyonfan an; li chavire tab yo nan tanp lan ankò",
+     "Nan dènye soupe a li lave pye disip yo",
+     "Li mouri sou kwa a",
+     "Li leve nan twazyèm jou a, apre sa li monte nan syèl"
+    ]
+   }
+  },
+  "labels": [
+   "Lanmè Mediterane a",
+   "Galile",
+   "Samari",
+   "Jide",
+   "Dekapòl",
+   "Pere",
+   "Lanmè Mouri a"
+  ],
+  "journeys": {
+   "life": "Chemen Jezi a"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiòch",
+    "book": "Travay 13 · 15",
+    "today": "Antakya, Latiki jodi a",
+    "note": "Legliz ki voye a, kote misyon bò kote moun lòt nasyon yo konmanse epi retounen.",
+    "events": [
+     "Nan lapriyè Lespri a mete Banabas ak Sòl apa",
+     "Legliz kote yo te rele disip yo ‘kretyen’ pou premye fwa",
+     "Pwen kote 1e, 2yèm ak 3yèm vwayaj yo konmanse"
+    ]
+   },
+   "seleucia": {
+    "name": "Selesi",
+    "book": "Travay 13:4",
+    "today": "Latiki jodi a",
+    "note": "Pò Antiòch la — yo pran batiman pou Chip.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamin (Chip)",
+    "book": "Travay 13:5",
+    "today": "Chip jodi a",
+    "note": "Premye eskal nan Chip — y ap preche nan sinagòg yo.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafòs",
+    "book": "Travay 13:6-12",
+    "today": "Chip jodi a",
+    "note": "Yo montre pouvwa kont moun k ap kanpe kont Bòn Nouvèl la.",
+    "events": [
+     "Elimas majisyen an vin avèg",
+     "Sèjyis Polis, gouvènè a, kwè",
+     "Depi la ‘Pòl’ pran devan"
+    ]
+   },
+   "perga": {
+    "name": "Pèj",
+    "book": "Travay 13:13",
+    "today": "Antalya, Latiki jodi a",
+    "note": "Yon pò nan Panfili — se la Jan Mak tounen dèyè.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiòch nan Pizidi",
+    "book": "Travay 13:14-50",
+    "today": "Yalvaç, Latiki jodi a",
+    "note": "Bòn Nouvèl la louvri gran nan direksyon moun lòt nasyon yo.",
+    "events": [
+     "Yon long sèmon sou istwa delivrans nan sinagòg la",
+     "Anpil moun lòt nasyon kontan epi resevwa pawòl la",
+     "Yo mete l deyò akoz opozisyon"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniòm",
+    "book": "Travay 14:1-7",
+    "today": "Konya, Latiki jodi a",
+    "note": "Anpil moun kwè, men pèsekisyon fòse yo kontinye.",
+    "events": []
+   },
+   "lystra": {
+    "name": "List",
+    "book": "Travay 14:8-20",
+    "today": "Latiki jodi a",
+    "note": "Yo rele l yon bondye, apre sa yo kalonnen l ak wòch.",
+    "events": [
+     "Li geri yon nonm ki te enfim depi nan vant manman l",
+     "Foul la eseye ofri sakrifis ba yo tankou bondye",
+     "Yo kalonnen l ak wòch, kite l pou mò, men li leve"
+    ]
+   },
+   "derbe": {
+    "name": "Dèb",
+    "book": "Travay 14:20-21",
+    "today": "Latiki jodi a",
+    "note": "Yo fè anpil disip; yo retounen sou tras yo pou fòtifye legliz yo.",
+    "events": []
+   },
+   "troas": {
+    "name": "Twoas",
+    "book": "Travay 16:8-10",
+    "today": "Latiki jodi a",
+    "note": "Pwen tounan kote Bòn Nouvèl la pran wout Ewòp pou premye fwa.",
+    "events": [
+     "Yon vizyon yon nonm Masedwàn",
+     "“Vin nan Masedwàn, vin pote nou sekou”",
+     "Yo travèse touswit al nan Ewòp"
+    ]
+   },
+   "philippi": {
+    "name": "Filip",
+    "book": "Travay 16 · Filipyen",
+    "today": "nò Lagrès jodi a",
+    "note": "Premye legliz Ewòp la — Bòn Nouvèl la triyonfe menm nan prizon.",
+    "events": [
+     "Lidi, yon machann twal wouj, kwè",
+     "Yon sèvant ki t ap fè divinò vin lib",
+     "Chante nan minwi, yon tranblemanntè, fanmi gadyen prizon an sove"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonik",
+    "book": "Travay 17 · 1–2 Tesalonisyen",
+    "today": "Tesalonik, Lagrès jodi a",
+    "note": "Pawòl la souke vil la epi opozisyon an debòde.",
+    "events": [
+     "Li rezone nan sinagòg la twa jou saba",
+     "“Moun sa yo ki vire lemonn tèt anba”",
+     "Yo chape ale nan nwit"
+    ]
+   },
+   "berea": {
+    "name": "Bere",
+    "book": "Travay 17:10-15",
+    "today": "Veria, Lagrès jodi a",
+    "note": "Moun ‘debyen’ yo ki te egzamine pawòl la yo menm.",
+    "events": [
+     "Yo resevwa pawòl la ak tout kè yo",
+     "Chak jou yo egzamine Liv yo pou tcheke l",
+     "Anpil moun vin kwè"
+    ]
+   },
+   "athens": {
+    "name": "Atèn",
+    "book": "Travay 17:16-34",
+    "today": "Atèn, Lagrès jodi a",
+    "note": "Nan vil filozòf yo li anonse ‘bondye yo pa konnen an’.",
+    "events": [
+     "Yon vil ki plen zidòl fè l fache anndan",
+     "Sou Areyopaj la li preche Kreyatè a ak rezirèksyon an",
+     "Yo pase l nan betiz, men kèk moun kwè"
+    ]
+   },
+   "corinth": {
+    "name": "Korent",
+    "book": "Travay 18 · 1–2 Korent",
+    "today": "Lagrès jodi a",
+    "note": "Li rete yon ane edmi, li plante yon legliz nan yon vil ki plen vis.",
+    "events": [
+     "Li fè tant ak Akilas ak Prisil",
+     "“Ou pa bezwen pè… mwen la avè ou”",
+     "Anpil moun Korent kwè epi yo batize"
+    ]
+   },
+   "ephesus": {
+    "name": "Efèz",
+    "book": "Travay 19 · Efezyen",
+    "today": "Selçuk, Latiki jodi a",
+    "note": "Kè twazyèm vwayaj la — pawòl la gaye atravè Azi.",
+    "events": [
+     "Ansèyman chak jou pandan dezan nan sal Tiranis la",
+     "Yo boule liv maji; gwo mirak",
+     "Demetriyis, bòs ajan an, konmanse yon revòlt"
+    ]
+   },
+   "miletus": {
+    "name": "Milè",
+    "book": "Travay 20:17-38",
+    "today": "Latiki jodi a",
+    "note": "Yon adye ak dlo nan je bay ansyen Efèz yo.",
+    "events": [
+     "“Pran swen legliz li te achte ak pwòp san li a”",
+     "Ansyen yo kriye, yo konnen yo p'ap wè l ankò"
+    ]
+   },
+   "caesarea": {
+    "name": "Sezare",
+    "book": "Travay 23–26",
+    "today": "kòt Izrayèl la jodi a",
+    "note": "Pandan dezan li defann Bòn Nouvèl la devan gouvènè yo ak yon wa.",
+    "events": [
+     "Jijman devan gouvènè Feliks ak Festis",
+     "Defans li devan wa Agripa",
+     "“Mwen mande pou yo jije m devan Seza” — nan wout pou Wòm"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerizalèm",
+    "book": "Travay 21–23",
+    "today": "Jerizalèm jodi a",
+    "note": "Yo mete men sou li nan tanp lan, chemen li kòm prizonye konmanse.",
+    "events": [
+     "Foul la mete men sou li nan tanp lan",
+     "Li defann tèt li devan konsèy la",
+     "Kòm sitwayen women, yo voye l anba gad nan Sezare"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Travay 27:5-6",
+    "today": "Demre, Latiki jodi a",
+    "note": "Yo chanje pou yon batiman Aleksandri ki prale Wòm.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Bon Pò (Krèt)",
+    "book": "Travay 27:8-12",
+    "today": "Krèt jodi a",
+    "note": "Avètisman Pòl pou sispann navige a pa koute.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krèt",
+    "book": "Tit",
+    "today": "Krèt jodi a",
+    "note": "Apre yo lage l, zile kote li kite Tit pou mete legliz yo an lòd.",
+    "events": [
+     "Li kite Tit pou chwazi ansyen nan chak vil",
+     "Li mande chèf ki san repwòch, ki fidèl",
+     "Li ekri lèt bay Tit"
+    ]
+   },
+   "malta": {
+    "name": "Malt",
+    "book": "Travay 27–28",
+    "today": "Malt jodi a",
+    "note": "Atravè tanpèt ak nofraj, pwomès Bondye a kenbe.",
+    "events": [
+     "Van ‘nòdès’ la kraze batiman an, men tou 276 moun sove",
+     "Yon koulèv mòde l, li pa gen anyen",
+     "Li geri malad zile a"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakiz",
+    "book": "Travay 28:12",
+    "today": "Sisil, Itali jodi a",
+    "note": "Yo rete twa jou nan Sisil.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Pouzòl",
+    "book": "Travay 28:13-14",
+    "today": "Pozzuoli, Itali jodi a",
+    "note": "Yo debake nan Itali epi frè yo vin rankontre yo.",
+    "events": []
+   },
+   "rome": {
+    "name": "Wòm",
+    "book": "Travay 28 · Lèt prizon yo · 2 Timote",
+    "today": "Wòm, Itali jodi a",
+    "note": "Bòn Nouvèl la anfen rive nan kè anpi a — se pa yon fen men yon konmansman.",
+    "events": [
+     "Dezan an rezidans siveye, l ap anonse wayòm nan avèk kouraj",
+     "Depi la li ekri Lèt prizon yo (Efez·Filip·Kolòs·Filemon)",
+     "Pita yo mete l nan prizon ankò, li ekri 2 Timote epi li mouri martyr — “Mwen fè yon bèl konba, mwen fini kous la”"
+    ]
+   }
+  },
+  "labels": [
+   "Lanmè Mediterane a",
+   "Lanmè Eje a",
+   "Azi Minè",
+   "Masedwàn",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Premye vwayaj",
+   "j2": "Dezyèm vwayaj",
+   "j3": "Twazyèm vwayaj",
+   "rome": "Katryèm vwayaj · pou Wòm",
+   "j5": "Senkyèm vwayaj · apre yo lage l"
+  }
+ }
+}
