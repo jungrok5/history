@@ -1,0 +1,636 @@
+{
+ "menuName": "Svenska",
+ "htmlLang": "sv",
+ "dir": "ltr",
+ "locale": "sv-SE",
+ "brand": "Hela Bibeln i ett svep",
+ "docTitle": "Bibeln på karta · Hela Bibeln i ett svep",
+ "metaDesc": "Följ Gamla testamentets tidslinje, Jesu liv och Paulus resor på en verklig karta – Bibeln hände på verkliga platser.",
+ "s": {
+  "kicker": "Hela Bibeln i ett svep · Kartor",
+  "title": "Bibeln på karta",
+  "verse": "“Det var inga utstuderade myter vi följde när vi förkunnade vår Herre Jesu Kristi makt och hans ankomst för er, utan vi var ögonvittnen till hans majestät.” (Andra Petrusbrevet 1:16)",
+  "purpose": "Bibeln är ingen myt. Den är en berättelse om människor som vandrade på verkliga platser, med verkliga datum och namn. Följ deras vägar över en karta, i tidsordning – tryck på en punkt, eller tryck ▶ för att vandra genom den steg för steg.",
+  "ot_kick": "① Gamla testamentet – genom tiden",
+  "ot_h": "Från skapelsen till återkomsten till Jerusalem",
+  "ot_lead": "Inte en enda resa utan frälsningshistoriens flöde från skapelsen och framåt: skapelse och fall → syndaflod och Babel → en kallelse (Abraham) → det utlovade landet → uttåget → öknen → erövringen → kungariket → delningen → exilen → återkomsten.",
+  "je_kick": "② Nya testamentet – Jesu liv",
+  "je_h": "Från Betlehem till Jerusalem",
+  "je_lead": "Följ Jesu liv så som evangelierna berättar det, i ordning – från hans födelse i Betlehem genom dopet och verksamheten i Galileen, tvärs genom Samarien, till korset, uppståndelsen och himmelsfärden i Jerusalem.",
+  "pa_kick": "③ Nya testamentet – Paulus resor",
+  "pa_h": "Från Antiokia till jordens ändar – Rom",
+  "pa_lead": "Från pingsten i Jerusalem, hur evangeliet spreds bortom Judeen – genom Mindre Asien och Europa till rikets hjärta. Välj en av de fem resorna (1:a·2:a·3:e + resan till Rom + efter frigivningen) och följ händelserna i Apostlagärningarna tillsammans med breven som skrevs på vägen.",
+  "foot": "Källor · Platserna följer bibeltexten och gängse bibelgeografi (med moderna namn där det hjälper). Kustlinjer, floder och sjöar är hämtade från öppna geografiska data (Natural Earth), förenklade.",
+  "contact": "Frågor · synpunkter — <a id=\"contact\" class=\"mail\">Mejla oss</a>",
+  "play": "Spela",
+  "pause": "Pausa",
+  "today": "Idag:",
+  "verseCite": "Andra Petrusbrevet 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (skapelse · fall)",
+    "book": "Första Moseboken 1–3",
+    "today": "Tigris–Eufrat-området idag",
+    "note": "In i en värld skapad mycket god kommer synden och bryter bandet mellan Gud och människa.",
+    "events": [
+     "Skapelsen på sex dagar – ”det var mycket gott”",
+     "Människan skapad till Guds avbild",
+     "Fallet, och fördrivningen från Eden",
+     "Evangeliets första löfte – ”kvinnans avkomma ska krossa ormens huvud”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (syndafloden)",
+    "book": "Första Moseboken 6–9",
+    "today": "berget Ararat, östra Turkiet idag",
+    "note": "Gud dömer en värld full av synd, men bevarar livet genom en enda familj.",
+    "events": [
+     "En värld fylld av fördärv",
+     "Syndafloden, och Noas ark",
+     "Regnbågsförbundet – ”aldrig mer en flod som fördärvar”"
+    ]
+   },
+   "babel": {
+    "name": "Babels torn",
+    "book": "Första Moseboken 11",
+    "today": "Irak idag (Sinears slätt)",
+    "note": "Mot högmodet som sträcker sig mot himlen förvirrar Gud deras tal och sprider folken över jorden.",
+    "events": [
+     "”Låt oss bygga en stad och ett torn… och göra oss ett namn”",
+     "Gud förbistrar deras språk",
+     "Folken sprids över jorden (Sinear – senare Babylon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Första Moseboken 12",
+    "today": "södra Irak idag",
+    "note": "Bibelns berättelse om återlösning börjar med en enda mans kallelse.",
+    "events": [
+     "Gud kallar Abram ut ur kaldeernas Ur",
+     "”Jag ska göra dig till ett stort folk… alla folk välsignade genom dig”",
+     "I tro lämnar han sitt hemland"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Första Moseboken 12",
+    "today": "södra Turkiet idag",
+    "note": "På vägen, medan han följer kallelsen mot det utlovade landet.",
+    "events": [
+     "Teras familj slår sig ner i Haran",
+     "Tera dör",
+     "Abram bryter upp mot Kanaan vid 75 års ålder"
+    ]
+   },
+   "shechem": {
+    "name": "Sikem · Kanaan",
+    "book": "Första Moseboken 12–50",
+    "today": "Nablus idag",
+    "note": "I det utlovade landet grundas en familj och förbundet förs vidare genom släkten.",
+    "events": [
+     "Vid ankomsten till Kanaan, det första altaret – ”åt din avkomma ger jag detta land”",
+     "Förbundet (Första Moseboken 15) · Isak · Jakob",
+     "Jakobs tolv söner – roten till de tolv stammarna"
+    ]
+   },
+   "egypt": {
+    "name": "Egypten (Gosen)",
+    "book": "Första Moseboken 37–50 · Andra Moseboken 1",
+    "today": "Nildeltat, Egypten idag",
+    "note": "En familj blir ett stort folk – och sedan ett folk av slavar.",
+    "events": [
+     "Josef, bortsåld, upphöjs till att styra Egypten",
+     "Jakobs hela familj drar ner för att fly undan hungersnöden",
+     "Det växande Israel förslavas"
+    ]
+   },
+   "sinai": {
+    "name": "Berget Sinai",
+    "book": "Andra Moseboken · Tredje Moseboken",
+    "today": "Sinaihalvön idag",
+    "note": "Gamla testamentets centrala räddning – slavar blir Guds eget folk.",
+    "events": [
+     "De tio plågorna och påskalammet",
+     "Röda havet delar sig och de går över",
+     "De tio budorden, lagen, tabernaklet och offren"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesh (öknen)",
+    "book": "Fjärde Moseboken · Femte Moseboken",
+    "today": "Sinai–Negev-öknen idag",
+    "note": "Otron kostar en hel generation landet – men Gud stannar hos dem.",
+    "events": [
+     "Tolv spejare – men folket vägrar att lita på Gud",
+     "38 år i öknen – manna, moln och eld",
+     "På Moabs slätter, Moses sista tal (Femte Moseboken)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Josua",
+    "today": "Jeriko idag",
+    "note": "Till sist går de in och tar det utlovade landet i besittning.",
+    "events": [
+     "Jordan delar sig och folket går över",
+     "Jerikos murar faller",
+     "Erövringen av Kanaan och fördelningen av landet"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (domartiden)",
+    "book": "Domarboken · Rut",
+    "today": "Khirbet Seilun idag",
+    "note": "Utan kung gör var och en som han vill – en sann kung behövs.",
+    "events": [
+     "Tabernaklet reses i Shilo",
+     "Kretsloppet synd–förtryck–räddning (Debora, Gideon, Simson)",
+     "Rut – trohet i mörka dagar, i Davids släkt"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · det enade kungariket",
+    "book": "Första–Andra Samuelsboken · Första Kungaboken",
+    "today": "Jerusalem idag",
+    "note": "Israels guldålder – och löftet om en evig kung.",
+    "events": [
+     "Saul den förste kungen, sedan David och Goljat",
+     "Davidsförbundet – ”din tron för evigt” (Andra Samuelsboken 7)",
+     "Salomo bygger templet i Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · det delade riket",
+    "book": "Kungaböckerna · profeterna",
+    "today": "Sebastia idag",
+    "note": "Riket delas och förfaller medan profeterna ropar ut sin varning.",
+    "events": [
+     "Efter Salomo, delningen i Juda och Israel",
+     "Upprepad avgudadyrkan",
+     "Elia, Jesaja, Jeremia ropar ”vänd om” – och förutsäger Messias"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineve (Assyrien)",
+    "book": "Andra Kungaboken 17 · Jona",
+    "today": "Mosul, Irak idag",
+    "note": "Med varje varning ignorerad faller nordriket först.",
+    "events": [
+     "Nineve, Assyriens huvudstad",
+     "Nordriket faller för Assyrien (722 f.Kr.)",
+     "Jona sänds till Nineve"
+    ]
+   },
+   "babylon": {
+    "name": "Babylon",
+    "book": "Andra Kungaboken 25 · Daniel · Hesekiel",
+    "today": "Hilla, Irak idag",
+    "note": "Den mörkaste natten – men löftet om återupprättelse består.",
+    "events": [
+     "Jerusalem faller, templet bränns (586 f.Kr.)",
+     "Juda förs bort till Babylon",
+     "Daniel och Hesekiel – tro och syner i exilen"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persien)",
+    "book": "Ester · Nehemja",
+    "today": "Shush, Iran idag",
+    "note": "Även mitt i ett hedniskt rikes hjärta bevarar Gud sitt folk.",
+    "events": [
+     "Persien störtar Babylon",
+     "Ester räddar judarna från utrotning",
+     "Nehemja ber inför kungen och sänds"
+    ]
+   },
+   "return": {
+    "name": "Återkomsten till Jerusalem",
+    "book": "Esra · Nehemja · Malaki",
+    "today": "Jerusalem idag",
+    "note": "De återvänder och bygger upp – men ingen kung har kommit. De väntar på Messias.",
+    "events": [
+     "Tre återkomstvågor genom Koresh dekret (Serubbabel 538 · Esra 458 · Nehemja 444)",
+     "Templet återuppbyggt och Jerusalems murar återställda",
+     "Malaki – Gamla testamentet avslutas: ”Jag ska sända min budbärare”"
+    ]
+   }
+  },
+  "labels": [
+   "Medelhavet",
+   "Mesopotamien",
+   "Arabiska öknen",
+   "Egypten"
+  ],
+  "journeys": {
+   "flow": "Frälsningens berättelse"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Matteusevangeliet 1–2 · Lukasevangeliet 2",
+    "today": "Betlehem idag",
+    "note": "Den utlovade Messias kommer till Davids stad – Ordet som blev kött.",
+    "events": [
+     "Född i Betlehem, Davids stad",
+     "Änglar förkunnar nyheten för herdarna",
+     "De vise männen kommer för att tillbe"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasaret",
+    "book": "Lukasevangeliet 2 · 4",
+    "today": "Nasaret idag",
+    "note": "Gud växer upp som människa i en helt vanlig stad.",
+    "events": [
+     "Uppvuxen i en snickares hem",
+     "Vid tolv års ålder, frågar och svarar i templet",
+     "Senare förkastad i sin hemstads synagoga"
+    ]
+   },
+   "jordan": {
+    "name": "Jordanfloden",
+    "book": "Matteusevangeliet 3–4",
+    "today": "nedre Jordan idag",
+    "note": "Hans offentliga verksamhet börjar – himlen beseglar honom som Sonen.",
+    "events": [
+     "Döpt av Johannes",
+     "Anden sänker sig som en duva – ”Detta är min älskade Son”",
+     "Övervinner Satans tre frestelser i öknen"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Johannesevangeliet 2",
+    "today": "Kafr Kanna idag",
+    "note": "I sitt första tecken uppenbarar han sin härlighet.",
+    "events": [
+     "Gäst vid ett bröllop",
+     "Vatten förvandlat till vin – hans första tecken",
+     "Hans lärjungar tror på honom"
+    ]
+   },
+   "sychar": {
+    "name": "Sykar (Samarien)",
+    "book": "Johannesevangeliet 2–4",
+    "today": "nära Nablus idag",
+    "note": "Den tidiga verksamhetens väg – genom Jerusalem och vidare till det föraktade Samarien.",
+    "events": [
+     "Han renar templet i Jerusalem",
+     "Om natten, Nikodemus – ”Du måste födas på nytt”",
+     "Levande vatten åt en samarisk kvinna"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Matteusevangeliet 4–13 · Markusevangeliet 1–4",
+    "today": "Galileens strand idag",
+    "note": "Bas för verksamheten i Galileen – kallelse, undervisning och motstånd möts här.",
+    "events": [
+     "Kallar fiskarna och gör detta till sin bas",
+     "Bergspredikan – ”Saliga är de som är fattiga i anden”",
+     "Liknelser om riket – och växande motstånd"
+    ]
+   },
+   "galilee": {
+    "name": "Galileiska sjön",
+    "book": "Markusevangeliet 4 · 6 · Johannesevangeliet 6",
+    "today": "Genesarets sjö idag",
+    "note": "Med makt över naturen visar han vem han är.",
+    "events": [
+     "”Tig, var stilla” – han stillar stormen",
+     "Mättar 5 000 med fem bröd och två fiskar",
+     "Går på vattnet"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Caesarea Filippi",
+    "book": "Matteusevangeliet 16–17",
+    "today": "Banias idag",
+    "note": "Lärjungarna fattar att han är Kristus, och korsets väg öppnas.",
+    "events": [
+     "Petrus bekännelse – ”Du är Messias, den levande Gudens Son”",
+     "Han förutsäger för första gången sin död och uppståndelse",
+     "Förvandlad i härlighet på berget"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Lukasevangeliet 18–19",
+    "today": "Jeriko idag",
+    "note": "På vägen upp till Jerusalem söker han det förlorade.",
+    "events": [
+     "Han ger den blinde Bartimaios synen tillbaka",
+     "Han kallar tullindrivaren Sackeus",
+     "”Människosonen har kommit för att söka och frälsa det som var förlorat”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Johannesevangeliet 11–12",
+    "today": "al-Eizariya idag",
+    "note": "Han visar makt över döden på tröskeln till sin sista vecka.",
+    "events": [
+     "Han uppväcker Lasarus ur graven – ”Jag är uppståndelsen och livet”",
+     "Maria smörjer honom inför begravningen",
+     "Detta tecken förhärdar planen att döda honom"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Matteusevangeliet 21–28 · Lukasevangeliet 24 · Apostlagärningarna 1",
+    "today": "Jerusalem idag",
+    "note": "Höjdpunkten som hela Bibeln pekar mot – kors, uppståndelse, himmelsfärd.",
+    "events": [
+     "Intåget; han välter tempelborden igen",
+     "Vid den sista måltiden tvättar han lärjungarnas fötter",
+     "Han dör på korset",
+     "Uppstånden på tredje dagen, och sedan uppfaren till himlen"
+    ]
+   }
+  },
+  "labels": [
+   "Medelhavet",
+   "Galileen",
+   "Samarien",
+   "Judeen",
+   "Dekapolis",
+   "Pereen",
+   "Döda havet"
+  ],
+  "journeys": {
+   "life": "Jesu väg"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Apostlagärningarna 13 · 15",
+    "today": "Antakya, Turkiet idag",
+    "note": "Den utsändande församlingen där hednamissionen börjar och återvänder.",
+    "events": [
+     "Under bön avskiljer Anden Barnabas och Saulus",
+     "Församlingen där de troende först kallades ”kristna”",
+     "Startpunkt för den 1:a, 2:a och 3:e resan"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Apostlagärningarna 13:4",
+    "today": "Turkiet idag",
+    "note": "Antiokias hamn – de seglar iväg mot Cypern.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Cypern)",
+    "book": "Apostlagärningarna 13:5",
+    "today": "Cypern idag",
+    "note": "Första stoppet på Cypern – de förkunnar i synagogorna.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Apostlagärningarna 13:6-12",
+    "today": "Cypern idag",
+    "note": "Makt visas mot dem som motsätter sig evangeliet.",
+    "events": [
+     "Trollkarlen Elymas slås med blindhet",
+     "Prokonsuln Sergius Paulus kommer till tro",
+     "Härifrån tar ”Paulus” ledningen"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Apostlagärningarna 13:13",
+    "today": "Antalya, Turkiet idag",
+    "note": "En hamn i Pamfylien – här vänder Johannes Markus tillbaka.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia i Pisidien",
+    "book": "Apostlagärningarna 13:14-50",
+    "today": "Yalvaç, Turkiet idag",
+    "note": "Evangeliet bryter fram mot hedningarna.",
+    "events": [
+     "En lång predikan om frälsningshistorien i synagogan",
+     "Många hedningar gläds och tar emot ordet",
+     "Utdrivna av motståndet"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonium",
+    "book": "Apostlagärningarna 14:1-7",
+    "today": "Konya, Turkiet idag",
+    "note": "Många tror, men förföljelse tvingar dem vidare.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lystra",
+    "book": "Apostlagärningarna 14:8-20",
+    "today": "Turkiet idag",
+    "note": "Hyllad som en gud, sedan stenad.",
+    "events": [
+     "Botar en man som varit lam från födseln",
+     "Folkmassan försöker offra åt dem som gudar",
+     "Stenad och lämnad för död reser han sig upp"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Apostlagärningarna 14:20-21",
+    "today": "Turkiet idag",
+    "note": "Många lärjungar vinns; de vänder tillbaka samma väg för att styrka församlingarna.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Apostlagärningarna 16:8-10",
+    "today": "Turkiet idag",
+    "note": "Vändpunkten där evangeliet för första gången beger sig mot Europa.",
+    "events": [
+     "En syn av en makedonisk man",
+     "”Kom över och hjälp oss”",
+     "De far genast över till Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filippi",
+    "book": "Apostlagärningarna 16 · Filipperbrevet",
+    "today": "norra Grekland idag",
+    "note": "Europas första församling – evangeliet segrar till och med i fängelset.",
+    "events": [
+     "Lydia, en purpurhandlerska, kommer till tro",
+     "En spådomsande drivs ut ur en slavflicka",
+     "Lovsång vid midnatt, en jordbävning, fångvaktarens hus räddat"
+    ]
+   },
+   "thess": {
+    "name": "Thessalonike",
+    "book": "Apostlagärningarna 17 · Första–Andra Thessalonikerbrevet",
+    "today": "Thessaloniki, Grekland idag",
+    "note": "Ordet skakar staden och motståndet kokar över.",
+    "events": [
+     "Han samtalar i synagogan tre sabbater",
+     "”De som har vänt upp och ner på hela världen”",
+     "De smyger iväg om natten"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Apostlagärningarna 17:10-15",
+    "today": "Veria, Grekland idag",
+    "note": "De ”ädla” som själva prövade ordet.",
+    "events": [
+     "De tar emot ordet med all villighet",
+     "Dagligen rannsakar de Skrifterna för att pröva det",
+     "Många kommer till tro"
+    ]
+   },
+   "athens": {
+    "name": "Aten",
+    "book": "Apostlagärningarna 17:16-34",
+    "today": "Aten, Grekland idag",
+    "note": "I filosofernas stad förkunnar han den ”okände guden”.",
+    "events": [
+     "Upprörd av en stad full av avgudar",
+     "På Areopagen predikar han Skaparen och uppståndelsen",
+     "Hånad, men några kommer till tro"
+    ]
+   },
+   "corinth": {
+    "name": "Korint",
+    "book": "Apostlagärningarna 18 · Första–Andra Korintierbrevet",
+    "today": "Grekland idag",
+    "note": "Han stannar ett och ett halvt år och planterar en församling i en lastfull stad.",
+    "events": [
+     "Tillverkar tält med Aquila och Priscilla",
+     "”Var inte rädd… för jag är med dig”",
+     "Många korintier kommer till tro och döps"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesos",
+    "book": "Apostlagärningarna 19 · Efesierbrevet",
+    "today": "Selçuk, Turkiet idag",
+    "note": "Den tredje resans hjärta – ordet sprids över Asien.",
+    "events": [
+     "Daglig undervisning i två år i Tyrannus hörsal",
+     "Trollböcker bränns; mäktiga gärningar",
+     "Silversmeden Demetrius sätter igång ett upplopp"
+    ]
+   },
+   "miletus": {
+    "name": "Miletos",
+    "book": "Apostlagärningarna 20:17-38",
+    "today": "Turkiet idag",
+    "note": "Ett tårfyllt avsked till de äldste i Efesos.",
+    "events": [
+     "”Ge akt på församlingen som han köpt med sitt eget blod”",
+     "De äldste gråter, vetande att de inte ska se honom mer"
+    ]
+   },
+   "caesarea": {
+    "name": "Caesarea",
+    "book": "Apostlagärningarna 23–26",
+    "today": "Israels kust idag",
+    "note": "I två år försvarar han evangeliet inför ståthållare och en kung.",
+    "events": [
+     "Rättegångar inför ståthållarna Felix och Festus",
+     "Hans försvar inför kung Agrippa",
+     "”Jag vädjar till kejsaren” – vidare mot Rom"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Apostlagärningarna 21–23",
+    "today": "Jerusalem idag",
+    "note": "Gripen i templet börjar hans väg som fånge.",
+    "events": [
+     "Gripen av folkmassan i templet",
+     "Försvarar sig inför rådet",
+     "Som romersk medborgare sänd under bevakning till Caesarea"
+    ]
+   },
+   "myra": {
+    "name": "Myra",
+    "book": "Apostlagärningarna 27:5-6",
+    "today": "Demre, Turkiet idag",
+    "note": "De byter till ett alexandrinskt skepp på väg mot Rom.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Goda hamnar (Kreta)",
+    "book": "Apostlagärningarna 27:8-12",
+    "today": "Kreta idag",
+    "note": "Paulus varning att sluta segla lämnas obeaktad.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Titusbrevet",
+    "today": "Kreta idag",
+    "note": "Efter frigivningen, ön där han lämnar Titus för att ordna församlingarna.",
+    "events": [
+     "Lämnar Titus för att insätta äldste i varje stad",
+     "Kräver oklanderliga, trogna ledare",
+     "Skriver brevet till Titus"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Apostlagärningarna 27–28",
+    "today": "Malta idag",
+    "note": "Genom storm och skeppsbrott håller Guds löfte.",
+    "events": [
+     "”Nordosten” krossar skeppet, men alla 276 överlever",
+     "Biten av en huggorm tar han ingen skada",
+     "Han botar de sjuka på ön"
+    ]
+   },
+   "syracuse": {
+    "name": "Syrakusa",
+    "book": "Apostlagärningarna 28:12",
+    "today": "Sicilien, Italien idag",
+    "note": "De stannar tre dagar på Sicilien.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Apostlagärningarna 28:13-14",
+    "today": "Pozzuoli, Italien idag",
+    "note": "De landar i Italien och möts av medtroende.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rom",
+    "book": "Apostlagärningarna 28 · fångenskapsbreven · Andra Timoteusbrevet",
+    "today": "Rom, Italien idag",
+    "note": "Evangeliet når till sist rikets hjärta – inte ett slut utan en början.",
+    "events": [
+     "Två år i husarrest, frimodigt förkunnande riket",
+     "Härifrån skriver han fångenskapsbreven (Ef·Fil·Kol·Filem)",
+     "Senare fängslad på nytt skriver han Andra Timoteusbrevet och lider martyrdöden – ”Jag har kämpat den goda kampen, jag har fullbordat loppet”"
+    ]
+   }
+  },
+  "labels": [
+   "Medelhavet",
+   "Egeiska havet",
+   "Mindre Asien",
+   "Makedonien",
+   "Italien"
+  ],
+  "journeys": {
+   "j1": "Första resan",
+   "j2": "Andra resan",
+   "j3": "Tredje resan",
+   "rome": "Fjärde resan · till Rom",
+   "j5": "Femte resan · efter frigivningen"
+  }
+ }
+}

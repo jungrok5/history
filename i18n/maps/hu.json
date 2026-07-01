@@ -1,0 +1,636 @@
+{
+ "menuName": "Magyar",
+ "htmlLang": "hu",
+ "dir": "ltr",
+ "locale": "hu-HU",
+ "brand": "A Biblia egyetlen görgetésben",
+ "docTitle": "A Biblia térképen · A Biblia egyetlen görgetésben",
+ "metaDesc": "Kövesd nyomon az ószövetségi történet ívét, Jézus életét és Pál útjait egy valódi térképen – a Biblia valóságos helyeken történt.",
+ "s": {
+  "kicker": "A Biblia egyetlen görgetésben · Térképek",
+  "title": "A Biblia térképen",
+  "verse": "“Mert nem kitalált meséket követve ismertettük meg veletek a mi Urunk Jézus Krisztus hatalmát és megjelenését, hanem úgy, hogy szemtanúi voltunk isteni fenségének.” (2Péter 1:16)",
+  "purpose": "A Biblia nem mítosz. Olyan emberek feljegyzése, akik valóságos helyeken, időkben és nevek között jártak. Kövesd nyomon ezeket az utakat a térképen, időrendben – érints meg egy pontot, vagy nyomd meg a ▶ gombot, hogy lépésről lépésre végigjárd.",
+  "ot_kick": "① Ószövetség – az időn át",
+  "ot_h": "A teremtéstől a Jeruzsálembe való hazatérésig",
+  "ot_lead": "Nem egyetlen utazás, hanem az üdvtörténet folyama a teremtéstől kezdve: teremtés és bűnbeesés → özönvíz és Bábel → az elhívás (Ábrahám) → az ígéret földje → kivonulás → puszta → honfoglalás → királyság → kettészakadás → fogság → hazatérés.",
+  "je_kick": "② Újszövetség – Jézus élete",
+  "je_h": "Betlehemtől Jeruzsálemig",
+  "je_lead": "Kövesd Jézus életét úgy, ahogyan az evangéliumok elbeszélik, sorrendben – a betlehemi születésétől a keresztségén és galileai szolgálatán át, Samárián keresztül, egészen a keresztig, a feltámadásig és a mennybemenetelig Jeruzsálemben.",
+  "pa_kick": "③ Újszövetség – Pál útjai",
+  "pa_h": "Antiókhiától a föld végső határáig – Rómáig",
+  "pa_lead": "A jeruzsálemi pünkösdtől kezdve, hogyan terjedt túl az evangélium Júdeán – Kis-Ázsián és Európán át a birodalom szívéig. Válaszd ki az öt út egyikét (1. · 2. · 3. + a rómába vezető hajóút + a szabadulás után), és kövesd az Apostolok cselekedeteinek eseményeit az útközben írt levelekkel.",
+  "foot": "Források · A helyek a bibliai szöveget és a mértékadó bibliai földrajzot követik (ahol hasznos, modern nevekkel). A partvonalakat, folyókat és tavakat nyílt földrajzi adatokból (Natural Earth) rajzoltuk, egyszerűsítve.",
+  "contact": "Kérdések · visszajelzés — <a id=\"contact\" class=\"mail\">Írj e-mailt</a>",
+  "play": "Lejátszás",
+  "pause": "Szünet",
+  "today": "Ma:",
+  "verseCite": "2Péter 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Éden (teremtés · bűnbeesés)",
+    "book": "1Mózes 1–3",
+    "today": "a mai Tigris–Eufrátesz vidéke",
+    "note": "Egy igen jónak teremtett világba belép a bűn, és megtöri az Isten és az ember közti köteléket.",
+    "events": [
+     "Teremtés hat nap alatt – „igen jó volt”",
+     "Az ember Isten képmására teremtve",
+     "A bűnbeesés és a kiűzetés az Édenből",
+     "Az evangélium első ígérete – „az asszony utódja a kígyó fejét tapossa”"
+    ]
+   },
+   "noah": {
+    "name": "Ararát (az özönvíz)",
+    "book": "1Mózes 6–9",
+    "today": "az Ararát-hegy, a mai Kelet-Törökország",
+    "note": "Isten megítéli a bűnnel teli világot, mégis megőrzi az életet egyetlen családon át.",
+    "events": [
+     "Egy romlottsággal teli világ",
+     "Az özönvíz és Nóé bárkája",
+     "A szivárvány szövetsége – „nem lesz többé özönvíz, hogy elpusztítsa”"
+    ]
+   },
+   "babel": {
+    "name": "Bábel tornya",
+    "book": "1Mózes 11",
+    "today": "a mai Irak (Sineár síksága)",
+    "note": "Az égig nyúló gőggel szemben Isten összezavarja beszédüket, és szétszórja a népeket a földön.",
+    "events": [
+     "„Építsünk várost és tornyot… szerezzünk magunknak nevet”",
+     "Isten összezavarja a nyelvüket",
+     "A népek szétszélednek a földön (Sineár – később Babilon)"
+    ]
+   },
+   "ur": {
+    "name": "Úr",
+    "book": "1Mózes 12",
+    "today": "a mai Dél-Irak",
+    "note": "A Biblia megváltástörténete egyetlen ember elhívásával kezdődik.",
+    "events": [
+     "Isten kihívja Abrámot a káldeai Úrból",
+     "„Nagy néppé teszlek… általad nyer áldást minden nemzetség”",
+     "Hittel elhagyja szülőföldjét"
+    ]
+   },
+   "haran": {
+    "name": "Hárán",
+    "book": "1Mózes 12",
+    "today": "a mai Dél-Törökország",
+    "note": "Útközben, az elhívásra válaszolva az ígéret földje felé.",
+    "events": [
+     "Terah családja Háránban telepszik le",
+     "Terah meghal",
+     "Abrám 75 évesen indul Kánaán felé"
+    ]
+   },
+   "shechem": {
+    "name": "Sikem · Kánaán",
+    "book": "1Mózes 12–50",
+    "today": "a mai Nábluszban",
+    "note": "Az ígéret földjén megalapozódik egy család, és a szövetség nemzedékről nemzedékre száll.",
+    "events": [
+     "Kánaánba érkezve, az első oltár – „ezt a földet utódodnak adom”",
+     "A szövetség (1Móz 15) · Izsák · Jákób",
+     "Jákób tizenkét fia – a tizenkét törzs gyökere"
+    ]
+   },
+   "egypt": {
+    "name": "Egyiptom (Gósen)",
+    "book": "1Mózes 37–50 · 2Mózes 1",
+    "today": "a mai Nílus-delta, Egyiptom",
+    "note": "Egy család nagy néppé lesz – majd rabszolgák népévé.",
+    "events": [
+     "Józsefet eladják, mégis Egyiptom uralkodójává emelkedik",
+     "Jákób egész családja leköltözik az éhínség elől",
+     "A növekvő Izráel népét rabszolgává teszik"
+    ]
+   },
+   "sinai": {
+    "name": "A Sínai-hegy",
+    "book": "2Mózes · 3Mózes",
+    "today": "a mai Sínai-félsziget",
+    "note": "Az Ószövetség központi szabadítása – rabszolgákból Isten népe lesz.",
+    "events": [
+     "A tíz csapás és a páskabárány",
+     "A Vörös-tenger kettéválik, és átkelnek",
+     "A tízparancsolat, a törvény, a szent sátor és az áldozatok"
+    ]
+   },
+   "kadesh": {
+    "name": "Kádés (puszta)",
+    "book": "4Mózes · 5Mózes",
+    "today": "a mai Sínai–Negev-puszta",
+    "note": "A hitetlenség egy egész nemzedéktől megvonja a földet – Isten mégis velük marad.",
+    "events": [
+     "Tizenkét kém – de a nép nem akar bízni",
+     "38 év a pusztában – manna, felhő és tűz",
+     "Móáb síkságán Mózes utolsó beszéde (5Mózes)"
+    ]
+   },
+   "jericho": {
+    "name": "Jerikó",
+    "book": "Józsué",
+    "today": "a mai Jerikó",
+    "note": "Végre bevonulnak, és elfoglalják az ígéret földjét.",
+    "events": [
+     "A Jordán kettéválik, és a nép átkel",
+     "Jerikó falai leomlanak",
+     "Kánaán meghódítása és a föld felosztása"
+    ]
+   },
+   "shiloh": {
+    "name": "Sil (Bírák)",
+    "book": "Bírák · Ruth",
+    "today": "a mai Hirbet Szélún",
+    "note": "Király nélkül mindenki azt teszi, ami neki tetszik – igazi királyra van szükség.",
+    "events": [
+     "A szent sátrat Silóban állítják fel",
+     "A bűn–elnyomás–szabadítás körforgása (Debóra, Gedeon, Sámson)",
+     "Ruth – hűség a sötét napokban, Dávid vonalában"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzsálem · Egységes királyság",
+    "book": "1–2Sámuel · 1Királyok",
+    "today": "a mai Jeruzsálem",
+    "note": "Izráel aranykora – és egy örökké tartó király ígérete.",
+    "events": [
+     "Saul, az első király, majd Dávid és Góliát",
+     "A Dáviddal kötött szövetség – „trónod örökre” (2Sám 7)",
+     "Salamon felépíti a templomot Jeruzsálemben"
+    ]
+   },
+   "samaria": {
+    "name": "Samária · Kettészakadt királyság",
+    "book": "Királyok · a próféták",
+    "today": "a mai Szebasztia",
+    "note": "A királyság kettészakad és hanyatlik, miközben a próféták kiáltanak.",
+    "events": [
+     "Salamon után szakadás Júdára és Izráelre",
+     "Ismétlődő bálványimádás",
+     "Illés, Ézsaiás, Jeremiás „térjetek meg”-et kiált – és megjövendölik a Messiást"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asszíria)",
+    "book": "2Királyok 17 · Jónás",
+    "today": "a mai Moszul, Irak",
+    "note": "Minden intést figyelmen kívül hagyva előbb az észak bukik el.",
+    "events": [
+     "Ninive, Asszíria fővárosa",
+     "Az északi királyság elesik Asszíria előtt (Kr. e. 722)",
+     "Jónást Ninivébe küldik"
+    ]
+   },
+   "babylon": {
+    "name": "Babilon",
+    "book": "2Királyok 25 · Dániel · Ezékiel",
+    "today": "a mai Hilla, Irak",
+    "note": "A legsötétebb éjszaka – mégis megmarad a helyreállítás ígérete.",
+    "events": [
+     "Jeruzsálem elesik, a templom leég (Kr. e. 586)",
+     "Júdát Babilonba hurcolják",
+     "Dániel és Ezékiel – hit és látomások a fogságban"
+    ]
+   },
+   "susa": {
+    "name": "Súsán (Perzsia)",
+    "book": "Eszter · Nehémiás",
+    "today": "a mai Sús, Irán",
+    "note": "Még egy pogány birodalom szívében is megőrzi Isten a népét.",
+    "events": [
+     "Perzsia megdönti Babilont",
+     "Eszter megmenti a zsidókat a pusztulástól",
+     "Nehémiás imádkozik a király előtt, és elküldik"
+    ]
+   },
+   "return": {
+    "name": "Hazatérés Jeruzsálembe",
+    "book": "Ezsdrás · Nehémiás · Malakiás",
+    "today": "a mai Jeruzsálem",
+    "note": "Hazatérnek és újjáépítenek – de nem jött el a király. A Messiásra várnak.",
+    "events": [
+     "Három hazatérési hullám Círusz rendeletére (Zerubbábel Kr. e. 538 · Ezsdrás 458 · Nehémiás 444)",
+     "A templom újjáépül, és Jeruzsálem falai helyreállnak",
+     "Malakiás – az Ószövetség zárása: „Elküldöm követemet”"
+    ]
+   }
+  },
+  "labels": [
+   "Földközi-tenger",
+   "Mezopotámia",
+   "Arab-sivatag",
+   "Egyiptom"
+  ],
+  "journeys": {
+   "flow": "A megváltás története"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Máté 1–2 · Lukács 2",
+    "today": "a mai Betlehem",
+    "note": "A megígért Messiás eljön Dávid városába – az Ige testté lett.",
+    "events": [
+     "Betlehemben születik, Dávid városában",
+     "Angyalok hirdetik a hírt a pásztoroknak",
+     "A bölcsek eljönnek imádni őt"
+    ]
+   },
+   "nazareth": {
+    "name": "Názáret",
+    "book": "Lukács 2 · 4",
+    "today": "a mai Názáret",
+    "note": "Isten emberként nő fel egy hétköznapi városban.",
+    "events": [
+     "Egy ács otthonában nevelkedik",
+     "Tizenkét évesen kérdez és felel a templomban",
+     "Később elutasítják szülővárosa zsinagógájában"
+    ]
+   },
+   "jordan": {
+    "name": "A Jordán folyó",
+    "book": "Máté 3–4",
+    "today": "a mai Alsó-Jordán",
+    "note": "Elkezdődik nyilvános szolgálata – a menny Fiaként pecsételi el.",
+    "events": [
+     "János megkereszteli",
+     "A Lélek galamb módjára leszáll – „Ez az én szeretett Fiam”",
+     "Legyőzi a Sátán három kísértését a pusztában"
+    ]
+   },
+   "cana": {
+    "name": "Kána",
+    "book": "János 2",
+    "today": "a mai Kafr Kanna",
+    "note": "Első jelében megmutatja dicsőségét.",
+    "events": [
+     "Vendég egy menyegzőn",
+     "A vizet borrá változtatja – ez az első jele",
+     "Tanítványai hisznek benne"
+    ]
+   },
+   "sychar": {
+    "name": "Sikár (Samária)",
+    "book": "János 2–4",
+    "today": "a mai Nábluszhoz közel",
+    "note": "A korai szolgálat útja – Jeruzsálemen át tovább a megvetett Samáriába.",
+    "events": [
+     "Megtisztítja a templomot Jeruzsálemben",
+     "Éjszaka Nikodémus – „Újonnan kell születnetek”",
+     "Élő víz egy samáriai asszonynak"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Máté 4–13 · Márk 1–4",
+    "today": "a mai Galileai-tó partja",
+    "note": "A galileai szolgálat központja – itt találkozik az elhívás, a tanítás és az ellenállás.",
+    "events": [
+     "Elhívja a halászokat, és itt rendezkedik be",
+     "A hegyi beszéd – „Boldogok a lelki szegények”",
+     "A mennyország példázatai – és a növekvő ellenállás"
+    ]
+   },
+   "galilee": {
+    "name": "A Galileai-tó",
+    "book": "Márk 4 · 6 · János 6",
+    "today": "a mai Kineret-tó",
+    "note": "A természet feletti hatalommal mutatja meg, kicsoda ő.",
+    "events": [
+     "„Hallgass el, némulj meg” – lecsendesíti a vihart",
+     "Ötezret táplál öt kenyérrel és két hallal",
+     "A vízen jár"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cézárea Filippi",
+    "book": "Máté 16–17",
+    "today": "a mai Bánijász",
+    "note": "A tanítványok felismerik, hogy ő a Krisztus, és megnyílik a kereszt útja.",
+    "events": [
+     "Péter vallástétele – „Te vagy a Krisztus, az élő Isten Fia”",
+     "Először jövendöli meg halálát és feltámadását",
+     "Dicsőségben elváltozik a hegyen"
+    ]
+   },
+   "jericho": {
+    "name": "Jerikó",
+    "book": "Lukács 18–19",
+    "today": "a mai Jerikó",
+    "note": "A Jeruzsálembe felvezető úton az elveszettet keresi.",
+    "events": [
+     "Visszaadja a vak Bartimeus látását",
+     "Elhívja Zákeust, a vámszedőt",
+     "„Az Emberfia azért jött, hogy megkeresse és megtartsa az elveszettet”"
+    ]
+   },
+   "bethany": {
+    "name": "Betánia",
+    "book": "János 11–12",
+    "today": "a mai el-Ejzarija",
+    "note": "Utolsó hete előestéjén megmutatja hatalmát a halál felett.",
+    "events": [
+     "Feltámasztja Lázárt a sírból – „Én vagyok a feltámadás és az élet”",
+     "Mária megkeni őt a temetésére",
+     "Ez a jel megszilárdítja a megölésére szőtt tervet"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzsálem",
+    "book": "Máté 21–28 · Lukács 24 · Cselekedetek 1",
+    "today": "a mai Jeruzsálem",
+    "note": "A tetőpont, amelyre az egész Biblia mutat – kereszt, feltámadás, mennybemenetel.",
+    "events": [
+     "Diadalmas bevonulás; újra felborítja a templom asztalait",
+     "Az utolsó vacsorán megmossa a tanítványok lábát",
+     "Meghal a kereszten",
+     "Harmadnapon feltámad, majd felmegy a mennybe"
+    ]
+   }
+  },
+  "labels": [
+   "Földközi-tenger",
+   "Galilea",
+   "Samária",
+   "Júdea",
+   "Dekapolisz",
+   "Perea",
+   "Holt-tenger"
+  ],
+  "journeys": {
+   "life": "Jézus útja"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiókhia",
+    "book": "Cselekedetek 13 · 15",
+    "today": "a mai Antakya, Törökország",
+    "note": "A küldő gyülekezet, ahol a pogánymisszió elkezdődik és véget ér.",
+    "events": [
+     "Imádság közben a Lélek elkülöníti Barnabást és Sault",
+     "A gyülekezet, ahol a hívőket először nevezték „keresztyéneknek”",
+     "Az 1., 2. és 3. út kiindulópontja"
+    ]
+   },
+   "seleucia": {
+    "name": "Szeleukia",
+    "book": "Cselekedetek 13:4",
+    "today": "a mai Törökország",
+    "note": "Antiókhia kikötője – innen indulnak Ciprusra.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Szalamisz (Ciprus)",
+    "book": "Cselekedetek 13:5",
+    "today": "a mai Ciprus",
+    "note": "Az első állomás Cipruson – a zsinagógákban prédikálnak.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Páfosz",
+    "book": "Cselekedetek 13:6-12",
+    "today": "a mai Ciprus",
+    "note": "Az evangéliumnak ellenállókkal szemben megmutatkozik a hatalom.",
+    "events": [
+     "Elimász, a varázsló megvakul",
+     "Szergiusz Paulusz, a helytartó hisz",
+     "Innentől „Pál” veszi át a vezetést"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Cselekedetek 13:13",
+    "today": "a mai Antalya, Törökország",
+    "note": "Pamfília egyik kikötője – itt fordul vissza Márk János.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidiai Antiókhia",
+    "book": "Cselekedetek 13:14-50",
+    "today": "a mai Yalvaç, Törökország",
+    "note": "Az evangélium megnyílik a pogányok felé.",
+    "events": [
+     "Hosszú, üdvtörténeti beszéd a zsinagógában",
+     "Sok pogány örvend, és befogadja az igét",
+     "Az ellenállás kiűzi őket"
+    ]
+   },
+   "iconium": {
+    "name": "Ikónium",
+    "book": "Cselekedetek 14:1-7",
+    "today": "a mai Konya, Törökország",
+    "note": "Sokan hisznek, de az üldözés továbbindítja őket.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lisztra",
+    "book": "Cselekedetek 14:8-20",
+    "today": "a mai Törökország",
+    "note": "Istenként ünneplik, majd megkövezik.",
+    "events": [
+     "Meggyógyít egy születésétől fogva béna embert",
+     "A tömeg istenekként akar áldozni nekik",
+     "Megkövezik és holtnak hiszik, de feláll"
+    ]
+   },
+   "derbe": {
+    "name": "Derbé",
+    "book": "Cselekedetek 14:20-21",
+    "today": "a mai Törökország",
+    "note": "Sok tanítványt szereznek; visszafelé megerősítik a gyülekezeteket.",
+    "events": []
+   },
+   "troas": {
+    "name": "Tróász",
+    "book": "Cselekedetek 16:8-10",
+    "today": "a mai Törökország",
+    "note": "A fordulópont, ahol az evangélium először indul Európa felé.",
+    "events": [
+     "Egy macedón férfi látomása",
+     "„Jöjj át Macedóniába, és segíts rajtunk”",
+     "Azonnal átkelnek Európába"
+    ]
+   },
+   "philippi": {
+    "name": "Filippi",
+    "book": "Cselekedetek 16 · Filippi",
+    "today": "a mai Észak-Görögország",
+    "note": "Európa első gyülekezete – az evangélium még a börtönben is győz.",
+    "events": [
+     "Lídia, a bíborárus asszony hisz",
+     "Egy jövendőmondó szolgálólány megszabadul",
+     "Éjféli énekek, földrengés, a börtönőr háza népe üdvözül"
+    ]
+   },
+   "thess": {
+    "name": "Thesszalonika",
+    "book": "Cselekedetek 17 · 1–2Thesszalonika",
+    "today": "a mai Thesszaloníki, Görögország",
+    "note": "Az ige felkavarja a várost, és felforr az ellenállás.",
+    "events": [
+     "Három szombaton át érvel a zsinagógában",
+     "„Ezek felforgatták az egész világot”",
+     "Éjjel osonnak el"
+    ]
+   },
+   "berea": {
+    "name": "Bérea",
+    "book": "Cselekedetek 17:10-15",
+    "today": "a mai Véria, Görögország",
+    "note": "A „nemes lelkűek”, akik maguk vizsgálták meg az igét.",
+    "events": [
+     "Nagy készséggel fogadják az igét",
+     "Naponta kutatják az Írásokat, hogy ellenőrizzék",
+     "Sokan hitre jutnak"
+    ]
+   },
+   "athens": {
+    "name": "Athén",
+    "book": "Cselekedetek 17:16-34",
+    "today": "a mai Athén, Görögország",
+    "note": "A filozófusok városában az „ismeretlen istent” hirdeti.",
+    "events": [
+     "Felháborítja a bálványokkal teli város",
+     "Az Areopágoszon a Teremtőt és a feltámadást hirdeti",
+     "Kigúnyolják, mégis néhányan hisznek"
+    ]
+   },
+   "corinth": {
+    "name": "Korinthus",
+    "book": "Cselekedetek 18 · 1–2Korinthus",
+    "today": "a mai Görögország",
+    "note": "Másfél évet marad, gyülekezetet plántál egy bűnökkel teli városban.",
+    "events": [
+     "Sátrakat készít Akvilával és Priszcillával",
+     "„Ne félj… mert én veled vagyok”",
+     "Sok korinthusi hisz és megkeresztelkedik"
+    ]
+   },
+   "ephesus": {
+    "name": "Efezus",
+    "book": "Cselekedetek 19 · Efezus",
+    "today": "a mai Selçuk, Törökország",
+    "note": "A harmadik út szíve – az ige elterjed egész Ázsiában.",
+    "events": [
+     "Két éven át naponta tanít Tirannosz iskolájában",
+     "Varázskönyveket égetnek el; hatalmas tettek",
+     "Demetriusz, az ötvös zavargást szít"
+    ]
+   },
+   "miletus": {
+    "name": "Milétosz",
+    "book": "Cselekedetek 20:17-38",
+    "today": "a mai Törökország",
+    "note": "Könnyes búcsú az efezusi vénektől.",
+    "events": [
+     "„Legeltessétek az egyházat, amelyet tulajdon vérén szerzett”",
+     "A vének sírnak, tudván, hogy nem látják őt többé"
+    ]
+   },
+   "caesarea": {
+    "name": "Cézárea",
+    "book": "Cselekedetek 23–26",
+    "today": "a mai izraeli tengerpart",
+    "note": "Két éven át helytartók és egy király előtt védi az evangéliumot.",
+    "events": [
+     "Tárgyalás Félix és Fesztusz helytartók előtt",
+     "Védekezése Agrippa király előtt",
+     "„A császárhoz fellebbezek” – tovább Rómába"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzsálem",
+    "book": "Cselekedetek 21–23",
+    "today": "a mai Jeruzsálem",
+    "note": "A templomban elfogják, és megkezdődik foglyul ejtett útja.",
+    "events": [
+     "A tömeg elfogja a templomban",
+     "A nagytanács előtt védekezik",
+     "Római polgárként őrizet alatt Cézáreába küldik"
+    ]
+   },
+   "myra": {
+    "name": "Míra",
+    "book": "Cselekedetek 27:5-6",
+    "today": "a mai Demre, Törökország",
+    "note": "Átszállnak egy Rómába tartó alexandriai hajóra.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Szépkikötők (Kréta)",
+    "book": "Cselekedetek 27:8-12",
+    "today": "a mai Kréta",
+    "note": "Pál figyelmeztetése, hogy ne hajózzanak tovább, süket fülekre talál.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kréta",
+    "book": "Titusz",
+    "today": "a mai Kréta",
+    "note": "Szabadulása után a sziget, ahol Tituszt hátrahagyja, hogy rendbe tegye a gyülekezeteket.",
+    "events": [
+     "Tituszra bízza, hogy minden városban véneket állítson",
+     "Feddhetetlen, hűséges vezetőket kér",
+     "Megírja a Titusznak szóló levelet"
+    ]
+   },
+   "malta": {
+    "name": "Málta",
+    "book": "Cselekedetek 27–28",
+    "today": "a mai Málta",
+    "note": "Viharon és hajótörésen át Isten ígérete megáll.",
+    "events": [
+     "Az „északkeleti szél” tönkreteszi a hajót, mégis mind a 276-an megmenekülnek",
+     "Vipera marja meg, de sértetlen marad",
+     "Meggyógyítja a sziget betegeit"
+    ]
+   },
+   "syracuse": {
+    "name": "Szirakúza",
+    "book": "Cselekedetek 28:12",
+    "today": "a mai Szicília, Olaszország",
+    "note": "Három napig maradnak Szicíliában.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Cselekedetek 28:13-14",
+    "today": "a mai Pozzuoli, Olaszország",
+    "note": "Kikötnek Itáliában, és hívő testvérek fogadják őket.",
+    "events": []
+   },
+   "rome": {
+    "name": "Róma",
+    "book": "Cselekedetek 28 · fogságból írt levelek · 2Timóteus",
+    "today": "a mai Róma, Olaszország",
+    "note": "Az evangélium végre eléri a birodalom szívét – nem vég, hanem kezdet.",
+    "events": [
+     "Két évig házi őrizetben, bátran hirdeti Isten országát",
+     "Innen írja a fogságból írt leveleket (Ef · Fil · Kol · Filem)",
+     "Később ismét bebörtönzik, megírja a 2Timóteust és vértanúhalált hal – „Ama nemes harcot megharcoltam, futásomat elvégeztem”"
+    ]
+   }
+  },
+  "labels": [
+   "Földközi-tenger",
+   "Égei-tenger",
+   "Kis-Ázsia",
+   "Macedónia",
+   "Itália"
+  ],
+  "journeys": {
+   "j1": "Első út",
+   "j2": "Második út",
+   "j3": "Harmadik út",
+   "rome": "Negyedik út · Rómába",
+   "j5": "Ötödik út · a szabadulás után"
+  }
+ }
+}
