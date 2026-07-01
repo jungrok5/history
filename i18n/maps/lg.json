@@ -19,7 +19,7 @@
   "je_lead": "Goberera obulamu bwa Yesu nga Enjiri bwe ziboogerako, mu ntegeka — okuva ku kuzaalibwa kwe e Besirekemu ng'oyita mu kubatizibwa kwe n'obuweereza obwa Ggaliraaya, ng'osomoka Samaliya, okutuuka ku musaalaba, okuzuukira n'okulinnya mu ggulu e Yerusaalemi.",
   "pa_kick": "③ Endagaano Empya — olugendo lwa Pawulo",
   "pa_h": "Okuva e Antiyokiya okutuuka ku nkomerero z'ensi — Ruumi",
-  "pa_lead": "Okuva ku Pentekooti mu Yerusaalemi, enjiri bwe yasaasaana ebweru wa Buyudaaya — ng'eyita mu Asiya Entono n'Bulaaya okutuuka ku mutima gw'obwakabaka. Londa olumu ku ngendo ettaano (olw'1·olw'2·olw'3 + olugendo olw'okugenda e Ruumi + oluvannyuma lw'okuteebwa) era ogoberere ebintu eby'Ebikolwa wamu n'ebbaluwa ezaawandiikibwa mu kkubo.",
+  "pa_lead": "Okuva ku Pentekooti mu Yerusaalemi, enjiri bwe yasaasaana ebweru wa Buyudaaya — ng'eyita mu Asiya Entono ne Bulaaya okutuuka ku mutima gw'obwakabaka. Londa olumu ku ngendo ettaano (olw'1·olw'2·olw'3 + olugendo olw'okugenda e Ruumi + oluvannyuma lw'okuteebwa) era ogoberere ebintu eby'Ebikolwa wamu n'ebbaluwa ezaawandiikibwa mu kkubo.",
   "foot": "Ensonda · Ebifo bigoberera ebyawandiikibwa mu Baibuli ne jiyogulafiya eya bulijjo eya Baibuli (n'amannya ag'omu biro bino we gayamba). Olubalama lw'ennyanja, emigga, n'ennyanja byakubibwa okuva mu data ya jiyogulafiya enzigule (Natural Earth), nga zoorobyezeddwa.",
   "contact": "Ebibuuzo · ebirowoozo — <a id=\"contact\" class=\"mail\">Tuwandiikire ebbaluwa</a>",
   "play": "Zannya",
@@ -44,7 +44,7 @@
    "noah": {
     "name": "Alalaati (Amataba)",
     "book": "Olubereberye 6–9",
-    "today": "Olusozi Alalaati, ebuvanjuba bwa Bulaaya leero",
+    "today": "Olusozi Alalaati, ebuvanjuba bwa Buttuluki leero",
     "note": "Katonda asalira omusango ensi ejjudde ekibi, naye n'awonya obulamu ng'ayita mu maka gamu.",
     "events": [
      "Ensi eyajjula obwonoonefu",
@@ -77,7 +77,7 @@
    "haran": {
     "name": "Kalani",
     "book": "Olubereberye 12",
-    "today": "Bulaaya ey'obukiika ddyo leero",
+    "today": "Buttuluki ey'obukiika ddyo leero",
     "note": "Mu kkubo, ng'addamu okuyitibwa okwolekera ensi eyasuubizibwa.",
     "events": [
      "Ennyumba ya Teera ebeera e Kalani",
@@ -371,7 +371,7 @@
    "antioch": {
     "name": "Antiyokiya",
     "book": "Ebikolwa 13 · 15",
-    "today": "Antakya, Bulaaya leero",
+    "today": "Antakya, Buttuluki leero",
     "note": "Ekkanisa etuma, obuweereza eri Abamawanga we butandikira era we budda.",
     "events": [
      "Mu kusaba Omwoyo ayawula Balunabba ne Sawulo",
@@ -382,7 +382,7 @@
    "seleucia": {
     "name": "Sereukiya",
     "book": "Ebikolwa 13:4",
-    "today": "Bulaaya leero",
+    "today": "Buttuluki leero",
     "note": "Omwalo gwa Antiyokiya — basaabala okugenda e Kupulo.",
     "events": []
    },
@@ -407,14 +407,14 @@
    "perga": {
     "name": "Peruge",
     "book": "Ebikolwa 13:13",
-    "today": "Antalya, Bulaaya leero",
+    "today": "Antalya, Buttuluki leero",
     "note": "Omwalo mu Panfuliya — wano Yokaana Makko akyukira emabega.",
     "events": []
    },
    "pantioch": {
     "name": "Antiyokiya ow'omu Pisidiya",
     "book": "Ebikolwa 13:14-50",
-    "today": "Yalvaç, Bulaaya leero",
+    "today": "Yalvaç, Buttuluki leero",
     "note": "Enjiri eggulukira eri Abamawanga.",
     "events": [
      "Okubuulira okuwanvu okw'ebyafaayo eby'obulokozi mu kkuŋŋaaniro",
@@ -425,14 +425,14 @@
    "iconium": {
     "name": "Ikoniya",
     "book": "Ebikolwa 14:1-7",
-    "today": "Konya, Bulaaya leero",
+    "today": "Konya, Buttuluki leero",
     "note": "Bangi bakkiriza, naye okuyigganyizibwa kubawaliriza okweyongerayo.",
     "events": []
    },
    "lystra": {
     "name": "Lusitera",
     "book": "Ebikolwa 14:8-20",
-    "today": "Bulaaya leero",
+    "today": "Buttuluki leero",
     "note": "Bamutenda nga katonda, oluvannyuma ne bamukuba amayinja.",
     "events": [
      "Awonya omusajja eyali mulema okuva mu lubuto",
@@ -443,14 +443,14 @@
    "derbe": {
     "name": "Derube",
     "book": "Ebikolwa 14:20-21",
-    "today": "Bulaaya leero",
+    "today": "Buttuluki leero",
     "note": "Abayigirizwa bangi bakolebwa; baddayo mu makubo gaabwe okunyweza amakanisa.",
     "events": []
    },
    "troas": {
     "name": "Tirowa",
     "book": "Ebikolwa 16:8-10",
-    "today": "Bulaaya leero",
+    "today": "Buttuluki leero",
     "note": "Ekifo eky'enkyukakyuka enjiri we yasooka okwolekera Bulaaya.",
     "events": [
      "Okwolesebwa kw'omusajja Omumakedoniya",
@@ -516,7 +516,7 @@
    "ephesus": {
     "name": "Efeso",
     "book": "Ebikolwa 19 · Abaefeso",
-    "today": "Selçuk, Bulaaya leero",
+    "today": "Selçuk, Buttuluki leero",
     "note": "Omutima gw'olugendo olw'okusatu — ekigambo kisaasaana okuyita mu Asiya.",
     "events": [
      "Okuyigiriza buli lunaku okumala emyaka ebiri mu kisenge kya Tulano",
@@ -527,7 +527,7 @@
    "miletus": {
     "name": "Mireeto",
     "book": "Ebikolwa 20:17-38",
-    "today": "Bulaaya leero",
+    "today": "Buttuluki leero",
     "note": "Okusiibula okw'amaziga eri abakadde b'e Efeso.",
     "events": [
      "“Mulabirire ekkanisa gye yagula n'omusaayi gwe ye”",
@@ -559,7 +559,7 @@
    "myra": {
     "name": "Mura",
     "book": "Ebikolwa 27:5-6",
-    "today": "Demre, Bulaaya leero",
+    "today": "Demre, Buttuluki leero",
     "note": "Bakyusiza mu kyombo eky'e Alegezandiriya ekigenda e Ruumi.",
     "events": []
    },
