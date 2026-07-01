@@ -1,0 +1,636 @@
+{
+ "menuName": "Runasimi",
+ "htmlLang": "qu",
+ "dir": "ltr",
+ "locale": "qu",
+ "brand": "Bibliata huk qhawayllapi",
+ "docTitle": "Biblia mapakunapi · Bibliata huk qhawayllapi",
+ "metaDesc": "Mawk'a Rimanakuypa pachanta, Jesuspa kawsayninta, Pablopa puriyninkunatawan cheqaq mapapi qatiy — Bibliaqa cheqaq llaqtakunapin karqan.",
+ "s": {
+  "kicker": "Bibliata huk qhawayllapi · Mapakuna",
+  "title": "Biblia mapakunapi",
+  "verse": "“Señorninchis Jesucristoq atiywan hamunanmanta qankunaman willasqaykuqa, manan yachaywan rimasqa cuentokuna hinachu karqan, aswanpas ñoqayku kikiykun ñawiykuwan Señorta hatun atiyninpi rikurqayku.” (2 Pedro 1:16)",
+  "purpose": "Bibliaqa manan pantasqa yuyaychu. Cheqaq llaqtakunapi, p'unchaykunapi, sutikunapi puriq runakunaq willakuyninmi. Chay ñankunata mapapi qatiy, pacha ñiqinpi — huk chiqasta llamiy, otaq ▶ ñit'iy sap'a purinaykipaq.",
+  "ot_kick": "① Mawk'a Rimanakuy — pacha nisqapi",
+  "ot_h": "Kamaymanta Jerusalénman kutimuykama",
+  "ot_lead": "Manan huk puriyllachu, aswanpas kamaymanta pacha qespichiy historiap puriyninmi: kamaywan urmaywan → lloqllawan Babelwan → huk waqyay (Abraham) → prometesqa hallp'a → Lloqsiy → ch'inneq → atipay → suyu → t'aqakuy → aysasqa kay → kutimpuy.",
+  "je_kick": "② Musoq Rimanakuy — Jesuspa kawsaynin",
+  "je_h": "Belénmanta Jerusalénkama",
+  "je_lead": "Jesuspa kawsayninta Allin Willakuykuna willasqanku hina qatiy, ñiqinpi — Belénpi paqarininmanta, bautizakuyninwan Galileapi yachachiyninwan, Samariata pasaspa, Jerusalénpi cruzkama, kawsarimpuykama, wichaykuykama.",
+  "pa_kick": "③ Musoq Rimanakuy — Pablopa puriyninkuna",
+  "pa_h": "Antioquíamanta pachaq k'uchunkama — Roma",
+  "pa_lead": "Jerusalénpi Pentecostésmanta, imaynatas Allin Willakuyqa Judeamanta hawaman mastarin — Asia Menorta Europatawan pasaspa imperiop sonqonkama. Pichqa puriymanta hukninta aqllay (1 kaq·2 kaq·3 kaq + Romaman puriy + kacharisqa qhepan) Hechospa ruwaykunatataq ñanpi qelqasqa cartakunawan qatiy.",
+  "foot": "Pukyukuna · Llaqtakunaqa Bibliap qelqasqanta reqsisqa Biblia geografíatawan qatinku (kunan sutikunawan yanapaqtin). Qochakuna, mayukuna, qochakunapas kicharisqa geografía willaymanta (Natural Earth) siq'isqa, pisiyachisqa.",
+  "contact": "Tapuykuna · yuyaykuna — <a id=\"contact\" class=\"mail\">Correota qelqamuy</a>",
+  "play": "Purichiy",
+  "pause": "Sayachiy",
+  "today": "Kunan:",
+  "verseCite": "2 Pedro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edén (Kamay · Urmay)",
+    "book": "Génesis 1–3",
+    "today": "kunan Tigris–Éufrates suyu",
+    "note": "Ancha allin kamasqa pachaman huchaqa yaykun, Dioswan runawanpa watasqantataq p'akin.",
+    "events": [
+     "Soqta p'unchaypi kamay — «ancha allin karqan»",
+     "Runa Diospa rikch'aynin hina kamasqa",
+     "Urmay, Edénmanta qarqosqa kay",
+     "Allin Willakuypa ñawpaq prometeynin — «warmip miraynin mach'aqwaypa umanta t'ustunqa»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Lloqlla)",
+    "book": "Génesis 6–9",
+    "today": "kunan Ararat orqo, inti-lloqsimuq Turquía",
+    "note": "Diosqa huchawan hunt'asqa pachata juzgan, ichaqa huk ayllullawanmi kawsayta waqaychan.",
+    "events": [
+     "Ismuywan hunt'asqa pacha",
+     "Lloqlla, Noépa barcon",
+     "Kuychip rimanakuynin — «manaña lloqllawan thunichiy kanqañachu»"
+    ]
+   },
+   "babel": {
+    "name": "Babelpa Torren",
+    "book": "Génesis 11",
+    "today": "kunan Irak (Sinar pampa)",
+    "note": "Hanaq pachaman chayayta munaq apu-yuyaypa contran, Diosqa siminkuta ch'aqwachin ayllukunatataq pacha patapi ch'eqechin.",
+    "events": [
+     "«Huk llaqtata huk torretawan sayachisunchis… sutinchistataq churakusunchis»",
+     "Diosqa siminkuta ch'aqwachin",
+     "Ayllukuna pacha patapi ch'eqekunku (Sinar — qhepa Babilonia)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Génesis 12",
+    "today": "kunan uray Irak",
+    "note": "Bibliap qespichiy willakuynin huk runallaq waqyayninwanmi qallarin.",
+    "events": [
+     "Diosqa Abramta caldeokunaq Urninmanta waqyan",
+     "«Hatun suyuman tukuchisqayki… lliw ayllukuna qanraykun saminchasqa kanqaku»",
+     "Iñiywan hallp'anta saqen"
+    ]
+   },
+   "haran": {
+    "name": "Harán",
+    "book": "Génesis 12",
+    "today": "kunan uray Turquía",
+    "note": "Ñanpi, prometesqa hallp'aman waqyayta kutichispa.",
+    "events": [
+     "Tarép ayllun Haránpi tiyaykun",
+     "Taré wañun",
+     "Abram 75 watayoq Canaánman puririn"
+    ]
+   },
+   "shechem": {
+    "name": "Siquem · Canaán",
+    "book": "Génesis 12–50",
+    "today": "kunan Naplusa",
+    "note": "Prometesqa hallp'api huk ayllu sayarin rimanakuytaq miraymanta miraykama pasan.",
+    "events": [
+     "Canaánman yaykuy, ñawpaq altar — «mirayniykiman kay hallp'ata qosaq»",
+     "Rimanakuy (Gén 15) · Isaac · Jacob",
+     "Jacobpa chunka iskayniyoq churinkuna — chunka iskayniyoq ayllukunaq saphin"
+    ]
+   },
+   "egypt": {
+    "name": "Egipto (Gosén)",
+    "book": "Génesis 37–50 · Éxodo 1",
+    "today": "kunan Nilo pampa, Egipto",
+    "note": "Huk ayllu hatun suyuman tukun — chaymantataq kamachi suyuman.",
+    "events": [
+     "José, karuman vendesqa, Egiptota kamachiqman tukun",
+     "Jacobpa lliw ayllun yarqaymanta ayqekunanpaq urayquykun",
+     "Wiñaq Israel suyuqa kamachichasqa kan"
+    ]
+   },
+   "sinai": {
+    "name": "Sinaí Orqo",
+    "book": "Éxodo · Levítico",
+    "today": "kunan Sinaí ch'unchul-hallp'a",
+    "note": "Mawk'a Rimanakuypa chawpi qespichiynin — kamachikuna Diospa llaqtanman tukunku.",
+    "events": [
+     "Chunka muchuykuna Pascua ovejawan",
+     "Puka Mama-Qocha t'aqakun chimpankutaq",
+     "Chunka Kamachikuykuna, Kamachikuy, Diospa tiyanan karpa, haywanakunawan"
+    ]
+   },
+   "kadesh": {
+    "name": "Cades (ch'inneq)",
+    "book": "Números · Deuteronomio",
+    "today": "kunan Sinaí–Néguev ch'inneq",
+    "note": "Mana iñiyqa huk miraymanta hallp'ata qechun — ichaqa Diosqa paykunawan qhepan.",
+    "events": [
+     "Chunka iskayniyoq qhawaqkuna — ichaqa llaqtaqa mana atienekunchu",
+     "38 wata ch'inneqpi — maná, phuyu, ninawan",
+     "Moabpa pampakunapi, Moisespa qhepa yachachiynin (Deuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jericó",
+    "book": "Josué",
+    "today": "kunan Jericó",
+    "note": "Tukuyninpi prometesqa hallp'aman yaykunku hap'inkutaq.",
+    "events": [
+     "Jordán t'aqakun llaqtataq chimpan",
+     "Jericópa perqankuna urmanku",
+     "Canaánpa atipaynin hallp'ap t'aqaynintawan"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Juezkuna)",
+    "book": "Jueces · Rut",
+    "today": "kunan Khirbet Seilun",
+    "note": "Mana reyniyoq, sapanka munasqanta ruwan — cheqaq rey necesitakun.",
+    "events": [
+     "Diospa tiyanan karpa Silopi sayarichisqa",
+     "Hucha–ñak'arichiy–qespichiy muyuy (Débora, Gedeón, Sansón)",
+     "Rut — laqha p'unchaykunapi hunt'aq-kay, Davidpa ayllunpi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalén · Huñusqa Suyu",
+    "book": "1–2 Samuel · 1 Reyes",
+    "today": "kunan Jerusalén",
+    "note": "Israelpa qori pachan — huk wiñay reypa prometeyninwan.",
+    "events": [
+     "Saúl ñawpaq rey, chaymantataq David Goliatwan",
+     "Davidwan rimanakuy — «kamachikuyniyki wiñaypaq» (2 Samuel 7)",
+     "Salomón Jerusalénpi templota sayachin"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · T'aqasqa Suyu",
+    "book": "Reyes · Profetakuna",
+    "today": "kunan Sebastia",
+    "note": "Suyuqa t'aqakun uraykuntaq profetakuna qaparishaqtin.",
+    "events": [
+     "Salomonpa qhepanta, Judáwan Israelwan t'aqakuy",
+     "Kuti-kuti diosninkunaman kutiy",
+     "Elías, Isaías, Jeremías «kutirikampuychis» qaparinku — Mesiastataq willanku"
+    ]
+   },
+   "nineveh": {
+    "name": "Nínive (Asiria)",
+    "book": "2 Reyes 17 · Jonás",
+    "today": "kunan Mosul, Irak",
+    "note": "Lliw willanata qonqaspa, wichayqa ñawpaqtaraq urman.",
+    "events": [
+     "Nínive, Asiriap llaqtan",
+     "Wichay suyu Asiriaman urman (722 ñawpaq watapi)",
+     "Jonás Nínivemanaq kachasqa"
+    ]
+   },
+   "babylon": {
+    "name": "Babilonia",
+    "book": "2 Reyes 25 · Daniel · Ezekiel",
+    "today": "kunan Hilla, Irak",
+    "note": "Aswan laqha tuta — ichaqa allchanay prometeyqa qhepallanmi.",
+    "events": [
+     "Jerusalén urman, temploqa rupasqa (586 ñawpaq watapi)",
+     "Judá Babiloniaman aysasqa",
+     "Danielwan Ezekielwan — iñiywan mosqoykunawan aysasqa kaypi"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Ester · Nehemías",
+    "today": "kunan Shush, Irán",
+    "note": "Diosllaq suyun sonqonpipas, Diosqa llaqtanta waqaychan.",
+    "events": [
+     "Persia Babiloniata atipan",
+     "Ester Judío runakunata thunichiymanta qespichin",
+     "Nehemías reypa ñawpaqenpi mañakun kachasqataq"
+    ]
+   },
+   "return": {
+    "name": "Jerusalénman Kutimpuy",
+    "book": "Esdras · Nehemías · Malaquías",
+    "today": "kunan Jerusalén",
+    "note": "Kutimunku allchankutaq — ichaqa manaraq reyqa hamurqanchu. Mesiasta suyanku.",
+    "events": [
+     "Kimsa kutipi kutimpuy Ciroq kamachikuyninwan (Zorobabel 538 · Esdras 458 · Nehemías 444)",
+     "Templo allchasqa Jerusalénpa perqankunataq allchasqa",
+     "Malaquías — Mawk'a Rimanakuy wisq'akun: «willakamuqniyta kachamusaq»"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterráneo Mama-Qocha",
+   "Mesopotamia",
+   "Arabia Ch'inneq",
+   "Egipto"
+  ],
+  "journeys": {
+   "flow": "Qespichiy willakuy"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Belén",
+    "book": "Mateo 1–2 · Lucas 2",
+    "today": "kunan Belén",
+    "note": "Prometesqa Mesiasqa Davidpa llaqtanman hamun — Simi aychaman tukusqa.",
+    "events": [
+     "Belénpi paqarisqa, Davidpa llaqtanpi",
+     "Angelkuna michiqkunaman willakuyta willanku",
+     "Yachaq runakuna yupaychaq hamunku"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lucas 2 · 4",
+    "today": "kunan Nazaret",
+    "note": "Diosqa runa hina huk kuska llaqtapi wiñan.",
+    "events": [
+     "Huk carpinterop wasinpi uywasqa",
+     "Chunka iskayniyoq watayoq, templopi tapuspa kutichispa",
+     "Qhepataqa llaqtanpa sinagoganpi mana chaskisqa"
+    ]
+   },
+   "jordan": {
+    "name": "Jordán Mayu",
+    "book": "Mateo 3–4",
+    "today": "kunan uray Jordán",
+    "note": "Runaq ñawpaqenpi llank'aynin qallarin — hanaq pachaqa payta Churin hina sellan.",
+    "events": [
+     "Juanwan bautizasqa",
+     "Espíritu urpi hina uraykamun — «Kayqa munasqa Churiymi»",
+     "Ch'inneqpi Satanáspa kimsa watiqayninta atipan"
+    ]
+   },
+   "cana": {
+    "name": "Caná",
+    "book": "Juan 2",
+    "today": "kunan Kafr Kanna",
+    "note": "Ñawpaq milagronpi sumaq-kayninta rikuchin.",
+    "events": [
+     "Huk casarakuyman waqyasqa",
+     "Unu vinoman tukusqa — ñawpaq milagron",
+     "Yachachisqankuna paypi iñinku"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Juan 2–4",
+    "today": "kunan Naplusa qayllapi",
+    "note": "Ñawpaq llank'aypa ñannin — Jerusalénta pasaspa cheqnisqa Samariakama.",
+    "events": [
+     "Jerusalénpi templota llimphuyachin",
+     "Tuta, Nicodemo — «Musoqmanta paqarinaykin»",
+     "Kawsaq unu huk samaritana warmipaq"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaúm",
+    "book": "Mateo 4–13 · Marcos 1–4",
+    "today": "kunan Galilea qocha kantu",
+    "note": "Galilea llank'aypa saphin — waqyay, yachachiy, churanakuywan kaypi tinkunku.",
+    "events": [
+     "Challwaqkunata waqyan kaypitaq tiyaykun",
+     "Orqopi Yachachiy — «Kusisamiyoqmi wakcha sonqokuna»",
+     "Suyup rikch'anachiykuna — churanakuytaq wiñan"
+    ]
+   },
+   "galilee": {
+    "name": "Galilea Qocha",
+    "book": "Marcos 4 · 6 · Juan 6",
+    "today": "kunan Tiberíades qocha",
+    "note": "Kamasqakunaq patanpi atiyninwan pi kasqanta rikuchin.",
+    "events": [
+     "«Thak-niy, ch'in-kay» — wayrata thak-yachin",
+     "5,000 runata pichqa t'antawan iskay challwawan mikhuchin",
+     "Unu patapi purin"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea de Filipo",
+    "book": "Mateo 16–17",
+    "today": "kunan Banias",
+    "note": "Yachachisqankuna pay Cristo kasqanta hap'inku, cruzpa ñannintaq kicharikun.",
+    "events": [
+     "Pedropa reqsikuynin — «Qanmi Cristo kanki, kawsaq Diospa Churin»",
+     "Ñawpaqtaraq wañuyninta kawsarimpuynintawan willan",
+     "Orqopi sumaq-kaypi tikrasqa"
+    ]
+   },
+   "jericho": {
+    "name": "Jericó",
+    "book": "Lucas 18–19",
+    "today": "kunan Jericó",
+    "note": "Jerusalénman wichay ñanpi, chinkasqakunata maskhan.",
+    "events": [
+     "Ñawsa Bartimeoman ñawinta qon",
+     "Impuwistu huñuq Zaqueota waqyan",
+     "«Runaq Churin chinkasqata maskhaq qespichiqtaq hamurqan»"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Juan 11–12",
+    "today": "kunan al-Eizariya",
+    "note": "Qhepa semananpa qayllanpi wañuypa patanpi kamachiy-kayninta rikuchin.",
+    "events": [
+     "Lázarota aya-t'oqomanta kawsarichin — «Ñoqan kawsarimpuypas kawsaypas kani»",
+     "María payta p'ampananpaq hawin",
+     "Kay milagron payta wañuchinankupaq yuyayta rumiyachin"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalén",
+    "book": "Mateo 21–28 · Lucas 24 · Hechos 1",
+    "today": "kunan Jerusalén",
+    "note": "Lliw Bibliap rikuchisqan patay — cruz, kawsarimpuy, wichaykuy.",
+    "events": [
+     "Atipaywan yaykuy; templopa mesankunata yapamanta t'ikran",
+     "Qhepa Mikhunapi yachachisqankunaq chakinta maqchin",
+     "Cruzpi wañun",
+     "Kimsa kaq p'unchaypi kawsarimpun, chaymantataq wichaykun"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterráneo Mama-Qocha",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Decápolis",
+   "Perea",
+   "Wañusqa Qocha"
+  ],
+  "journeys": {
+   "life": "Jesuspa ñannin"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioquía",
+    "book": "Hechos 13 · 15",
+    "today": "kunan Antakya, Turquía",
+    "note": "Kachaq iglesia, maypichus hawa runakunaq misionnin qallarin kutimpuntaq.",
+    "events": [
+     "Mañakuypi Espírituqa Bernabéta Saulotawan t'aqan",
+     "Iglesia maypichus iñiqkuna ñawpaqta 'cristiano' sutichasqa karqanku",
+     "1 kaq, 2 kaq, 3 kaq puriypa qallariynin"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Hechos 13:4",
+    "today": "kunan Turquía",
+    "note": "Antioquíap puerton — Chipreman barcopi puririnku.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamina (Chipre)",
+    "book": "Hechos 13:5",
+    "today": "kunan Chipre",
+    "note": "Chiprepi ñawpaq sayana — sinagogakunapi willakuspa.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Hechos 13:6-12",
+    "today": "kunan Chipre",
+    "note": "Allin Willakuyta hark'aqkunaq contran atiy rikuchisqa.",
+    "events": [
+     "Layqa Elimas ñawsayan",
+     "Procónsul Sergio Paulo iñin",
+     "Kaymanta 'Pablo' ñawpaqta apan"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Hechos 13:13",
+    "today": "kunan Antalya, Turquía",
+    "note": "Panfiliapi huk puerto — kaypi Juan Marcos kutimpun.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidiap Antioquían",
+    "book": "Hechos 13:14-50",
+    "today": "kunan Yalvaç, Turquía",
+    "note": "Allin Willakuyqa hawa runakunaman kicharikun.",
+    "events": [
+     "Sinagogapi qespichiy historiap huk suni willakuynin",
+     "Askha hawa runakuna kusikunku simitataq chaskinku",
+     "Churanakuywan qarqosqa"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Hechos 14:1-7",
+    "today": "kunan Konya, Turquía",
+    "note": "Askha iñinku, ichaqa qatiykachayqa puriyman kallpachan.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Hechos 14:8-20",
+    "today": "kunan Turquía",
+    "note": "Dios hina napaykusqa, chaymantataq rumiwan ch'aqesqa.",
+    "events": [
+     "Paqarininmanta wist'u runata hampin",
+     "Runakuna paykunaman dios hina haywanakuyta munanku",
+     "Rumiwan ch'aqesqa wañusqapaq hap'isqa, hatarintaq"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Hechos 14:20-21",
+    "today": "kunan Turquía",
+    "note": "Askha yachachisqa ruwasqa; iglesiakunata kallpachanankupaq ñanninta kutinku.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Hechos 16:8-10",
+    "today": "kunan Turquía",
+    "note": "Allin Willakuy ñawpaqtaraq Europaman puriq tikray-chiqan.",
+    "events": [
+     "Huk macedonio qhariq mosqoynin",
+     "«Macedoniaman hamuy yanapawaykutaq»",
+     "Usqhaylla Europaman chimpanku"
+    ]
+   },
+   "philippi": {
+    "name": "Filipos",
+    "book": "Hechos 16 · Filipenses",
+    "today": "kunan wichay Grecia",
+    "note": "Europap ñawpaq iglesian — Allin Willakuy carcelpipas atipan.",
+    "events": [
+     "Púrpura vendeq Lidia iñin",
+     "Watuq kamachi sipas kacharisqa",
+     "Kuska tuta takikuna, huk pacha-kuyuy, carcelniyoqpa ayllun qespichisqa"
+    ]
+   },
+   "thess": {
+    "name": "Tesalónica",
+    "book": "Hechos 17 · 1–2 Tesalonicenses",
+    "today": "kunan Tesalónica, Grecia",
+    "note": "Simiqa llaqtata kuyuchin churanakuytaq puqchin.",
+    "events": [
+     "Sinagogapi kimsa samana p'unchaypi rimanakun",
+     "«Kay runakuna lliw pachata t'ikranku»",
+     "Tuta ayqekunku"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Hechos 17:10-15",
+    "today": "kunan Veria, Grecia",
+    "note": "Simita kikinku qhawaq 'sumaq-sonqo' runakuna.",
+    "events": [
+     "Simita tukuy sonqowan chaskinku",
+     "Sapa p'unchay Qelqakunata maskhanku cheqaqchus kasqanta qhawaspa",
+     "Askha iñiyman chayanku"
+    ]
+   },
+   "athens": {
+    "name": "Atenas",
+    "book": "Hechos 17:16-34",
+    "today": "kunan Atenas, Grecia",
+    "note": "Filósofokunaq llaqtanpi 'mana reqsisqa Diosta' willan.",
+    "events": [
+     "Diosllakunawan hunt'asqa llaqtawan phiñachisqa",
+     "Areópagopi Kamaqta kawsarimpuytawan willan",
+     "Asipayasqa, ichaqa wakinkuna iñinku"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Hechos 18 · 1–2 Corintios",
+    "today": "kunan Grecia",
+    "note": "Huk watawan kuskan qhepan, mana allin llaqtapi iglesiata tarpuspa.",
+    "events": [
+     "Aquilawan Priscilawan carpakunata ruwan",
+     "«Ama manchakuychu… ñoqan qanwan kashani»",
+     "Askha corinto runakuna iñinku bautizakunkutaq"
+    ]
+   },
+   "ephesus": {
+    "name": "Éfeso",
+    "book": "Hechos 19 · Efesios",
+    "today": "kunan Selçuk, Turquía",
+    "note": "Kimsa kaq puriypa sonqon — simiqa Asianta mastarin.",
+    "events": [
+     "Iskay watapi sapa p'unchay Tirannop yachana wasinpi yachachin",
+     "Layqa qelqakuna rupachisqa; atiyniyoq ruwaykuna",
+     "Qollqe-llank'aq Demetrio ch'aqwata hatarichin"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Hechos 20:17-38",
+    "today": "kunan Turquía",
+    "note": "Éfesop kurakkunaman weqewan kacharikuy.",
+    "events": [
+     "«Kikin yawarninwan rantisqan iglesiata michiychis»",
+     "Kurakkuna waqanku, manaña payta rikunankuta yachaspa"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Hechos 23–26",
+    "today": "kunan Israelpa qocha kantun",
+    "note": "Iskay watapi Allin Willakuyta kamachiqkunaq reypa ñawpaqenpi amachan.",
+    "events": [
+     "Kamachiq Félixwan Festowan ñawpaqenpi juiciokuna",
+     "Rey Agripap ñawpaqenpi amachakuynin",
+     "«Césarman mañakuni» — Romaman"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalén",
+    "book": "Hechos 21–23",
+    "today": "kunan Jerusalén",
+    "note": "Templopi hap'isqa, presochasqa ñannin qallarin.",
+    "events": [
+     "Templopi runakunawan hap'isqa",
+     "Consejop ñawpaqenpi kikinta amachan",
+     "Romano runa kaspa, Cesareaman qhawarisqa kachasqa"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Hechos 27:5-6",
+    "today": "kunan Demre, Turquía",
+    "note": "Romaman puriq huk alejandrino barcoman tikranku.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Allin Puertokuna (Creta)",
+    "book": "Hechos 27:8-12",
+    "today": "kunan Creta",
+    "note": "Pablopa ama barcopi puriychu willanan mana uyarisqachu.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tito",
+    "today": "kunan Creta",
+    "note": "Kacharisqa qhepan, wat'a maypichus Titota iglesiakunata allichananpaq saqen.",
+    "events": [
+     "Titota saqen sapa llaqtapi kurakkunata churananpaq",
+     "Mana huchachanapaq, hunt'aq umallikunata mañakun",
+     "Titoman cartata qelqan"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Hechos 27–28",
+    "today": "kunan Malta",
+    "note": "Wayra-para barcop p'akiyninwanpas, Diospa prometeynin takyan.",
+    "events": [
+     "'Euroclidón' barcota thunichin, ichaqa lliw 276 kawsanku",
+     "Katari kanisqa, mana imapas ruwasqachu",
+     "Wat'ap onqosqankunata hampin"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Hechos 28:12",
+    "today": "kunan Sicilia, Italia",
+    "note": "Siciliapi kimsa p'unchay qhepanku.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Hechos 28:13-14",
+    "today": "kunan Pozzuoli, Italia",
+    "note": "Italiaman uraykunku iñiq wawqekunawantaq chaskisqa.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Hechos 28 · Carcelmanta Cartakuna · 2 Timoteo",
+    "today": "kunan Roma, Italia",
+    "note": "Allin Willakuy tukuyninpi imperiop sonqonman chayan — manan tukukuychu, aswanpas qallariymi.",
+    "events": [
+     "Iskay watapi wasinpi presochasqa, mana manchakuspa Diospa suyunta willan",
+     "Kaymanta Carcelmanta Cartakunata qelqan (Ef·Fil·Col·Flm)",
+     "Qhepata yapamanta presochasqa, 2 Timoteota qelqan wañuchisqataq — «Allin maqanakuypi maqanakurqani, purinaytaq tukurqani»"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterráneo Mama-Qocha",
+   "Egeo Mama-Qocha",
+   "Asia Menor",
+   "Macedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Ñawpaq puriy",
+   "j2": "Iskay kaq puriy",
+   "j3": "Kimsa kaq puriy",
+   "rome": "Tawa kaq puriy · Romaman",
+   "j5": "Pichqa kaq puriy · kacharisqa qhepan"
+  }
+ }
+}
