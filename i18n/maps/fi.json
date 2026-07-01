@@ -1,0 +1,636 @@
+{
+ "menuName": "Suomi",
+ "htmlLang": "fi",
+ "dir": "ltr",
+ "locale": "fi-FI",
+ "brand": "Raamattu yhdellä vierityksellä",
+ "docTitle": "Raamattu kartalla · Raamattu yhdellä vierityksellä",
+ "metaDesc": "Seuraa Vanhan testamentin aikajanaa, Jeesuksen elämää ja Paavalin matkoja oikealla kartalla — Raamattu tapahtui todellisissa paikoissa.",
+ "s": {
+  "kicker": "Raamattu yhdellä vierityksellä · Kartat",
+  "title": "Raamattu kartalla",
+  "verse": "“Emmehän me, silloin kun saatoimme teidän tietoonne Herramme Jeesuksen Kristuksen voiman ja tulemisen, olleet lähteneet seuraamaan mitään ovelasti sepitettyjä taruja, vaan olimme omin silmin saaneet nähdä hänen jumalallisen suuruutensa.” (Toinen Pietarin kirje 1:16)",
+  "purpose": "Raamattu ei ole myytti. Se on kertomus ihmisistä, jotka kulkivat todellisissa paikoissa, todellisina aikoina ja todellisin nimin. Seuraa noita reittejä kartalla aikajärjestyksessä — napauta pistettä tai paina ▶ käydäksesi sen läpi askel askeleelta.",
+  "ot_kick": "① Vanha testamentti — läpi aikojen",
+  "ot_h": "Luomisesta paluuseen Jerusalemiin",
+  "ot_lead": "Ei yksittäinen matka vaan lunastushistorian kulku luomisesta eteenpäin: luominen ja lankeemus → vedenpaisumus ja Babel → kutsu (Abraham) → luvattu maa → lähtö Egyptistä → erämaa → valloitus → kuningaskunta → jakautuminen → pakkosiirtolaisuus → paluu.",
+  "je_kick": "② Uusi testamentti — Jeesuksen elämä",
+  "je_h": "Betlehemistä Jerusalemiin",
+  "je_lead": "Seuraa Jeesuksen elämää siinä järjestyksessä kuin evankeliumit sen kertovat — hänen syntymästään Betlehemissä kasteen ja Galilean palvelutyön kautta, Samarian halki, ristiin, ylösnousemukseen ja taivaaseen astumiseen Jerusalemissa.",
+  "pa_kick": "③ Uusi testamentti — Paavalin matkat",
+  "pa_h": "Antiokiasta maan ääriin — Roomaan",
+  "pa_lead": "Jerusalemin helluntaista siihen, kuinka evankeliumi levisi Juudean ulkopuolelle — Vähän-Aasian ja Euroopan halki valtakunnan sydämeen. Valitse yksi viidestä matkasta (1.·2.·3. + matka Roomaan + vapautumisen jälkeen) ja seuraa Apostolien tekojen tapahtumia niiden kirjeiden kanssa, jotka kirjoitettiin matkan varrella.",
+  "foot": "Lähteet · Paikat noudattavat Raamatun tekstiä ja tavanomaista raamatunmaantiedettä (nykynimin siellä, missä siitä on apua). Rannikot, joet ja järvet on piirretty avoimesta maantieteellisestä aineistosta (Natural Earth), yksinkertaistettuina.",
+  "contact": "Kysymykset · palaute — <a id=\"contact\" class=\"mail\">Lähetä sähköpostia</a>",
+  "play": "Toista",
+  "pause": "Tauko",
+  "today": "Nykyään:",
+  "verseCite": "Toinen Pietarin kirje 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eeden (luominen · lankeemus)",
+    "book": "Ensimmäinen Mooseksen kirja 1–3",
+    "today": "nykyinen Tigris–Eufrat-alue",
+    "note": "Sangen hyväksi luotuun maailmaan astuu synti ja katkaisee Jumalan ja ihmisen välisen siteen.",
+    "events": [
+     "Luominen kuudessa päivässä — «kaikki oli hyvää»",
+     "Ihminen luotu Jumalan kuvaksi",
+     "Lankeemus ja karkotus Eedenistä",
+     "Evankeliumin ensimmäinen lupaus — «naisen suku murskaa käärmeen pään»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (vedenpaisumus)",
+    "book": "Ensimmäinen Mooseksen kirja 6–9",
+    "today": "nykyinen Araratvuori, Itä-Turkki",
+    "note": "Jumala tuomitsee synnin täyttämän maailman mutta säilyttää elämän yhden perheen kautta.",
+    "events": [
+     "Turmeluksen täyttämä maailma",
+     "Vedenpaisumus ja Nooan arkki",
+     "Sateenkaariliitto — «ei koskaan enää vedenpaisumusta tuhoamaan»"
+    ]
+   },
+   "babel": {
+    "name": "Baabelin torni",
+    "book": "Ensimmäinen Mooseksen kirja 11",
+    "today": "nykyinen Irak (Sinearin tasanko)",
+    "note": "Ylpeyttä vastaan, joka kurottaa taivaaseen, Jumala sekoittaa heidän kielensä ja hajottaa kansat yli maan.",
+    "events": [
+     "«Rakentakaamme kaupunki ja torni… ja tehkäämme itsellemme nimi»",
+     "Jumala sekoittaa heidän kielensä",
+     "Kansat hajaantuvat yli maan (Sinear — myöhemmin Babylonia)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Ensimmäinen Mooseksen kirja 12",
+    "today": "nykyinen Etelä-Irak",
+    "note": "Raamatun lunastuksen kertomus alkaa yhden miehen kutsumisesta.",
+    "events": [
+     "Jumala kutsuu Abramin pois kaldealaisten Urista",
+     "«Minä teen sinusta suuren kansan… kaikki kansat saavat sinun kauttasi siunauksen»",
+     "Uskossa hän lähtee kotimaastaan"
+    ]
+   },
+   "haran": {
+    "name": "Harran",
+    "book": "Ensimmäinen Mooseksen kirja 12",
+    "today": "nykyinen Etelä-Turkki",
+    "note": "Matkalla, vastaten kutsuun kohti luvattua maata.",
+    "events": [
+     "Terahin perhe asettuu Harraniin",
+     "Terah kuolee",
+     "Abram lähtee Kanaaniin 75-vuotiaana"
+    ]
+   },
+   "shechem": {
+    "name": "Sikem · Kanaan",
+    "book": "Ensimmäinen Mooseksen kirja 12–50",
+    "today": "nykyinen Nablus",
+    "note": "Luvatussa maassa perustetaan suku ja liitto siirtyy sukupolvelta toiselle.",
+    "events": [
+     "Kanaaniin saapuminen, ensimmäinen alttari — «sinun jälkeläisillesi minä annan tämän maan»",
+     "Liitto (1. Moos. 15) · Iisak · Jaakob",
+     "Jaakobin kaksitoista poikaa — kahdentoista heimon juuri"
+    ]
+   },
+   "egypt": {
+    "name": "Egypti (Gosen)",
+    "book": "Ensimmäinen Mooseksen kirja 37–50 · Toinen Mooseksen kirja 1",
+    "today": "nykyinen Niilin suisto, Egypti",
+    "note": "Perheestä tulee suuri kansa — ja sitten orjien kansa.",
+    "events": [
+     "Joosef, joka myytiin pois, nousee Egyptin hallitsijaksi",
+     "Jaakobin koko perhe tulee alas paetakseen nälänhätää",
+     "Kasvava Israelin kansa orjuutetaan"
+    ]
+   },
+   "sinai": {
+    "name": "Siinainvuori",
+    "book": "Toinen Mooseksen kirja · Kolmas Mooseksen kirja",
+    "today": "nykyinen Siinain niemimaa",
+    "note": "VT:n keskeinen pelastus — orjista tulee Jumalan oma kansa.",
+    "events": [
+     "Kymmenen vitsausta ja pääsiäislammas",
+     "Kaislameri aukeaa ja he ylittävät sen",
+     "Kymmenen käskyä, laki, ilmestysmaja ja uhrit"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (erämaa)",
+    "book": "Neljäs Mooseksen kirja · Viides Mooseksen kirja",
+    "today": "nykyinen Siinain–Negevin erämaa",
+    "note": "Epäusko maksaa sukupolvelle maan — mutta Jumala pysyy heidän kanssaan.",
+    "events": [
+     "Kaksitoista vakoojaa — mutta kansa kieltäytyy luottamasta",
+     "38 vuotta erämaassa — manna, pilvi ja tuli",
+     "Mooabin tasangoilla Mooseksen viimeinen puhe (Viides Mooseksen kirja)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Joosuan kirja",
+    "today": "nykyinen Jeriko",
+    "note": "Vihdoin he astuvat sisään ja ottavat luvatun maan haltuunsa.",
+    "events": [
+     "Jordan aukeaa ja kansa ylittää sen",
+     "Jerikon muurit sortuvat",
+     "Kanaanin valloitus ja maan jakaminen"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (tuomarit)",
+    "book": "Tuomarien kirja · Ruut",
+    "today": "nykyinen Khirbet Seilun",
+    "note": "Ilman kuningasta jokainen tekee niin kuin itse hyväksi näkee — tarvitaan tosi kuningas.",
+    "events": [
+     "Ilmestysmaja pystytetään Siloon",
+     "Kierre synti–sorto–pelastus (Debora, Gideon, Simson)",
+     "Ruut — uskollisuus pimeinä päivinä, Daavidin sukulinjassa"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · yhtenäinen kuningaskunta",
+    "book": "Ensimmäinen ja Toinen Samuelin kirja · Ensimmäinen kuninkaiden kirja",
+    "today": "nykyinen Jerusalem",
+    "note": "Israelin kulta-aika — ja lupaus ikuisesta kuninkaasta.",
+    "events": [
+     "Saul ensimmäinen kuningas, sitten Daavid ja Goljat",
+     "Liitto Daavidin kanssa — «valtaistuimesi on kestävä ikuisesti» (2. Sam. 7)",
+     "Salomo rakentaa temppelin Jerusalemiin"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · jakautunut kuningaskunta",
+    "book": "Kuninkaiden kirjat · profeetat",
+    "today": "nykyinen Sebastia",
+    "note": "Kuningaskunta jakautuu ja rappeutuu, kun profeetat huutavat.",
+    "events": [
+     "Salomon jälkeen jako Juudaan ja Israeliin",
+     "Toistuva epäjumalanpalvelus",
+     "Elia, Jesaja, Jeremia huutavat «kääntykää» — ja ennustavat Messiasta"
+    ]
+   },
+   "nineveh": {
+    "name": "Niinive (Assyria)",
+    "book": "Toinen kuninkaiden kirja 17 · Joonan kirja",
+    "today": "nykyinen Mosul, Irak",
+    "note": "Sivuuttaen jokaisen varoituksen pohjoinen kaatuu ensin.",
+    "events": [
+     "Niinive, Assyrian pääkaupunki",
+     "Pohjoinen kuningaskunta kukistuu Assyrialle (722 eKr.)",
+     "Joona lähetetään Niiniveen"
+    ]
+   },
+   "babylon": {
+    "name": "Babylon",
+    "book": "Toinen kuninkaiden kirja 25 · Danielin kirja · Hesekielin kirja",
+    "today": "nykyinen Hilla, Irak",
+    "note": "Synkin yö — mutta ennallistuksen lupaus pysyy.",
+    "events": [
+     "Jerusalem kaatuu, temppeli poltetaan (586 eKr.)",
+     "Juuda viedään Babyloniaan",
+     "Daniel ja Hesekiel — uskoa ja näkyjä pakkosiirtolaisuudessa"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Esterin kirja · Nehemian kirja",
+    "today": "nykyinen Shush, Iran",
+    "note": "Pakanavaltakunnan sydämessäkin Jumala varjelee kansansa.",
+    "events": [
+     "Persia kukistaa Babylonian",
+     "Ester pelastaa juutalaiset tuholta",
+     "Nehemia rukoilee kuninkaan edessä ja lähetetään"
+    ]
+   },
+   "return": {
+    "name": "Paluu Jerusalemiin",
+    "book": "Esran kirja · Nehemian kirja · Malakian kirja",
+    "today": "nykyinen Jerusalem",
+    "note": "He palaavat ja rakentavat jälleen — mutta kuningasta ei ole tullut. He odottavat Messiasta.",
+    "events": [
+     "Kolme paluun aaltoa Kyyroksen käskyllä (Serubbabel 538 · Esra 458 · Nehemia 444)",
+     "Temppeli rakennetaan uudelleen ja Jerusalemin muurit ennallistetaan",
+     "Malakia — VT päättyy: «Minä lähetän sanansaattajani»"
+    ]
+   }
+  },
+  "labels": [
+   "Välimeri",
+   "Mesopotamia",
+   "Arabian aavikko",
+   "Egypti"
+  ],
+  "journeys": {
+   "flow": "Lunastuksen kertomus"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Evankeliumi Matteuksen mukaan 1–2 · Evankeliumi Luukkaan mukaan 2",
+    "today": "nykyinen Betlehem",
+    "note": "Luvattu Messias tulee Daavidin kaupunkiin — Sana tuli lihaksi.",
+    "events": [
+     "Syntyy Betlehemissä, Daavidin kaupungissa",
+     "Enkelit ilmoittavat sanoman paimenille",
+     "Tietäjät tulevat kumartamaan"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasaret",
+    "book": "Evankeliumi Luukkaan mukaan 2 · 4",
+    "today": "nykyinen Nasaret",
+    "note": "Jumala kasvaa ihmisenä tavallisessa kaupungissa.",
+    "events": [
+     "Kasvaa puusepän kodissa",
+     "Kaksitoistavuotiaana kyselee ja vastaa temppelissä",
+     "Myöhemmin torjutaan kotikaupunkinsa synagogassa"
+    ]
+   },
+   "jordan": {
+    "name": "Jordanvirta",
+    "book": "Evankeliumi Matteuksen mukaan 3–4",
+    "today": "nykyinen alempi Jordan",
+    "note": "Hänen julkinen palvelutyönsä alkaa — taivas sinetöi hänet Pojaksi.",
+    "events": [
+     "Johannes kastaa hänet",
+     "Henki laskeutuu kyyhkysen tavoin — «Tämä on minun rakas Poikani»",
+     "Voittaa Saatanan kolme kiusausta erämaassa"
+    ]
+   },
+   "cana": {
+    "name": "Kaana",
+    "book": "Evankeliumi Johanneksen mukaan 2",
+    "today": "nykyinen Kafr Kanna",
+    "note": "Ensimmäisessä tunnusteossaan hän ilmaisee kirkkautensa.",
+    "events": [
+     "Vieraana häissä",
+     "Vesi muuttuu viiniksi — hänen ensimmäinen tunnustekonsa",
+     "Hänen opetuslapsensa uskovat häneen"
+    ]
+   },
+   "sychar": {
+    "name": "Sykar (Samaria)",
+    "book": "Evankeliumi Johanneksen mukaan 2–4",
+    "today": "nykyinen Nablusin lähistö",
+    "note": "Varhaisen palvelutyön tie — Jerusalemin kautta ja edelleen halveksittuun Samariaan.",
+    "events": [
+     "Hän puhdistaa temppelin Jerusalemissa",
+     "Yöllä Nikodemos — «Teidän täytyy syntyä uudesti, ylhäältä»",
+     "Elävää vettä samarialaiselle naiselle"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Evankeliumi Matteuksen mukaan 4–13 · Evankeliumi Markuksen mukaan 1–4",
+    "today": "nykyinen Galilean järven ranta",
+    "note": "Galilean palvelutyön tukikohta — kutsu, opetus ja vastustus kohtaavat kaikki tässä.",
+    "events": [
+     "Kutsuu kalastajat ja asettuu tänne",
+     "Vuorisaarna — «Autuaita ovat hengessään köyhät»",
+     "Vertaukset valtakunnasta — ja kasvava vastustus"
+    ]
+   },
+   "galilee": {
+    "name": "Galileanjärvi",
+    "book": "Evankeliumi Markuksen mukaan 4 · 6 · Evankeliumi Johanneksen mukaan 6",
+    "today": "nykyinen Kinneretjärvi",
+    "note": "Vallallaan luonnon yli hän osoittaa, kuka hän on.",
+    "events": [
+     "«Vaikene, ole hiljaa» — hän tyynnyttää myrskyn",
+     "Ruokkii 5 000 viidellä leivällä ja kahdella kalalla",
+     "Kävelee veden päällä"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Filippoksen Kesarea",
+    "book": "Evankeliumi Matteuksen mukaan 16–17",
+    "today": "nykyinen Banias",
+    "note": "Opetuslapset käsittävät, että hän on Kristus, ja ristin tie avautuu.",
+    "events": [
+     "Pietarin tunnustus — «Sinä olet Kristus, elävän Jumalan Poika»",
+     "Hän ennustaa ensimmäisen kerran kuolemansa ja ylösnousemuksensa",
+     "Kirkastuu kirkkaudessa vuorella"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Evankeliumi Luukkaan mukaan 18–19",
+    "today": "nykyinen Jeriko",
+    "note": "Ylös Jerusalemiin johtavalla tiellä hän etsii kadonnutta.",
+    "events": [
+     "Hän antaa näön sokealle Bartimaiokselle",
+     "Hän kutsuu publikaani Sakkeuksen",
+     "«Ihmisen Poika on tullut etsimään ja pelastamaan sitä, mikä on kadonnut»"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Evankeliumi Johanneksen mukaan 11–12",
+    "today": "nykyinen al-Eizariya",
+    "note": "Hän osoittaa valtansa kuoleman yli viimeisen viikkonsa aattona.",
+    "events": [
+     "Hän herättää Lasaruksen haudasta — «Minä olen ylösnousemus ja elämä»",
+     "Maria voitelee hänet hautaamista varten",
+     "Tämä tunnusteko kovettaa juonen surmata hänet"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Evankeliumi Matteuksen mukaan 21–28 · Evankeliumi Luukkaan mukaan 24 · Apostolien teot 1",
+    "today": "nykyinen Jerusalem",
+    "note": "Huipentuma, johon koko Raamattu osoittaa — risti, ylösnousemus, taivaaseen astuminen.",
+    "events": [
+     "Riemusaatto; hän kaataa jälleen temppelin pöydät",
+     "Viimeisellä aterialla hän pesee opetuslasten jalat",
+     "Hän kuolee ristillä",
+     "Nousee kolmantena päivänä, sitten astuu taivaaseen"
+    ]
+   }
+  },
+  "labels": [
+   "Välimeri",
+   "Galilea",
+   "Samaria",
+   "Juudea",
+   "Dekapolis",
+   "Perea",
+   "Kuollutmeri"
+  ],
+  "journeys": {
+   "life": "Jeesuksen tie"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Apostolien teot 13 · 15",
+    "today": "nykyinen Antakya, Turkki",
+    "note": "Lähettävä seurakunta, josta pakanalähetys alkaa ja johon se palaa.",
+    "events": [
+     "Rukouksessa Henki erottaa Barnabaksen ja Saulin",
+     "Seurakunta, jossa opetuslapsia alettiin ensiksi kutsua «kristityiksi»",
+     "1., 2. ja 3. matkan lähtöpiste"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Apostolien teot 13:4",
+    "today": "nykyinen Turkki",
+    "note": "Antiokian satama — he purjehtivat Kyprokselle.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Kypros)",
+    "book": "Apostolien teot 13:5",
+    "today": "nykyinen Kypros",
+    "note": "Ensimmäinen pysähdys Kyproksella — saarnaa synagogissa.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Apostolien teot 13:6-12",
+    "today": "nykyinen Kypros",
+    "note": "Voima osoitetaan niitä vastaan, jotka vastustavat evankeliumia.",
+    "events": [
+     "Noita Elymas sokaistaan",
+     "Käskynhaltija Sergius Paulus uskoo",
+     "Tästä lähtien «Paavali» ottaa johdon"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Apostolien teot 13:13",
+    "today": "nykyinen Antalya, Turkki",
+    "note": "Pamfylian satama — täällä Johannes Markus kääntyy takaisin.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidian Antiokia",
+    "book": "Apostolien teot 13:14-50",
+    "today": "nykyinen Yalvaç, Turkki",
+    "note": "Evankeliumi aukeaa kohti pakanoita.",
+    "events": [
+     "Pitkä pelastushistorian saarna synagogassa",
+     "Monet pakanat iloitsevat ja ottavat sanan vastaan",
+     "Ajetaan pois vastustuksen tähden"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonion",
+    "book": "Apostolien teot 14:1-7",
+    "today": "nykyinen Konya, Turkki",
+    "note": "Monet uskovat, mutta vaino pakottaa heidät jatkamaan.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lystra",
+    "book": "Apostolien teot 14:8-20",
+    "today": "nykyinen Turkki",
+    "note": "Ylistetään jumalana, sitten kivitetään.",
+    "events": [
+     "Parantaa syntymästään rammän miehen",
+     "Väkijoukko yrittää uhrata heille kuin jumalille",
+     "Kivitetään ja jätetään kuolleeksi luultuna, mutta hän nousee ylös"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Apostolien teot 14:20-21",
+    "today": "nykyinen Turkki",
+    "note": "Monta opetuslasta saadaan; he palaavat samaa tietä vahvistaakseen seurakuntia.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Apostolien teot 16:8-10",
+    "today": "nykyinen Turkki",
+    "note": "Käännekohta, jossa evankeliumi suuntautuu ensi kertaa Eurooppaan.",
+    "events": [
+     "Näky makedonialaisesta miehestä",
+     "«Tule Makedoniaan ja auta meitä»",
+     "He ylittävät heti Eurooppaan"
+    ]
+   },
+   "philippi": {
+    "name": "Filippi",
+    "book": "Apostolien teot 16 · Kirje filippiläisille",
+    "today": "nykyinen Pohjois-Kreikka",
+    "note": "Euroopan ensimmäinen seurakunta — evankeliumi voittaa vankilassakin.",
+    "events": [
+     "Purppurakauppias Lyydia uskoo",
+     "Ennustava orjatyttö vapautetaan",
+     "Keskiyön virret, maanjäristys, vanginvartijan perhekunta pelastuu"
+    ]
+   },
+   "thess": {
+    "name": "Tessalonika",
+    "book": "Apostolien teot 17 · Ensimmäinen ja Toinen kirje tessalonikalaisille",
+    "today": "nykyinen Thessaloniki, Kreikka",
+    "note": "Sana järisyttää kaupunkia ja vastustus kuohuu yli.",
+    "events": [
+     "Puhuu synagogassa kolmena sapattina",
+     "«Nämä, jotka ovat panneet koko maailman sekaisin»",
+     "He livahtavat pois yöllä"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Apostolien teot 17:10-15",
+    "today": "nykyinen Veria, Kreikka",
+    "note": "Nuo «jalot», jotka tutkivat sanan itse.",
+    "events": [
+     "He ottavat sanan innokkaasti vastaan",
+     "Päivittäin he tutkivat kirjoituksia tarkistaakseen sen",
+     "Monet tulevat uskoon"
+    ]
+   },
+   "athens": {
+    "name": "Ateena",
+    "book": "Apostolien teot 17:16-34",
+    "today": "nykyinen Ateena, Kreikka",
+    "note": "Filosofien kaupungissa hän julistaa «tuntematonta jumalaa».",
+    "events": [
+     "Epäjumalia täynnä oleva kaupunki kuohuttaa häntä",
+     "Areiopagilla hän saarnaa Luojaa ja ylösnousemusta",
+     "Pilkataan, mutta muutamat uskovat"
+    ]
+   },
+   "corinth": {
+    "name": "Korintti",
+    "book": "Apostolien teot 18 · Ensimmäinen ja Toinen kirje korinttilaisille",
+    "today": "nykyinen Kreikka",
+    "note": "Hän viipyy puolitoista vuotta perustaen seurakunnan paheiden kaupunkiin.",
+    "events": [
+     "Tekee telttoja Aquilan ja Priscillan kanssa",
+     "«Älä pelkää… sillä minä olen sinun kanssasi»",
+     "Monet korinttilaiset uskovat ja kastetaan"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesos",
+    "book": "Apostolien teot 19 · Kirje efesolaisille",
+    "today": "nykyinen Selçuk, Turkki",
+    "note": "Kolmannen matkan sydän — sana leviää halki Aasian.",
+    "events": [
+     "Päivittäistä opetusta kaksi vuotta Tyrannoksen koulussa",
+     "Taikakirjat poltetaan; voimallisia tekoja",
+     "Hopeaseppä Demetrios nostaa mellakan"
+    ]
+   },
+   "miletus": {
+    "name": "Miletos",
+    "book": "Apostolien teot 20:17-38",
+    "today": "nykyinen Turkki",
+    "note": "Kyynelinen jäähyväiset Efesoksen vanhimmille.",
+    "events": [
+     "«Pitäkää huolta seurakunnasta, jonka hän omalla verellään on hankkinut»",
+     "Vanhimmat itkevät tietäen, etteivät näe häntä enää"
+    ]
+   },
+   "caesarea": {
+    "name": "Kesarea",
+    "book": "Apostolien teot 23–26",
+    "today": "nykyinen Israelin rannikko",
+    "note": "Kaksi vuotta hän puolustaa evankeliumia maaherrojen ja kuninkaan edessä.",
+    "events": [
+     "Oikeudenkäynnit maaherrojen Feliksin ja Festuksen edessä",
+     "Hänen puolustuksensa kuningas Agrippan edessä",
+     "«Minä vetoan keisariin» — kohti Roomaa"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Apostolien teot 21–23",
+    "today": "nykyinen Jerusalem",
+    "note": "Temppelissä vangittuna hänen tiensä vankina alkaa.",
+    "events": [
+     "Väkijoukko ottaa hänet kiinni temppelissä",
+     "Puolustautuu neuvoston edessä",
+     "Roomalaisena kansalaisena hänet lähetetään vartioituna Kesareaan"
+    ]
+   },
+   "myra": {
+    "name": "Myra",
+    "book": "Apostolien teot 27:5-6",
+    "today": "nykyinen Demre, Turkki",
+    "note": "He siirtyvät aleksandrialaiseen laivaan, joka on menossa Roomaan.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Kauniit Satamat (Kreeta)",
+    "book": "Apostolien teot 27:8-12",
+    "today": "nykyinen Kreeta",
+    "note": "Paavalin varoitusta purjehduksen lopettamisesta ei kuunnella.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreeta",
+    "book": "Kirje Titukselle",
+    "today": "nykyinen Kreeta",
+    "note": "Vapautumisensa jälkeen saari, jonne hän jättää Tituksen järjestämään seurakunnat.",
+    "events": [
+     "Jättää Tituksen asettamaan vanhimmat joka kaupunkiin",
+     "Kutsuu nuhteettomia, uskollisia johtajia",
+     "Kirjoittaa kirjeen Titukselle"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Apostolien teot 27–28",
+    "today": "nykyinen Malta",
+    "note": "Myrskyn ja haaksirikon läpi Jumalan lupaus pitää.",
+    "events": [
+     "«Koillistuuli» hajottaa laivan, mutta kaikki 276 pelastuvat",
+     "Kyykäärme puree häntä, mutta hän on vahingoittumaton",
+     "Hän parantaa saaren sairaat"
+    ]
+   },
+   "syracuse": {
+    "name": "Syrakusa",
+    "book": "Apostolien teot 28:12",
+    "today": "nykyinen Sisilia, Italia",
+    "note": "He viipyvät kolme päivää Sisiliassa.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Apostolien teot 28:13-14",
+    "today": "nykyinen Pozzuoli, Italia",
+    "note": "He laskeutuvat maihin Italiassa, ja uskonveljet ottavat heidät vastaan.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rooma",
+    "book": "Apostolien teot 28 · vankeuskirjeet · Toinen kirje Timoteukselle",
+    "today": "nykyinen Rooma, Italia",
+    "note": "Evankeliumi saavuttaa vihdoin valtakunnan sydämen — ei loppu vaan alku.",
+    "events": [
+     "Kaksi vuotta kotiarestissa, rohkeasti julistaen valtakuntaa",
+     "Täältä hän kirjoittaa vankeuskirjeet (Ef.·Fil.·Kol.·Filem.)",
+     "Myöhemmin jälleen vankilassa hän kirjoittaa Toisen kirjeen Timoteukselle ja kärsii marttyyrikuoleman — «Olen kilpaillut hyvän kilpailun, olen juossut perille»"
+    ]
+   }
+  },
+  "labels": [
+   "Välimeri",
+   "Egeanmeri",
+   "Vähä-Aasia",
+   "Makedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Ensimmäinen matka",
+   "j2": "Toinen matka",
+   "j3": "Kolmas matka",
+   "rome": "Neljäs matka · Roomaan",
+   "j5": "Viides matka · vapautumisen jälkeen"
+  }
+ }
+}

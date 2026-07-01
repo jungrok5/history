@@ -1,0 +1,636 @@
+{
+ "menuName": "Sesotho",
+ "htmlLang": "st",
+ "dir": "ltr",
+ "locale": "st-ZA",
+ "brand": "Bibele ka ho phetla ha le le leng",
+ "docTitle": "Bibele ka 'mapa · Bibele ka ho phetla ha le le leng",
+ "metaDesc": "Latela tatellano ya Testamente ya Kgale, bophelo ba Jesu, le maeto a Paulose hodima 'mapa wa sebele — Bibele e etsahetse dibakeng tsa sebele.",
+ "s": {
+  "kicker": "Bibele ka ho phetla ha le le leng · Dimmapa",
+  "title": "Bibele ka 'mapa",
+  "verse": "“Ha re le tsebisa tsa matla a Morena wa rona Jesu Kreste le tsa ho tla ha hae, re ne re sa bue ka ditshomo tse qapilweng ka bohlale, empa re ne re bua re le dipaki tse boneng botlotlehi ba hae.” (2 Petrose 1:16)",
+  "purpose": "Bibele hase tshomo. Ke tlaleho ya batho ba tsamaileng dibakeng, matsatsing, le mabitsong a sebele. Latela ditsela tseo hodima 'mapa, ka tatellano ya nako — tobetsa ntlha, kapa o tobetse ▶ ho tsamaya ka yona mohato ka mohato.",
+  "ot_kick": "① Testamente ya Kgale — ho pharalla nako",
+  "ot_h": "Ho tloha tlhōlong ho fihla ho kgutlela Jerusalema",
+  "ot_lead": "E seng leeto le le leng feela empa ke phallo ya histori ya topollo ho tloha tlhōlong: tlhōlo le ho wa → moroallo le Babele → pitso (Aborahama) → naha e tshepisitsweng → Phallo → lehwatateng → ho hapa → mmuso → ho arohana → botlamuwa → ho kgutla.",
+  "je_kick": "② Testamente e Ntjha — bophelo ba Jesu",
+  "je_h": "Ho tloha Bethlehema ho fihla Jerusalema",
+  "je_lead": "Latela bophelo ba Jesu kamoo Dievangedi di bo pheta, ka tatellano — ho tloha tswalong ya hae Bethlehema, ho feta kolobetsong le tshebeletsong ya Galilea, ho pharalla Samaria, ho fihla sefapanong, tsohong le nyolohelong lehodimong Jerusalema.",
+  "pa_kick": "③ Testamente e Ntjha — maeto a Paulose",
+  "pa_h": "Ho tloha Antioke ho ya dipheletsong tsa lefatshe — Roma",
+  "pa_lead": "Ho tloha Pentekonteng Jerusalema, kamoo evangedi e ileng ya nama ka teng ka nqane ho Judea — ho feta Asia Minor le Yuropa ho fihla pelong ya 'muso. Kgetha le le leng la maeto a mahlano (la pele·la bobedi·la boraro + leeto la ho ya Roma + ka mor'a ho lokollwa) mme o latele diketsahalo tsa Diketso le mangolo a ngotsweng tseleng.",
+  "foot": "Mehlodi · Dibaka di latela mongolo wa Bibele le tshebang e tlwaelehileng ya Bibele (le mabitso a sejwale-jwale moo a thusang). Mabopo, dinoka le matsha di tswa ho data e bulehileng ya jeokrafi (Natural Earth), e nolofaditsweng.",
+  "contact": "Dipotso · maikutlo — <a id=\"contact\" class=\"mail\">Re romelle imeile</a>",
+  "play": "Bapala",
+  "pause": "Ema",
+  "today": "Kajeno:",
+  "verseCite": "2 Petrose 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edene (Tlhōlo · Ho wa)",
+    "book": "Tshimoloho 1–3",
+    "today": "sebaka sa Tigrise–Eufrate kajeno",
+    "note": "Lefatsheng le entsweng le “lokileng haholo”, sebe se a kena mme se roba kgokahano pakeng tsa Modimo le batho.",
+    "events": [
+     "Tlhōlo ka matsatsi a tsheletseng — “e ne e le e ntle”",
+     "Motho o entswe ka setshwantsho sa Modimo",
+     "Ho wa, le ho lelekwa Edene",
+     "Tshepiso ya pele ya evangedi — “madinyane a mosadi a tla kgoba hlooho ya noha”"
+    ]
+   },
+   "noah": {
+    "name": "Ararate (Moroallo)",
+    "book": "Tshimoloho 6–9",
+    "today": "Thaba ya Ararate, botjhabela ba Turkey kajeno",
+    "note": "Modimo o ahlola lefatshe le tletseng sebe, empa a boloka bophelo ka lelapa le le leng.",
+    "events": [
+     "Lefatshe le tletseng bobodu",
+     "Moroallo, le areka ya Nowe",
+     "Selekane sa mookodi — “ho ke ke ha hlola ho eba le moroallo o timetsang”"
+    ]
+   },
+   "babel": {
+    "name": "Tora ya Babele",
+    "book": "Tshimoloho 11",
+    "today": "Iraq kajeno (thota ya Shineare)",
+    "note": "Kgahlanong le boikakaso bo fihlelang lehodimo, Modimo o qhalanya puo ya bona le ditjhaba lefatsheng.",
+    "events": [
+     "“A re haheng motse le tora… mme re iketsetse lebitso”",
+     "Modimo o ferekanya puo ya bona",
+     "Ditjhaba di qhalana lefatsheng (Shineare — hamorao Babilona)"
+    ]
+   },
+   "ur": {
+    "name": "Ure",
+    "book": "Tshimoloho 12",
+    "today": "boroa ba Iraq kajeno",
+    "note": "Pale ya Bibele ya topollo e qala ka pitso ya motho a le mong.",
+    "events": [
+     "Modimo o bitsa Aborame ho tswa Ure ya Bakalde",
+     "“Ke tla o etsa setjhaba se seholo… ditjhaba tsohle di tla hlohonolofatswa ka wena”",
+     "Ka tumelo o tloha naheng ya habo"
+    ]
+   },
+   "haran": {
+    "name": "Harane",
+    "book": "Tshimoloho 12",
+    "today": "boroa ba Turkey kajeno",
+    "note": "Tseleng, a arabela pitso ho ya naheng e tshepisitsweng.",
+    "events": [
+     "Lelapa la Thare le lula Harane",
+     "Thare o a hlokahala",
+     "Aborame o tlohela Kanana a le dilemo tse 75"
+    ]
+   },
+   "shechem": {
+    "name": "Sekeme · Kanana",
+    "book": "Tshimoloho 12–50",
+    "today": "Nablus kajeno",
+    "note": "Naheng e tshepisitsweng lelapa le a thehwa mme selekane se fetela melokong.",
+    "events": [
+     "Ho kena Kanana, aletare ya pele — “ke tla nea madinyane a hao naha ena”",
+     "Selekane (Tshim 15) · Isaka · Jakobo",
+     "Bara ba Jakobo ba leshome le metso e mmedi — motso wa meloko e leshome le metso e mmedi"
+    ]
+   },
+   "egypt": {
+    "name": "Egepeta (Goshene)",
+    "book": "Tshimoloho 37–50 · Phallo 1",
+    "today": "Delta ya Nile, Egepeta kajeno",
+    "note": "Lelapa le fetoha setjhaba se seholo — jwale setjhaba sa makgoba.",
+    "events": [
+     "Josefa, ya rekisitsweng, o nyolohela borena Egepeta",
+     "Lelapa lohle la Jakobo le theohela ho balehela tlala",
+     "Setjhaba se ntseng se hola sa Iseraele se etswa makgoba"
+    ]
+   },
+   "sinai": {
+    "name": "Thaba ya Sinai",
+    "book": "Phallo · Meetlo",
+    "today": "Hloahloeng ya Sinai kajeno",
+    "note": "Topollo e kgolo ya Testamente ya Kgale — makgoba a fetoha setjhaba sa Modimo.",
+    "events": [
+     "Dikotlo tse leshome le konyana ya Paseka",
+     "Lewatle le Lefubedu le a arohana mme ba a tshela",
+     "Melao e Leshome, Molao, tabernakele le mahlabelo"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeshe (lehwatateng)",
+    "book": "Dipalo · Dipolelo",
+    "today": "lehwatate la Sinai–Negebe kajeno",
+    "note": "Ho hloka tumelo ho amoha moloko naha — leha ho le jwalo Modimo o dula le bona.",
+    "events": [
+     "Dihloela tse leshome le metso e mmedi — empa setjhaba se hana ho tshepa",
+     "Dilemo tse 38 lehwatateng — mana, leru le mollo",
+     "Thoteng ya Moabe, thero ya ho qetela ya Moshe (Dipolelo)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Joshua",
+    "today": "Jeriko kajeno",
+    "note": "Qetellong ba kena mme ba hapa naha e tshepisitsweng.",
+    "events": [
+     "Jorodane e a arohana mme setjhaba se a tshela",
+     "Marako a Jeriko a a wa",
+     "Ho hapa Kanana le ho arolwa ha naha"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Baahlodi)",
+    "book": "Baahlodi · Ruthe",
+    "today": "Khirbet Seilun kajeno",
+    "note": "Kaha ho se na kgosi, e mong le e mong o etsa kamoo a ratang — ho hlokahala kgosi ya sebele.",
+    "events": [
+     "Tabernakele e hlongwa Shilo",
+     "Potoloho ya sebe–kgatello–topollo (Debora, Gideone, Samsone)",
+     "Ruthe — botshepehi mehleng e lefifi, molokong wa Davida"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalema · Mmuso o kopaneng",
+    "book": "1–2 Samuele · 1 Dikgosi",
+    "today": "Jerusalema kajeno",
+    "note": "Mehla ya kgauta ya Iseraele — le tshepiso ya kgosi e sa feleng.",
+    "events": [
+     "Saule kgosi ya pele, ebe Davida le Goliathe",
+     "Selekane sa Davida — “terone ya hao e tla dula kamehla yohle” (2 Sam 7)",
+     "Salomone o haha tempele Jerusalema"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Mmuso o arohaneng",
+    "book": "Dikgosi · Baporofeta",
+    "today": "Sebastia kajeno",
+    "note": "Mmuso o a arohana mme o theoha ha baporofeta ba howa.",
+    "events": [
+     "Ka mor'a Salomone, ho arohana ha Juda le Iseraele",
+     "Borapedi ba medimo ya bohata bo iphetang",
+     "Elija, Esaya, Jeremia ba howa ‘kgutlang’ — mme ba bolela esale pele ka Mesia"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninebe (Asiria)",
+    "book": "2 Dikgosi 17 · Jonase",
+    "today": "Mosul, Iraq kajeno",
+    "note": "Ka ho hlokomoloha ditemoso tsohle, leboya le wa pele.",
+    "events": [
+     "Ninebe, motse-moholo wa Asiria",
+     "Mmuso wa leboya o wela Asiria (722 BC)",
+     "Jonase o romelwa Ninebe"
+    ]
+   },
+   "babylon": {
+    "name": "Babilona",
+    "book": "2 Dikgosi 25 · Daniele · Esekiele",
+    "today": "Hillah, Iraq kajeno",
+    "note": "Bosiu bo lefifi ka ho fetisisa — empa tshepiso ya tsosoloso e ntse e le teng.",
+    "events": [
+     "Jerusalema e a wa, tempele e a tjha (586 BC)",
+     "Juda e hulelwa Babilona",
+     "Daniele le Esekiele — tumelo le dipono botlamuweng"
+    ]
+   },
+   "susa": {
+    "name": "Shushane (Persia)",
+    "book": "Esthere · Nehemia",
+    "today": "Shush, Iran kajeno",
+    "note": "Esita le pelong ya 'muso wa bahedene, Modimo o boloka setjhaba sa hae.",
+    "events": [
+     "Persia e hlola Babilona",
+     "Esthere o pholosa Bajuda timetsong",
+     "Nehemia o rapela pela kgosi mme o a romelwa"
+    ]
+   },
+   "return": {
+    "name": "Ho kgutlela Jerusalema",
+    "book": "Esdrase · Nehemia · Malakiya",
+    "today": "Jerusalema kajeno",
+    "note": "Ba a kgutla mme ba a haha bocha — empa ha ho kgosi e tlileng. Ba emetse Mesia.",
+    "events": [
+     "Maqhubu a mararo a ho kgutla ka taelo ya Siru (Serubabele 538 · Esdrase 458 · Nehemia 444)",
+     "Tempele e hahwa bocha le marako a Jerusalema a lokiswa",
+     "Malakiya — Testamente ya Kgale e a kwala: “Ke tla romela leqosa la ka”"
+    ]
+   }
+  },
+  "labels": [
+   "Lewatle le Bohareng",
+   "Mesopotamia",
+   "Lehwatate la Arabia",
+   "Egepeta"
+  ],
+  "journeys": {
+   "flow": "Pale ya topollo"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bethlehema",
+    "book": "Matheu 1–2 · Luka 2",
+    "today": "Bethlehema kajeno",
+    "note": "Mesia ya tshepisitsweng o tla motseng wa Davida — Lentswe le fetohileng nama.",
+    "events": [
+     "O tswaletswe Bethlehema, motseng wa Davida",
+     "Mangeloi a tsebisa balisa ditaba",
+     "Ba bohlale ba tla ho mo khumamela"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaretha",
+    "book": "Luka 2 · 4",
+    "today": "Nazaretha kajeno",
+    "note": "Modimo o hola e le motho motseng o tlwaelehileng.",
+    "events": [
+     "O hodisitswe lelapeng la mmetli",
+     "A le lilemo tse leshome le metso e mmedi, o botsa le ho araba tempeleng",
+     "Hamorao o hanwa sinagogeng ya motse wa habo"
+    ]
+   },
+   "jordan": {
+    "name": "Noka ya Jorodane",
+    "book": "Matheu 3–4",
+    "today": "Jorodane e ka tlase kajeno",
+    "note": "Tshebeletso ya hae phatlalatsa e a qala — lehodimo le mo tiisa e le Mora.",
+    "events": [
+     "O kolobetswa ke Johanne",
+     "Moya o theoha jwaloka leeba — “Enwa ke Mora wa ka ya ratehang”",
+     "O hlola meleko e meraro ya Satane lehwatateng"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Johanne 2",
+    "today": "Kafr Kanna kajeno",
+    "note": "Mohlolong wa hae wa pele o senola tlotla ya hae.",
+    "events": [
+     "Moeti lenyalong",
+     "Metsi a fetolwa veine — mohlolo wa hae wa pele",
+     "Barutuwa ba hae ba dumela ho yena"
+    ]
+   },
+   "sychar": {
+    "name": "Sikare (Samaria)",
+    "book": "Johanne 2–4",
+    "today": "haufi le Nablus kajeno",
+    "note": "Tsela ya tshebeletso ya pele — ho feta Jerusalema ho ya Samaria e nyedisuweng.",
+    "events": [
+     "O hloekisa tempele Jerusalema",
+     "Bosiu, Nikodema — “o lokela ho tswalwa botjha”",
+     "Metsi a bophelo ho mosadi wa Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernauma",
+    "book": "Matheu 4–13 · Mareka 1–4",
+    "today": "lebopo la letsha la Galilea kajeno",
+    "note": "Motheo wa tshebeletso ya Galilea — ho bitsa, ho ruta le kganyetso di kopana mona.",
+    "events": [
+     "O bitsa batshwasi ba ditlhapi mme o iketsa motheo mona",
+     "Thuto ya Thabeng — “ho lehlohonolo ba futsanehileng moyeng”",
+     "Ditshwantsho tsa mmuso — le kganyetso e ntseng e hola"
+    ]
+   },
+   "galilee": {
+    "name": "Letsha la Galilea",
+    "book": "Mareka 4 · 6 · Johanne 6",
+    "today": "Letsha la Kinnerete kajeno",
+    "note": "Ka matla holima tlhaho o bontsha hore na ke mang.",
+    "events": [
+     "“Kgutsa, thola” — o kokobetsa sefefo",
+     "O fepa ba 5,000 ka mahobe a mahlano le ditlhapi tse pedi",
+     "O tsamaya hodima metsi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sesarea-Filipi",
+    "book": "Matheu 16–17",
+    "today": "Banias kajeno",
+    "note": "Barutuwa ba utlwisisa hore ke Kreste, mme tsela ya sefapano e a bulwa.",
+    "events": [
+     "Boipolelo ba Petrose — “O Kreste, Mora wa Modimo o phelang”",
+     "O bolela pele ka lefu le tsoho ya hae",
+     "O fetoha ponahalong ya tlotla thabeng"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Luka 18–19",
+    "today": "Jeriko kajeno",
+    "note": "Tseleng e nyolohelang Jerusalema, o batla ba lahlehileng.",
+    "events": [
+     "O foufolla sefofu Bartimea",
+     "O bitsa Sakhewu molekgetho",
+     "“Mora wa motho o tlile ho batla le ho pholosa ba lahlehileng”"
+    ]
+   },
+   "bethany": {
+    "name": "Bethania",
+    "book": "Johanne 11–12",
+    "today": "al-Eizariya kajeno",
+    "note": "O bontsha matla holima lefu leqhepheng la beke ya hae ya ho qetela.",
+    "events": [
+     "O tsosa Lazaro lebitleng — “Ke nna tsoho le bophelo”",
+     "Maria o mo tlotsa bakeng sa poloko",
+     "Mohlolo ona o thatafatsa morero wa ho mmolaya"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalema",
+    "book": "Matheu 21–28 · Luka 24 · Diketso 1",
+    "today": "Jerusalema kajeno",
+    "note": "Sehlohlolo seo Bibele yohle e se supang — sefapano, tsoho, nyolohelo.",
+    "events": [
+     "Ho kena ka tlotla; o pheta ho phethola ditafole tempeleng",
+     "Selallong sa ho Qetela o hlatswa maoto a barutuwa",
+     "O shwela sefapanong",
+     "O tsoha ka letsatsi la boraro, ebe o a nyolohela lehodimong"
+    ]
+   }
+  },
+  "labels": [
+   "Lewatle le Bohareng",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Dekapolise",
+   "Perea",
+   "Lewatle le Shweleng"
+  ],
+  "journeys": {
+   "life": "Tsela ya Jesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioke",
+    "book": "Diketso 13 · 15",
+    "today": "Antakya, Turkey kajeno",
+    "note": "Kereke e romang moo tshebeletso ho baditjhaba e qalang le ho kgutlela teng.",
+    "events": [
+     "Thapelong Moya o kgetha Barnabase le Saule",
+     "Kereke moo balumedi ba ileng ba bitswa ‘Bakreste’ ka lekgetlo la pele",
+     "Ntlha ya ho qala maeto a pele, a bobedi le a boraro"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Diketso 13:4",
+    "today": "Turkey kajeno",
+    "note": "Boemakepe ba Antioke — ba tsamaya ka sekepe ho ya Kipirose.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamise (Kipirose)",
+    "book": "Diketso 13:5",
+    "today": "Kipirose kajeno",
+    "note": "Emo ya pele Kipirose — ba bolela evangedi disinagogeng.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafose",
+    "book": "Diketso 13:6-12",
+    "today": "Kipirose kajeno",
+    "note": "Matla a bontshwa kgahlanong le ba hanang evangedi.",
+    "events": [
+     "Elima moloi o otlwa ka bofofu",
+     "Sergiuse Paulose mobusi o a dumela",
+     "Ho tloha mona ‘Paulose’ o etella pele"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Diketso 13:13",
+    "today": "Antalya, Turkey kajeno",
+    "note": "Boemakepe Pamfilia — mona Johanne Mareka o a kgutla.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioke ya Pisidia",
+    "book": "Diketso 13:14-50",
+    "today": "Yalvaç, Turkey kajeno",
+    "note": "Evangedi e a bulehela ho baditjhaba.",
+    "events": [
+     "Thero e telele ya histori ya poloko sinagogeng",
+     "Baditjhaba ba bangata ba thabela le ho amohela lentswe",
+     "Ba lelekwa ke kganyetso"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonia",
+    "book": "Diketso 14:1-7",
+    "today": "Konya, Turkey kajeno",
+    "note": "Ba bangata ba dumela, empa mahloriso a ba qobella ho tswela pele.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lisitra",
+    "book": "Diketso 14:8-20",
+    "today": "Turkey kajeno",
+    "note": "O bitswa modimo, ebe o a tlepetswa ka majwe.",
+    "events": [
+     "O fodisa monna ya holofetseng ho tloha tswalong",
+     "Bongata bo leka ho ba etsetsa mahlabelo jwaloka medimo",
+     "O tlepetswa ka majwe mme a shiuwa e ka o shwele, empa o a tsoha"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Diketso 14:20-21",
+    "today": "Turkey kajeno",
+    "note": "Ho etswa barutuwa ba bangata; ba boela morao ho matlafatsa dikereke.",
+    "events": []
+   },
+   "troas": {
+    "name": "Toroase",
+    "book": "Diketso 16:8-10",
+    "today": "Turkey kajeno",
+    "note": "Sebaka sa phetoho moo evangedi e qalang ho lebella Yuropa.",
+    "events": [
+     "Pono ya monna wa Masedonia",
+     "“Tshelela kwano o tlo re thusa”",
+     "Ba tshelela hang Yuropa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Diketso 16 · Bafilipi",
+    "today": "leboya la Greece kajeno",
+    "note": "Kereke ya pele ya Yuropa — evangedi e hlola esita le teronkong.",
+    "events": [
+     "Lidia, morekisi wa lesela le lephepheng, o a dumela",
+     "Lekgabunyane le bolelang esale pele le a lokollwa",
+     "Difela tsa bosiu, tshisinyeho ya lefatshe, lelapa la molebedi la pholoswa"
+    ]
+   },
+   "thess": {
+    "name": "Thesalonika",
+    "book": "Diketso 17 · 1–2 Bathesalonika",
+    "today": "Thessaloniki, Greece kajeno",
+    "note": "Lentswe le sisinya motse mme kganyetso e a futhumala.",
+    "events": [
+     "O buisana sinagogeng ka Disabatha tse tharo",
+     "“Bana ba fetotseng lefatshe ka hohle”",
+     "Ba iphunyeletsa bosiu"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Diketso 17:10-15",
+    "today": "Veria, Greece kajeno",
+    "note": "Ba ‘hlomphehang’ ba ileng ba hlahloba lentswe ka bobona.",
+    "events": [
+     "Ba amohela lentswe ka cheseho",
+     "Ka matsatsi ohle ba hlahloba Mangolo ho netefatsa",
+     "Ba bangata ba fihla tumelong"
+    ]
+   },
+   "athens": {
+    "name": "Athene",
+    "book": "Diketso 17:16-34",
+    "today": "Athens, Greece kajeno",
+    "note": "Motseng wa boralefilosofi o bolela ka ‘modimo o sa tsejweng’.",
+    "events": [
+     "O halefiswa ke motse o tletseng medimo ya bohata",
+     "Areopago o bolela ka Mmopi le tsoho",
+     "O a souwa, empa ba mmalwa ba dumela"
+    ]
+   },
+   "corinth": {
+    "name": "Korinthe",
+    "book": "Diketso 18 · 1–2 Bakorinthe",
+    "today": "Greece kajeno",
+    "note": "O dula selemo le halofo, a thea kereke motseng wa bobe.",
+    "events": [
+     "O etsa ditente le Akwila le Prisilla",
+     "“O se ke wa tshaba… hobane ke na le wena”",
+     "Bakorinthe ba bangata ba dumela mme ba kolobetswa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efese",
+    "book": "Diketso 19 · Baefese",
+    "today": "Selçuk, Turkey kajeno",
+    "note": "Pelo ya leeto la boraro — lentswe le nama ho pharalla Asia.",
+    "events": [
+     "Ho ruta ka matsatsi ohle ka dilemo tse pedi holong ya Turanuse",
+     "Dibuka tsa boloi di a tjhesuwa; mesebetsi e matla",
+     "Demetriuse setsebi sa silefera o qala moferefere"
+    ]
+   },
+   "miletus": {
+    "name": "Mileta",
+    "book": "Diketso 20:17-38",
+    "today": "Turkey kajeno",
+    "note": "Ho salwa hantle ka meokgo le baholo ba Efese.",
+    "events": [
+     "“Disang kereke eo a e rekileng ka madi a hae”",
+     "Baholo ba a lla, ba tseba hore ba ke ke ba mmona hape"
+    ]
+   },
+   "caesarea": {
+    "name": "Sesarea",
+    "book": "Diketso 23–26",
+    "today": "lebopo la Iseraele kajeno",
+    "note": "Ka dilemo tse pedi o sireletsa evangedi pela babusi le kgosi.",
+    "events": [
+     "Ditsheko pela babusi Felikse le Festuse",
+     "Boitshireletso ba hae pela Kgosi Ageripa",
+     "“Ke ipiletsa ho Sesare” — ho ya Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalema",
+    "book": "Diketso 21–23",
+    "today": "Jerusalema kajeno",
+    "note": "O tshwarwa tempeleng, tsela ya hae e le motlamuwa e a qala.",
+    "events": [
+     "O tshwarwa ke bongata tempeleng",
+     "O itshireletsa pela lekgotla",
+     "E le moahi wa Roma, o romelwa Sesarea a lebeletswe"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Diketso 27:5-6",
+    "today": "Demre, Turkey kajeno",
+    "note": "Ba fetela sekepeng sa Aleksandria se lebileng Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Mabopo a Matle (Kreta)",
+    "book": "Diketso 27:8-12",
+    "today": "Kreta kajeno",
+    "note": "Temoso ya Paulose ya ho emisa ho tsamaya ka sekepe ha e mamelwe.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Tite",
+    "today": "Kreta kajeno",
+    "note": "Ka mor'a ho lokollwa, sehlekehleke moo a siyang Tite ho lokisa dikereke.",
+    "events": [
+     "O siya Tite ho kgetha baholo motseng o mong le o mong",
+     "O bitsa baetapele ba se nang sekoli, ba tshepahalang",
+     "O ngola lengolo ho Tite"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Diketso 27–28",
+    "today": "Malta kajeno",
+    "note": "Ka sefefo le ho robeha ha sekepe, tshepiso ya Modimo e a tiya.",
+    "events": [
+     "‘Sefefo sa leboya-botjhabela’ se robaka sekepe, empa bohle ba 276 ba a pholoha",
+     "O longwa ke marabe, empa ha a lemale",
+     "O fodisa bakudi ba sehlekehleke"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuse",
+    "book": "Diketso 28:12",
+    "today": "Sicily, Italy kajeno",
+    "note": "Ba dula matsatsi a mararo Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Diketso 28:13-14",
+    "today": "Pozzuoli, Italy kajeno",
+    "note": "Ba fihla Italy mme ba amohelwa ke balumedi-mmoho.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Diketso 28 · Mangolo a Teronkong · 2 Timothea",
+    "today": "Roma, Italy kajeno",
+    "note": "Evangedi e fihla pelong ya 'muso qetellong — e seng pheletso empa qalo.",
+    "events": [
+     "Dilemo tse pedi tlas'a tebello ya lapeng, a bolela mmuso ka sebete",
+     "Ho tloha mona o ngola Mangolo a Teronkong (Baefese·Bafilipi·Bakolose·Filemone)",
+     "Hamorao o tlangwa hape, o ngola 2 Timothea mme o bolawa — “Ke lwanne ntwa e ntle, ke phethile lebelo”"
+    ]
+   }
+  },
+  "labels": [
+   "Lewatle le Bohareng",
+   "Lewatle la Aegea",
+   "Asia Minor",
+   "Masedonia",
+   "Italy"
+  ],
+  "journeys": {
+   "j1": "Leeto la pele",
+   "j2": "Leeto la bobedi",
+   "j3": "Leeto la boraro",
+   "rome": "Leeto la bone · ho ya Roma",
+   "j5": "Leeto la bohlano · ka mor'a ho lokollwa"
+  }
+ }
+}

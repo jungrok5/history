@@ -1,0 +1,636 @@
+{
+ "menuName": "Dansk",
+ "htmlLang": "da",
+ "dir": "ltr",
+ "locale": "da-DK",
+ "brand": "Bibelen i ét scroll",
+ "docTitle": "Bibelen på kort · Bibelen i ét scroll",
+ "metaDesc": "Følg Det Gamle Testamentes tidslinje, Jesu liv og Paulus' rejser på et virkeligt kort — Bibelen skete på virkelige steder.",
+ "s": {
+  "kicker": "Bibelen i ét scroll · Kort",
+  "title": "Bibelen på kort",
+  "verse": "“Thi vi have ikke fulgt kløgtigt opdigtede Fabler, da vi kundgjorde eder vor Herres Jesu Kristi Kraft og Tilkommelse, men vi have været Øjenvidner til hans Majestæt,” (2 Peter 1:16)",
+  "purpose": "Bibelen er ikke en myte. Den er en beretning om mennesker, der vandrede på virkelige steder, datoer og navne. Følg de veje hen over et kort, i tidsrækkefølge — tryk på et punkt, eller tryk på ▶ for at gå igennem det skridt for skridt.",
+  "ot_kick": "① Det Gamle Testamente — gennem tiden",
+  "ot_h": "Fra skabelsen til hjemkomsten til Jerusalem",
+  "ot_lead": "Ikke en enkelt rejse, men frelseshistoriens strøm fra skabelsen og fremad: skabelse og fald → syndflod og Babel → et kald (Abraham) → det forjættede land → udvandringen → ørkenen → erobringen → kongeriget → delingen → eksilet → hjemkomsten.",
+  "je_kick": "② Det Nye Testamente — Jesu liv",
+  "je_h": "Fra Betlehem til Jerusalem",
+  "je_lead": "Følg Jesu liv, som evangelierne fortæller det, i rækkefølge — fra hans fødsel i Betlehem gennem hans dåb og tjeneste i Galilæa, over Samaria, til korset, opstandelsen og himmelfarten i Jerusalem.",
+  "pa_kick": "③ Det Nye Testamente — Paulus' rejser",
+  "pa_h": "Fra Antiokia til jordens ender — Rom",
+  "pa_lead": "Fra pinsedag i Jerusalem, hvordan evangeliet bredte sig ud over Judæa — gennem Lilleasien og Europa til rigets hjerte. Vælg en af de fem rejser (1.·2.·3. + sørejsen til Rom + efter løsladelsen) og følg begivenhederne i Apostlenes Gerninger sammen med de breve, der blev skrevet undervejs.",
+  "foot": "Kilder · Steder følger den bibelske tekst og den almindelige bibelske geografi (med moderne navne, hvor det er nyttigt). Kystlinjer, floder og søer er tegnet ud fra åbne geografiske data (Natural Earth), forenklet.",
+  "contact": "Spørgsmål · feedback — <a id=\"contact\" class=\"mail\">Skriv til os</a>",
+  "play": "Afspil",
+  "pause": "Pause",
+  "today": "I dag:",
+  "verseCite": "2 Peter 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Skabelsen · Syndefaldet)",
+    "book": "1 Mosebog 1–3",
+    "today": "Tigris–Eufrat-området i dag",
+    "note": "Ind i en verden, der var såre god, kommer synden og bryder båndet mellem Gud og mennesker.",
+    "events": [
+     "Skabelsen på seks dage — “det var såre godt”",
+     "Mennesket skabt i Guds billede",
+     "Syndefaldet og udvisningen af Eden",
+     "Evangeliets første løfte — “kvindens sæd skal sønderknuse slangens hoved”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Syndfloden)",
+    "book": "1 Mosebog 6–9",
+    "today": "Ararat-bjerget, det østlige Tyrkiet i dag",
+    "note": "Gud dømmer en verden fuld af synd, men bevarer alligevel livet gennem én familie.",
+    "events": [
+     "En verden fyldt med fordærv",
+     "Syndfloden og Noas ark",
+     "Regnbuepagten — “aldrig mere en syndflod til at ødelægge”"
+    ]
+   },
+   "babel": {
+    "name": "Babelstårnet",
+    "book": "1 Mosebog 11",
+    "today": "Irak i dag (Sinears slette)",
+    "note": "Mod hovmodet, der stræber mod himlen, forvirrer Gud deres sprog og spreder folkene ud over jorden.",
+    "events": [
+     "“Lad os bygge en by og et tårn… og gøre os et navn”",
+     "Gud forvirrer deres sprog",
+     "Folkene spredes ud over jorden (Sinear — senere Babylon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "1 Mosebog 12",
+    "today": "det sydlige Irak i dag",
+    "note": "Bibelens frelsesfortælling begynder med kaldet af ét menneske.",
+    "events": [
+     "Gud kalder Abram ud af kaldæernes Ur",
+     "“Jeg vil gøre dig til et stort folk… alle slægter velsignes gennem dig”",
+     "I tro forlader han sit fædreland"
+    ]
+   },
+   "haran": {
+    "name": "Karan",
+    "book": "1 Mosebog 12",
+    "today": "det sydlige Tyrkiet i dag",
+    "note": "Undervejs, i svar på kaldet mod det forjættede land.",
+    "events": [
+     "Taras slægt slår sig ned i Karan",
+     "Tara dør",
+     "Abram drager mod Kanaan som 75-årig"
+    ]
+   },
+   "shechem": {
+    "name": "Sikem · Kanaan",
+    "book": "1 Mosebog 12–50",
+    "today": "Nablus i dag",
+    "note": "I det forjættede land grundlægges en slægt, og pagten gives videre gennem generationerne.",
+    "events": [
+     "Ankomsten til Kanaan, det første alter — “dit afkom giver jeg dette land”",
+     "Pagten (1 Mos 15) · Isak · Jakob",
+     "Jakobs tolv sønner — de tolv stammers rod"
+    ]
+   },
+   "egypt": {
+    "name": "Egypten (Gosen)",
+    "book": "1 Mosebog 37–50 · 2 Mosebog 1",
+    "today": "Nildeltaet, Egypten i dag",
+    "note": "En slægt bliver til et stort folk — og så til et folk af slaver.",
+    "events": [
+     "Josef, solgt bort, stiger til magten i Egypten",
+     "Jakobs hele familie drager ned for at undslippe hungersnøden",
+     "Det voksende Israels folk gøres til slaver"
+    ]
+   },
+   "sinai": {
+    "name": "Sinaj-bjerget",
+    "book": "2 Mosebog · 3 Mosebog",
+    "today": "Sinaj-halvøen i dag",
+    "note": "Det Gamle Testamentes centrale redning — slaver bliver Guds eget folk.",
+    "events": [
+     "De ti plager og påskelammet",
+     "Det Røde Hav deler sig, og de går over",
+     "De ti bud, loven, tabernaklet og ofrene"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesh (ørkenen)",
+    "book": "4 Mosebog · 5 Mosebog",
+    "today": "Sinaj–Negev-ørkenen i dag",
+    "note": "Vantroen koster en generation landet — men Gud bliver hos dem.",
+    "events": [
+     "Tolv spejdere — men folket nægter at stole på Gud",
+     "38 år i ørkenen — manna, sky og ild",
+     "På Moabs sletter, Moses' sidste tale (5 Mosebog)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Josva",
+    "today": "Jeriko i dag",
+    "note": "Endelig drager de ind og indtager det forjættede land.",
+    "events": [
+     "Jordanfloden deler sig, og folket går over",
+     "Jerikos mure falder",
+     "Erobringen af Kanaan og delingen af landet"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Dommerne)",
+    "book": "Dommer · Ruth",
+    "today": "Khirbet Seilun i dag",
+    "note": "Uden konge gør enhver, hvad der passer ham — en sand konge er nødvendig.",
+    "events": [
+     "Tabernaklet rejses i Silo",
+     "Kredsløbet af synd–undertrykkelse–redning (Debora, Gideon, Samson)",
+     "Ruth — trofasthed i mørke dage, i Davids slægt"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Det forenede kongerige",
+    "book": "1–2 Samuel · 1 Kongebog",
+    "today": "Jerusalem i dag",
+    "note": "Israels guldalder — og løftet om en evig konge.",
+    "events": [
+     "Saul den første konge, så David og Goliat",
+     "Pagten med David — “din trone til evig tid” (2 Sam 7)",
+     "Salomo bygger templet i Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Det delte rige",
+    "book": "Kongebøgerne · Profeterne",
+    "today": "Sebastia i dag",
+    "note": "Riget deles og forfalder, mens profeterne råber op.",
+    "events": [
+     "Efter Salomo, delingen i Juda og Israel",
+     "Gentagen afgudsdyrkelse",
+     "Elias, Esajas, Jeremias råber ‘vend om’ — og forudsiger Messias"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineve (Assyrien)",
+    "book": "2 Kongebog 17 · Jonas",
+    "today": "Mosul, Irak i dag",
+    "note": "Ved at ignorere hver advarsel falder nordriget først.",
+    "events": [
+     "Nineve, Assyriens hovedstad",
+     "Nordriget falder for Assyrien (722 f.Kr.)",
+     "Jonas sendes til Nineve"
+    ]
+   },
+   "babylon": {
+    "name": "Babylon",
+    "book": "2 Kongebog 25 · Daniel · Ezekiel",
+    "today": "Hilla, Irak i dag",
+    "note": "Den mørkeste nat — men løftet om genoprettelse består.",
+    "events": [
+     "Jerusalem falder, templet brændes (586 f.Kr.)",
+     "Juda føres bort til Babylon",
+     "Daniel og Ezekiel — tro og syner i eksilet"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persien)",
+    "book": "Ester · Nehemias",
+    "today": "Shush, Iran i dag",
+    "note": "Selv i et hedensk riges hjerte bevarer Gud sit folk.",
+    "events": [
+     "Persien styrter Babylon",
+     "Ester redder jøderne fra udryddelse",
+     "Nehemias beder foran kongen og bliver sendt"
+    ]
+   },
+   "return": {
+    "name": "Hjemkomsten til Jerusalem",
+    "book": "Ezra · Nehemias · Malakias",
+    "today": "Jerusalem i dag",
+    "note": "De vender tilbage og genopbygger — men ingen konge er kommet. De venter på Messias.",
+    "events": [
+     "Tre bølger af hjemkomst ved Kyros' dekret (Zerubbabel 538 · Ezra 458 · Nehemias 444)",
+     "Templet genopbygget og Jerusalems mure genrejst",
+     "Malakias — Det Gamle Testamente slutter: “Se, jeg sender min Engel”"
+    ]
+   }
+  },
+  "labels": [
+   "Middelhavet",
+   "Mesopotamien",
+   "Den Arabiske Ørken",
+   "Egypten"
+  ],
+  "journeys": {
+   "flow": "Frelsens fortælling"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mattæus 1–2 · Lukas 2",
+    "today": "Betlehem i dag",
+    "note": "Den lovede Messias kommer til Davids by — Ordet blev kød.",
+    "events": [
+     "Født i Betlehem, Davids by",
+     "Engle forkynder budskabet for hyrderne",
+     "De vise mænd kommer for at tilbede"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lukas 2 · 4",
+    "today": "Nazaret i dag",
+    "note": "Gud vokser op som menneske i en almindelig by.",
+    "events": [
+     "Opvokset i en tømrers hjem",
+     "Som tolvårig spørger og svarer han i templet",
+     "Senere forkastet i sin hjembys synagoge"
+    ]
+   },
+   "jordan": {
+    "name": "Jordanfloden",
+    "book": "Mattæus 3–4",
+    "today": "den nedre Jordan i dag",
+    "note": "Hans offentlige tjeneste begynder — himlen besegler ham som Sønnen.",
+    "events": [
+     "Døbt af Johannes",
+     "Ånden daler ned som en due — “Denne er min elskede Søn”",
+     "Overvinder Satans tre fristelser i ørkenen"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Johannes 2",
+    "today": "Kafr Kanna i dag",
+    "note": "I sit første tegn åbenbarer han sin herlighed.",
+    "events": [
+     "Gæst ved et bryllup",
+     "Vand forvandlet til vin — hans første tegn",
+     "Hans disciple tror på ham"
+    ]
+   },
+   "sychar": {
+    "name": "Sykar (Samaria)",
+    "book": "Johannes 2–4",
+    "today": "nær Nablus i dag",
+    "note": "Den tidlige tjenestes vej — gennem Jerusalem og videre til det foragtede Samaria.",
+    "events": [
+     "Han renser templet i Jerusalem",
+     "Om natten, Nikodemus — “I skal fødes på ny”",
+     "Levende vand til en samaritansk kvinde"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Mattæus 4–13 · Markus 1–4",
+    "today": "Galilæas søbred i dag",
+    "note": "Basen for tjenesten i Galilæa — kald, undervisning og modstand mødes her.",
+    "events": [
+     "Kalder fiskerne og gør dette til sin base",
+     "Bjergprædikenen — “Salige er de fattige i ånden”",
+     "Rigets lignelser — og stigende modstand"
+    ]
+   },
+   "galilee": {
+    "name": "Galilæas Sø",
+    "book": "Markus 4 · 6 · Johannes 6",
+    "today": "Genesaret Sø i dag",
+    "note": "Med magt over naturen viser han, hvem han er.",
+    "events": [
+     "“Ti, vær stille” — han stilner stormen",
+     "Bespiser 5.000 med fem brød og to fisk",
+     "Går på vandet"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cæsarea Filippi",
+    "book": "Mattæus 16–17",
+    "today": "Banias i dag",
+    "note": "Disciplene fatter, at han er Kristus, og korsets vej åbner sig.",
+    "events": [
+     "Peters bekendelse — “Du er Kristus, den levende Guds Søn”",
+     "Han forudsiger første gang sin død og opstandelse",
+     "Forvandlet i herlighed på bjerget"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Lukas 18–19",
+    "today": "Jeriko i dag",
+    "note": "På vejen op til Jerusalem opsøger han de fortabte.",
+    "events": [
+     "Han giver den blinde Bartimæus synet",
+     "Han kalder tolderen Zakæus",
+     "“Menneskesønnen kom for at opsøge og frelse det fortabte”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Johannes 11–12",
+    "today": "al-Eizariya i dag",
+    "note": "Han viser magt over døden på tærsklen til sin sidste uge.",
+    "events": [
+     "Han opvækker Lazarus fra graven — “Jeg er opstandelsen og livet”",
+     "Maria salver ham til begravelsen",
+     "Dette tegn hærder planen om at dræbe ham"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mattæus 21–28 · Lukas 24 · Apostlenes Gerninger 1",
+    "today": "Jerusalem i dag",
+    "note": "Højdepunktet, hele Bibelen peger mod — kors, opstandelse, himmelfart.",
+    "events": [
+     "Indtoget; han vælter atter templets borde",
+     "Ved den sidste nadver vasker han disciplenes fødder",
+     "Han dør på korset",
+     "Opstået på tredjedagen, derefter faret til himmels"
+    ]
+   }
+  },
+  "labels": [
+   "Middelhavet",
+   "Galilæa",
+   "Samaria",
+   "Judæa",
+   "Dekapolis",
+   "Peræa",
+   "Det Døde Hav"
+  ],
+  "journeys": {
+   "life": "Jesu vej"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Apostlenes Gerninger 13 · 15",
+    "today": "Antakya, Tyrkiet i dag",
+    "note": "Udsendermenigheden, hvor hedningemissionen begynder og vender tilbage.",
+    "events": [
+     "Under bøn udskiller Ånden Barnabas og Saulus",
+     "Menigheden, hvor de troende først blev kaldt ‘kristne’",
+     "Udgangspunkt for 1., 2. og 3. rejse"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Apostlenes Gerninger 13:4",
+    "today": "Tyrkiet i dag",
+    "note": "Antiokias havn — de sejler af sted mod Cypern.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Cypern)",
+    "book": "Apostlenes Gerninger 13:5",
+    "today": "Cypern i dag",
+    "note": "Første stop på Cypern — de forkynder i synagogerne.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Apostlenes Gerninger 13:6-12",
+    "today": "Cypern i dag",
+    "note": "Der vises magt mod dem, der modarbejder evangeliet.",
+    "events": [
+     "Troldmanden Elymas rammes af blindhed",
+     "Statholderen Sergius Paulus kommer til tro",
+     "Herfra tager ‘Paulus’ føringen"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Apostlenes Gerninger 13:13",
+    "today": "Antalya, Tyrkiet i dag",
+    "note": "En havn i Pamfylien — her vender Johannes Markus tilbage.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Det pisidiske Antiokia",
+    "book": "Apostlenes Gerninger 13:14-50",
+    "today": "Yalvaç, Tyrkiet i dag",
+    "note": "Evangeliet bryder op mod hedningerne.",
+    "events": [
+     "En lang prædiken om frelseshistorien i synagogen",
+     "Mange hedninger glæder sig og tager imod ordet",
+     "Drevet ud af modstand"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonium",
+    "book": "Apostlenes Gerninger 14:1-7",
+    "today": "Konya, Tyrkiet i dag",
+    "note": "Mange kommer til tro, men forfølgelse tvinger dem videre.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lystra",
+    "book": "Apostlenes Gerninger 14:8-20",
+    "today": "Tyrkiet i dag",
+    "note": "Hyldet som en gud, så stenet.",
+    "events": [
+     "Helbreder en mand, der var lam fra fødslen",
+     "Folkemængden forsøger at ofre til dem som guder",
+     "Stenet og efterladt for død, men han rejser sig"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Apostlenes Gerninger 14:20-21",
+    "today": "Tyrkiet i dag",
+    "note": "Mange disciple vindes; de vender om for at styrke menighederne.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Apostlenes Gerninger 16:8-10",
+    "today": "Tyrkiet i dag",
+    "note": "Vendepunktet, hvor evangeliet først drager mod Europa.",
+    "events": [
+     "Et syn af en makedonisk mand",
+     "“Kom over og hjælp os”",
+     "De drager straks over til Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filippi",
+    "book": "Apostlenes Gerninger 16 · Filipperne",
+    "today": "det nordlige Grækenland i dag",
+    "note": "Europas første menighed — evangeliet sejrer selv i fængslet.",
+    "events": [
+     "Lydia, en purpurhandler, kommer til tro",
+     "En spådomsbesat slavepige sættes fri",
+     "Midnatssalmer, et jordskælv, fangevogterens hus frelses"
+    ]
+   },
+   "thess": {
+    "name": "Thessalonika",
+    "book": "Apostlenes Gerninger 17 · 1–2 Thessalonikerne",
+    "today": "Thessaloniki, Grækenland i dag",
+    "note": "Ordet ryster byen, og modstanden koger over.",
+    "events": [
+     "Ræsonnerer i synagogen tre sabbatter",
+     "“Disse, som har bragt hele verden i oprør”",
+     "De slipper væk om natten"
+    ]
+   },
+   "berea": {
+    "name": "Berøa",
+    "book": "Apostlenes Gerninger 17:10-15",
+    "today": "Veria, Grækenland i dag",
+    "note": "De ‘ædle’, der selv undersøgte ordet.",
+    "events": [
+     "De modtager ordet med al velvilje",
+     "Dagligt ransager de Skrifterne for at prøve det",
+     "Mange kommer til tro"
+    ]
+   },
+   "athens": {
+    "name": "Athen",
+    "book": "Apostlenes Gerninger 17:16-34",
+    "today": "Athen, Grækenland i dag",
+    "note": "I filosoffernes by forkynder han den ‘ukendte gud’.",
+    "events": [
+     "Optændt ved en by fuld af afguder",
+     "På Areopagos prædiker han Skaberen og opstandelsen",
+     "Hånet, men nogle få kommer til tro"
+    ]
+   },
+   "corinth": {
+    "name": "Korinth",
+    "book": "Apostlenes Gerninger 18 · 1–2 Korinther",
+    "today": "Grækenland i dag",
+    "note": "Han bliver halvandet år og planter en menighed i en lastefuld by.",
+    "events": [
+     "Laver telte med Akvila og Priskilla",
+     "“Frygt ikke… for jeg er med dig”",
+     "Mange korinthere tror og lader sig døbe"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesos",
+    "book": "Apostlenes Gerninger 19 · Efeserne",
+    "today": "Selçuk, Tyrkiet i dag",
+    "note": "Hjertet af den tredje rejse — ordet breder sig over hele Asien.",
+    "events": [
+     "Daglig undervisning i to år i Tyrannus' skole",
+     "Trolddomsbøger brændes; mægtige gerninger",
+     "Sølvsmeden Demetrius starter et oprør"
+    ]
+   },
+   "miletus": {
+    "name": "Milet",
+    "book": "Apostlenes Gerninger 20:17-38",
+    "today": "Tyrkiet i dag",
+    "note": "En tårevæddet afsked med de efesiske ældste.",
+    "events": [
+     "“Vogt den menighed, som han købte med sit eget blod”",
+     "De ældste græder, vidende at de ikke ser ham igen"
+    ]
+   },
+   "caesarea": {
+    "name": "Cæsarea",
+    "book": "Apostlenes Gerninger 23–26",
+    "today": "Israels kyst i dag",
+    "note": "I to år forsvarer han evangeliet for statholdere og en konge.",
+    "events": [
+     "Retssager for statholderne Feliks og Festus",
+     "Hans forsvar for kong Agrippa",
+     "“Jeg appellerer til kejseren” — videre til Rom"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Apostlenes Gerninger 21–23",
+    "today": "Jerusalem i dag",
+    "note": "Grebet i templet begynder hans vej som fange.",
+    "events": [
+     "Grebet af folkemængden i templet",
+     "Forsvarer sig for rådet",
+     "Som romersk borger sendt under bevogtning til Cæsarea"
+    ]
+   },
+   "myra": {
+    "name": "Myra",
+    "book": "Apostlenes Gerninger 27:5-6",
+    "today": "Demre, Tyrkiet i dag",
+    "note": "De skifter til et aleksandrinsk skib med kurs mod Rom.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Gode Havne (Kreta)",
+    "book": "Apostlenes Gerninger 27:8-12",
+    "today": "Kreta i dag",
+    "note": "Paulus' advarsel om at standse sejladsen bliver overhørt.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Titus",
+    "today": "Kreta i dag",
+    "note": "Efter sin løsladelse, øen hvor han efterlader Titus for at bringe menighederne i orden.",
+    "events": [
+     "Efterlader Titus for at indsætte ældste i hver by",
+     "Kalder på uangribelige, trofaste ledere",
+     "Skriver brevet til Titus"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Apostlenes Gerninger 27–28",
+    "today": "Malta i dag",
+    "note": "Gennem storm og skibbrud holder Guds løfte.",
+    "events": [
+     "‘Nordøsten’ knuser skibet, men alle 276 overlever",
+     "Bidt af en giftslange, er han uskadt",
+     "Han helbreder de syge på øen"
+    ]
+   },
+   "syracuse": {
+    "name": "Syrakus",
+    "book": "Apostlenes Gerninger 28:12",
+    "today": "Sicilien, Italien i dag",
+    "note": "De bliver tre dage på Sicilien.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Apostlenes Gerninger 28:13-14",
+    "today": "Pozzuoli, Italien i dag",
+    "note": "De går i land i Italien og mødes af medtroende.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rom",
+    "book": "Apostlenes Gerninger 28 · Fangenskabsbrevene · 2 Timoteus",
+    "today": "Rom, Italien i dag",
+    "note": "Evangeliet når endelig rigets hjerte — ikke en afslutning, men en begyndelse.",
+    "events": [
+     "To år i husarrest, mens han frimodigt forkynder riget",
+     "Herfra skriver han Fangenskabsbrevene (Ef·Fil·Kol·Filem)",
+     "Senere igen fængslet, skriver 2 Timoteus og lider martyrdøden — “Jeg har stridt den gode strid, jeg har fuldendt løbet”"
+    ]
+   }
+  },
+  "labels": [
+   "Middelhavet",
+   "Det Ægæiske Hav",
+   "Lilleasien",
+   "Makedonien",
+   "Italien"
+  ],
+  "journeys": {
+   "j1": "Første rejse",
+   "j2": "Anden rejse",
+   "j3": "Tredje rejse",
+   "rome": "Fjerde rejse · til Rom",
+   "j5": "Femte rejse · efter løsladelsen"
+  }
+ }
+}
