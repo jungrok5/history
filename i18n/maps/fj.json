@@ -1,0 +1,636 @@
+{
+ "menuName": "Vakaviti",
+ "htmlLang": "fj",
+ "dir": "ltr",
+ "locale": "fj-FJ",
+ "brand": "Na iVolatabu ena Dua na Taraki",
+ "docTitle": "Na iVolatabu ena Mape · Na iVolatabu ena Dua na Taraki",
+ "metaDesc": "Vakatautaki na yatu ni gauna ni Veiyalayalati Makawa, na bula i Jisu, kei na lakolako i Paula ena dua na mape dina — a yaco dina na iVolatabu ena veivanua dina.",
+ "s": {
+  "kicker": "Na iVolatabu ena Dua na Taraki · Mape",
+  "title": "Na iVolatabu ena Mape",
+  "verse": "“Keitou sa sega ni vakararavi ki na i talanoa buli eso ena neitou vakaraitaka vei kemuni na veika me baleta na lako mai ni noda Turaga ko Jisu Karisito ena nona kaukauwa, ia keitou a vakadinadinataka ena mata i keitou na nona lagilagi.” (2 Pita 1:16)",
+  "purpose": "Na iVolatabu e sega ni italanoa buli. Sai koya na itukutuku ni tamata era a taubale ena veivanua, gauna, kei na yaca dina. Vakatautaki na sala oqo ena dua na mape, ena yatu ni gauna — tabaka e dua na tobu, se tabaka na ▶ me taubale vata ki na veitikina.",
+  "ot_kick": "① Veiyalayalati Makawa — ena loma ni gauna",
+  "ot_h": "Mai na veibuli ki na lesu tale ki Jerusalemi",
+  "ot_lead": "E sega ni dua ga na ilakolako, ia na yatu ni italanoa ni veivakabulai mai na veibuli: veibuli kei na bale → waluvu kei Pepeli → dua na kacivi (Eparama) → na vanua yalataki → Lakosivia → lekutu → qaqa → matanitu → wase → veivakabobulataki → lesu tale mai.",
+  "je_kick": "② Veiyalayalati Vou — na bula i Jisu",
+  "je_h": "Mai Peceliema ki Jerusalemi",
+  "je_lead": "Muria na bula i Jisu me vaka era tukuna na Kosipeli, ena yatu — mai na nona sucu mai Peceliema, na nona papitaiso kei na veiqaravi mai Kalili, sivia mai Samaria, ki na kauveilatai, na tucake tale kei na kau cake mai Jerusalemi.",
+  "pa_kick": "③ Veiyalayalati Vou — na lakolako i Paula",
+  "pa_h": "Mai Anitioki ki na iyalayala kei vuravura — Roma",
+  "pa_lead": "Mai na Penitekosi mai Jerusalemi, na kena tete na kosipeli ki tautaudaku i Jutia — sivia mai Esia Lailai kei Iurope ki na uto ni matanitu levu. Digitaka e dua na lima na lakolako (i-1·i-2·i-3 + na soko ki Roma + ni oti na sereki) ka muria na veika e yaco ena Cakacaka kei na ivola a volai ena sala.",
+  "foot": "Ivutuni · Na veivanua e muria na itukutuku vakaiVolatabu kei na iyaloyalo ni vanua vakaiVolatabu (kei na yaca vakaoqo ni sa yaga). Na baravi, na uciwai kei na drano e dratani mai na ivakarau ni vanua dolavi (Natural Earth), vakarawarawataki.",
+  "contact": "Veitarogi · veivakasamataki — <a id=\"contact\" class=\"mail\">Vakauta na imeli</a>",
+  "play": "Taraki",
+  "pause": "Vakacegu",
+  "today": "Nikua:",
+  "verseCite": "2 Pita 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Iteni (Veibuli · Bale)",
+    "book": "Vakatekivu 1–3",
+    "today": "na yasana ni Taikirisi–Uferetesi nikua",
+    "note": "Ki na dua na vuravura a buli me vinaka sara, sa curu mai na ivalavala ca ka voroka na veisemati ni Kalou kei na kawatamata.",
+    "events": [
+     "Veibuli ena ono na siga — “sa vinaka sara”",
+     "Na tamata buli me vaka na iyaloyalo ni Kalou",
+     "Na bale, kei na vakasevi mai Iteni",
+     "Na imatai ni yalayala ni kosipeli — “o na katia na bukubuku ni yavadra na luvena na kawa ni yalewa”"
+    ]
+   },
+   "noah": {
+    "name": "Ararata (na Waluvu)",
+    "book": "Vakatekivu 6–9",
+    "today": "na Ulunivanua o Ararata, e Tike ki na tokalau nikua",
+    "note": "Sa lewa na Kalou e dua na vuravura sa sinai ena ivalavala ca, ia sa maroroya na bula ena dua na vuvale.",
+    "events": [
+     "Dua na vuravura sa sinai ena ivalavala ca",
+     "Na waluvu, kei na waqa i Noa",
+     "Na veiyalayalati ni dovua — “ena sega tale na waluvu me na vakarusa na vuravura”"
+    ]
+   },
+   "babel": {
+    "name": "Na Vale Cecere o Pepeli",
+    "book": "Vakatekivu 11",
+    "today": "Iraki nikua (na buca o Sinari)",
+    "note": "Ki na viavialevu e via cabeta na lomalagi, sa vakasesea na Kalou na nodra vosa ka vakasavi ira na matatamata ki vuravura taucoko.",
+    "events": [
+     "“Me da tara e dua na koro levu kei na vale cecere… me da vakalevutaki keda”",
+     "Sa vakasesea na Kalou na nodra vosa",
+     "Sa vakasavi na matatamata ki vuravura taucoko (Sinari — sa qai Papiloni)"
+    ]
+   },
+   "ur": {
+    "name": "Uri",
+    "book": "Vakatekivu 12",
+    "today": "Iraki ki na ceva nikua",
+    "note": "Na italanoa ni veivakabulai ni iVolatabu e tekivu ena kacivi ni dua ga na tamata.",
+    "events": [
+     "Sa kacivi Eparama na Kalou me lako tani mai Uri ni kai Kalidini",
+     "“Au na cakava mo vu ni matanitu levu… era na vakalougatataki na veimatanitu kece ena vukumu”",
+     "Ena vakabauta sa biuta na nona vanua"
+    ]
+   },
+   "haran": {
+    "name": "Karana",
+    "book": "Vakatekivu 12",
+    "today": "Tike ki na ceva nikua",
+    "note": "Ena sala, ni sa ciqoma na kacivi ki na vanua yalataki.",
+    "events": [
+     "Sa vakaitikotiko na vuvale i Tira mai Karana",
+     "Sa mate ko Tira",
+     "Sa lako yani ki Kenani ko Eparama ena nona yabaki e 75"
+    ]
+   },
+   "shechem": {
+    "name": "Sikemi · Kenani",
+    "book": "Vakatekivu 12–50",
+    "today": "Napulusi nikua",
+    "note": "Ena vanua yalataki sa tekivu e dua na vuvale ka sa kau yani na veiyalayalati ki na veitabatamata.",
+    "events": [
+     "Curu ki Kenani, na imatai ni icabocabonisoro — “Au na solia na vanua oqo ki na nomu kawa”",
+     "Na veiyalayalati (Vak 15) · Aisake · Jekope",
+     "Na tinikarua na luve i Jekope — na vu ni tinikarua na yavusa"
+    ]
+   },
+   "egypt": {
+    "name": "Ijipita (Koseni)",
+    "book": "Vakatekivu 37–50 · Lako Yani 1",
+    "today": "na Wanidelita ni Naila, Ijipita nikua",
+    "note": "Sa yaco na vuvale me matanitu levu — sa qai matanitu ni bobula.",
+    "events": [
+     "Josefa, a volitaki tani, sa cecere me veiliutaki e Ijipita",
+     "Sa lako sobu na vuvale taucoko i Jekope me dro mai na dausiga",
+     "Sa vakabobulataki na matanitu ni Isireli sa tubu tiko"
+    ]
+   },
+   "sinai": {
+    "name": "Ulunivanua o Sainai",
+    "book": "Lako Yani · Vunau ni Soro",
+    "today": "na Yatuvanua o Sainai nikua",
+    "note": "Na veivakabulai bibi ni Veiyalayalati Makawa — sa yaco na bobula me tamata ni Kalou.",
+    "events": [
+     "Na tini na mate kei na lami ni Lakosivia",
+     "Sa wasea na Wasa Damudamu ka ra takosova",
+     "Na Tini na Vunau, na Lawa, na valelaca kei na veisoro"
+    ]
+   },
+   "kadesh": {
+    "name": "Katesi (lekutu)",
+    "book": "Tiko Voli · Vakarua ni Vunau",
+    "today": "na lekutu o Sainai–Nekevi nikua",
+    "note": "Na sega ni vakabauta sa vakayalia vei ira e dua na itabatamata na vanua — ia sa tiko vata tiko ga na Kalou kei ira.",
+    "events": [
+     "Tinikarua na daukoro — ia sa sega ni vakabauta na tamata",
+     "38 na yabaki ena lekutu — mana, o kei na bukawaqa",
+     "Ena buca o Moapi, na ivunau iotioti i Mosese (Vakarua ni Vunau)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Josua",
+    "today": "Jeriko nikua",
+    "note": "Sa mani curu ka taukena na vanua yalataki.",
+    "events": [
+     "Sa wasea na Joritani ka ra takosova na tamata",
+     "Sa bale na bai o Jeriko",
+     "Na qaqa ki Kenani kei na wase ni vanua"
+    ]
+   },
+   "shiloh": {
+    "name": "Sailo (Dauveilewai)",
+    "book": "Dauveilewai · Ruci",
+    "today": "Khirbet Seilun nikua",
+    "note": "Ni sega na tui, era dui cakava ga na ka e vinakata — e gadrevi e dua na tui dina.",
+    "events": [
+     "Sa vakaduri na valelaca mai Sailo",
+     "Na ivakarau ni ivalavala ca–veivakararawataki–veivakabulai (Tepora, Kitioni, Samisoni)",
+     "Ruci — yalodina ena gauna butobuto, ena kawa i Tevita"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalemi · Matanitu Duavata",
+    "book": "1–2 Samuela · 1 Tui",
+    "today": "Jerusalemi nikua",
+    "note": "Na gauna vinaka duadua ni Isireli — kei na yalayala ni dua na tui tawamudu.",
+    "events": [
+     "Saula na imatai ni tui, sa qai ko Tevita kei Koliaca",
+     "Na veiyalayalati kei Tevita — “na nomu idabedabe vakatui me sega ni mudu” (2 Sam 7)",
+     "Sa tara na valetabu mai Jerusalemi ko Solomoni"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Matanitu Wasei",
+    "book": "Tui · na Parofita",
+    "today": "Sebastia nikua",
+    "note": "Sa wasei na matanitu ka lako sobu ni ra tagi tiko na parofita.",
+    "events": [
+     "Ni oti ko Solomoni, na wase ki Juta kei Isireli",
+     "Na soro ki na matakau vakawasoma",
+     "Ilaija, Aisea, Jeremaia era tagi ‘lesu mai’ — ka parofisaitaka na Mesaia"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "2 Tui 17 · Jona",
+    "today": "Mosul, Iraki nikua",
+    "note": "Ni sa beci na ivakasala kece, sa bale eliu na vualiku.",
+    "events": [
+     "Ninive, na keba ni Asiria",
+     "Sa bale na matanitu vualiku vei Asiria (722 BK)",
+     "Sa talai Jona ki Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Papiloni",
+    "book": "2 Tui 25 · Taniela · Isikeli",
+    "today": "Hillah, Iraki nikua",
+    "note": "Na bogi butobuto duadua — ia sa tu ga na yalayala ni vakaduataki tale.",
+    "events": [
+     "Sa bale ko Jerusalemi, sa kama na valetabu (586 BK)",
+     "Sa kau vakabobula na Juta ki Papiloni",
+     "Taniela kei Isikeli — vakabauta kei na raivotu ena veivakabobulataki"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Perisia)",
+    "book": "Esiteri · Niemaia",
+    "today": "Shush, Iran nikua",
+    "note": "Dina ga ena uto ni matanitu vakamatakau, sa maroroya tiko na Kalou na nona tamata.",
+    "events": [
+     "Sa vakabalei Papiloni na Perisia",
+     "Sa vakabula na kai Jiu mai na vakarusai ko Esiteri",
+     "Sa masu ko Niemaia ena mata ni tui ka sa talai"
+    ]
+   },
+   "return": {
+    "name": "Lesu Tale ki Jerusalemi",
+    "book": "Esera · Niemaia · Malakai",
+    "today": "Jerusalemi nikua",
+    "note": "Era lesu mai ka tara tale — ia sa sega ni lako mai e dua na tui. Era wawataka na Mesaia.",
+    "events": [
+     "Tolu na ua ni lesu mai ena ivakaro i Sairusi (Serupapeli 538 · Esera 458 · Niemaia 444)",
+     "Sa tara tale na valetabu ka vakavinakataki na bai i Jerusalemi",
+     "Malakai — sa tini na Veiyalayalati Makawa: “Au sa na tala yani na noqu i talai”"
+    ]
+   }
+  },
+  "labels": [
+   "Wasawasa Metita",
+   "Mesopotemia",
+   "Lekutu ni Arepea",
+   "Ijipita"
+  ],
+  "journeys": {
+   "flow": "Na italanoa ni veivakabulai"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Peceliema",
+    "book": "Maciu 1–2 · Luke 2",
+    "today": "Peceliema nikua",
+    "note": "Sa lako mai na Mesaia a yalataki ki na koro i Tevita — na Vosa sa yaco me tamata.",
+    "events": [
+     "Sucu mai Peceliema, na koro i Tevita",
+     "Era tukuna na itukutuku vei ira na ivakatawanisipi na agilosi",
+     "Era lako mai na tamata vuku me qaravi koya"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasareci",
+    "book": "Luke 2 · 4",
+    "today": "Nasareci nikua",
+    "note": "Sa tubu cake me tamata na Kalou ena dua na koro wale ga.",
+    "events": [
+     "Sa susugi ena vale ni dua na matai",
+     "Ena nona tinikarua na yabaki, sa taro ka sauma ena valetabu",
+     "Sa qai besetaki ena nona koro ena valenilotu"
+    ]
+   },
+   "jordan": {
+    "name": "Uciwai o Joritani",
+    "book": "Maciu 3–4",
+    "today": "na yasana ra ni Joritani nikua",
+    "note": "Sa tekivu na nona veiqaravi ki na lewenivanua — sa dusi koya na lomalagi me Luvena.",
+    "events": [
+     "Papitaisotaki koya ko Joni",
+     "Sa sobu na Yalo me vaka na ruve — “Oqo na Luvequ daulomani”",
+     "Sa qaqa ena tolu na veitovolei i Setani ena lekutu"
+    ]
+   },
+   "cana": {
+    "name": "Kena",
+    "book": "Joni 2",
+    "today": "Kafr Kanna nikua",
+    "note": "Ena nona imatai ni cakamana sa vakaraitaka kina na nona lagilagi.",
+    "events": [
+     "Dua na vulagi ena dua na vakamau",
+     "Wai sa veisau me waini — na nona imatai ni cakamana",
+     "Era vakabauti koya na nona tisaipeli"
+    ]
+   },
+   "sychar": {
+    "name": "Saika (Samaria)",
+    "book": "Joni 2–4",
+    "today": "voleka ki Napulusi nikua",
+    "note": "Na sala ni veiqaravi ni ivakatekivu — sivia mai Jerusalemi ki Samaria a beci.",
+    "events": [
+     "Sa vakasavasavataka na valetabu mai Jerusalemi",
+     "Ena bogi, ko Nikotimo — “E dodonu mo sucu tale”",
+     "Wai bula vei e dua na yalewa ni Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapenaumi",
+    "book": "Maciu 4–13 · Marika 1–4",
+    "today": "na baravi ni drano o Kalili nikua",
+    "note": "Na keba ni veiqaravi mai Kalili — na kacivi, na veivakavulici kei na veisaqasaqa e sota kece eke.",
+    "events": [
+     "Sa kacivi ira na daukavi ika ka vakabase eke",
+     "Na iVunau mai na Ulunivanua — “Era kalougata na yalomalumalumu”",
+     "Na vosa vakatautauvata ni matanitu — kei na veisaqasaqa e tubu cake"
+    ]
+   },
+   "galilee": {
+    "name": "Drano o Kalili",
+    "book": "Marika 4 · 6 · Joni 6",
+    "today": "na Drano o Kinereti nikua",
+    "note": "Ena kaukauwa ki na veika buli sa vakaraitaka kina o cei o koya.",
+    "events": [
+     "“Vakacegu, tiko lo” — sa vakacegutaka na cava",
+     "Sa vakani ira e 5,000 ena lima na madrai kei na rua na ika",
+     "Sa taubale ena dela ni wai"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sisaria Filipai",
+    "book": "Maciu 16–17",
+    "today": "Banias nikua",
+    "note": "Sa kila na tisaipeli ni sai koya na Karisito, ka sa dola na sala ni kauveilatai.",
+    "events": [
+     "Na vakadinadina i Pita — “Sa i kemuni na Mesaia, na Luve ni Kalou bula”",
+     "Sa parofisaitaka mataka na nona mate kei na tucake tale",
+     "Sa veisautaki ena lagilagi ena ulunivanua"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Luke 18–19",
+    "today": "Jeriko nikua",
+    "note": "Ena sala cake ki Jerusalemi, sa vaqaqara o koya sa yali.",
+    "events": [
+     "Sa vakarairaitaki koya na mataboko o Patimiusi",
+     "Sa kacivi Sakiusa na daukumuni ivakacavacava",
+     "“Sa lako mai na Luve ni Tamata me vaqaqara ka vakabula o koya sa yali”"
+    ]
+   },
+   "bethany": {
+    "name": "Pecani",
+    "book": "Joni 11–12",
+    "today": "al-Eizariya nikua",
+    "note": "Sa vakaraitaka na nona qaqa ki na mate ena mataka ni nona macawa iotioti.",
+    "events": [
+     "Sa vakaturi Lasarusa mai na ibulubulu — “Oi au na vu ni tucake tale kei na vu ni bula”",
+     "Sa lumuti koya ko Meri me nona ibulubulu",
+     "Sa vakaukauwataka na cakacaka oqo me vakamatei koya"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalemi",
+    "book": "Maciu 21–28 · Luke 24 · Cakacaka 1",
+    "today": "Jerusalemi nikua",
+    "note": "Na uto e dusia tiko na iVolatabu taucoko — kauveilatai, tucake tale, kau cake.",
+    "events": [
+     "Curu ena lagilagi; sa vukica tale na teveli ena valetabu",
+     "Ena Vakayakavi iOtioti sa savata na yava ni tisaipeli",
+     "Sa mate ena kauveilatai",
+     "Sa tucake tale ena ikatolu ni siga, sa qai kau cake"
+    ]
+   }
+  },
+  "labels": [
+   "Wasawasa Metita",
+   "Kalili",
+   "Samaria",
+   "Jutia",
+   "Dekapolisi",
+   "Perea",
+   "Wasa Mate"
+  ],
+  "journeys": {
+   "life": "Na sala i Jisu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Anitioki",
+    "book": "Cakacaka 13 · 15",
+    "today": "Antakya, Tike nikua",
+    "note": "Na lotu dautala ka tekivu ka lesu kina na veiqaravi ki na Matanitu Tani.",
+    "events": [
+     "Ena masu sa digitaka na Yalo o Panapasa kei Saula",
+     "Na lotu era vakatokai tekivu kina na tamata vakabauta me lotu Vakarisito",
+     "Na ivakatekivu ni i-1, i-2 kei na i-3 na lakolako"
+    ]
+   },
+   "seleucia": {
+    "name": "Selusia",
+    "book": "Cakacaka 13:4",
+    "today": "Tike nikua",
+    "note": "Na keba i Anitioki — era soko ki Saipurusi.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamisa (Saipurusi)",
+    "book": "Cakacaka 13:5",
+    "today": "Saipurusi nikua",
+    "note": "Na imatai ni kele ki Saipurusi — vunauca ena veivalenilotu.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Cakacaka 13:6-12",
+    "today": "Saipurusi nikua",
+    "note": "Sa vakaraitaki na kaukauwa vei ira era saqata na kosipeli.",
+    "events": [
+     "Sa mataboko ko Elimasa na daucakaisausau",
+     "Sa vakabauta ko Sekio Paula na kovana",
+     "Mai eke sa liutaka ko ‘Paula’"
+    ]
+   },
+   "perga": {
+    "name": "Perika",
+    "book": "Cakacaka 13:13",
+    "today": "Antalya, Tike nikua",
+    "note": "Dua na keba mai Pamifilia — eke sa lesu tale kina ko Joni Marika.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Anitioki mai Pisitia",
+    "book": "Cakacaka 13:14-50",
+    "today": "Yalvaç, Tike nikua",
+    "note": "Sa dola na kosipeli ki na Matanitu Tani.",
+    "events": [
+     "Dua na ivunau balavu ni italanoa ni veivakabulai ena valenilotu",
+     "Era reki e levu na Matanitu Tani ka ciqoma na vosa",
+     "Sa vagalataki ena veisaqasaqa"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniumi",
+    "book": "Cakacaka 14:1-7",
+    "today": "Konya, Tike nikua",
+    "note": "E levu era vakabauta, ia na veivakararawataki sa vakadrotaki rau.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lisitira",
+    "book": "Cakacaka 14:8-20",
+    "today": "Tike nikua",
+    "note": "Vakatokai me kalou, sa qai viritaki ena vatu.",
+    "events": [
+     "Sa vakabula e dua na tamata sa lokiloki tekivu mai na sucu",
+     "Sa via cabocaboni vei rau na lewenivanua me vaka na kalou",
+     "Viritaki ena vatu ka biu me mate, ia sa tucake"
+    ]
+   },
+   "derbe": {
+    "name": "Tapi",
+    "book": "Cakacaka 14:20-21",
+    "today": "Tike nikua",
+    "note": "E levu na tisaipeli era caka; era muria tale na sala me vakaukauwataka na lotu.",
+    "events": []
+   },
+   "troas": {
+    "name": "Tiroa",
+    "book": "Cakacaka 16:8-10",
+    "today": "Tike nikua",
+    "note": "Na tikina ni veisau ni sa qai gole na kosipeli ki Iurope.",
+    "events": [
+     "Dua na raivotu ni dua na kai Masitonia",
+     "“Lako mai ki Masitonia ka vukei keimami”",
+     "Era soko sara ki Iurope"
+    ]
+   },
+   "philippi": {
+    "name": "Niapili",
+    "book": "Cakacaka 16 · Filipai",
+    "today": "Kirisi ki na vualiku nikua",
+    "note": "Na imatai ni lotu mai Iurope — sa qaqa na kosipeli ena valeniveivesu talega.",
+    "events": [
+     "Sa vakabauta ko Litia, na daudauveivoli isulu loaloa",
+     "Sa sereki e dua na yalewa gonevuli daukaraikatoto",
+     "Sere ni bogi, uneune, sa vakabulai na vuvale ni daunivesu"
+    ]
+   },
+   "thess": {
+    "name": "Cesalonaika",
+    "book": "Cakacaka 17 · 1–2 Cesalonaika",
+    "today": "Thessaloniki, Kirisi nikua",
+    "note": "Sa yavalati na koro na vosa ka tubu cake na veisaqasaqa.",
+    "events": [
+     "Sa veivosaki ena valenilotu ena tolu na Siga ni Vakacecegu",
+     "“O ira era sa vukica na vuravura”",
+     "Era dro tani ena bogi"
+    ]
+   },
+   "berea": {
+    "name": "Peria",
+    "book": "Cakacaka 17:10-15",
+    "today": "Veria, Kirisi nikua",
+    "note": "O ira na ‘yalododonu’ era vakadikeva vakataki ira na vosa.",
+    "events": [
+     "Era ciqoma vakayalorawarawa na vosa",
+     "Era vakadikeva na iVolatabu e veisiga me raica kevaka e dina",
+     "E levu era yaco me vakabauta"
+    ]
+   },
+   "athens": {
+    "name": "Aceni",
+    "book": "Cakacaka 17:16-34",
+    "today": "Athens, Kirisi nikua",
+    "note": "Ena koro ni daunivuku sa vunautaka na ‘kalou tawakilai’.",
+    "events": [
+     "Sa vakacataka na koro sa sinai ena matakau",
+     "Ena Areopako sa vunautaka na Dauveibuli kei na tucake tale",
+     "Vakalialiai, ia e vica era vakabauta"
+    ]
+   },
+   "corinth": {
+    "name": "Korinica",
+    "book": "Cakacaka 18 · 1–2 Korinica",
+    "today": "Kirisi nikua",
+    "note": "Sa tiko e dua na yabaki kei na veimama, ka tara lotu ena koro sa sinai ena ca.",
+    "events": [
+     "Sa tara veivaletemani kei Akuila kei Prisila",
+     "“Kakua ni rere… ni’u sa tiko vata kei iko”",
+     "E levu na kai Korinica era vakabauta ka papitaisotaki"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Cakacaka 19 · Efeso",
+    "today": "Selçuk, Tike nikua",
+    "note": "Na uto ni ikatolu ni lakolako — sa tete na vosa ki Esia taucoko.",
+    "events": [
+     "Vakavuli veisiga me rua na yabaki ena vale i Tiranuse",
+     "Kama na ivola ni cakaisausau; cakamana kaukauwa",
+     "Sa vakaduri e dua na leqa ko Temetiriusi na daucaka siliva"
+    ]
+   },
+   "miletus": {
+    "name": "Milito",
+    "book": "Cakacaka 20:17-38",
+    "today": "Tike nikua",
+    "note": "Dua na veitatalo ni wai ni mata kei ira na qase ni lotu mai Efeso.",
+    "events": [
+     "“Maroroya na lotu sa volia ena nona dra”",
+     "Era tagi na qase ni lotu, ni kila ni ra na sega ni raici koya tale"
+    ]
+   },
+   "caesarea": {
+    "name": "Sisaria",
+    "book": "Cakacaka 23–26",
+    "today": "na baravi ni Isireli nikua",
+    "note": "Ena rua na yabaki sa taqomaka na kosipeli ena mata ni kovana kei na dua na tui.",
+    "events": [
+     "Vakatarogi ena mata ni kovana ko Filikisi kei Fesito",
+     "Na nona itaqomaki ena mata ni tui ko Akaripa",
+     "“Au sa masu vei Sisa” — sa lako ki Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalemi",
+    "book": "Cakacaka 21–23",
+    "today": "Jerusalemi nikua",
+    "note": "Tauri ena valetabu, sa tekivu na nona sala me bobula.",
+    "events": [
+     "Tauri ena valetabu ena lewenivanua",
+     "Sa taqomaki koya ena mata ni matabose",
+     "Me vaka na lewenivanua vakaRoma, talai ki Sisaria me vakatawa"
+    ]
+   },
+   "myra": {
+    "name": "Maira",
+    "book": "Cakacaka 27:5-6",
+    "today": "Demre, Tike nikua",
+    "note": "Era vodo ki na dua na waqa mai Alesatiria ka lako ki Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Toba Vinaka (Kiriti)",
+    "book": "Cakacaka 27:8-12",
+    "today": "Kiriti nikua",
+    "note": "Na ivakasala i Paula me kua ni soko sa beci.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kiriti",
+    "book": "Taito",
+    "today": "Kiriti nikua",
+    "note": "Ni oti na nona sereki, na yanuyanu a biuti Taito kina me tuvana vakavinaka na lotu.",
+    "events": [
+     "Sa biuti Taito me lesi ira na qase ena veikoro",
+     "Sa kacivaka na iliuliu tawacala ka yalodina",
+     "Sa vola na ivola vei Taito"
+    ]
+   },
+   "malta": {
+    "name": "Molota",
+    "book": "Cakacaka 27–28",
+    "today": "Molota nikua",
+    "note": "Ena covula kei na kaburuka ni waqa, sa tu dei tiko ga na yalayala ni Kalou.",
+    "events": [
+     "Sa kaburuka na waqa na cava, ia era bula kece e 276",
+     "Katia e dua na gata, ia e sega ni mavoataki",
+     "Sa vakabula na tauvimate ni yanuyanu"
+    ]
+   },
+   "syracuse": {
+    "name": "Sairakiuse",
+    "book": "Cakacaka 28:12",
+    "today": "Sisili, Itali nikua",
+    "note": "Era tiko e tolu na siga mai Sisili.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Putioli",
+    "book": "Cakacaka 28:13-14",
+    "today": "Pozzuoli, Itali nikua",
+    "note": "Era cabe mai Itali ka sotai ira na kai wekada vakabauta.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Cakacaka 28 · Ivola ni Veivesu · 2 Timoci",
+    "today": "Roma, Itali nikua",
+    "note": "Sa yaco na kosipeli ki na uto ni matanitu levu — e sega ni iotioti ia sai koya na ivakatekivu.",
+    "events": [
+     "Rua na yabaki ena vesu ni vale, vunautaka yalodoudou na matanitu",
+     "Mai eke sa vola na Ivola ni Veivesu (Efeso·Filipai·Kolosa·Filimoni)",
+     "Sa qai vesu tale, vola na 2 Timoci ka mate vakaisulu — “Au sa solia kece na noqu igu ena vuku ni veisisivi, au sa vakaotia vinaka na balavu ni vanua me cicivi”"
+    ]
+   }
+  },
+  "labels": [
+   "Wasawasa Metita",
+   "Wasawasa o Eyian",
+   "Esia Lailai",
+   "Masitonia",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Imatai ni lakolako",
+   "j2": "Ikarua ni lakolako",
+   "j3": "Ikatolu ni lakolako",
+   "rome": "Ikava ni lakolako · ki Roma",
+   "j5": "Ikalima ni lakolako · ni oti na sereki"
+  }
+ }
+}

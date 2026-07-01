@@ -1,0 +1,636 @@
+{
+ "menuName": "Lea fakatonga",
+ "htmlLang": "to",
+ "dir": "ltr",
+ "locale": "to",
+ "brand": "Tohitapu ʻi he Takotaha",
+ "docTitle": "Tohitapu ʻi he Mape · Tohitapu ʻi he Takotaha",
+ "metaDesc": "Muimui ʻi he faʻahitaʻu ʻo e Fuakava Motuʻa, ʻa e moʻui ʻo Sīsū, mo e ngaahi fononga ʻa Paula ʻi ha mape moʻoni — naʻe hoko ʻa e Tohitapu ʻi he ngaahi feituʻu moʻoni.",
+ "s": {
+  "kicker": "Tohitapu ʻi he Takotaha · Mape",
+  "title": "Tohitapu ʻi he Mape",
+  "verse": "“He tala‘ehai ko ‘emau fai ki ha ngaahi fananga ne fa‘u ke fakahinga ‘a e kakai, ‘a ‘emau ongoongoa atu ‘a e māfimafi ‘a hotau ‘Eiki ko Sīsū Kalaisi, mo ‘ene toe hoko mai; ka ko e kau sio tonu kimautolu ki hono lāngilangi.” (Pita 2 1:16)",
+  "purpose": "ʻOku ʻikai ko ha talatupuʻa ʻa e Tohitapu. Ko ha lekōti ia ʻo e kakai naʻe ʻaʻeva ʻi he ngaahi feituʻu, ʻaho, mo e hingoa moʻoni. Muimui ʻi he ngaahi hala ko ia ʻi ha mape, ʻi he hokohoko fakataimi — tāʻaki ha poini, pe lomiʻi ʻa e ▶ ke ʻalu ʻi ai laka-laka.",
+  "ot_kick": "① Fuakava Motuʻa — ʻi he lolotonga ʻo e taimi",
+  "ot_h": "Mei he fakatupu ki he foki ki Selusalema",
+  "ot_lead": "ʻOku ʻikai ko ha fononga pē taha ka ko e tafe ʻo e talanoa fakahaofi mei he fakatupu: fakatupu mo e hinga → lōmaki mo Papeli → ha ui (ʻEpalahame) → ko e fonua naʻe talaʻofaʻi → ʻEkisoto → toafa → kapasiviki → puleʻanga → mavahe → ave pōpula → foki.",
+  "je_kick": "② Fuakava Foʻou — ko e moʻui ʻo Sīsū",
+  "je_h": "Mei Petelihema ki Selusalema",
+  "je_lead": "Muimui ʻi he moʻui ʻo Sīsū ʻo hangē ko hono fakamatalaʻi ʻe he ngaahi Kōsipeli, ʻi he hokohoko — mei hono ʻaloʻi ʻi Petelihema, ʻi hono papitaiso mo ʻene ngāue ʻi Kāleli, ʻi Samēlia, ki he kolosi, toetuʻu, mo e hāʻele hake ʻi Selusalema.",
+  "pa_kick": "③ Fuakava Foʻou — ngaahi fononga ʻa Paula",
+  "pa_h": "Mei ʻAniteoke ki he ngaahi ngataʻanga ʻo māmani — Loma",
+  "pa_lead": "Mei he Penitekosi ʻi Selusalema, ʻa e founga naʻe mafola ai ʻa e ongoongolelei ʻo hulu atu ʻi Siutea — fakafou ʻi ʻĀsia Iiki mo ʻIulope ki he loto ʻo e ʻemepaea. Fili ha taha ʻo e fononga ʻe nima (1·2·3 + ko e folau ki Loma + hili hono tukuange) pea muimui ʻi he ngaahi meʻa ʻo e Ngaue mo e ngaahi tohi naʻe tohi ʻi he hala.",
+  "foot": "Ngaahi maʻuʻanga · ʻOku muimui ʻa e ngaahi feituʻu ki he konga Tohitapu mo e sivilaisai Tohitapu angamaheni (mo e ngaahi hingoa ʻo onopooni ʻi he feituʻu ʻoku ʻaonga ai). Ko e ngaahi matātahi, vaitafe, mo e ngaahi anovai ʻoku tohi mei he ngaahi fakamatala fakasilisili ʻatā (Natural Earth), fakafaingofuaʻi.",
+  "contact": "Ngaahi fehuʻi · fakamatala — <a id=\"contact\" class=\"mail\">ʻImeili mai</a>",
+  "play": "Tā",
+  "pause": "Tuku",
+  "today": "ʻAho ni:",
+  "verseCite": "Pita 2 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "ʻIteni (Fakatupu · Hinga)",
+    "book": "Senesi 1–3",
+    "today": "ko e feituʻu ʻo Taikilisi–ʻIufaletisi ʻi he ʻaho ni",
+    "note": "Ki ha māmani naʻe ngaohi ke lelei ʻaupito, ʻoku hū mai ʻa e angahala ʻo motuhi ʻa e vā ʻo e ʻOtua mo e tangata.",
+    "events": [
+     "Fakatupu ʻi he ʻaho ʻe ono — “naʻe lelei ʻaupito”",
+     "Ngaohi ʻa e tangata ʻi he ʻīmisi ʻo e ʻOtua",
+     "Ko e hinga, mo e kapusi mei ʻIteni",
+     "Ko e talaʻofa ʻuluaki ʻo e ongoongolelei — “ʻe laiki ʻe he hako ʻo e fefine ʻa e ʻulu ʻo e ngata”"
+    ]
+   },
+   "noah": {
+    "name": "ʻAlalate (ko e Lōmaki)",
+    "book": "Senesi 6–9",
+    "today": "Moʻunga ʻAlalate, hahake ʻo Toake ʻi he ʻaho ni",
+    "note": "ʻOku fakamaau ʻe he ʻOtua ha māmani naʻe fonu ʻi he angahala, ka ʻoku ne fakahaofi ʻa e moʻui fakafou ʻi ha fāmili pē taha.",
+    "events": [
+     "Ko ha māmani naʻe fonu ʻi he mele",
+     "Ko e lōmaki, mo e vaka ʻa Noa",
+     "Ko e fuakava ʻo e ʻumata — “ʻe ʻikai toe ha lōmaki ke fakaʻauha”"
+    ]
+   },
+   "babel": {
+    "name": "Taua ʻo Papeli",
+    "book": "Senesi 11",
+    "today": "Toake ʻi he ʻaho ni (toafa ʻo Sinā)",
+    "note": "Ki he fielahi ʻoku aʻa ki langi, ʻoku fakamovetevete ʻe he ʻOtua ʻenau lea mo e ngaahi kakai ki he funga ʻo māmani.",
+    "events": [
+     "“Ke tau langa ha kolo mo ha taua… ke tau ngaohi hotau hingoa”",
+     "ʻOku fakapuputuʻu ʻe he ʻOtua ʻenau lea",
+     "ʻOku movetevete ʻa e kakai ki he funga ʻo māmani (Sinā — ki mui ko Pāpilone)"
+    ]
+   },
+   "ur": {
+    "name": "ʻUa",
+    "book": "Senesi 12",
+    "today": "tonga ʻo Toake ʻi he ʻaho ni",
+    "note": "ʻOku kamata ʻa e talanoa ʻo e fakahaofi ʻa e Tohitapu ʻaki ha ui ʻo ha tangata pē taha.",
+    "events": [
+     "ʻOku ui ʻe he ʻOtua ʻa ʻEpalame mei ʻUa ʻo e kau Kalitea",
+     "“Te u ngaohi koe ko ha puleʻanga lahi… ʻe monūʻia ʻa e faʻahinga kotoa ʻiate koe”",
+     "ʻI he tui ʻoku ne mahuʻi mei hono fonua"
+    ]
+   },
+   "haran": {
+    "name": "Halane",
+    "book": "Senesi 12",
+    "today": "tonga ʻo Toake ʻi he ʻaho ni",
+    "note": "ʻI he hala, ʻoku tali ʻa e ui ʻo hanga ki he fonua naʻe talaʻofaʻi.",
+    "events": [
+     "ʻOku nofo ʻa e fāmili ʻo Tela ʻi Halane",
+     "ʻOku pekia ʻa Tela",
+     "ʻOku ʻalu ʻa ʻEpalame ki Kēnani ʻi hono taʻu 75"
+    ]
+   },
+   "shechem": {
+    "name": "Sikemi · Kēnani",
+    "book": "Senesi 12–50",
+    "today": "Napolo ʻi he ʻaho ni",
+    "note": "ʻI he fonua naʻe talaʻofaʻi ʻoku fokotuʻu ha fāmili pea ʻoku fou atu ʻa e fuakava ki he ngaahi toʻutangata.",
+    "events": [
+     "Hū ki Kēnani, ʻuluaki ʻōlita — “ki ho hako te u foaki ai ʻa e fonua ni”",
+     "Ko e fuakava (Sen 15) · ʻAisake · Sēkope",
+     "Ko e foha ʻe hongofulu ma ua ʻo Sēkope — aka ʻo e matakali ʻe hongofulu ma ua"
+    ]
+   },
+   "egypt": {
+    "name": "ʻIsipite (Koseni)",
+    "book": "Senesi 37–50 · ʻEkisoto 1",
+    "today": "ʻo e Nailé, ʻIsipite ʻi he ʻaho ni",
+    "note": "ʻOku hoko ha fāmili ko ha puleʻanga lahi — pea hoko ai ko ha puleʻanga pōpula.",
+    "events": [
+     "Ko Siosefa, naʻe fakatau atu, ʻoku hakeakiʻi ke pule ki ʻIsipite",
+     "ʻOku ʻalu hifo ʻa e fāmili kātoa ʻo Sēkope ke hao mei he honge",
+     "ʻOku fakapōpulaʻi ʻa e puleʻanga tupu ʻo ʻIsileli"
+    ]
+   },
+   "sinai": {
+    "name": "Moʻunga Sainai",
+    "book": "ʻEkisoto · Levitiko",
+    "today": "ʻo e Fuka ʻo Sainai ʻi he ʻaho ni",
+    "note": "Ko e fakahaofi tefito ʻo e Fuakava Motuʻa — ʻoku hoko ʻa e kau pōpula ko e kakai ʻoʻona ʻo e ʻOtua.",
+    "events": [
+     "Ko e mala ʻe hongofulu mo e lami ʻo e Lakaatu",
+     "ʻOku māvae ʻa e Tahi Kulokula pea nau aʻa",
+     "Ngaahi Fekau ʻe Hongofulu, ko e Lao, ko e tāpanekale mo e ngaahi feilaulau"
+    ]
+   },
+   "kadesh": {
+    "name": "Ketesi (toafa)",
+    "book": "Nomipā · Teutalonome",
+    "today": "ʻo e toafa ʻo Sainai–Nekevi ʻi he ʻaho ni",
+    "note": "ʻOku maumauʻi ʻe he taʻetui ʻa e fonua ki ha toʻutangata — ka ʻoku kei nofo mo kinautolu ʻa e ʻOtua.",
+    "events": [
+     "Ko e mataki ʻe hongofulu ma ua — ka ʻoku fakafisi ʻa e kakai ke falala",
+     "Taʻu ʻe 38 ʻi he toafa — mana, ʻao, mo e afi",
+     "ʻI he tafangafanga ʻo Moape, ko e malanga fakaʻosi ʻa Mōsese (Teutalonome)"
+    ]
+   },
+   "jericho": {
+    "name": "Sēliko",
+    "book": "Siosiua",
+    "today": "Sēliko ʻi he ʻaho ni",
+    "note": "ʻI he ʻosi ʻoku nau hū atu ʻo maʻu ʻa e fonua naʻe talaʻofaʻi.",
+    "events": [
+     "ʻOku māvae ʻa e Sioteni pea aʻa ʻa e kakai",
+     "ʻOku holo ʻa e ngaahi ʻā ʻo Sēliko",
+     "Ko e kapasiviki ʻo Kēnani mo hono vahevahe ʻo e fonua"
+    ]
+   },
+   "shiloh": {
+    "name": "Sailo (Kau Fakamaau)",
+    "book": "Kau Fakamaau · Lute",
+    "today": "Kilipeti Seiluni ʻi he ʻaho ni",
+    "note": "ʻI he ʻikai ha tuʻi, ʻoku takitaha fai hono loto — ʻoku fie maʻu ha tuʻi moʻoni.",
+    "events": [
+     "ʻOku fokotuʻu ʻa e tāpanekale ʻi Sailo",
+     "Ko e takai ʻo e angahala–fakamālohiʻi–fakahaofi (Tepola, Kitione, Samisoni)",
+     "Ko Lute — angatonu ʻi he ngaahi ʻaho fakapoʻuli, ʻi he hako ʻo Tēvita"
+    ]
+   },
+   "jerusalem": {
+    "name": "Selusalema · Puleʻanga Fakataha",
+    "book": "1–2 Samiuela · 1 Tuʻi",
+    "today": "Selusalema ʻi he ʻaho ni",
+    "note": "Ko e kuonga koula ʻo ʻIsileli — mo e talaʻofa ʻo ha tuʻi taʻengata.",
+    "events": [
+     "Ko Saula ko e tuʻi ʻuluaki, pea mo Tēvita mo Kolaiate",
+     "Ko e fuakava mo Tēvita — “ho taloni ʻo taʻengata” (2 Sam 7)",
+     "ʻOku langa ʻe Solomone ʻa e temipale ʻi Selusalema"
+    ]
+   },
+   "samaria": {
+    "name": "Samēlia · Puleʻanga Mavahe",
+    "book": "Tuʻi · Kau Palōfita",
+    "today": "Sepasitia ʻi he ʻaho ni",
+    "note": "ʻOku mavahe mo holo ʻa e puleʻanga ʻi he tangi ʻa e kau palōfita.",
+    "events": [
+     "Hili ʻa Solomone, ko e mavahe ki Siuta mo ʻIsileli",
+     "Ko e toutou tauhi ʻaitoli",
+     "ʻOku tangi ʻa ʻIlaisiā, ʻIsaia, Selemaia ‘tafoki mai’ — ʻo tomuʻa fakahā ʻa e Mesaia"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (ʻAsīlia)",
+    "book": "2 Tuʻi 17 · Siona",
+    "today": "Mosulu, Toake ʻi he ʻaho ni",
+    "note": "ʻI he taʻetokangaʻi ʻa e fakatokanga kotoa, ʻoku hinga ʻuluaki ʻa e tokelau.",
+    "events": [
+     "Ko Ninive, ko e kolomuʻa ʻo ʻAsīlia",
+     "ʻOku hinga ʻa e puleʻanga tokelau ki ʻAsīlia (722 KM)",
+     "ʻOku fekauʻi ʻa Siona ki Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Pāpilone",
+    "book": "2 Tuʻi 25 · Taniela · ʻIsikeli",
+    "today": "Hila, Toake ʻi he ʻaho ni",
+    "note": "Ko e poʻuli fakapoʻuli taha — ka ʻoku kei ʻi ai ʻa e talaʻofa ʻo e fakaakeake.",
+    "events": [
+     "ʻOku hinga ʻa Selusalema, ʻoku tutu ʻa e temipale (586 KM)",
+     "ʻOku ʻave pōpula ʻa Siuta ki Pāpilone",
+     "Ko Taniela mo ʻIsikeli — tui mo e ngaahi meʻa-hā-mai ʻi he ave pōpula"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Pēsia)",
+    "book": "ʻEseta · Nehemaia",
+    "today": "Susi, ʻIlaani ʻi he ʻaho ni",
+    "note": "Naʻa mo e loto ʻo ha ʻemepaea faka-hiteni, ʻoku tauhi ʻe he ʻOtua hono kakai.",
+    "events": [
+     "ʻOku ikuna ʻe Pēsia ʻa Pāpilone",
+     "ʻOku fakahaofi ʻe ʻEseta ʻa e kau Siu mei he fakaʻauha",
+     "ʻOku lotu ʻa Nehemaia ʻi he ʻao ʻo e tuʻi pea fekauʻi ia"
+    ]
+   },
+   "return": {
+    "name": "Foki ki Selusalema",
+    "book": "ʻEsila · Nehemaia · Malakai",
+    "today": "Selusalema ʻi he ʻaho ni",
+    "note": "ʻOku nau foki ʻo toe langa — ka ʻoku ʻikai haʻu ha tuʻi. ʻOku nau tatali ki he Mesaia.",
+    "events": [
+     "Peau ʻe tolu ʻo e foki ʻi he tuʻutuʻuni ʻa Saialosi (Selupāpeli 538 · ʻEsila 458 · Nehemaia 444)",
+     "Toe langa ʻa e temipale mo fakalelei ʻa e ngaahi ʻā ʻo Selusalema",
+     "Ko Malakai — ʻoku tāpuni ʻa e Fuakava Motuʻa: “Te u fekau atu ʻeku talafekau”"
+    ]
+   }
+  },
+  "labels": [
+   "Tahi Metitēlēnia",
+   "Mesopōtemia",
+   "Toafa ʻo ʻAlepea",
+   "ʻIsipite"
+  ],
+  "journeys": {
+   "flow": "Ko e talanoa fakahaofi"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Petelihema",
+    "book": "Mātiú 1–2 · Luké 2",
+    "today": "Petelihema ʻi he ʻaho ni",
+    "note": "ʻOku haʻu ʻa e Mesaia naʻe talaʻofaʻi ki he kolo ʻo Tēvita — ko e Folofola kuo hoko ko e kakano.",
+    "events": [
+     "Naʻe ʻaloʻi ʻi Petelihema, ko e kolo ʻo Tēvita",
+     "ʻOku fakahā ʻe he kau ʻāngelo ʻa e ongoongo ki he kau tauhi sipi",
+     "ʻOku haʻu ʻa e kau tangata poto ke hū"
+    ]
+   },
+   "nazareth": {
+    "name": "Nāsaleti",
+    "book": "Luké 2 · 4",
+    "today": "Nāsaleti ʻi he ʻaho ni",
+    "note": "ʻOku tupu hake ʻa e ʻOtua ko ha tangata ʻi ha kolo angamaheni.",
+    "events": [
+     "Naʻe tauhi ʻi ha ʻapi ʻo ha tufunga",
+     "ʻI he taʻu hongofulu ma ua, ʻoku fehuʻi mo tali ʻi he temipale",
+     "Ki mui naʻe siʻaki ʻi he sinakoke ʻo hono kolo tupuʻanga"
+    ]
+   },
+   "jordan": {
+    "name": "Vaitafe Sioteni",
+    "book": "Mātiú 3–4",
+    "today": "ʻo e Sioteni ki lalo ʻi he ʻaho ni",
+    "note": "ʻOku kamata ʻene ngāue fakahā — ʻoku sila ʻe langi ia ko e ʻAlo.",
+    "events": [
+     "Naʻe papitaiso ʻe Sione",
+     "ʻOku hifo ʻa e Laumālie ʻo hangē ha lupe — “Ko hoku ʻAlo ʻofaʻanga eni”",
+     "ʻOku ne ikuna ʻa e ʻahiʻahi ʻe tolu ʻa Sētane ʻi he toafa"
+    ]
+   },
+   "cana": {
+    "name": "Kēna",
+    "book": "Sione 2",
+    "today": "Kafa Kana ʻi he ʻaho ni",
+    "note": "ʻI heʻene ʻuluaki fakaʻilonga ʻoku ne fakahā hono nāunau.",
+    "events": [
+     "Ko ha ʻāunofo ʻi ha mali",
+     "Vai kuo liliu ko e uaine — ko ʻene ʻuluaki fakaʻilonga",
+     "ʻOku tui ʻene kau ākonga kiate ia"
+    ]
+   },
+   "sychar": {
+    "name": "Saika (Samēlia)",
+    "book": "Sione 2–4",
+    "today": "ofi ki Napolo ʻi he ʻaho ni",
+    "note": "Ko e hala ʻo e ngāue ki muʻa — fakafou ʻi Selusalema ʻo ʻalu ki Samēlia naʻe fehiʻa ki ai.",
+    "events": [
+     "ʻOku ne fakamaʻa ʻa e temipale ʻi Selusalema",
+     "ʻI he poʻuli, ko Nikotimasi — “Kuo pau ke fanauʻi koe ʻo foʻou”",
+     "Vai moʻui ki ha fefine Samēlia"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapaniume",
+    "book": "Mātiú 4–13 · Maʻake 1–4",
+    "today": "ʻo e matātahi ʻo Kāleli ʻi he ʻaho ni",
+    "note": "Ko e nofoʻanga tefito ʻo e ngāue ʻi Kāleli — ʻoku fetaulaki heni ʻa e ui, akonaki, mo e fakafepaki.",
+    "events": [
+     "ʻOku ne ui ʻa e kau toutai ika ʻo ne nofo heni",
+     "Ko e Malanga ʻi he Moʻunga — “Monūʻia ʻa e masiva ʻi he laumālie”",
+     "Ngaahi palapalanga ʻo e puleʻanga — mo e tupu ʻo e fakafepaki"
+    ]
+   },
+   "galilee": {
+    "name": "Tahi ʻo Kāleli",
+    "book": "Maʻake 4 · 6 · Sione 6",
+    "today": "Anovai Kinereti ʻi he ʻaho ni",
+    "note": "ʻI he mālohi ki he natula ʻoku ne fakahā ai pe ko hai ia.",
+    "events": [
+     "“Melino, longo pē” — ʻoku ne fakalongoleleiʻi ʻa e afā",
+     "ʻOku ne fafanga ʻa e toko 5,000 ʻaki ʻa e foʻi mā ʻe nima mo e ika ʻe ua",
+     "ʻOku ne ʻeveʻeva ʻi he funga vai"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sesalia Filipai",
+    "book": "Mātiú 16–17",
+    "today": "Pania ʻi he ʻaho ni",
+    "note": "ʻOku ʻilo ʻe he kau ākonga ko e Kalaisi ia, pea ʻoku ava ʻa e hala ʻo e kolosi.",
+    "events": [
+     "Ko e fakahā ʻa Pita — “Ko koe ko e Kalaisi, ko e ʻAlo ʻo e ʻOtua moʻui”",
+     "ʻOku ne ʻuluaki tomuʻa fakahā hono pekia mo e toetuʻu",
+     "ʻOku liliu ʻi he nāunau ʻi he moʻunga"
+    ]
+   },
+   "jericho": {
+    "name": "Sēliko",
+    "book": "Luké 18–19",
+    "today": "Sēliko ʻi he ʻaho ni",
+    "note": "ʻI he hala hake ki Selusalema, ʻoku ne kumi ʻa e kau mole.",
+    "events": [
+     "ʻOku ne ʻomi ʻa e ʻā kia Patimeasi kui",
+     "ʻOku ne ui ʻa Sakiasi ko e tānaki tukuhau",
+     "“Naʻe haʻu ʻa e Foha ʻo e tangata ke kumi mo fakamoʻui ʻa e mole”"
+    ]
+   },
+   "bethany": {
+    "name": "Petani",
+    "book": "Sione 11–12",
+    "today": "ʻEisalia ʻi he ʻaho ni",
+    "note": "ʻOku ne fakahā ʻa e pule ki he mate ʻi he efiafi ʻo hono uike fakaʻosi.",
+    "events": [
+     "ʻOku ne fokotuʻu ʻa Lasalosi mei he faʻitoka — “Ko au ko e toetuʻu mo e moʻui”",
+     "ʻOku pani ia ʻe Mele ki hono tanu",
+     "ʻOku ai ʻe he fakaʻilonga ni ke fefeka ʻa e taumuʻa ke tāmateʻi ia"
+    ]
+   },
+   "jerusalem": {
+    "name": "Selusalema",
+    "book": "Mātiú 21–28 · Luké 24 · Ngaue 1",
+    "today": "Selusalema ʻi he ʻaho ni",
+    "note": "Ko e tumutumu ʻoku tuhu ki ai ʻa e Tohitapu kotoa — kolosi, toetuʻu, hāʻele hake.",
+    "events": [
+     "Hū fakalāngilangi; ʻoku ne toe fulihi ʻa e ngaahi tēpile ʻo e temipale",
+     "ʻI he ʻOhomohe Fakaʻosi ʻoku ne fufulu ʻa e vaʻe ʻo e kau ākonga",
+     "ʻOku ne pekia ʻi he kolosi",
+     "Toetuʻu ʻi hono ʻaho tolu, pea hāʻele hake"
+    ]
+   }
+  },
+  "labels": [
+   "Tahi Metitēlēnia",
+   "Kāleli",
+   "Samēlia",
+   "Siutea",
+   "Tekapoli",
+   "Pelea",
+   "Tahi Mate"
+  ],
+  "journeys": {
+   "life": "Ko e hala ʻo Sīsū"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "ʻAniteoke",
+    "book": "Ngaue 13 · 15",
+    "today": "ʻAnatakia, Toake ʻi he ʻaho ni",
+    "note": "Ko e siasi fekau ʻoku kamata mo foki ki ai ʻa e ngāue ki he Senitaile.",
+    "events": [
+     "ʻI he lotu ʻoku vaheʻi ʻe he Laumālie ʻa Panapasi mo Saula",
+     "Ko e siasi naʻe ʻuluaki ui ai ʻa e kau tui ko e ‘Kalisitiane’",
+     "Ko e kamataʻanga ʻo e fononga ʻuluaki, ua, mo tolu"
+    ]
+   },
+   "seleucia": {
+    "name": "Seliusia",
+    "book": "Ngaue 13:4",
+    "today": "Toake ʻi he ʻaho ni",
+    "note": "Ko e taulanga ʻo ʻAniteoke — ʻoku nau folau ki Saipalo.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salami (Saipalo)",
+    "book": "Ngaue 13:5",
+    "today": "Saipalo ʻi he ʻaho ni",
+    "note": "ʻUluaki tuʻu ʻi Saipalo — malanga ʻi he ngaahi sinakoke.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Ngaue 13:6-12",
+    "today": "Saipalo ʻi he ʻaho ni",
+    "note": "ʻOku fakahā ʻa e mālohi ki he kau fakafepaki ki he ongoongolelei.",
+    "events": [
+     "ʻOku taaʻi ʻo kui ʻa ʻElumasi ko e faimana",
+     "ʻOku tui ʻa Sēkio Paula ko e kōvana",
+     "Mei heni ʻoku takitaki ʻe ‘Paula’"
+    ]
+   },
+   "perga": {
+    "name": "Peaka",
+    "book": "Ngaue 13:13",
+    "today": "ʻAnatalia, Toake ʻi he ʻaho ni",
+    "note": "Ko e taulanga ʻi Pamifilia — ʻoku foki heni ʻa Sione Maʻake.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "ʻAniteoke Pisitia",
+    "book": "Ngaue 13:14-50",
+    "today": "Ialivasi, Toake ʻi he ʻaho ni",
+    "note": "ʻOku ava ʻa e ongoongolelei ʻo hanga ki he Senitaile.",
+    "events": [
+     "Ko ha malanga loloa ʻo e talanoa fakahaofi ʻi he sinakoke",
+     "ʻOku fiefia ʻa e Senitaile tokolahi ʻo tali ʻa e folofola",
+     "ʻOku kapusi ʻe he fakafepaki"
+    ]
+   },
+   "iconium": {
+    "name": "ʻIkoniume",
+    "book": "Ngaue 14:1-7",
+    "today": "Konia, Toake ʻi he ʻaho ni",
+    "note": "ʻOku tui ʻa e tokolahi, ka ʻoku fakamālohi ʻe he fakatanga ke nau ʻalu.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lisitala",
+    "book": "Ngaue 14:8-20",
+    "today": "Toake ʻi he ʻaho ni",
+    "note": "Ui ko ha ʻotua, pea toki tolongaki ʻaki ʻa e maka.",
+    "events": [
+     "ʻOku ne fakamoʻui ha tangata naʻe ketu talu mei hono ʻaloʻi",
+     "ʻOku feinga ʻa e kakai ke feilaulau kiate kinaua ʻo hangē ha ngaahi ʻotua",
+     "Tolongaki ʻaki ʻa e maka ʻo tuku ke mate, ka ʻoku ne tuʻu hake"
+    ]
+   },
+   "derbe": {
+    "name": "Tepe",
+    "book": "Ngaue 14:20-21",
+    "today": "Toake ʻi he ʻaho ni",
+    "note": "ʻOku ngaohi ha kau ākonga tokolahi; ʻoku nau toe foki ke fakamālohia ʻa e ngaahi siasi.",
+    "events": []
+   },
+   "troas": {
+    "name": "Toloasi",
+    "book": "Ngaue 16:8-10",
+    "today": "Toake ʻi he ʻaho ni",
+    "note": "Ko e feituʻu liliu ʻoku ʻuluaki hanga ai ʻa e ongoongolelei ki ʻIulope.",
+    "events": [
+     "Ko ha meʻa-hā-mai ʻo ha tangata Masetōnia",
+     "“Haʻu ki heni ʻo tokoni mai”",
+     "ʻOku nau vave ʻo aʻa ki ʻIulope"
+    ]
+   },
+   "philippi": {
+    "name": "Filipai",
+    "book": "Ngaue 16 · Filipai",
+    "today": "tokelau ʻo Kalisi ʻi he ʻaho ni",
+    "note": "Ko e ʻuluaki siasi ʻo ʻIulope — ʻoku ikuna ʻa e ongoongolelei naʻa mo e fale fakapōpula.",
+    "events": [
+     "Ko Litia, ko ha fefine faikoloa lanumo, ʻoku tui",
+     "ʻOku fakatauʻatāina ha taʻahine pōpula naʻe kikite",
+     "Hiva ʻi he tuʻuapō, mofuike, ʻoku fakamoʻui ʻa e fāmili ʻo e leʻo fale fakapōpula"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonaika",
+    "book": "Ngaue 17 · 1–2 Tesalonaika",
+    "today": "Tesalonaiki, Kalisi ʻi he ʻaho ni",
+    "note": "ʻOku ueʻi ʻe he folofola ʻa e kolo pea puna hake ʻa e fakafepaki.",
+    "events": [
+     "ʻOku ne fakakaukauʻi ʻi he sinakoke ʻi he Sāpate ʻe tolu",
+     "“Ko kinautolu ni kuo nau fulihi ʻa māmani”",
+     "ʻOku nau hola ʻi he poʻuli"
+    ]
+   },
+   "berea": {
+    "name": "Pelea",
+    "book": "Ngaue 17:10-15",
+    "today": "Velia, Kalisi ʻi he ʻaho ni",
+    "note": "Ko e kakai ‘angatonu’ naʻa nau sivisivi tokotaha ʻa e folofola.",
+    "events": [
+     "ʻOku nau tali ʻa e folofola ʻi he loto-fiefia",
+     "ʻAho kotoa ʻoku nau sivisivi ʻa e Tohitapu ke fakapapauʻi",
+     "ʻOku hoko ʻo tui ʻa e tokolahi"
+    ]
+   },
+   "athens": {
+    "name": "ʻAtenisi",
+    "book": "Ngaue 17:16-34",
+    "today": "ʻAtenisi, Kalisi ʻi he ʻaho ni",
+    "note": "ʻI he kolo ʻo e kau filōsefa ʻoku ne malanga ʻaki ʻa e ‘ʻotua taʻeʻiloʻi’.",
+    "events": [
+     "ʻOku ueʻi ia ʻe ha kolo fonu ʻi he ngaahi ʻaitoli",
+     "ʻI he ʻAleopako ʻoku ne malanga ʻaki ʻa e Tokotaha-fakatupu mo e toetuʻu",
+     "Manukiʻi, ka ʻoku tui ʻa e niʻihi tokosiʻi"
+    ]
+   },
+   "corinth": {
+    "name": "Kolinitō",
+    "book": "Ngaue 18 · 1–2 Kolinitō",
+    "today": "Kalisi ʻi he ʻaho ni",
+    "note": "ʻOku ne nofo taʻu ʻe taha mo e vaeua, ʻo tō ha siasi ʻi ha kolo ʻo e angahala.",
+    "events": [
+     "ʻOku ne ngaohi teniti mo ʻAkuila mo Pilisila",
+     "“ʻOua ʻe manavahē… he ʻoku ou ʻiate koe”",
+     "ʻOku tui mo papitaiso ʻa e Kolinitō tokolahi"
+    ]
+   },
+   "ephesus": {
+    "name": "ʻEfeso",
+    "book": "Ngaue 19 · ʻEfeso",
+    "today": "Selisuki, Toake ʻi he ʻaho ni",
+    "note": "Ko e loto ʻo e fononga tolu — ʻoku mafola ʻa e folofola ʻi ʻĀsia.",
+    "events": [
+     "ʻAho kotoa ʻoku ako ʻi he taʻu ʻe ua ʻi he fale ʻo Tailano",
+     "Tutu ʻa e ngaahi tohi mana; ngaahi ngāue mālohi",
+     "ʻOku fakatupu ʻe Timitiliusi ko e tufunga siliva ha maveuveu"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Ngaue 20:17-38",
+    "today": "Toake ʻi he ʻaho ni",
+    "note": "Ko ha māvae loʻimata ki he kau mātuʻa ʻo ʻEfeso.",
+    "events": [
+     "“Tauhi ʻa e siasi naʻa ne fakatau ʻaki hono taʻataʻa ʻoʻona”",
+     "ʻOku tangi ʻa e kau mātuʻa, ʻi he ʻilo ʻe ʻikai te nau toe mamata kiate ia"
+    ]
+   },
+   "caesarea": {
+    "name": "Sesalia",
+    "book": "Ngaue 23–26",
+    "today": "ʻo e matātahi ʻo ʻIsileli ʻi he ʻaho ni",
+    "note": "ʻI he taʻu ʻe ua ʻoku ne malanga ʻaki ʻa e ongoongolelei ʻi he ʻao ʻo e kau kōvana mo ha tuʻi.",
+    "events": [
+     "Ngaahi fakamaau ʻi he ʻao ʻo e kau kōvana ko Filikisi mo Fesito",
+     "Ko ʻene taukapo ʻi he ʻao ʻo e Tuʻi ko ʻAkilipa",
+     "“ʻOku ou hū kia Sisa” — ʻo ʻalu ki Loma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Selusalema",
+    "book": "Ngaue 21–23",
+    "today": "Selusalema ʻi he ʻaho ni",
+    "note": "Puke ʻi he temipale, ʻoku kamata ai hono hala ko ha pōpula.",
+    "events": [
+     "Puke ʻe he kakai ʻi he temipale",
+     "ʻOku ne taukapoʻi ia ʻi he ʻao ʻo e fakataha-alea",
+     "Ko ha tangatafonua Loma, ʻoku fekauʻi ʻi he leʻo ki Sesalia"
+    ]
+   },
+   "myra": {
+    "name": "Maila",
+    "book": "Ngaue 27:5-6",
+    "today": "Temele, Toake ʻi he ʻaho ni",
+    "note": "ʻOku nau hiki ki ha vaka ʻAlekisānitia naʻe folau ki Loma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Taulanga Lelei (Keleti)",
+    "book": "Ngaue 27:8-12",
+    "today": "Keleti ʻi he ʻaho ni",
+    "note": "ʻOku ʻikai tokangaʻi ʻa e fakatokanga ʻa Paula ke tuku ʻa e folau.",
+    "events": []
+   },
+   "crete": {
+    "name": "Keleti",
+    "book": "Taitusi",
+    "today": "Keleti ʻi he ʻaho ni",
+    "note": "Hili hono tukuange, ko e motu naʻa ne tuku ai ʻa Taitusi ke fakalelei ʻa e ngaahi siasi.",
+    "events": [
+     "ʻOku ne tuku ʻa Taitusi ke fili ha kau mātuʻa ʻi he kolo kotoa",
+     "ʻOku ne ui ki ha kau taki taʻehalaia mo faivelenga",
+     "ʻOku ne tohi ʻa e tohi kia Taitusi"
+    ]
+   },
+   "malta": {
+    "name": "Melita",
+    "book": "Ngaue 27–28",
+    "today": "Melita ʻi he ʻaho ni",
+    "note": "Fakafou ʻi he afā mo e maumau vaka, ʻoku tuʻu maʻu ʻa e talaʻofa ʻa e ʻOtua.",
+    "events": [
+     "ʻOku maumauʻi ʻe he ‘matangi tokelau-hahake’ ʻa e vaka, ka ʻoku hao ʻa e toko 276 kotoa",
+     "Uʻu ʻe ha ngata, ka ʻoku ʻikai lavea ia",
+     "ʻOku ne fakamoʻui ʻa e mahaki ʻo e motu"
+    ]
+   },
+   "syracuse": {
+    "name": "Silakusa",
+    "book": "Ngaue 28:12",
+    "today": "Sisili, ʻĪtali ʻi he ʻaho ni",
+    "note": "ʻOku nau nofo ʻaho ʻe tolu ʻi Sisili.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Ngaue 28:13-14",
+    "today": "Posuoli, ʻĪtali ʻi he ʻaho ni",
+    "note": "ʻOku nau tō ʻi ʻĪtali pea ʻoku fakafetaulaki mai ʻe he kau tui kaungāʻapi.",
+    "events": []
+   },
+   "rome": {
+    "name": "Loma",
+    "book": "Ngaue 28 · Ngaahi Tohi ʻo e Pōpula · 2 Timote",
+    "today": "Loma, ʻĪtali ʻi he ʻaho ni",
+    "note": "ʻOku aʻu ʻa e ongoongolelei ki he loto ʻo e ʻemepaea ʻi he ʻosi — ʻo ʻikai ko ha ngataʻanga ka ko ha kamataʻanga.",
+    "events": [
+     "Taʻu ʻe ua ʻi he malaʻe fakapōpula ʻi ʻapi, ʻo malanga loto-toʻa ʻaki ʻa e puleʻanga",
+     "Mei heni ʻoku ne tohi ʻa e Ngaahi Tohi ʻo e Pōpula (ʻEfeso·Filipai·Kolose·Filimoni)",
+     "Ki mui ʻoku toe fakapōpula, ʻo tohi ʻa e 2 Timote pea fakapoongi — “Kuo u fai ʻa e tau lelei, kuo u fakaʻosi ʻa e lele”"
+    ]
+   }
+  },
+  "labels": [
+   "Tahi Metitēlēnia",
+   "Tahi ʻo ʻĪsia",
+   "ʻĀsia Iiki",
+   "Masetōnia",
+   "ʻĪtali"
+  ],
+  "journeys": {
+   "j1": "Fononga ʻuluaki",
+   "j2": "Fononga ua",
+   "j3": "Fononga tolu",
+   "rome": "Fononga fā · ki Loma",
+   "j5": "Fononga nima · hili hono tukuange"
+  }
+ }
+}

@@ -1,0 +1,636 @@
+{
+ "menuName": "Gagana Sāmoa",
+ "htmlLang": "sm",
+ "dir": "ltr",
+ "locale": "sm",
+ "brand": "Le Tusi Paia i se Tasi Tasili",
+ "docTitle": "Le Tusi Paia i le Faafanua · Le Tusi Paia i se Tasi Tasili",
+ "metaDesc": "Mulimuli i le laina o taimi o le Feagaiga Tuai, le soifua o Iesu, ma malaga a Paulo i luga o se faafanua moni — na tutupu le Tusi Paia i nofoaga moni.",
+ "s": {
+  "kicker": "Le Tusi Paia i se Tasi Tasili · Faafanua",
+  "title": "Le Tusi Paia i le Faafanua",
+  "verse": "“Auā e lei usiusitai i matou i tala o le vavau ua fatua ma le poto, ina ua matou faailoa atu ia te outou le mana ma le afio mai o lo tatou Alii o Iesu Keriso; peitai na matou vaavaai atu i lona lava mamalu.” (II Peteru 1:16)",
+  "purpose": "E le o se tala fatu le Tusi Paia. O se faamaumauga o tagata na savavali i nofoaga, aso, ma igoa moni. Mulimuli i na ala i luga o se faafanua, i le faasologa o taimi — taomi se togi, pe oomi le ▶ e savali ai i laasaga taitasi.",
+  "ot_kick": "① Feagaiga Tuai — i le aluga o taimi",
+  "ot_h": "Mai le foafoaga e oo i le toe foi i Ierusalema",
+  "ot_lead": "E le o se malaga e tasi a o le tafega o le talafaasolopito faaola mai le foafoaga: foafoaga ma le pa'ū → lolo ma Papelu → se valaauga (Aperaamo) → le laueleele folafolaina → Esoto → le toafa → manumalo → malo → vaeluaga → faaaunuua → toe foi.",
+  "je_kick": "② Feagaiga Fou — le soifua o Iesu",
+  "je_h": "Mai Peteleema e oo i Ierusalema",
+  "je_lead": "Mulimuli i le soifua o Iesu e pei ona faamatala e Evagelia, i le faasologa — mai lona fanau mai i Peteleema e ala i lona papatisoga ma le faiva i Kalilaia, e sopoia Samaria, e oo i le satauro, le toetu ma le afio ae i Ierusalema.",
+  "pa_kick": "③ Feagaiga Fou — malaga a Paulo",
+  "pa_h": "Mai Anetioka e oo i tuluiga o le lalolagi — Roma",
+  "pa_lead": "Mai le Penetekoso i Ierusalema, na faapefea ona salalau le tala lelei i tua atu o Iutaia — e ala i Asia Itiiti ma Europa e oo i le fatu o le emepaea. Filifili se tasi o malaga e lima (1·2·3 + le folauga i Roma + ina ua uma ona tatalaina) ma mulimuli i mea na tutupu i le Galuega faatasi ma tusi na tusia i le ala.",
+  "foot": "Faapogai · O nofoaga e mulimuli i le tusitusiga paia ma le fanua masani o le Tusi Paia (faatasi ma igoa faaonaponei pe a fesoasoani). O matafaga, vaitafe ma vaituloto na tusia mai i faamaumauga fanua tatala (Natural Earth), faafaigofie.",
+  "contact": "Fesili · manatu — <a id=\"contact\" class=\"mail\">Imeli mai</a>",
+  "play": "Taalo",
+  "pause": "Tu",
+  "today": "I aso nei:",
+  "verseCite": "II Peteru 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Etena (Foafoaga · Pa'ū)",
+    "book": "Kenese 1–3",
+    "today": "le itu o le Tigari–Eufirate i aso nei",
+    "note": "I se lalolagi na faia ma le lelei tele, ua ulu mai le agasala ma motusia ai le sootaga o le Atua ma le tagata.",
+    "events": [
+     "Foafoaga i aso e ono — “ua lelei tele”",
+     "Na faia le tagata i le faatusa o le Atua",
+     "Le pa'ū, ma le tuliesea mai Etena",
+     "Le uluai folafolaga o le tala lelei — “o le a tu'imomomoina e le fanau a le fafine le ulu o le gata”"
+    ]
+   },
+   "noah": {
+    "name": "Ararate (le Lolo)",
+    "book": "Kenese 6–9",
+    "today": "le Mauga o Ararate, sasae o Take i aso nei",
+    "note": "Ua faamasino e le Atua se lalolagi ua tumu i le agasala, ae na te faasaoina le ola e ala i le aiga e tasi.",
+    "events": [
+     "O se lalolagi ua tumu i le faaleagaina",
+     "Le lolo, ma le vaa a Noa",
+     "Le feagaiga o le nuanua — “e leai foi se toe lolo e faaumatia ai”"
+    ]
+   },
+   "babel": {
+    "name": "Le Olo o Papelu",
+    "book": "Kenese 11",
+    "today": "Iraki i aso nei (le laufanua o Sinaro)",
+    "note": "E faasaga i le faamaualuga e taumafai e oo i le lagi, ua faasalalau e le Atua a latou gagana ma nuu i le lalolagi.",
+    "events": [
+     "“Ia tatou fausia se aai ma se olo… ia tatou faia se igoa mo i tatou”",
+     "Ua faanumera e le Atua a latou gagana",
+     "Ua salalau nuu i le lalolagi (Sinaro — mulimuli ane o Papelonia)"
+    ]
+   },
+   "ur": {
+    "name": "Uro",
+    "book": "Kenese 12",
+    "today": "saute o Iraki i aso nei",
+    "note": "Ua amata le tala o le laveaiga a le Tusi Paia i le valaauga o le tagata e tasi.",
+    "events": [
+     "Ua valaau e le Atua Aperamo mai Uro o Kaletaio",
+     "“Ou te faia oe ma nuu tele… e manuia aiga uma ia te oe”",
+     "I le faatuatua na ia tuua ai lona nuu"
+    ]
+   },
+   "haran": {
+    "name": "Karana",
+    "book": "Kenese 12",
+    "today": "saute o Take i aso nei",
+    "note": "I le ala, ua tali i le valaauga i le laueleele folafolaina.",
+    "events": [
+     "Ua nofo le aiga o Tara i Karana",
+     "Ua maliu Tara",
+     "Ua alu Aperamo i Kanana i le 75 o ona tausaga"
+    ]
+   },
+   "shechem": {
+    "name": "Sekema · Kanana",
+    "book": "Kenese 12–50",
+    "today": "Naplus i aso nei",
+    "note": "I le laueleele folafolaina ua faavaeina se aiga ma ua pasi atu le feagaiga i tupulaga.",
+    "events": [
+     "Ulu atu i Kanana, le uluai fatafaitaulaga — “ou te tuu atu lenei laueleele i lau fanau”",
+     "Le feagaiga (Kenese 15) · Isaako · Iakopo",
+     "Le toasefululua atalii a Iakopo — le aa o ituaiga e sefulu lua"
+    ]
+   },
+   "egypt": {
+    "name": "Aikupito (Kosena)",
+    "book": "Kenese 37–50 · Esoto 1",
+    "today": "le Neta o le Naila, Aikupito i aso nei",
+    "note": "Ua avea le aiga ma nuu tele — ona avea ai lea ma nuu o pologa.",
+    "events": [
+     "O Iosefa, na faatau atu, ua siitia i le pule i Aikupito",
+     "Ua alu ifo le aiga atoa o Iakopo e sola ai mai le oge",
+     "Ua faapologaina le nuu ola o Isaraelu o loo tuputupu ae"
+    ]
+   },
+   "sinai": {
+    "name": "Le Mauga o Sinai",
+    "book": "Esoto · Levitiko",
+    "today": "le Penisula o Sinai i aso nei",
+    "note": "Le laveaiga autu o le Feagaiga Tuai — ua avea pologa ma nuu a le Atua lava ia.",
+    "events": [
+     "Mala e sefulu ma le tamai mamoe o le Paseka",
+     "Ua vaeluaina le Sami Ulaula ma latou sopoia",
+     "Tulafono e Sefulu, le Tulafono, le faleie ma taulaga"
+    ]
+   },
+   "kadesh": {
+    "name": "Katesi (toafa)",
+    "book": "Numera · Teuteronome",
+    "today": "le toafa o Sinai–Nekevi i aso nei",
+    "note": "Ua faaumatia e le le talitonu se tupulaga mai le laueleele — ae na tumau pea le Atua ma i latou.",
+    "events": [
+     "Sui e toasefululua — a ua musu le nuu e faatuatua",
+     "Tausaga e 38 i le toafa — le manai, le ao ma le afi",
+     "I le laufanua o Moapi, le lauga mulimuli a Mose (Teuteronome)"
+    ]
+   },
+   "jericho": {
+    "name": "Ieriko",
+    "book": "Iosua",
+    "today": "Ieriko i aso nei",
+    "note": "Ua iu lava ina latou ulu atu ma nofoia le laueleele folafolaina.",
+    "events": [
+     "Ua vaeluaina le Ioridana ma sopoia e le nuu",
+     "Ua pa'ū le pa o Ieriko",
+     "Le manumalo i Kanana ma le vaevaeina o le laueleele"
+    ]
+   },
+   "shiloh": {
+    "name": "Sila (Faamasino)",
+    "book": "Faamasino · Ruta",
+    "today": "Khirbet Seilun i aso nei",
+    "note": "I le leai o se tupu, ua taitasi ma fai le mea na te loto i ai — e manaomia se tupu moni.",
+    "events": [
+     "Ua faatu le faleie i Sila",
+     "Le taamilosaga o le agasala–sauaga–laveaiga (Tepora, Kitiona, Samasoni)",
+     "Ruta — le faamaoni i aso pogisa, i le gafa o Tavita"
+    ]
+   },
+   "jerusalem": {
+    "name": "Ierusalema · Malo Autasi",
+    "book": "I–II Samuelu · I Tupu",
+    "today": "Ierusalema i aso nei",
+    "note": "Le vaitaimi aurea o Isaraelu — ma le folafolaga o se tupu e faavavau.",
+    "events": [
+     "Saulo le uluai tupu, ona sosoo ai lea ma Tavita ma Koliata",
+     "Le feagaiga ma Tavita — “lou nofoālii e faavavau” (II Samuelu 7)",
+     "Ua fausia e Solomona le malumalu i Ierusalema"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Malo Vaeluaina",
+    "book": "Tupu · Perofeta",
+    "today": "Sebastia i aso nei",
+    "note": "Ua vaeluaina le malo ma faasolo i lalo a o alaga mai perofeta.",
+    "events": [
+     "Pe a mavae Solomona, ua vaeluaina i Iuta ma Isaraelu",
+     "Ifo faifai pea i tupua",
+     "Ua alaga Elia, Isaia, Ieremia ‘ia liliu mai’ — ma valoia le Mesia"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineva (Asuria)",
+    "book": "II Tupu 17 · Iona",
+    "today": "Mosul, Iraki i aso nei",
+    "note": "I le le amanaiaina o lapataiga uma, ua muamua pa'ū le itu i matu.",
+    "events": [
+     "Nineva, le laumua o Asuria",
+     "Ua pa'ū le malo i matu ia Asuria (722 T.L.M.)",
+     "Ua auina atu Iona i Nineva"
+    ]
+   },
+   "babylon": {
+    "name": "Papelonia",
+    "book": "II Tupu 25 · Tanielu · Esekielu",
+    "today": "Hillah, Iraki i aso nei",
+    "note": "Le po sili ona pogisa — ae o loo tumau pea le folafolaga o le toe faaleleia.",
+    "events": [
+     "Ua pa'ū Ierusalema, ua mu le malumalu (586 T.L.M.)",
+     "Ua tafea Iuta i Papelonia",
+     "Tanielu ma Esekielu — faatuatua ma faaaliga i le faaaunuua"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Peresia)",
+    "book": "Eseta · Neemia",
+    "today": "Shush, Iran i aso nei",
+    "note": "E oo lava i le fatu o se emepaea faapaupau, e faasao pea e le Atua ona tagata.",
+    "events": [
+     "Ua faatoilaloina e Peresia Papelonia",
+     "Ua laveai e Eseta sa Iutaia mai le faaumatiaga",
+     "Ua tatalo Neemia i luma o le tupu ma auina atu"
+    ]
+   },
+   "return": {
+    "name": "Toe foi i Ierusalema",
+    "book": "Esera · Neemia · Malaki",
+    "today": "Ierusalema i aso nei",
+    "note": "Ua latou toe foi ma toe fausia — ae e lei sau se tupu. O loo latou faatalitali i le Mesia.",
+    "events": [
+     "Galu e tolu o le toe foi e ala i le poloaiga a Kuresa (Serupapelu 538 · Esera 458 · Neemia 444)",
+     "Ua toe fausia le malumalu ma toe faaleleia le pa o Ierusalema",
+     "Malaki — ua faaiu le Feagaiga Tuai: “ou te auina atu la‘u sāvali”"
+    ]
+   }
+  },
+  "labels": [
+   "Sami Metitirani",
+   "Mesopotamia",
+   "Toafa o Arapi",
+   "Aikupito"
+  ],
+  "journeys": {
+   "flow": "Le tala o le laveaiga"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Peteleema",
+    "book": "Mataio 1–2 · Luka 2",
+    "today": "Peteleema i aso nei",
+    "note": "Ua afio mai le Mesia folafolaina i le aai o Tavita — o le Upu ua liu tino tagata.",
+    "events": [
+     "Fanau mai i Peteleema, le aai o Tavita",
+     "Ua faailoa e agelu le tala i leoleo mamoe",
+     "Ua o mai le au atamamai e ifo"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasareta",
+    "book": "Luka 2 · 4",
+    "today": "Nasareta i aso nei",
+    "note": "Ua tuputupu ae le Atua o se tagata i se aai masani.",
+    "events": [
+     "Ua tausia i le fale o se kamuta",
+     "I le sefululua tausaga, o loo fesili ma tali i le malumalu",
+     "Mulimuli ane ua teena i le sunako o lona nuu"
+    ]
+   },
+   "jordan": {
+    "name": "Vaitafe o Ioridana",
+    "book": "Mataio 3–4",
+    "today": "le pito i lalo o le Ioridana i aso nei",
+    "note": "Ua amata lana faiva faalauaitele — ua faamaonia mai le lagi o ia o le Alo.",
+    "events": [
+     "Ua papatisoina e Ioane",
+     "Ua afio ifo le Agaga e pei o se lupe — “o lo‘u Atalii pele lenei”",
+     "Ua manumalo i tofotofoga e tolu a Satani i le toafa"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Ioane 2",
+    "today": "Kafr Kanna i aso nei",
+    "note": "I lana uluai vavega ua ia faaali ai lona mamalu.",
+    "events": [
+     "O se malo i se faaipoipoga",
+     "Ua liua le vai ma avea ma uaina — lana uluai vavega",
+     "Ua faatuatua ona soo ia te ia"
+    ]
+   },
+   "sychar": {
+    "name": "Sukara (Samaria)",
+    "book": "Ioane 2–4",
+    "today": "latalata i Naplus i aso nei",
+    "note": "Le ala o le faiva anamua — e ala i Ierusalema ma agai atu i Samaria ua inosia.",
+    "events": [
+     "Ua ia faamamā le malumalu i Ierusalema",
+     "I le po, Nikotemo — “E ao ina toe fanau mai outou”",
+     "Le vai ola mo se fafine Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapanaumi",
+    "book": "Mataio 4–13 · Mareko 1–4",
+    "today": "le matafaga o le vaituloto o Kalilaia i aso nei",
+    "note": "Le nofoaga autu o le faiva i Kalilaia — ua fetaui iinei le valaau, le aoao, ma le teteega.",
+    "events": [
+     "Ua valaau faifaiva ma faavae iinei",
+     "Le Lauga i luga o le Mauga — “Amuia e loto maulalo”",
+     "Faataoto o le malo — ma le tuputupu ae o le teteega"
+    ]
+   },
+   "galilee": {
+    "name": "Sami o Kalilaia",
+    "book": "Mareko 4 · 6 · Ioane 6",
+    "today": "le Vaituloto o Kinereta i aso nei",
+    "note": "I le mana i luga o le natura ua ia faaali ai po o ai o ia.",
+    "events": [
+     "“Ia filemu, ia to‘a” — ua ia faafilemuina le afā",
+     "Ua fafaga le 5,000 i areto e lima ma i‘a e lua",
+     "Ua savali i luga o le sami"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisareia Filipi",
+    "book": "Mataio 16–17",
+    "today": "Banias i aso nei",
+    "note": "Ua malamalama le au soo o ia o le Keriso, ma ua tatala le ala o le satauro.",
+    "events": [
+     "Le taʻutinoga a Peteru — “O oe o le Keriso, o le Alo o le Atua soifua”",
+     "Ua ia muamua valoia lona maliu ma le toetu",
+     "Ua liua lona foliga i le mamalu i luga o le mauga"
+    ]
+   },
+   "jericho": {
+    "name": "Ieriko",
+    "book": "Luka 18–19",
+    "today": "Ieriko i aso nei",
+    "note": "I le ala e alu ae i Ierusalema, ua ia saili le ua leiloa.",
+    "events": [
+     "Ua ia faapupulaina Patimaio le tauaso",
+     "Ua ia valaau Sakaio le aolafoga",
+     "“Ua sau le Atalii o le tagata e saili ma faaola i le na le iloa”"
+    ]
+   },
+   "bethany": {
+    "name": "Petania",
+    "book": "Ioane 11–12",
+    "today": "al-Eizariya i aso nei",
+    "note": "Ua ia faaali le pule i luga o le oti a o lumanai lana vaiaso mulimuli.",
+    "events": [
+     "Ua ia faatoetuina Lasalo mai le tuugamau — “O aʻu nei o le toe tu ma le ola”",
+     "Ua faauuina o ia e Maria mo le tanuga",
+     "Ua faamaaa e lenei vavega le taupulepule e fasioti ia te ia"
+    ]
+   },
+   "jerusalem": {
+    "name": "Ierusalema",
+    "book": "Mataio 21–28 · Luka 24 · Galuega 1",
+    "today": "Ierusalema i aso nei",
+    "note": "Le tumutumu o loo faasino atu i ai le Tusi Paia atoa — satauro, toetu, afio ae.",
+    "events": [
+     "Le ulufale manumalo; ua ia toe fuli laulau o le malumalu",
+     "I le Talisuaga Mulimuli ua ia mulumulu vae o soo",
+     "Ua maliu o ia i le satauro",
+     "Ua toetu i le aso tolu, ona afio ae ai lea"
+    ]
+   }
+  },
+  "labels": [
+   "Sami Metitirani",
+   "Kalilaia",
+   "Samaria",
+   "Iutaia",
+   "Tekapoli",
+   "Perea",
+   "Sami Mate"
+  ],
+  "journeys": {
+   "life": "Le ala o Iesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Anetioka",
+    "book": "Galuega 13 · 15",
+    "today": "Antakya, Take i aso nei",
+    "note": "Le ekalesia auina atu, na amata ma toe foi i ai le misiona i Nuuese.",
+    "events": [
+     "I le tatalo ua tuueseina e le Agaga Panapa ma Saulo",
+     "Le ekalesia na uluai igoa ai le au talitonu o ‘Kerisiano’",
+     "Le nofoaga na amata ai le 1, 2, ma le 3 malaga"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Galuega 13:4",
+    "today": "Take i aso nei",
+    "note": "Le taulaga o Anetioka — ua latou folau atu i Kuperu.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamisa (Kuperu)",
+    "book": "Galuega 13:5",
+    "today": "Kuperu i aso nei",
+    "note": "Le uluai nofoaga i Kuperu — ua talai i sunako.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Galuega 13:6-12",
+    "today": "Kuperu i aso nei",
+    "note": "Ua faaali le mana e faasaga i ē e tetee i le tala lelei.",
+    "events": [
+     "Ua faatauasoina Elima le taulaitu",
+     "Ua faatuatua Sergio Paulo le kovana",
+     "Mai iinei ua taitai ai ‘Paulo’"
+    ]
+   },
+   "perga": {
+    "name": "Peraka",
+    "book": "Galuega 13:13",
+    "today": "Antalya, Take i aso nei",
+    "note": "Se taulaga i Pamafulia — iinei na toe foi ai Ioane Mareko.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Anetioka o Pisitia",
+    "book": "Galuega 13:14-50",
+    "today": "Yalvaç, Take i aso nei",
+    "note": "Ua tatala le tala lelei agai i Nuuese.",
+    "events": [
+     "Se lauga umi o le talafaasolopito o le faaolataga i le sunako",
+     "Ua olioli le au Nuuese e toatele ma talia le afioga",
+     "Ua tuliesea ona o le teteega"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonio",
+    "book": "Galuega 14:1-7",
+    "today": "Konya, Take i aso nei",
+    "note": "Ua faatuatua le toatele, ae ua faamalosia i latou e o atu ona o le sauaga.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lusitera",
+    "book": "Galuega 14:8-20",
+    "today": "Take i aso nei",
+    "note": "Ua vivii o ia o se atua, ona fetogi ai lea i maa.",
+    "events": [
+     "Ua ia faamalolo se tagata pipili talu ona fanau",
+     "Ua taumafai le motu o tagata e fai taulaga ia te i laua e pei o ni atua",
+     "Ua fetogi i maa ma tuu e ai peiseai ua oti, ae ua tulai o ia"
+    ]
+   },
+   "derbe": {
+    "name": "Terepe",
+    "book": "Galuega 14:20-21",
+    "today": "Take i aso nei",
+    "note": "Ua fai le toatele o soo; ua latou toe foi i o latou tulaga e faamalosia ai ekalesia.",
+    "events": []
+   },
+   "troas": {
+    "name": "Teroa",
+    "book": "Galuega 16:8-10",
+    "today": "Take i aso nei",
+    "note": "Le suiga e uluai agai atu ai le tala lelei i Europa.",
+    "events": [
+     "Se faaaliga o se tagata Maketonia",
+     "“Sau i Maketonia e fesoasoani mai ia te i matou”",
+     "Ua latou vave sopoia atu i Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Galuega 16 · Filipi",
+    "today": "matu o Eleni i aso nei",
+    "note": "Le uluai ekalesia i Europa — ua manumalo le tala lelei e oo lava i le falepuipui.",
+    "events": [
+     "Ua faatuatua Litia, le faatau ie viole",
+     "Ua faasaolotoina se teine pologa fai vavalo",
+     "Pese i le vaeluapo, se mafuie, ua faaolaina le aiga o le leoleo o le falepuipui"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonia",
+    "book": "Galuega 17 · I–II Tesalonia",
+    "today": "Thessaloniki, Eleni i aso nei",
+    "note": "Ua luluina le aai e le afioga ma ua osofia le teteega.",
+    "events": [
+     "Ua finau i le sunako i Sapati e tolu",
+     "“O i latou nei ua faafuli le lalolagi”",
+     "Ua latou sosola ese i le po"
+    ]
+   },
+   "berea": {
+    "name": "Peroia",
+    "book": "Galuega 17:10-15",
+    "today": "Veria, Eleni i aso nei",
+    "note": "O ē ‘mamalu’ na suesue le afioga i latou lava.",
+    "events": [
+     "Ua latou talia le afioga ma le naunau",
+     "Ua latou suesue i aso taitasi i Tusi e siaki ai",
+     "Ua faatuatua le toatele"
+    ]
+   },
+   "athens": {
+    "name": "Atenai",
+    "book": "Galuega 17:16-34",
+    "today": "Atenai, Eleni i aso nei",
+    "note": "I le aai o le au faifilosofia ua ia talai le ‘atua e le iloa’.",
+    "events": [
+     "Ua faaosofia ona o se aai ua tumu i tupua",
+     "I luga o le Areopako ua ia talai le Foafoa ma le toetu",
+     "Ua tauemuina, ae faatuatua nai tagata"
+    ]
+   },
+   "corinth": {
+    "name": "Korineto",
+    "book": "Galuega 18 · I–II Korinito",
+    "today": "Eleni i aso nei",
+    "note": "Ua nofo o ia i le tausaga ma le afa, ma totoina se ekalesia i se aai amioleaga.",
+    "events": [
+     "Ua faia faleie ma Akula ma Pisila",
+     "“Aua e te fefe… auā o loo ou faatasi ma oe”",
+     "Ua faatuatua ma papatisoina le toatele o Korinito"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Galuega 19 · Efeso",
+    "today": "Selçuk, Take i aso nei",
+    "note": "Le loto o le malaga lona tolu — ua salalau le afioga i Asia atoa.",
+    "events": [
+     "Aoao i aso taitasi mo tausaga e lua i le maota o Turano",
+     "Ua susunuina tusi faataulaitu; galuega mana",
+     "Ua faatupuina e Temeturio le tufuga ario se vevesi"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Galuega 20:17-38",
+    "today": "Take i aso nei",
+    "note": "Se faamavaega loimata i toeaina o Efeso.",
+    "events": [
+     "“Ia leoleo le ekalesia na ia faatauina i lona lava toto”",
+     "Ua tagi toeaina, ua iloa e le toe vaai ia te ia"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisareia",
+    "book": "Galuega 23–26",
+    "today": "le talafatai o Isaraelu i aso nei",
+    "note": "Mo le lua tausaga ua ia puipuia le tala lelei i luma o kovana ma se tupu.",
+    "events": [
+     "Faamasinoga i luma o kovana o Felika ma Feso",
+     "Lana puipuiga i luma o le tupu o Akaripa",
+     "“Ou te apili ia Kaisara” — agai atu i Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Ierusalema",
+    "book": "Galuega 21–23",
+    "today": "Ierusalema i aso nei",
+    "note": "Ua puea i le malumalu, ua amata ai lana ala o se pagota.",
+    "events": [
+     "Ua puea e le motu i le malumalu",
+     "Ua ia puipuia o ia i luma o le fono",
+     "I le avea ai ma tagatanuu Roma, ua auina atu ma le leoleoga i Kaisareia"
+    ]
+   },
+   "myra": {
+    "name": "Mura",
+    "book": "Galuega 27:5-6",
+    "today": "Demre, Take i aso nei",
+    "note": "Ua latou tinou i se vaa Alesania e agai atu i Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Uafu Manaia (Kereta)",
+    "book": "Galuega 27:8-12",
+    "today": "Kereta i aso nei",
+    "note": "Ua le amanaiaina le lapataiga a Paulo e taofi le folau.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kereta",
+    "book": "Tito",
+    "today": "Kereta i aso nei",
+    "note": "Ina ua tatalaina o ia, o le motu na ia tuua ai Tito e faatulaga ekalesia.",
+    "events": [
+     "Ua tuua Tito e tofia toeaina i aai uma",
+     "Ua valaau mo taitai e le taua'iaina ma faamaoni",
+     "Ua tusia le tusi ia Tito"
+    ]
+   },
+   "malta": {
+    "name": "Melita",
+    "book": "Galuega 27–28",
+    "today": "Melita i aso nei",
+    "note": "E ala i le afā ma le malaia o le vaa, ua tumau le folafolaga a le Atua.",
+    "events": [
+     "Ua malepe le vaa i le ‘matagi mai matu-sasae’, ae ua sao uma le 276",
+     "Ua utia e se gata oona, ae le afaina o ia",
+     "Ua ia faamalolo le mamai o le motu"
+    ]
+   },
+   "syracuse": {
+    "name": "Sarakusa",
+    "book": "Galuega 28:12",
+    "today": "Sicily, Italia i aso nei",
+    "note": "Ua latou nonofo i aso e tolu i Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Galuega 28:13-14",
+    "today": "Pozzuoli, Italia i aso nei",
+    "note": "Ua latou tulai i Italia ma ua feiloai i le au uso talitonu.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Galuega 28 · Tusi o le Falepuipui · II Timoteo",
+    "today": "Roma, Italia i aso nei",
+    "note": "Ua iu ina oo le tala lelei i le fatu o le emepaea — e le o se iuga a o se amataga.",
+    "events": [
+     "Lua tausaga i le falepuipui i totonu o le fale, o loo talai ma le lototele le malo",
+     "Mai iinei ua ia tusia ai Tusi o le Falepuipui (Efeso·Filipi·Kolose·Filemoni)",
+     "Mulimuli ane ua toe faafalepuipuia, ua tusia II Timoteo ma maliu ai — “Ua ou tau le taua lelei, ua iu ia te au le tausinioga”"
+    ]
+   }
+  },
+  "labels": [
+   "Sami Metitirani",
+   "Sami Aegea",
+   "Asia Itiiti",
+   "Maketonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Malaga muamua",
+   "j2": "Malaga lona lua",
+   "j3": "Malaga lona tolu",
+   "rome": "Malaga lona fa · i Roma",
+   "j5": "Malaga lona lima · ina ua tatalaina"
+  }
+ }
+}
