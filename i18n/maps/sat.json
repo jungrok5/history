@@ -1,0 +1,636 @@
+{
+ "menuName": "Santali",
+ "htmlLang": "sat",
+ "dir": "ltr",
+ "locale": "sat-IN",
+ "brand": "Mitʼ Scroll re Bible",
+ "docTitle": "Naksa te Bible · Mitʼ Scroll re Bible",
+ "metaDesc": "Purạn Niyom reakʼ okte hor, Jisu reakʼ jiwi ar Pạul reakʼ cạlạu do sạri naksare atiꞌ me — Bible do sạri ṭhạukorege hoyena.",
+ "s": {
+  "kicker": "Mitʼ Scroll re Bible · Naksa",
+  "title": "Naksa te Bible",
+  "verse": "“Aboren Probhu Jisuakʼ daṛe ar uniyakʼ hijukʼ reaṅ baḍae ocopere benaoakʼ jãhãn golpo do bale lại akada; ale do uniyakʼ ṭhonok nij mẽtʼtele ńelakada.” (2 Petrus 1:16)",
+  "purpose": "Bible do uphonạs do baṅa. Noa do sạri ṭhạu, mãhã ar ńutumre cạlạu akan hoṛko reakʼ biboron kana. Ona horko naksare, okte lekate ńelme — mitʼ ṭhạure tep meꞌ, se ▶ ọtạ meꞌ dhạp dhạpteye parom.",
+  "ot_kick": "① Purạn Niyom — okte lekate",
+  "ot_h": "Sirjon khon Jerusalem ruạṛ hạbicʼ",
+  "ot_lead": "Mitʼ eskar cạlạu do baṅ bickom sirjon khon ehopʼ bańcao-itihạs reakʼ hor: sirjon ar gisạu → daꞌ bạṛ ar Babel → mitʼ haka (Abraham) → bachan reakʼ disạm → Misor khon Oḍokʼ → ọtạr → jit → rajosṭi → haṭiń → bandi okol → ruạṛ.",
+  "je_kick": "② Nãwa Niyom — Jisu reakʼ jiwi",
+  "je_h": "Betlehem khon Jerusalem hạbicʼ",
+  "je_lead": "Susamacarko oka lekateko oleda ona lekate Jisu reakʼ jiwi hore atiꞌ me — Betlehemre janam khon bodredạn ar Galil kạmi hotete, Samariạ parom, Jerusalemre kurus, aronaꞌ jiwit ar sorge rakapʼ hạbicʼ.",
+  "pa_kick": "③ Nãwa Niyom — Pạul reakʼ cạlạu",
+  "pa_h": "Antiokia khon dhạrti reakʼ mucạtʼ simạ hạbicʼ — Rom",
+  "pa_lead": "Jerusalemre Pentekost khon, susamacar celeka Jihudạ parom pasnaoena — Huḍiń Asia ar Europ hotete raj reakʼ mon hạbicʼ. Mọ̃ṛɛ̃ cạlạu (pạhilakʼ·dosar·tesar + Rom sec jạhạj cạlạu + chuṭ tayom) khon mitʼ bachaꞌ me ar hor talare olakan ciṭhiko lo Aposkạmi reakʼ kạmiko atiꞌ me.",
+  "foot": "Moṛ · Ṭhạuko do Bible katha ar sadhạron Bible bhugol lekateye menakʼa (jaega jaega teheń reakʼ ńutum lo). Doreạ dạerạ, gaḍa ar doreạ do khulạ bhugol data (Natural Earth) khon aḍgoꞌakana, saral ocoakana.",
+  "contact": "Kukli · rai — <a id=\"contact\" class=\"mail\">Email ol</a>",
+  "play": "Cạlạu",
+  "pause": "Rọkʼ",
+  "today": "Teheń:",
+  "verseCite": "2 Petrus 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Sirjon · Gisạu)",
+    "book": "Genesis 1–3",
+    "today": "teheń reakʼ Tigris–Euphrates dạerạ",
+    "note": "Tahẽn kahõ bhage benao akan jogotre, kại do bolena ar Isor ar manwa talare reakʼ somondhoe raputʼa.",
+    "events": [
+     "Turuy mãhãte sirjon — “tahẽn kahõ bhage”",
+     "Manwa do Isor reakʼ chobireye benaoena",
+     "Gisạu, ar Eden khon ucạṛ",
+     "Pạhilakʼ susamacar bachan — “maejiu reakʼ bõs do biń reakʼ bohokʼe gejera”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Daꞌ Bạṛ)",
+    "book": "Genesis 6–9",
+    "today": "teheń reakʼ purbo Turki reakʼ Ararat Buru",
+    "note": "Isor do kại te perej akan jogote bicạra, enrehõ mitʼ pạrisạd hotete jiwie bańcaoa.",
+    "events": [
+     "Bigṛao te perej akan jogot",
+     "Daꞌ bạṛ, ar Noa reakʼ jạhạj",
+     "Dhonu reakʼ niyom — “aronaꞌ daꞌ bạṛte ọt bae ḍakniakʼa”"
+    ]
+   },
+   "babel": {
+    "name": "Babel reakʼ Munara",
+    "book": "Genesis 11",
+    "today": "teheń reakʼ Irak (Sinar reakʼ maidan)",
+    "note": "Sorge hạbicʼ tẽhẽnakʼ maraṅ mon reakʼ birudhe, Isor do onkoakʼ aṛang ar hoṛkoe ọt sạote cạrhạukoa.",
+    "events": [
+     "“Dela mitʼ nagar ar munara… ar abo lạgitʼ ńutumbon benaoa”",
+     "Isor do onkoakʼ aṛange gaḍbaḍa",
+     "Hoṛko dhạrti sạote cạrhạuena (Sinar — tayom Babel)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesis 12",
+    "today": "teheń reakʼ dạkʼsin Irak",
+    "note": "Bible reakʼ bańcao kahni do mitʼ hoṛ reakʼ haka te ehopʼa.",
+    "events": [
+     "Isor do Abram ke Kaldiạ reakʼ Ur khon haka koa",
+     "“Am khon mitʼ maraṅ jạtiń benaokoa… am iạte sanam jạtrenko bhorko ńama”",
+     "Pạtiạu te acʼakʼ oṛakʼ disạme bagiada"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Genesis 12",
+    "today": "teheń reakʼ dạkʼsin Turki",
+    "note": "Hor talare, bachan reakʼ disạm sec haka reakʼ jobap.",
+    "events": [
+     "Terah reakʼ pạrisạd Haranreye tãhena",
+     "Terah gujukʼa",
+     "Abram 75 umerre Kanan sece oḍoꞌa"
+    ]
+   },
+   "shechem": {
+    "name": "Sikem · Kanan",
+    "book": "Genesis 12–50",
+    "today": "teheń reakʼ Nablus",
+    "note": "Bachan reakʼ disạmre mitʼ pạrisạd thirena ar niyom do seyad khon seyad calakʼa.",
+    "events": [
+     "Kananre bolkate, pạhilakʼ bedi — “amakʼ bõs ko ińiń noa ọt emakoa”",
+     "Niyom (Genesis 15) · Ishak · Jakob",
+     "Jakob reakʼ gel-bar hopon — gel-bar goṣṭi reakʼ moṛ"
+    ]
+   },
+   "egypt": {
+    "name": "Misor (Gosen)",
+    "book": "Genesis 37–50 · Exodus 1",
+    "today": "teheń reakʼ Nil Delta, Misor",
+    "note": "Mitʼ pạrisạd maraṅ jạte hoyena — ar tayom golam jạt.",
+    "events": [
+     "Akir akan Josep do Misor reakʼ sasoke hoyena",
+     "Jakob reakʼ goṭa pạrisạd bhukmạri khon bańcao lạgitʼ Misore adoꞌ ena",
+     "Haraꞌ kana Israel jạt do golam ocoyena"
+    ]
+   },
+   "sinai": {
+    "name": "Sinai Buru",
+    "book": "Exodus · Levitikus",
+    "today": "teheń reakʼ Sinai Dạerạ",
+    "note": "Purạn Niyom reakʼ ṭhonok bańcao — golamko Isor acʼren hoṛko hoyena.",
+    "events": [
+     "Gel ṭa maraṅ dukh ar Niskạr reakʼ mereꞌ",
+     "Aṛaꞌ Doreạ hạkʼena ar onko parom ena",
+     "Gel ṭa Ạn, niyom, dạrạm oṛakʼ ar bọlị"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (ọtạr)",
+    "book": "Ganṇa · Dosar Biboron",
+    "today": "teheń reakʼ Sinai–Negev ọtạr",
+    "note": "Baeꞌ pạtiạu iạte mitʼ janam do disạm ạdila — enrehõ Isor onko loe tãhena.",
+    "events": [
+     "Gel-bar gupti hoṛ — menkhan hoṛko bharosạ bako sana",
+     "Ọtạrre 38 serma — manna, daepoṛ ar singal",
+     "Moab reakʼ maidanre, Mosa reakʼ mucạtʼ upodes (Dosar Biboron)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Josuạ",
+    "today": "teheń reakʼ Jeriko",
+    "note": "Mucạtʼre onko bola ar bachan reakʼ disạmko hataoa.",
+    "events": [
+     "Jordon hạkʼena ar hoṛko parom ena",
+     "Jeriko reakʼ pạcil urạꞌ ena",
+     "Kanan jit ar disạm haṭiń"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Bikʼcạrko)",
+    "book": "Bikʼcạrko · Rut",
+    "today": "teheń reakʼ Khirbet Seilun",
+    "note": "Raja bãṅte, joto hoṛ acʼ sana lekako kạmiyetʼa — mitʼ sạri raja jaruri.",
+    "events": [
+     "Dạrạm oṛakʼ Silore thirena",
+     "Kại–duk–bańcao reakʼ cokkor (Debora, Gideon, Samson)",
+     "Rut — nãgạ dinre biswạs, Dạud reakʼ bõsre"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Mitʼdom Rajosṭi",
+    "book": "1–2 Samuel · 1 Rapajko",
+    "today": "teheń reakʼ Jerusalem",
+    "note": "Israel reakʼ sona okte — ar jaejug raja reakʼ bachan.",
+    "events": [
+     "Pạhilakʼ raja Saul, tayom Dạud ar Goliat",
+     "Dạud lo niyom — “amakʼ siṅghạson jaejug” (2 Samuel 7)",
+     "Solomon Jerusalemre mondire benaoa"
+    ]
+   },
+   "samaria": {
+    "name": "Samariạ · Haṭiń Rajosṭi",
+    "book": "Rapajko · Nạbiko",
+    "today": "teheń reakʼ Sebastia",
+    "note": "Rajosṭi haṭińa ar latar seceye senokʼa, nạbiko rakʼ tãhenrehõ.",
+    "events": [
+     "Solomon tayom, Jihudạ ar Israelre haṭiń",
+     "Doharaꞌ murti pujạ",
+     "Eliạ, Jesaea, Jirimiạ “ruạṛpe” rakʼa — ar Mạsi reakʼ bachanko emaꞌa"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninewe (Assuriạ)",
+    "book": "2 Rapajko 17 · Jona",
+    "today": "teheń reakʼ Mosul, Irak",
+    "note": "Joto cetạu bagikate, uttor sec laharegeye uṛukʼa.",
+    "events": [
+     "Ninewe, Assuriạ reakʼ rajdhạni",
+     "Uttor rajosṭi Assuriạ samaṅreye uṛukʼa (722 P.K.)",
+     "Jona Ninewe seceye kollena"
+    ]
+   },
+   "babylon": {
+    "name": "Babel",
+    "book": "2 Rapajko 25 · Daniel · Jeheskel",
+    "today": "teheń reakʼ Hillah, Irak",
+    "note": "Joto khon nãgạ ńidạ — enrehõ aronaꞌ thir reakʼ bachan tẽhẽna.",
+    "events": [
+     "Jerusalem uṛukʼa, mondir jul ena (586 P.K.)",
+     "Jihudạ Babel seceko idiyetʼkoa",
+     "Daniel ar Jeheskel — bandi okolre pạtiạu ar daroson"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persiạ)",
+    "book": "Ester · Nehemiạ",
+    "today": "teheń reakʼ Shush, Iran",
+    "note": "Baṅ pạtiạukiạ raj reakʼ ṭhonokre hõ, Isor acʼren hoṛkoe jogaokoa.",
+    "events": [
+     "Persiạ Babele haraea",
+     "Ester Jiukoe bińạs khon bańcaokoa",
+     "Nehemiạ raja samaṅre bintikate kolakana"
+    ]
+   },
+   "return": {
+    "name": "Jerusalem Ruạṛ",
+    "book": "Esra · Nehemiạ · Malaki",
+    "today": "teheń reakʼ Jerusalem",
+    "note": "Onkoko ruạṛ ar aronaꞌko benaoa — menkhan raja bae hijukʼa. Onko Mạsiako tẽtaṅ.",
+    "events": [
+     "Kuros reakʼ hukum te pe ḍapre ruạṛ (Jerubabel 538 · Esra 458 · Nehemiạ 444)",
+     "Mondir aronaꞌ benao ar Jerusalem pạcil thir",
+     "Malaki — Purạn Niyom mucạꞌa: “ińren goḍetiń kolekana”"
+    ]
+   }
+  },
+  "labels": [
+   "Maddhi Doreạ",
+   "Mesopotamia",
+   "Arab Ọtạr",
+   "Misor"
+  ],
+  "journeys": {
+   "flow": "Bańcao reakʼ kahni"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mathae 1–2 · Luk 2",
+    "today": "teheń reakʼ Betlehem",
+    "note": "Bachan akan Mạsi do Dạud reakʼ nagare hecʼa — Bachan do manwae hoyena.",
+    "events": [
+     "Dạud reakʼ nagar Betlehemre janamena",
+     "Duta hoṛko gupiꞌ hoṛ ṭhen khobore emkoa",
+     "Guni hoṛko manạu emaꞌ lạgitʼko hijukʼa"
+    ]
+   },
+   "nazareth": {
+    "name": "Najaret",
+    "book": "Luk 2 · 4",
+    "today": "teheń reakʼ Najaret",
+    "note": "Isor do sadhạron nagarre manwa lekae harakʼa.",
+    "events": [
+     "Mistri reakʼ oṛakʼreye harakʼena",
+     "Gel-bar umerre, mondirre kukli ar jobap",
+     "Tayom acʼakʼ nagar reakʼ sabhạ oṛakʼreye bagilena"
+    ]
+   },
+   "jordan": {
+    "name": "Jordon Gaḍa",
+    "book": "Mathae 3–4",
+    "today": "teheń reakʼ latar Jordon",
+    "note": "Uniyakʼ herel kạmi ehopʼa — sorge uni ke Hopon lekateye thir ocoea.",
+    "events": [
+     "Johan hotete bodredạn ńama",
+     "Atmạ paṛwa leka aḍgoꞌa — “noa iń dulạṛ Hopon kana”",
+     "Ọtạrre Soetan reakʼ pe ṭa jãhca haraea"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Johan 2",
+    "today": "teheń reakʼ Kafr Kanna",
+    "note": "Acʼakʼ pạhilakʼ cinhạre uniyakʼ mọhịmạe udukʼa.",
+    "events": [
+     "Mitʼ bapla re pạhuna",
+     "Daꞌ do angur ras hoyena — uniyakʼ pạhilakʼ cinhạ",
+     "Acʼren celạko uni reko pạtiạua"
+    ]
+   },
+   "sychar": {
+    "name": "Sukar (Samariạ)",
+    "book": "Johan 2–4",
+    "today": "teheń reakʼ Nablus ọsọr",
+    "note": "Etohopʼ kạmi reakʼ hor — Jerusalem hotete duṛup akan Samariạ hạbicʼ.",
+    "events": [
+     "Jerusalemre mondire sạphạ ocoea",
+     "Ńidạre, Nikodemus — “am do aronaꞌ janampe hoyokʼ jaruri”",
+     "Samariạni maejiu ke jiwit dakʼ emaea"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernahum",
+    "book": "Mathae 4–13 · Mark 1–4",
+    "today": "teheń reakʼ Galil doreạ dạerạ",
+    "note": "Galil kạmi reakʼ ghạr — haka, sikhạu ar birudhta noṭe jharoꞌa.",
+    "events": [
+     "Hakuꞌ dorko haka koa ar noṭe thirena",
+     "Buru reakʼ upodes — “Atmạre gạrib hoṛko do dhonbạd”",
+     "Raj reakʼ ạuri kahni — ar haraꞌ birudhta"
+    ]
+   },
+   "galilee": {
+    "name": "Galil Doreạ",
+    "book": "Mark 4 · 6 · Johan 6",
+    "today": "teheń reakʼ Kinneret doreạ",
+    "note": "Prokriti cetan ektiạr te uni okoe kana ona udukʼa.",
+    "events": [
+     "“Sãt taheńme, cupme” — uni hoyoke thir ocoea",
+     "Mọ̃ṛɛ̃ ṭa ḍahi ar bar ṭa hakute 5,000 hoṛe jom ocokoa",
+     "Daꞌ cetanteye cạlạua"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisariạ Philippi",
+    "book": "Mathae 16–17",
+    "today": "teheń reakʼ Banias",
+    "note": "Celạko bujhạua uni do Mạsi kana, ar kurus reakʼ hore uṛạꞌa.",
+    "events": [
+     "Petrus reakʼ maności — “Am do Mạsi kanam, jiwit Isor reakʼ Hopon”",
+     "Laharege acʼakʼ moron ar aronaꞌ jiwit reakʼ bachaneda",
+     "Buru cetanre mọhịmạteye badolena"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Luk 18–19",
+    "today": "teheń reakʼ Jeriko",
+    "note": "Jerusalem sec rakap horre, adakʼ akankoe sẽndrakoa.",
+    "events": [
+     "Kạṇạ Bartimaeus ke mẽtʼe emaea",
+     "Kar toloꞌ Jakkheus ke haka koa",
+     "“Hoṛ reakʼ Hopon do adakʼ akankoe sẽndra ar bańcao lạgitʼe hijukʼlena”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Johan 11–12",
+    "today": "teheń reakʼ al-Eizariya",
+    "note": "Acʼakʼ mucạtʼ hạptạ laharekʼ, moron cetan ektiạre udukʼa.",
+    "events": [
+     "Lạjạrus ke goc̈ khon jiwit ocoea — “Iń do aronaꞌ jiwit ar jiwiń kana”",
+     "Mariam uni ke tọpạ lạgitʼ sunume juṛ aea",
+     "Noa cinhạ uni ke goc̈ reakʼ monsubạe jọr ocoea"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mathae 21–28 · Luk 24 · Aposkạmi 1",
+    "today": "teheń reakʼ Jerusalem",
+    "note": "Goṭa Bible oka sece udukʼa ona ucạṛ — kurus, aronaꞌ jiwit, sorge rakapʼ.",
+    "events": [
+     "Jitkạr te bola; aronaꞌ mondir reakʼ mej ọloṭ aea",
+     "Mucạtʼ Jom okte celạ reakʼ jaṅgae abenaea",
+     "Kurusreye gujukʼa",
+     "Tesar mãhãre jiwitokʼa, tayom sorgeye rakapʼa"
+    ]
+   }
+  },
+  "labels": [
+   "Maddhi Doreạ",
+   "Galil",
+   "Samariạ",
+   "Jihudạ",
+   "Dekapolis",
+   "Perea",
+   "Gujukʼ Doreạ"
+  ],
+  "journeys": {
+   "life": "Jisu reakʼ hor"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Aposkạmi 13 · 15",
+    "today": "teheń reakʼ Antakya, Turki",
+    "note": "Kul akan mondoli okare Anjati kạmi ehopʼa ar ruạṛa.",
+    "events": [
+     "Bintire Atmạ Barnabas ar Saul ke alag ocokoa",
+     "Mondoli okare pạtiạukiạ pạhilte “Khristiạn”ko metaena",
+     "Pạhilakʼ, dosar ar tesar cạlạu reakʼ ehopʼ ṭhạu"
+    ]
+   },
+   "seleucia": {
+    "name": "Selukia",
+    "book": "Aposkạmi 13:4",
+    "today": "teheń reakʼ Turki",
+    "note": "Antiokia reakʼ bondor — onko Kupros sece jạhạj te cạlạua.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Kupros)",
+    "book": "Aposkạmi 13:5",
+    "today": "teheń reakʼ Kupros",
+    "note": "Kupros reakʼ pạhilakʼ ṭhạu — sabhạ oṛakʼko re prạcạr.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Paphos",
+    "book": "Aposkạmi 13:6-12",
+    "today": "teheń reakʼ Kupros",
+    "note": "Susamacar birudh hoṛko birudhte ektiạre udukʼa.",
+    "events": [
+     "Jạdukor Elimas kạṇạ hoyena",
+     "Sasok Sergius Paulus pạtiạua",
+     "Noṭe khon “Pạul” laharge idiyetʼa"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Aposkạmi 13:13",
+    "today": "teheń reakʼ Antalya, Turki",
+    "note": "Pamphuliạ reakʼ mitʼ bondor — noṭe Johan Mark ruạṛena.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidiạ reakʼ Antiokia",
+    "book": "Aposkạmi 13:14-50",
+    "today": "teheń reakʼ Yalvaç, Turki",
+    "note": "Susamacar Anjati sece uṛukʼa.",
+    "events": [
+     "Sabhạ oṛakʼre bańcao itihạs reakʼ jạri upodes",
+     "Ḍher Anjatiko rạskạ te bachane hataoa",
+     "Birudhta te oḍoꞌ ocoyena"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonia",
+    "book": "Aposkạmi 14:1-7",
+    "today": "teheń reakʼ Konya, Turki",
+    "note": "Ḍherko pạtiạua, menkhan taṛam te laharge cạlạua.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Aposkạmi 14:8-20",
+    "today": "teheń reakʼ Turki",
+    "note": "Isor lekate manạua, tayom dhirite cạbọka.",
+    "events": [
+     "Janam khon lãd hoṛe bhalạe ocoea",
+     "Hoṛko onkin ke isor lekate bọlị emaꞌ lạgitʼko sana",
+     "Dhirite cạbọk ar gujukʼ leka bagi ena, uni birdạꞌa"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Aposkạmi 14:20-21",
+    "today": "teheń reakʼ Turki",
+    "note": "Ḍher celạko benaoa; mondoliko jọr ocoꞌ lạgitʼ hor ruạṛ te calakʼa.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Aposkạmi 16:8-10",
+    "today": "teheń reakʼ Turki",
+    "note": "Susamacar laharge Europ sece senokʼ reakʼ badol ṭhạu.",
+    "events": [
+     "Makidoniạ reakʼ mitʼ herel reakʼ daroson",
+     "“Parom hecʼkate ale lạgọṛ leme”",
+     "Onko takingege Europ sece parom ena"
+    ]
+   },
+   "philippi": {
+    "name": "Philippi",
+    "book": "Aposkạmi 16 · Philippiko lạgitʼ Pạul Apostolakʼ ciṭhi",
+    "today": "teheń reakʼ uttor Gris",
+    "note": "Europ reakʼ pạhilakʼ mondoli — bandi oṛakʼre hõ susamacar jita.",
+    "events": [
+     "Baiganiạ bãpạri Lidiạ pạtiạua",
+     "Mena udukʼ kạmiạ kạmin ḍangṛi chuṭ ńama",
+     "Tal ńidạ kirtan, ọt ur, bandi ghạr goḍetiạ reakʼ pạrisạd bańcao"
+    ]
+   },
+   "thess": {
+    "name": "Thessalonika",
+    "book": "Aposkạmi 17 · 1–2 Thessalonikiko lạgitʼ Pạul Apostolakʼ ciṭhi",
+    "today": "teheń reakʼ Thessaloniki, Gris",
+    "note": "Bachan do nagare hulhulaea ar birudhta ur oṛoꞌa.",
+    "events": [
+     "Pe Sạbat sabhạ oṛakʼreye jotạua",
+     "“Noa hoṛko jogot latạ ọloṭ akadako”",
+     "Onko ńidạteye tọpạ ọdọka"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Aposkạmi 17:10-15",
+    "today": "teheń reakʼ Veria, Gris",
+    "note": "Acʼteko bachan pạrọb akan “bhage” hoṛko.",
+    "events": [
+     "Rạskạ te bachanko hataoa",
+     "Dinmạ bachan sạri kana se baṅ sostorko pạrọba",
+     "Ḍherko pạtiạu sece hijukʼa"
+    ]
+   },
+   "athens": {
+    "name": "Athens",
+    "book": "Aposkạmi 17:16-34",
+    "today": "teheń reakʼ Athens, Gris",
+    "note": "Gian hoṛko reakʼ nagarre uni “baṅ baḍaeakan Isor” reakʼe prạcạra.",
+    "events": [
+     "Murti te perej akan nagar uni ke duke ocoea",
+     "Areopagusre Sirjạuniạ ar aronaꞌ jiwit reakʼe prạcạra",
+     "Landha ena, enrehõ kotoꞌ hoṛ pạtiạua"
+    ]
+   },
+   "corinth": {
+    "name": "Korinth",
+    "book": "Aposkạmi 18 · 1–2 Korinthiko",
+    "today": "teheń reakʼ Gris",
+    "note": "Mitʼ serma tanạṅ noṭeye tãhena, kại reakʼ nagarre mondolie thirkeda.",
+    "events": [
+     "Akwila ar Priskilla lo kãṭa oṛakʼ benaoa",
+     "“Alom borea… cedakʼna iń am loń menakʼa”",
+     "Ḍher Korinthiko pạtiạu ar bodredạn ńama"
+    ]
+   },
+   "ephesus": {
+    "name": "Ephesus",
+    "book": "Aposkạmi 19 · Ephesiko lạgitʼ Pạul Apostolakʼ ciṭhi",
+    "today": "teheń reakʼ Selçuk, Turki",
+    "note": "Tesar cạlạu reakʼ ṭhonok — bachan Asia sạote pasnaoa.",
+    "events": [
+     "Turannus reakʼ oṛakʼre bar serma dinmạ sikhạu",
+     "Jạdu pũthiko juli; jọr kạmiko",
+     "Rupạ mistri Demetrius hulgul ocoea"
+    ]
+   },
+   "miletus": {
+    "name": "Miletus",
+    "book": "Aposkạmi 20:17-38",
+    "today": "teheń reakʼ Turki",
+    "note": "Ephesus reakʼ prạcin hoṛko lo mẽtʼ dakʼte bidạe.",
+    "events": [
+     "“Acʼ reaṅ mayte kirińakan mondoli reakʼ joton lem”",
+     "Prạcinko rakʼa, uni ke ar bako ńela mente baḍaekate"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisariạ",
+    "book": "Aposkạmi 23–26",
+    "today": "teheń reakʼ Israel dạerạ",
+    "note": "Bar serma sasok ar raja samaṅre susamacare bãcạua.",
+    "events": [
+     "Sasok Feliks ar Festus samaṅre bicạr",
+     "Agrippa raja samaṅre acʼ babote bãcạua",
+     "“Kaisar ṭhen appil ińetʼa” — Rom sece"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Aposkạmi 21–23",
+    "today": "teheń reakʼ Jerusalem",
+    "note": "Mondirre sạbọk ena, uniyakʼ bandi hor ehopʼa.",
+    "events": [
+     "Mondirre hoṛ jotạw te sạbọk ena",
+     "Bicạr durbạr samaṅre acʼ babote bãcạua",
+     "Rom reakʼ nagariạ lekate, jạgoạl te Kaisariạ seceye kolakana"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Aposkạmi 27:5-6",
+    "today": "teheń reakʼ Demre, Turki",
+    "note": "Rom sec cạlạu Aleksandriạ reakʼ jạhạj reko badola.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Bhage Bondor (Krit)",
+    "book": "Aposkạmi 27:8-12",
+    "today": "teheń reakʼ Krit",
+    "note": "Jạhạj rọkʼ lạgitʼ Pạul reakʼ cetạu bako ańjoma.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krit",
+    "book": "Titus",
+    "today": "teheń reakʼ Krit",
+    "note": "Chuṭ tayom, noa dwipre uni Titus ke mondoli sạjạu lạgitʼe bagiada.",
+    "events": [
+     "Joto nagarre prạcin bahal lạgitʼ Titus ke bagiada",
+     "Dosạ bãṅ, biswạsi agua hoṛ kula",
+     "Titus lạgitʼ ciṭhie olkeda"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Aposkạmi 27–28",
+    "today": "teheń reakʼ Malta",
+    "note": "Bạhọ ar jạhạj raheꞌ talate hõ, Isor reakʼ bachan thirena.",
+    "events": [
+     "“Uttor-purbo hoyo” jạhạj raheꞌ ocoea, enrehõ joto 276 hoṛ bańcaoa",
+     "Biń huṛạꞌaea, enrehõ uni ke jãhã bae hoyena",
+     "Dwip reakʼ hasu hoṛko bhalạe ocokoa"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakus",
+    "book": "Aposkạmi 28:12",
+    "today": "teheń reakʼ Sisili, Itali",
+    "note": "Sisilire pe mãhãko tãhena.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Aposkạmi 28:13-14",
+    "today": "teheń reakʼ Pozzuoli, Itali",
+    "note": "Italire lạhạꞌre onko seṭera ar pạtiạukiạ boehako ńamkoa.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rom",
+    "book": "Aposkạmi 28 · Bandi Ciṭhiko · 2Timothi",
+    "today": "teheń reakʼ Rom, Itali",
+    "note": "Mucạtʼre susamacar raj reakʼ ṭhonok hạbicʼ seṭera — mucạꞌ do baṅ bickom ehopʼ.",
+    "events": [
+     "Bar serma oṛakʼ bandire, Isor reakʼ raje bahadur te prạcạra",
+     "Noṭe khon Bandi Ciṭhiko olkeda (Eph·Phil·Kol·Phm)",
+     "Tayom aronaꞌ bandi ena, 2Timothie olkeda ar gọj ena — “Iń bhage lạṛại lạṛại akadiń, dạṛ purạu akadiń”"
+    ]
+   }
+  },
+  "labels": [
+   "Maddhi Doreạ",
+   "Egiạn Doreạ",
+   "Huḍiń Asia",
+   "Makidonia",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Pạhilakʼ cạlạu",
+   "j2": "Dosar cạlạu",
+   "j3": "Tesar cạlạu",
+   "rome": "Punạkʼ cạlạu · Rom sec",
+   "j5": "Mọ̃ṛɛ̃akʼ cạlạu · chuṭ tayom"
+  }
+ }
+}

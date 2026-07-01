@@ -1,0 +1,636 @@
+{
+ "menuName": "Türkmen",
+ "htmlLang": "tk",
+ "dir": "ltr",
+ "locale": "tk-TM",
+ "brand": "Mukaddes Kitap bir bakyşda",
+ "docTitle": "Mukaddes Kitap karta bilen · Mukaddes Kitap bir bakyşda",
+ "metaDesc": "Köne Tabaryň taryh çyzygyny, Isanyň ýaşaýşyny we Pawlusyň saparlaryny hakyky kartada yzarla — Mukaddes Kitap hakyky ýerlerde bolup geçdi.",
+ "s": {
+  "kicker": "Mukaddes Kitap bir bakyşda · Kartalar",
+  "title": "Mukaddes Kitap karta bilen",
+  "verse": "“Size Rebbimiz Isa Mesihiň gudrat bilen gelşi hakda habar berenimizde, biz toslama ertekilere eýermedik. Biz Onuň şan-şöhratyny öz gözümiz bilen gördük.” (2 Petrus 1:16)",
+  "purpose": "Mukaddes Kitap rowaýat däldir. Ol hakyky ýerlerde, senelerde we atlarda ýöräp geçen adamlaryň ýazgysydyr. Şol ýollary kartada, wagt tertibinde yzarla — bir nokada bas, ýa-da ony ädimme-ädim geçmek üçin ▶ düwmesine bas.",
+  "ot_kick": "① Köne Tabar — wagtyň dowamynda",
+  "ot_h": "Ýaradylyşdan Iýerusalime dolanyşa çenli",
+  "ot_lead": "Ýekeje sapar däl-de, ýaradylyşdan başlap halas ediş taryhynyň akymy: ýaradylyş we pese gaçyş → tupan we Babyl → çagyryş (Ybraýym) → wada edilen ýurt → Çykyş → çöl → basyp almak → şalyk → bölünme → sürgün → dolanyş.",
+  "je_kick": "② Täze Tabar — Isanyň ýaşaýşy",
+  "je_h": "Beýtullahamdan Iýerusalime çenli",
+  "je_lead": "Isanyň ýaşaýşyny Hoş Habarlaryň gürrüň berşi ýaly, tertip bilen yzarla — Beýtullahamda doglmagyndan başlap, çokundyrylmagy we Jelile hyzmaty arkaly, Samariýadan geçip, Iýerusalimde haça, direlişe we göge galmaga çenli.",
+  "pa_kick": "③ Täze Tabar — Pawlusyň saparlary",
+  "pa_h": "Antakýadan ýer ýüzüniň çetine çenli — Rime",
+  "pa_lead": "Iýerusalimdäki Pentikostdan başlap, Hoş Habaryň Ýahudyýadan aňryk nähili ýaýrandygy — Kiçi Aziýa we Ýewropadan imperiýanyň ýüregine çenli. Bäş saparyň birini saýla (1-nji · 2-nji · 3-nji + Rime syýahat + boşadylandan soň) we ýolda ýazylan hatlar bilen bilelikde Resullaryň işlerindäki wakalary yzarla.",
+  "foot": "Çeşmeler · Ýerler Mukaddes Kitabyň teksti we standart Mukaddes Kitap geografiýasy esasynda görkezilýär (peýdaly ýerlerde häzirki atlar bilen). Kenar çyzyklary, derýalar we köller açyk geografik maglumatlardan (Natural Earth) alnyp, sadeleşdirildi.",
+  "contact": "Soraglar · pikirler — <a id=\"contact\" class=\"mail\">Bize hat ýaz</a>",
+  "play": "Oýnat",
+  "pause": "Duruz",
+  "today": "Şu gün:",
+  "verseCite": "2 Petrus 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Erem (Ýaradylyş · Pese gaçyş)",
+    "book": "Gelip çykyş 1–3",
+    "today": "häzirki Tigr–Ýewfrat sebiti",
+    "note": "«Juda gowy» ýaradylan dünýä günä girýär we Hudaý bilen ynsanyň arasyndaky bagy kesýär.",
+    "events": [
+     "Alty günde ýaradylyş — «juda gowudy»",
+     "Ynsan Hudaýyň keşbinde ýaradylýar",
+     "Pese gaçyş we Erem bagyndan kowulmak",
+     "Ilkinji Hoş Habar wadasy — «aýalyň tohumy ýylanyň kellesini owradar»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Tupan)",
+    "book": "Gelip çykyş 6–9",
+    "today": "häzirki gündogar Türkiýede Ararat dagy",
+    "note": "Hudaý günäden doly dünýäni höküm edýär, ýöne ýekeje maşgala arkaly ýaşaýşy gorap saklaýar.",
+    "events": [
+     "Azgynlykdan doly bir dünýä",
+     "Tupan we Nuhuň gämisi",
+     "Älemgoşar ähti — «gaýdyp tupan bilen ýok edilmez»"
+    ]
+   },
+   "babel": {
+    "name": "Babyl diňi",
+    "book": "Gelip çykyş 11",
+    "today": "häzirki Yrak (Şinar düzlügi)",
+    "note": "Göge uzanýan tekepbirlige garşy Hudaý olaryň dilini we halklary ýer ýüzüne pytradýar.",
+    "events": [
+     "«Geliň, özümize şäher we diň guralyň… özümize at edineliň»",
+     "Hudaý olaryň dilini bulaşdyrýar",
+     "Halklar ýer ýüzüne pytraýar (Şinar — soňra Babyl)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Gelip çykyş 12",
+    "today": "häzirki günorta Yrak",
+    "note": "Mukaddes Kitabyň halas ediş kyssasy ýekeje adamyň çagyrylmagy bilen başlaýar.",
+    "events": [
+     "Hudaý Ybramy Haldeýleriň Ur şäherinden çagyrýar",
+     "«Senden beýik millet ýaradaryn… ähli halklar sen arkaly pata alar»",
+     "Iman bilen öz watanyny terk edýär"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Gelip çykyş 12",
+    "today": "häzirki günorta Türkiýe",
+    "note": "Ýolda, wada edilen ýurda tarap çagyryşa jogap berip.",
+    "events": [
+     "Teranyň maşgalasy Haranda ýerleşýär",
+     "Tera ölýär",
+     "Ybram 75 ýaşynda Kengana ýola düşýär"
+    ]
+   },
+   "shechem": {
+    "name": "Şekem · Kengan",
+    "book": "Gelip çykyş 12–50",
+    "today": "häzirki Nablus",
+    "note": "Wada edilen ýurtda bir maşgala gurulýar we äht nesilden-nesle geçýär.",
+    "events": [
+     "Kengana girip, ilkinji gurbanlyk — «bu ýurdy seniň tohumyňa bererin»",
+     "Äht (Gelip çykyş 15) · Yshak · Ýakup",
+     "Ýakubyň on iki ogly — on iki tiräniň köki"
+    ]
+   },
+   "egypt": {
+    "name": "Müsür (Goşen)",
+    "book": "Gelip çykyş 37–50 · Müsürden çykyş 1",
+    "today": "häzirki Müsürde Nil deltasy",
+    "note": "Bir maşgala beýik millete — soňra gul millete öwrülýär.",
+    "events": [
+     "Satylan Ýusup Müsürde häkimiýete galýar",
+     "Ýakubyň bütin maşgalasy açlykdan gaçyp inýär",
+     "Ösýän Ysraýyl milleti gul edilýär"
+    ]
+   },
+   "sinai": {
+    "name": "Sinaý dagy",
+    "book": "Müsürden çykyş · Lewiler",
+    "today": "häzirki Sinaý ýarymadasy",
+    "note": "Köne Tabaryň merkezi halas edişi — gullar Hudaýyň Öz halky bolýar.",
+    "events": [
+     "On bela we Pesah guzy",
+     "Gyzyl deňiz ikä bölünýär we olar geçýär",
+     "On Tabşyryk, Kanun, çadyr ybadathana we gurbanlar"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeş (çöl)",
+    "book": "Sanlar · Kanun taglymaty",
+    "today": "häzirki Sinaý–Negew çöli",
+    "note": "Imansyzlyk bir nesle ýurdy elden gidirýär — ýöne Hudaý olar bilen galýar.",
+    "events": [
+     "On iki içaly — ýöne halk ynanmakdan boýun towlaýar",
+     "Çölde 38 ýyl — manna, bulut we ot",
+     "Mowap düzlüginde Musanyň soňky wagzy (Kanun taglymaty)"
+    ]
+   },
+   "jericho": {
+    "name": "Ýerihon",
+    "book": "Ýeşuwa",
+    "today": "häzirki Ýerihon",
+    "note": "Ahyrynda wada edilen ýurda girip, ony eýeleýärler.",
+    "events": [
+     "Iordan ikä bölünýär we halk geçýär",
+     "Ýerihonyň diwarlary ýykylýar",
+     "Kenganyň basylyp alynmagy we ýeriň bölünmegi"
+    ]
+   },
+   "shiloh": {
+    "name": "Şilo (Serdarlar)",
+    "book": "Ysraýyl serdarlary · Rut",
+    "today": "häzirki Hirbet Seýlun",
+    "note": "Patyşa bolmansoň, her kim öz göwnüne geleni edýär — hakyky patyşa gerek.",
+    "events": [
+     "Çadyr ybadathana Şiloda gurulýar",
+     "Günä–ezýet–halas ediş aýlawy (Debora, Gideon, Şimşon)",
+     "Rut — garaňky günlerdäki wepalylyk, Dawudyň neslinde"
+    ]
+   },
+   "jerusalem": {
+    "name": "Iýerusalim · Birleşen şalyk",
+    "book": "1–2 Şamuwel · 1 Patyşalar",
+    "today": "häzirki Iýerusalim",
+    "note": "Ysraýylyň altyn döwri — we baky bir patyşanyň wadasy.",
+    "events": [
+     "Ilkinji patyşa Şawul, soňra Dawut bilen Jolut",
+     "Dawut bilen äht — «tagtyň baky» (2 Şamuwel 7)",
+     "Süleýman Iýerusalimde ybadathanany gurýar"
+    ]
+   },
+   "samaria": {
+    "name": "Samariýa · Bölünen şalyk",
+    "book": "Patyşalar · Pygamberler",
+    "today": "häzirki Sebastiýa",
+    "note": "Pygamberler perýat edýärkä şalyk bölünýär we pese gaçýar.",
+    "events": [
+     "Süleýmandan soň Ýahuda we Ysraýyl bolup bölünmek",
+     "Gaýtalanýan butparazlyk",
+     "Ylýas, Işaýa, Ýermeýa «dönüň» diýip perýat edýär — we Mesih hakda welilik aýdýar"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninewe (Aşur)",
+    "book": "2 Patyşalar 17 · Ýunus",
+    "today": "häzirki Yrakda Mosul",
+    "note": "Her duýduryşy äsgermän, demirgazyk ilki ýykylýar.",
+    "events": [
+     "Ninewe, Aşuryň paýtagty",
+     "Demirgazyk şalyk Aşura ýykylýar (b. e. öň 722)",
+     "Ýunus Ninewä iberilýär"
+    ]
+   },
+   "babylon": {
+    "name": "Babyl",
+    "book": "2 Patyşalar 25 · Danyýel · Ezekiýel",
+    "today": "häzirki Yrakda Hilla",
+    "note": "Iň garaňky gije — ýöne dikeldiş wadasy galýar.",
+    "events": [
+     "Iýerusalim ýykylýar, ybadathana ýakylýar (b. e. öň 586)",
+     "Ýahuda Babyla sürgün edilýär",
+     "Danyýel bilen Ezekiýel — sürgünde iman we görnüşler"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Pars)",
+    "book": "Ester · Nehemýa",
+    "today": "häzirki Eýranda Şuş",
+    "note": "Butparaz imperiýanyň ýüreginde-de Hudaý Öz halkyny gorap saklaýar.",
+    "events": [
+     "Pars Babyly ýykýar",
+     "Ester ýahudylary ýok bolmakdan halas edýär",
+     "Nehemýa patyşanyň öňünde doga edýär we iberilýär"
+    ]
+   },
+   "return": {
+    "name": "Iýerusalime dolanyş",
+    "book": "Ezra · Nehemýa · Malaki",
+    "today": "häzirki Iýerusalim",
+    "note": "Dolanyp gelip täzeden gurýarlar — ýöne patyşa gelmedi. Olar Mesihe garaşýarlar.",
+    "events": [
+     "Kuruşyň permany bilen üç tolkunda dolanyş (Zerubabel 538 · Ezra 458 · Nehemýa 444)",
+     "Ybadathana täzeden gurulýar we Iýerusalimiň diwarlary dikeldilýär",
+     "Malaki — Köne Tabar tamamlanýar: «Men Öz wekilimi iberýärin»"
+    ]
+   }
+  },
+  "labels": [
+   "Ortaýer deňzi",
+   "Mesopotamiýa",
+   "Arap çöli",
+   "Müsür"
+  ],
+  "journeys": {
+   "flow": "Halas ediş kyssasy"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Beýtullaham",
+    "book": "Matta 1–2 · Luka 2",
+    "today": "häzirki Beýtullaham",
+    "note": "Wada edilen Mesih Dawudyň şäherine gelýär — ynsan bolan Söz.",
+    "events": [
+     "Dawudyň şäheri Beýtullahamda doglýar",
+     "Perişdeler çopanlara buşlugy jar edýär",
+     "Müneçjimler sežde etmäge gelýär"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Luka 2 · 4",
+    "today": "häzirki Nazaret",
+    "note": "Hudaý adaty bir şäherde ynsan hökmünde ösýär.",
+    "events": [
+     "Agaç ussasynyň öýünde ösýär",
+     "On iki ýaşynda ybadathanada sorap-jogap berýär",
+     "Soňra öz şäheriniň sinagogasynda ret edilýär"
+    ]
+   },
+   "jordan": {
+    "name": "Iordan derýasy",
+    "book": "Matta 3–4",
+    "today": "häzirki aşaky Iordan",
+    "note": "Onuň açyk hyzmaty başlaýar — gök Ony Ogul hökmünde möhürleýär.",
+    "events": [
+     "Ýahýa tarapyndan çokundyrylýar",
+     "Ruh kepderi kimin inýär — «Bu Meniň söýgüli Oglum»",
+     "Çölde Şeýtanyň üç synagyny ýeňýär"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Ýohanna 2",
+    "today": "häzirki Kefr Kanna",
+    "note": "Ilkinji alamatynda şöhratyny açýar.",
+    "events": [
+     "Toýda myhman",
+     "Suw şeraba öwrülýär — Onuň ilkinji alamaty",
+     "Şägirtleri Oňa iman edýär"
+    ]
+   },
+   "sychar": {
+    "name": "Sihar (Samariýa)",
+    "book": "Ýohanna 2–4",
+    "today": "häzirki Nablus töweregi",
+    "note": "Irki hyzmat ýoly — Iýerusalimden geçip, ýigrenilýän Samariýa çenli.",
+    "events": [
+     "Iýerusalimde ybadathanany arassalaýar",
+     "Gije Nikodim — «Sen gaýtadan doglmalysyň»",
+     "Samariýaly aýala diri suw"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Matta 4–13 · Mark 1–4",
+    "today": "häzirki Jelile köl kenary",
+    "note": "Jelile hyzmatynyň esasy merkezi — çagyryş, taglym we garşylyk şu ýerde jemlenýär.",
+    "events": [
+     "Balykçylary çagyrýar we şu ýerde ornaşýar",
+     "Dagdaky wagyz — «Ruhy taýdan garyplar bagtlydyr»",
+     "Şalyk hakdaky tymsallar — we artýan garşylyk"
+    ]
+   },
+   "galilee": {
+    "name": "Jelile deňzi",
+    "book": "Mark 4 · 6 · Ýohanna 6",
+    "today": "häzirki Kinneret köli",
+    "note": "Tebigatyň üstündäki gudraty bilen kimdigini görkezýär.",
+    "events": [
+     "«Köşeş, ümsüm bol» — tupany köşeşdirýär",
+     "Bäş çörek we iki balyk bilen 5000 adamy doýurýar",
+     "Suwuň üstünde ýöreýär"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Filipi Kaýsariýasy",
+    "book": "Matta 16–17",
+    "today": "häzirki Banias",
+    "note": "Şägirtler Onuň Mesihdigine düşünýär we haç ýoly açylýar.",
+    "events": [
+     "Petrusyň ykrary — «Sen diri Hudaýyň Ogly Mesihsiň»",
+     "Ölümini we direlişini ilkinji gezek aýdýar",
+     "Dagda şöhratda keşbi üýtgeýär"
+    ]
+   },
+   "jericho": {
+    "name": "Ýerihon",
+    "book": "Luka 18–19",
+    "today": "häzirki Ýerihon",
+    "note": "Iýerusalime barýan ýolda ýitenleri gözleýär.",
+    "events": [
+     "Kör Bartimaýa göz berýär",
+     "Salgytçy Zakkeýi çagyrýar",
+     "«Ynsan Ogly ýitenleri agtaryp halas etmek üçin geldi»"
+    ]
+   },
+   "bethany": {
+    "name": "Beýtaniýa",
+    "book": "Ýohanna 11–12",
+    "today": "häzirki El-Eýzariýa",
+    "note": "Iň soňky hepdesiniň öňüsyrasynda ölümiň üstündäki häkimligini görkezýär.",
+    "events": [
+     "Lazary gabyrdan direldýär — «Direliş we ýaşaýyş Mendirin»",
+     "Merýem Ony jaýlanyşa taýýarlap ýaglaýar",
+     "Bu alamat Ony öldürmek dildüwşügini güýçlendirýär"
+    ]
+   },
+   "jerusalem": {
+    "name": "Iýerusalim",
+    "book": "Matta 21–28 · Luka 24 · Resullar 1",
+    "today": "häzirki Iýerusalim",
+    "note": "Tutuş Mukaddes Kitabyň görkezýän çür depesi — haç, direliş, göge galyş.",
+    "events": [
+     "Dabaraly giriş; ybadathana stollaryny ýene agdarýar",
+     "Iň soňky agşam naharynda şägirtleriň aýagyny ýuwýar",
+     "Haçda ölýär",
+     "Üçünji günde direlýär, soňra göge galýar"
+    ]
+   }
+  },
+  "labels": [
+   "Ortaýer deňzi",
+   "Jelile",
+   "Samariýa",
+   "Ýahudyýa",
+   "Dekapolis",
+   "Pereýa",
+   "Öli deňiz"
+  ],
+  "journeys": {
+   "life": "Isanyň ýoly"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antakýa",
+    "book": "Resullar 13 · 15",
+    "today": "häzirki Türkiýede Antakýa",
+    "note": "Butparazlara missiýanyň başlaýan we gaýdyp gelýän iberiji ybadathanasy.",
+    "events": [
+     "Dogada Ruh Barnabas bilen Şawuly saýlaýar",
+     "Imanlylaryň ilkinji gezek «hristian» diýlip atlandyrylan ybadathanasy",
+     "1-nji, 2-nji we 3-nji saparlaryň başlangyç nokady"
+    ]
+   },
+   "seleucia": {
+    "name": "Selewkiýa",
+    "book": "Resullar 13:4",
+    "today": "häzirki Türkiýe",
+    "note": "Antakýanyň porty — Kipre ýelken açýarlar.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Kipr)",
+    "book": "Resullar 13:5",
+    "today": "häzirki Kipr",
+    "note": "Kiprde ilkinji duralga — sinagogalarda wagyz.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Resullar 13:6-12",
+    "today": "häzirki Kipr",
+    "note": "Hoş Habara garşy çykýanlara garşy gudrat görkezilýär.",
+    "events": [
+     "Jadygöý Elimas kör bolýar",
+     "Prokonsul Sergiý Pawlus iman edýär",
+     "Şu ýerden «Pawlus» öňe geçýär"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Resullar 13:13",
+    "today": "häzirki Türkiýede Antalýa",
+    "note": "Pamfiliýadaky port — bu ýerde Ýohanna Mark yzyna dolanýar.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pisidiýa Antakýasy",
+    "book": "Resullar 13:14-50",
+    "today": "häzirki Türkiýede Ýalwaç",
+    "note": "Hoş Habar butparazlara tarap açylýar.",
+    "events": [
+     "Sinagogada halas ediş taryhy hakda uzyn wagyz",
+     "Köp butparaz begenip sözi kabul edýär",
+     "Garşylyk bilen kowulýar"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonium",
+    "book": "Resullar 14:1-7",
+    "today": "häzirki Türkiýede Konýa",
+    "note": "Köpler iman edýär, ýöne yzarlama olary öňe iterýär.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Resullar 14:8-20",
+    "today": "häzirki Türkiýe",
+    "note": "Hudaý hökmünde alkyşlanýar, soň daşlanýar.",
+    "events": [
+     "Dogabitdi agsak adamy sagaldýar",
+     "Märeke olara hudaý hökmünde gurban kesmek isleýär",
+     "Daşlanyp öli hasap edilýär, ýöne turýar"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Resullar 14:20-21",
+    "today": "häzirki Türkiýe",
+    "note": "Köp şägirt ýetişýär; ybadathanalary berkitmek üçin yzlaryna dolanýarlar.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Resullar 16:8-10",
+    "today": "häzirki Türkiýe",
+    "note": "Hoş Habaryň ilkinji gezek Ýewropa tarap ugraýan öwrüliş nokady.",
+    "events": [
+     "Makedoniýaly bir adamyň görnüşi",
+     "«Geç-de, bize kömek et»",
+     "Derrew Ýewropa geçýärler"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Resullar 16 · Filipililer",
+    "today": "häzirki demirgazyk Gresiýa",
+    "note": "Ýewropanyň ilkinji ybadathanasy — Hoş Habar türmede-de ýeňiş gazanýar.",
+    "events": [
+     "Gyrmyzy mata satýan Lidiýa iman edýär",
+     "Palçy gyrnak azat edilýär",
+     "Gije ýarym senalar, ýer titremesi, zyndançynyň öýi halas bolýar"
+    ]
+   },
+   "thess": {
+    "name": "Selanik",
+    "book": "Resullar 17 · 1–2 Selanikliler",
+    "today": "häzirki Gresiýada Selanik",
+    "note": "Söz şäheri sarsdyrýar we garşylyk gaýnaýar.",
+    "events": [
+     "Sinagogada üç Sabat güni jedelleşýär",
+     "«Dünýäni baş-aşak edenler»",
+     "Gije bukdaklyk bilen gidýärler"
+    ]
+   },
+   "berea": {
+    "name": "Bereýa",
+    "book": "Resullar 17:10-15",
+    "today": "häzirki Gresiýada Weriýa",
+    "note": "Sözi özleri barlan «asylly» adamlar.",
+    "events": [
+     "Sözi uly höwes bilen kabul edýärler",
+     "Dogrudygyny barlamak üçin her gün Mukaddes Ýazgylary derňeýärler",
+     "Köpler iman edýär"
+    ]
+   },
+   "athens": {
+    "name": "Afina",
+    "book": "Resullar 17:16-34",
+    "today": "häzirki Gresiýada Afina",
+    "note": "Filosoflaryň şäherinde «näbelli hudaýy» jar edýär.",
+    "events": [
+     "Butlardan doly şäher ruhuny gyjyndyrýar",
+     "Areopagda Ýaradyjyny we direlişi wagyz edýär",
+     "Ýaňsylanýar, ýöne birnäçesi iman edýär"
+    ]
+   },
+   "corinth": {
+    "name": "Korintos",
+    "book": "Resullar 18 · 1–2 Korintoslylar",
+    "today": "häzirki Gresiýa",
+    "note": "Azgynçylykly şäherde ybadathana gurup, bir ýarym ýyl galýar.",
+    "events": [
+     "Akwila we Priskilla bilen çadyr tikýär",
+     "«Gorkma… çünki Men seniň bilendirin»",
+     "Köp korintoslylar iman edip çokundyrylýar"
+    ]
+   },
+   "ephesus": {
+    "name": "Efes",
+    "book": "Resullar 19 · Efesliler",
+    "today": "häzirki Türkiýede Selçuk",
+    "note": "Üçünji saparyň ýüregi — söz bütin Aziýa ýaýraýar.",
+    "events": [
+     "Tiran zalynda iki ýyllap her gün taglym berýär",
+     "Jady kitaplary ýakylýar; gudratly işler",
+     "Kümüşçi Dimitriý galmagal turuzýar"
+    ]
+   },
+   "miletus": {
+    "name": "Milet",
+    "book": "Resullar 20:17-38",
+    "today": "häzirki Türkiýe",
+    "note": "Efesli ýaşulular bilen gözýaşly hoşlaşyk.",
+    "events": [
+     "«Öz gany bilen satyn alan ybadathanasyna göz-gulak boluň»",
+     "Ýaşulular Ony indi görmejeklerini bilip aglaýarlar"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaýsariýa",
+    "book": "Resullar 23–26",
+    "today": "häzirki Ysraýyl kenary",
+    "note": "Iki ýyllap häkimleriň we bir patyşanyň öňünde Hoş Habary goraýar.",
+    "events": [
+     "Häkimler Feliks bilen Festiň öňünde kazyýet",
+     "Agrippa patyşanyň öňünde goranyşy",
+     "«Kaýsara ýüz tutýaryn» — Rime tarap"
+    ]
+   },
+   "jerusalem": {
+    "name": "Iýerusalim",
+    "book": "Resullar 21–23",
+    "today": "häzirki Iýerusalim",
+    "note": "Ybadathanada tutulyp, tussag hökmünde ýoly başlanýar.",
+    "events": [
+     "Ybadathanada märeke tarapyndan tutulýar",
+     "Ýokary geňeşiň öňünde özüni goraýar",
+     "Rim raýaty hökmünde goragda Kaýsariýa iberilýär"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Resullar 27:5-6",
+    "today": "häzirki Türkiýede Demre",
+    "note": "Rime barýan Isgenderiýe gämisine geçýärler.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Gözel Duralgalar (Krit)",
+    "book": "Resullar 27:8-12",
+    "today": "häzirki Krit",
+    "note": "Pawlusyň ýüzüşi bes etmek duýduryşyna gulak asylmaýar.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krit",
+    "book": "Titus",
+    "today": "häzirki Krit",
+    "note": "Boşadylandan soň, ybadathanalary tertibe salmak üçin Titusy goýan adasy.",
+    "events": [
+     "Her şäherde ýaşuly bellemek üçin Titusy goýýar",
+     "Aýypsyz, wepaly ýolbaşçylara çagyrýar",
+     "Titusa hatyny ýazýar"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Resullar 27–28",
+    "today": "häzirki Malta",
+    "note": "Tupanyň we gämi heläkçiliginiň içinden Hudaýyň wadasy berk durýar.",
+    "events": [
+     "«Demirgazyk-gündogar» ýeli gämini bölýär, ýöne 276 adamyň hemmesi aman galýar",
+     "Alahöwren çakýar, ýöne oňa zeper ýetmeýär",
+     "Adanyň näsaglaryny sagaldýar"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuza",
+    "book": "Resullar 28:12",
+    "today": "häzirki Italiýada Siziliýa",
+    "note": "Siziliýada üç gün galýarlar.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Resullar 28:13-14",
+    "today": "häzirki Italiýada Pozzuoli",
+    "note": "Italiýa çykýarlar we imandaş doganlar tarapyndan garşylanýarlar.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rim",
+    "book": "Resullar 28 · Türme hatlary · 2 Timoteos",
+    "today": "häzirki Italiýada Rim",
+    "note": "Hoş Habar ahyrynda imperiýanyň ýüregine ýetýär — soň däl-de, başlangyç.",
+    "events": [
+     "Iki ýyl öý tussaglygynda, Şalygy batyrgaýlyk bilen jar edýär",
+     "Şu ýerden Türme hatlaryny ýazýar (Efes·Filipi·Kolos·Filimon)",
+     "Soň ýene tussag edilýär, 2 Timoteos ýazýar we şehit bolýar — «Ýagşy söweşi etdim, ýaryşy tamamladym»"
+    ]
+   }
+  },
+  "labels": [
+   "Ortaýer deňzi",
+   "Egeý deňzi",
+   "Kiçi Aziýa",
+   "Makedoniýa",
+   "Italiýa"
+  ],
+  "journeys": {
+   "j1": "Birinji sapar",
+   "j2": "Ikinji sapar",
+   "j3": "Üçünji sapar",
+   "rome": "Dördünji sapar · Rime",
+   "j5": "Bäşinji sapar · boşadylandan soň"
+  }
+ }
+}

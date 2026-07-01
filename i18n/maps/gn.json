@@ -1,0 +1,636 @@
+{
+ "menuName": "Avañe’ẽ",
+ "htmlLang": "gn",
+ "dir": "ltr",
+ "locale": "gn",
+ "brand": "Ñe’ẽñandúpe Ñanderuete kuatiañe’ẽ",
+ "docTitle": "Ñanderuete kuatiañe’ẽ mapápe · Ñe’ẽñandúpe Ñanderuete kuatiañe’ẽ",
+ "metaDesc": "Ehapykueho Testaménto Yma ára rysýi, Hesu rekove, ha Pablo jeguata peteĩ mapa añeteguápe — Ñanderuete kuatiañe’ẽ oiko tenda añeteguápe.",
+ "s": {
+  "kicker": "Ñe’ẽñandúpe Ñanderuete kuatiañe’ẽ · Mapakuéra",
+  "title": "Ñanderuete kuatiañe’ẽ mapápe",
+  "verse": "“Ore roikuaauka peẽme Hesu Crísto pu’aka ha ijeju jevy ndaha’éi ñe’ẽ gua’u rei, ore ningo hechaharete voi, ha rohecha ore resatee rupi heko jajái pu’aka.” (2 Pedro 1:16)",
+  "purpose": "Ñanderuete kuatiañe’ẽ ndaha’éi mombe’u rei. Ha’e peteĩ kuatiahai tapichakuéra oguatava’ekue tenda, ára ha téra añetegua ári rehegua. Ehapykueho umi rape peteĩ mapápe, ára rupi — eipoko peteĩ kytápe, térã eipoko ▶ rehe reguata hag̃ua peteĩteĩhávo.",
+  "ot_kick": "① Testaménto Yma — ára rupive",
+  "ot_h": "Jeguapýgui Jerusalén jejevy peve",
+  "ot_lead": "Ndaha’éi peteĩ jeguatánte, ha’e uvei pe istória redentora syry jeguapy guive: jeguapy ha pe ho’a → y guasu ha Babel → peteĩ ñehenói (Abraham) → pe yvy oñeprometéva’ekue → Ñesẽ → taveñũ → ñehupyty → retãguasu → ñembojao → jererahapa → jejevy.",
+  "je_kick": "② Testaménto Pyahu — Hesu rekove",
+  "je_h": "Beléngui Jerusalén peve",
+  "je_lead": "Ehapykueho Hesu rekove umi ñe’ẽ porã omombe’uháicha, ojoapykuéri — iñemboho’o Belénpe guive, pe iñemongarai ha hembiapo Galiléape rupive, Samaria rupive, pe kurusu, jeikove jey ha jeupi Jerusalénpe peve.",
+  "pa_kick": "③ Testaménto Pyahu — Pablo jeguata",
+  "pa_h": "Antioquíagui yvy paha peve — Roma",
+  "pa_lead": "Pentecostés Jerusalénpe guive, mba’éichapa pe ñe’ẽ porã oñemyasãi Judéa mboypýri — Ásia Menor ha Europa rupive pe imperio korasõ peve. Eiporavo peteĩ umi cinco jeguata apytégui (1·2·3 + pe jeguata Rómape + osẽ rire) ha ehapykueho umi mba’e oikova’ekue Apostolkuérape umi karta ojehaiva’ekue tape rehe reheve.",
+  "foot": "Ñemombe’u apoha · Umi tenda oho Ñanderuete kuatiañe’ẽ testo ha pe Biblia geografía apytépe (téra ág̃aguávape reheve oipytyvõhápe). Umi yguasu rembe’y, ysyry ha yno’õ ojehai geografía dato isãsóvagui (Natural Earth), oñemombykývo.",
+  "contact": "Porandu · ñe’ẽ ñohenduka — <a id=\"contact\" class=\"mail\">Embou correo</a>",
+  "play": "Emongu’e",
+  "pause": "Epyta",
+  "today": "Ko’ág̃a:",
+  "verseCite": "2 Pedro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edén (Jeguapy · Pe ho’a)",
+    "book": "Génesis 1–3",
+    "today": "Tigris–Éufrates yvy ko’ág̃a",
+    "note": "Peteĩ yvy ojejapova’ekue iporãitépe, angaipa oike ha ombyai pe joaju Ñanderuete ha yvypóra pa’ũme.",
+    "events": [
+     "Jeguapy poteĩ árape — «iporãite»",
+     "Yvypóra ojejapo Ñanderuete ra’angáicha",
+     "Pe ho’a, ha ñemosẽ Edéngui",
+     "Pe ñe’ẽ porã ñe’ẽme’ẽ tenondegua — «kuña ñemoñare omongu’íta pe mbói akã»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Y Guasu)",
+    "book": "Génesis 6–9",
+    "today": "Ararat yvyty, Turquía kuarahyresẽ gotyo ko’ág̃a",
+    "note": "Ñanderuete ombojovake peteĩ yvy henyhẽva angaipágui, ha katu oñongatu tekove peteĩ ogapy rupive.",
+    "events": [
+     "Peteĩ yvy henyhẽva teko vaígui",
+     "Pe y guasu, ha Noé várco",
+     "Pe ñe’ẽme’ẽ jy reheve — «ndaipomo’ãvéima y guasu ombyaipa hag̃ua»"
+    ]
+   },
+   "babel": {
+    "name": "Babel Tórre",
+    "book": "Génesis 11",
+    "today": "Irak ko’ág̃a (Sinar ñu)",
+    "note": "Pe jejapo ohupytysévo yvága rovái, Ñanderuete ombojehe’a iñe’ẽ ha omosarambi tetãnguéra yvy ári.",
+    "events": [
+     "«Ñamopu’ã peteĩ táva ha peteĩ tórre… ha ñamboheratee ñandejupe»",
+     "Ñanderuete ombojehe’a iñe’ẽ",
+     "Tetãnguéra osarambi yvy ári (Sinar — upéi Babilónia)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Génesis 12",
+    "today": "Irak yvyguápe ko’ág̃a",
+    "note": "Ñanderuete kuatiañe’ẽ salvación mombe’u oñepyrũ peteĩ kuimba’e ñehenóigui.",
+    "events": [
+     "Ñanderuete ohenói Abrámpe Ur, caldéokuéra tavágui",
+     "«Ajapóta ndehegui peteĩ tetã ndetuicháva… nderupi ojehovasáta opaite tetãnguéra»",
+     "Ijeroviápe oheja hetã"
+    ]
+   },
+   "haran": {
+    "name": "Harán",
+    "book": "Génesis 12",
+    "today": "Turquía yvyguápe ko’ág̃a",
+    "note": "Tape rehe, ombohovái pe ñehenói pe yvy oñeprometéva’ekue gotyo.",
+    "events": [
+     "Taré ogapy opyta Haránpe",
+     "Taré omano",
+     "Abram osẽ oho Canaánpe orekóvo 75 áño"
+    ]
+   },
+   "shechem": {
+    "name": "Siquem · Canaán",
+    "book": "Génesis 12–50",
+    "today": "Naplusa ko’ág̃a",
+    "note": "Pe yvy oñeprometéva’ekuépe oñemopyenda peteĩ ogapy ha pe ñe’ẽme’ẽ ohasa ñemoñarére.",
+    "events": [
+     "Oikévo Canaánpe, altar tenondegua — «ne ñemoñarépe ame’ẽta ko yvy»",
+     "Pe ñe’ẽme’ẽ (Gén 15) · Isaac · Jacob",
+     "Jacob ta’ýra 12 — umi 12 tribu rapo"
+    ]
+   },
+   "egypt": {
+    "name": "Egípto (Gosén)",
+    "book": "Génesis 37–50 · Éxodo 1",
+    "today": "Nilo Delta, Egípto ko’ág̃a",
+    "note": "Peteĩ ogapy oiko peteĩ tetã guasúrõ — upéi peteĩ tetã tembiguái.",
+    "events": [
+     "José, ojevendéva’ekue, oñembotuicha Egípto ruvicha ramo",
+     "Jacob ogapy oguejy oguevi hag̃ua ñembyahýigui",
+     "Israel tetã okakuaáva oñemotembiguái"
+    ]
+   },
+   "sinai": {
+    "name": "Sinaí Yvyty",
+    "book": "Éxodo · Levítico",
+    "today": "Sinaí Península ko’ág̃a",
+    "note": "Pe salvación tuichavéva Testaménto Ymápe — umi tembiguái oiko Ñanderuete retã tee ramo.",
+    "events": [
+     "Umi 10 ivaíva ha pe Páscua ovecha",
+     "Yguasu Pytã ojeavá ha ohasa hikuái",
+     "Mandamiénto 10, pe Léi, pe tabernáculo ha umi ñekuave’ẽ"
+    ]
+   },
+   "kadesh": {
+    "name": "Cades (taveñũ)",
+    "book": "Números · Deuteronómio",
+    "today": "Sinaí–Néguev taveñũ ko’ág̃a",
+    "note": "Pe jerovia’ỹ omboly peteĩ ñemoñarépe pe yvy — ha katu Ñanderuete opyta hendivekuéra.",
+    "events": [
+     "Umi 12 mañahára — tetãygua katu ndojeroviaséi",
+     "38 áño taveñũme — maná, arai ha tata",
+     "Moab ñúme, Moises ñe’ẽ paha (Deuteronómio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jericó",
+    "book": "Josué",
+    "today": "Jericó ko’ág̃a",
+    "note": "Ipahápe oike ha oñemomba’e pe yvy oñeprometéva’ekuére.",
+    "events": [
+     "Jordán ojeavá ha tetãygua ohasa",
+     "Jericó korapy ho’a",
+     "Canaán ñehupyty ha yvy ñembojao"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Juéces)",
+    "book": "Juéces · Rut",
+    "today": "Khirbet Seilun ko’ág̃a",
+    "note": "Mburuvicha’ỹre, peteĩteĩ ojapo iporãve háicha ichupe — oñeikotevẽ peteĩ mburuvicha añetegua.",
+    "events": [
+     "Pe tabernáculo oñemopu’ã Silópe",
+     "Pe rape angaipa–ñepyhy–salvación (Débora, Gedeón, Sansón)",
+     "Rut — jeroviapy ára pytũme, David ñemoñaréme"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalén · Retãguasu peteĩva",
+    "book": "1–2 Samuel · 1 Réyes",
+    "today": "Jerusalén ko’ág̃a",
+    "note": "Israel hi’aratĩ — ha peteĩ mburuvicha tapiaitéva ñe’ẽme’ẽ.",
+    "events": [
+     "Saúl mburuvicha tenondegua, upéi David ha Goliat",
+     "Pe ñe’ẽme’ẽ David ndive — «ne apyka tapiaite peve» (2 Samuel 7)",
+     "Salomón omopu’ã pe tupão Jerusalénpe"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Retãguasu ojeavýva",
+    "book": "Réyes · Profetakuéra",
+    "today": "Sebastia ko’ág̃a",
+    "note": "Pe retãguasu oñembojao ha oñembyai umi profeta osapukái aja.",
+    "events": [
+     "Salomón rire, ñembojao Judá ha Israélpe",
+     "Tupãgua’u jey jey",
+     "Elías, Isaías, Jeremías osapukái «pejevýke» — ha omombe’u pe Mesías"
+    ]
+   },
+   "nineveh": {
+    "name": "Nínive (Asíria)",
+    "book": "2 Réyes 17 · Jonás",
+    "today": "Mosul, Irak ko’ág̃a",
+    "note": "Ojapo’ỹvo opaite ñemomarandu, yvategua ho’a raẽ.",
+    "events": [
+     "Nínive, Asíria táva ruvicha",
+     "Yvategua retãguasu ho’a Asíria poguýpe (722 a. C.)",
+     "Jonás oñemondo Nínivepe"
+    ]
+   },
+   "babylon": {
+    "name": "Babilónia",
+    "book": "2 Réyes 25 · Daniel · Ezequiel",
+    "today": "Hilla, Irak ko’ág̃a",
+    "note": "Pe pyhare ipytũvéva — ha katu opyta pe ñemboheko jey ñe’ẽme’ẽ.",
+    "events": [
+     "Jerusalén ho’a, pe tupão okái (586 a. C.)",
+     "Judá oñereraha Babilóniape",
+     "Daniel ha Ezequiel — jerovia ha jehecha jererahapápe"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Pérsia)",
+    "book": "Ester · Nehemías",
+    "today": "Shush, Irán ko’ág̃a",
+    "note": "Peteĩ imperio tupãgua’úva mbytépe jepe, Ñanderuete oñangareko hetãre.",
+    "events": [
+     "Pérsia oity Babilóniape",
+     "Ester osalva umi judíope ñehundígui",
+     "Nehemías oñembo’e mburuvicha renondépe ha oñemondo"
+    ]
+   },
+   "return": {
+    "name": "Jejevy Jerusalénpe",
+    "book": "Esdras · Nehemías · Malaquías",
+    "today": "Jerusalén ko’ág̃a",
+    "note": "Ou jey ha omopu’ã jey — mburuvicha katu ndoúiri. Oha’ãrõ hikuái pe Mesías.",
+    "events": [
+     "Mbohapy jejevy Ciro ñe’ẽmondo rupi (Zorobabel 538 · Esdras 458 · Nehemías 444)",
+     "Tupão oñemopu’ã jey ha Jerusalén korapy oñemyatyrõ",
+     "Malaquías — Testaménto Yma oñemboty: «Che amondóta che remimondo»"
+    ]
+   }
+  },
+  "labels": [
+   "Yguasu Mediterráneo",
+   "Mesopotamia",
+   "Arábia Taveñũ",
+   "Egípto"
+  ],
+  "journeys": {
+   "flow": "Pe salvación mombe’u"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Belén",
+    "book": "Matéo 1–2 · Lúcas 2",
+    "today": "Belén ko’ág̃a",
+    "note": "Pe Mesías oñeprometéva’ekue ou David távape — pe Ñe’ẽ oñemboho’óva.",
+    "events": [
+     "Onace Belénpe, David távape",
+     "Umi ángel omomarandu ovecharerekuápe",
+     "Umi mágo ou omomba’e guasu hag̃ua"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lúcas 2 · 4",
+    "today": "Nazaret ko’ág̃a",
+    "note": "Ñanderuete okakuaa kuimba’éicha peteĩ táva jepiveguápe.",
+    "events": [
+     "Okakuaa peteĩ karpintéro rógape",
+     "12 áño reheve, oporandu ha ombohovái tupãópe",
+     "Upéi oñemboyke hetã sinagógape"
+    ]
+   },
+   "jordan": {
+    "name": "Jordán Ysyry",
+    "book": "Matéo 3–4",
+    "today": "Jordán yvyguágua ko’ág̃a",
+    "note": "Hembiapo opavave renondépe oñepyrũ — yvága omoañete ichupe Ta’ýraramo.",
+    "events": [
+     "Juan omongarai ichupe",
+     "Pe Espíritu oguejy pykasúicha — «Kóva che Ra’y ahayhuetéva»",
+     "Oñakã’o Satana mbohapy pytaha taveñũme"
+    ]
+   },
+   "cana": {
+    "name": "Caná",
+    "book": "Juan 2",
+    "today": "Kafr Kanna ko’ág̃a",
+    "note": "Itechaukaha tenondegua rupi ohechauka iverapy.",
+    "events": [
+     "Peteĩ mbohupáramo peteĩ mendápe",
+     "Y oiko kaguýrõ — itechaukaha tenondegua",
+     "Itemimbo’ekuéra ojerovia hese"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Juan 2–4",
+    "today": "Naplusa ypýpe ko’ág̃a",
+    "note": "Pe hembiapo ñepyrũ rape — Jerusalén rupive ha Samaria oñemboykéva peve.",
+    "events": [
+     "Omopotĩ pe tupão Jerusalénpe",
+     "Pyharévo, Nicodemo — «Tekotevẽ reheñói jey»",
+     "Y tekovéva peteĩ kuña Samariaguápe"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaúm",
+    "book": "Matéo 4–13 · Márcos 1–4",
+    "today": "Galiléa yno’õ rembe’y ko’ág̃a",
+    "note": "Pe hembiapo Galiléape mbyte — ñehenói, ñembo’e ha ñembohovái ojotopa ko’ápe.",
+    "events": [
+     "Ohenói umi pirakutuhárape ha opyta ko’ápe",
+     "Pe ñe’ẽ Yvytýpe — «Ovy’a umi imboriahúva ipy’apýpe»",
+     "Umi ñe’ẽmbojoja retãguasu rehegua — ha ñembohovái okakuaáva"
+    ]
+   },
+   "galilee": {
+    "name": "Galiléa Yguasu",
+    "book": "Márcos 4 · 6 · Juan 6",
+    "today": "Kinéret yno’õ ko’ág̃a",
+    "note": "Ipu’aka reheve opa oĩva ári, ohechauka máva ha’eha.",
+    "events": [
+     "«Ekirirĩ, epyta» — omokirirĩ pe ára vai",
+     "Omongaru 5.000-pe cinco mbujape ha mokõi pira reheve",
+     "Oguata pe y ári"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea de Filipo",
+    "book": "Matéo 16–17",
+    "today": "Banias ko’ág̃a",
+    "note": "Umi temimbo’e ohechakuaa ha’eha pe Crísto, ha ojepe’a pe kurusu rape.",
+    "events": [
+     "Pedro ñemombe’u — «Nde hína pe Crísto, Ñanderuete oikovéva Ra’y»",
+     "Omombe’u raẽ iñemano ha ijeikove jey",
+     "Oñemoambue iverapýpe pe yvytýre"
+    ]
+   },
+   "jericho": {
+    "name": "Jericó",
+    "book": "Lúcas 18–19",
+    "today": "Jericó ko’ág̃a",
+    "note": "Pe tape ojupihápe Jerusalénpe, oheka umi okañývape.",
+    "events": [
+     "Ome’ẽ tesa Bartiméo hesatũvape",
+     "Ohenói Zaqueo, impuésto rembiapohárape",
+     "«Yvypóra Ra’y ou oheka ha osalva hag̃ua umi okañývape»"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Juan 11–12",
+    "today": "al-Eizariya ko’ág̃a",
+    "note": "Ohechauka ipu’aka ñemano ári, hi’áraite paha mboyve.",
+    "events": [
+     "Omoingove jey Lázaro pe tyvágui — «Che hína pe jeikove jey ha pe tekove»",
+     "María omona ichupe iñeñotỹrã",
+     "Ko techaukaha ombohatãve pe ñemoĩ ojuka hag̃ua ichupe"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalén",
+    "book": "Matéo 21–28 · Lúcas 24 · Apostolkuéra 1",
+    "today": "Jerusalén ko’ág̃a",
+    "note": "Pe ipahaite Ñanderuete kuatiañe’ẽ ohechaukaha — kurusu, jeikove jey, jeupi.",
+    "events": [
+     "Jeike ñemomba’e guasúpe; ombojere jey umi mesa tupãópe",
+     "Karu Pahápe ojohéi itemimbo’ekuéra py",
+     "Omano kurusúpe",
+     "Oikove jey ára mbohapyhápe, upéi ojupi"
+    ]
+   }
+  },
+  "labels": [
+   "Yguasu Mediterráneo",
+   "Galiléa",
+   "Samaria",
+   "Judéa",
+   "Decápolis",
+   "Peréa",
+   "Yguasu Omanóva"
+  ],
+  "journeys": {
+   "life": "Hesu rape"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioquía",
+    "book": "Apostolkuéra 13 · 15",
+    "today": "Antakya, Turquía ko’ág̃a",
+    "note": "Pe tupão omondóva, oñepyrũ ha oujeyhápe pe misión umi tetã ambueguápe.",
+    "events": [
+     "Ñembo’e aja pe Espíritu omboyke Bernabé ha Saúlope",
+     "Pe tupão umi jeroviahára oñehenói ypy hague ‘cristiáno’",
+     "Umi jeguata 1, 2 ha 3 ñepyrũha"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Apostolkuéra 13:4",
+    "today": "Turquía ko’ág̃a",
+    "note": "Antioquía pórto — osẽ várcope Chipre gotyo.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamina (Chipre)",
+    "book": "Apostolkuéra 13:5",
+    "today": "Chipre ko’ág̃a",
+    "note": "Pytaha ypy Chiprépe — omomarandu umi sinagógape.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Apostolkuéra 13:6-12",
+    "today": "Chipre ko’ág̃a",
+    "note": "Ojehechauka pu’aka umi oñemoĩva ñe’ẽ porã rovái rehe.",
+    "events": [
+     "Elimas pe paje oiko hesatũ",
+     "Sergio Paulo pe procónsul ojerovia",
+     "Ko’águi ‘Pablo’ omoakã"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Apostolkuéra 13:13",
+    "today": "Antalya, Turquía ko’ág̃a",
+    "note": "Peteĩ pórto Panfíliape — ko’ápe Juan Márcos ojevy jey.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioquía de Pisidia",
+    "book": "Apostolkuéra 13:14-50",
+    "today": "Yalvaç, Turquía ko’ág̃a",
+    "note": "Pe ñe’ẽ porã ojepe’a umi tetã ambueguápe.",
+    "events": [
+     "Peteĩ ñe’ẽ puku salvación mombe’úre sinagógape",
+     "Heta tetã ambuegua ovy’a ha ohupyty pe ñe’ẽ",
+     "Oñemosẽ pe ñembohovái rupi"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Apostolkuéra 14:1-7",
+    "today": "Konya, Turquía ko’ág̃a",
+    "note": "Heta ojerovia, ha katu pe jejahéi omuña chupekuéra oho hag̃ua tenonde.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Apostolkuéra 14:8-20",
+    "today": "Turquía ko’ág̃a",
+    "note": "Oñemomba’e guasu tupãramo, upéi ojeapi itápe.",
+    "events": [
+     "Omonguera peteĩ kuimba’e ipykarẽva onace guive",
+     "Pe atyguasu oñeha’ã oikuave’ẽ chupekuéra tupãramo",
+     "Ojeapi itápe ha oñeheja omano ramoháicha, ha katu opu’ã"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Apostolkuéra 14:20-21",
+    "today": "Turquía ko’ág̃a",
+    "note": "Heta temimbo’e ojejapo; ha ojevy hikuái tape rupi ombopy’aguasúvo umi tupão.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Apostolkuéra 16:8-10",
+    "today": "Turquía ko’ág̃a",
+    "note": "Pe momento pe ñe’ẽ porã oho ypy hague Europa gotyo.",
+    "events": [
+     "Peteĩ jehecha peteĩ Macedoniagua kuimba’égui",
+     "«Ejumi ha eipytyvõ oréve»",
+     "Ohasa voi Europa gotyo"
+    ]
+   },
+   "philippi": {
+    "name": "Filipos",
+    "book": "Apostolkuéra 16 · Filipoyguakuérape",
+    "today": "Grécia yvatépe ko’ág̃a",
+    "note": "Europa tupão tenondegua — pe ñe’ẽ porã ipu’aka pe ka’irãime jepe.",
+    "events": [
+     "Lidia, púrpura ñemuhára, ojerovia",
+     "Peteĩ mitãkuña tembiguái omombe’úva pe oútava oñemosãso",
+     "Purahéi pyhare pytépe, peteĩ yvyryryi, ha pe ka’irãirerekua ogapy oñesalva"
+    ]
+   },
+   "thess": {
+    "name": "Tesalónica",
+    "book": "Apostolkuéra 17 · 1–2 Tesalonicayguakuérape",
+    "today": "Tesalónica, Grécia ko’ág̃a",
+    "note": "Pe ñe’ẽ omomýi pe táva ha pe ñembohovái henyhẽ.",
+    "events": [
+     "Oñomongeta sinagógape mbohapy pytu’u árape",
+     "«Ko’ãva ombojere opa mba’e yvy ári»",
+     "Osẽñemi hikuái pyharévo"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Apostolkuéra 17:10-15",
+    "today": "Veria, Grécia ko’ág̃a",
+    "note": "Umi ‘imarangatúva’ oñehesa’ỹijo hague pe ñe’ẽ ijehegui.",
+    "events": [
+     "Oñemog̃uahẽ pe ñe’ẽre py’a rorýpe",
+     "Arako’ẽre oñehesa’ỹijo Ñanderuete kuatiañe’ẽ ohechávo añetépa",
+     "Heta oñepyrũ ojerovia"
+    ]
+   },
+   "athens": {
+    "name": "Atenas",
+    "book": "Apostolkuéra 17:16-34",
+    "today": "Atenas, Grécia ko’ág̃a",
+    "note": "Umi filósofo távape omomarandu pe ‘tupã ojekuaa’ỹva’.",
+    "events": [
+     "Ombopy’apy chupe peteĩ táva henyhẽva tupãgua’úgui",
+     "Areópagope omomarandu pe Apoha ha pe jeikove jey",
+     "Oñembohory chupe, ha katu oĩ mbovymi ojeroviáva"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Apostolkuéra 18 · 1–2 Corintoyguakuérape",
+    "today": "Grécia ko’ág̃a",
+    "note": "Opyta peteĩ áño ha mbyte, omopu’ãvo peteĩ tupão peteĩ táva teko vaípe.",
+    "events": [
+     "Ojapo karpa Aquila ha Priscila ndive",
+     "«Ani rekyhyje… che aime ne ndive»",
+     "Heta Corintogua ojerovia ha oñemongarai"
+    ]
+   },
+   "ephesus": {
+    "name": "Éfeso",
+    "book": "Apostolkuéra 19 · Efesoyguakuérape",
+    "today": "Selçuk, Turquía ko’ág̃a",
+    "note": "Pe mbohapyha jeguata mbyte — pe ñe’ẽ oñemyasãi Ásia rupi.",
+    "events": [
+     "Ñembo’e arako’ẽre mokõi áño aja Tiranno mbo’ehaópe",
+     "Umi aranduka paje okái; tembiapo ipu’akáva",
+     "Demetrio pe pláta apohára omoñepyrũ peteĩ sarambi"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Apostolkuéra 20:17-38",
+    "today": "Turquía ko’ág̃a",
+    "note": "Peteĩ ñemomaitei paha tesay reheve umi Éfeso tupão myakãhárape.",
+    "events": [
+     "«Peñangareko pe tupão Ha’e ojoguava’ekuére huguy tee rupive»",
+     "Umi myakãhára hasẽ, oikuaágui ndohechamo’ãveimaha ichupe"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Apostolkuéra 23–26",
+    "today": "Israel yguasu rembe’y ko’ág̃a",
+    "note": "Mokõi áño aja oñe’ẽ pe ñe’ẽ porã rehehápe umi governadór ha peteĩ mburuvicha renondépe.",
+    "events": [
+     "Ñembojovakekuéra umi governadór Félix ha Festo renondépe",
+     "Oñemo’ã mburuvicha Agripa renondépe",
+     "«Ajerure César-pe» — Roma gotyo"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalén",
+    "book": "Apostolkuéra 21–23",
+    "today": "Jerusalén ko’ág̃a",
+    "note": "Ojagarra chupe tupãópe, ha oñepyrũ hape peteĩ oñeñapytĩmbýva ramo.",
+    "events": [
+     "Pe atyguasu ojagarra ichupe tupãópe",
+     "Oñemo’ã pe aty guasu renondépe",
+     "Roma-ygua ramo, oñemondo ñeñangareko poguýpe Cesareápe"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Apostolkuéra 27:5-6",
+    "today": "Demre, Turquía ko’ág̃a",
+    "note": "Oñembohasa peteĩ várco Alejandríaguápe Roma gotyo ohóvape.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Pórto Porã (Creta)",
+    "book": "Apostolkuéra 27:8-12",
+    "today": "Creta ko’ág̃a",
+    "note": "Pablo ñemomarandu opyta hag̃ua noñehendúi.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tito",
+    "today": "Creta ko’ág̃a",
+    "note": "Osẽ rire ka’irãigui, pe isla oheja hague Títope omohenda hag̃ua umi tupão.",
+    "events": [
+     "Oheja Títope omoĩ hag̃ua myakãhára opa távape",
+     "Ojerure myakãhára imarã’ỹ ha jeroviapýva",
+     "Ohai pe karta Títope"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Apostolkuéra 27–28",
+    "today": "Malta ko’ág̃a",
+    "note": "Ára vai ha várco ho’a rupive, Ñanderuete ñe’ẽme’ẽ opyta hatã.",
+    "events": [
+     "Pe yvytu ratã ombyai pe várco, ha katu opa 276 oikovéva opyta",
+     "Peteĩ mbói oisu’u ichupe, ha katu mba’eve ndoikói hese",
+     "Omonguera umi hasýva pe islagua"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Apostolkuéra 28:12",
+    "today": "Sicilia, Itália ko’ág̃a",
+    "note": "Opyta mbohapy ára Siciliápe.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Apostolkuéra 28:13-14",
+    "today": "Pozzuoli, Itália ko’ág̃a",
+    "note": "Og̃uahẽ Itáliape ha umi ermáno jeroviaha omog̃uahẽ chupekuéra.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Apostolkuéra 28 · Karta Ka’irãigua · 2 Timotéope",
+    "today": "Roma, Itália ko’ág̃a",
+    "note": "Pe ñe’ẽ porã og̃uahẽ ipahápe pe imperio korasõme — ndaha’éi peteĩ paha, ha’e uvei peteĩ ñepyrũ.",
+    "events": [
+     "Mokõi áño oñeñangarekohápe hese hógape, omomarandu py’aguasúpe pe retãguasu",
+     "Ko’águi ohai umi Karta Ka’irãigua (Efesoyguakuérape·Filipoyguakuérape·Colosayguakuérape·Filemón)",
+     "Upéi oñemboty jey ka’irãime, ohai 2 Timotéope ha ojejuka ijeroviáre — «Añorãirõ pe ñorãirõ porã, amohu’ã pe ñani»"
+    ]
+   }
+  },
+  "labels": [
+   "Yguasu Mediterráneo",
+   "Yguasu Egéo",
+   "Ásia Menor",
+   "Macedonia",
+   "Itália"
+  ],
+  "journeys": {
+   "j1": "Jeguata peteĩha",
+   "j2": "Jeguata mokõiha",
+   "j3": "Jeguata mbohapyha",
+   "rome": "Jeguata irundyha · Roma gotyo",
+   "j5": "Jeguata poha · osẽ rire"
+  }
+ }
+}
