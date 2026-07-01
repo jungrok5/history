@@ -1,0 +1,636 @@
+{
+ "menuName": "Slovenščina",
+ "htmlLang": "sl",
+ "dir": "ltr",
+ "locale": "sl-SI",
+ "brand": "Sveto pismo v enem pogledu",
+ "docTitle": "Sveto pismo na zemljevidu · Sveto pismo v enem pogledu",
+ "metaDesc": "Po pravem zemljevidu sledi časovnici Stare zaveze, Jezusovemu življenju in Pavlovim potovanjem — Sveto pismo se je zgodilo na resničnih krajih.",
+ "s": {
+  "kicker": "Sveto pismo v enem pogledu · Zemljevidi",
+  "title": "Sveto pismo na zemljevidu",
+  "verse": "“Ko smo vam oznanili moč in prihod našega Gospoda Jezusa Kristusa, nismo sledili vešče izmišljenim bajkam, ampak smo na lastne oči videli njegovo veličastje.” (2 Petrovo 1:16)",
+  "purpose": "Sveto pismo ni mit. Je zapis o ljudeh, ki so hodili po resničnih krajih, datumih in imenih. Sledi tem potem po zemljevidu, v časovnem zaporedju — pritisni na točko ali pritisni ▶ in po korakih prehodi pot.",
+  "ot_kick": "① Stara zaveza — skozi čas",
+  "ot_h": "Od stvarjenja do vrnitve v Jeruzalem",
+  "ot_lead": "Ne eno samo potovanje, ampak tok odrešenjske zgodovine od stvarjenja naprej: stvarjenje in padec → potop in Babel → poklic (Abraham) → obljubljena dežela → izhod → puščava → osvojitev → kraljestvo → razdelitev → izgnanstvo → vrnitev.",
+  "je_kick": "② Nova zaveza — Jezusovo življenje",
+  "je_h": "Od Betlehema do Jeruzalema",
+  "je_lead": "Sledi Jezusovemu življenju, kakor ga pripovedujejo evangeliji, po vrsti — od rojstva v Betlehemu skozi krst in galilejsko delovanje, čez Samarijo, do križa, vstajenja in vnebohoda v Jeruzalemu.",
+  "pa_kick": "③ Nova zaveza — Pavlova potovanja",
+  "pa_h": "Od Antiohije do skrajnih mej zemlje — Rima",
+  "pa_lead": "Od binkošti v Jeruzalemu — kako se je evangelij razširil onkraj Judeje — skozi Malo Azijo in Evropo do srca cesarstva. Izberi eno od petih potovanj (1.·2.·3. + plovbo v Rim + po izpustitvi) in sledi dogodkom Apostolskih del s pismi, napisanimi na poti.",
+  "foot": "Viri · Kraji sledijo svetopisemskemu besedilu in ustaljeni svetopisemski geografiji (z modernimi imeni, kjer je koristno). Obale, reke in jezera so izrisani iz odprtih geografskih podatkov (Natural Earth), poenostavljeno.",
+  "contact": "Vprašanja · odzivi — <a id=\"contact\" class=\"mail\">Pišite nam</a>",
+  "play": "Predvajaj",
+  "pause": "Ustavi",
+  "today": "Danes:",
+  "verseCite": "2 Petrovo 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (stvarjenje · padec)",
+    "book": "1 Mojzes 1–3",
+    "today": "danes območje Tigrisa in Evfrata",
+    "note": "V svet, ki je bil narejen zelo dober, vstopi greh in pretrga vez med Bogom in človekom.",
+    "events": [
+     "Stvarjenje v šestih dneh — »bilo je zelo dobro«",
+     "Človek ustvarjen po Božji podobi",
+     "Padec in izgon iz Edena",
+     "Prva obljuba evangelija — »zarod žene bo strl kačo po glavi«"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (potop)",
+    "book": "1 Mojzes 6–9",
+    "today": "danes gora Ararat, vzhodna Turčija",
+    "note": "Bog sodi svet, poln greha, a skozi eno družino ohrani življenje.",
+    "events": [
+     "Svet, poln pokvarjenosti",
+     "Potop in Noetova ladja",
+     "Zaveza mavrice — »nikoli več potopa, da bi uničil«"
+    ]
+   },
+   "babel": {
+    "name": "Babilonski stolp",
+    "book": "1 Mojzes 11",
+    "today": "danes Irak (Šinárska ravnina)",
+    "note": "Proti napuhu, ki sega po nebu, Bog zmede njihov govor in razkropi ljudstva po zemlji.",
+    "events": [
+     "»Sezidajmo si mesto in stolp … in naredimo si ime«",
+     "Bog zmede njihov jezik",
+     "Ljudstva se razkropijo po zemlji (Šinár — pozneje Babilon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "1 Mojzes 12",
+    "today": "danes južni Irak",
+    "note": "Svetopisemska zgodba odrešenja se začne s poklicem enega človeka.",
+    "events": [
+     "Bog pokliče Abrama iz Ura v Kaldeji",
+     "»Iz tebe bom naredil velik narod … v tebi bodo blagoslovljeni vsi rodovi«",
+     "Po veri zapusti svojo domovino"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "1 Mojzes 12",
+    "today": "danes južna Turčija",
+    "note": "Na poti, v odgovoru na poklic proti obljubljeni deželi.",
+    "events": [
+     "Terahova družina se naseli v Haranu",
+     "Terah umre",
+     "Abram se pri 75 letih odpravi v Kanaan"
+    ]
+   },
+   "shechem": {
+    "name": "Sihem · Kanaan",
+    "book": "1 Mojzes 12–50",
+    "today": "danes Nablus",
+    "note": "V obljubljeni deželi se ustanovi družina in zaveza se prenaša iz roda v rod.",
+    "events": [
+     "Vstop v Kanaan, prvi oltar — »tvojemu zarodu dam to deželo«",
+     "Zaveza (1 Mz 15) · Izak · Jakob",
+     "Dvanajst Jakobovih sinov — korenina dvanajstih rodov"
+    ]
+   },
+   "egypt": {
+    "name": "Egipt (Gošen)",
+    "book": "1 Mojzes 37–50 · 2 Mojzes 1",
+    "today": "danes delta Nila, Egipt",
+    "note": "Družina postane velik narod — in nato narod sužnjev.",
+    "events": [
+     "Jožef, prodan v suženjstvo, se povzpne do oblasti v Egiptu",
+     "Vsa Jakobova družina pride dol, da uide lakoti",
+     "Naraščajoči narod Izrael je zasužnjen"
+    ]
+   },
+   "sinai": {
+    "name": "Gora Sinaj",
+    "book": "2 Mojzes · 3 Mojzes",
+    "today": "danes Sinajski polotok",
+    "note": "Osrednja rešitev Stare zaveze — iz sužnjev nastane Božje lastno ljudstvo.",
+    "events": [
+     "Deset nadlog in pashalno jagnje",
+     "Rdeče morje se razdeli in prehodijo ga",
+     "Deset zapovedi, postava, shodni šotor in žrtve"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeš (puščava)",
+    "book": "4 Mojzes · 5 Mojzes",
+    "today": "danes puščava Sinaja in Negeva",
+    "note": "Nevera stane cel rod dežele — a Bog ostane z njimi.",
+    "events": [
+     "Dvanajst oglednikov — a ljudstvo noče zaupati",
+     "38 let v puščavi — mana, oblak in ogenj",
+     "Na Moábskih planjavah zadnji Mojzesov govor (5 Mojzes)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriha",
+    "book": "Jozue",
+    "today": "danes Jeriha",
+    "note": "Naposled vstopijo in zavzamejo obljubljeno deželo.",
+    "events": [
+     "Jordan se razdeli in ljudstvo ga prehodi",
+     "Zidovi Jerihe se zrušijo",
+     "Osvojitev Kanaana in razdelitev dežele"
+    ]
+   },
+   "shiloh": {
+    "name": "Šilo (sodniki)",
+    "book": "Sodniki · Ruta",
+    "today": "danes Khirbet Seilun",
+    "note": "Ker ni kralja, vsak dela po svoje — potreben je pravi kralj.",
+    "events": [
+     "Shodni šotor je postavljen v Šilu",
+     "Krog greha–zatiranja–rešitve (Debora, Gideon, Samson)",
+     "Ruta — zvestoba v temnih dneh, v Davidovi rodovni črti"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalem · združeno kraljestvo",
+    "book": "1–2 Samuel · 1 Kralji",
+    "today": "danes Jeruzalem",
+    "note": "Izraelova zlata doba — in obljuba večnega kralja.",
+    "events": [
+     "Prvi kralj Savel, nato David in Goljat",
+     "Davidova zaveza — »tvoj prestol na veke« (2 Sam 7)",
+     "Salomon zgradi tempelj v Jeruzalemu"
+    ]
+   },
+   "samaria": {
+    "name": "Samarija · razdeljeno kraljestvo",
+    "book": "Kralji · preroki",
+    "today": "danes Sebastija",
+    "note": "Kraljestvo se razdeli in propada, medtem ko preroki vpijejo.",
+    "events": [
+     "Po Salomonu razdelitev na Judo in Izrael",
+     "Ponavljajoče se malikovanje",
+     "Elija, Izaija, Jeremija vpijejo »vrnite se« — in napovedujejo Mesija"
+    ]
+   },
+   "nineveh": {
+    "name": "Niniva (Asirija)",
+    "book": "2 Kralji 17 · Jona",
+    "today": "danes Mosul, Irak",
+    "note": "Ker ni upoštevalo nobenega svarila, sever pade prvi.",
+    "events": [
+     "Niniva, prestolnica Asirije",
+     "Severno kraljestvo pade pod Asirijo (722 pr. Kr.)",
+     "Jona je poslan v Ninivo"
+    ]
+   },
+   "babylon": {
+    "name": "Babilon",
+    "book": "2 Kralji 25 · Daniel · Ezekiel",
+    "today": "danes Hila, Irak",
+    "note": "Najtemnejša noč — a obljuba obnove ostane.",
+    "events": [
+     "Jeruzalem pade, tempelj zgori (586 pr. Kr.)",
+     "Juda je odvlečena v Babilon",
+     "Daniel in Ezekiel — vera in videnja v izgnanstvu"
+    ]
+   },
+   "susa": {
+    "name": "Suza (Perzija)",
+    "book": "Estera · Nehemija",
+    "today": "danes Šuš, Iran",
+    "note": "Celo v srcu poganskega cesarstva Bog ohrani svoje ljudstvo.",
+    "events": [
+     "Perzija zruši Babilon",
+     "Estera reši Jude pred iztrebljenjem",
+     "Nehemija moli pred kraljem in je poslan"
+    ]
+   },
+   "return": {
+    "name": "Vrnitev v Jeruzalem",
+    "book": "Ezra · Nehemija · Malahija",
+    "today": "danes Jeruzalem",
+    "note": "Vrnejo se in obnavljajo — a noben kralj ni prišel. Čakajo Mesija.",
+    "events": [
+     "Trije valovi vrnitve po Kirovem odloku (Zerubabel 538 · Ezra 458 · Nehemija 444)",
+     "Tempelj obnovljen in jeruzalemsko obzidje postavljeno nazaj",
+     "Malahija — Stara zaveza se konča: »Pošljem svojega glasnika«"
+    ]
+   }
+  },
+  "labels": [
+   "Sredozemsko morje",
+   "Mezopotamija",
+   "Arabska puščava",
+   "Egipt"
+  ],
+  "journeys": {
+   "flow": "Zgodba odrešenja"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Matej 1–2 · Luka 2",
+    "today": "danes Betlehem",
+    "note": "Obljubljeni Mesija pride v Davidovo mesto — Beseda, ki je postala meso.",
+    "events": [
+     "Rojen v Betlehemu, Davidovem mestu",
+     "Angeli oznanijo novico pastirjem",
+     "Modri pridejo, da bi ga počastili"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Luka 2 · 4",
+    "today": "danes Nazaret",
+    "note": "Bog odrašča kot človek v navadnem mestu.",
+    "events": [
+     "Odrašča v tesarjevem domu",
+     "Pri dvanajstih letih sprašuje in odgovarja v templju",
+     "Pozneje zavrnjen v shodnici domačega kraja"
+    ]
+   },
+   "jordan": {
+    "name": "Reka Jordan",
+    "book": "Matej 3–4",
+    "today": "danes spodnji Jordan",
+    "note": "Njegovo javno delovanje se začne — nebo ga potrdi za Sina.",
+    "events": [
+     "Krščen od Janeza",
+     "Duh se spusti kakor golob — »Ta je moj ljubljeni Sin«",
+     "V puščavi premaga tri Satanove skušnjave"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Janez 2",
+    "today": "danes Kafr Kanna",
+    "note": "V svojem prvem znamenju razodene svojo slavo.",
+    "events": [
+     "Gost na svatbi",
+     "Voda spremenjena v vino — njegovo prvo znamenje",
+     "Njegovi učenci verujejo vanj"
+    ]
+   },
+   "sychar": {
+    "name": "Sihar (Samarija)",
+    "book": "Janez 2–4",
+    "today": "danes blizu Nablusa",
+    "note": "Pot zgodnjega delovanja — skozi Jeruzalem in naprej v zaničevano Samarijo.",
+    "events": [
+     "Očisti tempelj v Jeruzalemu",
+     "Ponoči Nikodem — »Moraš se znova roditi«",
+     "Živa voda za Samarijanko"
+    ]
+   },
+   "capernaum": {
+    "name": "Kafarnaum",
+    "book": "Matej 4–13 · Marko 1–4",
+    "today": "danes obala Galilejskega jezera",
+    "note": "Domača baza galilejskega delovanja — tu se srečajo poklic, poučevanje in nasprotovanje.",
+    "events": [
+     "Pokliče ribiče in se tu naseli",
+     "Govor na gori — »Blagor ubogim v duhu«",
+     "Prilike o kraljestvu — in naraščajoče nasprotovanje"
+    ]
+   },
+   "galilee": {
+    "name": "Galilejsko jezero",
+    "book": "Marko 4 · 6 · Janez 6",
+    "today": "danes jezero Kineret",
+    "note": "Z močjo nad naravo pokaže, kdo je.",
+    "events": [
+     "»Umolkni, pomiri se« — pomiri vihar",
+     "Nahrani 5000 s petimi hlebi in dvema ribama",
+     "Hodi po vodi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cezareja Filipova",
+    "book": "Matej 16–17",
+    "today": "danes Banias",
+    "note": "Učenci doumejo, da je Kristus, in odpre se pot križa.",
+    "events": [
+     "Petrova izpoved — »Ti si Kristus, Sin živega Boga«",
+     "Prvič napove svojo smrt in vstajenje",
+     "Spremenjen v slavi na gori"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriha",
+    "book": "Luka 18–19",
+    "today": "danes Jeriha",
+    "note": "Na poti gor v Jeruzalem išče izgubljene.",
+    "events": [
+     "Slepemu Bartimaju povrne vid",
+     "Pokliče cestninarja Zaheja",
+     "»Sin človekov je prišel iskat in rešit, kar je izgubljeno«"
+    ]
+   },
+   "bethany": {
+    "name": "Betanija",
+    "book": "Janez 11–12",
+    "today": "danes al-Eizariya",
+    "note": "Na predvečer zadnjega tedna pokaže oblast nad smrtjo.",
+    "events": [
+     "Lazarja obudi iz groba — »Jaz sem vstajenje in življenje«",
+     "Marija ga mazili za pokop",
+     "To znamenje utrdi naklep, da ga ubijejo"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalem",
+    "book": "Matej 21–28 · Luka 24 · Apostolska dela 1",
+    "today": "danes Jeruzalem",
+    "note": "Vrhunec, na katerega kaže vse Sveto pismo — križ, vstajenje, vnebohod.",
+    "events": [
+     "Slovesen vhod; znova prevrne mize v templju",
+     "Pri zadnji večerji umije učencem noge",
+     "Umre na križu",
+     "Tretji dan vstane, nato se vzpne v nebo"
+    ]
+   }
+  },
+  "labels": [
+   "Sredozemsko morje",
+   "Galileja",
+   "Samarija",
+   "Judeja",
+   "Deseteromestje",
+   "Pereja",
+   "Mrtvo morje"
+  ],
+  "journeys": {
+   "life": "Jezusova pot"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiohija",
+    "book": "Apostolska dela 13 · 15",
+    "today": "danes Antakya, Turčija",
+    "note": "Pošiljajoča Cerkev, kjer se poganski misijon začne in kamor se vrača.",
+    "events": [
+     "V molitvi Duh odbere Barnaba in Savla",
+     "Cerkev, kjer so verujoče prvič imenovali »kristjane«",
+     "Izhodišče 1., 2. in 3. potovanja"
+    ]
+   },
+   "seleucia": {
+    "name": "Selevkija",
+    "book": "Apostolska dela 13:4",
+    "today": "danes Turčija",
+    "note": "Antiohijsko pristanišče — odplujejo na Ciper.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamina (Ciper)",
+    "book": "Apostolska dela 13:5",
+    "today": "danes Ciper",
+    "note": "Prva postaja na Cipru — oznanjajo v shodnicah.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Apostolska dela 13:6-12",
+    "today": "danes Ciper",
+    "note": "Moč se pokaže proti tistim, ki nasprotujejo evangeliju.",
+    "events": [
+     "Čarovnik Elima je udarjen s slepoto",
+     "Prokonzul Sergij Pavel začne verovati",
+     "Od tod prevzame vodstvo »Pavel«"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Apostolska dela 13:13",
+    "today": "danes Antalya, Turčija",
+    "note": "Pristanišče v Pamfiliji — tu se Janez Marko obrne nazaj.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pizidijska Antiohija",
+    "book": "Apostolska dela 13:14-50",
+    "today": "danes Yalvaç, Turčija",
+    "note": "Evangelij se preboj odpre proti poganom.",
+    "events": [
+     "Dolg govor o zgodovini odrešenja v shodnici",
+     "Mnogi pogani se veselijo in sprejmejo besedo",
+     "Zaradi nasprotovanja izgnani"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonij",
+    "book": "Apostolska dela 14:1-7",
+    "today": "danes Konya, Turčija",
+    "note": "Mnogi verujejo, a preganjanje jih prisili naprej.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Apostolska dela 14:8-20",
+    "today": "danes Turčija",
+    "note": "Pozdravljen kot bog, nato kamnan.",
+    "events": [
+     "Ozdravi človeka, hromega od rojstva",
+     "Množica hoče žrtvovati njima kot bogovoma",
+     "Kamnan in pustan za mrtvega, vstane"
+    ]
+   },
+   "derbe": {
+    "name": "Derba",
+    "book": "Apostolska dela 14:20-21",
+    "today": "danes Turčija",
+    "note": "Pridobita mnogo učencev; po isti poti se vrneta, da utrdita Cerkve.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troada",
+    "book": "Apostolska dela 16:8-10",
+    "today": "danes Turčija",
+    "note": "Prelomnica, kjer se evangelij prvič obrne proti Evropi.",
+    "events": [
+     "Videnje moža iz Makedonije",
+     "»Pridi sem in nam pomagaj«",
+     "Nemudoma prestopijo v Evropo"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Apostolska dela 16 · Filipljanom",
+    "today": "danes severna Grčija",
+    "note": "Prva Cerkev v Evropi — evangelij zmaga celo v ječi.",
+    "events": [
+     "Lidija, prodajalka škrlata, začne verovati",
+     "Sužnja, ki je vedeževala, je osvobojena",
+     "Polnočne hvalnice, potres, rešitev ječarjeve družine"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Apostolska dela 17 · 1–2 Tesaloničanom",
+    "today": "danes Solun, Grčija",
+    "note": "Beseda pretrese mesto in nasprotovanje prekipi.",
+    "events": [
+     "Tri sobote razpravlja v shodnici",
+     "»Ti, ki podpihujejo nemir po vsem svetu«",
+     "Ponoči se izmuznejo stran"
+    ]
+   },
+   "berea": {
+    "name": "Bereja",
+    "book": "Apostolska dela 17:10-15",
+    "today": "danes Veria, Grčija",
+    "note": "»Plemeniti« ljudje, ki so besedo sami preverjali.",
+    "events": [
+     "Besedo sprejmejo z vso vnemo",
+     "Vsak dan preiskujejo Pisma, da to preverijo",
+     "Mnogi pridejo do vere"
+    ]
+   },
+   "athens": {
+    "name": "Atene",
+    "book": "Apostolska dela 17:16-34",
+    "today": "danes Atene, Grčija",
+    "note": "V mestu filozofov oznani »neznanega boga«.",
+    "events": [
+     "Razjezi ga mesto, polno malikov",
+     "Na Areopagu oznanja Stvarnika in vstajenje",
+     "Zasmehovan, a nekaj jih začne verovati"
+    ]
+   },
+   "corinth": {
+    "name": "Korint",
+    "book": "Apostolska dela 18 · 1–2 Korinčanom",
+    "today": "danes Grčija",
+    "note": "Ostane leto in pol ter zasadi Cerkev v mestu pregreh.",
+    "events": [
+     "Z Akvilom in Priskilo izdeluje šotore",
+     "»Ne boj se … kajti jaz sem s teboj«",
+     "Mnogi Korinčani verujejo in so krščeni"
+    ]
+   },
+   "ephesus": {
+    "name": "Efez",
+    "book": "Apostolska dela 19 · Efežanom",
+    "today": "danes Selçuk, Turčija",
+    "note": "Srce tretjega potovanja — beseda se razširi po vsej Aziji.",
+    "events": [
+     "Dve leti vsak dan poučuje v Tiranovi dvorani",
+     "Knjige o čaranju sežgane; mogočna dela",
+     "Zlatar Demetrij zaneti upor"
+    ]
+   },
+   "miletus": {
+    "name": "Milet",
+    "book": "Apostolska dela 20:17-38",
+    "today": "danes Turčija",
+    "note": "Solzno slovo od efeških starešin.",
+    "events": [
+     "»Skrbite za Cerkev, ki jo je pridobil z lastno krvjo«",
+     "Starešine jokajo, ker vedo, da ga ne bodo več videli"
+    ]
+   },
+   "caesarea": {
+    "name": "Cezareja",
+    "book": "Apostolska dela 23–26",
+    "today": "danes obala Izraela",
+    "note": "Dve leti brani evangelij pred oblastniki in kraljem.",
+    "events": [
+     "Sojenja pred oblastnikoma Feliksom in Festom",
+     "Njegov zagovor pred kraljem Agripom",
+     "»Sklicujem se na cesarja« — naprej v Rim"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jeruzalem",
+    "book": "Apostolska dela 21–23",
+    "today": "danes Jeruzalem",
+    "note": "Zajet v templju, začne se njegova pot kot jetnik.",
+    "events": [
+     "Množica ga zgrabi v templju",
+     "Zagovarja se pred velikim zborom",
+     "Kot rimski državljan poslan pod stražo v Cezarejo"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Apostolska dela 27:5-6",
+    "today": "danes Demre, Turčija",
+    "note": "Prestopijo na aleksandrijsko ladjo, namenjeno v Rim.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Lepi pristani (Kreta)",
+    "book": "Apostolska dela 27:8-12",
+    "today": "danes Kreta",
+    "note": "Pavlovo svarilo, naj ne plujejo naprej, ostane neupoštevano.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Titu",
+    "today": "danes Kreta",
+    "note": "Po izpustitvi otok, kjer pusti Tita, da uredi Cerkve.",
+    "events": [
+     "Pusti Tita, da po vseh mestih postavi starešine",
+     "Poziva k brezgrajnim, zvestim voditeljem",
+     "Napiše pismo Titu"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Apostolska dela 27–28",
+    "today": "danes Malta",
+    "note": "Skozi vihar in brodolom Božja obljuba obstane.",
+    "events": [
+     "»Severovzhodnik« razbije ladjo, a vseh 276 preživi",
+     "Piči ga gad, a ostane nepoškodovan",
+     "Ozdravi bolne na otoku"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuze",
+    "book": "Apostolska dela 28:12",
+    "today": "danes Sicilija, Italija",
+    "note": "Tri dni ostanejo na Siciliji.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Apostolska dela 28:13-14",
+    "today": "danes Pozzuoli, Italija",
+    "note": "Pristanejo v Italiji in sprejmejo jih soverniki.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rim",
+    "book": "Apostolska dela 28 · pisma iz ječe · 2 Timoteju",
+    "today": "danes Rim, Italija",
+    "note": "Evangelij naposled doseže srce cesarstva — ne konec, ampak začetek.",
+    "events": [
+     "Dve leti v hišnem priporu pogumno oznanja kraljestvo",
+     "Od tod napiše pisma iz ječe (Ef·Flp·Kol·Flm)",
+     "Pozneje znova zaprt, napiše 2 Timoteju in umre kot mučenec — »Dober boj sem izbojeval, tek dokončal«"
+    ]
+   }
+  },
+  "labels": [
+   "Sredozemsko morje",
+   "Egejsko morje",
+   "Mala Azija",
+   "Makedonija",
+   "Italija"
+  ],
+  "journeys": {
+   "j1": "Prvo potovanje",
+   "j2": "Drugo potovanje",
+   "j3": "Tretje potovanje",
+   "rome": "Četrto potovanje · v Rim",
+   "j5": "Peto potovanje · po izpustitvi"
+  }
+ }
+}
