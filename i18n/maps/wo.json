@@ -1,0 +1,636 @@
+{
+ "menuName": "Wolof",
+ "htmlLang": "wo",
+ "dir": "ltr",
+ "locale": "wo-SN",
+ "brand": "Bibal bi ci benn xët",
+ "docTitle": "Bibal bi ci kàrt · Bibal bi ci benn xët",
+ "metaDesc": "Toppal tolluwaayu jamonoy Testamaa bu Yàgg, dundu Yeesu, ak tukkiy Pool ci kàrt bu dëggu — Bibal ci bérab yu dëggu la xewe.",
+ "s": {
+  "kicker": "Bibal bi ci benn xët · Kàrt yi",
+  "title": "Bibal bi ci kàrt",
+  "verse": "“Du ay léeb yu xel mu xareñ fent lanu leen xamale woon sunu manoorey Boroom Yeesu Almasi bi ak na muy dikke, waaye noo teewe màggaayam.” (2.Piyeer 1:16)",
+  "purpose": "Bibal du jëngu. Ab firnde la ci nit ñu dox ci bérab yu dëggu, fan yu dëggu ak tur yu dëggu. Toppal yoon yooyu ci kàrt bi, ci tolluwaayu jamono — bësal benn tomb, walla bësal ▶ ngir jaar ci lépp benn liñ ci benn liñ.",
+  "ot_kick": "① Testamaa bu Yàgg — jaar ci jamono",
+  "ot_h": "Li dale ca sàkk ba ca dellusi Yerusalem",
+  "ot_lead": "Du benn tukki rekk waaye tàbbi gu taariixu mucc gi li dale ca sàkk gi: sàkk ak daanu → mbënn ak Babel → woote (Ibraayma) → réew mu ñu dige → génn gi → màndiŋ → nangu réew → nguur → xaaj → njaam → dellusi.",
+  "je_kick": "② Testamaa bu Bees — dundu Yeesu",
+  "je_h": "Li dale ca Betleyem ba ca Yerusalem",
+  "je_lead": "Toppal dundu Yeesu ni Xebaar yu baax yi ko nettali, ci toftale — li dale ca juddoom ca Betleyem, jaar ci sóobam ci ndox ak njàngaleem ca Galile, jaar ci Samari, ba ca bant ba, ndekkite li ak yéeg gi ca Yerusalem.",
+  "pa_kick": "③ Testamaa bu Bees — tukkiy Pool",
+  "pa_h": "Li dale ca Àncos ba ca cati àddina — Room",
+  "pa_lead": "Li dale ca Pàntakot ca Yerusalem, ni xebaar bu baax bi tase woon ba weesu Yude — jaar ci Asi Menor ak Tugal ba ci xolu nguur gi. Tànnal benn ci juróomi tukki yi (1i·2i·3i + gaal gu jëm Room + ginnaaw kaso gi) te toppal xew-xewi Jëf ya ak bataaxal yi ñu bind ci yoon wi.",
+  "foot": "Sukkandiku · Bérab yi ñu ngi topp mbindu Bibal ak géografiiu Bibal bu ñu nangu (ak tur yu bees fu mu baaxe). Tefes yi, dex yi ak dénd yi ñu jële nañu leen ci dataay géografii bu ubbeeku (Natural Earth), woyofal.",
+  "contact": "Laaj · xalaat — <a id=\"contact\" class=\"mail\">Bindal nu</a>",
+  "play": "Tàmbali",
+  "pause": "Taxaw",
+  "today": "Tey:",
+  "verseCite": "2.Piyeer 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Sàkk · Daanu)",
+    "book": "Njàlbéen ga 1–3",
+    "today": "wetu dexi Tigr ak Efrat tey",
+    "note": "Ci àddina su doon lu baax a baax, bàkkaar dugg na te dog jokkoo gi ci diggante Yàlla ak nit.",
+    "events": [
+     "Sàkk gi ci juróom-benni fan — «lu baax a baax»",
+     "Nit mi ñu sàkk ci melokaanu Yàlla",
+     "Daanu gi, ak génn ci Eden",
+     "Dige bu njëkk bu xebaar bu baax bi — «xeetu jigéen ji dina toj boppu jaan ji»"
+    ]
+   },
+   "noah": {
+    "name": "Araraat (Mbënn mi)",
+    "book": "Njàlbéen ga 6–9",
+    "today": "Tundu Araraat, penku Turki tey",
+    "note": "Yàlla àtte na àddina su fees ak bàkkaar, waaye mu aar dund ci benn njaboot.",
+    "events": [
+     "Àddina su fees ak yàqute",
+     "Mbënn mi, ak gaalu Nuhu",
+     "Dige bu ëmb bi — «du amaat mbënn mu yàq àddina»"
+    ]
+   },
+   "babel": {
+    "name": "Taax mu Babel",
+    "book": "Njàlbéen ga 11",
+    "today": "Iraag tey (àllu Sineyaar)",
+    "note": "Ngir réccu gi ñu bëgg a yéeg asamaan, Yàlla wadd na seen làkk ak xeet yi ci àddina.",
+    "events": [
+     "«Nañu tabax dëkk ak taax… ngir tuddu»",
+     "Yàlla jaxasal seen làkk",
+     "Xeet yi tasaaroo ci àddina (Sineyaar — Babilon bu ëllëg)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Njàlbéen ga 12",
+    "today": "bëj-saalumu Iraag tey",
+    "note": "Nettalig mucc bu Bibal dafay tàmbalee ak woote benn nit.",
+    "events": [
+     "Yàlla woo na Ibraayma mu génn Ur bu Kalde",
+     "«Dinaa la def xeet wu mag… xeet yépp dinañu barke ci yaw»",
+     "Ci ngëm mu génn réewam"
+    ]
+   },
+   "haran": {
+    "name": "Karan",
+    "book": "Njàlbéen ga 12",
+    "today": "bëj-saalumu Turki tey",
+    "note": "Ci yoon wi, mu topp woote gi jëm réew mu ñu dige.",
+    "events": [
+     "Njabootu Tara dal na Karan",
+     "Tara faatu na",
+     "Ibraayma jóg jëm Kanaan ci 75 at"
+    ]
+   },
+   "shechem": {
+    "name": "Sikem · Kanaan",
+    "book": "Njàlbéen ga 12–50",
+    "today": "Naabulus tey",
+    "note": "Ci réew mu ñu dige, njaboot judd na te dige bi jàll ci giir ya.",
+    "events": [
+     "Dugg Kanaan, taxal saraxalukaay bu njëkk — «dinaa jox sa askan réew mii»",
+     "Dige bi (Njàlbéen ga 15) · Isaaka · Yanqóoba",
+     "Fukki doom ñaar yu Yanqóoba — reenu fukki giir yi ñaar"
+    ]
+   },
+   "egypt": {
+    "name": "Misra (Gosen)",
+    "book": "Njàlbéen ga 37–50 · Mucc ga 1",
+    "today": "delta bu Nil, Misra tey",
+    "note": "Njaboot bi nekk xeet wu mag — ba noppi xeet wu jaam.",
+    "events": [
+     "Yuusufa, bi ñu jaay, yéeg na ci nguuru Misra",
+     "Njabootu Yanqóoba gépp wàcc ngir rëcc xiif",
+     "Xeetu Israayil bu magg ñu def ko jaam"
+    ]
+   },
+   "sinai": {
+    "name": "Tundu Sinayi",
+    "book": "Mucc ga · Lewi",
+    "today": "wàllu Sinayi tey",
+    "note": "Musal gu mag gi ci Testamaa bu Yàgg — jaam yi nekk ñoñu Yàlla.",
+    "events": [
+     "Fukki musiba ya ak mbotem Jéggi",
+     "Géej gu xonk ga xar te ñu jàll",
+     "Fukki Ndigal ya, Yoon wi, kër Yàlla ga ak sarax yi"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (màndiŋ)",
+    "book": "Màndiŋ ma · Tawret",
+    "today": "màndiŋu Sinayi–Negeb tey",
+    "note": "Ñàkk déggal jële na benn niral réew mi — teewul Yàlla des ak ñoom.",
+    "events": [
+     "Fukki seetkat yu ñaar — waaye xeet wi bañ a gëm",
+     "38 at ca màndiŋ ma — mann, niiru asamaan ak safara",
+     "Ca àllu Mowab, waxtaanu mujj bu Musaa (Tawret)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Yosuwe",
+    "today": "Yeriko tey",
+    "note": "Ci mujj ñu dugg te nangu réew mu ñu dige.",
+    "events": [
+     "Dexug Yurdan xar te xeet wi jàll",
+     "Miiri Yeriko daanu na",
+     "Nangu Kanaan ak séddale réew mi"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Njiit ya)",
+    "book": "Njiit ya · Rut",
+    "today": "Xirbet Seylun tey",
+    "note": "Buur amul, ku nekk def la la ko neex — buur bu dëggu a soxla.",
+    "events": [
+     "Kër Yàlla ga ñu taxaw ko ca Silo",
+     "Mbënd mu bàkkaar → noot → musal (Debora, Sedeyon, Samson)",
+     "Rut — kóllëre ci jamono ju ñuul, ci giiru Daawuda"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem · Nguur gu bennoo",
+    "book": "1–2 Samiyel · 1.Buur ya",
+    "today": "Yerusalem tey",
+    "note": "Jamono ju wurus ju Israayil — ak dige bu buur bu sax dàkk.",
+    "events": [
+     "Sayil buur bu njëkk bi, ba noppi Daawuda ak Goliyat",
+     "Dige bu Daawuda — «sa jal ba fàww» (2.Samiyel 7)",
+     "Suleymaan tabax kër Yàlla ga ca Yerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samari · Nguur gu xaaju gi",
+    "book": "Buur ya · Yonent ya",
+    "today": "Sebasti tey",
+    "note": "Nguur gi xaaju na te wàcc ba yonent yi di yuuxu.",
+    "events": [
+     "Gannaaw Suleymaan, xaaj ci Yude ak Israayil",
+     "Jaamu xërëm bu jëkkaale",
+     "Iliyas, Esayi, Yeremi di yuuxu «dellusil» — te wax Almasi bi"
+    ]
+   },
+   "nineveh": {
+    "name": "Niniw (Asiri)",
+    "book": "2.Buur ya 17 · Yunus",
+    "today": "Mosul, Iraag tey",
+    "note": "Bañ a déggal artu yépp, bëj-gànnaar mooy njëkk a daanu.",
+    "events": [
+     "Niniw, péeyu Asiri",
+     "Nguurug bëj-gànnaar daanu ci Asiri (722 LJ)",
+     "Yunus, ñu yónni ko Niniw"
+    ]
+   },
+   "babylon": {
+    "name": "Babilon",
+    "book": "2.Buur ya 25 · Daniyel · Esekiyel",
+    "today": "Hilla, Iraag tey",
+    "note": "Guddi gi gën a lëndëm — teewul dige bu dellusi des na.",
+    "events": [
+     "Yerusalem daanu, kër Yàlla ga lakk (586 LJ)",
+     "Yude ñu yóbbu ko Babilon",
+     "Daniyel ak Esekiyel — ngëm ak peeñu ci njaam"
+    ]
+   },
+   "susa": {
+    "name": "Sus (Pers)",
+    "book": "Ester · Neyemi",
+    "today": "Suus, Iraan tey",
+    "note": "Sax ci xolu nguuru xeet wu bañ Yàlla, Yàlla sàmm na ñoñam.",
+    "events": [
+     "Pers daan Babilon",
+     "Ester musal Yawut yi ci faagaagal",
+     "Neyemi ñaan ci kanamu buur ba, ñu yónni ko"
+    ]
+   },
+   "return": {
+    "name": "Dellusi Yerusalem",
+    "book": "Esra · Neyemi · Malaaki",
+    "today": "Yerusalem tey",
+    "note": "Ñu dellusi te tabaxaat — waaye buur amul. Ñuy xaar Almasi bi.",
+    "events": [
+     "Ñetti dellusi ci ndigalu Siris (Sorobabel 538 · Esra 458 · Neyemi 444)",
+     "Kër Yàlla ga tabaxaat te miiri Yerusalem defaraat",
+     "Malaaki — Testamaa bu Yàgg jeex: «Maa ngii di yebal sama ndaw»"
+    ]
+   }
+  },
+  "labels": [
+   "Géeju Mediterane",
+   "Mesopotami",
+   "Màndiŋu Arabi",
+   "Misra"
+  ],
+  "journeys": {
+   "flow": "Nettalig mucc gi"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betleyem",
+    "book": "Macë 1–2 · Luug 2",
+    "today": "Betleyem tey",
+    "note": "Almasi bi ñu dige ñëw na ca dëkku Daawuda — Kàddu gi nekk nit.",
+    "events": [
+     "Juddu ca Betleyem, dëkku Daawuda",
+     "Malaaka yi yégal sàmm yi xebaar bi",
+     "Boroom xam-xam yi ñëw ngir jaamu"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasaret",
+    "book": "Luug 2 · 4",
+    "today": "Nasaret tey",
+    "note": "Yàlla màgg na nit ci dëkk bu ndaw.",
+    "events": [
+     "Yar ci kër liggéeykatu bant",
+     "Ci fukki at ak ñaar, di laaj ak tontu ca kër Yàlla ga",
+     "Ci mujj ñu ko bañ ca sinagogu réewam"
+    ]
+   },
+   "jordan": {
+    "name": "Dexug Yurdan",
+    "book": "Macë 3–4",
+    "today": "suufu Yurdan tey",
+    "note": "Liggéeyam bu leer tàmbali na — asamaan seedeel ko ni Doom ji.",
+    "events": [
+     "Yowaana sóob na ko ci ndox",
+     "Xel mu Sell mi wàcc ni pitax — «Kii mooy sama Doom, sama soppe»",
+     "Daan na ñetti nattoo yu Seytaane ca màndiŋ ma"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yowaan 2",
+    "today": "Kafr Kanna tey",
+    "note": "Ci kéemaanam bu njëkk mu feeñal ndamam.",
+    "events": [
+     "Gan ca céet",
+     "Ndox mu soppiku biiñ — kéemaanam bu njëkk",
+     "Ay taalibeem gëm ko"
+    ]
+   },
+   "sychar": {
+    "name": "Sikar (Samari)",
+    "book": "Yowaan 2–4",
+    "today": "wetu Naabulus tey",
+    "note": "Yoonu liggéey bu njëkk — jaar Yerusalem ba Samari ji ñu xeeb.",
+    "events": [
+     "Mu setal kër Yàlla ga ca Yerusalem",
+     "Ci guddi, Nikodem — «Fàww nga judduwaat»",
+     "Ndox mu dund ngir jigéenu Samari"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernawum",
+    "book": "Macë 4–13 · Mark 1–4",
+    "today": "tefesu géeju Galile tey",
+    "note": "Boppu liggéey bu Galile — woo, njàngale ak safaan dañu fi daje.",
+    "events": [
+     "Woo nappkat yi te def fii boppam",
+     "Njàngale ma ca tund wa — «Ñu barkeel ñi néew ci xel»",
+     "Léebi nguurug Yàlla — ak safaan bu di yokku"
+    ]
+   },
+   "galilee": {
+    "name": "Géeju Galile",
+    "book": "Mark 4 · 6 · Yowaan 6",
+    "today": "dexug Kineret tey",
+    "note": "Ak sañ-sañam ci mbindeef mu wone kan la.",
+    "events": [
+     "«Noppal, teey!» — mu teral ngelaw li",
+     "Dundal 5.000 ak juróomi mburu ak ñaari jën",
+     "Mu dox ci kaw ndox mi"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sesare gu Filib",
+    "book": "Macë 16–17",
+    "today": "Banias tey",
+    "note": "Taalibe yi xam na ne moom Almasi bi la, te yoonu bant ba ubbiku.",
+    "events": [
+     "Seedeg Piyer — «Yaa di Almasi bi, Doomu Yàlla Aji Dund ji»",
+     "Mu njëkk a wax deewam ak ndekkiteem",
+     "Melokaanam soppiku ci ndam ca tund wa"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Luug 18–19",
+    "today": "Yeriko tey",
+    "note": "Ci yoon wi yéeg Yerusalem, mu seet ñi réer.",
+    "events": [
+     "Mu ubbi bëti gumba gi",
+     "Mu woo Sake juutikatu galag bi",
+     "«Doomu nit ñëw na ngir seet te musal ñi réer»"
+    ]
+   },
+   "bethany": {
+    "name": "Betani",
+    "book": "Yowaan 11–12",
+    "today": "al-Eizariya tey",
+    "note": "Mu wone sañ-sañam ci kaw dee ci biig mujj gi.",
+    "events": [
+     "Mu dekkal Lasaar ca bàmmeel ba — «Man maay ndekkite li, maay dund gi»",
+     "Maryaama diw ko ngir suulam",
+     "Kéemaan bii yokk pexem rey ko"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem",
+    "book": "Macë 21–28 · Luug 24 · Jëf ya 1",
+    "today": "Yerusalem tey",
+    "note": "Mujjante gi Bibal bépp di jublu — bant, ndekkite, ak yéeg.",
+    "events": [
+     "Dugg gu ndam; mu suuxat taabali kër Yàlla ga",
+     "Ca Reeru mujj ga mu raxas tànki taalibe yi",
+     "Mu dee ca bant ba",
+     "Mu dekki ca ñetteelu fan, ba noppi yéeg"
+    ]
+   }
+  },
+  "labels": [
+   "Géeju Mediterane",
+   "Galile",
+   "Samari",
+   "Yude",
+   "Dekapol",
+   "Pere",
+   "Géej gu Dee gi"
+  ],
+  "journeys": {
+   "life": "Yoonu Yeesu wi"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Àncos",
+    "book": "Jëf ya 13 · 15",
+    "today": "Antakya, Turki tey",
+    "note": "Mbooloo mu yónni bi fa mission bu xeet yi di tàmbalee te di dellusi.",
+    "events": [
+     "Ci ñaan Xel mu Sell mi tànn Barnabas ak Sawul",
+     "Mbooloo mi fa ñu njëkk a woowe gëmkat yi «kristaa»",
+     "Bérab bu ñu jóge ci tukki bu njëkk, bu ñaareel ak bu ñetteel bi"
+    ]
+   },
+   "seleucia": {
+    "name": "Selusi",
+    "book": "Jëf ya 13:4",
+    "today": "Turki tey",
+    "note": "Waaxu Àncos — ñu dugg gaal jëm Sippar.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamin (Sippar)",
+    "book": "Jëf ya 13:5",
+    "today": "Sippar tey",
+    "note": "Taxawaay bu njëkk ca Sippar — di waare ca sinagog ya.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Jëf ya 13:6-12",
+    "today": "Sippar tey",
+    "note": "Ñu wone dooley Yàlla ci ñi safaanu xebaar bu baax bi.",
+    "events": [
+     "Elimas lugekat ba mu gumba",
+     "Sergiyus Pool gornoor ba gëm na",
+     "Li dale fii, «Pool» a nekk njiit"
+    ]
+   },
+   "perga": {
+    "name": "Perge (Pamfili)",
+    "book": "Jëf ya 13:13",
+    "today": "Antalya, Turki tey",
+    "note": "Waax bu Pamfili — fii la Yowaana Mark dellu ginnaaw.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Àncos bu Pisidi",
+    "book": "Jëf ya 13:14-50",
+    "today": "Yalvaç, Turki tey",
+    "note": "Xebaar bu baax bi ubbiku jëm ci xeet yi.",
+    "events": [
+     "Waare bu gudd bu taariixu mucc ca sinagog ba",
+     "Xeet yu bare bég te nangu kàddu gi",
+     "Ñu dàq leen ci safaan"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoñum",
+    "book": "Jëf ya 14:1-7",
+    "today": "Konya, Turki tey",
+    "note": "Ñu bare gëm, waaye fitna tax leen a dem.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listar",
+    "book": "Jëf ya 14:8-20",
+    "today": "Turki tey",
+    "note": "Ñu ko woowe yàlla, ba noppi sànni ko ay xeer.",
+    "events": [
+     "Mu faj ku dafa làggi li dale ci juddoom",
+     "Mbooloo mi bëgg a rendil leen sarax ni ay yàlla",
+     "Ñu sànni ko xeer, bàyyi ko mu mel ni mu dee, mu jóg"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Jëf ya 14:20-21",
+    "today": "Turki tey",
+    "note": "Ñu am taalibe yu bare; ñu dellu ginnaaw ngir dooleel mbooloo yi.",
+    "events": []
+   },
+   "troas": {
+    "name": "Torowas",
+    "book": "Jëf ya 16:8-10",
+    "today": "Turki tey",
+    "note": "Bérab bu xebaar bu baax bi njëkk a jublu Tugal.",
+    "events": [
+     "Peeñu bu nitu Maseduwan",
+     "«Jàllsil Maseduwan, wallusi nu!»",
+     "Ci saa si ñu jàll ci Tugal"
+    ]
+   },
+   "philippi": {
+    "name": "Filib",
+    "book": "Jëf ya 16 · Filib",
+    "today": "bëj-gànnaaru Gres tey",
+    "note": "Mbooloo mu njëkk mu Tugal — xebaar bu baax bi daan sax ci kaso.",
+    "events": [
+     "Lidi, jaaykatu mbubb yu xonq, gëm na",
+     "Mucc jaamu jigéen ju daan raab",
+     "Woy ci guddi, yengu-yenguy suuf, njabootu wattukatu kaso mucc"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonig",
+    "book": "Jëf ya 17 · 1–2 Tesalonig",
+    "today": "Tesalonig, Gres tey",
+    "note": "Kàddu gi jlooy dëkk bi te safaan tar.",
+    "events": [
+     "Mu werante ca sinagog ba ñetti bésu Sabt",
+     "«Ñii yëngal àddina sépp ñoo fi ñëw»",
+     "Ñu génn ci guddi"
+    ]
+   },
+   "berea": {
+    "name": "Bere",
+    "book": "Jëf ya 17:10-15",
+    "today": "Veria, Gres tey",
+    "note": "Ñu «yiw» ñi seetlu kàddu gi ci seen bopp.",
+    "events": [
+     "Ñu nangu kàddu gi ak mbég",
+     "Bés bu nekk ñuy seet Mbind mi ngir xam su dëggu",
+     "Ñu bare gëm"
+    ]
+   },
+   "athens": {
+    "name": "Aten",
+    "book": "Jëf ya 17:16-34",
+    "today": "Aten, Gres tey",
+    "note": "Ci dëkku boroom xam-xam yi mu yégle «yàlla ji ñu xamul».",
+    "events": [
+     "Xol bu metti ci dëkk bu fees ak xërëm",
+     "Ca Areyopas mu waare Aji Sàkk ji ak ndekkite li",
+     "Ñu ñaawal ko, teewul ñenn ñi gëm"
+    ]
+   },
+   "corinth": {
+    "name": "Korent",
+    "book": "Jëf ya 18 · 1–2 Korent",
+    "today": "Gres tey",
+    "note": "Mu toog fa at ak genn-wàll, sàmp mbooloo ci dëkku ñaawteef.",
+    "events": [
+     "Mu defar tènt ak Akilas ak Prisil",
+     "«Bul ragal… ndaxte maa ngi ak yaw»",
+     "Waa Korent yu bare gëm te ñu sóob leen"
+    ]
+   },
+   "ephesus": {
+    "name": "Efes",
+    "book": "Jëf ya 19 · Efes",
+    "today": "Selçuk, Turki tey",
+    "note": "Xolu tukki bu ñetteel bi — kàddu gi tas ci Asi.",
+    "events": [
+     "Njàngale bés bu nekk ñaari at ci njàngukaayu Tiranus",
+     "Téerey luge ñu lakk leen; jëf yu am doole",
+     "Demetriyus tëggkatu xaalis bi tàmbali coow"
+    ]
+   },
+   "miletus": {
+    "name": "Mile",
+    "book": "Jëf ya 20:17-38",
+    "today": "Turki tey",
+    "note": "Tàggoo bu am jooy ak njiiti mbooloom Efes.",
+    "events": [
+     "«Wattuleen mbooloo mi Yàlla jote ci deretu boppam»",
+     "Njiit ya jooy, xam ne duñu ko gisati"
+    ]
+   },
+   "caesarea": {
+    "name": "Sesare",
+    "book": "Jëf ya 23–26",
+    "today": "tefesu Israayil tey",
+    "note": "Ci ñaari at mu di aar xebaar bu baax bi ci kanamu gornoor yi ak buur.",
+    "events": [
+     "Àtte ci kanamu gornoor Feliks ak Festus",
+     "Làyam ci kanamu buur Agaripa",
+     "«Buur Sesaar laa dénk sama bopp» — jëm Room"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalem",
+    "book": "Jëf ya 21–23",
+    "today": "Yerusalem tey",
+    "note": "Ñu jàpp ko ca kër Yàlla ga, yoonam ni jaam tàmbali.",
+    "events": [
+     "Mbooloo mi jàpp ko ca kër Yàlla ga",
+     "Mu lày ci kanamu kureelu àttekat ya",
+     "Ni jaambuuru Room, ñu yónni ko ci Sesare ci wattu"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Jëf ya 27:5-6",
+    "today": "Demre, Turki tey",
+    "note": "Ñu wecc ci gaalu Alesàndri bu jëm Room.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Neex Teeru (Keret)",
+    "book": "Jëf ya 27:8-12",
+    "today": "Keret tey",
+    "note": "Artub Pool ne ñu bàyyi tukki gi, kenn déggul ko.",
+    "events": []
+   },
+   "crete": {
+    "name": "Keret",
+    "book": "Tit",
+    "today": "Keret tey",
+    "note": "Ginnaaw bi ñu ko goreelee, dun bi mu bàyyi fa Tit ngir jubbanti mbooloo yi.",
+    "events": [
+     "Mu bàyyi Tit ngir mu fal njiit ci dëkk bu nekk",
+     "Mu laaj njiit yu sell te takku",
+     "Mu bind bataaxal bi ci Tit"
+    ]
+   },
+   "malta": {
+    "name": "Màlt",
+    "book": "Jëf ya 27–28",
+    "today": "Màlt tey",
+    "note": "Jaar ci ngelaw ak gaal gu toj, digeb Yàlla taxaw na.",
+    "events": [
+     "Ngelaw lu metti toj gaal gi, teewul ñépp — 276 nit — mucc",
+     "Jaan matt ko, waaye mu ñàkk dara",
+     "Mu faj jarag yi ci dun bi"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakus",
+    "book": "Jëf ya 28:12",
+    "today": "Sisil, Itali tey",
+    "note": "Ñu toog ñetti fan ca Sisil.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Pusol",
+    "book": "Jëf ya 28:13-14",
+    "today": "Pozzuoli, Itali tey",
+    "note": "Ñu teer ca Itali te ay bokk-gëm gatandu leen.",
+    "events": []
+   },
+   "rome": {
+    "name": "Room",
+    "book": "Jëf ya 28 · Bataaxali kaso · 2.Timote",
+    "today": "Room, Itali tey",
+    "note": "Xebaar bu baax bi agsi na ci xolu nguurug Room — du mujj waaye tàmbali.",
+    "events": [
+     "Ñaari at ci tëj ci këram, di yégle nguurug Yàlla ak fit",
+     "Fii la bind Bataaxali kaso (Efes·Filib·Kolosë·Filemon)",
+     "Ci mujj ñu tëjaat ko, mu bind 2.Timote te ñu rey ko — «Xare bu baax bi, xare naa ko, rawante bi, sottal naa ko»"
+    ]
+   }
+  },
+  "labels": [
+   "Géeju Mediterane",
+   "Géeju Eje",
+   "Asi Menor",
+   "Maseduwan",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Tukki bu njëkk bi",
+   "j2": "Tukki bu ñaareel bi",
+   "j3": "Tukki bu ñetteel bi",
+   "rome": "Ñeenteelu tukki · jëm Room",
+   "j5": "Juróomeelu tukki · ginnaaw kaso gi"
+  }
+ }
+}

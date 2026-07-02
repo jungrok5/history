@@ -1,0 +1,636 @@
+{
+ "menuName": "Cymraeg",
+ "htmlLang": "cy",
+ "dir": "ltr",
+ "locale": "cy-GB",
+ "brand": "Y Beibl mewn Un Sgrôl",
+ "docTitle": "Y Beibl ar Fap · Y Beibl mewn Un Sgrôl",
+ "metaDesc": "Dilyn amserlin yr Hen Destament, bywyd Iesu, a theithiau Paul ar fap go iawn — digwyddodd y Beibl mewn lleoedd go iawn.",
+ "s": {
+  "kicker": "Y Beibl mewn Un Sgrôl · Mapiau",
+  "title": "Y Beibl ar Fap",
+  "verse": "“Nid dilyn chwedlau wedi eu dyfeisio'n gyfrwys yr oeddem wrth hysbysu i chwi allu ein Harglwydd Iesu Grist a'i ddyfodiad; yn hytrach, yr oeddem wedi ei weld â'n llygaid ein hunain yn ei fawredd.” (2 Pedr 1:16)",
+  "purpose": "Nid chwedl yw’r Beibl. Cofnod ydyw o bobl a gerddodd mewn lleoedd, dyddiadau ac enwau go iawn. Dilyn y llwybrau hynny ar fap, yn nhrefn amser — tapia bwynt, neu pwysa ▶ i gerdded trwyddo gam wrth gam.",
+  "ot_kick": "① Yr Hen Destament — ar draws amser",
+  "ot_h": "O’r creu hyd y dychweliad i Jerwsalem",
+  "ot_lead": "Nid un daith yn unig ond llif hanes prynedigaeth o’r creu ymlaen: creu a chwymp → dilyw a Babel → galwad (Abraham) → y wlad addawedig → yr Ecsodus → yr anialwch → concwest → teyrnas → rhaniad → caethglud → dychweliad.",
+  "je_kick": "② Y Testament Newydd — bywyd Iesu",
+  "je_h": "O Fethlehem i Jerwsalem",
+  "je_lead": "Dilyn fywyd Iesu fel y mae’r efengylau’n ei adrodd, yn ei drefn — o’i eni ym Methlehem trwy ei fedydd a’i weinidogaeth yng Ngalilea, ar draws Samaria, hyd y groes, yr atgyfodiad a’r esgyniad yn Jerwsalem.",
+  "pa_kick": "③ Y Testament Newydd — teithiau Paul",
+  "pa_h": "O Antiochia i eithafoedd y ddaear — Rhufain",
+  "pa_lead": "O’r Pentecost yn Jerwsalem, sut y lledodd yr efengyl y tu hwnt i Jwdea — trwy Asia Leiaf ac Ewrop hyd galon yr ymerodraeth. Dewis un o’r pum taith (1af·2il·3ydd + y fordaith i Rufain + wedi’r rhyddhau) a dilyn ddigwyddiadau’r Actau ynghyd â’r llythyrau a ysgrifennwyd ar hyd y ffordd.",
+  "foot": "Ffynonellau · Mae’r lleoedd yn dilyn testun y Beibl a daearyddiaeth feiblaidd safonol (gydag enwau modern lle bo’n gymorth). Tynnwyd yr arfordiroedd, yr afonydd a’r llynnoedd o ddata daearyddol agored (Natural Earth), wedi’u symleiddio.",
+  "contact": "Cwestiynau · adborth — <a id=\"contact\" class=\"mail\">E-bostiwch ni</a>",
+  "play": "Chwarae",
+  "pause": "Oedi",
+  "today": "Heddiw:",
+  "verseCite": "2 Pedr 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Creu · Cwymp)",
+    "book": "Genesis 1–3",
+    "today": "ardal Tigris–Ewffrates heddiw",
+    "note": "I fyd a wnaethpwyd yn dda iawn, daw pechod i mewn a thorri’r rhwymyn rhwng Duw a’r ddynoliaeth.",
+    "events": [
+     "Creu mewn chwe diwrnod — “yr oedd yn dda iawn”",
+     "Y ddynoliaeth wedi’i gwneud ar ddelw Duw",
+     "Y cwymp, a’r alltudiaeth o Eden",
+     "Addewid gyntaf yr efengyl — “bydd had y wraig yn ysigo pen y sarff”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (y Dilyw)",
+    "book": "Genesis 6–9",
+    "today": "Mynydd Ararat, dwyrain Twrci heddiw",
+    "note": "Mae Duw’n barnu byd yn llawn pechod, eto’n cadw bywyd trwy un teulu.",
+    "events": [
+     "Byd yn llawn llygredigaeth",
+     "Y dilyw, ac arch Noa",
+     "Cyfamod yr enfys — “byth eto ddilyw i ddifetha”"
+    ]
+   },
+   "babel": {
+    "name": "Tŵr Babel",
+    "book": "Genesis 11",
+    "today": "Irac heddiw (gwastadedd Sinar)",
+    "note": "Yn erbyn y balchder sy’n estyn am y nef, mae Duw’n gwasgaru eu hiaith a’r bobloedd dros y ddaear.",
+    "events": [
+     "“Adeiladwn ddinas a thŵr… a gwnawn inni enw”",
+     "Mae Duw’n drysu eu hiaith",
+     "Mae’r bobloedd yn gwasgaru dros y ddaear (Sinar — Babilon yn ddiweddarach)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesis 12",
+    "today": "de Irac heddiw",
+    "note": "Mae stori prynedigaeth y Beibl yn dechrau â galwad un dyn.",
+    "events": [
+     "Mae Duw’n galw Abram allan o Ur y Caldeaid",
+     "“Gwnaf di yn genedl fawr… ynot ti bendithir holl dylwythau’r ddaear”",
+     "Trwy ffydd mae’n gadael ei wlad ei hun"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Genesis 12",
+    "today": "de Twrci heddiw",
+    "note": "Ar y ffordd, yn ateb yr alwad tua’r wlad addawedig.",
+    "events": [
+     "Mae teulu Tera yn ymsefydlu yn Haran",
+     "Mae Tera’n marw",
+     "Mae Abram yn cychwyn am Ganaan yn 75 oed"
+    ]
+   },
+   "shechem": {
+    "name": "Sichem · Canaan",
+    "book": "Genesis 12–50",
+    "today": "Nablus heddiw",
+    "note": "Yn y wlad addawedig sefydlir teulu ac mae’r cyfamod yn parhau i lawr y cenedlaethau.",
+    "events": [
+     "Wrth fynd i mewn i Ganaan, allor gyntaf — “i’th had di y rhoddaf y wlad hon”",
+     "Y cyfamod (Gen 15) · Isaac · Jacob",
+     "Deuddeg mab Jacob — gwreiddyn y deuddeg llwyth"
+    ]
+   },
+   "egypt": {
+    "name": "Yr Aifft (Gosen)",
+    "book": "Genesis 37–50 · Exodus 1",
+    "today": "Delta’r Nîl, yr Aifft heddiw",
+    "note": "Daw teulu’n genedl fawr — yna’n genedl o gaethweision.",
+    "events": [
+     "Joseff, a werthwyd i ffwrdd, yn codi i lywodraethu’r Aifft",
+     "Mae holl deulu Jacob yn dod i lawr i ddianc rhag newyn",
+     "Mae cenedl gynyddol Israel yn cael ei chaethiwo"
+    ]
+   },
+   "sinai": {
+    "name": "Mynydd Sinai",
+    "book": "Exodus · Lefiticus",
+    "today": "Penrhyn Sinai heddiw",
+    "note": "Gwaredigaeth ganolog yr Hen Destament — daw caethweision yn bobl i Dduw ei hun.",
+    "events": [
+     "Y deg pla ac oen y Pasg",
+     "Mae’r Môr Coch yn ymrannu a hwythau’n croesi",
+     "Y Deg Gorchymyn, y Gyfraith, y tabernacl a’r aberthau"
+    ]
+   },
+   "kadesh": {
+    "name": "Cades (yr anialwch)",
+    "book": "Numeri · Deuteronomium",
+    "today": "anialwch Sinai–Negef heddiw",
+    "note": "Mae anghrediniaeth yn costio’r wlad i genhedlaeth — eto mae Duw’n aros gyda hwy.",
+    "events": [
+     "Deuddeg ysbïwr — ond mae’r bobl yn gwrthod ymddiried",
+     "38 mlynedd yn yr anialwch — manna, cwmwl a thân",
+     "Ar wastadeddau Moab, pregeth olaf Moses (Deuteronomium)"
+    ]
+   },
+   "jericho": {
+    "name": "Jericho",
+    "book": "Josua",
+    "today": "Jericho heddiw",
+    "note": "O’r diwedd maent yn mynd i mewn ac yn meddiannu’r wlad addawedig.",
+    "events": [
+     "Mae’r Iorddonen yn ymrannu a’r bobl yn croesi",
+     "Mae muriau Jericho yn syrthio",
+     "Concwest Canaan a rhannu’r wlad"
+    ]
+   },
+   "shiloh": {
+    "name": "Seilo (Barnwyr)",
+    "book": "Barnwyr · Ruth",
+    "today": "Khirbet Seilun heddiw",
+    "note": "Heb frenin, mae pawb yn gwneud yr hyn sy’n iawn yn ei olwg ei hun — mae angen gwir frenin.",
+    "events": [
+     "Codir y tabernacl yn Seilo",
+     "Cylch pechod–gormes–gwaredigaeth (Debora, Gideon, Samson)",
+     "Ruth — ffyddlondeb mewn dyddiau tywyll, yn llinach Dafydd"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerwsalem · Y Deyrnas Unedig",
+    "book": "1–2 Samuel · 1 Brenhinoedd",
+    "today": "Jerwsalem heddiw",
+    "note": "Oes aur Israel — ac addewid brenin tragwyddol.",
+    "events": [
+     "Saul y brenin cyntaf, yna Dafydd a Goliath",
+     "Cyfamod Dafydd — “erys dy orsedd hyd byth” (2 Sam 7)",
+     "Mae Solomon yn adeiladu’r deml yn Jerwsalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Y Deyrnas Ranedig",
+    "book": "Brenhinoedd · y Proffwydi",
+    "today": "Sebastia heddiw",
+    "note": "Mae’r deyrnas yn hollti ac yn dirywio wrth i’r proffwydi weiddi.",
+    "events": [
+     "Ar ôl Solomon, y rhaniad yn Jwda ac Israel",
+     "Eilunaddoliaeth ar ei hailadrodd",
+     "Mae Elias, Eseia, Jeremeia’n gweiddi ‘dychwelwch’ — ac yn rhagfynegi’r Meseia"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninefe (Asyria)",
+    "book": "2 Brenhinoedd 17 · Jona",
+    "today": "Mosul, Irac heddiw",
+    "note": "Gan anwybyddu pob rhybudd, mae’r gogledd yn syrthio gyntaf.",
+    "events": [
+     "Ninefe, prifddinas Asyria",
+     "Mae’r deyrnas ogleddol yn syrthio i Asyria (722 CC)",
+     "Anfonir Jona i Ninefe"
+    ]
+   },
+   "babylon": {
+    "name": "Babilon",
+    "book": "2 Brenhinoedd 25 · Daniel · Eseciel",
+    "today": "Hillah, Irac heddiw",
+    "note": "Y nos dywyllaf — eto mae addewid adferiad yn aros.",
+    "events": [
+     "Mae Jerwsalem yn syrthio, llosgir y deml (586 CC)",
+     "Cludir Jwda i Fabilon",
+     "Daniel ac Eseciel — ffydd a gweledigaethau yn y gaethglud"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Esther · Nehemeia",
+    "today": "Shush, Iran heddiw",
+    "note": "Hyd yn oed yng nghalon ymerodraeth baganaidd, mae Duw’n cadw ei bobl.",
+    "events": [
+     "Mae Persia’n dymchwel Babilon",
+     "Mae Esther yn achub yr Iddewon rhag difodiant",
+     "Mae Nehemeia’n gweddïo gerbron y brenin ac fe’i hanfonir"
+    ]
+   },
+   "return": {
+    "name": "Y Dychweliad i Jerwsalem",
+    "book": "Esra · Nehemeia · Malachi",
+    "today": "Jerwsalem heddiw",
+    "note": "Maent yn dychwelyd ac yn ailadeiladu — ond nid oes brenin wedi dod. Maent yn disgwyl am y Meseia.",
+    "events": [
+     "Tair ton o ddychwelyd trwy ddyfarniad Cyrus (Sorobabel 538 · Esra 458 · Nehemeia 444)",
+     "Ailadeiladwyd y deml ac adferwyd muriau Jerwsalem",
+     "Malachi — diwedd yr Hen Destament: “Wele fi’n anfon fy nghennad”"
+    ]
+   }
+  },
+  "labels": [
+   "Môr y Canoldir",
+   "Mesopotamia",
+   "Anialwch Arabia",
+   "Yr Aifft"
+  ],
+  "journeys": {
+   "flow": "Stori’r brynedigaeth"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bethlehem",
+    "book": "Mathew 1–2 · Luc 2",
+    "today": "Bethlehem heddiw",
+    "note": "Daw’r Meseia addawedig i dref Dafydd — y Gair yn gnawd.",
+    "events": [
+     "Ei eni ym Methlehem, tref Dafydd",
+     "Mae angylion yn cyhoeddi’r newydd i fugeiliaid",
+     "Daw’r doethion i addoli"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasareth",
+    "book": "Luc 2 · 4",
+    "today": "Nasareth heddiw",
+    "note": "Mae Duw’n tyfu i fyny fel dyn mewn tref gyffredin.",
+    "events": [
+     "Ei fagu mewn cartref saer",
+     "Yn ddeuddeg oed, yn holi ac yn ateb yn y deml",
+     "Yn ddiweddarach, ei wrthod yn synagog ei dref ei hun"
+    ]
+   },
+   "jordan": {
+    "name": "Afon Iorddonen",
+    "book": "Mathew 3–4",
+    "today": "yr Iorddonen isaf heddiw",
+    "note": "Mae ei weinidogaeth gyhoeddus yn dechrau — mae’r nef yn ei selio’n Fab.",
+    "events": [
+     "Ei fedyddio gan Ioan",
+     "Mae’r Ysbryd yn disgyn fel colomen — “Hwn yw fy Mab, yr Anwylyd”",
+     "Mae’n gorchfygu tri themtasiwn Satan yn yr anialwch"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "Ioan 2",
+    "today": "Kafr Kanna heddiw",
+    "note": "Yn ei arwydd cyntaf mae’n datguddio ei ogoniant.",
+    "events": [
+     "Yn westai mewn priodas",
+     "Dŵr yn cael ei droi’n win — ei arwydd cyntaf",
+     "Mae ei ddisgyblion yn credu ynddo"
+    ]
+   },
+   "sychar": {
+    "name": "Sychar (Samaria)",
+    "book": "Ioan 2–4",
+    "today": "ger Nablus heddiw",
+    "note": "Ffordd y weinidogaeth gynnar — trwy Jerwsalem ymlaen at Samaria ddirmygedig.",
+    "events": [
+     "Mae’n glanhau’r deml yn Jerwsalem",
+     "Liw nos, Nicodemus — “Rhaid eich geni o’r newydd”",
+     "Dŵr bywiol i wraig o Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Mathew 4–13 · Marc 1–4",
+    "today": "glan llyn Galilea heddiw",
+    "note": "Cartref y weinidogaeth yng Ngalilea — mae galw, dysgu a gwrthwynebiad oll yn cwrdd yma.",
+    "events": [
+     "Mae’n galw’r pysgotwyr ac yn ymsefydlu yma",
+     "Y Bregeth ar y Mynydd — “Gwyn eu byd y rhai sy’n dlodion yn yr ysbryd”",
+     "Damhegion y deyrnas — a gwrthwynebiad yn cynyddu"
+    ]
+   },
+   "galilee": {
+    "name": "Môr Galilea",
+    "book": "Marc 4 · 6 · Ioan 6",
+    "today": "Llyn Kinneret heddiw",
+    "note": "Â grym dros natur mae’n dangos pwy ydyw.",
+    "events": [
+     "“Bydd ddistaw, taw” — mae’n tawelu’r storm",
+     "Mae’n bwydo 5,000 â phum torth a dau bysgodyn",
+     "Mae’n cerdded ar y dŵr"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea Philipi",
+    "book": "Mathew 16–17",
+    "today": "Banias heddiw",
+    "note": "Mae’r disgyblion yn deall mai ef yw’r Meseia, ac mae ffordd y groes yn agor.",
+    "events": [
+     "Cyffes Pedr — “Ti yw’r Meseia, Mab y Duw byw”",
+     "Mae’n rhagfynegi ei farwolaeth a’i atgyfodiad gyntaf",
+     "Ei weddnewid mewn gogoniant ar y mynydd"
+    ]
+   },
+   "jericho": {
+    "name": "Jericho",
+    "book": "Luc 18–19",
+    "today": "Jericho heddiw",
+    "note": "Ar y ffordd i fyny i Jerwsalem, mae’n ceisio’r colledig.",
+    "events": [
+     "Mae’n rhoi golwg i Bartimeus ddall",
+     "Mae’n galw Sacheus y casglwr trethi",
+     "“Daeth Mab y Dyn i geisio ac i achub y colledig”"
+    ]
+   },
+   "bethany": {
+    "name": "Bethania",
+    "book": "Ioan 11–12",
+    "today": "al-Eizariya heddiw",
+    "note": "Mae’n dangos meistrolaeth dros farwolaeth ar drothwy ei wythnos olaf.",
+    "events": [
+     "Mae’n codi Lasarus o’r bedd — “Myfi yw’r atgyfodiad a’r bywyd”",
+     "Mae Mair yn ei eneinio ar gyfer ei gladdu",
+     "Mae’r arwydd hwn yn caledu’r cynllwyn i’w ladd"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerwsalem",
+    "book": "Mathew 21–28 · Luc 24 · Actau 1",
+    "today": "Jerwsalem heddiw",
+    "note": "Yr uchafbwynt y mae’r Beibl cyfan yn cyfeirio ato — croes, atgyfodiad, esgyniad.",
+    "events": [
+     "Yr ymdaith fuddugoliaethus; mae’n dymchwel byrddau’r deml eto",
+     "Yn y Swper Olaf mae’n golchi traed y disgyblion",
+     "Mae’n marw ar y groes",
+     "Ei godi ar y trydydd dydd, yna’i esgyn"
+    ]
+   }
+  },
+  "labels": [
+   "Môr y Canoldir",
+   "Galilea",
+   "Samaria",
+   "Jwdea",
+   "Decapolis",
+   "Perea",
+   "Y Môr Marw"
+  ],
+  "journeys": {
+   "life": "Llwybr Iesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiochia",
+    "book": "Actau 13 · 15",
+    "today": "Antakya, Twrci heddiw",
+    "note": "Yr eglwys sy’n anfon, lle mae’r genhadaeth i’r Cenhedloedd yn dechrau ac yn dychwelyd.",
+    "events": [
+     "Mewn gweddi mae’r Ysbryd yn neilltuo Barnabas a Saul",
+     "Yr eglwys lle galwyd y credinwyr yn ‘Gristnogion’ gyntaf",
+     "Man cychwyn y daith gyntaf, yr ail a’r drydedd"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Actau 13:4",
+    "today": "Twrci heddiw",
+    "note": "Porthladd Antiochia — maent yn hwylio am Gyprus.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Cyprus)",
+    "book": "Actau 13:5",
+    "today": "Cyprus heddiw",
+    "note": "Y stop cyntaf ar Gyprus — pregethu yn y synagogau.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Paffos",
+    "book": "Actau 13:6-12",
+    "today": "Cyprus heddiw",
+    "note": "Dangosir grym yn erbyn y rhai sy’n gwrthwynebu’r efengyl.",
+    "events": [
+     "Trewir Elymas y swynwr yn ddall",
+     "Mae Sergius Paulus y rhaglaw yn credu",
+     "O’r fan hon mae ‘Paul’ yn arwain"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Actau 13:13",
+    "today": "Antalya, Twrci heddiw",
+    "note": "Porthladd ym Mhamffilia — yma mae Ioan Marc yn troi’n ôl.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiochia Pisidia",
+    "book": "Actau 13:14-50",
+    "today": "Yalvaç, Twrci heddiw",
+    "note": "Mae’r efengyl yn agor tua’r Cenhedloedd.",
+    "events": [
+     "Pregeth hir am hanes iachawdwriaeth yn y synagog",
+     "Mae llawer o Genhedloedd yn llawenhau ac yn derbyn y gair",
+     "Eu gyrru allan gan wrthwynebiad"
+    ]
+   },
+   "iconium": {
+    "name": "Iconium",
+    "book": "Actau 14:1-7",
+    "today": "Konya, Twrci heddiw",
+    "note": "Mae llawer yn credu, ond mae erledigaeth yn eu gyrru ymlaen.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lystra",
+    "book": "Actau 14:8-20",
+    "today": "Twrci heddiw",
+    "note": "Ei gyfarch fel duw, yna’i labyddio.",
+    "events": [
+     "Mae’n iacháu dyn cloff o’i enedigaeth",
+     "Mae’r dyrfa’n ceisio aberthu iddynt fel duwiau",
+     "Wedi’i labyddio a’i adael am farw, mae’n codi"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Actau 14:20-21",
+    "today": "Twrci heddiw",
+    "note": "Gwneir llawer o ddisgyblion; maent yn ôl-ddilyn eu camau i gryfhau’r eglwysi.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Actau 16:8-10",
+    "today": "Twrci heddiw",
+    "note": "Y trobwynt lle mae’r efengyl gyntaf yn anelu am Ewrop.",
+    "events": [
+     "Gweledigaeth o ŵr o Facedonia",
+     "“Tyrd drosodd a chymorth ni”",
+     "Maent yn croesi ar unwaith i Ewrop"
+    ]
+   },
+   "philippi": {
+    "name": "Philipi",
+    "book": "Actau 16 · Philipiaid",
+    "today": "gogledd Groeg heddiw",
+    "note": "Eglwys gyntaf Ewrop — mae’r efengyl yn gorchfygu hyd yn oed yn y carchar.",
+    "events": [
+     "Mae Lydia, gwerthwraig porffor, yn credu",
+     "Rhyddheir caethferch a fu’n dweud ffortiwn",
+     "Emynau canol nos, daeargryn, teulu’r ceidwad yn cael ei achub"
+    ]
+   },
+   "thess": {
+    "name": "Thesalonica",
+    "book": "Actau 17 · 1–2 Thesaloniaid",
+    "today": "Thessaloniki, Groeg heddiw",
+    "note": "Mae’r gair yn ysgwyd y ddinas ac mae gwrthwynebiad yn berwi drosodd.",
+    "events": [
+     "Yn rhesymu yn y synagog am dri Saboth",
+     "“Y rhai sydd wedi troi’r byd wyneb i waered”",
+     "Maent yn dianc liw nos"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Actau 17:10-15",
+    "today": "Veria, Groeg heddiw",
+    "note": "Y rhai ‘bonheddig’ a chwiliodd y gair drostynt eu hunain.",
+    "events": [
+     "Maent yn derbyn y gair yn frwd",
+     "Bob dydd maent yn chwilio’r Ysgrythurau i’w wirio",
+     "Daw llawer i gredu"
+    ]
+   },
+   "athens": {
+    "name": "Athen",
+    "book": "Actau 17:16-34",
+    "today": "Athen, Groeg heddiw",
+    "note": "Yn ninas yr athronwyr mae’n cyhoeddi’r ‘duw anadnabyddus’.",
+    "events": [
+     "Ei gynhyrfu gan ddinas yn llawn eilunod",
+     "Ar yr Areopagus mae’n pregethu’r Creawdwr a’r atgyfodiad",
+     "Ei watwar, eto mae ychydig yn credu"
+    ]
+   },
+   "corinth": {
+    "name": "Corinth",
+    "book": "Actau 18 · 1–2 Corinthiaid",
+    "today": "Groeg heddiw",
+    "note": "Mae’n aros flwyddyn a hanner, gan blannu eglwys mewn dinas o wŷd.",
+    "events": [
+     "Yn gwneud pebyll gydag Acwila a Priscila",
+     "“Paid ag ofni… oherwydd yr wyf fi gyda thi”",
+     "Mae llawer o’r Corinthiaid yn credu ac yn cael eu bedyddio"
+    ]
+   },
+   "ephesus": {
+    "name": "Effesus",
+    "book": "Actau 19 · Effesiaid",
+    "today": "Selçuk, Twrci heddiw",
+    "note": "Calon y drydedd daith — mae’r gair yn lledu ar draws Asia.",
+    "events": [
+     "Dysgu bob dydd am ddwy flynedd yn neuadd Tyranus",
+     "Llosgi llyfrau hud; gweithredoedd nerthol",
+     "Mae Demetrius y gof arian yn cychwyn terfysg"
+    ]
+   },
+   "miletus": {
+    "name": "Miletus",
+    "book": "Actau 20:17-38",
+    "today": "Twrci heddiw",
+    "note": "Ffarwél dagreuol i henuriaid Effesus.",
+    "events": [
+     "“Gofalwch am yr eglwys a enillodd â’i waed ei hun”",
+     "Mae’r henuriaid yn wylo, gan wybod na welant ef eto"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Actau 23–26",
+    "today": "arfordir Israel heddiw",
+    "note": "Am ddwy flynedd mae’n amddiffyn yr efengyl gerbron rhaglawiaid a brenin.",
+    "events": [
+     "Achosion gerbron y rhaglawiaid Ffelix a Ffestus",
+     "Ei amddiffyniad gerbron y Brenin Agripa",
+     "“Yr wyf yn apelio at Gesar” — ymlaen i Rufain"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerwsalem",
+    "book": "Actau 21–23",
+    "today": "Jerwsalem heddiw",
+    "note": "Ei ddal yn y deml, mae ei ffordd fel carcharor yn dechrau.",
+    "events": [
+     "Ei ddal gan y dyrfa yn y deml",
+     "Yn amddiffyn ei hun gerbron y cyngor",
+     "Fel dinesydd Rhufeinig, ei anfon dan warchodaeth i Gesarea"
+    ]
+   },
+   "myra": {
+    "name": "Myra",
+    "book": "Actau 27:5-6",
+    "today": "Demre, Twrci heddiw",
+    "note": "Maent yn newid i long o Alexandria sy’n mynd i Rufain.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Porthladdoedd Teg (Creta)",
+    "book": "Actau 27:8-12",
+    "today": "Creta heddiw",
+    "note": "Anwybyddir rhybudd Paul i beidio â hwylio.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Titus",
+    "today": "Creta heddiw",
+    "note": "Ar ôl ei ryddhau, yr ynys lle mae’n gadael Titus i drefnu’r eglwysi.",
+    "events": [
+     "Yn gadael Titus i benodi henuriaid ym mhob tref",
+     "Yn galw am arweinwyr di-fai, ffyddlon",
+     "Yn ysgrifennu’r llythyr at Titus"
+    ]
+   },
+   "malta": {
+    "name": "Melita",
+    "book": "Actau 27–28",
+    "today": "Malta heddiw",
+    "note": "Trwy storm a llongddrylliad, mae addewid Duw yn dal.",
+    "events": [
+     "Mae’r ‘gwynt gogledd-ddwyrain’ yn dryllio’r llong, eto mae pob un o’r 276 yn goroesi",
+     "Wedi’i frathu gan wiber, mae’n ddianaf",
+     "Mae’n iacháu cleifion yr ynys"
+    ]
+   },
+   "syracuse": {
+    "name": "Syracus",
+    "book": "Actau 28:12",
+    "today": "Sisili, yr Eidal heddiw",
+    "note": "Maent yn aros tri diwrnod yn Sisili.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Actau 28:13-14",
+    "today": "Pozzuoli, yr Eidal heddiw",
+    "note": "Maent yn glanio yn yr Eidal ac yn cael eu cyfarfod gan gyd-gredinwyr.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rhufain",
+    "book": "Actau 28 · Llythyrau’r Carchar · 2 Timotheus",
+    "today": "Rhufain, yr Eidal heddiw",
+    "note": "Mae’r efengyl yn cyrraedd calon yr ymerodraeth o’r diwedd — nid diwedd ond dechrau.",
+    "events": [
+     "Dwy flynedd dan gaethiw tŷ, yn cyhoeddi’r deyrnas yn hy",
+     "Oddi yma mae’n ysgrifennu Llythyrau’r Carchar (Eff·Phil·Col·Phm)",
+     "Yn ddiweddarach, ei garcharu eto, yn ysgrifennu 2 Timotheus ac yn merthyru — “Yr wyf wedi ymladd yr ymladdfa deg, yr wyf wedi gorffen fy ngyrfa”"
+    ]
+   }
+  },
+  "labels": [
+   "Môr y Canoldir",
+   "Môr Aegea",
+   "Asia Leiaf",
+   "Macedonia",
+   "Yr Eidal"
+  ],
+  "journeys": {
+   "j1": "Y daith gyntaf",
+   "j2": "Yr ail daith",
+   "j3": "Y drydedd daith",
+   "rome": "Pedwaredd daith · i Rufain",
+   "j5": "Pumed daith · wedi’r rhyddhau"
+  }
+ }
+}

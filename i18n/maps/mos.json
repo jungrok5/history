@@ -1,0 +1,636 @@
+{
+ "menuName": "Moore",
+ "htmlLang": "mos",
+ "dir": "ltr",
+ "locale": "mos",
+ "brand": "Biibl wã sẽn pʋgd taab",
+ "docTitle": "Biibl ne tẽn-gãndg · Biibl wã sẽn pʋgd taab",
+ "metaDesc": "Pʋg-y Kaool Kʋdrã wakat pʋgd-taabã, a Zezi vɩɩmã, la a Poll so-kẽndã tẽn-gãndg sɩd zugu — Biibl yɛlã zĩnda zĩ-sɩd pʋsẽ.",
+ "s": {
+  "kicker": "Biibl wã sẽn pʋgd taab · Tẽn-gãndse",
+  "title": "Biibl ne tẽn-gãndg",
+  "verse": "“Sɩd me, tõnd sẽn wilg yãmb bũmb ninga fãa, Soaal a Zezi Krista sẽn na n wa ne pãng ningã, ad-y ka solem-bãna bɩ yelbũna la d tão-y ye, yaa d sẽn deng n yãend bãmb meng ziirã ne d nifu.” (2Piyɛr 1:16)",
+  "purpose": "Biibl wã ka soalem ye. A yaa neb sẽn kẽn zĩ-sɩdsi, daat la yʋy sẽn yaa sɩd zut gʋlsgo. Pʋg-y sor-kãens tẽn-gãndg zugu, wakat pʋgd-taabã pʋgẽ — pẽ-y zĩig a yembr, wall y pẽ ▶ n pʋg-a bilf-bilfu.",
+  "ot_kick": "① Kaool Kʋdrã — wakat sẽn pʋgd taaba",
+  "ot_h": "Naanegã tɛk n tãag lebgr Zerizalɛɛm",
+  "ot_lead": "Ka so-kẽng a yembr bal ye, yaa fãagr-kibarã sẽn pʋgd taab naanegã tɛka: naaneg ne lʋɩɩsem → sa-kãseng ne Babɛl → boolgo (a Abrahaam) → kãabg tẽnga → Yiibu → we-raoogo → tõogr → rĩung → welgre → yembdo → lebgre.",
+  "je_kick": "② Kaool Paalgã — a Zezi vɩɩm",
+  "je_h": "Betelɛm tɛk n tãag Zerizalɛɛm",
+  "je_lead": "Pʋg-y a Zezi vɩɩm wa Koe-noog-sɛbã sẽn togsd-a to-to, ne pʋgd-taaba — a rogem Betelɛm tɛka, ne a so-lisg la a Galile tʋʋmdã, n loog Samari, n tãag da-luku, vʋʋgr la dʋʋbo Zerizalɛɛm.",
+  "pa_kick": "③ Kaool Paalgã — a Poll so-kẽndã",
+  "pa_h": "Ãntios tɛk n tãag dũni wã tɛka — Rom",
+  "pa_lead": "Sɩngr ne Pãntakot Zerizalɛɛm, Koe-noogã sẽn yagse n yɩɩd Zide — n tũ Azi-bila ne Erop n tãag soolmã sũuri. Yãk-y kẽnd a nu wã yembr (pipi·a yiib-n-soaba·a tãab-n-soaba + kẽng Rom + lohorem poore) la y pʋg Tʋʋm-tʋmdba vɩɩm yɛlã ne lɛt-rãmb b sẽn gʋls sorã zug wã.",
+  "foot": "Sẽn-yit-zĩisi · Zĩisã pʋgda Biibl gomdã ne Biibl tẽn-bãngr sẽn zãad (ne rũndã-rũndã yʋy sã n sõngdẽ). Ko-noya, kʋɩls la mogd yita tẽn-bãngr data sẽn yaa pakr (Natural Earth), sẽn booge.",
+  "contact": "Sogsg · tagsg — <a id=\"contact\" class=\"mail\">Gʋls-y lɛtr</a>",
+  "play": "Kẽnge",
+  "pause": "Yalsi",
+  "today": "Rũnna:",
+  "verseCite": "2Piyɛr 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edɛn (Naaneg · Lʋɩɩsem)",
+    "book": "Sɩngrẽ 1–3",
+    "today": "Rũnna, Tɩgr ne Efrat kʋɩls sʋk tẽnga",
+    "note": "Dũni sẽn naan n yaa sõma wʋsgo pʋgẽ, yel-wẽn kẽeme n kao loees ning sẽn da be Wẽnd ne ninsaal sʋkã.",
+    "events": [
+     "Naaneg raar a yoobe — «a yaa sõma wʋsgo»",
+     "Ninsaal sẽn naan wa Wẽnd wõnde",
+     "Lʋɩɩsmã, la b yiisg Edɛn",
+     "Pipi Koe-noog kãabga — «paga kamba na n bedsa waafã zugu»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Sa-kãsengã)",
+    "book": "Sɩngrẽ 6–9",
+    "today": "Rũnna, Ararat tãnga, Tʋrki wĩntoog-pukr babgẽ",
+    "note": "Wẽnd kaoo dũni sẽn pid ne yel-wẽnd bʋʋdo, la baasgo a kogla vɩɩm ne zak a yembr maasem.",
+    "events": [
+     "Dũni sẽn pid ne wẽnem",
+     "Sa-kãsengã, la a Noe koglgã",
+     "Saag-gãong kaoolã — «sa-kãseng kõn le sãam dũni ye»"
+    ]
+   },
+   "babel": {
+    "name": "Babɛl gasgã",
+    "book": "Sɩngrẽ 11",
+    "today": "Rũnna, Irak (Sinaar pʋʋgã)",
+    "note": "Wilg-m-menga sẽn dat n ta saasẽ taoore, Wẽnd sãeega b goamã la a sãeeg nebã dũni wã gill zugu.",
+    "events": [
+     "«Bɩ d me galʋ-tẽng la gasg… n paam yʋʋr d mensẽ»",
+     "Wẽnd sãeega b goamã",
+     "Nebã sãeega dũni wã zugu (Sinaar — sẽn wa n lebg Babilon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Sɩngrẽ 12",
+    "today": "Rũnna, Irak rɩtg babgẽ",
+    "note": "Biibl wã fãagr kibarã sɩngda ne rao a yembr boolgo.",
+    "events": [
+     "Wẽnd boola a Abram t'a yi Kalde nebã Ur tẽngẽ",
+     "«M na n kɩtame tɩ f lebg buud kãsenga… dũni buud fãa na n paam barka fo maasem»",
+     "Ne tẽebo, a basa a tẽnga"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Sɩngrẽ 12",
+    "today": "Rũnna, Tʋrki rɩtg babgẽ",
+    "note": "Sorã zugu, a leokda boolgã n tʋgd kãabg tẽngã.",
+    "events": [
+     "A Tera zakã sigla Haran",
+     "A Tera kiime",
+     "A Abram yikame n kẽng Kanaã a yʋʋm 75 wã"
+    ]
+   },
+   "shechem": {
+    "name": "Sikɛm · Kanaã",
+    "book": "Sɩngrẽ 12–50",
+    "today": "Rũnna, Nablus",
+    "note": "Kãabg tẽngã pʋgẽ, zak a yembr n luge la kaoolã loogda yaool-rãmbã.",
+    "events": [
+     "Kẽeg Kanaã, pipi tẽn-kugri — «m na n kõo fo yagengã tẽn-kãnga»",
+     "Kaoolã (Sɩngrẽ 15) · a Izaak · a Zakoob",
+     "A Zakoob kamb piig la a yiibu — buud piig la a yiibã yẽgre"
+    ]
+   },
+   "egypt": {
+    "name": "Ezipt (Gosɛn)",
+    "book": "Sɩngrẽ 37–50 · Yikri 1",
+    "today": "Rũnna, Nil kʋɩlgã noorẽ, Ezipt",
+    "note": "Zak a yembr n lebg buud kãsenga — la rẽ poore, yembs buudu.",
+    "events": [
+     "A Zozɛf b sẽn koose, n zẽk n lebg naab Ezipt",
+     "A Zakoob zakã fãa sig n na n põs komã",
+     "Israyɛl buudã sẽn da paamd pãngã lebg yembse"
+    ]
+   },
+   "sinai": {
+    "name": "Sinayi tãnga",
+    "book": "Yikri · Maan-kʋʋdba",
+    "today": "Rũnna, Sinayi tẽnga",
+    "note": "Kaool Kʋdrã fãagr sẽn yɩɩd fãa — yembs n lebg Wẽnd meng nebã.",
+    "events": [
+     "Toad piigã la Pak pe-bila",
+     "Mog-miuugã welgame la b pɩʋʋge",
+     "Tõog Goam piigã, Tõogã, fu-roogã la maoongã"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadɛs (we-raoogo)",
+    "book": "Sõadga · Tõog Kʋdr",
+    "today": "Rũnna, Sinayi ne Negɛv we-raoogã",
+    "note": "Tẽeb kaalem kɩtame tɩ yaool a yembr kong tẽngã — la baasgo Wẽnd kell n zĩnda ne-ba.",
+    "events": [
+     "Tẽn-gũusdb piig la a yiibu — la nebã zãgs n ka tẽ ye",
+     "Yʋʋm 38 we-raoogẽ — manã, sa-wilg-luglg la bugum",
+     "Moaab pʋʋgẽ, a Moyiiz sõsg-yaoolgã (Tõog Kʋdr)"
+    ]
+   },
+   "jericho": {
+    "name": "Zeriko",
+    "book": "Zozue",
+    "today": "Rũnna, Zeriko",
+    "note": "Baasgo, b kẽe n dɩ kãabg tẽngã.",
+    "events": [
+     "Zʋrdẽ kʋɩlgã welgame la nebã pɩʋʋge",
+     "Zeriko lalsã lʋɩɩme",
+     "Kanaã zĩndg la tẽngã pʋɩɩbo"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Bʋ-kaoodba)",
+    "book": "Bʋ-kaoodba · Rut",
+    "today": "Rũnna, Kirbɛt Seilun",
+    "note": "Naab sẽn ka be, ned kam fãa maanda a sẽn date — b baooda naab sɩda.",
+    "events": [
+     "Fu-roogã lugra Silo",
+     "Yel-wẽn–nams–fãagr ylemdã (a Debora, a Zedeõ, a Sãmsõ)",
+     "A Rut — sɩd-pʋʋsem lik wakate, a Davɩɩd buudẽ"
+    ]
+   },
+   "jerusalem": {
+    "name": "Zerizalɛɛm · Rĩung a yembrã",
+    "book": "1–2 Samwɛl · 1Dĩm Dãmba",
+    "today": "Rũnna, Zerizalɛɛm",
+    "note": "Israyɛl ziirã wakate — la naab sẽn na n dɩ naam wakat fãa kãabga.",
+    "events": [
+     "A Sayɩll pipi naaba, rẽ poore a Davɩɩd ne a Goliat",
+     "Kaoolã ne a Davɩɩd — «fo zaoorã na n viglame wakat fãa» (2Samwɛl 7)",
+     "A Salomõ meega wẽn-doogã Zerizalɛɛm"
+    ]
+   },
+   "samaria": {
+    "name": "Samari · Rĩung sẽn welg taabã",
+    "book": "Dĩm Dãmba · Bãngdbã",
+    "today": "Rũnna, Sebasti",
+    "note": "Rĩungã welga taab n sãamd bilf-bilf tɩ bãngdbã kelemde.",
+    "events": [
+     "A Salomõ poore, welgr Zida ne Israyɛl sʋka",
+     "Bõn-naands pʋʋsg sẽn pʋgd taaba",
+     "A Eli, a Ezayi, a Zeremi kelmda «lebg-y n wa» — la b togs Mesi wã yelle"
+    ]
+   },
+   "nineveh": {
+    "name": "Niniv (Asiri)",
+    "book": "2Dĩm Dãmba 17 · Zonas",
+    "today": "Rũnna, Mosul, Irak",
+    "note": "B sẽn kong keoogr fãa, goabg babgã n deng n lʋɩ.",
+    "events": [
+     "Niniv sẽn yaa Asiri tẽng-kãsenga",
+     "Goabg rĩungã lʋɩɩ Asiri nengẽ (yʋʋm 722 sẽn deng a Zezi rogem)",
+     "B tʋma a Zonas Niniv"
+    ]
+   },
+   "babylon": {
+    "name": "Babilon",
+    "book": "2Dĩm Dãmba 25 · Daniɛl · Ezekiyɛl",
+    "today": "Rũnna, Hila, Irak",
+    "note": "Yʋng sẽn yaa lik n yɩɩda — la baasgo lebgr kãabgã ket n bee.",
+    "events": [
+     "Zerizalɛɛm lʋɩɩme, la b yõog wẽn-doogã (yʋʋm 586 sẽn deng a Zezi rogem)",
+     "B talla Zida Babilon",
+     "A Daniɛl ne a Ezekiyɛl — tẽeb la bãngr-yũ-yãad yembd tẽngẽ"
+    ]
+   },
+   "susa": {
+    "name": "Suz (Pɛrs)",
+    "book": "Ɛstɛɛr · Nehemi",
+    "today": "Rũnna, Sus, Iran",
+    "note": "Baa bõn-naands pʋʋsdb soolem sũ-biisẽ, Wẽnd geta a nebã yell.",
+    "events": [
+     "Pɛrs tõoga Babilon",
+     "A Ɛstɛɛr fãaga Zʋɩf rãmbã ne sãoongo",
+     "A Nehemi pʋʋsa naabã taoore la b tʋm-a"
+    ]
+   },
+   "return": {
+    "name": "Lebgr Zerizalɛɛm",
+    "book": "Esdras · Nehemi · Malaki",
+    "today": "Rũnna, Zerizalɛɛm",
+    "note": "B lebgame n le me — la naab nan ka wa ye. B gũuda Mesi wã.",
+    "events": [
+     "Lebgr soog a tãab ne a Sirus noorã (a Zorobabɛl 538 · Esdras 458 · Nehemi 444)",
+     "Wẽn-doogã megr a paalg la Zerizalɛɛm lalsã manegre",
+     "A Malaki — Kaool Kʋdrã baasda: «M na n tʋma m koe-taasda»"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterane mogrã",
+   "Mezopotami",
+   "Arabi we-raoogo",
+   "Ezipt"
+  ],
+  "journeys": {
+   "flow": "Fãagrã kibare"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betelɛm",
+    "book": "Matye 1–2 · Luki 2",
+    "today": "Rũnna, Betelɛm",
+    "note": "Mesi ning b sẽn kãabã wata a Davɩɩd tẽngẽ — Gomdã sẽn lebg neda.",
+    "events": [
+     "B roga-a Betelɛm, a Davɩɩd tẽngã",
+     "Malɛgsã moona koɛɛgã pe-kɩɩmbã",
+     "Bãng-dãmbã waame n waoog-a"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazarɛt",
+    "book": "Luki 2 · 4",
+    "today": "Rũnna, Nazarɛt",
+    "note": "Wẽnd bɩta wa ninsaal tẽn-bilf pʋgẽ.",
+    "events": [
+     "B wuba-a ra-wãada zakẽ",
+     "A sẽn tar yʋʋm piig la a yiibu, a sokda la a leokd wẽn-doogẽ",
+     "Rẽ poore, b zãgs-a-la a ba-yir karen-doogẽ"
+    ]
+   },
+   "jordan": {
+    "name": "Zʋrdẽ kʋɩlga",
+    "book": "Matye 3–4",
+    "today": "Rũnna, Zʋrdẽ kʋɩlgã sẽn sikã",
+    "note": "A tʋʋmdã zãma taoor sɩngdame — saasẽ wilgda t'a yaa Biiga.",
+    "events": [
+     "A Zã lisa-a koom",
+     "Sɩɩg Sõngã sig wa wʋʋbo — «Ada yaa mam Bi-nongra»",
+     "A tõoga Sʋtãan makr a tãabã we-raoogẽ"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Zã 2",
+    "today": "Rũnna, Kafr Kanna",
+    "note": "A yel-soalg a pipi soab pʋgẽ, a puka a ziirã.",
+    "events": [
+     "A yɩɩ sãan kãadem pʋgẽ",
+     "Koom sẽn lebg divẽ — a pipi yel-soalgã",
+     "A karen-biisã tẽ-a-la"
+    ]
+   },
+   "sychar": {
+    "name": "Sikaar (Samari)",
+    "book": "Zã 2–4",
+    "today": "Rũnna, Nablus sẽn pẽ",
+    "note": "Tʋʋm-sɩngrã sore — a looga Zerizalɛɛm n kẽng Samari sẽn paoogdã.",
+    "events": [
+     "A yɩlga wẽn-doogã Zerizalɛɛm",
+     "Yʋngo, a Nikodɛm — «Tɩlae tɩ b le rog foo»",
+     "Vɩɩm koom Samari pag yĩnga"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapɛrnaum",
+    "book": "Matye 4–13 · Mark 1–4",
+    "today": "Rũnna, Galile ko-kãsengã noorẽ",
+    "note": "Galile tʋʋmdã sɩ-zĩiga — boolgo, zãmsg la kɩɩsg fãa seg ka.",
+    "events": [
+     "A boola zĩm-yõkdbã la a maan ka a zĩ-sɩda",
+     "Tãngã zug sõsgã — «Bark bee ne sẽn yaa naong-rãmb b sɩɩgẽ wã»",
+     "Rĩungã yel-soalsã — la kɩɩsg sẽn dɩkd pãnga"
+    ]
+   },
+   "galilee": {
+    "name": "Galile ko-kãsenga",
+    "book": "Mark 4 · 6 · Zã 6",
+    "today": "Rũnna, Kinerɛt ko-kãsenga",
+    "note": "Ne pãng bõn-naands zutu, a wilgda a sẽn yaa a soaba.",
+    "events": [
+     "«Sĩ-y bala» — a sĩnsa sob-kãsengã",
+     "A rɩlga neb tus a nu ne bur a nu la zĩm a yiibu",
+     "A kẽnda koomã zug"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sezare-Filip",
+    "book": "Matye 16–17",
+    "today": "Rũnna, Banias",
+    "note": "Karen-biisã bãnga t'a yaa Krista, la da-lukã sor pakdame.",
+    "events": [
+     "A Pɩyɛɛr kaset-kãsengã — «Yãmb yaa Krista, Wẽnd sẽn vɩ wã Biiga»",
+     "A deng n togsa a kũum la a vʋʋgrã",
+     "A yĩngã tekame ne ziir tãngã zugu"
+    ]
+   },
+   "jericho": {
+    "name": "Zeriko",
+    "book": "Luki 18–19",
+    "today": "Rũnna, Zeriko",
+    "note": "Sor sẽn dʋʋd Zerizalɛɛm zugu, a baooda sẽn menemã.",
+    "events": [
+     "A maaga zoang a Bartime tɩ b nifã puki",
+     "A boola yaood-deegd a Zase",
+     "«Ninsaal Biiga waame n na n bao la a fãag sẽn menemã»"
+    ]
+   },
+   "bethany": {
+    "name": "Betani",
+    "book": "Zã 11–12",
+    "today": "Rũnna, al-Eizariya",
+    "note": "A semen yaoolgã sɩngr sẽnese, a wilga a sẽn tõe kũumã.",
+    "events": [
+     "A vʋʋga a Lazaar yaoogẽ — «Mam yaa vʋʋgr la vɩɩm»",
+     "A Maari zaaga-a kaam a mumbu yĩnga",
+     "Yel-soalg kãng kɩtame tɩ b sɩ-yõk n na n kʋ-a"
+    ]
+   },
+   "jerusalem": {
+    "name": "Zerizalɛɛm",
+    "book": "Matye 21–28 · Luki 24 · Tʋʋm-tʋmdba vɩɩm 1",
+    "today": "Rũnna, Zerizalɛɛm",
+    "note": "Zĩig ning Biibl wã fãa sẽn debdẽ — da-luku, vʋʋgr la dʋʋbo.",
+    "events": [
+     "Kẽeg ne ziiri; a le lebga wẽn-doogã taabl-dãmbã",
+     "Zaab yaoolg rɩɩbẽ, a peega karen-biisã naowã",
+     "A kiime da-luk zugu",
+     "A vʋʋgame raar a tãab daare, rẽ poor a dʋ saasẽ"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterane mogrã",
+   "Galile",
+   "Samari",
+   "Zide",
+   "Dekapol",
+   "Pere",
+   "Mog-kũumã"
+  ],
+  "journeys": {
+   "life": "A Zezi sore"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Ãntios",
+    "book": "Tʋʋm-tʋmdba vɩɩm 13 · 15",
+    "today": "Rũnna, Antakya, Tʋrki",
+    "note": "Wẽn-doog ning sẽn tʋmd tɩ bʋ-zẽms nebã tʋʋmdã sɩngd la a lebgdẽ wã.",
+    "events": [
+     "Pʋʋsg sasa, Sɩɩg Sõngã welga a Barnabas ne a Sool",
+     "Wẽn-doog ning pʋgẽ b sẽn deng n boond tẽedbã tɩ «kiris-neba»",
+     "Pipi, a yiib-n-soab la a tãab-n-soab kẽnda sɩngr zĩiga"
+    ]
+   },
+   "seleucia": {
+    "name": "Selesi",
+    "book": "Tʋʋm-tʋmdba vɩɩm 13:4",
+    "today": "Rũnna, Tʋrki",
+    "note": "Ãntios koglg-zĩiga — b kẽe koom-koglg n kẽng Sɩpr.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamin (Sɩpr)",
+    "book": "Tʋʋm-tʋmdba vɩɩm 13:5",
+    "today": "Rũnna, Sɩpr",
+    "note": "Pipi yalsg Sɩpr — koe-moonego karen-dosẽ.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Tʋʋm-tʋmdba vɩɩm 13:6-12",
+    "today": "Rũnna, Sɩpr",
+    "note": "B wilga pãng sẽn kɩɩsd Koe-noogã taoore.",
+    "events": [
+     "A Elimas so-tʋʋsdã lebga zoanga",
+     "Goosneer a Sɛrzius Poll tẽeme",
+     "Ka tɛka, «a Poll» n lʋɩ taoore"
+    ]
+   },
+   "perga": {
+    "name": "Pɛrze",
+    "book": "Tʋʋm-tʋmdba vɩɩm 13:13",
+    "today": "Rũnna, Antalya, Tʋrki",
+    "note": "Ko-yõbg Pãmfili — ka la a Zã Mark lebg poore.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Pizidi Ãntios",
+    "book": "Tʋʋm-tʋmdba vɩɩm 13:14-50",
+    "today": "Rũnna, Yalvaç, Tʋrki",
+    "note": "Koe-noogã pakda sor n tʋg bʋ-zẽms rãmbã.",
+    "events": [
+     "Fãagr-kibar sõs-woko karen-doogẽ",
+     "Bʋ-zẽms rãmb wʋsg maana sũ-noog n deeg gomdã",
+     "Kɩɩsg kɩtame tɩ b digd-ba"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniom",
+    "book": "Tʋʋm-tʋmdba vɩɩm 14:1-7",
+    "today": "Rũnna, Konya, Tʋrki",
+    "note": "Neb wʋsg tẽeme, la namsg kɩtame tɩ b kẽnge.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listr",
+    "book": "Tʋʋm-tʋmdba vɩɩm 14:8-20",
+    "today": "Rũnna, Tʋrki",
+    "note": "B reng n geel-b-la wa wẽnnaam, rẽ poore b loba-b ne kugã.",
+    "events": [
+     "A maaga rao sẽn dog n yaa wobre",
+     "Zãma wã ratame n maan-b maoong wa wẽnnaam dãmba",
+     "B loba-a ne kug n bas-a wa a kiime, la a yikame"
+    ]
+   },
+   "derbe": {
+    "name": "Dɛrb",
+    "book": "Tʋʋm-tʋmdba vɩɩm 14:20-21",
+    "today": "Rũnna, Tʋrki",
+    "note": "B maana karen-biis wʋsgo; b lebga b poor n keng wẽn-doto pãnga.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Tʋʋm-tʋmdba vɩɩm 16:8-10",
+    "today": "Rũnna, Tʋrki",
+    "note": "Zĩig ning Koe-noogã sẽn deng n tʋgd Erop wã.",
+    "events": [
+     "Bãngr-yũud Masedoan rao yelle",
+     "«Pɩʋʋg-y n wa sõng-y tõndo»",
+     "B pɩʋʋg tao-tao n kẽng Erop"
+    ]
+   },
+   "philippi": {
+    "name": "Filip",
+    "book": "Tʋʋm-tʋmdba vɩɩm 16 · Filip Tẽng Rãmba",
+    "today": "Rũnna, Gɛrɛk goabg babgẽ",
+    "note": "Erop pipi wẽn-doogã — Koe-noogã tõoge baa bãens roogẽ.",
+    "events": [
+     "A Lidi, sẽn koosd pɛɛl-fut sẽn yaa miuungo, tẽeme",
+     "Yamb-pʋg-poak sẽn da togsd bagr paama lohorem",
+     "Yʋn-sʋk yɩɩla, tẽng-digimdgu, bãens-gũud zakã fãa fãagre"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonik",
+    "book": "Tʋʋm-tʋmdba vɩɩm 17 · 1–2 Tesalonik Rãmba",
+    "today": "Rũnna, Tesaloniki, Gɛrɛk",
+    "note": "Gomdã digimda tẽngã la kɩɩsg puuge.",
+    "events": [
+     "A sõsa karen-doogẽ sabat raad a tãabo",
+     "«Neb niyns sẽn lubg dũni wã»",
+     "B yi-b-la yʋngo"
+    ]
+   },
+   "berea": {
+    "name": "Bere",
+    "book": "Tʋʋm-tʋmdba vɩɩm 17:10-15",
+    "today": "Rũnna, Veria, Gɛrɛk",
+    "note": "«Neb sõma» nins sẽn vaees gomdã b mensã.",
+    "events": [
+     "B deega gomdã ne yamleoog wʋsgo",
+     "Daar fãa b vaeesda Gʋlsg Sõamyã n ges a sã n yaa sɩda",
+     "Neb wʋsg wa tẽeme"
+    ]
+   },
+   "athens": {
+    "name": "Atɛn",
+    "book": "Tʋʋm-tʋmdba vɩɩm 17:16-34",
+    "today": "Rũnna, Atɛn, Gɛrɛk",
+    "note": "Yam-dãmb tẽngẽ, a moonda «wẽnnaam ning b sẽn ka mi wã».",
+    "events": [
+     "Tẽng sẽn pid ne bõn-naands sãeega a sũuri",
+     "Areopaz zug a moona Naanda ne vʋʋgrã",
+     "B laa a yĩnga, la kẽer tẽeme"
+    ]
+   },
+   "corinth": {
+    "name": "Korẽnt",
+    "book": "Tʋʋm-tʋmdba vɩɩm 18 · 1–2 Korẽnt Rãmba",
+    "today": "Rũnna, Gɛrɛk",
+    "note": "A zĩnda yʋʋm la pʋ-sʋk n lug wẽn-doog tʋʋm-wẽns tẽngẽ.",
+    "events": [
+     "A maana fu-roto ne a Akilas ne a Prisil",
+     "«Da zoe rabeem ye… bala mam bee ne foo»",
+     "Korẽnt neb wʋsg tẽeme la b lis-b koom"
+    ]
+   },
+   "ephesus": {
+    "name": "Efɛɛz",
+    "book": "Tʋʋm-tʋmdba vɩɩm 19 · Efɛɛz Rãmba",
+    "today": "Rũnna, Selçuk, Tʋrki",
+    "note": "Kẽnd a tãab-n-soabã sũuri — gomdã yagsda Azi tẽngã fãa.",
+    "events": [
+     "Zãmsg daar fãa yʋʋm a yiib a Tiranus roogẽ",
+     "So-tʋʋsg sɛb yõogre; tʋʋm-kãsemse",
+     "Wɛg-tʋmd a Demetrius yika zãma zabre"
+    ]
+   },
+   "miletus": {
+    "name": "Mile",
+    "book": "Tʋʋm-tʋmdba vɩɩm 20:17-38",
+    "today": "Rũnna, Tʋrki",
+    "note": "Nintãm ne Efɛɛz kãsem-dãmbã kaoosg goama.",
+    "events": [
+     "«Ges-y wẽn-doog ning a sẽn da ne a meng zɩɩm yellã»",
+     "Kãsem-dãmbã yãbdame, b sẽn mi tɩ b ka na le yã-a wã"
+    ]
+   },
+   "caesarea": {
+    "name": "Sezare",
+    "book": "Tʋʋm-tʋmdba vɩɩm 23–26",
+    "today": "Rũnna, Israyɛl mog-noorẽ",
+    "note": "Yʋʋm a yiib a kogenda Koe-noogã goosneer-dãmb ne naab a yembr taoore.",
+    "events": [
+     "Bʋʋd goosneer a Feliks ne a Fɛstus taoore",
+     "A kogr-goam naab a Agripa taoore",
+     "«M kota Sezaar bʋʋdo» — n kẽng Rom"
+    ]
+   },
+   "jerusalem": {
+    "name": "Zerizalɛɛm",
+    "book": "Tʋʋm-tʋmdba vɩɩm 21–23",
+    "today": "Rũnna, Zerizalɛɛm",
+    "note": "B yõk-a-la wẽn-doogẽ, la a bãens-neda sorã sɩngdame.",
+    "events": [
+     "Zãma wã yõk-a-la wẽn-doogẽ",
+     "A kogenda a meng sull-kãsengã taoore",
+     "A sẽn yaa Rom tẽng-biigã, b tʋm-a ne gũudb n kẽng Sezare"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Tʋʋm-tʋmdba vɩɩm 27:5-6",
+    "today": "Rũnna, Demre, Tʋrki",
+    "note": "B tekame n kẽ Aleksãndri koom-koglg sẽn debd Rom.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Ko-yõb-sõama (Krɛt)",
+    "book": "Tʋʋm-tʋmdba vɩɩm 27:8-12",
+    "today": "Rũnna, Krɛt",
+    "note": "B ka kelg a Poll keoogr t'a bas koglgã kẽnd ye.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krɛt",
+    "book": "Tit",
+    "today": "Rũnna, Krɛt",
+    "note": "A lohorem poore, tẽng-kʋɩlg ning a sẽn bas a Tit t'a segl wẽn-doto wã.",
+    "events": [
+     "A basa a Tit t'a yãk kãsem-dãmb tẽng fãa pʋgẽ",
+     "A kota taoor-dãmb sẽn ka tar taal la sẽn yaa sɩd-dãmba",
+     "A gʋlsa lɛtr a Tit"
+    ]
+   },
+   "malta": {
+    "name": "Malt",
+    "book": "Tʋʋm-tʋmdba vɩɩm 27–28",
+    "today": "Rũnna, Malt",
+    "note": "Ne sob-kãseng la koglg-sãoongo, Wẽnd kãabgã kell n yɩɩ sɩda.",
+    "events": [
+     "«Sob-kãsengã» sãama koglgã, la neb 276 wã fãa põsa kũum",
+     "Waaf dõm-a-la la a ka paam wẽng ye",
+     "A maaga tẽng-kʋɩlgã bãad-dãmba"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuz",
+    "book": "Tʋʋm-tʋmdba vɩɩm 28:12",
+    "today": "Rũnna, Sisil, Itali",
+    "note": "B zĩnda rasem a tãab Sisil.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Pizol",
+    "book": "Tʋʋm-tʋmdba vɩɩm 28:13-14",
+    "today": "Rũnna, Pozzuoli, Itali",
+    "note": "B sig Itali la tẽed-n-taas seg-b-la.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rom",
+    "book": "Tʋʋm-tʋmdba vɩɩm 28 · Bãens roog lɛtrã · 2Timote",
+    "today": "Rũnna, Rom, Itali",
+    "note": "Koe-noogã tãaga soolmã sũur baasgo — ka sɛɛb ye, yaa sɩngre.",
+    "events": [
+     "Yʋʋm a yiib a zakẽ bãens pʋgẽ, a moonda Rĩungã ne raoodo",
+     "Ka tɛka, a gʋlsa Bãens roog lɛtrã (Efɛɛz·Filip·Kolos·Filemõ)",
+     "Rẽ poore b le pʋg-a bãense, a gʋlsa 2Timote la b kʋ-a a tẽeb yĩnga — «Mam zaba zab-sõngo, m baasa m no-loeese»"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterane mogrã",
+   "Eze mogrã",
+   "Azi-bila",
+   "Masedoan",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Pipi kẽndã",
+   "j2": "Kẽnd a yiib-n-soabã",
+   "j3": "Kẽnd a tãab-n-soabã",
+   "rome": "Kẽnd a naas-n-soabã · sẽn tʋg Rom",
+   "j5": "Kẽnd a nu-n-soabã · lohorem poore"
+  }
+ }
+}
