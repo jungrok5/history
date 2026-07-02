@@ -1,0 +1,636 @@
+{
+ "menuName": "Pangasinan",
+ "htmlLang": "pag",
+ "dir": "ltr",
+ "locale": "pag-PH",
+ "brand": "Say Biblia ed Saksakey a Liking",
+ "docTitle": "Say Biblia Diad Mapa · Say Biblia ed Saksakey a Liking",
+ "metaDesc": "Tumboken so linya na panaon na Daan a Sipanan, say bilay nen Jesus, tan saray biahe nen Pablo diad tuan mapa — agawa so Biblia ed tuan saray pasen.",
+ "s": {
+  "kicker": "Say Biblia ed Saksakey a Liking · Saray Mapa",
+  "title": "Say Biblia Diad Mapa",
+  "verse": "“Nen impaamta mid sikayoy nipaakar ed pakayari tan say ipawil na Katawan tayon Jesu-Cristo, ag mi inagamil iray andi-kakanaan a tongtong na saray totoo. Naimatunan miy atagey a kipapasen to” (2 Pedro 1:16)",
+  "purpose": "Say Biblia et aliwan istoryan-tila. Sakey yan rekord na saray totoon nanakar ed tuan saray pasen, petsa, tan ngaran. Tumboken iray dalan da diad sakey a mapa, unung ed pakasumpal na panaon — pindut moy sakey a punto, odino pindut moy ▶ pian tumboken itan a sakey-sakey.",
+  "ot_kick": "① Daan a Sipanan — diad interon panaon",
+  "ot_h": "Manlapud pamalsa anggad isempet ed Jerusalem",
+  "ot_lead": "Aliwan saksakey a biahe noagta say agus na mahistorya-redentibo manlapud pamalsa: pamalsa tan inkapelag → delap tan Babel → sakey a tawag (Abraham) → say insipan a dalin → Exodo → kalawakan → sakop → panarian → inkabiang → inkapriso → isempet.",
+  "je_kick": "② Balon Sipanan — say bilay nen Jesus",
+  "je_h": "Manlapud Betlehem anggad Jerusalem",
+  "je_lead": "Tumboken so bilay nen Jesus unung ed pangibaga na saray Ebanghelyo, unung ed pakasumpal — manlapud inkianak to ed Betlehem, diad impanbinyag tan kimey to ed Galilea, ombabaliw ed Samaria, anggad krus, kioli, tan inkayatagey to ed Jerusalem.",
+  "pa_kick": "③ Balon Sipanan — saray biahe nen Pablo",
+  "pa_h": "Manlapud Antioquia anggad saray sampot na dalin — Roma",
+  "pa_lead": "Manlapud Pentecostes ed Jerusalem, no panoy inkayat na maung a balita ed paway na Judea — diad panamegley na Asia Minor tan Europa anggad puso na empiryo. Mamili kay sakey ed limaran biahe (unaan·komadua·komatlo + say biahe ya onlad Roma + kayari inkibulos) tan tumboken iray agawa ed Saray Gawgawa kaiba ray sulat ya insulat diad dalan.",
+  "foot": "Saray panlapuan · Saray pasen et ontumbok ed teksto na Biblia tan say estandarte a heograpiya na Biblia (kaiba ray modernon ngaran no makatulong). Saray gilig na dayat, saray ilog, tan saray dayat-dayatan et nanlapud open a heograpikon datos (Natural Earth), ya pinasimple.",
+  "contact": "Saray tepet · komento — <a id=\"contact\" class=\"mail\">Mangipawit na email</a>",
+  "play": "Iyakar",
+  "pause": "Itunda",
+  "today": "Natan:",
+  "verseCite": "2 Pedro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Pamalsa · Inkapelag)",
+    "book": "Genesis 1–3",
+    "today": "say rehyon na Tigris–Eufrates natan",
+    "note": "Diad sakey a mundon apalsan “maung a tuloy,” linmoob so kasalanan tan aputot toy pisanaan na Dios tan katoowan.",
+    "events": [
+     "Pamalsa ed anemiran agew — “maung a tuloy”",
+     "Say too apalsa ed laraway Dios",
+     "Say inkapelag, tan inkipapaway ed Eden",
+     "Say unaan a sipan na maung a balita — “temeken na anak na bii so olo na uleg”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (say Delap)",
+    "book": "Genesis 6–9",
+    "today": "Palandey Ararat, bukig na Turkia natan",
+    "note": "Uukomen na Dios so mundon napno na kasalanan, balet pansiansiaen toy bilay diad panamegley na saksakey a pamilya.",
+    "events": [
+     "Sakey a mundon napno na kaugsan",
+     "Say delap, tan say biong nen Noe",
+     "Say sipanan na bullalong — “anggapo lay delap a manderal lamet”"
+    ]
+   },
+   "babel": {
+    "name": "Tori na Babel",
+    "book": "Genesis 11",
+    "today": "Iraq natan (patar na Sinar)",
+    "note": "Sumpad inkapaatagey a manaanap ed tawen, iwarak na Dios so salita ra tan saray totoo ed interon dalin.",
+    "events": [
+     "“Mangipaalagey itayoy syudad tan tori… tan manggaway ngaran tayo”",
+     "Ginulo na Dios so salita ra",
+     "Niwarak iray totoo ed interon dalin (Sinar — say Babilonia ed saginonor)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesis 12",
+    "today": "abalaten na Iraq natan",
+    "note": "Say istorya na kilalaban ed Biblia et onggapo ed pantawag ed saksakey a laki.",
+    "events": [
+     "Tinawag na Dios si Abram a paway ed Ur na saray Caldeo",
+     "“Pagmaliwen ta kan sakey a baleg a bansa… nabindisionan so amin a totoo diad panamegley mo”",
+     "Diad pananisia tinaynan toy sarili ton dalin"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Genesis 12",
+    "today": "abalaten na Turkia natan",
+    "note": "Diad dalan, oonuren toy tawag ya onlad insipan a dalin.",
+    "events": [
+     "Nanayam so pamilya nen Tera ed Haran",
+     "Inatey si Tera",
+     "Nen 75 lay taon to, tinmaynan si Abram ya onlad Canaan"
+    ]
+   },
+   "shechem": {
+    "name": "Sikem · Canaan",
+    "book": "Genesis 12–50",
+    "today": "Nablus natan",
+    "note": "Diad insipan a dalin, ahormaan so sakey a pamilya tan niyakar so sipanan ed saray onsublay a kailalakan.",
+    "events": [
+     "Inloob ed Canaan, unaan ya altar — “iter kod saray ilalak mo yan dalin”",
+     "Say sipanan (Gen 15) · Isaac · Jacob",
+     "Say samploran duaran anak nen Jacob — lamot na samploran duaran tribu"
+    ]
+   },
+   "egypt": {
+    "name": "Egipto (Gosen)",
+    "book": "Genesis 37–50 · Exodo 1",
+    "today": "Delta na Nilo, Egipto natan",
+    "note": "Say sakey a pamilya nagmaliw a baleg a bansa — insan sakey a bansa na saray aripen.",
+    "events": [
+     "Si Jose, ya inlako, inmatagey a nanuley ed Egipto",
+     "Say interon pamilya nen Jacob linmasur pian makapaliktar ed eras",
+     "Say onababaleg a bansa na Israel et ginawan aripen"
+    ]
+   },
+   "sinai": {
+    "name": "Palandey Sinai",
+    "book": "Exodo · Levitico",
+    "today": "say Peninsula na Sinai natan",
+    "note": "Say sentral a kilalaban ed Daan a Sipanan — saray aripen nagmaliw a dilin baley na Dios.",
+    "events": [
+     "Say samploran salot tan say kordiron Paskua",
+     "Abelsay so Ambalangan Dayat tan binmaliw ira",
+     "Say Samploran Ganggan, say Ganggan, say tabernakulo, tan saray bagat"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (kalawakan)",
+    "book": "Numeros · Deuteronomio",
+    "today": "say kalawakan na Sinai–Negev natan",
+    "note": "Lapud ag-panisia, abalang na sakey a henerasyon so dalin — balet siansian akiib so Dios ed sikara.",
+    "events": [
+     "Samploran duaran espiya — balet ag mananisia iray totoo",
+     "38 a taon ed kalawakan — manna, lurem, tan apoy",
+     "Diad patar na Moab, say sankaonuran a pulong nen Moises (Deuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Josue",
+    "today": "Jerico natan",
+    "note": "Diad kaonuran, inloob tan asakop day insipan a dalin.",
+    "events": [
+     "Abelsay so Jordan tan binmaliw iray totoo",
+     "Apelag iray padir na Jerico",
+     "Say pananakop ed Canaan tan say inkiapag na dalin"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Saray Huis)",
+    "book": "Huis · Rut",
+    "today": "Khirbet Seilun natan",
+    "note": "Lapud anggapoy ari, ginawa na balang sakey so labay to — nakaukolan so tuan ari.",
+    "events": [
+     "Impaalagey so tabernakulo ed Silo",
+     "Say inuulit ya panagkuli na kasalanan–panamaolop–kilalaban (Debora, Gideon, Samson)",
+     "Rut — katooran diad ambilonget iran agew, ed boleg nen David"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Nankakasakey a Panarian",
+    "book": "1–2 Samuel · Saray Arari",
+    "today": "Jerusalem natan",
+    "note": "Say balitong a panaon na Israel — tan say sipan na andi-anggaan ya ari.",
+    "events": [
+     "Si Saul ya unaan ya ari, insan si David tan si Goliat",
+     "Say sipanan ed si David — “mansiansia lawas so trono mo” (2 Samuel 7)",
+     "Impaalagey nen Solomon so templo ed Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Abiang a Panarian",
+    "book": "Saray Arari · Saray Propita",
+    "today": "Sebastia natan",
+    "note": "Nabiang so panarian tan onleleksab legan ya onaakis iray propita.",
+    "events": [
+     "Kayari nen Solomon, abiang ed Juda tan Israel",
+     "Inuulit-ulit ya idolatriya",
+     "Onaakis si Elias, Isaias, Jeremias na “ompawil kayo” — tan ipasakbay day Mesias"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "2 Saray Arari 17 · Jonas",
+    "today": "Mosul, Iraq natan",
+    "note": "Lapud ag da inkaskaso so amin a pasakbay, say amianen so unaan a napelag.",
+    "events": [
+     "Ninive, say kapitolyo na Asiria",
+     "Say amianen a panarian apelag ed Asiria (722 antis na Cristo)",
+     "Imbaki si Jonas ed Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilonia",
+    "book": "2 Saray Arari 25 · Daniel · Ezekiel",
+    "today": "Hillah, Iraq natan",
+    "note": "Say sankabilongetan a labi — balet mansiansia so sipan na kipawil.",
+    "events": [
+     "Napelag so Jerusalem, apoolan so templo (586 antis na Cristo)",
+     "Naawit so Juda ed Babilonia",
+     "Daniel tan Ezekiel — pananisia tan saray pasingawey ed inkapriso"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Ester · Nehemias",
+    "today": "Shush, Iran natan",
+    "note": "Anggan diad puso na sakey a paganon empiryo, aasikasoen na Dios so baley to.",
+    "events": [
+     "Tinalo na Persia so Babilonia",
+     "Inlaban nen Ester iray Judio ed inkaderal",
+     "Nampikasi si Nehemias ed arap na ari tan imbaki"
+    ]
+   },
+   "return": {
+    "name": "Isempet ed Jerusalem",
+    "book": "Esdras · Nehemias · Malaquias",
+    "today": "Jerusalem natan",
+    "note": "Onsempet ira tan ipaalagey da lamet — balet anggapo niy ari a sinmabi. Manaalagar iray Mesias.",
+    "events": [
+     "Taloran daluyon na isempet unung ed ganggan nen Ciro (Zerubabel 538 · Esdras 458 · Nehemias 444)",
+     "Impaalagey lamet so templo tan inyoli iray padir na Jerusalem",
+     "Malaquias — sinampotan toy Daan a Sipanan: “Paonlaen koy ibabakik”"
+    ]
+   }
+  },
+  "labels": [
+   "Dayat Mediteraneo",
+   "Mesopotamia",
+   "Disyerto na Arabia",
+   "Egipto"
+  ],
+  "journeys": {
+   "flow": "Say istorya na kilalaban"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mateo 1–2 · Lucas 2",
+    "today": "Betlehem natan",
+    "note": "Say insipan a Mesias sinmabi ed baley nen David — say Salita a nagmaliw a too.",
+    "events": [
+     "Inyanak ed Betlehem, say baley nen David",
+     "Impakabat na saray anghel so balita ed saray managpastol",
+     "Sinmabi iray mago pian mandayew"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lucas 2 · 4",
+    "today": "Nazaret natan",
+    "note": "Say Dios binmaleg bilang too diad sakey a kaslakan a baley.",
+    "events": [
+     "Binmaleg ed abung na sakey a karpintero",
+     "Nen labindua, mantetepet tan oneebat ed templo",
+     "Nen saginonor, sikatoy impulisay ed sinagoga na baley to"
+    ]
+   },
+   "jordan": {
+    "name": "Ilog Jordan",
+    "book": "Mateo 3–4",
+    "today": "say leksab a Jordan natan",
+    "note": "Onggapo so kimey to ed publiko — pineknekan na tawen a sikato so Anak.",
+    "events": [
+     "Binyagan nen Juan",
+     "Say Ispiritu linmasur a singa malapati — “Saya so inararok ya Anak”",
+     "Tinalo toy taloran tukso nen Satanas ed kalawakan"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "Juan 2",
+    "today": "Kafr Kanna natan",
+    "note": "Diad unaan a tanda to impanengneng toy kagalangan to.",
+    "events": [
+     "Sakey a bisita ed kasal",
+     "Say danum apagmaliw a alak — say unaan a tanda to",
+     "Anisia ed sikato iray disipulo to"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Juan 2–4",
+    "today": "asingger ed Nablus natan",
+    "note": "Say dalan na inmunan kimey — diad panamegley na Jerusalem tan anggad nabalbalaw a Samaria.",
+    "events": [
+     "Linisan toy templo ed Jerusalem",
+     "Diad labi, si Nicodemo — “Nakaukolan a niyanak kayo lamet”",
+     "Mabilay a danum parad sakey a biin Samaritana"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Mateo 4–13 · Marcos 1–4",
+    "today": "say gilig na dayat na Galilea natan",
+    "note": "Say sentro na kimey ed Galilea — say pantawag, panagbangat, tan panusumpa et amin dia nantatagbo.",
+    "events": [
+     "Tinawag toy saray sumisigay tan diad saya nanayam",
+     "Say Pulong ed Palandey — “Maliket iray mairap ed espiritu”",
+     "Saray parabolo na panarian — tan say ombabaleg a panusumpa"
+    ]
+   },
+   "galilee": {
+    "name": "Dayat na Galilea",
+    "book": "Marcos 4 · 6 · Juan 6",
+    "today": "Dayat Kinneret natan",
+    "note": "Diad pakayari to ed kalikasan impanengneng to no siopa a talaga.",
+    "events": [
+     "“Mareen ka!” — pinareen toy bagyo",
+     "Pinakan toy 5,000 diad limaran tinapay tan duaran sira",
+     "Nanakar ed tapew na danum"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea Filipos",
+    "book": "Mateo 16–17",
+    "today": "Banias natan",
+    "note": "Natalusan na saray disipulo a sikato so Cristo, tan nilukasan so dalan na krus.",
+    "events": [
+     "Say impangipatua nen Pedro — “Sika so Cristo, say Anak na mabilay a Dios”",
+     "Unaan ton impasakbay so patey tan kioli to",
+     "Nanuman so itsura to diad kagalangan ed palandey"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Lucas 18–19",
+    "today": "Jerico natan",
+    "note": "Diad dalan ya onlad Jerusalem, aanapen toy abalang.",
+    "events": [
+     "Ginawa ton makanengneng so bulag a Bartimeo",
+     "Tinawag toy managsingil na buis a Zaqueo",
+     "“Say Anak na Too linma pian anapen tan ilaban to ramay abalang”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Juan 11–12",
+    "today": "al-Eizariya natan",
+    "note": "Impanengneng toy pakayari to ed patey diad asingger lay sankaonuran a simba to.",
+    "events": [
+     "Pinaoli toy Lazaro ed lubok — “Siak so kioli tan say bilay”",
+     "Linanaan nen Maria parad ponpon to",
+     "Lapud sayan tanda binmiskeg so plano a mamatey ed sikato"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mateo 21–28 · Lucas 24 · Saray Gawgawa 1",
+    "today": "Jerusalem natan",
+    "note": "Say sankatageyan a punto ya tuturoen na interon Biblia — krus, kioli, inkayatagey.",
+    "events": [
+     "Say madayew ya iloob; binaliktad to lamet iray lamisaan ed templo",
+     "Diad Sankaonuran a Pangan inurasan toy sali na saray disipulo",
+     "Inatey ed krus",
+     "Inmoli ed komatlon agew, insan inmatagey ed tawen"
+    ]
+   }
+  },
+  "labels": [
+   "Dayat Mediteraneo",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Decapolis",
+   "Perea",
+   "Inatey a Dayat"
+  ],
+  "journeys": {
+   "life": "Say dalan nen Jesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioquia",
+    "book": "Saray Gawgawa 13 · 15",
+    "today": "Antakya, Turkia natan",
+    "note": "Say mangibaki ya iglesia ya angigapoan tan sempetan na misyon ed saray Hentil.",
+    "events": [
+     "Legan na pikakasi, imbiig na Ispiritu si Bernabe tan Saulo",
+     "Say iglesia ya ditan unaan a tinawag a “Cristiano” iray mananisia",
+     "Say pangigapoan na unaan, komadua, tan komatlon biahe"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Saray Gawgawa 13:4",
+    "today": "Turkia natan",
+    "note": "Say duongan na Antioquia — linmayag ira ya onlad Chipre.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamina (Chipre)",
+    "book": "Saray Gawgawa 13:5",
+    "today": "Chipre natan",
+    "note": "Unaan a nampundoan ed Chipre — nampupulong ed saray sinagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Saray Gawgawa 13:6-12",
+    "today": "Chipre natan",
+    "note": "Nipanengneng so pakayari sumpad saramay onsusumpa ed maung a balita.",
+    "events": [
+     "Abulag so managsalamangka a Elimas",
+     "Anisia so gobernador a Sergio Paulo",
+     "Manlapud dia, si “Pablo” lay nanguna"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Saray Gawgawa 13:13",
+    "today": "Antalya, Turkia natan",
+    "note": "Sakey a duongan ed Pamfilia — dia tinmaynan tan pinmawil si Juan Marcos.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioquia na Pisidia",
+    "book": "Saray Gawgawa 13:14-50",
+    "today": "Yalvaç, Turkia natan",
+    "note": "Nilukasan so maung a balita ya onlad saray Hentil.",
+    "events": [
+     "Sakey ya andukey a pulong nipaakar ed istorya na kilalaban ed sinagoga",
+     "Dakel a Hentil so nanliket tan inawat day salita",
+     "Pinapaway ira lapud panusumpa"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Saray Gawgawa 14:1-7",
+    "today": "Konya, Turkia natan",
+    "note": "Dakel so anisia, balet say panamasegsegang so amaalis ed sikara.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Saray Gawgawa 14:8-20",
+    "today": "Turkia natan",
+    "note": "Nidayew a singa dios, insan binato.",
+    "events": [
+     "Pinaabig toy sakey a lakin pilay nanlapud inkianak to",
+     "Say ulop labay dan bagatan ira bilang dios",
+     "Binato tan tinaynan a singa inatey, balet binmangon"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Saray Gawgawa 14:20-21",
+    "today": "Turkia natan",
+    "note": "Dakel a disipulo so nagawa; pinmawil ira ed dinalan da pian pabiskegen iray iglesia.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Saray Gawgawa 16:8-10",
+    "today": "Turkia natan",
+    "note": "Say pasen na panguman ya ditan unaan ya inmarap ed Europa so maung a balita.",
+    "events": [
+     "Sakey a pasingawey na sakey a laki na Macedonia",
+     "“Ondago ka dia ed Macedonia tan tulongan mo kami”",
+     "Tampol iran binmaliw ed Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipos",
+    "book": "Saray Gawgawa 16 · Taga Filipos",
+    "today": "amianen na Grecia natan",
+    "note": "Say unaan ya iglesia ed Europa — analo so maung a balita anggan diad loob na priso.",
+    "events": [
+     "Si Lidia, sakey a manlalako na purpuran abel, anisia",
+     "Say sakey ya aripen a bii a managhula so nibulos",
+     "Saray himno ed pegley-labi, sakey a yegyeg na dalin, nilaban so sankaabungan na guardia na priso"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonica",
+    "book": "Saray Gawgawa 17 · 1–2 Tesalonica",
+    "today": "Thessaloniki, Grecia natan",
+    "note": "Payegyegen na salita so syudad tan onsager so panusumpa.",
+    "events": [
+     "Nankatunungan ed sinagoga diad taloran Sabado",
+     "“Sarayan totoo ya angibaliktad ed interon mundo”",
+     "Tinmakas ira diad labi"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Saray Gawgawa 17:10-15",
+    "today": "Veria, Grecia natan",
+    "note": "Saramay “marlang” a totoon mismon inusisa day salita.",
+    "events": [
+     "Inawat day salita a masimoon",
+     "Inagew-agew a sinukimat day Masanton Sulat pian anengneng no tua",
+     "Dakel so anisia"
+    ]
+   },
+   "athens": {
+    "name": "Atenas",
+    "book": "Saray Gawgawa 17:16-34",
+    "today": "Atenas, Grecia natan",
+    "note": "Diad syudad na saray pilosopo impulong toy “ag-kabat a dios.”",
+    "events": [
+     "Agonigon ed sakey a syudad a napno na saray idolo",
+     "Diad Areopago impulong toy Manamalsa tan say kioli",
+     "Nielek-elekan, balet pigara so anisia"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Saray Gawgawa 18 · 1–2 Corinto",
+    "today": "Grecia natan",
+    "note": "Nanayam na sakey taon tan kapaldua, nantanem na iglesia ed sakey a syudad na kaugsan.",
+    "events": [
+     "Nanggaway tolda kaiba nen Aquila tan Priscila",
+     "“Ag ka natatakot… ta kaiba ta ka”",
+     "Dakel a taga-Corinto so anisia tan abinyagan"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Saray Gawgawa 19 · Taga-Efeso",
+    "today": "Selçuk, Turkia natan",
+    "note": "Puso na komatlon biahe — nikayat so salita ed interon Asia.",
+    "events": [
+     "Inagew-agew a panagbangat na duaran taon ed pasen na panagbangat nen Tirano",
+     "Apoolan iray libro na salamangka; makapanyari iran gawa",
+     "Say platero a Demetrio so angigapoy gulo"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Saray Gawgawa 20:17-38",
+    "today": "Turkia natan",
+    "note": "Sakey a maakis a panagsian ed saray mamatatken na iglesia ed Efeso.",
+    "events": [
+     "“Asikasoen yoy iglesia ya sinaliw to ed dili ton dala”",
+     "Nannangis iray mamatatken, ta amta dan ag da la sikato nanengneng lamet"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Saray Gawgawa 23–26",
+    "today": "say gilig na dayat na Israel natan",
+    "note": "Diad loob na duaran taon indepensa toy maung a balita ed arap na saray gobernador tan sakey ya ari.",
+    "events": [
+     "Saray paukom ed arap na saray gobernador a Felix tan Festo",
+     "Say depensa to ed arap nen Arin Agripa",
+     "“Onapela ak ed Cesar” — onla ed Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Saray Gawgawa 21–23",
+    "today": "Jerusalem natan",
+    "note": "Dinakep diad templo, onggapo so dalan to bilang priso.",
+    "events": [
+     "Dinakep na ulop ed templo",
+     "Indepensa toy sarili to ed arap na konseho",
+     "Bilang mibabaley na Roma, imbaki ya abantayan ya onlad Cesarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Saray Gawgawa 27:5-6",
+    "today": "Demre, Turkia natan",
+    "note": "Nanalis irad sakey a barko na Alejandria ya onlad Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Mararakep a Duongan (Creta)",
+    "book": "Saray Gawgawa 27:8-12",
+    "today": "Creta natan",
+    "note": "Say pasakbay nen Pablo ya itunda so panaglayag et ag da dinengel.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tito",
+    "today": "Creta natan",
+    "note": "Kayari inkibulos to, say isla ya ditan tinaynan toy Tito pian iyareglo iray iglesia.",
+    "events": [
+     "Tinaynan toy Tito pian manuro na mamatatken ed kada baley",
+     "Kinerew toy andiay-pakabalawan tan matoor iran lider",
+     "Insulat toy sulat ed si Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Saray Gawgawa 27–28",
+    "today": "Malta natan",
+    "note": "Anggaman say bagyo tan inkalner na barko, mansiansia so sipan na Dios.",
+    "events": [
+     "Say bagyo a nanlapud amianen-bukig a dagem so amaderal ed barko, balet amin ya 276 so akaliktar",
+     "Akaketket na masamal ya uleg, balet ag asakitan",
+     "Pinaabig toy saray mansasakit ed isla"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Saray Gawgawa 28:12",
+    "today": "Sicilia, Italia natan",
+    "note": "Nampundo ira na taloran agew ed Sicilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Saray Gawgawa 28:13-14",
+    "today": "Pozzuoli, Italia natan",
+    "note": "Dinmapo irad Italia tan sinabat ira na saray kaparan mananisia.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Saray Gawgawa 28 · Saray Sulat ed Priso · 2 Timoteo",
+    "today": "Roma, Italia natan",
+    "note": "Diad kaonuran sinmabi so maung a balita ed puso na empiryo — aliwan anggaan noagta sakey a gapo.",
+    "events": [
+     "Duaran taon ya akapriso ed abung, makpel ya impupulong toy panarian",
+     "Manlapud dia insulat to ray Sulat ed Priso (Taga-Efeso·Taga Filipos·Colosas·Filemon)",
+     "Nen saginonor apriso lamet, insulat toy 2 Timoteo tan inatey bilang martir — “Akilaban ak ed maung a laban, sinumpal koy batik”"
+    ]
+   }
+  },
+  "labels": [
+   "Dayat Mediteraneo",
+   "Dayat Egeo",
+   "Asia Minor",
+   "Macedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Unaan a biahe",
+   "j2": "Komadua a biahe",
+   "j3": "Komatlo a biahe",
+   "rome": "Komapat a biahe · onlad Roma",
+   "j5": "Komalima a biahe · kayari inkibulos"
+  }
+ }
+}
