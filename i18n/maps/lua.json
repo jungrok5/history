@@ -1,0 +1,636 @@
+{
+ "menuName": "Tshiluba",
+ "htmlLang": "lua",
+ "dir": "ltr",
+ "locale": "lua",
+ "brand": "Bible mu Muvungu Umue",
+ "docTitle": "Bible ku Kaadi ka Buloba · Bible mu Muvungu Umue",
+ "metaDesc": "Landa tshikondo tshia Dipungilu Dikulukulu, muoyo wa Yesu, ne ngendu ya Paulo pa kaadi ka buloba ka bushuwa — Bible wakenzeka mu miaba ya bushuwa.",
+ "s": {
+  "kicker": "Bible mu Muvungu Umue · Makaadi a Buloba",
+  "title": "Bible ku Kaadi ka Buloba",
+  "verse": "“Bualu bua tuetu katuakalonda nsumuinu yakambabo ku budimu bua bantu hatuakanumanyisha bua bukole ne bua dilua bia Mukelenge wetu Yesu Kilisto, kadi tuetu tuakadi bamonyi ba butumbi buandi ku mesu etu.” (2 Petelo 1:16)",
+  "purpose": "Bible ki ndipambuka to. Mmukanda wa malu a bantu bakendakana mu miaba ya bushuwa, mu matuku ne mena a bushuwa. Landa njila eyi pa kaadi ka buloba, mu bulongame bua matuku — pesa ku tshikoji, anyi ofila ▶ bua kwendela mu muyuki mutalu ku mutalu.",
+  "ot_kick": "① Dipungilu Dikulukulu — munkatshi mua matuku",
+  "ot_h": "Kubangila ku difuka too ne ku dipingana ku Yelushalema",
+  "ot_lead": "Ki ngendu umue to, kadi diendela dia muyuki wa lusungu kubangila ku difuka: difuka ne dipona → mvula munene ne Babele → dibikila (Abalahama) → buloba buvua bulaya → Dipatuka → tshihela → dikuata → bukelenge → butshibuka → bupika → dipingana.",
+  "je_kick": "② Dipungilu Dihia — muoyo wa Yesu",
+  "je_h": "Kubangila ku Beteleheme too ne ku Yelushalema",
+  "je_lead": "Landa muoyo wa Yesu bu mudi Malumu Luimpe amba, mu bulongame — kubangila ku diledibua diandi mu Beteleheme, kupitshila ku dibatijibua diandi ne mudimu wa mu Galela, kupitshila mu Samalea, too ne ku mutshi mutshiamakane, dibika ne dibanda ku diulu mu Yelushalema.",
+  "pa_kick": "③ Dipungilu Dihia — ngendu ya Paulo",
+  "pa_h": "Kubangila ku Antiokia too ne ku mfudilu kua buloba — Lomo",
+  "pa_lead": "Kubangila ku Pentekoste mu Yelushalema, mushindu uvua lumu luimpe lutangalaka kupita Yudaya — kupitshila mu Asia Mukese ne Elopa too ne ku tshia ku mutshima tshia bukokeshi. Sungula ngendu umue wa ku itanu (wa 1·wa 2·wa 3 + ngendu ku Lomo + kunyima kua kuhandulula) ne landa malu a mu Bienzedi ne mikanda yakafundibua mu njila.",
+  "foot": "Bimfuminu · Miaba idi ilonda mêyi a Bible ne jeografi wa Bible (ne mena a lelu muaba udi akuatshisha). Mikalu ya mbuu, misulu ne dishiba bidi bifumina ku malu a jeografi apatuka patoke (Natural Earth), mimpepejibue.",
+  "contact": "Nkonko · ngondo — <a id=\"contact\" class=\"mail\">Tutumine mukanda</a>",
+  "play": "Enda",
+  "pause": "Imana",
+  "today": "Lelu:",
+  "verseCite": "2 Petelo 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edene (Difuka · Dipona)",
+    "book": "Genese 1–3",
+    "today": "tshitunga tshia misulu Tigilise ne Efalate lelu",
+    "note": "Mu buloba buvua bufukibue buimpe bikole, bubi budi bubuela ne budi butshibula diumvuangana dia Nzambi ne bantu.",
+    "events": [
+     "Difuka mu matuku asamba — “buimpe bikole”",
+     "Muntu mufuka mu tshimfuanyi tshia Nzambi",
+     "Dipona, ne dihatudibua mu Edene",
+     "Mulayi wa kumpala wa lumu luimpe — “muana wa mukashi neakume ku mutu kua nyoka”"
+    ]
+   },
+   "noah": {
+    "name": "Alalata (Mvula Munene)",
+    "book": "Genese 6–9",
+    "today": "Mukuna wa Alalata, ku esete kua Tuluki lelu",
+    "note": "Nzambi udi ulumbuluisha buloba buule tente ne bubi, kadi udi ulama muoyo ku dîku dimue.",
+    "events": [
+     "Buloba buule tente ne bubi",
+     "Mvula Munene, ne buatu bua Noa",
+     "Tshipungidi tshia muanzankongolo — “mvula kayipu kubutula kabidi”"
+    ]
+   },
+   "babel": {
+    "name": "Tshibumba tshia Babele",
+    "book": "Genese 11",
+    "today": "Iraki lelu (mpata wa Shinâ)",
+    "note": "Ku didisua didi difika ku diulu, Nzambi udi usankakaja miakulu yabo ne bantu ha buloba buonso.",
+    "events": [
+     "“Tuyai kuasa musoko ne tshibumba tshile… tuikale ne dina dia butumbi”",
+     "Nzambi udi usankakaja miakulu yabo",
+     "Bantu badi batangalaka ha buloba (Shinâ — pashishe Babulona)"
+    ]
+   },
+   "ur": {
+    "name": "Ula",
+    "book": "Genese 12",
+    "today": "ku sud kua Iraki lelu",
+    "note": "Muyuki wa lusungu wa Bible udi ubangila ne dibikila dia muntu umue.",
+    "events": [
+     "Nzambi udi ubikila Abalama ku Ula wa Kasada",
+     "“Nenkuvuishe tshisamba tshinene… Bisamba bionso nebisanke bua bualu buebe”",
+     "Ku ditabuja udi ushiya buloba buabo"
+    ]
+   },
+   "haran": {
+    "name": "Halana",
+    "book": "Genese 12",
+    "today": "ku sud kua Tuluki lelu",
+    "note": "Mu njila, wandamuna dibikila kuya ku buloba buvua bulaya.",
+    "events": [
+     "Dîku dia Tela didi dishikama ku Halana",
+     "Tela udi ufua",
+     "Abalama udi uya ku Kanana ne bidimu 75"
+    ]
+   },
+   "shechem": {
+    "name": "Shekeme · Kanana",
+    "book": "Genese 12–50",
+    "today": "Nabulusa lelu",
+    "note": "Mu buloba buvua bulaya dîku didi dijadikibua ne tshipungidi tshidi tshipita ku bikondo ne bikondo.",
+    "events": [
+     "Dibuela mu Kanana, tshioshelu tshia kumpala — “Nempe tunkanunuina biebe buloba ebu”",
+     "Tshipungidi (Gen 15) · Isaka · Yakoba",
+     "Bana dikumi ne babidi ba Yakoba — muji wa bisa dikumi ne bibidi"
+    ]
+   },
+   "egypt": {
+    "name": "Ejipitu (Goshene)",
+    "book": "Genese 37–50 · Ekisode 1",
+    "today": "ku Delta wa Nile, Ejipitu lelu",
+    "note": "Dîku didi dilua tshisamba tshinene — pashishe tshisamba tshia bahika.",
+    "events": [
+     "Yosefe, mupanyibua, udi ubanda mu bukokeshi mu Ejipitu",
+     "Dîku dijima dia Yakoba didi dipuekela bua kunyema nzala",
+     "Tshisamba tshia Isalele tshidi tshivula tshidi tshivuishibua bahika"
+    ]
+   },
+   "sinai": {
+    "name": "Mukuna wa Sinai",
+    "book": "Ekisode · Lewitiki",
+    "today": "Tshitupa tshia Sinai lelu",
+    "note": "Lusungu lunene lua Dipungilu Dikulukulu — bahika badi balua bantu ba Nzambi.",
+    "events": [
+     "Bipupu dikumi ne muana wa mukoko wa Pasaka",
+     "Mbuu Mukunze udi utabuluka, badi basabuka",
+     "Mikenshi dikumi, Mikenshi, ntenta wa dikumbi ne milambu"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesha (tshihela)",
+    "book": "Nomba · Dutelonome",
+    "today": "tshihela tshia Sinai–Negebe lelu",
+    "note": "Dibenga ditabuja didi dijimija tshikondo tshimue buloba — kadi Nzambi udi ushala nabo.",
+    "events": [
+     "Batentekedi dikumi ne babidi — kadi bantu badi babenga kuitabuja",
+     "Bidimu 38 mu tshihela — mana, ditu ne kapia",
+     "Mu mpata ya Moaba, muyuki wa ndekelu wa Mose (Dutelonome)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeliko",
+    "book": "Yoshua",
+    "today": "Yeliko lelu",
+    "note": "Ku ndekelu badi babuela ne bakuata buloba buvua bulaya.",
+    "events": [
+     "Musulu wa Yadene udi utabuluka, bantu badi basabuka",
+     "Bimanu bia Yeliko bidi bipona",
+     "Dikuata dia Kanana ne dikaba dia buloba"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Balumbuluishi)",
+    "book": "Balumbuluishi · Luta",
+    "today": "Khirbet Seilun lelu",
+    "note": "Pavuabo kabayi ne mukelenge, muntu yonso udi wenza muvuaye musue — mukelenge mulelela udi ne bua kulua.",
+    "events": [
+     "Ntenta wa dikumbi udi utekibua ku Shilo",
+     "Tshilengelu tshia bubi–dikenga–lusungu (Debola, Gideona, Sansona)",
+     "Luta — lulamatu mu matuku a mîdima, mu dîku dia Davidi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yelushalema · Bukelenge Buvuangane",
+    "book": "1–2 Samuele · 1 Bakelenge",
+    "today": "Yelushalema lelu",
+    "note": "Tshikondo tshimpe tshia Isalele — ne mulayi wa mukelenge wa tshiendelele.",
+    "events": [
+     "Shaulu mukelenge wa kumpala, pashishe Davidi ne Goliata",
+     "Tshipungidi tshia Davidi — “nkuasa webe tshiendelele” (2 Samuele 7)",
+     "Solomo udi wibaka ntempelo mu Yelushalema"
+    ]
+   },
+   "samaria": {
+    "name": "Samalea · Bukelenge Buvuatshibuka",
+    "book": "Bakelenge · Baprofete",
+    "today": "Sebastia lelu",
+    "note": "Bukelenge budi butshibuka ne budi bupuekela pavua baprofete bela lubila.",
+    "events": [
+     "Kunyima kua Solomo, butshibuka mu Yuda ne Isalele",
+     "Dishuena mpingu misangu ne misangu",
+     "Eliya, Yeshaya, Yelemiya badi bela ne, ‘pinganai’ — ne badi bamba bua Masiya"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninewe (Ashulu)",
+    "book": "2 Bakelenge 17 · Yona",
+    "today": "Mosul, Iraki lelu",
+    "note": "Bapua didimuija dionso mutu, nord udi upona kumpala.",
+    "events": [
+     "Ninewe, tshimenga tshinene tshia Ashulu",
+     "Bukelenge bua nord budi bupona kudi Ashulu (722 KKY)",
+     "Yona udi utumibua ku Ninewe"
+    ]
+   },
+   "babylon": {
+    "name": "Babulona",
+    "book": "2 Bakelenge 25 · Danyele · Ezekiele",
+    "today": "Hila, Iraki lelu",
+    "note": "Butuku bukole kupita yonso — kadi mulayi wa dilongolodibua udi ushala.",
+    "events": [
+     "Yelushalema udi upona, ntempelo udi uhia (586 KKY)",
+     "Yuda udi uhangibua ku Babulona",
+     "Danyele ne Ezekiele — ditabuja ne bikena bia Nzambi mu bupika"
+    ]
+   },
+   "susa": {
+    "name": "Shushana (Pelesia)",
+    "book": "Esetê · Nehemiya",
+    "today": "Shush, Irani lelu",
+    "note": "Nansha ku tshia ku mutshima tshia bukokeshi bua bena mpingu, Nzambi udi ulama bantu bandi.",
+    "events": [
+     "Pelesia udi utshimuna Babulona",
+     "Estere udi usungila Bena Yuda ku dibutudibua",
+     "Nehemiya udi usambila ku mpala kua mukelenge, udi utumibua"
+    ]
+   },
+   "return": {
+    "name": "Dipingana ku Yelushalema",
+    "book": "Ezela · Nehemiya · Malaki",
+    "today": "Yelushalema lelu",
+    "note": "Badi bapingana ne wibaka kabidi — kadi kakuena mukelenge mulue. Badi bindila Masiya.",
+    "events": [
+     "Tubita tusatu tua dipingana ku dîyi dia Kulosa (Zelubabele 538 · Esela 458 · Nehemiya 444)",
+     "Ntempelo mwibakibue kabidi ne bimanu bia Yelushalema bilongolobue",
+     "Malaki — Dipungilu Dikulukulu didi dijika: “ndi ntuma messager wanyi”"
+    ]
+   }
+  },
+  "labels": [
+   "Mbuu wa Mediterane",
+   "Mezopotamia",
+   "Tshihela tshia Alabia",
+   "Ejipitu"
+  ],
+  "journeys": {
+   "flow": "Muyuki wa lusungu"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Beteleheme",
+    "book": "Matayo 1–2 · Luka 2",
+    "today": "Beteleheme lelu",
+    "note": "Masiya muvuabo balaya udi ulua ku musoko wa Davidi — “Dî diakakudimuka muntu”.",
+    "events": [
+     "Muledibue mu Beteleheme, musoko wa Davidi",
+     "Banjelu badi bamanyisha balami ba mikoko lumu",
+     "Bena Meshi badi balua kutendelela"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaleta",
+    "book": "Luka 2 · 4",
+    "today": "Nazaleta lelu",
+    "note": "Nzambi udi ukola bu muntu mu musoko wa tshianana.",
+    "events": [
+     "Mukoleshibue mu nzubu wa muena mudimu wa mabaya",
+     "Ne bidimu dikumi ne bibidi, ukonka ne wandamuna mu ntempelo",
+     "Pashishe ubengibua mu nsunagoga wa musoko wabo"
+    ]
+   },
+   "jordan": {
+    "name": "Musulu wa Yadene",
+    "book": "Matayo 3–4",
+    "today": "musulu wa Yadene wa muinshi lelu",
+    "note": "Mudimu wandi wa patoke udi ubanga — diulu didi dimuleja bu Muana.",
+    "events": [
+     "Ubatijibua kudi Yone",
+     "Nyuma udi uhueka bu nkutshi — “Eu udi Muana wanyi munanga”",
+     "Udi utshimuna diteta disatu dia Satana mu tshihela"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yone 2",
+    "today": "Kafr Kanna lelu",
+    "note": "Mu tshishima tshiandi tshia kumpala udi uleja butumbi buandi.",
+    "events": [
+     "Muenyi ku dibaka",
+     "Mai akudimuka mvinyo — tshishima tshiandi tshia kumpala",
+     "Bayidi bandi badi bamuitabuja"
+    ]
+   },
+   "sychar": {
+    "name": "Suka (Samalea)",
+    "book": "Yone 2–4",
+    "today": "hehi ne Nabulusa lelu",
+    "note": "Njila wa mudimu wa kumpala — kupitshila mu Yelushalema too ne mu Samalea mupetulula.",
+    "events": [
+     "Udi ulengeja ntempelo mu Yelushalema",
+     "Butuku, Nikodemo — “udi ne bua kuledibua tshiakabidi”",
+     "Mai a muoyo bua mukashi wa mu Samalea"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapênuma",
+    "book": "Matayo 4–13 · Mâko 1–4",
+    "today": "ku muelelu wa dishiba dia Galela lelu",
+    "note": "Tshibangidilu tshia mudimu wa mu Galela — dibikila, dilongesha ne diluangana bidi bisangila muaba eu.",
+    "events": [
+     "Udi ubikila balobi ne udi usombela muaba eu",
+     "Muyuki wa ku mukuna — “Badi bahele mu mitshima yabo badi ne disanka”",
+     "Nsumuinu ya bukelenge — ne diluangana didi dibanda"
+    ]
+   },
+   "galilee": {
+    "name": "Dishiba dia Galela",
+    "book": "Mâko 4 · 6 · Yone 6",
+    "today": "Dishiba dia Kineleti lelu",
+    "note": "Ne bukole ha mutu pa bifukibua udi uleja udiye.",
+    "events": [
+     "“Hua, talala talalâ” — udi utalajija tshipupu",
+     "Udi udisha bantu 5.000 ne mampa atanu ne mishipa ibidi",
+     "Udi wenda ha mutu pa mai"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisalia wa Filipoi",
+    "book": "Matayo 16–17",
+    "today": "Baniasa lelu",
+    "note": "Bayidi badi bajingulula ne yeye ndiye Kilisto, ne njila wa mutshi mutshiamakane udi unzuluka.",
+    "events": [
+     "Ditabuja dia Petelo — “Wewe udi Kilisto, Muana wa Nzambi udi ne muoyo”",
+     "Udi wamba bua lufu ne dibika diandi tshia kumpala",
+     "Udi ushintuluka mu butumbi ha mukuna"
+    ]
+   },
+   "jericho": {
+    "name": "Yeliko",
+    "book": "Luka 18–19",
+    "today": "Yeliko lelu",
+    "note": "Mu njila wa kubanda ku Yelushalema, udi ukeba badi bajimine.",
+    "events": [
+     "Udi upesha Batimee mufofo dimona",
+     "Udi ubikila Zakê mufutshishi wa bitadi",
+     "“Muana wa muntu wakuluila bua kukeba ne bua kusungila tshidi tshijimine”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Yone 11–12",
+    "today": "al-Eizariya lelu",
+    "note": "Udi uleja bukole buandi ha mutu pa lufu ku mpala kua lumingu luandi lua ndekelu.",
+    "events": [
+     "Udi ubisha Lazalo mu lukita — “Meme ndi bianyi dibisha, ndi bianyi muoyo”",
+     "Malia udi umuela mafuta bua dijiibua diandi",
+     "Tshishima etshi tshidi tshikolesha meji a kumushipa"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yelushalema",
+    "book": "Matayo 21–28 · Luka 24 · Bienzedi 1",
+    "today": "Yelushalema lelu",
+    "note": "Tshikoji tshinene tshidi Bible mujima uleja — mutshi mutshiamakane, dibika, ne dibanda ku diulu.",
+    "events": [
+     "Dibuela dia butumbi; udi upiukula meza a mu ntempelo kabidi",
+     "Ku Didia dia Ndekelu udi wowa bayidi makasa",
+     "Udi ufuila ku mutshi mutshiamakane",
+     "Mubike ku dituku disatu, pashishe ubanda ku diulu"
+    ]
+   }
+  },
+  "labels": [
+   "Mbuu wa Mediterane",
+   "Galela",
+   "Samalea",
+   "Yudaya",
+   "Dekapoli",
+   "Pelea",
+   "Mbuu wa Lufu"
+  ],
+  "journeys": {
+   "life": "Njila wa Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Bienzedi 13 · 15",
+    "today": "Antakya, Tuluki lelu",
+    "note": "Ekeleziya wa ditumina, mudimu wa bisamba bia bende udi ubangila ne uhingana.",
+    "events": [
+     "Mu disambila, Nyuma udi utantulula Banaba ne Saulo",
+     "Ekeleziya mudibo babanga kubikila bayidi ne ‘Bena Kilisto’",
+     "Tshibangidilu tshia ngendu wa kumpala, wa kabidi ne wa kasatu"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Bienzedi 13:4",
+    "today": "Tuluki lelu",
+    "note": "Tshibuandilu tshia Antiokia — badi banangalakila ku Kupulio.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salami (Kupulio)",
+    "book": "Bienzedi 13:5",
+    "today": "Kupulio lelu",
+    "note": "Muaba wa kumpala mu Kupulio — diambila mu nsunagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Bienzedi 13:6-12",
+    "today": "Kupulio lelu",
+    "note": "Bukole budi buleshibua kudi badi baluisha lumu luimpe.",
+    "events": [
+     "Elima mutempeshanganyi wa mbuku udi ukituka mufofo",
+     "Segio Paulo nguvena udi witabuja",
+     "Kubangila apa dina ‘Paulo’ ndidi ditua kumpala"
+    ]
+   },
+   "perga": {
+    "name": "Pêge",
+    "book": "Bienzedi 13:13",
+    "today": "Antalya, Tuluki lelu",
+    "note": "Tshibuandilu mu Pampulia — muaba eu Yone Mâko udi uhingana.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia wa mu Pisidia",
+    "book": "Bienzedi 13:14-50",
+    "today": "Yalvaç, Tuluki lelu",
+    "note": "Lumu luimpe ludi lunzuluka kudi bisamba bia bende.",
+    "events": [
+     "Muyuki mule wa muyuki wa lusungu mu nsunagoga",
+     "Bisamba bia bende ba bungi badi basanka ne baitaba dî",
+     "Bahangibua kudi baluishi"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonio",
+    "book": "Bienzedi 14:1-7",
+    "today": "Konya, Tuluki lelu",
+    "note": "Ba bungi badi bitabuja, kadi dikengeshibua didi dibavuisha kuya kumpala.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Luseta",
+    "book": "Bienzedi 14:8-20",
+    "today": "Tuluki lelu",
+    "note": "Babikilabo bu nzambi, pashishe bamuasa mabue.",
+    "events": [
+     "Udi wondopa muntu wakadi tshilema kubangila ku diledibua",
+     "Tshisumbu tshia bantu tshidi tshikeba kubalambuila bu banzambi",
+     "Bamuasa mabue ne bamushiya bu mufue, kadi udi ujuka"
+    ]
+   },
+   "derbe": {
+    "name": "Dêbe",
+    "book": "Bienzedi 14:20-21",
+    "today": "Tuluki lelu",
+    "note": "Badi benza bayidi ba bungi; badi bapingana bua kukolesha ekeleziya.",
+    "events": []
+   },
+   "troas": {
+    "name": "Toa",
+    "book": "Bienzedi 16:8-10",
+    "today": "Tuluki lelu",
+    "note": "Muaba wa dishintuluka mudi lumu luimpe lubanga kuya ku Elopa.",
+    "events": [
+     "Tshikena tshia muntu wa ku Makedonia",
+     "“Lua biebe mu Makedonia, utukuatshishe”",
+     "Badi basabuka diakamue ku Elopa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipoi",
+    "book": "Bienzedi 16 · Filipoi",
+    "today": "ku nord kua Geleka lelu",
+    "note": "Ekeleziya wa kumpala wa Elopa — lumu luimpe ludi lutshimuna nansha mu buloko.",
+    "events": [
+     "Lidia, musumbishi wa bilamba bia mputa, udi witabuja",
+     "Muhika mukaji uvua umanya kutentekela udi uhanduludibua",
+     "Nyimbu ya munkatshi mua butuku, dikankamana dia buloba, dîku dia mulami wa buloko disungidibua"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonike",
+    "book": "Bienzedi 17 · 1–2 Tesalonike",
+    "today": "Tesaloniki, Geleka lelu",
+    "note": "Dî didi dinyunga musoko ne diluangana didi dibanda.",
+    "events": [
+     "Udi wakula mu nsunagoga matuku a Sabato asatu",
+     "“Bantu aba bakamana kutombuesha bonso ba ha buloba”",
+     "Badi baya butuku"
+    ]
+   },
+   "berea": {
+    "name": "Beloya",
+    "book": "Bienzedi 17:10-15",
+    "today": "Veria, Geleka lelu",
+    "note": "Bantu ba mitshima mimpe bakadikeba dî bobo nkayabo.",
+    "events": [
+     "Badi baitaba dî ne muoyo mumpe",
+     "Dituku dionso badi bakonkonona Mifundu bua kutentekela",
+     "Ba bungi badi bitabuja"
+    ]
+   },
+   "athens": {
+    "name": "Atena",
+    "book": "Bienzedi 17:16-34",
+    "today": "Atena, Geleka lelu",
+    "note": "Mu musoko wa bena meji, udi wambila bua ‘nzambi kayi mumanyike’.",
+    "events": [
+     "Mutshima wandi udi utata bua musoko muule tente ne mpingu",
+     "Ku Aleopago udi wambila bua Mufuki ne dibika dia bafue",
+     "Bamuseka, kadi bantu bakese badi bitabuja"
+    ]
+   },
+   "corinth": {
+    "name": "Kolinto",
+    "book": "Bienzedi 18 · 1–2 Kolinto",
+    "today": "Geleka lelu",
+    "note": "Udi ushala tshidimu ne tshitupa, ukunyina ekeleziya mu musoko wa masandi.",
+    "events": [
+     "Udi wenza ntenta ne Akula ne Pisila",
+     "Nzambi udi umukolesha — “meme udi nʼebe”",
+     "Bena Kolinto ba bungi badi bitabuja ne babatijibua"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Bienzedi 19 · Efeso",
+    "today": "Selçuk, Tuluki lelu",
+    "note": "Tshia ku mutshima tshia ngendu wa kasatu — dî didi ditangalaka mu Asia.",
+    "events": [
+     "Dilongesha dia matuku onso munkatshi mua bidimu bibidi mu nzubu wa Tulano",
+     "Mikanda ya manga yakuoshibua; midimu ya bukole",
+     "Demetleo mufudi wa arjenti udi ujula tshiyongolo"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Bienzedi 20:17-38",
+    "today": "Tuluki lelu",
+    "note": "Dishiya dia tshinyongolo ne bakulu ba Efeso.",
+    "events": [
+     "“Nudishe ekelesia wa Mukelenge wakasumbeye ku mashi andi”",
+     "Bakulu badi badila, bamanya ne kabakumumona kabidi"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisalia",
+    "book": "Bienzedi 23–26",
+    "today": "ku muelelu wa mbuu wa Isalele lelu",
+    "note": "Munkatshi mua bidimu bibidi udi wakuila lumu luimpe ku mpala kua nguvena ne mukelenge.",
+    "events": [
+     "Dilumbuluibua ku mpala kua nguvena Felikise ne Festo",
+     "Diakuila diandi ku mpala kua mukelenge Agipa",
+     "“Ndi ndayidila kudi Kaisa” — kuya ku Lomo"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yelushalema",
+    "book": "Bienzedi 21–23",
+    "today": "Yelushalema lelu",
+    "note": "Bamukuata mu ntempelo, njila wandi bu muena buloko udi ubangila.",
+    "events": [
+     "Tshisumbu tshia bantu tshidi tshimukuata mu ntempelo",
+     "Udi wakuila ku mpala kua tshiadilu",
+     "Bu muena tshimenga wa Loma, batumibua ne balami ku Kaisalia"
+    ]
+   },
+   "myra": {
+    "name": "Mula",
+    "book": "Bienzedi 27:5-6",
+    "today": "Demre, Tuluki lelu",
+    "note": "Badi babuela mu buatu bua ku Alekasandia buvua buya ku Lomo.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Dilobo Dimpe (Kulete)",
+    "book": "Bienzedi 27:8-12",
+    "today": "Kulete lelu",
+    "note": "Didimuija dia Paulo dia kulekela kuenda mu mai kabayi bateleja.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kulete",
+    "book": "Tito",
+    "today": "Kulete lelu",
+    "note": "Kunyima kua kuhanduludibua, tshisenga mudiye ushiya Tito bua kulongolola ekeleziya.",
+    "events": [
+     "Udi ushiya Tito bua kusunguisha bakulu ku musoko ne ku musoko",
+     "Udi ulomba balombodi bakayi ne tshilema, ba lulamatu",
+     "Udi ufunda mukanda wa Tito"
+    ]
+   },
+   "malta": {
+    "name": "Melita",
+    "book": "Bienzedi 27–28",
+    "today": "Melita lelu",
+    "note": "Munkatshi mua tshipupu ne dishimbakana dia buatu, mulayi wa Nzambi udi ushala.",
+    "events": [
+     "Luhehele lukole ludi lushimbakaja buatu, kadi bantu bonso 276 badi bahanduka",
+     "Nyoka udi umusuma, kadi kena umvua bibi",
+     "Udi wondopa basama ba mu tshisenga"
+    ]
+   },
+   "syracuse": {
+    "name": "Sulakusa",
+    "book": "Bienzedi 28:12",
+    "today": "Sikili, Italia lelu",
+    "note": "Badi bashala matuku asatu mu Sikili.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Potiolo",
+    "book": "Bienzedi 28:13-14",
+    "today": "Pozzuoli, Italia lelu",
+    "note": "Badi bafika mu Italia ne bana babo ba mu Kilisto badi babakumbana.",
+    "events": []
+   },
+   "rome": {
+    "name": "Lomo",
+    "book": "Bienzedi 28 · Mikanda ya mu Buloko · 2 Timote",
+    "today": "Lomo, Italia lelu",
+    "note": "Lumu luimpe ludi lufika ku tshia ku mutshima tshia bukokeshi ku ndekelu — ki nkujika to, kadi tshibangidilu.",
+    "events": [
+     "Bidimu bibidi mushikame mu nzubu ne mulami, wambila bua bukelenge bua Nzambi ne dikima",
+     "Kubangila apa udi ufunda Mikanda ya mu Buloko (Efeso·Filipoi·Kolosai·Filemona)",
+     "Pashishe bamukuata mu buloko kabidi, udi ufunda 2 Timote ne udi ushipibua bua ditabuja — “Nakuluangana nvita mimpe, nakushikisha tshidikishilu tshia lubilu”"
+    ]
+   }
+  },
+  "labels": [
+   "Mbuu wa Mediterane",
+   "Mbuu wa Ejea",
+   "Asia Mukese",
+   "Makedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Ngendu wa kumpala",
+   "j2": "Ngendu wa kabidi",
+   "j3": "Ngendu wa kasatu",
+   "rome": "Ngendu wa kanayi · ku Lomo",
+   "j5": "Ngendu wa katanu · kunyima kua kuhandulula"
+  }
+ }
+}

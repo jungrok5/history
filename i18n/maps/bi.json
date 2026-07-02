@@ -1,0 +1,636 @@
+{
+ "menuName": "Bislama",
+ "htmlLang": "bi",
+ "dir": "ltr",
+ "locale": "bi",
+ "brand": "Baebol long wan skrol",
+ "docTitle": "Baebol long Map · Baebol long wan skrol",
+ "metaDesc": "Folem taemlaen blong Olfala Testemen, laef blong Jisas, mo ol travel blong Pol long wan trufala map — Baebol i hapen long ol trufala ples.",
+ "s": {
+  "kicker": "Baebol long wan skrol · Ol Map",
+  "title": "Baebol long Map",
+  "verse": "“Taem mifala i talemaot long yufala, se Jisas Kraes* Masta* blong yumi i gat paoa, mo bambae hem i kambak bakegen, be mifala i no kasem ol samting ya long ol storian olbaot, nogat. Mifala tri, we long ae blong mitrifala, mifala i luk laet ya we i saenaot long Kraes, we i saen we i saen.” (2 Pita 1:16)",
+  "purpose": "Baebol i no wan storian nomo. Hem i wan rekod blong ol man we oli wokbaot long ol trufala ples, ol det, mo ol nem. Folem ol rod ya long wan map, long stret oda blong taem — tajem wan poen, no pusum ▶ blong wokbaot long hem step long step.",
+  "ot_kick": "① Olfala Testemen — tru long taem",
+  "ot_h": "Stat long kriesen i go kasem kambak long Jerusalem",
+  "ot_lead": "I no wan travel nomo, be hem i fasin we histri blong sevem i ron i go stat long kriesen: kriesen mo foldaon → bigfala wota mo Babel → wan singaot (Ebraham) → promes graon → Eksodas → draeples → winim graon → kingdom → kingdom i brok → karemaot i go → kambak.",
+  "je_kick": "② Niufala Testemen — laef blong Jisas",
+  "je_h": "Stat long Betlehem i go kasem Jerusalem",
+  "je_lead": "Folem laef blong Jisas olsem we Foa Gud Nius i talem, long oda — stat long bon blong hem long Betlehem, i go tru long baptaes blong hem mo wok blong hem long Galili, i gotru long Sameria, i go kasem kros, laef bakegen, mo go antap long Jerusalem.",
+  "pa_kick": "③ Niufala Testemen — ol travel blong Pol",
+  "pa_h": "Stat long Antiok i go kasem en blong wol — Rom",
+  "pa_lead": "Stat long Pentekos long Jerusalem, olsem wanem gud nius i go aot i pas Judia — i gotru long Smol Esia mo Yurop i go kasem senta blong bigfala kantri. Jusum wan long ol faef travel (namba 1 · namba 2 · namba 3 + travel blong go long Rom + afta oli letem hem i go) mo folem ol samting blong Wok wetem ol leta we oli raetem long rod.",
+  "foot": "Ol sos · Ol ples oli folem tok blong Baebol mo standad jiografi blong Baebol (wetem ol niufala nem we i givhan). Ol saed blong solwota, ol reva, mo ol lek oli kamaot long open jiografi data (Natural Earth), we oli mekem i moa simpol.",
+  "contact": "Ol kwestin · tingting — <a id=\"contact\" class=\"mail\">Sanem imel long mifala</a>",
+  "play": "Statem",
+  "pause": "Stop",
+  "today": "Tede:",
+  "verseCite": "2 Pita 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Iden (Kriesen · Foldaon)",
+    "book": "Jenesis 1–3",
+    "today": "ples blong Taigris–Yufretis tede",
+    "note": "Long wan wol we God i mekem i gud tumas, sin i kam insaed mo i brekem rod we i joenem God mo ol man.",
+    "events": [
+     "Kriesen long sikis dei — “i gud tumas”",
+     "Man i kamaot olsem pija blong God",
+     "Foldaon, mo aot long Iden",
+     "Fas promes blong gud nius — “pikinini blong woman bambae i smasem hed blong snek”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Bigfala Wota)",
+    "book": "Jenesis 6–9",
+    "today": "Hil Ararat, long is blong Turki tede",
+    "note": "God i jajem wan wol we i fulap long sin, be i sevem laef tru long wan famle nomo.",
+    "events": [
+     "Wan wol we i fulap long rabis fasin",
+     "Bigfala wota, mo sip blong Noa",
+     "Kovenan blong renbo — “bambae i no moa gat bigfala wota blong spolem wol”"
+    ]
+   },
+   "babel": {
+    "name": "Taoa blong Babel",
+    "book": "Jenesis 11",
+    "today": "Irak tede (flat graon blong Sinar)",
+    "note": "Agensem praod fasin we i traem kasem heven, God i mekem lanwis blong olgeta i kam defren mo i seraotem ol man long ful wol.",
+    "events": [
+     "“Yumi bildim wan taon mo wan taoa … mo mekem nem blong yumi i bigfala”",
+     "God i mekem lanwis blong olgeta i kam defren",
+     "Ol man oli seraot long ful wol (Sinar — biaen i kam Babilon)"
+    ]
+   },
+   "ur": {
+    "name": "Ua",
+    "book": "Jenesis 12",
+    "today": "saot blong Irak tede",
+    "note": "Stori blong sevem long Baebol i stat wetem singaot blong wan man nomo.",
+    "events": [
+     "God i singaot Ebram i aot long Ua blong ol Kaldia",
+     "“Bambae mi mekem yu i kam wan bigfala laen … tru long yu bambae plante man oli kasem blesing”",
+     "Tru long bilif hem i aot long ples blong hem"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Jenesis 12",
+    "today": "saot blong Turki tede",
+    "note": "Long rod, i ansa long singaot i go long promes graon.",
+    "events": [
+     "Famle blong Tera i setel long Haran",
+     "Tera i ded",
+     "Ebram i aot i go long Kenan long taem we hem i gat 75 yia"
+    ]
+   },
+   "shechem": {
+    "name": "Sekem · Kenan",
+    "book": "Jenesis 12–50",
+    "today": "Nablus tede",
+    "note": "Long promes graon wan famle i kamaot mo kovenan i go daon long ol jeneresen.",
+    "events": [
+     "I go insaed long Kenan, fas olta — “bambae mi givim graon ya long ol laen blong yu”",
+     "Kovenan (Jen 15) · Aesak · Jekob",
+     "Twelef boe blong Jekob — rus blong twelef laen"
+    ]
+   },
+   "egypt": {
+    "name": "Ijip (Gosen)",
+    "book": "Jenesis 37–50 · Eksodas 1",
+    "today": "Delta blong Nael, Ijip tede",
+    "note": "Wan famle i kam wan bigfala laen — biaen wan pipol blong slef.",
+    "events": [
+     "Josef, we oli salem hem, i kam haeman blong rulum Ijip",
+     "Ful famle blong Jekob i kamdaon blong ronwe long taem blong bigfala hangkae",
+     "Isrel we i stap kam bigfala i kam slef"
+    ]
+   },
+   "sinai": {
+    "name": "Hil Sinae",
+    "book": "Eksodas · Levitikas",
+    "today": "Sinae Peninsula tede",
+    "note": "Bigfala sevem blong Olfala Testemen — ol slef oli kam pipol blong God.",
+    "events": [
+     "Ten panis mo Pasova sipsip",
+     "Red Si i open mo oli krosem",
+     "Ten Loa, ol Loa, tabu haos mo ol sakrefaes"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (draeples)",
+    "book": "Namba · Dutronome",
+    "today": "draeples blong Sinae–Negev tede",
+    "note": "Fasin blong no bilif i mekem wan jeneresen i lusum graon — be God i stap yet wetem olgeta.",
+    "events": [
+     "Twelef spae — be ol man oli no wantem bilif",
+     "38 yia long draeples — mana, klaod mo faea",
+     "Long ol flat graon blong Moab, las prij blong Moses (Dutronome)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Josua",
+    "today": "Jeriko tede",
+    "note": "Long en oli go insaed mo oli tekem promes graon.",
+    "events": [
+     "Reva Jodan i open mo ol man oli krosem",
+     "Ol wol blong Jeriko oli foldaon",
+     "Winim Kenan mo seraotem graon"
+    ]
+   },
+   "shiloh": {
+    "name": "Sailo (Ol Jajes)",
+    "book": "Jajes · Rut",
+    "today": "Khirbet Seilun tede",
+    "note": "Wetem no king, evri man i mekem samting we hem i wantem — i nidim wan trufala king.",
+    "events": [
+     "Oli putum tabu haos long Sailo",
+     "Fasin we i kam plante taem: sin–trabol–sevem (Debora, Gideon, Samson)",
+     "Rut — fasin blong holem strong long ol tudak dei, long laen blong Deved"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Kingdom we i Joen",
+    "book": "1-2 Samuel · 1 King",
+    "today": "Jerusalem tede",
+    "note": "Gudfala taem blong Isrel — mo promes blong wan king we i stap oltaem.",
+    "events": [
+     "Sol i fas king, biaen Deved mo Golaet",
+     "Kovenan blong Deved — “kingdom blong yu bambae i stap oltaem” (2 Sam 7)",
+     "Solomon i bildim tabu haos long Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Sameria · Kingdom we i Brok",
+    "book": "Ol King · Ol Profet",
+    "today": "Sebastia tede",
+    "note": "Kingdom i brok mo i go daon taem ol profet oli singaot.",
+    "events": [
+     "Afta Solomon, i brok i kam Juda mo Isrel",
+     "Fasin blong giaman god i kam plante taem",
+     "Elaeja, Aesea, Jeremaea oli singaot ‘kambak’ — mo oli talemaot Mesaea"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "2 King 17 · Jona",
+    "today": "Mosul, Irak tede",
+    "note": "I no lisin long ol woning, not i foldaon fastaem.",
+    "events": [
+     "Ninive, bigfala taon blong Asiria",
+     "Kingdom blong not i foldaon long Asiria (722 BC)",
+     "Oli sanem Jona i go long Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilon",
+    "book": "2 King 25 · Daniel · Esikel",
+    "today": "Hilla, Irak tede",
+    "note": "Tudak naet olgeta — be promes blong stretem bakegen i stap yet.",
+    "events": [
+     "Jerusalem i foldaon, tabu haos i bon (586 BC)",
+     "Oli karemaot Juda i go long Babilon",
+     "Daniel mo Esikel — bilif mo ol visen long taem blong karemaot i go"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Pesia)",
+    "book": "Esta · Nehemaea",
+    "today": "Shush, Iran tede",
+    "note": "Nating long senta blong wan giaman kingdom, God i lukaot long ol man blong hem.",
+    "events": [
+     "Pesia i winim Babilon",
+     "Esta i sevem ol man Jiu long fasin blong spolem olgeta",
+     "Nehemaea i prea long fes blong king mo oli sanem hem"
+    ]
+   },
+   "return": {
+    "name": "Kambak long Jerusalem",
+    "book": "Esra · Nehemaea · Malakae",
+    "today": "Jerusalem tede",
+    "note": "Oli kambak mo oli bildim bakegen — be i no gat king i kam. Oli wet long Mesaea.",
+    "events": [
+     "Tri taem blong kambak tru long oda blong Saerus (Serubabel 538 · Esra 458 · Nehemaea 444)",
+     "Oli bildim tabu haos bakegen mo stretem ol wol blong Jerusalem",
+     "Malakae — Olfala Testemen i en: “Bambae mi mi sanem wan man blong karem tok blong mi”"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterenian Si",
+   "Mesopotemia",
+   "Draeples blong Arebia",
+   "Ijip"
+  ],
+  "journeys": {
+   "flow": "Stori blong sevem"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Matiu 1–2 · Luk 2",
+    "today": "Betlehem tede",
+    "note": "Mesaea we God i promes i kam long taon blong Deved — Tok i kam man.",
+    "events": [
+     "I bon long Betlehem, taon blong Deved",
+     "Ol enjel oli talemaot nius long ol man blong lukaotem sipsip",
+     "Ol waes man oli kam blong wosipim hem"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasaret",
+    "book": "Luk 2 · 4",
+    "today": "Nasaret tede",
+    "note": "God i gruap olsem wan man long wan nomol taon.",
+    "events": [
+     "Oli gruapem hem long haos blong wan kapenta",
+     "Long twelef yia, i askem mo i ansa long tabu haos",
+     "Biaen oli sakemaot hem long haos blong prea long taon blong hem"
+    ]
+   },
+   "jordan": {
+    "name": "Reva Jodan",
+    "book": "Matiu 3–4",
+    "today": "daon haf blong Jodan tede",
+    "note": "Wok blong hem long pablik i stat — heven i makem hem olsem Pikinini.",
+    "events": [
+     "Jon i baptaesem hem",
+     "Spirit i kamdaon olsem wan pijin — “Hemia Pikinini blong mi we mi mi laekem hem tumas”",
+     "I winim tri traem blong Setan long draeples"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Jon 2",
+    "today": "Kafr Kanna tede",
+    "note": "Long fas merikel blong hem, hem i soemaot bigfala laet blong hem.",
+    "events": [
+     "Hem i wan gest long wan mared",
+     "Wota i kam waen — fas merikel blong hem",
+     "Ol disaepol blong hem oli bilif long hem"
+    ]
+   },
+   "sychar": {
+    "name": "Saeka (Sameria)",
+    "book": "Jon 2–4",
+    "today": "klosap long Nablus tede",
+    "note": "Rod blong fas wok — i gotru long Jerusalem mo i go kasem Sameria we ol man oli no laekem.",
+    "events": [
+     "Hem i klinim tabu haos long Jerusalem",
+     "Long naet, Nikodimas — “Yu mas bon bakegen”",
+     "Wota blong laef long wan woman blong Sameria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapaneam",
+    "book": "Matiu 4–13 · Mak 1–4",
+    "today": "long saed blong lek Galili tede",
+    "note": "Senta blong wok long Galili — singaot, tijing, mo fasin blong agensem hem oli kam tugeta long hia.",
+    "events": [
+     "I singaot ol man blong kasem fis mo i mekem hia i kam senta blong hem",
+     "Bigfala Prij long Hil — “Ol man we oli save se oli nidim God, oli save harem gud”",
+     "Ol pijatok blong kingdom — mo fasin blong agensem hem i kam antap"
+    ]
+   },
+   "galilee": {
+    "name": "Lek blong Galili",
+    "book": "Mak 4 · 6 · Jon 6",
+    "today": "Lek Kineret tede",
+    "note": "Wetem paoa antap long ol samting blong wol, hem i soemaot hu hem i.",
+    "events": [
+     "“Yu kwaet, yu stap kwaet” — hem i mekem bigfala win i kwaet",
+     "I givim kakae long 5,000 man wetem faef bred mo tu fis",
+     "I wokbaot antap long wota"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sisaria Filipae",
+    "book": "Matiu 16–17",
+    "today": "Banias tede",
+    "note": "Ol disaepol oli kasem save se hem i Kraes, mo rod blong kros i open.",
+    "events": [
+     "Tok blong Pita — “Yu yu Kraes, Pikinini blong God we i laef”",
+     "Hem i talemaot fastaem ded mo laef bakegen blong hem",
+     "Fes blong hem i jenis mo i saen wetem bigfala laet antap long hil"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Luk 18–19",
+    "today": "Jeriko tede",
+    "note": "Long rod i go antap long Jerusalem, hem i lukaotem ol man we oli lus.",
+    "events": [
+     "Hem i openem ae blong Batimeas we i blaen",
+     "Hem i singaot Sakias, man blong tekem takis",
+     "“Pikinini blong Man i kam blong lukaotem mo sevem ol man we oli lus”"
+    ]
+   },
+   "bethany": {
+    "name": "Betani",
+    "book": "Jon 11–12",
+    "today": "al-Eizariya tede",
+    "note": "Hem i soemaot paoa antap long ded jes bifo las wik blong hem.",
+    "events": [
+     "Hem i girapem Lasaros long beregraon — “Mi nao mi laef bakegen mo mi laef”",
+     "Meri i putum gudsmel oel long hem, i rerem hem blong berem",
+     "Merikel ya i mekem plan blong kilim hem i kam strong moa"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Matiu 21–28 · Luk 24 · Wok 1",
+    "today": "Jerusalem tede",
+    "note": "Bigfala poen we ful Baebol i poenem — kros, laef bakegen, go antap.",
+    "events": [
+     "I go insaed long taon olsem king; hem i kapsaedem ol tebol long tabu haos bakegen",
+     "Long Las Kakae hem i wasem leg blong ol disaepol",
+     "Hem i ded long kros",
+     "I laef bakegen long namba tri dei, biaen i go antap"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterenian Si",
+   "Galili",
+   "Sameria",
+   "Judia",
+   "Dekapolis",
+   "Perea",
+   "Ded Si"
+  ],
+  "journeys": {
+   "life": "Rod blong Jisas"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiok",
+    "book": "Wok 13 · 15",
+    "today": "Antakya, Turki tede",
+    "note": "Jos we i sanem, ples we wok long ol man we i no Jiu i stat mo i kambak long hem.",
+    "events": [
+     "Long prea, Spirit i putum Banabas mo Sol i seperet blong wok",
+     "Jos we fastaem oli kolem ol disaepol ‘Kristin’",
+     "Ples we namba 1, namba 2, mo namba 3 travel oli stat"
+    ]
+   },
+   "seleucia": {
+    "name": "Selusia",
+    "book": "Wok 13:4",
+    "today": "Turki tede",
+    "note": "Ples blong sip blong Antiok — oli go long sip i go long Saepras.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Saepras)",
+    "book": "Wok 13:5",
+    "today": "Saepras tede",
+    "note": "Fas ples long Saepras — oli prij long ol haos blong prea.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Wok 13:6-12",
+    "today": "Saepras tede",
+    "note": "Paoa i soemaot agensem olgeta we oli agensem gud nius.",
+    "events": [
+     "Elimas, man blong majik, i kam blaen",
+     "Serjias Paulas, bigman blong gavman, i bilif",
+     "Stat long hia, ‘Pol’ i lidim"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Wok 13:13",
+    "today": "Antalya, Turki tede",
+    "note": "Wan ples blong sip long Pamfilia — long hia Jon Mak i tanem baksaed.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiok blong Pisidia",
+    "book": "Wok 13:14-50",
+    "today": "Yalvaç, Turki tede",
+    "note": "Gud nius i open i go long ol man we i no Jiu.",
+    "events": [
+     "Wan longfala prij long histri blong sevem long haos blong prea",
+     "Plante man we i no Jiu oli glad mo oli kasem tok",
+     "Oli ronemaot olgeta from fasin blong agensem"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniam",
+    "book": "Wok 14:1-7",
+    "today": "Konya, Turki tede",
+    "note": "Plante man oli bilif, be trabol i pusum olgeta blong gohed.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Wok 14:8-20",
+    "today": "Turki tede",
+    "note": "Oli onarem hem olsem wan god, biaen oli kilim hem wetem ston.",
+    "events": [
+     "I mekem wan man we i bon we leg blong hem i nogud i kam gud",
+     "Bigfala grup oli traem mekem sakrefaes long tufala olsem tufala i god",
+     "Oli sutum hem wetem ston mo oli ting se hem i ded, be hem i girap"
+    ]
+   },
+   "derbe": {
+    "name": "Debe",
+    "book": "Wok 14:20-21",
+    "today": "Turki tede",
+    "note": "Plante disaepol oli kamaot; oli gobak long sem rod blong mekem ol jos i kam strong.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Wok 16:8-10",
+    "today": "Turki tede",
+    "note": "Ples blong jenis we gud nius i go fastaem long Yurop.",
+    "events": [
+     "Wan visen blong wan man blong Masedonia",
+     "“Yu kam mo givhan long mifala”",
+     "Wantaem nomo oli krosem i go long Yurop"
+    ]
+   },
+   "philippi": {
+    "name": "Filipae",
+    "book": "Wok 16 · Filipae",
+    "today": "not blong Gris tede",
+    "note": "Fas jos long Yurop — gud nius i win nating long kalabus.",
+    "events": [
+     "Lidia, woman blong salem purpol kaliko, i bilif",
+     "Wan slef gel we i talem samting we bambae i kam i kam fri",
+     "Ol singsing long medel naet, wan graon i sek, mo famle blong man blong lukaot kalabus i sev"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonaeka",
+    "book": "Wok 17 · 1-2 Tesalonaeka",
+    "today": "Tesaloniki, Gris tede",
+    "note": "Tok i seksekem taon mo fasin blong agensem i kam antap.",
+    "events": [
+     "Long tri Sabat hem i eksplenem long haos blong prea",
+     "“Ol man ya we oli tanem wol i go antapdaon”",
+     "Oli aot kwaet long naet"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Wok 17:10-15",
+    "today": "Veria, Gris tede",
+    "note": "Ol man we oli waes moa, we oli jekem tok olgeta wan.",
+    "events": [
+     "Oli kasem tok wetem glad",
+     "Evri dei oli ridim ol tok blong Baebol blong jekem",
+     "Plante man oli kam bilif"
+    ]
+   },
+   "athens": {
+    "name": "Atens",
+    "book": "Wok 17:16-34",
+    "today": "Atens, Gris tede",
+    "note": "Long taon blong ol man blong filosofia, hem i talemaot ‘god we oli no save.’",
+    "events": [
+     "Hem i harem nogud from taon i fulap long ol giaman god",
+     "Long Areopagas hem i prij long God blong Kriesen mo laef bakegen",
+     "Oli tantanem hem, be sam man oli bilif"
+    ]
+   },
+   "corinth": {
+    "name": "Korin",
+    "book": "Wok 18 · 1-2 Korin",
+    "today": "Gris tede",
+    "note": "Hem i stap wan yia mo haf, i planem wan jos long wan taon we i fulap long rabis fasin.",
+    "events": [
+     "Hem i wokem ol tent wetem Akwila mo Prisila",
+     "“Yu no fraet … from we mi mi stap wetem yu”",
+     "Plante man Korin oli bilif mo oli baptaes"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesas",
+    "book": "Wok 19 · Efesas",
+    "today": "Selçuk, Turki tede",
+    "note": "Senta blong namba tri travel — tok i go aot long ful Esia.",
+    "events": [
+     "Tu yia hem i tijim evri dei long haos blong Taeranas",
+     "Oli bonem ol buk blong majik; ol samting we i gat paoa",
+     "Demetrias, man blong wok silva, i statem wan raorao"
+    ]
+   },
+   "miletus": {
+    "name": "Miletas",
+    "book": "Wok 20:17-38",
+    "today": "Turki tede",
+    "note": "Wan gudbae wetem wota blong ae long ol elda blong Efesas.",
+    "events": [
+     "“Lukaotgud long jos we hem i pem wetem blad blong hem”",
+     "Ol elda oli krae, from oli save se bambae oli no luk hem bakegen"
+    ]
+   },
+   "caesarea": {
+    "name": "Sisaria",
+    "book": "Wok 23–26",
+    "today": "solwota saed blong Isrel tede",
+    "note": "Blong tu yia hem i defenem gud nius long fes blong ol gavman mo wan king.",
+    "events": [
+     "Ol kot long fes blong ol gavman, Filiks mo Festas",
+     "Hem i tok blong defenem hem long fes blong King Agripa",
+     "“Mi mi go long Sisa” — i go long Rom"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Wok 21–23",
+    "today": "Jerusalem tede",
+    "note": "Oli holem hem long tabu haos, mo rod blong hem olsem wan man blong kalabus i stat.",
+    "events": [
+     "Bigfala grup oli holem hem long tabu haos",
+     "Hem i tok blong defenem hem long fes blong kaonsel blong ol Jiu",
+     "Olsem wan man blong Rom, oli sanem hem aninit long ol soldia i go long Sisaria"
+    ]
+   },
+   "myra": {
+    "name": "Maera",
+    "book": "Wok 27:5-6",
+    "today": "Demre, Turki tede",
+    "note": "Oli jenis i go long wan sip blong Aleksandria we i go long Rom.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Ol Gudfala Harba (Krit)",
+    "book": "Wok 27:8-12",
+    "today": "Krit tede",
+    "note": "Woning blong Pol blong stop long sel, oli no lisin long hem.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krit",
+    "book": "Taetas",
+    "today": "Krit tede",
+    "note": "Afta oli letem hem i go, aelan we hem i livim Taetas blong stretem ol jos.",
+    "events": [
+     "I livim Taetas blong putum ol elda long evri taon",
+     "Hem i askem blong ol lida we oli no gat rong mo oli tru",
+     "Hem i raetem leta i go long Taetas"
+    ]
+   },
+   "malta": {
+    "name": "Molta",
+    "book": "Wok 27–28",
+    "today": "Molta tede",
+    "note": "Tru long bigfala win mo sip we i brok, promes blong God i stap strong.",
+    "events": [
+     "Wan bigfala win we i kam long not-is i brekem sip, be olgeta 276 man oli sev",
+     "Wan posen snek i kakaem hem, be i no kasem nogud",
+     "Hem i mekem ol sik man blong aelan i kam gud"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakius",
+    "book": "Wok 28:12",
+    "today": "Sisili, Itali tede",
+    "note": "Oli stap tri dei long Sisili.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Wok 28:13-14",
+    "today": "Pozzuoli, Itali tede",
+    "note": "Oli kasem Itali mo ol brata long bilif oli kam luk olgeta.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rom",
+    "book": "Wok 28 · Ol Leta blong Kalabus · 2 Timoti",
+    "today": "Rom, Itali tede",
+    "note": "Gud nius i kasem senta blong bigfala kantri long en — i no wan en be hem i wan stat.",
+    "events": [
+     "Tu yia aninit long kalabus long haos, i talemaot kingdom wetaot fraet",
+     "Long hia hem i raetem ol Leta blong Kalabus (Efesas·Filipae·Kolosi·Filimon)",
+     "Biaen oli putum hem long kalabus bakegen, hem i raetem 2 Timoti mo oli kilim hem i ded from bilif — “Mi mi faet long gudfala faet, mi mi finisim resis”"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterenian Si",
+   "Ijian Si",
+   "Smol Esia",
+   "Masedonia",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Namba wan travel",
+   "j2": "Namba tu travel",
+   "j3": "Namba tri travel",
+   "rome": "Namba foa travel · i go long Rom",
+   "j5": "Namba faef travel · afta oli letem hem i go"
+  }
+ }
+}
