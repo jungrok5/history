@@ -1,0 +1,636 @@
+{
+ "menuName": "Kurmancî",
+ "htmlLang": "kmr",
+ "dir": "ltr",
+ "locale": "kmr",
+ "brand": "Mizgînî di Yek Pelê de",
+ "docTitle": "Mizgînî bi Nexşeyê · Mizgînî di Yek Pelê de",
+ "metaDesc": "Demnameya Peymana Kevin, jiyana Îsa û rêwîtiyên Pawlos li ser nexşeyeke rastîn bişopîne — Mizgînî li cihên rastîn qewimî.",
+ "s": {
+  "kicker": "Mizgînî di Yek Pelê de · Nexşe",
+  "title": "Mizgînî bi Nexşeyê",
+  "verse": "“Çaxê ku me hêz û hatina Xudanê me Îsa Mesîh bi we da zanîn, em neketin pey çîrokên ku bi qurnazî ji ber xwe hatine çêkirin, lê me bi çavên xwe mezinahiya wî dît.” (Petrûs II 1:16)",
+  "purpose": "Mizgînî ne efsane ye. Ew tomara mirovên ku li ser cih, dîrok û navên rastîn meşiyan e. Wan rêyan li ser nexşeyê, li gorî rêza demê bişopîne — li ser xalekê bitikîne, an ▶ bitikîne da ku gav bi gav tê re derbas bibî.",
+  "ot_kick": "① Peymana Kevin — di nav demê re",
+  "ot_h": "Ji afirandinê heta vegera bo Orşelîmê",
+  "ot_lead": "Ne rêwîtiyeke tekane, lê herikîna dîroka rizgariyê ji afirandinê û pê ve: afirandin û ketin → tofan û Babîl → gazîkirinek (Birahîm) → welatê soza → Derketin → çol → dagirkirin → padîşahî → dabeşbûn → sirgûn → veger.",
+  "je_kick": "② Peymana Nû — jiyana Îsa",
+  "je_h": "Ji Beytlehemê heta Orşelîmê",
+  "je_lead": "Jiyana Îsa çawa ku Mizgînî vedibêjin, bi rêz bişopîne — ji jidayikbûna wî li Beytlehemê, bi nixumandin û xizmeta wî ya li Celîlê, di nav Sameriyayê re, heta xaç, vejîn û hilkişîna wî li Orşelîmê.",
+  "pa_kick": "③ Peymana Nû — rêwîtiyên Pawlos",
+  "pa_h": "Ji Antakyayê heta kujên dinyayê — Roma",
+  "pa_lead": "Ji Pentîkosta li Orşelîmê, çawa Mizgînî ji Cihûstanê wêdetir belav bû — di nav Asya Biçûk û Ewropayê re heta dilê împeratoriyê. Yek ji pênc rêwîtiyan hilbijêre (yekem·duyem·sêyem + rêwîtiya deryayî ber bi Romayê + piştî berdanê) û bûyerên Karên Şandiyan bi nameyên ku di rê de hatin nivîsîn re bişopîne.",
+  "foot": "Çavkanî · Cih li gorî nivîsa Mizgîniyê û erdnigariya standard a Mizgîniyê ne (bi navên nûjen li cihê ku alîkar be). Perav, çem û gol ji daneyên erdnigarî yên vekirî (Natural Earth) hatine kişandin, hêsankirî.",
+  "contact": "Pirs · raman — <a id=\"contact\" class=\"mail\">Ji me re binivîse</a>",
+  "play": "Lêde",
+  "pause": "Rawestîne",
+  "today": "Îro:",
+  "verseCite": "Petrûs II 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Êden (Afirandin · Ketin)",
+    "book": "Destpêk 1–3",
+    "today": "herêma Dîcle–Firatê ya îro",
+    "note": "Nav dinyayeke ku pir baş hatibû çêkirin, guneh dikeve û girêdana di navbera Xwedê û mirovahiyê de dişkîne.",
+    "events": [
+     "Afirandin di şeş rojan de — «pir baş bû»",
+     "Mirovahî li ser sûretê Xwedê hatiye çêkirin",
+     "Ketin, û ji Êdenê derxistin",
+     "Soza ewil a Mizgîniyê — «ziriyeta jinê wê serê mar biperçiqîne»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Tofan)",
+    "book": "Destpêk 6–9",
+    "today": "Çiyayê Araratê, rojhilatê Tirkiyeyê yê îro",
+    "note": "Xwedê dinyayeke tije guneh dide dîwankirin, lê dîsa jî bi rêya malbatekê jiyanê diparêze.",
+    "events": [
+     "Dinyayeke tije xerabî",
+     "Tofan, û keştiya Nûh",
+     "Peymana keskesorê — «êdî tu carî tofanek ji bo hilweşandinê nabe»"
+    ]
+   },
+   "babel": {
+    "name": "Birca Babîlê",
+    "book": "Destpêk 11",
+    "today": "Iraqa îro (deşta Şinarê)",
+    "note": "Li hember pozbilindiya ku ber bi ezmên ve dirêj dibe, Xwedê axaftina wan û gelan li ser rûyê erdê belav dike.",
+    "events": [
+     "«Werin em bajarek û bircayek ava bikin… û navekî ji xwe re çêkin»",
+     "Xwedê zimanê wan tevlihev dike",
+     "Gel li ser rûyê erdê belav dibin (Şinar — paşê Babîl)"
+    ]
+   },
+   "ur": {
+    "name": "Ûr",
+    "book": "Destpêk 12",
+    "today": "başûrê Iraqa îro",
+    "note": "Çîroka rizgariyê ya Mizgîniyê bi gazîkirina mirovekî dest pê dike.",
+    "events": [
+     "Xwedê Abram ji Ûra Keldaniyan gazî dike",
+     "«Ezê te bikim miletekî mezin… hemû gel bi te pîroz bibin»",
+     "Bi baweriyê welatê xwe dihêle"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Destpêk 12",
+    "today": "başûrê Tirkiyeyê yê îro",
+    "note": "Di rê de, bersiva gazîkirinê ber bi welatê soza ve.",
+    "events": [
+     "Malbata Terah li Haranê bi cih dibe",
+     "Terah dimire",
+     "Abram di 75 saliya xwe de ber bi Kenanê ve diçe"
+    ]
+   },
+   "shechem": {
+    "name": "Şekem · Kenan",
+    "book": "Destpêk 12–50",
+    "today": "Nablusa îro",
+    "note": "Li welatê soza malbatek tê damezrandin û peyman ji nifşê re derbas dibe.",
+    "events": [
+     "Ketina Kenanê, gorîgeha ewil — «ezê vî welatî bidim ziriyeta te»",
+     "Peyman (Destpêk 15) · Îshaq · Aqûb",
+     "Diwanzdeh kurên Aqûb — koka diwanzdeh eşîran"
+    ]
+   },
+   "egypt": {
+    "name": "Misr (Goşen)",
+    "book": "Destpêk 37–50 · Derketin 1",
+    "today": "Delta Nîlê, Misra îro",
+    "note": "Malbatek dibe miletekî mezin — paşê miletekî kole.",
+    "events": [
+     "Ûsiv, ku hat firotin, radibe ku li Misrê hukum bike",
+     "Tevahiya malbata Aqûb ji birçîbûnê direve û tê Misrê",
+     "Miletê Îsraêl ê ku mezin dibe tê koledarîkirin"
+    ]
+   },
+   "sinai": {
+    "name": "Çiyayê Sînayê",
+    "book": "Derketin · Lêwiyî",
+    "today": "Nîvgirava Sînayê ya îro",
+    "note": "Rizgariya navendî ya Peymana Kevin — kole dibin gelê Xwedê.",
+    "events": [
+     "Deh belayên û berxê Pesaxê",
+     "Behra Sor vediqete û ew derbas dibin",
+     "Deh Emir, Şerîet, konê pîroz û qurban"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadêş (çol)",
+    "book": "Hejmar · Dubarekirina Şerîetê",
+    "today": "çola Sîna–Negevê ya îro",
+    "note": "Bêbawerî nifşekî welat winda dike — lê dîsa jî Xwedê bi wan re dimîne.",
+    "events": [
+     "Diwanzdeh sîxur — lê gel red dike ku bawer bike",
+     "38 sal li çolê — men, ewr û agir",
+     "Li deştên Moabê, xutbeya dawî ya Mûsa (Dubarekirina Şerîetê)"
+    ]
+   },
+   "jericho": {
+    "name": "Erîha",
+    "book": "Yêşû",
+    "today": "Erîha ya îro",
+    "note": "Di dawiyê de dikevin û welatê soza bi dest dixin.",
+    "events": [
+     "Çemê Urdunê vediqete û gel derbas dibe",
+     "Sûrên Erîhayê dikevin",
+     "Dagirkirina Kenanê û dabeşkirina welat"
+    ]
+   },
+   "shiloh": {
+    "name": "Şîlo (Dadger)",
+    "book": "Dadger · Rût",
+    "today": "Xirbet Seylûna îro",
+    "note": "Bê padîşah, her kes tiştê di dilê xwe de dike — padîşahekî rastîn pêwîst e.",
+    "events": [
+     "Konê pîroz li Şîloyê tê danîn",
+     "Çerxa guneh–zordarî–rizgarî (Debora, Gîdeyon, Şemşûn)",
+     "Rût — dilsozî di rojên tarî de, di nifşê Dawid de"
+    ]
+   },
+   "jerusalem": {
+    "name": "Orşelîm · Padîşahiya Yekbûyî",
+    "book": "Samûêl I–II · Padîşah I",
+    "today": "Orşelîma îro",
+    "note": "Serdema zêrîn a Îsraêl — û soza padîşahekî herheyî.",
+    "events": [
+     "Şawil padîşahê ewil, paşê Dawid û Golyat",
+     "Peymana bi Dawid re — «textê te her û her» (Samûêl II 7)",
+     "Silêman Perestgehê li Orşelîmê ava dike"
+    ]
+   },
+   "samaria": {
+    "name": "Sameriya · Padîşahiya Dabeşbûyî",
+    "book": "Padîşah · Pêxember",
+    "today": "Sebastiya îro",
+    "note": "Padîşahî dabeş dibe û ber bi jêr ve diçe dema pêxember hawar dikin.",
+    "events": [
+     "Piştî Silêman, dabeşbûn bo Cihûda û Îsraêl",
+     "Pûtperestiya dubarbûyî",
+     "Êlyas, Îşaya, Yêremya hawar dikin ‹vegerin› — û Mesîh pêşbînî dikin"
+    ]
+   },
+   "nineveh": {
+    "name": "Nînewa (Aşûr)",
+    "book": "Padîşah II 17 · Yûnis",
+    "today": "Mûsil, Iraqa îro",
+    "note": "Bê guhdana her hişyariyê, bakur pêşî dikeve.",
+    "events": [
+     "Nînewa, paytexta Aşûrê",
+     "Padîşahiya bakur dikeve destê Aşûrê (722 B.Z.)",
+     "Yûnis tê şandin Nînewayê"
+    ]
+   },
+   "babylon": {
+    "name": "Babîl",
+    "book": "Padîşah II 25 · Danyêl · Hezekiyêl",
+    "today": "Hîla, Iraqa îro",
+    "note": "Şeva herî tarî — lê dîsa jî soza vegerandinê dimîne.",
+    "events": [
+     "Orşelîm dikeve, Perestgeh tê şewitandin (586 B.Z.)",
+     "Cihûda ber bi Babîlê ve tê birin",
+     "Danyêl û Hezekiyêl — bawerî û dîtin di sirgûnê de"
+    ]
+   },
+   "susa": {
+    "name": "Şûş (Faris)",
+    "book": "Êster · Nehemya",
+    "today": "Şûş, Îrana îro",
+    "note": "Heta di dilê împeratoriyeke pûtperest de jî, Xwedê gelê xwe diparêze.",
+    "events": [
+     "Faris Babîlê têk dibe",
+     "Êster Cihûyan ji qirkirinê xilas dike",
+     "Nehemya li ber padîşah dua dike û tê şandin"
+    ]
+   },
+   "return": {
+    "name": "Veger bo Orşelîmê",
+    "book": "Ezra · Nehemya · Melaxî",
+    "today": "Orşelîma îro",
+    "note": "Vedigerin û ji nû ve ava dikin — lê padîşahek nehatiye. Li benda Mesîh in.",
+    "events": [
+     "Sê pêlên vegerê bi fermana Kûreş (Zerûbabel 538 · Ezra 458 · Nehemya 444)",
+     "Perestgeh ji nû ve tê avakirin û sûrên Orşelîmê tên başkirin",
+     "Melaxî — Peymana Kevin diqede: «ez qasidê xwe dişînim»"
+    ]
+   }
+  },
+  "labels": [
+   "Behra Navîn",
+   "Mezopotamya",
+   "Çola Erebî",
+   "Misr"
+  ],
+  "journeys": {
+   "flow": "Çîroka rizgariyê"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Beytlehem",
+    "book": "Metta 1–2 · Lûqa 2",
+    "today": "Beytlehema îro",
+    "note": "Mesîhê ku soz hatibû dayîn tê bajarê Dawid — Peyv dibe xwîn û goşt.",
+    "events": [
+     "Li Beytlehemê, bajarê Dawid, ji dayik bû",
+     "Milyaket mizgîniyê didin şivanan",
+     "Mecûs tên ku wî biperizin"
+    ]
+   },
+   "nazareth": {
+    "name": "Nisret",
+    "book": "Lûqa 2 · 4",
+    "today": "Nisreta îro",
+    "note": "Xwedê wek mirov li bajarekî asayî mezin dibe.",
+    "events": [
+     "Di mala necarekî de mezin bû",
+     "Di diwanzdeh saliya xwe de, di Perestgehê de dipirse û bersiv dide",
+     "Paşê li kinîşta bajarê xwe hat redkirin"
+    ]
+   },
+   "jordan": {
+    "name": "Çemê Urdunê",
+    "book": "Metta 3–4",
+    "today": "beşê jêrîn ê Urdunê yê îro",
+    "note": "Xizmeta wî ya eşkere dest pê dike — ezman wî wek Kur mor dike.",
+    "events": [
+     "Ji aliyê Yûhenna ve hat nixumandin",
+     "Ruh mîna kevokê dadikeve — «Ev e Kurê min ê hezkirî»",
+     "Sê ceribandinên Îblîs li çolê têk dibe"
+    ]
+   },
+   "cana": {
+    "name": "Qana",
+    "book": "Yûhenna 2",
+    "today": "Kefr Kena ya îro",
+    "note": "Di nîşana xwe ya ewil de rûmeta xwe kifş dike.",
+    "events": [
+     "Mêvanê dawetekê",
+     "Av bû şerab — nîşana wî ya ewil",
+     "Şagirtên wî bawerî bi wî tînin"
+    ]
+   },
+   "sychar": {
+    "name": "Sîxar (Sameriya)",
+    "book": "Yûhenna 2–4",
+    "today": "nêzî Nablusa îro",
+    "note": "Rêya xizmeta destpêkê — di nav Orşelîmê re û ber bi Sameriya ku hatiye piçûkxistin.",
+    "events": [
+     "Perestgehê li Orşelîmê paqij dike",
+     "Bi şev, Nîkodêmos — «Divê tu ji nû ve çêbibî»",
+     "Ava jiyanê ji jineke Sameriyayî re"
+    ]
+   },
+   "capernaum": {
+    "name": "Kefernahûm",
+    "book": "Metta 4–13 · Marqos 1–4",
+    "today": "perava gola Celîlê ya îro",
+    "note": "Navenda xizmeta Celîlê — gazîkirin, hînkirin û dijberî li vir digihîjin hev.",
+    "events": [
+     "Masîgiran gazî dike û xwe li vir bi cih dike",
+     "Xutbeya li ser Çiyê — «Xwezî bi wan ên ku di ruh de belengaz in»",
+     "Meselên Padîşahiyê — û dijberiya ku zêde dibe"
+    ]
+   },
+   "galilee": {
+    "name": "Gola Celîlê",
+    "book": "Marqos 4 · 6 · Yûhenna 6",
+    "today": "Gola Kinneret a îro",
+    "note": "Bi desthilatiya xwe ya li ser xwezayê nîşan dide ka ew kî ye.",
+    "events": [
+     "«Bêdeng be, aram bibe» — bahozê aram dike",
+     "5,000 kesan bi pênc nan û du masiyan têr dike",
+     "Li ser avê dimeşe"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Qeyseriya Filîpî",
+    "book": "Metta 16–17",
+    "today": "Banyasa îro",
+    "note": "Şagird fêm dikin ku ew Mesîh e, û rêya xaçê vedibe.",
+    "events": [
+     "Îqrara Petrûs — «Tu Mesîh î, Kurê Xwedayê zindî»",
+     "Cara ewil mirin û vejîna xwe pêşbînî dike",
+     "Li ser çiyê bi rûmetê vediguhere"
+    ]
+   },
+   "jericho": {
+    "name": "Erîha",
+    "book": "Lûqa 18–19",
+    "today": "Erîha ya îro",
+    "note": "Di rê de ber bi Orşelîmê ve, li windayan digere.",
+    "events": [
+     "Çavên Bartîmayosê kor vedike",
+     "Zakayê backir gazî dike",
+     "«Kurê Mirov hat ku windabûyî bigere û xilas bike»"
+    ]
+   },
+   "bethany": {
+    "name": "Beytanya",
+    "book": "Yûhenna 11–12",
+    "today": "Eyzariya ya îro",
+    "note": "Li ber hefteya xwe ya dawî desthilatiya xwe ya li ser mirinê nîşan dide.",
+    "events": [
+     "Lazar ji gorê radike — «Ez vejîn û jiyan im»",
+     "Meryem wî ji bo definkirinê rûn dike",
+     "Ev nîşan pîlana kuştina wî hişktir dike"
+    ]
+   },
+   "jerusalem": {
+    "name": "Orşelîm",
+    "book": "Metta 21–28 · Lûqa 24 · Karên Şandiyan 1",
+    "today": "Orşelîma îro",
+    "note": "Lûtkeya ku tevahiya Mizgînî ber bi wê ve nîşan dide — xaç, vejîn, hilkişîn.",
+    "events": [
+     "Ketina bi serfirazî; dîsa maseyên Perestgehê serûbin dike",
+     "Di Şîva Dawî de piyên şagirtan dişo",
+     "Li ser xaçê dimire",
+     "Di roja sêyemîn de radibe, paşê hilkişiya"
+    ]
+   }
+  },
+  "labels": [
+   "Behra Navîn",
+   "Celîl",
+   "Sameriya",
+   "Cihûstan",
+   "Dekapolis",
+   "Perea",
+   "Behra Mirî"
+  ],
+  "journeys": {
+   "life": "Rêya Îsa"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antakya",
+    "book": "Karên Şandiyan 13 · 15",
+    "today": "Antakya, Tirkiyeya îro",
+    "note": "Civata şandinê ku mîsyona neyahûdan lê dest pê dike û lê vedigere.",
+    "events": [
+     "Di dua de Ruh Barnaba û Şawlos vediqetîne",
+     "Civata ku lê cara ewil ji bawermendan re got ‹Mesîhî›",
+     "Xala destpêkê ya rêwîtiyên yekem, duyem û sêyem"
+    ]
+   },
+   "seleucia": {
+    "name": "Selêwkiya",
+    "book": "Karên Şandiyan 13:4",
+    "today": "Tirkiyeya îro",
+    "note": "Bendera Antakyayê — ber bi Kîprosê ve bi keştî diçin.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Selamîs (Kîpros)",
+    "book": "Karên Şandiyan 13:5",
+    "today": "Kîprosa îro",
+    "note": "Rawestgeha ewil li Kîprosê — di kinîştan de mizgînî didin.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Karên Şandiyan 13:6-12",
+    "today": "Kîprosa îro",
+    "note": "Hêz li hember yên ku li dijî Mizgîniyê ne tê nîşandan.",
+    "events": [
+     "Elîmasê sêrbaz kor dibe",
+     "Sergius Pawlosê walî bawer dike",
+     "Ji vir û pê ve ‹Pawlos› pêşengiyê digire"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Karên Şandiyan 13:13",
+    "today": "Antalya, Tirkiyeya îro",
+    "note": "Benderek li Pamfîlyayê — li vir Yûhennayê Marqos vedigere.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antakya ya Pîsîdiyayê",
+    "book": "Karên Şandiyan 13:14-50",
+    "today": "Yalvaç, Tirkiyeya îro",
+    "note": "Mizgînî ber bi neyahûdan ve vedibe.",
+    "events": [
+     "Di kinîştê de xutbeyeke dirêj a dîroka xilasiyê",
+     "Gelek neyahûd şa dibin û peyvê distînin",
+     "Ji ber dijberiyê tên qewirandin"
+    ]
+   },
+   "iconium": {
+    "name": "Îkonya",
+    "book": "Karên Şandiyan 14:1-7",
+    "today": "Konya, Tirkiyeya îro",
+    "note": "Gelek bawer dikin, lê zordarî wan neçar dike ku biçin.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lîstra",
+    "book": "Karên Şandiyan 14:8-20",
+    "today": "Tirkiyeya îro",
+    "note": "Wek xwedayekî tên pesinandin, paşê kevirbaran dibin.",
+    "events": [
+     "Mirovekî ji dayikbûnê seqet saxlem dike",
+     "Elalet hewl dide ku wek xwedayan ji wan re qurban bike",
+     "Kevirbaran dibe û wek mirî tê hiştin, lê radibe"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Karên Şandiyan 14:20-21",
+    "today": "Tirkiyeya îro",
+    "note": "Gelek şagird tên çêkirin; ji bo bihêzkirina civatan bi ser rêya xwe vedigerin.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Karên Şandiyan 16:8-10",
+    "today": "Tirkiyeya îro",
+    "note": "Xala zivirînê ku Mizgînî cara ewil ber bi Ewropayê ve diçe.",
+    "events": [
+     "Dîtineke mirovekî ji Makedonyayê",
+     "«Were û alîkariya me bike»",
+     "Yekser derbasî Ewropayê dibin"
+    ]
+   },
+   "philippi": {
+    "name": "Filîpî",
+    "book": "Karên Şandiyan 16 · Filîpî",
+    "today": "bakurê Yewnanistana îro",
+    "note": "Civata ewil a Ewropayê — Mizgînî heta di zîndanê de jî bi ser dikeve.",
+    "events": [
+     "Lîdya, firoşkara qumaşê erxewanî, bawer dike",
+     "Keçeke koleyê ya ku falê vedibêje tê azadkirin",
+     "Stranên nîvê şevê, erdhejek, malbata zîndanban xilas dibe"
+    ]
+   },
+   "thess": {
+    "name": "Selanîk",
+    "book": "Karên Şandiyan 17 · Selanîkî I–II",
+    "today": "Selanîk, Yewnanistana îro",
+    "note": "Peyv bajêr dihejîne û dijberî diqelişe.",
+    "events": [
+     "Sê Şemiyan di kinîştê de nîqaş dike",
+     "«Ev ên ku dinya serûbin kirine»",
+     "Bi şev bi dizî derdikevin"
+    ]
+   },
+   "berea": {
+    "name": "Berya",
+    "book": "Karên Şandiyan 17:10-15",
+    "today": "Verya, Yewnanistana îro",
+    "note": "Yên ‹birûmet› ên ku peyv bi xwe vekolan.",
+    "events": [
+     "Peyvê bi dilxwazî distînin",
+     "Her roj Nivîsarên Pîroz vedikolin da ku wê kontrol bikin",
+     "Gelek bawer dikin"
+    ]
+   },
+   "athens": {
+    "name": "Atîna",
+    "book": "Karên Şandiyan 17:16-34",
+    "today": "Atîna, Yewnanistana îro",
+    "note": "Li bajarê fîlozofan ‹xwedayê nenas› radigihîne.",
+    "events": [
+     "Ji bajarekî tije pût aciz dibe",
+     "Li Areopagê Afirîner û vejînê radigihîne",
+     "Tê tinazkirin, lê dîsa jî çend kes bawer dikin"
+    ]
+   },
+   "corinth": {
+    "name": "Korîntos",
+    "book": "Karên Şandiyan 18 · Korîntî I–II",
+    "today": "Yewnanistana îro",
+    "note": "Salekê û nîvê dimîne, li bajarekî xerabiyê civatekê diçîne.",
+    "events": [
+     "Bi Aquila û Priskila re kon çêdike",
+     "«Netirse… çimkî ez bi te re me»",
+     "Gelek Korîntî bawer dikin û tên nixumandin"
+    ]
+   },
+   "ephesus": {
+    "name": "Efes",
+    "book": "Karên Şandiyan 19 · Efesî",
+    "today": "Selçuk, Tirkiyeya îro",
+    "note": "Dilê rêwîtiya sêyem — peyv li seranserê Asyayê belav dibe.",
+    "events": [
+     "Du salan her roj li salona Tîranos hîn dike",
+     "Pirtûkên sêrê tên şewitandin; karên bihêz",
+     "Dêmêtriyosê zîvker serhildanekê radike"
+    ]
+   },
+   "miletus": {
+    "name": "Mîletos",
+    "book": "Karên Şandiyan 20:17-38",
+    "today": "Tirkiyeya îro",
+    "note": "Xatirxwastineke bi hêstir ji rihspiyên Efesê.",
+    "events": [
+     "«Miqatî civata ku wî bi xwîna xwe kirî bin»",
+     "Rihspî digirîn, dizanin ku êdî wî nabînin"
+    ]
+   },
+   "caesarea": {
+    "name": "Qeyseriya",
+    "book": "Karên Şandiyan 23–26",
+    "today": "perava Îsraêla îro",
+    "note": "Du salan li ber walî û padîşahekî parastina Mizgîniyê dike.",
+    "events": [
+     "Dadgehên li ber waliyan, Felîks û Festus",
+     "Parastina wî li ber Padîşah Agripa",
+     "«Ez gazî Qeyser dikim» — ber bi Romayê ve"
+    ]
+   },
+   "jerusalem": {
+    "name": "Orşelîm",
+    "book": "Karên Şandiyan 21–23",
+    "today": "Orşelîma îro",
+    "note": "Di Perestgehê de tê girtin, rêya wî ya wek girtî dest pê dike.",
+    "events": [
+     "Ji aliyê elaletê ve di Perestgehê de tê girtin",
+     "Li ber encumenê xwe diparêze",
+     "Wek hemwelatiyekî Romayî, di bin cerdevaniyê de tê şandin Qeyseriyayê"
+    ]
+   },
+   "myra": {
+    "name": "Mîra",
+    "book": "Karên Şandiyan 27:5-6",
+    "today": "Demre, Tirkiyeya îro",
+    "note": "Derbasî keştiyeke Îskenderiyayê ya ber bi Romayê ve dibin.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Bendera Xweş (Krêta)",
+    "book": "Karên Şandiyan 27:8-12",
+    "today": "Krêta ya îro",
+    "note": "Hişyariya Pawlos a ku dev ji deryayê berdin nayê bihîstin.",
+    "events": []
+   },
+   "crete": {
+    "name": "Krêta",
+    "book": "Tîtûs",
+    "today": "Krêta ya îro",
+    "note": "Piştî berdana wî, girava ku Tîtûs lê dihêle da ku civatan bi rêk bixe.",
+    "events": [
+     "Tîtûs dihêle ku li her bajarî rihspiyan destnîşan bike",
+     "Bang li serokên bêqusûr û dilsoz dike",
+     "Nameya bo Tîtûs dinivîse"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Karên Şandiyan 27–28",
+    "today": "Malta ya îro",
+    "note": "Di nav bahoz û keştîşkestinê re, soza Xwedê dimîne.",
+    "events": [
+     "Bayê ‹bakurrojhilat› keştiyê dişkîne, lê dîsa jî her 276 kes rizgar dibin",
+     "Marek wî digeze, lê ziyan nabîne",
+     "Nexweşên giravê saxlem dike"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakûza",
+    "book": "Karên Şandiyan 28:12",
+    "today": "Sîcîlya, Îtalyaya îro",
+    "note": "Sê rojan li Sîcîlyayê dimînin.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteolî",
+    "book": "Karên Şandiyan 28:13-14",
+    "today": "Pozzuoli, Îtalyaya îro",
+    "note": "Li Îtalyayê peya dibin û bawermendên hevbir pêşwaziya wan dikin.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Karên Şandiyan 28 · Nameyên Girtîgehê · Tîmotêyos II",
+    "today": "Roma, Îtalyaya îro",
+    "note": "Mizgînî di dawiyê de digihîje dilê împeratoriyê — ne dawî, lê destpêk.",
+    "events": [
+     "Du salan di bin çavdêriya malê de, bi wêrekî Padîşahiyê radigihîne",
+     "Ji vir Nameyên Girtîgehê dinivîse (Efesî·Filîpî·Kolosî·Filêmon)",
+     "Paşê dîsa tê girtin, Tîmotêyos II dinivîse û şehîd dibe — «Min şerê baş kir, min qada xwe temam kir»"
+    ]
+   }
+  },
+  "labels": [
+   "Behra Navîn",
+   "Behra Ege",
+   "Asya Biçûk",
+   "Makedonya",
+   "Îtalya"
+  ],
+  "journeys": {
+   "j1": "Rêwîtiya yekem",
+   "j2": "Rêwîtiya duyem",
+   "j3": "Rêwîtiya sêyem",
+   "rome": "Rêwîtiya çarem · ber bi Romayê",
+   "j5": "Rêwîtiya pêncem · piştî berdanê"
+  }
+ }
+}
