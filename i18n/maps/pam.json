@@ -1,0 +1,636 @@
+{
+ "menuName": "Kapampangan",
+ "htmlLang": "pam",
+ "dir": "ltr",
+ "locale": "pam-PH",
+ "brand": "Ing Biblia king Metung a Scroll",
+ "docTitle": "Ing Biblia king Mapa · Ing Biblia king Metung a Scroll",
+ "metaDesc": "Tukyan mu ing agus ning panaun ning Matuang Tipan, ing bie nang Jesus, at ding paglakbe nang Pablo king metung a tutung mapa — milyari ya ing Biblia king tutung lugal.",
+ "s": {
+  "kicker": "Ing Biblia king Metung a Scroll · Ding Mapa",
+  "title": "Ing Biblia king Mapa",
+  "verse": "“King pamihayag mi kekayu tungkul king paniatang nang mitmung kayupayan ning Ginu tamung Jesu-Cristo, e kami menalig karing salitang pigawa. Ikit mi karing sarili ming mata ing ligaya na.” (2 Pedro 1:16)",
+  "purpose": "Ing Biblia e ya alamat. Metung yang tala da ring taung milakad king tutung lugal, petsa, at lagyu. Tukyan mu la ding dalan a deta king metung a mapa, king ayus ning panaun — pindutan mu ing metung a puntu, o pindut me ing ▶ bang lakaran mu iti dikil-dikil.",
+  "ot_kick": "① Matuang Tipan — king kabuuan ning panaun",
+  "ot_h": "Manibat king pamanlalang angga king pamibalik king Jerusalem",
+  "ot_lead": "E ya metung mung paglakbe nune ing agus ning kasaysayan ning pamanatubus manibat king pamanlalang: pamanlalang at pamagkasala → dilubu at Babel → metung a pamananawag (Abraham) → ing labuad pengaku → Pamako → ilang → pamanakup → kayarian → pamibingi → pamipalako → pamibalik.",
+  "je_kick": "② Bayung Tipan — ing bie nang Jesus",
+  "je_h": "Manibat king Betlehem angga king Jerusalem",
+  "je_lead": "Tukyan mu ing bie nang Jesus antimo ing pamanalaysay da ring Ebanghelyo, king ayus — manibat king pangabait na king Betlehem, king pamibinyag na at pamituldu king Galilea, king Samaria, angga king krus, pamibie, at pamanik king Jerusalem.",
+  "pa_kick": "③ Bayung Tipan — ding paglakbe nang Pablo",
+  "pa_h": "Manibat king Antioquia angga karing wakas ning yatu — Roma",
+  "pa_lead": "Manibat king Pentecostes king Jerusalem, nung makananu kumalat ya ing ebanghelyo king kilual ning Judea — king Asia Menor at Europa angga king pusu ning imperyo. Mamili kang metung karing limang paglakbe (mumuna·kadua·katlu + ing paglayag king Roma + kaybat ning pamikawani) at tukyan mu la ding milyari king Ding Dapat kayabe da ring sulat a misulat king dalan.",
+  "foot": "Ding pikuanan · Ding lugal tuki la king teksto ning Biblia at king karaniwan a heograpiya ning Biblia (kayabe ing makanyaning lagyu nung kailangan). Ding pampang, ilug, at danawan mikua la king bukas a datos heograpiko (Natural Earth), pinasimpli.",
+  "contact": "Mga kutang · puna — <a id=\"contact\" class=\"mail\">Sumulat kekami</a>",
+  "play": "Simulan",
+  "pause": "Tuknang",
+  "today": "Ngeni:",
+  "verseCite": "2 Pedro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Pamanlalang · Pamagkasala)",
+    "book": "Genesis 1–3",
+    "today": "ing rehiyon ning Tigris–Eufrates ngeni",
+    "note": "King metung a yatung lelangan a “mayap a mayap,” lulub ya ing kasalanan at pepatd ne ing pisanibatan ning Dios at ning katauan.",
+    "events": [
+     "Pamanlalang king anam a aldo — “mayap a mayap ya”",
+     "Ing tau melalang king larawan ning Dios",
+     "Ing Pamagkasala, at ing pamipalako king Eden",
+     "Ing mumunang pangako ning ebanghelyo — “lasawan na ning anak ning babai ing buntuk ning ulupong”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Ing Dilubu)",
+    "book": "Genesis 6–9",
+    "today": "Bunduk Ararat, king aslagan a dake ning Turkiya ngeni",
+    "note": "Aatulan na ning Dios ing metung a yatung mitmung kasalanan, oneng iniingatan na ing bie king kapamilatan na ning metung a pamilya.",
+    "events": [
+     "Metung a yatung mitmung karokan",
+     "Ing dilubu, at ing arka nang Noe",
+     "Ing kasunduan ning balangaw — “e na dumating pasibayu ing dilubu bang lasakan”"
+    ]
+   },
+   "babel": {
+    "name": "Ing Tore ning Babel",
+    "book": "Genesis 11",
+    "today": "Iraq ngeni (kapatagan ning Sinar)",
+    "note": "Laban king kayabangan a magparas king banua, isambulat na ning Dios ing amanu ra at ding tau king mabilug a yatu.",
+    "events": [
+     "“Talakad tamung metung a siudad at metung a tore… at gawan tamung bantog ing lagyu tamu”",
+     "Guluan na ning Dios ing amanu ra",
+     "Misambulat la ding tau king mabilug a yatu (Sinar — kaybat Babilonia)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Genesis 12",
+    "today": "mauli a Iraq ngeni",
+    "note": "Ing salita ning pamanatubus king Biblia magpasimula ya king pamananawag king metung a lalaki.",
+    "events": [
+     "Aausan ne ning Dios i Abram manibat king Ur ning Caldea",
+     "“Gawan da kang metung a maragul a bansa… kapamilatan mu bendisyunan ku la ding sablang bansa”",
+     "King kasalpantayanan lakwan na ing labuad na"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Genesis 12",
+    "today": "mauli a Turkiya ngeni",
+    "note": "King dalan, tutugun king pamananawag patungu king labuad pengaku.",
+    "events": [
+     "Ing pamilya nang Tera manuknangan ya king Haran",
+     "Mate ya i Tera",
+     "King edad a 75, mumang ya i Abram king Canaan"
+    ]
+   },
+   "shechem": {
+    "name": "Siquem · Canaan",
+    "book": "Genesis 12–50",
+    "today": "Nablus ngeni",
+    "note": "King labuad pengaku metung a pamilya mitatag at ing kasunduan mipasa king salinlahi.",
+    "events": [
+     "Lulub king Canaan, mumunang altar — “king kekang anak ibie ku ing labuad a iti”",
+     "Ing kasunduan (Gen 15) · Isaac · Jacob",
+     "Ding labinaduang anak nang Jacob — lamut da ring labinaduang tribu"
+    ]
+   },
+   "egypt": {
+    "name": "Ehipto (Gosen)",
+    "book": "Genesis 37–50 · Exodo 1",
+    "today": "Delta ning Nilo, Ehipto ngeni",
+    "note": "Metung a pamilya meging metung a maragul a bansa — kaybat metung a bansa da ring ipus.",
+    "events": [
+     "I Jose, mepisali, mipayatas bang mamuntuk king Ehipto",
+     "Ing mabilug a pamilya nang Jacob binaba bang makatakas king danup",
+     "Ing tutubung bansa ning Israel meging ipus"
+    ]
+   },
+   "sinai": {
+    "name": "Bunduk Sinai",
+    "book": "Exodo · Levitico",
+    "today": "Tangway Sinai ngeni",
+    "note": "Ing sentrung pamanligtas king Matuang Tipan — ding ipus meging sariling memalen ning Dios.",
+    "events": [
+     "Ding apulung salut at ing kordero ning Pamako",
+     "Mibiyak ya ing Pulang Dayatmalat at meglakbe la",
+     "Ding Apulung Utus, ing Kautusan, ing tabernakulo at ding daus"
+    ]
+   },
+   "kadesh": {
+    "name": "Kades (ilang)",
+    "book": "Bilang · Deuteronomio",
+    "today": "ing ilang ning Sinai–Negev ngeni",
+    "note": "Uli ning e pamaniwala, mesira ne king metung a salinlahi ing labuad — oneng manatili ya ing Dios kayabe ra.",
+    "events": [
+     "Labinaduang tiktik — oneng ding tau e la buring maniwala",
+     "38 banwa king ilang — manna, ulap at api",
+     "King kapatagan ning Moab, ing tauling sermon nang Moises (Deuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Josue",
+    "today": "Jerico ngeni",
+    "note": "King kapupusan lulub la at akamit da ing labuad pengaku.",
+    "events": [
+     "Mibiyak ya ing Jordan at meglakbe la ding tau",
+     "Mibagsak la ding kuta ning Jerico",
+     "Ing pamanakup king Canaan at ing pamibinge king labuad"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Ding Ukum)",
+    "book": "Ukum · Rut",
+    "today": "Khirbet Seilun ngeni",
+    "note": "Alang ari, daraptan na ning balang metung itang buri na — kailangan ya ing metung a tutung ari.",
+    "events": [
+     "Mitalakad ya ing tabernakulo king Silo",
+     "Ing siklo ning kasalanan–pamaniil–pamanligtas (Debora, Gideon, Samson)",
+     "Rut — katapatan king madalumdum a panaun, king lahi nang David"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem · Ing Misanmetung a Kayarian",
+    "book": "1–2 Samuel · 1 Ari",
+    "today": "Jerusalem ngeni",
+    "note": "Ing gintong panaun ning Israel — at ing pangako ning metung a aring alang angga.",
+    "events": [
+     "I Saul ing mumunang ari, kaybat i David at i Goliat",
+     "Ing kasunduan kang David — “ing kekang tronu king kapilan pa man” (2 Sam 7)",
+     "Tinalakad ne ning Solomon ing templo king Jerusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Ing Mibingi a Kayarian",
+    "book": "Ding Ari · ding Propeta",
+    "today": "Sebastia ngeni",
+    "note": "Mibingi ya ing kayarian at mukdu ya kabang papabala la ding propeta.",
+    "events": [
+     "Kaybat nang Solomon, ing pamibingi king Juda at Israel",
+     "Ing uulitan a pamaglaru king dios-diosan",
+     "I Elias, Isaias, Jeremias mananawag “mibalik kayu” — at pipropesiyan de ing Mesias"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "2 Ari 17 · Jonas",
+    "today": "Mosul, Iraq ngeni",
+    "note": "Papaburen ing balang babala, mumuna yang mibagsak ing paroba.",
+    "events": [
+     "Ninive, ing kabisera ning Asiria",
+     "Mibagsak ya ing paroba a kayarian king Asiria (722 BC)",
+     "Tinubud ya i Jonas king Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilonia",
+    "book": "2 Ari 25 · Daniel · Ezekiel",
+    "today": "Hillah, Iraq ngeni",
+    "note": "Ing pekamadalumdum a bengi — oneng manatili ya ing pangako ning pamanumbalik.",
+    "events": [
+     "Mibagsak ya ing Jerusalem, misilab ya ing templo (586 BC)",
+     "Dinalan da la king Babilonia ding tau ning Juda",
+     "Daniel at Ezekiel — kasalpantayanan at pangaisip king pamipalako"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Ester · Nehemias",
+    "today": "Shush, Iran ngeni",
+    "note": "Agyang king pusu na ning metung a paganong imperyo, iniingatan na ning Dios ing memalen na.",
+    "events": [
+     "Linupig na ning Persia ing Babilonia",
+     "Liligtas no la ning Ester ding Judio king pamaglipul",
+     "Manalangin ya i Nehemias king arapan na ning ari at tinubud ya"
+    ]
+   },
+   "return": {
+    "name": "Pamibalik king Jerusalem",
+    "book": "Esdras · Nehemias · Malaquias",
+    "today": "Jerusalem ngeni",
+    "note": "Muli la at tinalakad da pasibayu — oneng alang aring dinatang. Manaya la king Mesias.",
+    "events": [
+     "Atlung balon a pamibalik king utus nang Ciro (Zerubabel 538 · Esdras 458 · Nehemias 444)",
+     "Mitalakad ya pasibayu ing templo at mepasanting da la ding kuta ning Jerusalem",
+     "Malaquias — ing kapupusan ning Matuang Tipan: “Iparala ke ing kanakung tubud”"
+    ]
+   }
+  },
+  "labels": [
+   "Dayatmalat Mediteraneo",
+   "Mesopotamia",
+   "Ilang ning Arabia",
+   "Ehipto"
+  ],
+  "journeys": {
+   "flow": "Ing kasaysayan ning pamanatubus"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mateo 1–2 · Lucas 2",
+    "today": "Betlehem ngeni",
+    "note": "Ing Mesias a pengaku datang ya king balen nang David — ing Amanu a meging tau.",
+    "events": [
+     "Mibait ya king Betlehem, ing balen nang David",
+     "Ibalita da ring anghel ing balita karing pastul",
+     "Ding Mago datang la bang sumamba"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lucas 2 · 4",
+    "today": "Nazaret ngeni",
+    "note": "Ing Dios tinubu yang tau king metung a karaniwan a balen.",
+    "events": [
+     "Melagu king bale ning metung a karpintero",
+     "King edad a labindua, mangutang at makibat king templo",
+     "Kaybat, tinakwilan king sinagoga ning balen na"
+    ]
+   },
+   "jordan": {
+    "name": "Ilug Jordan",
+    "book": "Mateo 3–4",
+    "today": "ing mababang Jordan ngeni",
+    "note": "Magpasimula ya ing pamituldu na king lawak — sesellyuan ne ning banua bilang ing Anak.",
+    "events": [
+     "Binyagan ne i Juan",
+     "Kumuldas ya ing Espiritu a anti mong salampati — “Iti ya ing kanakung Anak a pakamalan”",
+     "Tinalu na la ding atlung tukse nang Satanas king ilang"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "Juan 2",
+    "today": "Kafr Kanna ngeni",
+    "note": "King mumunang tanda na, papakit na ing ligaya na.",
+    "events": [
+     "Metung a bisita king metung a kasal",
+     "Ing danum meging alak — ing mumunang tanda na",
+     "Ding alagad na maniwala la keya"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Juan 2–4",
+    "today": "malapit king Nablus ngeni",
+    "note": "Ing dalan ning mumunang pamituldu — king Jerusalem at patungu king mimurang Samaria.",
+    "events": [
+     "Lelinisan ne ing templo king Jerusalem",
+     "King bengi, i Nicodemo — “Kailangan mung mibayit pasibayu”",
+     "Mabieng danum para king metung a babaing Samaritana"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Mateo 4–13 · Marcos 1–4",
+    "today": "ing pampang ning danawan ning Galilea ngeni",
+    "note": "Ing sentru ning pamituldu king Galilea — ing pamananawag, pamituldu, at pamisalungat ngan mitatagpu keni.",
+    "events": [
+     "Aausan na la ding mangingisda at keni ya manuknangan",
+     "Ing Sermon king Bunduk — “Nuan la ding mangalulu king espiritu”",
+     "Ding talinghaga tungkul king kayarian — at ing tutubung pamisalungat"
+    ]
+   },
+   "galilee": {
+    "name": "Dayatmalat ning Galilea",
+    "book": "Marcos 4 · 6 · Juan 6",
+    "today": "Danawan Kineret ngeni",
+    "note": "King upaya na king kalikasan papakit na nung ninu ya.",
+    "events": [
+     "“Tuknang ka!” — pinatahimik na ing bagyu",
+     "Pekakan na la ding 5,000 king limang tinape at aduang asan",
+     "Milakad ya king babo ning danum"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea Filipos",
+    "book": "Mateo 16–17",
+    "today": "Banias ngeni",
+    "note": "Aintindian da ring alagad king ya ing Cristo, at mibuklat ya ing dalan ning krus.",
+    "events": [
+     "Ing pamagpahayag nang Pedro — “Ika ing Cristo, ing Anak na ning Dios a mabie”",
+     "Mumuna nang ipropesiya ing kamatayan at pamibie na",
+     "Mibayu ing lupa na king ligaya king babo ning bunduk"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Lucas 18–19",
+    "today": "Jerico ngeni",
+    "note": "King dalan paitas king Jerusalem, panintunan na la ding mewala.",
+    "events": [
+     "Binie na ing pamanakit kang bulag a Bartimeo",
+     "Aausan ne i Zaqueo a manyingil buis",
+     "“Ing Anak ning Tau dinatang bang manintun at magligtas karing mewala”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Juan 11–12",
+    "today": "al-Eizariya ngeni",
+    "note": "Papakit na ing upaya na king kamatayan king bisperas ning tauling lingu na.",
+    "events": [
+     "Binie na yang pasibayu i Lazaro king kutkutan — “Aku ing pamibie at ing bie”",
+     "Linanan ne i Maria bilang pamisadya king libing na",
+     "Iting tanda pepatigas na ing balak a patayan ya"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Mateo 21–28 · Lucas 24 · Ding Dapat 1",
+    "today": "Jerusalem ngeni",
+    "note": "Ing taluktuk a tutuldu ya ing mabilug a Biblia — krus, pamibie, pamanik.",
+    "events": [
+     "Ing matagumpeng pamanlub; binaligtad na la pasibayu ding lamesa king templo",
+     "King Tauling Apunan pinipa na la ding bitis da ring alagad",
+     "Mate ya king krus",
+     "Mibie yang pasibayu king katlung aldo, kaybat menik ya"
+    ]
+   }
+  },
+  "labels": [
+   "Dayatmalat Mediteraneo",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Decapolis",
+   "Perea",
+   "Patay a Dayatmalat"
+  ],
+  "journeys": {
+   "life": "Ing dalan nang Jesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioquia",
+    "book": "Ding Dapat 13 · 15",
+    "today": "Antakya, Turkiya ngeni",
+    "note": "Ing pisamban a tutubud nung nukarin magpasimula at mibalik ing misyun karing Gentil.",
+    "events": [
+     "King panalangin ibukud na ning Espiritu di Barnabas at Saulo",
+     "Ing pisamban nung nukarin ding maniwala mumunang inaus a “Cristiano”",
+     "Ing pigmulan da ring mumuna, kaduang, at katlung paglakbe"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Ding Dapat 13:4",
+    "today": "Turkiya ngeni",
+    "note": "Ing pantalan ning Antioquia — meglayag la patungu king Cipre.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Cipre)",
+    "book": "Ding Dapat 13:5",
+    "today": "Cipre ngeni",
+    "note": "Ing mumunang tuknangan king Cipre — mangaral karing sinagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Ding Dapat 13:6-12",
+    "today": "Cipre ngeni",
+    "note": "Papakit ya ing upaya laban karetang sumalungat king ebanghelyo.",
+    "events": [
+     "I Elimas a salamangkero mebulag ya",
+     "Meniwala ya i Sergio Paulo a proconsul",
+     "Manibat keni, i “Pablo” ing mamuntuk"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Ding Dapat 13:13",
+    "today": "Antalya, Turkiya ngeni",
+    "note": "Metung a pantalan king Pamfilia — keni mibalik ya i Juan Marcos.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioquia ning Pisidia",
+    "book": "Ding Dapat 13:14-50",
+    "today": "Yalvaç, Turkiya ngeni",
+    "note": "Ing ebanghelyo mibuklat ya patungu karing Gentil.",
+    "events": [
+     "Metung a mahabang sermon king kasaysayan ning kaligtasan king sinagoga",
+     "Dakal a Gentil ing matula at tinggap ing amanu",
+     "Mitabi la uli ning pamisalungat"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Ding Dapat 14:1-7",
+    "today": "Konya, Turkiya ngeni",
+    "note": "Dakal ing maniwala, oneng ing pamaniil pilit na lang mumang.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Ding Dapat 14:8-20",
+    "today": "Turkiya ngeni",
+    "note": "Inaus a metung a dios, kaybat binatu.",
+    "events": [
+     "Pinakayap na ing metung a lalaking pilay manibat pangabait",
+     "Ding karakalan subukan dang mag-daus karela bilang dios",
+     "Binatu at ilako a antimong mete, oneng mibangun ya"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Ding Dapat 14:20-21",
+    "today": "Turkiya ngeni",
+    "note": "Dakal a alagad ing megawa; mibalik la ban pasiasan da la ding pisamban.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Ding Dapat 16:8-10",
+    "today": "Turkiya ngeni",
+    "note": "Ing puntung pamibayu nung nukarin ing ebanghelyo mumunang mumang king Europa.",
+    "events": [
+     "Metung a pangaisip ning metung a lalaking taga-Macedonia",
+     "“Dumaya kayu keni at saupan yu kami”",
+     "Tambing lang meglakbe king Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipos",
+    "book": "Ding Dapat 16 · Filipos",
+    "today": "paroba a Grecia ngeni",
+    "note": "Ing mumunang pisamban king Europa — magtagumpe ya ing ebanghelyo agyang king karsel.",
+    "events": [
+     "I Lidia, metung a talapaglaku king imalan a lila, meniwala ya",
+     "Metung a babaing ipus a manula meging ligtas",
+     "Ding kanta king kapitnang bengi, metung a ayun, miligtas ing pamilya ning bantay-karsel"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonica",
+    "book": "Ding Dapat 17 · 1–2 Tesalonica",
+    "today": "Tesaloniki, Grecia ngeni",
+    "note": "Ilulug na ning amanu ing siudad at magsulak ya ing pamisalungat.",
+    "events": [
+     "Makikatuliran ya king sinagoga king atlung Sabbath",
+     "“Deti ding taung biniligtad da ing yatu”",
+     "Tinakas la king bengi"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Ding Dapat 17:10-15",
+    "today": "Veria, Grecia ngeni",
+    "note": "Ding “marangal” a sinuri king amanu king sarili ra.",
+    "events": [
+     "Tinggap da ing amanu king malubus a lugud",
+     "Aldo-aldo suriin da ing Kasulatan bang akit nung tutu",
+     "Dakal ing meniwala"
+    ]
+   },
+   "athens": {
+    "name": "Atenas",
+    "book": "Ding Dapat 17:16-34",
+    "today": "Atenas, Grecia ngeni",
+    "note": "King siudad da ring pilosopo, ipahayag na ing “dios a e balu.”",
+    "events": [
+     "Migalit ya king metung a siudad a mitmung dios-diosan",
+     "King Areopago ipangaral na ing Manlalang at ing pamibie",
+     "Tinuya de, oneng pilan ing meniwala"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Ding Dapat 18 · 1–2 Corinto",
+    "today": "Grecia ngeni",
+    "note": "Manatili ya king metung banwa't kapitna, tatanam yang pisamban king metung a siudad ning karokan.",
+    "events": [
+     "Gagawa yang tolda da di Aquila at Priscila",
+     "“E ka tatakut… uling atyu ku kayabe mu”",
+     "Dakal a taga-Corinto ing meniwala at mebinyagan"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Ding Dapat 19 · Efeso",
+    "today": "Selçuk, Turkiya ngeni",
+    "note": "Ing pusu ning katlung paglakbe — kumalat ya ing amanu king mabilug a Asia.",
+    "events": [
+     "Aldo-aldong pamituldu king aduang banwa king bulwagan nang Tirano",
+     "Misilab la ding libru ning salamangka; mayupayang dapat",
+     "I Demetrio a platero magpasimula yang gulu"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Ding Dapat 20:17-38",
+    "today": "Turkiya ngeni",
+    "note": "Metung a maluang pamamun karing makatua ning Efeso.",
+    "events": [
+     "“Ingatan yu ing pisamban a sinali na king sariling daya na”",
+     "Tinangis la ding makatua, uling balu rang e re akit pasibayu"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Ding Dapat 23–26",
+    "today": "ing pampang ning Israel ngeni",
+    "note": "King aduang banwa ipagtanggul na ing ebanghelyo king arapan da ring gobernador at metung a ari.",
+    "events": [
+     "Ding paglilis king arapan da ring gobernador a Felix at Festo",
+     "Ing pamagtanggul na king arapan na ning aring Agripa",
+     "“Aapila ku kang Cesar” — patungu king Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalem",
+    "book": "Ding Dapat 21–23",
+    "today": "Jerusalem ngeni",
+    "note": "Dinakap king templo, magpasimula ya ing dalan na bilang metung a bilanggu.",
+    "events": [
+     "Dinakap ne ning karakalan king templo",
+     "Igtanggul na ing sarili na king arapan na ning kapulungan",
+     "Bilang metung a mamamalen a Romano, tinubud ya a mabantayan king Cesarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Ding Dapat 27:5-6",
+    "today": "Demre, Turkiya ngeni",
+    "note": "Milipat la king metung a barkung taga-Alejandria a patungu king Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Mayayap a Dungguan (Creta)",
+    "book": "Ding Dapat 27:8-12",
+    "today": "Creta ngeni",
+    "note": "Ing babala nang Pablo a tuknang ing paglayag e da dimdam.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tito",
+    "today": "Creta ngeni",
+    "note": "Kaybat ning pamikawani na, ing pulu nung nukarin lakwan ne i Tito bang ayusan na la ding pisamban.",
+    "events": [
+     "Lelakwan ne i Tito bang mamili makatua king balang balen",
+     "Mananawag ya karing alang kapintasan, tapat a pamuntuk",
+     "Sinulat na ing sulat kang Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Ding Dapat 27–28",
+    "today": "Malta ngeni",
+    "note": "King kilub ning bagyu at pamaglunud ning barku, manatili ya ing pangako ning Dios.",
+    "events": [
+     "Ing masiasan a angin siniran na ing barku, oneng ligtas la ngan ding 276",
+     "Kinagat ne ning metung a ulupong, oneng e ya mesaktan",
+     "Pinakayap na la ding misasakit king pulu"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Ding Dapat 28:12",
+    "today": "Sicilia, Italia ngeni",
+    "note": "Manatili la king atlung aldo king Sicilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Ding Dapat 28:13-14",
+    "today": "Pozzuoli, Italia ngeni",
+    "note": "Dinatang la king Italia at sinalubung da la ding kapatad a maniwala.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Ding Dapat 28 · Ding Sulat king Pikulan · 2 Timoteo",
+    "today": "Roma, Italia ngeni",
+    "note": "Miras ne ing ebanghelyo king pusu na ning imperyo king kapupusan — e ya wakas nune pasimula.",
+    "events": [
+     "Aduang banwang mikulung king bale, matapang nang ipahayag ing kayarian",
+     "Manibat keni sinulat na la ding Sulat king Pikulan (Efeso·Filipos·Colosas·Filemon)",
+     "Kaybat mikulung yang pasibayu, sinulat na ing 2 Timoteo at mete yang martir — “Milaban ku king mayap a pamilaban, tinapus ku ing lumba”"
+    ]
+   }
+  },
+  "labels": [
+   "Dayatmalat Mediteraneo",
+   "Dayatmalat Egeo",
+   "Asia Menor",
+   "Macedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Mumunang paglakbe",
+   "j2": "Kaduang paglakbe",
+   "j3": "Katlung paglakbe",
+   "rome": "Kapat a paglakbe · patungu Roma",
+   "j5": "Kalimang paglakbe · kaybat ning pamikawani"
+  }
+ }
+}
