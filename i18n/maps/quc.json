@@ -1,0 +1,636 @@
+{
+ "menuName": "K'iche'",
+ "htmlLang": "quc",
+ "dir": "ltr",
+ "locale": "quc-GT",
+ "brand": "Ri Loc'olaj Pixab pa jun chapanic",
+ "docTitle": "Ri Loc'olaj Pixab pa mapa · Ri Loc'olaj Pixab pa jun chapanic",
+ "metaDesc": "Cha'tereneba' ri u be ri Ojer Pixab, ri u c'aslemal ri Jesus, xukuje' ri u binem ri Pablo puwi' jun kas mapa — ri Loc'olaj Pixab xc'ulmataj pa kas tak luwar.",
+ "s": {
+  "kicker": "Ri Loc'olaj Pixab pa jun chapanic · Mapa",
+  "title": "Ri Loc'olaj Pixab pa mapa",
+  "verse": "“Aretak xkatzijoj ri u cuinem xukuje' ri u petic ri Kajaw Jesucrist chiwe, man xkatzijoj ta chomanic chiwe ri xa' ta pa qui jolom ri winak elinak wi ulok, xane kas uj xujilow ri u nimalil ri Jesucrist.” (Ucab Pedro 1:16)",
+  "purpose": "Ri Loc'olaj Pixab man are ta sachibal na'oj. Are jun tz'ibanic chquij ri winak ri xebin puwi' kas tak luwar, kas tak k'ij, ruc' kas tak bi'aj. Cha'tereneba' wa' tak be puwi' jun mapa, pa u wäch ri k'ij — cha'chapa' jun c'olibal, o cha'pitz'a' ▶ che u binem jujun rat'al jujun rat'al.",
+  "ot_kick": "① Ojer Pixab — pa u be ri k'ij",
+  "ot_h": "Chreje ri banoj c'ä che ri tzelejem pa Jerusalen",
+  "ot_lead": "Man xa ta jun binem, xane' ri u be ri tzijonem re toc'obanic chreje ri banoj: banoj ruc' tzakic → butic ruc' Babel → jun sic'inic (Abraham) → ri ulew yo'm pa bixonem → Elem → juyub takaj → ch'aquibal → ajawibal → jachanic → c'amem bic → tzelejem.",
+  "je_kick": "② C'ac' Pixab — ri u c'aslemal ri Jesus",
+  "je_h": "Chreje Belen c'ä pa Jerusalen",
+  "je_lead": "Cha'tereneba' ri u c'aslemal ri Jesus jacha' cäquibij ri utzalaj tak tzij, pa u wäch — chreje ri u winakirem pa Belen, ru kasan ha' ruc' ru patan pa Galilea, chreje Samaria, c'ä che ri ripibal, c'astajibal ruc' paki'bal chicaj pa Jerusalen.",
+  "pa_kick": "③ C'ac' Pixab — ri u binem ri Pablo",
+  "pa_h": "Chreje Antioquía c'ä che ru chi' ri uwächulew — Roma",
+  "pa_lead": "Chreje ri Pentecostés pa Jerusalen, jas che ri utzalaj tzij xel bic chrij ri Judea — chreje ri Asia Menor ruc' ri Europa c'ä che ru c'u'x ri nimalaj takanic. Cha'cha' jun chque ri jo'ob binem (nabe·ucab·rox + ri binem pa Roma + xterene' ri tzokopixic) xukuje' cha'tereneba' ri nimak tak banoj re ri Banoj ruc' ri wuj ri xtz'ibax pa ri be.",
+  "foot": "Jawi' xpe wi · Ri tak luwar cäquitereneb ri tz'ibatal Tzij ruc' ri kas etamabal re ri luwar re ri Loc'olaj Pixab (ruc' ri c'ac' tak bi'aj jawi' cäto'nic). Ri u chi' tak mar, ri nima', ruc' ri cho e esam che ri jamalic etamabal re ri uwächulew (Natural Earth), q'uexom che jun sakil.",
+  "contact": "Pakbal tak tzij · na'oj — <a id=\"contact\" class=\"mail\">Cha'taka' jun wuj chke</a>",
+  "play": "Cha'chapa'",
+  "pause": "Cha'tanaba'",
+  "today": "Wacamic:",
+  "verseCite": "Ucab Pedro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edén (Banoj · Tzakic)",
+    "book": "Chapletajic 1–3",
+    "today": "ri luwar re ri Tigris–Eufrates wacamic",
+    "note": "Pa jun uwächulew ri banom «sibalaj utz», cäoc ri mac xukuje' cuq'upij ri rachilanic chquixo'l ri Dios ruc' ri winak.",
+    "events": [
+     "Wakib k'ij re banoj — «sibalaj utz»",
+     "Ri winak banom che u wäch ri Dios",
+     "Ri tzakic, xukuje' ri elem bic pa Eden",
+     "Ri nabe u bixic ri utzalaj tzij — «ri rija'lil ri ixok cuwach' na ri u jolom ri cumatz»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Ri Butic)",
+    "book": "Chapletajic 6–9",
+    "today": "ri juyub Ararat, relbal k'ij re Turquía, wacamic",
+    "note": "Ri Dios cuk'at tzij puwi' jun uwächulew nojinak che mac, pune' jeri' cuchajij ri c'aslemal rumal xa jun ja.",
+    "events": [
+     "Jun uwächulew nojinak che etzelal",
+     "Ri butic, xukuje' ri barco re ri Noé",
+     "Ri trato re ri arco iris — «man cäpe ta chi jun butic che u sachic ronojel»"
+    ]
+   },
+   "babel": {
+    "name": "Ri Torre re Babel",
+    "book": "Chapletajic 11",
+    "today": "Irak wacamic (ri takaj re Sinar)",
+    "note": "Chrij ri nimal ri cäraj cäopan c'ä chicaj, ri Dios cusach u wäch ri qui ch'abal xukuje' cuquiya' u wäch ri winak cho ronojel ri uwächulew.",
+    "events": [
+     "«Chbana', jun tinimit ruc' jun torre… che u banic ka bi'»",
+     "Ri Dios cusach u wäch ri qui ch'abal",
+     "Ri winak cäquiya' quib cho ri uwächulew (Sinar — xterene' Babilon)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Chapletajic 12",
+    "today": "ri sur re Irak wacamic",
+    "note": "Ri tzijonem re toc'obanic re ri Loc'olaj Pixab cächaplet ruc' ri u sic'ixic xa jun achi.",
+    "events": [
+     "Ri Dios cusic'ij ri Abram che Ur re ri caldeos",
+     "«Quinban na jun nim tinimit awuc'… conojel ri winak cäquirik na tewichibal rumal awech»",
+     "Rumal ri cojonic cuya' can ru tinimit"
+    ]
+   },
+   "haran": {
+    "name": "Harán",
+    "book": "Chapletajic 12",
+    "today": "ri sur re Turquía wacamic",
+    "note": "Pa ri be, cunimaj ri sic'inic chreje ri ulew yo'm pa bixonem.",
+    "events": [
+     "Ri familia re ri Taré cäcanaj can pa Harán",
+     "Cäcäm ri Taré",
+     "Ruc' 75 junab, ri Abram cäbe pa Canaán"
+    ]
+   },
+   "shechem": {
+    "name": "Siquem · Canaán",
+    "book": "Chapletajic 12–50",
+    "today": "Nablus wacamic",
+    "note": "Pa ri ulew yo'm pa bixonem cäwinakir jun familia xukuje' ri trato cäk'ax pa tak ri alaxic.",
+    "events": [
+     "Aretak coc pa Canaán, ri nabe altar — «che ri awija'lil quinya' wi na wa' ulew»",
+     "Ri trato (Chapletajic 15) · Isaac · Jacob",
+     "Ri cablajuj u c'ojol ri Jacob — u xe' ri cablajuj alaxic"
+    ]
+   },
+   "egypt": {
+    "name": "Ejipt (Gosen)",
+    "book": "Chapletajic 37–50 · Elem 1",
+    "today": "ri Delta re ri Nilo, Ejipt, wacamic",
+    "note": "Jun familia cux jun nim tinimit — te c'ut jun tinimit re patanijela'b.",
+    "events": [
+     "Ri José, ri xc'ayixic, cäpaki' che takanic pa Ejipt",
+     "Ronojel ri familia re ri Jacob cäkaj ulok che u tzelexic chuwäch ri wa'ijal",
+     "Ri tinimit Israel ri tajin cänimaric cäux che patanijela'b"
+    ]
+   },
+   "sinai": {
+    "name": "Ri juyub Sinaí",
+    "book": "Elem · Ri Levitico",
+    "today": "ri Península re Sinaí wacamic",
+    "note": "Ri nimalaj toc'obanic re ri Ojer Pixab — ri patanijela'b queux ru tinimit ri Dios.",
+    "events": [
+     "Ri lajuj c'axc'olil xukuje' ri carnel re Pascua",
+     "Cäjakataj ri quiäk mar xukuje' queic'ow chrij",
+     "Ri Lajuj Pixab, ri Pixab, ri rachoch ri Dios ruc' ri sipanic"
+    ]
+   },
+   "kadesh": {
+    "name": "Cades (juyub takaj)",
+    "book": "Ri Números · Ri Deuteronomio",
+    "today": "ri juyub takaj re Sinaí–Néguev wacamic",
+    "note": "Ri man cojonic cuya' che jun alaxic cutzako ri ulew — pune' jeri' ri Dios cäcanaj cuc'.",
+    "events": [
+     "Cablajuj achijab che rilic — are c'u ri winak man cäcaj ta cäquicuba' qui c'u'x",
+     "38 junab pa ri juyub takaj — manaj, sutz' ruc' k'ak'",
+     "Pa tak ri takaj re Moab, ri k'isbal u tzij ri Moisés (Ri Deuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Ri Josue",
+    "today": "Jericó wacamic",
+    "note": "Che ri k'isbal queboc xukuje' cäquic'am ri ulew yo'm pa bixonem.",
+    "events": [
+     "Cäjakataj ri Jordán xukuje' queic'ow ri winak chrij",
+     "Cätzak ri tapia re Jerico",
+     "Ri ch'aquibal re Canaán ruc' ri jachbal re ri ulew"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (K'atal tak Tzij)",
+    "book": "K'atal tak Tzij · Rut",
+    "today": "Khirbet Seilun wacamic",
+    "note": "Man c'o ta ajawinel, chquijujunal cäquiban ri cäkaj chquiwäch — rajawaxic jun kas ajawinel.",
+    "events": [
+     "Cäyac ri rachoch ri Dios pa Silo",
+     "Ri jutak mul re mac–c'axc'olil–toc'obanic (Débora, Gedeón, Sansón)",
+     "Rut — jiquilal pa c'axalaj tak k'ij, pa ri rija'lil ri David"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalen · Ri jun ajawibal",
+    "book": "Nabe–Ucab Samuel · Nabe Ajawinelab",
+    "today": "Jerusalén wacamic",
+    "note": "Ri nimalaj k'ij re Israel — xukuje' ri u bixic jun ajawinel chbe k'ij sak.",
+    "events": [
+     "Saúl ri nabe ajawinel, te c'ut ri David ruc' ri Goliat",
+     "Ri trato ruc' ri David — «ri a tem re ajawibal cäc'oji' na chbe k'ij sak» (Ucab Samuel 7)",
+     "Ri Salomón cuban ri rachoch ri Dios pa Jerusalen"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Ri q'upital ajawibal",
+    "book": "Ajawinelab · ri K'axal tak Tzij",
+    "today": "Sebastia wacamic",
+    "note": "Cäjach ri ajawibal xukuje' cätzak aretak ri k'axal tak tzij cäquirak qui chi'.",
+    "events": [
+     "Xterene' ri Salomón, ri jachanic pa Juda ruc' Israel",
+     "Ri xajbal idolos jutak mul",
+     "Elías, Isaiy, Jeremiy cäquibij «chixtzelej» — xukuje' cäquibij ri Mesias ri cäpe na"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asiria)",
+    "book": "Ucab Ajawinelab 17 · Ri Jonás",
+    "today": "Mosul, Irak, wacamic",
+    "note": "Rumal man xquita ta ri pixabaxic, ri ajawibal re ri norte nabe cätzakic.",
+    "events": [
+     "Ninive, ru nimalaj tinimit ri Asiria",
+     "Ri ajawibal re ri norte cätzak chuwäch ri Asiria (722 nabe che K.)",
+     "Cätak ri Jonás pa Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilon",
+    "book": "Ucab Ajawinelab 25 · Ri Daniel · Ri Ezequiel",
+    "today": "Hillah, Irak, wacamic",
+    "note": "Ri kas k'equ'malaj ak'ab — pune' jeri' ri u bixic re utzalanem cäcanaj canok.",
+    "events": [
+     "Cätzak ri Jerusalen, cäporox ri rachoch ri Dios (586 nabe che K.)",
+     "Ri Juda cäc'am bic pa Babilon",
+     "Daniel ruc' Ezequiel — cojonic ruc' wächbal pa ri c'amem bic"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Ri Ester · Ri Nehemiy",
+    "today": "Shush, Irán, wacamic",
+    "note": "Pune' pa ru c'u'x jun ajawibal re man e cojonel taj, ri Dios cuchajij ru tinimit.",
+    "events": [
+     "Ri Persia cuch'ac ri Babilon",
+     "Ri Ester cuto' ri aj Israel chuwäch ri qui sachic",
+     "Ri Nehemiy cäch'aw ruc' ri Dios chuwäch ri ajawinel xukuje' cätakic"
+    ]
+   },
+   "return": {
+    "name": "Tzelejem pa Jerusalen",
+    "book": "Ri Esdras · Ri Nehemiy · Ri Malaquias",
+    "today": "Jerusalén wacamic",
+    "note": "Cäquitzelej ulok xukuje' cäquiyac chic — are c'u man c'o ta jun ajawinel. Cäquieyej ri Mesias.",
+    "events": [
+     "Oxib mul tzelejem rumal ru pixab ri Ciro (Zorobabel 538 · Esdras 458 · Nehemiy 444)",
+     "Cäyac chic ri rachoch ri Dios xukuje' cäutzalax ri tapia re Jerusalen",
+     "Malaquias — cäk'is ri Ojer Pixab: «Quintak bic ri nu tako'n»"
+    ]
+   }
+  },
+  "labels": [
+   "Ri Mar Mediterráneo",
+   "Mesopotamia",
+   "Ri juyub takaj re Arabia",
+   "Ejipt"
+  ],
+  "journeys": {
+   "flow": "Ri tzijonem re toc'obanic"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Belen",
+    "book": "Ri Mateo 1–2 · Ri Lucax 2",
+    "today": "Belén wacamic",
+    "note": "Ri Mesias yo'm pa bixonem cäpe pa ru tinimit ri David — ri Tzij xux winak.",
+    "events": [
+     "Cäalax pa Belen, ru tinimit ri David",
+     "Ri ángeles cäquiya' ri utzalaj tzij chque ri aj yuk'ab",
+     "Ri aj etamanelab re relbal k'ij cäpe che qui k'ijilaxic"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Ri Lucax 2 · 4",
+    "today": "Nazaret wacamic",
+    "note": "Ri Dios cäqui'y jacha' jun achi pa jun tinimit re jujunel.",
+    "events": [
+     "Cäqui'y pa rachoch jun aj banal che'",
+     "Ruc' cablajuj junab, cäc'oto'n ruc' cäc'ul'an tzij pa ri rachoch ri Dios",
+     "Xterene' cäetzelax pa ri synagoga re ru tinimit"
+    ]
+   },
+   "jordan": {
+    "name": "Ri nima' Jordán",
+    "book": "Ri Mateo 3–4",
+    "today": "ri u xe' re ri nima' Jordán wacamic",
+    "note": "Cächaplet ru patan chquiwäch conojel — cätz'apix rumal ri caj che u C'ojol ri Dios.",
+    "events": [
+     "Cäkasan ha' rumal ri Xuan Bautista",
+     "Cäkaj ri Uxlabixel jacha' jun palomax — «Are' wa' ri lok'alaj nu C'ojol»",
+     "Cuch'ac ri oxib takchi'nem re ri Satanás pa ri juyub takaj"
+    ]
+   },
+   "cana": {
+    "name": "Caná",
+    "book": "Ri Xuan 2",
+    "today": "Kafr Kanna wacamic",
+    "note": "Pa ri nabe cajmabal cuc'ut ri u juluwem.",
+    "events": [
+     "Jun ula' pa jun c'ulanem",
+     "Ri ja' xux vino — ri nabe cajmabal",
+     "Ri u tijoxelab cäquicojo che"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Ri Xuan 2–4",
+    "today": "chunakaj Nablus wacamic",
+    "note": "Ri nabe be re patan — chreje Jerusalen c'ä pa ri etzelam Samaria.",
+    "events": [
+     "Cuch'ajch'obej ri rachoch ri Dios pa Jerusalen",
+     "Chak'ab, ri Nicodemo — «Rajawaxic chi catalax chic»",
+     "C'aslic ja' che jun ixok aj Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Ri Mateo 4–13 · Ri Marcux 1–4",
+    "today": "ri u chi' ri cho re Galilea wacamic",
+    "note": "Ru c'olibal re ri patan pa Galilea — waral cäquimol quib ri sic'inic, ri tijonic, ruc' ri c'ulel.",
+    "events": [
+     "Cusic'ij ri chapal tak car xukuje' cäc'oji' waral",
+     "Ri tijonic pa ri juyub — «Utz que ri e meba'ib pa ri qui uxlabal»",
+     "C'ambal tak tzij re ri ajawibal — xukuje' cänimar ri c'ulel"
+    ]
+   },
+   "galilee": {
+    "name": "Ri cho re Galilea",
+    "book": "Ri Marcux 4 · 6 · Ri Xuan 6",
+    "today": "ri cho Kineret wacamic",
+    "note": "Ruc' u chuk'ab puwi' ronojel ri banom cuc'ut jachin rija'.",
+    "events": [
+     "«Chatana', chuxlan» — cutanaba' ri nimalaj cak'ik'",
+     "Cutzuk ri 5,000 winak ruc' wo'ob caxlan wa ruc' quieb car",
+     "Cäbin puwi' ri ja'"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea re Filipo",
+    "book": "Ri Mateo 16–17",
+    "today": "Banias wacamic",
+    "note": "Ri tijoxelab cäquich'obo chi are ri Crist, xukuje' cäjaktaj ri be re ri ripibal.",
+    "events": [
+     "Ri u bixic ri Pedro — «At ri Crist, ru C'ojol ri c'aslic Dios»",
+     "Nabe cubij ri u cämical ruc' ri u c'astajibal",
+     "Cäjalwachix pa juluwem puwi' ri juyub"
+    ]
+   },
+   "jericho": {
+    "name": "Jerico",
+    "book": "Ri Lucax 18–19",
+    "today": "Jericó wacamic",
+    "note": "Pa ri be chreje Jerusalen, cutzucuj ri sachinak.",
+    "events": [
+     "Cuya' u wak'bal che ri moy Bartimeo",
+     "Cusic'ij ri Zaqueo, ri yacöl alcabal",
+     "«Ri u C'ojol ri Achi xpe che qui tzucuxic ruc' qui colic ri e sachinak»"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Ri Xuan 11–12",
+    "today": "al-Eizariya wacamic",
+    "note": "Cuc'ut ru takanic puwi' ri cämical chuwäch ri k'isbal wuk re ru c'aslemal.",
+    "events": [
+     "Cuc'astajisaj ri Lázaro che ri mukbal — «In ri c'astajibal ruc' ri c'aslemal»",
+     "Ri María cuya' aceite chirij re ri u muquic",
+     "Wa' cajmabal cucowirisaj ri chomanic che u camisaxic"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalen",
+    "book": "Ri Mateo 21–28 · Ri Lucax 24 · Banoj 1",
+    "today": "Jerusalén wacamic",
+    "note": "Ri k'isbal jawi' cuc'ut wi rib ronojel ri Loc'olaj Pixab — ripibal, c'astajibal, paki'bal chicaj.",
+    "events": [
+     "Coc ruc' quicotem; cusachisaj chic ri mesa re ri rachoch ri Dios",
+     "Pa ri k'isbal wa'im cuch'aj ri caqan ri tijoxelab",
+     "Cäcäm pa ri ripibal",
+     "Cäc'astaj pa rox k'ij, te c'ut cäpaki' chicaj"
+    ]
+   }
+  },
+  "labels": [
+   "Ri Mar Mediterráneo",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Decápolis",
+   "Perea",
+   "Ri Cämnak Mar"
+  ],
+  "journeys": {
+   "life": "Ri u be ri Jesus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioquía",
+    "book": "Banoj 13 · 15",
+    "today": "Antakya, Turquía, wacamic",
+    "note": "Ri iglesia takanel jawi' cächaplet wi ruc' jawi' cätzelej wi ri patan chque ri man e aj Israel taj.",
+    "events": [
+     "Pa ch'awem ri Uxlabixel cucha' ri Bernabé ruc' ri Saulo",
+     "Ri iglesia jawi' nabe xbix wi «cristianos» chque ri cojonelab",
+     "U chapbal re ri nabe, ucab ruc' rox binem"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Banoj 13:4",
+    "today": "Turquía wacamic",
+    "note": "Ru puerto ri Antioquía — cäquichap qui be pa Chipre.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamina (Chipre)",
+    "book": "Banoj 13:5",
+    "today": "Chipre wacamic",
+    "note": "Ri nabe c'olibal pa Chipre — cäquitzijoj ri tzij pa tak ri synagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Banoj 13:6-12",
+    "today": "Chipre wacamic",
+    "note": "Cäc'ut ru chuk'ab chquiwäch ri quic'ulelaj ri utzalaj tzij.",
+    "events": [
+     "Ri Elimas ri aj itz cäux moy",
+     "Ri Sergio Paulo, ri k'atal tzij, cäcojonic",
+     "Chreje waral ri «Pablo» cäc'oji' chuwäch"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Banoj 13:13",
+    "today": "Antalya, Turquía, wacamic",
+    "note": "Jun puerto pa Panfilia — waral ri Xuan Marcos cätzelej canok.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioquía re Pisidia",
+    "book": "Banoj 13:14-50",
+    "today": "Yalvaç, Turquía, wacamic",
+    "note": "Ri utzalaj tzij cäjakataj chquiwäch ri man e aj Israel taj.",
+    "events": [
+     "Jun nim u tzij re ri tzijonem re toc'obanic pa ri synagoga",
+     "E q'uia chque ri man e aj Israel taj cäquiquicotic xukuje' cäquic'am ri tzij",
+     "Cäquesax bic rumal ri c'ulanem"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Banoj 14:1-7",
+    "today": "Konya, Turquía, wacamic",
+    "note": "E q'uia cäquicojo, are c'u ri c'axc'olisanic cuya' chque chi queböc.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Banoj 14:8-20",
+    "today": "Turquía wacamic",
+    "note": "Cäbix dios che, te c'ut cäch'ay che abaj.",
+    "events": [
+     "Cucunaj jun achi ri man cäcuin ta cäbin chreje ru alaxic",
+     "Ri winak cäcaj cäquiya' sipanic chque jacha' dioses",
+     "Cäch'ay che abaj xukuje' cäcanaj can jacha' cäminak, pune' jeri' cäwalijic"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Banoj 14:20-21",
+    "today": "Turquía wacamic",
+    "note": "E q'uia cäux tijoxelab; cäquitzelej qui be che qui cowirisaxic ri iglesias.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Banoj 16:8-10",
+    "today": "Turquía wacamic",
+    "note": "Ri k'olibal jawi' ri utzalaj tzij nabe cäbe wi pa Europa.",
+    "events": [
+     "Jun wächbal re jun achi aj Macedonia",
+     "«Catpe waral, cojato'o»",
+     "Chanim queic'ow pa Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipos",
+    "book": "Banoj 16 · Aj Filipenseb",
+    "today": "ri norte re Grecia wacamic",
+    "note": "Ri nabe iglesia pa Europa — ri utzalaj tzij cäch'acan pune' pa che'.",
+    "events": [
+     "Ri Lidia, ri c'ayinel morada atz'iyak, cäcojonic",
+     "Cätzokopix jun ali patanijel ri c'o jun uxlabal re q'ijinic ruc'",
+     "Bix pa nic'aj ak'ab, jun cabraqan, cäcolotaj ri rachoch ri chajinel re che'"
+    ]
+   },
+   "thess": {
+    "name": "Tesalónica",
+    "book": "Banoj 17 · Nabe–Ucab aj Tesalonicenseb",
+    "today": "Tesalónica, Grecia, wacamic",
+    "note": "Ri tzij cusil ri tinimit xukuje' cäpoc'ow ri c'ulanem.",
+    "events": [
+     "Cätzijon pa ri synagoga oxib uxlanibal k'ij",
+     "«Ri e winak ri' ri quisuk'um ri uwächulew»",
+     "Cäquelaq'uij quib chak'ab"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Banoj 17:10-15",
+    "today": "Veria, Grecia, wacamic",
+    "note": "Ri e «utz» ri xquic'ot u wäch ri tzij chquijujunal.",
+    "events": [
+     "Cäquic'am ri tzij ruc' ronojel qui c'u'x",
+     "Ronojel k'ij cäquisic'ij ri Tz'ibatalic che rilic we kas tzij",
+     "E q'uia cäquichap cojonic"
+    ]
+   },
+   "athens": {
+    "name": "Atenas",
+    "book": "Banoj 17:16-34",
+    "today": "Atenas, Grecia, wacamic",
+    "note": "Pa ru tinimit ri aj no'jib cutzijoj ri «Dios ri man etamatal taj».",
+    "events": [
+     "Cäyactaj ranima rumal jun tinimit nojinak che idolos",
+     "Puwi' ri Areópago cutzijoj ri Banöl ruc' ri c'astajibal",
+     "Cäyok'ic, pune' jeri' e jujun cäquicojo"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Banoj 18 · Nabe–Ucab aj Corintib",
+    "today": "Grecia wacamic",
+    "note": "Cäcanaj jun junab ruc' nic'aj, cuyac jun iglesia pa jun tinimit re etzelal.",
+    "events": [
+     "Cuban tak carpa ruc' ri Aquila ruc' ri Priscila",
+     "«Maxi'ij awib… rumal chi in c'o awuc'»",
+     "E q'uia aj Corinto cäquicojo xukuje' cäkasan qui ha'"
+    ]
+   },
+   "ephesus": {
+    "name": "Éfeso",
+    "book": "Banoj 19 · Aj Epesib",
+    "today": "Selçuk, Turquía, wacamic",
+    "note": "Ru c'u'x re ri rox binem — ri tzij cäquij u wäch pa ronojel Asia.",
+    "events": [
+     "Cutijoj winak ronojel k'ij quieb junab pa ru ja ri Tiranno",
+     "Cäporox ri wuj re itz; nimak tak chac",
+     "Ri Demetrio, ri banal jastak re plata, cuyac jun ch'o'j"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Banoj 20:17-38",
+    "today": "Turquía wacamic",
+    "note": "Jun oq'ejabal jachbal chque ri e ri'jab re ri iglesia re Éfeso.",
+    "events": [
+     "«Chichajij ri iglesia ri xulok' ruc' ru quic'el»",
+     "Cäquiq'oq' ri e ri'jab, cäquetamaj chi man cäquil ta chic u wäch"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Banoj 23–26",
+    "today": "ri u chi' ri mar re Israel wacamic",
+    "note": "Pa quieb junab cuto' ru wäch ri utzalaj tzij chquiwäch ri k'atal tak tzij ruc' jun ajawinel.",
+    "events": [
+     "K'atbal tzij chquiwäch ri k'atal tak tzij Félix ruc' Festo",
+     "Cuto' ru wäch chuwäch ri ajawinel Agripa",
+     "«Quinya' wib pa ru k'ab ri César» — chreje pa Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalen",
+    "book": "Banoj 21–23",
+    "today": "Jerusalén wacamic",
+    "note": "Cächapik pa ri rachoch ri Dios, cächaplet ri u be jacha' jun aj che'.",
+    "events": [
+     "Cächap rumal ri winak pa ri rachoch ri Dios",
+     "Cuto' rib chuwäch ri molaj k'atal tzij",
+     "Rumal chi are jun aj tinimit re Roma, cätak chajital pa Cesarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Banoj 27:5-6",
+    "today": "Demre, Turquía, wacamic",
+    "note": "Cäquijal qui be pa jun barco aj Alejandría ri cäbe pa Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Utzalaj tak Puerto (Creta)",
+    "book": "Banoj 27:8-12",
+    "today": "Creta wacamic",
+    "note": "Ri u pixab ri Pablo che u tanabaxic ri binem man cäta taj.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Ri Tito",
+    "today": "Creta wacamic",
+    "note": "Xterene' ri u tzokopixic, ri ch'akap ulew jawi' cucanaj wi ri Tito che qui banic suc' ri iglesias.",
+    "events": [
+     "Cucanaj ri Tito che qui cojic e ri'jab pa ronojel tinimit",
+     "Cutz'onoj c'amal tak be ri man c'o ta qui mac, e jiquilic",
+     "Cutz'ibaj ri wuj che ri Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Banoj 27–28",
+    "today": "Malta wacamic",
+    "note": "Chuxo'l ri cak'ik' ruc' ri paxbal barco, ri u bixic ri Dios cäc'oji' jic.",
+    "events": [
+     "Ri nimalaj cak'ik' cupaxij ri barco, pune' jeri' conojel ri 276 cäquirik qui colic",
+     "Cäti' rumal jun cumatz, pune' jeri' man c'o ta c'ax c'ulmatajinak",
+     "Cucunaj ri e yawab re ri ch'akap ulew"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Banoj 28:12",
+    "today": "Sicilia, Italia, wacamic",
+    "note": "Cäcanaj oxib k'ij pa Sicilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Banoj 28:13-14",
+    "today": "Pozzuoli, Italia, wacamic",
+    "note": "Queopan pa Italia xukuje' cäquic'ulaj cumal ri rachalal cojonelab.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Banoj 28 · Wuj tz'ibam pa che' · Ucab Timotey",
+    "today": "Roma, Italia, wacamic",
+    "note": "Ri utzalaj tzij cäopan che ru c'u'x ri nimalaj takanic — man are ta k'isbal, xane' jun u chapic.",
+    "events": [
+     "Quieb junab tz'apital pa jun ja, cutzijoj ri ajawibal ruc' cowilal",
+     "Chreje waral cutz'ibaj ri Wuj tz'ibam pa che' (Aj Epesib·Aj Filipenseb·Aj Colosayib·Filemón)",
+     "Xterene' cätz'apix chic jun mul, cutz'ibaj ri Ucab Timotey xukuje' cäcamisaxic — «Xinch'ojij ri utzalaj ch'o'j, xintz'akatisaj ri anibal»"
+    ]
+   }
+  },
+  "labels": [
+   "Ri Mar Mediterráneo",
+   "Ri Mar Egeo",
+   "Asia Menor",
+   "Macedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Ri nabe binem",
+   "j2": "Ri ucab binem",
+   "j3": "Ri rox binem",
+   "rome": "Ri ucaj binem · pa Roma",
+   "j5": "Ri ro'ob binem · xterene' ri tzokopixic"
+  }
+ }
+}

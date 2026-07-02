@@ -1,0 +1,636 @@
+{
+ "menuName": "Aymar aru",
+ "htmlLang": "ay",
+ "dir": "ltr",
+ "locale": "ay_BO",
+ "brand": "Bibliia mä uñtawina",
+ "docTitle": "Bibliia mapanacana · Bibliia mä uñtawina",
+ "metaDesc": "Antiguo Testamenton tiempopa, Jesusan jacañapa, ucatsti Pablon thaquinacapa mä cheka mapan arcam — Bibliiajj chekpach chekanacanwa pasi.",
+ "s": {
+  "kicker": "Bibliia mä uñtawina · Mapanaca",
+  "title": "Bibliia mapanacana",
+  "verse": "“Cuna yatichäwinactejj jumanacar Jesucristo Tatitusan ch'amapjjata, uqhamarac jutäwipjjat yatichapcsma ucanacajj janiw jakenacan alek säwi arunacäcänti, jan ucasti nanacaw nayranacajjamp Tatitun khapak cancañapjja uñjapjjta.” (2 Pedro 1:16)",
+  "purpose": "Bibliiajj janiw pantjat amuyäwiquiti. Chekpach chekanacan, urunacan ucatsti sutinacan sarnakir jakenacan cuentapawa. Uca thaquinac mä mapan, tiempo tokerjam arcam — mä chekar limt'am, jan ucajj ▶ limt'asa mä kayut mä kayu sarantam.",
+  "ot_kick": "① Antiguo Testamento — tiempo tokerjam",
+  "ot_h": "Luräwit Jerusalenar cutt'awicama",
+  "ot_lead": "Janiw mä sap sarnaqäwiquiti, jan ucasti luräwit qalltasin juchat khespiyañ cuentan sarantäwipawa: luräwi ucatsti jucharu jalanta → diluvio ucatsti Babel → mä jawsäwi (Abraham) → arust'at orake → Egiptot mistuwi → wasara → atipjawi → reino → jaljasiwi → exilio → cutt'awi.",
+  "je_kick": "② Nuevo Testamento — Jesusan jacañapa",
+  "je_h": "Belenat Jerusalencama",
+  "je_lead": "Evangelionacan cuentaparjam Jesusan jacañap arcam, tokerjam — Belenan yuriñapat, bautisäwipa ucatsti Galilean qollasäwipa toke, Samaria makhatasa, Jerusalenan cruz, jacatatäwi ucatsti alajjpacharu mistuwicama.",
+  "pa_kick": "③ Nuevo Testamento — Pablon thaquinacapa",
+  "pa_h": "Antioquíat orake tucuyacama — Roma",
+  "pa_lead": "Jerusalenan Pentecostesat, cunjams evangeliojj Judeat anqharu yatatasi — Jisc'a Asia ucatsti Europa toke imperion chuymaparucama. Phisqha thaquinacat maynijj ajllim (nayrïr·payïr·quimsïr + Romar sarnaqäwi + khespiyat qhepa) ucatsti thaquin kellkat cartanacampi Hechosan lurawinacap arcam.",
+  "foot": "Chekanaca · Chekanacajj bíblico qellqata ucatsti bíblico geografía tokerjam sarapjje (yanapt'ir jichha sutinacampi). Lamar lacanaca, jawiranaca ucatsti qutanacajj jist'arat geográfico datonacat (Natural Earth) marcata, jisc'achata.",
+  "contact": "Jisct'awinaca · amuyt'awinaca — <a id=\"contact\" class=\"mail\">Correo qhelkt'aña</a>",
+  "play": "Sarayaña",
+  "pause": "Sayt'ayaña",
+  "today": "Jichha:",
+  "verseCite": "2 Pedro 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edén (Luräwi · Jucharu jalanta)",
+    "book": "Génesis 1–3",
+    "today": "jichhürunjja Tigris–Éufrates jawiranacan chekapa",
+    "note": "Wali suma lurat orakparuw juchajj mantani, ucatsti Diosampi jakempin chinupa p'akiji.",
+    "events": [
+     "Sojjta urun luräwi — «wali sumänwa»",
+     "Jakejj Diosan uñtaparjam lurata",
+     "Jucharu jalanta, ucatsti Edenat alsuwi",
+     "Nayrïr evangelio arust'awi — «warmin wawapajj asiron p'ekep takjjatani»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Diluvio)",
+    "book": "Génesis 6–9",
+    "today": "jichhürunjja Ararat qollu, jak'a jalsu Turquía",
+    "note": "Diosajj jucham phokhat orakparu juzgi, ucampis mä familia tokew jacañ imi.",
+    "events": [
+     "Ñancachañamp phokhat orake",
+     "Diluvio, ucatsti Noean arcapa",
+     "Arco iris pacto — «janiw wasitatajj diluviompi t'unjañäniti»"
+    ]
+   },
+   "babel": {
+    "name": "Babelan torrepa",
+    "book": "Génesis 11",
+    "today": "jichhürunjja Irak (Sinar pampa)",
+    "note": "Alajjpacharu puriñ munir jach'a chuymar contra, Diosajj arunacap ch'allthapi ucatsti marcanac orak patar willi.",
+    "events": [
+     "«Mä marca ucatsti mä torre utt'ayañäni… sutisaraquiw jach'añchasiñäni»",
+     "Diosajj arunacap ch'allthapi",
+     "Marcanacajj orak patar willt'asi (Sinar — qhepatjja Babilonia)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Génesis 12",
+    "today": "jichhürunjja aynach Irak",
+    "note": "Bibliian juchat khespiyañ cuentapajj mä sap jaken jawsatapampiw kallti.",
+    "events": [
+     "Diosajj Abram caldeonacan Urapat jawsi",
+     "«Mä jach'a marcaruw tucuyäma… take marcanacaw juma toke bendicitäni»",
+     "Iyawsañ toke marcapat mistu"
+    ]
+   },
+   "haran": {
+    "name": "Harán",
+    "book": "Génesis 12",
+    "today": "jichhürunjja aynach Turquía",
+    "note": "Thaquin, arust'at oraker jawsäwir istjasisa.",
+    "events": [
+     "Taré familiajj Haránan qamasi",
+     "Taré jiwi",
+     "Abramajj patunca phisqhani (75) maranïsina Canaanaru sari"
+    ]
+   },
+   "shechem": {
+    "name": "Siquem · Canaán",
+    "book": "Génesis 12–50",
+    "today": "jichhürunjja Naplusa",
+    "note": "Arust'at orakenjja mä familiaw utt'ayasi ucatsti pactojj wila masit wila masiru pasi.",
+    "events": [
+     "Canaanaru mantasa, nayrïr altar — «wawanacamaruw aca orake churäma»",
+     "Pacto (Gn 15) · Isaac · Jacob",
+     "Jacoban tunca payani wawanacapa — tunca payani ayllunacan saphipa"
+    ]
+   },
+   "egypt": {
+    "name": "Egipto (Gosén)",
+    "book": "Génesis 37–50 · Éxodo 1",
+    "today": "jichhürunjja Nilo jawir delta, Egipto",
+    "note": "Mä familiajj mä jach'a marcaru tucu — ucatsti mä esclavo marcaru.",
+    "events": [
+     "José, aljata, Egipton apnakiriru mistu",
+     "Jacoban take familiapajj mach'at khespiyasiñ Egiptoru mantani",
+     "Jilxatir Israel marcajj esclavo tucuyata"
+    ]
+   },
+   "sinai": {
+    "name": "Sinaí qollu",
+    "book": "Éxodo · Levítico",
+    "today": "jichhürunjja Sinaí península",
+    "note": "Antiguo Testamenton chuyman khespiyäwipa — esclavonacajj Diosan marcaparu tucu.",
+    "events": [
+     "Tunca jan walinaca ucatsti Pascuan corderopa",
+     "Wila Lamarajj jaljasi ucatsti makhatapjje",
+     "Tunca Camachinaca, leyi, tabernáculo ucatsti luktäwinaca"
+    ]
+   },
+   "kadesh": {
+    "name": "Cades (wasara)",
+    "book": "Números · Deuteronomio",
+    "today": "jichhürunjja Sinaí–Néguev wasara",
+    "note": "Jan iyawsañajj mä wila masir orake chhaqhtayi — ucampis Diosajj jupanacampi jak'ancasquiwa.",
+    "events": [
+     "Tunca payani qhaway jakenaca — ucampis marcajj jan iyawsañ muni",
+     "Quimsa tunca quimsaqallquni (38) mara wasaran — maná, qenaya ucatsti nina",
+     "Moaban pampanacapan, Moisesan qhepïr yatichäwipa (Deuteronomio)"
+    ]
+   },
+   "jericho": {
+    "name": "Jericó",
+    "book": "Josué",
+    "today": "jichhürunjja Jericó",
+    "note": "Tucuyar arust'at oraker mantapjje ucatsti catupjje.",
+    "events": [
+     "Jordanajj jaljasi ucatsti marcajj makhatani",
+     "Jericon perqhanacapajj tinquni",
+     "Canaanan atipjawi ucatsti orake jaljäwi"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Jueces)",
+    "book": "Jueces · Rut",
+    "today": "jichhürunjja Khirbet Seilun",
+    "note": "Jan reyini, sapa maynisa munañaparjam luri — mä cheka reyiw wakisi.",
+    "events": [
+     "Tabernáculojj Silon sayt'ayata",
+     "Jucha–t'akhesiña–khespiwi lurawi (Débora, Gedeón, Sansón)",
+     "Rut — ch'amac urunacan iyawsäwi, Davidan wila masipan"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalén · Mayachat reino",
+    "book": "1–2 Samuel · 1 Reyes",
+    "today": "jichhürunjja Jerusalén",
+    "note": "Israelan wali suma tiempopa — ucatsti mä wiñay reyin arust'awipa.",
+    "events": [
+     "Saúl nayrïr rey, ucatsti David Goliatampi",
+     "Davidampin pactopa — «tronomajj wiñayataqui» (2 S 7)",
+     "Salomonajj Jerusalenan templo utt'ayi"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Jaljat reino",
+    "book": "Reyes · Profetanaca",
+    "today": "jichhürunjja Sebastia",
+    "note": "Profetanacan jachatapampi, reinojj jaljasi ucatsti aynacht'i.",
+    "events": [
+     "Salomón qhepatjja, Judá Israelampi jaljasi",
+     "Wasitat wasitat idolatría",
+     "Elías, Isaías, Jeremías «cuttanipjjam» sas jachapjje — ucatsti Mesías yatiyapjje"
+    ]
+   },
+   "nineveh": {
+    "name": "Nínive (Asiria)",
+    "book": "2 Reyes 17 · Jonás",
+    "today": "jichhürunjja Mosul, Irak",
+    "note": "Take yatiyäwi jan ist'asa, aljjir reinojj nayraqui tinqui.",
+    "events": [
+     "Nínive, Asirian capitalapa",
+     "Aljjir reinojj Asiria nayrakatapan tinqui (722 a. C.)",
+     "Jonasajj Nínivaru qhitata"
+    ]
+   },
+   "babylon": {
+    "name": "Babilonia",
+    "book": "2 Reyes 25 · Daniel · Ezequiel",
+    "today": "jichhürunjja Hilla, Irak",
+    "note": "Wali ch'amac arumapa — ucampis machakachawi arust'awejj utjasquiwa.",
+    "events": [
+     "Jerusalén tinqui, templo nakhata (586 a. C.)",
+     "Judajj Babiloniaru irpata",
+     "Daniel ucatsti Ezequiel — exilion iyawsaña ucatsti uñjäwinaca"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Persia)",
+    "book": "Ester · Nehemías",
+    "today": "jichhürunjja Shush, Irán",
+    "note": "Mä pagano imperio chuymapansa, Diosajj marcap imasquiwa.",
+    "events": [
+     "Persiajj Babilonia atipji",
+     "Esterajj judíonac tucjañat khespiyi",
+     "Nehemiasajj rey nayrakatapan mayisi ucatsti qhitata"
+    ]
+   },
+   "return": {
+    "name": "Jerusalenaru cutt'awi",
+    "book": "Esdras · Nehemías · Malaquías",
+    "today": "jichhürunjja Jerusalén",
+    "note": "Cutt'anipjje ucatsti wasitat utt'ayapjje — ucampis janiw reyejj jutquiti. Mesías suyt'apjje.",
+    "events": [
+     "Ciron camachipat quimsa cutt'awi (Zorobabel 538 · Esdras 458 · Nehemías 444)",
+     "Templo wasitat sayt'ayata ucatsti Jerusalén perqhanaca askichata",
+     "Malaquías — Antiguo Testamentojj jist'antasi: «Nayaw apirija qhitä»"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterráneo Lamar",
+   "Mesopotamia",
+   "Arabia wasara",
+   "Egipto"
+  ],
+  "journeys": {
+   "flow": "Khespiyañ cuentapa"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Belén",
+    "book": "Mateo 1–2 · Lucas 2",
+    "today": "jichhürunjja Belén",
+    "note": "Arust'at Mesíasajj Davidan marcaparu juti — Arojj janchi tucu.",
+    "events": [
+     "Belén, Davidan marcapan yurita",
+     "Angelanacajj awatirinacar yatiyapjje",
+     "Magonacajj yupaychiri jutapjje"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lucas 2 · 4",
+    "today": "jichhürunjja Nazaret",
+    "note": "Diosajj mä ina marcan jakjam jilaraqui.",
+    "events": [
+     "Mä carpinteron utapan jilata",
+     "Tunca payani maranïsina, templon jisct'asa ucatsti jaysasa",
+     "Qhepatjja pachpa marcapan sinagogapan jaytata"
+    ]
+   },
+   "jordan": {
+    "name": "Jordán jawira",
+    "book": "Mateo 3–4",
+    "today": "jichhürunjja aynach Jordán",
+    "note": "Jakenacan taypin luräwip kallti — alajjpachajj Yokapaspjam uñacht'ayi.",
+    "events": [
+     "Juanan bautisata",
+     "Ajayujj urpi jamaw aynachti — «Acajj munat Yokajawa»",
+     "Wasaran Satanasan quimsa yant'awip atipji"
+    ]
+   },
+   "cana": {
+    "name": "Caná",
+    "book": "Juan 2",
+    "today": "jichhürunjja Kafr Kanna",
+    "note": "Nayrïr uñacht'awipan k'ajañap uñacht'ayi.",
+    "events": [
+     "Mä casaramientoru jawsata",
+     "Umajj vinoru tucu — nayrïr uñacht'awipa",
+     "Discipulonacapajj juparu iyawsapjje"
+    ]
+   },
+   "sychar": {
+    "name": "Sicar (Samaria)",
+    "book": "Juan 2–4",
+    "today": "jichhürunjja Naplusa jak'ana",
+    "note": "Nayrïr qollasäwi thaqui — Jerusalén toke ucatsti jisc'achat Samaria tuqui.",
+    "events": [
+     "Jerusalenan templo k'omachi",
+     "Arumana, Nicodemo — «Wasitat yuriñamawa»",
+     "Mä samaritana warmiru jacañ uma"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaum",
+    "book": "Mateo 4–13 · Marcos 1–4",
+    "today": "jichhürunjja Galilea quta lacana",
+    "note": "Galilean qollasäwipan utapa — jawsäwi, yatichäwi ucatsti contra sartawejj acan jicthapisi.",
+    "events": [
+     "Challwerinac jawsi ucatsti acan qamasi",
+     "Qollun yatichäwipa — «Cusisitaw ajayun pobrenaca»",
+     "Reino parábolanaca — ucatsti jilxatir contra sartawi"
+    ]
+   },
+   "galilee": {
+    "name": "Galilea quta",
+    "book": "Marcos 4 · 6 · Juan 6",
+    "today": "jichhürunjja Tiberíades quta",
+    "note": "Orak patar ch'amanïsina qhitïtapa uñacht'ayi.",
+    "events": [
+     "«Amukt'am, llamp'ancam» — thayamp qutamp llampt'ayi",
+     "Phisqha t'ant'ampi pä challwampi phisqha waranqa jakeru manq'ayi",
+     "Uma pataru saraski"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Cesarea de Filipo",
+    "book": "Mateo 16–17",
+    "today": "jichhürunjja Banias",
+    "note": "Discipulonacajj jupajj Cristopachawa sas amuyapjje, ucatsti cruz thaquejj jist'arasi.",
+    "events": [
+     "Pedron arst'awipa — «Jumajj Cristotawa, jacasir Diosan Yokapa»",
+     "Nayraqui jiwañap jacatatäwipampi yatiyi",
+     "Qolluna k'ajañampi turcasi"
+    ]
+   },
+   "jericho": {
+    "name": "Jericó",
+    "book": "Lucas 18–19",
+    "today": "jichhürunjja Jericó",
+    "note": "Jerusalenaru makhatir thaquin, chhaqhat jaki thaqhi.",
+    "events": [
+     "Juyphi Bartimeoru uñjañ churi",
+     "Impuesto apthapiri Zaqueoru jawsi",
+     "«Jaken Yokapajj chhaqhat thaqhiri ucatsti khespiyiri juti»"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Juan 11–12",
+    "today": "jichhürunjja al-Eizariya",
+    "note": "Qhepïr semanapan nayrakatapan jiwañ patar apnakañap uñacht'ayi.",
+    "events": [
+     "Lazaroru jiwatanacat jactayi — «Nayätwa jacatatäwejja ucatsti jacañajja»",
+     "Mariajj jiwañ imantap laycu perfumempi phiskt'i",
+     "Aca uñacht'awejj jiwayañ amtapa juc'amp ch'amt'ayi"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalén",
+    "book": "Mateo 21–28 · Lucas 24 · Hechos 1",
+    "today": "jichhürunjja Jerusalén",
+    "note": "Take Bibliian jarawir tucuyawipa — cruz, jacatatäwi, alajjpacharu mistuwi.",
+    "events": [
+     "Atipjawimp mantani; wasitat templo mesanac tijrani",
+     "Qhepïr manq'añan discipulonacapan cayup jariqui",
+     "Cruzan jiwi",
+     "Quimsïr urun jactasa, ucatsti alajjpacharu mistu"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterráneo Lamar",
+   "Galilea",
+   "Samaria",
+   "Judea",
+   "Decápolis",
+   "Perea",
+   "Jiwat Lamar"
+  ],
+  "journeys": {
+   "life": "Jesusan thaquipa"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioquía",
+    "book": "Hechos 13 · 15",
+    "today": "jichhürunjja Antakya, Turquía",
+    "note": "Qhitir iglesia, cawcatï gentilanacaru misionajj kallti ucatsti cutti.",
+    "events": [
+     "Mayisiñ taypin Ajayujj Bernabé Saulompi jaljayi",
+     "Iglesia cawcansa iyawsirinacajj nayraqui «cristianos» sas sutiyata",
+     "Nayrïr, payïr ucatsti quimsïr thaquin qalltäwipa"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleucia",
+    "book": "Hechos 13:4",
+    "today": "jichhürunjja Turquía",
+    "note": "Antioquían puertopa — Chipreru sarapjje.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamina (Chipre)",
+    "book": "Hechos 13:5",
+    "today": "jichhürunjja Chipre",
+    "note": "Chipren nayrïr sayt'awi — sinagoganacan yatiyasa.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafos",
+    "book": "Hechos 13:6-12",
+    "today": "jichhürunjja Chipre",
+    "note": "Evangelior contra sartirinacar contra ch'amaw uñacht'ayata.",
+    "events": [
+     "Layka Elimasajj juyphiptata",
+     "Procónsul Sergio Paulojj iyawsi",
+     "Acatjja «Pablo» nayraqui sari"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Hechos 13:13",
+    "today": "jichhürunjja Antalya, Turquía",
+    "note": "Panfilian mä puerto — acan Juan Marcosajj cutt'i.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioquía de Pisidia",
+    "book": "Hechos 13:14-50",
+    "today": "jichhürunjja Yalvaç, Turquía",
+    "note": "Evangeliojj gentilanacar jist'arasi.",
+    "events": [
+     "Sinagogan khespiyañ cuentat mä jaya yatichäwi",
+     "Walja gentilanacajj cusisipjje ucatsti aru catoqhapjje",
+     "Contra sartawimp anthapita"
+    ]
+   },
+   "iconium": {
+    "name": "Iconio",
+    "book": "Hechos 14:1-7",
+    "today": "jichhürunjja Konya, Turquía",
+    "note": "Waljaw iyawsapjje, ucampis persecuciojj nayraru sarañ waqt'i.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Hechos 14:8-20",
+    "today": "jichhürunjja Turquía",
+    "note": "Mä diosjam yupaychata, ucatsti qalampi ch'ojjata.",
+    "events": [
+     "Yurit pachpa cojo jakeru kollani",
+     "Jaqenacajj diosjam luktañ munapjje",
+     "Qalampi ch'ojjata ucatsti jiwatjam jaytata, ucampis sartani"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Hechos 14:20-21",
+    "today": "jichhürunjja Turquía",
+    "note": "Walja discipulonaca lurapjje; iglesianac ch'amañchañ laycu thaquip cutt'ayapjje.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Hechos 16:8-10",
+    "today": "jichhürunjja Turquía",
+    "note": "Evangeliojj nayraqui Europa tuqui sari uca turcaña chekapa.",
+    "events": [
+     "Mä macedonio chachan uñjäwipa",
+     "«Aca tuqui jutasin yanapt'apjjeta»",
+     "Jankaqui Europaru makhatapjje"
+    ]
+   },
+   "philippi": {
+    "name": "Filipos",
+    "book": "Hechos 16 · Filipenses",
+    "today": "jichhürunjja aynach Grecia",
+    "note": "Europan nayrïr iglesiapa — carcel taypinsa evangeliojj atipji.",
+    "events": [
+     "Lidia, larama isi aljiri, iyawsi",
+     "Mä yatir esclava imilla khespiyata",
+     "Chika arumana jayllinaca, mä oraque unujjtawi, carcelero utat khespiyata"
+    ]
+   },
+   "thess": {
+    "name": "Tesalónica",
+    "book": "Hechos 17 · 1–2 Tesalonicenses",
+    "today": "jichhürunjja Tesalónica, Grecia",
+    "note": "Arojj marca unujjtayi ucatsti contra sartawejj phallji.",
+    "events": [
+     "Quimsa samañ urun sinagogan yatiyi",
+     "«Aca take orake unujjtayirinaca»",
+     "Arumana jaltapjje"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Hechos 17:10-15",
+    "today": "jichhürunjja Veria, Grecia",
+    "note": "Aro pachpa qhamir «suma chuymani» jakenaca.",
+    "events": [
+     "Aro cusisiñampi catoqhapjje",
+     "Sapüruw Kellkatanac qhamipjje chekapachächans yatiñataqui",
+     "Waljaw iyawsañaru puripjje"
+    ]
+   },
+   "athens": {
+    "name": "Atenas",
+    "book": "Hechos 17:16-34",
+    "today": "jichhürunjja Atenas, Grecia",
+    "note": "Filósofonacan marcapan «jan uñt'at Dios» yatiyi.",
+    "events": [
+     "Ídolonacamp phokhat marca uñjasa llaquisi",
+     "Areópagon Luriri ucatsti jacatatäwi yatiyi",
+     "Larusiyasi, ucampis mä qhawqhanacajj iyawsapjje"
+    ]
+   },
+   "corinth": {
+    "name": "Corinto",
+    "book": "Hechos 18 · 1–2 Corintios",
+    "today": "jichhürunjja Grecia",
+    "note": "Mä mara chika qamasi, jan wali marcan mä iglesia sat'asa.",
+    "events": [
+     "Aquila Priscilampi carpanac luri",
+     "«Jan ajjsaramti… nayaw jumampïta»",
+     "Walja corintionacajj iyawsapjje ucatsti bautisata"
+    ]
+   },
+   "ephesus": {
+    "name": "Éfeso",
+    "book": "Hechos 19 · Efesios",
+    "today": "jichhürunjja Selçuk, Turquía",
+    "note": "Quimsïr thaquin chuymapa — arojj Asia tuqui yatatasi.",
+    "events": [
+     "Tirano yatiñ utan pä mara sapüru yatichi",
+     "Layka librunaca nakhata; ch'aman luräwinaca",
+     "Kollke luriri Demetriojj mä ch'ajjwa sartayi"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Hechos 20:17-38",
+    "today": "jichhürunjja Turquía",
+    "note": "Efeson irpirinacaparu jachampi jaytäwi.",
+    "events": [
+     "«Pachpa wilapampi alat iglesia awatipjjam»",
+     "Irpirinacajj jachapjje, janiw wasitat uñjapcaniti sas yatisa"
+    ]
+   },
+   "caesarea": {
+    "name": "Cesarea",
+    "book": "Hechos 23–26",
+    "today": "jichhürunjja Israelan lamar lacapa",
+    "note": "Pä mara gobernadoranacan reyin nayrakatapan evangelio arjjatani.",
+    "events": [
+     "Gobernador Félix Festompi juzgäwinaca",
+     "Rey Agripan nayrakatap arjjatäwipa",
+     "«Césararuw apelasta» — Romaru"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerusalén",
+    "book": "Hechos 21–23",
+    "today": "jichhürunjja Jerusalén",
+    "note": "Templon catjata, presojam thaquipajj kallti.",
+    "events": [
+     "Templon jaqenacamp catjata",
+     "Concilio nayrakatapan arjjatasi",
+     "Romano ciudadanojam, awisat Cesareru qhitata"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Hechos 27:5-6",
+    "today": "jichhürunjja Demre, Turquía",
+    "note": "Romaru sarir mä alejandrino barcoru mayjt'apjje.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Buenos Puertos (Creta)",
+    "book": "Hechos 27:8-12",
+    "today": "jichhürunjja Creta",
+    "note": "Pablojj «jan juc'ampi sarapjjañäni» siwa, ucampis jan ist'apjjiti.",
+    "events": []
+   },
+   "crete": {
+    "name": "Creta",
+    "book": "Tito",
+    "today": "jichhürunjja Creta",
+    "note": "Khespiyat qhepatjja, iglesianac askichañataqui Titoru jaytir islapa.",
+    "events": [
+     "Sapa marcan irpirinac uchañataqui Titoru jayti",
+     "Jan juchani, iyawsir irpirinac mayi",
+     "Tituru cartap kellki"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Hechos 27–28",
+    "today": "jichhürunjja Malta",
+    "note": "Thaya wayra ucatsti barco t'unjaw taypina, Diosan arust'awipajj phokhasi.",
+    "events": [
+     "«Euroclidón» thayajj barco t'unji, ucampis pä pataca paqallqu tunca sojjtani (276) khespipjje",
+     "Mä asiru achji, ucampis jan cuns pasi",
+     "Islan usutanac kollani"
+    ]
+   },
+   "syracuse": {
+    "name": "Siracusa",
+    "book": "Hechos 28:12",
+    "today": "jichhürunjja Sicilia, Italia",
+    "note": "Sicilian quimsa urunac qamasipjje.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Hechos 28:13-14",
+    "today": "jichhürunjja Pozzuoli, Italia",
+    "note": "Italiaru puripjje ucatsti iyawsir jilatanacampi jakt'ata.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Hechos 28 · Carcel cartanaca · 2 Timoteo",
+    "today": "jichhürunjja Roma, Italia",
+    "note": "Evangeliojj tucuyar imperion chuymaparu puri — janiw mä tucuyañaquiti, jan ucasti mä qalltañawa.",
+    "events": [
+     "Pä mara utapan catjata, jan ajjsarasa reino yatiyasa",
+     "Acatjja Carcel Cartanac kellki (Ef·Fil·Col·Flm)",
+     "Qhepatjja wasitat catjata, 2 Timoteo kellki ucatsti jiwayata — «Suma ñanjjatïnwa, tucuyar puriwtwa»"
+    ]
+   }
+  },
+  "labels": [
+   "Mediterráneo Lamar",
+   "Egeo Lamar",
+   "Jisc'a Asia",
+   "Macedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Nayrïr thaqui",
+   "j2": "Payïr thaqui",
+   "j3": "Quimsïr thaqui",
+   "rome": "Pusïr thaqui · Romaru",
+   "j5": "Phisqhïr thaqui · khespiyat qhepa"
+  }
+ }
+}
