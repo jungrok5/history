@@ -1,0 +1,636 @@
+{
+ "menuName": "Umbundu",
+ "htmlLang": "umb",
+ "dir": "ltr",
+ "locale": "umb",
+ "brand": "Embimbiliya Vepiluluko Limuamue",
+ "docTitle": "Embimbiliya Lomapa · Embimbiliya Vepiluluko Limuamue",
+ "metaDesc": "Kuama otembo yi Etesitamentu Likulu, omuenyo wa Yesu, lolongendo via Paulu komapa liocili — Embimbiliya lia pita kovitumãlo viocili.",
+ "s": {
+  "kicker": "Embimbiliya Vepiluluko Limuamue · Omapa",
+  "title": "Embimbiliya Lomapa",
+  "verse": "“Momo, eci tuo sapuili unene wa Ñala yetu Yesu Kristu letukuluko liaye, ka tua kuamele olosapo via sovuiwa ño lovoloño esanda, puãi tua kala muẽle olombangi via mola lovaso uwale waye.” (II Petulu 1:16)",
+  "purpose": "Embimbiliya kesimĩlo lia lueyako. Olondaka viomanu va enda kovitumãlo viocili, koloneke viocili, lomanu vocili. Kuama olonjila viaco komapa, vekuama liotembo — tomba kocitumãlo, ale tomba ▶ oco u kuame eteke leteke.",
+  "ot_kick": "① Etesitamentu Likulu — vokuenda kuotembo",
+  "ot_h": "Tunde kesovolo toke ketiukilo ko Yerusalãi",
+  "ot_lead": "Halongendo limosiko puãi epiluluko liulandu wepopelo tunde kesovolo: esovolo lesumuo → odiluvio la Babele → ohuminyo (Avirahama) → ofeka ya huminyiwa → Etundilo → ekalasoko → esandeko → usoma → oku litepa → ukandi → etiukilo.",
+  "je_kick": "② Etesitamentu Likokaliye — omuenyo wa Yesu",
+  "je_h": "Tunde ko Beteleme toke ko Yerusalãi",
+  "je_lead": "Kuama omuenyo wa Yesu ndeci Olondaka Viwa vi u sapula, vekuama — tunde kocitiwo caye ko Beteleme, kambatiso laye lupange wa Galileya, oku pita vo Samária, toke kekulusu, kepinduko, leyandelo ko Yerusalãi.",
+  "pa_kick": "③ Etesitamentu Likokaliye — olongendo via Paulu",
+  "pa_h": "Tunde ko Antiokia toke kasulilo okilu lieve — Roma",
+  "pa_lead": "Tunde ko Pendekositi ko Yerusalãi, ndomo ondaka yiwa ya sandeka oku pita vo Yudea — oku pita vo Asia Yitito la Europa toke kutima weviali. Nõla ongendo yimosi kolongendo vitãlo (yatete·yavali·yatatu + ongendo ko Roma + noke lioku tundisiwa) kuenje kuama ovilinga vi Ovilinga lovikanda via sonehiwa vonjila.",
+  "foot": "Ovinjo · Ovitumãlo vi kuama ondaka Yembimbiliya legeografia Yembimbiliya ya kolisiwa (lomaduko akaliye eci a kuatisa). Ovitepo violui, olondui, lolonjefu via tundila kovidato viofeka via yikuĩla (Natural Earth), via tepuluiwa.",
+  "contact": "Apulilo · olondaka — <a id=\"contact\" class=\"mail\">Tu tumĩle ondaka</a>",
+  "play": "Fetika",
+  "pause": "Puisako",
+  "today": "Cilo:",
+  "verseCite": "II Petulu 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edene (Esovolo · Esumuo)",
+    "book": "Efetikilo 1–3",
+    "today": "Ocitumãlo colui Tigris–Eufrate cilo",
+    "note": "Voluali wa sovoliwa uwa calua, ekandu li iñila kuenje li tepa okukutiwa pokati komunu la Suku.",
+    "events": [
+     "Esovolo koloneke epandu — «ca kala ciwa»",
+     "Omunu wa lulikiwa kelitarã lia Suku",
+     "Esumuo, kuenda oku tundisiwa vo Edene",
+     "Ohuminyo yatete Yondaka Yiwa — «ombuto yukãi yi sasõla utue woñoka»"
+    ]
+   },
+   "noah": {
+    "name": "Ararate (Odiluvio)",
+    "book": "Efetikilo 6–9",
+    "today": "Omunda Ararate, kutundilo wa Turkia cilo",
+    "note": "Suku o sombisa oluali wa yuka ekandu, puãi o tata omuenyo lepata limosi.",
+    "events": [
+     "Oluali wa yuka evĩho",
+     "Odiluvio, lowato wa Noa",
+     "Ocisila cutuwisi — «ka kuli vali odiluvio lioku nyõla»"
+    ]
+   },
+   "babel": {
+    "name": "Otore ya Babele",
+    "book": "Efetikilo 11",
+    "today": "Iraki cilo (okipango kia Sineare)",
+    "note": "Konõlõpange yoku londa kilu, Suku o tataisa alimi avo kuenje o sandula omanu voluali.",
+    "events": [
+     "«Tu tunge onganda lotore… tu litukuise onduko»",
+     "Suku o tataisa elimi liavo",
+     "Omanu va sanduka voluali (Sineare — noke Bavulono)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Efetikilo 12",
+    "today": "kombuelo yo Iraki cilo",
+    "note": "Ulandu wepopelo lio Embimbiliya u fetika lohuminyo yulume umuamue.",
+    "events": [
+     "Suku o tukula Avirama vo Ur ya va Kaladeu",
+     "«Hu lingisa ofeka yinene… apata osi a sumũlũhila kokuove»",
+     "Lekolelo o siapo ofeka yaye"
+    ]
+   },
+   "haran": {
+    "name": "Harã",
+    "book": "Efetikilo 12",
+    "today": "kombuelo yo Turkia cilo",
+    "note": "Vonjila, oku tambulula ohuminyo konepa yofeka ya huminyiwa.",
+    "events": [
+     "Epata lia Tera li tumãla vo Harã",
+     "Tera o fa",
+     "Avirama o enda ko Kanani kunyamo 75"
+    ]
+   },
+   "shechem": {
+    "name": "Sikemi · Kanani",
+    "book": "Efetikilo 12–50",
+    "today": "Nablus cilo",
+    "note": "Vofeka ya huminyiwa epata li fetikiwa kuenje ocisila ci piñala kolosekulu.",
+    "events": [
+     "Oku iñila vo Kanani, otambelo yatete — «kombuto yove ndi eca ofeka yindi»",
+     "Ocisila (Efetikilo 15) · Isake · Yakoba",
+     "Omãla ekũi laviali va Yakoba — ombuto yapata ekũi laviali"
+    ]
+   },
+   "egypt": {
+    "name": "Egito (Gosene)",
+    "book": "Efetikilo 37–50 · Etundilo 1",
+    "today": "Delta yo Nilo, Egito cilo",
+    "note": "Epata li linga ofeka yinene — noke li linga ofeka yupika.",
+    "events": [
+     "Yosefe, wa landisiwa, o kala onene oku viala Egito",
+     "Epata liosi lia Yakoba li loka oku tila onjala",
+     "Ofeka ya Isareli yi kula yi lingiwa upika"
+    ]
+   },
+   "sinai": {
+    "name": "Omunda Sinai",
+    "book": "Etundilo · Eilevi",
+    "today": "Ocitumãlo co Sinai cilo",
+    "note": "Epopelo linene lio Etesitamentu Likulu — upika va linga omanu va Suku.",
+    "events": [
+     "Ovinevenga ekũi lomeme yo Pasikoa",
+     "Okalunga Kacisuva ka tepa kuenje va wa",
+     "Ovihandeleko Ekũi, Ocihandeleko, ondjuwo yongunga lovilumba"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesi (ekalasoko)",
+    "book": "Atendelo · Eihandeleko",
+    "today": "ekalasoko lia Sinai–Negebe cilo",
+    "note": "Oku kamba ekolelo ku tetulula onjali ofeka — puãi Suku o kala lavo.",
+    "events": [
+     "Olondavuluki ekũi lavivali — puãi omanu va likala oku kolela",
+     "Anyamo 38 vekalasoko — omãna, ociñumba lelende, kuenda ondalu",
+     "Vokipango kia Moabe, elongiso liasulako lia Mose (Eihandeleko)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Yehosua",
+    "today": "Yeriko cilo",
+    "note": "Kesulilo va iñila kuenje va tambula ofeka ya huminyiwa.",
+    "events": [
+     "Ondui Yordani yi tepa kuenje omanu va wa",
+     "Olombambo via Yeriko vi wa",
+     "Esandeko lio Kanani lokutepa ofeka"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Liolonganji)",
+    "book": "Liolonganji · Ruti",
+    "today": "Khirbet Seilun cilo",
+    "note": "Okuti ka kua kaile osoma, omunu omunu wa linga eci a yongola — osoma yocili yi sukiwa.",
+    "events": [
+     "Ondjuwo yongunga yi tumãla vo Silo",
+     "Ocitumbu cekandu–ohali–epopelo (Devora, Gideoni, Sãsoni)",
+     "Ruti — ekolelo koloneke viowelema, vepata lia Daviti"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalãi · Usoma wa Liongiya",
+    "book": "I–II Samuele · I Olosoma",
+    "today": "Yerusalãi cilo",
+    "note": "Otembo yiwa ya Isareli — kuenda ohuminyo yosoma ka yi pui.",
+    "events": [
+     "Saulu osoma yatete, noke Daviti la Goliata",
+     "Ocisila la Daviti — «omangu yove otembo ka yi pui» (II Samuele 7)",
+     "Salomãu o tunga onjango vo Yerusalãi"
+    ]
+   },
+   "samaria": {
+    "name": "Samária · Usoma wa Litepa",
+    "book": "Olosoma · Ovaprofeto",
+    "today": "Sebastia cilo",
+    "note": "Usoma u litepa kuenje u loka osimbu ovaprofeto va lila.",
+    "events": [
+     "Noke lia Salomãu, oku litepa vo Yuda la Isareli",
+     "Oku vumba olonganga olonjanga viosi",
+     "Eliya, Isaya, Yeremiya va lila «tinduki» — kuenje va lundula Mesiya"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineve (Asuria)",
+    "book": "II Olosoma 17 · Yona",
+    "today": "Mosul, Iraki cilo",
+    "note": "Oku ivala olungulo viosi, usoma wakokulo wa wa tete.",
+    "events": [
+     "Nineve, onganda yinene ya Asuria",
+     "Usoma wakokulo wa wa ku Asuria (722 osimbu lieyilo lia Yesu)",
+     "Yona o tumiwa ko Nineve"
+    ]
+   },
+   "babylon": {
+    "name": "Bavulono",
+    "book": "II Olosoma 25 · Daniele · Esekiele",
+    "today": "Hillah, Iraki cilo",
+    "note": "Uteke wowelema calua — puãi ohuminyo yetumbululo yi tumãla.",
+    "events": [
+     "Yerusalãi yi wa, onjango yi nyõliwa (586 osimbu lieyilo lia Yesu)",
+     "Yuda yi ambatiwa ko Bavulono",
+     "Daniele la Esekiele — ekolelo lovinanga vukandi"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Peresia)",
+    "book": "Estere · Neyemiya",
+    "today": "Shush, Irã cilo",
+    "note": "Ndaño vutima weviali liolonganga, Suku o tata omanu vaye.",
+    "events": [
+     "Peresia yi yula Bavulono",
+     "Estere o popela ava Yudea kokunyõliwa",
+     "Neyemiya o likutilila kosoma kuenje o tumiwa"
+    ]
+   },
+   "return": {
+    "name": "Etiukilo ko Yerusalãi",
+    "book": "Esera · Neyemiya · Malakiya",
+    "today": "Yerusalãi cilo",
+    "note": "Va tiuka kuenje va tumbulula — puãi osoma ka ya iyile. Va kevelela Mesiya.",
+    "events": [
+     "Olotuwa vitatu vietiukilo lehandeleko lia Kiru (Sorobabele 538 · Esera 458 · Neyemiya 444)",
+     "Onjango yi tumbululiwa kuenda olombambo via Yerusalãi vi tumbululiwa",
+     "Malakiya — Etesitamentu Likulu li sulako: «Ndi tuma omunga yange»"
+    ]
+   }
+  },
+  "labels": [
+   "Okalunga Kokati",
+   "Mesopotamia",
+   "Ekalasoko lio Arabia",
+   "Egito"
+  ],
+  "journeys": {
+   "flow": "Ulandu wepopelo"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Beteleme",
+    "book": "Mateo 1–2 · Luka 2",
+    "today": "Beteleme cilo",
+    "note": "Mesiya wa huminyiwa weya konganda ya Daviti — Ondaka ya linga omunu.",
+    "events": [
+     "Wa citiwa vo Beteleme, onganda ya Daviti",
+     "Ovangelo va sapula olondaka kolombudi",
+     "Vakuolondunge veya oku fendela"
+    ]
+   },
+   "nazareth": {
+    "name": "Nasarete",
+    "book": "Luka 2 · 4",
+    "today": "Nasarete cilo",
+    "note": "Suku o kula ndomunu vonganda yeci lika.",
+    "events": [
+     "Wa tekuliwa vonjo yukuoviti",
+     "Kunyamo ekũi laviali, o pula loku tambulula vonjango",
+     "Noke wa likaliwa vosinangoga yofeka yaye"
+    ]
+   },
+   "jordan": {
+    "name": "Ondui Yordani",
+    "book": "Mateo 3–4",
+    "today": "Ondui Yordani yombuelo cilo",
+    "note": "Upange waye pokati weya efetikilo — ilu li u lekisa okuti Omõla.",
+    "events": [
+     "Wa ambatisiwa la Yoano",
+     "Espiritu o loka ndonjiva — «Ondaye eyi Omõla wange ndisole»",
+     "O yula olangiso vitatu via Satana vekalasoko"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yoano 2",
+    "today": "Kafr Kanna cilo",
+    "note": "Vocikomo caye catete o situlula ulamba waye.",
+    "events": [
+     "Ukombe kuvala",
+     "Ovava a pongoloiwa vovinyu — ocikomo caye catete",
+     "Olondonge viaye vi u kolela"
+    ]
+   },
+   "sychar": {
+    "name": "Sikari (Samária)",
+    "book": "Yoano 2–4",
+    "today": "ocipepi la Nablus cilo",
+    "note": "Onjila yupange watete — oku pita vo Yerusalãi toke ko Samária ya kembaliwa.",
+    "events": [
+     "O yelisa onjango vo Yerusalãi",
+     "Vuteke, Nikodemo — «O sukila oku citiwa vali»",
+     "Ovava omuenyo kukãi ukua Samária"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Mateo 4–13 · Marko 1–4",
+    "today": "kolutui lwo Galileya cilo",
+    "note": "Onjo yupange wa Galileya — oku tukula, oku longisa, lohutu vi lisanga apa.",
+    "events": [
+     "O tukula ovakuolohi kuenje o tumãla apa",
+     "Elongiso Komunda — «Va sumũlũhĩwa ava vahukũi kespiritu»",
+     "Olosapo viusoma — lohutu yi kula"
+    ]
+   },
+   "galilee": {
+    "name": "Okalunga ka Galileya",
+    "book": "Marko 4 · 6 · Yoano 6",
+    "today": "Onjefu Kinerete cilo",
+    "note": "Lunene wokuviala ovina via sovoliwa o lekisa eye helie.",
+    "events": [
+     "«Talala, kala ño» — o talalisa epela",
+     "O tekula 5.000 lolombolo vitãlo lolõsi vivali",
+     "O enda kilu liovava"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Sesareya Filipi",
+    "book": "Mateo 16–17",
+    "today": "Banias cilo",
+    "note": "Olondonge vi kũlĩha okuti eye Kristu, kuenje onjila yekulusu yi yulula.",
+    "events": [
+     "Elitava lia Petulu — «Ove o Kristu, Omõla wa Suku umuenyo»",
+     "O lundula tete okufa lepinduko liaye",
+     "Wa pongoloiwa vulamba komunda"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Luka 18–19",
+    "today": "Yeriko cilo",
+    "note": "Vonjila yoku londa ko Yerusalãi, o sanda ava va nyelela.",
+    "events": [
+     "O yapula ovaso a Bartimeu ocimeke",
+     "O tukula Sakeu ukuakuongela osolo",
+     "«Omõla womunu weya oku sanda loku popela ava va nyelela»"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Yoano 11–12",
+    "today": "al-Eizariya cilo",
+    "note": "Kosemana yaye yasulako yi laika oku iya, o lekisa okuti o yula okufa.",
+    "events": [
+     "O pindula Lasaro veyambo — «Ame ndi epinduko lomuenyo»",
+     "Maria o u wãvĩka oco a pumbiwe",
+     "Ocikomo eci ci pamekisa oñusa yoku u ponda"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalãi",
+    "book": "Mateo 21–28 · Luka 24 · Ovilinga 1",
+    "today": "Yerusalãi cilo",
+    "note": "Ocimãho Embimbiliya liosi li lekisa — ekulusu, epinduko, eyandelo.",
+    "events": [
+     "Oku iñila lesanju; o pindula vali olomesa vonjango",
+     "Kolia liasulako o sukula olomahu violondonge",
+     "O fa kekulusu",
+     "Wa pinduka keteke liatatu, noke wa yandela"
+    ]
+   }
+  },
+  "labels": [
+   "Okalunga Kokati",
+   "Galileya",
+   "Samária",
+   "Yudea",
+   "Dekapoli",
+   "Pereya",
+   "Okalunga Kokufa"
+  ],
+  "journeys": {
+   "life": "Onjila ya Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Ovilinga 13 · 15",
+    "today": "Antakya, Turkia cilo",
+    "note": "Ekongelo liokutuma apa upange kua vakualofeka wa fetika kuenje wa tiukila.",
+    "events": [
+     "Velikutililo Espiritu o tepa Barnabasi la Saulu",
+     "Ekongelo apa akolisi va tukuiwa tete 'Vakristão'",
+     "Ocitumãlo cefetikilo liolongendo viatete, viavali, viatatu"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Ovilinga 13:4",
+    "today": "Turkia cilo",
+    "note": "Owanjo wa Antiokia — va enda vowato ko Kipre.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salami (Kipre)",
+    "book": "Ovilinga 13:5",
+    "today": "Kipre cilo",
+    "note": "Ocitumãlo catete ko Kipre — oku kunda vosinangoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Ovilinga 13:6-12",
+    "today": "Kipre cilo",
+    "note": "Unene wa lekisiwa ku ava va tamalãla ondaka yiwa.",
+    "events": [
+     "Elima ukuandumba o lingiwa ocimeke",
+     "Sergio Paulu onganji o kolela",
+     "Tunde apa 'Paulu' o songola"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Ovilinga 13:13",
+    "today": "Antalya, Turkia cilo",
+    "note": "Owanjo vo Panfilia — apa Yoano Marko o tiuka.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia ya Pisidia",
+    "book": "Ovilinga 13:14-50",
+    "today": "Yalvaç, Turkia cilo",
+    "note": "Ondaka yiwa yi yulula konepa ya vakualofeka.",
+    "events": [
+     "Elongiso lilepa liulandu wepopelo vosinangoga",
+     "Vakualofeka valua va sanjuka kuenje va tambula ondaka",
+     "Va tundisiwa lohutu"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonio",
+    "book": "Ovilinga 14:1-7",
+    "today": "Konya, Turkia cilo",
+    "note": "Valua va kolela, puãi elambalalo li va tateka oku amamako.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Ovilinga 14:8-20",
+    "today": "Turkia cilo",
+    "note": "Va tukuiwa ndosuku, noke va tewiwa lovawe.",
+    "events": [
+     "O sakula ulume ocilema tunde kocitiwo",
+     "Owiñi u seteka oku va lumbila ndolosuku",
+     "Va u teya lovawe va u sia ndowafa, puãi o votoka"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Ovilinga 14:20-21",
+    "today": "Turkia cilo",
+    "note": "Olondonge vialua vi lingiwa; va tiukila oku pamekisa olokongelo.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troa",
+    "book": "Ovilinga 16:8-10",
+    "today": "Turkia cilo",
+    "note": "Ocitumãlo cepiluluko apa ondaka yiwa yi enda tete ko Europa.",
+    "events": [
+     "Ocinanga culume wa Makedonia",
+     "«Yukilili kokuetu, u tu kuatise»",
+     "Va wa pokamue ko Europa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Ovilinga 16 · Va Filipe",
+    "today": "kokulo yo Helasi cilo",
+    "note": "Ekongelo liatete lia Europa — ondaka yiwa yi yula ndaño vukandi.",
+    "events": [
+     "Lidia, ukuakulandisa olonanga viusuku, o kolela",
+     "Ufeko upika ukuakusonda o yovoiwa",
+     "Olosamo pokati kuteke, onjõi yeve, epata liukuakulava vukandi li popeliwa"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Ovilinga 17 · I–II Va Tesalonika",
+    "today": "Tesaloniki, Helasi cilo",
+    "note": "Ondaka yi tetumula onganda kuenje ohutu yi vokiya.",
+    "events": [
+     "O sapela vosinangoga olosabata vitatu",
+     "«Ava va pongolola oluali»",
+     "Va tunda vuteke"
+    ]
+   },
+   "berea": {
+    "name": "Bereya",
+    "book": "Ovilinga 17:10-15",
+    "today": "Veria, Helasi cilo",
+    "note": "Ava 'vawa' va konomuisa ondaka ovo muẽle.",
+    "events": [
+     "Va tambula ondaka lutima wosi",
+     "Eteke leteke va konomuisa Ovisonehua oku ci setekisa",
+     "Valua va iya koku kolela"
+    ]
+   },
+   "athens": {
+    "name": "Atena",
+    "book": "Ovilinga 17:16-34",
+    "today": "Atena, Helasi cilo",
+    "note": "Vonganda yolondunge o kunda 'suku ka kũlĩhĩwãko'.",
+    "events": [
+     "Wa sumuisiwa longanda yi yuka olonganga",
+     "Vo Areopago o kunda Usovoli lepinduko",
+     "Va u yola, puãi vamue va kolela"
+    ]
+   },
+   "corinth": {
+    "name": "Korindo",
+    "book": "Ovilinga 18 · I–II Va Korindo",
+    "today": "Helasi cilo",
+    "note": "O tumãla unyamo letĩli, o tumba ekongelo vonganda yakandu.",
+    "events": [
+     "O panga olondanda la Akwila la Prisila",
+     "«Ku ka kali usumba… momo ndi kasi love»",
+     "Ava Korindo valua va kolela kuenje va ambatisiwa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Ovilinga 19 · Va Efeso",
+    "today": "Selçuk, Turkia cilo",
+    "note": "Utima wongendo yatatu — ondaka yi sandeka vo Asia.",
+    "events": [
+     "Elongiso eteke leteke anyamo avali vonjango ya Tirano",
+     "Ovikanda violonganja vi nyõliwa; ovilinga viunene",
+     "Demetrio ukuosongo wopalata o fetika ecinyõ"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Ovilinga 20:17-38",
+    "today": "Turkia cilo",
+    "note": "Elialeko liasuelela ku vakulu vekongelo lio Efeso.",
+    "events": [
+     "«Tateli ekongelo a landa losonde yaye muẽle»",
+     "Vakulu va lila, va kũlĩha okuti ka va u molako vali"
+    ]
+   },
+   "caesarea": {
+    "name": "Sesareya",
+    "book": "Ovilinga 23–26",
+    "today": "kolutui lwo Isareli cilo",
+    "note": "Anyamo avali o teyuila ondaka yiwa kovinganji lokosoma.",
+    "events": [
+     "Oku pisiwa kovinganji Felisi la Festo",
+     "Eteyuilo liaye kosoma Agripa",
+     "«Ndi pinga oku pisiwa la Kaisari» — toke ko Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalãi",
+    "book": "Ovilinga 21–23",
+    "today": "Yerusalãi cilo",
+    "note": "Wa kuatiwa vonjango, onjila yaye ndukandi yi fetika.",
+    "events": [
+     "Wa kuatiwa lowiñi vonjango",
+     "O liteyuila kombongo yolonganji",
+     "Ndukua Roma, o tumiwa lolomanga ko Sesareya"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Ovilinga 27:5-6",
+    "today": "Demre, Turkia cilo",
+    "note": "Va piñala kowato wo Alesandaria u enda ko Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Ovanjo Viwa (Kreta)",
+    "book": "Ovilinga 27:8-12",
+    "today": "Kreta cilo",
+    "note": "Elungulo lia Paulu lioku puisa okuenda ka lia yeviwileko.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Tito",
+    "today": "Kreta cilo",
+    "note": "Noke lioku tundisiwa, okilu lieve apa o sia Tito oco a viñise olokongelo.",
+    "events": [
+     "O sia Tito oco a nõle vakulu vonganda yosi",
+     "O pinga olonganji ka vi na ekandu, vakuekolelo",
+     "O soneha ocikanda ku Tito"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Ovilinga 27–28",
+    "today": "Malta cilo",
+    "note": "Vokati kepela lokuñoloka kuowato, ohuminyo ya Suku yi tumãla.",
+    "events": [
+     "Epela linene li ñolola owato, puãi vosi 276 va popeliwa",
+     "Wa lũmatiwa loñoka, puãi ka lemalele",
+     "O sakula aveyi vokilu lieve"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusa",
+    "book": "Ovilinga 28:12",
+    "today": "Sisilia, Italia cilo",
+    "note": "Va tumãla oloneke vitatu vo Sisilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Ovilinga 28:13-14",
+    "today": "Pozzuoli, Italia cilo",
+    "note": "Va pitĩla vo Italia kuenje va sangiwa lavamanji vakuekolelo.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Ovilinga 28 · Ovikanda vio Vukandi · II Timoteo",
+    "today": "Roma, Italia cilo",
+    "note": "Ondaka yiwa yi pitĩla kutima weviali kesulilo — hakusulilako puãi efetikilo.",
+    "events": [
+     "Anyamo avali ndukandi wonjo, o kunda usoma lutõi",
+     "Tunde apa o soneha Ovikanda vio Vukandi (Va Efeso·Va Filipe·Va Kolose·Filemoni)",
+     "Noke wa kutiwa vali, o soneha II Timoteo kuenje o pondiwa omo liekolelo — «Nda lua uyaki uwa, nda malusula oku lupuka»"
+    ]
+   }
+  },
+  "labels": [
+   "Okalunga Kokati",
+   "Okalunga Egeu",
+   "Asia Yitito",
+   "Makedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Ongendo yatete",
+   "j2": "Ongendo yavali",
+   "j3": "Ongendo yatatu",
+   "rome": "Ongendo yakwãla · ko Roma",
+   "j5": "Ongendo yatãlo · noke lioku tundisiwa"
+  }
+ }
+}

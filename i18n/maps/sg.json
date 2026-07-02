@@ -1,0 +1,636 @@
+{
+ "menuName": "Sängö",
+ "htmlLang": "sg",
+ "dir": "ltr",
+ "locale": "sg",
+ "brand": "Mbeti ti Nzapa na lege oko",
+ "docTitle": "Mbeti ti Nzapa na lege ti carte · Mbeti ti Nzapa na lege oko",
+ "metaDesc": "Mû peko ti mbaï ti Ngbene Mbeti ti Nzapa, fini ti Jésus, na atambela ti Paul na ndö ti tâ carte — akota ye ti Mbeti ti Nzapa asi na atâ ndo.",
+ "s": {
+  "kicker": "Mbeti ti Nzapa na lege oko · Acarte",
+  "title": "Mbeti ti Nzapa na lege ti carte",
+  "verse": "“Biani, na lege ti ambeni tënë ti ya ti li ti azo wani, atënë so ala sigigi na ni na lege ti kode laa e fa tënë ti ngangu ti *Kota Gbia ti e Jésus Christ na tënë ti gango ti lo pepe. Me e baa kota gonda ti lo kue na le ti e wani.” (2 Pierre 1:16)",
+  "purpose": "Mbeti ti Nzapa ayeke tënë so amä yâ ni pepe. Ayeke sû ti azo so atambela na atâ ando, na alango, na airi so ayeke biani. Mû peko ti alege ni na ndö ti carte, na lege ti ngoi — piche mbeni ndo, wala nzü ▶ ti tambela na yâ ni kete na kete.",
+  "ot_kick": "① Ngbene Mbeti ti Nzapa — na yâ ti ngoi",
+  "ot_h": "Ti londo na lekengo-ye ngbii na kïngo na Jérusalem",
+  "ot_lead": "Gï tambela oko pepe, me lege ti mbaï ti zingo ti Nzapa ti londo na lekengo-ye: lekengo-ye na tïngo ti zo → Déluge na Babel → iri (Abraham) → sese ti zendo → Sigingo → benyama → müngo sese → royaume → kangbi → ngbâa → kïngo.",
+  "je_kick": "② Fini Mbeti ti Nzapa — fini ti Jésus",
+  "je_h": "Ti londo na Bethléem ngbii na Jérusalem",
+  "je_lead": "Mû peko ti fini ti Jésus tongana ti so anzoni Tënë atene ni, na lege ti ngoi — ti londo na dü ti lo na Bethléem, na batême ti lo na kua ti lo na Galilée, hongo na Samarie, ngbii na keke, zïngo na gango ti lo na nduzu na Jérusalem.",
+  "pa_kick": "③ Fini Mbeti ti Nzapa — atambela ti Paul",
+  "pa_h": "Ti londo na Antioche ngbii na anda ti sese — Rome",
+  "pa_lead": "Ti londo na Pentecôte na Jérusalem, tongana nyen Nzoni Tënë amü terê ahon Judée — na yâ ti Asie Mineure na Europe ngbii na bê ti kota kodro-gbia (empire). Soro mbeni na yâ ti atambela oku (kozo · use · ota + tambela ti gue na Rome + na peko ti zïango) na mû peko ti akota ye ti Awatokua na ambeti so a sû na lege.",
+  "foot": "Agunda · Ando amü peko ti tënë ti Mbeti ti Nzapa na géographie ti Mbeti ti Nzapa (na airi ti laso tongana a lingbi ti mû maboko). A leke ayanga ti sese, angü na akota ngu na lege ti adonnées ti géographie so ayeke polele (Natural Earth), so a woko ni.",
+  "contact": "Ahundango · atene — <a id=\"contact\" class=\"mail\">To e mail</a>",
+  "play": "Tambela",
+  "pause": "Luti",
+  "today": "Laso:",
+  "verseCite": "2 Pierre 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Éden (Lekengo-ye · Tïngo ti zo)",
+    "book": "Tongo nda ti aye 1–3",
+    "today": "ndo ti Tigre na Euphrate ti laso",
+    "note": "Na yâ ti dunia so a leke «nzoni mingi», siokpari alï na afâ songo na popo ti Nzapa na zo.",
+    "events": [
+     "Lekengo-ye na alango omene — «nzoni mingi»",
+     "A leke zo na lege ti lê ti Nzapa",
+     "Tïngo ti zo, na tombango ala na Éden",
+     "Kozo zendo ti Nzoni Tënë — «hale ti wali ayeke kpo li ti ngbo»"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Déluge)",
+    "book": "Tongo nda ti aye 6–9",
+    "today": "Hoto ti Ararat, na tö ti Türkiye ti laso",
+    "note": "Nzapa afâ ngbanga na dunia so asi na siokpari, me lo bata fini na lege ti sewa oko.",
+    "events": [
+     "Dunia so asi na sioni",
+     "Déluge, na bato ti Noé",
+     "Zendo ti arc-en-ciel — «fade vurü ti ngu ti fâ ye ayeke ga mbeni pepe»"
+    ]
+   },
+   "babel": {
+    "name": "Tour ti Babel",
+    "book": "Tongo nda ti aye 11",
+    "today": "Irak ti laso (yâ ti Shinear)",
+    "note": "Na gbändängö-terê so aye ti si na nduzu, Nzapa akangbi ayanga ti ala na akangbi azo na ndö ti sese.",
+    "events": [
+     "«Ï leke gbata na tour… ï sara iri na terê ti ï»",
+     "Nzapa abuba ayanga ti ala",
+     "Azo akangbi na ndö ti sese (Shinear — na pekoni Babilone)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Tongo nda ti aye 12",
+    "today": "mbage ti mbongo ti Irak ti laso",
+    "note": "Mbaï ti zingo ti Mbeti ti Nzapa ato nda na iri ti koli oko.",
+    "events": [
+     "Nzapa airi Abram ti sigi na Ur ti aChaldée",
+     "«Mbi yeke sara mo kota mara… asewa kue ayeke wara tufa na lege ti mo»",
+     "Na lege ti mabe lo zia kodro ti lo"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Tongo nda ti aye 12",
+    "today": "mbage ti mbongo ti Türkiye ti laso",
+    "note": "Na lege, na kiringo-tënë na iri ti gue na sese ti zendo.",
+    "events": [
+     "Sewa ti Térach aduti na Haran",
+     "Térach akui",
+     "Abram alondo ti gue na Canaan na ngu 75 ti lo"
+    ]
+   },
+   "shechem": {
+    "name": "Sichem · Canaan",
+    "book": "Tongo nda ti aye 12–50",
+    "today": "Naplouse ti laso",
+    "note": "Na sese ti zendo, a leke sewa na zendo ahon na peko na amara.",
+    "events": [
+     "Lïngo na Canaan, kozo balaga — «mbi mû sese so na hale ti mo»",
+     "Zendo (Tongo nda ti aye 15) · Isaac · Jacob",
+     "Amolenge bale-use ti Jacob — gunda ti amara bale-use"
+    ]
+   },
+   "egypt": {
+    "name": "Ezipte (Gosen)",
+    "book": "Tongo nda ti aye 37–50 · Sigingo 1",
+    "today": "yâ ti Nil (delta) na Ezipte ti laso",
+    "note": "Sewa aga kota mara — na pekoni mara ti angbâa.",
+    "events": [
+     "Joseph, so a kä lo, amaï ti komande Ezipte",
+     "Sewa kue ti Jacob agä na Ezipte ti kpe nzara",
+     "Mara ti Israel so amaï aga angbâa"
+    ]
+   },
+   "sinai": {
+    "name": "Hoto ti Sinaï",
+    "book": "Sigingo · Awayango-sandaga",
+    "today": "ndo ti Sinaï ti laso",
+    "note": "Kota zingo ti Ngbene Mbeti ti Nzapa — angbâa aga azo ti Nzapa mveni.",
+    "events": [
+     "Akpale bale-oko na molenge ti taba ti Pâque",
+     "Kota Ngu-Bengba azi na ala hon",
+     "Akomandema Bale-oko, Ndia, da ti bungbi na asandaga"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadès (benyama)",
+    "book": "Wüngö-zo · Ndia ti fani use ni",
+    "today": "benyama ti Sinaï na Néguev ti laso",
+    "note": "Kirikpengo-bê aki na mbeni wâ ti azo sese ni — me Nzapa angbâ na ala.",
+    "events": [
+     "Azo bale-use ti bâ ndo — me azo akë ti zia bê",
+     "Ngu 38 na yâ ti benyama — manne, mbinda na wâ",
+     "Na ayâ-sese ti Moab, ndangba fango-ye ti Moïse (Ndia ti fani use ni)"
+    ]
+   },
+   "jericho": {
+    "name": "Jéricho",
+    "book": "Josué",
+    "today": "Jéricho ti laso",
+    "note": "Na nda ni ala lï na ala mû sese ti zendo.",
+    "events": [
+     "Ngu ti Jourdain azi na azo ahon",
+     "Agbagba ti Jéricho atï",
+     "Müngo Canaan na kangbïngo sese"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Awafango-ngbanga)",
+    "book": "Awafango-ngbanga · Ruth",
+    "today": "Khirbet Seilun ti laso",
+    "note": "Gbia ayeke daa pepe, zo oko oko asara ye ti bê ti lo — a lingbi na tâ gbia.",
+    "events": [
+     "A luti da ti bungbi na Silo",
+     "Mbaï ti siokpari–pasi–zingo (Débora, Gédéon, Samson)",
+     "Ruth — bê-ta-tene na angoi ti bï, na hale ti David"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jérusalem · Royaume so abungbi",
+    "book": "1–2 Samuel · 1 Agbia",
+    "today": "Jérusalem ti laso",
+    "note": "Ngoi ti nzönî mingi ti Israel — na zendo ti gbia ti lakue lakue.",
+    "events": [
+     "Saül kozo gbia, na pekoni David na Goliath",
+     "Zendo na David — «le-gbia ti mo ayeke ngbâ lakue lakue» (2 Samuel 7)",
+     "Salomon aleke temple na Jérusalem"
+    ]
+   },
+   "samaria": {
+    "name": "Samarie · Royaume so akangbi",
+    "book": "Agbia · Awaprophète",
+    "today": "Sébastia ti laso",
+    "note": "Royaume akangbi na atï na sioni na ngoi so awaprophète atoto.",
+    "events": [
+     "Na pekoni Salomon, kangbïngo na popo ti Juda na Israel",
+     "Vorongo ti yanda kpu na kpu",
+     "Élie, Ésaïe, Jérémie atoto «ala kiri» — na afa Messie"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Assyrie)",
+    "book": "2 Agbia 17 · Jonas",
+    "today": "Mossoul, Irak ti laso",
+    "note": "Na këngö amä-tënë kue, mbage ti banga atï kozo.",
+    "events": [
+     "Ninive, kota gbata ti Assyrie",
+     "Royaume ti banga atï na maboko ti Assyrie (722 KK)",
+     "A to Jonas na Ninive"
+    ]
+   },
+   "babylon": {
+    "name": "Babilone",
+    "book": "2 Agbia 25 · Daniel · Ezekiel",
+    "today": "Hilla, Irak ti laso",
+    "note": "Bï so avuko mingi — me zendo ti kirikiri angbâ.",
+    "events": [
+     "Jérusalem atï, a zö temple (586 KK)",
+     "A gue na Juda na ngbâa na Babilone",
+     "Daniel na Ezekiel — mabe na abango na yâ ti ngbâa"
+    ]
+   },
+   "susa": {
+    "name": "Suse (Perse)",
+    "book": "Esther · Néhémie",
+    "today": "Shush, Iran ti laso",
+    "note": "Ataa na bê ti kota kodro-gbia ti aGentil, Nzapa abata azo ti lo.",
+    "events": [
+     "Perse asoo Babilone",
+     "Esther azi azuife na kuâ",
+     "Néhémie asambela na lê ti gbia na a to lo"
+    ]
+   },
+   "return": {
+    "name": "Kïngo na Jérusalem",
+    "book": "Esdras · Néhémie · Malashii",
+    "today": "Jérusalem ti laso",
+    "note": "Ala kiri na ala leke ye — me gbia oko agä pepe. Ala ku Messie.",
+    "events": [
+     "Akiri ota na lege ti komandema ti Cyrus (Zorobabel 538 · Esdras 458 · Néhémie 444)",
+     "A leke temple na a leke agbagba ti Jérusalem",
+     "Malashii — Ngbene Mbeti ti Nzapa ahunzi: «mbi yeke tokua zo ti mbi»"
+    ]
+   }
+  },
+  "labels": [
+   "Kota Ngu ti Méditerranée",
+   "Mésopotamie",
+   "Benyama ti Arabie",
+   "Ezipte"
+  ],
+  "journeys": {
+   "flow": "Mbaï ti zingo"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bethléem",
+    "book": "Matthieu 1–2 · Luc 2",
+    "today": "Bethléem ti laso",
+    "note": "Messie so a mû zendo ti lo agä na gbata ti David — Tënë aga zo.",
+    "events": [
+     "A dü lo na Bethléem, gbata ti David",
+     "A-ange afa tënë na awabata-taba",
+     "A-mage agä ti vorö lo"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareth",
+    "book": "Luc 2 · 4",
+    "today": "Nazareth ti laso",
+    "note": "Nzapa amaï tongana zo na yâ ti mbeni gbata senge.",
+    "events": [
+     "A bata lo na da ti mbeni wasarango-keke",
+     "Na ngu bale-use, ahunda na akiri tënë na temple",
+     "Na pekoni a kë lo na synagogue ti gbata ti lo"
+    ]
+   },
+   "jordan": {
+    "name": "Ngu ti Jourdain",
+    "book": "Matthieu 3–4",
+    "today": "gbe ti Jourdain ti laso",
+    "note": "Kua ti lo na gigi ato nda — nduzu afa lo tongana Molenge.",
+    "events": [
+     "Jean ababatisé lo",
+     "Yingo azu tongana bungü — «So ayeke Molenge ti mbi so mbi ye lo mingi»",
+     "A soo atara ota ti Satan na benyama"
+    ]
+   },
+   "cana": {
+    "name": "Cana",
+    "book": "Jean 2",
+    "today": "Kafr Kanna ti laso",
+    "note": "Na kozo fä ti lo, lo fa gonda ti lo.",
+    "events": [
+     "A yamba lo na mbeni sarango mariage",
+     "Ngu aga vin — kozo fä ti lo",
+     "Adisciple ti lo amä na bê na lo"
+    ]
+   },
+   "sychar": {
+    "name": "Sychar (Samarie)",
+    "book": "Jean 2–4",
+    "today": "nduru na Naplouse ti laso",
+    "note": "Lege ti kozo kua — na Jérusalem ngbii na Samarie so a ke ni.",
+    "events": [
+     "Lo sukula temple na Jérusalem",
+     "Na bï, Nicodème — «A lingbi mo dü fini use ni»",
+     "Ngu ti fini na mbeni wali ti Samarie"
+    ]
+   },
+   "capernaum": {
+    "name": "Capernaüm",
+    "book": "Matthieu 4–13 · Marc 1–4",
+    "today": "yanga ti kota ngu ti Galilée ti laso",
+    "note": "Ndo ti kua ti lo na Galilée — iri, fango-ye na këngö atï daa kue.",
+    "events": [
+     "Lo iri agingo-susu na lo luti daa",
+     "Fango-ye na Hoto — «Ngia na azo so ayeke wanzinga na yingo»",
+     "A-tapande ti royaume — na këngö amaï"
+    ]
+   },
+   "galilee": {
+    "name": "Kota Ngu ti Galilée",
+    "book": "Marc 4 · 6 · Jean 6",
+    "today": "Kota Ngu ti Tibériade ti laso",
+    "note": "Na ngangu ti lo na ndö ti dunia, lo fa zo so lo yeke.",
+    "events": [
+     "«Duti kpô, girisa!» — lo dë pupu",
+     "Lo mû kobe na azo 5.000 na mapa oku na susu use",
+     "Lo tambela na ndö ti ngu"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Césarée ti Philippe",
+    "book": "Matthieu 16–17",
+    "today": "Banias ti laso",
+    "note": "Adisciple amä yâ ni so lo yeke Christ, na lege ti keke azi.",
+    "events": [
+     "Fatënë ti Pierre — «Mo yeke Christ, Molenge ti Nzapa so ayeke na fini»",
+     "Lo fa kozo ni kuâ na zïngo ti lo",
+     "A gbian terê ti lo na gonda na ndö ti hoto"
+    ]
+   },
+   "jericho": {
+    "name": "Jéricho",
+    "book": "Luc 18–19",
+    "today": "Jéricho ti laso",
+    "note": "Na lege so amaï na Jérusalem, lo gi azo so agirisa.",
+    "events": [
+     "Lo zi lê ti waziba Bartimée",
+     "Lo iri Zachée wakongo-nginza",
+     "«Molenge ti zo aga ti gi na ti zi ala so agirisa»"
+    ]
+   },
+   "bethany": {
+    "name": "Béthanie",
+    "book": "Jean 11–12",
+    "today": "al-Eizariya ti laso",
+    "note": "Lo fa ngangu ti lo na ndö ti kuâ na lâ so kozo yenga ti lo ayeke nduru.",
+    "events": [
+     "Lo zingo Lazare na yâ ti dü — «Mbi yeke zïngo na fini»",
+     "Marie asa mafuta na terê ti lo teti kuâ ti lo",
+     "Fä so akpengba ngbanga ti fâ lo"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jérusalem",
+    "book": "Matthieu 21–28 · Luc 24 · Awatokua 1",
+    "today": "Jérusalem ti laso",
+    "note": "Ndo so Mbeti ti Nzapa kue afa — keke, zïngo, gango na nduzu.",
+    "events": [
+     "Lïngo na gonda; lo kiri lo bi atable ti temple",
+     "Na ndangba kobe, lo sukula gere ti adisciple",
+     "Lo kui na keke",
+     "Lo zï na lango ti ota, na pekoni lo gä na nduzu"
+    ]
+   }
+  },
+  "labels": [
+   "Kota Ngu ti Méditerranée",
+   "Galilée",
+   "Samarie",
+   "Judée",
+   "Décapole",
+   "Pérée",
+   "Kota Ngu ti Kuâ"
+  ],
+  "journeys": {
+   "life": "Lege ti Jésus"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antioche",
+    "book": "Awatokua 13 · 15",
+    "today": "Antakya, Türkiye ti laso",
+    "note": "Eglize so ato azo, ndo so kua na aGentil ato nda na akiri daa.",
+    "events": [
+     "Na sambela, Yingo asoro Barnabas na Saul",
+     "Eglize so a iri adisciple «aChrétien» kozo daa",
+     "Ndo ti tongo nda ti tambela ti kozo, use na ota"
+    ]
+   },
+   "seleucia": {
+    "name": "Séleucie",
+    "book": "Awatokua 13:4",
+    "today": "Türkiye ti laso",
+    "note": "Ndo-luti ti masuwa ti Antioche — ala gue na masuwa na Chypre.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamine (Chypre)",
+    "book": "Awatokua 13:5",
+    "today": "Chypre ti laso",
+    "note": "Kozo lutingo na Chypre — fango-ye na asynagogue.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Paphos",
+    "book": "Awatokua 13:6-12",
+    "today": "Chypre ti laso",
+    "note": "A fa ngangu na ndö ti ala so ake Nzoni Tënë.",
+    "events": [
+     "Élymas wanganga aga waziba",
+     "Sergius Paulus gouverneur amä na bê",
+     "Ti londo ge «Paul» amû li ni"
+    ]
+   },
+   "perga": {
+    "name": "Perge",
+    "book": "Awatokua 13:13",
+    "today": "Antalya, Türkiye ti laso",
+    "note": "Ndo-luti ti masuwa na Pamphylie — ge Jean-Marc akiri na pekoni.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antioche ti Pisidie",
+    "book": "Awatokua 13:14-50",
+    "today": "Yalvaç, Türkiye ti laso",
+    "note": "Nzoni Tënë azi terê polele na aGentil.",
+    "events": [
+     "Yongoro fango-ye na ndö ti mbaï ti zingo na synagogue",
+     "AGentil mingi asara ngia na amä tënë",
+     "A tomba ala na lege ti këngö"
+    ]
+   },
+   "iconium": {
+    "name": "Iconium",
+    "book": "Awatokua 14:1-7",
+    "today": "Konya, Türkiye ti laso",
+    "note": "Azo mingi amä na bê, me sarango-pasi agboto ala ti gue.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lystre",
+    "book": "Awatokua 14:8-20",
+    "today": "Türkiye ti laso",
+    "note": "A yä ala tongana anzapa, na pekoni a bi ala tênë.",
+    "events": [
+     "Lo sava koli so alingbi ti tambela pepe ti dü",
+     "Azo aye ti sara sandaga na ala tongana anzapa",
+     "A bi lo tênë na a zia lo tongana lo kui, me lo londo"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Awatokua 14:20-21",
+    "today": "Türkiye ti laso",
+    "note": "Adisciple mingi aga; ala kiri na lege ti kpengba aeglize.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Awatokua 16:8-10",
+    "today": "Türkiye ti laso",
+    "note": "Ndo ti gbïanngo so Nzoni Tënë ague kozo na Europe.",
+    "events": [
+     "Bango ti mbeni koli ti Macédoine",
+     "«Mo hon mo gä mo mû maboko na e»",
+     "Ala hon hio na Europe"
+    ]
+   },
+   "philippi": {
+    "name": "Philippes",
+    "book": "Awatokua 16 · Filipi",
+    "today": "banga ti Grèce ti laso",
+    "note": "Kozo eglize ti Europe — Nzoni Tënë asoo ataa na yâ ti kanga.",
+    "events": [
+     "Lydie, wakängö bongo ti pourpre, amä na bê",
+     "A zi ngbanga-wali so ayeke fa aye ti kekereke",
+     "Abia na bï-ndâmbâ, yëngïngö-sese, na sewa ti wabata-kanga awara zïngo"
+    ]
+   },
+   "thess": {
+    "name": "Thessalonique",
+    "book": "Awatokua 17 · 1–2 Tesalonika",
+    "today": "Thessalonique, Grèce ti laso",
+    "note": "Tënë ayengi gbata na këngö awu.",
+    "events": [
+     "Lo fa tënë na synagogue na aSabat ota",
+     "«Azo so agbian dunia kue»",
+     "Ala sigi na bï"
+    ]
+   },
+   "berea": {
+    "name": "Bérée",
+    "book": "Awatokua 17:10-15",
+    "today": "Véria, Grèce ti laso",
+    "note": "Azo so «anzönî» so agi yâ ti tënë ala mveni.",
+    "events": [
+     "Ala mä tënë na ngia",
+     "Lâ oko oko ala gi yâ ti Mbeti ti Nzapa ti bâa",
+     "Azo mingi amä na bê"
+    ]
+   },
+   "athens": {
+    "name": "Athènes",
+    "book": "Awatokua 17:16-34",
+    "today": "Athènes, Grèce ti laso",
+    "note": "Na gbata ti awandara, lo fa «nzapa so a hinga lo pepe».",
+    "events": [
+     "Bê ti lo aso ndali ti gbata so asi na ayanda",
+     "Na Aréopage lo fa Walekengo-ye na zïngo",
+     "A heke lo, me ambeni amä na bê"
+    ]
+   },
+   "corinth": {
+    "name": "Corinthe",
+    "book": "Awatokua 18 · 1–2 Korente",
+    "today": "Grèce ti laso",
+    "note": "Lo ngbâ ngu oko na ndambo, lo lu eglize na gbata ti sioni.",
+    "events": [
+     "Lo sara atente na Aquilas na Priscille",
+     "«Mo kpe mbeto pepe… ngbanga ti mbi yeke na mo»",
+     "AKorente mingi amä na bê na a babatisé ala"
+    ]
+   },
+   "ephesus": {
+    "name": "Éphèse",
+    "book": "Awatokua 19 · Efeze",
+    "today": "Selçuk, Türkiye ti laso",
+    "note": "Bê ti tambela ti ota — tënë amü terê na Asie kue.",
+    "events": [
+     "Fango-ye lâ oko oko na ngu use na da ti Tyrannus",
+     "A zö ambeti ti likundu; akota kua ti ngangu",
+     "Démétrius wasarango-ye ti argent ato birikongo"
+    ]
+   },
+   "miletus": {
+    "name": "Milet",
+    "book": "Awatokua 20:17-38",
+    "today": "Türkiye ti laso",
+    "note": "Kängbïngö na ngu-lê na a-ancien ti Éphèse.",
+    "events": [
+     "«Bata eglize so lo vo na mênë ti lo mveni»",
+     "A-ancien atoto, ala hinga so ala yeke bâa lo mbeni pepe"
+    ]
+   },
+   "caesarea": {
+    "name": "Césarée",
+    "book": "Awatokua 23–26",
+    "today": "yanga ti kota ngu ti Israël ti laso",
+    "note": "Na ngu use, lo gbu Nzoni Tënë na lê ti agouverneur na mbeni gbia.",
+    "events": [
+     "Angbanga na lê ti agouverneur Félix na Festus",
+     "Fängö-terê ti lo na lê ti gbia Agrippa",
+     "«Mbi hunda ngbanga na lê ti César» — na Rome"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jérusalem",
+    "book": "Awatokua 21–23",
+    "today": "Jérusalem ti laso",
+    "note": "A gbu lo na temple, lege ti lo tongana zo ti kanga ato nda.",
+    "events": [
+     "Azo agbu lo na temple",
+     "Lo gbu terê ti lo na lê ti Sanhédrin",
+     "Tongana zo ti Rome, a to lo na sungbango na Césarée"
+    ]
+   },
+   "myra": {
+    "name": "Myra",
+    "book": "Awatokua 27:5-6",
+    "today": "Demre, Türkiye ti laso",
+    "note": "Ala gbian masuwa na mbeni masuwa ti Alexandrie so ague na Rome.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Anzönî-Dawa (Crète)",
+    "book": "Awatokua 27:8-12",
+    "today": "Crète ti laso",
+    "note": "A mä yanga ti Paul ti luti tambela na masuwa pepe.",
+    "events": []
+   },
+   "crete": {
+    "name": "Crète",
+    "book": "Tite",
+    "today": "Crète ti laso",
+    "note": "Na peko ti zïango ti lo, zûâ so lo zia Tite ti leke aeglize daa.",
+    "events": [
+     "Lo zia Tite ti soro a-ancien na gbata oko oko",
+     "Lo hunda a-mokonzi so kpale ayeke daa pepe na so ayeke be-ta-tene",
+     "Lo sû mbeti na Tite"
+    ]
+   },
+   "malta": {
+    "name": "Malte",
+    "book": "Awatokua 27–28",
+    "today": "Malte ti laso",
+    "note": "Na yâ ti pupu na tïngö ti masuwa, zendo ti Nzapa angbâ ngangu.",
+    "events": [
+     "Kota pupu abuba masuwa, me azo 276 kue awara zïngo",
+     "Mbeni ngbo ate lo, me lo wara ye oko pepe",
+     "Lo sava akobela ti zûâ"
+    ]
+   },
+   "syracuse": {
+    "name": "Syracuse",
+    "book": "Awatokua 28:12",
+    "today": "Sicile, Italie ti laso",
+    "note": "Ala ngbâ lango ota na Sicile.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Pouzzoles",
+    "book": "Awatokua 28:13-14",
+    "today": "Pozzuoli, Italie ti laso",
+    "note": "Ala si na Italie na aita amä ala.",
+    "events": []
+   },
+   "rome": {
+    "name": "Rome",
+    "book": "Awatokua 28 · Ambeti ti kanga · 2 Timothée",
+    "today": "Rome, Italie ti laso",
+    "note": "Nzoni Tënë asi na nda ni na bê ti kota kodro-gbia — hunzingo pepe me tongo nda.",
+    "events": [
+     "Ngu use na yâ ti kanga ti da, lo fa royaume na mbeto pepe",
+     "Ti ge lo sû Ambeti ti kanga (Efeze·Filipi·Kolose·Philémon)",
+     "Na pekoni a kanga lo mbeni, lo sû 2 Timothée na a fâ lo — «Mbi tiri nzoni tiri, mbi hunzi loro»"
+    ]
+   }
+  },
+  "labels": [
+   "Kota Ngu ti Méditerranée",
+   "Kota Ngu ti Égée",
+   "Asie Mineure",
+   "Macédoine",
+   "Italie"
+  ],
+  "journeys": {
+   "j1": "Kozo tambela",
+   "j2": "Tambela ti use",
+   "j3": "Tambela ti ota",
+   "rome": "Tambela ti osio · na Rome",
+   "j5": "Tambela ti oku · na peko ti zïango"
+  }
+ }
+}
