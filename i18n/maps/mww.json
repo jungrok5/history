@@ -1,0 +1,636 @@
+{
+ "menuName": "Hmoob Dawb",
+ "htmlLang": "mww",
+ "dir": "ltr",
+ "locale": "mww-CN",
+ "brand": "Phau Vajluskub hauv Ib Daig Ntawv",
+ "docTitle": "Phau Vajluskub raws Daim Ntawv Qhia Chaw · Phau Vajluskub hauv Ib Daig Ntawv",
+ "metaDesc": "Taug Phau Qub lub sijhawm, Yexus lub neej, thiab Povlauj tej kev taug saum ib daim ntawv qhia chaw tseeb — Phau Vajluskub tshwm sim hauv tej chaw muaj tiag.",
+ "s": {
+  "kicker": "Phau Vajluskub hauv Ib Daig Ntawv · Daim Ntawv Qhia Chaw",
+  "title": "Phau Vajluskub raws Daim Ntawv Qhia Chaw",
+  "verse": "“Thaum peb piav rau nej paub txog peb tus Tswv Yexus Khetos lub hwjchim thiab qhov uas nws yuav rov los, peb tsis yog hais raws li tej dab neeg uas xav tswvyim hais, tiamsis peb qhov muag tau pom nws lub hwjchim meej mom ntag.” (2 Petus 1:16)",
+  "purpose": "Phau Vajluskub tsis yog ib zaj dab neeg xav tswvyim. Nws yog ib daim ntawv uas sau txog cov neeg uas tau taug kev hauv tej chaw, tej hnub, thiab tej npe muaj tiag. Cia li taug tej kev ntawd saum daim ntawv qhia chaw, raws lub sijhawm — nias ib qho chaw, lossis nias ▶ los taug kev ib kauj dhau ib kauj.",
+  "ot_kick": "① Phau Qub — thoob lub sijhawm",
+  "ot_h": "Txij thaum tsim ntuj tsim teb mus txog kev rov los rau Yeluxalees",
+  "ot_lead": "Tsis yog ib zaug taug kev xwb tiamsis yog qhov ntws ntawm keeb kwm txhiv dim txij thaum tsim ntuj los: tsim ntuj tsim teb thiab kev poob txim → dej nyab thiab Npanpee → kev hu (Anplahas) → thaj av cog tseg → kev khiav dim → tebchaws moj sab qhua → kev txeeb av → lub tebchaws → kev sib faib → kev raug ntes coj mus → kev rov qab los.",
+  "je_kick": "② Phau Tshiab — Yexus lub neej",
+  "je_h": "Txij Npelehee mus txog Yeluxalees",
+  "je_lead": "Raws Yexus lub neej li Plaub Phau Moo Zoo piav, ua ncua zujzus — txij nws yug hauv Npelehee, dhau nws kev ua kevcai raus dej thiab nws tes haujlwm hauv Kalilais, hla Xamali, mus txog tus ntoo khaublig, kev rov ciaj sawv, thiab kev nce mus saum ntuj hauv Yeluxalees.",
+  "pa_kick": "③ Phau Tshiab — Povlauj tej kev taug",
+  "pa_h": "Txij Athi-au mus txog qab ntuj kawg — Loos",
+  "pa_lead": "Txij Peethekhos hauv Yeluxalees, txoj xov zoo nthuav dhau Yudia mus li cas — dhau Axia Me thiab Europe mus txog lub plawv ntawm lub teb chaws loj. Xaiv ib qho ntawm tsib zaug taug kev (zaug 1·2·3 + txojkev mus rau Loos + tom qab raug tso dim) thiab raws tej xwm txheej hauv Tubtxib Tes Haujlwm nrog tej tsab ntawv uas raug sau ntawm txojkev.",
+  "foot": "Cov ntsiab · Tej chaw raws li Vajluskub cov ntawv thiab Vajluskub txoj kev qhia chaw uas siv (nrog tej npe niaj hnub no thaum pab tau). Tej ntug hiavtxwv, tej dej, thiab tej pas dej muab los ntawm cov ntaub ntawv qhia chaw qhib (Natural Earth), muab ua kom yooj yim.",
+  "contact": "Lus nug · lus tawm tswv yim — <a id=\"contact\" class=\"mail\">Sau email rau peb</a>",
+  "play": "Ua si",
+  "pause": "Nres",
+  "today": "Niaj hnub no:",
+  "verseCite": "2 Petus 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edee (Tsim Ntuj Tsim Teb · Kev Poob Txim)",
+    "book": "Chiv Keeb 1–3",
+    "today": "cheeb tsam Tigris–Euphrates niaj hnub no",
+    "note": "Rau hauv ib lub ntiajteb uas tsim tau zoo heev, kev txhaum nkag los thiab rhuav txoj saw txuas ntawm Vajtswv thiab tib neeg.",
+    "events": [
+     "Rau hnub tsim ntuj tsim teb — “zoo heev”",
+     "Tib neeg raug tsim raws li Vajtswv tus yam ntxwv",
+     "Kev poob txim, thiab raug ntiab tawm hauv Edee",
+     "Txoj xov zoo thawj lo cog tseg — “tus pojniam caj ces yuav tsoo tus nab lub taubhau kom ntsoog”"
+    ]
+   },
+   "noah": {
+    "name": "Alalab (Dej Nyab)",
+    "book": "Chiv Keeb 6–9",
+    "today": "Roob Ararat, sab hnub tuaj Turkey niaj hnub no",
+    "note": "Vajtswv txiav txim rau lub ntiajteb uas puv kev txhaum, tiamsis tseg ib tsev neeg cia kom muaj txojsia.",
+    "events": [
+     "Ib lub ntiajteb uas puv kev limhiam",
+     "Dej nyab, thiab Nau-a lub nkoj",
+     "Lus cog tseg ntawm zaj sawv — “yuav tsis muaj dej nyab rhuav ntiajteb dua li lawm”"
+    ]
+   },
+   "babel": {
+    "name": "Lub Pej Thuam Npanpee",
+    "book": "Chiv Keeb 11",
+    "today": "Iraq niaj hnub no (thaj tiaj Sina)",
+    "note": "Tawm tsam txojkev khav uas nrhiav mus txog ntuj, Vajtswv ua rau lawv tej lus ntxhov thiab ua rau ib tsoom neeg tawg ri sua thoob ntiajteb.",
+    "events": [
+     "“Cia peb rhawv ib lub nroog thiab ua ib tug pej thuam… kom peb tau koob meej”",
+     "Vajtswv ua rau lawv tej lus ntxhov",
+     "Ib tsoom neeg tawg ri sua thoob ntiajteb (Sina — tom qab yog Npanpiloo)"
+    ]
+   },
+   "ur": {
+    "name": "Aw",
+    "book": "Chiv Keeb 12",
+    "today": "sab qab teb Iraq niaj hnub no",
+    "note": "Phau Vajluskub zaj txhiv dim pib ntawm kev hu ib tug txivneej xwb.",
+    "events": [
+     "Vajtswv hu Aplas tawm hauv cov Kheedia lub moos Aw",
+     "“Kuv yuav tsa koj ua ib haiv neeg loj… ib tsoom neeg yuav tau koob hmoov ntawm koj”",
+     "Los ntawm kev ntseeg nws tawm hauv nws lub tebchaws"
+    ]
+   },
+   "haran": {
+    "name": "Halas",
+    "book": "Chiv Keeb 12",
+    "today": "sab qab teb Turkey niaj hnub no",
+    "note": "Ntawm txojkev, teb lo lus hu mus rau thaj av cog tseg.",
+    "events": [
+     "Thela tsev neeg los nyob rau hauv Halas",
+     "Thela tuag",
+     "Aplas hnub nyoog 75 xyoo sawv kev mus rau Khana-as"
+    ]
+   },
+   "shechem": {
+    "name": "Sekhee · Khana-as",
+    "book": "Chiv Keeb 12–50",
+    "today": "Nablus niaj hnub no",
+    "note": "Hauv thaj av cog tseg, ib tsev neeg raug tsim thiab lus cog tseg dhau ntawm tiam dhau tiam.",
+    "events": [
+     "Nkag rau Khana-as, thawj lub thaj — “kuv muab thaj av no rau koj caj ces”",
+     "Lus cog tseg (Chiv Keeb 15) · Yiha · Yakhauj",
+     "Yakhauj kaum ob tug tub — lub hauv paus ntawm kaum ob xeem"
+    ]
+   },
+   "egypt": {
+    "name": "Iyi tebchaws (Kausee)",
+    "book": "Chiv Keeb 37–50 · Khiav Dim 1",
+    "today": "thaj Delta ntawm tus dej Nile, Iyi tebchaws niaj hnub no",
+    "note": "Ib tsev neeg loj hlob ua ib haiv neeg loj — ces ua ib haiv neeg qhev.",
+    "events": [
+     "Yauxej, raug muag mus, nce ua thawj kav Iyi tebchaws",
+     "Yakhauj tsev neeg tag nrho nqes los kom dim kev tshaib nqhis",
+     "Cov Yixayee uas loj hlob raug ua qhev"
+    ]
+   },
+   "sinai": {
+    "name": "Roob Xinai",
+    "book": "Khiav Dim · Levi Tej Kevcai",
+    "today": "thaj av Sinai niaj hnub no",
+    "note": "Phau Qub qhov kev cawm dim tseem ceeb tshaj — cov qhev los ua Vajtswv haiv neeg.",
+    "events": [
+     "Kaum yam mob phem thiab tus menyuam yaj Hla Dhau",
+     "Hiavtxwv Liab qhib thiab lawv hla mus",
+     "Kaum Lo Lus Qhia, txoj kevcai, lub Tsev Ntaub, thiab tej kev tua xyeem"
+    ]
+   },
+   "kadesh": {
+    "name": "Khade (Moj Sab Qhua)",
+    "book": "Xwm Txheej Taug Kev · Kevcai",
+    "today": "tebchaws moj sab qhua Sinai–Negev niaj hnub no",
+    "note": "Kev tsis ntseeg ua rau ib tiam neeg poob thaj av — tiamsis Vajtswv tseem nrog lawv nyob.",
+    "events": [
+     "Kaum ob tug tshuaj xyuas tebchaws — tiamsis cov pejxeem tsis kam tso siab",
+     "38 xyoo hauv tebchaws moj sab qhua — manas, ncej huab thiab ncej hluavtaws",
+     "Ntawm tej tiaj Mau-a, Mauxe zaj lus qhuab qhia zaum kawg (Kevcai)"
+    ]
+   },
+   "jericho": {
+    "name": "Yelikhau",
+    "book": "Yausua",
+    "today": "Jericho niaj hnub no",
+    "note": "Thaum kawg lawv nkag mus thiab txeeb tau thaj av cog tseg.",
+    "events": [
+     "Tus dej Yaladee qhib thiab cov pejxeem hla mus",
+     "Yelikhau tej ntsa loog pob tag",
+     "Kev txeeb Khana-as thiab kev faib av"
+    ]
+   },
+   "shiloh": {
+    "name": "Silau (Cov Thawj)",
+    "book": "Cov Thawj · Luv",
+    "today": "Khirbet Seilun niaj hnub no",
+    "note": "Tsis muaj vajntxwv, nyias ua raws li nyias pom zoo — yuav tsum muaj ib tug vajntxwv tseeb.",
+    "events": [
+     "Lub Tsev Ntaub raug tsa rau ntawm Silau",
+     "Zaj voj voog kev txhaum–kev quab yuam–kev cawm (Denpaula, Kide-oo, Xamaxoo)",
+     "Luv — kev ncaj ncees hauv tiam tsaus ntuj, hauv Davi caj ces"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yeluxalees · Lub Tebchaws Sib Koom",
+    "book": "1–2 Xamuyee · 1 Vajntxwv",
+    "today": "Yeluxalees niaj hnub no",
+    "note": "Cov Yixayee lub sijhawm vam meej — thiab lo lus cog tseg txog ib tug vajntxwv nyob mus ib txhis.",
+    "events": [
+     "Xa-u thawj tug vajntxwv, ces Davi thiab Kaulia",
+     "Lus cog tseg nrog Davi — “koj lub zwm txwv nyob mus ib txhis” (2 Xamuyee 7)",
+     "Xalaumoo ua lub tuam tsev hauv Yeluxalees"
+    ]
+   },
+   "samaria": {
+    "name": "Xamali · Lub Tebchaws Sib Faib",
+    "book": "Vajntxwv · Cov Xibhwb Cev Lus",
+    "today": "Sebastia niaj hnub no",
+    "note": "Lub tebchaws faib thiab poob qis thaum cov xibhwb cev lus quaj.",
+    "events": [
+     "Tom qab Xalaumoo, faib ua Yudas thiab Yixayee",
+     "Pe dab mlom rov rov",
+     "Eliya, Yaxaya, Yelemi quaj “rov los” — thiab qhia txog tus Mexiyas"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninave (Axilia)",
+    "book": "2 Vajntxwv 17 · Yauna",
+    "today": "Mosul, Iraq niaj hnub no",
+    "note": "Tsis quav ntsej txhua lo lus ceeb toom, sab qaum teb poob ua ntej.",
+    "events": [
+     "Ninave, Axilia lub nroog loj",
+     "Lub tebchaws sab qaum teb poob rau Axilia (722 ua ntej V.T.)",
+     "Yauna raug txib mus rau Ninave"
+    ]
+   },
+   "babylon": {
+    "name": "Npanpiloo",
+    "book": "2 Vajntxwv 25 · Daniyee · Exekhee",
+    "today": "Hillah, Iraq niaj hnub no",
+    "note": "Hmo ntuj tsaus tshaj plaws — tiamsis lo lus cog tseg txog kev txhim kho dua tseem nyob.",
+    "events": [
+     "Yeluxalees poob, lub tuam tsev raug hlawv (586 ua ntej V.T.)",
+     "Yudas raug ntes coj mus rau Npanpiloo",
+     "Daniyee thiab Exekhee — kev ntseeg thiab yog toog hauv kev raug ntes coj mus"
+    ]
+   },
+   "susa": {
+    "name": "Xuxa (Pawxia)",
+    "book": "Exethaw · Nehemi",
+    "today": "Shush, Iran niaj hnub no",
+    "note": "Txawm nyob hauv lub plawv ntawm ib lub teb chaws pe dab mlom, Vajtswv tseem tsom kwm nws haiv neeg.",
+    "events": [
+     "Pawxia kov yeej Npanpiloo",
+     "Exethaw cawm cov Yudai kom tsis txhob raug muab tua tu noob",
+     "Nehemi thov ntawm vajntxwv xubntiag thiab raug txib mus"
+    ]
+   },
+   "return": {
+    "name": "Rov Los Rau Yeluxalees",
+    "book": "Exala · Nehemi · Malakhi",
+    "today": "Yeluxalees niaj hnub no",
+    "note": "Lawv rov los thiab ua dua — tiamsis tsis muaj vajntxwv los. Lawv tos tus Mexiyas.",
+    "events": [
+     "Peb zaug rov los raws Xailab tsab kevcai (Xelunpanpee 538 · Exala 458 · Nehemi 444)",
+     "Ua dua lub tuam tsev thiab kho Yeluxalees tej ntsa loog",
+     "Malakhi — Phau Qub xaus: “kuv yuav tso kuv tus tubtxib mus”"
+    ]
+   }
+  },
+  "labels": [
+   "Hiavtxwv Loj",
+   "Mexaupaustamia",
+   "Tebchaws Moj Sab Qhua Alanpia",
+   "Iyi tebchaws"
+  ],
+  "journeys": {
+   "flow": "Zaj dab neeg txhiv dim"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Npelehee",
+    "book": "Mathai 1–2 · Luka 2",
+    "today": "Npelehee niaj hnub no",
+    "note": "Tus Mexiyas uas cog lus tseg los rau Davi lub moos — Txojlus tshwm los ua neeg.",
+    "events": [
+     "Yug hauv Npelehee, Davi lub moos",
+     "Tej tubtxib saum ntuj tshaj xov rau cov yug yaj",
+     "Cov txivneej txawj ntse tuaj pe hawm"
+    ]
+   },
+   "nazareth": {
+    "name": "Naxale",
+    "book": "Luka 2 · 4",
+    "today": "Naxale niaj hnub no",
+    "note": "Vajtswv loj hlob ua ib tug txivneej hauv ib lub moos me me.",
+    "events": [
+     "Loj hlob hauv ib tug kws ntoo tsev neeg",
+     "Thaum kaum ob xyoos, nug thiab teb hauv lub tuam tsev",
+     "Tom qab raug muab tsis lees yuav hauv nws lub zos tsev sablaj"
+    ]
+   },
+   "jordan": {
+    "name": "Tus Dej Yaladee",
+    "book": "Mathai 3–4",
+    "today": "sab qis ntawm tus dej Yaladee niaj hnub no",
+    "note": "Nws tes haujlwm rau pej xeem pib — saum ntuj nia nws ua Leej Tub.",
+    "events": [
+     "Yauhas muab nws ua kevcai raus dej",
+     "Vaj Ntsuj Plig nqes los zoo li nquab — “Nws yog kuv tus Tub uas kuv hlub”",
+     "Kov yeej Xatas peb yam kev sim siab hauv tebchaws moj sab qhua"
+    ]
+   },
+   "cana": {
+    "name": "Khana",
+    "book": "Yauhas 2",
+    "today": "Kafr Kanna niaj hnub no",
+    "note": "Hauv nws thawj lub cim txujci nws qhia nws lub hwjchim meej mom.",
+    "events": [
+     "Ib tug qhua hauv ib rooj tshoob",
+     "Dej ua cawv txiv hmab — nws thawj lub cim",
+     "Nws cov thwjtim ntseeg nws"
+    ]
+   },
+   "sychar": {
+    "name": "Xikha (Xamali)",
+    "book": "Yauhas 2–4",
+    "today": "ze Nablus niaj hnub no",
+    "note": "Txojkev tes haujlwm thaum chiv thawj — dhau Yeluxalees mus rau Xamali uas raug saib tsis taus.",
+    "events": [
+     "Nws ntxuav lub tuam tsev hauv Yeluxalees",
+     "Thaum hmo ntuj, Nikhaudemau — “Nej yuav tsum yug dua tshiab”",
+     "Dej txojsia rau ib tug pojniam Xamali"
+    ]
+   },
+   "capernaum": {
+    "name": "Khapena-u",
+    "book": "Mathai 4–13 · Malakau 1–4",
+    "today": "ntug pas dej Kalilais niaj hnub no",
+    "note": "Lub chaw ua haujlwm hauv Kalilais — kev hu, kev qhia, thiab kev tawm tsam sib ntsib qhov no.",
+    "events": [
+     "Hu cov ntses thiab tsa lub chaw nyob ntawm no",
+     "Zaj qhuab qhia saum Roob — “Cov uas pluag sab ntsuj plig tau nyob kaj siab lug”",
+     "Tej paj lug txog lub tebchaws — thiab kev tawm tsam loj zuj zus"
+    ]
+   },
+   "galilee": {
+    "name": "Hiavtxwv Kalilais",
+    "book": "Malakau 4 · 6 · Yauhas 6",
+    "today": "lub pas dej Kinneret niaj hnub no",
+    "note": "Nrog lub hwjchim saum ntuj thiab teb nws qhia nws yog leejtwg.",
+    "events": [
+     "“Nyob twjywm” — nws txwv cua daj cua dub",
+     "Pub 5,000 leej noj tsau ntawm tsib lub ncuav thiab ob tug ntses",
+     "Taug kev saum nplaim dej"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Xixaleya Filipi",
+    "book": "Mathai 16–17",
+    "today": "Banias niaj hnub no",
+    "note": "Cov thwjtim to taub tias nws yog tus Khetos, thiab txojkev mus rau tus ntoo khaublig qhib.",
+    "events": [
+     "Petus lees paub — “Koj yog tus Khetos, yog Vajtswv uas muaj txojsia nyob leej tub”",
+     "Nws qhia txog nws txojkev tuag thiab rov ciaj sawv thawj zaug",
+     "Hloov duab ci ntsa iab saum roob"
+    ]
+   },
+   "jericho": {
+    "name": "Yelikhau",
+    "book": "Luka 18–19",
+    "today": "Jericho niaj hnub no",
+    "note": "Ntawm txojkev nce mus rau Yeluxalees, nws nrhiav cov uas ploj lawm.",
+    "events": [
+     "Nws kho ib tug dig muag Npathime-a kom pom kev",
+     "Nws hu Xakhai tus sau se",
+     "“Neeg leej Tub los nrhiav thiab cawm cov uas ploj lawm”"
+    ]
+   },
+   "bethany": {
+    "name": "Npethani",
+    "book": "Yauhas 11–12",
+    "today": "al-Eizariya niaj hnub no",
+    "note": "Nws qhia nws lub hwjchim saum kev tuag ua ntej nws lub lim tiam kawg.",
+    "events": [
+     "Nws tsa Laxalau sawv hauv qhov ntxa — “Kuv yog txojkev ciaj sawv thiab txojsia”",
+     "Maivliag hliv tshuaj tsw qab rau nws npaj log",
+     "Lub cim no ua rau lawv txiav txim yuav muab nws tua"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yeluxalees",
+    "book": "Mathai 21–28 · Luka 24 · Tubtxib Tes Haujlwm 1",
+    "today": "Yeluxalees niaj hnub no",
+    "note": "Qhov kawg uas tag nrho phau Vajluskub taw mus — tus ntoo khaublig, kev ciaj sawv, kev nce mus saum ntuj.",
+    "events": [
+     "Nkag mus muaj koob meej; nws rov ntxeeb tej rooj hauv lub tuam tsev dua",
+     "Ntawm Pluas Hmo Kawg nws ntxuav nws cov thwjtim kotaw",
+     "Nws tuag saum tus ntoo khaublig",
+     "Ciaj sawv hnub peb, ces nce mus saum ntuj"
+    ]
+   }
+  },
+  "labels": [
+   "Hiavtxwv Loj",
+   "Kalilais",
+   "Xamali",
+   "Yudia",
+   "Dekhapaulis",
+   "Pele-a",
+   "Hiavtxwv Tuag"
+  ],
+  "journeys": {
+   "life": "Yexus txojkev"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Athi-au",
+    "book": "Tubtxib Tes Haujlwm 13 · 15",
+    "today": "Antakya, Turkey niaj hnub no",
+    "note": "Lub pawg ntseeg uas txib mus, qhov chaw uas kev mus tshaj tawm rau lwm haiv neeg pib thiab rov los.",
+    "events": [
+     "Hauv kev thov, Vaj Ntsuj Plig cais Npananpa thiab Xolau",
+     "Lub pawg ntseeg uas thawj zaug hu cov ntseeg ua “cov ntseeg Khetos”",
+     "Lub chaw pib ntawm zaug taug kev thib ib, ob, thiab peb"
+    ]
+   },
+   "seleucia": {
+    "name": "Xelukia",
+    "book": "Tubtxib Tes Haujlwm 13:4",
+    "today": "Turkey niaj hnub no",
+    "note": "Athi-au lub chaw nres nkoj — lawv caij nkoj mus rau Xaipla.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Xalami (Xaipla)",
+    "book": "Tubtxib Tes Haujlwm 13:5",
+    "today": "Cyprus niaj hnub no",
+    "note": "Thawj qhov chaw hauv Xaipla — qhia hauv tej tsev sablaj.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafau",
+    "book": "Tubtxib Tes Haujlwm 13:6-12",
+    "today": "Cyprus niaj hnub no",
+    "note": "Lub hwjchim raug qhia tawm tsam cov uas tawm tsam txoj xov zoo.",
+    "events": [
+     "Elima tus khawv koob raug ua kom dig muag",
+     "Xawkia Paulau tus thawj kav xeev ntseeg",
+     "Txij no “Povlauj” ua tus coj"
+    ]
+   },
+   "perga": {
+    "name": "Pawka",
+    "book": "Tubtxib Tes Haujlwm 13:13",
+    "today": "Antalya, Turkey niaj hnub no",
+    "note": "Ib lub chaw nres nkoj hauv Pafilia — ntawm no Yauhas Malakau rov qab.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Athi-au hauv Pixidia",
+    "book": "Tubtxib Tes Haujlwm 13:14-50",
+    "today": "Yalvaç, Turkey niaj hnub no",
+    "note": "Txoj xov zoo qhib rau lwm haiv neeg.",
+    "events": [
+     "Ib zaj lus qhuab qhia ntev txog keeb kwm kev cawm dim hauv tsev sablaj",
+     "Coob leej lwm haiv neeg zoo siab thiab txais txojlus",
+     "Raug ntiab tawm los ntawm kev tawm tsam"
+    ]
+   },
+   "iconium": {
+    "name": "Ikhauniyu",
+    "book": "Tubtxib Tes Haujlwm 14:1-7",
+    "today": "Konya, Turkey niaj hnub no",
+    "note": "Coob leej ntseeg, tiamsis kev tsim txom yuam kom lawv mus ntxiv.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lixatha",
+    "book": "Tubtxib Tes Haujlwm 14:8-20",
+    "today": "Turkey niaj hnub no",
+    "note": "Raug hu ua ib tug vaj, ces raug muab pob zeb ntaus.",
+    "events": [
+     "Kho ib tug txivneej uas ceg tuag txij thaum yug los",
+     "Cov neeg coob xav muab tsiaj tua xyeem rau ob tug zoo li vaj",
+     "Raug muab pob zeb ntaus tso tseg zoo li tuag, nws sawv los"
+    ]
+   },
+   "derbe": {
+    "name": "Dawnpi",
+    "book": "Tubtxib Tes Haujlwm 14:20-21",
+    "today": "Turkey niaj hnub no",
+    "note": "Coob leej ua thwjtim; lawv rov taug qab los txhawb tej pawg ntseeg.",
+    "events": []
+   },
+   "troas": {
+    "name": "Rhau-a",
+    "book": "Tubtxib Tes Haujlwm 16:8-10",
+    "today": "Turkey niaj hnub no",
+    "note": "Lub sijhawm tig uas txoj xov zoo thawj zaug taug rau Europe.",
+    "events": [
+     "Ib zaj yog toog txog ib tug txivneej Makhedaunia",
+     "“Cia li hla tuaj pab peb”",
+     "Tamsim ntawd lawv hla mus rau Europe"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Tubtxib Tes Haujlwm 16 · Filipi",
+    "today": "sab qaum teb Greece niaj hnub no",
+    "note": "Europe thawj lub pawg ntseeg — txoj xov zoo kov yeej txawm hauv tsev lojcuj.",
+    "events": [
+     "Lidia, tus muag ntaub tsamxem, ntseeg",
+     "Ib tug ntxhais qhev uas ua neeb raug tso dim",
+     "Nkauj hmo ntuj, av qeeg, tus saib tsev lojcuj tsev neeg dim"
+    ]
+   },
+   "thess": {
+    "name": "Thexalaunika",
+    "book": "Tubtxib Tes Haujlwm 17 · 1–2 Thexalaunika",
+    "today": "Thessaloniki, Greece niaj hnub no",
+    "note": "Txojlus co lub nroog thiab kev tawm tsam npau tuaj.",
+    "events": [
+     "Sib cam hauv tsev sablaj peb hnub Xanpatau",
+     "“Cov uas tau tsim kev kub ntxhov thoob ntiajteb”",
+     "Lawv nyiag khiav mus thaum hmo ntuj"
+    ]
+   },
+   "berea": {
+    "name": "Npele-a",
+    "book": "Tubtxib Tes Haujlwm 17:10-15",
+    "today": "Veria, Greece niaj hnub no",
+    "note": "Cov “zoo” uas tshuaj xyuas txojlus lawv tus kheej.",
+    "events": [
+     "Lawv txais txojlus nrog kev zoo siab",
+     "Niaj hnub tshuaj xyuas Vajluskub saib puas muaj tseeb",
+     "Coob leej los ntseeg"
+    ]
+   },
+   "athens": {
+    "name": "Athee",
+    "book": "Tubtxib Tes Haujlwm 17:16-34",
+    "today": "Athens, Greece niaj hnub no",
+    "note": "Hauv cov kws paub tab lub nroog nws tshaj “tus Vajtswv uas tsis paub”.",
+    "events": [
+     "Chim siab rau ib lub nroog uas puv dab mlom",
+     "Saum Ale-aupaka nws qhia tus Tsim thiab kev ciaj sawv",
+     "Raug thuam, tiamsis ob peb tug ntseeg"
+    ]
+   },
+   "corinth": {
+    "name": "Khaulee",
+    "book": "Tubtxib Tes Haujlwm 18 · 1–2 Khaulee",
+    "today": "Greece niaj hnub no",
+    "note": "Nws nyob ib xyoo thiab ib nrab, cog ib lub pawg ntseeg hauv ib lub nroog kev phem.",
+    "events": [
+     "Ua tsev ntaub nrog Akhila thiab Plixila",
+     "“Tsis txhob ntshai… vim kuv nrog koj nyob”",
+     "Coob leej Khaulee ntseeg thiab ua kevcai raus dej"
+    ]
+   },
+   "ephesus": {
+    "name": "Efexau",
+    "book": "Tubtxib Tes Haujlwm 19 · Efexau",
+    "today": "Selçuk, Turkey niaj hnub no",
+    "note": "Lub plawv ntawm zaug taug kev thib peb — txojlus nthuav thoob Axia.",
+    "events": [
+     "Niaj hnub qhia tau ob xyoo hauv Thilana lub tsev",
+     "Tej phau ntawv khawv koob raug hlawv; tej haujlwm muaj hwjchim",
+     "Demethia tus kws nyiaj tsim kev kub ntxhov"
+    ]
+   },
+   "miletus": {
+    "name": "Miletha",
+    "book": "Tubtxib Tes Haujlwm 20:17-38",
+    "today": "Turkey niaj hnub no",
+    "note": "Ib qho kev sib ncaim quaj rau cov saib xyuas pawg ntseeg Efexau.",
+    "events": [
+     "“Tsom kwm pawg ntseeg uas nws twb yuav los ntawm nws cov ntshav”",
+     "Cov saib xyuas quaj, paub tias lawv yuav tsis pom nws dua"
+    ]
+   },
+   "caesarea": {
+    "name": "Xixaleya",
+    "book": "Tubtxib Tes Haujlwm 23–26",
+    "today": "ntug hiavtxwv Israel niaj hnub no",
+    "note": "Ob xyoos nws tiv thaiv txoj xov zoo ntawm cov thawj kav xeev thiab ib tug vajntxwv.",
+    "events": [
+     "Raug hais plaub ntawm ob tug thawj kav xeev Feli thiab Fexata",
+     "Nws tiv thaiv nws tus kheej ntawm vajntxwv Akipa",
+     "“Kuv thov mus cuag Xixa” — mus rau Loos"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yeluxalees",
+    "book": "Tubtxib Tes Haujlwm 21–23",
+    "today": "Yeluxalees niaj hnub no",
+    "note": "Raug ntes hauv lub tuam tsev, nws txojkev ua ib tug raug kaw pib.",
+    "events": [
+     "Raug cov neeg coob ntes hauv lub tuam tsev",
+     "Tiv thaiv nws tus kheej ntawm rooj sablaj",
+     "Vim yog ib tug pej xeem Loos, raug xa tub rog coj mus rau Xixaleya"
+    ]
+   },
+   "myra": {
+    "name": "Mila",
+    "book": "Tubtxib Tes Haujlwm 27:5-6",
+    "today": "Demre, Turkey niaj hnub no",
+    "note": "Lawv hloov mus caij ib lub nkoj Alexadia uas mus rau Loos.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Chaw Nres Nkoj Zoo Nkauj (Khete)",
+    "book": "Tubtxib Tes Haujlwm 27:8-12",
+    "today": "Crete niaj hnub no",
+    "note": "Povlauj lo lus ceeb toom kom tso tseg kev caij nkoj tsis raug mloog.",
+    "events": []
+   },
+   "crete": {
+    "name": "Khete",
+    "book": "Titus",
+    "today": "Crete niaj hnub no",
+    "note": "Tom qab raug tso dim, lub koog povtxwv uas nws tso Titus tseg los tu tej pawg ntseeg.",
+    "events": [
+     "Tso Titus tseg tsa cov saib xyuas rau txhua lub moos",
+     "Hu kom muaj cov thawj coj uas tsis muaj chaw thuam thiab ncaj ncees",
+     "Sau tsab ntawv rau Titus"
+    ]
+   },
+   "malta": {
+    "name": "Melita",
+    "book": "Tubtxib Tes Haujlwm 27–28",
+    "today": "Malta niaj hnub no",
+    "note": "Dhau cua daj cua dub thiab nkoj tsoo, Vajtswv lo lus cog tseg khov kho.",
+    "events": [
+     "Cua daj cua dub tsoo lub nkoj, tiamsis txhua tus 276 leej dim",
+     "Ib tug nab tom nws, tiamsis nws tsis raug mob",
+     "Nws kho cov neeg mob hauv lub koog povtxwv"
+    ]
+   },
+   "syracuse": {
+    "name": "Xailakhu",
+    "book": "Tubtxib Tes Haujlwm 28:12",
+    "today": "Sicily, Italy niaj hnub no",
+    "note": "Lawv nres peb hnub hauv Sicily.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puthi-auli",
+    "book": "Tubtxib Tes Haujlwm 28:13-14",
+    "today": "Pozzuoli, Italy niaj hnub no",
+    "note": "Lawv tsaws rau Itali thiab cov kwvtij tos txais lawv.",
+    "events": []
+   },
+   "rome": {
+    "name": "Loos",
+    "book": "Tubtxib Tes Haujlwm 28 · Tej Tsab Ntawv hauv Tsev Lojcuj · 2 Timaute",
+    "today": "Rome, Italy niaj hnub no",
+    "note": "Txoj xov zoo thaum kawg mus txog lub plawv ntawm lub teb chaws loj — tsis yog qhov kawg tiamsis yog qhov pib.",
+    "events": [
+     "Ob xyoos raug kaw hauv tsev, tshaj Vajtswv lub tebchaws ntxim siab",
+     "Ntawm no nws sau Tej Tsab Ntawv hauv Tsev Lojcuj (Efexau·Filipi·Khaulauxi·Filemoo)",
+     "Tom qab raug kaw dua, sau 2 Timaute thiab raug tua — “Kuv twb tawm tsam zoo heev lawm, kuv twb dhia txog tom kawg lawm”"
+    ]
+   }
+  },
+  "labels": [
+   "Hiavtxwv Loj",
+   "Hiavtxwv Aikia",
+   "Axia Me",
+   "Makhedaunia",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Taug kev zaug ib",
+   "j2": "Taug kev zaug ob",
+   "j3": "Taug kev zaug peb",
+   "rome": "Taug kev zaug plaub · mus rau Loos",
+   "j5": "Taug kev zaug tsib · tom qab raug tso dim"
+  }
+ }
+}

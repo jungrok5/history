@@ -1,0 +1,636 @@
+{
+ "menuName": "Malagasy",
+ "htmlLang": "mg",
+ "dir": "ltr",
+ "locale": "mg-MG",
+ "brand": "Baiboly amin’ny horonana iray",
+ "docTitle": "Ny Baiboly amin’ny sarintany · Baiboly amin’ny horonana iray",
+ "metaDesc": "Araho eo amin’ny sarintany tena misy ny fizotran’ny Testamenta Taloha, ny fiainan’i Jesosy, ary ny dian’i Paoly — teo amin’ny toerana tena misy no nitrangan’ny Baiboly.",
+ "s": {
+  "kicker": "Baiboly amin’ny horonana iray · Sarintany",
+  "title": "Ny Baiboly amin’ny sarintany",
+  "verse": "“Fa tsy nanaraka izay anganongano noforonin’ny fahafetsen’ny saina izahay, raha nampahafantatra anareo ny hery sy ny fihavian’i Jesosy Kristy Tompontsika; fa efa hitan’ny masonay ny fiandrianany.” (2 Petera 1:16)",
+  "purpose": "Ny Baiboly dia tsy angano. Firaketana momba ny olona izay tena nandeha teo amin’ny toerana, daty, ary anarana tena nisy izy io. Araho ireo lalana ireo manerana ny sarintany, araka ny filaharan’ny fotoana — tsindrio ny teboka iray, na tsindrio ny ▶ mba handeha tsikelikely.",
+  "ot_kick": "① Testamenta Taloha — manerana ny fotoana",
+  "ot_h": "Hatramin’ny famoronana ka hatramin’ny fiverenana any Jerosalema",
+  "ot_lead": "Tsy dia tokana fa ny fizotran’ny tantaram-pamonjena hatramin’ny famoronana: famoronana sy fahalavoana → safo-drano sy Babela → antso (Abrahama) → ny tany nampanantenaina → Eksodosy → efitra → fandresena → fanjakana → fizarazarana → fahababoana → fiverenana.",
+  "je_kick": "② Testamenta Vaovao — ny fiainan’i Jesosy",
+  "je_h": "Hatramin’i Betlehema ka hatramin’i Jerosalema",
+  "je_lead": "Araho ny fiainan’i Jesosy araka ny filazan’ny Filazantsara, araka ny filaharana — hatramin’ny nahaterahany tao Betlehema, ny batisany sy ny asa fanompoany tany Galilia, namaky an’i Samaria, ka hatramin’ny hazo fijaliana, ny fitsanganana amin’ny maty, ary ny fiakarana tany Jerosalema.",
+  "pa_kick": "③ Testamenta Vaovao — ny dian’i Paoly",
+  "pa_h": "Hatramin’i Antiokia ka hatramin’ny faran’ny tany — Roma",
+  "pa_lead": "Manomboka amin’ny Pentekosta tao Jerosalema, ny fomba nielezan’ny filazantsara nihoatra an’i Jodia — namaky an’i Azia Minora sy Eoropa ka hatrany am-pon’ny fanjakana. Fidio ny iray amin’ireo dia dimy (voalohany·faharoa·fahatelo + ny dia an-tsambo ho any Roma + taorian’ny fanafahana) ka araho ny zava-nitranga ao amin’ny Asan’ny Apostoly miaraka amin’ny epistily nosoratana teny an-dalana.",
+  "foot": "Loharano · Ny toerana dia araka ny lahatsoratry ny Baiboly sy ny jeografia fanao amin’ny Baiboly (miaraka amin’ny anarana maoderina rehefa ilaina). Ny morontsiraka, ny ony, ary ny farihy dia avy amin’ny angona jeografika misokatra (Natural Earth), nohatsoraina.",
+  "contact": "Fanontaniana · hevitra — <a id=\"contact\" class=\"mail\">Andefaso mailaka izahay</a>",
+  "play": "Alefaso",
+  "pause": "Ajanony",
+  "today": "Ankehitriny:",
+  "verseCite": "2 Petera 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edena (Famoronana · Fahalavoana)",
+    "book": "Genesisy 1–3",
+    "today": "ny faritr’i Tigra–Eofrata ankehitriny",
+    "note": "Teo amin’izao tontolo izao natao “tsara indrindra”, dia niditra ny ota ka nanapaka ny rohy nampifandray an’Andriamanitra sy ny olombelona.",
+    "events": [
+     "Famoronana tao anatin’ny henemana — “tsara indrindra izany”",
+     "Ny olombelona natao mitovy endrika amin’Andriamanitra",
+     "Ny fahalavoana, sy ny fandroahana avy tao Edena",
+     "Ny fampanantenana voalohany momba ny filazantsara — “ny taranaky ny vehivavy no hanorotoro ny lohan’ny menarana”"
+    ]
+   },
+   "noah": {
+    "name": "Ararata (Safo-drano)",
+    "book": "Genesisy 6–9",
+    "today": "ny Tendrombohitra Ararata, atsinanan’i Torkia ankehitriny",
+    "note": "Nitsara izao tontolo izao feno ota Andriamanitra, nefa nitahiry ny aina tamin’ny alalan’ny fianakaviana iray.",
+    "events": [
+     "Izao tontolo izao feno faharatsiana",
+     "Ny safo-drano, sy ny sambo-fiaran’i Noa",
+     "Ny fanekena tamin’ny avana — “tsy hisy safo-drano handrava intsony”"
+    ]
+   },
+   "babel": {
+    "name": "Tilikambon’i Babela",
+    "book": "Genesisy 11",
+    "today": "Iraka ankehitriny (ny tany lemaka Sinara)",
+    "note": "Nanoloana ny fireharehana nikendry ny lanitra, dia nanaparitaka ny fiteniny sy ny firenena manerana ny tany Andriamanitra.",
+    "events": [
+     "“Andeha isika hanao tanàna sy tilikambo… ka hanao izay hahazoana laza ho antsika”",
+     "Nanorokoro ny fiteniny Andriamanitra",
+     "Niparitaka manerana ny tany ny firenena (Sinara — Babylona tatỳ aoriana)"
+    ]
+   },
+   "ur": {
+    "name": "Ora",
+    "book": "Genesisy 12",
+    "today": "atsimon’i Iraka ankehitriny",
+    "note": "Ny tantaram-pamonjena ao amin’ny Baiboly dia manomboka amin’ny fiantsoana lehilahy iray.",
+    "events": [
+     "Niantso an’i Abrama hiala tao Oran’ny Kaldeana Andriamanitra",
+     "“Hahatonga anao ho firenena lehibe Aho… ary aminao no hitahiana ny firenena rehetra”",
+     "Amin’ny finoana no nandaozany ny taniny"
+    ]
+   },
+   "haran": {
+    "name": "Harana",
+    "book": "Genesisy 12",
+    "today": "atsimon’i Torkia ankehitriny",
+    "note": "Teny an-dalana, namaly ny antso nankany amin’ny tany nampanantenaina.",
+    "events": [
+     "Nonina tao Harana ny fianakavian’i Tera",
+     "Maty i Tera",
+     "Niainga nankany Kanana i Abrama tamin’ny faha-75 taonany"
+    ]
+   },
+   "shechem": {
+    "name": "Sekema · Kanana",
+    "book": "Genesisy 12–50",
+    "today": "Nablus ankehitriny",
+    "note": "Tao amin’ny tany nampanantenaina no niorenan’ny fianakaviana iray ary nifindra tamin’ny taranaka mifandimby ny fanekena.",
+    "events": [
+     "Niditra tao Kanana, alitara voalohany — “ny taranakao no homeko ity tany ity”",
+     "Ny fanekena (Genesisy 15) · Isaka · Jakoba",
+     "Ny zanaka roa ambin’ny folon’i Jakoba — fototry ny foko roa ambin’ny folo"
+    ]
+   },
+   "egypt": {
+    "name": "Egypta (Gosena)",
+    "book": "Genesisy 37–50 · Eksodosy 1",
+    "today": "ny Delta Nily, Egypta ankehitriny",
+    "note": "Lasa firenena lehibe ny fianakaviana iray — avy eo lasa firenena andevo.",
+    "events": [
+     "Josefa, namidy, nisandratra hanapaka an’i Egypta",
+     "Nidina ny fianakavian’i Jakoba manontolo mba handositra ny mosary",
+     "Nampanandevozina ny firenen’Isiraely nitombo"
+    ]
+   },
+   "sinai": {
+    "name": "Tendrombohitra Sinay",
+    "book": "Eksodosy · Levitikosy",
+    "today": "ny Saikinosin’i Sinay ankehitriny",
+    "note": "Ny famonjena ivon’ny Testamenta Taloha — lasa vahoakan’Andriamanitra ny andevo.",
+    "events": [
+     "Ny loza folo sy ny zanak’ondrin’ny Paska",
+     "Nisaraka ny Ranomasina Mena ka nita izy ireo",
+     "Ny Didy Folo, ny Lalàna, ny tabernakely sy ny fanatitra"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesy (efitra)",
+    "book": "Nomery · Deoteronomia",
+    "today": "ny efitr’i Sinay–Negeva ankehitriny",
+    "note": "Ny tsy finoana no nahavery ny tany tamin’ny taranaka iray — nefa nijanona niaraka taminy Andriamanitra.",
+    "events": [
+     "Mpisafo roa ambin’ny folo — nefa nandà tsy hatoky ny vahoaka",
+     "38 taona tany an’efitra — mana, rahona ary afo",
+     "Teo amin’ny tany lemak’i Moaba, ny toriteny farany nataon’i Mosesy (Deoteronomia)"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Josoa",
+    "today": "Jeriko ankehitriny",
+    "note": "Amin’ny farany dia niditra sy nahazo ny tany nampanantenaina izy ireo.",
+    "events": [
+     "Nisaraka ny Jordana ka nita ny vahoaka",
+     "Nirodana ny mandan’i Jeriko",
+     "Ny fandresena an’i Kanana sy ny fizarana ny tany"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Mpitsara)",
+    "book": "Mpitsara · Rota",
+    "today": "Khirbet Seilun ankehitriny",
+    "note": "Tsy nisy mpanjaka, ka samy nanao izay tiany ny tsirairay — mila mpanjaka marina.",
+    "events": [
+     "Naorina tao Silo ny tabernakely",
+     "Ny tsingerina ota–fampahoriana–famonjena (Debora, Gideona, Samsona)",
+     "Rota — tsy fivadihana tamin’ny andro maizina, ao amin’ny taranak’i Davida"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerosalema · Fanjakana Iray",
+    "book": "1–2 Samoela · 1 Mpanjaka",
+    "today": "Jerosalema ankehitriny",
+    "note": "Ny vanim-potoana volamenan’Isiraely — sy ny fampanantenana mpanjaka mandrakizay.",
+    "events": [
+     "Saoly mpanjaka voalohany, avy eo Davida sy Goliata",
+     "Ny fanekena tamin’i Davida — “ny seza fiandriananao… mandrakizay” (2 Samoela 7)",
+     "Nanorina ny tempoly tao Jerosalema i Solomona"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Fanjakana Mizara Roa",
+    "book": "Mpanjaka · ny Mpaminany",
+    "today": "Sebastia ankehitriny",
+    "note": "Mizara sy mihena ny fanjakana raha miantso mafy ny mpaminany.",
+    "events": [
+     "Taorian’i Solomona, nizara ho Joda sy Isiraely",
+     "Fanompoan-tsampy niverimberina",
+     "Elia, Isaia, Jeremia miantso hoe “miverena” — ary maminany ny Mesia"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninive (Asyria)",
+    "book": "2 Mpanjaka 17 · Jona",
+    "today": "Mosul, Iraka ankehitriny",
+    "note": "Tsy niraharaha ny fampitandremana rehetra, dia lavo voalohany ny avaratra.",
+    "events": [
+     "Ninive, renivohitr’i Asyria",
+     "Lavo teo am-pelatanan’i Asyria ny fanjakana avaratra (722 tal. J.K.)",
+     "Nirahina tany Ninive i Jona"
+    ]
+   },
+   "babylon": {
+    "name": "Babylona",
+    "book": "2 Mpanjaka 25 · Daniela · Ezekiela",
+    "today": "Hillah, Iraka ankehitriny",
+    "note": "Ny alina maizina indrindra — nefa mbola mitoetra ny fampanantenana ny famerenana amin’ny laony.",
+    "events": [
+     "Lavo Jerosalema, may ny tempoly (586 tal. J.K.)",
+     "Entina ho babo any Babylona ny Joda",
+     "Daniela sy Ezekiela — finoana sy fahitana tao amin’ny fahababoana"
+    ]
+   },
+   "susa": {
+    "name": "Sosana (Persia)",
+    "book": "Estera · Nehemia",
+    "today": "Shush, Irana ankehitriny",
+    "note": "Na dia teo afovoan’ny fanjakana mpanompo sampy aza, dia niaro ny vahoakany Andriamanitra.",
+    "events": [
+     "Nandresy an’i Babylona i Persia",
+     "Namonjy ny Jiosy tamin’ny fandringanana i Estera",
+     "Nivavaka teo anatrehan’ny mpanjaka i Nehemia ka nirahina"
+    ]
+   },
+   "return": {
+    "name": "Fiverenana any Jerosalema",
+    "book": "Ezra · Nehemia · Malakia",
+    "today": "Jerosalema ankehitriny",
+    "note": "Miverina sy manorina indray izy ireo — nefa tsy misy mpanjaka tonga. Miandry ny Mesia izy ireo.",
+    "events": [
+     "Onja fiverenana telo noho ny didin’i Kyrosy (Zerobabela 538 · Ezra 458 · Nehemia 444)",
+     "Naorina indray ny tempoly ary naverina ny mandan’i Jerosalema",
+     "Malakia — mifarana ny Testamenta Taloha: “Haniraka ny irako Aho”"
+    ]
+   }
+  },
+  "labels": [
+   "Ranomasina Mediterane",
+   "Mezopotamia",
+   "Efitr’i Arabia",
+   "Egypta"
+  ],
+  "journeys": {
+   "flow": "Ny tantaram-pamonjena"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehema",
+    "book": "Matio 1–2 · Lioka 2",
+    "today": "Betlehema ankehitriny",
+    "note": "Tonga ao an-tanànan’i Davida ny Mesia nampanantenaina — ny Teny tonga nofo.",
+    "events": [
+     "Teraka tao Betlehema, tanànan’i Davida",
+     "Nanambara ny vaovao tamin’ny mpiandry ondry ny anjely",
+     "Tonga hivavaka ny Magy"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazareta",
+    "book": "Lioka 2 · 4",
+    "today": "Nazareta ankehitriny",
+    "note": "Nihalehibe ho olombelona tao amin’ny tanàna tsotra Andriamanitra.",
+    "events": [
+     "Nobeazina tao an-tranon’ny mpandrafitra",
+     "Tamin’ny faha-12 taonany, nanontany sy namaly tao amin’ny tempoly",
+     "Nolavina tatỳ aoriana tao amin’ny synagoga tao an-tanàna nihaviany"
+    ]
+   },
+   "jordan": {
+    "name": "Ony Jordana",
+    "book": "Matio 3–4",
+    "today": "ny Jordana ambany ankehitriny",
+    "note": "Nanomboka ny asa fanompoany ampahibemaso — nanamarina Azy ho Zanaka ny lanitra.",
+    "events": [
+     "Natao batisa nataon’i Jaona",
+     "Nidina toy ny voromailala ny Fanahy — “Ity no Zanako malalako”",
+     "Nandresy ny fakam-panahy telo nataon’i Satana tany an’efitra"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Jaona 2",
+    "today": "Kafr Kanna ankehitriny",
+    "note": "Tamin’ny famantarana voalohany nataony no nanambarany ny voninahiny.",
+    "events": [
+     "Vahiny tamin’ny fampakaram-bady",
+     "Rano nova ho divay — ny famantarana voalohany nataony",
+     "Nino Azy ny mpianany"
+    ]
+   },
+   "sychar": {
+    "name": "Sykara (Samaria)",
+    "book": "Jaona 2–4",
+    "today": "akaikin’i Nablus ankehitriny",
+    "note": "Ny lalan’ny asa fanompoana tany am-boalohany — namaky an’i Jerosalema ka nankany Samaria nohamavoina.",
+    "events": [
+     "Nanadio ny tempoly tao Jerosalema Izy",
+     "Nony alina, Nikodemosy — “Tsy maintsy hateraka indray ianao”",
+     "Rano velona ho an’ny vehivavy Samaritana"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaomy",
+    "book": "Matio 4–13 · Marka 1–4",
+    "today": "ny moron’ny farihin’i Galilia ankehitriny",
+    "note": "Ny toby ivon’ny asa fanompoana tany Galilia — mihaona eto ny fiantsoana, ny fampianarana, ary ny fanoherana.",
+    "events": [
+     "Niantso ny mpanarato ary nanorina ny tobiny teto",
+     "Ny Toriteny teo an-tendrombohitra — “Sambatra ny malahelo am-panahy”",
+     "Ny fanoharana momba ny fanjakana — ary ny fanoherana mitombo"
+    ]
+   },
+   "galilee": {
+    "name": "Ranomasin’i Galilia",
+    "book": "Marka 4 · 6 · Jaona 6",
+    "today": "ny Farihy Kinereta ankehitriny",
+    "note": "Amin’ny fahefana amin’ny natiora no anehoany hoe iza Izy.",
+    "events": [
+     "“Mangìna, mitsahara” — nampitony ny tafio-drivotra Izy",
+     "Namahana 5.000 tamin’ny mofo dimy sy hazandrano roa",
+     "Nandeha teny ambonin’ny rano"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisaria-Filipy",
+    "book": "Matio 16–17",
+    "today": "Banias ankehitriny",
+    "note": "Takatry ny mpianatra fa Izy no Kristy, ary misokatra ny lalan’ny hazo fijaliana.",
+    "events": [
+     "Ny faneken’i Petera — “Hianao no Kristy, Zanak’Andriamanitra velona”",
+     "Nanambara voalohany ny fahafatesany sy ny fitsanganany tamin’ny maty Izy",
+     "Niova tarehy tamim-boninahitra teo an-tendrombohitra"
+    ]
+   },
+   "jericho": {
+    "name": "Jeriko",
+    "book": "Lioka 18–19",
+    "today": "Jeriko ankehitriny",
+    "note": "Teny an-dalana miakatra ho any Jerosalema, dia mitady ny very Izy.",
+    "events": [
+     "Nampahiratra an’i Bartimeo jamba Izy",
+     "Niantso an’i Zakaiosy mpamory hetra Izy",
+     "“Ny Zanak’olona tonga hitady sy hamonjy ny very”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Jaona 11–12",
+    "today": "al-Eizariya ankehitriny",
+    "note": "Nampiseho fahefana amin’ny fahafatesana Izy teo am-pototry ny herinandrony farany.",
+    "events": [
+     "Nanangana an’i Lazarosy tamin’ny fasana Izy — “Izaho no fananganana ny maty sy fiainana”",
+     "Nanosotra Azy ho amin’ny fandevenana i Maria",
+     "Nampitombo ny tetika hamono Azy io famantarana io"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerosalema",
+    "book": "Matio 21–28 · Lioka 24 · Asan’ny Apostoly 1",
+    "today": "Jerosalema ankehitriny",
+    "note": "Ny tampony antondroan’ny Baiboly manontolo — hazo fijaliana, fitsanganana amin’ny maty, fiakarana.",
+    "events": [
+     "Fidirana am-boninahitra; nampivadika indray ny latabatra tao an-tempoly Izy",
+     "Tamin’ny Fanasana Farany dia nanasa ny tongotry ny mpianany Izy",
+     "Maty teo amin’ny hazo fijaliana Izy",
+     "Nitsangana tamin’ny andro fahatelo, ary avy eo niakatra"
+    ]
+   }
+  },
+  "labels": [
+   "Ranomasina Mediterane",
+   "Galilia",
+   "Samaria",
+   "Jodia",
+   "Dekapolisy",
+   "Perea",
+   "Ranomasina Maty"
+  ],
+  "journeys": {
+   "life": "Ny lalan’i Jesosy"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Asan’ny Apostoly 13 · 15",
+    "today": "Antakya, Torkia ankehitriny",
+    "note": "Ny fiangonana naniraka izay niandohan’ny misiona tany amin’ny jentilisa sy niverenany.",
+    "events": [
+     "Teo am-bavaka no nanokanan’ny Fanahy an’i Barnabasy sy Saoly",
+     "Ny fiangonana niantsoana voalohany ny mpino hoe “Kristiana”",
+     "Toerana niaingan’ny dia voalohany, faharoa, ary fahatelo"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleokia",
+    "book": "Asan’ny Apostoly 13:4",
+    "today": "Torkia ankehitriny",
+    "note": "Ny seranan’i Antiokia — niondrana an-tsambo nankany Kyprosy izy ireo.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamisy (Kyprosy)",
+    "book": "Asan’ny Apostoly 13:5",
+    "today": "Kyprosy ankehitriny",
+    "note": "Ny fijanonana voalohany tao Kyprosy — nitory tao amin’ny synagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafo",
+    "book": "Asan’ny Apostoly 13:6-12",
+    "today": "Kyprosy ankehitriny",
+    "note": "Naseho ny hery nanoloana izay nanohitra ny filazantsara.",
+    "events": [
+     "Nataon-jamba i Elymasy mpanao ody",
+     "Nino i Sergio-Paolo governora",
+     "Manomboka eto, i “Paoly” no mitarika"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Asan’ny Apostoly 13:13",
+    "today": "Antalya, Torkia ankehitriny",
+    "note": "Seranana tao Pamfylia — teto no niverenan’i Jaona Marka.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia any Pisidia",
+    "book": "Asan’ny Apostoly 13:14-50",
+    "today": "Yalvaç, Torkia ankehitriny",
+    "note": "Nisokatra ho amin’ny jentilisa ny filazantsara.",
+    "events": [
+     "Toriteny lava momba ny tantaram-pamonjena tao amin’ny synagoga",
+     "Maro ny jentilisa nifaly ka nandray ny teny",
+     "Noroahina noho ny fanoherana"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonioma",
+    "book": "Asan’ny Apostoly 14:1-7",
+    "today": "Konya, Torkia ankehitriny",
+    "note": "Maro no nino, saingy nanery azy handroso ny fanenjehana.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lystra",
+    "book": "Asan’ny Apostoly 14:8-20",
+    "today": "Torkia ankehitriny",
+    "note": "Noderaina ho andriamanitra, avy eo notoraham-bato.",
+    "events": [
+     "Nanasitrana lehilahy nalemy tongotra hatrany am-bohoka",
+     "Nitady hamono zavatra hatao fanatitra ho azy ireo toy ny andriamanitra ny vahoaka",
+     "Notoraham-bato ka nariana toy ny maty, nefa nitsangana izy"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Asan’ny Apostoly 14:20-21",
+    "today": "Torkia ankehitriny",
+    "note": "Maro ny mpianatra azo; niverina tamin’ny lalana nalehany izy ireo mba hampahery ny fiangonana.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troasy",
+    "book": "Asan’ny Apostoly 16:8-10",
+    "today": "Torkia ankehitriny",
+    "note": "Ny fiolahana izay niantefan’ny filazantsara voalohany ho any Eoropa.",
+    "events": [
+     "Fahitana lehilahy Makedoniana iray",
+     "“Mità mankaty, ka vonjeo izahay”",
+     "Nita niaraka tamin’izay nankany Eoropa izy ireo"
+    ]
+   },
+   "philippi": {
+    "name": "Filipy",
+    "book": "Asan’ny Apostoly 16 · Filipiana",
+    "today": "avaratr’i Gresa ankehitriny",
+    "note": "Ny fiangonana voalohany tany Eoropa — mandresy na dia any an-tranomaizina aza ny filazantsara.",
+    "events": [
+     "Nino i Lydia, mpivarotra lamba volomparasy",
+     "Afaka ny ankizivavy andevo nanana fanahy mpisikidy",
+     "Hira tamin’ny mamatonalina, horohoron-tany, voavonjy ny ankohonan’ny mpiandry tranomaizina"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Asan’ny Apostoly 17 · 1–2 Tesaloniana",
+    "today": "Thessaloniki, Gresa ankehitriny",
+    "note": "Nampihorohoro ny tanàna ny teny ary nirehitra ny fanoherana.",
+    "events": [
+     "Niady hevitra tao amin’ny synagoga nandritra ny Sabata telo",
+     "“Ireto lehilahy izay nampikorontana izao tontolo izao”",
+     "Nandositra nony alina izy ireo"
+    ]
+   },
+   "berea": {
+    "name": "Beria",
+    "book": "Asan’ny Apostoly 17:10-15",
+    "today": "Veria, Gresa ankehitriny",
+    "note": "Ireo “tsara toetra kokoa” izay nandinika ny teny ho azy.",
+    "events": [
+     "Nandray ny teny tamin’ny zotom-po izy ireo",
+     "Nandinika ny Soratra Masina isan’andro izy ireo mba hamantarana izany",
+     "Maro no tonga nino"
+    ]
+   },
+   "athens": {
+    "name": "Atena",
+    "book": "Asan’ny Apostoly 17:16-34",
+    "today": "Atena, Gresa ankehitriny",
+    "note": "Tao an-tanànan’ny filozofa no nitoriany ny “andriamanitra tsy fantatra”.",
+    "events": [
+     "Sosotra noho ny tanàna feno sampy",
+     "Teo amin’ny Areopago no nitoriany ny Mpahary sy ny fitsanganana amin’ny maty",
+     "Nesoina, nefa vitsy no nino"
+    ]
+   },
+   "corinth": {
+    "name": "Korinto",
+    "book": "Asan’ny Apostoly 18 · 1–2 Korintiana",
+    "today": "Gresa ankehitriny",
+    "note": "Nijanona herintaona sy tapany Izy, namboly fiangonana tao an-tanàna feno faharatsiana.",
+    "events": [
+     "Nanao lay niaraka tamin’i Akoila sy Prisila",
+     "“Aza matahotra… fa Izaho momba anao”",
+     "Maro ny Korintiana nino ka natao batisa"
+    ]
+   },
+   "ephesus": {
+    "name": "Efesosy",
+    "book": "Asan’ny Apostoly 19 · Efesiana",
+    "today": "Selçuk, Torkia ankehitriny",
+    "note": "Ivon’ny dia fahatelo — niely nanerana an’i Azia ny teny.",
+    "events": [
+     "Fampianarana isan’andro nandritra ny roa taona tao amin’ny efitrano fampianaran’i Tyrano",
+     "Nodorana ny boky momba ny majika; asa mahery vaika",
+     "Nanomboka rotaka i Demetrio mpanefy volafotsy"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Asan’ny Apostoly 20:17-38",
+    "today": "Torkia ankehitriny",
+    "note": "Fanaovam-beloma nampihetsi-po tamin’ny loholon’i Efesosy.",
+    "events": [
+     "“Andraso ny fiangonana izay novidiny tamin’ny ràny”",
+     "Nitomany ny loholona, fantany fa tsy hahita azy intsony"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisaria",
+    "book": "Asan’ny Apostoly 23–26",
+    "today": "ny morontsirak’i Isiraely ankehitriny",
+    "note": "Nandritra ny roa taona no niarovany ny filazantsara teo anatrehan’ny governora sy mpanjaka iray.",
+    "events": [
+     "Fitsarana teo anatrehan’i Feliksa sy Festosy governora",
+     "Ny fiarovan-tenany teo anatrehan’i Agripa mpanjaka",
+     "“Mangataka ny hotsarain’i Kaisara aho” — mizotra ho any Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Jerosalema",
+    "book": "Asan’ny Apostoly 21–23",
+    "today": "Jerosalema ankehitriny",
+    "note": "Nosamborina tao an-tempoly, nanomboka ny lalany amin’ny maha-gadra azy.",
+    "events": [
+     "Nosamborin’ny vahoaka tao an-tempoly",
+     "Niaro tena teo anatrehan’ny Synedriona",
+     "Amin’ny maha-olom-pirenena Romana azy, nalefa nambenana ho any Kaisaria"
+    ]
+   },
+   "myra": {
+    "name": "Myra",
+    "book": "Asan’ny Apostoly 27:5-6",
+    "today": "Demre, Torkia ankehitriny",
+    "note": "Nifindra sambo avy any Aleksandria nizotra ho any Roma izy ireo.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Tsara-fitodrian-tsambo (Kreta)",
+    "book": "Asan’ny Apostoly 27:8-12",
+    "today": "Kreta ankehitriny",
+    "note": "Tsy nohenoina ny fampitandreman’i Paoly hijanona tsy handeha an-tsambo.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Titosy",
+    "today": "Kreta ankehitriny",
+    "note": "Taorian’ny nanafahana azy, ny nosy izay namelany an’i Titosy handamina ny fiangonana.",
+    "events": [
+     "Namela an’i Titosy hanendry loholona isan-tanàna",
+     "Mitaky mpitarika tsy manan-tsiny sady mahatoky",
+     "Nanoratra ny epistily ho an’i Titosy"
+    ]
+   },
+   "malta": {
+    "name": "Melita",
+    "book": "Asan’ny Apostoly 27–28",
+    "today": "Malta ankehitriny",
+    "note": "Namakivaky tafio-drivotra sy fahaverezan-tsambo, dia nijoro ny fampanantenan’Andriamanitra.",
+    "events": [
+     "Nandrava ny sambo ny “rivotra avaratra-atsinanana”, nefa voavonjy avokoa izy 276",
+     "Nokekerin’ny menarana misy poizina, nefa tsy naninona izy",
+     "Nanasitrana ny marary teo amin’ny nosy izy"
+    ]
+   },
+   "syracuse": {
+    "name": "Syrakosy",
+    "book": "Asan’ny Apostoly 28:12",
+    "today": "Sisilia, Italia ankehitriny",
+    "note": "Nijanona hateloana tao Sisilia izy ireo.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Potioly",
+    "book": "Asan’ny Apostoly 28:13-14",
+    "today": "Pozzuoli, Italia ankehitriny",
+    "note": "Nitody tany Italia izy ireo ka notsenain’ny mpiray finoana.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Asan’ny Apostoly 28 · Epistily an-tranomaizina · 2 Timoty",
+    "today": "Roma, Italia ankehitriny",
+    "note": "Tonga tao am-pon’ny fanjakana ihany ny filazantsara — tsy fiafarana fa fiandohana.",
+    "events": [
+     "Roa taona nogadraina an-trano, nitory ny fanjakana tamim-pahasahiana",
+     "Avy eto no nanoratany ny Epistily nosoratana tany an-tranomaizina (Efesiana·Filipiana·Kolosiana·Filemona)",
+     "Nogadraina indray tatỳ aoriana, nanoratra ny 2 Timoty ary maty maritiora — “Efa niady ny ady tsara aho, nahatanteraka ny fihazakazahana aho”"
+    ]
+   }
+  },
+  "labels": [
+   "Ranomasina Mediterane",
+   "Ranomasina Egea",
+   "Azia Minora",
+   "Makedonia",
+   "Italia"
+  ],
+  "journeys": {
+   "j1": "Dia voalohany",
+   "j2": "Dia faharoa",
+   "j3": "Dia fahatelo",
+   "rome": "Dia fahefatra · ho any Roma",
+   "j5": "Dia fahadimy · taorian’ny fanafahana"
+  }
+ }
+}
