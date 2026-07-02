@@ -1,0 +1,636 @@
+{
+ "menuName": "Chitumbuka",
+ "htmlLang": "tum",
+ "dir": "ltr",
+ "locale": "tum-MW",
+ "brand": "Baibolo mu Skrolo Limoza",
+ "docTitle": "Baibolo pa Mapu · Baibolo mu Skrolo Limoza",
+ "metaDesc": "Rondezgani ndondomeko ya Testamente Lakale, umoyo wa Yesu, na maulendo gha Paulo pa mapu ghanadi — Baibolo likachitika mu malo ghanadi.",
+ "s": {
+  "kicker": "Baibolo mu Skrolo Limoza · Mapu",
+  "title": "Baibolo pa Mapu",
+  "verse": "“Pakuti ise kuti tikarondezga vidokoni vyakwata waka chara para tikamumanyiskani vya nkhongono na vya kwiza kwa Fumu yithu Yesu Khristu, kweni tikaŵa ŵakaboni ŵa uchindami wakhe.” (2 Petrosi 1:16)",
+  "purpose": "Baibolo kuti ni nthanu chara. Ni kalembo ka ŵanthu awo ŵakenda mu malo, madazi, na mazina ghanadi. Rondezgani nthowa izi pa mapu, mwakulondezgana na nyengo — pininani malo, panji dinyani ▶ kuti mwende sitepe pa sitepe.",
+  "ot_kick": "① Testamente Lakale — mu nyengo",
+  "ot_h": "Kufuma ku chilengiwa kufika ku kuwelera ku Yerusalemu",
+  "ot_lead": "Kuti ni ulendo umoza pera chara kweni ni kwenda kwa mbiri ya chiponosko kwamba ku chilengiwa: chilengiwa na kuwa → chigumula na Babeli → chemo (Abrahamu) → charu cha layizgo → Kufumamo → mapopa → kutora charu → ufumu → kugaŵikana → wuzga → kuwelera.",
+  "je_kick": "② Testamente Liphya — umoyo wa Yesu",
+  "je_h": "Kufuma ku Betelehemu kufika ku Yerusalemu",
+  "je_lead": "Rondezgani umoyo wa Yesu umo Mauthenga Ghaweme ghakuyowoyera, mu ndondomeko — kufuma ku kubabika kwake mu Betelehemu, kwizira mu ubatizo wake na uteŵeti mu Galileya, kwambuka Samariya, kufika ku mphinjika, kuwuka, na kukwera kuchanya mu Yerusalemu.",
+  "pa_kick": "③ Testamente Liphya — maulendo gha Paulo",
+  "pa_h": "Kufuma ku Antiyoke kufika ku mphererekezgo za charu — Roma",
+  "pa_lead": "Kwamba ku Pentekoste mu Yerusalemu, umo uthenga uweme ukwandanira kujumpha Yudeya — kwizira mu Asiya Yichoko na Yuropa kufika ku mtima wa Ufumu wa Roma. Sankhani ulendo umoza pa maulendo ghankhondi (wakwamba·wachiŵiri·wachitatu + ulendo wa ku Roma + pamanyuma pa kufwatulika) ndipo rondezgani vyakuchitika vya mu Milimo pamoza na makalata agho ghakalembeka mu nthowa.",
+  "foot": "Vyakufumako · Malo ghakulondezga malemba gha Baibolo na jografiya yakuzomerezgeka ya Baibolo (na mazina gha mazuŵa ghano apo ghakovwira). Mphepete za nyanja, mironga, na manyanja vikapangika kufuma ku data ya jografiya yakujulika (Natural Earth), yakupepusika.",
+  "contact": "Mafumbo · maghanoghano — <a id=\"contact\" class=\"mail\">Tilembereni</a>",
+  "play": "Ambani",
+  "pause": "Imikani",
+  "today": "Mazuŵa ghano:",
+  "verseCite": "2 Petrosi 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Edeni (Chilengiwa · Kuwa)",
+    "book": "Mutendeko 1–3",
+    "today": "chigaŵa cha Tigirisi–Yufurate mazuŵa ghano",
+    "note": "Mu charu icho chikaŵa chiweme chomene, kwananga kukanjira ndipo kukaswa ukomano pakati pa Chiuta na ŵanthu.",
+    "events": [
+     "Chilengiwa mu mazuŵa ghankhondi na limoza — “vikaŵa viweme chomene”",
+     "Ŵanthu ŵakalengeka mu chikozgo cha Chiuta",
+     "Kuwa, na kuchimbizgika ku Edeni",
+     "Layizgo lakwamba la uthenga uweme — “mphapu ya mwanakazi yamkuphwanya mutu wa njoka”"
+    ]
+   },
+   "noah": {
+    "name": "Ararati (Chigumula)",
+    "book": "Mutendeko 6–9",
+    "today": "Phiri la Ararati, kumafumiro gha dazi kwa Turkiye mazuŵa ghano",
+    "note": "Chiuta wakweruzga charu chakuzura na kwananga, kweni wakusunga umoyo kwizira mu mbumba yimoza.",
+    "events": [
+     "Charu chakuzura na uheni",
+     "Chigumula, na ngalaŵa ya Nowa",
+     "Phangano la uta — “chigumula chizamkuparanyaso charu chara”"
+    ]
+   },
+   "babel": {
+    "name": "Nsanja ya Babeli",
+    "book": "Mutendeko 11",
+    "today": "Iraki mazuŵa ghano (chigwa cha Shinari)",
+    "note": "Pa kujikuzga uko kukukhumba kufika kuchanya, Chiuta wakumbwandukiska chiyowoyero chawo na ŵanthu pa charu chose.",
+    "events": [
+     "“Tizengani msumba na nsanja… ndipo tijipangire zina”",
+     "Chiuta wakutimbanizga chiyowoyero chawo",
+     "Ŵanthu ŵakumbwalalika pa charu chose (Shinari — panyuma Babuloni)"
+    ]
+   },
+   "ur": {
+    "name": "Uru",
+    "book": "Mutendeko 12",
+    "today": "kumwera kwa Iraki mazuŵa ghano",
+    "note": "Nkhani ya chiponosko mu Baibolo yikwamba na chemo la munthu yumoza.",
+    "events": [
+     "Chiuta wakuchema Abramu kufuma ku Uru wa ŵaKalidi",
+     "“Ndamkukuzgora iwe fuko likuru… mafuko ghose ghamkutumbikika mwa iwe”",
+     "Na chipulikano wakufumamo mu charu chake"
+    ]
+   },
+   "haran": {
+    "name": "Harani",
+    "book": "Mutendeko 12",
+    "today": "kumwera kwa Turkiye mazuŵa ghano",
+    "note": "Mu nthowa, kuzgora chemo lakuya ku charu cha layizgo.",
+    "events": [
+     "Mbumba ya Tera yikukhala mu Harani",
+     "Tera wakufwa",
+     "Abramu wakwamba ulendo wakuya ku Kenani mu vyaka 75"
+    ]
+   },
+   "shechem": {
+    "name": "Shekemu · Kenani",
+    "book": "Mutendeko 12–50",
+    "today": "Nabulusi mazuŵa ghano",
+    "note": "Mu charu cha layizgo mbumba yikwimikika ndipo phangano likulutilira ku miwiro na miwiro.",
+    "events": [
+     "Kunjira mu Kenani, jotchero lakwamba — “ku mphapu yako ndipeleka charu ichi”",
+     "Phangano (Mutendeko 15) · Isaki · Yakhobe",
+     "Ŵana ŵa Yakhobe khumi na ŵaŵiri — muzu wa mafuko khumi na ghaŵiri"
+    ]
+   },
+   "egypt": {
+    "name": "Eguputo (Gosheni)",
+    "book": "Mutendeko 37–50 · Kufumamo 1",
+    "today": "Delta ya Naile, Eguputo mazuŵa ghano",
+    "note": "Mbumba yikuzgoka fuko likuru — kufika fuko la ŵazga.",
+    "events": [
+     "Yosefe, wakuguliskika, wakukwera kuwusa Eguputo",
+     "Mbumba yose ya Yakhobe yikukhilira kuchimbira njara",
+     "Fuko la Israele ilo likukura likuzgoka uzga"
+    ]
+   },
+   "sinai": {
+    "name": "Phiri la Sinai",
+    "book": "Kufumamo · Levitiko",
+    "today": "Chigaŵa cha Sinai mazuŵa ghano",
+    "note": "Chiponosko chikuru cha Testamente Lakale — ŵazga ŵakuzgoka ŵanthu ŵa Chiuta.",
+    "events": [
+     "Vilengo khumi na mwanawemberere wa Pasaka",
+     "Nyanja Yiswesi yikugaŵikana ndipo ŵakwambuka",
+     "Marango Ghakhumi, Dango, chihema na sembe"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadeshi (mapopa)",
+    "book": "Kupenda · Duteronome",
+    "today": "mapopa gha Sinai–Negevu mazuŵa ghano",
+    "note": "Kuleka kupulikana kukupokera muwiro umoza charu — kweni Chiuta wakukhalilira nawo.",
+    "events": [
+     "Ŵakalaŵiliri khumi na ŵaŵiri — kweni ŵanthu ŵakukana kugomezga",
+     "Vyaka 38 mu mapopa — mana, bingu na moto",
+     "Pa vigwa vya Moabu, upharazgi waumaliro wa Mozesi (Duteronome)"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Yoswa",
+    "today": "Yeriko mazuŵa ghano",
+    "note": "Paumaliro ŵakunjira na kutora charu cha layizgo.",
+    "events": [
+     "Yorodani ukugaŵikana ndipo ŵanthu ŵakwambuka",
+     "Mipanda ya Yeriko yikuwa",
+     "Kutora Kenani na kugaŵana charu"
+    ]
+   },
+   "shiloh": {
+    "name": "Shilo (Ŵeruzgi)",
+    "book": "Ŵeruzgi · Rutu",
+    "today": "Khirbet Seilun mazuŵa ghano",
+    "note": "Kwambura karonga, waliyose wakuchita umo wakukhumbira — karonga wanadi wakukhumbikwa.",
+    "events": [
+     "Chihema chikimikika ku Shilo",
+     "Mzunguluko wa kwananga–kuyuzgika–kuponoska (Debora, Gidiyoni, Samusoni)",
+     "Rutu — kugomezgeka mu mazuŵa gha mdima, mu mphapu ya Davide"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu · Ufumu Wakukolerana",
+    "book": "1–2 Samuele · 1 Karonga",
+    "today": "Yerusalemu mazuŵa ghano",
+    "note": "Nyengo yiweme chomene ya Israele — na layizgo la karonga wambura kumara.",
+    "events": [
+     "Sauli karonga wakwamba, kufika Davide na Goliyati",
+     "Phangano la Davide — “chizumbe chako muyirayira” (2 Samuele 7)",
+     "Solomoni wakuzenga tempile mu Yerusalemu"
+    ]
+   },
+   "samaria": {
+    "name": "Samariya · Ufumu Wakugaŵikana",
+    "book": "Makaronga · Nchimi",
+    "today": "Sebastiya mazuŵa ghano",
+    "note": "Ufumu ukugaŵikana na kunanga apo nchimi zikulira.",
+    "events": [
+     "Pamanyuma pa Solomoni, kugaŵikana mu Yuda na Israele",
+     "Kusopa vikozgo kwakuwerezgeka",
+     "Eliya, Yesaya, Yeremiya ŵakulira ‘welani’ — na kuyowoyera Mesiya"
+    ]
+   },
+   "nineveh": {
+    "name": "Nineve (Asiriya)",
+    "book": "2 Karonga 17 · Yona",
+    "today": "Mosulu, Iraki mazuŵa ghano",
+    "note": "Mwakusuzga cenjezgo lililose, kumpoto kukuwa kudankha.",
+    "events": [
+     "Nineve, likuru la Asiriya",
+     "Ufumu wa kumpoto ukuwira ku Asiriya (722 BC)",
+     "Yona wakutumika ku Nineve"
+    ]
+   },
+   "babylon": {
+    "name": "Babuloni",
+    "book": "2 Karonga 25 · Danyeli · Ezekiyeli",
+    "today": "Hila, Iraki mazuŵa ghano",
+    "note": "Usiku wamdima chomene — kweni layizgo la kuwezgeka likukhalilira.",
+    "events": [
+     "Yerusalemu ukuwa, tempile likotcheka (586 BC)",
+     "Yuda wakutolekera ku Babuloni",
+     "Danyeli na Ezekiyeli — chipulikano na mawoneskero mu wuzga"
+    ]
+   },
+   "susa": {
+    "name": "Susa (Peresiya)",
+    "book": "Esitere · Nehemiya",
+    "today": "Shushi, Irani mazuŵa ghano",
+    "note": "Nanga ni pa mtima wa ufumu wa ŵamitundu, Chiuta wakusunga ŵanthu ŵake.",
+    "events": [
+     "Peresiya ikuwiska Babuloni",
+     "Esitere wakuponoska ŵaYuda ku kunangika",
+     "Nehemiya wakulomba panthazi pa karonga ndipo wakatumika"
+    ]
+   },
+   "return": {
+    "name": "Kuwelera ku Yerusalemu",
+    "book": "Ezira · Nehemiya · Malaki",
+    "today": "Yerusalemu mazuŵa ghano",
+    "note": "Ŵakuwelera na kuzengaso — kweni kulije karonga uyo wiza. Ŵakulindilira Mesiya.",
+    "events": [
+     "Mawundo ghatatu gha kuwelera na chiphalizgo cha Koresi (Zerubabeli 538 · Ezira 458 · Nehemiya 444)",
+     "Tempile likazengekaso na mipanda ya Yerusalemu yikawezgekaso",
+     "Malaki — Testamente Lakale likumara: “Nditi nditume thenga lane”"
+    ]
+   }
+  },
+  "labels": [
+   "Nyanja Yikuru",
+   "Mesopotamiya",
+   "Mapopa gha Arabiya",
+   "Eguputo"
+  ],
+  "journeys": {
+   "flow": "Nkhani ya chiponosko"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betelehemu",
+    "book": "Mateyu 1–2 · Luka 2",
+    "today": "Betelehemu mazuŵa ghano",
+    "note": "Mesiya wakulayizgika wakwiza ku msumba wa Davide — Mazgu ghakuzgoka munthu.",
+    "events": [
+     "Wakababika mu Betelehemu, msumba wa Davide",
+     "Ŵangelo ŵakupharazgira ŵaliska nkhani",
+     "Ŵanjeru ŵa kumafumiro gha dazi ŵakwiza kusopa"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazarete",
+    "book": "Luka 2 · 4",
+    "today": "Nazarete mazuŵa ghano",
+    "note": "Chiuta wakukura nga munthu mu msumba wanyawaka.",
+    "events": [
+     "Wakalereka mu nyumba ya mukalipentara",
+     "Pa vyaka khumi na viŵiri, kufumba na kuzgora mu tempile",
+     "Panyuma wakukanika mu sunagoge ya kukwawo"
+    ]
+   },
+   "jordan": {
+    "name": "Mronga wa Yorodani",
+    "book": "Mateyu 3–4",
+    "today": "kunsi kwa Yorodani mazuŵa ghano",
+    "note": "Uteŵeti wake wapakweru ukwamba — kuchanya kukumusindikizga kuŵa Mwana.",
+    "events": [
+     "Wakubatizika na Yohane",
+     "Mzimu ukukhilira nga nkhunda — “Uyu ni Mwana wane wakutemweka”",
+     "Wakutonda mayezgo ghatatu gha Satana mu mapopa"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yohane 2",
+    "today": "Kafr Kanna mazuŵa ghano",
+    "note": "Mu chimanyikwiro chake chakwamba wakuvumbura uchindami wake.",
+    "events": [
+     "Mulendo pa nthengwa",
+     "Maji ghakuzgoka vinyo — chimanyikwiro chake chakwamba",
+     "Ŵasambiri ŵake ŵakumugomezga"
+    ]
+   },
+   "sychar": {
+    "name": "Sukare (Samariya)",
+    "book": "Yohane 2–4",
+    "today": "pafupi na Nabulusi mazuŵa ghano",
+    "note": "Nthowa ya uteŵeti wakwamba — kwizira mu Yerusalemu kufika ku Samariya yakuyuyulika.",
+    "events": [
+     "Wakutozga tempile mu Yerusalemu",
+     "Usiku, Nikodemo — “Ukwenera kubabika kaŵiri”",
+     "Maji gha umoyo kwa mwanakazi Musamariya"
+    ]
+   },
+   "capernaum": {
+    "name": "Kaperenaumu",
+    "book": "Mateyu 4–13 · Mariko 1–4",
+    "today": "mumphepete mwa nyanja ya Galileya mazuŵa ghano",
+    "note": "Malo ghakukhala gha uteŵeti wa mu Galileya — kuchema, kusambizga, na kususkika vyose vikukumana apa.",
+    "events": [
+     "Wakuchema ŵalovi na kukhazikika apa",
+     "Upharazgi wa pa Phiri — “Mbakutumbikika ŵakavu mu mzimu”",
+     "Ntharika za ufumu — na kususkika kukukura"
+    ]
+   },
+   "galilee": {
+    "name": "Nyanja ya Galileya",
+    "book": "Mariko 4 · 6 · Yohane 6",
+    "today": "Nyanja ya Kinereti mazuŵa ghano",
+    "note": "Na nkhongono pa vyalengiwa wakulongora kuti ni njani.",
+    "events": [
+     "“Khala chete, tondeka” — wakukhazika chimphepo",
+     "Wakulyeska ŵanthu 5,000 na vingwa vinkhondi na somba ziŵiri",
+     "Wakwenda pa maji"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kesareya-Filipi",
+    "book": "Mateyu 16–17",
+    "today": "Baniyasi mazuŵa ghano",
+    "note": "Ŵasambiri ŵakupulikiska kuti iyo ni Khristu, ndipo nthowa ya mphinjika yikujuka.",
+    "events": [
+     "Kuzomera kwa Petrosi — “Imwe ndimwe Khristu, Mwana wa Chiuta wamoyo”",
+     "Wakwamba kuyowoyerathu nyifwa na kuwuka kwake",
+     "Wakusandulika mu uchindami pa phiri"
+    ]
+   },
+   "jericho": {
+    "name": "Yeriko",
+    "book": "Luka 18–19",
+    "today": "Yeriko mazuŵa ghano",
+    "note": "Pa nthowa yakukwelera ku Yerusalemu, wakupenja ŵakuzgeŵa.",
+    "events": [
+     "Wakupa masono kwa Baritimeyo wachibulumutira",
+     "Wakuchema Zakeyo mtoleska msonkho",
+     "“Mwana wa Munthu wakiza kupenja na kuponoska ŵakuzgeŵa”"
+    ]
+   },
+   "bethany": {
+    "name": "Betaniya",
+    "book": "Yohane 11–12",
+    "today": "al-Eizariya mazuŵa ghano",
+    "note": "Wakulongora nkhongono pa nyifwa pa mphepete pa sabata yake yaumaliro.",
+    "events": [
+     "Wakuwuska Lazaro ku dindi — “Ine ndine kuwuka na umoyo”",
+     "Mariya wakumuphaka mafuta kunozgekera kusungika kwake",
+     "Chimanyikwiro ichi chikukhozga mphangano ya kumukoma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu",
+    "book": "Mateyu 21–28 · Luka 24 · Milimo 1",
+    "today": "Yerusalemu mazuŵa ghano",
+    "note": "Chigema icho Baibolo lose likulongora — mphinjika, kuwuka, kukwera kuchanya.",
+    "events": [
+     "Kunjira mwauchindami; wakubindulika matebulo gha mu tempile kaŵiri",
+     "Pa Mugongo Wakumaliro wakugeza malundi gha ŵasambiri",
+     "Wakufwa pa mphinjika",
+     "Wakuwuka pa zuŵa la chitatu, ndipo wakukwera kuchanya"
+    ]
+   }
+  },
+  "labels": [
+   "Nyanja Yikuru",
+   "Galileya",
+   "Samariya",
+   "Yudeya",
+   "Dekapoli",
+   "Pereya",
+   "Nyanja Yakufwa"
+  ],
+  "journeys": {
+   "life": "Nthowa ya Yesu"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiyoke",
+    "book": "Milimo 13 · 15",
+    "today": "Antakya, Turkiye mazuŵa ghano",
+    "note": "Mpingo wakutuma uko uteŵeti ku ŵamitundu ukwamba na kuwelera.",
+    "events": [
+     "Mu lurombo Mzimu ukupatula Baranaba na Sauli",
+     "Mpingo uko ŵakugomezga ŵakachemeka dankha ‘Ŵakhristu’",
+     "Malo ghakwambira maulendo ghakwamba, ghachiŵiri na ghachitatu"
+    ]
+   },
+   "seleucia": {
+    "name": "Selukiya",
+    "book": "Milimo 13:4",
+    "today": "Turkiye mazuŵa ghano",
+    "note": "Dowoko la Antiyoke — ŵakukwera ngalaŵa kuya ku Kipuro.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salami (Kipuro)",
+    "book": "Milimo 13:5",
+    "today": "Kipuro mazuŵa ghano",
+    "note": "Malo ghakwamba pa Kipuro — kupharazga mu masunagoge.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Pafosi",
+    "book": "Milimo 13:6-12",
+    "today": "Kipuro mazuŵa ghano",
+    "note": "Nkhongono yikulongoreka pa awo ŵakususka uthenga uweme.",
+    "events": [
+     "Elima musenga wakutimbika kuŵa wachibulumutira",
+     "Serigiyo Paulo kazembe wakugomezga",
+     "Kufuma apa ‘Paulo’ wakulongozga"
+    ]
+   },
+   "perga": {
+    "name": "Perega",
+    "book": "Milimo 13:13",
+    "today": "Antaliya, Turkiye mazuŵa ghano",
+    "note": "Dowoko la mu Pamfiliya — apa Yohane Mariko wakuwelako.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiyoke wa Pisidiya",
+    "book": "Milimo 13:14-50",
+    "today": "Yalivachi, Turkiye mazuŵa ghano",
+    "note": "Uthenga uweme ukujulikira ku ŵamitundu.",
+    "events": [
+     "Upharazgi utali wa mbiri ya chiponosko mu sunagoge",
+     "Ŵamitundu ŵanandi ŵakukondwa na kupokera mazgu",
+     "Ŵakuchimbizgika na ŵakususka"
+    ]
+   },
+   "iconium": {
+    "name": "Ikoniya",
+    "book": "Milimo 14:1-7",
+    "today": "Koniya, Turkiye mazuŵa ghano",
+    "note": "Ŵanandi ŵakugomezga, kweni kutambuzgika kukuŵachimbizga.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Lisitira",
+    "book": "Milimo 14:8-20",
+    "today": "Turkiye mazuŵa ghano",
+    "note": "Ŵakumuchindika nga chiuta, kufika kumudinya na malibwe.",
+    "events": [
+     "Wakuchizga munthu wakupendera kufuma ku kubabika",
+     "Wumba ukuyezga kuŵapeleka sembe nga ni ŵachiuta",
+     "Ŵakumudinya na malibwe na kumuleka nga wafwa, kweni wakuwuka"
+    ]
+   },
+   "derbe": {
+    "name": "Derebe",
+    "book": "Milimo 14:20-21",
+    "today": "Turkiye mazuŵa ghano",
+    "note": "Ŵasambiri ŵanandi ŵakupangika; ŵakuwelera kukhozga mipingo.",
+    "events": []
+   },
+   "troas": {
+    "name": "Turowa",
+    "book": "Milimo 16:8-10",
+    "today": "Turkiye mazuŵa ghano",
+    "note": "Malo ghakusinthira apo uthenga uweme ukwamba kunanga ku Yuropa.",
+    "events": [
+     "Mawoneskero gha munthu wa ku Makedoniya",
+     "“Zani ku Makedoniya, mutovwire”",
+     "Ŵakwambuka nyengo yeneyiyo kuya ku Yuropa"
+    ]
+   },
+   "philippi": {
+    "name": "Filipi",
+    "book": "Milimo 16 · ŴaFilipi",
+    "today": "kumpoto kwa Girisi mazuŵa ghano",
+    "note": "Mpingo wakwamba wa ku Yuropa — uthenga uweme ukutonda nanga ni mu jele.",
+    "events": [
+     "Lidiya, wakuguliska salu zaswesi, wakugomezga",
+     "Msungwana muzga wakuwukwa wakufwatulika",
+     "Sumu za pakati pa usiku, chindindindi, mbumba ya mulinda wa jele yikuponoskeka"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Milimo 17 · 1–2 ŴaTesalonika",
+    "today": "Tesaloniki, Girisi mazuŵa ghano",
+    "note": "Mazgu ghakusunkhunya msumba ndipo kususkika kukukwera.",
+    "events": [
+     "Wakususkana mu sunagoge maSabata ghatatu",
+     "“Aŵa ŵakupindula charu chose”",
+     "Ŵakufumako usiku"
+    ]
+   },
+   "berea": {
+    "name": "Bereya",
+    "book": "Milimo 17:10-15",
+    "today": "Veriya, Girisi mazuŵa ghano",
+    "note": "Awo ‘ŵachindami’ ŵakasanda mazgu ŵekha.",
+    "events": [
+     "Ŵakupokera mazgu na mtima wose",
+     "Zuŵa lililose ŵakusanda Malembo kuti ŵawone usange nadi",
+     "Ŵanandi ŵakugomezga"
+    ]
+   },
+   "athens": {
+    "name": "Ateni",
+    "book": "Milimo 17:16-34",
+    "today": "Ateni, Girisi mazuŵa ghano",
+    "note": "Mu msumba wa ŵanjeru wakupharazga ‘chiuta wambura kumanyikwa’.",
+    "events": [
+     "Wakukwiyiskika na msumba wakuzura na vikozgo",
+     "Pa Areyopaga wakupharazga Mulengi na kuwuka",
+     "Ŵakumuseka, kweni ŵachoko ŵakugomezga"
+    ]
+   },
+   "corinth": {
+    "name": "Korinte",
+    "book": "Milimo 18 · 1–2 ŴaKorinte",
+    "today": "Girisi mazuŵa ghano",
+    "note": "Wakukhala chaka na hafu, wakupanda mpingo mu msumba wa uheni.",
+    "events": [
+     "Wakupanga mahema na Akwila na Prisila",
+     "“Ungawopanga chara… pakuti ndili nawe”",
+     "ŴaKorinte ŵanandi ŵakugomezga na kubatizika"
+    ]
+   },
+   "ephesus": {
+    "name": "Efeso",
+    "book": "Milimo 19 · Ŵaefeso",
+    "today": "Selchuki, Turkiye mazuŵa ghano",
+    "note": "Mtima wa ulendo wachitatu — mazgu ghakwandana mu Asiya.",
+    "events": [
+     "Kusambizga zuŵa lililose kwa vyaka viŵiri mu nyumba ya Turano",
+     "Mabuku gha usenga ghakotcheka; milimo yankhongono",
+     "Demetiri musuli wa siliva wakwambiska chiwawa"
+    ]
+   },
+   "miletus": {
+    "name": "Mileto",
+    "book": "Milimo 20:17-38",
+    "today": "Turkiye mazuŵa ghano",
+    "note": "Kulayilana kwa masozi na ŵalara ŵa ku Efeso.",
+    "events": [
+     "“Liskani mpingo uwo wakagura na ndopa zake”",
+     "Ŵalara ŵakulira, ŵakumanya kuti ŵamuwonaso chara"
+    ]
+   },
+   "caesarea": {
+    "name": "Kesareya",
+    "book": "Milimo 23–26",
+    "today": "mumphepete mwa nyanja ya Israeli mazuŵa ghano",
+    "note": "Kwa vyaka viŵiri wakuvikilira uthenga uweme panthazi pa ŵakazembe na karonga.",
+    "events": [
+     "Milandu panthazi pa ŵakazembe Felikisi na Festo",
+     "Kujivikilira kwake panthazi pa Karonga Agiripa",
+     "“Nkhuŵeya kwa Kesare” — kuya ku Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalemu",
+    "book": "Milimo 21–23",
+    "today": "Yerusalemu mazuŵa ghano",
+    "note": "Wakukorika mu tempile, nthowa yake nga mukaidi yikwamba.",
+    "events": [
+     "Wakukorika na wumba mu tempile",
+     "Wakujivikilira panthazi pa khoti",
+     "Nga mwenekaya wa Roma, wakutumika mwakulindika ku Kesareya"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Milimo 27:5-6",
+    "today": "Demire, Turkiye mazuŵa ghano",
+    "note": "Ŵakukwelera mu ngalaŵa ya ku Alekizandiriya yakuya ku Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Madowoko Ghaweme (Kerete)",
+    "book": "Milimo 27:8-12",
+    "today": "Kerete mazuŵa ghano",
+    "note": "Cenjezgo la Paulo la kuleka kwenda pa nyanja likupulikika chara.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kerete",
+    "book": "Tito",
+    "today": "Kerete mazuŵa ghano",
+    "note": "Pamanyuma pa kufwatulika kwake, chilumba icho wakusida Tito kunozga mipingo.",
+    "events": [
+     "Wakusida Tito kwimika ŵalara mu msumba uliwose",
+     "Wakukhumba ŵalongozgi ŵambura kanyoŵo, ŵakugomezgeka",
+     "Wakulemba kalata kwa Tito"
+    ]
+   },
+   "malta": {
+    "name": "Melita",
+    "book": "Milimo 27–28",
+    "today": "Malta mazuŵa ghano",
+    "note": "Kwizira mu chimphepo na kuswekeka kwa ngalaŵa, layizgo la Chiuta likukhalilira.",
+    "events": [
+     "Chimphepo cha ‘kumpoto-kumafumiro’ chikuswenya ngalaŵa, kweni wose 276 ŵakupona",
+     "Wakulumika na njoka, kweni wakupwetekeka chara",
+     "Wakuchizga ŵalwari ŵa pa chilumba"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusi",
+    "book": "Milimo 28:12",
+    "today": "Sisili, Italiya mazuŵa ghano",
+    "note": "Ŵakukhala mazuŵa ghatatu mu Sisili.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteyoli",
+    "book": "Milimo 28:13-14",
+    "today": "Pozuoli, Italiya mazuŵa ghano",
+    "note": "Ŵakufika ku Italiya ndipo ŵakukumana na ŵabali ŵakugomezga.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Milimo 28 · Makalata gha mu Jele · 2 Timote",
+    "today": "Roma, Italiya mazuŵa ghano",
+    "note": "Uthenga uweme ukufika ku mtima wa ufumu paumaliro — kuti ni umaliro chara kweni ni mutendeko.",
+    "events": [
+     "Vyaka viŵiri mu ukaidi wa panyumba, wakupharazga ufumu mwachikanga",
+     "Kufuma apa wakulemba Makalata gha mu Jele (Ŵaefeso·ŴaFilipi·Ŵakolose·Filemoni)",
+     "Panyuma wakukakika kaŵiri, wakulemba 2 Timote ndipo wakukomeka chifukwa cha chipulikano — “Nkhalwa nkhondo yiweme, nkhamaliska lweru”"
+    ]
+   }
+  },
+  "labels": [
+   "Nyanja Yikuru",
+   "Nyanja ya Egeya",
+   "Asiya Yichoko",
+   "Makedoniya",
+   "Italiya"
+  ],
+  "journeys": {
+   "j1": "Ulendo wakwamba",
+   "j2": "Ulendo wachiŵiri",
+   "j3": "Ulendo wachitatu",
+   "rome": "Ulendo wachinayi · ku Roma",
+   "j5": "Ulendo wachinkhondi · pamanyuma pa kufwatulika"
+  }
+ }
+}

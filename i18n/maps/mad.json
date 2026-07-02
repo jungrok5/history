@@ -1,0 +1,636 @@
+{
+ "menuName": "Basa Madhura",
+ "htmlLang": "mad",
+ "dir": "ltr",
+ "locale": "mad",
+ "brand": "Alketab e Dhalem Settong Gulungan",
+ "docTitle": "Alketab kalaban Peta · Alketab e Dhalem Settong Gulungan",
+ "metaDesc": "Toro' garis bakto Parjanjiyan Lambe', odhi'na Isa, ban parjalananna Paulus e attassa peta se onggu — Alketab kadaddiyan e kennengngan se onggu badha.",
+ "s": {
+  "kicker": "Alketab e Dhalem Settong Gulungan · Peta",
+  "title": "Alketab kalaban Peta",
+  "verse": "“E bakto kaula malae ka sampeyan saponapa kamolja'anna parabuna Guste Isa Almasih se bakal dhateng, kaula sadaja ta' adhasar ka ngeng-dungngeng gabayanna manossa. Kaula sadaja ampon nengale dibi' kamolja'anna Almasih paneka.” (2 Petrus 1:16)",
+  "purpose": "Alketab banne mitos. Paneka catetan parkara reng-oreng se ajalan e kennengngan, tanggal, ban nyama se onggu badha. Toro' jalan jareya e attassa peta, menorot orotan bakto — keddu' settong titik, otaba keddu' ▶ kaangguy ajalan settong-settong.",
+  "ot_kick": "① Parjanjiyan Lambe' — e saantero bakto",
+  "ot_h": "Dhari penyepta'an sampe' mole ka Yerusalim",
+  "ot_lead": "Banne settong parjalanan bai, tape alor sajara panyalamet molae dhari penyepta'an: penyepta'an ban aragana manossa → banjir ban Babel → panyaowan (Ibrahim) → nagara janji → kalowar dhari Messer → ara-ara → ngalla' tana → karaja'an → apesa → pambuwangan → mole.",
+  "je_kick": "② Parjanjiyan Anyar — odhi'na Isa",
+  "je_h": "Dhari Betlehem sampe' Yerusalim",
+  "je_lead": "Toro' odhi'na Isa akadi se ecareta'agi Injil, noro' orotan — molae dhari kalaherranna e Betlehem lebat baptisan ban palajaran e Galilea, alengka Samaria, sampe' ka salib, odhi' pole, ban ongga ka sowarga e Yerusalim.",
+  "pa_kick": "③ Parjanjiyan Anyar — parjalananna Paulus",
+  "pa_h": "Dhari Antiokia sampe' konco'na bume — Roma",
+  "pa_lead": "Molae dhari Pentakosta e Yerusalim, kadi ponapa kabar bagus alebar ngalebbing Yudea — lebat Asia Kene' ban Eropa sampe' ka tengnga'na karaja'an. Pele settong dhari lema' parjalanan (kapeng 1·2·3 + parjalanan ka Roma + saellana epabebas) ban toro' kadaddiyan Caretana Para Rasul kalaban sorat-sorat se etoles e jalan.",
+  "foot": "Sombber · Kennengngan-kennengngan noro' teks Alketab ban geografi Alketab se baku (kalaban nyama modheren mon abantu). Penggir tasek, songay, ban talaga egambar dhari data geografi se abukka' (Natural Earth), epasaderhana.",
+  "contact": "Patanya'an · masokan — <a id=\"contact\" class=\"mail\">Kerem email</a>",
+  "play": "Poter",
+  "pause": "Ambu",
+  "today": "Sateya:",
+  "verseCite": "2 Petrus 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Eden (Penyepta'an · Aragana Manossa)",
+    "book": "Kadaddiyan 1–3",
+    "today": "wilayah Tigris–Euprat sateya",
+    "note": "Ka dhalem dunnya se egabay ce' bagusna, dusa maso' ban mega' hubungan antara Allah ban manossa.",
+    "events": [
+     "Penyepta'an nem are — “ce' bagusna”",
+     "Manossa egabay menorot tang-bayanganna Allah",
+     "Aragana manossa, ban eojuk dhari Eden",
+     "Janji kabar bagus se kapeng settong — “toronanna babine' bakal meccet cethagga olar”"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Banjir)",
+    "book": "Kadaddiyan 6–9",
+    "today": "Gunong Ararat, Turki temor sateya",
+    "note": "Allah ngokom dunnya se possa' dusa, tape ajaga odhi' lebat settong kalowarga.",
+    "events": [
+     "Dunnya se possa' karusakan",
+     "Banjir, ban parao Nuh",
+     "Parjanjiyan pelangi — “ta' kera badha banjir pole se maancor dunnya”"
+    ]
+   },
+   "babel": {
+    "name": "Manara Babel",
+    "book": "Kadaddiyan 11",
+    "today": "Irak sateya (tana Sinar)",
+    "note": "Ka adha'na kaangko'an se terro nyapa'a langnge', Allah macampor basana ban nyebbar bangsa-bangsa ka saantero bume.",
+    "events": [
+     "“Mara maddek kotta ban manara… sopaja kaula sadaja kasohor”",
+     "Allah macampor basana",
+     "Bangsa-bangsa nyebbar ka saantero bume (Sinar — dha'-budhina Babil)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Kadaddiyan 12",
+    "today": "Irak lao' sateya",
+    "note": "Careta panyalameddha Alketab molae dhari panyaowanna settong oreng.",
+    "events": [
+     "Allah nyaowe Abram kalowar dhari Ur-Kasdim",
+     "“Ba'na bakal daddiya bangsa raja… sakabbinna bangsa eberkadi lebat ba'na”",
+     "Kalaban iman aba'na adina'agi nagarana"
+    ]
+   },
+   "haran": {
+    "name": "Haran",
+    "book": "Kadaddiyan 12",
+    "today": "Turki lao' sateya",
+    "note": "E dhalem parjalanan, nyaot panyaowan tojju ka nagara janji.",
+    "events": [
+     "Kalowargana Terah ngennenge e Haran",
+     "Terah mate",
+     "Abram mangkat ka Kanaan e omor 75 taon"
+    ]
+   },
+   "shechem": {
+    "name": "Sikhem · Kanaan",
+    "book": "Kadaddiyan 12–50",
+    "today": "Nablus sateya",
+    "note": "E nagara janji settong kalowarga epaddek ban parjanjiyan etarrosagi turun-tamurun.",
+    "events": [
+     "Maso' Kanaan, mezba se kapeng settong — “ka toronanna ba'na Sengko' berri' tana reya”",
+     "Parjanjiyan (Kad 15) · Ishak · Yakub",
+     "Dhubellas ana'na Yakub — soko' dhubellas suku"
+    ]
+   },
+   "egypt": {
+    "name": "Messer (Gosen)",
+    "book": "Kadaddiyan 37–50 · Kalowaran 1",
+    "today": "Delta Nil, Messer sateya",
+    "note": "Settong kalowarga daddi bangsa raja — pas daddi bangsa dunor.",
+    "events": [
+     "Yusup, se ejuwal, epatenggi marenta Messer",
+     "Sakabbinna kalowargana Yakub toron kaangguy lopot dhari kalaparan",
+     "Bangsa Isra'il se sajan bannya' epadaddi dunor"
+    ]
+   },
+   "sinai": {
+    "name": "Gunong Sinai",
+    "book": "Kalowaran · Imamat",
+    "today": "Tanjung Sinai sateya",
+    "note": "Panyalamet se paleng tengnga e Parjanjiyan Lambe' — dunor daddi bangsana Allah dibi'.",
+    "events": [
+     "Sapolo balai ban budhu' Paska",
+     "Tasek Mera apesa ban reng-oreng alengka",
+     "Sapolo Hokom, Toret, kemah pasocce'an, ban kurban-kurban"
+    ]
+   },
+   "kadesh": {
+    "name": "Kadesh (ara-ara)",
+    "book": "Bilangan · Ulangan",
+    "today": "ara-ara Sinai–Negeb sateya",
+    "note": "Ta' parcaja madaddi settong angkadan kaelangan tana jareya — tape Allah paggun asareng reng-oreng.",
+    "events": [
+     "Dhubellas mata-mata — tape reng-oreng ta' endha' parcaja",
+     "38 taon e ara-ara — manna, gilingan ondhem ban apoy",
+     "E dhataran Moab, kotbah dha'-budhina Mosa (Ulangan)"
+    ]
+   },
+   "jericho": {
+    "name": "Yerikho",
+    "book": "Yusak",
+    "today": "Yerikho sateya",
+    "note": "Dha'-budhina reng-oreng maso' ban ngalla' nagara janji.",
+    "events": [
+     "Songay Yordan apesa ban reng-oreng nyabrang",
+     "Geddhung Yerikho robbu",
+     "Ngalla' Kanaan ban magi tana"
+    ]
+   },
+   "shiloh": {
+    "name": "Silo (Kim-hakim)",
+    "book": "Kim-hakim · Rut",
+    "today": "Khirbet Seilun sateya",
+    "note": "Tadha' rato, saka' oreng ngalakone apa karebbanna — parlo rato se saongguna.",
+    "events": [
+     "Kemah pasocce'an epaddek e Silo",
+     "Sikkellan dusa–katendhessan–panyalamet (Debora, Gidiyon, Simson)",
+     "Rut — kasetiya'an e jaman se petteng, e garis toronanna Daud"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalim · Karaja'an Settong",
+    "book": "1–2 Samuwel · 1 To-rato",
+    "today": "Yerusalim sateya",
+    "note": "Jaman masa Isra'il — ban janji rato se langgeng.",
+    "events": [
+     "Saul rato se kapeng settong, pas Daud ban Goliyat",
+     "Parjanjiyan ka Daud — “tahtana ba'na salanjangnga” (2 Sam 7)",
+     "Sulaiman maddek padalemman socce e Yerusalim"
+    ]
+   },
+   "samaria": {
+    "name": "Samaria · Karaja'an se Apesa",
+    "book": "To-rato · Para Nabbi",
+    "today": "Sebastia sateya",
+    "note": "Karaja'an apesa ban toron sabatara para nabbi aerrak.",
+    "events": [
+     "Saellana Sulaiman, apesa daddi Yehuda ban Isra'il",
+     "Panyemba'an brahala se li-baliyan",
+     "Eliya, Yesaya, Yermiya aerrak ‘mole’ — ban anebba'agi Almasih"
+    ]
+   },
+   "nineveh": {
+    "name": "Niniwe (Asyur)",
+    "book": "2 To-rato 17 · Yunus",
+    "today": "Mosul, Irak sateya",
+    "note": "Ngenneng saka' parengeddan, karaja'an dhaja robbu gallu.",
+    "events": [
+     "Niniwe, kotta rajana Asyur",
+     "Karaja'an dhaja robbu ka Asyur (722 SM)",
+     "Yunus eotos ka Niniwe"
+    ]
+   },
+   "babylon": {
+    "name": "Babil",
+    "book": "2 To-rato 25 · Daniyel · Yehezkiyel",
+    "today": "Hillah, Irak sateya",
+    "note": "Malem se paleng petteng — tape janji papole gi' badha.",
+    "events": [
+     "Yerusalim robbu, padalemman socce kobbar (586 SM)",
+     "Yehuda eangko' ka Babil",
+     "Daniyel ban Yehezkiyel — iman ban pangaton e pambuwangan"
+    ]
+   },
+   "susa": {
+    "name": "Susan (Persia)",
+    "book": "Ester · Nehemiya",
+    "today": "Shush, Iran sateya",
+    "note": "Maske e tengnga'na karaja'an kapir, Allah ajaga bangsana.",
+    "events": [
+     "Persia makala Babil",
+     "Ester masalamet oreng Yahudi dhari karancakan",
+     "Nehemiya adu'a e adha'na rato ban eotos"
+    ]
+   },
+   "return": {
+    "name": "Mole ka Yerusalim",
+    "book": "Ezra · Nehemiya · Maleyaki",
+    "today": "Yerusalim sateya",
+    "note": "Reng-oreng mole ban maddek pole — tape tadha' rato se dhateng. Reng-oreng anante' Almasih.",
+    "events": [
+     "Tello galumbang papole lantaran parentana Kores (Zerubabel 538 · Ezra 458 · Nehemiya 444)",
+     "Padalemman socce epaddek pole ban geddhung Yerusalim epapole",
+     "Maleyaki — Parjanjiyan Lambe' notop: “Sengko' ngerema otosan”"
+    ]
+   }
+  },
+  "labels": [
+   "Tasek Tengnga",
+   "Mesopotamia",
+   "Ara-ara Arab",
+   "Messer"
+  ],
+  "journeys": {
+   "flow": "Careta panyalamet"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Betlehem",
+    "book": "Mateus 1–2 · Lukas 2",
+    "today": "Betlehem sateya",
+    "note": "Almasih se ejanji rabu ka kottana Daud — Dhabu se daddi manossa.",
+    "events": [
+     "Lahir e Betlehem, kottana Daud",
+     "Kat-malaekat aberta'agi kabar ka reng-oreng ngowan dumba",
+     "Reng-oreng Majus dhateng nyemba"
+    ]
+   },
+   "nazareth": {
+    "name": "Nazaret",
+    "book": "Lukas 2 · 4",
+    "today": "Nazaret sateya",
+    "note": "Allah araja daddi manossa e settong kotta se biyasa.",
+    "events": [
+     "Epeyara e bengkona tokang kaju",
+     "E omor dhubellas taon, atanya ban nyaot e padalemman socce",
+     "Dha'-budhina etolak e sinagoga kampongnga dibi'"
+    ]
+   },
+   "jordan": {
+    "name": "Songay Yordan",
+    "book": "Mateus 3–4",
+    "today": "Yordan baba sateya",
+    "note": "Palajaranna e adha'na oreng bannya' molae — sowarga noduwagi Salerana menangka Pottra.",
+    "events": [
+     "Ebaptis bi' Yahya",
+     "Erroh toron akadi dara — “Reya Pottrana Sengko' se ekaase'e”",
+     "Makala tello coba'anna Setan e ara-ara"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yahya 2",
+    "today": "Kafr Kanna sateya",
+    "note": "E tanda se kapeng settong Salerana noduwagi kaagunganna.",
+    "events": [
+     "Daddi tamoy e settong pesta kabinan",
+     "Aeng eoba daddi anggur — tanda se kapeng settong",
+     "Red-moredda parcaja ka Salerana"
+    ]
+   },
+   "sychar": {
+    "name": "Sikhar (Samaria)",
+    "book": "Yahya 2–4",
+    "today": "semma' Nablus sateya",
+    "note": "Jalan palajaran se dhimin — lebat Yerusalim ban terros ka Samaria se eanggep enna.",
+    "events": [
+     "Salerana maberse padalemman socce e Yerusalim",
+     "E baktona malem, Nikodemus — “Ba'na kodu elahirragi pole”",
+     "Aeng odhi' kaangguy settong babine' Samaria"
+    ]
+   },
+   "capernaum": {
+    "name": "Kapernaum",
+    "book": "Mateus 4–13 · Markus 1–4",
+    "today": "penggirra Tasek Galilea sateya",
+    "note": "Pangkalan palajaran e Galilea — panyaowan, pangajaran, ban panolakan kabbi tapanggi e dinna'.",
+    "events": [
+     "Nyaowe reng-oreng majala ban madaddi dinna' pangkalanna",
+     "Kotbah e Gunong — “Bagja oreng se mesken e adha'na Allah”",
+     "Parompama'an parkara karaja'an — ban panolakan se sajan kowat"
+    ]
+   },
+   "galilee": {
+    "name": "Tasek Galilea",
+    "book": "Markus 4 · 6 · Yahya 6",
+    "today": "Tasek Kineret sateya",
+    "note": "Kalaban kobasa ka alam Salerana noduwagi sapa Salerana.",
+    "events": [
+     "“Anneng, ambu!” — Salerana maanneng angen raja",
+     "Aberri' ngakan 5.000 oreng kalaban lema' roti ban dhu' juko'",
+     "Ajalan e attassa aeng"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Kaisarea Pilipi",
+    "book": "Mateus 16–17",
+    "today": "Banias sateya",
+    "note": "Red-mored ngarte ja' Salerana Almasih, ban jalanna salib mokka'.",
+    "events": [
+     "Pangakowanna Petrus — “Junandhalem Almasih, Pottrana Allah se odhi'”",
+     "Kapeng settong Salerana anebba'agi sedana ban odhi' polena",
+     "Aoba rupa kalaban kaagungan e gunong"
+    ]
+   },
+   "jericho": {
+    "name": "Yerikho",
+    "book": "Lukas 18–19",
+    "today": "Yerikho sateya",
+    "note": "E jalan ongga ka Yerusalim, Salerana nyare se elang.",
+    "events": [
+     "Salerana mabaras matana Bartimeus se buta",
+     "Salerana nyaowe Zakheus tokang narek pajek",
+     "“Pottrana Manossa rabu nyare ban masalamet se elang”"
+    ]
+   },
+   "bethany": {
+    "name": "Betania",
+    "book": "Yahya 11–12",
+    "today": "al-Eizariya sateya",
+    "note": "Salerana noduwagi kobasa ka pate sabellunna minggu dha'-budhina.",
+    "events": [
+     "Salerana maodhi' pole Lazarus dhari koburan — “Sengko' reya odhi' pole sarta odhi'”",
+     "Maria masapo minynya' ka Salerana kaangguy pangoburan",
+     "Tanda paneka sajan makowat rancana kaangguy mate'e Salerana"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalim",
+    "book": "Mateus 21–28 · Lukas 24 · Caretana Para Rasul 1",
+    "today": "Yerusalim sateya",
+    "note": "Pucca' se etojju sakabbinna Alketab — salib, odhi' pole, ban ongga ka sowarga.",
+    "events": [
+     "Maso' kalaban kamennangan; Salerana mabalik pole meja e padalemman socce",
+     "E Sarapan se Dha'-budhi Salerana ngoco' sokona red-mored",
+     "Salerana seda e salib",
+     "Odhi' pole e are se kapeng tello, pas ongga ka sowarga"
+    ]
+   }
+  },
+  "labels": [
+   "Tasek Tengnga",
+   "Galilea",
+   "Samaria",
+   "Yudea",
+   "Dekapolis",
+   "Perea",
+   "Tasek Mate"
+  ],
+  "journeys": {
+   "life": "Jalanna Isa"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antiokia",
+    "book": "Caretana Para Rasul 13 · 15",
+    "today": "Antakya, Turki sateya",
+    "note": "Gareja pangotos, kennengnganna misi ka bangsa-bangsa laen molae ban mole.",
+    "events": [
+     "E dhalem du'a Erroh masesa Barnabas ban Saulus",
+     "Gareja kennengnganna red-mored kapeng settong esebbut ‘Kristen’",
+     "Titik mola'na parjalanan kapeng settong, kapeng dhuwa', ban kapeng tello"
+    ]
+   },
+   "seleucia": {
+    "name": "Seleukia",
+    "book": "Caretana Para Rasul 13:4",
+    "today": "Turki sateya",
+    "note": "Palabbuwanna Antiokia — reng-oreng alajar ka Siprus.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Siprus)",
+    "book": "Caretana Para Rasul 13:5",
+    "today": "Siprus sateya",
+    "note": "Ambu kapeng settong e Siprus — anebba'agi e sinagoga.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Papos",
+    "book": "Caretana Para Rasul 13:6-12",
+    "today": "Siprus sateya",
+    "note": "Kobasa etoduwagi ka reng-oreng se nolak kabar bagus.",
+    "events": [
+     "Elimas tokang sihir daddi buta",
+     "Sergius Paulus, gubernur jareya, parcaja",
+     "Molae dhari dinna' ‘Paulus’ se mimpin"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Caretana Para Rasul 13:13",
+    "today": "Antalya, Turki sateya",
+    "note": "Palabbuwan e Pampilia — e dinna' Yahya Markus abali mole.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antiokia e Pisidia",
+    "book": "Caretana Para Rasul 13:14-50",
+    "today": "Yalvaç, Turki sateya",
+    "note": "Kabar bagus abukka' amba tojju ka bangsa-bangsa laen.",
+    "events": [
+     "Kotbah abit parkara sajara panyalamet e sinagoga",
+     "Bannya' bangsa laen perak ban narema Dhabuna Allah",
+     "Eojuk lantaran panolakan"
+    ]
+   },
+   "iconium": {
+    "name": "Ikonium",
+    "book": "Caretana Para Rasul 14:1-7",
+    "today": "Konya, Turki sateya",
+    "note": "Bannya' se parcaja, tape kasangsara'an maksa reng-oreng mangkat.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Caretana Para Rasul 14:8-20",
+    "today": "Turki sateya",
+    "note": "Epoji akadi dewa, pas ebalang bato.",
+    "events": [
+     "Mabaras oreng se empon dhari lahir",
+     "Oreng bannya' terro akurbana ka reng-oreng jareya akadi ka dewa",
+     "Ebalang bato ban edina akadi la mate, tape jaga"
+    ]
+   },
+   "derbe": {
+    "name": "Derbe",
+    "book": "Caretana Para Rasul 14:20-21",
+    "today": "Turki sateya",
+    "note": "Bannya' mored se ehaselagi; reng-oreng abali noro' jalan kaangguy makowat gareja.",
+    "events": []
+   },
+   "troas": {
+    "name": "Troas",
+    "book": "Caretana Para Rasul 16:8-10",
+    "today": "Turki sateya",
+    "note": "Titik oba e mana kabar bagus kapeng settong tojju ka Eropa.",
+    "events": [
+     "Pangaton parkara settong oreng Makedonia",
+     "“Alengka ka dhinna' ban tolong kaula sadaja”",
+     "Reng-oreng duli alengka ka Eropa"
+    ]
+   },
+   "philippi": {
+    "name": "Pilipi",
+    "book": "Caretana Para Rasul 16 · Pilipi",
+    "today": "Yunani dhaja sateya",
+    "note": "Gareja kapeng settong e Eropa — kabar bagus mennang maske e penjara.",
+    "events": [
+     "Lidia, tokang juwal kaen ungu, parcaja",
+     "Settong dunor babine' tokang tennong ebebasagi",
+     "Nyanye tengnga malem, lendhu, ban saessena bengkona tokang jaga penjara salamet"
+    ]
+   },
+   "thess": {
+    "name": "Tesalonika",
+    "book": "Caretana Para Rasul 17 · 1–2 Tesalonika",
+    "today": "Thessaloniki, Yunani sateya",
+    "note": "Dhabuna Allah ngeddek kotta ban panolakan sajan panas.",
+    "events": [
+     "Acaca e sinagoga tello are Sabat",
+     "“Reng-oreng se malik-balik dunnya”",
+     "Reng-oreng mangkat neng-enneng e baktona malem"
+    ]
+   },
+   "berea": {
+    "name": "Berea",
+    "book": "Caretana Para Rasul 17:10-15",
+    "today": "Veria, Yunani sateya",
+    "note": "Reng-oreng se ‘bagus ate’ se mareksa Dhabuna Allah dibi'.",
+    "events": [
+     "Reng-oreng narema Dhabuna Allah kalaban lellas ate",
+     "Saka' are mareksa Alketab kaangguy ngecek",
+     "Bannya' se daddi parcaja"
+    ]
+   },
+   "athens": {
+    "name": "Atena",
+    "book": "Caretana Para Rasul 17:16-34",
+    "today": "Athena, Yunani sateya",
+    "note": "E kottana para ahli pelsapat aba'na anebba'agi ‘sesemba'an se ta' ekennal’.",
+    "events": [
+     "Sossa atena nangale kotta se possa' brahala",
+     "E Areopagus aba'na anebba'agi Allah Se Nyepta ban odhi' pole",
+     "Eco'-koco', tape badha pan-saponapa se parcaja"
+    ]
+   },
+   "corinth": {
+    "name": "Korintus",
+    "book": "Caretana Para Rasul 18 · 1–2 Korintus",
+    "today": "Yunani sateya",
+    "note": "Aba'na neng settong taon satengnga, namen gareja e kotta se possa' dusa.",
+    "events": [
+     "Agabay kemah bareng Akwila ban Priskila",
+     "“Ja' tako'… sabab Sengko' asareng ba'na”",
+     "Bannya' oreng Korintus parcaja ban ebaptis"
+    ]
+   },
+   "ephesus": {
+    "name": "Epesus",
+    "book": "Caretana Para Rasul 19 · Epesus",
+    "today": "Selçuk, Turki sateya",
+    "note": "Ate parjalanan kapeng tello — Dhabuna Allah alebar ka saantero Asia.",
+    "events": [
+     "Ngajar saka' are dhu taon e balena Tiranus",
+     "Ketab-ketab sihir ekobbar; lalakon se possa' kobasa",
+     "Demetrius tokang salaka madaddi karusuhan"
+    ]
+   },
+   "miletus": {
+    "name": "Miletus",
+    "book": "Caretana Para Rasul 20:17-38",
+    "today": "Turki sateya",
+    "note": "Pamitan kalaban aeng mata ka para pinituwana Epesus.",
+    "events": [
+     "“Openi gareja se ebelli Salerana kalaban dharana dibi'”",
+     "Para pinituwa nanges, tao ja' ta' bakal nangale aba'na pole"
+    ]
+   },
+   "caesarea": {
+    "name": "Kaisarea",
+    "book": "Caretana Para Rasul 23–26",
+    "today": "penggir tasek Isra'il sateya",
+    "note": "Dhu taon abida aba'na abela kabar bagus e adha'na gubernur ban rato.",
+    "events": [
+     "Eadili e adha'na gubernur Peliks ban Pestus",
+     "Pabelana e adha'na Rato Agripa",
+     "“Sengko' abanding ka Kaisar” — tojju ka Roma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Yerusalim",
+    "book": "Caretana Para Rasul 21–23",
+    "today": "Yerusalim sateya",
+    "note": "Ecekel e padalemman socce, jalanna menangka oreng tahanan molae.",
+    "events": [
+     "Ecekel oreng bannya' e padalemman socce",
+     "Abela aba'na e adha'na Majelis Agama",
+     "Menangka warga Roma, ekerem kalaban pangawal ka Kaisarea"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Caretana Para Rasul 27:5-6",
+    "today": "Demre, Turki sateya",
+    "note": "Reng-oreng pindha ka kapal Aleksandria se tojju ka Roma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Palabbuwan Bagus (Kreta)",
+    "book": "Caretana Para Rasul 27:8-12",
+    "today": "Kreta sateya",
+    "note": "Parengeddanna Paulus sopaja ambu alajar ta' etoro'.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kreta",
+    "book": "Titus",
+    "today": "Kreta sateya",
+    "note": "Saellana ebebasagi, polo kennengnganna aba'na adina'agi Titus kaangguy nata gareja.",
+    "events": [
+     "Adina'agi Titus kaangguy nantowagi para pinituwa e saka' kotta",
+     "Nyo'on pamimpin se tadha' cala ban setiya",
+     "Noles sorat ka Titus"
+    ]
+   },
+   "malta": {
+    "name": "Malta",
+    "book": "Caretana Para Rasul 27–28",
+    "today": "Malta sateya",
+    "note": "Lebat angen raja ban kapal karem, janjina Allah paggun ekokowe.",
+    "events": [
+     "Angen raja ‘dhaja-temor’ maancor kapal, tape 276 oreng kabbi salamet",
+     "Ekekke' olar mandi, aba'na ta' loka",
+     "Aba'na mabaras reng-oreng sake' e polo jareya"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakusa",
+    "book": "Caretana Para Rasul 28:12",
+    "today": "Sisilia, Itali sateya",
+    "note": "Reng-oreng neng tello are e Sisilia.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Putioli",
+    "book": "Caretana Para Rasul 28:13-14",
+    "today": "Pozzuoli, Itali sateya",
+    "note": "Reng-oreng napa' e Itali ban esambut sasama oreng parcaja.",
+    "events": []
+   },
+   "rome": {
+    "name": "Roma",
+    "book": "Caretana Para Rasul 28 · Sorat-sorat Penjara · 2 Timotiyus",
+    "today": "Roma, Itali sateya",
+    "note": "Kabar bagus dha'-budhina napa' ka ate karaja'an — banne ahir tape mola'an.",
+    "events": [
+     "Dhu taon e tahanan bengko, kalaban bangal anebba'agi Karaja'anna Allah",
+     "Dhari dinna' aba'na noles Sorat-sorat Penjara (Epesus·Pilipi·Kolosi·Pilemon)",
+     "Dha'-budhina epenjara pole, noles 2 Timotiyus ban daddi martir — “Sengko' la aperrang perrang se bagus, la mare palumba'an”"
+    ]
+   }
+  },
+  "labels": [
+   "Tasek Tengnga",
+   "Tasek Aegea",
+   "Asia Kene'",
+   "Makedonia",
+   "Itali"
+  ],
+  "journeys": {
+   "j1": "Parjalanan kapeng settong",
+   "j2": "Parjalanan kapeng dhuwa'",
+   "j3": "Parjalanan kapeng tello",
+   "rome": "Parjalanan kapeng empa' · ka Roma",
+   "j5": "Parjalanan kapeng lema' · saellana epabebas"
+  }
+ }
+}

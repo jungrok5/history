@@ -1,0 +1,636 @@
+{
+ "menuName": "Taqbaylit",
+ "htmlLang": "kab",
+ "dir": "ltr",
+ "locale": "kab",
+ "brand": "Tira Iqedsen s yiwen uzelmaḍ",
+ "docTitle": "Tira Iqedsen s tkarḍa · Tira Iqedsen s yiwen uzelmaḍ",
+ "metaDesc": "Ḍfer amezruy n Lwaṣiya Taqdimt, tudert n Yasuɛ, akked isafaren n Bulus ɣef yiwet n takarḍa n tidet — Tira Iqedsen ḍrant deg yimukan n tidet.",
+ "s": {
+  "kicker": "Tira Iqedsen s yiwen uzelmaḍ · Tikarḍiwin",
+  "title": "Tira Iqedsen s tkarḍa",
+  "verse": "“Mačči d timucuha i wen-d-newwi mi i wen-d-neḥka ɣef tezmert n Ssid-nneɣ Yasuɛ Lmasiḥ d tisin-ines, meɛna s wallen-nneɣ i nwala tamanegt-is.” (2 Buṭrus 1:16)",
+  "purpose": "Tira Iqedsen mačči d tamacahut n lekdeb. D akatay n yemdanen i yeddan ɣef yimukan, izmaz d yismawen n tidet. Ḍfer iberdan-nni ɣef takarḍa, s umizzwer n wakud — sit ɣef tneqqiḍt, neɣ sit ɣef ▶ akken ad tɛeddiḍ deg-s asurif deffir wayeḍ.",
+  "ot_kick": "① Lwaṣiya Taqdimt — s wakud",
+  "ot_h": "Seg uxleq ɣer tuɣalin ɣer Urucalim",
+  "ot_lead": "Mačči d yiwen n usafer kan, meɛna d abrid n umezruy n usellek seg uxleq: axleq d tuccḍa → anfal d Babil → tiɣṛi (Ibṛahim) → tamurt yettwaɛhden → Tuffɣa → anezruf → rrbeḥ → tagelda → abeṭṭu → tamegrareḍt → tuɣalin.",
+  "je_kick": "② Lwaṣiya Tamaynut — tudert n Yasuɛ",
+  "je_h": "Seg Bitleḥem ɣer Urucalim",
+  "je_lead": "Ḍfer tudert n Yasuɛ akken t-ḥekkun Ilqaḍ, s umizzwer — seg tlalit-is di Bitleḥem, ɣer uɣeṭṭas-is d tebṛaḥt n Jlili, ɣer Samarya, alamma d amidag, ḥeggu d tuli ɣer igenni di Urucalim.",
+  "pa_kick": "③ Lwaṣiya Tamaynut — isafaren n Bulus",
+  "pa_h": "Seg Antyuxya ɣer ixfawen n ddunit — Ṛuma",
+  "pa_lead": "Seg wass n Lɛunṣra di Urucalim, amek yemɣur Lexbeṛ n Lxir sennig Yahuda — di Asya Tamecṭuḥt d Uruppa alamma d ul n tgeldit. Fren yiwen seg semmus isafaren (amezwaru·wis sin·wis kraḍ + asafer ɣer Ṛuma + deffir tilelli), ḍfer ineḍruyen n Lecɣal n Imceggɛen akked tebṛatin i yuran deg webrid.",
+  "foot": "Iɣbula · Imukan ttḍefṛen aḍris n Tira Iqedsen d tajuɣrafit yețwassnen n Tira Iqedsen (s yismawen n tura anda i d-yenfeɛ). Tamiwin n yilel, isaffen d yigelmimen țțwasuneɣen seg isefka n tajuɣrafit yeldin (Natural Earth), yețwasehlen.",
+  "contact": "Isteqsiyen · tikti — <a id=\"contact\" class=\"mail\">Azen-aɣ-d imayl</a>",
+  "play": "Bdu",
+  "pause": "Ḥbes",
+  "today": "Ass-a:",
+  "verseCite": "2 Buṭrus 1:16"
+ },
+ "ot": {
+  "places": {
+   "eden": {
+    "name": "Ɛaden (Axleq · Tuccḍa)",
+    "book": "Amezruy n talsa 1–3",
+    "today": "tamnaḍt n Digla–Furat ass-a",
+    "note": "Ɣer ddunit yelhan nezzeh, ikcem-d ddnub yerna yegzem wassaɣ gar Yillu d talsa.",
+    "events": [
+     "Axleq di setta wussan — « yelha nezzeh »",
+     "Amdan yettwaxleq s ṣṣifa n Yillu",
+     "Tuccḍa, d usuffeɣ seg Ɛaden",
+     "Lemɛahda tamezwarut n Lexbeṛ n Lxir — « ccetla n tmeṭṭut ad temḥeq aqerruy n yizerm »"
+    ]
+   },
+   "noah": {
+    "name": "Ararat (Anfal)",
+    "book": "Amezruy n talsa 6–9",
+    "today": "Adrar Ararat, asammer n Turkya ass-a",
+    "note": "Yeḥkem Yillu ɣef ddunit iččuṛen d ddnub, meɛna iḥrez tudert s yiwet n twacult.",
+    "events": [
+     "Ddunit teččur d lfesad",
+     "Anfal, d lbabuṛ n Nuḥ",
+     "Lemɛahda n tislit n wanẓar — « ur d-yettuɣal ara wenfal ad isderm ddunit »"
+    ]
+   },
+   "babel": {
+    "name": "Lbeṛj n Babil",
+    "book": "Amezruy n talsa 11",
+    "today": "Ɛiraq ass-a (azaɣar n Cinɛar)",
+    "note": "Mgal ujgugel i gessawaḍen alamma d igenni, Yillu isseɛweg tutlayin-nsen yerna imzerwɛen igduden ɣef lqaɛa.",
+    "events": [
+     "« Kkret ad nebnu tamdint d lbeṛj … ad nefk isem i yiman-nneɣ »",
+     "Yillu isseɛweg tutlayt-nsen",
+     "Igduden mzerwɛen ɣef lqaɛa (Cinɛar — deffir akka Babil)"
+    ]
+   },
+   "ur": {
+    "name": "Ur",
+    "book": "Amezruy n talsa 12",
+    "today": "anẓul n Ɛiraq ass-a",
+    "note": "Tamacahut n usellek n Tira Iqedsen tebda-d s tiɣṛi n yiwen wergaz.",
+    "events": [
+     "Yillu issawel i Abram akken ad iffeɣ seg Ur n Ikaldiyen",
+     "« Ad ak-rreɣ d lǧens ameqqran … iderman meṛṛa ad ttubarken yis-k »",
+     "S liman yeǧǧa tamurt-is"
+    ]
+   },
+   "haran": {
+    "name": "Ḥaran",
+    "book": "Amezruy n talsa 12",
+    "today": "anẓul n Turkya ass-a",
+    "note": "Deg webrid, yerra-d awal n tiɣṛi ɣer tmurt yettwaɛhden.",
+    "events": [
+     "Twacult n Taraḥ tezdeɣ di Ḥaran",
+     "Yemmut Taraḥ",
+     "Abram iṛuḥ ɣer Kenɛan di 75 iseggasen"
+    ]
+   },
+   "shechem": {
+    "name": "Cakem · Kenɛan",
+    "book": "Amezruy n talsa 12–50",
+    "today": "Nablus ass-a",
+    "note": "Deg tmurt yettwaɛhden tettwabnu twacult yerna lemɛahda tɛeddi ɣer isuta.",
+    "events": [
+     "Akcam ɣer Kenɛan, adekkan n iseflawen amezwaru — « ad fkeɣ tamurt-agi i tedfert-ik »",
+     "Lemɛahda (Amezruy n talsa 15) · Isḥaq · Yeɛqub",
+     "Tnac warraw n Yeɛqub — aẓar n tnac leɛṛac"
+    ]
+   },
+   "egypt": {
+    "name": "Maṣer (Gucen)",
+    "book": "Amezruy n talsa 37–50 · Tuffɣa 1",
+    "today": "Adelta n Nil, Maṣer ass-a",
+    "note": "Twacult tuɣal d lǧens ameqqran — syin d lǧens n waklan.",
+    "events": [
+     "Yusef, yettnuzen, yuli ɣer leḥkem n Maṣer",
+     "Twacult n Yeɛqub meṛṛa tṣubb ɣer Maṣer si laẓ",
+     "Agdud n Isṛail yemɣin yuɣal d aklan"
+    ]
+   },
+   "sinai": {
+    "name": "Adrar n Sina",
+    "book": "Tuffɣa · At Lawi",
+    "today": "tigzirt n Sina ass-a",
+    "note": "Asellek igejdanen n Lwaṣiya Taqdimt — aklan uɣalen d agdud n Yillu.",
+    "events": [
+     "Ɛecṛa lbeliyat akked izimer n Tfaska",
+     "Yilel Azeggaɣ yebḍa, agdud yezger",
+     "Ɛecṛa Lewṣayat, asaḍuf, aqiḍun n temlilit d yiseflawen"
+    ]
+   },
+   "kadesh": {
+    "name": "Qadec (anezruf)",
+    "book": "Imḍanen · Asmekti",
+    "today": "anezruf n Sina–Negev ass-a",
+    "note": "Anmennuɣ n liman yesruḥ i yiwen n lǧil tamurt — meɛna Yillu yeqqim yid-sen.",
+    "events": [
+     "Tnac yergazen i yin-uzznen ad ẓren tamurt — meɛna agdud yugi ad yamen",
+     "38 iseggasen deg unezruf — lmanna, asigna d tmes",
+     "Deg luḍa n Muab, aselmed aneggaru n Musa (Asmekti)"
+    ]
+   },
+   "jericho": {
+    "name": "Yiriku",
+    "book": "Yacuɛa",
+    "today": "Yiriku ass-a",
+    "note": "Di taggara kecmen yerna rebḥen tamurt yettwaɛhden.",
+    "events": [
+     "Asif n Urdun yebḍa, agdud yezger",
+     "Leswaṛ n Yiriku ɣlin",
+     "Rrbeḥ n Kenɛan akked ubeṭṭu n tmurt"
+    ]
+   },
+   "shiloh": {
+    "name": "Cilu (Inezzurfa)",
+    "book": "Inezzurfa · Raɛut",
+    "today": "Xirbet Seilun ass-a",
+    "note": "Mbla agellid, yal yiwen ixeddem ayen i s-yehwan — ilaq agellid n tidett.",
+    "events": [
+     "Aqiḍun n temlilit yettwarsa di Cilu",
+     "Taneqqist n ddnub–lqehr–asellek (Debura, Gidɛun, Camcun)",
+     "Raɛut — laman deg wussan iberkanen, di ccetla n Dawed"
+    ]
+   },
+   "jerusalem": {
+    "name": "Urucalim · Tagelda yedduklen",
+    "book": "1–2 Ṣamwil · 1 Igelliden",
+    "today": "Urucalim ass-a",
+    "note": "Lɛasr n wureɣ n Isṛail — d lemɛahda n ugellid n lebda.",
+    "events": [
+     "Caɛul agellid amezwaru, syin Dawed akked Gulyat",
+     "Lemɛahda n Dawed — « akersi-k ad yili i lebda » (2 Ṣamwil 7)",
+     "Sliman ibennu lǧameɛ iqedsen di Urucalim"
+    ]
+   },
+   "samaria": {
+    "name": "Samarya · Tagelda yebḍan",
+    "book": "Igelliden · Lanbiya",
+    "today": "Sebastya ass-a",
+    "note": "Tagelda tebḍa yerna teṣubb skud lanbiya ttɣuṛṛun.",
+    "events": [
+     "Deffir Sliman, abeṭṭu ɣef Yahuda d Isṛail",
+     "Leṣnam yettɛawaden",
+     "Ilyas, Icaɛya, Irmiya ɣeṛṛen « uɣalet-d » — cehhden-d ɣef Lmasiḥ"
+    ]
+   },
+   "nineveh": {
+    "name": "Ninwa (Aturya)",
+    "book": "2 Igelliden 17 · Tarewla n Yunes",
+    "today": "Musul, Ɛiraq ass-a",
+    "note": "Mi tɛeddan ɣef yal alɣu, agafa iɣli d amezwaru.",
+    "events": [
+     "Ninwa, tamanaɣt n Aturya",
+     "Tagelda n ugafa teɣli ɣer Aturya (722 uqbel ƐM)",
+     "Yunes yettwaceggeɛ ɣer Ninwa"
+    ]
+   },
+   "babylon": {
+    "name": "Babil",
+    "book": "2 Igelliden 25 · Danyal · Ḥizqiyal",
+    "today": "Ḥilla, Ɛiraq ass-a",
+    "note": "Iḍ aberkan akk — meɛna lemɛahda n tuɣalin teqqim.",
+    "events": [
+     "Urucalim teɣli, lǧameɛ iqedsen iṛeɣ (586 uqbel ƐM)",
+     "Yahuda yettwawi ɣer Babil",
+     "Danyal d Ḥizqiyal — liman d timeẓriwin di tmegrareḍt"
+    ]
+   },
+   "susa": {
+    "name": "Cucan (Faris)",
+    "book": "Stira · Naḥamya",
+    "today": "Cuc, Iran ass-a",
+    "note": "Ula deg wul n tgeldit taberkant, Yillu iḥrez agdud-is.",
+    "events": [
+     "Faris teɣleb Babil",
+     "Astir tsellek Udayen seg usenger",
+     "Naḥamya yeẓẓal zdat ugellid, yettwaceggeɛ"
+    ]
+   },
+   "return": {
+    "name": "Tuɣalin ɣer Urucalim",
+    "book": "Ɛazra · Naḥamya · Malaxi",
+    "today": "Urucalim ass-a",
+    "note": "Uɣalen-d bnan — meɛna ur d-yusi ara ugellid. Ttṛaǧun Lmasiḥ.",
+    "events": [
+     "Kraḍ lemwaji n tuɣalin s ulamer n Sirus (Zerubbabel 538 · Ɛezra 458 · Naḥamya 444)",
+     "Lǧameɛ iqedsen yettwabna, leswaṛ n Urucalim ttwasgemden",
+     "Malaxi — Lwaṣiya Taqdimt tfukk: « aql-i ad d-ceggɛeɣ amazan-inu »"
+    ]
+   }
+  },
+  "labels": [
+   "Ilel Agrakal",
+   "Mizubutamya",
+   "Anezruf Aɛrabi",
+   "Maṣer"
+  ],
+  "journeys": {
+   "flow": "Tamacahut n usellek"
+  }
+ },
+ "jesus": {
+  "places": {
+   "bethlehem": {
+    "name": "Bitleḥem",
+    "book": "Matta 1–2 · Luqa 2",
+    "today": "Bitleḥem ass-a",
+    "note": "Lmasiḥ yettwaɛhden yusa-d ɣer taddart n Dawed — Awal yuɣal d amdan.",
+    "events": [
+     "Ilul-d di Bitleḥem, taddart n Dawed",
+     "Lmalayek beccṛen lexbaṛ i imeksawen",
+     "Imusnawen n yitran usan-d ad seǧden"
+    ]
+   },
+   "nazareth": {
+    "name": "Naṣaret",
+    "book": "Luqa 2 · 4",
+    "today": "Naṣaret ass-a",
+    "note": "Yillu yemɣur d amdan deg taddart taḥeqqart.",
+    "events": [
+     "Yemɣur deg wexxam n unejjar",
+     "Di tnac iseggasen, isteqsay yerna yerra-d di lǧameɛ iqedsen",
+     "Deffir akka yettwaggi di lǧameɛ n taddart-is"
+    ]
+   },
+   "jordan": {
+    "name": "Asif n Urdun",
+    "book": "Matta 3–4",
+    "today": "Urdun n wadda ass-a",
+    "note": "Tebda tebṛaḥt-is tazayezt — igenni icehhed-it d Mmi-s.",
+    "events": [
+     "Yețwaɣeṭṭes sɣur Yuḥenna",
+     "Ṛṛuḥ iṣubb-ed am tetbirt — « Wagi d Mmi ameɛzuz »",
+     "Iɣleb kraḍ tijeṛribin n Cciṭan deg unezruf"
+    ]
+   },
+   "cana": {
+    "name": "Kana",
+    "book": "Yuḥenna 2",
+    "today": "Kafr Kanna ass-a",
+    "note": "Deg licaṛa-s tamezwarut ibeggen-d lɛaḍima-s.",
+    "events": [
+     "Inebgi deg tmeɣra",
+     "Aman uɣalen d ccṛab — licaṛa-s tamezwarut",
+     "Inelmaden-is umnen yis"
+    ]
+   },
+   "sychar": {
+    "name": "Sixar (Samarya)",
+    "book": "Yuḥenna 2–4",
+    "today": "ɣer tama n Nablus ass-a",
+    "note": "Abrid n tebṛaḥt tamezwarut — seg Urucalim ɣer Samarya yețwakerhen.",
+    "events": [
+     "Yessizdeg lǧameɛ iqedsen di Urucalim",
+     "Deg iḍ, Nikudem — « Ilaq ad d-tɛiwdeḍ talalit »",
+     "Aman yessidiren i tmeṭṭut n Samarya"
+    ]
+   },
+   "capernaum": {
+    "name": "Kafernaḥum",
+    "book": "Matta 4–13 · Marqus 1–4",
+    "today": "rrif n lbḥiṛa n Jlili ass-a",
+    "note": "Llsas n tebṛaḥt n Jlili — tiɣṛi, aselmed d ugellu mlalen dagi.",
+    "events": [
+     "Issawel i iṣeggaden, yerra dagi d llsas-is",
+     "Aselmed ɣef wedrar — « D iseɛdiyen igellilen n Ṛṛuḥ »",
+     "Lemtel n tgelda — d ugellu i gemmun"
+    ]
+   },
+   "galilee": {
+    "name": "Lbḥiṛa n Jlili",
+    "book": "Marqus 4 · 6 · Yuḥenna 6",
+    "today": "Lbḥiṛa Kinneret ass-a",
+    "note": "S tezmert-is ɣef ddunit ibeggen-d anwa-t.",
+    "events": [
+     "« Ssers iman-ik ! Ssusem ! » — yessers aḍu",
+     "Iceɛceɛ 5000 s xemsa n teḥbulin n weɣrum d sin iselman",
+     "Ileḥḥu ɣef waman"
+    ]
+   },
+   "caesarea_p": {
+    "name": "Qayṣarya n Filibus",
+    "book": "Matta 16–17",
+    "today": "Banyas ass-a",
+    "note": "Inelmaden fehmen d akken d Lmasiḥ, yerna yeldi webrid n umidag.",
+    "events": [
+     "Cehda n Buṭrus — « Kečč d Lmasiḥ, Mmi-s n Yillu yeddren »",
+     "Ixebbeṛ-d i tikkelt tamezwarut ɣef lmut-is d ḥeggu-s",
+     "Yebeddel udem-is s lɛaḍima ɣef wedrar"
+    ]
+   },
+   "jericho": {
+    "name": "Yiriku",
+    "book": "Luqa 18–19",
+    "today": "Yiriku ass-a",
+    "note": "Deg webrid ɣer Urucalim, inadi ɣef wid iḍaɛen.",
+    "events": [
+     "Yerra-d taẓri i Bartimay aderɣal",
+     "Issawel i Zake amekkas",
+     "« Mmi-s n wemdan yusa-d ad inadi ɣef wid iḍaɛen, ad ten-isellek »"
+    ]
+   },
+   "bethany": {
+    "name": "Bitanya",
+    "book": "Yuḥenna 11–12",
+    "today": "El-Ɛizarya ass-a",
+    "note": "Ibeggen-d tazmert-is ɣef lmut send ddurt-is taneggarut.",
+    "events": [
+     "Yesseḥya-d Laɛzar seg uẓekka — « D nekk i d ḥeggu, d nekk i d tudert »",
+     "Meryem tedhen-it i temḍelt",
+     "Licaṛa-agi tqewwa ttḥila akken ad t-nɣen"
+    ]
+   },
+   "jerusalem": {
+    "name": "Urucalim",
+    "book": "Matta 21–28 · Luqa 24 · Lecɣal n Imceggɛen 1",
+    "today": "Urucalim ass-a",
+    "note": "Tuqqna anda tettwakemmel Tira Iqedsen meṛṛa — amidag, ḥeggu, tuli ɣer igenni.",
+    "events": [
+     "Akcam s lɛaḍima; yeqleb daɣen ṭṭwabel n lǧameɛ iqedsen",
+     "Deg imensi aneggaru issired iḍaṛṛen n inelmaden",
+     "Yemmut ɣef umidag",
+     "Yeḥya-d deg wass wis kraḍ, syin yuli ɣer igenni"
+    ]
+   }
+  },
+  "labels": [
+   "Ilel Agrakal",
+   "Jlili",
+   "Samarya",
+   "Yahuda",
+   "Dikabulis",
+   "Perya",
+   "Lebḥer n Lemmut"
+  ],
+  "journeys": {
+   "life": "Abrid n Yasuɛ"
+  }
+ },
+ "paul": {
+  "places": {
+   "antioch": {
+    "name": "Antyuxya",
+    "book": "Lecɣal n Imceggɛen 13 · 15",
+    "today": "Anṭakya, Turkya ass-a",
+    "note": "Tajmaɛt i d-iceggɛen anda tebda yerna tețțuɣal tebṛaḥt ɣer ibeṛṛaniyen.",
+    "events": [
+     "Deg tẓallit, Ṛṛuḥ yefrez Barnabas d Caɛul",
+     "Tajmaɛt anda i d-țțusemman imasiḥiyen i tikkelt tamezwarut i wid yumnen",
+     "Amkan n tuffɣa n usafer amezwaru, wis sin d wis kraḍ"
+    ]
+   },
+   "seleucia": {
+    "name": "Silukya",
+    "book": "Lecɣal n Imceggɛen 13:4",
+    "today": "Turkya ass-a",
+    "note": "Lmeṛsa n Antyuxya — refden lbabuṛ ɣer Qubṛus.",
+    "events": []
+   },
+   "salamis": {
+    "name": "Salamis (Qubṛus)",
+    "book": "Lecɣal n Imceggɛen 13:5",
+    "today": "Qubṛus ass-a",
+    "note": "Aḥbas amezwaru di Qubṛus — beccṛen di leǧwameɛ.",
+    "events": []
+   },
+   "paphos": {
+    "name": "Bafus",
+    "book": "Lecɣal n Imceggɛen 13:6-12",
+    "today": "Qubṛus ass-a",
+    "note": "Tazmert tban-d mgal wid ibedden i Lexbeṛ n Lxir.",
+    "events": [
+     "Ilimas aseḥḥar yețwargel",
+     "Sirjyus Bulus lḥakem yumen",
+     "Seg dagi « Bulus » yeṭṭef nnuba"
+    ]
+   },
+   "perga": {
+    "name": "Perga",
+    "book": "Lecɣal n Imceggɛen 13:13",
+    "today": "Anṭalya, Turkya ass-a",
+    "note": "Lmeṛsa di Bamfilya — dagi Yuḥenna Marqus yuɣal ɣer deffir.",
+    "events": []
+   },
+   "pantioch": {
+    "name": "Antyuxya n Bisidya",
+    "book": "Lecɣal n Imceggɛen 13:14-50",
+    "today": "Yalvaç, Turkya ass-a",
+    "note": "Lexbeṛ n Lxir yeldi ɣer ibeṛṛaniyen.",
+    "events": [
+     "Aselmed ɣezzifen n umezruy n usellek di lǧameɛ",
+     "Aṭas ibeṛṛaniyen feṛḥen, qeblen awal",
+     "Ttwassufɣen s ugellu"
+    ]
+   },
+   "iconium": {
+    "name": "Ikunya",
+    "book": "Lecɣal n Imceggɛen 14:1-7",
+    "today": "Konya, Turkya ass-a",
+    "note": "Aṭas i yumnen, meɛna tuqehrit tessufeɣ-iten.",
+    "events": []
+   },
+   "lystra": {
+    "name": "Listra",
+    "book": "Lecɣal n Imceggɛen 14:8-20",
+    "today": "Turkya ass-a",
+    "note": "Ḥesben-t d yillu, syin ṛeǧmen-t.",
+    "events": [
+     "Isseḥla argaz iquḍṛen seg tlalit-is",
+     "Lɣaci ḥesben-ten d iṛebbiten, bɣan ad sen-fken iseflawen",
+     "Ṛeǧmen-t, ǧǧan-t am akken yemmut, meɛna yekker-d"
+    ]
+   },
+   "derbe": {
+    "name": "Derba",
+    "book": "Lecɣal n Imceggɛen 14:20-21",
+    "today": "Turkya ass-a",
+    "note": "Ssarwen aṭas n inelmaden; uɣalen ɣer deffir ad sseǧhden tijmuyaɛ.",
+    "events": []
+   },
+   "troas": {
+    "name": "Truwas",
+    "book": "Lecɣal n Imceggɛen 16:8-10",
+    "today": "Turkya ass-a",
+    "note": "Anerni anda Lexbeṛ n Lxir yețțeddu i tikkelt tamezwarut ɣer Uruppa.",
+    "events": [
+     "Aweḥḥi n yiwen wergaz n Masidunya",
+     "« Ɛeddi-d ɣur-neɣ, ɛiwen-aɣ »",
+     "Zegren imiren ɣer Uruppa"
+    ]
+   },
+   "philippi": {
+    "name": "Filibus",
+    "book": "Lecɣal n Imceggɛen 16 · At Filibus",
+    "today": "agafa n Lyunan ass-a",
+    "note": "Tajmaɛt tamezwarut n Uruppa — Lexbeṛ n Lxir yerbeḥ ula di lḥebs.",
+    "events": [
+     "Lidya, tin yeznuzun leḥrir azeggaɣ, tumen",
+     "Taklit yețțuqehhren s lǧen tețwasellek",
+     "Ccnawi n tlemmast n yiḍ, zzelzla, twacult n uɛessas tețwasellek"
+    ]
+   },
+   "thess": {
+    "name": "Tisalunik",
+    "book": "Lecɣal n Imceggɛen 17 · 1–2 At Tisalunik",
+    "today": "Tesalunik, Lyunan ass-a",
+    "note": "Awal issenhezz tamdint, ugellu yekker.",
+    "events": [
+     "Immeslay di lǧameɛ tlata n wussan n westeɛfu",
+     "« D irgazen-agi i yerwin ddunit »",
+     "Ffɣen s tuffra deg iḍ"
+    ]
+   },
+   "berea": {
+    "name": "Biriya",
+    "book": "Lecɣal n Imceggɛen 17:10-15",
+    "today": "Verya, Lyunan ass-a",
+    "note": "Wid « ilhan » i inecden awal s yiman-nsen.",
+    "events": [
+     "Qeblen awal s lferḥ ameqqran",
+     "Kra n wass nadin Tira akken ad ẓren ma tṣeḥḥa",
+     "Aṭas i yumnen"
+    ]
+   },
+   "athens": {
+    "name": "Atinas",
+    "book": "Lecɣal n Imceggɛen 17:16-34",
+    "today": "Atinas, Lyunan ass-a",
+    "note": "Di temdint n ifilusufen ibecceṛ « Yillu ur nețwassen ara ».",
+    "events": [
+     "Iɣaḍ-it wul mi iwala tamdint teččur d leṣnam",
+     "Ɣef Areyufaj ibecceṛ Axellaq d ḥeggu",
+     "Ḍsan fell-as, meɛna kra i yumnen"
+    ]
+   },
+   "corinth": {
+    "name": "Kurintus",
+    "book": "Lecɣal n Imceggɛen 18 · 1–2 At Kurintus",
+    "today": "Lyunan ass-a",
+    "note": "Yeqqim aseggas d wezgen, izerreɛ tajmaɛt di temdint n cceṛ.",
+    "events": [
+     "Ixeddem iqiḍan akked Akilas d Brisila",
+     "« Ur ttaggad ara … axaṭer aql-i yid-k »",
+     "Aṭas n at Kurintus umnen, țwaɣeṭṭsen"
+    ]
+   },
+   "ephesus": {
+    "name": "Ifasus",
+    "book": "Lecɣal n Imceggɛen 19 · At Ifasus",
+    "today": "Selçuk, Turkya ass-a",
+    "note": "Ul n usafer wis kraḍ — awal yemɣur di Asya.",
+    "events": [
+     "Aselmed n yal ass sin iseggasen deg tzeqqa n Tiranus",
+     "Idlisen n sseḥḥur ṛeɣen; lecɣal n tezmert",
+     "Dimitriyus axeddam n lfeṭṭa yekker-d ccwal"
+    ]
+   },
+   "miletus": {
+    "name": "Militus",
+    "book": "Lecɣal n Imceggɛen 20:17-38",
+    "today": "Turkya ass-a",
+    "note": "Sslam aneggaru s imeṭṭawen i imɣaren n Ifasus.",
+    "events": [
+     "« Ɛasset ɣef tejmaɛt i d-yuɣ Yillu s idammen-is »",
+     "Imɣaren ttrun, ẓran ur t-țwalin ara daɣen"
+    ]
+   },
+   "caesarea": {
+    "name": "Qayṣarya",
+    "book": "Lecɣal n Imceggɛen 23–26",
+    "today": "rrif n Isṛail ass-a",
+    "note": "Sin iseggasen iḥarab ɣef Lexbeṛ n Lxir zdat lḥekkam d ugellid.",
+    "events": [
+     "Ccṛeɛ zdat lḥekkam Filiks d Fistus",
+     "Aḥareb-is zdat ugellid Agribas",
+     "« Ad rẓeɣ ccṛeɛ ɣer Qayṣar » — ɣer Ṛuma"
+    ]
+   },
+   "jerusalem": {
+    "name": "Urucalim",
+    "book": "Lecɣal n Imceggɛen 21–23",
+    "today": "Urucalim ass-a",
+    "note": "Yețwaṭṭef di lǧameɛ iqedsen, yebda webrid-is d ameḥbus.",
+    "events": [
+     "Yețwaṭṭef sɣur lɣaci di lǧameɛ iqedsen",
+     "Iḥarab ɣef yiman-is zdat useqqamu",
+     "Imi d aṛumani, yețwaceggeɛ s tɛessast ɣer Qayṣarya"
+    ]
+   },
+   "myra": {
+    "name": "Mira",
+    "book": "Lecɣal n Imceggɛen 27:5-6",
+    "today": "Demre, Turkya ass-a",
+    "note": "Uɣalen ɣer lbabuṛ n Skandarya iteddun ɣer Ṛuma.",
+    "events": []
+   },
+   "fairhaven": {
+    "name": "Lmeṛsa Yelhan (Kritus)",
+    "book": "Lecɣal n Imceggɛen 27:8-12",
+    "today": "Kritus ass-a",
+    "note": "Alɣu n Bulus akken ad ḥebsen abrid ur d-yețwaṭṭef ara.",
+    "events": []
+   },
+   "crete": {
+    "name": "Kritus",
+    "book": "Tiṭus",
+    "today": "Kritus ass-a",
+    "note": "Deffir tilelli-s, tigzirt anda yeǧǧa Tiṭus akken ad iseɣwer tijmuyaɛ.",
+    "events": [
+     "Yeǧǧa Tiṭus ad isbedd imɣaren di yal taddart",
+     "Yessuter imɣaren ur nesɛi lɛib, d wid iṣeḥḥan di liman",
+     "Yura tabṛat ɣer Tiṭus"
+    ]
+   },
+   "malta": {
+    "name": "Malṭa",
+    "book": "Lecɣal n Imceggɛen 27–28",
+    "today": "Malṭa ass-a",
+    "note": "Gar tbuciḍant d uɣelluy n lbabuṛ, lemɛahda n Yillu teṭṭef.",
+    "events": [
+     "Aḍu aqewwan yesderm lbabuṛ, meɛna 276 yemdanen akk menɛen",
+     "Yekkat-it wezrem, meɛna ur t-yuɣ wara",
+     "Isseḥla imuḍan n tegzirt"
+    ]
+   },
+   "syracuse": {
+    "name": "Sirakuz",
+    "book": "Lecɣal n Imceggɛen 28:12",
+    "today": "Sisilya, Iṭalya ass-a",
+    "note": "Qqimen tlata wussan di Sisilya.",
+    "events": []
+   },
+   "puteoli": {
+    "name": "Puteoli",
+    "book": "Lecɣal n Imceggɛen 28:13-14",
+    "today": "Pozzuoli, Iṭalya ass-a",
+    "note": "Rsen ɣer Iṭalya, mmugren-ten-id watmaten.",
+    "events": []
+   },
+   "rome": {
+    "name": "Ṛuma",
+    "book": "Lecɣal n Imceggɛen 28 · Tibṛatin n lḥebs · 2 Timuti",
+    "today": "Ṛuma, Iṭalya ass-a",
+    "note": "Lexbeṛ n Lxir yewweḍ ɣer wul n tgeldit tameqqrant — mačči d taggara meɛna d tazwara.",
+    "events": [
+     "Sin iseggasen d ameḥbus deg wexxam, ibecceṛ tagelda n Yillu mbla tugdi",
+     "Seg dagi yura Tibṛatin n lḥebs (At Ifasus·At Filibus·At Kulus·Filimun)",
+     "Deffir akka yețwaḥbes daɣen, yura 2 Timuti yerna yețwanɣa ɣef ddemma n liman-is — « nnuɣeɣ imenɣi n tidett, kemmleɣ abrid-iw »"
+    ]
+   }
+  },
+  "labels": [
+   "Ilel Agrakal",
+   "Ilel n Ejyi",
+   "Asya Tamecṭuḥt",
+   "Masidunya",
+   "Iṭalya"
+  ],
+  "journeys": {
+   "j1": "Asafer amezwaru",
+   "j2": "Asafer wis sin",
+   "j3": "Asafer wis kraḍ",
+   "rome": "Asafer wis kkuẓ · ɣer Ṛuma",
+   "j5": "Asafer wis semmus · deffir tilelli"
+  }
+ }
+}
