@@ -224,6 +224,14 @@
   gtag('js', new Date());
   gtag('config', 'G-JTXXC8TYVX');
 </script>
+<!-- Microsoft Clarity (heatmaps · session insight for UX/드롭오프 진단) -->
+<script>
+  (function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", "xg81fzqlqa");
+</script>
 
 <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
 <script type="application/ld+json">
@@ -1615,6 +1623,18 @@ function openQR(){ var code=curCode||'ko'; var img=document.getElementById('qrIm
 var _gaSeen={};
 var gaObs=new IntersectionObserver(function(es){ es.forEach(function(en){ if(en.isIntersecting){ var k=en.target.getAttribute('data-ga'); if(k&&!_gaSeen[k]){ _gaSeen[k]=1; gevent('section_view',{section:k}); if(k==='respond')gevent('prayer_view'); } } }); },{threshold:.4});
 document.querySelectorAll('[data-ga]').forEach(function(el){ gaObs.observe(el); });
+
+/* FAQ 열람(어떤 반론이 마음에 걸리는지) — FAQ는 main 밖이라 document 캡처로 잡는다 */
+document.addEventListener('toggle',function(e){ var d=e.target; if(d.tagName==='DETAILS'&&d.open&&d.classList.contains('faq-item')){ var sm=d.querySelector('summary'); var q=sm&&sm.getAttribute('data-i18n'); gevent('faq_open',{q:q?q.replace('faq.',''):'?'}); } },true);
+
+/* 기도 완독(영접 퍼널의 최종 신호) — 기도문 끝(아멘)까지 보였는가 */
+(function(){ var end=document.querySelector('.prayer .amen')||document.querySelector('.prayer'); if(!end)return; var done=0; var po=new IntersectionObserver(function(es){ es.forEach(function(en){ if(en.isIntersecting&&!done){ done=1; gevent('prayer_complete'); po.disconnect(); } }); },{threshold:.6}); po.observe(end); })();
+
+/* 스크롤 깊이(복음·기도 도달 전 이탈 지점 파악) */
+(function(){ var marks=[25,50,75,90], hit={}, raf=0;
+  function chk(){ raf=0; var se=document.documentElement, h=se.scrollHeight-se.clientHeight; if(h<=0)return; var p=(se.scrollTop||document.body.scrollTop)/h*100; for(var i=0;i<marks.length;i++){ var m=marks[i]; if(p>=m&&!hit[m]){ hit[m]=1; gevent('scroll_depth',{percent:m}); } } }
+  window.addEventListener('scroll',function(){ if(!raf)raf=requestAnimationFrame(chk); },{passive:true});
+})();
 
 /* PWA 서비스워커 등록 */
 if('serviceWorker' in navigator){ window.addEventListener('load',function(){ navigator.serviceWorker.register('/sw.js').catch(function(){}); }); }
